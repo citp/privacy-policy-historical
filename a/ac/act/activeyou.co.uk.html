@@ -1,28 +1,36 @@
-<!--The following is the downloaded HTML source of the activeyou.co.uk privacy policy that was archived on 2012-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120420025016id_/http%3A//www.activeyou.co.uk/new-privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the activeyou.co.uk privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227203619id_/http%3A//new.activeyou.co.uk/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><!--[if (gte IE 9)|(gt IEMobile 7)]><!--><!--<![endif]--><head>
 <meta charset="utf-8">
-
-<title>Active You</title>
-<meta name="description" content="">
+<title>Active You - Play.Win.Save</title>
+<meta name="description" content="Enter our FREE competitions and benefit from weekly discounts &amp; savings!">
 <meta name="author" content="">
 
-<!-- http://t.co/dKP3o1e -->
+<!-- http://t.co/dKP3o1e 
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">-->
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" media="print" href="css/print.css">
+<link rel="stylesheet" href="../css/stylev2.css">
+<link rel="stylesheet" media="print" href="../css/print.css">
 
 <!--[if (lt IE 9) & (!IEMobile)]>
-<script src="js/libs/selectivizr-min.js"></script>
+<script src="../js/libs/selectivizr-min.js"></script>
 <![endif]-->
-
+<!-- Scripts -->
+<script src="//ssl.google-analytics.com/ga.js"></script><script src="../js/libs/jquery-1.6.2.min.js"></script>
+<script src="../js/plugins.js"></script>
+<script src="../js/script.js"></script>
+<script src="../js/mylibs/helper.js"></script>
+<script src="../js/signuppopup.js"></script>
+	
+<!--[if (lt IE 9) & (!IEMobile)]>
+<script src="js/libs/imgsizer.js"></script>
+<![endif]-->
 <!-- JavaScript -->
-<script src="//ssl.google-analytics.com/ga.js"></script><script src="js/libs/modernizr-2.0.6.min.js"></script>
+<script src="../js/libs/modernizr-2.0.6.min.js"></script>
 
 <!-- For iPhone 4 -->
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/h/apple-touch-icon.png">
@@ -42,68 +50,168 @@
 
 <!-- http://t.co/y1jPVnT -->
 <link rel="canonical" href="/">
-</head>
 
-<body class="group">
-	<header role="mainHead">
-		<div class="upperHead">
-			<a href="/" title="Active You" class="logo">
-				<img src="img/ayLogo.png" width="239" height="84" alt="Active You Logo">
-			</a><!-- /End .logo -->
-		<a href="http://www.activeyou.co.uk/offers/sharm-plaza/" title="Head Banner Ad" class="headBanner">
-				<img src="img/adverts/headBanner.jpg" width="728" height="90" alt="Head Banner">
-			</a>
-		</div><!-- /End .upperHead -->
-		
-		<nav class="mainNav">
-			<ul>
-				<li>
-					<a href="new-contact.php" title="Contact Us" class="btn">Contact Us <em>▶</em></a>
-				</li>
-			</ul>
-		</nav>
-	</header>
-	
+<!--<script type="text/javascript" src="http://use.typekit.com/nja4ddi.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>-->
+
+</head>
+<body class="group" style="background: url(/img/bgv3.png)">
+
+	<div id="popupContact">
+		<a id="popupContactClose" style="float: right; font-size: 14pt; font-weight: 900; margin-top: -30px; margin-right: 10px; cursor: pointer;">x</a>
+		<div style="background: #00c0ff; height: 5px;"></div>
+		<div id="popupContactLeft">
+			<img src="/img/activeyoubig.png">
+			<p style="color: #00c0ff; font-size: 10pt; width: 200px; font-weight: 600;">"I had never won anything before in my life... I can't say that anymore. I won the holiday of a lifetime to the Maldives."<br><span style="font-size: 9pt; font-weight: 300;">Harriet Roberts, 27 / Sheffield</span></p>
+			<p style="color: #333132; font-size: 8pt; margin-top: 7px; text-align:left;">*sign up to receive the <br>latest information &amp; deals</p>
+			
+		</div>
+		<div id="popupContactRight">
+			<p>Enter your email below to access<br><i>ActiveYou's</i> amazing deals!</p>
+			<form id="signupForm" action="/add-email.php" method="POST">
+				<b>Email Address:</b><br><br>
+				<input type="text" id="emailaddress" name="emailaddress" style="width: 250px;">
+				<script>
+					$(document).ready(function(){
+						$('#signup').click(function(){
+							booking_email = $('input[name=emailaddress]').val();
+							
+							
+							/*if(!$('#tandc').attr('checked')) {
+								alert("Please agree to our Terms and Conditions");
+								return false;
+							}*/
+							if(booking_email == '' || booking_email.indexOf('@') == -1 || booking_email.indexOf('.') == -1){
+								alert("Please use a valid email address.");
+								return false;
+							}else{
+								
+							}
+							
+							if(tandc.length == '' || tandc == -1) {
+								//alert("Please agree to our Terms and Conditions");
+								return false;
+							}
+							
+						})
+					})
+				</script>
+				
+				<br>
+				
+				
+				<div> 
+				<div style="float:left; margin-top:80px; width:50px; height:100px;">
+					<input name="tandc" id="tandc" value="1" type="checkbox">
+				</div>
+				
+				<div style="float:left; margin-left: 10px; width: 200px; margin-left:0px; margin-bottom:10px; text-align: center; font-size:11px;" id="tText">
+				By signing up to ActiveYou.co.uk you understand and agree to accept all the 
+				<a target="_blank" href="/terms.php?type=internal" style="color: rgb(55,146,179); text-decoration: none; font-weight: bold;" class="pink">Terms &amp; Conditions</a> and 
+				<a target="_blank" href="/privacy.php" style="color: rgb(55,146,179); text-decoration: none; font-weight: bold;" class="pink"> Privacy policy</a> issues.
+				<br><br>  
+				Please tick the box if you agree to receive information from selected 3rd parties. 
+				You can opt-out from these communications at anytime.</div>
+				
+				</div>
+				
+				<br><br>
+				<input type="submit" id="signup" value="">
+			</form>
+			
+		</div>
+		<div style="clear: both;"></div>
+	</div>
+	<div id="backgroundPopup"></div>
+	<div id="titlebar" style="width: 830px;">
+		<div id="titlebarsignup">
+			<img src="/img/signupv3.png" alt="signup" border="0">
+		</div>
+		<div id="titlebarcontact">
+			<a href="contact.php"><img src="/img/contactusv3.png" alt="ContactUs" border="0"></a>
+		</div>
+		<div style="clear: both;"></div>
+	</div>
 	<div class="homeContent group">
+		<div id="sidebar" style="margin-top: -50px; width: 210px;">
+			<div id="logoholderv3">
+				<a href="/"><img src="/img/aylogov3.jpg" alt="ActiveYou" border="0"></a>
+			</div>
+			<ul id="menuholderv3">
+				<a href="/"><li class="menuholderitemv3" style="border-radius: 5px 5px 0px 0px;">HOME</li></a>
+				<!--<a href="all-offers.php"><li class="menuholderitemv3">ALL OFFERS</li></a>-->
+				<a href="handpicked-deals.php"><li class="menuholderitemv3">HANDPICKED DEALS</li></a>
+				<a href="terms.php"><li class="menuholderitemv3">COMPETITION TERMS</li></a>
+				<a href="privacy.php"><li class="menuholderitemv3">PRIVACY POLICY</li></a>
+				<!--<a href="sponsors.php"><li class="menuholderitemv3">COMP SPONSORS</li></a>--->
+				<a href="winners.php"><li class="menuholderitemv3">COMP WINNERS</li></a>
+				<a href="safe-senders.php"><li class="menuholderitemv3">SAFE SENDERS</li></a>
+				<a href="unsubscribe.php"><li class="menuholderitemlast" style="border-radius: 0px 0px 5px 5px;">UNSUBSCRIBE</li></a>
+			</ul>
+					<!--<div id="winnerholderv3">
+				<img src="/img/compwinnerimagev3.jpg" alt="CompetitionWinner" />
+				<a href="winners.php"><img src="/img/viewmorewinnnersv3.jpg" alt="CompetitionWinnerClick" style="margin-top: -4px;" /></a>
+			</div>-->
+					<div id="winnerholderv3">
+				<a href="https://www.facebook.com/activeyou.co.uk" target="_blank"><img src="/img/fbimagev3.jpg" alt="Like Us on Facebook" style="margin-top: 5px;"></a>
+			</div>
+			<div id="winnerholderv3">
+				<img src="/img/collectstars.png" alt="Collect 4 Stars" style="margin-top: 5px;">
+			</div>
+			<!--<div id="winnerholder">
+				<a href="http://www.facebook.com/ActiveYou.co.uk?fref=ts" target="_blank" style="margin: 20px 0px 15px 20px;" ><img src="/img/AY_facebook_image.jpg" alt="Facebook" style="margin-top: 10px;"/></a>
+				<a href="http://www.facebook.com/ActiveYou.co.uk?fref=ts" target="_blank" >VISIT US ON FACEBOOK</a><img src="/img/clickicon.png" align="right" style="margin-right: 15px; margin-top: 6px;">
+			</div>-->
+		</div>
+		
 		<div role="main" class="main">
-			<h1>Privacy Policy</h1>
-			<div id="privacy">
-			<p>
-						<strong>How we use your information</strong>
-						</p>
+			<div id="main_heading">
+				<p>Enter our FREE competitions online for your chance to win! It's quick &amp; simple</p>
+			</div>
+			<div id="main_content">
+				<h1>Privacy Policy - last updated on November 30th, 2012</h1>
+				<div style="clear: both;"></div>
+				<div id="privacycontent">
+					<div class="privacyheading" id="howweuse">HOW WE USE YOUR INFORMATION</div>
+					<div class="privacycontent" id="howweusecontent">
 						<p>ActiveYou.co.uk takes seriously the security of the personal information that you provide and takes every reasonable precaution to ensure that your information is used only in ways that you expect.</p>
-						<p>ActiveYou.co.uk is owned and operated by Attinger Jack Interactive Ltd, 15 Gay Street Bath, BA1 2PH. Attinger Jack Interactive Ltd is registered under the Data Protection Act 1998 under registration number Z9842529 and operates in accordance with this law and The Privacy and Electronic Communications (EC Directive) Regulations 2003.</p>
-						<p>
-						<strong>Your personal information</strong>
-						</p>
-						<p>When you participate in a competition or offer we typically collect your name, address, telephone number, email address and date of birth. Sometimes other information may be collected which usually relates to the offer in which you participate. The information is collected so that we can fulfill the service we are providing to you which includes passing your information to the Partner providing the information and/or competition in which you are interested. Also you are giving your permission for us to share your information with third parties who provide products or services which we think will be of interest to you.</p>
-						<p>
-						When you participate in a competition and/or enquire about an offer you are agreeing to receive promotional offers from ActiveYou.co.uk, the partner company sponsoring the competition/offer and possibly third parties based in the UK, EEA, USA or Canada. These promotional offers could be sent to you by email, in the post, by telephone or by text message.
-						<br>
+						<p>ActiveYou.co.uk is owned and operated by digitalbox Limited, 15 Gay Street Bath, BA1 2PH. digitalbox Limited is registered under the Data Protection Act 1998 under registration number Z9842529 and operates in accordance with this law and The Privacy and Electronic Communications (EC Directive) Regulations 2003. </p>
+					</div>
+					
+					<div class="privacyheading" id="yourpersonalinfo">YOUR PERSONAL INFORMATION</div>
+					<div class="privacycontent" id="yourpersonalinfocontent">
+						<p>When you participate in a competition or offer we typically collect your name, address, telephone number, email address and date of birth. Sometimes other information may be collected which usually relates to the offer in which you participate. The information is collected so that we can fulfill the service we are providing to you which includes passing your information to the Partner providing the information and/or competition in which you are interested. Also you are giving your permission for us to share your information with third parties who provide products or services which we think will be of interest to you, which may be unrelated to the offerings on this Site.</p>
+						<br><p>
+						When you participate in a competition and/or enquire about an offer you are agreeing to receive promotional offers from ActiveYou.co.uk, the partner company sponsoring the competition/offer and possibly third parties based in the UK, EEA, USA or Canada. These promotional offers could be sent to you by email, in the post, by telephone or by text message. Please be aware that these countries have less stringent data security standards than those of the UK, and that by signing up on this site you are agreeing to the transfer of your information to those countries. 
+						<br><br>
 						If you would prefer not to receive promotions in the future, you can unsubscribe at any time. Please see how to unsubscribe below.
-						</p>
+						</p><br>
 						<p>Some ActiveYou.co.uk competitions have specific terms and conditions relating to how your data is used and it is advisable to read and understand this information. If you have responded to ActiveYou.co.uk competitions or offers through third party partner site, it is possible that the third party may also hold your information and will be using it to make you offers.</p>
-						<p>Attinger Jack Interactive Ltd reserves the right to transfer or sell your personal information to companies who are affiliated with Attinger Jack Interactive Ltd; this is at our sole discretion. If Attinger Jack Interactive Ltd changes ownership through a merger or sale, it reserves the right to transfer or assign the right to use your Personal Information collected from ActiveYou.co.uk </p>
-						<p>
-						<strong>Security of your information</strong>
-						</p>
-						<p>The information that you provide to ActiveYou.co.uk, is held by both ActiveYou.co.uk and the Partners sponsoring the competition or offer. ActiveYou.co.uk holds your information in a central database and this database is used to identify your interests and/or your demographics so that ActiveYou.co.uk and our Partners can provide you with information and offers that may interest you. Your information is at all times under the control of ActiveYou.co.uk although specialist third party suppliers may carry out the fulfillment to send the offers to you.</p>
-						<p>
-						<strong>How to unsubscribe</strong>
-						</p>
-						<p>You can unsubscribe from ActiveYou.co.uk at any time by emailing unsubscribe@ActiveYou.co.uk If you unsubscribe your information will be placed in a suppression file and you will not receive any further marketing communications from ActiveYou.co.uk. If you need to contact ActiveYou.co.uk regarding an unsubscribe request you can do this by emailing unsubscribe@ActiveYou.co.uk or writing to us at 15 Gay Street Bath, BA1 2PH.</p>
-						<p>
-						<strong>Cookies</strong>
-						</p>
+						<br><p>digitalbox Limited reserves the right to transfer or sell your personal information to companies who are affiliated with digitalbox Limited; this is at our sole discretion. If digitalbox Limited changes ownership through a merger or sale, it reserves the right to transfer or assign the right to use your Personal Information collected from ActiveYou.co.uk</p>
+					</div>
+						
+					<div class="privacyheading" id="securityofyourinfo">SECURITY OF YOUR INFORMATION</div>
+					<div class="privacycontent" id="securityofyourinfocontent">
+						<p>The information that you provide to ActiveYou.co.uk, is held by both ActiveYou.co.uk and the Partners sponsoring the competition or offer. ActiveYou.co.uk holds your information in a central database and this database is used to identify your interests and/or your demographics so that ActiveYou.co.uk and our Partners can provide you with information and offers that may interest you. Your information is at all times under the control of ActiveYou.co.uk although specialist third party suppliers may carry out the fulfillment to send the offers to you.  When your information is shared with our third party partners for promotional purposes, it is no longer governed by this privacy policy; it is governed by the policy of the partner site. </p>
+					</div>
+					
+					<div class="privacyheading" id="howtounsubscribe">HOW TO UNSUBSCRIBE</div>
+					<div class="privacycontent" id="howtounsubscribecontent">
+						<p>You can unsubscribe from ActiveYou.co.uk at any time by emailing dataprotection@digitalbox.com If you unsubscribe your information will be placed in a suppression file and you will not receive any further marketing communications from ActiveYou.co.uk. If you need to contact ActiveYou.co.uk regarding an unsubscribe request you can do this by emailing unsubscribe@ActiveYou.co.uk or writing to us at 15 Gay Street Bath, BA1 2PH.  To unsubscribe from offers from third party partners, please follow the instructions contained in the promotional material that they send you.</p>
+					</div>
+					
+					<div class="privacyheading" id="cookies">COOKIES</div>
+					<div class="privacycontent" id="cookiescontent">
 						<p>
 						A cookie is small text-only file which is stored on your computer when visiting a site that records preferences for that particular site's usage. ActiveYou.co.uk uses cookies solely to enable us to identify you when you return to the ActiveYou.co.uk web site, therefore enabling us to show you offers which will be appropriate to you and your interests, gathered from your registration details. For more information about cookies we recommend you visit
 						<a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a>
 						.
-						</p>
+						</p><br>
 						<p>The cookie will not allow a website to learn any personally identifiable information (such as your name and address) that you have not otherwise given to us. The cookie will also not track where you go when you leave ActiveYou.co.uk.co.uk or where you came to our website from. Its only purpose is to make your visit to ActiveYou.co.uk easier and more rewarding for you. The use of cookies in ActiveYou.co.uk means that you do not have to enter information such as your log in name and password every time you visit the site, resulting in an improved login experience.</p>
-						<p>
-						<strong>Useful information</strong>
-						</p>
+					</div>
+					
+					<div class="privacyheading" id="usefulinformation">USEFUL INFORMATION</div>
+					<div class="privacycontent" id="usefulinformationcontent">
 						<p>For useful information about data protection you can visit:</p>
 						<ul>
 						<li>
@@ -116,84 +224,92 @@
 						<strong>The Citizens Advice Bureau; www.adviceguide.org.uk</strong>
 						</li>
 						</ul>
-						<p>
-						<strong>Changes to this statement</strong>
-						</p>
-						<p>How we use your data is kept under regular review and changes are published on this page. This page was last updated on the date shown below.</p>
-						<p>
-						<strong>Access to your information</strong>
-						</p>
+					</div>
+					
+					<div class="privacyheading" id="changestothisstatement">CHANGES TO THIS STATEMENT</div>
+					<div class="privacycontent" id="changestothisstatementcontent">
+						<p>How we use your data is kept under regular review and changes are published on this page. This page was last updated on the date shown above.</p>
+					</div>
+					
+					<div class="privacyheading" id="accessyourinformation">ACCESS YOUR INFORMATION</div>
+					<div class="privacycontent" id="accessyourinformationcontent">
 						<p>You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your information please email or write to us at the addresses below. Also you may ask us to correct information that you think is incorrect. We may make a small charge for these services.</p>
-						<p>
-						<strong>How to contact us</strong>
-						</p>
+					</div>
+					
+					<div class="privacyheading" id="sponsors">SPONSORS</div>
+					<div class="privacycontent" id="sponsorscontent">
+						<p>Below is a list of our data sponsors as of 09.10.12.</p>
+						<br>Marketing Craze<br>Talk Talk
+						<p></p>
+						<br>
+						<p>For more information please contact us at <a href="mailto:hello@digitalbox.com">hello@digitalbox.com</a></p>
+					</div>
+					
+					<div class="privacyheading" id="sponsorstc">SPONSORS TERMS &amp; CONDITIONS</div>
+					<div class="privacycontent" id="sponsorstccontent">
+						<p>Marketing Craze - Lotto By Text:</p>
+						<br>
+						<p>To enter the offer reply YES to the text message to get your 5 FREE lines PLUS WIN £300 in our Monthly Sweepstake when you stay with us for 4 consecutive weeks. Your mobile number is entry proof.</p>
+						<br>
+						<p>Trial - keep the same 5 Free Lines for every Wed, Fri &amp; Sat draws &amp; play for just £4.50 per week for the Lotto results. To end the subscription at anytime text STOP to 87770 or call 0207 081 0976.</p>
+					</div>
+					
+					<div class="privacyheading" id="howtocontactus">HOW TO CONTACT US</div>
+					<div class="privacycontent" id="howtocontactuscontent">
 						<p>
 						If you have questions regarding this statement, please contact ActiveYou.co.uk at: ActiveYou.co.uk 15 Gay Street Bath, BA1 2PH. Or by emailing us at<br>
 						<a href="mailto:digital@ajinteractive.co.uk?subject=privacy%20question">
-						<strong>digital@ajinteractive.co.uk</strong>
-						</a>
+						<strong>hello@digitalbox.com</strong>
+						</a><br>
+						To call us please phone 0044 1225 787 151
 						</p>
-			</div><!-- /end privacy -->
+					</div>
+				</div>
+			</div>
 		</div><!-- /End main -->
-		
-		<div role="complementary">
-			<div class="weatherWidget">
-				<table width="98%" border="0" cellspacing="0" cellpadding="2">
-					<tbody>
-						<tr>
-							<td valign="top" align="right"><img src="http://google.com//ig/images/weather/cloudy.gif" alt="Weather" title="Weather Info by Google"></td>
-							<td valign="top" align="left">
-								<strong>London</strong>
-								<br>
-								<strong>High :<font color="#F0376B">2.2<sup>o</sup> C</font></strong>, Low -2.8<sup>o</sup> C
-							</td>
-						</tr>
-					 <!-- <tr>
-							<td colspan="2" valign="top" align="center">
-								<a href="#">Where You Live</a>
-							</td>
-						</tr>-->
-					</tbody>
-				</table>
-			</div><!-- /End .weatherWidget -->
-				<a href="http://www.activeyou.co.uk/offers/coast/" target="_blank" title="Offer"><img src="/img/sidebar.jpg"></a>
-		</div><!-- /End complementary -->
-	</div><!-- /End .homeContent -->
-	
-	<footer role="homeMainFoot" class="group">
-		<div class="footPrime">
-			<p>Active You is a trading style of Attinger Jack Interactive Ltd. Copyright © 2012 Active You. Registered in England &amp; Wales. Registered Number: 59800585. Registered Address: 1 Abacus House, Newlands Road. Corsham. SN13 0BH.</p>
-			<ul>
-				<li>
-					<a href="new-privacy.php" title="Privacy Policy">Privacy Policy</a>
-				</li>
-				<li>
-					<a href="new-terms.php" title="Terms">Terms</a>
-				</li>
-				<li>
-					<a href="new-contact.php" title="Contact Us">Contact Us</a>
-				</li>
-			</ul>
-		</div><!-- /End .footPrime -->
-		<div class="trustLogoBox">
-			<a href="" title="Dma Member">
-				<img src="img/dma-logo.png" class="dma" width="61" height="75" alt="We are a dma member">
-			</a>
-			<a href="" title="Anti Spam">
-				<img src="img/no-spam.png" width="111" height="44" alt="We are compliant with European anti-spam law">
-			</a>	
-		</div><!-- /End .trustLogoBox -->
-	</footer>
-	
-	<!-- Scripts -->
-	<script src="js/libs/jquery-1.6.2.min.js"></script>
-	<script src="js/plugins.js"></script>
-	<script src="js/script.js"></script>
-	<script src="js/mylibs/helper.js"></script>
-	
-	<!--[if (lt IE 9) & (!IEMobile)]>
-	<script src="js/libs/imgsizer.js"></script>
-	<![endif]-->
+
+<div style="clear: both;"></div>
+		<div id="homepage_footer">
+			<div id="logos_footer">
+				<img src="/img/footerlogos.png" alt="">
+			</div>
+			<div id="homepage_footer_left">
+				<p>Active You is a trading style of digitalbox Limited. Enter the Active You competitions and promotions online to win amazing prizes, receive great deals and to save some money. *it's free to join Active You, and it's free to enter Active You's own competitions and prize draws. Some third party promotions may feature premium rate entry.</p>
+			</div>
+			<div id="homepage_footer_middle">
+				<p><a href="http://new.activeyou.co.uk/privacy.php">PRIVACY POLICY</a></p>
+				<p><a href="http://new.activeyou.co.uk/terms.php">COMPETITION TERMS</a></p>
+				<p><a href="http://new.activeyou.co.uk/anti-spam.php">ANTI SPAM POLICY</a></p>
+				<p><a href="contact.php">CONTACT US</a></p>
+			</div>
+			<div id="homepage_footer_right">
+				<a href="http://www.dma.org.uk/"><img src="/img/dmalogo.jpg" alt="dma" style="margin-top: 10px;"></a>
+				<a href="http://www.ico.gov.uk/"><img src="/img/icologo.png" alt="dma"></a>
+				<a href="http://www.iabuk.net/"><img src="/img/iablogo.jpg" alt="dma"></a>
+				<img src="/img/antispamlogo.jpg" alt="dma">
+			</div>
+			<div style="clear:both;"></div>
+		</div>
+		<div id="footer_bottom">
+			<a href="http://www.digitalbox.com"><img src="/img/dblogo.png" alt="Digitalbox logo" align="left"></a><p> © 2012 ActiveYou.co.uk. All Rights Reserved. Operated by digitalbox Ltd. Company No. 05980058.</p>
+		</div>
+		<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1005654502;
+var google_conversion_label = "9doUCLrpgwQQ5qPE3wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1005654502/?value=0&amp;label=9doUCLrpgwQQ5qPE3wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>	
 	
 	<script>
 	// iOS scale bug fix
@@ -202,9 +318,38 @@
 	// Respond.js
 	yepnope({
 		test : Modernizr.mq('(only all)'),
-		nope : ['js/libs/respond.min.js']
+		nope : ['../js/libs/respond.min.js']
 	});
+	// Switch top competitions and all competitions
+	$(document).ready(function(){
+		$('.privacyheading').click(function(){
+			toopen = $(this).attr('id');
+			$('.privacycontent').slideUp('slow')
+			$('#'+toopen+'content').slideDown('slow')
+		});
+		$('#contact_submit').click(function(){
+			type = $(this).attr('id');
+			first_name = $('#first-name').val();
+			surname = $('#surname').val();
+			email = $('#email').val();
+			tel = $('#tel').val();
+			comment = $('#comment').val();
+			
+			$.ajax({
+				type: 'POST',
+				url: '/mail.php',
+				data: 'first-name='+first_name+'&surname='+surname+'&email='+email+'&tel='+tel+'&comment='+comment,
+				success: function(data){
+					$('#contact-form').html('<p style="font-size: 12pt;">Thankyou for your enquiry,<br /> a member of our team will get back to you as soon as possible.</p>');
+					$('#popupContact').css('height' , '100px');
+				}
+			});
+			return false;
+		});
+	});
+	
 	</script>
+	
 	
 	<!-- http://mths.be/aab -->
 	<script>
@@ -214,4 +359,4 @@
 
 
 
-</body></html>
+</div></body></html>
