@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencastsecrets.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203955id_/http%3A//screencastsecrets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencastsecrets.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227025819id_/http%3A//screencastsecrets.com/privacy-policy) for the most accurate reproduction.*
 
 # Camtasia Training : Screenflow Training : PowerPoint Videos : Keynote Videos : ScreencastSecrets.com
 
@@ -88,9 +88,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-6435 W. Jefferson Blvd. #137  
-Fort Wayne, IN 46804  
-United States  
+  
 or [contact form here](http://screencastsecrets.com/contact/)
 
 Privacy Policy Customer Pledge
