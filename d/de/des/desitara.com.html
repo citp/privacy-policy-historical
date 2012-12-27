@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the desitara.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511023349id_/http%3A//www.desitara.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the desitara.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227011019id_/http%3A//www.desitara.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link href="http://images.desitara.com/css_v3/img/default/favicon.ico" type="icon" rel="icon"><link href="http://images.desitara.com/css_v3/img/default/favicon.ico" type="icon" rel="shortcut icon"><title>Privacy Policy | Desitara</title>
 <meta name="description" content="Privacy Policy">
 <meta name="keywords" content="Privacy Policy">
 
-<meta name="alexaVerifyID" content="uXEN6S4pJ8wjVGmtjDuHGzB5oYk">
+<meta name="alexaVerifyID" content="XsDR0lQyJSck3cmeqbRU_xcjBiU">
 <meta property="fb:app_id" content="307498699284906">
 <!-- meta for search purpose start -->
 <!-- meta for search purpose end -->
@@ -41,12 +41,12 @@ dt(document).ready(function(){
 		whole_word:false
 	});
 });
-//var serverTime = '1336703630';
+//var serverTime = '1356570619';
 dt.loadingMessage = '<p><img src="http://images.desitara.com/css_v3/img/common/loader_black_bg.gif"/>Loading...</p>';
 </script>
 <cake:nocache>
 <script>
-var serverTime = '1336703630';
+var serverTime = '1356570619';
 </script>
 </cake:nocache>
 <script>
@@ -56,8 +56,6 @@ var menu_array = {};
 var menu_count_array = {};
 function setsrchtype(typevalue,typekey, searchDefaultValue, engtypes)
 {
-	if(engtypes == 'Blogs')
-		engtypes = 'Wpblogs';
 	document.getElementById('toptype').value = engtypes;
 	if((document.topstartsearch.topterm.value == searchDefaultValue)||(document.topstartsearch.topterm.value == '')){
 		document.topstartsearch.topterm.value = '';
@@ -103,7 +101,37 @@ function isSafari(){
      e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
      document.getElementById('fb-root').appendChild(e);
    }());
+function fblogin() {
+  FB.login(function(response) {
+	if(response.session) {
+	    if (response.perms) {
+	    	window.location = "http://www.desitara.com/users/fblogin";
+	    } else {
+	      // user is logged in, but did not grant any permissions --- dont do anything
+	    }
+	}else {
+			FB.getLoginStatus(function(response) {
+			  if (response.status === 'connected') {
+			    // the user is logged in and connected to your app, and response.authResponse supplies the user's ID, a valid access token, a signed request, and the time the access token and signed request each expire
+			    var uid = response.authResponse.userID;
+			    var accessToken = response.authResponse.accessToken;
+			    window.location = "http://www.facebook.com/dialog/oauth?client_id=307498699284906&redirect_uri=http%3A%2F%2Fwww.desitara.com%2Fusers%2Ffblogin";
+			  } else if (response.status === 'not_authorized') {
+			    // the user is logged in to Facebook, but not connected to the app
+			  } else {
+			    // the user isn't even logged in to Facebook.
+			  }
+		});
+	    // user is not logged in
+	}
+	}, {scope:'email,user_birthday,user_about_me,user_events,user_groups,user_hometown,user_location,publish_stream'});
+  }
+  function chkfblogin(){
+		 fblogin();
+		dt.loginDialog.hide();
+	}
 </script>
+
 <!-- top header ad -->
 <div class="v4_topadv">
 </div>
@@ -111,7 +139,7 @@ function isSafari(){
 <div class="clsIndexBody">
   <!--googleoff: all-->
 <cake:nocache>
-	    <textarea style="display:none" id="user_data">    {"Config":{"userAgent":"b53833c9a3613d16da372e3ad9881046","time":1336730629,"timeout":10},"new_version":"1","User":{"id":0,"user_name":""}}    </textarea>
+	    <textarea style="display:none" id="user_data">    {"Config":{"userAgent":"99a5d0ecca3198bdf550595aed087714","time":1356597618,"timeout":10},"new_version":"1","User":{"id":0,"user_name":""},"current_page":"http:\/\/www.desitara.com\/privacypolicy"}    </textarea>
 </cake:nocache>
 <!--googleon: all-->
 <script>
@@ -143,7 +171,7 @@ if (dt("#flashMessage")){
 		range: dt.format("Please enter a value between {0} and {1}."),
 		max: dt.format("Please enter a value less than or equal to {0}."),
 		min: dt.format("Please enter a value greater than or equal to {0}."),
-		phone: "Please enter a valid phone number"
+		phone: "Please enter a valid contact number"
 		
 	} 
  }
@@ -170,9 +198,9 @@ if (dt("#flashMessage")){
 	};
  }
 	dt.boxy_label = {};
-	dt.boxy_label.okText = "Boxy.Ok";
-	dt.boxy_label.cancelText = "Boxy.Cancel";
-	dt.boxy_label.confirmText = "Boxy.Confirm";
+	dt.boxy_label.okText = "Ok";
+	dt.boxy_label.cancelText = "Cancel";
+	dt.boxy_label.confirmText = "Please confirm:";
 
 });
 </script>
@@ -188,17 +216,18 @@ if (dt("#flashMessage")){
 <div class="clsContentArea" id="login_boxy_box" style="display:none;">
 <div class="clsSignInHead">
 <h1>Sign In</h1>
+<a href="javascript:void(0);" onclick="chkfblogin();return false;"><img src="http://images.desitara.com/css_v3/img/default/v4facebook_login.jpg"></a>
 </div>
 <form id="UserLoginForm" method="post" action="/users/login"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset><table class="clsSignInTable">
 <tbody><tr>
-<td>e_email&nbsp;or&nbsp;username</td>
+<td>Email&nbsp;or&nbsp;Username</td>
 <td class="clsSignInInput"><input type="text" id="Useruser_name_dt" value="" name="data[User][user_name]"></td>
 </tr>
 <tr>
-<td>password</td>
+<td>Password</td>
 <td class="clsSignInInput"><input type="password" id="UserPassword_dt" value="" name="data[User][password]"></td>
 </tr>
-<tr><td>&nbsp;</td><td class="clsSignInForget forgotpass"><a href="/users/forgotpassword">forgot password</a></td></tr>
+<tr><td>&nbsp;</td><td class="clsSignInForget forgotpass"><a href="/users/forgotpassword">Forgot Password?</a></td></tr>
 <tr>
 <td>&nbsp;</td>
 <td class="clsSignInForget">
@@ -208,8 +237,9 @@ if (dt("#flashMessage")){
 </tbody></table>
 <input type="hidden" id="next_url" name="next_url" value="">
 <input type="hidden" id="from_contest" name="from_contest" value="">
+<input type="hidden" id="from_header" name="from_header" value="">
 </form><p class="clsRememberSignIn">
-	menu_Not a member?    <span class="clsSignInJoin"><a href="/users/signup">Join Now</a> </span>
+	Not a member?    <span class="clsSignInJoin"><a href="/users/signup">Join Now</a> </span>
 </p>
 </div>
 </div>
@@ -285,13 +315,13 @@ function fblogin() {
           <div class="search clear">
             <!-- menu -->
               <ul class="menu">
-      <li>      <a class="clear" href="/talent"><span>menu_TALENT</span>
+      <li>      <a class="clear" href="/talent"><span>TALENT</span>
             </a>
-      </li>      <li class="seperator">&nbsp;</li>                         <li>      <a class="clear" href="/talent/contest"><span>menu_CONTESTS</span>
+      </li>      <li class="seperator">&nbsp;</li>                         <li>      <a class="clear" href="/talent/contest"><span>CONTESTS</span>
             </a>
-      </li>            <li id="lft_separator" class="lft seperator">&nbsp;</li>                   <li><p id="droplist" class="moredropdown">       <a class="clear" href="javascript: void(0);"><span>menu_COMMUNITY</span>
+      </li>            <li id="lft_separator" class="lft seperator">&nbsp;</li>                   <li><p id="droplist" class="moredropdown">       <a class="clear" href="javascript: void(0);"><span>COMMUNITY</span>
       <span class="arrow">&nbsp;</span>       </a>
-      </p></li>                  <li id="rgt_separator" class="rgt seperator">&nbsp;</li>             <li>      <a class="clear" href="/users/upload" id="mainmenu_upload"><span>menu_UPLOAD</span>
+      </p></li>                  <li id="rgt_separator" class="rgt seperator">&nbsp;</li>             <li>      <a class="clear" href="/users/upload" id="mainmenu_upload"><span>UPLOAD</span>
             </a>
       </li>                         </ul>
 
@@ -331,7 +361,7 @@ dt(document).ready(function() {
         </li>
         <li>
           <p><a href="/groups">Groups</a></p>
-          <p><a target="_blank" href="http://blogs.desitara.com/">Blogs</a></p>
+          <p><a href="http://blogs.desitara.com/">Blogs</a></p>
           <!--<p><a href="#">College Groups</a></p>
           <p><a href="#">Clubbing Groups</a></p>-->
         </li>
@@ -344,7 +374,6 @@ dt(document).ready(function() {
         <li>
           <!-- <p><a href="#">Poll</a></p>
           <p><a href="#">Talent Jobs</a></p> -->
-          <p><a href="/videos/channel">Channels</a></p>
           <p><a href="/aboutus">About Us</a></p>
           <p><a href="/contactus">Contact Us</a></p>
         </li>
@@ -353,7 +382,7 @@ dt(document).ready(function() {
           <p><a href="#">Lyrics</a></p>
           <p><a href="#">Help</a></p>-->
           <p><a href="/advertise">Advertise</a></p>
-          <p><a href="/jobs">Jobs</a></p>
+         <p><a href="/jobs">Jobs</a></p>
           <p><a href="/press">Press</a></p>
         </li>
       </ul>
@@ -366,6 +395,8 @@ dt(document).ready(function() {
 		})
 		dt('.moredropdown').click(function (event){
 		dt("body").unbind("click");
+		dt('.messagecount').removeClass("messagenameactive");
+		dt("#mymessage").hide();
 	if(dt("#dropcontent").css('display') == 'none') {
 		dt('#droplist').addClass("moredropactive");
 		dt("#dropcontent").css('display','block');
@@ -465,7 +496,7 @@ function fblogin() {
 <div class="commoncontainer" style="margin:0;">
 
 <div id="staticpages_view" class="contentbar">
-<cake:nocache> <!--googleon: all--><!--<div style="display:none;" id="desistat">101c3d6f46e4ad94bd46263c486675d3</div>--><!--googleon: all--> </cake:nocache>
+<cake:nocache> <!--googleon: all--><!--<div style="display:none;" id="desistat">4e52e3995f4212ff52496cc344364946</div>--><!--googleon: all--> </cake:nocache>
 <!-- start of sidebar -->
         <!-- end of sidebar -->
         <cake:nocache>
@@ -535,37 +566,38 @@ function fblogin() {
         <a href="/management">MANAGEMENT</a>
         </li>        
         <li class="contacticon">
-        <a href="/contactus"> menu_CONTACTUS</a>
+        <a href="/contactus"> Contact Us</a>
         </li>
         <li class="advertiseicon">
-        <a href="/advertise"> menu_ADVERTISE</a>
+        <a href="/advertise"> Advertise</a>
         </li>
         <li class="pressicon">
-        <a href="/press"> menu_PRESS</a>
+        <a href="/press"> Press</a>
         </li>
         <li class="jobsicon">
-        <a href="/jobs"> menu_JOBS</a>
+        <a href="/careers"> CAREERS</a>
         </li>
         <li class="policyicon">
-        <a href="/privacypolicy" class="nav_bar_select"> menu_PRIVACY POLICY</a>
+        <a href="/privacypolicy" class="nav_bar_select"> Privacy Policy</a>
         </li>
         <li class="termsicon">
-        <a href="/termsofuse"> menu_TERMS OF USE</a>
+        <a href="/termsofuse"> Terms Of Use</a>
         </li>
         <li class="faqicon">
-        <a href="/faq"> menu_FAQ</a>
+        <a href="/faq"> FAQ</a>
         </li>
         <li class="linksicon">
-        <a href="/links"> menu_LINKS</a>
+        <a href="/links"> Links</a>
         </li>
         <!--<li> <a href=""> </a></li>-->
         <li class="downloadicon">
-        <a href="/downloads"> menu_DOWNLOADS</a>
+        <a href="/downloads"> Downloads</a>
         </li>
     </ul>
 </div>        <!-- ledger board banner -->
         <div align="center" class="clsBottomAdvertisement">
-                  </div>
+          <!--< ?php	//if(($this->params['controller'] != 'competitions') && ($this->params['action'] != 'competitionvideos') && ($this->params['action'] != 'contest') ) 	echo $ads->showads('footer') ?> -->
+        </div>
         <!-- ledger board banner -->
         <!-- end of BottomContent -->
       </div>
@@ -618,23 +650,22 @@ function googleTranslateElementInit() {
  <!-- footermenu -->
       <div id="footermenu_widget">
         <ul>
-<li class="item"><a href="/">Desitara</a><ul><li class="item sub123"><a href="/aboutus">About Us</a></li><li class="item sub123"><a href="/contactus">Contact Us</a></li><li class="item sub123"><a href="/advertise">Advertise</a></li><li class="item sub123"><a href="/jobs">Jobs</a></li><li class="item sub123"><a href="/press">Press</a></li></ul></li><li class="footerseparator">&nbsp;</li><li class="item"><a href="/talent">Videos</a><ul><li class="item sub123"><a href="/videos/talent">Talent</a></li><li class="item sub123"><a href="/videos/channel">Channel</a></li><li class="item sub123"><a href="/videos/contest">Contests</a></li></ul></li><li class="footerseparator">&nbsp;</li><li class="item"><a href="/photos">Photos</a><ul><li class="item sub123"><a href="/photos">All Photos</a></li></ul></li><li class="footerseparator">&nbsp;</li><li class="item"><a href="javascript: void(0);">Community</a><ul><li class="item sub123"><a href="/users">Members</a></li><li class="item sub123"><a href="/groups">Groups</a></li><li class="item sub123"><a href="/events">Events</a></li></ul></li><li class="footerseparator">&nbsp;</li><li class="item"><a href="javascript: void(0);">Help Center</a><ul><li class="item sub123"><a href="/privacypolicy">Privacy Policy</a></li><li class="item sub123"><a href="/termsofuse">Terms Of Use</a></li><li class="item sub123"><a href="/faq">FAQ</a></li><li class="item sub123"><a href="/links">Links</a></li></ul></li></ul>
+<li class="item"><a href="/">Desitara</a><ul><li class="item sub123"><a href="/aboutus">About Us</a></li><li class="item sub123"><a href="/contactus">Contact Us</a></li><li class="item sub123"><a href="/advertise">Advertise</a></li><li class="item sub123"><a href="/careers">Careers</a></li><li class="item sub123"><a href="/press">Press</a></li></ul></li><li class="footerseparator">&nbsp;</li><li class="item"><a href="/talent">Videos</a><ul><li class="item sub123"><a href="/videos/talent/recent/">Talent</a></li><li class="item sub123"><a href="/videos/contest/recent/">Contests</a></li></ul></li><li class="footerseparator">&nbsp;</li><li class="item"><a href="/photos">Photos</a><ul><li class="item sub123"><a href="/photos">All Photos</a></li></ul></li><li class="footerseparator">&nbsp;</li><li class="item"><a href="javascript: void(0);">Community</a><ul><li class="item sub123"><a href="/users">Members</a></li><li class="item sub123"><a href="/groups">Groups</a></li><li class="item sub123"><a href="/events">Events</a></li></ul></li><li class="footerseparator">&nbsp;</li><li class="item"><a href="javascript: void(0);">Help Center</a><ul><li class="item sub123"><a href="/privacypolicy">Privacy Policy</a></li><li class="item sub123"><a href="/termsofuse">Terms of Use</a></li><li class="item sub123"><a href="/faq">Faq</a></li><li class="item sub123"><a href="/links">Links</a></li></ul></li></ul>
       </div>
       <!-- end of footermenu -->
       </div>
 
      <div class="copyright clear">
-	    <span>© 2012 </span><a target="_blank" href="http://www.connectfilms.com">ConnectFilmsMedia</a><a class="ourgroup" target="_blank" href="http://www.sladgroup.com">S.Lad Group</a>
+	    <span>© 2012 </span><a target="_blank" href="http://www.connectfilms.com">ConnectFilmsMedia</a><p style="display:none">
+ <script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/s/a?url=www.desitara.com">&nbsp;</script> 
+</p>
 </div>
 </div></div>
 <div class="footerbottom">
 <p>Our Companies</p>
 <ul class="clear">
-<li class="sladgroup"><a target="_blank" href="http://www.sladgroup.com/"></a></li>
-<li class="slad"><a target="_blank" href="http://www.sladentertainment.com/"></a></li>
 <li class="cfml"><a target="_blank" href="http://www.connectfilms.com/"></a></li>
 <li class="connectdigital"><a target="_blank" href="http://www.connectdigitalmedia.co.uk/"></a></li>
-<!-- <li class="mediaone"><a target="_blank" href="http://www.mediaoneglobal.in/"></a></li> -->
 </ul>
 </div>
 </div>
@@ -669,21 +700,21 @@ dt(document).ready(function() {
    cache: false
  });
 
-	var options = dt.extend({title: "Desitara",show:false,draggable:true,closeable:true,center:true,modal:true}, options || {});
+	var options = dt.extend({title: "Desitara",show:false,draggable:true,closeable:true,center:true,modal:true,fromHeader:true}, options || {});
 	dt.loginDialog = new Boxy(dt.loadingMessage, options);
 
 	var friendoptions = dt.extend({title: "Desitara",show:false,draggable:false,closeable:true,center:true,modal:true}, friendoptions || {});
 	dt.friendDialog = new Boxy(dt.loadingMessage, friendoptions); 	
 	
 	dt('.cls_Login').click(function(){
-		dt.loginDialog.setContent(dt.loadingMessage)
+		dt.loginDialog.setContent(dt.loadingMessage);
+		if(options.fromHeader == true){ 
+			dt('#from_header').val('yes');
+		}
 		dt.loginDialog.show();
-		//dt.loginDialog.setContent(dt.loginboxContent);		
-		//dt.loginDialog.center();
 		dt.callLogin();
 		return false;
 	});
-
 
  dt('#dtlogo_span').mouseover(function(){
  	dt('#dtlogo_spanhover').fadeTo("slow", 0.8);
