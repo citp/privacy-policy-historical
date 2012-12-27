@@ -1,37 +1,55 @@
-> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411235448id_/http%3A//mlmrehab.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmrehab.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227080414id_/http%3A//mlmrehab.com/privacy-policy) for the most accurate reproduction.*
 
-# MLM Rehab.com - Real-time T1 Price Software
+# PRIVACY POLICY - MLMRehab.com
 
-Below is a list of the information collected by this website, with it's intended purpose. 
+Thank you for reviewing K2 Global Marketing’s privacy policy. This site is owned and operated by K2 Global Marketing Inc., a South Carolina Corporation (Hereinafter referred to as “K2 Global”, “We”, “Our” or “Us”).
 
-Registration: Registration is simply a way to enhance customer interaction within our network of partnered sites. The only information this site collects is 1-your email address (if you sign up for our newsletter) and/or 2-the first six digits of your phone number, which will help us customize our presentation to better serve your needs. Your email address will be stored in our servers and accessed only to send you the email newsletter. The first six digits of your phone number - used exclusively in our Best Rate Calculator - are stored in a browser cookie, and will be utilized to hold data for the user’s next visit to this site. If you subscribe to our newsletter, you will be emailed a weekly publication directly from the Dollar Stretcher - the authors of our newsletter. Users who no longer wish to receive our newsletter or promotional materials from MLM Rehab.com may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email. 
+Privacy Policy:
 
-Customer Service: Our customer service page will require ONLY your name, email address, and phone number. This information is required to research your request and to reply with an answer to your inquiry. Your information is entered into a database housed on our server to ensure that your inquiry is tracked and answered in a timely fashion. We also use this data to re-open trouble tickets that were entered in the past. 
+What information does K2 Global collect from our users and how do we collect it?
 
-Refer-A-Friend: The refer-a-friend feature of this site allows you to send an email announcement to your friends, family, and associates. This email will suggest and encourage the recipients to visit this website and to sign up for our discounted product offerings. The email addresses you enter are not stored anywhere and are discarded once the original email is sent. 
+K2 Global only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. K2 Global collects personally identifying information from our users during online registration and online purchasing.
 
-Order Forms: When you find a product you wish to order, we will send you directly to a third party site managed and maintained by the corresponding product vendor. Here you are requested for contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, this contact information is used to get in touch with you. Though the order forms are not hosted or maintained by MLM Rehab.com directly or covered by our privacy s tatement, we have carefully screened each one for security and have deemed them safe, as each order form is protected with 128-bit Verisign encryption. 
+Generally, this information includes, name, phone number and e-mail address for registration to receive free newsletters and name, postal address and credit card information when purchasing our products. All of this information is provided to us by you.
 
-Cookies: A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, you will not have to log in a password or phone number more than once, thereby saving you time and making your online shopping experience more enjoyable. If a user rejects the cookie, they may still use our site without any negative results whatsoever. 
+How do we use this information?
 
-Log Files: We use IP addresses and/or referring URLs to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses and referring URLs are not linked to personally identifiable information. 
+This information is used for internal marketing purposes only. K2 Global does not sell, exchange, or release your personal information (name, e-mail, phone, mailing address, credit data, etc.). Your information is not shared with any other third party or company outside of billing and shipping purposes.
 
-Sharing: As we stated in our order forms and registration declaration above, we are a portal website. Consequently, we work with other companies to provide your information to vendors who provide the cheap rates. All orders use outside shipping companies to ship orders, and credit card processing companies to bill users for goods and services. 
+What are cookies and how do we use them?
 
-Links: This web site contains links to other sites. Please be aware that MLM Rehab.com is not responsible for the privacy practices of such other sites, though we have screened each company for appropriate security and information privacy practices. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+Cookies help track a person’s “session” while online. By showing how and when our visitors use this site, this information can help us to continue to improve our site. We will only use cookies to view information on your hard drive that was put there by a cookie from this site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this site. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits.
 
-Security: This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. We coordinate with our partnered sites to assure a secure and seamless experience when submitting your sensitive information to their sites. 
+How do we store your information and how can you unsubscribe?
 
-If you have any questions about the security at our website, you can send an email to care@MLM Rehab.com 
+Your information is stored at the list server that delivers K2 Global newsletters. Your information is stored at the list server that delivers K2 Global newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive K2 Global’s newsletters.
 
-Correction/Updating Personal Information 
+All of the newsletters that are sent to you by K2 Global include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at support (@) mlmrehab.com to change your information or to stop receiving direct communications from us at any time.
 
-If a user’s personally identifiable information changes (such as your email or phone number), or if a user no longer desires our service, we provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done by contacting our Customer Support Department. 
+Refunds/Guarantees:
 
-Choice/Opt-out: Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. 
+Private coaching, group coaching, all digital and information products, and all products purchased through mlmrehab.com and its affiliated websites are backed by our associated guarantees. What this means is that within the stated number of days of using a product or participating in a program. If you don’t love the work we’re doing, or the product you purchased, and it’s not giving you the results or experience you purchased it to get, then not only do you not have to continue paying for, participating in, and utilizing the product or service, but you can have a full refund for every penny you spent. Refer to each product and it’s applicable guarantee.
 
-Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email. 
+For this refund/guarantee policy to be valid, 4 requirements must be met:
 
-Users of our site are always notified if their information is being collected by any outside parties. For instance, we use pop-up windows when moving to a new site. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+1) You must show up and be on time for all appointments,
 
-Notification of Changes: If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. However, if you have opted out of all communication with the site, or deleted/deactivated your account, then you will not be contacted. Nor will your personal information be used in this new manner. We will only use information in accordance with the privacy policy under which the information was collected. 
+2) You must follow through on requests and assignments made of you by the facilitator(s),
+
+3) You must participate fully and take advantage of all question & answer sessions and forums,
+
+and,
+
+4) You must make your request for a full refund within the agreed upon time frame.
+
+This policy was revised on May 30th, 2012.
+
+DISCLAIMER:
+
+THIS POLICY MAY BE CHANGED AT ANY TIME AT K2 GLOBAL’S DISCRETION. IF WE SHOULD UPDATE THIS POLICY, WE WILL POST THE UPDATES TO THIS PAGE ON OUR WEBSITE. THIS POLICY WAS REVISED ON MAY 30TH 2012
+
+IF YOU HAVE ANY QUESTIONS OR CONCERNS REGARDING OUR PRIVACY POLICY PLEASE DIRECT THEM TO SUPPORT (@) MLMREHAB.COM OR CALL 641-715-3900 Ext. 62058#
+
+K2 GLOBAL MARKETING INC.  
+1000 PALM BOULEVARD, SUITE 1162  
+ISLE OF PALMS, SC. 29451 USA
