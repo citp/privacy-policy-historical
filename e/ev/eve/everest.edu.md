@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everest.edu privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626075123id_/http%3A//www.everest.edu/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everest.edu privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227094712id_/http%3A//www.everest.edu/legal/privacy_policy) for the most accurate reproduction.*
 
 # Everest Privacy Policy
 
