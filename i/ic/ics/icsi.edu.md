@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icsi.edu privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503223551id_/http%3A//www.icsi.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsi.edu privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227084042id_/http%3A//www.icsi.edu/privacy.aspx) for the most accurate reproduction.*
 
-# Home - The ICSI
+# The Institute of Company Secretaries of India, The ICSI
 
 ICSI: The Institute of Company Secretaries of India is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the ICSI: The Institute of Company Secretaries of India Web site and governs data collection and usage. By using the ICSI: The Institute of Company Secretaries of India website, you consent to the data practices described in this statement.
 
