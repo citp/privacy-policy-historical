@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatapps.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607191705id_/http%3A//greatapps.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatapps.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227171658id_/http%3A//greatapps.com/privacy_policy) for the most accurate reproduction.*
 
 # GreatApps.com | Great Apps | Apps | Market your app | App Marketing | iPhone | iPad | Android | BlackBerry | Palm | Symbian | webOS
 
