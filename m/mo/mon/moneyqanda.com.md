@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyqanda.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512092438id_/http%3A//moneyqanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyqanda.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228001231id_/http%3A//moneyqanda.com/privacy-policy) for the most accurate reproduction.*
 
-# Money Q&A’s Privacy Policy - Money Q&A
+# Money Q&A's Privacy Policy - Money Q&A
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
@@ -21,6 +21,6 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of Money Q&A then you may [contact](http://moneyqanda.com/contact/ "contact") us at hank@moneyqanda.com 
+If you have any questions regarding the privacy policy of Money Q&A then you may contact us at hank@moneyqanda.com 
 
 Last updated Tue, 10 Jan 2012 18:26
