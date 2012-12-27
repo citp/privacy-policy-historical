@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freemusicarchive.org privacy policy that was archived on 2012-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605105212id_/http%3A//freemusicarchive.org/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freemusicarchive.org privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227174634id_/http%3A//freemusicarchive.org/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,18 +15,59 @@
         <link rel="SHORTCUT ICON" href="/img/generic/favicon.ico">
 
                             <link rel="stylesheet" type="text/css" media="screen" href="http://fma-files.s3.amazonaws.com/resources/fma.all.css">
-                        <script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-        <script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+                        <script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+        <script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/jquery.jplayer.min.js"></script>
         <script language="javascript" type="text/javascript" src="/js/tiny_mce/tiny_mce.js"></script>
 
                 	<script language="javascript" type="text/javascript" src="http://fma-files.s3.amazonaws.com/resources/fma.all.js"></script>
                 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=freemusicarchive"></script>
         <script language="text/javascript" type="text/javascript" src="/js/persist.header.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="/css/jcarousel_skins/fma/skin.css">
+        <script language="text/javascript" type="text/javascript" src="/js/jquery.jcarousel.min.js"></script>
+
         <script type="text/javascript">
         var addthis_config = {
             services_compact: 'email,twitter,facebook,delicious,stumbleupon,myspace'
         }
         </script>
+<script>
+function readCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for(var i=0;i < ca.length;i++) {
+    var c = ca[i];
+    while (c.charAt(0)==' ') c = c.substring(1,c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+  }
+  return null;
+}
+
+function createCookie(name, value, days) {
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime() + (days*24*60*60*1000));
+    var expires = "; expires=" + date.toGMTString();
+  }
+  else var expires = "";
+  document.cookie = name + "=" + value + expires + "; path=/";
+}
+
+var mobile = readCookie('FMA_mobile');
+var userAgent = (navigator && navigator.userAgent) ? navigator.userAgent.toLowerCase() : '';
+if (!readCookie('FMA_did_mobile_popup') && mobile) {
+  createCookie('FMA_did_mobile_popup', 1, 90);
+  if ((mobile == 'mobile' || mobile == 'iOS') && (userAgent.indexOf('firefox') !== -1 || userAgent.indexOf('opera') !== -1)) {
+    alert('Welcome to the Free Music Archive! This browser does not support mp3 streaming in HTML5. Please visit us again from a supported browser (i.e. Safari, Chrome).');
+  }
+  /* if (mobile == 'mobile') {
+    alert('Welcome to the Free Music Archive!\n\nThe FMA is not fully functional with your mobile browser. You can still download music to your device by clicking on the Down Arrow to the right of every track. We appreciate your patience as we work towards making the FMA mobile friendly!');
+  } else if (mobile == 'iOS') {
+    alert('Welcome to the Free Music Archive!\n\nThe FMA is not fully functional with your mobile browser. You can listen to a song in your Quicktime player by clicking on the Down Arrow to the right of every track. We appreciate your patience as we work towards making the FMA mobile friendly!');
+  } */
+}
+</script>
 
         <script type="text/javascript">
         var _gaq = _gaq || [];
@@ -70,8 +111,6 @@
                         </div>
                     </div>
 
-					<a href="/Donate" class="donate"></a>
-
                     <div id="fma-menulogin">
                                                     <a href="http://freemusicarchive.org/member/signup">Sign Up</a> / <a href="http://freemusicarchive.org/member/login">Log-In</a>
                                             </div>
@@ -85,19 +124,19 @@
                             <div class="menu-links">
                                 <div class="menu-mid">
                                                                             <a href="http://freemusicarchive.org/curator/WFMU/" title="WFMU">WFMU</a>
-                                                                            <a href="http://freemusicarchive.org/curator/KEXP/" title="KEXP">KEXP</a>
-                                                                            <a href="http://freemusicarchive.org/curator/CBC_Radio_3/" title="CBC Radio 3">CBC Radio 3</a>
-                                                                            <a href="http://freemusicarchive.org/curator/ISSUE_Project_Room/" title="ISSUE Project Room">ISSUE Project R...</a>
-                                                                            <a href="http://freemusicarchive.org/curator/Creative_Commons/" title="Creative Commons">Creative Common...</a>
                                                                             <a href="http://freemusicarchive.org/curator/Video/" title="Music for Video">Music for Video</a>
+                                                                            <a href="http://freemusicarchive.org/curator/Primavera_Sound/" title="Primavera Sound">Primavera Sound</a>
+                                                                            <a href="http://freemusicarchive.org/curator/Music_from_the_Isabella_Stewar/" title="Music from the Isabella Stewart Gardner Museum, Boston">Music from the ...</a>
+                                                                            <a href="http://freemusicarchive.org/curator/ISSUE_Project_Room/" title="ISSUE Project Room">ISSUE Project R...</a>
+                                                                            <a href="http://freemusicarchive.org/curator/CBC_Radio_3/" title="CBC Radio 3">CBC Radio 3</a>
+                                                                            <a href="http://freemusicarchive.org/curator/Creative_Commons/" title="Creative Commons">Creative Common...</a>
+                                                                            <a href="http://freemusicarchive.org/curator/CCcommunity/" title="ccCommunity">ccCommunity</a>
+                                                                            <a href="http://freemusicarchive.org/curator/CPDP/" title="Cylinder Preservation and Digitization Project">Cylinder Preser...</a>
+                                                                            <a href="http://freemusicarchive.org/curator/KEXP/" title="KEXP">KEXP</a>
                                                                             <a href="http://freemusicarchive.org/curator/True_Chip_Till_Death/" title="True Chip Till Death">True Chip Till ...</a>
                                                                             <a href="http://freemusicarchive.org/curator/Oddio_Overplay/" title="Oddio Overplay">Oddio Overplay</a>
-                                                                            <a href="http://freemusicarchive.org/curator/Music_from_the_Isabella_Stewar/" title="Music from the Isabella Stewart Gardner Museum, Boston">Music from the ...</a>
-                                                                            <a href="http://freemusicarchive.org/curator/CPDP/" title="Cylinder Preservation and Digitization Project">Cylinder Preser...</a>
                                                                             <a href="http://freemusicarchive.org/curator/DRAM/" title="DRAM">DRAM</a>
-                                                                            <a href="http://freemusicarchive.org/curator/CCcommunity/" title="ccCommunity">ccCommunity</a>
                                                                             <a href="http://freemusicarchive.org/curator/ATP/" title="All Tomorrow's Parties">All Tomorrow's ...</a>
-                                                                            <a href="http://freemusicarchive.org/curator/Primavera_Sound/" title="Primavera Sound">Primavera Sound</a>
                                                                             <a href="http://freemusicarchive.org/curator/blipfestival/" title="Blip Festival">Blip Festival</a>
                                                                             <a href="http://freemusicarchive.org/curator/ckut/" title="CKUT">CKUT</a>
                                                                             <a href="http://freemusicarchive.org/curator/CASH_Music/" title="CASH Music">CASH Music</a>
@@ -127,7 +166,7 @@
                                                                             <a href="http://freemusicarchive.org/genre/Old-Time__Historic/" style="background-color: #665666">Old-Time / Historic</a>
                                                                             <a href="http://freemusicarchive.org/genre/Pop/" style="background-color: #009900">Pop</a>
                                                                             <a href="http://freemusicarchive.org/genre/Rock/" style="background-color: #840000">Rock</a>
-                                                                            <a href="http://freemusicarchive.org/genre/Soul-RB/" style="background-color: #330033">Soul-R&amp;B</a>
+                                                                            <a href="http://freemusicarchive.org/genre/Soul-RB/" style="background-color: #330033">Soul-RnB</a>
                                                                             <a href="http://freemusicarchive.org/genre/Spoken/" style="background-color: #006699">Spoken</a>
                                                                         <div class="cf"></div>
                                 </div>
@@ -144,7 +183,6 @@
                                                                             <a href="/member/login/">Log In</a>
                            				<a href="/member/signup/">Sign Up</a>
                                                                         <a href="/api">API</a>
-                                    <a href="/forum">Forum</a>
                                 </div>
                                 <div class="menu-bot"></div>
                             </div>
@@ -169,7 +207,7 @@
 
                         <div class="menu-link menu-link-forum">
                             <div class="menu-top menu-topoff">
-                                <div class="mhd-forum mhd-main"><a href="http://freemusicarchive.org/forum">Forum</a></div>
+                                <div class="mhd-main"><a href="/Donate"><img src="/img/menu/donate.gif"></a></div>
                                 <script type="text/javascript">
                                     $('#fma-menu .mhd-forum').ready(function(){
                                         $('#fma-menu .mhd-forum').click(function(){
@@ -276,7 +314,7 @@ var _sf_async_config = { uid: 36453, domain: 'freemusicarchive.org' };
  })();
 </script>
 
-     <!-- generated on freemusicarchive.org / 10.245.11.66 at 2012-06-05T06:52:12-04:00 -->
+     <!-- generated on freemusicarchive.org / 10.245.11.66 at 2012-12-27T12:46:34-05:00 -->
     
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
