@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611020855id_/http%3A//www.fox17.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227041047id_/http%3A//fox17.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WZTV FOX17 :: Privacy Policy
 
@@ -30,19 +30,17 @@ All personal information collected by this Website may be disclosed as required 
 
 The Website allows certain advertisements/postings which include links to other sites. The Station has no control over such other sites and is not responsible for any content on such linked sites or for the use by such other sites of any information collected by those sites.
 
-6:00pm American Dad
+5:00PM The Simpsons
 
-6:30PM The Clevelands
+5:30PM King of the Hill
 
-7:00PM The Simpsons
+6:00PM Two and a Half Men
 
-7:30PM Bob's Burger
+6:30PM Two and a Half Men
 
-8:00PM Family Guy
+7:00PM Ben & Kate
 
-8:30PM American Dad
-
-9:00PM FOX News at 9:00
+9:00PM FOX17 News at 9:00
 
 * * *
 
@@ -50,13 +48,13 @@ The Website allows certain advertisements/postings which include links to other 
 
 [To FOX.com](http://www.fox.com/)
 
-73°
+34°
 
 [](https://web.archive.org/newsroom/wx/#iradar)
 
 ## Forecast
 
-Most of us made it through Sunday with just a few rain drops, but heavy rain lurks to the south. An upper level low is sending in moisture from the Gulf and will give us off and on showers through Tuesday ...
+The storm system that brought us snow showers today continues to work eastward.  However, with that low being so close to us the wind will continue ...
 
 [](https://web.archive.org/newsroom/wx/)
 
