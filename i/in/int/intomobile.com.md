@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the intomobile.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626141802id_/http%3A//www.intomobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intomobile.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227101708id_/http%3A//www.intomobile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This is the web site of **IntoMobile**.
 
-Our postal address is   
+Our postal address is  
 **1819 Polk St Ste 327  
 San Francisco, CA 94109**
 
@@ -20,7 +20,7 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of <http://netshelter.net/company/privacy.php>.
 
-We also use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
+We partner with a limited number of behavioral advertising companies to serve ads and/or collect certain information when you visit our websites. Behavioral advertising companies may use cookies to collect non-personally identifiable information [what your search for] during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this ‘behavioral advertising’ practice or to opt-out of this use of your anonymous information, you can visit the Network Advertising initiative’s [opt out here](http://www.networkadvertising.org/choices/). Please note that if you change your computer, change your internet browser (e.g. from Internet Explorer to Firefox), or delete all your cookies, you will need to renew your opt-out.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
