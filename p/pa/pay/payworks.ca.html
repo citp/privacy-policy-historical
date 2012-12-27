@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the payworks.ca privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626085614id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the payworks.ca privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227095647id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-CA"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -38,12 +38,13 @@
 <!-- Google Analytics Social Button Tracking -->
 <script type="text/javascript" src="https://s3.amazonaws.com/ha_js/ga_social_tracking.js"></script>
 </head>
+
 <body onload="clearForms();" onunload="clearForms();">
 <div id="container">
     <div id="header">
   <div id="logo">
   
-    <a href="http://www.payworks.ca"><img src="http://www.payworks.ca/images/logos/payworks-canada.gif" alt="Return to the Payworks.ca portal page." width="209" height="62" border="0" title="Return to the Payworks.ca portal page."></a>
+    <a href="http://www.payworks.ca"><img src="http://www.payworks.ca/images/logos/payworks-canada.gif" alt="Return to the Payworks.ca portal page." width="209" height="62" border="0" title="Return to the Payworks.ca home page."></a>
   
   </div>
   <div id="toprightdiv">
@@ -73,9 +74,6 @@ function clearForms()
 <script type="text/javascript">
     $(document).ready(function () {
         $("#loginhdr").click(function () {
-            //always hide the other drop down
-            $("#Desktoplogin").animate({ height: 25 }, 200);
-            $("#Desktoploginhdr").removeClass('hide').addClass('drop');
 
             //if web login is showing (has class hide), hide it, if not, show it
             if ($(this).hasClass('hide')) {
@@ -88,21 +86,6 @@ function clearForms()
             }
         });
 
-        $("#Desktoploginhdr").click(function () {
-            //always hide the other drop down
-            $("#login").animate({ height: 25 }, 200);
-            $("#loginhdr").removeClass('hide').addClass('drop');
-
-            //if client login is showing (has class hide), hide it, if not, show it
-            if ($(this).hasClass('hide')) {
-                $(this).removeClass('hide').addClass('drop');
-                $("#Desktoplogin").animate({ height: 25 }, 200);
-            }
-            else {
-                $(this).removeClass('drop').addClass('hide');
-                $("#Desktoplogin").animate({ height: 128 }, 200);
-            }
-        });
     });
 </script>
 
@@ -144,9 +127,10 @@ function validate_loginform()
 		else{
 			document.loginform.txtPwd.style.background='#FFF';
 		}
-			document.location.reload();
-			window.location.reload();
+		    setTimeout(function () { document.loginform.reset(); document.loginform.PayRollNum.focus(); }, 2000);
+
 			return true;
+
 }
 /*var inputs;var imgFalse='/images/misc/falsecheck.gif';var imgTrue='/images/misc/truecheck.gif';function init(){replaceChecks();}
 function replaceChecks(){inputs=document.getElementsByTagName('input');for(var i=0;i<inputs.length;i++){if(inputs[i].getAttribute('type')=='checkbox'){var img=document.createElement('img');if(inputs[i].checked){img.src=imgTrue;}else{img.src=imgFalse;}
@@ -161,11 +145,11 @@ window.onload=init;*/
 		  Log In</div>
           <div class="fields">
             <label for="PayRollNum">Payroll Number</label>
-            <input name="PayRollNum" id="PayRollNum" type="text" title="Enter your company payroll number here." value="" onfocus="ViewLogin('login', '166');ViewLogin('Desktoplogin', '25');">
+            <input name="PayRollNum" id="PayRollNum" type="text" title="Enter your company payroll number here." value="" onfocus="ViewLogin('login', '166');">
             <label for="txtUname">Username</label>
-            <input name="txtUname" id="txtUname" type="text" title="Enter your user name here." value="" onfocus="ViewLogin('login', '166');ViewLogin('Desktoplogin', '25');" "="">
+            <input name="txtUname" id="txtUname" type="text" title="Enter your user name here." value="" onfocus="ViewLogin('login', '166');" "="">
             <label for="txtPwd">Password</label>
-            <input name="txtPwd" id="txtPwd" type="password" title="Enter your password here." value="" style="margin-bottom:3px;" onfocus="ViewLogin('login', '166');ViewLogin('Desktoplogin', '25');" "=""><br>
+            <input name="txtPwd" id="txtPwd" type="password" title="Enter your password here." value="" style="margin-bottom:3px;" onfocus="ViewLogin('login', '166');" "=""><br>
 			<div id="yearendcheck">
 			<input type="checkbox" id="chkLastYearDB" onfocus="this.blur();" name="chkLastYearDB"><label for="chkLastYearDB">Previous Year</label>
 			</div>
@@ -209,7 +193,13 @@ window.onload=init;*/
         <li><a href="http://www.payworks.ca/about-payworks-payroll-services.asp">About Payworks</a></li>
         <li><a href="http://www.payworks.ca/vision-mission-values.asp">Vision, Mission, Values</a></li>
         <li><a href="http://www.payworks.ca/our-staff.asp">Our People</a></li>
-        <li><a href="http://www.payworks.ca/payroll-business-partners.asp">Strategic Partners</a></li>
+        <li><a class="qmparent" href="http://www.payworks.ca/payroll-business-partners.asp">Strategic Partners</a>
+		  <ul>
+            <li><a href="http://www.payworks.ca/partners/cfib.asp" title="Canadian Federation of Independent Business">CFIB</a></li>
+			<li><a href="http://www.payworks.ca/partners/johnstongroup.asp" title="The Johnston Group">The Johnston Group</a></li>
+			<li><a href="http://www.payworks.ca/partners/paychex.asp" title="Paychex">Paychex</a></li>
+          </ul>
+		</li>
         <li><a class="qmparent" href="http://www.payworks.ca/community-leadership.asp">Corporate Social Responsibility</a>
           <ul>
             <li><a href="http://www.payworks.ca/corporate-giving.asp">Corporate Community Giving</a></li>
@@ -238,9 +228,7 @@ window.onload=init;*/
       <ul>
         <li><a href="http://www.payworks.ca/in-the-news.asp">Payworks News</a></li>
         <li><a href="http://www.payworks.ca/canadian-payroll-newsletter.asp">theWorks Newsletter</a></li>
-        <li><a href="http://www.payworks.ca/business-news-2010.asp">Media Releases 2010</a></li>
-        <li><a href="http://www.payworks.ca/business-news-2009.asp">Media Releases 2009</a></li>
-        <li><a href="http://www.payworks.ca/business-news-2008.asp">Media Releases 2008</a></li>
+		<li><a href="http://www.payworks.ca/business-news-2011.asp">Media Releases 2011</a></li>
       </ul>
     </li>
     <li><a class="qmparent" title="Payroll Resources">Resources</a>
@@ -283,13 +271,13 @@ window.onload=init;*/
             <li><a href="http://www.payworks.ca/Payroll-Legislation/StatHolidays.asp?stats=yukon">Yukon Stats</a></li>
           </ul>
         </li>
-        <li><a href="http://www.payworks.ca/download.asp?y=2012&amp;item=payroll-calendar">2012 Payroll Calendar</a></li>
-        <li><a href="http://www.payworks.ca/download.asp?y=2012&amp;item=payroll-guide">2012 Payroll Guide</a></li>
+        <li><a href="http://www.payworks.ca/download.asp?y=2013&amp;item=payroll-calendar" onclick="_gaq.push(['_trackEvent','Download','PDF',this.href]);">2013 Payroll Calendar</a></li>
+        <li><a href="http://www.payworks.ca/download.asp?y=2012&amp;item=payroll-guide" onclick="_gaq.push(['_trackEvent','Download','PDF',this.href]);">2012 Payroll Guide</a></li>
       </ul>
     </li>
     <li><a class="qmparent">Events</a>
       <ul>
-        <li><a href="http://www.payworks.ca/payroll-events.asp?loc=cpaconf&amp;item=#cpa">CPA Conference &amp; Tradeshow</a></li>
+	    <li><a href="http://www.payworks.ca/payroll-events.asp?loc=localfare&amp;item=#mrfa">localfare - the Trade Show</a></li>
       </ul>
     </li>
     <li><a href="http://www.payworks.ca/payroll-quote.asp" style="padding-right:10px;">Quick Quote</a></li>
@@ -298,11 +286,13 @@ window.onload=init;*/
         <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?location=national">Office Locations</a></li>
         <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=0&amp;location=Winnipeg-Manitoba">Head Office (Winnipeg)</a></li>
         <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=1&amp;location=Toronto-Ontario">Payworks Toronto</a></li>
-        <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=3&amp;location=Calgary-Alberta">Payworks Calgary</a></li>
-        <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=4&amp;location=Edmonton-Alberta">Payworks Edmonton</a></li>
-        <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=5&amp;location=Vancouver-BC">Payworks Vancouver</a></li>
-        <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=6&amp;location=Kelowna-BC">Payworks Kelowna</a></li>
-        <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=7&amp;location=Victoria-BC">Payworks Victoria</a></li>
+        <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=2&amp;location=Calgary-Alberta">Payworks Calgary</a></li>
+        <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=3&amp;location=Edmonton-Alberta">Payworks Edmonton</a></li>
+        <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=4&amp;location=Vancouver-BC">Payworks Vancouver</a></li>
+        <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=5&amp;location=Kelowna-BC">Payworks Kelowna</a></li>
+        <li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=6&amp;location=Victoria-BC">Payworks Victoria</a></li>
+		<li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=7&amp;location=Montreal-QC">Payworks Montreal</a></li>
+		<li><a href="http://www.payworks.ca/contact-payworks-payroll-canada.asp?page=8&amp;location=Dartmouth-NS">Payworks Dartmouth</a></li>
       </ul>
     </li>
     <li><a class="qmparent">Links</a>
@@ -366,9 +356,8 @@ window.onload=init;*/
       <p>Any changes to this policy will be posted at this location and will take effect immediately after their posting. You may wish to check back from time to time to be aware of any changes to the policy.</p>
       <p>This Privacy Policy was last updated on 15/10/2008.</p>
     </div>
-   <div id="scanbox">
-<a href="http://www.deloitte.com/view/en_US/us/Industries/technology/technology-fast500/" target="_blank"><img src="http://www.payworks.ca/images/misc/2011-Tech-Fast-500.gif" alt="2011 Technology Fast500™" width="140" height="68" border="0" title="2011 Technology Fast500™"></a><br>
-</div>
+   <div id="scanbox" style="height:68px;"><br>
+   </div>
 <div id="footer">
 	<div id="footerlink1" class="footerlink"><a href="http://www.payworks.ca/payworks-legal-info.asp" title="Terms of use">Legal</a>
 	</div>
