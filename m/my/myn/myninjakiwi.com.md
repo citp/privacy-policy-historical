@@ -1,40 +1,54 @@
-> *The following text is extracted and transformed from the myninjakiwi.com privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213104933id_/http%3A//ninjakiwi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myninjakiwi.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227053000id_/http%3A//ninjakiwi.com/privacy.php) for the most accurate reproduction.*
 
-# Free Online Games - NinjaKiwi
+# Free Online Games - Ninja Kiwi
 
-Ninja Kiwi Privacy Policy  
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.   
-To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [Network Advertising Initiative](http://networkadvertising.org/).  
-. The NAI (Network Advertising Initiative) is a cooperative group of ad serving providers. The NAI has developed a set of privacy principles to which its members adhere. The NAI is committed to provide consumers with clear explanations of Internet advertising practices and how they affect you and the Internet generally. For more information about the NAI, third party ad servers generally, and the opt-out opportunities available through the NAI, visit [Network Advertising Initiative](http://networkadvertising.org/).
+### **Kaiparasoft Ltd Privacy Policy**
 
-This website uses third-party advertising companies to serve ads when visiting this site. These third parties may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit [Google's Advertising and Privacy](http://www.google.com/privacy_ads.html) page.
+_Last Updated: November 16, 2012_
 
-If you wish to opt out of Advertising companies tracking and tailoring advertisements to your surfing patterns you may do so at [Network Advertising Initiative](http://networkadvertising.org/managing/opt_out.asp).
+Kaiparasoft (better known as Ninja Kiwi) is committed to making our games both fun and safe to use and adheres to best practices regarding the collection and use of limited personal information. In general, our approach is to collect as little information as is necessary to provide the best games and services, and then only to use it to make those games and services better.
 
-Google uses the Doubleclick DART cookie to serve ads across it's Adsense network and you can get further information regarding the DART cookie at [Doubleclick](http://www.doubleclick.com/privacy/faq.aspx) as well as opt out options at [Google's Privacy Center](http://www.google.com/privacy_ads.html)
+This privacy policy applies to the Ninja Kiwi website located at [http://ninjakiwi.com](http://ninjakiwi.com/), the related game and game editor sites, and to Ninja Kiwi published Facebook and mobile applications. Keep in mind that not all Ninja Kiwi games and applications use personal information or have advertising components - this privacy policy explicitly relates to the games, applications, and services that do collect privacy-related information.
 
-Ninja Kiwi respects your privacy and is committed to safeguarding your privacy while online at this site http://ninjakiwi.com. The following discloses how Ninja Kiwi gathers and disseminates information for this website.
+This privacy policy may change to reflect changes in business practice, legislation, or market reality. Any changes will be posted here, and significant changes will either be broadcast on the Ninja Kiwi blog or via email.
 
-RSS Feeds and Email Updates
+### Types of Information
 
-If a user wishes to subscribe to Ninaj Kiwi's RSS Feeds or Email Updates (powered by Feedburner), we ask for contact information such as name and email address. Users may opt-out of these communications at any time. Your personal information will never be sold or given to a third party. (You will never be spammed by Ninja Kiwi - ever)
+**NK Login Registration:** When you register for a Ninja Kiwi account directly, you provide us with optional information including email, age, gender, and country. This information is not required - we provide our services to you without it, but taken as a whole this gives us a better understanding of our players and community and helps us make better game design decisions. We use emails to keep members up to date on news, releases, and updates, and you may opt out of these emails at any point. Children under 13 are allowed to register for Ninja Kiwi accounts, but they may not enter any personally identifiable information.
 
-Log Files and Stats
+**NK Forum Registration:** If you register for Ninja Kiwi forums, we require an email address for registration validation and communication purposes. You may opt out of these communications at any point. Children under 13 are not allowed to register for the Ninja Kiwi forums.
 
-Like most websites Ninja Kiwi uses log files to store information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user’s movement in the whole, and gather broad demographic information for aggregate use. IP addresses, etc, are not linked to personally identifiable information.
+**SAS: Zombie Assault 3 Mobile Registration:** Currently, SAS: Zombie Assault 3 on mobile devices is our only mobile game that offers independent registration, which we do for game data security and cheat prevention. Children under 13 must not enter their own emails - they must use a parent.s or guardian.s email address instead.
 
-Cookies
+**Game and Site Data:** Ninja Kiwi tracks information about the way visitors and players use our web sites and games so that we can make our sites and games more accessible, pertinent, and fun. Ninja Kiwi uses log files to store information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring, exit and visited pages, platform used, date/time stamp, track user’s movement in the whole, and gather broad demographic information for aggregate use. IP addresses, etc, are not linked to personally identifiable information. Ninja Kiwi uses cookies, server stored game data, and third-party analytics services to track player activity and make games more awesome. You can set your browser to limit or reject cookies, but this has a high chance of interfering with site and game features and may prevent some games from playing at all or saving your progress.  
+**  
+Advertising:** Ninja Kiwi uses third-party advertising companies to serve ads when visiting our web pages. We offer our web games for free, so these ads allow us to continue providing top quality games. The third-party advertising companies may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. We do not have access to this information or influence over their policies, barring our ability to discontinue their services. If you would like more information about advertising practices and to know your choices about not having this information used by these companies, you can visit[ Google's Advertising and Privacy](http://www.google.com/privacy_ads.html) page or the [Network Advertising Initiative](http://networkadvertising.org/). Please understand that if you disable or block certain ad features, then other aspects of the site may not work correctly. 
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. Ninja Kiwi may use cookies and the advertisers on this site may also use cookies, more information below.
+**Facebook Information:** When you register for Ninja Kiwi using Facebook, use Facebook likes, or share links through Facebook Connect, Ninja Kiwi accesses data already provided to Facebook in accordance with their Privacy Policy, and is only granted access to that information via the permissions necessary to use the games or services. Ninja Kiwi reviews Facebook data such as age, location, and gender along with various game and social data about how you are playing a game or using the web site in order to make our games and site more awesome. This information may be stored in cookies on your computer. Ninja Kiwi does not share or sell this information with any party.
 
-Links
+**Billing and Financial:** Ninja Kiwi does track purchases made using Facebook Credits, Super Rewards, Trial Pay, and/or other 3rd party wallet services, but Ninja Kiwi does not have access to any personal billing information; purchases are tracked for purposes of making sure that Ninja Kiwi games deliver great value for money and so that we can provide awesome customer support should something go wrong.
 
-This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites.   
-Advertisers
+### Other Use of Information
 
-Ninja Kiwi uses outside ad companies to display ads on this website. These ads may contain cookies whose data is collected by external advertising companies. Ninja Kiwi does not have access to this information.
+Ninja Kiwi does not sell, rent, or publicly share your personally identifiable information to anyone. We may use the information you provide to provide customer support or respond to forum posts. We may share tools to access information to our development or technology partners, but this will be done under standard terms of nondisclosure. In the event of a change in corporate ownership or control, we would then transfer all personally-identifiable and non-personally identifiable information to the new owner or controlling party. Ninja Kiwi would also share the limited personal information to comply with court order, fraud protection, or other legal proceedings, to enforce our Terms of Service, or to protect the safety, rights, or property of Kaiparasoft or its employees.
 
-Contact Information
+### Children Under 13
 
-If you have any questions or concerns please contact Chris at ninjakiwi dot com.   
-This privacy policy updated October, 2009. 
+We respect the privacy of parents, guardians, and their children, and we are committed to complying with the Children's Online Privacy Protection Act (COPPA). Children under 13 may not enter personally identifiable information during the registration process (they must use a parent's or guardian's email address), and they may not sign up for forum accounts at all. Besides forums, there are no chat, IM, or other open communication services where a child could directly or inadvertently disclose to other Ninja Kiwi members, players, or visitors personally identifiable information. Nevertheless, if a parent or guardian believes that his or her child has submitted personal information to us, he or she can contact us at [privacy@ninjakiwi.com](mailto:privacy@ninjakiwi.com). Ninja Kiwi will make reasonable efforts to delete the information upon learning that it relates to a child under the age of 13. Ninja Kiwi believes that parents should supervise their children's online activities and actively advise them on appropriate behavior and online safety.
+
+### Security
+
+Ninja Kiwi’s games and websites may contain advertisements or other links to other websites or apps as a service to you. These third party sites and apps are outside of our control and your activities with them are subject to their terms and privacy practices. We encourage you to review their terms and privacy practices before sharing any personal information with them, but we are not responsible for their privacy practices or for your disclosure of information to them. Nevertheless, we only want to be working with partners who exercise best practices, so if you ever have concerns about third parties, you may contact us at [privacy@ninjakiwi.com](mailto:privacy@ninjakiwi.com) so that we can review our relationship with them.
+
+Ninja Kiwi takes appropriate and reasonable precautions to protect the information you provide, both during delivery and communication and in its stored location. We urge you to keep private your login and password information, to log out from any computer or mobile device that could be accessed by someone else, and to refrain from leaving written passwords near your computer. If you believe your account has been compromised, please reset your account password immediately, or contact us at [privacy@ninjakiwi.com](mailto:privacy@ninjakiwi.com) so that we may assist you.
+
+### Additional Options and Questions
+
+If you do not agree with this privacy policy, you may still use most of our website features and games without registering at all, or you have the option to register without sharing any personally identifiable information. If we do not have a valid email for you, however, it may limit or completely prevent us from providing fast or effective customer support. Without a valid email, you will also not be able to receive beta invites, promotions, discounts, update notices, and new release notices; you may opt out of emails at any time by following the instructions provided in each email.
+
+Feel free to contact us about any questions regarding Ninja Kiwi or our policies at [privacy@ninjakiwi.com](mailto:privacy@ninjakiwi.com). 
+
+Kaiparasoft  
+PO Box 126  
+Kumeu 0841  
+New Zealand 
