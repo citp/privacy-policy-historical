@@ -1,0 +1,27 @@
+> *The following text is extracted and transformed from the casinoaffiliateprograms.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227111710id_/http%3A//www.casinoaffiliateprograms.com/privacy) for the most accurate reproduction.*
+
+# Privacy & Security
+
+## Terms and Conditions
+
+Internet Marketing Holdings Ltd. is dedicated to establishing trusting relationships with its users, based on respect for personal information, by promoting the use of fair information practices. This privacy policy covers all Web properties owned and maintained by Internet Marketing Holdings Ltd., including but not limited to www.casinoaffiliateprograms.com (collectively, the "Websites"). This privacy policy (the "Policy") is designed to inform you about the types of information that we gather about you, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of that information. This Policy may change from time to time, so please check back periodically.
+
+The Websites collects personally identifiable information. Personally identifiable information refers to information that specifically identifies who you are. We request personally identifiable information when you register with us or correspond with us. This information might include your name, mailing address, telephone number or e-mail address.
+
+We will share your personally identifiable information with third parties. Users will occasionally receive emails containing information about us, or information about third party services or affiliate programs that are likely to be of interest to our users. Users may opt-out of receiving such emails. Internet Marketing Holdings Ltd. is not responsible for the privacy practices of those third parties (or their designees) from which you may receive emails. Their privacy policies may differ from our Policy.
+
+From time to time, we may be required by law enforcement or judicial authorities to provide personally identifiable information to appropriate governmental authorities. We will disclose personally identifiable information upon receipt of a court order or subpoena or in order to assist a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our Websites' services for illegal activities.
+
+The ads appearing on our Websites are delivered to users through various third party advertising partners. Information about users' visits to our Websites, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on the Websites. Third party advertising partners do not have access to personally identifiable information.
+
+In the event Internet Marketing Holdings Ltd. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personally identifiable information will, in most instances, be part of the assets transferred. Users may be notified prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection, users may object to such use by sending an email to [privacy-@-affiliatemedia.com](mailto:privacy@affiliateprograms.com) (without dashes).
+
+The Websites contain links to other sites. Please be aware that Internet Marketing Holdings Ltd. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our sites and to read the privacy statements of each and every website that collects personally identifiable information. The Policy applies solely to information collected by the Websites.
+
+The Policy was last changed on December 12, 2012. If we make changes to any terms or conditions of the Policy, the changes will be posted in this document so that you will always know what information we gather as well as how we might use that information and to whom we may disclose it. We may change, modify, add or remove portions of the Policy at any time. Please be sure to check this page before proceeding to use the Websites. If you have any questions about this privacy statement, the practices of this site, or your dealings with the Websites, you can contact us at [privacy-@-affiliatemedia.com](mailto:privacy@affiliateprograms.com) (without dashes).
+
+Internet Marketing Holdings Ltd.  
+Vincenti Buildings  
+28/19 Suite No. 1121 Strait Street  
+Valleta VLT 1432  
+Malta
