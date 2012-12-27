@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canvaspeople.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624055920id_/http%3A//canvaspeople.com/privacyterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canvaspeople.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227055930id_/http%3A//canvaspeople.com/privacyterms) for the most accurate reproduction.*
 
 # Canvas People
 
