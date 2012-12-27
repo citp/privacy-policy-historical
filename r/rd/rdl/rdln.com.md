@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdln.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513173759id_/http%3A//rdln.com/PolicyDetails.aspx%3FContentID%3D289) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdln.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227154608id_/http%3A//www.rdln.com/PolicyDetails.aspx%3FContentID%3D289) for the most accurate reproduction.*
 
 # Red Lion Hotels - Terms and Conditions
 
