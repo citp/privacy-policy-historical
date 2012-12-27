@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626085614id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payworks.ca privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227095647id_/http%3A//www.payworks.ca/payworks-canada-privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy policy for Payworks Payroll Services Canada
 
@@ -6,7 +6,7 @@ The key to Payworks is the single unified database design. Information is shared
 
 Select from a series of videos to learn how to better manage your payroll or outsource your HR & Time & Attendance.
 
-Payworks is committed to providing the highest level of security and privacy regarding the collection and use of our online payroll customers' personal information, as well as that of all visitors to our website. Personal information may be collected through the submission of account applications, online banking transactions, or through the use of online financial tools such as interactive calculators. A detailed description of Payworks Privacy Policy is provided below. If you have additional questions regarding the privacy of your personal information, [contact us](https://web.archive.org/web/20120626085614id_/http%3A//www.payworks.ca/contact-payworks-payroll-canada.asp).
+Payworks is committed to providing the highest level of security and privacy regarding the collection and use of our online payroll customers' personal information, as well as that of all visitors to our website. Personal information may be collected through the submission of account applications, online banking transactions, or through the use of online financial tools such as interactive calculators. A detailed description of Payworks Privacy Policy is provided below. If you have additional questions regarding the privacy of your personal information, [contact us](https://web.archive.org/web/20121227095647id_/http%3A//www.payworks.ca/contact-payworks-payroll-canada.asp).
 
 ### Applicability
 
