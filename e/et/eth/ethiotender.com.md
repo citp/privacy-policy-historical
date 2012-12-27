@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethiotender.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120175455id_/http%3A//www.ethiotender.com/copyright.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiotender.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227183415id_/http%3A//www.ethiotender.com/copyright.php) for the most accurate reproduction.*
 
 # E-Tender Copyright and Privacy Policy
 
@@ -44,7 +44,13 @@ You may also contact us:
 
 
 
-            +251 11 466 26 94 / +251 91 134 3426 / +251 91 143 9458 
+            +251 11 466 2694 / +251 91 134 3426 / +251 91 143 9458
+
+  * **By Fax:**
+
+
+
+            +251 11 467 1375
 
   * **By Regular Mail:**
 
