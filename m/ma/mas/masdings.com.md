@@ -1,55 +1,147 @@
-> *The following text is extracted and transformed from the masdings.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227123858id_/http%3A//www.masdings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masdings.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227123507id_/http%3A//www.masdings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Cookies Policy
 
-This Privacy Policy statement applies only to the information collected online by masdings.com.
+## Overview
 
-## What information do we collect?
+Effective: 17th May 2012
 
-### General Browsing:
+J. H. Masdings & Sons is committed to protecting and respecting your privacy. This page explains: * What personally identifiable information of yours is collected * What organisation is collecting the information * How the information is used * With whom the information may be shared * What choices are available to you regarding collection, use and distribution of the information * What kind of security procedures are in place to protect the loss, misuse or alteration of information under J. H. Masdings & Sons 's control * How you can correct any inaccuracies in the information.
 
-masdings.com gathers navigational information about where visitors go on our Web site and information about the technical efficiencies of our Web site and services (i.e. time to connect to our Web site, time to download pages, etc.). This information allows us to see which areas of masdings.com are most visited and helps us better understand our customers' experiences at masdings.com. This helps us improve the quality of your online experiences by recognizing and delivering more of the preferred features, areas and services. In the process of gathering navigational information non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected which will provide information regarding a visitor's use of our Web site (such as the time of a visitor's last visit to a page on our site).
+### Under 18’s
 
-### Use of Cookies and Other Technology:
+Children are not eligible to use our services and we ask that minors (under 18 years of age) do not submit any personal information to us.
 
-masdings.com uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies are typically stored on your computer's hard drive and are used by masdings.com to help track clicks and pass information as you go through the pages within the masdings.com Web site. We may also use a cookie and/or a technology known as clear gifs which are typically stored in e-mails to help us confirm your receipt of, and response to, our e-mails and provide you a more personalized experience.
+### Information We Collect
 
-masdings.com uses cookies to store the contents of your shopping bag, and to keep track of when you are logged in. The contents of your shopping bag are stored on your machine, and not available for anyone else to view the contents. In order for the site to operate properly, you need to have cookies enabled on your browser.
+Our primary goal in collecting personal information from you is to provide you with a smooth, efficient, and personalised experience while using our web-site. This allows us to provide services and features that most likely meet your needs, and to customise our service to make your experience easier and quicker.
 
-## Collection of Personal Information:
+To fully use our web-site and make purchases, you will need to register as a customer, where you will be required to provide us with your contact information and some other information relating require to process any orders you place with us. We automatically track certain information about you based upon your behaviour on our site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand and serve our users.
 
-If you purchase items on our Web site, we will ask you to provide your delivery and shipping detailsany message that you would like to include with your gift card, as well as the recipient's name and the telephone number and address to which you would like the gift card shipped. Upon completion of ordering a gift card, you will be given an order number. If you decide to track your gift card order through our Order Status feature, we will ask you to provide your order number, zip code and either your e-mail address or the last six digits of the credit card used to place the order.
+We use a web analytics tool to analyse site usage, how our users arrive at our site, what they do on the site, what browser they are using and on what operating system etc. However, this analytics data, collected via a JavaScript tag in the pages of our site, is not tied to personally identifiable information.
 
-If you create an account, we will ask for a small number of personal details. Once you have created an account, you will be able to edit these details. We ask only for information which is vital to the operation of this website.
+#### Cookies
 
-### How do we use the information that we collect?
+We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit http://www.aboutcookies.org for detailed guidance.
 
-When you sign up for e-mail or create an account, you will be added to the masdings.com e-mail marketing list and we will send you exclusive information about special offers, media events, new products and much more. If you do not wish to receive offers in this manner, log into your account, and remove the 'newsletter' option in your profile.
+The following describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete www.masdings.com’s cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
 
-masdings.com does not sell, rent or trade your e-mail address to unaffiliated third parties, but does use third parties to administer and manage our e-mails, and may in the future share your e-mail address with our sister companies. Third parties who manage and administer our e-mails are required to maintain your e-mail address in confidence. If you'd like to be removed from the Express E-Mail list, you can follow the removal instructions located at the bottom of the next e-mail you receive from Express, or you can please click here. Please be aware, even if you elect not to receive e-mail, or subsequently ask to be removed from the masdings.com e-mail marketing list, you may still receive e-mail confirmations for gift card purchases made on our Web site, and you may receive e-mails sent by a friend using E-mail a Friend.
+#### “Session” Cookies
 
-We will use the information you provide at this Web site to allow you to access shopping lists that you have created. The information you include in a shopping list may be used by us to send you information about our products in which you have indicated an interest.
+We use a session cookie to remember your log-in for you and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken - including the ability to place orders.
 
-When you sign up for e-mail or create an account, your name and mailing address will be added to the milanlcothing mailing database.
+#### Persistent Cookies for Site Analytics & Performance
 
-The information you provide when using the My Orders feature on our Web site is used to assist you in tracking your order(s).
+  * Google AdSense This cookie is used by Google to report to us how the adverts shown on www.masdings.com are performing. User data is all anonymous. You can find out more generally about Google and its policies and principles as regards advertising at http://www.google.com/policies/privacy/ads/
 
-## General:
+  * DoubleClick (Google) This is very similar to the cookie above (both are owned/controlled by Google) but is specific to the display advertising on www.masdings.com site. User data is anonymous. As above, you can find out more generally about Google and its policies and principles as regards advertising at http://www.google.com/policies/privacy/ads/
 
-You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or it is necessary to protect the users of our Web site, the site or the public.
+  * Google Analytics We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at http://www.google.co.uk/intl/en/analytics/privacyoverview.html
 
-We may use third parties to help us provide services to you, such as monitoring site activity, conducting surveys, processing orders, maintaining our database and administering e-mails. If personally identifiable information (i.e. name, address, e-mail address, telephone number) is provided to any of these third parties, we will require that such information be maintained by them in confidence.
 
-## International Visitors:
 
-If you are visiting masdings.com from a location outside of the U.K., your connection will be through and to servers located in the U.K. All information you receive from masdings.com will be created on servers located in the U.K. and all information you provide will be maintained in our Web server and internal systems located within the U.K.
 
-Updating Personal Information If you need to update your name, mailing address or email address, just click on My Account link and edit your information there.
+#### Social Buttons
 
-## Links:
+On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, Facebook ‘Like’ and others. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of www.masdings.com. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on www.masdings.com’s site. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting www.masdings.com, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
 
-For your convenience, our Web site may contain links to other Web sites. Some of these Web sites may request or require you to provide personal information. masdings.com is not responsible for the privacy practices of such Web sites and you should review their privacy policies prior to providing any personal information. Links that appear on masdings.com should not be deemed in all cases to imply that masdings.com endorses or has any affiliation with the linked Web sites.
+#### External Web Services
 
-## Questions / Changes in Policy:
+We use a number of external web services on the www.masdings.com site, mostly to display content within our web pages. For example; to show videos we use Vimeo and YouTube. This is not an exhaustive or complete list of the services we use, or might use in the future, when embedding content, but these are the most common. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.
 
-If you have questions or concerns with respect to our Privacy Policy, please feel free to contact us at enquiries@masdings.com. Should there be a material change in the categories of information collected at masdings.com or a material change in how we use information collected at masdings.com, we will post the revised Privacy Policy on this Web site at least 30 days in advance of the changes of policy.
+#### Email Tracking
+
+Some emails that we send you have no tracking in at all e.g. service emails such as order notifications. Other emails we send we put in tracking so that we can tell how much traffic those emails send to our site but we do not know who has clicked so the data is anonymous e.g. our daily newsletter. Some emails we can track, at an individual level, whether the user has opened and clicked on the email. We rarely use the latter information at a personal level, rather we use it to understand open and click rates on our emails to try and improve them. Sometimes we do use the personal information e.g. to re-email people who didn’t click the first time. If you want to be sure that none of your email activity is tracked then you should opt out of J. H. Masdings’s emails which you can do via [My Account](https://www.masdings.com/my-account/view)
+
+#### Surveys & Contests
+
+From time to time our site may request information from users via surveys, contests or for a particular service (e.g. newsletter). Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information (as supplied to the site during registration) and may include supplementary information as appropriate to the survey or contest. We will use the contact information to notify winners. We will not publish winners' details on the site though on request we will provide details of any winner's name. If the survey or contest has a sponsor then we may share information given by entrants with the sponsor, but only with the user's consent.
+
+#### Payment Processing
+
+In order to process payments online we require the billing address for the credit card used and your credit card details, which are passed to our payment processor, DataCash. For details of how this information is used, please see Section 3 below.
+
+### How We Use Your Information
+
+We use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customise our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.
+
+We use your email address to send you newsletters or other communications that you have requested from the Site. Out of respect for our users we offer an opt-out (see Section 4below).
+
+We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve any disputes, troubleshoot problems and enforce our Terms & Conditions. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases.
+
+#### Payment Processing
+
+We take online payments for our products and/or services. We use DataCash as our external payment provider. In addition to the information outlined above, we require the billing address of the credit card you use so that we can pass this to DataCash who check the address against the cardholder's details for security purposes. We don't store the credit card details on our server but we do store the billing details and a unique reference to your card details on the DataCash server so that we can process refunds. We also use the billing details in case we need to contact you regarding payments e.g. for a failed transaction. DataCash requires that you provide your credit card details to process the transaction. This is done on our secure server and this data is passed immediately and securely to DataCash for their processing. All communications between our servers and DataCash pass over an encrypted connection using SSL (Secure Sockets Layer).
+
+Your Personal Information is stored in our databases. Please note that the information you enter is not transferred outside of the European Economic Area by J. H. Masdings & Sons. There may be circumstances thought where we need to provide appropriate details to third parties to complete the service purchased by you (such as passing your details to a delivery company to effect delivery of goods you have purchased). In these circumstances, we cannot confirm where these third parties store their data. By submitting your information, you consent to this transfer.
+
+J. H. Masdings & Sons complies with the UK Data Protection Act 1998.
+
+### Email Communications
+
+As part of the registration process for joining as a customer of J. H. Masdings & Sons you have the opportunity to opt in or out to our marketing email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "Newsletter Preferences" section under "My Account". You can also opt-out directly by using the Unsubscribe links contained within these e-mails.
+
+### Our Disclosure of Your Information
+
+We do not sell or rent any personally identifiable information about you to any third party.
+
+Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy.
+
+By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorise us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, Intellectual Property Rights infringements, or other activity that is illegal or may expose us to legal liability.
+
+#### Advertisers
+
+We do aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. There are some cases where we do pass on your personal details, however we only do this if you explicitly agree to this, typically by checking an opt-in checkbox where the default position will be that you do not agree to your details being passed on. For example, where we have events such as Supplier Showcases you may choose to opt-in, at the time of registering for the event, to allow your details to be passed on to those presenting.
+
+#### Payment and Credit Card Details
+
+As explained above, we store a unique reference against your card details which allows us to process refunds automatically. Only the last four digits of your card number are available to J. H. Masdings & Sons admin staff. The first twelve digits are hidden so that J. H. Masdings & Sons staff cannot see your full card details. None of your card details, or billing details, are published on the site in any way, nor are they visible to other users on your membership account.
+
+#### Legal Requests
+
+J. H. Masdings & Sons cooperates with law enforcement inquiries and other third parties to enforce laws, Intellectual Property Rights and other rights. Local and international law enforcement agencies can request and may receive your personally identifiable information.
+
+#### Suppliers and Other Service Providers
+
+From time to time we use third party Suppliers and Service Providers to facilitate our services. Where any Service Provider collects information directly from you (such as the situation where we ask a Service Provider to conduct a survey for us) you will be notified of the involvement of the Supplier or Service Provider, and all information disclosures you make will be strictly optional.
+
+### Control of Your Password
+
+Except as specifically permitted by this section, you may not disclose your J. H. Masdings & Sons password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the "Change Password" section in "My Account".
+
+You may, however, disclose your password to certain third parties with whom J. H. Masdings & Sons has entered into specific contractual and technical arrangements designed to safeguard your password, in order to enjoy the benefits of those third parties' services in relation to Masdings.com's services.
+
+If you wish to change your password you can do so at any time through the "Change Password" section in "My Account" section of the site.
+
+### Reviewing and Changing Your Personally Identifiable Information
+
+You can at any time review and change the information you submitted during registration by visiting the "My Account" section of the site.
+
+You must promptly update your information if it changes. Once posted, you cannot change or remove any public postings made in our forums or other message areas or the feedback area.
+
+You can at any time ask to see and have removed any information that we have stored on you, though we reserve the right to charge for this service. Please contact J. H. Masdings & Sons if you would like your personal information removed. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms & Conditions. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests that it be removed.
+
+### Other Information Collectors
+
+Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other members of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them.
+
+### Security
+
+In order to process and help protect your credit card details, we use SSL (Secure Sockets Layer) to secure all communications between the site and you where sensitive information is being exchanged. This includes (but is not limited to) Registration, Login, My Account and Checkout pages.
+
+On the J. H. Masdings & Sons site we use best endeavors to safeguard the confidentiality of your personally identifiable information but we do not use encryption to store your personally identifiable informations. This is because we do not believe that the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet.
+
+### Changes to Privacy Policy
+
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will make any changes to this Privacy Policy and post them to our site. It is up to you whether you then continue to use the site and J. H. Masdings & Sons's services following such changes. However, it is assumed that you accept such changes if you continue to use the site and services. If you do not accept such changes then you should stop using J. H. Masdings & Sons's site and services and contact us, as per above, should you wish to have any of your details removed.
+
+### Mailing Address
+
+  * Telephone 01636 703050
+  * Office address 13 Middlegate, Newark, NG24 1AG, UK
+  * Contact Person Matthew Morris
+  * Contact E-mail info@masdings.com
+
+
+
+Privacy & Cookie Policy last updated 17th May 2012.
