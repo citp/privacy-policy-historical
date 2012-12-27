@@ -1,8 +1,50 @@
-> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514023600id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%23LID%3D01_99_01) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227092426id_/http%3A//www.next.co.uk/help/WinHelpSC.asp) for the most accurate reproduction.*
 
 # Next: Official Site - Privacy Policy
 
-## Security
+## About Cookies
+
+**What are cookies?**
+
+Cookies are small text files that are stored on your PC, phone or other web enabled device when you visit the Next website. They are not harmful and do not contain any confidential information such as your home address, date of birth or credit card details.
+
+Cookies are an essential part of how our site works. Some of these cookies are required by our site to enable you to transact whilst other cookies enable us to give you an enhanced, personalised web experience.
+
+By using our site, you also consent to the use of these cookies. Cookies are used on our site for the following reasons:
+
+  * To allow you to securely sign in to your Next Directory Account, so that you can use "My Account" features such as order information, making payments and viewing statements.
+  * To store the content of your online shopping bag whilst you browse the site and to complete an order.
+  * To record the areas of the website that you have visited, products you have viewed and time spent browsing, as well as the products you purchased. Next uses this information to help make the website more user friendly, develop our site design and to continuously improve the quality of the service we provide. 
+  * To distribute visitors to our site evenly across platforms to ensure the content is served at the fastest possible speed.
+
+
+
+We also offer you the facility to share your experience on our site through social sites such as facebook and twitter. By using these features, you are also consenting to allow cookies from these providers. More information about how these providers use cookies can be found at their websites.
+
+**Are cookies safe?**
+
+Yes. The information stored in cookies is safe and anonymous. They do not contain any information which could personally identify you and your account security is never compromised. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). For a video about cookies visit [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies).
+
+**Can I turn off cookies?**
+
+Next uses cookies to ensure that we provide the best possible standard of service to our online customers. However, as part of our privacy and security policy, we require your consent to use them.
+
+To withdraw your consent, or if you want to be notified each time a cookie is about to be used, you should amend the settings provided in your web browser to prevent us from storing cookies on your computer's hard drive. For information on how to disable cookies, please consult the "Help" tab of your browser via the menu bar.
+
+It must be noted that if you choose not to consent to the use of cookies, your experience of our site will be severely impaired and many integral aspects of the site, including (but not limited to) adding items to your shopping bag and accessing your account, will not work at all.
+
+**Our use of advertisement tracking**
+
+We also allow selected third parties who participate with us in marketing programmes to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site. We currently use two companies for this and you can see their privacy policies at the following addresses:
+
+  * Mediaplex: <http://www.mediaplex.com/mojo-privacy-statement>
+  * DoubleClick: <http://www.google.com/policies/privacy/>
+
+
+
+These cookies are as safe as the ones used whilst you browse our site and neither of these third parties collects any personal data from which they would be able to identify individual customers.
+
+Next is not responsible for the content or privacy policies of third parties or other websites.
 
 Next Directory take on-line security very seriously and uses a registered secure site under [Verisign Certificate Authority](http://www.verisign.co.uk/index.html).
 
@@ -81,8 +123,6 @@ If you decide you do not want us to contact you, you can request that we stop us
 
 You may continue to receive mailings which are already on route to you for a short period of time while your request is being dealt with.
 
-Our online ordering system uses a cookie to record a unique reference on your computer so that we can keep track of your order as you use the system. This cookie, that is saved to your system, is only valid for a single visit and each new visit will result in a new cookie overwriting any previous that were generated on previous visits to our site. If your internet browser is set to reject cookies or if your network firewall won't allow them then unfortunately you will not be able to use our online store. Please refer to your internet browser help file to see how to enable cookies on your p.c. In order that we can monitor and improve the site we may gather certain information about you when you use it, including details of your domain name and IP address, operating system, browser, version and the website that you visited prior to this site. This may involve the use of a cookie that will not expire at the end of your browsing session.
-
 You have a right to access the personal data that we hold on you. If you would like to see a copy please send a £10 fee and a written request to the Group Data Protection Manager at [Head Office](http://help.next.co.uk/Section.aspx?ItemId=10415 "click to view head office postal address"), quoting Security and Privacy Enquiry. If you think the information we hold on you is incorrect please contact the Group Data Protection Manager at [Head Office](http://help.next.co.uk/Section.aspx?ItemId=10415) or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
 
 Next is a member of the Direct Marketing Association (DMA) and is required to operate within the rules of the DMA's Code of Practice. This means that Next operate to a high level of commercial standards which are designed to :
@@ -106,7 +146,7 @@ We may contact you for marketing purposes by email, mail or telephone with relev
 
 Next Directory is a trading name of Next Retail Ltd and a member of Next Group Plc. Some of the information you provide may be transferred outside the European Economic Area for processing. However, strict rules regarding the confidentiality of security of your information are in place to safeguard it.
 
-We keep our privacy policy under regular review and we will place any updates in this webpage. This privacy policy was last updated on 26th April 2009.
+We keep our privacy policy under regular review and we will place any updates in this webpage. This privacy policy was last updated on 24th May 2012.
 
 Group Data Protection Manager  
 Next Retail Ltd.  
