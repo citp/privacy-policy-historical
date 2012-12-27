@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveys.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626073604id_/http%3A//us.surveys.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveys.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227081501id_/http%3A//us.surveys.com/privacy.aspx) for the most accurate reproduction.*
 
 # GfK US Portal > Privacy
 
@@ -12,7 +12,7 @@ This Privacy Statement presents an overview of how we collect, store, use and di
 
 For those who are not Surveys.com Members, please [click here](http://www.gfkamerica.com/about_us/privacy/nonpanel_privacy_policy/).
 
-To View the Surveys.com Terms & Conditions, please [click here](https://web.archive.org/web/20120626073604id_/http%3A//us.surveys.com/terms.aspx).
+To View the Surveys.com Terms & Conditions, please [click here](https://web.archive.org/web/20121227081501id_/http%3A//us.surveys.com/terms.aspx).
 
 **WE PROTECT YOUR PRIVACY**
 
@@ -125,7 +125,7 @@ If we deny an individual's request for access to their Personal Information, we 
 
 **HOW DO YOU KNOW THAT THE PERSONAL INFORMATION WE HAVE ON YOU IS ACCURATE?**
 
-GfK makes reasonable efforts to keep Personal Information in its possession or control accurate and complete, based on the most recent information available to us. We also rely on our respondents to keep their Personal Information accurate and complete. If you register with us, you have the right, and we encourage you, to view and update your registration information at any time. To update your information, please log-in to the members area [Signin](https://web.archive.org/web/20120626073604id_/http%3A//us.surveys.com/Signin.aspx) or e-mail us: Panel Support Team at [chenderson@e.surveys.com](mailto:chenderson@e.surveys.com) in the US and Pam Hughes at [pamhughes@e.surveys.com](mailto:pamhughes@e.surveys.com) in the UK. In order to ensure accuracy of our database and to ensure compliance with our Terms & Conditions, we also may verify Personal Information against a third party database. If you believe your Personal Information is inaccurate, you can demonstrate in writing the accuracy or completeness of the Personal Information we have on you. If you successfully demonstrate that the Personal Information we have on you is inaccurate or incomplete, we will amend as required. 
+GfK makes reasonable efforts to keep Personal Information in its possession or control accurate and complete, based on the most recent information available to us. We also rely on our respondents to keep their Personal Information accurate and complete. If you register with us, you have the right, and we encourage you, to view and update your registration information at any time. To update your information, please log-in to the members area [Signin](https://web.archive.org/web/20121227081501id_/http%3A//us.surveys.com/Signin.aspx) or e-mail us: Panel Support Team at [chenderson@e.surveys.com](mailto:chenderson@e.surveys.com) in the US and Pam Hughes at [pamhughes@e.surveys.com](mailto:pamhughes@e.surveys.com) in the UK. In order to ensure accuracy of our database and to ensure compliance with our Terms & Conditions, we also may verify Personal Information against a third party database. If you believe your Personal Information is inaccurate, you can demonstrate in writing the accuracy or completeness of the Personal Information we have on you. If you successfully demonstrate that the Personal Information we have on you is inaccurate or incomplete, we will amend as required. 
 
 **OPT-OUT OF SURVEYS**
 
