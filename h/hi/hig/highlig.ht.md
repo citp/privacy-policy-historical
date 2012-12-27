@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highlig.ht privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531052626id_/http%3A//highlig.ht/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlig.ht privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227165444id_/http%3A//highlig.ht/privacy.html) for the most accurate reproduction.*
 
 # Highlight | Privacy Policy
 
@@ -17,6 +17,8 @@ When you use our Service we may collect Personal Information and other informati
 In operating our Service, we may use a technology called "cookies" to help provide additional functionality and analyze Site usage more accurately. If you are interested, your Web browser should contain a Help section that explains how to receive notifications when you receive a new cookie and how to turn cookies off. 
 
 **A Note About Location:** Our Service is designed to help you learn more about other people nearby, and we use your location information (e.g., by using the GPS on your mobile device) to provide the functionality of our Service. If a person near you also uses our Service, their profile may be displayed on your mobile device - showing their name, profile photo(s), mutual friends, a snapshot of their approximate location, and anything else they have chosen to share. Please keep in mind that other users can see this information about you, and they may use it or disclose it to other individuals or entities outside of our control and without your knowledge. Your information may be subject to abuse, misuse, and monitoring by others, and you share this information at your own risk. 
+
+You may also choose to connect our Service to your other social network profiles, such as foursquare and Twitter. If you choose to connect any additional profiles, we may at times use your check-in data and your post information to identify your location. If you do not wish to share information from foursquare and Twitter, you may disconnect these profiles at any time. 
 
 ## How do we use your information?
 
@@ -58,6 +60,8 @@ To help you quickly set up a profile, the Service imports some of your data from
 
 You may at times have the option of posting your Highlight activities to other social networking service like Facebook or Twitter. You acknowledge that if you choose to use this feature, your friends, followers and subscribers on any social networking services you have enabled will be able to view such activity. 
 
+You also acknowledge that other Highlight users may â€œhighlightâ€ you or mention you in their posts, notes, and/or encounter summaries, and that such mentions may be shared on Facebook. 
+
 ## Steps we take to protect your privacy
 
 Highlight takes reasonable steps to protect the Personal Information provided via the Service from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet, email or other electronic transmission is ever fully secure or error free, so you should take special care in deciding what information you send to us in this way. 
@@ -72,4 +76,4 @@ Again, if you have feedback, comments, or questions about this Privacy Policy yo
 
 Thanks for trying out Highlight! 
 
-Last updated on April 23, 2012. 
+Last updated on November 20, 2012. 
