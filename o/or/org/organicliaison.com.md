@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the organicliaison.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123161416id_/http%3A//www.organicliaison.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicliaison.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227222349id_/http%3A//www.organicliaison.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy & Security, Online Weight Loss Program | Kirstie Alley's Organic Liaison
+# Organic Liaison
 
 Organic Liaison, LLC, is committed to protecting your privacy. This Privacy Policy sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing an Organic Liaison website, you acknowledge, fully understand, and agree to be bound by Organic Liaison’s Privacy Policy, and freely consent to the information collection and use practices described in this website Privacy Policy.
 
