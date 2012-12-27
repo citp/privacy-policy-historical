@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626084247id_/http%3A//www.hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227093421id_/http%3A//www.hancockbank.com/home/privacy-policy.asp) for the most accurate reproduction.*
 
 # Hancock Bank: Privacy Policy
 
@@ -152,7 +152,7 @@ A cookie is a small piece of information about an Internet session that may be c
 
 
 
-* **Except for e-Banking**. Please refer to [e-Banking FAQ](https://web.archive.org/web/20120626084247id_/http%3A//www.hancockbank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with e-Banking.
+* **Except for e-Banking**. Please refer to [e-Banking FAQ](https://web.archive.org/web/20121227093421id_/http%3A//www.hancockbank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with e-Banking.
 
 ## Use of Information Collected
 
