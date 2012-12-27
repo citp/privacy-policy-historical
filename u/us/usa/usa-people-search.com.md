@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the usa-people-search.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628194537id_/http%3A//www.usa-people-search.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa-people-search.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227234016id_/http%3A//www.usa-people-search.com/Privacy.aspx) for the most accurate reproduction.*
 
 # USA People Search Privacy Policy and User Information Guidelines
 
-**Information Collected and Use**  
+**Information collection and use**  
 USA People Search is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others without your explicit permission.   
 **Registration**  
 During registration a user is required to give their contact and billing information (such as a name, email address, credit card information). This information is used to contact the user about the services on our site for which they have expressed interest, and to make purchases.   
-We value your privacy and, upon request, can block your records from being shown on USAPeopleSearch.com from databases we control. We are unable to remove any information about you from databases operated by third parties. If you would like us to remove your records from USAPeopleSearch.com, [please fill out the form here](https://web.archive.org/optout-form.pdf).   
+We value your privacy and, upon request, can block your records from being shown on USAPeopleSearch.com from databases we control. Unless otherwise required by law, we will only accept opt-out requests directly from the individual whose information is being opted-out and we reserve the right to reject all other opt-out requests. We are unable to remove any information about you from databases operated by third parties. If you would like us to remove your records from USAPeopleSearch.com, [please fill out the form here](https://web.archive.org/optout-form.pdf).   
 **Cookies**  
 A cookie is a piece of data stored on the user's hard drive containing information about the user's current session. USA People Search uses cookies to keep track of whether a user is logged in. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates.   
 **People Database**  
