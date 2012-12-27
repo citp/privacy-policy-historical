@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasonnyback.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617031622id_/http%3A//www.jasonnyback.com/legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasonnyback.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227100458id_/http%3A//jasonnyback.com/legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -96,11 +96,7 @@
 > 
 > This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications. 
 > 
-> **LATEST UPDATE**
-> 
-> This Privacy Policy was last updated on: December 8 th, 2005 
-> 
-> **COPYRIGHT**
+> ******COPYRIGHT**
 > 
 > This Privacy Policy is used under license. The copyright is owned by Mining Gold Corporation and IP Management, LLC. 
 > 
