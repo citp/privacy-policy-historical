@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoconvertertool.net privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626125940id_/http%3A//videoconvertertool.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoconvertertool.net privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227095103id_/http%3A//videoconvertertool.net/privacy-policy) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
@@ -18,6 +18,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
 
+** Unsolicited email messages **
+
+We prohibit any advertising of our VIDEOCONVERTERTOOL.NET web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.   
+If you feel you've been sent unsolicited emails promoting our brand or website and would like to register a complaint, please contact us at <http://videoconvertertool.net/contactus>. We will immediately investigate all allegations made related to unsolicited messages. 
+
 ** Your Consent **
 
 By using our site, you consent to our Privacy Policy 
@@ -26,4 +31,4 @@ By using our site, you consent to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on January 13, 2012 
+This policy was last modified on October 1, 2012 
