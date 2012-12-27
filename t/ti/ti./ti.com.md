@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ti.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617214357id_/http%3A//www.ti.com/footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ti.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227124513id_/http%3A//www.ti.com/corp/docs/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Texas Instruments - Privacy Policy
 
@@ -12,13 +12,13 @@ You are welcome to visit TI’s websites while remaining anonymous and not revea
 
 ## 3\. Data We Collect and How We Use it
 
-TI collects the Personal Data you enter into forms on the website, for example, if you enter your e-mail address when you register with my.TI or your postal address when you purchase products or request product information. This data will be used to serve your request, e.g. to provide you with the product and service information you asked for. TI also uses Personal Data to enhance the service of TI’s websites and to personalize information provided to you online or offline. Additional information on the purpose for which we use your data may be provided to you when entering your Personal Data in a particular form.
+TI collects the Personal Data you enter into forms on the website. For example, if you enter your e-mail address when you register with my.TI or your postal address when you purchase products or request product information, this data will be used to serve your request, e.g. to provide you with the product and service information you requested. TI also uses Personal Data to enhance the service of TI’s websites and to personalize information provided to you online or offline. Additional information on the purpose for which we use your data may be provided to you when entering your Personal Data in a particular form.
 
 Your Personal Data is collected through, stored and processed by TI or service providers of TI in the USA.
 
 Bulletin boards, forums and/or newsgroups are also available to you on TI’s websites subject to the specific terms of use for these services. Please remember that any information that you provide in these areas becomes public and you should exercise caution in deciding to disclose it.
 
-In addition to Personal Data, TI collects certain information on an anonymous basis, i.e. this information cannot be associated with you personally. For example, TI collects the number of visitors to our websites, browsing patterns and areas of interest. We analyze this data to assess trends, statistics and customers’ needs, to help us improve our websites, products and better serve our customers.
+In addition to Personal Data, TI collects certain information on an anonymous basis,  i.e. in a manner that cannot be associated with your personal identity. For example, TI collects the number of visitors to our websites, browsing patterns, information derived from your IP address indicating the country or state where your communication originated, and areas of visitors’ interest. We analyze this data to assess trends, statistics and customers’ needs, to help us improve and customize our websites and our products, so we can effectively meet visitors’ needs.
 
 ## 4\. Disclosure to Other Companies
 
@@ -28,14 +28,14 @@ Under certain circumstances, Personal Data may be given to TI business partners 
 
 You may opt out of the collection and processing of your Personal Data at any time. By way of example, when you are registered with my.TI, enter our online stores or register for a contest or promotion you have the option to receive or not to receive additional communications from TI. If you choose to receive these additional communications and later change your mind, you may unsubscribe at any time. For example, e-mail messages will contain instructions on how to “unsubscribe” from receiving the e-mail in question.
 
-  * If you wish to unsubscribe from receiving all Texas Instruments Semiconductor Division email, please send an email to [tiprime@dlep14.itg.ti.com](mailto:tiprime@dlep14.itg.ti.com?subject=remove) placing the word “remove” in the subject line.
+  * If you wish to unsubscribe from receiving all Texas Instruments Semiconductor Division email, please send an email to [tiprime@dlep14.itg.ti.com](mailto:tiprime@dlep14.itg.ti.com?subject=remove) placing the word “remove” in the subject line. 
   * If you wish to unsubscribe from receiving all Texas Instruments Education Technology email, please send an email to [calc-webmaster@ti.com](mailto:calc-webmaster@ti.com?subject=remove).
 
 
 
 ## 6\. Cookies
 
-Cookies are small text files that our websites ask to place on your computer’s hard drive. If your browser is set to accept cookies, then your browser adds the text in a small file. We do not use cookies to read any other information on your computer’s hard drive. We use cookie technology to authenticate your access to various areas of our website, tailor its content to your preferences, to help us analyze web traffic in general and to track when site visitors complete surveys, so that we do not present a survey again for 90 days. Cookies may be used in interactions where you request something from TI: literature, CD-ROMs, technical support, seminar registrations, personalized web pages, or when you participate in a survey. Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse cookies, or to warn you before a cookie is placed. If you choose not to accept cookies, you may have to manually input user IDs and passwords to receive certain data.
+Cookies are small text files that our websites ask to place on your computer’s hard drive. If your browser is set to accept cookies, then your browser adds the text in a small file. We do not use cookies to read any other information on your computer’s hard drive. We use cookie technology to authenticate your access to various areas of our website, tailor its content to your preferences or geographic region, to help us analyze web traffic in general and to track when site visitors complete surveys, so that we do not present a survey again for 90 days. Cookies may be used in interactions where you request something from TI: literature, CD-ROMs, technical support, seminar registrations, personalized web pages, or when you participate in a survey. Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse cookies, or to warn you before a cookie is placed. If you choose not to accept cookies, you may have to manually input user IDs and passwords to receive certain data.
 
 ## 7\. Your Right to Access, Correction and Deletion of Personal Data
 
@@ -56,14 +56,14 @@ We aim to protect your Personal Data. TI uses a variety of commercially availabl
 
 The vast majority of TI websites do not target and are not intended for children under the age of 13. TI values the privacy needs of these children and encourages parents to be an active participant in their child’s online activities and interests. We abide by the Children’s Online Privacy Protection Act (COPPA) requirements. TI websites that do not target children will not knowingly collect data from them. If we discover Personal Data from a child that has been provided through a TI website that is targeted to adults and older children, we will eliminate that data.
 
-A few portions of TI’s Education Technology Group websites may include material targeted to children under the age of 13 as part of a broader family audience target. When the collection of Personal Data is involved, those specific web pages will be clearly identified, and will require that a parent’s or guardian’s permission is secured when required by COPPA. Appropriate notices and instructions will be included on such sites. Parents wishing to access, review or delete their child’s personal information should contact us at calc-webmaster@ti.com.
+A few portions of TI’s Education Technology Group websites may include material targeted to children under the age of 13 as part of a broader family audience target. When the collection of Personal Data is involved, those specific web pages will be clearly identified, and will require that a parent’s or guardian’s permission is secured when required by COPPA. Appropriate notices and instructions will be included on such sites. Parents wishing to access, review or delete their child’s personal information should contact us at [calc-webmaster@ti.com](mailto:calc-webmaster@ti.com).
 
 ## 10\. Changes to this Privacy Policy
 
-We reserve the right to change this policy. While we do not intend to make changes to this policy very often, it is always a good idea to double check our most current policy statement when you visit us to be sure that you have read and agree with what information we collect, how we use it and under what circumstances we disclose it. For more information on using TI’s websites, see the Terms of Use.
+We reserve the right to change this policy. While we do not intend to make changes to this policy very often, it is always a good idea to double check our most current policy statement when you visit us to be sure that you have read and agree with what information we collect, how we use it and under what circumstances we disclose it. For more information on using TI’s websites, see the [Terms of Use](http://www.ti.com/corp/docs/legal/termsofuse.htm).
 
 ## 11\. TI Contact
 
-If you have any questions about our privacy policy, you can e-mail us at [privacy@list.ti.com](mailto:privacy@list.ti.com).
+If you have any questions about our privacy policy, you can e-mail us at privacy at list dot ti dot com (substitute special characters as required).
 
-Policy last revised on May 27, 2008
+Policy last revised on August 5, 2010
