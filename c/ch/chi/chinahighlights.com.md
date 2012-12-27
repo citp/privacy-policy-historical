@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chinahighlights.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626095528id_/http%3A//www.chinahighlights.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinahighlights.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227094711id_/http%3A//www.chinahighlights.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security, TRUSTe Certificated - China Highlights
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.chinahighlights.com/seal_m "Validate TRUSTe privacy certification") Last Updated on **December 24, 2010**
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.chinahighlights.com/seal_m "Validate TRUSTe privacy certification") Last Updated on **December 24, 2011**
 
 This privacy statement describes how China Highlights collects and uses the personal information you provide on our Web site: [www.chinahighlights.com](https://web.archive.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
