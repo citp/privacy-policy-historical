@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627223538id_/http%3A//www.metropolismag.com/cda/story.php%3Fartid%3D2109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropolismag.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227134201id_/http%3A//www.metropolismag.com/cda/story.php%3Fartid%3D2109) for the most accurate reproduction.*
 
 # Privacy Policy | Metropolis Magazine
 
@@ -6,11 +6,11 @@ Bellerophon Publications, Inc., is the sole owner of the information collected o
 
 
 **Subscription**  
-We request information from the user on our subscription order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. Our subscriber list is sometimes rented to direct-response mailers. If you would prefer that you only be contacted about _Metropolis_ -related billing and processing matters, please let us know by writing to us at _Metropolis_ , P.O. Box 609, Mt. Morris, Illinois 61054 or by calling us at (800) 344-3046.  
+We request information from the user on our subscription order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user. Our subscriber list is sometimes rented to direct-response mailers. If you would prefer that you only be contacted about _Metropolis_ -related billing and processing matters, please let us know by writing to us at _Metropolis_ Magazine, PO Box 3106, Langhorne, PA 19047-9899 or by calling us at (800) 344-3046.  
 
 
-**Conferences**  
-We request information from the user on our conference registration form. A user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes. If we have trouble processing an order, this contact information is used to get in touch with the user.  
+**Events & Conferences**  
+We request information from the user on our events & conference registration forms. A user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes. If we have trouble processing an order, this contact information is used to get in touch with the user.  
 
 
 **Cookies**  
@@ -57,7 +57,7 @@ This web site takes industry standard precautions to protect our users’ inform
 While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’  
 
 
-We also take commercially reasonable measures to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.    
+We also take commercially reasonable measures to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.    
 
 
 **Notification of Changes**  
