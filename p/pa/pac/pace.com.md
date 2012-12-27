@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629201027id_/http%3A//www.pace.com/Universal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pace.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227131605id_/http%3A//www.pace.com/Universal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pace
 
-**About this Policy**
+## **About this Policy**
 
 Your privacy is important to us. We have created this Privacy Policy to explain what personal information we collect when you visit our website at [www.pace.com](http://www.pace.com/) (“ **Website** ”).  This Policy also explains the purposes for which we may use that personal information. "Personal information" is information that can identify you or another person and which relates to you or that other person.
 
-**Important: Please note that this Privacy Policy forms part of our[Terms of Use](https://web.archive.org/Universal/Terms-Of-Use/).  You should read this Privacy Policy very carefully.  By submitting personal information to us, you consent to our collection and use of that information as explained in this Privacy Policy.**
+**Important: Please note that this Privacy Policy forms part of our[Terms of Use](https://web.archive.org/universal/terms-of-use/).  You should read this Privacy Policy very carefully.  By submitting personal information to us, you consent to our collection and use of that information as explained in this Privacy Policy.**
 
-**Who are we?**
+## **Who are we?**
 
 We are Pace plc. “Pace” is a trading name and is a registered trademark of Pace plc, a company registered in England under company number 1672847. Our registered office is at Victoria Road, Saltaire, West Yorkshire, BD18 3LF.
 
 We are required to comply with the Data Protection Act 1998 (“ **DPA** ”) in relation to the personal information we hold about you.  Under the DPA, Pace plc is known as a data controller in respect of the personal information which we collect from you using this Website and to which this Privacy Policy applies. This means that when you provide personal information to us, we have certain responsibilities in relation to that personal information.  Pace plc has notified the Office of the Information Commissioner of its data processing activities: our registration number is Z5989422.
 
-**What information do we collect from visitors to the Website and how is it used?**
+## **What information do we collect from visitors to the Website and how is it used?**
 
 We may collect personal information from visitors to our Website in different ways.  For example, you may complete one of our online enquiry forms, e-mail an enquiry to us using one of the links which we provide on our Website or you may complete our online registration form to subscribe to our e-mail alerts. 
 
@@ -28,7 +28,7 @@ We also provide information on our Website on the careers pages about our curren
 
 Note also that some of the information which you provide may include what is known as sensitive personal data, such as information about trade union memberships, religious belief or health. Please note that by sending this information to us, you specifically consent to our using that information for the purposes outlined in this Policy _._
 
-**Other uses of your personal information: Marketing and sharing data**
+## **Other uses of your personal information: Marketing and sharing data**
 
 As well as dealing with your enquiries, we may use your personal information to provide you with marketing information such as details of our promotions, new services and changes to the Website. We will do this in accordance with the marketing preferences which you tell us about on the relevant web pages.
 
@@ -38,7 +38,7 @@ Please note that when using your personal information in accordance with this Po
 
 We do not trade or rent your personal information to third parties.
 
-**When you submit information to us – your obligations**
+## **When you submit information to us – your obligations**
 
 When you provide any personal information to us, you warrant that it is accurate and up to date. This is very important because if you provide details which are inaccurate then we may not be able to deal with your enquiry. You should therefore check that all details are accurate and without error.
 
@@ -46,11 +46,11 @@ You should inform us if any information which we hold about you requires updatin
 
 If you submit a third party's details to us for any reason, for example, if you wish us to respond to your enquiry by contacting another person, if you raise an enquiry on someone else’s behalf or if you would like someone else to receive our email alerts, you must first have obtained their permission to do so. By providing details about someone else, you confirm that you have all appropriate permissions.  
 
-**How do you access the personal information we hold about you?**
+## **How do you access the personal information we hold about you?**
 
 To obtain a copy of the personal information we hold about you, please write to the Company Secretary at Pace plc, Victoria Road, Saltaire, BD18 3LF, enclosing a cheque or postal order for £10 made payable to Pace plc to cover our administration costs. As soon as we are satisfied as to your identity we will send you, within 40 days of receipt of your written request and the fee, a copy of all the personal information we hold about you which we are legally required to disclose to you.
 
-**Use of Cookies  
+## **Use of Cookies  
 **
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
@@ -104,6 +104,23 @@ Your region preference is set by either:
 
 1\. Automatically using your browsers IP address block to associate a region.   
 2\. Requesting you to select a region.  
+  
+Essential site cookie
+
+| 
+
+privacy_cookie  
+(First party cookie)
+
+| 
+
+To remember that you have been shown the cookie policy pop-up
+
+| 
+
+Set upon your first arrival to the Pace site.
+
+Expires in 365 days.  
   
 Google Analytics
 
@@ -200,13 +217,13 @@ Most web browsers allow some control of most cookies through the browser setting
 
 To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
 
-**What about third party websites that you can access via our Website**
+## **What about third party websites that you can access via our Website**
 
 The Website contains links to our other Pace website at [www.pace.com/americas](http://www.pace.com/americas).The information which is provided to us using those websites is also covered by this Privacy Policy.
 
 However, our Website also contains links to third party websites which are outside our control and which are not covered by this Privacy Policy. Links to those websites are provided for your convenience only. If you access other websites using the links provided, the operators of those websites may collect personal information from you, which may be used in accordance with any privacy policies which they may provide. We recommend that you read any such privacy policies on third party websites. We are not liable for the practices of such third party website operators in respect of your personal information and any information which you submit shall be a matter solely for you to determine.  
 
-**Security of your data**
+## **Security of your data**
 
 We will take all reasonable steps to keep personal information about you secure in accordance with the requirements of the Data Protection Act 1998. The Internet is global and no data transmitted via the Internet can be guaranteed to be 100% secure during transmission. We cannot warrant the security of any information you transmit to us before we receive it.
 
@@ -214,6 +231,6 @@ It is also possible that the information you provide to us will be temporarily t
 
 Please note that in accordance with our security procedures we may also request proof of your identity before disclosing certain information to you.
 
-**How will you know if we make any changes to this Privacy Policy?**
+## **How will you know if we make any changes to this Privacy Policy?**
 
 We may amend this Privacy Policy from time to time. If we make any substantial changes to the way in which we use your personal information, we will notify you by posting a notice on the Website's homepage. You can view the current version of our Privacy Policy at any time by clicking on the Privacy Policy link on the Pace Corporate homepage or via the link at the bottom of each page.
