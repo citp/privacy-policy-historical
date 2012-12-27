@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianpankhurst.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620214745id_/http%3A//www.christianpankhurst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpankhurst.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227144218id_/http%3A//www.christianpankhurst.com/privacy-policy) for the most accurate reproduction.*
 
 # Christian Pankhurst | Privacy policy
 
@@ -16,7 +16,7 @@ This notice applies to all information collected or submitted on the www.christi
 • Email address  
 • Phone number
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of personal information collected are:
 
 • Name  
 • Address  
