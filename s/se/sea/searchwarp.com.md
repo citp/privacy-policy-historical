@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchwarp.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511104241id_/http%3A//wrytestuff.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchwarp.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227101333id_/http%3A//wrytestuff.com/Privacy.htm) for the most accurate reproduction.*
 
 # WryteStuff Privacy Policy
 
@@ -7,7 +7,7 @@ Revised March 27th, 2008
 
 At WryteStuff.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit WryteStuff.com, and how we safeguard your information. We never sell your personal information to third parties. The WryteStuff.com Web site is owned and operated by IcoLogic, Inc.
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/web/20120511104241id_/http%3A//wrytestuff.com/Contact.htm)
+If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/web/20121227101333id_/http%3A//wrytestuff.com/Contact.htm)
 
 **Gathering of Information**
 
@@ -61,7 +61,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **How to Contact Us**
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/web/20120511104241id_/http%3A//wrytestuff.com/Contact.htm)
+If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/web/20121227101333id_/http%3A//wrytestuff.com/Contact.htm)
 
 This statement may change from time to time, so please check back periodically.
 
