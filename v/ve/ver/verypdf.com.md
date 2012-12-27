@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verypdf.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616065732id_/http%3A//www.verypdf.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verypdf.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227161441id_/http%3A//www.verypdf.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
