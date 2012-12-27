@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningmirror.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625103551id_/http%3A//learningmirror.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningmirror.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227203303id_/http%3A//learningmirror.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # learningmirror
 
