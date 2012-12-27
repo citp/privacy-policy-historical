@@ -1,30 +1,61 @@
-> *The following text is extracted and transformed from the braintrack.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615202748id_/http%3A//www.braintrack.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braintrack.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227010515id_/http%3A//www.braintrack.com/privacy.htm) for the most accurate reproduction.*
 
 # BrainTrack Privacy Policy
 
-BrainTrack.com (known throughout this policy as “BrainTrack”) is committed to the privacy of the users of this site. 
+The purpose of BrainTrack.com' privacy statement is to clarify how BrainTrack.com engages in procuring, using, and sharing users' personal information they provide to our website.
 
-BrainTrack has established the following privacy policy: 
+#### Privacy Statement Changes 
 
-  * **Personal Information —** BrainTrack does not store or retain any personally identifiable information about its users except when users subscribe to BrainTrack's email list or apply for a scholarship. Email subscribers are asked for an email address so that they can receive periodic newsletters and other updates about BrainTrack. Scholarship entrants provide contact information that is used only for the purposes of BrainTrack's scholarships and not for any internal or third-party marketing purposes. If you no longer wish to receive our newsletter, you may opt-out of receiving them by following the instructions included in each newsletter or by emailing us at info@braintrack.com. 
-  * **Sharing of Personal Information —** We will share your personal information with third parties only in ways that are described in this privacy policy. We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process; 
-    * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; 
-    * We may provide your personal information to companies that provide services to help us with our business activities such as an email service provider to send out emails on our behalf, to our partners to fulfill your requests or to a third party who offers customer service. These third parties are authorized to use your personal information only as necessary to provide these services to us; 
-    * If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
-  * **School Information and Other Request Forms —** Any information provided by users in an information request form is sent directly to a partner's website for the purpose of providing information to the site visitor, such as when a user completes a form to request information from a college. 
-  * **Partner Policies —** BrainTrack's partners, such as those that collect school information requests through iframed pages on BrainTrack, maintain their own privacy policies that users should review before continuing to provide information on their sites. 
-  * **Log Files —** BrainTrack maintains standard website log files. This information is for understanding traffic patterns to the website and contains no personally identifiable information. 
-  * **Third-party Cookies —** The use of third party cookies is not covered by our privacy policy. We do not have access or control over these cookies. 
-  * **Clear Gifs (Web Beacons) —** Our third party tracking utility partner employs a software technology called clear gifs (a.k.a web beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal information. 
-  * **Analytics —** BrainTrack uses third-party analytical packages to help gather statistical and other information about traffic to the site. This information is collected to improve our website, make it more user-friendly and monitor that it is performing correctly. These tools set cookies to perform session tracking to determine when a user moves from one page to another. In some cases an analytics service may record mouse clicks, mouse movements, scrolling activity as well as any text a user types in this website, except text in password fields. The packages do not track browsing habits across other web sites or text inputted in password fields. No personal information is being tracked through these Analytics. 
-  * **Third-Party Advertising —** BrainTrack uses third-party advertising companies to serve ads to site visitors. These companies may use information (not including your name, address, email address, or telephone number) about visits to this and other web sites in order to provide advertisements about goods and services that may be of interest. They may set and retrieve cookies to achieve this. A full list of companies that may be involved in displaying ads on BrainTrack can be found [here](https://www.google.com/adsense/support/bin/answer.py?answer=94149). Visitors can contact these companies for further details. 
-  * **Links to Other Sites —** This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personal information. This privacy policy applies only to the information collected by this Web site. 
-  * **Site Terms and Conditions —** Please see our [Terms and Conditions](https://web.archive.org/conditions.htm) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
-  * **Access to Personal Information —** If your personal information changes, or if you no longer desire our service, you may correct, delete inaccuracies or amend it by contacting us at info@braintrack.com. We will respond to your access request within 30 days. We will retain your information for as long as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at info@braintrack.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-  * **Social Media (Features) and Widgets —** Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
-  * **Security —** The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
-  * **Policy Changes —** We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.. This policy was last modified on March 15, 2012. 
+BrainTrack.com's privacy policy may change from time-to-time to exhibit changes we make to our information procuring, using, or sharing practices. We advise checking this page occasionally to maintain a current comprehension of said policy.
+
+#### Information We Collect 
+
+While you use our website and services, BrainTrack.com may collect the personal information listed below: 
+
+  * Contact Information: Your first and last name and the various means by which we can contact you, such as your email address, telephone number, etc.
+  * Demographic Information: Your gender, educational background, location, etc. 
+  * Computer Information: Your IP address, operating system, etc. 
 
 
 
-Please contact BrainTrack using our [**Contact Form**](https://web.archive.org/contact.htm) or info@braintrack.com with any questions about this privacy policy. 
+#### Information We Use
+
+This information is gathered by BrainTrack.com to provide the following services for users: 
+
+  * Online degree recommendations that fit your goals and/or needs.
+  * Information relating to your personal career and education goals.
+  * Information relating specifically to schools that offer flexible programs that may meet your needs, and/or that you have requested information on.
+  * Customer service for requests, questions, or concerns you've expressed
+  * Newsletter communications
+  * Marketing communications 
+
+
+
+Additionally, information is gathered to help in BrainTrack.com's business development efforts, such as our marketing and web improvement endeavors, and to engage in research and analysis to meet our business goals.
+
+####  Opting-Out of Marketing Communications 
+
+BrainTrack.com may send you marking communications. If you do not want to receive such communications, you have the option to opt-out of them. You may do this by following the instructions for unsubscribing, which are included in emails.
+
+#### Information We Share
+
+This section of the privacy policy stands to inform users of the circumstances in which will share their personal information with third parties; as such, we will only share your personal information in accordance to this policy. Under no circumstance will BrainTrack.com sell users' personal information to third parties for their own, impertinent marketing practices.
+
+One instance in which BrainTrack.com may share your personal information is if any portion of its assets are merged, acquisitioned, or sold and the law requires such sharing. With users' prior consent, BrainTrack.com may confer their personal information to a third party in this situation when we, in good faith, believe it crucial to do so to:
+
+  * Uphold BrainTrack.com's rights
+  * Guarantee protection for your well-being or others'
+  * Investigate fraud
+  * Heed a request made by the government
+
+
+
+Another instance when BrainTrack.com may share users' personal information with a third party is when it is necessary for business activities to which BrainTrack.com contracts service companies to complete. Examples of such companies are a third party customer or email service provider.
+
+Important also for users to know is that in providing BrainTrack.com with your personal information, you are legally querying our services. As such, you give us, our business affiliates, and our third party marketing affiliates consent to contact you. This consent extends to telephone contact regardless of users' participation in state or federal Do Not Call lists; a query legally equates to an exemption from all Do No Call requirements.
+
+#### Contacting BrainTrack.com 
+
+Questions or concerns about BrainTrack.com's privacy policy can be submitted using our contact form. 
+
+This privacy policy is effective as of August 18, 2012 
