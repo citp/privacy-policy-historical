@@ -1,93 +1,76 @@
-<!--The following is the downloaded HTML source of the wordreference.com privacy policy that was archived on 2012-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120624022436id_/http%3A//www.wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wordreference.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227021229id_/http%3A//www.wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="en-us">
 <title>WordReference.com Privacy Policy</title>
-
-
-<!--Begin WordReference, All rights reserved. Patent Pending -->
-<script src="http://www.wordreference.com/wordreference/wordrefenable.js" language="JAVASCRIPT"></script>
-<!--End WordReference, Copyright 1999 WordReference.com, LLC. -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-187118-1";
-urchinTracker();
-</script>
+<link rel="stylesheet" href="/2008/scripts/WRredesign.css">
 <style type="text/css">
-body  {
-font-family: arial;
-margin: 0;
-background-color:#FFFFFF}
-
-td.namecell {border-bottom: solid black 1px; border-top: solid black 1px; height:50px; 
-background-color:#5E58C7;padding:0px;padding-left: 5px;}
-td.searchbox {border-bottom: solid black 1px; background-color:#918CE3; 
-text-align:center;padding:0px;padding-left: 5px;}
-table.layout {background-color: #f0f0f8;height:100%;
-margin-left:auto; margin-right:auto;}
-
-table#searchi {
-border:1px solid black;
-background-color:#A19CF3;
-padding:5px
-}
-
-table#searchi td {padding-top: 5px;padding-left:15px;}
-table#searchi td.langsi {font-weight:bold;
-vertical-align:top; text-align:right;
-padding-left:25px}
-table#searchi th.langsi {vertical-align:top;
-text-align:left; padding-left:25px}
-table#searchi td.dictsi {padding-left:0px}
-table#searchi th.wordi, table#searchi td.boxi 
-{vertical-align:top; padding-left:5px}
-
+html, body{margin: 0 0; padding: 0; height:100%;}
+#container{min-height:100%;background-color:#f6f6f6;}
+div.content{height:100%;border-bottom:none;}
 h3{margin-bottom:5px}
 p {margin-top:5px}
+
+div.policy{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.1em;
+}
 </style>
 
 
 </head>
 
-<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF">
+<body class="yui-skin-sam">
+<div id="container">
+	<!-- header -->
+	<div id="header">
+		<div id="logo">
+			<a href="/">WordReference<span style="color:#b2aef4">.com</span></a>  |  <h1>Online Language Dictionaries</h1>
+		</div>
+	</div>
 
-<table border="0" width="765" height="215" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td class="namecell" align="center" colspan="2">
-		<h2 style="font-size:14pt;margin:0px;color:#FFFFFF"><font size="6">WordReference.com</font><br>
-		<font size="2">Online French, Italian and Spanish Dictionary</font></h2></td></tr>
-<tr>
-	<td class="searchbox" colspan="2">
-		<form style="display:block;margin:5px" class="lookup" action="http://www.wordreference.com/enit/translation.asp" method="get">
-		<b title="Search">Dictionary Look up:</b>&nbsp;<input id="si" tabindex="1" maxlength="200" name="enit">
-		<select tabindex="2" size="1" name="dict"> 
-		<option id="enes" value="enes" selected="selected">English-Spanish</option>
-		<option id="enfr" value="enfr">English-French</option>
-		<option id="enit" value="enit">English-Italian</option>
-		<option id="enen" value="enen">English definition</option>
-		<option id="esen" value="esen">Spanish-English</option>
-		<option id="esfr" value="esfr">Spanish-French</option>
-		<option id="espt" value="espt">Spanish-Portuguese</option>
-		<option id="eses" value="eses">Spanish: definition</option>
-		<option id="essin" value="essin">Spanish: synonyms</option>
-		<option id="fren" value="fren">French-English</option>
-		<option id="fres" value="fres">French-Spanish</option>
-		<option id="iten" value="iten">Italian-English</option>
-		<option id="ptes" value="ptes">Portuguese-Spanish</option>
-		</select>
-		<input title="Search" tabindex="3" type="submit" value="Search" name="b"></form></td>
-</tr>
-  <tr>
-    <td width="622" height="160" style="padding-left:10px">
-<p><br>
-<font face="arial,helvetica"><font size="5">WordReference.com Privacy Policy<br>
-</font><br>
-WordReference.com is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.&nbsp;<br>
+	<!-- search -->
+		<div id="search">
+			<form method="GET" action="translation.asp" id="text_form" name="sbox" onsubmit="if(document.sbox.dict.value=='enes'){location.href = '/es/translation.asp?tranword=' + encodeURIComponent(document.sbox.tranword.value);return(false);}">
+				<div id="myAutoComplete" style="display:inline">
+					<input type="text" name="tranword" id="si" size="20" maxlength="200" tabindex="1" onkeydown="keyDown(event)" accesskey="s" title="Alt-(Shift)-S" placeholder="Word lookup"> 
+					<div id="myACContainer" style="display:inline"></div>
+				</div>
+				<label class="custom-select">
+				<select size="1" name="dict" tabindex="2" id="fSelect">
+				<option value="enes">English-Spanish</option>
+				<option value="esen">Spanish-English</option>
+				<option value="enit">English-Italian</option>
+				<option value="iten">Italian-English</option>
+				<option value="enfr">English-French</option>
+				<option value="fren">French-English</option>
+				<option value="enen">English definition</option>
+				<option value="enthe">English thesaurus</option>
+				<option value="esfr">Español-Français</option>
+				<option value="fres">Français-Español</option>
+				<option value="espt">Español-Português</option>
+				<option value="ptes">Português-Español</option>
+				<option value="eses">Español: definición</option>
+				<option value="essin">Español: sinónimos</option>
+				</select>
+				</label>
+				<div class="inputcontainer"><input type="image" src="/images/magnifying_glass_dark_flipped.png" height="12" width="12" alt="search" name="B" title="Search" tabindex="3" class="button"></div>
+			
+			</form>
+		</div>
+		
+<div class="content">
+	<table id="contenttable" style="margin:auto 5px 5px 5px;">
+		<tbody><tr><td>
+		<h2>WordReference Privacy Policy</h2>
+		<div class="policy">
+		
+	<p>	WordReference.com is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.&nbsp;<br>
 <br>
-<b>Consumer Information&nbsp;<br>
-</b><br>
+<strong>Consumer Information</strong>
+<br><br>
 WordReference.com does not collect any personally identifiable information about you such as name, address, phone number.&nbsp; 
 E-mails are only used if you register as a member of the forums. However,
 WordReference.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by
@@ -95,22 +78,20 @@ WordReference.com is used for the purpose of targeting ads and measuring ad effe
 <br>
 In some cases, we will also collect information on your preferred target
 language for translations.&nbsp; This is only used for making the site easier to
-use and possibly ad targeting.</font>
+use and possibly ad targeting.
 </p>
-<p><font face="arial,helvetica">Third Party Advertising<br>
+<p><strong>Third Party Advertising</strong><br>
 We use a number of third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not
 including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements
 on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to
 know your choices about not having this information used by these companies, please click here
-<a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a></font>
+<a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>
 </p>
-<p><font face="arial,helvetica">Third Party Cookies<br>
+<p><strong>Third Party Cookies</strong><br>
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.<br>
 <br>
-</font>
-<font face="arial,helvetica">
-<b>Data Collection and Opt Out&nbsp;<br>
-</b><br>
+<strong>Data Collection and Opt Out</strong>
+<br><br>
 WordReference.com, as well as most sites on the Internet, use "cookies" to enhance your experience on the web.
 WordReference.com cannot use these cookies to personally identify you in any way.&nbsp;
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.&nbsp;If
@@ -120,11 +101,35 @@ above or write us at the address below.<br>
 If you have any additional questions about WordReference.com's dedication to consumer privacy, please
 write the site administrator through the "Contact Us" form in the <a href="http://forum.wordreference.com/sendmessage.php">WordReference
 language forums</a>.<br>
-</font>
-</p>
-<p>&nbsp;</p>
-    </td>
-  </tr>
-</tbody></table>
+</p>	
+		</div>
+		
+</td></tr></tbody></table></div></div>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-187118-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "14185589" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js&amp;2.9.0/build/datasource/datasource-min.js&amp;2.9.0/build/autocomplete/autocomplete-min.js&amp;2.9.0/build/connection/connection_core-min.js&amp;2.9.0/build/json/json-min.js"></script>
+<script type="text/javascript">
+var strOrig, strDic; //global vars that arent defined yet
+</script>
+<script type="text/javascript" src="/2008/scripts/2010kmin-conjAC.js"></script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=14185589&cv=2.0&cj=1" />
+</noscript>
 
 </body></html>
