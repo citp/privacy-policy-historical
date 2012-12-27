@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508014135id_/http%3A//rainbownation.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227031550id_/http%3A//www.rainbownation.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for RainbowNation.com
 
-Tuesday, 8th May 2012 
+Thursday, 27th December 2012 
 
 RainbowNation is committed to protecting your privacy. This RainbowNation Privacy Statement applies to data collection and usage on RainbowNation sites and services; it does not apply to other online or offline RainbowNation sites, products or services. Please read the RainbowNation Privacy Statement below and also any supplementary information at the end of this statement for additional details about particular RainbowNation sites and services that you may use.
 
