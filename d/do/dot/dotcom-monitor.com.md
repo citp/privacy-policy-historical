@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotcom-monitor.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627073134id_/http%3A//www.dotcom-monitor.com/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcom-monitor.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227101749id_/http%3A//www.dotcom-monitor.com/privacy-statement.asp) for the most accurate reproduction.*
 
-# Web Site Monitoring byDotcom-Monitor®-- Providing Advanced Website Monitoring solutions worldwide.
+# Dotcom-Monitor® Privacy Notice
 
 Dotcom-Monitor® collects certain information relative to users who visit the site and applications we monitor. This service categorizes information into certain categories and the privacy level and what we do with the information that we collect depends upon the category in which it falls.
 
