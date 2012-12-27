@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sublimelinkdirectory.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525074736id_/http%3A//financeminister.in/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sublimelinkdirectory.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227142333id_/http%3A//financeminister.in/Privacy) for the most accurate reproduction.*
 
 # Privacy | financeminister.in
 
