@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imomoko.com privacy policy that was archived on 2012-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120407074051id_/http%3A//www.imomoko.com/pages.php%3Fkb%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imomoko.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227135033id_/http%3A//www.imomoko.com/pages.php%3Fkb%3D7) for the most accurate reproduction.*
 
 # 
 
@@ -18,7 +18,7 @@ Vitacreme B12
   
 | 
 
-DARIYA Maegami Fringe Holder Pink  
+SHISEIDO MAJOLICA MAJORCA Lash Expander Frame Plus  
   
 ---|---  
   
@@ -30,7 +30,7 @@ L'EGERE Shiny Pearl Blemish Balm BB Cream 35g (2011 New Packaging)
   
 | 
 
-SHISEIDO MAJOLICA MAJORCA Lash Expander Frame Plus  
+Mezaik Double Eyelid Stretch Fiber 60pc (10th Year Limited Edition)  
   
 ---|---  
   
@@ -86,4 +86,4 @@ iMomoko.com reserves the right to amend this Privacy Policy at any time without 
 | | | | | |   
 | | | | | |   
 | | | | | |   
-| | | | | | 
+| | | | 
