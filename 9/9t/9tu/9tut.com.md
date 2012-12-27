@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9tut.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430155316id_/http%3A//www.9tut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9tut.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227121300id_/http%3A//www.9tut.com/privacy-policy) for the most accurate reproduction.*
 
 # CCNA Training » Privacy-Policy
 
