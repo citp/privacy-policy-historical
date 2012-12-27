@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonniercorp.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608004048id_/http%3A//www.bonniercorp.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonniercorp.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227190137id_/http%3A//www.bonniercorp.com/privacy_policy.html) for the most accurate reproduction.*
 
 # BONNIER CORPORATION
 
@@ -12,7 +12,7 @@ _This policy was last updated on October 11, 2011._
 
 To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
 
-Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the _[Safe Harbor website](http://www.export.gov/safeharbor/doc_safeharbor_index.asp)_.
+Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the _[Safe Harbor website](http://export.gov/safeharbor/eu/eg_main_018476.asp)_.
 
 **Note: For questions related to your magazine subscription, please visit our magazine's customer service website** **.**
 
