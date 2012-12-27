@@ -1,26 +1,19 @@
-> *The following text is extracted and transformed from the bleach-network.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120103149id_/http%3A//bleach-network.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleach-network.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227150118id_/http%3A//animedlc.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Bleach Anime & Manga Network » Privacy Policy
+# Anime Download Center - Watch Anime Online & Free Anime Downloads!
 
-The following webpage outlines Bleach-Network.com's collection and use of personal information from it's users. Bleach-Network.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to Bleach-Network.com with anyone. This includes your e-mail address, name, and location. Upon logging on to Bleach-Network.com such things as your IP address and hostname are logged for statistical and security reasons.
+##  Privacy Policy 
 
-**Cookies**  
-A cookie is a very small text file placed on your system upon logging on to Bleach-Network.com (and most other websites). This file serves as your identification card and is uniquely yours, and can only be read by the server that gave it to you. Cookies tell us that you have returned to a specific web page on Bleach-Network.com and help us track your preferences and transactional habits. The basic function of cookies is to help our server remember who you are.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-**Children's Privacy**  
-Bleach-Network.com does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a member of Bleach-Network.com, and will not collect information from them. If Bleach-Network.com learns that a child under the age of 13 has become a member, we will close that child's account and delete any information collected about the child.  
-Not withstanding the foregoing, Bleach-Network.com may choose to retain some personal information such as the child's e-mail address as a means to prevent the child from re-registering at our website. The Children's Online Privacy Protection Act (COPPA) went into effect in April 2000, and as a result websites all over the world wide web had to change their standards to not collect any information from a child.
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
 
-**Disclosing Information**  
-Bleach-Network.com may store and disclose personal information allowed or required by applicable law or when deemed advisable by us. This means that we may make disclosures that are necessary to conform to legal and regulatory requirements or processes and to protect the rights, safety, and property of Bleach-Network.com, users of the Bleach-Network.com website, and the public.
 
-**Security**  
-At Bleach-Network.com we make reasonable efforts to protect personal information such as passwords and use technology such as encryption, access control procedures, firewalls, and physical security. We urge you to use a unique password with both letters and numbers to protect your account on Bleach-Network.com and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your login credentials, you are responsible for the actions of that individual. Only in extreme cases will your account be fully terminated.
 
-**Third Parties**  
-Third Party websites may collect information from users of Bleach-Network.com, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that.
-
-**Website Policy Changes**  
-Bleach-Network.com reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, please feel free to contact [admin@bleach-network.com](mailto:admin@bleach-network.com) with the topic as privacy policy
-
-By continuing to access Bleach-Network.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Bleach-Network.com, and are also in agreement with our [Legal Disclaimer](https://web.archive.org/information/legal-disclaimer) and [Terms of Use](https://web.archive.org/information/terms-of-use).
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
