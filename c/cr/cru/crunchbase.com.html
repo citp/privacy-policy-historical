@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the crunchbase.com privacy policy that was archived on 2012-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120620000408id_/http%3A//www.crunchbase.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crunchbase.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227070559id_/http%3A//www.crunchbase.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+		<script type="text/javascript" async="" src="https://d1gp8joe0evc8s.cloudfront.net/horizon/v1.js"></script><script type="text/javascript">if(self !== top) { top.location = self.location; }</script>
 		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 		<title>CrunchBase Privacy Policy</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,22 +15,46 @@
 		<link rel="apple-touch-icon" href="/images/webclip.png">
 		<link rel="search" type="application/opensearchdescription+xml" title="CrunchBase" href="/opensearch.xml">
 		
-		<link href="http://ec2-107-22-191-133.compute-1.amazonaws.com/stylesheets/all_1340148191.css" media="screen" rel="stylesheet" type="text/css">
+		<link href="http://www.crunchbase.com/stylesheets/all_1356584941.css" media="screen" rel="stylesheet" type="text/css">
     
 		<link rel="stylesheet" type="text/css" media="print" href="/stylesheets/print.css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
 		
-		<script src="http://ec2-107-22-191-133.compute-1.amazonaws.com/javascripts/all_1340148191.js" type="text/javascript"></script>
-    <script src="http://ec2-107-22-191-133.compute-1.amazonaws.com/javascripts/calendar_date_select/calendar_date_select.js" type="text/javascript"></script>
-<link href="http://ec2-107-22-191-133.compute-1.amazonaws.com/stylesheets/calendar_date_select/default.css" media="screen" rel="stylesheet" type="text/css">
+		<script src="http://www.crunchbase.com/javascripts/all_1356584941.js" type="text/javascript"></script>
+    <script src="http://www.crunchbase.com/javascripts/calendar_date_select/calendar_date_select.js" type="text/javascript"></script>
+<link href="http://www.crunchbase.com/stylesheets/calendar_date_select/default.css" media="screen" rel="stylesheet" type="text/css">
 		
 		
 		<script src="http://o.aolcdn.com/ads/adsWrapper.js" type="text/javascript"></script>
 		<script type="text/javascript">adSetAdURL("http://www.crunchbase.com/_uac/adpage.html");</script>
-	</head>
+		<script type="text/javascript">
+		  (function($) {
+		    $(function() {
+		      function logEyeblasterAd() {
+		        var ad1 = $('.ads.leaderboard > #ads').html();
+			var ad2 = $('#col3 > #ads').html();
+			$.get(
+			  '/log_eyeblaster_ad',
+			  {
+			    ads_html: '<h2>header ad</h2>' + ad1 + '-=-=-=-' + '<h2>rr ad</h2>' + ad2
+			  },
+			  function(data) {
+			    console.log(data.status);
+			  });
+		      }
+		      setInterval(function() {
+		        if(self !== top) {
+			  logEyeblasterAd();
+			  top.location = self.location;
+			}
+	              }, 300);
+		    });
+		  })(jQuery);
+	        </script>
+	<script type="text/javascript" src="https://s.aolcdn.com/os_merge/?file=/aol/beacon.min.js&amp;file=/aol/omniture.min.js"></script></head>
 	<body>
-		<!-- <div id="welcome" style="display:none;"><div class="close" onClick="Effect.BlindUp('welcome', { duration: 1.0 });ignoreWelcome();return false;">x</div>Welcome to CrunchBase! <a href ="/help/faq" onClick="ignoreWelcome();">Learn more</a></div> -->
-		<div id="welcome">CrunchBase is hiring! Check out our <a href="/jobs">open positions →</a></div>
+		<div id="welcome" style="display:none;"><div class="close" onclick="Effect.BlindUp('welcome', { duration: 1.0 });ignoreWelcome();return false;">x</div>Welcome to CrunchBase! <a href="/help/faq" onclick="ignoreWelcome();">Learn more</a></div>
+		<!-- <div id="welcome">CrunchBase is hiring! Check out our <a href="/jobs">open positions &rarr;</a></div> -->
 				
 		<div id="top">
 	<div id="top_strip">
@@ -75,9 +100,11 @@
 	
 		<a href="/account/signup" title="Register">Register</a>&nbsp;|
 		<a href="/login" rel="nofollow" title="Login">Login</a> or
-		<fb:login-button onlogin="window.location.href = &quot;/facebook_connect/connect&quot;;" v="2"></fb:login-button>						
+		
+	<fb:login-button onlogin="FB.login(function(response) { window.cb_fb_login(response); });" v="2">Login</fb:login-button>
 	
 </div>
+
 	<div id="strip_right">		
 		
 	</div>
@@ -103,7 +130,7 @@
 		<p>(“Interserve Inc dba TechCrunch,” “we” or “us”) created this privacy policy to give you confidence as you visit and use the CrunchBase.com website (the “Site”), and to demonstrate our commitment to fair information practices and the protection of privacy.   We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on the Site and without any other notice to you.  Any such change, update, or modification will be effective immediately upon posting on the Site.  It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.</p>
 		<h3>How and Why We Collect and Use Information</h3>
 		<p>Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet).  No personal information about you is revealed in this process.  The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.  We may use anonymous information to analyze Site traffic, but we do not examine this information for individually identifying information.  In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer the Site, or to display the content according to your preferences.  Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.</p>
-		<p>You do not have to give us any of your personal information to use the Site.  If you choose to create a “CrunchBase Profile” on the Site, any information you add to the public portion of a CrunchBase Profile will be available to us as well as to other users of the Site.</p>
+		<p>You do not have to give us any of your personal information to access the Site.  If you choose to create a “CrunchBase Profile” on the Site, any information you add to the public portion of a CrunchBase Profile will be available to us as well as to other users of the Site.</p>
 		<h3>Children's Privacy</h3>
 		<p>We do not knowingly collect or save any information from children under the age of 13.</p>
 		<h3>Cookies</h3>
@@ -133,16 +160,20 @@
   <a href="http://blog.crunchbase.com" title="Blog">Blog</a> |        
   <a href="/help/faq" title="FAQ">FAQ</a> |
   <a href="/feedback/new" rel="nofollow" title="Feedback">Feedback</a> |
+
+  <a href="/newsletter/signup" rel="nofollow" title="Subscribe">Subscribe</a> |
+
   <a href="http://twitter.com/crunchbase" rel="nofollow" title="Twitter">Twitter</a> |
   <a href="/widget" title="Widget">Widget</a> |
   
   © 2012 CrunchBase
   
-	<a href="http://www.techcrunch.com/" id="footer_logo"><img src="http://www.crunchbase.com/images/techcrunch_logo_footer.png" alt="TechCrunch Picture" border="0"></a>
+	<a href="http://www.techcrunch.com/" id="footer_logo"><img src="http://www.crunchbase.com/images/techcrunch_logo_footer.png" alt="TechCrunch Picture" border="0"></a> |
 </div>
 <div id="subfooter">
 	<a href="/help/terms-of-service" rel="nofollow" title="Terms of Service">Terms of Service</a> | <a href="/help/privacy-policy" rel="nofollow" title="Privacy Policy">Privacy Policy</a> | <a href="/help/licensing-policy" rel="nofollow" title="Licensing Policy">Licensing Policy</a>
 </div>
+
 		
 <!-- Google Analytics -->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-991406-10";	urchinTracker();</script>
@@ -153,6 +184,63 @@
 <!-- CrazyEgg -->
 <script type="text/javascript" src="http://cetrk.com/pages/scripts/0009/0873.js"> </script>
 
+<!-- Sailthru Horizon --> 
+<script type="text/javascript">
+(function() {
+    function loadHorizon() { 
+        var s = document.createElement('script'); 
+        s.type = 'text/javascript'; 
+        s.async = true;
+        s.src = ('https:' === location.protocol?'https://d1gp8joe0evc8s.cloudfront.net':'http://cdn.sail-horizon.com')+'/horizon/v1.js';
+        var x = document.getElementsByTagName('script')[0]; 
+        x.parentNode.insertBefore(s, x);
+    }
+    loadHorizon();
+    var oldOnLoad = window.onload;
+    window.onload = function() {
+        if (typeof oldOnLoad === 'function') {
+            oldOnLoad();
+        }
+        Sailthru.setup({
+            domain: 'horizon.crunchbase.com',
+        });
+    };
+})();
+</script>
+
+
+<!-- Omniture -->
+
+<script type="text/javascript">
+// *** Replace square bracketed placeholders with values provided to you in your implementation documentation ***
+
+bN_cfg = {
+// The "h" parameter whitelists this hostname for beacon initialization.
+// Note: Can be a string or an array of hostnames. Use "location.hostname" to match URL of current page
+h: "localhost,crunchbase.com"
+};
+
+function runOmni()
+{
+s_265.pfxID="crb";
+s_265.pageName="CrunchBase Privacy Policy";
+s_265.channel="us.crunchbase";
+s_265.linkInternalFilters="javascript:,crunchbase.com";
+s_265.prop1="other";
+s_265.prop2="other";
+s_265.mmxgo=true; // Enables the comScore 360 beacon if s_265_account contains a global report suite
+
+
+var s_code=s_265.t();
+}
+s_265_account ="aoltechcrunch,aolsvc"; /* Use "aoltechcrunch,aolsvc"; for PROD */
+(function(){
+    var d = document, s = d.createElement('script');
+    s.type = 'text/javascript';
+    s.src = (location.protocol == 'https:' ? 'https://s' : 'http://o') + '.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture.min.js';
+    d.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
 
 		<script type="text/javascript">
 var _sf_async_config={uid:2905,domain:"crunchbase.com"};
@@ -187,13 +275,49 @@ var _sf_async_config={uid:2905,domain:"crunchbase.com"};
 			}
 		});
 		</script>
-		<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-		<script type="text/javascript">
-//<![CDATA[
-FB.init('630ae13e6804e700382b9318a940937e','/xd_receiver.html', {});
-//]]>
-</script>
+		
+		
+    <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+    <script type="text/javascript">
+      window.fbAsyncInit = function() {
+        FB._initialized = false;
+        FB.init({
+          appId  : '147576338201',
+          status : true,
+          cookie : true,
+          channelUrl : null,
+          oauth : true,
+          xfbml : true // parse XFBML
+        });
+
+	window.cb_fb_login = function(response) {
+	  if (response.authResponse) {
+	    window.location.href = "/auth/connect?userID=" + response.authResponse.userID + "&accessToken=" + response.authResponse.accessToken;
+	  }
+	};
+        
+        FB.Event.subscribe('auth.login', function(response) {
+          //window.location.href = "/facebook_connect/connect?uid=" + response.authResponse.userID;
+        });
+        FB.Event.subscribe('auth.logout', function(response) {
+          //window.location.href = "/logout";
+        });
+       
+        if(document.getElementById('auth-logoutlink')) {
+          document.getElementById('auth-logoutlink').addEventListener('click', function(){
+            window.location.href = "/logout";
+          });
+        }
+      };
+      
+      (function() {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+      }());
+    </script>
 		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 		<script src="//cdn.optimizely.com/js/15009920.js"></script>
 	
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+
+</body></html>
