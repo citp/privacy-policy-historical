@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soft4all.info privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609045403id_/http%3A//soft4all.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft4all.info privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227095918id_/http%3A//soft4all.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Software for All
 
@@ -32,5 +32,3 @@ If you wish to disable cookies, you may do so through your individual browser op
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@soft4all.info](mailto:admin@soft4all.info).
 
 * * *
-
-Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
