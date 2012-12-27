@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationuk.org privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626163318id_/http%3A//www.educationuk.org/Page/TermsConditionsLayout/PrivacyPolicy%3Fparam%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationuk.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227133505id_/http%3A//www.educationuk.org/Page/TermsConditionsLayout/PrivacyPolicy%3Fparam%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Terms & Conditions
 
