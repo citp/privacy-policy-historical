@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sklibertytrain.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503214548id_/http%3A//sklibertytrain.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sklibertytrain.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227032127id_/http%3A//sklibertytrain.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Sklibertytrain | An SEO Friendly PHPLD Directory - About Us
 
