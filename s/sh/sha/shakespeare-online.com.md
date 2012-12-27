@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shakespeare-online.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605123639id_/http%3A//www.shakespeare-online.com/siteinfo/copyright.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shakespeare-online.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227043240id_/http%3A//www.shakespeare-online.com/siteinfo/copyright.html) for the most accurate reproduction.*
 
 # About Shakespeare Online Copyright and Privacy Policy
 
