@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genie9.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621220008id_/http%3A//www.genie9.com/Company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genie9.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227221244id_/http%3A//www.genie9.com/Company/privacy.aspx) for the most accurate reproduction.*
 
 # Genie9: Company |Privacy statement| Offers a Wide Range of Backup, Restore, Disaster Recovery and Online Backup Solutions
 
@@ -43,9 +43,11 @@ Changes to this Privacy Statement
   
 ###  **Stay informed**  
   
-Subscribe to our **"What's New?"** newsletter and get all the latest updates about our products, new releases and offers.  [Subscribe Now](https://web.archive.org/web/20120621220008id_/http%3A//www.genie9.com/Company/newsletter.aspx)  
+Subscribe to our **"What's New?"** newsletter and get all the latest updates about our products, new releases and offers.  [Subscribe Now](https://web.archive.org/web/20121227221244id_/http%3A//www.genie9.com/Company/newsletter.aspx)  
    
    
    
   
-  |  |   
+  |  |     
+  
+[ ](https://play.google.com/store/apps/details?id=com.genie9.gcloudbackup)
