@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626073652id_/http%3A//www.chnlove.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227070232id_/http%3A//www.chnlove.com/help/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy protects yourself when dating beautiful Chinese Women on Chnlove.com
+# Privacy Policy - See How to Protect Yourself When Dating Asian Chinese Girls on Chnlove.com.
 
   | The [Qpid Network Privacy Policy](http://www.qpidnetwork.com/my/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use Chnlove.com. The following describes our privacy practices that are specific to Chnlove.com.
 
@@ -28,7 +28,7 @@ You may elect to include your additional information, such as your height, weigh
 It consists of your email address, your postal address such as street address, city, state/province, residence country as well as postal code. Your telephone or fax number are required when filling in the registration form. Contact information will not be shown on your profile or other public places. 
   2. **How We Use Your Information**
 
-We may use the information you provide about yourself to fulfill your requests for our Services, to respond to your inquiries about our offerings, to offer you other products or services that we believe may be of interest to you, to enforce the legal obligations that govern your use of our Site, to identify problems, to resolve compliant, disputes and/or for the purposes for which you provided the information.
+We may use the information you provide about yourself to fulfill your requests for our Services, to respond to your inquiries about our offerings, to offer you other products or services that we believe may be of interest to you, to enforce the legal obligations that govern your use of our Site, to identify problems, to resolve complaint, disputes and/or for the purposes for which you provided the information.
 
 You agree that we may use your information to improve our marketing and promotional efforts, to analyze the web site usage, improve our content and product offerings, and customize Chnlove's content, layout, and services. These uses can help us improve our Site and better tailor it to meet your needs.
 
