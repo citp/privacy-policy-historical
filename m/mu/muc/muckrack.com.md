@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muckrack.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601155030id_/http%3A//muckrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muckrack.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227204720id_/http%3A//muckrack.com/privacy) for the most accurate reproduction.*
 
-# Muck Rack - Journalists on Twitter, Facebook, LinkedIn, Google+ and social media
+# Muck Rack - Privacy Policy
 
 The Muck Rack and Muck Rack Pro services, including (without limitation) all websites, mobile applications and other interactive properties through which the service is delivered (collectively, the "Service") are owned, operated and distributed by Sawhorse Media, LLC, a Delaware limited liability company (referred to in this Privacy Policy as "Sawhorse" or "we" and through similar words such as "us," "our," etc.).  By accessing any part of the service, you are agreeing to the terms and conditions described below (the "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF OUR TERMS OF SERVICE  [(the "TERMS OF SERVICE")](https://web.archive.org/terms). **If you do not agree to any of these terms, YOU SHOULD not use the Service.** This Privacy Policy applies to all users, including both users who are simply viewing content available via the Service and users who have subscribed for services and/or are contributors of content via the Service.
 
