@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpchallenge.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629103247id_/http%3A//www.dpchallenge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpchallenge.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227115057id_/http%3A//www.dpchallenge.com/privacy.php) for the most accurate reproduction.*
 
 # DPChallenge - A Digital Photography Contest
 
@@ -37,4 +37,4 @@ If you have any questions regarding this Privacy Statement, the practices of DPC
 [Home](https://web.archive.org/index.php) \- [Challenges](https://web.archive.org/challenge_index.php) \- [Community](https://web.archive.org/community_index.php) \- [League](https://web.archive.org/league/) \- [Photos](https://web.archive.org/photo_index.php) \- [Cameras](https://web.archive.org/camera.php) \- [Lenses](https://web.archive.org/lens.php) \- [Learn](https://web.archive.org/learn_index.php) \- [Prints!](http://www.dpcprints.com/) \- [Help](https://web.archive.org/help.php) \- [Terms of Use](https://web.archive.org/terms.php) \- [Privacy](https://web.archive.org/privacy.php) \- Top ^   
 DPChallenge, and website content and design, Copyright © 2001-2012 Challenging Technologies, LLC.   
 All digital photo copyrights belong to the photographers and may not be used without permission.   
-Proudly hosted by [Sargasso Networks](http://www.sargasso.net/from/dpc). Current Server Time: 06/29/2012 06:32:47 AM EDT. 
+Proudly hosted by [Sargasso Networks](http://www.sargasso.net/from/dpc). Current Server Time: 12/27/2012 06:50:57 AM EST. 
