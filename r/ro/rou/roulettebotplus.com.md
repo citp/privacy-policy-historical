@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roulettebotplus.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626002728id_/http%3A//roulettebotplus.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roulettebotplus.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227090927id_/http%3A//www.roulettebotplus.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
