@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2012-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120107212923id_/http%3A//www.alexa.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228005049id_/http%3A//www.alexa.com/help/privacy) for the most accurate reproduction.*
 
 # Alexa Privacy Policy
 
@@ -8,7 +8,7 @@ Last Updated: April 7, 2011
 
 To see what has changed, [click here](https://web.archive.org/help/changed)
 
-Alexa knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy is a binding part of Alexa's [Website Terms of Use and End User License Agreement](https://web.archive.org/web/20120107212923id_/http%3A//www.alexa.com/help/terms) ("Agreement") and explains the type of information Alexa collects through its website and browser companion software ("Toolbar Service") and what Alexa does with it. If you download and use Alexa's Toolbar Service software or use the Alexa website, you will be bound by the terms of the Agreement, including this Privacy Policy. This policy may change from time to time so you should check it frequently.
+Alexa knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy is a binding part of Alexa's [Website Terms of Use and End User License Agreement](https://web.archive.org/web/20121228005049id_/http%3A//www.alexa.com/help/terms) ("Agreement") and explains the type of information Alexa collects through its website and browser companion software ("Toolbar Service") and what Alexa does with it. If you download and use Alexa's Toolbar Service software or use the Alexa website, you will be bound by the terms of the Agreement, including this Privacy Policy. This policy may change from time to time so you should check it frequently.
 
 Alexa is the Web Information Company. We measure Internet activity in order to understand trends, help people discover new content, and help people make better online decisions. Millions of people download Alexa toolbars to help measure the web. In return, Alexa provides toolbar users with information about Internet trends, website popularity, new and exciting topics, and related content.
 
