@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealcent.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616104049id_/http%3A//www.dealcent.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealcent.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227035834id_/http%3A//help.dealcent.com/entries/21534152-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DealCent.com
+# Privacy Policy : Support Center
 
 **What information do we collect?**
 
@@ -68,7 +68,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.dealcent.com/legal/termsandconditions/.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://dealcent.zendesk.com/entries/21534122-terms-of-use>.
 
 **Your Consent**
 
@@ -84,11 +84,11 @@ This policy was last modified on **Jan 12 2012**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-www.dealcent.com  
+[www.dealcent.com](http://www.dealcent.com/)  
 1055 Lucien L'Allier suite 270  
 Montreal, QC H3G 3C4  
 Canada  
-info@dealcent.com  
+[info@dealcent.com](mailto:info@dealcent.com)  
 8773505155
 
 **Privacy Policy Customer Pledge**
@@ -100,9 +100,4 @@ Childrens Online Privacy Protection Act
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
-
-Respectfully,
-
-DealCent Ltd.   
-www.DealCent.com 
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/).
