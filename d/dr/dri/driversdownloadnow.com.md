@@ -1,117 +1,65 @@
-> *The following text is extracted and transformed from the driversdownloadnow.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626081043id_/http%3A//driversdownloadnow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversdownloadnow.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227124231id_/http%3A//driversdownloadnow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PRIVACY POLICY**
+This Privacy notice discloses the Privacy practices for . This Privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
-**Effective Date: 05/21/2012**
-
-PC Drivers Headquarters (“PC Drivers Headquarters”) privacy policy (“Privacy Policy”) covers the collection and use of personal information (“Personal Information”) that we may gather any time you interact with us, such as when you visit our Web site, purchase a PC Drivers Headquarters products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how PC Drivers Headquarters uses the information, and how we safeguard your Personal Information when you submit it to us at www.drivershq.com. At PC Drivers Headquarters, protecting your privacy is important to us. After all, online privacy and security is what we’re all about.  **You expressly consent to the processing of your Personal Information according to this Privacy Policy.   Personal Information may be processed by PC Drivers Headquarters in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
-
-**Why PC Drivers Headquarters Collects Personal Information**
-
-PC Drivers Headquarters only collects your Personal Information where it is required to provide you the best services and products available. By maintaining an accurate customer database, we are able to send notifications via e-mail to keep you informed about the status of your orders or accounts and to provide updates and technical notices. These messages are essential to the maintenance of your subscription and the functionality of our products and services.
-
-**Why PC Drivers Headquarters Collects Device Hardware and Software Inventory Information**
-
-PC Drivers Headquarters collects your device’s hardware and software inventory information in order to deliver our driver and other device-associated recommendations, download access, and installation automations provided in our software.  The hardware and software inventory data is essential for our software and servers to match the best updates for a particular system on an ongoing basis.  We retain this information in order to continuously improve our matching intelligence based on aggregating and normalizing the data collected across all systems.
-
-**What Information We Collect**
-
-**Personal Information**
-
-PC Drivers Headquarters collects your Personal Information at a variety of points, including when you place an order, (which may require you to provide personal information, including a credit card number, to our commerce providers) register software, request services or take part in other activities on our Web site. For example, we often ask for your Personal Information when you are conferring with one of our customer support technicians, downloading a new product or program update, registering your software or purchasing a product. During these interactions we will collect Personal Information relevant to your transacting with PC Drivers Headquarters, such as your name, mailing address, e-mail address, shipping address and credit card information along with information about the PC Drivers Headquarters products you own, such as the activation code or key code, date of purchase and information relating to a support issue. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. When you register, you will be provided with an option to opt-out of receiving promotional information on our products and services. We will not use your personal information for anything other than what you have intended it for. Please be aware that if you prefer not to provide us with your Personal Information, because such information may be necessary for us to provide certain services, we may not be able to, or may choose not to, make such services available to you.
-
-**Device Hardware and Software Inventory Information**
-
-The scanning technology present in our software is designed to collect all hardware ID’s and software signatures present in the system and passes this data back to our servers.  We use this information so that our servers can respond back to our software with a list of recommended drivers and other software relevant to the discovered hardware.  While in trial-mode (pre-purchase) this information is not tied in any way to any personal information.  Post-purchase and after activation of the software the inventory data is linked to your personal information so that it can be shown as historical information in the software, used as part of our free driver backup service,  as well as historical scan information available in your personalized <http://account.driversupport.com/> web portal (all features of our software and services).  This information is also used to handle any technical, product, or customer support requests that you may send to us.  Please be aware that if you prefer not to provide this inventory information, our software will be unable to provide any of our services.
-
-**Regarding Children**
-
-PC Drivers Headquarters does not intentionally gather Personal Information about visitors who are under the age of 13.
-
-**Cookies and Other Technologies**
-
-Following common e-commerce practices, PC Drivers Headquarters uses “cookies” and other technologies to collect non-personal data that enables us to better understand and improve the usability, performance and effectiveness of PC Drivers Headquarters’ Web site, and for reporting purposes to track sales. Cookies are unique text files sent to your browser and stored on your computer. We do not store any personally identifiable information with these cookies. Use of these third party cookies by our tracking utility company or service providers is not governed by this Privacy Policy. We do not have access or control over these cookies.
-
-If you do not want PC Drivers Headquarters to send cookies to your browser, you can set your browser options to reject cookies or notify you when a Web site tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use some of our Web site services.
-
-Additionally, PC Drivers Headquarters gathers general information about visits to our Web site and stores this information in log files. This information is stored in anonymous profiles and is not associated with a user’s account. This information includes the number of total visits to our Web site, and which browser is used to view our Web site (including the version number). No Personal Information is contained in this data. Our current partners help us to track our website usage. No personally identifiable information is collected. PC Drivers Headquarters uses this information to understand traffic and downloads on our Web site, enabling us to improve the site, provide the best online experience possible and improve our ability to serve our customers.
-
-On occasion, PC Drivers Headquarters also gathers general information about click-through usage of key features within our software to confirm that software updates are providing the intended user experience.  This information is collected in aggregate from and stored in a manner that cannot be associated with any individual.  The information includes total clicks on select features available in our software and is used to understand how our software is used, enabling us to improve the software, and provide the best possible user experience for our customers.
-
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
-
-**Sharing Your Personal Information**
-
-PC Drivers Headquarters is committed to protecting your privacy. PC Drivers Headquarters will not, under any circumstances, share, rent or sell your Personal Information in ways other than as outlined in this privacy policy nor does PC Drivers Headquarters trade or exchange mailing lists with any other organization. Furthermore, PC Drivers Headquarters only shares your Personal Information with our contractors that assist us in our efforts to fulfill our obligations to you, and then only with partners that commit to adhere to the same level of commitment as PC Drivers Headquarters to protect your privacy and data. We use credit card processing companies to bill you for goods and services, an email service provider to send out emails on our behalf and a customer support provider to supply live assisted-support. These companies do not retain share, store or use personally identifiable information for any other purposes.
-
-PC Drivers Headquarters maintains this information; but we reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website. If you require assistance, and would like someone to follow-up with you, then you will be asked to provide an email address. The email address is stored log files by a third party, but is not utilized in any way by them and remains our information.
-
-If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
-
-**How We Communicate with You**
-
-PC Drivers Headquarters has an optional e-mail service for customers who wish to periodically receive promotional information, such as general product, service and PC Drivers Headquarters news. Users can sign up for emails through one of the following processes: (1) an online Purchase; (2) registering through the full application; (3) registering through the trial application; and (4) signing up on the PC Drivers Headquarters website.
-
-Customers are provided the option to opt-out within each e-mail. If you no longer wish to receive PC Drivers Headquarters communications, you may “unsubscribe” from our mailing program at any time in the following ways:
-
-  * By clicking on the auto-unsubscribe link included in each e-mail
-  * By contacting our technical support department at support@drivershq.com
-  * By visiting your  **Account**  page at <http://account.driversupport.com/>   and changing your preference on the form.
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  2. What choices are available to you regarding the use of your data.
+  3. The security procedures in place to protect the misuse of your information.
+  4. How you can correct any inaccuracies in the information.
 
 
 
-We will then update our database and take reasonable measures so that no further promotional correspondence should be sent to the e-mail address. You may, however, still receive transactional messages.
+## Information Collection, Use, and Sharing
 
-**Transactional Messages**
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. Unless you ask us not to, we may contact you via email in the future to tell you About specials, new products or services, or changes to this Privacy policy.
 
-PC Drivers Headquarters sends required notifications via e-mail to keep you informed of the status of your orders or accounts and to provide updates and technical notices. This service is used for messages that are important for the maintenance of your subscription and the functionality of our services. When you purchase or register a product online, we require an e-mail address for completion of the transaction, which we will use for these communications. In order to stop receiving these notifications, please contact our technical support team at [support@drivershq.com](mailto:support@drivershq.com) . You will be opted out of further communications within 10 business days.
+## Your Access to and Control Over Information
 
-**Ways to Update Your Personal Information**
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-PC Drivers Headquarters carefully maintains our customer database in an effort to keep your Personal Information accurate for the purposes for which it is used. It is your right to be able to update your Personal Information as needed. You can correct out-of-date information, update information, remove information, delete your Personal Information or review any information previously provided to PC Drivers Headquarters by visiting account. PC Drivers Headquarters or by contacting our support department at support@drivershq.com. Changes will be implemented within 10 business days. Please note, however, that we may retain certain information relating to software licensing and your information may also be retained in our archives. When contacting customer service, we will verify your identification through the use of security questions before sharing any Personal Information as it appears in our customer database.
+  * See what data we have About you, if any.
+  * Change/correct any data we have About you.
+  * Have us delete any data we have About you.
+  * Express any concern you have About our use of your data.
 
-**PC Drivers Headquarters’ Commitment to Data Security**
 
-PC Drivers Headquarters has security measures in place, such as the following, to protect against the loss, misuse and alteration of your Personal Information in our customer database. Personal Information provided to PC Drivers Headquarters is stored in secure facilities with access restricted to authorized personnel only. We have put in place a series of access-control procedures required for retrieval of personal information. The PC Drivers Headquarters Web site is regularly tested for security breaches to protect against unauthorized viewing of Personal Information.
 
-To provide secure credit card processing when ordering, orders placed on our Web site are processed through a payment gateway which operates under its own privacy policy.
+## Security
 
-PC Drivers Headquarters DOES NOT store credit card information. PC Drivers Headquarters works with third parties to serve as a trusted intermediary to handle e-commerce transactions with our customers. Our commerce partners handle e-commerce on secure servers which encrypt all of our customers’ personal information. To learn more about how our commerce partners manage the privacy of information in conjunction with these e-commerce transactions, please see their complete Privacy Statement located on their purchase pages.
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-Although we make good faith efforts to store the Personal Information we collect in a secure operating environment that is not accessible to unauthorized users, we cannot guarantee complete security.
+## Orders
 
-**Links to other sites**
+We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we'll use this information to contact you.
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of PC Drivers Headquarters, LP. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+## Information Collected by SafeCart
 
-**Public forums**
+Safecart is our credit card processing system. Please visit SafeCart’s Privacy policy for more information at <https://www.safecart.com/Privacy>
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@drivershq.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+## Cookies
 
-**Acceptance of this Privacy Policy**
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
-By using the Web site or any services provided through the Web site, you expressly consent to the use and disclosure of information as described in this Privacy Policy.
+## Links
 
-**Privacy Policy Revisions and Notifications**
+This web site contains links to other sites. Please be aware that we are not responsible for the content or Privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the Privacy statements of any other site that collects personally identifiable information.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+## Privacy Policy
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, and by means of a prominent notice on our home page, posted 30 calendar days prior to implementing the change.
+We appreciate your Privacy and hope that you feel comfortable trusting us. We collect information at several stages during your interaction with. When you first enter our site, we note your IP address and time of your visit. We will not collect any personally identifiable information About you. Cookies do not recognise you as a person, just your computer. You are always free to decline our cookies if your browser permits although in that case you may not be able to use certain features on our site.
 
-**DriverSupport.com Contact Information**
+## How We Protect Your Information
 
-For questions about this policy as well as product-related technical support: <http://account.driversupport.com/support/contact/>
+We do not share any contact information or IP address information with partners. The Privacy and protection of your personal information is vitally important to us. We do not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your usage are provided in the aggregate only and do not include any personally identifiable information About any individual user.
 
-_Send all other correspondence to:_
+This Website Privacy Statement is effective as of the date listed below. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. If we decide to change our Privacy policy, we will post those changes to this Privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the Privacy policy under which the information was collected. If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
 
-_PC Drivers Headquarters, Inc._
+## Questions?
 
-_9433 FM 2244, Building 1, Suite 250_
+We welcome any questions or comments you have about our privacy practices. Please feel free to [contact us](https://web.archive.org/Contact.aspx).
 
-_Austin, Texas 78733 USA_
-
-_Phone: 512.373.3518_
-
-_Fax: 254.983.9179_
+driversdownloadnow.com  
+2263 Coral Ridge Ave.  
+Henderson, NV 89052 
