@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rokuguide.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008041914id_/http%3A//www.rokuguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rokuguide.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227141526id_/http%3A//www.rokuguide.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Roku Guide
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site, subscribe to our 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google\'s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
 
@@ -45,13 +45,13 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the \'Edit Profile\' page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel.
 
 **Childrens Online Privacy Protection Act Compliance**
 
@@ -71,9 +71,8 @@ This policy was last modified on 29-Nov-2010
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-www.rokuguide.com/contact  
+[www.rokuguide.com/contact](http://www.rokuguide.com/contact)
+
 PO Box 49124  
 Atlanta, GA 30329  
-USA  
-info@rokuguide.com  
-
+USA
