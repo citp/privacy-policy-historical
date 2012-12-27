@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the revelri.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014710id_/http%3A//www.revelri.com/others/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revelri.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227220245id_/http%3A//www.revelri.com/page/privacy) for the most accurate reproduction.*
 
-# Revelri - High On Happiness
+# Page
 
 **What information do we collect?**  
 We collect information from you when you register on our site.
