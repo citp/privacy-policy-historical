@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dietbet.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510065212id_/http%3A//dietbet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietbet.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227230726id_/http%3A//dietbet.com/privacy) for the most accurate reproduction.*
 
-# DietBet: Have Fun. Lose Weight. Make Money. Set Up A Free Private Game With Friends Today.
+# DietBet | Privacy Policy
 
 We all care about how our personal information is used and shared, especially when it comes to private weight information, and we want you to know that we keep your confidential information private. Please read below to learn how we go about this.
 
