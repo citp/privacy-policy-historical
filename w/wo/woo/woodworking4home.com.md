@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodworking4home.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626082730id_/http%3A//woodworking4home.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworking4home.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227085441id_/http%3A//www.woodworking4home.com/privacy.php) for the most accurate reproduction.*
 
 # privacy
 
