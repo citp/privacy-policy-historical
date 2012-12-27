@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610030915id_/https%3A//www.lowermybills.com/misc/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227122606id_/https%3A//www.lowermybills.com/misc/privacy/index.jsp) for the most accurate reproduction.*
 
 # LowerMyBills.com - Privacy Policy
 
@@ -55,7 +55,7 @@ For a complete list of licenses and disclosures, please click [here](https://web
 
 **Affiliate Partners -** Personal and business information submitted through the "Affiliate Program" section of our website is collected by Commission Junction and is subject to Commission Junction's policies and procedures. Please review [Commission Junctions' Privacy Policy](http://www.cj.com/privacy.html) before submitting your personal information.
 
-**Subsidiaries, Parent or Sister Companies -** We may share personal and demographic information about you with our subsidiaries, parent company, or sister companies. For example, we may share your information with Experian, ConsumerInfo.com, ClassesUSA.com or PriceGrabber.com. 
+**Subsidiaries, Parent or Sister Companies -** We may share personal and demographic information about you with our subsidiaries, parent company, or sister companies. For example, we may share your information with ClassesUSA.com or PriceGrabber.com. 
 
 **Aggregate, Non-Personal, or De-identified Information.** We may share aggregated information (i.e., information about you and other customers collectively, but not specifically identifiable to you) and other non-personal, de-identified, or anonymous information we collect with third parties, including affiliates to develop and deliver targeted advertising on our Site and on the websites of third parties. If you would prefer that we do not utilize cookies with your website experience, or would prefer to restrict the use of cookies with network advertising partners, please see the "Offering You Choices" section below.
 
