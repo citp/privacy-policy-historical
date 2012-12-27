@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the simpleadprofitz.com privacy policy that was archived on 2012-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120527012358id_/http%3A//simpleadprofitz.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simpleadprofitz.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227182513id_/http%3A//simpleadprofitz.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <link rel="SHORTCUT ICON" href="http://simpleadprofitz.com/favicon.ico">
-<title>Simple Ad Profitz!  Viral Traffic Exchange | Free Advertising Free Traffic</title>
-<meta name="keywords" content="Traffic Exchange, Viral Advertising, Banner Ads, Text Ads, Commissions">
+<title>Simple Ad Profitz!  Free Traffic Exchange | Free Advertising Free Web Traffic</title>
+<meta name="keywords" content="free traffic exchange, traffic exchange, Viral Advertising, Banner Ads, Text Ads, Commissions">
 <meta name="description" content="Advertise Your Business Here For Free With Our Free Advertising System!">
 <meta name="robots" content="FOLLOW,INDEX">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 <style type="text/css">
 <!--
 body {
@@ -21,12 +22,231 @@ body {
 }
 -->
 </style>
-</head>
+
+<script type="text/javascript"> 
+
+function loadBanners() {
+	$('#banner1').load('/banners.php', 'banner_ajax=1');
+	if($('#banner2').length) $('#banner2').load('/banners.php', 'banner_ajax=1');
+
+};
+
+$(document).ready(function() {
+
+	setInterval(loadBanners, 7*1000);
+}); 
+
+</script>
+<!-- Start EZ Share Generator HEAD Code -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+
+<style type="text/css">
+#backgroundPopup{
+display:none;
+position:fixed;
+_position:absolute; /* hack for internet explorer 6*/
+height:100%;
+width:100%;
+top:0;
+left:0;
+background:#000000;
+border:1px solid #cecece;
+z-index:1;
+}
+#popup{
+display:none;
+position:fixed;
+_position:absolute; /* hack for internet explorer 6*/
+width:550px;
+background: #FFFFFF;
+border: 4px solid #CC0000;
+z-index:2;
+padding:12px;
+font-size:13px;
+}
+#popupClose{
+font-size:14px;
+line-height:14px;
+right:6px;
+top:4px;
+position:absolute;
+color:#6fa5fd;
+font-weight:700;
+display:block;
+font-family:arial,sans-serif;
+}
+#button{
+text-align:center;
+}
+</style>	
+	
+<script type="text/javascript">
+var myWidth = 0;
+var myHeight = 0;
+var opened = false;
+var is_in = false;
+
+
+//SETTING UP OUR POPUP
+//0 means disabled; 1 means enabled;
+var popupStatus = 0;
+
+//loading popup with jQuery magic!
+function loadPopup(){
+	//loads popup only if it is disabled
+	if(popupStatus==0){
+		$("#backgroundPopup").css({
+			"opacity": "0.7"
+		});
+		$("#backgroundPopup").fadeIn("slow");
+		$("#popup").fadeIn("slow");
+		popupStatus = 1;
+	}
+}
+
+//disabling popup with jQuery magic!
+function disablePopup(){
+	//disables popup only if it is enabled
+	if(popupStatus==1){
+		$("#backgroundPopup").fadeOut("slow");
+		$("#popup").fadeOut("slow");
+		popupStatus = 0;
+	}
+}
+
+function mmove(e)
+{
+	if(opened) return true;
+	if( typeof( window.innerWidth ) == 'number' ) {
+		myWidth = window.innerWidth;
+		myHeight = window.innerHeight;
+	} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+		myWidth = document.documentElement.clientWidth;
+		myHeight = document.documentElement.clientHeight;
+	} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+		myWidth = document.body.clientWidth;
+		myHeight = document.body.clientHeight;
+	}
+	var posx = 0;
+	var posy = 0;
+	if (!e) var e = window.event;
+	if (e.pageX || e.pageY) 	{
+		posx = e.pageX;
+		posy = e.pageY;
+	}
+	else if (e.clientX || e.clientY) 	{
+		posx = e.clientX + document.body.scrollLeft
+			+ document.documentElement.scrollLeft;
+		posy = e.clientY + document.body.scrollTop
+			+ document.documentElement.scrollTop;
+	}
+
+	if(posy < 10 + document.body.scrollTop){
+		is_in = true;
+		openWindow();
+		return true;
+	}
+	else {
+		is_in = false;
+	}
+	return true;
+};
+
+
+function addLoadEvent(func) {
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function() {
+			if (oldonload) {
+				oldonload();
+			}
+			func();
+		}
+	}
+};
+
+addLoadEvent( eg_init ); 
+function eg_init() {
+	document.onmousemove = mmove;
+
+};
+
+
+function setCookie(c_name,value,exdays)
+{
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate() + exdays);
+	var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+	document.cookie=c_name + "=" + c_value;
+}
+
+function getCookie(c_name)
+{
+	var i,x,y,ARRcookies=document.cookie.split(";");
+	for (i=0;i<ARRcookies.length;i++)
+	{
+	  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+	  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+	  x=x.replace(/^\s+|\s+$/g,"");
+	  if (x==c_name)
+		{
+		return unescape(y);
+		}
+	  }
+	return 0;
+}
+
+
+function openWindow()
+{
+	opened = true;
+	
+	
+
+			loadPopup();
+		
+	
+	
+};
+
+
+$(document).ready(function(){
+			
+	//CLOSING POPUP
+	//Click the x event!
+	$("#popupClose").click(function(){
+		disablePopup();
+	});
+	//Click out event!
+	$("#backgroundPopup").click(function(){
+		disablePopup();
+	});
+	//Press Escape event!
+	$(document).keypress(function(e){
+		if(e.keyCode==27 && popupStatus==1){
+			disablePopup();
+		}
+	});
+
+});
+
+
+$(function centerPopup(){
+	$('#popup').each(function(){
+		$(this).css('left',($(window).width()-$(this).outerWidth())/ 2 + 'px');
+		$(this).css('top',($(window).height()-$(this).outerHeight())/ 2 + 'px');
+	});
+});
+
+</script>	
+<!-- End EZ Share Generator HEAD Code --></head>
 
 <body>
 <table width="850" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td align="center" valign="top"><img src="http://simpleadprofitz.com/images/header.jpg" width="850" height="189"></td>
+    <td align="center" valign="top"><a href="/"><img src="http://simpleadprofitz.com/images/header.jpg" border="0" width="850" height="189"></a></td>
   </tr>
   <tr>
     <td align="center" valign="top" background="http://simpleadprofitz.com/images/page-bg.jpg"><table width="94%" border="0" cellspacing="0" cellpadding="0">
@@ -55,112 +275,86 @@ p  { margin-right: 20px; margin-left: 10px; font-family: Tahoma; color: #000000 
 color:#000000;cursor:pointer;cursor:hand;font-family: Verdana, Arial;font-size: 22px;font-weight:bold;
 }
 
+h4
+	{
+	font-family:  arial, helvetica, sans serif;
+	font-size: 15pt;
+        font-weight: normal;
+	line-height: 20pt;
+	display: inline;
+        color: green;
+	}
+.builder		{
+		font-family: arial, helvetica, sans-serif;
+		font-size: 12px;
+		font-weight: bold;
+		text-align: left;
+		}
+
+	div.pagination {
+		padding: 3px;
+		margin: 3px;
+		text-align:center;
+		font-family:Arial,Tahoma,Helvetica,sans-serif;
+		font-size:.95em;
+		font-weight: bold;
+	}
+
+	div.pagination a {
+		border: 1px solid #CCCCCC;
+		margin-right:3px;
+		padding:2px 8px;
+
+		background-position:bottom;
+		text-decoration: none;
+
+		color: #003e93;
+	}
+	div.pagination a:hover, div.pagination a:active {
+		border: 1px solid #CCCCCC;
+		background-image:none;
+		background-color:#003e93;
+		color: #fff;
+	}
+	div.pagination span.current {
+		margin-right:3px;
+		padding:2px 8px;
+                font-weight: bold;
+
+	        border: 1px solid #BBBBBB;
+		background-image:none;
+		background-color:#003e93;
+		color: #ffffff;
+        }
+	div.pagination span.disabled {
+		display:none;
+	}
+	div.pagination a.next{
+		border:2px solid #CCCCCC;
+		margin:0 0 0 10px;
+	}
+	div.pagination a.next:hover{
+		border:2px solid #003e93;
+	}
+	div.pagination a.prev{
+		border:2px solid #CCCCCC;
+		margin:0 10px 0 0;
+	}
+	div.pagination a.prev:hover{
+		border:2px solid #003e93;
+	}
 
 </style>
 
-<center>
-<script language="JavaScript1.2">
 
-//Translucent scroller- By Dynamic Drive
-//For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
-//This credit MUST stay intact for use
 
-var scroller_width='470px'
-var scroller_height='90px'
-var bgcolor='#FFFFFF'
-var pause=3000 //SET PAUSE BETWEEN SLIDE (3000=3 seconds)
+	<div id="banner1" style="height: 82px; text-align: center;">
+	<a href="http://simpleadprofitz.com/bannerclick.php?id=23120&amp;clickcode=a813f6133031aa997c1223aca7ef7cf8" target="_blank"><img src="http://images.pluginprofitsite.com/banners/pips1.gif" border="0"></a><br><a href="http://simpleadprofitz.com/textlinkclick.php?id=21394&amp;clickcode=19b29d1cfff0a18c07b6b13fd8369a50" target="_blank"><u><font face="Tahoma" size="2">FlightProSim v2.2 Get this Upgrade</font></u></a>	</div>
 
-var scrollercontent=new Array()
-//Define scroller contents. Extend or contract array as needed
-scrollercontent[0]='<a href="http://simpleadprofitz.com/bannerclick.php?id=213&code=u2UDYQEr" target="_blank"><img src="http://www.shinelight-traffic.com/ar/858.jpg" border="0"></a><br><a href="textlinkclick.php?id=2785&code=" target="_blank"><u><font face="Tahoma" size="2">Attention, Freebie Lovers! Dont Miss This!</font></u></a>';
-scrollercontent[1]='<a href="http://simpleadprofitz.com/bannerclick.php?id=2956&code=" target="_blank"><img src="http://skim3.com/banners/468x60.jpg  " border="0"></a><br><a href="textlinkclick.php?id=91&code=" target="_blank"><u><font face="Tahoma" size="2">Grow Your List ~ Grow Your Business</font></u></a>';
-scrollercontent[2]='<a href="http://simpleadprofitz.com/bannerclick.php?id=5405&code=" target="_blank"><img src="http://allsolutionsnetwork.com/ASNopportunity2.gif" border="0"></a><br><a href="textlinkclick.php?id=1074&code=" target="_blank"><u><font face="Tahoma" size="2">2.95 Super Solo Ads To 25K This Week Only!</font></u></a>';
-scrollercontent[3]='<a href="http://simpleadprofitz.com/bannerclick.php?id=5021&code=" target="_blank"><img src="http://cdn.plus500.com/Media/Banners/468x60/460.gif" border="0"></a><br><a href="textlinkclick.php?id=1190&code=" target="_blank"><u><font face="Tahoma" size="2">Get Daily Signups...</font></u></a>';
-scrollercontent[4]='<a href="http://simpleadprofitz.com/bannerclick.php?id=4484&code=" target="_blank"><img src="http://supersolos.com/images/ppp2.gif" border="0"></a><br><a href="textlinkclick.php?id=4118&code=" target="_blank"><u><font face="Tahoma" size="2">Rewardingways great site to earn $</font></u></a>';
-
-////NO need to edit beyond here/////////////
-
-var ie4=document.all
-var dom=document.getElementById&&navigator.userAgent.indexOf("Opera")==-1
-
-if (ie4||dom)
-document.write('<div style="position:relative;width:'+scroller_width+';height:'+scroller_height+';overflow:hidden"><div id="canvas0" style="position:absolute;background-color:'+bgcolor+';width:'+scroller_width+';height:'+scroller_height+';top:'+scroller_height+';filter:alpha(opacity=20);-moz-opacity:0.2;left: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"></div><div id="canvas1" style="position:absolute;background-color:'+bgcolor+';width:'+scroller_width+';height:'+scroller_height+';top:'+scroller_height+';filter:alpha(opacity=20);-moz-opacity:0.2;left: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"></div></div>')
-else if (document.layers){
-document.write('<ilayer id=tickernsmain visibility=hide width='+scroller_width+' height='+scroller_height+' bgColor='+bgcolor+'><layer id=tickernssub width='+scroller_width+' height='+scroller_height+' left=0 top=0>'+scrollercontent[0]+'</layer></ilayer>')
-}
-
-var curpos=scroller_height*(1)
-var degree=10
-var curcanvas="canvas0"
-var curindex=0
-var nextindex=1
-
-function moveslide(){
-if (curpos>0){
-curpos=Math.max(curpos-degree,0)
-tempobj.style.top=curpos+"px"
-}
-else{
-clearInterval(dropslide)
-if (crossobj.filters)
-crossobj.filters.alpha.opacity=100
-else if (crossobj.style.MozOpacity)
-crossobj.style.MozOpacity=1
-nextcanvas=(curcanvas=="canvas0")? "canvas0" : "canvas1"
-tempobj=ie4? eval("document.all."+nextcanvas) : document.getElementById(nextcanvas)
-tempobj.innerHTML=scrollercontent[curindex]
-nextindex=(nextindex<scrollercontent.length-1)? nextindex+1 : 0
-setTimeout("rotateslide()",pause)
-}
-}
-
-function rotateslide(){
-if (ie4||dom){
-resetit(curcanvas)
-crossobj=tempobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
-crossobj.style.zIndex++
-if (crossobj.filters)
-document.all.canvas0.filters.alpha.opacity=document.all.canvas1.filters.alpha.opacity=20
-else if (crossobj.style.MozOpacity)
-document.getElementById("canvas0").style.MozOpacity=document.getElementById("canvas1").style.MozOpacity=0.2
-var temp='setInterval("moveslide()",50)'
-dropslide=eval(temp)
-curcanvas=(curcanvas=="canvas0")? "canvas1" : "canvas0"
-}
-else if (document.layers){
-crossobj.document.write(scrollercontent[curindex])
-crossobj.document.close()
-}
-curindex=(curindex<scrollercontent.length-1)? curindex+1 : 0
-}
-
-function resetit(what){
-curpos=parseInt(scroller_height)*(1)
-var crossobj=ie4? eval("document.all."+what) : document.getElementById(what)
-crossobj.style.top=curpos+"px"
-}
-
-function startit(){
-crossobj=ie4? eval("document.all."+curcanvas) : dom? document.getElementById(curcanvas) : document.tickernsmain.document.tickernssub
-if (ie4||dom){
-crossobj.innerHTML=scrollercontent[curindex]
-rotateslide()
-}
-else{
-document.tickernsmain.visibility='show'
-curindex++
-setInterval("rotateslide()",pause)
-}
-}
-
-if (ie4||dom||document.layers)
-window.onload=startit
-
-</script><div style="position:relative;width:470px;height:90px;overflow:hidden"><div id="canvas0" style="position: absolute; background-color: rgb(255, 255, 255); width: 470px; height: 90px; top: 0px; left: 0px; padding: 0px; margin: 0px; z-index: 1;"><a href="http://simpleadprofitz.com/bannerclick.php?id=213&amp;code=u2UDYQEr" target="_blank"><img src="http://www.shinelight-traffic.com/ar/858.jpg" border="0"></a><br><a href="textlinkclick.php?id=2785&amp;code=" target="_blank"><u><font face="Tahoma" size="2">Attention, Freebie Lovers! Dont Miss This!</font></u></a></div><div id="canvas1" style="position:absolute;background-color:#FFFFFF;width:470px;height:90px;top:90px;filter:alpha(opacity=20);-moz-opacity:0.2;left: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><a href="http://simpleadprofitz.com/bannerclick.php?id=2956&amp;code=" target="_blank"><img src="http://skim3.com/banners/468x60.jpg  " border="0"></a><br><a href="textlinkclick.php?id=91&amp;code=" target="_blank"><u><font face="Tahoma" size="2">Grow Your List ~ Grow Your Business</font></u></a></div></div>
-</center>
 	
-	
-	
+
+
+
 <p align="center">
 
 
@@ -262,11 +456,13 @@ privacy policies may differ from ours. </font></p><br>
 <font color="#000000">Spam Policy</font></a><font color="#000000"> | 
 <a href="/privacy.php" target="_blank&quot;">
 <font color="#000000">Privacy Policy</font></a><font color="#000000"> | 
-<a href="http://simpleadprofitz.com/recommends.php" target="_blank&quot;">
-<font color="#000000"><font color="#0000FF"><u>Recommended Site of The Day</u></font></font></a><font color="#000000"> 
+<a href="/recommends.php" target="_blank&quot;">
+<font color="#000000"><font color="#0000FF"><u>Recommended Site of The Day</u></font></font></a><font color="#000000">  | <a href="/founders.php" target="_blank&quot;">Founding Members</a> 
 
+<br><br>
+</font></font></font></font></font></p><center><script type="text/javascript" src="http://www.traxadz.com/solo.php"></script></center><font color="#000000"><font color="#000000"><font color="#000000">
 <br>
-</font></font></font></font></font></p></font></center></center></td>
+</font></font></font></font></center></center></td>
       </tr>
     </tbody></table></td>
   </tr>
