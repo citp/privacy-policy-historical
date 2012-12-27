@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627224535id_/http%3A//marketing.platts.com/forms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platts.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227101115id_/http%3A//marketing.platts.com/forms/Privacy) for the most accurate reproduction.*
 
 # Platts Privacy
 
