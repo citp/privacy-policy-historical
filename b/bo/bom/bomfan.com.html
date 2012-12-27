@@ -1,0 +1,139 @@
+<!--The following is the downloaded HTML source of the bomfan.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227143412id_/http%3A//www.bomfan.com/privacy.php) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="../js/jquery.js" language="javascript" type="text/javascript"></script>
+<script src="../js/ajax.js" language="javascript" type="text/javascript"></script>
+<script src="../js/main.js" language="javascript" type="text/javascript"></script>
+<title>Bomfan -الموقع الوحيد و المجاني لتكبير صفحات الفيس بوك</title>
+<link href="../css/main.css" rel="stylesheet" type="text/css">
+
+
+<style id="wrc-middle-css" type="text/css">.wrc_whole_window{	display: none;	position: fixed; 	z-index: 2147483647;	background-color: rgba(40, 40, 40, 0.9);	word-spacing: normal;	margin: 0px;	padding: 0px;	border: 0px;	left: 0px;	top: 0px;	width: 100%;	height: 100%;	line-height: normal;	letter-spacing: normal;}.wrc_middle_main {	font-family: Segoe UI, Arial Unicode MS, Arial, Sans-Serif;	font-size: 14px;	width: 600px;	height: auto;	margin: 0px auto;	margin-top: 15%;    background: url(chrome-extension://icmlaeflemplmjndnaapfdbbnpncnbda/skin/images/background-body.jpg) repeat-x left top;	background-color: rgb(39, 53, 62);}.wrc_middle_logo {    background: url(chrome-extension://icmlaeflemplmjndnaapfdbbnpncnbda/skin/images/logo.jpg) no-repeat left bottom;    width: 140px;    height: 42px;    color: orange;    display: table-cell;    text-align: right;    vertical-align: middle;}.wrc_icon_warning {	margin: 20px 10px 20px 15px;	float: left;	background-color: transparent;}.wrc_middle_title {    color: #b6bec7;	height: auto;    margin: 0px auto;	font-size: 2.2em;	white-space: nowrap;	text-align: center;}.wrc_middle_hline {    height: 2px;	width: 100%;    display: block;}.wrc_middle_description {	text-align: center;	margin: 15px;	font-size: 1.4em;	padding: 20px;	height: auto;	color: white;	min-height: 3.5em;}.wrc_middle_actions_main_div {	margin-bottom: 15px;	text-align: center;}.wrc_middle_actions_blue_button {	-moz-appearance: none;	border-radius: 7px;	-moz-border-radius: 7px/7px;	border-radius: 7px/7px;	background-color: rgb(0, 173, 223) !important;	display: inline-block;	width: auto;	cursor: Pointer;	border: 2px solid #00dddd;}.wrc_middle_actions_blue_button:hover {	background-color: rgb(0, 159, 212) !important;}.wrc_middle_actions_blue_button:active {	background-color: rgb(0, 146, 200) !important;	border: 2px solid #00aaaa;}.wrc_middle_actions_blue_button div {	display: inline-block;	width: auto;	cursor: Pointer;	margin: 3px 10px 3px 10px;	color: white;	font-size: 1.2em;	font-weight: bold;}.wrc_middle_action_low {	font-size: 0.9em;	white-space: nowrap;	cursor: Pointer;	color: grey !important;	margin: 10px 10px 0px 10px;	text-decoration: none;}.wrc_middle_action_low:hover {	color: #aa4400 !important;}.wrc_middle_actions_rest_div {	padding-top: 5px;	white-space: nowrap;	text-align: center;}.wrc_middle_action {	white-space: nowrap;	cursor: Pointer;	color: red !important;	font-size: 1.2em;	margin: 10px 10px 0px 10px;	text-decoration: none;}.wrc_middle_action:hover {	color: #aa4400 !important;}</style><script id="wrc-script-middle_window" type="text/javascript" language="JavaScript">var g_inputsCnt = 0;var g_InputThis = new Array(null, null, null, null);var g_alerted = false;/* we test the input if it includes 4 digits   (input is a part of 4 inputs for filling the credit-card number)*/function is4DigitsCardNumber(val){	var regExp = new RegExp('[0-9]{4}');	return (val.length == 4 && val.search(regExp) == 0);}/* testing the whole credit-card number 19 digits devided by three '-' symbols or   exactly 16 digits without any dividers*/function isCreditCardNumber(val){	if(val.length == 19)	{		var regExp = new RegExp('[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{4}');		return (val.search(regExp) == 0);	}	else if(val.length == 16)	{		var regExp = new RegExp('[0-9]{4}[0-9]{4}[0-9]{4}[0-9]{4}');		return (val.search(regExp) == 0);	}	return false;}function CheckInputOnCreditNumber(self){	if(g_alerted)		return false;	var value = self.value;	if(self.type == 'text')	{		if(is4DigitsCardNumber(value))		{			var cont = true;			for(i = 0; i < g_inputsCnt; i++)				if(g_InputThis[i] == self)					cont = false;			if(cont && g_inputsCnt < 4)			{				g_InputThis[g_inputsCnt] = self;				g_inputsCnt++;			}		}		g_alerted = (g_inputsCnt == 4);		if(g_alerted)			g_inputsCnt = 0;		else			g_alerted = isCreditCardNumber(value);	}	return g_alerted;}function CheckInputOnPassword(self){	if(g_alerted)		return false;	var value = self.value;	if(self.type == 'password')	{		g_alerted = (value.length > 0);	}	return g_alerted;}function onInputBlur(self, bRatingOk, bFishingSite){	var bCreditNumber = CheckInputOnCreditNumber(self);	var bPassword = CheckInputOnPassword(self);	if((!bRatingOk || bFishingSite == 1) && (bCreditNumber || bPassword) )	{		var warnDiv = document.getElementById("wrcinputdiv");		if(warnDiv)		{			/* show the warning div in the middle of the screen */			warnDiv.style.left = "0px";			warnDiv.style.top = "0px";			warnDiv.style.width = "100%";			warnDiv.style.height = "100%";			document.getElementById("wrc_warn_fs").style.display = 'none';			document.getElementById("wrc_warn_cn").style.display = 'none';			if(bFishingSite)				document.getElementById("wrc_warn_fs").style.display = 'block';			else				document.getElementById("wrc_warn_cn").style.display = 'block';			warnDiv.style.display = 'block';		}	}}</script>
+
+
+
+<!--    google analytics  -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34594769-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+</head>
+
+<body onload="getCaptcha()">
+<link href="../css/mod_barre.css" rel="stylesheet" type="text/css">
+<script src="../js/mod_barre.js" language="javascript" type="text/javascript"></script>
+
+<div style="background-color:#000">
+
+<div align="left" id="_divNavMain"> <a href="http://www.bomfan.com">
+<div id="_divNavLogo"></div>
+  </a>
+  <div id="_divNavMenu1">
+    <ul class="MenuContainerLeft">
+            <li class="MenuItem">
+        <div><a href="http://www.bomfan.com">Home</a></div>
+      </li>
+	  <li class="MenuItem">
+        <div><a href="http://www.bomfan.com/video.php">Videos</a></div>
+      </li>
+      <li class="MenuItem">
+        <div><a href="http://www.bomfan.com/help.php">Help</a></div>
+      </li>
+	  <li class="MenuItem">
+        <div><a href="http://www.bomfan.com/article.php">غرائب و عجائب</a></div>
+      </li>
+	  <li class="MenuItem">
+        <div><a href="http://www.bomfan.com">الموقع الوحيد و المجاني لتكبير صفحات الفيس بوك</a></div>
+      </li>
+	  <li class="MenuItem">
+        <div><a href="http://www.bomfan.com/advertise.php">للإعلان في موقعنا </a></div>
+      </li>
+          </ul>
+  </div>
+  <div id="_divNavMenu2">
+    <ul class="MenuContainerRight">
+            <li class="MenuItem">
+        <div class="SelectMenu"><a href="" target="_blank">Facebook fan page</a></div>
+      </li>
+          </ul>
+  </div>
+</div>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+<p id="slogan">Privacy Policy for www.bomfan.com     </p>
+<br>
+<div id="divLine1"></div>
+<br><br><br>
+<div style="font-family: Arial,Helvetica,sans-serif; font-size: 14px;">
+<table border="0" width="75%">
+<tbody><tr><td>
+
+<p>
+    The privacy of our visitors to www.bomfan.com is important to us. <br><br>
+
+    At www.bomfan.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.bomfan.com, and how we safeguard your information.  We never sell your personal information to third parties. <br><br>
+
+    <b>Log Files</b>  <br><br>
+    As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. <br><br>
+
+    <b>Cookies and Web Beacons</b>  <br><br>
+    We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. <br><br>
+
+    We also use third party advertisements on www.bomfan.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). <br><br>
+
+    You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts. <br><br>
+</p>
+
+</td></tr>
+</tbody></table>
+</div>
+
+<br><br>
+</div>
+
+<center>
+  <div style="margin-top:80px;"></div>
+  <link href="css/mod_default_footer.css" rel="stylesheet" type="text/css">
+
+<div id="divLine1"></div>
+<div id="divLine2">
+  <div id="divLine21"> </div>
+</div>
+<div id="divFooterTxt"> 
+  <a class="FooterLink" href="./">Home  </a>
+  <span class="txtBlack"> - </span>
+  <a class="FooterLink" href="about.php">About Us  </a>
+  <span class="txtBlack"> - </span>
+  <a class="FooterLink" href="news.php">News  </a>
+  <span class="txtBlack"> - </span>
+  <a class="FooterLink" href="privacy.php">Privacy policy  </a>
+  <span class="txtBlack"> - </span>
+  <a class="FooterLink" href="contact.php">Contact  </a>
+  <span class="txtBlack"> - </span>
+  <a class="FooterLink" href="sitemap.php">Sitemap  </a>
+  <span class="txtBlack"> - </span>
+  
+  
+  <span class="txtFooter">©  2012  BomFan</span>
+</div>
+</center>
+
+</body></html>
