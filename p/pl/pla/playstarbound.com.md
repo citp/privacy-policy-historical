@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playstarbound.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508095633id_/http%3A//playstarbound.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstarbound.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227143944id_/http%3A//playstarbound.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Starbound
 
@@ -35,6 +35,19 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 **Comments**
 
 Comments and other content submitted to a third party anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+The Starbound forums are hosted in the United States and U.S. federal laws may apply. The privacy protection of children under 13 years of age is among these laws. Chucklefish will not accept or keep personally identifiable information for children under the age of 13 and will deny or revoke access to the site based on this law. If you have a child under the age of 13 who has registered for this site, please contact an Administrator to have the associated account disabled. Current Administrators are listed here: http://community.playstarbound.com/index.php?threads/starbound-forum-staff-list.572/  
+More information on the Children’s Online Privacy Protection Act can be found here: http://www.coppa.org/”
 
 **Privacy Policy Changes**
 
