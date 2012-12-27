@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626043531id_/http%3A//www.marketwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwire.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227021857id_/http%3A//www.marketwire.com/privacy) for the most accurate reproduction.*
 
 # Marketwire – Newswire service for online press release distribution, social media releases, social media monitoring, online newsrooms, news release analytics and reporting
 
-[Home](https://web.archive.org/web/20120626043531id_/http%3A//www.marketwire.com/) >
+[Home](https://web.archive.org/web/20121227021857id_/http://www.marketwire.com/) >
 
 Your privacy on the Internet is of the utmost importance to us. This privacy statement discloses what information we gather, how we use it, and how to correct or change it.
 
