@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526200342id_/http%3A//www.caratlane.com/about-us/%3Ftab%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227030944id_/http%3A//www.caratlane.com/about-us/%3Ftab%3Dpp) for the most accurate reproduction.*
 
-# About Us
+# About Us – India’s Trusted Online Jeweller | Caratlane.com
 
 Welcome to the website CaratLane.com. CaratLane.com can be contacted by phone at             1800-102-0103      , or by e-mail at contactus@caratlane.com. The protection and security of your personal information is one of CaratLane.com's top priorities. This online Privacy Policy discloses CaratLane.com's information practices for this Website and subscriber / membership based services ("Services") including the type of information being collected, method of such information collection, use of such information and sharing of such information with  
 third parties.
@@ -55,8 +55,8 @@ Monday to Saturday
 
 #### Our Customer Say It Best [More ](http://www.caratlane.com/customertestimonials/index/indexall/)
 
-### With Caratlane, I found it easy and hassle free
+### Thank you for the tremendous service 
 
-"Hi Divya, Although I am familiar with online purchases, I was quite skeptical about buying diamond jewellery from an online portal. With Caratlane, I found it easy and hassle . .."
+"Dear All, I have received my order. Thank you for the tremendous service and value you have provided to me. Regards, Rajesh Kumar Sinha "
 
--Kalyan Bhattacharya,Hyderabad
+-Rajesh Sinha ,Delhi
