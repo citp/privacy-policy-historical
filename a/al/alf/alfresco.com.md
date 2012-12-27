@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626134719id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227110546id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Alfresco
 
@@ -29,7 +29,7 @@ Training, docs and help from us and our partners
 
 Build on our open source platform
 
-](https://web.archive.org/develop "Build on our open source platform")
+](https://developer.alfresco.com/ "Build on our open source platform")
 
 
 
