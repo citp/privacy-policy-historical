@@ -1,54 +1,66 @@
-<!--The following is the downloaded HTML source of the remotedesktopmanager.com privacy policy that was archived on 2012-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120615131214id_/http%3A//remotedesktopmanager.com/remotedesktopmanager/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the remotedesktopmanager.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227033813id_/http%3A//remotedesktopmanager.com/remotedesktopmanager/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://ogp.me/ns/fb#" xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy - Remote Desktop Manager
 </title>
-        <meta name="description" content="Remote Desktop Manager is a product used to manage all your remote
-            connections and virtual machines. Add, edit, delete, share, organize and find your
-            remote connection quickly. It offers built-in support for Microsoft Remote Desktop, Terminal Services,
-            VNC, LogMeIn, TeamViewer, Ftp, SSH, Telnet, Dameware, X Window, VMware, Virtual
-            PC, PC Anywhere, Hyper-V, Citrix, Radmin, Microsoft Remote Assistance, Oracle Virtual
-            Box and more.">
-        <meta name="keywords" content="Remote Desktop, VNC, LogMeIn, TheGreenBow, TeamViewer, Hyper-V, Telnet, management remote computer, Devolution, Devolutions"> 
-    
-        <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js">
-        </script>
-    
     
 	<link href="/remotedesktopmanager/App_Themes/Devolutions/reset.css?0901112033" rel="stylesheet" type="text/css">
-	<link href="/remotedesktopmanager/App_Themes/Devolutions/cssScreen.css?0606120753" rel="stylesheet" type="text/css">
+	<link href="/remotedesktopmanager/App_Themes/Devolutions/cssScreen.css?1219121403" rel="stylesheet" type="text/css">
     <link rel="icon" type="image/x-icon" href="/remotedesktopmanager/favicon.ico">
     <!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="/remotedesktopmanager/favicon.ico" /><![endif]-->
+    <meta name="viewport" content="width=1024px">
+        <meta name="description" content="Remote Desktop Manager is an all-in-one remote connections, passwords and credentials management platform for IT teams trusted by over 200,000 users in over 80 countries.">
+        <meta name="keywords" content="Remote Desktop, VNC, LogMeIn, TheGreenBow, TeamViewer, Hyper-V, Telnet, management remote computer, Devolution, Devolutions"> 
+    
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+        </script>
+    
+        
+    
+            <script type="text/javascript">
+
+                $.fn.isOnScreen = function () {
+
+                    var win = $(window);
+                    var viewport = {
+                        top: win.scrollTop(),
+                        left: win.scrollLeft()
+                    };
+                    viewport.right = viewport.left + win.width();
+                    viewport.bottom = viewport.top + win.height();
+
+                    var bounds = this.offset();
+                    bounds.right = bounds.left + this.outerWidth();
+                    bounds.bottom = bounds.top + this.outerHeight();
+
+                    return (!(viewport.right < bounds.left || viewport.left > bounds.right || viewport.bottom < bounds.top + 32 || viewport.top > bounds.bottom));
+
+                };
+
+                $(document).ready(function () {
+
+                    if (!(navigator.platform == 'iPad' || navigator.platform == 'iPhone' || navigator.platform == 'iPod')) {
+
+                        adjustFooter();
+                        $(window).resize(adjustFooter);
+                        $(window).scroll(adjustFooter);
+                    }
+
+                    function adjustFooter() {
+                        if (!$("#ctl00_footerHolder").isOnScreen()) {
+                            $("#footer").addClass("floating");
+                        } else {
+                            $("#footer").removeClass("floating");
+                        }
+
+                        $('#header, .footer.floating').css('left', -$(window).scrollLeft());
+                    }
+                });
+        </script>
 </head>
-<body class="rdm">
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-251198-6']);
-        _gaq.push(['_setAllowLinker', true]);
-        _gaq.push(['_setDomainName', '.remotedesktopmanager.com']);
-        _gaq.push(['_setAllowHash', false]);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-        
-        
-    </script>
-
-    <script type="text/javascript">
-        function thanks() {
-            if (!$.browser.msie) {
-                setTimeout(function() {
-                    document.location.pathname = '/remotedesktopmanager/Home/ThankYou';
-                }, 7000);
-            } 
-        }
-    </script>
-
+<body>
+    <div id="fb-root"></div>
     <div class="page">
         
 <div id="header">
@@ -71,36 +83,38 @@
 			</ul>
 		</li>
 		<li id="mm-rdms"><a href="http://remotedesktopmanagerserver.com">Remote Desktop Manager Server</a></li>
-		<li id="mm-support"><a title="Support" href="/remotedesktopmanager/Support">Support</a>
-			<ul>
+        <li id="mm-download">
+        <a title="Download" href="/remotedesktopmanager/Home/Download">Download</a>
+            <ul>
+				<li><a title="Application" href="/remotedesktopmanager/Home/Download#application">Application</a></li>
+				<li><a title="Documents" href="/remotedesktopmanager/Home/Download#documents">Documents</a></li>
+			</ul>
+        
+            
+        </li>
+        <li id="mm-buy">
+        <a title="Buy" href="/remotedesktopmanager/Buy/Store">Store</a>
+            <ul>
+                <li><a href="/remotedesktopmanager/Buy/Pricing">Price List</a></li>
+                <li><a href="/remotedesktopmanager/Buy/Quote">Request Quote</a></li>
+                <li><a href="/remotedesktopmanager/Buy/Store">Online Store</a></li>
+				<li><a href="/remotedesktopmanager/Support/FAQ">FAQ</a></li>
+            </ul>
+        
+        </li>
+        <li id="mm-support"><a href="/remotedesktopmanager/Support">Support</a>
+		    
+            <ul>
 	    
 				<li><a href="http://help.remotedesktopmanager.com">Online Help</a></li>
-				<li><a href="http://remotedesktopmanager.com/download/RDM7.1.pdf">User Manual</a></li>
-				<li><a href="http://remotedesktopmanager.com/remotedesktopmanager/Support/FAQ">FAQ</a></li>
-				<li><a href="http://remotedesktopmanager.com/remotedesktopmanager/Support/Video">Tutorials</a></li>
+                <li><a href="http://remotedesktopmanager.com/download/RDM8.0.pdf" onclick="_gaq.push(['_trackPageview', 'RDMDoc.zip']);">User Manual</a></li>
+				<li><a href="/remotedesktopmanager/Support/Video">Tutorials</a></li>
 				<li><a href="http://forum.devolutions.net">Forum</a></li>
-				<li><a href="http://remotedesktopmanager.com/remotedesktopmanager/Home/WhatsNew">What's New</a></li>
-				<li><a href="http://remotedesktopmanager.com/remotedesktopmanager/Home/ChangeHistory">Change History</a></li>
+				<li><a href="/remotedesktopmanager/Home/WhatsNew">What's New</a></li>
+				<li><a href="/remotedesktopmanager/Home/ChangeHistory">Change History</a></li>
         
 			</ul>
 		</li>
-		<li id="mm-partners"><a title="Partners" href="/remotedesktopmanager/Partners">Partners</a>
-			<ul>
-				<li><a title="Information" href="/remotedesktopmanager/Partners/TechPartners">Information</a></li>
-				<li><a title="Affiliate Program" href="/remotedesktopmanager/Partners/Affiliates">Affiliate Program</a></li>
-				<li><a title="Reseller Program" href="/remotedesktopmanager/Buy/Reseller">Reseller Program</a></li>
-				<li><a title="Find a Reseller" href="/remotedesktopmanager/Buy/ResellerList">Find a Reseller</a></li>
-			</ul>
-		</li>
-		<li id="mm-company"><a title="Company" href="/remotedesktopmanager/Company/AboutUs">Company</a>
-			<ul>
-				<li><a title="Abous Us" href="/remotedesktopmanager/Company/AboutUs">About Us</a></li>
-				<li><a title="Management Team" href="/remotedesktopmanager/Company/ManagementTeam">Management Team</a></li>
-				<li><a title="Careers" href="/remotedesktopmanager/Company/Careers">Careers</a></li>
-				<li><a title="News" href="/remotedesktopmanager/Company/PressReleases">News</a></li>
-				<li><a title="Media" href="/remotedesktopmanager/Company/Media">Media</a></li>
-			</ul>
-        </li>
 		<li id="mm-contact"><a title="Contact" href="/remotedesktopmanager/Contact">Contact</a>
 			<ul>
 				<li><a title="Information" href="/remotedesktopmanager/Contact">Information</a></li>
@@ -111,76 +125,7 @@
 	</ul>
 </div>
         <div id="main">
-            <div id="menucontainer">
-                <ul id="menu">
-                    <li>
-                        <ul>
-                            <li>
-                                <a href="/remotedesktopmanager/Home/Download">Download</a></li>
-                            <li>
-                                <a href="/remotedesktopmanager/Home/Trial">Trial</a></li>
-                            <li>
-                                <a href="/remotedesktopmanager/Home/ScreenShots">Screenshots</a></li>
-                            <li>
-                                <a href="/remotedesktopmanager/Support/Video">Tutorials</a></li>
-                            <li>
-                                <a href="/remotedesktopmanager/Home/Reviews">Reviews</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="/remotedesktopmanager/Home/Features">Features</a>
-                        <ul>
-                            <li>
-                                <a href="/remotedesktopmanager/Home/Features">Highlight</a></li>
-                            <li>
-                                <a href="/remotedesktopmanager/Home/FeaturesGrid">Compare</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="/remotedesktopmanager/Buy/Store">Buy</a>
-                        <ul>
-                            <li><a href="/remotedesktopmanager/Buy/Pricing">Pricing</a></li>
-                            <li><a href="/remotedesktopmanager/Buy/Quote">Quote</a></li>
-                            <li><a href="/remotedesktopmanager/Buy/Store">Store</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="/remotedesktopmanager/Home/AddOn">Add-ons</a>
-                        <ul>
-                            <li>
-                                <a href="/remotedesktopmanager/Home/AddOn">View List</a></li>
-                            <li>
-                                <a href="/remotedesktopmanager/Home/SessionScriptTools">Script List</a></li>
-							<li><a href="/remotedesktopmanager/Home/ExternalAddOns">Other</a></li>
-                            <li>
-                                <a href="/remotedesktopmanager/Home/AddOnSDK">SDK</a></li>
-                        </ul>
-                    </li>
-                    <li style="margin-top: 28px; overflow: hidden; height: 24px;"><div class="g-plusone" data-href="http://remotedesktopmanager.com/" data-size="medium"><a class="googleplus" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fremotedesktopmanager.com" target="_blank" rel="nofollow">Google Plus</a></div></li>
-        <li>
-            <a href="https://twitter.com/remotedeskman" class="twitter-follow-button" data-width="100%" data-show-count="true" data-lang="en">Follow @remotedeskman</a>
-            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
-        </li>
-        <li><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fremotedesktopmanager&amp;locale=en_US&amp;layout=button_count&amp;show_faces=false&amp;width=185&amp;action=recommend&amp;colorscheme=light&amp;height=30" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:185px; height:30px;" allowtransparency="true"></iframe>
-                    <script type="text/javascript">
-                        (function () {
-                            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                            po.src = 'https://apis.google.com/js/plusone.js';
-                            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                        })();
-		</script></li>
-                    <li style="margin-left: -3px;left: 20px; margin-top: 18px; width: 115px">
-						<a class="facebook" href="http://facebook.remotedesktopmanager.com" target="_blank">Find us on Facebook</a> 
-                        <a class="linkedin" href="http://linkedin.remotedesktopmanager.com" target="_blank">Follow us on LinkedIn</a> 
-                        <a class="twitter" href="http://twitter.remotedesktopmanager.com" target="_blank">Find us on Twitter</a> 
-                        <a class="youtube" href="http://youtube.remotedesktopmanager.com" target="_blank">Find us on YouTube</a>
-                        <a class="blog" href="http://blog.devolutions.net/" target="_blank">Visit our Blog</a> 
-                        <a class="rss" href="http://rss.remotedesktopmanager.com" target="_blank">follow Devolutions RSS feed</a> 
-                    </li>
-                </ul>
-            </div>              
-            <div id="mainCont">
-				
+			
 
 <div class="contentHolder">
 <h3>Privacy Policy</h3>
@@ -303,44 +248,153 @@ J5T 1T7</td>
 </div>
 
 
-            </div>
-        </div>    
-        <div id="ctl00_Panel1" class="footer">
-	
-            <div id="link">
-         
-                <script type="text/javascript" src="http://www.google.com/jsapi"></script>
-                <form autocomplete="off" action="/remotedesktopmanager/Search/Result" id="g-search-box">
-                    <div class="searchbox">
-                        <input class="sbox" type="text" name="q" id="q" size="31">
-                        <input class="sbut" src="/remotedesktopmanager/Images/search.jpg" type="image">
-                    </div>
-                </form>
-                <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"></script>
+        </div>
+       
+<div id="SocialBar">
+    <ul>
+        
+        <li id="facebookButton"><a target="_blank" class="small facebook" href="http://facebook.remotedesktopmanager.com/">Find us on Facebook</a></li>
+        <li id="linkedinButton"><a target="_blank" class="small linkedin" href="http://linkedin.remotedesktopmanager.com/">Follow us on LinkedIn</a></li>
+        <li id="twitterButton"><a target="_blank" class="small twitter" href="http://twitter.remotedesktopmanager.com/">Find us on Twitter</a></li>
+        <li id="youtubeButton"><a target="_blank" class="small youtube" href="http://youtube.remotedesktopmanager.com/">Find us on YouTube</a></li>
+        <li id="rssButton"><a target="_blank" class="small rss" href="http://rss.remotedesktopmanager.com/">Follow Remote Desktop Manager RSS feed</a></li>
+        <li id="blogButton"><a target="_blank" class="small blog" href="http://blog.devolutions.net/">Visit our Blog</a></li>
+        <li id="gplusButton"><a target="_blank" class="small gplus" href="http://plus.remotedesktopmanager.com/">Find us on Google+</a></li>
+        
+    </ul>
+</div>
 
-                <a href="/remotedesktopmanager/Home">Home</a>
-                |
-                <a href="/remotedesktopmanager/Home/Download">Download</a>
-                |
-                <a href="/remotedesktopmanager/Home/Trial">Trial</a>
-                |
-                <a href="/remotedesktopmanager/Buy/Store">Buy</a>
-                |
-                <a href="/remotedesktopmanager/Support">Support</a>
-                |
-                <a href="/remotedesktopmanager/Contact">Contact</a>
-                <br>
-                <a href="/remotedesktopmanager/Home/TermsOfUse">Terms of Use</a>
-                |
-                <a href="/remotedesktopmanager/Home/PrivacyPolicy">Privacy Policy</a>
-                |
-                ©
-				2012
-				<a class="devolutions" href="http://devolutions.net/">Devolutions Inc.</a>
-            </div>
+        <div id="ctl00_footerHolder" class="footerHolder">
+	
+                <div id="footer" class="footer"><ul id="menu">
+                    <li style="margin-left:27px;width: 130px;">
+                        <a href="/remotedesktopmanager/Home">Home</a>
+                        <ul>
+                            <li><a href="/remotedesktopmanager/Home/Download">Download</a></li>
+                            <li><a href="/remotedesktopmanager/Home/Trial">Trial</a></li>
+                            <li><a href="/remotedesktopmanager/Home/ScreenShots">Screenshots</a></li>
+                            <li><a href="/remotedesktopmanager/Home/Features">Features</a></li>
+                            <li><a href="/remotedesktopmanager/Home/FeaturesGrid">Compare Editions</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/remotedesktopmanager/Buy/Store">Buy</a>
+                        <ul>
+                            <li><a href="/remotedesktopmanager/Buy/Pricing">Price List</a></li>
+                            <li><a href="/remotedesktopmanager/Buy/Quote">Request Quote</a></li>
+                            <li><a href="/remotedesktopmanager/Buy/Store">Online Store</a></li>
+        		            <li><a href="/remotedesktopmanager/Support/FAQ">FAQ</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/remotedesktopmanager/Home/AddOn">Add-ons</a>
+                        <ul>
+                            <li><a href="/remotedesktopmanager/Home/AddOn">View List</a></li>
+                            <li><a href="/remotedesktopmanager/Home/SessionScriptTools">Script List</a></li>
+							<li><a href="/remotedesktopmanager/Home/ExternalAddOns">Other</a></li>
+                            <li><a href="/remotedesktopmanager/Home/AddOnSDK">SDK</a></li>
+                            <li><a href="/remotedesktopmanager/Home/Contribute">Translate</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/remotedesktopmanager/Support">Support</a>
+			            <ul>
+				            <li><a href="http://help.remotedesktopmanager.com">Online Help</a></li>
+                            <li><a href="http://remotedesktopmanager.com/download/RDM8.0.pdf" onclick="_gaq.push(['_trackPageview', 'RDMDoc.zip']);">User Manual</a></li>
+
+				            <li><a href="/remotedesktopmanager/Support/Video">Tutorials</a></li>
+				            <li><a href="http://forum.devolutions.net">Forum</a></li>
+				            <li><a href="/remotedesktopmanager/Home/WhatsNew">What's New</a></li>
+				            <li><a href="/remotedesktopmanager/Home/ChangeHistory">Change History</a></li>
+			            </ul>
+		            </li>	
+                    <li>
+                        <a href="/remotedesktopmanager/Partners">Partners</a>
+			            <ul>
+				            <li><a href="/remotedesktopmanager/Partners/TechPartners">Information</a></li>
+				            <li><a href="/remotedesktopmanager/Partners/Affiliates">Affiliate Program</a></li>
+				            <li><a href="/remotedesktopmanager/Buy/Reseller">Reseller Program</a></li>
+				            <li><a href="/remotedesktopmanager/Buy/ResellerList">Find a Reseller</a></li>
+			            </ul>
+		            </li>
+		            <li>
+                        <a href="/remotedesktopmanager/Company/AboutUs">Company</a>
+			            <ul>
+				            <li><a href="/remotedesktopmanager/Company/AboutUs">About Us</a></li>
+				            <li><a href="/remotedesktopmanager/Company/ManagementTeam">Team</a></li>
+				            <li><a href="http://blog.devolutions.net/">Blog</a></li>
+				            <li><a href="/remotedesktopmanager/Company/PressReleases">Press Releases</a></li>
+				            <li><a href="/remotedesktopmanager/Company/Newsletters">Newsletters</a></li>
+				            <li><a href="/remotedesktopmanager/Company/Media">Media</a></li>
+			            </ul>
+                    </li>
+                    <li style="margin: 0; position: relative; width: 152px;top: -5px;">
+                        
+                        <script type="text/javascript" src="http://www.google.com/jsapi"> </script>
+                        <form autocomplete="off" action="/remotedesktopmanager/Search/Result" id="g-search-box">
+                            <div class="searchbox">
+                                <input class="sbox" type="text" name="q" id="q" size="31">
+                                <input class="sbut" src="/remotedesktopmanager/Images/search.jpg" type="image">
+                            </div>
+                        </form>
+                        <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"> </script>
+
+                        <a class="small facebook left" title="Find us on Facebook" href="http://facebook.remotedesktopmanager.com" target="_blank">Find us on Facebook</a> 
+                        <a class="small linkedin left" title="Follow us on LinkedIn" href="http://linkedin.remotedesktopmanager.com" target="_blank">Follow us on LinkedIn</a> 
+                        <a class="small twitter left" title="Find us on Twitter" href="http://twitter.remotedesktopmanager.com" target="_blank">Find us on Twitter</a>
+                        <a class="small youtube left" title="Find us on YouTube" href="http://youtube.remotedesktopmanager.com" target="_blank">Find us on YouTube</a>
+                        <a class="small rss left" title="Follow Remote Desktop Manager RSS feed" href="http://rss.remotedesktopmanager.com" target="_blank">Follow Remote Desktop Manager Server RSS feed</a>
+                        <a class="small blog left" title="Visit our Blog" href="http://blog.devolutions.net/" target="_blank">Visit our Blog</a>  
+                        <a class="small gplus left" title="Find us on Google+" href="http://plus.remotedesktopmanager.com" target="_blank">Find us on Google+</a>
+                        
+                        <a class="devolutions" href="http://devolutions.net/">Devolutions Inc.</a>
+                        <span class="copyright">© 2012</span>
+                        <ul class="termsprivacy">
+                            <li><a href="/remotedesktopmanager/Home/TermsOfUse">Terms of Use</a></li>
+                            <li><a href="/remotedesktopmanager/Home/PrivacyPolicy">Privacy Policy</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                </div>
         
 </div>
     </div>
+    
+    <script type="text/javascript">
+          
+        !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");
+
+        (function () {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        } (document, 'script', 'facebook-jssdk'));
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-251198-6']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_setDomainName', '.remotedesktopmanager.com']);
+        _gaq.push(['_setAllowHash', false]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+    <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+    <script src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true" type="text/javascript"></script>
+    <script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
 
 
 </body></html>
