@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621042134id_/http%3A//www.legitonlinejobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227101441id_/http%3A//www.legitonlinejobs.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Legit Online Jobs - Privacy Policy
+# Legit Online Jobs Privacy Policy
 
-[ ](http://secure.trust-guard.com/certificates/1004) 
+[](http://secure.trust-guard.com/certificates/1004) 
 
 Sharing Personal Information with Third Parties:  
 We will never sell or give away your personal information to third parties for purposes of building contact lists without your permission. We stand firmly against any transfer of personal information for reasons of building the contact lists of third parties.
@@ -13,7 +13,7 @@ We may use your IP address to help diagnose problems with our site or web server
 
 Cookies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do not use cookies on this site.
+A cookie is a small text file that is stored on a userӳ computer for record-keeping purposes. We do not use cookies on this site.
 
 Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. 
 
@@ -28,18 +28,18 @@ In order to use this Web site, you must first complete the registration form [an
 Legit Online Jobs is the sole owner of the information collected on Legitonlinejobs.com. Legit Online Jobs collects personally identifiable information from our users at several different points on our Web site.
 
 Newsletters  
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the ԃhoice and Opt-outԠsection.
 
 Service-related Announcements  
 We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
 
-Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. You will have to contact us to do so at  [ contact@legitonlinejobs.com](mailto:contact@legitonlinejobs.com). 
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. You will have to contact us to do so at contact at legitonlinejobs.com. 
 
    
 Customer Service  
 Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at  [ contact@legitonlinejobs.com](mailto:contact@legitonlinejobs.com). 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at contact at legitonlinejobs.com. 
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
@@ -54,7 +54,7 @@ We use this information for billing purposes and to fill your orders.
 
 Access to Personally Identifiable Information 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page or by emailing our Customer Support at  [contact@legitonlinejobs.com](mailto:contact@legitonlinejobs.com). 
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by making the change on our member information page or by emailing our Customer Support at contact @ legitonlinejobs.com. 
 
 Links to Other Sites: 
 
@@ -74,7 +74,7 @@ This web site has security measures in place to protect against loss, misuse and
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you can send email us at  [ contact@legitonlinejobs.com](mailto:contact@legitonlinejobs.com). 
+If you have any questions about security on our Web site, you can send email us at contact at legitonlinejobs.com. 
 
 Changes in this Privacy Statement 
 
@@ -89,14 +89,16 @@ If you have any questions about this privacy statement, the practices of this we
 
 Mailing Address:
 
-Legit Online Jobs, LLC    
-200 South Biscayne Boulevard  
-Suite 2790 ,    
-Miami FL 33131  
-United States
+Legit Online Jobs, LLC 
+
+2000 Ponce de Leon Blvd, 6th Floor 
+
+Miami, FL, 33143 
+
+United States 
 
 Policy Changes: 
 
 Legit Online Jobs reserves the right to change this privacy policy at any time. 
 
-This Privacy Policy was last revised on March 14, 2012.
+This Privacy Policy was last revised on August 17, 2012.
