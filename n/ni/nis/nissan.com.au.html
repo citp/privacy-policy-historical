@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nissan.com.au privacy policy that was archived on 2010-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100525171317id_/http%3A//www.nissan.com.au/webpages/information/Privacy.html%23/privacy/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nissan.com.au privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227112850id_/http%3A//www.nissan.com.au/webpages/information/Privacy.html%23/privacy/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy</title>
@@ -15,6 +15,9 @@
 <meta name="robots" content="FOLLOW,INDEX">
 <meta name="robot" content="ALL">
 <meta name="rating" content="General">
+<script type="text/javascript">
+					var rootFolder = "../../";
+				</script>
 <link rel="stylesheet" type="text/css" href="../../webpages/assets/css/common.css">
 <link rel="stylesheet" type="text/css" href="../../webpages/assets/css/default.css">
 <link rel="stylesheet" type="text/css" href="../../webpages/assets/css/page.css">
@@ -23,262 +26,92 @@
 <script type="text/javascript" src="../../webpages/js/flashText/sifr-config.js">  </script>
 <script type="text/javascript" src="../../webpages/js/swfobject.js">  </script>
 <script type="text/javascript" src="../../webpages/js/swfaddress.js">  </script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js">  </script>
+<script type="text/javascript" src="../../webpages/js/brandingFunctions.js">  </script>
+<script type="text/javascript" src="../../webpages/js/flashVersionDetect.js">  </script>
 <script type="text/javascript">
+					var rootFolder = "../../";
+				
+					$(function() {
+						var hasFlash = false;
+						try {
+							var fo = new ActiveXObject('ShockwaveFlash.ShockwaveFlash');
+							if(fo) hasFlash = true;
+						}catch(e){
+							if(navigator.mimeTypes ["application/x-shockwave-flash"] != undefined) hasFlash = true;
+						}
+						if (hasFlash){
+																
+							var menuHeight=77;	
+							setFlashSize(menuHeight);
+							
+							
+							var dynamicDestination = getTieredNavLocation("/webpages/support_templates/tiered_navigation/Footer_tiered_navigation.xml");
+							//var flashvars = {xml:'/webpages/support_templates/tiered_navigation/Footer_tiered_navigation.xml', path:'../../'};
+							var flashvars = {xml:dynamicDestination, path:'../../'};
+							var params = {wmode:'transparent'};
+							var attributes = {id:'leftnav', name:'leftnav'};
+							swfobject.embedSWF('../../webpages/flash/left_nav.swf', "flashSideHolder", "214", "100%", "9.0.0", '../../webpages/flash/expressInstall.swf', flashvars, params, attributes);
+												
+							var flashvars = {xml:'webpages/xml/navigation.xml', path:'../../'};
+							var params = {wmode:'transparent'};
+							var attributes = {id:'nissan', name:'nissan'};
+							swfobject.embedSWF('../../webpages/flash/menu.swf', 'flashHolder', '965', '100%', '9.0.0', '../../webpages/flash/expressInstall.swf', flashvars, params, attributes);
+						
+							
+							var flashvars = {xml:'/webpages/support_templates/adtiles/marketing/About_Nissan_adtiles.xml', path:'../../'};
+							var params = {wmode:'transparent'};
+							var attributes = {id:'nissanbottom', name:'nissanbottom'};
+							swfobject.embedSWF('../../webpages/flash/adtiles.swf', "flashBottomHolder", "717", "80", "9.0.0", '../../webpages/flash/expressInstall.swf', flashvars, params, attributes);
+		
 					
-					var menuHeight=77;							
+					}else {
+						$(this).addContent("/webpages/support_templates/tiered_navigation/Footer_tiered_navigation.xml","", "#flashSideHolder", "#noFlashMenu");
+						$(this).addContent("/webpages/support_templates/adtiles/marketing/About_Nissan_adtiles.xml","_preview","#noFlashAdTiles","#noFlashTiles");						
+												
+					}										
 					
-					var flashvars = {xml:'webpages/xml/navigation.xml', path:'../../'};
-					var params = {wmode:'transparent'};
-					var attributes = {id:'nissan', name:'nissan'};
-					swfobject.embedSWF('../../webpages/flash/menu.swf', 'flashHolder', '965', '100%', '9.0.0', '../../webpages/flash/expressInstall.swf', flashvars, params, attributes);
+				
+				$.fn.addContent = function(linkName, prefixReplace, PageDiv, PatternDiv){
+					var pageHTML = linkName.replace(".xml", prefixReplace+".html");
+					var LastIndx = pageHTML.lastIndexOf("/");
+					pageHTML = "../../"+pageHTML.substr(1,LastIndx)+"pda"+pageHTML.substr(LastIndx);
+					$(PageDiv).load(pageHTML + " " + PatternDiv);
+				}
+				
+				// Check for branding in the query string and apply different header text if the branding has been applied
+					$(document).ready(function(){
+						
+						applyBrandedHeader("PRIVACY POLICY");		
+						
+						// inject style into contentBack if we are dealing with a background image
+						var imageAlignment = "horizontal";
+						if(imageAlignment === "background"){
+							var image = "/webpages/resources/information/generic/dualis_header.jpg";
+							var $contentBack = $('#contentBack');
+							$contentBack.css('background',  "url(" + image + ") no-repeat center top");
+						}
 					
+					});	
 					
-					var flashvars = {xml:'/webpages/support_templates/tiered_navigation/Footer_tiered_navigation.xml', path:'../../'};
-					var params = {wmode:'transparent'};
-					var attributes = {id:'leftnav', name:'leftnav'};
-					swfobject.embedSWF('../../webpages/flash/left_nav.swf', "flashSideHolder", "214", "100%", "9.0.0", '../../webpages/flash/expressInstall.swf', flashvars, params, attributes);
-			
-					
-					var flashvars = {xml:'/webpages/support_templates/adtiles/marketing/About_Nissan_adtiles.xml', path:'../../'};
-					var params = {wmode:'transparent'};
-					var attributes = {id:'nissanbottom', name:'nissanbottom'};
-					swfobject.embedSWF('../../webpages/flash/adtiles.swf', "flashBottomHolder", "717", "80", "9.0.0", '../../webpages/flash/expressInstall.swf', flashvars, params, attributes);
-					
+				});
+				
+				</script>
+<script type="text/javascript">
+					function addRandom(){
+						 
+						
+					}
 				</script>
 </head>
-<body onload="javascript:setFlashSize(menuHeight);" onpageenter="javascript:setFlashSize(menuHeight);">
+<body onload="javascript:addRandom();" onpageenter="javascript:addRandom();">
 <div id="container">
 <div id="flashNav">
 <div id="flashMenu">
 <div id="flashContent">
 <div id="flashHolder">
 <div id="noFlashContent">
-<p xmlns:na="http://www.nissan.com.au/alfresco">
-<strong>Site Navigation:</strong>
-</p><ul id="navigation">
-<li>
-<a href="/webpages/all_vehicles/all_vehicles.html">Showroom</a>
-<ul>
-<li>
-<a href="/webpages/all_vehicles/all_vehicles.html">ALL VEHICLES</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/about/Electric_vehicles.html">LEAF ELECTRIC CAR</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/micra.html">MICRA</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/Tiida_model.html">TIIDA</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/Maxima_model.html">MAXIMA</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/370Z_model.html">370Z COUPE</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/370Z_model.html">370Z ROADSTER</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/GT-R_model.html">GT-R</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/DUALIS_model.html">DUALIS HATCH</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/DUALIS_plus2_model.html"> DUALIS+2 (Coming Soon)</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/X-TRAIL.html">X-TRAIL</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/Murano_model.html">MURANO</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/PATHFINDER_model.html">PATHFINDER</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/Patrol_model.html">PATROL</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/Patrol_Cab_Chassis_model.html">PATROL CAB CHASSIS</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/Navara_model.html">NAVARA</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/models/Navara_D22_model.html">NAVARA D22</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/webpages/buying/Buying.html">Buying</a>
-<ul>
-<li>
-<a href="/webpages/accessories/Why_Choose_Genuine.html">ACCESSORIES</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/finance/finance-landing.html">NISSAN FINANCE</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/offers/nissan_offers.html">DRIVING FORCE</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/webpages/owning/Owning_Home.html">Owning</a>
-<ul>
-<li>
-<a href="/webpages/owning/Express_Service.html#/express-service/service-to-go">EXPRESS SERVICE</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/owning/Service_Charter.html#/service-charter">SERVICE CHARTER</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/owning/Service_Nissan_Genuine_Parts.html#/genuine-parts/genuine-parts-info">GENUINE PARTS</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/owning/Service_Vehicle-Care.html#/vehicle-care">VEHICLE CARE</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/owning/Service_Maintenance-Guide-Information.html#/maintenance-guide/maintenance-guide-info">MAINTENANCE GUIDE</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/owning/Service_Standard-Warranty-Information.html#/nissan-warranty/warranty-information">NISSAN WARRANTY</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/owning/Service_Nissan-Genuine-Extended-Warranty.html#/genuine-extended-warranty">GENUINE EXTENDED WARRANTY</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/owning/Service_Frequenty-Asked-Questions.html#/frequently-asked-questions">FREQUENTLY ASKED QUESTIONS</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/about/Contact_Us.html">CONTACT YOUR SERVICE TEAM</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/finance/finance-landing.html">NISSAN FINANCE</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/webpages/about/About_Nissan_Landing_Page.html">About Nissan</a>
-<ul>
-<li>
-<a href="/webpages/about/Electric_vehicles.html">ELECTRIC CARS</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/about/Press_releases.html">PRESS RELEASES</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/about/About_Shift_.html">ABOUT SHIFT_</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/about/Corporate_Citizenship.html">CORPORATE CITIZENSHIP</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/about/Future_concepts.html">FUTURE CONCEPTS</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="http://www.nissan-sportsadventure.com.au">NISSAN SPORTS ADVENTURE</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/about/Motorsport.html">NISSAN MOTORSPORTS</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="https://sjobs.brassring.com/1033/ASP/TG/cim_home.asp?partnerid=25024&amp;siteid=5154">CAREER OPPORTUNITIES</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/about/Platinum_Dealers_expandable.html">PLATINUM DEALERS</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/owning/Express_Service_Dealers.html#/express-service/locate-an-express-dealer">EXPRESS SERVICE DEALERS</a>
-</li>
-</ul>
-<ul>
-<li>
-<a href="/webpages/about/Contact_Us.html">CONTACT US</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/webpages/microsite/shift.html">shift</a>
-</li>
-</ul>
-<p></p>
-  </div> </div>
+<!-- Placeholder comment to fix IE9 but, DO NOT DELETE -->  </div> </div>
 </div>
 </div>
 </div>
@@ -302,12 +135,12 @@
 <table cellspacing="10" cellpadding="0">
 <tbody><tr>
 <td valign="top" colspan="2">
-<img src="../../webpages/resources/information/generic/generic_4.jpg" alt="Image" title="Image" border="0"> </td>
+<img src="../../webpages/resources/information/generic/dualis_header.jpg" alt="Image" title="Image" border="0"> </td>
 </tr>
 <tr>
 <td valign="top">
 </td><td valign="top">
-<p></p><p> &nbsp; </p> This page contains information about Nissan Australia's Privacy Policy (for Nissan Motor Co. (Australia) Pty Ltd, ABN 54 004 663 156 ("Nissan") and Nissan Financial Services Australia Pty Ltd ABN 70 130 046 794 ("NFS") which is a wholly owned subsidiary of Nissan). The page lets you know what information of yours we hold, what we do with it, who we will disclose it to and how you can access the information we hold about you. You can also find out here how to change inaccurate personal information and how to opt out of receiving communications from us. <span class="InformationText"> <p> <strong><u>Introduction</u></strong> <br> Nissan and NFS respect and uphold your rights under the National Privacy Principles contained in the Privacy Act 1988 (Cth) ("Privacy Act"). The National Privacy Principles apply to us from their introduction in late 2001. </p> <p> This policy describes how we manage any personal information we have about you. <br> </p> <p> <strong><u>What personal information about you do Nissan and NFS hold?</u></strong><br> Nissan and NFS may hold the following information about you: </p> <ul> <li> <div> name(s), address, email address, telephone number(s); </div> </li> <li>date of birth; </li> <li>vehicle purchase date; </li> <li>vehicle details; </li> <li>name of selling dealer; </li> <li>any additional information you provide, such as when you contact our Customer Service Centre, log in to our website, or call us for roadside assistance; </li> <li>any information you may provide to us through customer surveys; </li> <li>any other personal information which Nissan or NFS is required to collect for identification verification purposes; </li> <li>any additional information provided in a consumer or commercial credit application you make. </li> </ul> <p> <strong><u>How </u></strong><strong><u>do Nissan and NFS collect your personal information?</u></strong><br> Nissan and NFS will generally collect your personal information directly from you and through its Nissan Dealers to whom you have provided your personal information. Nissan and NFS may also collect personal information from our website, from other directly related companies and from our service providers (such as Roadside Assist). </p> <p> <strong><u>What do Nissan and NFS do with your personal information (apart from your consumer credit information)?</u></strong><br> We use your personal information for the purposes of - </p> <ul> <li>fulfilling our ongoing obligations (including warranty, recall, and roadside assistance) to you as the owner/driver of a vehicle we have imported and distributed; </li> <li>responding to any inquiries or comments that you submit to us; </li> <li>deciding whether to offer you additional credit or to renew credit; </li> <li>any other purpose you have consented to; or </li> <li>any use which is required or authorised by law. </li> </ul> <p> We may also use your personal information for customer service requirements, direct mail, marketing communications (via telephone, mobile, fax or email), market research, and product development purposes. </p> <p> NFS will only use your consumer credit information: </p> <ol style="list-style-type: lower-alpha"> <li style="list-style-image: none; list-style-type: lower-alpha">to assess your application for consumer credit; </li> <li style="list-style-image: none; list-style-type: lower-alpha">for purposes directly related to the internal management of your loan or the provision of credit; </li> <li style="list-style-image: none; list-style-type: lower-alpha">in accordance with the consents and authorities you give in your consumer credit application. </li> </ol> <p> Your commercial credit information will be used in the same way as your other personal information except that it will not be used to access an application by you for consumer credit without prior consent.<br> <br> </p> <p> <strong><u>Who will Nissan disclose your personal information to?</u></strong><br> Nissan and NFS may disclose your personal information (other than your consumer credit information): </p> <ul> <li>to each other or related companies;<br> </li> <li>to the advisors, consultants and contractors we ordinarily engage for the above purposes (such as mailing houses, insurers, printers, lawyers, accountants and other service providers);<br> </li> <li>to one or more of our dealers on condition that they use it for the same purposes as set out above and only in connection with the Nissan dealership franchise; <br> </li> <li>any other person or entity to whom you have consented to Nissan and/or NFS disclosing your personal information;<br> </li> <li>any disclosure which is required or authorised by law, including to AUSTRAC in respect of any suspicious or threshold transactions or activities; and<br> </li> <li>if you have applied for credit from NFS: <ol style="list-style-type: lower-alpha"> <li style="list-style-image: none; list-style-type: lower-alpha">to a credit reporting agency for the purpose of obtaining a credit report about you and/or to allow the credit reporting agency to maintain a credit information file containing information about you; </li> <li style="list-style-image: none; list-style-type: lower-alpha">to a debt collection agency; </li> <li style="list-style-image: none; list-style-type: lower-alpha">with your consent, to other credit providers for the purpose of assessing your application for credit; or </li> <li style="list-style-image: none; list-style-type: lower-alpha">with your consent, to guarantors if a credit arrangement is guaranteed. </li> </ol> </li> </ul> <p> NFS will only disclose your consumer credit report information to outside persons as permitted by the Privacy Act. Your consumer credit report information will not be disclosed to our Dealers. Dealers will only be advised of whether or not your application for credit has been successful. </p> <p> Your credit information will not be disclosed to a credit reporting agency for the purposes of assessing an application by you for consumer credit without your prior consent. </p> <p> Nissan and NFS will take reasonable steps to protect the personal information we hold from misuse and loss and from unauthorised access, modification or disclosure. </p> <p> <strong><u>Openness</u></strong> <br> You may request access to personal information (including your credit information) we hold about you by contacting the Customer Service Delivery Manager at the address below. Where we hold information that you are entitled to access, we will endeavour to provide you with a suitable range of choices (including direction to a credit reporting agency) as to how access is provided (eg, emailing or mailing it to you). A fee may be charged to cover the cost of retrieval. </p> <p> If at any time you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request amendment of it and we will either amend the information or make a record of your comment, as we think appropriate. <br> <br> </p> <p> <strong><u>Opting Out</u></strong> <br> At any time you may <a href="/PublicWeb/RegisterInterest/form_unsubscribe.jspx" target="_blank">opt out</a> of receiving any communications from us (other than as required for our primary purpose or by law). Unless you opt out, your consent to receive communications from us and to the handling of your personal information as detailed above, will continue. </p> <p> To opt out of receiving any further communication from Nissan and NFS, simply complete the <a href="/PublicWeb/RegisterInterest/form_unsubscribe.jspx" target="_blank">form</a> to the left headed "OPTING OUT" and send to Nissan by clicking on the submit button. </p> <p> <strong><u>Questions, complaints and opting back in</u><br> </strong>Any questions about this policy or any complaint regarding treatment of your privacy by Nissan or NFS or any request to opt back into receiving communications from Nissan and NFS after you have opted out should be made in writing to the address below. </p> <blockquote> <blockquote> <p> <strong>Customer Service Delivery Manager<br> Nissan Motor Co (Australia) Pty Ltd<br> Locked Bag 1450<br> DANDENONG SOUTH VIC 3164<br> Phone: (03) 9797 4111<br> Fax: (03) 9797 4400</strong> </p> </blockquote> </blockquote> <p> <strong><u>Nissan Website</u></strong> <br> In general you can visit the Nissan website without telling us who you are. The amount of information that you provide to Nissan will depend on the range and number of services that you choose to use. Particular sections of the Nissan website may require you to provide Nissan with personal information, including your name and email address. Personal information will only be requested if it is necessary to provide a service to you or if it is necessary by law to collect the information. </p> <p> We do not currently use cookies on our website to collect personal information about you. </p> <p> By using the Nissan website you agree that the internet is inherently insecure and that accordingly we can only use our best endeavours to secure your personal information and cannot provide any definitive assurance regarding security of personal information. Other than liability that cannot lawfully be excluded, Nissan and NFS will not be liable in any way in relation to any breach of security or any unintended loss or disclosure of that information. <br> <br> </p> <p> <strong><u>Miscellaneous</u></strong><br> In this policy "personal information" has the same meaning as under the Privacy Act. </p> <p> This policy is effective from 1 October 2008. We may change this policy from time to time. Although we intend to observe this Privacy Policy at all times, it is not legally binding on Nissan and NFS in any way. From time to time we may regard it as necessary or desirable to act outside the policy. Nissan and NFS may do so, subject only to any other applicable contractual rights you have and any statutory rights you have under the Privacy Act or other applicable legislation. </p> </span> <p> &nbsp; </p> <p> &nbsp; </p><p></p>
+<p></p><p>&nbsp;</p>This page contains information about Nissan Australia's Privacy Policy (for Nissan Motor Co. (Australia) Pty Ltd, ABN 54 004 663 156 ("Nissan") and Nissan Financial Services Australia Pty Ltd ABN 70 130 046 794 Australian Credit Licence Number 391464 ("NFS") which is a wholly owned subsidiary of Nissan). The page lets you know what information of yours we hold, what we do with it, who we will disclose it to and how you can access the information we hold about you. You can also find out here how to change inaccurate personal information and how to opt out of receiving communications from us. <span class="InformationText"><p><strong><span style="text-decoration: underline;">Introduction</span></strong> <br> Nissan and NFS respect and uphold your rights under the National Privacy Principles contained in the Privacy Act 1988 (Cth) ("Privacy Act"). The National Privacy Principles apply to us from their introduction in late 2001.</p><p>This policy describes how we manage any personal information we have about you.</p><p><strong><span style="text-decoration: underline;">What personal information about you do Nissan and NFS hold?</span></strong><br> Nissan and NFS may hold the following information about you:</p><ul><li><div>name(s), address, email address, telephone number(s);</div></li><li>date of birth; </li><li>vehicle purchase date; </li><li>vehicle details; </li><li>name of selling dealer; </li><li>any additional information you provide, such as when you contact our Customer Service Centre, log in to our website, or call us for roadside assistance; </li><li>any information you may provide to us through customer surveys; </li><li>any other personal information which Nissan or NFS is required to collect for identification verification purposes; </li><li>any additional information provided in a consumer or commercial credit application you make. </li></ul><p><strong><span style="text-decoration: underline;">How </span></strong><strong><span style="text-decoration: underline;">do Nissan and NFS collect your personal information?</span></strong><br> Nissan and NFS will generally collect your personal information directly from you and through its Nissan Dealers to whom you have provided your personal information. Nissan and NFS may also collect personal information from our website, from other directly related companies and from our service providers (such as Roadside Assist).</p><p><strong><span style="text-decoration: underline;">What do Nissan and NFS do with your personal information (apart from your consumer credit information)?</span></strong><br> We use your personal information for the purposes of -</p><ul><li>fulfilling our ongoing obligations (including warranty, recall, and roadside assistance) to you as the owner/driver of a vehicle we have imported and distributed; </li><li>responding to any inquiries or comments that you submit to us; </li><li>deciding whether to offer you additional credit or to renew credit; </li><li>any other purpose you have consented to; or </li><li>any use which is required or authorised by law. </li></ul><p>We may also use your personal information for customer service requirements, direct mail, marketing communications (via telephone, mobile, fax, online or email), market research, and product development purposes.</p><p>NFS will only use your consumer credit information:</p><ol style="list-style-type: lower-alpha"><li style="list-style-image: none; list-style-type: lower-alpha">to assess your application for consumer credit; </li><li style="list-style-image: none; list-style-type: lower-alpha">for purposes directly related to the internal management of your loan or the provision of credit; </li><li style="list-style-image: none; list-style-type: lower-alpha">in accordance with the consents and authorities you give in your consumer credit application. </li></ol><p>Your commercial credit information will be used in the same way as your other personal information except that it will not be used to access an application by you for consumer credit without prior consent.</p><p><strong><span style="text-decoration: underline;">Who will Nissan disclose your personal information to?</span></strong><br> Nissan and NFS may disclose your personal information (other than your consumer credit information):</p><ul><li>to each other or related companies; </li><li>to the advisors, consultants and contractors we ordinarily engage for the above purposes (such as mailing houses, insurers, printers, lawyers, accountants and other service providers); </li><li>to one or more of our dealers on condition that they use it for the same purposes as set out above and only in connection with the Nissan dealership franchise; </li><li>any other person or entity to whom you have consented to Nissan and/or NFS disclosing your personal information; </li><li>any disclosure which is required or authorised by law, including to AUSTRAC in respect of any suspicious or threshold transactions or activities; and </li><li>if you have applied for credit from NFS: <ol style="list-style-type: lower-alpha"><li style="list-style-image: none; list-style-type: lower-alpha">to a credit reporting agency for the purpose of obtaining a credit report about you and/or to allow the credit reporting agency to maintain a credit information file containing information about you; </li><li style="list-style-image: none; list-style-type: lower-alpha">to a debt collection agency; </li><li style="list-style-image: none; list-style-type: lower-alpha">with your consent, to other credit providers for the purpose of assessing your application for credit; or </li><li style="list-style-image: none; list-style-type: lower-alpha">with your consent, to guarantors if a credit arrangement is guaranteed. </li></ol> </li></ul><p>NFS will only disclose your consumer credit report information to outside persons as permitted by the Privacy Act. Your consumer credit report information will not be disclosed to our Dealers. Dealers will only be advised of whether or not your application for credit has been successful.</p><p>Your credit information will not be disclosed to a credit reporting agency for the purposes of assessing an application by you for consumer credit without your prior consent.</p><p>Nissan and NFS will take reasonable steps to protect the personal information we hold from misuse and loss and from unauthorised access, modification or disclosure.</p><p><strong><span style="text-decoration: underline;">Openness</span></strong> <br> You may request access to personal information (including your credit information) we hold about you by contacting the Customer Service Delivery Manager at the address below. Where we hold information that you are entitled to access, we will endeavour to provide you with a suitable range of choices (including direction to a credit reporting agency) as to how access is provided (eg, emailing or mailing it to you). A fee may be charged to cover the cost of retrieval.</p><p>If at any time you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request amendment of it and we will either amend the information or make a record of your comment, as we think appropriate.</p><p><strong><span style="text-decoration: underline;">Opting Out</span></strong> <br> At any time you may <a href="/PublicWeb/RegisterInterest/form_unsubscribe.jspx" target="_blank">opt out</a> of receiving any communications from us (other than as required for our primary purpose or by law). Unless you opt out, your consent to receive communications from us and to the handling of your personal information as detailed above, will continue.</p><p>To opt out of receiving any further communication from Nissan and NFS, simply complete the <a href="/PublicWeb/RegisterInterest/form_unsubscribe.jspx" target="_blank">form</a> to the left headed "OPTING OUT" and send to Nissan by clicking on the submit button.</p><p><strong><span style="text-decoration: underline;">Questions, complaints and opting back in</span><br> </strong>Any questions about this policy or any complaint regarding treatment of your privacy by Nissan or NFS or any request to opt back into receiving communications from Nissan and NFS after you have opted out should be made in writing to the address below.</p><blockquote><blockquote><p><strong>Customer Service Delivery Manager<br> Nissan Motor Co (Australia) Pty Ltd<br> Locked Bag 1450<br> DANDENONG SOUTH VIC 3164<br> Phone: (03) 9797 4111<br> Fax: (03) 9797 4400</strong></p></blockquote></blockquote><p><strong><span style="text-decoration: underline;">Nissan Website</span></strong> <br> In general you can visit the Nissan website without telling us who you are. The amount of information that you provide to Nissan will depend on the range and number of services that you choose to use. Particular sections of the Nissan website may require you to provide Nissan with personal information, including your name and email address. Personal information will only be requested if it is necessary to provide a service to you or if it is necessary by law to collect the information.</p><p>Nissan Australia uses Google advertising programs that place cookies on your computer to collect information about your browsing history (including on external websites). This information, which does not identify you personally, is collected in order to improve your online experience by customising the advertising you see to your interests (including the display of more relevant ads on external websites). You can opt out of these programs at any time by clicking <a href="http://www.google.com/privacy_ads.html" target="_blank">here</a>.</p><p>By using the Nissan website you agree that the internet is inherently insecure and that accordingly we can only use our best endeavours to secure your personal information and cannot provide any definitive assurance regarding security of personal information. Other than liability that cannot lawfully be excluded, Nissan and NFS will not be liable in any way in relation to any breach of security or any unintended loss or disclosure of that information.</p><p><strong><span style="text-decoration: underline;">Miscellaneous</span></strong><br> In this policy "personal information" has the same meaning as under the Privacy Act.</p><p>This policy is effective from 1 October 2008. We may change this policy from time to time. Although we intend to observe this Privacy Policy at all times, it is not legally binding on Nissan and NFS in any way. From time to time we may regard it as necessary or desirable to act outside the policy. Nissan and NFS may do so, subject only to any other applicable contractual rights you have and any statutory rights you have under the Privacy Act or other applicable legislation.</p></span><p>&nbsp;</p><p>&nbsp;</p><p></p>
 </td>
 </tr>
 </tbody></table>
@@ -325,7 +158,94 @@
 <div class="clear">  </div>
 </div>
 <div id="footerBlank">
-<ul xmlns:na="http://www.nissan.com.au/alfresco" id="metaLinks">
+<div id="noFlashAdTiles">
+<table xmlns:na="http://www.nissan.com.au/alfresco" width="965" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td>
+<h6>
+<a href="/webpages/categories/small-cars.html">Small Cars</a>
+</h6>
+<ul>
+<li>
+<a href="/webpages/categories/small-car-prices.html">Small Car Prices</a>
+</li>
+<li>
+<a href="/webpages/categories/small-car-reviews.html">Small Car Reviews</a>
+</li>
+</ul>
+</td><td>
+<h6>
+<a href="/webpages/categories/4x4.html">4 x 4</a>
+</h6>
+<ul>
+<li>
+<a href="/webpages/categories/4x4-prices.html">4x4 Prices</a>
+</li>
+<li>
+<a href="/webpages/categories/4x4-reviews.html">4x4 Reviews</a>
+</li>
+</ul>
+</td><td>
+<h6>
+<a href="/webpages/categories/family.html">Family Cars</a>
+</h6>
+<ul>
+<li>
+<a href="/webpages/categories/family-car-prices.html">Family Car Prices</a>
+</li>
+<li>
+<a href="/webpages/categories/family-car-reviews.html">Family Car Reviews</a>
+</li>
+</ul>
+</td><td>
+<h6>
+<a href="/webpages/categories/SUV.html">SUV</a>
+</h6>
+<ul>
+<li>
+<a href="/webpages/categories/suv-prices.html">SUV Prices</a>
+</li>
+<li>
+<a href="/webpages/categories/suv-reviews.html">SUV Reviews</a>
+</li>
+</ul>
+</td><td>
+<h6>
+<a href="/webpages/categories/Sports.html">Sports Cars</a>
+</h6>
+<ul>
+<li>
+<a href="/webpages/categories/sports-car-prices.html">Sports Car Prices</a>
+</li>
+<li>
+<a href="/webpages/categories/sports-car-reviews.html">Sports Car Reviews</a>
+</li>
+</ul>
+</td><td>
+<h6>
+<a href="/webpages/categories/utes.html">Utes</a>
+</h6>
+<ul>
+<li>
+<a href="/webpages/categories/ute-prices.html">Ute Prices</a>
+</li>
+<li>
+<a href="/webpages/categories/ute-reviews.html">Ute Reviews</a>
+</li>
+</ul>
+</td><td>
+<h6>
+<a href="/webpages/categories/Electric-Vehicles.html">Electric Cars</a>
+</h6>
+<ul>
+<li>
+<a href="/webpages/categories/Electric-Vehicle-reviews.html">Electric Car Reviews</a>
+</li>
+</ul>
+</td>
+</tr>
+</tbody></table><div id="footerBtm">
+<ul>
 <li>
 <a href="/index.html">Home</a>
 </li>
@@ -344,29 +264,24 @@
 <li class="last-child">
 <a href="/webpages/about/sitemap.html">Sitemap</a>
 </li>
-</ul><ul id="metaLinks-left">
+</ul>
+<div id="social_media">
+<ul>
 <li>
-<a href="/webpages/categories/small-cars.html">Small Cars</a>
-</li>
-<li>
-<a href="/webpages/categories/4X4.html">4 X 4</a>
-</li>
-<li>
-<a href="/webpages/categories/Sports.html">Sports Cars</a>
+<a href="http://www.facebook.com/nissanaustralia" target="_blank" alt="Nissan Australia Facebook Icon"><img src="/webpages/resources/social/facebook.png"></a>
 </li>
 <li>
-<a href="/webpages/categories/family.html">Family Cars</a>
+<a href="http://twitter.com/#!/nissan_aus" target="_blank" alt="Nissan Australia Twitter Icon"><img src="/webpages/resources/social/twitter-2.png"></a>
 </li>
 <li>
-<a href="/webpages/categories/crossover.html">Crossovers</a>
+<a href="http://www.youtube.com/nissanaustralia" target="_blank" alt="Nissan Australia Youtube Icon"><img src="/webpages/resources/social/youtube.png"></a>
 </li>
 <li>
-<a href="/webpages/categories/SUV.html">SUV</a>
+<a href="https://plus.google.com/118029220926263778553" target="_blank" alt="Nissan Australia Google+"><img src="/webpages/resources/social/google-plus.png"></a>
 </li>
-<li class="last-child">
-<a href="/webpages/categories/Utes.html">Utes</a>
-</li>
-</ul><script src="/webpages/js/sophus3/logging.js" language="JavaScript"></script><script language="JavaScript" type="text/javascript" src="/webpages/js/sophus3/logging-code.js"></script>
+</ul>
+</div>
+</div><script src="/webpages/js/globalFunctions.js" language="javascript"></script>
 
 		<script type="text/javascript">
 			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");	
@@ -382,4 +297,4 @@
 </div>
 
 
-</body></html>
+</div></body></html>
