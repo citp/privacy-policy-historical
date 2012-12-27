@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618124826id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227221018id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
 
 # About Us - Privacy Policy - Main | BabyCenter
 
 [About BabyCenter](https://web.archive.org/help-about-company) | [Advisory Board](https://web.archive.org/prkit-advisoryboard) | [Awards](https://web.archive.org/prkit-awards) | [Contact Us](https://web.archive.org/help-contactus) | [In the News](https://web.archive.org/in-the-news) | [Jobs  
 ](https://web.archive.org/help-aboutus-jobs)[Management Team](https://web.archive.org/management-team) | [Mission Statement](https://web.archive.org/babycenter-mission-statement) | [Press Releases](https://web.archive.org/prkit-pressreleases) | [Privacy Policy](https://web.archive.org/help-privacy)  
 [Terms of Use](https://web.archive.org/help-aboutus-terms) | [Terms of Use - Supplemental](https://web.archive.org/babycenter-classes-terms-of-use)
+
+_Last Updated on June 28, 2012_
 
 #### Introduction and Scope
 
@@ -22,9 +24,13 @@ We also track information about how our Site is used by you through cookies, Int
 
 To accomplish some of the foregoing data processing, we utilize independent contractors. Click [here](https://web.archive.org/help-privacy-3) to read about examples of some of our contractors and how we work with them.
 
-In addition, we participate in ad networks. The ad networks that we participate in collect anonymous information using cookies to target some of the advertising you see on the Sites and on other third party websites. Click [here](https://web.archive.org/help-privacy-4) to learn more about the ad networks in which BabyCenter participates and their advertising and privacy policies, including how to decline participation in such networks.
+#### Ad Choices
 
-You can set your browser to notify you when a cookie is sent or to refuse or delete cookies altogether, but certain features of the Sites might not work without certain cookies.
+The majority of advertisements on our Sites are served to you on our behalf by our third party ad serving contractor Doubleclick. However, we do allow third parties (such as advertisers, ad agencies, and ad networks) to serve some of the advertisements on our Sites. Please remember that BabyCenter does not have access to, or control over the placement of cookies or other tracking mechanisms that these third parties may use or the information these third parties may collect. Such third parties may use cookies which have been placed on your computer to gather information about you and understand the types of pages visited by you and content that you view on our Sites and other websites. These third parties may associate your browser with relevant interest categories and use these categories to show you interest-based advertisements. For example, if you frequently visit travel websites, they may direct to you ads related to travel.
+
+You do have choices about the collection of information by third parties on our web site. Many, but not all, third parties engaged in interest based advertising participate in an industry wide self regulatory program which has developed consumer-friendly standards for interest based advertising. You can opt out of interest based advertising offered by participating third parties by visiting [http://www.aboutads.info](http://www.aboutads.info/). With respect to third parties that do not participate in this program, they may or may not offer a mechanism for opting out of interest based advertising.
+
+In addition to the foregoing, you can set your browser to notify you when a cookie is sent or to refuse or delete cookies altogether, but certain features of the Sites might not work without certain cookies.
 
 If you have actively sent us your name or other personally identifiable information, we may combine such information with tracked information for the purposes set forth below.
 
@@ -63,7 +69,7 @@ You may modify your communication preferences and/or opt-out from specific commu
 
 #### Changes to This Privacy Policy
 
-This Privacy Policy was last updated on January 19, 2009. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Sites. Please check back periodically, and especially before you provide any personally identifiable information to us.
+This Privacy Policy was last updated on June 28, 2012. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Sites. Please check back periodically, and especially before you provide any personally identifiable information to us.
 
 #### Terms of Use
 
