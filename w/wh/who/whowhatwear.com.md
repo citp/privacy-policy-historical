@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whowhatwear.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626114205id_/http%3A//www.whowhatwear.com/website/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whowhatwear.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227110222id_/http%3A//www.whowhatwear.com/website/privacy.php) for the most accurate reproduction.*
 
 # WhoWhatWear: Celebrity Style by Katherine Power and Hillary Kerr
 
@@ -6,7 +6,7 @@
 
 **1\. INTRODUCTION**
 
-1.1. PURPOSE OF POLICY. Who What Wear LLC ("us," "we," or "Company") is committed to respecting the privacy rights of its customers, visitors, and other users of our website (the "Site") and related subscription service (the "Service"). We created this Privacy Policy (this "Policy") to give you confidence as you visit and use the Site or otherwise subscribe to the Service, and to demonstrate our commitment to fair information practices and the protection of privacy. Except as otherwise expressly provided, this Policy does not apply to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy. 
+1.1. PURPOSE OF POLICY. Clique Media, Inc. (previously known as Who What Wear LLC) ("us," "we," or "Company") is committed to respecting the privacy rights of its customers, visitors, and other users of our website (the "Site") and related subscription service (the "Service"). We created this Privacy Policy (this "Policy") to give you confidence as you visit and use the Site or otherwise subscribe to the Service, and to demonstrate our commitment to fair information practices and the protection of privacy. Except as otherwise expressly provided, this Policy does not apply to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy. 
 
 1.2. NOTICE CONCERNING CHILDREN PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children's privacy online. If we learn or have reason to suspect that a Site user is under age 13, we will promptly delete any personal information in that user's account. 
 
