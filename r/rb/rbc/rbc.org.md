@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rbc.org privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531072642id_/http%3A//rbc.org/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbc.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227074218id_/http%3A//rbc.org/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RBC Ministries
-
-## [Privacy Policy](http://rbc.org/policy/privacy-policy/ "Permalink to Privacy Policy")
 
 RBC.org (“RBC”) values the privacy of our Web site visitors. We have created this privacy statement in order to disclose information gathering and dissemination practices for this Web site. This privacy statement was last updated on 2/1/06 and also applies to other domain names associated with this Web site: (RBC.org/DHP.org and other domain names registered with RBC Ministries).
 
