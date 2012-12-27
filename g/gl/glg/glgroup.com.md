@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the glgroup.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609011501id_/http%3A//www.glgresearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glgroup.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227050949id_/http%3A//www.glgresearch.com/privacy.html) for the most accurate reproduction.*
 
 # Gerson Lehrman Group
 
 This privacy policy explains how GLG Research® ("GLG Research," "we" and "us") collects, uses, shares and protects information obtained from Council MembersSM and from visitors to its websites (each, a "Site" and collectively, the "Sites").
 
-If you are a Council Member, you have agreed and are additionally subject to the [Terms and Conditions of Council Membership](https://web.archive.org/web/20120609011501id_/http%3A//www.glgresearch.com/tandc.aspx) in the Gerson Lehrman Group Councils ("Terms and Conditions"), which expressly incorporates this Privacy Policy. If you are not a Council Member, by visiting the Sites you consent to the collection and use of your information under the terms of this Privacy Policy.
+If you are a Council Member, you have agreed and are additionally subject to the [Terms and Conditions of Council Membership](https://web.archive.org/web/20121227050949id_/http%3A//www.glgresearch.com/tandc.aspx) in the Gerson Lehrman Group Councils ("Terms and Conditions"), which expressly incorporates this Privacy Policy. If you are not a Council Member, by visiting the Sites you consent to the collection and use of your information under the terms of this Privacy Policy.
 
 ##### Personal Information and Other Data We Collect
 
@@ -46,13 +46,15 @@ Additional provisions applicable only to Council Members:
 
 You are entitled to see the personal information held about you, subject to GLG Research's confidentiality obligations to its clients. You may also request that we make changes to your personal information so that it is accurate and kept up to date, and we may update your information using data obtained from third parties. Council Members are required regularly to update the biographical and employment information that they provide to GLG Research.
 
-##### Your Ability To Opt-Out Of Information Collection & Use
+##### Your Ability To Opt-Out Of Information Collection & Use And Set E-mail Preferences
 
-You may choose not to provide personal information to GLG Research.
+You may choose not to provide personal information to GLG Inc.
 
 Council Members may opt-out of membership in the GLG Research Councils, whereupon we will use reasonable efforts to cease contacting such persons.
 
 You may set up your computer to reject cookies. However, in that case, you may not be able to use certain features on our Sites.
+
+We may send you emails to share news and invite you to events. You may visit our [Preference Center](http://premium.gersonlehrmangroup.com/PreferenceCenter) and specify the types of emails you wish to receive. If you do not wish to receive any of these emails, you may click "Unsubscribe from Gerson Lehrman Group, Inc. Communications" at the bottom of the [Preference Center](http://premium.gersonlehrmangroup.com/PreferenceCenter). You can also reach the Preference Center by clicking the "Unsubscribe" link at the bottom of the emails. Alternatively, Council Members and GLG clients may contact their Member Solutions Associate or Account Manager, respectively. Please note that whatever your preferences, we may still contact you regarding your business relationship with GLG.
 
 ##### Content Forwarding
 
