@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629154339id_/http%3A//www.marketo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketo.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227232849id_/http%3A//www.marketo.com/trust/privacy.php) for the most accurate reproduction.*
 
-# Privacy - Marketo | On-demand solution for B2B lead generation
+# Privacy – Marketo
 
 Marketo, Inc. ("Marketo" or "We") knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Marketo has created this privacy statement ("Statement") in order to demonstrate our commitment to your privacy. Please read the following to learn more about our privacy policy.
 
@@ -16,7 +16,7 @@ For avoidance of doubt, this Statement does not apply to any third party informa
 
 Marketo adheres to the Safe Harbor Privacy Principles published by US Department of Commerce ("Safe Harbor Principles") with respect to Customer Data that we receive from our customers and other business partners in the European Economic Area. Marketo complies with the U.S.-EU and the U.S.-Swiss Safe Harbor Frameworks regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
 
-The scope of our Safe Harbor Certification is defined by our Safe Harbor Notice located at [http://www.marketo.com/safeharbor.php](https://web.archive.org/safeharbor.php).
+The scope of our Safe Harbor Certification is defined by our Safe Harbor Notice located at [/safeharbor.php](https://web.archive.org/trust/safeharbor.php).
 
 * **What Personal Information About Customers Does Marketo Collect?**
 
