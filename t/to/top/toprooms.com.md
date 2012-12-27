@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toprooms.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629042504id_/http%3A//www.toprooms.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toprooms.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227133431id_/http%3A//www.toprooms.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - toprooms.com
 
@@ -80,7 +80,7 @@ Back to top
 11\. Company details
 
  **eviivo Limited**  
-4th Floor Horatio House, 77 Fulham Palace Road, London W6 8JA  
+The Grimaldi Building, 154 Pentonville Road, London N1 9JE  
  **E-mail:** info@eviivo.com  
  **Telephone:** +44 (0)20 8576 5600  
  **Fax:** +44 (0)20 8576 5601
