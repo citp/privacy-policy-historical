@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balticnordic.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514171619id_/http%3A//www.balticnordic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balticnordic.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227210822id_/http%3A//www.balticnordic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -63,7 +63,7 @@ You may view and update information that you previously submitted to this Site b
 This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites. 
 
 Hosting service is provided by:  
-dot Online Marketing AB  
+dot Online Marketing  
 Sweden  
 
 
