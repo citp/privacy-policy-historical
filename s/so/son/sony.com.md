@@ -1,124 +1,128 @@
-> *The following text is extracted and transformed from the sony.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210021841id_/http%3A//www2.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227102828id_/http%3A//www.sony.com/privacy-policy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy – SEL
+# Sony USA - Privacy Policy
 
-#### **__**
+This privacy policy (" **Privacy Policy** ") applies to the information collected by **Sony Corporation of America (“SCA** **”),** both offline and online, including through [www.sony.com](http://www.sony.com/) and through any interactive features, applications, widgets, blogs, social networks and other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer, mobile device or other technology (collectively, “ **SCA Websites** ” or “ **Websites** ”).  Please note that when you enter any subsites accessible through [www.sony.com](http://www.sony.com/), such subsites may have their own specific privacy policies.  Additionally, the websites of affiliated Sony companies, including some that are linked to/from the SCA Websites,  and internet domains that are linked to/from the SCA Websites, may have different policies; therefore, please review the privacy policy notices on those websites if you visit them. 
 
-#### **_Online Privacy Policy_**
+This Privacy Policy explains the information that SCA may collect when you interact with us and our practices with respect to that information.  Please read this Privacy Policy carefully. In addition, please review our Terms & Conditions, which govern your use of the SCA Websites. 
 
-                                                Sony Electronics Inc.
+**Notice to California Residents** — Your California Privacy Rights: If you are a California resident, you have the right to receive: (a) information identifying any third party(ies) to whom SCA may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed. To obtain such information free of charge, please write to us at Sony Corporation of America, 550 Madison Avenue, New York, New York 10022, Attn: Legal Department, or submit your request to [privacy@sonyusa.com](mailto:privacy@sonyusa.com). SCA will respond to these requests within thirty (30) days. Requests that come to SCA by other means may result in a delayed response. 
 
-                                                                                                Effective:          June 21, 2001
+* * *
 
-                                                                                                Last Update:     June  3, 2002
+  
 
-### **Your Privacy**
 
-At Sony we believe our online visitors have a right to know our practices regarding the information we may collect when you visit our Web sites and what type of information is collected. The guidelines contained herein apply only to your visit to the Web sites operated by or for Sony Electronics Inc. and the entities it controls (collectively, “SEL”).    These sites include, but are not limited to, those that contain “sel.sony.com” and those that contain “sonystyle.com” in their URLs.   Sites which are linked to/from these sites (including sites of other Sony affiliated companies (e.g., Sony Music Entertainment, Sony Pictures Entertainment, Sony Computer Entertainment America) and via banner ads) may have different policies; therefore, please review the privacy policy notices on those sites for details. 
+### TABLE OF CONTENTS
 
-   While SEL does not generally require that you provide us with personally identifiable information in order to visit and use the SEL sites, please note that in order to participate in some activities, it will be necessary for you to provide this information.   If you choose not to provide it for those activities, you may not be able to participate in them.
-
-**_Collection of   Information_** _:_
-
-For each visitor to an SEL Web site, SEL’s Web server automatically recognizes, collects and/or stores information such as the visitor’s IP address/Domain name combination and any referring sites.  SEL may use several technologies to accomplish this.  Examples of such technologies are cookies and Web beacons.
-
-When you visit SEL’s Web sites or advertisements appearing thereon, or use one or more of the SEL Web site services, we may use an industry-wide technology called "cookies" which stores certain information on your computer and which will allow us to customize your experience to better match your interests and preferences or to simply facilitate your signing in to use the services.  Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored.   However, if you block or erase cookies, we may not be able to restore any preferences or customization settings you previously specified and our ability to personalize your online experience would be limited.  Please refer to your browser instructions or “help” screen to learn more about these functions.
-
-SEL may also itself use, or engage third parties to use, Web beacons for researching certain usage and activities on our Web site.  The information collected by SEL or requested from third parties through these Web beacons  is in an aggregate, non-individually identifiable form and is used to find out more about users including demographic information and usage patterns for more accurate reporting and to improve the effectiveness of our marketing.
-
- SEL may ask you to provide "personal information", meaning individually identifiable information such as your email address, name, mailing address, telephone number, social security number, credit card number, or persistent identifier (such as a customer number held in a cookie) which is associated with individually identifiable information, to enable you to participate in contests, chat rooms, on bulletin boards, to fill out a registration, or to order products and services using these sites.    SEL may combine the information you provide on our Web sites with information we may collect offline from you or from third parties so that we can more effectively tailor our site, services and offerings to you.                
-
-  ** _SEL will not share the personal information you provide on the SEL Web sites with any other parties_** , **_except_** (a) to other affiliated Sony companies (i.e., (i) Sony Corporation, (ii) any company of which more than 50% of its outstanding shares are owned by Sony Corporation, directly or indirectly, and (iii) any company with the name “SONY as a part of its trade name) who may want to contact you about products, services or other offerings that may be of interest to you (SEL and such affiliates being collectively referred to as “Sony”), (b) with your consent (see paragraph below), (c) as may be required by law or court order, (d) to persons or companies with whom SEL engages to carry out or provide support for the operations of the site or our business, or (e) under exigent circumstances to protect the personal safety or property of our users, the public or ourselves. 
-
-**_Unless you instruct us otherwise_** , SEL may contact you to provide information about products, services, promotions, contests, or other activities or offerings that may be of interest to you. You can instruct us whether or not you wish to be contacted by checking or unchecking the box indicating your preference, as applicable, at the place where your information is collected, or by clicking   [here](http://www.sel.sony.com/SEL/legal/choice.html)   and providing the requested information.   In addition, with each communication you receive from SEL, you will be given the opportunity to indicate if you do not wish to receive future communications from that company.
-
-**_With your consent_** , SEL may share your personal information with third parties outside of the Sony group of companies who may want to contact you about products, services or other offerings that may be of interest to you.   Each of these companies may have their own privacy policies. SEL will seek to obtain your consent at the place where the information is collected either by an “opt-out” or “opt-in” method, or by other means (such as an email request). If you consent to receiving communications from any of these  third parties, you will need to communicate with them directly if you later decide that you no longer wish to receive their communications. If you wish to withdraw your consent from any further sharing of your personal information with third parties, you may do so by clicking    [here ](http://www.sel.sony.com/SEL/legal/choice.html)   and providing the requested information.
-
-## Use and Disclosure of Anonymous Aggregated Information
-
-SEL may also collect, aggregate and maintain anonymous information about the visitors to our Web sites, such as visitors hobbies, interests, purchasing habits, music preferences, and the like. This data can then be used to tailor SEL’s Web site content and advertising to deliver a better experience for our visitors.   SEL may also share such aggregate information about our visitors with advertisers, business partners, sponsors, and other third parties; for example, to inform them about the percentage of male/female visitors or percentage of visitors within a particular age range.
-
-**_Security_**
-
- SEL takes great care in maintaining the security of your personal information and in preventing unauthorized access to it through the use of appropriate technology and internal procedures. However, SEL does not guarantee that unauthorized access will never occur.  
-
-**_Notice To/Regarding Children Under the Age of 13_**
-
-SEL believes that children using the Internet require special protection, and we urge parents or guardians to explain Internet safety to their children. Parents are urged to spend time online with their children to become familiar with the types of content available on the SEL sites and the Internet in general. Control tools are available from online services and software manufacturers to help create a safer environment for children. __
-
-If you are under 13 years of age, you should not provide any personally identifiable information (for example, your last name, home address or e-mail address) on these sites without the knowledge and permission of your parent or guardian. If SEL learns that you are under 13 years of age, SEL will not maintain or use any personally identifiable information about you without the verifiable consent of your parent or guardian, except as allowed by law. This may mean that you will be unable to participate in some activities on the sites without that verifiable consent.   
   
 
 
-If a child under 13 years of age wishes to participate in any SEL Web site activity, or wishes to take advantage of a product or service offering, available to children, and to do so necessitates the furnishing of any of the child’s personal information, please note the following:
+  * Collection of Information
+    * Information You Provide To SCA 
+    * Information SCA Collects Automatically 
+    * Cookies and Other Tracking Technologies. 
+    * Information SCA Receives From Third Parties 
+    * Social Media Applications 
+  * Uses of the Personal Information SCA Collects 
+  * When and With Whom SCA May Share Information Collected 
+  * Links To and SCA Content On Other Websites 
+  * Security 
+  * Consent to Processing 
+  * Policy Governs Use: Changes to Privacy Policy 
+  * Questions 
 
-(i)                  The names, addresses, telephone numbers, and email addresses of the operators collecting or maintaining personal information from children through this Web site are:
 
-Sony Electronics Inc.
 
-1 Sony Drive
-
-Park Ridge, New Jersey 07656
-
-Telephone: 201-930-4800     
-
-e-mail address:    [PIM@am.sony.com](mailto:PIM@am.sony.com)   
-
-Sony Electronics e-Solutions Company LLC
-
-155 Tice Boulevard
-
-Woodcliff Lake, New Jersey 07677
-
-Telephone: 201-930-4800
-
-e-mail address:   [PIM@am.sony.com](mailto:PIM@am.sony.com)
-
-(ii)                The types of personal information collected from children may include the name, email address, home address, telephone number and/or any other information reasonably necessary for the child to participate in a particular activity.  This information may be collected directly and/or passively (e.g., through a web server that automatically recognized and stores information such as a visitor’s IP address/domain name combination). 
-
-(iii)               The information collected may be used for purposes such as fulfillment of a requested transaction, record keeping, marketing back to the child, or making it publicly available through a chat room or by other means.
-
-(iv)              Unless specific consent is obtained from the child’s parent or guardian, the child’s personal information will not be disclosed to third parties who are not contractors hired to carry out the internal operations of the Web sites, other than as may be required or permitted by law.    We have required, or will require, such contractors to agree to use personal information of site visitors only for the purposes of carrying out these operations and to keep such information confidential.   A parent or guardian has the option of consenting to the collection and use of the child’s personal information without consenting to the disclosure of that information to third parties.
-
-(v)                 SEL is prohibited from conditioning a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to participate in such activity; and 
+* * *
 
   
-(vi)        A parent can review and have deleted the child's personal information, can refuse to permit further collection or use of the child's information, and can revoke or limit consents previously given.  For instructions on how to do so, please send an email to: [PIM@am.sony.com](mailto:PIM@am.sony.com) or write to us at:
 
-               Sony Electronics Inc.
 
-              Personal Information Management Office
+### Collection of Information
 
-              1 Sony Drive
+**Information You Provide To SCA**
 
-               MD TA3-12
+**In General.** While SCA does not generally require that you provide us with personally identifiable information in order to visit and use the SCA Websites, please note that in order to participate in some activities, such as sweepstakes, contests and other promotions (collectively, “ **Promotions** ”) and chat rooms or bulletin boards, we may ask you to provide information that could reasonably be used to contact you or to identify you personally (such as first and last name, e-mail address, mailing address and telephone number) (" **Personal Information** "). We may also ask you to provide other information about yourself, such as demographic information (such as gender, geographic region, age, etc.) or certain information about your preferences and interests.  If you choose not to provide such Personal Information or other information to us, you may not be able to participate in certain activities we offer. If we combine demographic or other information we collect about you with Personal Information about you, we will treat the combined information as Personal Information. 
 
-               Park Ridge, New Jersey 07656
+**Individuals Under 13.** The SCA Websites are open to all individuals, though some Promotions may have age restrictions.  We do not knowingly collect or permit the collection, storage or use of any Personal Information from anyone under 13. If you are a parent or guardian who knows or has discovered that your child under the age of 13 has submitted his or her Personal Information or other information without your consent, permission or authorization, upon request, we will promptly: (a) provide direct notice to you indicating what, if any, Personal Information of your child has been collected and how it has been used and/or disclosed; (b) remove your child’s Personal Information or other information from our database, cease the use of such information and direct any other party with access to such information to do the same; and (c) by notice to you, confirm compliance with the foregoing. 
 
-Except as permitted by law, before any collection of a child’s personal information takes place at a Web site directed to children or where SEL is knowingly collecting children’s personal information, the child will be asked to provide  his/her parent’s or guardian's e-mail address so that SEL can contact the child’s parent or guardian.   SEL will then send an email (the "Initial Notification") to the parent/guardian indicating, among other things, the information that the child is requested to provide, the intended use(s) of the information and information on how the parent/guardian can, at their election, delete the child's information from SEL’s database or records. Upon receipt of the Initial Notification, a parent or guardian may respond back to SEL to grant his/her consent or to deny consent in which case SEL will delete the parent or guardian’s email address and any other personal information, if any, previously obtained for securing parental consent.   Upon SEL’s receipt of the parent/guardian consent, SEL will send a confirming email to the parent/guardian’s email address or take such other action as may be required to verify the consent.
+**For** **Promotions.** We may offer opportunities to enter into Promotions that we offer, on our own or jointly with a third party. Such Promotions may require registration and the disclosure of both Personal Information and non-Personal Information. In the event that a Promotion is offered jointly with a third party, as a result of your participation in such Promotion, your Personal Information and non-Personal Information may be shared with such third party, which sharing we will disclose to you at the time you provide your information.  By entering a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor and/or other third parties connected to the Promotion to use your name, voice and/or likeness in advertising and marketing materials. Therefore, always carefully read the rules of the Promotion before entering. 
 
-If SEL desires to use a child’s information for purposes other than that for which the parent/guardian consent was previously given, SEL will not do so without first getting the parent/guardian consent. 
+**Information SCA Collects Automatically**
 
-  ** _Consent to Processing:_**
+In addition to any Personal Information or other information that you choose to provide to us via the SCA Websites, whenever you visit or interact with the SCA Websites, SCA automatically collects certain information such as your IP address and/or another unique identifier (" **Device Identifier** ") for the computer, mobile device, technology or other device (" **Device** ") you use to access the SCA Websites and any referring website. (A Device Identifier is a number that is automatically assigned to your Device when you access a website or its servers. Our computers identify your Device by its Device Identifier.) Some mobile service providers may also provide us or our third-party service providers with information regarding the physical location of the Device used to access the Websites. 
 
-By providing any personal information to the SEL Sites, all users, including without limitation users in the member states of the European Union, fully understand and unambiguously consent to the collection and processing of such information in the United States of America.
+In addition, SCA, as well as certain third-party analytics and other service providers, may use a variety of technologies that automatically or passively collect information about how you use the SCA Websites (" **Usage Information** "). Usage Information may include, in part, browser type, operating system, the page served, the time at which a page was accessed and/or the time spent on a page, and the preceding pages views. Usage Information is generally non-identifying, but if SCA associates it with you as a specific and identifiable person, we will treat it as Personal Information. 
 
-## Policy Governs Use;  Changes to Privacy Policy
+**Cookies and Other Tracking Technologies.**
 
- The terms of this policy will govern the use and any information collected while it is in place.   SEL reserves the right to change this policy at any time, so please re-visit this page as often as you wish.  
+The technologies used on the SCA Websites to collect Usage Information, including Device Identifiers, may include: 
 
-**_Questions:_**
+**Cookies _._** "Cookies" (which may be html files, Flash files or other technology) are small text files that help store user preferences and activity.  A Cookie is placed on a Device when it is used to visit the SCA Websites or otherwise access our online offerings. Cookies may be used for many purposes, such as remembering you and your preferences, tracking your visits to our web pages and customizing your SCA Website experience. If you choose to disable cookies on your Device, some features of our Websites or our online offerings may not function properly. 
 
-If you have any questions or comments about our personal information practices or about this Privacy Statement, please feel free to send us an email at [PIM@am.sony.com](mailto:PIM@am.sony.com) or write us at:
+**Web Beacons _._** “Web beacons” (also known as image tags, pixel tags, GIFS or web bugs) are small pieces of code used to collect advertising data, such as counting page views, promotion views or advertising responses. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the SCA Websites, to monitor how users navigate the SCA Websites, to count how many sent e-mails were actually opened or to determine whether content sent was actually viewed. 
 
-            Sony Electronics Inc.
+**Embedded Scripts _._** An embedded script is programming code that is designed to collect information about your interactions with the SCA Websites, such as the links you click on. The code is temporarily downloaded onto your Device from our server or a third party service provider, is active only while you are connected to the Websites, and is deactivated or deleted thereafter. 
 
-            Personal Information Management Office
+**Information SCA Receives From Third Parties**
 
-           1 Sony Drive
+SCA may receive information about you from third parties. **** In addition, if you are on another website and you opt-in to receive information from us, that website will forward to us your e-mail address and other information about you so that we may contact you as requested. We may also supplement the information we collect about you with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. When we obtain Personal Information from third parties, we will apply this Privacy Policy to the Personal Information received, unless we have disclosed otherwise. ****
 
-           MD TA3-12
+Functionality on the SCA Websites may permit interactions between such SCA Websites and a third-party website, such as enabling you to “like” a product or “share” content to third-party websites.   If you choose to “like” or “share” content or to otherwise post information from or via the SCA Websites to a third-party website, feature or application, that information may become public and the third-party web site may have access to information about you and your use of the SCA Websites. 
 
-           Park Ridge, New Jersey 07656
+You may also choose to participate in a third party application or feature (such as one of our Facebook applications or a similar application or feature on a third-party website) through which you allow us to collect and share (or the third party to share) information about you, including Personal Information. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected. In addition, we may receive information about you if other users of a third-party website give us access to their profiles and you are one of their “connections,” or if information about you is otherwise accessible through your “connections” web page, profile page, or similar page on a social networking or other third-party website or interactive service. 
 
-**If you have questions regarding products or services, please click[here](http://www.sel.sony.com/SEL/consumer/ss5/feedback.shtml) for further information.**
+**Uses of the Personal Information SCA Collects**
+
+SCA will use the information it collects, including your Personal Information:
+
+  * to tailor your experience on the SCA Websites; ****
+  * to determine which products and services we offer may be of interest to you; ****
+  * to provide you with information about Promotions or other offerings that may be of interest to you; ****
+  * to provide you with support and answer questions or other requests; and ****
+  * for other purposes disclosed to you at the time you provide the Personal Information. ****
+
+
+
+We may also use the information we collect to improve the SCA Websites and our products and services, for internal business purposes, and to contact you with regard to your use of the SCA Websites and, in our discretion, changes to any of our policies. ****
+
+**When and With Whom SCA May Share Information Collected**
+
+**Non-Personal Information.** We may share non-Personal Information, such as aggregate user statistics, demographic information, and Usage Information with third parties for a variety of purposes, including tailoring promotions, advertising and communications we present to you. 
+
+**Personal Information.** We may also share your Personal Information, as specifically disclosed at the time you provide your Personal Information and in the following circumstances: 
+
+**To Affiliates, Other Sony Companies and Third-Parties.**
+
+**To Affiliates and Other Sony Companies.** SCA may share your Personal Information with companies affiliated with SCA (“Affiliates"), so that those Affiliates can (i) assist us with fulfilling your requests or improving our products, content, services or advertising; and/or (ii) contact you about products, content, services or other offerings that may be of interest to you.  For purposes of this Privacy Policy, Affiliates means Sony Corporation of America, any company with respect to which SCA owns, directly or indirectly, 50% or more of its outstanding shares, and any company with the name "SONY" as a part of its trade name. 
+
+**To Third-Party Service Providers** **Providing Services On SCA’s Behalf.** We may from time to time employ third parties to perform functions on our behalf, and thus, we may also share your Personal Information with third party service providers that assist us with providing content, fulfilling your requests, improving our products, content, services or advertising, or otherwise performing services for SCA.  As one example, if you access content or services that are published, developed or supported by an Affiliate or third party, your Personal Information may be shared with that Affiliate or third party for purposes related to that content or those services, including service administration and/or development. Additionally, we may share your information in order to host or operate the SCA Websites, for data analysis purposes, and for the administration of Promotions, such as in connection with winner selection and prize fulfillment. 
+
+**When You Consent To Have Your Personal Information Shared** **or Otherwise Request That We Share Your Information** **.** We may offer you the opportunity to consent to the sharing of your information with third parties. Such reasons include, without limitation, so that you are able to receive information and/or marketing offers from third parties. Additionally, you may request, sometimes through your use of an interactive feature or third- party application, that we share Personal Information about you with a third party, and we will typically do so in those circumstances. If you agree or request to have your Personal Information shared (either by opting in, choosing not to opt-out or using a specific feature of the SCA Websites), your Personal Information will be disclosed to the applicable third party(s) and the Personal Information you disclose will be subject to the privacy policy and business practices of such third party(s); therefore, please consult the respective privacy policies of each third party.  If you consent or request to receive communications from third parties, you will need to communicate with them directly if you later decide that you no longer wish to receive their communications. 
+
+The provisions above apply to our sharing of Personal Information with Affiliates and third-party service providers.  They do not cover use of Personal Information that those Affiliates and third-party service providers collect directly from you.  Such use of Personal Information is covered by the relevant Affiliate’s and/or third party’s privacy policy and not this Privacy Policy. 
+
+**Business Transactions.** We may share your Personal Information with other entities affiliated with us for internal reasons, primarily for business and operational purposes including any corporate reorganization, restructuring or other corporate change. In addition, SCA or any of its assets, including the SCA Websites, may be sold, or other transactions may occur in which your Personal Information is one of the key business assets in the transaction. In such a case, your Personal Information may be one of the business assets we transfer. Hence, SCA reserves the right to disclose and transfer user information, including Personal Information, in connection with any activity and/or transaction described above. ****
+
+**Legal Protections and Law Enforcement.** We may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier (including IP address), to third parties: (i) to comply with legal obligations; (ii) when we believe in good faith that the law requires it; (iii) at the request of governmental authorities conducting an investigation; (iv) to verify or enforce our Terms & Conditions or other applicable policies; (v) to respond to an emergency; or (vi) to otherwise protect the rights, property, safety or security of third parties, visitors to the SCA Websites or the public. We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies, in our discretion. Such disclosures may be carried out without notice to you. 
+
+**Links To and SCA Content On Other Websites**
+
+The SCA Websites may contain links to other websites that are operated and controlled by third parties that we do not control. This includes links of advertisers, sponsors and partners that may use our logo(s) as part of a co-branding agreement. In addition, SCA content or widgets may be included on web pages and websites that are not associated with us and over which we have no control. These other websites may send their own cookies to your Device, and they may independently collect data or solicit Personal Information. A link from any SCA Website to any other website does not mean that Sony approves of, endorses, or recommends that website. SCA provides such links for your convenience and is not responsible for the content of any website linked to or from any SCA Website. Moreover, SCA is not responsible for the privacy practices of any third party, and it disclaims all warranties, express or implied, as to the accuracy, legality, reliability, or validity of any content on any other website. 
+
+**Security**
+
+SCA uses commercially reasonable safeguards to help protect and secure your Personal Information, and we use reasonable efforts to obtain the agreement of our Affiliates and third-party service providers to take steps to protect the confidentiality, security, and integrity of Personal Information we share with them. However, no electronic data transmission or storage of information can be guaranteed to be 100% private and secure. Please be careful to avoid ‘phishing’ scams, where someone may send you an e-mail that looks like it is from SCA asking for your Personal Information.  SCA will never request your Personal Information through e-mail.  You understand that any message or information you send to a SCA Website may be read or intercepted by others. SCA does not ensure or warrant the security of any information you transmit to us, and you use the SCA Websites and provide us with your information at your own risk. 
+
+**Consent to Processing**
+
+The SCA Websites are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the SCA Websites, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen. 
+
+**Policy Governs Use: Changes to Privacy Policy**
+
+The terms of this Privacy Policy will govern the use of any information collected while it is in place.  SCA reserves the right to change this Privacy Policy at any time, without prior notice to you, and any changes will become effective immediately upon posting. Your continued use of the SCA Websites after posting of any changes to this Privacy Policy will constitute acceptance of, and agreement to be bound by, those changes. Thus, please review this Privacy Policy periodically. 
+
+**Questions**
+
+If you have any questions or comments about our practices regarding Personal Information or about this Privacy Policy, please write to us at Sony Corporation of America, 550 Madison Avenue, New York, New York 10022, Attn: Legal Department, or submit your request to [privacy@sonyusa.com](mailto:privacy@sonyusa.com). 
