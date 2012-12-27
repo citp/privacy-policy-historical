@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kendoui.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509002102id_/http%3A//www.kendoui.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kendoui.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227045051id_/http%3A//www.kendoui.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Kendo UI
 
 ## Information Collected
 
