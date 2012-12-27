@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games2try.com privacy policy that was archived on 2012-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120109040103id_/http%3A//games2try.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2try.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227063926id_/http%3A//games2try.com/privacy.php) for the most accurate reproduction.*
 
 # Games2Try - Privacy Policy
 
