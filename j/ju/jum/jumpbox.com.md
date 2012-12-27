@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627223230id_/http%3A//www.jumpbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpbox.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227133834id_/http%3A//jumpbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy : VM : Cloud Computing : JumpBox.com | JumpBox Virtual Appliances and Applications for Cloud Computing
 
@@ -25,7 +25,7 @@ JumpBox will not use your email address or other personally identifiable informa
 
 **When JumpBox Discloses Information**
 
-JumpBox may disclose both personally identifiable and automatically collected information to affiliated companies or other businesses or persons to process such information on our behalf, to provide website maintenance and security, to offer certain features on the JumpBox Service, to assist us in improving the way the JumpBox Service works and looks, and to create new features. We require that these parties agree to process such information in compliance with our Privacy Policy, we use reasonable efforts to limit their use of such information, and we require these parties to use any other appropriate confidentiality and security measures. 
+JumpBox may disclose both personally identifiable and automatically collected information to affiliated companies or other businesses or persons to process such information on our behalf, to provide website maintenance and security, to offer certain features on the JumpBox Service, to assist us in improving the way the JumpBox Service works and looks, and to create new features. We require that these parties agree to process such information in compliance with our Privacy Policy, we use reasonable efforts to limit their use of such information, and we require these parties to use any other appropriate confidentiality and security measures.
 
 We may share automatically collected and other aggregate non-personally-identifiable information with interested third parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the JumpBox Service. 
 
@@ -41,7 +41,7 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 **Children**
 
-Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of thirteen (13) without requiring parental consent. Any person who provides their personal information to JumpBox through the JumpBox Service represents that they are 13 years of age or older. 
+Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of thirteen (13) without requiring parental consent. Any person who provides their personal information to JumpBox through the JumpBox Service represents that they are 13 years of age or older.
 
 **Third-party Advertisers, Links to Other Sites**
 
@@ -49,7 +49,7 @@ JumpBox may allow other companies, called third-party ad servers or ad networks,
 
 JumpBox does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in. However, please note that if an advertiser asks JumpBox to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they were trying to reach.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. JumpBox’s Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or websites. 
+You should consult the respective privacy policies of these third-party ad servers or ad networks. JumpBox’s Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
 
 **Our Commitment to Data Security**
 
@@ -70,7 +70,7 @@ The JumpBox Service is hosted in the United States. If you are a User accessing 
 **In the Event of Merger or Sale**  
 
 
-If JumpBox should ever file for bankruptcy or have its assets sold to or merge with another entity, information JumpBox receives from you through the JumpBox Service is a JumpBox asset and may be transferred. 
+If JumpBox should ever file for bankruptcy or have its assets sold to or merge with another entity, information JumpBox receives from you through the JumpBox Service is a JumpBox asset and may be transferred.
 
 **Changes and Updates to this Privacy Policy**
 
