@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinburgh.gov.uk privacy policy that was archived on 2012-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120428220748id_/http%3A//www.edinburgh.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburgh.gov.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228000348id_/http%3A//www.edinburgh.gov.uk/privacy) for the most accurate reproduction.*
 
 # Your privacy - City of Edinburgh Council
 
@@ -12,22 +12,18 @@ You can submit (potentially) personal or sensitive data to us in the following
 
   * **Report it** , **Request it** and **Pay it** online forms 
   * other online forms ( **Register** for an account) 
-  * when **Signing in** to Your Account. 
+  * when **Signing in** to Your Account.
 
-
-
-The web site does store [cookies](http://en.wikipedia.org/wiki/HTTP_cookie "The Wikipedia definition for cookies") on your computer, but these do not contain personal data or anything that could identify you to others.   
-Our site cookies include:
-
-  * [Google Analytics](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html "Google Analytics use of cookies") \- this is used to provide us with information on our site usage  
-
-  * [Jadu content management system](http://support.jadu.net/info/20006/guides_and_resources/36/eu_cookie_directive_information "Jadu content system and cookies") \- these cookies are to allow our site to operate properly for visitors
 
 
 
 When you use our online **Pay it** forms, at no time are your card details stored or accessible to the Council. We use a secure web site called [WorldPay](http://www.rbsworldpay.com/ "Worldpays web site") to take your payment details. WorldPay is a leading internet payment provider and is part of the Royal Bank of Scotland group. 
 
-Read [how we use personal information](http://www.edinburgh.gov.uk/downloads/download/1764/social_care_and_social_work_privacy_notice "Health and social care privacy notice") to provide social work and social care services 
+Read [how we use personal information](http://www.edinburgh.gov.uk/downloads/download/1764/social_care_and_social_work_privacy_notice "Health and social care privacy notice") to provide social work and social care services.
+
+### Cookies
+
+The web site does store cookies on your computer, but these do not contain personal data or anything that could identify you to others. Find out more about [cookies we use](http://www.edinburgh.gov.uk/cookies "Cookies we use"). 
 
 ## How your data gets to us 
 
