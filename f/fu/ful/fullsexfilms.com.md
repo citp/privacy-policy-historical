@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullsexfilms.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606070304id_/http%3A//www.fullsexfilms.com/main/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullsexfilms.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227101722id_/http%3A//www.fullsexfilms.com/main/privacy.shtml) for the most accurate reproduction.*
 
 # Full SEX Films - Free Full XXX DVDs / Terms of Service
 
@@ -12,7 +12,7 @@ We collect only the addresses of people who subscribe to our newsletter services
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address. 
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
 
 From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, writing to us at the above address. 
 
