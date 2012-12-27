@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectroave.com privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601083711id_/http%3A//vectroave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectroave.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228003428id_/http%3A//vectroave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
