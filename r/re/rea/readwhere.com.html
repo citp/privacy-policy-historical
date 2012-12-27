@@ -1,9 +1,12 @@
-<!--The following is the downloaded HTML source of the readwhere.com privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626022635id_/http%3A//www.readwhere.com/home/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the readwhere.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227110532id_/http%3A//www.readwhere.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset='UTF-8'">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<meta name="google-site-verification" content="vwHAcY1rPC21wtFuCeF1b7QqMuZeLmtDRBjU-kvgMkk">    
+<meta name="apple-itunes-app" content="app-id=544688485, app-argument=http://itunes.apple.com/us/app/readwhere/id544688485?ls=1&amp;mt=8">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"> 
       window.config = {
         'base_url' : 'http://www.readwhere.com/design-elements/',
         'app_base_url' : 'http://www.readwhere.com/',
@@ -11,271 +14,197 @@
         'guest' : "true"
       }
     </script>
-      <script type="text/javascript" src="/js/jquery.js"></script> 
-    <title> Privacy Policy - readwhere    </title> 
-    <meta http-equiv="Content-Type" content="text/html; charset='UTF-8'">
-    <script type="text/javascript">
-      window.config = {
-        'base_url' : 'http://www.readwhere.com/design-elements/',
-        'app_base_url' : 'http://www.readwhere.com/',
-        'ru' : "",
-        'guest' : "true"
-      }
-    </script> 
-    <link href="/css/rwlayout.css?version=4fe2fbf30309e" rel="Stylesheet" type="text/css" media="all">
-    <link href="/css/smoothness/jquery-ui-1.8.16.custom.css?version=4fe2fbf30309e" rel="Stylesheet" type="text/css" media="all">
-    <!-- Simple OpenID Selector -->
-    <link type="text/css" rel="stylesheet" href="http://www.readwhere.com/design-elements/openid/css/openid.css?version=4fe2fbf30309e">
-    <script type="text/javascript" src="http://www.readwhere.com/design-elements/openid/js/openid-jquery.js?version=4fe2fbf30309e"></script>
-    <script type="text/javascript" src="http://www.readwhere.com/design-elements/openid/js/openid-en.js?version=4fe2fbf30309e"></script>
-    <script type="text/javascript" src="/js/jquery.tinyscrollbar.min.js"></script>
-    <script type="text/javascript">
+    <style>
+    .ui-autocomplete-category {
+        font-weight: bold;
+        padding: .2em .4em;
+        margin: .8em 0 .2em;
+        line-height: 1.5;
+    }
+    </style>
+    <link rel="stylesheet" type="text/css" href="/css/rwlayout.css?version=50dc26d56deb1">
+<link rel="stylesheet" type="text/css" href="/css/smoothness/jquery-ui-1.8.16.custom.min.css?version=50dc26d56deb1">
+<script type="text/javascript" src="/js/jquery-1.8.3.min.js?version=50dc26d56deb1"></script>
+<title> Privacy Policy - readwhere 
+	</title>     <script type="text/javascript">
       $(document).ready(function() {                       //alert(config.guest);
         if(config.guest === "true") {
           $('#rating').click(function() { });
         }
-       // console.log($(window).scrollTop());
-        openid.init('openid_identifier');
-        $("#show-logout").hover(function(){$('#dropdown3').css('width',$('#show-logout').width()+20)});
-        $('#tab_style1 .viewport').css('height','418px');
-        $('#tab_style1').tinyscrollbar({ size: 415,sizethumb: 75 });
-        
- 
-
+        //$("#show-logout").hover(function(){$('#dropdown3').css('width',$('#show-logout').width()+20)});
+        //$('#tab_style1 .viewport').css('height','418px');
+        //$('#tab_style1').tinyscrollbar({ size: 415,sizethumb: 75 });
+        $("abbr.timeago").timeago();
+				$('.dropdown_image').live( 'click',function() {
+					var ele = document.getElementById("dropdown3");
+					if(ele.style.display == "block") {
+            ele.style.display = "none";
+					} else {
+						ele.style.display = "block";
+					}
+					$('#dropdown3').show();
+					$('.dropdown_image').css('background-color','#4F6EC2');
+				});
+				$('#dropdown3').live( 'mouseleave',function() {
+            document.getElementById("dropdown3").style.display = "none";
+            $('.dropdown_image').css('background-color','');
+				});
       });
-
-      function toggleVolumeSlider() {
-        $('#vol_carousel').slideToggle('slow');
-      }
-
-      function showLoginToSubscribeMsg() {
-        $('#sub_msg_link').hide();
-        $('#sub_msg').show();
-      }
-
-      function alreadySubscribedMsg() {
-        $('#already_sub_msg').show();
-      }
-
-      function showLoginToRateMsg() {
-        $('#login_to_rate_msg').show();
-      }
-
-      function ShowSignInForm() {
-        $('#signin').css({'display':'block','z-index':'10'});
-        $('#signup').css({'display':'none','z-index':'0'});
-      }
-
-      function closeSignInForm() {
-        $('#signin').css({'display':'none','z-index':'0'});
-      }
-        
-      function ShowSignUpForm() {
-        $('#signup').css({'display':'block','z-index':'10'});
-        $('#signin').css({'display':'none','z-index':'0'});
-      }
-
-      function closeSignUpForm() {
-        $('#signup').css({'display':'none','z-index':'0'});
-      }
-
-      function submitSearch() { 
-        $("#search-form").submit();
-      };
-
-      function showLoginToRateMsg() {
-          var offset = $('#title_rating').offset(); 
-          $('#rating_login_msg').css({ "left" : offset.left-12, "top" : offset.top-13 }).show();
-          setTimeout(function() {
-              $('#rating_login_msg').fadeOut('fast');
-          }, 3000);
-      };
-      function showMoreDescription(link,desc) { //alert(link);alert(desc);
-          $('#'+link).hide();
-          $('#'+desc).show();
-      };
-      function showLessDescription(link,desc) {
-          $('#'+link).show();
-          $('#'+desc).hide();
-      };
-
-      function showMoreLessTitles(link_id,div_id) { 
-        if($('#'+link_id).text() == "See More") {
-          $('#'+link_id).text('See Less');
-        } else if($('#'+link_id).text() == 'See Less') {
-          $('#'+link_id).text('See More');
-        }
-        $('#'+div_id).slideToggle();
-      }
-
     </script>
     <!--[if IE 7]>
         .ieWrap{position:relative; top:40px;}
         .iego{right:5px; width:30px;}
-    <![endif]-->
-
-    <style type="text/css">
-      .error p {float:none;margin:0;width:100%;font-size:12px !important;}
-      .list-form{ width: 350px;}
-    </style>
+    <![endif]--> 
   </head>
-  <body>
+  <body><script type="text/javascript" src="/js/jquery-ui-1.9.2.js?version=50dc26d56deb1"></script>
+<script type="text/javascript" src="/js/timeago.js?version=50dc26d56deb1"></script>
+ 
     <div class="header positionfixed" id="header">
-        <div class="wrap">
-          <div class="logo"><a href="/home"><img id="rw_logo" src="/images/logo.png" alt=""></a></div>
-          <div class="nav">            </div>
-        
-            <form id="search-form" method="get" accept-charset="UTF-8" action="/home/search" class="" onsubmit="return searchFormSubmit();">
-            <input type="text" placeholder="Search" title="Enter search terms" name="q" value="Search" onfocus="if(this.value=='Search'){this.value='';}" onblur="if(this.value==''){this.value='Search';}" size="15" maxlength="128" id="search-q">
+      <div class="wrap">
+        <div class="logo"><a href="/home"><img id="rw_logo" src="/images/logo.png" alt=""></a></div>
+         <div class="nav" id="lib_clip_link">          </div>
+          <form id="search-form" method="get" accept-charset="UTF-8" action="/home/search" class="" onsubmit="return searchFormSubmit();">
+            <input type="text" placeholder="Search" title="Enter search terms" name="q" value="Search" onfocus="if(this.value=='Search'){this.value='';}" onblur="if(this.value==''){this.value='Search';}" size="15" maxlength="128" id="search-q"><span id="search_loader" style="display:none;"><img src="/images/loader.gif" alt="loading..."></span>
             <a name="o" id="search-submit" onclick="submitSearch()">&nbsp;</a>
-            </form>
-            <div class="floatright">
-              <a href="https://www.readwhere.com/publish/register" class="de-btn-enabled header-publish-btn">Publish</a>                 <a href="/user/login?ru=http://www.readwhere.com/home/privacypolicy" class="header-link">Login</a>            </div>
-        </div>
-            <!--/ wrap -->
-        <div class="clear"></div>
-    </div><!--/ header -->
-
-      <div class="wrap margintop40 ieWrap" style="min-height:710px" id="wrap">
-              <!-- OUTPUT CONTENT HERE-->
-              <div class="fleft width_100 martop15">
-    <div class=""> <div id="breadCrumb"> <a href="/home">Home</a> &gt; Privacy Policy</div>        <div class="midpanel">
-           <div class="topsubs">
-               <h1 class="tc fleft">Privacy Policy </h1>
-           </div>
-           <div class="midcontent">
-            <div class="commentb pa">
-               <p><b>Date Modified: 2nd April 2012</b></p>
-                  <p class="tnc">The Readwhere privacy policy explains how your information, which includes the information that you will provide to us, and the information we will gain and collect from your use of Readwhere, will be used and protected by us.</p>
-                  <p class="tnc">The Information provided by you, includes information we explicitly ask for when you sign up with Readwhere. This includes information like your name, email address, telephone number, address etc. The use of this information will be strictly to enforce authenticity of the user signing up, and provide personalization of the service further. We will not disclose your personal information, unless consented by you or unless demanded by law.</p>
-                  <p class="tnc">The User Account created by you is protected by a password selected by you. The passwords are encrypted and saved with Readwhere and hence at any point of time, we have no access to your plain text password. The password you create should comply with the minimum password requirements as mentioned while creating an account.</p>
-                  <p class="tnc">During the course of your usage of Readwhere.com, there will be information we will gain and collect. This could include information on the publications you subscribe to, clips you create, comments on the publications, purchase preferences etc. If you are using Readwhere.com from a Mobile or Tablet Device, we may collect device-specific information (such as hardware model, unique device identifier, IP Address, Location Information, OS etc.). We may also associate your device identification with your account.</p>
-                  <p class="tnc">The information we collect from your usage of our services, will be protected by us and will be used to improve upon our service, offer you content customized to your preferences. Some of the information may be shared as needed with content publishers, or other consumers, to aid improvement of Readwhere or improvement in the content subscription aspects. </p>
-                  <p class="tnc">Aggregated information, which is non-personally identifiable may be shared with our partners – like publishers, advertisers or connected parties. This could include trends, demographic access details, genre of subscriptions most accessed etc.</p>
-                  <p class="tnc">All information collected will be protected with security safeguards like SSL Encryption and Email Verification of Account.</p>
-                  <p class="tnc">The Privacy Policy may change from time to time. The changes will not reduce your rights without explicit consent.</p>
-
-                  </div>
-           </div>
-          </div>
+          </form>
+          <div class="floatright" id="login_logout_link">             <a href="/user/login?ru=https://www.readwhere.com/publish/login" class="de-btn-enabled header-publish-btn">Publish</a>               <a href="/user/login?ru=http://www.readwhere.com/privacy-policy" class="header-link" id="login_link">Login</a>           </div>
       </div>
-  </div>              <div class="clr"></div>
-     </div>
+      <script type="text/javascript">
+        $.getJSON('/api/checklogin?callback=?', function(response) {
+          if(response.id) {
+						var header_name = '';
+            if(response.firstname.substr(0,4) == 'user' || response.firstname == '') {
+              if(response.name.substr(0,4) == 'user' || response.name == '') {
+								header_name = response.email;
+							} else {
+								header_name = response.name;
+							}
+            } else {
+							header_name = response.firstname + ' ' +response.lastname; 
+						}
+            $("#lib_clip_link").html('<ul><li><a href="/shelf">Shelf</a> | </li> <li><a href="/myclips">Clips</a> </li</ul>');
+            var logout_link = '<div class="hover_link"><a class="header-link show-logout" href="/'+response.name+'" id="show-logout">'+header_name+'</a><div class="dropdown_image"></div><ul style="display:none;" class="header_dropdown" id="dropdown3"><li><a href="/user/settings">Settings</a></li><li><a href="/user/logout?ru=http://www.readwhere.com/privacy-policy">Logout</a></li></ul></div>';
+            $("#login_logout_link a#login_link").replaceWith(logout_link);
+            //$("#show-logout").hover(function(){$('#dropdown3').css('width',$('#show-logout').width()+20)});
+          }
+        });
+      </script>
+            <!--/ wrap -->
+      <div class="clear"></div>
+    </div><!--/ header -->
+    <div class="wrap margintop40 ieWrap" style="min-height:710px" id="wrap">
+      <!-- OUTPUT CONTENT HERE-->
+      <div class="fleft width_100 martop15">
+  <div class=""> <div id="breadCrumb"> <a href="/home">Home</a> &gt; Privacy Policy</div>    <div class="midpanel">
+      <div class="topsubs">
+          <h1 class="tc fleft">Privacy Policy </h1>
+      </div>
+      <div class="midcontent">
+        <div class="commentb pa">
+          <p><b>Date Modified: 2nd April 2012</b></p>
+            <p class="tnc">The Readwhere privacy policy explains how your information, which includes the information that you will provide to us, and the information we will gain and collect from your use of Readwhere, will be used and protected by us.</p>
+            <p class="tnc">The Information provided by you, includes information we explicitly ask for when you sign up with Readwhere. This includes information like your name, email address, telephone number, address etc. The use of this information will be strictly to enforce authenticity of the user signing up, and provide personalization of the service further. We will not disclose your personal information, unless consented by you or unless demanded by law.</p>
+            <p class="tnc">The User Account created by you is protected by a password selected by you. The passwords are encrypted and saved with Readwhere and hence at any point of time, we have no access to your plain text password. The password you create should comply with the minimum password requirements as mentioned while creating an account.</p>
+            <p class="tnc">During the course of your usage of Readwhere.com, there will be information we will gain and collect. This could include information on the publications you subscribe to, clips you create, comments on the publications, purchase preferences etc. If you are using Readwhere.com from a Mobile or Tablet Device, we may collect device-specific information (such as hardware model, unique device identifier, IP Address, Location Information, OS etc.). We may also associate your device identification with your account.</p>
+            <p class="tnc">The information we collect from your usage of our services, will be protected by us and will be used to improve upon our service, offer you content customized to your preferences. Some of the information may be shared as needed with content publishers, or other consumers, to aid improvement of Readwhere or improvement in the content subscription aspects. </p>
+            <p class="tnc">Aggregated information, which is non-personally identifiable may be shared with our partners – like publishers, advertisers or connected parties. This could include trends, demographic access details, genre of subscriptions most accessed etc.</p>
+            <p class="tnc">All information collected will be protected with security safeguards like SSL Encryption and Email Verification of Account.</p>
+            <p class="tnc">The Privacy Policy may change from time to time. The changes will not reduce your rights without explicit consent.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>      <div class="clr"></div>
+    </div>
     <div id="feedback-issue"><span><a href="javascript:;" id="sendfeedback" onclick="showFeedback();">Send Feedback</a></span></div>
     <div id="de-feedback" style="bottom: 25px;">
-          <div class="title">
-              <span>Send Feedback</span>
-              <div class="close"></div>
-          </div>
-          <div id="feedback_btn">
-            <div class="feedback-response"></div>
-            <div class="ques">
-                <span>How can we improve?</span>
-            </div>
-            <textarea rows="4" class="feedback-text" id="feedback_textarea"></textarea>
-            <p class="feedback_error" id="feedback_empty">Enter feedback.</p>
-            <div>
-              <input type="text" id="feedback_email" onblur="if(this.value==''){this.value='Enter your Email-ID';}" onfocus="if(this.value=='Enter your Email-ID'){this.value='';}" value="Enter your Email-ID" size="20" class="feedback-email">
-              <p class="feedback_error" id="feedback_invalid_email">Enter valid email-id.</p>
-            </div>
-            <button class="btn nofloat feedback-send de-btn-enabled" style="margin-left:8px;">
-              <div>
-                <span class="label">Send</span>
-              </div>
-            </button>
-            <button class="btn nofloat feedback-cancel de-btn-enabled">
-              <div>
-                <span class="label">Cancel</span>
-              </div>
-            </button>
-          </div>
-	  <div id="feedback_thanks" style="display:none">Thanks for feedback.</div>
+      <div class="title">
+        <span>Send Feedback</span>
+        <div class="close"></div>
       </div>
-    <div class="footer">
-        <div class="footer-left">
-            <a href="/home"><img src="/images/footer-logo.png"></a>
+      <div id="feedback_btn">
+        <div class="feedback-response"></div>
+        <div class="ques">
+          <span>How can we improve?</span>
         </div>
-        <div class="footer-right">
-            <div class="col first">
-                <h3>Help</h3>
-                <ul>
-                  <li><a href="/help/payments">Payments</a></li>
-                  <li><a href="/help/cancellation-returns">Cancellations &amp; Returns</a></li>
-                </ul>
-            </div>
-            <div class="col">
-                <h3>Readwhere</h3>
-                <ul>
-                  <li><a href="http://www.mediologysoftware.com/about-us.html" target="_blank"><span>About Us</span></a></li>
-                  <li><a href="/home/contactus"><span>Contact Us</span></a></li>
-                  <li><a href="/home/termsofuse">Terms Of Use</a></li>
-                  <li><a href="/home/privacypolicy">Privacy Policy</a></li>
-                </ul>
-            </div>
-            <div class="col" style="width:24%">
-                <h3>Support</h3>
-                <ul>
-                    <li>Contact: <a href="mailto:support@readwhere.com" style="text-decoration: underline">support@readwhere.com</a></li>
-                    <li>Grievance:  <a href="mailto:grievance@readwhere.com" style="text-decoration: underline">grievance@readwhere.com</a></li>
-                </ul>
-            </div>
-            <div class="col" style="float:right;width:20%">
-                <h3>Follow us on</h3>
-                <ul>
-                    <li><a href="http://www.facebook.com/myreadwhere"><span class="about facebook"></span>Facebook</a></li>
-                    <li><a href="http://www.twitter.com/myreadwhere"><span class="about twitter"></span>Twitter</a></li>
-                    <li><a href="http://in.linkedin.com/pub/readwhere/52/57b/9a9"><span class="about linkedin"></span>Linkedin</a></li>
-<!--                    <li><a href="http://dereadwhere.com/publish/"><span class="about google"></span>Google</a></li>-->
-                </ul>
-            </div>
-         </div>
+        <textarea rows="4" class="feedback-text" id="feedback_textarea"></textarea>
+        <p class="feedback_error" id="feedback_empty">Enter feedback.</p>
+        <div>
+          <input type="text" id="feedback_email" onblur="if(this.value==''){this.value='Enter your Email-ID';}" onfocus="if(this.value=='Enter your Email-ID'){this.value='';}" value="Enter your Email-ID" size="20" class="feedback-email">
+          <p class="feedback_error" id="feedback_invalid_email">Enter valid email-id.</p>
+        </div>
+        <button class="btn nofloat feedback-send de-btn-enabled" style="margin-left:8px;">
+          <div>
+            <span class="label">Send</span>
+          </div>
+        </button>
+        <button class="btn nofloat feedback-cancel de-btn-enabled">
+          <div>
+            <span class="label">Cancel</span>
+          </div>
+        </button>
+      </div>
+	    <div id="feedback_thanks" style="display:none">Thanks for feedback.</div>
     </div>
- 
+    <div class="footer">
+      <div class="footer-left">
+          <a href="/home"><img src="/images/footer-logo.png"></a>
+      </div>
+      <div class="footer-right">
+        <div class="col first">
+          <h3>Help</h3>
+          <ul>
+            <li><a href="/help/payments">Payments</a></li>
+            <li><a href="/help/cancellation-returns">Cancellations &amp; Returns</a></li>
+            <li><a href="http://www.readwhere.com/support/Gift_a_subscription" target="_blank">Gift</a></li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3>Readwhere</h3>
+          <ul>
+            <li><a href="http://www.readwhere.com/support/About-us"><span>About Us</span></a></li>
+            <li><a href="/contact"><span>Contact Us</span></a></li>
+            <li><a href="/terms-of-use">Terms Of Use</a></li>
+            <li><a href="/privacy-policy">Privacy Policy</a></li>
+          </ul>
+        </div>
+        <div class="col" style="width:24%">
+          <h3>Support</h3>
+          <ul>
+              <li>Contact: <a href="mailto:support@readwhere.com" style="text-decoration: underline">support@readwhere.com</a></li>
+              <li>Grievance:  <a href="mailto:grievance@readwhere.com" style="text-decoration: underline">grievance@readwhere.com</a></li>
+              <li><a href="http://www.readwhere.com/support/Coupons_Available_At">Coupons Available At</a></li>
+             <!-- <li class="margnlft10"><a class="coupn_site_link" href="http://www.coupondunia.in/readwhere" target="_blank">Coupondunia</a></li>
+              <li class="margnlft10"><a class="coupn_site_link" href="http://www.vouchercodes.in/readwhere" target="_blank">Voucher Codes</a></li>
+              <li class="margnlft10"><a class="coupn_site_link" href="http://www.couponcodesindia.net/readwhere.html" target="_blank">Coupon Codes</a></li>
+              <li class="margnlft10"><a class="coupn_site_link" href="http://www.mydailydeals.co.in/readwhere-.html" target="_blank">My Daily Deals</a></li> -->
+          </ul>
+        </div>
+        <div class="col" style="float:right;width:20%">
+          <h3>Follow us on</h3>
+          <ul>
+              <li><a href="http://www.facebook.com/myreadwhere"><span class="about facebook"></span>Facebook</a></li>
+              <li><a href="http://www.twitter.com/myreadwhere"><span class="about twitter"></span>Twitter</a></li>
+              <li><a href="http://in.linkedin.com/pub/readwhere/52/57b/9a9"><span class="about linkedin"></span>Linkedin</a></li>
+              
+          </ul>
+        </div>
+      </div>
+    </div>
 
 <script type="text/javascript">
-  function change_tabs (tabs_id, number, active) {                          //TODO: Do this using Jquery toggle
-    for (var inc = 1 ; inc <= number ; inc++) {
-      if (inc == active) {
-        document.getElementById(tabs_id + '_li' + inc).className = 'selected';
-        document.getElementById(tabs_id + '_style' + inc).style.display = 'block';
-      } else {
-        document.getElementById(tabs_id + '_li' + inc).className = '';
-        document.getElementById(tabs_id + '_style' + inc).style.display = 'none';
-      }
-    }
-    $('#tab_style2').tinyscrollbar({ sizethumb: 75 });
+
+$("#de-feedback .btn.feedback-send").click(function() { 
+  if ($.trim($("#de-feedback .feedback-text").val())=='') {
+    $('#feedback_empty').show();
+    $('#de-feedback').height('262px');
+    return;
+  } else if(!/^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/.test($('#feedback_email').val())) {
+    $('#feedback_invalid_email').show();
+    $('#de-feedback').height('262px');
+    return;
   }
 
-  function showFeedback(){
-    if ($("#de-feedback").is(':visible')){
-      $("#de-feedback").hide();
-      return;
-    }
-    $('#feedback_btn').show();
-    $('#feedback_thanks').hide();
-    $("#de-feedback .btn.feedback-cancel").show();
-    $("#de-feedback").show();
-  }
-
-  $("#de-feedback .title .close").click(function() {
-    $('#feedback_textarea').val('');
-    $('#feedback_email').val('Enter your Email-ID');
-    $('.feedback_error').hide();
-    $("#de-feedback").height('225px');
-    $("#de-feedback").hide();
-  });
-
-  $("#de-feedback .btn.feedback-send").click(function(){
-    if ($("#de-feedback .feedback-text").val()=='') {
-      $('#feedback_empty').show();
-      $('#de-feedback').height('262px');
-      return;
-    } else if(!/^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/.test($('#feedback_email').val())) {
-      $('#feedback_invalid_email').show();
-      $('#de-feedback').height('262px');
-      return;
-    }
-    
   $('#de-feedback').append('<div id="loading_img"><img class="loader" style="float:left;margin-left:10px;" src="/images/loader.gif" alt="loading..."/>');
   $.post("http://www.readwhere.com/home/sendFeedback" ,
   {
@@ -288,60 +217,188 @@
     $('#loading_img').remove();
     $('#feedback_btn').hide();
     $('#feedback_thanks').show();
-   });
+    $('#feedback_thanks').html(response);
+  });
 });
 
-$("#de-feedback .btn.feedback-cancel").click(function() {
-  $("#de-feedback").hide();
-});
-
-$('html').click(function() {
-  if($('#de-calendar-box').is(":visible")) { //alert("123");
-    $('#de-calendar-box').hide();
-  }
- });
-
- $('#de-calendar-box').click(function(e){
-     e.stopPropagation();
- });
- $('#calender_box').click(function(e){
-     e.stopPropagation();
- });
-//$(window).scroll(function() { //alert($('#my_slider').height());
-//  if($(window).scrollTop() > 1600) {
-//    $('#my_slider').css('max-height',$(this).height()-$('.footer').height()-80);
-//    $('#my_slider').css('overflow','hidden');
-//    //alert($('#home_scrollbar .viewport').height());
-//  } else {
-//    $('#my_slider').css('overflow','visible');
-//  }
-//});
-
-$(window).scroll(function() {
-  if($(window).scrollTop() > 20) {
-    $("#rw_logo").attr("src","/images/rw_logo.png");
-  } else {
-    $("#rw_logo").attr("src","/images/logo.png");
-  }
-});
-
-function searchFormSubmit() {
-if($('#search-q').val() == '') {
-  return false;
+function followUnfollow(field,loggedin_user_id, target_id, type) {
+	button_text = $('#'+field.id).text();
+	$('#'+field.id).removeClass('follwing');
+	$.post("http://www.readwhere.com/ajax/checkFollowUnfollow" ,
+  {
+    'loggedin_user_id' : loggedin_user_id,
+    'target_id'   : target_id,
+    'type'   : type,
+    'button_text' : button_text,
+  },
+  function(response) {
+		var res_arr = response.split('!@#$');
+			if(res_arr[0] == 'failure') {
+				$('#'+field.id).text(res_arr[1]);
+				if(button_text == 'Follow' || button_text == 'Follow All') {
+					$('#'+field.id).addClass('follwing');
+					$('.clipbook_follow_btn').addClass('follwing');
+				} else {
+					$('#'+field.id).removeClass('follwing');
+					$('.clipbook_follow_btn').removeClass('follwing');
+				}
+			} else { 
+				$.post("http://www.readwhere.com/ajax/followUnfollow" ,
+				{
+					'loggedin_user_id' : loggedin_user_id,
+					'target_id'   : target_id,
+					'type'   : type
+				},
+				function(response) {
+					if(response == 1) {
+						gaTrackEvent ('clipbook', 'click-'+(button_text.toLowerCase())+'', 'clipbook_id',target_id);
+						if(type == 'clipbook') {
+							follow_text = 'Follow';
+							following_text = 'Following';
+						} else {
+							follow_text = 'Follow All';
+							following_text = 'Following All';
+						}
+						if($('#'+field.id).text().trim() == follow_text) {
+							$('#'+field.id).text(following_text);
+							$('#'+field.id).addClass('follwing');
+							if(type == 'user') {
+								$('.clipbook_follow_btn').text('Following');
+								$('.clipbook_follow_btn').addClass('follwing');
+							}
+						} else {
+							$('#'+field.id).text(follow_text);
+							$('#'+field.id).removeClass('follwing');
+							if(type == 'user') {
+								$('.clipbook_follow_btn').text('Follow');
+								$('.clipbook_follow_btn').removeClass('follwing');
+							}
+						} 
+					}
+				});
+			}
+	});
 }
+
+function gaTrackpageview (url) {
+  //window['ga-disable-UA-30928125-1']==false;
+  if (typeof _gaq !== "undefined" && _gaq !== null) {
+    _gaq.push(['_trackPageview', url]);
+  }
 }
 
+function gaTrackEvent (category, action, label, integer_value) { 
+  if (typeof _gaq !== "undefined" && _gaq !== null) {
+    _gaq.push(['_trackEvent', category, action,  label, integer_value]);
+  }
+}
+
+function changefollowtxt (id) { 
+  if($('#'+id).text().trim() == 'Following All Clipbooks') { 
+    $('#'+id).text('Unfollow All Clipbooks');
+  }
+	else if($('#'+id).text().trim() == 'Unfollow All Clipbooks') {
+		$('#'+id).text('Following All Clipbooks');
+	}
+}
+
+</script>
+ <script type="text/javascript">
+    $(document).ready(function() { 
+			$('.ui-autocomplete').addClass('search_suggestions_container');
+
+		});
+    $.widget( "custom.catcomplete", $.ui.autocomplete, { 
+       _renderMenu: function( ul, items ) { 
+					var that = this,
+					currentCategory = "";
+					
+					$.each( items, function( index, item ) {
+							if ( item.category != currentCategory ) {
+									ul.append( '<li class="ui-autocomplete-category">' + item.category + '</li>');
+									currentCategory = item.category;
+							}
+							renderItemData( ul, item ); 
+					});
+					$('.search_suggestions_container').append('<li class="ui-autocomplete-item search_more"><a onselect="submitSearch();" onclick="submitSearch();">Search results for "'+$('#search-q').val()+'"</a></li>');
+        }, 
+    });
+    
+    function renderItemData( ul, item ) {
+			return renderItem( ul, item ).data( "ui-autocomplete-item", item );
+		}
+
+		function renderItem( ul, item ) {
+			var image_tag = '';
+			if(item.thumbpath) {
+				image_url = item.thumbpath;
+			} else {
+				image_url = '/images/footer-logo.png';
+			}
+			var short_label = (item.label.length > 23) ? (item.label.substr(0,20) + '...' ): item.label;
+			return $( '<li class="suggest_label '+item.category+'_'+item.id+'">' ).append( $('<img width="25" height="25" src="'+image_url+'" />'+'<a title="'+item.label+'" alt="'+item.label+'" href="'+item.url+'">').text( short_label ) ).appendTo( ul );
+		}
+		
+    $("#search-q").catcomplete({
+				delay: 0,
+				source: function(request, response) {
+					$('#search_loader').show();
+					$.ajax({
+					 url: 'http://www.readwhere.com/api/suggestsearch',
+					 dataType: "json",
+					 data: {
+						q: request.term
+					 },
+					 success: function(ajax_response) { 
+						$('#search_loader').hide(); 
+						response($.map(ajax_response.data, function(item) {
+						 return {
+							label: item.label,
+							id: item.id, 
+							category: item.category,
+							url: item.url,
+							thumbpath: item.thumbpath,
+						 }
+						}))
+					 }
+					})
+				},
+				minLength: 3,
+				select: function(event, ui) {  
+									event.preventDefault();
+									if(ui.item) {
+										window.location=ui.item.url; 
+									} else {
+										submitSearch();
+									}
+								},
+				focus: function(event, ui) { 
+								event.preventDefault();
+								$('.search_suggestions_container li').removeClass('ui-state-focus');
+								if(!ui.item) {
+									$('.search_more a').removeClass('ui-state-focus');
+									$('.search_more').addClass('ui-state-focus');
+									return false;
+								} else {
+									$('.'+ui.item.category+'_'+ui.item.id+' a').removeClass('ui-state-focus');
+									$('.'+ui.item.category+'_'+ui.item.id).addClass('ui-state-focus');
+								}
+							 },
+				
+		});
+ 
 </script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-30928125-1']);
   _gaq.push(['_trackPageview']);
-
-  (function() {
+ (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+<script type="text/javascript" src="/js/script.js?version=50dc26d56deb1"></script>
+ 
 
 </body></html>
