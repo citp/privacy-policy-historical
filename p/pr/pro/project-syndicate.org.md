@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the project-syndicate.org privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516123619id_/http%3A//www.project-syndicate.org/pages/Terms-and-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the project-syndicate.org privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228000259id_/http%3A//www.project-syndicate.org/pages/Terms-and-Privacy) for the most accurate reproduction.*
 
-# Terms and Privacy | Project Syndicate
+# Terms and Privacy - Project Syndicate
 
 ## What information do we collect?
 
