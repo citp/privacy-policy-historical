@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the contentcaboodle.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603013918id_/http%3A//www.contentcaboodle.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the contentcaboodle.com privacy policy that was archived on 2012-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121228000438id_/http%3A//www.contentcaboodle.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	
@@ -87,13 +87,36 @@ function breakout_of_frame()
 
 
 		<div class="search">
+<!--
 			<form method="get" action="/search/">
 				<fieldset class="searchBox">
-				<input name="a" value="search" type="hidden">
-				<input class="textfield" name="q" value=" Type Your Search Term Here..." onfocus="this.value='';" onclick="cleartext()" size="38" maxlength="255" type="text">
+				<input name="a" value="search" type="hidden" />
+				<input class="textfield" name="q" value=" Type Your Search Term Here..." onfocus="this.value='';" onclick="cleartext()" size="38" maxlength="255" type="text" />
 				<button class="btn" title="Submit Search"></button>
 				</fieldset>
 			</form>
+-->
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+  google.load('search', '1');
+  google.setOnLoadCallback(function() {
+    google.search.CustomSearchControl.attachAutoCompletion(
+      'partner-pub-8787091897432432:2892823598+qptype:1',
+      document.getElementById('q'),
+      'cse-search-box');
+  });
+</script>
+<form action="http://www.contentcaboodle.com/results.html" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-8787091897432432:2892823598">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" id="q" autocomplete="on" size="35">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
 		</div>
 
 		<span class="title"><a href="http://www.contentcaboodle.com">Content Caboodle</a></span>
@@ -141,6 +164,29 @@ Pittsburgh, PA 15204<br>
 <!-- google_ad_section_start(weight=ignore) -->
 	<div class="footer"><div class="footerInner">
 
+<div style="display:block;margin-left:200px;">
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+  google.load('search', '1');
+  google.setOnLoadCallback(function() {
+    google.search.CustomSearchControl.attachAutoCompletion(
+      'partner-pub-8787091897432432:2892823598+qptype:1',
+      document.getElementById('q'),
+      'cse-search-box');
+  });
+</script>
+<form action="http://www.contentcaboodle.com/results.html" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-8787091897432432:2892823598">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" id="q" autocomplete="on" size="55">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+<br>
 		<div class="footInlineSquares"><div class="inlineSquaresTube">
 			<h3>From The Blog</h3>
 			<!-- Block_TB_blog_feed -->
@@ -170,6 +216,7 @@ Pittsburgh, PA 15204<br>
 				<li><a href="http://www.contentcaboodle.com/about.html">About Us</a></li>
 				<li><a href="http://www.contentcaboodle.com/privacy_policy.html">Privacy Policy</a></li>
 				<li><a href="http://www.contentcaboodle.com/disclaimer.html">Content Disclaimer</a></li>
+				<li><a href="http://www.contentcaboodle.com/advertising.html">Advertise With Us</a></li>
 				<li><a href="/contact/">Contact Us</a></li>
 			</ul>
 		</div></div></div>
@@ -219,6 +266,8 @@ if(document.location.protocol=='http:'){
  (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
 }
 </script>
+
+
 
 
 
