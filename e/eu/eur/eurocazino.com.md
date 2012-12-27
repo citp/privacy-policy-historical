@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2012-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120408024639id_/http%3A//www.eurocazino.com/privacy.php%3Fid%3D0%26lang%3Dnl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227113756id_/http%3A//eurocazino.com/privacy.php%3Fid%3D0%26lang%3Duk) for the most accurate reproduction.*
 
-# Privacy policy van ons Online Casino. Beschrijving van beveiliging en uitbetalingsregels
+# Privacy policy of our Online Casino. Description of security and cashouts rules
 
 |  |    |   
 ---|---  
-**[**Hotshot Speelautomaat**](http://games.eurocazino.com/games/play.php?id=0&game=hotshot)  
+**[**Keno Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=keno)  
 ** **    |   
 ---|---  
    |   
 ---|---  
   
-"Hardstikke gaaf die Topshot. Ik vindt het te gek dat ik bij jullie ook voor nop kan spelen. Ik kan er bijna niet van afblijven. Schitterend gemaakt, mijn complimenten" 
+"That Topshot online slot very nice. I like it very much that I can also play for free. I almost can't keep my hands off it. Made wonderfully, my compliments" 
 
-"Perfecte Service! Mijn PC crashte en ik dacht 'weg credits'. Toen ik mijn PC opnieuw had opgestart en het spel weer opende kreeg ik mijn credits keurig terug" 
+"Perfect service! My PC crashed and I thought 'credits're gone'. But when I restarted my PC and opened the game again, all my credits were back where they belong to" 
 
-"Bedankt voor de snelle uitbetaling van mijn gewonnen prijs. Twijfelde toch wel een beetje of het allemaal wel vertrouwd was maar had het de volgende dag al binnen. Kom zeker eens weer om te spelen." 
+"Thanks for the fast payout of my won prize. I doubted somewhat whether it'd all be trustworthy, but the amount was on my account the next day. I will surely be back sometime to play your slot machines again." 
 
-"Mocht vroeger graag in de kroeg even op zo'n fruitautomaat spelen, maar sinds ik na een ernstig ongeval meestal aan huis gekluisterd zit kwam het er niet meer van. Jullie ClubGold fruitautomaat doet niet onder voor een echte fruitautomaat. Heb al diverse keren gewonnen en kreeg altijd vlot mijn prijs binnen. Bedankt!" 
+"I used to play these kind of slots in the pub in the old days. But since I am bound to be at home most of my time because of a serious accident, that fun is a past time. Your Clubgold slot game looks and plays almost like the real one. I have won several times already and always receive my money in time. Thanks!" 
 
-_(na eerdere correspondentie)_ "Heb de credits er alsnog bijgekregen. Nadat ik m'n computer herstartte kreeg ik de credits er extra bij. Nog bedankt voor de snelle reactie" 
+_(continued conversation)_ "I received the credits after all. After rebooting my PC the lost credits were added extra. Thanks once again for the quick response" 
 
    |   
 ---|---  
@@ -34,10 +34,10 @@ This site has security measures to protect against the loss, misuse and alterati
 
 |  |  |    |   
 ---|---  
-**[Spectra Gokkast](http://games.eurocazino.com/games/play.php?id=0&game=spectra)**  
+**[Jokers 4 Reel Gambling Machine](http://games.eurocazino.com/games/play.php?id=0&game=jokers4reel)**  
 
 
-[](http://games.eurocazino.com/games/play.php?id=0&game=spectra)
+[](http://games.eurocazino.com/games/play.php?id=0&game=jokers4reel)
 
    |   
 ---|---  
