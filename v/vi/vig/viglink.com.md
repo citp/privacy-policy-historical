@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viglink.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621023936id_/http%3A//www.viglink.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viglink.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227012546id_/http%3A//www.viglink.com/policies/privacy) for the most accurate reproduction.*
 
 # VigLink - Privacy Policy
 
@@ -25,6 +25,10 @@ In operating the Site, we may use a technology called "cookies." A cookie is a p
 In addition, we may install the Software on third party websites. In doing so, the Software will place a cookie on the computers of users of those third party websites and will collect personally non-identifiable information about your browser and your activity at such websites. 
 
 On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. Acceptance of cookies is not a requirement to browse the Site; however certain areas and features of the Site, require your acceptance of cookies to work properly. If you choose to use cookies, we may collect personally identifiable information without your prior permission. 
+
+VigLink and third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads on sites across the Internet based on someone's past visits to the VigLink website. These ads, often referred to as "remarketing," may be personalized using information inferred from their behavior when visiting VigLink's website. For example, if a visitor views their VigLink dashboard, then we may later show them ads promoting recent updates to our products or services that would be relevant to existing customers. The intention behind our use of remarketing is to provide VigLink the opportunity to show more relevant ads and not to obtain personally identifiable information. Users can opt out of Google Analytics for Display Advertisers and opt out of customized Google Display Network ads by visiting [Google's Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en%3E). 
+
+Users may also wish to install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). 
 
 ### Use of Personally Identifiable Information
 
