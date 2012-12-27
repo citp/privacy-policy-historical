@@ -1,57 +1,102 @@
-> *The following text is extracted and transformed from the ubuntu.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627072255id_/http%3A//www.ubuntu.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuntu.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227123336id_/http%3A//www.ubuntu.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy – Canonical Websites | Ubuntu
+# Canonical's privacy policy | Ubuntu
 
-Canonical websites, including [www.canonical.com](http://www.canonical.com/ "www.canonical.com") and [www.ubuntu.com](http://www.ubuntu.com/ "www.ubuntu.com") are provided by Canonical Group Ltd. At Canonical, we consider your privacy to be extremely important. These are the fundamental principles that we follow:
+**What’s changed?** On Thursday 18th October 2012 we updated our privacy policies by consolidating them into one document.
+
+ **Why?** We care about your privacy and want to ensure that it is clear what personal information we are collecting from you, when we collect it and what we do with that personal information. By consolidating all of our policies into one place we hope that it will be easier for you to see what we're doing.
+
+ **What's changed?** Nothing. We're not doing anything different with your personal information. We're just making things clearer.
+
+Please read the updated Privacy Policy to find out more.
+
+Canonical collects personal information from you in a number of different ways. For example, when you download one of our products, receive services from us or use one of our websites (including [www.canonical.com](http://www.canonical.com/) and [www.ubuntu.com](http://www.ubuntu.com/)).
+
+At Canonical, we consider your privacy to be extremely important to us. These are the fundamental principles that we follow in relation to your personal information:
 
   * We don't ask you for personal information unless we truly need it.
-  * We don't share your personal information with anyone except to provide you with services, comply with the law, or protect our rights.
-  * We don't store personal information on our servers unless required for the on-going operation of our services.
-  * We will use personal data that you provide to us in accordance with this Privacy Policy.
+  * We don't share your personal information with anyone except to provide you with services, products, to comply with the law, or to protect our rights.
+  * We don't store personal information unless required for the on-going operation of services to you, to provide you with products, to comply with law or to protect our rights.
+  * We will use personal information that you provide to us in accordance with this Privacy Policy.
 
 
 
-### What we collect
+## What we collect
 
-Like most website operators, Canonical collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor's request. Our purpose in collecting non-personally identifying information is to better understand how visitors use our websites and services.
+We may collect the following types of personal information from you:
 
-When you register to use certain parts of our websites, such as wikis or message boards, we ask for personally identifying information such as your full name, email address, and a password.
+  * **Websites** \- When you register to use certain parts of our websites, such as wikis or message boards, or register for free accounts, we may ask for personal information such as your full name, email address and a password.
+  * **Chat rooms, forums and newsgroups** \- These are available to our community. Any information that you disclose in these areas becomes public information and may be recorded, archived and republished by anyone. Please exercise caution when deciding to disclose any personal information in such areas.
+  * **Canonical products** \- When you register for services or purchase any product from Canonical, we may ask for information such as your email address, billing address, and credit card information. Credit card information is only used in processing your transaction. Please note that we may use a third party payment processing merchant to process your payments.
+  * **Non-personally identifying information** \- Canonical may collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor's request. Our purpose in collecting non-personally identifying information is to better understand how visitors use our websites and services. For further information about ow we use cookies, see the "cookie" section below.
+  * **Error reports** \- When you chose to send an error report, it includes a unique identifier for your computer. This identifier does not identify you, unless you (or someone acting on your behalf) discloses it separately. An error report may include personal information such as the state of programs that were running at the time. You can block future error reports from the privacy panel of System Settings.
+  * **Ubuntu Online Accounts** \- When you use Ubuntu Online Accounts, your personal information is stored on your PC and it can be accessed by some applications. To see the legal notice explaining how we use this personal information, please [click here](http://www.ubuntu.com/aboutus/online-accounts-legal-notice).
+  * **General** \- If you contact us and provide us with information, we may keep a record of that correspondence and information.
 
-Chat rooms, forums, and/or news groups are available to our community. Any information that you disclose in these areas becomes public information and may be recorded, archived, and/or republished by anyone. Please exercise caution when deciding to disclose any personal information in those areas.
 
-### How do we collect information
 
-We use persistent cookies to support a smooth user experience. This cookie remains on your computer after you close your browser and may be used by your browser on subsequent visits to our websites. We also use cookies to better understand how you interact with our websites and services and to improve our websites and services overall. If you do not wish to have cookies placed on your computers, you should set your browsers to refuse cookies before visiting our websites and using our services. Be aware that your experience with using our websites and services may be degraded if you set your browser to refuse cookies.
-
-### What do we do with the information we collect
+## What do we do with the information we collect
 
 We may use your information in the following ways:
 
-  1. To study how anonymous users interact with our websites and services and improve them.
-  2. To authenticate access to certain features of our websites.
-  3. To contact you to respond to enquiries or to provide notices to you regarding your use of our websites.
-  4. To comply with legal and regulatory requirements (including responding to subpoenas and to prevent crime). These special circumstances may require us to disclose personally identifiable information.
-  5. To contact you if your actions violate your services agreement.
-  6. To contact you about Canonical's products and services, but only after you have opted to be contacted for this purpose.
+  * To authenticate access to certain features of our websites.
+  * To contact you to respond to enquiries or to provide notices to you regarding your use of our websites or the provision of our services.
+  * To provide services, products, process payment, and authenticate access (where required).
+  * To analyse the performance or the appropriateness of products or services.
+  * To comply with legal and regulatory requirements (including responding to court orders, subpoenas and to prevent crime). These special circumstances may require us to disclose personal information.
+  * To contact you if your actions violate your agreement with us (if any).
+  * To fix errors and analyse trends.
+  * To study how anonymous users interact with our websites and services.
+  * To market our products or services to you.
 
 
 
-The information you provide to us will be held on computers and may be accessed by or given to our staff working inside and outside of the UK and to third parties, including companies within Canonical’s group, for the purposes set out in this Privacy Policy or as otherwise agreed with you. You acknowledge that it may be necessary for your information to be processed by such parties and that it may be transferred to someone who provides a service to us in other countries, including some outside of the European Economic Area, and you consent to such processing and transfer. If it is necessary to transfer your personal data outside of the European Economic Area we will make every effort to ensure that the person to whom we pass the information agrees to treat it with the same level of protection as we do.
+Unless you have notified us otherwise, Canonical may occasionally send you email to tell you about new features, solicit feedback, or just to keep you up to date with what's going on. We may use various community websites (Launchpad Answers, Ubuntu Forums, blogs etc.) to communicate this type of information, so we expect to keep this type of information to a minimum. If you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications, modify the communications preferences in your account or contact us using the contact details provided below.
 
-If we are sold or merge with another business entity your information may be disclosed to our new business partners or owners.
+## Access
 
-Unless required by law, we will not otherwise share, sell or distribute any information you provide to us without your consent.
+The information you provide to us will be held on computers and may be accessed by or given to our staff working inside and outside of the UK and to third parties, including contractors and companies within Canonical's group, for the purposes set out in this Privacy Policy, i.e. to provide you with products or services, or as otherwise agreed with you.
 
-### How do we protect the information we collect
+You acknowledge that it may be necessary for your information to be processed by such parties and that it may be transferred to someone who provides a service to us in another country, including some outside of the European Economic Area, and you consent to such processing and transfer. If it is necessary to transfer your personal information outside of the European Economic Area we will make every effort to ensure that the person to whom we pass the personal information agrees to treat it with the same level of protection as we do.
 
-Canonical is very concerned about protecting the confidentiality of your personally identifiable information. We have security measures, including administrative, physical and electronic measures, to protect against the loss, misuse or alteration of information that we have collected from you in the use of the services. These measures include SSL data encryption to transmit your data as well as technical architectures and systems to prevent unauthorised internal employees, contractors and affiliated organizations from accessing your data.
+If we are sold or merge with another business entity your personal information may be disclosed to our new business partners or owners.
 
-### What happens if these terms change
+Unless required by law, we will not otherwise share, sell or distribute any personal information you provide to us without your consent.
 
-Although most changes are likely to be minor, Canonical may change its website Privacy Policy from time to time, and at Canonical's sole discretion. If the alterations constitute a material change to the Privacy Policy, we will notify you by email if you have provided your email address to us. What makes up a "material change" will be determined by Canonical, in good faith and using common sense and reasonable judgment. You may also check this page for any changes to this policy.
+## Cookies
 
-### How to contact us
+We use persistent cookies to support a smooth user experience. This cookie remains on your computer after you close your browser and may be used by your browser on subsequent visits to our websites. We also use cookies to better understand how you interact with our websites and services and to improve our websites and services overall.
 
-You have a right to access the personal information we hold about you or to obtain a copy of it; if you would like to do so please contact us by postal mail to the address below.
+### Cookies we use
 
-Please submit any questions or comments about this Privacy Policy, or about our use of your personally identifiable information by postal mail at the following address: Canonical Group Ltd, 5th Floor, Blue Fin Building, 110 Southwark Street, London SE1 0SU.
+Cookie| Name| Purpose| More information  
+---|---|---|---  
+site cookie acceptance| _cookies_accepted| This cookie is used to record if a user has accepted the use of cookies on our website.| To withdraw your consent after accepting this cookie, delete the _cookies_accepted cookie. Find out how at [www.aboutcookies.org](http://www.aboutcookies.org/)  
+Google Analytics| _utma  
+_utmb  
+_utmc  
+_utmz| These cookies are used to collect information about how visitors use our website, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.| Find out more about Google Analytics privacy please visit [www.google.com/intl/en_uk/analytics/privacyoverview.html](http://www.google.com/intl/en_uk/analytics/privacyoverview.html)  
+Crazyegg| is_returning| Crazyegg tracks javascript on some pages of our site to understand what links our visitors are clicking on. This helps us optimize our content for the best user experience. The Crazyegg script may store a cookie on your computer. This cookie may contain a session ID, a visitor ID and a few other dynamically created parameters that allow Crazyegg to track our site's traffic accurately. No personal information is stored within the cookie.| For Crazy Egg's complete Privacy Policy please visit [www.crazyegg.com/privacy](http://www.crazyegg.com/privacy).  
+Marketo Munchkin| _mkto_trk| Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor. For example, if the visitor is asked to provide us with their name, company name and email address, we will know the identity of the visitor when they visit the site at a later date, or when we send them email.| For Marketo's complete Privacy Policy please visit [uk.marketo.com/trust/privacy.php](http://uk.marketo.com/trust/privacy.php)  
+  
+If you do not wish to have cookies placed on your computers, please set your browsers to refuse cookies before visiting our websites and using our services.
+
+## How do we protect the information we collect
+
+Canonical is very concerned about protecting the confidentiality of your personal information. We have security measures, including administrative, physical and electronic measures, to protect against the loss, exposure, misuse or alteration of information that we have collected from you in the use of the services. These measures include SSL data encryption to transmit your personal information as well as technical architectures and systems to prevent unauthorised third parties from accessing your personal information.
+
+## What happens if these terms change
+
+Although most changes are likely to be minor, Canonical may change this Privacy Policy from time to time, and at Canonical's sole discretion. If the alterations constitute a material change to the Privacy Policy, we will notify you by email if you have provided your email address to us. What makes up a "material change" will be determined by Canonical, in good faith and using common sense and reasonable judgement. You may also check this page for any changes to this Privacy Policy.
+
+## Legal notice
+
+For further information on Canonical's terms and conditions please see the [legal notice](https://web.archive.org/legal) for our websites and our [terms of service](https://one.ubuntu.com/terms) for Ubuntu One.
+
+For certain products and services we may also provide you with specific terms and conditions. Please refer to those specific legal notices for further information. This Privacy Policy is incorporated by reference into those legal notices.
+
+## How to contact us
+
+You have a right to access the personal information we hold about you or to obtain a copy of it. If you would like to do so please contact us by postal mail to the address below or, if your query is in relation to Ubuntu One, via the [account assistance form](https://one.ubuntu.com/help/contact/).
+
+Please submit any questions or comments about this Privacy Policy, or about our use of your personal information by contacting us by postal mail at the following address: Canonical Group Ltd, 5th Floor, Blue Fin Building, 110 Southwark Street, London, England, SE1 0SU or by emailing us at [webmaster@canonical.com](mailto:webmaster@canonical.com).
