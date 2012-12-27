@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615075815id_/http%3A//pragprog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227025000id_/http%3A//pragprog.com/privacy) for the most accurate reproduction.*
 
 # The Pragmatic Bookshelf | Our Commitment to Privacy
 
@@ -10,8 +10,8 @@ We are based in the United States. Our main business is publishing books, articl
 
 Organization Name: |  The Pragmatic Programmers, LLC  
 ---|---  
-Address:  |  P.O. Box 293325   
-  |  Lewisville, TX 75029-3325   
+Address:  |  2831 El Dorado Pkwy, #103-381   
+  |  Frisco, TX 75033  
   |  USA   
 Web Site:  |  www.pragprog.com   
   
