@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99bikes.com.au privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529134014id_/http%3A//99bikes.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99bikes.com.au privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227100125id_/http%3A//99bikes.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 99 Bikes
 
