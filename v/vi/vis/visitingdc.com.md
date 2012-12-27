@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitingdc.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626103546id_/http%3A//www.visitingdc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitingdc.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227105618id_/http%3A//www.visitingdc.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ VisitingDC.com strongly urges parents to monitor children's usage of the Web, in
 
 **Mailing Lists**
 
-We not collect mailing addresses or maintain a mailing list of our users. 
+We do not collect mailing addresses or maintain a mailing list of our users. 
 
 **Abuse/Inappropriate Communications** b>
 
