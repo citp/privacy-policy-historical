@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the dudelol.com privacy policy that was archived on 2012-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120626141252id_/http%3A//dudelol.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dudelol.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227105237id_/http%3A//www.dudelol.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en-US"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 <meta charset="UTF-8">
 <title>Privacy Policy | Dudelol</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
@@ -9,20 +9,20 @@
 <link rel="pingback" href="http://www.dudelol.com/xmlrpc.php">
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=102723583145699"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/jquery-1.7.2.min.js"></script>
 <script src="http://www.dudelol.com/wp-content/themes/dudelol/js/jquery.simplemodal.1.4.2.min.js"></script>
-<meta property="fb:admins" content="benjiballin,JohnRussell87">
+<meta property="fb:admins" content="BenjaminCraigAdams,JohnRussell87">
 <meta property="fb:app_id" content="102723583145699">
 <meta property="og:type" content="article">
+<link rel="stylesheet" id="jetpack-widgets-css" href="http://www.dudelol.com/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003" type="text/css" media="all">
 <script type="text/javascript" src="http://platform.twitter.com/anywhere.js?id=M8vX5xtTK8fAjLgwTZ26WA&amp;v=1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.dudelol.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.dudelol.com/wp-includes/wlwmanifest.xml">
 <link rel="prev" title="Submit Image" href="http://www.dudelol.com/submit/">
 <link rel="next" title="About" href="http://www.dudelol.com/about/">
-<meta name="generator" content="WordPress 3.4">
+<meta name="generator" content="WordPress 3.5">
 <link rel="canonical" href="http://www.dudelol.com/privacy/">
 <link rel="shortlink" href="http://wp.me/PyTbf-3IE">
   
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:type" content="article">
 <meta property="og:url" content="http://www.dudelol.com/privacy/">
 <meta property="og:image" content="http://dudelol.com/thumbs/privacy.jpg">
 <meta property="og:site_name" content="Dudelol">
@@ -33,12 +33,6 @@
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="http://www.dudelol.com/privacy/">
  
- 
-<script type="text/javascript" src="http://www.dudelol.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-jQuery.ajax({type:'GET',url:'http://www.dudelol.com/wp-admin/admin-ajax.php',data:'postviews_id=14300&action=postviews',cache:false});/* ]]> */
-</script>
  
 <script type="text/javascript">
 
@@ -61,16 +55,21 @@ $(document).ready(function () {
  nextPost=$('#thePrev a').attr('href');
     $(document).keydown(function(e) {
         var url = false;
-        if (e.which == 39) {  // Left arrow key code
+        if (e.which == 39) {  // right arrow key code
             url = $('#thePrev a').attr('href');
         }
-        else if (e.which == 37) {  // Right arrow key code
+        else if (e.which == 37) {  // left arrow key code
             url = $('#theNext a').attr('href');
         }
         if (url) {
             window.location = url;
         }
     });
+
+		$(".pics-wrapper img").click(function(){
+	 window.location = nextPost;
+	})
+	
 });
  </script></head>
 
@@ -83,25 +82,31 @@ $(document).ready(function () {
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=102723583145699";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<ul class="floatingmenuright">
+Did you try DudeLOL's new features?
+<br>
+<li><a target="_blank" href="/rage-comic-builder/">Rage Comic Builder </a></li>
+<li><a target="_blank" href="/meme-builder/">Meme Builder</a></li>
+</ul>
 <div id="pageWrap">
 <div class="header">
 <div class="container">
 <div class="logo">
 <a style="margin-top:15px;" href="/"><img src="/dudelol-logo.png" alt="Dudelol - We Know Funny Pictures!" title="Dudelol - We Know Funny Pictures!"></a>
 <script type="text/javascript">  
-				$(document).ready(function(){
+				// $(document).ready(function(){
 			
 			
-	$(".upload, .uploadLower,.uploadSidebar").click(function() {
+	// $(".upload, .uploadLower,.uploadSidebar").click(function() {
 	
-	$("#modalLogin").modal({
-	opacity:80,
-	overlayCss: {backgroundColor:"#000"}
-});
-	return false;
-	});
+	// $("#modalLogin").modal({
+	// opacity:80,
+	// overlayCss: {backgroundColor:"#000"}
+// });
+	// return false;
+	// });
 	
-	});
+	// });
 	
 	</script>
 </div>
@@ -116,10 +121,12 @@ $(document).ready(function () {
 <div id="newLink">
 <a href="/" title="New Posts Gaining Attention">Trending</a> | <a href="/month" title="Popular this Month">Month</a> | <a href="/new" title="New Posts">New</a>
 </div>
-<div id="loginreg"> LOGIN | REGISTER</div>
+<div id="loginreg" style="position:relative;top:-6px;"> <a href="/upload"><font size="-1">Upload</font></a></div>
 </div>
 </div>
 </div>
+</div>
+<div id="headerMsg" style="border-color:#00A5F0;"><a target="_blank" style="color:#E0AC0C;" href="http://troll.me">Troll MEME Generator is back online! Create MEME's now</a>
 </div>
 <div id="primary">
 <div id="content" role="main">
@@ -138,7 +145,7 @@ $(document).ready(function () {
 <p><strong>Changes to this Privacy Statement</strong><br>The contents of this statement may be altered at any time, at our discretion. </p>
 <p>If you have any questions regarding the privacy policy of Dude LOL then you may contact us at benjiballin@hotmail.com<script type="text/javascript">
 /* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementById("__cf_email__");a=l.className;if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
 /* ]]> */
 </script>
 </p><p>
@@ -163,196 +170,24 @@ $(document).ready(function () {
 </div>
 </div>
 
-<div id="modalLogin" class="modalWindow">
-<div id="registerArea">
-<h1>Register</h1>
-<div id="result"></div>  
-<form id="wp_signup_form" action="" method="post">
-<label>Username</label>
-<input type="text" name="username" class="text username" value="">
-<label>Email address</label>
-<input type="text" name="email" class="text" value="">
-<label>Password</label>
-<input type="password" name="pass1" class="pass1" value="">
-<label>Password again</label>
-<input type="password" name="pass2" class="pass2" value="">
-<br>
-<input type="submit" id="submitbtn" name="submit" value="SignUp">
-</form>
-<script type="text/javascript">  		
-//from http://www.tutorialstag.com/create-custom-wordpress-registration-page.html		
-		$("#submitbtn").click(function() {
-		
- 
-		$('#result').html('<img src="http://www.dudelol.com/wp-content/themes/dudelol/images/loader.gif" height="22" width="22" class="loader" />').fadeIn();
-		var input_data = $('#wp_signup_form').serialize();
-	
-		$.ajax({
-		type: "POST",
-		//url:  "http://www.dudelol.com/privacy/",
-		url:  "http://www.dudelol.com/register",
-		data: input_data,
-		success: function(msg){
-		$('.loader').remove();
-		$('<div>').html('<font color="red">' + msg +'</font>').appendTo('div#result').hide().fadeIn('slow');
-		
-        var tehResult=msg.indexOf("success");
-		if( tehResult> -1)
-		{
-		
-		$('#user_login').val($('.username').val());
-		$('#user_pass').val($('.pass1').val());
-	
-
-		
-		$('#registerArea').html('<h1>Register</h1><div id="thanks"><br />hit the login button -></div>');
-		}
-		}
-		});
-		return false;
- 
-		});
-		</script>
-</div>
-<div id="loginArea">
-<h1>Login</h1>
-<form name="loginform" id="loginform" action="/wp-login.php" method="post">
-<p>
-<label>Username<br>
-<input type="text" name="log" id="user_login" class="input" value=""></label>
-</p>
-<p>
-<label>Password<br>
-<input type="password" name="pwd" id="user_pass" class="input" value=""></label>
-</p>
-<p class="forgetmenot"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever"></label></p><div style="float:left;margin-left:5px;position:relative;top:-1px;"> Remember me </div> <p></p>
-<div class="clear"></div>
-<p class="submit">
-<input type="submit" name="wp-submit" id="wp-submit" value="Log In" tabindex="100">
-<input type="hidden" name="redirect_to" value="http://www.dudelol.com/privacy/">
-<input type="hidden" name="testcookie" value="1">
-</p>
-</form>
-<div id="forgetPW">Forgot?</div>
-<div id="tab3_login" class="tab_content_login">
-<form method="post" action="http://www.dudelol.com/wp-login.php?action=lostpassword" class="wp-user-form">
-<div class="username">
-<label for="user_login" class="hide">Username or Email: </label>
-<input type="text" name="user_login" value="" size="20" id="user_login" tabindex="1001">
-</div>
-<div class="login_fields">
-<input type="submit" name="user-submit" value="Reset my password" class="user-submit" tabindex="1002">
-<input type="hidden" name="redirect_to" value="/privacy/?reset=true">
-<input type="hidden" name="user-cookie" value="1">
-</div>
-</form>
-</div>
-</div>
-</div>
-<div id="modalSubmit" class="modalWindow">
-<h1>Submit a pic</h1>
-<div class="uploadInfo">*No nudity or explicit material please!</div>
-<div id="resultSubmit"></div>  
-<form id="wp_submit_form" action="/upload" method="post" enctype="multipart/form-data">
-<div class="clear"> </div>
-<label>Title <span style="color:grey;font-size:10px;margin-left:100px;">Please give this image a descriptive title</span></label>
-<input type="text" name="title" id="title" size="55" class="title" value="">
-<label>Source <span style="color:grey;font-size:10px;margin-left:70px;">Did this image come from another website?</span></label>
-<input type="text" name="source" id="source" size="55" class="source" value="">
-<div class="uploadImgURL">
-<label>Image URL <span style="color:grey;font-size:10px;margin-left:125px;">Supported: .jpg, .png, .gif</span></label>
-<input type="text" name="image" id="image" size="55" class="image" value="">
-<div class="uploadInfo changeURL">Upload from a file on my computer instead</div>
-</div>
-<div class="uploadImgFile">
-<label style="float:left">upload picture </label>
-<div class="clear"> </div>
-<input type="file" name="imagefile" id="imagefile" size="45" class="image" value="">
-<div class="uploadInfo changeFile">Upload from an image URL instead</div>
-</div>
-<br><br>
-<input type="submit" id="submitPicbtn" name="submit" value="Submit">
-</form>
-</div>
-<script type="text/javascript">  
-				$(document).ready(function(){
-				
-$(".uploadImgURL").hide();
-
-  $(".changeURL").click(function() {
- 
-    $(".image").val('');
-  $(".uploadImgFile").show();
-    $(".uploadImgURL").hide();
-  }); 
-  
-  $(".changeFile").click(function() { 
-  
-  $(".image").val('');
-  
-  $(".uploadImgFile").hide();
-    $(".uploadImgURL").show();
-  });
-			
-			
-	$("#loginreg").click(function() {
-	
-	$("#modalLogin").modal({
-	opacity:80,
-	overlayCss: {backgroundColor:"#000"}
-});
-	return false;
-	});
-	
-	
-		$("#settings").click(function() {
-	
-	$("#modalSettings").modal({
-	opacity:80,
-	overlayCss: {backgroundColor:"#000"}
-});
-	return false;
-	});
-	
-	
-
-	
-	
-$("#tab3_login").hide();
-  $(function() {$("#forgetPW").click(function() { 
-  
-  $("#tab3_login").show();
-  }); });	
-  
-  
-
-
-
-
-});
-
-
-
-
-
-	
-	</script>
-<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?aa&amp;ver=3.4"></script>
+ <script type="text/javascript" src="http://www.dudelol.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2012Decaa"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.dudelol.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.4"></script>
+<script type="text/javascript" src="http://www.dudelol.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.5"></script>
 <div style="display:none">
 </div>
-<script src="http://stats.wordpress.com/e-201226.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201252"></script>
+<script src="http://stats.wordpress.com/e-201252.js" type="text/javascript"></script>
 <script type="text/javascript">
-	st_go({v:'ext',j:'1:1.3.4',blog:'8315269',post:'14300'});
+	st_go({v:'ext',j:'1:1.8.2',blog:'8315269',post:'14300'});
 	var load_cmc = function(){linktracker_init(8315269,14300,2);};
 	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 	else load_cmc();
 	</script> 
  
 
- </body></html>
+  </body></html>
