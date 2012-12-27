@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524175717id_/http%3A//m.theglobeandmail.com/privacy-policy/%3Fservice%3Dmobile) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeinvestor.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227234923id_/http%3A//www.theglobeandmail.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Globe and Mail
 
-### The Globe and Mail Inc. ("Globe")
+## The Globe and Mail Inc. ("Globe")
 
-## Globe Privacy Code
-
-**_Most recently amended January 1, 2011._**
+**_Most recently amended March 13, 2012._**
 
 ### _Scope And Application Of The Globe Privacy Code:_
 
@@ -25,19 +23,19 @@ The application of the Globe Privacy Code is subject to the requirements or prov
 
 _**Exclusions from privacy protection:**_ The Globe Privacy Code does not impose any limits on the collection, use or disclosure of the following information by a Globe Company: a) information that is publicly available, such as a Person's name, address, telephone number and electronic address, when listed in a directory or made available through directory assistance; b) business-contact information, such as the name, title or business address or telephone number of an employee of an organization; c) information collected, used or disclosed in the course of journalistic, literary or artistic activities; or d) aggregate information that cannot be associated with a specific person, such as demographic statistics about Globe customers, or number of visitors and average time spent on a website.
 
-### _Purposes for Collection of Personal Information:_
+#### _Purposes for Collection of Personal Information:_
 
 Globe has collected and collects Personal Information for the following purposes: a) to establish and maintain responsible commercial relations with Individuals and to provide ongoing service; b) to understand Individual needs; c) to develop, enhance, market or provide products and services; d) to manage and develop its business and operations, including personnel and employment matters; and e) to meet legal or regulatory requirements, including to protect or defend a legal interest, and in connection with an actual or possible Globe corporate re-organization, merger or amalgamation with another entity, or an actual or possible sale of all or a substantial portion of the assets of Globe, provided that the Personal Information disclosed continues to be used by the entity acquiring the information either for evaluation of the possible transaction, or, on completion of any such transaction, for the purposes permitted by this Privacy Policy.
 
 As examples of the above:
 
-> i) Globe may from time to time use a Person's Personal Information to contact the Person about changes, enhancements or similar notices related to Globe products and services;
+  1. Globe may from time to time use a Person's Personal Information to contact the Person about changes, enhancements or similar notices related to Globe products and services;
+  2. if a Person indicated that he/she was interested in receiving offers or information from Globe or certain of our selected sponsors or advertisers, Globe may send the Person materials about products and services that Globe feels may be of interest to the Person; and
+  3. if a Person enters a contest or other promotion offered on a Globe website, Globe may, under the rules of the promotion, use the Person's name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion.
 
-> ii) if a Person indicated that he/she was interested in receiving offers or information from Globe or certain of our selected sponsors or advertisers, Globe may send the Person materials about products and services that Globe feels may be of interest to the Person; and
 
-> iii) if a Person enters a contest or other promotion offered on a Globe website, Globe may, under the rules of the promotion, use the Person's name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion.
 
-### _Obtaining Consent:_
+#### _Obtaining Consent:_
 
 Globe will make a reasonable effort to make sure Persons understand how their Personal Information will be used by Globe. Globe will obtain consent from Persons before or when it collects or uses the Personal Information. Globe will not attempt to deceive Persons into giving consent.
 
@@ -45,15 +43,16 @@ A Person's consent can be express, implied, or given through an authorized repre
 
 _Note_ : If any Person at any time has any questions or concerns about Globe's privacy practices, the Person can either:
 
-> i) write to Customer Service - Privacy, The Globe and Mail, 444 Front St. West, Toronto, ON, M5V 2S9; or
+  1. write to Customer Service - Privacy, The Globe and Mail, 444 Front St. West, Toronto, ON, M5V 2S9; or
+  2. provide information to Globe [ by sending an email with your inquiry (click here)](mailto:sgaudi@globeandmail.com?cc=jsheppard@globeandmail.com&subject=Privacy%20Inquiry).
 
-> ii) provide information to Globe [ by sending an email with your inquiry (click here)](mailto:comments@globeandmail.ca?cc=globenewsweb@globeandmail.ca&subject=Privacy%20Inquiry).
 
-### _Refusing or withdrawing Consent:_
+
+#### _Refusing or withdrawing Consent:_
 
 Subject to legal and contractual requirements, a Person can refuse to consent to Globe's collection, use or disclosure of Personal Information about the Person, or a Person may withdraw the Person's consent to Globe's further collection, use or disclosure of Personal Information at any time in the future by giving Globe reasonable notice, unless: i) the consent relates to certain information required for credit approval which a Person applies for or accepts, ii) the consent is otherwise required by law or iii) the use or disclosure is permitted by law or is related to the legal or regulatory requirements described herein. If a Person refuses or withdraws the Person's consent, Globe may not be able to provide the Person or continue to provide the Person with some products, services or information which may be of value to the Person.
 
-### _Internet Aspects:_
+#### _Internet Aspects:_
 
 Personal Information may be collected by Globe or third-party service providers on Globe's behalf. Although information collected, used or disclosed on the Internet as described below often does not constitute Personal Information (and to the extent that such is the case, then the obligations under the Globe Privacy Code do not extend to such information), Globe provides the details below about Internet aspects of Globe Companies Services for the purposes of disclosure about Globe Companies Services.
 
@@ -75,11 +74,11 @@ Globe Companies may use cookies to:
 
   * improve the operation and performance of the Globe Companies Services and to make Globe Companies Services easier and more convenient to use. For example, cookies help Globe Companies provide more personalized services by recalling user preferences on subsequent visits (e.g. language preference). Cookies also allow Globe Companies to save passwords and preferences for a user so that the user will not have to re-enter them on the next visit to a Globe Companies Site;
   * measure aggregate user traffic and demographic statistics related to Globe Companies Services and advertisements (e.g. number of users, average time spent, average age and similar statistics). This information helps Globe Companies to better understand when to update, change or offer new services and provides Globe Companies with details as to the performance of Third Party advertisements and content. This information may be reported, in aggregate form only, to Globe Companies' current and prospective sponsors, advertisers and business partners. No Personal Information will be disclosed in such reports;
-  * display advertisements. Globe Companies and Third Party advertising providers may use cookies when serving advertisements on Globe Companies Sites. In some cases, advertisements from Third Party advertisers are delivered to users (in conjunction with Globe Companies Services) by such Third Party advertisers, or by separately contracted advertising providers on their behalf, and not by Globe Companies; as such, the Third-party advertisers' use of cookies is subject to their own privacy policies, not the Globe Privacy Code, and users should consult the privacy policies of such Third Party advertisers.
+  * display advertisements. Globe Companies and Third Party advertising providers may use cookies when serving advertisements on Globe Companies Sites. Anonymous data based on cookies and user IP Addresses may be used to deliver advertisements that are likely to be of interest to the applicable users ("Interest-based Advertising"). In some cases, advertisements from Third Party advertisers are delivered to users (in conjunction with Globe Companies Services) by such Third Party advertisers, or by separately contracted advertising providers on their behalf, and not by Globe Companies; as such, the Third-party advertisers' use of cookies is subject to their own privacy policies, not the Globe Privacy Code, and users should consult the privacy policies of such Third Party advertisers.
 
 
 
-Most browsers are initially set up to accept cookies. If a user prefers, the user can reset his/her browser either to notify the user when the user has received a cookie, or to refuse to accept cookies. The user should understand that while Globe Companies do not require a user to use cookies, certain Globe Companies Services will not function properly if a user sets his/her browser to not accept cookies.
+Most browsers are initially set up to accept cookies. If a user prefers, the user can reset his/her browser either to notify the user when the user has received a cookie, or to refuse to accept cookies. The user should understand that while Globe Companies do not require a user to use cookies, certain Globe Companies Services will not function properly if a user sets his/her browser to not accept cookies. To opt-out of Interest Based advertising by AppNexus Inc., a Third Party provider of services to The Globe, [click here](http://appnexus.com/platform-policy#choices).
 
 _Web Beacons_  
 Certain Globe Companies Services may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow Globe Companies to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access Personal Information; they are a technique used to compile aggregated statistics about Globe Companies service usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Certain Globe Companies Services web pages may also contain Web beacons placed there by Globe Companies' advertising partners to help Globe Companies determine the effectiveness of Globe Companies' Internet advertising campaigns.
@@ -94,9 +93,9 @@ Globe Companies automatically collect certain information about the user's compu
 
 Certain Globe Companies Services may be co-branded and offered in conjunction with another company. If a user registers for or uses such services, both Globe Companies and the other company may receive information collected in conjunction with the co-branded services.
 
-## The Globe Privacy Code in Detail
+### The Globe Privacy Code in Detail
 
-### _Definitions_
+#### _Definitions_
 
 **Globe Companies** \- all companies providing communications services under The Globe and Mail Inc. including its subsidiaries, and any successor company or companies thereof, as a result of corporate reorganization or restructuring.
 
@@ -119,7 +118,7 @@ Certain Globe Companies Services may be co-branded and offered in conjunction wi
 
 **Use** \- the treatment, handling, and management of Personal Information by the Globe Companies.
 
-### _Principle 1 - Accountability_
+#### _Principle 1 - Accountability_
 
 _Globe is responsible for Personal Information under its control and shall designate one or more persons who are accountable for Globe's compliance with the following principles._
 
@@ -131,7 +130,7 @@ _Globe is responsible for Personal Information under its control and shall desig
 
 1.4 Globe has implemented policies and procedures to give effect to the Globe Privacy Code, including: a) implementing procedures to protect Personal Information and to oversee Globe's compliance with the Globe Privacy Code; b) establishing procedures to receive and respond to inquiries or complaints; c) training and communicating to staff about Globe's policies and practices; and d) developing public information to explain Globe's policies and practices.
 
-### _Principle 2 - Identifying Purposes for Collection of Personal Information_
+#### _Principle 2 - Identifying Purposes for Collection of Personal Information_
 
 _Globe has collected and collects Personal Information for the purposes set out below, and shall identify the purposes for which Personal Information is collected at or before the time the information is collected._
 
@@ -139,11 +138,11 @@ _Globe has collected and collects Personal Information for the purposes set out 
 
 As examples of the above:
 
-> i) Globe may from time to time use a Person's Personal Information to contact the Person about changes, enhancements or similar notices related to Globe products and services;
+  1. Globe may from time to time use a Person's Personal Information to contact the Person about changes, enhancements or similar notices related to Globe products and services;
+  2. if a Person indicated that he/she was interested in receiving offers or information from Globe or certain of our selected sponsors or advertisers, Globe may send the Person materials about products and services that Globe feels may be of interest to the Person; and
+  3. if a Person enters a contest or other promotion offered on a Globe website, Globe may, under the rules of the promotion, use the Person's name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion.
 
-> ii) if a Person indicated that he/she was interested in receiving offers or information from Globe or certain of our selected sponsors or advertisers, Globe may send the Person materials about products and services that Globe feels may be of interest to the Person; and
 
-> iii) if a Person enters a contest or other promotion offered on a Globe website, Globe may, under the rules of the promotion, use the Person's name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion.
 
 Further references to "identified purposes" mean the purposes identified in this Principle 2.
 
@@ -151,7 +150,7 @@ Further references to "identified purposes" mean the purposes identified in this
 
 2.3 Unless required by law, Globe shall not use or disclose, for any new purpose, Personal Information that has been collected without first identifying the new purpose and obtaining the consent of the Person.
 
-### _Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information_
+#### _Principle 3 - Obtaining Consent for Collection, Use or Disclosure of Personal Information_
 
 _The knowledge and consent of a Person are required for the collection, use or disclosure of Personal Information, except where inappropriate._
 
@@ -177,7 +176,7 @@ Globe may disclose Personal Information without knowledge or consent to collect 
 
 The Globe, its outside suppliers and other third parties to whom we disclose information under this policy may perform activities outside of Canada. As a result, your information may be securely used, stored or accessed in other countries and may be subject to the laws of those countries. For example, information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in these countries.
 
-### _Principle 4 - Limiting Collection of Personal Information_
+#### _Principle 4 - Limiting Collection of Personal Information_
 
 _Globe shall limit the collection of Personal Information to that which is necessary for the purposes identified by Globe._
 
@@ -187,7 +186,7 @@ _Globe shall collect Personal Information by fair and lawful means._
 
 4.2 Globe may also collect Personal Information from other sources including credit bureaus, employers or personal references, or other third parties that represent that they have the right to disclose the information.
 
-### _Principle 5 - Limiting Use, Disclosure and Retention of Personal Information_
+#### _Principle 5 - Limiting Use, Disclosure and Retention of Personal Information_
 
 _Globe shall not use or disclose Personal Information for purposes other than those for which it was collected, except with the consent of the Person or as required by law. Globe shall retain Personal Information only as long as necessary for the fulfillment of the purposes for which it was collected._
 
@@ -203,7 +202,7 @@ _Globe shall not use or disclose Personal Information for purposes other than th
 
 5.6 Globe shall maintain reasonable and systematic controls, schedules and practices for information and records retention and destruction which apply to Personal Information that is no longer necessary or relevant for the identified purposes or required by law to be retained. Such information shall be destroyed, erased or made anonymous.
 
-### _Principle 6 - Accuracy of Personal Information_
+#### _Principle 6 - Accuracy of Personal Information_
 
 _Personal Information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used._
 
@@ -211,7 +210,7 @@ _Personal Information shall be as accurate, complete and up-to-date as is necess
 
 6.2 Globe shall update Personal Information about Persons as and when necessary to fulfill the identified purposes or upon notification by the Person.
 
-### _Principle 7 - Security Safeguards_
+#### _Principle 7 - Security Safeguards_
 
 _Globe shall protect Personal Information by security safeguards appropriate to the sensitivity of the information._
 
@@ -221,7 +220,7 @@ _Globe shall protect Personal Information by security safeguards appropriate to 
 
 7.3 All employees of Globe with access to Personal Information shall be required as a condition of employment to respect the confidentiality of Personal Information.
 
-### _Principle 8 - Openness Concerning Policies and Practices_
+#### _Principle 8 - Openness Concerning Policies and Practices_
 
 _Globe shall make readily available to Persons specific information about its policies and practices relating to the management of Personal Information._
 
@@ -229,7 +228,7 @@ _Globe shall make readily available to Persons specific information about its po
 
 8.2 Globe shall make available information to help Persons exercise choices regarding the use of their Personal Information.
 
-### _Principle 9 - Access to Personal Information_
+#### _Principle 9 - Access to Personal Information_
 
 _Globe shall inform a Person of the existence, use and disclosure of his or her Personal Information upon request and shall give the Person access to that information._
 
@@ -249,15 +248,16 @@ _A Person shall be able to challenge the accuracy and completeness of the Person
 
 9.7 An employee can obtain information or seek access to his or her Personal Information by contacting his or her immediate supervisor within Globe.
 
-### _Principle 10 - Challenging Compliance_
+#### _Principle 10 - Challenging Compliance_
 
 _A Person shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for the compliance of Globe with the Globe Privacy Code._
 
 10.1 Globe shall maintain procedures for addressing and responding to all inquiries or complaints from Persons about Globe's handling of their Personal Information. If any Person at any time has any questions or concerns about Globe's privacy practices, the Person can either:
 
-> i) write to Customer Service - Privacy, The Globe and Mail, 444 Front St. West, Toronto, ON, M5V 2S9; or
+  1. write to Customer Service - Privacy, The Globe and Mail, 444 Front St. West, Toronto, ON, M5V 2S9; or
+  2. provide information to Globe [ by sending an email with your inquiry (click here)](mailto:sgaudi@globeandmail.com?cc=jsheppard@globeandmail.ca&subject=Privacy%20Inquiry).
 
-> ii) provide information to Globe [ by sending an email with your inquiry (click here)](mailto:comments@globeandmail.ca?cc=globenewsweb@globeandmail.ca&subject=Privacy%20Inquiry).
+
 
 10.2 Globe shall inform Persons about the existence of these procedures as well as the availability of complaint procedures.
 
