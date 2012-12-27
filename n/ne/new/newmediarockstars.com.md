@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newmediarockstars.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514024128id_/http%3A//newmediarockstars.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newmediarockstars.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227093834id_/http%3A//newmediarockstars.com/private-policy) for the most accurate reproduction.*
 
-# Privacy Policy | New Media Blog | Social Media Entertainment News Blog
+# Privacy Policy
 
 Protecting your private information is our priority. This Statement of Privacy applies to the NewMediaRockstars.com and NewMediaRockstars, INC. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to NewMediaRockstars, INC. include NewMediaRockstars.com and NMR. The NMR website is a Blog, News, and Entertainment site. By using the NMR website, you consent to the data practices described in this statement.
 
@@ -19,6 +19,8 @@ Information about your computer hardware and software may be automatically colle
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through NMR’s public message boards, this information may be collected and used by others.
 
 NMR encourages you to review the privacy statements of websites you choose to link to from NMR so that you can understand how those websites collect, use and share your information. NMR is not responsible for the privacy statements or other content on websites outside of the NMR website.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ##### Use of your Personal Information
 
