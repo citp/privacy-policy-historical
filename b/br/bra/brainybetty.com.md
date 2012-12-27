@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the brainybetty.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503215804id_/http%3A//www.brainybetty.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainybetty.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227090313id_/http%3A//www.brainybetty.com/privacy.htm) for the most accurate reproduction.*
 
-# Brainy Betty Privacy Policy
-
-|  | 
+# Privacy Policy for this site
 
 > **PRIVACY POLICY**
 > 
-> This privacy policy was last updated on 03/20/2012. 
+> This privacy policy was last updated on 10/14/2010. 
 > 
 > Brainy Betty, Inc.,  and its  other web holdings (collectively referred to as ""we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using our respective web sites. This Privacy Policy describes how we treat personal information received about you when you visit the Brainy Betty, Inc. Web Sites. 
 > 
@@ -66,7 +64,6 @@
 > 
 > Thank you for your trust in our company. We will work diligently to ensure that we maintain that trust.
 > 
-> Nan Shastry, CEO - [Brainy Betty, Inc.](https://web.archive.org/web/20120503215804id_/http%3A//www.brainybetty.com/default.htm)  
+> Nan Shastry, CEO - [Brainy Betty, Inc.](https://web.archive.org/web/20121227090313id_/http%3A//www.brainybetty.com/default.htm)  
   
----  
  
