@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funeral.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622013852id_/http%3A//funeral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funeral.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227191055id_/http%3A//funeral.com/privacy-policy) for the most accurate reproduction.*
 
-# Funeral.com Privacy Policy » Funeral.com
+# Funeral.com – Obituaries · Death Notices » Privacy Policy
 
 At [funeral.com](http://funeral.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [funeral.com](http://funeral.com/) and how it is used.
 
