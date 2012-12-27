@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elementool.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510183329id_/http%3A//www.elementool.com/newaccount/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementool.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227144727id_/http%3A//www.elementool.com/newaccount/Privacy.html) for the most accurate reproduction.*
 
 # Elementool — Privacy
 
