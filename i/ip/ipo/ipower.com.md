@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipower.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621221127id_/http%3A//www.ipower.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipower.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227205701id_/http%3A//www.ipower.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # IPOWER's Privacy Policy
 
@@ -62,7 +62,7 @@ To ensure you receive the information you need to manage your account and protec
 
   
 
-  17. **Where to Direct Questions About IPOWER's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, IPOWER, Inc., 919 East Jefferson St, Phoenix, AZ 85034 or support@ipower-inc.com.
+  17. **Where to Direct Questions About IPOWER's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, IPOWER, Inc., 10 Corporate Dr. Suite 300, Burlington, MA 01803 or support@ipower-inc.com.
   
 
   18. **Unsubscribe**
@@ -80,4 +80,4 @@ Please note: IPOWER reserves the right to send you email communications that rel
 
 
 
-This file was last modified May 3, 2012. [View comparison version.](https://web.archive.org/web/20120621221127id_/http%3A//www.ipower.com/legal/legal_privacy.bml?showchanges=1)
+This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20121227205701id_/http%3A//www.ipower.com/legal/legal_privacy.bml?showchanges=1)
