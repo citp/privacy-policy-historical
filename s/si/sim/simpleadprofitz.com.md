@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simpleadprofitz.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527012358id_/http%3A//simpleadprofitz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleadprofitz.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227182513id_/http%3A//simpleadprofitz.com/privacy.php) for the most accurate reproduction.*
 
-# Simple Ad Profitz! Viral Traffic Exchange | Free Advertising Free Traffic
+# Simple Ad Profitz! Free Traffic Exchange | Free Advertising Free Web Traffic
 
 Simple Ad Profitz Privacy Policy
 
@@ -38,5 +38,7 @@ Links: This web site contains links to other web sites. Please note that when yo
 
 Copyright (c) Simple Ad Profitz All Rights Reserved 
 
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ _Recommended Site of The Day_](http://simpleadprofitz.com/recommends.php)   
+[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ _Recommended Site of The Day_](https://web.archive.org/recommends.php) | [Founding Members](https://web.archive.org/founders.php)
+
+  
 
