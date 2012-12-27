@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tapit.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220046id_/http%3A//tapit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapit.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227151427id_/http%3A//tapit.com/privacy-policy) for the most accurate reproduction.*
 
-# TapIt!™ | Mobile Advertising | Privacy PolicyTapIt!™ | TapIt!™
+# Privacy Policy
 
 **TapIt! Media Group, Inc**
 
@@ -57,10 +57,6 @@ In the event that another company acquires all or substantially all of the asset
 **Changes to the Privacy Policy**
 
 We reserve the right to make changes to this Privacy Policy by posting an updated version of this page.  The date on which the current Privacy Policy was posted will always be noted at the top of this page.  Any change we make to our Privacy Policy will be made in compliance with applicable law.
-
-**Publisher Agreement**
-
-To read our Publisher Agreement [click here](http://tapit.com/publisher-agreement "Publisher Agreement")
 
 **Contact Us**
 
