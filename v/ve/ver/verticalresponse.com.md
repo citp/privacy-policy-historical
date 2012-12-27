@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626095553id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalresponse.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227115247id_/http%3A//www.verticalresponse.com/about/privacy_tos.html) for the most accurate reproduction.*
 
 # Privacy Statement | VerticalResponse
 
@@ -48,7 +48,7 @@ We post customer testimonials on our web site which may contain personally ident
 
 ### Public Forums:
 
-Our website offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@vertcalresponse.com](mailto:info@vertcalresponse.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our website offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at info@vertcalresponse.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 #### Tell-A-Friend
 
@@ -78,7 +78,7 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 
 #### Advertising
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (Link to TRUSTe global opt-out: <http://preferences.truste.com/>). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (Link to TRUSTe global opt-out: http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ### Log Files
 
@@ -106,7 +106,7 @@ We will retain your information for as long as your account is active or as need
 
 Finally, the physical servers that we store personally identifiable information on are kept in a secure collocation facility, within locked cages that only VerticalResponse network administrators have access to. This facility provides security 24 hours a day, 365 days a year and guaranties our servers against power outages by using automated backup power systems.
 
-If you have any questions about the security at our website, you can send an email to [info@verticalresponse.com](mailto:info@verticalresponse.com).
+If you have any questions about the security at our website, you can send an email to info@verticalresponse.com.
 
 ### Special Offers
 
