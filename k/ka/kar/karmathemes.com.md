@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karmathemes.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615191941id_/http%3A//www.karmathemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmathemes.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227161158id_/http%3A//www.karmathemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KarmaThemes
 
