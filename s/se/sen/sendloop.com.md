@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620005759id_/http%3A//sendloop.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227183954id_/http%3A//sendloop.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sendloop
 
@@ -50,11 +50,6 @@ We may change this Privacy Policy from time to time. If/when Sendloop makes chan
 
 ## Contacting Sendloop about Privacy
 
-If you have any questions about our privacy statement, the information we have collected from you online, the practices of this site, or your dealings with this web site, please contact us:
+If you have any questions about our privacy statement, the information we have collected from you online, the practices of this site, or your dealings with this web site, please send an email to legal@sendloop.com
 
-Address:  
-Oktet Ltd.  
-Gencler Cad. Ozdes Apt. 36/5 Bakirkoy Istanbul 34147 Turkey
-
-Tel: +90 (212) 570 69 05  
 E-mail: [privacy@sendloop.com](mailto:privacy@sendloop.com)
