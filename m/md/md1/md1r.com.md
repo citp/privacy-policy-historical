@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the md1r.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514005115id_/http%3A//md1r.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the md1r.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227011843id_/http%3A//md1r.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
