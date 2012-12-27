@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dirmania.org privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314031340id_/http%3A//www.dirmania.org/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirmania.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227123554id_/http%3A//dirmania.org/ppolicy.html) for the most accurate reproduction.*
 
-# - Privacy Policy Web directory - DirMania directories
+# DirMania Business Web directory - Privacy Policy
 
 Privacy Policy for http://www.dirmania.org 
 
