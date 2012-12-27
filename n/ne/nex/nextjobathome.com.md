@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextjobathome.com privacy policy that was archived on 2012-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120420184956id_/http%3A//www.nextjobathome.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextjobathome.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227034145id_/http%3A//nextjobathome.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Next Job At Home Privacy Policy
 
@@ -6,15 +6,11 @@ This Privacy Policy describes information that we, NGM may collect from you as p
 
 **Your Privacy is Important to Us**
 
-Our Privacy Policy explains what information we obtain on the Site and how we use the information you disclose to us, including how we may provide your information to our Third Party Partners who have expressed a willingness to provide you with the products and services advertised on this Site.
+Our Privacy Policy explains what information we obtain on the Site and how we use the information you disclose to us.
 
 **Who We Are**
 
 We are an online news reporting service that introduces persons such as yourself to Third Parties who have expressed a general willingness to review your information and determine if they are willing to provide you with the services or products that prompted you to visit our Site.
-
-**Sharing your Information**
-
-WE MAY USE INFORMATION THAT WE HAVE COLLECTED FOR ANY PURPOSE; INCLUDING SELLING OR TRANSFERRING SUCH INFORMATION AT ANY TIME TO THIRD PARTIES FOR ANY PURPOSE. For example, we may share your personal information with Third Parties so that they can contact you and offer you products and/or services that we and they believe might be of interest to you. This may not be limited to but may include email advertising, telephone marketing, direct mail marketing, online banner advertising, and via third party form submission to other service websites. You are under no obligation to accept any service or product offered by any Third Party. In addition, we may maintain separate email, mailing or phone lists for different purposes based on the information that you submitted. Further, the Third Party may independently send further communications to you, in which case you will need to contact the Third Party directly if you wish to unsubscribe from future communications from such Third Parties. Please Note: submission of your telephone number(s) and a best time to be called is your authorization and request to be called at the telephone number(s) you provide.
 
 **Modification of Service and Termination / Unsubscribing (Opting Out)**
 
