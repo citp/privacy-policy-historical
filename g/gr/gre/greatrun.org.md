@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatrun.org privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525080432id_/http%3A//www.greatrun.org/Terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatrun.org privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227141733id_/http%3A//greatrun.org/Terms/Privacy.aspx) for the most accurate reproduction.*
 
-# Great Run Privacy Policy
+# Great Run Privacy and Cookie Policy
 
 ###  1\. INTRODUCTION
 
@@ -43,11 +43,272 @@ Back to the top
 
 ###  3\. OUR USE OF COOKIES AND OTHER INFORMATION GATHERING TECHNOLOGIES
 
-3.1 We may use information tracking and gathering technologies that record and store information about users of the Websites automatically. This can include using a "cookie" which would be stored on your browser. This information does not identify you personally.
+**3.1 About Cookies**
 
-3.2 We use this information to help us identify click stream patterns, to improve our Websites and to learn about the number of visitors to our Websites and the types of technology our visitors use.
+3.1.1 Cookies are small (4Kb) text files that are placed on your computer or device by websites that you visit. Cookies allow a website to ‘remember’ you either for the duration of your visit – session cookies – or between visits – persistent cookies. Cookies, therefore, can expire at the end of session or can persist for days, months or even years. The persistence of a cookie is under the control of the website that sets it.
 
-3.3 You may adjust your computer's settings to block cookies, or to accept them only on confirmation from you.
+3.1.2 Cookies can be used for many purposes but typically are used to remember who you are between pages on a website or for storing your preferences and generally improving your experience of a website.
+
+3.1.3 Cookies can be set by the website you are visiting – first party cookies – or by other websites that are using another website to host content – third-party cookies. If a website embedded, say, a YouTube video, YouTube may well set a cookie when the video is viewed, this would be a ‘third-party’ cookie.
+
+**3.2 Managing cookies**
+
+3.2.1 Most web browsers allow at least a degree of control over cookies through their settings. You can opt to receive an alert whenever a cookie is set or even to disallow the setting of cookies altogether. You can also delete all existing cookies. 
+
+3.2.2 For information about how to manage or delete cookies for you particular browser, please refer to the browser’s documentation, Alternatively, you can visit [www.aboutcookies.org](http://www.aboutcookies.org/), which has comprehensive information on how to manage cookies on a wide variety of desktop browsers. 
+
+3.2.3 Note, many websites use Adobe Flash Player to deliver video content to their users. Adobe utilise their own cookies, which are not manageable through your browser settings. The cookies are used by the Flash Player for various purposes, such as storing preferences or tracking users.
+
+**3.3 Use of Cookies on the Great Run Website**
+
+3.3.1 Recent legislation (The Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended in 2011) requires websites based in the EU to:
+
+  * Inform visitors about the purpose of cookies that the website sets
+  * Obtain consent before setting cookies
+
+
+
+**3.4 The Purpose of Great Run Cookies**
+
+3.4.1 In accordance with the legislation, the table below lists the cookies that are set on the Great Run website.
+
+**Name**
+
+| 
+
+**Expiry**
+
+| 
+
+**Details**
+
+| 
+
+**Third-party**
+
+| 
+
+**Purpose**  
+  
+---|---|---|---|---  
+  
+GreatRunLinkCookie
+
+| 
+
+1 Day
+
+| 
+
+Tracking cookie used within emails and photo pages
+
+|  | 
+
+Used to track the number of event registrations originating from a defined marketing source. The information provided allows us to tailor the content and target our communications more effectively.  
+  
+.GRASPXAUTH
+
+| 
+
+Session
+
+| 
+
+Authentication Token for Login area
+
+|  | 
+
+This cookie is essential for the operation of the website  
+  
+ASP.Net_SessionId
+
+| 
+
+Session
+
+| 
+
+Issued by ASP.NET. Contains the user's session ID
+
+|  | 
+
+This cookie is essential for the operation of the website. Visit Microsoft’s website for detailed information - <http://support.microsoft.com/kb/899918>  
+  
+pysid
+
+| 
+
+1 Day
+
+| 
+
+Session ID for a user
+
+| 
+
+Marathon Photos
+
+| 
+
+Used to store a customer's order. Allows a customer to visit the site, close their browser and then return (within 24 hours) and continue their order. Visit Marathon Photos’ website for details of their privacy policy - [http://www.marathon-photos.com](http://www.marathon-photos.com/)  
+  
+lang
+
+| 
+
+Permanent
+
+| 
+
+Preferred language for the user
+
+| 
+
+Marathon Photos
+
+| 
+
+Allows a visitor to permanently override our browser language detection code to suit their preference. The cookie avoids the need for visitors to set their preferred language each time the site is visited if it conflicts with the default language of their browser. Visit Marathon Photos’ website for details of their privacy policy - [http://www.marathon-photos.com](http://www.marathon-photos.com/)  
+  
+magazine_cover
+
+| 
+
+1 Day
+
+| 
+
+Personalized Magazine Cover data.
+
+| 
+
+Marathon Photos
+
+| 
+
+Visit Marathon Photos’ website for details of their privacy policy - [http://www.marathon-photos.com](http://www.marathon-photos.com/)  
+  
+event
+
+| 
+
+1 Day
+
+| 
+
+Personalized Magazine Event Name.
+
+| 
+
+Marathon Photos
+
+| 
+
+Visit Marathon Photos’ website for details of their privacy policy - [http://www.marathon-photos.com](http://www.marathon-photos.com/)  
+  
+bib
+
+| 
+
+1 Day
+
+| 
+
+Personalized Magazine Bib
+
+| 
+
+Marathon Photos
+
+| 
+
+Visit Marathon Photos’ website for details of their privacy policy - [http://www.marathon-photos.com](http://www.marathon-photos.com/)  
+  
+_utma
+
+| 
+
+2 years
+
+| 
+
+Google Analytics
+
+| 
+
+Google
+
+| 
+
+Used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages visited. Visit Google's website for details of their privacy policy - <http://www.google.com/analytics/learn/privacy.html>  
+  
+_utmb
+
+| 
+
+30 mins
+
+| 
+
+Google Analytics
+
+| 
+
+Google
+
+| 
+
+Used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages visited. Visit Google's website for details of their privacy policy - <http://www.google.com/analytics/learn/privacy.html>  
+  
+_utmc
+
+| 
+
+Session
+
+| 
+
+Google Analytics
+
+| 
+
+Google
+
+| 
+
+Used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages visited. Visit Google's website for details of their privacy policy - <http://www.google.com/analytics/learn/privacy.html>  
+  
+_utmz
+
+| 
+
+6 months
+
+| 
+
+Google Analytics
+
+| 
+
+Google
+
+| 
+
+Used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages visited. Visit Google's website for details of their privacy policy - <http://www.google.com/analytics/learn/privacy.html>  
+  
+**3.5 Obtaining Consent**
+
+3.5.1 For visitors to the website, at the top of the home page there is a notice alerting the visitor to the use of cookies on the Great Run website. The notice gives the option to accept the use of cookies on the Great Run website.
+
+3.5.2 By choosing to accept their use, a cookie is placed on the visitor’s computer so that the Great Run website can ‘remember’ the visitor’s preference. On subsequent visits to the website, if the presence of the cookie is detected the notice will not appear.
+
+3.5.3 Note, it is not technically possible to transfer this preference so you will see the notice again if you browse the Great Run website on other devices or browsers.
+
+3.5.4 From time to time we will be setting new cookies as we add features to the Great Run website. These cookies will be listed in the table above and we recommend you regularly view the Privacy and Cookie Policy for any changes.
+
+3.5.5 If you opt not to accept cookies but wish to visit the Great Run website you will need to manage the cookies using the settings on your browser, as discussed in the section above. However, if you browse the Great Run website having opted to disallow cookies you will still be able to use the website but certain features and functionality will be lost.
+
+3.5.6 If you choose to ignore the notice but continue using the website, depending on the settings on your browser, cookies will be set. If you are at all concerned about cookies, we recommend that you do not use the Great Run website until you have clearly understood the implications or have altered your browser settings accordingly.
 
 Back to the top
 
@@ -78,5 +339,11 @@ Back to the top
 7.1 Should you wish to obtain a copy of the personal data that we hold on you, please send an e-mail to [info@greatrun.org](mailto:info@greatrun.org). As soon as we are satisfied as to your identity, we will send to you a copy of all the data that we hold concerning you.
 
 7.2 If you have a complaint regarding any breach of this privacy policy, please contact us at [info@greatrun.org](mailto:info@greatrun.org). When we receive the complaint, we will review it and ensure that we are in compliance with our privacy policy and all applicable laws. We will contact you to inform you of the results of our review of your complaint.
+
+Back to the top
+
+### 8\. Merchant of Record
+
+Nova International Limited is a company registered in England and Wales (company number 3300783). Great Run is a trading name of Nova International Limited. Nova International Ltd is the merchant of record selling entries in Great Run events.
 
 Back to the top
