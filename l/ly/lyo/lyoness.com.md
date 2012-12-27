@@ -1,38 +1,65 @@
-> *The following text is extracted and transformed from the lyoness.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522235317id_/http%3A//www.lyoness.net/us/datenschutzerklaerung.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyoness.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227053752id_/http%3A//www.lyoness.com/en-US/Footer-Links/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Lyoness Privacy Policy | Lyoness.com
 
-## What Information We Collect and Why
+**Job Portal and Use of Cookies**  
+as of: August 28th 2012
 
-At Lyoness.net/US (our “Site”) Lyoness America, Inc. and its affiliates (“Lyoness” or “we”) aim to provide our members with the most current shopping information and keep them informed of the best deals on relevant products, in order to maximize their “Cashback” rewards. The primary way we accomplish these goals is by utilizing the power of our consumer membership base to gain access to special deals and promotions and to negotiate sales commissions from well-known national retailers, as well as specialty boutiques (our “Loyalty Merchants”). We then share this commission with you, as a Lyoness member, in the form of cash or equivalent rewards. Consequently, when you first register with Lyoness, we ask you to provide your name, email address and mobile phone number so we can notify you of your Cashback rewards. Lyoness.net/US may also collect certain information online deriving from your navigation of our Site and our Loyalty Merchants. We collect this information to ensure that you receive your Cashback rewards and to better understand what type of stores and specials to pursue. Once logged into the Lyoness portal, if you visit one of our Loyalty Merchants to make a purchase, the transaction is reported by the merchant directly to Lyoness. This notification occurs to help ensure that your Cashback rewards are properly credited to your account. No individual payment information is received by our Site.
+  _Lyoness is committed to equal opportunities for all employees and is proud of the diversity within the team! All qualified applicants will participate in the selection procedure regardless of ethnicity, skin colour, religion, sex, sexual orientation, nationality, disability or age._
 
-Lyoness.net/US uses cookie technology to provide general information on site traffic trends such as most frequently visited pages or Loyalty Merchants. This information is captured on an aggregate basis, is not specific to individual users and enables us to continually improve our Site content and navigation. We also use cookie technology for login and navigation between the various components of our Site.  
-On occasion, we offer our users third-party company offers and promotions via our Site. Please note that we may also retain any personal information that you provide on our Site to take advantage of such third-party offers. 
+  We take the security of your personal data very seriously and aim to ensure a safe use of this job portal. We undertake to adhere to the data protection laws. This privacy policy describes the data we collect from you and explains how we safeguard this data.
 
-## How We Ensure the Security of Your Information
+  As our websites are continuously developing to improve our services it is possible that this privacy policy must be changed as well. We thus recommend reading this privacy policy from time to time. The date of the current version is stated at the beginning of this document.
 
-Lyoness.net/US has security measures in place to protect the information within our control from loss, misuse or alteration. We have appropriate industry standard procedures in place to safeguard the confidentiality of your personal information, such as firewall and Secure Socket Layer (SSL) encryption. However, no data transmitted over the Internet can be 100% secure. Consequently, while we make every effort to protect your personal information, any information that you provide to Lyoness.net/US or its Loyalty Merchants is transmitted at your own risk.
+  **_Which data is registered_**
 
-## With Whom We Share Your Information
+  As www.lyoness.com is an international job portal in which all advertised vacancies from all offices and subsidiaries of the Lyoness group are offered, it is possible that you may choose to select the country you would like to work in. After this preselection you will be directed to the national job portal. A detailed list of all offices within the Lyoness group, which are partially located abroad, can be found by clicking [here](https://web.archive.org/en-US/Companies/Organization).
 
-Our primary use of your personal information is to process your Cashback reward checks and to maintain your Member account. Your browser activity may be used to trigger personalized shopping alerts as our Site evolves to include this feature. Lyoness may also store and use your personal information for our own internal mailing and database purposes. The composite tracking information generated by cookies, as outlined above, may be shared with third-parties for the purpose of documenting site activity and other trends. In the course of our day-to-day business, we may employ outside companies and individuals to perform functions for us, such as removing duplicate information from customer lists or providing database analysis. These vendors have access to the personal information needed to perform their functions, but may not use it for other purposes. All emails distributed by Lyoness have simple opt-out mechanisms should you decide you do not want to receive these offers from us.
+  If you apply for one of the vacancies advertised on our website, you will be requested to complete an application form and upload files.
 
-## Your privacy as related to our Loyalty Merchants
+  The personal data that we collect from you and save is title, first name, last name, address  including street, postal code and city, date of birth, mother tongue, nationality, email address, telephone number, highest grade of education completed, desired salary (annual gross salary) and earliest possible start date. Further, you can list any special competencies and skills, such as IT knowledge and languages among others. In addition, you can provide information about your previous education, work experience, etc.
 
-In order to grant your Cashback rebate, our Loyalty Merchants pass back to us the amount of your order as well as your unique Member ID. With these two pieces of information, we are able to make sure the right rebate goes to the right person. Our Site contains links to our Loyalty Merchants. Each of these stores maintains its own privacy statement and we encourage you to read these individual policies. We can neither enforce nor monitor the Privacy Policies of Loyalty Merchants. This Privacy Policy applies solely to information collected by Lyoness on our Site. Lyoness does not bear any responsibility for any actions or policies of third-party Web sites including all framed sites. Moreover, Lyoness disclaims all responsibility for the subsequent use of an email address or any other personally identifiable information you have provided to Loyalty Merchants.
+  Furthermore, you can upload files to our server such as your CV, cover letter, photo, school reports and other documents relevant to the job. In addition, you can send us a message by using the provided text field.
 
-## How you can change, correct and update your information
+  Lyoness is of course aware that not all of the aforementioned personal data can be demanded due to the respective national laws. We have thus set up as few required fields as possible to get the essential information such as surname and contact address. Personal data collected will be used for recruitment purposes only.
 
-As a Lyoness Member, you can change the information we have on file for you at any time, simply by logging in and making your desired changes. Upon enrollment, Lyoness Members are opted-in to receive Lyoness Cashback newsletters and special email promotions. Lyoness announces its latest deals and special offers in these emails, sometimes before they are posted on our Site. On every one of these emails you are given the choice to unsubscribe from the mailing. You may also login to our Site and change your email preferences. For your security, you will be prompted to login before updating any account information. Please allow up to 7 days to process your email request or account changes. You may receive several additional emails from us while we are processing your unsubscribe request. 
+  By using the Lyoness job portal you agree to the electronic storing and processing of your entered personal data.  
 
-## Miscellaneous
+  **_How long will data be saved_**
 
-As Lyoness changes and grows, we might sell or buy companies, subsidiaries, or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that Lyoness or substantially all of its assets are acquired, your member information may be one of the transferred assets. By enrolling in the Lyoness Loyalty Program, you agree that you have read, understand and agree with our Privacy Policy, and the Membership Agreement, in its entirety and consent to be bound by all said Terms and Conditions. You further acknowledge the right of Lyoness to change this policy, without prior notification, and our commitment to post any such changes on this page so that you are fully informed. We encourage our members to check back from time to time to view the most recent version of this Policy. 
+  The data entered on your application will be deleted no later than three months after the end of the selection procedure.  
+If you would like us to keep hold of your details, please tick the “I would like you to keep hold of my details” box.
 
-## Contact Us
+  **_Data security_**
 
-If you have any questions about this Privacy Policy please contact our Privacy Policy Officer by email office@lyoness.us, fax: 646-537-1728 or mail to:  
-Lyoness America  
-350 5th Ave., Suite 2710  
-New York, NY 10118 _  
-_
+Lyoness does not forward any personal data to third parties. However, as part of the electronic processing and management, your data will be forwarded within the Lyoness group. By using this job portal you consent to this.
+
+  To safeguard your data we use encryption software for the data transmission (SSL encryption), firewalls, anti-hacker programmes and other up-to-date safety precautions.
+
+  **_Information and contact_**
+
+We will happily inform you which data we have received from you upon request. Further, you can have this data changed or deleted at all times.
+
+  We kindly ask you to contact the following address in this regard:
+
+  Human Resources  
+[hr@lyoness.ag](mailto:hr@lyoness.ag)
+
+  **_Use of Cookies_**
+
+  Our websites use so called Cookies which are small text files that are saved on your computer and can be retrieved from there. Cookies serve to enable you to register for our services and to personalise the website for you. We use Cookies in accordance with our legal authority as a  provider of information society services.
+
+Please bear in mind that common internet browsers are set up to accept Cookies by default. If you visit our website without changing these standard settings, you give us the consent to set the following Cookies.
+
+  You can set up your web browser to block all or certain Cookies or to ask consent before a new Cookie is set. For this purpose, most web browsers provide a manual which can be found under the menu item “Help” in the menu tab. Information will also be provided on how to delete Cookies that have been set. If you would like to have information about similar settings for Flash Cookies used by Browser-Add-ons, please go to the Adobe® website or the website of the Browser Add-on creator.
+
+  Please bear in mind that you cannot use all of our website’s functions if you do not accept Cookies.  
+
+  Our Cookies serve to provide us with information about your surfing activies so we can optimise your visit to our website. We thus collect information about your IP, time and duration of your visit, number of your visits, use of forms, etc. Cookies are stored for different lengths of time. We mainly use Cookies that will be deleted automatically after you have left our site. Some Cookies, for example the cookie recording the number of times you visit our site, are stored long-term which means up to one year from your last visit.
+
+  Our Cookies only serve to provide us with information and cannot be accessed by third parties.  In addition, we use Google Analytics to register your online activities on our site, monitor how many users have visited our site and the number of times a selection of content on our site has been viewed. The analysis is completely anonymous. Cookies from Google Analytics are saved on your computer and can only be analysed by Google.
+
+By using our website you agree that the above stated Cookies may be used. 
+
+  
+
