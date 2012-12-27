@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the district9movie.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615071143id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the district9movie.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227103609id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Sony Pictures - Privacy Policy
-
-This privacy policy (" **Privacy Policy** ") applies to the web sites, web pages, interactive features, applications, widgets, blogs, social networks and social network "tabs", alternative reality worlds, and other online or wireless offerings that post a link to this Privacy Policy, whether accessed via computer, mobile device or other technology (collectively, " **Sites** "). The Sites are offered by Sony Pictures Entertainment Inc. and its subsidiaries or affiliated companies, such as Sony Pictures Television, Sony Pictures Home Entertainment and other companies associated with Sony Pictures Entertainment Inc. (collectively, " **SPE** ," or " **we** ", " **us** ", " **our** "). This Privacy Policy applies only to information collected by the Sites that post it and does not apply to information collected offline or otherwise outside of the Sites, unless specifically stated.
-
-This Privacy Policy explains how SPE collects, uses and shares information when you access or use the Sites. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](http://www.sonypictures.com/corp/tos.html), which governs your use of the Sites and any content you submit to the Sites. 
 
 * ### NOTICE TO CALIFORNIA RESIDENTS
 
