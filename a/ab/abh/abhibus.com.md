@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abhibus.com privacy policy that was archived on 2012-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120307013847id_/http%3A//www.abhibus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abhibus.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227122351id_/http%3A//www.abhibus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at AbhiBus.com
 
@@ -29,5 +29,3 @@ What other information should I know about my privacy?
 Abhibus contains links to other web sites. Please note that when you click on one of these links, you are entering another web site for which Abhibus has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from this Privacy Policy. Of course, you are solely responsible for maintaining the secrecy of your passwords and credit card numbers. In addition to the circumstances described above, Abhibus may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority.
 
 **Thank you for Choosing Us.**
-
-### Thank you for Choosing Us.
