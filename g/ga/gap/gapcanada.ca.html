@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gapcanada.ca privacy policy that was archived on 2012-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627220348id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gapcanada.ca privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227130400id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-CA" lang="en-CA"><head>
 	<title> | Gap</title>
@@ -68,7 +68,7 @@
 
 
 
-<link rel="stylesheet" type="text/css" media="screen, print" href="/gzip_400389532/optimizedBundles/globalOptimized.css">
+<link rel="stylesheet" type="text/css" media="screen, print" href="/gzip_N1656602697/optimizedBundles/globalOptimized.css">
 
 
 
@@ -94,11 +94,11 @@
 
 	<style type="text/css">
 	.brand {
-	   background: url(/content/0004/787/446/universal_bar_sprites.png) no-repeat top left;
+	   background: url(/content/0005/713/575/universal_bar_sprites.png) no-repeat top left;
 	   width: 0px;
 	 }
 	</style>
-	<link rel="stylesheet" type="text/css" href="/content/0004/787/446/universal_bar_sprites.css">
+	<link rel="stylesheet" type="text/css" href="/content/0005/713/575/universal_bar_sprites.css">
 
 
 
@@ -244,6 +244,11 @@
 
 
 
+<meta name="viewport" content="width = 1024">
+<link rel="apple-touch-icon" href="/gid/assets/common/en/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/gid/assets/common/en/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/gid/assets/common/en/apple-touch-icon-retina.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/gid/assets/common/en/apple-touch-icon-retina.png">
 
 
 
@@ -258,6 +263,12 @@
 
 
 
+
+<!-- Ensure that date is always formated for en_US for processing at the JavaScript tier -->
+
+
+
+<!-- Reset localeCode to default standard -->
 
 
 
@@ -336,29 +347,39 @@
         	yourAccount : "Your account",
         	signOut : "Sign out",
         	isRecognizedUser : "Not you?",
+        	changeUserMessageTemplate : "(Not #{name}?)",
         	signIn : "Sign in",
         	orderStatus : "Orders and returns",
+        	orderStatusV2 : "Order Status",
         	shippingTo : "Shipping to",
         	weak : "Weak",
         	fair : "Fair",
         	good : "Good",
         	strong : "Strong",
         	sameAsUser : "Weak: Same as user",
-        	sameAsHint : "Weak: Same as hint"
+        	sameAsHint : "Weak: Same as hint",
+        	rewards : "Rewards",
+        	accountSettings : "Account Settings",
+        	haveAnAccount : "Have an account?"      	
         },
         inLineBag :{
-	        labelColor : "Color",
+            labelColor : "Color",
 	        labelSize : "Size",
 			labelQuantity : "Qty",
 			labelPrice : "Price",
 			itemInSingular : "item in",
 			itemInPlural : "items in",
+			lineItemJp : "",
 			lineItemBag : "bag",
 			yourBag : "your bag",
 			addedTo : "Added to",
 			inlineBagItemSingular : "item in",
-			inlineBagItemPlural : "items in"
-         },
+			inlineBagItemPlural : "items in",
+	    	inlineBagItemJp : ""
+	    },
+	    discounts :{
+	    	rewardMessage : "Redeem Your <div id='ribbon'><div id='ribbonAmount'>$#{rewardValue}</div></div> in Rewards Now"
+		},
         product : {
 	        groupNameOverview : "overview",
 	        groupNameTips : "tips",
@@ -416,7 +437,9 @@
        		brandUrl20 : "gap.eu",
        		brandUrl21 : "bananarepublic.eu",
        		brandUrl24 : "gap.co.jp",
-       		brandUrl25 : "bananarepublic.co.jp"
+       		brandUrl25 : "bananarepublic.co.jp",
+       		brandUrl28 : "gap.eu",
+       		brandUrl29 : "bananarepublic.eu"
        	}
        	
 
@@ -426,17 +449,41 @@
 
 
 <script type="text/javascript">
-    var isClientStateManagementActive = "false";
+    var isClientStateManagementActive = "true";
+    var isGuestCheckoutActive = "";
 </script>
 
 
-	<script type="text/javascript" src="/gzip_N362116697/optimizedBundles/globalOptimized.js"></script>
+	<script type="text/javascript" src="/gzip_78814602/optimizedBundles/globalOptimized.js"></script>
+
 
 	<script type="text/javascript">
 		// Activation of the navigationService and associated Managers
-		navigationService.model.isActive = false||false;
-		navigationService.paginationHelper.constants.MAX_PRODUCTS_PER_PAGE = 100;
+		navigationService.model.isActive = ('true' === 'true')
+                || ('true' === 'true')
+                || ('true' === 'true')
+                || ('true' === 'true');
+		navigationService.paginationHelper.constants.MAX_PRODUCTS_PER_PAGE = 300;
 	</script>
+
+
+
+
+<script src="/gid/js/common/layouts/en/iPad2.js"></script>
+<script type="text/javascript">
+	var browserUserAgent = navigator.userAgent;
+	if (browserUserAgent.indexOf("iPad") != -1) {
+		iPadInit();
+		window.addEventListener('touchstart', function(evt) { imageLoader.fetch(); }, false);
+	}
+</script>
+
+
+
+
+
+	
+
 
 
 
@@ -470,8 +517,13 @@
             DIVISION_2_ACTION: "division.do",
             SUBDIVISION_2_ACTION: "subdivision.do",
             HOME_2_ACTION: "home.do",
-            DATE_IN_USE: "06/27/2012 06:03 PM",
-            PREVIOUS_LOCALE : "en_CA"
+            DATE_IN_USE: "12/27/2012 06:17 AM",
+            PREVIOUS_LOCALE : "en_CA",
+            
+            IS_NAV2_ENABLED: 'false',
+            IS_FACET_ENABLED: 'true',
+            IS_OPTIMIZED_PRODUCT_PAGE_ACTIVE: 'false' ==  "true"
+            
 		});
 	// ]]>
 </script>	
@@ -494,21 +546,21 @@
 <!-- InternationalForeignExchangeRoundUpValue =  -->
 <!-- InternationalShippingPremiumPriceValues =  -->
 <!-- hbaseProductMashupActive = true -->
-<!-- isProductCategoryFacetedSearchActive = false -->
+<!-- isProductCategoryFacetedSearchActive = true -->
 <!-- searchEnabled = false -->
-<!-- isFacetedCategoryActive = false -->
-<!-- isFacetedCategorySearchActive = false -->
+<!-- isFacetedCategoryActive = true -->
+<!-- isFacetedCategorySearchActive = true -->
 <!-- brandTemplateServiceActive = true -->
 <!-- categoryPageCachingActive = true -->
 <!-- isStoreLocationsActive  = false -->
 <!-- isMerchLocatorActive  = false -->
 <!-- shippingOptionsFeatureActive  = false -->
 <!-- isLoggingServiceActive  = false -->
-<!-- catalogCategoryFeaturesEnabled  = power_reviews,quick_links,cj_feed -->
-<!-- localCacheActive  = true -->
-<!-- isLocalCacheDisabled  = false -->
+<!-- catalogCategoryFeaturesEnabled  = power_reviews,quick_links,cj_feed,top_left_nav,ecom_rest_services,categories,local_static_data_cache -->
+<!-- localCacheActive  = false -->
+<!-- isLocalCacheDisabled  = true -->
 <!-- isPageContentDataActive  = true -->
-
+<!-- isKeywordSearchDrivenByEaskAsk  = false -->
 
 <!-- pageTemplateInfo: pageId: 29680
 			isTileOverrideDefinedFromParameter: false
@@ -523,11 +575,12 @@
 
 <!-- faceted category white list =  -->
 <!-- faceted category black list =  -->
-<!-- isFaceted = false -->
-<!-- is facets enabled = false -->
-<!-- is category search faceted  = false -->
+<!-- isSolrEnabled = false -->
+<!-- isFaceted = true -->
+<!-- isCategorySearchFaceted  = true -->
+<!-- isOptimizedProductPageActive  = false -->
 
-<!-- isClientStateManagementActive  = false -->
+<!-- isClientStateManagementActive  = true -->
 
 <script type="text/javascript">
 	// <![CDATA[
@@ -546,6 +599,7 @@
 	browserService.controller.managers.mobileBrowserManager.constants.MOBILE_BROWSERS_TO_REDIRECT = ["iphone","ipod","android:mobile"];
 	browserService.controller.init.main();
 	
+	contentService = new ContentService();
  	// ]]>
 </script>
 
@@ -589,16 +643,22 @@
 			
         
         
-			RockbridgeSurvey.url = 'http://survey.confirmit.com/wix/p1248642420.aspx';
+        	
+	        	
+	        	
+	        		RockbridgeSurvey.url = 'http://survey.confirmit.com/wix/p1248642420.aspx';
+				
+        	
 			RockbridgeSurvey.market = "CA";
 		    RockbridgeSurvey.brand = "1";
 		    RockbridgeSurvey.locale = "en_CA";
 		
 		RockbridgeSurvey.brandsVisited = "1";
+
+	    
 		
 	// ]]>
 </script>
-
 <script type="text/javascript">
 // <![CDATA[
 		
@@ -621,7 +681,7 @@
 			  }
 			}
 		
-
+		
 		if (window["personalizationService"] != undefined) {
 			with (personalizationService.model) {
 				globalShipping.isGlobalShippingActive = "false";
@@ -630,6 +690,7 @@
 			}
 			personalizationService.controller.init.main();
 		}
+		
 		
 		if (window["categoryService"] != undefined) {
 			if (window["categoryInfo"] != undefined) {
@@ -727,7 +788,7 @@
 <!-- @TemplateContentLayout(templateRegionName:"gid.common.siteWide.businessCode.regionTop") -->
 
 <!-- container 1 -->
-<!-- BEGIN Content Item File: /content/0004/736/178/cn4736178.html -->
+<!-- BEGIN Content Item File: /content/0005/935/657/cn5935657.html -->
 
 <!-- UNIVERSAL BUTTON LOCALE FIX -->
 <script type="text/javascript">
@@ -850,16 +911,26 @@ document.observe("dom:loaded",function() {
 
 
 <style type="text/css">
+/* GOL Seasonal Layout: SPRING 2013 Background  - 12/27/2013 */
+/* WHITE BG */
+body {
+	background: #FFF;
+	background-color:transparent !important;
+	background-image:url("/Asset_Archive/GPWeb/content/0005/935/657/assets/fall_2012_US_BeBright.gif") !important;
+	background-repeat:no-repeat;
+	background-position:top center;
+}
 
-/* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!GAP CA Layout: Spring 2011!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
+
+/* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!GAP CA Layout: Spring 2013!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
 
 	/*++++++++++++++++++++++++ LEFT SIDE NAVIGATION +++++++++++++++++++++++++++++++++*/
 	
-		#sideNav  {background-color: #ffffff; color:#000000;}
+		#sideNav  {background-color:#FFF; color:#000000;}
 		
 		#sideNav ul.category{margin:3px 0px 0px 0px}
 		#sideNav li.header {border-top:1px solid #000; padding:6px 0px 3px 0px;}	
-		#sideNav li.header firstHeader {border-top:1px solid #000; padding:6px 0px 3px 0px;}
+		#sideNav li.header.firstHeader {border-top:1px solid transparent; padding:6px 0px 3px 0px;}
 			
 		#sideNav a:hover {color:#999;}
 		#sideNav li.categorySelected{background-image: url("/Asset_Archive/GPWeb/content/0003/629/979/assets/sidenav_bullet.gif"); padding: 0 0 0 6px;}
@@ -991,7 +1062,7 @@ document.observe("dom:loaded",function() {
 		#productNameText, #productNameText h2, #productNameText h1 {color:#000; padding-left:0px}/*overrides product header shift and color*/
 		
 		/*font and rule for the sizing box*/
-		.brand1 #swatchContent input, .brand1 #quickLookSwatches input, .brand1 #shoppingBagEditSwatches input, .brand1 #colorSwatches input, .brand1 #swatchContent button, .brand1 #quickLookSwatches button, .brand1 #shoppingBagEditSwatches button, .brand1 #colorSwatches button, .brand7 #swatchContent input, .brand7 #quickLookSwatches input, .brand7 #shoppingBagEditSwatches input, .brand7 #colorSwatches input, .brand7 #swatchContent button, .brand7 #quickLookSwatches button, .brand7 #shoppingBagEditSwatches button, .brand7 #colorSwatches button, .brand20 #swatchContent input, .brand20 #quickLookSwatches input, .brand20 #shoppingBagEditSwatches input, .brand20 #colorSwatches input, .brand20 #swatchContent button, .brand20 #quickLookSwatches button, .brand20 #shoppingBagEditSwatches button, .brand20 #colorSwatches button {border:1px solid #999; color:#999;}
+		.brand1 #swatchContent input, .brand1 #quickLookSwatches input, .brand1 #shoppingBagEditSwatches input, .brand1 #colorSwatches input, .brand1 #swatchContent button, .brand1 #quickLookSwatches button, .brand1 #shoppingBagEditSwatches button, .brand1 #colorSwatches button, .brand7 #swatchContent input, .brand7 #quickLookSwatches input, .brand7 #shoppingBagEditSwatches input, .brand7 #colorSwatches input, .brand7 #swatchContent button, .brand7 #quickLookSwatches button, .brand7 #shoppingBagEditSwatches button, .brand7 #colorSwatches button, .brand20 #swatchContent input, .brand20 #quickLookSwatches input, .brand20 #shoppingBagEditSwatches input, .brand20 #colorSwatches input, .brand20 #swatchContent button, .brand20 #quickLookSwatches button, .brand20 #shoppingBagEditSwatches button, .brand20 #colorSwatches button {border:1px solid #666; color:#333;}
 			
 			/*product images keyline to white */
 			.brand7 .imgDiv {background-color:white; border:1px solid #FFFFFF;}
@@ -1033,7 +1104,7 @@ document.observe("dom:loaded",function() {
 		.brand1 .thumbs, .brand7 .thumbs, .brand20 .thumbs {border-color:#999;}	
 		.brand1 .thumbSelected, .brand7 .thumbSelected, .brand20 .thumbSelected {border-color:#999;}
 		
-		/*Out Of Staock Button Placement*/
+		/*Out Of Stock Button Placement*/
 	
 		.brand1 .sprite-button_add_to_bag_out, .brand7 .sprite-button_add_to_bag_out, .brand20 .sprite-button_add_to_bag_out {background:url("/Asset_Archive/GPWeb/content/0002/444/380/brand_buttons_and_assets_sprite.gif");background-position:0 -799px; float: right; height:20px; margin-top:5px; width:73px;}
 
@@ -1043,12 +1114,23 @@ document.observe("dom:loaded",function() {
     background: url("/Asset_Archive/GPWeb/content/0002/444/380/brand_buttons_and_assets_sprite.gif");background-position: 0 -1283px; width:63px; height:20px;}
 		
 			
+		/* Update Add to Bag  states, black for on state, grey for off state JP 11/26/12 */	
+			.brand1 input.sprite-button_add_to_bag_off, .brand7 input.sprite-button_add_to_bag_off, .brand20 input.sprite-button_add_to_bag_off {
+    background: url("/Asset_Archive/GPWeb/content/0002/444/380/brand_buttons_and_assets_sprite.gif") repeat scroll 0 -732px transparent;
+    height: 17px;
+    width: 72px;
+}
+			.brand1 input.sprite-button_add_to_bag_on, .brand1 input.sprite-button_add_to_bag_over, .brand7 input.sprite-button_add_to_bag_on, .brand7 input.sprite-button_add_to_bag_over, .brand20 input.sprite-button_add_to_bag_on, .brand20 input.sprite-button_add_to_bag_over {
+    background: url("/Asset_Archive/GPWeb/content/0002/444/380/brand_buttons_and_assets_sprite.gif") repeat scroll 0 -665px transparent;
+    height: 17px;
+    width: 72px;
+}
 	/*++++++++++++++++++++++++ END:PRODUCT PAGE / QUICK LOOK POPUP +++++++++++++++++++++++++++++++++*/
 			
 			
 	/* Customer Service page Spring Update */
-	#mainContent .customerServiceLayout {padding:10px 10px 10px 35px;}
-	#mainContent .customerserviceSizechartCententMargin {padding:10px 10px 10px 35px;}
+	#mainContent .customerServiceLayout { padding: 10px;}
+	#mainContent .customerserviceSizechartCententMargin {padding:10px;}
 	#mainContent .header1 {margin:10px 0px 20px 0px; color:#000;}
 	/* END: Customer Service page Spring Update */
 	
@@ -1059,8 +1141,8 @@ document.observe("dom:loaded",function() {
 
 			
 			
-/* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!END: GOL Layout: Spring 2011!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
-/* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!GOL Layout: Spring 2011!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!END: GOL Layout: Spring 2013!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
+/* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!GOL Layout: Spring 2013!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
 
 	#footer {color:#000; font-size:9px;}
 	#footer a:link, #footer a:visited, #footer a:active{color:#000; font-weight:bold;}
@@ -1070,54 +1152,47 @@ document.observe("dom:loaded",function() {
 	
 	/*begin - spring 2011: left nav layout*/
 	/*keyline to white/reassign keyline */
-	#mainContent {border:1px solid #ffffff;}
-	#mainContentContainer {border:1px solid #ffffff;}
-	#mainContentContainer {border-left:1px solid #ffffff;border-right:1px solid #ffffff;}
+	#mainContent {border:none;}
+	#mainContentContainer {border:none;}
+	#mainContentContainer {border:none;}
 	
 	/*remove bottom keyline from main content*/
 	#mainContentContainer {border-bottom:medium none;}
-	#mainContent {border-bottom:medium none;}
+	#mainContent {border-bottom:medium none;background-color:#FFF;}
 	
 	/*dotted key line removed from maincontent added to sidenav added for 7.12 add contentOvveride*/
 	#mainContentContainer #mainContent {
-	background-color:#FFFFFF;
-	background-image:url("/Asset_Archive/GPWeb/content/0002/686/510/assets/nodash_vertical.gif");
-	background-repeat:repeat-y;
+	background-color:#FFF;
+	background-image:none !important;
 	border:medium none;
 	}
 	/* +++++++++++++++++++++++ !!!!!!!!!!!!!!!!END: GOL Layout: Spring 2011!!!!!!!!!!!!!!!! +++++++++++++++++++++++++++++++++++++++*/
 
-/* GOL Seasonal Layout: Spring 2012*/
-/*background color*/
-/* version 2 updated - 02/21/12 */
-body {
-	background-color:#C8F1ED !important;
-	background-image:url("/Asset_Archive/GPWeb/content/0004/637/489/assets/1x800.jpg") !important;
-	background-repeat: repeat-x;
-}
+/* GOL Seasonal Layout: Spring 2013*/
 
-
+/*add padding to EDFS banner */
+#EDFS_EN {padding-top: 15px; padding-bottom: 15px;}
 
 #footer {color:#666; font-size:9px;}
 /* set white background behind brandFooter_Region1 */
 #brandFooter_Region1 { background-color: #ffffff;}
 /*begin - spring 2012: left nav layout*/
 /*keyline to white/reassign keyline */
-#mainContent {border:1px solid #fff;}
-#mainContentContainer {border:1px solid #fff;}
-#mainContentContainer {border-left:1px solid #fff;border-right:1px solid #fff;}
+#mainContent {border:none; background-color:#FFF;}
+#mainContentContainer {border:none;background-color:#FFF;}
+#mainContentContainer {border-left:none;}
 
 /*remove bottom keyline from main content*/
 #mainContent {border-bottom:none;}
 #mainContentContainer {border-bottom:none;}
 
-#sideNav  {background-color:#fff; color:#000;}
+#sideNav  {background-color:#FFF !important;color:#000;}
 /*end reassign keyline */
 
 
 
 /*dotted key line removed from maincontent added to sidenav added for 7.12 add contentOvveride*/
-#mainContentContainer #mainContent {background-color:#fff; background-image:url("/Asset_Archive/GPWeb/content/0002/496/432/assets/nodash_vertical.gif"); background-repeat:repeat-y; border:medium none;}
+#mainContentContainer #mainContent {background-color:#FFF !important;border:medium none;}
 
 #sideNav  {
 /*background-image:url("/Asset_Archive/GPWeb/content/0002/496/432/assets/sidenav_dash_vertical.gif");*/
@@ -1153,12 +1228,12 @@ body {
 
 /*+++++++++++++ LEFT SIDE NAVIGATION OVERRIDE+++++++++++++++++++*/ 
 	
-	#sideNav  {background-color: #ffffff; color:#000000;}
+	#sideNav  {background-color:transparent !important;color:#000000;}
 	#sideNav a:hover {color:#999;}
 	
 	#sideNav ul.category{margin:3px 0px 0px 0px}
-	#sideNav li.header {border-top:1px solid #000; padding:6px 0px 0px 10px;}
-	#sideNav li.header firstHeader {border-top:1px solid #000; padding:6px 0px 3px 10px;}	
+	#sideNav li.header {border-top:1px solid #000; padding:6px 0px 0px 10px; margin-right:3px;}
+	#sideNav li.header.firstHeader {border-top:1px solid transparent; padding:6px 0px 3px 10px;}	
 	
 	#sideNav li.category {margin:0px 0px 0px 11px;}
 	
@@ -1184,9 +1259,11 @@ body {
 		#sideNav #categoryNav6258{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Special Sizes) in Girls DP*/
 		#sideNav #categoryNav6174{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Special Sizes) in Boys DP*/
 		
-		#sideNav #categoryNav77344{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Collections) in Toddler Girls DP*/
-		#sideNav #categoryNav77345{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Collections) in Toddler Boys DP*/
-		
+		/* commented out for 11/27/12 reskin
+		#sideNav #categoryNav77344{margin-top:0px; border-top:1px solid #fff;} reduce top margin for the first header (Collections) in Toddler Girls DP 
+		#sideNav #categoryNav77345{margin-top:0px; border-top:1px solid #fff;} reduce top margin for the first header (Collections) in Toddler Boys DP 
+		*/
+
 		#sideNav #categoryNav70107{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Special Sizes) in Infant Girls DP*/
 		#sideNav #categoryNav70172{margin-top:0px; border-top:1px solid #fff;}/*reduce top margin for the first header (Special Sizes) in Infant Boys DP*/
 		
@@ -1259,16 +1336,7 @@ body {
 
 </style>
 
-
-
-
-
-
-
-
-
-
-<!-- END Content Item File: /content/0004/736/178/cn4736178.html -->
+<!-- END Content Item File: /content/0005/935/657/cn5935657.html -->
 
 
 
@@ -1277,20 +1345,108 @@ body {
 
 
 <!-- container 3 -->
-<!-- BEGIN Content Item File: /content/0004/828/136/cn4828136.html -->
+<!-- BEGIN Content Item File: /content/0005/834/238/cn5834238.html -->
 
 
-<script type="text/javascript" src="/Asset_Archive/GPWeb/content/0004/828/136/assets/wcdLib.js"></script>
+<script type="text/javascript" src="/Asset_Archive/GPWeb/content/0005/834/238/assets/wcdLib_110812.js"></script>
+
+<script type="text/javascript">
+////// WCD CA iPad postage stamp patch //////
+if (navigator.userAgent.indexOf("iPad") !=-1){
+	var fixTopForiPadCA = function() {
+		if ($("universalMarketingContainerTop")) {
+			if ($("previewPageInfo")) {
+				$("previewPageInfo").hide();
+			}
+			var iPadPatchDiv = $("universalMarketingContainerTop");
+			iPadPatchDiv.style.width = "575px";
+			iPadPatchDiv.style.overflow = "hidden";
+			$("universalMarketingContainerTop").style.float = "left";
+			$("universalBarCenter").style.width = "987px";
+			$("universalBarContainer").style.width = "987px";
+			$("universalBarTabs").style.width = "199px";
+			$("universalInlineBagContainer").style.width = "213px";
+	
+		}
+	}
+	Event.observe(window,"load",fixTopForiPadCA);
+}
+
+/* BEGIN Petite/Tall Lef Nav linking override to link to Petite (85032) /Tall (85035) divisions -JP 10/26/2012 */
+
+document.observe("dom:loaded",function() {
+
+	//update left nav Petite and Tall links in Women's subDivision
+	var wDirPetiteLink = $('categoryNav47018');
+	var wDirTallLink = $('categoryNav48054');
+	
+	//update left nav Tall and Women links in Petite Division
+	var petiteDirTallLink = $('categoryNav85039');
+	var petiteDirWomLink = $('categoryNav85040');
+	
+	//update left nav Petite and Womens links in Tall Division
+	var tallDirPetiteLink = $('categoryNav85044');
+	var tallDirWomLink = $('categoryNav85046');
+	
+	
+		if (wDirPetiteLink) {
+			wDirPetiteLink.firstDescendant().href="/browse/division.do?cid=85032";
+		}
+		if (wDirTallLink) {
+			wDirTallLink.firstDescendant().href="/browse/division.do?cid=85035";
+		}
+		
+		if (petiteDirTallLink) {
+			petiteDirTallLink.firstDescendant().href="/browse/division.do?cid=85035";
+		}
+		if (petiteDirWomLink) {
+			petiteDirWomLink.firstDescendant().href="/browse/subDivision.do?cid=5646";
+		}
+		
+		if (tallDirPetiteLink) {
+			tallDirPetiteLink.firstDescendant().href="/browse/division.do?cid=85032";
+		}
+		if (tallDirWomLink) {
+			tallDirWomLink.firstDescendant().href="/browse/subDivision.do?cid=5646";
+		}
+		
+
+});
+/* END Petite/Tall Lef Nav linking override to link to Petite (85032) /Tall (85035) divisions -JP 10/26/2012 */
+
+/* BEGIN OVERRIDE to HIGHLIGHT "WOMEN" in Top Navigation for Petite and Tall Divisions - JP 10/26/2012 */
+document.observe("dom:loaded",function() {
+
+var womensDivision = $('division5643');
+var thisDivision = "";
+		
+		if(window['reportingService']){
+			thisDivision = reportingService.controller.viewManagers.commonViewManager.model.commonChannelName;
+		}
+		
+		//console.log (thisDivision);
+		
+		if ((thisDivision == "Tall") || (thisDivision == "Petite")) {
+			if (womensDivision){
+			
+				thisState = womensDivision.className;
+				if (thisState.indexOf('_notSelected') > 0) {
+ 					womensDivision.className = thisState.replace('_notSelected', '_selected');
+				}
+			
+			}
+		} 
+});
+/* END OVERRIDE to HIGHLIGHT "WOMEN" in Top Navigation for Petite and Tall Divisions - JP 10/26/2012 */
+</script>
 
 
-
-
-<!-- END Content Item File: /content/0004/828/136/cn4828136.html -->
+<!-- END Content Item File: /content/0005/834/238/cn5834238.html -->
 
 
 
 <!-- container 4 -->
-<!-- BEGIN Content Item File: /content/0004/386/002/cn4386002.html -->
+<!-- BEGIN Content Item File: /content/0005/935/687/cn5935687.html -->
 
 <!-- override 36 - account order status help link fix -->
 <script type="text/javascript">
@@ -1345,7 +1501,7 @@ if( ( location.pathname == '/profile/order_status_detail.do' ) || ( location.pat
 <!-- END WCD override to fix pixman data populating on product pages in IE -->
 
 <style type="text/css">
-/*Begin - spring 2012: HTML & Marketing Banners layout CONTAINER 4*/
+/*Begin - FALL 2012: HTML & Marketing Banners layout CONTAINER 4*/
 
 * html #categoryProductGrid .brand1 productCatItem { height:357px }
 *:first-child+html #categoryProductGrid .brand1 productCatItem { height:357px }
@@ -1354,6 +1510,7 @@ if( ( location.pathname == '/profile/order_status_detail.do' ) || ( location.pat
 #vi_banner_ID10000384 {display: none;}
 #categoryNameHeader {display: none;}
 
+*html #newContentBanner { display:inline;}
 #newContentBanner {
 
 display: inline;
@@ -1389,8 +1546,8 @@ min-width:187px;
 
 }
 
-*html #newContentBanner { display:inline;}
 
+/*Spring 2012 HTML Banner
 #htmlBannerGOL {
 display: block;
 position: relative;
@@ -1409,6 +1566,30 @@ width: 202px;
 
 }
 
+
+*html #categoryNameHeader { display:inline; }
+
+#catname, #subcatname, #subsubcatname {
+color:#000000;
+font-family:arial;
+font-size:22px;
+font-weight:bold;
+position: absolute !important;
+bottom: 10px !important;
+margin-left:10px !important;
+margin-right:5px !important;
+width: 187px !important;
+*/
+
+/*
+
+#categoryNameHeader {
+    background-color: #C8F1ED !important;
+    line-height: 20px;
+    margin: 0;
+    padding: 19px 0 21px 21px;
+}
+
 *html #categoryNameHeader { display:inline; }
 
 #catname, #subcatname, #subsubcatname {
@@ -1422,7 +1603,27 @@ margin-left:10px !important;
 margin-right:5px !important;
 width: 187px !important;
 }
-/*End - spring 2012: HTML & Marketing Banners layout CONTAINER 4*/
+*/
+
+#categoryNameHeader {
+    background-color: #000033 !important;
+    line-height: 18px;
+    margin: 0;
+    padding: 13px 0 13px 21px;
+	margin-left: 3px;
+}
+
+#catname, #subcatname, #subsubcatname {
+color:#FFFFFF;
+font-family:arial;
+font-size:18px;
+font-weight:bold;
+}
+
+
+/*End - FALL 2012: HTML & Marketing Banners layout CONTAINER 4*/
+
+
 </style>
 
 <script type="text/javascript">
@@ -1505,6 +1706,11 @@ if( location.pathname == "/browse/category.do" ) {
 	
 					// HTML banner
 					else if( $('categoryNameHeader') ) {
+					
+						var htmlBannerContent = $('categoryNameHeader');
+						htmlBannerContent.style.display = "block";
+					
+						/* Leave HTML banner across the top 6/28/2012 
 						//var htmlBannerContent = $('categoryNameHeader');
 						var htmlBannerStr = $('categoryNameHeader').innerHTML;
 						htmlBannerDiv = new Element('div', { id: 'htmlBannerGOL' });
@@ -1517,7 +1723,7 @@ if( location.pathname == "/browse/category.do" ) {
 								firstGridSquare.insert({ before: htmlBannerDiv });
 							}
 						}
-					
+						*/
 					} 
 				
 				} 
@@ -1529,14 +1735,16 @@ if( location.pathname == "/browse/category.do" ) {
 	Event.observe( document, 'categoryProductGrid:ready', categoryMarketingRejigger.init );
 }
 /* END GOL BANNER INSERT CODE ON VI PAGES: WCD CODE 55276 CONTAINER 4 */
+
+
 </script>
 
-<!-- END Content Item File: /content/0004/386/002/cn4386002.html -->
+<!-- END Content Item File: /content/0005/935/687/cn5935687.html -->
 
 
 
 <!-- container 5 -->
-<!-- BEGIN Content Item File: /content/0004/926/089/cn4926089.html -->
+<!-- BEGIN Content Item File: /content/0005/600/273/cn5600273.html -->
 
 
 <!-- begin contentOverride 101 -->
@@ -1581,58 +1789,6 @@ if(window['ProductThumbs']) {
 </script>
 <!-- end contentOverride 99-->
 
-<!-- begin contentOverride40.3-->
-	<script type="text/javascript">
- 	
- 	if (window["personalizationService"]) {
- 	        var COMMON_DOMAIN_ENVIRONMENT_EXPRESSION_TEMPLATE_TEXT = "^https?://[^/]*(gap.com|gap.eu|gapcanada.ca|gidgol.com|gidgol.ca|gidgol.eu)";
- 	        var isCommonDomainSite = false;
- 	        var hasAdditionalUrlParameterToTransmit = false;
- 	       
- 	        var COMMON_DOMAIN_ENVIRONMENT_EXPRESSION_TEMPLATE = new Template(COMMON_DOMAIN_ENVIRONMENT_EXPRESSION_TEMPLATE_TEXT);
- 	        var expressionValue = COMMON_DOMAIN_ENVIRONMENT_EXPRESSION_TEMPLATE.evaluate();
- 	    var urlExpression = new RegExp(expressionValue, "i");
- 	       
- 	        personalizationService.controller.getPersonalizationServiceUrl = personalizationService.controller.getPersonalizationServiceUrl.wrap(
- 	                function(originalMethod) {
- 	                        var personalizationServiceUrl = originalMethod();
- 	                        isCommonDomainSite = urlExpression.test(personalizationServiceUrl);
- 	                        if (!isCommonDomainSite && personalizationServiceUrl != null && personalizationServiceUrl != undefined && personalizationServiceUrl != "") {
- 	                                var setAdditionalParameter = function(parameterName, parameterValue) {
- 	                                        if (parameterValue != null && parameterValue != undefined && parameterValue != "") {
- 	                                                var parameterNameValuePair = null;
- 	                                                var parameterNameSearchValue = parameterName + "=";
- 	                                                if (personalizationServiceUrl.indexOf(parameterNameSearchValue) == -1) {
- 	                                                        /* parameterNameSearchValue not found in generated URL - so correct the personalizationServiceUrl
- 	                                                         * to include parameterNameSearchValue in this condition of a parameterNameSearchValue request.
- 	                                                         */
- 	                                                        hasAdditionalUrlParameterToTransmit = true;
- 	                                                        var parameterNameValuePair = parameterName + "=" + parameterValue;
- 	                                                        if (personalizationServiceUrl.indexOf("?") != -1) {
- 	                                                                personalizationServiceUrl = personalizationServiceUrl + "&" + parameterNameValuePair;
- 	                                                        } else {
- 	                                                                personalizationServiceUrl = personalizationServiceUrl + "?" + parameterNameValuePair;
- 	                                                        }
- 	
- 	                                                }
- 	                                        }
- 	                                }
- 	                               
- 	                                /* semParameter */
- 	                                setAdditionalParameter("sem", "true");
- 	                        }
- 	                       
- 	                        return personalizationServiceUrl;
- 	                }
- 	        );
- 	        personalizationService.controller.getPersonalizationServiceUrl();
- 	        if (hasAdditionalUrlParameterToTransmit) {
- 	                personalizationService.controller.init.main();
- 	        }
- 	}
- 	
-</script>
-<!-- end contentOverride40.3 -->
 
 
 <!-- begin contentOverride61 -->
@@ -1645,215 +1801,6 @@ if(window['ProductThumbs']) {
 	}
 </script>
 <!-- end contentOverride61 -->
-
-<!-- begin contentOverride105_2_WCD -->
-<script type="text/javascript">
-	var CheckoutLoggingHelper = Class.create();
-	CheckoutLoggingHelper.prototype = {
-		initialize:function() {
-		
-		},
-		constants:{
-			CHECKOUT_LOGGING_HELPER_COOKIE_NAME:"checkoutLoggingHelper",
-			COOKIE_SIZE_MAX_LENGTH:3000,
-			SESSION_MAX_TIME:1800000
-		},
-		model:{
-			previousDwrRequestTime:null,
-			currentDwrRequestTime:null,
-			currentDwrRequestDate:null,
-			isCookieLengthHigh:false,
-			isSafari:false,
-			/* WCD cookies variables to keep */
-			wcdCookiesToKeep:[]
-		},
-		controller:{
-			init:{
-				orderMain:function() {
-					var checkoutGetRequestWrapper = checkoutLoggingHelper.controller.checkoutGetRequestWrapper;
-					/* Set previous time at initialization as aop wrap does not wrap the very first request.  Compensate
-					 * by setting the time at object instantiation - which will only be a few ms after the initial request.
-					 */
-					var currentDate = new Date();
-					var currentTime = currentDate.getTime();
-					checkoutLoggingHelper.model.previousDwrRequestTime = currentTime;
-					checkout.controller.dataLoadManager.getRequest = checkout.controller.dataLoadManager.getRequest.wrap(checkoutGetRequestWrapper);
-				},
-				shoppingBagMain:function() {
-					var controller = checkoutLoggingHelper.controller;
-					var model = checkoutLoggingHelper.model;
-					controller.setCookieSizeInfo();
-					controller.setUserAgentInfo();
-					var isCookieLengthHigh = model.isCookieLengthHigh;
-					var isSafari = model.isSafari;
-					if (isCookieLengthHigh) {
-						/* Clear globalSession cookie for all browsers */
-						controller.clearCookie("globalSession");
-						if (isSafari) {
-							/* Clear mkt cookies for Safari browsers only */
-							//controller.clearCookie("mktGlobalSession");
-							//controller.clearCookie("mktUniversalPersist");
-							
-							/* WCD update to clean up marketing cookies rather than delete */
-							controller.cleanCookie("mktGlobalSession");
-							controller.cleanCookie("mktUniversalPersist");
-						}
-					}
-				}
-			},
-			cleanCookie:function(cookieName) {
-				/* WCD function to clean marketing cookies up */
-				/* Deletes cookie values expect those specified to keep in data model */
-				var controller = checkoutLoggingHelper.controller;
-				var model = checkoutLoggingHelper.model;
-				var cookieStr = gidLib.getCookie( cookieName );
-				if( cookieStr != '' ) {
-					var cookieArray = cookieStr.split('&');
-					var newCookiStr = '';
-					var cookieVar;
-					
-					cookieArray.each( function( cookieArrayPair, i ) {
-						//console.log( cookieArrayPair );
-						cookieVar = cookieArrayPair.split('=');
-						cookieVar = cookieVar[0];
-					
-						if( model.wcdCookiesToKeep.include( cookieVar ) ) {
-							newCookiStr = newCookiStr + cookieArrayPair;
-							// Delimit cookie values with ampersand
-							if( i < cookieArray.length ) {
-								newCookiStr = newCookiStr + '&';
-							}
-						}
-					});
-					newCookiStr = newCookiStr.substr( 0, newCookiStr.length-1 );
-								
-					// Reset cookie with new value
-					var cookieConfiguration = cookieManagementService.api.getCookieConfigurationByCookieName(cookieName);
-					if (cookieConfiguration != null) {
-						/* Cookie is managed by cookieManagementService so proceed with cookieConfiguration from service. */
-						gidLib.setCookie(cookieConfiguration.name,
-							escape(newCookiStr),
-							cookieConfiguration.expirationDate,
-							cookieConfiguration.path,
-							cookieConfiguration.domain,
-							cookieConfiguration.isSecure);
-					} else {
-						/* Cookie is not managed by cookieManagementService so proceed with default execution. */
-						var expDate = (expDate != null ? expDate : gidLib.getFutureDate({"years":5}));
-						var cookieParams = gidLib.setCookieParamsHelper(cookieName,expDate);
-						/* Set cookie */
-						gidLib.setCookie(cookieName,
-							escape(newCookiStr),
-							cookieParams.exp,
-							cookieParams.path,
-							cookieParams.domain,
-							cookieParams.isSecure);
-
-					}
-				}
-			},
-			clearCookie:function(cookieName) {
-				if (cookieName != null) {
-					var newCookieValue = "";
-					var cookieConfiguration = cookieManagementService.api.getCookieConfigurationByCookieName(cookieName);
-					if (cookieConfiguration != null) {
-						/* Cookie is managed by cookieManagementService so proceed with cookieConfiguration from service. */
-						gidLib.setCookie(cookieConfiguration.name,
-							escape(newCookieValue),
-							cookieConfiguration.expirationDate,
-							cookieConfiguration.path,
-							cookieConfiguration.domain,
-							cookieConfiguration.isSecure);
-					} else {
-						/* Cookie is not managed by cookieManagementService so proceed with default execution. */
-						var cookieParams = gidLib.setCookieParamsHelper(cookieName,expDate);
-						/* Set cookie */
-						gidLib.setCookie(cookieName,
-							escape(newCookieValue),
-							cookieParams.exp,
-							cookieParams.path,
-							cookieParams.domain,
-							cookieParams.isSecure);
-					}
-				}
-			},
-			setPreviousDwrRequestDeltaTime:function() {
-				var CHECKOUT_LOGGING_HELPER_COOKIE_NAME = checkoutLoggingHelper.constants.CHECKOUT_LOGGING_HELPER_COOKIE_NAME;
-				var SESSION_MAX_TIME = checkoutLoggingHelper.constants.SESSION_MAX_TIME;
-				checkoutLoggingHelper.model.currentDwrRequestDate = new Date();
-				var currentDwrRequestDate = checkoutLoggingHelper.model.currentDwrRequestDate;
-				var previousDwrRequestTime = checkoutLoggingHelper.model.previousDwrRequestTime;
-				var currentDwrRequestTime = currentDwrRequestDate.getTime();
-				var isValidTimeout = false;
-				var previousDwrRequestDeltaTime = null;
-				if (previousDwrRequestTime != null) {
-					previousDwrRequestDeltaTime = currentDwrRequestTime - previousDwrRequestTime;
-					if (previousDwrRequestDeltaTime > SESSION_MAX_TIME) {
-						isValidTimeout = true;
-					}
-				} else {
-					previousDwrRequestDeltaTime = "previous delta time not yet recorded";
-				}
-				
-				gidLib.setCookieVar(CHECKOUT_LOGGING_HELPER_COOKIE_NAME, "previousDwrRequestTime", previousDwrRequestTime);
-				gidLib.setCookieVar(CHECKOUT_LOGGING_HELPER_COOKIE_NAME, "currentDwrRequestTime", currentDwrRequestTime);
-				gidLib.setCookieVar(CHECKOUT_LOGGING_HELPER_COOKIE_NAME, "dwrRequestDeltaTime", previousDwrRequestDeltaTime);
-				gidLib.setCookieVar(CHECKOUT_LOGGING_HELPER_COOKIE_NAME, "isValidTimeout", isValidTimeout);
-				/* Update previous time with current time so that the next request is ready to go */
-				checkoutLoggingHelper.model.previousDwrRequestTime = currentDwrRequestTime;
-			},
-			setCookieSizeInfo:function() {
-				var CHECKOUT_LOGGING_HELPER_COOKIE_NAME = checkoutLoggingHelper.constants.CHECKOUT_LOGGING_HELPER_COOKIE_NAME;
-				var COOKIE_SIZE_MAX_LENGTH = checkoutLoggingHelper.constants.COOKIE_SIZE_MAX_LENGTH;
-				var documentCookie = window.document.cookie;
-				if (documentCookie) {
-					if (documentCookie.length > 0 && documentCookie.indexOf(";") != -1) {
-						var documentCookieArray = documentCookie.split(";");
-						var allCookiesCount = documentCookieArray.length;
-						var allCookiesLength = documentCookie.length;
-						var isCookieLengthHigh = false;
-						if (allCookiesLength > COOKIE_SIZE_MAX_LENGTH) {
-							isCookieLengthHigh = true;
-							checkoutLoggingHelper.model.isCookieLengthHigh = isCookieLengthHigh;
-						}
-						gidLib.setCookieVar(CHECKOUT_LOGGING_HELPER_COOKIE_NAME, "allCookiesCount", allCookiesCount);
-						gidLib.setCookieVar(CHECKOUT_LOGGING_HELPER_COOKIE_NAME, "allCookiesLength", allCookiesLength);
-						gidLib.setCookieVar(CHECKOUT_LOGGING_HELPER_COOKIE_NAME, "isCookieLengthHigh", isCookieLengthHigh);
-					}
-				}
-			},
-			setUserAgentInfo:function() {
-				var CHECKOUT_LOGGING_HELPER_COOKIE_NAME = checkoutLoggingHelper.constants.CHECKOUT_LOGGING_HELPER_COOKIE_NAME;
-				var isSafari = false;
-				var userAgent = navigator.userAgent;
-				var userAgentToSearch = userAgent.toLowerCase();
-				if (userAgentToSearch.indexOf("safari") != -1) {
-					isSafari = true;
-					checkoutLoggingHelper.model.isSafari = isSafari;
-					gidLib.setCookieVar(CHECKOUT_LOGGING_HELPER_COOKIE_NAME, "userAgent", "");
-				}
-				gidLib.setCookieVar(CHECKOUT_LOGGING_HELPER_COOKIE_NAME, "isSafari", isSafari);
-			},
-			checkoutGetRequestWrapper:function(originalGetRequestMethod, requestVo, dataLoader) {
-				checkoutLoggingHelper.controller.setPreviousDwrRequestDeltaTime();
-				checkoutLoggingHelper.controller.setCookieSizeInfo();
-				checkoutLoggingHelper.controller.setUserAgentInfo();
-				originalGetRequestMethod(requestVo, dataLoader);
-			}
-		}
-	}
-	
-	if (window["checkout"] && window.location.pathname == "/checkout/order.do") {
-		var checkoutLoggingHelper = new CheckoutLoggingHelper();
-		checkoutLoggingHelper.controller.init.orderMain();
-	}
-	if (window.location.pathname == "/buy/shopping_bag.do") {
-		var checkoutLoggingHelper = new CheckoutLoggingHelper();
-		checkoutLoggingHelper.controller.init.shoppingBagMain();
-	}
-</script>
-<!-- end contentOverride105_2_WCD -->
-
 
 <!-- begin contentOverride26 - pixman fix for product pages  -->
 <script type="text/javascript">
@@ -2552,112 +2499,794 @@ contentOverride108.controller.init.main();
 
 <!-- contentOverride113 begin -->
 <script type="text/javascript">
-if (window['checkout'] && checkout.controller.modules.billing) {
+if (window['checkout'] && checkout.controller && checkout.controller.modules.billing ) {
 	checkout.controller.modules.billing.getBillingRequest = checkout.controller.modules.billing.getBillingRequest.wrap(
-		function(old) { 
-			var status = false; 
-			try { status = old(); } 
-			catch(e) { status = false; } 
-			finally { status = false; } 
-			return status; 
-		}
-	);
-}
-if (window['checkout'] && checkout.controller.modules.signIn) { 
-	checkout.controller.modules.signIn.getSignInRequest= checkout.controller.modules.signIn.getSignInRequest.wrap(
 		function(old) {
-			var status = false; 
-			try { status = old(); } 
-			catch(e) { status = false; } 
-			finally { status = false; } 
+			var status = false;
+			try { status = old(); }
+			catch(e) { status = false; }
+			finally { status = false; }
 			return status;
 		}
 	);
-} 
+}
+if (window['checkout'] && checkout.controller && checkout.controller.modules.signIn ) {
+	checkout.controller.modules.signIn.getSignInRequest = checkout.controller.modules.signIn.getSignInRequest.wrap(
+		function(old) {
+			var status = false;
+			try { status = old(); }
+			catch(e) { status = false; }
+			finally { status = false; }
+			return status;
+		}
+	);
+}
 </script>
 <!-- contentOverride113 end -->
 
-<!-- contentOverride114 begin -->
+
+<!-- begin contentOverride125_WCD -->
 <script type="text/javascript">
-if (window["imageLoader"]) {
-
-	// Undo the event binding
-	if (window["categoryInfo"]) {
-		if (categoryInfo.categoryPageCachingActive == "true") {
-			Event.stopObserving(document, 'categoryProductGrid:ready', imageLoader.initLoader);
+var leftNavUrlPatch = {
+	init: function() {
+		var sideNavCategories = $('sideNavCategories');
+			if(sideNavCategories){
+				var htmlStr = sideNavCategories.innerHTML;
+				htmlStr = htmlStr.replace(/href=".do/g, 'href="/browse/category.do');
+			$('sideNavCategories').innerHTML = htmlStr;
 		}
 	}
-	if (!isImageLoaderObserverSet) {
-		Event.stopObserving(document, "dom:loaded", imageLoader.initLoader);
+};
+Event.observe(window, "load", leftNavUrlPatch.init);
+</script>
+<!-- end contentOverride125_WCD -->
+
+<!-- begin contentOverride130 -->
+<style type="text/css">
+	#noCookie {display:none;}
+	.siteErrorSpacer {display:none;}
+</style>
+
+<script type="text/javascript">
+	if (location.pathname == "/cookieFailure.do") {
+		Event.observe(window,'load',function() {
+			$('noCookie').style.display = "block";
+			$$('.siteErrorSpacer').invoke('setStyle',{"display":"block"});
+		});
 	}
+</script>
+<!-- end contentOverride130 -->
 
-	// Override the init method
-	ImageLoaderConstructor.prototype.init = function() {
-		this.reset();
 
-		var productGrid = this.productGrid = $('tabTable')||$('tabTableOff')||$('searchProductIteration')||$$('div[class="categoryContent"]')[0];
-		if(!productGrid) return;
 
-		// make imageLoader forward/backward compatible with SOLR/ORA category page
-		// ---------------------
-		this.productList = $('mainContent').select('div[class~="productCatItem"]');
-		if(this.productList.length == 0) {
-			this.productList = $('mainContent').select('li[class~="productCatItem"]');
-		} 
-		if(this.productList.length == 0) return;
-		// ---------------------
-		
-		this.initializeImages(this.productList, this.imgs);
-		
-		var firstProductImg = Selector.findChildElements(this.productList[0], ['img']);
-
-		this.shouldFlipImgArray = firstProductImg[0].id == this.imgs[this.imgs.length - 1].img.id;
-		var productDim = this.productList[0].getDimensions();
-
-		var productViewportRowCount = this.browserDim[1] / productDim.height;
-		this.groupSize = Math.ceil(productViewportRowCount) * this.productPerRow;
-
-		this.groupCount = Math.ceil(this.productList.size() / this.groupSize);
-		
-		var productGridDim = productGrid.getDimensions();
-		var productRowCount = Math.floor(productGridDim.height / productDim.height);
-		var rowSize = productRowCount / this.groupCount;
-		var rowsHeight = productDim.height * rowSize;
-		
-		this.rowsHeightInverse = 1/rowsHeight;
-
-		var productGridOffset = Position.cumulativeOffset(productGrid);
-		this.minHeight = productGridOffset[1];
-		this.maxHeight = this.minHeight + productGridDim.height - rowsHeight;
-		
-		this.scrollHandler = this.fetch.bind(imageLoader);
-		Event.observe(window, 'scroll', this.scrollHandler);
-
-		this.fetch();
-	};
-
-	// re-instantiate imageLoader
-	window['imageLoader'] = null;
-	window['imageLoader'] = new ImageLoaderConstructor();
-
-	// re-bind events
-	window['isImageLoaderObserverSet'] = false;
-	if (window["categoryInfo"]) {
-		if (categoryInfo.categoryPageCachingActive == "true") {
-			Event.observe(document, 'categoryProductGrid:ready', imageLoader.initLoader);
-			window['isImageLoaderObserverSet'] = true;
+<script type="text/javascript">
+// contentOverride133 begin
+if (window["browserService"]) {
+	browserService.controller.managers.mobileBrowserManager.controller.isMobilePageView = function() {
+		var mobileBrowserManager = browserService.controller.managers.mobileBrowserManager;
+		var IS_MOBILE_PAGE_VIEW_PARAMETER_NAME = mobileBrowserManager.constants.IS_MOBILE_PAGE_VIEW_PARAMETER_NAME;
+		var isMobilePageView = false;
+		var isMobilePageViewQueryParameterValue = gidLib.getQuerystringParam(IS_MOBILE_PAGE_VIEW_PARAMETER_NAME);
+		if (isMobilePageViewQueryParameterValue == "true") {
+			isMobilePageView = true;
 		}
+		return isMobilePageView;
 	}
-	if (!window['isImageLoaderObserverSet']) {
-		Event.observe(document, "dom:loaded", imageLoader.initLoader);
-		window['isImageLoaderObserverSet'] = true;
-	}
+	browserService.controller.init.main();
+}
+// contentOverride133 end
+</script>
+
+<!-- BEGIN IT Override #138 - excessive omniture call mitigation -->
+<script type="text/javascript">
+if (reportingService && reportingService.controller.viewManagers.rewardBannerViewManager && reportingService.controller.viewManagers.rewardBannerViewManager.controller) {
+reportingService.controller.viewManagers.rewardBannerViewManager.controller.getReportRequest = function() {};
 }
 </script>
-<!-- contentOverride114 end -->
+<!-- END IT Override #138 - excessive omniture call mitigation -->
 
 
-<!-- END Content Item File: /content/0004/926/089/cn4926089.html -->
+<!-- begin contentOverride151.2 -->
+<script type="text/javascript">
+	pixelManagementService.controller.eventHandlers.domLoadedHandler = function () {
+		var isPersonalizationDataReady = personalizationService.model.isPersonalizationDataReady;
+		var pixelManagementServiceReadyHandler = this.controller.eventHandlers.pixelManagementServiceReadyHandler
+				.bind(this);
+		if (isPersonalizationDataReady) {
+			pixelManagementServiceReadyHandler();
+		} else {
+			Event.observe(document, "personalizationData:ready",
+					pixelManagementServiceReadyHandler);
+		}
+	}
+	if (!(/product.do$/.test(document.location.pathname))) {
+		pixelManagementService.override = {};
+		pixelManagementService.override.domLoadedHandlerBound = pixelManagementService.controller.eventHandlers.domLoadedHandler.bind(pixelManagementService);
+		processingService.api.addApplicationMethodToRegistry(pixelManagementService.override.domLoadedHandlerBound, "pixel management service");
+	}
+</script>
+<!-- end contentOverride151.2 -->
+
+<!-- BEGIN content override CNOV-5 -->
+<style type="text/css">
+#flyout_size .flyout-footer .clearAllButton {display:none;}
+#flyout_brand .flyout-footer .clearAllButton {display:none;}
+
+#sideNavFacets {
+	background-color: #F0F0F0;
+}
+
+#facet_price {
+	border-bottom: 2px solid black;
+}
+
+img.facet_flyout_close_button {
+	display:inline;
+}
+
+#facet_color .color-option.disabled {
+	background-color:#F0F0F0;
+}
+
+#facet_color .color-option.disabled:hover {
+	background-color:#F0F0F0;
+}
+
+</style>
+<!-- END content override CNOV-5 -->
+
+
+<!--  BEGIN content override CNOV-5 JS -->
+<script type="text/javascript">
+if ((brandConst.IS_FACET_ENABLED === 'true' || brandConst.IS_FACET_ENABLED === true) && (brandConst.IS_NAV2_ENABLED === 'true' || brandConst.IS_NAV2_ENABLED === true) && window["navigationService"]) {
+	navigationService.controller.managers.categoryFacetedSearchManager.view.setCategoryFacetedSearchDataToView = navigationService.controller.managers.categoryFacetedSearchManager.view.setCategoryFacetedSearchDataToView.wrap(function(om) {
+		om();
+		if ($('size_select_text')) {
+			$('size_select_text').select('img')[0].setStyle({display:"inline",cursor:"pointer"}).observe("click",function(event) {
+				navigationService.controller.managers.categoryFacetedSearchManager.util.facetFlyoutExpandContract.bind($('facet_size_flyout'),false,true)();
+				event.stop();
+			});
+		}
+		if ($('brand_select_text_header')) {
+			$('brand_select_text_header').select('img')[0].setStyle({display:"inline",cursor:"pointer"}).onclick = function() {
+				setTimeout("navigationService.controller.managers.categoryFacetedSearchManager.util.facetFlyoutExpandContract.bind($('facet_brand_flyout'),false,true)();",100);
+				navigationService.controller.managers.categoryFacetedSearchManager.util.facetFlyoutExpandContract.bind($('facet_brand_flyout'),false,true)();
+				event.stop();
+			};
+		}
+	});
+}
+</script>
+<!--  END content override CNOV-5 JS -->
+
+<!-- BEGIN content override CNOV-9 JS -->
+<script type="text/javascript">
+function swapSignInFormTarget() {
+	var signInFormTargetLocation = location.search;
+		if (signInFormTargetLocation.indexOf('.jsp')) {
+			 var currentSignInTargetURL = $('existing_targetURL').value;
+			 var currentRegisterTargetURL = $('new_targetURL').value;
+			 if (currentSignInTargetURL.indexOf('www') > -1) {
+			 } else {
+				 if (currentSignInTargetURL && currentSignInTargetURL.indexOf('.jsp') > -1) {
+					 var newSignInTargetURL = 'http://www.gapcanada.ca' + currentSignInTargetURL;
+				 } else {
+					 var newSignInTargetURL = '/';
+				 }
+				 $('existing_targetURL').value = newSignInTargetURL;
+			 }
+			 if (currentRegisterTargetURL.indexOf('www') > -1) {
+			 } else {
+				 if (currentRegisterTargetURL && currentRegisterTargetURL.indexOf('.jsp') > -1) {
+					 var newRegisterTargetURL = 'http://www.gapcanada.ca' + currentRegisterTargetURL;
+				 } else {
+					 var newRegisterTargetURL = '/';
+				 }
+				 $('new_targetURL').value = newRegisterTargetURL;
+			 }
+		}
+}
+	if (location.pathname =='/profile/sign_in.do') {
+		document.observe("dom:loaded",function() {
+			swapSignInFormTarget();																 
+		});
+}
+</script>
+<!-- END content override CNOV-9 JS -->
+
+<!-- BEGIN content override CNOV-10 CSS-->
+<style type="text/css">
+
+body.locale_fr_CA div.facet div.flyout-panel div.facet-invisible-edge div.facet-flyout .flyout-body .size_facet_category .size_option.wide_box,
+body.locale_en_GB div.facet div.flyout-panel div.facet-invisible-edge div.facet-flyout .flyout-body .size_facet_category .size_option.wide_box {
+	width: 66px;
+}
+
+div.facet div.flyout-panel div.facet-invisible-edge div.facet-flyout .flyout-footer .clearAllButton {
+	display: none !important;
+	visibility: hidden !important;
+}
+
+/* Begin CNOV-23 - Hide debug string by default */
+div#productSearchServiceLink {
+	display: none;
+}
+/* End CNOV-23 - Hide debug string by default */
+</style>
+<!-- END content override CNOV-10 CSS-->
+
+<!-- BEGIN content override CNOV-10 JS-->
+<script type="text/javascript">
+if ((brandConst.IS_FACET_ENABLED === 'true' || brandConst.IS_FACET_ENABLED === true) && (brandConst.IS_NAV2_ENABLED === 'true' || brandConst.IS_NAV2_ENABLED === true) && window["navigationService"]) {
+
+navigationService.controller.managers.categoryFacetedSearchManager.util.sizeFlyoutAddScrollIfNecessary = function(){
+	var sizeFacetCategoryContainer = $('size_facet_category_container');
+	if( sizeFacetCategoryContainer.getHeight() > 430){
+		$('size_flyout_body').addClassName('size-facet-scroll-enabled');						    	
+	}
+};
+
+navigationService.controller.managers.categoryFacetedSearchManager.util.facetFlyoutExpandContract  = function(explicitExpand,explicitContract,event){
+		var categoryFacetedSearchManager = navigationService.controller.managers.categoryFacetedSearchManager;
+		var $el = Element.extend(this);
+		var elChildren = $el.childElements();
+		var closePanelElem = "";
+		if(!explicitContract && (!$el.hasClassName('flyout_activated') || explicitExpand)){
+		    	var flyoutPanel = null;
+		    	$el.addClassName('flyout_activated');
+		          elChildren.each(function(elChild,i){
+		                if(elChild.hasClassName('facet-invisible-edge')){
+		                      elChild.removeClassName('hideMeOffscreen');
+		                      flyoutPanel = elChild;
+		                }
+		                if(elChild.hasClassName('facetName')){
+		                	var facetTitleArrow = elChild.select('.open-flyout-arrow')[0];
+		                	if(!facetTitleArrow.hasClassName('hideMe')){ 
+		                		facetTitleArrow.addClassName('hideMe');
+		                	}
+		                }
+		          });
+		          
+		          var supportScrolling = $el.id.split('_').indexOf('size')> 0;
+		          if(supportScrolling){
+		        	  categoryFacetedSearchManager.util.sizeFlyoutAddScrollIfNecessary();
+		          }
+		          categoryFacetedSearchManager.util.flyoutPositionInBrowserWindow($el,flyoutPanel);						          
+		    } else {
+		          elChildren.each(function(elChild,i){
+		                $el.removeClassName('flyout_activated');
+		                if(elChild.hasClassName('facet-invisible-edge')){
+		                      elChild.addClassName('hideMeOffscreen');
+		                }
+		                if(elChild.hasClassName('facetName')){
+		                	var facetTitleArrow = elChild.select('.open-flyout-arrow')[0];
+		                	if(facetTitleArrow.hasClassName('hideMe')){ 
+		                		facetTitleArrow.removeClassName('hideMe');
+		                	}
+		                }
+		          });
+		    }		    
+		};
+
+navigationService.controller.managers.categoryFacetedSearchManager.util.facetFlyoutExpandContractIPad =  function(event){
+		    var categoryFacetedSearchManager = navigationService.controller.managers.categoryFacetedSearchManager;
+		    var $el = Element.extend(this);
+		    var elChildren = $el.childElements();
+		    var closePanelElem = "";
+
+		    if(!$el.hasClassName('flyout_activated')){
+		    	var flyoutPanel = null;
+		    	$el.addClassName('flyout_activated');
+		          elChildren.each(function(elChild,i){
+		                if(elChild.hasClassName('facet-invisible-edge')){
+		                      elChild.removeClassName('hideMeOffscreen');
+		                      flyoutPanel = elChild;
+		                }
+		                if(elChild.hasClassName('facetName')){
+		                	var facetTitleArrow = elChild.select('.open-flyout-arrow')[0];
+		                	if(!facetTitleArrow.hasClassName('hideMe')){ 
+		                		facetTitleArrow.addClassName('hideMe');
+		                	}
+		                }
+		          });
+
+		          var supportScrolling = $el.id.split('_').indexOf('size')> 0;
+		          if(supportScrolling){
+		        	  categoryFacetedSearchManager.util.sizeFlyoutAddScrollIfNecessary();
+		          }
+		          categoryFacetedSearchManager.util.flyoutPositionInBrowserWindow($el,flyoutPanel);						          
+		    } else {
+		          elChildren.each(function(elChild,i){
+		                $el.removeClassName('flyout_activated');
+		                if(elChild.hasClassName('facet-invisible-edge')){
+		                      elChild.addClassName('hideMeOffscreen');
+		                }
+		                if(elChild.hasClassName('facetName')){
+		                	var facetTitleArrow = elChild.select('.open-flyout-arrow')[0];
+		                	if(facetTitleArrow.hasClassName('hideMe')){ 
+		                		facetTitleArrow.removeClassName('hideMe');
+		                	}
+		                }
+		          });
+		    }		    
+		};
+
+navigationService.controller.managers.categoryFacetedSearchManager.controller.facetManagers.categorySizeFacetManager.view.cacheFacetOptionElements = function(facet) {
+							var categoryFacetedSearchManager = navigationService.controller.managers.categoryFacetedSearchManager;
+							var facetManager = categoryFacetedSearchManager.controller.facetManagers.categorySizeFacetManager;
+							var model = categoryFacetedSearchManager.model;
+							var facetModel = facetManager.model;
+							var view = facetManager.view;
+							var cache = facetModel.cache;
+							var constants = categoryFacetedSearchManager.constants;
+							
+							var sizeFlyoutBody = $(cache['SIZE_FLYOUT_BODY']);
+							cache['SIZE_FLYOUT_BODY'] = sizeFlyoutBody;
+							var sizeFacetOptionElements = sizeFlyoutBody.select('li.size_option label input');
+							var sizeFacetOptionElementsCache = cache['FACET_OPTION_ELEMENTS'];
+							
+							var element = null;
+							for(var i=0, sizeFacetOptionsSize = sizeFacetOptionElements.length; i<sizeFacetOptionsSize; i++) {
+								element = sizeFacetOptionElements[i];
+								if(element.value != null && element.value.length > 0) {
+									sizeFacetOptionElementsCache.set(element.value, element);
+								}
+							}
+
+							var flyout = $(cache['SIZE_FLYOUT']);
+							cache['SIZE_FLYOUT'] = flyout;
+							
+							var isIpad = navigationService.productGridHelper.model.isIpad;  
+							if(isIpad){ //remove the hideOffScreen lass from the close element
+								$('facet_size').observe('click',
+										function(event) {
+											var target = event.srcElement || event.target; 
+											if (target.id == 'facet_size' ||
+												target.id == 'facet_size_flyout' ||
+												target.id == 'size_name' ||
+												target.id == 'size_instr_copy') {
+												categoryFacetedSearchManager.util.facetFlyoutExpandContractIPad.call(flyout);
+												event.stop();
+											}
+										}
+									);					        
+							} else {
+								flyout.observe('mouseenter',  categoryFacetedSearchManager.util.facetFlyoutExpandContract.bind(flyout,true,false));
+								$('size_instr_copy').observe('focus',categoryFacetedSearchManager.util.facetFlyoutExpandContract.bind(flyout,true,false));
+								$('size_close_flyout').observe('focus', categoryFacetedSearchManager.util.facetFlyoutExpandContract.bind(flyout,false,true));
+					        }
+							flyout.observe('mouseleave', categoryFacetedSearchManager.util.facetFlyoutExpandContract.bind(flyout,false,true));
+							var flyout_close = $(cache['SIZE_FLYOUT_CLOSE_BUTTON']); // mouse leave facet_flyout_close_button
+							flyout_close.observe('click', categoryFacetedSearchManager.util.facetFlyoutExpandContract.bind(flyout,false,true));
+							
+							var sizeVariants = $(cache['VARIANT_PANEL']);
+							cache['VARIANT_PANEL'] = sizeVariants;
+							var variantCheckBoxes = sizeVariants.select('input');
+							cache['VARIANT_BOXES'] = variantCheckBoxes;
+							
+							cache['FLYOUT_CLEAR_ALL_BTN'] = $$('div#flyout_size div.flyout-footer span.clearAllButton')[0];
+							cache['SIZE_FLYOUT_PANEL'] = $(cache['SIZE_FLYOUT_PANEL']);
+							cache['SIZE_FACET_CATEGORY_ROWS'] = $$('.size_facet_category');
+							facetModel.selectedVariants = view.setSelectedVariants();
+
+							// grab all sfc containers
+							// fixes issue to hide sfc if no variant 
+							// matches selected default variant on initial load
+							cache['SIZE_FACET_CATEGORY_ROWS'].each(function(sfcRow, idx){
+								var categoryDimensions = sfcRow.select('.category_dimension');
+								var variantRows = null, variantPartition = null;
+								
+								if(categoryDimensions.length > 1){
+									categoryDimensions.each(function(sfcDim){
+										variantRows = sfcDim.select('.variant_container');
+										variantPartition = variantRows.partition(function(vRow){
+											return vRow.hasClassName('hideMe');
+										});
+										
+										if (variantRows.length == variantPartition[0].length){
+											sfcDim.addClassName('hideMe');
+										}
+									});
+								} else {
+									variantRows = sfcRow.select('.variant_container');
+									variantPartition = variantRows.partition(function(vRow){
+										return vRow.hasClassName('hideMe');
+									});
+									
+									if (variantRows.length == variantPartition[0].length){
+										sfcRow.addClassName('hideMe');
+									}
+								}
+							});
+							
+							categoryFacetedSearchManager.view.fixSizeFacetVariantName();
+							
+							var leftRailSelectionContainer = $(facet.searchFacetId +"_current_selection");
+							if(leftRailSelectionContainer){
+								var leftRailListContainer = leftRailSelectionContainer.select('ul.current-selection-list')[0];
+								var clearAllBtn = leftRailSelectionContainer.select('span.clearAllButton')[0];
+								
+								Element.extend(leftRailListContainer);
+								
+								cache['LEFT_RAIL_CONTAINER'] = leftRailSelectionContainer;
+								cache['LEFT_RAIL_LIST_CONTAINER'] = leftRailListContainer;
+								cache['LEFT_RAIL_CLEAR_ALL_BTN'] = clearAllBtn;
+								
+								var leftRailSelectedOptions = leftRailListContainer.select('li.current-selection-list-item');
+								var selectedSize = leftRailSelectedOptions.length;
+								var selectedOptionsCache = cache['FACET_OPTION_SELECTED_ELEMENTS'];
+								var selectedOption = null, sfvId = '';
+								for(var i=0; i<selectedSize; i++) {
+									selectedOption = leftRailSelectedOptions[i];
+									sfvId = selectedOption.getAttribute('facetValueId');
+									selectedOptionsCache.set(sfvId, selectedOption);
+								}
+							}
+							  facetManager.model.selectedOptionIds = facetManager.view.getSelectedOptionIds();
+							  
+							  var selectedOptions = facetManager.model.selectedOptions;
+							  facetManager.model.hasSelectedOptions = selectedOptions.size() > 0 && selectedOptions.join('').length > 0;
+							  facetManager.view.setSelectedMaster();
+							  
+							facetManager.model.isCached = true;
+						};
+}
+</script>
+<!-- END content override CNOV-10 JS-->
+
+<!-- BEGIN content override CNOV-16 -->
+<script type="text/javascript">
+
+	if (location.hostname.indexOf(".app.gidapps.") > 0 && 
+		(location.pathname == "/browse/category.do" || 
+		location.pathname == "/browse/search.do" || 
+		location.pathname == "/browse/categorySearch.do" || 
+		location.pathname == "/browse/mpp.do")) {
+		
+		var facetsToggler = {
+			isFacetsOn : null,
+			toggle : function() {
+				var url = "http://" + location.hostname + location.pathname;
+			
+				if (facetsToggler.isFacetsOn) {
+					var params = "&categoryFacetsEnabled=false&isProductCategoryFacetedSearchActive=false&isFacetedCategoryActive=false&isIgnoreCookiesActive=false";
+				} else {
+					var params = "&categoryFacetsEnabled=true&isProductCategoryFacetedSearchActive=true&isFacetedCategoryActive=true&isIgnoreCookiesActive=true";
+				}
+				
+				if (location.search.indexOf("&categoryFacetsEnabled") > 0) {
+					url += location.search.substring(0,location.search.indexOf("&categoryFacetsEnabled")) + params;
+				} else {
+					url += location.search + params;
+				}
+				
+				url += location.hash;
+				
+				location.href = url;
+			
+			},
+			
+			init : function() {
+				if ($('sideNavFacets')) {
+					facetsToggler.isFacetsOn = true;
+				} else {
+					facetsToggler.isFacetsOn = false;
+				}
+
+				
+				if (facetsToggler.isFacetsOn != null) {
+					if (facetsToggler.isFacetsOn) {
+						var buttonText = "enable legacy category";
+					} else {
+						var buttonText = "enable facet category";
+					}
+					try {
+						$('previewContent').select('form')[1].select('ul')[0].insert('<li><input id="facetsToggleButton" type="button" value="' + buttonText + '" onclick="facetsToggler.toggle(); return false;"></input></li>')
+					} catch(e) {
+					}
+				}
+			
+			}
+		}
+		
+		Event.observe(window,"load", facetsToggler.init);
+		
+	}
+
+</script>
+<!-- END content override CNOV-16 -->
+
+<!-- CNOV-17: ProductSearch "}}" workaround -->
+<script type="text/javascript">
+//CNOV-17
+if (brandConst.IS_NAV2_ENABLED === 'true' && brandConst.IS_FACET_ENABLED === 'true' && window['reportingService'] && reportingService.controller.viewManagers.categoryFacetedSearchViewManager && reportingService.controller.viewManagers.categoryFacetedSearchViewManager.controller) {
+
+    /**
+     * Tries to parse for a doubled '}}' at the end of the json.  If that succeeds, then process and report
+     * "malformedJSONFixed".  Otherwise report "malformedJSON" and retry once.  If still failing, report
+     * "malformedJSONTwice" and display an error to the user.
+     **/
+    navigationService.controller.managers.categoryFacetedSearchManager.controller.handlers.getCategoryFacetedSearchDataHandlers.malformedJSONHandler = function (response, e) {
+        var categoryFacetedSearchManager = navigationService.controller.managers.categoryFacetedSearchManager;
+        var model = categoryFacetedSearchManager.model;
+        var viewManager = reportingService.controller.viewManagers.categoryFacetedSearchViewManager;
+
+        var returnErrorToUser = false;
+
+        // If doubled trailing "}}"
+        if (/}}$/.test(response.transport.responseText)) {
+            var newJSON = response.transport.responseText.substring(0, response.transport.responseText.length - 1);
+            try {
+                response.responseJSON = newJSON.evalJSON();
+            } catch (e) {
+                if (!model.isRetry) {
+
+                    // Note that we're attempting a retry
+                    model.isRetry = true;
+
+                    document.fire("categoryFacetedSearchDataRequest:end");
+                    model.dataRequestStatus = categoryFacetedSearchManager.constants.requestStatus.END;
+
+                    viewManager.model.exceptionType = "malformedJSON";
+                    viewManager.controller.getReportRequest();
+
+                    categoryFacetedSearchManager.controller.getCategoryFacetedSearchData(null, model.latestFacetRequestUrl + "&retry=true");
+
+                    return;
+                } else {
+                    // Retry also failed
+                    returnErrorToUser = true;
+                    viewManager.model.exceptionType = "malformedJSONTwice";
+
+                }
+            }
+
+            // Re-parse worked
+
+            model.isRetry = false;
+
+            if (!returnErrorToUser) {
+                viewManager.model.exceptionType = "malformedJSONFixed";
+                response.transport.response = newJSON;
+            }
+        } else {
+
+            if (!model.isRetry) {
+
+                // Note that we're attempting a retry
+                model.isRetry = true;
+
+                document.fire("categoryFacetedSearchDataRequest:end");
+                model.dataRequestStatus = categoryFacetedSearchManager.constants.requestStatus.END;
+
+                viewManager.model.exceptionType = "malformedJSON";
+                viewManager.controller.getReportRequest();
+
+                categoryFacetedSearchManager.controller.getCategoryFacetedSearchData(null, model.latestFacetRequestUrl + "&retry=true");
+            } else {
+                returnErrorToUser = true;
+                viewManager.model.exceptionType = "malformedJSONTwice";
+
+                // clear retry
+                model.isRetry = false;
+            }
+        }
+
+        // Have to report error to user
+        if (returnErrorToUser) {
+            var view = categoryFacetedSearchManager.view;
+
+            if (categoryFacetedSearchManager.model.isDomReady) {
+                view.renderExceptionErrorMessage();
+            } else {
+                Event.observe(window, 'load', view.renderExceptionErrorMessage);
+            }
+        }
+
+    };
+
+
+
+    navigationService.controller.managers.categoryFacetedSearchManager.controller.handlers.getCategoryFacetedSearchDataHandlers.completeHandler = function (transport) {
+        var categoryFacetedSearchManager = navigationService.controller.managers.categoryFacetedSearchManager;
+        var model = categoryFacetedSearchManager.model;
+
+        if (!model.isDomReady) return;
+        var spinner = navigationService.productGridHelper.cachedElements.loadingSpinner;
+        if (!spinner.hasClassName('hideMe')) {
+            spinner.addClassName('hideMe');
+        }
+    };
+
+
+    navigationService.controller.managers.categoryFacetedSearchManager.controller.handlers.getCategoryFacetedSearchDataHandlers.successHandler = function (response) {
+
+        // Workaround for "fixed" bad JSON
+        if (response.responseJSON == undefined) {
+            // Should have been previously handled as an exception
+            if (response.request.responseJSON == null) {
+                return;
+            }
+
+            response.responseJSON = response.request.responseJSON;
+            response.responseText = response.request.responseText;
+        }
+
+        var categoryFacetedSearchManager = navigationService.controller.managers.categoryFacetedSearchManager;
+
+
+        var model = categoryFacetedSearchManager.model;
+        var constants = categoryFacetedSearchManager.constants;
+
+        // Cleanup request-related variables
+        model.isRetry = false;
+
+        var log = loggingService.api.getLog();
+        log.info('loading response for URL [ ' + response.responseJSON.resourceUrl + ' ]');
+
+        model.data = response.responseJSON;
+        model.requestedLocale = model.data.localeInfo.requestedLocale;
+
+        if (!categoryFacetedSearchManager.controller.handlers.isResponseForLatestRequest(response)) return;
+
+        model.isDataReady = true;
+        var productCategory = model.data.productCategoryFacetedSearch.productCategory;
+
+        model.hasSearchResults = (!Object.isUndefined(productCategory.childCategories) || !Object.isUndefined(productCategory.childProducts));
+        model.dataRequestStatus = constants.requestStatus.READY;
+        if (model.isDomReady) {
+            document.fire("categoryFacetedSearchData:ready");
+
+            var spinner = navigationService.productGridHelper.cachedElements.loadingSpinner;
+            if (!spinner.hasClassName('hideMe')) {
+                spinner.addClassName('hideMe');
+            }
+        }
+
+        var areAllSubCatsOutfit = model.data.productCategoryFacetedSearch.productCategory.areAllSubCatsOutfit == "true";
+        var productToolsLineBottom = categoryFacetedSearchManager.constants.elementIds.PRODUCT_SEARCH_HELPER_TOOLS_CONTAINER_BOTTOM;
+
+        if (!areAllSubCatsOutfit) {
+            var productToolsLineBottom = categoryFacetedSearchManager.constants.elementIds.PRODUCT_SEARCH_HELPER_TOOLS_CONTAINER_BOTTOM;
+            var productToolsLineBottomEle = $(productToolsLineBottom);
+            if (productToolsLineBottomEle) productToolsLineBottomEle.appear();
+        }
+
+        if (navigationService.preview && navigationService.preview.productHighlight.isPreviewEnable()) {
+            if (objPreview.previewMode == "WIP") {
+                objPreview.togglePreview(true);
+                navigationService.preview.productHighlight.setElementHighLighter();
+            }
+        }
+
+        categoryFacetedSearchManager.view.fixSizeFacetVariantName();
+
+    };
+
+    
+
+    navigationService.controller.managers.categoryFacetedSearchManager.controller.handlers.getCategoryFacetedSearchDataHandlers.createHandler = function (transport) {
+        var categoryFacetedSearchManager = navigationService.controller.managers.categoryFacetedSearchManager;
+        var model = categoryFacetedSearchManager.model;
+
+        if (!model.isDomReady) return;
+
+        var productHighlights = $$('.productHighlight');
+        productHighlights && productHighlights.each(function(highlight, index) {highlight.remove();});
+
+        var productToolsLineBottom = categoryFacetedSearchManager.constants.elementIds.PRODUCT_SEARCH_HELPER_TOOLS_CONTAINER_BOTTOM;
+        var productGridHelper = navigationService.productGridHelper;
+
+        if(quickLook.isQuickLookOpen) { quickLook.closeQuickLook(); }
+
+        productGridHelper.api.renderProductGrid({childProducts: null, childCategories: []});
+
+        var cachedElements = productGridHelper.cachedElements;
+        if (model.isInitialPageLoad) {
+            cachedElements.loadingSpinner.addClassName('hideMe');
+        } else {
+            cachedElements.loadingSpinner.removeClassName('hideMe');
+        }
+        var productToolaBottomEle = $(productToolsLineBottom);
+        if (productToolaBottomEle) productToolaBottomEle.setStyle('display:none');
+
+        cachedElements.productGrid.update("");
+
+    };
+
+    navigationService.controller.managers.categoryFacetedSearchManager.controller.handlers.getCategoryFacetedSearchDataHandlers.exceptionHandler = function (response, e, timedOut) {
+
+        var categoryFacetedSearchManager = navigationService.controller.managers.categoryFacetedSearchManager;
+        var model = categoryFacetedSearchManager.model;
+        model.data = response.responseJSON;
+
+        var malformedJSONRegExp = /^Badly formed JSON string/;
+        var malformedJSON = (e != undefined && malformedJSONRegExp.test(e.message));
+
+        if (!malformedJSONRegExp && !timedOut && !categoryFacetedSearchManager.controller.handlers.isResponseForLatestRequest(response)) {
+            return;
+        }
+
+        var viewManager = reportingService.controller.viewManagers.categoryFacetedSearchViewManager;
+        var viewManagerModel = viewManager.model || {};
+        viewManagerModel.exceptionType = (model.data || {}).exceptionType;
+
+        if (timedOut) {
+            model.dataRequestStatus = categoryFacetedSearchManager.constants.requestStatus.END;
+            viewManagerModel.timedOut = true;
+        } else if (malformedJSON) {
+            categoryFacetedSearchManager.controller.handlers.getCategoryFacetedSearchDataHandlers.malformedJSONHandler(response, e);
+            return;
+        } else if (response && response.status == 404) {
+            viewManagerModel.exceptionType = "404";
+        } else {
+            var error = e != undefined ? ('js exception: ' + e.message) : 'no js exception'; 
+
+            if (viewManagerModel.exceptionType == undefined) {
+                viewManagerModel.exceptionType = error;
+            } else {
+                viewManagerModel.exceptionType += ('|' + error)
+            }
+        }
+
+        var view = categoryFacetedSearchManager.view;
+
+        if (categoryFacetedSearchManager.model.isDomReady) {
+            view.renderExceptionErrorMessage();
+        } else {
+            Event.observe(window, 'load', view.renderExceptionErrorMessage);
+        }
+
+    };
+
+
+    reportingService.controller.viewManagers.categoryFacetedSearchViewManager.controller.setReportModel = function () {
+        // report managers
+        var parent = reportingService.controller.viewManagers.categoryFacetedSearchViewManager;
+
+        var objKeyword = parent.searchAppManager.objKeyword,
+            data = parent.facetSearchManager.model.data,
+            model = parent.model;
+
+        parent.searchAppManager.setSearchProcessorKeywordValues();
+
+        Object.extend(model, {
+            originalSEvent: s.events,
+            viewType: model.reportName,
+            searchKeyword: objKeyword.strValue,
+            searchDivision: objKeyword.strDivision,
+            previousPage: objKeyword.strPageName,
+            previousURL: objKeyword.strPath,
+            numberOfSearchResults: parent.facetedSearchAppManager.getNumberOfSearchResults(),
+            hasNoProducts: data != null && data.productCategoryFacetedSearch.totalItemCount == 0
+        });
+
+        if (model.exceptionType != undefined) {
+            model.isException = true;
+        }
+
+    }.bind(reportingService.controller.viewManagers.categoryFacetedSearchViewManager);
+
+    reportingService.controller.viewManagers.categoryFacetedSearchViewManager.controller.setCleanUp = reportingService.controller.viewManagers.categoryFacetedSearchViewManager.controller.setCleanUp.wrap(function (originalMethod) {
+        reportingService.controller.viewManagers.categoryFacetedSearchViewManager.model.exceptionType = undefined;
+
+        originalMethod();
+    });
+}
+</script>
+<!-- END content override CNOV-17 JS -->
+
+<!-- BEGIN: Override CNOV-19 -->
+<script type="text/javascript">
+if (location.hostname.indexOf(".gidapps.") > 0) {
+	Ajax.Base.addMethods({
+		timeout: 60000
+	});
+}
+</script>
+<!-- END: Override CNOV-19 -->
+
+<!-- END Content Item File: /content/0005/600/273/cn5600273.html -->
 
 
 
@@ -2665,92 +3294,159 @@ if (window["imageLoader"]) {
 <!-- BEGIN Content Item File: /content/0004/715/768/cn4715768.html -->
 
 <meta name="viewport" content="width = 1024">
-<script src="/Asset_Archive/GPWeb/content/0004/715/768/assets/iPad.js"></script>
+
+<!-- begin wcd override -->
 <script type="text/javascript">
-var browserUserAgent = navigator.userAgent;
-if (browserUserAgent.indexOf("iPad") != -1) {
-	iPadInit();
-}
+ // iOS 4 loader override - take down after facets are live
+ var myiOSbrowserAgent = navigator.userAgent;
+ if (myiOSbrowserAgent.indexOf("iPad") != -1) {
+ 	var iOSVersionSection = myiOSbrowserAgent.split(" OS ")[1];
+ 	var iOSVersion = iOSVersionSection.split(" like")[0];
+	if ( (window["imageLoader"]) && (iOSVersion.indexOf("4_") !=-1) ) {
+		imageLoader.fetch = imageLoader.fetch.wrap(function(om) {
+			om();
+			for (var i=0;i<imageLoader.groupCount;i++) {
+				imageLoader.loadImgs(i);
+			}
+		});
+	}
+ }
 </script>
+<!-- end wcd override -->
 
 <!-- END Content Item File: /content/0004/715/768/cn4715768.html -->
 
 
 
 <!-- container 7 -->
-<!-- BEGIN Content Item File: /content/0005/149/180/cn5149180.html -->
+<!-- BEGIN Content Item File: /content/0005/867/094/cn5867094.html -->
 
+
+<script type="text/javascript" src="/Asset_Archive/GPWeb/content/0005/867/094/container7_en.js"></script>
+
+<!-- Shipping option WCD overrides
 <script type="text/javascript">
-document.observe("dom:loaded", function() 
-    {
-    if($('shippingOptionsRadioText1341')!=null)
-        {
-            $("shippingOptionsRadioText1341").update("7-9 business days - FREE Every Day ($50 min)");
-        }
-		
-		if( $("shippingOptionsRadioText2116") ) {
-			$("shippingOptionsRadioText2116").update("12/23 Delivery - $8.00 (FREE on orders over $50)");
-			$("shippingOptionsRadioText2116").setStyle({ fontSize:'9px' });
-		}
-		else if( $("shippingOptionsRadioText2118") ) {
-			$("shippingOptionsRadioText2118").update("12/23 Delivery - $8.00 (FREE on orders over $50)");
-			$("shippingOptionsRadioText2118").setStyle({ fontSize:'9px' });
-		}
-		else if( $("shippingOptionsRadioText2120") ) {
-			var oldString = $("shippingOptionsRadioText2120").innerHTML;
-			if (oldString.indexOf("FREE") != -1) {
-				$("shippingOptionsRadioText2120").update("12/23 Delivery - FREE (FREE on orders over $50)");
-			} else {
-				$("shippingOptionsRadioText2120").update("12/23 Delivery - $8.00 (FREE on orders over $50)");
-			}
-				$("shippingOptionsRadioText2120").setStyle({ fontSize:'9px' });
-		}		
-		
-    });
-</script>
-<!-- Shipping options 11am fix -->
-<script type="text/javascript">
+
+var shoppingBagUrls = ['/buy/shopping_bag.do','/buy/shopping_bag_delete_item.do','/buy/shopping_bag_save_item.do','/buy/shopping_bag_move_item.do','/buy/edit_shipping_method_bag.do'];
+if( shoppingBagUrls.include( location.pathname ) || location.pathname == '/checkout/order.do' ) {
+
 document.observe("dom:loaded", function() {
+	var shipOption1_7To9Day = '';
+	var shipOption1_7To9DayArr = ["2113","2013"];
+	var shipOption2_3To5Day = '';
+	var shipOption2_3To5DayArr = ["2114","2115","2120","2121","2118","2119","2116","2117"];
+	var shipOption3_2Day = '';
+	var shipOption3_2DayArr = ["2122","2123","1343","1344","2024","2025"];
+	var shipOption4_1Day = '';
+	var shipOption4_1DayArr = ["2124","2125","1345","1356","2022","2023"];
+	// still 2 to add for 12/24
 
+	shipOption1_7To9DayArr.each( function( opt, i ) {
+		if( $('selectedShippingMethod' + opt ) ) {
+			shipOption1_7To9Day = opt;
+		}
+	});		
+	shipOption2_3To5DayArr.each( function( opt, i ) {
+		if( $('selectedShippingMethod' + opt ) ) {
+			shipOption2_3To5Day = opt;
+		}
+	});		
+	shipOption3_2DayArr.each( function( opt, i ) {
+		if( $('selectedShippingMethod' + opt ) ) {
+			shipOption3_2Day = opt;
+		}
+	});		
+	shipOption4_1DayArr.each( function( opt, i ) {
+		if( $('selectedShippingMethod' + opt ) ) {
+			shipOption4_1Day = opt;
+		}
+	});		
+
+	// Update basic shipping option text
+	var basicShipMessage = ' Every Day ($50 min)';		
+	var optionToUpdate_7To9 = 'shippingOptionsRadioText' + shipOption1_7To9Day;
+	if( $( optionToUpdate_7To9 ) ) {
+		$( optionToUpdate_7To9 ).insert({bottom: basicShipMessage});
+	}
+
+	// Update standard shipping option text where applicable
+	if( shipOption2_3To5Day != '' && shipOption2_3To5Day != '2114' && shipOption2_3To5Day != '2115' ) {
+		var standardShipMessage = 'FREE (on orders over $50) or $8 (on orders under $50)';
+		var optionToUdpate_3To5 = 'shippingOptionsRadioText' + shipOption2_3To5Day;
+		var shipStr = $( optionToUdpate_3To5 ).innerHTML;
+		var newShipStr = shipStr.substr( 0, shipStr.indexOf(' - ') + 3 );
+		newShipStr = newShipStr + standardShipMessage;
+		$( optionToUdpate_3To5 ).update( newShipStr );
+		//$( optionToUdpate_3To5 ).insert({bottom: standardShipMessage});
+		
+		$( optionToUdpate_3To5 ).setStyle({ width:'227px', float:'right' });
+		
+		if( ( navigator.appName == 'Microsoft Internet Explorer' ) && ( navigator.appVersion.indexOf('MSIE 7.0') > -1 || navigator.appVersion.indexOf('MSIE 6.0') > -1 ) ) {
+			$( optionToUdpate_3To5 ).setStyle({ width:'220px' });
+		}
+
+		var clearDiv = new Element('div', { style:'clear:both' });
+		$( optionToUdpate_3To5 ).insert({ after: clearDiv });
+	}
+
+	// Update express shipping option text where applicable
+	if( shipOption3_2Day != '' && ( shipOption3_2Day == '1343' || shipOption3_2Day == '1344' ) ) {
+		var optionToUdpate_express = 'shippingOptionsRadioText' + shipOption3_2Day;
+		var shipStr = $( optionToUdpate_express ).innerHTML;
+		var messageToInsert = '(2 business days)'
+		var priceStr = shipStr.substr( shipStr.indexOf(' - ') );
+		
+		var newShipStr = shipStr.substr( 0, shipStr.indexOf(' - ') );
+		newShipStr = newShipStr + ' ' + messageToInsert + priceStr;
+		$( optionToUdpate_express ).update( newShipStr );
+		$( optionToUdpate_express ).setStyle({ width:'220px' });
+		var clearDiv = new Element('div', { style:'clear:both' });
+		$( optionToUdpate_express ).insert({ after: clearDiv });
+	}
+
+	// Update next dat shipping option text where applicable
+	if( shipOption4_1Day != '' && ( shipOption4_1Day == '1345' || shipOption4_1Day == '1356' ) ) {
+		var optionToUdpate_nextDay = 'shippingOptionsRadioText' + shipOption4_1Day;
+		var shipStr = $( optionToUdpate_nextDay ).innerHTML;
+		var messageToInsert = '(1 business day)'
+		var priceStr = shipStr.substr( shipStr.indexOf(' - ') );
+		
+		var newShipStr = shipStr.substr( 0, shipStr.indexOf(' - ') );
+		newShipStr = newShipStr + ' ' + messageToInsert + priceStr;
+		$( optionToUdpate_nextDay ).update( newShipStr );
+		$( optionToUdpate_nextDay ).setStyle({ width:'220px' });
+		var clearDiv = new Element('div', { style:'clear:both' });
+		$( optionToUdpate_nextDay ).insert({ after: clearDiv });
+	}
+
+	// Update shipping message text
     var shippingMessageParentNode = $('shippingMessageText');
-
     if (shippingMessageParentNode) {
-
         var shippingMessageParentNodeChildElements = shippingMessageParentNode.childElements();
-
         if (shippingMessageParentNodeChildElements) {
-
             var messageNode = shippingMessageParentNodeChildElements[0];
 
             if (messageNode) {
-
-               		//2 business days Message
-				if ($('selectedShippingMethod2122').checked == true) { 	
-            //if ($('selectedShippingMethod1343').checked == true) { 		
-			//if ($('selectedShippingMethod1201').checked == true) {
-				messageNode.update("Complete your order Monday through Friday (excluding holidays) before 2:00 PM ET / 11:00 AM PT to receive your package within 2 business days.<br><br>Orders placed on weekends, holidays, or weekdays after 2:00 PM ET / 11:00 AM PT will arrive within 3 business days.")
-			}
+				//2 business days Message
+				if ($('selectedShippingMethod' + shipOption3_2Day ).checked == true) { 	
+					messageNode.update("Complete your order Monday through Friday (excluding holidays) before 2:00 PM ET / 11:00 AM PT to receive your package within 2 business days.<br><br>Orders placed on weekends, holidays, or weekdays after 2:00 PM ET / 11:00 AM PT will arrive within 3 business days.");
+				}
 			
-			//1 business day Message 
-			if ($('selectedShippingMethod2124').checked == true) {
-			//if ($('selectedShippingMethod1345').checked == true) {
-			//if ($('selectedShippingMethod1203').checked == true) {
-				messageNode.update("Complete your order Monday through Friday (excluding holidays) before 2:00 PM ET / 11:00 AM PT to receive your package the next business day.<br><br>Orders placed on weekends, holidays, or weekdays after 2:00 PM ET / 11:00 AM PT will arrive within 2 business days.")
-			}		
-
+				//1 business day Message 
+				if ($('selectedShippingMethod' + shipOption4_1Day ).checked == true) {
+					messageNode.update("Complete your order Monday through Friday (excluding holidays) before 2:00 PM ET / 11:00 AM PT to receive your package the next business day.<br><br>Orders placed on weekends, holidays, or weekdays after 2:00 PM ET / 11:00 AM PT will arrive within 2 business days.");
+				}		
             }
-
         }
-
     }
-
 });
 
+}
 
-</script>
-<!--End Shipping options 11am fix -->
+</script> -->
+<!-- End Shipping option WCD overrides -->
 
-<!-- END Content Item File: /content/0005/149/180/cn5149180.html -->
+<!-- END Content Item File: /content/0005/867/094/cn5867094.html -->
 
 
 
@@ -2767,6 +3463,194 @@ document.observe("dom:loaded", function() {
 
 
 <!-- container 11 -->
+<!-- BEGIN Content Item File: /content/0005/600/251/cn5600251.html -->
+
+<!-- BEGIN: contentOverride116 -- GOL Department Facet Suppression-->
+<script type="text/javascript">
+
+/*
+
+We will be preselecting the baby department facet, and hiding the department facet for the below categories: 
+ 
+Toddler Girl Sleepwear = 76918, baby girl facet pre-selected
+Toddler Boy Sleepwear = 76759, baby boy facet pre-selected
+Infant Girl Sleep = 76748, baby girl facet pre-selected
+Infant Boy Sleep = 76754, baby boy facet pre-selected
+
+
+*/
+
+if (location.pathname == "/browse/category.do" || location.pathname == "/browse/categorySearch.do") {
+	if (navigationService && navigationService.model.isActive) {
+
+		var defaultDeptFacetnator = {
+
+			displayDeptFacet : false,
+			deptFacetId : null,
+			
+			// Women categories, hidden dept facet
+			womenCategoriesHideFacet : $A([
+			'']),
+			// Men categories, hidden dept facet
+			menCategoriesHideFacet : $A([
+			'']),
+
+			
+			// Women categories, visible dept facet
+			womenCategoriesShowFacet : $A([
+			'']),
+			// Men categories, visible dept facet
+			menCategoriesShowFacet : $A([
+			'']),
+
+			// Toddler/Infant Girl categories, hidden dept facet
+			tgirlCategoriesHideFacet : $A([
+				'89316',
+				'84674',
+				'88938',
+				'89355',
+				'88847',
+				'84678',
+				'84677',
+				'84675',
+				'84673',
+				'82562',
+				'80374',
+				'80378',
+				'8781',
+				'8777',
+				'7190',
+				'7189',
+				'7191',
+				'7206',
+				'80900',
+				'76748',
+				'84670',
+				'82560',
+				'65208',
+				
+			'']),
+			// Toddler/Infant Boy categories, hidden dept facet
+			tboyCategoriesHideFacet : $A([
+				'89335',
+				'84830',
+				'89903',
+				'88920',
+				'89697',
+				'8777',
+				'7142',
+				'7139',
+				'78580',
+				'17851',
+				'83376',
+				'7185',
+				'80899',
+				'76754',
+				'84825',
+				'82569',
+				'65261',
+				'89354',
+				'88850',
+				'84834',
+				'84833',
+				'84828',
+				'82572',
+								
+			'']),
+
+			
+			// Toddler/Infant Girlcategories, visible dept facet
+			tgirlCategoriesShowFacet : $A([
+			'']),
+			// Toddler/Infant Boy categories, visible dept facet
+			tboyCategoriesShowFacet : $A([
+			'']),
+
+				processCategoryLists : function() {
+				var findIterator = function(i){
+					return (i == gidLib.getQuerystringParam('cid') ? true : false);
+				};
+
+				if (this.womenCategoriesHideFacet.find(findIterator)) {
+					this.deptFacetId = "136";
+				}
+				if (this.womenCategoriesShowFacet.find(findIterator)) {
+					this.deptFacetId = "136";
+					this.displayDeptFacet = true;
+				}
+
+				if (this.menCategoriesHideFacet.find(findIterator)) {
+					this.deptFacetId = "75";
+				}
+				if (this.menCategoriesShowFacet.find(findIterator)) {
+					this.deptFacetId = "75";
+					this.displayDeptFacet = true;
+				}
+				
+				if (this.tgirlCategoriesHideFacet.find(findIterator)) {
+					this.deptFacetId = "165";
+				}
+				if (this.tgirlCategoriesShowFacet.find(findIterator)) {
+					this.deptFacetId = "165";
+					this.displayDeptFacet = true;
+				}
+
+				if (this.tboyCategoriesHideFacet.find(findIterator)) {
+					this.deptFacetId = "166";
+				}
+				if (this.tboyCategoriesShowFacet.find(findIterator)) {
+					this.deptFacetId = "166";
+					this.displayDeptFacet = true;
+				}
+
+			},
+			
+			modifyDomElements : function() {
+				// if the department facet does not exist in the UI, do nothing
+				if ($('facet_department')) {
+					if (this.displayDeptFacet == false) $('facet_department').hide();
+				
+					// override reset all button
+					var defaultedDeptFacetElement = null;
+					var categoryFacetedSearchManager = navigationService.controller.managers.categoryFacetedSearchManager;
+					if ($('facet_option_'+this.deptFacetId)) defaultedDeptFacetElement = $('facet_option_'+this.deptFacetId).childElements()[0];
+					if (defaultedDeptFacetElement) {
+						$('facet_reset_all').onclick  = function(event) {
+							categoryFacetedSearchManager.util.resetAllSelectedOptions(event);
+							categoryFacetedSearchManager.controller.facetManagers.categoryDepartmentFacetManager.view.facetOptionClicked(defaultedDeptFacetElement,window);
+							categoryFacetedSearchManager.controller.filterByFacets();return false;
+						};
+					}
+				}
+			},
+			
+			init: function() {
+
+				this.processCategoryLists();
+
+				// Only proceed if a dept facet preselection has been found in the lists
+				if (this.deptFacetId) {
+					// Pre Select the appropriate Department Facet
+					if (location.hash.length == 0) {
+						location.hash = "#department=" + this.deptFacetId;
+					}
+
+					// Bind dom modification method to the category product grid event
+					Event.observe(document,'categoryProductGrid:ready',defaultDeptFacetnator.modifyDomElements.bind(defaultDeptFacetnator));
+				}
+			}
+		};
+
+		defaultDeptFacetnator.init();
+	}
+}
+
+</script>
+<!-- END: contentOverride116 -- GOL Department Facet Suppression -->
+
+
+
+<!-- END Content Item File: /content/0005/600/251/cn5600251.html -->
 
 
 
@@ -3051,7 +3935,7 @@ if (location.pathname == "/browse/category.do") {
 	<thead><tr><td></td></tr></thead>
 	<tbody>
 		<tr>
-			<td class="universalBarLeft" style="background:url(/content/0004/787/446/universalBar_bkg.png) repeat-x;">&nbsp;</td>
+			<td class="universalBarLeft" style="background:url(/content/0005/713/575/universalBar_bkg.png) repeat-x;">&nbsp;</td>
 			
 				
 				
@@ -3067,7 +3951,7 @@ if (location.pathname == "/browse/category.do") {
 				<div id="universalBarContainer" class="clearfix universalBarContainer">
 					
 						<span class="cssHide2">Visit the other Gap Inc. Brands:</span>
-						<ul id="universalBarTabs" class="universalBarTabs3 clearfix" style="background:url(/content/0004/787/446/universalBar_aboveTabs_bkg.png) repeat-x;">
+						<ul id="universalBarTabs" class="universalBarTabs3 clearfix" style="background:url(/content/0005/713/575/universalBar_aboveTabs_bkg.png) repeat-x;">
 						
 							
 							
@@ -3110,68 +3994,28 @@ if (location.pathname == "/browse/category.do") {
 						
 						</ul>
 					
-					<div id="universalMarketingContainerTop" class="universalMarketingContainer3" style="background:url(/content/0004/787/446/universalBar_bkg.png) repeat-x;">
+					<div id="universalMarketingContainerTop" class="universalMarketingContainer3" style="background:url(/content/0005/713/575/universalBar_bkg.png) repeat-x;">
 						
 						<!-- @TemplateContentLayout(templateRegionName:"gid.common.siteWide.universalBar.10000522.region1") -->
 
-<!-- BEGIN Content Item File: /content/0004/933/024/cn4933024.html -->
-<div id="contentItemContainer10000425" class="4933024">
+<!-- BEGIN Content Item File: /content/0005/713/580/cn5713580.html -->
+<div id="contentItemContainer10000425" class="5713580">
 
-<!-- CIID:4933024 EN -->
-<div id="cn2647859" style="width:576px;height:54px;display:block;" class="clearfix" title="Everyday Free Shipping + Free Returns">
-<a href="/browse/info.do?cid=61828" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/browse/info.do?cid=61828',id:'EDFS',title:'gapcanada.ca',width:450,height:460,style:{name:'universalPopup'}});">
-<img id="eds_static" src="/Asset_Archive/GPWeb/content/0004/933/024/assets/EDFS_BRONG_hp_postage_stamp_CAN576.gif" alt="Everyday Free Shipping + Free Returns">
-</a>
+<div id="EDFS-container" style="width:580px;height:45px;margin-top:3px;">
+	<a href="#edfs" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/browse/info.do?cid=47471',id:'edfsPopup',width:472,height:410,style:{name:'universalPopup'}});">
+		<img src="/Asset_Archive/GPWeb/content/0005/713/580/assets/10_25_EDFSFR_UnivHeader_animated_CAe.gif" alt="Free shipping on all orders over $50. Free returns on all orders. Details" title="Free shipping on all orders over $50. Free returns on all orders.">
+	</a>
 </div>
-
-<div id="eds_div" style="position: relative; margin-left: -85px; left: 90px;margin-top: -15px; z-index: 9000;">
-<img src="/Asset_Archive/GPWeb/content/0004/933/024/assets/EDFS_BRONG_DHTML_disruptorCAN.gif" style="width: 650px; height: 158px; display: none;" id="eds_stamp" alt="Everyday Free Shipping + Free Returns">
-</div>
-
-<style type="text/css">
-#universalMarketingContainerTop{overflow:visible !important;*overflow:visible !important;_overflow:hidden !important;}
-</style>
-<script type="text/javascript">
-/*    var sCampCookie = gidLib.getCookie("s_camp");
-    if (sCampCookie == "GOGONS1SD" || sCampCookie == "GOYSNS1SD" || sCampCookie == "GOMSNS1SD" || sCampCookie == "GOASNS1SD" || sCampCookie == "GOAONS1SD" || sCampCookie == "ONGONS1SD" || sCampCookie == "ONYSNS1SD" || sCampCookie == "ONMSNS1SD" || sCampCookie == "ONASNS1SD" || sCampCookie == "ONAONS1SD" || sCampCookie == "BRGONS1SD" || sCampCookie == "BRYSNS1SD" || sCampCookie == "BRMSNS1SD" || sCampCookie == "BRASNS1SD" || sCampCookie == "BRAONS1SD" || sCampCookie == "PLGONS1SD" || sCampCookie == "PLYSNS1SD" || sCampCookie == "PLMSNS1SD" || sCampCookie == "PLASNS1SD" || sCampCookie == "PLAONS1SD" || sCampCookie == "ATGONS1SD" || sCampCookie == "ATYSNS1SD" || sCampCookie == "ATMSNS1SD" || sCampCookie == "ATASNS1SD" || sCampCookie == "ATAONS1SD") {
-        $("cn2647859").show();
-    } else {
-        Event.observe(window, "load", function() {
-            if (clientBrowser.isIE6) {
-                $("eds_div").style.display = "none"; //IE6 doesnt support grow
-                $("cn2647859").show();
-            } else
-            {
-                if (gidLib.getCookieVar("mktGlobalSession", "disruptorCookie") == 0) {
-                    new Effect.Grow('eds_stamp', {
-                        direction: 'center'
-                    });
-                    setTimeout(shrinkEFS, 4500);
-                    gidLib.setCookieVar("mktGlobalSession", "disruptorCookie", "1");
-                } else {
-                    $("cn2647859").show();
-                }
-            }
-        });
-    }
-    function shrinkEFS() {
-        new Effect.Shrink('eds_stamp', {
-            direction: 'center'
-        });
-        $("cn2647859").appear();
-    }
- */   
-</script>
 
 
 </div>
-<!-- END Content Item File: /content/0004/933/024/cn4933024.html -->
+<!-- END Content Item File: /content/0005/713/580/cn5713580.html -->
 
 
 
 
 					</div>
-					<div id="universalInlineBagContainer" class="" style="background:url(/content/0004/787/446/universalBar_bkg.png) repeat-x;">
+					<div id="universalInlineBagContainer" class="" style="background:url(/content/0005/713/575/universalBar_bkg.png) repeat-x;">
 						
 							<div id="signInContent">
 								
@@ -3210,6 +4054,7 @@ if (location.pathname == "/browse/category.do") {
 											<div id="checkoutButtonContainer2"><a href="/buy/shopping_bag.do"><img src="/assets/common/clear.gif" alt="checkout" id="inlineBagCheckOut1" class="universalButtonSprite universalButtonSpriteCheckoutOn"></a></div>
 										</div>
 									
+									
 								</div>
 								
 									<div id="inlineBagHeaderOpen" style="display:none;">
@@ -3237,6 +4082,7 @@ if (location.pathname == "/browse/category.do") {
 												</div>
 										    </div>
 	                                    </div>
+										<div id="inlineCustomerAttributesPlaceholder"></div>
 									</div>
 	 
 									
@@ -3359,7 +4205,7 @@ if (location.pathname == "/browse/category.do") {
 					</div>
 				</div>
 			</td>
-			<td class="universalBarRight" style="background:url(/content/0004/787/446/universalBar_bkg.png) repeat-x;">&nbsp;</td>
+			<td class="universalBarRight" style="background:url(/content/0005/713/575/universalBar_bkg.png) repeat-x;">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
@@ -3395,10 +4241,6 @@ if (location.pathname == "/browse/category.do") {
 			&#160;
 		</div>
 	</noscript>
-	
-		<div class="siteErrorSpacer">
-			&nbsp;
-		</div>
 	
 	
 
@@ -3444,64 +4286,51 @@ if (location.pathname == "/browse/category.do") {
 
 #topNav #universalTopNav .division {float:left;}
 
-#divisionContainer .division img {background-image:url(/Asset_Archive/GPWeb/content/0004/699/070/assets/021612_topnav_sprite.png); background-repeat: no-repeat; width: 0px;}
+#divisionContainer .division img {background-image:url(/Asset_Archive/GPWeb/content/0005/772/956/assets/fall2012RefreshSprite_EC.png); background-repeat: no-repeat; width: 0px;}
 
 /*Womens*/
-#divisionContainer .division .topnavSprite_division5643_notSelected, #divisionContainer .division .topnavSprite_division5643_off { background-position: 0 -1848px; width: 79px; height: 27px; } 
-#divisionContainer .division .topnavSprite_division5643_over, #divisionContainer .division .topnavSprite_division5643_selected { background-position: 0 -1925px; width: 79px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division5643_notSelected, #divisionContainer .division .topnavSprite_division5643_off { background-position: 0 -982px; height: 38px; width: 45px;margin-left:8px;margin-right:76px;} 
+#divisionContainer .division .topnavSprite_division5643_over, #divisionContainer .division .topnavSprite_division5643_selected { background-position: 0 -1186px; height: 38px; width: 45px;margin-left:8px;margin-right:76px;} 
 /*Mens*/
-#divisionContainer .division .topnavSprite_division5063_notSelected, #divisionContainer .division .topnavSprite_division5063_off { background-position: 0 -616px; width: 57px; height: 27px; } 
-#divisionContainer .division .topnavSprite_division5063_over, #divisionContainer .division .topnavSprite_division5063_selected { background-position: 0 -693px; width: 57px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division5063_notSelected, #divisionContainer .division .topnavSprite_division5063_off { background-position: 0 -98px; height: 38px; width: 25px;margin-right:76px;} 
+#divisionContainer .division .topnavSprite_division5063_over, #divisionContainer .division .topnavSprite_division5063_selected { background-position: 0 -1050px; height: 38px; width: 25px;margin-right:76px;} 
 /* Boys */
-#divisionContainer .division .topnavSprite_division6172_notSelected, #divisionContainer .division .topnavSprite_division6172_off { background-position: 0 0; width: 64px; height: 27px; } 
-#divisionContainer .division .topnavSprite_division6172_over, #divisionContainer .division .topnavSprite_division6172_selected { background-position: 0 -77px; width: 64px; height: 27px; }  
+#divisionContainer .division .topnavSprite_division6172_notSelected, #divisionContainer .division .topnavSprite_division6172_off {background-position: 0 -710px; height: 38px; width: 31px;margin-right:76px;} 
+#divisionContainer .division .topnavSprite_division6172_over, #divisionContainer .division .topnavSprite_division6172_selected { background-position: 0 -234px; height: 38px; width: 31px;margin-right:76px;}  
 /* Girls */
-#divisionContainer .division .topnavSprite_division6256_notSelected, #divisionContainer .division .topnavSprite_division6256_off { background-position: 0 -154px; width: 69px; height: 27px; } 
-#divisionContainer .division .topnavSprite_division6256_over, #divisionContainer .division .topnavSprite_division6256_selected { background-position: 0 -231px; width: 69px; height: 27px; }  
+#divisionContainer .division .topnavSprite_division6256_notSelected, #divisionContainer .division .topnavSprite_division6256_off { background-position: 0 -778px; height: 38px; width: 34px;margin-right:76px;} 
+#divisionContainer .division .topnavSprite_division6256_over, #divisionContainer .division .topnavSprite_division6256_selected { background-position: 0 -302px; height: 38px; width: 34px;margin-right:76px;}  
 /* Baby Girl */
-#divisionContainer .division .topnavSprite_division6487_notSelected, #divisionContainer .division .topnavSprite_division6487_off { background-position: 0 -462px; width: 115px; height: 27px; } 
-#divisionContainer .division .topnavSprite_division6487_over, #divisionContainer .division .topnavSprite_division6487_selected { background-position: 0 -539px; width: 115px; height: 27px; }
+#divisionContainer .division .topnavSprite_division6487_notSelected, #divisionContainer .division .topnavSprite_division6487_off { background-position: 0 -370px; height: 38px; width: 71px;margin-right:77px;} 
+#divisionContainer .division .topnavSprite_division6487_over, #divisionContainer .division .topnavSprite_division6487_selected { background-position: 0 -642px; height: 38px; width: 71px; margin-right:77px;}
 /* Baby Boy */
-#divisionContainer .division .topnavSprite_division42022_notSelected, #divisionContainer .division .topnavSprite_division42022_off { background-position: 0 -308px; width: 112px; height: 27px; } 
-#divisionContainer .division .topnavSprite_division42022_over, #divisionContainer .division .topnavSprite_division42022_selected { background-position: 0 -385px; width: 112px; height: 27px; }
+#divisionContainer .division .topnavSprite_division42022_notSelected, #divisionContainer .division .topnavSprite_division42022_off {background-position: 0 -1118px; height: 38px; width: 68px;margin-right:8px;} 
+#divisionContainer .division .topnavSprite_division42022_over, #divisionContainer .division .topnavSprite_division42022_selected {background-position: 0 -438px; height: 38px; width: 68px;margin-right:8x;}
 /* Toddler Girl */
-#divisionContainer .division .topnavSprite_division6413_notSelected, #divisionContainer .division .topnavSprite_division6413_off { background-position: 0 -1694px; width: 129px; height: 27px; } 
-#divisionContainer .division .topnavSprite_division6413_over, #divisionContainer .division .topnavSprite_division6413_selected { background-position: 0 -1771px; width: 129px; height: 27px; }
+#divisionContainer .division .topnavSprite_division6413_notSelected, #divisionContainer .division .topnavSprite_division6413_off {background-position: 0 -30px; height: 38px; width: 85px;margin-right:76px;} 
+#divisionContainer .division .topnavSprite_division6413_over, #divisionContainer .division .topnavSprite_division6413_selected { background-position: 0 -506px; height: 38px; width: 85px; margin-right:76px;}
 /* Toddler Boy */
-#divisionContainer .division .topnavSprite_division6345_notSelected, #divisionContainer .division .topnavSprite_division6345_off { background-position: 0 -1540px; width: 124px; height: 27px; } 
-#divisionContainer .division .topnavSprite_division6345_over, #divisionContainer .division .topnavSprite_division6345_selected { background-position: 0 -1617px; width: 124px; height: 27px; }  
-/*Sale*/
-#divisionContainer .division .topnavSprite_division63819_notSelected, #divisionContainer .division .topnavSprite_division63819_off { background-position: 0 -770px; width: 63px; height: 27px; } 
-#divisionContainer .division .topnavSprite_division63819_over, #divisionContainer .division .topnavSprite_division63819_selected { background-position: 0 -847px; width: 63px; height: 27px; } 
+#divisionContainer .division .topnavSprite_division6345_notSelected, #divisionContainer .division .topnavSprite_division6345_off { background-position: 0 -166px; height: 38px; width: 82px;margin-right:76px;} 
+#divisionContainer .division .topnavSprite_division6345_over, #divisionContainer .division .topnavSprite_division6345_selected { background-position: 0 -914px; height: 38px; width: 82px;margin-right:76px;}  
 
-/*Spacers*/
-#divisionContainer .division #topNavSpacer1{ background-position: 0 -924px; width: 22px; height: 27px; } 
-#divisionContainer .division #topNavSpacer2{ background-position: 0 -1001px; width: 22px; height: 27px; } 
-#divisionContainer .division #topNavSpacer3{ background-position: 0 -1078px; width: 22px; height: 27px; } 
-#divisionContainer .division #topNavSpacer4{ background-position: 0 -1155px; width: 22px; height: 27px; } 
-#divisionContainer .division #topNavSpacer5{ background-position: 0 -1232px; width: 22px; height: 27px; } 
-#divisionContainer .division #topNavSpacer6{ background-position: 0 -1309px; width: 22px; height: 27px; } 
-#divisionContainer .division #topNavSpacer7{ background-position: 0 -1386px; width: 23px; height: 27px; } 
-#divisionContainer .division #topNavSpacer8{ background-position: 0 -1463px; width: 23px; height: 27px; }
 
 /* QuickLink Button Styles */
 #topNavQuickLinkButton {
 	width: 114px;
 	height: 13px;
-	background-image:url(/Asset_Archive/GPWeb/content/0004/699/070/assets/021612_topnav_sprite.png);  
+	background-image:url(/Asset_Archive/GPWeb/content/0005/772/956/assets/021612_topnav_sprite.png);  
 	background-position: 0 -1956px;
 }
 #topNavQuickLinkButton.findStore {background-position: 0 -1971px;}
 #topNavQuickLinkButton.giftCard {background-position: 0 -1986px;}
 
 /* Top Nav layout styles */
-#universalTopNavLayout {width: 990px; height: 105px;}
-#topNavTopRow {height: 77px; width: 990px;}
-#topNavBottomRow {height:27px; width:990px;}
-#topNavBannerContainer {width:463px; height: 62px;}
-#topNavLogoBannerWrapper, #topNavLogoContainer {width: 62px; height: 62px;}
-#topNavSecondaryBannerWrapper {width: 288px; height: 62px;}
-#topNavRightSideWrapper {width: 177px; height: 77px;}
+#universalTopNavLayout {width: 990px; height: 115px;}
+#topNavTopRow {height: 62px; width: 990px;}
+#topNavBottomRow {height:38px; width:990px;}
+#topNavBannerContainer {width:721px; height: 62px;}
+#topNavLogoBannerWrapper, #topNavLogoContainer {width: 62px; height: 62px; margin-right:30px;}
+#topNavRightSideWrapper {width: 177px; height: 62px;}
 #topNavQuickLinkButtonWrapper {width: 114px; height: 13px;}
 .floatLeft { float: left; }
 .floatRight { float: right; }
@@ -3754,20 +4583,10 @@ var topNav = {
 
 <div id="universalTopNavLayout" class="clearfix floatLeft">		
 	 <div id="topNavTopRow" class="clearfix">
-    <div id="topNavBannerContainer" class="floatLeft">		
-        <!-- BEGIN Content Item File: /content/0003/600/236/cn3600236.html -->
-<div id="contentItemContainer10000395" class="3600236">
-
-
-
-</div>
-<!-- END Content Item File: /content/0003/600/236/cn3600236.html -->
-
-      </div>
-    <div id="topNavLogoBannerWrapper" class="floatLeft">
+     <div id="topNavLogoBannerWrapper" class="floatLeft">
       <div id="topNavLogoContainer" class="floatLeft">		
-        <!-- BEGIN Content Item File: /content/0004/386/523/cn4386523.html -->
-<div id="contentItemContainer10000397" class="4386523">
+        <!-- BEGIN Content Item File: /content/0005/956/287/cn5956287.html -->
+<div id="contentItemContainer10000397" class="5956287">
 
 <script type="text/javascript">
 /*override to display gapKids or gapBaby logo */
@@ -3830,38 +4649,219 @@ Event.observe(window,"load",function(){
 </script>
 <div id="LogoContainer_10000397_ContentItem" style="width:62px;height:62px;display:block;">
 
-	<div id="golLogoBaby" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0004/386/523/assets/babygap_logo.gif" style="width:62px;height:62px;" alt="gap.ca"></a></div>
-	<div id="golLogoKids" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0004/386/523/assets/gapkids_logo.gif" style="width:62px;height:62px;" alt="gap.ca"></a></div>
-	<div id="golLogo" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0004/386/523/assets/logo.gif" style="width:62px;height:62px;" alt="gap.ca"></a></div>
+	<div id="golLogoBaby" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0005/956/287/assets/babygap_logo.gif" style="width:62px;height:62px;" alt="gapcanada.ca"></a></div>
+	<div id="golLogoKids" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0005/956/287/assets/gapkids_logo.gif" style="width:62px;height:62px;" alt="gapcanada.ca"></a></div>
+	<div id="golLogo" style="width:62px;height:62px;display:none;"><a href="/"><img src="/Asset_Archive/GPWeb/content/0005/956/287/assets/logo.gif" style="width:62px;height:62px;" alt="gapcanada.ca"></a></div>
 </div>
 
 
 </div>
-<!-- END Content Item File: /content/0004/386/523/cn4386523.html -->
+<!-- END Content Item File: /content/0005/956/287/cn5956287.html -->
 
       </div>
     </div>	
-    <div id="topNavSecondaryBannerWrapper" class="floatLeft">
-    	<!-- BEGIN Content Item File: /content/0004/933/001/cn4933001.html -->
-<div id="contentItemContainer10000393" class="4933001">
+    <div id="topNavBannerContainer" class="floatLeft">		
+        <!-- BEGIN Content Item File: /content/0005/935/069/cn5935069.html -->
+<div id="contentItemContainer10000395" class="5935069">
 
 <style type="text/css">
-/* adjustments for DVF Loves Header in Left Nav for TG */
-#sideNav #categoryNav77344 {
-	border-top: 1px solid #000000;
-	margin-top: 14px;
+#globalBanner {
+	width: 480px;
+	height: 62px;
+	position: relative;
+	display: block;
+	font-size: 10pt;
+	z-index: 50;
 }
-#sideNav #categoryNav79276 {
-	border-top: 1px solid #ffffff;
-	margin-top: 0px;
+
+#globalBanner a:link, 
+#globalBanner a:hover,
+#globalBanner a:visited, 
+#globalBanner a:active
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+.detailsLink {
+	font-size: 8pt; 
+	text-decoration: underline;
+}
+
+.promoCode, 
+.promoPercent 
+{
+	font-weight: bold;
+}
+
+.promoCode {
+	background-color: black;
+	color: white;
+	padding: 2px 6px;
+	font-size: 11px;
+}
+
+#globalBannerDisruptor {
+	position: absolute;
+	z-index: 999;
+	top: 0;
+	left: 0;
+}
+
+#globalBannerText.passive {
+	opacity: 0.25;
+	filter: alpha(opacity = 25);
 }
 </style>
 
+<div id="globalBanner">
+
+	<!-- Global Banner Text -->
+	<div id="globalBannerText">
+		<img class="noHideDisruptor" src="/Asset_Archive/GPWeb/content/0005/935/069/assets/122712_25off_hp_GB_EC.png" alt="25% off your regular price items. Ends 12/29. Online only. Enter GAPC2012 at checkout." title="25% off your regular price items. Ends 12/29. Online only. Enter GAPC2012 at checkout." usemap="#gbMap">
+		<map name="gbMap">
+			<area class="noHideDisruptor" id="globalBannerActivator" shape="rect" coords="251,7,470,59" href="javascript:void(0);" alt="hover for more info" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/Asset_Archive/GPWeb/content/0005/935/069/assets/legal.html',id:'legal',width:350,height:300,style:{name:'universalPopup'}});">
+		  	<area class="noHideDisruptor" shape="rect" coords="0,7,470,59" href="javascript:void(0);" alt="click for details" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/Asset_Archive/GPWeb/content/0005/935/069/assets/legal.html',id:'legal',width:350,height:300,style:{name:'universalPopup'}});">
+		</map>
+	</div><!-- /Global Banner Text -->
+
+	<!-- Global Banner Disruptor -->
+	<div id="globalBannerDisruptor" style="display:none;">
+		<img class="noHideDisruptor" src="/Asset_Archive/GPWeb/content/0005/935/069/assets/122712_25off_hp_DISR_EC.gif" alt="25% off your regular price items. Ends 12/29. Online only. Enter GAPC2012 at checkout." title="25% off your regular price items. Ends 12/29. Online only. Enter GAPC2012 at checkout." usemap="#disruptorMap">
+		<map name="disruptorMap">
+		  	<area shape="rect" class="noHideDisruptor" coords="-7,-6,475,470" href="javascript:void(0);" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/Asset_Archive/GPWeb/content/0005/935/069/assets/legal.html',id:'legal',width:350,height:250,style:{name:'universalPopup'}});" alt="click for details">
+        </map>
+	</div><!-- /Global Banner Disruptor -->
 
 </div>
-<!-- END Content Item File: /content/0004/933/001/cn4933001.html -->
+<script type="text/javascript">
+Event.observe(window, 'load', function() {
+	// Initiliaze disruptor object
+	globalBannerDisruptor.init('122712_GB');
+});
 
-    </div>
+// Hide disruptor when out of activation area
+Event.observe(document.body, 'mouseover', function(event) 
+{
+	var element = Event.findElement(event);
+	var hasSeenDisruptor = gidLib.getCookieVar("mktGlobalSession", globalBannerDisruptor.cookieName);
+	//var hasSeenDisruptor = 1;
+
+	if(element.className != "noHideDisruptor" && hasSeenDisruptor == 1)
+	{
+		globalBannerDisruptor.hide();
+	}
+});
+
+// globalBannerDisruptor object
+var globalBannerDisruptor = {
+	
+	disruptorID: 'globalBannerDisruptor',
+	activatorID: 'globalBannerActivator',
+	containerID: 'globalBannerText',
+	cookieName: '',
+	
+	init: function(cookieName) {
+	
+		globalBannerDisruptor.cookieName = cookieName;
+		var hasSeenDisruptor = gidLib.getCookieVar("mktGlobalSession", globalBannerDisruptor.cookieName);
+		//var hasSeenDisruptor = 1;
+
+		if(hasSeenDisruptor != "1")
+		{
+			globalBannerDisruptor.autoDisrupt();
+		}
+
+		globalBannerDisruptor.addDisruptBehaviour();
+		
+	},
+	
+	/* auto hides itself */
+	autoDisrupt: function() {
+
+		new Effect.SlideDown(globalBannerDisruptor.disruptorID,{duration:.5, queue: {position: 'front', scope: 'gbDisruptor', limit: 1} });
+		
+		gidLib.setCookieVar("mktGlobalSession", globalBannerDisruptor.cookieName, "1");
+
+		var timerID = setTimeout(function() {
+			globalBannerDisruptor.hide();
+		}, 8000);
+
+	},
+	
+	hide: function() {
+		
+		var targetID = globalBannerDisruptor.disruptorID;
+		var target = $(targetID);
+
+		if(target.style.display != "none") {
+			new Effect.SlideUp(targetID,{
+				duration:.5, 
+				queue: {position: 'end', scope: 'gbDisruptor', limit: 1}, 
+				beforeFinish: function() {
+					$(globalBannerDisruptor.containerID).removeClassName('passive');
+				}
+			});
+			return false;
+		}
+		
+	},
+	
+	/* disrupts but does NOT auto hide iteself */
+	disrupt: function() {
+		
+		var targetID = globalBannerDisruptor.disruptorID;
+		var target = $(targetID);
+
+		if(target.style.display == "none") {
+			new Effect.SlideDown(globalBannerDisruptor.disruptorID,{
+				duration:.5,
+				queue: {position: 'front', scope: 'gbDisruptor', limit: 1},
+				beforeFinish: function() {
+					$(globalBannerDisruptor.containerID).addClassName('passive');
+				}
+			});
+			return false;
+		}
+
+		return true;
+	},
+
+	/* closes disruptor and prevents disrupt from firing prematurely */
+	close: function() {
+
+		globalBannerDisruptor.hide();
+		globalBannerDisruptor.removeDisruptBehaviour();
+
+		// Set a timer so disruptor doesn't get activated right away
+		var timerID = setTimeout(function() {
+			globalBannerDisruptor.addDisruptBehaviour();
+		}, 1000);
+
+	},
+
+	addDisruptBehaviour: function() {
+		// Show disruptor when mouseover #globalBannerActivator
+		$(globalBannerDisruptor.activatorID).observe('mouseover', function()
+		{
+			globalBannerDisruptor.disrupt();
+		});
+	},
+
+	// Stop observing mouseover
+	removeDisruptBehaviour: function() {
+		$(globalBannerDisruptor.activatorID).stopObserving('mouseover');
+	}
+	
+};
+</script>
+
+
+</div>
+<!-- END Content Item File: /content/0005/935/069/cn5935069.html -->
+
+      </div>
+   
     <div id="topNavRightSideWrapper" class="clearfix floatRight">
       <!-- Quick Links Container -->
       <div id="topNavQuickLinkButtonWrapper" class="floatRight">
@@ -3875,30 +4875,29 @@ Event.observe(window,"load",function(){
 			<h3 class="cssHide">Shop Divisions:</h3>
 			<ul class="clearfix">
 				<li class="division"><a onmouseover="topNav.divisionOver('division5643',false);" onmouseout="topNav.divisionOut('division5643',false);" href="/browse/subDivision.do?cid=5646"><img id="division5643" class="topnavSprite_division5643_notSelected" src="/assets/common/clear.gif" alt="Women"></a></li>
-        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer1"></li>
+        <li class="division"><img src="/assets/common/clear.gif"></li>
         
 				<li class="division"><a onmouseover="topNav.divisionOver('division5063',false);" onmouseout="topNav.divisionOut('division5063',false);" href="/browse/subDivision.do?cid=5065"><img id="division5063" class="topnavSprite_division5063_notSelected" src="/assets/common/clear.gif" alt="Men"></a></li>
-        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer2"></li>
+        <li class="division"><img src="/assets/common/clear.gif"></li>
         
 				<li class="division"><a onmouseover="topNav.divisionOver('division6256',false);" onmouseout="topNav.divisionOut('division6256',false);" href="/browse/subDivision.do?cid=6256"><img id="division6256" class="topnavSprite_division6256_notSelected" src="/assets/common/clear.gif" alt="Girls"></a></li>
-        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer3"></li>
+        <li class="division"><img src="/assets/common/clear.gif"></li>
         
 				<li class="division"><a onmouseover="topNav.divisionOver('division6172',false);" onmouseout="topNav.divisionOut('division6172',false);" href="/browse/subDivision.do?cid=6172"><img id="division6172" class="topnavSprite_division6172_notSelected" src="/assets/common/clear.gif" alt="Boys"></a></li>
-        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer4"></li>
+        <li class="division"><img src="/assets/common/clear.gif"></li>
         
 				<li class="division"><a onmouseover="topNav.divisionOver('division6413',false);" onmouseout="topNav.divisionOut('division6413',false);" href="/browse/subDivision.do?cid=6413"><img id="division6413" class="topnavSprite_division6413_notSelected" src="/assets/common/clear.gif" alt="Toddler Girl (1-5 yrs)"></a></li>
-        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer5"></li>
+        <li class="division"><img src="/assets/common/clear.gif"></li>
         
         <li class="division"><a onmouseover="topNav.divisionOver('division6345',false);" onmouseout="topNav.divisionOut('division6345',false);" href="/browse/subDivision.do?cid=6345"><img id="division6345" class="topnavSprite_division6345_notSelected" src="/assets/common/clear.gif" alt="Toddler Boy (1-5 yrs)"></a></li>
-        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer6"></li>
+        <li class="division"><img src="/assets/common/clear.gif"></li>
         
         <li class="division"><a onmouseover="topNav.divisionOver('division6487',false);" onmouseout="topNav.divisionOut('division6487',false);" href="/browse/subDivision.do?cid=6487"><img id="division6487" class="topnavSprite_division6487_notSelected" src="/assets/common/clear.gif" alt="Infant Girl (0-24 mos)"></a></li>
-        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer7"></li>
+        <li class="division"><img src="/assets/common/clear.gif"></li>
         
         <li class="division"><a onmouseover="topNav.divisionOver('division42022',false);" onmouseout="topNav.divisionOut('division42022',false);" href="/browse/subDivision.do?cid=42022"><img id="division42022" class="topnavSprite_division42022_notSelected" src="/assets/common/clear.gif" alt="Infant Boy (0-24 mos)"></a></li>
-        <li class="division"><img src="/assets/common/clear.gif" id="topNavSpacer8"></li>
+        <li class="division"><img src="/assets/common/clear.gif"></li>
         
-				<li class="division"><a onmouseover="topNav.divisionOver('division63819',false);" onmouseout="topNav.divisionOut('division63819',false);" href="/browse/division.do?cid=63819"><img id="division63819" class="topnavSprite_division63819_notSelected" src="/assets/common/clear.gif" alt="Sale"></a></li>
 			</ul>
 		</div>
 		<!-- end: divisionContainer -->
@@ -3925,7 +4924,10 @@ Event.observe(window,"load",function(){
         <div id="mainContentContainer" class="clearfix">
             <a name="skipNavSideNav"></a>
             <div id="sideNav">
-                
+            	
+					
+					
+						
 
 
 
@@ -3943,6 +4945,7 @@ Event.observe(window,"load",function(){
 	
 	
 	
+
 
 
 
@@ -3969,6 +4972,17 @@ Event.observe(window,"load",function(){
 	
 </div>
 
+
+	<div id="sideNavFacetsHeader" class="facets-container facet facet_master_header hideMe">
+	<!-- @FF Division Facet Code hidden until ready to play. JS is in place in facet manager -->
+		<div id="lrCategoryNameHeader" class="category heading categoryNameDiv"></div>
+		<div class="category heading categoryItemCountResetDiv">
+			<span id="facet_header_item_count" class="totalItemCountDiv"></span>
+			<span class="resetAllButton hideMe"><a id="facet_reset_all" href="#" onclick="navigationService.controller.managers.categoryFacetedSearchManager.util.resetAllSelectedOptions(event);navigationService.controller.managers.categoryFacetedSearchManager.controller.filterByFacets();return false;" class="sprite-button_reset" alt="Reset" title="Reset"></a></span>
+		</div>
+	</div>
+
+	<div id="sideNavFacets" class="facets-container"></div>	
 
 
 
@@ -4811,6 +5825,9 @@ Event.observe(window,"load",function(){
 	
 </div>
 
+					
+				
+                
             </div>
             <a name="skipNavMainContent"></a>
             <div id="mainContent" class="clearfix">
@@ -5102,6 +6119,7 @@ ul.bulletList li{padding-left:0px;list-style:disc;}
 	
             </div>
             <div id="mainContentBottom">
+                
             	
 
 
@@ -5164,25 +6182,30 @@ ul.bulletList li{padding-left:0px;list-style:disc;}
 	
 <div id="footer_BrandContainer">
 	<div id="footer_brand_region1"><!-- @TemplateContentLayout(templateRegionName:"gid.common.siteWide.brand.footers.region1") -->
+ <div id="brandftr4_10000510">
+		
+</div>
 <div id="brandFooter_Region1" class="clearfix" style="width:990px;margin-top:0px;padding:0px;">
 	<div id="brandftr3_10000513">
-		<!-- BEGIN Content Item File: /content/0002/647/861/cn2647861.html -->
-<div id="contentItemContainer10000513" class="2647861">
+		<!-- BEGIN Content Item File: /content/0005/713/577/cn5713577.html -->
+<div id="contentItemContainer10000513" class="5713577">
 
-<div id="EDFS_EN" style="width:988px;height:70px;border-top: 1px solid #000000;margin-top:0px;padding:0px;"><img src="/Asset_Archive/GPWeb/content/0002/647/861/assets/EDFS_BRGOL_hp_FOOTER_CAN988.gif" alt="everyday free shipping. on any order over $50. + free shipping returns on any order." style="width: 988px; height: 70px;" usemap="#uniFoot_map">
+<div style="width:990px;overflow:auto;border-top:1px solid black;display:block;padding:15px 0;" class="clearfix">
+	<a href="#edfs" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/browse/info.do?cid=47471',id:'edfsPopup',width:472,height:410,style:{name:'universalPopup'}});">
+		<img src="/Asset_Archive/GPWeb/content/0005/713/577/assets/10_25_EDFSFR_UnivFooter_CAe.gif" alt="Free shipping on all orders over $50. No code. No hassle. Free returns on all orders. Details">
+	</a>
 </div>
 
 
-<map name="uniFoot_map">
-<area alt="everyday free shipping. on any order over $50. + free shipping returns on any order." coords="3,4,984,66" href="/browse/info.do?cid=61828" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/browse/info.do?cid=61828',id:'EDFS',title:'gapcanada.ca',width:450,height:460,style:{name:'universalPopup'}});">
-</map>
-
-
 </div>
-<!-- END Content Item File: /content/0002/647/861/cn2647861.html -->
+<!-- END Content Item File: /content/0005/713/577/cn5713577.html -->
 
 	</div>
 </div>
+ <div id="brandftr5_10000511">
+		
+</div>
+    	
 </div>
 </div>
 
@@ -5270,172 +6293,168 @@ color:#000;
 		</div>
 		<div style="float:right;">
 			<!--override annotation set up for email footer for w, m, mat, kids, and baby -->
-			<!-- BEGIN Content Item File: /content/0004/637/492/cn4637492.html -->
-<div id="contentItemContainer10000514" class="4637492">
+			<!-- BEGIN Content Item File: /content/0005/240/075/cn5240075.html -->
+<div id="contentItemContainer10000514" class="5240075">
 
 <style type="text/css">
-#GapEmailFooter2486838 {position:relative; width:320px; height:90px; border-left:1px solid #dedede; overflow:hidden;}
-#Main2486838 {position:absolute; top:0px; width:320px; height:90px;}
-#EmailSignup2486838 {position:absolute; top:0px; left:40px; width:320px; height:53px;}
-#FormFieldOne2486838 {width:260px; margin-top:3px; float:left;}
-#FormFieldTwo2486838 {width:260px;}
-#SubmitButton2486838 {width:21px; height:21px; margin-top:2px; float:left; position:relative;}
-
-#FormFieldOne2486838 input {width:250px;}
-#FormFieldTwo2486838 input {width:250px;} 
+#GapEmailFooter5240075 {
+	position:relative;
+	width:320px;
+	height:90px;
+	border-left:1px solid #dedede;
+	overflow:hidden;
+}
+#Main5240075 {
+	position:absolute;
+	top:0px;
+	width:320px;
+	height:90px;
+}
+#EmailSignup5240075 {
+	position:absolute;
+	top:0px;
+	left:40px;
+	width:320px;
+	height:53px;
+}
+#FormFieldTwo5240075 {
+	width:260px;
+	margin-top:3px;
+	float:left;
+}
+#FormFieldOne5240075 {
+	width:260px;
+}
+#SubmitButton5240075 {
+	width:21px;
+	height:21px;
+	margin-top:2px;
+	float:left;
+	position:relative;
+}
+#FormFieldOne5240075 input {
+	width:250px;
+}
+#FormFieldTwo5240075 input {
+	width:250px;
+}
+#joinEmail_gap input.validationWarning {
+	color: #ff0000;
+	font-weight: bold;
+}
 </style>
-
+<div id="GapEmailFooter5240075">
+  <div id="Main5240075">
+  </div>
+  <div id="EmailSignup5240075">
+    <form name="joinEmail_gap" id="joinEmail_gap" action="/profile/updateEmailPreferences.do" onsubmit="return validateFormGapFooter(this)" method="post">
+    <input type="HIDDEN" value="GPCA" name="brand_country_code">
+    <input type="HIDDEN" value="CA_EN" name="ca_lang_pref">
+    <input type="HIDDEN" id="target_url" value="/profile/info.do?cid=53959&amp;mlink=5058" name="targetURL">
+    <input type="HIDDEN" id="src_genGapFooter" value="WEBSITE EMAIL SIGNUP" name="src_gnrc_cd">
+    <input type="HIDDEN" id="src_specGapFooter" value="GP=Site_Footer;BR=N/A;ON=N/A;PL=N/A;AT=N/A;BRFS=N/A;GPO=N/A" name="src_spfc_cd">
+    <label class="cssHide2" for="email">Style, news, and an exclusive offer when you sign up!*</label>
+      <div style="width:280px; margin-bottom:5px; float:left; font-weight:bold;" id="formTitleText5240075">
+        Style, news, and an exclusive offer when you sign up!*
+      </div>
+      <div id="FormFieldOne5240075">
+        <input id="email" name="email" size="39" maxlength="100" onfocus="setDefaultGapFooter(this);" onblur="clearDefaultGapFooter(this);" value="Email, please" autocomplete="off" type="text">
+      </div>
+      <div id="FormFieldTwo5240075">
+        <input id="confirm_email" name="confirm_email" size="39" maxlength="100" onfocus="setDefaultGapFooter(this);" onblur="clearDefaultGapFooter(this);" autocomplete="off" value="Confirm your email" type="text">
+      </div>
+      <div id="SubmitButton5240075">
+        <input src="/Asset_Archive/GPWeb/content/0004/637/492/assets/submit_email.png" value="submit" alt="submit" type="image">
+      </div>
+      <div style="width: 260px; margin-top:5px;color:#666666;font-size:9px;" id="privacyPolicyText5240075">
+        *Offer valid for first registrants only. <a onclick="return contentItemLink(this,'','emailreg');" href="/customerService/info.do?cid=2331">Privacy Policy</a>
+      </div>
+    </form>
+  </div>
+  <!--CLOSING DIV FOR EMAIL ASSET  -->
+</div>
+<!--END GapEmailFooter-->
 <script type="text/javascript">
+function setDefaultGapFooter(elem) {
+	if(elem.value==elem.defaultValue)elem.value='';
+	$(elem).removeClassName('validationWarning');
+}
+function clearDefaultGapFooter(elem) {
+	if(elem.value=='')elem.value=elem.defaultValue;
+}
 
-
-emailValidation = {
-
-
-	checkEmailAddress : function(field) {
+function validateFormGapFooter()
+{
+	// check form fields
+	var form = $('joinEmail_gap');
+	var sendForm = false;
+	if (form.email) {
+		var email = form.email.value;
+		var confirmEmail = form.confirm_email.value;
+		var reg = /\b(^(\S+@).+((\.com)|(\.net)|(\.edu)|(\.mil)|(\.gov)|(\.org)|(\.aero)|(\.arpa)|(\.asia)|(\.biz)|(\.cat)|(\.coop)|(\.info)|(\.int)|(\.jobs)|(\.mobi)|(\.name)|(\.post)|(\.pro)|(\.tel)|(\.xxx)|(\..{2,2}))$)\b/gi;
 		
-		var form = $('joinEmail_gap');
-		var goodEmail = field.value.match(/\b(^(\S+@).+((\.com)|(\.net)|(\.edu)|(\.mil)|(\.gov)|(\.org)|(\..{2,2}))$)\b/gi);
-		var isValidEmail = false;
-
-		if (field==form.em){
-		
-			if (goodEmail){
-			   isValidEmail = true;
+		function checkRequired() {
+			var requiredFields = false;
+			var warning = 'This field is required';
+			if (form.email.value == form.email.defaultValue) {
+				form.email.defaultValue = warning;
+				form.email.value = warning;
+				$(form).email.addClassName('validationWarning');
+				requiredFields = false;
 			} else {
-				
-				$('emailaddr2').value = 'Please enter a valid email address';
-
-
-			   //field.focus();
-			   //field.select();
-			   isValidEmail = false;
+				$(form).email.removeClassName('validationWarning');
+				requiredFields = true;
 			}
-			
-		} else {	
-		
-			if (goodEmail){
-			   isValidEmail = true;
+			if (form.confirm_email.value == form.confirm_email.defaultValue) {
+				form.confirm_email.defaultValue = warning;
+				form.confirm_email.value = warning;
+				$(form).confirm_email.addClassName('validationWarning');
+				requiredFields = false;
+			} else if (requiredFields == false) {
+				requiredFields = false;
 			} else {
-			
-				$('emailaddr2').setStyle({color:'#f00'});
-				$('emailaddr').setStyle({color:'#f00'});
-				
-				$('emailaddr2').value = 'Please enter a valid email address';
-				$('emailaddr').value = 'Please enter a valid confirmation email address';
-
-			   //field.focus();
-			   //field.select();
-			   isValidEmail = false;
+				$(form).confirm_email.removeClassName('validationWarning');
+				requiredFields = true;
+			}
+			if (requiredFields == true) {
+				sendForm = true;
+				checkEmail();
 			}
 		}
-		return isValidEmail;
-	},
-
-	validateEmailAndSend : function(thisButton) {
-	
-	   var form = $('joinEmail_gap');
-	   var email = form.emailaddr2;
-	   var email2 = form.emailaddr;
-	   var isValidEmail = emailValidation.checkEmailAddress(email);
-	   var isValidEmail2 = emailValidation.checkEmailAddress(email2);
-	   if (isValidEmail && isValidEmail2) {
-		  
-		  if ((email.value == email2.value)) {
-		   
-			  location.href = "/profile/info.do?cid=53959&mlink=5058,4494773,email_v&clink=4494773&src=_GOLFooter&emailAddress=" + email2.value;
-			  
-						  
-		   } else if ( (email.value != email.value2) ) { 
-					
-					$('emailaddr2').setStyle({color:'#f00'});
-					$('emailaddr').setStyle({color:'#f00'});
-					
-					$('emailaddr2').value = 'Both email addresses must match';
-					$('emailaddr').value = 'Both email addresses must match';
-
-					// $("email_match_error").show();
-					return false;
-		   } 
-			 
-	   } 
-		   
-		return false;
+		function checkEmail() {
+			if (reg.test(email) == false) {
+				var warning = 'Invalid Email Address';
+				form.email.defaultValue = warning;
+				form.email.value = warning;
+				$(form).email.addClassName('validationWarning');
+				sendForm = false;
+			} else {
+				$(form).email.removeClassName('validationWarning');
+				sendForm = true;
+				checkConfirmEmail();
+			}
+		}
+		function checkConfirmEmail() {
+			if (sendForm = true && email != confirmEmail) {
+				var warning = 'Email Addresses Must Match';
+				form.confirm_email.defaultValue = warning;
+				form.confirm_email.value = warning;
+				$(form).confirm_email.addClassName('validationWarning');
+				sendForm = false;
+			} else if (email == confirmEmail) {
+				$(form).confirm_email.removeClassName('validationWarning');
+				sendForm = true;
+			}
+		}
+		checkRequired();
 	}
-
-};
-
-
+	return sendForm;
+}
 </script>
-
-<div id="GapEmailFooter2486838">
-	
-	<div id="Main2486838">
-
-	<!-- <img width="767" height="87" alt="be in the know. receive a special offer when you sign up for gap emails.*" src="/Asset_Archive/GPWeb/content/0004/494/773/assets/be_in_the_know_emailSignUp_NoBox.gif" usemap="#primaryImageMap2486838"/>
-		<map name="primaryImageMap2486838" id="primaryImageMap2486838">
-<area onclick="return contentItemLink(this,'','emailreg');" href="/customerService/info.do?cid=2331" alt="Privacy Policy" coords="186,58,255,74">
-<area alt="join us on twitter" coords="702,52,764,81" href="http://www.twitter.com/gap" target="_new">
-<area alt="join us on facebook" coords="702,6,766,51" href="http://www.facebook.com/gap" target="_new">
-</map> -->
-		
-
-
-	
-	</div> <!--CLOSING DIV FOR FOOTER ASSET-->
-	
-	
-	<div id="EmailSignup2486838">
-	<label for="emailaddr" class="cssHide2">Style, news, and an exclusive offer when you sign up!*</label>
-
-	<form name="joinEmail_gap" id="joinEmail_gap" action="#" method="post">
-	
-			<div id="formTitleText2486838" style="width:280px; margin-bottom:5px; float:left; font-weight:bold;">Style, news, and an exclusive offer when you sign up!*</div>
-			
-			<div id="FormFieldTwo2486838">
-				<input id="emailaddr2" name="emailaddr2" size="39" maxlength="100" value="Email, please" type="text">
-			</div>
-			
-			<div id="FormFieldOne2486838">
-				<input id="emailaddr" name="emailaddr" size="39" maxlength="100" value="Confirm your email" type="text">
-			</div>
-			
-			<div id="SubmitButton2486838">
-				<input src="/Asset_Archive/GPWeb/content/0004/637/492/assets/submit_email.png" name="address" id="address" value="submit" alt="submit" type="image">
-			</div>
-			
-			<div id="privacyPolicyText22486838" style="width:260px; margin-top:5px;">*Offer valid for first registrants only. <a href="/customerService/info.do?cid=2331" onclick="return contentItemLink(this,'','emailreg');">Privacy Policy</a></div>
-			
-	</form>						
-	
-
-	</div> <!--CLOSING DIV FOR EMAIL ASSET-->
-	
-	
-
-
-</div><!--END GapEmailFooter2486838-->
-
-
-<script type="text/javascript">
-// <![CDATA[
-	
-
-	
-	Event.onDOMReady(function() {
-		$('address').onclick=function() {return emailValidation.validateEmailAndSend(this);};
-		$('emailaddr').onfocus = function() {this.value=''; this.style.color="#000";};
-		$('emailaddr2').onfocus = function() {this.value=''; this.style.color="#000";};
-		
-
-	});
-
-// ]]>
-</script>
-
 
 
 </div>
-<!-- END Content Item File: /content/0004/637/492/cn4637492.html -->
+<!-- END Content Item File: /content/0005/240/075/cn5240075.html -->
 
 		</div>	
 	</div>
@@ -5612,7 +6631,7 @@ emailValidation = {
 	
 	<script type="text/javascript" src="/gid/js/common/layouts/en/reporting/sCode-H.2.2.1.js"></script>
 	 <script type="text/javascript">
-	   reportingService.controller.viewManagers.commonViewManager.model.contentItemIdListReport = "4933024,3600236,4386523,4933001,4607049,2647861,4134472,4701126,4637492";
+	   reportingService.controller.viewManagers.commonViewManager.model.contentItemIdListReport = "5713580,5956287,5935069,4607049,5713577,4134472,4701126,5240075";
 	 </script>
 	
 	<noscript>
@@ -5654,14 +6673,10 @@ emailValidation = {
 
 	
 		
-			<script type="text/javascript">
-				document.write('<div id="noCookie" class="siteError">');
-				document.write('<p id="noCookieText" class="supportErrorText">');
-				document.write('Please enable cookies in your browser to experience all the custom features of our site, including the ability to make a purchase. ');
-				document.write('</p>');
-				document.write('</div>');
-			</script><div id="noCookie" class="siteError"><p id="noCookieText" class="supportErrorText">Please enable cookies in your browser to experience all the custom features of our site, including the ability to make a purchase. </p></div>
 		
+			<script type="text/javascript">
+				document.write('');
+			</script>
 		
 	
 	<noscript>
@@ -5671,10 +6686,6 @@ emailValidation = {
 				<a href="/customerService/info.do?cid=000000">enable JavaScript</a>
 				in your browser to experience all the custom features of our site, including the ability to make a purchase.
 			</p>
-			
-				<p id="noCookieText" class="supportErrorText">
-					Please enable cookies in your browser to experience all the custom features of our site, including the ability to make a purchase.
-				</p>
 			
 		</div>
 	</noscript>
@@ -6378,6 +7389,49 @@ with (brightTagPixelPartner) {
 
 
 <!-- container 20 -->
+<!-- BEGIN Content Item File: /content/0005/484/984/cn5484984.html -->
+<div id="contentItemContainer212629" class="5484984">
+
+<!-- Update to account email preferences link with new hosted page -->
+<script type="text/javascript">
+if( location.pathname == '/profile/account_summary.do' ) {
+document.observe('dom:loaded', function() {
+if( $('personalInformation') ) {
+var linksToScan = $('personalInformation').select('a');
+var linkToScan;
+if( linksToScan && linksToScan.length > 0 ) {
+for( var i = 0; i < linksToScan.length; i++ ) {
+linkToScan = linksToScan[i];
+if( linkToScan.href.indexOf( 'email_preferences' ) > -1 ) {
+linkToScan.href = '/profile/info.do?cid=82638&locale=en_CA';
+}
+}
+}
+}
+});
+}
+
+if (location.href.indexOf('cid=2302') > -1 ) {
+	document.observe('dom:loaded', function() {
+		if ( $('mainContent') ) {
+			var linksToScan = $('mainContent').select('a');
+			var linkToScan;
+			if (linksToScan && linksToScan.length > 0 ) {
+				for ( var i = 0; i < linksToScan.length; i++) {
+					linkToScan = linksToScan[i];
+					if (linkToScan.href.indexOf('59605') > -1 ) {
+						linkToScan.href = '/profile/info.do?cid=48755&locale=en_CA';
+					}
+				}
+			}
+		}
+	});
+}
+</script>
+
+
+</div>
+<!-- END Content Item File: /content/0005/484/984/cn5484984.html -->
 
 </div>
 
