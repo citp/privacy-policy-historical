@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swiftthemes.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605055942id_/http%3A//swiftthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftthemes.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227121822id_/http%3A//swiftthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# | Privacy Policy
+# Privacy Policy
 
 The SwiftThemes.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. SwiftThemes is a service+product offering of nthSide Web Solutions LLC (“nthSide Web Solutions”), and references in this document to “us,” “our,” and “we” refer to nthSide Web Solutions.
 
