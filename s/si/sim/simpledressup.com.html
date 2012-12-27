@@ -1,0 +1,343 @@
+<!--The following is the downloaded HTML source of the simpledressup.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227151547id_/http%3A//www.simpledressup.com/index.php%3Fpageid%3D3) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>
+Fashion Games Privacy Policy</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="http://www.simpledressup.com/templates/geo2/rating_style.css">
+<meta name="copyright" content="simpledressup.com 2009">
+<meta name="revisit-after" content="1 day">
+<meta name="Distribution" content="Global">
+<meta name="classification" content="Fashion Games">
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://www.simpledressup.com/js/pread.js"></script>
+<!--<link rel="stylesheet" type="text/css" href="http://www.simpledressup.com/templates/geo2/style.css"</>-->
+<link rel="stylesheet" type="text/css" href="http://www.simpledressup.com/templates/geo2/rating_style.css">
+<script type="text/javascript" src="http://www.simpledressup.com/js/rating_update.js"></script>
+<link rel="stylesheet" href="http://www.simpledressup.com/templates/geo2/slideshow1.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://www.simpledressup.com/trade.css">
+<script src="http://www.simpledressup.com/templates/geo2/arcade.js" type="text/javascript"></script>
+  <style media="all" type="text/css">
+         @import "http://www.simpledressup.com/templates/geo2/css/main.css";
+  </style>
+  <script type="text/javascript" language="javascript" src="http://www.simpledressup.com/templates/geo2/js/general.js"></script>
+
+
+<script type="text/javascript" language="javascript">
+  var http_request = false;
+
+  function show_hint ( p_hint_text, p_span ) {
+    document.getElementById(p_span).innerHTML = p_hint_text ;
+  }
+
+  function makePOSTRequest(url, parameters, SpanName) {
+    http_request = false;
+    if (window.XMLHttpRequest) { // Mozilla, Safari,...
+    http_request = new XMLHttpRequest();
+    if (http_request.overrideMimeType) {
+    http_request.overrideMimeType('text/xml');
+    }
+    } else if (window.ActiveXObject) { // IE
+    try {
+    http_request = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+    try {
+    http_request = new ActiveXObject("Microsoft.XMLHTTP");
+    } catch (e) {}
+    }
+    }
+    if (!http_request) {
+    alert('Cannot create XMLHTTP instance');
+    return false;
+    }
+  
+    http_request.onreadystatechange = function() {
+    if (http_request.readyState == 4) {
+    if (http_request.status == 200) {
+    //alert(http_request.responseText);
+    result = http_request.responseText;
+    document.getElementById(SpanName).innerHTML = result;
+    document.getElementById('status').innerHTML = 'Ready'; 
+    } else {
+    alert('There was a problem with the request.');
+    }
+    }
+    };
+    http_request.open('POST', url, true);
+    http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    http_request.setRequestHeader("Content-length", parameters.length);
+    http_request.setRequestHeader("Connection", "close");
+    http_request.send(parameters);
+  }
+
+
+  function Contact(obj,SpanName,DivName) {
+    var curDateTime = new Date(); //For IE 
+    var SpanName = SpanName; 
+
+
+    if(DivName == 'tf'){
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.simpledressup.com/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+    if(DivName == 'tfv'){
+    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
+  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
+  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
+  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
+  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
+  	  				"&verifycode=" + encodeURI( document.getElementById("tafverifycode").value ) +
+  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.simpledressup.com/index.php?action=tellafriendajax', poststr, SpanName);
+    }    
+
+    if(DivName == 'cf'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.simpledressup.com/index.php?action=addcommentajax', poststr, SpanName);
+    }
+    if(DivName == 'cfv'){
+    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
+  	  				"&id=" + encodeURI( document.getElementById("id").value ) +
+  					"&verifycode=" + encodeURI( document.getElementById("cverifycode").value );
+    
+    //alert (SpanName); 
+    makePOSTRequest('http://www.simpledressup.com/index.php?action=addcommentajax', poststr, SpanName);
+    }
+   
+    document.getElementById(DivName).style.display = 'none';
+  } 
+
+
+</script> 
+
+<style type="text/css">
+.pagination{
+width: auto; /*Width of pagination DIV. To equal that of Content Slider's width, take into account the later's left/right paddings!*/
+text-align: right;
+border: 1px solid #EEEEEE;
+border-width: 0 0px; /*Left/ right border width of pagination DIV.*/
+padding: 0 0 4px 0;
+}
+
+* html .pagination{ /*Simplified box model hack to get IE5 to display width equal to that of Content Slider's*/
+width: 315px; /*IE5 width*/
+w\idth: 315px; /*IE6 width*/
+}
+
+.pagination a{
+padding: 0 5px;
+text-decoration: none; 
+color: #2e6ab1;
+background-color: white;
+}
+
+.pagination a:hover, .pagination a.selected{
+color: #000;
+background-color: #FEE496;
+}
+
+
+div.pagination {
+	padding: 3px;
+	margin: 3px;
+}
+
+div.pagination a {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #AAAAAA;
+	text-decoration: none; /* no underline */
+	color: #FFFFFF;
+	background-color: #904384;
+}
+
+div.pagination a:hover, div.pagination a:active {
+	border: 1px solid #FFFFFF;
+  color: #FFFFFF;
+  text-decoration: none;
+  background-color: #B36CB7;
+}
+
+div.pagination span.current {
+  font-family: Arial, Verdana, Helvetica; 
+  font-size:9pt;
+  font-weight: bold;
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #FFFFFF;
+	background-color: #F7307F;
+	color: #FFFFFF;
+	}
+	
+div.pagination span.disabled {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #EEE;
+
+	}
+	
+	div.pagination span.dots {
+  font-family: Arial, Verdana, Helvetica; 
+  font-size:9pt;
+  font-weight: bold;
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #FFFFFF;
+	color: #FFFFFF;
+	background-color:#904384;
+	}
+
+
+/* --- Pre Ad -- */
+#spillpre_bar{background-color:#EAB9FF;width:0px;font-size:12px}
+#spillpre_bar span{background-color:#fff;color:#FAF0FF;padding:0px;height:1px;line-height:1px;font-size:1px}
+div#spillpre_loader{width:298px;height:10px;border:1px solid #FAF0FF;background-color:#fff;text-align:left;margin:auto;overflow:hidden;margin-bottom:3px}
+div#spillpre_ad{text-align:center;margin:auto}
+div#spillpre_adcont{margin:0 auto;margin-bottom:11px}
+div#spillpre_click2close A{font-size:12px;color:#000;text-decoration:underline;font-family:Tahoma,Arial,Verdana}
+div#spillpre_c2c_container{margin:0 auto;width:298px;height:20px}
+div#spillpre_click2close,div#spillpre_percent{float:left;height:15px;line-height:20px;font-size:12px;font-family:Tahoma,Arial,Verdana}
+div#spillpre_percent{font-size:12px;font-weight:bold;color:#B1B1B1 !important;text-align:right}
+div#spillpre_clear{font-size:1px;line-height:1px;height:1px;clear:both;width:298px;margin:0 auto}
+
+-->
+</style>
+<meta name="google-site-verification" content="wk7CYMBrZz3mwm2mvnKM0ObxPki89K1cAGN7d5O-iGU">
+
+</head>
+
+<body>
+
+
+<!-- Container -->
+<div id="top"></div>
+<div id="container">
+
+<!-- Header -->
+ <div id="header">
+  <div class="logo"><a href="http://www.simpledressup.com/" title="Play Fashion Games"><img src="http://www.simpledressup.com/templates/geo2/img/pixel.gif" alt="Play Fashion Games"></a><h1>Online Fashion Games</h1></div>
+  <div class="search">
+   <form action="http://www.simpledressup.com/index.php" method="post">
+    <input value="Search Games" class="field" onfocus="inptClearDefault( this, true, 'Search Games' );" onblur="inptClearDefault( this, false, 'Search Games' );" name="q" id="q" type="text">
+    <input value="GO" class="submit" type="submit">
+   </form>
+  </div>
+ </div>
+<!-- / Header -->
+
+<!-- Right Column -->
+ <div id="right">
+
+  		    <h2><b>Privacy Policy</b></h2><br>
+<br>
+At SIMPLEDRESSUP.COM, we respect the privacy of the viewers who visit our communities and share their personal information with us. So we've designed our site and programs with their privacy in mind. Our Privacy Policy describes how we obtain, use and disclose non-public personal information about our viewers to our select marketing partners. You will be subject to the terms of this Policy if you register with us or use any of our services.<br>
+This Privacy Policy is subject to change.<br>
+Information about All Visitors<br>
+Unless otherwise noted in special promotions, SIMPLEDRESSUP.COM generally gathers information about its users collectively and only uses this data to determine how to improve the overall experience for our visitors and members. If this information is shared with our partners or sponsors, it is only in the aggregate, which enables them to better understand how Womensforum.com visitors use and enjoy our site and which resources are of primary interest to them.<br>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. <br>
+Research<br>
+SIMPLEDRESSUP.COM may research our users' demographics, interests and behavior based on the information provided to us upon registration. We may do this to better understand and serve our visitors. This research is compiled and analyzed on an aggregated basis. SIMPLEDRESSUP.COM may share this aggregated data with select marketing partners.<br>
+Information Usage<br>
+In order to provide you with exemplary services, products, and the benefits of our selected partnerships, SIMPLEDRESSUP.COM displays multiple forms of advertisements from select partners. By better knowing our viewers, we are able to more effectively target content and sponsors offers to our viewers.<br>
+SIMPLEDRESSUP.COM uses an opt-in system before sharing user information with anyone. You always have the option of not providing permission for your information to be shared. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests.<br>
+Third Party Data and Aggregated Data<br>
+SIMPLEDRESSUP.COM may disclose aggregated user statistics in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.<br>
+Third Party Advertising<br>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.<br>
+NAI Opt Out of Behavioral Advertising<br>
+The NAI Opt-out Tool was developed in conjunction with our members for the express purpose of allowing consumers to "opt out" of the behavioral advertising delivered by our member companies. Please click here for further information: http://www.networkadvertising.org/managing/opt_out.asp<br>
+Third Party Cookies<br>
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.<br>
+Children<br>
+We do not knowingly collect information from children under the age of 13 and feel strongly about protecting the rights and privacy of children. As such, we do not collect or use any personal information from children we know to be under the age of 13, and will remove personally identifying information about such minors from our system. We are compliant with the Children's Online Privacy Protection Act (COPPA) of 1998. See this page for more information: http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm<br>
+Your IP Address<br>
+We may note your IP address when you visit our site. An IP address is a number that is automatically assigned to your computer when you use the Internet. IP addresses are not linked to personally identifiable information. We use IP addresses to analyze trends, administer our web site, track user movements and gather broad demographic information for aggregate use. We collect aggregate (anonymous) information on persons who access our site so that we can keep it up-to-date, useful and relevant to visitors.<br>
+Cookies<br>
+"Cookies" are files with information that is stored by your browser on your computer's hard drive. Womensforum.com uses cookies only to keep track of user I.D. information.<br>
+Disclosure of Information<br>
+SIMPLEDRESSUP.COM may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating our terms of use or causing injury to, or interfering with, our rights, property, other users, or anyone else.<br>
+SIMPLEDRESSUP.COM may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our service to you.<br>
+Your Consent<br>
+By using our Web site, you consent to the collection and use of this information by SIMPLEDRESSUP.COM. If we decide to change our privacy policy, we will post the revised policy on this page so that you are always aware of any changes.<br>
+Disclaimer<br>
+Please be aware that no data transmitted over the Internet is guaranteed to be 100% secure. Thus, we cannot ensure or warrant the security of any information you transmit to us or information that is transmitted to you from our products, services or partners. Sometimes the information you disclose can be collected and used by others. If you post personal information that is accessible to the public, you may receive unsolicited messages from other parties in return.<br>
+
+
+ </div>
+<!-- / Right Column -->
+
+<!-- Left Column -->
+ <div id="left">
+
+<!-- Nav -->
+  <div id="nav">
+   <ul>
+     <li><a href="http://www.simpledressup.com/">Home</a></li>    		
+     <li><a href="http://www.simpledressup.com/celebrity-games.html">Celebrity Games</a></li>
+     <li><a href="http://www.simpledressup.com/dress-up-games.html">Dress Up Games</a></li>	
+     <li><a href="http://www.simpledressup.com/girl-games.html">Girl Games</a></li>	
+     <li><a href="http://www.simpledressup.com/kissing-games.html">Kissing Games</a></li>
+     <li><a href="http://www.simpledressup.com/newest-dress-up-games.html">Newest Games</a></li>
+     <li><a href="http://www.simpledressup.com/popular-dress-up-games.html">Popular Games</a></li>
+   </ul>
+   <div class="clear-both"></div>
+  </div>
+<!-- / Nav -->
+
+<!-- Skyscraper -->
+  <div id="skyscraper"><iframe src="http://www.simpledressup.com/ads/160X600.php" alt="Dress Up Games" width="160" height="600" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>  <div class="clear-both"></div></div>
+ <!-- Skyscraper -->
+<!-- / Nav -->
+
+ </div>
+<!-- / Left Column -->
+
+<!-- Blurb -->
+ <div id="blurb">
+
+  <p><a href="http://www.simpledressup.com/Trade-Traffic.html">New Traders Signup Now</a> | <a href="http://www.simpledressup.com/Traffic-Stats.html">Trade Stats</a> | <a href="http://www.simpledressup.com/index.php?pageid=3">Privacy Policy</a></p>
+
+ <p>Simple Dress Up is the best place for fun, internactive free fashion games you will enjoy. Start Playing Now!! <br>Copywrite 2009 By SimpleDressup.com - <a href="http://www.simpledressup.com/">Fashion Games</a></p>
+ </div>
+<!-- / Blurb -->
+
+</div>
+<div id="bottom"></div>
+<!-- / Container -->
+
+<!-- Container -->
+<div id="footer"></div>
+<!-- / Container -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2379367-24");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<center><script type="text/javascript" src="http://widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('tp82hadvhk4o')</script></center><div align="center" style="width:200px; height:20px; margin-left:auto; margin-right:auto; padding-top: 10px;padding-bottom: 10px;"><a href="http://www.womensforum.com" target="_blank" rel="nofollow"><img src="http://www.womensforum.com/link/womens-forum.png" width="200" height="20" border="0"></a>
+</div>
+
+<!-- Begin comScore Tag --><script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "6035830" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6035830&cv=2.0&cj=1" /></noscript><!-- End comScore Tag -->
+
+
+
+</body></html>
