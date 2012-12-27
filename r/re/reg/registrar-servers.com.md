@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registrar-servers.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626112608id_/http%3A//www.namecheap.com/legal/general/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registrar-servers.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227103845id_/http%3A//www.namecheap.com/legal/general/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Namecheap.com - Privacy Policy
 
