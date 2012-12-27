@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunchbase.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620000408id_/http%3A//www.crunchbase.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunchbase.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227070559id_/http%3A//www.crunchbase.com/help/privacy-policy) for the most accurate reproduction.*
 
 # CrunchBase Privacy Policy
 
@@ -10,7 +10,7 @@
 
 Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer. We may use anonymous information to analyze Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer the Site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
-You do not have to give us any of your personal information to use the Site. If you choose to create a “CrunchBase Profile” on the Site, any information you add to the public portion of a CrunchBase Profile will be available to us as well as to other users of the Site.
+You do not have to give us any of your personal information to access the Site. If you choose to create a “CrunchBase Profile” on the Site, any information you add to the public portion of a CrunchBase Profile will be available to us as well as to other users of the Site.
 
 ### Children's Privacy
 
