@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mp3juices.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626092018id_/http%3A//mp3juices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3juices.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227065928id_/http%3A//mp3juices.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – MP3Juices
-
-[](https://web.archive.org/)
 
 Personal Information  
 Mp3Juices.com is committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our web site. In order to enhance your experience at our sites we gather certain personal information about you that helps us customize our content to your tastes and preferences. We may ask for your name, e-mail address, zip code, and country. The more information you share with us (and the more accurate it is), the better we are able to enhance and customize your experience on our sites.  
@@ -22,4 +20,4 @@ Third Party Cookies
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.  
 Google, as a third party vendor, uses cookies to serve ads on your site.  
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy by clicking the link mentioned earlier. 
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy by clicking the link mentioned earlier.
