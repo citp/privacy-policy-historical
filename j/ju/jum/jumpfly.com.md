@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpfly.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201122924id_/http%3A//www.jumpfly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpfly.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227225601id_/http%3A//www.jumpfly.com//privacy.php) for the most accurate reproduction.*
 
 # JumpFly - Privacy Policy
 
@@ -20,7 +20,7 @@ When you visit an internet website, you disclose certain information about yours
 We use information in different ways, depending on the type of information. User-supplied information: This information is used for purposes such as personalization and verification. Web server logs: This information helps us identify which areas of our site are of interest to our visitors. JumpFly also collects the internet [Protocol] (IP) addresses of its visitors for the purposes of system administration.
 
 **Third Party Vendors and Cookies**  
-Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "Google advertising opt-out page").
+Third party vendors, including Google, will show JumpFly ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on your prior visits to our website. You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "Google advertising opt-out page").
 
 **How We Protect Your Information**  
 The privacy and protection of your personal information is vitally important to us. JumpFly does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective partners regarding your JumpFly usage are provided in the aggregate only and do not include any personally identifiable information about any individual user.
