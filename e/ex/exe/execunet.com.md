@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623211228id_/http%3A//www.execunet.com/e_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227143600id_/http%3A//www.execunet.com/e_privacy.cfm) for the most accurate reproduction.*
 
 # ExecuNet - Executive Job Search, Networking & Career Advancement
 
@@ -69,7 +69,7 @@ To enhance your experience at ExecuNet, we use a feature on your Internet browse
 
 **Feedback**
 
-ExecuNet has an area on the site where you can submit [feedback](https://web.archive.org/web/20120623211228id_/http%3A//www.execunet.com/e_contactus.cfm). Any feedback that is submitted through this area becomes the property of ExecuNet. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site. 
+ExecuNet has an area on the site where you can submit [feedback](https://web.archive.org/web/20121227143600id_/http%3A//www.execunet.com/e_contactus.cfm). Any feedback that is submitted through this area becomes the property of ExecuNet. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site. 
 
 **Privacy Commitment Changes**
 
