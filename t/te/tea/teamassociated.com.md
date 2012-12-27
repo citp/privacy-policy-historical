@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamassociated.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604225537id_/http%3A//www.teamassociated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamassociated.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227134102id_/http%3A//www.teamassociated.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Team Associated - Champions By Design - Nitro and Electric RC Cars
 
