@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the animetake.com privacy policy that was archived on 2012-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120523100628id_/http%3A//www.animetake.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the animetake.com privacy policy that was archived on 2012-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227060453id_/http%3A//www.animetake.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>AnimeTake.com – Privacy Policy</title>
@@ -14,11 +14,155 @@
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.animetake.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="Anime Take Downloads" href="http://www.animetake.com">
 <meta name="generator" content="WordPress 2.8.4">
+<style type="text/css">
+		.cr_stars {
+		  height: 15px;
+		  overflow: hidden;
+		  padding: 0;
+		  margin: 0;
+		}
+		* html .cr_stars .star {
+			display: block;
+			position: absolute;
+			height: 0;
+			width: 0;
+		}
+		.cr_stars input {
+			display: none;
+		}
+		.cr_no_star, .cr_half_star, .cr_full_star, .cr_no_voting_star, .cr_half_voting_star, .cr_full_voting_star {
+		  display: block;
+		  float: left;
+		  width: 17px;
+		  height: 15px;
+		  text-indent: -1000em;
+		  text-align: left;
+		  background-repeat: no-repeat;
+		}
+		.cr_no_star {
+		  background-image: url(http://www.animetake.com/wp-content/plugins/cat_rating/img/stars/no_star.gif);
+		}
+		.cr_full_star {
+		  background-image: url(http://www.animetake.com/wp-content/plugins/cat_rating/img/stars/full_star.gif);
+		}
+		.cr_half_star {
+		  background-image: url(http://www.animetake.com/wp-content/plugins/cat_rating/img/stars/half_star.gif);
+		}
+		.cr_no_voting_star {
+		  background-image: url(http://www.animetake.com/wp-content/plugins/cat_rating/img/stars/no_star.gif);
+		}
+		.cr_full_voting_star {
+		  background-image: url(http://www.animetake.com/wp-content/plugins/cat_rating/img/stars/full_voting_star.gif);
+		}
+		.cr_half_voting_star {
+		  background-image: url(http://www.animetake.com/wp-content/plugins/cat_rating/img/stars/half_voting_star.gif);
+		}
+		.cr_votes {
+			padding-left: .5em;
+		}
+		.cr_moment_scores li {
+			position: relative;
+			height: 2.2ex;
+		  list-style: decimal outside;
+		}
+		* html .cr_moment_scores li {
+		  list-style: none;
+		}
+		.cr_moment_scores .trend_up, .cr_moment_scores .trend_dw, .cr_moment_scores .trend_eq {
+		  display:block;
+		  width: 14px;
+		  height: 15px;
+		  overflow: hidden;
+		  text-indent: -100em;
+		  float: left;
+		  background-repeat: no-repeat;
+			margin-right: .5em;
+		}
+		.cr_moment_scores .trend_up {
+		  background-image: url(http://www.animetake.com/wp-content/plugins/post-star-rating/img/stars/up_arrow.gif);
+		}
+		.cr_moment_scores .trend_dw {
+		  background-image: url(http://www.animetake.com/wp-content/plugins/post-star-rating/img/stars/dw_arrow.gif);
+		}
+		.cr_moment_scores .trend_eq {
+		  background-image: url(http://www.animetake.com/wp-content/plugins/post-star-rating/img/stars/eq_arrow.gif);
+		}
+		.cr_moment_scores .cr_container {
+			position: absolute;
+			top: 0;
+			right: 0;
+			width: 21ex;
+			text-align: right;
+		}
+		</style>
 <script type="text/javascript">
-//<![CDATA[
-var _wpcf7 = { cached: 1 };
-//]]>
-</script>
+		<!--
+		function cr_star_over(obj, star_number) {
+			var cr=obj.parentNode;
+			var as=cr.getElementsByTagName('label');
+			for (i=0;i<star_number;++i) {
+				as[i].lastClass = as[i].className;
+				as[i].className = 'cr_full_star';
+			}
+			for (;i<as.length;++i) {
+				as[i].lastClass = as[i].className;
+//				as[i].className = 'cr_no_star';
+			}
+		}
+		function cr_star_out(obj) {
+			var as=obj.getElementsByTagName('label');
+			for (i=0;i<as.length;++i) {
+				if (as[i].lastClass) {
+					as[i].className = as[i].lastClass;
+				}
+			}
+		}
+		function cr_getHTTPObject() {
+		  var xmlhttp;
+		  /*@cc_on
+		  @if (@_jscript_version >= 5)
+		    try {
+		      xmlhttp = new ActiveXObject('Msxml2.XMLHTTP');
+		    } catch (e) {
+		      try {
+		        xmlhttp = new ActiveXObject('Microsoft.XMLHTTP');
+		      } catch (E) {
+		        xmlhttp = false;
+		      }
+		    }
+		  @else
+		  xmlhttp = false;
+		  @end @*/
+		  if (!xmlhttp && typeof XMLHttpRequest != 'undefined') {
+		    try {
+		      xmlhttp = new XMLHttpRequest();
+		    } catch (e) {
+		      xmlhttp = false;
+		    }
+		  }
+		  return xmlhttp;
+		}
+		function cr_save_vote(post, points) {
+		  if (!cr_isWorking) {
+		  	cr_current_post=post;
+				cr_http.open('GET', 'http://www.animetake.com/wp-content/plugins/cat_rating/cr-ajax-stars.php?p=' + cr_current_post + '&cr_stars=' + points, true);
+				cr_http.onreadystatechange = cr_update_vote;
+			 	cr_isWorking = true;
+				cr_http.send(null);
+		  }
+		}
+		function cr_update_vote() {
+		  if (cr_http.readyState == 4) {
+		  	cr_isWorking = false;
+		  	var cont = document.getElementById('cr_form_' + cr_current_post).parentNode;
+	    	cont.innerHTML=cr_http.responseText;
+		  }
+		}
+		cr_current_post = null;
+		cr_http=cr_getHTTPObject();
+	  cr_isWorking=false;
+		//-->
+		</script>
 <link rel="stylesheet" href="http://www.animetake.com/wp-content/themes/animetake-new/dd-multi-col-cats.css" type="text/css" media="screen"><meta name="description" content="AnimeTake.com - Privacy Policy">
 <meta name="keywords" content="direct download privacy policy,download privacy policy,privacy policy">
 <link rel="icon" type="image/gif" href="http://www.animetake.com/favico.gif">
@@ -36,20 +180,11 @@ var capping = 1; // 1 to enable cookie-based capping, 0 to disable capping
 var impperses = 5; // impressions per session cap (1-5)
 var seslen = 24; // session length in hours (1-24)
 var zoid=1445;eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('9 b=e.n(e.o()*p);6(c==1){9 d=7.a.f(\'(^|;) ?g=([^;]*)(;|$)\');6(d){9 4=7.a.f(\'(^|;) ?h=([^;]*)(;|$)\');3=d[2]}i{6(8<1)8=1;6(8>j)8=j;9 3=q r();3.s(3.t()+8*u);3=3.v();7.a="g="+3+";k="+3+";l=/"}6(4)4=w(4[2])+1;i 4=1;6(4<=x&&4<=5){7.a="h="+4+";k="+3+";l=/";c=0}}6(c!=1)7.y("<m z=\'A/B\' C=\'D://E.F-G-H.I/J.K?L=M&N="+O+"&P=Q&b="+b+"\'><\\/m>");',53,53,'|||ses_exp|skinimp||if|document|seslen|var|cookie|rand|capping|coo_exp|Math|match|gao_session_expiry|gao_skin_views|else|24|expires|path|script|round|random|9999999|new|Date|setTime|getTime|3600000|toGMTString|parseInt|impperses|write|type|text|javascript|src|http|www|game|advertising|online|com|index|php|section|serve|id|zoid|output|skin'.split('|'),0,{}))
-//--></script><script type="text/javascript" src="http://www.game-advertising-online.com/index.php?section=serve&amp;id=1445&amp;output=skin&amp;rand=3573285"></script><noscript>Game advertisements by <a href="http://www.game-advertising-online.com" target="_blank">Game Advertising Online</a> require JavaScript.</noscript>
+//--></script><script type="text/javascript" src="http://www.game-advertising-online.com/index.php?section=serve&amp;id=1445&amp;output=skin&amp;rand=3284313"></script><noscript>Game advertisements by <a href="http://www.game-advertising-online.com" target="_blank">Game Advertising Online</a> require JavaScript.</noscript>
 <!-- END GAO Site Skin -->
 
-<!--4 ValueClick Media POP-UNDER CODE v1.8 for AnimeTake (8 hour) -->
-<script language="javascript"><!--
-var dc=document; var date_ob=new Date();
-dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
-if(dc.cookie.indexOf('e=llo') <= 0 && dc.cookie.indexOf('2=o') > 0){
-dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
-dc.write('/w/pop.cgi?sid=52076&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
-date_ob.setTime(date_ob.getTime()+28800000);
-dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
-</script>
-<!-- ValueClick Media POP-UNDER CODE v1.8 for AnimeTake -->
+<script type="text/javascript" src="http://www.adcash.com/script/java.php?option=rotateur&amp;rotateur=66000"></script>
+
 
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script></head>
 <body>
@@ -114,7 +249,7 @@ try {
 d.write('<script language="JavaScript" type="text/javascript"');
 d.write('src="http://optimized-by.rubiconproject.com/a/8815/14493/30205-2.js?cb='+cb+ref+iframe+'">');
 d.write('<\/scr'+'ipt>');
-</script><script language="JavaScript" type="text/javascript" src="http://optimized-by.rubiconproject.com/a/8815/14493/30205-2.js?cb=0.9512372093205774&amp;fr=false"></script>
+</script><script language="JavaScript" type="text/javascript" src="http://optimized-by.rubiconproject.com/a/8815/14493/30205-2.js?cb=0.12944329666822396&amp;fr=false"></script>
 </td>
 <td width="258">
  <a href="/forums/donate.php"><img src="/images/bheziw.png" border="0"></a>
@@ -149,25 +284,10 @@ d.write('<\/scr'+'ipt>');
        </div>
 <h3 class="navheader">Sponsors</h3>
 
-<!--  Rubicon Project Tag -->
-<!--  Site: Anime Take   Zone: Anime Take ROS   Size: Wide Skyscraper  -->
-<script language="JavaScript" type="text/javascript">
-var cb = Math.random();
-var d = document;
-var iframe = "&fr=" + (window != top);
-var ref = ""; 
-try {
-    if (window != top) {
-        ref = "&rf="+escape(d.referrer);
-    }
-} catch (ignore) { }
-d.write('<script language="JavaScript" type="text/javascript"');
-d.write('src="http://optimized-by.rubiconproject.com/a/8815/14493/30205-9.js?cb='+cb+ref+iframe+'">');
-d.write('<\/scr'+'ipt>');
-</script><script language="JavaScript" type="text/javascript" src="http://optimized-by.rubiconproject.com/a/8815/14493/30205-9.js?cb=0.9584776591417077&amp;fr=false"></script>
+    <iframe frameborder="0" width="160" height="600" marginheight="0" marginwidth="0" scrolling="no" src="http://www.animetake.com/ads/160x600.html"></iframe>
 
     <iframe frameborder="0" width="160" height="600" marginheight="0" marginwidth="0" scrolling="no" src="http://www.animetake.com/ads/160x600.html"></iframe>
-<h2>Latest Added Series</h2><ul class="ddrc"><li><a href="http://www.animetake.com/anime/holy-knight/">Holy Knight</a></li><li><a href="http://www.animetake.com/anime/sakasama-no-patema/">Sakasama no Patema</a></li><li><a href="http://www.animetake.com/anime/akb0048/">AKB0048</a></li><li><a href="http://www.animetake.com/anime/hyouka/">Hyouka</a></li><li><a href="http://www.animetake.com/anime/shining-hearts-shiawase-no-pan/">Shining Hearts: Shiawase no Pan</a></li><li><a href="http://www.animetake.com/anime/eureka-seven-ao/">Eureka Seven AO</a></li><li><a href="http://www.animetake.com/anime/ginga-e-kickoff/">Ginga e Kickoff!!</a></li><li><a href="http://www.animetake.com/anime/tsuritama/">Tsuritama</a></li><li><a href="http://www.animetake.com/anime/sakamichi-no-apollon/">Sakamichi no Apollon</a></li><li><a href="http://www.animetake.com/anime/jormungand/">Jormungand</a></li><li><a href="http://www.animetake.com/anime/haiyore-nyaruko-san/">Haiyore! Nyaruko-san</a></li><li><a href="http://www.animetake.com/anime/phi-brain-kami-no-puzzle-2/">Phi Brain: Kami no Puzzle 2</a></li><li><a href="http://www.animetake.com/anime/saki-episode-of-side-a/">Saki Episode of Side A</a></li></ul>
+<h2>Latest Added Series</h2><ul class="ddrc"><li><a href="http://www.animetake.com/anime/nekomonogatari/">Nekomonogatari</a></li><li><a href="http://www.animetake.com/anime/doki-doki-precure/">Doki Doki! Precure</a></li><li><a href="http://www.animetake.com/anime/love-live-school-idol-project/">Love Live!: School Idol Project</a></li><li><a href="http://www.animetake.com/anime/vividred-operation/">Vividred Operation</a></li><li><a href="http://www.animetake.com/anime/mangirl/">Mangirl!</a></li><li><a href="http://www.animetake.com/anime/yama-no-susume/">Yama no Susume</a></li><li><a href="http://www.animetake.com/anime/amnesia/">Amnesia</a></li><li><a href="http://www.animetake.com/anime/kotoura-san/">Kotoura-san</a></li><li><a href="http://www.animetake.com/anime/maoyuu-maou-yuusha/">Maoyuu Maou Yuusha</a></li><li><a href="http://www.animetake.com/anime/tamako-market/">Tamako Market</a></li><li><a href="http://www.animetake.com/anime/ishida-to-asakura/">Ishida to Asakura</a></li><li><a href="http://www.animetake.com/anime/gdgd-fairies/">gdgd Fairies</a></li><li><a href="http://www.animetake.com/anime/cuticle-tantei-inaba/">Cuticle Tantei Inaba</a></li></ul>
 </div>
 
 
@@ -283,8 +403,25 @@ d.write('<\/scr'+'ipt>');
 
 
 
-<h2>Post Calendar</h2><div id="calendar_wrap"><table id="wp-calendar" summary="Calendar">
-	<caption>May 2012</caption>
+<h2>Chat</h2>			<div class="textwidget"><script id="cid0010000017363232191" src="http://st.chatango.com/js/gz/emb.js" async="" style="width: 300px; height: 360px;">{"handle":"El-Psy-Congroo","styles":{"a":"AC4356","b":100,"c":"FFFFFF","d":"FFFFFF","e":"DDDDD2","h":"DDDDD2","k":"AC4356","l":"999999","q":"AC4356","r":100,"s":1,"t":0}}</script><script id="sid0010000017363232191_">(function() {function async_load(){s.id="cid0010000017363232191";s.src='http://st.chatango.com/js/gz/emb.js';s.style.cssText="width:300px;height:360px;";s.async=true;s.text='{"handle":"El-Psy-Congroo","styles":{"a":"AC4356","b":100,"c":"FFFFFF","d":"FFFFFF","e":"DDDDD2","h":"DDDDD2","k":"AC4356","l":"999999","q":"AC4356","r":100,"s":1,"t":0}}';var ss = document.getElementsByTagName('script');for (var i=0, l=ss.length; i < l; i++){if (ss[i].id=='sid0010000017363232191'){ss[i].id +='_';ss[i].parentNode.insertBefore(s, ss[i]);break;}}}var s=document.createElement('script');if (s.async==undefined){if (window.addEventListener) {addEventListener('load',async_load,false);}else if (window.attachEvent) {attachEvent('onload',async_load);}}else {async_load();}})();</script></div>
+					<div class="textwidget"><!--  Rubicon Project Tag -->
+<!--  Site: Anime Take   Zone: Anime Take ROS   Size: Medium Rectangle  -->
+<script language="JavaScript" type="text/javascript">
+var cb = Math.random();
+var d = document;
+var iframe = "&fr=" + (window != top);
+var ref = ""; 
+try {
+    if (window != top) {
+        ref = "&rf="+escape(d.referrer);
+    }
+} catch (ignore) { }
+d.write('<script language="JavaScript" type="text/javascript"');
+d.write('src="http://optimized-by.rubiconproject.com/a/8815/14493/30205-15.js?cb='+cb+ref+iframe+'">');
+d.write('<\/scr'+'ipt>');
+</script><script language="JavaScript" type="text/javascript" src="http://optimized-by.rubiconproject.com/a/8815/14493/30205-15.js?cb=0.06101277300927932&amp;fr=false"></script>	</div>
+		<h2>&nbsp;</h2><div id="calendar_wrap"><table id="wp-calendar" summary="Calendar">
+	<caption>December 2012</caption>
 	<thead>
 	<tr>
 		<th abbr="Sunday" scope="col" title="Sunday">S</th>
@@ -299,7 +436,7 @@ d.write('<\/scr'+'ipt>');
 
 	<tfoot>
 	<tr>
-		<td abbr="April" colspan="3" id="prev"><a href="http://www.animetake.com/2012/04/" title="View posts for April 2012">« Apr</a></td>
+		<td abbr="November" colspan="3" id="prev"><a href="http://www.animetake.com/2012/11/" title="View posts for November 2012">« Nov</a></td>
 		<td class="pad">&nbsp;</td>
 		<td colspan="3" id="next" class="pad">&nbsp;</td>
 	</tr>
@@ -307,33 +444,26 @@ d.write('<\/scr'+'ipt>');
 
 	<tbody>
 	<tr>
-		<td colspan="2" class="pad">&nbsp;</td><td><a href="http://www.animetake.com/2012/05/01/" title="Naruto SD Episode 5, Naruto: Shippuuden Movie 5 – Blood Prison">1</a></td><td><a href="http://www.animetake.com/2012/05/02/" title="Jormungand Episode 4, Holy Knight OVA 1, C³ -C Cube- OVA 1, Saint Seiya Omega Episode 5">2</a></td><td><a href="http://www.animetake.com/2012/05/03/" title="Queen’s Blade: Rebellion Episode 4, Medaka Box Episode 5, Recorder and Randsell Episode 18, Polar Beaf Cafe Episode 5, SKET Dance Episode 56, Lupin the Third: Mine Fujiko to Iu Onna Episode 5, Naruto Shippuuden Episode 261, Kore wa Zombie Desu ka – Of the Dead Episode 00 (OVA 2), Kore wa Zombie Desuka? Of the Dead Episode 5, Sakamichi no Apollon Episode 4, Tsuritama Episode 4, Sengoku Collection Episode 5">3</a></td><td><a href="http://www.animetake.com/2012/05/04/" title="Sankarea Episode 5, Natsuiro Kiseki Episode 5, Eureka Seven AO Episode 4, Yurumates 3D Episode 5, Accel World Episode 5, Shining Hearts: Shiawase no Pan Episode 4, The Knight in the Area Episode 18">4</a></td><td><a href="http://www.animetake.com/2012/05/05/" title="Fairy Tail Episode 129, Upotte!! Episode 5, Moretsu Pirates Episode 18, Fate Zero II Episode Episode 5, Acchi Kocchi Episode 5, Kuroko no Basket Episode 5">5</a></td>
+		<td colspan="6" class="pad">&nbsp;</td><td><a href="http://www.animetake.com/2012/12/01/" title="Fairy Tail Episode 159, Wooser no Sono Higurashi Episode 9, JoJo’s Bizarre Adventure (2012) Episode 9, To LOVE-Ru Darkness Episode 8, Sukitte Iinayo. Episode 9, Sword Art Online Episode 22, Busou Shinki Episode 9, Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne Episode 9, Wooser no Sono Higurashi Episode 7, Poyopoyo Kansatsu Nikki Episode 48">1</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.animetake.com/2012/05/06/" title="Nazo no Kanojo X Episode 5, Ginga e Kickoff!! Episode 4, One Piece Episode 546, Hunter X Hunter Episode 30, Space Brothers Episode 6, Hiiro no Kakera Episode 6, Saki Episode of Side A Episode 5, Gundam AGE Episode 30, Hyouka Episode 3">6</a></td><td><a href="http://www.animetake.com/2012/05/07/" title="Aquarion EVOL Episode 19, AKB0048 Episode 2, Tasogare Otome x Amnesia Episode 5, Phi Brain: Kami no Puzzle 2 Episode 5, Kimi to Boku 2 Episode 6, Haiyore! Nyaruko-san Episode 5">7</a></td><td><a href="http://www.animetake.com/2012/05/08/" title="Zetman Episode 6, Naruto SD Episode 6">8</a></td><td><a href="http://www.animetake.com/2012/05/09/" title="Jormungand Episode 5, Toriko Episode 55, Saint Seiya Omega Episode 6">9</a></td><td><a href="http://www.animetake.com/2012/05/10/" title="Recorder to Randsell Episode 19, Queen’s Blade Rebellion Episode 5, Medaka Box Episode 6, Lupin The Third Episode 6, Polar Beaf Cafe Episode 6, Kore wa Zombie Desuka? Of the Dead Episode 6, SKET Dance Episode 57, Naruto Shippuuden Episode 262, Sakamichi no Apollon Episode 5, Tsuritama Episode 5, Sengoku Collection Episode 6">10</a></td><td><a href="http://www.animetake.com/2012/05/11/" title="Natsuiro Kiseki Episode 6, Sankarea Episode 6, Ginga e Kickoff!! Episode 5, Eureka Seven AO Episode 5, Shining Hearts: Shiawase no Pan Episode 5, Yurumates 3D Episode 6, The Knight in the Area Episode 19">11</a></td><td><a href="http://www.animetake.com/2012/05/12/" title="Accel World Episode 6, Fairy Tail Episode 130, Moretsu Pirates Episode 19, Upotte!! Episode 6, Fate Zero II Episode 6, Kuroko no Basket Episode 6">12</a></td>
+		<td><a href="http://www.animetake.com/2012/12/02/" title="Oshiri Kajiri Mushi Episode 9, Folktales from Japan Episode 36, Little Busters! Episode 9, One Piece Episode 575, Space Brothers Episode 35, Hunter x Hunter 2011 Episode 57, Chousoku Henkei Gyrozetter Episode 7, Teekyuu Episode 9, Chitose Get You!! Episode 23, Ixion Saga DT Episode 9, Muv-Luv Alternative: Total Eclipse Episode 22, Magi Episode 9, Hiiro no Kakera Season 2 Episode 10">2</a></td><td><a href="http://www.animetake.com/2012/12/03/" title="Bakuman Season 3 Episode 8, Tonari no Kaibutsu-kun Episode 10">3</a></td><td><a href="http://www.animetake.com/2012/12/04/" title="Sakurasou no Pet na Kanojo Episode 9, Girls und Panzer Episode 8, Naruto SD Episode 36, Toriko Episode 84, Acchi Kocchi Episode 13 OVA">4</a></td><td><a href="http://www.animetake.com/2012/12/05/" title="Aikatsu! Episode 9, Kingdom Episode 27, Jormungand Episode 21, Hayate no Gotoku! Can’t Take My Eyes Off You Episode 10, Saint Seiya Omega Episode 35, Zone of the Enders: Idolo, Chuunibyou demo Koi ga Shitai! Episode 10">5</a></td><td><a href="http://www.animetake.com/2012/12/06/" title="Shirokuma Cafe Episode 36, Naruto Shippuuden Episode 292, Psycho-Pass Episode 9, Zetsuen no Tempest Episode 10, K Episode 10, Kamisama Hajimemashita Episode 10, Update on site repairs and everything else.">6</a></td><td><a href="http://www.animetake.com/2012/12/07/" title="Robotics;Notes Episode 9, Code:Breaker Episode 9, BTOOOM! Episode 10, Medaka Box Abnormal Episode 9, Hidamari Sketch x Honeycomb Episode 10, Busou Shinki Episode 10">7</a></td><td><a href="http://www.animetake.com/2012/12/08/" title="Shinsekai yori Episode 11, Fairy Tail Episode 160, To LOVE-Ru Darkness Episode 9, Bakuman Season 3 Episode 9, Chousoku Henkei Gyrozetter Episode 8, Seitokai no Ichizon Lv.2 Episode 6, Sukitte Iinayo. Episode 10, Sword Art Online Episode 23, Poyopoyo Kansatsu Nikki Episode 49">8</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.animetake.com/2012/05/13/" title="Space Brothers Episode 7, Nazo no Kanojo X Episode 6, Hunter x Hunter (2011) Episode 31, One Piece Episode 547, Acchi Kocchi Episode 6, Seitokai Yakuindomo OVA 3, Hiiro no Kakera Episode 7, Saki Episode of Side A Episode 6, Phi Brain: Kami no Puzzle 2 Episode 6, Hyouka Episode 4">13</a></td><td><a href="http://www.animetake.com/2012/05/14/" title="Aquarion EVOL Episode 20, Tasogare Otome x Amnesia Episode 6, AKB0048 Episode 3, Gundam AGE Episode 31, Kimi to Boku 2 Episode 7, Haiyore! Nyaruko-san Episode 6, Zetman Episode 7">14</a></td><td><a href="http://www.animetake.com/2012/05/15/" title="Naruto SD Episode 7, Toriko Episode 56, Detective Conan Episode 654, Jormungand Episode 6">15</a></td><td><a href="http://www.animetake.com/2012/05/16/" title="Kuromajo-san ga Tooru Episode 5, Kuromajo-san ga Tooru Episode 6, Saint Seiya Omega Episode 7">16</a></td><td><a href="http://www.animetake.com/2012/05/17/" title="Queens Blade Rebellion Episode 6, Medaka Box Episode 7, Polar Bear Cafe Episode 7, SKET Dance Episode 58, Lupin the Third Episode 7, Naruto Shippuuden Episode 263, Sakamichi no Apollon Episode 6, Recorder and Randsell Episode 20, Tsuritama Episode 6, Sengoku Collection Episode 7, Eureka Seven AO Episode 6">17</a></td><td><a href="http://www.animetake.com/2012/05/18/" title="Natsuiro Kiseki Episode 7, Sankarea Episode 7, Kore wa Zombie Desuka? Of the Dead Episode 7, Acchi Kocchi Episode 7, Shining Hearts: Shiawase no Pan Episode 6, Yurumates 3D Episode 7, Accel World Episode 7, The Knight in the Area Episode 20">18</a></td><td><a href="http://www.animetake.com/2012/05/19/" title="Fairy Tail Episode 131, Moretsu Pirates Episode 20, Upotte!! Episode 7, Fate/Zero II Episode 7, Kuroko no Basket Episode 7">19</a></td>
+		<td><a href="http://www.animetake.com/2012/12/09/" title="Oshiri Kajiri Mushi Episode 10, Little Busters! Episode 10, Folktales from Japan Episode 37, Wooser no Sono Higurashi Episode 10, JoJo’s Bizarre Adventure (2012) Episode 10, One Piece Episode 576, Jinrui wa Suitai Shimashita Special 3, Space Brothers Episode 36, Hunter x Hunter 2011 Episode 58, Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne Episode 10, Kyousogiga Episode 4, Teekyuu Episode 10, Chitose Get You!! Episode 24, Ixion Saga DT Episode 10, Muv-Luv Alternative: Total Eclipse Episode 23, Hiiro no Kakera Season 2 Episode 11, Sword Art Offline Episode 2, Magi Episode 10">9</a></td><td><a href="http://www.animetake.com/2012/12/10/" title="Angelic White Magical Girls!, Tonari no Kaibutsu-kun Episode 11">10</a></td><td><a href="http://www.animetake.com/2012/12/11/" title="Sakurasou no Pet na Kanojo Episode 10, Girls und Panzer Episode 9, Nogizaka Haruka no Himitsu: Finale Episode 3, Kingdom Episode 28, Naruto SD Episode 37, Fairy Tail OVA 4, Accel World SP 4-5, Animetake Premium Downloads is back!, Jormungand Episode 22">11</a></td><td><a href="http://www.animetake.com/2012/12/12/" title="Toriko Episode 85, Aikatsu! Episode 10, Code:Breaker Episode 10, Hayate no Gotoku! Can’t Take My Eyes Off You Episode 11, Kamisama Hajimemashita Episode 11, Saint Seiya Omega Episode 36, Chuunibyou demo Koi ga Shitai! Episode 11">12</a></td><td><a href="http://www.animetake.com/2012/12/13/" title="Queen’s Blade Rebellion SP 3, Amagami SS+ Give Me Chocolate!, Naruto Shippuuden Episode 293, Psycho-Pass Episode 10, Shirokuma Cafe Episode 37, Zetsuen no Tempest Episode 11, Chousoku Henkei Gyrozetter Episode 9, K Episode 11">13</a></td><td><a href="http://www.animetake.com/2012/12/14/" title="Robotics;Notes Episode 10, BTOOOM! Episode 11, Medaka Box Abnormal Episode 10">14</a></td><td><a href="http://www.animetake.com/2012/12/15/" title="Hidamari Sketch x Honeycomb Episode 11, To LOVE-Ru Darkness Episode 10, Fairy Tail Episode 161, Shinsekai yori Episode 12, JoJo’s Bizarre Adventure (2012) Episode 11, Seitokai no Ichizon Lv.2 Episode 7, Sword Art Online Episode 24, Sukitte Iinayo. Episode 11, Busou Shinki Episode 11, Little Busters! Episode 11">15</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.animetake.com/2012/05/20/" title="Space Brothers Episode 8, Hunter x Hunter (2011) Episode 32, One Piece Episode 548, Nazo no Kanojo X Episode 7, Hiiro no Kakera Episode 8, Saki Episode of Side A Episode 7, Gundam AGE Episode 32">20</a></td><td><a href="http://www.animetake.com/2012/05/21/" title="Hyouka Episode 5, Ginga e Kickoff!! Episode 6-7, Tasogare Otome x Amnesia Episode 7, Aquarion EVOL Episode 21, Phi Brain: Kami no Puzzle 2 Episode 7, AKB0048 Episode 4, Kimi to Boku 2 Episode 8, Haiyore! Nyaruko-san Episode 7">21</a></td><td><a href="http://www.animetake.com/2012/05/22/" title="Zetman Episode 8, Naruto SD Episode 8">22</a></td><td id="today"><a href="http://www.animetake.com/2012/05/23/" title="Detective Conan Episode 655, Toriko Episode 57">23</a></td><td>24</td><td>25</td><td>26</td>
+		<td><a href="http://www.animetake.com/2012/12/16/" title="Poyopoyo Kansatsu Nikki Episode 50, Oshiri Kajiri Mushi Episode 11, Folktales from Japan Episode 38, One Piece Episode 577, Space Brothers Episode 37, Hunter x Hunter 2011 Episode 59, Bakuman Season 3 Episode 10, Teekyuu Episode 11, Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne Episode 11, Chitose Get You!! Episode 25, Ixion Saga DT Episode 11, Hiiro no Kakera Episode 12, Magi Episode 11, Muv-Luv Alternative: Total Eclipse Episode 24, Nekomonogatari PV 1-2">16</a></td><td><a href="http://www.animetake.com/2012/12/17/" title="Bakuman Season 3 Episode 11, Tonari no Kaibutsu-kun Episode 12, Tasogare Otome x Amnesia Episode 13, Tasogare Otome x Amnesia Episode 12 (Directors Cut)">17</a></td><td><a href="http://www.animetake.com/2012/12/18/" title="Sakurasou no Pet na Kanojo Episode 11, Seitokai no Ichizon Lv.2 Episode 8, Girls und Panzer Episode 10, Toriko Episode 86, Naruto SD Episode 38, Aikatsu! Episode 11, To LOVE-Ru Darkness OVA 2">18</a></td><td><a href="http://www.animetake.com/2012/12/19/" title="Kingdom Episode 29, Code:Breaker Episode 11, Chousoku Henkei Gyrozetter Episode 10, Kamisama Hajimemashita Episode 12, Hayate no Gotoku! Can’t Take My Eyes Off You Episode 12, Saint Seiya Omega Episode 37, C³ -C Cube- OVA 1, Chuunibyou demo Koi ga Shitai! Episode 12 Final">19</a></td><td><a href="http://www.animetake.com/2012/12/20/" title="Shirokuma Cafe Episode 38, Naruto Shippuuden Episode 294, History’s Strongest Disciple Kenichi OVA 3, Psycho-Pass Episode 11, The World God Only Knows: Tenri-hen OVA 2, Zetsuen no Tempest Episode 12, K Episode 12">20</a></td><td><a href="http://www.animetake.com/2012/12/21/" title="BTOOOM! Episode 12 Final, Robotics;Notes Episode 11, Medaka Box Abnormal Episode 11, Hidamari Sketch x Honeycomb Episode 12 Final">21</a></td><td><a href="http://www.animetake.com/2012/12/22/" title="JoJo’s Bizarre Adventure (2012) Episode 12, Shinsekai yori Episode 13, Fairy Tail Episode 162, To LOVE-Ru Darkness Episode 11, Boku no Imouto wa “Osaka Okan” Episode 1, Kyousogiga Episode 5, Sukitte Iinayo. Episode 12, Sword Art Online Episode 25 Final, Jormungand Episode 23, Busou Shinki Episode 12 Final, Poyopoyo Kansatsu Nikki Episode 51">22</a></td>
 	</tr>
 	<tr>
-		<td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
-		<td class="pad" colspan="2">&nbsp;</td>
+		<td><a href="http://www.animetake.com/2012/12/23/" title="Oshiri Kajiri Mushi Episode 12, Bakuman Season 3 Episode 12, Folktales from Japan Episode 39, Little Busters! Episode 12, Space Brothers Episode 38, Hunter x Hunter 2011 Episode 60, Wooser no Sono Higurashi Episode 11-12 Final, One Piece Episode 578, Teekyuu Episode 12 Final, Chitose Get You!! Episode 26 Final, Muv-Luv Alternative: Total Eclipse Episode 25 Final, Hiiro no Kakera Season 2 Episode 13 Final, Ixion Saga DT Episode 12, Magi Episode 12">23</a></td><td><a href="http://www.animetake.com/2012/12/24/" title="Detective Conan Movie 16: The Eleventh Striker, Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne Episode 12 Final, Seitokai no Ichizon Lv.2 Episode 9, Saki Episode of Side A Episode 13, Tonari no Kaibutsu-kun Episode 13 Final, Detective Conan Episode 676">24</a></td><td><a href="http://www.animetake.com/2012/12/25/" title="Merry Christmas!, Sakurasou no Pet na Kanojo Episode 12, Aikatsu! Episode 12, Inferno Cop Episode 1, Toriko Episode 87, Naruto SD Episode 39">25</a></td><td><a href="http://www.animetake.com/2012/12/26/" title="Mikumentary Epiosde 1, Saint Seiya Omega Episode 38, Girls und Panzer Episode 10.5">26</a></td><td id="today"><a href="http://www.animetake.com/2012/12/27/" title="Ginga e Kickoff!! Episode 29-30">27</a></td><td>28</td><td>29</td>
+	</tr>
+	<tr>
+		<td>30</td><td>31</td>
+		<td class="pad" colspan="5">&nbsp;</td>
 	</tr>
 	</tbody>
-	</table></div>			<div class="textwidget"><!-- AnimeTake - 300x250 - Game Advertising Online -->
-<iframe marginheight="0" marginwidth="0" scrolling="no" frameborder="0" width="300" height="250" src="http://www.game-advertising-online.com/index.php?section=serve&amp;id=1443" target="_blank"></iframe><noframes>Game advertisements by <a href="http://www.game-advertising-online.com" target="_blank">Game Advertising Online</a> require iframes.</noframes>
-<!-- END GAO 300x250 --></div>
-		<h2>Latest Manga Chapters</h2><ul><li>An error has occurred; the feed is probably down. Try again later.</li></ul>			<div class="textwidget"><!-- ValueClick Media 300x250 Medium Rectangle CODE for AnimeTake -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=52076&amp;m=6&amp;tp=8&amp;d=j&amp;t=n"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=52076&m=6&c=1" target="_blank">
-<img src="http://media.fastclick.net/w/get.media?sid=52076&m=6&tp=8&d=s&c=1" width=300 height=250 border=1></a></noscript>
-<!-- ValueClick Media 300x250 Medium Rectangle CODE for AnimeTake -->
-
-</div>
-					<div class="textwidget"><div id="fb-root"></div>
+	</table></div>			<div class="textwidget"><div id="fb-root"></div>
 <script>(function(d){
   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
   js = d.createElement('script'); js.id = id; js.async = true;
@@ -341,7 +471,25 @@ d.write('<\/scr'+'ipt>');
   d.getElementsByTagName('head')[0].appendChild(js);
 }(document));</script>
 <div class="fb-like-box" data-href="http://www.facebook.com/pages/AnimeTake/147284575364152" data-width="300" data-show-faces="true" data-stream="false" data-header="false"></div></div>
-		<h2>Latest Discussion Forum Topics</h2><ul><li><a href="http://www.animetake.com/forums/low-quality/34821-mf-ore-no-imouto-series-ona-specials-bd-720p-hi10p-aac.html" title="[mini-mkv] [MF] Ore no Imouto (Series + ONA + Specials) [BD|720p|Hi10p|AAC]">[mini-mkv] [MF] Ore no Imouto (Series + ONA + Specials) [BD|720p|Hi10p|AAC]</a></li><li><a href="http://www.animetake.com/forums/manga-discussion/34820-fukashigi-philia.html" title="Fukashigi Philia">Fukashigi Philia</a></li><li><a href="http://www.animetake.com/forums/introductions/34819-hello-fellow-anime-manga-lovers.html" title="Hello Fellow Anime/Manga Lovers">Hello Fellow Anime/Manga Lovers</a></li><li><a href="http://www.animetake.com/forums/h264/34815-multi-e-d-honey-clover-both-seasons-dual-audio.html" title="[SD] [MULTI][E-D]Honey and Clover (Both Seasons)[Dual Audio]">[SD] [MULTI][E-D]Honey and Clover (Both Seasons)[Dual Audio]</a></li><li><a href="http://www.animetake.com/forums/h264/34814-multi-ssp-corp-boogiepop-phantom-dvd-dual-audio-10-bit.html" title="[SD] [MULTI][SSP-Corp] Boogiepop Phantom [DVD,Dual Audio,10-bit]">[SD] [MULTI][SSP-Corp] Boogiepop Phantom [DVD,Dual Audio,10-bit]</a></li><li><a href="http://www.animetake.com/forums/h264/34813-multi-e-d-motto-love-ru-blu-ray-10-bit.html" title="[1080p] [MULTI][E-D] Motto to Love Ru [Blu-Ray,10-bit]">[1080p] [MULTI][E-D] Motto to Love Ru [Blu-Ray,10-bit]</a></li><li><a href="http://www.animetake.com/forums/h264/34812-multi-zurako-kamisama-dolls-bluray-flac-specials-10bit.html" title="[1080p] [MULTI][Zurako] Kamisama Dolls (Bluray/FLAC/Specials/10Bit)">[1080p] [MULTI][Zurako] Kamisama Dolls (Bluray/FLAC/Specials/10Bit)</a></li><li><a href="http://www.animetake.com/forums/h264/34811-multi-e-d-dirty-pair-movies-v2-dvd-dual-audio.html" title="[SD] [MULTI][E-D] Dirty Pair Movies[v2][DVD,Dual Audio]">[SD] [MULTI][E-D] Dirty Pair Movies[v2][DVD,Dual Audio]</a></li><li><a href="http://www.animetake.com/forums/h264/34810-multi-j-g-yami-boushi-hon-no-tabibito-480p-dvd-flac.html" title="[SD] [MULTI][J-G] Yami to Boushi to Hon no Tabibito (480p DVD/FLAC)">[SD] [MULTI][J-G] Yami to Boushi to Hon no Tabibito (480p DVD/FLAC)</a></li><li><a href="http://www.animetake.com/forums/h264/34809-multi-hitsuji-ugly-yet-beautiful-world-480p-dvd.html" title="[SD] [MULTI][Hitsuji] This Ugly Yet Beautiful World (480p DVD)">[SD] [MULTI][Hitsuji] This Ugly Yet Beautiful World (480p DVD)</a></li><li><a href="http://www.animetake.com/forums/introductions/34808-hello-there.html" title="hello there">hello there</a></li><li><a href="http://www.animetake.com/forums/h264/34807-bt-lt-tb-dragon-crisis-mkv-bd.html" title="[720p] [BT/LT/TB] Dragon Crisis [MKV/BD]">[720p] [BT/LT/TB] Dragon Crisis [MKV/BD]</a></li></ul>			<div class="textwidget"></div>
+		<h2>Latest Discussion Forum Topics</h2><ul><li><a href="http://www.animetake.com/forums/h264/45900-multi-cbm-hakuouki-hekketsu-roku-shinsengumi-kitan-dvd-dual-audio.html" title="[SD] [MULTI][CBM] Hakuouki: Hekketsu-roku - Shinsengumi Kitan [DVD/Dual Audio]">[SD] [MULTI][CBM] Hakuouki: Hekketsu-roku - Shinsengumi Kitan [DVD/Dual Audio]</a></li><li><a href="http://www.animetake.com/forums/h264/45899-multi-jormungand-blu-ray-10-bit.html" title="[720p] [MULTI] Jormungand [Blu-Ray/10-bit]">[720p] [MULTI] Jormungand [Blu-Ray/10-bit]</a></li><li><a href="http://www.animetake.com/forums/h264/45898-multi-lrl-tenshi-no-tamago-dvd-10-bit.html" title="[SD] [MULTI][LRL] Tenshi no Tamago [DVD/10-bit]">[SD] [MULTI][LRL] Tenshi no Tamago [DVD/10-bit]</a></li><li><a href="http://www.animetake.com/forums/h264/45897-multi-doki-kikis-delivery-service-blu-ray-dual-audio-10-bit.html" title="[other] [MULTI][Doki] Kiki's Delivery Service [Blu-Ray/Dual Audio/10-bit]">[other] [MULTI][Doki] Kiki's Delivery Service [Blu-Ray/Dual Audio/10-bit]</a></li><li><a href="http://www.animetake.com/forums/void/45896-can-we-friends.html" title="Can we be friends?">Can we be friends?</a></li><li><a href="http://www.animetake.com/forums/xvid/45895-multi-ah-romeo-no-aoi-sora-dtv.html" title="[MULTI][AH] Romeo no Aoi Sora (DTV)">[MULTI][AH] Romeo no Aoi Sora (DTV)</a></li><li><a href="http://www.animetake.com/forums/japanese-drama/45893-solanin.html" title="Solanin">Solanin</a></li><li><a href="http://www.animetake.com/forums/h264/45891-multi-cbm-elfen-lied-blu-ray-dual-audio.html" title="[1080p] [MULTI][CBM] Elfen Lied [Blu-Ray/Dual Audio]">[1080p] [MULTI][CBM] Elfen Lied [Blu-Ray/Dual Audio]</a></li><li><a href="http://www.animetake.com/forums/h264/45889-multi-shinsen-subs-le-chevalier-deon-bluray-1080p.html" title="[1080p] [Multi] [Shinsen-Subs] Le Chevalier D'Eon [ Bluray 1080p ]">[1080p] [Multi] [Shinsen-Subs] Le Chevalier D'Eon [ Bluray 1080p ]</a></li><li><a href="http://www.animetake.com/forums/support/45888-ass-anime-subs.html" title=".ass for anime subs?">.ass for anime subs?</a></li><li><a href="http://www.animetake.com/forums/low-quality/45887-gankutsuou-d-d-d-l-d.html" title="[mini-mkv] [ЅВ] Gankutsuou [DνD][Dυаl-Αυdіо]">[mini-mkv] [ЅВ] Gankutsuou [DνD][Dυаl-Αυdіо]</a></li><li><a href="http://www.animetake.com/forums/h264/45884-multi-cbm-hakuouki-shinsengumi-kitan-dvd-dual-audio.html" title="[SD] [MULTI][CBM] Hakuouki: Shinsengumi Kitan [DVD/Dual Audio]">[SD] [MULTI][CBM] Hakuouki: Shinsengumi Kitan [DVD/Dual Audio]</a></li></ul>			<div class="textwidget"><!--  Rubicon Project Tag -->
+<!--  Site: Anime Take   Zone: Anime Take ROS   Size: Medium Rectangle  -->
+<script language="JavaScript" type="text/javascript">
+var cb = Math.random();
+var d = document;
+var iframe = "&fr=" + (window != top);
+var ref = ""; 
+try {
+    if (window != top) {
+        ref = "&rf="+escape(d.referrer);
+    }
+} catch (ignore) { }
+d.write('<script language="JavaScript" type="text/javascript"');
+d.write('src="http://optimized-by.rubiconproject.com/a/8815/14493/30205-15.js?cb='+cb+ref+iframe+'">');
+d.write('<\/scr'+'ipt>');
+</script><script language="JavaScript" type="text/javascript" src="http://optimized-by.rubiconproject.com/a/8815/14493/30205-15.js?cb=0.2753156011568765&amp;fr=false"></script>	
+
+</div>
+					<div class="textwidget"></div>
 		 
 
 
@@ -353,24 +501,22 @@ d.write('<\/scr'+'ipt>');
  
 
 
-<h2>Recent Posts</h2><ul>	<li><a href="http://www.animetake.com/toriko-episode-57/" title="Toriko Episode 57">Toriko Episode 57</a></li>
-	<li><a href="http://www.animetake.com/detective-conan-episode-655/" title="Detective Conan Episode 655">Detective Conan Episode 655</a></li>
-	<li><a href="http://www.animetake.com/naruto-sd-episode-8/" title="Naruto SD Episode 8">Naruto SD Episode 8</a></li>
-	<li><a href="http://www.animetake.com/zetman-episode-8/" title="Zetman Episode 8">Zetman Episode 8</a></li>
-	<li><a href="http://www.animetake.com/haiyore-nyaruko-san-episode-7/" title="Haiyore! Nyaruko-san Episode 7">Haiyore! Nyaruko-san Episode 7</a></li>
-	<li><a href="http://www.animetake.com/kimi-to-boku-2-episode-8/" title="Kimi to Boku 2 Episode 8">Kimi to Boku 2 Episode 8</a></li>
-	<li><a href="http://www.animetake.com/akb0048-episode-4/" title="AKB0048 Episode 4">AKB0048 Episode 4</a></li>
-	<li><a href="http://www.animetake.com/phi-brain-kami-no-puzzle-2-episode-7/" title="Phi Brain: Kami no Puzzle 2 Episode 7">Phi Brain: Kami no Puzzle 2 Episode 7</a></li>
-	<li><a href="http://www.animetake.com/aquarion-evol-episode-21/" title="Aquarion EVOL Episode 21">Aquarion EVOL Episode 21</a></li>
-	<li><a href="http://www.animetake.com/tasogare-otome-x-amnesia-episode-7/" title="Tasogare Otome x Amnesia Episode 7">Tasogare Otome x Amnesia Episode 7</a></li>
-	<li><a href="http://www.animetake.com/ginga-e-kickoff-episode-7/" title="Ginga e Kickoff!! Episode 6-7">Ginga e Kickoff!! Episode 6-7</a></li>
-	<li><a href="http://www.animetake.com/hyouka-episode-5/" title="Hyouka Episode 5">Hyouka Episode 5</a></li>
-	<li><a href="http://www.animetake.com/gundam-age-episode-32/" title="Gundam AGE Episode 32">Gundam AGE Episode 32</a></li>
-	<li><a href="http://www.animetake.com/saki-episode-of-side-a-episode-7/" title="Saki Episode of Side A Episode 7">Saki Episode of Side A Episode 7</a></li>
-	<li><a href="http://www.animetake.com/hiiro-no-kakera-episode-8/" title="Hiiro no Kakera Episode 8">Hiiro no Kakera Episode 8</a></li>
+<h2>Recent Posts</h2><ul>	<li><a href="http://www.animetake.com/ginga-e-kickoff-episode-29-30/" title="Ginga e Kickoff!! Episode 29-30">Ginga e Kickoff!! Episode 29-30</a></li>
+	<li><a href="http://www.animetake.com/girls-und-panzer-episode-10-5/" title="Girls und Panzer Episode 10.5">Girls und Panzer Episode 10.5</a></li>
+	<li><a href="http://www.animetake.com/saint-seiya-omega-episode-16/" title="Saint Seiya Omega Episode 38">Saint Seiya Omega Episode 38</a></li>
+	<li><a href="http://www.animetake.com/mikumentary-epiosde-1/" title="Mikumentary Epiosde 1">Mikumentary Epiosde 1</a></li>
+	<li><a href="http://www.animetake.com/naruto-sd-episode-39/" title="Naruto SD Episode 39">Naruto SD Episode 39</a></li>
+	<li><a href="http://www.animetake.com/toriko-episode-87/" title="Toriko Episode 87">Toriko Episode 87</a></li>
+	<li><a href="http://www.animetake.com/inferno-cop-episode-1/" title="Inferno Cop Episode 1">Inferno Cop Episode 1</a></li>
+	<li><a href="http://www.animetake.com/aikatsu-episode-12/" title="Aikatsu! Episode 12">Aikatsu! Episode 12</a></li>
+	<li><a href="http://www.animetake.com/sakurasou-no-pet-na-kanojo-episode-12/" title="Sakurasou no Pet na Kanojo Episode 12">Sakurasou no Pet na Kanojo Episode 12</a></li>
+	<li><a href="http://www.animetake.com/merry-christmas-4/" title="Merry Christmas!">Merry Christmas!</a></li>
+	<li><a href="http://www.animetake.com/detective-conan-episode-676/" title="Detective Conan Episode 676">Detective Conan Episode 676</a></li>
+	<li><a href="http://www.animetake.com/tonari-no-kaibutsu-kun-episode-13-final/" title="Tonari no Kaibutsu-kun Episode 13 Final">Tonari no Kaibutsu-kun Episode 13 Final</a></li>
+	<li><a href="http://www.animetake.com/saki-episode-of-side-a-episode-13/" title="Saki Episode of Side A Episode 13">Saki Episode of Side A Episode 13</a></li>
+	<li><a href="http://www.animetake.com/seitokai-no-ichizon-lv-2-episode-9/" title="Seitokai no Ichizon Lv.2 Episode 9">Seitokai no Ichizon Lv.2 Episode 9</a></li>
+	<li><a href="http://www.animetake.com/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-episode-12/" title="Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne Episode 12 Final">Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne Episode 12 Final</a></li>
 </ul>
-
-
 
 
 
@@ -405,12 +551,11 @@ d.write('<\/scr'+'ipt>');
 </div>
 
 
-<p>Copyrighted Limited <em><a href="http://www.animetake.com">AnimeTake.com</a></em> - Some Rights Reserved. | <a href="http://www.animetake.com/contact-us/">Contact Us</a> | <a href="http://www.animetake.com/privacy-policy/">Privacy Policy</a> | <a href="http://www.animetake.com/dmca/">DMCA</a> | <a href="http://www.animetake.com/forums/donate.php">Donate to staff</a></p>
+<p>Copyrighted Limited <em><a href="http://www.animetake.com">AnimeTake.com</a></em> - Some Rights Reserved. <a href="http://www.animetake.com/contact-us/">Contact Us</a> <a href="http://www.animetake.com/privacy-policy/">Privacy Policy</a></p>
 
 <p><strong>Advertisements</strong>:
 
-<a href="http://www.animedreaming.tv">Watch Anime Online</a> | <a href="http://www.animetake.com">Anime Downloads</a> | <a href="http://soshipapers.com/">Girls generation wallpapers</a>
-
+<a href="http://www.animedreaming.tv">Watch Anime Online</a> | <a href="http://www.animetake.com">Anime Downloads</a> |
 
 
 
@@ -435,6 +580,9 @@ d.write('<\/scr'+'ipt>');
 _uacct = "UA-4009354-4";
 urchinTracker();
 </script>
+
+
+
 
 
 </body></html>
