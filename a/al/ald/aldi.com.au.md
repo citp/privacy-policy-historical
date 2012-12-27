@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldi.com.au privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515115433id_/https%3A//aldi.com.au/au/html/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.com.au privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227112449id_/http%3A//www.aldi.com.au/au/html/privacy_policy.htm) for the most accurate reproduction.*
 
 # ALDI - Privacy Policy
 
