@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vcita.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615074016id_/http%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcita.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227015049id_/http%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.*
 
 # vCita - Privacy Policy
 
-meet2know, Inc. d/b/a vCita (“ **vCita** ”) respects the privacy of users (a “ **User** ” or “ **Users** ”) and experts (an “ **Expert** ” or “ **Experts** ”) alike. This policy explains vCita’s privacy practices in connection with the use of the web-application (the “ **Web-App** ”) operated by vCita for Expert and Users and the services rendered through the Web-App by Expert to User (the “ **Services** ”). It also describes the ways vCita collects and uses personal information or Users and Experts and the rights and options available to Users and Experts with respect to their information. We may refer to Users and Experts together as “ **You** ”.
+vCita, Inc. ( **“vCita”** ) respects the privacy of users (a **“User”** or **“Users”** ) and experts (an **“Expert”** or **“Experts”** ) alike. This policy explains vCita’s privacy practices in connection with the use of the web-application (the **“Web-App”** ) operated by vCita for Expert and Users and the services rendered through the Web-App by Expert to User (the **“Services”** ). It also describes the ways vCita collects and uses personal information or Users and Experts and the rights and options available to Users and Experts with respect to their information. We may refer to Users and Experts together as **“You”**.
 
-This policy is incorporated into the Terms of Use among vCita, Expert and User (the “ **Terms of Use** ”) and to the vCita-Expert Web-Services Agreement between vCita and Expert (the “ **Web-Services Agreement** ”). Capitalized terms not defined herein shall have the meaning ascribed to them in the respective agreement.
+This policy is incorporated into the User Services Agreement among vCita, Expert and User (the **“User Agreement”** ) and to the vCita-Expert Services Agreement between vCita and Expert (the **“Expert Agreement”** ). Capitalized terms not defined herein shall have the meaning ascribed to them in the respective agreement.
 
 THIS POLICY ONLY GOVERNS VCITA’S USE OF YOUR PERSONAL INFORMATION. THE USE OF USER’S PERSONAL INFORMATION BY EXPERT (OR OTHER THIRD PARTIES) IS NOT CONTROLLED BY VCITA, AND USER SHOULD REVIEW EXPERT’S PRIVACY POLICY INDEPENDENTLY. VCITA IS NOT RESPONSIBLE AND WILL BEAR NO LIABILITY TO EXPERT’S PRIVACY POLICY OR TO EXPERT’S COMPLIANCE WITH IT.
 
@@ -22,7 +22,7 @@ vCita’s Web-App provides a comprehensive solution to Users and Experts, which 
 
 When you use the Services or the Web-App, vCita will collect information, such as session durations, page impressions, Internet protocol (IP) addresses, the domain name that served you to access the Services or the Web-App, and content types and origins.
 
-vCita will also store information related to online data or metadata that is routed through vCita’s servers, such as web pages’ addresses, structures, data fields, and images.
+vCita will also store information related to online data or metadata that is routed through vCita’s servers, such as web pages’ addresses, structures, data fields and images.
 
 The stored data will be attributed to you in person, only to the extent necessary for the use of the Web-App or the Services, as set in the following chapter. In all other cases, vCita will anonymize the data and will not knowingly use the data to personally identify you.
 
@@ -77,7 +77,7 @@ vCita does not sell, rent or lease your personally identifiable information to t
   * to contact you. For example, vCita may use a third party’s mailing platform to send you messages and updates from time to time;
 
 
-  * if vCita believes that you have breached the Terms of Use, the Web-Services Agreement, or abused your rights to use the Services or the Web-App, or performed any act or omission that vCita believes to be violating any applicable law, rules, or regulations. vCita may share your information with law enforcement agencies, governmental agencies and other competent authorities as well as with other third parties, as may be required;
+  * if vCita believes that you have breached the User Agreement, the Expert Agreement or any other agreement with vCita, or abused your rights to use the Services or the Web-App, or performed any act or omission that vCita believes to be violating any applicable law, rules, or regulations. vCita may share your information with law enforcement agencies, governmental agencies and other competent authorities as well as with other third parties, as may be required;
 
 
   * if vCita is required, or believes that it is required by law to share or disclose your information;
@@ -95,24 +95,6 @@ vCita does not sell, rent or lease your personally identifiable information to t
   * vCita may also share personally identifiable information with sub-contractors and other companies or organizations connected, or affiliated with vCita, such as subsidiaries, sister-companies and parent companies.
 
 
-
-### How does vCita use aggregated information?
-
-vCita may also use anonymous, statistical or aggregated information to properly operate the Services or the Web-App, to improve the quality and functionality of the Services or the Web-App, to enhance your experience, to create new services, including customized services, to change or cancel existing content or services and for other internal and statistical purposes.
-
-vCita may share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at vCita’s sole discretion, provided, however, that vCita will not knowingly, or intentionally use the information to reveal your identity without your consent.
-
-### How can you access your personal information?
-
-If you are registered to the Services or the Web-App, then you may access your personal account and edit or amend your personal information at any time using the designated user interface in the Web-App or by contacting us at [support@vcita.com](mailto:support@vcita.com). If you find that the information on your personal account is not accurate, complete or updated, then you may make all necessary changes to correct it.
-
-### Which ‘opt out’ and deletion options are available to you?
-
-At any time you may opt out of vCita’s mailing lists, by sending vCita a removal request to: [support@vcita.com](mailto:support@vcita.com). It may take up to ten (10) business days for your opt-out request to take effect.
-
-If you wish to delete your personally identifiable information that is stored in vCita’s database, you may send a request to delete information to: [support@vcita.com](mailto:support@vcita.com). vCita will inform you whether it can accept your request. vCita may refuse your request, for example, if vCita believes that removal of certain information may jeopardize certain activities of the Services or the Web-App, or harm other users. In any case, vCita may keep any aggregated or anonymized information for statistical, marketing and other purposes, indefinitely.
-
-vCita may also keep a User’s information for as long as he or she still owes fees, or if there are fees still pending to be paid to Expert or to a User. You may, however, waive such fees owed to you, and in which case we will delete your personal information.
 
 ### How does vCita secure your personal information?
 
@@ -137,3 +119,5 @@ vCita is doing its utmost to comply with this Policy. If you have any questions,
 ### Changes to this Privacy Policy
 
 vCita may change and update the terms of this policy from time to time. Changes will take effect seven (7) days after their initial posting on the Website or the Web-App, unless vCita amends the policy to comply with legal requirements. In the latter cases the amendments will become effective as required, or ordered.
+
+Last Updated: December 12, 2012
