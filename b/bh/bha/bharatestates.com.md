@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bharatestates.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509010029id_/http%3A//www.bharatestates.com/pune/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatestates.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227090306id_/http%3A//www.bharatestates.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Security Statement
+# BharatEstates.com's Privacy and Security Statement
 
 BharatEstates takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -60,11 +60,3 @@ BharatEstates takes your privacy seriously. Please read the following to learn m
   * BharatEstates may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.
 
 
-
-#### Questions or Suggestions
-
-  * If you have questions or suggestions complete a feedback form.
-
-
-
-## Submit Your Feedback
