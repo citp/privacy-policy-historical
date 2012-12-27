@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614061729id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227020928id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
 
 # Website Privacy Policy Page | BMIGaming.com / BMI Worldwide, Inc.
 
-> **  
->   
->   BMI Worldwide Privacy Policy Statement                                                    **
-> 
-> * * *
-> 
-> **  
-> _Last Updated   :  Tuesday, May 15, 2012  
-> _** **
-> 
-> Privacy Philosophy for
-> 
-> [ www.bmigaming.com](http://www.bmigaming.com/) **\- BMI Worldwide, Inc. has created this website privacy policy statement in order to demonstrate our firm commitment to your online privacy. **Your privacy is very important to us**. This privacy policy describes the information we collect on our Web site, [bmigaming.com](http://www.bmigaming.com/) (the "Web Site" or "bmigaming.com"), and how we protect it. As necessary,  
+> **_Last Updated   :  Saturday, July 07, 2012  
+> _  
+> Privacy Philosophy for [www.bmigaming.com](http://www.bmigaming.com/) **\- BMI Worldwide, Inc. has created this website privacy policy statement in order to demonstrate our firm commitment to your online privacy. **Your privacy is very important to us**. This privacy policy describes the information we collect on our Web site, [bmigaming.com](http://www.bmigaming.com/) (the "Web Site" or "bmigaming.com"), and how we protect it. As necessary,  
 > our privacy policy may be updated to meet the needs of consumers and partners. We will always post  
 > our most current privacy policy on the Web Site. Any changes to our privacy policy will be effective  
 > upon posting pursuant to our notification of changes section. **We do not otherwise distribute any personally identifiable information** to any parties other than  
@@ -27,7 +17,7 @@
 > Protection Act of April 2000 (COPPA) applies to the online collection of personal information from  
 > children under 13 years of age. In compliance with the Act, BMI Worldwide, Inc. does not collect any  
 > personally identifiable information from, nor conducts business with, any child under 18 years of age.  
->  
+> 
 > 
 > * * *
 > 
@@ -121,10 +111,10 @@
 > 
 >  **How you can correct any inaccuracies in the information?** \- You can change or modify the  
 > personal information previously provided by you at any time. If you wish to change or modify your information, deactivate your account, stop receiving future communications from us, or have  
-> any questions about this privacy statement or your dealings with the Web Site, you can:
+> any questions about this privacy statement or your dealings with the Web Site, you can  
+> :
 > 
->   1. Email [sales@bmigaming.com](mailto:sales@bmigaming.com?subject=BMI%20Gaming%20:%20Privacy%20Policy%20Request)   
-> 
+>   1. Email [sales@bmigaming.com](mailto:sales@bmigaming.com?subject=BMI%20Gaming%20:%20Privacy%20Policy%20Request)
 >   2. Send postal mail to the following postal address:
 > 
 >  **BMI Worldwide, Inc  
@@ -133,15 +123,6 @@
 > Boca Raton, FL 33431 USA   
 > Attn: 
 > 
-> _**Privacy Department  
->   **_
+> _**Web Privacy Department**_
 > 
 
-> 
-> * * *
-
- **
-
-[](http://www.bmigaming.com/mastergameselect.htm)
-
-**[](https://web.archive.org/web/20120614061729id_/http%3A//www.bmigaming.com/termsofaccess.htm)
