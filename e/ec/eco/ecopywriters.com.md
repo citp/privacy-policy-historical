@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecopywriters.com privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101152015id_/http%3A//www.ecopywriters.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecopywriters.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227033355id_/http%3A//www.ecopywriters.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ECOPYWRITERS
 
