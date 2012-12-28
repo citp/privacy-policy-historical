@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nyxcosmetics.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531052512id_/http%3A//www.nyxcosmetics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyxcosmetics.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228130737id_/http%3A//www.nyxcosmetics.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# NYX Cosmetics - Privacy Policy
+# Privacy Policy
 
 NYX Cosmetics has adopted this Privacy Statement in order to demonstrate our company’s commitment to privacy and to inform you of its policies with respect to information collected from this website. Your use of this website constitutes your acceptance of this Privacy Statement and your consent to the practices it describes.
 
-The Privacy Policy covers any information that NYX obtains from you when you use services on the websites we own and control.  This policy does not cover the privacy practices of Third Party Sites or Sites not controlled, owned, or operated by NYX, or the actions of people that NYX Cosmetics does not employ or manage.  
+The Privacy Policy covers any information that NYX obtains from you when you use services on the websites we own and control.  This policy does not cover the privacy practices of Third Party Sites or Sites not controlled, owned, or operated by NYX, or the actions of people that NYX Cosmetics does not employ or manage.
 
-Our Privacy Policy may change in the future.  We invite you to check back periodically to see if we have made any changes. NYX has adopted this Privacy Policy in order to inform you of its policies with respect to information collected from this website. Your use of this website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes.  If you do not like or agree with the terms of the Privacy Policy, you should not use our Site.  
+Our Privacy Policy may change in the future. We invite you to check back periodically to see if we have made any changes. NYX has adopted this Privacy Policy in order to inform you of its policies with respect to information collected from this website. Your use of this website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes. If you do not like or agree with the terms of the Privacy Policy, you should not use our Site.
 
- **Automatic Collection of Anonymous Information**
+**Automatic Collection of Anonymous Information**
 
-When you visit the NYX website, , certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as "aol.com" or "earthlink.net"), the date and time you access the site, the pages you access while at the NYX Cosmetics website, and the internet address of the website, if any, from which you linked directly to the NYX Cosmetics site. This information is not personally identifiable. 
+When you visit the NYX website, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as "aol.com" or "earthlink.net"), the date and time you access the site, the pages you access while at the NYX Cosmetics website, ad the internet address of the website, if any, from which you linked directly to the NYX Cosmetics site. This information is not personally identifiable. 
 
 **Personally Identifiable Information**
 
@@ -57,7 +57,7 @@ A "cookie" is a small piece of data that can be sent by a web server to your com
 
 The advertisers and/or other content providers that may appear on this website may also use cookies that are not sent by the NYX Cosmetics website. Such ads or content may contain cookies that help track and target the interests of users of this website in order to present "personalized" advertisements or other messages that the user might find interesting. NYX Cosmetics is not responsible for any such cookies. 
 
-Most web browser applications (such as Microsoft Internet Explorer and Netscape Navigator) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of this website. 
+Most web browser applications (such as Microsoft Internet Explorer and Mozilla Firefox) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of this website. 
 
 **External Links**
 
