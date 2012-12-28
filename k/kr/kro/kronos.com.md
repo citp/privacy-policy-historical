@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kronos.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625085825id_/http%3A//www.kronos.com/kronos-site-usage-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kronos.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228011503id_/http%3A//www.kronos.com/kronos-site-usage-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Kronos Privacy Policy - Kronos Incorporated
+
+Privacy Policy  |  [Terms of Use](https://web.archive.org/terms-of-use.aspx "Terms of Use")  |  [Trademarks](https://web.archive.org/trademark-policy.aspx "Trademarks")
 
 Through the Site, Kronos Incorporated and our Service Providers may provide you with access to varied user-generated and other content and interactive resources (collectively, “ _Services_ ”). This Privacy Policy sets forth our and our Service Provider’s policies with respect to information including personally identifiable data (“ _Personal Data_ ”) and other information that is collected from you when using the Site. Unless otherwise stated in this Privacy Policy, this policy shall be deemed to apply to us and our Service Providers and all references to “we”, “us” and/or “our” shall include our Service Providers.
 
