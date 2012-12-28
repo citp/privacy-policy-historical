@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618132738id_/http%3A//www.play.com/Helpdesk/General_questions_about_Play_com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228152910id_/http%3A//www.play.com/Helpdesk/General_questions_about_Play_com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -14,7 +14,7 @@ We take our commitment to your privacy seriously and treat any information you s
 
 
 
-##### Policy statement
+#####  Policy statement
 
 In relation to the website: www.play.com (‘the Site’). 
 
@@ -22,20 +22,20 @@ The Site is a Jersey-based website owned by Play Limited and complies with the D
 
 PlayTrade S.à.r.l ('PlayTrade') and PlayMedia S.à.r.l ('PlayMedia'), both at 4-6 Avenue de la Gare L-1610 Luxembourg are its wholly owned subsidiaries. 
 
-Any personal information that you provide to Play Limited, PlayTrade and PlayMedia whilst contracting with these entities is stored and controlled by Play Limited, located at 40 the Esplanade Saint Helier Jersey JE 49RJ Channel Islands.
+Any personal information that you provide to Play Limited, PlayTrade and PlayMedia whilst contracting with these entities is stored and controlled by Play Limited, located at 1 Esplanade, Saint Helier, JE2 3QA.
 
    
 For the purposes of Luxembourg's legislation on Data Protection and particularly the law of August 2nd 2002, Play Holdings Limited is the Data Controller, whilst PlayTrade and PlayMedia are Data Processors. The information you provide to Play Limited, PlayTrade and PlayMedia may be shared with other companies controlled by the PlayHoldings group that are either subject to this Privacy Policy or follow practices that offer the same level of protection as those described herein.
 
 ^ Top
 
-##### The data we collect
+#####  The data we collect
 
 The information collected by the aforementioned entities when you register with us at the [www.play.com](http://www.play.com/) website is generally used to communicate with you and improve our services where possible, and specifically, to process payments or enable third parties to carry out technical or commercial supporting functions. These functions may be carried out by us or appointed third parties who are bound by Data Protection covenants and must process the personal information in accordance with this Privacy Policy and the Data Protection Laws of Luxembourg.
 
 In addition to personal data such as name, e-mail address, delivery address, billing address, credit or debit card number and expiry date, we also analyse data about participants in order to provide a safe shopping environment for all users. Examples of the data we may collect and analyse include the Internet protocol (IP) address used to connect your computer to the Internet, login, password, computer and connection information such as browser type and version, your operating system and platform, the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time), cookie number, products you viewed or searched for, your purchase history, personal preferences and any phone number recorded or used to call our customer services number. In using the Site you accept that your personal data may be used for such purposes.
 
-We will not sell, distribute or disclose information about you or your personal usage of the Site without your express consent or unless required or permitted to do so by law. By subscribing to our mailing lists, you accept that your personal data may be used for such purposes. Sellers on the Play.com website may contact you about products they sell on the Play.com website. By subscribing to their mailing lists, you are consenting to receive these marketing emails.
+We will not sell, distribute or disclose information about you or your personal usage of the Site without your express consent or unless required or permitted to do so by law. By subscribing to our mailing lists, you accept that your personal data may be used for such purposes. Sellers on the Play.com website may contact you about products they sell on the Play.com website. By subscribing to their mailing lists, you are consenting to receive these marketing emails. 
 
 Please note that we do provide links to other sites, which may not be governed by this Privacy Policy and you should view the respective privacy policies of those sites for further information.
 
@@ -57,7 +57,7 @@ When you set up your account you will be given an opportunity to set your commun
 
 ^ Top
 
-##### Sharing data
+#####  Sharing data
 
 We have business and technical partners whom we share data with to handle orders, process credit and debit card payments and provide a range of services, including for fraud protection purposes. They are bound by Data Protection covenants and must process the personal information in accordance with this Privacy Policy and the Data Protection Laws of Luxembourg.
 
@@ -65,22 +65,22 @@ In case any fraudulent activity is detected on the website, or, without limitati
 
 ^ Top
 
-##### Surveys and user groups
+#####  Surveys and user groups
 
 We always aim to improve the services we offer. As a result we occasionally canvass our customers using surveys, provided that they have given their prior and express consent. Participation in surveys is voluntary, and you are under no obligation to reply to any survey you might receive from us. Should you choose to do so, we will treat the information you provide with the same high standard of care as all other customer information.
 
 ^ Top
 
-##### Competitions
+#####  Competitions
 
 Your participation on our website may mean that we occasionally contact you with the opportunity to enter competitions. Entry to competitions is voluntary, and you are under no obligation to take up an invitation from us to enter. Should you choose to enter a competition, we will treat the information you provide with the same high standard of care as all other customer information, and use the information provided strictly within the entry terms of the competition and this Privacy Policy.
 
 ^ Top
 
-##### Cookies
+#####  Cookies
 
- **What are Cookies?  
-** Cookies are small text files, with ID tags that are stored on your device (computer/ mobile/ tablet) when visiting certain websites. Cookies keep track of your movements on the site to track what’s in your shopping basket and provide functions to improve your shopping experience. 
+**What are Cookies?  
+**Cookies are small text files, with ID tags that are stored on your device (computer/ mobile/ tablet) when visiting certain websites. Cookies keep track of your movements on the site to track what’s in your shopping basket and provide functions to improve your shopping experience. 
 
 To order products on the Play.com website you need cookies enabled. Internet cookies are common and won’t cause any harm to your device. No personally identifiable information is stored within cookies; therefore we recommend you leave these switched on.
 
@@ -101,7 +101,7 @@ We use cookies to enable us to serve more targeted advertising to our customers 
 Flash cookies (or Local Shared Objects) are used to display video content using Adobe Flash Player. 
 
 **Types of Cookies  
-** There are two common types of cookies; 
+**There are two common types of cookies; 
 
 o Session Cookie: Session cookies are created temporarily in your browser's subfolder while you’re visiting a website. They allow a site to ‘remember’ content from page to page, e.g. the shopping basket. These cookies expire when you leave the site or close the browser. 
 
@@ -111,19 +111,19 @@ A persistent cookie remains in the browser's subfolder for the duration period s
 To find out more about cookies visit [www.allaboutcookies.org ](http://www.allaboutcookies.org/)
 
 **First and Third Party Cookies  
-** Cookies can either be first party, which are associated with the host domain e.g. Play.com, or third party cookies from any other domain including web analytics and advertising services. 
+**Cookies can either be first party, which are associated with the host domain e.g. Play.com, or third party cookies from any other domain including web analytics and advertising services. 
 
 **Play.com Cookies / First Party Cookies  **
 
- **Cookie Name**
+**Cookie Name**
 
 | 
 
- **Cookie Purpose**  
+**Cookie Purpose**  
   
 ---|---  
   
- **ASP.NET_SessionId**
+**ASP.NET_SessionId**
 
 | 
 
@@ -131,19 +131,19 @@ This cookie allows our web servers to respond to your actions on the website suc
 
 Expires:  At end of session  
   
- **PlayCurrency3**
+**PlayCurrency3**
 
 | 
 
 Currency GBP or Euro  
   
- **PlayBasket, BasketSummary**
+**PlayBasket, BasketSummary**
 
 | 
 
 Show items in your shopping basket  
   
- **PlayReferrer, PlayReturnVisit**
+**PlayReferrer, PlayReturnVisit**
 
 | 
 
@@ -155,7 +155,7 @@ These cookies show us how you found our website and from which website you came 
 
 This cookie helps us identify you to provide personalised services  
   
- **RecentlyViewed**
+**RecentlyViewed**
 
 | 
 
@@ -167,13 +167,13 @@ This cookie details the last 3 products viewed by you on the website, which is d
 
 This cookie details your recently viewed products (maximum 8 from any single category) on the website.  These products are viewed when you select ‘See all’ within  ‘Recently viewed’ items  
   
- **uidp**
+**uidp**
 
 | 
 
 This cookie is used to identify the user when placing a product review on the website.  
   
- **_#srchist, _#sess, _#vdf, _#uid, _#slid, _#clkid, _#lps, _#tsa**
+**_#srchist, _#sess, _#vdf, _#uid, _#slid, _#clkid, _#lps, _#tsa**
 
 | 
 
@@ -201,7 +201,7 @@ _#env:  Flags whether the environment variables (screen size, browser etc) need
 
 Further information at [DC Storm Cookies](http://www.dc-storm.com/information-on-cookies/list-of-cookies/)  
   
- **_utma, _utmb, _utmc, _utmz**
+**_utma, _utmb, _utmc, _utmz**
 
 | 
 
@@ -215,7 +215,7 @@ _utmz:  Stores the referral used by the visitor e.g. whether you visited the si
 
 Further information at [Cookies & Google Analytics](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)  
   
- **ACOOKIE, WT_DC, WT_FPC, WTLOPTOUT**
+**ACOOKIE, WT_DC, WT_FPC, WTLOPTOUT**
 
 | 
 
@@ -233,20 +233,20 @@ WTLOPTOUT:  Opt out of data collection
 
 See [Webtrends](http://webtrends.com/privacy-policy/) Privacy Policy for details on how to opt-out  
   
- **Third party cookies**   
+**Third party cookies**   
 Third party cookies are cookies from another domain (not Play.com). 
 
 We don’t control the content of these cookies. Therefore, please review information about the cookies from the third-party websites. Examples of third parties who set cookies on play.com include; 
 
- **Third Party**
+**Third Party**
 
 | 
 
- **Cookie Name & Purpose**  
+**Cookie Name & Purpose**  
   
 ---|---  
   
- **Criteo**
+**Criteo**
 
 | 
 
@@ -258,52 +258,52 @@ Present products that you viewed on Play.com and other related products via adve
 
 Click the link for [Criteo Privacy Policy](http://www.criteo.com/us/privacy-policy), for details on how to prevent the ads being displayed. ****  
   
- **Audience Science**
+**Audience Science**
 
- **247 Real Media**
+**247 Real Media**
 
- **Affiliate Window**
+**Affiliate Window**
 
- **Advertising.com**
+**Advertising.com**
 
- **App Nexus**
+**App Nexus**
 
- **Casale Media**
+**Casale Media**
 
- **ClickFuse**
+**ClickFuse**
 
- **DataXu**
+**DataXu**
 
- **Google (AdWords, doublclick, InviteMedia)**
+**Google (AdWords, doublclick, InviteMedia)**
 
- **Media6degree**
+**Media6degree**
 
- **PubMatic**
+**PubMatic**
 
- **Quantcast**
+**Quantcast**
 
- **Rubicon Project**
+**Rubicon Project**
 
- **Specific Media**
+**Specific Media**
 
- **Struq**
+**Struq**
 
- **The Trade Desk**
+**The Trade Desk**
 
- **Tribal Fusion**
+**Tribal Fusion**
 
 | 
 
 Advertising networks used to deliver interactive advertising campaigns on partner websites.  
   
- **ScoreCardResearch**
+**ScoreCardResearch**
 
 | 
 
 Market research to report on internet trends using anonymous demographic and internet usage information  
   
- **Accepting and deleting cookies  
-** To order products on Play.com you need to have your cookies enabled.   
+**Accepting and deleting cookies  
+**To order products on Play.com you need to have your cookies enabled.   
 If you decline cookies you may lose some of the beneficial website functions of cookies. No personally identifiable information is stored within cookies. Therefore, we recommend you leave these turned on.   
 To check if cookies are enabled on your device, please follow the steps below. Alternatively, view your browser’s help pages or information on how to manage cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
@@ -315,7 +315,7 @@ To check if cookies are enabled on your device, please follow the steps below. A
 
 
 
- **Firefox**
+**Firefox**
 
   * Click on Firefox button (Tools menu in Windows XP) and then click Options
   * Select Privacy option
@@ -323,7 +323,7 @@ To check if cookies are enabled on your device, please follow the steps below. A
 
 
 
- **Google Chrome**
+**Google Chrome**
 
   * Click Settings
   * Select ‘Content Settings’ within Privacy
@@ -331,17 +331,17 @@ To check if cookies are enabled on your device, please follow the steps below. A
 
 
 
- **Safari for Mac**
+**Safari for Mac**
 
   * Click on Safari, then select Preferences
   * Click Privacy to view Cookie preferences (Note:  Safari blocks third-party cookies by default)
 
 
 
- **Flash Cookie  
-** Flash cookies are managed differently to normal cookies. To disable or delete a Flash cookie, see [Adobe Flash Play security and privacy](http://www.adobe.com/security/flashplayer/). Note: Flash cookies are not used on the Play.com website.
+**Flash Cookie  
+**Flash cookies are managed differently to normal cookies. To disable or delete a Flash cookie, see [Adobe Flash Play security and privacy](http://www.adobe.com/security/flashplayer/). Note: Flash cookies are not used on the Play.com website.
 
- **Mobile / Tablet Device**
+**Mobile / Tablet Device**
 
 iOS:  Safari
 
@@ -358,7 +358,7 @@ Android 4.0/ICS
 
 ^ Top
 
-##### ‘Email a friend’
+#####  ‘Email a friend’
 
 We may from time to time operate an ‘Email a friend’ service. This is a referral service, designed to make it easy for customers to recommend our Site and related websites or offers to a friend, and is a two-step process. First, a customer sends us the friend's name and email address, and secondly, we contact the friend, telling them who we are, and inviting them to take advantage of a particular offer, or to visit our website. When we contact your friend, we always advise them of the name and email address of the friend who made the original referral. We will not use your friend’s details for any other purpose.
 
@@ -368,6 +368,6 @@ If any of the information you provide on the form you complete when ordering a p
 
 We may occasionally modify this Privacy Policy, such variations becoming effective immediately upon posting to the Site and by continuing to use the website, you will be deemed to accept any such variations.
 
- **Should you have any queries regarding the above Privacy Policy, please e-mail us at[privacy@play.com](mailto:privacy@play.com)**.
+**Should you have any queries regarding the above Privacy Policy, please e-mail us at[privacy@play.com](mailto:privacy@play.com)**.
 
 ^ Top
