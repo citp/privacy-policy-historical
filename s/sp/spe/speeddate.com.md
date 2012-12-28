@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627052915id_/http%3A//www.speeddate.com/apps/site/views/mp/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228013528id_/http%3A//www.speeddate.com/apps/site/views/mp/privacypolicy.php) for the most accurate reproduction.*
 
 # SpeedDate | Real Dates in Real-Time
 
