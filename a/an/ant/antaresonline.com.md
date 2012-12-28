@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the antaresonline.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624093922id_/http%3A//www.antaresonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antaresonline.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228081950id_/http%3A//www.antaresonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AntaresOnline.com
+# Privacy Policy | AntaresOnline.com
 
 AntaresOnline.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
