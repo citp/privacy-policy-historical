@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629021706id_/http%3A//www.mrskin.com/help/Mr-Skin-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228225251id_/http%3A//www.mrskin.com/help/Mr-Skin-Privacy-Policy) for the most accurate reproduction.*
 
 # Mr Skin's Privacy Policy
 
-At MrSkin.com, a site operated by SK Intertainment, Inc./SK Europe BV, we are committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of our website. This policy may change from time to time so please check back periodically. 
+At MrSkin.com, a site operated by SK Intertainment, Inc./SK Europe BV, we are committed to protecting your privacy online. We are also committed to providing you with the very best experience we can on our website. In order to do so, we may gather certain personal information about you. Please read the following policy to understand how your personal information will be treated as you make full use of our website. This policy may change from time to time so please check back periodically.
 
 ### What information does MrSkin.com collect?
 
 When you visit the MrSkin.com site, we collect some basic information that does not identify individual users. This includes which pages are visited, types of products purchased, and any feedback from our visitors. We then aggregate this information with other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible.
 
-When you become a member with us, you provide such personal information to us or one of our third-party processors:
+When you sign up with us or become a Mr. Skin member, you may be asked to provide the following personal information to us or one of our third-party processors:
 
   * First and last name
   * Billing address
@@ -18,57 +18,25 @@ When you become a member with us, you provide such personal information to us or
 
 
 
-In addition to the information we collect upon your initial subscription to Mr Skin, we may ask you for personal information at other times, including (but not limited to) when you enter promotions or contests, and when you respond to a survey.
+In addition, we may ask you for personal information at other times, including (but not limited to) when you enter promotions or contests, and when you respond to a survey.
 
-### What do we do with the information we collect?
+### What do we do with the information we collect? 
 
-  1. It is used to fulfill and maintain your online subscription.
-  2. Your phone number may be used in the event that our customer service representatives need to contact you and cannot reach you by email.
-  3. Credit card information is used to bill you for your subscription. We use CurePay.com, OptimalPayments.com, CCBill.com, VXSBill.com, and Paycom.net for these transactions. They are some of the largest and oldest e-commerce billing companies today with expertise in secure online transactions.
-  4. The e-mail address members supply us with is never sold to any other website owner or merchant. We hate junk mail as much as you. This is why we will only send you e-mail about items that we feel you should know about. This includes: 
-    1. Up to 3 Newsletters per week
-    2. Special offers
-    3. Special promotional items that Mr Skin personally endorses
-    4. Membership changes
-    5. Terms and conditions changes
-    6. Holiday cards
-    7. The latest happenings on MrSkin.com
-    8. Examples of Mr Skin Newsletters: [one](http://www.mrskincdn.com/assets/images/rebrand/email_sample_1.jpg), [two](http://www.mrskincdn.com/assets/images/rebrand/email_sample_2.jpg), [three](http://www.mrskincdn.com/assets/images/rebrand/email_sample_3.jpg)
-If you would like not to be notified by e-mail or would like to change your e-mail address, please send us a note with the [customer service form](https://web.archive.org/help/Contact-Mr-Skin) and let us know how we can best serve you. When we send you emails that include a link to the MrSkin.com site, that link may contain an alphanumeric identifier that allows us to identify the person to whom we sent the message so that we can personalize our content for that individual. If we ever send you emails concerning new products or services that you did not expressly request, we will provide you with an email address by which you may opt out of receiving such emails.
-
-
-
-### How do you unsubscribe from emails sent by Mr Skin?
-
-All e-mails you receive from us will include specific instructions on how to unsubscribe, and you may unsubscribe at any time. Additionally, we give you the following options for removing your information from our database:
-
-  1. Send an email to customer-service@mrskin.com (please indicate that you would like to be unsubscribed from Mr Skin emails)
-  2. Select the opt-out link at the bottom of any Mr Skin email and follow the instructions provided
-  3. Send a letter to the following address: 
-
-SK INtertainment, Inc
-
-1625 North Damen Avenue
-
-2nd Floor
-
-Chicago, IL 60647
-
-USA
-
-  4. Call us at 001-773-269-3400
-
-
-
-Please note, however, you cannot opt out of receiving transactional emails from us regarding your account and/or the status of an order.
+We use the information that we collect to provide our services, to contact you regarding new offers, and for advertising purposes. We also use the information to contact customers to further discuss customer interest in our company, the services that we provide, and to send information regarding our company or partners, such as promotions and events. When we send you emails that include a link to the MrSkin.com site, that link may contain an alphanumeric identifier that allows us to identify the person to whom we sent the message so that we can personalize our content for that individual. If we ever send you emails concerning new products or services that you did not expressly request, we will provide you with an email address by which you may opt out of receiving such emails.
 
 ### With whom do we share your information and for what purpose?
 
-Mr Skin does not sell, rent, or trade any personally identifying information with others. However, when one or more of our business partners co-sponsor a service, promotion and/or contest, we may share some or all of the information collected in connection with such service, promotion or contest with the co-sponsor(s). If we intend to share such information, you will be notified prior to the collection of that information. If you do not want your information to be shared, you will be able to choose not to allow the transfer by not using or signing up for that particular service, promotion or contest.
+The information we collect may also be sold, licensed, transferred, rebranded, updated, appended and/or shared with individuals and companies engaged in the sales, marketing, advertising, and publishing industries for various products and services in which you may be interested. When one or more of our business partners co-sponsor a service, promotion and/or contest, we may share some or all of the information collected in connection with such service, promotion or contest with the co-sponsor(s).
 
-### What information do parties other than Mr Skin collect?
+We may also share aggregate user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.
 
-In addition to our credit card processors, some advertisers or websites that have links on our site may collect personally identifiable information about you when you access or utilize those links. Mr Skin does not control the collection or use of such information, and the practices of those advertisers and websites are not covered by this Privacy Policy.
+We may contract with third parties to conduct research and marketing on our behalf. Such third parties will be fully bound by an obligation of confidentiality to Mr. Skin and may not use any personally-identifiable information provided by us other than as expressly instructed by us and in strict compliance with the terms of this Privacy Policy.
+
+We may, from time to time, supplement the information we collect from you with outside records (e.g., information we obtain from other companies, including wireless providers) to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. To fulfill your requests for products and services (e.g., provide you with content via your mobile phone), we may share the personally identifiable information you provide with your mobile phone service provider or their partner and subcontractor companies. Our privacy policy does not cover such entities’ use of information. To learn more about your provider's privacy practices, you should consult its privacy policy.
+
+### What information do parties other than Mr. Skin collect?
+
+In addition to our credit card processors, some advertisers or websites that have links on our site may collect personally identifiable information about you when you access or utilize those links. Mr. Skin does not control the collection or use of such information, and the practices of those advertisers and websites are not covered by this Privacy Policy.
 
 ### What are cookies and how do we use them?
 
@@ -92,9 +60,23 @@ MrSkin.com member accounts are secured by member-created passwords. MrSkin.com t
 
 ### Users Located Outside of the United States
 
-We make an effort to protect the personal information of all users of mrskin.com. If you are unsure whether this privacy policy is in conflict with the rules applicable where you are located, you should not submit your personal information to mrskin.com. IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION. Users of mrskin.com located in countries outside of the United States who submit personal information do thereby consent to the transfer of that information to and/or storage of the information in the United States.
+We make an effort to protect the personal information of all users of mrskin.com. If you are unsure whether this privacy policy is in conflict with the rules applicable where you are located, you should not submit your personal information to mrskin.com. **IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION.** Users of mrskin.com located in countries outside of the United States who submit personal information do thereby consent to the transfer of that information to and/or storage of the information in the United States.
 
-### Business transitions
+### COPPA compliance
+
+Our site is not directed to children under the age of 13. We assume products purchased through credit card means are purchased by adults. We have designed this privacy policy in order to comply with the Children's Online Privacy Protection Act ("COPPA"). We will never knowingly collect any personal information about children under the age of 13. If we obtain actual knowledge that we have collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because we do not collect such information, we have no such information to use or to disclose to third parties.
+
+If a parent believes that his or her child has submitted personal information to us, he or she can contact us via e-mail or postal mail as listed below. We will promptly delete the information upon learning that it relates to a child under the age of 13. Please note that it is possible some of this information may remain archived in web logs and back-up archives after we delete the information from its active database.
+
+We believe that parents should supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission.
+
+### California User Consumer Rights.
+
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. For more information about protecting your privacy, you may wish to visit:
+
+http: //www.ftc.gov
+
+### Business transitions 
 
 In the event MrSkin.com goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
