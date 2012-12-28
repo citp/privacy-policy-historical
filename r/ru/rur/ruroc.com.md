@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629011628id_/http%3A//www.ruroc.com/info/4/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228232041id_/http%3A//www.ruroc.com/content/6-privacy-policy) for the most accurate reproduction.*
 
-# Ride Ruroc: Extreme Protection!
+# Privacy policy - Ruroc
 
 Ruroc is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Ruroc Web site and governs data collection and usage. By using the Ruroc website, you consent to the data practices described in this statement.
 
@@ -10,6 +10,8 @@ Ruroc collects personally identifiable information, such as your e-mail address,
 There is also information about your computer hardware and software that is automatically collected by Ruroc. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Ruroc for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Ruroc Web site.  
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Ruroc public message boards, this information may be collected and used by others. Note: Ruroc does not read any of your private online communications.  
 Ruroc encourages you to review the privacy statements of Web sites you choose to link to from Ruroc so that you can understand how those Web sites collect, use and share your information. Ruroc is not responsible for the privacy statements or other content on Web sites outside of the Ruroc and Ruroc family of Web sites.
+
+We do not store credit card details nor do we share customer details with any 3rd parties
 
 ## Use of your Personal Information
 
@@ -21,17 +23,14 @@ Ruroc Web sites will disclose your personal information, without notice, only if
 
 ## Use of Cookies
 
-The Website use "cookies" to help you personalize your online experience. For more information please read About Cookies below.
+The Website use "cookies" to help you personalize your online experience. For more information please read [About Cookies](http://www.ruroc.com/info/4/privacy-policy/#about-cookies) below.
 
 ### Cookies Used
 
-The Website uses the following essential cookies.
+The Website uses the following essential cookies, including one other cookie used to store your shopping cart etc. This cookie usually has a long, non-descript name, which changes regularly for your security.
 
-"Session" Cookies  
----  
-PHPSESSID | Removed when you close your browser. | We use a session cookie to remember your log-in for you and what you've put in the shopping basket etc. We deem these strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken. | More information on session cookies and what they are used for at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>  
-ccUser | Saved for 2 days after first set to allow you to return to your basket.  
 Google Analytics  
+---  
 __utma | We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. These we deem necessary in order to improve our website and provide data to ensure any improvements are effective. | You can find out more about Google's position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
 __utmb  
 __utmc  
