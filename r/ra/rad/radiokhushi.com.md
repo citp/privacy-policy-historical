@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiokhushi.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609050728id_/http%3A//www.radiokhushi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiokhushi.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229005104id_/http%3A//www.radiokhushi.com/privacy.html) for the most accurate reproduction.*
 
 # Add RadioKhushi.com to Your Website - Khushi Khushiga.. Hai Haiga..
 
