@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629190621id_/http%3A//www.raleighnc.gov/home/content/ITechWebServices/Articles/WebPrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raleighnc.gov privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228190357id_/http%3A//www.raleighnc.gov/home/content/ITechWebServices/Articles/WebPrivacyPolicy.html) for the most accurate reproduction.*
 
 # Web Privacy Policy - The Official City of Raleigh Portal
 
 ### Privacy practices regarding information collected from the City of Raleigh website.
 
-Last Modified: March 28, 2012
+Last Modified: July 28, 2012
 
 This privacy policy contains information about what data is collected and how that information is used. This policy may be updated periodically.  
 This policy applies only to the official City of Raleigh web site. When you follow a link to another web site, even the site of another governmental agency, you are subject to the privacy policy of that site. You should check the privacy policies of each of these other sites if you have questions about how they handle personally identifiable information.
@@ -15,6 +15,7 @@ This policy applies only to the official City of Raleigh web site. When you foll
   * Use of Cookies
   * Public Records
   * Children
+  * Social Media
 
 
 
@@ -45,3 +46,22 @@ All electronic communications with the City of Raleigh are subject to the requir
 ### Children
 
 No applications on this web site specifically solicit information from minors or seek to determine whether the visitor is a minor. Consequently, visitors should be aware that the collection of personal information requested from or volunteered by children online or by email will be treated in the same manner as information given by an adult. Among other things, this means that it will be public record and therefore will be subject to public access. We ask that parents guide their children when children are asked to provide personal information online. We ask that children get their parents' permission before providing any information to us.
+
+### Social Media
+
+ **Public Comments**  
+The City of Raleigh uses social media to interact with residents, businesses and visitors about public issues. Please submit your questions, comments and concerns. Please note this is a moderated online discussion site and subject to North Carolina Public Records Laws, and e-discovery laws and policies.
+
+The City reserves the right to delete unacceptable submissions. The following are examples of unacceptable social networking content and comments. The list is not intended to be all-inclusive. Examples are:
+
+Profane or obscene language or content;  
+Content that promotes, fosters, or perpetrates discrimination on the basis of race, creed, color, age, religion, gender, marital status with regard to public assistance, national origin, physical or mental disability, or sexual orientation;  
+Solicitations of commerce;  
+Infringement on copyrights or trademarks; and,  
+Confidential or non-public information.  
+Please note that the opinions and comments expressed on this social media site do not reflect the opinions and positions of the City of Raleigh government, its officers or employees. If you have any questions concerning the operation moderated discussions, please contact the City of Raleigh Public Affairs Department at 919-996-3100.
+
+**Organizational Rules**  
+Employees of the City of Raleigh communicate via social media websites. Consequently any communication via the social media site (whether by a City employee or the general public) is subject to monitoring and disclosure to third parties. Relevant City of Raleigh and North Carolina Public records retention schedules apply to social networking content. Records required to be maintained pursuant to a relevant records retention schedule shall be maintained for the required retention period in a format that preserves the integrity of the original record and is easily accessible using the approved City platforms and tools.
+
+[View Policy](https://web.archive.org/content/PubAffairs/Documents/SocialMediaPolicy1.pdf)
