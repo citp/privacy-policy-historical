@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dottech.org privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511211501id_/http%3A//dottech.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dottech.org privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228090523id_/http%3A//dottech.org/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | dotTech
+# Privacy Statement | Reviews, news, tips, and tricks -- dotTech
 
 Just like any other website on the internet, I run statistical plugins on dotTech.org to keep track of website statistics. These plugins track things like what is the most popular post, how many people visited dotTech on a certain day, how many people downloaded a certain software, etc. Any information collected by these statistical information is strictly on how users interact with dotTech.org. All data is only used for analysis to improve dotTech.org (e.g. figure out which topics people are interested in). Information is never sold, traded, given away, or other undesirable acts. If you would like to know exactly what information these statistical plugins are collecting you can check them out for yourself: [Top 10](http://wordpress.org/extend/plugins/top-10/) and [Google Analytics](https://www.google.com/analytics/).
 
@@ -16,6 +16,6 @@ Lastly, to earn some revenue to support the efforts of dotTech.org, I run Google
 
 What Google does is out of my control. Sue them if you don't like it.
 
-By using dotTech.org I assume you accept everything mentioned here. If you don't, leave now. I hate to see you go =(.
+By using dotTech.org I assume you accept everything mentioned here. If you don't, leave now. I hate to see you go. =(
 
 _P.S. Please don't sue me. I don't have an army of lawyers nor can I afford any._
