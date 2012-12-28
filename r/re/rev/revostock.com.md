@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the revostock.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112711id_/http%3A//www.revostock.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revostock.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228202941id_/http%3A//www.revostock.com/Privacy.html) for the most accurate reproduction.*
 
 # RevoStock -Privacy Policy
 
 **REVOSTOCK.COM PRIVACY POLICY**
 
-Personal information for purposes of this policy is defined as information that identifies You, individually, and includes Your name, home address, home telephone number, and e-mail address.
+Personal information for purposes of this policy is defined as information that identifies You, individually, including but not limited to Your name, home address, home telephone number, and e-mail address.
 
 We only collect personally identifiable information about You after You have specifically provided such information to Us.  By voluntarily submitting this information to Us when using our Website, You are consenting to the collection and use of Your personal information by Us for that online activity.  You are under no obligation to provide Us with this information and You can access many parts of the Website without providing Us any personal information. 
 
@@ -38,6 +38,10 @@ We will not sell or rent Your personal information to any other party without Yo
 
 3.   In connection with an organizational change in Our company, merger or acquisition, or the sale of all or substantially all of Our assets, provided that the information disclosed continues to be used for the purposes allowed by this Privacy Policy.
 
+**SECURITY**
+
+RevoStock has extensive security measures in place to protect the loss, misuse and alteration of the information stored in our database. These measures include the use of Secure Server technology during credit card transactions and administrative access to site data, as well as other security measures. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. 
+
 **NON PERSONAL INFORMATION**
 
 In addition, We collect non-personally identifiable information, which is information that does not identify You personally, but becomes available to Us as a result of Your use of the Website.  This information includes: Your IP address, a number automatically assigned to Your computer when You visit the Website, Your internet service provider and Your web browser.
@@ -48,7 +52,7 @@ We collect personal and non-personal information in a non-identifying, anonymous
 
 **AMENDMENT TO PRIVACY POLICY**
 
-This policy is subject to change.  Any changes will be effective when a notice of the change is posted on the Website.  Please check this Privacy Policy periodically so that You are aware of any changes.
+This policy is subject to change.   We reserve the right, at Our discretion, to revise this Privacy Policy at any time, and such revision shall be effective immediately upon the posting of the revised version at the Website. You agree to review these Privacy Policy periodically to become aware of such revisions. If any such revision is unacceptable to You, You may cease using the Services and terminate Your account. Your continued use of the Services following posting of a revised Privacy Policy on the Website shall be deemed to be acceptance of the revisions.
 
 [Sitemap](http://www.revostock.com/TextSitemap.html "Text Sitemap")  
 
