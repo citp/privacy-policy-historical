@@ -1,0 +1,2770 @@
+<!--The following is the downloaded HTML source of the djmmusic.com privacy policy that was archived on 2012-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121228042939id_/http%3A//www.djmmusic.com/websiteinfo.asp%3Ffc%3D215) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><script>var iVAT=1.2</script>
+	<!-- ****** Error Constants and Static Strings JavaScript part begins ****** -->
+	
+	<!--include file="EOStrings.inc"-->
+	<script src="/javascript/EOStrings.js" type="text/javascript"></script>
+	
+
+<style>
+		.menutitleclass
+		{
+			FONT-WEIGHT: normal;
+			FONT-SIZE: 12px;
+			MARGIN: 0px 0px 0px;
+			COLOR: #000000;
+			FONT-FAMILY: helvetica, "Ariel", Times, serif;
+			LINE-HEIGHT: 1.2em;
+			padding:10px;
+		}
+		</style>
+
+
+	<title></title>
+	<link href="css/global.css" rel="stylesheet" type="text/css">
+</head>
+<body lang="EN-GB" style="tab-interval:36.0pt">
+	<div id="canvas">
+		<div id="global_header">
+		
+<div id="logo">
+    <a href="http://www.djmmusic.com"><img src="images/logo_djm.png" alt="0845 458 4583 - Musical Instruments for Sale at djmmusic.com" title="0845 458 4583 - Musical Instruments for Sale at djmmusic.com" width="250" height="71" hspace="20" border="0" align="left" vspace="20"></a>
+    	<div id="servicebox">
+        
+        <a href="http://www.djmmusic.com/acclogin.asp">Account Login</a>
+        
+        | <a href="http://www.djmmusic.com/ordtrack.asp">Order Status</a>
+        | <a href="http://www.djmmusic.com/contact.asp" class="customer">Contact Us</a></div>
+        
+        <script language="Javascript">
+        function submitMainsearch()
+        { 
+            if (document.frmMainsearch.SearchWord.value.indexOf(" ") == 0)
+            {
+                alert("Search string should not start with spaces.");
+                document.frmMainsearch.SearchWord.focus();
+                return false;
+            }
+            if (document.frmMainsearch.SearchWord.value == "")
+            {
+                alert("Please enter a search string.");
+                document.frmMainsearch.SearchWord.focus();
+                return false;
+            }
+	    var nowords = cnt(document.frmMainsearch.SearchWord.value);
+	//alert(nowords);
+            if (nowords > 10 && nowords <500)
+            {
+                alert("Please enter a search string with 10 or less words.");
+                document.frmMainsearch.SearchWord.focus();
+                return false;
+            }
+	    if (nowords ==500)
+            {
+                alert("Please enter a search string that has atleast one 3-letter word");
+                document.frmMainsearch.SearchWord.focus();
+                return false;
+            }
+
+			if (document.frmMainsearch.SearchWord.value.indexOf(" ") != 0 && document.frmMainsearch.SearchWord.value != "" && cnt(document.frmMainsearch.SearchWord.value) <= 10 && document.frmMainsearch.SearchWord.value !='Search Store...')
+            {
+            document.frmMainsearch.submit();
+			}
+            return false;
+        }
+
+	function cnt(w)
+	{
+		var y=w;
+		var r = 0;
+		var atleastonebigword=false;
+		a=y.replace(/\s/g,' ');
+		a=a.split(' ');
+		for (z=0; z<a.length; z++) 
+		{
+			if (a[z].length > 0) 
+			{
+				r++;
+				//alert(a[z].length);
+				if (a[z].length > 2) 
+				{
+					atleastonebigword=true;
+				}
+			}
+		}
+		if (atleastonebigword==true)
+		{return r;}
+		else
+		{return 500;}
+
+	} 
+        </script>
+        
+        <div id="search_box">   
+        <form name="frmMainsearch" method="post" action="http://www.djmmusic.com/searchresult.asp" onsubmit="submitMainsearch();return false;">
+            <input type="hidden" name="from">
+            <input type="hidden" name="FrmSearchWords">
+            <input type="hidden" name="hidSearchStringType" value="2">
+   	    <input name="SearchWord" onfocus="if (this.value=='Search Store...') this.value='' ;" type="text" value="Search Store..." maxlength="50"><a href="#" onclick="javascript:submitMainsearch();" class="go_btn" title="Start Your Search"><img src="images/btn_go.png" border="0" alt="Click to Search"></a>							
+	             
+        </form>
+        </div><!--end #search_box-->
+		<!--<div id="promo_box_search">
+		<img src="/images/banner_mini_b2s.jpg">
+		</div>-->
+       <div id="minicart" style="display:none">
+				
+		<div class="cart_items" id="itemleft">
+			 
+		</div>
+		<div class="cart_items1" id="itemright">
+			 
+		</div>
+		
+		<div style="padding-top:4px;">
+		<a href="http://www.djmmusic.com/viewcart.asp"><img src="/images/microcart_btn_view_cart.png" border="0" height="25"></a><br>
+		<img src="/images/blank.gif" border="0" height="2">
+		
+			<a href="http://www.djmmusic.com/acclogin.asp?msg=002"><img src="/images/microcart_btn_checkout.png" border="0" height="25"></a>
+		
+		</div>
+	</div>
+
+	<div id="minicartempty">
+	</div>
+</div>
+
+
+<script>var timeid;
+var categoryselected="home";</script>
+
+<div id="nav">
+	    <ul class="mainnav">
+			<li class="mainnav"><a id="m0" class="mainnavhomeactive" href="http://www.djmmusic.com">&nbsp;</a></li>
+		</ul>
+		
+				<ul class="mainnav">
+				<li class="mainnav" id="m1" onmouseover="timeid=setTimeout('showmenupop(1);',300);" onmouseout="hidemenupop(1); clearTimeout(timeid);"><a class="mainnav" id="cat-MusicStands" href="http://www.djmmusic.com/items.asp?cc=MusicStands">Music Stands etc.</a>
+					<div class="nav-popup-wrapper">
+						<div style="display: none; height:520px;" id="popup_1" class="nav-popup" onmouseover="showmenupop(1);" onmouseout="hidemenupop(1); clearTimeout(timeid);">
+					
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=music_stands"><font color="#B3002C">Music Stands</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MusicStandF">Folding Music Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MusicStandO">Orchestral Music Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MusicStandW">Wooden Music Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MusicStandTT">Desktop Music Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MusicStandC">Conductors Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MusicStand_Hire">Music Stand Hire</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=MStandAddon"><font color="#B3002C">Music Stand Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MusicStandLamp">Music Stand Lights</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MusicStandCase">Music Stand Bags &amp; Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MStandTrolley">Music Stand Trolleys</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=mstand_attach">Music Stand Attachments</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Books"><font color="#B3002C">Tuition Books</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BookGuitar">Guitar Tuition Books</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BookDrums">Drum Tuition Books</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercussionBook">Percussion Tuition Books</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=FolkBook">Folk Tuition Books</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=string_Book">Stringed Tuition Books</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Woodwind_Book">Woodwind Tuition Books</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=brass_book">Brass Tuition Books</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BookKeyboard">Keyboard Tuition Books</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=vocal_book">Vocal Tuition Books</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=book_light">Book Lights</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Tuition"><font color="#B3002C">Tuition CD's &amp; DVD's</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=CDROM">Tuition - CD-ROM Based</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DVDCD">Tuition - DVD Based</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-right:none;border-left:none;height:510px;">
+					
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Batons"><font color="#B3002C">Conductor Batons</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Lectern"><font color="#B3002C">Lectern Stands &amp; Podiums</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=music_bag"><font color="#B3002C">Music Bags</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=BookManuscript"><font color="#B3002C">Manuscript Paper</font></a></div>
+						
+						  
+				</div>
+			</div>
+		</div></li><!-- end mainnav -->
+		</ul>
+		
+				<ul class="mainnav">
+				<li class="mainnav" id="m2" onmouseover="timeid=setTimeout('showmenupop(2);',300);" onmouseout="hidemenupop(2); clearTimeout(timeid);"><a class="mainnav" id="cat-Amplification" href="http://www.djmmusic.com/items.asp?cc=Amplification">Pro Audio &amp; Sound</a>
+					<div class="nav-popup-wrapper">
+						<div style="display: none; height:520px;" id="popup_2" class="nav-popup" onmouseover="showmenupop(2);" onmouseout="hidemenupop(2); clearTimeout(timeid);">
+					
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=microphones"><font color="#B3002C">Microphones</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MicrophoneW">Wireless Microphones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=vocal_mic">Vocal Microphones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=dynamic_mic">Dynamic Microphones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=instrument_mic">Instrument Microphones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Condenser_Mic">Condenser Microphones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=usb_microphone">USB Microphones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=headset_mic">Headset Microphones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=lavalier_mic">Lavalier Microphones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MicPacks">Microphone Packs</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=MicrophoneAcc"><font color="#B3002C">Microphone Stands</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MicStandS">Straight Microphone Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MicStandB">Boom Microphone Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MicStand_LL">Desktop Mic Stands</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Mic_Accessories"><font color="#B3002C">Microphone Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=pop_screen">Pop Screens</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MicClips">Microphone Clips</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=mic_windscreen">Microphone Windscreens</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MicBoomArm">Microphone Boom Arms</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=mic_stand_bag">Microphone Stand Bags</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=mic_stand_att">Microphone Stand Attatchments</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=pa_equipment"><font color="#B3002C">PA Equipment</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PASystem">PA Systems</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=SpeakerCabinet">Speaker Cabinets</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Speaker_Mon_Set">Monitor Speakers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Subwoofers">Subwoofers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=AudioMixer">PA Mixers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PAHead">Power Amplifiers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DI_Boxes">DI Boxes</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=EQ">Equalisers</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=HeadEarPhones"><font color="#B3002C">Headphones &amp; Earphones</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Earphones">Earphones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Headphones">Headphones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=HeadphoneAcc">Headphone Accessories</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Cables"><font color="#B3002C">Cables &amp; Multi-Cores</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=CableMic">Microphone XLR Cables</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=InstrumentCable">Instrument Cables</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=CableSpeaker">Speaker Cables</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=CableMultiCore">Multi Cores</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=CableMidi">Midi Cable</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=CableAudio">Audio Connection Leads</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=CablePatch">Patch Leads</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=AmpAccessory"><font color="#B3002C">Speaker Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Speaker_Acc_BC">Speaker Bags</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Speaker_Acc_MB">Speaker Monitor Brackets</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Speaker_Acc_SA">System Accessories</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Speaker_Acc_WB">Speaker Wall Brackets</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=SpeakerStand">Speaker Stands</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=InEarMonitor"><font color="#B3002C">In-Ear Monitoring Systems &amp; Ear Monitors</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=In_Ear_Systems">In Ear Monitoring Systems</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=In_Ear_Hardware">In Ear Components &amp; Hardware</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=In_Ear_Earphone">In Ear Monitoring Ear Phones</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=laptop_acc"><font color="#B3002C">DJ &amp; Laptop Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=laptop_bag">DJ &amp; Laptop Bags</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=laptop_stand">DJ &amp; Laptop Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ipad_accessory">iPhone &amp; iPad Accessories</a></li>								 
+							
+					
+						</ul>			
+						
+							<div class="section first" style="border-right:none;border-left:none;height:510px;">
+					
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Studio_Monitors"><font color="#B3002C">Studio Monitor Speakers</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=HearingPro"><font color="#B3002C">Musicians Ear Plugs &amp; Hearing Protection</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=audio_interface"><font color="#B3002C">Audio Interfaces</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=RackmountCases"><font color="#B3002C">PA &amp; Rackmount Cases</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=LightingStands"><font color="#B3002C">Lighting Stands</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=acoustic_shield"><font color="#B3002C">Acoustic Shields</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Batteries"><font color="#B3002C">Batteries</font></a></div>
+						
+						  
+				</div>
+			</div>
+		</div></div></li><!-- end mainnav -->
+		</ul>
+		
+				<ul class="mainnav">
+				<li class="mainnav" id="m3" onmouseover="timeid=setTimeout('showmenupop(3);',300);" onmouseout="hidemenupop(3); clearTimeout(timeid);"><a class="mainnav" id="cat-Guitars" href="http://www.djmmusic.com/items.asp?cc=Guitars">Guitars &amp; Accessories</a>
+					<div class="nav-popup-wrapper">
+						<div style="display: none; height:520px;" id="popup_3" class="nav-popup" onmouseover="showmenupop(3);" onmouseout="hidemenupop(3); clearTimeout(timeid);">
+					
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=GuitarAcc"><font color="#B3002C">Guitar Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarStand">Guitar Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarHanger">Guitar Wall Hangers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarTuners">Guitar Tuners</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=CableInstrument">Guitar Cables</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarStraps">Guitar Straps</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarCapo">Guitar Capos</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=guitar_slide">Guitar Slides</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarPick">Guitar Picks &amp; Plectrums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarPickup">Guitar Pickups</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Guitar_Acc_Pack">Guitar Accessory Packs</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=guitarfootstool">Guitar Footstools</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=guitar_parts">Guitar Parts</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=string_winder">Guitar String Winders</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarCare">Guitar Care &amp; Maintenance</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Mic_Wireless_GU">Wireless Guitar Systems</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=hand_exercise">Guitar Hand Exercisers</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=StringsGuitars"><font color="#B3002C">Guitar Strings</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=StringsGE">Electric Guitar Strings </a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=StringsGA">Acoustic Guitar Strings</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=StringsGB">Bass Guitar Strings</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=StringsGC">Classical Guitar Strings</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ResonatorString">Resonator Guitar Strings</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=guitar_gig_bag"><font color="#B3002C">Guitar Bags</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarGigbagE">Electric Guitar Bags</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarGigbagA">Acoustic Guitar Bags</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarGigbagC">Classical Guitar Bags</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarGigbagB">Bass Guitar Bags</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=AcousticBassBag">Acoustic Bass Guitar Bags</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=GuitarCase"><font color="#B3002C">Guitar Cases</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarCaseE">Electric Guitar Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarCaseA">Acoustic Guitar Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarCaseB">Bass Guitar Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarCaseC">Classical Guitar Cases</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=EffectsPedal"><font color="#B3002C">Effects Pedals</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=guitar_pedal">Guitar Effects Pedal</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=bass_pedals">Bass Effects Pedals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=multi_effects">Multi Effects Pedals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=EffectPedalB">Pedal Board Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=JDPowerS">Power Supplies</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Guitar_Amps"><font color="#B3002C">Guitar Amps</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=AmpElectric">Electric Guitar Amplifiers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=AmpBass">Bass Guitar Amplifiers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=AmpAcoustic">Acoustic Guitar Amplifiers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarAmpStand">Amplifier Stands &amp; Cases</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=GuitarElectric"><font color="#B3002C">Electric Guitars</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Starter_GuitarE">Beginner Electric Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=kids_electric">Kids Electric Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=left_electric">Left Handed Electric Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarElCo">Cort Electric Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarElDe">Dean Electric Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Ibanez_Electric">Ibanez Electric Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarElTa">Tanglewood Electric Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarElVi">Vintage Electric Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarElWash">Washburn Electric Guitars</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=GuitarClassical"><font color="#B3002C">Classical Guitars</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=starter_guitarC">Beginner Classical Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarClAd">Admira Classical Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=dean_classical">Dean Classical Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ibanezclassical">Ibanez Classical Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=luna_classical">Luna Classical Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarClMa">Rodriguez Classical Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarClSa">Martinez Classical Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Classical_Stagg">Stagg Classical Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarClTa">Tanglewood Classical Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=WashburnClassic">Washburn Classical Guitars</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=GuitarAcoustic"><font color="#B3002C">Acoustic Guitars</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=starter_guitarA">Beginner Acoustic Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=kids_acoustic">Kids Acoustic Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=starterguitarEA">Electro Acoustic Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=left_acoustic">Left Handed Acoustic Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=12_guitar">12 String Acoustic Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarAcDe">Dean Acoustic Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarsAcFaith">Faith Acoustic Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ibanez_acoustic">Ibanez Acoustic Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarAcLuna">Luna Acoustic Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarAcTa">Tanglewood Acoustic Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarAcVi">Vintage Acoustic Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarsAcWash">Washburn Acoustic Guitars</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=GuitarBass"><font color="#B3002C">Bass Guitars</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=starter_guitarB">Beginner Bass Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarAccBass">Acoustic Bass Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarBaDe">Dean Bass Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ibanez_bass">Ibanez Bass Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarBaTa">Tanglewood Bass Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarBaVi">Vintage Bass Guitars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=GuitarBaWash">Washburn Bass Guitars</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+						<div class="section first" style="border-right:none;border-left:none;height:510px;">
+					
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=GuitarResonator"><font color="#B3002C">Resonator Guitars</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=GuitarSemi"><font color="#B3002C">Semi Acoustic Guitars</font></a></div>
+						
+						  
+				</div>
+			</div>
+		</div></li><!-- end mainnav -->
+		</ul>
+			
+				<ul class="mainnav">
+				<li class="mainnav" id="m4" onmouseover="timeid=setTimeout('showmenupop(4);',300);" onmouseout="hidemenupop(4); clearTimeout(timeid);"><a class="mainnav" id="cat-DrumKitAcc" href="http://www.djmmusic.com/items.asp?cc=DrumKitAcc">Drum Kits &amp; Accessories</a>
+					<div class="nav-popup-wrapper">
+						<div style="display: none; height:520px;" id="popup_4" class="nav-popup" onmouseover="showmenupop(4);" onmouseout="hidemenupop(4); clearTimeout(timeid);">
+					
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=beginnerdrumkit"><font color="#B3002C">Starter Drum Kits</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumKitStudent">Full Size Drum Kits</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumKitJunior">Junior Drum Kits (Age 3-10)</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumKitElec">Electronic Drum Kits</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumKit_Flat">Flat Drum Kits (Shell Less)</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=DrumKitPearl"><font color="#B3002C">Pearl Drum Kits</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Pearl_Forum">Pearl Forum Drum Kits</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Pearl_Vision">Pearl Vision Drum Kits</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=DrumStick"><font color="#B3002C">Drum Sticks, Brushes &amp; Stick Bags</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=stick_packs">Drum Stick Packages</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumStickW">Wood Tip Drum Sticks</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumStickN">Nylon Tip Drum Sticks</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumStickSig">Signature Drum Sticks</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumStickA">Synthetic Drum Sticks</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumStickB">Drum Brushes &amp; Rakes</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Drum_Rutes_Rods">Drum Rutes, Rods &amp; Whips</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumStickBag">Drum Stick Bags &amp; Holders</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Stick_Tape">Drum Stick &amp; Grip Tape</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=DrumHead"><font color="#B3002C">Drum Heads</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumHeadPK">Drum Head Packs</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=aquarian_head">Aquarian Drum Heads</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=evans_drum_head">Evans Drum Heads</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=remo_drum_head">Remo Drum Heads</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=tiger_drum_head">Tiger Drum Heads</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Drum_Head_Acc">Drum Head Accessories</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumKey">Drum Keys</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Drumcymbal"><font color="#B3002C">Drum Cymbals</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=cymbal_package">Cymbal Packs</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=crash_cymbals">Crash Cymbals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ride_cymbal">Ride Cymbals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=china_cymbal">China Cymbals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=hihat_cymbal">Hi-Hat Cymbals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=splash_cymbal">Splash Cymbals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=cra_ride_cymbal">Crash/Ride Cymbals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=band_cymbal">Orchestral Cymbals</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=DrumCase"><font color="#B3002C">Drum Cases</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumCaseSet">Drum Case Sets</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumCaseHard">Hardware Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumCaseBass">Bass Drum Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumCaseSnare">Snare Drum Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumCaseTom">Toms &amp; Floor Tom Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Cymbal_Bags">Cymbal Bags &amp; Cases</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=DrumHardware"><font color="#B3002C">Drum Hardware</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumStool">Drum Thrones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumPedal">Drum Pedals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=cymbal_stand">Cymbal Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumStandSnare">Snare/Tom Drum Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumHardwarePk">Drum Hardware Packs</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumRack">Drum Hardware Racks</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumMultiClamp">Drum Clamps and Arms</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=DrumAcc"><font color="#B3002C">Drum Kit Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumTrigger">Drum Triggers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumSilencer">Drum Silencer Pads</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumAccessory">Drum Kit Accessories</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumMat">Drum Mats &amp; Mat Blocks</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumKey">Drum Keys</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=HiHatClutchLock">Hi-Hat Clutches &amp; Memory Locks</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Drum_Add_Ons">Drum Kit Add-on Packs</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumPad">Drum Practice Pads</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Drum_Kit_Care">Drum Kit Care &amp; Maintenance</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						  
+				</div>
+			</div>
+		</li><!-- end mainnav -->
+		</ul>
+		
+			<ul class="mainnav">
+			<li class="mainnav" id="m5" onmouseover="timeid=setTimeout('showmenupop(5);',300);" onmouseout="hidemenupop(5); clearTimeout(timeid);"><a class="mainnav" onmouseover="" id="cat-Percussion" href="http://www.djmmusic.com/items.asp?cc=Percussion">Percussion &amp; Marching</a>
+				<div class="nav-popup-wrapper">
+					<div style="display: none; height:630px;" id="popup_5" class="nav-popup" onmouseover="showmenupop(5);" onmouseout="hidemenupop(5); clearTimeout(timeid);">
+				
+						<div class="section first" style="border-left:none;height:620px;">
+					
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=PercGeneral"><font color="#B3002C">Hand Percussion</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Agogo">Agogo Blocks</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Bell">Bells</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercCabasa">Cabasas</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercCastanet">Castanets</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercClave">Claves</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercCowbell">Cowbells</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Guiro">Guiros</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Jingle_Stick">Jingle Sticks</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercMaraca">Maracas</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Rattles">Rattles</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercShaker">Shakers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Shekere">Shekeres</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Hand_Drum">Tambours</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Tambourine">Tambourines</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Tone_Block">Tone Blocks</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercTriangle">Triangle Instrument</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Wood_Block">Wood Blocks</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=PercBrazilian"><font color="#B3002C">Samba Percussion</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Surdo">Surdo Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Agogo_Bell">Agogo Bells</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Repinique">Repinique Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Tamborim">Tamborim Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Caixa">Samba Snares</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Pandeiro">Pandeiro Hand Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Cuica">Cuica Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Chocalho">Ganza and Rocar Shakers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=RecoReco">Reco Reco Scrapers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Timba">Timba &amp; Timbak Drums</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:620px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Percussion_Drum"><font color="#B3002C">Percussion Drums</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Bongos">Bongo Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Cajon">Cajon Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Conga">Conga Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Djembe">Djembe Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Darbukas">Darbuka Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Doumbek">Doumbek Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DoumDoum">Doum Doum Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Ritual_Drums">Ritual Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=TalkingDrum">Talking Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Tabla">Tabla Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Taiko_Drum">Taiko Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Timbale">Timbale Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Udu">Udu &amp; Ibo Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=electro_perc">Wave Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Folk_Drums">Bodhrans &amp; Frame Drums</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=TunedPercussion"><font color="#B3002C">Tuned Percussion</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Boomwhacker">Boomwhackers &amp; Percussion Tubes</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Balaphon">Balaphons</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ChimeBars">Chime Bars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Glockenspiel">Glockenspiels</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ChimeHand">Hand Chimes</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Kalimba">Kalimbas</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Metallophone">Metallophones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Slit_Drums">Slit &amp; Rotary Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Tibetan_Bowl">Tibetan Bowls &amp; Bells</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Chimes">Wind Chimes</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Xylophone">Xylophones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DrumCymbalPe">Gongs</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:620px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=EarlyMusic"><font color="#B3002C">Early Years</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Early_Party_Set">Early Years Percussion Sets</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Early_Cymbals">Early Years Cymbals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Early_Drums">Early Years Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Early_Rattles">Early Years Rattles &amp; Shakers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Early_Tambour">Early Years Tambourines</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Early_TunedPerc">Early Years Tuned Percussion</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercBell">Early Years Bells &amp; Chimes</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=EarlyRemoKids">Remo Kids Percussion</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=LollipopDrum">Lollipop Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=musical_toys">Musical Toys &amp; Instruments</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Sound_Effects"><font color="#B3002C">Sound Effects Percussion</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Kokiriko">Kokiriko &amp; Clatterpillars</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Perc_Cymbals">Percussion Cymbals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=OceanDrum">Ocean &amp; Sea Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Rainmaker">Rainsticks</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Thunder_Tube">Thunder Tubes</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Vibra_Slap">Vibra Slaps</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=PercCaribbean"><font color="#B3002C">Steel Pans &amp; Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=SteelPan">Steel Pans</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=SteelPanAcc">Steel Pan Accessories</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Perc_Hardware"><font color="#B3002C">Percussion Hardware</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercussionMount">Percussion Mounts &amp; Brackets</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercussionStand">Percussion Racks &amp; Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercussionTable">Percussion Tables</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=BeaterMallet"><font color="#B3002C">Percussion Beaters &amp; Mallets</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BeaterDrumPerc">Drum Percussion Beaters</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BeatersTuned">Tuned Percussion Mallets</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:620px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=MarchingBand"><font color="#B3002C">Marching &amp; Concert</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MarchingDrum">Marching Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MarchingCymbal">Marching Cymbals</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MarchingTuned">Marching Tuned</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Marching_Hard">Marching Hardware &amp; Accessories</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ConcertDrum">Concert Drums &amp; Accessories</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=teachpercussion"><font color="#B3002C">Percussion Packs &amp; Sets</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=AfricanSet">African Percussion Sets</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Djembe_Pack">Djembe Drumming Packs</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BrazilianSet">Samba Percussion Sets</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PercussionSets">School Percussion Sets</a></li>								 
+							
+					
+						</ul>			
+						
+						<div class="section first" style="border-left:none;height:620px;border-right:none;">
+				
+					
+					<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=MusicTherapy"><font color="#B3002C">Music Therapy &amp; Special Needs</font></a></div>
+					
+					
+					
+					<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=StageHardware"><font color="#B3002C">Storage &amp; Hardware</font></a></div>
+					
+					  </div> 
+			</div>
+		</div>
+	</div></li><!-- end mainnav -->
+	</ul>
+			
+				<ul class="mainnav">
+				<li class="mainnav" id="m6" onmouseover="timeid=setTimeout('showmenupop(6);',300);" onmouseout="hidemenupop(6); clearTimeout(timeid);"><a class="mainnav" id="cat-Folk" href="http://www.djmmusic.com/items.asp?cc=Folk">Folk &amp; World Instruments</a>
+					<div class="nav-popup-wrapper">
+						<div style="display: none; height:520px;" id="popup_6" class="nav-popup" onmouseover="showmenupop(6);" onmouseout="hidemenupop(6); clearTimeout(timeid);">
+					
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Ukulele"><font color="#B3002C">Ukuleles</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=soprano_ukulele">Soprano Ukuleles</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=concert_ukulele">Concert Ukuleles</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=tenor_ukulele">Tenor Ukuleles</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=baritone_ukulel">Baritone Ukuleles</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=elec_ukulele">Electric Ukuleles</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ukulele_bag">Ukulele Bags &amp; Cases </a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Ukulele_Tuner">Ukulele Tuners</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ukulele_strings">Ukulele Strings</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ukulele_stand">Ukulele Stands &amp; Hangers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ukulele_acc">Ukulele Accessories</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Banjo"><font color="#B3002C">Banjos &amp; Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BanjoTenor">Tenor Banjos</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Banjo5">5 String Banjos</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BanjoGuitar">Guitar Banjos</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BanjoLH">Left Handed Banjos</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BanjoUke">Other Banjos</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BanjoAcc">Banjo Accessories</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=StringsBanjo">Banjo Strings</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Folk_Drums"><font color="#B3002C">Bodhrans &amp; Frame Drums</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Bodhrans">Bodhrans</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Framedrums">Frame Drums &amp; Pleneras</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BuffaloDrum">Buffalo Drums</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Bodhran_Cases">Bodhran &amp; Frame Drum Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Bodhran_Beaters">Bodhran &amp; Frame Drum Tippers/Beaters</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=OceanDrum">Ocean &amp; Sea Drums</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Didgeridoo"><font color="#B3002C">Didgeridoo's</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=didgeridoos">Didgeridoos</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Didgeridoo_Acc">Didgeridoo Accessories</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Mandolin"><font color="#B3002C">Mandolins &amp; Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Mandolins">Mandolins</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=MandolinAcc">Mandolin Accessories</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=mandolin_string">Mandolin Strings</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=OtherInstrument"><font color="#B3002C">Whistles &amp; Calls</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Whistles">Whistles</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Calls">Calls &amp; Kazoos</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Pennywhistle">Penny Whistles</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Harmonica"><font color="#B3002C">Harmonicas</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Harmonicas">Harmonicas</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Reed_Plate">Harmonica Reed Plates</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Harmonica_Acc">Harmonica Accessories</a></li>								 
+							
+					
+						</ul>			
+						
+							<div class="section first" style="border-right:none;border-left:none;height:510px;">
+					
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Melodica"><font color="#B3002C">Melodicas</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Harp"><font color="#B3002C">Harps</font></a></div>
+						
+						  
+				</div>
+			</div>
+		</div></div></li><!-- end mainnav -->
+		</ul>
+		
+				<ul class="mainnav">
+				<li class="mainnav" id="m7" onmouseover="timeid=setTimeout('showmenupop(7);',300);" onmouseout="hidemenupop(7); clearTimeout(timeid);"><a class="mainnav" id="cat-StringedInstrum" href="http://www.djmmusic.com/items.asp?cc=StringedInstrum">Stringed Instruments</a>
+					<div class="nav-popup-wrapper">
+						<div style="display: none; height:520px;" id="popup_7" class="nav-popup" onmouseover="showmenupop(7);" onmouseout="hidemenupop(7); clearTimeout(timeid);">
+					
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=violins"><font color="#B3002C">Violins &amp; Violin Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Violin">Violins</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ViolinE">Electric Violins</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Violin_String">Violin Strings</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ViolinCases">Violin Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Violin_Stand">Violin Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ViolinBow">Violin Bows</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Violas"><font color="#B3002C">Violas &amp; Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Viola">Violas</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Viola_String">Viola Strings</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ViolaCase">Viola Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=ViolaBow">Viola Bows</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Cellos"><font color="#B3002C">Cellos &amp; Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=CelloOutfits">Cellos</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Cello_String">Cello Strings</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=CelloCase">Cello Bags &amp; Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=cello_stand">Cello Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=CelloBow">Cello Bows</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Doublebasses"><font color="#B3002C">Double Basses</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DoubleBass">Double Basses</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=D_Bass_String">Double Bass Strings</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DoubleBassCase">Double Bass Bags &amp; Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=doublebassstand">Double Bass Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=DoubleBassBow">Double Bass Bows</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=stringed_acc"><font color="#B3002C">Stringed Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Bows">Bows &amp; Bow Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Violin_Rosin">Rosin</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Violin_Tuner">Tuners &amp; Pitch Pipes</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=shoulder_rest">Shoulder &amp; Chin Rests</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=stringed_mute">Stringed Instrument Mutes</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=stringed_pickup">Stringed Pickups &amp; Amplifiers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=stringed_care">Stringed Care &amp; Maintenance</a></li>								 
+							
+					
+						</ul>			
+						  
+				</div>
+			</div>
+		</div></li><!-- end mainnav -->
+		</ul>
+		
+				<ul class="mainnav">
+				<li class="mainnav" id="m8" onmouseover="timeid=setTimeout('showmenupop(8);',300);" onmouseout="hidemenupop(8); clearTimeout(timeid);"><a class="mainnav" id="cat-WoodwindInstrum" href="http://www.djmmusic.com/items.asp?cc=WoodwindInstrum">Woodwind Instruments</a>
+					<div class="nav-popup-wrapper">
+						<div style="display: none; height:520px;" id="popup_8" class="nav-popup" onmouseover="showmenupop(8);" onmouseout="hidemenupop(8); clearTimeout(timeid);">
+					
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Woodwind_Acc"><font color="#B3002C">Woodwind Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Woodwind_Stands">Woodwind Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Woodwind_Cases">Woodwind Bags &amp; Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Mouthpieces_Ww">Woodwind Mouthpieces, Ligatures &amp; Caps</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Woodwind_Straps">Woodwind Straps &amp; Slings</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Woodwind_Care">Woodwind Care &amp; Maintenance</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Woodwind_Other">Other Woodwind Accessories &amp; Gadgets</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Reed"><font color="#B3002C">Woodwind Reeds</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Saxophone_Reeds">Saxophone Reeds</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Clarinet_Reeds">Clarinet Reeds</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Recorder"><font color="#B3002C">Recorders &amp; Fifes</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Recorder_Sop">Sopranino Recorders</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Recorder_Gar">Garklein Recorders</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Recorder_Des">Descant Recorders (Soprano)</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Recorder_Tre">Treble Recorders (Alto)</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Recorder_Ten">Tenor Recorders</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Recorder_Bass">Bass Recorders</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Recorder_Acc">Recorder Accessories</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Fife">Fifes</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Ocarinas"><font color="#B3002C">Ocarinas</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Ocarina_4_Hole">4 Hole Ocarinas</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Ocarina_6_Hole">6 Hole Ocarinas</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Saxophones"><font color="#B3002C">Saxophones</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=SaxophoneSopr">Soprano Saxophones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=SaxophoneAltoS">Alto Saxophones</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=SaxophoneTenorS">Tenor Saxophones</a></li>								 
+							
+					
+						</ul>			
+						
+							<div class="section first" style="border-right:none;border-left:none;height:510px;">
+					
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Clarinet"><font color="#B3002C">Clarinets</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Flute"><font color="#B3002C">Flutes</font></a></div>
+						
+						  
+				</div>
+			</div>
+		</div></div></li><!-- end mainnav -->
+		</ul>
+		
+				<ul class="mainnav">
+				<li class="mainnav" id="m9" onmouseover="timeid=setTimeout('showmenupop(9);',300);" onmouseout="hidemenupop(9); clearTimeout(timeid);"><a class="mainnav" id="cat-BrassInstrument" href="http://www.djmmusic.com/items.asp?cc=BrassInstrument">Brass Instruments</a>
+					<div class="nav-popup-wrapper">
+						<div style="display: none; height:520px;" id="popup_9" class="nav-popup" onmouseover="showmenupop(9);" onmouseout="hidemenupop(9); clearTimeout(timeid);">
+					
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=BrassAcc"><font color="#B3002C">Brass Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Mouthpieces">Mouthpieces</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BrassMutes">Mutes</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BrassCases">Brass Instrument Bags &amp; Cases</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BrassStands">Stands &amp; Supports</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BrassCare">Care &amp; Maintenance</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=BrassOther">Other Brass Accessories &amp; Gadgets</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Bras_Boosters">Boosters &amp; Adaptors</a></li>								 
+							
+					
+						</ul>			
+						
+							<div class="section first" style="border-right:none;border-left:none;height:510px;">
+					
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Trumpet"><font color="#B3002C">Trumpets</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Cornet"><font color="#B3002C">Cornets</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Trombone"><font color="#B3002C">Trombones</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=FlugelHorn"><font color="#B3002C">Flugel Horns</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Baritone"><font color="#B3002C">Baritones</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Euphonium"><font color="#B3002C">Euphoniums</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=FrenchHorns"><font color="#B3002C">French Horns</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=TenorHorns"><font color="#B3002C">Tenor Horns</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Tubas"><font color="#B3002C">Tubas</font></a></div>
+						
+						  
+				</div>
+			</div>
+		</div></div></li><!-- end mainnav -->
+		</ul>
+		
+				<ul class="mainnav">
+				<li class="mainnav" id="m10" onmouseover="timeid=setTimeout('showmenupop(10);',300);" onmouseout="hidemenupop(10); clearTimeout(timeid);"><a class="mainnav" id="cat-KeyboardPiano" href="http://www.djmmusic.com/items.asp?cc=KeyboardPiano">Keyboards &amp; Metronomes</a>
+					<div class="nav-popup-wrapper">
+						<div style="display: none; height:520px;" id="popup_10" class="nav-popup" onmouseover="showmenupop(10);" onmouseout="hidemenupop(10); clearTimeout(timeid);">
+					
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Keyboard"><font color="#B3002C">Digital Keyboards</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=yamaha_keyboard">Yamaha Keyboard</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=casio_keyboard">Casio Keyboard</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=keyboard_pack">Keyboard Kits</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=Piano"><font color="#B3002C">Digital Pianos</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=yamaha_piano">Yamaha Digital Pianos</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=casio_piano">Casio Digital Pianos</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						
+							<div class="section first" style="border-left:none;height:510px;">
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=keyboard_acc"><font color="#B3002C">Keyboard Accessories</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=KeyboardStand">Keyboard Stands</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=PianoStool">Piano Stools</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=KeyboardCase">Keyboard Bags</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=AmpKeyboard">Keyboard Amplifiers</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=KeyboardAcc">Keyboard Accessories</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=piano_light">Piano Lights</a></li>								 
+							
+					
+						</ul>			
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=metronomes"><font color="#B3002C">Metronomes</font></a></div>
+						<ul class="subnav">
+						
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Digital_Met">Digital Metronomes</a></li>								 
+							
+							<li class="subnav"><a class="subnav" href="http://www.djmmusic.com/items.asp?cc=Claissic_Met">Mechanical Metronomes</a></li>								 
+							
+					
+						</ul>			
+						
+						</div>
+						  
+				</div>
+			</div>
+		</li><!-- end mainnav -->
+		</ul>
+		
+				<ul class="mainnav">
+				<li class="mainnavblue" id="m11" onmouseover="timeid=setTimeout('showmenupop(11);',300);" onmouseout="hidemenupop(11); clearTimeout(timeid);"><a class="mainnav" id="cat-clearance_sale" href="http://www.djmmusic.com/items.asp?cc=clearance_sale">Clearance Sale</a>
+					<div class="nav-popup-wrapper">
+						<div style="display: none; height:520px;" id="popup_11" class="nav-popup" onmouseover="showmenupop(11);" onmouseout="hidemenupop(11); clearTimeout(timeid);">
+					
+							<div class="section first" style="border-right:none;border-left:none;height:510px;">
+					
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=guitar_sale"><font color="#B3002C">Guitar Sale</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=drum_sale"><font color="#B3002C">Drum Kit Sale</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=percussion_sale"><font color="#B3002C">Percussion Sale</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=stringed_sale"><font color="#B3002C">Stringed Sale</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=woodwind_sale"><font color="#B3002C">Woodwind Sale</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=brass_sale"><font color="#B3002C">Brass Sale</font></a></div>
+						
+						
+						
+						<div class="menutitleclass"><a href="http://www.djmmusic.com/items.asp?cc=keyboard_sale"><font color="#B3002C">Keyboard Sale</font></a></div>
+						
+						  
+				</div>
+			</div>
+		</div></li><!-- end mainnav -->
+		</ul>
+		
+<!-- end mainnav -->
+	
+</div><!-- end nav -->
+
+<hr class="clearFloat">
+<script>
+function showmenupop(iCatCtr)
+{
+
+//Below line hardcoded for Music Education
+if (categoryselected!="Music_Education")
+{document.getElementById('m11').className='mainnavblue';}
+
+document.getElementById('popup_' + iCatCtr).style.display='block'; 
+document.getElementById('m' + iCatCtr).className='mainnav active';
+}
+function hidemenupop(iCatCtr)
+{
+document.getElementById('popup_' + iCatCtr).style.display='none'; 
+document.getElementById('m' + iCatCtr).className='mainnav';
+if (categoryselected!="home")
+	{if (document.getElementById('cat-' + categoryselected))
+	{document.getElementById('cat-' + categoryselected).parentNode.className='mainnav active';
+	document.getElementById('m0').className='mainnavhome';}
+	}
+else
+	{document.getElementById('m0').className='mainnavhomeactive';
+	}
+
+//Below line hardcoded for Music Education
+if (categoryselected!="Music_Education")
+{document.getElementById('m11').className='mainnavblue';}
+
+}
+
+document.getElementById('m11').className='mainnavblue';
+</script>
+
+		</div>
+
+		<div id="global_super_banner">
+			<ul id="breadcrumbs" style="margin-left:0;">
+				<li><a href="http://www.djmmusic.com/"> HOME</a></li>
+			</ul>
+		</div>
+
+		<div id="global_main_content_100">
+						<!--Enter COntent Here-->
+						<font class="content">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="Microsoft Word 9">
+<meta name="Originator" content="Microsoft Word 9">
+<link rel="File-List" href="./PRIVACY%20SECURITY%20POLICY_files/filelist.xml">
+<title>PRIVACY POLICY</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>DJM</o:Author>
+  <o:LastAuthor>DJM</o:LastAuthor>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2012-08-02T09:35:00Z</o:Created>
+  <o:LastSaved>2012-08-02T09:36:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>1686</o:Words>
+  <o:Characters>9612</o:Characters>
+  <o:Company>DJM Music</o:Company>
+  <o:Lines>80</o:Lines>
+  <o:Paragraphs>19</o:Paragraphs>
+  <o:CharactersWithSpaces>11804</o:CharactersWithSpaces>
+  <o:Version>9.2720</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520092929 1073786111 9 0 415 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	line-height:13.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p
+	{margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-language:EN-GB;}
+p.NoSpacing, li.NoSpacing, div.NoSpacing
+	{mso-style-name:"No Spacing";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:Calibri;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-GB;}
+p.Level1Heading, li.Level1Heading, div.Level1Heading
+	{mso-style-name:"Level 1 Heading";
+	mso-style-parent:"Body Text";
+	mso-style-next:"Level 2 Number";
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:42.55pt;
+	text-align:justify;
+	text-indent:-42.55pt;
+	line-height:13.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-list:l1 level1 lfo2;
+	tab-stops:list 42.55pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.Level2Number, li.Level2Number, div.Level2Number
+	{mso-style-name:"Level 2 Number";
+	mso-style-parent:"Body Text";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:42.55pt;
+	text-align:justify;
+	text-indent:-42.55pt;
+	line-height:13.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level2 lfo2;
+	tab-stops:list 42.55pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.Level3Number, li.Level3Number, div.Level3Number
+	{mso-style-name:"Level 3 Number";
+	mso-style-parent:"Body Text";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:42.55pt;
+	text-align:justify;
+	text-indent:-42.55pt;
+	line-height:13.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level3 lfo2;
+	tab-stops:list 42.55pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.Level4Number, li.Level4Number, div.Level4Number
+	{mso-style-name:"Level 4 Number";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:42.55pt;
+	text-align:justify;
+	text-indent:-42.55pt;
+	line-height:13.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level4 lfo2;
+	tab-stops:list 42.55pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.Level5Number, li.Level5Number, div.Level5Number
+	{mso-style-name:"Level 5 Number";
+	mso-style-parent:"Body Text";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	text-indent:-1.0cm;
+	line-height:13.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level5 lfo2;
+	tab-stops:list 70.9pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.Level6Number, li.Level6Number, div.Level6Number
+	{mso-style-name:"Level 6 Number";
+	mso-style-parent:"Body Text";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:99.25pt;
+	text-align:justify;
+	text-indent:-1.0cm;
+	line-height:13.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level6 lfo2;
+	tab-stops:list 99.25pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.Level7Number, li.Level7Number, div.Level7Number
+	{mso-style-name:"Level 7 Number";
+	mso-style-parent:"Body Text";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:127.6pt;
+	text-align:justify;
+	text-indent:-1.0cm;
+	line-height:13.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level7 lfo2;
+	tab-stops:list 127.6pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.Level8Number, li.Level8Number, div.Level8Number
+	{mso-style-name:"Level 8 Number";
+	mso-style-parent:"Body Text";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:155.95pt;
+	text-align:justify;
+	text-indent:-1.0cm;
+	line-height:13.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level8 lfo2;
+	tab-stops:list 155.95pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.Level9Number, li.Level9Number, div.Level9Number
+	{mso-style-name:"Level 9 Number";
+	mso-style-parent:"Body Text";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:184.3pt;
+	text-align:justify;
+	text-indent:-1.0cm;
+	line-height:13.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	mso-list:l1 level9 lfo2;
+	tab-stops:list 184.3pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.BodyText1, li.BodyText1, div.BodyText1
+	{mso-style-name:"Body Text 1";
+	mso-style-parent:"Body Text";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:42.55pt;
+	text-align:justify;
+	line-height:13.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+p.Bullet1, li.Bullet1, div.Bullet1
+	{mso-style-name:Bullet1;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:85.1pt;
+	text-align:justify;
+	text-indent:-42.55pt;
+	line-height:15.0pt;
+	mso-pagination:widow-orphan;
+	mso-list:l2 level1 lfo3;
+	tab-stops:list 85.1pt;
+	font-size:11.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-US;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:326444147;
+	mso-list-template-ids:551352338;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1577351716;
+	mso-list-template-ids:167929852;}
+@list l1:level1
+	{mso-level-style-link:"Level 1 Heading";
+	mso-level-tab-stop:42.55pt;
+	mso-level-number-position:left;
+	margin-left:42.55pt;
+	text-indent:-42.55pt;
+	mso-ansi-font-weight:bold;
+	mso-ansi-font-style:normal;}
+@list l1:level2
+	{mso-level-style-link:"Level 2 Number";
+	mso-level-text:"%1\.%2";
+	mso-level-tab-stop:42.55pt;
+	mso-level-number-position:left;
+	margin-left:42.55pt;
+	text-indent:-42.55pt;}
+@list l1:level3
+	{mso-level-style-link:"Level 3 Number";
+	mso-level-text:"%1\.%2\.%3";
+	mso-level-tab-stop:42.55pt;
+	mso-level-number-position:left;
+	margin-left:42.55pt;
+	text-indent:-42.55pt;}
+@list l1:level4
+	{mso-level-style-link:"Level 4 Number";
+	mso-level-text:"%1\.%2\.%3\.%4";
+	mso-level-tab-stop:42.55pt;
+	mso-level-number-position:left;
+	margin-left:42.55pt;
+	text-indent:-42.55pt;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-style-link:"Level 5 Number";
+	mso-level-text:"\(%5\)";
+	mso-level-tab-stop:70.9pt;
+	mso-level-number-position:left;
+	margin-left:70.9pt;
+	text-indent:-1.0cm;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-style-link:"Level 6 Number";
+	mso-level-text:"\(%6\)";
+	mso-level-tab-stop:99.25pt;
+	mso-level-number-position:left;
+	margin-left:99.25pt;
+	text-indent:-1.0cm;}
+@list l1:level7
+	{mso-level-number-format:alpha-upper;
+	mso-level-style-link:"Level 7 Number";
+	mso-level-text:"\(%7\)";
+	mso-level-tab-stop:127.6pt;
+	mso-level-number-position:left;
+	margin-left:127.6pt;
+	text-indent:-1.0cm;}
+@list l1:level8
+	{mso-level-number-format:roman-upper;
+	mso-level-style-link:"Level 8 Number";
+	mso-level-text:"\(%8\)";
+	mso-level-tab-stop:155.95pt;
+	mso-level-number-position:left;
+	margin-left:155.95pt;
+	text-indent:-1.0cm;}
+@list l1:level9
+	{mso-level-number-format:alpha-lower;
+	mso-level-style-link:"Level 9 Number";
+	mso-level-text:"%9\)";
+	mso-level-tab-stop:184.3pt;
+	mso-level-number-position:left;
+	margin-left:184.3pt;
+	text-indent:-1.0cm;}
+@list l2
+	{mso-list-id:1779713643;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-268925318 -1544271276 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-style-link:Bullet1;
+	mso-level-text:·;
+	mso-level-tab-stop:85.1pt;
+	mso-level-number-position:left;
+	margin-left:85.1pt;
+	text-indent:-42.55pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:·;
+	mso-level-tab-stop:114.55pt;
+	mso-level-number-position:left;
+	margin-left:114.55pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+
+
+
+<div class="Section1">
+
+<p class="Level2Number" style="margin-top:0cm;margin-right:0cm;margin-bottom:
+6.0pt;margin-left:0cm;text-indent:0cm;line-height:normal;mso-pagination:none;
+mso-list:none;tab-stops:36.0pt"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:Arial;color:#00B0F0">PRIVACY POLICY<o:p></o:p></span></b></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="font-size:9.0pt;mso-bidi-font-family:Arial">DJM Music Limited is
+committed to protecting and respecting your privacy.<span style="mso-spacerun:
+yes">&nbsp; </span>We are the data controller for the purposes of the Data
+Protection Act 1998.<span style="mso-spacerun: yes">&nbsp; </span>Our contact
+details can be found on the <span style="color:#00B0F0">Contact Us </span>page.<o:p></o:p></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="font-size:9.0pt;mso-bidi-font-family:Arial">This policy sets out the
+basis on which any personal data we collect from you, or that you provide to
+us, will be processed by us.<span style="mso-spacerun: yes">&nbsp; </span>Please
+read the following carefully to understand our views and practices regarding
+your personal data and how we will treat it.<o:p></o:p></span></p>
+
+<p class="BodyText1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:0cm;line-height:normal"><a name="main"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:9.0pt;mso-bidi-font-family:Arial;color:#00B0F0">Information
+we may collect from you<o:p></o:p></span></b></a></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">We may collect and process the following data about you:<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">Information
+that you provide by filling in forms on our site.<span style="mso-spacerun:
+yes">&nbsp; </span>This includes information provided at the time of registering to
+use our site, subscribing to our service, posting material or requesting
+further services. We may also ask you for information when you enter any
+competition or promotion and when you report a problem with our site.<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">If
+you contact us, we may keep a record of that correspondence.<span style="mso-spacerun: yes">&nbsp; </span>Please note that we may record telephone
+conversations with you.<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">We
+may also ask you to complete surveys that we use for research purposes,
+although you do not have to respond to them.<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">Details
+of transactions you carry out through our site and of the fulfilment of your
+orders.<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">Details
+of your visits to our site including, but not limited to, traffic data,
+location data, weblogs and other communication data, whether this is required
+for our own billing purposes or otherwise and the resources that you access. <o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">Information
+about your computer, including where available your IP address, operating
+system and browser type, for system administration and to report aggregate
+information to our advertisers. This is statistical data about our users'
+browsing actions and patterns, and does not identify any individual.<o:p></o:p></span></span></p>
+
+<p class="BodyText1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:0cm;line-height:normal"><span style="mso-bookmark:main"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial;color:#00B0F0">Cookies<o:p></o:p></span></b></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">We may obtain information about your general internet usage by using a
+cookie file which is stored on your browser or the hard drive of your computer.
+Cookies contain information that is transferred to your computer's hard drive.
+They help us to improve our site and to deliver a better and more personalised
+service. Some of the cookies we use are essential for the site to operate and,
+in particular, to allow you to shop from our site.<span style="mso-spacerun:
+yes">&nbsp; </span>Please see our <span style="color:#00B0F0">Cookies Policy</span>
+for further details<o:p></o:p></span></span></p>
+
+<p class="BodyText1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:0cm;line-height:normal"><span style="mso-bookmark:main"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial;color:#00B0F0">Where we store your personal data<o:p></o:p></span></b></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">The data that we collect from you may be transferred to, and stored at,
+a destination outside the European Economic Area ("EEA"). It may also
+be processed by staff operating outside the EEA who work for us or for one of
+our suppliers. Such staff maybe engaged in, among other things, the fulfilment
+of your order, the processing of your payment details and the provision of
+support services. By submitting your personal data, you agree to this transfer,
+storing or processing.<span style="mso-spacerun: yes">&nbsp; </span>We will take all
+steps reasonably necessary to ensure that your data is treated securely and in
+accordance with this privacy policy.<o:p></o:p></span></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">All information you provide to us is stored on our secure servers. Any
+payment transactions will be encrypted using SSL technology.<span style="mso-spacerun: yes">&nbsp; </span>Where we have given you (or where you have
+chosen) a password which enables you to access certain parts of our site, you
+are responsible for keeping this password confidential. We ask you not to share
+a password with anyone.<o:p></o:p></span></span></p>
+
+<p class="BodyText1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:0cm;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:Arial">Unfortunately, the
+transmission of information via the internet is not completely secure. Although
+we will do our best to protect your personal data, we cannot guarantee the
+security of your data transmitted to our site; any transmission is at your own
+risk. Once we have received your information, we will use strict procedures and
+security features to try to prevent unauthorised access.<o:p></o:p></span></span></p>
+
+<p class="BodyText1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:0cm;line-height:normal"><span style="mso-bookmark:main"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial;color:#00B0F0">Uses made of the information<o:p></o:p></span></b></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">We use information held about you in the following ways:<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">To
+ensure that content from our site is presented in the most effective manner for
+you and for your computer. <o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">To
+provide you with information, products or services that you request from us or
+which we feel may interest you, where you have consented to be contacted for
+such purposes. <o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">To
+carry out our obligations arising from any contracts entered into between you
+and us.<span style="mso-spacerun: yes">&nbsp; </span>Please note that we may supply
+information <span style="color:black;mso-bidi-font-weight:bold">held about you
+to our fulfilment partners and carriers (such as. Royal Mail, DPD, Chronopost)
+in order to process and despatch your orders</span><o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">To
+allow you to participate in interactive features of our service, when you
+choose to do so<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">To
+notify you about changes to our service.<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">To
+send you our newsletter, where you have opted to receive it.<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">To
+publicise the names of winners of any of our competitions<o:p></o:p></span></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">We may also use your data, or permit selected third parties to use your
+data, to provide you with information about goods and services which may be of
+interest to you and we or they may contact you about these by post or telephone.
+<o:p></o:p></span></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">If you are an existing customer, we will only contact you by electronic
+means (email or SMS) with information about goods and services similar to those
+which were the subject of a previous sale to you.<span style="mso-spacerun:
+yes">&nbsp; </span>However, we will not send any such information by electronic
+means to you if you purchased products as a guest user, unless you have
+consented to this. <o:p></o:p></span></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">If you are a new customer, and where we permit selected third parties to
+use your data, we (or they) will contact you by electronic means only if you
+have consented to this. <o:p></o:p></span></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">If you do not want us to use your data in this way, or to pass your
+details on to third parties for marketing purposes, please tick the relevant
+box situated on the form on which we collect your data. <o:p></o:p></span></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">We use aggregate information about our users for our own business and
+marketing purposes.<span style="mso-spacerun: yes">&nbsp; </span>We do not pass any
+such information onto any third party advertisers. <o:p></o:p></span></span></p>
+
+<p class="BodyText1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:0cm;line-height:normal"><span style="mso-bookmark:main"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial;color:#00B0F0">Disclosure of your information<o:p></o:p></span></b></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">We may disclose your personal information to any member of our group,
+which means our subsidiaries, our ultimate holding company and its
+subsidiaries, as defined in section 1159 of the UK Companies Act 2006.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></span></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">We may disclose your personal information to third parties:<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">In
+the event that we sell or buy any business or assets, in which case we may disclose
+your personal data to the prospective seller or buyer of such business or
+assets.<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">If
+DJM Music Limited or substantially all of its assets are acquired by a third
+party, in which case personal data held by it about its customers will be one
+of the transferred assets.<o:p></o:p></span></span></p>
+
+<p class="Bullet1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:42.55pt;line-height:normal;tab-stops:list 42.55pt"><span style="mso-bookmark:main"><!--[if !supportLists]--><span style="font-size:9.0pt;
+font-family:Symbol;mso-bidi-font-family:Arial">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size:9.0pt;mso-bidi-font-family:Arial">If
+we are under a duty to disclose or share your personal data in order to comply
+with any legal obligation, or in order to enforce or apply our <span style="color:#00B0F0">Website Terms of Use,</span> <span style="color:#00B0F0">Terms
+and Conditions of Sale</span> or <span style="color:#00B0F0">Terms and
+Conditions of Sale (Business Customers)</span> and other agreements; or to
+protect the rights, property or the safety of DJM Music Limited, our customers
+or others. This includes exchanging information with other companies and
+organisations for the purposes of fraud protection and credit risk reduction.<o:p></o:p></span></span></p>
+
+<p class="BodyText1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:0cm;line-height:normal"><span style="mso-bookmark:main"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial;color:#00B0F0">Your rights<o:p></o:p></span></b></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">You have the right to ask us not to process your personal data for
+marketing purposes. We will usually inform you (before collecting your data) if
+we intend to use your data for such purposes or if we intend to disclose your
+information to any third party for such purposes. You can exercise your right
+to prevent such processing by checking certain boxes on the forms we use to
+collect your data.<span style="mso-spacerun: yes">&nbsp; </span>You can also
+exercise the right at any time by contacting us at the address or email address
+on the <span style="color:#00B0F0">Contact Us</span> page. <o:p></o:p></span></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:Arial;color:#00B0F0">Third parties <o:p></o:p></span></b></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">Our site may, from time to time, contain links to and from the websites
+of our partner networks, advertisers and affiliates.<span style="mso-spacerun:
+yes">&nbsp; </span>If you follow a link to any of these websites, please note that
+these websites have their own privacy policies and that we do not accept any
+responsibility or liability for these policies.<span style="mso-spacerun:
+yes">&nbsp; </span>Please check these policies before you submit any personal data
+to these websites.<o:p></o:p></span></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">In addition, where we offer the Facebook “like” button or any other functionality
+provided by a third party (including any competitions, promotions or prize
+draws offered on our Facebook page), the use of such services is subject to the
+privacy policies and terms of use of Facebook and such other third parties, and
+we do not accept any responsibility or liability for these policies and terms
+of use.<o:p></o:p></span></span></p>
+
+<p class="BodyText1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:0cm;line-height:normal"><span style="mso-bookmark:main"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial;color:#00B0F0">Access to information<o:p></o:p></span></b></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">The Data Protection Act 1998 gives you the right to access information
+held about you.<span style="mso-spacerun: yes">&nbsp; </span>Your right of access
+can be exercised in accordance with the Data Protection Act 1998.<span style="mso-spacerun: yes">&nbsp; </span>Any access request may be subject to a fee
+of £10 to meet our costs in providing you with details of the information we
+hold about you.<o:p></o:p></span></span></p>
+
+<p class="BodyText1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:0cm;line-height:normal"><span style="mso-bookmark:main"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial;color:#00B0F0">Changes to our privacy policy<o:p></o:p></span></b></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">Any changes we may make to our privacy policy in the future will be posted
+on this page and, where appropriate, notified to you by email.<o:p></o:p></span></span></p>
+
+<p class="BodyText1" style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:0cm;line-height:normal"><span style="mso-bookmark:main"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial;color:#00B0F0">Contact<o:p></o:p></span></b></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><span style="mso-bookmark:main"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial">Questions, comments and requests regarding this <span style="color:#00B0F0">Privacy
+Policy</span> are welcomed.<span style="mso-spacerun: yes">&nbsp; </span>Please use
+the contact details on the <span style="color:#00B0F0">Contact Us</span> page</span></span><span style="font-size:9.0pt;mso-bidi-font-family:Arial">.<b style="mso-bidi-font-weight:
+normal"><span style="color:#00B0F0"><o:p></o:p></span></b></span></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial;color:#00B0F0"><!--[if !supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></span></b></p>
+
+<p class="MsoBodyText" style="margin-bottom:6.0pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;mso-bidi-font-family:
+Arial;color:#00B0F0">SECURITY POLICY<o:p></o:p></span></b></p>
+
+<p style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;
+text-align:justify;mso-pagination:none"><span style="font-size:9.0pt;
+font-family:Arial">We take your security very seriously.<span style="mso-spacerun: yes">&nbsp; </span>Please read this <span style="color:#00B0F0">Security
+Policy </span>carefully.<o:p></o:p></span></p>
+
+<p style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;
+text-align:justify;mso-pagination:none"><b style="mso-bidi-font-weight:normal"><span style="font-size:9.0pt;font-family:Arial;color:#00B0F0">Security Measures<o:p></o:p></span></b></p>
+
+<p style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;
+text-align:justify;mso-pagination:none"><span style="font-size:9.0pt;
+font-family:Arial">We use Internet standard encryption technology
+("SSL" or "Secure Socket Layer" technology) to encode
+personal data that you send to us when placing an order through the site. To
+check that you are in a secure area of the site before sending personal data to
+us, please look at the bottom right of your website browser and check that it
+displays an image of a closed padlock or an unbroken key.<o:p></o:p></span></p>
+
+<p style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;
+text-align:justify;mso-pagination:none"><span style="font-size:9.0pt;
+font-family:Arial">We do not retain or hold any of your credit or debit card
+details or PayPal or Google Checkout details.<o:p></o:p></span></p>
+
+<p style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;
+text-align:justify;mso-pagination:none"><span style="font-size:9.0pt;
+font-family:Arial">However, please note that whilst we take appropriate
+technical and organisational measures to safeguard the personal data that you
+provide to us, no transmission over the Internet can ever be guaranteed
+secure.&nbsp; Consequently, please note that we cannot guarantee the security
+of any personal data that you transfer over the Internet to us.<o:p></o:p></span></p>
+
+<p style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;
+text-align:justify;mso-pagination:none"><span style="font-size:9.0pt;
+font-family:Arial">If you are using a computer or terminal in a public
+location, we recommend that you always log out and close the website browser
+when you complete an online session for your security. In addition we recommend
+that you take the following security measures to enhance your online safety:<o:p></o:p></span></p>
+
+<ul style="margin-top:0cm" type="disc">
+ <li class="MsoNormal" style="margin-bottom:6.0pt;text-align:justify;mso-pagination:
+     none;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:9.0pt;font-family:Arial">Keep your account passwords
+     private. Remember, anybody who knows your password may access your account
+     and you will be responsible for any use or misuse of your account.<span style="mso-spacerun: yes">&nbsp; </span>Change your password immediately and
+     contact us if you think anyone else knows your password.<span style="mso-spacerun: yes">&nbsp; </span>Our contact details can be found on the
+     <span style="color:#00B0F0">Contact Us </span>page.<o:p></o:p></span></li>
+ <li class="MsoNormal" style="margin-bottom:6.0pt;text-align:justify;mso-pagination:
+     none;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:9.0pt;font-family:Arial">When creating a password, try to
+     use at least 8 characters. A combination of letters, numbers, symbols and
+     different cases is best.<span style="mso-spacerun: yes">&nbsp; </span>Passwords
+     are case sensitive.<span style="mso-spacerun: yes">&nbsp; </span>Do not use
+     dictionary words, your name, email address, or other personal data that
+     can be easily obtained. We also recommend that you frequently change your
+     password. You can do this in ‘My Account’. <o:p></o:p></span></li>
+ <li class="MsoNormal" style="margin-bottom:6.0pt;text-align:justify;mso-pagination:
+     none;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt"><span style="font-size:9.0pt;font-family:Arial">Avoid using the same password
+     for multiple online accounts.<o:p></o:p></span></li>
+</ul>
+
+<p style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;
+text-align:justify;mso-pagination:none"><a name="12"></a><strong><span style="font-size:9.0pt;font-family:Arial;color:#00B0F0">Disclosing your details</span></strong><span style="font-size:9.0pt;font-family:Arial;color:#00B0F0"><o:p></o:p></span></p>
+
+<p style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;
+text-align:justify;mso-pagination:none"><span style="font-size:9.0pt;
+font-family:Arial">We will never ask you to confirm any account, debit or
+credit card details via email. If you receive an email claiming to be from <span style="color:#00B0F0">djmmusic.com</span> asking you to do so, please do not
+respond and report it to us using the contact details on the <span style="color:#00B0F0">Contact Us</span> pages.<o:p></o:p></span></p>
+
+<p style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;
+text-align:justify;mso-pagination:none"><a name="13"></a><a name="14"></a><strong><span style="font-size:9.0pt;font-family:Arial;color:#00B0F0">Third party sites</span></strong><span style="font-size:9.0pt;font-family:Arial;color:#00B0F0"><o:p></o:p></span></p>
+
+<p style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;
+text-align:justify;mso-pagination:none"><span style="font-size:9.0pt;
+font-family:Arial">Our site may contain links to other websites operated by
+third parties.<span style="mso-spacerun: yes">&nbsp; </span>Please note that we have
+no control over or responsibility for these third party sites and cannot be
+responsible for personal data that third parties may collect, store and use
+through their website.<span style="mso-spacerun: yes">&nbsp; </span>You should
+always read the privacy policy of each website you visit carefully.<o:p></o:p></span></p>
+
+<p style="margin-top:0cm;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;
+text-align:justify;mso-pagination:none"><a name="15"></a><a name="16"></a><a name="17"></a><strong><span style="font-size:9.0pt;font-family:Arial;color:#00B0F0">Contact
+us</span></strong><span style="font-size:9.0pt;font-family:Arial;color:#00B0F0"><o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:Arial">If you have
+any questions about security, please contact us via the address or email
+address given on the <span style="color:#00B0F0">Contact Us </span>page.</span></p>
+
+</div>
+
+
+
+
+</font>
+		</div><!--end #global_main_content-->
+
+
+		<div id="global_footer">
+		
+<table width="100%" border="0">
+	<tbody><tr>
+		<td align="center" width="190">
+			<table>
+	<tbody><tr>
+		<td align="right" valign="top" colspan="0" cellpadding="0">
+			<img src="Images/logo_fsb.png" title="DJM Music are a member of FSB" alt="DJM Music are a member of FSB">
+		</td>
+	</tr>
+</tbody></table>
+
+		</td>
+		<td align="center">
+		<img src="Images/cards_accepted.png" title="DJM Music accept the following payment methods." alt="DJM Music accept a wide variety of payment methods.">
+			<!-- ****** Web Site info is placed here ****** -->
+				
+	<table border="0">
+		<tbody><tr>
+			<td width="100%">&nbsp;
+				
+					<a href="websiteinfo.asp?fc=220">A.I.P.S.</a>
+					
+						&nbsp;|&nbsp;
+					
+					<a href="websiteinfo.asp?fc=444">Helpful Links</a>
+					
+						&nbsp;|&nbsp;
+					
+					<a href="websiteinfo.asp?fc=496">Follow Us Online</a>
+					
+						&nbsp;|&nbsp;
+					
+					<a href="websiteinfo.asp?fc=456">FAQ</a>
+					
+						&nbsp;|&nbsp;
+					
+					<a href="websiteinfo.asp?fc=494">Google Checkout</a>
+					
+						&nbsp;|&nbsp;
+					
+					<a href="websiteinfo.asp?fc=516">Educational Accounts</a>
+					
+						&nbsp;|&nbsp;
+					
+					<a href="websiteinfo.asp?fc=555">One4All Gift Cards</a>
+					
+						&nbsp;|&nbsp;
+					
+					<a href="websiteinfo.asp?fc=514">Reserve &amp; Collect</a>
+					
+						&nbsp;|&nbsp;
+					
+					<a href="websiteinfo.asp?fc=567">Facebook Competition Guidelines</a>
+					
+						&nbsp;|&nbsp;
+					
+					<a href="websiteinfo.asp?fc=215">Privacy &amp; Security Policy</a>
+					
+						&nbsp;|&nbsp;
+					
+					<a href="websiteinfo.asp?fc=570">Cookies Policy</a>
+					
+						&nbsp;|&nbsp;
+					
+					<a href="websiteinfo.asp?fc=568">Terms &amp; Conditions</a>
+					
+			</td>
+		</tr> 
+		<tr><td width="100%" height="10"></td></tr>
+	</tbody></table>
+
+			<table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td align="center">
+						<font class="content">
+							©djmmusic.com, All rights reserved.
+							
+									 Mail us at: 
+									<a href="mailto:info@djmmusic.com" class="footer">info@djmmusic.com</a>
+							
+						</font>
+					</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+			</tbody></table>
+		</td>	
+		<td align="center" width="190">
+			<table>
+	<tbody><tr>
+		<td align="right" valign="top" colspan="0" cellpadding="0">
+			<img src="Images/secure_payment_logos.png" title="DJM Music Payments are secured by SagePay" alt="DJM Music Payments are secured by SagePay">
+		</td>
+	</tr>
+</tbody></table>
+
+		</td>
+	</tr>
+	</tbody></table>
+					<script type="text/javascript">
+					 function initAddThis() 
+					 {
+						  addthis.init()
+					 }
+					 // After the DOM has loaded...
+					 initAddThis();
+				</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-203538-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+} catch(err) 
+{}</script> 
+
+
+<!--Comodo EV SSL Certificate AUTO Enhancer Script Starts-->
+<script type="text/jscript">/*@cc_on @if(@_jscript_version>=5.7)new Image().src="https://ev-enhancer.comodo.com/ev-enhancer.gif" @end @*/</script>
+<noscript><IMG src="https://ev-enhancer.comodo.com/ev-enhancer.gif" height="0" width="0" style="position:absolute"></noscript>
+<!--Comodo EV SSL Certificate AUTO Enhancer Script Ends-->
+<link rel="shortcut icon" href="/images/favicon.ico">
+<!--Everest E-Commerce Advanced Edition : Enterprise version-V5.0.3.2375.00000.375.00000.375.00000 ,ASP version-V5.0.3.2375.00000.375.00000.375.00000-->
+		</div><!--end #global_footer-->
+</div><!--end #global_canvas-->	
+
+</body></html>
