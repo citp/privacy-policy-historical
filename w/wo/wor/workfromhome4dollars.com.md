@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workfromhome4dollars.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112755id_/http%3A//www.workfromhome4dollars.com/PRIVACY_POLICY%255B1%255D.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workfromhome4dollars.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203912id_/http%3A//www.workfromhome4dollars.com/PRIVACY_POLICY%255B1%255D.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY Last Updated: August 30, 2005 http://pservices
 
