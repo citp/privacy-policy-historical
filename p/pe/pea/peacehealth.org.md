@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacehealth.org privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524070355id_/http%3A//www.peacehealth.org/notice-of-privacy-practices/Pages/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacehealth.org privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228231219id_/http%3A//www.peacehealth.org/notice-of-privacy-practices/Pages/Default.aspx) for the most accurate reproduction.*
 
 # Notice of Privacy Practices
 
@@ -226,8 +226,8 @@ Telephone: (360) 414-2000
 
 **PeaceHealth Southwest Washington Medical Center**  
 400 NE Mother Joseph Place  
-Vancouver, WA 08664  
-Tellephone: (360) 256-2000
+Vancouver, WA 98668  
+Telephone: (360) 256-2000
 
 **Southwest Washington Regional Surgery Center LLC  
 ** 400 NE Mother Joseph Place  
