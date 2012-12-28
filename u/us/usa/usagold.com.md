@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110559id_/http%3A//www.usagold.com/shop/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagold.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228202845id_/http%3A//www.usagold.com/shop/terms.html) for the most accurate reproduction.*
 
 # Privacy Policy / Terms and Conditions (for online buying of gold coins)
 
@@ -30,7 +30,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 **Links**  
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and recommend they read the privacy statements of any other site that may seek to collect personally identifiable information.
 
-Saturday June 30  
+Friday December 28  
 website support: sitemaster@usagold.com  
 [Site Map](http://www.usagold.com/tableofcontents.html) \- [Privacy](http://www.usagold.com/shop/terms.html)\- [Disclaimer](http://www.usagold.com/shop/disclaimer.html)  
 The USAGOLD logo and stylized gold coin pile are trademarks of Michael J. Kosares.  
