@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vinaudit.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604160851id_/http%3A//www.vinaudit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinaudit.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228200929id_/http%3A//vinaudit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « VinAudit.com – NMVTIS Vehicle History. Carfax Alternative. Instant Reports.
+# VinAudit.com - Privacy Policy « Carfax Report Alternative. NMVTIS Vehicle History. Instant VIN Check.
 
-This Privacy Policy governs the manner in which VinAudit.com LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.vinaudit.com](http://www.vinaudit.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by VinAudit.com LLC.
+This Privacy Policy governs the manner in which VinAudit.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.vinaudit.com website (“Site”). This privacy policy applies to the Site and all products and services offered by VinAudit.com.
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities, including but not limited to ordering a report, registering for an account, and contacting support. Users may request that associated personally identification information in our system is removed by contacting us at http://www.vinaudit.com/contact-us.
 
 **Non-personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-VinAudit.com LLC collects and uses Users personal information for the following purposes:
+VinAudit.com collects and uses Users personal information for the following purposes:
 
   * _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -31,7 +31,7 @@ We may use the information Users provide about themselves when placing an order 
   * _\- To track referrals_  
 Your information will helps us attribute the referring source of purchases to enable more efficient marketing.
   * _\- To send periodic emails_  
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. 
+The email address Users provide for order processing will be used to send them ordered reports, updates pertaining to their order, and promotions related to used car buying. It may also be used to respond to their inquiries, and/or other requests or questions.
 
 
 
@@ -43,7 +43,7 @@ Sensitive and private data exchange between the Site and its Users happens over 
 
 **Sharing your personal information**
 
-Access to your personal information will, with the exceptions specified below, be restricted to employees of VinAudit.com LLC and handled with the upmost care for the purposes outlined above. We may share your business name and payment history to trusted affiliates for the purpose of referral tracking as specified above. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+Access to your personal information will, with the exceptions specified below, be restricted to employees of VinAudit.com and handled with the upmost care for the purposes outlined above. We may share your business name and payment history to trusted affiliates for the purpose of referral tracking as specified above. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 **Third party websites**
 
@@ -51,14 +51,14 @@ Users may find advertising or other content on our Site that link to the sites a
 
 **Changes to this privacy policy**
 
-VinAudit.com LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+VinAudit.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.vinaudit.com/terms-and-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/web/20121228200929id_/http%3A//vinaudit.com/terms-and-conditions). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/web/20120604160851id_/http%3A//www.vinaudit.com/contact-us).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/web/20121228200929id_/http%3A//vinaudit.com/contact-us).
 
-This document was last updated on February 20, 2012
+This document was last updated on November 8, 2012
