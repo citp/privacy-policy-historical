@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630115341id_/http%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pajamasmedia.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228215509id_/http%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # PJ Media » Privacy Policy
 
@@ -36,7 +36,7 @@ Third party advertisers or third party ad servers that place and present adverti
 
 **Disclosure**
 
-PJM openly volunteers its practices of collecting information, its targeting capabilities and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@cdn.pjmedia.com](mailto:privacy@cdn.pjmedia.com).
+PJM openly volunteers its practices of collecting information, its targeting capabilities and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@pjmedia.com](mailto:privacy@pjmedia.com).
 
 **Personally Identifiable Information**
 
