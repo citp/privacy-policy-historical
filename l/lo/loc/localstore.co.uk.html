@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the localstore.co.uk privacy policy that was archived on 2012-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120613171005id_/http%3A//www.localstore.co.uk/legals/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the localstore.co.uk privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229003148id_/http%3A//www.localstore.co.uk/legals/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy - LocalStore</title>
@@ -10,7 +10,7 @@
 	<meta name="robots" content="noindex, follow">
 
 	<meta name="google-site-verification" content="kkWIvDeq5jWlO3-ZlGBB_MhDLZ5dy4vPtf3XC3iYCDA">
-	<meta name="y_key" content="ed0dd6471c0e66bf">
+	
 	<meta name="msvalidate.01" content="A12DBA3A134BB33642F8492CDB3A7FC1">
 
 	<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
@@ -21,9 +21,12 @@
 		var SEND_PAGE_URL = "L2xlZ2Fscy9wcml2YWN5LnBocA==";
 		var SHARE_THIS_URL = "/legals/privacy.php";
 	</script>
-	<link rel="stylesheet" href="/styles/styles.min.css">
+	<link rel="stylesheet" href="/styles/style.css">
 	<link rel="stylesheet" href="/styles/softadmin.css">
-	<script type="text/javascript" src="/includes/js/library.min.js"></script>
+	<!--<script type="text/javascript" src="/includes/js/library.min.js"></script>-->
+	<script type="text/javascript" src="/login/includes/js/jquery/jquery-1.8.1.min.js"></script>
+	<script type="text/javascript" src="/login/includes/js/jquery/autocomplete/1.1.3/jquery.autocomplete-min.js"></script>
+	<script type="text/javascript" src="/includes/functions.js"></script>
 	<script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -42,94 +45,91 @@
 
 <a name="top"></a>
 <div id="modal_form" style="display: none;"></div>
-<table cellpadding="0" cellspacing="0" border="0" align="center" width="952" class="header_logo">
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" class="header_top_menu">
 	<tbody><tr>
-		<td>
-			<table cellpadding="0" cellspacing="0" border="0" align="center" width="952" class="header_top_menu" style="height: 38px;">
-				<tbody><tr>
-					<td style="width: 180px; height: 60px;"><a href="/"><img src="/images/temp/localstore-140x35.png" style="padding: 10px 20px 10px  20px;" border="0"></a></td>
-						  <td class="menu_top_inactive" width="64" align="center"><a href="/index.php">Home</a></td>	  <td class="menu_top_inactive" width="152" align="center"><a href="/joinmailinglist/subscribe.php">Join Mailing List</a></td>					
-					<td align="right" style="padding: 3px 10px 3px 0;">
-											<a class="gray_button" href="/admin/user-login/">Login</a><a class="gray_button" href="/admin/user-login/">Add a Store</a>
-											</td>
+		<td style="padding: 0 20px;">
+			<a href="/"><img src="/images/temp/local-store-20120907.png" border="0" alt="LocalStore" title="LocalStore"></a>
+		</td>
+		<td align="right">
+			
+			<div id="nav_search">
+				<form name="search" id="search" method="get" action="/search/">
+					<table cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr>
+							<td>
 					
-				</tr>
-			</tbody></table>
+								<input type="hidden" name="keyword" id="keyword" value="">
+								<input type="hidden" name="keyword_type" id="keyword_type" value="">
+						
+								<input class="search_field blur" autocomplete="off" name="lookup_keywords" id="lookup_keywords" title="All business types &amp; names" value="All business types &amp; names" tabindex="1" style="width: 280px;"><br>
+								
+								<span class="desc">Search for Pizza, Fashion, Accountant, etc.</span>
+								
+							</td>
+							<td>
+						
+								<input type="hidden" name="location" id="location" value="">
+								<input type="hidden" name="location_type" id="location_type" value="">
+						
+								<input class="search_field blur" autocomplete="off" name="lookup_locations" id="lookup_locations" title="All over the place" value="All over the place" tabindex="2" style="width: 280px;"><br>
+								
+																
+								<span class="desc">In Area, City/Town or Postcode</span>
+								
+							</td>
+							<td valign="top">
+								<input type="submit" name="submit" value="Search" id="nav_submit" tabindex="3">
+							</td>
+						</tr>
+					</tbody></table>
+						
+					</form>
+				
+				<script src="/includes/js/hint.js"></script>
+				<script src="/includes/js/search.js"></script>
+								<script type="text/javascript">
+				$( '#nav_submit' ).click( function() {
+					if( 
+						(
+							$( '#lookup_keywords' ).val() == 'All business types & names' || 
+							$( '#lookup_keywords' ).val() == ''
+						)
+						&&
+						(
+							$( '#lookup_locations' ).val() == 'All over the place' ||
+							$( '#lookup_locations' ).val() == ''
+						)
+					)
+					{
+						alert( 'You did not search for anything.' );
+						return false;
+					}
+				});
+				</script>
+					
+			</div>
+		
 		</td>
 	</tr>
 </tbody></table>
-<table cellpadding="0" cellspacing="0" border="0" align="center" width="952" class="header_logo">
+<table cellpadding="0" cellspacing="0" border="0" align="center" class="header_bottom_menu">
 	<tbody><tr>
-		<td>
-			<table cellpadding="0" cellspacing="0" border="0" align="center" width="952" class="header_bottom_menu" style="height: 35px;">
-				<tbody><tr>
-					<td>
-						<table cellpadding="0" cellspacing="0" border="0" width="100%">
-							<tbody><tr class="menu_type_tr">
-								<td width="15">&nbsp;</td>
-								<td class="mnu_type_active"><b>Current Region:&nbsp;&nbsp;United Kingdom</b>&nbsp;&nbsp;( <a href="/browse/suburbs/">change</a> )</td>								<td align="right">
-									<div style="height: 46px; float: left;"></div>
-																		<form name="search" id="search" method="get" action="/search/" style="margin: 0; padding: 0;">
-									<script type="text/javascript" src="/includes/js/j.search.hint.js" charset="utf-8"></script>
-									<script type="text/javascript" src="/includes/js/j.search.options.js" charset="utf-8"></script>
-									
-									<div class="search_box_round" style="float: right; position: relative;">
-										<strong><span style="line-height: 20px; color: #000;"> &nbsp; Location</span></strong>
-										<input type="hidden" name="location" id="location">
-								        <input type="hidden" name="location_type" id="location_type">
-						                <input class="search_field blur" autocomplete="off" name="lookup_locations" id="lookup_locations" title="All over the place" value="All over the place" onkeyup="lookuplocations( this.value, 1 );" tabindex="2">
-						            	<a href="javascript:void(0);" id="form_submit_button" class="inline_submit" onclick="return do_search_form();" tabindex="3">Search</a>
-							    		<div id="suburbsuggestions" style="position: absolute; left: 55px; width: 1px; display: none;"></div>
-									</div>
-									
-									<div class="search_box_round" style="float: right; position: relative;">
-										<strong><span style="line-height: 20px; color: #000;"> &nbsp; Find</span></strong>
-										<input type="hidden" name="keyword" id="keyword">
-						                <input type="hidden" name="keyword_type" id="keyword_type">
-						                <input class="search_field blur" autocomplete="off" name="lookup_keywords" id="lookup_keywords" title="All business types &amp; names" value="All business types &amp; names" onkeyup="lookuplisting( this.value, 1 );" tabindex="1">
-			                			<div id="nametypesuggestions" style="position: absolute; left: 30px; width: 1px; display: none;"></div>
-									</div>
-									</form>
-									<script type="text/javascript" language="javascript">
-						    		$( '#lookup_locations, #lookup_keywords' ).keypress( function(e) {
-						    	        if(e.which == 13) {
-						    	            $(this).blur();
-						    	            $('#form_submit_button').focus().click();
-						    	        }
-						    	    } ).keyup( function( e ) {
-						    			if( $(this).val().length <= 1 )
-							    		{
-								    		var obj = $( this ).parent().find( 'div' );
-								    		__do_fade_out( '#' + obj.attr( 'id' ) );
-							    		};
-						    		} );
-			
-									$(document).ready( function() {
-										//console.log( $( '.search_field' ) );
-										//$( 'input:text' ).hint();
-										$( '.search_field' ).hint();
-									} );
-									</script>
-																	</td>
-															</tr>
-						</tbody></table>
-					</td>
-					<td>&nbsp;</td>
-				</tr>
-			</tbody></table>
-			<table cellpadding="0" cellspacing="0" width="952" align="center">
-				<tbody><tr>
-					<td colspan="20" height="15" class="header_bottom_menu_end"></td>
-				</tr>
-				<tr>
-					<td colspan="20" height="5" style="border-bottom: none;"></td>
-				</tr>
-			</tbody></table>
-		</td>
+		<td>&nbsp;</td>
+			  <td class="menu_top_inactive" width="64" align="center"><a href="/index.php">Home</a></td>	  <td class="menu_top_inactive" width="152" align="center"><a href="/joinmailinglist/subscribe.php">Join Mailing List</a></td>		
+		<td align="right" style="padding: 3px 10px 3px 0;">
+					<a class="gray_button" href="/admin/user-login/">Login</a><a class="gray_button" href="/aboutus/suggest-store.php">Add a Store</a>
+				</td></tr>
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0" border="0" align="center" class="header_bottom_menu_end">
+	<tbody><tr>
+		<td></td>
 	</tr>
 </tbody></table>
 
-		<table cellspacing="0" cellpadding="0" style="width: 952px; height: 90px; padding: 10px; border: 0; margin: 0 auto;" class="header_logo">
+			
+		<table cellspacing="0" cellpadding="0" style="width: 952px; height: 90px; padding: 20px; border: 0; margin: 0 auto;" class="header_logo">
 			<tbody><tr>
 				<td><script type="text/javascript"><!--
 google_ad_client = "ca-pub-3470424709180862";
@@ -253,7 +253,8 @@ information from our users<br><br><span class="Header">For Further Information</
 		<table>
 			<tbody><tr>
 				<td valign="middle" style="padding-left: 10px;">
-					<a href="/aboutus/aboutus.php">About</a> &nbsp;|&nbsp; 
+					<a href="/aboutus/aboutus.php">About</a> &nbsp;|&nbsp;
+					<a href="/browse/brands/">Browse by Brands</a> &nbsp;|&nbsp; 
 					<a href="/browse/stores/">Browse by Name</a> &nbsp;|&nbsp; 
 					<a href="/browse/store-categories/">Browse by Category</a> &nbsp;|&nbsp;  
 					<a href="/browse/regions/">Browse by Region</a> &nbsp;|&nbsp; 
@@ -261,7 +262,7 @@ information from our users<br><br><span class="Header">For Further Information</
 					<a href="/near/">Browse by Near Me</a>
 									</td>
 				<td valign="middle">
-									</td>
+				</td>
 			</tr>
 		</tbody></table>
 	</td>
@@ -280,15 +281,16 @@ information from our users<br><br><span class="Header">For Further Information</
 					&nbsp;|&nbsp;
 					<a href="/joinmailinglist/unsubscribe.php">Un-Subscribe</a>
 				</td>
-				<td align="right" style="color: #e3e3e3;">0.0694</td>
+				<td align="right" style="color: #e3e3e3;">0.0436</td>
 			</tr>
 		</tbody></table>
 		&nbsp;
 	</td>
-</tr>			</tbody></table>
+</tr>
+			</tbody></table>
 		</td>
 	</tr>
 </tbody></table>
 
 
-</body></html>
+<!-- generic_noads --><div id="AutocompleteContainter_ba2b4" style="position: absolute; z-index: 9999; top: 37px; left: 710.5px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_ba2b4" style="display: none; width: 280px; max-height: 300px;"></div></div></div><div id="AutocompleteContainter_6a03" style="position: absolute; z-index: 9999; top: 37px; left: 426.5px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_6a03" style="display: none; width: 280px; max-height: 300px;"></div></div></div></body></html>
