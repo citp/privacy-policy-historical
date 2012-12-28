@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113314id_/http%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradepub.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228214907id_/http%3A//www.tradepub.com/%3Fp%3Dpriv%26w%3Dwp) for the most accurate reproduction.*
 
 # Free Business, Computer, Engineering and Trade Magazines, White Papers, Reports, and eBooks
 
@@ -7,10 +7,23 @@ TradePub.com Privacy Policy
 
 NetLine Corporation is committed to protecting your privacy while on TradePub.com and our branded websites. Please read our policy to understand how your personal information will be used while on our sites and how we work to make your online experience with us secure.   
   
+Key Definitions  
+| 
+
+In this Privacy Policy, we use the following key definitions. Other terms are defined in the body of the policy. 
+
+"Content Provider" means a third party that owns a white paper, analyst report or other document and allows TradePub.com to link to or display that document on the Sites. 
+
+"User" or "you" means any person viewing any page of the Sites. 
+
+"Profile Information" means information which you provide which may include, but shall not be limited to: your name and corporate title, the name of your company and the department in which you work, your industry group, country, zip code, telephone number, and various industry questions. 
+
+"Third Party Content" means the white papers, analyst reports and other documents available through the Sites and owned by Content Providers.   
+  
 Information Collection and Use  
 | 
 
-NetLine collects information in several ways and on different points on TradePub.com and branded websites. We act as an agent to collect data for some of our partners. When filling out subscription forms, visitors are required to fill out personal data (name, title, company, address, telephone, fax, email and various industry questions specific to the demographic interests). The data collected is then securely passed to our partner or their agent for fulfillment.
+NetLine collects Profile Information on TradePub.com and branded websites when you register on one of our sites, subscribe to an e-mail newsletter, or register to request certain content from our Content Providers. Because we derive revenue mainly from advertising, collecting information is vital to keep our services affordable to users. When you register to access a Third Party's Content the use of that information is governed by their privacy policy and may be used by the Content Provider for follow up by telephone, email, direct mail or other common methods. You should contact these Content Providers directly if you have any questions about their use of this information. If you do not want this information disclosed to a Content Provider, do not request Third Party Content. 
 
 TradePub.com and its' branded sites collect opt-in email addresses which may be used for periodic email messages announcing additions to the TradePub.com site and/or promoting 3rd party entities. Users have a choice to opt in for none, one, or both types of periodic email messages. Users who opt in to receive TradePub.com announcements only will never have their email addresses sold, shared, or rented. Businesses may purchase the right to mail to those users who have opted to receive 3rd party promotional messages, however, those mailing will be done by TradePub.com and the users' email addresses will never be released to the 3rd party. In all cases, email list subscribers are given the opportunity to opt-out on each mailing. 
 
