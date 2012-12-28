@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613231748id_/http%3A//www.opentext.com/2/global/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228211641id_/http%3A//www.opentext.com/2/global/site-privacy.html) for the most accurate reproduction.*
 
-# Privacy and Security Policy - OpenText
+# Privacy and Security Policy | OpenText
 
 ### Overview
 
