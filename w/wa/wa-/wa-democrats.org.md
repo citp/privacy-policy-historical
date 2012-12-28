@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wa-democrats.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614054956id_/http%3A//www.wa-democrats.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wa-democrats.org privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228014435id_/http%3A//www.wa-democrats.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Washington Democrats
 
@@ -18,7 +18,7 @@ We log IP addresses, or the location of your computer or network on the Internet
 
 ##### Contacting us about privacy
 
-If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site or your interaction with this website, send e-mail to [misty@wa-demcorats.org](mailto:misty@wa-demcorats.org)
+If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site or your interaction with this website, send e-mail to [misty@wa-democrats.org](mailto:misty@wa-democrats.org)
 
 You can also reach us at:  
 Washington State Democrats  
