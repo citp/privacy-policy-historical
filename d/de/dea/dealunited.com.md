@@ -1,72 +1,78 @@
-> *The following text is extracted and transformed from the dealunited.com privacy policy that was archived on 2011-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111228070714id_/http%3A//dealunited.de/home/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealunited.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228150916id_/http%3A//dealunited.com/home/en/datenschutz) for the most accurate reproduction.*
 
-# Data Protection Policy | dealunited
+# Privacy Policy | deal united
 
-Dear deal united Customer,
+## deal united’s privacy policy
 
-Your personal information is in good hands, as deal united takes data security very seriously. We guarantee that your personal data will be handled with utmost attention to privacy and confidentiality. 
+The deal united offers available at [http://www.dealunited.com](http://www.dealunited.com/) and the related services and performances are operated by deal united GmbH as a responsible party as defined by Germany’s Federal Data Protection Act [Bundesdatenschutzgesetz].
 
-See below for an overview of our data protection policies:
+We respect the privacy of our users. We only collect, process and/or use your data in accordance with the statutory regulations, specifically the German Teleservices Act [Telemediengesetz] (TMG) and the Federal Data Protection Act (BDSG). Below is information what kind of personal data we collect and how we use it.
 
-_Collected Information_  
-We request personal information when you register at deal united or make use of the products or services listed on our website. We combine information about you with information we receive from other business partners. During the registration process, we ask you to provide us with basic information such as your name and e-mail address. For certain products or services, it is necessary for us to ask for your postal address. This is only so that a physical product/service can be delivered to you.  
-deal united automatically receives information from your browser. This includes your IP address, deal united cookie information and the page you requested. This information is used to continually improve the performance and usability of our service.
-
-_Google Analytics_  
-deal united automatically receives information from your browser. This includes your IP address, deal united cookie information and the page you requested. This information is used to continually improve the performance and usability of our service. Our website uses Google Analytics, a web analysis service provided by Google Inc. (“Google”). Google Analytics uses “cookies” and text files that are stored in your computer to enable an analysis of how our website is used. The information created through these cookies about your use of the website (including your IP-address) is transferred and stored in a Google server in the USA. Google uses this information to analyze your use of this website, generate reports on website activity for the website operators and support further services linked to the use of this website and the internet. Google may forward this information to third parties, but only when legally permitted or in the case of a third party working on Google’s behalf. Google will never connect your IP address with other Google data. You can prevent the installation of cookies by adjusting your browser settings. Should you choose to do that, however, you will not have full access to this entire website. By using this website, you are agreeing to the processing of your data as described above for the defined objectives.
+The following provisions apply exclusively to our services. They do not apply to third-party websites to which you may be directed via a link.
 
   
-_Use of Collected Information_  
-deal united uses the collected information for the following objectives: to match our advertising actions to the content you view on this website, to improve our services, to contact you, to conduct research and to produce anonymous reports for internal use and external clients.
+
+
+#### 1\. Collection of personal data
+
+We collect the personal data that you provide (name, e-mail address, address) when you accept an offer, register to our site and when you subscribe to our newsletter.
+
+Where applicable, we also create an anonymous user profile in order to customize our website and our services, as well as for advertising and marketing purposes. In so doing, we do not use any personal identifiable information (PII). At no time is this profile associated with data that can identify you as a person. If you disagree with the creation of such a profile, you can contradict at any time with future effect, so please refer to the information in section 5 below.
 
   
-_Minors_  
-This website is not targeted to children and does not aim at catching their attention. We do not want to collect information from children. Individuals under 18 years of age should not use this website without adult supervision. deal united carefully observes legal regulations regarding information from minors.
 
-_Forwarding Information to Third Parties_  
-Your personal data may be forwarded to third parties, but only in order to deliver products requested by you.
 
-deal united can access and forward personal information if there is a reasonable suspicion that this action is necessary for the following reasons: to abide by regulations or fulfill legal obligations, to protect the property and rights of deal united, to execute current deal united contracts, to protect the personal security of deal united users in urgent cases or to identify and avoid fraudulent activities. Should a merger or an acquisition by another company occur, the data will be transferred to the new company. In this case, you will be informed of our intention to transfer the information, including the reasons for doing so and any changes to the data protection policy.  
-Personal information is not accessible to the advertiser when you select or complete an offer with deal united. By interacting with an advertisement, you are agreeing that advertising companies may send targeted offers to your profile if you are part of the targeted group.
+#### 2\. The type, scope and purpose of data use
 
-_Cookies_  
-deal united is allowed to place deal united cookies on your computer and to access them later.  
-deal united allows other companies that are integrated on our website to place their own cookies on your computer and access them later. Should other companies use the cookies, their own data protection policy will apply, not that of deal united. Advertisers and other companies cannot access deal united cookies. deal united uses electronic pictures, known as Webbeacons, 1x1 pixel-gifs and other alternative technologies to access deal united cookies inside and outside of our website.
+We use your personal data to set up a user account and to process individual transactions including billing, shipping and for fraud prevention to identify suspicious transactions or computers.
+
+Should you opt-in, we will use your data for marketing activities such as for sending you our newsletters.
 
   
-_General_  
-You can always edit your deal united account information. deal united reserves the right to send you messages about deal united services, e.g.: service notifications or administrative messages regarding your account. deal united does not offer the option of unsubscribing from these messages. The German version of this data protection policy is decisive.
+
+
+#### 3\. Disclosure to third parties
+
+Your data will not be disclosed to third parties unless we are legally required to do so (e.g. at the instruction of a court of law). We reserve the right to share your data with third parties with whom we have contractual relations that process data, provide support services etc. as long as they abide by deal united’s privacy policies.
+
+Insofar as we use third-party service providers and/or subcontractors to process data on our behalf, they are contractually required to comply with the data protection laws and code of conduct detailed in this privacy policy. In particular, these service providers are prohibited from using your personal data for purposes other than the original purpose.
+
+With regards to data processing jobs by Google within the context of Google Analytics, please see paragraph 5 below.
 
   
-_Confidentiality and Security_  
-Employees are only allowed to access personal information when it is necessary for the following purposes: contacting you, preparing products or services for you or provision of services to you. To ensure adherence to these policies and to protect personal data, deal united has physical and electronic measures and protocol in place.
+
+
+#### 4\. Consent/right of withdrawal
+
+If applicable, you have granted the following consent to the collection and use of data within the context of using our services:
+
+_Please keep me informed about exclusive promotional campaigns and additional offers from deal united._ __
+
+If you choose to sign up for our newsletter, you have consented to allow deal united the right to use your PII within the context of the newsletter. You may revoke this consent at any time. If you wish to withdraw your consent, please contact us at the following e-mail address: [service@dealunited.com](mailto:service@dealunited.com). The implementation of your withdrawal of consent may require the configuration of a permanent cookie on your computer.
 
   
-_Data Protection Officer_  
-deal united is bound to all legal obligations and has a company data protection officer. Any questions for deal united regarding data protection should be sent to [service@dealunited.com](mailto:service@dealunited.com).
+
+
+#### 5\. The use of cookies, Google Analytics
+
+We use so-called cookies – small files containing configuration information – which help implement special user functions, to enable the correct display and functionality of our Internet sites, and to make the services offered possible. We also use cookies within the context of fraud protection in order to uniquely identify a computer on a long-term basis. We do not collect personal data using cookies. You always have the option of deleting cookies locally on your computer or of setting your browser so it does not accept any cookies.. Please note that if you reject all cookies, the offered functions and services may not be available.
+
+The deal united services use Google Analytics, a web analytic service provided by Google Inc. (“Google”). Google Analytics uses so-called “cookies”, text files that are stored on your computer that allow the use of the website to be analyzed. The information generated by the cookie regarding your use of the website is generally transferred to a server belonging to Google in the USA and stored there. In the event that IP anonymization has been activated on this website, your IP address will be shortened by Google within member states of the European Union and in some other parties to the agreement regarding the European Economic Area. Only in exceptional cases will your full IP address be sent to a Google server in the USA and shortened there. Google uses this information on behalf of the operators of this website in order to evaluate your use of the website, to compile reports about website activities, and to provide the operators of this website with additional services connected with website usage and Internet usage. The IP addresses transmitted from your browser within the context of Google Analytics will not be consolidated by Google with other data. You can prevent cookies from being saved to your computer using the settings in your browser. Please note that if you reject all cookies, the offered services may not be available.
+
+In addition, you can also prevent Google form collecting the data generated by the cookie pertaining to your use of our website (including your IP address) as well as the processing of this data by downloading and installing the browser plug-in available at the following link: [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout?hl=de).
 
   
-_Email Advertising_  
-We use your address and order information to send you attractive offers in our newsletter. By logging into your customer account, you can change your profile and newsletter settings. There you can subscribe/unsubscribe from our regular newsletter. You can also unsubscribe by using the link provided at the bottom of the newsletter.
+
+
+#### 6\. Information, correction, deletion or blocking of your data
+
+You have the right, at any time, to request information regarding the personal data that deal united stored about you. In addition, you may request that your data be corrected or deleted at any time. If the data falls under statutory data retention requirements, the data will be blocked from further use.
+
+For information about, correction, or deletion of your data, please contact us at [service@dealunited.com](mailto:service@dealunited.com) or by mail at
+
+deal united GmbH, Landshuter Allee 10, 80637 München, Germany
+
+**Last updated: February 2012** ****
 
   
-_Flyers, Catalogues and Other Post Advertising_  
-We use your information for marketing purposes when we believe our partners have attractive offers that might interest you. You can cancel the reception of these offers and the forwarding of your data in written form with a letter to:  
- 
 
-deal united GmbH  
-Landshuter Allee 10  
-80637 Munich  
-Germany
-
-or via e-mail at [service@dealunited.com](mailto:service@dealunited.com). After receiving your cancellation, deal united will stop sending you marketing information and will not forward your data for marketing purposes.
-
-_Contact_  
-deal united reserves the right to change this data protection policy at any time. If we change the policy, either an announcement will visible on our website or you will receive a direct notification via email.
-
-If you have questions regarding this data protection policy, please send your questions in an email to [service@dealunited.com](mailto:service@dealunited.com) or write to:
-
-deal united GmbH  
-Landshuter Allee 10  
-80637 Munich  
-Germany
