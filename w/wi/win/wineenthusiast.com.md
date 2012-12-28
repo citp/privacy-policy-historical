@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wineenthusiast.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630103511id_/http%3A//www.wineenthusiast.com/services/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wineenthusiast.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228222110id_/http%3A//www.wineenthusiast.com/services/privacy.asp) for the most accurate reproduction.*
 
 # Wine Accessories, Wine Gifts, Wine Cellars, Wine Racks & Wine Glasses - Wine Enthusiast
 
