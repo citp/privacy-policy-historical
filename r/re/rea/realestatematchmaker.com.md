@@ -1,86 +1,63 @@
-> *The following text is extracted and transformed from the realestatematchmaker.com privacy policy that was archived on 2005-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050430071946id_/http%3A//www.realestatematchmaker.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestatematchmaker.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228153746id_/http%3A//freedomsoft.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy realestatematchmaker.com
+# Privacy Policy
 
-Our foremost concern is to protect your privacy and provide a safe online experience for everyone. This privacy policy concerns the information collected through the realestatematchmaker.com website. It is designed to help visitors understand what kind of information we collect from our sites, and how we deal with this information once we gather it.
+PRIVACY POLICY
 
-The purpose behind the collection of information is to make our services easier to use and also to provide a more satisfying user experience and establish a personalized relationship with the users. We have adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships
+Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
 
-From time to time, realestatematchmaker.com may inform you about new products or services, which may affect this policy. We expect that this policy will be updated in the future. These updates and any other privacy conditions related to these services will be posted on this page without notification. However, the effective date of the Privacy Policy will always be posted. 
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
 
-**The information we collect  
-**
+**Personal Information Our Company Collects and How It Is Used**
 
-While surfing on the net you could possibly register with one or several sites affiliated with our site, order a product or a service, express via an online posting or letter to the editor, your opinion about a subject, participate in sweepstakes or other promotions or request free stuff or simply participate in one of many online forums. 
+Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below. 
 
-In the process of filling these orders, or facilitating your participation, we have the right to collect information about you including your name, email address, gender, personal interests, occupation and in some cases your postal mailing address. We may also collect personal information from you through your use of survey and feedback forms and every time you email us your details.
+Registration:  Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. 
 
-Sometimes, you may submit information about a friend of yours or a member of your family like emails, names, and telephone numbers or whatever to send a greeting card or to invite this person to share information with you. 
+ However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. 
 
-Following registration, we will employ a registration cookie to recognize a subscriber and his or her access privileges on our website(s). This information is also used to monitor site usage. We can also log from your browser the sites you visit, your internet service provider and your IP Address (the location of your computer on the internet.)
+In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services. 
 
-**How we use the information**  
+Our Company Partners and Sponsors:  Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature. 
 
+Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. Our company may share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered. 
 
-Our mission is to improve our most popular services and promote the unfamiliar ones. As we aim to establish a personalized relationship with you, the information we collect about you is used to communicate with you. We can also contact you to notify you when you have won one of our contests or to express our appreciation for your registration with us.
+Online Shopping:  At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. 
 
-We use your email to send you newsletters, promotional offers and surveys, your address to mail gifts and sweepstakes offered to you, and your phone number to notify winners who have not responded to our e-mails.
+If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so. 
 
-Sometimes, you provide information about other people. We use this information to send them your gifts or cards. We may as well offer them products, programs, or services. Our members, who need to verify and update their own information, may have access to it, but they cannot view other members' information.
+If you order services or products directly from our company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-In fact, the personal information we get from our clients is meant to be analyzed in order to improve our site's design and content. We eventually can implement the statistical analyses of the user behaviour to measure his relative interest in the multiple site areas.
+Online Advertisements:  Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. 
 
-As far as advertising is concerned, the use of information about you will help us to target banner and box advertising on the site and so to inform advertisers how many users have viewed their advertisements.
+Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies.
 
-Accordingly, the information you purposely provide us with will facilitate research and give anonymous direct and indirect reporting for internal and external clients. However, we may disclose personally identifiable information in response to legal process, for example, in response to a court order or to a law enforcement agency's request.
+Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party. 
 
-We cannot guarantee that personally identifiable information that we collect about you will never be disclosed despite our appropriate measures to safeguard against unauthorized disclosures of information.  
-Occasionally, the information that we receive online will reinforce our marketing strategy about products and services that you are interested in.
+Voluntary Customer Surveys:  We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. 
 
-**Collection of information by third -party sites and sponsors  
-**
+We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-Sometimes, we make use of the services of external companies like data processors who will not reveal personal details to any other organizations or to use your data for any other additional purposes
+Special Cases:  It is our company's policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. 
 
-From time to time, we will present the opportunity to choose offers from the third parties, which do not belong to us. Once you accept these offers, we will transfer your information to the third parties under permission. However, you must take into consideration that our privacy policies may differ from those of a third party.
+However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members. 
 
-In addition, our users are free to send articles or links by E-mail to other parties. We cannot keep any email address of either the sender or the recipient unless you are a member of our site.
+"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. 
 
-**Cookies**  
+If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies. 
 
+Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
 
-Cookies are a standard Internet technology that allows us to track the site's traffic. Cookies are a small files stored by the browser program on your computer's hard drive. Cookies cannot provide us your e-mail address or other personally identifiable information about you unless you register at one of our sites. By doing so, it would be possible for Cookies to identify registered users without any need to ask for registration details every time you access one of our sites. The use of cookies makes our system more efficient since we realize how to improve the content and the marketing of our site.   
-You are able to accept or refuse cookies by changing your browser settings. Our web sites can be seen even if you do choose to block the cookie function on your browser. Member area cookies are also used to define valid members, to save access to their particular member information and to improve their experience on the site. 
+Our Company Commitment to Children's Privacy. Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
 
-**Links**  
+YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO. 
 
+Public Forums:  Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. 
 
-Our web site may link you to other sites that have their own privacy policy that we are not responsible for. In this case, we are inviting our visitors to read carefully the privacy policy of each site, which they are linked to.
+Our Company's Commitment to Data Security:  Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
 
-**Confidentiality and security**  
+Where to Direct Questions About Our Privacy Policy:  If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. 
 
+Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
 
-In order to assure you an appropriate amount of security and to protect the information we collect from you, we are equipped with physical, electronic, and managerial procedures to safeguard and help to prevent unauthorized access, maintain data security, and correctly use the information we collect online.  
-However, although we take all the possible measures to protect our websites and all information about our clients, we want you to know that no Internet data transmission can completely be secure from access by unintended recipients. Thus, you use our site at your own risk.
-
-Your personal information will be exposed only to employees whom we reasonably believe will be able to provide products or services for you. This is restriction is limited to their proper duty. We can not be responsible for any unlawful activity participated in by one or more of our employees.
-
- **How you can access or correct information:**  
-You have the right to review, correct or change any personal information you have provided. You may also request that we remove your name from our mailing list. However, to protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. You can also unsubscribe from any newsletters or opt out of various promotional emailing at any time you want.
-
-**Children's privacy**  
-
-
-We do not collect personal information about children under the age of 13. However, only in some serious exceptions a 13 years old child can enter the site and registered on line but we will not contact him directly about special offers or marketing purposes.   
-In addition, if a child -under the age of 13- submits personal information without the permission of his parents to this Web site, we will automatically delete the information as soon as we discover it and do not use it for any other purpose.   
-We advise parents to control their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet. They can also choose in which activities he or she would like the child to participate. 
-
-**Changes to this privacy policy**  
-
-
-To maintain the highest protection for our users and to comply with a changing environment, we may, from time to time, make changes to this policy. We recommend that you should re-visit this privacy policy occasionally to learn of new privacy practices or changes to our policy.
-
-**How to contact us:**  
-
-
-It is important to us to know what visitors have to say about our services, and our policies. If you have any questions about our privacy, policy please contacts us via e-mail at privacy @ realestatematchmaker.com
+© 2010 **FreedomSoft LLLP**
