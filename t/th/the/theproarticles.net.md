@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theproarticles.net privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629032450id_/http%3A//www.theproarticles.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theproarticles.net privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228035505id_/http%3A//www.theproarticles.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# TheProArticles.net privacy policy information | The Pro Articles
 
 **TheProArticles.net** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
