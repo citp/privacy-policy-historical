@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523175641id_/http%3A//www.megagames.com/privacy-statement-megagames) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228074621id_/http%3A//megagames.com/privacy-statement-megagames) for the most accurate reproduction.*
 
 # Privacy Statement for MegaGames | MegaGames
 
@@ -14,10 +14,10 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 This site uses the services of DoubleClick, Gorilla Nation, LiveGamer, Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following links:
 
-  * <http://www.doubleclick.com/privacy/>
-  * <http://www.gorillanation.com/privacy-policy>
-  * <http://www.livegamer.com/privacy_policy.pdf>
-  * <http://www.google.com/privacypolicy.html>
+  * http://www.doubleclick.com/privacy/
+  * http://www.gorillanation.com/privacy-policy
+  * http://www.livegamer.com/privacy_policy.pdf
+  * http://www.google.com/privacypolicy.html
 
 
 
@@ -45,12 +45,12 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ## Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. You can send email to: [megagames@megagames.com](mailto:megagames@megagames.com).
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. You can send email to: megagames@megagames.com.
 
 ## Data Quality/Access
 
-This site gives users the following options for changing and modifying information previously provided: You can send email to: [megagames@megagames.com](mailto:megagames@megagames.com).
+This site gives users the following options for changing and modifying information previously provided: You can send email to: megagames@megagames.com.
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [megagames@megagames.com](mailto:megagames@megagames.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: megagames@megagames.com.
