@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629195332id_/http%3A//www.ed.gov/notices/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228053306id_/http%3A//www.ed.gov/notices/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,11 +38,30 @@ We use this information for statistical analysis, to help us make our site more 
 3\. Cookies  
 
 
-On certain ED web pages, we use "cookies" to help you use our websites interactively. A cookie is a small file that a website transfers to your computer's hard disk, usually to keep track of you while you are connected to that site.
+The Office of Management and Budget [Memo M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) [ **PDF** , 106KB] allows Federal agencies to use **session and persistent cookies**.
 
-The cookies on ED web pages do not collect information about you, but only about your browser "session." The cookie makes it easier for you to use the dynamic features of these web pages, without having to provide the same information again as you move from one page to another.
+When you visit any website, its server may generate a piece of text known as a "cookie" to place on your computer. Placing cookie text allows websites to "remember" visitors' preferences, surfing patterns and behavior while they are connected.
 
-To protect your privacy, be sure to close your browser completely after you have finished conducting business with a website that uses cookies. If you are concerned about the potential use of information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies.
+The cookie makes it easier for you to use the dynamic features of Web pages. Cookies from ED.gov Web pages only collect information about your browser's visit to the site; they do not collect any personal information about you.
+
+There are two types of cookies, **single session (temporary)** , and **multi-session (persistent)**. Session cookies last only as long as your Web browser is open. Once you close your browser, the cookie disappears. Persistent cookies are stored on your computer for longer periods.
+
+**Session Cookies:** We use session cookies for technical purposes such as to enable better navigation through our site. These cookies let our server know that you are continuing a visit to our site. The OMB Memo 10-22 Guidance defines our use of session cookies as "Usage Tier 1-Single Session." The Guidance states, "This tier encompasses any use of single session web measurement and customization technologies."
+
+**Persistent Cookies:** We use persistent cookies for two reasons: 1) to enable Google Analytics to differentiate between new and returning visitors to our site, and 2) to block repeated invitations to take the ACSI survey.
+
+  1. A Google Analytics (a third-party analytics provider) persistent cookie remains on your computer between visits to ED.gov for six months. Knowing if a user visited ED.gov within the past six months tells us the difference between visitors and "unique visitors" or those who visit our website more than once during this time period). This is an industry standard and provides high-level information on the breadth of traffic to and content usage of our given digital services. It is a powerful, invaluable metric because it's the only measure that accurately calculates how many individual users visited ED.gov website in a given time. Combined with total visits, it tells a more comprehensive story about ED.gov users and their visit patterns.
+  2. We also use persistent cookies to block repeated invitations to take the ACSI (American Customer Satisfaction Index) survey. Based on your usage pattern, you may be asked if you would like to complete a customer survey (the ACSI survey) of our website. The persistent cookie is set to block repeated survey invitations, and it expires in 90 days. Simply put, if you say you don't want to participate in the survey, the cookie will remember this, and will not allow you to be asked again. We feel it is important and respectful to our users not to ask them the same question more than once. The ACSI survey is customer satisfaction survey tool used by multiple federal agencies and organizations in the private sector. We use the ACSI survey so we can compare ED.gov results to other government agencies and top commercial websites. The ACSI enables ED.gov to: measure program performance; identify targets of opportunity; efficiently leverage scarce resources; obtain valuable feedback from our users; focus management's attention on outcomes; and report customer satisfaction results.
+
+
+
+The OMB Memo 10-22 Guidance defines our use of persistent cookies as "Usage Tier 2-Multi-session without Personally Identifiable Information (PII)." The Guidance states, "This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected."
+
+If you do not wish to have session or persistent cookies stored on your machine, [you can opt out or disable cookies](http://www.usa.gov/optout_instructions.shtml) in your browser. You will still have access to all information and resources at Department websites. However, turning off cookies may affect the functioning of some Department websites. Be aware that disabling cookies in your browser will affect cookie usage at all other websites you visit as well.
+
+ED.gov uses a third-party analytics provider (Google Analytics) to analyze the data collected through the session and persistent metrics cookies. The third-party analytics provider does not receive personally identifiable information through these cookies and does not combine, match, or cross-reference ED.gov information with any other information. Please review [the third-party analytics provider's privacy policy](http://www.google.com/intl/en/analytics/privacyoverview.html) for additional information.
+
+Pursuant OMB Memo 10-22 Guidance Attachment III, V, these cookies collect information similar to that automatically received and stored on the servers hosting ED.gov; they do not collect personally identifiable information. ED.gov does not access or store the raw information collected through these cookies. We do view aggregate statistical analyses prepared by our third-party analytics provider, but these analyses do not include any personally identifiable information. We do not sell, rent, exchange, or otherwise disclose this information to persons or organizations.
 
  TOP
 
@@ -90,3 +109,5 @@ If you have questions about this policy, please contact [webmaster@ed.gov](mailt
 
   
 
+
+Last Modified: 11/27/2012 
