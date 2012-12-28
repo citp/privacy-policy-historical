@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lulztruck.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629043620id_/http%3A//www.lulztruck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lulztruck.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228043020id_/http%3A//www.lulztruck.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lulz Truck
+# Privacy Policy » Lulz Truck
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at mail.lulztruck{at}gmail.com
 
