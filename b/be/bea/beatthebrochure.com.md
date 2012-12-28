@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatthebrochure.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504024606id_/http%3A//www.beatthebrochure.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatthebrochure.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228184835id_/http%3A//www.beatthebrochure.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Cheap Holidays, Package Holidays, City Breaks, All Inclusive Holidays
 
@@ -83,10 +83,7 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 We may also notify you of changes to our privacy policy by email. 
 
-**(8) Your Rights**   
-You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00). 
-
-You may instruct us not to process your personal data for marketing purposes by email at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.) 
+**(8)** You may instruct us to provide you with any personal information we hold about you. If you would like to see this please ask us. We may make a small charge for providing this to you. 
 
 **(9) Third Party Websites**   
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites. 
@@ -95,11 +92,11 @@ The website contains links to other websites. We are not responsible for the pri
 Please let us know if the personal information which we hold about you needs to be corrected or updated. 
 
 **(11) Contact**   
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [**info@travelox.co.uk** ](mailto:info@travelox.co.uk)or by post to  
-**Como Street Travel Ltd, Equitable House, 1st Floor,  
-88-100 South Street, Romford, Essex, RM1 1RX** . 
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [**website@beatthebrochure.com** ](mailto:website@beatthebrochure.com)or by post to  
+**Scottish Provident house, 3rd Floor,  
+76-80 College Road, Harrow, HA1 1BQ**. 
 
 **(12) Data controller**   
-The data controller responsible for our website is **Como Street Travel Group**. 
+The data controller responsible for our website is **Truly Travel Limited**. 
 
 [Search >>](http://www.beatthebrochure.com/)
