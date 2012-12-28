@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allmyfaves.com privacy policy that was archived on 2012-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120610043332id_/http%3A//www.allmyfaves.com/policy/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allmyfaves.com privacy policy that was archived on 2012-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121228162835id_/http%3A//www.allmyfaves.com/policy/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 	<title>All My Faves | My Homepage</title>
@@ -14,6 +14,8 @@
 	<link href="http://img2.minifav.net/images/appleIcon.png" rel="apple-touch-icon"><base><link href="/favicon.ico" rel="shortcut icon">
 	<link href="http://img2.minifav.net/images/smlfblogo.jpg" rel="image_src">
 	<link href="http://img2.minifav.net/images/favicon.ico" rel="shortcut icon">
+	<link href="http://fonts.googleapis.com/css?family=Bevan" rel="stylesheet" type="text/css"> 
+	<link href="http://fonts.googleapis.com/css?family=Pontano+Sans" rel="stylesheet" type="text/css">
 	<link href="/css/amf-theme/jquery-ui-1.8.4.custom.css" media="screen" rel="stylesheet" type="text/css">	
 	<link rel="stylesheet" type="text/css" href="http://img2.minifav.net/css/basic.css?v3">
 	<link rel="stylesheet" type="text/css" href="http://img2.minifav.net/css/amf-theme/jquery-ui-1.8.4.custom.css">
@@ -26,7 +28,7 @@
 	_gaq.push(['_setAccount', 'UA-1189116-1']);
 	_gaq.push(['_trackPageview']);
 	
-	_gaq.push(['_setCustomVar',1,'page','http://www.allmyfaves.com/policy/privacy/',3]); 
+	_gaq.push(['_setCustomVar',1,'page','http://www.allmyfaves.com/policy/privacy',3]); 
 		_gaq.push(['_setCustomVar',2,'user','guest',2]);
 
 		(function() {
@@ -116,12 +118,12 @@ A.locationlink:hover {text-decoration: underline; color: white;}
 	
 }
 
-.divider a{
+.line-sep a{
 	padding-top: 10px;
 	border-top: 1px solid #E1DFDF;
 }
 
-.before_divider a{
+.before_line-sep a{
 	padding-bottom: 10px;
 }
 
@@ -389,6 +391,12 @@ span .ui-dialog .ui-dialog-title {
 
 
 */
+
+.ui-widget-header {
+    background: transparent;
+    border: none;
+}
+
 </style>
 </head>
 
@@ -422,7 +430,7 @@ function facebook_login() {
 	<span class="left pointer" id="countries" rel="countries_subcontent" style="background-image:url(&quot;http://img2.minifav.net/images/flags/USsmall.png&quot;);">▼</span>
 	
 		<span class="right seperate-left" style="cursor: pointer; cursor: hand;"><img alt="Connect with facebook" src="http://img2.minifav.net/images/fb_connect_short.gif" onclick="facebook_login(); _gaq.push(['_trackEvent', 'mainpage','usermenu', 'fbbutton']);"></span>
-		<span class="right seperate-left"><a href="http://www.allmyfaves.com/join/" onclick="_gaq.push(['_trackEvent', 'mainpage','usermenu', 'join']);">Join</a></span>
+		<span class="right seperate-left"><a href="http://www.allmyfaves.com/join" onclick="_gaq.push(['_trackEvent', 'mainpage','usermenu', 'join']);">Join</a></span>
 	<span class="right pointer "><a href="http://www.allmyfaves.com/login/" onclick="_gaq.push(['_trackEvent', 'mainpage','usermenu', 'login']);">Login</a></span>
 	</div>
 
@@ -650,7 +658,8 @@ All My Faves welcomes your continuous input regarding our Privacy Policy or our 
 	</ul>
 	</li>
 	<li><a onclick="_gaq.push(['_trackEvent','mainpage','categories_subcontent','travel']);" href="http://travel.allmyfaves.com/">Travel</a></li>
-	<!--<li><a onclick="_gaq.push(['_trackEvent','mainpage','categories_subcontent','video']);" href="http://video./"></a></li>-->
+	<br><br>
+	<li><a onclick="_gaq.push(['_trackEvent','mainpage','categories_subcontent','Holidays']);" href="http://holidays.allmyfaves.com/"><span style="color:red">Happy </span><span style="color:green">Holidays</span></a></li>
 </ul>
 <ul class="left">
 	<li><a onclick="_gaq.push(['_trackEvent','mainpage','categories_subcontent','titleweek']);" href="http://week.allmyfaves.com/">Weekly Faves</a>
@@ -692,22 +701,22 @@ All My Faves welcomes your continuous input regarding our Privacy Policy or our 
 <div id="user_subcontent" class="subcontent" style="position:absolute; visibility:hidden; z-index:100; width:140px; padding:0; ">
   <ul class="dropdown left">
 		<li class="userli">
-		<span><a href="http://www.allmyfaves.com/user/addinterests/">Add Interests</a></span>
+		<span><a href="http://www.allmyfaves.com/user/addinterests/" onclick="_gaq.push(['_trackEvent', 'front','usermenu', 'addinterests']);">Add Interests</a></span>
 	</li>
-	<li class="userli before_divider">
-		<span><a href="http://www.allmyfaves.com/bookmark">Fave It Button</a></span>
+	<li class="userli before_line-sep">
+		<span><a href="http://www.allmyfaves.com/bookmark" onclick="_gaq.push(['_trackEvent', 'front','usermenu', 'faveitbuttonpage']);">Fave It Button</a></span>
 	</li>	
-	<li class="userli divider">
-		<span><a href="http://www.allmyfaves.com/blog">Blog</a></span>
+	<li class="userli line-sep">
+		<span><a href="http://www.allmyfaves.com/blog" onclick="_gaq.push(['_trackEvent', 'front','usermenu', 'blog']);">Blog</a></span>
   	</li>
-	<li class="userli before_divider">
-		<span><a href="http://www.allmyfaves.com/policy/faq/">FAQ</a></span>
+	<li class="userli before_line-sep">
+		<span><a href="http://www.allmyfaves.com/policy/faq/" onclick="_gaq.push(['_trackEvent', 'front','usermenu', 'faq']);">FAQ</a></span>
   	</li>
-	<li class="userli divider">
-		<span><a href="http://www.allmyfaves.com/user/settings/" onclick="_gaq.push(['_trackEvent', 'mainpage','usermenu', 'settings']);">Settings</a></span>
+	<li class="userli line-sep">
+		<span><a href="http://www.allmyfaves.com/user/settings/" onclick="_gaq.push(['_trackEvent', 'front','usermenu', 'settings']);">Settings</a></span>
   	</li>
   	<li class="userli">
-		<span><a href="http://www.allmyfaves.com/user/logout/">Logout</a></span>
+		<span><a href="http://www.allmyfaves.com/user/logout/" onclick="_gaq.push(['_trackEvent', 'front','usermenu', 'logout']);">Logout</a></span>
 		
 	</li>
 	
@@ -721,10 +730,10 @@ All My Faves welcomes your continuous input regarding our Privacy Policy or our 
 function showHomepageDialog(){
 	if (navigator.appName=="Microsoft Internet Explorer") {
 		document.body.style.behavior='url(#default#homepage)';
-		document.body.setHomePage('http://www.allmyfaves.com/policy/privacy/');
+		document.body.setHomePage('http://www.allmyfaves.com/policy/privacy');
 	} else {
 		$("#homepage_layer").dialog("open");
-		$("#homepage_Iframe").attr("src","/index/makehomepage/?url=http://www.allmyfaves.com/policy/privacy/");
+		$("#homepage_Iframe").attr("src","/index/makehomepage/?url=http://www.allmyfaves.com/policy/privacy");
 		return false;
 	}
 }
@@ -772,7 +781,7 @@ function askserverlocation(country_code){
     });
     
 }
-	
+var $newhr = $('<hr id="seperator"/>');
 	$("#homepage_layer").dialog({
 		autoOpen: false,
 		modal: true,
@@ -785,15 +794,41 @@ function askserverlocation(country_code){
 		height: 560,
 		width: 730
 	});
+
+	$("#tabrenamedialog_layer").dialog({
+			autoOpen: false,
+			open: function() {
+				$(".ui-dialog-titlebar").append($newhr);
+	   	    	$('.ui-dialog-buttonpane').find('button:contains("Delete Tab")').addClass('delete-btn').css({'float':'left'});     	
+			}
+			
+
+		});
+
+		$(".ui-dialog-titlebar").append($newhr);
+		$(".ui-button").addClass("blue-outer-button");
+
+		$("#celldialogadvance_layer").dialog({
+			autoOpen: false,
+			open: function() {
+				
+	   	    	$('.ui-dialog-buttonpane').find('button:contains("Back")').addClass('gray-btn').css({'float':'left'});     	
+			}
+			
+
+		});
+
+		$("#dialog-confirm").next(".ui-dialog-buttonpane button").filter(function() { return $(this).text() == "Delete all items";})
+		.addClass("delete-btn");
 });
 
-function locationbar(but){
-    if(but == 1){
-		 $(location).attr('href',redirect_url4);
-	} else {
-		$("#slidedown").hide();
-    }
-    return false;
+	function locationbar(but){
+	    if(but == 1){
+			 $(location).attr('href',redirect_url4);
+		} else {
+			$("#slidedown").hide();
+	    }
+	    return false;
 }
 </script>
 <script type="text/javascript">
@@ -811,16 +846,23 @@ dropdowncontent.init("international", "right-bottom", 10, "click");
 dropdowncontent.init("user", "right-bottom", 10, "mouseover");
 dropdowncontent.init("user", "right-bottom", 10, "click");
 </script>
-<!--<script type="text/javascript">
-  var vglnk = { api_url: '//api.viglink.com/api',
-                key: '8ae51ec81803860cf699285a68f82482' };
 
-  (function(d, t) {
-    var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
-    s.src = ('https:' == document.location.protocol ? vglnk.api_url :
-             '//cdn.viglink.com/api') + '/vglnk.js';
-    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
-  }(document, 'script'));
-</script>-->
+<style>
+	.ui-widget-content .ui-state-hover{background-color: white; border-color: #B4B4B4;}
+	.ui-dialog-buttonset {width: 465px; text-align: right;}
+
+	.ui-dialog .ui-dialog-content {
+		overflow: hidden;
+}
+.ui-draggable .ui-dialog-titlebar {
+		background: transparent;
+}
+
+.ui-draggable .ui-dialog-content {
+	padding: 1em 0em 3em 0em;
+	margin-left: 10px; 
+}
+</style>
+
 
 </body></html>
