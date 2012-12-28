@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111738id_/http%3A//www.serverintellect.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203837id_/http%3A//www.serverintellect.com/terms/privacy.aspx) for the most accurate reproduction.*
 
 # Server Intellect Privacy Policy
 
@@ -72,8 +72,8 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 Server Intellect  
 Privacy Statement Personal  
-189 S Orange Ave Ste 1410  
-Orlando, FL 32801
+2603 Challenger Tech Ct. Suite 110  
+Orlando, FL 32826
 
 Server Intellect will use commercially reasonable efforts to promptly respond and resolve any problem or question.
 
