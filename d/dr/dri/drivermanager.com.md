@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the drivermanager.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621090929id_/http%3A//www.drivermanager.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivermanager.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228174616id_/http%3A//www.drivermanager.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Driver Manager | Manages Your Driver Updates.
 
 ## Privacy Policy
 
 **Effective Date: 05/21/2012**
+
+[](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=201&sealid=112)
+
+Driver Manager is certifed as a Trusted Download Program by TRUSTe signifying that the Driver Manager application has been tested TRUSTe for compliance with TRUSTe’s TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the DriverManager application, please contact us at 427 N. Tatnall St #72424, Wilmington, Delaware 19801-2230, or by email at [drivermanager@driversupport.com](mailto:drivermanager@driversupport.com) or by phone at 512.373.3518. If you are not satisfied with our response you can contact TRUSTe [**here**](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=201&sealid=112 "truste").
 
 DRIVERMANAGER.COM (“DRIVERMANAGER.COM”) privacy policy (“Privacy Policy”) covers the collection and use of personal information (“Personal Information”) that we may gather any time you interact with us, such as when you visit our Web site, purchase a DRIVERMANAGER.COM products, or when you contact our customer support or sales departments. This policy describes our data privacy practices, including what type of information is gathered, how DRIVERMANAGER.COM uses the information, and how we safeguard your Personal Information when you submit it to us at www.drivermanager.com. At DRIVERMANAGER.COM, protecting your privacy is important to us. After all, online privacy and security is what we’re all about.  **You expressly consent to the processing of your Personal Information according to this Privacy Policy.   Personal Information may be processed by DRIVERMANAGER.COM in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
 
