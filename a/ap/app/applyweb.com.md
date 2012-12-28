@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the applyweb.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630211813id_/http%3A//corp.collegenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applyweb.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228040046id_/http%3A//corp.collegenet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-(Last Updated: June 21, 2012)
+(Last Updated: September 21, 2012)
 
 ### Introduction
 
@@ -74,7 +74,7 @@ Our sites and the forms accessible using our technology are not intended to coll
 
 We may use cookies, Web beacons, or other technologies to identify users, to collect information about their preferences and history, and to customize their experiences. Our cookies contain no personal information about you. We use cookies to prevent you from having to repeatedly enter your login information, to save college and scholarship searches temporarily, to administer our Web sites and help us understand how visitors use them, and to improve our Web sites and related products and services. 
 
-We may use third parties, including network advertisers and other third party ad servers, to deliver ads to you. These third party ad servers may use cookies, Web beacons, or other technology to collect information about your visits to our Sites and may use that information to present advertisements that may be of interest to you (including while you are no longer on our Sites). This Statement does not apply to, and we are not responsible for, cookies, Web beacons, or similar technologies in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. 
+We may use third parties, including network advertisers and other third party ad servers, to deliver ads or other functionality to you. These third parties may use cookies, Web beacons, or other technology to collect information about your visits to our Sites and may use that information to present news and advertisements that may be of interest to you (including while you are no longer on our Sites) or to integrate with social networking sites. This Statement does not apply to, and we are not responsible for, cookies, Web beacons, or similar technologies in third party services, and we encourage you to check the privacy policies of such third parties to learn about their use of cookies and other technology. 
 
 You may refuse to accept cookies by following the procedures specific to your Web browser. If you do so, your browser may react strangely and you may not be able to complete, save, or submit a form or use some services on our Sites.
 
