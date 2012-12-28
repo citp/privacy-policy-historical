@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindbodyonline.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508193333id_/http%3A//www.mindbodyonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindbodyonline.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228173628id_/http%3A//www.mindbodyonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Club Management Software | Massage Clinic Software | MINDBODY
+# Privacy Policy | MINDBODY
 
 MINDBODY, Inc. respects your privacy and we appreciate your interest in our firm.
 
@@ -21,7 +21,7 @@ How is a business in Europe protected when using software that's hosted on a ser
 
 Safe Harbor was a better practice policy that resulted from the internet boom of the 1990s and the formation of the European Union. Both the US and the newly formed EU were looking for ways to regulate websites that were collecting contact information. They wanted to make sure that companies were not selling contact information to third parties, blocking individuals from updating or deleting their contact information, and a few other unscrupulous practices. The US Dept of Commerce came up with seven principles that all companies needed to comply with to qualify for the Safe Harbor List. It's the main reason websites have a privacy policy in their footer. It also allows EU businesses using websites hosted on US soil to litigate data security issues, which is incredibly important if your business is located in Europe.
 
-The seven Safe Harbor Principles that MINDBODY complies with are: 
+The seven Safe Harbor Principles that MINDBODY complies with are:
 
   * Notice
   * Choice
@@ -33,6 +33,6 @@ The seven Safe Harbor Principles that MINDBODY complies with are:
 
 
 
-[More information about Safe Harbor and the seven principles can be found here.](http://www.export.gov/safeharbor) [See MINDBODY on the US Dept of Commerce's Safe Harbor List here.](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)
+More information about Safe Harbor and the seven principles can be found [here.](http://www.export.gov/safeharbor) See MINDBODY on the [US Dept of Commerce's Safe Harbor List.](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)
 
-MINDBODY reserves the right to change our privacy policy at any time and for any reason. For more information, please [contact MINDBODY via our online contact sheet](https://www.mindbodyonline.com/contact-us-global). 
+MINDBODY reserves the right to change our privacy policy at any time and for any reason. For more information, please [contact us](https://www.mindbodyonline.com/contact-us-global).
