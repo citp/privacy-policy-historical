@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magix.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618143906id_/http%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magix.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228221944id_/http%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - MAGIX
 
@@ -49,4 +49,4 @@ Data that we collect with the aid of cookies is used for the sole purpose of cus
 
 ## Removing your data
 
-You have the right to request that all collected data that is not required by MAGIX for providing the services you have requested be deleted. Simply send a post card to MAGIX AG, Customer Care, Borsigstr. 24, 32312 Lübbecke.
+You have the right to request that all collected data that is not required by MAGIX for providing the services you have requested be deleted. Simply send a post card to MAGIX Software GmbH, Customer Care, Borsigstr. 24, 32312 Lübbecke.
