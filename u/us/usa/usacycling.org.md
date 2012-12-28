@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113028id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228222611id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
 
 # CHILDREN'S ONLINE PRIVACY PROTECTION ACT - USA Cycling
 
