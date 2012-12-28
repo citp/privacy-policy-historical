@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachwatch.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621173130id_/http%3A//www.narutospot.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachwatch.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228133433id_/http%3A//www.narutospot.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Naruto Shippuden Episodes Online Subbed and Dubbed Streaming
 
