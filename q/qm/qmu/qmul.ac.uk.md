@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113206id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203023id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
 
-# Privacy and cookies, Queen Mary, University of London
+# Privacy and cookies
 
 Jump to menu
 
@@ -45,8 +45,6 @@ We embed videos from our YouTube channels using YouTube's privacy-enhanced mode.
 ## Contact us
 
 If you have any questions or concerns please contact us: [data-protection@qmul.ac.uk](mailto:data-protection@qmul.ac.uk)
-
-[](http://www.addthis.com/bookmark.php?v=250&pub=queenmary)
 
   * Privacy and cookies 
   * [Site map](http://www.qmul.ac.uk/site/sitemap/index.html)
