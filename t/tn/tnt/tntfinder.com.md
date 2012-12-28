@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tntfinder.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613183209id_/http%3A//www.tntfinder.com/Directory/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tntfinder.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228193914id_/http%3A//tntfinder.com/Directory/Privacy.aspx) for the most accurate reproduction.*
 
 # TNTFinder.com
 
-**YOURDOMAIN.COM is owned and operated by XXXXXXXX.**
+**TNTFINDER.COM is owned and operated by TNT FINDER LIMITED.**
 
-This privacy notice discloses the privacy practices for ([www.YOURDOMAIN.COM ](http://www.yourdomain.com/)). This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy notice discloses the privacy practices for ([www.TNTFINDER.COM ](http://www.yourdomain.com/)). This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is  
 used and with whom it may be shared. 
@@ -41,7 +41,7 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at XXXXXX or via email.
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 868 222 4874 or via email.
 
  **Registration**
 
