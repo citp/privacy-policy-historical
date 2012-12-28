@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629034636id_/http%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203251id_/http%3A//www.opinionlab.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy – OpinionLab - Voice of Customer Feedback Anytime, Anywhere ™
+# privacy policy – OpinionLab - Omnichannel Digital Feedback Management - Voice of Customer Feedback Anytime, Anywhere ™
 
 General Statement for the OpinionLab Website ([http://www.opinionlab.com](http://www.opinionlab.com/)): OpinionLab, Inc. has created this statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the Website: [http://www.opinionlab.com](http://www.opinionlab.com/).
 
