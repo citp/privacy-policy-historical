@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dice.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608235608id_/http%3A//seeker.dice.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dice.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228094300id_/http%3A//seeker.dice.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.*
 
 # Career Resources
 
 We at Dice are committed to good privacy practices regarding your personal information. Your loyalty as a job seeker, customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this policy (the "Privacy Policy" or "Policy"), demonstrate our commitment to making your experience with Dice an enjoyable and satisfying one.
 
-Dice Holdings, Inc. (the parent company of Dice.com) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirementsincluding transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@dice.com](mailto:privacy@dice.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers information collected through this Web site.
+Dice Holdings, Inc. (the parent company of Dice.com) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@dice.com](mailto:privacy@dice.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers information collected through this Web site.
 
 Although we respect the privacy of all those who visit our Website and use our online services, we do collect information from our visitors, including job seekers and customers. This Privacy Policy governs your interaction with the Website and your registration for and use of our online services (collectively, the "Services"). Except as set forth within this Privacy Policy and our Terms of Use Agreement and other published guidelines, we do not release personally identifiable information about our members and visitors without their permission.
 
@@ -93,7 +93,15 @@ From time-to-time we may provide you the opportunity to participate in contests 
 
 We may use this information to notify contest winners and award prizes, to monitor Website use, to personalize the site, to send participants an email, and to measure participants' demographics, interests and opinions. We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-## E. Correcting personal information
+## E. Social Media Features
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+## F. Facebook Connect
+
+You can log in to our site using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+
+## G. Correcting personal information
 
 If you would like to have your personally identifiable information removed from Dice's database, or would like to correct an error in such information, please contact us at [privacy@dice.com](mailto:privacy@dice.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within Dice databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; if you have provided more than one email address to our service, you may continue to be contacted, unless you request to unsubscribe each email address you have provided.
 
@@ -104,7 +112,7 @@ If you would like to have your personally identifiable information removed from 
 
 
 
-## F. Changes to this Privacy Policy
+## H. Changes to this Privacy Policy
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
