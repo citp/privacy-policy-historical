@@ -1,60 +1,58 @@
-> *The following text is extracted and transformed from the questdiagnostics.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205120406id_/http%3A//www.questdiagnostics.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questdiagnostics.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228230714id_/http%3A//www.questdiagnostics.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Quest Diagnostics: Privacy Policy
+# Online Privacy Policy : Online Privacy Policy
 
-Quest Diagnostics Privacy Statement  
-Quest Diagnostics Incorporated and its wholly-owned subsidiaries ("Quest Diagnostics"), the nation's leading provider of diagnostic testing, information and services, is committed to protecting the privacy of your personal and health information. At Quest Diagnostics, we understand that health is a very personal, private subject, and we want you to feel as comfortable as possible visiting our web site and using its services. Quest Diagnostics takes this responsibility very seriously. 
+**Quest Diagnostics Online Privacy Policy**
 
-Our On-Line Privacy Policy describes what information we collect on-line, how we protect it and what choices you have about how that information is used. We urge you to read this On-Line Privacy Policy carefully so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment. Should you have any questions about this policy or our privacy practices, please send an email to [privacy@questdiagnostics.com](https://web.archive.org/brand/contactus/jsp/mail.jsp?type=35) or write to us at: 
+Quest Diagnostics and its wholly-owned subsidiaries (collectively "Quest Diagnostics") believe that privacy is important to the success and use of the Internet.  This statement sets forth Quest Diagnostics policy and describes the practices that we will follow with respect to the privacy of the information of users of this site.  Should you have any questions about this policy or our practices, please send an [**email**](https://secure.questdiagnostics.com/ViewsFlash/servlet/viewsflash?cmd=page&pollid=contactus!privacy_int) or write to us at: 
 
-Quest Diagnostics Incorporated  
-Data Privacy and Security Officer  
-One Malcolm Avenue  
-Teterboro, NJ 07608
+Quest Diagnostics   
+Attention: Privacy Officer  
+1290 Wall Street West  
+Lyndhurst, NJ 07071
 
-What Personal Information We Collect   
-Quest Diagnostics will collect information that identifies you ("personal information") on-line only when you voluntarily provide it to us through our site. For example, when you choose to register on our site, we may ask you to provide some personal information, such as your first and last name, mailing address, telephone number and/or e-mail address. We also may collect information that will allow you to establish a username and password. In addition, we may collect information that you voluntarily provide to us through responses to questionnaires, such as the QuestDirect™ Health Profile and customer satisfaction surveys. 
+You can also call us at 800-222-0446, ext. 8954.
 
-How We Use Personal Information We Collect On-Line
+**What Personal Information We Collect  
+**  
+Quest Diagnostics collects your personal information online when you voluntarily provide it to us. If you choose to register online, we ask you to provide limited personal information, such as your name, address, telephone number and/or email address. We also collect information that will allow you to establish a username and password if you would like to do that. 
 
-A) Internal Uses  
-We may use your personal information within Quest Diagnostics (1) to provide you with the services and products you request, (2) to assist with your questions about our services, billing, payment methods or use of our web site, (3) to process or collect payments made in connection with our services to you, and (4) to evaluate our services and products and to conduct customer surveys. 
+**How We Use Personal Information That We Collect Online**
 
-We also may use your information within Quest Diagnostics, with your consent, to send you information that may be of interest to you. 
+Privacy Choices
 
-Privacy Choices  
-When you register on-line for one of our QuestDirect™ services, you may be given the option of receiving periodic informational/promotional mail or email from Quest Diagnostics. You choose whether or not to receive correspondence when you provide this information or by changing your preferences within your registration profile at any time. 
+When you register online for one of our services, you must provide your consent before we will contact you by mail or email about our services.  For example, you will need to consent to receive an appointment reminder.  You may change your preferences within your registration profile at any time. 
 
-B) Disclosure of Personal Information to Third Parties  
-We will not give, sell, rent, loan or otherwise disclose any personal information to any third party, unless (1) you have authorized us to do so, (2) we are legally required to do so, for example, in response to a subpoena, court order or other legal process, and/or (3) it is necessary to do so in order to protect and defend the rights or property of this web site. For example, with your consent, we may disclose your personal information to a third-party vendor that we engage to mail your test results to you. We contractually require such third-party vendors and contractors to comply with strict standards regarding security and confidentiality. 
+Internal Uses **  
+**  
+We may use your personal information within Quest Diagnostics: (1) to provide you with the services and products you request; (2) to answer questions about our services; billing, payment methods or use of our website; (3) to process or collect payments for our services and, (4) to conduct customer surveys. 
 
-However, please be aware that if you have questions about our QuestDirect™ services or need technical assistance with our QuestDirect™ site and choose to contact us by e-mail, your e-mail will be delivered to a third party contractor we have engaged to answer these questions for you. Please exercise caution when sending sensitive information by e-mail as e-mail is not a secure means of communication. 
+Disclosure of Personal Information to Third Parties
 
-We also may share aggregate, non-personal information about web site usage with unaffiliated third parties. This aggregate information does not contain any personal information about our users. 
+We will not disclose any personal information to any third party, unless (1) you have authorized us to do so; (2) we are legally required to do so, for example, in response to a subpoena, court order or other legal process and/or, (3) it is necessary to protect our property rights related to this website. We also may share aggregate, non-personal information about website usage with unaffiliated third parties. This aggregate information does not contain any personal information about our users. 
 
-Collection, Use and Disclosure of Non-personal Information  
-Cookies  
-In order to provide better service, Quest Diagnostics may use a "cookie." Cookies are small files that your Web browser places on your computer's hard drive. We may use cookies to let us know that you are a prior customer and to retrieve certain information previously provided by you. We also may use cookies to keep track of information about your current "session" which will be discarded as soon as you log out or close your Web browser. This information also allows us to statistically monitor how many people are using our site and for what purpose. 
+**Cookie Placement**
 
-How We Protect Information Online  
-It is our policy to protect your account information against unauthorized access or release. We use the services of VeriSign and ICSA.net to verify and assist in our security measures. All the information you provide to us is handled through a Secure Socket Layer ("SSL"). SSL is a leading Web technology that encrypts your account information. If you register on-line with QuestDirect™, we use 128-bit encryption when we ask for or provide personal or confidential information. Also, some personal data, such as your password and test results, will be stored in encrypted form. As noted above, please exercise caution when sending sensitive information via e-mail, as e-mail messages do not have the security features that are built into our website. 
+Certain Quest Diagnostics websites, like many other commercial sites, may use a standard technology called "cookies" to collect information about how our site is used. Cookies were designed to help a website operator determine that a particular user had visited the site previously and thus save and remember any preferences that may have been set. We may use cookies to keep track of information about your current web browsing session which will be discarded as soon as you log out or close your web browser. This information also allows us to statistically monitor how many people are using our site and for what purpose. We may also make use of “persistent or memory based” cookies, which remain on your computer’s hard drive until you delete them. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize our services if you reject cookies.
 
-In addition, we have procedures that limit Quest Diagnostics' employees and contractors' access to personal information. Only those employees and contractors with a business reason to know have access to such information. We educate our employees about the importance of confidentiality and customer privacy through standard operating procedures, mandatory training programs, and internal policies on data privacy and corporate integrity. We take appropriate disciplinary measures to enforce employee privacy responsibilities. 
+**How We Protect Information Online  
+**  
+We exercise great care to protect your personal information. This includes, among other things, using industry standard techniques such as firewalls, encryption, and intrusion detection.   As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or receive from us. This is especially true for information you transmit to us via email since we have no way of protecting that information until it reaches us since email does not have the security features that are built into our websites. 
 
-How You Can Access Your Personal Information  
-If you register on-line for QuestDirect™ services, you may review and correct, as needed, the registration information you provide by visiting My Info at the QuestDirect™ site. 
+In addition, we limit Quest Diagnostics' employees and contractors' access to personal information. Only those employees and contractors with a business reason to know have access to this information. We educate our employees about the importance of maintaining confidentiality of customer information. 
 
-Links to Other Sites  
-We want to provide users of our site with information, services and products that are valuable to them. Featured programs and other site content within the Quest Diagnostics site may link our users to third party sites. Quest Diagnostics does not control and is not responsible for the privacy policies or practices of any third-party site. If you link to third party sites from Quest Diagnostics, we encourage you to consult the privacy policy of each site you visit. 
+We review our security arrangements from time to time as we deem appropriate.
 
-Your Consent  
-By using our web site, you consent to the collection, use and disclosure of information as described in this policy. 
+**How can you help protect your information?  
+**  
+If you are using a Quest Diagnostics website for which you registered and choose a password, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of the Quest Diagnostics website and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer.
 
-Changes to this Privacy Policy  
-We may change this privacy policy from time to time, so please check back often. We will let you know that the policy has been changed by changing the effective date at the bottom of this page. We will always let you know the information we collect, how we use it, and the circumstances under which such information may be disclosed by us. 
+**Links to Other Sites**
 
-Date: January 26, 2001 
+We want to provide site visitors valuable information, services and products. Featured programs and other site content within the Quest Diagnostics site may link our users to third party sites. Quest Diagnostics does not control and is not responsible for practices of any third-party websites. 
 
-Top of Page
+**Note**
 
-< [Back to Home Page](https://web.archive.org/index.html)
+From time to time, we may change this privacy statement. For example, as we update and improve our services, new features may require modifications to the privacy statement. Accordingly, please check back periodically.
+
+Date: March 1, 2012
