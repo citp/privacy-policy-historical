@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolfstormmedia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105222id_/http%3A//www.wolfstormmedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfstormmedia.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228223109id_/http%3A//wolfstormmedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Wolf Storm Media - Privacy Policy
 
@@ -12,13 +12,12 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways:
 
-• To personalize your experience (your information helps us to better respond to your individual needs) 
+  * To personalize your experience (your information helps us to better respond to your individual needs) 
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
 
-• To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-• To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-
-• To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
 
 ##### How do we protect your information?
 
@@ -74,14 +73,14 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 **Wolf Storm Media**
 
-1967 E Maple St North 
+3570 Executive Drive
 
-Canton, Ohio 44720 
+Suite 101
 
-United States 
+Uniontown, Ohio 44685
+
+United States
 
 [http://www.wolfstormmedia.com](http://www.wolfstormmedia.com/)
 
-[Info@wolfstormmedia.com ](mailto:Info@wolfstormmedia.com)
-
-1-888-584-9338
+[Sales@wolfstormmedia.com ](mailto:Sales@wolfstormmedia.com)
