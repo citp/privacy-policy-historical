@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnyvscurvy.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508101745id_/http%3A//www.skinnyvscurvy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnyvscurvy.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228164629id_/http%3A//www.skinnyvscurvy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skinny VS Curvy
 
@@ -9,7 +9,7 @@ If you require any more information or have any questions about our privacy poli
 At www.skinnyvscurvy.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.skinnyvscurvy.com and how it is used.
 
 Log Files  
-Like most standard Web site servers, www.skinnyvscurvy.com use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+Like most standard Web site servers, www.skinnyvscurvy.com use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track userâ€™s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 Cookies and Web Beacons
 
@@ -19,6 +19,6 @@ These third-party ad servers or ad networks use technology to send, directly to 
 
 www.skinnyvscurvy.com has no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. www.skinnyvscurvy.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. www.skinnyvscurvy.comâ€™s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsersâ€™ respective websites.
