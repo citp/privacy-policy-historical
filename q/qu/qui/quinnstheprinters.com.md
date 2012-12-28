@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quinnstheprinters.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112015id_/http%3A//www.quinnstheprinters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quinnstheprinters.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228202830id_/http%3A//www.quinnstheprinters.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Quinnstheprinters Ireland | Quality Printing & Discount Printing UK | Offset Printing UK
 
