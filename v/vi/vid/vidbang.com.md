@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vidbang.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529175033id_/http%3A//www.vidbang.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidbang.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228010951id_/http%3A//www.vidbang.com/privacy_policy.html) for the most accurate reproduction.*
 
 # vidbang's Privacy Policy Statement
 
 This is the web site of **vidbang**. 
 
-We can be reached via e-mail by using the [Contact Us](https://web.archive.org/web/20120529175033id_/http%3A//www.vidbang.com/contact_us.php) form.
+We can be reached via e-mail by using the [Contact Us](https://web.archive.org/web/20121228010951id_/http%3A//www.vidbang.com/contact_us.php) form.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
