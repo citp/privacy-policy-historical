@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunrisesunset.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112827id_/http%3A//www.sunrisesunset.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrisesunset.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228230405id_/http%3A//www.sunrisesunset.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for SunriseSunset.com
 
@@ -20,8 +20,20 @@ This site will use cookies to store some personal preferences, such as your pref
 Cookies store their data on your computer. This data is transmitted to the site while browsing. This site does not record, collect or store that data. 
 
 Cookies & Advertising  
-Third party vendors, including Google, use cookies to serve ads based on your prior visits to this site and other web sites on the Internet. 
+Third party vendors, including Google and others, use cookies to serve ads based on your prior visits to this site and other web sites on the Internet. 
 
-Google's use of the DART cookie enables it and its partners to serve ads based on visits to this site and/or other sites on the Internet. 
+  * **Google**  
+Google's use of the DART cookie enables it and its partners to serve ads based on visits to this site and/or other sites on the Internet. Users may opt out of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html "Google.com Advertising opt-out page").   
+ 
 
-Users may opt out of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html "Google.com Advertising opt-out page"). 
+
+
+You can also set some privacy settings on these sites: 
+
+  * [IAB opt-out platform](http://youronlinechoices.eu/)
+  * [Network Advertising Initiative opt-out platform](http://www.networkadvertising.org/managing/opt_out.asp)
+  * [Digital Advertising Alliance platform](http://www.aboutads.info/choices/)
+
+
+
+These provide options to express choices for all companies that are registered on that platform. 
