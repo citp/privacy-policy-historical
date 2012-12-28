@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joyfort.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616025613id_/http%3A//www.joyfort.com/article-176-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyfort.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228032934id_/http%3A//www.joyfort.com/article-176-1.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY-Free to Play,Strategy Game,Free Online Role Playing Game
+# PRIVACY POLICY-Best Strategy Games Waiting for you!
 
 **Last updated:** Jan. 20, 2011
 
