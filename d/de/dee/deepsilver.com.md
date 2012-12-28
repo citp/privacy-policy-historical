@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepsilver.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511163302id_/http%3A//www.deepsilver.com/en/footer/terms-of-use-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepsilver.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228074052id_/http%3A//www.deepsilver.com/en/footer/terms-of-use-privacy-statement) for the most accurate reproduction.*
 
 # Terms of use - Footer - Deep Silver
 
@@ -59,10 +59,10 @@ Non-liability for online partner services**
 We remind you that in various technical areas we work with external partners who also offer Internet sites and services accessible from our sites. These partners generally have their own data protection guidelines. We assume no responsibility or liability for such declarations or activities that take place at other sites.
 
  **Right of withdrawal**  
-You may delete data that you have entrusted with us at any time. Please send an e-mail requesting deletion of your account data to a.savchenko(at)kochmedia.com. We remind you that the remonstrance of certain data for certain periods of time is stipulated by commercial and taxation laws. These data may only be deleted following legally stipulated time periods. 
+You may delete data that you have entrusted with us at any time. Please send an e-mail requesting deletion of your account data to l.zhang(at)kochmedia.com. We remind you that the remonstrance of certain data for certain periods of time is stipulated by commercial and taxation laws. These data may only be deleted following legally stipulated time periods. 
 
 **Modification of the Privacy Policy**  
 Koch Media reserves the right to modify the Privacy Policy at any time in accordance with applicable privacy policies. Such modifications may take place without express, written notice to users. Current regulations may be reviewed any time here at  [**www.deepsilver.com**](http://www.deepsilver.com/ "Deep Silver Homepage"). Please visit this page frequently. 
 
 **Questions and comments**  
-For questions, concerns, or comments on the topic of data protection, please contact Koch Media GmbH data protection representative Alex Savchenko at a.savchenko(at)kochmedia.com.
+For questions, concerns, or comments on the topic of data protection, please contact Koch Media GmbH data protection representative Liang Zhang at l.zhang(at)kochmedia.com.
