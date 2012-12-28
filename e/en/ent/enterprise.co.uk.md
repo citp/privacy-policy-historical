@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterprise.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625081046id_/http%3A//www.enterprise.co.uk/car_rental/redirect.do%3FglobalForward%3DexternalPrivacyPolicyForUK%26transactionId%3DWebTransaction4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprise.co.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228132411id_/http%3A//www.enterprise.co.uk/about/privacy_policy_UK_IE.html) for the most accurate reproduction.*
 
 # Rent a car here - The Enterprise Rent-A-Car Online Reservation System
 
@@ -54,7 +54,7 @@ We may use cookies to analyze the traffic on our Web site or Mobile site (such a
 
 We may also use pixel tags (also known as “clear gifs,” “Web beacons” or “1-by-1gifs”) on our Web site and in our advertisements. We may work with our Affiliates (companies related to us) and our service providers to help us track, collect and analyze this information. Pixel tags may be used to collect a variety of information about your visit to our Web site, including the pages you view, the features you use, the links you click and other actions you take, all of which may be combined with other information we have collected from you. We use this information to enhance the effectiveness of our Web site, to compile aggregate usage statistics, to determine if errors are being encountered on the Web site and for other internal business purposes. _Not all of our sites have these capabilities, but we provide you the following choices as to whether or not you wish to have your data used for these purposes:_
 
-  * To opt-out of this feature when using our rental sites, please [click here](http://www.coremetrics.com/company/privacy.php#optout). An opt-out cookie will be set, blocking our analytics service provider from collecting your data.
+  * To opt-out of this feature when using our rental sites, for enterprise.co.uk please [click here](http://www.enterprise.com/about/privacyPopUp_uk_en.html). For enterprise.ie please [click here](http://www.enterprise.com/about/privacyPopUp_ie_en.html). An opt-out cookie will be set, blocking our analytics service provider from collecting your data.
   * To opt-out of this feature for our other business units, please [click here](http://tools.google.com/dlpage/gaoptout).
 
 
@@ -117,7 +117,7 @@ To opt out of receiving further promotional communications from our third party 
 
 **CORRECTING OR CHANGING YOUR INFORMATION/CONTACTING ENTERPRISE**
 
-We are very concerned about the accuracy, currency and completeness of the information we collect and make efforts we deem appropriate to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this policy, if you wish to review, amend, correct, update or delete personally identifiable information we have collected about you online contact us at the information provided below. Please also contact us if you have any questions about privacy on our Web site or Mobile site. You may contact us via email at [customerservice@erac.com](https://web.archive.org/web/20120625081046id_/http://www.enterprise.co.uk/about/customerservice@erac.com), and we will attend to your request and make any necessary revisions. If you prefer, country specific contact information is listed below. We will respond to your access request within 30 days.
+We are very concerned about the accuracy, currency and completeness of the information we collect and make efforts we deem appropriate to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this policy, if you wish to review, amend, correct, update or delete personally identifiable information we have collected about you online contact us at the information provided below. Please also contact us if you have any questions about privacy on our Web site or Mobile site. You may contact us via email at [customerservice@erac.com](https://web.archive.org/web/20121228132411id_/http%3A//www.enterprise.co.uk/about/customerservice@erac.com), and we will attend to your request and make any necessary revisions. If you prefer, country specific contact information is listed below. We will respond to your access request within 30 days.
 
 We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
 
