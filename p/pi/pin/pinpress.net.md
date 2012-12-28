@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pinpress.net privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504020635id_/http%3A//pinpress.net/Privacy-Policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpress.net privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228204246id_/http%3A//pinpress.net/Privacy-Policy-1) for the most accurate reproduction.*
 
 # Privacy Policy - Your personal standalone pinboard.
+
+Privacy Policy
 
 PinPress  values the privacy and security of the information that you share with us through www.PinPress .com (the “Web Site”). It is important that you understand how we collect, use, and maintain your information. This Privacy Policy explains our online information practices, the choices you may make about how we collect and use your information at this Web Site, and the ways you may contact us.
 
