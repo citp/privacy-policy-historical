@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itsaboutiphone.co.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628180525id_/http%3A//www.itsaboutiphone.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsaboutiphone.co.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228210032id_/http%3A//www.itsaboutiphone.co.uk/privacy) for the most accurate reproduction.*
 
-# privacy | Apple iPhone Blog | iPhone Applications
+# privacy « iPhone Application Reviews | iPhone Latest News | iPhone Latest Reviews | iPhone Accessories
 
 We care about your privacy, this is why itsaboutiphone.co.uk has its comprehensive privacy policy aimed at securing the information you share. We appreciate and regard your trust in us. Kindly go through the below section which describes our privacy policy in detail.
 
@@ -58,6 +58,5 @@ You agree that you have read the privacy policy of itsaboutiphone.co.uk and agre
 
 In regard to notices and general concerns you can always send your queries to [privacy@itsaboutiphone.co.uk](mailto:privacy@itsaboutiphone.co.uk)
 
-Popularity: unranked
 
-No related posts.
+
