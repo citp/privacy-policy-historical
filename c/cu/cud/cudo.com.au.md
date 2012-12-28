@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620053828id_/http%3A//cudo.com.au/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228171448id_/http%3A//cudo.com.au/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,28 +33,30 @@ Sometimes CUDO may be provided with personal information about an individual fro
 
 In general, the type of personal information CUDO collects and holds could include (but is not limited to) name, address (postal and email), contact details, geographic location, gender, transaction details relating to your use of CUDO’s products and services and any preferences you tell us about.
 
-We may collect your personal information over the internet (including when you create an Account), over the phone, when you write to us or when you participate in a survey, questionnaire, competition or other marketing campaign. 
+We may collect your personal information over the internet (including when you create an Account), over the phone, when you write to us or when you participate in a survey, questionnaire, competition or other marketing campaign.
 
-**How CUDO uses Personal Information  
-**  
-CUDO may use your personal information for a variety of purposes in connection with providing you with Coupons (and information on opportunities to purchase Coupons), CUDO’s products and services and special offers available to CUDO members. 
+**How CUDO uses Personal Information**
+
+CUDO may use your personal information for a variety of purposes in connection with providing you with Coupons (and information on opportunities to purchase Coupons), CUDO’s products and services and special offers available to CUDO members.
 
 In general, CUDO uses personal information for the following purposes:
 
-• to provide offers to persons who register an Account to receive information on opportunities to purchase CUDO Coupons ;   
-• to provide other products or services which are requested from CUDO, including advertising services;   
-• to process and administer our dealings with you;   
-• to develop processes, products and services to better meet your needs;   
-• to help CUDO manage and enhance its products and services and the opportunities to purchase CUDO Coupons;   
-• to communicate with online users of opportunities to purchase CUDO Coupons   
-• to provide people with ongoing information and advertising about CUDO's products and services in which they may have an interest; and   
-• unless requested not to, CUDO may provide your personal information to third parties which may in turn provide your personal information to other third parties for marketing purposes. 
+• to provide offers to persons who register an Account to receive information on opportunities to purchase CUDO Coupons ;  
+• to provide other products or services which are requested from CUDO, including advertising services;  
+• to process and administer our dealings with you;  
+• to develop processes, products and services to better meet your needs;  
+• to help CUDO manage and enhance its products and services and the opportunities to purchase CUDO Coupons;  
+• unless requested not to, to communicate with you regarding opportunities to purchase Vouchers for products and services promoted by us via the Getaway Lounge website (www.getawaylounge,com.au);  
+• to communicate with online users of opportunities to purchase CUDO Coupons  
+• unless requested not to, to send you marketing materials which promote the goods or services of a third party (including by way of electronic direct marketing activities)  
+• to provide people with ongoing information and advertising about CUDO's products and services in which they may have an interest; and  
+• unless requested not to, CUDO may provide your personal information to third parties for marketing purposes.
 
 In many cases where CUDO asks you to provide CUDO with personal information, if you do not provide CUDO with that personal information CUDO will not be able to provide you with the relevant product or service.
 
-If you have opted in to receive newsletters, communications or special offers from CUDO you may, in some circumstances, also receive newsletters, communications or special offers from the third party (including the Merchant) providing the Deal. You can change your preference to receive communications from CUDO re opportunities to purchase CUDO Coupons or CUDO Newsletters at any time. If you are contacted by a third party, that third party’s opt out of receiving further communications will be governed by their privacy policy.
+If you have opted in to receive newsletters, communications or special offers from CUDO you may, in some circumstances, also receive newsletters, communications or special offers from the third party (including the Merchant) providing the Deal. You can change your preference to receive communications from CUDO re opportunities to purchase CUDO Coupons or CUDO Newsletters at any time. If you are contacted by a third party, that third party’s opt out of receiving further communications will be governed by their privacy policy.  
 
-**Secure Online Transactions  
+  **Secure Online Transactions  
 **  
 If you purchase a Coupon through our website, we process your credit card details securely over the Internet using eWAY’s bank-grade data centre (eWAY is an accredited Internet payment security system authorised as a third party processor for all major Australian banks). With the combination of transaction performed under 128 Bit SSL Certificate on our website and a secure browser at your end, we take all measures to ensure that your credit card and anonymity are protected when you purchase online.
 
