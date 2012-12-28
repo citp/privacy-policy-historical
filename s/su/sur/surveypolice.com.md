@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111733id_/http%3A//www.surveypolice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228202805id_/http%3A//www.surveypolice.com/privacy-policy) for the most accurate reproduction.*
 
 # Survey Police - Privacy Policy
 
-EFFECTIVE DATE: August 16, 2011
+Effective Date: August 22, 2012 
 
-This privacy policy (“Privacy Policy”) describes how information is collected and used on [www.surveypolice.com](https://web.archive.org/) (the “Web Site”). Your visit to the Web Site constitutes your acceptance of this Privacy Policy.
-
-## Information Collected
+This privacy policy ("Privacy Policy") describes how information is collected and used on [www.surveypolice.com](http://www.surveypolice.com/) (the "Web Site"). Your visit to the Web Site constitutes your acceptance of this Privacy Policy. Information Collected
 
 You may visit the Web Site anonymously. Personal information is not collected about you on the Web Site unless you voluntarily submit it.
 
-Anonymous aggregate information about your visit to the Web Site may be collected via a “cookie.” A cookie is a piece of computer code that records information such as pages visited and referring Web Sites. You may set the settings on your internet browser to reject the use of cookies. We caution however that by doing so the Web Site may lose some of its functionality.
+Anonymous aggregate information about your visit to the Web Site may be collected via a "cookie." A cookie is a piece of computer code that records information such as pages visited and referring Web Sites. You may set the settings on your internet browser to reject the use of cookies. We caution however that by doing so the Web Site may lose some of its functionality.
 
 We offer other services via the Web Site that require the submission of personal information to participate. The information required may include name, date of birth, country of residence, or email address.
 
@@ -18,13 +16,9 @@ We offer other services via the Web Site that require the submission of personal
 
 To become a member of this website requires that you register and supply personally identifiable information including your name, date of birth, country of residence, e-mail address and other information, which is stored by SurveyPolice.com.
 
-The information you provide to us through this website is used by SurveyPolice.com to operate this website and provide you with the information you request and to possibly communicate with you. We may, for example, use the information you provide to us to target ads or send e-mails to you including opt-in newsletters and website alerts. Your information may also be used to contact you if necessary, such as in the case of assisting you with usage of this website or by using our complaints feature on our website. You may opt-out of receiving our newsletter at any time.
+The information you provide to us through this website is used by SurveyPolice.com to operate this website and provide you with the information you request and to possibly communicate with you. We may, for example, use the information you provide to us to target ads or send e-mails to you including opt-in newsletters and website alerts. Your information may also be used to contact you if necessary, such as in the case of assisting you with usage of this website or regarding a comment or Website Forum post you may have made. You may opt-out of receiving our newsletter at any time.
 
-Members of this website have the option of providing ratings, making comments, or filing complaints. Your ratings, comments and complaints are made publicly viewable and your first name may be published along with your rating, comment, or complaint. SurveyPolice.com may also choose to edit your comments or complaints for things including but not limited to grammar, spelling, and search engine keyword strategies, which will be made publicly viewable on this website. 
-
-We use anonymous data collected from the Web Site to improve the content, layout and usability of the Web Site.
-
-We use the personal information you submit to provide you with the services affiliated with the Web Site.
+Members of this website have the option of providing ratings, making comments, or accessing the Website Forum. Your ratings, comments and Website Forum posts are made publicly viewable and your first name may be published along with your rating and comment. SurveyPolice.com may also choose to edit your comments or Website Forum posts for things including but not limited to grammar, spelling, and search engine keywords, which will be made publicly viewable on this website. We use anonymous data collected from the Web Site to improve the content, layout and usability of the Web Site. We use the personal information you submit to provide you with the services affiliated with the Web Site.
 
 We may share your information as may be required to comply with the law or a court order. We may also share this information in cooperation with law-enforcement or other government agencies in connection with a criminal investigation, fraud prevention or other legal action that may be necessary to protect the Web Site, its users, or the public.
 
@@ -38,7 +32,7 @@ You may discontinue receipt of the electronic newsletters or other e-mail commun
 
 As part of the services offered on the Web Site, you may access third-party Web Sites via hyperlinks. The privacy policies of those parties are likely to differ from this one. We recommend that you review the policies posted on those web sites before submitting any personal information.
 
-If you receive e-mails from our partners it is because you have opted to agree to receive additional information during the registration process for becoming a Member of this website, please note that these e-mails do not originate from SurveyPolice.com or F.I.S. Inc. Please visit the website of [Opt-Intelligence](http://www.opt-intelligence.com/) for more information on who is handling your information when you "opt-in" to these offers.
+If you receive e-mails from our partners it is because you have opted to agree to receive additional information during the registration process for becoming a Member of this website, please note that these e-mails do not originate from SurveyPolice.com or Affility Media Inc. Please visit the website of [Opt-Intelligence](http://www.opt-intelligence.com/) for more information on who is handling your information when you "opt-in" to these offers.
 
 ## Changes to this Privacy Policy
 
@@ -50,4 +44,4 @@ We take great efforts to provide security for your information. However, no syst
 
 ## Questions
 
-If you have any questions regarding how your information is collected or used on the Web Site, please send us an email at: [webmaster@surveypolice.com](mailto:webmaster@surveypolice.com).
+If you have any questions regarding how your information is collected or used on the Web Site, please send us an email at: [webmaster@surveypolice.com](mailto:webmaster@surveypolice.com). 
