@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arwu.org privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529040253id_/http%3A//www.arwu.org/PrivacyStatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arwu.org privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228055428id_/http%3A//www.arwu.org/PrivacyStatement.jsp) for the most accurate reproduction.*
 
-# |Privacy Policy
+# Privacy Policy
 
 ARWU.ORG respects the privacy of its users/visitors and is committed to protect it in all respects. This Privacy Policy may be amended from time to time to incorporate necessary future changes. Changes in this Privacy Policy will become effective when those changes are posted on the site. Please review this statement periodically to ensure that you are happy with any modifications. This Privacy Policy was last updated on 31th October 2010.
 
@@ -32,4 +32,4 @@ We will continue to invest in high-quality security and do our utmost to protect
 
 ### Contacting the ARWU.ORG
 
-If you have any questions or comments about this Privacy Policy or any other aspects of this Web site, please contact us via email at [shanghairanking@gmail.com](mailto:shanghairanking@gmail.com).
+If you have any questions or comments about this Privacy Policy or any other aspects of this Web site, please contact us via email at [contact@shanghairanking.com](mailto:contact@shanghairanking.com).
