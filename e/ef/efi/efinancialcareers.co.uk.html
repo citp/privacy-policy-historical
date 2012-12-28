@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the efinancialcareers.co.uk privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625155322id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the efinancialcareers.co.uk privacy policy that was archived on 2012-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121228123241id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<!-- cfusion-Web2 [production] {ts '2012-06-25 16:53:22'} cfusion --> 
+		<!-- cfusion-Web4 [production] {ts '2012-12-28 12:32:39'} cfusion --> 
 		<!-- %revision% -->
 		
 		
@@ -20,13 +20,13 @@
 		<script type="text/javascript" src="http://static.efinancialcareers.co.uk/assets/js/lib/modernizr-2.0.4.js"></script>	
 		
 		
-		<link href="http://static.efinancialcareers.co.uk/assets/css/v2/globals/efcLevel1LayoutStyles.css?r=20110821" rel="stylesheet" type="text/css">
+		<link href="http://static.efinancialcareers.co.uk/assets/css/v2/globals/efcLevel1LayoutStyles.css?r=20121210" rel="stylesheet" type="text/css">
 		<link href="http://static.efinancialcareers.co.uk/assets/css/v2/globals/efcLevel2LayoutStyles.css" rel="stylesheet" type="text/css">
-		<link href="http://static.efinancialcareers.co.uk/assets/css/v2/globals/efcGlobalStyling.css?r=20110821" rel="stylesheet" type="text/css">
+		<link href="http://static.efinancialcareers.co.uk/assets/css/v2/globals/efcGlobalStyling.css?r=20121210" rel="stylesheet" type="text/css">
 		<link href="http://static.efinancialcareers.co.uk/assets/css/v2/globals/efcGlobalPrintStyling.css" media="print" rel="stylesheet" type="text/css">
-		<link href="http://static.efinancialcareers.co.uk/assets/css/v2/editorial/newEditorial.css?r=20110821" rel="stylesheet" type="text/css">
+		<link href="http://static.efinancialcareers.co.uk/assets/css/v2/editorial/newEditorial.css?r=20121210" rel="stylesheet" type="text/css">
 		
-					<link href="http://static.efinancialcareers.co.uk/assets/css/v2/jobSearch/jobSearch.css?r=20110821" rel="stylesheet" type="text/css">				
+					<link href="http://static.efinancialcareers.co.uk/assets/css/v2/jobSearch/jobSearch.css?r=20121210" rel="stylesheet" type="text/css">				
 				
 
 		
@@ -43,20 +43,67 @@
 
 		
 		<!--[if lte IE 7]>
-	          <link href="http://static.efinancialcareers.co.uk/assets/css/v2/globals/ieEfcGlobalStyling.css?r=20110821" rel="stylesheet" type="text/css" />
+	          <link href="http://static.efinancialcareers.co.uk/assets/css/v2/globals/ieEfcGlobalStyling.css?r=20121210" rel="stylesheet" type="text/css" />
 		<![endif]-->
 		
 			
 			
 			<script type="text/javascript" src="http://static.efinancialcareers.co.uk/assets/js/lib/jquery-1.3.2.min.js"></script>
-			<script type="text/javascript" src="http://static.efinancialcareers.co.uk/assets/js/core/efcBase.js?r=20110821&amp;packages=&amp;opt=1"></script>
+			<script type="text/javascript" src="http://static.efinancialcareers.co.uk/assets/js/core/efcBase.js?r=20121210&amp;packages=&amp;opt=1"></script>
 			<script src="http://static.efinancialcareers.co.uk/assets/js/v2/jQuery/jScriptGenericActivate.js" type="text/javascript"></script>
 		
-		<script language="JavaScript1.2" src="http://static.efinancialcareers.co.uk/assets/js/v2/global.js?r=20110821" type="text/javascript"></script>
+	<script type="text/javascript" src="http://static.efinancialcareers.co.uk/assets/js/v2/analyticConstants.js?r=20121210"></script>
+	<script type="text/javascript" src="http://static.efinancialcareers.co.uk/assets/js/v2/analytics.js?r=20121210"></script>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
 		
+		window.analytics = new eFC.analytics({
+		    gaAccounts: ['UA-24651662-1', 'UA-24651662-16'],
+		    gaDomain: 'efinancialcareers.co.uk',
+		    kenshooServer: '1194',
+            kenshooToken: 'fb38e33d-8b77-4210-af14-1facf3339c21',
+		    bindUserOnInit: false,
+		    compareHostsForAutoBindingLinks: true
+		});
+		
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		$(document).ready(function() { window.analytics.gaBindExternalLinks(); });
+	</script>
 
-
-		<script language="JavaScript" type="text/javascript">
+				<script type="text/javascript">
+					$(document).ready(function () {
+						var myEfcJobSeekerId = null;
+						
+						$.getJSON("https://myefc.efinancialcareers.com/uk-en/login/user?callback=?", function (data) {
+							if (data.state === 'SUCCESS') {
+								myEfcJobSeekerId = data.e;
+								if(typeof(myEfcJobSeekerId) !== 'undefined' && myEfcJobSeekerId !== null) {
+									window.analytics.gaTrackCustomVariable(_customVariables.USER_TYPE, myEfcJobSeekerId);
+								}
+								if (data.socialLogin === 'efc') {
+									$('div#loginDetails ul').html('<ul><li id="txtLoginDetailsName">' + data.email + '</li><li><a id="linkLoginDetailsSignOut" href="https://myefc.efinancialcareers.com/uk-en/logout?redirectUrl=http://' + location.hostname + location.pathname + '">Sign out</a></li></ul>');
+								} else {
+									$('div#loginDetails ul').html('<ul><li id="txtLoginDetailsName"><img width="19" height="19" src="http://static.efinancialcareers.co.uk/assets/images/icons/' + data.socialLogin + '-icon.gif">' + data.email + '</li><li><a id="linkLoginDetailsSignOut" href="https://myefc.efinancialcareers.com/uk-en/logout?redirectUrl=http://' + location.hostname + location.pathname + '">Sign out</a></li></ul>');
+								}
+							}
+						});
+					});
+				</script>
+			
+			<style>
+				#efcHolder {
+				    margin: 0 auto;
+				}
+			</style>
+		
+		<script language="JavaScript1.2" src="http://static.efinancialcareers.co.uk/assets/js/v2/global.js?r=20121210" type="text/javascript"></script>
+		
+		
+		<script type="text/javascript">
 			
 			
 	function pickCountry(country){
@@ -106,8 +153,8 @@
 
 		
 		
-			<script language="JavaScript1.2" src="/outputLocationJS/jsLocations_en_jobSearch.js" type="text/javascript"></script>			
-		
+				<script language="JavaScript1.2" src="/outputLocationJS/jsLocations_en_jobSearch.js?309" type="text/javascript"></script>			
+			
 	<script type="text/javascript" src="http://static.efinancialcareers.co.uk/assets/js/v2/locations/jsLocationsGeneric.js"></script>
 
 
@@ -145,7 +192,7 @@
 	</div>
 	<span class="gradientSpacer"></span>
 	
-	<ul class="countryUlLoop"><li><a href="http://www.eFinancialCareers.com.au" title="Australia" class="image AU"><span class="image"></span></a><a href="http://www.eFinancialCareers.com.au" title="Australia">Australia</a></li><li><a href="javascript:showLanguageOptions('BE');" title="Belgium" class="image BE"><span class="image"></span></a><a href="javascript:showLanguageOptions('BE');" title="Belgium">Belgium</a><ul id="sitePickerCountryLangs_BE" class="countryLanguage displayNone"><li><a href="http://du.eFinancialCareers.be">Dutch</a></li><li><a href="http://en.efinancialcareers.be">English</a></li><li><a href="http://www.efinancialcareers.be/?langChoiceReset=1">French</a></li></ul></li><li><a href="http://www.efinancialcareers-canada.com" title="Canada" class="image CA"><span class="image"></span></a><a href="http://www.efinancialcareers-canada.com" title="Canada">Canada</a></li><li><a href="http://www.efinancialcareers.cn" title="China" class="image CN"><span class="image"></span></a><a href="http://www.efinancialcareers.cn" title="China">China</a></li><li><a href="http://www.eFinancialCareers.dk" title="Denmark" class="image DK"><span class="image"></span></a><a href="http://www.eFinancialCareers.dk" title="Denmark">Denmark</a></li><li><a href="http://www.eFinancialCareers.fi" title="Finland" class="image FI"><span class="image"></span></a><a href="http://www.eFinancialCareers.fi" title="Finland">Finland</a></li><li><a href="http://www.eFinancialCareers.fr" title="France" class="image FR"><span class="image"></span></a><a href="http://www.eFinancialCareers.fr" title="France">France</a></li><li><a href="http://www.eFinancialCareers.de" title="Germany" class="image DE"><span class="image"></span></a><a href="http://www.eFinancialCareers.de" title="Germany">Germany</a></li><li><a href="http://www.eFinancialCareers.hk" title="Hong Kong SAR" class="image HK"><span class="image"></span></a><a href="http://www.eFinancialCareers.hk" title="Hong Kong SAR">Hong Kong SAR</a></li><li><a href="http://www.eFinancialCareers.ie" title="Ireland" class="image IE"><span class="image"></span></a><a href="http://www.eFinancialCareers.ie" title="Ireland">Ireland</a></li><li><a href="http://www.eFinancialCareers.it" title="Italy" class="image IT"><span class="image"></span></a><a href="http://www.eFinancialCareers.it" title="Italy">Italy</a></li><li><a href="http://www.eFinancialCareers.jp" title="Japan" class="image JP"><span class="image"></span></a><a href="http://www.eFinancialCareers.jp" title="Japan">Japan</a></li><li><a href="javascript:showLanguageOptions('LU');" title="Luxembourg" class="image LU"><span class="image"></span></a><a href="javascript:showLanguageOptions('LU');" title="Luxembourg">Luxembourg</a><ul id="sitePickerCountryLangs_LU" class="countryLanguage displayNone"><li><a href="http://en.eFinancialCareers.lu">English</a></li><li><a href="http://www.eFinancialCareers.lu">French</a></li><li><a href="http://de.eFinancialCareers.lu">German</a></li></ul></li><li><a href="http://www.efinancialcareers-gulf.com" title="Middle East" class="image GF"><span class="image"></span></a><a href="http://www.efinancialcareers-gulf.com" title="Middle East">Middle East</a></li><li><a href="javascript:showLanguageOptions('NL');" title="Netherlands" class="image NL"><span class="image"></span></a><a href="javascript:showLanguageOptions('NL');" title="Netherlands">Netherlands</a><ul id="sitePickerCountryLangs_NL" class="countryLanguage displayNone"><li><a href="http://www.eFinancialCareers.nl">Dutch</a></li><li><a href="http://en.efinancialcareers.nl">English</a></li></ul></li><li><a href="http://www.efinancialcareers-norway.com" title="Norway" class="image NO"><span class="image"></span></a><a href="http://www.efinancialcareers-norway.com" title="Norway">Norway</a></li><li><a href="http://www.efinancialcareers.ru" title="Russia" class="image RU"><span class="image"></span></a><a href="http://www.efinancialcareers.ru" title="Russia">Russia</a></li><li><a href="http://scotland.eFinancialCareers.co.uk" title="Scotland" class="image SC"><span class="image"></span></a><a href="http://scotland.eFinancialCareers.co.uk" title="Scotland">Scotland</a></li><li><a href="http://www.eFinancialCareers.sg" title="Singapore" class="image SG"><span class="image"></span></a><a href="http://www.eFinancialCareers.sg" title="Singapore">Singapore</a></li><li><a href="http://www.eFinancialCareers.co.za" title="South Africa" class="image ZA"><span class="image"></span></a><a href="http://www.eFinancialCareers.co.za" title="South Africa">South Africa</a></li><li><a href="http://www.eFinancialCareers.se" title="Sweden" class="image SE"><span class="image"></span></a><a href="http://www.eFinancialCareers.se" title="Sweden">Sweden</a></li><li><a href="javascript:showLanguageOptions('CH');" title="Switzerland" class="image CH"><span class="image"></span></a><a href="javascript:showLanguageOptions('CH');" title="Switzerland">Switzerland</a><ul id="sitePickerCountryLangs_CH" class="countryLanguage displayNone"><li><a href="http://fr.eFinancialCareers.ch">French</a></li><li><a href="http://www.eFinancialCareers.ch">German</a></li><li><a href="http://it.eFinancialCareers.ch">Italian</a></li></ul></li><li><a href="http://www.eFinancialCareers.co.uk" title="United Kingdom" class="image UK"><span class="image"></span></a><a href="http://www.eFinancialCareers.co.uk" title="United Kingdom">United Kingdom</a></li><li><a href="http://www.eFinancialCareers.com/changePartner.htm/newPartnerId-US" title="USA" class="image US"><span class="image"></span></a><a href="http://www.eFinancialCareers.com/changePartner.htm/newPartnerId-US" title="USA">USA</a></li></ul>	
+	<ul class="countryUlLoop"><li><a href="http://www.eFinancialCareers.com.au" onclick="return window.analytics.triggerAction(this);" title="Australia" class="image AU"><span class="image"></span></a><a href="http://www.eFinancialCareers.com.au" onclick="return window.analytics.triggerAction(this);" title="Australia">Australia</a></li><li><a href="javascript:showLanguageOptions('BE');" title="Belgium" class="image BE"><span class="image"></span></a><a href="javascript:showLanguageOptions('BE');" title="Belgium">Belgium</a><ul id="sitePickerCountryLangs_BE" class="countryLanguage displayNone"><li><a href="http://du.eFinancialCareers.be" onclick="return window.analytics.triggerAction(this);">Dutch</a></li><li><a href="http://en.efinancialcareers.be" onclick="return window.analytics.triggerAction(this);">English</a></li><li><a href="http://www.efinancialcareers.be/?langChoiceReset=1" onclick="return window.analytics.triggerAction(this);">French</a></li></ul></li><li><a href="http://www.efinancialcareers-canada.com" onclick="return window.analytics.triggerAction(this);" title="Canada" class="image CA"><span class="image"></span></a><a href="http://www.efinancialcareers-canada.com" onclick="return window.analytics.triggerAction(this);" title="Canada">Canada</a></li><li><a href="http://www.efinancialcareers.cn" onclick="return window.analytics.triggerAction(this);" title="China" class="image CN"><span class="image"></span></a><a href="http://www.efinancialcareers.cn" onclick="return window.analytics.triggerAction(this);" title="China">China</a></li><li><a href="http://www.eFinancialCareers.dk" onclick="return window.analytics.triggerAction(this);" title="Denmark" class="image DK"><span class="image"></span></a><a href="http://www.eFinancialCareers.dk" onclick="return window.analytics.triggerAction(this);" title="Denmark">Denmark</a></li><li><a href="http://www.eFinancialCareers.fi" onclick="return window.analytics.triggerAction(this);" title="Finland" class="image FI"><span class="image"></span></a><a href="http://www.eFinancialCareers.fi" onclick="return window.analytics.triggerAction(this);" title="Finland">Finland</a></li><li><a href="http://www.eFinancialCareers.fr" onclick="return window.analytics.triggerAction(this);" title="France" class="image FR"><span class="image"></span></a><a href="http://www.eFinancialCareers.fr" onclick="return window.analytics.triggerAction(this);" title="France">France</a></li><li><a href="http://www.eFinancialCareers.de" onclick="return window.analytics.triggerAction(this);" title="Germany" class="image DE"><span class="image"></span></a><a href="http://www.eFinancialCareers.de" onclick="return window.analytics.triggerAction(this);" title="Germany">Germany</a></li><li><a href="http://www.eFinancialCareers.hk" onclick="return window.analytics.triggerAction(this);" title="Hong Kong SAR" class="image HK"><span class="image"></span></a><a href="http://www.eFinancialCareers.hk" onclick="return window.analytics.triggerAction(this);" title="Hong Kong SAR">Hong Kong SAR</a></li><li><a href="http://www.eFinancialCareers.ie" onclick="return window.analytics.triggerAction(this);" title="Ireland" class="image IE"><span class="image"></span></a><a href="http://www.eFinancialCareers.ie" onclick="return window.analytics.triggerAction(this);" title="Ireland">Ireland</a></li><li><a href="http://www.eFinancialCareers.it" onclick="return window.analytics.triggerAction(this);" title="Italy" class="image IT"><span class="image"></span></a><a href="http://www.eFinancialCareers.it" onclick="return window.analytics.triggerAction(this);" title="Italy">Italy</a></li><li><a href="http://www.eFinancialCareers.jp" onclick="return window.analytics.triggerAction(this);" title="Japan" class="image JP"><span class="image"></span></a><a href="http://www.eFinancialCareers.jp" onclick="return window.analytics.triggerAction(this);" title="Japan">Japan</a></li><li><a href="javascript:showLanguageOptions('LU');" title="Luxembourg" class="image LU"><span class="image"></span></a><a href="javascript:showLanguageOptions('LU');" title="Luxembourg">Luxembourg</a><ul id="sitePickerCountryLangs_LU" class="countryLanguage displayNone"><li><a href="http://en.eFinancialCareers.lu" onclick="return window.analytics.triggerAction(this);">English</a></li><li><a href="http://www.eFinancialCareers.lu" onclick="return window.analytics.triggerAction(this);">French</a></li><li><a href="http://de.eFinancialCareers.lu" onclick="return window.analytics.triggerAction(this);">German</a></li></ul></li><li><a href="http://www.efinancialcareers-gulf.com" onclick="return window.analytics.triggerAction(this);" title="Middle East" class="image GF"><span class="image"></span></a><a href="http://www.efinancialcareers-gulf.com" onclick="return window.analytics.triggerAction(this);" title="Middle East">Middle East</a></li><li><a href="javascript:showLanguageOptions('NL');" title="Netherlands" class="image NL"><span class="image"></span></a><a href="javascript:showLanguageOptions('NL');" title="Netherlands">Netherlands</a><ul id="sitePickerCountryLangs_NL" class="countryLanguage displayNone"><li><a href="http://www.eFinancialCareers.nl" onclick="return window.analytics.triggerAction(this);">Dutch</a></li><li><a href="http://en.efinancialcareers.nl" onclick="return window.analytics.triggerAction(this);">English</a></li></ul></li><li><a href="http://www.efinancialcareers-norway.com" onclick="return window.analytics.triggerAction(this);" title="Norway" class="image NO"><span class="image"></span></a><a href="http://www.efinancialcareers-norway.com" onclick="return window.analytics.triggerAction(this);" title="Norway">Norway</a></li><li><a href="http://www.efinancialcareers.ru" onclick="return window.analytics.triggerAction(this);" title="Russia" class="image RU"><span class="image"></span></a><a href="http://www.efinancialcareers.ru" onclick="return window.analytics.triggerAction(this);" title="Russia">Russia</a></li><li><a href="http://scotland.eFinancialCareers.co.uk" onclick="return window.analytics.triggerAction(this);" title="Scotland" class="image SC"><span class="image"></span></a><a href="http://scotland.eFinancialCareers.co.uk" onclick="return window.analytics.triggerAction(this);" title="Scotland">Scotland</a></li><li><a href="http://www.eFinancialCareers.sg" onclick="return window.analytics.triggerAction(this);" title="Singapore" class="image SG"><span class="image"></span></a><a href="http://www.eFinancialCareers.sg" onclick="return window.analytics.triggerAction(this);" title="Singapore">Singapore</a></li><li><a href="http://www.eFinancialCareers.co.za" onclick="return window.analytics.triggerAction(this);" title="South Africa" class="image ZA"><span class="image"></span></a><a href="http://www.eFinancialCareers.co.za" onclick="return window.analytics.triggerAction(this);" title="South Africa">South Africa</a></li><li><a href="http://www.eFinancialCareers.se" onclick="return window.analytics.triggerAction(this);" title="Sweden" class="image SE"><span class="image"></span></a><a href="http://www.eFinancialCareers.se" onclick="return window.analytics.triggerAction(this);" title="Sweden">Sweden</a></li><li><a href="javascript:showLanguageOptions('CH');" title="Switzerland" class="image CH"><span class="image"></span></a><a href="javascript:showLanguageOptions('CH');" title="Switzerland">Switzerland</a><ul id="sitePickerCountryLangs_CH" class="countryLanguage displayNone"><li><a href="http://fr.eFinancialCareers.ch" onclick="return window.analytics.triggerAction(this);">French</a></li><li><a href="http://www.eFinancialCareers.ch" onclick="return window.analytics.triggerAction(this);">German</a></li><li><a href="http://it.eFinancialCareers.ch" onclick="return window.analytics.triggerAction(this);">Italian</a></li></ul></li><li><a href="http://www.eFinancialCareers.co.uk" onclick="return window.analytics.triggerAction(this);" title="United Kingdom" class="image UK"><span class="image"></span></a><a href="http://www.eFinancialCareers.co.uk" onclick="return window.analytics.triggerAction(this);" title="United Kingdom">United Kingdom</a></li><li><a href="http://www.eFinancialCareers.com/changePartner.htm/newPartnerId-US" onclick="return window.analytics.triggerAction(this);" title="USA" class="image US"><span class="image"></span></a><a href="http://www.eFinancialCareers.com/changePartner.htm/newPartnerId-US" onclick="return window.analytics.triggerAction(this);" title="USA">USA</a></li></ul>	
 </div>
 
 <script type="text/javascript">
@@ -165,13 +212,13 @@
 <div id="siteHeader" class="clearfix">
 	<a href="http://www.eFinancialCareers.co.uk" title="">
 	
-	<img src="http://static.efinancialcareers.co.uk/assets/images/v2/efcHeader/efc-com.gif" alt=""></a>
+	<img src="http://static.efinancialcareers.co.uk/assets/images/v2/efcHeader/efc-com.gif" alt="" onclick="return window.analytics.triggerAction(this);" class="extLink"></a>
 	
-	<div id="fuseAd"><iframe src="http://ad.uk.doubleclick.net/N2247/adi/efc.co.uk/other;sz=468x60;ord=7873276?" name="banner" width="468" height="60" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no">
-	<script language="JavaScript1.1" src="http://ad.uk.doubleclick.net/N2247/adj/efc.co.uk/other;abr=!ie;abr=!aol;sz=468x60;ord=7873276?"></script>
+	<div id="fuseAd"> <iframe src="http://ad.uk.doubleclick.net/N2247/adi/efc.co.uk/other;sz=468x60;ord=2445188?" name="banner" width="468" height="60" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no">
+	<script language="JavaScript1.1" src="http://ad.uk.doubleclick.net/N2247/adj/efc.co.uk/other;abr=!ie;abr=!aol;sz=468x60;ord=2445188?"></script>
 	<noscript>
-		<a href="http://ad.uk.doubleclick.net/N2247/jump/efc.co.uk/other;abr=!ie;abr=!aol;sz=468x60;ord=7873276?">
-		<img src="http://ad.uk.doubleclick.net/N2247/ad/efc.co.uk/other;abr=!ie;abr=!aol;sz=468x60;ord=7873276?" width="468" height="60" border="0"></a>
+		<a href="http://ad.uk.doubleclick.net/N2247/jump/efc.co.uk/other;abr=!ie;abr=!aol;sz=468x60;ord=2445188?">
+		<img src="http://ad.uk.doubleclick.net/N2247/ad/efc.co.uk/other;abr=!ie;abr=!aol;sz=468x60;ord=2445188?" width="468" height="60" border="0"></a>
 	</noscript>
 </iframe> </div>
 </div>
@@ -180,73 +227,71 @@
 <div id="siteNavigationBar">
 	
 	
-		<div id="siteNavigation" class="clearfix">
-			<!-- [SB] start drop down nav -->
-  			<ul id="topNav">
-				
+			<div id="siteNavigation" class="clearfix">
+				<!-- [SB] start drop down nav -->
+	  			<ul id="topNav">
+					
+							
+							<li class="pageLink homepage"><a href="http://www.eFinancialCareers.co.uk/financialMarkets.htm" class="home extLink" onclick="return window.analytics.triggerAction(this);">Home</a></li>
 						
-						<li class="pageLink homepage"><a href="http://www.eFinancialCareers.co.uk/financialMarkets.htm" class="home">Home</a></li>
-					
-						<li class="dropdown jobs">
-							
-							
-							
-								<a href="http://www.eFinancialCareers.co.uk/advancedSearch.htm" class="home">Find a job</a>
-								
-								<a href="http://www.eFinancialCareers.co.uk/advancedSearch.htm" class="dropdown"></a>
-							
-							<ul id="submenu_2" class="displayNone">
+							<li class="dropdown jobs">
 								
 								
-									<li><a href="http://www.eFinancialCareers.co.uk/advancedSearch.htm">Advanced job search</a></li>
+										<a href="http://www.eFinancialCareers.co.uk/advancedSearch.htm" class="home extLink" onclick="return window.analytics.triggerAction(this);">Find a job</a>
+										
+									<a href="http://www.eFinancialCareers.co.uk/advancedSearch.htm" class="dropdown extLink" onclick="return window.analytics.triggerAction(this);"></a>
 								
-									<li><a href="http://www.eFinancialCareers.co.uk/companySearch.htm">Search by company</a></li>
-								
-							</ul>
-						</li>
-					
+								<ul id="submenu_2" class="displayNone">
+									
+									
+										<li><a href="http://www.eFinancialCareers.co.uk/advancedSearch.htm" onclick="return window.analytics.triggerAction(this);" class="extLink">Advanced job search</a></li>
+										
+										<li><a href="http://www.eFinancialCareers.co.uk/companySearch.htm" onclick="return window.analytics.triggerAction(this);" class="extLink">Search by company</a></li>
+										
+								</ul>
+							</li>
 						
-						<li class="pageLink editorial"><a href="http://news.efinancialcareers.com/uk-en/" class="home">News &amp; advice</a></li>
-					
-						<li class="dropdown myefc">
 							
-							
-							
-								<a href="http://www.eFinancialCareers.co.uk/myEfc.htm" class="home">My eFC</a>
-								
-								<a href="http://www.eFinancialCareers.co.uk/myEfc.htm" class="dropdown"></a>
-							
-							<ul id="submenu_4" class="displayNone">
+							<li class="pageLink editorial"><a href="http://news.efinancialcareers.com/uk-en/" class="home extLink" onclick="return window.analytics.triggerAction(this);">News &amp; advice</a></li>
+						
+							<li class="dropdown myefc">
 								
 								
-									<li><a href="http://www.eFinancialCareers.co.uk/myEfc.htm">My Dashboard</a></li>
+										<a href="https://myefc.efinancialcareers.com/uk-en/myefc/profile/?dpfl=true" class="home extLink" onclick="return window.analytics.triggerAction(this);">My Account</a>
+										
+									<a href="https://myefc.efinancialcareers.com/uk-en/myefc/profile/?dpfl=true" class="dropdown extLink" onclick="return window.analytics.triggerAction(this);"></a>
 								
-									<li><a href="http://www.eFinancialCareers.co.uk/myEfc.htm/pageAction-myResumes">My Resumes</a></li>
-								
-									<li><a href="http://www.eFinancialCareers.co.uk/myEfc.htm/pageAction-myJobs">My Jobs</a></li>
-								
-									<li><a href="http://www.eFinancialCareers.co.uk/myEfc.htm/pageAction-mySearches">My Searches &amp; Alerts</a></li>
-								
-									<li><a href="http://www.eFinancialCareers.co.uk/myEfc.htm/pageAction-myNewsletter">My Newsletter</a></li>
-								
-									<li><a href="http://www.eFinancialCareers.co.uk/myEfc.htm/pageAction-myAccount">My Account</a></li>
-								
-							</ul>
-						</li>
-					
-			</ul>
-		</div>
-	
+								<ul id="submenu_4" class="displayNone">
+									
+									
+										<li><a href="https://myefc.efinancialcareers.com/uk-en/myefc/profile/?dpfl=true" onclick="return window.analytics.triggerAction(this);" class="extLink">Profile</a></li>
+										
+										<li><a href="https://myefc.efinancialcareers.com/uk-en/myefc/docs/cvs/?dpfl=true" onclick="return window.analytics.triggerAction(this);" class="extLink">CVs</a></li>
+										
+										<li><a href="https://myefc.efinancialcareers.com/uk-en/myefc/jobs/?dpfl=true" onclick="return window.analytics.triggerAction(this);" class="extLink">Jobs</a></li>
+										
+										<li><a href="https://myefc.efinancialcareers.com/uk-en/myefc/saved-searches/?dpfl=true" onclick="return window.analytics.triggerAction(this);" class="extLink">Saved searches</a></li>
+										
+										<li><a href="https://myefc.efinancialcareers.com/uk-en/myefc/newsletters/?dpfl=true" onclick="return window.analytics.triggerAction(this);" class="extLink">Newsletters</a></li>
+										
+										<li><a href="https://myefc.efinancialcareers.com/uk-en/myefc/account/?dpfl=true" onclick="return window.analytics.triggerAction(this);" class="extLink">Settings</a></li>
+										
+								</ul>
+							</li>
+						
+				</ul>
+			</div>
+		
 	<div id="loginDetails">
 		
 			<ul>
-			
-					<li><a href="http://www.eFinancialCareers.co.uk/myefc.htm" class="header_text">Register / Sign in</a></li>
 				
+						<li><a href="https://myefc.efinancialcareers.com/uk-en/login/?dpfl=true" class="header_text extLink" onclick="return window.analytics.triggerAction(this);">Sign in</a></li>
+					
 			</ul>
-		
+			
 	</div>
-
+ 
 	
 		
 </div>
@@ -275,7 +320,7 @@
 
 <h3>Privacy Policy</h3>
 <p class="extraPadding">eFinancialCareers is committed to safeguarding the privacy of our users whilst providing personalised career management services.</p>
-<p class="extraPadding">This document (last updated on 10/28/09) sets out the privacy policy of eFinancialCareers Limited of Third Floor, Tabernacle Court, 16-28 Tabernacle Street, London EC2A 4DD and explains how we collect and use your personal information (i.e. any information about you which is personally identifiable like your name, address, telephone number or email address). eFinancialCareers is registered as a data controller, with registration number Z9136798.</p>
+<p class="extraPadding">This document (last updated on 10/28/09) sets out the privacy policy of eFinancialCareers Limited of Fifth Floor, Telephone House, 69-77 Paul Street, London EC2A 4NW and explains how we collect and use your personal information (i.e. any information about you which is personally identifiable like your name, address, telephone number or email address). eFinancialCareers is registered as a data controller, with registration number Z9136798.</p>
 <p class="extraPadding">This document relates to all the personal information that is collected through the website at www.eFinancialCareers.co.uk . For information about the collection and use of personal information collected through other eFinancialCareers websites, please see the privacy policy relevant to each website. Please note that although this website provides links to the websites of many other companies, this policy only applies to the collection and use of personal information through <a href="http://www.efinancialcareers.co.uk/">www.eFinancialCareers.co.uk</a>.</p>
 <p class="extraPadding">Dice Holdings, Inc. (the parent company eFinancialCareers) is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
 <p class="extraPadding">If you have questions or concerns regarding this statement, you should first contact <a href="mailto:privacy@efinancialcareers.com">privacy@efinancialcareers.com</a>.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <a href="http://watchdog.truste.com/pvr.php?page=complaint">http://watchdog.truste.com/pvr.php?page=complaint</a>.  TRUSTe will then serve as a liaison with us to resolve your concerns.</p>
@@ -405,59 +450,60 @@
 <h3 class="hide">Site Information</h3>
 
 	<ul class="links clearfix">
-		<li class="start"><a href="http://www.eFinancialCareers.co.uk">Home</a></li>
-		<li><a href="http://www.eFinancialCareers.co.uk/myEfc.htm">My eFC</a></li>
-		<li><a href="http://www.eFinancialCareers.co.uk/advancedSearch.htm">Find a job</a></li>
+		<li class="start"><a href="http://www.eFinancialCareers.co.uk" onclick="return window.analytics.triggerAction(this);" class="extLink">Home</a></li>
+		<li><a href="https://myefc.efinancialcareers.com/uk-en/myefc/profile/?dpfl=true" onclick="return window.analytics.triggerAction(this);" class="extLink">My Account</a></li>
+		<li><a href="http://www.eFinancialCareers.co.uk/advancedSearch.htm" onclick="return window.analytics.triggerAction(this);" class="extLink">Find a job</a></li>
 		
-			<li><a href="http://news.eFinancialCareers.co.uk/newsandviews.htm">News &amp; advice</a></li>
+			<li><a href="http://news.eFinancialCareers.co.uk/newsandviews.htm" onclick="return window.analytics.triggerAction(this);" class="extLink">News &amp; advice</a></li>
 		
-		<li><a href="http://www.eFinancialCareers.co.uk/admin">Recruiters</a></li>
-		<li><a href="http://www.eFinancialCareers.co.uk/aboutus.htm">About us</a></li>
-		<li><a href="http://www.eFinancialCareers.co.uk/workforus.htm">Work at eFinancialCareers</a></li>
-		<li class="end"><a href="http://www.eFinancialCareers.co.uk/contactus.htm">Contact us</a></li>
+		<li><a href="http://www.eFinancialCareers.co.uk/admin" onclick="return window.analytics.triggerAction(this);" class="extLink">Recruiters</a></li>
+		<li><a href="http://www.eFinancialCareers.co.uk/aboutus.htm" onclick="return window.analytics.triggerAction(this);" class="extLink">About us</a></li>
+		<li><a href="http://www.eFinancialCareers.co.uk/workforus.htm" onclick="return window.analytics.triggerAction(this);" class="extLink">Work at eFinancialCareers</a></li>
+		<li><a href="http://www.eFinancialCareers.co.uk/contactus.htm" onclick="return window.analytics.triggerAction(this);" class="extLink">Contact us</a></li>
+		<li class="end"><a href="http://news.efinancialcareers.com/page/meet-our-english-language-emea-editorial-team" onclick="return window.analytics.triggerAction(this);" class="extLink">About our editorial team</a></li>
 	</ul>
 
 	<ul class="network clearfix">
-		<li class="start"><a href="http://www.efinancialcareers.com.au">Australia</a></li>
-		<li><a href="http://www.efinancialcareers.be">Belgium</a></li>
-		<li><a href="http://www.efinancialcareers-canada.com">Canada</a></li>
-		<li><a href="http://www.efinancialcareers.cn">China</a></li>
-		<li><a href="http://www.efinancialcareers.dk">Denmark</a></li>
-		<li><a href="http://www.efinancialcareers.fi">Finland</a></li>
-		<li><a href="http://www.efinancialcareers.fr">France</a></li>
-		<li><a href="http://www.efinancialcareers.de">Germany</a></li>
+		<li class="start"><a href="http://www.efinancialcareers.com.au" onclick="return window.analytics.triggerAction(this);" class="extLink">Australia</a></li>
+		<li><a href="http://www.efinancialcareers.be" onclick="return window.analytics.triggerAction(this);" class="extLink">Belgium</a></li>
+		<li><a href="http://www.efinancialcareers-canada.com" onclick="return window.analytics.triggerAction(this);" class="extLink">Canada</a></li>
+		<li><a href="http://www.efinancialcareers.cn" onclick="return window.analytics.triggerAction(this);" class="extLink">China</a></li>
+		<li><a href="http://www.efinancialcareers.dk" onclick="return window.analytics.triggerAction(this);" class="extLink">Denmark</a></li>
+		<li><a href="http://www.efinancialcareers.fi" onclick="return window.analytics.triggerAction(this);" class="extLink">Finland</a></li>
+		<li><a href="http://www.efinancialcareers.fr" onclick="return window.analytics.triggerAction(this);" class="extLink">France</a></li>
+		<li><a href="http://www.efinancialcareers.de" onclick="return window.analytics.triggerAction(this);" class="extLink">Germany</a></li>
 		
-			<li><a href="http://www.efinancialcareers.hk">Hong Kong SAR</a></li>
+			<li><a href="http://www.efinancialcareers.hk" onclick="return window.analytics.triggerAction(this);" class="extLink">Hong Kong SAR</a></li>
 		
-		<li><a href="http://www.efinancialcareers.ie">Ireland</a></li>
-		<li><a href="http://www.efinancialcareers.it">Italy</a></li>
-		<li><a href="http://www.efinancialcareers.jp">Japan</a></li>
+		<li><a href="http://www.efinancialcareers.ie" onclick="return window.analytics.triggerAction(this);" class="extLink">Ireland</a></li>
+		<li><a href="http://www.efinancialcareers.it" onclick="return window.analytics.triggerAction(this);" class="extLink">Italy</a></li>
+		<li><a href="http://www.efinancialcareers.jp" onclick="return window.analytics.triggerAction(this);" class="extLink">Japan</a></li>
 		
-			<li><a href="http://www.efinancialcareers.lu">Luxembourg</a></li>
+			<li><a href="http://www.efinancialcareers.lu" onclick="return window.analytics.triggerAction(this);" class="extLink">Luxembourg</a></li>
 		
-		<li><a href="http://www.efinancialcareers-gulf.com">Middle East</a></li>
+		<li><a href="http://www.efinancialcareers-gulf.com" onclick="return window.analytics.triggerAction(this);" class="extLink">Middle East</a></li>
 		
-			<li><a href="http://www.efinancialcareers.nl">Netherlands</a></li>
+			<li><a href="http://www.efinancialcareers.nl" onclick="return window.analytics.triggerAction(this);" class="extLink">Netherlands</a></li>
 		
-		<li><a href="http://www.efinancialcareers-norway.com">Norway</a></li>
-		<li><a href="http://www.efinancialcareers.ru">Russia</a></li>
-		<li><a href="http://scotland.efinancialcareers.co.uk">Scotland</a></li>
+		<li><a href="http://www.efinancialcareers-norway.com" onclick="return window.analytics.triggerAction(this);" class="extLink">Norway</a></li>
+		<li><a href="http://www.efinancialcareers.ru" onclick="return window.analytics.triggerAction(this);" class="extLink">Russia</a></li>
+		<li><a href="http://scotland.efinancialcareers.co.uk" onclick="return window.analytics.triggerAction(this);" class="extLink">Scotland</a></li>
 		
-			<li><a href="http://www.efinancialcareers.sg">Singapore</a></li>
+			<li><a href="http://www.efinancialcareers.sg" onclick="return window.analytics.triggerAction(this);" class="extLink">Singapore</a></li>
 		
-		<li><a href="http://www.efinancialcareers.co.za">South Africa</a></li>
-		<li><a href="http://www.efinancialcareers.se">Sweden</a></li>
-		<li><a href="http://www.efinancialcareers.ch">Switzerland</a></li>
-		<li><a href="http://www.efinancialcareers.co.uk">United Kingdom</a></li>
-		<li class="end"><a href="http://www.efinancialcareers.com">USA</a></li>
+		<li><a href="http://www.efinancialcareers.co.za" onclick="return window.analytics.triggerAction(this);" class="extLink">South Africa</a></li>
+		<li><a href="http://www.efinancialcareers.se" onclick="return window.analytics.triggerAction(this);" class="extLink">Sweden</a></li>
+		<li><a href="http://www.efinancialcareers.ch" onclick="return window.analytics.triggerAction(this);" class="extLink">Switzerland</a></li>
+		<li><a href="http://www.efinancialcareers.co.uk" onclick="return window.analytics.triggerAction(this);" class="extLink">United Kingdom</a></li>
+		<li class="end"><a href="http://www.efinancialcareers.com" onclick="return window.analytics.triggerAction(this);" class="extLink">USA</a></li>
 	</ul>
 
 	<ul class="conditions clearfix">
 		<li class="start"><a href="mailto:help@efinancialcareers.com?subject=eFinancialCareers Feedback">Send us feedback</a></li>
 		<li>
-			<a href="http://www.eFinancialCareers.co.uk/termsConditions.htm">Terms of use</a>
+			<a href="http://www.eFinancialCareers.co.uk/termsConditions.htm" onclick="return window.analytics.triggerAction(this);" class="extLink">Terms of use</a>
 			<span>and</span>
-			<a href="http://www.eFinancialCareers.co.uk/privacyPolicy.htm">Privacy policy</a>
+			<a href="http://www.eFinancialCareers.co.uk/privacyPolicy.htm" onclick="return window.analytics.triggerAction(this);" class="extLink">Privacy policy</a>
 		</li>
 		<li class="copyrightInformation end">© <span>Copyright 2000-2012 eFinancialCareers Ltd.&nbsp;</span></li>
 	</ul>
@@ -469,7 +515,12 @@
 	is a publicly traded company listed on the New York Stock Exchange (Ticker: DHX) 
 </p>
 
-<a id="abcStatImage" href="http://www.abc.org.uk/Certificates/17476261.pdf">
+    <p class="diceInfo1">           
+        <br>We use cookies to ensure we give you the best experience on our websites.  If you continue, we'll assume that you are happy to receive all cookies on our websites.
+        <br>Find out more about our <a href="http://news.efinancialcareers.com/uk-en/page/how-efinancialcareers-uses-cookies-on-its-websites/" target="_blank">cookie policy</a>
+    </p>
+
+<a id="abcStatImage" href="http://www.abc.org.uk/certificates/18298961.pdf" target="_blank">
     <img src="http://static.efinancialcareers.co.uk/assets/images/v2/efcFooter/abc.png">
 </a>
 
@@ -498,7 +549,7 @@
 	<!-- Specific Media -->
 	<script type="text/javascript">
 		document.write('<img src="http://smp.adviva.net/track/v=4;m=1;t=14540;ts='+ (new Date()).getTime() +'" width="0" height="1" border="0" />');
-	</script><img src="http://smp.adviva.net/track/v=4;m=1;t=14540;ts=1580427807719" width="0" height="1" border="0">
+	</script><img src="http://smp.adviva.net/track/v=4;m=1;t=14540;ts=1580427809059" width="0" height="1" border="0">
 	<!-- Specific Media End -->
 
 			<!-- SiteCatalyst code version: H.17. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
@@ -508,7 +559,7 @@
 			<script language="JavaScript" type="text/javascript" src="http://static.efinancialcareers.co.uk/assets/js/v2/omniture/s_code.js"></script>
 			<script language="JavaScript" type="text/javascript"><!--
 			s.linkInternalFilters="javascript:,efinancialcareers.co.uk,eFinancialCareers.co.uk";
-			/* Traffic variables */s.pageName="privacyPolicy.htm";s.server="Web2";s.channel="Unclassified";s.prop30="UK";s.prop31="Europe,European Union";s.prop32="000";
+			/* Traffic variables */s.pageName="privacyPolicy.htm";s.server="Web4";s.channel="Unclassified";s.prop30="UK";s.prop31="Europe,European Union";s.prop32="000";
 			/* Conversion Variables */
 			/* Hierarchy Variables */s.hier1="";
 			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
@@ -526,7 +577,7 @@
 			var i = 'http://';
 			var j = 'www.eFinancialCareers.co.uk';
 	 		var k = '/v2/stats/statsImage.cfm?';
-	 		var m = 'itemType=&itemRef=&id=0738537348010CE5CE12210CC6FF8FC4B28B19CAA2BD4D7B68C29B23FEBB2FF6E7AB9EB570E0CB7B95AD305EC403BD59';  
+	 		var m = 'itemType=&itemRef=&id=F0AC296CE57BCB20FD523DF7790D3FA86E91A2C6A471172969B9ED7EF6DD93FE0709C8D2AFF5EF85227FDBF2709B3E46';  
 		    im.src = i + j + k + m;
 		</script>
 		 </body></html>
