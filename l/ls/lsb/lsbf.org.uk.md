@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsbf.org.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510142857id_/http%3A//www.lsbf.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbf.org.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228161552id_/http%3A//www.lsbf.org.uk/privacy.html) for the most accurate reproduction.*
 
 # LSBF - London School of Business and Finance Privacy Policy
 
@@ -24,31 +24,66 @@ We may collect and process the following data about you:
 
 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
 
-The cookies we use are "analytical" cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and for aggregate marketing reporting purposes. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. You can find more information about the individual cookies we use and the purposes for which we use them below:
+The cookies we use are "analytical" cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
 
-###  Google Analytics
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and for aggregate marketing reporting purposes. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics. To reject or delete this cookie visit <http://www.google.com/intl/en/privacypolicy.html>
+You can find more information about the individual cookies we use and the purposes for which we use them below:
 
-###  Google Conversion Tracking
+**Necessary for website performance**
 
-This cookie helps us to determine how many people who click on our ads end up enquiring about and applying to our courses.
+_AFG_
 
-To reject or delete this cookie visit <http://www.google.com/privacy/ads/>
+  * These cookies make sure that your presence on the website is consistent
+  * To disable these cookies click the "Change cookie settings" link in the bottom of the page
 
-###  DoubleClick
 
-This cookie helps us to improve our online advertising campaigns showing the ads with our latest special offers to those people who have visited our website and are interested in our courses.
 
-To reject or delete this cookie visit <http://www.google.com/privacy/ads/>
+_Twitter_
 
-###  Efficient Frontier
+  * These cookies are used by Twitter widget that links it with LSBF official Twitter account.
+  * To reject or delete these cookies visit <http://twitter.com/privacy>
 
-These cookies are used to measure the effectiveness of our online marketing campaigns.
 
-You may refuse to accept cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
 
-Please note that third-party sites which are linked to on our site may also use cookies, over which we have no control.
+**Statistical**
+
+_Google Analytics_
+
+  * These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics.
+  * To reject or delete this cookie visit <http://www.google.com/intl/en/privacypolicy.html>
+
+
+
+_Google Conversion Tracking_
+
+  * This cookie helps us to determine how many people who click on our ads end up enquiring about and applying to our courses.
+  * To reject or delete this cookie visit <http://www.google.com/privacy/ads/>
+
+
+
+_Efficient Frontier_
+
+  * These cookies are used to measure the effectiveness of our online marketing campaigns.
+
+
+
+_Yandex Metrica_
+
+  * These cookies allow us to analyze interaction between a visitor and the website, improve usability and user experience using a service provided by Yandex Metrica.
+  * To learn more about the Yandex cookies please visit <http://legal.yandex.com/confidential/>
+  * To reject or delete these cookies visit <http://help.yandex.com/common/?id=1124337>
+
+
+
+**Targeting**
+
+_DoubleClick_
+
+  * This cookie helps us to improve our online advertising campaigns showing the ads with our latest special offers to those people who have visited our website and are interested in our courses.
+  * To reject or delete this cookie visit <http://www.google.com/privacy/ads/>
+
+
 
 ##  Where we store your personal data
 
@@ -70,6 +105,10 @@ We use information held about you in the following ways:
 
 
 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by email, post or telephone.
+
+  * _Please note that we have the ability to retain any data that you provide on this website using VeCapture by Ve Interactive, even if you do not complete your registration/transaction by clicking submit/next. Such contact details and data may be used to contact you to enquire why you did not complete your registration/transaction._
+
+
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please notify us by writing to [privacy@lsbf.org.uk](mailto:privacy@lsbf.org.uk).
 
