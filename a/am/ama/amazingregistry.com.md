@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amazingregistry.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518124111id_/http%3A//www.amazingregistry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingregistry.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228161307id_/http%3A//www.amazingregistry.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - AmazingRegistry.com
 
 AmazingRegistry.com is committed to your right to privacy and to taking steps designed to secure your personal information. To earn your trust and confidence in our commitment, the intent of this policy is to fully disclose our privacy practices to you. We will only use your personal information in accordance with this Privacy Policy.
 
-The AmazingRegistry.com website is owned and operated by Amazing Registry LLC. AmazingRegistry.com makes the registries of various retailers available through this website and also offers related products and services provided by other companies.
+The AmazingRegistry.com website is owned and operated by Amazing Registry.com Inc.. AmazingRegistry.com makes the registries of various retailers available through this website and also offers related products and services provided by other companies.
 
 We encourage you to read the AmazingRegistry.com privacy policy, as well as those of the retailers you register with or purchase from, and of the other companies featured on our website, so you understand what types of personal information are collected and how this information may be used. AmazingRegistry.com and the retailers and other companies participating in this website are committed to collecting and using your information only in accordance with their respective privacy policies.
 
