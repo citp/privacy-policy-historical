@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the roche.com privacy policy that was archived on 2012-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628155026id_/http%3A//www.roche.com/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roche.com privacy policy that was archived on 2012-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121228032218id_/http%3A//www.roche.com/privacy_policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
 <base href="http://www.roche.com/">
 
 		
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+		<meta name="viewport" content="width=device-width">
 		<title>Roche - Privacy Policy</title>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta http-equiv="content-language" content="en">
@@ -23,31 +25,56 @@
 		<link type="text/css" rel="stylesheet" media="print" href="print.css">
 		<link type="image/x-icon" rel="shortcut icon" href="favicon.ico">
 		
-		<script type="text/javascript">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 			var LANGUAGE		= "en";
 			var RESOURCES_PATH	= "_resources/";
 			var ACTIVE_ENTRY_ID	= "95";
-			var NAV_XML_PATH	= 'nav.xml?randid=0.9084458073559835';
+			var NAV_XML_PATH	= 'nav.xml?randid=0.2541052356764465';
 			var ACTIVE_ID	= "442";
 			var SHOW_RATE	= "false";
 		</script>
-		<script type="text/javascript" src="rochecom.js"></script>		
+		<script type="text/javascript" src="rochecom.js"></script>
+		<script>
+			$(document).ready(function (argument) {
+											
+				$('#sub-nav-zone').hide();
+											
+			});
+		</script>		
+		
+		
 		
 		
 		<script type="text/javascript" src="http://fonts.roche.com/cdi0ibw.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 		
 		
-		<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
 		<script type="text/javascript">
-			var pageTracker	= _gat._createTracker('UA-32005-3'); //roche.com
-			_gat._anonymizeIp();
-			pageTracker._setDomainName("www.roche.com");
-			pageTracker._initData();
-			if (window.SWFAddress) {
-				SWFAddress.setTracker(pageTracker._trackPageview);
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-32005-3']);
+			_gaq.push(['_gat._anonymizeIp']);
+			_gaq.push(['_setDomainName', 'www.roche.com']); 
+			_gaq.push(['_trackPageview']);
+			
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+			
+			function _pageTracker (type) {
+				this.type = type;
+				this._trackEvent = function(a,b,c) {
+					//_gaq.push(['_trackEvent', a, b, c]);
+				};
+				this._trackPageview = function(a) {
+					//_gaq.push(['_trackPageview', a]);
+				};
 			}
-		</script>		
+			
+			var pageTracker = new _pageTracker();
+		</script>
+		
 		
 	</head>
 
@@ -58,71 +85,40 @@
 			<div id="main-zone" class="clearfix">
 				<div id="header-zone">
 	<a href="/index.htm">
-		<img id="logo" src="roche-logo.gif" alt="Roche">
+		<img id="logo" src="roche-logo-highres.gif" alt="Roche">
 	</a>
 	<div id="header-generic-zone">
 		<div id="generic-nav-zone" class="clearfix use-text-resize">
 			<hr>
 			<p class="access"><a href="privacy_policy.htm=#primary-nav-zone">Skip over Generic Navigation</a></p>
-			<ul>
-					
-			<li>
-				<strong style="background-image: url(global_web_site-pic-297-2-1-0-r.gif); width: 97px">
-					<span class="access">Global Web Site</span>
-				</strong>
-			</li>
-		
-			
-			<li>
-				<a href="about_roche/roche_worldwide.htm" id="location-selector-handle" style="background-image: url(location_selector-pic-8093-1-1-1-r.gif); width: 94px">
-					<span class="access">Roche Worldwide</span>
-				</a>
-			</li>
-		
-			
-			<li>
-				<a href="privacy_policy.htm?&amp;lang=de" style="background-image: url(language_switch__en_de_-pic-934-1-1-0-r.gif); width: 44px">
-					<span class="access">Deutsch</span>
-				</a>
-			</li>
-		
-			
-			<li>
-				<a href="sitemap.htm" id="sitemap-handle" style="background-image: url(sitemap-pic-133-1-1-0-r.gif); width: 50px">
-					<span class="access">Site Map</span>
-				</a>
-			</li>
-		
-			
-			<li>
-				<a href="contact_form.htm" style="background-image: url(contact_form-pic-15965-1-1-1-r.gif); width: 43px">
-					<span class="access">Contact</span>
-				</a>
-			</li>
-		</ul>
+			<ul id="header-nav"><li><strong>Global Web Site</strong></li>
+		<li><a href="about_roche/roche_worldwide.htm" title="Roche in your country" id="location-selector-handle" class="internal">Roche in your country</a>
+		</li><li><a href="privacy_policy.htm?&amp;lang=de" title="Deutsch" class="internal">Deutsch</a>
+		</li><li><a href="contact_form.htm" title="Contact">Contact</a>
+		</li></ul>
 		</div>
 	</div>
-	<div id="primary-nav-zone" class="clearfix">
+	<div id="primary-nav-zone" role="navigation" class="clearfix">
 	<hr>
 	<p class="access"><a href="privacy_policy.htm=#sub-nav-zone">Skip over Primary Navigation</a></p>
-	<ul>
+	<ul role="menubar">
 	
 			
-			<li><a href="index.htm">Home</a></li>
+			<li class="menu-entry"><a class="level-1" href="index.htm">Home</a></li>
 			
-			<li><a href="about_roche.htm">About Roche</a></li>
+			<li class="menu-entry"><a class="level-1" href="about_roche.htm">About Roche</a></li>
 			
-			<li><a href="products.htm">Products</a></li>
+			<li class="menu-entry"><a class="level-1" href="products.htm">Products</a></li>
 			
-			<li><a href="corporate_responsibility.htm">Corporate Responsibility</a></li>
+			<li class="menu-entry"><a class="level-1" href="responsibility.htm">Responsibility</a></li>
 			
-			<li><a href="research_and_development.htm">Research &amp; Development</a></li>
+			<li class="menu-entry"><a class="level-1" href="research_and_development.htm">Research &amp; Development</a></li>
 			
-			<li><a href="media.htm">Media</a></li>
+			<li class="menu-entry"><a class="level-1" href="media.htm">Media</a></li>
 			
-			<li><a href="investors.htm">Investors</a></li>
+			<li class="menu-entry"><a class="level-1" href="investors.htm">Investors</a></li>
 			
-			<li><a href="careers.htm">Careers</a></li></ul>
+			<li class="menu-entry"><a class="level-1" href="careers.htm">Careers</a></li></ul>
 		
 </div>
 
@@ -133,6 +129,7 @@
 	
 	
 </div>
+
 	
 <form id="generic-search" action="search.htm">
 	<hr>
@@ -158,18 +155,18 @@
 	</div>
 </div>
 				
-					
+								
 			
-			
-
 			
 				<div id="content-wrapper-zone">
 					
 					<div id="content-zone">
 						
-						<div class="h1">
-							<h1>Privacy Policy</h1>
-						</div>
+							
+							<div class="h1">
+								<h1>Privacy Policy</h1>
+							</div>
+						
 						
 						<div class="column first-column broad-column">
 							<!-- CS -->
@@ -207,7 +204,7 @@
 <p>c) where needed for corporate audits or to investigate or respond to a complaint or security threat.</p>
 
 <p><em>No Third-Party Direct Marketing Use</em>. We will not sell or otherwise transfer the personally identifiable information you provide to us at our Web sites to any third parties for their own direct marketing use unless we provide clear notice to you and obtain your explicit consent for your data to be shared in this manner. <br><em><br>E-mail a Friend or Colleague</em>. On some Roche sites, you can choose to send a link or a message to a friend or colleague referring them to a Roche Web site. E-mail addresses you may provide for a friend will be used to send your friend information on your behalf and will not be collected or used by Roche or other third parties for additional purposes. </p>
-<p><em>Google Analytics</em>. Roche Websites may use <a href="http://www.google.com/analytics/tos.html" title="www.google.com/analytics/tos.html" target="_blank" class="external" onclick="pageTracker._trackPageview('/ELINK/External/privacy_policy.htm/www.google.com/analytics/tos.html');">Google Analytics</a>, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however, as mentioned above please note that if you do this you may not be able to use the full functionality of a Roche website. By using a Roche website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. </p>
+<p><em>Google Analytics</em>. Roche Websites may use <a href="http://www.google.com/analytics/tos.html" title="www.google.com/analytics/tos.html" target="_blank" class="external">Google Analytics</a>, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however, as mentioned above please note that if you do this you may not be able to use the full functionality of a Roche website. By using a Roche website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. </p>
 <p><strong><a name="privacy-policy-text-Anchor-6"></a></strong><strong>Links to Other Sites</strong><br>Our sites contain links to a number of Web sites that may offer useful information to our visitors. This Privacy Statement does not apply to those sites, and we recommend communicating to them directly for information on their privacy policies. </p>
 <p><strong><a name="privacy-policy-text-Anchor-7"></a></strong><strong>Privacy Statement for Children</strong><br>Our Web sites are directed at an adult audience. We do not collect any personally identifiable information from anyone we know to be under the age of 13 without the prior, verifiable consent of his or her legal representative. Such legal representative has the right, upon request, to view the information provided by the child and/or to require that it be deleted.</p>
 <p><strong><a name="privacy-policy-text-Anchor-8"></a></strong><strong>Additional Information on Web Sites</strong><br>If a Web site has particular provisions relating to privacy that differ from those stated here, those provisions will be disclosed to you on the page on which personally identifiable information is collected. </p>
@@ -246,7 +243,7 @@
 		<div class="clearfix">
 			<p>© 2012 F. Hoffmann-La Roche Ltd</p>
 			<p><a href="legal_statement.htm" title="Legal Statement">Legal Statement</a></p><p><a href="privacy_policy.htm" title="Privacy Policy">Privacy Policy</a></p>
-			<p>15.04.2010</p>
+			<p>14.11.2012</p>
 		</div>
 		<p class="note">This website contains information on products which is targeted to a wide range of audiences and could contain product details or information otherwise not accessible or valid in your country.<br>Please be aware that we do not take any responsibility for accessing such information which may not comply with any legal process, regulation, registration or usage in the country of your origin.</p>
 	</div>
