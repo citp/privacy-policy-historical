@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ovoenergy.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618092743id_/http%3A//www.ovoenergy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ovoenergy.com privacy policy that was archived on 2012-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121228012116id_/http%3A//ovoenergy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -34,11 +34,27 @@
 var _wpcf7 = { cached: 1 };
 //]]>
 </script>
-<meta name="description" content="Privacy Policy &amp; Cookies At Ovo Energy, we’re committed to our customers. As well as providing you with unbeatable value and an excellent service, we believe it’s important to protect your privacy. We’ll obtain certain pieces of personal information (also called “personal data”) throughout the transfer process and it’s our job to ..."> 
+<meta name="description" content="Privacy Policy &amp; Cookies At Ovo Energy, we’re committed to our customers. As well as providing you with unbeatable value and an excellent service, we believe it’s important to protect your privacy. We’ll obtain certain pieces of personal information (also called “personal data”) throughout the transfer process and it’s our job to make sure w ..."> 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/assets/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
 <link rel="stylesheet" href="/assets/fancybox/jquery.fancybox-1.3.1.css" type="text/css" media="screen">
-
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.10.0/jquery.validate.js" type="text/javascript"></script>
+<script>
+	window.universal_variable = {
+		version : "1.0",
+		page: {
+		    category: "content",
+		    subcategory: "privacy-policy",
+		    version: null,
+		    environment: "LIVE",
+		    revision: "May 24, 2012"
+		},
+	       user: {
+		   user_id: ""
+	       }
+	}
+</script>
+<script src="//d3c3cq33003psk.cloudfront.net/opentag-61212-313457.js" async="" defer=""></script>
 <script type="text/javascript" src="/assets/js/counter.js"></script>
 <script type="text/javascript" src="/assets/js/jquery.corner.js"></script>
 <script type="text/javascript">
@@ -67,6 +83,44 @@ jQuery(document).ready(function() {
   		jQuery('#form-b').submit();
 	});
 	
+
+	var validator = jQuery("#complaintsform");
+	
+	jQuery.validator.addMethod('phoneUK', function(phone_number, element) {
+	return this.optional(element) || phone_number.length > 9 &&
+	phone_number.match(/^(((\+44)? ?(\(0\))? ?)|(0))( ?[0-9]{3,4}){3}$/);
+	}, '');
+	
+	jQuery.validator.addMethod("postcodeUK", function(value, element) {
+	return this.optional(element) || /[A-Z]{1,2}[0-9R][0-9A-Z]? [0-9][ABD-HJLNP-UW-Z]{2}/i.test(value);
+	}, "");
+	
+	jQuery("#complaintsform").validate({
+		messages: {
+			namec: "Please enter your name",
+			emailc: "Please enter your email",
+			postcodec: "Please enter your postcode",
+			account_numberc: "Please enter your account No.",
+			phonec: "Please enter your phone No",
+			messagec: "Please enter a message"	
+		},
+		rules: {
+			account_numberc: {
+			  required: true,
+			  number: true,
+			  maxlength: 8
+			},
+			emailc: {
+			  required: true,
+			  email: true
+			},
+			messagec: {
+			  required: true,
+			  maxlength: 2000
+			}
+		},
+		errorContainer: jQuery("#warning")
+	});
 
 	//jQuery('#access a').corner("top 5px");
 	//jQuery('#access ul ul a').uncorner();
@@ -161,6 +215,7 @@ loadticker(27694);
 	<li id="menu-item-444" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/our-energy/our-gas/">Our gas</a></li>
 	<li id="menu-item-199" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/our-energy/where-your-money-goes/">Where your money goes</a></li>
 	<li id="menu-item-1366" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/our-energy/buying-energy/">Buying energy</a></li>
+	<li id="menu-item-4812" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/our-energy/fuel-mix-disclosure/">Fuel mix disclosure</a></li>
 </ul>
 </li>
 <li id="menu-item-24" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/our-promise/">Our promise</a>
@@ -177,17 +232,17 @@ loadticker(27694);
 <li id="menu-item-22" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/help-centre/">Help centre</a>
 <ul class="sub-menu">
 	<li id="menu-item-585" class="menu-item menu-item-type-custom"><a href="/help-centre/">FAQs</a></li>
-	<li id="menu-item-4403" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/our-guides/">Our guides</a></li>
+	<li id="menu-item-4403" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/help-centre/our-guides/">Our guides</a></li>
 	<li id="menu-item-186" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/help-centre/in-an-emergency/">In an emergency</a></li>
 	<li id="menu-item-187" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/help-centre/moving-home/">Moving home</a></li>
-	<li id="menu-item-2076" class="menu-item menu-item-type-custom"><a href="http://www.ovoenergy.com/friends">Refer a Friend</a></li>
-	<li id="menu-item-4402" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/extra-support/">Extra Support</a></li>
+	<li id="menu-item-2076" class="menu-item menu-item-type-custom"><a href="/friends">Refer a Friend</a></li>
+	<li id="menu-item-4402" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/help-centre/extra-support/">Extra Support</a></li>
 </ul>
 </li>
 <li id="menu-item-314" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/green-zone/">Green zone</a>
 <ul class="sub-menu">
 	<li id="menu-item-593" class="menu-item menu-item-type-custom"><a href="/green-zone/">Green zone</a></li>
-	<li id="menu-item-1422" class="menu-item menu-item-type-custom"><a href="http://www.ovoenergy.com/coolearth">Cool Earth</a></li>
+	<li id="menu-item-1422" class="menu-item menu-item-type-custom"><a href="/coolearth">Cool Earth</a></li>
 	<li id="menu-item-336" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/green-zone/view-on-renewable-energy/">What we’re doing</a></li>
 	<li id="menu-item-474" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/green-zone/what-is-green-energy/">What is green energy?</a></li>
 	<li id="menu-item-335" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/green-zone/renewable-energy-resources/">Types of renewable energy</a></li>
@@ -200,7 +255,6 @@ loadticker(27694);
 <ul class="sub-menu">
 	<li id="menu-item-586" class="menu-item menu-item-type-custom"><a href="/contact-us/">Contact us</a></li>
 	<li id="menu-item-182" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/contact-us/press-office/">Press office</a></li>
-	<li id="menu-item-858" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/contact-us/meter-reading/">Meter reading</a></li>
 	<li id="menu-item-181" class="menu-item menu-item-type-post_type"><a href="http://www.ovoenergy.com/contact-us/if-you-are-unhappy/">If you are unhappy</a></li>
 </ul>
 </li>
@@ -424,9 +478,9 @@ Updated May 2012</strong></p>
             <div class="footer-blog">
                 <div class="blog-entry">
                                         
-                    <h2>How Ovo Energy is helping Cool Earth</h2>   
-                    <p>As part of our ‘Take Ovo’ day, Cool Earth have written a guest blog post for us. Here is the second instalment!</p>
-                    <p><a href="http://www.ovoenergy.com/2012/06/how-ovo-energy-is-helping-cool-earth/" title="How Ovo Energy is helping Cool Earth">&gt; Full story</a></p>
+                    <h2>The Ovo Energy Homemade Christmas Guide</h2>   
+                    <p>‘Twas the night before Christmas, when all through the house, not a creature was stirring, not even a mouse.’ Well, actually, some of the Christmas-mad Ovo Energy team will be sewing, stirring and generally working their socks off to put</p>
+                    <p><a href="http://www.ovoenergy.com/2012/12/the-ovo-energy-homemade-christmas-guide/" title="The Ovo Energy Homemade Christmas Guide">&gt; Full story</a></p>
                     
                                     </div>
                 	
@@ -464,6 +518,7 @@ Updated May 2012</strong></p>
 <li class="page_item page-item-440"><a href="http://www.ovoenergy.com/our-energy/our-electricity/" title="Our electricity">Our electricity</a></li>
 <li class="page_item page-item-40"><a href="http://www.ovoenergy.com/our-energy/where-your-money-goes/" title="Where your money goes">Where your money goes</a></li>
 <li class="page_item page-item-315"><a href="http://www.ovoenergy.com/our-energy/buying-energy/" title="Buying energy">Buying energy</a></li>
+<li class="page_item page-item-4807"><a href="http://www.ovoenergy.com/our-energy/fuel-mix-disclosure/" title="Fuel mix disclosure">Fuel mix disclosure</a></li>
 </ul></li>                    </ul>
                 </div>
                 
@@ -491,12 +546,15 @@ Updated May 2012</strong></p>
                 
                 <div class="col5">
                     <ul>
-                     
-                    <li class="pagenav">Help centre<ul><li class="page_item page-item-58"><a href="http://www.ovoenergy.com/help-centre/reading-your-bill/" title="Reading your bill">Reading your bill</a></li>
-<li class="page_item page-item-60"><a href="http://www.ovoenergy.com/help-centre/moving-home/" title="Moving home">Moving home</a></li>
-<li class="page_item page-item-62"><a href="http://www.ovoenergy.com/help-centre/in-an-emergency/" title="In an emergency">In an emergency</a></li>
-<li class="page_item page-item-64"><a href="http://www.ovoenergy.com/help-centre/how-switching-works/" title="How switching works">How switching works</a></li>
-</ul></li>                    </ul>
+			<li class="pagenav">Help Center<ul>
+			<li class="page_item"><a title="FAQ's" href="http://www.ovoenergy.com/help-centre/">FAQs</a></li>
+			<li class="page_item"><a title="Our Guides" href="http://www.ovoenergy.com/help-centre/our-guides/">Our Guides</a></li>
+			<li class="page_item"><a title="In an emergency" href="http://www.ovoenergy.com/help-centre/in-an-emergency/">In an emergency</a></li>
+			<li class="page_item"><a title="Moving home" href="http://www.ovoenergy.com/help-centre/moving-home/">Moving home</a></li>
+			<li class="page_item"><a title="Refer a friend" href="http://www.ovoenergy.com/friends/">Refer a friend</a></li>
+			<li class="page_item"><a title="Extra Support" href="http://www.ovoenergy.com/help-centre/extra-support/">Extra Support</a></li>
+			</ul></li>
+                    </ul>
                 </div>
 
 <div class="col7 col7a">
@@ -534,14 +592,15 @@ Updated May 2012</strong></p>
                 </a>
             </div><!-- #site-info -->
 		
-<div class="footer-links">
-	<ul>
+<div class="footer-links" style="position:relative;">
+	<ul style="position:absolute; bottom:-4px; right:0px;">
 		<li><a href="/terms">Terms &amp; Conditions</a><span>|</span></li>
 		<li><a href="/privacy-policy">Privacy Policy &amp; Cookies</a><span>|</span></li>
 		<li><a href="http://www.ovoenergycareers.co.uk/" target="_blank">Join the team</a><span>|</span></li>
 		<li><a href="/accessibility">Accessibility</a><span>|</span></li>
 		<li><a href="/site-map">Site map</a></li>
 	</ul>
+	<p style="position:absolute; bottom:-35px; right:0px; font-size: 11px;"><a href="mailto:hello@ovoenergy.com">hello@ovoenergy.com</a> | Ovo Energy, Wellington House, Kemble Enterprise Park, Kemble, Cirencester, Gloucestershire, GL7 6BQ</p>
 </div>
 <div style="position:absolute;bottom:17px;left:160px;"><a href="http://twitter.com/ovoenergy" title="Follow us on Twitter" target="_blank"><img src="/twitter.gif" border="0"></a></div>
 <div style="position:absolute;bottom:17px;left:200px;"><a href="http://www.facebook.com/ovoenergy" title="Join us on Facebook" target="_blank"><img src="/facebook.gif" border="0"></a></div>
@@ -558,5 +617,6 @@ Updated May 2012</strong></p>
 
 
 <script type="text/javascript" src="/assets/js/validate.js"></script>
+<img src="http://media.fastclick.net/w/tre?ad_id=27456;evt=20076;cat1=26389;cat2=26390;rand=20121228012038000000" width="1" height="1" border="0">
 
 </body></html>
