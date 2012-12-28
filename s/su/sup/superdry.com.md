@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627072448id_/http%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228020834id_/http%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Superdry - Jackets, T Shirts, Hoodies, Shorts, Mens & Womens Clothing
+# Privacy Policy - Superdry
 
 ### Privacy policy
 
