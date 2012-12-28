@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eye.fi privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614085959id_/http%3A//support.eye.fi/eye-fi-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eye.fi privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228164059id_/http%3A//support.eye.fi/eye-fi-privacy-policy) for the most accurate reproduction.*
 
 # Eye-Fi Privacy Policy | Eye-Fi Support
 
-Last Revised August 15, 2011
+Last Revised June 21, 2012
 
 ## Introduction
 
@@ -54,9 +54,7 @@ Like many websites, Eye-Fi make use of cookies which are small data files that c
 
 When you use the Eye-Fi service or visit Eye-Fi websites, Eye-Fi sends one or more cookies to your computer that uniquely identifies your Internet browser. We use cookies to collect, store and sometimes track information for statistical purposes to improve the services we provide. If you are a registered user, we will use a cookie to save your settings and to provide customizable and personalized services. Additionally, be aware that if you visit other websites you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
 
-From time to time Eye-Fi will merchandise its products with the use of internet based advertising companies (such as Xgraph). These companies will use cookies and other information (but not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements for products and services (including those of third parties) which may be of interest to you. If you wish to opt-out from these forms of marketing on (or with respect to your use of) the Eye-Fi website, please follow the opt-out instructions at the following links:
-
-<http://xgraph.net/opt-out.html> – Eye-Fi sometimes uses Xgraph for merchandising. This link will take you to the Xgraph “opt out” page.
+From time to time Eye-Fi will merchandise its products with the use of internet based advertising companies. These companies will use cookies and other information (but not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements for products and services (including those of third parties) which may be of interest to you. If you wish to opt-out from these forms of marketing on (or with respect to your use of) the Eye-Fi website, please follow the opt-out instructions in the following link:
 
 <http://www.networkadvertising.org/managing/opt_out.asp> – This is an industry association that consolidates “opt outs”. From time to time Eye-Fi might use some of these companies services.
 
