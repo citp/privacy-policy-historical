@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603003102id_/http%3A//inlovewithfashion.com/pages/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228033104id_/http%3A//inlovewithfashion.com/pages/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -17,6 +17,7 @@ We confirm that any Personal Information which you provide to us (or which is av
   * To serve website content and advertisements to you; 
   * To administer this website; 
   * If you consent, to notify you of products or special offers that may be of interest to you. 
+  * We do not store any credit card information.
 
 
 
