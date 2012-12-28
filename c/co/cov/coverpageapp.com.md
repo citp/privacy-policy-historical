@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coverpageapp.com privacy policy that was archived on 2012-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120114003051id_/http%3A//www.coverpageapp.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coverpageapp.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228120034id_/http%3A//www.coverpageapp.com/en/policy) for the most accurate reproduction.*
 
-# CoverPage - Privacy policy
+# CoverPage - Privacy Policy
 
-**MONOGRAM Interactive LLC (MONOGRAM)** wants you to be informed and confortable about all our actions that help us provide our services and deliver you best and secure user experience.
+**MONOGRAM Interactive LLC (MONOGRAM)** wants you to be informed and comfortable about all our actions that help us provide our services and deliver you best and secure user experience.
 
 ## What information do we collect?
 
@@ -19,7 +19,7 @@ Your information helps us to better respond to your individual needs.
   * **To improve our website**  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
   * **To improve customer service**  
-Your information helps us to respond to your customer service requests and support needs more effectively.
+Your information helps us to more effectively respond to your customer service requests and support needs.
   * **To process transactions**  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
   * **To send periodic emails**  
@@ -31,9 +31,9 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 ## How do we protect your information?
 
-We offer the use of a secure server. All supplied sensitive/ credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 ## Do we use cookies? 
 
@@ -43,7 +43,7 @@ We use cookies to understand and save your preferences for future visits and com
 
 ## Do we disclose any information to outside parties? 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade to third parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential, including without limitation, the device's ID like (iOS UDID). We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing and advertising.
 
 ## Third party links
 
@@ -53,7 +53,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with all acts governing data and privacy protection. We therefore will not distribute your personal information to outside parties without your consent.
 
-## Childrens Online Privacy Protection Act Compliance 
+## Children's Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of online privacy protection of children, we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
@@ -61,13 +61,13 @@ We are in compliance with the requirements of online privacy protection of child
 
 Monogram uses third party hosting partners to provide the hardware, networking, storage and related technology required to run our services.
 
-## Use of the Monogram Coverpage Service
+## Use of the Monogram CoverPage Service
 
-The Monogram Coverpage Service is accessible through the Site and installed Authoring software tool. This service enables customers to create digital publications, upload videos and pictures and publish digital content into customer's account or to decide whether it will be published to the public space viewable within Coverpage iPad Reader application. This iPad Reader application is available for free to anybody without needed registration on our site. Please note that any information you disclose through this content uploaded via the Monogram Coverpage Service may become public information and may be available to users within iPad Reader application where they are posted and to the general public. **We are not responsible for the content that you publish through the Monogram Coverpage Service.** For more informations about terms and conditions about nature of your content, please visit our Terms and Conditions section at <http://www.coverpageapp.com/terms>
+The Monogram CoverPage Service is accessible through the Site and installed Authoring software tool. This service enables customers to create digital publications, upload videos and pictures and publish digital content into customer's account or to decide whether it will be published to the public space viewable within CoverPage iPad Reader application. This iPad Reader application is available for free to anybody without needed registration on our site. Please note that any information you disclose through this content uploaded via the Monogram CoverPage Service may become public information and may be available to users within iPad Reader application where they are posted and to the general public. **We are not responsible for the content that you publish through the Monogram CoverPage Service.** For more information about terms and conditions about nature of your content, please visit our Terms and Conditions section at <http://www.coverpageapp.com/en/terms>
 
 ## Terms and Conditions 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.coverpageapp.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.coverpageapp.com/en/terms>
 
 ## Your Consent
 
