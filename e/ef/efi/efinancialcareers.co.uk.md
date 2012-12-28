@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625155322id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.co.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228123241id_/http%3A//www.efinancialcareers.co.uk/privacyPolicy.htm) for the most accurate reproduction.*
 
 # eFinancialCareers - Privacy policy
 
@@ -8,7 +8,7 @@
 
 eFinancialCareers is committed to safeguarding the privacy of our users whilst providing personalised career management services.
 
-This document (last updated on 10/28/09) sets out the privacy policy of eFinancialCareers Limited of Third Floor, Tabernacle Court, 16-28 Tabernacle Street, London EC2A 4DD and explains how we collect and use your personal information (i.e. any information about you which is personally identifiable like your name, address, telephone number or email address). eFinancialCareers is registered as a data controller, with registration number Z9136798.
+This document (last updated on 10/28/09) sets out the privacy policy of eFinancialCareers Limited of Fifth Floor, Telephone House, 69-77 Paul Street, London EC2A 4NW and explains how we collect and use your personal information (i.e. any information about you which is personally identifiable like your name, address, telephone number or email address). eFinancialCareers is registered as a data controller, with registration number Z9136798.
 
 This document relates to all the personal information that is collected through the website at www.eFinancialCareers.co.uk . For information about the collection and use of personal information collected through other eFinancialCareers websites, please see the privacy policy relevant to each website. Please note that although this website provides links to the websites of many other companies, this policy only applies to the collection and use of personal information through [www.eFinancialCareers.co.uk](http://www.efinancialcareers.co.uk/).
 
