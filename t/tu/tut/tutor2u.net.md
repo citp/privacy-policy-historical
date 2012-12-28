@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113329id_/http%3A//www.tutor2u.net/blog/index.php/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228203114id_/http%3A//www.tutor2u.net/blog/index.php/site/privacy_policy) for the most accurate reproduction.*
 
 # tutor2u News
 
@@ -47,3 +47,5 @@ tutor2u will only use the information gathered for the purposes outlined at the 
 tutor2u offers users the ability to correct or change the information collected during registration. The instructions for doing this will be provided with the registration form. 
 
 tutor2u does not currently offer a means for users to automatically delete personal information established at the time of registration. Should you experience problems or have questions, then you should contact the Data Protection Compliance Officer for tutor2u. The Data Protection Compliance Officer can be contacted by using the contact form above 
+
+[](http://tutor2u.net/blog/index.php/economics/comments/economics-revision-workshops-winter-2012-units-1-3)
