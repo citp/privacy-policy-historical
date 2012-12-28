@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629051435id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228083019id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - AAMC
 
@@ -93,9 +93,10 @@ Certain AAMC services and surveys provide additional detailed information regard
 Annual Development Survey| [Users' Guide 2011 Edition ](https://www.aamc.org/download/269698/data/2011_developement_survey_users_guide.pdf)  
 AMCAS® (American Medical College Application Service®)| [AAMC Policies Regarding the Collection, Use, and Dissemination of Medical Student and Applicant Data](https://www.aamc.org/students/applying/amcas/amcasresources/60768/amcas_datacollection.html)  
 ERAS® (Electronic Residency Application Service)| [AAMC Policies Regarding the Collection, Use, and Dissemination of Resident, Intern, Fellow, and Residency, Internship, and Fellowship Application Data  ](https://www.aamc.org/download/69376/data/erasdatapolicy.pdf)  
-Faculty Roster| [Privacy Policy](https://www.aamc.org/data/facultyroster/privacy_policy/69012/facultyroster_privacy.html)  
+Faculty Roster| [Privacy Policy](https://www.aamc.org/data/facultyroster/privacy_policy/)  
 FindAResident®| [FindAResident Privacy and Data Policy  ](https://www.aamc.org/download/69918/data/privacydatapolicy.pdf)  
-GME Track®| [Data Disclosure Statement](https://www.aamc.org/services/gmetrack/69414/gmetrack_disclosure.html)  
+GHLO™ (Global Health Learning Opportunities)| [GHLO Services Privacy Statement](https://www.aamc.org/services/ghlo/policies/)  
+GME Track®| [Data Disclosure Statement](https://www.aamc.org/services/gmetrack/collection/disclosure/)  
 Graduation Questionnaire (GQ)| Frequently Asked Questions  
 MCAT® (Medical College Admissions Test®)| [MCAT Essentials ](https://www.aamc.org/students/download/63060/data/mcatessentials.pdf)  
 MedEdPORTAL®|  [ Copyright and Patient Privacy Policy ](https://www.aamc.org/external/69416?url=https://www.mededportal.org/submitresources/policies/)  
