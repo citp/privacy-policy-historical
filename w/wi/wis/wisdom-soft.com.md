@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisdom-soft.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607163107id_/http%3A//wisdom-soft.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdom-soft.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228044642id_/http%3A//www.wisdom-soft.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Wisdom-soft
 
@@ -12,7 +12,7 @@ MotionStudio
 
 MotionGIF
 
-Download
+Downloads
 
 Buy NOW
 
@@ -42,6 +42,8 @@ Tell Friends
 
 Mailing List
 
+Distribution
+
 |     
 |  |  Products   
 ---  
@@ -60,7 +62,7 @@ Download & Support
  Support Center  
  FAQ  
  Blog  
- Distribute  
+ Distribution  
     
 Community  
  Latest News  
