@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bumpshack.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625060144id_/http%3A//bumpshack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumpshack.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228053042id_/http%3A//bumpshack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bumpshack.com
 
