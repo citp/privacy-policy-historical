@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dailymobile.se privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621212952id_/http%3A//dailymobile.se/2010/01/01/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymobile.se privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228052822id_/http%3A//www.dailymobile.net/2010/01/01/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Daily Mobile
 
-This policy applies to the **Dailymobile** web site and only webpages that contain the http://[Dailymobile](http://www.dailymobile.se/).se url. You may find inportant information about safe web surfing at the [**Federal Trade Commission Website** ](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm).
+This policy applies to the **Dailymobile** web site and only webpages that contain the http://[Dailymobile](http://www.dailymobile.net/).se url. You may find inportant information about safe web surfing at the [**Federal Trade Commission Website** ](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm).
 
-If you feel that this site is not following its stated information policy, you may contact us at  webmaster@Dailymobile.se.
+If you feel that this site is not following its stated information policy, you may contact us at  webmaster@www.dailymobile.net.
 
 **Information Collection and Use**
 
@@ -32,7 +32,7 @@ If you feel that this site is not following its stated information policy, you m
 
 **Information Sharing and Disclosure**
 
-  * Dailymobile does not rent, sell, or share personal information about you with other people or other companies except to provide products or services you’ve requested, when we have your permission, or under special circumstances such as legal proceedings and investigations, or mergers.
+  * Dailymobile does not rent, sell, or share personal information about you with other people or other companies except to provide products or services you've requested, when we have your permission, or under special circumstances such as legal proceedings and investigations, or mergers.
 
 
   * Dailymobile uses third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**Click Here**](http://www.networkadvertising.org/managing/opt_out.asp). You should refer to the privacy policies of the the third-party advertising companies and the other linked sites to determine how your personal information is handled by those sites. Dailymobile will provide a list of the third-party advertising companies being used upon request. The third-party advertising companies used may change without notice.
@@ -47,10 +47,10 @@ If you feel that this site is not following its stated information policy, you m
   * Dailymobile lets other companies that show advertisements on some of our pages set and access their cookies on your computer.
 
 
-  * Other companies’ use of their cookies is subject to their own privacy policies, not this one.
+  * Other companies' use of their cookies is subject to their own privacy policies, not this one.
 
 
-  * Advertisers or other companies do not have access to Dailymobile’s cookies.
+  * Advertisers or other companies do not have access to Dailymobile's cookies.
 
 
 
