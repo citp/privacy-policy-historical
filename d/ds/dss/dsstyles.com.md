@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dsstyles.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227012539id_/http%3A//www.dsstyles.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsstyles.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228152610id_/http%3A//www.dsstyles.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - DSStyles.com - DSStyles.com
+# Privacy Policy | DSstyles
 
 Thank you for visiting DSstyles.com. We want you to know that your privacy is important to us. Our customers are at the heart of everything we do, and we strive to ensure your experience with DSstyles.com is one that you will want to repeat and share with your friends. Part of our commitment to you is to respect and protect the privacy of the personal information you provide to us. The information below is designed to inform you of what information we collect, why we collect such information, and how we use the information we collect. 
 
