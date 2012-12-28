@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows2universe.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105941id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows2universe.org privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228221539id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policies
 
@@ -63,8 +63,8 @@ Boulder, CO 80305
 
 The privacy policy set out above is effective as of October 19, 2010, and applies to all information previously obtained by the W2U websites. We reserve the right to change the privacy policy at our sole discretion, and we will inform you of any such change by posting a new privacy policy on the W2U websites along with the effective date. We will also obtain consent to uses of PII in ways that are materially different from the ones described in this Privacy Policy. 
 
-[](https://web.archive.org/store/product.php?productid=246)
+[](https://web.archive.org/store/product.php?productid=64)
 
 #### Shop Windows to the Universe Science Store!
 
-Our [online store](http://www.windows2universe.org/store/home.php) includes fun [classroom activities](http://www.windows2universe.org/store/home.php?cat=1) for you and your students. [Issues of NESTA's quarterly journal, _The Earth Scientist_](http://www.windows2universe.org/store/home.php?cat=19) are also full of classroom activities on different topics in Earth and space science!
+Enjoy your love of minerals and fossils through jewelry! We have beautiful Nature's Own [jewelry](http://www.windows2universe.org/store/home.php?cat=12) in our [online store](http://www.windows2universe.org/store/home.php), including earrings, necklaces, and pendants! 
