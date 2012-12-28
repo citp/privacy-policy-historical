@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the app-mobile.net privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520121119id_/http%3A//www.app-mobile.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app-mobile.net privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228062510id_/http%3A//www.app-mobile.net/privacy) for the most accurate reproduction.*
 
-# Privacy | App-Mobile.Net | Free Android Apps | Games | Theme
+# Privacy | App-Mobile.Net | Free Android Apps | Games | Themes
 
 This blog does not share personal information with third parties nor do we store any information about your visit to this blog other than to analyze and optimize your content and reading experience through the use of cookies.
 
-At App-Mobile.Net, the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+At [App-](http://www.app-mobile.net/category/android-app "app")Mobile.Net, the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
 This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
 
@@ -24,7 +24,7 @@ All of this information is not linked to anything that is personally identifiabl
 
 **2\. Cookies**
 
-We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers, App-Mobile.Net has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers, We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit[http://www.networkadvertising.org/managing/opt_out.asp](http://www.app-mobile.net/wp-content/plugins/htr-checkvirus/check.php?www.networkadvertising.org%2Fmanaging%2Fopt_out.asp).
 
 If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers’ websites.
 
@@ -37,9 +37,3 @@ Google, a third party vendor, uses the DART cookie to serve ads on App-Mobile.Ne
 Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from App-Mobile.Net. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.app-mobile.net/contact-us) .
-
-#### Incoming search terms:
-
-  * [p205 apk](http://www.app-mobile.net/privacy "p205 apk") (2)
-
-
