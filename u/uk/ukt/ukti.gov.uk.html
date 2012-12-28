@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ukti.gov.uk privacy policy that was archived on 2012-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516024151id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ukti.gov.uk privacy policy that was archived on 2012-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121228042719id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 	<title>Privacy and Cookies</title>
@@ -99,6 +99,112 @@ DD_belatedPNG.fix('.png_bg');
 
 
 
+<script language="JavaScript" type="text/javascript">
+    $(document).ready(function() {
+
+
+        $('.coveritlive').each(function(index) {
+            var theId = $(this).attr("id");
+
+            var currentTagTokens = theId.split(" ");
+
+            if (currentTagTokens.length > 1) {
+                var code = currentTagTokens[1];
+                $(this).append("<div id='coveritlive_container' style='margin: 0 auto; clear: both; overflow: hidden; float: left; width: auto;'>" +
+                        "<iframe width='480' scrolling='no' height='550' frameborder='0' allowtransparency='allowtransparency'" +
+                        "src='http://www.coveritlive.com/index2.php/option=com_altcaster/task=viewaltcast/altcast_code="+code +"/height=550/width=480'>" +
+                        "</iframe>" +
+                        "</div>" +
+                        "<div class='clear'></div>");
+            }
+        });
+
+
+//        $('.storify').each(function(index) {
+//            var theId = $(this).attr("id");
+//            var currentTagTokens = theId.split(" ");
+//            if (currentTagTokens.length > 1) {
+//                var urlPath = currentTagTokens[1];
+//                var title = "story";
+//                if (currentTagTokens.length > 2) {
+//                    title = "";
+//                    for (var i = 2; i < currentTagTokens.length; i++ ) {
+//                            title = title + currentTagTokens[ i ] + ", ";
+//                        }
+//                }
+//
+//                $(this).append("<div class='storify-container' url='http://storify.com/"+ urlPath +"' style='display: block; clear: left;'>" +
+//                        "<iframe scrolling='no' frameborder='no' src='http://storify.com/"+urlPath +"/embed?' name='"+title+"' allowtransparency='true' style='display: block; background-color: transparent; border: medium none; overflow: hidden; width: 100%; max-width: 900px; height: 4497px; min-height: 4497px;'>" +
+//                        "</iframe>" +
+//                        "<div><a href='http://storify.com/"+urlPath+"' target='_blank'>View "+title+" on Storify</a></div>" +
+//                        "</div>" +
+//                        "<div class='clear'></div>");
+//            }
+//        });
+
+
+        $('.ordnance_survey').each(function(index) {
+            var theId = $(this).attr("id");
+            var currentTagTokens = theId.split(" ");
+            if (currentTagTokens.length > 1) {
+                var urlPath = currentTagTokens[1];
+
+                $(this).append("<div class='ordnance_survey_container' url='http://www.ordnancesurvey.co.uk/"+urlPath+"' style='display: block; clear: left;'>" +
+                        "<p><iframe title='Find your nearest Ordnance Survey Mapping and Data Centre' frameborder='0' height='555' src='http://www.ordnancesurvey.co.uk/"+urlPath+"' width='102%'  class='restricted' scrolling='no'></iframe></p>" +
+                        "</iframe>" +
+                        "</div>" +
+                        "<div class='clear'></div>");
+            }
+        });
+
+
+        $('.iettv').each(function(index) {
+            var theId = $(this).attr("id");
+            var currentTagTokens = theId.split(" ");
+            if (currentTagTokens.length > 1) {
+                var code = currentTagTokens[1];
+
+                $(this).append("<div class='iettv_container' url='http://scpro.streamuk.com/uk/player/Default.aspx?g="+code+"'>" +
+                        "<iframe src='http://scpro.streamuk.com/uk/player/Default.aspx?g="+code+"' width='655px' height='500px' frameborder='0' class='restricted' scrolling='no'>" +
+                        "</iframe>" +
+                        "</div>" +
+                        "<div class='clear'></div>");
+            }
+        });
+
+        $('.youtube').each(function(index) {
+            var theId = $(this).attr("id");
+
+            var currentTagTokens = theId.split(" ");
+            if (currentTagTokens.length > 1) {
+                var youtubeId = currentTagTokens[1];
+
+                var width = 252;
+                var height = 188;
+                if (currentTagTokens.length > 2) {
+                    width = currentTagTokens[2];
+                }
+                if (currentTagTokens.length > 3) {
+                    height = currentTagTokens[3];
+                }
+
+                $(this).append("<div class='youtube_container'>" +
+                        "<object type='application/x-shockwave-flash'" +
+                        "data='http://www.youtube.com/v/"+youtubeId+"&hl=en_US&fs=1&ap=%2526fmt%3D18&ap=%2526fmt%3D22&'" +
+                        "width='"+width+"' height='"+height+"'>" +
+                        "<param name='movie'" +
+                        "value='http://www.youtube.com/v/"+youtubeId+"&hl=en_US&fs=1&ap=%2526fmt%3D18&ap=%2526fmt%3D22&'/>" +
+                        "<param name='quality' value='high'/>" +
+                        "</object>" +
+                        "</div>" +
+                        "<div class='clear'></div>");
+
+            }
+        });
+
+    });
+</script>
+
 
 </head>
 <body id="t5_single_localisation">
@@ -107,6 +213,8 @@ DD_belatedPNG.fix('.png_bg');
 	<a href="#article">Skip to content</a>
 </div>
 <div id="page" class="red">
+
+
 
 
 
@@ -137,18 +245,22 @@ DD_belatedPNG.fix('.png_bg');
 				<img src="/images/top_menu_right.gif" width="2" height="37" alt="Defence &amp; Security">
 	</p>
 
-	<form id="search_form" action="/uktihome/search.html" onsubmit="removeSubmitImageAttr();">
-		<label for="search">Search</label>
-		<input type="text" name="search" id="search">
-		<input type="hidden" name="sort" value="ByScore">
-		<input type="image" class="corner_go_button" style="width: 30px; height: 22px;" value="go" src="/images/go_button_red.gif" alt="Go Button" title="Go Button">
-	</form>
+
+
+    <form style="padding-left:498px;" id="search_form" action="/uktihome/search.html" onsubmit="removeSubmitImageAttr();">
+        <label style="width:41px;" for="search">Search</label>
+        <input style="width:171px;" type="text" name="search" id="search">
+        <input type="hidden" name="sort" value="ByScore">
+        <input type="image" class="corner_go_button" style="width: 30px; height: 22px;" value="go" src="/images/go_button_red.gif" alt="Go Button" title="Go Button">
+    </form>
 
 	<p id="login">
 				<br>
 				<a href="/uktihome/register.html" title="Login">Login</a>
 				<a href="/uktihome/register.html" title="Register">Register</a>
-				<a href="/uktihome/contactus.html" title="Contact us">Contact us</a>
+
+		<a href="/uktihome/contactus.html" title="Contact us">Contact us</a>
+
 	</p>
 
 </div>
@@ -194,7 +306,6 @@ You Are Here :
 </div>
 
 
-
 	<div class="clear">&nbsp;</div>
 
 	<div id="article" lang="en" class="t5">
@@ -213,7 +324,6 @@ You Are Here :
 
 
 
-
 					</div>
 
 
@@ -223,18 +333,18 @@ You Are Here :
 <h2>Data Protection Act 1998</h2>
 <p class="P8">UK Trade &amp; Investment (UKTI) processes personal data for the purposes of promoting UK business competitiveness, to help secure overseas sales and investments and to support and develop UK inward investment. Recipients of the personal data we may hold on you may include our UK regional network, our overseas network, other UK Government Departments and our partners.</p>
 <h2>Cookies</h2>
-<p class="Text_20_body"><span class="T2" style="font-weight:normal; font-style:normal; text-decoration:none; ">UKTI provides details on what </span><a href="http://www.ukti.gov.uk/uktihome/item/142860.html"><span class="T2" style="font-weight:normal; font-style:normal; ">cookies do and a full list that UKTI uses</span></a><span class="T2" style="font-weight:normal; font-style:normal; text-decoration:none; "> on its websites.</span></p>
+<p class="Text_20_body"><span class="T2" style="">UKTI provides details on what </span><a href="http://www.ukti.gov.uk/uktihome/item/142860.html"><span class="T2" style="">cookies do and a full list that UKTI uses</span></a><span class="T2" style=""> on its websites.</span></p>
 <h2>Registration information</h2>
 <p class="P8">You do not have to register to use the UKTI website, but you do need to register to follow up on business opportunities and obtain access to premium content or receive updates about the site.</p>
 <p class="P8">As a minimum we require as mandatory for you to register us with: your username (which does not need to be your real name), a password, e-mail address and your location. This information is stored securely on our database so that you do not need to re-register when you come back to the site.</p>
-<p class="Text_20_body"><span class="T2" style="font-weight:normal; font-style:normal; text-decoration:none; ">You can change your registration preferences, e-mail address and login details through the website at any time. If you wish to amend your personal profile, please click on the 'Login’ link at the top of the page, log in to your account, go to ‘My Account’ and ‘Edit Account Details’, then check/uncheck the options available. If you are no longer interested in receiving UKTI email alerts click, deselect the ‘</span><span class="null" style="font-weight:normal; font-style:normal; text-decoration:none; ">send me marketing information about UK Trade &amp; Investment by e-mail’. Alternatively, s</span><span class="null" style="font-weight:normal; font-style:normal; text-decoration:none; ">elect the ‘Unsubscribe' link at the bottom of your email alerts. </span></p>
+<p class="Text_20_body"><span class="T2" style="">You can change your registration preferences, e-mail address and login details through the website at any time. If you wish to amend your personal profile, please click on the 'Login’ link at the top of the page, log in to your account, go to ‘My Account’ and ‘Edit Account Details’, then check/uncheck the options available. If you are no longer interested in receiving UKTI email alerts click, deselect the ‘</span><span class="null" style="">send me marketing information about UK Trade &amp; Investment by e-mail’. Alternatively, s</span><span class="null" style="">elect the ‘Unsubscribe' link at the bottom of your email alerts. </span></p>
 <h2>Feedback</h2>
-<p class="Text_20_body"><span class="T2" style="font-weight:normal; font-style:normal; text-decoration:none; ">You can send a message to UKTI using our </span><a href="http://www.ukti.gov.uk/uktihome/contactus/contactusform.html"><span class="T4" style="font-weight:normal; font-style:normal; ">Contact us</span></a><span class="T5" style="font-weight:normal; font-style:normal; text-decoration:none; "> </span><span class="T6" style="font-weight:normal; font-style:normal; text-decoration:none; ">f</span><span class="T2" style="font-weight:normal; font-style:normal; text-decoration:none; ">orm. If you are asking for information we do not already publish on the site, we will deal with your query. In doing so we may need to contact other organisations to find answers to your questions. If your question is technical, we may need to pass it to our technology supplier. In such cases we will only pass on personal data if it is necessary to do so, and we will not keep your personal data or records of our correspondence longer than necessary.</span></p>
+<p class="Text_20_body"><span class="T2" style="">You can send a message to UKTI using our </span><a href="http://www.ukti.gov.uk/uktihome/contactus/contactusform.html"><span class="T4" style="">Contact us</span></a><span class="T5" style=""> </span><span class="T6" style="">f</span><span class="T2" style="">orm. If you are asking for information we do not already publish on the site, we will deal with your query. In doing so we may need to contact other organisations to find answers to your questions. If your question is technical, we may need to pass it to our technology supplier. In such cases we will only pass on personal data if it is necessary to do so, and we will not keep your personal data or records of our correspondence longer than necessary.</span></p>
 <h2>Updating your personal information</h2>
-<p class="P2"><span class="Body_20_Text_20_Char" style="font-weight:normal; font-style:normal; text-decoration:none; ">You have the right to access and correct the personal information retained by the website. To do this, log into the website using your username and password. From the menu on the left, click ‘My Account’ and then ‘Edit Account Details’</span></p>
+<p class="P2"><span class="Body_20_Text_20_Char" style="">You have the right to access and correct the personal information retained by the website. To do this, log into the website using your username and password. From the menu on the left, click ‘My Account’ and then ‘Edit Account Details’</span></p>
 <h2>Changes to this Privacy and Data Protection statement</h2>
 <p class="P8">If this privacy and data protection statement changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.</p>
-<p class="Text_20_body"><span class="T2" style="font-weight:normal; font-style:normal; text-decoration:none; ">If you have a query or complaint about this privacy policy or about the site, you can contact via our </span><a href="http://www.ukti.gov.uk/uktihome/contactus/contactusform.html"><span class="Internet_20_link" style="font-weight:normal; font-style:normal; text-decoration:underline; ">Contact Us form</span></a><span class="T2" style="font-weight:normal; font-style:normal; text-decoration:none; ">.</span></p>
+<p class="Text_20_body"><span class="T2" style="">If you have a query or complaint about this privacy policy or about the site, you can contact via our </span><a href="http://www.ukti.gov.uk/uktihome/contactus/contactusform.html"><span class="Internet_20_link" style=""><u>Contact Us form</u></span></a><span class="T2" style="">.</span></p>
 <h2>Data Controller</h2>
 <p class="Text_20_body">Any information you provide will be held securely and in accordance with the Data Protection Act 1998. </p>
 <p class="Text_20_body">You have a right to request a copy of your personal details at any time to check the accuracy of the information held. If you want to ask whether UKTI holds any personal data relating to you, please write to us at:</p>
@@ -245,7 +355,7 @@ You Are Here :
 <p class="Address">London </p>
 <p class="Address">SW1H 0ET</p>
 <p class="Address"></p>
-<p class="Text_20_body">Alternatively you can email your request to <a href="mailto:dataprotection@bis.gsi.gov.uk" target="_blank"><span class="Internet_20_link" style="font-weight:normal; font-style:normal; text-decoration:underline; ">dataprotection@bis.gsi.gov.uk</span></a></p>
+<p class="Text_20_body">Alternatively you can email your request to <a href="mailto:dataprotection@bis.gsi.gov.uk" target="_blank"><span class="Internet_20_link" style=""><u>dataprotection@bis.gsi.gov.uk</u></span></a></p>
 <h1>UK Trade &amp; Investment Information Charter</h1>
 <p class="Text_20_body">We need to handle personal information about you so that we can provide services for you. This is how we look after that information. </p>
 <p class="Text_20_body">When we ask you for personal information, we promise:</p>
@@ -286,7 +396,7 @@ You Are Here :
 </ul>
 <p class="Text_20_body">For more information, please contact: </p>
 <p class="Address">Andrew Strachan</p>
-<p class="Address">Email: <a href="mailto:andrew.strachan@ukti.gsi.gov.uk" target="_blank"><span class="Internet_20_link" style="font-weight:normal; font-style:normal; text-decoration:underline; ">andrew.strachan@ukti.gsi.gov.uk</span></a></p>
+<p class="Address">Email: <a href="mailto:andrew.strachan@ukti.gsi.gov.uk" target="_blank"><span class="Internet_20_link" style=""><u>andrew.strachan@ukti.gsi.gov.uk</u></span></a></p>
 <p class="Address"></p>
 <p class="Text_20_body">In abiding by these commitments, we will keep to the law, including the Data Protection Act 1998 and the Freedom of Information Act 2000. For independent advice about data protection, privacy and data-sharing issues, you can contact the Information Commissioner at: </p>
 <p class="Address">Wycliffe House, </p>
@@ -296,13 +406,11 @@ You Are Here :
 <p class="Address">SK9 5AF. </p>
 <p class="Address">Phone: 08456 30 60 60 or 01625 54 57 45 </p>
 <p class="Address">Fax: 01625 524510.</p>
-<p class="Address">Website: <a href="http://www.ico.gov.uk/" target="_blank"><span class="Internet_20_link" style="font-weight:normal; font-style:normal; text-decoration:underline; ">www.ico.gov.uk</span></a></p>
+<p class="Address">Website: <a href="http://www.ico.gov.uk/" target="_blank"><span class="Internet_20_link" style=""><u>www.ico.gov.uk</u></span></a></p>
 <p class="Text_20_body"></p>
 <p class="Text_20_body">UK Trade &amp; Investment, May 2011</p>
 </div>
 </div>
-
-
 
 
                     
@@ -312,15 +420,42 @@ You Are Here :
 			</div>
 
 <div id="article_links">
-	<p>
-        <span><a href="/uktihome/item/share/110347.html" class="share_this" target="share_popup" title="ShareThis">ShareThis</a></span>
+    <div id="socialMediaSharingLink">
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#shareThisMenu').click(function(){
+                if($(this).find('ul').css('visibility') == 'visible'){
+                    $('#shareThisMenu li ul').css('visibility', 'hidden')
+                } else{
+                    $(this).find('ul').css('visibility', 'visible');
+                }
+            });
+            $('#shareThisMenu li ul').mouseleave(function(){
+                $(this).css('visibility', 'hidden');
+            });
+        });
+    </script>
+    <ul id="shareThisMenu">
+        <li>
+            <span>Share this</span>
+            <ul>
+                <li><a class="delicious" title="Post to Delicious" href="http://del.icio.us/post?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank">Delicious</a></li>
+                <li><a class="digg" title="Post to Digg" href="http://digg.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank">Digg</a></li>
+                <li><a class="reddit" title="Post to reddit" href="http://reddit.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank">reddit</a></li>
+                <li><a class="stumbleupon" title="Post to StumbleUpon" href="http://www.stumbleupon.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank">StumbleUpon</a> </li>
+                <li><a class="facebook" title="Post to Facebook" href="http://www.facebook.com/sharer.php?u=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;t=Privacy%20and%20Cookies" target="_blank">Facebook</a> </li>
+                <li><a class="twitter" title="Post to Twitter" href="http://www.twitter.com/home?status=http://www.ukti.gov.uk/uktihome/privacypolicy.html" target="_blank">Twitter</a></li>
+                <li><a class="linkedin" title="Post to LinkedIn" href="http://www.linkedin.com/cws/share?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html" target="_blank">LinkedIn</a></li>
+            </ul>
+        </li>
+    </ul>
+
+        <span class="seperator"> </span>
+        <span><a href="/uktihome/item/email/110347.html" class="email_this" title="Email This">Email this</a></span>
 		<span class="seperator"> </span>
-        <span><a href="/uktihome/item/email/110347.html" class="email_this" title="Email This">Email
-			this</a></span>
-		<span class="seperator"> </span>
-        <span><a href="/uktihome/item/print/110347.html" class="print_this" target="_blank" title="Print This">Print
-			this</a></span>
-	</p>
+        <span><a href="/uktihome/item/print/110347.html" class="print_this" target="_blank" title="Print This">Print this</a></span>
+	</div>
 </div>
 
 		</div>
@@ -363,14 +498,15 @@ You Are Here :
 </ul>
 
 
-	<p id="icons">
+    <p id="icons">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-		<a href="//blog.ukti.gov.uk" class="blog" title="Blog"><span>Blog</span></a>
-		<a href="//www.youtube.com/user/UKTIWeb" class="youtube" title="YouTube"><span>YouTube</span></a>
-		<a href="//www.linkedin.com/groups?about=&amp;gid=1769629&amp;trk=anet_ug_grppro" class="linkedin" title="Linked In"><span>Linked In</span></a>
-		<a href="//twitter.com/UKTI" class="twitter" title="Twitter"><span>Twitter</span></a>
-		<a href="//www.flickr.com/photos/ukti/" class="flickr" title="Flickr"><span>Flickr</span></a>
-	</p>
+        <a href="//blog.ukti.gov.uk" class="blog" title="Blog" target="_blank"><span>Blog</span></a>
+        <a href="//www.youtube.com/user/UKTIWeb" class="youtube" title="YouTube" target="_blank"><span>YouTube</span></a>
+        <a href="//www.linkedin.com/groups?about=&amp;gid=1769629&amp;trk=anet_ug_grppro" class="linkedin" title="Linked In" target="_blank"><span>Linked In</span></a>
+        <a href="//twitter.com/UKTI" class="twitter" title="Twitter" target="_blank"><span>Twitter</span></a>
+        <a href="//www.flickr.com/photos/ukti/" class="flickr" title="Flickr" target="_blank"><span>Flickr</span></a>
+        <a href="//opentoexport.com/#?cam=UKTI01" class="opentoexport" title="OpenToExport" target="_blank"><span>OpenToExport</span></a>
+    </p>
 
 </div>
 
@@ -424,28 +560,6 @@ You Are Here :
 
 
 
-</div>
-
-<div id="share_dialog" title="Share This" class="hidden" lang="en">
-		<div id="header" class="pop">
-			<h1><a href="/" title="UK Trade &amp; Investment"><span>UK Trade &amp; Investment</span></a></h1>
-		</div>
-
-
-			<p id="article_date">Friday, 27 May 2011</p>
-
-		<h1 class="first_heading">Privacy and Cookies</h1>
-
-		<br><br>
-
-		<p id="shareicons">
-			<a class="delicious" title="Post to Delicious" href="//del.icio.us/post?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>Delicious</span></a>
-			<a class="digg" title="Post to Digg" href="//digg.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>Digg</span></a>
-			<a class="reddit" title="Post to reddit" href="//reddit.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>reddit</span></a>
-			<a class="facebook" title="Post to Facebook" href="//www.facebook.com/sharer.php?u=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;t=Privacy%20and%20Cookies" target="_blank"><span>Facebook</span></a>
-			<a class="stumbleupon" title="Post to StumbleUpon" href="//www.stumbleupon.com/submit?url=http://www.ukti.gov.uk/uktihome/privacypolicy.html&amp;title=Privacy%20and%20Cookies" target="_blank"><span>StumbleUpon</span></a>
-			<a class="twitter" title="Post to Twitter" href="//www.twitter.com/home?status=http://www.ukti.gov.uk/uktihome/privacypolicy.html"><span>Twitter</span></a>
-		</p>
 </div>
 
 
