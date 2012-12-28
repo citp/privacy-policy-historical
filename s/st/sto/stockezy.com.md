@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the stockezy.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622125455id_/http%3A//www.stockezy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockezy.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228095325id_/http%3A//www.stockezy.com/privacy) for the most accurate reproduction.*
 
 # Stockezy - India's First Social Investing Community.
 
-[BSE](https://web.archive.org/markets/bse/) 16972.51 -60.05 -0.35%
+[BSE](https://web.archive.org/markets/bse/) 19438.81 115.01 0.60%
 
-[NSE](https://web.archive.org/markets/nse/) 5146.05 -18.95 -0.37%
+[NSE](https://web.archive.org/markets/nse/) 5909.35 39.25 0.67%
 
-Fri, Jun 22, 2012 03:59PM IST India Markets Closed.
+Fri, Dec 28, 2012 03:10PM IST India Markets Open.
 
 ## Privacy Policy
 
