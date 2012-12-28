@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finda.co.nz privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624025106id_/http%3A//support.finda.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finda.co.nz privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229002320id_/http%3A//support.finda.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
