@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pointemout.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628160240id_/http%3A//pointemout.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointemout.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228085621id_/http%3A//pointemout.com/privacy-notice) for the most accurate reproduction.*
 
-# POINTEMOUT.COM - Hollywood Never Looked So Good
+# Privacy Notice - POINTEMOUT.COM
 
 ## [Privacy Notice](http://pointemout.com/privacy-notice/ "Permanent Link to Privacy Notice")
 
