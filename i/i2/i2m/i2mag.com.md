@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the i2mag.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618100748id_/http%3A//i2mag.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i2mag.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228132901id_/http%3A//i2mag.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - I2Mag
+# Privacy Statement - I2Mag: Internet & Design Inspiration Magazine
 
 **Last Updated January 02, 2012**
 
@@ -8,7 +8,7 @@
 
 **Who We Are and How To Reach Us**
 
-**[G2One Network Private Limited](http://www.g21network.com/)**  owns and operates the [I2Mag.com](http://www.i2mag/) website, and all websites under the root domain of I2Mag.com (collectively referred to in this statement as the “Website’). You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at contactus[at]i2mag.com or G2One Network Private Limited, A-6/8 First Floor, Paschim Vihar, New Delhi – 110063, INDIA.
+**[G2One Network Private Limited](http://www.g21network.com/)**  owns and operates the [I2Mag.com](http://www.i2mag.com/) website, and all websites under the root domain of I2Mag.com (collectively referred to in this statement as the “Website’). You may contact us directly if you have any questions regarding the content and material on the Website or if you have any questions about our privacy policies. Please contact us at contactus[at]i2mag.com or G2One Network Private Limited, A-6/8 First Floor, Paschim Vihar, New Delhi – 110063, INDIA.
 
 **Collection of Personal Information**
 
