@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the care360.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629054423id_/http%3A//www.questdiagnostics.com/home/privacy-policy/online-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care360.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228230719id_/http%3A//www.questdiagnostics.com/home/privacy-policy/online-privacy.html) for the most accurate reproduction.*
 
 # Online Privacy Policy : Online Privacy Policy
 
 **Quest Diagnostics Online Privacy Policy**
 
-Quest Diagnostics and its wholly-owned subsidiaries (collectively "Quest Diagnostics") believe that privacy is important to the success and use of the Internet.  This statement sets forth Quest Diagnostics policy and describes the practices that we will follow with respect to the privacy of the information of users of this site.  Should you have any questions about this policy or our practices, please send an email to [**Privacy@QuestDiagnostics.com**](http://legacy.questdiagnostics.com/brand/contactus/jsp/mail.jsp?type=35) or write to us at: 
+Quest Diagnostics and its wholly-owned subsidiaries (collectively "Quest Diagnostics") believe that privacy is important to the success and use of the Internet.  This statement sets forth Quest Diagnostics policy and describes the practices that we will follow with respect to the privacy of the information of users of this site.  Should you have any questions about this policy or our practices, please send an [**email**](https://secure.questdiagnostics.com/ViewsFlash/servlet/viewsflash?cmd=page&pollid=contactus!privacy_int) or write to us at: 
 
 Quest Diagnostics   
 Attention: Privacy Officer  
