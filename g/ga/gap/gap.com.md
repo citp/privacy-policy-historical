@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511072520id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gap.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228102509id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # | Gap
 
-_Last revised February 24, 2011_
+_Last revised October 24, 2012_
 
 Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, and Athleta (collectively, "Gap Inc."), value our customers and respect your privacy. We collect information about you in our stores and through our websites in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. As described in this policy, we may share your information among our brands and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. For Athleta customers only, we may share your postal address and shopping history with like-minded third parties for their direct mail marketing purposes as described below.
 
@@ -17,8 +17,8 @@ If you have any questions about our privacy policy, please contact us as describ
   * How do I make choices about receiving promotional communications?
   * How do I stop receiving Athleta catalogs?
   * How does Gap Inc. protect kids' privacy?
-  * How does Gap Inc. use cookies?
-  * How does Gap Inc. use pixel tags?
+  * How does Gap Inc. use cookies and other tracking technologies?
+  * How is my information used for behavioral or interest-based advertising?
   * How do I know my personal information is secure?
   * What is "phishing"?
   * I received a suspicious email from a Gap Inc. brand regarding an order I did not place. What should I do?
@@ -99,17 +99,17 @@ For example, we may use cookies to enable you to use certain website features, r
 
 You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.
 
-back to top
-
-We use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information.
+We also use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information.
 
 Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. We do not otherwise track any information about your use of other websites.
 
 Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
-We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. These companies may collect information about your visits to our websites and your interaction with our advertising and other communications. If you would like more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+We may combine the information we collect through cookies and pixel tags with other information we have collected from and about you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
 
-We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
+back to top
+
+We work with third-party companies that use tracking technologies (including cookies and pixel tags) on our websites in order to provide tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on our sites and your interaction with our advertising and other communications and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your options, please visit [http://www.aboutads.info](http://www.aboutads.info/).
 
 back to top
 
