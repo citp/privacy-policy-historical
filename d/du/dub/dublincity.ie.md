@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629213452id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228222301id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Dublin City Council: Privacy Statement
 
@@ -70,7 +70,9 @@ This website uses Google Analytics to help analyse how users use the site. This 
 
 The ICO will not (and will not allow any third party) to use the statistical analytics tool to track or to collect any personally identifiable information of visitors to our site. We will not associate any data gathered from this site with any personally identifying information from any source as part of our use of the Google statistical analytics tool. Google will not associate your IP address with any other data held by Google. Neither the ICO nor Google will link, or seek to link, an IP address with the identity of a computer user. 
 
-### Further information about cookies 
+Dublin City Council uses cookies to allow accessibility options on the site to function correctly i.e. - increasing/decreasing text size or changing the contrast. Cookies are also used to allow users of mobile phones to browse the mobile version of the site.
+
+### Further information about cookies
 
 The Interactive Advertising Bureau (IAB) is an industry body that develops standard and guidelines to support online business processes. It has produced a series of web pages which explain how cookies work and how they can be managed. <http://www.iab.net/>
 
