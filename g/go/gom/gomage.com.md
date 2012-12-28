@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620161009id_/http%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228101816id_/http%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# GoMage - Privacy Policy
 
 ## Privacy statement
 
@@ -14,13 +14,13 @@ All information received from the User is used exclusively to improve the qualit
 
 GoMage.com guarantees the confidentiality of any and all data supplied by the User when utilizing the GoMage.com software or services and when visiting the GoMage.com website. We do not disclose any information provided by the User to any third party unless ordered to by a court of law, during the investigation of a criminal offense or as required under other provisions of disclosure of personal data.
 
-### IMPORTANT! GOMAGE.COM DOES NOT COLLECT DATA ON PLASTIC CARDS
+### IMPORTANT! GOMAGE.COM DOES NOT COLLECT DATA ON PAYMENT INFORMATION SUCH AS CREDIT CARDS, PAYPAL OR CHECKING. 
 
 ## How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file, which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Generally, cookies allow web applications to respond to you as an individual. With the help of a cookie, a web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic to our website and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
@@ -46,6 +46,24 @@ If you believe that any information we are holding on you is incorrect or incomp
 ## Your personal data protection
 
 GoMage.com takes all necessary steps to safeguard Your data including the use of specialized services to secure payment of all Software or Services purchased through the website. All confidential information transmitted and received by us from the specialized services is encrypted with the help of software that uses Secure Sockets Layer (SSL).
+
+### Children Using this Website
+
+This website is not meant to be used by children who are under the age of thirteen (13). If you become aware that your child(ren) has provided us with their personal data, please contact us at sales@gomage.com.
+
+### Jurisdiction
+
+Your use of this site is on your own initiative and at your own risk. You are responsible for complying with all local laws, rules and regulations. We do not represent or warrant that GoMage website is appropriate or available for use in any particular country or jurisdiction.
+
+We are free to limit the availability of the website to a particular jurisdiction at any time in our sole discretion.
+
+### Contacting Us
+
+If you have any questions regarding this Privacy Policy, please contact us by email at sales@gomage.com, or please write to the following address:  
+EASYVEASY Sp. z o.o.,  
+Trzcinowa str. 23/4902-446,  
+Warsaw, Poland  
++48 22 219 5064
 
 ## List of cookies we collect
 
@@ -77,4 +95,6 @@ STORE | The store view or language you have selected.
 USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
 VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
 WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+WISHLIST_CNT | The number of items in your Wishlist.  
+  
+### Last updated on December 28st, 2012.
