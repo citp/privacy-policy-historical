@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlottein2012.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204021802id_/http%3A//charlottein2012.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlottein2012.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228030447id_/http%3A//charlottein2012.com/privacy) for the most accurate reproduction.*
 
 # Charlotte in 2012: Charlotte in 2012 Privacy Statement
 
@@ -28,7 +28,7 @@ Because we care about the safety and privacy of children online, we comply with 
 
 ## Contributions to Host Committee–Public Information
 
-The Host Committee is required to file with the Federal Election Commission reports publicly disclosing the name, address, occupation and employer of individuals who contribute to the Host Committee, and the amount and date of the contribution. In addition, the Host Committee has agreed with the 2012 Democratic National Convention Committee to make such information available online on an ongoing basis.
+The Host Committee is required to file with the Federal Election Commission reports publicly disclosing the name, address, occupation and employer of individuals who contribute to the Host Committee, and the amount and date of the contribution.
 
 ## Contributions to Host Committee—General Policies
 
