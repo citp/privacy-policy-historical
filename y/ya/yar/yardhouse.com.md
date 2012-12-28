@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yardhouse.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504211109id_/http%3A//www.yardhouse.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardhouse.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228220133id_/http%3A//www.yardhouse.com/about/privacy.aspx) for the most accurate reproduction.*
 
-# Yard House Restaurants - Great Food, Classic Rock and 130 to 250 Taps of Imported, Craft and Specialty Ales & Lagers.
+# Yard House Restaurant - Privacy Policy
 
 **PRIVACY POLICY: Last Updated 12/16/11**
 
