@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindiserials.tv privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629042820id_/http%3A//hindiserials.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindiserials.tv privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228042649id_/http%3A//hindiserials.tv/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy | Hindi Tv Serials - Discuss and Read about Hindi Dramas Online
 
