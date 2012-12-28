@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yamaha.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113807id_/http%3A//www.yamaha.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yamaha.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228204006id_/http%3A//yamaha.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yamaha - Global
 
