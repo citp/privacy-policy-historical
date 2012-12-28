@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercodes.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620181648id_/http%3A//www.vouchercodes.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228172105id_/http%3A//www.vouchercodes.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy & Cookies | Voucher Codes | Promotional Codes | Promotional Vouchers | Promotional Coupons | Discount Codes | Discount Vouchers
 
