@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629123851id_/http%3A//www.mo.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228204821id_/http%3A//www.mo.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MO.gov
 
-It’s important that you understand our privacy position. As a state [government](http://www.mo.gov/government/ "government"), the State of Missouri is a public governmental body subject to Chapter 610 of the Revised Statutes of Missouri, commonly known as the Sunshine Law. If an appropriate request is made to this office for information that is subject to disclosure by the Sunshine Law, the State of Missouri will be required to disclose the information requested, even if it may include your personally identifiable information.
+It’s important that you understand our privacy position. As a state government, the State of Missouri is a public governmental body subject to Chapter 610 of the Revised Statutes of Missouri, commonly known as the Sunshine Law. If an appropriate request is made to this office for information that is subject to disclosure by the Sunshine Law, the State of Missouri will be required to disclose the information requested, even if it may include your personally identifiable information.
 
 There are various locations on the State of Missouri web sites where you may submit registration information. In order to complete your online transactions, we usually must collect information from you, including your e-mail address, your postal address, an identification number or social security number, or other pieces of personal information. Our online forms should indicate the information that is required and the information that is optional-you do not have to complete any “optional” fields on a form. For us to be able to complete your online transactions, however, you must supply the required information. If this is not acceptable to you, we will gladly accept the transaction in person or on paper, rather than online. Providing personal information on-line will always be your choice. The personal information that you supply will not be sold to others.
 
@@ -48,4 +48,4 @@ We will post any changes in this privacy policy at least 30 days prior to the ch
 
 ## For More Information
 
-If you have any questions or comments about our privacy policy, [contact the webmaster](http://www.mo.gov/contact/).
+If you have any [questions](http://www.mo.gov/inauguration/questions/ "questions") or comments about our privacy policy, [contact the webmaster](http://www.mo.gov/contact/).
