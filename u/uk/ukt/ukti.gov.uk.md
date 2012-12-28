@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukti.gov.uk privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516024151id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukti.gov.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228042719id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
@@ -30,7 +30,7 @@ You have the right to access and correct the personal information retained by th
 
 If this privacy and data protection statement changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
-If you have a query or complaint about this privacy policy or about the site, you can contact via our [Contact Us form](http://www.ukti.gov.uk/uktihome/contactus/contactusform.html).
+If you have a query or complaint about this privacy policy or about the site, you can contact via our [_Contact Us form_](http://www.ukti.gov.uk/uktihome/contactus/contactusform.html).
 
 ## Data Controller
 
@@ -50,7 +50,7 @@ London
 
 SW1H 0ET
 
-Alternatively you can email your request to [dataprotection@bis.gsi.gov.uk](mailto:dataprotection@bis.gsi.gov.uk)
+Alternatively you can email your request to [_dataprotection@bis.gsi.gov.uk_](mailto:dataprotection@bis.gsi.gov.uk)
 
 We need to handle personal information about you so that we can provide services for you. This is how we look after that information. 
 
@@ -101,7 +101,7 @@ For more information, please contact:
 
 Andrew Strachan
 
-Email: [andrew.strachan@ukti.gsi.gov.uk](mailto:andrew.strachan@ukti.gsi.gov.uk)
+Email: [_andrew.strachan@ukti.gsi.gov.uk_](mailto:andrew.strachan@ukti.gsi.gov.uk)
 
 In abiding by these commitments, we will keep to the law, including the Data Protection Act 1998 and the Freedom of Information Act 2000. For independent advice about data protection, privacy and data-sharing issues, you can contact the Information Commissioner at: 
 
@@ -119,6 +119,6 @@ Phone: 08456 30 60 60 or 01625 54 57 45
 
 Fax: 01625 524510.
 
-Website: [www.ico.gov.uk](http://www.ico.gov.uk/)
+Website: [_www.ico.gov.uk_](http://www.ico.gov.uk/)
 
 UK Trade & Investment, May 2011
