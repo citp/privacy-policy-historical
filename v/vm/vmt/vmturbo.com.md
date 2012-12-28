@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmturbo.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629232604id_/http%3A//www.vmturbo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmturbo.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228235134id_/http%3A//www.vmturbo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VMTurbo
 
@@ -30,6 +30,6 @@ If you have any comments, concerns or questions about this Privacy Policy, pleas
 Last Updated on January 21, 2011.
 
 **VMTurbo, Inc.**  
-1 Burlington Woods Dr., Suite 101  
+1 Burlington Woods Drive, Suite 101  
 Burlington, MA 01803  
 United States of America
