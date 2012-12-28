@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625055742id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228171916id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Centre
 
@@ -24,19 +24,20 @@ Yahoo! collects information about your transactions with us and with some of our
 
 Yahoo! also automatically receives and records information on our server logs from your browser including your [IP address](http://info.yahoo.com/privacy/uk/yahoo/ip/), Yahoo! [cookie](http://info.yahoo.com/privacy/uk/yahoo/cookies/) information, software and hardware attributes, and the page you requested. Once you register with Yahoo! and sign in to our services you are no longer anonymous to us and your usage data will be connected to your account.
 
-Yahoo! uses information (including anonymous and pseudonymous information, as well as personally identifiable information) for the following general purposes: to personalise the advertising and content you see, fulfil your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+Yahoo! uses information (including anonymous and pseudonymous information, as well as personally identifiable information) for the following general purposes: to personalise the advertising and content you see, fulfil your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. Yahoo! may transfer your personal information for the general purposes set out above to any Yahoo! group company worldwide, and they may use your personal information as set forth below. You can find more information within the topic [Data Transfer](http://info.yahoo.com/privacy/uk/yahoo/datatransfer/)
+
+. 
 
 Return to top
 
 ## INFORMATION SHARING AND DISCLOSURE
 
-Yahoo! does not rent, sell, or share information about you (including personally identifiable information) with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+Yahoo! does not rent, sell, or share information about you (including personally identifiable information) with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or for the following purposes:
 
-  * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use such information to help Yahoo! communicate with you (to the extent consented by you) about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-  * We respond to subpoenas, court orders, legal process, or to any legitimate request by authorities with which we must comply, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share such information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-  * This is within the Yahoo! group, for the purposes described under “Information Collection & Use” above (for example, various companies in the Yahoo! group worldwide are responsible for storing and processing your information in order to deliver content to you). You can find more information within the topic “Data Transfer”. 
-  * Yahoo! may transfer such information about you if Yahoo! acquires, or is acquired by or merged with, another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * to provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use such information to help Yahoo! communicate with you (to the extent consented by you) about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
+  * to respond to subpoenas, court orders, legal process, or to any legitimate request by authorities with which compliance is required, or to establish or exercise legal rights or defend against legal claims. 
+  * to believe it is necessary to share such information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
+  * to transfer such information about you if Yahoo! acquires, or is acquired by or merged with, another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
 
 
@@ -101,5 +102,7 @@ Return to top
 ## QUESTIONS OR SUGGESTIONS
 
 If you have questions or suggestions complete a [feedback form](http://help.yahoo.com/fast/help/uk/privacy/cgi_feedback). 
+
+Last Updated: Oct 14, 2009
 
 Return to top
