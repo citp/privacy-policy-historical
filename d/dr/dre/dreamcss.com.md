@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dreamcss.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507185143id_/http%3A//www.dreamcss.com/2009/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamcss.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228172759id_/http%3A//www.dreamcss.com/2009/01/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Posted by **ravindra** **Jan 3, 2009**
 
 This is the privacy policy of **Dreamcss.com**  
  **Dreamcss.com** does not engage in the collection, distribution, sale or use of personally identifiable information about web users, such as name, phone number and street address. **Dreamcss.com** does not conduct individual web user “profiling”.  
