@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the windows2universe.org privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630105941id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the windows2universe.org privacy policy that was archived on 2012-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121228221539id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head profile="http://www.w3.org/2005/10/profile">
 <!-- template_regular -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <title>Privacy Policies</title>
 <link rel="stylesheet" type="text/css" href="/redesign/style_main.css" media="screen">
 <link rel="stylesheet" href="/redesign/print.css" type="text/css" media="print">
-<link rel="stylesheet" type="text/css" href="/redesign/colorbox.css">
+<link rel="stylesheet" type="text/css" href="/redesign/colorbox1.css">
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
 
@@ -17,15 +18,15 @@
 <![endif]-->
 <!--[if IE 6]><link rel="stylesheet" media="screen" type="text/css" href="http://www.windows2universe.org/redesign/IE6.css" /><![endif]--> 
 <link rel="stylesheet" href="/redesign/horiz-nav.css" type="text/css" media="screen">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/JavaScript/jquery.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=379806758743145"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/JavaScript/jquery.min.js"></script>
 <script type="text/JavaScript" src="/redesign/zRSS/jquery.zrssfeed.js"></script>
 <script type="text/javascript" src="/redesign/zRSS/jquery.vticker.js"></script>
 <script type="text/javascript" src="/redesign/hoverIntent/jquery.hoverIntent.minified.js"></script>
-<script type="text/JavaScript" src="/redesign/jquery.colorbox-min.js"></script>
+<script type="text/JavaScript" src="/redesign/jquery.colorbox.js"></script>
 <script type="text/javascript" src="/JavaScript/win_main_jquery.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
-	var feeds = ['http://nsf.gov/rss/rss_www_discoveries.xml','http://www.nasa.gov/rss/breaking_news.rss','http://www.agu.org/rss/agu_news.shtml'];
+	var feeds = [ 'http://nsf.gov/rss/rss_www_discoveries.xml','http://www.nasa.gov/rss/breaking_news.rss','http://www.agu.org/rss/agu_news.shtml' ];
 	for( var i=0; i<feeds.length; i++ ) {
   	  $('#news_left').append('<div id="ticker'+i+'"> </div>');
   		$('#ticker'+i).rssfeed(feeds[i], { content: false }, function(e) {
@@ -33,13 +34,13 @@ $(document).ready(function() {
    	 	});
 	}
 	
-	if ( $('#events_scroll').find('li').length > 2 ) {
+	/*if ( $('#events_scroll').find('li').length > 2 ) {
 	$('#events_scroll').vTicker({
 		speed: 1000,
 		pause: 20000,
 		showItems: 2
 	});
-	}
+	}*/
 
 	$('#bookmark_button').click( function() {
             $.get( '/php/bookmark.php', $(this).attr('name'), function(data) {
@@ -57,12 +58,24 @@ $(document).ready(function() {
             }); 
         });
 
+	$('.current_events_item').live( 'click', function() {
+		 $(this).parent('li').children('.current_events_detail').fadeIn('slow'); 
+	});
+
+	$('.current_events_close').click( function() {
+            $(this).parent().hide();
+       });
 
 	$('#closewindow').live( 'click', function() {
 		$('#donation_ad').hide();
 		 $.get( '/php/ad_close.php');
 	});
-	$('a[href*="quiz.php"]').colorbox({width:"700", height:"800",  opacity:0.5, iframe:true, overlayClose: false});
+	$('a[href*="quiz.php"]').colorbox1({width:"700", height:"800",  opacity:0.5, iframe:true, overlayClose: false});
+
+	/*$(document).bind('cbox_closed', function () {
+		$('#cboxOverlay').remove();
+		$('#colorbox').remove();
+	});*/
  });
 </script>
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
@@ -114,8 +127,8 @@ GA_googleFetchAds();
      
       $fwidth =  + 40; 
       $fheight =  + 200; 
-      $('#content_image a').colorbox({transition:'elastic', speed:500, innerWidth:$fwidth,  innerHeight:$fheight, maxHeight:"100%", opacity:0.8,  iframe:true});
-      $('#content a[href*="image.html"]').not('#content_image a').colorbox({transition:'elastic', speed:500, width:"850", height:"550", opacity:0.8,  iframe:true});
+      $('#content_image a').colorbox1({transition:'elastic', speed:500, innerWidth:$fwidth,  innerHeight:$fheight, maxHeight:"100%", opacity:0.8,  iframe:true});
+      $('#content a[href*="image.html"]').not('#content_image a').colorbox1({transition:'elastic', speed:500, width:"850", height:"550", opacity:0.8,  iframe:true});
  });
 
 </script>
@@ -136,15 +149,62 @@ GA_googleFetchAds();
 
 </script>
 <!-- End Google Analytics -->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-674DE8hxF_rfA"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-674DE8hxF_rfA.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
 </head>
-<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+<body>
+<!-- Facebook SDK -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=379806758743145";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <div id="frame">
+
+
+<!-- Compete XL Code for windows2universe.org -->
+<script type="text/javascript">
+__compete_code = '1d3a8cb11daf54e5c6ac580623fdf64c';
+/* Set control variables below this line. */ 
+</script>
+<script type="text/javascript" src="//c.compete.com/bootstrap/s/1d3a8cb11daf54e5c6ac580623fdf64c/windows2universe-org/bootstrap.js"></script>
+<noscript>
+    <img width="1" height="1" src="https://ssl-windows2universe-org-1d3a8c.c-col.com"/>
+</noscript>
+
 <div id="ad_top"><!-- top_leaderboard -->
 <script type="text/javascript">
 GA_googleFillSlot("top_leaderboard");
 </script></div>
     <div id="header">
-		<div id="logo"><a href="http://www.windows2universe.org"><img src="/images/logo.gif" border="0"></a></div>
+		<div id="logo"><a href="http://www.windows2universe.org"><img src="/images/lg0.gif" border="0"></a></div>
 		
 		<div id="level_buttons">
 		  <div id="language_buttons">  <img src="/redesign/language.gif" usemap="#language" border="0">
@@ -283,6 +343,7 @@ GA_googleFillSlot("top_leaderboard");
 </li><li><a href="/teacher_resources/main/w2u_workshops.html">Workshops</a>
 </li><li><a href="/teacher_resources/main/enewsletter.html"> E-Newsletter</a>
 </li><li><a href="/olpa/nsf_olpa_portal.html">Research </a>
+</li><li><a href="/teacher_resources/motivational_quotes.html">Quotations</a>
 </li><li class="more"><a href="#">more...</a><ul><li class="more_item"><a href="/teacher_resources/sci_schools/ss_home.html">Scientists in Schools</a>
 </li><li class="more_item"><a href="/cool_stuff/tours_main.html">Tours</a>
 </li><li class="more_item"><a href="/teacher_resources/online_courses/courses_content_menu.html">Online Courses Content Pages</a>
@@ -295,6 +356,7 @@ GA_googleFillSlot("top_leaderboard");
 </li><li><a href="/people/postcards/postcards_menu.html">Postcards</a>
 </li><li><a href="/kids_space/kids_space.html">Kids' Space</a>
 </li><li><a href="/citizen_science/citizen_science.html">Citizen Science</a>
+</li><li><a href="/teacher_resources/motivational_quotes.html">Quotations</a>
 </li></ul></div></li></ul>
     <!--  </div> --> <!-- links_main -->
      <!--  <div id="links_sub"> </div> -->
@@ -328,9 +390,18 @@ GA_googleFillSlot("top_leaderboard");
 </li><li><a href="/people/postcards/postcards_menu.html">Postcards</a>
 </li><li><a href="/kids_space/kids_space.html">Kids' Space</a>
 </li><li><a href="/citizen_science/citizen_science.html">Citizen Science</a>
+</li><li><a href="/teacher_resources/motivational_quotes.html">Quotations</a>
+</li><li><a href="http://www.windows2universe.org/store">Store</a>
 </li></ul>
             </div> <!-- links_left -->
-            	     
+            	<div id="current_events" class="highlight"><h2>Current Events</h2><div id="events_scroll"><ul><li><a href="javascript:;" class="current_events_item"><strong>Using Cave Formations to document Ancient Climate</strong></a><br>A geochemist at the University of Minnesota is a pioneer in the use of cave formations to document a...<a href="javascript:;" class="current_events_item">Read more</a><br><br><div class="current_events_detail"><span class="current_events_close">x</span><h3>Using Cave Formations to document Ancient Climate</h3>A geochemist at the University of Minnesota is a pioneer in the use of cave formations to document ancient climate.  Stalagmites are being looked at as a collection of climate sensors (like tree rings), extending often hundreds of thousands of years back in time.  This work is providing the scientific community with an increasingly precise time scale.
+
+For more details on this work, see the complete article at <a href="http://www.smithsonianmag.com/science-nature/The-Secrets-of-Earths-History-May-Be-in-its-Caves-183829981.html">http://www.smithsonianmag.com/science-nature/The-Secrets-of-Earths-History-May-Be-in-its-Caves-183829981.html</a></div></li><li><a href="javascript:;" class="current_events_item"><strong>Grand Canyon 70 Million Years Old?</strong></a><br>In a recent study of rocks in the Grand Canyon, researchers found evidence that the canyon is much o...<a href="javascript:;" class="current_events_item">Read more</a><br><br><div class="current_events_detail"><span class="current_events_close">x</span><h3>Grand Canyon 70 Million Years Old?</h3>In a recent study of rocks in the Grand Canyon, researchers found evidence that the canyon is much older than previously thought.  Most geologist have set the development of the Grand Canyon at 5 to 6 million years ago, as the Colorado River cut into layer after layer of the Colorado Plateau.  The most recent results come from geochemical studies of the retention of helium in apatite in the rocks of the canyon.  The results led the scientists to conclude that an ancient river must have carved through the rocks there about 70 million years ago.  Other scientists draw a distinction between that more ancient river and canyon and the modern canyon.  
+
+For more information on this study, see the article in Science at <a href="http://news.sciencemag.org/sciencenow/2012/11/a-grand-old-canyon.html">http://news.sciencemag.org/sciencenow/2012/11/a-grand-old-canyon.html</a>.</div></li><li><a href="javascript:;" class="current_events_item"><strong>Water Ice at Poles of Mercury!</strong></a><br>Researchers studying data from NASA's MESSENGER spacecraft have found signs of water ice and frozen ...<a href="javascript:;" class="current_events_item">Read more</a><br><br><div class="current_events_detail"><span class="current_events_close">x</span><h3>Water Ice at Poles of Mercury!</h3>Researchers studying data from NASA's <a href="http://messenger.jhuapl.edu/">MESSENGER</a> spacecraft have found signs of water ice and frozen organic matter in permanently shadowed craters at the north pole of <a href="http://www.windows2universe.org/mercury/mercury.html">Mercury</a>, confirming observations by ground-based telescopes over the past 20 years. These observations are surprising due to the extreme daytime <a href="http://www.windows2universe.org/mercury/Atmosphere/atmosphere.html">temperatures on the planet</a>, which is the closest to the <a href="http://www.windows2universe.org/sun/sun.html">Sun</a> in the <a href="http://www.windows2universe.org/our_solar_system/solar_system.html">solar system</a>.  Scientists believe that the ice and organics come from comets and asteroids which crashed into the planet early in its history.  
+
+
+For more information on this discovery, visit <a href="http://www.nasa.gov/mission_pages/messenger/media/PressConf20121129.html">http://www.nasa.gov/mission_pages/messenger/media/PressConf20121129.html</a>.</div></li></ul></div></div>     
 	    <div id="hotchalk"><!-- left_skyscraper -->
 <script type="text/javascript">
 GA_googleFillSlot("left_skyscraper");
@@ -340,23 +411,13 @@ GA_googleFillSlot("left_skyscraper");
             <div id="news_left">
  	     	     <div id="ticker"> <h4><a href="/multimedia_gallery/rss_feeds.html">RSS Feeds</a></h4> </div> 
 	    <div id="ticker0" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div><div id="ticker1" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div><div id="ticker2" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div></div>
-	   
-                    <div class="dfp_ad">
-		<!-- ca-pub-7815427952014216/156x90_top_left -->
-		<script type="text/javascript">
-		GA_googleFillSlot("156x90_top_left");
-		</script>
-		</div>		<div class="dfp_ad">
-		<!-- ca-pub-7815427952014216/156x90_bottom_left -->
-		<script type="text/javascript">
-		GA_googleFillSlot("156x90_bottom_left");
-		</script>
-		</div>	<div class="dfp_ad">
-	<!-- ca-pub-7815427952014216/156x90_bottom_right -->
-        <script type="text/javascript">
-        GA_googleFillSlot("156x90_bottom_right");
-        </script>
-	</div>
+	  <div id="blogs">    <h4>Science Blogs</h4>
+ <p><a href="/blog" target="_blank">Perspectives on Earth and Space Science Education</a></p>
+    <p><a href="http://www.realclimate.org/" target="_blank">Real Climate: climate science from climate scientists</a></p>
+    <p><a href="http://starstuff.blogspot.com/" target="_blank">Star Stuff: science news from an astronomer's perspective</a></p>
+    <p><a href="http://classic.globe.gov/fsl/scientistsblog/" target="_blank">Global Learning and Observations to Benefit the Environment</a></p>
+    <p><a href="http://www.talkingscience.org/category/citizen-science-buzz/" target="_blank">Citizen Science Buzz</a></p></div> 
+        
 
     	</div> <!-- column_left -->
 
@@ -365,7 +426,7 @@ GA_googleFillSlot("left_skyscraper");
             <div id="content">
 		 
  	      
-<h1>Privacy Policy</h1> 
+<h1>Privacy Policy <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.windows2universe.org/privacy_policy.html&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;appId=325911867506691" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px; float:right;" allowtransparency="true"></iframe></h1> 
   	      <p><b>Updated: October 19, 2010</b></p><p>
 </p><p>The websites of the Windows to the Universe ("W2U") and the National Earth Sciences Teachers Association ("NESTA") (collectively, the "W2U websites") are operated by NESTA. This Privacy Policy covers use of information collected by the W2U websites.</p>
 <p>We are devoted to providing entertaining, and safe websites for everyone, and to safeguarding personal information collected on the W2U websites. We ensure that our privacy policy and our information practices adhere to the United States Children's Online Privacy Protection Act, and other applicable data privacy laws. This Privacy Policy describes the information practices of the W2U websites.</p>
@@ -415,7 +476,7 @@ Boulder, CO 80305<p></p>
         
 		<div id="last_updated">Last modified November 3, 2010 by <a href="/bio/julia.html">Julia Genyuk</a>.</div>   
 		 
-		<div class="ad_store_content"><a href="/store/product.php?productid=246" target="_blank"><img src="/store/images/T/xctmp4enMcD.png" border="0" class="left"></a><img src="/images/cart_earth.jpg" class="right"><p></p><h4>Shop Windows to the Universe Science Store!</h4>Our <a href="http://www.windows2universe.org/store/home.php">online store</a> includes fun <a href="http://www.windows2universe.org/store/home.php?cat=1">classroom activities</a> for you and your students. <a href="http://www.windows2universe.org/store/home.php?cat=19">Issues of NESTA's quarterly journal, <i>The Earth Scientist</i></a> are also full of classroom activities on different topics in Earth and space science!</div> 
+		<div class="ad_store_content"><a href="/store/product.php?productid=64" target="_blank"><img src="/store/images/T/xctmpuwHgDy.png" border="0" class="left"></a><img src="/images/cart_earth.jpg" class="right"><p></p><h4>Shop Windows to the Universe Science Store!</h4>Enjoy your love of minerals and fossils through jewelry!  We have beautiful Nature's Own <a href="http://www.windows2universe.org/store/home.php?cat=12">jewelry</a> in our <a href="http://www.windows2universe.org/store/home.php">online store</a>, including earrings, necklaces, and pendants! </div> 
 		 
 	    </div> <!-- content-->
 	<div id="community"> <div id="adrect">
@@ -438,8 +499,8 @@ GA_googleFillSlot("content_rectangle");
 </div>
 
 	    
-		<div id="features" style="display: none;">
-                    <h2>You might also be interested in:</h2><div class="feature"><a href="/store/product.php?productid=9"><img src="/store/images/T/nitrogen_sm.jpg" width="155"></a><h2><a href="/store/product.php?productid=9">Traveling Nitrogen Classroom Activity Kit</a></h2><strong>Check out <a href="/store/index.php" target="_blank">our online store</a></strong> - minerals, fossils, books, activities, jewelry, and household items!<a class="more" href="/store/product.php?productid=9">...more</a></div><div class="feature"><a href="/bibliography.html"><img src="/teacher_resources/images/frozenfilm1_sm.jpg" width="155"></a><h2><a href="/bibliography.html">Bibliography Information</a></h2>Thank you for visiting Windows to the Universe. Windows to the Universe has been in development since 1995. Over the years, there have been many writers of the pages on the site. Most pages have been worked<a class="more" href="/bibliography.html">...more</a></div><div class="feature"><a href="/sponsor.html"><img src="/earth/images/earth_at_night_sm.jpg" width="155"></a><h2><a href="/sponsor.html">Please Support Windows to the Universe!</a></h2>Donation, Sponsorship, Partnerships This image shows the lights on Earth as seen in darkness from a satellites orbiting our planet. Click on image for full size Image courtesy of NASA, DMSP, and NOAA NGDC.<a class="more" href="/sponsor.html">...more</a></div><div class="feature"><a href="/edu_membership.html"><img src="/teacher_resources/images/IMG_1557.jpg" width="155"></a><h2><a href="/edu_membership.html">Regular Educator Memberships on Windows to the Universe</a></h2>The Windows to the Universe team will be offering memberships for all educators by 1 September 2010 which will provide access to new website capabilities and services, as well as access to an ad-free version<a class="more" href="/edu_membership.html">...more</a></div><div class="feature"><a href="/partnership_opportunities.html"><img src="/teacher_resources/images/roomful_teachers_reno.jpg" width="155"></a><h2><a href="/partnership_opportunities.html">Windows to the Universe Partnership Opportunities for Education and Outreach</a></h2>Are you looking for an effective and efficient education and outreach program to supplement your research activities? Are you struggling to reach a significant audience of students, teachers, and the public?<a class="more" href="/partnership_opportunities.html">...more</a></div>
+		<div id="features">
+                    <h2>You might also be interested in:</h2><div class="feature"><a href="/store/product.php?productid=15"><img src="/store/images/T/Megalodon Fossil Shark Tooth_150x100.jpg" width="155"></a><h2><a href="/store/product.php?productid=15">Megalodon Shark's Tooth</a></h2><strong>Check out <a href="/store/index.php" target="_blank">our online store</a></strong> - minerals, fossils, books, activities, jewelry, and household items!<a class="more" href="/store/product.php?productid=15">...more</a></div><div class="feature"><a href="/bibliography.html"><img src="/teacher_resources/images/frozenfilm1_sm.jpg" width="155"></a><h2><a href="/bibliography.html">Bibliography Information</a></h2>Thank you for visiting Windows to the Universe. Windows to the Universe has been in development since 1995. Over the years, there have been many writers of the pages on the site. Most pages have been worked<a class="more" href="/bibliography.html">...more</a></div><div class="feature"><a href="/sponsor.html"><img src="/earth/images/earth_at_night_sm.jpg" width="155"></a><h2><a href="/sponsor.html">Please Support Windows to the Universe!</a></h2>Donation, Sponsorship, Partnerships This image shows the lights on Earth as seen in darkness from a satellites orbiting our planet. Click on image for full size Image courtesy of NASA, DMSP, and NOAA NGDC.<a class="more" href="/sponsor.html">...more</a></div><div class="feature"><a href="/edu_membership.html"><img src="/teacher_resources/images/IMG_1557.jpg" width="155"></a><h2><a href="/edu_membership.html">Regular Educator Memberships on Windows to the Universe</a></h2>The Windows to the Universe team will be offering memberships for all educators by 1 September 2010 which will provide access to new website capabilities and services, as well as access to an ad-free version<a class="more" href="/edu_membership.html">...more</a></div><div class="feature"><a href="/partnership_opportunities.html"><img src="/teacher_resources/images/roomful_teachers_reno.jpg" width="155"></a><h2><a href="/partnership_opportunities.html">Windows to the Universe Partnership Opportunities for Education and Outreach</a></h2>Are you looking for an effective and efficient education and outreach program to supplement your research activities? Are you struggling to reach a significant audience of students, teachers, and the public?<a class="more" href="/partnership_opportunities.html">...more</a></div>
 		</div> <!-- features -->
 	    
         </div> <!-- column_main -->
@@ -447,7 +508,7 @@ GA_googleFillSlot("content_rectangle");
        
     <div id="column_right">
         <div id="shop" class="highlight">
-        <h2>Shop Windows to the Universe</h2><a href="/store/product.php?productid=35" target="_blank"><img src="/store/images/pyrite_cubes.jpg" height="90" border="0"></a><a href="/store/product.php?productid=35">Pyrite twins</a> are available in our <a href="/store/home.php">online store</a>, along with other <a href="/store/home.php?cat=9">minerals</a> and <a href="/store/home.php?cat=10">fossils</a>, <a href="/store/home.php?cat=5">books</a>, <a href="/store/home.php?cat=1">activities</a>, <a href="/store/home.php?cat=12">jewelry</a>, and <a href="/store/home.php?cat=11">household items</a>.        
+        <h2>Shop Windows to the Universe</h2><a href="/store/product.php?productid=261" target="_blank"><img src="/store/images/T/xctmpXC8ENE.png" height="90" border="0"></a>With <a href="/store/product.php?productid=261">Explore the Planets</a>, investigate the planets, their moons, and understand the processes that shape them.  By G. Jeffrey Taylor, Ph.D.  See our <a href="/store/home.php?cat=90">DVD collection</a>.        
         </div>
         <div id="login">
 	        <h2>Please log in</h2>
@@ -460,7 +521,7 @@ GA_googleFillSlot("content_rectangle");
         </form>
         <p><a href="/membership.html">Become a member</a><br><a href="/gen_member_benefits.html">Member Benefits, No Ads</a><br>
 	 <a href="/php/registration/reg_school.php">School Subscriptions</a><br>
-	  <a href="/php/registration/reg_menu_school.php">School/Classroom Login</a></p><p><a href="/php/teacher_resources/quiz.php" class="cboxElement"><font color="red">Test your knowledge</font></a></p>
+	  <a href="/php/registration/reg_menu_school.php">School/Classroom Login</a></p><p><a href="/php/teacher_resources/quiz.php" class="cbox1Element"><font color="red">Test your knowledge</font></a></p>
         </div>   
       <div class="dfp_double_ad">
       <!-- 156x192_rectangle -->
@@ -468,13 +529,6 @@ GA_googleFillSlot("content_rectangle");
       GA_googleFillSlot("156x192_rectangle");
       </script>
       </div>  
-        <div class="dfp_ad">
-	<!-- ca-pub-7815427952014216/156x90_top_right -->
-        <script type="text/javascript">
-        GA_googleFillSlot("156x90_top_right");
-        </script>
-	</div>
-	  
         <div id="google_mockup">
 	<!-- right_skyscraper -->
 <script type="text/javascript">
@@ -482,26 +536,35 @@ GA_googleFillSlot("right_skyscraper");
 </script>
         </div>
  
-	<div id="blogs">    <h4>Science Blogs</h4>
- <p><a href="/blog" target="_blank">Perspectives on Earth and Space Science Education</a></p>
-    <p><a href="http://www.realclimate.org/" target="_blank">Real Climate: climate science from climate scientists</a></p>
-    <p><a href="http://starstuff.blogspot.com/" target="_blank">Star Stuff: science news from an astronomer's perspective</a></p>
-    <p><a href="http://classic.globe.gov/fsl/scientistsblog/" target="_blank">Global Learning and Observations to Benefit the Environment</a></p>
-    <p><a href="http://www.talkingscience.org/category/citizen-science-buzz/" target="_blank">Citizen Science Buzz</a></p></div>
+	 <div id="monkeysee"><script src="http://monkeysee.com/javascripts/widgets/ms_thumb_widget.js?content=specific&amp;cat=258&amp;orient=vertical&amp;color=#668CD9&amp;text_color=#000000&amp;size=2&amp;brand=Science+Videos&amp;pubId=WINDOWS2UNIVERSE"></script></div>
+                <div class="dfp_ad">
+	<!-- ca-pub-7815427952014216/156x90_top_right -->
+        <script type="text/javascript">
+        GA_googleFillSlot("156x90_top_right");
+        </script>
+	</div>
+		<div class="dfp_ad">
+	<!-- ca-pub-7815427952014216/156x90_bottom_right -->
+        <script type="text/javascript">
+        GA_googleFillSlot("156x90_bottom_right");
+        </script>
+	</div>		<div class="dfp_ad">
+		<!-- ca-pub-7815427952014216/156x90_bottom_left -->
+		<script type="text/javascript">
+		GA_googleFillSlot("156x90_bottom_left");
+		</script>
+		</div>  
     
         <div id="sponsors" class="highlight">
-            <img src="/redesign/sponsors1.jpg" usemap="#m_sponsors1" border="0"><br>Generous sponsorship of Windows to the Universe is provided by the Hewlett Foundation, the American Geological Institute, the American Geophysical Union, the National Science Foundation, NASA, NCAR, and the CISM and CMMAP projects.<img src="/redesign/sponsors2.jpg" align="center" usemap="#m_sponsors2" border="0">
+            <img src="/redesign/sponsors1.jpg" usemap="#m_sponsors1" border="0"><br>Windows to the Universe, a project of the <a href="http://www.nestanet.org">National Earth Science Teachers Association</a>, is sponsored in part by the <a href="http://www.nsf.gov">National Science Foundation</a> and <a href="http://www.nasa.gov">NASA</a>, our Founding Partners (the <a href="http://www.agu.org">American Geophysical Union</a> and <a href="http://www.agiweb.org">American Geosciences Institute</a>) as well as through <a href="/institutional_partnerships.html">Institutional</a>, <a href="/contributing_partnerships.html">Contributing</a>, and <a href="/affiliate_partnerships.html">Affiliate Partners</a>, <a href="/membership.html">individual memberships</a> and generous <a href="/store/home.php?cat=15">donors</a>.  Thank you for your support!<img src="/redesign/sponsors2.jpg" align="center" usemap="#m_sponsors2" border="0">
     <map name="m_sponsors2">
-    <area shape="rect" coords="96,30,120,55" href="http://www.nasa.gov" target="_blank" title="NASA" alt="NASA">
-    <area shape="rect" coords="14,30,43,56" href="http://www.cmmap.org/index.html" target="_blank" title="CMMAP" alt="CMMAP">
-    <area shape="rect" coords="45,33,91,52" href="http://www.agu.org" title="AGU" alt="AGU">
-    <area shape="rect" coords="80,11,130,28" href="http://www.bu.edu/cism/" target="_blank" title="CISM" alt="CISM">
-    <area shape="rect" coords="18,10,78,29" href="http://www.ncar.ucar.edu" target="_blank" title="NCAR" alt="NCAR">
+    <area shape="rect" coords="90,0,123,34" href="http://www.nasa.gov" target="_blank" title="NASA" alt="NASA">
+   <!-- <area shape="rect" coords="14,30,43,56" href="http://www.cmmap.org/index.html" target="_blank" title="CMMAP" alt="CMMAP" > -->
+    <area shape="rect" coords="7,0,72,33" href="http://www.agu.org" title="AGU" alt="AGU">
     </map>
     <map name="m_sponsors1">
-    <area shape="rect" coords="87,7,144,32" href="http://www.hewlett.org" target="_blank" title="Hewlett" alt="Hewlett">
-    <area shape="rect" coords="46,6,79,37" href="http://www.agiweb.org/" target="_blank" title="AGI" alt="AGI">
-    <area shape="rect" coords="4,4,37,38" href="http://www.nsf.gov" target="_blank" title="NSF" alt="NSF">
+    <area shape="rect" coords="83,0,123,43" href="http://www.agiweb.org/" target="_blank" title="AGI" alt="AGI">
+    <area shape="rect" coords="24,0,64,43" href="http://www.nsf.gov" target="_blank" title="NSF" alt="NSF">
 </map>      
         </div>
     
@@ -526,24 +589,14 @@ GA_googleFillSlot("bottom_leaderboard");
           <li><a href="/bibliography.html">Bibliography</a></li>
           </ul>
         </div>
-<div id="copyright">The source of this material is <em>Windows to the Universe</em>, at <a href="http://windows2universe.org">http://windows2universe.org/</a> from the <a href="http://nestanet.org">National Earth Science Teachers Association (NESTA)</a>. The Website was developed in part with the support of <a href="http://www.ucar.edu">UCAR</a> and <a href="http://www.ncar.ucar.edu">NCAR</a>, where it resided from 2000 - 2010.  © 2011 National Earth Science Teachers Association. <em>Windows to the Universe</em>® is a registered trademark of NESTA. All Rights Reserved. See our <a href="/copyright.html">copyright and licenses</a> page for information about how you can use our materials.<a href="/image_linking.html">Site policies</a> and <a href="/disclaimer.html">disclaimer.</a></div>
-<div style="float:right; padding-right: 5px;"><img src="/images/ads/hotchalk_glam_300x40.gif"></div>
+<div id="copyright">The source of this material is <em>Windows to the Universe</em>, at <a href="http://windows2universe.org">http://windows2universe.org/</a> from the <a href="http://nestanet.org">National Earth Science Teachers Association (NESTA)</a>. The Website was developed in part with the support of <a href="http://www.ucar.edu">UCAR</a> and <a href="http://www.ncar.ucar.edu">NCAR</a>, where it resided from 2000 - 2010.  © 2012 National Earth Science Teachers Association. <em>Windows to the Universe</em>® is a registered trademark of NESTA. All Rights Reserved. See our <a href="/copyright.html">copyright and licenses</a> page for information about how you can use our materials.<a href="/image_linking.html">Site policies</a> and <a href="/disclaimer.html">disclaimer.</a></div>
+<!--<div style="float:right; padding-right: 5px;"><img src="/images/ads/hotchalk_glam_300x40.gif"></div>-->
     </div>
 </div> <!-- frame -->
 
 <img src="/bug/privacy_policy.html" width="1" height="1">
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-674DE8hxF_rfA"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-674DE8hxF_rfA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
 
 
-</body></html>
+
+<div id="cbox1Overlay" style="display: none;"></div><div id="colorbox1" class="" style="display: none; padding-bottom: 42px; padding-right: 42px;"><div id="cbox1Wrapper"><div><div id="cbox1TopLeft" style="float: left;"></div><div id="cbox1TopCenter" style="float: left;"></div><div id="cbox1TopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cbox1MiddleLeft" style="float: left;"></div><div id="cbox1Content" style="float: left;"><div id="cbox1LoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cbox1Title" style="float: left;"></div><div id="cbox1Current" style="float: left;"></div><div id="cbox1Next" style="float: left;"></div><div id="cbox1Previous" style="float: left;"></div><div id="cbox1Slideshow" style="float: left;"></div><div id="cbox1Close" style="float: left;"></div></div><div id="cbox1MiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cbox1BottomLeft" style="float: left;"></div><div id="cbox1BottomCenter" style="float: left;"></div><div id="cbox1BottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
