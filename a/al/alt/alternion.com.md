@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alternion.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529175012id_/http%3A//www.alternion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternion.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228184800id_/http%3A//www.alternion.com/privacy) for the most accurate reproduction.*
 
 # Alternion - Privacy Policy
 
-[](http://www.alternion.com/privacy/)Privacy Policy
+Privacy Policy
 
 The Alternion Privacy Policy describes how Alternion treats personal information when you use Alternion services, including information provided when you use the Alternion website. Alternion may modify or revise its privacy policies from time to time, and therefore advises you to check this site for information regarding revisions to our Privacy Policy.
 
@@ -54,7 +54,7 @@ For more information about our privacy practices, please send an email to us at 
 
 First and foremost:
 
-We respect and protect the privacy of our users and take appropriate steps to safeguard your personal information. We do not sell your information to anyone. We do not share your information with anyone unless you agreed to share it with others in your privacy settings in the sections [ Services](http://www.alternion.com/login/) и [ Privacy Settings](http://www.alternion.com/login/).
+We respect and protect the privacy of our users and take appropriate steps to safeguard your personal information. We do not sell your information to anyone. We do not share your information with anyone unless you agreed to share it with others in your privacy settings in the sections [ Services](https://www.alternion.com/login/) и [ Privacy Settings](https://www.alternion.com/login/).
 
 All user passwords to their Alternion accounts are encrypted and we don't have access to them. We also don't have access to your passwords on Facebook, Twitter, and other social networking accounts.
 
