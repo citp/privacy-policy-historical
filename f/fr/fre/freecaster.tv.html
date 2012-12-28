@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freecaster.tv privacy policy that was archived on 2012-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120528220823id_/http%3A//freecaster.tv/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freecaster.tv privacy policy that was archived on 2012-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121228055246id_/http%3A//freecaster.tv/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -13,16 +13,15 @@
 <link rel="shortcut icon" type="image/gif" href="http://media.freecaster.com/img/freecaster/icon_browser.gif">
 <link rel="apple-touch-icon" type="image/png" href="http://media.freecaster.com/img/freecaster/icon_touch.png">
 <link rel="alternate" type="application/rss+xml" href="http://freecaster.tv/rss" title="Latest videos">
-<link rel="stylesheet" type="text/css" href="http://media.freecaster.com/css/freecaster.css?1336056540">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var time_server_url="http://player.freecaster.com/time_js.php";var is_mobile=false;var media_url="http://media.freecaster.com/";var lb_close_url=null;var twitter_account="FreecasterTV";</script>
+<link rel="stylesheet" type="text/css" href="http://media.freecaster.com/css/freecaster.css?1349210211">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var time_server_url="http://player.freecaster.com/time_js.php";var is_mobile=false;var media_url="http://media.freecaster.com/";var lb_close_url=null;var twitter_account="FreecasterTV";</script>
 <script type="text/javascript" src="http://media.freecaster.com/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="http://media.freecaster.com/js/jquery-ui-1.8.4.custom.min.js"></script>
 <script type="text/javascript" src="http://media.freecaster.com/js/swfobject.js"></script>
 <script type="text/javascript" src="http://media.freecaster.com/js/flexcroll-210beta12-compressed.js"></script>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-<script type="text/javascript" src="http://media.freecaster.com/js/common.js?1337703704"></script>
-<script type="text/javascript" src="http://media.freecaster.com/js/fcplayer.js?1337874917"></script>
-<script type="text/javascript" src="http://media.freecaster.com/js/freecaster.js?1332426643"></script>
+<script type="text/javascript" src="http://media.freecaster.com/js/common.js?1346918417"></script>
+<script type="text/javascript" src="http://media.freecaster.com/js/freecaster.js?1349351365"></script>
+<script type="text/javascript" src="http://player.freecaster.com/FCPlayer.js?1355999483"></script>
 
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -56,6 +55,14 @@ $('a.gat,a[target=_blank]').live('click',function(){var href=$(this).attr('href'
 {_gaq.push(['_trackEvent','Outbound Links','Click',href]);if($(this).attr('target')!='_blank')
 {setTimeout('document.location = "'+href+'"',100);return false;}}});</script>
 
+<script type="text/javascript">window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}});}(document,"script","twitter-wjs"));twttr.ready(function(twttr){twttr.events.bind('tweet',function(event){if(event)
+{var targetUrl;if((event.target)&&(event.target.nodeName=='IFRAME'))
+{targetUrl=extractParamFromUri(event.target.src,'url');}
+_gaq.push(['_trackSocial','twitter','tweet',targetUrl]);}});});function extractParamFromUri(uri,paramName)
+{var parts,query,params;if(!uri)return'';uri=uri.split('#')[0];parts=uri.split('?');if(parts.length==1)return'';query=decodeURI(parts[1]);paramName+='=';params=query.split('&');for(var i=0,param;param=params[i];++i)
+{if(param.indexOf(paramName)===0)
+{return unescape(param.split('=')[1]);}}
+return'';}</script>
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js"></script></head>
 <body>
 
@@ -65,7 +72,7 @@ $('a.gat,a[target=_blank]').live('click',function(){var href=$(this).attr('href'
 <div id="header">
 	<div id="header_background">
 		<div id="header_content">
-			<a href="/"><img src="/media/img/freecaster/logo.png" id="logo"></a><!--			<div id="tagline">Quality Live Webcasts</div>-->
+			<a href="/"><img id="logo" src="http://media.freecaster.com/img/logo.png" alt=""></a><!--			<div id="tagline">Quality Live Webcasts</div>-->
 			<div id="leaderboard"><script type="text/javascript">
 GA_googleFillSlot("freecaster_home_leaderboard");
 </script>
@@ -110,24 +117,22 @@ Belgium	<br>
 <script type="text/javascript">var fb_session=0;var fb_permissions=[];window.fbAsyncInit=function()
 {FB.init({appId:'79200855454',status:true,cookie:true,xfbml:true,oauth:true});FB.getLoginStatus(on_session);FB.Event.subscribe('auth.statusChange',on_session);FB.Event.subscribe('edge.create',function(targetUrl){_gaq.push(['_trackSocial','facebook','like',targetUrl]);});FB.Event.subscribe('edge.remove',function(targetUrl){_gaq.push(['_trackSocial','facebook','unlike',targetUrl]);});FB.Event.subscribe('message.send',function(targetUrl){_gaq.push(['_trackSocial','facebook','send',targetUrl]);});$(document).trigger("fbinit");};(function(d){var js,id='facebook-jssdk';if(d.getElementById(id)){return;}
 js=d.createElement('script');js.id=id;js.async=true;js.src="//connect.facebook.net/en_GB/all.js";d.getElementsByTagName('head')[0].appendChild(js);}(document));function on_session(response)
-{if(response.authResponse)
-{if(fb_session)return;fb_session=response.authResponse.userID;if(/^\/user\//.test(window.location.pathname))
+{if((response.authResponse)&&(response.authResponse.userID))
+{if(fb_session)return;fb_session=response.authResponse.userID;if(/^(\/admin)?\/user\//.test(window.location.pathname))
 {if((window.popup!=undefined)&&(popup))
 {window.location="/facebook/link/1";}
 else
 {window.location="/facebook/link";}}
 else
-{window.location.reload();}}
+{var hash=location.hash;if((hash.length>0)&&(hash!="#"))
+{if(hash[0]=="#")hash=hash.substr(1);location.pathname=hash;}
+else
+{window.location.reload();}}}
 else
 {if(!fb_session)return;fb_session=null;window.location="/user/logout";}
 $(document).trigger("fbsession");}</script>
-<script type="text/javascript">twttr.events.bind('tweet',function(event){if(event)
-{var targetUrl;if((event.target)&&(event.target.nodeName=='IFRAME'))
-{targetUrl=extractParamFromUri(event.target.src,'url');}
-_gaq.push(['_trackSocial','twitter','tweet',targetUrl]);}});function extractParamFromUri(uri,paramName)
-{var parts,query,params;if(!uri)return'';uri=uri.split('#')[0];parts=uri.split('?');if(parts.length==1)return'';query=decodeURI(parts[1]);paramName+='=';params=query.split('&');for(var i=0,param;param=params[i];++i)
-{if(param.indexOf(paramName)===0)
-{return unescape(param.split('=')[1]);}}
-return'';}</script>
+<script type="text/javascript">(function(w,d){var a=function(){var a=d.createElement('script');a.type='text/javascript';a.async='async';a.src='//'+((w.location.protocol==='https:')?'s3.amazonaws.com/cdx-radar/':'radar.cedexis.com/')+'01-10337-radar10.min.js';d.body.appendChild(a);};if(w.addEventListener){w.addEventListener('load',a,false);}
+else if(w.attachEvent){w.attachEvent('onload',a);}}(window,document));</script>
 
-</body></html>
+
+<script type="text/javascript" async="" src="//s3.amazonaws.com/cdx-radar/01-10337-radar10.min.js"></script></body></html>
