@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the greatbigcanvas.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621083507id_/http%3A//www.greatbigcanvas.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatbigcanvas.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228182541id_/http%3A//www.greatbigcanvas.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Great Big Canvas
 
-This web site is maintained by CafePress.com, Inc., doing business as Canvas On Demand ("Canvas on Demand"). Here at Canvas On Demand, we recognize the importance of privacy to our visitors. We also recognize that many visitors to our site are concerned about the information they provide us, and how we treat that information. So we've developed a formal privacy policy to assure you that we take seriously our responsibility to protect customer information, and to use it only in ways that are consistent with your wishes. We may update the policy from time to time, so please check in occasionally.
+This web site is maintained by CafePress Inc., doing business as Great Big Canvas ("GBC"). Here at GBC, we recognize the importance of privacy to our visitors. We also recognize that many visitors to our site are concerned about the information they provide us, and how we treat that information. So we've developed a formal privacy policy to assure you that we take seriously our responsibility to protect customer information, and to use it only in ways that are consistent with your wishes. We may update the policy from time to time, so please check in occasionally.
 
-You can reach us 24 hours a day, 7 days a week by sending email to service@greatbigcanvas.com. If you have any questions about our Privacy Policy, you can contact us at: Canvas On Demand, PO Box 900044, Raleigh, NC 27675-9044. We will be happy to answer your questions or hear your concerns.
+You can reach us 24 hours a day, 7 days a week by sending email to service@greatbigcanvas.com. If you have any questions about our Privacy Policy, you can contact us at: Great Big Canvas, PO Box 900044, Raleigh, NC 27675-9044. We will be happy to answer your questions or hear your concerns.
 
 ####  Our Policy
 
