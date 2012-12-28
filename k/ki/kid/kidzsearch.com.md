@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidzsearch.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505205750id_/http%3A//www.kidzsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzsearch.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228054955id_/http%3A//www.kidzsearch.com/privacy.html) for the most accurate reproduction.*
 
 # KidzSearch Terms and Conditions / Privacy Statement
 
@@ -6,7 +6,7 @@
   
 **Terms and Conditions / Privacy Policy**
 
-Search results provided by Google SafeSearch with additional keyword filtering by KidzSearch.com. KidzSearch offers no guarantees or warranties on results. Please [contact us](https://web.archive.org/web/20120505205750id_/http%3A//www.kidzsearch.com/contactus.html) if you have any specific issues or concerns about results found. 
+Search results provided by Google SafeSearch with additional keyword filtering by KidzSearch.com. KidzSearch offers no guarantees or warranties on results. Please [contact us](https://web.archive.org/web/20121228054955id_/http%3A//www.kidzsearch.com/contactus.html) if you have any specific issues or concerns about results found. 
 
 KidzSearch believes that maintaining the online privacy of children is essential to building a safe site where kids can learn and play. We provide the following information about our policies in conformance with the 1998 Children's Online Privacy Protection Act.
 
@@ -32,10 +32,10 @@ We may have periodic contests.  Collected information is never given out to thi
 
 **6\. How can I contact KidzSearch if I have questions about this Privacy Policy?**
 
-If you have any questions about the KidzSearch Privacy Policy, [email us](https://web.archive.org/web/20120505205750id_/http%3A//www.kidzsearch.com/contactus.html).  
+If you have any questions about the KidzSearch Privacy Policy, [email us](https://web.archive.org/web/20121228054955id_/http%3A//www.kidzsearch.com/contactus.html).  
  
 
  **PARTNERSHIP PROGRAM TERMS**  
-KidzSearch may offer partnership programs, such as [school funding](https://web.archive.org/web/20120505205750id_/http%3A//www.kidzsearch.com/giveback/index.html), site customization for your school, and other business relations.  These agreements will begin upon our acceptance of your application and will end when terminated by either party. Termination may happen at any time, with or without cause, by giving the other party written notice of termination.  
+KidzSearch may offer partnership programs, such as [school funding](https://web.archive.org/web/20121228054955id_/http%3A//www.kidzsearch.com/giveback/index.html), site customization for your school, and other business relations.  These agreements will begin upon our acceptance of your application and will end when terminated by either party. Termination may happen at any time, with or without cause, by giving the other party written notice of termination.  
   
  
