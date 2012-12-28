@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestgore.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624045719id_/http%3A//www.bestgore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestgore.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228185356id_/http%3A//www.bestgore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Gore
 
@@ -67,13 +67,5 @@ Best Gore will use commercially reasonable efforts to promptly respond and resol
 
   * is best gore legal
   * best gore legal
-  * bestgore review
-  * bestgore com review
-  * is best gore legalbest gore
-  * best buy gore
-  * is gore com legal in australia
-  * review about best gore
-  * review on best gore
-  * how does bestgore
 
 
