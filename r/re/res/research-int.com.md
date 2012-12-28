@@ -1,71 +1,90 @@
-> *The following text is extracted and transformed from the research-int.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301063624id_/http%3A//www.tnsglobal.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the research-int.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229004328id_/http%3A//www.tnsglobal.com/what-we-do/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# TNS | Privacy policy & Cookies
 
-  * you are here: 
-  * [Home](https://web.archive.org/)
-  * /Privacy policy 
+## Effective date: June 2002, Last updated: 14 June 2012
 
+### **TNS Online Data Protection Notice  **
 
+Your privacy is important to us and we shall take care to safeguard it. This privacy policy applies to individuals who wish to find out more about TNS’s corporate products and services, and/or employment opportunities at our firm. It applies to personal data submitted at [www.tnsglobal.com](http://www.tnsglobal.com/) and pages hosted by Taleo, a third party hiring management system. This privacy policy does NOT apply to respondents who have completed or are about to complete a market research survey. For the privacy policy relevant to such surveys you should contact the local TNS company that has asked you to complete the survey.
 
-Effective date: June 2002, Last updated: 13 March 2009 
+## **When and what information do we collect?  **
 
-##  TNS Online Data Protection Notice 
+Your personal data is collected when you complete and submit the enquiry form, the resume form in the Careers section of our site, or when you speak to us over the telephone. In particular, TNS will collect and hold details of your name, address, email address, telephone number, (including mobile number), fax number, any information that you provide about areas of interest to you, information that you provide in response to any TNS marketing campaigns, and any other personal information disclosed by you. We believe that details of your areas of interest or responses will assist us in tailoring more specific communications to you in the future. Any information you provide to us will be treated with care and respect. We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you may send us an email at the address indicated in the Contacting us section below. 
 
-Your privacy is important to us and we shall take care to safeguard it. This privacy policy applies to individuals who wish to find out more about TNS’s corporate products and services, and/or employment opportunities at our firm. It applies to personal data submitted at <http://www.tnsglobal.com/> and pages hosted by OpenHire, a third party hiring management system. 
+## **What do we do with your personal information?  **
 
-This privacy policy does NOT apply to respondents who have completed or are about to complete a market research survey. For the privacy policy relevant to such surveys you should contact the local TNS company that has asked you to complete the survey. The relevant privacy policy for surveys conducted by TNS companies in North America can be accessed at: [www.tns-us.com/privacy/](http://www.tns-us.com/privacy/). 
+By submitting the enquiry form you consent to us using the personal data contained in the form to provide you with emails or correspondence containing information about TNS products and services. Such information may include press releases, product offers, product launches, invitations to seminars or to exhibitions or to attend TNS workshops, newsletters, e-newsletters, market research articles, industry analysis, corporate or financial announcements as well as general responses to any other information which you may have requested. In addition, you consent to us occasionally contacting you (including by telephone) to notify you about changes to the website and new information or services which we think you may find interesting or valuable. By completing our resume submission form, you consent to us keeping your personal information on file for the purpose of considering your candidacy for a current employment opportunity with TNS and/or to contact you if a future position matches your profile. If we believe that you may be a suitable candidate for a current or future position, we may contact you by phone, email or postal mail to discuss your interest in working at TNS and/or to invite you to a job interview. 
 
-##  When and what information do we collect? 
+## **With whom will we share your information?  **
 
-Your personal data is collected when you complete and submit the enquiry form, the resume form in the Careers section of our site, or when you speak to us over the telephone. In particular, TNS will collect and hold details of your name, address, email address, telephone number, (including mobile number), fax number, any information that you provide about areas of interest to you, information that you provide in response to any TNS marketing campaigns, and any other personal information disclosed by you. We believe that details of your areas of interest or responses will assist us in tailoring more specific communications to you in the future. Any information you provide to us will be treated with care and respect. 
+You consent to us sharing your personal information with other companies within the Taylor Nelson Sofres group. When completing an enquiry form on our site for a local contact, you will see the name of the TNS company in the country that you select. By submitting the form, your personal information will be shared with this TNS company. TNS and its affiliate companies will use the information that you submit to respond to your inquiry. We may also share your personal information with selected business partners/clients for the purpose of informing you about our and our business partners’ products and services. Other companies within the Taylor Nelson Sofres group and selected business partners/clients may from time to time contact you on matters, which may be of interest to you. You may opt-out of receiving such news and promotional communications, at any time, by notifying us by email (see Contacting us below). In the Careers section of our site, we have retained a third party company, Taleo, to manage resumes submitted for North American and UK employment opportunities. Taleo hosts the resume submission form even though it appears that users are still on the TNS site. If you submit your resume using the form on the TNS North America or the UK Career Opportunity site, only a limited number of TNS staff will have access to it. Taleo is contractually bound to keep your information confidential and is not allowed to use it for its own promotional purposes. We reserve the right to disclose your personally identifiable information In the rare but possible circumstance that the information is subject to disclosure pursuant to judicial or other government subpoenas, warrants, orders or for similar legal or regulatory requirements. Contacting us Please notify us by email to [enquiries@tnsglobal.com](mailto:enquiries@tns-global.com) if you: (a) do not wish your personal data to be used in the manner described above (we should be grateful if you set out your specific objections to any use); (b) wish to see the personal data we hold about you. We will endeavour to respond to your access request within 30 days of receiving your request. Of course, if the personal information we hold about you is inaccurate, incomplete or irrelevant, we shall correct or delete it after discussing the matter with you. 
 
-We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you may send us an email at the address indicated in the Contacting us section below. 
+## **Cookies**
 
-##  What do we do with your personal information? 
+Cookies are small text files which ask permission to be placed on your computer by websites you visit. Your web browser may allow you to erase the cookies, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or the website below for guidance. However, in some instances unless the cookies are accepted, parts of our website will not function, fully or at all. If you do allow cookies to be used, when you view our website, we will store some cookie files, which will enable us to measure the use of the pages and features on our website and allow you to use some of its functions. The cookie is used to store the IP address of your machine and will not contain any data personal to you. We do not make any attempt to find out, by means of the cookies, the identities of those visiting our website. For further information visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
-By submitting the enquiry form you consent to us using the personal data contained in the form to provide you with emails or correspondence containing information about TNS products and services. Such information may include press releases, product offers, product launches, invitations to seminars or to exhibitions or to attend TNS workshops, newsletters, e-newsletters, market research articles, industry analysis, corporate or financial announcements as well as general responses to any other information which you may have requested. In addition, you consent to us occasionally contacting you (including by telephone) to notify you about changes to the website and new information or services which we think you may find interesting or valuable. 
+**Cookie** | **Name** | **Purpose**  
+---|---|---  
+Google Analytics | 
 
-By completing our resume submission form, you consent to us keeping your personal information on file for the purpose of considering your candidacy for a current employment opportunity with TNS and/or to contact you if a future position matches your profile. If we believe that you may be a suitable candidate for a current or future position, we may contact you by phone, email or postal mail to discuss your interest in working at TNS and/or to invite you to a job interview. 
+  * _utma
+  * _utmb
+  * _utmc
+  * _utmz
 
-##  With whom will we share your information? 
+| 
 
-You consent to us sharing your personal information with other companies within the Taylor Nelson Sofres group. When completing an enquiry form on our site for a local contact, you will see the name of the TNS company in the country that you select. By submitting the form, your personal information will be shared with this TNS company. TNS and its affiliate companies will use the information that you submit to respond to your inquiry. 
+These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
 
-We may also share your personal information with selected business partners/clients for the purpose of informing you about our and our business partners’ products and services. Other companies within the Taylor Nelson Sofres group and selected business partners/clients may from time to time contact you on matters, which may be of interest to you. You may opt-out of receiving such news and promotional communications, at any time, by notifying us by email (see Contacting us below). 
+[Click here](http://www.google.com/analytics/learn/privacy.html) for an overview of privacy at Google. For more information about Google Analytics visit Google Analytics website, and to opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.  
+  
+Twitter | 
 
-In the Careers section of our site, we have retained a third party company, OpenHire, to manage resumes submitted for North American employment opportunities. OpenHire hosts the resume submission form even though it appears that users are still on the TNS site. If you submit your resume using the form on the TNS North America Career Opportunity site, only a limited number of TNS staff will have access to it. OpenHire is contractually bound to keep your information confidential and is not allowed to use it for its own promotional purposes. 
+  * original_referer
+  * k
+  * _twitter_sess guest_id
 
-We reserve the right to disclose your personally identifiable information In the rare but possible circumstance that the information is subject to disclosure pursuant to judicial or other government subpoenas, warrants, orders or for similar legal or regulatory requirements.  
-Contacting us  
-Please notify us by email to [enquiries@tns-global.com](mailto:enquiries@tns-global.com) if you: 
+| These cookies are set by Twitter. We use a number of social media tools to enhance visitor interaction on our site. If you already use these platforms their cookies may be set through our website. Data may then be collected by these companies that enables them to serve up adverts on other sites that they think are relevant to your interests. If you do not use such platforms then our site will not place these cookies on your device. No opt-out is offered.  
+YouTube | 
 
-(a) do not wish your personal data to be used in the manner described above (we should be grateful if you set out your specific objections to any use); 
+  * VISITOR_INFO1
+  * _LIVE
+  * soundData.sol
 
-(b) wish to see the personal data we hold about you. We will endeavour to respond to your access request within 30 days of receiving your request. Of course, if the personal information we hold about you is inaccurate, incomplete or irrelevant, we shall correct or delete it after discussing the matter with you. 
+| 
 
-##  Cookies and log files 
+[tnsglobal.com](http://www.tnsglobal.com/) contains YouTube videos. These videos do not set cookies automatically, but if you play the video then you may have cookies set by YouTube placed on your computer.
 
-Cookies are small text file stored on your computer by a website that assigns a numerical user ID and stores certain information about your online browsing. When we use cookies, we do so to help us recognise you as a prior user of this site. The cookie file does not store your personal information. If you prefer not to receive cookies from our website you can disable their use in your browser settings. By doing so you may reduce the functionality of the web pages you view. 
+[Click here](http://www.google.co.uk/intl/en/policies/privacy/) to read more about YouTube's cookie policy.  
+  
+Slideshare | 
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data. 
+  * __utmz
+  * __utmc
+  * __utmb
+  * __utma
+  * __qca
+  * UIDR
+  * UID
+  * SERVERID
+  * mc
+  * d
+  * CSCookieTest
+  * CSCompanyWebSite
+  * CSCompanyWebSession
+  * CSCCompanyWebLang
 
-We use this information, which does not identify individual users, to analyse trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. 
+| [tnsglobal.com](http://www.tnsglobal.com/) uses Slideshare to provide embedded slideshows on our site. Slideshare use cookies to play the slideshow and remember settings.  
+  
+By using our website, you agree that we can place these types of cookies on your device.
 
-##  Transferring information 
+## **Transferring information  **
 
-You consent to us transferring your personal data to other companies in and out of the EEA only for the purposes mentioned above. We shall endeavour to ensure that your personal information is kept confidential and secure. 
+You consent to us transferring your personal data to other companies in and out of the EEA only for the purposes mentioned above. We shall endeavour to ensure that your personal information is kept confidential and secure. 
 
-##  Miscellaneous 
+## **Miscellaneous  **
 
-This privacy policy is governed and construed in accordance with English law and incorporated into the terms and conditions set out in this website.
+This privacy policy is governed and construed in accordance with English law and incorporated into the terms and conditions set out in this website. If we make a material change to this policy or our privacy practices, we will post a prominent notice on this site for 30 calendar days prior to the implementation of the material change and describe how individuals may exercise any applicable choice. Following the implementation of the material change, we will record at the introduction of this policy when the policy was last revised. TNS is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organisation whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
-  If we make a material change to this policy or our privacy practices, we will post a prominent notice on this site for 30 calendar days prior to the implementation of the material change and describe how individuals may exercise any applicable choice. Following the implementation of the material change, we will record at the introduction of this policy when the policy was last revised. 
-
-TNS is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organisation whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
-
-TNS also complies with the EU Safe Harbour framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
-
-If you have questions or concerns regarding this statement or our compliance with the EU Safe Harbour framework, you should first contact the TNS Privacy Officer as noted above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>
-
-We are Taylor Nelson Sofres, A Kantar Group Company, and our registered address is TNS House, Westgate, London W5 1AU (company number 912624). 
+TNS also complies with the EU Safe Harbour framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. If you have questions or concerns regarding this statement or our compliance with the EU Safe Harbour framework, you should first contact the TNS Privacy Officer as noted above. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. We are Taylor Nelson Sofres, A Kantar Group Company, and our registered address is TNS House, Westgate, London W5 1AU (company number 912624).
