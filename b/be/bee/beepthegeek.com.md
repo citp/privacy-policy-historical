@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beepthegeek.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512214734id_/http%3A//www.beepthegeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beepthegeek.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228173411id_/http%3A//www.beepthegeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beep The Geek
 
