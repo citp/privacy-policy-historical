@@ -1,71 +1,65 @@
-> *The following text is extracted and transformed from the shiftnote.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105065626id_/http%3A//www.shiftnote.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftnote.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228221531id_/http%3A//www.shiftnote.com/privacy-policy) for the most accurate reproduction.*
 
-# ShiftNote - Online Communication Log for Restaurant Managers
+# Privacy Policy | ShiftNote
 
-| 
+**Effective: May 19, 2011**
 
-**What This Privacy Policy Covers**
+This Privacy Policy governs the manner in which Restaurant Solutions, LLC, d/b/a ShiftNote, a Kansas limited liability company (“Restaurant Solutions”) collects, uses, maintains and discloses information collected from users (each, a “user” or “you”) of its www.shiftnote.com web site and any derivative or affiliated web sites on which this Privacy Policy is posted (collectively, the “Web Site”). Restaurant Solutions reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy at any time by posting such changes to this page. You understand that you have the affirmative obligation to check this Privacy Policy periodically for changes, and you hereby agree to periodically review this Privacy Policy for such changes. Restaurant Solutions will endeavor to provide email notice to you of any material changes to this Privacy Policy in the event you have provided a valid email address to Restaurant Solutions. The continued use of the Web Site following the posting of changes to this Privacy Policy constitutes an acceptance of those changes.
 
-  * This policy covers how ShiftNote treats personal information that ShiftNote collects and receives, including information related to your past use of ShiftNote products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that ShiftNote does not own or control, or to people that ShiftNote does not employ or manage 
+## Privacy
 
+Restaurant Solutions is committed to safeguarding the information users entrust to Restaurant Solutions and believes that every user should know how it utilizes the information collected from users. The Web Site is not directed at children under 13 years of age, and Restaurant Solutions does not knowingly collect personally identifiable information from children under 13 years of age online. Please note that the Web Site may contain links to other web sites. These linked sites may not be operated or controlled by Restaurant Solutions. Restaurant Solutions is not responsible for the privacy practices of these or any other web sites, and you access these web sites entirely at your own risk. Restaurant Solutions recommends that you review the privacy practices of any other web sites that you choose to visit.
 
+Restaurant Solutions is based, and this web site is hosted, in the United States of America. If you are from the European Union or other regions of the world with laws governing data collection and use that may differ from U.S. law and you register an account on the Web Site, visit the Web Site, purchase products or services from Restaurant Solutions or the Web Site, or otherwise use the Web Site, please note that any personally identifiable information that you provide to Restaurant Solutions will be transferred to the United States. Any such personally identifiable information provided will be processed and stored in the United States by Restaurant Solutions or a service provider acting on its behalf. By providing your personally identifiable information, you hereby specifically and expressly consent to such transfer and processing and the uses and disclosures set forth herein.
 
-**Information Collection and Use**
+## The Information Restaurant Solutions Collects
 
-_General_
+Users browsing the Web Site without registering an account or affirmatively providing personally identifiable information to Restaurant Solutions do so anonymously. Otherwise, Restaurant Solutions may collect personally identifiable information from users in a variety of ways. Personally identifiable information may include, without limitation, (i) contact data (such as a user’s name, mailing and e-mail addresses); (ii) demographic data (such as a user’s zip code, age and income); (iii) financial information collected to process purchases made from Restaurant Solutions via the Web Site or otherwise (such as credit card, debit card or other payment information); and (iv) other information requested during any account registration process. If you communicate with Restaurant Solutions by e-mail or otherwise, post Customer Data to the Web Site, post messages or content to any forums, message boards or other features on the Web Site, complete online forms, surveys or entries or otherwise interact with or use the features on the Web Site, any information provided in such communications may be collected by Restaurant Solutions.
 
-  * ShiftNote collects personal information when you register with ShiftNote, when you use ShiftNote products or services, when you visit ShiftNote pages or the pages of certain ShiftNote partners, and when you enter promotions or sweepstakes. ShiftNote may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with ShiftNote and sign in to our services, you are not anonymous to us. 
-  * ShiftNote collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
-  * ShiftNote automatically receives and records information on our server logs from your browser, including your IP address, ShiftNote cookie information, and the page you request. 
-  * ShiftNote uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+## Cookies
 
+Like most web sites, the Web Site uses cookies and web log files to track site usage. A cookie is a tiny data file that resides on your computer that allows Restaurant Solutions to recognize you as a user when you return to the Web Site using the same computer and web browser. Like the information you provide to Restaurant Solutions, cookie and log file data is used to customize your experience on the Web Site. You can choose to disable cookies on your browser or allow your browser to notify you when a cookie is being sent, however this may prevent you from utilizing certain features of the Web Site.
 
+## IP Addresses
 
-**Information Sharing and Disclosure**
+Due to the communications standards on the Internet, we automatically receive the uniform resource locator (URL) of the web site from which you came and the web site to which you proceed once you leave the Web Site. We also receive the IP address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your Internet service provider (ISP). This information is used to analyze overall trends to help us improve the Web Site. The linkage between your IP address and your personally identifiable information is shared with third parties in accordance with this Privacy Policy.
 
-  * ShiftNote does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with ShiftNote under confidentiality agreements. These companies may use your personal information to help ShiftNote communicate with you about offers from ShiftNote and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of ShiftNote’s terms of use, or as otherwise required by law. 
-    * We transfer information about you if ShiftNote is acquired by or merged with another company. In this event, ShiftNote will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-  * ShiftNote displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
-    * ShiftNote does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-    * ShiftNote advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-  * ShiftNote works with vendors, partners, advertisers, and other service providers in different industries and categories of business 
-  * **Cookies**
-  * ShiftNote may set and access ShiftNote cookies on your computer. 
-  * ShiftNote lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to ShiftNote’s cookies. 
-  * ShiftNote uses web beacons to access ShiftNote cookies inside and outside our network of web sites and in connection with ShiftNote products and services. 
+## How Restaurant Solutions Uses Information
 
+Restaurant Solutions may use personally identifiable information collected through the Web Site for the specific purposes for which the information was collected, to process purchases and sales of products or services offered via the Web Site, to contact users regarding products and services offered by Restaurant Solutions, its parent, subsidiary and other related companies and its trusted affiliates, independent contractors and business partners, and otherwise to enhance users’ experience with Restaurant Solutions and such affiliates, independent contractors and business partners. Restaurant Solutions may also use information collected through the Web Site for research regarding the effectiveness of the Web Site and the business planning, marketing, advertising and sales efforts of Restaurant Solutions, its trusted affiliates, independent contractors and business partners.
 
+Restaurant Solutions will communicate with you through email and notices posted on this Web Site. These may include a series of welcome emails which help inform new users about various features of the Web Site, emails and confirmations regarding actions taken by you on or through the Web Site, and notices relating to the proper functioning of the Web Site or your account. Restaurant Solutions may use your personal information to send you promotional information relating to Restaurant Solutions’ products and services and related products and services offered by third parties that Restaurant Solutions feels may be of interest to you if you have opted-in to receive such information. If you wish to opt-out of receiving promotional emails, please send a request to support@shiftnote.com or use the opt-out mechanism set forth in the applicable communication.
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**
+## Disclosure of Information
 
-_General_
+Restaurant Solutions may disclose personally identifiable information collected from users to its parent, subsidiary and other related companies, trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above, as necessary to provide the services offered by Restaurant Solutions and to provide the Web Site itself, and for the specific purposes for which the information was collected. Restaurant Solutions may disclose personally identifiable information at the request of law enforcement or governmental agencies or in response to subpoenas, court orders or other legal process, to establish, protect or exercise Restaurant Solutions’ legal or other rights or to defend against a legal claim or as otherwise required or allowed by law. Restaurant Solutions may disclose personally identifiable information in order to protect the rights, property or safety of a user or any other person. Restaurant Solutions may disclose personally identifiable information to investigate or prevent a violation by a user of any contractual or other relationship with Restaurant Solutions or the perpetration of any illegal or harmful activity. Restaurant Solutions may also disclose aggregate, anonymous data based on information collected from users to investors and potential partners. Finally, Restaurant Solutions may disclose or transfer personally identifiable information collected from users in connection with or in contemplation of a sale of its assets or business or a merger, consolidation or other reorganization of its business.
 
-  * You can edit your ShiftNote Account Information, including your marketing preferences, at any time. 
-  * New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-  * We reserve the right to send you certain communications relating to the ShiftNote service, such as service announcements, administrative messages and the ShiftNote Newsletter, that are considered part of your ShiftNote account, without offering you the opportunity to opt out of receiving them. 
+## Personal Information Provided as Part of User Postings
 
+If you include your personally identifiable information as part of a posting that you make to the Web Site, such information may be made available to any parties using the Web Site. Restaurant Solutions does not edit or otherwise remove such information from postings before they are posted on the Web Site. If you do not wish to have your personally identifiable information made available in this manner, you must remove any such information from the posting before you post it to the Web Site. Your contact information (which may include, without limitation, your username and email address) may be included with any postings that you post via the Web Site. Restaurant Solutions is not liable for any damages caused or incurred due to personally identifiable information made available in the foregoing manners.
 
+## Customer Data
 
-**Confidentiality and Security**
+Users may upload Customer Data as part of their use of the Web Site, specifically the ShiftNote online manager’s log and communication tools. Restaurant Solutions uses and discloses such Customer Data solely to provide the services in accordance with the ShiftNote Subscription Agreement and Terms of Use and in accordance with this Privacy Policy. Restaurant Solutions may also use and disclose de-identified, aggregated data based upon Customer Data as set forth in the ShiftNote Subscription Agreement and Terms of Use.
 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+## Security of Information
 
+Information about users that is maintained on Restaurant Solutions’ systems is protected using industry standard security measures. However, no security measures are perfect or impenetrable, and Restaurant Solutions cannot guarantee that the information submitted to, maintained on or transmitted from its systems will be completely secure. Restaurant Solutions is not responsible for the circumvention of any privacy settings or security measures relating to the Web Site by any users or third parties.
 
+## Correcting, Updating, Accessing or Removing Personal Information
 
-**Changes to this Privacy Policy**
+If your personally identifiable information changes, or if you no longer desires to receive non-account specific information from Restaurant Solutions, Restaurant Solutions will endeavor to provide a way to correct, update and/or remove your previously-provided personal data. This can be done by emailing a request to Restaurant Solutions at support@shiftnote.com. Additionally, you may request access to the personally identifiable information as collected by Restaurant Solutions by sending a request to Restaurant Solutions as set forth above. Please note that in certain circumstances, Restaurant Solutions may not be able to completely remove a user’s information from its systems. For example, Restaurant Solutions may retain a user’s personal information for legitimate business purposes, if it may be necessary to prevent fraud or future abuse, for account recovery purposes, if required by law or as retained in Restaurant Solutions’ data backup systems or cached or archived pages. All retained personally identifiable information will continue to be subject to the terms of the Privacy Policy to which the user has previously agreed.
 
-  * ShiftNote may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your ShiftNote account or by placing a prominent notice on our site. 
+## Contacting Restaurant Solutions
 
+If you have any questions or comments about this Privacy Policy, you may contact Restaurant Solutions via any of the following methods:
 
+Restaurant Solutions, LLC d/b/a ShiftNote  
+1424 Cross Creek Dr  
+Raymore, MO 64083  
+1 (888) 803-7281  
+support@shiftnote.com
 
-**Restaurant Solutions, LLC**
+## Your California Privacy Rights
 
-**888-803-7281**
-
-_Effective Date: October 22, 2007_
+California Civil Code Section 1798.83 permits users that are residents of California to request certain information regarding Restaurant Solutions’ disclosures of personally identifiable information to third parties for such third parties’ direct marketing purposes. If you are a California resident and would like to make such a request, please email Restaurant Solutions at support@shiftnote.com or write Restaurant Solutions at the mailing address set forth above.
