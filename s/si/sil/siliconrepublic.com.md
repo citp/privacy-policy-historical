@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the siliconrepublic.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518132356id_/http%3A//www.siliconrepublic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconrepublic.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228053732id_/http%3A//www.siliconrepublic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Privacy Policy | siliconrepublic.com - Ireland's Technology News Service
 
 Siliconrepublic.com has created this privacy statement to demonstrate our firm commitment to privacy. The following discloses the information-gathering and dissemination practices of siliconrepublic.com.
+
+For information on how Siliconrepublic.com uses cookies please see our [cookies policy](http://www.siliconrepublic.com/cookies "Siliconrepublic.com's cookies policy")
 
  **1\. Information Automatically Logged**
 
@@ -60,7 +62,7 @@ This site contains links to other sites. Siliconrepublic.com is not responsible 
 
 We take every precaution to protect all information collected. Sensitive information you submit via the website is both communicated to us and stored in a secure manner. All personal information communicated to us as part of an order or sign-up is submitted over a secure channel, protected using SSL or TLS encryption with 128-bit key length (supported by modern browsers).
 
-For information held on file, access is restricted to only those staff members that require that information to perform a specific job. All employees are kept up to date on our security and privacy practices. If you have any questions about the security at our website, you can email [services@siliconrepublic.com](mailto:services@siliconrepublic.com).
+For information held on file, access is restricted to only those staff members that require that information to perform a specific job. All employees are kept up to date on our security and privacy practices. If you have any questions about the security at our website, you can email [webmaster@siliconrepublic.com](mailto:webmaster@siliconrepublic.com).
 
  **10\. Opt-Out Service**
 
@@ -72,7 +74,7 @@ Siliconrepublic.com offers users the ability to change certain personal identifi
 
  **Contacting the website**
 
-If you have any questions about this privacy statement, or the security practices of this site, you can email [services@siliconrepublic.com](mailto:services@siliconrepublic.com).
+If you have any questions about this privacy statement, or the security practices of this site, you can email [webmaster@siliconrepublic.com](mailto:webmaster@siliconrepublic.com).
 
  **Questions & Comments**
 
