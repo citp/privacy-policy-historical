@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pokemontcg.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222044444id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemontcg.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228164320id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pokemon.com
 
 [](http://www.esrb.org/confirm/pokemon-confirmation.jsp)
 
-Last updated July 26, 2011
+Last updated April 6, 2012
 
 Welcome to Pokemon.com!
 
@@ -138,7 +138,7 @@ back to top
 
 As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by doing the following:
 
-  * **www.pokemon.com.com:** To remove your name from the [www.pokemon.com](http://www.pokemon.com/) site, log into the website and follow the instructions to unregister or contact us at Pokémon USA, Inc., Attention: Privacy Policy Administrator, 333 108th Avenue, NE, Suite 1900, Bellevue, WA 98004, Fax: +1 (425) 274-1041.
+  * **www.pokemon.com.com:** To remove your name from the [www.pokemon.com](http://www.pokemon.com/) site, log into the website and follow the instructions to unregister or contact us at The Pokémon Company International, Inc., Attention: Privacy Policy Administrator, 333 108th Avenue, NE, Suite 1900, Bellevue, WA 98004, Fax: +1 (425) 274-1041.
 
 
 
@@ -156,7 +156,7 @@ back to top
 
 You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), as follows:
 
-  * **www.pokemon.com:** Please visit the "Edit Profile" section on the [www.pokemon.com](http://www.pokemon.com/) site (where you can modify your contact information and preferences after logging in) or contact us at Pokémon USA, Inc., Attention: Privacy Policy Administrator, 333 108th Avenue, NE, Suite 1900, Bellevue, WA 98004, Fax: +1 (425) 274-1041.
+  * **www.pokemon.com:** Please visit the "Edit Profile" section on the [www.pokemon.com](http://www.pokemon.com/) site (where you can modify your contact information and preferences after logging in) or contact us at The Pokémon Company International, Inc., Attention: Privacy Policy Administrator, 333 108th Avenue, NE, Suite 1900, Bellevue, WA 98004, Fax: +1 (425) 274-1041.
 
 
 
@@ -186,7 +186,7 @@ New York, NY 10017
 [privacy@esrb.org](mailto:privacy@esrb.org)
 
 **Your California Privacy Rights**   
-Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer’s personal information with unaffiliated third parties for their own direct marketing purposes. For inquires regarding our disclosure policy, please send us an e-mail or write us at the address above.
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer’s personal information with unaffiliated third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please send us an e-mail or write us at the address above.
 
 back to top
 
@@ -214,7 +214,7 @@ Building on our general Privacy Policy, we recognize the need to provide additio
 
 The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age; and that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of our Web sites. Below we explain how we do that for these "kids." Also, when we use the term "parent" below, we mean to include legal guardians.
 
-This Privacy Statement and the certification seal shown on this page confirm that Pokémon USA, Inc. is a member in good standing of [ESRB's Privacy Online Program](http://www.esrb.org/privacy/index.jsp). ESRB's Privacy Online Program is designed to ensure that our website's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB.
+This Privacy Statement and the certification seal shown on this page confirm that Pokémon is a member in good standing of [ESRB's Privacy Online Program](http://www.esrb.org/privacy/index.jsp). ESRB's Privacy Online Program is designed to ensure that our website's information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
 Pokémon is a self-certified member of the U.S. Department of Commerce's EU Safe Harbor privacy program jointly established to comply with the European Commission's 1998 Directive on Data Protection and The U.S. Department of Commerce’s Swiss Safe Harbor privacy program jointly established to comply with the Swiss Federal Act on Data Protection. For more information about this privacy initiative, visit the Department of Commerce's website at <http://www.export.gov/safeHarbor/>.[](http://www.export.gov/safeHarbor/)
 
@@ -270,7 +270,7 @@ We may collect personal information from parents to allow kids to participate in
 
 We may use your child's information to allow your child to send questions or request customer support. We may also use your child's information to participate in polls, surveys or questionnaires. We may also use that information to send your child email and messages with promotional information about new products and features, special offers, and other interesting events concerning new products, events and other information about Pokémon.
 
-Other website features include sending e-mail message to "tell-a-friend"and may in the future permit “canned chat” where a kid is able to select words from a list prepared by Pokémon to send messages to other site users. If a parent allows us to collect personal information about their kid, we may link certain information collected through technology (see the "Information Collected Through Technology" section of A2 of our General Privacy Policy) to that personal information.
+Other website features include sending e-mail message to "tell-a-friend" and may in the future permit “canned chat” where a kid is able to select words from a list prepared by Pokémon to send messages to other site users. If a parent allows us to collect personal information about their kid, we may link certain information collected through technology (see the "Information Collected Through Technology" section of A2 of our General Privacy Policy) to that personal information.
 
 We may use the information that we collect from and about kids for our business purposes, including record-keeping, transaction fulfillment, and marketing. The contact information gathered from a kid is used to obtain consent to our information collection from their parents.
 
@@ -297,7 +297,7 @@ back to top
 
 3\. **How do we notify and obtain consent from parents for the collection of personal information from their kids?**
 
-When a child under the age of 13 attempts to register with our website, we send their parent an e-mail notifying them that their child would like to register, and asking them to visit our website to grant consent for their child to register. If the parent ignores or refuses to register their child, we will delete all contact information from our database. If the parent permits the registration, their child will be granted access to the features described in the notification e-mail.
+When a child under the age of 13 attempts to register with our website, we send their parent an e-mail notifying them that their child would like to register, and asking them to visit our website to grant consent for their child to register. If the parent ignores or refuses to register their child, we will delete all contact information from our database within 14 days of such notice. If the parent permits the registration, their child will be granted access to the features described in the notification e-mail.
 
 back to top
 
@@ -338,8 +338,17 @@ Suite 1900
 Bellevue, WA 98004   
 fax your inquiry to +1(425)274-1041  
   
-**Your California Privacy Rights**
+Pokémon is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy_wc_hotline.asp>. Please note that the ESRB is not affiliated with Pokémon and cannot help you with non-privacy-related issues.
 
-Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer’s personal information with unaffiliated third parties for their own direct marketing purposes. For inquires regarding our disclosure policy, please send us an e-mail or write us at the addresses above.
+ESRB   
+Attn.: Privacy Online Program   
+317 Madison Avenue, 22nd Floor   
+New York, NY 10017   
+privacy@esrb.org **  
+**
+
+ **Your California Privacy Rights**
+
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. We do not share our customer’s personal information with unaffiliated third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please send us an e-mail or write us at the addresses above.
 
 back to top
