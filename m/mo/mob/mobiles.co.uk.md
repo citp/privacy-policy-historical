@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505010916id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228183422id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Mobiles.co.uk privacy policy
+
+Deals to make your Christmas. Click here
 
 ## Privacy Policy Summary
 
@@ -32,9 +34,9 @@ Please see our terms of use at [ http://www.mobiles.co.uk/t_and_c.html](http://w
 
 We may collect information about your computer, including where relevant your IP address, operating system and browser type. This data is processed for the purposes of fraud prevention, for various administrative purposes and may also be used by us to promote certain offers and advertisements according to your general location.
 
-**Cookies**
+**Cookies **Updated due to EU Cookie Privacy Law - Directive 2009/136/EC****
 
-For the same reason, we may obtain information about your general internet usage by using a cookie which is stored on your browser or the hard drive of your computer. Cookies are text files which contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate, whereas others are aimed at enhancing and personalising your user experience.
+For the same reason, we may obtain information about your general internet usage by using a cookie which is stored on your browser or the hard drive of your computer. Cookies are text files which contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate, whereas others are aimed at enhancing and personalising your user experience. 
 
 The information gathered by cookies on our site(s) may be used in the following ways:
 
@@ -46,11 +48,33 @@ The information gathered by cookies on our site(s) may be used in the following 
 
 * We may collect information on how frequently you visit the site and the type of products and/or services that you view to enable us to measure the popularity of our sites and our product offerings.
 
-We may use third party providers to present advertisements on third party sites or landing pages. These providers and site owners may use cookies or similar technologies on your computer to tailor advertisements to your preferences, help track your visits and measure the effectiveness of advertisements and promotions. The use of such technologies is subject to their own privacy policies, not this one unless otherwise indicated.
+**Types of Cookie**
 
-By using this site, you agree to our use of cookies in the manner outlined above. If you do not wish to receive tailored advertising, you can withdraw this consent at any time by changing your browser settings to reject cookies.
+Category 1: Strictly Necessary Cookies
 
-Please note that it is not a good idea to reject all cookies as this could prevent you from gaining full use of this site. To learn more about cookies and how to disable them, [ click here.](http://www.allaboutcookies.org/)
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website, remembering how far you are through your pay as you go order, making sure that the Mobiles.co.uk website looks consistent or remembering what's in your basket when you're looking to buy that new cool smartphone. Without these cookies, many of the basic functionalities of our website - the stuff you expect the site to enable you to do like filling in your shopping basket, we simply can't provide.
+
+Tip - these cookies make the basic functions of the website work.
+
+Category 2: Performance Cookies
+
+These cookies collect information about how visitors use our website, for instance which pages visitors go to most often, and the pages that they don't. This understanding enables Mobiles.co.uk to continually improve the experience we deliver to you (and other visitors like you) so that the site is easy to use and includes content that you find helpful (for instance, performance cookies indicated that users find reviews really helpful and so that gave us confidence that we should provide more reviews on each smartphone product page) These cookies don't collect information that identifies a visitor - so we can't identify you individually. All the information these cookies collect is aggregated and therefore anonymous. This information is only used to improve how the Mobiles.co.uk website works.
+
+Tip - these cookies collect anonymous information on the pages visited.
+
+Category 3: Functionality Cookies
+
+These cookies allow the website to remember the choices you make as you browse the site (for instance, your login details to enable you to provide your comments in our new community forums). They provide more enhanced and personal features. The information they collect is anonymised and the usage only relates to www.mobiles.co.uk - they cannot track your browsing activity on other websites once you've departed Mobiles.co.uk
+
+Tip - these cookies remember choices you have made to improve your website experience on www.mobiles.co.uk
+
+Category 4: Advertising or Targeting Cookies
+
+These cookies are used to deliver adverts more relevant to you, and your interests (assumed by analysing your onsite browsing behaviour). They can also provide caps on the number of times you might see an advert - to hopefully stop them becoming annoying and repetitive. These cookies remember that you have visited Mobiles.co.uk, track what products you may have looked at, and this information may be shared with our advertising partners. If you see an advert from Mobiles.co.uk, once you have left our site and are browsing other sites on the internet, that magically seems to understand what previously interested you (you browsed a specific smartphone handset and then see deals for that handset) then this is enabled by targeting cookies.
+
+Tip - these cookies collect information about your browsing habits in order to make advertising more relevant for you.
+
+By using this site, you agree to our use of cookies in the manner outlined above. If you do not wish to receive tailored advertising, you can withdraw this consent at any time by changing your browser settings to reject cookies. Please note that it is not a good idea to reject all cookies as this could prevent you from gaining full use of this site. To learn more about cookies [ click here](http://www.allaboutcookies.org/), or to disable them [click here](http://info.evidon.com/companies?cc=gb&external_opt_out=true&opt_out=true&opt_out_only=true).
 
 **Where we store your personal data**
 
@@ -76,6 +100,8 @@ We use information held about you in the following ways:
 
 * to make credit, fraud and identity checks on you (when applicable)
 
+* to contact you if there has been a problem with your order or if you have experienced problems whilst using the services available at [www.mobiles.co.uk](http://www.mobiles.co.uk/).
+
 You will also have the opportunity to consent to us contacting you by post, e-mail, phone, SMS or MMS from time to time occasionally about products and services which the Carphone Warehouse Group of companies and carefully selected third parties believe may be of interest to you. The Carphone Warehouse Group consists of The Carphone Warehouse Limited, together with its subsidiary and holding companies and any subsidiaries of such holding companies whether direct or indirect from time to time, including Best Buy Co. Inc. and its affiliates and subsidiary companies from time to time.
 
 If you are an existing customer, we may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
@@ -100,8 +126,11 @@ The Act gives you the right to access information held about you. Your right of 
 
 **Changes to our privacy policy**
 
+  
+
+
 Any changes we may make to our privacy policy in the future will be posted on this page and/or in our privacy policy and terms of use available [here](https://web.archive.org/t_and_c.html)
 
-**Contact**
+ **Contact**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to The Data Protection Office, The Carphone Warehouse Limited at PO Box 375, Southampton, SO30 2PU.
