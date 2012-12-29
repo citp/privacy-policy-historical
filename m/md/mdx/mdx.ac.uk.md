@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111829id_/http%3A//www.mdx.ac.uk/privacy_policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135642id_/http%3A//www.mdx.ac.uk/privacy_policy/index.aspx) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
@@ -23,7 +23,7 @@ The site carries information that is already publicly available, such as organis
 
 ## Images
 
-The images on this site are either covered by our own copyright or, where the copyright holder is another person or organisation, have been specifically cleared for our our use by the owner.  When we take pictures of individuals on University grounds and involved in University activities for publication on this site or in other media and the individuals are clearly identifiable, we seek written consent from the individual concerned for the use of their image in University materials.  If you are in an image on this site and have not consented to its use and would prefer it to be removed, please [contact the online marketing manager](mailto:c.bodsworth@mdx.ac.uk "Mail Charles Bodsworth").
+The images on this site are either covered by our own copyright or, where the copyright holder is another person or organisation, have been specifically cleared for our our use by the owner.  When we take pictures of individuals on University grounds and involved in University activities for publication on this site or in other media and the individuals are clearly identifiable, we seek written consent from the individual concerned for the use of their image in University materials.  If you are in an image on this site and have not consented to its use and would prefer it to be removed, please [contact the online marketing manager](mailto:j.blackburn@mdx.ac.uk "email Joanna Blackburn").
 
 ## Cookies
 
