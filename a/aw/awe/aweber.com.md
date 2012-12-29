@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629012534id_/http%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aweber.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229182021id_/http%3A//www.aweber.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Your Information Is Kept Safe
 
@@ -173,4 +173,4 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at via email at [help@aweber.com](mailto:help@aweber.com) or via postal mail at 3103 Philmont Ave. Ste. 200 Huntingdon Valley, PA 19006, USA.
+If you have any questions or suggestions regarding our privacy policy, please contact us at via email at [help@aweber.com](mailto:help@aweber.com) or via postal mail at 1100 Manor Drive Chalfont, PA 18914, USA.
