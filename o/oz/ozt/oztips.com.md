@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oztips.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618135735id_/http%3A//info.yahoo.com/privacy/au/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztips.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229165322id_/http%3A//info.yahoo.com/privacy/au/yahoo) for the most accurate reproduction.*
 
 # Yahoo!7 Privacy Policy
 
@@ -104,6 +104,6 @@ PO Box R1469
 ROYAL EXCHANGE NSW 1225  
 Australia 
 
-Effective Date: April 1, 2011
+Last updated: April 1, 2011
 
 Return to top
