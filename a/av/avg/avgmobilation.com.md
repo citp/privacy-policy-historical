@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avgmobilation.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626064635id_/http%3A//www.avgmobilation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avgmobilation.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229111040id_/http%3A//www.avgmobilation.com/privacy) for the most accurate reproduction.*
 
 # Privacy | AVG Mobilation
 
@@ -59,7 +59,7 @@ The personal information we collect is generally used to process your requests a
   * Provide you with information about virus alerts, product upgrades, new products, services, research on future product ideas or improvements;
   * In case of your files, applications or emails that are malicious, potentially malicious or spam, this information is used ONLY to help us and our suppliers to improve the products
 
-| 
+
 
 ## With Whom Do We Share Your Information?
 
@@ -115,6 +115,4 @@ This website is maintained by AVG Technologies CZ, s.r.o. in Brno, the Czech Rep
 
 Version 2.2
 
-Last Updated 2 February 2012  
-  
----|---
+Last Updated 2 February 2012
