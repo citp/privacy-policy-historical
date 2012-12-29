@@ -1,33 +1,7 @@
-> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizeit.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229144319id_/http%3A//www.organizeit.com/privacy-and-security.asp) for the most accurate reproduction.*
 
 # Privacy and Security
 
-**Order Information:**  
-[How to Order](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/ordering.asp)  
-[Payment Methods](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/ordering.asp#payment)  
-[Return Policy](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/return-policy.asp)  
-**Shipping Information:**  
-[Shipping Information](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/shipping-information.asp)  
-[Order Tracking](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/track-your-order.asp)  
-**Site Information:**  
-Privacy & Security  
-[Site Use](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/siteuse.asp)  
-**General Information:**  
-[Contact Us](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/contact-us-information.asp)  
-[About Us](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/about-us-information.asp)  
-[Installation Services](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/organization-installation-services.asp)  
-[Gift Certificates](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/gift-certificates.asp)  
-[Catalog Request](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/request-catalog.asp)  
-[Product Submission](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/productsub.asp)  
-[Media Inquiries & News](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/news.asp)  
-[Product Applications](https://web.archive.org/web/20120630110111id_/http%3A//www.organizeit.com/product-applications-information.asp) | 
-
-Privacy and Security  
-  
-**Choose a topic:** Privacy Policy | Personal Information | Tracking Cookies | Online Security  
-  
-* * *  
-  
 **Privacy Policy**  
 Organize-It collects the information needed to process your order(s). We reserve the right to add your name and address to our mailing list, which is used internally for catalog mailings and to notify customers about sales or new products. Upon request we will remove you from our database. We never release any of our customers' information including credit card information outside our company. 
 
