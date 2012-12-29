@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politico.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627223552id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politico.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229140925id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.*
 
 # Privacy - POLITICO.com
 
