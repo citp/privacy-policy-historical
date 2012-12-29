@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528200832id_/http%3A//www.patriots.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229182047id_/http%3A//www.patriots.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Official Website of the New England Patriots | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.patriots.com/seal_m "Validate TRUSTe privacy certification")This website is the only official website of the New England Patriots and is ©Copyright New England Patriots (the "Club"). Commercial reproduction, distribution or transmission of any part or parts of this website or any information contained therein by any means whatsoever without the prior written permission of the Club is not permitted.
 
-Gillette Stadium and Gillette Stadium and design are trademarks and service marks of The Gillette Company.
+Gillette Stadium and Gillette Stadium design are trademarks and service marks of The Gillette Company.
 
 ##### New England Patriots Website Privacy Policy
 
@@ -26,9 +26,10 @@ Please read the information below to learn more about our data collection polici
   8. A Special Note For Parents Concerning Privacy 
   9. Your Acceptance Of The Privacy Policy and Notification Of Changes 
   10. Correcting/Updating Personal Information 
-  11. TRUSTe Privacy Program 
-  12. Your California Privacy Rights
-  13. Questions about This Privacy Policy 
+  11. Data Retention 
+  12. TRUSTe Privacy Program 
+  13. Your California Privacy Rights
+  14. Questions about This Privacy Policy 
 
   
 
@@ -86,7 +87,7 @@ Reach Local [www.reachlocal.com](http://www.reachlocal.com/)
 
 ###### _Clear Gifs (Web Beacons/Web Bugs)_
 
-Our third party advertising partner employs] a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
 ###### _Flash LSOs_
 
@@ -120,9 +121,9 @@ Each of the PROVIDERS own the information collected via this Site. As applicable
   * monitor compliance with our terms and conditions of use of the Site;
   * provide special offers to you from the PROVIDERS and/or their respective affiliates and subsidiaries and other third parties;
   * send you promotional material on behalf of our business partners;
-  * inform you of a prize you have won.
-  * promote the winning of prizes
-  * provide special offers to you from the PROVIDERS
+  * inform you of a prize you have won
+  * promote the winning of prizes;
+  * provide special offers to you from the PROVIDERS.
 
 
 
@@ -158,6 +159,8 @@ In the event we are required to respond to subpoenas, court orders or other lega
 
 The Site may make chat rooms, forums and message boards available to its users. While you are required to register with the site for access to these areas, you are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
 
+To request removal of your personal information from our blog or community forum, contact us at [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
 ##### Links To Other Web Sites
 
 This privacy policy applies only to this Site. When you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and others that may use the Site's logo as part of a cobranding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information.
@@ -178,13 +181,17 @@ By using this Website, you signify your agreement to the terms of our privacy po
 
 If your personally identifiable information (such as your email address) changes, or if you no longer desire to access our Site, you may correct, update, remove, or delete the personal data you have provided to us by making changes to your profile, by using an opt out message in an email, or by emailing member Sites at [web@patriots.com](mailto:web@patriots.com) with your request. We will respond to your request within 14 days of receiving the request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact: Fred Kirsch at [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com).
 
+##### Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [fredkirsch@patriots.com](mailto:fredkirsch@patriots.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 ##### TRUSTe Privacy Program
 
-New England Patriots LP has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Fred Kirsch at fredkirsch@patriots.com.  If you are not satisfied with our response you can contact TRUSTe here <http://www.truste.org/consumers/watchdog_complaint.php>
+New England Patriots LP has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Fred Kirsch at fredkirsch@patriots.com.  If you are not satisfied with our response you can contact TRUSTe here <http://www.truste.org/consumers/watchdog_complaint.php>
 
 This privacy statement covers the Web site [www.patriots.com](http://prod.www.patriots.clubs.nfl.com/).
 
-New England Patriots LP complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union
+New England Patriots LP complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/>
 
 _The TRUSTe program only covers information that is collected through this Web site, and **does not** cover information that may be collected through any software downloaded from this Web site._
 
@@ -202,4 +209,4 @@ If you have any questions about this privacy policy or the privacy practices of 
 
 [](http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.patriots.com/seal_m "TRUSTe European Safe Harbor certification")
 
-_Last Updated on November 23, 2010_
+_Last Updated on June 15, 2012_
