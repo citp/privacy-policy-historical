@@ -1,0 +1,821 @@
+<!--The following is the downloaded HTML source of the gomotors.net privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229135204id_/http%3A//gomotors.net/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>Privacy - articles, features, gallery, photos, buy cars - Go Motors</title>
+		<meta name="description" content="">
+		<meta name="telderi" content="a2965a4d1a6eff4cc47c8084efde5b4f">
+				<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=016542024315821153078:rma9bdpw5se"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-37217425-1']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		<script>
+			setTimeout(function(){
+				var r = document.referrer;
+				if(window.top != window && r.indexOf('metrika.yandex.ru') == -1 && r.indexOf('google.com/analytics/') == -1){
+					window.top.location.href = window.location.href;
+				}
+			}, 4000);
+		</script>
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/reset.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/style.css?v3">
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/grid.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/superfish.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/slider.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/jqtransform.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="/css/lightbox.css">
+		<link rel="shortcut icon" href="/images/favicon.png" type="image/png">
+		<script src="/js/jquery.js"></script>
+		<script src="/js/slider.js"></script>
+		<!-- <script src="/js/totop.js"></script> -->
+		<script src="/js/superfish.js"></script>
+		<script src="/js/lightbox.js"></script>
+				<script>
+			function trackEvent(category, action, label){
+				if(typeof(_gaq)!='undefined'){
+					if(typeof(label)=='undefined'){
+						var label=location.pathname;
+					}
+					_gaq.push(['_trackEvent', category, action, label]);
+				}
+			}
+			function isScrolledIntoView(top, bottom){
+				var top = top || 0;
+				var docViewTop = $(window).scrollTop();
+				var docViewBottom = docViewTop + $(window).height();
+				var elemTop = top;
+				var elemBottom = bottom;
+				return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+			}
+			// fix for IE
+			if (document.getElementsByClassName == undefined) {
+				document.getElementsByClassName = function(className){
+					var hasClassName = new RegExp("(?:^|\s)" + className + "(?:$|\s)");
+					var allElements = document.getElementsByTagName("*");
+					var results = [];
+					var element;
+					for (var i = 0; (element = allElements[i]) != null; i++) {
+						var elementClass = element.className;
+						if (elementClass && elementClass.indexOf(className) != -1 && hasClassName.test(elementClass))
+							results.push(element);
+					}
+					return results;
+				}
+			}
+			function adCheck(){
+				var ads = 'ads-box';
+				var blocked = false;
+				var ad_nodes = document.getElementsByClassName(ads);
+				for(i in ad_nodes){
+					if (ad_nodes[i].offsetHeight == 0){
+						blocked = true;
+						break;
+					}
+				}
+				return blocked;
+			}
+			
+			var checked = true;
+			var scroll = false;
+			var navigation = {};
+			var hashtags = null;
+			var positions = {};
+			$(document).ready(function(){
+				$('.slider')._TMS({
+					pauseOnHover:false,
+					prevBu:false,
+					nextBu:false,
+					playBu:false,
+					duration:1000,
+					preset:'fade',
+					pagination:false,
+					pagNums:false,
+					slideshow:5000,
+					numStatus:false,
+					banners:false,
+					waitBannerAnimation:false,
+					progressBar:false
+				});
+				$('.gallery-mini a').each(function(){
+					navigation[this.getAttribute('href')] = $(this);
+				});
+				hashtags = $('.pic-hashtag').each(function(){
+					var top = $(this).offset().top + 150;
+					var bottom = top + $(this).height();
+					var href = this.getAttribute('href');
+					positions[href] = {
+						'top': top,
+						'bottom': bottom
+					};
+				});
+				function navigationTime(){
+					if(scroll){
+						checked = true;
+						hashtags.each(function(){
+							var href = this.getAttribute('href');
+							if(navigation[href] != null){
+								var p = navigation[href].parent();
+								var e = positions[href];
+								if(checked && isScrolledIntoView(e.top, e.bottom)){
+									p.addClass('hover');
+									checked = false;
+								}
+								else{
+									p.removeClass('hover');
+								}
+							}
+						});
+						scroll = false;
+					}
+					//setTimeout(navigationTime, 1000);
+				}
+				//navigationTime();
+				
+				$(window).scroll(function(){
+					scroll = true;
+					navigationTime();
+				});
+				scroll = true;
+				navigationTime();
+				
+				if(adCheck()){
+					$('.box-replace').css({'display': ''});
+				}
+				
+				$('.lightbox a.img').lightBox();
+			});
+			/*$(window).load(function(){
+				$().UItoTop({ easingType: 'easeOutQuart' });
+			});*/
+		</script>
+		<!--[if lt IE 8]>
+		<div style=" clear: both; text-align:center; position: relative;">
+			<a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+			<img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+			</a>
+		</div>
+		<![endif]-->
+		<!--[if lt IE 9]>
+		<link href="http://fonts.googleapis.com/css?family=Orbitron:400" rel="stylesheet" type="text/css" />
+		<link href="http://fonts.googleapis.com/css?family=Orbitron:700" rel="stylesheet" type="text/css" />
+		<script src="/js/html5.js"></script>
+		<![endif]-->
+		<script>
+		  (function() {
+			var cx = '016542024315821153078:rma9bdpw5se';
+			var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+			gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+				'//www.google.com/cse/cse.js?cx=' + cx;
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+		  })();
+		</script>
+	</head>
+	<body>
+		<div class="main">
+			<!-- Header -->
+			<header>
+				<!--
+				<div class="header-block">
+					<span class="fleft"></span>
+					<span class="fright">
+						
+					</span>
+				</div>
+				-->
+				<nav>
+					<h1><a href="/" onclick="trackEvent('header', 'logo');">Go Motors</a></h1>
+					<style>
+						.ss-1 {
+							color: #DADADA !important;
+						}
+						.ss-1:hover {
+							color: White !important;
+						}
+					</style>
+					<ul class="sf-menu sf-js-enabled">
+						<li><a href="/brands/" onclick="trackEvent('menu', 'brands');" class="ss-1"><strong>Brands</strong></a></li>
+						<li><a href="/news/" onclick="trackEvent('menu', 'news');"><strong>News</strong></a></li>
+						<li><a href="/reviews/" onclick="trackEvent('menu', 'reviews');"><strong>Reviews</strong></a></li>
+						<li><a href="/buy/" onclick="trackEvent('menu', 'buy');"><strong>Buy Posters</strong></a></li>
+						<li>
+							<a target="_blank" href="/go/?url=aHR0cDovL3BpbnRlcmVzdC5jb20vY2FyaW5zdGFuY2Uv" onclick="trackEvent('menu', 'pinterest-followme');" class="pinterest-follow" style="padding-top: 28px;">
+								<img src="/images/pinterest-button.png" width="80" height="28" alt="Follow Me on Pinterest">
+							</a>
+						</li>
+					</ul>
+					<div class="clear"></div>
+				</nav>
+			</header>
+			<!-- Content -->
+			<section id="content" class="main-content">
+				<div class="container_12">
+										
+										
+					<div class="grid_8">
+													<div class="ads-box bg-white aligncenter" style="padding: 20px 0;">
+																	<div style="display: inline-block; *display: inline; *zoom: 1; margin-right: 30px; vertical-align: middle;">
+										<script type="text/javascript"><!--
+										google_ad_client = "ca-pub-7809413575324035";
+										/* gomotors - content - 250x250 - top-white-1 */
+										google_ad_slot = "1577932928";
+										google_ad_width = 250;
+										google_ad_height = 250;
+										//-->
+										</script>
+										<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+										</script>
+									</div>
+																		<div style="display: inline-block; *display: inline; *zoom: 1; vertical-align: middle;">
+										<script type="text/javascript"><!--
+										google_ad_client = "ca-pub-7809413575324035";
+										/* gomotors - content - 300x250 - top-white-2 */
+										google_ad_slot = "3054666128";
+										google_ad_width = 300;
+										google_ad_height = 250;
+										//-->
+										</script>
+										<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+										</script>
+									</div>
+																</div>
+														<h2 class="h2-border sel-1">Privacy Policy</h2>
+							<div class="bg-invert text">
+								<p>
+	<strong>GoMotors Team (hereinafter referred to as "GoMotors")</strong> recognizes that its customers, visitors, users, and others who use www.gomotors.net or other web Website owned or operated by GoMotors (the "GoMotors Website") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the GoMotors Website. GoMotors provides this Privacy Notice to help you make an informed decision about whether to use or continue using the GoMotors Website.
+</p>
+<p>
+	This Privacy Notice is incorporated into and is subject to the GoMotors Terms of Use. Your use of the GoMotors Website and any personal information you provide on the GoMotors Website remains subject to the terms of this Privacy Notice and our GoMotors Terms of Use.
+</p>
+<p>
+	Please note that any video, image, or other content posted at the direction of Users onto the GoMotors Website becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
+</p>
+
+<h3>The Information GoMotors Collects</h3>
+<p>
+    User Provided Information: You provide certain personally identifiable information (such as your name and email address) to GoMotors when choosing to participate in various activities on the GoMotors Website such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
+</p>
+<p>
+    Cookies Information: When you visit the GoMotors Website, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. GoMotors uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the GoMotors Website may not function properly if the ability to accept cookies is disabled.
+</p>
+<p>
+    Log File Information: When you use the GoMotors Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+</p>
+<p>
+    Clear GIFs Information: When you use the GoMotors Website, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+</p>
+
+<h3>The Way GoMotors Uses Information</h3>
+<p>
+    If you submit personally identifiable information to us through the GoMotors Website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the GoMotors Website.<br>
+    Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the GoMotors Website and other Users can contact you through messages and comments. Any videos that you submit to the GoMotors Website may be redistributed through the internet and other media channels, and may be viewed by the general public.
+</p>
+<p>
+    We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major GoMotors Site changes or for customer service purposes).
+</p>
+<p>
+    We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the GoMotors Website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
+</p>
+<p>
+    We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the GoMotors Website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+</p>
+
+<h3>When GoMotors Discloses Information</h3>
+<p>
+    We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+</p>
+<p>
+    We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+</p>
+<p>
+    We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the GoMotors Website.
+</p>
+<p>
+    We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
+</p>
+<p>
+    GoMotors also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that GoMotors believes, in good faith, is appropriate or necessary to enforce our GoMotors Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of GoMotors, our Users or others.
+</p>
+
+<h3>Your Choices</h3>
+<p>
+	You may, of course, decline to submit personally identifiable information through the GoMotors Website, in which case GoMotors may not be able to provide certain services to you. Please note that media files uploaded by Users to the GoMotors Website cannot be removed and remain subject to our GoMotors Terms of Use.
+</p>
+<p>
+	To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+</p>
+<p>
+	Please contact GoMotors with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing <a href="mailto:gomotors.net@gmail.com">gomotors.net@gmail.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a>
+</p>
+
+<h3>Third-party Advertisers, Links to Other Website</h3>
+<p>
+	GoMotors allows other companies, called third-party ad servers or ad networks, to serve advertisements within the GoMotors Website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the GoMotors Website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+</p>
+<p>
+	GoMotors does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks GoMotors to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the GoMotors Website, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+</p>
+<p>
+	You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. GoMotors's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web Website.
+</p>
+
+<h3>Our Commitment To Data Security</h3>
+<p>
+	GoMotors uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to GoMotors and you do so at your own risk. Once we receive your transmission of information, GoMotors makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+</p>
+<p>
+	If GoMotors learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. GoMotors may post a notice on the GoMotors Website if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using <a href="mailto:gomotors.net@gmail.com">gomotors.net@gmail.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a>.
+</p>
+
+<h3>Our Commitment To Childrens' Privacy</h3>
+<p>
+	Protecting the privacy of young children is especially important. For that reason, GoMotors does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the GoMotors Website from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the GoMotors Website at any time or in any manner. If GoMotors learns that personally identifiable information of persons under 13 years of age has been collected on the GoMotors Website without verified parental consent, then GoMotors will take the appropriate steps to delete this information.
+</p>
+
+<h3>Special Note to International Users</h3>
+<p>
+	The GoMotors Website is hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the GoMotors Website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the GoMotors Website, which are governed by Cypriot Law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
+</p>
+<h3>In the Event of Merger, Sale, or Bankruptcy</h3>
+<p>
+	In the event that GoMotors is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+</p>
+
+<h3>Changes and updates to this Privacy Notice</h3>
+<p>
+	This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the GoMotors Website constitutes your agreement to this Privacy Notice and any future revisions.
+</p>
+<p>
+	For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+</p>
+
+<h3>Contact Information</h3>
+<p>
+	Please contact GoMotors with any questions or comments about this Privacy Notice at <a href="gomotors.net@gmail.com">gomotors.net@gmail.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a>
+</p>							</div>
+							<div class="clear"></div>
+												</div>
+					
+					
+					
+										
+					<div class="grid_4">
+													<div class="bg-white" style="padding: 2px 5px 0px; height: 34px; margin-bottom: 5px;">
+								<gcse:searchbox-only></gcse:searchbox-only>
+							</div>
+							<div style="height:100px;"></div>
+														<h2 class="h2-border top-2 p1">Interesting cars</h2>
+							<ul class="box-2 col2">
+																	<li>
+										<a href="/Tofas/Tofas-Murat-124.html" title="Tofas Murat 124">
+											<img src="/thumb/pics/Tofas/tofas-murat-124-02_182x105.jpg" alt="Tofas Murat 124">
+											<span class="subtitle">Tofas Murat 124</span>
+										</a>
+									</li>
+																		<li>
+										<a href="/Tofas/Tofas-Murat-131-Kartal.html" title="Tofas Murat 131 Kartal">
+											<img src="/thumb/pics/Tofas/tofas-murat-131-kartal-02_182x105.jpg" alt="Tofas Murat 131 Kartal">
+											<span class="subtitle">Tofas Murat 131 Kartal</span>
+										</a>
+									</li>
+																		<li>
+										<a href="/Tofas/Tofas-Murat-131.html" title="Tofas Murat 131">
+											<img src="/thumb/pics/Tofas/tofas-murat-131-02_182x105.jpg" alt="Tofas Murat 131">
+											<span class="subtitle">Tofas Murat 131</span>
+										</a>
+									</li>
+																		<li>
+										<a href="/Tofas/Tofas-Ahin.html" title="Tofas Ahin">
+											<img src="/thumb/pics/Tofas/tofas-ahin-02_182x105.jpg" alt="Tofas Ahin">
+											<span class="subtitle">Tofas Ahin</span>
+										</a>
+									</li>
+																		<li>
+										<a href="/Tofas/Tofas-Dogan-SLX-16-ie.html" title="Tofas Dogan SLX 16 ie">
+											<img src="/thumb/pics/Tofas/tofas-dogan-slx-16-ie-02_182x105.jpg" alt="Tofas Dogan SLX 16 ie">
+											<span class="subtitle">Tofas Dogan SLX 16 ie</span>
+										</a>
+									</li>
+																		<li>
+										<a href="/Tofas/Tofas-Kartal.html" title="Tofas Kartal">
+											<img src="/thumb/pics/Tofas/tofas-kartal-02_182x105.jpg" alt="Tofas Kartal">
+											<span class="subtitle">Tofas Kartal</span>
+										</a>
+									</li>
+																		<li>
+										<a href="/Tofas/Tofas-Sahin.html" title="Tofas Sahin">
+											<img src="/thumb/pics/Tofas/tofas-sahin-02_182x105.jpg" alt="Tofas Sahin">
+											<span class="subtitle">Tofas Sahin</span>
+										</a>
+									</li>
+																		<li>
+										<a href="/Tofas/Tofas-All.html" title="Tofas All">
+											<img src="/thumb/pics/Tofas/tofas-all-02_182x105.jpg" alt="Tofas All">
+											<span class="subtitle">Tofas All</span>
+										</a>
+									</li>
+																		<li>
+										<a href="/Tofas/Tofas-Fiat-124.html" title="Tofas Fiat 124">
+											<img src="/thumb/pics/Tofas/tofas-fiat-124-02_182x105.jpg" alt="Tofas Fiat 124">
+											<span class="subtitle">Tofas Fiat 124</span>
+										</a>
+									</li>
+																		<li>
+										<a href="/Tofas/Tofas-Dogan.html" title="Tofas Dogan">
+											<img src="/thumb/pics/Tofas/tofas-dogan-02_182x105.jpg" alt="Tofas Dogan">
+											<span class="subtitle">Tofas Dogan</span>
+										</a>
+									</li>
+																</ul>
+							<div class="clear"></div>
+							<div style="height:100px;"></div>
+																										<h2 class="h2-border top-2 p1">The Best Cars</h2>
+							<ul class="box-2 col2">
+																	<li>
+										<a href="/Mercedes_Benz/Mercedes_Benz-Actros-MP1-2543.html" title="Mercedes-Benz Actros MP1 2543">
+											<img src="/thumb/pics/Mercedes-Benz/mercedes-benz-actros-mp1-2543-02_182x105.jpg" alt="Mercedes-Benz Actros MP1 2543">
+										</a>
+										<h3>
+											<a href="/Mercedes_Benz/Mercedes_Benz-Actros-MP1-2543.html" title="Mercedes-Benz Actros MP1 2543">
+												Mercedes-Benz Actros MP1 2543											</a>
+										</h3>
+									</li>
+																		<li>
+										<a href="/Mercedes_Benz/Mercedes_Benz-L-1418-R.html" title="Mercedes-Benz L 1418 R">
+											<img src="/thumb/pics/Mercedes-Benz/mercedes-benz-l-1418-r-02_182x105.jpg" alt="Mercedes-Benz L 1418 R">
+										</a>
+										<h3>
+											<a href="/Mercedes_Benz/Mercedes_Benz-L-1418-R.html" title="Mercedes-Benz L 1418 R">
+												Mercedes-Benz L 1418 R											</a>
+										</h3>
+									</li>
+																		<li>
+										<a href="/Mercedes_Benz/Mercedes_Benz-2304.html" title="Mercedes-Benz 2304">
+											<img src="/thumb/pics/Mercedes-Benz/mercedes-benz-2304-02_182x105.jpg" alt="Mercedes-Benz 2304">
+										</a>
+										<h3>
+											<a href="/Mercedes_Benz/Mercedes_Benz-2304.html" title="Mercedes-Benz 2304">
+												Mercedes-Benz 2304											</a>
+										</h3>
+									</li>
+																		<li>
+										<a href="/Mercedes_Benz/Mercedes_Benz-2508.html" title="Mercedes-Benz 2508">
+											<img src="/thumb/pics/Mercedes-Benz/mercedes-benz-2508-02_182x105.jpg" alt="Mercedes-Benz 2508">
+										</a>
+										<h3>
+											<a href="/Mercedes_Benz/Mercedes_Benz-2508.html" title="Mercedes-Benz 2508">
+												Mercedes-Benz 2508											</a>
+										</h3>
+									</li>
+																		<li>
+										<a href="/Mercedes_Benz/Mercedes_Benz-170-S_D.html" title="Mercedes-Benz 170 S-D">
+											<img src="/thumb/pics/Mercedes-Benz/mercedes-benz-170-s-d-02_182x105.jpg" alt="Mercedes-Benz 170 S-D">
+										</a>
+										<h3>
+											<a href="/Mercedes_Benz/Mercedes_Benz-170-S_D.html" title="Mercedes-Benz 170 S-D">
+												Mercedes-Benz 170 S-D											</a>
+										</h3>
+									</li>
+																		<li>
+										<a href="/BMW/BMW-320-Coupe.html" title="BMW 320 Coupe">
+											<img src="/thumb/pics/BMW/bmw-320-coupe-02_182x105.jpg" alt="BMW 320 Coupe">
+										</a>
+										<h3>
+											<a href="/BMW/BMW-320-Coupe.html" title="BMW 320 Coupe">
+												BMW 320 Coupe											</a>
+										</h3>
+									</li>
+																		<li>
+										<a href="/BMW/BMW-501.html" title="BMW 501">
+											<img src="/thumb/pics/BMW/bmw-501-02_182x105.jpg" alt="BMW 501">
+										</a>
+										<h3>
+											<a href="/BMW/BMW-501.html" title="BMW 501">
+												BMW 501											</a>
+										</h3>
+									</li>
+																		<li>
+										<a href="/BMW/BMW-30CS.html" title="BMW 30CS">
+											<img src="/thumb/pics/BMW/bmw-30cs-02_182x105.jpg" alt="BMW 30CS">
+										</a>
+										<h3>
+											<a href="/BMW/BMW-30CS.html" title="BMW 30CS">
+												BMW 30CS											</a>
+										</h3>
+									</li>
+																		<li>
+										<a href="/BMW/BMW-525ee.html" title="BMW 525ee">
+											<img src="/thumb/pics/BMW/bmw-525ee-02_182x105.jpg" alt="BMW 525ee">
+										</a>
+										<h3>
+											<a href="/BMW/BMW-525ee.html" title="BMW 525ee">
+												BMW 525ee											</a>
+										</h3>
+									</li>
+																		<li>
+										<a href="/BMW/BMW-335xi.html" title="BMW 335xi">
+											<img src="/thumb/pics/BMW/bmw-335xi-02_182x105.jpg" alt="BMW 335xi">
+										</a>
+										<h3>
+											<a href="/BMW/BMW-335xi.html" title="BMW 335xi">
+												BMW 335xi											</a>
+										</h3>
+									</li>
+																</ul>
+							<div class="clear"></div>
+							<div style="height:100px;"></div>
+															<div class="box-buy box-replace" id="box-replace-0">
+									<h2 class="h2-border p1">Buy Posters: Cars &amp; Trucks</h2>
+									<ul class="box-2">
+																					<li onclick="trackEvent('ebay', 'widget'); window.open('/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlRIUkVFLUhPUlNFUy1QT1NURVItQm9iLUxhbmdyaXNoLWVxdWVzdHJpYW4tcGljdHVyZXMtJTJGMjgxMDQxNzgzMzY0JTNGcHQlM0RVS19BcnRzX1Bvc3RlcnNfUkw%3D', '_blank'); return false;">
+												<div class="desc-4">
+													<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlRIUkVFLUhPUlNFUy1QT1NURVItQm9iLUxhbmdyaXNoLWVxdWVzdHJpYW4tcGljdHVyZXMtJTJGMjgxMDQxNzgzMzY0JTNGcHQlM0RVS19BcnRzX1Bvc3RlcnNfUkw%3D" class="link-4" onclick="return false;">
+														<img class="preview-4" alt="THREE HORSES POSTER - Bob Langrish equestrian pictures" src="/timthumb/?src=http%3A%2F%2Fthumbs1.ebaystatic.com%2Fm%2FmAgQ_FT9J_UFyoMbi3uRi4Q%2F140.jpg&amp;w=140&amp;h=104&amp;hash=3c24e262345d9fc14a568667300573bd">
+													</a>
+													<div class="text-4">
+														THREE HORSES POSTER - Bob Langrish equestrian pictures													</div>
+												</div>
+												<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlRIUkVFLUhPUlNFUy1QT1NURVItQm9iLUxhbmdyaXNoLWVxdWVzdHJpYW4tcGljdHVyZXMtJTJGMjgxMDQxNzgzMzY0JTNGcHQlM0RVS19BcnRzX1Bvc3RlcnNfUkw%3D" class="button buy" onclick="return false;">Buy&nbsp;&nbsp;for&nbsp;&nbsp;$&nbsp;3.27</a>
+												<div style="clear:both;"></div>
+											</li>
+																						<li onclick="trackEvent('ebay', 'widget'); window.open('/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRkFEQU0tTEVWSU5FLVNFWFktSE9ULU5BS0VELUdJQU5ULVdBTEwtUE9TVEVSLUFSVC1QUklOVC1CMTA1NS0lMkYxNDA2OTc3NTEyNzAlM0ZwdCUzRFVLX0FydHNfUG9zdGVyc19STA%3D%3D', '_blank'); return false;">
+												<div class="desc-4">
+													<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRkFEQU0tTEVWSU5FLVNFWFktSE9ULU5BS0VELUdJQU5ULVdBTEwtUE9TVEVSLUFSVC1QUklOVC1CMTA1NS0lMkYxNDA2OTc3NTEyNzAlM0ZwdCUzRFVLX0FydHNfUG9zdGVyc19STA%3D%3D" class="link-4" onclick="return false;">
+														<img class="preview-4" alt="ADAM LEVINE SEXY HOT NAKED GIANT WALL POSTER ART PRINT B1055" src="/timthumb/?src=http%3A%2F%2Fthumbs3.ebaystatic.com%2Fm%2FmwiDWHgN5Z9p_X2QqrXJqkQ%2F140.jpg&amp;w=140&amp;h=104&amp;hash=4ab5984f86bc509ceeb04be69fbf9323">
+													</a>
+													<div class="text-4">
+														ADAM LEVINE SEXY HOT NAKED GIANT WALL POSTER ART PRINT B1055													</div>
+												</div>
+												<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRkFEQU0tTEVWSU5FLVNFWFktSE9ULU5BS0VELUdJQU5ULVdBTEwtUE9TVEVSLUFSVC1QUklOVC1CMTA1NS0lMkYxNDA2OTc3NTEyNzAlM0ZwdCUzRFVLX0FydHNfUG9zdGVyc19STA%3D%3D" class="button buy" onclick="return false;">Buy&nbsp;&nbsp;for&nbsp;&nbsp;$&nbsp;11.89</a>
+												<div style="clear:both;"></div>
+											</li>
+																						<li onclick="trackEvent('ebay', 'widget'); window.open('/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRldhdHNvbi1Mb3ZlLUd1bi1CdXR0ZXJmbGllcy1IZWFydC1QZWFjZS1Qb3N0ZXItQTYwNjUtJTJGMzgwNTQxNDIwMDI0JTNGcHQlM0RBcnRfUG9zdGVycw%3D%3D', '_blank'); return false;">
+												<div class="desc-4">
+													<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRldhdHNvbi1Mb3ZlLUd1bi1CdXR0ZXJmbGllcy1IZWFydC1QZWFjZS1Qb3N0ZXItQTYwNjUtJTJGMzgwNTQxNDIwMDI0JTNGcHQlM0RBcnRfUG9zdGVycw%3D%3D" class="link-4" onclick="return false;">
+														<img class="preview-4" alt="Watson Love Gun Butterflies Heart Peace Poster A6065" src="/timthumb/?src=http%3A%2F%2Fthumbs1.ebaystatic.com%2Fm%2FmWqGS4VzkC9vBhjFFIdqJvA%2F140.jpg&amp;w=140&amp;h=104&amp;hash=34a7e9fdfaf4f694b173e5be000bbfc8">
+													</a>
+													<div class="text-4">
+														Watson Love Gun Butterflies Heart Peace Poster A6065													</div>
+												</div>
+												<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRldhdHNvbi1Mb3ZlLUd1bi1CdXR0ZXJmbGllcy1IZWFydC1QZWFjZS1Qb3N0ZXItQTYwNjUtJTJGMzgwNTQxNDIwMDI0JTNGcHQlM0RBcnRfUG9zdGVycw%3D%3D" class="button buy" onclick="return false;">Buy&nbsp;&nbsp;for&nbsp;&nbsp;$&nbsp;6.95</a>
+												<div style="clear:both;"></div>
+											</li>
+																						<li onclick="trackEvent('ebay', 'widget'); window.open('/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlJlbm9pci1UaGUtT2xkLU1hc3RlcnMtRXhoaWJpdGlvbi1GcmFtZWQtc29sb21vbi1SLUd1Z2dlbmhlaW0tTXVlc2VtLU5ZLU55LSUyRjI5MDgzNTAzOTc2MSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D', '_blank'); return false;">
+												<div class="desc-4">
+													<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlJlbm9pci1UaGUtT2xkLU1hc3RlcnMtRXhoaWJpdGlvbi1GcmFtZWQtc29sb21vbi1SLUd1Z2dlbmhlaW0tTXVlc2VtLU5ZLU55LSUyRjI5MDgzNTAzOTc2MSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D" class="link-4" onclick="return false;">
+														<img class="preview-4" alt="Renoir &quot;The Old Masters Exhibition&quot; Framed The solomon R Guggenheim Muesem NY,Ny" src="/timthumb/?src=http%3A%2F%2Fthumbs2.ebaystatic.com%2Fm%2Fmb6KTknF3tokbsiPN1toZ4A%2F140.jpg&amp;w=140&amp;h=104&amp;hash=a37f9afdaf4c501c0667de594209403b">
+													</a>
+													<div class="text-4">
+														Renoir "The Old Masters Exhibition" Framed The solomon R Guggenheim Muesem NY,Ny													</div>
+												</div>
+												<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlJlbm9pci1UaGUtT2xkLU1hc3RlcnMtRXhoaWJpdGlvbi1GcmFtZWQtc29sb21vbi1SLUd1Z2dlbmhlaW0tTXVlc2VtLU5ZLU55LSUyRjI5MDgzNTAzOTc2MSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D" class="button buy" onclick="return false;">Buy&nbsp;&nbsp;for&nbsp;&nbsp;$&nbsp;13.99</a>
+												<div style="clear:both;"></div>
+											</li>
+																						<li onclick="trackEvent('ebay', 'widget'); window.open('/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlNpZ25lZC1FcmljLWNodXJjaC1CbG9vZC1Td2VldC1BbmQtQmVlcnMtVG91ci1MaXRob2dyYXBoLVBvc3Rlci0xMTItMTg1LSUyRjEzMDgyNDA3OTU4NSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D', '_blank'); return false;">
+												<div class="desc-4">
+													<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlNpZ25lZC1FcmljLWNodXJjaC1CbG9vZC1Td2VldC1BbmQtQmVlcnMtVG91ci1MaXRob2dyYXBoLVBvc3Rlci0xMTItMTg1LSUyRjEzMDgyNDA3OTU4NSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D" class="link-4" onclick="return false;">
+														<img class="preview-4" alt="Signed Eric church The Blood Sweet And Beers Tour Lithograph Poster 112/185 " src="/timthumb/?src=http%3A%2F%2Fthumbs2.ebaystatic.com%2Fm%2FmYllIyQElPEHMHOkU6wnbYg%2F140.jpg&amp;w=140&amp;h=104&amp;hash=fdf414536f33392fa67499ca9d8a921e">
+													</a>
+													<div class="text-4">
+														Signed Eric church The Blood Sweet And Beers Tour Lithograph Poster 112/185 													</div>
+												</div>
+												<a target="_blank" href="/go/?url=aHR0cDovL2dvLnJlZGlyZWN0aW5nYXQuY29tP2lkPTM5MzAxWDEwNDU1NDMmeHM9MSZ1cmw9aHR0cCUzQSUyRiUyRnd3dy5lYmF5LmNvbSUyRml0bSUyRlNpZ25lZC1FcmljLWNodXJjaC1CbG9vZC1Td2VldC1BbmQtQmVlcnMtVG91ci1MaXRob2dyYXBoLVBvc3Rlci0xMTItMTg1LSUyRjEzMDgyNDA3OTU4NSUzRnB0JTNEQXJ0X1Bvc3RlcnM%3D" class="button buy" onclick="return false;">Buy&nbsp;&nbsp;for&nbsp;&nbsp;$&nbsp;81.0</a>
+												<div style="clear:both;"></div>
+											</li>
+																				</ul>
+									<div class="more-offers">
+										<a class="button buy wide" href="/buy/" onclick="trackEvent('ebay', 'widget');" style="padding: 9px 0;">More Offers Sales</a>
+									</div>
+									<div style="height: 10px;">
+									</div>
+								</div>
+																<div class="clear"></div>
+								<div style="height:100px;"></div>
+														
+					</div>
+					
+					
+					
+										
+					
+					
+					<div class="clear"></div>
+				</div>
+			</section>
+			<!-- Footer -->
+			<footer>
+				<div>
+					<div class="grid_12">
+						<div class="box-footer">
+							<ul>
+																	<li>
+										<a href="/Alfa%20Romeo/">Alfa Romeo</a>
+									</li>
+																		<li>
+										<a href="/Audi/">Audi</a>
+									</li>
+																		<li>
+										<a href="/Austin/">Austin</a>
+									</li>
+																		<li>
+										<a href="/BMW/">BMW</a>
+									</li>
+																		<li>
+										<a href="/Buick/">Buick</a>
+									</li>
+																		<li>
+										<a href="/Cadillac/">Cadillac</a>
+									</li>
+																		<li>
+										<a href="/Chevrolet/">Chevrolet</a>
+									</li>
+																		<li>
+										<a href="/Chrysler/">Chrysler</a>
+									</li>
+																		<li>
+										<a href="/Citroen/">Citroen</a>
+									</li>
+																		<li>
+										<a href="/Daewoo/">Daewoo</a>
+									</li>
+																		<li>
+										<a href="/DAF/">DAF</a>
+									</li>
+																		<li>
+										<a href="/Daihatsu/">Daihatsu</a>
+									</li>
+																		<li>
+										<a href="/Datsun/">Datsun</a>
+									</li>
+																		<li>
+										<a href="/Dodge/">Dodge</a>
+									</li>
+																		<li>
+										<a href="/Ferrari/">Ferrari</a>
+									</li>
+																		<li>
+										<a href="/Fiat/">Fiat</a>
+									</li>
+																		<li>
+										<a href="/Ford/">Ford</a>
+									</li>
+																		<li>
+										<a href="/GMC/">GMC</a>
+									</li>
+																		<li>
+										<a href="/Holden/">Holden</a>
+									</li>
+																		<li>
+										<a href="/Honda/">Honda</a>
+									</li>
+																		<li>
+										<a href="/Hyundai/">Hyundai</a>
+									</li>
+																		<li>
+										<a href="/International/">International</a>
+									</li>
+																		<li>
+										<a href="/Isuzu/">Isuzu</a>
+									</li>
+																		<li>
+										<a href="/Iveco/">Iveco</a>
+									</li>
+																		<li>
+										<a href="/Jaguar/">Jaguar</a>
+									</li>
+																		<li>
+										<a href="/Jeep/">Jeep</a>
+									</li>
+																		<li>
+										<a href="/Kia/">Kia</a>
+									</li>
+																		<li>
+										<a href="/Lada/">Lada</a>
+									</li>
+																		<li>
+										<a href="/Land%20Rover/">Land Rover</a>
+									</li>
+																		<li>
+										<a href="/Lincoln/">Lincoln</a>
+									</li>
+																		<li>
+										<a href="/MAN/">MAN</a>
+									</li>
+																		<li>
+										<a href="/Mazda/">Mazda</a>
+									</li>
+																		<li>
+										<a href="/Mercedes-Benz/">Mercedes-Benz</a>
+									</li>
+																		<li>
+										<a href="/Mercury/">Mercury</a>
+									</li>
+																		<li>
+										<a href="/MG/">MG</a>
+									</li>
+																		<li>
+										<a href="/Mitsubishi/">Mitsubishi</a>
+									</li>
+																		<li>
+										<a href="/Nissan/">Nissan</a>
+									</li>
+																		<li>
+										<a href="/Oldsmobile/">Oldsmobile</a>
+									</li>
+																		<li>
+										<a href="/Opel/">Opel</a>
+									</li>
+																		<li>
+										<a href="/Packard/">Packard</a>
+									</li>
+																		<li>
+										<a href="/Peugeot/">Peugeot</a>
+									</li>
+																		<li>
+										<a href="/Plymouth/">Plymouth</a>
+									</li>
+																		<li>
+										<a href="/Pontiac/">Pontiac</a>
+									</li>
+																		<li>
+										<a href="/Porsche/">Porsche</a>
+									</li>
+																		<li>
+										<a href="/Renault/">Renault</a>
+									</li>
+																		<li>
+										<a href="/SAAB/">SAAB</a>
+									</li>
+																		<li>
+										<a href="/Scania/">Scania</a>
+									</li>
+																		<li>
+										<a href="/Skoda/">Skoda</a>
+									</li>
+																		<li>
+										<a href="/Studebaker/">Studebaker</a>
+									</li>
+																		<li>
+										<a href="/Subaru/">Subaru</a>
+									</li>
+																		<li>
+										<a href="/Suzuki/">Suzuki</a>
+									</li>
+																		<li>
+										<a href="/Toyota/">Toyota</a>
+									</li>
+																		<li>
+										<a href="/Volkswagen/">Volkswagen</a>
+									</li>
+																		<li>
+										<a href="/Volvo/">Volvo</a>
+									</li>
+																</ul>
+						</div>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<div class="copyright">
+					<p class="aligncenter">
+						<a href="/" onclick="trackEvent('footer', 'index');">GoMotors.net</a>
+						| <a href="/contacts/" onclick="trackEvent('footer', 'contacts');">Contacts</a>
+						| <a href="/privacy/" onclick="trackEvent('footer', 'privacy');">Privacy Policy</a>
+						| <a href="/terms/" onclick="trackEvent('footer', 'terms');">Terms &amp; Conditions</a>
+						| <a href="/dmca/" onclick="trackEvent('footer', 'dmca');">DMCA</a>
+					</p>
+					<p class="aligncenter top-3">
+					© 2012, GoMotors Team
+					</p>
+				</div>
+			</footer>
+			<a id="footer" href="#footer"></a>
+			<!-- Footer -->
+		</div>
+		<a style="margin-right: -556px; right: 50%; display: none;" href="#" id="toTop"><span style="opacity: 0;" id="toTopHover"></span></a>
+		<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter15176794 = new Ya.Metrika({id:15176794, enableAll: true, webvisor:true}); } catch(e) {} }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/15176794" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+					<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+
+</body></html>
