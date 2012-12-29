@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elasticpath.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623205945id_/http%3A//www.elasticpath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elasticpath.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229184103id_/http%3A//www.elasticpath.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Elastic Path Software
+# Privacy Policy | Elastic Path
 
 Elastic Path Software Inc. respects your privacy and is committed to protecting your personal information. This Privacy Policy outlines how we handle the collection, use and disclosure of your personal information. Our policy is guided by the provincial and federal privacy laws applicable in British Columbia, Canada.
 
@@ -70,4 +70,4 @@ This Privacy Policy applies solely to information collected by this website.
 
 ## Contact Us
 
-Should further information be needed regarding our Privacy Policy, please [contact us](https://web.archive.org/web/20120623205945id_/http%3A//www.elasticpath.com/contact "Contact Us").
+Should further information be needed regarding our Privacy Policy, please [contact us](https://web.archive.org/web/20121229184103id_/http%3A//www.elasticpath.com/contact "Contact Us").
