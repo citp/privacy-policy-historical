@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readforgreed.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625220052id_/http%3A//www.readforgreed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readforgreed.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229134902id_/http%3A//www.readforgreed.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Download Center
+# Privacy Policy - Read for Greed!
 
 readforgreed.com take your privacy seriously. This policy describes what personal information we collect and how we use it. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -32,8 +32,8 @@ We have included lots of links on this site for your use and better reference. W
 The contents of this statement may be altered at any time, at our discretion
 
 **Contact Information**  
-Concerns or questions about this privacy policy can be directed to Mr. Manoj Tiwari: admin @ readforgreed.com for further clarification.
+Concerns or questions about this privacy policy can be directed to admin @ readforgreed.com for further clarification.
 
 (This privacy policy is applicable to all websites falling under the primary holder readforgreed.com)
 
-**Incoming Search Terms:**[www readforgreed com](http://www.readforgreed.com/privacy-policy/ "www readforgreed com"), [UCBrowser 8 3 0 133 Eng US_Server jar](http://www.readforgreed.com/privacy-policy/ "UCBrowser 8 3 0 133 Eng US_Server jar"), [Download Opera Mini Mod 4 21 18 Build](http://www.readforgreed.com/privacy-policy/ "Download Opera Mini Mod 4 21 18 Build"), [UCBrowser 8 3 0 133 Eng US_Server](http://www.readforgreed.com/privacy-policy/ "UCBrowser 8 3 0 133 Eng US_Server")
+**Incoming Search Terms:** www readforgreed com, google s3 disable cookies 
