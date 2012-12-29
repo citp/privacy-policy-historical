@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523110713id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229220146id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # WeightWatchers.co.uk: Privacy Policy
 
@@ -33,37 +33,85 @@ We may also supplement the information we collect with information from other so
 
 This website is operated by WeightWatchers.co.uk Limited, a company incorporated in England and Wales (company registration no. 04354837) and its registered office is at Third Floor, Hines Meadow, St. Cloud Way, Maidenhead, Berkshire, SL6, 8XB, United Kingdom. When you provide us with your Personally Identifiable Information, you acknowledge that this information may be stored and processed on servers located outside the European Economic Area ("EEA") and you consent to your Personally Identifiable Information being exported outside the EEA and being stored and processed at our discretion on any of our servers wherever located.  
 []()  
- **WHERE AND WHEN IS INFORMATION COLLECTED ON OUR WEBSITE OR THROUGH OUR INTERNET PRODUCTS (INCLUDING THROUGH THE USE OF COOKIES AND ACTION TAGS)?**
+ **WHERE AND WHEN IS INFORMATION COLLECTED ON OUR WEBSITE OR THROUGH OUR INTERNET PRODUCTS?**
 
 We may collect information (including information that is Personally Identifiable Information) from you in different manners and at different places and times on our Website, such as when you become a community user on our Website or subscribe to one of our Internet Products. We also may collect information from you in connection with, or through, other Internet Products we may make available on our Website from time to time. The following is a description of the areas and/or manners in which we primarily collect information about you. 
 
 _**Becoming a Community User and Subscriber.**_  
 In order to access certain Internet Products on our Website, such as Community Areas, weight loss tools and food database, you must first complete certain steps to become either a community user or a subscriber. During these steps, you may be required to provide us with information (including Personally Identifiable Information) such as name, postcode and email address, and, if you subscribe to one of our Internet Products, credit card and billing information. This information is used to help us understand who uses our Website, to improve our Website and our Internet Products, to contact users about requested Internet Products and/or for subscription billing purposes. It is optional for you to provide demographic information (such as profession and number of children), but providing this information is encouraged so we can provide a more personalised experience on our Website.
 
- ** _ **Cookies and Action Tags.**_**  
+............................................................................................................................................................................................. []()
 
+HOW DOES OUR WEBSITE USE COOKIES?
 
-We also collect Non-Personally Identifiable Information passively using "cookies" and "action tags."
+This section of our Privacy Policy contains information on what “cookies” are, the cookies used by this website, how to switch cookies off in your browser, how to specifically disable third party advertising cookies, and some useful links for further reading. If you do not see the information you were looking for, or you have any further questions about the use of cookies on this site, please email [uk.legal@weightwatchers.co.uk.](mailto:uk.legal@weightwatchers.co.uk)
 
-"Cookies" are small text files that are placed on your computer in order to identify (i) your Web browser, (ii) the activities of your computer on our Website and (iii) your activity in connection with our advertisements and other marketing and promotional efforts. Cookies are used to 
+ _ **What Are Cookies?**_  
+“Cookies” are small text files that are stored by your web browser (e.g., Internet Explorer or Safari) on your computer’s hard drive or on your mobile phone. They allow websites to store such things as user preferences. You can think of cookies as providing a “memory” for a website, enabling it to recognise a user and respond appropriately.  
+Websites use both session cookies and persistent cookies. Session cookies are temporary cookies that expire (and are automatically erased) when you close your browser. Persistent cookies usually have an expiration date far into the future and thus stay in your browser until they expire, or until you manually delete them. We use persistent cookies for functionalities like the “Remember me on this computer” feature, which makes it possible for you to return to the site without having to log in. In addition to cookies set by the website you are visiting (first party cookies), both session and persistent cookies may be set by others (third party cookies). For example, analytics firms, social media sites and advertising networks may all set cookies when you visit other sites with which they have relationships.
 
-  * personalise your experience on our Website (such as dynamically generating content on webpages specifically designed for you),
-  * assist you in using our Internet Products (such as saving time by not having to reenter your name upon each visit to our Website),
-  * allow us to statistically monitor how you are using our Website to help us improve our online offerings.
+ _ **What Types of Cookies Do We Use?**_  
+The cookies generated when you visit our website fall into the following categories:
 
-We also may use cookies to conduct marketing and promotional efforts, tailor certain advertisements to your browser that we think may be of interest to you, or to determine the popularity of certain content.
+ _ **Strictly necessary cookies.**_ These cookies enable services you have specifically asked for. No consent is required for the use of these cookies.
 
-In addition to cookies that we place on your computer, cookies may also be placed on your computer by third parties that we use to display or serve advertisements or to collect Non-Personally Identifiable Information in order to provide advertising-related services. For example, DoubleClick Inc. ("DoubleClick") and Avenue A, LLC, which employs Atlas DMT ("Atlas") technology, place cookies in the course of serving advertisements for us. Neither DoubleClick, Atlas nor their cookies collect Personally Identifiable Information on our Website, and we do not share Personally Identifiable Information with them without your permission. DoubleClick's privacy policy describes its data collection practices and explains the way in which you can "opt-out" of certain tracking by DoubleClick. Atlas's privacy policy describes its data collection practices and explains the way in which you can "opt-out" of certain tracking by Atlas.
+For example, when you subscribe to one of our Internet Products or register as a community user, we use session cookies to signal that you are logged in so that you are able to use community or subscriber features of the Website, and persistent cookies to provide automatic login.
+
+ _ **Performance cookies.**_ These cookies collect anonymous information about how you use the Website. By using the Website or becoming a community user or subscriber, you agree that we can place these types of cookies.
+
+We use performance cookies for web analytics, which allow us to statistically monitor how people are using our Website, to help us improve our online offerings as well as to test different design ideas for particular pages. We work with independent measurement and research companies to perform these services for us, so some of these cookies may be set by a third party company.
+
+In particular, we use Adobe SiteCatalyst to help us track and analyze usage of our Website, using cookies and action tags. All data collected by Adobe on our behalf is owned by us and used to better understand our users and improve our Website. More information, including how to opt out of these cookies, can be found in Adobe’s Privacy Policy. When you watch a video on our Website, cookies are set by the video playing technology to optimise bandwidth and help measure usage volume and delivery quality.
+
+We may also use performance cookies to track the effectiveness of advertising purchased on third party sites, and to support our affiliate program by letting our affiliate sites know that a visitor to one of their sites later purchased a product or service on our site.
+
+ _ **Functionality cookies.**_ These cookies allow our Website to remember choices you make to improve your experience (such as your unit of measurement preferences) and to provide enhanced, more personal features (such as information about your browser and whether you have configured your Website tools), and to improve response speed and efficiency by storing certainly frequently-accessed information. By using the Website or becoming a community user or subscriber, you agree that we can place these types of cookies.
+
+ _ **Advertising and targeting cookies.**_ We also use cookies to assist in targeted advertising. Our Website’s advertisements may be displayed or served by a third party, and many of the advertisements you see on our Website are generated by third parties. 
+
+For example, we use DoubleClick Inc. ("DoubleClick") (owned by Google, Inc.) and Razorfish, LLC (owned by Microsoft Corp.), which employs Atlas DMT (“Atlas”) technology, to display or serve advertisements on the Website. Neither DoubleClick, Atlas nor their cookies collect Personally Identifiable Information on our Website, and we do not share Personally Identifiable Information with them without your permission. DoubleClick's privacy policy describes its data collection practices and explains the way in which you can "opt-out" of certain tracking by DoubleClick. Atlas's privacy policy describes its data collection practices and explains the way in which you can "opt-out" of certain tracking by Atlas. 
+
+Some of our third party advertisers use their own anonymous cookies to track how many people have seen a particular ad, or to track how many people have seen it more than once. The companies that generate these cookies have their own privacy policies, and we have no access to these cookies. These third party ad cookies may be used by those third parties to anonymously target advertising to you on other websites, based on your visit to our Website. 
+
+You may "opt-out" of certain tracking on our Website and other websites by various advertising companies by going to the Your Online Choices site. You can also visit the trade body representing these advertising platforms for more information: Network Advertising Initiative. They have provided a one-stop place that gathers all of the opt-out controls. Please bear in mind that there are many more networks listed on that site than those that we use on our Website.
+
+We also set anonymous cookies on certain other sites that we advertise on. If you receive one of those cookies, we may then use it to identify you as having visited that site if you later visit our site, and will serve targeted advertising based on this information.
+
+ _ **Other third party cookies.**_ On some pages of our site, third parties may also set their own anonymous cookies, for the purposes of tracking the success of their application or customising the application for you. We cannot access these cookies, nor can the third parties access the data in our cookies.
+
+For example, when you share an article using a social media sharing button on our site, the social network on which you are sharing will record that you have done this. 
+
+_**How Do I Turn Cookies Off?**_
 
 You do not have to accept cookies to use our Website. Although most browsers are initially set to accept cookies, you may reset your browser to notify you when you receive a cookie or to reject cookies generally. Most browsers offer instructions on how to do so in the "Help" section of the toolbar. While you are not required to accept our cookies to access our Website, if you reject cookies, certain products, offerings, features, or resources of our Website (including certain Internet Products) may not work properly and you may experience some loss of convenience.
 
+All modern browsers allow you to change your cookie settings. These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful; you may also use the “Help” option in your browser for more details.
+
+Cookie settings in Internet Explorer  
+Cookie settings in Firefox  
+Cookie settings in Chrome  
+Cookie settings in Safari web and iOS.  
+Cookie settings in Android
+
+To turn off targeting by particular advertisers, networks or providers of analytics, you may use the opt-out functionality provided through the third-party links mentioned above.
+
+ _ **How Can I Get More Information?**_
+
+If you would like to find out more about cookies and their use on the Internet, you may find the following links useful:
+
+Microsoft Cookies guide  
+All About Cookies
+
+The IAB has provided the following website to give information specifically about privacy issues around Internet advertising: youronlinechoices.co.uk/uk. .............................................................................................................................................................................................
+
+ ** _ **Action Tags.**_**  
+
+
 "Action tags," also known as web beacons or gif tags, are a web technology used to help track website usage information, such as how many times a specific page has been viewed. Action tags are invisible to you, and any portion of our Website, including advertisements, or e-mail sent on our behalf, may contain cookies that are associated with action tags that our located on our Website. Unlike cookies, action tags are not placed on your computer.
 
-We may select and use different third parties from time to time to track website usage through action tags on our Website and on our advertisements on other websites. For example, DoubleClick and Atlas each track anonymous website usage by setting a cookie (or reading a cookie previously placed by them) on users' computers to track the activities of users who view a web page that contains action tags. DoubleClick and Atlas may use information about your visits to this Website and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by one of these companies, please refer to its respective Privacy Policy. Many Internet users already have a DoubleClick and/or Atlas cookie on their computer today, and tracking through the use of action tags is considered common practice in the industry. Periodically, upon our request, DoubleClick and/or Atlas may report the anonymous data that they collect on our behalf back to us for our internal use and analysis and our treatment of this anonymous data is governed by the terms of this Privacy Policy.
+We may select and use different third parties from time to time to track website usage through action tags on our Website and on our advertisements on other websites. For example, DoubleClick and Atlas each track anonymous website usage by setting a cookie (or reading a cookie previously placed by them) on users' computers to track the activities of users who view a web page that contains action tags. DoubleClick and Atlas may use information about your visits to this Website and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by one of these companies, please refer to its respective Privacy Policy. Periodically, upon our request, DoubleClick and/or Atlas may report the anonymous data that they collect on our behalf back to us for our internal use and analysis and our treatment of this anonymous data is governed by the terms of this Privacy Policy.
 
 By using cookies and action tags together, we are able to gain valuable information to improve our Website and our Internet Products and measure the effectiveness of our advertising and marketing campaigns. We do not disclose any of your Personally Identifiable Information to our advertising partners through the use of cookies or action tags.
-
-Finally, please note that advertisers and other third parties may also use their own cookies or action tags when you click on their advertisement or link to their website or service, on or from our Website. This Privacy Policy does not govern the use by such third-party websites or providers of third-party advertising.
 
  ** _ **Referral Programmes.**_**  
 
@@ -185,7 +233,7 @@ Attn: Privacy Coordinator
   
 **BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY AND OF US PROCESSING YOUR PERSONAL DATA IN ACCORDANCE WITH THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
 
-(Last modified as of 9th of March 2011)
+(Last modified as of October 4, 2012)
 
 |   
 ---|---|---
