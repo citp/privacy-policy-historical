@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the banana1015.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528091555id_/http%3A//banana1015.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banana1015.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229052208id_/http%3A//banana1015.com/privacy) for the most accurate reproduction.*
 
 # Banana 101.5 Radio - Flint's Rock Radio - Flint Music
 
 ### About BANANA1015.COM
 
-This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to BANANA1015.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare Terms of Use (link here). All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the [Terms of Use](https://web.archive.org/terms). If you have any questions concerning this Privacy Policy, please email us at .
+This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to BANANA1015.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare [Terms of Use](https://web.archive.org/terms). All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the [Terms of Use](https://web.archive.org/terms). If you have any questions concerning this Privacy Policy, please email us at .
 
 ### Information Collection and Use by the Websites
 
