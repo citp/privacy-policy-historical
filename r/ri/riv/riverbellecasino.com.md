@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverbellecasino.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521005725id_/http%3A//www.riverbellecasino.com/security-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverbellecasino.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229055255id_/http%3A//www.riverbellecasino.com/security-and-privacy.aspx) for the most accurate reproduction.*
 
 # River Belle Online Casino – Security < Privacy
 
@@ -35,3 +35,17 @@ Where there is a link from this website to another relevant site, this privacy p
 ## Your consent
 
 By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Rules, Terms and Conditions](https://web.archive.org/terms-and-conditions.aspx "Rules, Terms and Conditions"). We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
+
+## Right to use the Software
+
+You are permitted to install and use the Software and all content derived from the Software in connection with the use of the websites in accordance with these Terms and Conditions and with Microgaming's [End User License Agreement (EULA)](http://www.microgaming.co.uk/eula.aspx). The Software allows You to use our gambling services available via the websites (the 'Services'). You may install the Software on a hard disk or other storage device and may make backup copies of the Software, provided that such backup copies are used only by You in connection with the Services through a computer of which You are the principal user. The Software's code, structure and organization are protected by intellectual property rights. You must not: 
+
+  * copy, redistribute, publish, reverse engineer, decompile, disassemble, modify, translate or make any attempt to access the source code to create derivate works of the source code or otherwise. 
+  * sell, assign, sublicense, transfer, distribute or lease the Software. 
+  * Make the Software available to any third party through a computer network or otherwise.
+  * export the Software to any country (whether by physical or electronic means).
+  * Use the Software in a manner prohibited by applicable laws or regulations Together the 'Non-Permitted Uses'. 
+
+
+
+You will be solely liable for any damage, costs or expenses arising out of or in connection with the commission of any Non-Permitted Uses.
