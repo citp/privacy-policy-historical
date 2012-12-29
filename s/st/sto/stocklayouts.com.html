@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the stocklayouts.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511125253id_/http%3A//www.stocklayouts.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stocklayouts.com privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229135318id_/http%3A//www.stocklayouts.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	    <script type="text/javascript" src="/ClientScript/SL-Main-Nav.js"></script>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="verify-v1" content="JzdIphdEbOqZc7gRvT4FEAEeHUkQFKsyqlqOoBvvvZM="><link rel="stylesheet" type="text/css" href="/Styles/sl-main.css?07-27-11"><link rel="stylesheet" type="text/css" href="/Styles/topNavStyles.css?12-22-11"><link rel="stylesheet" type="text/css" href="/Styles/tabs.css?8-01-10"><link rel="stylesheet" type="text/css" href="/highslide/highslide.css?01-16-11"><link rel="shortcut icon" href="/favicon.ico">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="verify-v1" content="JzdIphdEbOqZc7gRvT4FEAEeHUkQFKsyqlqOoBvvvZM="><link rel="stylesheet" type="text/css" href="/Styles/sl-main.css?11-08-12"><link rel="stylesheet" type="text/css" href="/Styles/topNavStyles.css?12-22-11"><link rel="stylesheet" type="text/css" href="/Styles/tabs.css?8-01-10"><link rel="stylesheet" type="text/css" href="/highslide/highslide.css?08-13-12"><link rel="shortcut icon" href="/favicon.ico">
 		<script type="text/javascript" src="/highslide/highslide.js"></script>
         <script type="text/javascript">
             // override Highslide settings here
@@ -20,12 +20,29 @@
                 hs.lang.restoreTitle = this.thumb.title
             };
             hs.graphicsDir = '/highslide/graphics/';
-            hs.headingOverlay.position = 'top right';
-            hs.dragByHeading = false;
-            hs.headingId = 'close-link';
+            hs.captionOverlay.position = 'rightpanel';
+            hs.captionOverlay.width = '220px';
             hs.registerOverlay({
-                thumbnailId: null,
+                thumbnailId: 'full',
                 overlayId: 'close-button',
+                position: 'top right',
+                fade: 2 // fading the semi-transparent overlay looks bad in IE
+            });
+            hs.registerOverlay({
+                thumbnailId: 'full',
+                overlayId: 'close-link',
+                position: 'top right',
+                fade: 2 // fading the semi-transparent overlay looks bad in IE
+            });
+            hs.registerOverlay({
+                thumbnailId: 'super',
+                overlayId: 'detail-close-button',
+                position: 'top right',
+                fade: 2 // fading the semi-transparent overlay looks bad in IE
+            });
+            hs.registerOverlay({
+                thumbnailId: 'super',
+                overlayId: 'detail-close-link',
                 position: 'top right',
                 fade: 2 // fading the semi-transparent overlay looks bad in IE
             });
@@ -76,7 +93,9 @@
 </div>
 			<input type="hidden" name="ctl00$slScriptManager" id="ctl00_slScriptManager">
             <div class="highslide-overlay" id="close-button" onclick="return hs.close(this)" title="Close"></div>
-            <div class="highslide-heading" id="close-link" onclick="return hs.close(this)">close</div>
+            <div class="highslide-closelink" id="close-link" onclick="return hs.close(this)">close</div>
+            <div class="highslide-detail-close" id="detail-close-button" onclick="return hs.close(this)" title="Close"></div>
+            <div class="highslide-detail-closelink" id="detail-close-link" onclick="return hs.close(this)">close</div>
 			<div style="width: 1040px; margin: 10px auto 0px auto;">
 				<table border="0" cellpadding="0" cellspacing="0">
 					<tbody><tr valign="top">
@@ -108,7 +127,8 @@
 						<td align="center" width="20">|</td>
 						<td><a href="https://www.stocklayouts.com/Account/MyAccount.aspx" class="noUnderline">My account</a></td>
 						<td align="center" width="20">|</td>
-						<td><img src="/images/shopping-cart-icon.gif" alt="shopping cart icon" style="margin-right: 5px; vertical-align: text-bottom; display: inline; width: 14px; height: 11px;"> <a href="https://www.stocklayouts.com/Order/Cart.aspx" class="noUnderline">0 Items</a></td>
+						<td><img src="/images/shopping-cart-icon.gif" alt="shopping cart icon" style="margin-right: 5px; vertical-align: text-bottom; display: inline; width: 14px; height: 11px;"> 
+						<a href="https://www.stocklayouts.com/Order/Cart.aspx" class="noUnderline"><b>0 Items</b></a></td>
 					</tr>
 				</tbody></table>
 			
@@ -193,9 +213,9 @@
    <li class="menuButton"><a href="javascript:void(0);" class="menuButtonLink" style="text-decoration: none;"><span class="subscriptions">Plans &amp; Pricing <img src="/images/main-nav-arrow.png" class="navArrow" alt="" style="width: 6px; height: 3px;"></span></a>
         <ul class="topDropDown">
 			<li class="col5" style="margin-bottom: 5px; margin-left: 20px; text-decoration: none;"><b>Subscribe and Save!</b></li>
-	        <li class="col5" style="line-height: 19px; margin-left: 20px; margin-right: 15px; text-decoration: none;">1-Month Subscription <span class="orange" style="text-decoration: none;">$199</span></li>
-	        <li class="col5" style="line-height: 19px; margin-left: 20px; margin-right: 15px; text-decoration: none;">3-Month Subscription <span class="orange" style="text-decoration: none;">$299</span></li>
-	        <li class="col5" style="line-height: 19px; margin-left: 20px; margin-right: 15px; text-decoration: none;">1-Year Subscription <span class="orange" style="text-decoration: none;">$599</span></li>
+	        <li class="col5" style="line-height: 19px; margin-left: 20px; margin-right: 15px; text-decoration: none;">3-Month Subscription <span class="orange" style="text-decoration: none;">$199</span></li>
+	        <li class="col5" style="line-height: 19px; margin-left: 20px; margin-right: 15px; text-decoration: none;">6-Month Subscription <span class="orange" style="text-decoration: none;">$299</span></li>
+	        <li class="col5" style="line-height: 19px; margin-left: 20px; margin-right: 15px; text-decoration: none;">1-Year Subscription <span class="orange" style="text-decoration: none;">$399</span></li>
 	        <li class="col5" style="margin-top: 5px;"><a href="http://www.stocklayouts.com/Templates/Template-Subscriptions.aspx"><u>Template Subscriptions</u></a></li>
         </ul>
     </li>
@@ -319,18 +339,24 @@
 	    </p>
 	    <p>
 	        <span class="basicHeader">Design Updates</span><br>
-	        <a href="/Account/Register.aspx"><u>Sign up now <br>win a subscription!</u></a>
+	        <a href="/Account/Register.aspx"><u>Sign up now!</u></a>
 	    </p>
 	    <p>
 	        <span class="basicHeader">Join Our Community</span><br>
-            <a href="http://www.facebook.com/StockLayouts" target="_blank" style="text-decoration: none;">
+            <a href="http://graphicdesign.stocklayouts.com/" target="_blank" style="text-decoration: none;">
+                <img src="/images/rss-icon-sm.jpg" title="Get our RSS" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px; margin-right: 3px;">
+            </a>
+            <a href="http://www.facebook.com/stocklayouts/" target="_blank" style="text-decoration: none;">
                 <img src="/images/facebook-icon-sm.jpg" title="Like us on Facebook" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px; margin-right: 3px;">
             </a>
-            <a href="http://www.twitter.com/StockLayouts/" target="_blank" style="text-decoration: none;">
+            <a href="http://www.twitter.com/stocklayouts/" target="_blank" style="text-decoration: none;">
                 <img src="/images/twitter-icon-sm.jpg" title="Follow us on Twitter" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px; margin-right: 3px;">
             </a>
-            <a href="http://graphicdesign.stocklayouts.com/" target="_blank" style="text-decoration: none;">
-                <img src="/images/rss-icon-sm.jpg" title="Get our RSS" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px;">
+            <a href="http://www.instagram.com/stocklayouts/" target="_blank" style="text-decoration: none;">
+                <img src="/images/instagram-icon-sm.gif" title="Follow us on Instagram" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px; margin-right: 3px;">
+            </a>
+            <a href="http://www.pinterest.com/stocklayouts/" target="_blank" style="text-decoration: none;">
+                <img src="/images/pinterest-icon-sm.gif" title="Follow us on Pinterest" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px; margin-right: 3px;">
             </a>
 	    </p>
 	</div>
@@ -766,38 +792,34 @@
 	</div>
 </div>
 <div style="width: auto; background: white; padding: 15px 10px 0px 10px;">
-    <table id="ctl00_BottomNav1_Table1" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr valign="bottom">
-		<td width="10"></td>
-		<td width="88">
-	            <img src="/images/PartnerLogos/Adobe-Logo-Nav.gif" alt="Adobe Solutions Partner" style="margin-bottom: 20px; width: 88px; height: 32px;">
-	        </td>
-		<td width="30"></td>
-		<td width="66">
-	            <img src="/images/PartnerLogos/Microsoft-Logo-Nav.gif" alt="Microsoft Certified Partner" style="margin-bottom: 20px; width: 66px; height: 34px;">
-	        </td>
-		<td width="30"></td>
-		<td width="67">
-				<img src="/images/verisign-logo-sm.jpg" alt="VeriSign" style="margin-bottom: 20px; width: 67px; height: 35px;">
-	        </td>
-		<td width="370"></td>
-		<td width="120">
-				<a href="http://www.layoutready.com/" target="_blank" style="text-decoration: none;">
-				    <img src="/images/PartnerLogos/layoutready-logo-sm.gif" alt="Word Templates | Publisher Templates | LayoutReady" style="margin-bottom: 28px; width: 120px; height: 18px;"></a>
-	        </td>
-		<td width="20"></td>
-		<td width="63">
-	            <a href="http://www.twitter.com/stocklayouts/" target="_blank" style="text-decoration: none;">
-		            <img src="/images/PartnerLogos/twitter-logo.gif" alt="StockLayouts on Twitter" style="margin-bottom: 30px; width: 63px; height: 18px;"></a>
-	        </td>
-		<td width="20"></td>
-		<td width="56">
-	            <a href="http://www.facebook.com/StockLayouts" target="_blank" style="text-decoration: none;">
-		            <img src="/images/PartnerLogos/facebook-logo.gif" alt="StockLayouts on Facebook" style="margin-bottom: 30px; width: 56px; height: 18px;"></a>
-	        </td>
-	</tr>
-</tbody></table>
-
+    <div style="float: right;">
+        <a href="http://www.pinterest.com/stocklayouts/" target="_blank" style="text-decoration: none;">
+            <img src="/images/pinterest-icon-sm.gif" alt="StockLayouts on Pinterest" style="width: 22px; height: 22px; margin-right: 10px;"></a>
+    </div>
+    <div style="float: right;">
+        <a href="http://www.instagram.com/stocklayouts/" target="_blank" style="text-decoration: none;">
+            <img src="/images/instagram-icon-sm.gif" alt="StockLayouts on Instagram" style="width: 22px; height: 22px; margin-right: 10px;"></a>
+    </div>
+    <div style="float: right;">
+        <a href="http://www.twitter.com/stocklayouts/" target="_blank" style="text-decoration: none;">
+            <img src="/images/twitter-icon-sm.jpg" alt="StockLayouts on Twitter" style="width: 22px; height: 22px; margin-right: 10px;"></a>
+    </div>
+    <div style="float: right;">
+        <a href="http://www.facebook.com/stocklayouts/" target="_blank" style="text-decoration: none;">
+            <img src="/images/facebook-icon-sm.jpg" alt="StockLayouts on Facebook" style="width: 22px; height: 22px; margin-right: 10px;"></a>
+    </div>
+    <div style="float: right;">
+        <a href="http://graphicdesign.stocklayouts.com/" target="_blank" style="text-decoration: none;">
+            <img src="/images/rss-feed-icon-sm.gif" alt="StockLayouts Graphic Design Blog" style="width: 22px; height: 22px; margin-right: 10px;"></a>
+    </div>
+    <div style="float: left;">
+		<a href="http://www.layoutready.com/" target="_blank" style="text-decoration: none;">
+		    <img src="/images/PartnerLogos/layoutready-logo-sm.gif" alt="Word Templates | Publisher Templates | LayoutReady" style="width: 120px; height: 18px;"></a>
+    </div>
+    <div style="float: left; margin-left: 5px; margin-top: 2px;">
+        Word and Publisher Templates by StockLayouts
+    </div>
+   <div style="clear: both; height: 10px;"></div>
 </div>
 								</div>
 								
