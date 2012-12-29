@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the politico.com privacy policy that was archived on 2012-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627223552id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the politico.com privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229140925id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
+<!DOCTYPE html><html xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy - POLITICO.com</title>  
 	<link rel="alternate" type="application/rss+xml" title="POLITICO - Top Stories [RSS]" href="http://www.politico.com/rss/politicopicks.xml">
 	<link rel="alternate" type="application/rss+xml" title="POLITICO - POLITICO 44 [RSS]" href="http://www.politico.com/rss/Politico44box.xml">
@@ -13,12 +13,8 @@
 	
 	<meta property="og:title" content="Privacy"> 
 	<meta property="og:site_name" content="POLITICO"> 
-	<meta property="fb:app_id" content="114037015331397"> 
-	
-
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="keywords" content=""> <meta name="description" content=""> <meta name="author" content="POLITICO"> 
-	<meta name="publish_date" content="Wed, 27 Jun 2012 17:33:16 EST">  
+	<meta property="fb:app_id" content="114037015331397"> <meta name="keywords" content=""> <meta name="description" content=""> <meta name="author" content="POLITICO"> 
+	<meta name="publish_date" content="Sat, 29 Dec 2012 08:15:15 EST">  
 	<link rel="shortcut icon" type="image/ico" href="http://www.politico.com/favicon.ico">
 
 	<link rel="canonical" href="http://www.politico.com/privacy/">
@@ -26,6 +22,7 @@
 
 
 
+<script type="text/javascript" src="http://www.politico.com/js/v7/modernizr.js"></script>
 <script type="text/javascript" src="http://www.politico.com/js/jquery1.6.4.min.js"></script>
 <script type="text/javascript" src="http://www.politico.com/js/jquery-ui.min.js"></script>
 <script src="http://www.politico.com/js/v7/global-plugins.js"></script>
@@ -54,7 +51,8 @@
 				quantSegs += 'qcseg=' + result.segments[i].id + ';';
 			}
 		}
-	</script><script type="text/javascript" src="http://rta.criteo.com/dis/rtt.js?networkId=1688&amp;cookieName=ctopo&amp;rnd=44368036012&amp;varName=crtg_content" async=""></script>
+	</script><script type="text/javascript" src="http://rta.criteo.com/dis/rtt.js?networkId=1688&amp;cookieName=ctopo&amp;rnd=76734576697&amp;varName=crtg_content" async=""></script>
+	<!-- QUANTCAST -->
 	<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-7bhLrd63bC8jI&amp;callback=qc_callback"></script>
 
 
@@ -89,12 +87,9 @@
 		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;'+quantSegs+';'+crtg_content+';pos='+pos+';tile='+tile+';sz='+sz+';ord='+ord+'?"><\/script>');
 		}
 	}
-</script> 
-	<!-- BEGIN ODIOGO LISTEN BUTTON -->
-	<script type="text/javascript">var _politico_odiogo_feed_ids = '101651,101652,101653,101654,101655';</script>
-	<script type="text/javascript" src="http://www.politico.com/js/v4/read_nowcustom.min.js"></script>
-	<!-- END ODIOGO LISTEN BUTTON -->
-	
+</script>
+
+
 	<script type="text/javascript" src="http://www.politico.com/js/v4/load_includes.min.js"></script>
 	
 	
@@ -129,30 +124,6 @@
 				});
 			</script>
 		
-<!-- OMNITURE CODE -->
-<!-- SiteCatalyst code version: H.20.3.
-Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
-<script type="text/javascript" src="http://www.politico.com/omtr_code.js?v=8&amp;ver=4"></script>
-<script type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on the next lines. */
-omtr.pageName="other -  - 20120627 - Privacy";
-omtr.pageType="Other";
-omtr.prop1="privacy";
-omtr.prop2="Other";
-omtr.prop12="Privacy";
-omtr.prop13="privacy/";
-omtr.prop14="no author";
-omtr.prop9="no blog";
-omtr.prop20="no content type";
-omtr.prop29="no tipsheet";
-omtr.prop31="20120627";
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var omtr_code=omtr.t();if(omtr_code)document.write(omtr_code)//--></script>
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.20.3. -->
-<!--// OMNITURE CODE-->
-
 	<script>
 	var ldpth = "/includes/";
 	</script>
@@ -162,7 +133,7 @@ var omtr_code=omtr.t();if(omtr_code)document.write(omtr_code)//--></script>
 				//TODO: move to common function in common.js
 				//$.commonWidgetsLoadDivViaXml("http://www.politico.com/includes/xml/widgetPopularStories.xml");
 
-				$.ajax({type:"GET", url:"http://www.politico.com/includes/xml/widgetPopularStories.xml", cache: false,success: function(xml){
+				$.ajax({type:"GET", url:"http://www.politico.com/includes/xml/widgetPopularStories.xml"+cacheBuster(300), cache: true,success: function(xml){
 							var rootNode = $(xml).find('inc');
 							var rootNodeID = rootNode.attr("divid");  
 							var rootNodeText = rootNode.text();   
@@ -182,24 +153,24 @@ var omtr_code=omtr.t();if(omtr_code)document.write(omtr_code)//--></script>
 <body id="privacy">
 
 
-		<div class="top-leaderboard">
-			
-<!-- begin ad tag -->
-<script type="text/javascript">
-dcCat="null";
-
-	ord=Math.random()*10000000000000000;
-
-//<![CDATA[
-
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;'+quantSegs+';'+crtg_content+';pos=1;tile=1;sz=728x90,900x90,980x90;ord='+ord+'?"><\/script>');
-
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;;;pos=1;tile=1;sz=728x90,900x90,980x90;ord=722412071653448.8?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/politico/_default;pos=1;tile=1;sz=728x90,900x90,980x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/politico/_default;pos=1;tile=1;sz=728x90,900x90,980x90;ord=123456789?" border="0" alt="" /></a></noscript>
-<!--// end ad tag -->
-
-		</div>
-	
+			<div class="top-leaderboard">
+				
+		<!-- begin ad tag -->
+		<script type="text/javascript">
+		dcCat="null";
+		
+			ord=Math.random()*10000000000000000;
+		
+		//<![CDATA[
+		
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;'+quantSegs+';'+crtg_content+';pos=1;tile=1;sz=728x90,900x90,980x90;ord='+ord+'?"><\/script>');
+		
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;;;pos=1;tile=1;sz=728x90,900x90,980x90;ord=5018564079112569?"></script>
+		<noscript><a href="http://ad.doubleclick.net/jump/politico/_default;pos=1;tile=1;sz=728x90,900x90,980x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/politico/_default;pos=1;tile=1;sz=728x90,900x90,980x90;ord=123456789?" border="0" alt="" /></a></noscript>
+		<!--// end ad tag -->
+		
+			</div>
+		
 
 
 <div id="siteWrapper">
@@ -212,8 +183,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 	
 		<div class="primary-masthead" role="banner">
 	    
-	    	<h1 class="site-logo"><a href="http://www.politico.com" title="POLITICO Home">POLITICO</a></h1>
-	        
+	    	<h1 class="site-logo"><a href="http://www.politico.com" title="POLITICO Home">POLITICO</a></h1> 
 	        <div class="utilities">
 	        	<ul class="utility-links">
 	        	
@@ -224,8 +194,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 						</script>
 					</li>
 	                <li><a href="http://m.politico.com/">Mobile</a></li>
-	                <li><a href="http://jobs.politico.com/home/index.cfm?site_id=8599">POLITICO Jobs</a></li>
-	                <li class="last"><a href="http://www.politico.com/rss/">RSS</a></li>
+	                 <li class="last"><a href="http://www.politico.com/rss/">RSS</a></li>
 	            </ul>
 	           
 	            <div class="main-search" role="search">
@@ -238,7 +207,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		                    	<label for="reporters"><b>Search by</b> Author</label>
 		                        <select id="reporters" name="reporters">
 								   <option value="">Any Reporter</option>
-									<option value="3106" title=", ">, </option><option value="3107" title=", ">, </option><option value="1235" title="Allen, Jonathan ">Allen, Jonathan </option><option value="32" title="Allen, Mike ">Allen, Mike </option><option value="1783" title="Berman, Dan ">Berman, Dan </option><option value="2172" title="Birnbaum, Gregg ">Birnbaum, Gregg </option><option value="2427" title="Boak, Josh ">Boak, Josh </option><option value="2107" title="Boliek, Brooks ">Boliek, Brooks </option><option value="1906" title="Bravender, Robin ">Bravender, Robin </option><option value="36" title="Bresnahan, John ">Bresnahan, John </option><option value="58" title="Budoff Brown, Carrie ">Budoff Brown, Carrie </option><option value="2480" title="Buford, Talia ">Buford, Talia </option><option value="587" title="Burns, Alexander ">Burns, Alexander </option><option value="2732" title="Byers, Dylan ">Byers, Dylan </option><option value="1036" title="Catanese, David ">Catanese, David </option><option value="705" title="Coller, Andie ">Coller, Andie </option><option value="3086" title="Corba, Jacqueline ">Corba, Jacqueline </option><option value="2058" title="Dixon, Darius ">Dixon, Darius </option><option value="2445" title="DoBias, Matt ">DoBias, Matt </option><option value="2339" title="Dovere, Edward-Isaac ">Dovere, Edward-Isaac </option><option value="2000" title="Epstein, Jennifer ">Epstein, Jennifer </option><option value="2411" title="Epstein, Reid J.">Epstein, Reid J.</option><option value="2007" title="Everett, Burgess ">Everett, Burgess </option><option value="2108" title="Feder, J. Lester ">Feder, J. Lester </option><option value="177" title="Frerking, Beth ">Frerking, Beth </option><option value="965" title="Gavin, Patrick ">Gavin, Patrick </option><option value="57" title="Gerstein, Josh ">Gerstein, Josh </option><option value="2731" title="Gibson, Ginger ">Gibson, Ginger </option><option value="24" title="Glass, Andrew ">Glass, Andrew </option><option value="2011" title="Goode, Darren ">Goode, Darren </option><option value="905" title="Gordon, Craig ">Gordon, Craig </option><option value="436" title="Grieve, Tim ">Grieve, Tim </option><option value="2076" title="Guillén, Alex ">Guillén, Alex </option><option value="1522" title="Haberkorn, Jennifer ">Haberkorn, Jennifer </option><option value="1592" title="Haberman, Maggie ">Haberman, Maggie </option><option value="242" title="Harris, John F.">Harris, John F.</option><option value="1585" title="Hart, Kim ">Hart, Kim </option><option value="676" title="Heitz, Dianna ">Heitz, Dianna </option><option value="532" title="Hillman, G. Robert">Hillman, G. Robert</option><option value="1350" title="Hohmann, James ">Hohmann, James </option><option value="922" title="Isenstadt, Alex ">Isenstadt, Alex </option><option value="301" title="Kady II, Martin ">Kady II, Martin </option><option value="2105" title="Kamen, Jess ">Kamen, Jess </option><option value="2998" title="Kearney, Ryan ">Kearney, Ryan </option><option value="2623" title="Kenen, Joanne ">Kenen, Joanne </option><option value="1280" title="Kim, Seung Min ">Kim, Seung Min </option><option value="2116" title="King, Bob ">King, Bob </option><option value="2100" title="Krigman, Eliza ">Krigman, Eliza </option><option value="1291" title="Lee, MJ ">Lee, MJ </option><option value="2515" title="Levinthal, Dave ">Levinthal, Dave </option><option value="305" title="Lovley, Erika ">Lovley, Erika </option><option value="422" title="Mahtesian, Charles ">Mahtesian, Charles </option><option value="2476" title="Mak, Tim ">Mak, Tim </option><option value="2586" title="Mann, Aleesa ">Mann, Aleesa </option><option value="12" title="Mark, David ">Mark, David </option><option value="17" title="Martin, Jonathan ">Martin, Jonathan </option><option value="2666" title="Martinson, Erica ">Martinson, Erica </option><option value="2312" title="McCalmont, Lucy ">McCalmont, Lucy </option><option value="1915" title="McDevitt, Caitlin ">McDevitt, Caitlin </option><option value="2088" title="McGann, Laura ">McGann, Laura </option><option value="2986" title="Meyers, Jessica ">Meyers, Jessica </option><option value="2376" title="Millman, Jason ">Millman, Jason </option><option value="2957" title="Mowder, Adam ">Mowder, Adam </option><option value="2873" title="Murgai, Puja ">Murgai, Puja </option><option value="2112" title="Nather, David ">Nather, David </option><option value="2956" title="Nelson, Eric ">Nelson, Eric </option><option value="147" title="Nichols, Bill ">Nichols, Bill </option><option value="2085" title="Nocera, Kate ">Nocera, Kate </option><option value="2498" title="Norman, Brett ">Norman, Brett </option><option value="2514" title="Palmer, Anna ">Palmer, Anna </option><option value="2853" title="Petersen, Olivia ">Petersen, Olivia </option><option value="1102" title="Phillip, Abby ">Phillip, Abby </option><option value="2854" title="Pulte, Lauren ">Pulte, Lauren </option><option value="2152" title="Quinn, Michelle ">Quinn, Michelle </option><option value="900" title="Raju, Manu ">Raju, Manu </option><option value="2499" title="Rauf, David Saleh">Rauf, David Saleh</option><option value="2030" title="Reis, Patrick ">Reis, Patrick </option><option value="3094" title="Restuccia, Andrew ">Restuccia, Andrew </option><option value="426" title="Rogers, David ">Rogers, David </option><option value="2900" title="Romano, Lois ">Romano, Lois </option><option value="1630" title="Romm, Tony ">Romm, Tony </option><option value="2218" title="Rosche, Jedd ">Rosche, Jedd </option><option value="1656" title="Samuelsohn, Darren ">Samuelsohn, Darren </option><option value="1634" title="Schultheis, Emily ">Schultheis, Emily </option><option value="1226" title="Sherman, Jake ">Sherman, Jake </option><option value="30" title="Simon, Roger ">Simon, Roger </option><option value="2809" title="Slack, Donovan ">Slack, Donovan </option><option value="2311" title="Smolkin, Rachel ">Smolkin, Rachel </option><option value="2667" title="Snider, Adam ">Snider, Adam </option><option value="1978" title="Summers, Juana ">Summers, Juana </option><option value="1943" title="Tau, Byron ">Tau, Byron </option><option value="678" title="Thrush, Glenn ">Thrush, Glenn </option><option value="1114" title="Trowbridge, Alexander ">Trowbridge, Alexander </option><option value="2826" title="Van Dongen, Rachel ">Van Dongen, Rachel </option><option value="33" title="VandeHei, Jim ">VandeHei, Jim </option><option value="15" title="Vogel, Kenneth P.">Vogel, Kenneth P.</option><option value="2120" title="Wasserman, Elizabeth ">Wasserman, Elizabeth </option><option value="2433" title="Weinger, Mackenzie ">Weinger, Mackenzie </option><option value="1254" title="White, Ben ">White, Ben </option><option value="2326" title="Williams, Joseph ">Williams, Joseph </option><option value="2917" title="Wolfe, Kathryn A.">Wolfe, Kathryn A.</option><option value="1606" title="Wong, Scott ">Wong, Scott </option><option value="2475" title="Wright, Austin ">Wright, Austin </option><option value="2151" title="Zapler, Mike ">Zapler, Mike </option>
+									<option value="2376" title=", ">, </option><option value="1235" title="Allen, Jonathan ">Allen, Jonathan </option><option value="32" title="Allen, Mike ">Allen, Mike </option><option value="3275" title="Bade, Rachael ">Bade, Rachael </option><option value="1783" title="Berman, Dan ">Berman, Dan </option><option value="2172" title="Birnbaum, Gregg ">Birnbaum, Gregg </option><option value="2107" title="Boliek, Brooks ">Boliek, Brooks </option><option value="3251" title="Brannen, Kate ">Brannen, Kate </option><option value="36" title="Bresnahan, John ">Bresnahan, John </option><option value="58" title="Budoff Brown, Carrie ">Budoff Brown, Carrie </option><option value="2480" title="Buford, Talia ">Buford, Talia </option><option value="587" title="Burns, Alexander ">Burns, Alexander </option><option value="1663" title="Byers, Alex ">Byers, Alex </option><option value="2732" title="Byers, Dylan ">Byers, Dylan </option><option value="1036" title="Catanese, David ">Catanese, David </option><option value="3270" title="Cervantes, Bobby ">Cervantes, Bobby </option><option value="3036" title="Cheney, Kyle ">Cheney, Kyle </option><option value="3201" title="Cirilli, Kevin ">Cirilli, Kevin </option><option value="705" title="Coller, Andie ">Coller, Andie </option><option value="3086" title="Corba, Jacqueline ">Corba, Jacqueline </option><option value="2058" title="Dixon, Darius ">Dixon, Darius </option><option value="2339" title="Dovere, Edward-Isaac ">Dovere, Edward-Isaac </option><option value="3269" title="Edwards, Breanna ">Edwards, Breanna </option><option value="2000" title="Epstein, Jennifer ">Epstein, Jennifer </option><option value="2411" title="Epstein, Reid J.">Epstein, Reid J.</option><option value="2007" title="Everett, Burgess ">Everett, Burgess </option><option value="3208" title="Ewing, Philip ">Ewing, Philip </option><option value="3253" title="French, Lauren ">French, Lauren </option><option value="177" title="Frerking, Beth ">Frerking, Beth </option><option value="3085" title="Friess, Steve ">Friess, Steve </option><option value="3129" title="Gaskell, Stephanie ">Gaskell, Stephanie </option><option value="965" title="Gavin, Patrick ">Gavin, Patrick </option><option value="57" title="Gerstein, Josh ">Gerstein, Josh </option><option value="2731" title="Gibson, Ginger ">Gibson, Ginger </option><option value="24" title="Glass, Andrew ">Glass, Andrew </option><option value="3214" title="Glueck, Katie ">Glueck, Katie </option><option value="2011" title="Goode, Darren ">Goode, Darren </option><option value="905" title="Gordon, Craig ">Gordon, Craig </option><option value="436" title="Grieve, Tim ">Grieve, Tim </option><option value="2076" title="Guillén, Alex ">Guillén, Alex </option><option value="1522" title="Haberkorn, Jennifer ">Haberkorn, Jennifer </option><option value="1592" title="Haberman, Maggie ">Haberman, Maggie </option><option value="242" title="Harris, John F.">Harris, John F.</option><option value="676" title="Heitz, Dianna ">Heitz, Dianna </option><option value="532" title="Hillman, G. Robert">Hillman, G. Robert</option><option value="1350" title="Hohmann, James ">Hohmann, James </option><option value="922" title="Isenstadt, Alex ">Isenstadt, Alex </option><option value="301" title="Kady II, Martin ">Kady II, Martin </option><option value="2105" title="Kamen, Jess ">Kamen, Jess </option><option value="2998" title="Kearney, Ryan ">Kearney, Ryan </option><option value="2623" title="Kenen, Joanne ">Kenen, Joanne </option><option value="1280" title="Kim, Seung Min ">Kim, Seung Min </option><option value="2116" title="King, Bob ">King, Bob </option><option value="2100" title="Krigman, Eliza ">Krigman, Eliza </option><option value="1291" title="Lee, MJ ">Lee, MJ </option><option value="2515" title="Levinthal, Dave ">Levinthal, Dave </option><option value="305" title="Lovley, Erika ">Lovley, Erika </option><option value="422" title="Mahtesian, Charles ">Mahtesian, Charles </option><option value="2476" title="Mak, Tim ">Mak, Tim </option><option value="2586" title="Mann, Aleesa ">Mann, Aleesa </option><option value="17" title="Martin, Jonathan ">Martin, Jonathan </option><option value="2666" title="Martinson, Erica ">Martinson, Erica </option><option value="2312" title="McCalmont, Lucy ">McCalmont, Lucy </option><option value="1915" title="McDevitt, Caitlin ">McDevitt, Caitlin </option><option value="2088" title="McGann, Laura ">McGann, Laura </option><option value="2986" title="Meyers, Jessica ">Meyers, Jessica </option><option value="2563" title="Munsil, Leigh ">Munsil, Leigh </option><option value="2873" title="Murgai, Puja ">Murgai, Puja </option><option value="2112" title="Nather, David ">Nather, David </option><option value="2956" title="Nelson, Eric ">Nelson, Eric </option><option value="147" title="Nichols, Bill ">Nichols, Bill </option><option value="2085" title="Nocera, Kate ">Nocera, Kate </option><option value="2498" title="Norman, Brett ">Norman, Brett </option><option value="2514" title="Palmer, Anna ">Palmer, Anna </option><option value="3111" title="Parti, Tarini ">Parti, Tarini </option><option value="2853" title="Petersen, Olivia ">Petersen, Olivia </option><option value="2152" title="Quinn, Michelle ">Quinn, Michelle </option><option value="900" title="Raju, Manu ">Raju, Manu </option><option value="2499" title="Rauf, David Saleh">Rauf, David Saleh</option><option value="2030" title="Reis, Patrick ">Reis, Patrick </option><option value="3094" title="Restuccia, Andrew ">Restuccia, Andrew </option><option value="2278" title="Robillard, Kevin ">Robillard, Kevin </option><option value="426" title="Rogers, David ">Rogers, David </option><option value="2900" title="Romano, Lois ">Romano, Lois </option><option value="1630" title="Romm, Tony ">Romm, Tony </option><option value="2218" title="Rosche, Jedd ">Rosche, Jedd </option><option value="1656" title="Samuelsohn, Darren ">Samuelsohn, Darren </option><option value="3267" title="Schatz, Joseph J.">Schatz, Joseph J.</option><option value="1634" title="Schultheis, Emily ">Schultheis, Emily </option><option value="1226" title="Sherman, Jake ">Sherman, Jake </option><option value="30" title="Simon, Roger ">Simon, Roger </option><option value="2809" title="Slack, Donovan ">Slack, Donovan </option><option value="3191" title="Sloan, Steven ">Sloan, Steven </option><option value="3006" title="Smith, Kathryn ">Smith, Kathryn </option><option value="2311" title="Smolkin, Rachel ">Smolkin, Rachel </option><option value="2667" title="Snider, Adam ">Snider, Adam </option><option value="1978" title="Summers, Juana ">Summers, Juana </option><option value="1943" title="Tau, Byron ">Tau, Byron </option><option value="678" title="Thrush, Glenn ">Thrush, Glenn </option><option value="2518" title="Titus, Elizabeth ">Titus, Elizabeth </option><option value="1365" title="Tran, Vivyan ">Tran, Vivyan </option><option value="1114" title="Trowbridge, Alexander ">Trowbridge, Alexander </option><option value="2826" title="Van Dongen, Rachel ">Van Dongen, Rachel </option><option value="33" title="VandeHei, Jim ">VandeHei, Jim </option><option value="15" title="Vogel, Kenneth P.">Vogel, Kenneth P.</option><option value="3252" title="Warmbrodt, Zachary ">Warmbrodt, Zachary </option><option value="2120" title="Wasserman, Elizabeth ">Wasserman, Elizabeth </option><option value="2433" title="Weinger, Mackenzie ">Weinger, Mackenzie </option><option value="1254" title="White, Ben ">White, Ben </option><option value="2917" title="Wolfe, Kathryn A.">Wolfe, Kathryn A.</option><option value="1606" title="Wong, Scott ">Wong, Scott </option><option value="2475" title="Wright, Austin ">Wright, Austin </option><option value="2151" title="Zapler, Mike ">Zapler, Mike </option>
 								</select> 
 		                    </li>
 		                    <li class="search-date">
@@ -263,22 +232,17 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		<!-- Main Navigation for site-->
 	    
 <ul id="primaryNav" class="primary-nav" role="navigation">
-	<li class="nav-2012-live "><a href="http://www.politico.com/2012-election">2012 Live</a>
+	<li class="nav-elections "><a href="http://www.politico.com/pages/elections/">Elections</a>
 		<ul class="main-nav-sub">
-			<li><a href="http://www.politico.com/2012-election">2012 Live Home</a></li>
-			<li><a href="http://www.politico.com/2012-election/presidential-polls/">Latest Polls</a></li>
-			<li><a href="http://www.politico.com/2012-election/candidate-map/">Candidate Tracker</a></li>
-			<li><a href="http://www.politico.com/2012-election/calendar/">Today's Calendar</a></li>
-			<li><a href="http://www.politico.com/2012-election/map/">Election Results</a></li>
-			<li><a href="http://www.politico.com/2012-election/delegate-tracker/">GOP Delegate Tracker</a></li>
-			<li><a href="http://www.politico.com/2012-election/vp-watch">VEEP Watch</a></li>
+			<li><a href="http://www.politico.com/pages/elections/">Elections Home</a></li>
+			<li><a href="http://www.politico.com/2012-election/polls/president/">Polling Center</a></li>
+			<li><a href="http://www.politico.com/2012-election/map/">2012 Election Results</a></li>
 		</ul>
 	</li>
 	<li class="nav-44 "><a href="http://www.politico.com/politico44/">44</a></li> 
 	<li class="nav-congress "><a href="http://www.politico.com/congress/">Congress</a></li>
 	<li class="nav-blogs "><a href="javascript:null(0);">Blogs</a>
 		<ul class="main-nav-sub">
-			<li><a href="http://www.politico.com/blogs/burns-haberman/">Burns &amp; Haberman</a></li>
 			<li><a href="http://www.politico.com/blogs/charlie-mahtesian/">Charlie Mahtesian</a></li>
 			<li><a href="http://www.politico.com/blogs/media/">Dylan Byers</a></li>
 			<li><a href="http://www.politico.com/blogs/click/">CLICK</a></li>
@@ -287,11 +251,10 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
             <li><a href="http://www.politico.com/blogs/joe-scarborough/">Joe Scarborough</a></li>
 		</ul>
     </li>
-	<li class="nav-arena "><a href="http://www.politico.com/arena/">Arena</a></li>
 	<li class="nav-opinion "><a href="http://www.politico.com/opinion/">Opinion</a></li>
     <li class="nav-policy "><a href="javascript:null(0);">Policy</a>
 		<ul class="main-nav-sub">
-			<li><a href="http://www.politico.com/money/">Money</a></li>
+			<li><a href="http://www.politico.com/money/">Finance</a></li>
 			<li><a href="http://www.politico.com/healthcare/">Health Care</a></li>
 			<li><a href="http://www.politico.com/energy/">Energy &amp; Environment</a></li>
 			<li><a href="http://www.politico.com/defense/">Defense</a></li>
@@ -299,9 +262,10 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			<li><a href="http://www.politico.com/transportation/">Transportation &amp; Infrastructure</a></li>
 		</ul>
 	</li>
-    <li class="nav-video "><a href="http://www.politico.com/multimedia/">Video</a></li>
+	<li class="nav-video "><a href="http://www.politico.com/multimedia/">Video</a></li>
     <li class="nav-photos "><a href="http://www.politico.com/gallery/">Photos</a></li>
-	<li class="nav-bookshelf"><a href="http://www.politico.com/bookshelf/">Bookshelf</a></li>
+	<li class="nav-events"><a href="http://www.politico.com/events/">Events</a></li>
+	<li class="nav-power-jobs"><a href="http://www.powerjobs.com">POWERJobs</a></li>
 	<li class="nav-politico-pro"><a href="http://www.politicopro.com">POLITICO Pro</a></li>
 </ul>
 
@@ -381,18 +345,18 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 		
 	<div class="widget widget-ad">
 		
-<!-- begin ad tag -->
-<script type="text/javascript">
-dcCat="null";
-
-//<![CDATA[
-
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;'+quantSegs+';'+crtg_content+';pos=1;tile=2;sz=300x250,336x280,300x600,336x850;ord='+ord+'?"><\/script>');
-
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;;;pos=1;tile=2;sz=300x250,336x280,300x600,336x850;ord=722412071653448.8?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/politico/_default;pos=1;tile=2;sz=300x250,336x280,300x600,336x850;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/politico/_default;pos=1;tile=2;sz=300x250,336x280,300x600,336x850;ord=123456789?" border="0" alt="" /></a></noscript>
-<!--// end ad tag -->
-
+		<!-- begin ad tag -->
+		<script type="text/javascript">
+		dcCat="null";
+		
+		//<![CDATA[
+		
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;'+quantSegs+';'+crtg_content+';pos=1;tile=2;sz=300x250,336x280,300x600,336x850;ord='+ord+'?"><\/script>');
+		
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;;;pos=1;tile=2;sz=300x250,336x280,300x600,336x850;ord=5018564079112569?"></script>
+		<noscript><a href="http://ad.doubleclick.net/jump/politico/_default;pos=1;tile=2;sz=300x250,336x280,300x600,336x850;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/politico/_default;pos=1;tile=2;sz=300x250,336x280,300x600,336x850;ord=123456789?" border="0" alt="" /></a></noscript>
+		<!--// end ad tag -->
+		
 	</div><!--/.widget-->
 	
 					<div id="widgetPopularStories" class="widget widget-exclusive">
@@ -421,58 +385,58 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 											
             	<div class="meta-data">
             		
-                	<p>Updated: 06/27/2012 5:32 PM ET</p>
+                	<p>Updated: 12/29/2012 8:02 AM ET</p>
                 </div>
                 <ol class="story-list incremented">
 					
                         <li>
                             <h5 class="increment">1</h5>
-                            <h6><a href="http://www.politico.com/blogs/media/2012/06/romney-to-seek-retraction-from-washpost-127441.html">Romney to seek Washington Post retraction</a></h6>
+                            <h6><a href="http://www.politico.com/blogs/media/2012/12/krauthammer-obama-caused-gop-civil-war-152935.html?ml=po_r">Krauthammer: Obama caused GOP civil war</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">2</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77878.html">Dems go AWOL in class war</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/matt-damon-game-is-rigged-85528.html?ml=po_r">Matt Damon: 'Game is rigged'</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">3</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77862.html">What's wrong at CNN</a></h6>
+                            <h6><a href="http://www.politico.com/blogs/on-congress/2012/12/gop-senators-propose-trillion-debt-ceiling-deal-152936.html?ml=po_r">GOP senators propose $1 trillion debt ceiling deal</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">4</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77870.html">GOP plan for 'Obamacare': Nothing</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/fiscal-cliff-lawmakers-predict-no-deal-out-of-wh-meeting-85565.html?ml=po_r">Obama to Congress: It's time for a deal</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">5</h5>
-                            <h6><a href="http://www.politico.com/blogs/media/2012/06/washpost-will-not-redact-outsourcing-story-127466.html">WashPost will not retract 'outsourcing' story</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/why-they-want-to-go-over-the-fiscal-cliff-85544.html?ml=po_r">Why they want to go over the cliff</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">6</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77867.html">Dem: I'll vote 'yes' on contempt</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/bipartisan-deal-pitched-on-filibuster-85572.html?ml=po_r">Filibuster compromise pitched</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">7</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77874.html">Kerry's secretary of state dry run</a></h6>
+                            <h6><a href="http://www.politico.com/blogs/media/2012/12/david-gregory-to-interview-obama-on-meet-the-press-152956.html?ml=po_r">David Gregory to interview Obama on Meet The Press</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">8</h5>
-                            <h6><a href="http://www.politico.com/blogs/click/2012/06/seersucker-thursday-discontinued-127432.html">Seersucker Thursday discontinued</a></h6>
+                            <h6><a href="http://www.politico.com/blogs/media/2012/12/msnbc-president-on-chris-matthews-hes-a-statesman-152926.html?ml=po_r">MSNBC head: Chris Matthews 'a statesman'</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">9</h5>
-                            <h6><a href="http://www.politico.com/blogs/media/2012/06/in-crisis-cnn-aims-to-rethink-itself-127385.html">In crisis, CNN aims to rethink the brand</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/kerry-dems-back-markey-for-senate-85571.html?ml=po_r">Kerry, Dems back Markey for Senate</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">10</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77886.html">McCaskill: DNC chatter is 'stupid'</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/the-logic-of-house-gop-intransigence-85546.html?ml=po_r">Logic of House GOP intransigence</a></h6>
                         </li>
 					                           
                 </ol>
@@ -483,58 +447,58 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 											
             	<div class="meta-data">
             		
-                	<p>Updated: 06/27/2012 5:32 PM ET</p>
+                	<p>Updated: 12/29/2012 8:02 AM ET</p>
                 </div>
                 <ol class="story-list incremented">
 					
                         <li>
                             <h5 class="increment">1</h5>
-                            <h6><a href="http://www.politico.com/blogs/media/2012/06/romney-to-seek-retraction-from-washpost-127441.html">Romney to seek Washington Post retraction</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/matt-damon-game-is-rigged-85528.html?ml=po_r">Matt Damon: 'Game is rigged'</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">2</h5>
-                            <h6><a href="http://www.politico.com/politico44/2012/06/poll-obama-slips-in-ohio-127304.html">Poll: Obama slips in Ohio</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/why-they-want-to-go-over-the-fiscal-cliff-85544.html?ml=po_r">Why they want to go over the cliff</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">3</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77826.html">John Roberts's big moment</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/fiscal-cliff-lawmakers-predict-no-deal-out-of-wh-meeting-85565.html?ml=po_r">Obama to Congress: It's time for a deal</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">4</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77862.html">What's wrong at CNN</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/the-logic-of-house-gop-intransigence-85546.html?ml=po_r">Logic of House GOP intransigence</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">5</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77878.html">Dems go AWOL in class war</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/why-abercrombie-bucked-inouye-pick-85551.html?ml=po_r">Why Abercrombie bucked Inouye pick</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">6</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77870.html">GOP plan for 'Obamacare': Nothing</a></h6>
+                            <h6><a href="http://www.politico.com/blogs/media/2012/12/krauthammer-obama-caused-gop-civil-war-152935.html?ml=po_r">Krauthammer: Obama caused GOP civil war</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">7</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77867.html">Dem: I'll vote 'yes' on contempt</a></h6>
+                            <h6><a href="http://www.politico.com/blogs/on-congress/2012/12/gop-senators-propose-trillion-debt-ceiling-deal-152936.html?ml=po_r">GOP senators propose $1 trillion debt ceiling deal</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">8</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77864.html">Health industry's 'zero-sum' game</a></h6>
+                            <h6><a href="http://www.politico.com/blogs/click/2011/12/damon-admits-obamas-joke-was-pretty-funny-107294.html?ml=po_r">Damon: Obama's joke was 'pretty funny'</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">9</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77831.html">Brewer: Obama says 'drop dead'</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/aide-george-h-w-bush-hospital-getting-better-singing-85568.html?ml=po_r">Aide: Bush getting better, 'singing'</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">10</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77851.html">Scott Walker wants national role</a></h6>
+                            <h6><a href="http://www.politico.com/blogs/media/2012/12/msnbc-president-on-chris-matthews-hes-a-statesman-152926.html?ml=po_r">MSNBC head: Chris Matthews 'a statesman'</a></h6>
                         </li>
 					                           
                 </ol>
@@ -545,58 +509,58 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 											
             	<div class="meta-data">
             		
-                	<p>Updated: 06/27/2012 5:32 PM ET</p>
+                	<p>Updated: 12/29/2012 8:02 AM ET</p>
                 </div>
                 <ol class="story-list incremented">
 					
                         <li>
                             <h5 class="increment">1</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77789.html">SCOTUS clears key part of Ariz. immigration law</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/matt-damon-game-is-rigged-85528.html?ml=po_r">Matt Damon: 'Game is rigged'</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">2</h5>
-                            <h6><a href="http://www.politico.com/blogs/media/2012/06/romney-to-seek-retraction-from-washpost-127441.html">Romney to seek Washington Post retraction</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/blog-turns-tables-on-gun-map-paper-85520.html?ml=po_r">Blog turns tables on gun map paper</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">3</h5>
-                            <h6><a href="http://www.politico.com/politico44/2012/06/poll-obama-slips-in-ohio-127304.html">Poll: Obama slips in Ohio</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/fiscal-cliff-deal-increasingly-unlikely-85511.html?ml=po_r">Fiscal cliff deal increasingly unlikely</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">4</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77826.html">John Roberts's big moment</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/why-they-want-to-go-over-the-fiscal-cliff-85544.html?ml=po_r">Why they want to go over the cliff</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">5</h5>
-                            <h6><a href="http://www.politico.com/blogs/on-congress/2012/06/kucinich-lends-moral-support-to-postal-hunger-strike-127217.html">Kucinich lends moral support to postal hunger strike</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/fiscal-cliff-lawmakers-predict-no-deal-out-of-wh-meeting-85565.html?ml=po_r">Obama to Congress: It's time for a deal</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">6</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77862.html">What's wrong at CNN</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/reid-were-headed-for-cliff-and-its-gops-fault-85532.html?ml=po_r">Obama sets last-ditch cliff meeting</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">7</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77791.html">Scalia swipes at immigration action</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/the-logic-of-house-gop-intransigence-85546.html?ml=po_r">Logic of House GOP intransigence</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">8</h5>
-                            <h6><a href="http://www.politico.com/politico44/2012/06/white-house-congratulates-egypts-morsi-127117.html">White House congratulates Egypt's Morsi</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/anti-piers-petition-tops-60k-signers-85472.html?ml=po_r">Anti-Piers petition tops 80K signers</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">9</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77795.html">Dems mulling legislation after ruling</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/why-abercrombie-bucked-inouye-pick-85551.html?ml=po_r">Why Abercrombie bucked Inouye pick</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">10</h5>
-                            <h6><a href="http://www.politico.com/blogs/burns-haberman/2012/06/the-romney-camps-line-on-arizona-127229.html">The Romney camp's line on Arizona (Updated)</a></h6>
+                            <h6><a href="http://www.politico.com/blogs/media/2012/12/krauthammer-obama-caused-gop-civil-war-152935.html?ml=po_r">Krauthammer: Obama caused GOP civil war</a></h6>
                         </li>
 					                           
                 </ol>
@@ -607,58 +571,58 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 											
             	<div class="meta-data">
             		
-                	<p>Updated: 06/27/2012 5:32 PM ET</p>
+                	<p>Updated: 12/29/2012 8:02 AM ET</p>
                 </div>
                 <ol class="story-list incremented">
 					
                         <li>
                             <h5 class="increment">1</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77789.html">SCOTUS clears key part of Ariz. immigration law</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/matt-damon-game-is-rigged-85528.html?ml=po_r">Matt Damon: 'Game is rigged'</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">2</h5>
-                            <h6><a href="http://www.politico.com/politico44/2012/06/forkless-friday-at-obama-event-127056.html">Forkless Friday at Obama event</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/cops-nbc-told-dont-use-gun-clip-85497.html?ml=po_r">Cops told NBC not to use gun clip</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">3</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77744.html">Obama taps overseas donor pool</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/blog-turns-tables-on-gun-map-paper-85520.html?ml=po_r">Blog turns tables on gun map paper</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">4</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77619.html">Pawlenty stock soars in Mitt-world</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/anti-piers-petition-tops-60k-signers-85472.html?ml=po_r">Anti-Piers petition tops 80K signers</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">5</h5>
-                            <h6><a href="http://www.politico.com/blogs/media/2012/06/politico-reporter-suspended-for-comments-126989.html">POLITICO reporter suspended for remarks</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/fiscal-cliff-deal-increasingly-unlikely-85511.html?ml=po_r">Fiscal cliff deal increasingly unlikely</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">6</h5>
-                            <h6><a href="http://www.politico.com/blogs/media/2012/06/romney-to-seek-retraction-from-washpost-127441.html">Romney to seek Washington Post retraction</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/why-obama-isnt-caving-85443.html?ml=po_r">Why Obama isn't caving</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">7</h5>
-                            <h6><a href="http://www.politico.com/blogs/media/2012/06/andrea-mitchell-airs-full-romney-video-126639.html">Andrea Mitchell airs full Romney remarks</a></h6>
+                            <h6><a href="http://www.politico.com/blogs/media/2012/12/david-gregory-will-not-host-this-sundays-meet-the-152814.html?ml=po_r">David Gregory will not host this Sunday's 'Meet The Press'</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">8</h5>
-                            <h6><a href="http://www.politico.com/politico44/2012/06/poll-obama-slips-in-ohio-127304.html">Poll: Obama slips in Ohio</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/virginia-exemplifies-gop-dilemma-85468.html?ml=po_r">Virginia embodies GOP's woes</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">9</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77826.html">John Roberts's big moment</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/why-they-want-to-go-over-the-fiscal-cliff-85544.html?ml=po_r">Why they want to go over the cliff</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">10</h5>
-                            <h6><a href="http://www.politico.com/politico44/2012/06/white-house-congratulates-egypts-morsi-127117.html">White House congratulates Egypt's Morsi</a></h6>
+                            <h6><a href="http://www.politico.com/blogs/media/2012/12/the-petition-to-deport-piers-morgan-152730.html?ml=po_r">The petition to deport Piers Morgan</a></h6>
                         </li>
 					                           
                 </ol>
@@ -680,59 +644,9 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 											
             	<div class="meta-data">
             		
-                	<p>Updated: 06/27/2012 5:32 PM ET</p>
+                	<p>Updated: 12/29/2012 8:02 AM ET</p>
                 </div>
                 <ol class="story-list incremented">
-					
-                        <li>
-                            <h5 class="increment">1</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77911.html">Judge: Florida voter purge is legal</a></h6>
-                        </li>
-					
-                        <li class="even">
-                            <h5 class="increment">2</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77907.html">Our Supreme Court has lost its honor</a></h6>
-                        </li>
-					
-                        <li>
-                            <h5 class="increment">3</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77902.html">Keystone not making conference cut</a></h6>
-                        </li>
-					
-                        <li class="even">
-                            <h5 class="increment">4</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77896.html">Dems to SCOTUS: Don't even think about it</a></h6>
-                        </li>
-					
-                        <li>
-                            <h5 class="increment">5</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77894.html">Fundraising via text faces hurdles</a></h6>
-                        </li>
-					
-                        <li class="even">
-                            <h5 class="increment">6</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77891.html">Document: GOP to go slow on health</a></h6>
-                        </li>
-					
-                        <li>
-                            <h5 class="increment">7</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77890.html">New GOP line: Let's work together post-ruling</a></h6>
-                        </li>
-					
-                        <li class="even">
-                            <h5 class="increment">8</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77888.html">Report: Gun-walking not part of plan</a></h6>
-                        </li>
-					
-                        <li>
-                            <h5 class="increment">9</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77887.html">Boehner: Highway, loan bill close</a></h6>
-                        </li>
-					
-                        <li class="even">
-                            <h5 class="increment">10</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77886.html">McCaskill: DNC chatter is 'stupid'</a></h6>
-                        </li>
 					                           
                 </ol>
 			
@@ -742,58 +656,53 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 											
             	<div class="meta-data">
             		
-                	<p>Updated: 06/27/2012 5:32 PM ET</p>
+                	<p>Updated: 12/29/2012 8:02 AM ET</p>
                 </div>
                 <ol class="story-list incremented">
 					
                         <li>
                             <h5 class="increment">1</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77911.html">Judge: Florida voter purge is legal</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/60b-sandy-aid-package-clears-senate-85576.html?ml=po_e">$60B in Sandy aid clears Senate</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">2</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77907.html">Our Supreme Court has lost its honor</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/sunday-talk-show-tip-sheet-85575.html?ml=po_e">Sunday talk show tip sheet</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">3</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77902.html">Keystone not making conference cut</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/sen-crapo-wont-fight-dui-charge-tester-higher-in-second-test-85574.html?ml=po_e">Sen. Crapo won't fight DUI charge</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">4</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77896.html">Dems to SCOTUS: Don't even think about it</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/bipartisan-deal-pitched-on-filibuster-85572.html?ml=po_e">Filibuster compromise pitched</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">5</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77894.html">Fundraising via text faces hurdles</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/kerry-dems-back-markey-for-senate-85571.html?ml=po_e">Kerry, Dems back Markey for Senate</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">6</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77891.html">Document: GOP to go slow on health</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/congress-tries-to-avoid-dairy-disaster-85567.html?ml=po_e">Congress tries to avoid dairy disaster</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">7</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77890.html">New GOP line: Let's work together post-ruling</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/10-new-political-books-for-new-year-85564.html?ml=po_e">10 new political books for new year</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">8</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77888.html">Report: Gun-walking not part of plan</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/fiscal-cliff-lawmakers-predict-no-deal-out-of-wh-meeting-85565.html?ml=po_e">Obama to Congress: It's time for a deal</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">9</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77887.html">Boehner: Highway, loan bill close</a></h6>
-                        </li>
-					
-                        <li class="even">
-                            <h5 class="increment">10</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77886.html">McCaskill: DNC chatter is 'stupid'</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/moore-leave-piers-alone-85559.html?ml=po_e">Moore: 'Leave Piers alone!'</a></h6>
                         </li>
 					                           
                 </ol>
@@ -804,58 +713,58 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 											
             	<div class="meta-data">
             		
-                	<p>Updated: 06/27/2012 5:32 PM ET</p>
+                	<p>Updated: 12/29/2012 8:02 AM ET</p>
                 </div>
                 <ol class="story-list incremented">
 					
                         <li>
                             <h5 class="increment">1</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77911.html">Judge: Florida voter purge is legal</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/60b-sandy-aid-package-clears-senate-85576.html?ml=po_e">$60B in Sandy aid clears Senate</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">2</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77907.html">Our Supreme Court has lost its honor</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/sunday-talk-show-tip-sheet-85575.html?ml=po_e">Sunday talk show tip sheet</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">3</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77902.html">Keystone not making conference cut</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/sen-crapo-wont-fight-dui-charge-tester-higher-in-second-test-85574.html?ml=po_e">Sen. Crapo won't fight DUI charge</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">4</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77896.html">Dems to SCOTUS: Don't even think about it</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/bipartisan-deal-pitched-on-filibuster-85572.html?ml=po_e">Filibuster compromise pitched</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">5</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77894.html">Fundraising via text faces hurdles</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/kerry-dems-back-markey-for-senate-85571.html?ml=po_e">Kerry, Dems back Markey for Senate</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">6</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77891.html">Document: GOP to go slow on health</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/congress-tries-to-avoid-dairy-disaster-85567.html?ml=po_e">Congress tries to avoid dairy disaster</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">7</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77890.html">New GOP line: Let's work together post-ruling</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/10-new-political-books-for-new-year-85564.html?ml=po_e">10 new political books for new year</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">8</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77888.html">Report: Gun-walking not part of plan</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/fiscal-cliff-lawmakers-predict-no-deal-out-of-wh-meeting-85565.html?ml=po_e">Obama to Congress: It's time for a deal</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">9</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77887.html">Boehner: Highway, loan bill close</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/moore-leave-piers-alone-85559.html?ml=po_e">Moore: 'Leave Piers alone!'</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">10</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77886.html">McCaskill: DNC chatter is 'stupid'</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/thatcher-papers-show-fascination-with-reagan-visit-85555.html?ml=po_e">What not to wear: Reagan edition</a></h6>
                         </li>
 					                           
                 </ol>
@@ -866,58 +775,58 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 											
             	<div class="meta-data">
             		
-                	<p>Updated: 06/27/2012 5:32 PM ET</p>
+                	<p>Updated: 12/29/2012 8:02 AM ET</p>
                 </div>
                 <ol class="story-list incremented">
 					
                         <li>
                             <h5 class="increment">1</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77911.html">Judge: Florida voter purge is legal</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/60b-sandy-aid-package-clears-senate-85576.html?ml=po_e">$60B in Sandy aid clears Senate</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">2</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77907.html">Our Supreme Court has lost its honor</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/sunday-talk-show-tip-sheet-85575.html?ml=po_e">Sunday talk show tip sheet</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">3</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77902.html">Keystone not making conference cut</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/sen-crapo-wont-fight-dui-charge-tester-higher-in-second-test-85574.html?ml=po_e">Sen. Crapo won't fight DUI charge</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">4</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77896.html">Dems to SCOTUS: Don't even think about it</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/bipartisan-deal-pitched-on-filibuster-85572.html?ml=po_e">Filibuster compromise pitched</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">5</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77894.html">Fundraising via text faces hurdles</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/kerry-dems-back-markey-for-senate-85571.html?ml=po_e">Kerry, Dems back Markey for Senate</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">6</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77891.html">Document: GOP to go slow on health</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/congress-tries-to-avoid-dairy-disaster-85567.html?ml=po_e">Congress tries to avoid dairy disaster</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">7</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77890.html">New GOP line: Let's work together post-ruling</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/10-new-political-books-for-new-year-85564.html?ml=po_e">10 new political books for new year</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">8</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77888.html">Report: Gun-walking not part of plan</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/fiscal-cliff-lawmakers-predict-no-deal-out-of-wh-meeting-85565.html?ml=po_e">Obama to Congress: It's time for a deal</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">9</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77887.html">Boehner: Highway, loan bill close</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/moore-leave-piers-alone-85559.html?ml=po_e">Moore: 'Leave Piers alone!'</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">10</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77886.html">McCaskill: DNC chatter is 'stupid'</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/thatcher-papers-show-fascination-with-reagan-visit-85555.html?ml=po_e">What not to wear: Reagan edition</a></h6>
                         </li>
 					                           
                 </ol>
@@ -934,58 +843,58 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
             		
 					<p class="meta-timeframe">Showing Last 7 Days</p>
 					
-                	<p>Updated: 06/27/2012 5:32 PM ET</p>
+                	<p>Updated: 12/29/2012 8:02 AM ET</p>
                 </div>
                 <ol class="story-list incremented">
 					
                         <li>
                             <h5 class="increment">1</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77870.html">GOP plan for 'Obamacare': Nothing</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/fiscal-cliff-lawmakers-predict-no-deal-out-of-wh-meeting-85565.html?ml=po_c">Obama to Congress: It's time for a deal</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">2</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77826.html">John Roberts's big moment</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/why-they-want-to-go-over-the-fiscal-cliff-85544.html?ml=po_c">Why they want to go over the cliff</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">3</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77789.html">SCOTUS clears key part of Ariz. immigration law</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/reid-were-headed-for-cliff-and-its-gops-fault-85532.html?ml=po_c">Obama sets last-ditch cliff meeting</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">4</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77756.html">Mitt Romney's no-policy problem</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/blog-turns-tables-on-gun-map-paper-85520.html?ml=po_c">Blog turns tables on gun map paper</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">5</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77744.html">Obama taps overseas donor pool</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/when-will-the-right-start-hating-hillary-again-85510.html?ml=po_c">When will right hate Hillary again?</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">6</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77749.html">Obama widens Latino voting gap</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/fiscal-cliff-deal-increasingly-unlikely-85511.html?ml=po_c">Fiscal cliff deal increasingly unlikely</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">7</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77722.html">How Obama, Boehner got to brink</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/cops-nbc-told-dont-use-gun-clip-85497.html?ml=po_c">Cops told NBC not to use gun clip</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">8</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77714.html">Left girds for voting rights battle</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/anti-piers-petition-tops-60k-signers-85472.html?ml=po_c">Anti-Piers petition tops 80K signers</a></h6>
                         </li>
 					
                         <li>
                             <h5 class="increment">9</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77668.html">Fast and Furious brawl blows up</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/grover-obama-not-negotiating-85456.html?ml=po_c">Norquist: Obama not negotiating</a></h6>
                         </li>
 					
                         <li class="even">
                             <h5 class="increment">10</h5>
-                            <h6><a href="http://www.politico.com/news/stories/0612/77632.html">Contempt: House panel moves against Holder</a></h6>
+                            <h6><a href="http://www.politico.com/story/2012/12/why-obama-isnt-caving-85443.html?ml=po_c">Why Obama isn't caving</a></h6>
                         </li>
 					                           
                 </ol>
@@ -1000,18 +909,18 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 			<!--Start Ad-->
 			<div class="border side-ad">
 				
-<!-- begin ad tag -->
-<script type="text/javascript">
-dcCat="null";
-
-//<![CDATA[
-
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;dcopt=ist;pos=10;tile=6;sz=1x1;ord='+ord+'?"><\/script>');
-
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;dcopt=ist;pos=10;tile=6;sz=1x1;ord=722412071653448.8?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/politico/_default;pos=10;tile=6;sz=1x1;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/politico/_default;pos=10;tile=6;sz=1x1;ord=123456789?" border="0" alt="" /></a></noscript>
-<!--// end ad tag -->
-
+		<!-- begin ad tag -->
+		<script type="text/javascript">
+		dcCat="null";
+		
+		//<![CDATA[
+		
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;dcopt=ist;pos=10;tile=6;sz=1x1;ord='+ord+'?"><\/script>');
+		
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;dcopt=ist;pos=10;tile=6;sz=1x1;ord=5018564079112569?"></script>
+		<noscript><a href="http://ad.doubleclick.net/jump/politico/_default;pos=10;tile=6;sz=1x1;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/politico/_default;pos=10;tile=6;sz=1x1;ord=123456789?" border="0" alt="" /></a></noscript>
+		<!--// end ad tag -->
+		
 			</div>
 		
 
@@ -1019,8 +928,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 	
 				
 		</div><!--/.content-->
-		
-		
+	
  <div id="footer" class="footer">
 		
 		
@@ -1031,21 +939,19 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
             	<h5>News</h5>
                 <ul>
                 	<li><a href="http://www.politico.com/">POLITICO Home</a></li>
-                    <li><a href="http://www.politico.com/2012-election/">2012 LIVE</a></li>
+                    <li><a href="http://www.politico.com/pages/elections/">Elections</a></li>
                     <li><a href="http://www.politico.com/politico44/">44</a></li>
-                    <li><a href="http://www.politico.com/arena/">Arena</a></li>
-                   
                     <li><a href="http://www.politico.com/congress/">Congress</a></li>
                     <li><a href="http://www.politico.com/opinion/">Opinion</a></li>
-					<li><a href="http://www.politico.com/rogersimon/">Roger Simon</a>
-                    </li><li><a href="http://www.politico.com/multimedia/">Video</a></li>
+					<li><a href="http://www.politico.com/rogersimon/">Roger Simon</a></li>
+                    <li><a href="http://www.politico.com/multimedia/">Video</a></li>
 					<li><a href="http://www.politicopro.com/">POLITICO Pro</a></li>
+					<li><a href="http://www.politico.com/events/">Events</a></li>					
                 </ul>
 			</div>
 			<div class="col">
 				<h5>Blogs</h5>
                  <ul>
-                	<li><a href="http://www.politico.com/blogs/burns-haberman/">Burns &amp; Haberman</a></li>
                 	<li><a href="http://www.politico.com/blogs/charlie-mahtesian/">Charlie Mahtesian</a></li>
                 	<li><a href="http://www.politico.com/blogs/media/">Dylan Byers</a></li>
 					<li><a href="http://www.politico.com/blogs/click/">CLICK</a></li>
@@ -1057,7 +963,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 
 
             <div class="col">
-            	<h5>Tip Sheets</h5>
+            	<h5>Tipsheets</h5>
                 <ul>
                 	<li><a href="http://www.politico.com/playbook/">Playbook</a></li>
                     <li><a href="http://www.politico.com/morningscore/">Morning Score</a></li>
@@ -1075,7 +981,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
             <div class="col">
             	<h5>Policy</h5>
                 <ul>
-                	<li><a href="http://www.politico.com/money/">Money</a></li>
+                	<li><a href="http://www.politico.com/money/">Finance</a></li>
                     <li><a href="http://www.politico.com/healthcare/">Health Care</a></li>
                     <li><a href="http://www.politico.com/energy/">Energy</a></li>
                     <li><a href="http://www.politico.com/defense/">Defense</a></li>
@@ -1103,7 +1009,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
                 <ul class="last">
 					<li><a href="http://www.politico.com/mobile-products/">Mobile POLITICO</a></li>
 					<li><a href="http://www.politico.com/gallery/">Photos</a></li>
-					<li><a href="http://jobs.politico.com/home/index.cfm?site_id=8599">POLITICO Jobs</a></li>
+					<li><a href="http://www.powerjobs.com">POWERJobs</a></li>
 					<li><a href="http://www.politico.com/rss/">RSS / Widgets</a></li>
 					<li><a href="http://www.politico.com/sitemap/">Site Map</a></li>
 					<li><a href="http://www.cafepress.com/thepolitico">Store</a></li>
@@ -1141,12 +1047,81 @@ qacct:"p-7bhLrd63bC8jI"
 <noscript>
 <div><a href="http://www.quantcast.com/p-7bhLrd63bC8jI" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-7bhLrd63bC8jI.gif" style="display: none;" border="0" height="0" width="0" alt="Quantcast" /></a></div>
 </noscript>
-<!-- End Quantcast tag --> <!--POL-BUILDER1-INSTANCE2 {ts '2012-06-27 17:33:17'}--> 
+<!-- End Quantcast tag --> <!--POL-BUILDER1-INSTANCE2 {ts '2012-12-29 08:15:15'}--> 
 </div><!--/.siteWrapper-->
 
 
 
-		   
+
+<!-- OMNITURE CODE -->
+<!-- SiteCatalyst code version: H.20.3.
+Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/javascript"><!--
+var s_account="allbrittonpolitico";
+//--></script>
+<script type="text/javascript" src="http://www.politico.com/omtr_code.js?v=8&amp;ver=6"></script>
+<script type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+$(document).ready(function (){
+omtr.pageName="other -  - 20121229 - Privacy";
+omtr.pageType="Other";
+omtr.channel="more info";
+omtr.prop1="privacy";
+omtr.prop2="Other";
+omtr.prop12="Privacy";
+omtr.prop13="privacy/";
+omtr.prop9="no blog";
+omtr.prop29="no tipsheet";
+omtr.prop31="20121229";
+
+var omtr_code=omtr.t();if(omtr_code)document.write(omtr_code);
+});
+//--></script>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+<!--// OMNITURE CODE-->
+
+		<script type="text/javascript">
+			var _sf_async_config={};
+			/** CONFIGURATION START **/
+			
+					_sf_async_config.uid = "33430";
+				
+					_sf_async_config.path = "/privacy/";
+				
+					_sf_async_config.domain = "politico.com";
+						
+			/** CONFIGURATION END **/
+			(function(){
+			  function loadChartbeat() {
+			    window._sf_endpt=(new Date()).getTime();
+			    var e = document.createElement("script");
+			    e.setAttribute("language", "javascript");
+			    e.setAttribute("type", "text/javascript");
+			    e.setAttribute("src",
+			       (("https:" == document.location.protocol) ?
+			         "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" :
+			         "http://static.chartbeat.com/") +
+			       "js/chartbeat.js");
+			    document.body.appendChild(e);
+			  }
+			  var oldonload = window.onload;
+			  window.onload = (typeof window.onload != "function") ?
+			     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+			})();
+		</script>
+	
+		<!-- begin ad tag -->
+		<script type="text/javascript">
+		dcCat="null";
+		ord=Math.random()*10000000000000000;
+		//<![CDATA[
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;'+quantSegs+';'+crtg_content+';pos=9;tile=9;sz=1x1;ord='+ord+'?"><\/script>');
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/politico/_default;;;pos=9;tile=9;sz=1x1;ord=2055245047752256.5?"></script>
+		<noscript><a href="http://ad.doubleclick.net/jump/politico/_default;pos=9;tile=9;sz=1x1;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/politico/_default;pos=9;tile=9;sz=1x1;ord=123456789?" border="0" alt="" /></a></noscript>
+		<!--// end ad tag -->
+		
+	
 
 
- <!--timestamp {ts '2012-06-27 17:33:17'}--></body></html>
+ <!--timestamp {ts '2012-12-29 08:15:15'}--> <!--timestamp {ts '2012-12-29 08:15:15'}--><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
