@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the businessweek.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217035825id_/http%3A//www.businessweek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessweek.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229113958id_/http%3A//www.businessweek.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice - BusinessWeek
+# Privacy Policy - Businessweek
 
-Last Updated: June 27, 2011
+**Last Updated:** July 17, 2012 
 
 Bloomberg L.P. ("BLP") respects the privacy rights of our users and is strongly committed to protecting your privacy. This Privacy Policy applies to this Web site, any newsletters subscribed to via this Web site, information collected and provided to BLP when you subscribe to the digital edition of Bloomberg Businessweek at third-party websites and applications, and information collected offline when you subscribe to the print edition of Bloomberg Businessweek, but does not apply to any other products or services or to information collected in any other way (whether offline or online) by BLP, its general and limited partners, and its subsidiaries, and their respective general partners and affiliates (collectively "Bloomberg"), unless expressly indicated by Bloomberg (such as by including a link to this Privacy Policy on other Bloomberg websites or on Bloomberg mobile applications).
 
-### Collection and Use of Personal Information
+## Collection and Use of Personal Information
 
 BLP or a designated service provider collects personal information that you voluntarily provide on this Web site, on third-party websites and applications when subscribing to the digital edition of Bloomberg Businessweek, or offline in connection with your Bloomberg Businessweek print edition subscription, which may include your name, address, e-mail address, credit card number, billing information, etc. For example, BLP or a designated service provider collects personal information when you register on this Web site, request certain Bloomberg services or products, or submit the information to enter a sweepstakes, contest, or other promotion. This information is used to provide you your requested service or product and to communicate with you. We use any credit card or payment information we acquire from you to fulfill your order. Consistent with the choice you make when providing personal information, Bloomberg may use your personal information to provide you with information, special offers, and promotions via various means including e-mail. You may instruct BLP at any time not to use your personal information covered by this Privacy Policy to provide you with information, special offers, and promotions by clicking [here](http://bwso.businessweek.com/r/bwo_o.asp). Please note that if you exercise choice in this manner, you will continue to receive communications concerning your account and products and services you requested, and in response to any requests for information by you. Your choice does not apply to any other Bloomberg products or services to which you may subscribe or purchase. Please also note that this opt-out process may take some time to complete, consistent with applicable law.
 
-### Use of Cookies and Other Electronic Tools
+## Use of Cookies and Other Electronic Tools
 
 BLP and the parties with whom we work (e.g., service providers, business partners) may place, view, and/or use "cookies," Web server logs, Web beacons, or other electronic tools to collect statistical and other information about your use of this Web site and other websites. This information may include information about the IP address of your computer, browser type, language, operating system, your mobile device, geo-location data, the state or country from which you accessed this Web site, the Web pages visited, the date and the time of a visit, and the websites you visited immediately before and after visiting this Web site.
 
@@ -20,13 +20,13 @@ To assist us with the uses described in this Privacy Policy, information collect
 
 Most browsers are set to accept cookies by default. If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent. Likewise, most mobile devices allow you to disable the ability for geo-location information to be collected from your mobile device. The help function on most browsers and mobile devices contains instructions on how to set your browser to notify you before accepting cookies, disable cookies entirely, or disable the collection of geo-location data. You need to set each browser, on each device you use to surf the Web. Thus, if you use multiple browsers (e.g., AOL, Safari, Internet Explorer, Firefox, etc.), you should repeat this procedure with each one. Similarly, if you connect to the Web from multiple devices (e.g., work and home), you need to set each browser on each device. However, if you disable cookies or refuse to accept a request to place a cookie, it is possible that some parts of this Web site, such as the polls, surveys, contests, and product sales, and certain areas of the Web site for which you need to log in, will not function properly, and the advertising you receive when you visit this Web site may not be advertisements tailored to your interests.
 
-### Advertisements
+## Advertisements
 
 BLP, its designated service providers, or third-party advertisers or their advertising servers may also place or recognize unique cookies on your computer or use other electronic tools in order to help display advertisements that you see on this Web site or on other websites. Information about your visits to, and activity on, this Web site and other websites, an IP address, the number of times you have viewed an advertisement, and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising and product performance. Web beacons enable us to recognize a browser's cookie when a browser visits this Web site, and to learn which banner ads bring users to this Web site. The use and collection of your information by these third-party service providers, and third-party advertisers and their advertising servers is not covered by this Privacy Policy. For information about online behavioral advertising networks and how to "opt out" of advertising cookies placed by the Network Advertising Initiative's ("NAI") member networks, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). Note that even if you opt out of cookies placed by the NAI member networks, you will still receive online advertising.
 
 BLP's designated service providers assist BLP with advertisement display functions and related analytics for this Web site. For a list of these designated service providers and more information about their anonymous information collection and use practices, please click [here](https://login.bloomberg.com/ad_sp).
 
-### Disclosure of Personal Information and Other Information
+## Disclosure of Personal Information and Other Information
 
 BLP may share your personal and other information with our affiliates (including affiliated websites under common ownership or control) and designated service providers. BLP may share with other third parties information about our Web site users, such as your use of this Web site or other websites, and the services provided on this Web site or other websites, but only on an anonymous and aggregate basis. Consistent with the choice you make when providing personal information, BLP may also share your personal information with a sponsor or other third party ("Third-Party Provider") that provides you with special offers or promotions that may be of interest to you. You may instruct BLP at any time not to share your personal information covered by this Privacy Policy with such Third-Party Providers by clicking [here](http://bwso.businessweek.com/r/bwo_o.asp). Please note that (i) this opt-out process may take some time to complete, consistent with applicable law; and (ii) even after such opt-out process is completed, your personal and other information may continue to be shared with our affiliates (including affiliated websites under common ownership or control) and designated service providers.
 
@@ -36,36 +36,37 @@ BLP may also disclose your personal and other information to unaffiliated third 
 
 The collection, further use, and/or disclosure of your information by Third-Party Providers or by other third parties is not the responsibility of Bloomberg. Rather, such collection, use, and/or disclosure is governed by the third parties' privacy policies.
 
-### Accuracy and Security of Personal Information
+## Accuracy and Security of Personal Information
 
 Any personal information you provide to BLP is kept on secure servers. BLP uses reasonable administrative, technical, personnel, and physical measures (a) to safeguard personal information against loss, theft, unauthorized use, disclosure, or modification; and (b) to ensure the integrity of the personal information. To help us protect your privacy, you should maintain the secrecy of the logon ID and password you may have set up in connection with your participation in this Web site's service.
 
-### Accessing and Updating Your Personal Information
+## Accessing and Updating Your Personal Information
 
-To access, review, rectify, or delete your personal information covered by this Privacy Policy, please contact us by clicking here [link to: http://bwso.businessweek.com/r/bwo_o.asp].While BLP will make reasonable efforts to accommodate your request, we also reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws.
+To access, review, rectify, or delete your personal information covered by this Privacy Policy, please contact us by clicking [here](http://bwso.businessweek.com/r/bwo_o.asp). While BLP will make reasonable efforts to accommodate your request, we also reserve the right to impose certain restrictions and requirements on such access requests, if allowed or required by applicable laws.
 
-### Transfer of Personal Information To Other Countries
+## Transfer of Personal Information To Other Countries
 
 Some of the uses and disclosures mentioned in this Privacy Policy may involve the transfer of your personal information to various countries around the world that may have different levels of privacy protection than your country. By submitting your personal information, you consent to such transfers.
 
-### Links To Third-Party Websites
+## Links To Third-Party Websites
 
 BLP may provide links to third-party websites, including social networking websites. Since we do not control third-party sites and are not responsible for any information you may provide while on such sites, we encourage you to read the privacy policies on those websites before providing any of your information on such sites.
 
-### Questions Regarding This Privacy Policy
+## Questions Regarding This Privacy Policy
 
-If you have questions regarding this Privacy Policy, please contact us by clicking [here](http://bwso.businessweek.com/r/bwo_o.asp). Please include "Privacy" in the Subject line of your inquiry.
+If you have questions regarding this Privacy Policy, please contact us by clicking [here](http://www.businessweek.com/privacy).
 
-### Modifications To This Privacy Policy
+## Your California Privacy Rights
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by BLP to its affiliates and/or third parties for their direct marketing purposes.   
+To make such a request, please send an email with your first name, last name, mailing address, email address and telephone number to privacy@bloomberg.com. Please include "California Privacy Rights" in the Subject line of your email. 
+
+You may also make such a request by writing to us at: Bloomberg L.P.   
+Attn: Legal Department   
+731 Lexington Avenue   
+New York, NY 10022   
+
+
+## Modifications To This Privacy Policy
 
 BLP reserves the right to change this Privacy Policy at any time by posting revisions on this Web page. Such changes will be effective upon posting.
-
-For questions, comments, or to review or correct your information, please contact Bloomberg at [privacy@bloomberg.com](mailto:nwoods3@bloomberg.net).
-
-### Modifications To This Privacy Policy
-
-BLP reserves the right to change this Privacy Policy at any time by posting revisions on this Web page. Such changes will be effective upon posting.
-
-After you've read the policy, click your back button to return to BusinessWeek.com.
-
-Thanks
