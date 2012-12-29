@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autoworldnews.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329224818id_/http%3A//www.autoworldnews.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoworldnews.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229223021id_/http%3A//www.autoworldnews.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy policy - Auto Word News
+# Auto World News
 
 **Privacy Policy**
 
@@ -202,11 +202,11 @@ While no data transmission over the Internet is 100% secure from intrusion, we m
 
 **9\. Your California Privacy Rights.**
 
-If you are a resident of the State of California, we provide you with rmation on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as "unsubscribe") or opt-in for use of your Personal rmation by third parties (such as Advertisers) for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal rmation for marketing purposes during the preceding year.
+If you are a resident of the State of California, we provide you with information on how to exercise your disclosure choice options such as your right to opt-out (which we may sometimes refer to as "unsubscribe") or opt-in for use of your Personal information by third parties (such as Advertisers) for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal information for marketing purposes during the preceding year.
 
-If you are a California resident and wish to request rmation about how to exercise your third party disclosure choices, please send a request by email to the Privacy Administrator at info@Autoworldnews.com, Attn: Your California Privacy Rights, c/o Privacy Administrator.
+If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to the Privacy Administrator at info@Autoworldnews.com, Attn: Your California Privacy Rights, c/o Privacy Administrator.
 
-All requests must be labeled "Your California Privacy Rights" on the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete rmation.
+All requests must be labeled "Your California Privacy Rights" on the email subject line or envelope or post card. For all requests, please clearly state that the request is related to "Your California Privacy Rights", include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
 **10\. Changes to this Privacy Policy and Notice.**
 
@@ -214,13 +214,13 @@ We reserve the right to revise this Privacy Policy at any time by posting an upd
 
 **11\. Miscellaneous.**
 
-**a. Accuracy and Confidentiality.** It is your responsibility to give us current, complete, truthful and accurate rmation, including Personal rmation, and to keep such rmation up to date. We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete rmation or Personal rmation or you fail to update such rmation or Personal rmation. We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy.
+**a. Accuracy and Confidentiality.** It is your responsibility to give us current, complete, truthful and accurate information, including Personal information, and to keep such information up to date. We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or Personal information or you fail to update such information or Personal information. We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy.
 
 You are solely responsible for maintaining the strict confidentiality of your User ID, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not us, are solely responsible and liable for the activity, behavior, use and conduct on the Site under your User ID (whether used by you or any others who use your User ID), unless and until you notify us that your User ID may have been compromised, misappropriated or improperly taken or used by another party. We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user's account or any services, features or functions.
 
-Further, if you use any of the Communities features and functions made available on or through the Site, please remember that any rmation disclosed in these venues is automatically made public and please use caution when disclosing any Personal rmation in the Communities, as you do not know who will access and use your Personal rmation or for what purposes. Autoworldnews is in no way responsible for the accuracy, use, or misuse of any rmation, including Personal rmation, that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization.
+Further, if you use any of the Communities features and functions made available on or through the Site, please remember that any information disclosed in these venues is automatically made public and please use caution when disclosing any Personal information in the Communities, as you do not know who will access and use your Personal information or for what purposes. Autoworldnews is in no way responsible for the accuracy, use, or misuse of any information, including Personal information, that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization.
 
-**b. Questions.** If you have questions about this Privacy Policy or if you do not understand any rmation about how we collect, maintain, use or share your Personal rmation or Other rmation, you may contact us directly by sending an email to info@Autoworldnews.com.
+**b. Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal information or Other information, you may contact us directly by sending an email to info@Autoworldnews.com.
 
 **c. Sole Statement:** This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
 
