@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630104846id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229155723id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Become a Child Actor | Child Acting Agencies & Disney Auditions
+# Casting Babies, Kids, & Teens - Child Acting
 
 |  |  [Member Success Stories](https://web.archive.org/testimonials.php) [](https://web.archive.org/testimonials.rss.php) |   
 ---|---|---  
 |  |   
 |  |   
-|  [Entertainment News](http://starsearchcasting.com/forums/index.php?showforum=8) [](https://web.archive.org/forums/index.php?act=rssout&id=1) |   
+|  [Entertainment News](http://www.starsearchcasting.com/forums/index.php?showforum=8) [](https://web.archive.org/forums/index.php?act=rssout&id=1) |   
 ---|---|---  
 |  |   
 |  |   
