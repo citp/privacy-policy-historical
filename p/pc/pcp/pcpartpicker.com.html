@@ -1,19 +1,33 @@
-<!--The following is the downloaded HTML source of the pcpartpicker.com privacy policy that was archived on 2012-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604010245id_/http%3A//pcpartpicker.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pcpartpicker.com privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229074436id_/http%3A//pcpartpicker.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta property="og:title" content="PCPartPicker - Pick Parts. Build Your PC. Compare and Share.">
+
+	<meta property="og:title" content="PCPartPicker Privacy Policy">
+	<meta property="og:type" content="article">
+	
+	<meta property="og:image" content="http://pcpartpicker.com/static/forever/images/logo_box_white.png">
+	
+	<meta property="og:url" content="http://pcpartpicker.com/privacy/">
+	<meta property="fb:app_id" content="128672553854009">
 	<meta property="og:site_name" content="PCPartPicker">
-	<meta property="og:url" content="http://pcpartpicker.com/">
-	<meta property="fb:page_id" content="128672553854009">
+	
+
+	<meta itemprop="name" content="PCPartPicker Privacy Policy">
+	
+	<meta itemprop="image" content="http://pcpartpicker.com/static/forever/images/logo_box_white.png">
+	
+	
+
 	<title>PCPartPicker Privacy Policy - PCPartPicker</title>
+
 	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://pcpartpicker.com/blog/rss.xml">
 	<!-- XMX_ -->
 	<link rel="shortcut icon" href="/favicon.png">
 	
-	<link rel="stylesheet" type="text/css" href="/static/forever/hash/site-833e0f9b3ae326d9ff03c6409d698e90.css">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/forever/hash/site-aea2c1bc82cb04d793418a90d75e819c.js"></script>
+	<link rel="stylesheet" type="text/css" href="/static/forever/hash/site-3cf8cbe577036254d589938cc39e9fb2.css">
+	<script type="text/javascript" src="//dclnvkt1mpguh.cloudfront.net/static/forever/hash/site-5f0bbb19a0a28845835f1754c5f45824.js"></script>
 	<!--[if lte IE 8]>
 	<script language="javascript" type="text/javascript" src="/static/forever/js/flot-0.7/excanvas.min.js"></script>
 	<![endif]-->
@@ -51,6 +65,11 @@
 	
 	<script type="text/javascript">
 		$(document).ready(function() {
+			$('#secondary_menu_toggle').click(function() {
+				//$('#header_expand').slideToggle(100, function() {});
+				$('#header_expand').toggle();
+				return false;
+			});
 			init_live_search("us");
 			
 			$("#country_select").change(function(){
@@ -58,7 +77,7 @@
 				if (ccabbr != "us") {
 					var p = window.location.pathname;
 					var c = p.substr(0,4);
-					if (c == "/au/" || c == "/ca/" || c == "/de/" || c == "/fr/" || c == "/jp/" || c == "/nz/" || c == "/uk/" || c == "/us/")
+					if (c == "/au/" || c == "/ca/" || c == "/de/" || c == "/es/" || c == "/fr/" || c == "/it/" || c == "/jp/" || c == "/nz/" || c == "/uk/" || c == "/us/")
 						p = p.substr(3);
 					if (ccabbr != "us")
 						p = "/" + ccabbr + p;
@@ -83,23 +102,26 @@
 </head>
 <body>
 	<div class="container_16" id="wrapper">	
-		<div class="grid_5" id="logo"><a href="/"><img src="/static/forever/images/logo.png" alt="PCPartPicker"></a></div>
-		<div class="grid_11" id="header_nav">
+		<div class="grid_4" id="logo"><a href="/"><img src="/static/forever/images/logo.png" alt="PCPartPicker"></a></div>
+		<div class="grid_12" id="header_nav">
 			<div id="header_login">
 
 				<a href="/accounts/login/?next=/privacy/">Log In</a> | <a href="/accounts/register/">Register</a>
 
 				
-				|
-				<select id="country_select">
+				| <select id="country_select">
 					
 					<option value="au">Australia</option>
 					
 					<option value="ca">Canada</option>
 					
-					<option value="de">Deutchland</option>
+					<option value="de">Deutschland</option>
+					
+					
 					
 					<option value="fr">France</option>
+					
+					
 					
 					
 					
@@ -114,14 +136,15 @@
 			</div>
 			<div id="header_links">
 
+				<div style="position:absolute;top:2px;left:0px;"><g:plusone annotation="bubble" align="right" size="medium" href="http://pcpartpicker.com"></g:plusone></div>
 
-				<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fpcpartpicker&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=20" scrolling="no" frameborder="0" style="border:none; margin-bottom:-6px; overflow:hidden; width:100px; height:20px;" allowtransparency="true" class="ui-corner-all"></iframe>
 
-				<a href="/blog/">Blog</a> |
-				<!-- <a href="/guided/">Buying Guide</a> | -->
-				<a href="/parts/pricedrop/">Price Drops</a> |
-				<a href="/user_r/saved/" rel="nofollow">Saved Builds</a>
+				<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fpcpartpicker&amp;layout=button_count&amp;show_faces=false&amp;width=200&amp;action=like&amp;colorscheme=light&amp;height=20" scrolling="no" frameborder="0" style="border:none;margin-bottom:-6px;margin-left:100px;margin-right:8px;overflow:hidden;width:170px; height:20px;" allowtransparency="true"></iframe>
 
+				<a href="/blog/">Blog</a>
+				| <a href="http://store.pcpartpicker.com">Store</a>
+				| <a href="/parts/builds/">Completed Builds</a>
+				| <a href="/parts/pricedrop/">Price Drops</a>
 
 				| <form action="/search/" method="get" style="display:inline !important;">
 				<input id="search_q" type="text" name="q" size="16" autocomplete="off" style="display:inline !important;">
@@ -134,19 +157,90 @@
 		<div class="grid_16" id="header">
 			<div class="menubar">
 				<ul class="group">
-					<li class="item firstandlast" style="margin-right:12px;"><a style="width:118px;" href="/parts/partlist/"><span class="outer"><span class="inner partlist">System Build</span></span></a></li>
-					<li class="item first"><a href="/parts/cpu/"><span class="outer"><span class="inner cpu">CPU</span></span></a></li>
-					<li class="item middle"><a href="/parts/motherboard/"><span class="outer"><span class="inner motherboard">Motherboard</span></span></a></li>
-					<li class="item middle"><a href="/parts/memory/"><span class="outer"><span class="inner memory">Memory</span></span></a></li>
-					<li class="item middle"><a href="/parts/internal-hard-drive/"><span class="outer"><span class="inner internalharddrive">Hard Drive</span></span></a></li>
-					<!--<li class="item middle"><a href="/parts/solid-state-drive/" ><span class="outer"><span class="inner solidstatedrive">SSD</span></span></a></li>-->
-					<li class="item middle"><a href="/parts/video-card/"><span class="outer"><span class="inner videocard">Video Card</span></span></a></li>
-					<li class="item middle"><a href="/parts/power-supply/"><span class="outer"><span class="inner powersupply">Power Supply</span></span></a></li>
-					<li class="item middle"><a href="/parts/case/"><span class="outer"><span class="inner case">Case</span></span></a></li>
-					<li class="item last" style="margin-right:12px;"><a href="/parts/monitor/"><span class="outer"><span class="inner monitor">Monitor</span></span></a></li>
-					<li class="item firstandlast"><a style="width:118px;" href="/benchmarks/"><span class="outer"><span class="inner benchmarks">Benchmarks</span></span></a></li>
+					<li class="item firstandlast" style="margin-right:12px;"><a style="width:118px;" href="/parts/partlist/"><span class="outer"><span class="inner m_partlist">System Build</span></span></a></li>
+					<li class="item first"><a href="/parts/cpu/"><span class="outer"><span class="inner m_cpu">CPU</span></span></a></li>
+					<li class="item middle"><a href="/parts/motherboard/"><span class="outer"><span class="inner m_motherboard">Motherboard</span></span></a></li>
+					<li class="item middle"><a href="/parts/memory/"><span class="outer"><span class="inner m_memory">Memory</span></span></a></li>
+					<li class="item middle"><a href="/parts/internal-hard-drive/"><span class="outer"><span class="inner m_internalharddrive">Storage</span></span></a></li>
+					<li class="item middle"><a href="/parts/video-card/"><span class="outer"><span class="inner m_videocard">Video Card</span></span></a></li>
+					<li class="item middle"><a href="/parts/power-supply/"><span class="outer"><span class="inner m_powersupply">Power Supply</span></span></a></li>
+					<li class="item middle"><a href="/parts/case/"><span class="outer"><span class="inner m_case">Case</span></span></a></li>
+					<li class="item last" style="margin-right:12px;"><a id="secondary_menu_toggle" href="/parts/monitor/"><span class="outer"><span class="inner m_more">More...</span></span></a></li>
+					<li class="item firstandlast"><a style="width:118px;" href="/benchmarks/"><span class="outer"><span class="inner m_benchmarks">Benchmarks</span></span></a></li>
 				</ul>
 			</div>
+		</div>
+		<div class="grid_16" id="header_expand" style="display:none;">
+			<div style="color:#fff;padding:12px;">
+				<div style="position:relative;left:50%;float:left;"><div style="position:relative;left:-50%;float:left;">
+				<div class="secondary_menugroup">
+					<b>Cooling</b>
+					<ul class="inside">
+						<li><a href="/parts/cpu-cooler/">CPU Coolers</a></li>
+					</ul>
+				</div>
+				<div class="secondary_menugroup">
+					<b>Drives</b>
+					<ul class="inside">
+						<li><a href="/parts/optical-drive/">Optical Drives</a></li>
+					</ul>
+				</div>
+				<div class="secondary_menugroup">
+					<b>Expansion</b>
+					<ul class="inside">
+						<li><a href="/parts/sound-card/">Sound Cards</a></li>
+					</ul>
+				</div>
+				<div class="secondary_menugroup">
+					<b>Software</b>
+					<ul class="inside">
+						<li><a href="/parts/os/">Operating Systems</a></li>
+					</ul>
+				</div>
+				<div class="secondary_menugroup">
+					<b>Display</b>
+					<ul class="inside" style="margin-bottom:12px;">
+						<li><a href="/parts/monitor/">Monitors</a></li>
+					</ul>
+				</div>
+				<div class="secondary_menugroup_last">
+					<b>Input</b>
+					<ul class="inside">
+						<li><a href="/parts/keyboard/">Keyboards</a></li>
+						<li><a href="/parts/mouse/">Mice</a></li>
+					</ul>
+				</div>
+				<div class="clear"></div>
+				</div></div>
+				<div class="clear"></div>
+			</div>
+			<!--
+			<div class="menubar secondary_menubar" style="margin-top:0px;">
+				<ul class="group">
+					<li class="item first"><a href="/parts/monitor/" ><span class="outer"><span class="inner m_soundcard">Sound Card</span></span></a></li>
+					<li class="item middle"><a href="/parts/sound-card/" ><span class="outer"><span class="inner m_soundcard">RAID Card</span></span></a></li>
+					<li class="item middle"><a href="/parts/sound-card/" ><span class="outer"><span class="inner m_soundcard">Video Capture</span></span></a></li>
+					<li class="item last" style="margin-right:12px;"><a href="/parts/os/" ><span class="outer"><span class="inner m_os">Case Fan</span></span></a></li>
+
+					<li class="item first"><a href="/parts/monitor/" ><span class="outer"><span class="inner m_soundcard">Sound Card</span></span></a></li>
+					<li class="item middle"><a href="/parts/mouse/" ><span class="outer"><span class="inner m_mouse">Wi-Fi Network</span></span></a></li>
+					<li class="item last" style="margin-right:12px;"><a href="/parts/os/" ><span class="outer"><span class="inner m_os">Case Fan</span></span></a></li>
+
+					<li class="item first"><a href="/parts/monitor/" ><span class="outer"><span class="inner m_soundcard">Sound Card</span></span></a></li>
+					<li class="item middle"><a href="/parts/mouse/" ><span class="outer"><span class="inner m_mouse">Wi-Fi Network</span></span></a></li>
+					<li class="item last" style="margin-right:12px;"><a href="/parts/os/" ><span class="outer"><span class="inner m_os">Case Fan</span></span></a></li>
+				</ul>
+			</div>
+			<div class="menubar secondary_menubar" style="margin-top:0px;margin-left:130px;">
+				<ul class="group">
+					<li class="item first"><a href="/parts/monitor/" ><span class="outer"><span class="inner m_monitor">Monitor</span></span></a></li>
+					<li class="item middle"><a href="/parts/keyboard/" ><span class="outer"><span class="inner m_keyboard">Keyboard</span></span></a></li>
+					<li class="item middle"><a href="/parts/mouse/" ><span class="outer"><span class="inner m_mouse">Mouse</span></span></a></li>
+					<li class="item middle"><a href="/parts/sound-card/" ><span class="outer"><span class="inner m_soundcard">Sound Card</span></span></a></li>
+					<li class="item last" style="margin-right:12px;"><a href="/parts/os/" ><span class="outer"><span class="inner m_os">OS</span></span></a></li>
+				</ul>
+			</div>
+			-->
 		</div>
 		<div class="grid_16">
 			<div id="tabs">
@@ -215,10 +309,6 @@ A cookie is a string of information that a website stores on a visitor’s compu
 <b>Privacy Policy Changes</b>
 <br>Although most changes are likely to be minor, PCPartPicker may change its Privacy Policy from time to time, and in PCPartPicker’s sole discretion. PCPartPicker encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 </p>
-<p>
-<b>Cookies</b>
-<br>Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
-</p>
 	</div>
 	<div class="clear"></div>
 
@@ -226,13 +316,16 @@ A cookie is a string of information that a website stores on a visitor’s compu
 		<div class="clear"></div>
 	</div>
 	<div class="container_16" id="footer">
-		<a href="/about/">About</a> | <a href="/contact/">Contact</a> | <a href="/merchants/">Merchants</a> | <a href="/tos/">Terms of Use</a> | <a href="/privacy/">Privacy Policy</a>
+		<a href="/about/">About</a> | <a href="/contact/">Contact</a>
+		<br><a href="/tos/">Terms of Use</a> | <a href="/privacy/">Privacy Policy</a>
 		<br>&nbsp;
 		<br>©2012 PCPartPicker, LLC.  All rights reserved.
 
 	</div>
 	
+	<!-- Place this render call where appropriate -->
+	<script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = 'https://apis.google.com/js/plusone.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })(); </script>
 	
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","e2df38885d",285320,"Y1NWYkRSXUBRAkIMWVoZckNYUEdaXw8ZCE9HX0BTGEVaVkcSDBVEXUBVVU8=",0,37,new Date().getTime(),"","","","",""])</script>
 
-
-</body></html>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
