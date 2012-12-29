@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sproutvideo.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506043410id_/http%3A//sproutvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutvideo.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229134526id_/http%3A//sproutvideo.com/privacy) for the most accurate reproduction.*
 
-# SproutVideo - Video Hosting and Streaming for Businesses
+# Video Hosting and Streaming for Businesses - SproutVideo
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
 
