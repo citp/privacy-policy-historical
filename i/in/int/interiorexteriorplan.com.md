@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interiorexteriorplan.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630164210id_/http%3A//www.interiorexteriorplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiorexteriorplan.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229100456id_/http%3A//www.interiorexteriorplan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interior Exterior Plan
 
