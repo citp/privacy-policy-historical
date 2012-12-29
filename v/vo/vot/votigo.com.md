@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the votigo.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527163324id_/http%3A//www.votigo.com/corp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votigo.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229120039id_/http%3A//www.votigo.com/corp/privacy.php) for the most accurate reproduction.*
 
 # Votigo social media solutions - Privacy Policy
 
-|   | 
-
-Votigo Privacy Policy 
-
-At Votigo, Inc. we share your concerns about privacy while using the website found at [www.votigo.com](http://www.votigo.com/) (the "Site"). Accordingly we want you to understand what types of information we are collecting and what may happen to that information. This Privacy Policy is incorporated into and is subject to the Votigo [Terms of Use](https://web.archive.org/web/20120527163324id_/http%3A//www.votigo.com/corp/terms.php). Your use of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and our Terms of Use.
+At Votigo, Inc. we share your concerns about privacy while using the website found at [www.votigo.com](http://www.votigo.com/) (the "Site"). Accordingly we want you to understand what types of information we are collecting and what may happen to that information. This Privacy Policy is incorporated into and is subject to the Votigo [Terms of Use](https://web.archive.org/web/20121229120039id_/http%3A//www.votigo.com/corp/terms.php). Your use of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and our Terms of Use.
 
 **COLLECTION OF INFORMATION**
 
@@ -42,38 +38,17 @@ Votigo has security measures in place to help protect against the loss, misuse a
 
 Votigo helps protect personally identifiable information by utilizing both online and offline security methods, including firewalls, passwords and restricted physical access to the places where your information is stored. Our staff is trained to comply with our security procedures, and our security procedures are regularly reviewed and revised, if necessary, by the Privacy team at Votigo.
 
-If you have any questions about security issues at our site, please use our [contact form](https://web.archive.org/corp/contact.php) and we will try to answer your questions. 
+If you have any questions about security issues at our site, please use our [contact form](https://web.archive.org/contact.php) and we will try to answer your questions. 
+
+**OTHER PROVISIONS**  
+
 
   * The Site is hosted in the United States and is intended for and directed to Users in the United States. If you are a User accessing the Site from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Site, which is governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
   * Your use of this site indicates an acceptance of the terms of the Privacy Policy. Votigo reserves the right to update or amend this Privacy Policy at any time.
   * In the event that Votigo sells, assigns or transfers some or all of its business to a successor or acquirer, Votigo may sell, assign or transfer all of your information, regardless of your opt status, to such successor or acquirer. 
   * This site contains links to other sites. Please be aware that Votigo does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site. 
-  * The State of CA enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits users of Votigo, Inc.'s Site who are CA residents to request certain information regarding its disclosure of personal information during the past year for marketing purposes. To make such a request, you can use our [contact form](https://web.archive.org/corp/contact.php).
+  * The State of CA enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits users of Votigo, Inc.'s Site who are CA residents to request certain information regarding its disclosure of personal information during the past year for marketing purposes. To make such a request, you can use our [contact form](https://web.archive.org/contact.php).
 
 
 
-Your privacy is important to Votigo. If you have questions about any of the provisions described above, please contact us using our [contact form](https://web.archive.org/corp/contact.php).
-
-|    
----|---|---  
-  
-Votigo, Inc.
-
-San Francisco Bay Area  
-251 Lafayette Circle  
-Suite #330  
-Lafayette, CA 94549
-
-Boulder, CO  
-1731 15th Street  
-Suite 101  
-Boulder, CO 80302  
- 
-
-Hyderabad, India  
-8-2-332/8/A,  
-Aditya House,  
-1st Floor,  
-Rd #3, Banjara Hills  
-Hyderabad, 500034  
- 
+Your privacy is important to Votigo. If you have questions about any of the provisions described above, please contact us using our [contact form](https://web.archive.org/contact.php).
