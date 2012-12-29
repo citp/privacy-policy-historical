@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkcentral.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528050142id_/http%3A//www-k6.thinkcentral.com/nsmedia/footer/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkcentral.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135854id_/http%3A//www-k6.thinkcentral.com/nsmedia/footer/privacy_policy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -88,7 +88,7 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 
 > Attention: Tech Support   
 >  Phone: 800.419.3900   
->  Email: [support@thinkcentral.com](https://web.archive.org/web/20120528050142id_/http%3A//www-k6.thinkcentral.com/nsmedia/footer/mailto;support@thinkcentral.com)
+>  Email: [support@thinkcentral.com](https://web.archive.org/web/20121229135854id_/http%3A//www-k6.thinkcentral.com/nsmedia/footer/mailto;support@thinkcentral.com)
 
 10\. Effective Date 
 
