@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504171745id_/http%3A//www.snapsitemap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229074643id_/http%3A//www.snapsitemap.com/privacy) for the most accurate reproduction.*
 
-# SnapSiteMap - The easiest way to create and manage your sitemap
+# SnapSitemap - The easiest way to create a sitemap
 
 **What information do we collect?**
 
@@ -63,8 +63,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.SnapSitemap.com  
-530 Lawrence Expwy  
-Suite 394  
-Sunnyvale, CA  
-94085  
-privacy[at]snapsitemap[dot]com
+1001 2nd St, Suite 295, Napa, CA 94559 privacy[at]snapsitemap[dot]com
