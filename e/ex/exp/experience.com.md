@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630191618id_/http%3A//www.experience.com/entry-level-jobs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229114106id_/http%3A//www.experience.com/entry-level-jobs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Experience™
+
+[Social Buttons](http://dev.linksku.com/sharepost/index.htm "Social bookmarking button WordPress Plugin") by [Linksku](http://linksku.com/ "Discover the best links on the web")
 
 Experience, Inc. (“Experience,” “we” or “us”) is committed to maintaining the privacy of personal information of users (“you” or “User”) of the Experience Network (the “Experience Network” or the “Site”). Since we collect certain types of information about our Users, we want you to understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we collect, how we use it and how to correct and change it.
 
@@ -88,7 +90,3 @@ Boston, MA 02109
 Phone: 800-583-7741  
 Fax: 617-305-7901  
 Attn: Client Services
-
-  *   *   *   * [](http://www.google.com/buzz/post "Post to Google Buzz")
-
-
