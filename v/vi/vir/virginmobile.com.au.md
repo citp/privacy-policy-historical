@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510081655id_/http%3A//www.virginmobile.com.au/en_au/vma/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229151529id_/https%3A//www.virginmobile.com.au/en_au/vma/privacy) for the most accurate reproduction.*
 
 # Privacy policy – Virgin Mobile
+
+## Privacy policy
 
 This policy is a public document that sets out our approach in relation to the treatment of Personal Information. It outlines our collection, use, disclosure, security measures and individual's right to access and correct Personal Information.
 
@@ -128,3 +130,43 @@ For more information regarding our Privacy Policy please contact us.
 **Telephone:** 1300 555 100 any day, 7am to 11pm  
 **Online:** virginmobile.com.au  
 **Mail:** Locked Bag 17, ROYAL EXCHANGE NSW 1225
+
+## Privacy Collection Statement
+
+### Collecting your Personal Information
+
+  1. We collect your Personal Information mainly to supply you with the products and services you order from us and our related bodies corporate (Group Companies), and also for: 
+    1. billing and account management;
+    2. business planning and product development; and
+    3. providing you with information about promotions, products and services offered by ourselves, other Group Companies and our partners (including other Virgin Group companies).
+  2. By law we must collect certain information from you, including your name, address, telephone service number and other details, for inclusion in the Integrated Public Number Database (IPND). The IPND is an important resource for emergency service organisations. If your phone number is unlisted, its use and disclosure will be strictly controlled.
+  3. If you do not provide all the Personal Information we request, we may be unable to supply the products or services you have requested, or we may be restricted in the way we supply these products or services to you. 
+
+### Disclosing your Personal Information
+
+  4. We may disclose Personal Information about you (for the purposes set out in clause 1) to: 
+    1. any of our Group companies – which includes our parent company, Optus;
+    2. our dealers, distribution partners, contractors, franchisees, any joint venture partners, etc; and;
+    3. our suppliers who need access to this information to provide us with services, enabling us to supply you with the products and services you have ordered.
+
+### Your rights regarding your Personal Information
+
+  5. If you only want communications from us that are account-related or legally required, you can "opt out" of all other types of communications. To opt out, contact our customer service line on 1300 555 100 and we will action your request as soon as reasonably possible, at no extra charge.
+  6. You may request access to Personal Information we hold about you and also request that this information be corrected if it is inaccurate. Under special circumstances we may refuse such requests. Please contact 1300 555 100 if you require more information about accessing your records. 
+
+### Disclosing your credit information
+
+  7. To process your application and for ongoing credit management of your account, we may need to disclose to a credit reporting agency: 
+    1. personal identifying details, including your name, current and previous addresses, driver's licence number, date of birth, employer and/or any other information you have provided to us to conduct a credit check (for example, your passport number);
+    2. the fact you have applied for a service, and any credit limit on your account;
+    3. the amount of any payments which are overdue for at least sixty (60) days, when steps have been taken to recover those overdue payments;
+    4. advice that a previously-reported overdue payment is no longer overdue;
+    5. cheques or credit card payments that have been dishonoured;
+    6. court judgments or bankruptcy orders made against you;
+    7. that, in our opinion, you have committed a serious credit infringement; and
+    8. when we cease to provide products or services to you.
+  8. You authorise us to disclose the information described in clause 7 to a credit reporting agency, and to seek from or give to any credit providers authorised by you or named in a credit report or to other telecommunications providers (carriers or carriage service providers), and our franchisees, agents, dealers, contractors and outlets, the same information and any other information on this form and any other information on your credit worthiness, credit history or credit capacity that credit providers are allowed to give under the Privacy Act.
+  9. You authorise us to obtain and use personal credit information (eg, your existing household loans and personal credit card history) if you apply for commercial credit (to use our service and your phone as a sole trader). You authorise us to obtain and use commercial information about your commercial credit worthiness or commercial history (your existing credit record as a sole trader) when considering an application for consumer credit, for example where the Service will be used for domestic purposes.
+  10. We may refuse or cancel the supply of products or services based on our credit assessment of you. You may view and correct any credit information we hold about you.
+
+
