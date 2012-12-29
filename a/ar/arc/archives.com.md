@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the archives.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629174542id_/http%3A//www.archives.com/%3F_act%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archives.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229133508id_/http%3A//www.archives.com/%3F_act%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Archives
 
-Effective Date: September 29, 2009
+Effective Date: November 28, 2012
 
 **What This Privacy Policy Covers**
 
-This policy covers how Archives.com ("Website", "we", "us", "our") treats personal information that we collect and receive, including information related to your past use of the Website and/or our products or services. Personal information is information about you that is personally identifiable like your name, address, credit or debit card number, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that we do not own or control or to people that we do not employ or manage. 
+This policy covers how Ancestry.com Operations Inc., operating the website Archives.com ("Website", "we", "us", "our") treats personal information that we collect and receive, including information related to your past use of the Website and/or our products or services. Personal information is information about you that is personally identifiable like your name, address, credit or debit card number, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that we do not own or control or to people that we do not employ or manage. 
 
 **Information Collection and Use**
 
@@ -45,7 +45,7 @@ We do not rent, sell, or share personal information about you with other people 
   * You can edit your Account Information within our members' area by clicking "My Account" and then "Make Changes".
   * To exclude yourself from commercial emails and alerts sent by us, simply click the "Unsubscribe" link provided in any commercial email message.
   * We reserve the right to send you certain communications relating to our service, such as service announcements, administrative messages and customer receipts without offering you the opportunity to opt-out of receiving them.
-  * Archives.com allows you to suppress your personal information from living person search results displayed on this website. To do this, please submit the [opt-out request form](https://web.archive.org/web/20120629174542id_/http%3A//www.archives.com/GA.aspx?_act=Optout "Opt-Out Request"). Your request will be processed in 1 to 7 business days.
+  * Archives.com allows you to suppress your personal information from living person search results displayed on this website. To do this, please submit the [opt-out request form](http://www.archives.com/?_act=Optout "Opt-Out Request"). Your request will be processed in 1 to 7 business days.
 
 
 
@@ -61,7 +61,7 @@ We do not rent, sell, or share personal information about you with other people 
 
 We are a participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This privacy statement covers the Website www.Archives.com. As this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact us at privacy@archives.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url). TRUSTe will then serve as a liaison with the site to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact us at [privacy@Archives.com](mailto:privacy@Archives.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url). TRUSTe will then serve as a liaison with the site to resolve your concerns.
 
 **Changes to this Privacy Policy**
 
@@ -69,7 +69,7 @@ We may update this policy. We will notify you about significant changes in the w
 
 **How You Can Contact Us about Privacy Questions**
 
-If you have questions or concerns regarding this policy, you can contact us by emailing privacy@archives.com, calling 1-888-896-4442 or writing to us at Archives.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. Archives.com maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065.
+If you have questions or concerns regarding this policy, you can contact us by emailing privacy@archives.com, calling 1-888-896-4442 or writing to us at Archives.com, Attn: Privacy Department, 360 W 4800 N, Provo, UT 84604. Archives.com maintains offices at 360 W 4800 N, Provo, UT 84604.
 
 **To Unsubscribe from Email Communications**
 
