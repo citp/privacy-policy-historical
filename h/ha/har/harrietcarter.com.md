@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530144510id_/http%3A//www.harrietcarter.com/index.cfm/fuseaction/content.page/nodeID/6c002c72-34ac-4daa-99fc-cf3be2f16786) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229134352id_/http%3A//www.harrietcarter.com/index.cfm/fuseaction/content.page/nodeID/6c002c72-34ac-4daa-99fc-cf3be2f16786) for the most accurate reproduction.*
 
-# Harriet Carter Privacy Statement
+# HarrietCarter.com: Privacy Statement
 
 HarrietCarter.com has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please let us know. We'll do all we can to make you feel comfortable at HarrietCarter.com.
 
@@ -24,24 +24,32 @@ HarrietCarter.com has created this privacy statement because we believe you have
 
   **Who Else Has Access to the Information I Provide to HarrietCarter.com?**
 
-  Once you make a purchase from HarrietCarter.com your name becomes a part of our customer file. As a valued Harriet Carter customer you may want to receive catalog mailings from us in the future. If you do not wish to receive such mailings, please send an email to our Customer Service Department or send the mailing label from the back of your catalog and attach it to a piece of paper with your request. Mail this information to Mail Preference Service, Harriet Carter Gifts, Inc., 425 Stump Road, North Wales, PA 19454.
+ _Mailings_
+
+Once you make a purchase from HarrietCarter.com your name becomes a part of our customer file. As a valued Harriet Carter customer you may want to receive catalog mailings from us in the future. If you do not wish to receive such mailings, please send an email to our Customer Service Department or send the mailing label from the back of your catalog and attach it to a piece of paper with your request. Mail this information to Mail Preference Service, Harriet Carter Gifts, Inc., 425 Stump Road, North Wales, PA 19454.
 
   You may also receive mailings from other carefully screened companies with whom we sometimes share our valued customer list. If you would prefer not to receive these mailings, please send an email to our Customer Service Department, or write us at: Mail Preference Service, Harriet Carter Gifts, Inc., 425 Stump Road, North Wales, PA 19454.
 
-Harriet Carter does not sell or rent your email address.
+_Email  
+_
 
-  Another form of third party information that may be used is personally identifiable information submitted for another person by you. For instance, if you want to buy a gift for a friend and have it shipped to them. Other than that, HarrietCarter.com does not sell, rent, or give away your personal information to anyone. Also, we may release account information when we believe, in good faith, that such release is reasonably necessary to: 
+Harriet Carter **does not sell or rent your email address**.
+
+ _Third Party_
+
+Another form of third party information that may be used is personally identifiable information submitted for another person by you. For instance, if you want to buy a gift for a friend and have it shipped to them. Other than that, HarrietCarter.com does not sell, rent, or give away your personal information to anyone. Also, we may release account information when we believe, in good faith, that such release is reasonably necessary to: 
 
 1. comply with the law,   
 2. enforce or apply the terms of any of our user agreements or   
 3. protect the rights, property, or safety of HarrietCarter.com and our users, or others.
 
-When you complete the mailing address section on “My Account”…  
+ _When you complete the mailing address section on “My Account”…  
+_
+
 If you elect to have HarrietCarter.com retain frequent mailing addresses in our database,  these individual(s) are not considered Harriet Carter customers, and they will not be added to our catalog mailing list.
 
-When you use the "Email-A-Friend" option...  
-This unique feature allows you to share information about a particular item or wish list that you think may be interesting to another individual. We do not retain your friend’s name or email address, share their information with outside parties, nor does Harriet Carter contact them.   
-If this individual purchases any of the items from HarrietCarter.com, whether these items appear on your wish list or not, this individual becomes a customer of Harriet Carter and we will include their name on the mailing list of customers for our catalog.
+_When you use the "Email-A-Friend" option...  
+_This unique feature allows you to share information about a particular item or wish list that you think may be interesting to another individual. We do not retain your friend’s name or email address, share their information with outside parties, nor does Harriet Carter contact them.  However, if this individual purchases any of the items from HarrietCarter.com, whether these items appear on your wish list or not, this individual becomes a customer of Harriet Carter and we will include their name on the mailing list of customers for our catalog.
 
 **How Do I Manage How Much Information I Share or if I Share Any At All?  
 **   
@@ -76,6 +84,6 @@ Placing an order does not create an account. Creating an account does not automa
 
 These emails are not promotional in nature, they are necessary communications to assure you, our customer, that your order has been received and processed. If you prefer that these required emails are sent to a specific address (for example, you would prefer not to receive these at your place of business) use a personal email address when the forms on the site require one. This includes, but is not limited to:
 
-• Username and password on “My Account” (we do not retain credit card information on “My Account”)  
+• Username and password on “My Account” ( **we do not retain credit card information** on “My Account”)  
 • Return Email address on Customer Service Form  
 • Requested email address on the checkout pages
