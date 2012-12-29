@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portsmouthfc.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504171938id_/http%3A//www.portsmouthfc.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portsmouthfc.co.uk privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229140120id_/http%3A//www.portsmouthfc.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Portsmouth Football Club | Privacy Policy
 
@@ -38,7 +38,7 @@ We use cookies as part of our normal business procedure to determine if you have
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.  
 Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Google's use of the DART cookie enables it and its partners to serve ads based on your visit.   
-Users may opt out of the use of the DART cookie by visiting the advertising opt-out page (<http://www.google.com/privacy_ads.html>). You can also opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20120504171938id_/http%3A//www.portsmouthfc.co.uk/www.networkadvertising.org/managing/opt_out.asp). 
+Users may opt out of the use of the DART cookie by visiting the advertising opt-out page (<http://www.google.com/privacy_ads.html>). You can also opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20121229140120id_/http%3A//www.portsmouthfc.co.uk/www.networkadvertising.org/managing/opt_out.asp). 
 
 LINKS TO THIRD PARTY WEBSITESOur website may contain links to third party websites, Any link to other websites is not an endorsement of such websites. As these websites are controlled and maintained by others, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
