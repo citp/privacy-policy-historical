@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zuzutop.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629213649id_/http%3A//zuzutop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuzutop.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229145825id_/http%3A//zuzutop.com/privacy-policy) for the most accurate reproduction.*
 
-# ZuZu Top | Privacy Policy
+# Privacy Policy | ZuZu Top
 
 zuzutop.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
