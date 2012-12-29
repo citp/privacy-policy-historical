@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the iosnoops.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105852id_/http%3A//www.iosnoops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iosnoops.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135030id_/http%3A//www.iosnoops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iOSnoops
 
 This Privacy Policy applies to all of the products, services and websites offered by _TechSnoops LLC_ (“we”). We operate several websites, including _iOSnoops.com_. It is our policy to respect your privacy regarding any information we may collect while operating our websites.
 
-If you have any questions about this Privacy Policy, please feel free to contact us via our [contact page](http://www.iosnoops.com/contact-us/).
-
-### Privacy Policy & Terms of Service
-
-Your privacy is critically important to us. Our goal is to be transparent about what information we collect, and how we use it.
-
-We have a few fundamental principles:
+Your privacy is critically important to us. Our goal is to be transparent about what information we collect, and how we use it. We have a few fundamental principles:
 
   * We don’t ask you for personal information unless we truly need it.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
@@ -56,7 +50,8 @@ Comments left by users on our websites are the sole responsibility of the person
 
 Although most changes are likely to be minor, we may change our Privacy Policy from time to time, and in our sole discretion. We encourage visitors to frequently check this page for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-_Last update: January 28, 2012_
+_Last update: January 28, 2012. If you have any questions about this Privacy Policy, please feel free to contact us via our[contact page](http://www.iosnoops.com/contact-us/).  
+_
 
 [](http://creativecommons.org/licenses/by-sa/3.0/)  
 This policy was inspired by Automattic.  
