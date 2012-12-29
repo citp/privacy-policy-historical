@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111609id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135605id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mendeley
 
@@ -25,7 +25,7 @@ In certain cases, we anonymously aggregate this data on an institutional level o
 
 We believe that aggregating the data in this way benefits both you and the academic community at large, because it
 
-  * improves the automatic document recognition in Mendeley Desktop (see [Automatic Document Details Extraction](https://web.archive.org/faq/#automatic-metadata-extraction "Automatic Document Details Extraction")),
+  * improves the automatic document recognition in Mendeley Desktop (see [Automatic Document Details Extraction](http://support.mendeley.com/customer/portal/articles/227883 "Automatic Document Details Extraction")),
   * allows you unprecedented insights into the statistics and research trends of your academic discipline and your institution,
   * gives you a better understanding of your own research habits and document collection,
   * enables us to provide you with a research paper recommendation engine,
