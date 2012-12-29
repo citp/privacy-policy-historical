@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630122800id_/http%3A//www.coopelectricalshop.co.uk/eStore/Content/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229142404id_/http%3A//coopelectricalshop.co.uk/eStore/Content/Privacy) for the most accurate reproduction.*
 
 # Buy Electrical Appliances Online At The Co-operative Electrical
 
-Privacy and Security
+Privacy, Security and Cookies
 
 Privacy
+
+Cookies
 
 Security
 
@@ -53,6 +55,9 @@ In order to provide our products and services, we may need to pass information o
 Transfer of your information outside the European Union  
  We may need to transfer your personal data outside of the European Union in order to provide you with the services and products you require. Some of these countries may not have laws that protect privacy rights as extensively as in the European Union. If we do transfer your personal information to other territories, we will take proper steps to ensure that your information is properly protected.
 
+**Cookies  
+**
+
 **The use of cookies**
 
 In common with many other website operators, we do employ cookies (download of files to your PC to record your visits to the site) to measure site information. Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored.  Please note, if you do turn cookies off this will limit the service that we are able to provide to you and may affect your visitor experience. For further information on cookies and how to switch them off see [www.allaboutcookies.org](http://www.allaboutcookies.org/).
@@ -100,13 +105,13 @@ Monday to Friday
 
 | 
 
-8.30am to 6.50pm   
+8.00am to 8.00pm   
   
 Saturday 
 
 | 
 
-9.00am to 5.20pm   
+8.30am to 5.30pm   
   
 Sunday 
 
