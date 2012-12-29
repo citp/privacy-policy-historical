@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbase.com privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419125927id_/http%3A//www.pbase.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbase.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229065926id_/http%3A//www.pbase.com/help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - PBase Help System
 
