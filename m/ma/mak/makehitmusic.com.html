@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the makehitmusic.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629213245id_/http%3A//www.makehitmusic.com/privacy1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the makehitmusic.com privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229135801id_/http%3A//www.makehitmusic.com/privacy1) for the most accurate reproduction.-->
 
 <html><head><title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -17,6 +17,8 @@
 <link rel="stylesheet" type="text/css" href="/js/yui/build/paginator/assets/skins/sam/paginator.css">
 <link rel="stylesheet" type="text/css" href="/js/yui/build/datatable/assets/skins/sam/datatable.css">
 <link rel="stylesheet" href="/styles/datatable_custom.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="/js/jplayer2/skins/blue.monday/jplayer.blue.monday.css">
+<link rel="stylesheet" href="styles/tooltip-l.css" type="text/css">
 <script type="text/javascript" src="/js/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
 <script type="text/javascript" src="/js/yui/build/connection/connection-min.js"></script>
 <script type="text/javascript" src="/js/yui/build/json/json-min.js"></script>
@@ -26,8 +28,35 @@
 <script type="text/javascript" src="/js/yui/build/paginator/paginator-min.js"></script>
 <script type="text/javascript" src="/js/yui/build/datasource/datasource-min.js"></script>
 <script type="text/javascript" src="/js/yui/build/datatable/datatable-min.js"></script>
-<script language="javascript" src="wimpy.js"></script>
 <script type="text/javascript" src="/swfobject/swfobject.js"></script>
+
+<script type="text/javascript" src="/js/jquery/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery.selectbox-0.5.js"></script>
+<script type="text/javascript" src="/js/jplayer2/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="/js/bubble-v.js"></script>
+<script type="text/javascript">
+    var Global = {}
+    $(document).ready(function() {
+      var       my_jPlayer = $("#jquery_jplayer"),
+                my_trackName = $(".jp-title ul li");
+
+        $("#jquery_jplayer").jPlayer({
+                //ready: function (event) {},
+                swfPath: "/js/jplayer2/Jplayer.swf",
+                supplied: "mp3",
+                wmode: "window"
+        });
+
+        Global.changeTrack = function(e) {
+          my_trackName.text(e.title);
+                my_jPlayer.jPlayer("setMedia", {
+                        mp3: e.href
+                }).jPlayer("play");
+
+        return false;
+      }
+    });
+</script>
 
 
 
@@ -102,10 +131,21 @@ pageTracker._trackPageview();
             </a>   -->
         </td>
         
+        <td height="66" rowspan="2" valign="top" id="m_35">
+            
+            <a href="http://www.makehitmusic.com/basket.php" onmouseover="javascript:show('35');" onmouseout="javascript:hide('35');">
+            <img border="0" src="images/Oct09/n6_cart.jpg" width="102" height="66" alt="your basket">
+            </a>
+            
+            <!-- don't show text title...<a href="http://www.makehitmusic.com/basket.php" class="menu" onmouseover="javascript:show('35');" onmouseout="javascript:hide('35');">
+            <nobr>your basket</nobr>
+            </a>   -->
+        </td>
+        
         <td height="66" rowspan="2" valign="top" id="m_143">
             
             <a href="http://www.makehitmusic.com/music-producers.php" onmouseover="javascript:show('143');" onmouseout="javascript:hide('143');">
-            <img border="0" src="images/Oct09/n4_musicproducers.jpg" width="195" height="66" alt="Music Producers">
+            <img border="0" src="images/Oct09/n_producers_1.jpg" width="123" height="66" alt="Music Producers">
             </a>
             
             <!-- don't show text title...<a href="http://www.makehitmusic.com/music-producers.php" class="menu" onmouseover="javascript:show('143');" onmouseout="javascript:hide('143');">
@@ -115,23 +155,23 @@ pageTracker._trackPageview();
         
         <td height="66" rowspan="2" valign="top" id="m_140">
             
-            <a href="http://www.makehitmusic.com/studio.php" onmouseover="javascript:show('140');" onmouseout="javascript:hide('140');">
-            <img border="0" src="images/Oct09/n4_studio.jpg" width="151" height="66" alt="MHM Studio">
+            <a href="http://www.makehitmusic.com/mogul.php" onmouseover="javascript:show('140');" onmouseout="javascript:hide('140');">
+            <img border="0" src="images/Oct09/n_mogul_1.jpg" width="101" height="66" alt="MOGUL">
             </a>
             
-            <!-- don't show text title...<a href="http://www.makehitmusic.com/studio.php" class="menu" onmouseover="javascript:show('140');" onmouseout="javascript:hide('140');">
-            <nobr>MHM Studio</nobr>
+            <!-- don't show text title...<a href="http://www.makehitmusic.com/mogul.php" class="menu" onmouseover="javascript:show('140');" onmouseout="javascript:hide('140');">
+            <nobr>MOGUL</nobr>
             </a>   -->
         </td>
         
-        <td height="66" rowspan="2" valign="top" id="m_35">
+        <td height="66" rowspan="2" valign="top" id="m_144">
             
-            <a href="http://www.makehitmusic.com/basket.php" onmouseover="javascript:show('35');" onmouseout="javascript:hide('35');">
-            <img border="0" src="images/Oct09/n6_cart.jpg" width="102" height="66" alt="your basket">
+            <a href="http://www.makehitmusic.com/free-beats.php" onmouseover="javascript:show('144');" onmouseout="javascript:hide('144');">
+            <img border="0" src="images/Oct09/n_freebeats_1.jpg" width="122" height="66" alt="Free Beats">
             </a>
             
-            <!-- don't show text title...<a href="http://www.makehitmusic.com/basket.php" class="menu" onmouseover="javascript:show('35');" onmouseout="javascript:hide('35');">
-            <nobr>your basket</nobr>
+            <!-- don't show text title...<a href="http://www.makehitmusic.com/free-beats.php" class="menu" onmouseover="javascript:show('144');" onmouseout="javascript:hide('144');">
+            <nobr>Free Beats</nobr>
             </a>   -->
         </td>
         
@@ -236,66 +276,56 @@ pageTracker._trackPageview();
 										
 										
 										
-										MAKEHITMUSIC.COM PRIVACY POLICY<br>
+										MAKEHITMUSIC.COM PRIVACY POLICY – EFFECTIVE JULY 2, 2012<br>
 <br>
-MakeHitMusic.com is committed to your privacy.  This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services.<br>
+THE FOLLOWING DESCRIBES THE POLICIES WHICH MAKEHITMUSIC.COM FOLLOWS WITH RESPECT TO THE INFORMATION YOU PROVIDE TO US. BY ACCESSING THE SITE AND USING MAKEHITMUSIC.COM'S SERVICES, YOU EXPRESSLY AGREE TO ACCEPT ALL TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND ALL POLICIES AND GUIDELINES THAT ARE POSTED ON THE SITE ARE INCORPORATED HEREIN BY THIS REFERENCE, INCLUDING, WITHOUT LIMITATION, MAKEHITMUSIC.COM'S TERMS OF USE.  IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS CONTAINED IN MAKEHITMUSIC.COM'S PRIVACY POLICY OR IN MAKEHITMUSIC.COM'S TERMS OF USE, YOU ARE NOT AUTHORIZED TO ACCESS OR USE MAKEHITMUSIC.COM'S SERVICES OR MAKEHITMUSIC.COM’S WEBSITE.<br>
 <br>
-It is our policy, except as noted below, not to sale, trade, lease, give away or otherwise release your personal information, which includes your name, physical address (business or home), home or business telephone number and your e-mail address. <br>
+1. Overview<br>
+Welcome to the privacy policy (“Privacy Policy”) for Make Hit Music, LLC (“MakeHitMusic.com” or “we” or “us” or “our”). This Privacy Policy describes the policies we follow with respect to the information you provide when you use our services, including without limitation MakeHitMusic.com’s website (the “Site”), our mobile applications (the “MHM Apps”) and all other tools and/or services provided by us (the “Services”). By visiting the Site, downloading the MHM Apps and using the Services, or completing the membership subscription registration process or the new customer account registration process, as applicable, you agree to accept the terms and conditions of this Privacy Policy.  Any capitalized terms used herein that are not defined herein have the same meanings as in our Terms of Use.<br>
 <br>
+We strongly recommend that as you read this Privacy Policy you also access and read the information, policies and guidelines contained on other pages of the Site, within the MHM Apps and/or contained on any websites referred to in this Privacy Policy, as they may contain further terms and conditions that apply to you as a user of the Site, the MHM Apps and/or the Services.  This Agreement applies to you whether you are an Artist or Producer uploading Music to the Site, whether you are a Buyer of Music from the Site or through the MHM Apps or whether you are a casual visitor of the Site (in all instances, a "user").<br>
 <br>
-EXCEPTIONS TO OUR PRIVACY POLICY<br>
-Possible exceptions to our policy include the following circumstances, and as indicated herein:<br>
+We may amend this Privacy Policy at any time by posting the amended terms on the Site. Unless stated below, all amended terms shall automatically be effective immediately upon being posted on the Site. This Privacy Policy may not be otherwise amended except in a writing signed by you and Make Hit Music, LLC. Your continued use of the Site, the MHM Apps and the Services following MakeHitMusic.com’s posting of a revised Privacy Policy will constitute your acceptance of the revised Privacy Policy. If you do not agree with the terms of this Privacy Policy or any revised version of this Privacy Policy, do not continue to use the Services, the MHM Apps or the Site.<br>
 <br>
-If a governmental agency, or an attorney, subpoenas your private information, or makes a formal request for discovery pursuant to any legal action, or pending legal action. Or if we believe you have committed fraud, or copyright infringement or have violated any term or condition of our Terms of Use agreement or any other agreement you have agreed to regarding our website. <br>
+2. Information We Collect and How We Use It<br>
+When you use the Site, the MHM Apps and/or the Services, we may collect the following information:<br>
+•	Should you purchase Music, we will collect the information necessary to complete that transaction, including credit card information.  We will release such information as reasonable if you request a charge back or commit any fraud or violate any civil, regulatory or criminal law. <br>
+•	You may be required to complete membership subscription registration or new customer account registration forms that provide us with correct and up to date contact information (such as your name and street address), your email address, and your phone number(s).<br>
+•	Computer and mobile device-specific information including, without limitation, the unique computer and/or device id assigned to your computer and/or phone, platform type and version, hardware and processor type and human readable hardware name.  This information is necessary to identify your account to simplify sign-on, and to determine the hardware requirements of our users.<br>
+•	Aggregate (general tracking) and user specific information about pages that users visit on the Site.<br>
+•	Cookies:<br>
+o	we employ cookies when users create user accounts by completing the membership subscription registration process or the new customer account registration process and we may further employ cookies to assist the functionality of the Site and/or the Services in the future;<br>
+o	cookies are small pieces of information, stored in simple text files, placed on your computer by a website which can be read by the website on your subsequent visits; the information stored in a cookie may relate to your browsing habits on the website, or a unique identification number so that the website can “remember” you on your return visit and we use cookies to enhance your usage of the Site and the Services;<br>
+o	generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the website;<br>
+o	you may disable cookies at any time via your browser preferences but if you disable cookies on your browser, please note that some parts of the Site may not function as effectively or may operate slower;<br>
+•	User session information (which is not shared with third parties), including identification and length (a randomly generated identification created for each time you use the Site, the MHM Apps and the Services and the amount of time you use the Site, the MHM Apps and/or the Services in a single session), which shows us user preferences regarding return visits to the Site and the MHM Apps, helps us to mange member subscriptions and private areas on the Site and within the MHM Apps, records user specific tracking and/or aggregate tracking information of our users and delivers customized content based on user specific information, such as browser type, screen type and resolution; we use this information in aggregated form in order to improve future development of the Site, the MHM Apps and the Services.<br>
+•	As an automatic process, we record email and internet protocol (IP) addresses that access the Site  for evaluation and diagnostic purposes in order to seek out and repair functionality issues with our servers and related programming, and to monitor traffic patterns, analyze trends, administer the Site, track use patterns, and identify the most popular areas of the Site to deliver content most relevant to our users. IP addresses are not linked to your personally identifiable information and are only used to gather broad demographic information for aggregate use and in connection therewith, we hereby reserve the right to share aggregated demographic information with our partners provided that such information will not be linked to your personally identifiable information that identifies you, except in the case of fraud or if we determine, in our sole discretion, that it is necessary to enforce compliance to protect the Site, the MHM Apps, the Services, our users and others.<br>
+•	We may be required to disclose your personally identifiable information if a governmental agency, or an attorney, subpoenas your private information, or makes a formal request for discovery pursuant to any legal action, or pending legal action.<br>
+•	We may disclose your personally identifiable information if we believe you have committed fraud or copyright infringement or have violated our Terms of Use or any of the other policies and/or guidelines incorporated therein by reference which govern your use of the Site, the MHM Apps and the Services. <br>
+•	We may disclose your personally identifiable information if our attorney requests such information in connection with a current or pending legal matter in which you are a potential or actual party or if you otherwise contributed in some way to the causation of the legal matter.<br>
+•	We may also use the information that we collect for internal tracking, review, or for contact purposes and such information is then archived by us for future usage.<br>
 <br>
-If our attorney requests such information relevant to a current or pending legal matter in which you are a potential or actual party or otherwise contributed in some way to the causation of the legal matter. <br>
+3. GENERAL INFORMATION<br>
+It is our policy, except as noted above, not to sell, trade, lease, give away or otherwise release your personally identifiable information, which includes your name, physical address (business or home), home or business telephone number and your e-mail address.<br>
 <br>
+It is our policy not to send unsolicited emails or allow third parties to contact you via the email address that you provide to us. We may, from time to time, contact you to discuss business relevant to your membership subscription or to your customer account and, naturally, we will contact you to respond to inquiries that you may send to us.<br>
 <br>
-COOKIES<br>
-Please note that we employ the use of cookies.  Currently we employ cookies when users create user accounts, but we may further employ cookies to assist the functionality of other tools, services and functions in the future.<br>
+Your email address may be published on the Site. We are not responsible for any unwanted email that is sent to you by any third party or entity who has collected your email address from the Site. <br>
 <br>
-Cookies are small programs that enhance your use of the Internet, in general, and specifically we use cookies to enhance your usage of our functions. <br>
+We may, from time to time, send you emails regarding our Site, the MHM Apps and/or our Services so that we can directly communicate with you regarding issues we determine to be relevant.<br>
 <br>
-The information gathered is not shared with third parties. You may turn off your cookies by adjusting the appropriate setting on your browser. <br>
+We or our Producers or our Artists may provide links to third party websites that we, our Producers or our Artists believe are appropriate to be linked through the use of the Site, the MHM Apps and/or the Services.  These websites are not under our control and may not be under the control of our Producers or Artists and neither we nor our Producers or our Artists are responsible for the contents or links contained on them or for any changes or updates to them.  The links we, our Producers or our Artists provide do not imply our, our Producers’ or our Artists’ endorsement of or association with these websites.  It is your sole responsibility to comply with the appropriate “terms of service” of the linked websites as well as with any other obligation under copyright, secrecy, defamation, decency, privacy, security and export laws related to the use of such linked websites and any content contained thereon.  In no event shall we, our Producers or our Artists be liable, directly or indirectly, to anyone for any loss or damage arising from or occasioned by the creation or use of the linked websites or the information or material accessed through these linked websites.  You should direct any concerns about any of these websites to that website’s administrator or webmaster.  We, our Producers and/or our Artists may, in our sole discretion and in the sole discretion of our Producers and our Artists, respectively, add, change, decline or remove, without notice, any feature or link to any of the linked websites from the Site, the MHM Apps and/or the Services and/or to introduce different features or links.<br>
 <br>
-Please consult the HELP menu of your browser to learn how to turn your cookies off. Cookies do not reveal personal information and if you turn off your cookies you may find your enjoyment of the Internet, and our site, to be reduced or impaired. <br>
+You may access the home page of the Site and browse the Site without disclosing your personally identifiable information. Registering for a membership subscription and signing up for a new customer account require the disclosure of certain personally identifiable information, which we do not share except as set forth herein. <br>
 <br>
-In order to seek out and repair functionality issues with our servers and related programming, we may use your email and IP addresses for evaluation and diagnostic purposes. <br>
+We do not collect information about our users from third party sources, such as public records or entities, or private organizations. <br>
 <br>
-Cookies may provide Recording Session information, show us visitor preferences regarding return visits to our website, help us to mange subscription or private areas on our website, record user specific tracking or aggregate tracking information of visitors and deliver user customized content based on user specific information, such as browser type, screen type and resolution and so forth. None of the information gathered is shared with third parties. <br>
+We do not knowingly collect identifiable information from or about minors. <br>
 <br>
-Other possible uses for the information that we collect includes internal tracking, review, or is used for contacting purposes and then is archived by us for future usage. We also use the information we collect to provide custom content for our user base. <br>
+We have implemented security policies, rules and technical measures to protect the personally identifiable information that we have under our control. These policies, rules and technical measures help to protect your personally identifiable information from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss. However, note that no policy, rule or technical measure can provide 100% protection against unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. <br>
+All of our employees and data processors who have access to, and/or are associated with, the processing of personally identifiable information, are obligated to respect the confidentiality of our users’ personally identifiable information. <br>
 <br>
-<br>
-GENERAL INFORMATION<br>
-It is our policy not to send unsolicited emails or allow third parties to contact you via the email address that you provide to us. We may, from time to time, contact you to discuss business relevant to your membership and, naturally, we will contact you to respond to inquiries that you may send to us.<br>
-<br>
-Your email address may be published on our site. We are not responsible for any unwanted email that is sent to you by any third party or entity who has collected your email address from our site. <br>
-<br>
-You can access our Website home page and browse our site without disclosing your personal data. Membership signups require the disclosure of certain personal information, which we do not share except as disclosed herein. <br>
-<br>
-We do not collect information about our visitors from third party sources, such as public records or entities, or private organizations. <br>
-<br>
-We do not knowingly collect personal data or information from minors. <br>
-<br>
-We have implemented security policies, rules and technical measure to protect the personal data that we have under our control. These policies, rules and technical measures help to protect your data from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss. However, note that no policy, rule or technical measure can offer 100% protection against unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. <br>
-<br>
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitor’s and members’ personal data.  <br>
-<br>
-<br>
-FURTHER DATA COLLECTION<br>
-We may collect aggregate (general tracking) information about pages that users visit on our site. We also may collect user specific information about pages that users visit on our site. Any information that you give us when you complete a contact form or inquiry form, survey and so forth is collected by us. <br>
-<br>
-Should you engage in a business transaction with us, such as purchasing a tool, product or service, we will collect the information necessary to complete that transaction, including credit card information.  We will release such information as reasonable if you request a charge back or commit any fraud or violate any civil, regulatory or criminal law. <br>
-<br>
-You may be required to complete online registration forms that provide us with correct and up to date contact information (such as your name and street address), your email address, and your phone number(s) <br>
-<br>
-We may, from time to time, send you emails regarding our service so that we can directly communicate with you regarding issues we determine to be relevant. <br>
-<br>
-Please contact us if you should have any questions, comments or concerns about this privacy policy. <br>
-<br>
-<br>
-<br>
+Please contact us at Support@MakeHitMusic.com if you should have any questions, comments or concerns about this Privacy Policy.<br>
 										</div> 
 			
 				      
