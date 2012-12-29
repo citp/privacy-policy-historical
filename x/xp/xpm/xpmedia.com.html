@@ -1,316 +1,718 @@
-<!--The following is the downloaded HTML source of the xpmedia.com privacy policy that was archived on 2012-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120618214209id_/http%3A//www.xpmedia.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xpmedia.com privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229134139id_/http%3A//www.xpmedia.com/page/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
+<!DOCTYPE html><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<title>
+		Privacy Policy - XPMedia.com	</title>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<!-- via
+		Zach Jones @joneszach
+		Joey Bryan
+			from Peaceful Computing -->
 
-
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<title>XPmedia.com - Policy</title>
-<script language="javascript" type="text/javascript">
-	var SITE_URL='http://www.xpmedia.com';
-</script>
-<link rel="fontdef" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/fonts/MyriadPro-Black.ttf">
-<link rel="fontdef" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/fonts/MyriadPro-Regular.otf">
-<link rel="stylesheet" href="http://www.xpmedia.com/wp-content/themes/xpmedia2/reset.css" type="text/css" media="screen">
-
-<link rel="stylesheet" href="http://www.xpmedia.com/wp-content/themes/xpmedia2/style.css" type="text/css" media="screen">
-<link rel="shortcut icon" href="http://www.xpmedia.com/faviconlogo.ico">
-<script type="text/javascript" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/js/flashembed.js"></script> 
-<script type="text/javascript" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/js/flowplayer-src.js"></script> 
-<script type="text/javascript" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/js/flowplayer.ipad.js"></script>
-<script type="text/javascript" src="http://www.xpmedia.com/wp-includes/js/swfobject.js"></script>
-<script type="text/javascript" src="http://www.xpmedia.com/wp-includes/js/video_page.js"></script>
 <script type="text/javascript">
-window.onload=function()
-{
-			var elem=document.getElementById("s");
-			var vl=elem.value;
-			if(vl=="" || vl=="Search XPmedia.com")
-			{
-				elem.style.color="#B8BAB7";
-				elem.style.fontWeight="bold";
-				elem.value="Search XPmedia.com";
-			}
-			else
-			{
-				elem.style.color="#000000";
-				elem.style.fontWeight="normal";
-			}
-			
-			elem.onfocus=function()
-			{
-					var vl=this.value;
-					this.style.color="#000000";
-					this.style.fontWeight="normal";
-					if(vl=="Search XPmedia.com")
-					{
-						this.value="";
-					}
-			}
-
-			elem.onblur=function()
-			{
-				var vl=this.value;
-				if(vl=="")
-				{
-					this.style.color="#B8BAB7";
-					this.value="Search XPmedia.com";
-					this.style.fontWeight="bold";
-				}
-			}
-}
-function load_playlist(pl_id)
-{
-		jQuery.ajax({
-					url:"http://www.xpmedia.com/load_playlist.php",
-					type:"POST",
-					data:"playlist_id="+pl_id,
-					complete:function(dta)
-					{
-						if(dta.responseText!="")
-						{
-							window.location.href=dta.responseText;
-						}
-						else
-						{
-							alert("Playlist is empty");
-						}
-					}
-		});
-}
-function add_to_playlist( id, selected )
-{
-	(function($)
-	{
-		$('a.add', 'span.pl_'+id).fadeOut( 300 );
-		$('a.remove', 'span.pl_'+id).fadeIn( 500 );
-
-		if( $('#playlist_item_'+id).length == 0 )
-		{
-			$.get( 'http://www.xpmedia.com/playlist/?action=add&id='+id+'&selected='+selected, function(data) { $(data).appendTo('#playlist'); } )
-		}
-
-		$('#playlist').css({"background-image" : "none"});
-	})
-	(jQuery);
-}
-
-function remove_from_playlist( id )
-{
-	(function($)
-	{
-		$('a.add', 'span.pl_'+id).fadeIn( 500 );
-		$('a.remove', 'span.pl_'+id).fadeOut( 300 );
-
-		$('#playlist_item_'+id).remove();
-		$.post( 'http://www.xpmedia.com/playlist/?action=remove&id='+id );
-	})
-	(jQuery);
-}
-
-function clear_playlist()
-{
-	(function($)
-	{
-		$('#playlist').html('');
-		jQuery.post( 'http://www.xpmedia.com/playlist/?action=clear' );
-	})
-	(jQuery);
-}
-
-function playlist_next()
-{
-	(function($)
-	{
-		var selected = $('li.selected', '#playlist');
-		var playlist = $('li', '#playlist');
-		if( selected.length == 0 && playlist.length > 0 )
-		{
-			// play first item
-			window.location = $(playlist).eq(0).attr("link");
-		}
-		else if( $(selected).next().attr("link") )
-		{
-			window.location = $(selected).next().attr("link");
-		}
-	})
-	(jQuery);
-}
+	var auth = null;
+	var free_id = 1;
 </script>
-<!--[if lte IE 6]>
-<script type="text/javascript" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/js/supersleight-min.js"></script>
-<![endif]-->
+
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css">
+<link href="/themes/xpmedia2012/css/default.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/wysihtml5-editor/css/editor.css">
+	<link rel="stylesheet" type="text/css" href="/css/jquery-bootstrap-ui/jquery-ui-1.8.16.custom.css">
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" src="//ajax.microsoft.com/ajax/jQuery.Validate/1.9/jQuery.Validate.min.js"></script>
+	
+<!-- 	<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script> -->
+	
+	<!-- <script type="text/javascript">var switchTo5x=false;</script>
+	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">stLight.options({publisher: "8b47c88d-9d53-4ff5-bb8d-900684beacc2"}); </script> -->
+<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
+	<script type="text/javascript" src="/js/jquery-ui-1.8.21.custom.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/js/jquery.pjax.js"></script>
+	<script type="text/javascript" src="/js/bootstrap-transition.js"></script>
+	<script type="text/javascript" src="/js/bootstrap-dropdown.js"></script>
+	<script type="text/javascript" src="/js/bootstrap-alert.js"></script>
+	<script type="text/javascript" src="/js/bootstrap-tab.js"></script>
+	<script type="text/javascript" src="/js/bootstrap-modal.js"></script>
+	<script type="text/javascript" src="/js/bootstrap-tooltip.js"></script>
+	<script type="text/javascript" src="/js/bootstrap-popover.js"></script>
+	<script type="text/javascript" src="/js/mustache.js"></script>
+	<script type="text/javascript" src="/js/global.js"></script>
+	<script type="text/javascript" src="/js/swfobject.js"></script>
+<!-- Generated by OpenX 2.8.7 -->
+<script type="text/javascript" src="/store/openx/www/delivery/spcjs.php?id=1&amp;block=1&amp;"></script><script type="text/javascript" src="https://web.archive.org/web/20130424152228/https://www.xpmedia.com/store/openx/www/delivery/spc.php?zones=2%7C134%7C10%7C11%7C12%7C13%7C85%7C20%7C21%7C22%7C23%7C29%7C37%7C223%7C41%7C221%7C234%7C115%7C156%7C155%7C201%7C209%7C88%7C222%7C200%7C199%7C131%7C132%7C81%7C82%7C235%7C99%7C98%7C97%7C96%7C100%7C101%7C133%7C208%7C214%7C215%7C216%7C116%7C117%7C213%7C212%7C211%7C210%7C135%7C220%7C231%7C145%7C218%7C217%7C150%7C151%7C152%7C153%7C154%7C157%7C158%7C159%7C230%7C229%7C227%7C224%7C167%7C168%7C169%7C170%7C171%7C172%7C173%7C206%7C232%7C203%7C205%7C219%7C187%7C188%7C189%7C190%7C191%7C192%7C193%7C194%7C195%7C196%7C197%7C198%7C233%7C236&amp;source=&amp;r=25412001&amp;block=1&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20121229134139id_/http%253A//www.xpmedia.com/page/privacy-policy"></script><script type="text/javascript" src="http://www.xpmedia.com/store/openx/www/delivery/fl.js"></script>
 
 
-<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=76dfa780-980f-4232-b714-dd0f594110cd&amp;type=wordpress&amp;post_services=email%2Cfacebook%2Ctwitter%2Cdigg%2Cgoogle_bmarks%2Csms%2Cwindows_live%2Cdelicious%2Cstumbleupon%2Creddit%2Cmyspace%2Clinkedin%2Cbebo%2Cybuzz%2Cblogger%2Cyahoo_bmarks%2Cmixx%2Ctechnorati%2Cfriendfeed%2Cpropeller%2Cwordpress%2Cnewsvine%2Cxanga"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/js/html5shiv.js"></script><![endif]-->
 
-
-
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.xpmedia.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.xpmedia.com/wp-includes/wlwmanifest.xml"> 
-<script type="text/javascript" src="http://www.xpmedia.com/wp-includes/js/jquery/jquery.js?ver=1.2.6"></script>
-<meta name="generator" content="WordPress 2.7">
-
-<meta property="fb:app_id" content="222962314400225"><meta property="fb:admins" content="222962314400225"><meta property="og:url" content="http://www.xpmedia.com/policy"><meta property="og:title" content="policy"><meta property="og:description" content="XPmedia.com Privacy Policy
-This policy will outline our organization’s guidelines respecting your privacy and the protection of "><meta property="og:type" content="article"><meta property="og:image" content="http://www.xpmedia.com/images/facebook_thumb.jpg"><meta property="og:site_name" content="XPMedia">
-<script language="javascript" type="text/javascript" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/js/main.js"></script>	
-
-</head>
-
+<meta http-equiv="X-UA-Compatible" content="IE=8"></head>
 <body>
-<div id="page">
-	<div id="home_ad" class="">
-		<div class="home_banner">
-			<iframe id="4vr0EvOl" name="4vr0EvOl" src="http://www.xpmedia.com/openx/www/delivery/afr.php?refresh=0&amp;n=4vr0EvOl&amp;zoneid=2&amp;cb=9143337711" framespacing="0" frameborder="no" scrolling="no" width="728" height="102"><a href='http://www.xpmedia.com/openx/www/delivery/ck.php?n=qSBbPmv0&amp;cb=9143337711' target='_blank'><img src='http://www.xpmedia.com/openx/www/delivery/avw.php?zoneid=2&amp;cb=9143337711&amp;n=qSBbPmv0' border='0' alt='' /></a></iframe>		</div> 
-		<div class="header_banner_image">
-			<a href="http://www.xpmedia.com/wp-login.php?action=register" target="_blank">
-				<img src="http://www.xpmedia.com/wp-content/paperclip_ad/paperclip_ad_1307575493.jpg" border="0">
-			</a>
-		</div>
-	</div>	  
-	<div id="title_bar">
-		<form method="get" id="searchform" action="http://www.xpmedia.com/">
-	<label class="hidden" for="s"></label>
-	<div><input type="text" value="" name="s" id="s" style="color: rgb(184, 186, 183); font-weight: bold;"><input type="submit" id="searchsubmit" value="">
-	</div>
-	</form>		<div class="clear"></div>
-	</div>
-	<div id="menu_parent">
-	<div class="menu">
-		<ul>
-			<li class=""><a title="Home" href="http://www.xpmedia.com">HOME</a></li>
-			<li class=""><a title="Channels" href="http://www.xpmedia.com/channels">CHANNELS</a></li>
-			<li class=""><a title="Videos" href="http://www.xpmedia.com/videos">VIDEOS</a></li>
-			<li class=""><a title="Audio" href="http://www.xpmedia.com/audio">AUDIO</a></li>
 
-			<!-- <li class="blue"><a title="Articles" href="http://www.xpmedia.com/articles">ARTICLES</a></li>-->
-			<li class=""><a title="Articles" href="http://www.xpmedia.com/articles">ARTICLES</a></li> 
-			<li class=""><a title="Events" href="http://www.xpmedia.com/events">EVENTS</a>
-                        <ul>
-                        <li><a href="../redirect_menu/redirect_eventarchives.html">EVENT WEBCAST ARCHIVES</a></li>
-                        </ul>
-                        </li>
-			<li class=""><a title="Links" href="http://www.xpmedia.com/marketplace">LINKS</a></li> 
-			<li class="">
-				<a title="MarketPlace" href="javascript:void(0);">ADVERTISE</a>
-				<ul> 
-					<li><a href="http://www.xpmedia.com/advertise">XPMEDIA</a></li>
-					<li><a href="http://www.xpmedia.com/marketplace?action=min_add">XPMARKETPLACE</a></li>
-                                        <li><a href="http://www.xpmedia.com/advertise">BECOME A CHANNEL HOST</a></li>
-				</ul>
-			</li>
-			<li>
-				<a href="javascript:void(0);">Store</a>
-				<ul>
-					<li><a href="../redirect_menu/redirect_store.html">XP STORE</a></li>
-							<li><a href="../redirect_menu/redirect_donate.html">DONATE (CSA)</a></li>
-					<li><a href="https://icbbooks.com/index.php?referredby=ICB0002" target="_blank">ICB</a></li>
-				</ul>
-			</li>
-			<li>
-				<a href="../redirect_menu/redirect_home.html">XPMINISTRIES</a>
-				<ul>
-			<li> <a href="../redirect_menu/redirect_home.html">Home-Ministry Site</a>
-			</li><li><a href="../redirect_menu/redirect_xpwebchurch.html">XP Webchurch</a></li>
-			<li><a href="../redirect_menu/redirect_xpmissions.html">XP Missions</a></li>
-                        <li><a href="../redirect_menu/redirect_xppublishing.html">XP Publishing</a></li>
-			<li><a href="../redirect_menu/redirect_itinerants.html">Itinerants</a></li>
-			<li><a href="../redirect_menu/redirect_patricia.html">Patricia King</a></li>
-                        <li><a href="http://www.xpmedia.com/social-media">Social Media</a></li>
-			<li><a href="../redirect_menu/redirect_xpacting.html">XP Acting</a></li>
-			<li><a href="../redirect_menu/redirect_xpmediatraining.html">XP Media Training</a></li>
-			<li><a href="../redirect_menu/redirect_donate.html">Donate (CSA)</a></li>
-			<li><a href="../redirect_menu/redirect_partner.html">Partner (CSA)</a></li>		
-				</ul>
-			</li>
-			<li>
-				<a href="../redirect_menu/redirect_donate.html">GIVE</a>
-				<ul>
-			<li><a href="../redirect_menu/redirect_donate.html">Donate (CSA)</a></li>
-			<li><a href="../redirect_menu/redirect_partner.html">Partner (CSA)</a></li>
-					</ul>
-			</li>
-                        <li><a href="http://www.xpmedia.com/nations">Nations</a></li>
-			<li class=""><a href="http://www.xpmedia.com/members">Members</a></li>
-			</ul>
-		<div class="clear"></div>
-	</div>
-	</div>
-<div class="textpage">
-
+	<div class="content-container">
+	
 		
-<h1>XPmedia.com Privacy Policy</h1>
-<p>This policy will outline our organization’s guidelines respecting your privacy and the protection of personal information. This policy will apply to XPmedia.com.</p>
-<h3>Why we collect personal information</h3>
-<p>XPmedia.com collects and discloses personal information about a variety of individuals, including subscribers, employees, volunteers, teachers, intercessors and ministers primarily in order to build relationship with these individuals through email transmissions.</p>
-<h3>Subscribers</h3>
-<p>In voluntarily subscribing for newsletters, product specials, event registrations, or platinum membership, whether by mail or on the internet, subscribers provide basic contact information to us, and sometimes credit card or other payment information. We use that information to keep you informed of updates, provide the material or product to you, to process payment, to track your utilization of our resources and to recommend other products or services that we believe may be of interest to you.</p>
-<p>XPmedia.com also purchases email lists containing subscriber contact information from marketing sources. These names and contact information are added to our database.</p>
-<h3>Employees/Volunteers</h3>
-<p>With respect to employees and volunteers, we collect personal information in order to manage and supervise the employment or volunteer relationship between our organization and the individual. The information is not utilized for any other purpose without your consent.</p>
-<h3>Teachers, Intercessors and Ministers</h3>
-<p>In the case of our teachers, intercessors and ministers, personal information is collected with consent in order to verify qualifications, match participants with appropriate programs and enable the proper use of XPMedia.com&nbsp; resources in fulfilling our mandate and operational goals.</p>
-<h3>The kinds of information we collect</h3>
-<p>XPmedia.com collects widely varying types of personal information, depending on the circumstances. What we collect depends on the particular purpose for collection and the particular circumstances involved. For example, employee information includes certain medical and health information. Teachers, intercessors and ministers provide us with more detailed background information. Subscribers voluntarily supply us with name, address, phone number and email particulars.</p>
-<h3>How we obtain the personal information</h3>
-<p>Most of the personal information collected by XPmedia.com is collected directly by our representatives from either subscribers, employees, volunteers, teachers, intercessors and ministers along with subscriber information obtained form marketing companies.</p>
-<p>In many cases, the consent of the individual providing information to us is inferred from the circumstances in which the information is provided. On occasion, as with compilation of subscriber information, we rely on specific subscriber consent or provide the individual with an opportunity to “opt out” of participation in certain programs.</p>
-<h3>Disclosure of personal information</h3>
-<p>Disclosure of subscriber information is generally restricted to our own purposes, and disclosure outside the organization is usually limited to those circumstances where consent has been provided although we reserve the right to disclose or sell subscriber information when the corporation determines necessary. With respect to employee and volunteer information, XPmedia.com may from time to time disclose that information to affiliated organizations or to third party service providers. In all cases, disclosure may be made to legal counsel and other consultants and agents, to government authorities and otherwise as permitted or required by law.</p>
-<h3>Security of personal information</h3>
-<p>Personal information recorded in documents is securely stored at the XPmedia.com premises and affiliated offices. Electronically recorded information is stored on computer systems maintained by us and our affiliated organizations or service providers. Those computer systems and the information stored in them are protected by electronic security systems. We restrict access to personal information to only those employees or volunteers who have a legitimate purpose in doing so. Employees who routinely handle personal information receive training with respect to proper personal information handling practices and they are under an obligation to comply with all privacy laws, this policy and any related codes of conduct.</p>
-<p>Our compliance with appropriate personal information practices and privacy laws is overseen by and it is the responsibility of our Chief Privacy Officer who can be contacted at 520-483-2786 or by writing XPmedia.com, 20987 N. John Wayne Pkwy, B104-122, Maricopa, AZ  85239.</p>
-<h3>Accuracy</h3>
-<p>XPmedia.com&nbsp; is committed to the accuracy of any personal information that is in its custody or control.</p>
-<h3>Access to personal information</h3>
-<p>Upon written request and subject to any reasonable conditions which we may be entitled to impose, XPmedia.com will provide reasonable access to an individual to review the personal information in the custody or control of XPmedia.com relating to that individual. Access will not be provided if doing so would likely reveal personal information about a third party, is the subject of solicitor/client privilege, would reveal confidential commercial information, relates to an investigation or proceeding, or we are otherwise required or permitted to withhold access by law.</p>
-<h3>Amendments</h3>
-<p>The XPmedia.com may amend this policy from time to time at its discretion. The current version of our Privacy Policy is always available at 520-483-2786 or by writing XPmedia.com, 20987 N. John Wayne Pkwy, B104-122, Maricopa, AZ&nbsp; 85239.</p>
-<h3>Complaint resolution procedure</h3>
-<p>Any questions or complaints should be directed in writing to our Chief Privacy Officer, who will investigate as appropriate and provide a written response, usually within 30 days.</p>
- 
-<span class="facebook_like" style="height: 40px;  float: right; "><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.xpmedia.com/policy&amp;layout=standard&amp;send=false&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;font=" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:450px; height:40px"></iframe></span>
+<header role="banner" id="header">
+	<div class="container">
+		<div class="attention-header">
+			<div class="pull-left iab">
+				<div id="rotate96109579456"></div>
+<script type="text/javascript">	
+	// $(function() {
+		var flashvars = {
+			image_list_url: escape('/store/openx/www/delivery/ajs_xp.php?zoneid=2&allbanners=1&cb=96109579456'),
+			timer_delay: 20
+		};
+		var params = {
+			wmode: 'transparent'
+		};
+		swfobject.embedSWF('/files/rotator.swf', 'rotate96109579456', '728', '90', '9.0.0', 'expressInstall.swf', flashvars, params);
+	//});
+</script>			</div>
+							<script>var countdown_data = {"Node":{"id":"10148","name":"CHURCH FOR THE NATIONS","slug":"church-for-the-nations"},"MetaEvent":{"start_time":"2012-12-30 10:15:00"},"seconds_remaining":102732};</script>
+				<div class="pull-right">
+					<div class="countdown">
+						<div>
+							<span class="title">Live event In:</span>
+							<span class="title title-live">Live Now:</span>
+						</div>
+						<table class="countdown-timer">
+							<tbody><tr>
+								<td class="number day">00</td>
+								<td class="day-label">days</td>
+								<td class="number hour">00</td>
+								<td class="hour-label">hours</td>
+								<td class="number minute">00</td>
+								<td class="minute-label">mins</td>
+								<td class="number second">00</td>
+								<td class="second-label">secs</td>
+							</tr>
+						</tbody></table>
+						<div class="pull-right">
+							<a class="btn btn-skinny btn-success" href="/event/10148/church-for-the-nations">Watch Event »</a>
+						</div>
 
-</div>
-<div class="spacer"></div>
+						<div class="event-name">
+							<span>CHURCH FOR THE NATIONS</span>
+						</div>
+					</div>
+				</div>
+					</div> <!-- end of .attention-header -->
+	</div>
+
+	<div class="container">
+		<a class="logo-main beta" title="XPMedia.com" href="http://www.xpmedia.com/">XPMedia.com</a>
+
+		<nav role="navigation" class="main-nav">
+			<ul>
+				<li><a href="/videos">Media</a>
+					<div class="dropdown-group">
+						<ul class="span2">
+							<li class="title"><a href="/videos">Video</a></li>
+							<li class="separator"></li>
+							<li><a href="/videos">Video on Demand</a></li>
+							<li><a href="/page/live-video">Live Conference Webcasts</a></li>
+						</ul>
+
+						<ul class="span2">
+							<li class="title"><a href="/audios">Audio</a></li>
+							<li class="separator"></li>
+							<li><a href="/audios">Messages</a></li>
+							<li><a href="/channel/Conference/audio">Conference Archives</a></li>
+						</ul>
+
+						<ul class="span2">
+							<li class="title"><a href="/channels">Channel Hosts</a></li>
+							<li class="title"><a href="/articles">Articles</a></li>
+							<li class="title"><a href="/page/free-videos">Free Downloads</a></li>
+							<li class="title"><a href="/page/webinars">Webinars</a></li>
+						</ul>
+					</div>
+				</li>
+				<script type="text/javascript">
+					/* I must add the featured events variable here since it's being sent by PHP (and I can't capture that in .js file)*/
+					var navigation_featured_events = {"2013":{"1":{"21":{"title":"XP Intercession Plunge","link":"\/app\/webroot\/index.php\/event\/10853\/users\/users\/event\/10510\/event\/9945\/xp-intercession-plunge"},"18":{"title":"Power Weight Loss and Rejuvenation-TELESEMINAR w\/Patricia King","link":"\/app\/webroot\/index.php\/event\/10853\/users\/users\/event\/10510\/event\/11001\/power-weight-loss-and-rejuvenation-teleseminar-wpatricia-king"},"25":{"title":"Equip, Impart &amp; Send Forth\t","link":"\/app\/webroot\/index.php\/event\/10853\/users\/users\/event\/10510\/event\/11036\/equip-impart-and-send-forth"},"12":{"title":"Keys to Success - Seminar is FULL","link":"\/app\/webroot\/index.php\/event\/10853\/users\/users\/event\/10510\/event\/11066\/keys-to-success--seminar-is-full"},"26":{"title":"Power of Weight Loss and Rejuvenation Coaching Workshop","link":"\/app\/webroot\/index.php\/event\/10853\/users\/users\/event\/10510\/event\/11074\/power-of-weight-loss-and-rejuvenation-coaching-workshop"},"19":{"title":"Pray it Forward","link":"\/app\/webroot\/index.php\/event\/10853\/users\/users\/event\/10510\/event\/11363\/pray-it-forward"},"13":{"title":"XPerience Night - FREE Event and WEBCAST","link":"\/app\/webroot\/index.php\/event\/10853\/users\/users\/event\/10510\/event\/11385\/xperience-night--free-event-and-webcast"}}},"2012":{"12":{"30":{"title":"CHURCH FOR THE NATIONS","link":"\/app\/webroot\/index.php\/event\/10853\/users\/users\/event\/10510\/event\/10148\/church-for-the-nations"}}}};
+				</script>
+				<li><a href="/events">Events</a>
+					<div class="dropdown-group">
+						<div class="span3">
+							<div id="menu-events-calendar"></div>
+
+							<!-- <img src="img/calendar-test.png"> -->
+						</div>
+
+						<ul class="span2">
+							<li class="title"><a href="/page/webcasts">Webcasts</a></li>
+							<li><a href="/page/live">Live</a></li>
+							<li><a href="/events">Archived</a></li>
+							<li class="separator"></li>
+							<li class="title"><a href="/calendar">Calendar</a></li>
+							<li><a href="/events">All Events</a></li>
+						</ul>
+					</div>
+				</li>
+				<li><a href="http://www.store2.extremeprophetic.com/content/Shop.php?Country=US" target="_blank">Store</a>
+					<div class="dropdown-group">
+						<ul class="span2">
+							<li class="title"><a href="http://www.store2.extremeprophetic.com/" target="_blank">XPStore</a></li>
+							<li class="title"><a href="http://xpdijit.com" target="_blank">XPDijit.com</a></li>
+						</ul>
+
+						<ul class="span2">
+							<li class="title"><a href="http://xpministries.org/index.php/giving/donations" target="_blank">Donate – XPMinistries</a></li>
+							<li class="title"><a href="http://www.xpministries.com/component/content/article/40-webchurch/webchurch-info/42-become-a-breaker-team-partner" target="_blank">Partner – XPMinistries</a></li>
+						</ul>
+					</div>
+				</li>
+				<li><a>Opportunity</a>
+					<div class="dropdown-group">
+						<ul class="span3">
+							<li class="title"><a href="/page/become-a-channel-host">Become a Channel Host</a></li>
+							<li class="title"><a href="/page/advertise">Advertise</a></li>
+							<li class="title"><a href="/page/links">Links</a></li>
+						</ul>
+
+						<ul class="span3">
+							<li class="title"><a href="/users/choose">Subscribe</a></li>
+							<li class="title"><a href="/page/sponsor-a-subscriber">Sponsor a Subscriber</a></li>
+							<li class="title"><a href="/users/goteam">GO-Team</a></li>
+						</ul>
+					</div>
+				</li>
+				<!-- <li class="align-right"><a>Language</a>
+					<div class="dropdown-group">
+						<ul class="span2">
+							<li class="title"><a href="/search?search=espanol">Espa&#241;ol</a></li>
+							<li class="title"><a href="/search?search=korean">한국어</a></li>
+							<li class="title"><a href="/search?search=chinese">中文</a></li>
+							<li class="title"><a href="/search?search=indonesian">Bahasa Indonesia</a></li>
+							<li class="title"><a href="/search?search=hindi">हिन्दी</a></li>
+							<li class="title"><a href="/search?search=french">Français</a></li>
+							<li class="title"><a href="/search?search=dutch">Nederlands</a></li>
+							<li class="title"><a href="/search?search=german">Deutsch</a></li>
+						</ul>
+					</div>
+				</li> -->
+				<li class="align-right"><a>Live</a>
+					<div class="dropdown-group">
+						<ul class="span2">
+							<li class="title"><a href="/page/church-services">Church Services</a></li>
+							<li class="title"><a href="/page/conferences">Conferences</a></li>
+							<li class="title"><a href="/page/webinars">Webinars</a></li>
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</nav>
+	</div>
+
+	<div class="toolbar-nav">
+		<div class="container">
+			<ul class="nav">
+				<li><a href="/">Home</a></li>
+				<li><a href="/channels">Channels</a></li>
+				<li><a href="/videos">Videos</a></li>
+				<li><a href="/audios">Audio</a></li>
+				<li><a href="/articles">Articles</a></li>
+				<li><a href="/events">Events</a></li>
+				<li><a href="/playlists">Playlists</a></li>
+				<li><a href="/users/goteam">xpgoteam</a></li>
+			</ul>
+
+			<ul class="user-tools" role="search">
+				<li>
+	<form class="form-inline search" action="/search" method="get">
+		<input type="text" name="search" class="input-search" placeholder="Search" maxlength="64">
+	</form>
+</li>
+	<li><a href="/login?redirect=%2Fpage%2Fprivacy-policy">Log In</a></li>
+	<li><a class="primary" href="/users/choose?redirect=%2Fpage%2Fprivacy-policy">Sign Up</a></li>
+			</ul>
+		</div>
+	</div>
+</header>		
+		<div class="container">
+					</div>
+
+		<div role="main" id="main-content">
+			<div class="container">
+				<div class="layout">
+					<div class="content-main large">
+						<h1 class="title">Privacy Policy</h1>
+						<br><p>Last updated June 1, 2012</p>
+
+<p>&nbsp;</p>
+
+<h2>REVISIONS</h2><p>XPMEDIA.COM
+INC. MAY REVISE THIS PRIVACY POLICY, THE ONLINE TERMS OF USE AND ANY OTHER
+POLICIES AND AGREEMENTS AT ANY TIME BY UPDATING THIS POSTING. YOU SHOULD VISIT
+THIS PAGE FROM TIME TO TIME TO REVIEW THE THEN CURRENT TERMS BECAUSE THEY ARE
+BINDING ON YOU. YOUR USE OF THIS WEBSITE AFTER SUCH CHANGES ARE IMPLEMENTED
+CONSTITUTES YOUR ACKNOWLEDGEMENT AND ACCEPTANCE OF THESE CHANGES.&nbsp; CERTAIN PROVISIONS OF THESE TERMS MAY BE
+SUPERSEDED BY EXPRESSLY DESIGNATED TERMS LOCATED ON PARTICULAR PAGES OF THIS
+WEBSITE. </p>
+
+<p>&nbsp;</p>
+
+<p>Our
+Privacy Policy covers XPmedia.com Inc and its website:</p>
+
+<p>&nbsp;</p>
+
+<p><span>XPmedia.com's
+website can be accessed at <a rel="nofollow" target="_blank" href="http://www.xpmedia.com">www.xpmedia.com</a>.&nbsp;
+By using our website, you consent to the collection and use of your
+information by XPmedia.com as set forth in the Privacy Policy currently in
+effect. If we decide to change our policy, such changes will be posted here on
+the website. Please check back periodically to ensure that you have read the
+most current policy. </span></p>
+
+<p>&nbsp;</p>
+
+<h2>ANONYMOUS
+ACCESS TO VISITORS</h2><p>You
+can access XPmedia.com's website home page and browse our site without </p>
+
+<p>disclosing
+your personal data.</p>
+
+<p>&nbsp;</p>
+
+<h2>SERVICES
+AND LINKS OF OUR WEBSITE</h2><p>Our
+website does not enable our visitors to communicate with other visitors or to
+post information to be accessed by others. Our website includes links to other
+web service sites. Please note that these third party web service providers may
+collect personal data about our visitors who connect to their links. These
+websites are owned and operated independently of XPmedia.com and have their own
+separate privacy and data collection practices. Any information that you
+provide to these websites will be governed under the terms of their respective
+privacy policies, if any. XPmedia.com has no responsibility or liability
+whatsoever for the independent actions or policies of these third party
+websites and is not responsible for the content or privacy practices of these
+websites. XPmedia.com’s Pivacy Policy applies solely to the information collected
+by <a rel="nofollow" target="_blank" href="http://www.xpmedia.com/">www.XPmedia.com</a>.</p>
+
+<p>&nbsp; </p>
+
+<h2>COLLECTION
+OF INFORMATION; PURPOSE AND USE </h2>
 
 
 
-<div id="footer">
-	<p>
-	<a href="http://www.xpmedia.com/contact">Contact Us</a> | 
-        <a href="http://www.xpmedia.com/mission">Mission Statement</a> | 
-	<a href="http://www.xpmedia.com/terms">Terms of Use</a> |
-	<a href="http://www.xpmedia.com/policy">Privacy Policy</a> |
-        <a href="http://www.xpmedia.com/return">Return Policy</a> | 
-        <a href="http://www.xpmedia.com/faq">FAQ</a> |
-	<a href="http://www.xpmedia.com/feed">RSS</a> | 
-	<a href="http://www.xpmedia.com/wp-login.php">Login</a> | 
-	<span> © 2012 XPmedia.com. All rights reserved.</span>
-	</p>
-</div>
+<p>XPmedia.com collects personally-identifiable information
+when you voluntarily fill out the forms on this website to request assistance,
+literature or information, or to submit an application to become an Affiliate,
+or to place a product order or a subscription request. We retain that
+information in our database and use it to fulfill your request as well as using
+it for technical administration of the website, research and development, customer
+administration, and marketing. We do not require this information for users to
+obtain access to any part of our public website.</p>
 
-</div>
+<p>&nbsp;</p>
+
+<p>XPmedia.com keeps track of activity on our website via
+log files stored on our web servers. We collect information from our users at
+several different points on our website. We collect information such as IP
+address, browser type and version, and pages you view. We use “cookies” and
+other Web technologies to collect information and support certain features and
+functionality of our website. We may collect information about the ways you use
+<a rel="nofollow" target="_blank" href="http://www.xpmedia.com">www.xpmedia.com</a>, such as which pages you visit, which links you use, and how
+long you stay on each page. We may track the items in your shopping cart. We
+may also keep track of how you got to <a rel="nofollow" target="_blank" href="http://www.xpmedia.com">www.xpmedia.com</a> and any links you click
+on to leave <a rel="nofollow" target="_blank" href="http://www.xpmedia.com">www.xpmedia.com</a>.</p>
+
+<p>&nbsp;</p>
+
+<p>XPmedia.com
+does not link non-personal information stored in cookies with personal data
+about any specific individual. XPmedia.com collects only the personal data that
+you may volunteer while using our services. We do not seek or collect
+information about our visitors from other sources, such as public records or
+public agencies or private organizations. </p>
+
+<p>&nbsp; </p>
+
+<p>By
+sending XPmedia.com an electronic mail message (for example, an e-mail message
+containing an information request), you may be sending us
+personally-identifiable information. In these cases, we may retain the
+information as long as necessary to respond to your request or otherwise
+resolve the subject matter of your e-mail. </p>
+
+<p>&nbsp;</p>
+
+<p>Before
+collecting personally-identifiable information for new purposes, we will
+prominently disclose: </p>
+
+<p>•
+why we are requesting the information; </p>
+
+<p>•
+how it will be used; </p>
+
+<p>•
+how long it may be retained; and </p>
+
+<p>•
+under what conditions, and with whom, it may be shared. </p>
+
+<p>If
+we wish to use your personal data for new purposes, we offer you the means to
+consent to those new purposes by indicating in a box at the point on the
+website where personal data is collected. </p>
+
+<p>&nbsp;</p>
+
+<h2>ONLINE
+ORDERING</h2><p>XPmedia.com
+takes careful measures to protect your ordering and credit card information and
+to prevent the loss and misuse of such information. When you submit an order to
+XPmedia.com on this website, your information is encrypted and stored behind a
+firewall. You can purchase products and services or register to receive
+materials and information. In many cases, you may be asked to provide contact
+information, such as your name, address, email address, phone number and
+credit/debit card information. XPmedia.com uses the personal information you
+provide only to process that order. XPmedia.com does not share the information
+with outside parties except to the extent necessary to complete that order.
+XPmedia.com’s credit/debit card and order processing is protected by Digicert. </p>
+
+<p>&nbsp;&nbsp;&nbsp; </p>
+
+<p>&nbsp;</p>
+
+<h2>CHILDREN'S
+PRIVACY <br></h2>
 
 
+
+<p>XPmedia.com's marketing efforts are directed principally to
+adults and therefore this website is intended for use by those 13 years or
+older only. No information should be submitted to or posted on this website by
+visitors under the age of 13. Protecting children's privacy is especially
+important to us. It is our policy to comply with the Children's Online Privacy
+Protection Act of 1998 (COPPA) and all other applicable laws. This website is
+intended for use by those 13 years or older. </p>
+
+<p>&nbsp;</p>
+
+<p>YOU MUST BE THIRTEEN (13) YEARS OR OLDER TO ACCESS THIS
+WEBSITE. IF YOU ARE UNDER THIRTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO
+ACCESS THIS WEBSITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS
+WEBSITE, NO INFORMATION OBTAINED BY THIS WEBSITE, FALLS WITHIN THE CHILDREN'S
+ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO</p>
+
+<p>&nbsp;</p>
+
+<p>XPmedia.com
+does not disclose your personal data to any affiliated company(ies) or other
+organizations. </p>
+
+<p>&nbsp;</p>
+
+<p>CALIFORNIA PRIVACY
+RIGHTS UNDER THE CALIFORNIA ONLINE PRIVACY PROTECTION ACT AND THE CALIFORNIA
+BUSINESS AND PROFESSIONS CODE&nbsp; </p>
+
+<p>&nbsp;</p>
+
+<p>This
+Privacy Policy identifies the categories of personally identifiable information
+that XPmedia.com collects through this commercial website and the categories of
+third-party persons or entities with whom XPmedia.com may share that personally
+identifiable information.&nbsp; </p>
+
+<p>&nbsp;</p>
+
+<p>XPmedia.com
+maintains a process for an individual consumer who uses or visits our
+commercial website or online service to review and request changes to any of
+his or her personally identifiable information that is collected through our
+website. See the section below entitled “ACCESS TO THE PERSONAL DATA HELD BY XPMEDIA.COM”.
+</p>
+
+<p>&nbsp;</p>
+
+<p>The
+section entitled "REVISIONS" above describes the process by which XPmedia.com&nbsp; notifies consumers who use or visit our
+commercial website or online service of material changes to our company's
+Privacy Policy for this website or online service.</p>
+
+<p>&nbsp;</p>
+
+<p>The
+effective date of this Privacy Policy is listed at the beginning of this
+Privacy Policy under the heading, "Last updated."</p>
+
+<p>&nbsp;</p>
+
+<p>For
+the purposes of this policy and California compliance the following definitions
+apply:</p>
+
+<p>&nbsp;</p>
+
+<p>Depending
+on the visitor's activity in our commercial website or online service, the
+following "personally identifiable information" may be collected, in
+addition to information set forth in other sections of this Privacy Policy.</p>
+
+<p>&nbsp;</p>
+
+<p>The
+term "personally identifiable information" means individually
+identifiable information about an individual consumer collected online by XPmedia.com
+from an individual and maintained by XPmedia.com in an accessible form, and may
+include any of the following: </p>
+
+<p>&nbsp;</p>
+
+<ul><li>A first and last
+     name. </li><li>A home or other
+     physical address, including street name and name of a city or town. </li><li>An e-mail address. </li><li>A telephone number. .
+     </li><li>Any other identifier
+     that permits the physical or online contacting of a specific individual. </li><li>Information
+     concerning a user that this website or online service collects online,
+     from the user, and maintains in personally identifiable form, in
+     combination with an identifier described within this privacy policy.</li></ul>
+
+<p>&nbsp;</p>
+
+<p><br></p>
+
+<p>Under
+California Law SB 27, California residents have the right to receive, once a
+year, information about third parties with whom we have shared information
+about you or your family for their marketing purposes during the previous
+calendar year, if any, and a description of the categories of personal
+information shared. To make such a request, please send an email to
+sross@xpmedia.com and please include the phrase "California Privacy
+Request" in the subject line, the domain name of the website you are
+inquiring about, along with your name, address and email address. We will
+respond to you within thirty days of receiving such a request.&nbsp; </p>
+
+<p>&nbsp;</p>
+
+<h2>CONFIDENTIALITY
+/ SECURITY <br></h2>
+
+
+
+<p>XPmedia.com
+provides a secure transmission method to send identifiers (including but not
+limited to credit card details, website password and so forth). Our website
+provides forms allowing visitors to submit search engine queries,
+questionnaires, feedback, or other information. Some of these forms may request
+personally-identifiable information (e.g., name, address, e-mail address) for
+specific purposes, such as when the submitter is requesting a personal
+response, registering for a subscription, submitting an Affiliate application
+or subscribing to a mailing list. </p>
+
+<p>&nbsp;</p>
+
+<p>We
+may store non-personally-identifiable information we collect (such as search
+engine queries and anonymous survey responses) indefinitely to help us better
+understand and meet the needs of our visitors. This information is neither made
+available to any third parties nor combined with any other information at our
+disposal. XPmedia.com has implemented security policies, rules and technical
+measures to protect the personal data that we have under our control from
+unauthorized access, improper use or disclosure, unauthorized modification, and
+unlawful destruction or accidental loss.</p>
+
+<p>&nbsp;</p>
+
+<p>All
+XPmedia.com employees and data processors, who have access to and are
+associated with the processing of personal data, are obliged to respect the confidentiality
+of our visitors' personal data. We ensure that your personal data will not be
+disclosed to governmental institutions and authorities unless required by court
+order, by law, or by federal, state or municipal regulation. While we make
+every effort to ensure the integrity and security of our network and systems,
+we cannot guarantee that our security measures will prevent third-party
+"hackers" from illegally obtaining this information. </p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h2>OFFICIAL
+LANGUAGE</h2><p>The official language of this website, Privacy Policy and all documents
+provided on this website is American English. Regardless of whether this
+website or any of the documents provided on this website is translated into one
+or more other languages for marketing purposes or any other purpose, the
+official language is and shall remain American English. The American English
+form of this website and all documents provided on this website shall control
+and determine the interpretation thereof.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h2>ACCESS
+TO THE PERSONAL DATA HELD BY XPMEDIA.COM</h2>
+
+
+
+<p>You
+can ask XPmedia.com whether we are keeping personal data about you by sending
+an email to user@xpmedia.com. Upon request, XPmedia.com will provide you with a
+readable copy of your personal data held by us, if any such information exists,
+within a week. XPmedia.com reserves the right to require proof of your identity
+before providing any requested information. Upon proof of identification
+satisfactory to XPmedia.com, we will provide the information without
+charge.&nbsp;&nbsp; </p>
+
+<p>&nbsp;</p>
+
+<p>XPmedia.com
+allows you to challenge the data that we hold about you and, where appropriate,
+you may have the data erased from XPmedia.com's database. </p>
+
+<p>&nbsp;</p>
+
+<h2>PRIVACY
+COMPLIANCE</h2>
+
+
+
+<p>It
+is XPmedia.com’s policy to follow the Principles for Providing and Using
+Personal Information ("Privacy Principles"), published by the
+Information Infrastructure Task Force on June 6, 1995, and the International
+Chamber of Commerce (ICC) Guidelines on advertising and Marketing on the
+Internet. </p>
+
+<p>&nbsp;</p>
+
+<h2>PRIVACY
+SUPPORT</h2><p>If
+you have an inquiry or concern about this Privacy Policy, please contact
+<a rel="nofollow" target="_blank">sross@xpmedia.com</a>. </p>
+
+<p>&nbsp;</p>
+
+<p>©
+Copyright 2012 XPmedia.com, Inc. All Rights Reserved Worldwide.</p>					</div>
+					<div class="sidebar small">
+													<div class="attention-box">
+								<script type="text/javascript" class="non-rotate-ad">OA_show('224');</script>							</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<footer role="contentinfo" id="footer">
+	<div class="toolbar-nav clearfix">
+			</div>
+
+	<div class="container">
+		<nav role="navigation" class="footer-nav">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/videos">Videos</a></li>
+				<li><a href="/audios">Audio</a></li>
+			</ul>
+			<ul>
+				<li><a href="/channels">Channels</a></li>
+				<li><a href="/playlists">Playlists</a></li>
+				<li><a href="/articles">Articles</a></li>
+			</ul>
+			<ul>
+				<li><a href="/events">Events</a></li>
+				<li><a href="/page/links">Links</a></li>
+				<li><a href="/page/advertise">Advertise</a></li>
+			</ul>
+			<ul>
+				<li><a href="http://www.store2.extremeprophetic.com/content/Shop.php?Country=US" target="_blank">Store</a></li>
+				<li><a href="http://xpministries.org/" target="_blank">XPMinistries</a></li>
+				<li><a href="http://xpministries.org/index.php/giving/donations" target="_blank">Give</a></li>
+			</ul>
+			<ul>
+				<li><a href="/users/choose">Subscribe</a></li>
+				<li><a href="/page/faq">FAQ</a></li>
+			</ul>
+			<ul>
+				<li><a href="/page/contact-us">Contact Us</a></li>
+				<li><a href="/page/mission-statement">Mission Statement</a></li>
+				<li><a href="/page/terms-of-use">Terms of Use</a></li>
+			</ul>
+			<ul>
+				<li><a href="/page/privacy-policy">Privacy Policy</a></li>
+				<li><a href="/page/return-policy">Return Policy</a></li>
+				<li><a href="/login">Log In</a></li>
+			</ul>
+
+			<div class="social-icons">
+				<a class="social-facebook-small" href="http://facebook.com/" target="_blank">Facebook</a>
+				<a class="social-twitter-small" href="http://twitter.com/" target="_blank">Twitter</a>
+				<a class="social-rss-small" href="">RSS</a>
+			</div>
+		</nav>
+
+		<a class="logo beta" href="/">XPMedia</a>
+
+									<div class="ad-footer">
+					<div id="rotate43111846642"></div>
+<script type="text/javascript">	
+	// $(function() {
+		var flashvars = {
+			image_list_url: escape('/store/openx/www/delivery/ajs_xp.php?zoneid=117&allbanners=1&cb=43111846642'),
+			timer_delay: 20
+		};
+		var params = {
+			wmode: 'transparent'
+		};
+		swfobject.embedSWF('/files/rotator.swf', 'rotate43111846642', '728', '90', '9.0.0', 'expressInstall.swf', flashvars, params);
+	//});
+</script>				</div>
+						</div>
+</footer>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try{
-var pageTracker = _gat._getTracker("UA-15078094-1");
-pageTracker._trackPageview();
-} catch(err) {}
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31634444-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
-
+<script type="text/javascript"><!--
+document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + 
+"www.xpmedia.com/app/webroot/store/goteam/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));//-->
+</script><script id="pap_x2s6df8d" src="https://www.xpmedia.com/app/webroot/store/goteam/scripts/trackjs.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+PostAffTracker.setAccountId('default1');
+try {
+PostAffTracker.track();
+} catch (err) { }
+//-->
+</script>
 <!-- Start Alexa Certify Javascript -->
 <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "ZcEJf1a8n500E+", domain:"xpmedia.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=ZcEJf1a8n500E+" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
-
-
+<!-- End Alexa Certify Javascript -->	
+		
+	<!-- mus-loadModal -->
+<div class="modal fade" id="loadModal"></div>
+<script type="text/html" id="mus-loadModal">
+	<div class="modal-header">
+ 		<a class="close" data-dismiss="modal">×</a>
+		<h3>{{{header}}}</h3>
+	</div>
+	<div class="modal-body">
+		{{{body}}}
+	</div>
+	<div class="modal-footer">
+		{{{footer}}}
+	</div>
+</script>
 
 </body></html>
