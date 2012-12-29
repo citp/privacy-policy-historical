@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolfram.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621202153id_/http%3A//www.wolfram.com/legal/privacy/wolfram-research.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfram.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229144648id_/http%3A//www.wolfram.com/legal/privacy/wolfram-research.html) for the most accurate reproduction.*
 
 # Wolfram Research Privacy Policy
 
@@ -12,7 +12,14 @@ If you choose to receive communication from Wolfram Research, we may send you em
 
 We may release personally identifying information when we believe release is appropriate in order to comply with law; enforce our [Terms of Use](https://web.archive.org/legal/terms/wolfram-research.html) and other agreements; or protect the rights, property, or safety of Wolfram Research, our users, or others. 
 
-When you visit our websites, we, like most websites, send one or more cookies—small anonymous identifiers—to your computer that uniquely identify your browser. While we do use cookies for security and fraud investigation purposes, our primary purpose is to enhance your user experience by understanding and remembering your preferences and by general tracking of our user trends. Most browsers are initially set up to accept cookies, but you can configure your browser to accept all cookies, reject all cookies, or to notify you when a cookie is sent. Please be aware that some of our features and services may not have full functionality if your browser refuses cookies. 
+When you visit our website, we, like most websites, send one or more cookies—small anonymous identifiers—to your computer that uniquely identify you to our servers. While we do use cookies for security and fraud investigation purposes, our primary purpose is to enhance your user experience by understanding and remembering your preferences, and by general tracking of our user trends. Most browsers are initially set up to accept cookies, but you can configure your browser to accept all cookies, reject all cookies, or to notify you when a cookie is sent. Please be aware that Wolfram|Alpha may not have full functionality if your browser refuses cookies. We utilize the following types of cookies: 
+
+  1. Strictly Necessary Cookies: These cookies are strictly necessary to provide services that you have requested on our website.
+  2. Functional Cookies: These cookies support and facilitate your use of our website by enabling enhanced and personalized features.
+  3. Performance Cookies: These cookies collect information that we utilize to support the measurement of this website.
+  4. Targeting Cookies: These cookies are used by social sharing services (such as Facebook), and also by various third parties to deliver messaging that may be of value or interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
+
+
 
 We may update or modify this Privacy Policy from time to time in the future. Any such updates or modifications shall be effective immediately upon their posting. Please refer back to this page often for the latest information. 
 
