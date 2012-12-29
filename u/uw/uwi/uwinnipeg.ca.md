@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwinnipeg.ca privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501083519id_/http%3A//www.uwinnipeg.ca/index/admin-fippa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwinnipeg.ca privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229144723id_/http%3A//www.uwinnipeg.ca/index/admin-fippa) for the most accurate reproduction.*
 
 # Access and Privacy at UWinnipeg - The University Of Winnipeg
 
