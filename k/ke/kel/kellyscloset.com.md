@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellyscloset.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627121625id_/http%3A//www.kellyscloset.com/Kellys-Closet-Privacy-Policy_ep_39-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellyscloset.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229130308id_/http%3A//www.kellyscloset.com/Kellys-Closet-Privacy-Policy_ep_39-1.html) for the most accurate reproduction.*
 
 # Kelly's Closet Privacy Policy
 
