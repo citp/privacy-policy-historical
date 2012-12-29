@@ -1,89 +1,104 @@
-> *The following text is extracted and transformed from the vzam.net privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629050156id_/http%3A//www22.verizon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vzam.net privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229205319id_/http%3A//www22.verizon.com/privacy) for the most accurate reproduction.*
 
-# Verizon | About Verizon - Privacy Policy Summary
+# Verizon | About You - Privacy Policy
 
-Privacy Policy Summary
+###  Verizon is Committed to Protecting Your Privacy
 
-Verizon is Committed to Protecting Your Privacy
+Protecting our customers' privacy is an important priority at Verizon and we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options with regard to that collection and use. Key elements of our [full privacy policy](https://web.archive.org/about/privacy/policy/) are summarized below.
 
-Protecting our customers' privacy is an important priority at Verizon and we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options with regard to that collection and use. Key elements of our [full privacy policy](https://web.archive.org/about/privacy/policy/) are summarized below. 
-
-Verizon's privacy policy applies to customers of the Verizon family of companies in the United States and to visitors to Verizon websites. It does not apply to Verizon Business customers outside the United States.   
+Verizon's privacy policy applies to customers of the Verizon family of companies in the United States and to visitors to Verizon websites. It does not apply to Verizon Business customers outside the United States.  
 [Read more](https://web.archive.org/about/privacy/policy/)
 
-Information We Collect and How We Use It
+###  Information We Collect and How We Use It
 
 Verizon collects and uses information about our customers and website visitors for a variety of purposes. Information is obtained when you interact with us, when you use our products and services, and when you visit our websites.
 
 This information is used to deliver, provide, and repair products or services; establish and maintain customer accounts and billing records; contact you about our products and services and better direct specific offers or promotions to you; monitor website statistics; manage and protect our networks; monitor our customer service employees; and establish your online account. Information may also be aggregated or anonymized for business and marketing uses by us or by third parties.
 
-We may also obtain consumer information such as demographic and interest data from outside companies who provide such data. We use this data and combine it with other information we have to help us predict customer preferences and to direct marketing offers.   
+We may also obtain consumer information such as demographic and interest data from outside companies who provide such data. We use this data and combine it with other information we have to help us predict customer preferences and to direct marketing offers.  
 [Read more](https://web.archive.org/about/privacy/policy/#info)
 
-Information Provided to or Used by Third-Party Advertisers
+###  Information Provided to or Used by Third-Party Advertisers
 
-You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, third-party advertisers seek to provide advertising that they believe is more relevant to your interests. In these instances, cookies may be placed and used by advertising companies to collect information about your visit to our websites and may be combined with similar information obtained from other websites. We also may provide third-party advertisers with geographic or demographic information that allows them to tailor their ads. This information does not identify you individually. You have choices about how to limit the use of your information.   
+You may see third-party advertisements on some Verizon websites, services, or devices. In some instances, third-party advertisers seek to provide advertising that they believe is more relevant to your interests. In these instances, cookies may be placed and used by advertising companies to collect information about your visit to our websites and may be combined with similar information obtained from other websites. We also may provide third-party advertisers with geographic or demographic information that allows them to tailor their ads. This information does not identify you individually. You have choices about how to limit the use of your information.  
 [Read more](https://web.archive.org/about/privacy/policy/#3rdparty)
 
-Information We Share
+###  Information We Share
 
-**Within the Verizon Family of Companies:**  
-Verizon shares customer information within our family of companies for operational purposes. We also share customer information within our family of companies for our own marketing purposes unless you advise us not to. Specific laws govern our sharing and use of certain customer information known as Customer Proprietary Network Information.   
+  
+
+
+####  Within the Verizon Family of Companies:
+
+Verizon shares customer information within our family of companies for operational purposes. We also share customer information within our family of companies for our own marketing purposes unless you advise us not to. Specific laws govern our sharing and use of certain customer information known as Customer Proprietary Network Information.  
 [Read more](https://web.archive.org/about/privacy/policy/#insideVz)
 
-**Outside the Verizon Family of Companies:**  
-Except in certain circumstances explained in our Privacy Policy, in privacy policies for specific services, or in agreements with our customers, Verizon does not sell, license or share information that individually identifies our customers with others outside of Verizon for non-Verizon purposes without your consent. We may share information with our vendors and partners for business purposes and to the extent reasonably necessary for them to perform work on our behalf. Verizon may also share certain information with outside companies to assist with the delivery of advertising campaigns or preparing and sharing aggregate business and marketing reports.   
+####  Outside the Verizon Family of Companies:
+
+Except in certain circumstances explained in our Privacy Policy, in privacy policies for specific services, or in agreements with our customers, Verizon does not sell, license or share information that individually identifies our customers with others outside of Verizon for non-Verizon purposes without your consent. We may share information with our vendors and partners for business purposes and to the extent reasonably necessary for them to perform work on our behalf. Verizon may also share certain information with outside companies to assist with the delivery of advertising campaigns or preparing and sharing aggregate business and marketing reports.  
 [Read more](https://web.archive.org/about/privacy/policy/#outsideVz)
 
-How to Limit the Sharing and Use of Your Information
+###  How to Limit the Sharing and Use of Your Information
 
-**Your Choices**
-
-  * **Customer Information:**  
-You may choose to opt out of the sharing of specific customer information, within the Verizon family of companies for certain marketing purposes.   
-[Read more](https://web.archive.org/about/privacy/policy/#cpni)  
- 
-  * **Telemarketing:**  
-You may request to be removed from the Verizon telemarketing lists at any time.   
-[Read more](https://web.archive.org/about/privacy/policy/#telemktg)  
- 
-  * **Marketing Email, Postal Mail and Door-to-Door Calls:**  
-You may opt out of receiving marketing-related emails, text messages, or postal mailings or prevent door-to-door marketing.   
-[Read more](https://web.archive.org/about/privacy/policy/#emailmktg)  
- 
-  * **Information Used for Online Advertising:**  
-You have choices about whether certain information collected on websites, including Verizon's, is used to customize advertising based on predictions generated from your visits over time and across different websites.   
-[Read more](https://web.archive.org/about/privacy/policy/#howtolimit)  
- 
-  * **Wireless Location Services:**  
-Verizon Wireless services that use mobile device location data provide you with notice about the collection and use of this data as well as choices about whether specific location-tracking features available on your phone are turned on.   
-[Read more](https://web.archive.org/about/privacy/policy/#wireinfo)  
- 
-  * **FiOS TV Services:**  
-Specific cable-related privacy protections apply to Verizon's FiOS TV subscribers.   
-[Read more](https://web.archive.org/about/privacy/fiosprivacy/)  
- 
-  * **Geographic and Relevant Mobile Advertising:**  
-Verizon wireline Internet access customers may opt-out of participating in certain geographically-based advertising programs. Verizon Wireless Internet customers may opt-out of participating in relevant mobile advertising programs.   
-[Read more](https://web.archive.org/about/privacy/policy/#newwirelineinfo)  
- 
-  * **Business and Marketing Reports:**  
-Verizon Wireless customers may opt-out of allowing Verizon Wireless to use their information to create aggregated business and marketing reports.   
-[Read more](https://web.archive.org/about/privacy/policy/#wireinfo)  
- 
-  * **Parental Controls:**  
-Age-based content controls are available for parents of Verizon's Internet, Wireless and TV services.   
-[Read more](https://web.archive.org/about/privacy/policy/#parental)  
- 
+  
 
 
+####  Your Choices
 
-Information Security
+  * ####  Customer Information:
 
-Verizon has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of customer information we maintain.   
+You may choose to opt out of the sharing of specific customer information, within the Verizon family of companies for certain marketing purposes.  
+[Read more](https://web.archive.org/about/privacy/policy/#cpni)
+
+  * ####  Telemarketing:
+
+You may request to be removed from the Verizon telemarketing lists at any time.  
+[Read more](https://web.archive.org/about/privacy/policy/#telemktg)
+
+  * ####  Marketing Email, Postal Mail and Door-to-Door Calls:
+
+You may opt out of receiving marketing-related emails, text messages, or postal mailings or prevent door-to-door marketing.  
+[Read more](https://web.archive.org/about/privacy/policy/#emailmktg)
+
+  * ####  Information Used for Online Advertising:
+
+You have choices about whether certain information collected on websites, including Verizon's, is used to customize advertising based on predictions generated from your visits over time and across different websites.  
+[Read more](https://web.archive.org/about/privacy/policy/#infoadv)
+
+  * ####  Wireless Location Services:
+
+Verizon Wireless services that use mobile device location data provide you with notice about the collection and use of this data as well as choices about whether specific location-tracking features available on your phone are turned on.  
+[Read more](https://web.archive.org/about/privacy/policy/#wireinfo)
+
+  * ####  FiOS TV Services:
+
+Specific cable-related privacy protections apply to Verizon's FiOS TV subscribers.  
+[Read more](https://web.archive.org/about/privacy/fiosprivacy/)
+
+  * ####  Geographic and Relevant Mobile Advertising:
+
+Verizon wireline Internet access customers may opt-out of participating in certain geographically-based advertising programs. Verizon Wireless Internet customers may opt-out of participating in relevant mobile advertising programs.  
+[Read more](https://web.archive.org/about/privacy/policy/#relad)
+
+  * ####  Business and Marketing Reports:
+
+Verizon Wireless customers may opt-out of allowing Verizon Wireless to use their information to create aggregated business and marketing reports.  
+[Read more](https://web.archive.org/about/privacy/policy/#inforeport)
+
+  * ####  Parental Controls:
+
+Age-based content controls are available for parents of Verizon's Internet, Wireless and TV services.  
+[Read more](https://web.archive.org/about/privacy/policy/#parental)
+
+
+
+
+###  Information Security
+
+Verizon has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of customer information we maintain.  
 [Read more](https://web.archive.org/about/privacy/policy/#infosecurity)
 
-Contact Information
+###  Contact Information
 
 If you have questions, concerns or suggestions related to our Privacy Policy or our privacy practices, you may contact us at:
 
@@ -92,38 +107,21 @@ Verizon Privacy Office
 9th Floor  
 Arlington, VA 22201  
 Fax: 703-351-3669  
-Email: [privacyoffice@verizon.com](mailto:privacyoffice@verizon.com)
+Email: [privacyoffice@verizon.com ](mailto:privacyoffice@verizon.com)
 
-Accessing and Updating Your Information 
+###  Accessing and Updating Your Information
 
-You may correct inaccuracies in your information by calling a customer service representative or by accessing your online account and updating your information.   
+You may correct inaccuracies in your information by calling a customer service representative or by accessing your online account and updating your information.  
 [Read more](https://web.archive.org/about/privacy/policy/#infoupdate)
 
-Changes to the Privacy Policy
+###  Changes to the Privacy Policy
 
-If Verizon elects to use or disclose information that identifies you as an individual in a manner that is materially different from that stated in our policy at the time we collected that information from you, we will give you a choice regarding such use or disclosure by appropriate means, which may include use of an opt-out mechanism.   
+If Verizon elects to use or disclose information that identifies you as an individual in a manner that is materially different from that stated in our policy at the time we collected that information from you, we will give you a choice regarding such use or disclosure by appropriate means, which may include use of an opt-out mechanism.  
 [Read more](https://web.archive.org/about/privacy/policy/#infochange)
 
-Verizon is a licensee of the TRUSTe Privacy Program.   
+Verizon is a licensee of the TRUSTe Privacy Program.  
 [Read more](https://web.archive.org/about/privacy/policy/#truste)
-
-[](http://www.truste.org/ivalidate.php?url=www.verizon.com&sealid=101)
 
 Updated September 2011
 
-**© 2009, 2011 Verizon. All Rights Reserved.**
-
-|    
-
-
-**Verizon Participates in the TRUSTe Privacy Program**
-
-[](http://www.truste.org/ivalidate.php?url=www.verizon.com&sealid=101) The TRUSTe seal confirms that Verizon is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization that seeks to build users' trust and confidence in the Internet by promoting the use of fair information practices. Verizon wants you to feel confident about your privacy when you use our Web sites (verizon.com, verizonmarketing.com, verizonwireless.com, mci.com, verizonbusiness.com, vzw.com, vzwshop.com, and verizon.net) so we ask TRUSTe to review these sites to ensure compliance with its guidelines.
-
-Please [contact us](https://web.archive.org/customersupport/contactus/) if you have questions or concerns regarding our privacy policy. If you have not received acknowledgement of your inquiry or your inquiry has not been addressed satisfactorily, you should [contact TRUSTe](http://www.truste.org/about/contacts.php) who then will serve as a liaison to help resolve your concerns.
-
-The TRUSTe program covers only information that is collected through Verizon's Web sites and does not cover information that may be collected through software downloaded from the sites. 
-
-**Verizon is accredited by the Better Business Bureau OnLine (BBBOnLine)**
-
-[](http://www.bbbonline.org/cks.asp?id=108072593112)The BBBOnLine seal confirms that Verizon is an accredited business that abides by the [BBB's Code of Business Practices](http://www.bbb.org/us/bbbonline/). This Code represents sound advertising and selling practices that enhance customer trust and confidence in a business. With regard to safeguarding privacy, the BBB Code requires accredited businesses to protect any data they collect against mishandling and fraud, collect personal information only as needed, and respect the preferences of customers regarding the use of their information. 
+© 2009, 2011 Verizon. All Rights Reserved.
