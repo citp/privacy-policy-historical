@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chupamobile.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509054145id_/http%3A//www.chupamobile.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chupamobile.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229110849id_/http%3A//www.chupamobile.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy | Chupa Mobile
+# Privacy policy | Chupamobile
 
 ## Privacy policy
 
