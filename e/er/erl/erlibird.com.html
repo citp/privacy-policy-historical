@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the erlibird.com privacy policy that was archived on 2012-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120605014110id_/http%3A//www.erlibird.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the erlibird.com privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229045425id_/http%3A//www.erlibird.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -11,19 +11,23 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
 
-    <link href="/includes/css/mainstyle.css" rel="stylesheet" type="text/css">
-    <link type="text/css" href="/libraries/jquery-ui/jquery-ui-1.8.18.custom.css" rel="Stylesheet">
-    <link type="text/css" href="/libraries/tiptip/tipTip.css" rel="Stylesheet"> 
-  
+    <link href="/includes/css/mainstyle-launch2.css" rel="stylesheet" type="text/css">
+    <link type="text/css" href="/libraries/jquery-ui/jquery-ui-1.8.21.custom.css" rel="Stylesheet">
+
+    <link href="//fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+    <link href="/libraries/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
     <link rel="shortcut icon" href="/images/favicon.png"> 
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=390233561016483"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script type="text/javascript" id="janrainAuthWidget" src="https://rpxnow.com/js/lib/erli-bird/engage.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
     </script>
 
     
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="/libraries/jquery.tipTip.minified.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+    <script src="/libraries/bootstrap/js/bootstrap.min.js"></script>
+    <script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
 
     <script type="text/javascript" src="/includes/js/base.js"></script>
 
@@ -42,7 +46,13 @@
 	
 </script>
 
+  <script type="text/javascript">
+    var newAccount=0;
+    var autoEntry=0;
+    var badgeArray = 0;
    
+  </script>
+
 	<script type="text/javascript" src="/libraries/respond.min.js"></script>
    
 	<script type="text/javascript">
@@ -53,68 +63,80 @@
     
       (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
     
     </script>
 
-	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+
+    <script type="text/javascript">
+    (function() {
+        if (typeof window.janrain !== 'object') window.janrain = {};
+        if (typeof window.janrain.settings !== 'object') window.janrain.settings = {};
+        
+        janrain.settings.tokenUrl = 'https://erlibird.com/userauth.php';  
+/*        janrain.settings.tokenUrl = 'http://local.erlibird.com/userauth.php';    */
+
+        function isReady() { janrain.ready = true; };
+        if (document.addEventListener) {
+          document.addEventListener("DOMContentLoaded", isReady, false);
+        } else {
+          window.attachEvent('onload', isReady);
+        }
+
+        var e = document.createElement('script');
+        e.type = 'text/javascript';
+        e.id = 'janrainAuthWidget';
+
+        if (document.location.protocol === 'https:') {
+          e.src = 'https://rpxnow.com/js/lib/erli-bird/engage.js';
+        } else {
+          e.src = 'http://widget-cdn.rpxnow.com/js/lib/erli-bird/engage.js';
+        }
+
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(e, s);
+    })();
+    </script>
+
+
+<!-- start Mixpanel --><script type="text/javascript">(function(c,a){var b,d,h,e;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+'//api.mixpanel.com/site_media/js/api/mixpanel.2.js';d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?g=
+a[f]=[]:f="mixpanel";g.people=g.people||[];h="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config people.set people.increment".split(" ");for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.1;window.mixpanel=a})(document,window.mixpanel||[]);
+mixpanel.init("3914e02dffb8904c2259efc6a525513b");</script><!-- end Mixpanel -->
+
+	</head>
     
     <body>
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=390233561016483";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
-    <div id="fb-root"></div>    
-    <script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId      : '420619917971448', // App ID
-          channelUrl : './includes/facebook-channel.php', // Channel File
-          status     : true, // check login status
-          cookie     : true, // enable cookies to allow the server to access the session
-          xfbml      : true,  // parse XFBML
-          oauth : true //enables OAuth 2.0            
-        });     
-
-        // Additional initialization code here
-      };
-
-      
-      // Load the SDK Asynchronously
-      (function(d){
-         var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-         js = d.createElement('script'); js.id = id; js.async = true;
-         js.src = "//connect.facebook.net/en_US/all.js";
-         d.getElementsByTagName('head')[0].appendChild(js);
-       }(document));
-    </script>    
-
-
-    <div class="pagewrap clear masterWrap">
-   
     <header class="clear">
-        <a href="http://www.erlibird.com"><img src="/images/logo-final.png"></a>
-        <span id="sitefor">
-            The site for Early Adopters
-        </span>
-        <ul>
-            <li><a href="/startups">Startups</a></li>
-            <li class="selected"><a href="http://www.erlibird.com">Early Adopters</a></li>
-        </ul>
+        <div class="pagewrap">
+
+            <div id="logo">
+                <a href="http://www.erlibird.com"><img src="/images/black-logo.png"></a>
+            </div>
+            <span id="sitefor">
+            The site for early adopters
+            </span>
+            <ul>
+                <li><a href="https://erlibird.com/login?login=1&amp;retURL=%2Fprivacy">Login</a></li>
+                <li id="leaderboardMenu"><a href="/leaders">Leaderboard</a></li>
+                <li><a href="https://erlibird.com/login?login=0">Join Today!</a></li>
+            </ul>
+        </div>            
     </header>
 
-    <div id="menuBar" class="clear">
-        
-        <a class="fbButton" href="#"><img id="fbicon" src="/images/fb-icon.png"><img src="/images/loginfb.png"></a> <span class="toolTip" id="noFB" title="Please check out our blog (bottom of page) for more info!">Why only FB?
-        <div id="emailDiv">
-            <div id="emailWrap">
-                <label>email address</label>
-                <input type="text" id="emailAddress" name="emailAddress" value="">
-            </div>
-            <a id="subscribeButton" href="#"><img src="/images/sub.png"></a>
-        </div>        
-
-    </span></div>
+    <div id="mainPage">
+        <div class="pagewrap clear">    
 
 
 <div class="terms">
@@ -127,12 +149,15 @@
 	<p>We respect your right to privacy and will not give your personal information to third parties.</p>
 
 	<h3>Communication Through Email</h3>
-	<p>If you don't want to hear from us, please opt-out from our emails on the bottom of the email. If for some reason this does not work, please email us at team@erlibird.com and we will promptly remove you from our list.</p>
-	<p>We will send one or two emails a week related to new startups that we feature.</p>
+	<p>We allow you to get on our email list by providing your email address or using our join/login system to login with various third-party credentials.</p>
+	<p>If you don't want to hear from us, please opt-out from our emails on the bottom of the email. If for some reason this does not work or you would rather contact us directly, please email us at team@erlibird.com and we will promptly remove you from our list.</p>
+	<p>By default, we will send you approximately one email a week related to new startups and products that we feature.</p>
+	<p>Users that have requested access to Erli Bird but have not yet been granted access will not be sent recurring weekly emails.</p>
 	<p>We may send you service announcements or notifications.</p>
 
 	<h3>When Your Information is Shared</h3>
 	<p>As important function of Erli Bird is to allow users to locate startups and communicate with founders. As such, an integral part of the service is facilitating communication by sharing the information that you make available through your profile (either directly, or by logging in through a social networking service). If you sign up and "Claim Your Spot" for a Startup incentive, you grant us the right to share your personal information with the Startup. This helps facilitate delivery of the incentive and communication between you and the startup founders. Startups must agree not to abuse your personal information prior to being listed on Erli Bird.</p>
+	<p>We use a third-party login system from Janrain called Engage in order to allow you to login using your credentials from various popular third party websites. As the provider of these systems, your login and social profile data is first accessed and processed by Janrain and then sent to Erli Bird.</p>
 
 	<p>We may provide your information to third parties in certain situations:</p>
 	<ul>
@@ -152,7 +177,7 @@
 
 	<p>We automatically collect certain information as you browse the Website. We collect your IP address, general location, browser type, browser software version, and other information about the device used to browse our Website and how you connect to and use our Website. We also use third party platforms to help us analyze our traffic and usage patterns at an aggregate level in order to administer and improve our Website and services.</p>
 	<p>Erli Bird works with certain third party software providers in order to provide the Website, and sections of the Website may include code or scripts from third parties. These third party software providers may have access to certain personal information collected through the Website. Google is used to provide analytics data to Erli Bird, and both Google and Erli Bird will have access to your anonymous traffic data.</p>	
-	<p>Our Website, email systems, and advertisements make use of "cookies" and related technologies such as web beacons. "Cookies" are small files that are stored on your local hard drive that allow the Website to operate and help us improve the service.  For example, we use cookies to allow users to log in and log out of Erli Bird and maintain data associated with each user session. We also use cookies to collect and track information about how you use our site, including what pages you visit, how long you stay on each page, and your navigation patterns. We use web beacons in email and advertisements to help us measure the effectiveness of our communications, prevent spam and fraud, and track whether or not a certain email has been opened.</p> 	
+	<p>Our Website, email systems, and advertisements make use of "cookies" and related technologies such as web beacons. "Cookies" are small files that are stored on your local hard drive that allow the Website to operate and help us improve the service.  For example, we use cookies to allow users to log in and log out of Erli Bird and maintain data associated with each user session. We also use cookies to collect and track information about how you use our site, including what pages you visit, how long you stay on each page, and your navigation patterns. We use web beacons in email and advertisements to help us measure the effectiveness of our communications, prevent spam and fraud, and track whether or not a certain email has been opened. Long term persistent cookies are used to allow users to revisit our website without logging in every time.</p> 	
 	<p>When you login to our site using Facebook or otherwise link your account with Facebook or another social networking service, you permit Erli Bird to access, collect, and indefintely store and use the information made available to us through the social networking site related to your account and/or your friends accounts. The information you allow Erli Bird to access is dependent on your privacy settings at the applicable third party site and made available to Erli Bird upon clicking "accept", "allow" or other similar term.</p>
 
 	<h3>Security</h3>
@@ -169,23 +194,76 @@
 </div>
 
 	       
-        <div id="ifmad"><a href="http://word.erlibird.com">If you'd rather not login with Facebook, please check out our blog post. Thanks everyone for making our launch a success!</a></div>
-  
-        <footer>
-                <div>
-                  <a href="mailto: team@erlibird.com">Contact Us</a> / <a href="/Erli-Bird.zip">Press Kit</a> / <a href="/terms">Terms of Usage</a> / <a href="/privacy">Privacy Policy</a>
-                </div>
-                <div>
-                  <a href="http://www.facebook.com/ErliBird">Facebook Us</a> / <a href="http://www.twitter.com/erlibirdapp">Tweet Us</a> / <a href="http://word.erlibird.com">Blog it Up</a>
-                </div>
+        </div> <!-- mainPage -->
+    </div> <!-- pagewrap -->
 
-                <div>
-                  © Copyright 2012 Erli Bird
+    <footer>
+
+        <div id="cloudBottom">
+            <div class="pagewrap">&nbsp;
+            </div>
+        </div>
+
+        <div class="pagewrap clear" id="footerBottom">
+
+            <div id="footerAbout">
+                <div class="footerHead">About Erli Bird</div>
+                Discover innovative new technology and help shape today's best tech startups. Complete objectives, climb the leaderboard, and become an insider to unlock additional features and exclusivity.
+            </div>
+
+            <div id="footerMenuSocial" class="footerMenu">
+                <div class="footerHead">
+                    Stay in Touch
                 </div>
+                <ul>
+                    <li><div class="fb-like" data-href="http://www.facebook.com/ErliBird" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div></li>
+                    <li>
+                        <div>
+                            <a href="https://twitter.com/erlibirdapp" class="twitter-follow-button" data-show-count="false">Follow @erlibirdapp</a>
+                        </div>
+                    </li>
+                    <li><a href="https://plus.google.com/100866512074155550722" rel="publisher">Find us on Google+</a></li>
+                    <li><a href="http://word.erlibird.com">Erli Bird Blog</a></li>
+                </ul>
+            </div>
 
-        </footer>
+            <div id="footerMenuMenu" class="footerMenu">
+                <div class="footerHead">
+                Menu
+                </div>
+                <ul>
+                    <li><a href="mailto: team@erlibird.com">Contact Us</a></li>
+                    <li><a href="/Erli-Bird-About.zip">Press Kit</a></li>
+                    <li><a href="/startups">Submit Your Startup</a></li>
+                    <li><a href="/partners">Have a blog? Join as Partner</a></li>
+                </ul>
+            </div>
 
+            <div id="termsSection">
+                <a href="/terms">Terms of Usage</a><a href="/privacy">Privacy Policy</a>
+            </div>
+
+            <div id="footTree">
+                <img src="/images/foot-tree.png">
+            </div>
+
+        </div>
+      
+    </footer>
+
+    <div id="badgePopup">
+        <div style="position: relative;">
+            <h5>New Badge</h5>
+            <div id="badgeDesc">
+                <h6>Badge Name</h6>
+                <p>Badge Desc</p>
+            </div>
+            <div id="badges">
+            </div>
+            <div class="dialogClose"></div>
+        </div>
     </div>
+
 
 
 
