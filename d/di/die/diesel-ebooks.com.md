@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617174557id_/http%3A//www.diesel-ebooks.com/cms/about_diesel/About-Diesel/1.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diesel-ebooks.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229104839id_/http%3A//www.diesel-ebooks.com/cms/about_diesel/About-Diesel/1.html%23Privacy) for the most accurate reproduction.*
 
 # World Famous eBook Store | Diesel eBook Store
 
