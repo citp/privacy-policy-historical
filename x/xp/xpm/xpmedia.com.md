@@ -1,59 +1,114 @@
-> *The following text is extracted and transformed from the xpmedia.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618214209id_/http%3A//www.xpmedia.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpmedia.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229134139id_/http%3A//www.xpmedia.com/page/privacy-policy) for the most accurate reproduction.*
 
-# XPmedia.com - Policy
+# Privacy Policy - XPMedia.com
 
-This policy will outline our organization’s guidelines respecting your privacy and the protection of personal information. This policy will apply to XPmedia.com.
+Last updated June 1, 2012
 
-### Why we collect personal information
+## REVISIONS
 
-XPmedia.com collects and discloses personal information about a variety of individuals, including subscribers, employees, volunteers, teachers, intercessors and ministers primarily in order to build relationship with these individuals through email transmissions.
+XPMEDIA.COM INC. MAY REVISE THIS PRIVACY POLICY, THE ONLINE TERMS OF USE AND ANY OTHER POLICIES AND AGREEMENTS AT ANY TIME BY UPDATING THIS POSTING. YOU SHOULD VISIT THIS PAGE FROM TIME TO TIME TO REVIEW THE THEN CURRENT TERMS BECAUSE THEY ARE BINDING ON YOU. YOUR USE OF THIS WEBSITE AFTER SUCH CHANGES ARE IMPLEMENTED CONSTITUTES YOUR ACKNOWLEDGEMENT AND ACCEPTANCE OF THESE CHANGES.  CERTAIN PROVISIONS OF THESE TERMS MAY BE SUPERSEDED BY EXPRESSLY DESIGNATED TERMS LOCATED ON PARTICULAR PAGES OF THIS WEBSITE. 
 
-### Subscribers
+Our Privacy Policy covers XPmedia.com Inc and its website:
 
-In voluntarily subscribing for newsletters, product specials, event registrations, or platinum membership, whether by mail or on the internet, subscribers provide basic contact information to us, and sometimes credit card or other payment information. We use that information to keep you informed of updates, provide the material or product to you, to process payment, to track your utilization of our resources and to recommend other products or services that we believe may be of interest to you.
+XPmedia.com's website can be accessed at [www.xpmedia.com](http://www.xpmedia.com/).  By using our website, you consent to the collection and use of your information by XPmedia.com as set forth in the Privacy Policy currently in effect. If we decide to change our policy, such changes will be posted here on the website. Please check back periodically to ensure that you have read the most current policy. 
 
-XPmedia.com also purchases email lists containing subscriber contact information from marketing sources. These names and contact information are added to our database.
+## ANONYMOUS ACCESS TO VISITORS
 
-### Employees/Volunteers
+You can access XPmedia.com's website home page and browse our site without 
 
-With respect to employees and volunteers, we collect personal information in order to manage and supervise the employment or volunteer relationship between our organization and the individual. The information is not utilized for any other purpose without your consent.
+disclosing your personal data.
 
-### Teachers, Intercessors and Ministers
+## SERVICES AND LINKS OF OUR WEBSITE
 
-In the case of our teachers, intercessors and ministers, personal information is collected with consent in order to verify qualifications, match participants with appropriate programs and enable the proper use of XPMedia.com  resources in fulfilling our mandate and operational goals.
+Our website does not enable our visitors to communicate with other visitors or to post information to be accessed by others. Our website includes links to other web service sites. Please note that these third party web service providers may collect personal data about our visitors who connect to their links. These websites are owned and operated independently of XPmedia.com and have their own separate privacy and data collection practices. Any information that you provide to these websites will be governed under the terms of their respective privacy policies, if any. XPmedia.com has no responsibility or liability whatsoever for the independent actions or policies of these third party websites and is not responsible for the content or privacy practices of these websites. XPmedia.com’s Pivacy Policy applies solely to the information collected by [www.XPmedia.com](http://www.xpmedia.com/).
 
-### The kinds of information we collect
+## COLLECTION OF INFORMATION; PURPOSE AND USE 
 
-XPmedia.com collects widely varying types of personal information, depending on the circumstances. What we collect depends on the particular purpose for collection and the particular circumstances involved. For example, employee information includes certain medical and health information. Teachers, intercessors and ministers provide us with more detailed background information. Subscribers voluntarily supply us with name, address, phone number and email particulars.
+XPmedia.com collects personally-identifiable information when you voluntarily fill out the forms on this website to request assistance, literature or information, or to submit an application to become an Affiliate, or to place a product order or a subscription request. We retain that information in our database and use it to fulfill your request as well as using it for technical administration of the website, research and development, customer administration, and marketing. We do not require this information for users to obtain access to any part of our public website.
 
-### How we obtain the personal information
+XPmedia.com keeps track of activity on our website via log files stored on our web servers. We collect information from our users at several different points on our website. We collect information such as IP address, browser type and version, and pages you view. We use “cookies” and other Web technologies to collect information and support certain features and functionality of our website. We may collect information about the ways you use [www.xpmedia.com](http://www.xpmedia.com/), such as which pages you visit, which links you use, and how long you stay on each page. We may track the items in your shopping cart. We may also keep track of how you got to [www.xpmedia.com](http://www.xpmedia.com/) and any links you click on to leave [www.xpmedia.com](http://www.xpmedia.com/).
 
-Most of the personal information collected by XPmedia.com is collected directly by our representatives from either subscribers, employees, volunteers, teachers, intercessors and ministers along with subscriber information obtained form marketing companies.
+XPmedia.com does not link non-personal information stored in cookies with personal data about any specific individual. XPmedia.com collects only the personal data that you may volunteer while using our services. We do not seek or collect information about our visitors from other sources, such as public records or public agencies or private organizations. 
 
-In many cases, the consent of the individual providing information to us is inferred from the circumstances in which the information is provided. On occasion, as with compilation of subscriber information, we rely on specific subscriber consent or provide the individual with an opportunity to “opt out” of participation in certain programs.
+By sending XPmedia.com an electronic mail message (for example, an e-mail message containing an information request), you may be sending us personally-identifiable information. In these cases, we may retain the information as long as necessary to respond to your request or otherwise resolve the subject matter of your e-mail. 
 
-### Disclosure of personal information
+Before collecting personally-identifiable information for new purposes, we will prominently disclose: 
 
-Disclosure of subscriber information is generally restricted to our own purposes, and disclosure outside the organization is usually limited to those circumstances where consent has been provided although we reserve the right to disclose or sell subscriber information when the corporation determines necessary. With respect to employee and volunteer information, XPmedia.com may from time to time disclose that information to affiliated organizations or to third party service providers. In all cases, disclosure may be made to legal counsel and other consultants and agents, to government authorities and otherwise as permitted or required by law.
+• why we are requesting the information; 
 
-### Security of personal information
+• how it will be used; 
 
-Personal information recorded in documents is securely stored at the XPmedia.com premises and affiliated offices. Electronically recorded information is stored on computer systems maintained by us and our affiliated organizations or service providers. Those computer systems and the information stored in them are protected by electronic security systems. We restrict access to personal information to only those employees or volunteers who have a legitimate purpose in doing so. Employees who routinely handle personal information receive training with respect to proper personal information handling practices and they are under an obligation to comply with all privacy laws, this policy and any related codes of conduct.
+• how long it may be retained; and 
 
-Our compliance with appropriate personal information practices and privacy laws is overseen by and it is the responsibility of our Chief Privacy Officer who can be contacted at 520-483-2786 or by writing XPmedia.com, 20987 N. John Wayne Pkwy, B104-122, Maricopa, AZ 85239.
+• under what conditions, and with whom, it may be shared. 
 
-### Accuracy
+If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes by indicating in a box at the point on the website where personal data is collected. 
 
-XPmedia.com  is committed to the accuracy of any personal information that is in its custody or control.
+## ONLINE ORDERING
 
-### Access to personal information
+XPmedia.com takes careful measures to protect your ordering and credit card information and to prevent the loss and misuse of such information. When you submit an order to XPmedia.com on this website, your information is encrypted and stored behind a firewall. You can purchase products and services or register to receive materials and information. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number and credit/debit card information. XPmedia.com uses the personal information you provide only to process that order. XPmedia.com does not share the information with outside parties except to the extent necessary to complete that order. XPmedia.com’s credit/debit card and order processing is protected by Digicert. 
 
-Upon written request and subject to any reasonable conditions which we may be entitled to impose, XPmedia.com will provide reasonable access to an individual to review the personal information in the custody or control of XPmedia.com relating to that individual. Access will not be provided if doing so would likely reveal personal information about a third party, is the subject of solicitor/client privilege, would reveal confidential commercial information, relates to an investigation or proceeding, or we are otherwise required or permitted to withhold access by law.
+## CHILDREN'S PRIVACY   
 
-### Amendments
 
-The XPmedia.com may amend this policy from time to time at its discretion. The current version of our Privacy Policy is always available at 520-483-2786 or by writing XPmedia.com, 20987 N. John Wayne Pkwy, B104-122, Maricopa, AZ  85239.
+XPmedia.com's marketing efforts are directed principally to adults and therefore this website is intended for use by those 13 years or older only. No information should be submitted to or posted on this website by visitors under the age of 13. Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 (COPPA) and all other applicable laws. This website is intended for use by those 13 years or older. 
 
-### Complaint resolution procedure
+YOU MUST BE THIRTEEN (13) YEARS OR OLDER TO ACCESS THIS WEBSITE. IF YOU ARE UNDER THIRTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEBSITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEBSITE, NO INFORMATION OBTAINED BY THIS WEBSITE, FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO
 
-Any questions or complaints should be directed in writing to our Chief Privacy Officer, who will investigate as appropriate and provide a written response, usually within 30 days.
+XPmedia.com does not disclose your personal data to any affiliated company(ies) or other organizations. 
+
+CALIFORNIA PRIVACY RIGHTS UNDER THE CALIFORNIA ONLINE PRIVACY PROTECTION ACT AND THE CALIFORNIA BUSINESS AND PROFESSIONS CODE 
+
+This Privacy Policy identifies the categories of personally identifiable information that XPmedia.com collects through this commercial website and the categories of third-party persons or entities with whom XPmedia.com may share that personally identifiable information. 
+
+XPmedia.com maintains a process for an individual consumer who uses or visits our commercial website or online service to review and request changes to any of his or her personally identifiable information that is collected through our website. See the section below entitled “ACCESS TO THE PERSONAL DATA HELD BY XPMEDIA.COM”. 
+
+The section entitled "REVISIONS" above describes the process by which XPmedia.com  notifies consumers who use or visit our commercial website or online service of material changes to our company's Privacy Policy for this website or online service.
+
+The effective date of this Privacy Policy is listed at the beginning of this Privacy Policy under the heading, "Last updated."
+
+For the purposes of this policy and California compliance the following definitions apply:
+
+Depending on the visitor's activity in our commercial website or online service, the following "personally identifiable information" may be collected, in addition to information set forth in other sections of this Privacy Policy.
+
+The term "personally identifiable information" means individually identifiable information about an individual consumer collected online by XPmedia.com from an individual and maintained by XPmedia.com in an accessible form, and may include any of the following: 
+
+  * A first and last name. 
+  * A home or other physical address, including street name and name of a city or town. 
+  * An e-mail address. 
+  * A telephone number. . 
+  * Any other identifier that permits the physical or online contacting of a specific individual. 
+  * Information concerning a user that this website or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
+
+
+
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, if any, and a description of the categories of personal information shared. To make such a request, please send an email to sross@xpmedia.com and please include the phrase "California Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request. 
+
+## CONFIDENTIALITY / SECURITY   
+
+
+XPmedia.com provides a secure transmission method to send identifiers (including but not limited to credit card details, website password and so forth). Our website provides forms allowing visitors to submit search engine queries, questionnaires, feedback, or other information. Some of these forms may request personally-identifiable information (e.g., name, address, e-mail address) for specific purposes, such as when the submitter is requesting a personal response, registering for a subscription, submitting an Affiliate application or subscribing to a mailing list. 
+
+We may store non-personally-identifiable information we collect (such as search engine queries and anonymous survey responses) indefinitely to help us better understand and meet the needs of our visitors. This information is neither made available to any third parties nor combined with any other information at our disposal. XPmedia.com has implemented security policies, rules and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss.
+
+All XPmedia.com employees and data processors, who have access to and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. We ensure that your personal data will not be disclosed to governmental institutions and authorities unless required by court order, by law, or by federal, state or municipal regulation. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
+
+## OFFICIAL LANGUAGE
+
+The official language of this website, Privacy Policy and all documents provided on this website is American English. Regardless of whether this website or any of the documents provided on this website is translated into one or more other languages for marketing purposes or any other purpose, the official language is and shall remain American English. The American English form of this website and all documents provided on this website shall control and determine the interpretation thereof.
+
+## ACCESS TO THE PERSONAL DATA HELD BY XPMEDIA.COM
+
+You can ask XPmedia.com whether we are keeping personal data about you by sending an email to user@xpmedia.com. Upon request, XPmedia.com will provide you with a readable copy of your personal data held by us, if any such information exists, within a week. XPmedia.com reserves the right to require proof of your identity before providing any requested information. Upon proof of identification satisfactory to XPmedia.com, we will provide the information without charge.  
+
+XPmedia.com allows you to challenge the data that we hold about you and, where appropriate, you may have the data erased from XPmedia.com's database. 
+
+## PRIVACY COMPLIANCE
+
+It is XPmedia.com’s policy to follow the Principles for Providing and Using Personal Information ("Privacy Principles"), published by the Information Infrastructure Task Force on June 6, 1995, and the International Chamber of Commerce (ICC) Guidelines on advertising and Marketing on the Internet. 
+
+## PRIVACY SUPPORT
+
+If you have an inquiry or concern about this Privacy Policy, please contact sross@xpmedia.com. 
+
+© Copyright 2012 XPmedia.com, Inc. All Rights Reserved Worldwide.
