@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112548id_/http%3A//www.oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygenxml.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135800id_/http%3A//oxygenxml.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - oXygen XML editor
 
