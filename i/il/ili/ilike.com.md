@@ -1,100 +1,116 @@
-> *The following text is extracted and transformed from the ilike.com privacy policy that was archived on 2012-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120103184608id_/http%3A//www.ilike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilike.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229041429id_/http%3A//www.myspace.com/Help/Privacy%3Fpm_cmp%3Ded_footer) for the most accurate reproduction.*
 
-# iLike - Privacy Policy
+# Privacy - Myspace.com
 
-### Privacy Policy
+##  Privacy Policy 
 
-Privacy Policy as of August 2, 2007.
+###  Last Revised December 17th, 2012: 
 
-**iLike, Inc.’s Privacy Policy**  
-This Privacy Policy applies to iLike, Inc.’s websites, including iLike.com, GarageBand.com, GCast.com and i-cast.com websites (“Websites”). iLike, Inc. believes in the responsible use of personal information. We understand that without the trust and respect of the musicians and fans that make up our community we’d have nothing. So we’ll strive to honor the privacy of anyone who signs up as a member.
+Myspace LLC (“Myspace” or “we”) operates Myspace.com. This Privacy Policy applies to the services offered by Myspace, including any Myspace-branded URL (the “Myspace Website”), the Myspace instant messaging service, the Myspace application developer service and other features (for example, music and video embedded players), Myspace mobile services, and any other features, content, or applications offered from time to time by Myspace in connection with the Myspace Website (collectively, the “Myspace Services”). The Myspace Services are hosted in the United States. 
 
-**Your Personal Information at iLike, Inc.’s Websites**  
-iLike, Inc. is the sole owner of the personal information collected on its Websites and we collect personal information from our users at several different points on these Websites. We will not sell, share, or rent this information to others in ways different from what is disclosed in this Privacy Policy.
+This Privacy Policy describes Myspace’s treatment of information provided or collected on or through the Myspace Services, including our collection, use and sharing of personally identifiable information (“PII”). The term “PII” refers to information that can be used to contact you or identify you as an individual, such as your full name, email address, mailing address, telephone number or credit card number. PII that [Members](http://www.myspace.com/help/terms) voluntarily provide to Myspace when they register for the Myspace Services is also referred to as “Registration PII” in this Privacy Policy. The term “User” refers to a [Visitor](http://www.myspace.com/help/terms) or a Member. 
 
-iLike, Inc.’s Websites ask for personal information only when it’s necessary in order to deliver value-add service to you. We require certain pieces of information so we can provide you a personalized experience. For example, on iLike.com, the iLike Sidebar software collects your listening preferences in order to provide you personalized music recommendations, and to allow you to share musical tastes and find other users who have compatible tastes. We collect your zip-code or other location information in order to provide locally-targeted notifications of nearby concerts. Similarly, we need names of uploading users and musicians who may go on to become Evolved CD Artists and only require a mailing address when you earn a prize (so we know where to mail your prize to). At any point you can view and edit this personal information under the “MyHome” section of iLike.com, and the “My Garage” section of GarageBand.com. And while we may use this information for research and to improve the site and services we offer you, except as stated herein or as you specifically give us permission, we promise not to pass on personally identifiable information to third parties.
+The Myspace Website is a general audience site and does not knowingly collect PII from children under 13 years of age. 
 
-Here’s the information that we require for basic registration at iLike.com, GarageBand.com, Gcast.com and i-cast.com: 
+From time to time Myspace may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of the Myspace Services, or technology, and such modifications shall be effective upon posting by Myspace on the Myspace Website. Your continued use of the Myspace Services after Myspace posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If Myspace materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of, and have not objected to, the change. 
 
-  1. A Screenname is collected and made public on the site. (Your Screenname becomes your public display-name at our Websites. It need bear no relation to your actual name). The following information is collected at registration: 
-  2. Your email address. 
-  3. A password for your account. (We remind you not to reveal your password to anyone). 
-  4. In addition, you are invited to "opt in" to receive a regular newsletter or occasional email from our Websites, and you are free to opt out from either of these services at any point in the future. 
   
-_You have the option of providing more private information to personalize your experience:_
-  5. Your gender and date of birth. (For our own demographic reports - so we can build a better site for our audience). 
-  6. Your zip code (US residents only) so we can tailor content to your local area. 
-  7. Your music preferences. The iLike.com service includes a software component known as the “iLike Sidebar” which enables you to share your musical tastes as you listen to music on your computer, in real-time, through your Public Profile on our Websites. This includes providing your music category preferences or other music preferences. Sharing this information enables us to tailor music content to your taste and enables us to match you with other users who have compatible tastes. If you choose to share this information, it may be made publicly available through your Public Profile or other portions of our Websites. In particular, if you choose to install the iLike Sidebar, please understand that it operates as follows: 
-  8. The iLike Sidebar will be sending your music listening data (including a list of all songs and playlists in your music library on your computer) to the iLike.com servers. Select clips of songs from your library will be examined by iLike servers, and matched with music discography metadata collected from friends and other iLike users. This is designed to make sure the sample-clips of music that display on your profile are appropriately representing the music you listen to in your library, and to ensure broad availability of audio clips to enhance music discovery for all our users. You may choose to opt of this "clip-matching" process at any time by changing your iLike account settings.
-  9. This data will be saved by iLike, Inc. in our databases. 
-  10. However, by choosing to install the iLike Sidebar, your music listening data, songs, and playlists in your music library are reported publicly in a personally identifiable way, but within your control. Specifically, part of the functionality of the iLike.com website is that you may create a personal profile that publicly reflects your music listening habits as determined by the iLike Sidebar. Your music listening data is also used to generate music recommendations, as well as to calculate music-compatibility scores with other users on iLike. 
-  11. The iLike Sidebar is designed to automatically self-update itself (without asking permission from you). 
-  12. Additional privacy controls that (a) allow you to choose who may see your music preferences and (b) allow you to hide particular music or playlist data that you prefer not to share with anybody can be found at http://www.ilike.com/account/settings. 
-  13. Your full name (optional), which can be used to personalize the email messages that are sent on your behalf when you invite friends to the service, and may also be used (at your option) by friends who are searching for your profile. However, your full name is not displayed within the website except to yourself when you are logged in. 
 
 
+####  COLLECTION AND SUBMISSION OF PII AND NON-PII ON MYSPACE 
 
-Lastly, in general on the Websites, you may provide information for your Public Profile to introduce yourself to other members of our Websites, including the information listed above, or other information, but are under no obligation to do so.
+**General.** Generally speaking, Myspace only collects PII that you voluntarily choose to submit to us. For example, we may collect your full name, basic contact information and other similar Registration PII in the event you decide to register as a Member of Myspace. Likewise, Myspace may request PII from you if choose to participate in certain activities offered through the Myspace Services, such as sweepstakes, contests or surveys. You may also choose to provide Myspace with PII in order to: request products, services or information from us; sign-up to receive newsletters, notifications or promotional materials; submit content or suggestions for our review; or otherwise interact with Myspace and the Myspace Services. 
 
-If you register your Band with the Websites, you may be required to provide us with your first and last names, plus the first and last names and gender of all band members. In addition you will need to provide a “biography” of your band. These names and bio will be made public on your band’s profile page, gender will remain private. In addition you may provide additional information about your band for public display on your Band Profile, but are under no obligation to do so.
+In addition to PII, Myspace may collect certain anonymous information that does not identify you as an individual (“non-PII”). Examples of non-PII include general characteristics about the device or Internet browser that you use to access the Myspace Services (e.g., IP address or browser type), aggregate information regarding groups or particular types of Users, Profile Information (as defined below) and de-identified information about preferences or usage patterns on the Myspace Services. This data may be used for purposes such as: operating, managing and improving the Myspace Services; analyzing usage patterns; providing you with promotional offers, administrative materials and other related content (including customized advertising); and implementing or maintaining security measures. 
 
-The information that you provide for your Public Profile or for your Band Profile will be publicly displayed without restriction on our Websites. By providing such information for public display on iLike.com, GarageBand.com or Gcast.com you recognize that it may be considered public domain and as such may be viewed, copied, or re-distributed by anybody who visits our Website. This public information includes without limitation your music preferences and any other information you choose to make available such as your own name, others’ names, images, song names and biographical information. Nevertheless, you retain any trademark rights of your band/song names and any copyright of your music and lyrics. 
+Myspace Members may also choose to provide or store non-PII information in their profiles, including date of birth, interests, hobbies, lifestyle choices, groups with whom they are affiliated (schools, companies), videos and/or pictures, private messages, bulletins or personal statements (collectively “Profile Information”). The Profile Information in a Member’s profile is provided at his or her sole discretion. 
 
-**Cookies**  
-Be aware that our Websites use “cookies”. Cookies are small packets of information we place on your hard drive for tracking purposes - essentially a code number that we use to recognize you when you come back to the site. Only the information you volunteer, however, or the choices you make while visiting the site, can be stored in a cookie. A cookie cannot determine your email address, for example, unless you type it in. Allowing a website to create a cookie does not give that or any other site access to the rest of your computer, and only the site that created the cookie can read it.
+Myspace Members can change their Registration PII and Profile Information at any time and can exercise certain controls over how Visitors, other Members and Myspace communicate with them by controlling their account settings, available within the “Edit Profile” portion of their Myspace profile. Link to [Privacy Settings](http://www.myspace.com/my/accountsettings/privacy). 
 
-Our Websites also use permanent cookies that store an encrypted session id code. This means we are able to “recognize” you when you come to the site, without the need for you to log in. In particular, if you download and install the iLike Sidebar software, this software will utilize a permanent cookie so that your computer (and music listening habits) are recognized whenever you browse the iLike.com website.
-
-If your browser is set to reject cookies, you will not be able to log in to the site and hold an account. This means you will not be able to review music, register a band, and so on. You will, however, be able to browse most of the site freely and listen to tracks.
-
-Some of our business partners may use cookies on our site. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for processing your order.
-
-**Log Files**  
-We log IP addresses to track which users have made what page requests, what browser that person was using, what their cookie was, and at what time the request was made. We use this information to analyze trends, administer the site, and gather broad demographic information for aggregate use. This logging process does not store any personally identifiable information.
-
-**BBS & Chat Rooms**  
-As a service to our users, we offer bulletin board service (BBS) and chat room service (for example, GarageBand.com offers a BBS and chat rooms in the “Backstage” area). Only your screen name will be made available to other users of these services. However, you should be aware that any comments you contribute may become public immediately - credited to your screen name. Please think twice and use your discretion before you reveal personal information to other users.
-
-**Emails**  
-Except for administrative emails (like important changes to this privacy policy, for example) all other emails we send are under your control. You may register your wishes at the Account Settings section of iLike.com, the My Garage section of GarageBand.com or the subscription settings section of i-cast.com. We issue many types of email communication. The following is a non-comprehensive list: (1) we send a registration email when you first become a member (2) we send a regular opt-in newsletter (3) we provide an opt-in subscription to occasional emails for the announcement of new site features, special events, etc (4) we send invitations or “add friend requests” at the request of your friends who are users of our service; we may send one follow up email to such invitations if they do not generate a response the first time (5) we notify you of updates that have happened to your account, your profile page, or your band page (6) if you are in a band, we notify you of changes in your status within a contest, or reviews of your music (7) we may notify you when you receive messages from other members of the service (8) the i-cast.com service is explicitly an email-notification service that will send you email to notify you of updates to a podcast, blog, or other RSS feed that you are subscribed to. In addition to the controls described above, the i-cast.com service enables you to choose delivery options for email, such as daily-digest, or weekly-digest. In order to make it easier for you to invite friends to use our services, we enable an easy ”address book import” from other online services (such as Hotmail, etc) – this address-book import will only function if you provide a username/password for the other online service, and we use this information to import your address book, but we do not save it. Furthermore, any user who receives unwanted invitations from our iLike.com service is able to block future unsolicited invitations.
-
-**Security Systems**  
-This website takes reasonable precautions to protect our users’ information. When users submit sensitive information via the website, your information is protected. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices and are regularly reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
-
-**Sharing**  
-We will share user profile and demographic information with our partners and advertisers, for purposes including, but not limited to, the delivery of targeted advertising. This information will not be linked to any personal information that can identify any individual person.
-
-We partner with third-party service providers such as CD Baby http://www.garageband.com/go/cdbaby which provides CD Store services. When the user signs up for these services, we will share names, or other contact information that is necessary for CD Baby or other such service provider to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. We may implement certain promotion(s) or feature(s) from time to time which require us to share your personally identifiable data with third parties. In these cases we will only share your personally identifiable data if you elect to use such promotion(s) or feature(s) and we will enter into agreements with such third parties which restrict their use of such personally identifiable data to purposes related to the delivery of such promotion(s) or feature(s). Though we make reasonable efforts to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us or one of our Websites. 
-
-We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. In particular, Google, as a third party vendor, uses cookies when serving ads on iLike websites. This cookie enables Google to serve ads based on what sites you visit across the Internet, whether it's to show targeted ads when you visit iLike, or to show music-related ads when you visit other Web sites. You may opt out of the use of Google's "DART" cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-**Links**  
-This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.
-
-**Surveys & Contests**  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, telephone number and shipping address). Contact information (including telephone number and address) will be used to notify the winners and award prizes and by giving us your phone number you acknowledge and agree that we may contact you by telephone in connection with such survey or contest . Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. We sometimes partner with third parties to implement our surveys and contests. Personally identifiable information may be initially received by and passed on to iLike, Inc. by such third parties.
-
-**Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. We will automatically send the friend a one-time email invitation to visit the site, and may send one follow-up invitation to friends that did not respond. We store this information for the sole purpose of sending these emails. The friend may contact us at [privacy@iLike-inc.com](mailto:privacy@iLike-inc.com) to request the removal of this information from our database.
-
-**Partner Sites**  
-We have partnered with third parties to enable bands to sell their CDs at GarageBand.com and with other partners to provide our community with editorial content (pro advice, celebrity interviews, and so on). At times, while purchasing CDs or reading articles, you may be viewing pages hosted by one of these or other partners - although it may look as if you are still at one of our Websites. To tell where you are, simply check the address of the page in your browser’s address window.
-
-**BETA Disclaimer**  
-The iLike Sidebar and iLike.com are (currently) “Beta” software. While iLike, Inc. strives to maintain all of the above privacy precautions, the iLike Sidebar and iLike.com are not devoid of risk of “bugs” and software faultiness that is common with Beta software. As is made clear in the Terms of Service regarding, iLike, Inc. disclaims and limits its liability with respect to such “Beta” software, including limitation of its any liability regarding privacy issues set forth in this policy.
-
-**Conflicts**  
-In the event of an inconsistency between these, this Privacy Policy and iLike, Inc.’s “Terms of Use,” the Terms of Use shall control.
-
-**Merger**  
-iLike, Inc. may assign any or all of its rights hereunder and may transfer data collected or acquired hereunder in the event of a merger or acquisition of all or substantially all of the assets of iLike, Inc.
-
-**More information...**  
-If you wish to learn more about our privacy policies please contact [privacy@iLike-inc.com](mailto:privacy@iLike-inc.com) or write us at:
-
-**Privacy Policies**  
-iLike is a subsidiary of MySpace.com, 8391 Beverly Blvd, #349, Los Angeles, CA 90048  
-USA  
+  
 
 
-If we decide to materially change our privacy policy, we may notify users by way of an email. In the event that iLike, Inc., or a portion of its business is acquired, the acquiring party will only acquire your personally identifiable information subject to the terms of this privacy policy.
+**Tracking Technologies.** Myspace may collect certain types of non-PII from Users automatically, including through the use tracking technologies such as cookies and web beacons. 
+
+Cookies are small bits of information that are based on your online activity and stored on the hard drive of your computer by your Internet browser when you interact with the Myspace Services. Myspace uses information collected through cookies for purposes identified by this Privacy Policy, including identifying your Internet browser, storing your preferences and determining whether you have installed the enabling software needed to access certain material on the Myspace Services. Data in cookies may also be read to authenticate user sessions or provide services (including customized advertising). 
+
+Third-party advertisements displayed on Myspace Services may also contain cookies set by Internet advertising companies or advertisers (known as “third-party cookies”). Myspace does not control these third-party cookies and Users of the Myspace Services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. See the “Notice” section below for more information on customized advertising on Myspace. 
+
+You can program your computer to warn you each time a cookie is being sent, block third-party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on the Myspace Services. 
+
+Web beacons (also known as “pixel tags” or “clear GIFs”) are tiny images that can be inserted in a webpage, e-mail or other communication and used to transfer a User’s unique identifier (often in the form of a cookie) to a database in order to associate that User with previously acquired information about him or her. They allow entities to gather information such as the number of times that an individual accesses a website, the nature of his or her interaction with that website (e.g., when the website was accessed and how much time was spent browsing a particular area) and whether an individual has received or opened an e-mail. 
+
+Myspace may use third-party web beacons in the Myspace Services in order to help manage our customized advertising efforts and to collect non-PII for purposes that are consistent with the disclosures in this Privacy Policy (e.g., to perform statistical analysis and track usage patterns). These pixel tags are provided by our trusted business partners, such as Google Analytics and SiteMeter. You can obtain additional information regarding Google Analytics and SiteMeter at [www.google-analytics.com](http://www.google-analytics.com/) and [www.sitemeter.com](http://www.sitemeter.com/). 
+
+  
+
+
+####  NOTICE: MYSPACE WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES 
+
+When you voluntarily provide PII to Myspace, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Myspace will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy. 
+
+At the time you provide your PII, Myspace will notify you of your options regarding our use of your PII (See “Choice” below). Except as described in this Privacy Policy, Myspace will not share your PII with third parties unless you have given Myspace permission to do so (See “Use” below). However, please note that we may use and share non-PII in any manner not otherwise prohibited by this Privacy Policy. 
+
+Myspace Services may be linked to Internet sites operated by other companies. Myspace Services may also carry advertisements from other companies. Myspace is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with the Myspace Services or for the privacy practices of third-party Internet advertising companies. Once you leave Myspace Services via such a link, access a third-party application (such as widgets) or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you. 
+
+Myspace Services may also be linked to sites operated by companies affiliated with Myspace, including Specific Media LLC (collectively, “Affiliated Companies”). Any sites operated by Affiliated Companies are governed by the relevant privacy policies and practices of such Affiliated Companies, which may differ in some respects from this Privacy Policy. We encourage Users who visit Affiliated Company sites to refer to the applicable Affiliated Company’s separate privacy policy to ensure that you understand its privacy practices. 
+
+Myspace may use tracking technologies to customize the content and advertising you receive based on the Profile Information you provide to us, including any information you provide in structured profile fields or in multiple choice questions (e.g., “Marital Status,” “Education” or “Children”) (collectively, “Structured Profile Information”) and information you add to open-ended profile fields and essay questions (e.g., “About Me,” “Interests” or “Movies”) (collectively, “Non-Structured Profile Information”). We may also share such Profile Information and other non-PII about you with our Affiliated Companies for the purposes of customizing the online ads you encounter to those we believe are aligned with your interests. For example, based on your music interests in your Non-Structured Profile Information, we might display an advertisement to make sure you are advised when your favorite band is coming to town. Although we do not use or provide your PII to third parties in connection with this feature, you may choose to disable advertising customization based on your Non-Structured Profile Information by logging in and [clicking here](http://www.myspace.com/my/settings/account/privacy). 
+
+Some of the advertisements that appear on Myspace Services may also be delivered to you by third-party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-PII about your visit to or use of Myspace Services, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Third-party applications (such as widgets) created by third-party developers may also be available on the Myspace Services. Third-party applications are small bits of software, often with interactivity, that can be installed into Members’ profiles or shared with other Users. However, Myspace does not control the third party-developers, and cannot dictate their actions. When a Member engages with a third-party application, that Member is interacting with the third-party developer, not with Myspace. Myspace encourages Members not to provide PII to the third party’s application unless the Member knows the party with whom it is interacting. 
+
+  
+
+
+####  CHOICE: MYSPACE WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII 
+
+Except as described in this Privacy Policy, Myspace will get your permission before we use the PII you provide to us in a way that is inconsistent with the purpose for which it was submitted or share your PII with third parties that are not affiliated with Myspace. 
+
+  
+
+
+####  USE: MYSPACE'S USE OF PII 
+
+Myspace will only use the PII you provide under this Privacy Policy in a manner that is consistent with this Privacy Policy. If Myspace obtains PII from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy. 
+
+In order to locate other Myspace Members that you may already know in the physical world, Myspace allows Users to search for Members using Registration PII (i.e., full name or email address). Myspace also allows Users to browse for certain Profile Information in order to help connect with Members (i.e., schools and/or companies where Users may have attended or worked). Myspace may also enable Members to publicly display some Registration PII as an element of their Profile Information if they choose to do so via a profile setting under “Edit Profile.” Search engines may index the portion of a Member’s profile (including the Profile Information it contains) that is publicly displayed. 
+
+If you have consented to receive promotional materials (e.g., newsletters) or notifications from Myspace, Myspace may periodically use your email address to send you such materials related to the Myspace Services, as applicable. If you want to stop receiving such materials from Myspace, you can change your profile settings under “Account Settings,” or follow the unsubscribe instructions at the bottom of each email. 
+
+Myspace employees, agents and contractors must have a business reason to obtain access to your PII. Myspace may disclose PII to our trusted agents and service providers so that they can perform requested services on our behalf (e.g., message board administration, order fulfillment, statistical analyses, and data processing). For example, we may disclose PII to outside contractors, agents or sponsors to help us with the administration, judging and prize fulfillment aspects of contests, promotions and sweepstakes. 
+
+These outside contractors, agents or sponsors may temporarily store some information on their servers, but they may only use your PII to provide Myspace with a specific service and not for any other purpose. Myspace may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII. Myspace also may share your PII with Affiliated Companies if it has a business reason to do so. 
+
+As described in “Notice” above, Myspace may customize the advertising and marketing messages you receive on the Myspace Website, or may work with outside companies to do so. Your non-PII and/or Profile Information may be shared with these companies so this customization can be accomplished. Myspace prohibits these companies from sharing your non-PII and/or Profile Information with any third party or from using it for any other purpose. Anonymous click stream, number of page views calculated by pixel tags, and aggregated demographic information may also be shared with Myspace’s advertisers and business partners. 
+
+There may be instances when Myspace may access or disclose PII without providing you a choice in order to: (i) protect or defend the legal rights or property of Myspace, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of Users of the Myspace Services or members of the public including acting in urgent circumstances; (iii) protect against fraud or for risk management purposes; or (iv) comply with the law or legal process. In addition, if Myspace sells all or part of its business or makes a sale or transfer of all or a material part of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Myspace may transfer your PII to the party or parties involved in the transaction as part of that transaction. 
+
+When a Member who is located in the European Union chooses to post Profile Information that will be publicly disclosed, that Member is responsible for ensuring that such information conforms to all local data protection laws. Myspace is not responsible under the EU local data protection laws for Member-posted information. All Members expressly acknowledge that information collected by or through the Myspace Services is submitted to Myspace and may be hosted, stored or otherwise processed by us (or by third-party service providers on our behalf) in the United States and/or internationally in countries that may not have received an adequacy determination from the European Commission. By providing us with information through the Myspace Services, Members specifically consent to the processing of such information in any and all such locations in accordance with the terms and conditions set forth in this Privacy Policy. 
+
+  
+
+
+####  SECURITY: MYSPACE HAS IMPLEMENTED SAFEGUARDS TO HELP PROTECT YOUR PII 
+
+Member privacy is important to Myspace, and we are committed to protecting your PII from unauthorized access, use, disclosure or modification. To this end, we have implemented physical, technical and administrative safeguards designed to help safeguard PII in accordance with applicable laws and industry standards. In addition, Myspace uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. 
+
+  
+
+
+####  ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PII AND HOW TO CONTACT MYSPACE ABOUT PRIVACY CONCERNS 
+
+Whenever possible, Myspace Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change your Registration PII, Member preferences and Profile Information by logging into your account and accessing features such as “Edit Profile” and “Account Settings.” 
+
+If you ask Myspace to stop using your PII, Myspace will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law. 
+
+If you would like to communicate with us about this Privacy Policy or Myspace’s collection and use of your PII, please use the Contact Myspace form on our [Help site](http://www.myspace.com/help). 
+
+Contact us via mail:
+
+8391 Beverly Blvd. 
+
+#349 
+
+Los Angeles, California 90048 
