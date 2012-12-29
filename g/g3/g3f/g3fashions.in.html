@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the g3fashions.in privacy policy that was archived on 2012-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120504120205id_/http%3A//www.g3fashions.in/contents.php%3Fid%3D16) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the g3fashions.in privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229134243id_/http%3A//www.g3fashions.in/contents.php%3Fid%3D16) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="keywords" content="">
@@ -46,71 +46,23 @@ $(document).ready(function(){
   
 <script src="javascript/jquery.js" type="text/javascript" language="javascript"></script>
 
-
-
 <script language="javascript">
 
- function openchatwindow() {
-
-            window.open("g3fashions-chat.php", "FirstCry_Live_Chat", "height=350,width=240,status=yes,toolbar=no,menubar=no,location=no");
-
-        }     
-
-//  Developed by Sk Singh 
-
-
-
-//  This notice MUST stay intact for legal use
-
-
-
 var $ = jQuery.noConflict();
-
-
-
 $(document).ready(function()
-
-
-
 {
-
-
-
 	$("#login_form").submit(function()
-
-
-
 	{
-
-
-
 		//remove all the class add the messagebox classes and start fading
-
-
 
 		$("#msgbox").removeClass().text('Validating....').fadeIn(1000);
 
-
-
 		//check the username exists or not from ajax
-
-
-
 		$.post("logincheck.php",{ email:$('#email').val(),password:$('#password').val(),rand:Math.random() } ,function(data)
-
-
-
-        {			
-
-
-
-		  if(data==0) //if correct login detail
-
-
+        {	
+				  if(data==0) //if correct login detail
 
 		  {
-
-
 
 		  document.getElementById("errordetails").style.display = '';
 
@@ -144,7 +96,7 @@ $(document).ready(function()
 
 
 
-				 window.location=document.write='/my-account.php';
+				 window.location=document.write='';
 
 
 
@@ -424,13 +376,9 @@ $(document).ready(function()
 
 </script>
 
-<script type="text/javascript" language="javascript" src="../javascript/jquery.jgrowl.js"></script>
+<script type="text/javascript" language="javascript" src="javascript/jquery.jgrowl.js"></script>
 
-
-
-<link rel="shortcut icon" href="images/favicon.jpg">
-
-
+<link rel="favicon" type="image/x-icon" href="/favicon.ico">
 
 <div id="header" class="container">
 
@@ -451,7 +399,7 @@ $(document).ready(function()
 
         <form id="searches" name="searches" method="post" action="search.php">
 
-          <fieldset>
+          <fieldset style="width:200px; height:19px;">
 
           <input name="keyword" id="search-text" type="text" onfocus="" onblur="" value="" size="15">
 
@@ -467,26 +415,13 @@ $(document).ready(function()
 
       <h1><a href="#"></a></h1>
 
-      <!--			<p>template design by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a></p>
-
--->
+   
 
     </div>
 
     <div>
 
-      <!--<div id="search">
-
-          <input name="input" class="inp-search" value="Sarees, Salwar Kameez, etc" onblur="if (this.value == '')  {this.value = 'Sarees, Salwar Kameez, etc';}" onfocus="if (this.value == 'Sarees, Salwar Kameez, etc') {this.value = '';}" type="text">
-
-          <a href="#">
-
-          <input name="" class="inp-srchbtn" type="button">
-
-          <br>
-
-          <span class="style1">Search by : Advanced Search  Text Search</span>      </div>-->
-
+    
     </div>
 
     <div id="menu" style="float:right">
@@ -656,7 +591,7 @@ $(document).ready(function()
 
             <ul id="navlist" style="top:45px;margin:0; padding:0; text-decoration:none; border:none">
 
-        <li style="background:none; border:none;"><a href="wish-list.php">Wishlist (<span id="wishHint">0</span>)</a> |</li>
+        <li style="background:none; border:none;"><a href="wish-list.php">Wishlist (<span id="wishHint">18</span>)</a> |</li>
 
         </ul>
 
@@ -670,10 +605,7 @@ $(document).ready(function()
 
       <div id="basketWrap">
 
-		    <div id="basketTitleWrap"><span id="txtHint0" style="float:left;">
-
-                        0
-                      </span> <span style="padding:0 0 0 5px; float:left;"><img src="images/sml-bag.gif" width="13px" height="15px"> </span><span style="padding:0 0 0 2px; float:left;">Bag</span></div>
+		    <div id="basketTitleWrap"><span id="txtHint0" style="float:left;">1</span> <span style="padding:0 0 0 5px; float:left;"><img src="images/sml-bag.gif" width="13px" height="15px"> </span><span style="padding:0 0 0 2px; float:left;">Bag</span></div>
 
                     </div>
 
@@ -696,9 +628,9 @@ $(document).ready(function()
 
       <ul style="border: none; width:423px;">
 
-        <li style=" background:none; border:none; float:left;"><a href="#"><strong>Customer Service : +919913433322 From 10:30am to 7:30pm</strong></a></li>
+        <li style=" background:none; border:none; float:left;"><a href="#"><strong>Customer Service : +919913433322 From 10:30am to 7:30pm (Mon-Sat)</strong></a></li>
 
-        <li class="chck" style="float:left; padding:0 0 0 0px;"><img src="images/social.png" name="psil16image" border="0" usemap="#psil16imageMap" width="180" height="41">
+        <li class="chck" style="float:left; padding:0 0 0 0px;"><img src="../images/social.png" name="psil16image" border="0" usemap="#psil16imageMap" width="220" height="41">
 
 <map name="psil16imageMap" id="psil16imageMap">
 
@@ -712,7 +644,7 @@ $(document).ready(function()
 
 <area shape="rect" coords="142,5,178,38" href="callto:customercareg3" target="_blank">
 
-</map> 
+<area shape="rect" coords="182,4,216,38" href="http://pinterest.com/g3fashions/" target="_blank"></map> 
 
 &nbsp;</li>
 
@@ -744,18 +676,20 @@ document.getElementById("errordetails").style.display = 'none';
                 <h4><a href="women/sarees/1-15.html">Sarees</a></h4></li>
                  <li class="current_page_item"><a href="women/sarees/narrow-your-choices/1-15.html">All Sarees Collections</a></li>
                  <li class="current_page_item"><a href="catalog.php?gname=Women&amp;cname=Sarees&amp;gid=1&amp;cid=15">All Sarees Catalogs</a></li>
-                            <li class="current_page_item"><a href="women/sarees/party-wear-sarees/1-15-98.html">Party Wear Sarees</a></li>
+                            <li class="current_page_item"><a href="women/sarees/dabangg-2-sarees-collections/1-15-207.html">Dabangg 2 Sarees Collections</a></li>
+                                          <li class="current_page_item"><a href="women/sarees/sarees-collections-2013/1-15-202.html">Sarees Collections 2013</a></li>
+                                          <li class="current_page_item"><a href="women/sarees/party-wear-sarees/1-15-98.html">Party Wear Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/wedding-sarees/1-15-99.html">Wedding Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/lehnga-sarees/1-15-106.html">Lehnga Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/sarees-2012/1-15-102.html">Sarees 2012</a></li>
                                           <li class="current_page_item"><a href="women/sarees/designer-embroidered-sarees/1-15-105.html">Designer Embroidered Sarees</a></li>
-                                          <li class="current_page_item"><a href="women/sarees/dupian-silk-sarees/1-15-108.html">Dupian Silk Sarees</a></li>
+                                          <li class="current_page_item"><a href="women/sarees/dupion-silk-sarees/1-15-108.html">Dupion Silk Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/net-sarees/1-15-109.html">Net Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/georgette-sarees/1-15-122.html">Georgette Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/printed-sarees/1-15-107.html">Printed Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/traditional-sarees/1-15-126.html">Traditional Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/casual-wear-sarees/1-15-111.html">Casual Wear Sarees</a></li>
-                                          <li class="current_page_item"><a href="women/sarees/actress-sarees-2012/1-15-121.html">Actress Sarees 2012</a></li>
+                                          <li class="current_page_item"><a href="women/sarees/actress-sarees/1-15-121.html">Actress Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/bollywood-sarees/1-15-103.html">Bollywood Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/festival-sarees/1-15-120.html">Festival Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/fashion-sarees/1-15-104.html">Fashion Sarees</a></li>
@@ -763,16 +697,49 @@ document.getElementById("errordetails").style.display = 'none';
                                           <li class="current_page_item"><a href="women/sarees/g-3-exclusive-sarees/1-15-119.html">G-3 Exclusive Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/navel-sarees/1-15-114.html">Navel Sarees</a></li>
                                           <li class="current_page_item"><a href="women/sarees/indian-bridal-designer-sarees/1-15-100.html">Indian Bridal Designer Sarees</a></li>
-                                          <li class="current_page_item"><a href="women/sarees/latest-designer-sarees-2011-and-2012/1-15-113.html">Latest Designer Sarees 2011<br>
-And 2012</a></li>
-                                          <li class="current_page_item"><a href="women/sarees/archana-kochhar-designer-sarees-collection/1-15-118.html">Archana Kochhar Designer<br>
-Sarees collection</a></li>
                           </ul>
             <ul>
-                                          <li class="current_page_item"><a href="women/sarees/neeta-lulla-bridal-sarees-collection-2011-and-2012/1-15-117.html">Neeta Lulla Bridal Sarees<br>
-Collection 2011 And 2012</a></li>
-                                          <li class="current_page_item"><a href="women/sarees/manish-malhotra-designer-sarees-collection-2012/1-15-116.html">Manish Malhotra Designer<br>
-Sarees Collection 2012</a></li>
+                                          <li class="current_page_item"><a href="women/sarees/latest-designer-sarees/1-15-113.html">Latest Designer Sarees</a></li>
+                                          <li class="current_page_item"><a href="women/sarees/archana-kochhar-designer-sarees-collection/1-15-118.html">Archana Kochhar Designer<br>
+Sarees collection</a></li>
+                                                        <li>
+                <h4><a href="women/salwar-kameez/1-16.html">Salwar Kameez</a></h4></li>
+                 <li class="current_page_item"><a href="women/salwar-kameez/narrow-your-choices/1-16.html">All Salwar Kameez Collections</a></li>
+                 <li class="current_page_item"><a href="catalog.php?gname=Women&amp;cname=Salwar Kameez&amp;gid=1&amp;cid=16">All Salwar Kameez Catalogs</a></li>
+                            <li class="current_page_item"><a href="women/salwar-kameez/wedding-salwar-kameez/1-16-160.html">Wedding Salwar Kameez</a></li>
+                                          <li class="current_page_item"><a href="women/salwar-kameez/pakistani-salwar-kameez/1-16-138.html">Pakistani Salwar Kameez</a></li>
+                                          <li class="current_page_item"><a href="women/salwar-kameez/designer-salwar-kameez/1-16-137.html">Designer Salwar Kameez</a></li>
+                                          <li class="current_page_item"><a href="women/salwar-kameez/anarkali-salwar-kameez/1-16-136.html">Anarkali Salwar Kameez</a></li>
+                                          <li class="current_page_item"><a href="women/salwar-kameez/latest-designer-salwar-kameez/1-16-135.html">Latest Designer Salwar Kameez</a></li>
+                                          <li class="current_page_item"><a href="women/salwar-kameez/latest-salwar-kameez-2012/1-16-134.html">Latest Salwar Kameez 2012</a></li>
+                                          <li class="current_page_item"><a href="women/salwar-kameez/indian-bridal-salwar-kameez/1-16-133.html">Indian Bridal Salwar Kameez</a></li>
+                                          <li class="current_page_item"><a href="women/salwar-kameez/cotton-salwar-kameez/1-16-132.html">Cotton Salwar Kameez</a></li>
+                                          <li class="current_page_item"><a href="women/salwar-kameez/bollywood-salwar-kameez/1-16-131.html">Bollywood Salwar Kameez</a></li>
+                                          <li class="current_page_item"><a href="women/salwar-kameez/designer-punjabi-salwar-suits/1-16-130.html">Designer Punjabi Salwar Suits</a></li>
+                                          <li class="current_page_item"><a href="women/salwar-kameez/party-wear-salwar-kameez/1-16-129.html">Party Wear Salwar Kameez</a></li>
+                                          <li class="current_page_item"><a href="women/salwar-kameez/casual-salwar-kameez/1-16-128.html">Casual Salwar Kameez</a></li>
+                                                        <li>
+                <h4><a href="women/kurtis-and-tunic/1-19.html">Kurtis and Tunic</a></h4></li>
+                 <li class="current_page_item"><a href="women/kurtis-and-tunic/narrow-your-choices/1-19.html">All Kurtis and Tunic Collections</a></li>
+                 <li class="current_page_item"><a href="catalog.php?gname=Women&amp;cname=Kurtis and Tunic&amp;gid=1&amp;cid=19">All Kurtis and Tunic Catalogs</a></li>
+                            <li class="current_page_item"><a href="women/kurtis-and-tunic/printed-kurti/1-19-162.html">Printed Kurti</a></li>
+                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/embroidery-kurtis/1-19-159.html">Embroidery Kurtis</a></li>
+                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/pakistani-kurtis/1-19-157.html">Pakistani Kurtis</a></li>
+                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/plus-size-kurtis/1-19-156.html">Plus Size Kurtis</a></li>
+                          </ul>
+            <ul>
+                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/latest-kurtis-designs/1-19-155.html">Latest Kurtis designs</a></li>
+                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/cotton-kurtis/1-19-154.html">Cotton Kurtis</a></li>
+                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/designer-kurtis-collection/1-19-153.html">Designer Kurtis Collection</a></li>
+                                                        <li>
+                <h4><a href="women/lehenga-choli/1-18.html">Lehenga Choli</a></h4></li>
+                 <li class="current_page_item"><a href="women/lehenga-choli/narrow-your-choices/1-18.html">All Lehenga Choli Collections</a></li>
+                 <li class="current_page_item"><a href="catalog.php?gname=Women&amp;cname=Lehenga Choli&amp;gid=1&amp;cid=18">All Lehenga Choli Catalogs</a></li>
+                            <li class="current_page_item"><a href="women/lehenga-choli/exclusive-lehenga-choli/1-18-152.html">Exclusive Lehenga Choli</a></li>
+                                          <li class="current_page_item"><a href="women/lehenga-choli/wedding-lehenga-choli/1-18-151.html">Wedding Lehenga Choli</a></li>
+                                          <li class="current_page_item"><a href="women/lehenga-choli/party-wear-lehenga-choli/1-18-150.html">Party wear lehenga choli</a></li>
+                                          <li class="current_page_item"><a href="women/lehenga-choli/designer-lehenga-choli/1-18-149.html">Designer lehenga choli</a></li>
+                                          <li class="current_page_item"><a href="women/lehenga-choli/bridal-lehenga-choli/1-18-148.html">Bridal lehenga choli</a></li>
                                                         <li>
                 <h4><a href="women/dress-materials/1-17.html">Dress Materials</a></h4></li>
                  <li class="current_page_item"><a href="women/dress-materials/narrow-your-choices/1-17.html">All Dress Materials Collections</a></li>
@@ -787,50 +754,6 @@ Sarees Collection 2012</a></li>
                                           <li class="current_page_item"><a href="women/dress-materials/pakistani-dress-materials/1-17-141.html">Pakistani dress materials</a></li>
                                           <li class="current_page_item"><a href="women/dress-materials/cotton-dress-materials/1-17-140.html">Cotton Dress Materials</a></li>
                                           <li class="current_page_item"><a href="women/dress-materials/wedding-dress-materials/1-17-139.html">Wedding Dress Materials</a></li>
-                                                        <li>
-                <h4><a href="women/lehenga-choli/1-18.html">Lehenga Choli</a></h4></li>
-                 <li class="current_page_item"><a href="women/lehenga-choli/narrow-your-choices/1-18.html">All Lehenga Choli Collections</a></li>
-                 <li class="current_page_item"><a href="catalog.php?gname=Women&amp;cname=Lehenga Choli&amp;gid=1&amp;cid=18">All Lehenga Choli Catalogs</a></li>
-                            <li class="current_page_item"><a href="women/lehenga-choli/exclusive-lehenga-choli/1-18-152.html">Exclusive Lehenga Choli</a></li>
-                                          <li class="current_page_item"><a href="women/lehenga-choli/exclusive-wedding-lehenga-choli/1-18-151.html">Exclusive Wedding Lehenga<br>
-Choli</a></li>
-                                          <li class="current_page_item"><a href="women/lehenga-choli/party-wear-lehenga-choli/1-18-150.html">Party wear lehenga choli</a></li>
-                                          <li class="current_page_item"><a href="women/lehenga-choli/designer-wedding-lehenga-choli-2011-and-2012/1-18-149.html">Designer wedding lehenga choli<br>
-2011 And 2012</a></li>
-                                          <li class="current_page_item"><a href="women/lehenga-choli/bridal-lehenga-choli/1-18-148.html">Bridal lehenga choli</a></li>
-                                                        <li>
-                <h4><a href="women/kurtis-and-tunic/1-19.html">Kurtis and Tunic</a></h4></li>
-                 <li class="current_page_item"><a href="women/kurtis-and-tunic/narrow-your-choices/1-19.html">All Kurtis and Tunic Collections</a></li>
-                 <li class="current_page_item"><a href="catalog.php?gname=Women&amp;cname=Kurtis and Tunic&amp;gid=1&amp;cid=19">All Kurtis and Tunic Catalogs</a></li>
-                            <li class="current_page_item"><a href="women/kurtis-and-tunic/printed-kurti/1-19-162.html">Printed Kurti</a></li>
-                          </ul>
-            <ul>
-                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/embroidery-kurtis/1-19-159.html">Embroidery Kurtis</a></li>
-                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/pakistani-kurtis/1-19-157.html">Pakistani Kurtis</a></li>
-                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/plus-size-kurtis/1-19-156.html">Plus Size Kurtis</a></li>
-                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/kurti-designs-2011-and-2012/1-19-155.html">Kurti designs 2011 And 2012</a></li>
-                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/cotton-kurtis/1-19-154.html">Cotton Kurtis</a></li>
-                                          <li class="current_page_item"><a href="women/kurtis-and-tunic/designer-kurti-tunic-collection/1-19-153.html">Designer Kurti &amp; Tunic<br>
-Collection</a></li>
-                                                        <li>
-                <h4><a href="women/salwar-kameez/1-16.html">Salwar Kameez</a></h4></li>
-                 <li class="current_page_item"><a href="women/salwar-kameez/narrow-your-choices/1-16.html">All Salwar Kameez Collections</a></li>
-                 <li class="current_page_item"><a href="catalog.php?gname=Women&amp;cname=Salwar Kameez&amp;gid=1&amp;cid=16">All Salwar Kameez Catalogs</a></li>
-                            <li class="current_page_item"><a href="women/salwar-kameez/wedding-salwar-kameez/1-16-160.html">Wedding Salwar Kameez</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/pakistani-salwar-kameez/1-16-138.html">Pakistani Salwar Kameez</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/manish-malhotra-designer-salwar-kameez-2011-and-2012/1-16-137.html">Manish Malhotra Designer<br>
-Salwar Kameez 2011 And 2012</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/anarkali-salwar-kameez/1-16-136.html">Anarkali Salwar Kameez</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/latest-designer-salwar-kameez-2011-and-2012/1-16-135.html">Latest Designer Salwar Kameez<br>
-2011 And 2012</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/latest-salwar-kameez-2012/1-16-134.html">Latest Salwar Kameez 2012</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/indian-bridal-salwar-kameez/1-16-133.html">Indian Bridal Salwar Kameez</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/cotton-salwar-kameez/1-16-132.html">Cotton Salwar Kameez</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/bollywood-salwar-kameez/1-16-131.html">Bollywood Salwar Kameez</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/designer-punjabi-salwar-suits/1-16-130.html">Designer Punjabi Salwar Suits</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/party-wear-salwar-kameez/1-16-129.html">Party Wear Salwar Kameez</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/casual-salwar-kameez/1-16-128.html">Casual Salwar Kameez</a></li>
-                                          <li class="current_page_item"><a href="women/salwar-kameez/designer-salwar-kameez-2011/1-16-127.html">Designer Salwar Kameez 2011</a></li>
                           </ul>
             <ul>
                                                       </ul>
@@ -840,6 +763,11 @@ Salwar Kameez 2011 And 2012</a></li>
           <div id="2" onmouseover="mopen('2')" onmouseout="mclosetime()" style="visibility: hidden; ">
             <ul>
                             <li>
+                <h4><a href="men/bandhgala-suits/2-37.html">Bandhgala Suits</a></h4></li>
+                 <li class="current_page_item"><a href="men/bandhgala-suits/narrow-your-choices/2-37.html">All Bandhgala Suits Collections</a></li>
+                 <li class="current_page_item"><a href="catalog.php?gname=Men&amp;cname=Bandhgala Suits&amp;gid=2&amp;cid=37">All Bandhgala Suits Catalogs</a></li>
+                            <li class="current_page_item"><a href="men/bandhgala-suits/designer-bandhgala-suits/2-37-206.html">designer bandhgala suits</a></li>
+                                                        <li>
                 <h4><a href="men/indo-western/2-21.html">Indo Western</a></h4></li>
                  <li class="current_page_item"><a href="men/indo-western/narrow-your-choices/2-21.html">All Indo Western Collections</a></li>
                  <li class="current_page_item"><a href="catalog.php?gname=Men&amp;cname=Indo Western&amp;gid=2&amp;cid=21">All Indo Western Catalogs</a></li>
@@ -874,10 +802,11 @@ Salwar Kameez 2011 And 2012</a></li>
                 <h4><a href="men/pathani-suits/2-25.html">Pathani Suits</a></h4></li>
                  <li class="current_page_item"><a href="men/pathani-suits/narrow-your-choices/2-25.html">All Pathani Suits Collections</a></li>
                  <li class="current_page_item"><a href="catalog.php?gname=Men&amp;cname=Pathani Suits&amp;gid=2&amp;cid=25">All Pathani Suits Catalogs</a></li>
-                            <li class="current_page_item"><a href="men/pathani-suits/pakistani-pathani-suits/2-25-181.html">Pakistani Pathani Suits</a></li>
-                                          <li class="current_page_item"><a href="men/pathani-suits/designer-pathani-suits/2-25-180.html">Designer Pathani Suits</a></li>
+                            <li class="current_page_item"><a href="men/pathani-suits/bandhgala-pathani-suits/2-25-205.html">Bandhgala pathani suits</a></li>
                           </ul>
             <ul>
+                                          <li class="current_page_item"><a href="men/pathani-suits/pakistani-pathani-suits/2-25-181.html">Pakistani Pathani Suits</a></li>
+                                          <li class="current_page_item"><a href="men/pathani-suits/designer-pathani-suits/2-25-180.html">Designer Pathani Suits</a></li>
                                                         <li>
                 <h4><a href="men/short-pathani-kurta/2-24.html">Short Pathani Kurta</a></h4></li>
                  <li class="current_page_item"><a href="men/short-pathani-kurta/narrow-your-choices/2-24.html">All Short Pathani Kurta Collections</a></li>
@@ -964,6 +893,12 @@ Salwar Kameez 2011 And 2012</a></li>
       <!--<li style="float: left;border-right:1px dotted #999999;"><a href="#" style="text-decoration: none;font-family: Arial, Helvetica, sans-serif;font-size: 12px;font-weight: bold;color: #333333;border: none;">Gift Vouchers</a>-->
       </li><li style="float: left;"><a href="http://www.g3fashions.in/blog/" target="_blank" style="text-decoration: none;font-family: Arial, Helvetica, sans-serif;font-size: 12px;font-weight: bold;color: #333333;border: none;">Blog</a>
     </li></ul>
+    
+    <div style="width:976px; height:30px; margin:10px auto 10px auto; ">
+    	<span style="float:left;"><a href="#"><img src="./images/free-ship.jpg" width="241px" height="32px"></a></span>
+        <span style="float:left;"><a href="http://www.g3fashions.in/g3-club.php"><img src="./images/member-tab.jpg" width="488px" height="32px"></a></span>
+        <span style="float:left;"><a href="http://www.g3fashions.in/women/sarees/1-15.html"><img src="./images/exclusive-tab.jpg" width="244px" height="32px"></a></span>
+    </div>
   </div> 
 
  <div id="page">
@@ -990,284 +925,581 @@ Salwar Kameez 2011 And 2012</a></li>
 <div class="clr"></div>
 
 
- <p class="MsoNormal" style="text-align: justify; ">&nbsp;</p><p class="MsoNormal" style="text-align: center; "><b><span style="font-size: 16pt; font-family: 'Times New Roman', serif; ">G3Fashions - Privacy Policy<o:p></o:p></span></b></p><p class="MsoNormal" style="text-align: justify; "><b><span style="font-size: 14pt; font-family: 'Times New Roman', serif; "><br>You Can Count On Us<br></span></b><span style="font-family: 'Times New Roman', serif; font-size: 12pt; ">Your privacy is important to us at </span><b style="font-family: 'Times New Roman', serif; font-size: 12pt; "><a href="http://www.g3fashions.in/">G3Fashions.in</a></b><span style="font-family: 'Times New Roman', serif; font-size: 12pt; ">. &nbsp;We </span><b style="font-family: 'Times New Roman', serif; font-size: 12pt; ">strive</b><span style="font-family: 'Times New Roman', serif; font-size: 12pt; "> to maintain the highest standards of integrity in all our operations. Similarly, we are dedicated to protecting the privacy of our customers, consumers and online visitors.</span></p><p class="MsoNormal" style="text-align: justify; "><span style="font-size: 12pt; font-family: 'Times New Roman', serif; "><br><o:p></o:p></span></p><p class="MsoNormal" style="text-align: justify; "><b><span style="font-size: 14pt; font-family: 'Times New Roman', serif; ">Use of Personal Information<br></span></b><span style="font-family: 'Times New Roman', serif; font-size: 12pt; ">G3Fashions.in collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, email address, postal address and telephone number. This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us.</span></p><p class="MsoNormal" style="text-align: justify; "><span style="font-size: 12pt; font-family: 'Times New Roman', serif; "><br>We require these details only to provide you the services we offer. We use your address to deliver the order. We may use your phone number to help you resolve your queries while shopping. We notify you about our updates and promotional schemes through SMS or email on your mobile number/ email ID provided to us during the time of registration. You can inform us if you wish to stop receiving these mailers. We share your personal information with specific employees who are involved in the execution of your transaction and any employee who violates our privacy and/or security policies is subject to disciplinary action.<br><br><o:p></o:p></span></p><p class="MsoNormal" style="text-align: justify; "><b><span style="font-size: 14pt; font-family: 'Times New Roman', serif; ">Non-Personal Information<br></span></b><span style="font-family: 'Times New Roman', serif; font-size: 12pt; ">In some cases, we may collect information about you that is not personally identifiable. We use this information-which does not identify individual users, it is solely used to analyze trends and administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared</span></p><p class="MsoNormal" style="text-align: justify; "><span style="font-size: 12pt; font-family: 'Times New Roman', serif; "><br><o:p></o:p></span></p><p class="MsoNormal" style="text-align: justify; ">&nbsp;</p><p class="MsoNormal"><b><span style="font-size: 14pt; font-family: 'Times New Roman', serif; ">Updates and Effective Date<br></span></b><span style="font-size: 12pt; font-family: 'Times New Roman', serif; ">G3Fashions.in reserves the right to make changes in this policy.</span></p><p><span style="font-size: 12pt; font-family: 'Times New Roman', serif; "><br><o:p></o:p></span></p><p class="MsoNormal" style="text-align: justify; "><b><span style="font-size: 14pt; font-family: 'Times New Roman', serif; ">Agreeing to Terms<br></span></b>&nbsp;<span style="font-size: 12pt; font-family: 'Times New Roman', serif; ">If you do not agree to <b><a href="http://www.g3fashions.in/">G3Fashions.in</a></b> Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.</span>&nbsp;<br><span style="font-size: 12pt; line-height: 115%; font-family: 'Times New Roman', serif; "><br>Your use of this site indicates acceptance of this privacy policy.&nbsp;</span></p><p style="text-align: justify; "><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-font-kerning:18.0pt"><o:p></o:p></span></b></p></div>
+ <div style="border:1px solid #666; float:left; margin:0 0 10px 0;"><div style="text-align: justify; background:url(images/shiping_hd_bg.jpg); height:35px; ">&nbsp;<span style="font-family: Tahoma; "><b style="text-align: justify; float:left; padding:9px 0 0 10px; "><span style="float: left; font-size: 15px; ">G3Fashions - Privacy Policy</span></b></span></div><p class="MsoNormal" style="text-align:justify; padding:8px 10px 0 10px;"><b><span style="font-size: 13px; font-family:tahoma; width: 100%; float: left;">You Can Count On Us<br></span></b><span style="font-family: Tahoma; font-size: 12px; line-height:115%; ">Your privacy is important to us at </span><b style="font-family: Tahoma; font-size: 12px; "><a href="http://www.g3fashions.in/">G3Fashions.in</a></b><span style="font-family: Tahoma; font-size: 12px; ">. &nbsp;We </span><b style="font-family: Tahoma; font-size: 12px; ">strive</b><span style="font-family: Tahoma; font-size: 12px; "> to maintain the highest standards of integrity in all our operations. Similarly, we are dedicated to protecting the privacy of our customers, consumers and online visitors.<br></span><b><span style="font-size: 13px; font-family: Tahoma; "><br>Use of Personal Information<br></span></b><span style="font-family: Tahoma; font-size: 12px; ">G3Fashions.in collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, email address, postal address and telephone number. This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us.<br></span><span style="font-size: 12px; font-family: Tahoma; "><br>We require these details only to provide you the services we offer. We use your address to deliver the order. We may use your phone number to help you resolve your queries while shopping. We notify you about our updates and promotional schemes through SMS or email on your mobile number/ email ID provided to us during the time of registration. You can inform us if you wish to stop receiving these mailers. We share your personal information with specific employees who are involved in the execution of your transaction and any employee who violates our privacy and/or security policies is subject to disciplinary action.<br><br><o:p></o:p></span></p><p class="MsoNormal" style="text-align:justify; padding:8px 10px 0 10px;"><b><span style="font-size: 13px; font-family: Tahoma; ">Non-Personal Information<br></span></b><span style="font-family: Tahoma; font-size: 12px; ">In some cases, we may collect information about you that is not personally identifiable. We use this information-which does not identify individual users, it is solely used to analyze trends and administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared</span></p><p class="MsoNormal" style="text-align:justify; padding:8px 10px 0 10px;"><b><span style="font-size: 13px; font-family: Tahoma; "><br>Updates and Effective Date<br></span></b><span style="font-size: 12px; font-family: Tahoma; ">G3Fashions.in reserves the right to make changes in this policy.</span></p><p class="MsoNormal" style="text-align:justify; padding:8px 10px 0 10px;"><b><span style="font-size: 13px; font-family: Tahoma; "><br>Agreeing to Terms<br></span></b>&nbsp;<span style="font-size: 12px; font-family: Tahoma; ">If you do not agree to <b><a href="http://www.g3fashions.in/">G3Fashions.in</a></b> Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.</span>&nbsp;<br><span style="font-size: 12px; line-height: 115%; font-family: Tahoma; "><br>Your use of this site indicates acceptance of this privacy policy.&nbsp;</span></p><p style="text-align: justify; ">&nbsp;</p></div></div>
 <div style="clear:both"></div>
 
     <!-- end #page -->
   </div>
   <style type="text/css">
 
+
+
 <!--
+
+
 
 .style1 {font-size: 12px}
 
+.footer-bottom-585
+{
+	width:800px;
+	float:left;
+	color:#FFF;
+}
+
+.footer-bottom-585 a
+{
+	color:#FFF;
+	font-size:12px;
+	text-decoration:none;
+}
+
+.footer-bottom-585 a:hover
+{
+	color:#FFF;
+	font-size:12px;
+	text-decoration:underline;
+}
+
 -->
+
+
 
 </style>
 
+
+
 <table border="0" align="center" cellpadding="0" cellspacing="0" style="width: 975px;height: auto;font-family: Arial, Helvetica, sans-serif;margin: 0 auto;padding: 0;margin: 0px auto;">
+
+
 
   <tbody><tr>
 
+
+
     <td><table border="0" cellspacing="0" cellpadding="0" style="float:left;width:975px; height:auto; 	margin: 0px auto; border-top:1px solid #d0d0d0; display:block; background:#000000">
+
+
 
       <tbody><tr>
 
+
+
         <td>
 
+
+
         
+
+
 
         <table width="130" border="0" cellpadding="0" cellspacing="0" style="float:left; width:135px;">
 
+
+
           <tbody><tr>
+
+
 
             <td width="130" height="25" valign="bottom" style="padding-left:10px; color:#fff;text-decoration: underline;">Company Info</td>
 
+
+
           </tr>
 
+
+
           <tr>
+
+
 
             <td><ul class="footermain">
 
+
+
           <li><a href="contents.php?id=1">About Us</a></li>
+
+
 
           <li><a href="contents.php?id=11">Contact us</a></li>
 
-          <li><a href="contents.php?id=3">G3 Store Locations</a></li>
+
+
+          <li><a href="location.php">G3 Store Locations</a></li>
+
+
 
           <li><a href="sitemap.php">Site Map</a></li>
 
-          <li><a href="testimonials.php">Customer Testimonials</a></li>         
+
+
+          <li><a href="testimonials.php">Customer Testimonials</a></li> 
+          
+          <li><a href="g3-live.php">G3 Goes Live</a></li>         
+
+
 
         </ul></td>
 
+
+
           </tr>
 
+
+
         </tbody></table>
+
+
 
          <table border="0" cellspacing="0" cellpadding="0" style="float:left; width:150px;">
 
+
+
           <tbody><tr>
+
+
 
             <td height="25" valign="bottom" style="padding-left:10px; color:#fff;text-decoration: underline;">Help</td>
 
+
+
           </tr>
+
+
 
           <tr>
 
+
+
             <td>
 
+
+
           <ul class="footermain">
+
+
 
           <li><a href="size-guide.php">Size Guidance</a></li>
 
+
+
           <li><a href="#">Measurement Submission</a></li>
+
+
 
           <li><a href="contents.php?id=19">Video Guide</a></li>
 
+
+
           <li><a href="faq.php">FAQs</a></li>
+
+
 
           <li><a href="feedback.php">Feedback </a></li>
 
+
+
           <li><a href="complain.php">Complain</a></li>          
+
+
 
         </ul>        </td>
 
+
+
           </tr>
+
+
 
         </tbody></table>
 
+
+
         
+
+
 
         <table border="0" cellspacing="0" cellpadding="0" style="float:left; width:130px;">
 
+
+
           <tbody><tr>
+
+
 
             <td height="25" valign="bottom" style="padding-left:10px; color:#fff;text-decoration: underline;">Policies</td>
 
+
+
           </tr>
+
+
 
           <tr>
 
+
+
             <td>
 
+
+
          <ul class="footermain">
+
+
 
           <li><a href="contents.php?id=15">Shipping Policy</a></li>
 
+
+
           <li><a href="contents.php?id=5">Return Policy</a></li>
+
+
 
           <li><a href="contents.php?id=16">Privacy Policy</a></li>
 
+
+
           <li><a href="contents.php?id=2">Terms &amp; Conditions</a></li>
+
+
 
           <li><a href="contents.php?id=7">Payment Options</a></li>
 
+
+
           <li><a href="contents.php?id=17">G3-Club Policy</a></li>
+
+
 
           <li><a href="contents.php?id=18">WholeSale Policy</a></li>
 
+
+
         </ul>    </td>
+
+
 
           </tr>
 
+
+
         </tbody></table>
 
+
+
         
+
+
 
         <table border="0" cellspacing="0" cellpadding="0" style="float:left; width:130px;">
 
+
+
           <tbody><tr>
+
+
 
             <td height="25" valign="bottom" style="padding-left:10px; color:#fff;text-decoration: underline;">Shopping @ G3</td>
 
+
+
           </tr>
+
+
 
           <tr>
 
+
+
             <td>
+
+
 
          <ul class="footermain">
 
+
+
           <li><a href="http://www.g3fashions.in/latest_arrivals.html">New Arrivals</a></li>
+
+
 
           <li><a href="http://www.g3fashions.in/ready_ship.html">Ready to Ship</a></li>
 
+
+
           <li><a href="http://www.g3fashions.in/best_selling.html">Best Selling</a></li>
+
+
 
           <li><a href="http://www.g3fashions.in/discount_sale.html">Sale</a></li>
 
+
+
           <li><a href="#">Gift Voucher</a></li>
+
+
 
           <li><a href="wholesale-inquiry.php">Wholesale Inquiry</a></li>          
 
+
+
         </ul>        </td>
+
+
 
           </tr>
 
+
+
         </tbody></table>
+
+
 
         <table border="0" cellspacing="0" cellpadding="0" style="float:left; width:115px;">
 
+
+
           <tbody><tr>
+
+
 
             <td height="25" valign="bottom" style="padding-left:10px; color:#fff; text-decoration: underline;">Social Network</td>
 
+
+
           </tr>
 
+
+
           <tr>
+
+
 
             <td>
 
+
+
           <ul class="footermain">
+
+
 
           <li><a href="http://www.facebook.com/g3fashions" target="_blank">Facebook</a></li>
 
+
+
           <li><a href="http://twitter.com/g3fashion" target="_blank">Twitter</a></li>
+
+
 
           <li><a href="#">Linked In</a></li>
 
+
+
           <li><a href="http://www.youtube.com/g3fashions" target="_blank">You Tube</a></li>
+
+
 
           <li><a href="http://www.g3fashions.in/blog/">G3 Blogs</a></li>
 
+
+
         </ul>        </td>
+
+
 
           </tr>
 
+
+
         </tbody></table>
 
+
+
         
+
+
 
         <table border="0" cellspacing="0" cellpadding="0" style="float:right;width:295px; height:140px; background:#cccccc; margin:10px 10px 0 0; padding:0 0 0 10px; color:#666666;font-size: 12px;vertical-align:top">
 
+
+
            <tbody><tr>
+
+
 
             <td><h2 style="color:#666666; font-weight:bold; font-size:18px;  padding:5px 0 13px 0; vertical-align:top">Sign up for our emails</h2>
 
+
+
               Sign up to receive latest fashion news and<br>
+
+
 
               updates from G3 direct to your inbox.<br>
 
+
+
               <span id="txtnews">&nbsp;</span> <br>
+
+
 
               <input name="newsletter" id="newsletter" class="sign-text" type="text">
 
+
+
               <input name="input" class="sign-btn" value="Sign Up" type="button" onclick="AddNews(document.getElementById('newsletter').value);"></td>
+
+
 
           </tr>
 
+
+
         </tbody></table>
 
+
+
         
+
+
 
        
 
+
+
         
+
+
 
         </td>
 
+
+
       </tr>
+
+
 
     </tbody></table>
 
+
+
       
+
+
 
     </td>
 
+
+
   </tr>
+
+
 
 </tbody></table><table border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#000000" style="width: 975px;height: auto;font-family: Arial, Helvetica, sans-serif;margin: 0 auto;padding: 0;margin: 0px auto;">
 
+
+
           <tbody><tr>
+
+
 
             <td style="float:left; width:300px; height:25px; padding:16px 0 0 10px; text-align:left;font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#fff">&nbsp;</td>
 
+
+
             <td style="float:left; width:550px; height:38px; padding:16px 0 0 85px;"><ul class="social">
+
+
 
             <li><img src="images/dhl.jpg" width="111" height="25"></li>
 
+
+
 			<li><img src="images/fedex.jpg" width="50" height="25"></li>
+
+
 
             </ul></td>
 
+
+
           </tr>
 
+
+
           <tr>
+
+
 
             <td width="381" style="float:left; width:300px; height:25px; padding:16px 0 0 10px; text-align:left;font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#fff">Copyright 2012. All Right Reserved by g3fashions.</td>
 
+
+
             <td width="594" style="float:left; width:562px; height:38px;"><ul class="social">
+
+
 
             <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/mastercard.jpg" width="39" height="29"></li>
 
+
+
             <li><img src="images/visacard.jpg" width="40" height="25"></li>
+
+
 
             <li><img src="images/paypalcard.jpg" width="73" height="23"></li>
 
+
+
             <li><img src="images/2checkout.jpg" width="38" height="25"></li>
+
+
 
             <li><img src="images/HDFC_Bank_Logo.svg.png" width="155" height="25"></li>
 
+
+
             <li><img src="images/payment-ccavenue.jpg" width="71" height="25"></li>
+
+
 
             <li><img src="images/cod.jpg" width="44" height="25"></li>
 
+
+
             
+
+
 
           </ul></td>
 
+
+
   </tr>
+
+
 
           <tr>
 
-            <td colspan="2" style="float:left; height:25px; padding:16px 0 0 10px; text-align:left;font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#fff"><span class="style1"> Online shopping from India for sarees, salwar kameez, lehengas, and many more for any  address in India and out of india</span></td>
+
+
+            <td colspan="2" style="float:left; height:25px; padding:16px 0 0 10px; text-align:left;font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#fff"><span class="footer-bottom-585"> <a href="http://www.g3fashions.in">Online shopping from India for sarees, salwar kameez, lehengas, and many more for any  address in India and out of india</a></span></td>
+
+
 
   </tr>
 
+
+
         </tbody></table>
 
+
+
  <!-- Start of Google Analytic Code -->
+
+
+
+
 
 
 
@@ -1275,27 +1507,55 @@ Salwar Kameez 2011 And 2012</a></li>
 
 
 
+
+
+
+
   var _gaq = _gaq || [];
 
+
+
   _gaq.push(['_setAccount', 'UA-12620233-1']);
+
+
 
   _gaq.push(['_trackPageview']);
 
 
 
+
+
+
+
   (function() {
+
+
 
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 
+
+
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 
+
+
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+
 
   })();
 
 
 
+
+
+
+
 </script>
+
+
+
+
 
 
 
@@ -1303,38 +1563,77 @@ Salwar Kameez 2011 And 2012</a></li>
 
 
 
+
+
 <!-- Start of StatCounter Code for Default Guide -->
+
 <script type="text/javascript">
+
 var sc_project=5529084; 
+
 var sc_invisible=0; 
+
 var sc_security="adee7bf4"; 
-</script>
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
-<noscript><div class="statcounter"><a title="click tracking"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="http://c.statcounter.com/5529084/0/adee7bf4/0/"
-alt="click tracking"></a></div></noscript>
+
+var sc_https=1; 
+
+var sc_remove_link=1; 
+
+var scJsHost = (("https:" == document.location.protocol) ?
+
+"https://secure." : "http://www.");
+
+document.write("<sc"+"ript type='text/javascript' src='" +
+
+scJsHost +
+
+"statcounter.com/counter/counter.js'></"+"script>");</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+
+<noscript><div class="statcounter"><img class="statcounter"
+
+src="https://c.statcounter.com/5529084/0/adee7bf4/0/"
+
+alt="hit counter joomla"></div></noscript>
+
 <!-- End of StatCounter Code for Default Guide -->
+
 
 
         
 
+
+
 <!--Start of Zopim Live Chat Script-->
+
+
 
 <script type="text/javascript">
 
+
+
 window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+
+
 
 d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
 
+
+
 _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+
+
 
 $.src='//cdn.zopim.com/?km9KI1IzWEXFGlNLAZZZqZDEW1UfyTr7';z.t=+new Date;$.
 
+
+
 type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 
+
+
 </script>
+
+
 
 <!--End of Zopim Live Chat Script--></div>
 
