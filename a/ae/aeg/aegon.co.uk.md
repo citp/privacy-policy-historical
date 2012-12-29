@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205102759id_/http%3A//www.aegon.co.uk/Footer/Privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229202848id_/http%3A//www.aegon.co.uk/Footer/Privacy/index.htm) for the most accurate reproduction.*
 
-# Privacy | AEGON UK
+# Privacy | Aegon UK
 
-## Privacy
+This privacy statement sets out how Aegon UK uses and protects any personal information that you give us when you use this website. Depending on the part of the website you’re visiting, the data controller for any personal information you give us is either Scottish Equitable plc or Aegon Investment Solutions Ltd (both of which trade as Aegon).
 
-The data controller for any personal information you give us is Scottish Equitable plc (now trading as AEGON).
+ **Cookies - for information on what cookies are used on our websites and how to manage them, visit our** [cookies page](http://shared.aegon.co.uk/cookies)
 
-This statement explains AEGON’s policy on data protection and privacy.
+## Purpose of websites
 
-## Purpose of this website
-
-This website is intended to provide a number of services to:
+Aegon UK’s websites are intended to provide a number of services to:
 
   * planholders
   * scheme members
@@ -20,27 +18,27 @@ This website is intended to provide a number of services to:
 
 
 
-We’d only provide these services to those who they directly concern, and who have authorisation. We’d provide appropriate security accordingly.
-
-The website also links to other AEGON services, which could include underwriting and valuations.
+We only provide these services to those who they directly concern, and who have authorisation. We’d provide appropriate security accordingly.
 
 ## Use of personal information
 
 We’ll only use the information you give us for the following purposes:
 
-  * dealing with your requests and enquiries
-  * providing you with information about our products and services
-  * carrying out customer and marketing research
-  * internal record keeping
-  * providing aggregate information and statistics for the purposes of monitoring website usage in order to help us develop our website and services (these statistics won’t include information that can be used to identify any individual)
-  * recruitment and selection purposes
-  * if you’re applying for a vacancy, then your email with any attachment will be sent to the recruitment mailbox and dealt with by the appropriate recruitment consultant
+  * Dealing with your competition entries and publicising competition winners
+  * Ezine and email registration
+  * Dealing with your requests and enquiries
+  * Providing you with information about our products and services
+  * Carrying out customer and marketing research
+  * Internal record keeping
+  * Providing aggregate information and statistics for the purposes of monitoring website usage in order to help us develop our website and services (these statistics won’t include information that can be used to identify any individual) - more information is available on our [cookies page](http://shared.aegon.co.uk/cookies)
+  * Recruitment purposes
+  * If you’re applying for a vacancy, then your email with any attachment will be sent to the recruitment mailbox and dealt with by the appropriate recruitment consultant
 
 
 
 We don’t sell personal information collected through this website or use your personal data for any purposes other than those outlined above, unless you authorise it.
 
-AEGON UK plc subsidiary companies (including Scottish Equitable plc) may send you marketing information. If you don’t want to receive this, please write to the Direct Marketing Department, AEGON Lochside Crescent, Edinburgh Park, Edinburgh, EH12 9SE.
+Aegon Investment Solutions Ltd and Scottish Equitable plc are subsidiary companies of Aegon UK plc. They and other Aegon UK plc subsidiary companies may send you marketing information. If you don’t want to receive this, please write to Brand and Marketing Media, Aegon, Edinburgh Park, Edinburgh, EH12 9SE.
 
 Where necessary, we’ll process ‘sensitive data’ (including any medical information) in accordance with the Data Protection Act 1998 (the Act). This could include information about your:
 
@@ -50,7 +48,7 @@ Where necessary, we’ll process ‘sensitive data’ (including any medical inf
 
 
 
-If we collect medical data, we may use it to assess any claims you make under the plan, and we’ll hold it for as long as we're required to. We may pass it to reassurers, private investigators, medical professionals and/or healthcare management companies (which would be used to arrange medicals).
+If we collect medical data, we may use it to assess any claims you make under the plan, and we’ll hold it for as long as we're required to. We may pass it to re-assurers, private investigators, medical professionals and/or healthcare management companies (which would be used to arrange medicals).
 
 We have policies in place, which means that we hold all personal data securely and limit access to those who need to see it. We apply extra security to sensitive personal data, such as medical details.
 
@@ -71,9 +69,9 @@ We can receive individual planholders' and/or scheme members’ personal informa
 
 
 
-## How AEGON treats your personal data
+## How Aegon treats your personal data
 
-We fully support and follow the principles of Data Protection, as set out in the Act. We make sure that our staff – and those acting on our behalf – obtain, use and disclose personal data lawfully and correctly. We don’t believe we can operate successfully otherwise. It’s also important in making sure everyone we deal with has confidence in us. This policy operates in all of our offices – both in the UK and overseas.
+We fully support and follow the principles of Data Protection, as set out in the Data Protection Act (‘the Act’). We make sure that our staff – and those acting on our behalf – obtain, use and disclose personal data lawfully and correctly. We don’t believe we can operate successfully otherwise. It’s also important in making sure everyone we deal with has confidence in us. This policy operates in all of our offices – both in the UK and overseas.
 
 Specifically, the principles require that personal information will:
 
@@ -109,21 +107,15 @@ You have a number of rights under the Data Protection Act, including:
 
 
 
-If you want a copy of your personal data, please write to Data Protection Officer, AEGON, Lochside Crescent, Edinburgh Park, Edinburgh, EH12 9SE, enclosing your details, a description of the information you want and a cheque for £10, made payable to AEGON UK.
+For Aegon UK customers, if you want a copy of your personal data, please write to Data Protection Officer, Aegon, Lochside Crescent, Edinburgh Park, Edinburgh, EH12 9SE, enclosing your details, a description of the information you want and a cheque for £10, made payable to Aegon UK.
+
+For Aegon Investment Solutions (Aegon Retirement Choices), if you want a copy of your personal data, please write to Aegon Retirement Choices, PO Box 5070, Cambridge House, Henry Street, Bath, BA1 0QE, enclosing your details, a description of the information you want and a cheque for £10, made payable to AEGON UK.
 
 ## Cookies
 
-A cookie is a piece of data stored on a user's hard drive containing information about the user. They work by setting data on the visitor’s browser to anonymously track the pages they visit on a website. We also use action tags (sometimes called web beacons).
+Our websites use cookies and by using our sites you accept the terms under which these are used - for detailed information, please visit our [cookies page](http://shared.aegon.co.uk/cookies)
 
-We currently use cookies/tags on our websites to:
-
-  * anonymously track participation in online surveys accessed on or from the AEGON website. We’ll set a cookie so that we remember whether you want to take part in a survey so we don’t have to ask every time you visit the site. We won’t store or collect any personal data
-  * anonymously track the usage of the website, either by AEGON or its appointed third party. We also use a third-party company to place adverts on the web, which link to the AEGON website. When someone clicks on one of these adverts and arrives at the AEGON website, we’ll anonymously track which pages they visit. This helps us to develop our site and online advertising and improve user experience
-  * anonymously track visitors’ usage of the AEGON website. When someone visits the site, we’ll track which pages they access so we can understand which pages are used most and use this knowledge to develop our site and improve user experience.  We use Google Analytics (GA), a web analytics service to maximize the performance of our site. GA use cookies and the information generated by the cookie (including your IP address) will be transmitted to and stored by Google on servers held in the United States. Google will not associate your address with any other data held by Google. GA only provide AEGON with statistical information – no information is sent to us that we could identify you from. You may refuse the use of Cookies by selecting the appropriate settings on your browser, however please note that if you do this, you may not be able to use the full functionality of this website. Attached is a link to Google’s Privacy Statement for your information, [http://www.google.com/intl/en/privacy/](http://www.google.com/intl/en/privacy/)
-
-
-
-You can find more information about cookies, including how to block them and/or delete them, at [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/)
+You can also find more information about cookies at independent site [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/)
 
 ## Third-party use of information
 
@@ -131,13 +123,17 @@ You do have the option to transfer to websites that have links on our sites. If 
 
 ## Security
 
+We’re committed to ensuring your information is protected and held securely. However, the internet is not a secure medium and we can’t accept responsibility for the security of an email during transmission or for non-delivery of that email.
+
+There are a few simple steps you can take to protect your computer and internet connection – [view our tips here](https://web.archive.org/web/20121229202848id_/http%3A//www.aegon.co.uk/Footer/Privacy/ssNODELINK/16305).
+
 We currently operate our security requirements through our security policy:
 
   * Breaches in security are dealt with by the security policy.
   * All members of staff, including temporary members of staff, sign confidentiality agreements to make sure they treat the information with respect.
   * Staff can only access the systems that they need to do their job.
   * We make sure that personal information is only passed to those people and organisations that are entitled to know. We check to confirm that people are who they say they are, and that these organisations or people are allowed to have access to this information. Every business area has its own verification checks that relate to the data held and types of people who may need access.
-  * We train all our staff in data protection every two years. This makes sure that members of staff know how to treat personal information and the risks involved if it’s poorly treated.
+  * Staff are required to complete computer based training in data protection every two years. This makes sure that members of staff know how to treat personal information and the risks involved if it’s poorly treated.
 
 
 
@@ -150,16 +146,20 @@ We’ve put security policies, rules and technical measures in place to protect 
 
 
 
-All our employees and data processors who have access to, and are associated with, handling our visitors' personal data are obliged to respect its confidentiality.
+All our employees and data processors who have access to, and are associated with, handling our website visitors' personal data are obliged to respect its confidentiality.
 
-## iRecruitment
+## Links
 
-AEGON UK Corporate Services Limited is the data controller of any information you give us. We’ll only use this information for assessing your application against the selection criteria for the particular position you’ve applied for, and for processing your application throughout that selection process. We’ll treat your personal information in confidence and won’t disclose it to any third parties, except:
+This website may contain links to other websites. If you use the links to leave this website and visit a website operated by a third party, then we don’t have any control over that website. So we can’t be held responsible for the protection and privacy of any information that you provide while visiting such websites.
 
-  * where permitted by law or by our regulator
-  * where an agency is used by us as part of the employment screening process, including background checks, criminal history and credit referencing checks
-  * where you’ve given prior consent
-  * where we need to share it with companies in the AEGON UK Group as part of the selection and application process
+## Applying for job vacancies (iRecruitment)
+
+AEGON UK Corporate Services Limited is the data controller of any information you give us. We’ll only use this information for assessing your application against the selection criteria for the particular position you’ve applied for, and for processing your application throughout that selection process. We’ll treat your personal information in confidence and won’t disclose it to any third parties, except where:
+
+  * permitted by law or by our regulator
+  * an agency is used by us as part of the employment screening process, including background checks, criminal history and credit referencing checks
+  * you’ve given prior consent
+  * we need to share it with companies in the Aegon UK Group as part of the selection and application process
 
 
 
