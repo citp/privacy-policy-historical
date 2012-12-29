@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shimonsandler.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510184534id_/http%3A//www.shimonsandler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shimonsandler.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229134518id_/http%3A//www.shimonsandler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — SEO Consultant - Shimon Sandler
 
@@ -33,3 +33,16 @@ Consumers can access this information by e-mail us at the above address.
 Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.shimonsandler.com%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.shimonsandler.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.shimonsandler.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.shimonsandler.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.shimonsandler.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=This%20is%20the%20web%20site%20of%20ShimonSandler.com.%0D%0A%0D%0AWe%20can%20be%20reached%20via%20e-mail%20at%20shimsand%40gmail.com%2C%20or%20you%20can%20reach%20us%20by%20telephone%20at%20973-634-5847.%0D%0AFor%20each%20visitor%20to%20our%20Web%20page%2C%20our%20Web%20server%20automatically%20recognizes%20no%20information%20regarding%20th "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.shimonsandler.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.shimonsandler.com%2Fprivacy-policy%2F&srcTitle=SEO+Consultant+-+Shimon+Sandler+SEO+Consultant "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.shimonsandler.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=SEO+Consultant+-+Shimon+Sandler+SEO+Consultant&summary=This%20is%20the%20web%20site%20of%20ShimonSandler.com.%0D%0A%0D%0AWe%20can%20be%20reached%20via%20e-mail%20at%20shimsand%40gmail.com%2C%20or%20you%20can%20reach%20us%20by%20telephone%20at%20973-634-5847.%0D%0AFor%20each%20visitor%20to%20our%20Web%20page%2C%20our%20Web%20server%20automatically%20recognizes%20no%20information%20regarding%20th "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.shimonsandler.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
