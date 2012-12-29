@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teach-ict.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503203838id_/http%3A//www.teach-ict.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach-ict.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229143730id_/http%3A//www.teach-ict.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Teach ICT Tons of free resources
 
