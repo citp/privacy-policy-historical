@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anywho.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629041718id_/http%3A//www.att.com/gen/privacy-policy%3Fpid%3D2506) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anywho.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229203359id_/http%3A//www.att.com/gen/privacy-policy%3Fpid%3D2506) for the most accurate reproduction.*
 
 # AT&T Privacy Policy
 
