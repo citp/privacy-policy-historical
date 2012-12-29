@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vietsites.net privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502113504id_/http%3A//www.luckyregister.com/Privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vietsites.net privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229161849id_/http%3A//www.luckyregister.com/Privacy_policy.php) for the most accurate reproduction.*
 
 # Legal Agreement
 
-**Last Revised: March 28, 2012**
+**Last Revised: June 29, 2012**
 
 LuckyRegister - Cheap Domain Registration, Domain Hosting Services - Respects your privacy
 
@@ -85,8 +85,6 @@ If we make material changes to this Policy, we will notify you here, by email, o
 **Contacting Our Site**
 
 If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
 
 LuckyRegister - Cheap Domain Registration, Domain Hosting Services -   
 ATTN: Web Team   
