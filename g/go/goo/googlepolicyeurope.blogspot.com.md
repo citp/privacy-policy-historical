@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the googlepolicyeurope.blogspot.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233338id_/http%3A//google.com/intl/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlepolicyeurope.blogspot.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229195109id_/http%3A//google.com/intl/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Policies & Principles – Google
 
-Last modified: March 1, 2012 ([view archived versions](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/archive/)) 
+Last modified: July 27, 2012 ([view archived versions](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/archive/)) 
 
-There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
 Our Privacy Policy explains: 
 
@@ -14,7 +14,7 @@ Our Privacy Policy explains:
 
 
 
-We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://web.archive.org/support/websearch/bin/answer.py?answer=151265&hl=en). 
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://web.archive.org/support/websearch/bin/answer.py?answer=151265&hl=en). 
 
 ### Information we collect
 
@@ -22,7 +22,7 @@ We collect information to provide better services to all of our users – from f
 
 We collect information in two ways: 
 
-  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo. 
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo. 
 
   * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This information includes: 
 
@@ -32,11 +32,11 @@ We may collect device-specific information (such as your hardware model, operati
 
     * **Log information**
 
-When you use our services or view content provided by Google, we may automatically collect and store certain information in [server logs](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This may include: 
+When you use our services or view content provided by Google, we may automatically collect and store certain information in [server logs](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This may include: 
 
       * details of how you used our service, such as your search queries. 
       * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
-      * [Internet protocol address](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
+      * [Internet protocol address](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
       * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
       * cookies that may uniquely identify your browser or your Google Account.
     * **Location information**
@@ -53,7 +53,7 @@ We may collect and store information (including personal information) locally on
 
     * **Cookies and anonymous identifiers**
 
-We use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
+We use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
 
 
 
@@ -66,7 +66,7 @@ We may use the name you provide for your Google Profile across all of the servic
 
 When you contact Google, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
 
-We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health. 
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health. 
 
 We may combine personal information from one service with information, including personal information, from other Google services – for example to make it easier to share things with people you know. We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent. 
 
@@ -106,7 +106,7 @@ We do not share personal information with companies, organizations and individua
 
   * **With your consent**
 
-We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
 
   * **With domain administrators**
 
@@ -136,7 +136,7 @@ We will share personal information with companies, organizations or individuals 
 
 
 
-We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
+We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
 
 If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
 
@@ -159,7 +159,7 @@ Our Privacy Policy does not apply to services offered by other companies or indi
 
 ### Enforcement
 
-We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20120630231638id_/http://www.google.com/intl/en/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20121229195253id_/http://www.google.com/intl/en/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
 
 ### Changes
 
@@ -172,5 +172,6 @@ The following notices explain specific privacy practices with respect to certain
   * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
   * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
   * [Wallet](http://wallet.google.com/files/privacy.html?hl=en)
+  * [Fiber](https://fiber.google.com/legal/privacy.html)
 
 
