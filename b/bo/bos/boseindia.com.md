@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boseindia.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506082025id_/http%3A//www.boseindia.com/information/bose-privacy.aspx%3Fcmd%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boseindia.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229045406id_/http%3A//www.boseindia.com/information/bose-privacy.aspx%3Fcmd%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -42,7 +42,7 @@ To serve you better and manage our business, it is important that we collect and
 |   
 ---  
   We may collect information such as your name, address, email address, telephone/fax numbers, applications and other forms you submit to us.   
-  If you interact with us through our websites, we may collect information that you provide directly through online communications (such as an email address). We may also collect information about your Internet service provider, your domain name, your computer’s operating system and web browser, your use of our websites and your product and service preferences, through the use of “cookies.” “Cookies” recognize your computer each time you return to one of our sites and help to improve our site' s content and personalize your experience on our sites by, for example, suggesting offerings that may interest you. Please consult the [ ‘Terms of Use’](https://web.archive.org/web/20120506082025id_/http%3A//www.boseindia.com/information/bose-legal.aspx?cmd=Legal)  
+  If you interact with us through our websites, we may collect information that you provide directly through online communications (such as an email address). We may also collect information about your Internet service provider, your domain name, your computer’s operating system and web browser, your use of our websites and your product and service preferences, through the use of “cookies.” “Cookies” recognize your computer each time you return to one of our sites and help to improve our site' s content and personalize your experience on our sites by, for example, suggesting offerings that may interest you. Please consult the [ ‘Terms of Use’](https://web.archive.org/web/20121229045406id_/http%3A//www.boseindia.com/information/bose-legal.aspx?cmd=Legal)  
   section of these sites for more details on our use of cookies.   
   Other sources, such as if someone sends a gift to you.   
 |  **Communication Preferences**  
