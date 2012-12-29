@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezpassva.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112604id_/http%3A//www.virginiadot.org/info/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezpassva.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229140436id_/http%3A//www.virginiadot.org/info/legal.asp) for the most accurate reproduction.*
 
 # Legal
 
@@ -77,10 +77,4 @@ In general, you can tell if you are on a secure page by looking at the symbol at
 
 If you have questions about this privacy statement, the practices of this site, or your interaction with this Web site, please contact us.
 
-  
-
-
-Page last modified: Jan. 16, 2008 
-
-**Connect With Us...**  
-[ ](http://www.flickr.com/photos/vadot) [ ](http://www.facebook.com/VirginiaDOT)  [ ](https://web.archive.org/newsroom/subscribe_to_rss.asp)  [](https://web.archive.org/newsroom/vdot_twitter_feeds.asp)  [ ](http://www.youtube.com/vdotweb)
+Page last modified: Oct. 14, 2012
