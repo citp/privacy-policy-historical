@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113730id_/http%3A//sa.gov.au/site/page.cfm%3Fu%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229140628id_/http%3A//sa.gov.au/site/page.cfm%3Fu%3D25) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Government of South Australia
 
