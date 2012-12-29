@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techgadgetsweb.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629113734id_/http%3A//www.techgadgetsweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgadgetsweb.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229234750id_/http%3A//www.techgadgetsweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,5 +38,3 @@ We are in now way responsible for the information collected by such third party 
 If at any time, you feel your privacy is insecure, you may very well disable your cookies using your respective browser.
 
 We respect the users who visit our site and in no way we will leak any available Personal information about the users including email ids which is available in Comments Section.
-
-Rating: 0.0/ **10** (0 votes cast)
