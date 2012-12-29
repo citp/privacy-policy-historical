@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funandfunonly.in privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516164546id_/http%3A//www.funandfunonly.in/2008/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funandfunonly.in privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229193757id_/http%3A//www.funandfunonly.in/2008/10/privacy-policy.html) for the most accurate reproduction.*
 
 # FunAndFunOnly: Privacy Policy
 
