@@ -1,87 +1,80 @@
-> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630220406id_/http%3A//www.nec.com/en/global/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229031922id_/http%3A//www.nec.com/en/global/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy | NEC
+# Privacy Policy | NEC
 
-Last Update: March 1, 2002
+Updated: September 25, 2012
 
-This site is maintained by NEC Corporation ("NEC"). Protecting your privacy is important to NEC. By ensuring that you are aware of and understand this Online Privacy Statement, we can provide you with better service. Please take a moment to read the following statement to learn how we handle your personally identifiable information. This Statement may change from time to time, so please check back periodically.
+## About our privacy practices
 
-## 1.Site covered by this statement
+**NEC Privacy Policy  
+**
 
-This Online Privacy Statement applies only to the collection and use of information collected online on this site. Other web sites that may be affiliated with NEC Corporation may have different privacy statements.
+By offering various Internet-related products, services, and solutions, NEC Corporation ("NEC") contributes to society as a global leading company which realizes an "information society friendly to humans and the earth" through innovation.  
+In working toward the realization of such a society, NEC recognizes that the protection of personal information is its social responsibility, and has established a policy for the protection of personal information. Efforts are constantly being made to implement and maintain the policy. This privacy policy sets forth our principles as follows (note that the original is in Japanese): 
 
-## 2.Information
+  1. NEC obtains, uses and provides personal information properly based on Japanese Industrial Standard's "Personal Information Protection Management Systems - Requirements (JISQ 15001:2006)". NEC assigns a person in charge of protecting personal information at each of its relevant divisions, taking account of its organizational structure. Among other things, NEC takes appropriate measures not to handle personal information other than for the specified purposes. 
+  2. NEC abides by the laws, regulations and guidelines of Japan pertaining to the protection of personal information. 
+  3. NEC makes efforts to implement, through the adoption of necessary and appropriate security measures, the security control of personal information handled by NEC, including protection from disclosure, loss or damage.
+  4. NEC appropriately responds to complaints and requests for consultation with respect to NEC's handling of personal information and its personal information protection management system. Please contact the designated person or place for inquiries. 
+  5. NEC makes efforts to continuously improve its personal information protection management system, including this policy. 
 
-We may collect your personally identifiable information ("Personal Information") when you use our web site. This information may include your name, mailing address, phone number, and e-mail address. When ordering a product or requesting service information, participating in certain promotional activities, completing surveys, and corresponding with us, we may ask for certain Personal Information. Personal Information is not collected on this web site unless you choose to provide it to us. If you are on a part of our web site that requires you to provide your Personal Information, it will be clear what Personal Information we are requesting.
 
-We may also collect information that is provided to us by your browser. This may include the browser you used to come to our web site, the Uniform Resource Locator ("URL") of the web site that you just visited before visiting our web site, which pages on our web site you visit, any search terms you entered, which URL you go to next, and your Internet Protocol ("IP") address.
 
-## 3.Use of your information
+  
+President  
+NEC Corporation
 
-Information is collected and used in various ways, including those below.
+(This policy applies only to NEC Corporation's Privacy Practices, not to those of other NEC Group companies. Please contact each NEC Group company for their Privacy Policy.)
 
-### Browsing
+## About links to websites other than NEC
 
-When you visit our site or click on advertisements or promotional areas on the site. This information is collected to help run our site more efficiently, to gather broad demographic information, to monitor the level of activity on our site, and to evaluate the effectiveness of advertising and promotion.
+On NEC's sites, there are some Website links that direct the user to NEC Group companies' sites or third party sites for the convenience of the said user.
 
-### Technical support
+When switching to those sites, users leave NEC's sites.
 
-When you request technical support for your NEC products. This information is necessary to identify your products or systems, understand the configuration of the products, diagnose your questions, and provide solutions.
+Some Websites linked to NEC may have an NEC mark (logo). However, NEC is not responsible for the contents of these sites, or for the protection of the said user's personal information on any Websites linked to NEC's Websites.
 
-### Online surveys and polling
+Those Websites may issue cookies, collect data, or gather personal information according to their own privacy policies. NEC's privacy policy does not apply to Websites linked to NEC's Websites. Therefore, NEC recommends that visitors to Websites linked to NEC's Websites read their privacy policies before providing personal information.
 
-When you volunteer to complete surveys or participate in polls. We use this information to improve our products and services.
+## Notice for those under 16 years of age
 
-### Promotional activities
+If you are under the age of 16, please make sure that you provide us with your personal information only after obtaining parental consent.
 
-When you enter a contest or other promotion, we may ask you for information such as your name, address and e-mail address to administer the program or activity, to send you promotional e-mails, notify winners and make the winners' list publicly available in compliance with laws which may apply to such activities.
+## Inquiry contact regarding personal information/contact for complaints
 
-### Newsletters and promotional e-mails
+For personal information handling, please get in touch with the contacts described at the time of registration.
 
-As a service to our customers, we may e-mail to you newsletters, promotional information and other information, using your Personal Information collected online. These e-mails will only be sent to you if you have agreed to receive them or if you have the right to opt out from further receiving them.
+If you do not know whom to contact, please get in touch with [the inquiry contact regarding personal information](https://contact.nec.com/cgi-bin/contact/select_qc.cgi). NEC will respond after confirming the details.
 
-### Contact information
+## Notice regarding this website
 
-If you contact us, we may keep a record of your correspondence or comments, including any information therein. We use this information to help us provide better service.
+### Cookies
 
-## 4.Sharing your Personal Information
+On NEC's Websites, there are pages where a technology called "cookies" is used so that visitors may use the site more conveniently when they return to it.
 
-Unless we have your permission, we will share the Personal Information you provide online only with other NEC entities or with entities that provide services to NEC or are business partners of NEC, and only for legitimate purposes including those described herein. Personal Information we collect online is used for responding to inquiries, processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, for developing better products and services, to serve advertisements, contests, surveys and promotions, and to notify you of products or special offers that may be of interest to you.
+"Cookies" is an industry standard technology by which a Web server identifies the computer of the visitor. While a cookie enables a Web server to identify the computer of a visitor, it cannot identify the visitor unless they input their personal information. Depending on the browser used, a visitor may change the settings to turn off the cookies. However, if the visitor does so, all or part of the services on the site may become unavailable.
 
-NEC (or part of it) or its related entitles could merge with or be acquired by another business entity or their respective assets could be acquired. Should such a combination or acquisition occur, you should expect that NEC would share some or all of your Personal Information to continue serving you and other users of our web site.
+### Web beacons
 
-Occasionally, we may be required by law enforcement or judicial authorities to provide your Personal Information to the appropriate authorities. We will disclose your Personal Information if required by law, upon receipt of a court order or subpoena, or to cooperate with a law enforcement investigation. We reserve the right to report to law enforcement authorities any activities that we, in good faith, believe to be unlawful.
+On NEC's Websites, there are pages where a technology called "Web beacons" ("clear GIF") is used. The beacons help us to determine how many times a page has been viewed. Statistical data collected by Web beacons is generally used to improve NEC's Websites.
 
-## 5.Use of cookies and web beacons
+### Statistical tools
 
-A "cookie" is a small data file that a web site can send to your browser, which may then be stored on your system. We use cookies to better serve you when you return to our site. Some of our web pages may send cookies when you visit our site, make purchases, respond to online surveys or promotions, participate in a contest, or request information. Accepting the cookies used on our site enables our web server to identify your system by reading the cookie that has been stored on your system, but our web server cannot identify you unless you enter your Personal Information. Cookies that are placed when visiting our site cannot be used to obtain your Personal Information at another site.
+On NEC's Websites, there are pages where a tool is generally used to perform statistical analyses of user behavior. Information collected by this statistical tool is generally used to improve NEC's Websites.
 
-The information collected online permits us to analyze traffic patterns on our site. This can enable us over time to provide users with a better experience on our site by improving the content and making it easier to use.
+#### **Explanation of terms**
 
-Depending on the browser used, you can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it, and you can also set your browser to turn off cookies. However, if you do so, some areas of this site may not function properly, or you will be required to re-enter your Personal Information to use an area of this site.
+Cookies:   
+"Cookies" is a technology used to identify a computer that is browsing a Website through the Internet. A cookie is a small packet of information transmitted from a Web server to the user's computer, and may be stored as a file on the said user's hard disk. The purpose of this technology is to store, on the user's computer, information regarding the Web server.   
+By doing so, even when the visitor leaves the site, when the visitor returns to it, the Web server can identify the user's computer by reading the cookie stored on the said user's computer. 
 
-We may also use web beacon technologies to better tailor the site to provide better customer service. A web beacon is a single pixel .GIF that allows a web site to count users who have visited that page or access certain cookies. These web beacons may be placed on specific pages across this web site. When a visitor accesses these pages, an anonymous notice of that visit is generated which may be processed by us or by our vendors. These web beacons work in conjunction with cookies. If you don't want to associate your anonymous cookie information with your visits to these pages, depending on the browser used, you can set your browser to turn off cookies.
+Web beacons:   
+Web beacons usually work in conjunction with cookies. These beacons may be placed as a graphical image on specific pages across a Website. They collect aggregate statistics on Website usage by monitoring certain types of information on the user's computer.
 
-## 6.Children's privacy
+## About privacy mark
 
-If you are under the age of 16, please make sure that you provide us with your Personal Information only after obtaining your parental consent.
+NEC Corporation is certified by the Japan Information Processing Development Center (JIPDEC) for granting the Privacy Mark to be granted to enterprisers which conduct proper handling of the personal information.
 
-## 7.Protecting your Personal Information
+For more details of the Privacy Mark, please visit the Privacy Mark page of JIPDEC website by clicking the follwoing image.
 
-While NEC does not guarantee that unauthorized access will never occur, NEC does take care in maintaining the security of your Personal Information and in preventing unauthorized access to it.
-
-## 8.Links to other web sites
-
-Parts of our site contain links to our subsidiaries and third-party web sites for your convenience and information. If you use these links, you will leave NEC's web site. When you access these other sites, even ones that may contain the NEC mark, please understand that we do not control the content and are not responsible for the privacy practices of that web site. We suggest that you carefully review the privacy policies of each web site you visit. This Online Privacy Statement does not cover the information practices of those web sites linked to our site. These other sites may send their own cookies to users, collect data, or solicit Personal Information.
-
-## 9.Changes to this statement
-
-NEC reserve the right to change this Online Privacy Statement at any time. Any such changes will be posted in this Privacy Statement.
-
-## 10.Applicable laws
-
-NEC will protect your Personal Information in accordance with the laws of Japan.
-
-## 11.Contact us
-
-Please contact the Webmaster through the "[Contact Us (Others)](https://contact.nec.com/cgi-bin/contact/select_qc.cgi)" section if you have any questions or comments about the above.
+[](http://privacymark.org/ "Privacy Mark System")
