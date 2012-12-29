@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imts.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105416id_/http%3A//www.imts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imts.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229163612id_/http%3A//www.imts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | International Manufacturing Technology Show 2012
 
