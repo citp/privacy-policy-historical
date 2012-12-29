@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the plumbenefits.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501201205id_/http%3A//www.plumbenefits.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plumbenefits.com privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229134508id_/http%3A//www.plumbenefits.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html slick-uniqueid="3"><head>
 <title>Plum Benefits - Privacy Policy</title>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 <link rel="stylesheet" type="text/css" href="/css/jquery-ui.css">
-<script type="text/javascript" src="/js/util.js?rel=2012-2"></script>
-<script type="text/javascript" src="/js/omniture-tracking.js"></script>
+<script type="text/javascript" src="/js/mootools.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20130423122152/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/st-sl.js"></script>
+<script type="text/javascript" src="/js/module.util.js"></script>
 	
 <script language="JavaScript" type="text/javascript">
            <!-- Yahoo! Inc.
@@ -30,7 +30,7 @@
 	</script>	
 	
 
-</head>
+<script src="/js/module.omniture.js" type="text/javascript"></script><script src="/js/module.eloqua.js" type="text/javascript"></script><script src="/js/module.jquerycompat.js" type="text/javascript"></script><script src="/js/module.popuplink.js" type="text/javascript"></script><script src="/js/module.offers.js" type="text/javascript"></script><script src="//web.archive.org/web/20130114202927/http://img.en25.com/i/elqCfg.min.js" type="text/javascript"></script><script src="/js/jquery-1.4.2.min.js" type="text/javascript"></script><script type="text/javascript" src="https://s1059.t.eloqua.com/visitor/v200/svrGP?pps=70&amp;siteid=1059&amp;ref=&amp;ms=797"></script></head>
 <body>
 
 
@@ -90,9 +90,8 @@
 		<!-- top content area -->
 		<div class="content-top">
 	
+ <a href="/"><img src="/images/logo.gif?noID" border="0" width="400" height="55" id="logo"></a>
 
- <a href="/"><img src="/images/logo.gif" border="0" width="400" height="55" id="logo"></a>
- 
  		<div class="login match-4 plumtext logged-in">
  	
 <script type="text/javascript" src="/js/redirect_ssl.js"></script>
@@ -102,10 +101,10 @@
 <table border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td>
-                        <input class="input_box doMask" type="text" name="username" id="username" size="10" title="Enter e-mail address">
+                        <div class="overTxtWrapper" style="line-height: normal; position: relative;"><label class="overTxtLabel" for="username" style="line-height: normal; position: absolute; cursor: text; left: 4px; top: 2px;">Enter e-mail address</label></div><input class="input_box doMask" type="text" name="username" id="username" size="10" title="Enter e-mail address">
                 </td>
 		<td>
-			<input class="input_box doMask" type="password" name="password" id="password" size="10" title="Enter password">	
+			<div class="overTxtWrapper" style="line-height: normal; position: relative;"><label class="overTxtLabel" for="password" style="line-height: normal; position: absolute; cursor: text; left: 4px; top: 2px;">Enter password</label></div><input class="input_box doMask" type="password" name="password" id="password" size="10" title="Enter password">	
 		</td>
 		<td><button class="submit_button" id="sub"><span class="wheel-18 plumtext bold">Login</span></button></td>
 	</tr>       
@@ -137,31 +136,31 @@
 		<div class="content-nav">
 	
 <script type="text/javascript" language="JavaScript">
-    var pageLogic = pageLogic || [];
-    pageLogic.push(function(){
+    var sl = sl || [];
+    sl.push(function(){
         loadModule("popuplink","offers");
     });
-    function submitBrowse(input, field, value, clear) {        
-        var f = document.getElementById('browseForm');
-        if(field ==  'destination'){
-                if(value == 'all')
-                        f.edition.value = 0;
-                else
-                        f.edition.value = value;
-        }
-        f.input.value = input;
-        f.field.value = field;
-        f.value.value = value;	
-        try {
-                if (clear) {
-                        f.clear.value = clear;
-                }
-        } catch(e) {}
-        f.submit();
-        return false;
-    }
+function submitBrowse(input, field, value, clear) {        
+	var f = document.getElementById('browseForm');
+	if(field ==  'destination'){
+		if(value == 'all')
+			f.edition.value = 0;
+		else
+			f.edition.value = value;
+	}
+	f.input.value = input;
+	f.field.value = field;
+	f.value.value = value;	
+	try {
+		if (clear) {
+			f.clear.value = clear;
+		}
+	} catch(e) {}
+	f.submit();
+	return false;
+}
 
-    function submitPromoBrowse(input, field, promo) {
+function submitPromoBrowse(input, field, promo) {
         //alert("browsePromo:"+promo);
         var f = document.getElementById('browseForm');
         f.input.value = input;
@@ -176,61 +175,61 @@
         } catch(e) {}
         f.submit();
         return false;
-    }
-    function submitBrowseBarkerCriteria() {    
-        var f = document.getElementById('browseForm');
-        //reset the field values    
-        f.field.value = "";
-        f.value.value = "";
-        for (var i=0;i<arguments.length;i++) {
-            if (arguments[i].indexOf('Event_Types')==0) {
-                if (f.field.value == "") {
-                   f.field.value = arguments[i];               
-                } else {
-                   f.field.value += ";"+arguments[i];
-
-                }            
-                if (f.value.value == "") {
-                    f.value.value = arguments[i + 1];
-                } else {
-                    f.value.value += ";"+arguments[i + 1];                
-                }                      
-                i++;
-            }
-            if (arguments[i].indexOf('Companions')==0) {
-                if (f.field.value == "") {
-                   f.field.value = arguments[i];
-                } else {
-                   f.field.value += ";"+arguments[i]; 
-                }                        
-                if (f.value.value == "") {
-                    f.value.value = arguments[i + 1];
-                } else {
-                    f.value.value += ";"+arguments[i + 1];
-                }                      
-                i++;
-            }
-            if (arguments[i].indexOf('Other')==0) {
-                if (f.field.value == "") {
-                   f.field.value = arguments[i];
-                } else {
-                   f.field.value += ";"+arguments[i]; 
-                }                        
-                if (f.value.value == "") {
-                    f.value.value = arguments[i + 1];
-                } else {
-                    f.value.value += ";"+arguments[i + 1];
-                }                      
-                i++;
-            }
-            if (arguments[i].indexOf('Type') == 0) {
-               f.offerType.value = arguments[i + 1];           
-            }
+}
+function submitBrowseBarkerCriteria() {    
+    var f = document.getElementById('browseForm');
+    //reset the field values    
+    f.field.value = "";
+    f.value.value = "";
+    for (var i=0;i<arguments.length;i++) {
+        if (arguments[i].indexOf('Event_Types')==0) {
+            if (f.field.value == "") {
+               f.field.value = arguments[i];               
+            } else {
+               f.field.value += ";"+arguments[i];
+               
+            }            
+            if (f.value.value == "") {
+                f.value.value = arguments[i + 1];
+            } else {
+                f.value.value += ";"+arguments[i + 1];                
+            }                      
+            i++;
         }
-        f.action.value = "barkerCriteria";    
-        f.submit();
-        return false;
+        if (arguments[i].indexOf('Companions')==0) {
+            if (f.field.value == "") {
+               f.field.value = arguments[i];
+            } else {
+               f.field.value += ";"+arguments[i]; 
+            }                        
+            if (f.value.value == "") {
+                f.value.value = arguments[i + 1];
+            } else {
+                f.value.value += ";"+arguments[i + 1];
+            }                      
+            i++;
+        }
+        if (arguments[i].indexOf('Other')==0) {
+            if (f.field.value == "") {
+               f.field.value = arguments[i];
+            } else {
+               f.field.value += ";"+arguments[i]; 
+            }                        
+            if (f.value.value == "") {
+                f.value.value = arguments[i + 1];
+            } else {
+                f.value.value += ";"+arguments[i + 1];
+            }                      
+            i++;
+        }
+        if (arguments[i].indexOf('Type') == 0) {
+           f.offerType.value = arguments[i + 1];           
+        }
     }
+    f.action.value = "barkerCriteria";    
+    f.submit();
+    return false;
+}
 </script>
 <form id="browseForm" method="POST" action="/offers/" style="display:inline;">
 	<input type="hidden" name="action" value="newSearch">
@@ -249,7 +248,7 @@
 	<tbody><tr>
 
 		<td><div id="lpButDivID-1264176691087" style="position: relative; height: 35px; padding: 0px; margin-top: -37px;"></div></td>
-	<td><img src="/images/spacer.gif" border="0" width="19" height="1" alt=""></td><td><div style="position:relative;z-index:99;"><a href="/offers/?action=clearSearch" id="item4" onmouseover="javascript:clearme();showme(4);" onmouseout="clearmenus();"><img src="/images/nav_offers.gif" border="0" alt=""></a><div id="menu4" style="top:1px; left:-16px;" class="nav_over"><table border="0" cellpadding="0" cellspacing="0" style="position:relative;left:10px;" onmouseover="showme(4);" onmouseout="clearmenus();"><tbody><tr><td><a href="/offers/?action=clearSearch"><img src="/images/nav_offers_over.gif" border="0"></a><br><img src="/images/spacer.gif" border="0" width="1" height="11"></td></tr></tbody></table><div onmouseover="showme(4);" onmouseout="clearmenus();"><div class="nav_over_top"></div><div class="nav_over_m"><div class="nav_over_content_bold">Category</div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Arts &amp; Theater','event10','offer page links'); submitBrowse('add','Event_Types','Arts &amp; Theater',1);">Arts &amp; Theater</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Family &amp; Attractions','event10','offer page links'); submitBrowse('add','Event_Types','Family &amp; Attractions',1);">Family &amp; Attractions</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Music','event10','offer page links'); submitBrowse('add','Event_Types','Music',1);">Music</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Comedy','event10','offer page links'); submitBrowse('add','Event_Types','Comedy',1);">Comedy</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Restaurants','event10','offer page links'); submitBrowse('add','Event_Types','Restaurants',1);">Restaurants</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Sports','event10','offer page links'); submitBrowse('add','Event_Types','Sports',1);">Sports</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Travel','event10','offer page links'); submitBrowse('add','Event_Types','Travel',1);">Travel</a></div><div class="nav_over_content_bold">Budget</div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Under $20','event10','offer page links'); submitBrowse('add','Price_Points','Under $20',1);">Under $20</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Under $40','event10','offer page links'); submitBrowse('add','Price_Points','Under $40',1);">Under $40</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Under $60','event10','offer page links'); submitBrowse('add','Price_Points','Under $60',1);">Under $60</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Under $80','event10','offer page links'); submitBrowse('add','Price_Points','Under $80',1);">Under $80</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Under $100','event10','offer page links'); submitBrowse('add','Price_Points','Under $100',1);">Under $100</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Over $100','event10','offer page links'); submitBrowse('add','Price_Points','Over $100',1);">Over $100</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_All Discount','event10','offer page links'); submitBrowse('add','Price_Points','All Discount',1);">All Discount</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_All VIP','event10','offer page links'); submitBrowse('add','Price_Points','All VIP',1);">All VIP</a></div><div class="nav_over_content_bold">Destination</div><div class="nav_over_content"><a class="hdr" href="javascript:linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_New York','event10','offer page links'); submitBrowse('add','destination','165387',1);">New York</a></div><div class="nav_over_content"><a class="hdr" href="javascript:linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Las Vegas','event10','offer page links'); submitBrowse('add','destination','165386',1);">Las Vegas</a></div><div class="nav_over_content"><a class="hdr" href="javascript:linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Orlando','event10','offer page links'); submitBrowse('add','destination','1043339',1);">Orlando</a></div></div><div class="nav_over_bottom"></div></div></div></div></td><td><img src="/images/nav_sep.gif" border="0" alt=""></td><td><div style="position:relative;z-index:98;"><a href="/how/employees/" id="item8" onmouseover="javascript:clearme();showme(8);" onmouseout="clearmenus();"><img src="/images/nav_howemployees.gif" border="0" alt=""></a><div id="menu8" style="top:1px; left:-16px;" class="nav_over"><table border="0" cellpadding="0" cellspacing="0" style="position:relative;left:10px;" onmouseover="showme(8);" onmouseout="clearmenus();"><tbody><tr><td><a href="/how/employees/"><img src="/images/nav_howemployees_over.gif" border="0"></a><br><img src="/images/spacer.gif" border="0" width="1" height="11"></td></tr></tbody></table><div onmouseover="showme(8);" onmouseout="clearmenus();"><div class="nav_over_top"></div><div class="nav_over_m"><div class="nav_over_content_bold"><a href="/how/employees/faq">FAQs</a></div><img src="/images/nav_over_sep.gif" border="0"><div class="nav_over_content_bold"><a href="/how/hrprofessionals/signon">Get Plum Benefits</a></div><img src="/images/nav_over_sep.gif" border="0"><div class="nav_over_content_bold"><a href="/signup/">Create Your Employee Profile</a></div></div><div class="nav_over_bottom"></div></div></div></div></td><td><img src="/images/nav_sep.gif" border="0" alt=""></td><td><div style="position:relative;z-index:97;"><a href="/how/hrprofessionals/" id="item9" onmouseover="javascript:clearme();showme(9);" onmouseout="clearmenus();"><img src="/images/nav_howhrprofessionals.gif" border="0" alt=""></a><div id="menu9" style="top:1px; left:-16px;" class="nav_over"><table border="0" cellpadding="0" cellspacing="0" style="position:relative;left:10px;" onmouseover="showme(9);" onmouseout="clearmenus();"><tbody><tr><td><a href="/how/hrprofessionals/"><img src="/images/nav_howhrprofessionals_over.gif" border="0"></a><br><img src="/images/spacer.gif" border="0" width="1" height="11"></td></tr></tbody></table><div onmouseover="showme(9);" onmouseout="clearmenus();"><div class="nav_over_top"></div><div class="nav_over_m"><div class="nav_over_content_bold"><a href="/how/hrprofessionals/faq">FAQs</a></div><img src="/images/nav_over_sep.gif" border="0"><div class="nav_over_content_bold"><a href="/how/hrprofessionals/testimonials">Client Testimonials</a></div><img src="/images/nav_over_sep.gif" border="0"><div class="nav_over_content_bold"><a href="/how/hrprofessionals/signon">Get Plum Benefits</a></div></div><div class="nav_over_bottom"></div></div></div></div></td><td><img src="/images/nav_sep.gif" border="0" alt=""></td><td><div style="position:relative;z-index:96;"><a href="/how/partners/" id="item10" onmouseover="javascript:clearme();showme(10);" onmouseout="clearmenus();"><img src="/images/nav_howpartners.gif" border="0" alt=""></a><div id="menu10" style="top:1px; left:-16px;" class="nav_over"><table border="0" cellpadding="0" cellspacing="0" style="position:relative;left:10px;" onmouseover="showme(10);" onmouseout="clearmenus();"><tbody><tr><td><a href="/how/partners/"><img src="/images/nav_howpartners_over.gif" border="0"></a><br><img src="/images/spacer.gif" border="0" width="1" height="11"></td></tr></tbody></table><div onmouseover="showme(10);" onmouseout="clearmenus();"><div class="nav_over_top"></div><div class="nav_over_m"><div class="nav_over_content_bold"><a href="/how/partners/contact">Contact a Representative</a></div></div><div class="nav_over_bottom"></div></div></div></div></td><td><img src="/images/spacer.gif" border="0" width="17" height="1" alt=""></td>
+	<td><img src="/images/spacer.gif" border="0" width="19" height="1" alt=""></td><td><div style="position:relative;z-index:99;"><a href="/offers/?action=clearSearch" id="item4" onmouseover="clearme();showme(4);" onmouseout="clearmenus();"><img src="/images/nav_offers.gif" border="0" alt=""></a><div id="menu4" style="top:1px; left:-16px;" class="nav_over"><table border="0" cellpadding="0" cellspacing="0" style="position:relative;left:10px;" onmouseover="showme(4);" onmouseout="clearmenus();"><tbody><tr><td><a href="/offers/?action=clearSearch"><img src="/images/nav_offers_over.gif" border="0"></a><br><img src="/images/spacer.gif" border="0" width="1" height="11"></td></tr></tbody></table><div onmouseover="showme(4);" onmouseout="clearmenus();"><div class="nav_over_top"></div><div class="nav_over_m"><div class="nav_over_content_bold">Category</div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Arts &amp; Theater','event10','offer page links'); submitBrowse('add','Event_Types','Arts &amp; Theater',1);">Arts &amp; Theater</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Family &amp; Attractions','event10','offer page links'); submitBrowse('add','Event_Types','Family &amp; Attractions',1);">Family &amp; Attractions</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Music','event10','offer page links'); submitBrowse('add','Event_Types','Music',1);">Music</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Comedy','event10','offer page links'); submitBrowse('add','Event_Types','Comedy',1);">Comedy</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Restaurants','event10','offer page links'); submitBrowse('add','Event_Types','Restaurants',1);">Restaurants</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Sports','event10','offer page links'); submitBrowse('add','Event_Types','Sports',1);">Sports</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Travel','event10','offer page links'); submitBrowse('add','Event_Types','Travel',1);">Travel</a></div><div class="nav_over_content_bold">Budget</div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Under $20','event10','offer page links'); submitBrowse('add','Price_Points','Under $20',1);">Under $20</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Under $40','event10','offer page links'); submitBrowse('add','Price_Points','Under $40',1);">Under $40</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Under $60','event10','offer page links'); submitBrowse('add','Price_Points','Under $60',1);">Under $60</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Under $80','event10','offer page links'); submitBrowse('add','Price_Points','Under $80',1);">Under $80</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Under $100','event10','offer page links'); submitBrowse('add','Price_Points','Under $100',1);">Under $100</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Over $100','event10','offer page links'); submitBrowse('add','Price_Points','Over $100',1);">Over $100</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_All Discount','event10','offer page links'); submitBrowse('add','Price_Points','All Discount',1);">All Discount</a></div><div class="nav_over_content"><a class="hdr" href="javascript: linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_All VIP','event10','offer page links'); submitBrowse('add','Price_Points','All VIP',1);">All VIP</a></div><div class="nav_over_content_bold">Destination</div><div class="nav_over_content"><a class="hdr" href="javascript:linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_New York','event10','offer page links'); submitBrowse('add','destination','165387',1);">New York</a></div><div class="nav_over_content"><a class="hdr" href="javascript:linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Las Vegas','event10','offer page links'); submitBrowse('add','destination','165386',1);">Las Vegas</a></div><div class="nav_over_content"><a class="hdr" href="javascript:linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Orlando','event10','offer page links'); submitBrowse('add','destination','1043339',1);">Orlando</a></div><div class="nav_over_content"><a class="hdr" href="javascript:linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Philadelphia','event10','offer page links'); submitBrowse('add','destination','1493721',1);">Philadelphia</a></div><div class="nav_over_content"><a class="hdr" href="javascript:linkCode(this,'eVar8,events','event10','s.eVar8','TopMenu_Washington DC','event10','offer page links'); submitBrowse('add','destination','1493722',1);">Washington DC</a></div></div><div class="nav_over_bottom"></div></div></div></div></td><td><img src="/images/nav_sep.gif" border="0" alt=""></td><td><div style="position:relative;z-index:98;"><a href="/how/employees/" id="item8" onmouseover="clearme();showme(8);" onmouseout="clearmenus();"><img src="/images/nav_howemployees.gif" border="0" alt=""></a><div id="menu8" style="top:1px; left:-16px;" class="nav_over"><table border="0" cellpadding="0" cellspacing="0" style="position:relative;left:10px;" onmouseover="showme(8);" onmouseout="clearmenus();"><tbody><tr><td><a href="/how/employees/"><img src="/images/nav_howemployees_over.gif" border="0"></a><br><img src="/images/spacer.gif" border="0" width="1" height="11"></td></tr></tbody></table><div onmouseover="showme(8);" onmouseout="clearmenus();"><div class="nav_over_top"></div><div class="nav_over_m"><div class="nav_over_content_bold"><a href="/how/employees/faq">FAQs</a></div><img src="/images/nav_over_sep.gif" border="0"><div class="nav_over_content_bold"><a href="/how/hrprofessionals/signon">Get Plum Benefits</a></div><img src="/images/nav_over_sep.gif" border="0"><div class="nav_over_content_bold"><a href="/signup/">Create Your Employee Profile</a></div></div><div class="nav_over_bottom"></div></div></div></div></td><td><img src="/images/nav_sep.gif" border="0" alt=""></td><td><div style="position:relative;z-index:97;"><a href="/how/hrprofessionals/" id="item9" onmouseover="clearme();showme(9);" onmouseout="clearmenus();"><img src="/images/nav_howhrprofessionals.gif" border="0" alt=""></a><div id="menu9" style="top:1px; left:-16px;" class="nav_over"><table border="0" cellpadding="0" cellspacing="0" style="position:relative;left:10px;" onmouseover="showme(9);" onmouseout="clearmenus();"><tbody><tr><td><a href="/how/hrprofessionals/"><img src="/images/nav_howhrprofessionals_over.gif" border="0"></a><br><img src="/images/spacer.gif" border="0" width="1" height="11"></td></tr></tbody></table><div onmouseover="showme(9);" onmouseout="clearmenus();"><div class="nav_over_top"></div><div class="nav_over_m"><div class="nav_over_content_bold"><a href="/how/hrprofessionals/faq">FAQs</a></div><img src="/images/nav_over_sep.gif" border="0"><div class="nav_over_content_bold"><a href="/how/hrprofessionals/testimonials">Client Testimonials</a></div><img src="/images/nav_over_sep.gif" border="0"><div class="nav_over_content_bold"><a href="/how/hrprofessionals/signon">Get Plum Benefits</a></div></div><div class="nav_over_bottom"></div></div></div></div></td><td><img src="/images/nav_sep.gif" border="0" alt=""></td><td><div style="position:relative;z-index:96;"><a href="/how/partners/" id="item10" onmouseover="clearme();showme(10);" onmouseout="clearmenus();"><img src="/images/nav_howpartners.gif" border="0" alt=""></a><div id="menu10" style="top:1px; left:-16px;" class="nav_over"><table border="0" cellpadding="0" cellspacing="0" style="position:relative;left:10px;" onmouseover="showme(10);" onmouseout="clearmenus();"><tbody><tr><td><a href="/how/partners/"><img src="/images/nav_howpartners_over.gif" border="0"></a><br><img src="/images/spacer.gif" border="0" width="1" height="11"></td></tr></tbody></table><div onmouseover="showme(10);" onmouseout="clearmenus();"><div class="nav_over_top"></div><div class="nav_over_m"><div class="nav_over_content_bold"><a href="/how/partners/contact">Contact a Representative</a></div></div><div class="nav_over_bottom"></div></div></div></div></td><td><img src="/images/spacer.gif" border="0" width="17" height="1" alt=""></td>
 	</tr>
 </tbody></table>
 
@@ -331,17 +330,14 @@
 <a href="/about/legal">Terms of Use</a>
 <a href="/about/privacy">Privacy Notice</a>
 <br>
-©2005-2010 Plum Benefits
+©2005-2012 Plum Benefits
 
 	</div>
 	</div>
 	</div>
 	</div>
 	</div>
-	        
-      <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-      <script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script>
-   
+	
 		<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/59915579/?cmd=mTagRepstate&amp;site=59915579&amp;buttonID=13&amp;divID=lpButDivID-1264176691087&amp;bt=1&amp;c=1"></script>
 
 	
@@ -442,4 +438,4 @@
 
 
 
-</body></html>
+<div id="offerBox"></div><div id="personaBox"></div></body></html>
