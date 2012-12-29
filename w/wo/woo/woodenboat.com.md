@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the woodenboat.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504230949id_/http%3A//www.woodenboat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodenboat.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229140440id_/http%3A//www.woodenboat.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy.
+# Privacy Statement | WoodenBoat Magazine
 
-WoodenBoat Publications, Inc., including its divisions, subsidiaries and affiliates (collectively hereinafter “WoodenBoat”), operates this web site (the “site”) in connection with its business. Visitors and users of the site are also referred to the [Terms of Use](https://web.archive.org/web/20120504230949id_/http%3A//www.woodenboat.com/terms-of-use.html) for the site. WoodenBoat is committed to providing a safe and secure environment for its customers. Although WoodenBoat is not a “financial institution” that is governed by the Privacy of Consumer Financial Information Rule of the Gramm-Leach-Bliley Act, WoodenBoat is committed to respecting the privacy rights of guests and users of the site.
+WoodenBoat Publications, Inc., including its divisions, subsidiaries and affiliates (collectively hereinafter “WoodenBoat”), operates this web site (the “site”) in connection with its business. Visitors and users of the site are also referred to the [Terms and Conditions](https://web.archive.org/content/terms-conditions) for the site. WoodenBoat is committed to providing a safe and secure environment for its customers. Although WoodenBoat is not a “financial institution” that is governed by the Privacy of Consumer Financial Information Rule of the Gramm-Leach-Bliley Act, WoodenBoat is committed to respecting the privacy rights of guests and users of the site.
 
 ## Use of personal information
 
@@ -14,7 +14,7 @@ If you choose not to give us your personal information, you can still use most o
 
 The WoodenBoat Forum allows you to post on our bulletin board (our “forum”) to communicate with other wooden boat enthusiasts. Although anyone can read your posts, posting to the forum is a restricted, password-entry-only service that is protected with a dedicated server, electronic and physical firewalls. When you register for our forum, you will be given the opportunity to “opt out” of email notices from our administrators and moderators; you will also be able to opt out of: having your email address viewable to others when you post on the forum; allowing other members to send you private messages; and notification by email when someone sends you a private message.
 
-WoodenBoat may have its web site administrator, its forum moderator, and/or its editor(s) review our forum. In the event that you post information that violates the terms of use for our site (see [Terms of Use](https://web.archive.org/web/20120504230949id_/http%3A//www.woodenboat.com/terms-of-use.html)), our administrator or moderator may remove your post and/or may change, lock, or delete your profile.
+WoodenBoat may have its web site administrator, its forum moderator, and/or its editor(s) review our forum. In the event that you post information that violates the terms of use for our site (see [Terms of Use](https://web.archive.org/content/terms-conditions)), our administrator or moderator may remove your post and/or may change, lock, or delete your profile.
 
 WoodenBoat currently maintains all posts to the forum online and the posts (except private posts and/or messages) are available for public viewing on its site. WoodenBoat retains the right to archive posts in the future at its discretion. In addition, posts may be lost or purged due to technical difficulties.
 
@@ -24,7 +24,7 @@ There is a technology called “cookies” which can be used to provide you with
 
 Some WoodenBoat pages may use cookies so that we may better serve you when you return to our site. You can set your browser to notify you when you receive a cookie, giving you the option to accept or reject it.
 
-We use third‐party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**click here**](http://www.networkadvertising.org/managing/opt_out.asp). 
+We use third‐party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**click here**](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Security
 
@@ -56,5 +56,3 @@ WoodenBoat Publications, Inc
 P.O. Box 78  
 41 WoodenBoat Lane  
 Brooklin, Maine 04616, USA
-
-top of page
