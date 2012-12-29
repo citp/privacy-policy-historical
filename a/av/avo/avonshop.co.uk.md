@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the avonshop.co.uk privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619170253id_/http%3A//avonshop.co.uk/shop/security.htm%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avonshop.co.uk privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229210152id_/http%3A//avonshop.co.uk/shop/security.htm%3F) for the most accurate reproduction.*
 
 # Template
 
-Avon Privacy Statement  NEW
+Avon Privacy Statement  
 
 | 
 
