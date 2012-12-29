@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617181203id_/http%3A//www.smart-survey.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229181824id_/http%3A//www.smart-survey.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Smart-Survey
+# Privacy Policy | Smart Survey
 
 **INFORMATION COLLECTION**
 
