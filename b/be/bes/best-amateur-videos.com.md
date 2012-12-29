@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625013033id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229163747id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
 
 # CCBill Consumer Privacy Policy
 
@@ -61,6 +61,11 @@ Questions regarding the information CCBill has stored about you should be in wri
 2353 West University Drive  
 Tempe, AZ, USA 85281-7223  
 Telephone: 1.480.449.7751  
-Fax: 1.480.449.8801  
-  
----
+Fax: 1.480.449.8801
+
+| **CCBill EU, LTD.**  
+Valletta Building  
+South Street  
+Valletta, Malta  
+Telephone: 1.888.596.9279  
+---|---
