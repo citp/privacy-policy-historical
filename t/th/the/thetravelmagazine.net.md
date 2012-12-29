@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetravelmagazine.net privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501092349id_/http%3A//www.thetravelmagazine.net/i-981--privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetravelmagazine.net privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135906id_/http%3A//www.thetravelmagazine.net/i-981--privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: The Travel Magazine
 
@@ -52,4 +52,15 @@ By submitting Your information You consent to the use of that information as set
 
  **7\. How to contact Us**
 
-We welcome Your views about our website and our privacy policy. If You would like to contact Us with any queries or comments please use the contact us form.
+We welcome Your views about our website and our privacy policy. If You would like to contact Us with any queries or comments please use the contact us form. 
+
+### Comments
+
+Be the first to leave a comment
+
+  
+
+
+### Add Your Comment
+
+#### [Travel Articles Archives](https://web.archive.org/web/20121229135906id_/http%3A//www.thetravelmagazine.net/c-2--travel-articles-archives.html)
