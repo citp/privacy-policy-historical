@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227054309id_/http%3A//www.freeonlinegames.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135216id_/http%3A//www.freeonlinegames.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Free Online Games (FOG.COM)
+
+## Privacy Policy
 
 We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-### Information we collect and use
-
-We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. For each visitor to our website, our web server automatically recognizes no information regarding the domain or e-mail address.
+We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. For each visitor to our website, our web server automatically recognizes no information regarding the domain or e-mail address. 
 
 **The information we collect is:**
 
@@ -16,13 +16,9 @@ We respect each site visitor's right to personal privacy. To that end, we collec
 
 
 
-  
-Registration is not required to enter our site. However, subscription to certain services may require a user to complete a registration form. During registration a user must give certain contact information, but we never sell or give away this information. It is only gathered to contact the user about services on our site for which s/he has expressed interest. It is optional for the user to provide demographic information (income level, gender, etc.), and unique identifiers (username, password, etc.). Giving additional information helps provide a more personalized experience on our site, but is not required. We publish a newsletter, and we never sell or share our subscribers' email or mailing addresses. We operate online surveys, and we never sell or share our subscribers' email addresses. We do show advertisement to our users, which is handled by [Google Adsense](http://adsense.google.com/), [FastClick](http://www.fastclick.com/), [CasaleMedia.com](http://www.casalemedia.com/) & [ValueClick.com](http://www.valueclick.com/). So any such concerns with our advertising, should be directed to them respectedly.  
+Registration is not required to enter our site. However, subscription to certain services may require a user to complete a registration form. During registration a user must give certain contact information, but we never sell or give away this information. It is only gathered to contact the user about services on our site for which s/he has expressed interest. It is optional for the user to provide demographic information (income level, gender, etc.), and unique identifiers (username, password, etc.). Giving additional information helps provide a more personalized experience on our site, but is not required. We publish a newsletter, and we never sell or share our subscribers' email or mailing addresses. We operate online surveys, and we never sell or share our subscribers' email addresses. We do show advertisement to our users, which is handled by [Google Adsense](http://adsense.google.com/), [FastClick](http://www.fastclick.com/), [CasaleMedia.com](http://www.casalemedia.com/) & [ValueClick.com](http://www.valueclick.com/). So any such concerns with our advertising, should be directed to them respectedly. 
 
-
-  
-**Furthermore:**  
-
+**Furthermore:**
 
   * Google, as a third-party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
@@ -34,15 +30,9 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact via our contact form. 
 
-If site users have any questions or suggestions regarding our privacy policy, please contact us via our [contact page](https://web.archive.org/web/20111227054309id_/http%3A//www.freeonlinegames.com/contact.php). 
+If site users have any questions or suggestions regarding our privacy policy, please contact us via our [contact page](https://web.archive.org/contact/). 
 
 For the amusement and greater good of all the gamers of FreeOnlineGames.com:  
 We reserve the right to alter, delete, jump on, kick, smackdown, nuke or do with the reviews whatever we please. If you have any objections with that, please refrain from posting - thank you. 
 
-* * *
-
-**PROVISION REGARDING GAIKAI'S COLLECTION OF USER-RELATED INFORMATION AS PART OF THE GAIKAI SERVICE:**
-
-Licensee's corporate privacy policy (which is accessible at http://www.freeonlinegames.com/privacypolicy.php) already includes, or will include prior to the commercial launch of the Gaikai Service on any website(s) owned or controlled by Licensee (collectively, the "Licensee Sites"), reasonable notice that (i) entities that are not affiliated with Licensee, such as Gaikai (collectively, "Providers") may provide certain products and/or services (e.g., the Gaikai Service) on behalf of Licensee; and (ii) Licensee may disclose and/or share with Gaikai (as a Provider) certain Usage Data and other information of or concerning the individuals who access and use the Gaikai Service and the Trial Games by means of the Licensee Sites, and/or allow Gaikai (as a Provider) to collect and use certain Usage Data and other information regarding such individuals, their respective computer system configurations and performance characteristics, and their use of the Gaikai Service and the Trial Games. Such information may include information that is not personally identifiable (e.g., computer CPU, graphics card, stability of Internet connectivity, latency, etc.), and may also include personally identifiable information regarding such individuals (e.g., email addresses, etc.) and/or information that some jurisdictions consider to be personally identifiable information, such as an IP address. Gaikai's collection, retention and use of any and all such information shall be subject to Gaikai's corporate privacy policy, as posted on http://www.gaikai.com/privacy, which policy may be amended by Gaikai from time to time, at its sole discretion, both during and after the term of the Agreement. 
-
-@{advert:bottom-banner} 
+[ ](https://web.archive.org/avatar)
