@@ -1,84 +1,106 @@
-> *The following text is extracted and transformed from the ad-sage.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627145729id_/http%3A//www.ad-sage.com/About%2520us/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-sage.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229131143id_/http%3A//ad-sage.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy- Adsage
-
-| 
+# Privacy Policy -adSage
 
 Privacy Policy
 
-Please note that the practices of adSage LLC, its affiliates, and agents ("adSage"), with respect to data collected and used by adSage in connection with this website. Please regularly review our Privacy Policy. If you have objections to the Privacy Policy, you should immediately discontinue use of the Site and the Products and Services enabled by the Site and follow the procedure described in the section entitled "Updating your personal information and privacy preferences". This Privacy Policy does not govern privacy practices associated with offline activities, websites other than the Site, or Products and Services not available or enabled via the Site, except as expressly set forth in the section entitled "Data not collected on this Site." Notwithstanding the foregoing, to the extent that any terms of the Privacy Policy conflict with the terms of an existing written (including electronic) agreement between you and adSage regarding the use of specific areas of the Site or specific Products and Services (including Product- and Service-specific licenses, terms of use, or privacy disclosures) (collectively, ¡°Product Agreements¡±), the terms of the Product Agreements shall govern.
+There are many different ways you can use our services ¨C to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating an Account, we can make those services even better ¨C to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we¡¯re using information and the ways in which you can protect your privacy.   
+we want it to be clear how we¡¯re using (our) information and the ways in which you can protect your privacy. 
 
-The Site and the Products and Services are intended for adult audiences, and adSage does not knowingly collect any personal information from anyone under 13 years of age.
+Our Privacy Policy explains:   
+What information we collect and why we collect it.  
+How we use that information.   
+The choices we offer, including how to access and update information.
 
-**Changes in Privacy Policy**
+  
 
-All personal information ("personal information" is defined as any information that identifies or can be used to identify the person to whom such information pertains) that we collect and maintain will be subject to this Privacy Policy, as amended from time to time. adSage may change the Privacy Policy from time to time at its sole discretion and will provide notice of changes in the Privacy Policy and on the home page of ad-Sage.com. If as the result of such changes you want to alter the ways in which adSage is allowed to use your personal information, you can do so by following the procedure described in the section entitled ¡°Updating your personal information and privacy preferences.¡± You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy after such notice has been posted with the following exception: if at the time you provide personal information to adSage you limit how such information will be used to communicate with you, either by adSage or by third parties, adSage will not change your preference in this regard without your express consent. However, if adSage sells assets (or the assets of a division or subsidiary) to another entity, or adSage (or a division or subsidiary) is acquired by or merged with another entity, you agree that adSage may provide to such entity customer information that is related to that part of our business that was sold to or merged with the other entity without obtaining your further consent, but adSage will provide notice of such asset sales, acquisitions, or mergers on this Site.
 
-**Entities collecting personal information**
+We collect information to provide better services to all of our users ¨C from figuring out basic stuff like which language you speak, to more complex things like which ads you¡¯ll find most useful or the people who matter most to you online.   
+From finding out basic information such as which language you speak, to more complex things as which ads you¡¯ll find most useful or the people who matter the most to you online. 
 
-Personal information on this Site is collected on behalf of adSage by adSage LLC, who is responsible for this site. 
+We collect information in two ways:   
+Information you give us.   
+   For example, many of our services require you to sign up for an Account. When you do this, we¡¯ll ask for personal information, such as your  
+   name, email address, telephone number or credit card.   
+Information we get from your use of our services.   
+   We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising  
+   services or you view and interact with our ads and content.   
+   This information includes:   
+Device information   
+        We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers,   
+        and mobile network information including phone number). We may associate your device identifiers or phone number with your Account.   
+Log information  
+        When you use our services or view content provided by us , we may automatically collect and store certain information in.   
+        This information includes:  
+Details of how you used our service, such as your search queries.   
+Telephony log information such as your phone number, calling-party number, forwarding numbers, time and date of calls,  
+           duration of calls, SMS routing information and types of calls.   
+Internet protocol address.  
+Device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of   
+           your request and referral URL.   
+Cookies that may uniquely identify your browser or your Account.  
+Location information   
+        When you use a location-enabled service, we may collect and process information about your actual location, like GPS signals sent by a   
+        mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example,   
+        provide information on nearby Wi-Fi access points and cell towers.   
+Unique application numbers  
+        Certain services include a unique application number. This number is the information about your installation (for example, the operating   
+        system type and application version number) it may be sent to us when you install or uninstall that service or when that service periodically   
+        contacts our servers, for automatic updates.   
+Local storage  
+        We may collect and store information (including personal information) locally on your device using mechanisms such as browser  
+        webstorage (including HTML 5) and application data caches.   
+Cookies and anonymous identifiers   
+        We use various technologies to collect and store information when you visit a service, and this may include sending one or more or   
+        anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners,  
+        such as advertising services or our features that may appear on other sites. 
 
-The Site contains links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.
+We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect we and our users. We also use this information to offer you tailored content ¨C like giving you more relevant search results and ads. 
 
-**Collection of personal information**
+We may use the name you provided us, across all of the services we offer that require an Account. In addition, we may replace past names associated with your Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Profile information, such as your name and photo. 
 
-As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as utilizing online or hosted Products and Services, adSage may ask you to provide certain information about yourself by filling out and submitting a form. It is optional for you to engage in these activities. If you elect to engage in these activities, however, adSage may ask that you provide personal information, such as your first and last name, mailing address (including ZIP code), country of residence, e-mail address, employer, job title and department, telephone and facsimile numbers, and other personal information. When ordering Products and Services via the Site, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. Similarly, if you wish to delete your information (pursuant to the mechanism set forth in ¡°Updating your personal information and privacy preferences¡±) that is mandatory, you will no longer be able to engage in a particular activity.
+When you contact us, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
 
-When you use the Site and the Products and Services, adSage may also collect certain information about your computer to facilitate and evaluate your use of the Site and the Products and Services. For example, we may log environmental variables, such as browser type, operating system, CPU speed, referring or exit webpages, and the Internet Protocol (IP) address of your computer. adSage also uses such information to measure traffic patterns on the Site and usage of the Products and Services. We do not match such information with any other information held by adSage unless we have your consent.
+We use the information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we¡¯ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health. 
 
-By using this Site and the Products and Services, you agree and acknowledge that personal information collected through the Site or in connection with the Products and Services may be transferred across national boundaries and stored and processed in any of the countries around the world in which adSage maintains offices, including the United States. You also acknowledge that in certain countries or with respect to certain activities, the collection, transfer, storage, and processing of your information may be undertaken by trusted third parties. Such third parties are bound by contract with adSage not to use your personal information for their own purposes or provide it to any third parties. One instance where this could occur is in conjunction with framed pages in which the URL for the pages is not visible, and the pages are hosted for adSage by such third parties. For example, on the sign up pages for some newsletters, the pages may be hosted by a third party vendor, but appear to be ad-Sage.com pages and are governed by the adSage privacy policy.
+We may combine personal information from one service with information, including personal information, from other services ¨C for example to make it easier to share things with people you know. 
 
-adSage has established relationships with various service providers whose services are available to you from the Site, from websites that are linked to the Site, or in connection with the Products and Services. Typically, these providers offer services that adSage customers might find useful, such as those that can be used in conjunction with Products and Services. In order to use those providers¡¯ services, you may be required to provide personal information to the providers. Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider's website will be subject to the privacy policy posted on that site, and personal information that you provide while on the Site will be subject to this Privacy Policy.
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. We process personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
 
-In order to reduce errors in our database, authenticate our users, prevent abuse of our Site and the Products and Services, and provide more consistent, relevant experiences to our users, we may on occasion supplement the personal information you submit to us with information from third-party sources. For example, if permitted under applicable law, we may supplement your Registration Information with address information provided by the U.S. Postal Service to qualify your information and prevent errors in our database. As permissible, we may also supplement the information you provide to us with demographic and other information (such as age or interest in photography) stored in third-party databases in order to make it more likely that marketing communications we send will be of interest to you.
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it¡¯s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences.  
+[Opt out cookie track](https://web.archive.org/web/20121229131143id_/http%3A//ad-sage.com/optout.html)
 
-**How your personal information is used**
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it ¨C unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your dentity before we can act on your request. 
 
-adSage collects your information in order to record, support and facilitate your participation in the activities you select. If you subscribe to or register for Products and Services, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. As another example, if you enter a contest, information is collected to qualify the entry and to contact you regarding the contest or prize awards. Your personal information is also used to track customer preferences and keep you informed about product upgrades, special offers, and other products and services of adSage and selected third parties unless you have opted not to receive such communications or such communications are prohibited by law.
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes). 
 
-adSage may collect information about the use of the Products and Services and the Site, such as the number of downloads, types of Services used, how many users we receive daily, and the IP/Internet address of your computer. This information is collected in aggregate form, without identifying any user individually.
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
 
-adSage may use this aggregate, nonidentifying statistical data for improving the Site and the Products and Services, providing more relevant experiences to our customers and for statistical analysis.
+We do not share personal information with companies, organizations and individuals outside of us unless one of the following circumstances applies:   
+With your consent  
+   We will share personal information with companies, organizations or individuals outside of us when we have your consent to do so.   
+   We require opt-in consent for the sharing of any sensitive personal information.   
+For external processing   
+   We provide personal information to our affiliates or other trusted businesses or people (individuals)persons to process it for us,  
+   based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.   
+For legal reasons   
+   We will share personal information with companies, organizations or individuals outside of us if we have a good-faith belief that access, use,   
+   preservation or disclosure of the information is reasonably necessary to:   
+Meet any applicable law, regulation, legal process or enforceable governmental request.   
+Enforce applicable Terms of Service, including investigation of potential violations.   
+Detect, prevent, or otherwise address fraud, security or technical issues.   
+Protect against harm to the rights, property or safety of us, our users or the public as required or permitted by law.
 
-Certain Products and Services may require you to use the most current version of such Product and Service or are offered in conjunction with other Products and Services, which you may or may not have already downloaded. The Product and Service may automatically check to determine if you are using the most current version or have other Products and Services and through e-mail messages, pop-up boxes or similar mechanisms inform you if need to upgrade in order to use the Product and Service you have requested. During this process, an IP address identifying your computer and the Product and Service version may be sent to a Web server, but system profile information is not transmitted nor are cookies used to store information.
+We may share aggregated, non-personally identifiable information publicly and with our partners ¨C like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
 
-**Your choices with respect to personal information**
+If we are involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
 
-adSage recognizes and appreciates the importance of responsible use of information collected on the Site and in connection with the Products and Services. adSage will respect your legal rights regarding access to and correction and deletion of your personal information. adSage may communicate information to you regarding products, services, and special offers available from adSage or selected third parties unless you have opted not to receive such communications or such communications are prohibited by law, although we may find it necessary to continue to communicate with you regarding your use of the Site and the Products and Services. Except in the particular circumstances described in this Privacy Policy, adSage will not provide your name to other companies or organizations without your consent.
+We work hard to protect us and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. 
 
-There are other instances in which adSage may divulge your personal information, such as where required by law, regulation, or litigation. We may also disclose information about you if we determine that such disclosure should be made for reasons of national security, law enforcement, or other issues of public importance.
+Our Privacy Policy applies to all of the services offered by Adsage (adSage) Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
 
-**Protection of your personal information**
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include our services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
 
-The personal information that you provide in connection with registering yourself as a user of the Site or of the Products and Services is classified as Registration Information. Registration Information is protected in several ways. Access by you to your Registration Information is available through a password and unique customer ID selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your Registration Information resides on secure servers that only selected adSage personnel and contractors have access to via password. adSage encrypts your personal information and thereby strives to prevent unauthorized parties from viewing such information when it is transmitted to adSage.
+We regularly review our compliance with our Privacy Policy. We also adhere to several self-regulatory frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
-Personal information that you provide that does not constitute Registration Information also resides on secure servers and is accessible only to selected adSage personnel and contractors via password. Since this information is not accessible online by you, you will not be asked to select a password in order to view or modify such information.
-
-Please note that any information you post to a public bulletin board, blog or chat room, such as the adSage User to User Forums (the "Forums"), is available to all persons accessing that location, and your e-mail address may also be posted on these venues. The information you share, including your email address, would then be available to all persons accessing these venues, and such information may be read, collected or used by others for any purpose, including sending you unsolicited messages. adSage is not responsible for any information you elect to submit in these venues or the use of such information. In addition, you should be aware that the Forums offer a service in which subscribers are e-mailed a copy of all messages posted to the Forums on a particular topic. Consequently, if you post a message to the Forums, your e-mail address will be sent to those subscribers who have indicated an interest in the topic of your message.
-
-**Data not collected on this Site or in connection with the Products and Services**
-
-Personal information that is not collected on the Site or in connection with the Products and Services is not generally subject to this Privacy Policy. However, personal information submitted on physical product registration cards is classified as Registration Information and is subject to this Privacy Policy. This Privacy Policy also covers licensee information (such as contact name and address) provided in connection with adSage's volume licensing program. If you wish to access and/or correct such information, please see instructions for doing so in the section entitled "Updating your personal information and privacy preferences."
-
-**Tracking, use of cookies, web beacons and similar devices**
-
-In order to improve our Products and Services and the Site and provide more convenient, relevant experiences to our customers, we and our vendors may use "cookies", ¡°web beacons¡±, and similar devices to track your activities. A cookie is small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your identification card and enables adSage to record your passwords, purchases, and preferences. It cannot be executed as code or deliver viruses. A web beacon is a small transparent gif image that is embedded in an HTML page or email used to track when the page or email has been viewed. A similar device may be used by which a Product and Service may send data to a server when a set of user-initiated events occur such as the ¡°Add to Cart¡± button is clicked. This device is similar to a cookie in that it tracks your visit and the data can only be read by the server that receives the data. It is different than a cookie in that it is not browser-based, may not function as an identification card, and does not store any data on your computer. 
-
-While adSage uses cookies and similar devices to track your use of the Site and the Products and Services, such as the number of downloads, types of Products and Services used and downloaded, how many users we receive daily, and our web servers automatically log the IP/Internet address of your computer, adSage does not generally use this information to identify you personally. However, if you expressly provide consent for the Site or the Product and Service to "remember" the unique identifier that you select when you register for various activities on the Site or the Products and Services, that unique identifier will be stored on a cookie on your computer and that unique identifier will be linked to your Registration Information. As a result, your navigation path around the Site and the Products and Services will be tracked.
-
-Some Products and Services allow the tracking of access to or use of Products and Services by users, as opposed to adSage. For example, certain Products and Services allow document authors to restrict access to documents, track access to or use of those documents, or involve communications and transmission of data over the Internet to verify the authenticity of documents, authors and recipients. In many cases, this type of tracking will be obvious to you as a user of the Products and Services, and in others, the software and services license or terms of use, pop-up boxes, or email messages will inform you of these features and your options, such as disabling options.
-
-Most browsers are initially set to accept cookies, and most Products and Services that include similar devices are typically initially activated to collect data. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies or similar devices will probably not be able to access those pages or the related Products and Services.) Information about non-cookie tracking devices and their features, including disabling options, are contained in the information materials provided with such Products and Services or on Site pages relating to such Products and Services. 
-
-adSage also hires other companies to place our banner ads on other websites and where they are permitted to perform tracking and reporting activities ("third-party advertisement servers"). Aside from IP addresses, they do not collect personally identifiable information in doing this work for us, and we do not give any personally identifiable information to them. Third-party advertisement servers are subject to their own privacy policies. adSage may also allow other companies to display advertisements on certain pages of the Site or within the Products and Services. If you click on these advertisements these companies may place a persistent cookie on your computer which will allow them to contact you directly. It is our policy to require these companies to provide accessible methods for you to disable these cookies, and should you have any complaint about the practices of any of these companies you should contact info@ad-sage.com.
-
-If you provide adSage with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), adSage will endeavor to update your privacy preferences in a timely and accurate manner.
-
-Also, please note that adSage is not responsible for the content or privacy practices of non-adSage websites to which this Site or any other adSage website may link. You should review the privacy policy of such sites before using the sites.
-
-© 2005-2008 adSage LLC, 
-
-All rights reserved. 
-
-|    
----|---|---
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
