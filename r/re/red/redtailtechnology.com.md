@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtailtechnology.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510114528id_/http%3A//corporate.redtailtechnology.com/%3Fpage_id%3D84) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtailtechnology.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229144741id_/http%3A//corporate.redtailtechnology.com/%3Fpage_id%3D84) for the most accurate reproduction.*
 
 # Redtail Technology | Privacy Policy
 
@@ -8,7 +8,7 @@ This is the Privacy Policy of the Redtail website (the “Site”), operated by 
 
 Redtail created this Privacy Policy in order to demonstrate our commitment to customer privacy. Privacy on the Site is of great importance to us. Because we gather important information from our visitors and customers, we have established this Privacy Policy as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Privacy Policy.
 
-By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use](http://www.redtailtechnology.com/termsofuse.aspx).
+By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use](http://corporate.redtailtechnology.com/?page_id=81).
 
 In this Privacy Policy, we use the following terms to describe different types of visitors to our Site. Our customers are called “Subscribers” and our Subscribers’ customers are called “Customers”. We use the word “staff” to describe persons to whom Subscribers give “staff” access on the Site. Together with registered users of our forum or other interactive areas of the Site, these people are collectively described in this Privacy Policy as “Users” of our Site.
 
