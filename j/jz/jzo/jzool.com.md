@@ -1,72 +1,96 @@
-> *The following text is extracted and transformed from the jzool.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013002039id_/http%3A//jzool.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jzool.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229134314id_/http%3A//jzool.com/en/page/privacy_policy) for the most accurate reproduction.*
 
-# Best Buy Japanese Products - Jzool.com
+# Privacy Policy
 
-Jzool.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Jzool.com, you are accepting the practices described in this Privacy Notice.**
+Jzool.com and our sellers know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Jzool.com, you are accepting the practices described in this Privacy Policy.**
 
   * What Personal Information About Customers Does Jzool.com Gather?
-  * What About Cookies?
+  * About Cookies
   * Does Jzool.com Share the Information It Receives?
   * How Secure Is Information About Me?
-  * Are Children Allowed to Use Jzool.com?
   * Examples of Information Collected
 
-**What Personal Information About Customers Does Jzool.com Gather?**
+
+
+### What personal information about customers does Jzool.com gather?
 
 The information we learn from customers helps us personalize and continually improve your shopping experience at Jzool.com. Here are the types of information we gather. 
 
-  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Jzool.com. Click here to see examples of the information we receive. 
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Jzool.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your profile settings accordingly. 
-  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive. 
+  * #### Information you give us
 
-**What About Cookies?**  
+We receive and store any information you enter on our site or give us in any other way (examples).  We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
+
+  * #### Automatically acquired information
+
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Jzool.com. (See here for examples) 
+
+  * #### E-mail communications
+
+To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Jzool.com. If you do not want to receive e-mail or other mail from us, please adjust your profile settings accordingly. 
+
+  * #### Information from Other Sources
+
+We might receive information about you from other sources and add it to our account information. (See here for examples) 
 
 
-  * Cookies are clusters of alphanumeric data that we transfer to your computer's hard drive through your Web browser to make things easy for you when you return to our site. No personal information is stored in our cookies but we do keep information such as your language settings and the also the items you stored in your shopping cart until your next visit. 
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Website of its manufacturer. However, because cookies allow you to take advantage of some of Jzool.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Jzool.com products and services that require you to Sign in. 
 
-**Does Jzool.com Share the Information It Receives?**
+
+### About Cookies?
+
+Cookies are clusters of alphanumeric data that we transfer to your computer's hard drive through your Web browser to make things easy for you when you return to our site. No personal information is stored in our cookies but we do keep information such as your language settings and also the items you stored in your shopping cart until your next visit. 
+
+Most browsers will give you the option to disable cookies, however we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to use our Shopping Cart, Checkout or Purchasing features, other features on Jzool.com which require you to Sign in. 
+
+### Does Jzool.com Share the Information It Receives?
 
 We care about your privacy and we will never sell or disclose your information to third parties except in the cases described below. 
 
-  * **Affiliated Businesses We Do Not Control:** We work closely with our affiliated businesses. In some cases, such as Marketplace and Auctions sellers, these businesses operate stores at Jzool.com or sell offerings to you at Jzool.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. Click here for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
-  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-  * **Promotional Offers:** Sometimes we send offers to selected groups of Jzool.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your [Customer Communication Preferences](https://web.archive.org/gp/gss/ccp/). 
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Jzool.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
-  * **Protection of Jzool.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our ["Terms & Conditions"](https://web.archive.org/web/20111013002039id_/http%3A//jzool.com/help.php?section=conditions) and other agreements; or protect the rights, property, or safety of Jzool.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
-  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+  * #### Affiliated Businesses We Do Not Control
 
-**How Secure Is Information About Me?**  
+We work closely with our affiliated businesses such as our sellers. These businesses operate stores at Jzool.com or sell offerings to you at Jzool.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. You can tell when a seller or third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
+
+  * #### Third-Party Service Providers
+
+We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, analyzing data, providing marketing assistance, translating product descritptions, providing customer service, and processing credit card payments. These third-parties have access to personal information needed to perform their functions, but may not use it for other purposes. 
+
+  * #### Business Transfers
+
+As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice. Also, in the unlikely event that Jzool.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+
+  * #### Protection of Jzool.com and Others
+
+We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Terms & Conditions](https://web.archive.org/en/page/terms_and_conditions) and other agreements; or protect the rights, property, or safety of Jzool.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. However, this does not include selling, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation this privacy policy. 
+
+  * #### With Your Consent
+
+In cases other than the above, you will receive notice when information is to be released to third parties, and you will have an opportunity to choose not to share the information. 
 
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. [Click here](https://web.archive.org/gp/browse.html/?node=515722) for more information on how to sign off.
 
-**Are Children Allowed to Use Jzool.com?**
 
-Jzool.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Jzool.com only with the involvement of a parent or guardian. 
+### How secure is my information?
 
-**Examples of Information Collected**
+We do our best to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
 
-**Information You Give Us**
+However, it is still to protect your password to prevent unauthorized access. 
 
-You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Jzool.com or one of our third-party sellers; make an Auction bid or purchase; provide information in your account (and you might have more than one if you have used more than one e-mail address when shopping with us) or your profile; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile wish lists or other gift registries; provide employer information when opening a corporate account; participate in other community features; provide and rate reviews; share information with friends; and employ other Personal Notification Services, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number.
+### Examples of information collected
 
-**Automatic Information**
+  * #### Information You Give Us
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and timezone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Top Sellers; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; your Auction history; and the phone number you used to call our customer support desk. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product;  provide information in your account or your profile; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile wish lists or other gift registries;  participate in other community features; provide and rate reviews; and share information with friends. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; people to whom purchases have been shipped, including addresses and phone number. **However, please note that we do not retain any credit card information** on our system. 
 
-**Information from Other Sources**
+  * #### Automatic Information
 
-Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services (such as Target.com, BombayCompany.com, and DVF.com); search term and search result information from some searches conducted through the Web search features offered by our subsidiaries, Alexa Internet and A9.com; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
+Examples of the information we collect and analyze include your ip address; login; e-mail address; password; computer and connection information such as browser type, version, and timezone setting, operating system, and platform; purchase history; the url clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call customer support. 
 
-**Information You Can Access**
+  * #### Information from Other Sources
 
-Examples of information you can access easily at Jzool.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password and communications preferences; payment settings (including credit card information and gift certificate, gift card, and check balances); e-mail notification settings (including Alerts, Available to Order notifications and newsletters).
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties; search terms and search result information. 
 
-**OUR COMPANY**
+  * #### Information You Can Access
 
-Please refer to [our company information page](https://web.archive.org/pages.php?pageid=2)
+Examples of information you can access at Jzool.com include your order history and profile information. 
 
- 
+
+
