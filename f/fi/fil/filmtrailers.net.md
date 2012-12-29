@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the filmtrailers.net privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514114339id_/http%3A//filmtrailers.net/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmtrailers.net privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229200020id_/http%3A//filmtrailers.net/terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy - FilmTrailers.net
 
 **What information do we collect?**
 
-We currently do not collect personally identifiable information.  Non-personally identifiable information is available to us based on your use of this website.
+We currently do not collect personally identifiable information. �Non-personally identifiable information is available to us based on your use of this website.
 
 **What do we use your information for?**
 
@@ -18,11 +18,11 @@ Because, unlike many other websites, we do not collect any personally identifiab
 
 **Do we use cookies?**
 
-Yes. Cookies are small files that a website or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service provider’s systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a website or its service provider transfers to your computer�s hard drive through your Web browser (if you allow) that enables the sites or service provider�s systems to recognize your browser and capture and remember certain information.
 
 We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Google, as a third party vendor, uses cookies to serve ads on our website. Google’s use of the DART cookie enables it to serve ads based on your visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on our website. Google�s use of the DART cookie enables it to serve ads based on your visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **Do we disclose any information to outside parties?**
 
