@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the socialflow.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618080927id_/http%3A//www.socialflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialflow.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229213717id_/http%3A//www.socialflow.com/privacy-policy) for the most accurate reproduction.*
 
-# SocialFlow | Privacy
+# Privacy Policy | SocialFlow
 
-SocialFlow, Inc. (SocialFlow) owns and operates this website [SocialFlow](http://socialflow.com/) (the Site). The Site, together with the content, programs, tools, forums, information sharing, transactions and other services available at the Site, are collectively referred to herein as the Service.
+SocialFlow, Inc. (SocialFlow) owns and operates this website SocialFlow (the Site). The Site, together with the content, programs, tools, forums, information sharing, transactions and other services available at the Site, are collectively referred to herein as the Service.
 
 The following policy explains how SocialFlow may collect, use and disseminate information obtained from Users of the Site and Service. Capitalized terms used herein without definition will have the same meanings as defined in the Terms of Service applicable to the Site.
 
@@ -42,7 +42,7 @@ SocialFlow uses your IP address to help diagnose problems with its web servers a
 
 Opt-Out.
 
-You may elect to avoid future communications from SocialFlow and terminate your registration to the Service by sending an email to [opt-out@socialflow.com](https://web.archive.org/web/20120618080927id_/http%3A//www.socialflow.com/opt-out@socialflow.com) that includes your electronic mail address and username; provided, SocialFlow reserves the right to use your contact information to send you important information (such as, for example, information about changes to this Privacy Policy).
+You may elect to avoid future communications from SocialFlow and terminate your registration to the Service by sending an email to opt-out@socialflow.com that includes your electronic mail address and username; provided, SocialFlow reserves the right to use your contact information to send you important information (such as, for example, information about changes to this Privacy Policy).
 
 Non-US Users.
 
@@ -65,4 +65,4 @@ SocialFlow, Inc.
 New York, NY 10017
 
 Tel: (212) 883-9844  
-Email: [info@socialflow.com](mailto:info@SocialFlow.com)
+Email: info@socialflow.com
