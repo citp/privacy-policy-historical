@@ -1,67 +1,171 @@
-> *The following text is extracted and transformed from the businessgreen.com privacy policy that was archived on 2011-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110930233401id_/http%3A//www.incisivemedia.com/public/showPage.html%3Fpage%3D11526) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessgreen.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229100932id_/http%3A//www.incisivemedia.com/static/privacy-policy) for the most accurate reproduction.*
 
-# Incisive Media - Privacy Policy
+# Privacy Policy - Incisive Media - B2B publishers, financial market data , books/magazines subscriptions, jobs
 
-**Information Collection and Use**  
-Incisive Media  is the sole owner of the information collected on this site. We will not sell, share, or rent this information to third parties in ways other than those disclosed in this policy. Incisive Media  collects information from our users at several different points on our websites. 
+**1\. INTRODUCTION**
 
-Incisive Media includes Incisive Media and all of its subsidiary companies (Incisive Financial Publishing Limited, Incisive Photographic Limited, Global Professional Media Limited, Conjecture Limited, Incisive Media Investments Limited, Incisive RWG Inc, Incisive Interactive Marketing LLC).
+Incisive Media Limited and all companies within its Group ("Incisive Media" or "We") are committed to protecting and respecting your privacy.
 
-**Registration**  
-some of our sites restrict access to online content. To gain entry a user must first complete a registration form. During registration a user is required to give their contact information (such as name and e-mail address). For sites where online access to content is part of a subscription package, registration forms will often contain full subscriber details used to identify and fulfil that subscriber's account. 
+This policy (together with our [terms of use](http://www.incisivemedia.com/static/terms-conditions "View our terms & conditions of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-**E-mail alerts**  
-If a user wishes to subscribe to our alerts, updates, briefings etc. we ask for contact and delivery information such as name and e-mail address. All of these e-mail lists provide opt out facilities online and with each e-mail broadcast. In some cases the user is asked to provide optional demographic and personal interest information that is used to keep our content as relevant as possible. 
+For the purpose of the Data Protection Act 1998 ("the Act"), the data controller is Incisive Media Limited of 32-34 Broadwick Street, London W1A 2HG.
 
-**Sharing**  
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We would also share information when using an outside shipping company to ship orders or a credit card processing company to bill users for goods and services.
+Our nominated representative for the purpose of the Act is Sean Hayes.
 
-On some sites, which generate reports from directories and listings, we share the names and e-mail addresses of an individual user with some of companies whose products and services are mentioned within that report. Where this occurs there is an opt out provided if a user does not wish to receive any contact from those companies.
+**2\. INFORMATION WE MAY COLLECT FROM YOU**
 
-**Orders**  
-We request information from the user on our order forms. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfil customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. All online transactions are processed using SSL encryption (see Security for more detail)
+We may collect and process the following data about you:
 
-**Use of Cookies and Other Tracking Devices**  
-Many of our sites use cookies. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of cookies is for the convenience of visitors. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users in order to enhance the experience on our site. They can also allow us to provide tailored advertising to visitors after they have left our sites. If you do not wish to receive such tailored advertising please visit [http://optout.doubleclick.net/cgi-bin/optoutgoogle.pl](http://http//optout.doubleclick.net/cgi-bin/optoutgoogle.pl "http://optout.doubleclick.net/cgi-bin/optoutgoogle.pl")
+  * Information that you provide by filling in forms on our sites, and which may be amended from time to time (" **our sites** "). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through our site and of the fulfilment of your orders.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-You can delete cookies from your hard drive at any time however this will mean that any settings such as your stored username and password will have to be reset. You can set your internet browser so that it will not allow cookies to be stored on your computer. This may reduce functionality of the site, prevent access to registration/subscription-only areas of the site and mean that certain features or content will not be available to you, but you will still be able to use our sites. Further information on how to prevent cookies from being stored on your computer can be found on the help menu within your internet browser.
 
-From time to time we allow third party companies to set cookies on our sites for market research, serving adverts, revenue tracking or to improve functionality of the site. Some of our websites may use pixels, or transparent GIF files, to help manage online advertising, which can be provided by third parties we work with to manage advertising such as DoubleClick. These files allow those third parties to recognize a unique cookie on your Web browser, which in turn helps us to gauge which adverts are likely to draw visitors to our website. The information they collect via cookies is anonymous and doesn’t your name, address, telephone number, or email address. For more information about DoubleClick, including information about their use of Spotlight Technology, and how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.
 
-Some of our websites use web analytics services provided by third parties such as Google, Inc which use cookies to help us analyse how visitors use our sites. They will use this information to produce statistical data outlining website activity for us and provide other information detailing website activity and internet usage. They may also transfer this information to third parties where it is a legal requirement, or where such third parties process the information on their behalf. They will not match your IP address with any other data they hold. If you don’t want Google to use cookies in this way please visit <http://tools.google.com/dlpage/gaoptout>. You may also refuse the use of cookies by selecting the appropriate settings on your browser. By using this website, you provide your consent to the processing of data about you by those service providers as described above.
+**3\. IP ADDRESSES**
 
-**Clear Gifs**  
-We employ a software technology called clear gifs (also known as Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users' personally identifiable information. In addition, we use clear gifs in our HTML-based e-mails to let us know which e-mails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. All of our e-mail newsletters provide the facility to opt-out (see opt-out section below). 
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-**Log Files**  
-We use IP addresses to analyse trends, administer the site, track a user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+**4\. COOKIES**
 
-**Links**  
-Some of our websites contain links to other sites. Please be aware that Incisive Media is not responsible for the privacy practices of other sites. This privacy statement applies solely to information collected by this website. 
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate. The cookies we use can be grouped into four separate categories:
 
-**Surveys & Contests**  
-From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+  * Strictly necessary
+  * Performance
+  * Functionality
+  * Targeting
 
-**Recommend this site**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and e-mail address. We will automatically send the friend a one-time e-mail inviting them to visit the site. This information is not stored except for the sole purpose of sending this one-time e-mail.
 
-**Security**  
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. The servers that we store personally identifiable information on are kept in a secure environment.
 
-**Special Offers**  
-On some sites new members receive a welcome e-mail to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Where this is the case we present the option to not receive these types of communications at the point of sign up. 
+**Strictly Necessary**
 
-**Site and Service Updates**  
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via e-mail or phone. 
+'Strictly Necessary' cookies allow you to navigate the website and use essential features like secure areas and online registration. These cookies don't gather any information about you that could be used for marketing or remembering where you've been on the internet.
 
-**Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavour to provide a way to correct, update or remove that user's personal data provided to us. This can be done at the registration page or by e-mailing the site editor. Many of our sites will offer subscribers an account management facility that will allow them to change or amend their own records.
+Since these cookies are essential in our being able to guarantee the performance of our website, should you disable them we won’t be able to ensure your security or predict how our website will perform during your visit.
 
-**Choice/Opt-out**  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. Users who no longer wish to receive a newsletter/alert/briefing etc. may opt-out of receiving these communications by replying to the unsubscribe link in the e-mail or online. 
+Examples of strictly necessary cookies that we use include the following:
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will seek to advise all users of these changes.
+    Incisive Cookies  
+        Kreatio_session  
+        logged_in
 
-**Discussion boards**  
-While we take every precaution to ensure all contributions to discussion boards are factually correct, and not deemed to be untruthful, libellous, defamatory, racist or persecutory, these messages are entered by third parties. All users of the board are presented with a set of house rules before taking part. Our editor will monitor as much as possible and although all users of the site are entitled to their opinion, language on the boards must be clean - contributions containing sexual swear words and slander will be removed. Users will be warned if breaking the house rules. A user who consistently breaks the house rules will be barred from the discussion boards'. All users are reminded of copyright - Articles from other websites should be linked to rather than copied in full. Articles from within Incisive Media  publications/websites may be copied in their entirety for use on Incisive Media discussion boards. Incisive Media reserves the right to remove articles without notice or reason.
+**Performance**
+
+This type of cookie collects information about how you use our website e.g. which pages you visit, and if you experience any errors. The information collected is anonymous and is only used to help us improve how our website works, gauge what interests our users and assess the effectiveness of advertising.
+
+Examples of performance cookies include:
+
+    Incisive  
+        Kreatio_session
+
+    Jobsinrisk.com  
+        WebSite_LatestJobSearchPage  
+        WebSite_LatestJobSearchCount  
+        WebSite_LatestJobSearchItems  
+        WebSite_LatestJobSearchListingPage  
+        WebSite_LatestJobSearchPageSize  
+        WebSite_LatestJobSearchOrder  
+        WebSite_LatestJobSearchID  
+        WebSite_LatestSearchRecruiterID  
+        WebSite_LatestSearchFirstJobID
+
+**Functionality**
+
+This type of cookie remembers your preferences for tools found on our websites, so you don't have to re-set them each time you visit. Some of them are managed by third parties. They may for instance determine whether you see the latest or oldest comments made in relation to an article first. Examples include:
+
+    Incisive.grapeshot.co.uk  
+        uid
+
+    Thenewswall.co.uk  
+        __cfduid  
+        __utma  
+        __utmb  
+        __utmc  
+        __utmz  
+        __utmv
+
+**Targeting**
+
+These cookies are used to analyse what advertising might be most relevant to a user of the website based on the areas of the website that the user visits. Examples include:
+
+    T.mookie1.com  
+        id  
+        mdata  
+        OAX
+
+    YouTube  
+        VISITOR_INFO1_LIVE  
+        PREF  
+        use_hitbox
+
+    DoubleClick  
+        test_cookie  
+        id
+
+Please note that any advertisers featured on our site may also use cookies, over which we have no control.
+
+You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our sites.
+
+Your first visit to any of our sites will generate a pop-up header alerting you to this privacy policy and will re-appear only in the event that you change your cookie settings from time to time.
+
+  Please also note that by clicking on the distinctive Ad Choices logo that appears in our sites you can obtain further information as to how cookies can be used or restricted in tailoring advertising relevant to you.
+
+**5\. WHERE WE STORE YOUR PERSONAL DATA**
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA working for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+**6\. USES MADE OF THE INFORMATION**
+
+We use information held about you in the following ways:
+
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
+
+
+
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post, email or telephone.
+
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+
+If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box on the registration form or, alternatively, do not provide your consent to pass on those details when prompted.
+
+**7\. DISCLOSURE OF YOUR INFORMATION**
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Incisive Media or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.incisivemedia.com/static/terms-conditions "View our terms & conditions of use") and other agreements; or to protect the rights, property, or safety of Incisive Media, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+**8\. YOUR RIGHTS**
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by ticking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@incisivemedia.com](mailto:info@incisivemedia.com "Email info@fundcatalyst.com").
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+**9\. ACCESS TO INFORMATION**
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+**10\. CHANGES TO OUR PRIVACY POLICY**
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
+
+**11\. CONTACT**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@incisivemedia.com](mailto:info@incisivemedia.com "Email info@incisivemedia.com").
