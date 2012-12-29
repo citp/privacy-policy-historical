@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flickriver.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630135851id_/http%3A//www.flickriver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flickriver.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229142544id_/http%3A//www.flickriver.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
