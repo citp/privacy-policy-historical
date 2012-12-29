@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splcenter.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527134530id_/http%3A//www.splcenter.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splcenter.org privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229141347id_/http%3A//www.splcenter.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Southern Poverty Law Center
 
