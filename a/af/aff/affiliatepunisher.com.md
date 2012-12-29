@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the affiliatepunisher.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627120546id_/http%3A//affiliatepunisher.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatepunisher.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229224321id_/http%3A//affiliatepunisher.com/privacy.html) for the most accurate reproduction.*
 
 # Affiliate Punisher - Earnings Income Disclaimer
 
-Pursuant to Canadian Federal & Ontario Provincial Laws the following is a statement of your legal rights.
+Pursuant to Canadian Federal & Ontario Provincial Laws & The United States Of America the following is a statement of your legal rights.
 
-**PRIVACY POLICY**
+**PRIVACY & EMAIL POLICY**
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
 
@@ -32,9 +32,34 @@ If you order services or products directly from our company, we use the personal
 
 Online Advertisements:  Our company may display our online advertisements. In those cases we share information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. 
 
-Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its Visitors or Members with these advertisers or joint venture companies.
+Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its Visitors or Members with these advertisers or joint venture companies.  
 
-Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. 
+
+Email Policies:
+
+Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive.
+
+Q. Who will have access to your email information?
+
+A. When you subscribe to our double optin permission based email newsletter as a website visitor and not as a client, purchaser of a credit card, already existing website membership only club member, an online advertisement winner, you'll be contacted and provided updates from our company and only our company from time to time. 
+
+We have stringent protocols put in place to protect user data and only authorized company personal will be sending out permission based electronic email content to website visitors while fully abiding by the canspam requirements. You can view canspam policies by [clicking here](http://en.wikipedia.org/wiki/CAN-SPAM_Act_of_2003)
+
+To use our email services we use the double optin email permission based policies with full suppression list requirement.
+
+Q. How will the user be contacted? How often will the user be contacted, will the user be contacted in multiple ways?
+
+  A. Usually we like to stay in contact with our email subscribers on a weekly basis by either email, or direct mail.
+
+We contact you only to keep you informed of any updates, special offers, and other timely information that we find that may be helpful to help you grow your business.
+
+You can opt out of any and all of our email newsletters by clicking the link at the bottom of any email you receive from our company by scrolling down to the end of the email and clicking the clearly marked unsubscribe link.
+
+Q. Will this information be sold to third parties?
+
+A. No, under no circumstances do we sell any website visitors information to any third party. We use a double optin permission based email system with protocols and are fully canspam complaint. Your information is secure and safe with us.
+
+Please review the rest of our policies on this page and clicking back to our blog and to see full policy's on our sidebar halfway down the right side of the website page. You can get there by [clicking here](http://affiliatepunisher.com/blog/)
 
 Voluntary Customer Surveys:  We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. 
 
@@ -153,15 +178,15 @@ Where to Direct Questions About Our Privacy Policy:  If you have any questions 
 
 Revisions to This Policy: Our company Advanced Marketing Wealth Solutions Incorporated reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
 
-Last updated: Janurary 25th, 2009
+Last updated: August 15th, 2012
 
-Contact information 
+Contact information: 
 
-Advanced Marketing Wealth Solutions Incorporated  
-Business Office (289) 244-7481  
+Advanced Marketing Wealth Solutions Incorporated.  
+Business Office (289) 244-7481 Business Office (905) 930-9279  
 22 Bankfield Crest Hamilton Stoney Creek,Ontario Canada  
 L8J-0B9
 
 2020
 
-Copyright © 2009 AffiliatePunisher.com,  Advanced Marketing Wealth Solutions Incorporated. 
+Copyright © 2012 AffiliatePunisher.com,  Advanced Marketing Wealth Solutions Incorporated. 
