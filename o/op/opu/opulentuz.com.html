@@ -1,30 +1,44 @@
-<!--The following is the downloaded HTML source of the opulentuz.com privacy policy that was archived on 2012-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120603003224id_/http%3A//www.opulentuz.com/immigration/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the opulentuz.com privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229174718id_/http%3A//www.opulentuz.com/immigration/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+
+
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Opulentus Complaints |    Opulentus  Privacy Policy</title>	
+	<title>Opulentus  Privacy Policy | Opulentus Complaints</title>	
 	<meta name="description" content="Resolving Opulentus overseas careers complaints, protection of client�s information and maintaining a fraud protection policy are some of our major initiatives to provide best services to clients.">
 	<meta name="keywords" content="Opulentus Complaints,Opulentus Fraud Protection,Opulentus Overseas Careers Complaints,Opulentus Overseas Careers Fraud Protection,Fraud Free Opulentus on-line Payments">
+	<meta name="author" content="Opulentuz">
+	<meta name="language" content="English">
 	<link rel="SHORTCUT ICON" href="http://www.opulentuz.com/img/favicon.ico">
+    
+    <!--for news and testimonials canonicalization-->
+ </head><body onload="autoScroll('newsslider','newssection',5,true);"><br>	<!--for end news,FAQs and testimonials canonicalization-->
+    
 	<link rel="stylesheet" type="text/css" href="/css/default.css">	<link rel="stylesheet" type="text/css" href="/css/accordion.css">	<!--[if IE 6]>
 	<script type="text/javascript" src="/js/dd_belatedpng.js"></script><script>
 		
     DD_belatedPNG.fix('#logo img, #india-quo, #nav-left, #text-quote, li.phone_num, #livechat img, #s-media, .loginbutton_l img, .uk, .usa, .australia, .canada, .denmark, .singapore, .loginbutton_l a, .newzealand, .austria, .ireland, .southafrica, .norway, .hongkong, .france, a img, .nav-mn, .nav-tn, .nav-bn'); 
 </script>
 <![endif]--> 	
-
-</head><body onload="autoScroll('newsslider','newssection',5,true);"><div id="fb-root"></div>
-<script type="text/javascript" async="" src="https://widget.uservoice.com/trS3PY5cQZ8Pk7ayA3b1gA.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script>(function(d, s, id) {
+<div id="fb-root"></div>
+<script type="text/javascript" async="" src="https://widget.uservoice.com/trS3PY5cQZ8Pk7ayA3b1gA.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">
+//<![CDATA[
+(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) {return;}
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+//]]>
+</script>
 
 
 <script type="text/javascript">
+//<![CDATA[
 set_cookie('animate_order',1);
 function set_cookie( name, value, expires, path, domain, secure )
 {
@@ -142,14 +156,39 @@ function validate(a)
 	{
 		var frm=document.popupfrm;
 		var plength = frm.phone.value;
-		var day = 03;
-		var month = 06;						
+		var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+		var re = /^[A-Za-z ]+$/;
+		var day = 29;
+		var month = 12;						
 		var year = 2012;
 		if(frm.p_name.value == 'Person Name'){
 			alert('Enter your name');
 			frm.p_name.focus();
 			return false;			
 		}
+		/* Code open By Mahesh */
+	if(frm.p_name.value.charAt(0)==' ')
+	{
+	alert('Name Should Not Start with Space');
+	
+	frm.p_name.focus();
+	frm.p_name.value='';
+	return false;
+	}	
+	if(re.test(frm.p_name.value)==false) {
+		alert('Enter Only Alphabets');
+		frm.p_name.focus();
+		return false;
+	}	
+	if(frm.p_name.value.length<3 || frm.p_name.value.length>40){
+		alert("Name Field accepts from 3 to 40 Alphabets");
+	frm.p_name.focus();
+	frm.p_name.value='';
+	return false;
+	}	
+	
+	/* Code Closed By Mahesh */
+
 		if(frm.email.value == 'Email')
 		{	
 			alert('Enter email addresss');
@@ -161,6 +200,55 @@ function validate(a)
 			frm.email.focus();
 			return false;
 		}
+		
+		/* code open Mahesh*/
+	
+	
+	else if(frm.email.value!="" && reg.test(frm.email.value) == false) {
+      alert('Invalid Email Address');
+	  frm.email.focus();
+	  frm.email.value='';
+      return false;
+   }
+	else if (frm.email.value.indexOf('..',0) != -1) 
+		{	
+		alert('Invalid Email! Please check once again.');
+  		return false;
+		}
+else if (frm.email.value.indexOf('.@',0) != -1)
+{	
+	alert('period must not immediately precede @ in email address');
+	return false;
+}	
+
+else if(frm.email.value.charAt(0)=='_' || frm.email.value.charAt(0)=='.')
+{
+alert('Email Should Not Start with Special Characters(.,@,_)');
+return false;
+}    	
+
+else if(frm.code.value=='' || frm.code.value=='Code'){
+		alert("Please Enter Code");
+		frm.code.focus();
+		frm.code.value='';
+		return false;
+	}
+else if(frm.code.value!='' && isNaN(frm.code.value)){
+		alert("Code should contain only numbers");
+		frm.code.focus();
+		frm.code.value='';
+		return false;
+	}
+else if(frm.code.value.length>8){
+		alert("Invalid number please check(range 1-8 digits) ");
+		frm.code.focus();
+		frm.code.value='';
+		return false;
+	}
+
+	/* code Close Mahesh*/
+	
+		
 		if(frm.phone.value =='Mobile Number')
 		{			
 			alert('Enter phone Number ');
@@ -170,10 +258,11 @@ function validate(a)
 		{
 			alert('Enter Numbers only');
 			frm.phone.focus();
+			frm.phone.value='';
 			return false;
-		}else if((plength.length < 1) || (plength.length > 10))
+		}else if((plength.length < 10) || (plength.length > 13))
 		{
-			alert(" Your Mobile Number must be 1 to 10 Integers");
+			alert(" Your Mobile Number must be 10 to 13 Integers");
 			frm.phone.select();
 			return false;
 		}else if(frm.branch.value == ''){	
@@ -184,11 +273,11 @@ function validate(a)
 			if(frm.dateyear1.value > year){
 						
 				if(frm.dateday1.value == ''){
-					alert('Select Correct Day ');
+					alert('Select  Future Date ');
 					frm.dateday1.focus();
 					return false;
 				}else if(frm.datemonth1.value == ''){
-					alert('Select Correct Month ');
+					alert('Select Future Month ');
 					frm.datemonth1.focus();
 					return false;			
 				}else if(frm.timetocall1.value == ''){
@@ -200,7 +289,7 @@ function validate(a)
 					frm.timetocallto1.focus();
 					return false;
 				}else if(frm.timetocall1.value && frm.timetocallto1.value){
-					var hours = 06;
+					var hours = 23;
 					var time1 = frm.timetocall1.value;
 					var time2 = frm.timetocall1to.value;
 					var t1 = time1.split('.');
@@ -208,18 +297,18 @@ function validate(a)
 					var t2 = time2.split('.');
 					var t2 = t2[0];					
 					if((t2 < t1) || (time1 == time2)){
-						alert('Please Choose Correct Period');
+						alert("From Time should be less than to time");
 					return false;}	
 				}else 
 					return true;
 			}
 			else if(frm.dateyear1.value == year){
-				if(frm.dateday1.value == '' || ( frm.datemonth1.value <= month &&  frm.dateday1.value < day)){
-					alert('Select Correct Day ');
+				if(frm.dateday1.value == '' || ( frm.datemonth1.value <= month &&  frm.dateday1.value <= day)){
+					alert('Please Select Future Date');
 					frm.dateday1.focus();
 					return false;			
 				}else if((frm.datemonth1.value == '' || frm.datemonth1.value < month)){
-					alert('Select Correct Month ');
+					alert('Select  Future Month ');
 					frm.datemonth1.focus();
 					return false;			
 				}else if(frm.timetocall1.value == ''){
@@ -231,7 +320,7 @@ function validate(a)
 					frm.timetocallto1.focus();
 					return false;
 				}else if(frm.timetocall1.value && frm.timetocallto1.value){
-					var hours = 06;
+					var hours = 23;
 					var time1 = frm.timetocall1.value;
 					var time2 = frm.timetocallto1.value;
 					var t1 = time1.split('.');
@@ -240,14 +329,14 @@ function validate(a)
 					var t2 = t2[0];	
 
 					if((t2 < t1) || (time1 == time2)){
-						alert('Please Choose Correct Period');
+						alert("From Time should be less than to time");
 						return false;
 					}	
 					else if(t1 == t2 && frm.datemonth1.value != month && frm.dateday1.value != day){
 						var m1 = t1[1].substr(0,1);
 						var m2 = t2[1].substr(0,1);
 						if(m1 < m2){
-							alert('Please Choose Correct Period');
+							alert("From Time should be less than to time");
 							return false;
 						}	
 					}
@@ -255,7 +344,7 @@ function validate(a)
 						var m1 = t1[1].substr(0,1);
 						var m2 = t2[1].substr(0,1);
 						if(m1 < m2){
-							alert('Please Choose Correct Period');
+							alert("From Time should be less than to time");
 							return false;
 						}	
 					}else if(frm.datemonth1.value == month && frm.dateday1.value == day && hours > t1 && hours > t2){	
@@ -287,7 +376,7 @@ function validate(a)
 					frm.timetocallto.focus();
 					return false;
 				}else if(frm.timetocall.value && frm.timetocallto.value){
-					var hours = 06;
+					var hours = 23;
 					var time1 = frm.timetocall.value;
 					var time2 = frm.timetocallto.value;
 					var t1 = time1.split('.');
@@ -295,14 +384,14 @@ function validate(a)
 					var t2 = time2.split('.');
 					var t2 = t2[0];					
 					if((t2 < t1) || (time1 == time2)){
-						alert('Please Choose Correct Period');
+						alert("From Time should be less than to time");
 					return false;}	
 				}else 
 					return true;
 			}
 			else if(frm.dateyear.value == year){
-				if(frm.dateday.value == '' || ( frm.datemonth.value <= month &&  frm.dateday.value < day)){
-					alert('Select Correct Day ');
+				if(frm.dateday.value == '' || ( frm.datemonth.value <= month &&  frm.dateday.value <= day)){
+					alert('Select Future Day ');
 					frm.dateday.focus();
 					return false;			
 				}else if((frm.datemonth.value == '' || frm.datemonth.value < month)){
@@ -319,7 +408,7 @@ function validate(a)
 					return false;
 				}else if(frm.timetocall.value && frm.timetocallto.value)
 					{
-					var hours = 06;
+					var hours = 23;
 					var time1 = frm.timetocall.value;
 					var time2 = frm.timetocallto.value;
 					var t1 = time1.split('.');
@@ -327,14 +416,14 @@ function validate(a)
 					var t2 = time2.split('.');
 					var t2 = t2[0];					
 					if((t2 < t1) || (time1 == time2)){
-						alert('Please Choose Correct Period');
+						alert("From Time should be less than to time");
 						return false;
 					}	
 					else if(t1 == t2 && frm.datemonth.value != month && frm.dateday.value != day){
 						var m1 = time1[1].substr(0,1);
 						var m2 = time2[1].substr(0,1);
 						if(m1 < m2){
-							alert('Please Choose Correct Period');
+							alert("From Time should be less than to time");
 							return false;
 						}	
 					}
@@ -342,7 +431,7 @@ function validate(a)
 						var m1 = time1[1].substr(0,1);
 						var m2 = time2[1].substr(0,1);
 						if(m1 < m2){
-							alert('Please Choose Correct Period');
+							alert("From Time should be less than to time");
 							return false;
 						}	
 					}else if(frm.datemonth.value == month && frm.dateday.value == day && hours > t1 && hours > t2){	
@@ -451,6 +540,11 @@ $('#logindiv').slideUp('slow')
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
   
+  
+  //]]>
+</script>
+<!--For CountryCode -->
+<script type="text/javascript">
 function show_fun(country_id,class_name)
 {
 var base='http://www.opulentuz.com/immigration/';
@@ -469,12 +563,13 @@ http.open("get", base+"get_country_code/"+service_name+'/'+c_name, true);
 		else 
 		{
 			document.getElementById('sel_product1234').style.display='block';
-			//document.getElementById('sel_product1234').innerHTML='<img src="http://www.opulentuz.com/img/loader.gif" width="25" height="25" border="0" align="middle">';
+			//document.getElementById('sel_product1234').innerHTML='<img src="http://www.opulentuz.com/img/loader.gif" width="25" height="25" border="0" align="middle" alt="Loader">';
 		}
 	}
 	http.send(null);
 
-}  
+}
+
 function getHTTPObject(handler) {
   var objXMLHttp=null
 	if (window.XMLHttpRequest)	{
@@ -486,73 +581,117 @@ function getHTTPObject(handler) {
 	return objXMLHttp
 }
 </script>
+<style type="text/css">
+		.tooltip {
+			border-bottom: 1px; color: #000000; outline: none;
+			cursor: help; text-decoration: none;
+			position: relative;
+		}
+		.tooltip span {
+			margin-left: -999em;
+			position: absolute;
+		}
+		.tooltip:hover span {
+			border-radius: 5px 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; 
+			box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1); -webkit-box-shadow: 5px 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+			font-family: Calibri, Tahoma, Geneva, sans-serif;
+			font-size:15px;
+			position: absolute; left: 1em; top: 1.2em; z-index: 99;
+			margin-left: 0; width: 250px;
+		}
+
+		.tooltip:hover em {
+			font-family: Candara, Tahoma, Geneva, sans-serif; font-size: 1.2em; font-weight: bold;
+			display: block; padding: 0.2em 0 0.6em 0;
+		}
+		.tooltip .classic { padding: 0.8em 1em; }
+		.tooltip .classic {background:  #d7cc7c; border: 1px solid #FFAD33; }
+		.tooltip .info { background: #9FDAEE; border: 1px solid #2BB0D7;	}
+		</style>
+
+
+
+
 
 
 		
 
  	
 
+
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "PH9Ig1asOv00U+", domain:"opulentuz.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=PH9Ig1asOv00U+" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+
+
 	<div id="filter" align="center"></div>
 	<div id="box" align="center" style=" height:420px;">
 	
 	<div style="position:relative; height:100%; overflow:hidden;">
 	<div class="closes">
-		<a href="#" onclick="set_cookie('promotion',1)"><img src="http://www.opulentuz.com/img/close-popup.png" width="23" height="22"></a>
+		<a href="#" onclick="set_cookie('promotion',1)"><img src="http://www.opulentuz.com/img/close-popup.png" width="23" height="22" alt="close" title="close"></a>
 	</div>
 	<div class="redirect-evol">
 		<a href="http://www.opulentuz.com/immigration/evaluation-form" onclick="set_cookie('promotion',1)">
-				<img src="http://www.opulentuz.com/img/get-evol.gif" width="310" height="48"></a>
+				<img src="http://www.opulentuz.com/img/get-evol.gif" width="310" height="48" alt="immigration Evaluation" title="immigration Evaluation"></a>
 	</div>
 	<span id="boxtitle"></span>
 	</div>
 </div>
 
+
 <div id="boxes">
   <div id="dialog" class="window"> <a class="close" href="#">
-  <img height="22" border="0" width="23" src="http://www.opulentuz.com/img/close-popup.png"></a>
+  <img height="22" border="0" width="23" src="http://www.opulentuz.com/img/close-popup.png" alt="close" title="close"></a>
   	<div id="telephone1" style="display:none;">
         <div class="div-telephone">Counselling by Telephone</div>
+		<p style="margin:5px;"><b>Once you sign up for our telephonic counselling, one of the consultants of Opulentus Overseas Careers will call you and assist you!</b></p>
   	</div>
 	
   	<div id="schedule1" style="display:none;">
    		 <div class="div-telephone">Walk in to our nearest office</div>
+		 <p style="margin:5px;"><b>By scheduling an appointment, you can come to an Opulentus office and get consultation from one of the Opulentus consultants.</b></p>
   	</div>
 	
   	<div id="evalution1" style="display:none;">
    		 <div class="div-telephone">Free Evaluation Form</div>
+		 <p style="margin:5px;"><b>Submitting your resume and other details will enable us to suggest a suitable visa for you</b></p>
   	</div>
     <div class="div-pop">	
-      <p class="descript">&nbsp;</p>
+      <!--<p class="descript">&nbsp;</p>-->
       
-<table cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-top: 0px;">
-<tbody>
+<br clear="all"><table cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-top: 0px;">
+<!--<tbody>-->
 <form action="http://www.opulentuz.com/immigration/form-submit" enctype="multipart/form-data" method="post" id="popupfrm" name="popupfrm"></form>
-	  <tr>
+	  <tbody><tr>
           <td width="30%" class="td-bot"><label class="bold-lable">Name</label>
               <span class="star">*</span>
            </td>
            <td width="70%" class="td-bot">
-                <input type="text" name="p_name" id="p_name" class="input-pp" value="Person Name" onblur="if(this.value=='') this.value='Person Name'" onfocus="if(this.value =='Person Name' ) this.value=''">
+                <input type="text" name="p_name" id="p_name" class="input-pp" value="Person Name" onblur="if(this.value=='') this.value='Person Name'" onfocus="if(this.value =='Person Name' ) this.value=''"><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Enter Your Good Name</span></b>
             </td>
        </tr>
        <tr>
             <td class="td-bot"><label class="bold-lable">Email</label>
               <span class="star">*</span></td>
             <td class="td-bot">
-             <input type="text" name="email" id="email" value="Email" class="input-pp" onblur="if(this.value=='') this.value='Email'" onfocus="if(this.value =='Email' ) this.value=''">
+             <input type="text" name="email" id="email" value="Email" class="input-pp" onblur="if(this.value=='') this.value='Email'" onfocus="if(this.value =='Email' ) this.value=''"><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Enter your Email Id</span></b>
              </td>
        </tr>
-		  		  		<tr>
+		  		<tr>
           <td class="td-bot" width="30%">
             <label class="bold-lable">Residing Country	</label>
               <!--<span class="star">*</span>--></td>
 			<td class="td-bot" width="70%">
-			<select id="select_1" name="sr_city" style="width:235px;" onchange="show_fun(this.value,'input-pp')">
-                  <option value="">-choose country-</option>
+			<select id="select_1" name="res_country" style="width:235px;" onchange="show_fun(this.value,'input-pp')">
+                <!--  <option value="">-choose country-</option>-->
                                     <option value="220">Afghanistan</option>
                   		  	                  <option value="221">Albania</option>
                   		  	                  <option value="222">Algeria</option>
                   		  	                  <option value="223">American Samoa</option>
+                  		  	                  <option value="233">Andorra</option>
                   		  	                  <option value="224">Angola</option>
                   		  	                  <option value="225">Anguilla</option>
                   		  	                  <option value="226">Antigua &amp; Barbuda</option>
@@ -562,6 +701,7 @@ function getHTTPObject(handler) {
                   		  	                  <option value="4">Australia</option>
                   		  	                  <option value="14">Austria</option>
                   		  	                  <option value="15">Azerbaijan</option>
+                  		  	                  <option value="230">Bahamas</option>
                   		  	                  <option value="16">Bahrain</option>
                   		  	                  <option value="17">Bangladesh</option>
                   		  	                  <option value="18">Barbados</option>
@@ -613,6 +753,7 @@ function getHTTPObject(handler) {
                   		  	                  <option value="63">Estonia</option>
                   		  	                  <option value="64">Ethiopia</option>
                   		  	                  <option value="65">Falkland Islands</option>
+                  		  	                  <option value="235">Faroe Islands</option>
                   		  	                  <option value="66">Fiji</option>
                   		  	                  <option value="67">Finland</option>
                   		  	                  <option value="7">France</option>
@@ -651,6 +792,8 @@ function getHTTPObject(handler) {
                   		  	                  <option value="100">Kazakhstan</option>
                   		  	                  <option value="101">Kenya</option>
                   		  	                  <option value="102">Kiribati</option>
+                  		  	                  <option value="229">Korea</option>
+                  		  	                  <option value="237">Kosovo</option>
                   		  	                  <option value="103">Kuwait</option>
                   		  	                  <option value="104">Kyrgyzstan</option>
                   		  	                  <option value="105">Laos</option>
@@ -659,6 +802,7 @@ function getHTTPObject(handler) {
                   		  	                  <option value="108">Lesotho</option>
                   		  	                  <option value="109">Liberia</option>
                   		  	                  <option value="110">Libya</option>
+                  		  	                  <option value="236">Liechtenstein</option>
                   		  	                  <option value="111">Lithuania</option>
                   		  	                  <option value="112">Luxembourg</option>
                   		  	                  <option value="113">Macau</option>
@@ -676,6 +820,7 @@ function getHTTPObject(handler) {
                   		  	                  <option value="125">Mayotte</option>
                   		  	                  <option value="126">Mexico</option>
                   		  	                  <option value="127">Moldova</option>
+                  		  	                  <option value="234">Monaco</option>
                   		  	                  <option value="128">Mongolia</option>
                   		  	                  <option value="129">Montenegro</option>
                   		  	                  <option value="130">Montserrat</option>
@@ -764,37 +909,39 @@ function getHTTPObject(handler) {
                   		  	                  <option value="211">Vanuatu</option>
                   		  	                  <option value="212">Venezuela</option>
                   		  	                  <option value="213">Vietnam</option>
+                  		  	                  <option value="232">Virgin Islands US</option>
+                  		  	                  <option value="231">Virgin Islands, British</option>
                   		  	                  <option value="214">Wallis And Futuna</option>
                   		  	                  <option value="215">Western Sahara</option>
                   		  	                  <option value="216">Yemen</option>
                   		  	                  <option value="217">Zambia</option>
                   		  	                  <option value="218">Zimbabwe</option>
-                  		  		</select>
+                  		  		</select><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Select Your Residence Country</span></b>
           </td></tr>
        <tr>
             <td class="td-bot"><label class="bold-lable">Phone No</label>
               <span class="star">*</span></td>
             <td class="td-bot">
-             <div id="sel_product1234" style="float:left;"><input type="text" name="code" id="code" class="input-pp" style="width:35px; margin-right:5px; float:left;" onblur="if(this.value=='') this.value='+91'" onfocus="if(this.value =='+91' ) this.value=''" value="+91"></div>  
-		   <input type="text" name="phone" id="phone" value="Mobile Number" onblur="if(this.value=='') this.value='Mobile Number'" onfocus="if(this.value =='Mobile Number' ) this.value=''" class="input-pp" style="width:186px; />
+           <div id="sel_product1234" style="float:left;"><input type="text" name="code" id="code" class="input-pp" style="width:35px; margin-right:5px; float:left;" onblur="if(this.value=='') this.value='+91'" onfocus="if(this.value =='+91' ) this.value=''" value="+91" maxlength="8"></div>  
+		   <input type="text" name="phone" id="phone" value="Mobile Number" onblur="if(this.value=='') this.value='Mobile Number'" onfocus="if(this.value =='Mobile Number' ) this.value=''" class="input-pp" style="width:186px;" maxlength="13"><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Enter Your Currect Phone No</span></b>
             </td>
-       </tr><br clear=" all"="">
-       </td></tr><tr>
+       </tr>
+       <!--<tr>
             <td class="td-bot"><label class="bold-lable">Upload Resume</label>
               </td>
-            <td class="td-bot"><input type="file" value="" id="resume" name="resume" class="input-pp" style="height: 25px;">
+            <td class="td-bot"><input type="file" value="" id="resume" name="resume" class="input-pp" style="height: 25px;" /><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help" /><span class="classic">Upload your updated Resume</span></b>
 			</td>
        </tr>
 	   <tr>
             <td class="td-bot">&nbsp;</td>
             <td class="td-bot">Allowed File Type (.docx, .doc, word, .pdf, .txt) of max 2 Mb </td>
-       </tr>
+       </tr>-->
 	   <tr>
           <td class="td-bot"><label class="bold-lable">Country Interested</label>
               <!--<span class="star">*</span>--></td>
             <td class="td-bot">
 				<select class="select_1" name="country">
-          <option selected="selected" value="">Choose the Country</option>
+          <option value="">Choose the Country</option>
 		            <option value="2">UK</option>
 		  	          <option value="3">USA</option>
 		  	          <option value="4">Australia</option>
@@ -808,13 +955,41 @@ function getHTTPObject(handler) {
 		  	          <option value="12">Austria</option>
 		  	          <option value="13">South Africa</option>
 		  	          <option value="14">Ireland</option>
+		  	          <option value="20">Belgium</option>
 		  	          <option value="15">Germany</option>
 		  	          <option value="16">Philippines</option>
+		  	          <option value="17">Netherlands</option>
 		  	          <option value="18">Malaysia</option>
 		  	          <option value="19">Switzerland</option>
+		  	          <option value="59">Iceland</option>
 		  	          <option value="21">Sweden</option>
 		  	          <option value="22">Dubai</option>
-		  	        </select>
+		  	          <option value="24">Italy</option>
+		  	          <option value="26">Bulgaria</option>
+		  	          <option value="27">Poland</option>
+		  	          <option value="28">Slovakia</option>
+		  	          <option value="29">Finland</option>
+		  	          <option value="30">Estonia</option>
+		  	          <option value="31">Czech Republic</option>
+		  	          <option value="32">Hungary</option>
+		  	          <option value="45">Spain</option>
+		  	          <option value="48">Portugal</option>
+		  	          <option value="52">Malta</option>
+		  	          <option value="53">Luxembourg</option>
+		  	          <option value="54">Lithuania</option>
+		  	          <option value="57">Latvia</option>
+		  	          <option value="61">Greece</option>
+		  	          <option value="62">Slovenia</option>
+		  	          <option value="65">UAE</option>
+		  	          <option value="79">Russia</option>
+		  	          <option value="68">China</option>
+		  	          <option value="83">Andorra</option>
+		  	          <option value="84">Monaco</option>
+		  	          <option value="85">Faroe Islands</option>
+		  	          <option value="86">Turkey</option>
+		  	          <option value="87">Liechtenstein</option>
+		  	          <option value="88">Kosovo</option>
+		  	        </select><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Select your Interested Country.</span></b>
 			 </td>
           </tr>
 		  <tr>
@@ -822,10 +997,9 @@ function getHTTPObject(handler) {
               <span class="star">*</span></td>
             <td class="td-bot">
 				<select class="select_1" name="branch">
-          <option selected="selected" value="">Select Branch</option>
+          <option value="">Select Branch</option>
 		            <option value="1">Hyderabad  (India)</option>
 		  	          <option value="2">Bangalore  (India)</option>
-		  	          <option value="3">Himayathnagar  (India)</option>
 		  	          <option value="4">Pune  (India)</option>
 		  	          <option value="5">Vizag  (India)</option>
 		  	          <option value="6">New Jersey  (USA)</option>
@@ -836,7 +1010,9 @@ function getHTTPObject(handler) {
 		  	          <option value="12">Mumbai  (India)</option>
 		  	          <option value="15">Ahmedabad  (India)</option>
 		  	          <option value="19">Jubilee Hills  (India)</option>
-		  	        </select>
+		  	          <option value="21">M.G Road  (India)</option>
+		  	          <option value="22">Navi Mumbai  (India)</option>
+		  	        </select><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Select Your visiting Branch.</span></b>
         
 			 </td>
           </tr>
@@ -850,14 +1026,14 @@ function getHTTPObject(handler) {
              <span class="star">*</span></td>
             <td class="td-bot" width="70%">
 								<select class="select-pop1" name="dateday1" id="dateday1">
-				<option value=""> Day</option>					                	<option value="1">1</option><option value="2">2</option><option value="3" selected="selected">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>				</select> 
+				<option value=""> Day</option>					                	<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29" selected="selected">29</option><option value="30">30</option><option value="31">31</option>				</select> 
 				
 								<select class="select-pop2" name="datemonth1" id="datemonth1">
 				<option value="">Month</option>
-				<option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6" selected="selected">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option>				</select> 
+				<option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12" selected="selected">December</option>				</select> 
 								<select class="select-pop3" name="dateyear1" id="dateyear1">
 					<option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option>				
-				</select>
+				</select><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Select Counselling by Telephone Date.</span></b>
 			</td>
           </tr>
           <tr>  
@@ -865,7 +1041,7 @@ function getHTTPObject(handler) {
               <span class="star">*</span></td>
             <td class="td-bot" width="70%">
 				<select style="width:88px;" id="timetocall1" name="timetocall1">
-            <option value="">-- Choose --</option>
+            <option value="">-- From Time --</option>
             <option value=" 09.00AM"> 09.00AM</option>
             <option value=" 09.30AM"> 09.30AM</option>
             <option value=" 10.00AM"> 10.00AM</option>
@@ -885,11 +1061,11 @@ function getHTTPObject(handler) {
             <option value=" 17.00PM"> 05.00PM</option>
             <option value=" 17.30PM"> 05.30PM</option>
             <option value=" 18.00PM"> 06.00PM</option>
-            <option value=" 18.30PM"> 06.30PM</option>
+           <!-- <option value=" 18.30PM"> 06.30PM</option>-->
           </select>&nbsp;
 		  to&nbsp;
           <select style="width:88px;" id="timetocallto1" name="timetocallto1">
-            <option value="">-- Choose --</option>
+            <option value="">-- To Time --</option>
             <option value=" 09.30AM"> 09.30AM</option>
             <option value=" 10.00AM"> 10.00AM</option>
             <option value=" 10.30AM"> 10.30AM</option>
@@ -909,9 +1085,13 @@ function getHTTPObject(handler) {
             <option value=" 17.30PM"> 05.30PM</option>
             <option value=" 18.00PM"> 06.00PM</option>
             <option value=" 18.30PM"> 06.30PM</option>
-          </select>
+          </select><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Select Best Time to Call.</span></b>
 			</td>
           </tr>
+		   <tr>
+		
+		<td>&nbsp;</td>
+		<td><div class="terms-slot"><input type="checkbox" class="update-check" style="width:auto;" value="1" name="checkbox" checked="checked"><p onclick="document.popupfrm.checkbox.checked=(! document.popupfrm.checkbox.checked);" style="cursor:pointer">Send me regular updates and alerts</p></div></td></tr>
 		<tr>
             <td class="td-bot">&nbsp;</td>
             <td class="td-bot"><input type="submit" onclick="return validate(1);" value="Submit" name="tele_submit">
@@ -942,7 +1122,8 @@ function getHTTPObject(handler) {
                 					<option value="6">Others</option> 
                 	
                   
-                </select>
+
+                </select><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Select interested Service.</span></b>
           </td>
            
           </tr>
@@ -952,21 +1133,21 @@ function getHTTPObject(handler) {
              <span class="star">*</span></td>
             <td class="td-bot">
 								<select class="select-pop1" name="dateday" id="dateday">
-				<option value=""> Day</option>					                	<option value="1">1</option><option value="2">2</option><option value="3" selected="selected">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>				</select> 
+				<option value=""> Day</option>					                	<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29" selected="selected">29</option><option value="30">30</option><option value="31">31</option>				</select> 
 				
 								<select class="select-pop2" name="datemonth" id="datemonth">
 				<option value="">Month</option>
-				<option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6" selected="selected">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option>				</select> 
+				<option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12" selected="selected">December</option>				</select> 
 								<select class="select-pop3" name="dateyear" id="dateyear">
 					<option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option>				
-				</select>
+				</select><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Select Appointment Date</span></b>
 			</td>
           </tr>
 		  <tr><td class="td-bot" width="30%"><label class="bold-lable">Time of Appointment</label>
               <span class="star">*</span></td>
             <td class="td-bot" width="70%">
 				<select style="width:88px;" id="timetocall" name="timetocall">
-            <option value="">-- Choose --</option>
+            <option value="">-- From Time --</option>
             <option value=" 09.00AM"> 09.00AM</option>
             <option value=" 09.30AM"> 09.30AM</option>
             <option value=" 10.00AM"> 10.00AM</option>
@@ -986,11 +1167,11 @@ function getHTTPObject(handler) {
             <option value=" 17.00PM"> 05.00PM</option>
             <option value=" 17.30PM"> 05.30PM</option>
             <option value=" 18.00PM"> 06.00PM</option>
-            <option value=" 18.30PM"> 06.30PM</option>
+           <!-- <option value=" 18.30PM"> 06.30PM</option>-->
           </select>&nbsp;
 		  to&nbsp;
           <select style="width:88px;" id="timetocallto" name="timetocallto">
-            <option value="">-- Choose --</option>
+            <option value="">-- To Time --</option>
             <option value=" 09.30AM"> 09.30AM</option>
             <option value=" 10.00AM"> 10.00AM</option>
             <option value=" 10.30AM"> 10.30AM</option>
@@ -1010,9 +1191,13 @@ function getHTTPObject(handler) {
             <option value=" 17.30PM"> 05.30PM</option>
             <option value=" 18.00PM"> 06.00PM</option>
             <option value=" 18.30PM"> 06.30PM</option>
-          </select>
+          </select><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Select Appointment Time</span></b>
 			</td>
           </tr>
+		   <tr>
+		
+		<td>&nbsp;</td>
+		<td><div class="terms-slot"><input type="checkbox" class="update-check" style="width:auto;" value="1" name="checkbox" checked="checked"><p onclick="document.popupfrm.checkbox.checked=(! document.popupfrm.checkbox.checked);" style="cursor:pointer">Send me the latest updates</p></div></td></tr>
            <tr>
             <td class="td-bot">&nbsp;</td>
             <td class="td-bot"><input type="submit" onclick="return validate(2);" value="Submit" name="sch_submit">
@@ -1028,6 +1213,7 @@ function getHTTPObject(handler) {
 		   <table cellspacing="0" cellpadding="0" border="0" width="100%">
 		   <tbody><tr>
           	<td class="td-bot"><label class="bold-lable">Service interested</label>
+
           	<!--<span class="star">*</span>--></td>
           <td class="td-bot">
           <select class="select_1" id="service_int3" name="service_int3">
@@ -1042,7 +1228,7 @@ function getHTTPObject(handler) {
                 					<option value="6">Others</option> 
                 	
                   
-          </select>
+          </select><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Select interested Service.</span></b>
           </td>
            
           </tr>
@@ -1052,9 +1238,13 @@ function getHTTPObject(handler) {
           <label class="bold-lable">Enquiry</label><!--<span class="star">*</span>-->
           </td>
         <td class="td-bot">
-          <textarea style="width:230px;" name="enquiry" id="enquiry" onblur="if(this.value=='') this.value='Enquiry'" onfocus="if(this.value =='Enquiry' ) this.value=''">Enquiry</textarea>
+          <textarea style="width:230px;" name="enquiry" id="enquiry" onblur="if(this.value=='') this.value='Enquiry'" onfocus="if(this.value =='Enquiry' ) this.value=''" cols="7" rows="7">Enquiry</textarea><b class="tooltip" href="#" style="list-style:none;"><img src="http://www.opulentuz.com/img/help.png" alt="help"><span class="classic">Enter your Message</span></b>
           </td> 	
 </tr>
+ <tr>
+		
+		<td>&nbsp;</td>
+		<td><div class="terms-slot"><input type="checkbox" class="update-check" style="width:auto;" value="1" name="checkbox" checked="checked"><p onclick="javascript:document.popupfrm.checkbox.checked=(! document.popupfrm.checkbox.checked);" style="cursor:pointer">Send me the latest updates</p></div></td></tr>
           <tr>
             <td class="td-bot">&nbsp;</td>
             <td class="td-bot"><input type="submit" onclick="return validate(3);" value="Submit" name="eval_submit">
@@ -1066,7 +1256,7 @@ function getHTTPObject(handler) {
 		   </tr>
 
 		        
-        </tbody></table>
+       <!-- </tbody>--></tbody></table>
 
     </div>
   </div>
@@ -1079,7 +1269,16 @@ function getHTTPObject(handler) {
         	<div class="div-slide1">
             	<div class="online-div">
                 	<p class="text-st">Our Brochures</p>
-                    <p class="text-st2">Go through our various country brochures for a better understanding of various Immigration Visa Programs and Destinations serviced by OPULENTUS</p> <p class="brochures"><a target="_blank" href="http://www.opulentuz.com/img/brochures/france.pdf" title="France Visa">France</a> <a target="_blank" href="http://www.opulentuz.com/img/brochures/austria.pdf" title="Australia Visa">Austria</a> <a target="_blank" href="http://www.opulentuz.com/img/brochures/denmark.pdf" title="Denmark Visa">Denmark</a> <a target="_blank" href="http://www.opulentuz.com/img/brochures/hongkong.pdf" title="Hong Kong Visa">Hong Kong</a> <a target="_blank" href="http://www.opulentuz.com/img/brochures/singapore.pdf" title="Singapore Visa">Singapore</a></p>
+                    <p class="text-st2">Go through our various country brochures for a better understanding of various Immigration Visa Programs and Destinations serviced by OPULENTUS</p> 
+					<p class="brochures">
+					<a target="_blank" href="http://www.opulentuz.com/img/brochures/france.pdf" title="France Visas">France</a> 
+					<a target="_blank" href="http://www.opulentuz.com/img/brochures/austria.pdf" title="Austria Visas">Austria</a> 		                     <a target="_blank" href="http://www.opulentuz.com/img/brochures/denmark.pdf" title="Denmark Visas">Denmark</a> 
+					<a target="_blank" href="http://www.opulentuz.com/img/brochures/hongkong.pdf" title="Hong Kong Visas">Hong Kong</a>
+					 <a target="_blank" href="http://www.opulentuz.com/img/brochures/singapore.pdf" title="Singapore Visas">Singapore</a> 
+					<a target="_blank" href="http://www.opulentuz.com/img/brochures/norway.pdf" title="Norway Visas">Norway</a>
+					<a target="_blank" href="http://www.opulentuz.com/img/brochures/africa.pdf" title="African Visas">Africa</a>
+					<a target="_blank" href="http://www.opulentuz.com/img/brochures/asia.pdf" title="Asian Visas">Asia</a>
+					</p>
                     </div>
                 <!--<div class="newsletter-div">
 				<form name="letter_subscribe_head" name="letter_subscribe" action="http://www.opulentuz.com/immigration/form-submit" method="post" onsubmit="return validate_newsletter_head()">
@@ -1090,16 +1289,16 @@ function getHTTPObject(handler) {
             </div>
             <div class="div-slide2">
 				<div class="left_widget">
-				<p class="text-st">Opulentus Forum</p><p>
-				</p><p class="text-st2">Participate  in discussions on any type of immigration queries at our forum</p>
-					<p class="forum_link"><a href="http://www.immigrationforum.opulentuz.com/" target="_blank">http://www.immigrationforum.opulentuz.com/</a>
-				</p></div>
+				<p class="text-st">Opulentus Forum</p>
+				<p class="text-st2">Participate  in discussions on any type of immigration queries at our forum</p>
+					<p class="forum_link"><a href="http://www.immigrationforum.opulentuz.com/" target="_blank"><!--http://www.immigrationforum.opulentuz.com/--></a></p>
+				</div>
 				<div class="right_widget">
 					<div class="fi-widget">
 						<p class="text-st">Social Media</p>
 						<p class="text-st2">Stay connected with us on social networking portals to remain updated on the latest news, offers &amp; promotions.</p>
 						<div style="float:left; width:85px;">
-		  <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fopulentuz&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe>
+		  <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fopulentuz&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;"></iframe>
            </div>
 		   <div style="float:left; margin-right:55px; width:250px;">
                          <div class="tw-btn"><a href="https://twitter.com/Opulentuz" class="twitter-follow-button">Follow @Opulentuz</a></div>
@@ -1115,9 +1314,9 @@ function getHTTPObject(handler) {
     </div>
     <div style="position:relative;" class="wrapper">
       <div style="position: absolute; right: 3px; top:0px; width:216px; height:35px;" class="loginpagetopbg">
-        <div class="loginbutton_l" style=" height:35px; position:absolute;"><a style="height:35px; display:block;" class="cst-login" target="_blank" href="http://www.opulentian.com/">&nbsp;</a>
+        <div class="loginbutton_l" style=" height:35px; position:absolute;"><a title="Opulentus Intranet" style="height:35px; display:block;" class="cst-login" target="_blank" href="http://www.opulentian.com/">&nbsp;</a>
 		
-		<a style="display: block; float:right; width:86px;" href="javascript:fun()">
+		<a title="Share with us" style="display: block; float:right; width:86px;" href="javascript:fun()">
 		<img alt="Opulentus" height="26" border="0" width="86" src="http://www.opulentuz.com/img/down-arrow.png" id="up-arrow">
 		</a>
 		</div>
@@ -1141,23 +1340,25 @@ function getHTTPObject(handler) {
                   <li><span class="wi-country">INDIA</span>  1800 - 103 - 1555</li>
                   <li><span class="wi-country">UK</span>   0044 - 7850267536</li>
                   <li><span class="wi-country">USA</span>  001 - 7326239712</li>
-                  <li><span class="wi-country">IRELAND</span>  00353 - 831026569</li>
+				  <li><span class="wi-country">CANADA</span>  001-6476941537</li>
+                   <li><span class="wi-country">AUSTRALIA</span>  0061-280363154</li>
+                  <li><span class="wi-country">IRELAND</span>  00353-766060032</li>
                 </ul>
               </div>
       
-      <div id="india-quo">&nbsp;</div>
+      <div id="india-quo"><h1>Immigration &amp; Visa Services</h1></div>
       <div id="s-media">
         <ul>
           <li>
-		  	<div class="google-plus" style="margin-top:20px">
-
-<g:plusone size="medium" annotation="none" href="http://www.opulentuz.com"></g:plusone>
+		  	<div class="google-plus" style="margin-top:20px;">
+<g:plusone size="medium" annotation="none" href="http://www.opulentuz.com"></g:plusone> 
 
             </div></li>
-          <li><a target="_blank" class="facebook" href="http://www.facebook.com/pages/Hyderabad-India/OPULENTUS-OVERSEAS/270108607572"></a></li>
-          <li><a target="_blank" class="twitter" href="http://twitter.com/opulentuz"></a></li>
-          <li><a target="_blank" class="yahoo" href="http://groups.yahoo.com/group/overseascareers/"></a></li>
-          <li><a class="in" href="http://www.linkedin.com/company/opulentus-overseas-careers/" target="_blank"></a></li>
+          <li><a title="Opulentus Facebook" target="_blank" class="facebook" href="http://www.facebook.com/pages/Hyderabad-India/OPULENTUS-OVERSEAS/270108607572"></a></li>
+          <li><a title="Opulentus Twitter" target="_blank" class="twitter" href="http://twitter.com/opulentuz"></a></li>
+          <!--<li><a title="Opulentus Yahoo Groups" target="_blank" class="yahoo" href="http://groups.yahoo.com/group/overseascareers/"></a></li>-->
+          <li><a title="Opulentus Linkedin" class="in" href="http://www.linkedin.com/company/opulentus-overseas-careers/" target="_blank"></a></li>
+		  <li><a title="Opulentus Rss" class="rss" href="http://feeds.feedburner.com/opulentuz" target="_blank"></a></li>
         </ul>
       </div>
       <div id="nav">
@@ -1175,6 +1376,7 @@ function getHTTPObject(handler) {
               <li><a href="http://www.immigrationforum.opulentuz.com/" target="_blank">Forum</a></li>			  
   			  <li><a href="http://www.opulentuz.com/immigration/faqs">FAQs</a></li>
 			  <li><a href="http://www.opulentuz.com/immigration/success-list">Success List</a></li>
+			<!--  <li><a href="http://www.opulentuz.com/immigration/careers" >Careers</a></li>-->
 			  <li><a href="http://www.opulentuz.com/immigration/contact-us">Contact Us</a></li>
 
             </ul>
@@ -1188,6 +1390,10 @@ function getHTTPObject(handler) {
 </div>
 	
 	<script type="text/javascript" src="/js/jquery.min.js"></script>	<script type="text/javascript" src="/js/lightbox-form.js"></script>	<script type="text/javascript" src="/js/popup.js"></script>	<script type="text/javascript" src="/js/slider.js"></script>	<script type="text/javascript" src="/js/jquery-slide1.js"></script>	<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+	
+	
+
+		
 <div id="main-container">
   <div class="wrapper">
   <div id="container" style="position:relative;">
@@ -1234,7 +1440,7 @@ function getHTTPObject(handler) {
               <div class="nav-serve">
                 <h1>STUDENT VISAS </h1>
                 <p></p><p>
-	Educational opportunities are manifold in various countries such as USA,UK &nbsp;Canada, Denmark, New Zealand, Australia, Austria&nbsp; and Hong</p>
+	Educational opportunities are manifold in various countries such as USA,UK,Canada, Denmark, New Zealand, Australia, Austria&nbsp; and Hong Kong </p>
                 <a class="servces_btn" href="http://www.opulentuz.com/immigration/student-visas/2"></a> </div>
 								
 			
@@ -1252,7 +1458,7 @@ function getHTTPObject(handler) {
               <div class="nav-serve">
                 <h1>TEMPORARY VISAS </h1>
                 <p></p><p>
-	Travelling abroad on short trips for pleasure or business is often required by those who love to have fun and see the world or just to probe var</p>
+	Traveling abroad on short trips for pleasure or business is often required by those who love to have fun and see the world or just to probe vari</p>
                 <a class="servces_btn" href="http://www.opulentuz.com/immigration/temporary-visas/4"></a> </div>
 								
 								
@@ -1328,7 +1534,105 @@ Only genuine complaints are dealt by our team. Opulentus Overseas   Careers Comp
 <br>
 Our privacy policy and terms and conditions may change from time to time   and the clients should keep checking our website frequently to be   updated. Our current privacy policy applies to all information that we   have about you and your account unless stated otherwise.<p>    
         </p></div>
+
+
+<div style="float:left;">
+<br>
+<div style="float:left;">
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style " style="float:left;width:440px;">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count" style="width:75px; float:left;"></a>
+<a class="addthis_button_facebook_send" fb:like:layout="button_count" style="width:55px; float:left;"></a>
+<a class="addthis_button_tweet" style="width:82px; float:left;"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium" style="width:62px; float:left;"></a> 
+<a class="addthis_button_email"><img src="http://s7.addthis.com/button1-email.gif" width="54" height="16" border="0" alt="Email"></a> 
+<!--<a class="addthis_counter addthis_pill_style" style="width:100px; float:left;"></a>-->
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-500cedea02298e67"></script>
+<!-- AddThis Button END -->  
+</div>
+<br>
+<br>
+
+
+</div>
+<br>
+		
       </div>     
+
+
+<!-- Start Paginastion Countrys Script -->
+
+<script>
+window.onload = function() {
+
+getvalues('Listing','1');
+};
+////////////////////// AJAX
+ 
+var HttPRequest = false;
+ 
+	   function getvalues(Mode,Page) {
+	  
+		  HttPRequest = false;
+		  if (window.XMLHttpRequest) { // Mozilla, Safari,...
+			 HttPRequest = new XMLHttpRequest();
+			 if (HttPRequest.overrideMimeType) {
+				HttPRequest.overrideMimeType('text/html');
+			 }
+		  } else if (window.ActiveXObject) { // IE
+			 try {
+				HttPRequest = new ActiveXObject("Msxml2.XMLHTTP");
+			 } catch (e) {
+				try {
+				   HttPRequest = new ActiveXObject("Microsoft.XMLHTTP");
+				} catch (e) {}
+			 }
+		  } 
+ 
+		  if (!HttPRequest) {
+			 alert('Cannot create XMLHTTP instance');
+			 return false;
+		  }
+ 			var Abc= window.location.pathname;
+			//alert (currentUrl);
+			var url = 'http://www.opulentuz.com/immigration/get_more_country';
+			var pmeters = 'mode='+Mode+'&Page='+Page+'&Abc='+Abc;
+			//var pmeters = 'mode='+Mode+'&Page='+Page;
+			HttPRequest.open('POST',url,true);
+ 			//alert(Abc);
+			HttPRequest.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+			HttPRequest.setRequestHeader("Content-length", pmeters.length);
+			HttPRequest.setRequestHeader("Connection", "close");
+			HttPRequest.send(pmeters);
+ 
+ 
+			HttPRequest.onreadystatechange = function()
+			{
+ 
+			if(HttPRequest.readyState == 3)  // Loading Request
+				  {
+				  
+	document.getElementById("listingAJAX").innerHTML = '<img alt="More" title="More" src="http://www.opulentuz.com/img/moreajax.gif" align="center" />';
+				  }
+ 
+				 if(HttPRequest.readyState == 4) // Return Request
+				  {
+		var response = HttPRequest.responseText;
+ 
+ 					// document.getElementById("a").innerHTML = response;
+				   document.getElementById("listingAJAX").innerHTML = response;
+				  }
+ 
+			}
+ 
+ 
+			   }
+             
+       </script>
+<!-- End Paginastion Countrys Script -->
+
+
 
 <div id="column-right">
       <div class="network-sites">
@@ -1340,95 +1644,28 @@ World Wide Offices</li>
       <div style="position: relative;">
       <div onmouseover="fun_nav(this.id)" onmouseout="fun1(this.id)" style="display: none; position: absolute; top: -7px; right: 0px; width: 238px; height: auto;" id="site_links" class="drop-content">
                 <ul>
-                  <li><a href="http://www.opulentuz.co.uk/" target="_blank"><img class="img-left top-5" src="http://www.opulentuz.com/img/small_flags/uk.jpg" width="23" height="17"><span class="span-worldwide">UK</span></a></li>
-                  <li><a href="http://www.opulentusa.com/" target="_blank"><img class="img-left top-5" src="http://www.opulentuz.com/img/small_flags/usa.jpg" width="23" height="17"><span class="span-worldwide">USA</span></a></li>
-				  
-<li><a href="http://www.opulentus.ca" target="_blank"><img class="img-left top-5" src="http://www.opulentuz.com/img/small_flags/can.jpg" width="23" height="17" alt=""><span class="span-worldwide">CANADA</span></a></li>				  
-				  
-                  <li><a href="#" onclick="windowOpener(305,425,'Coming Soon','http://www.opulentuz.com/immigration/coming-soon/')"><img class="img-left top-5" src="http://www.opulentuz.com/img/small_flags/ireland.jpg" width="23" height="17"><span class="span-worldwide">IRELAND</span></a></li>
+                  <li><a href="http://www.opulentuz.co.uk/" target="_blank"><img class="img-left top-5" src="http://www.opulentuz.com/img/small_flags/uk.jpg" width="23" height="17" alt="UK" title="UK"><span class="span-worldwide">UK</span></a></li>
+                  <li><a href="http://www.opulentusa.com/" target="_blank"><img class="img-left top-5" src="http://www.opulentuz.com/img/small_flags/usa.jpg" width="23" height="17" alt="USA" title="USA"><span class="span-worldwide">USA</span></a></li>
+<li><a href="http://www.opulentus.ca" target="_blank"><img class="img-left top-5" src="http://www.opulentuz.com/img/small_flags/can.jpg" width="23" height="17" alt="Canada" title="Canada"><span class="span-worldwide">CANADA</span></a></li>				  
+                  <li><a href="#" onclick="windowOpener(305,425,'Coming Soon','http://www.opulentuz.com/immigration/coming-soon/')"><img class="img-left top-5" src="http://www.opulentuz.com/img/small_flags/ireland.jpg" width="23" height="17" alt="Ireland" title="Ireland"><span class="span-worldwide">IRELAND</span></a></li>
                 </ul>
               </div>
               </div>
         <div class="accordion">
         	<div class="collapsed">
             
-  <h2 class="acc_trigger active">Browse by Country</h2>
-  <div class="acc_container" style="display: block;">
-    <ul>
-							
-		<li><a class=" " href="http://www.opulentuz.com/immigration/uk/2">UK</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/usa/3">USA</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/australia/4">Australia</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/canada/5">Canada</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/denmark/6">Denmark</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/france/7">France</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/singapore/8">Singapore</a></li>
-		
-				
-								
-		<li><a class=" " href="http://www.opulentuz.com/immigration/hong-kong/10">Hong Kong</a></li>
-		
-				
-							<li id="view_all_countries"><a class="view-all-text" href="#">View All Countries [+]</a></li>		</ul>
-				<ul style="display:none;" id="second_panel">
-				<li><a class=" " href="http://www.opulentuz.com/immigration/norway/11">Norway</a></li>
-								
-		<li><a class=" " href="http://www.opulentuz.com/immigration/austria/12">Austria</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/south-africa/13">South Africa</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/ireland/14">Ireland</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/germany/15">Germany</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/philippines/16">Philippines</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/malaysia/18">Malaysia</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/switzerland/19">Switzerland</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/sweden/21">Sweden</a></li>
-		
-				
-						
-		<li><a class=" " href="http://www.opulentuz.com/immigration/dubai/22">Dubai</a></li>
-		
-				
-	</ul>	
+  <h2 class="acc_trigger active">Browse by Popular Country</h2>
+<form method="post" name="clist_form" id="clist_form" action="#"> 
+	
+<div class="acc_container">
+        <div id="listingAJAX"></div>
+  
+	
+  </div></form>
 
-
+  <div id="get_country">
+  
+ 
   </div>
   <h2 class="acc_trigger ">Browse by Service</h2>
   <div class="acc_container" style="display: none;">
@@ -1494,91 +1731,96 @@ World Wide Offices</li>
   
 </div>
         </div>
+		
+	<!-- Exchange Rates Script - EXCHANGERATEWIDGET.COM -->
+<div style="width:233px;border:3px solid #5D540F;border-radius:5px;" text-align:left;=""><div style="text-align:left;background-color:#5D540F;width:100%;border-bottom:0px;height:16px; font-size:12px;font-weight:bold;padding:5px 0px;"><span style="margin-left:2px;background-image:url(http://www.exchangeratewidget.com/flag.png); background-position: 0 -1232px; width:100%; height:15px; background-repeat:no-repeat;padding-left:5px;"><a href="http://www.exchangeratewidget.com/" target="_blank" style="color:#FFFFFF; text-decoration:none;padding-left:22px;">US Dollar Exchange Rates</a></span></div><script type="text/javascript" src="http://www.exchangeratewidget.com/converter.php?l=en&amp;f=USD&amp;t=INR,AUD,CAD,NZD,GBP,EUR,HKD,CHF,NOK,&amp;a=1&amp;d=CBBE64&amp;n=FFFFFF&amp;o=000000&amp;v=7"></script></div>
+<!-- End of Exchange Rates Script -->	
+		
         <div class="success-box">
  <div class="newsslider" style="height:128px; border:0px solid #000; margin-top:10px;">
-    <div class="newsslidercontent" id="newsslider" style="top: -387px; opacity: 0.4;">
+    <div class="newsslidercontent" id="newsslider">
                <div id="newssection-1" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_8925.jpg" width="60" height="60"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Thanks a lot for your services."...</a><br clear="all;"></div>
-                <p align="right" style="text-align:right; color:#eada27;">
-				Sachin<br>
-Belgium<br>BUSINESS VISA...<br>Sperry Swiss (A registered company with registration number CH-170.4.008.167-6,Switerzland</p>
+			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_8925.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Thanks a lot for your services."...</a><br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Sachin Ramkrushnaji <br>
+Belgium<br><br>BUSINESS VISA...<br><br>Sperry Swiss (A registered company with registration number CH-170.4.008.167-6,Switerzland</p>
  </div>
 			                <div id="newssection-2" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_889.jpg" width="60" height="60"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Thanks for Opulentus for the prompt service hoping ...</a><br clear="all;"></div>
-                <p align="right" style="text-align:right; color:#eada27;">
-				Sanjay<br>
-Canada<br>CANADA 1st STAGE FILE ...<br>PCS TECHNOLOGY</p>
+			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_889.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Thanks for Opulentus for the prompt service hoping ...</a><br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">SANJAY JAGDISH <br>
+Canada<br><br>CANADA 1st STAGE FILE ...<br><br>PCS TECHNOLOGY</p>
  </div>
 			                <div id="newssection-3" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_866.jpg" width="60" height="60"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"The service has been really great, case officer ...</a><br clear="all;"></div>
-                <p align="right" style="text-align:right; color:#eada27;">
-				Ramesh<br>
-UK<br>UK TIER 1 VISA...<br>Tata Consultancy Services</p>
+			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_866.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"The service has been really great, case officer ...</a><br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">RAMESH  <br>
+UK<br><br>UK TIER 1 VISA...<br><br>Tata Consultancy Services</p>
  </div>
 			                <div id="newssection-4" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_7948.jpg" width="60" height="60"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Thank you for your support."...</a><br clear="all;"></div>
-                <p align="right" style="text-align:right; color:#eada27;">
-				Vandana<br>
-Australia<br>JOB...<br>IBM</p>
+			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_7948.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Thank you for your support."...</a><br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Vandana Jaiswal<br>
+Australia<br><br>JOB...<br><br>IBM</p>
  </div>
 			                <div id="newssection-5" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_794.jpg" width="60" height="60"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">Thanks a lot for overall services, provided by ...</a><br clear="all;"></div>
-                <p align="right" style="text-align:right; color:#eada27;">
-				Mahapara<br>
-Denmark<br>DENMARK VISA...<br>Vijay sai kumar associates </p>
+			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_794.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">Thanks a lot for overall services, provided by ...</a><br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">MAHAPARA  <br>
+Denmark<br><br>DENMARK VISA...<br><br>Vijay sai kumar associates </p>
  </div>
 			                <div id="newssection-6" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_785.jpg" width="60" height="60"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Thank you. We could not have done this ...</a><br clear="all;"></div>
-                <p align="right" style="text-align:right; color:#eada27;">
-				Raghav<br>
-UK<br>UK TIER 1 VISA...<br>KPMG </p>
+			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_785.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Thank you. We could not have done this ...</a><br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">RAGHAV SURENDRAKUMAR <br>
+UK<br><br>UK TIER 1 VISA...<br><br>KPMG </p>
  </div>
 			                <div id="newssection-7" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_7550.jpg" width="60" height="60"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Happy to receive positive result. Thank you Opulentus."...</a><br clear="all;"></div>
-                <p align="right" style="text-align:right; color:#eada27;">
-				Mahesh<br>
-New Zealand<br>Pre -ASSESSMENT RESULT...<br>Bachelor of Computer Applications </p>
+			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_7550.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Happy to receive positive result. Thank you Opulentus."...</a><br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Mahesh Arigela<br>
+New Zealand<br><br>Pre -ASSESSMENT RESULT...<br><br>Bachelor of Computer Applications </p>
  </div>
 			                <div id="newssection-8" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_723.jpg" width="60" height="60"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Thanks your for your support." ...</a><br clear="all;"></div>
-                <p align="right" style="text-align:right; color:#eada27;">
-				Bhagyashree<br>
-Denmark<br>DENMARK VISA...<br>Jazan University</p>
+			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_723.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"Thanks your for your support." ...</a><br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">BHAGYASHREE RAOSAHEB <br>
+Denmark<br><br>DENMARK VISA...<br><br>Jazan University</p>
  </div>
 			                <div id="newssection-9" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_7213.jpg" width="60" height="60"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"I am happy to clear the Pre-Assessment. It ...</a><br clear="all;"></div>
-                <p align="right" style="text-align:right; color:#eada27;">
-				Sai<br>
-New Zealand<br>Pre -ASSESSMENT RESULT...<br></p>
+			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_7213.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"I am happy to clear the Pre-Assessment. It ...</a><br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Sai Kiran <br>
+New Zealand<br><br>Pre -ASSESSMENT RESULT...<br><br></p>
  </div>
 			                <div id="newssection-10" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_6921.jpg" width="60" height="60"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"My ACS result is positive. I am happy ...</a><br clear="all;"></div>
-                <p align="right" style="text-align:right; color:#eada27;">
-				Manish<br>
-Australia<br>ACS RESULT...<br>Sapient</p>
+			                  <div style=" height:55px;"><img style="float:left; margin-right:5px; border:2px solid #ccc;" src="http://www.opulentian.com/intranet/applicant_uploads/photos/thumbs/photo_6921.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews"><a href="http://www.opulentuz.com/immigration/testimonials" style="color:#fff;">"My ACS result is positive. I am happy ...</a><br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Manish Srivastava<br>
+Australia<br><br>ACS RESULT...<br><br>Sapient</p>
  </div>
 			              
 			</div>
  		 </div>
-		 <p align="right" style="float: right; padding-top:6px;"><a href="http://www.opulentuz.com/immigration/testimonials"><img width="108" height="26" src="http://www.opulentuz.com/img/viewall.png"></a></p>
+		 
+		 
+
+
+		 <p align="right" style="float: right; padding-top:6px;"><a href="http://www.opulentuz.com/immigration/testimonials"><img width="108" height="26" src="http://www.opulentuz.com/img/viewall.png" alt="Opulentus Testimonials" title="Opulentus Testimonials"></a></p>
 
  
   
         </div>
+		
+		
+		
         <div class="news-box">
           <h4>News &amp; Events</h4>
           <ul>
-                        <li><a href="http://www.opulentuz.com/immigration/news-details/quick-access-to-private--technical-australian-student-visa/648">Quick Access to Private  &amp; Technical Australian ...</a>
-						<p style="color:#333;text-align:center;  display:block; width:255px; margin-bottom:0px;">Posted On 01 May 2012 </p>
+                        <li><a href="http://www.opulentuz.com/immigration/news-details/1019">Exxon exploration off SA...</a>
+							  <span><a style=" color:#ff0000;" href="http://www.opulentuz.com/immigration/news-details/1019">New</a></span>
+				  			<p style="color:#333;text-align:center;  display:block; width:255px; margin-bottom:0px;">Posted On 27 Dec 2012 </p>
             </li>
-			            <li><a href="http://www.opulentuz.com/immigration/news-details/next-gen-american-indians-return-home/649">Next - Gen American Indians Return Home...</a>
-						<p style="color:#333;text-align:center;  display:block; width:255px; margin-bottom:0px;">Posted On 01 May 2012 </p>
+			            <li><a href="http://www.opulentuz.com/immigration/news-details/1017">Jobs growth in City helps London double boost ...</a>
+						<p style="color:#333;text-align:center;  display:block; width:255px; margin-bottom:0px;">Posted On 26 Dec 2012 </p>
             </li>
 			          </ul>
-          <p align="right" style="float: right;"><a href="http://www.opulentuz.com/immigrations/news"><img height="26" width="108" src="http://www.opulentuz.com/img/viewall.png"></a></p>
+          <p align="right" style="float: right;"><a href="http://www.opulentuz.com/immigrations/news"><img height="26" width="108" src="http://www.opulentuz.com/img/viewall.png" alt="Immigration News" title="Immigration News"></a></p>
         </div>
         
 <div style="margin-bottom:10px;" class="fb-like-box" data-href="https://www.facebook.com/#!/opulentuz" data-height="305" data-width="240" data-show-faces="true" data-stream="false" data-header="true"></div>
+
+
 
       </div>
     </div>
@@ -1586,7 +1828,25 @@ Australia<br>ACS RESULT...<br>Sapient</p>
 </div>
 
 
+<script type="text/javascript">
+function test(val)
+{
+var base = "http://localhost/opulentuz/immigration/get_country/";
 
+	var http = getHTTPObject();
+	//alert(base+val);
+	http.open("get",  base+val, true);
+	http.onreadystatechange = function() {
+		if(http.readyState == 4) {			
+			var response = http.responseText;
+			document.getElementById('get_country').innerHTML=response;
+			
+		}
+		
+	}
+	http.send(null);
+}
+</script>
 
 <div id="footer">
   <div class="wrapper_1">
@@ -1621,14 +1881,19 @@ Australia<br>ACS RESULT...<br>Sapient</p>
       <div class="foot-links">
         <ul>
           <li class="bg-bullet hd-footer" style=" padding:0px 45px 10px 10px;">Our Websites</li>
-          <li><a href="http://www.opulentuz.co.uk/" target="_blank" title="UK Immigration">opulentuz.co.uk</a></li>
+		  <li><a href="http://www.canadatips.com/" target="_blank" title="Canada Immigration">canadatips.com</a></li>
+		  <li><a href="http://www.beaustralian.com/" target="_blank" title="Australian Immigration">beaustralian.com</a></li>
+		  <li><a href="http://www.newzealandvisas.com/" target="_blank" title="New Zealand Immigration">newzealandvisas.com</a></li>
+		  <li><a href="http://www.settleindenmark.com" target="_blank" title="Denmark Immigration">settleindenmark.com</a></li>
+		  <li><a href="http://www.norwayvisas.com/" target="_blank" title="Norway Immigration">norwayvisas.com</a></li>
+          <li><a href="http://www.visas2hk.com/" target="_blank" title="Hong Kong Immigration">visas2hk.com</a></li>
           <li><a href="http://www.singaporevisas.com/" target="_blank" title="Singapore Visas">singaporevisas.com</a></li>
-         <!-- <li><a href="http://www.newzealandvisas.com/" target="_blank" title="New Zealand Immigration">newzealandvisas.com</a></li>-->
-          <li><a href="http://www.canadatips.com/" target="_blank" title="Canada Immigration">canadatips.com</a></li>
-          <li><a href="http://www.beaustralian.com/" target="_blank" title="Australian Immigration">beaustralian.com</a></li>
-          <li><a href="http://www.superbschool.com/" target="_blank" title="USA Student Visas">superbschoool.com</a></li>
-          <li><a href="http://www.hsmp.in" target="_blank" title="UK Visas">hsmp.in</a></li>
-          <li><a href="http://www.settleindenmark.com" target="_blank" title="Denmark Immigration">settleindenmark.com</a></li>
+          <li><a href="http://www.usavisastore.com/" target="_blank" title="USA Immigration">usavisastore.com</a></li>
+          
+          
+          
+          
+          
         </ul>
       </div>
 	  
@@ -1649,6 +1914,7 @@ Australia<br>ACS RESULT...<br>Sapient</p>
 		<form name="letter_subscribe" action="http://www.opulentuz.com/immigration/form-submit" method="post">
           <input class="input1" type="text" name="letter_name" onblur="if(this.value=='') this.value='- Name -'" onfocus="if(this.value =='- Name -' ) this.value=''" value="- Name -">
           <input class="input1" type="text" name="letter_email" onblur="if(this.value=='') this.value='- Email -'" onfocus="if(this.value =='- Email -' ) this.value=''" value="- Email -">
+          <input type="hidden" value="" name="letter_branch">
           <input class="sub-input1" type="submit" name="letter_subscribe" value="" onclick="return subscribe_letter()">
 		  </form>
         </div>
@@ -1660,8 +1926,8 @@ Australia<br>ACS RESULT...<br>Sapient</p>
   		  <li class="li-ftbr"><a href="http://www.opulentuz.com/immigration/disclimare">Disclaimer</a></li>
         </ul>
       </div>-->
-      <div class="powered-by"><a target="_blank" href="http://www.Chevronne.com"><img src="http://www.opulentuz.com/img/powered-chevronne.jpg" width="111" height="33"></a></div>
-      <div class="consult"><p><a href="http://www.opulentuz.com/">Home</a> | <a href="http://www.opulentuz.com/immigration/about-us">About Us</a> | <a href="http://www.opulentuz.com/immigration/product">Products</a> | <a href="http://www.opulentuz.com/old_store" target="_blank">Online Store</a> | <a href="http://blog.opulentuz.com/" target="_blank">Blog</a> | <a href="http://www.opulentuz.com/immigration/testimonials">Testimonials</a> | <a href="http://www.immigrationforum.opulentuz.com/" target="_blank">Forum</a> | <a href="http://www.opulentuz.com/immigration/success-list">Success List</a> | <a href="http://www.opulentuz.com/immigration/faqs">FAQs</a> | <a href="http://www.opulentuz.com/immigration/contact-us">Contact Us</a><br>Copyright @ 2011 Opulentus Overseas Edu Pvt Ltd. <a href="http://www.opulentuz.com/immigration/privacy-policy">Privacy Policy</a> | <a href="http://www.opulentuz.com/immigration/disclimare">Disclaimer</a></p></div>
+      <div class="powered-by"><a target="_blank" href="http://www.Chevronne.com"><img src="http://www.opulentuz.com/img/powered-chevronne.jpg" width="111" height="33" title="Powered By chevronne" alt="Chevronne"></a></div>
+      <div class="consult"><p><a href="http://www.opulentuz.com/">Home</a> | <a href="http://www.opulentuz.com/immigration/about-us">About Us</a> | <a href="http://www.opulentuz.com/immigration/product">Products</a> | <a href="http://www.opulentuz.com/online_store" target="_blank">Online Store</a> | <a href="http://blog.opulentuz.com/" target="_blank">Blog</a> | <a href="http://www.opulentuz.com/immigration/testimonials">Testimonials</a> | <a href="http://www.immigrationforum.opulentuz.com/" target="_blank">Forum</a> | <a href="http://www.opulentuz.com/immigration/success-list">Success List</a> | <a href="http://www.opulentuz.com/immigration/faqs">FAQs</a> | <a href="http://www.opulentuz.com/immigration/contact-us">Contact Us</a><br>Copyright @ 2011 Opulentus Overseas Careers Pvt Ltd. <a href="http://www.opulentuz.com/immigration/privacy-policy">Privacy Policy</a> | <a href="http://www.opulentuz.com/immigration/disclaimer">Disclaimer</a> | <a href="http://www.opulentuz.com/sitemap.html">Sitemap</a></p></div>
       
       </div>
     </div>
@@ -1691,6 +1957,10 @@ Australia<br>ACS RESULT...<br>Sapient</p>
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
   })();                                       
 </script>
+
+
+
+
 
 
 
