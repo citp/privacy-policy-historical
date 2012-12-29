@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mnhs.org privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630111604id_/http%3A//www.mnhs.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mnhs.org privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229133906id_/http%3A//www.mnhs.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/about.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -21,14 +21,17 @@
 <script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.hoverIntent.min.js"></script>
 <script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.client.min.js"></script>
 <script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.topzindex.min.js"></script>
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.topzindex.min.js"></script>
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/swfobject.js"></script>
+
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.jmpopups-0.5.1.js"></script>
+
 <script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.mhs_dropnav.js"></script>
-<script src="http://legacy.mnhs.org/sites/all/includes/ismobile.php" type="text/javascript"></script>
-<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/swfobject.js"></script> 
+
+<!-- <script src="http://legacy.mnhs.org/sites/all/includes/ismobile.php" type="text/javascript"></script> -->
 
 <link rel="stylesheet" href="http://www.mnhs.org/web_assets/stylesheets/dropnav/drop-navigation.css" type="text/css" media="screen">
-<link rel="stylesheet" href="http://www.mnhs.org/web_assets/stylesheets/mega/css/reset.css" type="text/css" media="screen">
 <!-- Reset -->
-<link rel="stylesheet" href="http://www.mnhs.org/web_assets/stylesheets/mega/menu.css" type="text/css" media="screen">
 <!-- Menu -->
 <!--[if IE 6]>
 <link rel="stylesheet" href="http://www.mnhs.org/web_assets/stylesheets/mega/ie/ie6.css" type="text/css" media="screen" />
@@ -46,6 +49,104 @@
 <![endif]-->
 <!--end global header-->
 
+
+
+
+<!-- <start of the shutdown code begins here-->
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="http://www.mnhs.org/web_assets/js/jquery.jmpopups-0.5.1.js"></script>
+<script type="text/javascript">
+function getCookie(c_name)
+{
+var i,x,y,ARRcookies=document.cookie.split(";");
+for (i=0;i<ARRcookies.length;i++)
+  {
+  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+  x=x.replace(/^\s+|\s+$/g,"");
+  if (x==c_name)
+    {
+    return unescape(y);
+    }
+  }
+}
+
+function setCookie(c_name,value,exdays)
+{
+var exdate=new Date();
+exdate.setDate(exdate.getDate() + exdays);
+var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+document.cookie=c_name + "=" + c_value;
+}
+var date = new Date();
+var month = date.getMonth();
+var day = date.getDate();
+
+function checkCookie()
+{
+var sdnotice=getCookie("sdnotice");
+
+// month is one less than current array notaion
+if(month == "11" && day == "26"){
+	//openStaticPopup();
+	//alert('the day is correct');
+	if (sdnotice!=null && sdnotice!="")
+	  {
+	 // alert("Welcome again " + sdnotice);
+	  }
+	else{
+		setCookie("sdnotice",'true',1);
+		openStaticPopup();
+		}//end else
+	}//end if
+}//end check cookie
+
+			//<![CDATA[
+				$.setupJMPopups({
+					screenLockerBackground: "#000000",
+					screenLockerOpacity: "0.8"
+				});
+				function openStaticPopup() {
+					$.openPopupLayer({
+						name: "myStaticPopup",
+						width: 500,
+						target: "myHiddenDiv"
+					});
+				}
+				function openAjaxPopup() {
+					$.openPopupLayer({
+						name: "mySecondPopup",
+						width: 500,
+						url: "http://www.mnhs.org/shutdown-alert.html"
+					});
+				}
+			//]]>
+jQuery(document).ready(function($) {
+$.closePopupLayer('.close-link');
+checkCookie();
+});//end jQuery(document).ready(function($)
+</script>
+<!-- </end of the shutdown code here-->
+
+<style>
+#myHiddenDiv {
+display:none;
+width:200px;
+height:300px;
+background:#fff;
+border-radius:10px;
+position:relative;
+}
+.inner{position:relative;}
+.close-link{
+	border:0!important;
+	text-shadow:0;
+	text-decoration:none;
+	position:absolute!important;
+	bottom:-8px!important;
+	right:-15px!important;
+}
+</style>
 </head>
 <body>
 <div align="center">
@@ -115,6 +216,16 @@
 <div class="clear"></div>
 
 
+<div id="myHiddenDiv">
+<div class="inner">
+<img src="http://www.mnhs.org/web_assets/12-26-mask.jpg" border="0" usemap="#Map2">
+    <map name="Map2" id="Map2">
+      <area shape="rect" coords="119,178,489,255" href="http://www.usdakotawar.org/history/war-aftermath/trials-hanging">
+    </map>
+	<a href="javascript:;" onclick="$.closePopupLayer('myStaticPopup')" title="Close" class="close-link"><img src="http://www.mnhs.org/web_assets/close-btn.png"></a><p></p> 
+</div>
+</div>
+
 <!--Navigation Here -->
 <!--mhs-primary-navigation.inc -->
 <div id="navWrapper">
@@ -129,7 +240,7 @@
 	<li><a href="http://www.mnhs.org/places/" class="access" accesskey="s" title="State Historic Sites and Resources [access key = s]">Place<em>s</em></a></li>
 	<li><a href="http://www.mnhs.org/events/" class="access" accesskey="n" title=" Historic Events in Minnesota History [access key = n]">Eve<em>n</em>ts</a></li>
 	<li><a href="http://www.mnhs.org/collections" class="access" accesskey="o" title="Collections at MHS [access key = o]">C<em>o</em>llections</a></li>
-	<li><a href="http://www.mnhs.org/school/" class="access" accesskey="e" title="Educational Resources for Teachers and Students [access key = e]"><em>E</em>ducation</a></li>
+	<li><a href="http://education.mnhs.org/" class="access" accesskey="e" title="Educational Resources for Teachers and Students [access key = e]"><em>E</em>ducation</a></li>
 	<li><a href="http://www.mnhs.org/about/" class="access" accesskey="a" title="Learn more about MHS, as well as Grant and Job Opportunities [access key = a]"><em>A</em>bout MHS</a></li>
 	
 </ol>
@@ -319,9 +430,9 @@
 <td align="left" valign="top"> 
 <ul class="UL">
                           
-	<li><a href="http://www.mnhs.org/about/publications/FY2011_AnnualReport.pdf">Annual Report (PDF)</a></li>
+	<li><a href="http://www.mnhs.org/about/publications/FY12_AnnualReport.pdf">Annual Report (PDF)</a></li>
 
-	<li><a href="http://www.mnhs.org/about/publications/FinancialReportMHS.pdf">Financial Report (PDF)</a></li>
+	<li><a href="http://www.mnhs.org/about/publications/FinancialStatements2012.pdf">Financial Report (PDF)</a></li>
 <li><a href="http://www.mnhs.org/about/publications/Information-Policy-Adopted-Jan-17-2007_.pdf">Information Policy(PDF)</a></li>
 	<li><a href="http://www.mnhs.org/historymatters">History Matters</a></li>
 						  
