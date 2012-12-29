@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maltatoday.com.mt privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627013113id_/http%3A//maltatoday.com.mt/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maltatoday.com.mt privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229110721id_/http%3A//maltatoday.com.mt/en/privacypolicy) for the most accurate reproduction.*
 
 # MaltaToday.com.mt – Malta’s news portal
 
