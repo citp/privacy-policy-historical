@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630113701id_/http%3A//www.ctshirts.com/Charles-Tyrwhitt-privacy-policy%3Fcnt%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229140804id_/http%3A//www.ctshirts.com/Charles-Tyrwhitt-privacy-policy%3Fcnt%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Charles-Tyrwhitt-privacy-policy
 
@@ -12,7 +12,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on the website www.ctshirts.co.uk (Website). This includes information provided at the time of registering to use the Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with the Website.
+  * Information that you provide by filling in forms on the website www.ctshirts.com (Website). This includes information provided at the time of registering to use the Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with the Website.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through the Website and of the fulfilment of your orders.
