@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technorati.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630132339id_/http%3A//technorati.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technorati.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229213118id_/http%3A//technorati.com/privacy-policy) for the most accurate reproduction.*
 
 # Technorati Privacy Policy - Technorati
 
@@ -114,4 +114,4 @@ This Privacy Statement is a living document. We will modify this document as we 
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy please[ contact us](https://web.archive.org/contact-us/).
+If you have any questions or suggestions regarding our privacy policy please[ contact us](https://web.archive.org/contact-us/) or visit our [Ebay Keywords](http://ebaykeywords.com/).
