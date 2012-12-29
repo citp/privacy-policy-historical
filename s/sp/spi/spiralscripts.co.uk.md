@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spiralscripts.co.uk privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507154413id_/http%3A//www.spiralscripts.co.uk/General/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiralscripts.co.uk privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229133204id_/http%3A//www.spiralscripts.co.uk/General/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | General
+# Privacy Policy | General | content
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
