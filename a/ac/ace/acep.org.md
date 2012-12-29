@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acep.org privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209130745id_/http%3A//www.acep.org/content.aspx%3Fid%3D30296) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acep.org privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229140845id_/http%3A//www.acep.org/content.aspx%3Fid%3D30296) for the most accurate reproduction.*
 
 # Privacy Policy and Copyright Notice
 
@@ -34,7 +34,7 @@
 
 > All images, text, programs, and other materials posted on this site are subject to copyrights owned by the American College of Emergency Physicians ("ACEP") and other individuals or entities and are protected by United States copyright laws. Any reproduction, retransmission, distribution or republication of all or part of any images, text, programs, and other materials found on this site is expressly prohibited, unless ACEP or the copyright owner of the material has expressly granted its prior written consent to so reproduce, transmit, or republish the material. All other rights reserved.
 > 
-> You may [submit an online request](https://apps.acep.org/Copyright/CopyrightPermission.aspx "ACEP Copyright Permissions Information") to use copyright materials published by ACEP.  All permission requests must be submitted online. 
+> You may [submit an online request](mailto:copyright@acep.org?subject=Request%20to%20Use%20Copyrighted%20Material "Request to Use Copyrighted Material") to use copyright materials published by ACEP.  All permission requests must be submitted online. 
 > 
 > The ACEP e-lists are intended to be maintained in a manner consistent with United States copyright laws. Accordingly, users should not submit copyrighted material unless the copyright owner of the material has expressly granted its prior written consent to such submission.
 > 
