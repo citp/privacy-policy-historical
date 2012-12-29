@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the portlandmercury.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608133618id_/http%3A//www.portlandmercury.com/portland/Page%3Foid%3D21243) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandmercury.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229134147id_/http%3A//www.portlandmercury.com/portland/PrivacyPolicy/Page) for the most accurate reproduction.*
 
-# Privacy Policy - Portland Mercury
+# Privacy Policy | Portland Mercury
 
-When you register on this website or use services on the site, we collect some personal information directly from you, typically just your e-mail address. If you purchase a classified ad or sign up for a Portland Mercury Personals membership, we may also ask for your payment information (processed through industry leader VeriSign), your physical address, phone number, date of birth, and/or gender. The privacy policy below explains how we deal with your information. 
+When you register on this website or use services on the site, we collect some personal information directly from you, typically just your e-mail address. If you purchase merchandise, a classified ad or sign up for a Portland Mercury Personals membership, we may also ask for your payment information (processed through industry leader VeriSign), your physical address, phone number, date of birth, and/or gender. The privacy policy below explains how we deal with your information. 
 
-### **We won't provide your information to third parties without your consent, unless...**
+**The Mercury Ticketing Service does provide some information about you (including but not limited to your email address, name, & zip code) to the venues and/or promoters for the events to which you have purchased tickets.
+
+We won't provide your information to other third parties without your consent, unless...
+
+**
 
   * We are required to do so by law, court order, or subpoena; or
   * There's an emergency involving the risk of serious personal harm.
@@ -32,8 +36,8 @@ We have no control or authority over the content or privacy policies of sites th
 ### **How to contact us:**
 
 The Portland Mercury  
-605 NE 21st Ave, Suite 200  
-Portland, OR 97232  
+115 SW Ash St. Suite 600  
+Portland, OR 97204  
 [webmaster@portlandmercury.com](mailto:webmaster@portlandmercury.com)
 
 ### **Changes to this policy**
