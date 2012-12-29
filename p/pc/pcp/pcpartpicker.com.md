@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpartpicker.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604010245id_/http%3A//pcpartpicker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpartpicker.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229074436id_/http%3A//pcpartpicker.com/privacy) for the most accurate reproduction.*
 
 # PCPartPicker Privacy Policy - PCPartPicker
 
@@ -35,6 +35,3 @@ If PCPartPicker, or substantially all of its assets were acquired, or in the unl
 
 **Privacy Policy Changes**   
 Although most changes are likely to be minor, PCPartPicker may change its Privacy Policy from time to time, and in PCPartPicker’s sole discretion. PCPartPicker encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
-
-**Cookies**   
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website. 
