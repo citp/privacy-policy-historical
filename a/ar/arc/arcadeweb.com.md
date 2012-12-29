@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadeweb.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613220208id_/http%3A//www.arcadeweb.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadeweb.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229085113id_/http%3A//www.arcadeweb.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Free Tournament Games by Arcadeweb
 
@@ -11,7 +11,7 @@
 
 ### ARCADEWEB PRIVACY POLICY
 
-ArcadeWeb LLC and its parent company Future Ads LLC (collectively, "ArcadeWeb") make this website (the "Site") available to registered members of the Site ("Member(s)"), subject to this privacy policy (the "Policy") and the [ArcadeWeb Terms of Use](http://www.arcadeweb.com/static/terms-of-use) (also referred to as the "End User License Agreement" or "EULA"). This Policy explains what information ArcadeWeb collects about Members on the Site and how ArcadeWeb uses and maintains the information on [www.arcadeweb.com](https://web.archive.org/web/20120613220208id_/http%3A//www.arcadeweb.com/static/www.arcadeweb.com). 
+ArcadeWeb LLC and its parent company Future Ads LLC (collectively, "ArcadeWeb", "we", "us", or "our") make this website (the "Site") available to registered members of the Site ("Member(s)"), subject to this privacy policy (the "Policy") and the [ArcadeWeb Terms of Use](http://www.arcadeweb.com/static/terms-of-use) (also referred to as the "End User License Agreement" or "EULA"). This Policy explains what information ArcadeWeb collects about Members on the Site and how ArcadeWeb uses and maintains the information on [www.arcadeweb.com](https://web.archive.org/web/20121229085113id_/http%3A//www.arcadeweb.com/static/www.arcadeweb.com). 
 
 ArcadeWeb has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with   
 [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at  . If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
@@ -28,12 +28,13 @@ ARCADEWEB OFFERS GAMES AVAILABLE ON THE INTERNET FREE OF CHARGE AT THE SITE IN E
 
 
   * In order to use the Site, you must [register](http://www.arcadeweb.com/join.php) to set up a Member account, provide your email address and create a user name (an alias that will be your player name) and a password. You also need to provide a photo (or elect to use the default photo provided by the Site) and create a user profile. ArcadeWeb also works with other companies to offer its content and services to users of their web sites ("Partner Site(s)"). Even if you link to ArcadeWeb from a Partner Site, you will need to register through ArcadeWeb to use the Site, and, therefore, this Policy applies to ArcadeWeb's collection of your PII from that registration process as well.
-  * In order to have prizes awarded to your ArcadeWeb account, you need to provide your first and last name, email address, contact phone number and mailing address so that you can be notified and make arrangements for delivery of your prize. You also are required, in order to collect a prize, to provide your age, date of birth, a photo and a photo id that matches your photo and address, so that ArcadeWeb can verify your identity and maintain the integrity of its operations. You are also requested, but not required, to provide additional demographic information, such as your geographic location, gender and ethnicity. 
-  * If you are a United States taxpayer and your total winnings on ArcadeWeb in any given calendar year reach a total of $600 (or the then-current Internal Revenue Service limit), ArcadeWeb will request that you submit your social security number in order to send you a Form 1099, as currently required by Internal Revenue Service regulations. Failure to provide your social security number at that time will prevent you from participating in game tournaments.
+  * In order to have prizes awarded to your ArcadeWeb account, you need to provide your first and last name, email address, contact phone number and mailing address so that you can be notified and make arrangements for delivery of your prize. You also are required, in order to collect a prize, to provide your date of birth, a photo and a government-issued photo id that matches your photo and address, so that ArcadeWeb can verify your identity and maintain the integrity of its operations. You are also requested, but not required, to provide additional demographic information, such as your geographic location, gender and ethnicity.
+  * If you are a United States taxpayer and your total winnings on ArcadeWeb in any given calendar year reach a total of $600 or more (or the then-current Internal Revenue Service limit), it is your responsibility to submit your taxpayer identification number through the Form W-9, in order for us to send you a Form 1099, as currently required by Internal Revenue Service regulations. Failure to provide your taxpayer identification number at that time will prevent you from participating in game tournaments.
   * If you choose to invite a friend to join ArcadeWeb through our "Tell A Friend" feature, we will ask you for your friend's email address so that you can send a personal message inviting him or her to visit the Site. We will automatically send your friend a one-time email inviting him or her to visit the Site. Your friend's email address will only be used to send that one message and it will not be stored or otherwise used.
   * If you choose to register for any subscription services, you may be required to obtain and maintain a PayPal account and/or pay by credit card for the services and you will be required to provide PII to our third party billing service provider and agree to be bound by the terms and conditions imposed by such third party billing service provider, including its privacy policy, in addition to these Terms of Use. ArcadeWeb's billing service provider will be identified when you sign up for the applicable services. 
   * If you wish to receive promotional emails from ArcadeWeb, you may login to your account and select "Manage Profile" - you will them be able to opt-in to receiving emails from ArcadeWeb.
   * ArcadeWeb offers private messages from user to user. You should be aware that any information you provide within these private messages may be read, collected, and used by others who use them. To request removal of your personal information from messages, please contact us at  . In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  * When you communicate with us via the [Contact Us](https://secure.arcadeweb.com/contact.php "Contact Us") page, ArcadeWeb asks for your name, phone number and email address so that you can receive a response.
 
 
 
@@ -113,7 +114,7 @@ If you have any questions or concerns about this Policy or its implementation, p
 
 Effective: December 2, 2010 
 
-Last Updated: September 22, 2011
+Last Updated: June 21, 2012
 
   
 | 
