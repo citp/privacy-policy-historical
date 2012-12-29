@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxblackbook.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504020017id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxblackbook.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229141735id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
 
 # XXX BlackBook - Adult Dating Website - Find Sexy Singles, Men, Women, Couples For Local Sex, Dating, Online Dating
 
