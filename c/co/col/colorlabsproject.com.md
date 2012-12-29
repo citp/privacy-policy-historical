@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorlabsproject.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626065151id_/http%3A//colorlabsproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorlabsproject.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229073009id_/http%3A//colorlabsproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ColorLabs & Company
 
@@ -53,7 +53,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing to us](https://web.archive.org/web/20120626065151id_/http%3A/privacy-policy/# "Privacy Policy").
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [writing to us](https://web.archive.org/web/20121229073009id_/http%3A/privacy-policy/# "Privacy Policy").
 
 
 
