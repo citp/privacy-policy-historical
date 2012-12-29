@@ -1,54 +1,171 @@
-> *The following text is extracted and transformed from the theinquirer.net privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616204744id_/http%3A//www.theinquirer.net/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinquirer.net privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229100932id_/http%3A//www.incisivemedia.com/static/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-policy- The Inquirer
+# Privacy Policy - Incisive Media - B2B publishers, financial market data , books/magazines subscriptions, jobs
 
-**Introduction** **  
-** Respecting the privacy of our customers and ensuring the confidentiality of customer information is critical to **Incisive Media Investments Ltd (Incisive Media)** **.** The purpose of this Privacy Policy is to ensure that we interact with all of our customers in line with current legislation such as the Data Protection Act 1998 and in accordance with their wishes.
+**1\. INTRODUCTION**
 
-**The policy**
+Incisive Media Limited and all companies within its Group ("Incisive Media" or "We") are committed to protecting and respecting your privacy.
 
-**(1)** INCISIVE MEDIA will use your contact details (postal address, email address, telephone, mobile and fax numbers) to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows.
+This policy (together with our [terms of use](http://www.incisivemedia.com/static/terms-conditions "View our terms & conditions of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-**(2)** From time to time INCISIVE MEDIA may invite you to register in order to receive magazines, email newsletters, enter competitions, and receive services from INCISIVE MEDIA websites. This will require you to confirm personal information such as your name, email address, home and work postcodes. This information is mandatory and is required by INCISIVE MEDIA for security purposes and enable INCISIVE MEDIA to supply a reasonable level of services to users and our advertisers. We will ask for information such as job function, company sector, company / name and date of birth. During registration, you will also be asked to choose a password for future access to the relevant site(s).
+For the purpose of the Data Protection Act 1998 ("the Act"), the data controller is Incisive Media Limited of 32-34 Broadwick Street, London W1A 2HG.
 
-**(3)** INCISIVE MEDIA offers you the chance to opt in to receive additional information from INCISIVE MEDIA and its associated companies by email, telephone and/or SMS. This includes other products/services that INCISIVE MEDIA and its associated companies offer and that INCISIVE MEDIA feels will be of interest to you.
+Our nominated representative for the purpose of the Act is Sean Hayes.
 
-**(4)** INCISIVE MEDIA offers you the chance to opt in to receive marketing information from other carefully selected organisations by email, telephone and/or SMS. INCISIVE MEDIA will only pass on these details if you opt in. INCISIVE MEDIA takes all measures possible to ensure that the contact you receive will be from reputable organisations. INCISIVE MEDIA however cannot accept any responsibility for use of the data once it has been passed on.
+**2\. INFORMATION WE MAY COLLECT FROM YOU**
 
-**(5)** INCISIVE MEDIA offers you the chance to opt out of receiving additional information from INCISIVE MEDIA and its associated companies by post. This includes all other products/services that INCISIVE MEDIA and its associated companies offer.
+We may collect and process the following data about you:
 
-**(6)** INCISIVE MEDIA offers you the chance to opt out of receiving marketing information from other carefully selected organisations by post. INCISIVE MEDIA takes all measures possible to ensure that the contact you receive will be from reputable organisations. INCISIVE MEDIA cannot however accept any responsibility for use of the data once it has been passed on.
+  * Information that you provide by filling in forms on our sites, and which may be amended from time to time (" **our sites** "). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through our site and of the fulfilment of your orders.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-**(7)** Aggregate statistical information gathered from INCISIVE MEDIA registration forms may be passed on to advertisers or others regarding sales or website usage. At no point will this include personal identifying information.
 
-**(8)** At all times a recipient of an INCISIVE MEDIA product and/or service will have the opportunity to amend their contact details and/or to opt in or out of any of the options listed above in points 3, 4, 5 and 6. You can also request, at any time, to have your personal details flagged on the INCISIVE MEDIA databases to ensure you do not continue to receive such information. We will not actually delete your record from the INCISIVE MEDIA databases as we would no longer be able to identify you, which could lead to you receiving information from us in the future. To action any of these requests please contact the relevant customer care department of the prod uct/service you subscribe to.
 
-**(9)** You have the right to be told what personal information we hold about you on our databases. You should write to Mr Sean Hayes, INCISIVE MEDIA, 32-34 Broadwick Street, London W1A 2HG. In your letter you must state your full name, your address and all publications and/or services from INCISIVE MEDIA to which you know you subscribe. A small administration charge of £5.00 will be made for fulfilling this request.
+**3\. IP ADDRESSES**
 
-**(10)** INCISIVE MEDIA may make anonymous use of information to help diagnose faults, manage the system and gather broad demographic information about our users in general. This information will be stripped of all details that could identify you personally. For example, we may use IP addresses to help fix performance problems with our server.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-**(11)** INCISIVE MEDIA uses all reasonable precautions to keep the personal information disclosed to it secure.
+**4\. COOKIES**
 
-**Information collected from site visitors**
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate. The cookies we use can be grouped into four separate categories:
 
-This statement discloses the privacy policy for the INCISIVE MEDIA network of sites, which encompasses the following URLs:
+  * Strictly necessary
+  * Performance
+  * Functionality
+  * Targeting
 
-http://www.accountancyage.com, http://www.accountancyagejobs.com, http://www.activehome.co.uk, http://www.computeractive.co.uk, http://www.computercontractor.co.uk, http://www.computing.co.uk, http://www.computingcareers.co.uk, http://www.financialdirector.co.uk, http://www.infomaticsonline.co.uk, http://www.itweek.co.uk, http://www.iwr.co.uk, www.theinquirer.net, http://www.managementconsultancy.co.uk, http://www.networknews.co.uk, http://www.pcmag.co.uk, http://www.pcw.co.uk, http://www.vnunet.com, http://www.vnuservices.co.uk, http://www.webactivemagazine.co.uk
 
-and subdomains of these websites.
 
-This statement does not extend to sites that are linked to INCISIVE MEDIA sites but which are not part of the INCISIVE MEDIA network. You should refer to those sites for further details about their use of your personal information.
+**Strictly Necessary**
 
-If you use an INCISIVE MEDIA website certain information is automatically collected so that delivery can be made of the service. Cookies may be stored on your machine by your browser. You can set your browser to disable cookies, but then you might find some website features will not work.
+'Strictly Necessary' cookies allow you to navigate the website and use essential features like secure areas and online registration. These cookies don't gather any information about you that could be used for marketing or remembering where you've been on the internet.
 
-When you request a page from the site's web server, the server automatically collects some information about your system, including your IP address. INCISIVE MEDIA collects the minimum information necessary to make the service work - this information is essential to send the pages back across the Internet to the right computer.
+Since these cookies are essential in our being able to guarantee the performance of our website, should you disable them we won’t be able to ensure your security or predict how our website will perform during your visit.
 
-INCISIVE MEDIA uses "WebTrends On Demand" to analyse traffic to the INCISIVE MEDIA site. WebTrends On Demand does not create individual profiles for visitors as WebTrends On Demand only collects aggregate data. _For more information about the WebTrends On Demand privacy policy,[ **click here**](https://ondemand.webtrends.com/privacypolicy.asp)_
+Examples of strictly necessary cookies that we use include the following:
 
-In the course of serving advertisements to INCISIVE MEDIA sites, a third party advertiser may place or recognise a unique cookie on your browser, but it will not collect any personally identifiable information about you. INCISIVE MEDIA does not have control over the collection of information for advertising purposes. _For more Information regarding DoubleClick's privacy policy please[ **click here**](http://www.doubleclick.com/us/about_doubleclick/privacy/) _
+    Incisive Cookies  
+        Kreatio_session  
+        logged_in
 
-INCISIVE MEDIA is not responsible for the content or the privacy policies of third party web sites linked to this site. From time to time, we use research companies who may use tags on INCISIVE MEDIA websites to enable branding or other types of research. This tag will drop cookies and invite users to complete a survey through a pop-up window. If you have questions please use the feedback email below.
+**Performance**
 
-**INCISIVE MEDIA reserves the right to change this privacy policy at any time by posting changes on this page. It is your responsibility to refer to this privacy policy on accessing this site. INCISIVE MEDIA will however draw your attention to any material changes to this privacy policy by placing a notice on the site.**
+This type of cookie collects information about how you use our website e.g. which pages you visit, and if you experience any errors. The information collected is anonymous and is only used to help us improve how our website works, gauge what interests our users and assess the effectiveness of advertising.
 
-If you have any general questions or wish to report a technical error, please visit [**Feedback**](https://web.archive.org/web/20120616204744id_/http%3A//static/aboutus).
+Examples of performance cookies include:
+
+    Incisive  
+        Kreatio_session
+
+    Jobsinrisk.com  
+        WebSite_LatestJobSearchPage  
+        WebSite_LatestJobSearchCount  
+        WebSite_LatestJobSearchItems  
+        WebSite_LatestJobSearchListingPage  
+        WebSite_LatestJobSearchPageSize  
+        WebSite_LatestJobSearchOrder  
+        WebSite_LatestJobSearchID  
+        WebSite_LatestSearchRecruiterID  
+        WebSite_LatestSearchFirstJobID
+
+**Functionality**
+
+This type of cookie remembers your preferences for tools found on our websites, so you don't have to re-set them each time you visit. Some of them are managed by third parties. They may for instance determine whether you see the latest or oldest comments made in relation to an article first. Examples include:
+
+    Incisive.grapeshot.co.uk  
+        uid
+
+    Thenewswall.co.uk  
+        __cfduid  
+        __utma  
+        __utmb  
+        __utmc  
+        __utmz  
+        __utmv
+
+**Targeting**
+
+These cookies are used to analyse what advertising might be most relevant to a user of the website based on the areas of the website that the user visits. Examples include:
+
+    T.mookie1.com  
+        id  
+        mdata  
+        OAX
+
+    YouTube  
+        VISITOR_INFO1_LIVE  
+        PREF  
+        use_hitbox
+
+    DoubleClick  
+        test_cookie  
+        id
+
+Please note that any advertisers featured on our site may also use cookies, over which we have no control.
+
+You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our sites.
+
+Your first visit to any of our sites will generate a pop-up header alerting you to this privacy policy and will re-appear only in the event that you change your cookie settings from time to time.
+
+  Please also note that by clicking on the distinctive Ad Choices logo that appears in our sites you can obtain further information as to how cookies can be used or restricted in tailoring advertising relevant to you.
+
+**5\. WHERE WE STORE YOUR PERSONAL DATA**
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA working for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+**6\. USES MADE OF THE INFORMATION**
+
+We use information held about you in the following ways:
+
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service.
+
+
+
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post, email or telephone.
+
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+
+If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box on the registration form or, alternatively, do not provide your consent to pass on those details when prompted.
+
+**7\. DISCLOSURE OF YOUR INFORMATION**
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Incisive Media or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.incisivemedia.com/static/terms-conditions "View our terms & conditions of use") and other agreements; or to protect the rights, property, or safety of Incisive Media, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+**8\. YOUR RIGHTS**
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by ticking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@incisivemedia.com](mailto:info@incisivemedia.com "Email info@fundcatalyst.com").
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+**9\. ACCESS TO INFORMATION**
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+**10\. CHANGES TO OUR PRIVACY POLICY**
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
+
+**11\. CONTACT**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@incisivemedia.com](mailto:info@incisivemedia.com "Email info@incisivemedia.com").
