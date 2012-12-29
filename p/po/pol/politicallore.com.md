@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politicallore.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627080338id_/http%3A//www.politicallore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicallore.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229230258id_/http%3A//www.politicallore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Political Lore .com
 
