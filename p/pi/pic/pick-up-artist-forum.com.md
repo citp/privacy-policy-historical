@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pick-up-artist-forum.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504044753id_/http%3A//www.pick-up-artist-forum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pick-up-artist-forum.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229034445id_/http%3A//www.pick-up-artist-forum.com/privacy.php) for the most accurate reproduction.*
 
-# #1 PUA Forum :: Pick Up Artist Mastery
+# #1 PUA Forum - Become The Ultimate Pick Up Artist
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -12,8 +12,6 @@ We may collect, store and use the following kinds of personal data:
 
 (b) information that you provide to us for the purpose of registering with us.
 
-## Cookies
-
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
 
 We may use both "session" cookies and "persistent" cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
@@ -23,8 +21,6 @@ We use Google Analytics to analyse the use of this website. Google Analytics gen
 Our advertisers/payment services providers may also send you cookies.
 
 Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.) This will, however, have a negative impact upon the usability of many websites including this one.
-
-## Using your personal data
 
 Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
