@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erlibird.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605014110id_/http%3A//www.erlibird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erlibird.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229045425id_/http%3A//www.erlibird.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Erli Bird
 
@@ -10,15 +10,21 @@ We respect your right to privacy and will not give your personal information to 
 
 ### Communication Through Email
 
-If you don't want to hear from us, please opt-out from our emails on the bottom of the email. If for some reason this does not work, please email us at team@erlibird.com and we will promptly remove you from our list.
+We allow you to get on our email list by providing your email address or using our join/login system to login with various third-party credentials.
 
-We will send one or two emails a week related to new startups that we feature.
+If you don't want to hear from us, please opt-out from our emails on the bottom of the email. If for some reason this does not work or you would rather contact us directly, please email us at team@erlibird.com and we will promptly remove you from our list.
+
+By default, we will send you approximately one email a week related to new startups and products that we feature.
+
+Users that have requested access to Erli Bird but have not yet been granted access will not be sent recurring weekly emails.
 
 We may send you service announcements or notifications.
 
 ### When Your Information is Shared
 
 As important function of Erli Bird is to allow users to locate startups and communicate with founders. As such, an integral part of the service is facilitating communication by sharing the information that you make available through your profile (either directly, or by logging in through a social networking service). If you sign up and "Claim Your Spot" for a Startup incentive, you grant us the right to share your personal information with the Startup. This helps facilitate delivery of the incentive and communication between you and the startup founders. Startups must agree not to abuse your personal information prior to being listed on Erli Bird.
+
+We use a third-party login system from Janrain called Engage in order to allow you to login using your credentials from various popular third party websites. As the provider of these systems, your login and social profile data is first accessed and processed by Janrain and then sent to Erli Bird.
 
 We may provide your information to third parties in certain situations:
 
@@ -41,7 +47,7 @@ We automatically collect certain information as you browse the Website. We colle
 
 Erli Bird works with certain third party software providers in order to provide the Website, and sections of the Website may include code or scripts from third parties. These third party software providers may have access to certain personal information collected through the Website. Google is used to provide analytics data to Erli Bird, and both Google and Erli Bird will have access to your anonymous traffic data.
 
-Our Website, email systems, and advertisements make use of "cookies" and related technologies such as web beacons. "Cookies" are small files that are stored on your local hard drive that allow the Website to operate and help us improve the service. For example, we use cookies to allow users to log in and log out of Erli Bird and maintain data associated with each user session. We also use cookies to collect and track information about how you use our site, including what pages you visit, how long you stay on each page, and your navigation patterns. We use web beacons in email and advertisements to help us measure the effectiveness of our communications, prevent spam and fraud, and track whether or not a certain email has been opened.
+Our Website, email systems, and advertisements make use of "cookies" and related technologies such as web beacons. "Cookies" are small files that are stored on your local hard drive that allow the Website to operate and help us improve the service. For example, we use cookies to allow users to log in and log out of Erli Bird and maintain data associated with each user session. We also use cookies to collect and track information about how you use our site, including what pages you visit, how long you stay on each page, and your navigation patterns. We use web beacons in email and advertisements to help us measure the effectiveness of our communications, prevent spam and fraud, and track whether or not a certain email has been opened. Long term persistent cookies are used to allow users to revisit our website without logging in every time.
 
 When you login to our site using Facebook or otherwise link your account with Facebook or another social networking service, you permit Erli Bird to access, collect, and indefintely store and use the information made available to us through the social networking site related to your account and/or your friends accounts. The information you allow Erli Bird to access is dependent on your privacy settings at the applicable third party site and made available to Erli Bird upon clicking "accept", "allow" or other similar term.
 
