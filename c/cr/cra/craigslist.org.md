@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craigslist.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102154429id_/http%3A//www.craigslist.org/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craigslist.org privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229204036id_/http%3A//www.craigslist.org/about/privacy_policy) for the most accurate reproduction.*
 
 # craigslist | about > privacy policy
 
@@ -16,7 +16,7 @@ craigslist has established this privacy policy to explain to you how your inform
   * We don't engage in cross-marketing or link-referral programs with other sites. 
   * We don't employ tracking devices for marketing purposes ("cookies", "web beacons," single-pixel gifs). 
   * We don't send you unsolicited communications for marketing purposes. 
-  * We offer [ email anonymization & relay](https://web.archive.org/web/20111102154429id_/http%3A//www.craigslist.org/about/anonymize), to reduce 3rd party harvesting & spam. 
+  * We offer [ email anonymization & relay](https://web.archive.org/web/20121229204036id_/http%3A//www.craigslist.org/about/anonymize), to reduce 3rd party harvesting & spam. 
   * Account information is password-protected. Keep your password safe. 
   * Forums use basic webserver authentication. Close your browser to log out. 
   * craigslist does not knowingly collect any information from persons under the age of 13. If craigslist learns that a posting is by a person under the age of 13, craigslist will remove that post. 
@@ -51,7 +51,7 @@ Search engines and other sites not affiliated with craigslist - including [archi
 #### 5\. Circumstances in which craigslist may release information
 
   * Craigslist may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. 
-  * Craigslist may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/web/20111102154429id_/http%3A//www.craigslist.org/about/terms.of.use); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of craigslist, its users or the general public. 
+  * Craigslist may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/web/20121229204036id_/http%3A//www.craigslist.org/about/terms.of.use); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of craigslist, its users or the general public. 
 
 
 
@@ -63,10 +63,7 @@ By visiting our web site and providing us with data, you acknowledge and agree t
 
 We welcome your feedback on this document in our [feedback forum](http://sfbay.craigslist.org/forums/?forumID=8).
 
-  
-
-
 * * *
 
-Still have questions? try our [help desk](http://forums.craigslist.org/?forumID=9) discussion forum or [send us a note](https://web.archive.org/cgi-bin/emailForm.cgi).  
+Still have questions? try our help desk discussion forum. [[?]](https://forums.craigslist.org/?forumID=9) [You can also send us a note.](http://www.craigslist.org/feedback)  
 
