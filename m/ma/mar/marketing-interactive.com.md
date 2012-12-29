@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501192956id_/http%3A//www.marketing-interactive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229085816id_/http%3A//www.marketing-interactive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Market-interactive.com
 
@@ -8,15 +8,14 @@ Sometimes third parties, called third-party ad servers or ad networks, deliver a
 
 Please be assured that we take your concerns about privacy quite seriously, and we intend to take every reasonable effort to protect it. To that end, Lighthouse Independent Media has developed a comprehensive privacy policy. If you'd like more information about our use of customer data, please review Lighthouse Independent Media Customer Privacy Policy Statement below.
 
-Questions or comments can be sent to Justin Randles.
+Questions or comments can be sent to [Justin Randles](mailto:jr@marketing-interactive.com).
 
-After you've read the policy, click your back button to return to Marketing Interactive.
+If you prefer not to receive relevant business information from companies outside Lighthouse Independent Media, you may contact our circulations department at [subscriptions@marketing-interactive.com](mailto:subscriptions@marketing-interactive.com).                  
 
-If you prefer not to receive relevant business information from companies outside Lighthouse Independent Media, please send us the Opt Out Email.
+Thank you.  
+ 
 
-Thanks
-
-Lighthouse Independent Media' Customer Privacy Policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our customers. The Policy guides how we collect, store and use information about customers and prospects, and it will be periodically assessed against new technologies, business practices and our customers' changing needs.
+Lighthouse Independent Media's Customer Privacy Policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our customers. The Policy guides how we collect, store and use information about customers and prospects, and it will be periodically assessed against new technologies, business practices and our customers' changing needs.
 
 Lighthouse Independent Media may, from time to time, modify this Customer Privacy Policy to reflect legal, technological and other developments. In that event, the changes will appear at this location.
 
@@ -24,7 +23,8 @@ Please note that privacy notices advising customers and prospects as to the spec
 
 Lighthouse Independent Media will also comply with applicable non-Singapore laws that impose additional responsibilities on Lighthouse Independent Media beyond those stated in this Policy in connection with the treatment of Personally-Identifiable Information about its customers and prospects.
 
-Our Policy recognises two kinds of personal data that deserve varying levels of protection. **Personally-Identifiable Information** includes, for example, e-mail addresses, billing information, employment status and "click stream" data that tracks user activity on a Web site or online service. A subset of that category, **Sensitive Data** , deserves additional safeguards. Sensitive Data includes, by way of example, Social Security numbers, personal financial data (such as specific salary, net worth or individual portfolio information) and information about specific medical conditions.   
+Our Policy recognises two kinds of personal data that deserve varying levels of protection. **Personally-Identifiable Information** includes, for example, e-mail addresses, billing information, employment status and "click stream" data that tracks user activity on a Web site or online service. A subset of that category, **Sensitive Data** , deserves additional safeguards. Sensitive Data includes, by way of example, Social Security numbers, personal financial data (such as specific salary, net worth or individual portfolio information) and information about specific medical conditions. 
+
 Lighthouse Independent Media is committed to using all reasonable efforts to abide by the following Policy statement:
 
   1. Collection. Personally-Identifiable Information will only be collected to the extent that Lighthouse Independent Media deems reasonably necessary to serve a legitimate business purpose. Please be aware that if you disclose Personally-Identifiable Information on Web site message boards or chat areas, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond the control of Lighthouse Independent Media. 
