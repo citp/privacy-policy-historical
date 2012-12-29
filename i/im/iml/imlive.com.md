@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imlive.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629013441id_/http%3A//imlive.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imlive.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229080118id_/http%3A//imlive.com/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Live Video Chat at ImLive
 
