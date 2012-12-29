@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the xfinity.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629050121id_/http%3A//xfinity.comcast.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfinity.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229213208id_/http%3A//xfinity.comcast.net/privacy) for the most accurate reproduction.*
 
 # XFINITY Privacy Policy
 
-**Effective April 3, 2012[Learn More](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)**
-
- _Note about the mobile version of Comcast.net_ : Our mobile site, [http://m.comcast.net](http://m.comcast.net/), may contain advertising provided by Google.  
-Google collects and uses information pursuant to its own privacy policy, available here:  
-<http://www.google.com/intl/en/policies/privacy/>
-
-More information about opting out of Google's information collection and use practices is available here:  
-<https://www.google.com/settings/ads/onweb/>
+**Effective March 1, 2012[Learn More](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)**
 
 ## Summary (Jump to Full Policy)
 
@@ -316,4 +309,4 @@ You can direct questions regarding this Privacy Policy to Comcast by e-mailing u
 
 You can find customer support and help information at <http://customer.comcast.com/Pages/Help.aspx>. Some online support areas and tools may ask you to provide information to Comcast to help us address your questions or problems. We may also make software tools available to help configure your computer's or network's settings, or collect information from your computer or network to help us provide support to you. If you choose to provide this information to Comcast or use these tools, we will use the information only for customer support purposes.
 
-Revised and Effective: April 3, 2012
+Revised and Effective: March 1, 2012
