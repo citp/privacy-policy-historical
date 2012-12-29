@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tessco.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511095437id_/http%3A//www.tessco.com/yts/site_policy/policy/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tessco.com privacy policy that was archived on 2012-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121229235213id_/http%3A//www.tessco.com/yts/site_policy/policy/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Statement - TESSCO.com</title>
@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="/css/tcom_frame.css" type="text/css">
 <link rel="stylesheet" href="/css/tcom_corporate.css" type="text/css">
 <link rel="stylesheet" media="only screen and (max-device-width: 1024px)" href="/css/tcom_ipad.css" type="text/css">
-<script type="text/javascript" src="/scriptlibrary/jquery.js"></script> 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scriptlibrary/jquery.js"></script> 
 <script type="text/javascript" src="/scriptlibrary/jqueryslidemenu.js"></script> 
 </head>
 
@@ -19,7 +19,7 @@
       </form>
     <div id="masthead">
      <div class="header_login">
-         <iframe src="/logoniframe.do" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+         <iframe id="mastFrame" src="/logoniframe.do" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
      </div>        <!--
         <ul>          
           <li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=85842&p=irol-irhome" rel="nofollow">INVESTORS</a></li>
@@ -119,6 +119,8 @@
   </tr>
 </tbody></table>      
 
+<script language="JavaScript" src="/scriptlibrary/jquery.placeholder.js" type="text/javascript"></script>
+
 <div id="logonPopup">
     <span id="logTitle">Login</span>
     <span id="logDesc">&nbsp;</span>
@@ -183,54 +185,10 @@
       } else  {
          return true;
       }
-    }
-
-    jqLogon('#lpEmail').keypress(function(event) {
-        submitOnEnter(event);
-    }); // end of function    
-    
-    jqLogon('#lpPW').keypress(function(event) {
-        submitOnEnter(event);
-    }); // end of function    
-    
-    function sendPW() {
-        sendEmail( document.getElementById( 'lpForm' ) );
-    }
-    
-    jqLogon( '#lCloseLink' ).click( function() {
-        jqLogon( "#logonPopup" ).slideToggle( 'fast', function(){ 
-            //animation complete
-        });
-        
-        jqLogon( '#mastFrame' ).contents().find( '#iLogIcon' ).attr( 'src', '/images/close.gif' );
-    });
-    
-    jqLogon('#lpEmail').focus(function(){
-        if(jqLogon(this).val() == "User ID"){
-            jqLogon(this).val('');
-        }
-    });
-    
-    jqLogon('#lpPW').focus(function(){
-        if(jqLogon(this).val() == "Password"){
-            jqLogon(this).val('');
-        }
-    });
-
-    jqLogon("#lpEmail").blur(function(){
-        if( jqLogon(this).val() == "" ){
-            jqLogon(this).val('User ID');
-        }
-    });
-    
-    jqLogon("#lpPW").blur(function(){
-        if( jqLogon(this).val() == "" ){
-            jqLogon(this).val('Password');
-        }
-    });
-
-    
+    }    
 </script>
+
+<script language="JavaScript" src="/scriptlibrary/logon-helper.js" type="text/javascript"></script> 
 
       <div id="footerlinks_reskin"></div> 
       <div id="workSpace"></div>
@@ -336,13 +294,14 @@
 <script language="JavaScript" src="/scriptlibrary/tip_centerwindow.js"></script>
 
 <!-- START OF WebTrends SmartSource Data Collector TAG Version: 8.6.2-->
+<!--
 <script src="/scriptlibrary/webtrends.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 var _tag=new WebTrends();
 _tag.dcsGetId();
 //]]>>
-</script><script type="text/javascript" src="https://statse.webtrendslive.com/dcsh9w29g10000ctyjdn62xuv_3t4t/wtid.js"></script>
+</script>
 <script type="text/javascript">
 //<![CDATA[
 _tag.dcsCollect();
@@ -351,23 +310,28 @@ _tag.dcsCollect();
 <noscript>
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsh9w29g10000ctyjdn62xuv_3t4t/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
 </noscript>
+-->
 <!-- END OF SmartSource Data Collector TAG -->
 
 <!-- LD 998 -->
 
 <script type="text/javascript">
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  var _gaq = [];
+  _gaq.push(['_setAccount', 'UA-4337606-1']);
+  _gaq.push(['_trackPageview']);
 
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+  
+</script>
 
+<script language="JavaScript" src="/scriptlibrary/cookieutils.js"></script>
+<script language="JavaScript" src="/scriptlibrary/register_logon_ga.js"></script>
 <script type="text/javascript">
-
-var pageTracker = _gat._getTracker("UA-4337606-1"); 
-pageTracker._initData(); 
-pageTracker._trackPageview(); 
-
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 
 <!-- SilverPop tracking javascript --> 
