@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsof.net privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526113014id_/http%3A//mapsof.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsof.net privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229143723id_/http%3A//mapsof.net/privacy) for the most accurate reproduction.*
 
 # Site Privacy Policy - Mapsof.net
 
