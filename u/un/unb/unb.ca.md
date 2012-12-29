@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523161659id_/http%3A//www.unb.ca/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unb.ca privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229142235id_/http%3A//www.unb.ca/privacy/index.html) for the most accurate reproduction.*
 
 # UNB | Privacy
 
@@ -22,4 +22,4 @@ Our [myUNB](http://my.unb.ca/ "My.UNB") section uses cookies, small pieces of 
 
 ## Want to know more?
 
-For more information, or if you have questions or concerns regarding privacy or management of personal information at UNB, you can visit the [Protection of Personal Information and Privacy @ UNB](https://web.archive.org/web/20120523161659id_/http%3A//www.unb.ca/privacy/pim/index.html) website, consult the [Policy for the Protection of Personal Information and Privacy (.pdf)](https://web.archive.org/web/20120523161659id_/http%3A//www.unb.ca/privacy/pim/pppip.pdf) or contact the [University Secretariat](http://www.unb.ca/secretariat "University Secretariat").
+For more information, or if you have questions or concerns regarding privacy or management of personal information at UNB, you can visit the [Right to Information and Protection of Privacy website](http://www.unb.ca/secretariat/rtippa/index.html).
