@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fivebooks.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505031617id_/http%3A//thebrowser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivebooks.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182327id_/http%3A//m.thebrowser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Browser
+
+## Privacy Policy
 
 (last update: Feb 2012)
 
@@ -22,6 +24,8 @@ Please note: If at any time you would like to unsubscribe from receiving future 
 **The people that are given access to this information**
 
 Your personal information is accessible by server administrator, and by our marketing department.
+
+Your nickname may be displayed in non-protected contexts on the site, and will be visible if you choose to share your reading list with others. 
 
 **The security measures we have in place to protect your personal information**
 
