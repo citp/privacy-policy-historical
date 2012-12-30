@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the buffalobills.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625000923id_/http%3A//www.buffalobills.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalobills.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183500id_/http%3A//www.buffalobills.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Buffalo Bills
 
 ## Buffalo Bills Team Privacy Policy
-
-(UPDATED 09/29/01)
 
 This privacy policy is applicable to the Website[s] accessible at buffalobills.com, which is operated pursuant to a strategic relationship between Buffalo Bills Inc. and Sportvision Inc. The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
@@ -12,7 +10,7 @@ This privacy policy is applicable to the Website[s] accessible at buffalobills.c
 
 The following are the types of information we may collect:
 
- **Information You Provide Us**
+**Information You Provide Us**
      Personal information that you provide to us, such as your user ID and password, name, email address, telephone number, physical address, birth date, gender or zip code or other information may be collected via the Site.
      
  **Site Usage Information**
@@ -28,7 +26,7 @@ The following are the types of information we may collect:
 
 We may collect information from you in several different areas on the Site, including but not limited to those described below:
 
- **Registration**
+**Registration**
      You may be asked first to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Site may choose to offer, including, but not limited to, Newsletters, Contests, Forums, Fantasy or other subscription-based services.
      
  **Newsletters and Site Emails**
@@ -38,7 +36,7 @@ We may collect information from you in several different areas on the Site, incl
      We may operate contests and sweepstakes through the Site which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. We may ask your permission to allow us to post publicly some of your information on the Site, such as on a winners page, in the event you win a contest or sweepstakes. We will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating.
      
  **Surveys or Voting**
-     From time-to-time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey. 
+     From time-to-time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.
      
  **Cookies**
      As with many Websites, the Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Site. Cookies may also allow the Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you have disabled the use of cookies.
@@ -69,25 +67,25 @@ Each of the PROVIDERS own the information collected via this Site. As applicable
 
 At times, we may share your personally identifiable information with others for various purposes. The following outlines the ways in which your information may be shared with others:
 
->  **To Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, r removing repetitive information from customer lists, Site analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These entities have access to personally identifiable information needed to perform their functions, but may not use it for other purposes.
+> **To Agents:** We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, r removing repetitive information from customer lists, Site analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These entities have access to personally identifiable information needed to perform their functions, but may not use it for other purposes.
 > 
->  **To Promotional Offers:** We may send offers by email to you on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out in response to the email, or change your preferences by visiting [Insert link to URL where preferences can be changed].
+> **To Promotional Offers:** We may send offers by email to you on behalf of other partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may opt out in response to the email, or change your preferences by visiting [Insert link to URL where preferences can be changed].
 > 
->  **To Aggregate Information:** We may share aggregate information such as demographics and Site usage statistics with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
+> **To Aggregate Information:** We may share aggregate information such as demographics and Site usage statistics with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information.
 > 
->  **To Opt-in and Opt-out Programs:** Throughout the Site you may be presented with opportunities to receive special offers from third parties. An opt-in/opt-out message will ask you if you would like your information to be shared. If you do choose to have your information shared, in an effort to protect you, third parties who have access to personally identifiable information must abide by the current Site privacy policy. However, we are not responsible for the privacy practices of these other companies, and you should review the privacy practices of such Web sites prior to providing your personally identifiable information.
+> **To Opt-in and Opt-out Programs:** Throughout the Site you may be presented with opportunities to receive special offers from third parties. An opt-in/opt-out message will ask you if you would like your information to be shared. If you do choose to have your information shared, in an effort to protect you, third parties who have access to personally identifiable information must abide by the current Site privacy policy. However, we are not responsible for the privacy practices of these other companies, and you should review the privacy practices of such Web sites prior to providing your personally identifiable information.
 > 
->  **To Third-Party Ad Serving:** The Site may use a third party network advertiser to serve the advertisements on the Site. Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited. Third-party ad serving enables us to target advertisements to you for products or Web sites you might be interested in. Although advertisers or other companies do not have access to the Site cookies, the Site's advertisers and sponsors may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one. Please [click here](http://www.networkadvertising.org/optout_nonppii.asp) in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use.
+> **To Third-Party Ad Serving:** The Site may use a third party network advertiser to serve the advertisements on the Site. Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited. Third-party ad serving enables us to target advertisements to you for products or Web sites you might be interested in. Although advertisers or other companies do not have access to the Site cookies, the Site's advertisers and sponsors may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one. Please [click here](http://www.networkadvertising.org/optout_nonppii.asp) in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use.
 > 
->  **Partners Subsidiaries and Affiliates:** We may share your information (including, without limitation, personally identifiable information) with subsidiaries and affiliates of PROVIDERS.
+> **Partners Subsidiaries and Affiliates:** We may share your information (including, without limitation, personally identifiable information) with subsidiaries and affiliates of PROVIDERS.
 > 
->  **Business Transfers:** The Site or a PROVIDER may be sold along with its assets, or other transactions may occur in which your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets we transfer.
+> **Business Transfers:** The Site or a PROVIDER may be sold along with its assets, or other transactions may occur in which your personally identifiable information is one of the business assets transferred. In such a case, your personally identifiable information, which we have gathered, may be one of the business assets we transfer.
 > 
->  **Legal Process:** In the event we are required to respond to subpoenas, court orders or other legal process your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you.
+> **Legal Process:** In the event we are required to respond to subpoenas, court orders or other legal process your personally identifiable information may be disclosed pursuant to such subpoena, court order or legal process, which may be without notice to you.
 > 
->  **Chat Rooms, Forums, and Message Boards:** The Site may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. The PROVIDERS cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
+> **Chat Rooms, Forums, and Message Boards:** The Site may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. The PROVIDERS cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
 > 
->  **Links to Other Web Sites:** This privacy policy applies only to this Site. When you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and others that may use the Site's logo as part of a cobranding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information.
+> **Links to Other Web Sites:** This privacy policy applies only to this Site. When you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and others that may use the Site's logo as part of a cobranding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information.
 
 ### SECURITY
 
@@ -103,4 +101,10 @@ By using this Site, you signify your agreement to the terms of this privacy poli
 
 ### CORRECTION/UPDATING PERSONAL INFORMATION
 
-If your personally identifiable information (such as your address) changes, or if you no longer desire to access our Site, you may correct, update or remove the personal data you have provided to us by making changes to your profile, by using an opt out message in an email, or by emailing member Sites at [webmaster@bills.nfl.com](mailto:webmaster@bills.nfl.com) with your request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact the Bills Internet Services Department at (716) 648-1800.
+If your personally identifiable information (such as your address) changes, or if you no longer desire to access our Site, you may correct, update or remove the personal data you have provided to us by making changes to your profile, by using an opt out message in an email, or by emailing member Sites at [billsbackers@bills.nfl.com](mailto:billsbackers@bills.nfl.com) with your request. If you have any questions about this privacy policy or the privacy practices of this Site, you can contact the Bills Internet Services Department at (716) 648-1800.
+
+### BILLS TEXT ALERTS
+
+Terms & Conditions of Bills Text Alerts, Powered by Verizon Wireless:  
+To opt in, text BILLS to 64621  
+Get up to the minute news and team alerts sent directly to your phone! You will be opted in to receive up to 5 messages per day. Msg&data rates may apply, Text HELP for help. Text STOP to cancel. Contact the guest service department at 1-877-BB-TICKS with issues. [Privacy Policy](http://www.buffalobills.com/about-us/privacy-policy.html)
