@@ -1,23 +1,22 @@
-> *The following text is extracted and transformed from the swordofthenewworld.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527153113id_/http%3A//www.gamersfirst.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swordofthenewworld.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185802id_/http%3A//www.gamersfirst.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
 
 # GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Fantasy MMO, Online FPS, Adventure, Shooting & Strategy Games Online
 
-  
-**K2 Network Online Privacy Policy**
+**Reloaded Games Online Privacy Policy**
 
-Last updated January 11, 2011 
+Last updated June 22, 2012 
 
-Welcome to K2 Network!
+Welcome to Reloaded Games!
 
 **Our Privacy Commitment**
 
-[](https://www.esrb.org/confirm/K2-confirmation.jsp)K2 Network, and its subsidiaries and affiliates (collectively, “K2 Network”) respect the privacy rights of our online visitors and recognize the importance of protecting all information that you may choose to share with us.  To further this commitment, we adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us.
+[](https://www.esrb.org/confirm/reloaded-confirmation.jsp)Reloaded Games, and its subsidiaries and affiliates (collectively, “Reloaded Games”) respect the privacy rights of our online visitors and recognize the importance of protecting all information that you may choose to share with us.  To further this commitment, we adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us.
 
 **ESRB’s Privacy Program**
 
-This certification seal shown on this page confirms that K2 Network is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms. 
+This certification seal shown on this page confirms that Reloaded Games is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms. 
 
-K2 Network adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection that went into effect in October 1998. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://www.export.gov/safeharbor/>.
+Reloaded Games adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection that went into effect in October 1998. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website at <http://www.export.gov/safeharbor/>.
 
 **TABLE OF CONTENTS**  
 ---  
@@ -34,11 +33,11 @@ What types of information do we collect about kids?
   
 **What information does this Privacy Statement cover?**
 
-This Privacy Policy applies only to personal information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by K2 Network through any other means.
+This Privacy Policy applies only to personal information collected on the websites where this Privacy Policy is posted, and does not apply to any other information collected by Reloaded Games through any other means.
 
 This Privacy Policy applies to the collection, use, and sharing of personal information collected as of the date that this Privacy Policy is posted.
 
-This Privacy Policy applies only to information submitted and collected online, and does not apply to information that may be collected by K2 Network offline.  This Privacy Policy applies only to websites maintained by K2 Network, and not to our international affiliates, or any websites maintained by other entities to which we link.  K2 Network is therefore not responsible for the content or activities provided on those websites.
+This Privacy Policy applies only to information submitted and collected online, and does not apply to information that may be collected by Reloaded Games offline.  This Privacy Policy applies only to websites maintained by Reloaded Games, and not to our international affiliates, or any websites maintained by other entities to which we link.  Reloaded Games is therefore not responsible for the content or activities provided on those websites.
 
 Finally, the terms of this Privacy Policy are subject to all applicable laws.
 
@@ -98,7 +97,7 @@ back to top
 
 Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives. 
 
-**K2 ACTIVITES AND UPDATES**
+**RELOADED GAMES ACTIVITES AND UPDATES**
 
 We use the personal information we collect to:
 
@@ -111,7 +110,7 @@ We use the personal information we collect to:
   
 We don’t share your personal information (e.g., e-mail address) with unaffiliated third parties to use for their direct marketing purposes.
 
-We will be sharing some of your personal information about you that you provide when registering for LaMB games with SPE Networks – Asia Pte. Ltd. (“SPE”) for their marketing and promotional purposes if you have opted-in. Use and disclosure of your personal information by SPE will be governed by SPE’s privacy policy (<http://www.animax-asia.com/privacy-policy>) and will not be governed by K2’s privacy policy." 
+We will be sharing some of your personal information about you that you provide when registering for LaMB games with SPE Networks – Asia Pte. Ltd. (“SPE”) for their marketing and promotional purposes if you have opted-in. Use and disclosure of your personal information by SPE will be governed by SPE’s privacy policy (<http://www.animax-asia.com/privacy-policy>) and will not be governed by Reloaded Games’s privacy policy." 
 
 **E-CARDS**
 
@@ -151,15 +150,15 @@ If you signed up to receive newsletters or other emails from us, you can opt-out
 
 Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.  We do not share our customer’s personal information with unaffiliated third parties for their own direct marketing purposes. 
 
-For inquires regarding our disclosure policy, please send us an e-mail to [privacy@k2network.net](mailto:privacy@k2network.net) or write us: 
+For inquires regarding our disclosure policy, please send us an e-mail to [privacy@gamersfirst.com](mailto:privacy@gamersfirst.com) or write us: 
 
-K2 Network, Inc.  
+Reloaded Games, Inc.  
 ---  
 Attn.: Privacy Policy Administrator  
 14252 Culver Dr #A355  
 Irvine, CA 92604  
 1-888-225-3448  
-[privacy@k2network.net](mailto:privacy@k2network.net)  
+[privacy@gamersfirst.com](mailto:privacy@gamersfirst.com)  
   
 back to top
 
@@ -173,9 +172,9 @@ back to top
 
 **How can you update your personal information and profile?**
 
-You may update or delete your personal information or modify your account preferences by accessing the “My Account” area of our website.  If you wish to delete your e-mail address from our system, your account will also need to be deleted.  You may also contact us directly with questions about your account at [privacy@k2network.net](mailto:privacy@k2network.net).
+You may update or delete your personal information or modify your account preferences by accessing the “My Account” area of our website.  If you wish to delete your e-mail address from our system, your account will also need to be deleted.  You may also contact us directly with questions about your account at [privacy@gamersfirst.com](mailto:privacy@gamersfirst.com).
 
-**For our Merchant Center and Affiliate Center, we may also have additional confirmatory requirements for changing your information.   More information regarding these two parts of our business can be found in the **[Merchant Center Terms of Service ](https://merchants.gamersfirst.com/Legal/Terms) **and the K2 Network Affiliate Terms and Conditions.**
+**For our Merchant Center and Affiliate Center, we may also have additional confirmatory requirements for changing your information.   More information regarding these two parts of our business can be found in the **[Merchant Center Terms of Service ](https://merchants.gamersfirst.com/Legal/Terms) **and the Reloaded Games Affiliate Terms and Conditions.**
 
 back to top
 
@@ -183,17 +182,17 @@ back to top
 
 If you have questions or wish to send us comments about this Privacy Policy, please e-mail or contact us at:
 
-K2 Network, Inc.  
+Reloaded Games, Inc.  
 ---  
 Attn.: Privacy Policy Administrator  
 14252 Culver Dr #A355  
 Irvine, CA 92604  
 1-888-225-3448  
-[privacy@k2network.net](mailto:privacy@k2network.net)  
+[privacy@gamersfirst.com](mailto:privacy@gamersfirst.com)  
   
 Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-K2 Network is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not properly responded to your inquiry, please contact ESRB at:
+Reloaded Games is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not properly responded to your inquiry, please contact ESRB at:
 
 ESRB Privacy Online  
 ---  
@@ -208,23 +207,24 @@ back to top
 
 We may amend this Privacy Policy at any time.  If we make any material changes in how we collect, use, or share your personal information, we will prominently post notice of the changes on the websites covered by this Privacy Policy.  Any material changes to this Privacy Policy will be effective 30 days following our posting of notice of the changes on the websites covered by this Privacy Policy.
 
-back to top
+back to top  
 
-**K2 Network’s Kids Privacy Policy**
+
+**Reloaded Games’s Kids Privacy Policy**
 
 Last updated January 15, 2010
 
-K2 Network has developed its websites with the goal of creating an enjoyable experience for all users.  This Kids Privacy Policy is designed to answer your questions regarding our privacy policies concerning children under the age of 13.
+Reloaded Games has developed its websites with the goal of creating an enjoyable experience for all users.  This Kids Privacy Policy is designed to answer your questions regarding our privacy policies concerning children under the age of 13.
 
 Building on our general Privacy Policy, we recognize the need to provide additional privacy protections when children visit sites on which we post this Kids Privacy Policy.  We explain those additional protections in this Kids Privacy Policy. 
 
 The Children's Online Privacy Protection Act (“COPPA”) requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from kids under 13 years of age.  COPPA also requires us to obtain the consent of parents and guardians for children under 13 years of age to use certain features of our Web sites.  Below we explain how we do that for kids.  Also, when we use the term “parent” below, we mean to include legal guardians. 
 
-This certification seal shown on this page confirms that K2 Network is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms.
+This certification seal shown on this page confirms that Reloaded Games is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms.
 
 **What types of information do we collect about kids?**
 
-Kids can surf K2 Network’s sites, view content, and enjoy many features without having to disclose any personal information.  We don’t collect personal information from kids while they use our sites unless they register on K2 Network’s sites’ Official Forums. 
+Kids can surf Reloaded Games’s sites, view content, and enjoy many features without having to disclose any personal information.  We don’t collect personal information from kids while they use our sites unless they register on Reloaded Games’s sites’ Official Forums. 
 
 For those who choose to register and participate in certain areas of our website, we collect personal information directly from kids to: 
 
@@ -243,7 +243,7 @@ Typically, this information includes:
 4.  | shipping and billing address, and  
 5.  | for those purchasing products online, credit card information.  
   
-We may collect demographic information (e.g., date of birth, gender, and game preferences) and combine it with the child’s personal information.  K2 Network will only collect this information if it is voluntarily and properly submitted to us by either the child or parent. 
+We may collect demographic information (e.g., date of birth, gender, and game preferences) and combine it with the child’s personal information.  Reloaded Games will only collect this information if it is voluntarily and properly submitted to us by either the child or parent. 
 
 Note that all commercial sites directed to children under 13 are prohibited by U.S. law from conditioning a kid’s participation in an online activity on the kid's providing more personal information than is reasonably necessary. 
 
@@ -259,7 +259,7 @@ If a parent allows us to collect personal information about their kid, we may li
 
 We may use the information that we collect from and about kids for our business purposes, including record-keeping, transaction fulfillment, and marketing.  The contact information gathered from a kid is used to obtain consent to our information collection from their parents. 
 
-_K2 Network may share kids’ personal information with outside entities hired to assist with internal website support operations (e.g., online product fulfillment, email services, or technical support).   These entities have agreed to maintain confidentiality, security, and integrity of all the personal information they obtain from us_.
+_Reloaded Games may share kids’ personal information with outside entities hired to assist with internal website support operations (e.g., online product fulfillment, email services, or technical support).   These entities have agreed to maintain confidentiality, security, and integrity of all the personal information they obtain from us_.
 
 We do not share any information about a child with any third parties unless the disclosure is reasonably necessary to: 
 
@@ -275,13 +275,13 @@ back to top
 
 At any time, a parent can contact our customer service department to access, change, or delete personal information we collected from his or her child by contacting us at: 
 
-K2 Network, Inc.  
+Reloaded Games, Inc.  
 ---  
 Attn.: Privacy Policy Administrator  
 14252 Culver Dr. #A355  
 Irvine, CA 92604  
 1-888-225-3448  
-[privacy@k2network.net](mailto:privacy@k2network.net)  
+[privacy@gamersfirst.com](mailto:privacy@gamersfirst.com)  
   
 Our representatives will take reasonable steps to verify your identity before disclosing your child’s information. 
 
@@ -305,17 +305,17 @@ back to top
 
 If you have questions or wish to send us comments about this Privacy Policy, please e-mail or contact us at:
 
-K2 Network, Inc.  
+Reloaded Games, Inc.  
 ---  
 Attn.: Privacy Policy Administrator  
 14252 Culver Dr. #A355  
 Irvine, CA 92604  
 1-888-225-3448  
-[privacy@k2network.net](mailto:privacy@k2network.net)  
+[privacy@gamersfirst.com](mailto:privacy@gamersfirst.com)  
   
 Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-K2 Network is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not properly responded to your inquiry, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>:
+Reloaded Games is a licensee of the ESRB’s Privacy Online Program.  If you believe that we have not properly responded to your inquiry, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>:
 
 Entertainment Software Rating Board  
 ---  
