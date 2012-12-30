@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kansascity.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611222240id_/http%3A//www.kansascity.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansascity.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230194742id_/http%3A//www.kansascity.com/privacy_policy) for the most accurate reproduction.*
 
 # KansasCity.com | Privacy Policy
 
