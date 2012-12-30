@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourrestaurants.com.au privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623063830id_/http%3A//yourrestaurants.com.au/legal/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourrestaurants.com.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230211557id_/http%3A//yourrestaurants.com.au/legal/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - yourRestaurants.com.au
 
