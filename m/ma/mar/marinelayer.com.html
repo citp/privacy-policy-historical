@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marinelayer.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630171509id_/http%3A//www.marinelayer.com/blog/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marinelayer.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230064222id_/http%3A//www.marinelayer.com/blog/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy «  Marine Layer</title>
@@ -9,6 +9,7 @@
 <meta name="robots" content="INDEX,FOLLOW">
 <link rel="icon" href="http://www.marinelayer.com/skin/frontend/default/marinelayer/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.marinelayer.com/skin/frontend/default/marinelayer/favicon.ico" type="image/x-icon">
+<link href="http://fonts.googleapis.com/css?family=Voltaire" rel="stylesheet" type="text/css">
 <link rel="alternate" href="http://marinelayer.com/feed/" title="Marine Layer Blog RSS Feed" type="application/rss+xml">
 <link rel="alternate" href="http://marinelayer.com/feed/atom/" title="Marine Layer Blog Atom Feed" type="application/atom+xml">
 <link href="http://www.marinelayer.com/skin/frontend/default/marinelayer/css/screen.css" rel="stylesheet" type="text/css" media="screen">
@@ -28,9 +29,29 @@ else if (field.value == '') field.value = field.defaultValue;
 </script>
 <script type="text/javascript" src="http://www.marinelayer.com/skin/frontend/default/marinelayer/js/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.marinelayer.com/skin/frontend/default/marinelayer/js/jquery.js"></script>
-<script type="text/javascript" src="http://www.marinelayer.com/skin/frontend/default/marinelayer/js/jquery1.2.3.js"></script>
+<script type="text/javascript" src="http://www.marinelayer.com/skin/frontend/base/default/js/jquery1.2.3.js"></script>
 <script type="text/javascript" src="http://www.marinelayer.com/skin/frontend/default/marinelayer/js/easySlider1.7.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function () {	
+   	var borderWidth = 5;
 
+	jQuery('.glass_borders').each( function(index){
+		jQuery(this).css('position', 'relative');
+		height = jQuery(this).outerHeight();
+		width = jQuery(this).outerWidth();
+
+		var top = '<div class = "glass_border" style = "top: 0; left: 0; width: ' +width+ 'px; height: ' +borderWidth+ 'px" ></div>';
+		var left = '<div class = "glass_border" style = "top: ' +borderWidth+ 'px; left: 0;  width: ' +borderWidth+ 'px; height: ' +(height - 2 * borderWidth)+ 'px"></div>';
+		var right = '<div class = "glass_border" style = "top: ' +borderWidth+ 'px; right: 0;  width: ' +borderWidth+ 'px; height: ' +(height - 2 * borderWidth)+ 'px"></div>';
+		var bottom = '<div class = "glass_border" style = "bottom: 0; left: 0;  width: ' +width+ 'px; height: ' +borderWidth+ 'px"></div>';
+		
+		html = top + left + right + bottom;
+
+		jQuery(this).prepend(html);
+
+	});
+});
+</script>
 
 <link rel="stylesheet" type="text/css" href="http://www.marinelayer.com/skin/frontend/default/marinelayer/css/marinelayer.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.marinelayer.com/skin/frontend/default/marinelayer/css/colorcodes.css" media="all">
@@ -116,8 +137,9 @@ optionalZipCountries = [];
             </script><script type="text/javascript" src="https://c.adroll.com/retarget/M7NIYC26OVGCHPLLHMI45N/446EQOSRONFG3IEGKSEVVW/"></script></head>
 <body class=" wordpress-index-noroute">
 <div class="outer">
-<div class="wrapper">
-        <noscript>
+	<div class="wrapper">
+	
+	        <noscript>
         <div class="noscript">
             <div class="noscript-inner">
                 <p><strong>We detected that your JavaScript seem to be disabled.</strong></p>
@@ -125,21 +147,18 @@ optionalZipCountries = [];
             </div>
         </div>
     </noscript>
-    <div class="page">
-        <link rel="stylesheet" type="text/css" media="all" href="http://www.marinelayer.com/skin/frontend/default/default/unibanner/css/custom.css">
+	    <div class="page">
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.marinelayer.com/skin/frontend/default/default/unibanner/css/custom.css">
 <script type="text/javascript" src="http://www.marinelayer.com/skin/frontend/default/default/unibanner/js/ajaxtabs.js"></script>
 <link rel="stylesheet" type="text/css" media="all" href="http://www.marinelayer.com/skin/frontend/default/marinelayer/css/marinelayer.css">
 
 <div class="header-container">
 	<div class="logo"><a href="http://www.marinelayer.com/"><img src="http://www.marinelayer.com/skin/frontend/default/marinelayer/images/logo.png" alt="Marine Layer"></a></div>
-    <!--<div class="logo slogan"></div>-->
-	<div class="toplink"><a href="http://www.marinelayer.com/contacts">Contact Us</a>|
-<!--<a href="http://www.marinelayer.com/faq">FAQ</a>|
-<a href="http://www.marinelayer.com//customer/account">My Account</a>|-->
-<a href="http://www.marinelayer.com/checkout/cart/">View Cart</a>|<a href="http://www.marinelayer.com/customer/account/login">Login</a>
-</div>
-	<div class="free_shipping"><a href="http://www.marinelayer.com/blog/faqs/">Free Shipping &amp; Free Returns.</a></div>
-	<!-- <div class="free_shipping"><a href="http://www.marinelayer.com/shipping-returns/"><img src="http://www.marinelayer.com/skin/frontend/default/marinelayer/images/free_shipping.gif" alt="Free Shippingg" /></div> -->
+	<div class="toplink">
+		<a href="http://www.marinelayer.com/contacts">CONTACT US</a>/
+					<a href="http://www.marinelayer.com/customer/account/login">LOGIN</a>/
+				<a href="http://www.marinelayer.com/checkout/cart/">VIEW CART (0 items)</a>
+		</div>
 
 	<div class="menu">
 		<script>
@@ -157,234 +176,156 @@ document.getElementById('submenu'+index).style.display = "none";
 </script>
 <script>
 jQuery(document).ready(function(){
-if(jQuery('.side_bottom')!=null){
- if(jQuery('.side_bottom').html() == ""){
- // alert(jQuery('.col-right'));
-  // if(jQuery('.col-right') != null)
-  // jQuery('.col-right').css("display", "none");
-  // else
-   jQuery('.side_bottom').css("display", "none");
-  }
-  else{
-  // if(jQuery('.col-right') != null)
-  // jQuery('.col-right').css("display", "block");
-  // else
-    jQuery('.side_bottom').css("display", "block");
-  }
-}
+	if(jQuery('.side_bottom')!=null){
+	 if(jQuery('.side_bottom').html() == ""){
+	 // alert(jQuery('.col-right'));
+	  // if(jQuery('.col-right') != null)
+	  // jQuery('.col-right').css("display", "none");
+	  // else
+	   jQuery('.side_bottom').css("display", "none");
+	  }
+	  else{
+	  // if(jQuery('.col-right') != null)
+	  // jQuery('.col-right').css("display", "block");
+	  // else
+	    jQuery('.side_bottom').css("display", "block");
+	  }
+	}
+
+	
 });
 </script>
 <!--     <ul id="nav">
-            <li class="level0 nav-1 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://www.marinelayer.com/shop">
-<span>Shop</span>
-</a>
-<ul class="level0">
-<li class="level1 nav-1-1 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://www.marinelayer.com/shop/mens">
-<span>Mens</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-1-1-1 first parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://www.marinelayer.com/shop/mens/tees">
-<span>Tees</span>
-</a>
-<ul class="level2">
-<li class="level3 nav-1-1-1-1 first">
-<a href="http://www.marinelayer.com/shop/mens/tees/graphic-tees">
-<span>Graphic Tees</span>
-</a>
-</li><li class="level3 nav-1-1-1-2">
-<a href="http://www.marinelayer.com/shop/mens/tees/blanks">
-<span>Blanks</span>
-</a>
-</li><li class="level3 nav-1-1-1-3 last">
-<a href="http://www.marinelayer.com/shop/mens/tees/longsleeves">
-<span>Longsleeves</span>
-</a>
-</li>
-</ul>
-</li><li class="level2 nav-1-1-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://www.marinelayer.com/shop/mens/polos">
-<span>Polos</span>
-</a>
-<ul class="level2">
-<li class="level3 nav-1-1-2-4 first">
-<a href="http://www.marinelayer.com/shop/mens/polos/t-shirt-polos">
-<span>T-Shirt Polos</span>
-</a>
-</li><li class="level3 nav-1-1-2-5">
-<a href="http://www.marinelayer.com/shop/mens/polos/classy-polos">
-<span>Classy Polos</span>
-</a>
-</li><li class="level3 nav-1-1-2-6 last">
-<a href="http://www.marinelayer.com/shop/mens/polos/perfect-polo">
-<span>Perfect Polo</span>
-</a>
-</li>
-</ul>
-</li><li class="level2 nav-1-1-3">
-<a href="http://www.marinelayer.com/shop/mens/hoodies">
-<span>Jackets</span>
-</a>
-</li><li class="level2 nav-1-1-4">
-<a href="http://www.marinelayer.com/shop/mens/wovens">
-<span>Wovens</span>
-</a>
-</li><li class="level2 nav-1-1-5 last">
-<a href="http://www.marinelayer.com/shop/mens/sweaters">
-<span>Sweaters</span>
-</a>
-</li>
-</ul>
-</li><li class="level1 nav-1-2 parent" onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)">
-<a href="http://www.marinelayer.com/shop/womens">
-<span>Womens</span>
-</a>
-<ul class="level1">
-<li class="level2 nav-1-2-6 first">
-<a href="http://www.marinelayer.com/shop/womens/basics">
-<span>Basics</span>
-</a>
-</li><li class="level2 nav-1-2-7">
-<a href="http://www.marinelayer.com/shop/womens/outerwear">
-<span>Outerwear</span>
-</a>
-</li><li class="level2 nav-1-2-8">
-<a href="http://www.marinelayer.com/shop/womens/shop-womens-accessories">
-<span>Scarves</span>
-</a>
-</li><li class="level2 nav-1-2-9 last">
-<a href="http://www.marinelayer.com/shop/womens/wovens">
-<span>Wovens</span>
-</a>
-</li>
-</ul>
-</li><li class="level1 nav-1-3 last">
-<a href="http://www.marinelayer.com/shop/retired-styles">
-<span>Retired Styles</span>
-</a>
-</li>
-</ul>
-</li>        </ul>
+                    </ul>
  -->
 
+
          
-                        	<input type="hidden" id="category_count" value="3">
+                        	<input type="hidden" id="category_count" value="4">
           <ul id="menu">
-            						<li class="sub" id="topmenu0" onmouseover="showMenu(0);return false;" onmouseout="hideMenu(0);return false;">
-		  <a href="http://www.marinelayer.com/shop/mens">
-                  MENS                </a>
-		              
-		
-		       
-            		   <ul class="submenu" id="submenu0" style="width:auto;margin-left:-18px;top:36px;z-index:10000;position:absolute;display:none;border-bottom:3px solid #36648B;padding-right:10px;">
-              <li>
-                <a href="http://www.marinelayer.com/shop/mens/tees">
-                  Tees                </a>
-	        </li>
-            	              <li>
-                <a href="http://www.marinelayer.com/shop/mens/polos">
-                  Polos                </a>
-	        </li>
-            	              <li>
-                <a href="http://www.marinelayer.com/shop/mens/hoodies">
-                  Jackets                </a>
-	        </li>
-            	              <li>
-                <a href="http://www.marinelayer.com/shop/mens/wovens">
-                  Wovens                </a>
-	        </li>
-            	              <li>
-                <a href="http://www.marinelayer.com/shop/mens/sweaters">
-                  Sweaters                </a>
-	        </li>
-                      	</ul>
-	   	  
-              </li>
-            						<li id="topmenu1" onmouseover="showMenu(1);return false;" onmouseout="hideMenu(1);return false;">
-		  <a href="http://www.marinelayer.com/shop/womens">
-                  WOMENS                </a>
-		              
-		
-		       
-            		   <ul class="submenu" id="submenu1" style="width:auto;margin-left:-10px;top:36px;z-index:10000;position:absolute;display:none;border-bottom:3px solid #36648B;padding-right:10px;">
-              <li>
-                <a href="http://www.marinelayer.com/shop/womens/basics">
-                  Basics                </a>
-	        </li>
-            	              <li>
-                <a href="http://www.marinelayer.com/shop/womens/outerwear">
-                  Outerwear                </a>
-	        </li>
-            	              <li>
-                <a href="http://www.marinelayer.com/shop/womens/shop-womens-accessories">
-                  Scarves                </a>
-	        </li>
-            	              <li>
-                <a href="http://www.marinelayer.com/shop/womens/wovens">
-                  Wovens                </a>
-	        </li>
-                      	</ul>
-	   	  
-              </li>
-            				               <li>
-		  <a href="http://www.marinelayer.com/shop/retired-styles">
-                  RETIRED STYLES                </a>
-		              
-		
-		  
-              </li>
-            	  <li id="topmenu4" onmouseout="hideMenu(4);return false;" onmouseover="showMenu(4);return false;">
+            								
+									<li class="sub" id="topmenu0" onmouseover="showMenu(0);return false;" onmouseout="hideMenu(0);return false;">
+				  		<a href="http://www.marinelayer.com/shop/mens">
+		                	MENS		                </a>
+								
+						            												   <ul class="submenu" id="submenu0" style="width:auto;margin-left:-18px;top:36px;z-index:10000;position:absolute;display:none;border-bottom:3px solid #36648B;padding-right:10px;">
+										            <li>
+					                <a href="http://www.marinelayer.com/shop/mens/tees-basics">
+					                	Tees &amp; Basics					                </a>
+						        </li>
+																            <li>
+					                <a href="http://www.marinelayer.com/shop/mens/polos">
+					                	Polos					                </a>
+						        </li>
+																            <li>
+					                <a href="http://www.marinelayer.com/shop/mens/wovens">
+					                	Wovens					                </a>
+						        </li>
+																            <li>
+					                <a href="http://www.marinelayer.com/shop/mens/outerwear">
+					                	Outerwear					                </a>
+						        </li>
+																            <li>
+					                <a href="http://www.marinelayer.com/shop/mens/hats">
+					                	Hats					                </a>
+						        </li>
+							          							</ul>
+									  
+		            </li>
+           									
+									<li id="topmenu1" onmouseover="showMenu(1);return false;" onmouseout="hideMenu(1);return false;">
+				  		<a href="http://www.marinelayer.com/shop/womens">
+		                	WOMENS		                </a>
+								
+						            												   <ul class="submenu" id="submenu1" style="width:auto;					margin-left:-10px;top:36px;z-index:10000;position:absolute;display:none;border-bottom:3px solid #36648B;padding-right:10px;">
+										            <li>
+					                <a href="http://www.marinelayer.com/shop/womens/basics">
+					                	Basics					                </a>
+						        </li>
+																            <li>
+					                <a href="http://www.marinelayer.com/shop/womens/novelty-1">
+					                	Novelty					                </a>
+						        </li>
+																            <li>
+					                <a href="http://www.marinelayer.com/shop/womens/outerwear-fleeces">
+					                	Sweaters &amp; Fleeces					                </a>
+						        </li>
+																            <li>
+					                <a href="http://www.marinelayer.com/shop/womens/shop-womens-accessories">
+					                	Scarves &amp; Hats					                </a>
+						        </li>
+																            <li>
+					                <a href="http://www.marinelayer.com/shop/womens/wovens">
+					                	Wovens					                </a>
+						        </li>
+																            <li>
+					                <a href="http://www.marinelayer.com/shop/womens/dresses-skirts">
+					                	Dresses &amp; Skirts					                </a>
+						        </li>
+							          							</ul>
+									  
+		            </li>
+           									
+						            <li>
+						<a href="http://www.marinelayer.com/shop/kids">
+		                	KIDS		                </a>
+								
+				  
+		            </li>
+           									
+						            <li>
+						<a href="http://www.marinelayer.com/shop/last-call">
+		                	LAST CALL		                </a>
+								
+				  
+		            </li>
+           		  	  <li id="topmenu4" onmouseout="hideMenu(4);return false;" onmouseover="showMenu(4);return false;">
 	    <a href="http://www.marinelayer.com/blog/our-story/">OUR STORY</a>
-	<ul id="submenu4" class="submenu_large" style="width:200px;margin-left:-18px;top:36px;z-index:10000;position:absolute;display:none;border-bottom:3px solid #36648B;padding-right:10px;">
-	 <li>
-		<a href="http://www.marinelayer.com/blog/our-story/">  OUR STORY  </a>
-	 </li>
-         <li>
-		<a href="http://www.marinelayer.com/blog/ourteam/"> OUR TEAM </a>
-	 </li>
-	 <li>
-		<a href="http://www.marinelayer.com/blog/made-here/"> MADE HERE, MADE WELL </a>
-	 </li>
-	 <li>
-		<a href="http://www.marinelayer.com/blog/press/"> PRESS </a>
-	 </li>
-	 <li>
-		<a href="http://www.marinelayer.com/blog/stores/"> STORES </a>
-	 </li>
-	 <li>
-		<a href="http://www.marinelayer.com/blog/faqs/"> FAQs </a>
-	 </li>
-	 <li>
-		<a href="http://www.marinelayer.com/careers/"> CAREERS </a>
-	 </li>	 
-	 <li>
-		<a href="http://www.marinelayer.com/contacts"> CONTACT </a>
-	 </li>
-	</ul>
+		<ul id="submenu4" class="submenu_large" style="width:200px;margin-left:-18px;top:36px;z-index:10000;position:absolute;display:none;border-bottom:3px solid #36648B;padding-right:10px;">
+			<li>
+			<a href="http://www.marinelayer.com/blog/our-story/">  OUR STORY  </a>
+			</li>
+			<li>
+			<a href="http://www.marinelayer.com/blog/ourteam/"> OUR TEAM </a>
+			</li>
+			<li>
+			<a href="http://www.marinelayer.com/blog/made-here/"> MADE HERE, MADE WELL </a>
+			</li>
+			<li>
+			<a href="http://www.marinelayer.com/blog/press/"> PRESS </a>
+			</li>
+			<li>
+			<a href="http://www.marinelayer.com/blog/stores/"> STORES </a>
+			</li>
+			<li>
+			<a href="http://www.marinelayer.com/blog/faqs/"> FAQs </a>
+			</li>
+			<li>
+			<a href="http://www.marinelayer.com/careers/"> CAREERS </a>
+			</li>	 
+			<li>
+			<a href="http://www.marinelayer.com/contacts"> CONTACT </a>
+			</li>
+		</ul>
 	  </li>
-    <li><a href="http://www.marinelayer.com/blog/">FOGGY BLOG</a></li>
+    <li class="active menuActive"><a href="http://www.marinelayer.com/blog/">FOGGY BLOG</a></li>
+    <li><a href="http://www.marinelayer.com/feel/">COP A FEEL</a></li>
           </ul>
              
      
-		<div class="mini_cart">
-		<a href="http://www.marinelayer.com/checkout/cart">
-
-<strong> 0 </strong> Items In your cart
-</a>
-		<a href="http://www.marinelayer.com/checkout/onepage">CHECK OUT</a></div>
-	</div>
+<script type="text/javascript">
+	html = "<div class = 'star_left'><img src = 'https://www.marinelayer.com/skin/frontend/default/marinelayer/images/star_left.png'/></div><div class = 'star_right'><img src = 'https://www.marinelayer.com/skin/frontend/default/marinelayer/images/star_right.png'/></div>";
+	jQuery('.menuActive').append(html);
+</script>	</div>
+	
+	
         	<p class="welcome-msg"></p>
 			</div>
 
  
-        <div class="main col2-left-layout">
-                        <div class="col-left sidebar"><div class="side_top">
-   
-    <div class="side_bottom"></div></div></div>
-            <div class="col-main">
-                                
+		<div class="main col1-layout">
+		    		    <div class="col-main">
+												
 
 
 
@@ -410,9 +351,9 @@ if(jQuery('.side_bottom')!=null){
 				</div>
 
 
-            </div>
-        </div>
-        <div class="newsletter">
+		    </div>
+		</div>
+		<div class="newsletter">
 
 
 
@@ -472,36 +413,72 @@ if(jQuery('.side_bottom')!=null){
 </div>
  <div class="footer">
 	<div class="flink"><ul class="links_left">
-    <li><a href="http://www.marinelayer.com/blog/faq">FAQs</a></li>
-    <li><a href="http://www.marinelayer.com/contacts">Contact Us</a></li>
-    <li><a href="http://www.marinelayer.com/blog/privacy-policy">Privacy Policy</a></li>
-    <li><a href="http://www.marinelayer.com/blog/our-story">Our Story</a></li>
-    <!--<li><a href="http://www.marinelayer.com/blog/shipping-returns">Shipping & Returns</a></li>-->
-    <li><a href="http://www.marinelayer.com/blog/stores">Stores</a></li>
-    <li><a href="http://www.marinelayer.com/blog/made-here">Made Here, Made Well</a></li>
+<li><a href="http://www.marinelayer.com/blog/faq">FAQs</a></li>
+<li><a href="http://www.marinelayer.com/contacts">CONTACT US</a></li>
+<li><a href="http://www.marinelayer.com/blog/privacy-policy">PRIVACY POLICY</a></li>
+<li><a href="http://www.marinelayer.com/blog/our-story">OUR STORY</a></li>
+<li><a href="http://www.marinelayer.com/blog/stores">STORES</a></li>
+<li><a href="http://www.marinelayer.com/blog/made-here">MADE HERE, WORN WELL</a></li>
 </ul>
-
 <div class="address">
-     <ul><a href="http://www.marinelayer.com/blog">
-         <li class="foggy_blog">Foggy Blog</li>
-          <li>48 Hours of Superfine Merino</li>
-          <li>12 Steps To Making A Track Jacket</li>
-          <li>Holiday Preview</li></a>
-</ul></div>
+<div style="width: 300px;">
+<ul>
+<li><a href="http://www.marinelayer.com/blog"><strong>FOGGY BLOG:</strong></a></li>
+<strong><strong>
+<li>
 
-<div class="footer_left">
-<p>Sustainably made<br> in the USA (by adults)</p>
-<div class="footer_icon">
-     <div class="logos1"><a href="http://www.marinelayer.com/blog/made-here/"><img id="Image18" alt="Click here..." src="http://www.marinelayer.com/skin/frontend/default/marinelayer/images/flag2.png"></a></div>
-     <div class="logos2"><a href="http://www.marinelayer.com/blog/made-here/"><img id="Image17" alt="Click here..." src="http://www.marinelayer.com/skin/frontend/default/marinelayer/images/leaf2.png"></a></div>
+<div class="foggy_blog">
+  	<ul>
+  	  		<li>
+        	<a href="http://www.marinelayer.com/blog/meet-the-marine-layer-store-peeps/">
+        		Meet The Marine Layer Store Peeps        	</a>
+		</li><!-- 
+    <div class="date"></div> -->
+	
+  		<li class="blog-entry">
+        	<a href="http://www.marinelayer.com/blog/our-favorite-under-the-radar-shops-for-men/">
+        		Our Favorite Under The Radar Shops For Men        	</a>
+		</li><!-- 
+    <div class="date"></div> -->
+	
+  		<li class="blog-entry">
+        	<a href="http://www.marinelayer.com/blog/pencil-to-paper-to-t-shirt/">
+        		Pencil To Paper To T-shirt        	</a>
+		</li><!-- 
+    <div class="date"></div> -->
+	
+  		<li class="blog-entry">
+        	<a href="http://www.marinelayer.com/blog/summer-stripes/">
+        		Summer Stripes        	</a>
+		</li><!-- 
+    <div class="date"></div> -->
+	
+	</ul>
 </div>
-<div style="margin-left:30px; letter-spacing:1px!important;"><a>©2012 Marine Layer</a></div>
-</div></div>
+
+</li>
+</strong></strong> 
+</ul>
+</div>
+</div>
+<div class="footer_left"><a href="http://www.marinelayer.com/blog/made-here/"><img src="http://www.marinelayer.com/skin/frontend/default/marinelayer/images/MarineLayer_footer.png" alt="Marine Layer"></a></div>
+<!--
+<div class="footer_left"><strong>
+<p>Sustainably made<br /> in the USA (by adults)</p>
+<div class="footer_icon">
+<div class="logos1"><a href="http://www.marinelayer.com/blog/made-here/" _mce_href="http://www.marinelayer.com/blog/made-here/"><img id="Image18" src="http://www.marinelayer.com/skin/frontend/default/marinelayer/images/flag2.png" _mce_src="http://www.marinelayer.com/skin/frontend/default/marinelayer/images/flag2.png" alt="Click here..." /></a></div>
+<div class="logos2"><a href="http://www.marinelayer.com/blog/made-here/" _mce_href="http://www.marinelayer.com/blog/made-here/"><img id="Image17" src="http://www.marinelayer.com/skin/frontend/default/marinelayer/images/leaf2.png" _mce_src="http://www.marinelayer.com/skin/frontend/default/marinelayer/images/leaf2.png" alt="Click here..." /></a></div>
+</div>
+<div style="margin-left: 30px; letter-spacing: 1px!important;" _mce_style="margin-left: 30px; letter-spacing: 1px!important;"><a style="font-size: 12px;" _mce_style="font-size: 12px;">&copy;2012 Marine Layer</a></div>
+</strong></div>
+-->	<div></div>
+	</div>
+	
 	<div class="copyright"></div> 
 </div>	  
  
 	
-        
+		
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
 //<![CDATA[
@@ -527,9 +504,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     <div id="rafLoadMessage">
         <img src="http://www.marinelayer.com/skin/frontend/default/marinelayer/images/opc-ajax-loader.gif" class="v-middle" alt=""> &nbsp; Loading...    </div>
 </div>
-    </div>
-</div>
-<script type="text/javascript">
+	    </div>
+	
+	</div>
+	<script type="text/javascript">
   var _adrRETScr = document.createElement("script");
   var _adrRETHost = (("https:" == document.location.protocol) ? "https://c.adroll.com/retarget" : "http://c.adroll.com/retarget");
   _adrRETScr.type = "text/javascript";
