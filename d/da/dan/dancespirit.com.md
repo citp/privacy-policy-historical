@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancespirit.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628104322id_/http%3A//www.dancespirit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancespirit.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230142429id_/http%3A//www.dancespirit.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | DanceMedia, LLC
 
@@ -19,4 +19,4 @@ This website is not directed to children or intended to be used by children unde
 
 
 
-Please address comments or questions regarding Dance Spirit’s privacy practices to us on our [Contact Us](https://web.archive.org/web/20120628104322id_/http://www.dancespirit.com/privacy-statement/contact) page.
+Please address comments or questions regarding Dance Spirit’s privacy practices to us on our [Contact Us](http://www.dancespirit.com/contact/talk-to-us/) page.
