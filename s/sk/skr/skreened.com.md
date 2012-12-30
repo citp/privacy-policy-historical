@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skreened.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627201819id_/http%3A//skreened.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skreened.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230050656id_/http%3A//skreened.com/content/privacy) for the most accurate reproduction.*
 
 # Custom T-Shirts, Hoodies, Tees, Design a Tshirt. - Skreened
 
