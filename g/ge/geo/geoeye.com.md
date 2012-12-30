@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geoeye.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232044id_/http%3A//www.geoeye.com/CorpSite/orphans/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoeye.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230204624id_/http%3A//geoeye.com/CorpSite/orphans/privacy-policy.aspx) for the most accurate reproduction.*
 
 # GeoEye › Privacy Policy
 
@@ -24,7 +24,7 @@ In order to improve the content of our Site and to enable us to personalize your
 
 ##  3\. Choices We Provide You
 
-We may contact you to provide you with opportunities to purchase products or services that may be of interest to you. If you prefer not to receive marketing information from this Site, please send an e-mail to that effect to [info@geoeye.com](mailto:info@geoeye.com?subject=Privacy).
+We may contact you to provide you with opportunities to purchase products or services that may be of interest to you. If you prefer not to receive marketing information from this Site, please send an e-mail to that effect to [info@geoeye.com](mailto:info@geoeye.com?subject=Privacy) .
 
 ##  4\. Collection of Information By Others
 
@@ -38,11 +38,11 @@ We do NOT use cookies to track or examine your surfing behavior before or after 
 
 ##  6\. How You Can Review Your Information
 
-If you would like to review the personally identifiable information that we have collected from you online, just let us know by sending us an e-mail at [webmaster@geoeye.com](mailto:webmaster@geoeye.com?subject=Privacy), and we will provide you with a copy of the information that you provided.
+If you would like to review the personally identifiable information that we have collected from you online, just let us know by sending us an e-mail at [webmaster@geoeye.com](mailto:webmaster@geoeye.com?subject=Privacy) , and we will provide you with a copy of the information that you provided.
 
 ##  7\. How to Contact Us
 
-If you have any questions or concerns about our Privacy Policy for this Site, you may contact us at 2325 Dulles Corner Boulevard, Herndon, VA 20171, or via e-mail at [webmaster@geoeye.com](mailto:webmaster@geoeye.com?subject=Privacy).
+If you have any questions or concerns about our Privacy Policy for this Site, you may contact us at 2325 Dulles Corner Boulevard, Herndon, VA 20171, or via e-mail at [webmaster@geoeye.com](mailto:webmaster@geoeye.com?subject=Privacy) .
 
 ##  8\. Terms of Use
 
