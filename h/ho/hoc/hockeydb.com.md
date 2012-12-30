@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513021514id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeydb.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230222056id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy at Hockeydb.com
 
 The Internet Hockey Database maintains a full commitment to your privacy. No personally identifying information is ever gathered on anyone visiting this site, with the exception of optional information on the discussion forums. The information given there is never used for any purposes other than the discussion forums.
 
