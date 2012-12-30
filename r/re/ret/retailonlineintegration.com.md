@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the retailonlineintegration.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625234405id_/http%3A//www.napco.com/docs/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailonlineintegration.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230062501id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : NAPCO
-
-Privacy Policy 
 
 This is a website of North American Publishing Company, publisher of business-to-business and consumer trade magazines, newsletters, directories and related products.
 
@@ -10,7 +8,7 @@ Our postal address is:
 1500 Spring Garden Street, 12th Floor  
 Philadelphia, PA 19130 USA
 
-General inquiries can be directed to [customerservice@napco.com](mailto:customerservice@napco.com). Or you can reach us by telephone at (215) 238-5482 or toll free at (800) 777-8074.
+General inquiries can be directed to [customerservice@napco.com](mailto:customerservice@napco.com). Or you can reach us by telephone at (215) 238-5300 or toll free at (800) 627-2689.
 
 We collect the e-mail addresses of those who voluntarily provide them to us. You may receive subscription, editorial and other messages from any North American Publishing Company (NAPCO) publication(s). If you do not want to receive e-mail from us in the future, please let us know at [http://remove.napco.com](http://remove.napco.com/).
 
@@ -20,7 +18,7 @@ If you do not want to receive business-related third party e-mail offers from NA
 
 The websites of North American Publishing Company utilize banner advertising serving software which will place a temporary Internet file ("cookie") on your computer's hard drive, which is done in order to properly report advertising impressions to company's who advertise with us on our Web sites. Cookies are also used to display particular content and to set session identifiers for visitors who voluntarily join membership areas.
 
-Some of the websites will also use a third party to collect information on the sites through the use of cookies and web beacons. The list of all third parties currently include: Bizo, BlueKai, Comscore, [Nielsen](http://www.nielsen-netratings.com/privacy/sitecensus.htm "Nielsen NetRatings SiteCensus") and Quantcast.
+Some of the websites will also use a third party to collect information on the sites through the use of cookies and web beacons. The list of all third parties currently include: Bizo, BlueKai, Comscore, [Nielsen](http://www.nielsen-netratings.com/privacy/sitecensus.htm "Nielsen NetRatings SiteCensus")and Quantcast.
 
 If you register to access the digital edition of any North American Publishing Company magazine, your registration information may be shared with our advertisers when you click on their ads or any other hyperlink that takes you to their Web sites.
 
@@ -32,19 +30,19 @@ We collect the mobile phone numbers of those who voluntarily provide them to us.
 
 Questions & comments about this Web site? E-mail: webmaster@napco.com.
 
-  *  _Updated: October 15, 2010_  
+  * _Updated: October 15, 2010_   
 Added information regarding publication websites using third-party cookies and web beacons to collect information.
 
 
-  *  _Updated June 30, 2009_  
+  * _Updated June 30, 2009_   
 Added information regarding the collection of mobile telephone numbers.
 
 
   * _Updated: January 20, 2006  
-_ Added information regarding access to NAPCO digital publications.
+_Added information regarding access to NAPCO digital publications.
 
 
-  * _Updated: September 12, 2005:_  
+  * _Updated: September 12, 2005:_   
 Modified part of Privacy Policy further explaining the types of e-mails subscribers/customers may receive.
 
 
