@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geocaching.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627071549id_/http%3A//www.geocaching.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geocaching.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230035025id_/http%3A//www.geocaching.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Geocaching > Getting Started with Geocaching > Geocaching.com Privacy Policy
 
