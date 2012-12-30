@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themarysue.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526161312id_/http%3A//www.themarysue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themarysue.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192659id_/http%3A//www.themarysue.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Mary Sue
 
@@ -20,13 +20,15 @@ To sign up to receive regular emails, users must submit information including a 
 
 This information can be used in aggregate form to assess general user interest in various internal and third-party products and services, and your personal and contact information will not be passed to any other organization Users who choose to sign up for a mailing list will receive regular emails, including new articles added to the site.
 
+TheMarySue, LLC. may periodically e-mail you messages about products and services that we think may be of interest to you. We may also produce contests, sweepstakes and special events with the support of promotional partners. Information collected by our Sites in conjunction with such events may also be used for the marketing of additional services and events by the Sites and/or their promotional partners. In the instance that there is a conflict between this privacy policy and the rules or policies applicable to a special event, the rules and policies associated with the special event shall govern. You can choose not to receive such messages in the future by following the “unsubscribe” instructions located near the bottom of each e-mail.
+
 ### Cookies
 
 The Mary Sue may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. Session ID cookies terminate as soon as the user closes the/his/his or her browser. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help instructions.
 
 ### Third-Party Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser[s] may place or recognize a unique cookie on your browser.
+We use third-party advertising companies to serve ads and collect information when you visit The Mary Sue. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third-party advertisers’ use of cookies is subject to their own privacy policies. The Mary Sue has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
 
 ### Log Files
 
@@ -51,6 +53,17 @@ Some of our business partners (e.g. advertisers), may use cookies on our site. T
 ### Third-Party Advertising
 
 The advertisements appearing on this Web site are delivered to users by Google, among other services. Information about a user’s visit to TheMarySue.com, such as number of times they have viewed an advertisement (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
+
+### Information Collected Through Third-Party Sources
+
+This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any personally identifying information. This type of information includes but is not limited to:
+
+  * Demographic information (gender, age, HHI, job title, interests, etc.)
+  * Advertising information (clicks, interactions, post-impression performance data)
+  * Social networking information (Facebook, Twitter, LinkedIn, etc.)
+  * Research information (data collected from partners)
+
+
 
 ### Notification of Changes
 
