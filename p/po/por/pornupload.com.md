@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornupload.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225605id_/http%3A//www.pornupload.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornupload.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191143id_/http%3A//www.pornupload.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Free Porn XXX Movies - Free SEX Videos, Adult Movies - Pornupload.com
 
@@ -25,7 +25,7 @@ Pornupload collects personal information upon registration. When upgrading to a 
 
 In addition to registration we may ask you for personal information at other times, including immediately following the registration process, when you enter a contest or promotion sponsored by Pornupload, and when you report a problem with the service or with your account. If you contact Pornupload we will keep a record of that correspondence. In addition, Pornupload occasionally asks registered users to complete surveys that we use for research purposes. A link is included to this Privacy Policy wherever Pornupload collects personal information.
 
-Pornupload customers use our service to store files and folders (data). Pornupload will not review, share, distribute, print, or reference any such data except as outlined in the [Terms of Service](https://web.archive.org/web/20120630225605id_/http%3A//www.pornupload.com/terms.html) or as may be required by law.
+Pornupload customers use our service to store files and folders (data). Pornupload will not review, share, distribute, print, or reference any such data except as outlined in the [Terms of Service](https://web.archive.org/web/20121230191143id_/http%3A//www.pornupload.com/terms.html) or as may be required by law.
 
 **What are cookies and how does Pornupload use them?**
 
@@ -58,7 +58,7 @@ Pornupload does research on customer demographics and behavior based on the info
 
 **With whom does Pornupload share my information?**
 
-Pornupload will not disclose any of your personal information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see our [Terms of Service](https://web.archive.org/web/20120630225605id_/http%3A//www.pornupload.com/terms.html) for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
+Pornupload will not disclose any of your personal information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see our [Terms of Service](https://web.archive.org/web/20121230191143id_/http%3A//www.pornupload.com/terms.html) for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
 
   
 
