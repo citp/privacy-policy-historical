@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504112427id_/http%3A//www.eurobrussels.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurobrussels.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193528id_/http%3A//eurobrussels.com/privacy_policy.php) for the most accurate reproduction.*
 
 # EuroBrussels.com - Privacy policy
 
@@ -30,4 +30,4 @@ The database and website are protected against unauthorised access to your detai
 
 If you have any queries, concerns or amendments please contact us on [info@eurobrussels.com](mailto:info@eurobrussels.com), or write to us at our registered office at 9 High Drive, London, KT3 3UJ United Kingdom.
 
-This is a summary - full details of our privacy policy including use of our CV database can be found [here](http://www.eurobrussels.com/cv_privacy_policy.php).
+This is a summary - full details of our privacy policy including use of our CV database can be found [here](http://eurobrussels.com/cv_privacy_policy.php).
