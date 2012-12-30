@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gamerguides.com privacy policy that was archived on 2012-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120410012912id_/http%3A//www.gamerguides.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerguides.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230061648id_/http%3A//www.gamerguides.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how Leo Hayes Media Ltd uses and protects any information that you give Leo Hayes Media Ltd when you use this website.
+This privacy policy sets out how Gamer Guides Ltd uses and protects any information that you give Gamer Guides Ltd when you use this website.
 
-Leo Hayes Media Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Gamer Guides Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Leo Hayes Media Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/08/2011
+Gamer Guides Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/08/2011
 
 **What we collect**
 
@@ -53,7 +53,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at helpdesk@gamerguides.com
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at seb@gamerguides.com
 
 
 
