@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the xblafans.com privacy policy that was archived on 2012-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120522094006id_/http%3A//www.xblafans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xblafans.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181002id_/http%3A//www.xblafans.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | xblafans.com
+# Privacy policy | xblafans.com
 
-## Here at Xblafans.com we pride ourselves on user service, and part of that is looking after your privacy. This Privacy Policy outlines the types of personal information we gather when you visit our site.
+## Here at XBLAFans.com we pride ourselves on user service, and part of that is looking after your privacy. This Privacy Policy outlines the types of personal information we gather when you visit our site.
 
 The following principles apply to the personally identifying information we ask for and that you provide. “Personally identifying information” is information that individually identifies you, such as your name, physical address or email address
 
 ## Cookies
 
-On some pages of  Xblafans.com  a cookie is sent to your computer that uniquely identifies the user when they log in. A “cookie” is a small file containing a string of characters that is sent to your computer when you visit a website. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features may not function properly without cookies.
+On some pages of  XBLAFans.com  a cookie is sent to your computer that uniquely identifies the user when they log in. A “cookie” is a small file containing a string of characters that is sent to your computer when you visit a website. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features may not function properly without cookies.
 
 ## Data collection
 
-Xblafans.com collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your visit and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services.
+XBLAFans.com collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your visit and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services.
 
-Most of our services require you to register for an account. Xblafans.com asks you for some personal information in order to create an account (name, email address and a password for your account) and we will use that information to provide the service. The rest of the information you may wish to provide in your profile is used only by other viewers to the site, and you can be selective as to which information you enter.
+Most of our services require you to register for an account. XBLAFans.com asks you for some personal information in order to create an account (name, email address and a password for your account) and we will use that information to provide the service. The rest of the information you may wish to provide in your profile is used only by other viewers to the site, and you can be selective as to which information you enter.
 
 ## Information sharing
 
@@ -24,7 +24,7 @@ If you have an account, we may share the information submitted among the other s
 
 We may share aggregated information with others. Examples of this include the number of users who have visited a certain page.
 
-Xblafans.com uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,<http://www.networkadvertising.org/managing/opt_out.asp>
+XBLAFans.com uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ## Information security
 
@@ -32,7 +32,7 @@ We take appropriate security measures to protect against unauthorized access to 
 
 ## Links
 
-Any sites linked to on Xblafans.com are developed by people over whom we exercise no control. These other sites may place their own cookies on your computer, collect data or solicit personal information.
+Any sites linked to on XBLAFans.com are developed by people over whom we exercise no control. These other sites may place their own cookies on your computer, collect data or solicit personal information.
 
 ## Contact
 
