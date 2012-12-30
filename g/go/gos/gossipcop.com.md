@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225755id_/http%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230234527id_/http%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Gossip Cop
 
@@ -20,13 +20,15 @@ To sign up to receive regular e-mails, users must submit information including a
 
 This information can be used in aggregate form to assess general user interest in various internal and third-party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular e-mails, including new articles added to the site.
 
+Gossip Cop Media may periodically e-mail you messages about products and services that we think may be of interest to you. We may also produce contests, sweepstakes and special events with the support of promotional partners. Information collected by our Sites in conjunction with such events may also be used for the marketing of additional services and events by the Sites and/or their promotional partners. In the instance that there is a conflict between this privacy policy and the rules or policies applicable to a special event, the rules and policies associated with the special event shall govern. You can choose not to receive such messages in the future by following the “unsubscribe” instructions located near the bottom of each e-mail.
+
 **Cookies**
 
 Gossip Cop Media may use cookies. A cookie is a piece of data stored on the user’s computer, tied to information about the user. We may use both session ID cookies and persistent cookies. Session ID cookies terminate as soon as the user closes his or her browser. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help instructions.
 
 **Third-Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser[s] may place or recognize a unique cookie on your browser.
+We use third-party advertising companies to serve ads and collect information when you visit Gossip Cop. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Third-party advertisers’ use of cookies is subject to their own privacy policies. Gossip Cop has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
 
 **Log Files**
 
@@ -38,7 +40,7 @@ Though we make every effort to preserve user privacy, Gossip Cop Media may need 
 
 **Business Transitions**
 
-In the event Gossip Cop Media goes through a business transition such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information may be part of the assets transferred. 
+In the event Gossip Cop Media goes through a business transition such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information may be part of the assets transferred.
 
 **Links**
 
@@ -51,6 +53,17 @@ Some of our business partners (i.e. advertisers), may use cookies on our site. G
 **Third-Party Advertising**
 
 The advertisements appearing on this website are delivered to users by Google, among other services. Information about a user’s visit to GossipCop.com, such as the number of times they have viewed an advertisement (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
+
+**Information Collected Through Third-Party Sources**
+
+This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any personally identifying information. This type of information includes but is not limited to:
+
+  * Demographic information (gender, age, HHI, job title, interests, etc.)
+  * Advertising information (clicks, interactions, post-impression performance data)
+  * Social networking information (Facebook, Twitter, LinkedIn, etc.)
+  * Research information (data collected from partners)
+
+
 
 **Notification of Changes**
 
