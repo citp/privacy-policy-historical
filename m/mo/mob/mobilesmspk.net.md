@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mobilesmspk.net privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609132300id_/http%3A//www.mobilesmspk.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilesmspk.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191245id_/http%3A//www.mobilesmspk.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MobileSMSPK.net
-
-  
-  
-
 
 ## Privacy Policy
 
@@ -34,6 +30,11 @@
 > ### 2\. Disclosure of Information
 >
 >> We will not sell, lease or exchange your profile information to third parties without first obtaining your express consent, unless required by law or to protect your membership. 
+
+[](http://www.mobilesmspk.net/register)
+
+  
+
 
 > ### 3\. Cookies
 >
@@ -65,4 +66,4 @@
 >
 >> If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact at: **admin@mobilesmspk.net**
 > 
-> (Last Updated on March 1, 2012) 
+> (Last Updated on September 1, 2012) 
