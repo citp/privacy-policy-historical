@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iexplore.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630094125id_/http%3A//www.iexplore.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iexplore.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190619id_/http%3A//www.iexplore.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iExplore
 
-iExplore’s Privacy Policy (“Policy”) sets out what information we collect, how we collect it, and what we do with it. If you have additional questions or would like further information on this topic, please feel free to write to us at 93 North Park Place Blvd, Clearwater, FL 33759 or by [e-mail](https://web.archive.org/web/20120630094125id_/http%3A//www.iexplore.com/about/%E2%80%9D/about/contact.jhtml%E2%80%9D). We may update this Policy from time to time, so please check this Policy periodically for changes.
+iExplore’s Privacy Policy (“Policy”) sets out what information we collect, how we collect it, and what we do with it. If you have additional questions or would like further information on this topic, please feel free to write to us at 93 North Park Place Blvd, Clearwater, FL 33759 or by [e-mail](https://web.archive.org/web/20121230190619id_/http%3A//www.iexplore.com/about/%E2%80%9D/about/contact.jhtml%E2%80%9D). We may update this Policy from time to time, so please check this Policy periodically for changes.
 
 ## Information About You
 
@@ -65,7 +65,7 @@ Certain pages on our websites contain “web beacons” (also know as Internet t
 
 ### Third Party Advertising
 
-We use a third-party advertising company to serve ads when you visit our website and sites upon which we advertise. This technology uses information about your visits to this website and the sites upon which we advertise to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we may use Web beacons, provided by our third-party advertising company, to help manage our online advertising. These Web beacons enable our third-party ad serving company to recognize a browser’s cookie when a browser visits this site and to learn which banner ads bring users to our website. To learn more about our third-party ad-serving company, cookies, and how to “opt-out” please [click here](https://web.archive.org/web/20120630094125id_/http%3A//www.iexplore.com/about/%E2%80%9Dhttp://www.doubleclick.net/us/corporate/privacy%E2%80%9D).
+We use a third-party advertising company to serve ads when you visit our website and sites upon which we advertise. This technology uses information about your visits to this website and the sites upon which we advertise to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we may use Web beacons, provided by our third-party advertising company, to help manage our online advertising. These Web beacons enable our third-party ad serving company to recognize a browser’s cookie when a browser visits this site and to learn which banner ads bring users to our website. To learn more about our third-party ad-serving company, cookies, and how to “opt-out” please [click here](https://web.archive.org/web/20121230190619id_/http%3A//www.iexplore.com/about/%E2%80%9Dhttp://www.doubleclick.net/us/corporate/privacy%E2%80%9D).
 
 ## Monitoring
 
