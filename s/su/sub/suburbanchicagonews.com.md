@@ -1,115 +1,129 @@
-> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621033559id_/http%3A//www.suntimes.com/aboutus/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suburbanchicagonews.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185925id_/http%3A//www.suntimes.com/aboutus/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Privacy policy from the Chicago Sun-Times
 
-### PRIVACY POLICY – YOUR PRIVACY RIGHTS (Updated as of November 1, 2010)
+### This Privacy Policy applies to our sites and apps
 
-Sun-Times Media, LLC and Sun-Times Media Productions, LLC ("Sun-Times Media" or "we" or "us"), operates this web site and/or service (the "Property"). This Privacy Policy explains what information is collected on this Property, how we use your information, and your choices. This Privacy Policy only covers information collected at this Property and other web sites or digital properties operated by Sun-Times Media where this Privacy Policy is posted (collectively, the "Properties"), and does not cover any information collected by any other company. Please read this Privacy Policy carefully. In addition, please review our [Terms of Use](https://web.archive.org/aboutus/terms/index.html), which govern your use of this Property. By providing us with information and by using the Properties, you consent to have your information used as described in this Privacy Policy. Your use of the Properties indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy.
+This Policy describes how we treat personal information . This includes our websites and our mobile apps.
 
-Information Collected Through The Properties
+To download a full copy of this Privacy Policy, click [here](http://suntimes.com/pdf/privacy-policy-page.pdf).
 
-Personally Identifiable Information:
+### We collect information from and about you.
 
-We may ask you to provide us with personally identifiable information about yourself at various times and at various places on the Properties, such as when you register for newsletters, provide comments, subscribe for home delivery, or choose to participate in a contest, sweepstakes, survey or other feature on the Properties. Personally identifiable information is information that could reasonably be used to identify you personally (such as your full name, address, or e-mail address), which we refer to as "PII." We may also ask you to provide us with demographic information or information regarding your interests, hobbies or similar information. In addition, as part of our current and planned services, we may, at any time, include features to the Properties that require you to register or otherwise provide PII, including credit card information, or we may require registration or a subscription fee to gain access to any portion of the Properties. You can choose not to provide certain information, but then you may not be able to take advantage of or participate in many of the Properties’ features. We may also maintain information about you that you do not directly provide, whether it is information received from third parties, such as business partners, or information we collect about your activities.
+Contact information. For example, we might collect your name and street address. We might also collect your phone number or email.
 
-↑ Back to top
+Payment information. For example, we collect your credit card number when you buy a subscription or pay to access parts of our site.
 
-Non-Personally Identifiable Information:
+Information you submit or post. We collect the information you post in a public space on our website.
 
-When you visit the Properties, our servers automatically collect certain web site usage information. Property usage information is non-identifying information that describes how our visitors use and navigate the Properties, and it includes the number and frequency of visitors to each web page and the length of their stays. We may also collect the information automatically sent to us by your browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting the Properties, and IP address. An IP address is a number that is automatically assigned to your computer whenever you access the Internet, which web servers use to identify where to send the information your computer requests. We may use IP addresses for a number of purposes, such as system administration, to report aggregate information to our business partners or to audit the use of the Properties. We also may determine the technology available through your browser in order to serve you the most appropriate version of a web page. We may disclose non-identifying user information, such as aggregated statistics, to third parties for a variety of purposes, including describing our services, marketing, and providing a better user experience on the Properties.
+Demographic information.  We may collect information about your interests or hobbies. We might collect this as part of a survey, for example.
 
-↑ Back to top
-
-Cookies:
-
-Like most web sites, the Properties sometimes make use of browser cookies. We may use cookies for a number of purposes, such as tracking usage patterns on the Properties, measuring the effectiveness of advertising, to help serve advertisements, limiting multiple responses and registrations, facilitating your ability to navigate the Properties and as part of a verification or screening process. We may link the cookies to any PII or other information we collect. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent by indicating this in the preferences or options menu in your browser. However, it is possible that some parts of the Properties will not operate correctly if you disable cookies and you may not be able to take advantage of some of the Properties’ features. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
+Other information. If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location. We might look at how often you use the app and where you downloaded it. We collect this information using the tracking tools described [here](http://www.suntimes.com/aboutus/aboutourads/index.html). To control these tools, please read [here](http://www.suntimes.com/aboutus/aboutourads/index.html).
 
 ↑ Back to top
 
-Web Beacons:
+### We collect information in different ways.
 
-Our web pages or e-mail messages may contain a small graphic image called a web beacon, which is sometimes also called a "web bug" or "clear gif", and which allows the party that sent the web beacon to monitor and collect certain limited information about the viewer of the web page or e-mail message (such as the type of browser downloading the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed, as well as the URL of the page the web beacon comes from). Web beacons are typically very small (generally 1-by-1 pixel) and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail message, including an advertisement or HTML content, can act as a web beacon. We may use web beacons for a number of purposes, such as to count visitors to our web pages or to monitor how our users navigate the Properties, and we may include web beacons in e-mail newsletters in order to count how many newsletters (or particular articles, links, etc.) we sent were actually opened. In addition, third parties that serve ads or content onto the Properties or within our e-mails may use web beacons. We do not have control over web beacons used by such third parties.
+We collect information directly from you. For example, if you subscribe for home delivery or register for our newsletter. We also collect information if you post a comment or make a request. We may publish your name if you send a letter to the editor.
 
-↑ Back to top
+We collect information from you passively. We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps.
 
-Third Party Content
-
-When you are on the Properties, certain content may be served by a third party. These third parties may also drop their own cookies and/or use web beacons, which may be used to identify some of your preferences or to recognize you if you have previously had contact with them. We do not control the use of such technology by third parties, the information they collect, or how they use such information.
+We get information about you from third parties. For example, our business partners may give us information about you.
 
 ↑ Back to top
 
-Our Use and Disclosure of Collected Information and Your Choices
+### We use information as disclosed and described here.
 
-Sun-Times Media may use your PII to provide you with requested goods, services or content, to contact you in connection with your subscriptions, a sweepstakes or promotion, or other purposes. In addition, the Properties may send you special offers via e-mail if you do not opt-out from receiving such information when you register with the Properties. If you wish to unsubscribe from this Property's e-mail newsletter or to change your preferences, [click here](http://www.suntimes.com/newsletters/) or, alternatively, follow the instructions for unsubscribing included within many of the e-mails you receive from us. We may also contact you regarding any problems or questions we have relating to your use of the Properties, or, in our discretion, notify you of changes to our Privacy Policy, Terms of Use or other policy or terms that affect you and your use of the Properties. We may also use information collected about our users to provide customized content, advertising, products and services, or to improve the content and navigation of the Properties, or for other purposes. We may aggregate the information about you that we collect through the Properties, including information received internally or from promotional partners and other third parties. In those cases, we will apply this Privacy Policy to any personal information received. If you submit a letter to the editor or other content to be published in one of our publications, whether such publication originates online or offline, we may publish your name or other information in connection with publishing the letter to the editor or other content.
+We use information to respond to your requests or questions. For example, we might use your information to confirm your subscription or register you for a contest. We may use your friend's email address if you send them information from our site.
 
-↑ Back to top
+We use information to improve our products and services.  We might use your information to customize your experience with us.
 
-Advertisements and Third Party Advertising Companies:
+We use information to look at site trends and customer interests. We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
 
-We or our third party advertising partners may use information about you and your visits to the Properties in order to serve advertisements to you on our web pages. One of those partners is Yahoo!, an ad network partner which operates through the APT from the Yahoo! platform, that displays ads on the Properties. To improve your ad experience on the Properties and elsewhere on the Internet, we may send information to third party advertising partners, such as Yahoo!, based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. To learn more about Yahoo!'s ad practices, including how to opt out of its use of anonymous information to select which ads to show you, see <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html>.
+We use information for security purposes.  We may use information to protect our company, our customers, or our websites.
 
-↑ Back to top
+We use information for marketing purposes.  For example, we might send you information about special promotions or offers. We might tell you about new features or products. These might be our own offers or products, or third party offers or products we think you might find interesting.We may use push notifications on our mobile apps. To manage this, read the choices section below.
 
-Sharing and Disclosure of PII to Third Parties:
+We use information to communicate with you about your account or our relationship. We may contact you about your account or subscription. We might also contact you about this Policy or our website Terms.
 
-We may share PII as disclosed in this Privacy Policy or at the time you provide your information. In addition, we will share PII with third parties for third parties’ marketing and other purposes and so that the third parties can send you information and special offers. We may also share PII with third parties in the following circumstances:
+We use information to talk to parents or guardians to get permission.  We may use contact information to get permission from parents for children who want to use our site.
 
-  * We may employ other companies and individuals to perform functions on our behalf. Examples include, without limitation, fulfilling orders, sending communications on our behalf (including our e-mail editions), analyzing data, providing marketing assistance, creating, hosting and/or running contests/sweepstakes/games and providing customer service. These third parties may have access to our users' PII in order to provide these services to us or on our behalf. 
-  * We may disclose information about our users, including PII, at the request of governmental authorities conducting an investigation, or to verify or enforce compliance with our internal policies and applicable laws. We may use IP addresses to identify users in cooperation with internet service providers or law enforcement agencies, and may also disclose user information whenever we believe disclosure is necessary to limit our liability or to protect or enforce the rights, interests or safety of the Properties, our users or others.
-  * We may sell, transfer or otherwise disclose user information, including PII, in connection with a corporate merger, consolidation, the sale of substantially all assets or of a business group, or other corporate change. 
-
-
+We use information as otherwise permitted by law. For example, we may use your IP address for identification purposes in cooperation with internet service providers or law enforcement agencies.
 
 ↑ Back to top
 
-User-Submitted Content
+We will share information within the Wrapports family of companies.
 
-The Properties may allow you to make comments or participate in chat rooms, forums, blogs and message boards or other forms of user-submitted content (“User-Submitted Content”). If you post PII online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any User-Submitted Content. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
+We will share information with third parties who perform services on our behalf.For example, we share information with vendors who send emails for us or fulfill your purchases.
 
-↑ Back to top
+We will share information with our business partners. For example, we might share information with a business partner who runs a sweepstakes for us. These partners may send you information about events and products by mail or email. To control this, read the choices section below.
 
-Security
+We will share information if we think we have to in order to comply with the law or to protect ourselves. For example, we will share information at the request of governmental authorities conducting an investigation, or to verify or enforce compliance with our internal policies and applicable laws. We will share information to respond to a court order or subpoena. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion. We may share your information whenever we believe disclosure is necessary to limit our liability or to protect or enforce the rights, interests or safety of our products and services, our users or others.
 
-We store the information we collect from you on limited access servers, and we take steps to maintain the security of our servers and to protect your PII from unauthorized disclosure. However, even reasonable security measures do not guarantee the security of any information you transmit via the internet, including to Sun-Times Media. You are responsible for protecting your username and password from third party access, and for selecting passwords that are secure.
+We may share information with any successor to all or part of our business.For example, if part of our business was sold we may give our customer list as part of that transaction.
 
-↑ Back to top
-
-Links
-
-Please be aware that when you are on the Properties or viewing an e-mail from Sun-Times Media, you could be directed to other web pages or online content through links that take you outside our service and are beyond our control. For example, you may encounter links from sponsors or partners that may include Sun-Times Media's logo as part of a co-branding agreement. If you "click" on a link to such a third party, the "click" takes you to a third party's web site. These other web sites, even if they are branded Sun-Times Media, may be operated by third parties who set their own cookies, collect data, and/or have their own privacy policies. This Privacy Policy only covers information collected by Sun-Times Media on the Properties, and we encourage you to review the privacy policy of any other web site you visit.
+We may share information for other reasons we may describe to you.
 
 ↑ Back to top
 
-Consent to Transfer
+### You have certain choices about our marketing and tracking tools.
 
-The Properties are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States, which may not provide the same level of protections as those in your own country. By using the Properties, participating in any of our services and/or providing us with your information, you consent to this transfer to, retention of and processing of your data in the United States.
+You can opt out of receiving our marketing emails.To stop receiving our promotional emails, [click here ](http://signup.suntimes.com/) or follow the instructions in any promotional message you get from us. You may still receive transactional messages.
 
-↑ Back to top
+You can control if we share information with third parties for their marketing purposes. To opt out of having us share your information with third parties for their promotional purposes, click here. 
 
-Children
+You can control cookies and tracking tools. To learn how we - and our vendors - use cookies and other tracking tools, please click [here](http://www.suntimes.com/aboutus/aboutourads/index.html).
 
-The Properties are not directed to children younger than the age of 13, and the Properties do not knowingly collect PII from children younger than 13 years of age. If you are younger than 13 years of age, do not send any information about yourself to the Properties. If we discover that a child younger than the age of 13 has provided the Properties with PII, we will delete that child's PII from our database. If you are a parent of a child under 13, and you believe that your child has provided us with information about him or herself, please refer to the “Contact Us” section for contact information.
-
-↑ Back to top
-
-California Residents
-
-If you are a California resident and have an established business relationship with us, you may request from us a list of the categories of personal information we have disclosed to third parties for those third parties’ marketing purposes, and a list of all third parties to whom we have shared that information. We will include in that list the names and addresses of the third parties who received the information and used it (or who we believe may have used it) for their own marketing purposes.
-
-To exercise your rights, you may make one request each year by emailing us at [copyrightagent@suntimes.com ](mailto:copyrightagent@suntimes.com) or writing us at the address listed in the “Contact Us” section below. Indicate in your letter that you are making a “Shine the Light” inquiry. Responses to requests sent to this email address or the mailing address listed below will be provided within 30 days.
+You can control tools on your mobile devices. For example, you can turn off the GPS locator or push notifications on your mobile device. Each push notification has an "unsubscribe" link.
 
 ↑ Back to top
 
-Modifications
+### These sites and children.
 
-By using the Properties, you agree to the terms of this Privacy Policy. Sun-Times Media reserves the right to modify, alter or otherwise update this Privacy Policy at any time. We will post any changes here, so be sure to check back from time to time. Of course, unless you consent otherwise, we will use your PII consistent with the Privacy Policy in effect at the time you submitted your PII.
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email](mailto:privacy@suntimes.com) us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
 
 ↑ Back to top
 
-Contact Us
+### We use standard security measures.
 
-If you have any questions, comments or concerns about our Privacy Policy, please contact us by email at [copyrightagent@suntimes.com](mailto:copyrightagent@suntimes.com) or send a letter to Copyright Agent, Sun-Times Media, LLC, 350 N. Orleans Street, 10-S, Chicago, IL 60654.
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
 
-The effective date of this Privacy Policy is November 1, 2010.
+We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+↑ Back to top
+
+### We store information in the United States.
+
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
+
+↑ Back to top
+
+### We may link to other sites or have third party services on our site we don't control.
+
+If you click on a link to a third party site, you will be taken to websites we do not control. This includes sites that include our logo because we partner with that company. This policy does not apply to the privacy practices of that website. That website sets its own cookies, collects data and /or has its own privacy practices. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
+
+Our site may also serve third party ads or content that contain the third party's own cookies or tracking technologies. We do not control the use of those technologies.
+
+↑ Back to top
+
+### Feel free to contact us if you have more questions.
+
+If you have any questions about this Policy or other privacy concerns, please [email](mailto:privacy@suntimes.com) us.
+
+You can also write to us or call at:
+
+Sun-Times Media, LLC   
+350 N. Orleans Street, 10-S   
+Chicago, IL 60654   
+Attention: Privacy Questions  
+Phone:312-321-3000
+
+↑ Back to top
+
+### We may update this Policy.
+
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+
+© 2012 Sun-Times Media, LLC. All rights reserved.
 
 ↑ Back to top
