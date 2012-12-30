@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevelina.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630002111id_/http%3A//www.sevelina.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevelina.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180653id_/http%3A//www.sevelina.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | • Sevelina Girls Games •
 
@@ -41,6 +41,3 @@ All published games under SEVELINA bar are created by SEVELINA, with all proprie
 **Advertisements**
 
 sevelina.org does not accept any responsibility for advertisements which are published at the website, though the reasonable control for ads content is permanently monitored.
-
-  
-
