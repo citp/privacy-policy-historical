@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the builtlean.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623203345id_/http%3A//www.builtlean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtlean.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230210914id_/http%3A//www.builtlean.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BuiltLean.com
+# Privacy Policy - BuiltLean.com
 
   
 This privacy policy sets out how Elite Training Partners LLC DBA BuiltLean (BuiltLean) uses and protects any information that you give BuiltLean when you use this website.
@@ -35,7 +35,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 ### How to modify, or delete your personal information or opt-out
 
-In every email we send, we have a “Manage Your Subscription” link where you can change, or update your contact settings, or opt-out from receiving our emails. We also include our address and phone number in case you have any questions, or experience any difficulty. Finally, we are accessible through our [Contact Form](http://www.builtlean.com/contact-me) on BuiltLean.com and through our social media presence on [Facebook](http://www.facebook.com/builtlean), [Twitter](http://www.twitter.com/builtlean), and [Youtube](http://www.youtube.com/BuiltLeanTV).
+In every email we send, we have a “Manage Your Subscription” link where you can change, or update your contact settings, or opt-out from receiving our emails. We also include our address and phone number in case you have any questions, or experience any difficulty. Finally, we are accessible through our [Contact Form](http://www.builtlean.com/contact/) on BuiltLean.com and through our social media presence on [Facebook](http://www.facebook.com/builtlean), [Twitter](http://www.twitter.com/builtlean), and [Youtube](http://www.youtube.com/BuiltLeanTV).
 
 ### Security 
 
@@ -60,7 +60,7 @@ Our website may contain links to enable you to visit other websites of interest 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
 • Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-• If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support (at) builtlean.com
+• If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us using our [contact form](http://www.builtlean.com/contact/).
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 184 Lexington Ave., New York, NY, 10016 Attn: BuiltLean Support.
 
@@ -71,4 +71,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 Click the links below, which verifies the identity of BuiltLean.com, demonstrates that our website is scanned for malware daily, and has been Accredited by the Better Business Bureau (BBB): 
 
 | [](http://www.bbb.org/new-york-city/business-reviews/personal-trainers/builtlean-in-new-york-ny-128703/#bbbonlineclick "Built Lean BBB Business Review")  
----|---
+---|---  
+  
+_Last modified: December 18, 2012_
