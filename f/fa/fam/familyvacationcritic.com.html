@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the familyvacationcritic.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630092945id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the familyvacationcritic.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230190147id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
     	<!-- Load in common CSS and javascript -->
@@ -25,9 +25,10 @@
 <script type="text/javascript" src="/include/jquery/jAlert/jquery.alerts.js"></script>
 
 <script type="text/javascript">
-
+/*
 $(function() {
-    $("a.writeAReview").fancybox({
+    if($("a.writeAReview").length >= 1) {
+		$("a.writeAReview").fancybox({
             'transitionIn'  :   'elastic',
             'transitionOut' :   'elastic',
             'speedIn'       :   600, 
@@ -37,8 +38,9 @@ $(function() {
             'width'         :   620,
             'height'        :   500
         });
+	}
 });
-
+*/
 </script>
 
 <script type="text/javascript">
@@ -157,12 +159,17 @@ $(function() {
 <script type="text/javascript" src="/js/global.js"></script>
 <link rel="stylesheet" type="text/css" href="/css/global.css" media="screen">
 
-
+                                        
 <script type="text/javascript" src="/js/ajax.js"></script>
 <script type="text/javascript" src="/js/login.js"></script>
 <script type="text/javascript" src="/js/vbulletin_md5.js"></script>
 <script tyle="text/javascript">MM_preloadImages('/images/SS_towel_plain_popup.gif', '/images/CC-popunder_3_Blank.gif')</script>
 <link rel="stylesheet" type="text/css" href="/css/standardWidget.css" media="screen">
+
+
+<!-- AJAX library for Exact Target -->
+<script language="JavaScript" src="/js/exactTarget_ajax_soap.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/exactTarget.css">
 
 
 
@@ -192,20 +199,12 @@ $(function() {
     </head>
 	<body>
 		<div id="wrapper">
-			<div id="ad"><div class="floatLeft"><iframe src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/;pos=topleft;sz=728x90;tile=1;ord=1341048585;?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adj/ta.cc.fvc.com.s/;pos=topleft;sz=728x90;abr=!ie;tile=1;ord=1341048585;?" type="text/javascript"></script></iframe><noscript><a href="http://ad.doubleclick.net/jump/ta.cc.fvc.com.s/;pos=topleft;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=1;ord=1341048585;?" target="_blank"><img src="http://ad.doubleclick.net/ad/ta.cc.fvc.com.s/;pos=topleft;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=1;ord=1341048585;?" width="728" height="90" border="0" alt=""></a></noscript></div><div class="floatRight" style="width:221px; overflow:hidden;"><!-- CSS for newsletter form -->
-						<link rel="stylesheet" type="text/css" href="/css/exactTarget.css">
-						<!-- AJAX library for Exact Target -->
-						<script language="JavaScript" src="/js/exactTarget_ajax_soap.js"></script>
-						<script language="JavaScript">
-							ExactTarget.init();
-							ExactTarget.newsLetterSubscribeFormId = "newsletterSubscribeFrm";
-						</script><!-- START E-NEWSLETTER SIGN-UP FORM -->
-                    <form id="newsletterSubscribeFrm">
+			<div id="ad"><div class="floatLeft"><iframe src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/;pos=topleft;sz=728x90;tile=1;ord=1356895010;?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adj/ta.cc.fvc.com.s/;pos=topleft;sz=728x90;abr=!ie;tile=1;ord=1356895010;?" type="text/javascript"></script></iframe><noscript><a href="http://ad.doubleclick.net/jump/ta.cc.fvc.com.s/;pos=topleft;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=1;ord=1356895010;?" target="_blank"><img src="http://ad.doubleclick.net/ad/ta.cc.fvc.com.s/;pos=topleft;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=1;ord=1356895010;?" width="728" height="90" border="0" alt=""></a></noscript></div><div class="floatRight" style="width:221px; overflow:hidden;"><!-- START E-NEWSLETTER SIGN-UP FORM -->
+                    <form class="newsletterSubscribeFrm">
                         <fieldset>
-                            <label id="subscriberEmailLbl">Sign Up for Our Newsletter</label>
-                            <div id="newsletterMsg"></div>
-                            <input type="text" id="subscriberEmail" name="subscriberEmail" class="newsletterField emailExample" value="Enter your e-mail" onfocus="this.value='';" maxlength="100">
-                            <input type="button" value="Go" id="newsletterSubmitBtn" name="newsletterSubmitBtn" onclick="return ExactTarget.addSubscriber()">
+                            <label class="subscriberEmailLbl">Sign Up for Our Newsletter</label>
+                            <input type="text" name="subscriberEmail" class="subscriberEmail newsletterField emailExample" value="Enter your e-mail" onfocus="this.value='';" maxlength="100">
+                            <input type="submit" value="Go" class="newsletterSubmitBtn" name="newsletterSubmitBtn">
                             <input type="hidden" id="siteOrigin" name="siteOrigin" value="fvc"><input type="hidden" id="pageReferer" name="pageReferer" value=""><input type="hidden" id="adClickPage" name="adClickPage" value="http://" www.familyvacationcritic.com="" privacy="" abt="" "="">
                         </fieldset>
                     </form>
@@ -275,7 +274,7 @@ $(function() {
                     	<div id="headerBarImg">&nbsp;</div>
 						<div id="mainNav">
 
-	<a href="/" title="Home" class="unselectedSection">Home</a><a href="/family-vacations/" class="unselectedSection" title="Destinations">Destinations</a><a href="/family-resorts/" title="Family Resorts" class="unselectedSection">Resorts</a><a href="/vacation-rentals/" title="Vacation Rentals" class="unselectedSection">Rentals</a><a href="/deals/" title="Family Vacation Deals" class="unselectedSection">Deals</a><a href="/planning-and-ideas/" title="Planning and Ideas" class="unselectedSection">Planning and Ideas</a><a href="/forums/" title="Family Vacation Forums" class="unselectedSection">Forums</a><a href="/include/writeReviewPopup.php" rel="nofollow" class="writeAReview unselectedSection" style="color: #BD081E" '="">Write a Review</a></div>
+	<a href="/" title="Home" class="unselectedSection">Home</a><a href="/family-vacations/" class="unselectedSection" title="Destinations">Destinations</a><a href="/family-resorts/" title="Family Resorts" class="unselectedSection">Resorts</a><a href="/vacation-rentals/" title="Vacation Rentals" class="unselectedSection">Rentals</a><a href="/deals/" title="Family Vacation Deals" class="unselectedSection">Deals</a><a href="/planning/" title="Planning" class="unselectedSection">Planning</a><a href="/ideas/" title="Ideas" class="unselectedSection">Ideas</a><a href="/forums/" title="Family Vacation Forums" class="unselectedSection">Forums</a><a href="/member-reviews/write-review.php" rel="nofollow" class="unselectedSection" style="color: #BD081E" '="">Write a Review</a></div>
                     </div>
                     
                     
@@ -360,7 +359,7 @@ LauraS<br>
 Senior Manager, Community <br>
 Family Vacation Critic</div><br clear="all">				</div>
                 <div id="abtRightPanel">
-					<div id="skyscraperAd"><iframe src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/;pos=right1;sz=160x600;tile=3;ord=1341048585;?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/;pos=right1;sz=160x600;tile=3;ord=1341048585;?" type="text/javascript"></script></iframe><noscript><a href="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/;pos=right1;sz=160x600;tile=3;ord=1341048585;?" target="_blank"><img src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/;pos=right1;sz=160x600;tile=3;ord=1341048585;?" width="160" height="600" border="0" alt=""></a></noscript></div>				</div>
+					<div id="skyscraperAd"><iframe src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/;pos=right1;sz=160x600;tile=3;ord=1356895010;?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/;pos=right1;sz=160x600;tile=3;ord=1356895010;?" type="text/javascript"></script></iframe><noscript><a href="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/;pos=right1;sz=160x600;tile=3;ord=1356895010;?" target="_blank"><img src="http://ad.doubleclick.net/adi/ta.cc.fvc.com.s/;pos=right1;sz=160x600;tile=3;ord=1356895010;?" width="160" height="600" border="0" alt=""></a></noscript></div>				</div>
 				<div class="spacer"> </div>
             	<div id="footerBar"><img id="colorBar" src="/images/color-bar_FVC.gif"></div>
 <div id="copyright">
@@ -378,6 +377,30 @@ Family Vacation Critic</div><br clear="all">				</div>
 <br clear="all">
 
 
+<!-- AddThis Button BEGIN -->
+<div id="addthis_vertical" class="addthis_toolbox addthis_floating_style addthis_counter_style" style="left:50px;top:232px;padding:10px;">
+	<a class="addthis_button_facebook_like" fb:like:layout="box_count"></a>
+	<a class="addthis_button_tweet" tw:count="vertical"></a>
+	<a class="addthis_button_google_plusone" g:plusone:size="tall"></a>
+	<a class="addthis_counter"></a>
+</div>
+<!-- AddThis Button END -->
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	positionSocialPanel();
+	$(window).resize(function() {
+		positionSocialPanel();	
+	});
+	
+});
+function positionSocialPanel() {
+	var mainpos = $('#wrapper').offset();
+	var panelpos = mainpos.left - 90;
+	$('#addthis_vertical').css('left', panelpos);
+}
+</script>
 
 <link rel="stylesheet" type="text/css" href="/toolbar/toolbar.css" media="screen">
 <script type="text/javascript" src="/toolbar/toolbar.js"></script>
@@ -442,14 +465,12 @@ Family Vacation Critic</div><br clear="all">				</div>
 
             <ul id="fvcarticles_panel_popup">
 				<!--li><span>Family Members</span></li-->
-            	<li data-id-article="442"><div class="footpanel_article_title"><a href="/taking-along-your-kids-friends-what-to-know-before-you-go/art/"><b>Taking Along Your Kids' Friends: What to Know Before You Go</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/friends-on-vacation-side.jpg">It seems like a win-win. Invite your child's best friend to join you on vacation, so they have a built-in playmate. They entertain each other, relieving you of that role. Before you offer, consider the pros and cons. Yes, there are practical considerations, like who pays for what, and preparing for ...</div></li><li data-id-article="441"><div class="footpanel_article_title"><a href="/10-tips-for-multigenerational-travel/art/"><b>10 Tips for Multigenerational Travel</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/multigenerational-family-side.jpg">My family recently returned from our first ever multigenerational vacation. My husband and I, my parents (who hadn't been to Europe in 40 years), and our two kids, ages 5 and 10, jumped right in with a two-week trip to the Mediterranean. The vacation involved coordinating two international flights d...</div></li><li data-id-article="438"><div class="footpanel_article_title"><a href="/7-spectacular-summer-specials/art/"><b>7 Spectacular Summer Specials</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/mohonk-mountain-side.jpg">It's not too late to plan a fabulous family getaway this summer with these terrific resort packages offering discounted rates and the promise of outdoor family fun.
+            	<li data-id-article="477"><div class="footpanel_article_title"><a href="/10-best-vacation-bets-for-2013/art/"><b>10 Best Vacation Bets for 2013</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/Vacations2013.jpg">As the year draws to a close, Santa's not the only one checking his list. Heading into 2013, families are fine-tuning their travel bucket lists and preparing for that all-important decision: Where to go for the next family vacation. As we do each year, we've put together a list of our top kid-friend...</div></li><li data-id-article="471"><div class="footpanel_article_title"><a href="/13-best-early-bird-ski-deals/art/"><b>13 Best Early-Bird Ski Deals</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/EarlySki.jpg">You've unpacked your boxes full of gloves, ski masks and snowsuits. You've repaired your ski poles and sharpened your skis. Now, where should you go? More importantly, where will you find a good deal, preferably one that packages lodging and lift tickets? We've uncovered the best early (and even win...</div></li><li data-id-article="468"><div class="footpanel_article_title"><a href="/14-feast-worthy-hotels-for-thanksgiving/art/"><b>14 Feast-Worthy Hotels for Thanksgiving</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/Thanksgiving.jpg">I don't know about you, but as much as I love Thanksgiving, I hate how much time I spend preparing for the holiday, cooking and cleaning, and then cooking and cleaning again. These days, hotels aren't just places to stay en route to grandma's house for the holidays. They are also destinations to gat...</div></li><li data-id-article="467"><div class="footpanel_article_title"><a href="/over-river-and-through-woods-how-to-survive-holiday-travel-with-kids/art/"><b>Over the River and Through the Woods: How to Survive Holiday Travel with Kids</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/HolidayTravel.jpg">In 2011, AAA projected 42.5 million Americans would travel for Thanksgiving, a 4 percent increase from the year prior. With that said, we can probably presume the number will rise again in 2012, bringing with it traffic jams, flight delays and cranky kids. Plus, we know airfare for Thanksgiving trav...</div></li><li data-id-article="465"><div class="footpanel_article_title"><a href="/5-fabulous-fall-festivals/art/"><b>5 Fabulous Fall Festivals</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/Balloon-Fest.jpg">Autumn is here, and with it comes much more than beautiful foliage -- it also brings a bounty of festivals that will engage all ages. Catch your breath at the sight of hundreds of hot air balloons filling the New Mexico sky, savor the taste of the best apples in the nation, or witness thousands of j...</div></li><li data-id-article="464"><div class="footpanel_article_title"><a href="/how-to-see-magic-kingdom-in-24-hours/art/"><b>How to See the Magic Kingdom in 24 Hours</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/MagicKingdomRide.jpg">
+So, you've got one day to see the most popular theme park in Walt Disney World. Twenty-four hours to conquer The Kingdom, the holy grail of family entertainment, all 107 jam-packed acres. Can it be done?  Should it be done?  I've read a lot of articles on how to see the Magic Kingdom in one day, m...</div></li><li data-id-article="463"><div class="footpanel_article_title"><a href="/best-credit-cards-for-traveling-families/art/"><b>Best Credit Cards for Traveling Families </b></a></div><div class="footpanel_article_wrapper">
+From expanded elbow room and exclusive one-on-one meetings with favorite Disney characters to free flights, free hotel nights and cold hard cash to cover the cost of gas, today's credit cards offer valuable rewards for traveling families. 
 
-1. Mountain View Grand Resort &amp; Spa, Whitefield, N.H.
-Summer is the perfect time for outdoor mountain adventure in New Hampshire. A...</div></li><li data-id-article="432"><div class="footpanel_article_title"><a href="/7-fun-hotel-specials-for-kids/art/"><b>7 Fun Hotel Specials for Kids</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/shrek-pkg-side.jpg">From American Girl Doll sleepovers to up-close encounters with Shrek and Friends, hotels across the country are luring families this summer with all kinds of special packages for kids. Children will be delighted by fun treats like scavenger hunts, S'mores, pirate treasure, and super-duper ice-cream ...</div></li><li data-id-article="430"><div class="footpanel_article_title"><a href="/10-best-resorts-for-little-chefs/art/"><b>10 Best Resorts for Little Chefs</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/little-chefs-side.jpg">The prevalence of cooking and baking shows on television, as well as a nationwide renewed interest in gardening and farm-to-table meals, is inspiring children to head to the kitchen, too! If your family is looking for a culinary adventure, these resorts and destinations promise amazing experiences -...</div></li><li data-id-article="428"><div class="footpanel_article_title"><a href="/10-best-hotel-amenities-for-kids/art/"><b>10 Best Hotel Amenities for Kids</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/kids-turndown-side.jpg">
-Sure, free drinks and complimentary Wi-Fi rank high on the lists of most desirable hotel perks among travelers in general, but when it comes to visiting with kids in tow, which hotel amenities are most revered by families? From onsite airline check-in to in-room babysitting and kid concierges, con...</div></li><li data-id-article="426"><div class="footpanel_article_title"><a href="/10-best-biking-vacations-for-families/art/"><b>10 Best Biking Vacations for Families</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/family-biking-side.jpg">Favorite family biking locales in North America combine stunning scenery with a relatively easy grid of bike trails and uncongested backcountry roads. All of these locales offer exhilarating rides, guaranteed to inspire all ages to travel on two wheels. Many of the cities on the list, like San Anton...</div></li><li data-id-article="424"><div class="footpanel_article_title"><a href="/21-perfect-summer-vacations/art/"><b>21 Perfect Summer Vacations</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/summer-getaways-side.jpg">1. Celebrate a Historic Anniversary.  Boston's historic Fenway Park celebrates its 100th anniversary this year -- the perfect time to take in a ballgame while enjoying the history of America throughout the city. Give your school-aged children an up-close and personal history lesson by visiting some ...</div></li><li data-id-article="423"><div class="footpanel_article_title"><a href="/7-memorial-weekend-deals/art/"><b>7 Memorial Weekend Deals</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/broadmoor-pool-side.jpg">The unofficial start to summer is nearly here, and this May 25 to 28 weekend is filled with enticing deals for families. Get out there and start your summer!
-
- Broadmoor Resort, Colorado Springs, Colo. 
-Escape to the Colorado mountains for a two-night Memorial Day Family Escape at the Broadmoor. ...</div></li><li data-id-article="422"><div class="footpanel_article_title"><a href="/a-beginners-guide-to-family-camping/art/"><b>A Beginner's Guide to Family Camping</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/family-camping-girls.jpg">There are few rites of passage as exciting as taking a child on his or her first camping trip. Families bond while roasting hot dogs and marshmallows, making shadow animals on the tent wall, chasing after fireflies and inhaling fragrant whiffs of pine. Whether you are an experienced camper from pre-...</div></li>            </ul>
+Here's the lowdown on the best credit cards for family ...</div></li><li data-id-article="461"><div class="footpanel_article_title"><a href="/beyond-theme-parks-best-off-the-beaten-path-orlando-attractions/art/"><b>Beyond the Theme Parks: The Best Off-the-Beaten-Path Orlando Attractions</b></a></div><div class="footpanel_article_wrapper">No doubt about it: Walt Disney World puts Orlando on the tourism map. Additional major theme parks, like Universal Studios Florida, SeaWorld Orlando and LEGOLAND, Florida have only added to the region's lure as a family vacation destination. But there's more to see in Central Florida, both in Orland...</div></li><li data-id-article="458"><div class="footpanel_article_title"><a href="/10-kid-friendly-haunted-houses-and-haunts-for-little-ones/art/"><b>10 Kid-Friendly Haunted Houses and Haunts for Little Ones</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/Halloween1.jpg">
+While haunted houses are a fun attraction for kids during Halloween and fall, some younger kids are just too young to enjoy some of the fright fests. While some children are less afraid than some adults walking through dark rooms as zombies reach for them, we've compiled a list of haunts around th...</div></li><li data-id-article="456"><div class="footpanel_article_title"><a href="/10-best-new-england-family-hotels/art/"><b>10 Best New England Family Hotels</b></a></div><div class="footpanel_article_wrapper"><img width="90" style="float:left; padding:5px 7px 0 0;" src="/images//fampics/NewEnglandHotels.jpg">From gorgeous foliage in fall to convenient family skiing in winter to outdoor enchantment in summer, New England is the perfect destination for a fabulous family vacation in any season. And with so many standout resorts for families, it can be hard to choose. Below we give you a head start with our...</div></li>            </ul>
             </div>
         </li>
         
@@ -464,9 +485,7 @@ Escape to the Colorado mountains for a two-night Memorial Day Family Escape at t
     </div>
 </div>
 </div>
-</center>        
-        
-<script type="text/javascript"> createCookie("popupsignupLastShown", "nl", 100); </script>
+</center><script type="text/javascript"> createCookie("popupsignupLastShown", "nl", 100); </script>
 
 
 
@@ -732,7 +751,6 @@ var google_conversion_value = 0;
 
 
 <!---End tracking for Urchin and GA--->
-
 
 
 
