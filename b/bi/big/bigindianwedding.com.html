@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bigindianwedding.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629231117id_/http%3A//www.bigindianwedding.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigindianwedding.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230193333id_/http%3A//www.bigindianwedding.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -7,9 +7,9 @@
 <!--<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />-->
 <meta name="alexaVerifyID" content="_RBKLuaOWw6HXefsp95jaTVLUT8">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Big Indian Wedding - Be Your Own Wedding Planner</title>
-<meta name="keywords" content="Indian wedding, plan wedding">
-<meta name="description" content="Wedding planning tips and advice-Plan your dream wedding using bigindianwedding.com, your complete guide to wedding planning, wedding ideas, wedding dresses, venues, flowers, photographers and more....">
+<title>BigIndianWedding.com - Indian Wedding Ideas - Wedding Planners</title>
+<meta name="keywords" content="Big Indian Wedding, plan a wedding, Wedding Planners, Wedding DIY, Wedding Resources, Wedding Directory">
+<meta name="description" content="Wedding planning tips and advice - Plan your dream wedding using bigindianwedding.com, your complete guide to wedding planning, wedding ideas, wedding dresses, venues, flowers, photographers and more....">
 <!-- meta name="google-site-verification" content="d9XcsbP3b4FvprBQpzCLtjAb6qVzGmT132as3kxCxDk" / -->
 <meta name="google-site-verification" content="we3vdINMhlM8s1hgAfJMYcWXfCbd8vsDFHRI40Fwde0">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
@@ -49,22 +49,60 @@ anylinkcssmenu.init("anchorclass")//Pass in the CSS class of anchor links (that 
 </script>
 
 
+<link rel="stylesheet" href="http://www.bigindianwedding.com/css/galleriffic-2.css" type="text/css">
+<script type="text/javascript" src="http://www.bigindianwedding.com/js/jquery.galleriffic.js"></script>
+<script type="text/javascript" src="http://www.bigindianwedding.com/js/jquery.opacityrollover.js"></script>
+
 
 <link type="text/css" media="screen" rel="stylesheet" href="http://www.bigindianwedding.com/css/prettyPhoto.css">
 <script src="http://www.bigindianwedding.com/js/jquery.prettyPhoto.js" type="text/javascript"></script>
-<script type="text/javascript" language="javascript">		 
-	$(document).ready(function(){		
-		$("#floating_link a[rel^='prettyPhoto']").prettyPhoto();		
-		$(".gallery:first a[rel^='prettyPhoto']").prettyPhoto();
-		$(".gallery:gt(0) a[rel^='prettyPhoto']").prettyPhoto();
-		$("#videos:first a[rel^='prettyPhoto']").prettyPhoto();
-		$("#videos::gt(0) a[rel^='prettyPhoto']").prettyPhoto();
-		$("#freeQuoteDiv:first a[rel^='prettyPhoto']").prettyPhoto();		
-		$("#freeQuoteDiv::gt(0) a[rel^='prettyPhoto']").prettyPhoto();		
-		$("#bottom-side-slider a[rel^='prettyPhoto']").prettyPhoto();			
-	});
-</script>
 
+<script type="text/javascript" language="javascript">	
+var ScrollToTop=ScrollToTop||{setup:function(){	$(window).scroll(function(){ if ($(this).scrollTop() > 100) { $('.scrollup').fadeIn(); } else { $('.scrollup').fadeOut();}}); $('.scrollup').click(function(){$("html, body").animate({ scrollTop: 0 }, 600); return false;});var a=($(window).height()/2) - 30; $('.scrollup').css('bottom',a+'px');}}	
+ 
+$(document).ready(function(){	
+	var listUrl = 'http://www.bigindianwedding.com/CompanyList/Surat/';	
+	$("#floating_link a[rel^='prettyPhoto']").prettyPhoto();		
+	$(".gallery:first a[rel^='prettyPhoto']").prettyPhoto();
+	$(".gallery:gt(0) a[rel^='prettyPhoto']").prettyPhoto();
+	$("#videos:first a[rel^='prettyPhoto']").prettyPhoto();
+	$("#videos::gt(0) a[rel^='prettyPhoto']").prettyPhoto();
+	$("#freeQuoteDiv:first a[rel^='prettyPhoto']").prettyPhoto();		
+	$("#freeQuoteDiv::gt(0) a[rel^='prettyPhoto']").prettyPhoto();		
+	$("#bottom-side-slider a[rel^='prettyPhoto']").prettyPhoto();	
+	$("#appointment").prettyPhoto();
+	$("#article-doc").prettyPhoto();		
+	$('.featurefilter').click(function(){
+		var comma = '';
+		var sf='';
+		var chks = document.getElementsByName('p_attribute[]');		
+		for (var i = 0; i < chks.length; i++) {
+			if (chks[i].checked) {			
+				sf = sf + comma + chks[i].value;
+				comma = ',';						
+			}	
+		}
+		if(sf!='') {		
+			window.location.href = listUrl + '?sf='+sf;	
+		} 
+		else { 
+			window.location.href = listUrl;	
+		}	
+	});
+	
+	$(".more-country").click(function(e){ 		
+			e.stopPropagation();			
+			var kntry = $(this).attr('id');					
+			$.post("http://www.bigindianwedding.com/chlocation/" + kntry +"/", function(data) {
+				if ((data != "")&& (data == "succ")){
+					// no action 
+					window.location='http://www.bigindianwedding.com/';
+				}				
+			});		
+		});
+				
+});
+</script>
  
 
 
@@ -72,7 +110,7 @@ anylinkcssmenu.init("anchorclass")//Pass in the CSS class of anchor links (that 
 <script type="text/javascript" src="http://www.bigindianwedding.com/js/thickbox-compressed.js"></script>
 
 
-
+<script type="text/javascript" src="http://www.bigindianwedding.com/js/chrome.js"></script>
 
 		
 <script language="JavaScript" type="text/JavaScript">
@@ -132,13 +170,47 @@ function dispCatIndex(cityVal){
   <!-- top area start here -->
   <div id="topcities"> 
        <div class="div1 dp90">
-	    
-   <a href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/" class="curLocationLink"><span class="curLocation">Pune</span></a><a href="http://www.bigindianwedding.com/CompanyList/Delhi-NCR/Bandwallahs/"><span>Delhi NCR</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bandwallahs/"><span>Mumbai</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Bangalore/Bridal-Fashions/"><span>Bangalore</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Kolkata/Bridal-Fashions/"><span>Kolkata</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Hyderabad/Bridal-Fashions/"><span>Hyderabad</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Chennai/Bandwallahs/"><span>Chennai</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Jaipur/Bandwallahs/"><span>Jaipur</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Ahmedabad/Bandwallahs/"><span>Ahmedabad</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Chandigarh/Bandwallahs/"><span>Chandigarh</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Ludhiana/Bandwallahs/"><span>Ludhiana</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Lucknow/Bandwallahs/"><span>Lucknow</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/"><span>Surat</span></a> 
+	   <div class="activecity"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/Lehengas-and-Sarees/" class="curLocationLink"><span class="curLocation">Surat</span></a></div><div class="city"><a href="http://www.bigindianwedding.com/CompanyList/Delhi-NCR/Bridal-Fashions/Lehengas-and-Sarees/"><span>Delhi NCR</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bridal-Fashions/Lehengas-and-Sarees/"><span>Mumbai</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Bangalore/Bridal-Fashions/Lehengas-and-Sarees/"><span>Bangalore</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Kolkata/Bridal-Fashions/Lehengas-and-Sarees/"><span>Kolkata</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/Lehengas-and-Sarees/"><span>Pune</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Hyderabad/Bridal-Fashions/Lehengas-and-Sarees/"><span>Hyderabad</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Chennai/Bridal-Fashions/Lehengas-and-Sarees/"><span>Chennai</span></a> · </div><div style="float:right;"><div class="morecity"> <span id="morecitiesmenu">
+				<div class="morecitieslink">
+					<a id="citiesanchor" rel="submenu1" class="anchorclass location" href="#">More Cities 
+						<img src="http://www.bigindianwedding.com/images/cityarrowdown.png" border="0">
+					</a>
+				</div>
+		 </span>
+		 <div id="submenu1" class="anylinkcsscols morecities">		
+			<div class="morectcontent">
+				 
+			  <div><a href="http://www.bigindianwedding.com/CompanyList/Jaipur/Bridal-Fashions/Lehengas-and-Sarees/"><span>Jaipur</span></a></div>
+			  <div><a href="http://www.bigindianwedding.com/CompanyList/Ahmedabad/Bridal-Fashions/Lehengas-and-Sarees/"><span>Ahmedabad</span></a></div>
+			  <div><a href="http://www.bigindianwedding.com/CompanyList/Chandigarh/Bridal-Fashions/Lehengas-and-Sarees/"><span>Chandigarh</span></a></div>
+			  <div><a href="http://www.bigindianwedding.com/CompanyList/Ludhiana/Bridal-Fashions/Lehengas-and-Sarees/"><span>Ludhiana</span></a></div>
+			  <div><a href="http://www.bigindianwedding.com/CompanyList/Lucknow/Bridal-Fashions/Lehengas-and-Sarees/"><span>Lucknow</span></a></div>
+			  <div><a href="http://www.bigindianwedding.com/CompanyList/Indore/Bridal-Fashions/Lehengas-and-Sarees/"><span>Indore</span></a></div>			 
+			</div>
+		</div>	
+</div><div class="othercountry" style="float:right;"> <span id="morecitiesmenu">
+				<div class="morecitieslink">
+					<a id="citiesanchor" rel="submenu1" class="anchorclass location" href="#">Outside INDIA 
+						<img src="http://www.bigindianwedding.com/images/cityarrowdown.png" border="0">
+					</a>
+				</div>
+		 </span>
+		 <div id="submenu1" class="anylinkcsscols morecities">		
+			<div class="morectcontent">
+				 
+			  <div><a href="javascript:void(0);" title="UAE" class="more-country" id="AE"><span>UAE</span></a></div>			 
+			</div>
+		</div>	
+</div></div>	
+	 
 	 </div>	
 	<div class="div2 dp10">
-		<span class="socialbtn"><a href="http://twitter.com/bigindwedding" target="_blank" title="Follow us on Twitter"><img src="http://www.bigindianwedding.com/images/twitter-small.png" border="0"></a> <a href="http://www.facebook.com/pages/BigIndianWedding/109515479113833?v=wall" target="_blank" title="Connect to us on Facebook"><img src="http://www.bigindianwedding.com/images/facebook-small.png" border="0"></a></span>
+		<span class="socialbtn">
+		<a href="http://pinterest.com/bigindwedding/" target="_blank" rel="nofollow" title="Follow us on Pinterest"><img src="http://www.bigindianwedding.com/images/pinterest.png" border="0"></a> 
+		<a href="https://plus.google.com/100496929871720225023/posts/" target="_blank" rel="nofollow" title="Follow us on Google plus"><img src="http://www.bigindianwedding.com/images/google-plus-icon.png" border="0"></a> 
+		<a href="https://twitter.com/BgIndianWedding" target="_blank" rel="nofollow" title="Follow us on Twitter"><img src="http://www.bigindianwedding.com/images/twitter-small.png" border="0"></a> <a href="http://www.facebook.com/pages/BigIndianWedding/109515479113833?v=wall" target="_blank" rel="nofollow" title="Connect to us on Facebook"><img src="http://www.bigindianwedding.com/images/facebook-small.png" border="0"></a></span>
    
-	</div>     
+	</div>  	  
  </div>
   <div id="headerHome">
     <div id="logo"><a href="http://www.bigindianwedding.com/" title="Big Indian Wedding home page">&nbsp;</a></div>
@@ -146,7 +218,7 @@ function dispCatIndex(cityVal){
 			<div id="user-login-pop">
 		<div id="top1">&nbsp;</div>
 		<div class="clear"></div>
-						 <a href="http://www.bigindianwedding.com/popup_login.php?page=&amp;act=&amp;lPage=/Privacy/&amp;TB_iframe=true&amp;height=200&amp;width=260" class="thickbox" title="Login"><img src="http://www.bigindianwedding.com/images/login_link.jpg" alt="login" border="0"></a>
+						 <a href="http://www.bigindianwedding.com/popup_login.php?TB_iframe=true&amp;height=200&amp;width=260" class="thickbox" title="Login" onclick="_gaq.push(['_trackEvent', 'Login', 'Button']);"><img src="http://www.bigindianwedding.com/images/login_link.jpg" alt="login" border="0"></a>
 	<!-- Login form start-->
 					</div>
 	<!-- end of Login form -->
@@ -155,8 +227,7 @@ function dispCatIndex(cityVal){
 		<div id="top1">&nbsp;</div>
 		<div class="clear"></div>
 		<div id="header-top-banner"><!--a href='http://www.bigindianwedding.com/bannertrack.php?bname=naina_arora&url=http://www.nainaarora.com/' target='_blank'-->
-<a href="http://www.nainaarora.com/" rel="nofollow" target="_blank">
-		<img src="http://www.bigindianwedding.com/uploads/banner/horizontal/nainaarora_home_400x60.jpg" alt="contact" border="0"></a></div>	
+<a href="http://www.nainaarora.com/" rel="nofollow" target="_blank" onclick="_gaq.push(['_trackEvent', 'Naina-Arora', 'Click']);"><img src="http://www.bigindianwedding.com/uploads/banner/horizontal/nainaarora_home_400x60.jpg" alt="contact" border="0"></a></div>	
 	   </div>	
     </div>
   <!-- top area end here -->
@@ -165,88 +236,67 @@ function dispCatIndex(cityVal){
   <div class="clear"></div>
 	  <div id="topnav">
 	 	<ul>
-			<li><a class="first" id="vendoranchor" href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/">Service Providers</a></li>
+			<li><a class="first" id="vendoranchor" href="http://www.bigindianwedding.com/CompanyList/Surat/Astrologers/">Service Providers</a></li>
 		<div id="vendormenu" class="megamenu">
 	<ul>
-  <div class="column first">		<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/">Bridal Fashions</a>
-	  <ul>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/Designers/">Designers</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/Lehengas-and-Sarees/">Lehengas and Sarees</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/Shoes-and-Bags/">Shoes and Bags</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/Watches/">Watches</a></li>
-				</ul>
-		</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Car--Bus-Rentals/">Car &amp; Bus Rentals</a>
-	  	</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Caterers/">Caterers</a>
-	  	</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/DJ-and-Live-Music/">DJ and Live Music</a>
-	  	</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Fireworks-Display/">Fireworks Display</a>
-	  	</li>  
-	</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Flowers--Decoration-Suppliers/">Flowers &amp; Decoration Suppliers</a>
-	  	</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Health-and-Beauty/">Health and Beauty</a>
-	  <ul>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Health-and-Beauty/Beauty-salons/">Beauty salons</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Health-and-Beauty/Cosmetic-Treatment/">Cosmetic Treatment</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Health-and-Beauty/Hair-Salons/">Hair Salons</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Health-and-Beauty/Makeup-artists/">Makeup artists</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Health-and-Beauty/Personal-Fitness/">Personal Fitness</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Health-and-Beauty/Weight-loss/">Weight loss</a></li>
-				</ul>
-		</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Honeymoons/">Honeymoons</a>
-	  	</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Jewellery/">Jewellery</a>
-	  	</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Lingerie-and-Intimates/">Lingerie and Intimates</a>
-	  	</li>  
-	</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Mens-Style/">Men's Style</a>
-	  <ul>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Mens-Style/Cosmetic-Treatment/">Cosmetic Treatment</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Mens-Style/Mens-fashion/">Mens fashion</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Mens-Style/Personal-Fitness/">Personal Fitness</a></li>
-				</ul>
-		</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Photographers/">Photographers</a>
-	  	</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Spas/">Spas</a>
-	  	</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Cakes/">Wedding Cakes</a>
-	  	</li>  
-	</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Choreography/">Wedding Choreography</a>
-	  	</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Invitations/">Wedding Invitations</a>
-	  	</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Planners/">Wedding Planners</a>
-	  	</li>  
-			<li><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Venues/">Wedding Venues</a>
-	  <ul>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Venues/Banquet-Halls/">Banquet Halls</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Venues/Farmhouses-Lawns/">Farmhouses &amp; Lawns</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Venues/Hotels/">Hotels</a></li>
-					
-			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Venues/Marriage-Halls/">Marriage Halls</a></li>
-				</ul>
-		</li>  
-	</div> </ul>
+	  <div class="column first">		<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Astrologers/">Astrologers</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bandwallahs/">Bandwallah's</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/">Bridal Fashions</a>
+		  <ul>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/Lehengas-and-Sarees/">Lehengas and Sarees</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/Shoes-and-Bags/">Shoes and Bags</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/Watches/">Watches</a></li>
+						</ul>
+				</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Car--Bus-Rentals/">Car &amp; Bus Rentals</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Caterers/">Caterers</a>
+		  		</li>  
+		</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Flowers--Decoration-Suppliers/">Flowers &amp; Decoration Suppliers</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/">Health and Beauty</a>
+		  <ul>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Beauty-salons/">Beauty salons</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Cosmetic-Treatment/">Cosmetic Treatment</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Hair-Salons/">Hair Salons</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Makeup-artists/">Makeup artists</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Personal-Fitness/">Personal Fitness</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Health-and-Beauty/Weight-loss/">Weight loss</a></li>
+						</ul>
+				</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Honeymoons/">Honeymoons</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Jewellery/">Jewellery</a>
+		  		</li>  
+		</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Mens-Style/">Men's Style</a>
+		  <ul>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Mens-Style/Cosmetic-Treatment/">Cosmetic Treatment</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Mens-Style/Mens-Fashion/">Mens Fashion</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Mens-Style/Personal-Fitness/">Personal Fitness</a></li>
+						</ul>
+				</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Photographers/">Photographers</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Spas/">Spas</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Cakes/">Wedding Cakes</a>
+		  		</li>  
+		</div><div class="column">		<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Gifts--Chocolates/">Wedding Gifts &amp; Chocolates</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Invitations/">Wedding Invitations</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Planners/">Wedding Planners</a>
+		  		</li>  
+				<li><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Venues/">Wedding Venues</a>
+		  <ul>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Venues/Banquet-Halls/">Banquet Halls</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Venues/Farmhouses-Lawns/">Farmhouses &amp; Lawns</a></li>
+			<li class="subcat"><a href="http://www.bigindianwedding.com/CompanyList/Surat/Wedding-Venues/Hotels/">Hotels</a></li>
+						</ul>
+				</li>  
+		</div> </ul>
 </div>		
 			<li><a href="http://www.bigindianwedding.com/CollectionsAndTrends/" alt="Collections &amp; Trends" class="anchorclass myownclass" rel="submenu2">Collections &amp; Trends </a></li>
 			<li><a href="http://www.bigindianwedding.com/Article/Planning-Ideas/" alt="Planning and Ideas" class="anchorclass myownclass" rel="submenu3">Planning &amp; Ideas</a></li>
@@ -255,43 +305,61 @@ function dispCatIndex(cityVal){
 			<li><a href="http://www.bigindianwedding.com/experts-speak/" alt="Expert Speak" class="anchorclass myownclass" rel="submenu6">Experts Speak</a></li>
 						<li><a href="http://www.bigindianwedding.com/Destination/" alt="Destination Weddings" class="anchorclass myownclass" rel="submenu7">Destination Weddings</a></li>
 						<li><a href="http://www.bigindianwedding.com/celeb-weddings/" alt="Celebrity Weddings">Celebrity Weddings</a></li>
-			<li><a class="shop" href="http://weddingshop.bigindianwedding.com/" alt="Wedding Shop" target="_blank"><span>Wedding Shop</span></a></li>
+			<li><a class="shop" href="http://weddingshop.bigindianwedding.com/" alt="Wedding Shop" target="_blank" onclick="_gaq.push(['_trackEvent', 'Weddingshop', 'Top']);"><span>Wedding Shop</span></a></li>
 		</ul>
 		<div class="clear"></div>
 	 </div>
-	
+
 
 <div id="submenu3" class="anylinkcsscols">
 <ul>
 	<div class="column1"><li>
+				<a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Budget-weddings/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Budget-weddings/"><img src="http://www.bigindianwedding.com/siteowner/uploads/1183642558budget-wedding.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Budget-weddings/">Budget weddings</a><div>Tips &amp; Tricks to save</div></div>
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/budget_2097670169.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Budget weddings</span><div>Tips &amp; Tricks to save</div></div>
 					</div>	
+				</a>	
 				</li>			
 			<li>
+				<a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Honeymoons/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Honeymoons/"><img src="http://www.bigindianwedding.com/siteowner/uploads/18579328501533568445istock_000010401448xsmall_l.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Honeymoons/">Honeymoons</a><div>Destinations &amp; Ideas</div></div>
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/honeymoons_1023805097.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Honeymoons</span><div>Destinations &amp; Ideas</div></div>
 					</div>	
+				</a>	
 				</li>			
 			<li>
+				<a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Luxury-Weddings/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Sex-and-Relationships/"><img src="http://www.bigindianwedding.com/siteowner/uploads/550573224couple-dreamstimecomp_15951990.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Sex-and-Relationships/">Sex and Relationships</a><div>Love and Romance</div></div>
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/thm-luxury-weddings-50_2084612879.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Luxury Weddings</span><div>Luxury Weddings</div></div>
 					</div>	
+				</a>	
 				</li>			
 			<li>
+				<a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Sex-and-Relationships/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Wedding-Planning/"><img src="http://www.bigindianwedding.com/siteowner/uploads/1085519536weddingplanning.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Wedding-Planning/">Wedding Planning</a><div>Basics &amp; Essentials</div></div>
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/sex_1144651971.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Sex and Relationships</span><div>Love and Romance</div></div>
 					</div>	
+				</a>	
 				</li>			
 			<li>
+				<a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Wedding-Planning/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Wedding-Rituals/"><img src="http://www.bigindianwedding.com/siteowner/uploads/1909208272rituals-100.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Wedding-Rituals/">Wedding Rituals</a><div>Rituals by community &amp; Religion</div></div>
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/weddingplanning_1729889425.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Wedding Planning</span><div>Basics &amp; Essentials</div></div>
 					</div>	
+				</a>	
+				</li>			
+			<li>
+				<a href="http://www.bigindianwedding.com/Article/Planning-Ideas/Wedding-Rituals/">
+					<div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/rituals_167174306.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Wedding Rituals</span><div>Rituals by community &amp; Religion</div></div>
+					</div>	
+				</a>	
 				</li>			
 				
 	</div>
@@ -300,17 +368,21 @@ function dispCatIndex(cityVal){
 	<div id="submenu4" class="anylinkcsscols">
 	<ul>
 	<div class="column1"><li>
+					<a href="http://www.bigindianwedding.com/Article/Bridal-Fashion-Jewellery/Bridal-Fashions/">
 						<div class="cat">
-							<div class="dp30"><a href="http://www.bigindianwedding.com/Article/Bridal-Fashion-Jewellery/Bridal-Fashions/"><img src="http://www.bigindianwedding.com/siteowner/uploads/443485599iStock_000003755034XSmall.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-							<div class="catname dp70"><a href="http://www.bigindianwedding.com/Article/Bridal-Fashion-Jewellery/Bridal-Fashions/">Bridal Fashions</a><div>Styles &amp; Trends</div></div>
+							<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/fashions_1163101702.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+							<div class="catname dp70"><span>Bridal Fashions</span><div>Styles &amp; Trends</div></div>
 						</div>	
-					</li>				
+					 </a>
+				</li>				
 				<li>
+					<a href="http://www.bigindianwedding.com/Article/Bridal-Fashion-Jewellery/Jewellery-Inspirations/">
 						<div class="cat">
-							<div class="dp30"><a href="http://www.bigindianwedding.com/Article/Bridal-Fashion-Jewellery/Jewellery-Inspirations/"><img src="http://www.bigindianwedding.com/siteowner/uploads/1968210749istock_000010311543xsmall.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-							<div class="catname dp70"><a href="http://www.bigindianwedding.com/Article/Bridal-Fashion-Jewellery/Jewellery-Inspirations/">Jewellery Inspirations</a><div>Engagement Ring &amp; more</div></div>
+							<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/jewlinspirations_46516801.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+							<div class="catname dp70"><span>Jewellery Inspirations</span><div>Engagement Ring &amp; more</div></div>
 						</div>	
-					</li>				
+					 </a>
+				</li>				
 					
 	</div>
 	</ul>	
@@ -318,16 +390,18 @@ function dispCatIndex(cityVal){
 <div id="submenu5" class="anylinkcsscols">
 	<ul>
 		<div class="column1"><li>
+				<a href="http://www.bigindianwedding.com/Article/Beauty/Beauty-Secrets/">
 				<div class="cat">
-					<div class="dp30"><a href="http://www.bigindianwedding.com/Article/Beauty/Beauty-Secrets/"><img src="http://www.bigindianwedding.com/siteowner/uploads/736105603631776735iStock_000013383016XSmall_L.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-					<div class="catname dp70"><a href="http://www.bigindianwedding.com/Article/Beauty/Beauty-Secrets/">Beauty Secrets</a><div>Latest makeup &amp; hair tips</div></div>
-				</div>	
+					<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/beauty_103115420.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+					<div class="catname dp70"><span>Beauty Secrets</span><div>Latest makeup &amp; hair tips</div></div>
+				</div>	</a>
 			</li>
 			<li>
+				<a href="http://www.bigindianwedding.com/Article/Beauty/Getting-in-shape/">
 				<div class="cat">
-					<div class="dp30"><a href="http://www.bigindianwedding.com/Article/Beauty/Getting-in-shape/"><img src="http://www.bigindianwedding.com/siteowner/uploads/613410298fitness.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-					<div class="catname dp70"><a href="http://www.bigindianwedding.com/Article/Beauty/Getting-in-shape/">Getting in shape</a><div>Weight loss, nutrition &amp; fitness</div></div>
-				</div>	
+					<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/fitness_695185595.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+					<div class="catname dp70"><span>Getting in shape</span><div>Weight loss, nutrition &amp; fitness</div></div>
+				</div>	</a>
 			</li>
 				
 		</div>
@@ -337,34 +411,60 @@ function dispCatIndex(cityVal){
 <div id="submenu2" class="anylinkcsscols">
 	<ul>
 		<div class="column1"><li>
-					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/CollectionsAndTrends/Lehengas-Sarees/"><img src="http://www.bigindianwedding.com/siteowner/uploads/270211642iStock_000003755034XSmall_500.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/CollectionsAndTrends/Lehengas-Sarees/">Lehengas &amp; Sarees</a><div>Lehengas Sarees</div></div>
-					</div>	
+					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Lehengas-Sarees/"><div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/lehengas_145825.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Lehengas &amp; Sarees</span><div>Bridal wear gallery</div></div>
+					</div>
+					</a>
 				</li>
 				<li>
-					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/CollectionsAndTrends/Jewellery/"><img src="http://www.bigindianwedding.com/siteowner/uploads/437380751gallerycat_jewellery.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/CollectionsAndTrends/Jewellery/">Jewellery</a><div>Jewellery</div></div>
-					</div>	
+					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Jewellery/"><div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/jewellery_1469448040.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Jewellery</span><div>Latest designs &amp; trends</div></div>
+					</div>
+					</a>
 				</li>
 				<li>
-					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/CollectionsAndTrends/Shoes-and-Bags/"><img src="http://www.bigindianwedding.com/siteowner/uploads/1535304140cat_shoesaccesories2.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/CollectionsAndTrends/Shoes-and-Bags/">Shoes and Bags</a><div>Shoes and Bags</div></div>
-					</div>	
+					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Shoes-and-Bags/"><div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/shoesaccesories_255372132.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Shoes and Bags</span><div>Bridal accessories gallery</div></div>
+					</div>
+					</a>
 				</li>
 				<li>
-					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/CollectionsAndTrends/Mens-Fashion/"><img src="http://www.bigindianwedding.com/siteowner/uploads/921581276mens-fashion.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/CollectionsAndTrends/Mens-Fashion/">Mens Fashion</a><div>Mens Fashion</div></div>
-					</div>	
+					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Mens-Fashion/"><div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/mensfashion_656993143.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Mens Fashion</span><div>Latest Men's wear photos</div></div>
+					</div>
+					</a>
 				</li>
 				<li>
-					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/CollectionsAndTrends/Wedding-Planner/"><img src="http://www.bigindianwedding.com/siteowner/uploads/463223078wedding-planner.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/CollectionsAndTrends/Wedding-Planner/">Wedding Planner</a><div>Wedding Planner</div></div>
-					</div>	
+					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Wedding-Planner/"><div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/planner_780721365.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Wedding Planner</span><div>Floral design &amp; decoration gallery</div></div>
+					</div>
+					</a>
+				</li>
+				<li>
+					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Makeup--Hairstyles/"><div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/makeup_791169512.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Makeup &amp; Hairstyles</span><div>Makeup &amp; Hairstyle trends</div></div>
+					</div>
+					</a>
+				</li>
+				<li>
+					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Resort-Wear/"><div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/cat_resortwear50_453620728.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Resort Wear</span><div>Honeymoon Collection</div></div>
+					</div>
+					</a>
+				</li>
+				<li>
+					<a href="http://www.bigindianwedding.com/CollectionsAndTrends/Cocktail-Wear/"><div class="cat">
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/cocktail_wear_thm_725775774.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Cocktail Wear</span><div>Cocktail Wear</div></div>
+					</div>
+					</a>
 				</li>
 					
 		</div>
@@ -374,46 +474,53 @@ function dispCatIndex(cityVal){
 	<div id="submenu6" class="anylinkcsscols">
 	<ul>
 		<div class="column1"><li>
+					<a href="http://www.bigindianwedding.com/ExpertList/Designers/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/ExpertList/Designers/"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/494249152designers.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/ExpertList/Designers/">Designers</a><div>Designers</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/designers_506500241.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Designers</span><div>Designers</div></div>
+					</div></a>	
 				</li>
 				<li>
+					<a href="http://www.bigindianwedding.com/ExpertList/Hair-Beauty/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/ExpertList/Hair-Beauty/"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/1225236052hair-beauty.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/ExpertList/Hair-Beauty/">Hair &amp; Beauty</a><div>Hair Beauty</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/hairbeauty_1701373631.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Hair &amp; Beauty</span><div>Hair Beauty</div></div>
+					</div></a>	
 				</li>
 				<li>
+					<a href="http://www.bigindianwedding.com/ExpertList/Jewellery/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/ExpertList/Jewellery/"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/789280276437380751gallerycat_jewellery.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/ExpertList/Jewellery/">Jewellery</a><div>Jewellery</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/jewellery_1883364993.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Jewellery</span><div>Jewellery</div></div>
+					</div></a>	
 				</li>
 				<li>
+					<a href="http://www.bigindianwedding.com/ExpertList/Mens-Fashion/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/ExpertList/Mens-Fashion/"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/307611632921581276mens-fashion.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/ExpertList/Mens-Fashion/">Mens Fashion</a><div>Mens Fashion</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/mensfashion_1394527355.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Mens Fashion</span><div>Mens Fashion</div></div>
+					</div></a>	
 				</li>
 				<li>
+					<a href="http://www.bigindianwedding.com/ExpertList/Shoes-and-Bags/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/ExpertList/Shoes-and-Bags/"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/19431741801535304140cat_shoesaccesories2.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/ExpertList/Shoes-and-Bags/">Shoes and Bags</a><div>Shoes and Bags</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/shoesaccesories_1039288636.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Shoes and Bags</span><div>Shoes and Bags</div></div>
+					</div></a>	
 				</li>
 				<li>
+					<a href="http://www.bigindianwedding.com/ExpertList/Stylists/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/ExpertList/Stylists/"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/1610541745stylists.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/ExpertList/Stylists/">Stylists</a><div>Stylists</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/stylists_1281396269.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Stylists</span><div>Stylists</div></div>
+					</div></a>	
 				</li>
 				<li>
+					<a href="http://www.bigindianwedding.com/ExpertList/Wedding-Planner/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/ExpertList/Wedding-Planner/"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/283771486wedding-planner.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/ExpertList/Wedding-Planner/">Wedding Planner</a><div>Wedding Planner</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/expert/planner_1131322281.jpg" border="0" height="46" width="46" class="borderGrey"></div>
+						<div class="catname dp70"><span>Wedding Planner</span><div>Wedding Planner</div></div>
+					</div></a>	
 				</li>
 					
 		</div>
@@ -424,40 +531,46 @@ function dispCatIndex(cityVal){
 	<div id="submenu7" class="anylinkcsscols">
 	<ul>
 		<div class="column1"><li>
+					<a href="http://www.bigindianwedding.com/WeddingDestinationListing/Grand-wedding-in-Jodhpur/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Grand-wedding-in-Jodhpur/"><img src="http://www.bigindianwedding.com/siteowner/uploads/1765981806jodhpur-dtime_6510354_L.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Grand-wedding-in-Jodhpur/">Jodhpur</a><div>Grand wedding in Jodhpur</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/1765981806jodhpur-dtime_6510354_L.jpg" border="0" height="65" width="100" class="borderGrey"></div>
+						<div class="catname dp70"><span>Jodhpur</span><div>Grand wedding in Jodhpur</div></div>
+					</div>	</a>
 				</li>
 				<li>
+					<a href="http://www.bigindianwedding.com/WeddingDestinationListing/Jaipur/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Jaipur/"><img src="http://www.bigindianwedding.com/siteowner/uploads/856998745jaipur-dtime_15143168_L.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Jaipur/">Jaipur</a><div>Jaipur</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/856998745jaipur-dtime_15143168_L.jpg" border="0" height="65" width="100" class="borderGrey"></div>
+						<div class="catname dp70"><span>Jaipur</span><div>Jaipur</div></div>
+					</div>	</a>
 				</li>
 				<li>
+					<a href="http://www.bigindianwedding.com/WeddingDestinationListing/Palace-wedding-in-Udaipur/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Palace-wedding-in-Udaipur/"><img src="http://www.bigindianwedding.com/siteowner/uploads/85487933udaipur-dtime_4871909_L.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Palace-wedding-in-Udaipur/">Udaipur</a><div>Palace wedding in Udaipur</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/85487933udaipur-dtime_4871909_L.jpg" border="0" height="65" width="100" class="borderGrey"></div>
+						<div class="catname dp70"><span>Udaipur</span><div>Palace wedding in Udaipur</div></div>
+					</div>	</a>
 				</li>
 				<li>
+					<a href="http://www.bigindianwedding.com/WeddingDestinationListing/Traditional-wedding-in-Jaisalmer/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Traditional-wedding-in-Jaisalmer/"><img src="http://www.bigindianwedding.com/siteowner/uploads/1931406473jaisalmer-dtime_1927449_L.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Traditional-wedding-in-Jaisalmer/">Jaisalmer</a><div>Traditional wedding in Jaisalmer</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/1931406473jaisalmer-dtime_1927449_L.jpg" border="0" height="65" width="100" class="borderGrey"></div>
+						<div class="catname dp70"><span>Jaisalmer</span><div>Traditional wedding in Jaisalmer</div></div>
+					</div>	</a>
 				</li>
 				<li>
+					<a href="http://www.bigindianwedding.com/WeddingDestinationListing/Beach-wedding-in-Goa/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Beach-wedding-in-Goa/"><img src="http://www.bigindianwedding.com/siteowner/uploads/1297394386goa-dtime_9620075_L.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Beach-wedding-in-Goa/">Goa</a><div>Beach wedding in Goa</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/1297394386goa-dtime_9620075_L.jpg" border="0" height="65" width="100" class="borderGrey"></div>
+						<div class="catname dp70"><span>Goa</span><div>Beach wedding in Goa</div></div>
+					</div>	</a>
 				</li>
 				<li>
+					<a href="http://www.bigindianwedding.com/WeddingDestinationListing/Backwaters-wedding-in-Kerala/">
 					<div class="cat">
-						<div class="dp30"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Backwaters-wedding-in-Kerala/"><img src="http://www.bigindianwedding.com/siteowner/uploads/834076401kerala_L.jpg" border="0" height="65" width="100" class="borderGrey"></a></div>
-						<div class="catname dp70"><a href="http://www.bigindianwedding.com/WeddingDestinationListing/Backwaters-wedding-in-Kerala/">Kerala</a><div>Backwaters wedding in Kerala</div></div>
-					</div>	
+						<div class="dp30"><img src="http://www.bigindianwedding.com/siteowner/uploads/834076401kerala_L.jpg" border="0" height="65" width="100" class="borderGrey"></div>
+						<div class="catname dp70"><span>Kerala</span><div>Backwaters wedding in Kerala</div></div>
+					</div>	</a>
 				</li>
 					
 		</div>
@@ -465,10 +578,13 @@ function dispCatIndex(cityVal){
 </div>
   <!-- top Link End here -->
 <div class="clear"></div>
-<div id="floating_link"><a href="http://www.bigindianwedding.com/getAQuote.php?iframe=true&amp;width=670&amp;height=450" rel="prettyPhoto[iframe]" title=""><img src="http://www.bigindianwedding.com/images/getfreequotey-btn.png" border="0"></a></div>
-<table border="0" cellpadding="0" cellspacing="0" width="100%" class="c">
-  <tbody><tr><!--privacy.php-->
-    <td class="breadcrumb">Privacy Policy</td>
+<div id="floating_link"><a href="http://www.bigindianwedding.com/getAQuote.php?iframe=true&amp;width=670&amp;height=450" rel="prettyPhoto[iframe]" title="" onclick="_gaq.push(['_trackEvent', 'Deals', 'Sidebar']);"><img src="http://www.bigindianwedding.com/images/getbestdeal-btn.png" border="0"></a></div>
+	
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="c">  <tbody><tr><!--privacy.php-->
+    <td class="breadcrumb">
+	<div itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+			<span itemprop="title">Privacy Policy</span>
+		</div>	</td>
   </tr>
   <tr>
     <td><img src="images/spacer.gif" width="1" height="15"></td>
@@ -502,80 +618,70 @@ function dispCatIndex(cityVal){
                         <tbody><tr>
                           <td class="pad20">
 						 
-						  <!--CONTENTSTARTS--><p>
-</p><div class="main-container col1-layout">
+						  <!--CONTENTSTARTS--><p>&nbsp;<strong style="font-family: Arial, Helvetica, sans-serif; line-height: 14pt;">Website privacy&nbsp;</strong></p>
 <div class="main">
 <div class="col-main">
 <div class="std">
-<p><strong style="font-size: medium;">Website privacy&nbsp;</strong></p>
-<p>This privacy policy sets out how www.bigindianwedding.com uses and  protects any information that you give www.bigindianwedding.com when you  use this website.</p>
-<p>www.bigindianwedding.com is committed to ensuring that your privacy  is protected. Should we ask you to provide certain information by which  you can be identified when using this website, then you can be assured  that it will only be used in accordance with this privacy statement.</p>
-<p>www.bigindianwedding.com may change this policy from time to time by  updating this page. You should check this page from time to time to  ensure that you are happy with any changes. This policy is effective  from 27th November, 2011.</p>
-<p><span style="font-size: medium;"><strong>What we collect</strong></span></p>
-<p>We may collect the following information:</p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;"> This privacy policy sets out how www.bigindianwedding.com uses and  protects any information that you give www.bigindianwedding.com when you  use this website.<br>
+</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">Bigindianwedding.com is committed to ensuring that your privacy  is protected. Should we ask you to provide certain information by which  you can be identified when using this website, then you can be assured  that it will only be used in accordance with this privacy statement.</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">Bigindianwedding.com may change this policy from time to time by  updating this page. You should check this page from time to time to  ensure that you are happy with any changes. This policy is effective  from 27th November, 2011.</span></p>
+<div><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;"><strong>What we collect</strong><br>
+</span></div>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">We may collect the following information: </span></p>
 <ul>
-    <li>
-    <p>name and job title</p>
-    </li>
-    <li>
-    <p>contact 	information including email address</p>
-    </li>
-    <li>
-    <p>demographic 	information such as postcode, preferences and interests</p>
-    </li>
-    <li>
-    <p>other information relevant 	to customer surveys and/or offers</p>
-    </li>
+    <li><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">     name and job title     </span></li>
+    <li><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">     contact 	information including email address     </span></li>
+    <li><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">     demographic 	information such as postcode, preferences and interests     </span></li>
+    <li><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">     other information relevant 	to customer surveys and/or offers     </span></li>
 </ul>
-<p><span style="font-size: medium;"><strong>What we do with the information we gather</strong></span></p>
-<p>We require this information to understand your needs and provide you  with a better service, and in particular for the following reasons:</p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;"> <strong>What we do with the information we gather</strong><br>
+</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">We require this information to understand your needs and provide you  with a better service, and in particular for the following reasons: </span></p>
 <ul>
-    <li>
-    <p>Internal record keeping.</p>
-    </li>
-    <li>
-    <p>We 	may use the information to improve our products and services.</p>
-    </li>
-    <li>
-    <p>We 	may periodically send promotional emails about new products,  special 	offers or other information which we think you may find  interesting 	using the email address which you have provided.</p>
-    </li>
-    <li>
-    <p>From time to time, we may 	also use your information to contact you  for market research 	purposes. We may contact you by email, phone, fax  or mail. We may 	use the information to customise the website according  to your 	interests.</p>
-    </li>
+    <li><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">     Internal record keeping.     </span></li>
+    <li><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">     We 	may use the information to improve our products and services.     </span></li>
+    <li><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">     We 	may periodically send promotional emails about new products,  special 	offers or other information which we think you may find  interesting 	using the email address which you have provided.     </span></li>
+    <li><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">     From time to time, we may 	also use your information to contact you  for market research 	purposes. We may contact you by email, phone, fax  or mail. We may 	use the information to customise the website according  to your 	interests.     </span></li>
 </ul>
-<p><span style="font-size: medium;"><strong>Security</strong></span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;"> <strong>Security</strong><br>
+</span></p>
+<span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">
 <p>We are committed to ensuring that your information is secure. In  order to prevent unauthorised access or disclosure we have put in place  suitable physical, electronic and managerial procedures to safeguard and  secure the information we collect online.</p>
-<p><span style="font-size: medium;"><strong>How we use cookies</strong></span></p>
-<p>A cookie is a small file which asks permission to be placed on your  computer's hard drive. Once you agree, the file is added and the cookie  helps analyse web traffic or lets you know when you visit a particular  site. Cookies allow web applications to respond to you as an individual.  The web application can tailor its operations to your needs, likes and  dislikes by gathering and remembering information about your  preferences.</p>
-<p>We use traffic log cookies to identify which pages are being used.  This helps us analyse data about webpage traffic and improve our website  in order to tailor it to customer needs. We only use this information  for statistical analysis purposes and then the data is removed from the  system.</p>
-<p>Overall, cookies help us provide you with a better website, by  enabling us to monitor which pages you find useful and which you do not.  A cookie in no way gives us access to your computer or any information  about you, other than the data you choose to share with us.</p>
-<p>You can choose to accept or decline cookies. Most web browsers  automatically accept cookies, but you can usually modify your browser  setting to decline cookies if you prefer. This may prevent you from  taking full advantage of the website.</p>
-<p><span style="font-size: medium;"><strong>Links to other websites</strong></span></p>
-<p>Our website may contain links to other websites of interest. However,  once you have used these links to leave our site, you should note that  we do not have any control over that other website. Therefore, we cannot  be responsible for the protection and privacy of any information which  you provide whilst visiting such sites and such sites are not governed  by this privacy statement. You should exercise caution and look at the  privacy statement applicable to the website in question.</p>
-<p><span style="font-size: medium;"><strong>Controlling your personal information</strong></span></p>
-<p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
+<p><strong>How we use cookies</strong></p>
+</span>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">A cookie is a small file which asks permission to be placed on your  computer's hard drive. Once you agree, the file is added and the cookie  helps analyse web traffic or lets you know when you visit a particular  site. Cookies allow web applications to respond to you as an individual.  The web application can tailor its operations to your needs, likes and  dislikes by gathering and remembering information about your  preferences.<br>
+</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">We use traffic log cookies to identify which pages are being used.  This helps us analyse data about webpage traffic and improve our website  in order to tailor it to customer needs. We only use this information  for statistical analysis purposes and then the data is removed from the  system.</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">Overall, cookies help us provide you with a better website, by  enabling us to monitor which pages you find useful and which you do not.  A cookie in no way gives us access to your computer or any information  about you, other than the data you choose to share with us.</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">You can choose to accept or decline cookies. Most web browsers  automatically accept cookies, but you can usually modify your browser  setting to decline cookies if you prefer. This may prevent you from  taking full advantage of the website.</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;"><strong>Links to other websites</strong></span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">Our website may contain links to other websites of interest. However,  once you have used these links to leave our site, you should note that  we do not have any control over that other website. Therefore, we cannot  be responsible for the protection and privacy of any information which  you provide whilst visiting such sites and such sites are not governed  by this privacy statement. You should exercise caution and look at the  privacy statement applicable to the website in question.</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">Controlling your personal information<br>
+</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">You may choose to restrict the collection or use of your personal information in the following ways: </span></p>
 <ul>
     <li>
-    <p>whenever you are asked to 	fill in a form on the website, look for  the box that you can click 	to indicate that you do not want the  information to be used by 	anybody for direct marketing purposes</p>
+    <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">     whenever you are asked to 	fill in a form on the website, look for  the box that you can click 	to indicate that you do not want the  information to be used by 	anybody for direct marketing purposes     </span></p>
     </li>
     <li>
-    <p>if you have previously 	agreed to us using your personal information  for direct marketing 	purposes, you may change your mind at any time by  writing to or 	emailing us at cs@bigindianwedding.com</p>
+    <p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">     if you have previously 	agreed to us using your personal information  for direct marketing 	purposes, you may change your mind at any time by  writing to or 	emailing us at cs@bigindianwedding.com     </span></p>
     </li>
 </ul>
-<p>We will not sell, distribute or lease your personal information to  third parties unless we have your permission or are required by law to  do so. We may use your personal information to send you promotional  information about third parties which we think you may find interesting  if you tell us that you wish this to happen.</p>
-<p>You may request details of personal information which we hold about  you under the Data Protection Act 1998. A small fee will be payable. If  you would like a copy of the information held on you please write to  C-4, Kailash Colony, New Delhi -110048.</p>
-<p>If you believe that any information we are holding on you is  incorrect or incomplete, please write to or email us as soon as  possible, at the above address. We will promptly correct any information  found to be incorrect.</p>
-<p><span style="font-size: medium;"><strong>Contacting Us</strong></span></p>
-<p>If there are any questions regarding this privacy policy you may contact us using the information below:</p>
-<p>Company Name: Big Indian wedding Pvt. Ltd.&nbsp;</p>
-<p>Address: C-4, Kailash Colony, New Delhi -110048</p>
-<p>Telephone No.: 29230121</p>
-<p>E-Mail ID: cs@bigindianwedding.com</p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;"> We will not sell, distribute or lease your personal information to  third parties unless we have your permission or are required by law to  do so. We may use your personal information to send you promotional  information about third parties which we think you may find interesting  if you tell us that you wish this to happen.</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">You may request details of personal information which we hold about  you under the Data Protection Act 1998. A small fee will be payable. If  you would like a copy of the information held on you please write to&nbsp;18, Hauz Khas Village, IIIrd Floor&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt;">New Delhi - 11001</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt;">6.</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">If you believe that any information we are holding on you is  incorrect or incomplete, please write to or email us as soon as  possible, at the above address. We will promptly correct any information  found to be incorrect.</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;"><strong>Contacting Us<br>
+</strong>If there are any questions regarding this privacy policy you may contact us using the information below:</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">Company Name: Big Indian Wedding Pvt. Ltd.</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">Address:&nbsp;18, Hauz Khas Village, IIIrd Floor,&nbsp;New Delhi - 110016</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">Phone nos.<br>
+—&nbsp;Dialing from India: (0) 98997 46676<br>
+—&nbsp;Dialing from outside India: (00) 91 98997 46676</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 14pt; font-weight: normal; color: rgb(255, 255, 255); font-style: normal; text-decoration: initial;">E-Mail ID: cs@bigindianwedding.com</span></p>
 </div>
 </div>
-</div>
-</div>
-<p></p><!--CONTENTENDS-->						
+</div><!--CONTENTENDS-->						
 					 	  </td>
                         </tr>
 
@@ -606,7 +712,7 @@ function dispCatIndex(cityVal){
 </tbody></table>
 <div class="footeradspace-link">
 	<span class="c1">	
-	<a href="http://www.bigindianwedding.com/Article/Beauty/Getting-in-shape/" rel="nofollow" title="" target="_self"><img src="http://www.bigindianwedding.com/uploads/banner/fitness.jpg" border="0"></a>
+	<a href="http://www.bigindianwedding.com/Article/Beauty/Getting-in-shape/" title="" target="_self"><img src="http://www.bigindianwedding.com/uploads/banner/fitness.jpg" border="0"></a>
 	</span>
 <div align="center" style="padding-left:128px;">
 <span class="c2">
@@ -621,7 +727,7 @@ google_ad_height = 90;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script></span>
 </div>
-<span class="c3"><a href="http://weddingshop.bigindianwedding.com/" rel="nofollow" title="" target="_blank"><img src="http://www.bigindianwedding.com/uploads/banner/trends.jpg" border="0"></a> </span>	
+<span class="c3"><a href="http://www.bigindianwedding.com/Article/Beauty/Beauty-Secrets/" title="" target="_self"><img src="http://www.bigindianwedding.com/uploads/banner/beauty.jpg" border="0"></a> </span>	
 
 </div>
 <div class="clear"></div>
@@ -630,10 +736,10 @@ google_ad_height = 90;
 <tbody><tr>	
 	<td align="center" width="25%" class="noline"><b>No.1</b><br> wedding planning portal in India *</td>
 	<!--td align='center' width='25%'><b>609,101</b><br />weddings planned so far <sup>&#8224;</sup></td-->
-	<td align="center" width="25%"><b>202,923</b><br>Leads generated so far <sup>‡</sup></td>
+	<td align="center" width="25%"><b>285,723</b><br>Leads generated so far <sup>‡</sup></td>
 	<!-- 385,877 @ 12:55 PM 6/4/2011 -->
-	<td align="center" width="25%"><b>9,901</b><br>listed vendors <sup>‡</sup></td>
-	<td align="center" width="25%"><b>35</b><br>
+	<td align="center" width="25%"><b>13,025</b><br>listed vendors <sup>‡</sup></td>
+	<td align="center" width="25%"><b>39</b><br>
 	  listed categories</td>
 </tr>
 </tbody></table>
@@ -641,9 +747,11 @@ google_ad_height = 90;
 <div class="social-logoes">
 	<form name="frm-newsletter" id="frm-newsletter">  
 	<div class="logoes" align="left">
-		<a href="http://www.facebook.com/pages/BigIndianWedding/109515479113833?v=wall" target="_blank" title="Connect to us on Facebook"><img src="http://www.bigindianwedding.com/images/facebook.gif" border="0"></a>
-		<a href="http://twitter.com/bigindwedding" target="_blank" title="Follow us on Twitter"><img src="http://www.bigindianwedding.com/images/twitter.gif" border="0"></a>
-		<a href="http://www.youtube.com/user/thebigindianwedding/videos" target="_blank" title="Find us on YouTube"><img src="http://www.bigindianwedding.com/images/youtube.png" border="0"></a>
+		<a href="http://pinterest.com/bigindwedding/" target="_blank" rel="nofollow" title="Follow us on Pinterest"><img src="http://www.bigindianwedding.com/images/pinterest.png" border="0"></a> 
+		<a href="https://plus.google.com/100496929871720225023/posts/" target="_blank" rel="nofollow" title="Follow us on Google plus"><img src="http://www.bigindianwedding.com/images/google-plus-icon.png" border="0"></a> 
+		<a href="http://www.facebook.com/pages/BigIndianWedding/109515479113833?v=wall" rel="nofollow" target="_blank" title="Connect to us on Facebook"><img src="http://www.bigindianwedding.com/images/facebook.gif" border="0"></a>
+		<a href="https://twitter.com/BgIndianWedding" target="_blank" rel="nofollow" title="Follow us on Twitter"><img src="http://www.bigindianwedding.com/images/twitter.gif" border="0"></a>
+		<a href="http://www.youtube.com/user/thebigindianwedding/videos" target="_blank" rel="nofollow" title="Find us on YouTube"><img src="http://www.bigindianwedding.com/images/youtube.png" border="0"></a>
 	</div>		
 	<div class="signup" id="newsDiv">		
 		<div align="left" class="input"> 
@@ -651,7 +759,7 @@ google_ad_height = 90;
 			<input name="newsemail" id="newsemail" type="text" onfocus="hideLebelText(this,'Email address',1);" onblur=" hideLebelText(this,'Email address',0);" value="Email address" class="nobg" title="Email address" style="background-color:#FFFFFF;">					
 		</div>	
 		<div class="submitbtn"> 
-			<img src="http://www.bigindianwedding.com/images/signup-icon.png" alt="signup" onclick="javascript:return callAjax();">
+			<img src="http://www.bigindianwedding.com/images/signup-icon.png" alt="signup" onclick="javascript: callAjax(); _gaq.push(['_trackEvent', 'Newsletter', 'Signup']);">
 		</div>		
 	</div>		
 	</form>
@@ -659,35 +767,7 @@ google_ad_height = 90;
 <div class="statband">
 	<div class="medialogos">Media Coverage: <a href="http://www.bigindianwedding.com/BIW-in-Press/"><img src="http://www.bigindianwedding.com/img/media-logos.gif" border="0"></a></div>
 </div>
-<div id="footercities"> 
-       <div class="div1">  <a href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/" class="curLocationLink"><span class="curLocation">Pune</span></a><a href="http://www.bigindianwedding.com/CompanyList/Delhi-NCR/Bandwallahs/"><span>Delhi NCR</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Mumbai/Bandwallahs/"><span>Mumbai</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Bangalore/Bridal-Fashions/"><span>Bangalore</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Kolkata/Bridal-Fashions/"><span>Kolkata</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Hyderabad/Bridal-Fashions/"><span>Hyderabad</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Chennai/Bandwallahs/"><span>Chennai</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Jaipur/Bandwallahs/"><span>Jaipur</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Ahmedabad/Bandwallahs/"><span>Ahmedabad</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Chandigarh/Bandwallahs/"><span>Chandigarh</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Ludhiana/Bandwallahs/"><span>Ludhiana</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Lucknow/Bandwallahs/"><span>Lucknow</span></a> · <a href="http://www.bigindianwedding.com/CompanyList/Surat/Bridal-Fashions/"><span>Surat</span></a></div>
-        <div class="div2">
-     
-        </div>
- </div>
-<!--bottomlinks-->
-<div class="footerbg">
-<div class="footerlink">
-	 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Bridal-Fashions/">Bridal Fashions</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Car--Bus-Rentals/">Car &amp; Bus Rentals</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Caterers/">Caterers</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/DJ-and-Live-Music/">DJ And Live Music</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Fireworks-Display/">Fireworks Display</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Flowers--Decoration-Suppliers/">Flowers &amp; Decoration Suppliers</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Health-and-Beauty/">Health And Beauty</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Honeymoons/">Honeymoons</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Jewellery/">Jewellery</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Lingerie-and-Intimates/">Lingerie And Intimates</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Mens-Style/">Men's Style</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Photographers/">Photographers</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Spas/">Spas</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Cakes/">Wedding Cakes</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Choreography/">Wedding Choreography</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Invitations/">Wedding Invitations</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Planners/">Wedding Planners</a></div>
-		 <div class="dp25"><a href="http://www.bigindianwedding.com/CompanyList/Pune/Wedding-Venues/">Wedding Venues</a></div>
-	</div>
-<script language="JavaScript" type="text/javascript">
+ <script language="JavaScript" type="text/javascript">
 var codeStr = "";	
 var cdStr = Array();
 if(codeStr!=""){
@@ -782,13 +862,10 @@ function callAjax(e){
 function displayNewsContent(){
 	document.getElementById('newsDiv').innerHTML = '<div align="left" class="input"> 	<label>Sign up now to get latest updates on wedding fashion, jewellery and more!</label><input name="newsemail"  id="newsemail" type="text" onFocus="hideLebelText(this,\'Email address\',1);" onBlur=" hideLebelText(this,\'Email address\',0);" value="Email address" class="nobg" title="Email address" style="background-color:#FFFFFF;" /></div>	<div class="submitbtn"> <img src="http://www.bigindianwedding.com/images/signup-icon.png" alt="signup" onclick="javascript:return callAjax();" /></div>';
 }
-</script>
- </div></div>
+</script></div>
 <div class="clear"></div>
 
 <div id="footer">
-<!-- a href="privacy.php">Privacy Policy</a> |
-<a href="improve.php">How can we improve</a> | -->
 <a href="http://www.bigindianwedding.com/BIW-in-Press/">BIW in Press</a> |
 <a href="http://www.bigindianwedding.com/Careers/">Careers</a> |
 <a href="http://www.bigindianwedding.com/Terms/">Terms of use</a> |
@@ -799,8 +876,17 @@ function displayNewsContent(){
 <a href="http://www.bigindianwedding.com/Enquiry/">Contact us</a> |
 <a href="http://www.bigindianwedding.com/Advertise/">Advertise with us</a> |
 <a href="http://www.bigindianwedding.com/Resources/">Resources</a> |
-<a href="http://www.bigindianwedding.com/Sitemap/">Sitemap</a>
-<br>* as per Alexa Ranking on 1st February 2012 &nbsp;&nbsp;|&nbsp;&nbsp; <sup>†</sup> updated fortnightly &nbsp;&nbsp;|&nbsp;&nbsp; <sup>‡</sup> updated daily
+<a href="http://www.bigindianwedding.com/Sitemap/">Sitemap</a> |
+<a href="http://www.bigindianwedding.com/rss.xml" target="_blank">RSS</a>
+<br>
+<span class="alpha-directory">
+Alphabetical directory of pages: <a href="http://www.bigindianwedding.com/Directory/Surat/num/">#</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/a/">A</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/b/">B</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/c/">C</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/d/">D</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/e/">E</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/f/">F</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/g/">G</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/h/">H</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/i/">I</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/j/">J</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/k/">K</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/l/">L</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/m/">M</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/n/">N</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/o/">O</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/p/">P</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/r/">R</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/s/">S</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/t/">T</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/u/">U</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/v/">V</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/w/">W</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/x/">X</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/y/">Y</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/z/">Z</a>&nbsp;·&nbsp;<a href="http://www.bigindianwedding.com/Directory/Surat/2/">2</a>&nbsp;·&nbsp;</span>
+<br>
+<span class="city-directory">
+Vendors Listing in: 
+<a href="http://www.bigindianwedding.com/Directory/Sharjah/">Sharjah</a> · <a href="http://www.bigindianwedding.com/Directory/Abu-Dhabi/">Abu Dhabi</a> · <a href="http://www.bigindianwedding.com/Directory/Delhi-NCR/">Delhi NCR</a> · <a href="http://www.bigindianwedding.com/Directory/Mumbai/">Mumbai</a> · <a href="http://www.bigindianwedding.com/Directory/Bangalore/">Bangalore</a> · <a href="http://www.bigindianwedding.com/Directory/Kolkata/">Kolkata</a> · <a href="http://www.bigindianwedding.com/Directory/Pune/">Pune</a> · <a href="http://www.bigindianwedding.com/Directory/Hyderabad/">Hyderabad</a> · <a href="http://www.bigindianwedding.com/Directory/Chennai/">Chennai</a> · <a href="http://www.bigindianwedding.com/Directory/Jaipur/">Jaipur</a> · <a href="http://www.bigindianwedding.com/Directory/Ahmedabad/">Ahmedabad</a> · <a href="http://www.bigindianwedding.com/Directory/Chandigarh/">Chandigarh</a> · <a href="http://www.bigindianwedding.com/Directory/Ludhiana/">Ludhiana</a> · <a href="http://www.bigindianwedding.com/Directory/Lucknow/">Lucknow</a> · <a href="http://www.bigindianwedding.com/Directory/Surat/">Surat</a> · <a href="http://www.bigindianwedding.com/Directory/Indore/">Indore</a> · <a href="http://www.bigindianwedding.com/Directory/Dubai/">Dubai</a></span>
+<br>
+* as per Alexa Ranking on 1st February 2012 &nbsp;&nbsp;|&nbsp;&nbsp; <sup>†</sup> updated fortnightly &nbsp;&nbsp;|&nbsp;&nbsp; <sup>‡</sup> updated daily &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.bigindianwedding.com/NewlyAdded/" class="newlyadded">newly added</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://plus.google.com/100496929871720225023" rel="publisher" target="_blank">Find us on Google+</a>
 <br> © Copyright Big Indian Wedding 2012. All rights reserved.
 </div>
 
@@ -813,19 +899,19 @@ function displayNewsContent(){
   })();
 </script>
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-20406691-2']);
   _gaq.push(['_setDomainName', 'bigindianwedding.com']);
+  _gaq.push(['_addOrganic', 'attrakt.com', 'q']);
   _gaq.push(['_trackPageview']);
 
   (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    var ga = document.createElement('script'); ga.type =
+'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
-
-
 </body></html>
