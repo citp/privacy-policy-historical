@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espn.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232931id_/http%3A//corporate.disney.go.com/corporate/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espn.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231003426id_/http%3A//corporate.disney.go.com/corporate/pp.html) for the most accurate reproduction.*
 
 # The Walt Disney Company - Privacy Policy
 
@@ -68,7 +68,7 @@ back to top of page
 | 
 
   * We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform's privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
-  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit [Online Tracking and Advertising](https://web.archive.org/web/20120630232931id_/http%3A//corporate.disney.go.com/corporate/pp_online-tracking-advertising.html) for further information, including how to disable cookies.
+  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit [Online Tracking and Advertising](https://web.archive.org/web/20121231003426id_/http%3A//corporate.disney.go.com/corporate/pp_online-tracking-advertising.html) for further information, including how to disable cookies.
   * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it.
 
   
@@ -81,7 +81,7 @@ back to top of page
   * Consistent with local law and choices and controls that may be available to you: 
     * Send you offers and promotions for our products and services or third-party products and services
     * Personalize content and experiences on our sites and applications
-    * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. To learn more about how we use your information for personalization and tracking, please visit [Online Tracking and Advertising](https://web.archive.org/web/20120630232931id_/http%3A//corporate.disney.go.com/corporate/pp_online-tracking-advertising.html).
+    * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. To learn more about how we use your information for personalization and tracking, please visit [Online Tracking and Advertising](https://web.archive.org/web/20121231003426id_/http%3A//corporate.disney.go.com/corporate/pp_online-tracking-advertising.html).
   * Optimize or improve our products, services and operations
   * Detect, investigate and prevent activities that may violate our policies or be illegal
 
@@ -110,7 +110,7 @@ back to top of page
   * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here](http://www.aboutads.info/)
   * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
 
-You may exercise your controls and choices, or request access to your personal information, by visiting [Communication Choices](https://web.archive.org/web/20120630232931id_/http%3A//corporate.disney.go.com/corporate/pp_communication-choices.html), contacting Guest Services, or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact Guest Services.   
+You may exercise your controls and choices, or request access to your personal information, by visiting [Communication Choices](https://web.archive.org/web/20121231003426id_/http%3A//corporate.disney.go.com/corporate/pp_communication-choices.html), contacting Guest Services, or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact Guest Services.   
 back to top of page  
 6. | Children's Privacy  
 | We recognize the need to provide further privacy protections with respect to personal information we may collect from children on our sites and applications. Some of the features on our sites and applications are age-gated so that they are not available for use by children, and we do not knowingly collect personal information from children in connection with those features. When we intend to collect personal information from children, we take additional steps to protect children's privacy, including: 
