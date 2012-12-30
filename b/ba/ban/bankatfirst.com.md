@@ -1,61 +1,103 @@
-> *The following text is extracted and transformed from the bankatfirst.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629174457id_/http%3A//www.bankatfirst.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatfirst.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230053612id_/http%3A//www.bankatfirst.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy l First Financial Bank
 
-OPT-OUT: We will not share your nonpublic personal information with others as defined below. First Financial Bank, on your behalf, has exercised your right to opt-out under 12 CFR Part 40, Privacy of Consumer Financial Information.
+**FACTS** | **WHAT DOES FIRST FINANCIAL BANK DO WITH YOUR PERSONAL INFORMATION?**  
+---|---  
+**Why?** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell youhow we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+**What?** | The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
-The basis of each customer relationship at First Financial Bank is built on trust. You have chosen to do business with First Financial Bank, and we guard that relationship with great care, beginning with the information you have chosen to share with us. That is why we have opted out for you as a matter of corporate policy. First Financial Bank does not share information about you outside of our First Financial Bank companies unless permitted by Title V of the Gramm-Leach-Bliley Act of 1999 and other applicable laws and regulations.p>
-
-  
-First Financial Bancorp., its family of financial services companies (“affiliates”) and employees are dedicated to protecting the privacy of your nonpublic personal information. We maintain information about you in order to provide you with the most effective and convenient access to our broad range of financial products and services. We want you to understand what information we collect, and how we use and protect it. This notice serves as a standard for all First Financial Bank employees for collection, use, retention and security of nonpublic personal consumer information.p>
-
-  
-**What Information We Collect**
-
-"Nonpublic personal information" is information about you that we obtain in connection with providing a financial product or service. Such information includes for example, account balance, income, assets, insurance premiums, payment history and overdraft history.
-
-We may collect nonpublic personal information about you from the following sources:• Information that you provide to us, such as on applications or other forms• Information about your transactions with us, our affiliates or others, or• Information from others, such as credit bureaus, real estate appraisers, and employers
-
-**Our Security Procedures**
-
-To maintain security of customer information, we restrict access to your personal and account information to persons who need to know that information to provide you products or services. We maintain physical, electronic and procedural safeguards to guard information.
+  * Social Security number, name, address, email address, income and assets
+  * Payment history and account balances
+  * Credit history and creditworthiness
 
   
-**What Information We Disclose**
+**How?** | All ﬁnancial companies need to share personal information to run their everyday business. In the section below, we list the reasons ﬁnancial companies can share their personal information; the reasons First Financial Bank chooses to share; and whether you can limit this sharing.  
+  
+**Reasons we can share your personal information** | **Does First Financial Bank share?** | **Can you limit this sharing?**  
+---|---|---  
+**For our everyday business purposes —**  
+Such as to process your transactions, maintain your account(s),respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
+**For our marketing purposes —**  
+To offer our products and services to you | Yes | No  
+**For joint marketing with other financial companies** | Yes | No  
+**For our affiliates' everyday business purposes —**  
+Information about your transactions and experiences | Yes | Yes  
+**For our affiliates' everyday business purposes —**  
+Information about your creditworthiness | Yes | Yes  
+**For our affiliates to market to you** | Yes | Yes  
+**For nonaffiliates to market to you** | No | We don't share  
+  
+**To limit our sharing** | 
 
-First Financial Bank does not disclose nonpublic personal information about you to any companies that are not members of our corporate family ("third parties"), except as permitted by federal law, specifically Title V of the Gramm-Leach-Bliley Act of 1999. The confidentiality of your nonpublic personal information will continue to be maintained consistent with this privacy notice even if you decide to close your account(s), your account becomes inactive, or when you otherwise cease to do business with us.
+  * Call our Client Service Center at 877-322-9530 - our menu will prompt you through your choice(s); **or**
+  * Write to us at First Financial Bank, Attn: Marketing, 255 E. Fifth Street, Suite 700, Cincinnati, OH 45202. Please provide your name, address, social security and account number(s).
+
+
+
+**Please note:**  
+If you are a new client, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our client, we continue to share your information as described in this notice.  
+However, you can contact us at any time to limit our sharing.  
+  
+---|---  
+**Questions?** | Call 877-322-9530 or go to www.bankatfirst.com/contact-us.  
+  
+**Who we are**  
+---  
+**Who is providing this notice?** | First Financial Bank and its affiliates (please see below for List of Affiliates)  
+  
+**What we do**  
+---  
+**How does First Financial Bank protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured ﬁles and buildings.  
+**How does First Financial Bank collect my personal information?** | We collect your personal information, for example, when you 
+
+  * Open an account or apply for a loan
+  * Pay your bills or make a deposit
+  * Use your credit or debit card
+
+
+
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
+  
+**Why can't I limit all sharing?** | Federal law gives you the right to limit only 
+
+  * Sharing for afﬁliates’ everyday business purposes—information about your creditworthiness
+  * Afﬁliates from using your information to market to you
+  * Sharing for nonafﬁliates to market to you
+
+
+
+State laws and individual companies may give you additional rights to limit sharing.  
+  
+**What happens when I limit sharing for an account I hold jointly with someone else?** | If you have joint accounts, we will treat a request by one party to the account as applying to all parties to the account. The information sharing restriction request(s) will apply to accounts that each account holder has in his or her own name and any joint accounts the individual may be named on.  
+  
+**Definitions**  
+---  
+**Affiliates** | Companies related by common ownership or control. They can be ﬁnancial and nonﬁnancial companies.  
+**Nonaffiliates** | Companies not related by common ownership or control. They can be ﬁnancial and nonﬁnancial companies. 
+
+  * First Financial Bank does not share information with nonaffiliates so they can market to you.
 
   
-First Financial Bank works with a variety of third parties to bring you financial services. We disclose information about you as necessary to fulfill these third party service agreements. For example, we may disclose information about you to third parties that assist us in servicing or maintaining your loan or deposit account, or other business relationship, such as printing checks or billing you for loan payments. We may also disclose information about you to governmental entities, such as sending annual income statements to the IRS, and to other third parties such as credit bureaus, or in response to subpoenas.
+**Joint marketing** | A formal agreement between nonafﬁliated ﬁnancial companies that together market ﬁnancial products or services to you. 
+
+  * Our joint marketing partners include, but may not be limited to insurance companies.
 
   
-We may disclose all of the information we collect, as described above, to third parties that perform marketing services on our behalf or to other financial institutions, such as insurance providers, with whom we have joint marketing agreements in order to make a variety of financial services available to you. These third parties must agree to strict confidentiality provisions to assure the protection of your information. Because we already limit the sharing of your nonpublic personal information as outlined above, no action is necessary on your part to limit such sharing.
-
-**Fair Credit Reporting Act Disclosure**
-
-We share information about you with our affiliates. Under the Fair Credit Reporting Act you may direct us not to share certain credit information with our affiliates. Examples of the kind of credit information that you may direct us not to share include the nonpublic personal information you provide in your application or that we obtain about you from nonaffiliated third parties such as credit bureaus. If you don’t want such information shared you may write to us at First Financial Bank, Attn: Marketing, 201 E. Fourth St., Suite 1900, Cincinnati, Ohio 45202 or call our Client Service Center at 877-322-9530. Please provide your name, address, social security number and account number(s). **(NOTE: If you have previously requested that we restrict such sharing you do not need to make another request.)** Your request not to share credit information does not include information we are permitted to share by law, such as information related solely to our experiences or transactions with you. Your account balance and payment history are examples of transaction and experience information that we are always permitted to share with our affiliates.
-
   
-If you have joint accounts, we will treat a request by one party to the account as applying to all parties to the account. The information sharing restriction request(s) will apply to accounts that each account holder has in his or her own name and any joint accounts the individual may be named on.
-
+**Other important information**  
+---  
   
-**Do Not Call Provisions**
-
-First Financial Bank honors the National and Indiana do-not-call-registries. From time to time, we may call you about additional financial products or services that may be of interest to you. If you would prefer not to receive a call from us, please write to us at the address below. You will remain in the bank’s Do Not Call List until you notify us otherwise. Call us at 877-322-9530 or write to us at: First Financial Bank, Attn: Do Not Call, 300 High Street, Hamilton, Ohio 45011.
-
+First Financial Bank honors the National and Indiana do-not-call registries. From time to time we may call you about additional financial products and services that may be of interest to you. If you would prefer not to receive a call from us, please write to us at: First Financial Bank, Attn: CIF Department, 225 Pictoria Dr., Suite 600, Cincinnati, OH 45246, or call us at 877-322-9530. You will remain on the bank’s Do Not Call list until you notify us otherwise.  
   
-**First Financial Bank's Pledge to You**
-
-We believe that your privacy should never be compromised. At the same time, we want to offer you the array of financial products and services you need to accomplish your financial goals. We believe we can do both by adhering to the provisions of this privacy notice.
-
+**List of Affiliates**  
+| First Financial Bancorp | First Financial Bank, N.A.  
+---|---  
+First Financial Insurance, Inc. | Irwin Home Equity Corporation  
+Irwin Reinsurance Corporation | Irwin Mortgage Corporation  
+Irwin Commercial Finance Corporation | Equipment Finance  
+First Financial Equipment Finance, LLC | Irwin Commercial Finance Canada Corporation  
+First Financial Collateral, Inc. (fka American State Advisory Group Corporation) | First Financial Insurance Indiana, Inc. (fka Irwin Union Insurance, Inc.)  
+First Franchise Capital Corporation (fka Irwin Franchise Capital Corporation)  
   
-**Effective Date and Changes**
 
-The effective date of this Privacy Notice is provided below. Any updates or changes to the Notice will be posted on our web site or you will be notified by mail. Consumers who are First Financial Bank customers will be notified of updates and changes in accordance with federal law.
-
- **First Financial Bank Family of Companies**
-
-First Financial Bancorp.; First Financial Bank, N.A.; First Financial Life Insurance, Inc.; First Financial Insurance, Inc.; Midwest Insurance Services, Inc.; First Financial Capital Advisors, LLC; First Financial Collateral, Inc. (fka American State Advisory Group Corporation); First Financial Insurance Indiana, Inc. (fka Irwin Union Insurance, Inc.); Irwin Union Advisory Services, Inc.; Irwin Home Equity Corporation; Irwin Mortgage Corporation; Irwin Reinsurance Corporation; Irwin Commercial Finance Corporation, Equipment Finance; First Franchise Capital Corporation (fka Irwin Franchise Capital Corporation); Irwin Commercial Finance Canada Corporation; First Financial Equipment Finance, LLC.
-
-  
-_Some products and services offered by these companies may be subject to separate privacy policies. This policy will apply to your relationships with these companies unless you are notified otherwise._   May 2011.
