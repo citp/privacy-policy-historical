@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the really-learn-english.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630052630id_/http%3A//www.really-learn-english.com/really-learn-english-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the really-learn-english.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230213309id_/http%3A//www.really-learn-english.com/really-learn-english-privacy-policy.html) for the most accurate reproduction.*
 
 # Really Learn English Privacy Policy
 
@@ -49,7 +49,7 @@ make reasonable efforts to ensure that the purchaser honors any opt-out requests
 
 ### How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Us](https://web.archive.org/web/20120630052630id_/http%3A//www.really-learn-english.com/contact-us.html) page.
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Us](http://www.really-learn-english.com/contact-us.html) page.
 
 ### Updates and Effective Date
 
