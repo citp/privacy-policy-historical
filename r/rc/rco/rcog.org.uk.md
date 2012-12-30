@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcog.org.uk privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508133418id_/http%3A//www.rcog.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcog.org.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230064353id_/http%3A//www.rcog.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Royal College of Obstetricians and Gynaecologists
 
@@ -18,9 +18,11 @@ We may also need to disclose your information if required to do so by law.
 
 ## Do we use Cookies?
 
-We may also store information about you using cookies.  These are files which are sent by us to your computer which we can access when you visit our site in future.  We do this for a number of reasons including administering the site's registration system and shopping cart.  Cookies cannot be used by themselves to identify you or transmit personal information.
+We may also store information about you using cookies. These are files which are sent by us to your computer which we can access when you visit our site in future. We do this for a number of reasons including administering the site's registration system and shopping cart. Cookies cannot be used by themselves to identify you or transmit personal information.
 
 Information on controlling cookies is available at [www.aboutcookies.org](http://www.aboutcookies.org/).  Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.
+
+To read more about the cookies used on this site, please [click here](https://web.archive.org/cookies).
 
 ## How do we protect personal information?
 
