@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prnewswire.co.in privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302065408id_/http%3A//prnewswire.mediaroom.com/index.php%3Fs%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prnewswire.co.in privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192056id_/http%3A//prnewswire.mediaroom.com/index.php%3Fs%3D62) for the most accurate reproduction.*
 
 # PR Newswire Privacy Policy
 
@@ -36,8 +36,10 @@ o    Vintage Filings ([http://www.vfilings.com/](http://www.vfilings.com/)), 
 
 o    The PR ToolKit for Small Business ([http://toolkit.prnewswire.com](http://toolkit.prnewswire.com/)); or 
 
-·         download a multimedia press release using the PR Newswire ARC™ videoplayer.  
+·        Download  a multimedia press release using the PR Newswire ARC™ videoplayer.  
 
+
+        Certain services and pages listed above may be available via mobile app. This privacy policy governs the collection and use of data about you and your use of any PRN mobile app.  We may provide additional notice and choice options within the app itself. 
 
 This policy does not, however, cover the websites for Virtual Press Office (VPO), Notilog, Hispanic PR Wire, Hispanic Digital Network, or the websites listed under “Global Sites” on the top right hand side of the prnewswire.com home page.
 
