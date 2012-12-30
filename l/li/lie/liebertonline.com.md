@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liebertonline.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526215112id_/http%3A//www.liebertpub.com/nv/company/privacy-policy/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liebertonline.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230051916id_/http%3A//www.liebertpub.com/nv/company/privacy-policy/3) for the most accurate reproduction.*
 
 # Privacy Policy Title
 
@@ -14,9 +14,9 @@ Mary Ann Liebert, Inc. (Liebert) and liebertpub.com (the "Site") are committed t
 **Website Users:  
 **To purchase items via our Site and/or to request information, you must provide some basic information such as: name, email and contact information. We use this information for internal purposes only namely, processing your orders, notifying you of your order status, updating your account, sending you notices of new services, and noteworthy news and events.
 
-**We do not sell or rent information about our customers or email lists to third parties.**
+  **We do not sell or rent information about our customers or email lists to third parties.**
 
-** ** If you would like to change your registration or opt-out of receiving email from us, you can send an email to [info@liebertpub.com](mailto:info@liebertpub.com) and type “Unsubscribe from ‘Journal Name’” in the subject line to remove yourself from a particular journal list or “Unsubscribe from all” to remove yourself from all email communication. We will process your request within 10 days. You can also manage your account by clicking on the links at the bottom of your email.
+** ** If you would like to change your registration or opt-out of receiving email from us, you can send an email to [connect@liebertpub.com](mailto:connect@liebertpub.com) and type “Unsubscribe from ‘Journal Name’” in the subject line to remove yourself from a particular journal list or “Unsubscribe from all” to remove yourself from all email communication. We will process your request within 10 days. You can also manage your account by clicking on the links at the bottom of your email.
 
 Any personal data you may provide is used to create personalized content and services on our Site, as well as to better understand the interests and preferences of our members and customers. 
 
