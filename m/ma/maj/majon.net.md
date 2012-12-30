@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majon.net privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627083414id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majon.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230090236id_/http%3A//www.majon.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Search Engine Marketing
 
@@ -72,3 +72,11 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 **  
 Your Consent To This Agreement**  
 By using our web site and network of web sites, you consent to the collection and use of information by Majon International as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Thank you for making Majon International one of the most popular and leading edge marketing and advertising companies on the internet today!
+
+[Information on Web Site Advertising and marketing services  
+](http://www.majon.com/)  
+[Don Dutra Sr General Contr Sonora](http://www.majon.com/local/building-contractors/california/sonora/don-dutra-sr-general-contr)   
+[Settlement Loans Anamosa IA](http://www.majon.com/local/national-commercial-banks/iowa/anamosa/settlement-loans)   
+[Settlement Loans Bulverde TX](http://www.majon.com/local/national-commercial-banks/texas/bulverde/settlement-loans)   
+[Settlement Loans Whiteriver AZ](http://www.majon.com/local/national-commercial-banks/arizona/whiteriver/settlement-loans)   
+
