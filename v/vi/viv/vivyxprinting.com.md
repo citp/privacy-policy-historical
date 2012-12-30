@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivyxprinting.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629233004id_/http%3A//www.vivyxprinting.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivyxprinting.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191657id_/http%3A//www.vivyxprinting.com/policies.asp) for the most accurate reproduction.*
 
 # Poster Printing and Large Format Prints Cheap!
 
@@ -22,7 +22,7 @@ During the photo upload and configuration process, you may be alerted that your 
 
 ### How to Request a Reprint or Refund
 
-If your print quality is not satisfactory, or is defective, you may request a reprint or refund by [contacting us](https://web.archive.org/web/20120629233004id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/contact.asp) or calling Customer Service between 10am-6pm MST (Monday-Friday.) 
+If your print quality is not satisfactory, or is defective, you may request a reprint or refund by [contacting us](https://web.archive.org/web/20121230191657id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/contact.asp) or calling Customer Service between 10am-6pm MST (Monday-Friday.) 
 
 ## Privacy Policy
 
@@ -38,7 +38,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### How You Can Access Or Correct Your Information:
 
-You can access all your personally identifiable information that we collect online and maintain by logging into [your assigned account](https://web.archive.org/web/20120629233004id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/account.asp) using the password provided. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by logging into [your assigned account](https://web.archive.org/web/20121230191657id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/account.asp) using the password provided. We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
