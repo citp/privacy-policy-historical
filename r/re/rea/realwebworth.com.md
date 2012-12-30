@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realwebworth.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524184102id_/http%3A//realwebworth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realwebworth.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230061216id_/http%3A//realwebworth.com/privacy.html) for the most accurate reproduction.*
 
 # Website Worth & Website Value Calculator! | RealWebWorth.com
 
@@ -6,7 +6,7 @@
 
 **Privacy Statement:**
 
-RealWebWorth.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. 
+RealWebWorth.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
 
@@ -16,13 +16,13 @@ Our site's registration form requires users to give us contact information (like
 
 This site contains links to other sites. RealWebWorth.com is not responsible for the privacy practices or the content of such Web sites.
 
-We run contests on our site in which we ask visitors for contact information (like their email address). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+We run contests on our site in which we ask visitors for contact information (like their email address). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
 We also use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-Public Forums
-
 * Google, as a third party vendor, uses cookies to serve ads on your site.
+
+Public Forums 
 
 * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 
