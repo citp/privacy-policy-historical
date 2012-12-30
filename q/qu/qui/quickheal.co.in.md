@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502002223id_/http%3A//www.quickheal.co.in/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230080752id_/http%3A//www.quickheal.co.in/privacy-policy.asp) for the most accurate reproduction.*
 
 # Quick Heal
 
-| › | [About Us ](https://web.archive.org/web/20120502002223id_/http%3A//www.quickheal.co.in/about.asp)  
+| › | [About Us ](https://web.archive.org/web/20121230080752id_/http%3A//www.quickheal.co.in/about.asp)  
 ---|---  
 |   
-› | [Contact](https://web.archive.org/web/20120502002223id_/http%3A//www.quickheal.co.in/contact.asp)  
+› | [Contact](https://web.archive.org/web/20121230080752id_/http%3A//www.quickheal.co.in/contact.asp)  
 |   
-› | [Sitemap ](https://web.archive.org/web/20120502002223id_/http%3A//www.quickheal.co.in/sitemap.asp)  
+› | [Sitemap ](https://web.archive.org/web/20121230080752id_/http%3A//www.quickheal.co.in/sitemap.asp)  
 |   
   |    
   | 
