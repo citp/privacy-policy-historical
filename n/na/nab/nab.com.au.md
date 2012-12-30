@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nab.com.au privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227061116id_/http%3A//www.nab.com.au/wps/wcm/connect/nab/nab/home/About_Us/10/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nab.com.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183335id_/http%3A//www.nab.com.au/wps/wcm/connect/nab/nab/home/About_Us/10/1) for the most accurate reproduction.*
 
 # National Australia Bank Privacy Policy - NAB
 
@@ -155,7 +155,7 @@ If you have any issues you wish to raise with the Group, or would like to discus
 
 ## Unsubmitted on-line applications.
 
-If I start but do not submit an on-line application, the Bank may contact me/us using the contact method I/we nominate in the application to offer help completing it. This may happen within 24 hours after I/we last enter information into the application. If I/we do not submit the on-line application, the information in it will be kept for 28 days then destroyed.
+If I start but do not submit an on-line application, the Bank may contact me/us using any of the contact details I supply to offer help completing it. If I/we do not submit the on-line application, the information in it will be kept for 28 days then destroyed.
 
 ## Lenders Mortgage Insurance (LMI)
 
