@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101701id_/http%3A//rpgfan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180856id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
 
 # RPGFan - Legal Info and Privacy Policy
 
-[News](https://web.archive.org/archive.html)[Reviews](https://web.archive.org/reviews.html)[Previews](https://web.archive.org/previews.html)[Pictures](https://web.archive.org/pics.html)[Release Dates](https://web.archive.org/releasedates.html)[Soundtracks](https://web.archive.org/soundtracks1.html)[Editorials](https://web.archive.org/editorials2.html)[Forums](http://www.rpgfan.com/boards/index.php)[Features](https://web.archive.org/features.html)[About](https://web.archive.org/staff.html)  
+[News](https://web.archive.org/archive.html)[Reviews](https://web.archive.org/reviews.html)[Previews](https://web.archive.org/previews.html)[Pictures](https://web.archive.org/pics.html)[RPGFan Music](https://web.archive.org/soundtracks1.html)[Podcast](http://www.rpgfan.com/podcast.html)[Forums](http://www.rpgfan.com/boards/index.php)[Features](https://web.archive.org/features.html)[About](https://web.archive.org/staff.html)  
 ---  
   
 | Legal Info  
