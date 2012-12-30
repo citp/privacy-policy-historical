@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avatarist.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501221104id_/http%3A//www.avatarist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avatarist.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221400id_/http%3A//www.avatarist.com/privacy) for the most accurate reproduction.*
 
 # Avatarist Privacy Policy
 
@@ -12,9 +12,7 @@ Avatarist does not sell, rent, loan, trade or lease any personal information col
 
 Our website logs are not personally identifiable and we make no attempt to link them with the individuals that actually browse the site.
 
-**_Use of cookies_** :
-
-We do not use cookies on this site.
+Avatarist uses 3rd-party advertising firms to serve adverts while you visit our site. These firms may use information (not including your name, home address, email address or phone number(s)) related to your visits to Avatarist and other sites to provide advertisements that may be of interest to you. To learn more about this practice and to know your options about not having this information used in this way, [click here](http://www.networkadvertising.org/).
 
 **_Privacy of e-mail lists_** :
 
