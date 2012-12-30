@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234115id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtytimes.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231003729id_/http%3A//realtytimes.com/rtpages/privacy.htm) for the most accurate reproduction.*
 
 # Realty Times - Privacy Statement
 
@@ -74,7 +74,8 @@ The Privacy Notice posted on this site was updated on or about August 15, 2011.
   
 
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\YourMarketOnlineC1&LINK=http://YourMarketOnline.com)
+  
+[ ](http://cpapixel.dedicatednetworks.com/c.aspx?oid=B1C654CCF2C46561C9A508D2AAA23AA46D9E9F26311B75BE&m=)
 
 |    
 
@@ -83,28 +84,28 @@ Real Estate News Network
 
 [ ](http://www.adobe.com/go/getflashplayer)
 
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\HouseValues_Sponsor_C3&LINK=http://info.housevalues.com/form/1861)
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\MarketLeader_SponsorC_roadmap-\(110x35\).jpg&LINK=http://success.marketleader.com/2013businessplan3p?lsr=2013-BusinessPlan-RealtyTimes-Banner&del=2013businessplan&gmc=M-G-ROW-RTI-Bplan-2013)
 
 **Mortgage Rates**  
-30 Year Fixed: 3.66%  
-15 Year Fixed: 2.94%  
-1 Year Adj: 2.74%  
+30 Year Fixed: 3.35%  
+15 Year Fixed: 2.65%  
+1 Year Adj: 2.56%  
 (U.S. Weekly Averages)  
 
 
 Today's Headlines 08/10/2006  
 
 
-  * [Fixed Mortgage Rates Match All-time Record Lows](https://web.archive.org/rtpages/20120629_freddierates.htm)
-  * [Three Areas of Your Business](https://web.archive.org/rtpages/20120629_yourbusiness.htm)
-  * [Landlord Success Tips](https://web.archive.org/rtpages/20120629_landlordtips.htm)
-  * [Curb Appeal = Cash Equal: Making Lawn Care a Priority](https://web.archive.org/rtpages/20120628_lawncare.htm)
-  * [10 Great Shade-Loving Plants](https://web.archive.org/rtpages/20120628_shadeplants.htm)
-  * [Rent vs. Buy Decision More Than A Question of Affordability](https://web.archive.org/rtpages/20120628_rentvsbuy.htm)
-  * [Picking The Right Neighborhood](https://web.archive.org/rtpages/20120627_rightneighborhood.htm)
-  * [Housing Activity Improves as Low Mortgage Rates Continue](https://web.archive.org/rtpages/20120627_rateupdate.htm)
-  * [Ask the HOA Expert](https://web.archive.org/rtpages/20120627_hoaexpert.htm)
-  * [It's My Neighbourhood, But Who's in Charge?](https://web.archive.org/rtpages/20120626_neighborhood.htm)
+  * [30-Year Fixed-Rate Mortgage Finishes Year Near Historic Low](https://web.archive.org/rtpages/20121228_ratewatch.htm)
+  * [Engaging Your Sphere or Farm](https://web.archive.org/rtpages/20121228_engagingsphere.htm)
+  * [Housing That Caters To Baby Boomers: Which Features Are Important?](https://web.archive.org/rtpages/20121228_babyboomers.htm)
+  * [Homebuyers: 'Darn it, if Congress Torpedoes The Economy, The Housing Recovery is on Full Speed Ahead'](https://web.archive.org/rtpages/20121228_recovery.htm)
+  * [2012 Year End Reports, 2013 Forecasts Portend More Robust Housing Recovery](https://web.archive.org/rtpages/20121227_housingrecovery.htm)
+  * [Ask the HOA Expert](https://web.archive.org/rtpages/20121227_hoaexpert.htm)
+  * [Mortgage Rates Still Low While Housing Market Builds Momentum](https://web.archive.org/rtpages/20121227_rateupdate.htm)
+  * [Real Estate Resolutions For 2013](https://web.archive.org/rtpages/20121226_resolutions2013.htm)
+  * [California Adopts Pipeline Disclosure Law](https://web.archive.org/rtpages/20121226_disclosurelaw.htm)
+  * [Which Real Estate Decisions Will You Make in 2013?](https://web.archive.org/rtpages/20121225_decisions.htm)
 
   
 
@@ -114,5 +115,10 @@ Today's Headlines 08/10/2006
 Spotlight 
 
   
-[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\HouseValues_Spotlight_C27&LINK=http://success.marketleader.com/freeleads2012?lsr=RTI-BanAd-FreeLeads-0118312012&del=MLCallBack)   
+[](http://www2.realtytimes.com/rtnews/linktracker.ag?Open&TYPE=RealTimes\\MarketLeader_SpotlightC_ml-\(125x125\)&LINK=http://success.marketleader.com/2013businessplan3p?lsr=2013-BusinessPlan-RealtyTimes-Banner&del=2013businessplan&gmc=M-G-ROW-RTI-Bplan-2013)
+
+**Find a Property Manager:**
+
+  
+  
 
