@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the octafx.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626191858id_/http%3A//www.octafx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octafx.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185446id_/http%3A//www.octafx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OctaFX
 
@@ -6,15 +6,15 @@ OctaFX sets the highest standards in respect to our clients, partners or any oth
 
 ## Protection
 
-All the client data are protected by an SSL-encrypted connection to our Personal Area at www.octafx.com. It is highly unlikely that this encryption becomes disclosed to any third party. 
+All client data are protected by an SSL-encrypted connection to our Personal Area at www.octafx.com. It is highly unlikely that this encryption will be broken by any third party. 
 
 ## Personal Information
 
 When you open a real account, certain personal information is required. This information allows us to estimate your financial needs, process your requests and transactions, and keep you informed about our upcoming products and services. 
 
-Required information may include: full name, address and birth date. In a number of cases we might require your identity confirmation, as set forth in the Customer Agreement. This includes passport or drivers license, or any other ID and a residential address proof. 
+Required information may include: full name, address and birth date. In a number of cases we might require confirmation of your identity, as set forth in the Customer Agreement. This includes passport or driver's license, or any other ID and proof of residential address. 
 
-Anti-Money Laundering ("AML") regulations requires financial institutions to collect information and take action where necessary, in order to verify a customer's identity. 
+Anti-Money Laundering ("AML") regulations require financial institutions to collect information and take action where necessary, in order to verify a customer's identity. 
 
 ## Cookies
 
@@ -26,11 +26,11 @@ We may share some or all of the personal information described above with our af
 
 ## Third Parties
 
-We do not disclose your personal information to third parties, unless described in this privacy policy. Third party disclosures may include sharing such information with non-affiliated companies that perform support services for your account. 
+We do not disclose your personal information to third parties, except as described in this privacy policy. Third party disclosures may include sharing such information with non-affiliated companies that perform support services for your account. 
 
 ## Regulators
 
-Your personal information disclosure might be necessary in order to comply with applicable laws and regulations. This may include disclosing personal information in order to cooperate with regulatory authorities and law enforcement agencies, as may be necessary to protect our property or rights. 
+Disclosure of your personal information might be necessary in order to comply with applicable laws and regulations. This may include disclosing personal information in order to cooperate with regulatory authorities and law enforcement agencies, as may be necessary to protect our property or rights. 
 
 ## Payment Information
 
