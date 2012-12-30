@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajithfans.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628033342id_/http%3A//www.ajithfans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajithfans.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005328id_/http%3A//www.ajithfans.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Ajithfans - Actor Ajith Kumar E-Fans Association
 
