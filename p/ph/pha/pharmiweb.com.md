@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232851id_/http%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184154id_/http%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | PharmiWeb.com
 
@@ -99,4 +99,4 @@ If you have any queries please contact [corporate@pharmiweb.com](mailto:corporat
 
 **
 
-See also [Privacy Policy](https://web.archive.org/web/20120630232851id_/http%3A//www.pharmiweb.com/privacy/privacy.asp), [Terms and Conditions](https://web.archive.org/web/20120630232851id_/http%3A//www.pharmiweb.com/legal/legal.asp), [Advertising Policy](https://web.archive.org/web/20120630232851id_/http%3A//www.pharmiweb.com/legal/advertising.asp)
+See also [Privacy Policy](https://web.archive.org/web/20121230184154id_/http%3A//www.pharmiweb.com/privacy/privacy.asp), [Terms and Conditions](https://web.archive.org/web/20121230184154id_/http%3A//www.pharmiweb.com/legal/legal.asp), [Advertising Policy](https://web.archive.org/web/20121230184154id_/http%3A//www.pharmiweb.com/legal/advertising.asp)
