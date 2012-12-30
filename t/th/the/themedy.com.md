@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themedy.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014108id_/http%3A//themedy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themedy.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185336id_/http%3A//themedy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Themedy
+# Privacy Policy
 
 (last update: Mar 2011)
 
@@ -12,7 +12,7 @@ IP address
 Our visitor tracking system will store details about your location and certain anonymous system configurations such as screen resolution.
 
 Registration Information  
-You will provide us information about yourself, your firm or company, and your practices when you purchase [Themedy](http://themedy.com/) products and services, register for forum support, or register for email newsletters and alerts.
+You will provide us information about yourself, your firm or company, and your practices when you purchase Themedy products and services, register for forum support, or register for email newsletters and alerts.
 
 Email Information  
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
@@ -23,7 +23,7 @@ Broadly speaking, we use personal information for purposes of administering and 
 
 ### The people that are given access to this information
 
-Your personal information is accessible by staff members of [Themedy](http://themedy.com/).com
+Your personal information is accessible by staff members of Themedy.com
 
 We use third parties to facilitate our business, including, but not limited to, sending email and processing payments. In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities.
 
