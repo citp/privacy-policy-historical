@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511005121id_/http%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230222415id_/http%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.*
 
 # Bluebottle Email: Privacy
 
 [](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
 
-  
-"I have been very happy with your service and would recommend it to any of my friends." - **Alex,**
-
-"I am planning to upgrade my account with you ASAP, just on account of your excellent customer service. Keep up the good work!!" - **Saifullah,**
+"Your email service is the best one of all. There is no other better spam provider other than yours.... TRULY THE BEST..." - **Jainam S,**
 
 "I just wanted to say a big 'Thank you!' to everyone who is working hard to maintain and improve your services." - **Thomas B,**
 
-"Your email service is the best one of all. There is no other better spam provider other than yours.... TRULY THE BEST..." - **Jainam S,**
-
 "Thank you very much for providing this excellent service." - **Ricardo I,**
+
+"I've been using your service for a few months now, and I've been pretty happy with it. In fact, I'm happy enough to upgrade to Bluebottle Premium." - **_Bob K_**
+
+"I have to say that your service is remarkable!" - **_Mario S_**
 
 ##  Bluebottle - the Only Anti-Spam solution you will ever need
 
