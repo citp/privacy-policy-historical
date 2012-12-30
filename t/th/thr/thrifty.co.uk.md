@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrifty.co.uk privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523170219id_/http%3A//www.thrifty.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrifty.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230064026id_/http%3A//www.thrifty.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Thrifty Car Rental
 
@@ -6,7 +6,18 @@
 
 The collection of personal data is necessary to rent a car. We ask for your name, address, telephone number and email address. This helps us to process your booking, to contact you if we have any problems with your request or to send you an electronic confirmation of the booking. We gather this information from our Web Site and share this with our Locations who will provide you the vehicle. 
 
-**Use of your Personal Information**
+**Use of Cookies**
+
+When data is provided to us, we use it solely for the purposes for which it was provided. Confidential information will not be disclosed to third parties.  
+We recognise that your information is valuable and we take all reasonable measures to protect it whilst in our care. If you wish to contact us please call +44 (1494) 751 500.
+
+ **Our Cookie Policy**
+
+What do we use cookies for?  
+We only use cookies for two reasons; to remember your account settings so that we know to let you have access to the right areas of our site, and to allow us to count the number of visitors to our site and how they move around it. There are other types of cookies that track your browser/device across websites you visit but we do not use these.  
+To learn more about cookies and how to manage them via your browser/device please visit http://www.aboutcookies.org.
+
+ **Use of your Personal Information**
 
 We maintain the personal information provided via this Web Site as part of our records to assist us to maintain and improve our administration and management of our car rental business. We will only communicate with you to market our services, and those of our business partners. 
 
