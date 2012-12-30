@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the about-australia.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621120951id_/http%3A//www.about-australia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the about-australia.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230203217id_/http%3A//www.about-australia.com/privacy-policy) for the most accurate reproduction.*
 
-# About Australia Online - Privacy Policy | About Australia
+# About Australia Online – Privacy Policy
 
 About Australia Online Pty. Ltd. (referred to as About Australia) manage and maintain an internet web portal which provides information about Australia.  
 About Australia recognises the importance of client privacy and support best practice procedures in the way your personal information is handled.  
