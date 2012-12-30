@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ongreen.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101814id_/http%3A//www.ongreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ongreen.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193608id_/http%3A//www.ongreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnGreen
 
@@ -56,7 +56,7 @@ Effective Date: October 19th, 2009 – V1.01 
 
 **I. Notice**
 
-The “Website” refers to the website at [www.ongreen.com](https://web.archive.org/web/20120630101814id_/http%3A/), its subdomains, and related domains. The Website is owned or operated by Clean Green Guy, Inc. and/or its subsidiary companies in the United States of America (collectively the "Company"). This privacy policy ("Privacy Policy") applies to information that you provide to Company or is collected about you via the Website and/or by your use of services (collectively, the "Services") that may be provided by the Website or by the Company via some other means, including as set forth below and as defined in the applicable Terms and Conditions or other terms.
+The “Website” refers to the website at [www.ongreen.com](https://web.archive.org/web/20121230193608id_/http%3A/), its subdomains, and related domains. The Website is owned or operated by Clean Green Guy, Inc. and/or its subsidiary companies in the United States of America (collectively the "Company"). This privacy policy ("Privacy Policy") applies to information that you provide to Company or is collected about you via the Website and/or by your use of services (collectively, the "Services") that may be provided by the Website or by the Company via some other means, including as set forth below and as defined in the applicable Terms and Conditions or other terms.
 
 This Privacy Policy is intended to provide you notice of the Company's information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any Company Service or Website constitutes acceptance of this Privacy Policy and any other applicable terms. This Privacy Policy is part of and incorporated by reference into the Terms and Conditions for the Website.
 
