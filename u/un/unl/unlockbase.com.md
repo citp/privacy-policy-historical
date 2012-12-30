@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockbase.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630184815id_/http%3A//www.unlockbase.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockbase.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185219id_/http%3A//www.unlockbase.com/Privacy.html) for the most accurate reproduction.*
 
 # UnlockBase Privacy Policy
 
@@ -80,10 +80,10 @@ This policy was last modified on **22 June 2009**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-UnlockBase LTD  
-RM 1318-20 Hollywood Plaza  
-610 Nathan Road - Mongkok - KL  
-Hong Kong
+UB Software LTD  
+156 Shirley Street & Mount Royal Avenue  
+P.O Box CB-12762  
+Nassau - The Bahamas
 
 e-mail: [info@unlockbase.com](mailto:info@unlockbase.com)  
 WEB : [www.unlockbase.com](http://www.unlockbase.com/)
@@ -93,7 +93,7 @@ WEB : [www.unlockbase.com](http://www.unlockbase.com/)
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
 
 \- Federal Trade Commision Fair  
--  California Online Privacy Protection Act  
+\- California Online Privacy Protection Act  
 \- Childrens Online Privacy Protection Act  
 \- Privacy Alliance  
 \- Controlling the Assault of Non-Solicited Pornography and Marketing Act
@@ -102,4 +102,4 @@ If at anytime you have a cause that needs to be disputed please fill out the [Tr
 
 Respectfully,   
 John Milton - UnlockBase.com  
-UnlockBase LTD
+UB Software LTD
