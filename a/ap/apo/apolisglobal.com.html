@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the apolisglobal.com privacy policy that was archived on 2012-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627063729id_/http%3A//www.apolisglobal.com/service/security-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apolisglobal.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230191507id_/http%3A//www.apolisglobal.com/service/security-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -15,7 +15,7 @@
 
 	<link rel="stylesheet" href="/apolis/css/default.css" type="text/css" media="all">
 	<link rel="stylesheet" href="/apolis/includes/themes/Apolis/css/typography.css" type="text/css" media="all">
-	<link rel="stylesheet" href="/apolis/includes/themes/Apolis/css/site.css?120229" type="text/css" media="all">
+	<link rel="stylesheet" href="/apolis/includes/themes/Apolis/css/site.css?121115" type="text/css" media="all">
 	<link rel="stylesheet" href="/apolis/css/print.css" type="text/css" media="print">
     <link href="/apolis/css/about-us.css" rel="stylesheet" type="text/css">
 	
@@ -46,16 +46,19 @@
 		}
 		//-->
 	</style>
-	<script type="text/javascript" src="/Apolis/js/apolis.js"></script>
 	
 	<script type="text/javascript" src="http://use.typekit.com/wec2wvx.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	<script type="text/javascript">
 		function recordOutboundLink(link, category, action) {
-			_gat._getTrackerByName()._trackEvent(category, action);
-			setTimeout('document.location = "' + link.href + '"', 100);
+			
+			_gaq.push(['_trackEvent', category, action]);
+			if (link.target && link.target == '_blank')
+				window.open(link.href);
+			else
+				setTimeout('document.location = "' + link.href + '"', 100);
 		}
-	</script>	
+	</script>
 <script type="text/javascript">
 	var dtExample="11/10/2018";
 	var dtCh="/";
@@ -84,74 +87,186 @@ var themepath="/apolis/includes/themes/Apolis";
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script> </head>
+</script> <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body id="service" class="twoColSR">
 <div id="container" class="sysSecurityPrivacy">
 	
 	<div id="header" class="clearfix">		
 		
-		<div class="basket site">
-			<a href="http://store.apolisglobal.com/store.order.view/">BASKET</a> 
-		</div>
+		<form action="http://store.apolisglobal.com/store.search/" method="get" name="search" id="searchForm" class="search">
+			<input name="q" id="searchKeywords" type="text" class="text medium" size="30" placeholder="Search Products">
+			<input name="submit" class="button btn search" align="absbottom" type="submit" value="Go" alt="go">
+		</form>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('#searchForm').bind('submit', function () {
+					event.stopPropagation();
+					var searchKeywords = $('#searchKeywords').val();
+					if (searchKeywords.length)
+						document.location.href = 'http://store.apolisglobal.com/store.search/?q=' + searchKeywords;
+					return false;
+				});
+			});
+		</script>
 		<h1><a href="/"><img src="/images/site/apolis_logo@2x.png" style="width:106px; height:20px;" alt="Apolis"></a></h1>
+		<div class="basket site">
+			<div class="l">
+					
+					<strong><span>FREE SHIPPING ON U.S. ORDERS OVER $150.</span><br>
+					Free returns on all U.S. orders.</strong>
+					
+				</div>
+				
+					<a href="https://store.apolisglobal.com/store.order.view/">BASKET</a>
+					
+					
+				
+				
+				<div id="itemPromo">
+					<div class="slide" style="display:none;">
+						<img src="https://store.apolisglobal.com/images/products/size5/coffee_can.jpg">
+						<div>You are $300.00 away from your Co–Op roast.</div>
+					</div>
+					<div class="tab">
+						Gift With Purchase
+					</div>
+				</div>
+				<style type="text/css">
+					.basket {
+						position: relative;
+					}
+					#itemPromo {
+						width: 230px;
+						top:36px;
+						position: absolute;
+						right: 0;
+						display: block;
+						background-color: #ffffff;
+						font-size: 0.75em;
+						z-index: 10;
+						box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+						border-bottom-left-radius: 8px;
+						border-bottom-right-radius: 8px;
+					}
+					#itemPromo .slide {
+						padding-right: 10px;
+						height:60px;
+					}
+					#itemPromo .slide img {
+						height:60px;
+						float:left;
+					}
+					#itemPromo .slide div {
+						padding: 16px 10px 0 5px;
+						display: inline-block;
+						float: left;
+						margin: 0;
+						width: 130px;
+					}
+					#itemPromo .tab {
+						padding: 3px 10px;
+						background-color: #999999;
+						color: #ffffff;
+						text-align: center;
+						font-weight: bold;
+						text-transform: uppercase;
+						border-bottom-left-radius: 8px;
+						border-bottom-right-radius: 8px;
+					}
+				</style>
+				<script>
+					try {
+						$("itemPromo").observe('click', function (e) {
+							el = $$("#itemPromo .slide");
+							el[0].toggle();
+						});
+					}
+					catch (e) {}
+					try {
+						$("#itemPromo").click(function (e) {
+							$("#itemPromo .slide").toggle();
+						});
+					}
+					catch (e) {}
+				</script> 
+		</div>
 		
 		
-			<ul id="navPrimary"> 
-				<li class="first" id="navHome"><a href="/">Home</a></li>
-				
-				<li id="navShop"><a href="/shop/" onclick="recordOutboundLink(this, 'Store', 'Shop');return false;">Shop</a>
-			<ul> 
-				<li class="first" id="navViewCategories"><a href="/linkservid/9226D99A-9721-0574-672189EE94FF8020/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'View Categories');return false;">View Categories</a></li>
-				
-				<li id="navAll"><a href="/linkservid/CD584E4C-9C48-5936-A7E445AD1C4A3AE4/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'All');return false;">All</a></li>
-				
-				<li id="navNewArrivals"><a href="/linkservid/86FA08AD-ABC3-5777-C720F99DA43A56E8/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'New Arrivals');return false;">New Arrivals</a></li>
-				
-				<li id="navShopLooks"><a href="/linkservid/F7F6DDC2-EFF6-2623-04221A8AEC19A276/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Shop Looks');return false;">Shop Looks</a></li>
-				
-				<li id="navKnit"><a href="/linkservid/B13C84B7-04A8-574D-FF99C2FA47DF9509/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Knit');return false;">Knit</a></li>
-				
-				<li id="navShirting"><a href="/linkservid/B13CE5C2-A25A-84D4-F8EEA9E0234A7E42/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Shirting');return false;">Shirting</a></li>
-				
-				<li id="navSweater"><a href="/linkservid/B13D2D0C-CAA3-6F93-4BE9FE38FD2A4D01/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Sweater');return false;">Sweater</a></li>
-				
-				<li id="navJackets"><a href="/linkservid/63736134-AD23-E63C-74968AE2F070EF13/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Jackets');return false;">Jackets</a></li>
-				
-				<li id="navOuterwear"><a href="/linkservid/B13D6C47-D162-D7D9-CA93DB1ADAF4C000/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Outerwear');return false;">Outerwear</a></li>
-				
-				<li id="navSwimwear"><a href="/linkservid/D0320A39-0E06-170B-031F0A33351D1AD4/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Swimwear');return false;">Swimwear</a></li>
-				
-				<li id="navBottom"><a href="/linkservid/B13DC6F9-9B80-4208-633C7E8DF92BDD8B/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Bottom');return false;">Bottom</a></li>
-				
-				<li id="navLuggage"><a href="/linkservid/9381EE10-AC57-2D0F-36876C743417FB3B/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Luggage');return false;">Luggage</a></li>
-				
-				<li id="navAccessory"><a href="/linkservid/B13E15C1-B9F3-35D6-613BF5F6537AF175/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Accessory');return false;">Accessory</a></li>
-				
-				<li id="navFootwear"><a href="/linkservid/9A3CFC16-BF2D-CE0E-7703FE55C8CCF0EB/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Footwear');return false;">Footwear</a></li>
-				
-				<li id="navBundles"><a href="/linkservid/A307B68A-06FD-05D8-4D7E74AE36532B55/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Bundles');return false;">Bundles</a></li>
-				
-				<li id="navUniform"><a href="/linkservid/39ADA3EE-94C5-43FE-8CB4243A8AE5B3DE/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Uniform');return false;">Uniform</a></li>
-				
-				<li id="navTransitIssue"><a href="/linkservid/39AE202D-C778-84B7-D8F0CA1A828E3BF7/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Transit Issue');return false;">Transit Issue</a></li>
-				
-				<li id="navStandardIssue"><a href="/linkservid/39AEB057-FF7C-A1F7-591A1F4D9D47EF25/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Standard Issue');return false;">Standard Issue</a></li>
-				
-				<li id="navDefendTomorrow"><a href="/linkservid/0E8B3DDE-CFEC-8CB6-61A27CF8CE4426B3/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Defend Tomorrow');return false;">Defend Tomorrow</a></li>
-				
-				<li class="last" id="navGiftVoucher"><a href="/linkservid/0E9573B5-CB3B-EEBE-D8E720E384E92CB7/showMeta/0/" onclick="recordOutboundLink(this, 'Store', 'Gift Voucher');return false;">Gift Voucher</a></li>
-				
-			</ul></li>
-				
-				<li id="navAbout"><a href="/about/">About</a></li>
-				
-				<li id="navJournal"><a href="/journal/">Journal</a></li>
-				
-				<li class="last" id="navCommonGallery"><a href="/common-gallery/">Common Gallery</a></li>
-				
-			</ul>
 		
+
+		<ul id="nav-top-main">
+			<li class="first current" id="navHome"><a href="http://www.apolisglobal.com/">Home</a></li>
+			<li id="navShop"><a href="http://store.apolisglobal.com/">Shop</a>
+				<ul class="rollover-nav">
+					<div class="up-arrow"></div>
+					<div class="n-group">
+						<div class="nav-group" id="ng-1">
+							<h4 class="drop-head">Shop by Category</h4>
+							<li><a href="http://store.apolisglobal.com/accessories/">Accessory</a></li>
+							<li><a href="http://store.apolisglobal.com/luggage/">Luggage</a></li>
+							<li><a href="http://store.apolisglobal.com/outerwear/">Outerwear</a></li>
+							<li><a href="http://store.apolisglobal.com/jackets/">Jackets</a></li>
+							<li><a href="http://store.apolisglobal.com/bottoms/">Bottom</a></li>
+							<li><a href="http://store.apolisglobal.com/sweaters/">Sweater</a></li>
+							<li><a href="http://store.apolisglobal.com/shirting/">Shirting</a></li>
+							<li><a href="http://store.apolisglobal.com/knits/">Knits</a></li>
+							<li><a href="http://store.apolisglobal.com/swimwear/">Swimwear</a></li>
+							<li><a href="http://store.apolisglobal.com/footwear/">Footwear</a></li>
+						</div>
+						<!-- /ng-1 -->
+						
+						<div class="nav-group" id="ng-2">
+							<h4 class="drop-head">Shop by Type</h4>
+							<li><a href="http://store.apolisglobal.com/store.new/">New Arrivals</a></li>
+							<li><a href="http://store.apolisglobal.com/store.collections/">Looks</a></li>
+							<li><a href="http://store.apolisglobal.com/bundles/">Bundles</a></li>
+							<li><a href="http://store.apolisglobal.com/gift-voucher/">Gift Voucher</a></li>
+							<li><a href="http://store.apolisglobal.com/defend-tomorrow/">Defend Tomorrow</a></li>
+							<li><a href="http://www.apolisglobal.com/local-global-partners/">Market Bag City Series</a></li>
+						</div>
+						<!-- /ng-2 -->
+						
+						<div class="nav-group" id="ng-3">
+							<h4 class="drop-head">Shop Advocacy</h4>
+							<li><a href="http://www.apolisglobal.com/global-marketplace/#bangladesh">Bangladesh</a></li>
+							<li><a href="http://www.apolisglobal.com/global-marketplace/#uganda">Uganda</a></li>
+							<li><a href="http://www.apolisglobal.com/global-marketplace/#india">India</a></li>
+							<li><a href="http://www.apolisglobal.com/global-marketplace/#peru">Peru</a></li>
+							<li><a href="http://www.apolisglobal.com/global-marketplace/#israel">Israel</a></li>
+							<li><a href="http://store.apolisglobal.com/accessories/co-op-roast/">Honduras</a></li>
+						</div>
+						<!-- /ng-3 --> 
+						
+					</div>
+					<!-- /.n-group -->
+					
+					<div id="nav-group-all">
+						<li><a href="http://store.apolisglobal.com/store.all/">Shop All</a></li>
+					</div>
+				</ul>
+			</li>
+			<li id="navGifts"><a href="http://www.apolisglobal.com/gift-guide/">Gifts</a>
+				<ul class="rollover-nav" style="width: 200px;">
+					<div class="up-arrow"></div>
+					<div class="n-group">
+						<div class="nav-group" id="ng-1">
+							<h4 class="drop-head">Shop by Category</h4>
+							<li style="float:none;"><a href="http://www.apolisglobal.com/gift-guide/#under50">UNDER $50</a></li>
+							<li style="float:none;"><a href="http://www.apolisglobal.com/gift-guide/#under100">UNDER $100</a></li>
+						</div>
+					</div>
+					<div id="nav-group-all" style="width: 200px;">
+						<li><a href="http://www.apolisglobal.com/gift-guide/">Shop All</a></li>
+					</div>
+				</ul>
+			</li>
+			<li id="navAbout"><a href="http://www.apolisglobal.com/about/">About</a></li>
+			<li id="navJournal"><a href="http://www.apolisglobal.com/journal/">Journal</a></li>
+			<li id="navCommonGallery"><a href="http://www.apolisglobal.com/common-gallery/">Los Angeles</a></li>
+			<li class="last" id="navNomadMarket"><a href="http://www.apolisglobal.com/apolis-nomad-market/">New York</a></li>
+		</ul>
+
 	</div>
 
 	<div id="content" class="clearfix">
@@ -204,21 +319,26 @@ We may share information with governmental agencies or other companies assisting
 	<div id="footer">
 		
 		<div class="sect first" style="width:360px;">
-		<p style="text-transform:none;">Subscribe today to receive updates on products, expedition dispatches, advocacy information, exclusive offers and details on upcoming events.</p>
+		<h5>Become a Global Citizen</h5>
+		<p style="text-transform:none;">Apolis equips global citizens with behind the scenes product profiles, updates on international advocacy work, and special offers.</p>
+			<div id="emailSignupScreen" style="display:none;"></div>
 			<div id="emailSignup" style="display:none;"></div>
 			<form id="form" name="form" method="post" action="http://store.apolisglobal.com/event/MachChimp:simpleSubscribe.collector/" onsubmit="return showSignup(this.action);">
 				
-				<input type="text" name="email" id="email" class="text" style="width:265px;">
+				<input type="text" name="email" id="email" class="text" placeholder="Your Email">
 				<input type="hidden" name="listID" id="emailSignup_listID" value="61173bf0f4">
-				<input name="submit" type="submit" class="button" id="submit" value="Subscribe" style="width:80px; clear:none; margin-left:6px; float:left;">
+				<input name="submit" type="submit" class="button" id="submit" value="Join Now" style="width:80px; clear:none; margin-left:6px; float:left;">
 			</form>
 			
 			<div class="" style="border-top: 1px solid #777;width: 100%; float: left; margin-top: 10px;padding:10px 0;">
 				<h5>Follow Apolis</h5>
 				<a href="http://www.apolisglobal.com/facebook" target="_blank" onclick="recordOutboundLink(this, 'Footer', 'Facebook');return false;"><img src="/images/site/icons/facebook.png" width="20" height="20" alt="Friend Apolis on Facebook"></a> &nbsp; 
 				<a href="https://twitter.com/#!/apolis" target="_blank" onclick="recordOutboundLink(this, 'Footer', 'Twitter');return false;"><img src="/images/site/icons/twitter.png" width="20" height="20" alt="Follow Apolis on Twitter"></a> &nbsp; 
-				<a href="http://vimeo.com/apolis" target="_blank" onclick="recordOutboundLink(this, 'Footer', 'Vimeo');return false;"><img src="/images/site/icons/vimeo.png" width="20" height="20" alt="Favorite us on Vimeo"></a> &nbsp; 
-				<a href="http://www.youtube.com/user/APOLISactivism2010" target="_blank" onclick="recordOutboundLink(this, 'Footer', 'YouTube');return false;"><img src="/images/site/icons/youtube.png" width="20" height="20" alt="Subscribe to Apolis on YouTube"></a> &nbsp; 
+				<a href="https://instagram.com/apolis" target="_blank" onclick="recordOutboundLink(this, 'Footer', 'Instagram');return false;"><img src="/images/site/icons/instagram.png" width="20" height="20" alt="Follow Apolis on Instagram"></a> &nbsp; 
+				<a href="https://pinterest.com/apolis" target="_blank" onclick="recordOutboundLink(this, 'Footer', 'Pinterest');return false;"><img src="/images/site/icons/pinterest.png" width="20" height="20" alt="Follow Apolis on Pinterest"></a> &nbsp; 
+				<a href="https://www.yelp.com/biz/apolis-common-gallery-los-angeles" target="_blank" onclick="recordOutboundLink(this, 'Footer', 'Yelp');return false;"><img src="/images/site/icons/yelp.png" width="20" height="20" alt="See Common Gallery on Yelp"></a> &nbsp; 
+				<a href="https://vimeo.com/apolis" target="_blank" onclick="recordOutboundLink(this, 'Footer', 'Vimeo');return false;"><img src="/images/site/icons/vimeo.png" width="20" height="20" alt="Favorite us on Vimeo"></a> &nbsp; 
+				<a href="https://www.youtube.com/user/APOLISactivism2010" target="_blank" onclick="recordOutboundLink(this, 'Footer', 'YouTube');return false;"><img src="/images/site/icons/youtube.png" width="20" height="20" alt="Subscribe to Apolis on YouTube"></a> &nbsp; 
 				<a href="http://www.apolisglobal.com/tasks/feed/?feedID=DF05FA5D-CE3E-4F14-715FC74B282D05F5" target="_blank"><img src="/images/site/icons/rssfeed.png" width="20" height="20" alt="Subscribe to the Apolis RSS feed"></a> &nbsp; 
 				<a href="http://www.apolisglobal.com/app/" target="_blank"><img src="/images/site/icons/apolis.png" width="22" height="22" alt="Download the Apolis mobile app for iOS and Android"></a>
 				<h5 style="font-weight:normal; font-size:160%; margin-top:20px;">+1.855.4APOLIS (USA TOLL FREE)</h5>
@@ -247,9 +367,9 @@ We may share information with governmental agencies or other companies assisting
 						
 						<li id="subnavSwimwear"><a href="/linkservid/D0320A39-0E06-170B-031F0A33351D1AD4/showMeta/0/" onclick="recordOutboundLink(this, 'Footer', 'Swimwear');return false;">Swimwear</a></li>
 						
-						<li id="subnavBottom"><a href="/linkservid/B13DC6F9-9B80-4208-633C7E8DF92BDD8B/showMeta/0/" onclick="recordOutboundLink(this, 'Footer', 'Bottom');return false;">Bottom</a></li>
-						
 							</ul><ul>
+						
+						<li id="subnavBottom"><a href="/linkservid/B13DC6F9-9B80-4208-633C7E8DF92BDD8B/showMeta/0/" onclick="recordOutboundLink(this, 'Footer', 'Bottom');return false;">Bottom</a></li>
 						
 						<li id="subnavLuggage"><a href="/linkservid/9381EE10-AC57-2D0F-36876C743417FB3B/showMeta/0/" onclick="recordOutboundLink(this, 'Footer', 'Luggage');return false;">Luggage</a></li>
 						
@@ -259,16 +379,11 @@ We may share information with governmental agencies or other companies assisting
 						
 						<li id="subnavBundles"><a href="/linkservid/A307B68A-06FD-05D8-4D7E74AE36532B55/showMeta/0/" onclick="recordOutboundLink(this, 'Footer', 'Bundles');return false;">Bundles</a></li>
 						
-						<li id="subnavUniform"><a href="/linkservid/39ADA3EE-94C5-43FE-8CB4243A8AE5B3DE/showMeta/0/" onclick="recordOutboundLink(this, 'Footer', 'Uniform');return false;">Uniform</a></li>
-						
-						<li id="subnavTransitIssue"><a href="/linkservid/39AE202D-C778-84B7-D8F0CA1A828E3BF7/showMeta/0/" onclick="recordOutboundLink(this, 'Footer', 'Transit Issue');return false;">Transit Issue</a></li>
-						
-						<li id="subnavStandardIssue"><a href="/linkservid/39AEB057-FF7C-A1F7-591A1F4D9D47EF25/showMeta/0/" onclick="recordOutboundLink(this, 'Footer', 'Standard Issue');return false;">Standard Issue</a></li>
-						
 						<li id="subnavDefendTomorrow"><a href="/linkservid/0E8B3DDE-CFEC-8CB6-61A27CF8CE4426B3/showMeta/0/" onclick="recordOutboundLink(this, 'Footer', 'Defend Tomorrow');return false;">Defend Tomorrow</a></li>
 						
 						<li id="subnavGiftVoucher"><a href="/linkservid/0E9573B5-CB3B-EEBE-D8E720E384E92CB7/showMeta/0/" onclick="recordOutboundLink(this, 'Footer', 'Gift Voucher');return false;">Gift Voucher</a></li>
 						
+					<li><a href="http://www.apolisglobal.com/local-global-partners/">Market Bag City Series</a></li>
 				</ul>
 			
 			
@@ -281,7 +396,8 @@ We may share information with governmental agencies or other companies assisting
 				<li><a href="/profiles/">Profiles</a></li>
 				<li><a href="/press/">Press</a></li>
 				<li><a href="/retailers/">Retailers</a></li>
-				<li><a href="http://store.apolisglobal.com/event/store.collection/collectionGUID/2df4cd1b-98fa-416e-ae8c-67d305fff6ec/seasonGUID/81700c68-f134-4c4f-94f6-8a7ec39a4a3d,a9daa3be-8564-49fd-8e63-7372e04f3546/" onclick="recordOutboundLink(this, 'Footer', 'Archive Collections');return false;">Archive Collections</a></li>
+				 
+				<li><a href="javascript:;" onclick="return showListSignup('http://store.apolisglobal.com/event/MachChimp:oneStepSubscribe/');">Subscribe</a></li>
 				<li><a href="javascript:;" onclick="return showSignup('http://store.apolisglobal.com/event/MachChimp:simpleUnsubscribe/');">Unsubscribe</a></li>
 			</ul>
 		</div>
@@ -302,6 +418,48 @@ We may share information with governmental agencies or other companies assisting
 		<div class="sect first" style="clear:left;"><p>© 2012 Apolis Holdings, LLC</p></div>
 	</div>
 
+
+	<script type="text/javascript" src="/Apolis/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/Apolis/js/apolis.js?121210"></script>
+
+	<!-- begin Marin Software Tracking Script -->
+	<script type="text/javascript">
+		var _marinClientId = "51811l21318";
+		var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://");
+		document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" +
+		_marinClientId + ".js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://tracker.marinsm.com/tracker/51811l21318.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		try {
+			_marinTrack.trackPage();
+		} catch(err) {}
+	</script>
+	<noscript>
+		<img src="https://tracker.marinsm.com/tp?act=1&cid=51811l21318&script=no" >
+	</noscript>
+	<!-- end Copyright Marin Software -->
+
+	<!-- Valet - eventName=store.item -->
+
+	<script type="text/javascript">
+		<!--
+		adroll_adv_id = "TJ357ADONRDEXBV5RGZCQN";
+		adroll_pix_id = "PMSHOET7WJHPTEBYH4NTSR";
+		(function () {
+			var oldonload = window.onload;
+			window.onload = function(){
+				__adroll_loaded=true;
+				var scr = document.createElement("script");
+				var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+				scr.setAttribute('async', 'true');
+				scr.type = "text/javascript";
+				scr.src = host + "/j/roundtrip.js";
+				((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+				if(oldonload){oldonload()}
+			};
+		}());
+		//-->
+	</script>
 
 
 </div>
