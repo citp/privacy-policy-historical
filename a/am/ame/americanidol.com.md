@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanidol.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630121255id_/http%3A//www.americanidol.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanidol.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230053932id_/http%3A//www.americanidol.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - American Idol - American Idol
 
