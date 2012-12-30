@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501103017id_/http%3A//www.worldseafishing.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191448id_/http%3A//www.worldseafishing.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sea Fishing and Sea Angling Online
-
-* * *
-
-  
-Privacy Policy
-
-* * *
 
 This privacy policy is applicable to any personal information which is given by You to World Sea Fishing ("User Information") via the web site located at www.worldseafishing.com and all its related domains, the World Sea Fishing web site.
 
@@ -28,19 +21,3 @@ You may notify World Sea Fishing of any updates, amendments and corrections to p
 World Sea Fishing reserves the right, at any time, to modify, alter, or update this privacy policy and any changes shall be notified to all users.
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [www.networkadvertising.org](http://www.networkadvertising.org/)
-
-  
-| 
-
-|   
----  
-  
-### SHOP DEPARTMENTS  
-  
----  
-  
-The WSF Newsletter keeps you informed with all the latest happenings at WSF including brand new articles, tips and the latest deals in the WSF Shop.
-
-The list is now sponsored by Tronix Pro and each members will have the chance to win a selection of Tronix Pro Kit worth £40 in our random draw!  
-  
----
