@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodbilli.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625004307id_/http%3A//www.bollywoodbilli.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodbilli.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230211428id_/http%3A//www.bollywoodbilli.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bollywood Billi
 
@@ -10,21 +10,21 @@ At bollywoodbilli.com (henceforth referred as “website”), the privacy of our
 
 “website” is hosted using wordpress at dreamhost.com and uses analytics tools like Google Analytics. Though the owners of “website” do not directly use any log files, but since the site is hosted on dreamhost.com, there may be some log files being used by dreamhost.com.
 
-The information inside the log files may include internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+The information inside the log files may include internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 Cookies and Web Beacons: “website” does not use cookies.
 
 DoubleClick DART Cookie:
 
 :: Google, as a third party vendor, uses cookies to serve ads on your site.  
-:: Googleâ€™s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URLs â€“
+:: Googles use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URLs.
 
 http://www.google.com/privacy_ads.html and
 
 https://www.google.com/adsense/support/bin/answer.py?answer=100557&sourceid=aso&subid=ww-en-et-asblog_2009-03-23&medium=link
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include â€¦â€¦.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include-
 
 :: Google Adsense  
 :: DGM India
@@ -33,6 +33,6 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 “website” has no access to or control over these cookies that are used by third-party advertisers.
 
-The advertisers may also use â€œInterest Based Advertisingâ€ â€“ the details of which can be found on one of the URLâ€™s mentioned above.
+The advertisers may also use Interest Based Advertising the details of which can be found on one of the URLs mentioned above.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. “website”â€˜s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsersâ€™ respective websites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. “website”s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers respective websites.
