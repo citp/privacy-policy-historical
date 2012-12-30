@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the putlocker.ch privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505015225id_/http%3A//www.putlocker.ch/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the putlocker.ch privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230054454id_/http%3A//www.putlocker.ch/privacy) for the most accurate reproduction.*
 
 # PutLocker - Privacy Policy
 
