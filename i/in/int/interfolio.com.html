@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interfolio.com privacy policy that was archived on 2012-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120623200133id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interfolio.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230183856id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,17 +30,17 @@
 	
 	
 		
-		<script src="/js/jquery/jquery-1.7.1.min.js?201206060906" type="text/javascript"></script>
+		<script src="/js/jquery/jquery-1.7.1.min.js?201212160512" type="text/javascript"></script>
 		
 		
-		<script src="/js/jquery/jquery-ui-1.8.7.custom.min.js?201206060906" type="text/javascript"></script>
+		<script src="/js/jquery/jquery-ui-1.8.7.custom.min.js?201212160512" type="text/javascript"></script>
 			
 		
-		<script src="/js/jquery/jquery-validate/jquery.validate.min.js?201206060906" type="text/javascript"></script>
+		<script src="/js/jquery/jquery-validate/jquery.validate.min.js?201212160512" type="text/javascript"></script>
 		
-		<script src="/js/jquery/jquery.basicimagepreload.js?201206060906" type="text/javascript"></script>
-		<script src="/js/jquery/jquery.preloadCssImages.js?201206060906" type="text/javascript"></script>
-		<script src="/js/jquery/jquery.basicimagepreload.js?201206060906" type="text/javascript"></script>
+		<script src="/js/jquery/jquery.basicimagepreload.js?201212160512" type="text/javascript"></script>
+		<script src="/js/jquery/jquery.preloadCssImages.js?201212160512" type="text/javascript"></script>
+		<script src="/js/jquery/jquery.basicimagepreload.js?201212160512" type="text/javascript"></script>
 		 
 		<script type="text/javascript">
 			jQuery(document).ready(
@@ -56,23 +56,23 @@
 	
 	
 		
-			<link href="/css/website/reset.css?201206060906" type="text/css" rel="stylesheet" media="all">
+			<link href="/css/website/reset.css?201212160512" type="text/css" rel="stylesheet" media="all">
 		
-			<link href="/css/website/text.css?201206060906" type="text/css" rel="stylesheet" media="all">
+			<link href="/css/website/text.css?201212160512" type="text/css" rel="stylesheet" media="all">
 		
-			<link href="/css/website/960.css?201206060906" type="text/css" rel="stylesheet" media="all">
+			<link href="/css/website/960.css?201212160512" type="text/css" rel="stylesheet" media="all">
 		
-			<link href="/css/website/core.css?201206060906" type="text/css" rel="stylesheet" media="all">
+			<link href="/css/website/core.css?201212160512" type="text/css" rel="stylesheet" media="all">
 		
-			<link href="/css/showcase/jquery/custom-theme/jquery-ui-1.8.7.custom.css?201206060906" type="text/css" rel="stylesheet" media="all">
+			<link href="/css/showcase/jquery/custom-theme/jquery-ui-1.8.7.custom.css?201212160512" type="text/css" rel="stylesheet" media="all">
 		
 		
 		<!--[if IE 7]>
-		<link href="/css/website/ie7.css?201206060906&type=css" type="text/css" rel="stylesheet" media="all" />
+		<link href="/css/website/ie7.css?201212160512&type=css" type="text/css" rel="stylesheet" media="all" />
 		<![endif]-->	
 		
 		
-		<link href="/css/website/print.css?201206060906" type="text/css" rel="stylesheet" media="print">
+		<link href="/css/website/print.css?201212160512" type="text/css" rel="stylesheet" media="print">
 		
 	</head>
 	<body id="subpage-leftnav" class="">
@@ -84,173 +84,42 @@
 <div id="account">
 	<div id="account_grid" class="clearfix">
 
-			<div id="welcome"><strong rel="phone">877-77FOLIO</strong> / <a href="/helpcenter/">Help</a></div>
+			<div id="welcome"><strong rel="phone">(877) 997-8807</strong> / <a href="/helpcenter/">Help</a></div>
 			
 			<div id="login">
 				
 			<script src="/js/jquery/jquery.html5placeholder.js"></script>
 		
-		
-		
-		<script>
-		function showForgotPassword(){
-				document.getElementById('emailPasswordForm').style.display='';
-				document.getElementById('email').focus();
-				document.getElementById('showPasswordLink').style.display='none';
-		}
-		
-		function hideLoginForm() {
-				document.getElementById('loginForm').style.display='none';
-		}
-		
-		function replaceMessage(defaultText,fieldId) {
-			var field = document.getElementById(fieldId);
-			if (defaultText == field.value) {
-				field.value = '';
-				field.focus();
-			}
-			else if (field.value == '') {
-				field.value = defaultText;
-				field.focus();
-			}
-			else return true;
-		}	
-		
-		function canSubmit() {
-			var message = "";
-			if (!document.getElementById('username').value) { message += " - Email or Username\n"; }
-			if (!document.getElementById('password-login').value) { message += " - Password"; }
-			if (message) { alert('Please enter:\n\n'+message); return false; } else {return true;}
-		}
-		
-		function checkDefaultValues(defaultEmail,defaultPass) {
-			var message = "";
-
-			if (document.getElementById('username').value == defaultEmail) {
-				message += " - Email or Username\n";
-				document.getElementById('username').focus();
-			}
- 			if (document.getElementById('password-login').value == defaultPass) {
-				message += " - Password"; 
-				document.getElementById('password-login').focus();
-			}
-
-			if (message) {
-				alert('Please enter: \n\n' + message);
-				return false;
-			}
-			else {
-				return canSubmit();
-			}	
-		}
-
-		function convertPasswordField(fieldId) {
-			var theField = document.getElementById(fieldId); 
-			if (theField.type != 'password') {
-				theField.type = 'password';
-				theField.focus();
-			}
-		}
-
-		function togglePassword() {
-			var displayField = document.getElementById('password-display');
-			var loginField = document.getElementById('password-login');
-
-			if (displayField.style.display == 'none') {
-				jQuery('#password-display').show().focus();
-			} else {
-				jQuery('#password-display').hide();
-			}
-
-			if (loginField.style.display=='none') {
-				jQuery('#password-login').show().val('').focus();
-			} else {
-				jQuery('#password-login').hide();
-			}
-		}
-
-		//display login form on load (it will be hidden with css if javascript is disabled)
-		jQuery(document).ready(
-			function() {
-				jQuery('#loginForm').show();
-				jQuery('form.login').show();
-			}
-		);
-		
-		
+			<script src="/js/login.js"></script>
 			
-				jQuery(
-					function() {
-						//object container for login functions
-						var GLOBAL_LOGIN = {};
-			
-						//get jq objects
-						var $loginPanel = jQuery('#loginPanel'),
-							$loginTrigger = jQuery('#loginTrigger'),
-							$loginForm = jQuery('#loginForm');
-						
-						//polyfill for placeholder behavior in old browsers
-						jQuery('#login input').placeholder();
-						
-						//position the login panel
-						$loginPanel.position( {
-							my: 'right top',
-							at: 'right bottom',
-							of: $loginTrigger,
-							offset: 0,
-							collision:  'flip'
-						});
-						
-						
-						//hide the login panel when the mouse leaves
-						GLOBAL_LOGIN.hideLoginPanel = function() {
-							//get focused elements in the login form
-							var $focusedEl = $loginForm.find(':focus');
-							//don't hide the login form if a field in the form has focus
-							if (!$focusedEl.length) {
-								$loginPanel.slideUp('fast');
-							}
-						};
-						
-						//show the login panel
-						GLOBAL_LOGIN.showLoginPanel = function(event) {
-							$loginPanel.slideDown('fast');
-							$loginForm.find('input[type=text]:first').focus();
-						};
-						
-						$loginTrigger.mouseenter( GLOBAL_LOGIN.showLoginPanel );
-						$loginPanel.mouseleave( GLOBAL_LOGIN.hideLoginPanel );
-						
-						
-					});
-			
-			
-		</script>
 		
 			
 			
 			<a href="#" id="loginTrigger" class="button">Log In</a>
 			
 			
-			<div id="loginPanel" style="top: 43px; left: 882px;">
-				<form id="loginForm" name="loginForm" method="post" action="https://www.interfolio.com/index.cfm" onsubmit="return checkDefaultValues('Email / Username','Password')" style="">
+			<div id="loginPanel">
+				<form id="loginForm" name="loginForm" class="singleSubmit" method="post" action="https://secure.interfolio.com/index.cfm" style="display:none;">
 					<input type="hidden" name="event" value="login.process">
-					<input type="text" name="username" id="username" value="Email / Username" onfocus="replaceMessage('Email / Username','username')" onblur="replaceMessage('Email / Username','username')">
-						
-					<input type="text" name="password-display" id="password-display" value="Password" onfocus="togglePassword();">
-						
-					<input type="password" name="password" id="password-login" value="Password" style="display: none;">
+					
+					<label for="username">Email or Username<span class="required">*</span></label>
+					<input type="text" name="username" id="username" placeholder="Email or Username">
+					
+					<label for="password-login">Password<span class="required">*</span></label>
+					<input type="password" name="password" id="password-login" placeholder="Password">
+					
 					<input type="submit" class="button primary" value="Log In" name="submit" id="loginSubmit">
 					
 					<br>
-					<a id="showPasswordLink" href="javascript:showForgotPassword();hideLoginForm();">Forgot your password? →</a>
-					
-					<a href="index.cfm?event=login.home.sso">Log in to ByCommittee through your institution →</a>
+					<a id="showPasswordLink" href="#">Forgot your password? →</a>
+					<a href="https://secure.interfolio.com/index.cfm?event=login.home.sso">Log in to ByCommittee through your institution →</a>
 					
 				</form>
-				<form method="post" id="emailPasswordForm" action="https://www.interfolio.com/index.cfm?event=login.emailPassword" style="display:none;"> 
-					<input type="text" id="email" name="email" value="Email or Username" onfocus="replaceMessage('Email or Username','email')" onblur="replaceMessage('Email or Username','email')">
+				<form method="post" id="emailPasswordForm" class="singleSubmit" action="https://secure.interfolio.com/index.cfm?event=login.emailPassword" style="display:none;">
+					<label for="email">Email or Username<span class="required">*</span></label> 
+					<input type="text" id="email" name="email" placeholder="Email or Username">
 					<input type="submit" value="Send Password" id="sendPassword">
+					<a href="#" id="cancelForgotPassword">Cancel</a>
 				</form>
 				
 				<noscript><a href="/loginJs.cfm">Click here to login.</a></noscript>
@@ -328,7 +197,7 @@
 <p><em>Last revised on February 23, 2012</em></p>
 <h2>A note from TRUSTe:</h2>
 <p><a href="http://www.truste.org/ivalidate.php?url=www.interfolio.com&amp;sealid=101" target="_blank"><img src="http://www.interfolio.com/externalsitemedia/images/TRUSTe_CTV.gif" alt="" align="right"></a>Interfolio, Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.interfolio.com.  TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
-<p>If you have questions or concerns regarding this statement, you should first contact Interfolio Security and Privacy by phone: 202-223-3358 or email: <a href="mailto:help@interfolio.com">help@interfolio.com</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe on line at: <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">http://www.truste.org/consumers/watchdog_complaint.php</a>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.</p>
+<p>If you have questions or concerns regarding this statement, you should first contact Interfolio Security and Privacy by phone: (202) 738-5322 or email: <a href="mailto:help@interfolio.com">help@interfolio.com</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe on line at: <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">http://www.truste.org/consumers/watchdog_complaint.php</a>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.</p>
 
 <p>Interfolio complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. </p>
 
@@ -392,8 +261,8 @@ If you are affiliated with a University, you hereby authorize us, and we may dis
 <p>Giving you tools to help you protect your Personal Information is a vital part of our mission. It is up to you to make sure you are comfortable with the information you provide. Please remember that we do provide Personal Information to Recipients to whom you have authorized disclosure and, if applicable, your University. We do not control how Universities or Recipients (or their respective Users) use or disclose the information they obtain from us.</p>
 <p>IF YOU AUTHORIZE US TO SHARE PERSONAL INFORMATION WITH A RECIPIENT OR YOUR UNIVERSITY, WE DO NOT HAVE ANY CONTROL OVER HOW ANY SUCH RECIPIENT OR UNIVERSITY USES AND DISCLOSES YOUR PERSONAL INFORMATION, INCLUDING INFORMATION YOU PROVIDE DIRECTLY TO THAT RECIPIENT. YOU ACKNOWLEDGE AND AGREE THAT (1) INTERFOLIO DOES NOT EVALUATE ANY RECIPIENT'S OR UNIVERSITY'S PRIVACY PRACTICES, AND (2) INTERFOLIO WILL NOT HAVE ANY LIABILITY FOR ANY ACTIONS OF ANY RECIPIENT OR UNIVERSITY. YOU SHOULD KNOW THAT RECIPIENTS TO WHOM WE MAY DISCLOSE YOUR DISCLOSED PROFILE MAY SHARE YOUR DISCLOSED PROFILE WITH OTHERS. </p>
 <h3>ACCESSING AND CONTROLLING YOUR INFORMATION</h3>
-<p>To change information that you have previously provided Interfolio, you may log in to your account at <a href="http://www.interfolio.com">http://www.interfolio.com</a> and edit the information on your Settings page. You may also contact Interfolio's Customer Support to change this information by emailing <a href="mailto: help@interfolio.com">help@interfolio.com</a> or by calling 877-77-FOLIO (877-773-6546). If you change and/or request changes to your information, subsequent uses or disclosures of that information by us will reflect those changes, however, we do not have the ability to update any information previously disclosed to any third party, <span style="text-decoration:underline">including your University</span>. We will correct any inaccuracies in any Personal Information that we have in our possession once notified of the requested change.  We endeavor to process these requested changes as soon as is possible, but it may take up to thirty (30) days to make requested changes.</p>
-<p>You may not be able to access Confidential Personal Information submitted to the Services about you. Similarly, if you have provided us with Confidential Personal Information, you may not be able to control this information or to whom it is disclosed, provided, however, than you can request its deletion by emailing <a href="mailto: help@interfolio.com">help@interfolio.com</a> or by calling 877-77-FOLIO (877-773-6546). Such a request will not affect any previously disclosed information.</p>
+<p>To change information that you have previously provided Interfolio, you may log in to your account at <a href="http://www.interfolio.com">http://www.interfolio.com</a> and edit the information on your Settings page. You may also contact Interfolio's Customer Support to change this information by emailing <a href="mailto: help@interfolio.com">help@interfolio.com</a> or by calling (877) 997-8807. If you change and/or request changes to your information, subsequent uses or disclosures of that information by us will reflect those changes, however, we do not have the ability to update any information previously disclosed to any third party, <span style="text-decoration:underline">including your University</span>. We will correct any inaccuracies in any Personal Information that we have in our possession once notified of the requested change.  We endeavor to process these requested changes as soon as is possible, but it may take up to thirty (30) days to make requested changes.</p>
+<p>You may not be able to access Confidential Personal Information submitted to the Services about you. Similarly, if you have provided us with Confidential Personal Information, you may not be able to control this information or to whom it is disclosed, provided, however, than you can request its deletion by emailing <a href="mailto: help@interfolio.com">help@interfolio.com</a> or by calling (877) 997-8807. Such a request will not affect any previously disclosed information.</p>
 <p>Certain information is necessary in order for us to provide the Site or Services; therefore, if you delete such necessary information you will not be able to use the Site or Services.  If you wish to have your Personal Information removed from our databases or to discontinue the Service you may contact us at <a href="mailto: help@interfolio.com">help@interfolio.com</a>. Within a reasonable time period after we receive your request, we will remove your Personal Information provided, however, that we may continue to maintain and use your Personal Information in a manner where the information is no longer personally identifiable.</p>
 <p>Please note that even though you may request the deletion of your Personal Information by us, we may be required (by law or otherwise, such as to prevent fraud, resolve disputes, troubleshoot problems, or enforce our Services Agreement) to keep this information and not delete it (or to keep this information for a certain time) in which case we will comply with your deletion request only after we have fulfilled such requirements).  When we delete Personal Information, it will be deleted from the active database, but may remain in our archives. </p>
 <h3>USER FEEDBACK</h3>
