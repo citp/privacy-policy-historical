@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the linuxfoundation.org privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628004505id_/http%3A//www.linuxfoundation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxfoundation.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193054id_/http%3A//www.linuxfoundation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Linux Foundation
 
-THE LINUX FOUNDATION 
+THE LINUX FOUNDATION
 
 UNITED STATES/EUROPEAN UNION SAFE HARBOR PRIVACY STATEMENT ("PRIVACY STATEMENT")
 
-   
+ 
+
 (Effective Date March 3, 2009)
 
 The Linux Foundation, ("Linux Foundation"), comprised of its Internet sites, and Linux.com (the "Sites"), is committed to protecting the privacy of users of the Sites. Linux Foundation intends to give users as much control as possible over user’s personally identifiable information, including registration data. This Privacy Statement applies to each of the Sites and describes the information Linux Foundation collects about users and how that information may be used.
@@ -164,9 +165,9 @@ If Linux Foundation becomes aware that a user's personally identifiable informat
 
 If a user has comments or questions about the Linux Foundation’s privacy statement, please contact:
 
-_**The Linux Foundation**_  
-1796 18th Street, Suite C  
-San Francisco, CA 94107  
+**The Linux Foundation**  
+660 York Street, Suite 102  
+San Francisco, CA 94110  
 Phone/Fax: +1-415-723-9709  
 Website: [http://www.linuxfoundation.org](http://www.linuxfoundation.org/)  
 Email: info (at) linuxfoundation dot org
