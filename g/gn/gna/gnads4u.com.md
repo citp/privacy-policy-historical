@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnads4u.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504063217id_/http%3A//gnads4u.com/staticpages.html%3F_a%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnads4u.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230051919id_/http%3A//gnads4u.com/staticpages.html%3F_a%3Dprivacy) for the most accurate reproduction.*
 
 # GNAds4U.com - Privacy policy
 
