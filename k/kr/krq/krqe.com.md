@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krqe.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234310id_/http%3A//www.krqe.com/dpp/about_us/privacy_policy/about_krqe_nm_privacy_policy_200811101319_rev1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krqe.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231004855id_/http%3A//www.krqe.com/dpp/about_us/privacy_policy/about_krqe_nm_privacy_policy_200811101319_rev1) for the most accurate reproduction.*
 
 # Privacy Policy | KRQE News 13 | LINMedia
 
