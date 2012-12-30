@@ -1,132 +1,235 @@
-> *The following text is extracted and transformed from the katiecouric.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123161840id_/http%3A//www.standup2cancer.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katiecouric.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231003426id_/http%3A//corporate.disney.go.com/corporate/pp.html) for the most accurate reproduction.*
 
-# Stand Up To Cancer - Privacy Policy
+# The Walt Disney Company - Privacy Policy
 
-**PLEASE READ. YOUR USE OF THIS SITE IS SUBJECT TO THE FOLLOWING PRIVACY POLICY STATEMENT AND THE WEB SITE TERMS OF SERVICE.**
+|  |   
+|   
+---  
+[](http://corporate.disney.go.com/index.html) | [](http://corporate.disney.go.com/investors/index.html) | [](http://corporate.disney.go.com/news/index.html) | [](http://corporate.disney.go.com/careers/index.html) | [](http://corporate.disney.go.com/citizenship/index.html)  
+|   
+  
+|   
+---  
+[](http://corporate.disney.go.com/corporate/overview.html)  
+[](http://corporate.disney.go.com/corporate/complete_history.html)  
+[](http://corporate.disney.go.com/corporate/board_of_directors.html)  
+[](http://corporate.disney.go.com/corporate/management_team.html)  
+[](http://corporate.disney.go.com/news/corporate.html)  
+[](http://corporate.disney.go.com/corporate/business.html)  
+[](http://corporate.disney.go.com/corporate/cr_business_standards.html)  
+[](http://corporate.disney.go.com/corporate/cr_safety_security.html)  
+[](http://corporate.disney.go.com/corporate/cr_indices.html)  
+[](http://corporate.disney.go.com/corporate/terms.html)  
+[](http://corporate.disney.go.com/corporate/pp.html)  
+[](http://corporate.disney.go.com/corporate/pp.html)  
+[](http://corporate.disney.go.com/corporate/pp_online-tracking-advertising.html)  
+[](http://corporate.disney.go.com/corporate/pp_communication-choices.html)  
+[](http://corporate.disney.go.com/corporate/kids.html)  
+[](http://corporate.disney.go.com/corporate/pp_california.html)  
+[](http://corporate.disney.go.com/corporate/previous.html)  
+[](http://corporate.disney.go.com/corporate/useusafeharbor.html)  
+  
+  
+  
+  
+[](http://corporate.disney.go.com/index.html)  
+  
+|   
+---  
+  
+  
+|  | 
 
-**_Notice_**
+The Walt Disney Company has a rich tradition of bringing great stories, characters and experiences to our guests around the world, and our sites and applications are created to entertain and connect guests with the best that Disney has to offer on the platforms and devices they prefer. 
+
+We have updated our privacy policy. Our updated policy is designed to provide greater transparency into our privacy practices and principles, in a new format that is easier to navigate, read and understand. We continue to treat your personal information with care and respect. 
+
+Privacy Policy
+
+Effective Date: August 22, 2011 
+
+This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate. 
+
+| 1. | Types of Information We Collect  
+---|---  
+| We collect two basic types of information - personal information and anonymous information \- and we may use personal and anonymous information to create a third type of information, aggregate information. We collect the following categories of information: 
+
+  * Registration information you provide when you create an account, including your first name and surname, country of residence, gender, date of birth, email address, username and password
+  * Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information
+  * Information you provide in public forums on our sites and applications
+  * Information sent either one-to-one or within a limited group using our message, chat, post or similar functionality, where we are permitted by law to collect this information
+  * Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites, or link your profile on a third-party site or platform with your registration account
+  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address, where we are permitted by law to process this information
+  * Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send
 
   
-This Web site (the “Site”) is operated by Stand Up To Cancer, a charitable services fund administered by the Entertainment Industry Foundation (jointly, “SU2C”). This privacy policy (“Privacy Policy”) applies to information that you provide to SU2C via this Site, and/or by use of other services (collectively, the “Services”) that may be provided by other means or media, including as set forth below and as defined in the applicable Terms of Service or other terms.
+back to top of page  
+2. | How We Collect Your Information  
+| 
 
-This Privacy Policy is intended to provide you notice of SU2C’s information management practices, including the types of information gathered, how it is used and safeguarded, and the degree to which you may control the maintenance and sharing of your information. Your use of any SU2C Site or Services constitutes acceptance of this Privacy Policy and any other applicable terms, including the [Terms of Service](https://web.archive.org/web/20111123161840id_/http%3A//www.standup2cancer.org/tos.php) (the “TOS”), which TOS incorporates this Privacy Policy by reference. 
+  * We collect information you provide to us when you request products, services or information from us, register with us, participate in public forums or other activities on our sites and applications, respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform's privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
+  * We collect information through technology, such as cookies, Flash cookies and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit [Online Tracking and Advertising](https://web.archive.org/web/20121231003426id_/http%3A//corporate.disney.go.com/corporate/pp_online-tracking-advertising.html) for further information, including how to disable cookies.
+  * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it.
 
-**_Personally Identifiable Information That We Collect_**
+  
+back to top of page  
+3. | Use of Your Information by The Walt Disney Family of Companies  
+| A member of The Walt Disney Family of Companies, which includes many different brands, will be the data controller for your information. The relevant data controller(s) can be determined here. Other members of The Walt Disney Family of Companies may have access to your information where they perform services on behalf of the data controller(s) (as a data processor) and, unless prohibited under applicable law, for use on their own behalf (as a data controller) for the following purposes: 
 
-SU2C respects your privacy and is committed to protecting personally identifiable information that you provide in connection with your use of the Site and the Services. 
+  * Provide you with the products and services you request
+  * Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies
+  * Consistent with local law and choices and controls that may be available to you: 
+    * Send you offers and promotions for our products and services or third-party products and services
+    * Personalize content and experiences on our sites and applications
+    * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. To learn more about how we use your information for personalization and tracking, please visit [Online Tracking and Advertising](https://web.archive.org/web/20121231003426id_/http%3A//corporate.disney.go.com/corporate/pp_online-tracking-advertising.html).
+  * Optimize or improve our products, services and operations
+  * Detect, investigate and prevent activities that may violate our policies or be illegal
 
-_E-mail Newsletter Subscriptions_
+  
+back to top of page  
+4. | Sharing Your Information with Other Companies  
+| We will not share your personal information outside The Walt Disney Family of Companies except in limited circumstances, including: 
 
-To subscribe to our e-mail newsletters, you will need to provide your e-mail address. You may also be asked for other information when you subscribe. __
+  * When you allow us to share your personal information with another company, such as: 
+    * Electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services
+    * Directing us to share your personal information with third-party sites or platforms, such as social networking sites
+Please note that once we share your personal information with another company, the information received by the other company becomes subject to the other company's privacy practices.
+  * When we cooperate with financial institutions to offer co-branded products or services to you, such as our co-branded Disney Rewards Visa Card; however, we will do so only if permitted by applicable law and, in these cases, the financial institutions are prohibited from using your personal information for purposes other than those related to the co-branded products or services
+  * When companies perform services on our behalf, like package delivery and customer service; however, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law
+  * When we share personal information with third parties in connection with the sale of a business, to enforce our Terms of Use or rules, to ensure the safety and security of our guests and third parties, to protect our rights and property and the rights and property of our guests and third parties, to comply with legal process or in other cases if we believe in good faith that disclosure is required by law
 
-_User Accounts_
+  
+back to top of page  
+5. | Your Controls and Choices  
+| We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices may include: 
 
-In order to use our chat rooms, message boards, and certain other Services and features of the Site, you will need to register and create a user account ("User Account"). There is no cost to create a User Account in most cases. You may be asked to choose a user name, screen name, or member name (each, a "User Name") and password. Please do not use your real name or the real name of another person when selecting a User Name. You will also be asked to provide certain personally identifiable information and other information about yourself, such as your first and last name, date of birth, address, telephone number, and e-mail address. Once you give us your personal information, you are no longer anonymous to us. By providing us with personal information, you consent to our collection and storage of your information. We may collect and store the following personal information: __
+  * You may correct, update and delete your registration account
+  * You may change your choices for subscriptions, newsletters and alerts
+  * You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
+  * You may choose whether we share your personal information with other companies so they can send you offers and promotions about their products and services
+  * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here](http://www.aboutads.info/)
+  * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
 
-  * financial, billing and transactional information, such as credit card or bank account numbers, used in connection with your activities on the Site or the Services (such as any fee payments and other content you generate or that relates to your User Account); 
-  * user feedback, chats, correspondence through our Site and the Services, and correspondence sent to us;
-  * other supplemental information from third parties (for example, if you incur a debt to SU2C, we may conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law; or if the information you provide cannot be verified, we may ask you to send us additional information, such as your driver license, credit card statement, or a recent utility bill or other information confirming your address, or to answer additional questions online to help verify your information).
+You may exercise your controls and choices, or request access to your personal information, by visiting [Communication Choices](https://web.archive.org/web/20121231003426id_/http%3A//corporate.disney.go.com/corporate/pp_communication-choices.html), contacting Guest Services, or following instructions provided in communications sent to you. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take account of your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact Guest Services.   
+back to top of page  
+6. | Children's Privacy  
+| We recognize the need to provide further privacy protections with respect to personal information we may collect from children on our sites and applications. Some of the features on our sites and applications are age-gated so that they are not available for use by children, and we do not knowingly collect personal information from children in connection with those features. When we intend to collect personal information from children, we take additional steps to protect children's privacy, including: 
+
+  * Notifying parents about our information practices with regard to children, including the types of personal information we may collect from children, the uses to which we may put that information, and whether and with whom we may share that information
+  * In accordance with applicable law, obtaining consent from parents for the collection of personal information from their children, or for sending information about our products and services directly to their children
+  * Limiting our collection of personal information from children to no more than is reasonably necessary to participate in an online activity
+  * Giving parents access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted
+
+For additional information about our practices in the United States and Latin America regarding children's personal information, please read our [Children's Privacy Policy](http://corporate.disney.go.com/corporate/kids.html).   
+back to top of page  
+7. | Data Security and Integrity  
+| The security, integrity and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use and modification. From time to time, we review our security procedures to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.   
+back to top of page  
+8. | Data Transfers, Storage and Processing Globally  
+| We operate globally and may transfer your personal information to individual companies of The Walt Disney Family of Companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we abide by the Safe Harbor Principles as set forth by the U.S. Department of Commerce, use standard contract clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. We also apply the substantive requirements of the Safe Harbor Principles when transferring personal information from Australia.   
+back to top of page  
+9. | Changes to this Privacy Policy  
+| From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent.   
+back to top of page  
+10. | Comments and Questions  
+| If you have a comment or question about this privacy policy, please contact Guest Services. 
+
+Our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information. 
+
+_Notice to California Residents:_
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by certain members of The Walt Disney Family of Companies to third parties for the third parties' direct marketing purposes. With respect to these [entities](http://corporate.disney.go.com/corporate/pp_california.html), this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to [caprivacy.wdig@twdc.com](mailto:caprivacy.wdig@twdc.com) or write us: 
+
+CA Privacy Rights  
+Disney Interactive  
+500 South Buena Vista Street  
+Mail Code 7667  
+Burbank, CA 91521-7667 
+
+In your request, please specify the member of The Walt Disney Family of companies to which your request pertains. If no member is specified, we will treat your request as pertaining to Disney Online.   
+  
+back to top of page  
+  
+Definitions
+
+Aggregate Information. Aggregate information means information about groups or categories of guests, which does not identify and cannot reasonably be used to identify an individual guest. 
+
+Anonymous Information. Anonymous information means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual guest. 
+
+Application. Application means a program or service operated by us (or on our behalf) that may be displayed on various online, mobile or other platforms and environments, including those operated by third parties, which permits us to interact directly with our guests. 
+
+Children. Children means individuals who we have identified are not of legal age to consent to the collection and processing of their personal information. In the United States and Latin America, the term "children" refers to individuals under 13 years of age. 
+
+Data Controller. The data controller is the subsidiary or affiliated entity of The Walt Disney Company that is responsible for the personal information collected from sites and applications, as follows: 
+
+| Sites and Applications | Company | Contact Information  
+---|---|---  
+Disney Movies Online | Disney Online, Buena Vista Home Entertainment, Inc. | Disney Interactive  
+500 South Buena Vista Street  
+Mail Code 7667  
+Burbank, CA 91521-7667  
+United States of America  
+[Guest Services](mailto:ms_support@help.go.com)  
+Disney Studio All Access  
+Disney Movie Rewards | Disney Online, Buena Vista Home Entertainment, Inc., Walt Disney Studios Motion Pictures | Disney Interactive  
+500 South Buena Vista Street  
+Mail Code 7667  
+Burbank, CA 91521-7667  
+United States of America  
+[Guest Services](mailto:ms_support@help.go.com)  
+All other sites and applications | Disney Online |  Disney Interactive  
+500 South Buena Vista Street  
+Mail Code 7667  
+Burbank, CA 91521-7667  
+United States of America  
+[Guest Services](mailto:ms_support@help.go.com)  
+  
+Data Processor. A data processor is a person or entity that processes personal information on behalf of a data controller (or data controllers) and is permitted to perform data processing only as directed by the data controller(s). 
+
+IP Address. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. We may use IP addresses to collect information regarding the frequency with which our guests visit various parts of our sites and applications, and we may combine IP addresses with personal information. 
+
+Member. Member means a subsidiary or affiliated entity that is part of The Walt Disney Family of Companies. 
+
+Notice. Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our sites and applications, or by other means, consistent with applicable law. 
+
+Parents. Parents means a parent or legal guardian. 
+
+Personal information. Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual's name, postal address, email address and telephone number. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information. 
+
+Public Forums. Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact Guest Services. 
+
+The Walt Disney Family of Companies. The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following: 
+
+ABC  
+Baby Einstein  
+BabyZone  
+Club Penguin  
+Disney  
+ESPN  
+Hollywood Records  
+Kaboose  
+Marvel  
+Muppets  
+Pixar  
+Playdom  
+Tapulous  
+Touchstone  
 
 
+Guest Services Contact Information
 
-Please note that your User Name will be available to the Internet's general public while you participate in some Services, like chat rooms or message boards, so you should exercise discretion when using these Services. This Privacy Policy does not apply to any information you may disclose publicly in such Services. In some instances, you may choose to create a "Public Profile" that will be available to others on the Internet. Public Profiles are managed entirely by you, and you are solely responsible for your Public Profile's content and its "public" or "private" status. You are also responsible for maintaining and updating the registration information in your User Account with current and complete information. You may access, edit or remove your Public Profile by signing in to your User Account and following the directions there. You can also send an e-mail to [su2cprivacy@standup2cancer.org](mailto:su2cprivacy@standup2cancer.org) to request deactivation of your User Account.
+United States of America:
 
-_Special Promotions and Purchases_
+     Guest Services  
+     Disney Interactive  
+     500 South Buena Vista Street  
+     Mail Code 7667  
+     Burbank, CA 91521-7667  
+     United States of America  
+     Send an email to [Guest Services](mailto:ms_support@help.go.com)
 
-To participate in some Services such as sweepstakes, contests and surveys ("Special Promotions"), or to make online purchases ("Purchases"), you will need to provide personally identifiable information, such as name, mailing address, e-mail address, phone number, and date of birth. Your information may be collected by SU2C or by a third party, such as a co-sponsor or a vendor involved in, or providing services in connection with, a Special Promotion, or an e-commerce partner in the case of a Purchase (e.g.,www.facebook.com and [www.mlb.com](http://www.mlb.com/)).
+For questions related to children's privacy, you may also telephone Guest Services at (877) 466-6669. 
 
-If you make a Purchase or enter a sweepstakes or other Special Promotion on our Site or through our Services, SU2C will collect your personally identifiable information, and you are deemed to consent to us providing your information to third parties who provide certain services such as processing of credit card transactions, customer service, promotion or sweepstakes administration, order fulfillment and/or prize delivery, as applicable. (As more fully described below in Use, Disclosure, and Sharing of Information - Personally Identifiable Information, these third parties are prohibited from using this information for their own marketing purposes and/or from sharing, selling, or otherwise distributing any personal data of our customers, unless you choose to opt in for such additional uses and/or disclosure by the third parties, under their respective privacy policies).
-
-If you make a purchase or enter a promotion (such as a sweepstakes) in which SU2C is participating on a third party's Web site (or through some other means or medium), we will collect your information from the third party only if you opt-in to receive additional communications from us, or we are required to fulfill some function in relation to your activity (e.g., to send your order or deliver a prize).
-
-_Information Collected by Other Means or Media_
-
-In some situations, we may also collect personally identifiable information and other information about you through other means, directly or indirectly. For example, if you access any SU2C content, or purchase such content via your wireless carrier or through another third party, SU2C may collect information directly from you or through the third party. Likewise, if you use our software, or provide information to other companies who share information about their customers, we may collect additional information about you. In each of these cases, SU2C will apply this policy to any personally identifiable information. __
-
-_Information About Other People_
-
-Some SU2C sites and Services may ask you to submit personally identifiable information about other people. For example, you might submit a person's name and other personally identifiable information if you purchase a gift and want to have it sent directly to the recipient. A record of that transaction will be maintained as allowed and/or required by law. __
-
-_Customer Service_
-
-Some Services may offer support and technical assistance through customer service centers via telephone, online chat, or e-mail. Whenever you communicate with customer service, you do so with the understanding that an operator may view and make changes to the information in your User Account in order to provide the assistance that you need. **__**
-
-**_Non-Personally Identifiable Information That We Collect_**
-
-In many cases, SU2C will automatically collect certain non-personally identifiable information about your use of the Site and the Services. SU2C might collect, among other things, information concerning the date, time and length of your visit and the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your "click path" through the SU2C sites or "click-through" from an e-mail, the Web site or advertisement that was linked to or from the SU2C site when you visited, and your IP address. To do this, SU2C may use cookies and other technology (see below). If you are using our wireless Services, we may also automatically collect information such as the type of wireless device you are using, your mobile identification number (assigned by your telecommunications carrier) and telecommunications carrier. Your use of the Site and the Services, and information provided through these technologies, will be anonymous unless you provide us with personally identifiable information or have provided such information in the past. **__**
-
-**_Cookies and Related Technology_**
-
-The Site and some Services, and advertisements contained therein may contain "cookies," clear gifs (also known as web beacons or web bugs), or similar technology. A cookie is a piece of data that is sent to your Internet browser, which will store the cookie on your computer if your browser is enabled to accept cookies, that helps a server identify and provide information about a browser when it’s used to visit a Web site. We may also use cookies to better understand how our visitors use the Site and the Services and to continue to improve our services. Web beacons assist in the delivery of cookies and the collection of non-personally identifiable information, such as "click path" and other data as described above. 
-
-SU2C uses cookies, clear gifs, frames, server log analysis and other technologies as they are developed to customize your experience with the Site and Services.
-
-Most Internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions or "Help" screen to learn more about how to manage cookies. Please note, however, that if you block cookies, some portions of the Site and the Services may not function properly.
-
-SU2C does not control cookies in third party ads, and visitors are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. The ads appearing on the Site and the Services may be delivered to you by third-party advertising companies. SU2C's Privacy Policy does not cover the use of information collected from you by third party ad servers. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this Site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please review the privacy policies and terms of service for these companies. For more information on how to modify your browser settings to block or filter cookies, see http://www.cookiecentral.com/faq. **__**
-
-**_Special Notice Regarding Children Under 13_**
-
-SU2C recognizes the sensitivity of personally identifiable information concerning children under the age of 13 and therefore provides this Special notice. SU2C is committed to complying with all applicable laws and regulations regarding children, including the Children's Online Privacy Protection Act ("COPPA"). Except in limited circumstances allowed by COPPA, SU2C will not knowingly collect, maintain, or disclose any personally identifiable information from a child under 13 without first obtaining consent from that child's parent or legal guardian. 
-
-Minors who are 13 years or older are required to get a parent's permission before registering with Stand Up to Cancer. SU2C will only collect information that is reasonably necessary for your child to participate, and SU2C will not share your child's personally identifiable information with any third party (except for purposes of fulfillment by a third party that has agreed to protect the information in accordance with this Privacy Policy), unless you specifically consent, or as permitted by COPPA or other applicable law. You may also subsequently revoke your consent and request that your child's information be removed from SU2C's active list. Please refer to the form for instructions and further information. 
-
-If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, SU2C will make reasonable efforts to remove the information from its active list, at your request. To request the removal of your child's information, please send an e-mail to [su2cprivacy@standup2cancer.org](mailto:su2cprivacy@standup2cancer.org) and be sure to include in your message the same User Name and password and/or e-mail address that your child submitted. 
-
-SU2C encourages parents and guardians to spend time online with their children to become familiar with the types of content available on the Sites, the Services and the Internet generally. ** __**
-
-**_No Spam, Spyware or Spoofing_**
-
-We do not tolerate spam. You are not licensed or otherwise permitted to add other users on the Site and the Services to your mailing list (email or physical mail, or any other medium) without their explicit consent. To report spam or spoof emails to SU2C, please forward the email to su2cprivacy@standup2cancer.org. You may not use our communication tools to send spam or otherwise send content that would violate the TOS. ** __**
-
-**_Use, Disclosure, and Sharing of Information_** __
-
-_Non-Personally Identifiable Information_
-
-From time to time, SU2C may use and share with third parties aggregate, non-personally identifiable user information to show general demographic and preference information among users of the Site and the Services. __
-
-_Personally Identifiable Information_
-
-SU2C uses information about you to deliver the Services that you request, to keep you informed about changes affecting the Site and the Services or your account, to inform you of offers in which you might be interested, to improve and enhance the Site and the Services, to prevent potentially prohibited or illegal activities, and to enforce our TOS. If you provide SU2C with personally identifiable information, we will take all reasonable and appropriate steps to protect it from unauthorized disclosure. 
-
-If you opt in to receive e-mail from us, you can always opt out of future marketing messages by following the directions in each message to "unsubscribe." However, if you choose to opt out of marketing messages, we reserve the right to contact you regarding your account status, technical support, product information, changes to account terms, and any other matter that might affect our service to you and/or any products you purchased from us or registered with us, as applicable.
-
-As stated in the Terms of Service, you will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of the Site or the Services, of any information about you contained in the applicable SU2C database, if SU2C or one of its companies assigns its rights and obligations regarding any of your information at the time of a merger, acquisition, or sale of all or substantially all of SU2C's or such SU2C company's assets related to the Site or the Services to a subsequent owner or operator. In the event of such a merger, acquisition, or sale, your continued use of the Site or the Services signifies your agreement to be bound by the Terms of Service and Privacy Policy of the Site or the Service's subsequent owner or operator. 
-
-The SU2C companies may work together in order to provide portions of the Sites and some Services (e.g., to fulfill prizes won in a sweepstakes, or to provide other support for a Service). These companies will handle your personally identifiable information in accordance with this Privacy Policy.
-
-As stated above in **Personally Identifiable Information That We Collect** \- Special Promotions and Purchases, SU2C may also work with third parties in connection with the Site and the Services and you are deemed to consent to us sharing your information with such third parties who provide services to SU2C, such as processing of credit card transactions, customer service, promotion administration, order fulfillment and/or prize delivery, as applicable. Third parties who provide, or participate in, Services on SU2C sites are prohibited from using our customers' personally identifiable information for marketing purposes and/or from sharing, selling, or otherwise using such information, unless you choose to opt in to marketing, sharing, or other uses by the third parties. **If you do not want your information to be used for marketing (or other purposes unrelated to the provision of SU2C Services) by a third party who participates in a Service on one of our sites, do not opt in to such use by that third party when you register to participate in the Service.**
-
-Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
-
-SU2C will not share, sell, rent, or disclose any personally identifiable information that we have collected except as stated herein, or in the following instances: 1) we have been given your consent to disclose; 2) we have previously informed you of the disclosure, including by means of our Privacy Policy or on Site, or through the Service where you provided your information; 3) we are required by law, legal process, or court order to disclose; 4) disclosure is necessary to identify, contact, or bring legal action against someone who may cause or be causing harm to, or interference with, SU2C's rights or property, other SU2C Web site users, or anyone else; or 5) to respond to an inquiry, request or complaint that you have made. SU2C may also use IP addresses in cooperation with Internet service providers to identify users if we deem it necessary to comply with law, to enforce compliance with this Privacy Policy or our Terms of Service, or to protect our sites, customers, or others.
-
-**SU2C reserves the right to retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce the TOS, and take other actions otherwise permitted by law.**
-
-_User Disclosure of Information on the Site and the Services_
-
-The Site and the Services may enable you to share or otherwise disclosure personal information. This Privacy Policy addresses only the use and disclosure of information SU2C collects from you, except as otherwise expressly indicated. Different rules may apply to the use or disclosure of your personal information, if you disclose such information to others on the Site or the Service or on other sites throughout the internet. We do not have the ability, nor will we attempt to control the privacy policies of third parties. You are subject to the privacy policies of those third parties, where applicable.
-
-**_Our Commitment to Data Security_**
-
-While SU2C takes reasonable and appropriate precautions to protect your personally identifiable information from unauthorized disclosure and to prevent possible security breaches in our Web sites, Services, and customer databases, no Web site, Internet transmission, computer system, or wireless connection is completely secure. Consequently, SU2C cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. Your use of the SU2C sites and Services is at your own risk. SU2C urges you to take steps to keep your information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your User Account, and closing your Web browser. 
-
-Whenever you give SU2C sensitive or confidential information (for example, credit card numbers for Purchases), SU2C will take commercially reasonable steps to protect the information by establishing a secure connection with your Web browser. SU2C employs a security technology known as a secure-socket-layer ("SSL") to protect the transmission of payment information to the site. Unless otherwise specified herein or on the site where you make a Purchase, credit card numbers are used only for payment processing and are not retained for marketing purposes. ** __**
-
-**_Hyperlinks To and From Other Sites_**
-
-SU2C sites may frame, and/or contain links to, or advertisements about, non-SU2C Web sites. Other sites may also reference, advertise, or link to SU2C sites. SU2C does not endorse or sponsor other Web sites, is not responsible for the privacy practices or the content of non-SU2C sites, expressly disclaims any statements or assertions made on such Web sites, and denies all liability associated with your use of, and the content on, such other sites and advertisements. **__**
-
-**_Consent to Processing in the United States_**
-
-By providing any personally identifiable information to SU2C, all users, including, without limitation, users in the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection, storage, and processing of such information in the United States of America. **__**
-
-**_Contact Us Regarding Privacy_**
-
-SU2C is dedicated to protecting your personally identifiable information and welcomes comments and questions on this Privacy Policy. You may e-mail your questions or comments to: [su2cprivacy@standup2cancer.org](mailto:su2cprivacy@standup2cancer.org).
-
-**_Notification of Changes_**
-
-SU2C reserves the right to change this Privacy Policy and its Terms of Service at any time. In case of any material change to the Privacy Policy, we will replace the "Privacy Policy" link on the home page of our sites with a link entitled "Updated Privacy Policy" for no less than 30 days. All changes to the Privacy Policy and/or Terms of Service will be effective when posted, and your continued use of any SU2C site or Service after the posting will constitute acceptance of, and agreement to be bound by, those changes.
-
-**Effective Date: March 17, 2008**
+Disney Interactive is a licensee of the TRUSTe Privacy Program in the United States. If you believe that Disney Interactive has not responded to your inquiry or your inquiry has not been satisfactorily addressed, you may contact TRUSTe [here](http://home.disney.go.com/guestservices/disclaimers/redirect?destination=http://watchdog.truste.com/pvr.php?page=complaint) or the United States Federal Trade Commission through its online consumer complaint form available [here](http://home.disney.go.com/guestservices/disclaimers/redirect?destination=https://www.ftccomplaintassistant.gov/)  
+  
+| 
