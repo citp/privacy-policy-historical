@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadbury.co.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617145251id_/http%3A//www.cadbury.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadbury.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230194933id_/http%3A//www.cadbury.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cadbury.co.uk
 
@@ -14,7 +14,7 @@ Your access to and use of this Site and its contents (the “Site”) is subject
 
 ## 2\. Terms of use
 
-Your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20120617145251id_/http%3A//www.cadbury.co.uk/Terms) posted on this Site (“Terms of Use”).
+Your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20121230194933id_/http%3A//www.cadbury.co.uk/Terms) posted on this Site ("Terms of Use").
 
 ## 3\. Information We Collect
 
@@ -30,7 +30,7 @@ Our site contains notices of contests, competitions and games that you can enter
 When you ask us to send you updates, recipes or other content by e-mail, you may provide us with certain information like your e-mail address so we can fulfill your request. 
 
 **e) "Contact Us"**   
-If you contact us through the [Contact Us](https://web.archive.org/web/20120617145251id_/http%3A//www.cadbury.co.uk/contact) click on this site, we ask you for information such as your first name, e-mail address, and other information, so we can respond to your questions and comments. You may choose to provide additional information as well. 
+If you contact us through the [Contact Us](https://web.archive.org/web/20121230194933id_/http%3A//www.cadbury.co.uk/contact) click on this site, we ask you for information such as your first name, e-mail address, and other information, so we can respond to your questions and comments. You may choose to provide additional information as well. 
 
 **f) Shopping**  
 When you purchase products or services from Kraft, we request your billing information so we can fulfill your request. We use your billing information only to send you the items you ordered. 
@@ -47,7 +47,7 @@ We may ask our website visitors and purchasers to complete surveys and opinion p
 **j) Information collected by automated means**  
 We may use cookies, web beacons/pixel tags, log files, and other technologies to collect certain information about visitors to our Site, use of our online services, and interactions with our emails and online advertisements. For example, through these means, we may collect your browser type and operating system, viewed webpages, links that are clicked, IP address, sites visited before coming to our Site, emails we send that you open, forward, or click through to our Site. You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). Note that the opt-out will apply only to the browser that you are using when you elect to opt out of advertising cookies. Without cookies or pixel tags though, you may not be able to take full advantage of all of Kraft’s website features. 
 
-Please see section 8 [“Cookies”](https://web.archive.org/web/20120617145251id_/http%3A//www.cadbury.co.uk/cookies) for further information. 
+Please see section 8 [“Cookies”](https://web.archive.org/web/20121230194933id_/http%3A//www.cadbury.co.uk/cookies) for further information. 
 
 **k) Information collected from other sources**  
 We may obtain information about you from other sources, including commercially available sources, such as data aggregators and public databases. This information may include name, demographic information, interests, and publicly-observed data, such as from social media and shopping behavior. We may combine this information with the information we collect from you to help us tailor our communications to you and to improve our services and products. 
@@ -97,7 +97,7 @@ The security of personally-identifiable information is important to us. We maint
 
 ## 9\. Use of “Cookies” on our websites
 
-Kraft websites do not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by any of our websites, or indeed any other website, you can do this through your browser settings. The “Help” function within your browser should tell you how to disable this function. Please be aware that restricting cookies may impact on the functionality of the Kraft websites. For further information, please see our [Cookie Policy](https://web.archive.org/web/20120617145251id_/http%3A//www.cadbury.co.uk/cookies). 
+Kraft websites do not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by any of our websites, or indeed any other website, you can do this through your browser settings. The “Help” function within your browser should tell you how to disable this function. Please be aware that restricting cookies may impact on the functionality of the Kraft websites. For further information, please see our [Cookie Policy](https://web.archive.org/web/20121230194933id_/http%3A//www.cadbury.co.uk/cookies). 
 
 ##  10\. Updates to this Privacy Policy 
 
@@ -132,25 +132,4 @@ As used herein: “Damages” means any and all direct, special, indirect, conse
 
 ##  16\. Contact Us 
 
-If you have any questions about this Privacy Notice, you can contact us at: [Cadbury.co.uk](http://www.cadbury.co.uk/) Website Manager, Kraft UK, 2nd Floor, Bournville Place, Bournville Lane, Birmingham, B30 2LU. Alternatively you can call us on 0121 451 4444 (between 9am and 5pm GMT) and we will be happy to assist you with your query or contact us by email using our [contact us form](https://web.archive.org/web/20120617145251id_/http%3A//www.cadbury.co.uk/contact/form). 
-
-## CONTACT US
-
-  * Address
-  * Cadbury.co.uk Website Manager
-  * Cadbury 
-  * 2nd Floor, Bournville Place
-  * Bournville Lane 
-  *   * Birmingham
-  * B30 2LU 
-
-
-  * Telephone No
-  * 0121 451 4444 
-  * (between 09:00 and 17:00 GMT) 
-
-
-  * E-mail
-  * [consumer.relations1@cadbury.co.uk](mailto:consumer.relations1@cadbury.co.uk)
-
-
+If you have any questions about this Privacy Notice, you can contact us at: [Cadbury.co.uk](http://www.cadbury.co.uk/) Website Manager, Kraft UK, 2nd Floor, Bournville Place, Bournville Lane, Birmingham, B30 2LU. Alternatively you can call us on 0121 451 4444 (between 9am and 5pm GMT) and we will be happy to assist you with your query or contact us by email using our [contact us form](https://web.archive.org/web/20121230194933id_/http%3A//www.cadbury.co.uk/contact/form). 
