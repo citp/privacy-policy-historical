@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwcfs.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231101205id_/http%3A//www.uwcfs.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcfs.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230231040id_/http%3A//www.uwcfs.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | UWC Financial Services
 
@@ -69,13 +69,13 @@ All customer inquiries regarding disclosure or correction of information should 
 
 **Privacy Policy Inquiries:**
 
-Tel: +44 (0) 208 899 6970  
-Fax: +44 (0) 208 889 6001  
-E-mail: complaint@uwcfs.com
+Tel: +44 (0) 208 956 2251  
+Fax: +44 (0) 203 397 4818  
+
 
 UWC Financial Services Ltd  
-Building 3, Office 122c, Chiswick Park, 566 Chiswick High Road   
-London W4 5YA, UK
+869 High Road,  
+London, N12 8QA, UK
 
 **Business hours:** 9.00 a.m. - 6:00 p.m.
 
@@ -99,6 +99,6 @@ UWCFS may be required by statute to make a disclosure to the Serious Organized C
 
 By consenting to the terms and conditions described above, you agree to your data being shared outside the EU/EEA, where necessary. 
 
-Authorized and regulated by FSA as Small Payment Institution under No 511088  
+Authorized and regulated by FSA as Authorised Payment Institution under registration number 566505  
 HM Revenue & Customs MLR No 12492642  
 Data Protection Number Z2309500 
