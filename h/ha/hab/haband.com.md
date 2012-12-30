@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the haband.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606171957id_/http%3A//www.haband.com/index.cfm/fuseaction/content.page/nodeID/3fcbd794-1455-45a0-8dab-0292b0a39337) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haband.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230053544id_/http%3A//www.haband.com/index.cfm/fuseaction/content.page/nodeID/3fcbd794-1455-45a0-8dab-0292b0a39337) for the most accurate reproduction.*
 
-# Haband About Haband Privacy Policy
+# About Haband Privacy Policy : Haband
 
 _This privacy policy was last updated on 11/2/2009._
 
@@ -116,7 +116,7 @@ We may occasionally use your phone number to contact you with updates, sales not
 
 We have also contracted with some third parties to monitor certain pages of our web site for the purpose of reporting web site traffic, as well as to serve offers and advertisements that may be of interest to you. Where authorized by us, these third parties may use cookies and/or other monitoring technologies to compile information about our web site visitors. No personally identifiable information is shared directly with the marketing partner. We utilize a third-party service to ensure the data we share with the marketing partner contains no personally identifiable information. For more information about how the information is collected and used, or to opt-out from receiving advertisements, please see their privacy policies at:
 
-<http://www.dotomi.com/content/view/26/58/>.  
+<http://www.dotomi.com/privacy.html>  
 or  
 <http://www.imiclk.com/privacy.html>.
 
