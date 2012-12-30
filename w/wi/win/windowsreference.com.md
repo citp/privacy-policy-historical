@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsreference.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630224939id_/http%3A//www.windowsreference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsreference.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182113id_/http%3A//www.windowsreference.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Windows Reference | Windows Reference
 
@@ -26,7 +26,8 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 #### Incoming search terms:
 
-  * [how can disabling cookies affect security in windows server 2008](http://www.windowsreference.com/privacy-policy/ "how can disabling cookies affect security in windows server 2008") (1)
-  * [window disable the hoc key from policy](http://www.windowsreference.com/privacy-policy/ "window disable the hoc key from policy") (1)
+  * [disable cookies windows 2003 server policy](http://www.windowsreference.com/privacy-policy/ "disable cookies windows 2003 server policy") (1)
+  * [privacy policy windows xp](http://www.windowsreference.com/privacy-policy/ "privacy policy windows xp") (1)
+  * [windows 2003 server policies cookies](http://www.windowsreference.com/privacy-policy/ "windows 2003 server policies cookies") (1)
 
 
