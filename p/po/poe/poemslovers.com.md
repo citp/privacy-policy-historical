@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the poemslovers.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502082505id_/http%3A//www.poemslovers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemslovers.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182457id_/http%3A//www.poemslovers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for PoemsLovers.com
 
 The PoemsLovers.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [PoemsLovers.com](http://www.poemslovers.com/)
 
 **Advertisers**  
-We use outside ad companies: [Google Adsense](http://www.google.com/privacy.html), [ValueClickMedia.com](http://www.valueclickmedia.com/privacy.shtml), [BurstMedia.com](http://www.burstmedia.com/privacy.asp) to display ads on our site. These ads may contain cookies. Click the links above to know their Privacy Policy. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Our Newsletter & opt-in and opt-out policies**  
 If a visitor wishes to subscribe to our newsletter (containing the popular poems, stories and quotes), we ask for their e-mail address. In order to be subscribed to our Newsletter you must enter your information on a from on PoemsLovers.com and verify your subscription through an e-mail verification procedure. We have never purchased or sold e-mail addresses. Users who no longer wish to receive our newsletters may opt-out of receiving these communications by clicking the link at the BOTTOM of the e-mail you receive. You will be automatically removed. 
