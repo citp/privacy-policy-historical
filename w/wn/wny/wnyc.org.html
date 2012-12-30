@@ -1,138 +1,66 @@
-<!--The following is the downloaded HTML source of the wnyc.org privacy policy that was archived on 2012-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120516111851id_/http%3A//www.wnyc.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wnyc.org privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230053410id_/http%3A//www.wnyc.org/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
-
-  <script type="text/javascript" src="http://media.wnyc.org/media/js/consoleFix.js"></script>
-
-
-<script type="text/javascript">
-function createListening() {
-  var triggered = {};
-  var canRun = function(triggers) {
-    for (var i = 0; triggers.length > i; i++) {
-      if (!triggered[triggers[i]]) {
-        return false;
-      }
-    }
-    return true;
-  };
-  var listeners = [];
-  return {
-    triggered: triggered,
-    canRun: canRun,
-    listeners: listeners,
-    listen: function(triggers, callback) {
-      if (canRun(triggers)) {
-        callback();
-      } else {
-        listeners.push({
-          needsRunning: true,
-          triggers: triggers,
-          callback: callback
-        });
-      }
-    },
-    trigger: function(eventName) {
-      triggered[eventName] = true;
-      for (var i = 0; listeners.length > i; i++) {
-        var listener = listeners[i];
-        if (listener.needsRunning) {
-          /* no amp's in HTML JS */
-          if (canRun(listener.triggers)) {
-            listener.needsRunning = false;
-            listener.callback();
-          }
-        }
-      }
-    }
-  };
-}
-
-window.wnyc = {
-  noop: function() {},
-  debug: false,
-  serverTimezoneOffset: -14400000,
-  google: {},
-  listening: createListening(),
-  loadtime: (new Date()).getTime(),
-  api_url: 'http://api.wnyc.org',
-  STATIC_URL: 'http://media.wnyc.org/media/',
-  MEDIA_URL: 'http://media.wnyc.org/media/',
-  sitekey: 'WNYC',
-  playerTrack: function(category, action, label, metric) {
-    // Wait until the google tracker is ready, then re-track.
-    wnyc.listening.listen(["playerTrack"], function() {
-      wnyc.playerTrack(category, action, label, metric);
-    });
-  }
-};
-</script>
-
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-XRDS-Location" content="http://www.wnyc.org/openid/return_to.xrds">
+  
   
   <meta property="og:title" content="Privacy Policy">
       <meta property="og:type" content="article">
   <meta property="og:url" content="/privacy/?utm_source=sharedUrl&amp;utm_media=metatag&amp;utm_campaign=sharedUrl">
   <meta property="og:site_name" content="WNYC">
   <meta property="fb:app_id" content="151261804904925">
-  <meta property="og:description" content="Online Privacy Policy New York Public Radio (&amp;ldquo;NYPR&amp;rdquo;) values your participation in our public radio community, both online and offline, and assures you that your privacy is a priority to us. NYPR&amp;rsquo;s web sites adhere to a strict policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, telephone number and/or other identifiable information) and preserving the integrity of this online medium. Visiting New York Public Radio&amp;rsquo;s Site When you visit our sites, our web server automatically recognizes only your domain name, where you are coming to us from and what browser you ...">
-  <meta name="description" content="Online Privacy Policy New York Public Radio (&amp;ldquo;NYPR&amp;rdquo;) values your participation in our public radio community, both online and offline, ...">
+  <meta property="og:description" content="Privacy Policy New York Public Radio (&amp;ldquo;NYPR&amp;rdquo;) values your participation in our public radio community, both online and offline, and assures you that your privacy is a priority to us. NYPR adheres to the below policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, telephone number and/or other identifiable information). New York Public Radio&amp;rsquo;s Sites and Apps When you visit our sites or use our apps, we may automatically recognize information like your domain name, where you are coming to us from and what browser you are using. We use this information ...">
+  <meta name="description" content="Privacy Policy New York Public Radio (&amp;ldquo;NYPR&amp;rdquo;) values your participation in our public radio community, both online and offline, and ...">
   <!-- Google custom search stuff -->
 
 
-
-<meta name="keywords" content="npr, new york, WNYC, arts, culture, news, public, radio">
-
-<meta http-equiv="X-XRDS-Location" content="http://www.wnyc.org/openid/return_to.xrds">
+  
+  <meta name="keywords" content="npr, new york, WNYC, arts, culture, news, public, radio">
 
 
-
-
-
-<title>
+  <title>
 Privacy Policy
  - WNYC</title>
-
-
-
-
-<link rel="alternate" type="application/rss+xml" title="All WNYC Stories (RSS)" href="/feeds/all/">
-<link rel="alternate" type="application/atom+xml" title="All WNYC Stories (Atom)" href="/atomfeeds/all/">
-
-
-
-  <link rel="shortcut icon" href="http://media.wnyc.org/media/img/favicon_wnyc.ico">
-
-
+  
+  <link rel="shortcut icon" href="http://media.wnyc.org/static/img/favicon_wnyc.ico">
 
 
   
+  <link rel="alternate" type="application/rss+xml" title="All WNYC Stories (RSS)" href="/feeds/all/">
+  <link rel="alternate" type="application/atom+xml" title="All WNYC Stories (Atom)" href="/atomfeeds/all/">
+
   
-<link rel="stylesheet" href="http://media.wnyc.org/media/CACHE/css/d956477e9cbb.css" type="text/css" media="all">
+  
+  
+
+  
+  
+  
+  
+<link rel="stylesheet" href="http://media.wnyc.org/static/CACHE/css/79674638f47b.css" type="text/css" media="all">
 
 
-
-  <script type="text/javascript" src="http://use.typekit.com/ubk2kbd.js"></script>
+  
+  <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://use.typekit.com/ubk2kbd.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
+  
+  <script src="http://www.google.com/jsapi"></script>
 
-  <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAwFGsdzap4yWogqMTO5rypBRZr05N7oNL9ryiJByGkJu_erBKFhQvBdR-T7HShaos9rpRyJaGfqsxGg"></script>
-
-
+<script src="http://maps.googleapis.com/maps/api/js?sensor=false&amp;key=AIzaSyCDbxxvbl0Zj6af28IfWjJ-S0SKxwDXnkc&#10;"></script>
 
 
   
   
-<script type="text/javascript" src="http://media.wnyc.org/media/CACHE/js/77f875cf1040.js"></script>
+  
+  
+<script type="text/javascript" src="http://media.wnyc.org/static/CACHE/js/df733f1117cc.js"></script>
 
 
-
-
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
-
+  <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+  
 <script>
 if (window.GS_googleAddAdSenseService) {
   GS_googleAddAdSenseService('ca-pub-1030295571732009');
@@ -143,72 +71,72 @@ if (window.GS_googleEnableAllServices) {
 </script>
 
 
-
-
-<script>
-
+  
+  
+  <script>
+  
 if (window.GA_googleAddSlot) {
   GA_googleAddSlot('ca-pub-1030295571732009', 'wnyc_popdown');
 }
 
-
+  
 if (window.GA_googleAddSlot) {
   GA_googleAddSlot('ca-pub-1030295571732009', 'home_skyscraper');
 }
 
-
+  
 if (window.GA_googleAddSlot) {
   GA_googleAddSlot('ca-pub-1030295571732009', 'home_pledge');
 }
 
-
+  
 if (window.GA_googleAddSlot) {
   GA_googleAddSlot('ca-pub-1030295571732009', 'home_littlebox');
 }
 
-
+  
 if (window.GA_googleAddSlot) {
   GA_googleAddSlot('ca-pub-1030295571732009', 'home_searchbadge');
 }
 
-
+  
 if (window.GA_googleAddSlot) {
   GA_googleAddSlot('ca-pub-1030295571732009', 'wnyc_pledge');
 }
 
-
+  
 if (window.GA_googleAddSlot) {
   GA_googleAddSlot('ca-pub-1030295571732009', 'home_leaderboard');
 }
 
-
+  
 if (window.GA_googleAddSlot) {
   GA_googleAddSlot('ca-pub-1030295571732009', 'home_bigbox');
 }
 
-
+  
 if (window.GA_googleAddSlot) {
   GA_googleAddSlot('ca-pub-1030295571732009', 'wnyc_home_pledge');
 }
 
-
+  
 if (window.GA_googleFetchAds) {
   GA_googleFetchAds();
 }
 
-</script>
-
+  </script>
   
-  <script src="http://yui.yahooapis.com/2.8.1/build/yuiloader/yuiloader-min.js"></script>
-<style>
+  
+  <script type="text/javascript" src="http://yui.yahooapis.com/2.8.1/build/yuiloader/yuiloader-min.js">
+</script><style>
   .chart_div { width: 600px; height: 300px; }
 </style>
-  <script type="text/javascript" src="http://media.wnyc.org/media/js/survey.js"></script>
-  <script type="text/javascript" src="http://media.wnyc.org/media/js/google_maps.js"></script>
-  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/media/css/google_maps.css">
-
-
-
+  <style>
+  .chart_div { width: 600px; height: 300px; }
+</style>
+  <script type="text/javascript" src="http://media.wnyc.org/static/js/survey.js"></script>
+  <script type="text/javascript" src="http://media.wnyc.org/static/js/google_maps.js"></script>
+  <link rel="stylesheet" type="text/css" media="all" href="http://media.wnyc.org/static/css/google_maps.css">
 
 
 </head>
@@ -219,10 +147,10 @@ if (window.GA_googleFetchAds) {
 
   
   
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-  var WRInitTime=(new Date()).getTime();
-</script>
+  <!-- ClickTale Top part -->
+  <script type="text/javascript">
+    var WRInitTime = window.wnyc ? wnyc.loadtime : +new Date();
+  </script>
 
   <div id="site" class="container_12">
     <div class="utility_nav">
@@ -234,15 +162,14 @@ if (window.GA_googleFetchAds) {
         <li class="schedule"><a href="/schedule/">Schedule</a></li>
       </ul>
       
-<div id="util_login_wrapper">
-  
+  <div id="util_login_wrapper">
+    
   <script type="text/javascript">
-    window.wnyc = window.wnyc || {};
-    window.wnyc.user = window.wnyc.user || {};
-    window.wnyc.user.isAuthenticated = false;
-    window.wnyc.user.username = '';
-    window.wnyc.STATIC_URL = 'http://media.wnyc.org/media/';
-    window.wnyc.MEDIA_URL = 'http://media.wnyc.org/media/';
+    if (window.wnyc) {
+      if (window.wnyc.user) {
+        wnyc.user.retrieveUserData();
+      }
+    }
   </script>
     <ul id="util_login">
     
@@ -250,30 +177,19 @@ if (window.GA_googleFetchAds) {
     <li class="user-signup"><a href="/accounts/register/">Sign Up</a></li>
     </ul>
 
-</div>
+  </div>
 
       <div id="search-topnav">
-        <form method="get" action="/search/" name="searchform">
-          <input type="hidden" value="site" name="searchtype" id="searchtype">
-          <fieldset>
-          <input class="text clearonfocus resetonblur" value="Search" maxlength="222" name="q">
-          <ul id="search_select">
-            <li class="label" id="search_label"><a href="#">Site</a></li>
-            <li class="option site" id="search_site_option"><a href="#">Site</a></li>
-          </ul>
-          </fieldset>
-          <input type="submit" name="submit" value="Go" class="submit">
-        </form>
+        
+  <form method="get" action="/search/" name="searchform" id="searchform">
+    <input class="text clearonfocus" value="Search" maxlength="222" name="q">
+    <input type="submit" value="" class="submit">
+  </form>
+
       </div>
       <div class="search_support adbox">
         <div class="support_banner">
-          
-<script>
-if (window.GA_googleFillSlot) {
-  GA_googleFillSlot('home_searchbadge');
-}
-</script>
-
+          <div id="home_searchbadge_ad"></div>
         </div>
       </div>
     </div>
@@ -286,32 +202,25 @@ if (window.GA_googleFillSlot) {
 </script>
 
     </div>
-    
     <!-- masthead -->
     <div id="masthead" class="clearfix">
       <p class="admessage" style="visibility: visible;">Sponsor</p>
       <div class="masthead-ad">
-        
-<script>
-if (window.GA_googleFillSlot) {
-  GA_googleFillSlot('home_pledge');
-}
-</script>
-
+        <div id="home_pledge_ad"></div>
       </div>
       <h1 class="logo">
         <a href="http://www.wnyc.org/">wnyc.org / 93.9fm / am 820</a>
       </h1>
       <a class="print-logo">
-        <img src="http://media.wnyc.org/media/img/wnyc/logo_wnyc.gif" alt="WNYC" title="WNYC">
+        <img src="http://media.wnyc.org/static/img/wnyc/logo_wnyc.gif" alt="WNYC" title="WNYC">
       </a>
       <ul id="info_header">
-<li class="date">May 16, 2012</li>
-<li class="weather">
-<a href="http://hosted.ap.org/dynamic/external/wunderground.com/cgi-bin/findweather/getForecast?query=New+York+City&amp;brand=ap&amp;SITE=WNYC&amp;SECTION=HOME">
-light rain; mist | <span>62.1°F</span></a>
-</li>
-</ul>
+      <li class="date">December 30, 2012</li>
+      <li class="weather">
+        <a href="http://hosted.ap.org/dynamic/external/wunderground.com/cgi-bin/findweather/getForecast?query=New+York+City&amp;brand=ap&amp;SITE=WNYC&amp;SECTION=HOME">
+        Overcast | <span>32.0°F</span></a>
+      </li>
+    </ul>
       <div class="header">
         <ul id="nav-main">
           <li class="first" id="news"><a class="top" href="/news/">News</a></li>
@@ -319,31 +228,34 @@ light rain; mist | <span>62.1°F</span></a>
           <li id="music"><a class="top" href="/tags/music/">Music</a></li>
           <li id="shows"><a class="top" href="/shows/">Shows</a>
             
-
-<h4><span>WNYC Shows List</span></h4>
-<ul class="linkroll None">
-  <li><a href="http://www.wnyc.org/shows/">Shows A-Z</a></li>
-  <li><a href="http://www.wnyc.org/shows/atc/">All Things Considered</a></li>
-  <li><a href="http://www.wnyc.org/shows/bl/">The Brian Lehrer Show</a></li>
-  <li><a href="http://www.wnyc.org/shows/fishko/">Fishko Files</a></li>
-  <li><a href="http://www.freakonomics.com/radio/">Freakonomics Radio</a></li>
-  <li><a href="http://www.wnyc.org/shows/freshair/">Fresh Air</a></li>
-  <li><a href="http://www.wnyc.org/shows/heresthething/">Here's The Thing</a></li>
-  <li><a href="http://www.wnyc.org/shows/history-world-100-objects/">A History of the World in 100 Objects</a></li>
-  <li><a href="http://www.wnyc.org/shows/lopate/">The Leonard Lopate Show</a></li>
-  <li><a href="http://www.wnyc.org/shows/me/">Morning Edition</a></li>
-  <li><a href="http://www.wnyc.org/shows/newsounds/">New Sounds</a></li>
-  <li><a href="http://www.onthemedia.org/">On The Media</a></li>
-  <li><a href="http://www.radiolab.org/">Radiolab</a></li>
-  <li><a href="http://www.radiorookies.org/">Radio Rookies</a></li>
-  <li><a href="http://www.wnyc.org/shows/shorts/">Selected Shorts</a></li>
-  <li><a href="http://www.wnyc.org/shows/soundcheck/">Soundcheck</a></li>
-  <li><a href="http://www.wnyc.org/series/specials/">Specials</a></li>
-  <li><a href="http://www.wnyc.org/shows/spinning/">Spinning On Air</a></li>
-  <li><a href="http://www.studio360.org/">Studio 360</a></li>
-  <li><a href="http://www.thetakeaway.org/">The Takeaway</a></li>
-  <li><a href="http://www.wnyc.org/shows/american-life/">This American Life</a></li>
-</ul>
+  
+      <h4><span>WNYC Shows List</span></h4>
+    <ul class="linkroll ">
+        <li><a href="http://www.wnyc.org/shows/">Shows A-Z</a></li>
+        <li><a href="http://www.wnyc.org/shows/atc/">All Things Considered</a></li>
+        <li><a href="http://www.wnyc.org/shows/bl/">The Brian Lehrer Show</a></li>
+        <li><a href="http://www.wnyc.org/shows/fishko/">Fishko Files</a></li>
+        <li><a href="http://www.freakonomics.com/radio/">Freakonomics Radio</a></li>
+        <li><a href="http://www.wnyc.org/shows/freshair/">Fresh Air</a></li>
+        <li><a href="http://www.wnyc.org/shows/gabfest/">Gabfest Radio</a></li>
+        <li><a href="http://www.wnyc.org/shows/heresthething/">Here's The Thing</a></li>
+        <li><a href="http://www.wnyc.org/shows/jonathan-schwartz">Jonathan Schwartz</a></li>
+        <li><a href="http://www.wnyc.org/shows/lopate/">The Leonard Lopate Show</a></li>
+        <li><a href="http://www.wnyc.org/shows/moneytalking/">Money Talking</a></li>
+        <li><a href="http://www.wnyc.org/shows/me/">Morning Edition</a></li>
+        <li><a href="http://www.wnyc.org/shows/newsounds/">New Sounds</a></li>
+        <li><a href="http://www.wnyc.org/shows/newtechcity/">New Tech City</a></li>
+        <li><a href="http://www.onthemedia.org/">On The Media</a></li>
+        <li><a href="http://www.radiolab.org/">Radiolab</a></li>
+        <li><a href="http://www.radiorookies.org/">Radio Rookies</a></li>
+        <li><a href="http://www.wnyc.org/shows/shorts/">Selected Shorts</a></li>
+        <li><a href="http://soundcheck.wnyc.org">Soundcheck</a></li>
+        <li><a href="http://www.wnyc.org/series/specials/">Specials</a></li>
+        <li><a href="http://www.wnyc.org/shows/spinning/">Spinning On Air</a></li>
+        <li><a href="http://www.studio360.org/">Studio 360</a></li>
+        <li><a href="http://www.thetakeaway.org/">The Takeaway</a></li>
+        <li><a href="http://www.wnyc.org/shows/american-life/">This American Life</a></li>
+    </ul>
 
           </li>
           <li class="last" id="greenespace"><a class="top" href="/thegreenespace/">The Greene Space</a></li>
@@ -371,7 +283,6 @@ light rain; mist | <span>62.1°F</span></a>
   <div class="article-tools clearfix">
     <ul class="sharelinks">
     
-  <li class="bookmark"><a class="bookmark_item" href="#">Recommend</a></li>
   <li class="share"><a class="addthis_share" href="http://www.addthis.com/bookmark.php">Share</a></li>
   
   <li class="twitter_share">
@@ -390,6 +301,7 @@ light rain; mist | <span>62.1°F</span></a>
 
   <li class="print"><a href="#" title="Print">Print</a></li>
   <li class="email"><a id="emailthislink" href="#" title="Email">Email</a></li>
+  <li class="stfh edit-item"><a data-url="flatpages/flatpage/289" class="stf "></a></li>
 
     </ul>
     <script type="text/javascript">
@@ -403,34 +315,32 @@ light rain; mist | <span>62.1°F</span></a>
 </div>
 
 <div class="article-description">
-  <h3>Online Privacy Policy</h3>
-<p>New York Public Radio (“NYPR”) values your participation in our public radio community, both online and offline, and assures you that your privacy is a priority to us. NYPR’s web sites adhere to a strict policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, telephone number and/or other identifiable information) and preserving the integrity of this online medium.</p>
-<h3>Visiting New York Public Radio’s Site</h3>
-<p>When you visit our sites, our web server automatically recognizes only your domain name, where you are coming to us from and what browser you are using. We use this information to analyze how traffic flows at our sites, but no one can contact or identify you from this information.</p>
+  <h3>Privacy Policy</h3>
+<p>New York Public Radio (“NYPR”) values your participation in our public radio community, both online and offline, and assures you that your privacy is a priority to us. NYPR adheres to the below policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, telephone number and/or other identifiable information).</p>
+<h3>New York Public Radio’s Sites and Apps</h3>
+<p>When you visit our sites or use our apps, we may automatically recognize information like your domain name, where you are coming to us from and what browser you are using. We use this information to analyze how traffic flows at our sites, but no one can contact or identify you from this information.</p>
 <h3>Cookies</h3>
-<p>NYPR places an industry-standard "cookie" file on your computer to more accurately count the number of visitors and track activity on our websites. This cookie is totally anonymous and does not store any personal information about individual users. Cookies can also be used to store certain visitor preferences, like your favorite media player or a bulletin board password. In such cases, users have a choice of storing such information in a cookie or typing it each time they visit the site.</p>
+<p>NYPR places an industry-standard "cookie" file on your computer to more accurately count the number of visitors and track activity on our websites. This cookie is totally anonymous and does not store any personal information about individual users. Cookies can also be used to store certain visitor preferences, like your favorite media player or a bulletin board password.</p>
 <h3>E-mail Communications</h3>
-<p>NYPR regularly sends email Newsletters and membership correspondence to our registered members and visitors with information about NYPR programs, services or membership opportunities. If you do not wish to receive any email from NYPR, please indicate your preference on the pledge form when making a pledge, visit the e-mail newsletter sign up page to "opt-out", or contact Listener Services: <a href="mailto:listenerservices@wnyc.org">listenerservices@wnyc.org</a>&nbsp;or (646) 829-4000. We will do our best to make your change in a timely manner.</p>
-<p>NYPR never sells, exchanges or lends to third parties any email or telephone information you provide when making a Membership Pledge or subscribing to our E-mail communications.</p>
-<h3>When You Make an Online Membership Pledge</h3>
+<p>NYPR regularly sends email Newsletters and membership correspondence to visitors and users who share their email addresses with us and opt to receive this correspondence, with information about NYPR programs, services or membership opportunities. If you do not wish to receive any email from NYPR, please indicate your preference on the pledge form when making a pledge, visit the e-mail newsletter sign up page to "opt-out", or contact Listener Services by&nbsp;<a href="http://www.wnyc.org/contact">using our feedback form</a>&nbsp;or calling (646) 829-4000. We will do our best to make your change in a timely manner. You should also contact Listener Services if you would like to review or correct your information.</p>
+<p>NYPR never sells, exchanges or lends to third parties any email or telephone information you provide when making a Membership Pledge or subscribing to our email communications.</p>
+<h3>When You Make a Membership Pledge</h3>
 <p>NYPR will ask you to provide the information necessary to process and service your membership pledge: name, billing and shipping address, telephone number, email address, and credit card number. This information is encrypted for your security and is only seen by our membership staff who processes your gift and our contracted fulfillment agencies.</p>
 <h3>List sharing policy</h3>
-<p>NYPR may occasionally share names and postal addresses collected through membership pledges with carefully selected organizations. If you do not want your address exchanged, please contact Listener Services: <a href="mailto:listenerservices@wnyc.org">listenerservices@wnyc.org</a>&nbsp;or call (646) 829-4000 to classify your membership record as "No Exchange". It is NYPR policy not to sell or exchange e-mail addresses with any organization.</p>
-<h3>Comments/Bulletin Board Participation</h3>
-<p>NYPR reserves the right to collect the e-mail addresses of those who post comments, messages to our bulletin board, information volunteered by the user, such as survey information and/or site registrations. The information we collect is to ensure compliance with bulletin board rules and occasionally to alert members and visitors to opt-in to our e-mail newsletter but is never shared with other organizations.</p>
+<p>NYPR may occasionally share names and postal addresses collected through membership pledges with carefully selected organizations. If you do not want your address exchanged, please contact Listener Services by&nbsp;<a href="http://www.wnyc.org/contact">using this form</a>&nbsp;or calling (646) 829-4000 to classify your membership record as "No Exchange". It is NYPR policy not to sell or exchange e-mail addresses with any organization.</p>
+<h3>Comments Participation</h3>
+<p>NYPR reserves the right to collect the e-mail addresses of those who post comments, messages, or other information through our sites and apps, such as survey information and/or site registrations. We may use the information we collect to ensure compliance with our terms of service and occasionally to send alerts to members and visitors, e.g. to opt-in to our e-mail newsletter. Email addresses are never sold or exchanged with other organizations.</p>
 <h3>Security</h3>
 <p>When you contribute to NYPR online, the information you provide is encrypted using a Secure Socket Layer Certificate (SSL) and transferred using secure protocol to NYPR where it is stored in a secure database. The SSL Certificate will provide 128-bit-encryption as long as users are running 128-bit enabled browsers. NYPR has aggressive security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
-<h3>Children: Under 13</h3>
-<p>You must be at least 13 years old in order to register for our Discussion Forums. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
-<h3>Age 13-18</h3>
-<p>Visitors between the ages of 13 and 18 must obtain permission from a parent or guardian before registering for the Discussions or otherwise sending any personally-identifying information.</p>
-<p>Unless otherwise specified, you must be a least 18 years old in order to participate in any online contests.</p>
+<h3>Children</h3>
+<p>You must be at least 13 years old in order to comment or submit information through our sites or apps. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
+<p>Unless otherwise specified, you must be a least 18 years old in order to participate in any contests.</p>
 <p><strong>Links to other Sites and Services</strong></p>
-<p>Please be advised that the NYPR’s site and services contain links to other sites, applications and services maintained by third parties that may not follow the same privacy policies as NYPR.&nbsp; For instance, clicking or tapping on an underwriting notice or some third party logos will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data, and use the data in ways that NYPR would not. NYPR is not responsible for the privacy practices or any information or materials on these other sites. Please visit these sites if you wish to review their privacy policies.</p>
-<p>In some cases, the NYPR’s site and services may include certain embedded tools provided and controlled by third parties and governed by the terms and policies of the third parties. You should only use these third party tools if you agree to their respective terms and policies.</p>
+<p>Please be advised that the NYPR sites and apps may contain links to other sites, applications and services maintained by third parties that do not follow the same privacy policies as NYPR.&nbsp; For instance, clicking or tapping on an underwriter's information or a third party logo may take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data, and use the data in ways that NYPR would not. NYPR is not responsible for the privacy practices or any information or materials on these other sites. Please visit these sites if you wish to review their privacy policies.</p>
+<p>In some cases, the NYPR sites and apps may include certain embedded tools provided and controlled by third parties and governed by the terms and policies of the third parties. You should only use these third party tools if you agree to their respective terms and policies.</p>
 <p>NYPR sites and services include a tool that allows you to sign in using information from your account with a third party service, such as Facebook, Twitter, Google, Yahoo, OpenID,&nbsp; LinkedIn or other third party applications. Please be aware that those third party services are unrelated to NYPR, and that your use of the third party services is subject to the terms and policies of those services.</p>
 <h3>Changes to Privacy Policy</h3>
-<p>NYPR will never use customer information for new, unanticipated uses not previously disclosed in our privacy notice without notifying users. If our information practices change at some time in the future we will post the policy changes to our sites, attempt to notify you of these changes and provide you with the ability to opt out of these new uses. If you have additional questions about how your personal information may be used or if you have questions or comments about our privacy policy, please contact us via e-mail at <a href="mailto:listenerservices@wnyc.org">listenerservices@wnyc.org</a>, by telephone at (646) 829-4000 or by mail at:</p>
+<p>NYPR will never use customer information for new, unanticipated uses not previously disclosed in our privacy notice without notifying users. If our information practices change at some time in the future we will post the policy changes to our sites, attempt to notify you of these changes and provide you with the ability to opt out of these new uses. If you have additional questions about how your personal information may be used or if you have questions or comments about our privacy policy, please contact us by using <a href="http://www.wnyc.org/contact/">our contact form</a>,&nbsp;by telephone at (646) 829-4000 or by mail at:</p>
 <p><strong>Listener Services</strong><br> New York Public Radio<br> 160 Varick Street<br> New York, NY 10013</p>
 </div>
 
@@ -451,7 +361,7 @@ light rain; mist | <span>62.1°F</span></a>
 
 
 
-
+ 
 
 
 
@@ -565,15 +475,24 @@ light rain; mist | <span>62.1°F</span></a>
   
   <script type="text/javascript">
 // <![CDATA[
-    var stations = 
-  
-  {"wnyc-fm939": {"name": "WNYC-FM", "schedule": [{"show_url": "http://www.wnyc.org/shows/lopate/", "end": "2012-05-16T01:00:00", "description": "<p><strong>Will Allen</strong>, a former professional basketball player and KFC executive, discusses his efforts to promote urban farming. Today\u2019s installment of the BBC\u2019s <strong>A History of the World in 100 Objects</strong> is about the chronometer from the HMS Beagle, the ship that took Darwin around the world! Plus, former Secretary of State <strong>Madeleine Albright</strong> tells her very personal story about experiencing the Nazi invasion of Czechoslovakia.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/albright_2_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/lopate/2012/may/15/", "title": "The Leonard Lopate Show - Keep Growing", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/albright_2_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/LeonardLopate_onethirty_square.jpg", "start": "2012-05-16T00:00:00", "show_title": "The Leonard Lopate Show", "group_slug": "lopate", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/albright_2_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/history-world-100-objects/", "end": "2012-05-16T01:15:00", "description": "<p>Neil MacGregor uses five objects to highlight the shifts in the balance of economic, political and imperial power in the C19th - and the enormous consequences across the rest of the world.<br><br>Read more about the <a href=\"http://www.bbc.co.uk/ahistoryoftheworld/objects/u6Qnc25jQ5OIO-X92mZz6Q\" target=\"_blank\"><strong>Ship's Chronometer from HMS Beagle</strong></a>.</p>", "title": "A History of the World in 100 Objects - Ship's Chronometer from HMS Beagle", "url": "http://www.wnyc.org/shows/history-world-100-objects/2012/may/15/", "listImage": null, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/AHOW_brand-600x338_onethirty_square.jpg", "start": "2012-05-16T01:00:00", "show_title": "A History of the World in 100 Objects", "group_slug": "history-world-100-objects", "detailImage": null}, {"show_url": "http://www.wnyc.org/shows/lopate/", "end": "2012-05-16T02:00:00", "description": "<p><strong>Will Allen</strong>, a former professional basketball player and KFC executive, discusses his efforts to promote urban farming. Today\u2019s installment of the BBC\u2019s <strong>A History of the World in 100 Objects</strong> is about the chronometer from the HMS Beagle, the ship that took Darwin around the world! Plus, former Secretary of State <strong>Madeleine Albright</strong> tells her very personal story about experiencing the Nazi invasion of Czechoslovakia.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/albright_2_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/lopate/2012/may/15/", "title": "The Leonard Lopate Show - Keep Growing", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/albright_2_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/LeonardLopate_onethirty_square.jpg", "start": "2012-05-16T01:15:00", "show_title": "The Leonard Lopate Show", "group_slug": "lopate", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/albright_2_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/bbc-world-service/", "end": "2012-05-16T05:00:00", "description": "<p>BBC World Service provides international news, analysis and information.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_threehundred_square.JPG", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/bbc-world-service/", "title": "BBC World Service", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_popup_player.JPG", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_onethirty_square.JPG", "start": "2012-05-16T02:00:00", "group_slug": "bbc-world-service", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_popup_player.JPG", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/me/", "end": "2012-05-16T09:00:00", "description": "<p>Morning Edition is your perfect morning companion: gentle, but straightforward, explaining the vagaries of international diplomacy, reporting weather and even recommending the best film in town.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/morning_edition_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/me/", "title": "Morning Edition", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/morning_edition_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/morning_edition_onethirty_square.jpg", "start": "2012-05-16T05:00:00", "group_slug": "me", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/morning_edition_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/bbc-world-service/", "end": "2012-05-16T10:00:00", "description": "<p>BBC World Service provides international news, analysis and information.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_threehundred_square.JPG", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/bbc-world-service/", "title": "BBC World Service", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_popup_player.JPG", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_onethirty_square.JPG", "start": "2012-05-16T09:00:00", "group_slug": "bbc-world-service", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_popup_player.JPG", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/bl/", "end": "2012-05-16T12:00:00", "description": "<p>U.S. Under Secretary of Education,\u00a0<strong>Martha Kanter</strong>, will discuss the rising cost of higher education. Plus: trends to keep an eye on in the Obama-Romney race; a new collection of campaign posters illustrates the history of U.S. elections; enthusiasts as the soul of American entrepreneurship; and the tiny museums series continues with the Waterfront Museum.</p>", "title": "The Brian Lehrer Show - Past Participle", "url": "http://www.wnyc.org/shows/bl/2012/may/16/", "listImage": null, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/brian2_200x200_onethirty_square.jpg", "start": "2012-05-16T10:00:00", "show_title": "The Brian Lehrer Show", "group_slug": "bl", "detailImage": null}, {"show_url": "http://www.wnyc.org/shows/lopate/", "end": "2012-05-16T13:00:00", "description": "<p>UC Berkely economist\u00a0<strong>Enrico Moretti</strong>\u00a0looks at how America\u2019s labor market is being transformed. The BBC\u2019s\u00a0<strong>A History of the World in 100 Objects</strong>\u00a0is about a tea set made by the famous Staffordshire pottery firm. <strong>David Weber</strong>, founder and president of the New York City Food Truck Association, and food truck owners Deborah Smith and Jim Drew, talk about the growing industry.\u00a0</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/lopate/2012/may/16/", "title": "The Leonard Lopate Show - On the Move ", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/LeonardLopate_onethirty_square.jpg", "start": "2012-05-16T12:00:00", "show_title": "The Leonard Lopate Show", "group_slug": "lopate", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/history-world-100-objects/", "end": "2012-05-16T13:15:00", "description": "<p>Neil MacGregor uses five objects to highlight the shifts in the balance of economic, political and imperial power in the C19th - and the enormous consequences across the rest of the world.<br><br>Read more about the <a href=\"http://www.bbc.co.uk/ahistoryoftheworld/objects/FWYgWOCSSpKKuF3pctC6tA\" target=\"_blank\"><strong>Early Victorian Tea Set</strong></a>.</p>", "title": "A History of the World in 100 Objects - Early Victorian Tea Set", "url": "http://www.wnyc.org/shows/history-world-100-objects/2012/may/16/", "listImage": null, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/AHOW_brand-600x338_onethirty_square.jpg", "start": "2012-05-16T13:00:00", "show_title": "A History of the World in 100 Objects", "group_slug": "history-world-100-objects", "detailImage": null}, {"show_url": "http://www.wnyc.org/shows/lopate/", "end": "2012-05-16T14:00:00", "description": "<p>UC Berkely economist\u00a0<strong>Enrico Moretti</strong>\u00a0looks at how America\u2019s labor market is being transformed. The BBC\u2019s\u00a0<strong>A History of the World in 100 Objects</strong>\u00a0is about a tea set made by the famous Staffordshire pottery firm. <strong>David Weber</strong>, founder and president of the New York City Food Truck Association, and food truck owners Deborah Smith and Jim Drew, talk about the growing industry.\u00a0</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/lopate/2012/may/16/", "title": "The Leonard Lopate Show - On the Move ", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/LeonardLopate_onethirty_square.jpg", "start": "2012-05-16T13:15:00", "show_title": "The Leonard Lopate Show", "group_slug": "lopate", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/soundcheck/", "end": "2012-05-16T15:00:00", "description": "<p>Today, we look at the role that hazing can play in marching bands - following 11 felony arrests in the death of a Florida A&amp;M drum major. Plus, songs inspired by Nicolas Slonimsky's 1947 book, \u201cThesaurus of Scales and Melodic Patterns.\u201d And, a live performance from New York musician <a xmlns:wnyc=\"http://wnyc.org/xsl/ns\" class=\"guestlink\" href=\"/people/r/?n=Cat+Martino\">Cat Martino</a>.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/GettyAMEDIT_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/soundcheck/2012/may/16/", "title": "Soundcheck &reg; - Marching Bands and Hazing", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/GettyAMEDIT_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/johnschaefer_300_onethirty_square.jpg", "start": "2012-05-16T14:00:00", "show_title": "Soundcheck &reg;", "group_slug": "soundcheck", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/GettyAMEDIT_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/freshair/", "end": "2012-05-16T16:00:00", "description": "<p>Fresh Air is one of the most popular programs on public radio, breaking the \"talk show\" mold, and Gross is known for her fearless and insightful interviews with prominent figures in American arts, politics, and popular culture.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tgross_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/freshair/", "title": "Fresh Air", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tgross_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/tgross_onethirty_square.jpg", "start": "2012-05-16T15:00:00", "group_slug": "freshair", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tgross_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/atc/", "end": "2012-05-16T18:30:00", "description": "<p>Reporters scour the globe for the most direct and compelling information, from the spread of AIDS in India to the inexplicable fluctuations of the Brazilian economy.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_threehundred_square.png", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/atc/", "title": "All Things Considered", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_popup_player.png", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_onethirty_square.png", "start": "2012-05-16T16:00:00", "group_slug": "atc", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_popup_player.png", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/marketplace/", "end": "2012-05-16T19:00:00", "description": "<p>Marketplace is not only about money and business, but about people, local economies and the world \u2014 and what it all means to us.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/7523_logo_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/marketplace/", "title": "Marketplace", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/7523_logo_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/7523_logo_onethirty_square.jpg", "start": "2012-05-16T18:30:00", "group_slug": "marketplace", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/7523_logo_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/atc/", "end": "2012-05-16T20:00:00", "description": "<p>Reporters scour the globe for the most direct and compelling information, from the spread of AIDS in India to the inexplicable fluctuations of the Brazilian economy.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_threehundred_square.png", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/atc/", "title": "All Things Considered", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_popup_player.png", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_onethirty_square.png", "start": "2012-05-16T19:00:00", "group_slug": "atc", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_popup_player.png", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/on-point/", "end": "2012-05-16T21:00:00", "description": "<p>On Point is a hybrid of a talk program and a news-magazine covering each day's important news developments and conducting conversations with newsmakers and thinkers from all around the world.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/on_point_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/on-point/", "title": "On Point", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/on_point_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/on_point_onethirty_square.jpg", "start": "2012-05-16T20:00:00", "group_slug": "on-point", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/on_point_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/tell-me-more/", "end": "2012-05-16T22:00:00", "description": "<p>Tell Me More focuses on the way we live, intersect and collide in a culturally diverse world.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tmm__threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/tell-me-more/", "title": "Tell Me More", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tmm__popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/tmm__onethirty_square.jpg", "start": "2012-05-16T21:00:00", "group_slug": "tell-me-more", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tmm__popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/soundcheck/", "end": "2012-05-16T23:00:00", "description": "<p>Today, we look at the role that hazing can play in marching bands - following 11 felony arrests in the death of a Florida A&amp;M drum major. Plus, songs inspired by Nicolas Slonimsky's 1947 book, \u201cThesaurus of Scales and Melodic Patterns.\u201d And, a live performance from New York musician <a xmlns:wnyc=\"http://wnyc.org/xsl/ns\" class=\"guestlink\" href=\"/people/r/?n=Cat+Martino\">Cat Martino</a>.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/GettyAMEDIT_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/soundcheck/2012/may/16/", "title": "Soundcheck &reg; - Marching Bands and Hazing", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/GettyAMEDIT_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/johnschaefer_300_onethirty_square.jpg", "start": "2012-05-16T22:00:00", "show_title": "Soundcheck &reg;", "group_slug": "soundcheck", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/GettyAMEDIT_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/newsounds/", "end": "2012-05-17T00:00:00", "description": "<p>New Sounds provides a place for your left and right brain to unwind at the end of day.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/johnschaefer_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/newsounds/", "title": "New Sounds", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/johnschaefer_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/johnschaefer_onethirty_square.jpg", "start": "2012-05-16T23:00:00", "group_slug": "newsounds", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/johnschaefer_popup_player.jpg", "width": 45, "height": 45}}], "urls": ["(rtmp://wnyc-wowza.streamguys.com:80/wnycfm,mp4:wnycfm.sdp)", "(rtmpt://wnyc-wowza.streamguys.com:80/wnycfm,mp4:wnycfm.sdp)"], "alternateURLs": {"Windows": "/stream/wnyc-fm939/windows.asx", "AAC+": "/stream/wnyc-fm939/aac.pls", "RTSP": "rtsp://wnyc-3gp.streamguys.com/wnycfm/wnycfm.sdp", "MP3": "/stream/wnyc-fm939/mp3.pls"}, "hasPlaylists": false, "slug": "wnyc-fm939"}, "wnyc-am820": {"name": "WNYC-AM", "schedule": [{"show_url": "http://www.wnyc.org/shows/bl/", "end": "2012-05-16T02:00:00", "description": "<p>NPR national political correspondent <strong>Mara Liasson</strong>; WNYC's <strong>Bob Hennelly</strong> previews an important NJ congressional Democratic primary; the bike share landscape; how NYC tech start-ups compete; and a new mini-series on tiny museums.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/money____threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/bl/2012/may/15/", "title": "The Brian Lehrer Show - Money on the Mind", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/money____popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/brian2_200x200_onethirty_square.jpg", "start": "2012-05-16T00:00:00", "show_title": "The Brian Lehrer Show", "group_slug": "bl", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/money____popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/bbc-world-service/", "end": "2012-05-16T06:00:00", "description": "<p>BBC World Service provides international news, analysis and information.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_threehundred_square.JPG", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/bbc-world-service/", "title": "BBC World Service", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_popup_player.JPG", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_onethirty_square.JPG", "start": "2012-05-16T02:00:00", "group_slug": "bbc-world-service", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/BBC+World+Service_popup_player.JPG", "width": 45, "height": 45}}, {"show_url": "http://thetakeaway.org/", "end": "2012-05-16T10:00:00", "description": "<p>\n</p><p>You've probably heard pundits point to various attributes of each presidential candidate, Obama's likeability or Romney's stance on the economy, for instance, as explanations of why they appeal with different demographics. But it could turn out that none of these factors make much of a difference.\u00a0<strong>John Casti</strong>, author of \"Mood Matters: From Rising Skirt Lengths to the Collapse of World Powers,\"\u00a0says it all boils down to mood.</p>\n", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/3483842841_0183d2ebf2_b_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.thetakeaway.org/2012/may/16/", "title": "The Takeaway - Today's Takeaway: Pissed Off Voters Could Decide Elections", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/3483842841_0183d2ebf2_b_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/tt_onethirty_square.png", "start": "2012-05-16T06:00:00", "show_title": "The Takeaway", "group_slug": "takeaway", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/3483842841_0183d2ebf2_b_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/bl/", "end": "2012-05-16T12:00:00", "description": "<p>U.S. Under Secretary of Education,\u00a0<strong>Martha Kanter</strong>, will discuss the rising cost of higher education. Plus: trends to keep an eye on in the Obama-Romney race; a new collection of campaign posters illustrates the history of U.S. elections; enthusiasts as the soul of American entrepreneurship; and the tiny museums series continues with the Waterfront Museum.</p>", "title": "The Brian Lehrer Show - Past Participle", "url": "http://www.wnyc.org/shows/bl/2012/may/16/", "listImage": null, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/brian2_200x200_onethirty_square.jpg", "start": "2012-05-16T10:00:00", "show_title": "The Brian Lehrer Show", "group_slug": "bl", "detailImage": null}, {"show_url": "http://www.wnyc.org/shows/lopate/", "end": "2012-05-16T13:00:00", "description": "<p>UC Berkely economist\u00a0<strong>Enrico Moretti</strong>\u00a0looks at how America\u2019s labor market is being transformed. The BBC\u2019s\u00a0<strong>A History of the World in 100 Objects</strong>\u00a0is about a tea set made by the famous Staffordshire pottery firm. <strong>David Weber</strong>, founder and president of the New York City Food Truck Association, and food truck owners Deborah Smith and Jim Drew, talk about the growing industry.\u00a0</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/lopate/2012/may/16/", "title": "The Leonard Lopate Show - On the Move ", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/LeonardLopate_onethirty_square.jpg", "start": "2012-05-16T12:00:00", "show_title": "The Leonard Lopate Show", "group_slug": "lopate", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/history-world-100-objects/", "end": "2012-05-16T13:15:00", "description": "<p>Neil MacGregor uses five objects to highlight the shifts in the balance of economic, political and imperial power in the C19th - and the enormous consequences across the rest of the world.<br><br>Read more about the <a href=\"http://www.bbc.co.uk/ahistoryoftheworld/objects/FWYgWOCSSpKKuF3pctC6tA\" target=\"_blank\"><strong>Early Victorian Tea Set</strong></a>.</p>", "title": "A History of the World in 100 Objects - Early Victorian Tea Set", "url": "http://www.wnyc.org/shows/history-world-100-objects/2012/may/16/", "listImage": null, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/AHOW_brand-600x338_onethirty_square.jpg", "start": "2012-05-16T13:00:00", "show_title": "A History of the World in 100 Objects", "group_slug": "history-world-100-objects", "detailImage": null}, {"show_url": "http://www.wnyc.org/shows/lopate/", "end": "2012-05-16T14:00:00", "description": "<p>UC Berkely economist\u00a0<strong>Enrico Moretti</strong>\u00a0looks at how America\u2019s labor market is being transformed. The BBC\u2019s\u00a0<strong>A History of the World in 100 Objects</strong>\u00a0is about a tea set made by the famous Staffordshire pottery firm. <strong>David Weber</strong>, founder and president of the New York City Food Truck Association, and food truck owners Deborah Smith and Jim Drew, talk about the growing industry.\u00a0</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/lopate/2012/may/16/", "title": "The Leonard Lopate Show - On the Move ", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/LeonardLopate_onethirty_square.jpg", "start": "2012-05-16T13:15:00", "show_title": "The Leonard Lopate Show", "group_slug": "lopate", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Taim colorcoded_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/tell-me-more/", "end": "2012-05-16T15:00:00", "description": "<p>Tell Me More focuses on the way we live, intersect and collide in a culturally diverse world.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tmm__threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/tell-me-more/", "title": "Tell Me More", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tmm__popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/tmm__onethirty_square.jpg", "start": "2012-05-16T14:00:00", "group_slug": "tell-me-more", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tmm__popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/world/", "end": "2012-05-16T16:00:00", "description": "<p>A mix of news, features, interviews and music from around the world presents an engaging portrait of the global community. Produced by BBC World Service, Public Radio International and WGBH Radio Boston.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/pri_the_world_logo_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/world/", "title": "The World", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/pri_the_world_logo_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/pri_the_world_logo_onethirty_square.jpg", "start": "2012-05-16T15:00:00", "group_slug": "world", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/pri_the_world_logo_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/atc/", "end": "2012-05-16T18:30:00", "description": "<p>Reporters scour the globe for the most direct and compelling information, from the spread of AIDS in India to the inexplicable fluctuations of the Brazilian economy.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_threehundred_square.png", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/atc/", "title": "All Things Considered", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_popup_player.png", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_onethirty_square.png", "start": "2012-05-16T16:00:00", "group_slug": "atc", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_popup_player.png", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/marketplace/", "end": "2012-05-16T19:00:00", "description": "<p>Marketplace is not only about money and business, but about people, local economies and the world \u2014 and what it all means to us.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/7523_logo_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/marketplace/", "title": "Marketplace", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/7523_logo_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/7523_logo_onethirty_square.jpg", "start": "2012-05-16T18:30:00", "group_slug": "marketplace", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/7523_logo_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/atc/", "end": "2012-05-16T20:00:00", "description": "<p>Reporters scour the globe for the most direct and compelling information, from the spread of AIDS in India to the inexplicable fluctuations of the Brazilian economy.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_threehundred_square.png", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/atc/", "title": "All Things Considered", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_popup_player.png", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_onethirty_square.png", "start": "2012-05-16T19:00:00", "group_slug": "atc", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/256px-All_things_considered_logo.svg_popup_player.png", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/freshair/", "end": "2012-05-16T21:00:00", "description": "<p>Fresh Air is one of the most popular programs on public radio, breaking the \"talk show\" mold, and Gross is known for her fearless and insightful interviews with prominent figures in American arts, politics, and popular culture.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tgross_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/freshair/", "title": "Fresh Air", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tgross_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/tgross_onethirty_square.jpg", "start": "2012-05-16T20:00:00", "group_slug": "freshair", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tgross_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/diane-rehm/", "end": "2012-05-16T22:00:00", "description": "<p>For more than 25 years, <em>The Diane Rehm Show</em> has offered listeners thoughtful and lively conversations on an array of topics with many of the most distinguished people of our times.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/17336_logo_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/diane-rehm/", "title": "The Diane Rehm Show", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/17336_logo_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/17336_logo_onethirty_square.jpg", "start": "2012-05-16T21:00:00", "group_slug": "diane-rehm", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/17336_logo_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/point/", "end": "2012-05-16T23:00:00", "description": "<p>Hosted by Warren Olney, <em>To the Point</em> is a fast-paced, news based one-hour daily national program that focuses on the hot-button issues of the day, co-produced by KCRW and Public Radio International.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tp_480x172_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/point/", "title": "To the Point", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tp_480x172_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/tp_480x172_onethirty_square.jpg", "start": "2012-05-16T22:00:00", "group_slug": "point", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tp_480x172_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wnyc.org/shows/news-hour/", "end": "2012-05-17T00:00:00", "description": "<p>The NewsHour continues to provide in-depth analysis of current events with a news summary, live studio interviews, discussions and documentary reports.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/17660_logo_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wnyc.org/shows/news-hour/", "title": "The NewsHour", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/17660_logo_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/17660_logo_onethirty_square.jpg", "start": "2012-05-16T23:00:00", "group_slug": "news-hour", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/17660_logo_popup_player.jpg", "width": 45, "height": 45}}], "urls": ["(rtmp://wnyc-wowza.streamguys.com:80/wnycam,mp4:wnycam.sdp)", "(rtmpt://wnyc-wowza.streamguys.com:80/wnycam,mp4:wnycam.sdp)"], "alternateURLs": {"Windows": "/stream/wnyc-am820/windows.asx", "AAC+": "/stream/wnyc-am820/aac.pls", "RTSP": "rtsp://wnyc-3gp.streamguys.com/wnycam/wnycam.sdp", "MP3": "/stream/wnyc-am820/mp3.pls"}, "hasPlaylists": false, "slug": "wnyc-am820"}, "wqxr": {"name": "WQXR", "schedule": [{"show_url": "http://www.wqxr.org/programs/overnight-music/", "end": "2012-05-16T05:30:00", "description": "<p>Tune in for a nightly mix that spans the centuries: from full-length operas, oratorios and major symphonies to the latest offerings from New York's vibrant new music scene.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/overnight_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/overnight-music/", "title": "Overnight Music", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/overnight_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/overnight_onethirty_square.jpg", "start": "2012-05-16T00:00:00", "group_slug": "overnight-music", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/overnight_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/morning/", "end": "2012-05-16T08:30:00", "description": "<p><strong>Jeff Spurgeon</strong> has been the morning host of WQXR since 2006. He joined WQXR in 1997 and during his 30-year career in radio, Spurgeon has been an announcer, reporter, newscaster, interviewer and producer</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Jeff-Spurgeon_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/morning/", "title": "Jeff Spurgeon", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Jeff-Spurgeon_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/Jeff-Spurgeon_onethirty_square.jpg", "start": "2012-05-16T05:30:00", "group_slug": "morning", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Jeff-Spurgeon_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/broadway/", "end": "2012-05-16T08:45:00", "description": "<p>Every Wednesday morning, Jeff Spurgeon finds out what's new on Broadway and beyond from Charles Isherwood, theater critic for <em>The</em> New York Times.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/MarcusGypsyBway042ret (4)form__long_image_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/broadway/", "title": "Around Broadway", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/MarcusGypsyBway042ret (4)form__long_image_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/MarcusGypsyBway042ret (4)form__long_image_onethirty_square.jpg", "start": "2012-05-16T08:30:00", "group_slug": "broadway", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/MarcusGypsyBway042ret (4)form__long_image_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/morning/", "end": "2012-05-16T10:00:00", "description": "<p><strong>Jeff Spurgeon</strong> has been the morning host of WQXR since 2006. He joined WQXR in 1997 and during his 30-year career in radio, Spurgeon has been an announcer, reporter, newscaster, interviewer and producer</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Jeff-Spurgeon_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/morning/", "title": "Jeff Spurgeon", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Jeff-Spurgeon_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/Jeff-Spurgeon_onethirty_square.jpg", "start": "2012-05-16T08:45:00", "group_slug": "morning", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Jeff-Spurgeon_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/midge-woolsey/", "end": "2012-05-16T12:00:00", "description": "<p><strong>Midge Woolsey</strong> became an announcer at WQXR in 1993. She is  currently the midday host. Midge has hosted many television  specials for WNET including <em>The Three Tenors Live in Paris</em> and <em>The PBS Millennium</em> project.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/WQXR_Midge_Studio_MarcoAntonio_1084_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/midge-woolsey/", "title": "Midge Woolsey", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/WQXR_Midge_Studio_MarcoAntonio_1084_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/WQXR_Midge_Studio_MarcoAntonio_1084_onethirty_square.jpg", "start": "2012-05-16T10:00:00", "group_slug": "midge-woolsey", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/WQXR_Midge_Studio_MarcoAntonio_1084_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/showdown/", "end": "2012-05-16T12:15:00", "description": "<p>Every Wednesday morning, vote for the piece you want to hear at noon.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/3509090201_c1a8871b33_z_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/showdown/", "title": "Showdown @ High Noon", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/3509090201_c1a8871b33_z_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/3509090201_c1a8871b33_z_onethirty_square.jpg", "start": "2012-05-16T12:00:00", "group_slug": "showdown", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/3509090201_c1a8871b33_z_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/midge-woolsey/", "end": "2012-05-16T15:00:00", "description": "<p><strong>Midge Woolsey</strong> became an announcer at WQXR in 1993. She is  currently the midday host. Midge has hosted many television  specials for WNET including <em>The Three Tenors Live in Paris</em> and <em>The PBS Millennium</em> project.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/WQXR_Midge_Studio_MarcoAntonio_1084_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/midge-woolsey/", "title": "Midge Woolsey", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/WQXR_Midge_Studio_MarcoAntonio_1084_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/WQXR_Midge_Studio_MarcoAntonio_1084_onethirty_square.jpg", "start": "2012-05-16T12:15:00", "group_slug": "midge-woolsey", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/WQXR_Midge_Studio_MarcoAntonio_1084_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/afternoon/", "end": "2012-05-16T19:00:00", "description": "<p>Naomi Lewin is the weekday afternoon host on WQXR, and the host of WQXR\u2019s bi-weekly podcast <em>Conducting Business</em>. Before arriving at WQXR, Lewin was the midday host at WGUC, Cincinnati\u2019s classical public radio station.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Naomi-Lewin_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/afternoon/", "title": "Naomi Lewin", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Naomi-Lewin_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/Naomi-Lewin_onethirty_square.jpg", "start": "2012-05-16T15:00:00", "group_slug": "afternoon", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Naomi-Lewin_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/terrance-mcknight/", "end": "2012-05-16T19:30:00", "description": "<p>Terrance McKnight is the WQXR weekday evening host. He also hosts the Saturday evening program, <em>All Ears with Terrance McKnight</em>, a show about musical discovery, which was honored with an ASCAP Deems Taylor Radio Broadcast Award in 2010.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tm_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/terrance-mcknight/", "title": "Terrance McKnight", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tm_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/tm_onethirty_square.jpg", "start": "2012-05-16T19:00:00", "group_slug": "terrance-mcknight", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tm_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/writers-almanac/", "end": "2012-05-16T19:45:00", "description": "<p>Each day, Garrison Keillor recounts the highlights of this day in history and reads a short poem or two on The Writer's Almanac.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/garrison___threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/writers-almanac/", "title": "The Writer's Almanac", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/garrison___popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/garrison___onethirty_square.jpg", "start": "2012-05-16T19:30:00", "group_slug": "writers-almanac", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/garrison___popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/terrance-mcknight/", "end": "2012-05-16T20:00:00", "description": "<p>Terrance McKnight is the WQXR weekday evening host. He also hosts the Saturday evening program, <em>All Ears with Terrance McKnight</em>, a show about musical discovery, which was honored with an ASCAP Deems Taylor Radio Broadcast Award in 2010.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tm_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/terrance-mcknight/", "title": "Terrance McKnight", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tm_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/tm_onethirty_square.jpg", "start": "2012-05-16T19:45:00", "group_slug": "terrance-mcknight", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tm_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/symphony-hall/", "end": "2012-05-16T21:00:00", "description": "<p>Symphony Hall is a one-hour program airing each weeknight that features a full-length major symphonic work. Performances are drawn from major symphony orchestras from around the globe. To find out what you heard, please consult our <strong><a href=\"http://www.wqxr.org/programs/symphony-hall/about/\">playlists</a></strong>. Symphony Hall airs weeknights at 8PM on 105.9 FM.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/chicago_symphony_orchestra_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/symphony-hall/", "title": "Symphony Hall", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/chicago_symphony_orchestra_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/chicago_symphony_orchestra_onethirty_square.jpg", "start": "2012-05-16T20:00:00", "group_slug": "symphony-hall", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/chicago_symphony_orchestra_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/youngartists/", "end": "2012-05-16T22:00:00", "description": "<p>This week, the Young Artists Showcase presents a concert recorded live at Steinway Hall introducing the finalists for the American Pianists Association's 2013 Classical Fellowship Awards. Several of these finalists are Young Artist Showcase alumni, as well.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/4975905912_bd4a6aa41a_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/youngartists/2012/may/16/", "title": "The McGraw-Hill Companies Young Artists Showcase - American Pianists Association Finalists", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/4975905912_bd4a6aa41a_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/bob_onethirty_square.jpg", "start": "2012-05-16T21:00:00", "show_title": "The McGraw-Hill Companies Young Artists Showcase", "group_slug": "youngartists", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/4975905912_bd4a6aa41a_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/terrance-mcknight/", "end": "2012-05-16T23:00:00", "description": "<p>Terrance McKnight is the WQXR weekday evening host. He also hosts the Saturday evening program, <em>All Ears with Terrance McKnight</em>, a show about musical discovery, which was honored with an ASCAP Deems Taylor Radio Broadcast Award in 2010.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tm_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/terrance-mcknight/", "title": "Terrance McKnight", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tm_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/tm_onethirty_square.jpg", "start": "2012-05-16T22:00:00", "group_slug": "terrance-mcknight", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/tm_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/exploring-music/", "end": "2012-05-17T00:00:00", "description": "<p>An exploration of composers\u2019 critiques, evaluations, and responses to their contemporaries.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/seats_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/exploring-music/2012/may/14/", "title": "Exploring Music - Nobody Ever Builds a Statue to a Critic", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/seats_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/em_music_onethirty_square.jpg", "start": "2012-05-16T23:00:00", "show_title": "Exploring Music", "group_slug": "exploring-music", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/seats_popup_player.jpg", "width": 45, "height": 45}}], "urls": ["(rtmp://wnyc-wqxr-flash.streamguys.org:80/wqxr,classical)", "(rtmpt://wnyc-wqxr-flash.streamguys.org:80/wqxr,classical)"], "alternateURLs": {"Windows": "/stream/wqxr/windows.asx", "AAC+": "/stream/wqxr/aac.pls", "iPod": "http://wnyc-wowza.streamguys.com/wqxr/classical/playlist.m3u8", "RTSP": "rtsp://wnyc-3gp.streamguys.com/wqxr/wqxr.sdp", "MP3": "/stream/wqxr/mp3.pls"}, "hasPlaylists": true, "slug": "wqxr"}, "q2": {"name": "Q2 Music", "schedule": [{"show_url": "http://www.wqxr.org/programs/overnight/", "end": "2012-05-16T06:00:00", "description": "<p>Luxuriate in vast stretches of immersive, cutting-edge and evocative 21st century repertoire on Overnights on Q2 Music. Not only is this your chance to enjoy longer pieces than those you'd hear during the rest of the day, but Overnights also spices its programming with flavors of cerebral indie-electronic and poignant, complex ambient music.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/nightlights2_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/overnight/", "title": "Overnights", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/nightlights2_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/nightlights2_onethirty_square.jpg", "start": "2012-05-16T00:00:00", "group_slug": "overnight", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/nightlights2_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/mornings/", "end": "2012-05-16T10:00:00", "description": "<p>Get your sonic stimulant with Mornings on Q2 Music with a contrapuntal, caffeinated mix designed to fire up the neurons and scatter those last vestiges of the subconscious. Mornings focus on buoyant, vibrant music from today's leading and emerging voices, but you'll also enjoy hints of the fertile 20th century wellspring from which many composers continue to draw inspiration.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/sun_2_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/mornings/", "title": "Mornings", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/sun_2_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/sun_2_onethirty_square.jpg", "start": "2012-05-16T06:00:00", "group_slug": "mornings", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/sun_2_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/hammered/", "end": "2012-05-16T11:00:00", "description": "<p>This week on Hammered! we explore the mountains of chamber music that includes piano(s), or, otherwise put, music for piano+. Hear music from Thomas Ades, Ezequiel Vinao, Benjamin Broening and many more.\u00a0</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/4175322800_134f73c047_o_threehundred_square.jpeg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/hammered/2012/may/14/", "title": "Hammered! - Group Dynamics", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/4175322800_134f73c047_o_popup_player.jpeg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/Electronic20Keyboard-400s_onethirty_square.jpg", "start": "2012-05-16T10:00:00", "show_title": "Hammered!", "group_slug": "hammered", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/4175322800_134f73c047_o_popup_player.jpeg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/nadiasirota/", "end": "2012-05-16T13:00:00", "description": "<p>It\u2019s that time again! Tuesday marks the beginning of our Spring pledge drive. As you\u2019ve probably noticed, we\u2019re making some pretty rad changes over here at Q2. We\u2019ve brought you more hosts, more weekly programs, more live events, more streaming albums and more mobile listening, and we\u2019d LOVE to continue this rad trajectory, but we simply cannot do this without your help!</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Q2_400x400spring2012_threehundred_square.png", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/nadiasirota/2012/may/14/", "title": "Nadia Sirota - Q2 Music Spring Pledge Drive", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Q2_400x400spring2012_popup_player.png", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/Nadia-Sirota_BLOG-500w_onethirty_square.jpg", "start": "2012-05-16T11:00:00", "show_title": "Nadia Sirota", "group_slug": "nadiasirota", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Q2_400x400spring2012_popup_player.png", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/philkline/", "end": "2012-05-16T15:00:00", "description": "<p>Phil Kline is a composer who makes music in many genres and contexts, from experimental electronics and sound installations to songs, choral, theater, chamber and orchestral music.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/PhilMoon_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/philkline/", "title": "Phil Kline", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/PhilMoon_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/PhilMoon_onethirty_square.jpg", "start": "2012-05-16T13:00:00", "group_slug": "philkline", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/PhilMoon_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/mixtapes/", "end": "2012-05-16T16:00:00", "description": "<p>For Mixtapes, we ask artists to assemble an hour of new music that they find particularly compelling. Today's comes courtesy of composer, guitarist, and trumpet player <strong>Rhys Chatham</strong>.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/estelle-hanania-extralarge_1279134492025_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/mixtapes/2012/may/16/", "title": "Mixtapes - Rhys Chatham On Composer/Trumpet Players", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/estelle-hanania-extralarge_1279134492025_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/casette-400s_onethirty_square.jpg", "start": "2012-05-16T15:00:00", "show_title": "Mixtapes", "group_slug": "mixtapes", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/estelle-hanania-extralarge_1279134492025_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/composers-speak-out/", "end": "2012-05-16T17:00:00", "description": "<p>Here\u2019s your chance to hear directly from your favorite composers as they offer insights into the inspiration and process behind their music. This hybrid, virtual hosting by some of today\u2019s most fascinating and celebrated composers draws back the curtain on the creative process and provides an exclusive perspective on the music you\u2019re about to hear.</p>\n<p>\u00a0</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Q2_400x400_threehundred_square.png", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/composers-speak-out/", "title": "Composers Speak Out", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Q2_400x400_popup_player.png", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/Q2_400x400_onethirty_square.png", "start": "2012-05-16T16:00:00", "group_slug": "composers-speak-out", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/Q2_400x400_popup_player.png", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/maryrowell/", "end": "2012-05-16T18:00:00", "description": "<p>Considered by critics to be one of the most important and exciting performers on the contemporary scene today, the violinist Mary Rowell cannot be classified. Known for her work with the Grammy Award-winning Tango Project, the indie band The Silos and pop icon Joe Jackson, she has carved an indelible place in the contemporary classical music world with the post-classical quartet ETHEL of which she is co-founder.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/ETHEL_TRUCKSTOP_BAM_75_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/maryrowell/", "title": "Mary Rowell", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/ETHEL_TRUCKSTOP_BAM_75_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/ETHEL_TRUCKSTOP_BAM_75_onethirty_square.jpg", "start": "2012-05-16T17:00:00", "group_slug": "maryrowell", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/ETHEL_TRUCKSTOP_BAM_75_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/afternoons/", "end": "2012-05-16T19:00:00", "description": "<p>Unexpected but fresh and inevitable adjacencies within new-music define Afternoons on Q2 Music. Enjoy disparate styles and cultures of 21st century classical repertoire woven together into a seamless tapestry through similarities of instrumentation and atmosphere.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/water_1_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/afternoons/", "title": "Afternoons", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/water_1_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/water_1_onethirty_square.jpg", "start": "2012-05-16T18:00:00", "group_slug": "afternoons", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/water_1_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/cuedup/", "end": "2012-05-16T20:00:00", "description": "<p>Keeping its finger on the pulse of New York City\u2019s vibrant live-music scene, Cued Up brings you complete live shows from the city\u2019s most progressive venues and presenters. From the Upper West Side\u2019s Lincoln Center and Columbia University\u2019s Miller Theatre to the West Village\u2019s (Le) Poisson Rouge, SoHo\u2019s Greene Space, and halls all over Brooklyn and Queens, Cued Up brings this progressive contemporary music scene directly to you.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/q2music-bkbridge_threehundred_square.png", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/cuedup/", "title": "Cued Up", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/q2music-bkbridge_popup_player.png", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/q2music-bkbridge_onethirty_square.png", "start": "2012-05-16T19:00:00", "group_slug": "cuedup", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/q2music-bkbridge_popup_player.png", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/evenings/", "end": "2012-05-16T21:00:00", "description": "<p>A lush and meditative mix of 21st century classical repertoire spiked with juxtapositions of world music, Evenings on Q2 Music explores the rich counterpoint and surprising affinities that exist amongst musics from culture far and wade. From hypnotic minimalist compositions to energetic neo-classical works to music that proclaims cultural roots and ancient timbres, Evenings highlight the universal language of music.</p>\n<p>\u00a0</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/sunspots_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/evenings/", "title": "Evenings", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/sunspots_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/sunspots_onethirty_square.jpg", "start": "2012-05-16T20:00:00", "group_slug": "evenings", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/sunspots_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/evenings/", "end": "2012-05-17T00:00:00", "description": "<p>A lush and meditative mix of 21st century classical repertoire spiked with juxtapositions of world music, Evenings on Q2 Music explores the rich counterpoint and surprising affinities that exist amongst musics from culture far and wade. From hypnotic minimalist compositions to energetic neo-classical works to music that proclaims cultural roots and ancient timbres, Evenings highlight the universal language of music.</p>\n<p>\u00a0</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/sunspots_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/evenings/", "title": "Evenings", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/sunspots_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/sunspots_onethirty_square.jpg", "start": "2012-05-16T21:00:00", "group_slug": "evenings", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/sunspots_popup_player.jpg", "width": 45, "height": 45}}], "urls": ["(rtmp://wnyc-wowza.streamguys.com:80/q2,mp4:q2.sdp)", "(rtmpt://wnyc-wowza.streamguys.com:80/q2,mp4:q2.sdp)"], "alternateURLs": {"Windows": "/stream/q2/windows.asx", "AAC+": "/stream/q2/aac.pls", "RTSP": "rtsp://wnyc-3gp.streamguys.com/q2/q2.sdp", "MP3": "/stream/q2/mp3.pls"}, "hasPlaylists": true, "slug": "q2"}, "wqxr-special": {"name": "Operavore", "schedule": [{"show_url": "http://www.wqxr.org/programs/operavore/", "end": "2012-05-16T06:00:00", "description": "<p>WQXR's new <strong>24-hour stream</strong> dedicated  to Opera. Enjoy this continuous, carefully programmed mix of opera arias, duets, scenes choruses and instrumental numbers. The Operavore stream is updated with a different program each day.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/operavore/", "title": "Operavore Stream", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_onethirty_square.jpg", "start": "2012-05-16T00:00:00", "group_slug": "operavore", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/operavore/", "end": "2012-05-16T12:00:00", "description": "<p>WQXR's new <strong>24-hour stream</strong> dedicated  to Opera. Enjoy this continuous, carefully programmed mix of opera arias, duets, scenes choruses and instrumental numbers. The Operavore stream is updated with a different program each day.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/operavore/", "title": "Operavore Stream", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_onethirty_square.jpg", "start": "2012-05-16T06:00:00", "group_slug": "operavore", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/operavore/", "end": "2012-05-16T18:00:00", "description": "<p>WQXR's new <strong>24-hour stream</strong> dedicated  to Opera. Enjoy this continuous, carefully programmed mix of opera arias, duets, scenes choruses and instrumental numbers. The Operavore stream is updated with a different program each day.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/operavore/", "title": "Operavore Stream", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_onethirty_square.jpg", "start": "2012-05-16T12:00:00", "group_slug": "operavore", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_popup_player.jpg", "width": 45, "height": 45}}, {"show_url": "http://www.wqxr.org/programs/operavore/", "end": "2012-05-17T00:00:00", "description": "<p>WQXR's new <strong>24-hour stream</strong> dedicated  to Opera. Enjoy this continuous, carefully programmed mix of opera arias, duets, scenes choruses and instrumental numbers. The Operavore stream is updated with a different program each day.</p>", "fullImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_threehundred_square.jpg", "width": 300, "height": 300}, "url": "http://www.wqxr.org/programs/operavore/", "title": "Operavore Stream", "listImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_popup_player.jpg", "width": 45, "height": 45}, "group_image": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_onethirty_square.jpg", "start": "2012-05-16T18:00:00", "group_slug": "operavore", "detailImage": {"url": "http://media.wnyc.org/media/photologue/photos/cache/opervore-square_popup_player.jpg", "width": 45, "height": 45}}], "urls": ["(rtmp://wnyc-wowza.streamguys.com/wqxr-special,wqxr-special.stream)", "(rtmp://wnyc-wowza.streamguys.com:80/wqxr-special,wqxr-special.stream)", "(rtmpt://wnyc-wowza.streamguys.com:80/wqxr-special,wqxr-special.stream)"], "alternateURLs": {"MP3": "/stream/wqxr-special/mp3.pls"}, "hasPlaylists": true, "slug": "wqxr-special"}}
-;
-    var server_now = "2012-05-16T07:15:15";
-    var onlyShow = "";
+    var stations = {};
+    var server_now = null;
+    var onlyShow = null;
     var upNextStations = ["wnyc-fm939", "wnyc-am820", "special-events-stream"];
-    wnyc.listening.listen(["audio"], function() {
-      whatsOnNowInitSchedule();
+
+    jQuery.ajax({
+      url:'/api/v1/schedule/whats_on_today/',
+      accepts:'json',
+      success:function(data, status, jqXHR) {
+        // Create a cache of the complete whats_on_today data.
+        (window.wnyc || (window.wnyc = {}))._whats_on_today_data = data;
+        window.stations = data.clientStations;
+        window.server_now = data.nowString;
+        wnyc.listening.listen("audio", function() {
+           whatsOnNowInitSchedule();
+        });
+        wnyc.listening.trigger("scheduleInitialized");
+      }
     });
 // ]]>
   </script>
@@ -585,18 +504,15 @@ light rain; mist | <span>62.1°F</span></a>
 
 
 
-<div class="sideblock bigbox_ad ad_container">
-<div class="ad">
-  
-<script>
-if (window.GA_googleFillSlot) {
-  GA_googleFillSlot('home_bigbox');
-}
-</script>
+  <div class="sideblock bigbox_ad ad_container">
+  <div class="ad">
+    <div id="home_bigbox_ad"></div>
+  </div>
 
-</div>
-<p><span class="admessage" style="visibility: visible;">Sponsored</span></p>
-</div>
+  <p>
+    <span class="admessage" style="visibility: visible;">Sponsored</span>
+  </p>
+  </div>
 
 
 
@@ -641,16 +557,10 @@ function suggest_login(){
 
 
 <div class="sideblock littlebox_ad ad_container">
-<p><span class="admessage" style="visibility: visible;">Supported by</span></p>
-<div class="ad">
-  
-<script>
-if (window.GA_googleFillSlot) {
-  GA_googleFillSlot('home_littlebox');
-}
-</script>
-
-</div>
+  <p><span class="admessage" style="visibility: visible;">Supported by</span></p>
+  <div class="ad">
+    <div id="home_littlebox_ad"></div>
+  </div>
 </div>
 
 
@@ -662,6 +572,7 @@ if (window.GA_googleFillSlot) {
   
   
 
+<div class="stfh edit-wrap"><a data-url="/THIS_ADMIN_LINK_IS_BROKEN/TELL_DIGITAL_OPS_YOU_SAW_THIS/" class="stf edit-bucket"></a></div>
 
 
 
@@ -673,7 +584,7 @@ if (window.GA_googleFillSlot) {
         <ul>
           <li class="social">
           <ul>
-          <li><a href="http://www.facebook.com/wnycradio" title="Facebook" class="facebook">Facebook</a></li>
+          <li><a href="http://www.facebook.com/wnyc" title="Facebook" class="facebook">Facebook</a></li>
           <li><a href="http://www.twitter.com/wnyc" title="Twitter" class="twitter">Twitter</a></li>
           <li><a href="http://www.flickr.com/photos/wnyc/" title="Flickr" class="flickr">Flickr</a></li>
           </ul>
@@ -708,31 +619,34 @@ if (window.GA_googleFillSlot) {
       <div class="grid_2">
         <h2 class="shows linked"><a href="/shows/">Shows</a></h2>
           
-
-<h4><span>WNYC Shows List</span></h4>
-<ul class="linkroll None">
-  <li><a href="http://www.wnyc.org/shows/">Shows A-Z</a></li>
-  <li><a href="http://www.wnyc.org/shows/atc/">All Things Considered</a></li>
-  <li><a href="http://www.wnyc.org/shows/bl/">The Brian Lehrer Show</a></li>
-  <li><a href="http://www.wnyc.org/shows/fishko/">Fishko Files</a></li>
-  <li><a href="http://www.freakonomics.com/radio/">Freakonomics Radio</a></li>
-  <li><a href="http://www.wnyc.org/shows/freshair/">Fresh Air</a></li>
-  <li><a href="http://www.wnyc.org/shows/heresthething/">Here's The Thing</a></li>
-  <li><a href="http://www.wnyc.org/shows/history-world-100-objects/">A History of the World in 100 Objects</a></li>
-  <li><a href="http://www.wnyc.org/shows/lopate/">The Leonard Lopate Show</a></li>
-  <li><a href="http://www.wnyc.org/shows/me/">Morning Edition</a></li>
-  <li><a href="http://www.wnyc.org/shows/newsounds/">New Sounds</a></li>
-  <li><a href="http://www.onthemedia.org/">On The Media</a></li>
-  <li><a href="http://www.radiolab.org/">Radiolab</a></li>
-  <li><a href="http://www.radiorookies.org/">Radio Rookies</a></li>
-  <li><a href="http://www.wnyc.org/shows/shorts/">Selected Shorts</a></li>
-  <li><a href="http://www.wnyc.org/shows/soundcheck/">Soundcheck</a></li>
-  <li><a href="http://www.wnyc.org/series/specials/">Specials</a></li>
-  <li><a href="http://www.wnyc.org/shows/spinning/">Spinning On Air</a></li>
-  <li><a href="http://www.studio360.org/">Studio 360</a></li>
-  <li><a href="http://www.thetakeaway.org/">The Takeaway</a></li>
-  <li><a href="http://www.wnyc.org/shows/american-life/">This American Life</a></li>
-</ul>
+  
+      <h4><span>WNYC Shows List</span></h4>
+    <ul class="linkroll ">
+        <li><a href="http://www.wnyc.org/shows/">Shows A-Z</a></li>
+        <li><a href="http://www.wnyc.org/shows/atc/">All Things Considered</a></li>
+        <li><a href="http://www.wnyc.org/shows/bl/">The Brian Lehrer Show</a></li>
+        <li><a href="http://www.wnyc.org/shows/fishko/">Fishko Files</a></li>
+        <li><a href="http://www.freakonomics.com/radio/">Freakonomics Radio</a></li>
+        <li><a href="http://www.wnyc.org/shows/freshair/">Fresh Air</a></li>
+        <li><a href="http://www.wnyc.org/shows/gabfest/">Gabfest Radio</a></li>
+        <li><a href="http://www.wnyc.org/shows/heresthething/">Here's The Thing</a></li>
+        <li><a href="http://www.wnyc.org/shows/jonathan-schwartz">Jonathan Schwartz</a></li>
+        <li><a href="http://www.wnyc.org/shows/lopate/">The Leonard Lopate Show</a></li>
+        <li><a href="http://www.wnyc.org/shows/moneytalking/">Money Talking</a></li>
+        <li><a href="http://www.wnyc.org/shows/me/">Morning Edition</a></li>
+        <li><a href="http://www.wnyc.org/shows/newsounds/">New Sounds</a></li>
+        <li><a href="http://www.wnyc.org/shows/newtechcity/">New Tech City</a></li>
+        <li><a href="http://www.onthemedia.org/">On The Media</a></li>
+        <li><a href="http://www.radiolab.org/">Radiolab</a></li>
+        <li><a href="http://www.radiorookies.org/">Radio Rookies</a></li>
+        <li><a href="http://www.wnyc.org/shows/shorts/">Selected Shorts</a></li>
+        <li><a href="http://soundcheck.wnyc.org">Soundcheck</a></li>
+        <li><a href="http://www.wnyc.org/series/specials/">Specials</a></li>
+        <li><a href="http://www.wnyc.org/shows/spinning/">Spinning On Air</a></li>
+        <li><a href="http://www.studio360.org/">Studio 360</a></li>
+        <li><a href="http://www.thetakeaway.org/">The Takeaway</a></li>
+        <li><a href="http://www.wnyc.org/shows/american-life/">This American Life</a></li>
+    </ul>
 
       </div>
       <div class="grid_2">
@@ -766,20 +680,20 @@ if (window.GA_googleFillSlot) {
       <div class="grid_2">
         <h2 class="sites">Our Sites</h2>
         
-
-<h4><span>wnyc-footer-sites</span></h4>
-<ul class="linkroll None">
-  <li><a href="http://empire.wnyc.org">The Empire</a></li>
-  <li><a href="http://itsafreecountry.org">It's A Free Country</a></li>
-  <li><a href="http://njpublicradio.org">New Jersey Public Radio</a></li>
-  <li><a href="http://onthemedia.org">On The Media</a></li>
-  <li><a href="http://radiolab.org">Radiolab</a></li>
-  <li><a href="http://radiorookies.org">Radio Rookies</a></li>
-  <li><a href="http://schoolbook.org">SchoolBook</a></li>
-  <li><a href="http://studio360.org">Studio 360</a></li>
-  <li><a href="http://thetakeaway.org">The Takeaway</a></li>
-  <li><a href="http://transportationnation.org">Transportation Nation</a></li>
-</ul>
+  
+      <h4><span>wnyc-footer-sites</span></h4>
+    <ul class="linkroll ">
+        <li><a href="http://empire.wnyc.org">The Empire</a></li>
+        <li><a href="http://itsafreecountry.org">It's A Free Country</a></li>
+        <li><a href="http://njpublicradio.org">New Jersey Public Radio</a></li>
+        <li><a href="http://onthemedia.org">On The Media</a></li>
+        <li><a href="http://radiolab.org">Radiolab</a></li>
+        <li><a href="http://radiorookies.org">Radio Rookies</a></li>
+        <li><a href="http://schoolbook.org">SchoolBook</a></li>
+        <li><a href="http://studio360.org">Studio 360</a></li>
+        <li><a href="http://thetakeaway.org">The Takeaway</a></li>
+        <li><a href="http://transportationnation.org">Transportation Nation</a></li>
+    </ul>
 
       </div>
     </div>
@@ -809,55 +723,61 @@ if (window.GA_googleFillSlot) {
     </div>
   </div><!--//#footer-->
 
+
+  
+  <script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+      var node =document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+     })();
+  </script>
+
+  
+  
+  <script>
+    googletag.cmd.push(function() {
+                googletag.defineSlot("/1007549/home_bigbox", [300, 250], "home_bigbox_ad")
+          .addService(googletag.pubads());
+                googletag.defineSlot("/1007549/home_pledge", [264, 33], "home_pledge_ad")
+          .addService(googletag.pubads());
+                googletag.defineSlot("/1007549/home_littlebox", [180, 150], "home_littlebox_ad")
+          .addService(googletag.pubads());
+                googletag.defineSlot("/1007549/home_searchbadge", [88, 31], "home_searchbadge_ad")
+          .addService(googletag.pubads());
+                googletag.defineSlot("/1007549/wnyc_pledge", [140, 87], "wnyc_pledge_ad")
+          .addService(googletag.pubads());
+                googletag.defineSlot("/1007549/wnyc_home_pledge", [460, 47], "wnyc_home_pledge_ad")
+          .addService(googletag.pubads());
+      googletag.pubads().collapseEmptyDivs();
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  
+  <script>
+      googletag.cmd.push(function() { googletag.display("home_bigbox_ad"); });
+      googletag.cmd.push(function() { googletag.display("home_pledge_ad"); });
+      googletag.cmd.push(function() { googletag.display("home_littlebox_ad"); });
+      googletag.cmd.push(function() { googletag.display("home_searchbadge_ad"); });
+      googletag.cmd.push(function() { googletag.display("wnyc_pledge_ad"); });
+      googletag.cmd.push(function() { googletag.display("wnyc_home_pledge_ad"); });
+  </script>
+
+
+
+
   
   <script type="text/javascript">
-    wnyc.google.trackcode = "UA-283599-12";
-    jQuery.ajax({
-      url: '//www.google-analytics.com/ga.js',
-      dataType: 'script',
-      cache: true,
-      success: function () {
-        var playerTracker = _gat._getTracker("UA-283599-12");
-        wnyc.playerTrack = function(category, action, label, metric, prefix) {
-          category = (prefix === false ? "" : prefix || "player-") + category;
-          if (window.location.search.indexOf("alertTracking") >= 0) {
-            var message =
-                "player track: " + category + ", " + action + ", " + label
-            if (metric) {
-              message += ", " + metric
-            }
-            window.console && console.log(message);
-          }
-          playerTracker._trackEvent(category, action, label, metric);
-        };
-        wnyc.listening.trigger("playerTrack");
-
-          var pageTracker = _gat._getTracker(wnyc.google.trackcode);
-          pageTracker._setCustomVar(
-              1, "Logged In", (wnyc.user && wnyc.user.isAuthenticated));
-          pageTracker._trackPageview();
-          pageTracker._trackPageLoadTime();
-          wnyc.google.tracker = pageTracker;
-
-          jQuery(function($) {
-            $('.grid_4.sidebar a,#home-right a').click(function(evt) {
-              var toTrack = {
-                'rightrail': true,
-                'rightrail-section': $(this).hasClass('section-link')};
-              for (var key in toTrack) {
-                if (toTrack[key]) {
-                  wnyc.google.tracker._trackEvent(
-                    document.location.hostname,
-                    key,
-                    location.pathname.split('/').slice(0,3).join('/'), //first 2 sections
-                    location.pathname.split('/').length //where in nav -- deep or shallow?
-                  );
-                }
-              }
-            });
-          });
-      }//end success
-    });
+    wnyc.google.trackCode = "UA-283599-12";
+    wnyc.google.trackPage = true;
   </script>
 
 
@@ -893,7 +813,16 @@ jQuery(window).bind('load', function() {
 });
 </script>
 
-<script type="text/javascript" src="http://media.wnyc.org/media/js/ga_social_tracking.js"></script>
+<script src="http://media.wnyc.org/static/js/ga_social_tracking.js"></script>
+
+	
+  
+
+  
+  
+  
+<script type="text/javascript" src="http://media.wnyc.org/static/CACHE/js/d393e2f878cd.js"></script>
+
 
 
 <!-- ClickTale Bottom part -->
@@ -915,6 +844,7 @@ jQuery(window).bind('load', function() {
 <!-- ClickTale end of Bottom part -->
 
 <!-- Application OK - health checks look for this string. -->
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/33/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","cf6c928157",474700,"NQcDMRMADUYEUUMICQxNJxAPAhdcClwYBQwDDAYKTxcKUBJBGQUDBAMUCRUSWUUEVVI+CA0WPgMOFA1R",0,152,new Date().getTime()])</script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/33/eum/rum-staging.js"></script></body></html>
+
+
+</body></html>
