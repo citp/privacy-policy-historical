@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the okinawayardsales.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190933id_/http%3A//okinawayardsales.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okinawayardsales.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191559id_/http%3A//www.okinawayardsales.com/privacy.jsp) for the most accurate reproduction.*
 
 # Okinawa bookoo - yard sales and classifieds in Okinawa, Japan
-
-| 
 
 ## Privacy Policy Statement
 
@@ -39,22 +37,3 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 Consumers can have this information corrected by sending us e-mail at the above address, writing to us at the above address. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm. 
-
-| 
-
-[](https://web.archive.org/adclick.jsp?advid=873819)
-
-[](https://web.archive.org/adclick.jsp?advid=991669)
-
-[](https://web.archive.org/adclick.jsp?advid=885237)
-
-[](https://web.archive.org/adclick.jsp?advid=872896)
-
-[](https://web.archive.org/adclick.jsp?advid=1008184)
-
-[](https://web.archive.org/adclick.jsp?advid=1011491)
-
-* * *
-
-[ Advertising on Okinawa bookoo ](https://web.archive.org/web/20120630190933id_/http%3A//okinawayardsales.com/sponsor.jsp)  
----|---|---
