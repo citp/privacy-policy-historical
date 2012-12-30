@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topinternetdirectorylistings.org privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626191602id_/http%3A//www.topinternetdirectorylistings.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topinternetdirectorylistings.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183517id_/http%3A//www.topinternetdirectorylistings.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Top Internet Directory Listings - Privacy Policy
 
