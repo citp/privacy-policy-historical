@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theatlanticwire.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527135648id_/http%3A//www.theatlanticwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatlanticwire.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230015959id_/http%3A//www.theatlanticwire.com/privacy-policy) for the most accurate reproduction.*
 
 # The Atlantic Wire Site Privacy Policy - privacy-policy - The Atlantic Wire
 
-**Last Updated:   April 24, 2012**
+**Last Updated:   August 28, 2012**
 
 **Privacy Policy**
 
@@ -42,7 +42,7 @@ In the event of a corporate change in control resulting from, for example, a sal
 
 The Sites place a "cookie" on the browser of a user's computer to gather and store basic tracking information and to monitor the presentation of advertisements. We may also use the information for editorial purposes and for other purposes such as measuring certain traffic patterns. For example, cookies are used to ensure that you don't see the same ad too many times in a single session. Cookies are also used to restrict access to certain areas of the Sites to bona fide subscribers and to enable you to set up customized alerts that no other subscribers are permitted to see. Cookies are not related to any personally identifiable information and are not used to retrieve information from your computer that was not originally sent in a cookie
 
-Advertising service vendors that serve ads into our Sites may also use their own cookies. You may opt-out of the cookies delivered by the Sites by changing the setting on your browser. Some browsers are set to refuse all cookies, or to restrict the conditions under which they are set. Please be aware that this will disable all cookies delivered to your browser, not just the ones delivered by us.
+Advertising service vendors that serve ads into our Sites may also use their own cookies. You may opt-out of the cookies delivered by the Sites by changing the setting on your browser. Some browsers are set to refuse all cookies, or to restrict the conditions under which they are set. Please be aware that this will disable all cookies delivered to your browser, not just the ones delivered by us.  If you would like more information about advertisers' use of cookies, and about your ability not to accept these cookies, please visit the Network Advertising Initiative’s Opt-Out page [here](http://www.networkadvertising.org/managing/opt_out.asp).  If you would like to opt-out of having interest-based information collected during your visits to this or other sites, please visit the consumer opt-out page for the Self Regulatory Program for Online Behavioral Advertising [here ](http://www.aboutads.info/choices/) (currently in beta).
 
 Some online advertising for the Sites is delivered by the vendor DoubleClick, a Google company. For more information about DoubleClick's use of cookies, and to "opt-out" of the Doubleclick cookies, visit [www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy).
 
