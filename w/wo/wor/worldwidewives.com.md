@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwidewives.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107082730id_/http%3A//worldwidewives.com/legal-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidewives.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191149id_/http%3A//www.worldwidewives.com/legal-privacy.jsp) for the most accurate reproduction.*
 
 # World Wide Wives - Privacy Policy
 
@@ -13,7 +13,7 @@ We collect the e-mail addresses of those who post messages to our bulletin board
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customise the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
 
-With respect to cookies: We use cookies to store visitors preferences, record past activity at a site in order to provide better service when visitors return to our site.
+Our cookie policy can be found [here](https://web.archive.org/cookies.jsp)
 
 If you do not want to receive e-mail from us in the future, please let us know by visiting us at [http://www.worldwidewives.com/emailprefs.jsp](https://web.archive.org/emailprefs.jsp).
 
