@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629232834id_/http%3A//www.xxlmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxlmag.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231002912id_/http%3A//www.xxlmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | XXL
 
@@ -58,9 +58,3 @@ Questions regarding this statement or the privacy policies or procedures of this
 
 **Effective Date**  
 This Privacy Policy is effective and was last updated on Sep 1, 2007.
-
-[](http://www.xxlbattle.com/ "Ready or Not Rap Battle: Vote Now")
-
-[](http://www.facebook.com/pages/RIDES-Magazine/108991738048 "Click here to win")
-
-Get The Latest Hip-Hop News Delivered Daily!
