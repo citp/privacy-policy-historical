@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508084010id_/http%3A//www.foreclosureradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230054855id_/http%3A//www.foreclosureradar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ForeclosureRadar
 
@@ -71,11 +71,9 @@ ForeclosureRadar will make good faith efforts to provide you with access to your
 
 Individual customers who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following mailing address:
 
-ForeclosureRadar
-
-14850 Hwy 4, #290
-
-Discovery Bay, CA 94514
+ForeclosureRadar  
+P.O. Box 837  
+Truckee, CA 96161
 
 This request may be made only once per calendar year. ForeclosureRadar reserves the right not to respond to requests submitted other than to the address specified in this paragraph.
 
@@ -87,10 +85,8 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or by mail at:
 
-ForeclosureRadar
-
-14850 Hwy 4, #290
-
-Discovery Bay, CA 94514
+ForeclosureRadar  
+P.O. Box 837  
+Truckee, CA 96161
 
 Privacy policy effective from 4/5/2008. Last updated on 1/20/2011.
