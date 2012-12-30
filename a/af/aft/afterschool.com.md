@@ -1,133 +1,54 @@
-> *The following text is extracted and transformed from the afterschool.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429130956id_/http%3A//www.ddc.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterschool.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181213id_/http%3A//www.afterschool.com/helpcenter/privacypolicy.qs) for the most accurate reproduction.*
 
-# Privacy Statement for Domain Development Corporation
+# Privacy Policy: Help Center - AfterSchool.com
 
-## About Us
+Welcome to Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com and BeautyBar.com (the "Websites"). These Websites are owned and operated by Quidsi, Inc., its affiliates, agents and/or licensors (collectively, "we," "us," "our" or "Quidsi"). Quidsi is sensitive to your concerns about how we may use and share personal information that we collect from you through the Websites. We recognize and respect the importance of maintaining the privacy of our visitors and members and have established this Privacy Policy Statement ("Privacy Policy") as a result. This Privacy Policy is incorporated into our [Terms of Use](https://web.archive.org/helpcenter/termsofuse.qs) and [Account Agreement](https://web.archive.org/helpcenter/accountagreement.qs) and therefore governs your use of the Websites and/or any services offered by Quidsi. We may launch additional e-commerce websites from time to time, which will also be treated as "Websites" subject to this Privacy Policy. By visiting the Websites, and/or utilizing any services offered by Quidsi, you are accepting the then current practices described in the Privacy Policy. 
 
-This is a privacy policy for Domain Development Corporation. Our homepage on the Web is located at [ http://www.ddc.com](http://www.ddc.com/). The full text of our privacy policy is available on the Web at [ http://ddc.com/w3c/policy.html](http://ddc.com/w3c/policy.html). Domain Development Corporation allows the third party Domdex, Inc. to track users for the purpose of targeting advertisements. Domdex may allow third parties to monitor Domdex Affiliated Sites for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. The full text of Domdex's privacy policy is available on the Web at [ http://domdex.com/w3c/policy.html](http://domdex.com/w3c/policy.html) Users may go to <http://domdex.com/i> for information on what is being tracked. Users may go to [ http://domdex.com/w3c/optout.html](http://domdex.com/w3c/optout.html) for information on how to opt-in or opt-out of use of their information. 
+If you have questions or concerns regarding this Privacy Policy, please contact us at [customercare@diapers.com](mailto:customercare@diapers.com), [customercare@soap.com](mailto:customercare@soap.com), [customercare@wag.com](mailto:customercare@wag.com), [customercare@yoyo.com](mailto:customercare@yoyo.com), [customercare@casa.com](mailto:customercare@casa.com), [customercare@vine.com](mailto:customercare@vine.com), [customercare@afterschool.com](mailto:customercare@afterschool.com), [customercare@bookworm.com](mailto:customercare@bookworm.com) or [customercare@beautybar.com](mailto:customercare@beautybar.com). 
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
-    
-    
-    28636 Roadside Drive
-    Suite 150
-    Agoura Hills, CA 91301 
-    USA
-    
-
-You may contact us by e-mail at [ support@ddc.com](mailto:support@ddc.com). You may call us at 800-332-8000. 
-
-## Dispute Resolution and Privacy Seals
-
-We have no privacy seals or other assurance mechanisms. 
-
-## Additional Information
-
-This policy is valid until 1 Jan, 2010 at 12:00:00 PST. 
-
-## Data Collection
-
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
-
-* * *
-
-### Group "Basic information"
-
-We collect the following information: 
-
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
-
-
-
-This data will be used for the following purposes:
-
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
-
-
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Data collected from all Web users: access logs, and search strings (if entered).
-
-* * *
-
-### Group "Cookies"
-
-At the user's option, we will collect the following data: 
-
-  * HTTP cookies
-
-
-
-This data will be used for the following purposes:
-
-  * Targetting advertisements
-  * Research and development.
-  * One-time tailoring.
-
-
-
-This data will be used by ourselves and our agents. Domdex may allow third parties to monitor our data for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Domdex users. 
-
-The following explanation is provided for why this data is collected:
-
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you and tailor advertisements served on our partner websites.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-
-
-* * *
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is: 
-    
-    
-        CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
-    
-
-The following table explains the meaning of each field in the compact policy. 
-
-**Field**|  **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`ALL` |  Access to all collected information is available.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`OUR` |  The data is given to ourselves and our agents.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`UNI` |  Unique identifiers are collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
   
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
 
-* * *
 
-## Policy Evaluation
+What Information Do We Collect About Our Customers?
+     The information we learn from customers helps us enhance and personalize the Websites and the services we offer. We gather the following types of information: 
+     **Information You Give Us.** We receive and store any information you enter on our Websites or provide us in any other way (e.g., by telephone). This may include information you provide when you register as a member, engage in transactions, search, contact customer service, or participate in contests, promotions, surveys, forums, content submissions, chats, bulletin boards, discussion groups, requests for suggestions or other aspects or services offered by us. As a result, you may be supplying us with such information as your name, address, and phone numbers; credit/debit numbers, expiration date and other billing information; people to whom purchases have been shipped, including addresses and phone numbers; names and email addresses of friends, possible Refer-a-Friend customers and other people. 
+     **Automatic Information.** We automatically receive and store certain types of information whenever you interact with us. For example, as most websites do, we use "cookies" and other technologies to, obtain certain types of information when your web browser accesses Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com or BeautyBar.com. This information is compiled and analyzed on both a personal and an aggregated basis, and it may include the Website's Uniform Resource Locator ("URL") that you just came from, which URL you will go to next, what browser you are using, and your Internet Protocol ("IP") address. Other examples of automatic information we may collect are purchase history, products viewed or searched for, visits to certain pages, page interaction information and the phone number you used to call our 800 number. We associate the information we store in cookies with personally identifiable information you submit while on our site. During some visits, we may also collect technical information from your computer to help us identify your computer for fraud prevention purposes. 
+     **Information Provided by Third Parties.** We may obtain certain information about customers from third parties. This may include updated delivery or address information from carriers and information (including name and email addresses) of possible Refer-a-Friend customers from current customers. 
 
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
+Do We Use Cookies?
+     Quidsi uses small text files called "cookies" that provide non-personally identifiable information to us regarding visitors to the Websites. In addition to the URL and IP addresses of our visitors, cookies may be used to gather the date and time of all visits to our Websites. We may also track the pages of our Websites that users viewed during their visit, or track search terms entered on our Websites by that visitor. This helps us keep track of the number of visitors to our Websites and allows us to gauge the areas that are of the most interest to our visitors. 
+     We also use Local Shared Objects (commonly known as Flash cookies) for fraud prevention and other purposes. Flash cookies are small data files that a website stores on your computer. These files may contain information about your online browsing activities and preferences. 
+     We use a third-party tracking service that uses cookies and other technologies to track non-personally identifiable information about visitors to our site in the aggregate. This information is analyzed periodically and is used to gain a broader picture of usage patterns at our site. We may share the non-personally identifiable information gathered through use of cookies with our advertisers and/or business partners, in order to make the Websites as user-friendly as possible. 
+     The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Flash cookies are not stored in the same manner as conventional cookies, and not all browser versions will delete Flash cookies when you clear conventional cookies from your browser. If you wish to block or delete Flash cookies, you should confirm whether your browser version supports this feature. You may also use Adobe's Flash Player Settings Manager to control how your computer handles Flash cookies. Because cookies allow you to take advantage of some of our Websites' features, we recommend that you leave them turned on. 
+     Some of our business partners (e.g., advertisers) use cookies on our Websites. We have no access to or control over these cookies. This privacy Policy covers the use of cookies by Quidsi only and does not cover the use of cookies by any advertisers. 
 
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
+How Do We Use the Information We Collect and Do We Share the Information We Receive?
+     Information about our customers is an important part of our business. We use information we collect from the Websites to communicate with you, to process your orders, to provide an enhanced and more personalized interactive shopping experience, to facilitate your transactions with our third party marketing partners and to inform you of offers and discounts. For example, you can expect to receive a welcoming email to confirm your username and password. Additionally, we communicate with you in response to your inquiries, to provide the services you request and to manage your account. We also send service related announcements on occasions such as when we need to temporarily suspend our site for maintenance. We also will send you promotional emails on occasion. Generally, you may not opt out of service related communications, which are not promotional in nature. If you do not wish to receive them, you have the option to terminate your account. Your account is with Quidsi, the owner and operator of the Websites, and not with the individual Websites, and the information collected through the Websites is used by Quidsi for purposes of all Websites. However, you can opt-out of direct promotional communications from each of the Websites by following the unsubscribe instructions within each communication from that Website or emailing us at [customercare@diapers.com](mailto:customercare@diapers.com), [customercare@soap.com](mailto:customercare@soap.com), [customercare@wag.com](mailto:customercare@wag.com), [customercare@yoyo.com](mailto:customercare@yoyo.com), [customercare@casa.com](mailto:customercare@casa.com), [customercare@vine.com](mailto:customercare@vine.com), [customercare@afterschool.com](mailto:customercare@afterschool.com), [customercare@bookworm.com](mailto:customercare@bookworm.com) or [customercare@beautybar.com](mailto:customercare@beautybar.com). We share customer information with third parties only as follows: 
+     **Third Party Service Providers.** We may work closely with other businesses (that we don't own or control) that sell products or services on Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com and BeautyBar.com.   
+In some cases, these businesses may operate stores or websites that sell products or services to you directly. In other cases, we operate stores, provide services or sell product lines jointly with these businesses. We share customer information related to those transactions with that third party. 
+     **Promotional Offers.** We periodically provide our customers with information about third party products and services we believe will be of interest to you and with opportunities to participate in offers and/or promotions on behalf of other businesses. Your participation in these events may require us to share data with such a business. If you do not want to receive such information or offers, on behalf of third parties or otherwise, please opt-out during registration, email us later at [customercare@diapers.com](mailto:customercare@diapers.com), [customercare@soap.com](mailto:customercare@soap.com), [customercare@wag.com](mailto:customercare@wag.com), [customercare@yoyo.com](mailto:customercare@yoyo.com), [customercare@casa.com](mailto:customercare@casa.com), [customercare@vine.com](mailto:customercare@vine.com), [customercare@afterschool.com](mailto:customercare@afterschool.com), [customercare@bookworm.com](mailto:customercare@bookworm.com) or [customercare@beautybar.com](mailto:customercare@beautybar.com), or follow the unsubscribe instructions within each communication. 
+     **Other Third Parties/Select Partners.** From time to time, we might establish a business relationship with other persons or entities who we believe are trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Select Partners. In such cases, we might share and cross-reference information, including personal information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. We may also combine your personal information with publicly available information and information we receive from or cross-reference with our Select Partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and services that may be of interest to you and for further promotional purposes. If you do not want us to share information with Select Partners, please opt-out during registration, email us later at [customercare@diapers.com](mailto:customercare@diapers.com), [customercare@soap.com](mailto:customercare@soap.com), [customercare@wag.com](mailto:customercare@wag.com), [customercare@yoyo.com](mailto:customercare@yoyo.com), [customercare@casa.com](mailto:customercare@casa.com), [customercare@vine.com](mailto:customercare@vine.com), [customercare@afterschool.com](mailto:customercare@afterschool.com), [customercare@bookworm.com](mailto:customercare@bookworm.com) or [customercare@beautybar.com](mailto:customercare@beautybar.com), or follow the unsubscribe instructions within each communication. 
+     **Refer-A-Friend.** If you choose to use our Refer-A-Friend service to tell a friend or someone else about our site, we will ask you for your friend's or that person's name and email address. We will automatically send your friend or that person email sharing your Referral Code with him or her to use on the site. Your friend may contact us at [customercare@diapers.com](mailto:customercare@diapers.com), [customercare@soap.com](mailto:customercare@soap.com), [customercare@wag.com](mailto:customercare@wag.com), [customercare@yoyo.com](mailto:customercare@yoyo.com), [customercare@casa.com](mailto:customercare@casa.com), [customercare@vine.com](mailto:customercare@vine.com), [customercare@afterschool.com](mailto:customercare@afterschool.com), [customercare@bookworm.com](mailto:customercare@bookworm.com) or [customercare@beautybar.com](mailto:customercare@beautybar.com) to request that we remove this information from our database. In order for you to get credit for a Refer-A-Friend who joins Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com or BeautyBar.com, the person whom you share must enter your email address or a unique password that identifies you as the sharer. We send emails on your behalf to the person you've identified as a Refer-A-Friend. Also, if you were shared to the Websites by an existing member, that member may be notified each time your order qualifies him/her for a credit. 
+     **Reviews/Share This/Testimonials.** If you review a product on our site, your review may be posted on Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com or BeautyBar.com, as well as on a partners' network site that shares reviews with other shopping communities. When you use "ShareThis" to post to social networking sites or to tell your friends about our site, the information is collected by a third party site to facilitate your postings. "ShareThis" allows you to enter your friend's email address and/or import email contacts from various email service providers. Once the email addresses are imported, you must manually click on each email address you wish to send a communication to. Please note that these third party sites' privacy policies govern the collection and use of the information collected on those sites. You should be aware that any personally identifiable information you submit can be read, collected or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. When seeking or receiving customer testimonials or feedback, we disclose that we may post their first name along with all or a portion of their testimonial on the Websites unless they inform us otherwise by following the instructions we provide. 
+     **Merger/Sale.** In the event that Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com or BeautyBar.com, all or substantially all of their respective assets, or a line of business of Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com or BeautyBar.com, is acquired, individually identifying information of our members may be one of the assets sold in connection with that transaction, without notice to you or your consent. We will notify users of the Websites of such a change in ownership or transfer of assets by posting a notice on the Websites. _Notice: On April 1, 2011, Amazon.com, Inc., acquired Quidsi, Inc., which owns and operates Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com and BeautyBar.com._
+     **Bankruptcy.** In the unlikely event of our bankruptcy, insolvency, reorganization, receivership or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred or used. Therefore, you should know that in such event, your personal information may be treated like any other asset of Quidsi, and sold, transferred or shared with third parties, or used in ways not contemplated or permitted hereunder, without notice to you or your consent. 
+     **Protection of Diapers.com, Soap.com and Others.** We release account and other personal information when we believe release is appropriate to comply with the law and/or a judicial proceeding, court order or legal process served on Quidsi; enforce or apply our Terms of Use and other agreements; or protect the rights, property or safety of Quidsi, our Website users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+How Secure Is the Personal Information You Collect?
+     We have taken precautions, including the deployment of technological resources and the use of firewalls, systems and procedures, to protect the security of your personal information. When you enter credit card information on our Websites, we may store it so that you do not have to re-enter it every time you order, but we encrypt it when storing. While no security system is absolutely foolproof, we are constantly reviewing, refining and upgrading our security technology to protect your privacy. When you open an account with Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com or BeautyBar.com, you are issued a password by which to access and secure your account and account information. Although we have taken these precautions, you are responsible for maintaining the secrecy of your password, which should not be disclosed by you. When using a shared computer, always be sure to sign off when finished. 
+
+Links
+     Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com or BeautyBar.com contain links to other websites that we do not own or operate. We have no control over the content, policies or actions of those sites, even if you are offered services on those sites because you have established an account with Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com or BeautyBar.com. We are not responsible for the privacy practices or the content of such websites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies only to information collected by our Websites. 
+
+Minors
+     You must be 18 years of age or older to become a member of Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com or BeautyBar.com. We do not collect information from minors. 
+
+Changing Your Personal Information
+     You may review, change or correct your personally identifying information at any time by accessing your account information on the Websites or calling us at the contact information below. You are responsible for maintaining the accuracy and completeness of your personal and other information, including your email address, and we urge you to review your information regularly to ensure that it is correct and complete. 
+
+Conditions of Use, Notices and Revisions
+     If you choose to visit Diapers.com, Soap.com, Wag.com, YoYo.com, Casa.com, Vine.com, AfterSchool.com, Bookworm.com or BeautyBar.com and/or use Quidsi's services, your visit and/or any dispute over privacy is subject to this Privacy Policy and our Terms of Use and Account Agreement (if you are a member), including limitations on damages, arbitration of disputes, and application of the law of the state of New Jersey. 
+     Our Privacy Policy, the Terms of Use and other terms and conditions may change. In the event of a change, the revised policies or terms and conditions will be posted immediately to our Websites. You should check the Websites frequently to see recent changes. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you. 
+
+Contact Us
+     If you have any questions or concerns regarding privacy at Quidsi or our Privacy Policy, please contact us at [customercare@diapers.com](mailto:customercare@diapers.com), [customercare@soap.com](mailto:customercare@soap.com), [customercare@wag.com](mailto:customercare@wag.com), [customercare@yoyo.com](mailto:customercare@yoyo.com), [customercare@casa.com](mailto:customercare@casa.com), [customercare@vine.com](mailto:customercare@vine.com), [customercare@afterschool.com](mailto:customercare@afterschool.com), [customercare@bookworm.com](mailto:customercare@bookworm.com) or [customercare@beautybar.com](mailto:customercare@beautybar.com), or call us at 1-800-342-7377 (Diapers.com), 1-800-762-7123 (Soap.com), 1-866-746-7924 (Wag.com), 1-866-969-6123 (YoYo.com), 1-855-687-2272 (Casa.com), 1-888-202-8463 (Vine.com), 1-855-752-9321 (AfterSchool.com), 1-888-737-7323 (Bookworm.com) or 1-888-696-0423 (BeautyBar.com). 
