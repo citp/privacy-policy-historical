@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourinvestmentpropertymag.com.au privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627124130id_/http%3A//www.yourinvestmentpropertymag.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourinvestmentpropertymag.com.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192001id_/http%3A//www.yourinvestmentpropertymag.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Your Investment Property Australia
 
