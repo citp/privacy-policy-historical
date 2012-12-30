@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorward.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510075047id_/http%3A//www.motorward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorward.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184753id_/http%3A//www.motorward.com/2008/10/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motorward
 
@@ -26,28 +26,4 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-  
-
-
-This article was last updated by [Bruno Silva](http://www.motorward.com/author/admin/) on March 5, 2012.
-
-### Related Posts
-
-  
-
-
-  * [Audi Invests Massively In Green Cars](http://www.motorward.com/2010/12/audi-invests-massively-in-green-cars/ "Permanent Link: Audi Invests Massively In Green Cars")
-
-
-  * [How to Find the Cheapest Car Insurance](http://www.motorward.com/2009/10/how-to-find-the-cheapest-car-insurance/ "Permanent Link: How to Find the Cheapest Car Insurance")
-
-
-  * [Insurance and the Car Transporter](http://www.motorward.com/2009/11/insurance-and-the-car-transporter/ "Permanent Link: Insurance and the Car Transporter")
-
-
-  * [What Determines the Premium for Car Insurance?](http://www.motorward.com/2009/09/what-determines-the-premium-for-car-insurance/ "Permanent Link: What Determines the Premium for Car Insurance?")
-
-
-  * [BMW i8 Hybrid Sportscar](http://www.motorward.com/2010/12/bmw-i8-hybrid-sportscar/ "Permanent Link: BMW i8 Hybrid Sportscar")
-
-
+Rating: 0.0/ **10** (0 votes cast)
