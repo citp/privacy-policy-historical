@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rtr.org privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429111046id_/http%3A//rtr.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtr.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005741id_/http%3A//rtr.org/help/privacy) for the most accurate reproduction.*
 
-# RTR.org Social Network
+# RTR.org - Privacy Policy
 
 ## Privacy Statement
 
 _ Updated: November 1, 2010_
 
-Thank you for visiting RTR.org (Restore the Republic)! RTR.org is the Social Network of the Revolution. RTR.org has created this network so that you could benefit from the community of Americans who feel that real change begins with individuals who work together with a foundation on Constitutional values. __  RTR.org and Restore the Republic (“We”) are committed to protecting the privacy of our customers.
+Thank you for visiting RTR.org (Restore the Republic)! RTR.org is the Action Network of the Revolution. RTR.org has created this network so that you could benefit from the community of Americans who feel that real change begins with individuals who work together with a foundation on Constitutional values. __  RTR.org and Restore the Republic (“We”) are committed to protecting the privacy of our members.
 
 This policy describes the ways We collect, store, use and protect your personal information. You accept this policy when you sign up for or use our products, services or any other features, technologies or functionalities offered by us on our website or through any other means.
 
@@ -50,7 +50,7 @@ We also use your information for in-house research and analysis. This helps us t
 
 ·         support strategic development
 
-·         To enable us to conduct research we may share your information with third party suppliers employed to help. All results of any research and analysis will be anonymized or aggregated information and will not reveal any personal details of individual customers.
+·         To enable us to conduct research we may share your information with third party suppliers employed to help. All results of any research and analysis will be anonymized or aggregated information and will not reveal any personal details of individual members.
 
 ## 2.     Cookies
 
