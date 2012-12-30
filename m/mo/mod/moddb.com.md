@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510210923id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230060825id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ModDB - Mod DB
 
@@ -35,7 +35,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ## Our Refund Policy
 
-All content on IndieDB is free to browse and consume. When products and services are available for sale, our refund policy shall be displayed on the payment page. If for any reason we are unable to dispatch your order or fulfil the service requested we will notify you within 2 business days and will provide a refund in this situation, should it be requested.
+All content on Mod DB is free to browse and consume. When products and services are available for sale, our refund policy shall be displayed on the payment page. If for any reason we are unable to dispatch your order or fulfil the service requested we will notify you within 2 business days and will provide a refund in this situation, should it be requested.
 
 ## Our Commitment To Data Security
 
@@ -55,12 +55,8 @@ You can correct factual errors in your personally identifiable information by se
 
 You can [contact us](http://www.moddb.com/contact) if you would like your account closed. Once we have verified your identity, we can remove all your personal details and IP on request.
 
-## Modification of Policy
-
-This policy may be modified at any time at the sole discretion of the Provider. Upon modification of this policy, the User has two weeks (14 days) to terminate their account with the Provider or it will constitute acceptance of the modifications.
-
 ## How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please contact Mod DB at [contact us](http://www.moddb.com/contact).
 
-Last Updated: March 3, 2010
+Last Updated: March 3, 2010, our [privacy policy](https://web.archive.org/terms-of-use) can be found here.
