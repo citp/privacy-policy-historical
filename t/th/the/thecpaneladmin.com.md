@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecpaneladmin.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630133019id_/http%3A//www.thecpaneladmin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecpaneladmin.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230062908id_/http%3A//www.thecpaneladmin.com/privacy) for the most accurate reproduction.*
 
 # Privacy :: The cPanel Admin
 
@@ -65,7 +65,9 @@ http://thecpaneladmin.com/contact
 
 admin@thecpaneladmin.com
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F%20\(via%20@sociablesite\)%20/sociable/%20blogplay.com "Twitter")
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F%20 "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F&t=Privacy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy&body=http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.thecpaneladmin.com%2Fprivacy%2F&title=Privacy "StumbleUpon")
