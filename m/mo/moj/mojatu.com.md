@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mojatu.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626192127id_/http%3A//www.mojatu.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojatu.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191217id_/http%3A//www.mojatu.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » Mojatu.com » Your Life Connected | Social Networking with Online Library and Research Tools
+# Privacy Policy » Mojatu.com » Your Life Connected | Connecting Africans Globally
 
 **Mojatu Privacy Policy**   
 This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Mojatu website ('Mojatu') work and to keep it safe (details below). In formal terms, Mojatu.com of London, United Kingdom acting itself and through its subsidiaries, is the 'data controller' of your personal information. This policy is effective January 1st, 2009. 
