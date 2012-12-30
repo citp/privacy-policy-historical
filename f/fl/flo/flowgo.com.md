@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowgo.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512081838id_/http%3A//www.flowgo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowgo.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221630id_/http%3A//www.flowgo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Flowgo
 
