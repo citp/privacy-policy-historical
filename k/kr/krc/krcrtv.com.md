@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krcrtv.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630105133id_/http%3A//www.krcrtv.com/Privacy-Policy/-/14285892/14191068/-/3m0f4vz/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krcrtv.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230220613id_/http%3A//www.krcrtv.com/Privacy-Policy/-/14285892/14191068/-/3m0f4vz/-/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
