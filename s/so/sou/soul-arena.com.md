@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the soul-arena.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623064956id_/http%3A//soul-arena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-arena.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193502id_/http%3A//soul-arena.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Soul-Arena
 
 ##### Privacy Policy
 
-The following webpage outlines Soul-Arena's collection and use of personal information from it's users. Soul-Arena values the privacy of our members and users, we will never share any personal information of anybody who logs on to Soul-Arena with anyone. This includes your [e-mail](https://web.archive.org/contact/ "e-mail") address, name, and location. Upon logging on to Soul-Arena such things as your IP address and hostname are logged for statistical and security reasons. 
+The following webpage outlines Soul-Arena's collection and use of personal information from it's users. Soul-Arena values the privacy of our members and users, we will never share any personal information of anybody who logs on to Soul-Arena with anyone. This includes your [e-mail](https://web.archive.org/contact/ "e-mail") address, name, and location. Upon logging on to Soul-Arena, things such as your IP address and hostname are logged for statistical and security reasons. 
 
 ##### Cookies
 
@@ -22,7 +22,7 @@ Soul-Arena may store and disclose personal information allowed or required by ap
 
 ##### Security
 
-a At Soul-Arena we make reasonable efforts to protect personal information such as passwords and use technology such as encryption, access control procedures, firewalls, and physical security. We urge you to use a unique password with both letters and numbers to protect your [account](https://web.archive.org/profile/ "account") on Soul-Arena and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your [login](https://web.archive.org/login/ "login") credentials, you are responsible for the actions of that individual. Only in extreme cases will your [account](https://web.archive.org/profile/ "account") be fully terminated. 
+At Soul-Arena we make reasonable efforts to protect personal information such as passwords and use technology such as encryption, access control procedures, firewalls, and physical security. We urge you to use a unique password with both letters and numbers to protect your [account](https://web.archive.org/profile/ "account") on Soul-Arena and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your [login](https://web.archive.org/login/ "login") credentials, you are responsible for the actions of that individual. Only in extreme cases will your [account](https://web.archive.org/profile/ "account") be fully terminated. 
 
 ##### Third Parties
 
