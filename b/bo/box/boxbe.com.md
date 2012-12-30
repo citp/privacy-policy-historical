@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxbe.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603064722id_/http%3A//www.boxbe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxbe.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230104422id_/http%3A//www.boxbe.com/privacy) for the most accurate reproduction.*
 
 # Boxbe: Privacy Policy
 
@@ -56,8 +56,6 @@ In some situations Boxbe adds information to the top of emails you receive. This
 
 By agreeing to our [Terms of Service](https://web.archive.org/terms) during registration, you agree to receive messages such as newsletters, notices about changes or improvements to Boxbe's services or other Boxbe information. You can opt out of certain emails from your [Account Info](https://web.archive.org/account-info) page.
 
-Boxbe will not sell, rent or share personally identifiable information about you to other parties except to provide the services you've requested or when we have your permission, or when
-
 ### Confidentiality and Security
 
 Except as provided otherwise in this Privacy Policy, Boxbe limits access to personal information about you to Boxbe employees and independent contractors who we believe reasonably need to come into contact with that information to provide products, services or customer support to you in order to do their jobs.
@@ -77,5 +75,6 @@ When you use a link to go from our website to another website, Boxbe's Privacy P
 If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website or company, or you wish to correct or delete any incorrect personal information, please contact us at [privacy@boxbe.com](mailto:privacy@boxbe.com), or send mail to:
 
 Boxbe, Inc.  
-2390 Chestnut Street #201  
-San Francisco, CA 94123 
+65 Broadway, Suite 601  
+New York, NY 10006  
+
