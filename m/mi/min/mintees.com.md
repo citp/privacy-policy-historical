@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mintees.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504025122id_/http%3A//mintees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintees.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182034id_/http%3A//mintees.com/privacy) for the most accurate reproduction.*
 
-# Mintees - Privacy Policy
+# Privacy Policy - Mintees
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy..
 
