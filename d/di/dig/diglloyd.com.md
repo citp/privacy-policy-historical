@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diglloyd.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502010324id_/http%3A//diglloyd.com/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diglloyd.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192726id_/http%3A//diglloyd.com/site-privacy.html) for the most accurate reproduction.*
 
 # diglloyd - Privacy Policy
 
@@ -28,7 +28,7 @@ Please include your name, address, and/or e-mail address when you contact us. No
 
 Personal information submitted through this Site or in connection with the Products and Services that is not Registration Information is not accessible online. To access and/or correct such information and privacy preferences (such as whether you wish to receive promotional communications), you may write DIGLLOYD at the above address. 
 
-All users may also contact DIGLLOYD [via email](https://web.archive.org/web/20120502010324id_/http%3A//diglloyd.com/contact.html). 
+All users may also contact DIGLLOYD [via email](https://web.archive.org/web/20121230192726id_/http%3A//diglloyd.com/contact.html). 
 
 In your correspondence, please indicate with as much detail as possible the personal information about which you have questions or concerns. You may expect a response within 30 days. For information submitted in connection with Products and Services, you may also follow instructions included or referenced within such Product and Service to access, correct or delete inaccuracies in the information. 
 
