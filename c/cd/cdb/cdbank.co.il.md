@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdbank.co.il privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110315id_/http%3A//www.webstockpro.com/Content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdbank.co.il privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230220834id_/http%3A//www.webstockpro.com/Content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Webstockpro - Privacy Policy
 
@@ -23,7 +23,7 @@ Your account information is password-protected. You are responsible for keeping 
 Payments are processed via PayPal using SSL encryption technology. We do not retain credit card information on our servers.   
 Changes to this Policy   
 We may revise this Privacy Policy from time to time. When we make changes, we update the "last updated" date at the bottom of this page.   
-We welcome your questions and comments. If you have any questions or comments about our Privacy Policy, please [contact us](https://web.archive.org/web/20120630110315id_/http%3A//www.webstockpro.com/Content/Contact-Us.aspx).   
+We welcome your questions and comments. If you have any questions or comments about our Privacy Policy, please [contact us](https://web.archive.org/web/20121230220834id_/http%3A//www.webstockpro.com/Content/Contact-Us.aspx).   
 This Privacy Policy was last updated on February 1st, 2011.   
   
 All rights reserved. © 1993-2012 
