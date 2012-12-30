@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypnosiscertified.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509112544id_/http%3A//www.hypnosiscertified.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypnosiscertified.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230215932id_/http%3A//www.hypnosiscertified.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -68,9 +68,11 @@ _How do I find out more about our information practices?_
 
 If you have any questions about anything in this Privacy Policy, or about our collection of personally identifiable information, or information generally, please contact us as follows:
 
-Statbrook Associates, Inc.  
-P.O. Box 90545  
-Staten Island, NY  10309
+Statbrook Associates LLC  
+1771 E. Flamingo Rd., Suite 115A  
+Las Vegas, NV  89119  
+(Tel) 702-430-1196  
+
 
 You may also contact us at this address if you think any information we have collected about you is inaccurate or incomplete or if you want to make changes to the types of information about you that we may be collecting.
 
