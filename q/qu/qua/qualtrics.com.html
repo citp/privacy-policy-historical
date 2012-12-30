@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the qualtrics.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629212838id_/http%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qualtrics.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230233711id_/https%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 	<title>Qualtrics Privacy Statement | Qualtrics</title>
@@ -35,7 +35,6 @@
 <!--  End  - HITS-IE6 PNGFix -->
 
 
-	<script language="javascript" src="http://j.maxmind.com/app/geoip.js"></script>
 	<script type="text/javascript" src="http://www.qualtrics.com/q1/wp-content/themes/thematic/library/scripts/primarymenu.min.js"></script>
 	<script type="text/javascript" src="http://d3gbx5vaoeb2ad.cloudfront.net/q1/wp-content/themes/thematic/library/scripts/page.min.js"></script>
 
@@ -58,21 +57,67 @@
   })();
 
 </script>
-
+<script type="text/javascript">
+		window.signup = function()
+			{
+				window.showOverlay();
+				var container = document.createElement('div');
+				container.id = 'IframeContainer';
+				container.className = 'SignupContainer';
+				container.innerHTML = '<iframe width="600" height="700" allowTransparency="true" frameBorder="no" src="https://qtrial.qualtrics.com/ControlPanel/Register.php?BrandID=qtrial&TrialSource=Website&newEmbedded=1&country=&city=&medium=referral&keywords=&gasource=qualtrics.com&landingpage=http%3A%2F%2Fwww.qualtrics.com%2F"></iframe>';
+				document.body.appendChild(container);
+			}
+		window.showVideo = function(id)
+			{
+				window.showOverlay();
+				var container = document.createElement('div');
+				container.id = 'IframeContainer';
+				container.className = 'SignupContainer';
+				container.innerHTML = '<iframe width="800" height="450" allowTransparency="true" frameBorder="no" src="https://www.youtube.com/embed/' + id + '"></iframe>';
+				document.body.appendChild(container);
+			}
+		window.showOverlay = function()
+			{
+				if(!document.getElementById('Overlay')) {
+					var overlay = document.createElement('div');
+					overlay.id = 'Overlay';
+					document.body.appendChild(overlay);
+					overlay.style.display = 'block';
+					overlay.setAttribute('onclick', 'window.hideOverlay()');
+				} else document.getElementById('Overlay').style.display = 'block';
+			}
+		window.hideOverlay = function()
+			{
+				document.getElementById('Overlay').style.display = 'none';
+				
+				if(document.getElementById('ImageBoxContainer'))
+				{
+					document.getElementById('ImageBoxContainer').parentNode.removeChild(document.getElementById('ImageBoxContainer'));
+				}
+				if(document.getElementById('IframeContainer'))
+				{
+					document.getElementById('IframeContainer').parentNode.removeChild(document.getElementById('IframeContainer'));
+				}
+				if(document.getElementById('VideoSurveyContainer'))
+				{
+					document.getElementById('VideoSurveyContainer').parentNode.removeChild(document.getElementById('VideoSurveyContainer'));
+				}
+			}
+</script>
 <meta name="google-site-verification" content="-on47wmJh0WmQrIck3qnvMaDshbTJ5xzCHFR3ZW8-dk">
 <meta http-equiv="X-UA-Compatible" content="IE=8">
 <!-- This script runs a jQuery pop-up animation.
 <script type="text/javascript" src="http://d3gbx5vaoeb2ad.cloudfront.net/q1/wp-content/themes/thematic/library/scripts/intercept.js"></script>
 -->
 <script type="text/javascript" src="http://d3gbx5vaoeb2ad.cloudfront.net/q1/wp-content/themes/thematic/library/scripts/intercept_examples.js"></script>
-</head>
+<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=38488147"></script></head>
 
 
 <body class="page page-id-8952 page-template page-template-footermenu-php unknown-os unknown-browser">
 
 <div id="wrapper" class="hfeed">   
 	
-	<a id="ContactButton" href="http://www.qualtrics.com/q1/wp-content/themes/thematic/contact.php" rel="lightbox[contact]"></a>
+	<a id="ContactButton" href="http://www.qualtrics.com/contact-us"></a>
 
 	<div id="main">
 	
@@ -201,15 +246,15 @@
                             <a class="MegaMenuItemsGroup" href="http://www.qualtrics.com/our-story">
 <h3 class="MegaMenuSubHeader">Our Story</h3>
 <p>From the basement to the big leagues—a little about us. </p>
-</a><a class="MegaMenuItemsGroup" href="http://www.qualtrics.com/careers">
-<h3 class="MegaMenuSubHeader">Careers</h3>
-<p>Launch your career at Qualtrics. Get started today.</p>
 </a><a class="MegaMenuItemsGroup" href="http://www.qualtrics.com/contact-us">
 <h3 class="MegaMenuSubHeader">Contact Us</h3>
 <p>Have a question? We're here for you.</p>
 </a><a class="MegaMenuItemsGroup" href="http://www.qualtrics.com/press">
 <h3 class="MegaMenuSubHeader">Press</h3>
 <p>Catch up with the latest news at the Q.</p>
+</a><a class="MegaMenuItemsGroup" href="http://www.qualtrics.com/new-careers">
+<h3 class="MegaMenuSubHeader">Careers</h3>
+<p></p>
 </a>			</div>
     	</div>
     	<div id="MegaMenuResources" class="MegaMenuPane">
@@ -294,7 +339,7 @@
 <li id="menu-item-153" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-153"><a>© Qualtrics Labs, Inc. All rights reserved.</a></li>
 </ul></div>    	</div>
             <div id="SocialMenu">
-                <div id="FacebookButton"><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=246809415332137&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/Qualtrics" send="false" width="450" show_faces="false" action="recommend" font=""></fb:like></div>
+                <div id="FacebookButton"><div id="fb-root"></div><script src="https://connect.facebook.net/en_US/all.js#appId=246809415332137&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/Qualtrics" send="false" width="450" show_faces="false" action="recommend" font=""></fb:like></div>
             
                 <div id="GooglePlusOne">
                 <!-- Place this tag in your head or just before your close body tag -->
@@ -342,21 +387,16 @@ jQuery(document).ready(function($){
 </script>
 
 <script type="text/javascript">
-	if ( typeof console === 'object' ) {
-		console.log('[BEGIN WordPress HTTPS Debug Log]');
-		console.log('Version: 3.0.3');
-		console.log('HTTP URL: http://www.qualtrics.com/');
-		console.log('HTTPS URL: https://www.qualtrics.com:443/');
-		console.log('SSL: No');
-		console.log('Diff Host: No');
-		console.log('Subdomain: No');
-		console.log('Proxy: No');
-		console.log('Secure External URLs: [ http://connect.facebook.net/en_US/all.js#appId=246809415332137&amp;xfbml=1, http://new.qualtrics.com/WRQualtricsShared/JavaScript/javascriptRequired.js, http://reporting.qualtrics.com/img/sampsizecalc/sampsizecalc.png ]');
-		console.log('Unsecure External URLs: [ http://www.youtube.com/v/, http://j.maxmind.com/app/geoip.js, http://wpmarketing.org/image/wpmarketing_rss.png, http://freesurveymaker.org/wp-content/themes/rolas-sepuluh/images/default-header.jpg, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/173-MlXE26k, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/EGy2v5T493M, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/izW902q2ZOk, http://content.screencast.com/users/HaleyC/folders/Jing/media/73374fd2-3ba8-401d-822b-abc12e60f285/00000053.png, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/8EpFkG-7hw8, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/sXgdWTL4Bbc, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/ibQl7OI2w08, http://localhost/wp271/wp-content/plugins/hana-flv-player/splash.jpg, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/Q0W8BFDl5EA, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/0Zb2pk8sc3M, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/AK4XsmaxDHQ, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/Shu3WKSS0EM, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/bxuviwfK_xE, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/yxyhKIHkj_E, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/rfHu3t89zwo, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/xs7hNUFVcs0, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/oNhBq1UcvrA, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/0P516y6xFn4, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/f3uA27n7Z9g, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/RIkyiEpmmmo, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/iAESXhtlyEI, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/HrHGz4GRIkQ, http://feeds.feedburner.com/~r/W3TOTALCACHE/~4/PORvSho9kes ]');
-		console.log('[END WordPress HTTPS Debug Log]');
-	}
-</script>
+document.write(unescape("%3Cscript src='" + document.location.protocol +
+  "//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+<script>Munchkin.init('542-FMF-412');</script>
 
+<!-- BEGIN LivePerson Monitor. -->
+	<script type="text/javascript">
+	window.lpTag={site:'38488147',_v:'1.1',protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);});},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);});}},defer:function(fn){this._defL=this._defL||[];this._defL.push(fn);},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();}};lpTag.init();
+	</script>
+	<!-- END LivePerson Monitor. -->
 
 
 
@@ -364,4 +404,4 @@ jQuery(document).ready(function($){
 
 Content Delivery Network via Amazon Web Services: CloudFront: d3gbx5vaoeb2ad.cloudfront.net
 
-Served from: www.qualtrics.com @ 2012-06-29 21:28:39 --></body></html>
+Served from: www.qualtrics.com @ 2012-12-30 23:37:12 --></body></html>
