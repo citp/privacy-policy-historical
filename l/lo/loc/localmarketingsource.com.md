@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localmarketingsource.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523181222id_/http%3A//www.localmarketingsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmarketingsource.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230053143id_/http%3A//www.localmarketingsource.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Local Marketing Source
 
@@ -30,6 +30,4 @@ With respect to security: We have security measures in place to protect the info
 
 If you have any questions about this Privacy Policy, you may contact us via email at  [support@localmarketingsource.com](mailto:support@localmarketingsource.com)This e-mail address is being protected from spambots. You need JavaScript enabled to view it .
 
-Last Updated: 9/16/2009
-
-Copyright © 2009 Local Marketing Source, LLC, 70 Val Vista Dr. #181, Gilbert, AZ 85296
+Copyright © Local Marketing Source, LLC, 70 Val Vista Dr. #181, Gilbert, AZ 85296
