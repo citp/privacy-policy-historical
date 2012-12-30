@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyahindmarch.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505155159id_/http%3A//www.anyahindmarch.com/about_us/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyahindmarch.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230103204id_/http%3A//www.anyahindmarch.com/about_us/PrivacyPolicy) for the most accurate reproduction.*
 
 # Anya Hindmarch
 
@@ -17,3 +17,25 @@ We endeavour to take all reasonable steps to protect your personal Data includin
 If you have any queries about our privacy policy, please contact us at the address provided in Clause 1.1.
 
 To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998
+
+### Cookies & Internet Advertising
+
+By visiting the Anya Hindmarch website with your computer set to accept cookies, you are consenting to the way we use our cookies, both on our website and via other ways we get in touch with you (Facebook, newsletters, etc.) You can read more about this in our Privacy Policy. To disable cookies or receive cookie notifications see Browser Settings below.  
+
+### Cookies and How We Use Them
+
+ A cookie is a piece of information that is stored on your computer's hard drive by your web browser which tracks your movements within websites. Like other websites, we use cookies, web beacons, and other technologies (we will refer to these collectively as ‘cookies’ throughout this guide). 
+
+### Cookies are Useful
+
+They help us to recognise you on our site, so we can recommend products we think you’ll like and show you only the information we think you’ll be interested in seeing.
+
+We can remember your specified preferences, such as the currency that you prefer to shop in.
+
+We can keep track of items stored in your shopping basket.
+
+We can make your shopping experience a safe one
+
+### Cookies and Browser Settings
+
+ The Help tab on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons by changing the add-on settings or visiting the website of its manufacturer.  We do not have access to or control over cookies or other features that advertisers and third party sites may use, and the information practices of these advertisers and third party websites are not covered by our Privacy Policy or this Cookies & Internet Advertising page. Please contact them directly for more information about their privacy practices.
