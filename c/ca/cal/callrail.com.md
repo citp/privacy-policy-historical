@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the callrail.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524195429id_/http%3A//www.callrail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callrail.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230090007id_/http%3A//www.callrail.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | CallRail
+# Privacy Policy | Call Tracking & Analytics
 
 ### What information do we collect?
 
