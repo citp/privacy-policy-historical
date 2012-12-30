@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassesusa.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508013351id_/http%3A//www.glassesusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesusa.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221529id_/http%3A//www.glassesusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Our postal address is   
 GlassesUSA  
-GlassesUSA 11C Great Meadow Lane, East Hanover, New Jersey, 07936, USA
+GlassesUSA 954 Lexington Avenue, Suite 537, New York, NY 10021-5013, USA
 
 We can be reached via e-mail at info@glassesUSA.com or you can reach us by telephone at 800-917-7083
 
@@ -30,5 +30,5 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau. 
 
-.  
+. 
 
