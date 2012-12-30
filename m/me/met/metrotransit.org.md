@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the metrotransit.org privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621102029id_/http%3A//www.metrocouncil.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrotransit.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193643id_/http%3A//www.metrocouncil.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Metropolitan Council - Privacy statement, government data practices act, data access procedures
 
-> [About Us](https://web.archive.org/web/20120621102029id_/http%3A//www.metrocouncil.org/about/index.htm)
+> [About Us](https://web.archive.org/web/20121230193643id_/http%3A//www.metrocouncil.org/about/index.htm) > [Policies](https://web.archive.org/web/20121230193643id_/http%3A//www.metrocouncil.org/about/policies.htm)
 
 The Metropolitan Council is committed to protecting the privacy of users in accordance with the [Minnesota Government Data Practices Act](https://www.revisor.mn.gov/statutes/?id=13); this privacy statement explains how. We reserve the right to alter our privacy policy as business needs require. Any changes to this policy will be posted on this website in a timely manner.
 
@@ -56,6 +56,6 @@ If you have any questions about this privacy statement, the practices of this si
 Attn: Office of Communications   
 390 N. Robert Street   
 St. Paul, MN 55101   
-[data.center@metc.state.mn.us](mailto:data.center@metc.state.mn.us)   
+[public.info@metc.state.mn.us](mailto:public.info@metc.state.mn.us)  
 651-602-1310 (voice)  
 651-602-1550 (fax)
