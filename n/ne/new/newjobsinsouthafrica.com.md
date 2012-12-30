@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newjobsinsouthafrica.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626044700id_/http%3A//www.newjobsinsouthafrica.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newjobsinsouthafrica.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192608id_/http%3A//www.newjobsinsouthafrica.com/about) for the most accurate reproduction.*
 
 # About Us - New Jobs in South Africa
 
