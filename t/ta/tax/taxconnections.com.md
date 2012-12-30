@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taxconnections.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520145725id_/http%3A//www.taxconnections.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxconnections.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230054328id_/http%3A//www.taxconnections.com/footer/privacy) for the most accurate reproduction.*
 
-# TaxConnections™
+# Privacy Policy | TaxConnections
 
 ## TaxConnections Privacy Policy
 
@@ -8,7 +8,7 @@
 
 This privacy statement describes how TaxConnections Inc, a company incorporated in the State of Delaware, in the United States of America collects and uses the personal information you provide on our company website www.taxconnections.com It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-TaxConnections Inc, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this website, [TaxConnections.com](http://www.taxconnections.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at www.privacy.com If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complain).
+TaxConnections Inc, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this website, [TaxConnections.com](http://www.taxconnections.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at www.privacy.com If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 ## Collection and Use of Personal Information
 
@@ -35,7 +35,7 @@ As is true of most websites, we automatically gather information about your comp
   * Display content based upon your interests
   * Facilitate your communications with other users
   * Enable you to post your resume, search job postings, and contact or be contacted by prospective employers
-  * List you in our publicly accessible, interactive �Worldwide Directory of Tax Professionals" if you are a subscribing member of this directory 
+  * List you in our publicly accessible, interactive “Worldwide Directory of Tax Professionals” if you are a subscribing member of this directory 
 
 
 
