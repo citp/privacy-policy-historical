@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617235300id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearshare.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230111750id_/http%3A//www.bearshare.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  | 
+Welcome to BearShare. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the BearShare software, BearShare MediaBar and the BearShare website ([bearshare.com](https://web.archive.org/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
 
-Privacy Policy
-
-Welcome to BearShare. We want you to know that we respect your privacy and that we value your business. This privacy statement covers the BearShare software, BearShare MediaBar and the BearShare website ([www.bearshare.com](https://web.archive.org/web/20120617235300id_/http%3A//www.bearshare.com/)). In order to ensure your privacy we want you to know the details of what information we collect and what we do with it.
-
-Information Collection
+## Information Collection
 
 Musiclab takes your privacy very seriously. In order to provide you with the highest quality service, we do collect certain information from you in accordance with the following guidelines.
 
@@ -34,7 +30,7 @@ If we engage with any advertising partners and or other third parties, our appro
 
 We use internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, geographical location and number of clicks to analyze trends, administer the site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are not linked by BearShare to personally identifiable information and are not kept after the statistics are logged in the aggregated database. The information we collect is used for internal review and is then discarded. It is not shared with other organizations. However, users should be aware that both static and dynamic IP addresses can be mapped back to users on most ISPs based on the users login time and recorded information.
 
-Search Technology And The BearShare Media Bar
+## Search Technology And The BearShare Media Bar
 
 BearShare and the bearshare.com website also feature the BearShare MediaBar ("BMB") and search services ("Services"), respectively, that are powered by third party search partners ("Search Partners"). Your use of BMB and the Services are subject to the following privacy restrictions required by our Search Partners. Our Search Partners use this information to properly process your search requests. Importantly, all information collected in connection with a search query is recorded on a non-personally identifiable basis and is kept strictly anonymous, except as may be required by law or to protect the rights or safety of others.
 
@@ -62,7 +58,7 @@ If you wish to withdraw your consent to the communication and data usage as desc
 
 Our Search Partners may provide search results or other links to other World Wide Web sites or resources. Because our Search Partners have no control over such sites and resources, you acknowledge and agree that they are not responsible for the availability of such external sites or resources, and do not endorse and are not responsible or liable for any Content, advertising, products, or other materials on or available from such sites or resources. You further acknowledge and agree that neither Musiclab nor our Search Partners shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with your use of or reliance on any such Content, goods or services available on or through BMB or Web Sites.
 
-Information Use
+## Information Use
 
 Except as described in this statement, we will not disclose any information about you outside of Musiclab and its controlled subsidiaries and affiliates without your consent.
 
@@ -78,35 +74,32 @@ In an endeavor to improve the customer experience we may also purchase marketing
 
 In addition to the foregoing, we may disclose your personally identifiable information if we believe such action is necessary to: (a) comply with the law or legal process served on Musiclab; (b) protect and defend the rights or property of Musiclab (including the enforcement of our agreements); or (c) act in urgent circumstances to protect the personal safety of users of BearShare services or members of the public.
 
-Links
+## Links
 
 In an attempt to provide increased value to our visitors, we may choose various third party web sites to link from or frame within the BearShare website. We also participate in co-branding, advertising and other relationships to offer e-commerce and other services and features to our users. Information about you may be visible to subsequent websites if you link off of the BearShare website. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners, advertisers or third party web sites (even if offered on or through our site) is not received by us. As such, we are not responsible for, or have any control over, the content or the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited when linking from bearshare.com. These linked sites are only for your convenience and you therefore access them at your own risk. This privacy statement applies solely to information collected by BearShare.
 
-Choice/Opt-Out
+## Choice/Opt-Out
 
 As a member of BearShare, you can download, search, share and publish just about any digital media file. Users are given the opportunity to 'opt-out' of the sharing component of the BearShare Software, so that such user's files are not made available to other users, by disabling that component of the Software. Each user is provided with the option to disable the sharing component of the Software by going into the preferences section of our site and "disabling" the appropriate component...
 
 Additionally you can modify your registration and preferences information at any time in the My Account section of our service. Also all of BearShare's promotional emails are accompanied with information on how to change your communications preferences and how to "opt-out" of certain communications. For access to our communications preferences page please go to the My Account section of the Service.
 
-Our Commitment To Children'S Privacy
+## Our Commitment To Children'S Privacy
 
 Protecting the privacy of the very young is especially important. We operate our website in compliance with the Children's Online Privacy Protection Act (COPPA). We never knowingly collect or maintain information at or on our website from those we actually know are under 13, and no part of our website is directed at or structured to attract anyone under 13. Visitors younger than 13 years of age may NOT use the BearShare website and software and must LEAVE immediately.
 
-Legal Disclaimer
+## Legal Disclaimer
 
 At times Musiclab may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance that disclosure of information is necessary.
 
-Security
+## Security
 
 We take every reasonable precaution to protect information from misuse, loss and unauthorized access. Although we cannot guarantee that users' information will not be subject to unauthorized access, we have put in place physical, electronic, and managerial procedures to safeguard and secure the information we may collect online. All employees are kept up to date on our security and privacy practices.
 
-Notification Of Changes
+## Notification Of Changes
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement and on our homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify registered users by way of an e-mail or instant messaging or similar method, and/or by posting a notice on our website.
 
-Questions
+## Questions
 
 If you have questions or concerns regarding this please email us at [privacy@bearshare.com](mailto:privacy@bearshare.com). You can also contact us by sending us postal mail at BearShare. P.O Box 373, Maplewood, NJ 07040, USA.
-
-|   
----|---|---
