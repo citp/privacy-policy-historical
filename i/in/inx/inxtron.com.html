@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inxtron.com privacy policy that was archived on 2012-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120511172242id_/http%3A//www.inxtron.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inxtron.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230054428id_/http%3A//www.inxtron.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us" dir="ltr"><head>
   <meta property="og:locale" content="en_US">
@@ -27,90 +27,37 @@
   <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
   <script type="text/javascript" src="/plugins/content/attachments_refresh.js"></script>
   <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="http://www.inxtron.com/modules/mod_jw_latesttweets/includes/js/behaviour.js"></script>
   <script type="text/javascript" src="http://www.inxtron.com/modules/mod_superfishmenu/tmpl/js/jquery.js"></script>
   <script type="text/javascript" src="http://www.inxtron.com/modules/mod_superfishmenu/tmpl/js/jquery.event.hover.js"></script>
   <script type="text/javascript" src="http://www.inxtron.com/modules/mod_superfishmenu/tmpl/js/superfish.js"></script>
   <script type="text/javascript">
+
+	jwLatestTweets.ready(function(){
+		jwLatestTweets.lang = {
+			lessthanaminute: "less than a minute ago",
+			minute: "about a minute ago",
+			minutes: "minutes ago",
+			hour: "about an hour ago",
+			hours: "hours ago",
+			day: "1 day ago",
+			days: "days ago"
+		};
+		jwLatestTweets.fetchTweets({
+			screen_name: 'inxtron',
+			count: '2',
+			callback: 'jwLtCb354',
+			moduleID: 'ltUpdateId354',
+			timeout: 2000
+		});
+	});
+
 jQuery.noConflict();
 jQuery(function($){ $("ul.sf-menu").superfish({hoverClass:'sfHover', pathClass:'active', pathLevels:0, delay:400, animation:{height:'show'}, speed:'def', autoArrows:1, dropShadows:1}) });
 jQuery.event.special.hover.delay = 100;
 jQuery.event.special.hover.speed = 100;
 
   </script>
-  <!-- JoomlaWorks "Latest Tweets" Module (v1.1) starts here -->
-
-<script type="text/javascript">
-	//<![CDATA[
-	function twitterCallbackId354(twitters) {
-
-	  var statusHTML = [];
-	  for (var i=0; i<twitters.length; i++){
-	    var username = twitters[i].user.screen_name;
-	    var status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
-	      return '<a href="'+url+'">'+url+'</a>';
-	    }).replace(/\B@([_a-z0-9]+)/ig, function(reply) {
-	      return  reply.charAt(0)+'<a href="http://twitter.com/'+reply.substring(1)+'">'+reply.substring(1)+'</a>';
-	    });
-	    
-	    if(i%2==1) var liClass = 'Even'; else var liClass = 'Odd';
-	    
-	    var liOutput = '\
-		    <li class="lt'+liClass+'">\
-			    <span class="ltUserStatus">'+status+'</span>\
-			    <br />\
-			    <a class="ltStatusTimestamp" href="http://twitter.com/'+username+'/statuses/'+twitters[i].id+'">\
-			    	'+relative_time(twitters[i].created_at)+'\
-			    </a>\
-		    </li>\
-	    ';
-	    
-	    statusHTML.push(liOutput);
-	  }
-	  
-	  setTimeout(function(){document.getElementById('ltUpdateId354').innerHTML = statusHTML.join('');},2000);
-	}
-	
-	function relative_time(time_value) {
-	  var values = time_value.split(" ");
-	  time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
-	  var parsed_date = Date.parse(time_value);
-	  var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
-	  var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
-	  delta = delta + (relative_to.getTimezoneOffset() * 60);
-	
-	  if (delta < 60) {
-	    return 'less than a minute ago';
-	  } else if(delta < 120) {
-	    return 'about a minute ago';
-	  } else if(delta < (60*60)) {
-	    return (parseInt(delta / 60)).toString() + ' minutes ago';
-	  } else if(delta < (120*60)) {
-	    return 'about an hour ago';
-	  } else if(delta < (24*60*60)) {
-	    return 'about ' + (parseInt(delta / 3600)).toString() + ' hours ago';
-	  } else if(delta < (48*60*60)) {
-	    return '1 day ago';
-	  } else {
-	    return (parseInt(delta / 86400)).toString() + ' days ago';
-	  }
-	}
-	//]]>
-</script>
-<script type="text/javascript">
-	//<![CDATA[
-	window.addEvent('domready', function() {
-	  var twitterJson = 'http://twitter.com/statuses/user_timeline/inxtron.json?callback=twitterCallbackId354&count=2';
-		var twitterScript = document.createElement('script');
-		twitterScript.setAttribute('charset','utf-8');
-		twitterScript.setAttribute('type','text/javascript');
-		twitterScript.setAttribute('src',twitterJson);
-		var b = document.getElementsByTagName('body')[0];
-		b.appendChild(twitterScript);
-	});
-	//]]>
-</script>
-
-<!-- JoomlaWorks "Latest Tweets" Module (v1.1) ends here -->
   <script type="text/javascript" language="javascript" src="http://www.inxtron.com/modules/mod_pixsearch/js/pixsearch.js"></script>
 		<style type="text/css">#ps_results{margin-left:-130px;}</style>
 
@@ -189,7 +136,7 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5598564-2']);
-  _gaq.push(['_setCustomVar', 1, 'Page creation time and ram', '99', 3]);
+  _gaq.push(['_setCustomVar', 1, 'Page creation time and ram', '87', 3]);
   _gaq.push(['_setCustomVar', 2, 'Logged-in user', 'anonymous', 3]);
   
   
@@ -244,7 +191,7 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
 				
                 <div class="floatleft" id="logo">
 
-                    <p><a href="/"><img class="png" src="/images/inxtron_weblogo.gif" alt="inXtron" border="0" height="62" width="250"></a></p> 
+                    <p><a href="/"><img class="png" src="/images/logos/inxtron-logo-ny2013.png" alt="Happy New Year 2012" height="62" width="455"></a></p> 
 
                 </div>
 
@@ -686,15 +633,15 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
   <ul class="ucd_list">
     <!-- UCD item 0 -->
 <li class="ucd_item row0">
-<div class="ucd_title"><a href="/201203271300/2012/inxtron-intel-storage-forum">inXtron at Intel Storage Forum</a></div>
+<div class="ucd_title"><a href="/201209051305/2012/thunderbolt-storage-now-available">Thunderbolt™ Now Available!</a></div>
 </li>
 <!-- UCD item 1 -->
 <li class="ucd_item row1">
-<div class="ucd_title"><a href="/201108241296/2011/dlna-first-inxtron-plx">DLNA First for inXtron and PLX</a></div>
+<div class="ucd_title"><a href="/201203271300/2012/inxtron-intel-storage-forum">inXtron at Intel Storage Forum</a></div>
 </li>
 <!-- UCD item 2 -->
 <li class="ucd_item row0">
-<div class="ucd_title"><a href="/201107071294/2011/world-first-dlna-certified-landisk">World's 1st DLNA Certified LanDisk</a></div>
+<div class="ucd_title"><a href="/201108241296/2011/dlna-first-inxtron-plx">DLNA First for inXtron and PLX</a></div>
 </li>
   </ul>
 </div>
@@ -725,7 +672,7 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
                          <div class="col-module_content">
                          
 
-<!-- JoomlaWorks "Latest Tweets" Module (v1.1) starts here -->
+<!-- JoomlaWorks "Latest Tweets" Module (v1.3) starts here -->
 
 <div class="ltBlock">
 	<ul id="ltUpdateId354" class="ltBlockList">
@@ -738,7 +685,7 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
 	</div>
 </div>
 
-<!-- JoomlaWorks "Latest Tweets" Module (v1.1) ends here -->
+<!-- JoomlaWorks "Latest Tweets" Module (v1.3) ends here -->
 
                          </div>
                
