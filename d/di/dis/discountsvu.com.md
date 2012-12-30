@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountsvu.com privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531051006id_/http%3A//www.discountsvu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountsvu.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230213523id_/http%3A//www.discountsvu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Buy Online at Best Price in India, Camera Lens, Car Speakers, Car Navigation devices, Fastrack , Titan Watches, Offers, Deals, Discounts, Sale
+# Privacy policy | DiscountsVu.com
 
 Your privacy is important to us. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. By visiting DiscountsVu.com, you are accepting the practices described in this Privacy Notice. At DiscountsVu®, we want you to know exactly how and when we collect and use information that can specifically identify you, such as your name, mailing address, phone number, and email address ("personal information").
 
@@ -44,5 +44,5 @@ If DiscountsVu® makes changes to any terms or conditions of the Privacy Polic
   
 **Need more Help?**
 
-Please [_contact us_](https://www.discountsvu.com/contact-us).   
+Please [_contact us_](http://www.discountsvu.com/contact-us).   
 
