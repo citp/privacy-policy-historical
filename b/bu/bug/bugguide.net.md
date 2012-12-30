@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugguide.net privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620214905id_/http%3A//bugguide.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugguide.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185522id_/http%3A//bugguide.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - BugGuide.Net
 
