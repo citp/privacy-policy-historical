@@ -1,73 +1,73 @@
-> *The following text is extracted and transformed from the taxspanner.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523190154id_/http%3A//www.taxspanner.com/ts/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxspanner.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230213419id_/http%3A//www.taxspanner.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# TaxSpanner: Privacy Policy
-
-  | 
+# 
 
 We advise you to read the terms and conditions for use of our website prior to usage. 
 
-Privacy Policy
+**Privacy Policy**  
 
-General
 
+**General**  
 Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclosure of information that you may provide via the [www.taxspanner.com](http://www.taxspanner.com/) website. Whenever you use this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
 
 Ways that we collect information
 
-Some areas of the site require you to actively submit information in order for you to benefit from specific features (such as our range of online services). 
+  * Some areas of the site require you to actively submit information in order for you to benefit from specific features (such as our range of online services).
 
-Some of this information may be personal (information that can be uniquely identified with you, such as your full name, father’s name, address, date of birth, PAN, etc.).
 
-Information is also gathered without you actively providing it, through the use of various technologies and methods such as Internet Protocol (IP) addresses and cookies. These methods do not collect or store personal information.
+  * Some of this information may be personal (information that can be uniquely identified with you, such as your full name, father’s name, address, date of birth, PAN, etc.).
 
-An IP address is a number assigned to your computer by your Internet Service Provider (ISP), so you can access the Internet. It is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer).
 
-We use your IP address to diagnose problems with our server, report aggregate information, and determine the fastest route for your computer to use in connecting to our site, and to administer and improve the site.
+  * Information is also gathered without you actively providing it, through the use of various technologies and methods such as Internet Protocol (IP) addresses and cookies. These methods do not collect or store personal information.
 
-Cookies
 
+  * An IP address is a number assigned to your computer by your Internet Service Provider (ISP), so you can access the Internet. It is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer).
+
+
+  * We use your IP address to diagnose problems with our server, report aggregate information, and determine the fastest route for your computer to use in connecting to our site, and to administer and improve the site.
+
+
+
+**Cookies**  
 A cookie is small text files that websites put on your computer to store information about you and your preferences. On our website, we use cookies to track users' progress through the site, allowing us to make improvements based on usage data. The information in a cookie does not contain any personally identifiable information you submit to our site.
 
-Once you close your browser, our access to the cookie terminates. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose not to accept the cookie, this will not affect your access to the majority of information available on our website. However, you will not be able to make full use of our online services. 
+Once you close your browser, our access to the cookie terminates. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose not to accept the cookie, this will not affect your access to the majority of information available on our website. However, you will not be able to make full use of our online services.
 
-Monitoring of e-mail
-
+**Monitoring of e-mail**  
 We may monitor e-mail communications with Span Across (this includes any Span Across member of staff). Any such monitoring will take place in accordance with the law.
 
-Web Statistics
-
+**Web Statistics**  
 We use log files generated by our web servers to analyze site usage and statistics but the said files do not identify any personal information. Log file analysis helps us to understand usage patterns on our website and to make improvements to our service.
 
-Disclosure
-
+**Disclosure**  
 Except as otherwise stated, we may use information you provide via this site to improve the content, to customize the site to your preferences, to communicate information to you (if you have requested it), for internal marketing and research purposes, and for the purposes specified in this Privacy Policy.
 
 We do not disclose any information you provide via the site to any third parties or other government departments except where:
 
-Such disclosures are necessary to fulfill our service obligations to you in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy. 
+  * Such disclosures are necessary to fulfill our service obligations to you in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy.
 
-Required by applicable laws, courts orders, or government regulations. 
 
-You give us permission to do so. 
 
-Access to and correction of personal information
+  * Required by applicable laws, courts orders, or government regulations.
 
+
+
+  * You give us permission to do so.
+
+
+
+**Access to and correction of personal information**  
 We will take all reasonable steps in accordance with our legal obligations to update or correct personally identifiable information in our possession that you submit via this site.
 
-Security
-
+**Security**  
 Span Across has a legal duty to protect the confidentiality of taxpayer information. We take all reasonable steps to protect any information you submit via our website, both online and offline, in accordance with relevant legislation in India.
 
 We take all appropriate steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information for loss, misuse, and unauthorised access, disclosure, alteration, or destruction. We use technologies to safeguard your data, and operate strict security standards to prevent any unauthorised access to it.
 
 Where you use passwords, ID numbers, or other special access features on this site, you also have a responsibility to take reasonable steps to safeguard them.
 
-Links to other websites
-
+**Links to other websites**  
 This site contains links and references to other websites. Please be aware that this Privacy Policy does not apply to those websites and we encourage you to read the Privacy Policy of every website you visit.
 
-Notification of changes to our Privacy Policy
-
-We will post details of any changes to our Privacy Policy on the website to help ensure you are always aware of the information we collect, how we use it, and in what circumstances, if any, we share it with other parties. 
-
-|  
+**Notification of changes to our Privacy Policy**  
+We will post details of any changes to our Privacy Policy on the website to help ensure you are always aware of the information we collect, how we use it, and in what circumstances, if any, we share it with other parties.
