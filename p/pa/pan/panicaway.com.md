@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503205310id_/http%3A//www.panicaway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230232154id_/http%3A//www.panicaway.com/privacy) for the most accurate reproduction.*
 
-# Privacy | PanicAway.com
-
-**PRIVACY POLICY**
+# Privacy | Panic Away
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
@@ -64,7 +62,7 @@ The term “personally identifiable information” means individually identifiab
 
 (1) A first and last name. (2) A home or other physical address, including street name and name of a city or town. (3) An e-mail address. (4) A telephone number. (5) A social security number. (6) Any other identifier that permits the physical or online contacting of a specific individual. (7) Information concerning a user that the Web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
 
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, if any, and a description of the categories of personal information shared. To make such a request, please send an email to Privacy@PrivacyRequest.com <mailto:Privacy@PrivacyRequest.com> and please include the phrase “California Privacy Request” in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, if any, and a description of the categories of personal information shared. To make such a request, please send an email to Privacy@PrivacyRequest.com  and please include the phrase “California Privacy Request” in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
 
 “Cookies” and How Our Company Uses Them. A “cookie” is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
 
@@ -87,14 +85,3 @@ Revisions to This Policy: Our company reserves the right to revise, amend, or mo
 Last updated: August 11, 2009
 
 Copyright © 2003-2009 InternetMarketingLawProducts.com for BMD Publishing LTD (Reg. No 451616)
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fwww.panicaway.com%2Fprivacy%20\(via%20@sociablesite\) "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&t=Privacy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy&body=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&title=Privacy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&title=Privacy&notes=PRIVACY%20POLICY%0D%0A%0D%0AYour%20privacy%20is%20very%20important%20to%20us.%20We%20want%20to%20make%20your%20experience%20on%20the%20Internet%20as%20enjoyable%20and%20rewarding%20as%20possible%2C%20and%20we%20want%20you%20to%20use%20the%20Internet%27s%20vast%20array%20of%20information%2C%20tools%2C%20and%20opportunities%20with%20complete%20co "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&title=Privacy&srcURL=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&srcTitle=PanicAway.com+ "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&title=Privacy&source=PanicAway.com+&summary=PRIVACY%20POLICY%0D%0A%0D%0AYour%20privacy%20is%20very%20important%20to%20us.%20We%20want%20to%20make%20your%20experience%20on%20the%20Internet%20as%20enjoyable%20and%20rewarding%20as%20possible%2C%20and%20we%20want%20you%20to%20use%20the%20Internet%27s%20vast%20array%20of%20information%2C%20tools%2C%20and%20opportunities%20with%20complete%20co "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.panicaway.com%2Fprivacy&Title=Privacy "BlinkList")
-  * 
-
