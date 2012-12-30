@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mychristiancare.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510043702id_/http%3A//mychristiancare.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychristiancare.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230233730id_/http%3A//mychristiancare.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Christian Care ministry privacy policy
 
