@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2012-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120113213111id_/http%3A//www.adforum.com/help/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adforum.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230165513id_/http%3A//www.adforum.com/pages/help/Privacy_Policy.html) for the most accurate reproduction.*
 
-# AdForum: Advertising Agencies, TV Commercials, Commercial Ads, Award Winning Ads
+# AdForum Privacy Policy
 
-### [Other Privacy Issues](https://web.archive.org/web/20120113213111id_/http%3A//www.adforum.com/help/privacy_policy.asp?#18)
+### [Other Privacy Issues](https://web.archive.org/web/20121230165513id_/http%3A//www.adforum.com/pages/help/privacy_policy.html?#18)
 
 **WHAT INFORMATION WE COLLECT AND WHY**
 
@@ -49,7 +49,7 @@ Users and prospects will occasionally receive information on products, services 
 
 Our users are given the opportunity to "opt-out" of having their personal information used for marketing purposes not directly related to out site.   
 Users who no longer wish to receive our newsletters, e-alerts or promotional materials may opt-out by:   
-\- Removing their email address from our database at: [click here](http://www.adforum.com/Email/Contact_Email.asp?id=1&ms=Technical%20Support)   
+\- Removing their email address from our database at: [click here](http://www.adforum.com/Email/Contact_Email.html?id=1&ms=Technical%20Support)   
 \- Replying to the email message with the word UNSUBSCRIBE in the subject line   
 \- Sending a letter to MayDream, Information Center, 70 Hudson Street, Office 4B, Hoboken, NJ 07030, USA   
 When the user makes an “unsubscribe” request we commit to remove the email address from our mailing lists as soon as possible, and usually before the next mailing. 
@@ -82,11 +82,11 @@ OpenX, our digital advertising service, also uses cookies to collect information
 
 We provide a way to correct or update user personal data from our records should information change. For a user who no longer desires to be on our mailing list, see our opt-out process.  
 A delay of 3 days applies to corrections and updates of personal information as Maydream attempts to verify the identity of a user requesting such changes to their information before they are made.  
-To correct or update personal information, send an email to our [Customer Support Department](https://web.archive.org/Email/Contact_Email.asp?id=1&ms=Technical%20Support) or send a letter to MayDream, Information Center, 70 Hudson Street, Office 4B, Hoboken, NJ 07030, USA. 
+To correct or update personal information, send an email to our [Customer Support Department](https://web.archive.org/Email/Contact_Email.html?id=1&ms=Technical%20Support) or send a letter to MayDream, Information Center, 70 Hudson Street, Office 4B, Hoboken, NJ 07030, USA. 
 
 ###  9\. Accessing your information
 
-To review your personal or business information held by Maydream, please [address us an email to this effect](https://web.archive.org/Email/Contact_Email.asp?id=1&ms=Technical%20Support) or write to MayDream, Information Center, 80 Park Avenue, Office 3, Hoboken, NJ 07030, USA. We will ensure you are who you claim before we disclose any information. 
+To review your personal or business information held by Maydream, please [address us an email to this effect](https://web.archive.org/Email/Contact_Email.html?id=1&ms=Technical%20Support) or write to MayDream, Information Center, 80 Park Avenue, Office 3, Hoboken, NJ 07030, USA. We will ensure you are who you claim before we disclose any information. 
 
 ###  1\. Commitment to Data Security
 
@@ -100,6 +100,6 @@ This website contains links to other websites. Please be aware that Maydream is 
 
 This Privacy Policy was last updated on August 12, 2003. When we change our Privacy Policy, we will post a message on our homepage to that effect with a link to the revised Policy. In this way, users will always be aware of what information we collect, how we use it, and under which circumstances we may disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of email and users will be given a choice as to whether or not Maydream may use their information in this different manner. 
 
-If you have general inquiries regarding the privacy or security practices of Maydream, please contact us by [email](https://web.archive.org/Email/Contact_Email.asp?id=1&ms=Technical%20Support). 
+If you have general inquiries regarding the privacy or security practices of Maydream, please contact us by [email](https://web.archive.org/Email/Contact_Email.html?id=1&ms=Technical%20Support). 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
