@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsmarket.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504005330id_/http%3A//www.hsmarket.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsmarket.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193223id_/http%3A//www.hsmarket.com/privacy_policy.php) for the most accurate reproduction.*
 
 # HSMARKET - Web Directory- Privacy Policy
 
