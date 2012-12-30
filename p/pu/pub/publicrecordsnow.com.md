@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicrecordsnow.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624084250id_/http%3A//www.publicrecordsnow.com/static/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicrecordsnow.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230102035id_/http%3A//www.publicrecordsnow.com/static/view/privacy) for the most accurate reproduction.*
 
 # PublicRecordsNow.com | People Search & People Finder Search Engine
 
@@ -89,15 +89,9 @@ Please refer to the Federal Trade Commission's web site at <http://www.ftc.gov/b
 
 To the extent that user credit card-specific information, or alternate user payment method information, is collected by us and/or any of our partners and affiliates, this information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without the user's prior informed consent. Notwithstanding the foregoing, PublicRecordsNow.com, our partners, affiliates and/or subsidiaries reserve the right to share with third parties the fact that we have credit card information on file for specific users but we will not share the specific credit card information with third parties without the user's prior informed consent.
 
-We value your privacy and, upon request, can block your records from being shown in many, but not all, of our search results. To do so, you should contact us by writing a letter, signed by you (we do not accept any unsigned requests or substitute service), giving us your:
+We value your privacy and, upon request, can block your records from being shown in many, but not all, of our search results. To do so please click the link below:
 
-  * First name
-  * Last name
-  * Middle initial
-  * Aliases and A.K.A.'s
-  * Complete current address
-  * Complete former addresses going back 20 years
-  * Date of Birth - including month, day, and year
+  * [www.peoplefinders.com/manage](http://www.peoplefinders.com/manage)
 
 
 
