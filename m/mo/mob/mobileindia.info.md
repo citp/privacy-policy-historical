@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileindia.info privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621203256id_/http%3A//www.mobileindia.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileindia.info privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230101925id_/http%3A//www.mobileindia.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile India
 
