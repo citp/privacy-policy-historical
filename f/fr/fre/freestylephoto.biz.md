@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestylephoto.biz privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504014234id_/http%3A//www.freestylephoto.biz/c_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestylephoto.biz privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184521id_/http%3A//freestylephoto.biz/c_privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Freestyle Photographic Supplies
 
