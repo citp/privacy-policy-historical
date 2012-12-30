@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mixcrate.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513172810id_/http%3A//www.mixcrate.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixcrate.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231002856id_/http%3A//www.mixcrate.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mixcrate
+
+Sign in is required for this action.
 
 Last revised: January 12, 2011 
 
