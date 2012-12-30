@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agorafinancial.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622022120id_/http%3A//agorafinancial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agorafinancial.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230211005id_/http%3A//agorafinancial.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
