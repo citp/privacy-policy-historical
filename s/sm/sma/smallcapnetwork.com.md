@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523074653id_/http%3A//www.smallcapnetwork.com/Privacy-Policy/s/page/view/p/mid/1/id/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230051712id_/http%3A//www.smallcapnetwork.com/Privacy-Policy/s/page/view/p/mid/1/id/3) for the most accurate reproduction.*
 
 # Privacy Policy : Documents
 
@@ -128,5 +128,3 @@ Bonita, CA  91902
 * * *
 
 Last Updated: June 14, 2011
-
-Email addresses provided to SCN are kept on a secure server. SCN does however make available both email and postal information to select affiliate and advertisers. Email advertisers who wish to advertise to SCN's members are required to comply with CAN-SPAM legislation, and provide Members with an easy process of removing from future offers, as well as provide a "Do Not Mail" option for members who do not wish to receive any further communication from a specific advertiser. Members can elect to receive offers directly from SCN as well as sponsorship messages from our partners. Members can elect to discontinue receiving third party advertisements from SCN, while continuing to receive free newsletter content. SCN will not sell to third parties the personally identifiable information of our subscribers except in connection with the sale of all or substantially all of SCN's assets.
