@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcardmania.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625002659id_/http%3A//www.postcardmania.com/about-postcardmania/privacy-policy/%3Fhp%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcardmania.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184844id_/http%3A//www.postcardmania.com/about-postcardmania/privacy-policy/%3Fhp%3D2) for the most accurate reproduction.*
 
 # PostcardMania.com Privacy Policy
 
@@ -46,6 +46,14 @@ Cookies are pieces of information that a Web Site transfers to your hard drive t
 (iii) To ensure that you are not asked to register twice;   
 (v) To track preferences and to improve and update our Web Site; and   
 (vi) To track the progress and number of entries in some of our promotions and contests. 
+
+This site uses Google remarketing or similar audiences to advertise online.
+
+Third-party vendors, including Google, show ads related to this website and products/services described herein on sites across the Internet.
+
+Third-party vendors, including Google, use cookies to serve ads based on someone's pastvisits to this website.
+
+You can opt out of Google's use of cookies by visiting the [Ads Preferences Manager](http://www.google.com/ads/preferences/ "Google Ads Preferences"). Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/ "Consumer Opt-Out").
 
 **With whom is the information shared?**
 
