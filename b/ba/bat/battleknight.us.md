@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battleknight.us privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233301id_/http%3A//agb.gameforge.de/index.php%3Flang%3Dus%26art%3Ddatenschutz%26%26f_text%3Dffcc66%26f_text_hover%3Dffffff%26f_text_h%3D8e8e8e%26f_text_hr%3Dffffff%26f_text_hrbg%3Dffcc66%26f_text_hrborder%3D26324c%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3D000000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleknight.us privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230213421id_/http%3A//agb.gameforge.de/index.php%3Flang%3Dus%26art%3Ddatenschutz%26%26f_text%3Dffcc66%26f_text_hover%3Dffffff%26f_text_h%3D8e8e8e%26f_text_hr%3Dffffff%26f_text_hrbg%3Dffcc66%26f_text_hrborder%3D26324c%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3D000000) for the most accurate reproduction.*
 
 # Gameforge
 
