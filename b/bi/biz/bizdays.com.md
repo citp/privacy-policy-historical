@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizdays.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232250id_/http%3A//www.bizdays.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizdays.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183831id_/http%3A//bizdays.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Business Search Engine and Business Directory -BizDays.com
 
