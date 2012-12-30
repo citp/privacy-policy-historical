@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623055425id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182155id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,6 +59,7 @@ Forums
 [Fiberglass & Fabrication](http://www.the12volt.com/installbay/forum_topics.asp~FID~16 "Fiberglass, Fabrication & Interiors")  
 [General Discussion](http://www.the12volt.com/installbay/forum_topics.asp~FID~1 "General Discussion")  
 [Lights, Neon, LEDs, HIDs](http://www.the12volt.com/installbay/forum_topics.asp~FID~18 "Lights, Neon, LEDs, HIDs")  
+[Marine Electronics](http://www.the12volt.com/installbay/forum_topics.asp~FID~25 "Marine Electronics")  
 [Miscellaneous](http://www.the12volt.com/installbay/forum_topics.asp~FID~4 "Miscellaneous - Off Topic")  
 [Mobile Video & Navigation](http://www.the12volt.com/installbay/forum_topics.asp~FID~9 "Mobile Video, Navigation")  
 [Motorcycle Electronics](http://www.the12volt.com/installbay/forum_topics.asp~FID~21 "Motorcycle Electronics")  
