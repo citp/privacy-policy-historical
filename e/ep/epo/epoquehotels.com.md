@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epoquehotels.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511223830id_/http%3A//www.epoquehotels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epoquehotels.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230212854id_/http%3A//www.epoquehotels.com/privacy.html) for the most accurate reproduction.*
 
 # EPOQUE HOTELS: Privacy Policy
 
@@ -44,8 +44,6 @@ A new trend in hospitality.
 
 Discover our collection of over 300 innovative and creative boutique hotels located in major destinations [worldwide](https://web.archive.org/directory.html).
 
-[Epoque Hotels Presentation](http://epoquehotelsrep.com/)
-
-[](http://www.epoquehotels.com/gift)
+[Epoque Hotels Presentation](https://web.archive.org/downloads/flashpresent/)
 
 [Home](http://www.epoquehotels.com/) » Frequently asked questions
