@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nick.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629032913id_/http%3A//www.nick.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nick.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181628id_/http%3A//www.nick.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Nick | Privacy policy
 
 Privacy policy
 
-Dated February 2012
+Dated September 2012
 
 ##  What Is A Privacy Policy?
 
-Nick UK’s privacy policy is just Nick UK’s way of telling you how Nick UK UK Ltd (a company incorporated in England registration number 2797365) of 15-18 Rathbone Place, London, W1T 1HU (or any successor and/or associated company) (Nick UK) will collect, store and use any information, which you provide to Nick UK, such as your name, age, address, and telephone number or anything else. It also tells you the choices you can make about how the information you provide to Nick UK is collected and used. 
+Nick UK’s privacy policy is just Nick UK’s way of telling you how Nickelodeon UK Ltd (a company incorporated in England registration number 2797365) of 17-29 Hawley Crescent, London NW1 8TT (or any successor and/or associated company) (Nick UK) will collect, store and use any information, which you provide to Nick UK, such as your name, age, address, and telephone number or anything else. It also tells you the choices you can make about how the information you provide to Nick UK is collected and used. 
 
 It is important you read through this policy and be sure to get your parent(s)/guardian(s) to read and discuss it with you.
 
@@ -42,7 +42,7 @@ If Nick UK:
 
 (a) finds out you’ve cheated; 
 
-(b) discovers you’ve given Nick UK fake details for your parent(s)/guardian(s) \- very naughty!!; or 
+(b) discovers you’ve given Nick UK fake details for your parent(s)/guardian(s) - very naughty!!; or 
 
 (c) Nick UK does not get a reply from your parent(s)/guardian(s) within a reasonable time (being approximately 5 weeks if you’ve asked to receive Nick UK’s newsletter but for competitions, this time period will be a lot shorter, sometimes maybe only 24 hours);
 
@@ -80,7 +80,11 @@ Apart from the above, Nick UK will only pass on your information to third partie
 
 ##  International Use Of Your Information
 
-As Nick UK and its associated companies operate throughout the world, it may be necessary to transfer your information outside of the UK or even Europe. If Nick UK needs to do this, Nick UK promises that any of Nick UK’s associated companies will comply with UK and/or European law in respect of data protection and will comply with the terms of this policy. 
+As Nick UK and its associated companies operate throughout the world, it may be necessary to transfer your information outside of the UK or even Europe. If Nick UK needs to do this, Nick UK promises that any of Nick UK’s associated companies will comply with UK and/or European Union (EU) law in respect of data protection and will comply with the terms of this policy. 
+
+In particular, Nick UK may transfer your information to its associated companies in the United States, such as Nick US. These companies comply with a US-EU agreement called Safe Harbor, which ensures that US companies satisfy European laws about how your information is used. More information on the Safe Harbor Privacy Policy can be found [here](http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf).
+
+If your information is passed on to any international third parties, Nick UK will make sure that they also subscribe to Safe Harbor principles, satisfy European laws or agree in writing to provide the same level of protection as the Safe Harbor principles.
 
 ##  Cookies and IP Addresses – What Are They?
 
@@ -103,10 +107,10 @@ For Nick Jr. viewers: [http://www.nickjr.co.uk/info/contact](http://www.nickjr.c
 For all other viewers: [http://www.nick.co.uk/info/contactus/](http://www.nick.co.uk/info/contactus)
 
 The Data Protection Officer  
-Nick UK UK Limited  
-15-18 Rathbone Place  
+Nickelodeon UK Limited  
+17-29 Hawley Crescent  
 London  
-W1T 1HU.
+NW1 8TT.
 
 ##  How To Remove Or Amend Your Information
 
