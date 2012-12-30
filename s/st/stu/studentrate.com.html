@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the studentrate.com privacy policy that was archived on 2012-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120614105322id_/http%3A//studentrate.com/StudentRate/Assets/StaticPages/Privacystatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studentrate.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230203318id_/http%3A//www.studentrate.com/StudentRate/Assets/StaticPages/Privacystatement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="Content-Language" content="en-us"><meta http-equiv="X-UA-Compatible" content="IE=8"><meta id="ctl00_MetaDescription" name="description" content="Studentrate deal page for user login and displaying hottest local and national deals.  User can search deal for school or deal category."><meta id="ctl00_MetaKeyword" name="keyword" content="Student Rate, School Reviews, Deals, Hot, Local, Event, Students, Ratings, Best of everything,"><meta name="verify-v1" content="pYi8atLa4nThjOP13EYCXSPl8jh/kW+faN23ylnCKwU="><title>
 	StudentRate - Privacy Statement
@@ -45,6 +45,43 @@
 <!--
     var loginFailed = false;
 
+    function IsiPhoneOriPad() {
+        var i = 0,
+            isiPhoneOriPad = false,
+            iDevice = ['iPad', 'iPhone', 'iPod'];
+
+        for (; i < iDevice.length; i++) {
+            if (navigator.platform.toLowerCase() === iDevice[i].toLowerCase() ||
+                    navigator.appVersion.toLowerCase().indexOf(iDevice[i].toLowerCase()) >= 0)
+            { isiPhoneOriPad = true; break; }
+        }
+
+        return isiPhoneOriPad;
+    }
+
+    function RelocatePopupWindow(oWindow) {
+
+        if (!oWindow) {
+            return;
+        }
+
+        var i = 0,
+            isSmartPhone = false,
+            iDevice = ['iPad', 'iPhone', 'iPod', 'Android'];
+
+        for (; i < iDevice.length; i++) {
+            if (navigator.platform.toLowerCase() === iDevice[i].toLowerCase() ||
+                    navigator.appVersion.toLowerCase().indexOf(iDevice[i].toLowerCase()) >= 0)
+            { isSmartPhone = true; break; }
+        }
+
+//        if (isSmartPhone) {
+//            oWindow.moveTo(0, 0);
+//        } else {
+            oWindow.Center();
+//        }
+    }
+
     function OnClientClose(sender, args) {
         window.location.reload(true);
     }
@@ -52,14 +89,14 @@
     function ShowRegisterFromFacebook() {
         oWindow = window.radopen('../../Register.aspx', 'DialogWindow');
         oWindow.SetSize(500, 450);
-        oWindow.Center();
+        RelocatePopupWindow(oWindow);
     }
 
     function ShowRegisterAndRedirect(target) {
         var oWindow;
         oWindow = window.radopen('../../Login.aspx' + '?target=' + target, 'CouponWinwod');
         oWindow.SetSize(550, 635);
-        oWindow.Center();
+        RelocatePopupWindow(oWindow);
     }
 
     function ShowSimpleRegister(dealid, locationid, register) {
@@ -83,7 +120,7 @@
         }
 
         oWindow.SetSize(500, 460);
-        oWindow.Center();
+        RelocatePopupWindow(oWindow);
     }
 
     function ShowRegister(dealid, locationid, register) {
@@ -112,13 +149,13 @@
         }
         
         oWindow.SetSize(450, 395);
-        oWindow.Center();
+        RelocatePopupWindow(oWindow);
     }
 
     function ShowRegistrationPrompt(link, vendorId) {
         oWindow = window.radopen('../../RegistrationPrompt.aspx' + '?url=' + link + '&vendorId=' + vendorId, 'DialogWindow');
         oWindow.SetSize(600, 559);
-        oWindow.Center();
+        RelocatePopupWindow(oWindow);
     }
 
     function ShowCashBackDetails() {
@@ -255,7 +292,7 @@ function OnClientDropDownOpenedHandler(sender, eventArgs)
 <link href="/StudentRate/WebResource.axd?d=nONPvSkmsEpC8KSjbV1zY1pfrS6d8iGujiunQ3TKNElSbrXTyRN5SakF0Bl9d-ExjE27DAefH4TwrFaHSc2hu8L402FiPM09Ll5YaArx_qe6D6g9AYgUZBn5c2DDHkcFp_u6CQ2&amp;t=634707996925070313" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/StudentRate/WebResource.axd?d=pOcdzHr5g_BNnlq9MjCpEzDMnfjUxU1QieQwN4WeJSdyjrEOJ5R6Ov-6TCqcIdYzAxH1_9RJGCZjpLXpY7Pz_AXl8OUPlJgNg5V7U4xj8EvNWQnRh01SRKzEb6L63b96f7pv0lKEMVGD_05piiKESbV29gQ1&amp;t=634707996925070313" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 		
 
-<body onload="placeIt(); initialize();MM_preloadImages('../Assets/Images/newdesign/ratings_mouseover.gif','../Assets/Images/newdesign/events_mouseover.gif','../../Assets/Images/newdesign/best_mouseover.gif','../../Assets/Images/newdesign/whatshot_mouseover.gif','../../Assets/Images/newdesign/guides_mouseover.gif')">
+<body onload="placeIt(); initialize();MM_preloadImages('../Images/ratings_mouseover.gif','../Images/events_mouseover.gif','../Images/best_mouseover.gif','../Images/whatshot_mouseover.gif','../Images/guides_mouseover.gif')">
     <div id="fb-root">
     </div>
     <script>
@@ -300,11 +337,11 @@ function OnClientDropDownOpenedHandler(sender, eventArgs)
 <input name="ctl00$hdnDomain" type="hidden" id="ctl00_hdnDomain" value="all">
 
  
-     <script src="../../Assets/Scripts/astracker.js" type="text/javascript">
+     <script src="../Scripts/astracker.js" type="text/javascript">
     </script>
     <!--Site Container Open-->
     <form name="aspnetForm" method="post" action="Privacystatement.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgRmD2QWBAIDDxYCHgdjb250ZW50BYgBU3R1ZGVudHJhdGUgZGVhbCBwYWdlIGZvciB1c2VyIGxvZ2luIGFuZCBkaXNwbGF5aW5nIGhvdHRlc3QgbG9jYWwgYW5kIG5hdGlvbmFsIGRlYWxzLiAgVXNlciBjYW4gc2VhcmNoIGRlYWwgZm9yIHNjaG9vbCBvciBkZWFsIGNhdGVnb3J5LmQCBA8WAh8ABV5TdHVkZW50IFJhdGUsIFNjaG9vbCBSZXZpZXdzLCBEZWFscywgSG90LCBMb2NhbCwgRXZlbnQsIFN0dWRlbnRzLCBSYXRpbmdzLCBCZXN0IG9mIGV2ZXJ5dGhpbmcsZAICD2QWEAICD2QWBAIBDw8WAh4HVmlzaWJsZWhkZAIDDw8WAh8BaGRkAgMPFgIeBFRleHQFmQE8YSBjbGFzcz0nYW51bScgaHJlZj0nL1N0dWRlbnRSYXRlL1NjaG9vbC9EZWFscy9EZWFsU3VtbWFyeS5hc3B4P3NjaG9vbD1hbGwmdGl0bGU9VmVuZG9ycyc+PHAgY2xhc3M9J251bScgcnVuYXQ9J3NlcnZlcicgc3R5bGU9J2N1cnNvcjpoYW5kOyc+MTkxPC9wPjwvYT5kAgUPFgIfAgUUQ2hvb3NlIHlvdXIgbG9jYXRpb25kAggPFgIeBGhyZWYFOH4vU2Nob29sL0RlYWxzL0RlYWxTdW1tYXJ5LmFzcHg/c2Nob29sPWFsbCZ0aXRsZT1WZW5kb3JzZAIJDxYCHwMFPH4vU2Nob29sL0RlYWxzL0RlYWxTdW1tYXJ5LmFzcHg/c2Nob29sPWFsbCZ0aXRsZT1Mb2NhbF9EZWFsc2QCEw8WAh8DBS9+L1NjaG9vbC9CZXN0T2ZFdmVyeVRoaW5nL0Jlc3RPZkV2ZXJ5VGhpbmcuYXNweGQCFA8WAh8DBUx+L1NjaG9vbC9EZWFscy9EZWFsU2VhcmNoUmVzdWx0LmFzcHg/U2Nob29sSWQ9MCZDYXRlZ29yeUlkPTAmTG9jYWw9MSZzY2hvb2w9ZAIVDxQrAAIPFgIeF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naGQQFgJmAgEWAg8WAh8EaGQPFgIfBGhkDxYCZmYWAQVyVGVsZXJpay5XZWIuVUkuUmFkV2luZG93LCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDA5LjMuMTIwOC4zNSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FgQCAw8PFgIfBGhkZAIEDw8WAh8EaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBRdjdGwwMCRSYWRXaW5kb3dNYW5hZ2VyMQUSY3RsMDAkRGlhbG9nV2luZG93BRJjdGwwMCRDb3Vwb25XaW53b2RxTc0AI4EOLxqz2X+ntUR91OSq6Q==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgRmD2QWBAIDDxYCHgdjb250ZW50BYgBU3R1ZGVudHJhdGUgZGVhbCBwYWdlIGZvciB1c2VyIGxvZ2luIGFuZCBkaXNwbGF5aW5nIGhvdHRlc3QgbG9jYWwgYW5kIG5hdGlvbmFsIGRlYWxzLiAgVXNlciBjYW4gc2VhcmNoIGRlYWwgZm9yIHNjaG9vbCBvciBkZWFsIGNhdGVnb3J5LmQCBA8WAh8ABV5TdHVkZW50IFJhdGUsIFNjaG9vbCBSZXZpZXdzLCBEZWFscywgSG90LCBMb2NhbCwgRXZlbnQsIFN0dWRlbnRzLCBSYXRpbmdzLCBCZXN0IG9mIGV2ZXJ5dGhpbmcsZAICD2QWEAICD2QWBAIBDw8WAh4HVmlzaWJsZWhkZAIDDw8WAh8BaGRkAgMPFgIeBFRleHQFmQE8YSBjbGFzcz0nYW51bScgaHJlZj0nL1N0dWRlbnRSYXRlL1NjaG9vbC9EZWFscy9EZWFsU3VtbWFyeS5hc3B4P3NjaG9vbD1hbGwmdGl0bGU9VmVuZG9ycyc+PHAgY2xhc3M9J251bScgcnVuYXQ9J3NlcnZlcicgc3R5bGU9J2N1cnNvcjpoYW5kOyc+MjQxPC9wPjwvYT5kAgUPFgIfAgUUQ2hvb3NlIHlvdXIgbG9jYXRpb25kAggPFgIeBGhyZWYFC34vYWxsLURlYWxzZAIJDxYCHwMFPH4vU2Nob29sL0RlYWxzL0RlYWxTdW1tYXJ5LmFzcHg/c2Nob29sPWFsbCZ0aXRsZT1Mb2NhbF9EZWFsc2QCEw8WAh8DBS9+L1NjaG9vbC9CZXN0T2ZFdmVyeVRoaW5nL0Jlc3RPZkV2ZXJ5VGhpbmcuYXNweGQCFA8WAh8DBUx+L1NjaG9vbC9EZWFscy9EZWFsU2VhcmNoUmVzdWx0LmFzcHg/U2Nob29sSWQ9MCZDYXRlZ29yeUlkPTAmTG9jYWw9MSZzY2hvb2w9ZAIWDxQrAAIPFgIeF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naGQQFgJmAgEWAg8WAh8EaGQPFgIfBGhkDxYCZmYWAQVyVGVsZXJpay5XZWIuVUkuUmFkV2luZG93LCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDA5LjMuMTIwOC4zNSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0FgQCAw8PFgIfBGhkZAIEDw8WAh8EaGRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBRdjdGwwMCRSYWRXaW5kb3dNYW5hZ2VyMQUSY3RsMDAkRGlhbG9nV2luZG93BRJjdGwwMCRDb3Vwb25XaW53b2RuoxipLchloOiTymgHmf5QF+Zfyg==">
 
 
 <script src="/StudentRate/ScriptResource.axd?d=o12DG1B3ji1SVB0EbxpufNvQC84_v76SqwcaZrmqM7fP1BmtUOU6sBBcUG6ZMRh7WSODvR4c_t1o0KSYTugkmFxoaAzIGygCC4bXlfZLhk5DR6Q0zkhB6-PphZJQb-Fx7qWMEb3CoP36amFBViqf5s6qzDVeR3WT8G07JuIvCB6Gyv5p0&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
@@ -321,7 +358,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <script src="/StudentRate/ScriptResource.axd?d=yM-lQj_FAhCe1nEQO2gHBYy_6dH4YjX17trs6le3S76-ZZFlj92WiqR3_IeapbO7h-sbAup_87Jcis0hdzximrGEdTj4xw2opWe82n4ggMW9oOWinz2vcker5hOI4lXUbYrhxssQQQGF5Ce8MFzPkWdlQl9ynjPigj-LybyMasHXQZ8y0&amp;t=46a80b48" type="text/javascript"></script>
 <script src="/StudentRate/ScriptResource.axd?d=Zk13XL5SzDgup6Rul3SaXdHHRsH1dZgBeH6jWrWxhsCCaN5pboCKmVCbdN_Y_P-eFnB4XhYhxCfsVdOq-XWkf5PVimK6MtlsNlAy6dXdBWCmE6ukm3T6r1PzJIA9RWACqSWpjRsCFUl-TwiZCzYkc4EvEgI1&amp;t=46a80b48" type="text/javascript"></script>
 <script src="/StudentRate/ScriptResource.axd?d=ETnwh6sAwdf7Pgb3vIblRrOVqX1NzMt2cKZQa1cth4qU4UkMWCFY7AvcGpzUrzSltSpVcjizSA593v30UNoJtfuCd9L4pZ3CuZhvkNwhvVKIE1wn3CeppKfbI7sWv2aZYiVgRTw6uyj3E2lI1-a1-T-6mG81&amp;t=46a80b48" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKPvYe6DwLnzMr5CQLo84CFAQKfqpy3DALe8/SEAQLk88yEAQL28+CDAQKisI/AAfZZa/tci8+4VIYXAs157ywW9uDT"> 
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCALghMnwCwLnzMr5CQLo84CFAQKfqpy3DALe8/SEAQLk88yEAQL28+CDAQKisI/AAdgvUyiqn5Q4IkrSYA9uIY2qMxth"> 
     
     
 
@@ -365,7 +402,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 			<!-- Deals info -->
 			<div class="deals-info">
-				<a class="anum" href="/StudentRate/School/Deals/DealSummary.aspx?school=all&amp;title=Vendors"><p class="num" runat="server" style="cursor:hand;">191</p></a>
+				<a class="anum" href="/StudentRate/School/Deals/DealSummary.aspx?school=all&amp;title=Vendors"><p class="num" runat="server" style="cursor:hand;">241</p></a>
 				<p> <br><strong>Choose your location
 				</strong><a style="text-decoration: underline; color:Black;" href="#" onclick="ShowChangeLocation();return false;">change location</a></p>
 			</div>
@@ -400,17 +437,28 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 					        </div>
 			<!-- End Search -->
 
-			<ul>
+			
+<ul>
 				<li id="Li1"><a href="../../" id="ctl00_Home_Anchor">home</a></li>
-				<li id="b-nationals"><a href="../../School/Deals/DealSummary.aspx?school=all&amp;title=Vendors" id="ctl00_nationalAnchor">national</a></li>
+
+				<li id="b-nationals"><a href="../../all-Deals" id="ctl00_nationalAnchor">deals</a></li>
+
 				<li id="b-locals"><a href="../../School/Deals/DealSummary.aspx?school=all&amp;title=Local_Deals" id="ctl00_localsAnchor">local</a></li>
-				<li id="Li2"><a href="../../School/Deals/Textbooks.aspx" id="ctl00_Textbooks_Anchor">textbooks</a></li>
-				<li id="li-Travel"><a href="../../School/Deals/Travel.aspx" id="ctl00_Travel_Anchor">travel</a></li>
+
+				<li id="li-blog"><a href="../../wireless/wireless.aspx" id="ctl00_Blog_Anchor">wireless</a></li>
+
 				<li id="b-studentloans"><a href="../../School/Deals/StudentLoans.aspx" id="ctl00_Money_Anchor">money</a></li>
-				<li id="b-giveaways"><a href="../../School/Deals/Drawing.aspx" id="ctl00_Drawing_Anchor">giveaways</a></li>
-				<li id="li-blog"><a href="../../blog/default.aspx" id="ctl00_Blog_Anchor">blog</a></li>
-				<li id="Li3"><a href="../../forum/default.aspx" id="ctl00_Forum_Anchor">forum</a></li>
-			</ul>
+				<li id="Li2"><a href="../../School/Deals/Textbooks.aspx" id="ctl00_Textbooks_Anchor">textbook</a></li>
+
+				<li id="li-Travel"><a href="../../School/Deals/Travel.aspx" id="ctl00_Travel_Anchor">travel</a></li>
+
+				<li id="b-giveaways"><a href="../../School/Deals/Drawing.aspx" id="ctl00_Drawing_Anchor">giveaway</a></li>
+
+				<li id="Li3"><a href="../../fashion/fashion.aspx" id="ctl00_Forum_Anchor">Style</a></li>
+							
+</ul>
+
+
 			
 			<div class="cl">&nbsp;</div>
 		</div>
@@ -592,7 +640,19 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 			
 			<!-- Footer -->
 			<div id="footer">
-			<p><a href="http://www.studentrate.com">Studentrate.com <span>|</span> All rights reserved </a> <span>|</span> <a href="Privacystatement.aspx">Privacy Statement</a> <span>|</span> <a href="TermsOfUse.aspx">Terms of Use</a> <span>|</span> <a href="contactus.aspx">Contact us</a> <span>|</span> <a href="../../guides/guides.aspx" id="ctl00_Guides_Anchor">Guides</a> <span>|</span> <a href="../../vendor/vendors.aspx" id="ctl00_Vendors_Anchor">Vendors</a> <span>|</span> <a href="../../School/BestOfEveryThing/BestOfEveryThing.aspx" id="ctl00_Best_Anchor"></a>  <a href="../../School/Deals/DealSearchResult.aspx?SchoolId=0&amp;CategoryId=0&amp;Local=1&amp;school=" id="ctl00_Deals_Anchor">Deal Search</a> </p>
+			
+<p>
+<a href="http://www.studentrate.com">Studentrate.com <span>|</span> All rights reserved </a> <span>|</span> 
+<a href="Privacystatement.aspx">Privacy Statement</a> <span>|</span> 
+<a href="TermsOfUse.aspx">Terms of Use</a> <span>|</span> 
+<a href="contactus.aspx">Contact us</a> <span>|</span> 
+<a href="../../guides/guides.aspx" id="ctl00_Guides_Anchor">Guides</a> <span>|</span> 
+<a href="../../vendor/vendors.aspx" id="ctl00_Vendors_Anchor">Vendors</a> <span>|</span> 
+<a href="../../School/BestOfEveryThing/BestOfEveryThing.aspx" id="ctl00_Best_Anchor"></a>  
+<a href="../../School/Deals/DealSearchResult.aspx?SchoolId=0&amp;CategoryId=0&amp;Local=1&amp;school=" id="ctl00_Deals_Anchor">Deal Search</a> <span>|</span> 
+<a href="../../forum/Default.aspx" id="ctl00_forum">Forum</a> 
+</p>
+
 		</div>
 	</div>
 		<!-- / Page -->				
