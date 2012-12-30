@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpwishlist.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627095422id_/http%3A//wishlistproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpwishlist.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230201924id_/http%3A//wishlistproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # WishList Products | Powerful Web Solutions For Today's Small Business Owner | Privacy Policy
 
@@ -107,5 +107,5 @@ If at anytime you have a cause that needs to be disputed please fill out the [Tr
 
 Respectfully,
 
-Stu McLaren and Tracy Childers Co-Founders  
+Stu McLaren (Co-Founder) & Nuwan Bandara (Co-Founder/Sales Director)  
 WishListProducts.com
