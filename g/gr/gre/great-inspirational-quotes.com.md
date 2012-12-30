@@ -1,69 +1,76 @@
-> *The following text is extracted and transformed from the great-inspirational-quotes.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405060333id_/http%3A//www.great-inspirational-quotes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the great-inspirational-quotes.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183134id_/http%3A//www.great-inspirational-quotes.com/privacy.html) for the most accurate reproduction.*
 
-# Marketing For Professionals - Privacy Policy
+# great-inspirational-quotes.com | Privacy Policy
 
-**Privacy Policy**
+great-inspirational-quotes.com
 
-Great Inspirational Quotes website strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience.
+**What information do we collect?**
 
-We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy.
+We collect information from you when you register on our site or subscribe to our newsletter.
 
-We will never sell, barter, or rent your email address to any unauthorized third party. Period.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-**How we gather information from users**
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..   
+**DoubleClick DART Cookie**
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site.
+.:: Google, as a third party vendor, uses cookies to serve ads on great-inspirational-quotes.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to great-inspirational-quotes.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html
 
-Like most websites, Great Inspirational Quotes website also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......  
+Google Adsense  
+Commission Junction  
+Widget Bucks  
+Adbrite  
+Clickbank  
+Epic / Azoogle  
+Chitika  
+Linkshare  
+Amazon  
+Kontera  
+Advertising.com  
+CPAStorm  
+Burst  
+Valueclick  
+InfoLinks  
+Vibrant Media  
+24/7 Real Media  
+Tribal Fusion  
+Casale  
+Tremor Media  
+Adify  
 
-As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site as features according to your preferences.
 
-**What we do with the information we collect**
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on great-inspirational-quotes.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-Like other web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive).
+great-inspirational-quotes.com has no access to or control over these cookies that are used by third-party advertisers.
 
-Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. great-inspirational-quotes.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-We may use Personally Identifiable Information collected on Great Inspirational Quotes website to communicate with you about your registration and customization preferences; our privacy policy; services and products offered by Great Inspirational Quotes website, and other topics we think you might find of interest.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
-Personally Identifiable Information collected by Great Inspirational Quotes website may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our web hosting service for example) may access such information. We will use your information only as permitted by law.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets.
+ **What do we use your information for?**
 
-We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+ **How do we protect your information?**
 
-**Affiliated sites, linked sites and advertisements**
+ **Do we use cookies?**
 
-Great Inspirational Quotes website expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices.
+ **Do we disclose any information to outside parties?**
 
-For example, during your visit to our site you may link to, or view as part of a frame on a Great Inspirational Quotes web page, certain content that is actually created or hosted by a third party. Also, through Great Inspirational Quotes website you may be introduced to, or be able to access, information, websites, features, contests, or sweepstakes offered by other parties.
+ **Third party links**
 
-Great Inspirational Quotes website is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+ **California Online Privacy Protection Act Compliance**
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before.
+ **Childrens Online Privacy Protection Act Compliance**
 
-Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Great Inspirational Quotes website does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+ **Online Privacy Policy Only**
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Great Inspirational Quotes website and this policy.
+ **Your Consent**
 
-**Children**
+ **Changes to our Privacy Policy**
 
-Great Inspirational Quotes website does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law.
-
-If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately.
-
-If you believe Great Inspirational Quotes website has any information from or about anyone under 13, please contact us at the address listed below.
-
-**Contacting Us**
-
-If you have any questions about this privacy policy and or the practices described herein, you may contact us by sending an email to: [policy@great-inspirational-quotes.com](mailto:policy@great-inspirational-quotes.com)
-
-**Revisions to this Policy**
-
-Great Inspirational Quotes website reserves the right to revise this policy at any time. Please check this page periodically for changes.
-
-Your continued use of our site following the posting of revisions to these terms will mean you accept those revisions. Information collected prior to the time any revisions is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-Last updated: January 13, 2004
+ **Contacting Us**
