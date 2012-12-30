@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udmercy.edu privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232011id_/http%3A//www.udmercy.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udmercy.edu privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184000id_/http%3A//www.udmercy.edu/privacy.htm) for the most accurate reproduction.*
 
 # Web Privacy Policy | University of Detroit Mercy
 
