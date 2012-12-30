@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516134042id_/http%3A//plan-international.org/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230054826id_/https%3A//plan-international.org/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — Site links — Plan International
 
