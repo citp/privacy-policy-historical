@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealpals.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510114704id_/http%3A//www.dealpals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealpals.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221131id_/http%3A//www.dealpals.com/privacy) for the most accurate reproduction.*
 
 # Best online Bargains |Top online Deals | Best mobile deal| online cloths | smart bargains | DealPals
 
