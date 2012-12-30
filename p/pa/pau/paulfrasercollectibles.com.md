@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paulfrasercollectibles.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524143502id_/http%3A//www.paulfrasercollectibles.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulfrasercollectibles.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181225id_/http%3A//www.paulfrasercollectibles.com/Privacy-%2526-Cookie-Policy) for the most accurate reproduction.*
 
-# Paul Fraser Collectibles | Privacy Policy
+# Paul Fraser Collectibles | Privacy & Cookie Policy
 
 **_"Tika Lifestyles Limited"_   **
 
@@ -38,7 +38,7 @@ For transactions over TLL's website involving particularly sensitive information
 
 **Cookie Policy**
 
-If you have permitted your computer to accept cookies, we may use "cookies" to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a Web server and stored on your computer's hard drive. Cookies track where you travel on our website and what you look at, transact and purchase. They may store the information in your shopping cart, and/or your username and/or password, and we may use them to deliver specific messages to you. A cookie may enable us to relate your use of our website to other information about you, including your personal information. All of these purposes serve to improve and personalise your experience on the website.
+If you have permitted your computer to accept cookies, we may use "cookies" to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a Web server and stored on your computer's hard drive. Cookies track where you travel on our website and what you look at, transact and purchase. They may store the information in your shopping cart, and/or your username and/or password, and we may use them to deliver specific messages to you. A cookie may enable us to relate your use of our website to other information about you, including your personal information. All of these purposes serve to improve and personalise your experience on the website. To opt out from this policy please email us at [info@paulfrasercollectibles.com](mailto:info@paulfrasercollectibles.com).
 
 **Fraudulent Emails**
 
@@ -52,7 +52,7 @@ If we are required to do so by court order, by the government or law enforcement
 
 **Contact**
 
-At any time, you may send an email to _[info@paulfrasercollectibles.com](mailto:info@paulfrasercollectibles.com)_   and request your email address be removed from our lists.
+At any time, you may send an email to _[info@paulfrasercollectibles.com](mailto:info@paulfrasercollectibles.com)_  and request your email address be removed from our lists.
 
 If you have any queries in relation to the use and protection of your personal data please contact us at _[info@paulfrasercollectibles.com](mailto:info@paulfrasercollectibles.com)_
 
