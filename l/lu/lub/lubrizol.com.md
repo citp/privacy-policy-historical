@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lubrizol.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627123127id_/http%3A//www.lubrizol.com/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubrizol.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180832id_/http%3A//lubrizol.com/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - The Lubrizol Corporation
 
