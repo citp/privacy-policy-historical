@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the marketwatch.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630070832id_/http%3A//www.marketwatch.com/support/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketwatch.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230233359id_/http%3A//www.marketwatch.com/support/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" lang="en"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=8">
-	<meta http-equiv="X-UA-Compatible" content="IE=9"> 
-	<meta name="medium" content="video">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <meta name="medium" content="video">
 		<title>Privacy Policy - MarketWatch</title>
     <link rel="shortcut icon" href="http://mw2.wsj.net/MW5/content/images/favicon.ico"> 
     <!--[if IE 7]>
-        <link rel="stylesheet" href="http://mw4.wsj.net/MW5/content/combined/combined-ie7-min-1.0.5054.css" type="text/css"/>
+        <link rel="stylesheet" href="http://mw4.wsj.net/MW5/content/combined/combined-ie7-min-1.0.5218.css" type="text/css"/>
     <![endif]-->
     <!--[if lte IE 6]>
-        <link rel="stylesheet" href="http://mw1.wsj.net/MW5/content/combined/combined-ie6-min-1.0.5054.css" type="text/css"/>
+        <link rel="stylesheet" href="http://mw1.wsj.net/MW5/content/combined/combined-ie6-min-1.0.5218.css" type="text/css"/>
     <![endif]-->
     <!--[if !IE | gt IE 7]><!-->
-        <link rel="stylesheet" href="http://mw2.wsj.net/MW5/content/combined/combined-min-1.0.5054.css" type="text/css">
+        <link rel="stylesheet" href="http://mw2.wsj.net/MW5/content/combined/combined-min-1.0.5218.css" type="text/css">
     <!--<![endif]-->
 	<link rel="stylesheet" href="http://mw4.wsj.net/MW5/content/css/legacy.css" type="text/css">   
-    <script type="text/javascript" src="http://mw1.wsj.net/MW5/content/combined/combined-head-min-1.0.5054.js"></script>
+    <script type="text/javascript" src="http://mw1.wsj.net/MW5/content/combined/combined-head-min-1.0.5218.js"></script>
 	<script type="text/javascript" src="http://mw1.wsj.net/MW5/content/js/jquery.cookie.js"></script>
 
     <script type="text/javascript">
@@ -59,22 +59,55 @@
 
 	<div id="blanket">
 	<!--[if IE 6]><div id="sheet"><![endif]-->
-<!-- MarketWatch.Common.News.WebPackage.Models -->
 
 
-
-
-
-<div id="breakingnews">
-  <div class="slidearea ">
-    <div class="bulletinarea">
-      <span class="bulletinlabel">Bulletin</span>
-      <div class="bulletinholder">
-        <div id="bulletin" class="bulletin">
-		</div>
-      </div>
+<div id="notificationbanner" class="day showing1">
+    
+    <div id="bulletinwrap">
+        <div id="bulletinbanner">
+            <span class="xlabel">Bulletin</span>
+            <span class="meat">
+            </span>
+        </div>
     </div>
-  </div>
+    
+    
+    <div id="investoralertwrap">
+        <div id="investoralertbanner" class=""> 
+            <span class="xlabel">Investor Alert</span>
+            <span class="meat">
+            </span>
+        </div>
+    </div>
+    
+    <div id="daypartwrap">
+
+
+
+
+	
+
+
+
+
+
+<div id="ad_DaypartBannerNewYorkAfterHours" class="advertisement sponsor " style="">
+    <div class="cutouthelper">
+		
+    </div>
+</div>
+	            <div id="daypartbanner" class="current jp beforethebell">       
+                <p class="marketstate">
+                    <span class="state">Tokyo Markets Open in:</span>
+                    <span id="daypartcountdown" class="time"></span>
+                </p>
+                <p class="links">
+                            <a href="/column/market-snapshot">US Market Snapshot</a>
+                            <a href="/investing/currencies/tools">Currencies</a>
+                            <a href="/tools/marketsummary/futures/contracts.asp">Commodities</a>
+                </p>
+            </div>
+    </div>
 </div>
 	<div class="theshadow">
 		<!--[if IE 6]><div id="something"><![endif]-->
@@ -83,7 +116,7 @@
 
 <!--div id="memberarea">
 	<test if="User != null && User.Ext<UserAccount>().Member != null">
-		<p style="float: right">${Html.ActionLink("My MarketWatch", "index", new { controller = "composite", area = "section", page = "my" })} <span class="divider">|</span> !{Html.ActionLink("Sign out", "LogOff", new { area = "User", controller = "Account" }, new { id = "signOutLink" })}</p>
+		<p style="float: right">${Html.ActionLink("My Profile", "index", new { controller = "composite", area = "section", page = "my" })} <span class="divider">|</span> !{Html.ActionLink("Sign out", "LogOff", new { area = "User", controller = "Account" }, new { id = "signOutLink" })}</p>
 		<p>Welcome, ${UserDisplayName}</p>
 	<else/>
 		<p style="float: right"><a id="signInLink" href="~/User/Account/LogOn">Log in</a></p>
@@ -97,6 +130,8 @@
 
     <div id="sitenavplaceholder" class="">
         <nav id="sitenav">
+            
+            <iframe frameborder="0" id="navigationshim" class="noshadow"></iframe>
             <div id="toplevelnav">
                     <div id="featuresnav">
             <div class="menuitem " data-canonical="/" data-tracking="link=MW_Nav_FP">
@@ -111,20 +146,20 @@
             <div class="menuitem " data-canonical="/investing" data-tracking="link=MW_Nav_INV">
                 <a href="/investing?link=MW_Nav_INV">Investing</a>
             </div>
+            <div class="menuitem " data-canonical="/trading-deck" data-tracking="link=MW_Nav_TD">
+                <a href="/trading-deck?link=MW_Nav_TD">Trading Deck</a>
+            </div>
             <div class="menuitem " data-canonical="/personal-finance" data-tracking="link=MW_Nav_PF">
                 <a href="/personal-finance?link=MW_Nav_PF">Personal Finance</a>
             </div>
-            <div class="menuitem " data-canonical="/industries" data-tracking="link=MW_Nav_IND">
-                <a href="/industries?link=MW_Nav_IND">Industries</a>
+            <div class="menuitem " data-canonical="/retirement" data-tracking="link=MW_Nav_Retirement">
+                <a href="/retirement?link=MW_Nav_Retirement">Retirement</a>
             </div>
             <div class="menuitem " data-canonical="/economy-politics" data-tracking="link=MW_Nav_EP">
                 <a href="/economy-politics?link=MW_Nav_EP">Economy/Politics</a>
             </div>
-            <div class="menuitem " data-canonical="/trading-deck" data-tracking="link=MW_Nav_TD">
-                <a href="/trading-deck?link=MW_Nav_TD">Trading Deck</a>
-            </div>
-            <div class="menuitem nodrop">
-                <a href="/jobs">Jobs</a>
+            <div class="menuitem " data-canonical="/industries" data-tracking="link=MW_Nav_IND">
+                <a href="/industries?link=MW_Nav_IND">Industries</a>
             </div>
                     </div>
                     <div id="accountnav" class="loggedout">
@@ -146,7 +181,8 @@
     </div>
 
 
-		<div id="nonchrome" class="clear">
+                
+		<div id="nonchrome" class="clear support ">
 				<div id="above">
 				</div>
 				<div id="maincontent" class="tenwide">
@@ -304,7 +340,7 @@
 
 
 
-<!-- fastdynapage - sbkj2kentwap11 - Fri 06/22/12 - 17:21:36 EDT -->
+<!-- fastdynapage - sbkj2kentwap09 - Sun 12/30/12 - 01:31:48 EST -->
 </div>
 
 
@@ -324,111 +360,112 @@
 
   <div id="chrome">
     <div id="topchrome">
-
-  
-
-    <link href="http://sc.wsj.net/css/cssDependencies/hat-icons.css" type="text/css" rel="stylesheet">
-
-    <div id="hat_div" class="hat_wsjdn">
+  <link href="http://sc.wsj.net/css/cssDependencies/hat-icons.css" type="text/css" rel="stylesheet">
+<div id="hat_div" class="hat_wsjdn">
   <div class="hat_logo"></div>
     
   <ul id="hattabs" class="hat_tabs">
             <li class="hat_tab" id="hat_tab_wsj">
-            <a class="hat_site_title" href="http://online.wsj.com">WSJ</a>            
+            <a class="hat_site_title" href="http://online.wsj.com" rel="nofollow">WSJ</a>	    
               <ul>
-                <li><a class="hat_site_link" href="http://online.wsj.com">WSJ</a></li>
+	      <li><a class="hat_site_link" href="http://online.wsj.com" rel="nofollow">WSJ</a></li>	      
+              </ul>  
+          </li>    
+            <li class="hat_tab" id="hat_tab_live">
+            <a class="hat_site_title" href="http://live.wsj.com" rel="nofollow">WSJ Live</a>	    
+              <ul>
+	      <li><a class="hat_site_link" href="http://live.wsj.com" rel="nofollow">WSJ Live</a></li>	      
               </ul>  
           </li>    
             <li class="hat_tab current" id="hat_tab_mw">
-            <a class="hat_site_title" href="http://www.marketwatch.com">MarketWatch</a>            
+            <a class="hat_site_title" href="http://www.marketwatch.com" rel="nofollow">MarketWatch</a>	    
               <ul>
-                <li><a class="hat_site_link" href="http://www.marketwatch.com">MarketWatch</a></li>
-                      <li class="hat_social_tab"><a id="hat_fb_button" class="hat_fb_link" href="#" title="Follow MarketWatch on Facebook">Facebook</a></li>
-                      <li class="hat_social_tab"><a id="hat_twt_button" class="hat_twitter_link" href="#" title="Follow MarketWatch on Twitter">Twitter</a></li>
+	      <li><a class="hat_site_link" href="http://www.marketwatch.com" rel="nofollow">MarketWatch</a></li>	      
+							  <li class="hat_social_tab"><a id="hat_fb_button" class="hat_fb_link" href="#" title="Follow MarketWatch on Facebook">Facebook</a></li>
+							  <li class="hat_social_tab"><a id="hat_twt_button" class="hat_twitter_link" href="#" title="Follow MarketWatch on Twitter">Twitter</a></li>
               </ul>  
                 <div id="fb_like_overlay" class="hat_overlay hat_overlay_fb hidden"></div>
                 <div id="twitter_overlay" class="hat_overlay hat_overlay_twitter hidden"></div>          
           </li>    
             <li class="hat_tab" id="hat_tab_bol">
-            <a class="hat_site_title" href="http://online.barrons.com/home">Barron's</a>            
+            <a class="hat_site_title" href="http://online.barrons.com/home" rel="nofollow">Barron's</a>	    
               <ul>
-                <li><a class="hat_site_link" href="http://online.barrons.com/home">Barron's</a></li>
-              </ul>  
-          </li>    
-            <li class="hat_tab" id="hat_tab_sm">
-            <a class="hat_site_title" href="http://www.smartmoney.com">SmartMoney</a>            
-              <ul>
-                <li><a class="hat_site_link" href="http://www.smartmoney.com">SmartMoney</a></li>
+	      <li><a class="hat_site_link" href="http://online.barrons.com/home" rel="nofollow">Barron's</a></li>	      
               </ul>  
           </li>    
             <li class="hat_tab" id="hat_tab_atd">
-            <a class="hat_site_title" href="http://allthingsd.com">AllThingsDigital</a>            
+            <a class="hat_site_title" href="http://allthingsd.com" rel="nofollow">AllThingsDigital</a>	    
               <ul>
-                <li><a class="hat_site_link" href="http://allthingsd.com">AllThingsDigital</a></li>
+	      <li><a class="hat_site_link" href="http://allthingsd.com" rel="nofollow">AllThingsDigital</a></li>	      
               </ul>  
           </li>    
-            <li class="hat_tab" id="hat_tab_live">
-            <a class="hat_site_title" href="http://live.wsj.com">WSJ Live</a>            
+            <li class="hat_tab" id="hat_tab_fact">
+            <a class="hat_site_title" href="http://global.factiva.com/du/factiva.aspx" rel="nofollow">Factiva</a>	    
               <ul>
-                <li><a class="hat_site_link" href="http://live.wsj.com">WSJ Live</a></li>
+	      <li><a class="hat_site_link" href="http://global.factiva.com/du/factiva.aspx" rel="nofollow">Factiva</a></li>	      
               </ul>  
           </li>    
-            <li class="hat_tab" id="hat_tab_fins">
-            <a class="hat_site_title" href="http://www.fins.com">FINS</a>            
+            <li class="hat_tab" id="hat_tab_risk">
+            <a class="hat_site_title" href="https://djrc.portal.dowjones.com/" rel="nofollow">Risk</a>	    
               <ul>
-                <li><a class="hat_site_link" href="http://www.fins.com">FINS</a></li>
+	      <li><a class="hat_site_link" href="https://djrc.portal.dowjones.com/" rel="nofollow">Risk</a></li>	      
               </ul>  
           </li>    
               <li id="hat_tab_dropdown" class="hat_tab_dropdown">      
               <a id="partyhat_more_dropdown" class="moreTarget" href="#">More</a>                             
               <ul class="hat_dd_list">  
-            <li class="hat_dd_item">
-            <a href="http://global.factiva.com/du/factiva.aspx">Factiva</a>
+            <li id="hat_tab_rt" class="hat_dd_item ">
+            <a href="http://online.wsj.com/public/page/wsj-x-marketing.html" rel="nofollow">WSJ X - Invitation Only</a>
             </li>      
-            <li class="hat_dd_item">
-            <a href="http://bigcharts.marketwatch.com/">BigCharts</a>
+            <li id="hat_tab_port" class="hat_dd_item ">
+            <a href="https://portfolio.wsj.com" rel="nofollow">New Portfolio</a>
             </li>      
-            <li class="hat_dd_item">
-            <a href="http://www.efinancialnews.com/">Financial News</a>
+            <li id="hat_tab_secure" class="hat_dd_item hidden">
+            <a href="https://secure.wsj.com" rel="nofollow">WSJ Secure</a>
             </li>      
-            <li class="hat_dd_item">
-            <a href="http://www.marketwatch.com/Game/">Virtual Stock Exchange</a>
+            <li id="hat tab big charts" class="hat_dd_item ">
+            <a href="http://bigcharts.marketwatch.com/" rel="nofollow">BigCharts</a>
             </li>      
-            <li class="hat_dd_item">
-            <a href="https://classifieds.wsj.com/search">WSJ Classifieds</a>
+            <li id="hat_tab_fn" class="hat_dd_item ">
+            <a href="http://www.efinancialnews.com/" rel="nofollow">Financial News</a>
             </li>      
-            <li class="hat_dd_item">
-            <a href="http://classroom.wsj.com/">WSJ Classroom</a>
+            <li id="hat_tab_Professor_Journal" class="hat_dd_item ">
+            <a href="http://professor.wsj.com/" rel="nofollow">Professor Journal</a>
             </li>      
-            <li class="hat_dd_item">
-            <a href="http://www.wsjradio.com/">WSJ Radio</a>
+            <li id="hat_tab_SmartMoney" class="hat_dd_item ">
+            <a href="http://www.smartmoney.com/" rel="nofollow">SmartMoney</a>
             </li>      
-            <li class="hat_dd_item">
-            <a href="http://www.wsjwine.com/">WSJ Wine</a>
+            <li id="hat_tab_Student_Journal" class="hat_dd_item ">
+            <a href="http://wsjstudent.com/" rel="nofollow">Student Journal</a>
+            </li>      
+            <li id="hat tab Virtual Stock Exchange" class="hat_dd_item ">
+            <a href="http://www.marketwatch.com/Game/" rel="nofollow">Virtual Stock Exchange</a>
+            </li>      
+            <li id="hat tab WSJ Classifieds" class="hat_dd_item ">
+            <a href="https://classifieds.wsj.com/" rel="nofollow">WSJ Classifieds</a>
+            </li>      
+            <li id="hat tab WSJ Classroom" class="hat_dd_item ">
+            <a href="http://classroom.wsj.com/" rel="nofollow">WSJ Classroom</a>
+            </li>      
+            <li id="hat tab WSJ Radio" class="hat_dd_item ">
+            <a href="http://www.wsjradio.com/" rel="nofollow">WSJ Radio</a>
+            </li>      
+            <li id="wsjwine" class="hat_dd_item ">
+            <a href="http://www.wsjwine.com/" rel="nofollow">WSJ Wine</a>
             </li>      
                 </ul></li>
   </ul>
   
-
 </div>
-<!-- fastdynapage - sbkj2kentwap07 - Thu 06/28/12 - 04:21:15 EDT -->
-
-
-  
-  <div class="hat_search">
+<!-- fastdynapage - sbkj2kentwap09 - Sun 12/30/12 - 01:59:44 EST -->
+<div class="hat_search">
     <div>
-      <input type="text" value="Enter Symbols or Keywords" class="hat_input hat_unused" id="hat_input" autocomplete="off" onchange="">
-      <div id="hat_button" class="button-style1" onclick="javascript:hat.search();">SEARCH</div>
+        <input type="text" value="Enter Symbols or Keywords" class="hat_input hat_unused" id="hat_input" autocomplete="off" onchange="">
+        <div id="hat_button" class="button-style1" onclick="javascript:hat.search();">SEARCH</div>
     </div>
     <div id="symbolCompleteResults" class="symbolCompleteResults"></div>
-  </div>
-
-  
-
-    <script type="text/javascript" src="http://sj.wsj.net/javascript/release/djscript-bundle-networkhat-1.13.5/dj/widget/networkHat/hat.js"></script>
-
-  
-  
+</div>
+    <script type="text/javascript" src="http://sj.wsj.net/javascript/release/djscript-bundle-networkhat-1.13.5/dj/widget/networkHat/hat.js"></script>    
 
 
 <div id="header">
@@ -438,8 +475,8 @@
 
 
 <div id="marketstate">
-	<div class="currenttime">3:08 <span>AM EDT</span></div>
-	<div class="currentdate">June 30, 2012</div>
+	<div class="currenttime">6:34 <span>PM EST</span></div>
+	<div class="currentdate">December 30, 2012</div>
 	<div class="marketlist">
 			<div class="bgMarketState market usmarket 
 	closed" title="Closed">
@@ -497,45 +534,45 @@
     <ol id="latestnewsviewport">
       <span class="bgChannel">/news/latest</span>
       
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429667"><span class="timestamp"><span>12:02a</span></span><p><a class="" href="/story/june-jobs-report-on-tap-for-traders-2012-06-30-0107156" target="_blank">June jobs report on tap for traders</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473100"><span class="timestamp"><span>6:27p</span></span><p><a href="/story/cliff-talks-hit-snag-in-senate-over-benefits-2012-12-30?link=MW_latest_news" target="_blank">Senators race to meet fiscal-cliff deadline</a></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429665"><span class="timestamp"><span>12:02a</span></span><p><a href="/story/acura-ilx-lower-expectations-better-results-2012-06-30?link=MW_latest_news" target="_blank">Acura ILX: Lower expectations, better results</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473099"><span class="timestamp"><span>6:16p</span></span><p><span target="_blank">Australia's S&amp;P/ASX 200 down 0.5% at 4,646.70 </span></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429666"><span class="timestamp"><span>12:00a</span></span><p><a href="/story/investors-to-spend-holiday-gazing-at-europe-2012-06-30?link=MW_latest_news" target="_blank">Investors to spend holiday gazing at Europe</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473098"><span class="timestamp"><span>5:51p</span></span><p><span target="_blank">Reid: Senate to meet at 11 a.m. Eastern Monday</span></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429664"><span class="timestamp"><span>7:21p</span></span><p><a class="" href="http://live.wsj.com/video/trading-strategies-brighter-days-2012-06-29-191052036/BABF9118-A16D-48ED-8507-0E02BCC7C898.html" target="_blank">Trading Strategies: Brighter Days</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473097"><span class="timestamp"><span>5:50p</span></span><p><span target="_blank">We intend to continue negotiations: Sen. Reid</span></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429663"><span class="timestamp"><span>6:28p</span></span><p><a class="" href="/story/radio-update-stocks-have-best-june-in-years-2012-06-29" target="_blank">Radio Update: Stocks have best June in years</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473096"><span class="timestamp"><span>5:00p</span></span><p><a href="/story/fiscal-cliff-talks-bog-down-in-senate-2012-12-30?link=MW_latest_news" target="_blank">Fiscal-cliff talks bog down in Senate</a></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429661"><span class="timestamp"><span>6:24p</span></span><p><a href="/story/brazil-mexico-stocks-join-global-rally-2012-06-29?link=MW_latest_news" target="_blank">Brazil, Mexico stocks join global rally </a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473093"><span class="timestamp"><span>2:39p</span></span><p><span target="_blank">Reid 'cautiously optimistic' on fiscal-cliff deal</span></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429662"><span class="timestamp"><span>6:07p</span></span><p><a class="" href="http://live.wsj.com/video/investing-in-chinas-slowing-economy-2012-06-29-18105654/1B8CA229-8C06-4A02-AF33-1AF7049B94D4.html" target="_blank">Investing in China's Slowing Economy</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473092"><span class="timestamp"><span>2:39p</span></span><p><span target="_blank">Democrats reject Social Security cuts, Reid says</span></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429660"><span class="timestamp"><span>5:58p</span></span><p><a href="/story/yahoo-says-general-counsel-callahan-resigns-2012-06-29?link=MW_latest_news" target="_blank">Yahoo says general counsel Callahan resigns</a></p></li>
+	<li class="breaking fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473091"><span class="timestamp"><span>2:25p</span></span><p>BREAKING</p><span class="timestamp"></span><p><a href="/story/mcconnell-asks-biden-to-help-in-fiscal-cliff-talks-2012-12-30-14912431?link=MW_latest_news" target="_blank">McConnell asks Biden to help in fiscal-cliff talks</a></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429659"><span class="timestamp"><span>5:55p</span></span><p><a href="/story/servicenow-revives-ipo-marketin-time-for-vacation-2012-06-29?link=MW_latest_news" target="_blank">ServiceNow revives IPO market…in time for vacation</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473090"><span class="timestamp"><span>2:14p</span></span><p><span target="_blank">McConnell asks Biden to help in fiscal cliff talks</span></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429658"><span class="timestamp"><span>5:47p</span></span><p><a href="/story/lance-armstrong-charged-with-doping-wsj-2012-06-29-17914717?link=MW_latest_news" target="_blank">Lance Armstrong charged with doping: WSJ</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473089"><span class="timestamp"><span>2:14p</span></span><p><a href="/story/obama-failure-to-pass-deal-will-hurt-markets-2012-12-30?link=MW_latest_news" target="_blank">Obama: Failure to pass deal will hurt markets</a></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429657"><span class="timestamp"><span>5:39p</span></span><p><a href="/story/financials-rise-b-of-a-on-way-to-be-top-gainer-2012-06-29?link=MW_latest_news" target="_blank">J.P. Morgan lone decliner in financials rally</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473088"><span class="timestamp"><span>2:13p</span></span><p><span target="_blank">Reid: Democrats don't yet have cliff counter offer</span></p></li>
 
-	<li class="breaking fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429656"><span class="timestamp"><span>5:39p</span></span><p>BREAKING</p><span class="timestamp"></span><p><span target="_blank">Lance Armstrong charged with doping: WSJ</span></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473087"><span class="timestamp"><span>2:12p</span></span><p><span target="_blank">McConnell: Haven't gotten response to cliff offer</span></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429655"><span class="timestamp"><span>5:29p</span></span><p><a href="/story/marketwatch-top-10-stories-june-25-29-2012-06-29?link=MW_latest_news" target="_blank">MarketWatch top 10 stories June 25 - 29</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473085"><span class="timestamp"><span>2:01p</span></span><p><a href="/story/us-stock-futures-show-sharp-declines-2012-12-30?link=MW_latest_news" target="_blank">U.S. stock futures show sharp declines</a></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429654"><span class="timestamp"><span>5:10p</span></span><p><a href="/story/insurer-stocks-gain-back-post-ruling-ground-2012-06-29?link=MW_latest_news" target="_blank">Insurer stocks continue to fall after ruling </a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473084"><span class="timestamp"><span>1:25p</span></span><p><a href="/story/10-most-searched-cars-of-the-year-2012-12-30?link=MW_latest_news" target="_blank">10 most-searched cars of the year</a></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429653"><span class="timestamp"><span>5:09p</span></span><p><a href="/story/rim-shares-slip-seagate-active-after-hours-2012-06-29?link=MW_latest_news" target="_blank">RIM shares slip, Seagate active after hours </a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473082"><span class="timestamp"><span>12:11p</span></span><p><a href="/story/big-cut-big-raise-for-apple-netflix-ceos-2012-12-30?link=MW_latest_news" target="_blank">Big cut, big raise for Apple, Netflix CEOs</a></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429652"><span class="timestamp"><span>5:00p</span></span><p><a href="/story/us-stocks-rally-on-european-agreements-2012-06-29-1710307?link=MW_latest_news" target="_blank">U.S. stocks rally on European agreements</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473081"><span class="timestamp"><span>12:00p</span></span><p><a href="/story/retiring-on-the-edge-of-the-fiscal-cliff-2012-12-30?link=MW_latest_news" target="_blank">Retiring on the edge of the fiscal cliff</a></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429651"><span class="timestamp"><span>4:54p</span></span><p><a href="/story/micron-gains-on-elpida-deal-report-2012-06-29?link=MW_latest_news" target="_blank">Micron gains on Elpida deal report</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473080"><span class="timestamp"><span>11:47a</span></span><p><a href="/story/obama-no-deal-on-taxes-could-lead-to-market-drop-2012-12-30?link=MW_latest_news" target="_blank">Obama: No deal on taxes could lead to market drop</a></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429650"><span class="timestamp"><span>4:48p</span></span><p><a href="/story/us-stocks-rally-on-european-agreements-2012-06-29?link=MW_latest_news" target="_blank">U.S. stocks rally on European agreements</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473079"><span class="timestamp"><span>11:01a</span></span><p><span target="_blank">Obama: Will get through this, 'one way or another'</span></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429649"><span class="timestamp"><span>4:46p</span></span><p><a href="/story/bond-funds-could-be-on-borrowed-time-2012-06-29?link=MW_latest_news" target="_blank">Bond funds could be on borrowed time</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473078"><span class="timestamp"><span>10:45a</span></span><p><span target="_blank">Obama: Must prevent 'huge bite' on middle-class</span></p></li>
 
-  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:429648"><span class="timestamp"><span>4:40p</span></span><p><a href="/story/washington-events-july-2-6-2012-06-29?link=MW_latest_news" target="_blank">Washington events July 2 - 6</a></p></li>
+  <li class="fnewsitem" data-uniqueid="8c077dc4-5ad2-4f73-b9c3-a381c5fece05:473077"><span class="timestamp"><span>10:40a</span></span><p><span target="_blank">Obama: We can get deal that protect middle-class</span></p></li>
 
       <li class="loading">Loading more headlines...</li>
     </ol>
@@ -545,36 +582,36 @@
 <div id="mastheadmarket">
 	<div class="market">
 		<h4><a href="/investing/index/DJIA" title="Dow Jones Industrial Average">dow</a></h4>
-		<div class="marketdata bgQuote up">
+		<div class="marketdata bgQuote down">
 			<span class="bgChannel">/quotes/zigman/627449</span>
-			<div class="bgLast marketprice">12,880.09</div>
+			<div class="bgLast marketprice">12,938.11</div>
 			<div class="marketchangedata">
-				<div class="bgChange marketchange">+277.83</div>
-				<div class="bgPercentChange marketpercent">+2.20%</div>
+				<div class="bgChange marketchange">-158.20</div>
+				<div class="bgPercentChange marketpercent">-1.21%</div>
 			</div>
 			<div class="clear"></div>
 		</div>
 	</div>
 	<div class="market">
 		<h4><a href="/investing/index/COMP" title="NASDAQ Composite Index">nasdaq</a></h4>
-		<div class="marketdata bgQuote up">
-			<span class="bgChannel">/quotes/zigman/123127</span>
-			<div class="bgLast marketprice">2,935.05</div>
+		<div class="marketdata bgQuote down">
+			<span class="bgChannel">/quotes/zigman/12633936</span>
+			<div class="bgLast marketprice">2,960.31</div>
 			<div class="marketchangedata">
-				<div class="bgChange marketchange">+85.56</div>
-				<div class="bgPercentChange marketpercent">+3.00%</div>
+				<div class="bgChange marketchange">-25.59</div>
+				<div class="bgPercentChange marketpercent">-0.86%</div>
 			</div>
 			<div class="clear"></div>
 		</div>
 	</div>
 	<div class="market rightmostmarket">
 		<h4><a href="/investing/index/SPX" title="S&amp;P 500 Index">s&amp;p 500</a></h4>
-		<div class="marketdata bgQuote up">
+		<div class="marketdata bgQuote down">
 			<span class="bgChannel">/quotes/zigman/3870025</span>
-			<div class="bgLast marketprice">1,362.16</div>
+			<div class="bgLast marketprice">1,402.43</div>
 			<div class="marketchangedata">
-				<div class="bgChange marketchange">+33.12</div>
-				<div class="bgPercentChange marketpercent">+2.49%</div>
+				<div class="bgChange marketchange">-15.67</div>
+				<div class="bgPercentChange marketpercent">-1.10%</div>
 			</div>
 			<div class="clear"></div>
 		</div>
@@ -599,8 +636,8 @@
 		<h3>Kiosk</h3>
 		<ul>
 			<li class=" invisible">
-				<div class="invisible startdate">1336381200000</div>
-				<div class="invisible enddate">1336406400000</div>
+				<div class="invisible startdate">1309370400000</div>
+				<div class="invisible enddate">1309428000000</div>
 				
 
 
@@ -608,69 +645,46 @@
 
 
 <div class="bgConga">
-      
-<div style="width: 388px">
-		<p class="kiosktitle">Tools and Data</p>
-		<div style="width: 388px; color: #5bacb3">
-			<a href="http://www.marketwatch.com/investing/currencies/tools"><img alt="Currencies" class="style1" height="93" src="http://i.marketwatch.com/_newsimages/kiosk/currencies_388x93.jpg" width="388"></a></div>
-	</div>
-
-  <span class="bgChannel">/conga/kiosk/currency.html</span>
-	<span class="bgRevision">175572</span>
-	<div class="clear"></div>
-</div>
-
-
-			</li>
-			<li class=" invisible">
-				<div class="invisible startdate">1333670460000</div>
-				<div class="invisible enddate">1334015700000</div>
-				
-
-
-
-
-
-<div class="bgConga">
-      
-<div style="width: 388px">
-		<p class="kiosktitle">Banking industry</p>
+              
+<div class="fourwide">
+		<p class="kiosktitle">Taxes</p>
 		<div class="Kiosk" style="padding-top: 5px">
 			<div class="addgutter" style="width: 140px; float: left">
-				
-			
-        <a href="/story/banks-ready-living-will-plans-ahead-of-deadline-2012-06-29?link=kiosk" class=""><img src="http://s.wsj.net/public/resources/MWimages/MW-AA296_small__MB_20090513114518.jpg" style="border: 0;" alt="" width="140" height="79"></a>
+				<div class="oneandhalfwide" style="text-align: right; float: none; margin: 0;">
 			
 			
-        <a href="/story/internet-gains-middle-class-losses-and-more-2012-06-15?link=kiosk" class="">
+        <a href="/story/the-biggest-tax-stories-of-2012-2012-12-21?link=kiosk" class="">
+<img src="http://s.wsj.net/public/resources/MWimages/MW-AI961_taxes1_MB_20110228135107.jpg" style="border: 0;" alt="The biggest tax stories of 2012" width="140" height="93"></a>
+			
+			
+        <a href="/story/how-to-protect-your-retirement-in-2013-2012-12-16?link=kiosk" class="">
 </a>
 			
       
+				</div>
 			</div>
 			<div style="width: 226px; float: left">
-				
+		
 			
-        <a href="/story/banks-ready-living-will-plans-ahead-of-deadline-2012-06-29?link=kiosk" class="Headline2">
-				Banks readying 'living wills'</a>
+        <a href="/story/the-biggest-tax-stories-of-2012-2012-12-21?link=kiosk" class="Headline2">
+		Tax issues to watch in 2013</a>
 			
-      <br>
-				Nine major banks are putting finishing&nbsp; touches on their 
-				contingency plans in the event of financial failure that are due 
-				in to federal regulators this weekend.
-			</div>
+      <br>These three major developments in 
+				2012 will shape federal tax&nbsp; policy and rate decisions in 
+				Washington in 2013 and for years to come.</div>
 		</div>
 	</div>
-	
-  <span class="bgChannel">/conga/kiosk/wildcard2.html</span>
-	<span class="bgRevision">214451</span>
+
+  <span class="bgChannel">/conga/kiosk/wildcard4.html</span>
+	<span class="bgRevision">242032</span>
 	<div class="clear"></div>
 </div>
 
 
 			</li>
 			<li class=" invisible">
-				<div class="invisible startdate">1242619200000</div>
-				<div class="invisible enddate">1274155200000</div>
+				<div class="invisible startdate">1240934400000</div>
+				<div class="invisible enddate">1272470400000</div>
 				
 
 
@@ -680,77 +694,290 @@
 <div class="bgConga">
       
 <div class="fourwide">
-		<p class="kiosktitle">Art</p>
+	<p class="kiosktitle" style="color: white">Drinks</p>
+	<div class="Kiosk" style="padding-top: 5px">
+		<div class="oneandhalfwide addgutter">
+			<div class="oneandhalfwide" style="text-align: right; float: none; margin: 0;">
+  			  
+			
+        <a href="/story/save-money-on-holiday-beer-wine-and-spirits-2012-12-24?link=kiosk" class="">
+  <img src="http://s.wsj.net/public/resources/MWimages/MW-AX486_champa_MB_20121224113442.jpg" style="border: 0;" alt="Here are 10 ways to save money on holiday beer, wine and spirits : Wine merchant Gerard Mettler poses with various sizes of Champagne bottles in front of his wine shop in Paris December 21, 2012. Depressed by weak economies and the lingering shadow of a sovereign debt crisis, Europeans are struggling to find good reasons to crack open the bubbly. The European gloom means that after two years of increases, producers will dispatch about 9 million fewer bottles of champagne worldwide in 2012, a 3 percent drop to around 314 million, industry estimates gathered by Reuters showed. REUTERS/Charles Platiau (FRANCE - Tags: BUSINESS FOOD)" width="140" height="93">
+</a>
+			
+      
+</div></div>
+		<div style="width: 226px; float: left">
+			
+			
+        <a href="/story/save-money-on-holiday-beer-wine-and-spirits-2012-12-24?link=kiosk" class="Headline2">
+			Get the holiday spirit(s)</a>
+			
+      <br>There’s no need to bust your 
+			holiday budget at the liquor store or wine shop.<br>
+			
+			
+        <a href="/story/costco-wine-surprises-if-you-see-it-buy-it-2012-12-24?link=kiosk" class="Headline1">• 
+			Act fast to nab Costco wine surprises</a>
+			
+      <br>
+			
+			
+        <a href="/story/the-1000-bottle-of-liqueur-bicycle-included-2012-12-24?link=kiosk" class="Headline1">•$1,000 bottle of liqueur (bike included)</a>
+			
+      </div>
+	</div>
+</div>
+
+  <span class="bgChannel">/conga/kiosk/retail.html</span>
+	<span class="bgRevision">242168</span>
+	<div class="clear"></div>
+</div>
+
+
+			</li>
+			<li class=" invisible">
+				<div class="invisible startdate">1315997700000</div>
+				<div class="invisible enddate">1316084100000</div>
+				
+
+
+
+
+
+<div class="bgConga">
+      
+<div class="fourwide">
+		<p class="kiosktitle">Commentary</p>
 		<div class="Kiosk" style="padding-top: 5px">
 			<div class="onewide addgutter">
+				<a href="http://online.wsj.com/article/writing_on_the_wall.html?mod=WSJ_topnav_na_markets">
+				<img src="http://i.marketwatch.com/_newsimages/columnists/weidner_david.jpg" style="border: 0;" alt="" width="86" height="86"></a>
+			
+        <a href="/story/consumers-can-warm-up-to-heating-fuel-forecasts-2012-10-26?link=kiosk" class="">
+</a>
+			
+      </div>
+			<div class="threewide">
+				<span class="Label">david weidner </span><br>
+				<span class="Headline2">
+				<a href="http://online.wsj.com/article/writing_on_the_wall.html?mod=WSJ_topnav_na_markets">
+				Good for stocks, not stock pundits</a></span><br>How did 
+				investing experts do with their 2012 stock picks? Not as well as 
+				the markets.<br>
+				•
 				
 			
-        <a href="/story/great-artwork-owned-by-con-artists-now-on-sale-2012-06-29?link=kiosk" class=""><img src="http://s.wsj.net/public/resources/MWimages/MW-AS566_green__MA_20120629093854.jpg" style="border: 0;" alt="Green Birds by Marc Chagall." width="86" height="86">
+        <a href="/story/10-money-making-investment-ideas-for-2013-2012-12-21?link=kiosk" class="">
+				10 money-making investment ideas for 2013</a>
+			
+      
+				<a class="Headline1" href="http://blogs.marketwatch.com/thetell/2012/10/26/how-people-are-preparing-for-sandy/">
+				&nbsp;</a></div>
+		</div>
+	</div>
+<p class="style2">&nbsp;</p>
+
+  <span class="bgChannel">/conga/kiosk/commentary3.html</span>
+	<span class="bgRevision">242413</span>
+	<div class="clear"></div>
+</div>
+
+
+			</li>
+			<li class=" invisible">
+				<div class="invisible startdate">1309191300000</div>
+				<div class="invisible enddate">1309248000000</div>
+				
+
+
+
+
+
+<div class="bgConga">
+      
+<div class="fourwide">
+		<p class="kiosktitle">Retirement</p>
+		<div class="Kiosk" style="padding-top: 5px">
+			<div class="addgutter" style="width: 140px; float: left">
+				
+			
+        <a href="/story/america-runs-on-bacon-and-blueberry-muffins-2012-12-14?link=kiosk" class=""></a>
+			
+			
+        <a href="/story/how-to-invest-for-the-aging-us-trend-2012-12-21?link=kiosk" class="">
+<img src="http://s.wsj.net/public/resources/MWimages/MW-AT242_health_MB_20120727131540.jpg" style="border: 0;" alt="" width="140" height="93">
 </a>
 			
       
 			</div>
-			<div class="threewide">
-				
+			<div style="width: 226px; float: left">
+		
 			
-        <a href="/story/great-artwork-owned-by-con-artists-now-on-sale-2012-06-29?link=kiosk" class="Headline2">
-				Con artists' art on sale</a>
+        <a href="/story/how-to-invest-for-the-aging-us-trend-2012-12-21?link=kiosk" class="Headline2">
+		How to invest in aging trend</a>
 			
-      <br>U.S. marshals auctioning art once owned by financial schemers, reports Al Lewis, who wonders why the marshals don’t open their own museum.<br>
-																															<a class="Headline1" href="http://blogs.marketwatch.com/thetell/2012/06/29/boom-for-london-art-market/">• 
-				London art market is still booming</a> <span class="LabelLink">(The Tell)</span></div>
+      <br>
+		As boomers age their spending patterns will shift. Robert Powell looks 
+		at three stock sectors that can help you profit from the graying of 
+		America.<br>
+																																	</div>
 		</div>
 	</div>
 	
-  <span class="bgChannel">/conga/kiosk/media.html</span>
-	<span class="bgRevision">214429</span>
+  <span class="bgChannel">/conga/kiosk/wildcard3.html</span>
+	<span class="bgRevision">242027</span>
+	<div class="clear"></div>
+</div>
+
+
+			</li>
+			<li class=" invisible">
+				<div class="invisible startdate">1348302600000</div>
+				<div class="invisible enddate">1348443000000</div>
+				
+
+
+
+
+
+
+<div class="bgConga">
+      
+<div class="fourwide">
+		<p class="kiosktitle">Car Review</p>
+		<div class="Kiosk" style="padding-top: 5px">
+			<div class="addgutter" style="width: 140px; float: left">
+								
+			
+        <a href="/story/hondas-renaissance-of-radical-reasonableness-2012-10-20?link=kiosk" class="">
+								</a>
+			
+      
+								
+			
+        <a href="/story/focus-st-why-should-europe-have-all-the-fun-2012-12-22?link=kiosk" class="">
+<img src="http://s.wsj.net/public/resources/MWimages/MW-AX454_ford_f_MB_20121221180404.jpg" style="border: 0;" alt="Ford's Euro-spec Focus ST is one hot hatch, says Dan Neil." width="140" height="93"></a>
+			
+			
+        <a href="/story/range-rover-if-you-must-buy-a-luxury-suv-2012-11-10?link=kiosk" class="">
+  </a>
+			
+      
+			</div>
+			<div style="width: 226px; float: left">
+		
+			
+        <a href="/story/focus-st-why-should-europe-have-all-the-fun-2012-12-22?link=kiosk" class="Headline2">
+Focus ST: Euro fun in U.S.</a>
+			
+      <br>
+		Ford finally has brought its Euro-spec Focus ST to the U.S., and the hot 
+		little hatchback provides an exhilarating ride, reports Dan Neil.</div>
+		</div>
+	</div>
+<p class="auto-style2">.</p>
+
+  <span class="bgChannel"></span>
+	<span class="bgRevision">242014</span>
+	<div class="clear"></div>
+</div>
+
+			</li>
+			<li class=" invisible">
+				<div class="invisible startdate">1343383200000</div>
+				<div class="invisible enddate">1343530800000</div>
+				
+
+
+
+
+
+<div class="bgConga">
+      
+<div style="width: 388px">
+		<p class="kiosktitle">Design</p>
+		<div class="Kiosk" style="padding-top: 5px">
+			<div class="addgutter" style="width: 140px; float: left">
+				<span>
+			
+        <a href="http://live.wsj.com/video/steve-jobs-yacht-embroiled-in-pay-dispute-2012-12-21-16115823/2FBABE87-E420-46DD-BB5E-E52323CECF09.html" class="Thumbnail">
+				<img border="0" src="http://m.wsj.net/video/20121221/122112hubpmjobsyacht/122112hubpmjobsyacht_512x288.jpg" height="93" width="138" style="float:left;clear:left;margin:0 11px 2px 0;"></a>
+			
+      </span></div>
+			<div style="width: 226px; float: left">
+				
+			
+        <a href="http://live.wsj.com/video/steve-jobs-yacht-embroiled-in-pay-dispute-2012-12-21-16115823/2FBABE87-E420-46DD-BB5E-E52323CECF09.html" class="Headline2">
+				Jobs estate's rough seas </a>
+			
+      <br>A 256-foot yacht is at the 
+				center of a dispute between Steve Jobs's estate and famed 
+				designer Philippe Starck. <img alt="" height="10" src="http://i.marketwatch.com/_newsimages/icon/video/video-kiosk.png" width="21"><br>
+				
+			
+        <a href="/story/steve-jobs-yacht-embroiled-in-pay-dispute-report-2012-12-21?link=kiosk" class="Headline1">• Jobs yacht embroiled in pay dispute</a>
+			
+      <br>
+				</div>
+		</div>
+	</div>
+
+  <span class="bgChannel">/conga/kiosk/video3.html</span>
+	<span class="bgRevision">242163</span>
+	<div class="clear"></div>
+</div>
+
+
+			</li>
+			<li class=" invisible">
+				<div class="invisible startdate">1349089200000</div>
+				<div class="invisible enddate">1349137500000</div>
+				
+
+
+
+
+
+<div class="bgConga">
+      
+<div style="width: 388px">
+		<p class="kiosktitle" style="color: white">Commentary</p>
+		<div class="Kiosk" style="padding-top: 5px; width: 383px;">
+			<div class="addgutter" style="width: 90px; float: left">
+  				  
+			
+        <a href="/story/4-reasons-not-to-roll-over-an-old-401k-2012-12-28?link=kiosk" class=""><img src="http://s.wsj.net/public/resources/MWimages/MW-AX488_piper__MA_20121224130448.jpg" style="border: 0;" alt="" width="86" height="86"></a>
+			
+			
+        <a href="/story/the-last-shall-be-first-2012-12-07?link=kiosk" class="">
+</a>
+			
+      
+			</div>
+			<div style="width: 251px; float: left">
+				<span class="Headline2">
+				
+			
+        <a href="/story/4-reasons-not-to-roll-over-an-old-401k-2012-12-28?link=kiosk" class="">
+				Don't roll over your old 401(k)</a>
+			
+      </span><br>Personal finance 
+				expert Mike Piper, founder of the Oblivious Investor blog, tells 
+				why you should keep your company-sponsored retirement plan even 
+				after leaving a job. </div>
+		</div>
+	</div>
+	
+  <span class="bgChannel">/conga/kiosk/commentary2.html</span>
+	<span class="bgRevision">242596</span>
 	<div class="clear"></div>
 </div>
 
 
 			</li>
 			<li class="">
-				<div class="invisible startdate">1258380000000</div>
-				<div class="invisible enddate">1258380000000</div>
-				
-
-
-
-
-
-<div class="bgConga">
-      
-	<div class="fourwide">
-		<p class="kiosktitle">Travel</p>
-		<div class="Kiosk" style="padding-top: 5px">
-			<div class="addgutter" style="width: 140px; float: left">
-				<a href="http://blogs.marketwatch.com/thetell/2012/06/26/mac-users/"><img src="http://s.wsj.net/public/resources/MWimages/MW-AS435_hotel__MB_20120626035739.jpg" style="border: 0;" alt="Hotel Senator Gran Via in Madrid carries a four-star lodging designation." width="140" height="93"></a></div>
-			<div style="width: 226px; float: left">
-				<a class="Headline2" href="http://blogs.marketwatch.com/thetell/2012/06/26/mac-users/">
-				Posh hotels love Mac users</a><br>Orbitz has found Mac users 
-				likelier to splash out on lodging — and is tailoring search 
-				results accordingly <span class="LabelLink">(The Tell)</span>.<br>
-				
-			
-        <a href="/story/5-best-credit-cards-for-vacation-travel-2012-06-20?link=kiosk" class="Headline1">
-				• Five best summer-travel credit cards</a>
-			
-      <br>
-				</div>
-		</div>
-	</div>
-	<p class="auto-style1">&nbsp;</p>
-
-  <span class="bgChannel">/conga/kiosk/leisure.html</span>
-	<span class="bgRevision">213758</span>
-	<div class="clear"></div>
-</div>
-
-
-			</li>
-			<li class=" invisible">
-				<div class="invisible startdate">1325175300000</div>
-				<div class="invisible enddate">1325487600000</div>
+				<div class="invisible startdate">1352872800000</div>
+				<div class="invisible enddate">1352872800000</div>
 				
 
 
@@ -760,137 +987,48 @@
 <div class="bgConga">
       
 <div class="fourwide">
-		<p class="kiosktitle">The Economy</p>
-		<div class="Kiosk" style="padding-top: 5px">
-			<div class="addgutter" style="width: 140px; float: left">
-				<div class="oneandhalfwide" style="text-align: right; float: none; margin: 0;">
-  				    <div class="oneandhalfwide" style="text-align: right; float: none; margin: 0;">
-  					    <div class="oneandhalfwide" style="text-align: right; float: none; margin: 0;">
-  						    <div class="oneandhalfwide" style="text-align: right; float: none; margin: 0;">
-  							    <div class="oneandhalfwide" style="text-align: right; float: none; margin: 0;">
-  								    <div class="oneandhalfwide" style="text-align: right; float: none; margin: 0;">
-  									    
-			
-        <a href="/story/bizarro-world-where-housing-is-economy-bright-spot-2012-06-29?link=kiosk" class="">
-<img src="http://s.wsj.net/public/resources/MWimages/MW-AI181_week_i_MB_20110119145055.jpg" style="border: 0;" alt="" width="140" height="93"></a>
-			
-      </div></div>
-							</div>
-						</div>
-						</div>
-				</div>
-			</div>
-			<div style="width: 226px; float: left">
-																																																							
-			
-        <a href="/story/bizarro-world-where-housing-is-economy-bright-spot-2012-06-29?link=kiosk" class="Headline2">
-																																																							It's bizarro: housing is king
-</a>
-			
-      
-&nbsp;<br>
-																																																							This week's numbers were stranger than fiction, with the long-suffering housing industry showing solid improvement and in fact the star of the economic data. </div>
-		</div>
-	</div>
-
-  <span class="bgChannel">/conga/kiosk/economy-politics.html</span>
-	<span class="bgRevision">214447</span>
-	<div class="clear"></div>
-</div>
-
-
-			</li>
-			<li class=" invisible">
-				<div class="invisible startdate">1305939600000</div>
-				<div class="invisible enddate">1306086900000</div>
-				
-
-
-
-
-
-<div class="bgConga">
-      
-<div class="fourwide">
-		<p class="kiosktitle">Tech</p>
-		<div class="Kiosk" style="padding-top: 5px">
-			<div class="addgutter" style="width: 140px; float: left">
-				
-			
-        <a href="/story/steve-jobs-destroys-another-rival-from-the-grave-2012-06-29?link=kiosk" class="">
-<img src="http://s.wsj.net/public/resources/MWimages/MW-AO058_jobs_s_MB_20111122104737.jpg" style="border: 0;" alt="Apple Computer Inc. Chief Executive Officer Steve Jobs holds the new iPhone in San Francisco, California January 9, 2007. Apple unveiled an eagerly-anticipated iPod mobile phone with a touch-screen on Tuesday, priced at $599 for 8 gigabytes of memory, pushing the company's shares up as much as 8.5 percent. Jobs said the iPhone, which also will be available in a 4-gigabyte model for $499, will ship in June in the United States. The phones will be available in Europe in the fourth quarter and in Asia in 2008.  REUTERS/Kimberly White (UNITED STATES)" width="140" height="93">
-</a>
-			
-      
-			</div>
-			<div style="width: 226px; float: left">
-				
-			
-        <a href="/story/steve-jobs-destroys-another-rival-from-the-grave-2012-06-29?link=kiosk" class="Headline2">Jobs destroys another rival</a>
-			
-      <br>Add 
-				RIM to the list of companies Steve Jobs has dispatched, writes 
-				John Shinal. <br>
-				This time, he's done it from the grave.<br>
-				<a class="Headline1" href="http://blogs.marketwatch.com/thetell/2012/06/29/will-apple-say-uncle-in-madrid/">
-				• Will Apple say 'uncle' in Madrid?</a> <span class="Caption">
-				(blog)</span></div>
-		</div>
-	</div>
-	
-  <span class="bgChannel">/conga/kiosk/tech.html</span>
-	<span class="bgRevision">214430</span>
-	<div class="clear"></div>
-</div>
-
-
-			</li>
-			<li class=" invisible">
-				<div class="invisible startdate">1332136800000</div>
-				<div class="invisible enddate">1332136800000</div>
-				
-
-
-
-
-
-<div class="bgConga">
-      
-<div class="fourwide">
-		<p class="kiosktitle">From Fox Business</p>
+		<p class="kiosktitle">The RetireMentors</p>
 		<div class="Kiosk" style="padding-top: 5px">
 			<div class="onewide addgutter">
-				<div class="onewide" style="text-align: right; float: none; margin: 0;">
-  				    <div class="onewide" style="text-align: right; float: none; margin: 0;">
-  					    <div class="onewide" style="text-align: right; float: none; margin: 0;">
-  							<div class="onewide" style="text-align: right; float: none; margin: 0;">
-  							    <div class="onewide" style="text-align: right; float: none; margin: 0;">
-  								    <div class="onewide" style="text-align: right; float: none; margin: 0;">
-  									    <div class="onewide" style="text-align: right; float: none; margin: 0;">
-  										    <img src="http://s.wsj.net/public/resources/MWimages/MW-AE256_doctor_MA_20100412182937.jpg" style="border: 0;" alt="" width="86" height="86">
-</div>&nbsp;</div>
-&nbsp;</div>
-							</div>
-						</div>
-</div></div></div>
-			<span class="Label">Bonnie Lee&nbsp;</span><br>
-			<span class="Headline2">
-			<a href="http://www.foxbusiness.com/personal-finance/2012/06/28/health-reform-is-constitutional-here-are-tax-implications/?link=mktw">
-			Health reform and your taxes</a></span><span class="auto-style1"><a href="http://www.foxbusiness.com/government/2012/06/01/small-business-slowdown/">&nbsp;</a></span><br>
-			Now that the legal uncertainty around the Affordable Care Act has 
-			been lifted, it's time to delve into the tax implications.&nbsp; </div>
+				
+			
+        <a href="/story/your-single-worst-investment-bias-2012-12-28?link=kiosk" class="">
+				<img alt="" class="auto-style1" height="86" src="http://i.marketwatch.com/_newsimages/columnists/retirementors/kiosk/tuchman_mitchell_86.png" width="86"></a>
+			
+      </div>
+			<div class="threewide">
+				<span class="Label">Mitch Tuchman</span><br>
+				<span class="Headline2">
+				
+			
+        <a href="/story/your-single-worst-investment-bias-2012-12-28?link=kiosk" class="">
+				Your single worst investment bias</a>
+			
+      <br></span>It could be&nbsp; 
+				the reason you click on this article.<br>
+				<span class="Headline1">
+				
+			
+        <a href="/story/five-big-ira-beneficiary-concerns-2012-12-27?link=kiosk" class="">• Plus: 
+				Five big IRA beneficiary concerns</a>
+			
+      </span><br>
+				<a class="Headline1" href="http://www.marketwatch.com/retirement/mentors/">• 
+				More from The RetireMentors » </a><br>
+				</div>
+		</div>
 	</div>
 	
-  <span class="bgChannel">/conga/kiosk/marketfox.html</span>
-	<span class="bgRevision">214400</span>
+  <span class="bgChannel">/conga/kiosk/retirementors.html</span>
+	<span class="bgRevision">242562</span>
 	<div class="clear"></div>
 </div>
 
 
 			</li>
 			<li class=" invisible">
-				<div class="invisible startdate">1340949600000</div>
-				<div class="invisible enddate">1340949600000</div>
+				<div class="invisible startdate">1353909600000</div>
+				<div class="invisible enddate">1353909600000</div>
 				
 
 
@@ -900,29 +1038,74 @@
 <div class="bgConga">
       
 <div class="fourwide">
-		<p class="kiosktitle">Europe</p>
+		<p class="kiosktitle">The RetireMentors</p>
 		<div class="Kiosk" style="padding-top: 5px">
-			<div class="addgutter" style="width: 140px; float: left">
-				<a href="http://blogs.marketwatch.com/thetell/2012/06/29/euro-2012-score-marios-1%25C2%25BD-merkel-0/"><img src="http://s.wsj.net/public/resources/MWimages/MW-AS568_italy__MB_20120629101247.jpg" style="border: 0;" alt="Italy's Mario Balotelli (R) celebrates after scoring his second goal with his team mate Claudio Marchisio next to Germany's Philipp Lahm (L) during their Euro 2012 semi-final soccer match at the National Stadium in Warsaw June 28, 2012. REUTERS/Leonhard Foeger (POLAND - Tags: SPORT SOCCER)" width="140" height="93"></a></div>
-			<div style="width: 226px; float: left">
-				<a class="Headline2" href="http://blogs.marketwatch.com/thetell/2012/06/29/euro-2012-score-marios-1%25C2%25BD-merkel-0/">
-				Super day for Italy's Marios</a><br>As if inspired by Mario 
-				Balotelli's sublime play vs. Germany, Mario Monti looks to have 
-				prevailed over Merkel at summit.<br>
-				<a class="Headline1" href="http://www.marketwatch.com/sports">• 
-				</a>
+			<div class="onewide addgutter">
 				
 			
-        <a href="/story/italy-meet-spain-in-the-euro-2012-final-2012-06-29-8115326?link=kiosk" class="Headline1">
-				Italy vs. Spain for Euro 2012 title</a>
+        <a href="/story/nine-resolutions-for-retirement-savers-2012-12-28?link=kiosk" class="">
+				<img alt="" class="auto-style1" height="86" src="http://i.marketwatch.com/_newsimages/columnists/retirementors/kiosk/sisti_george_86.png" width="86"></a>
 			
-      
-				<img alt="" height="10" src="http://i.marketwatch.com/_newsimages/icon/video/video-kiosk.png" width="21"></div>
+      </div>
+			<div class="style1">
+				<span class="Label">George Sisti</span><br>
+				<span class="Headline2">
+				
+			
+        <a href="/story/nine-resolutions-for-retirement-savers-2012-12-28?link=kiosk" class="">9 resolutions for retirement savers</a>
+			
+      </span><br>
+				New Year’s resolutions for a better retirement. <br>
+				<span class="Headline1">
+				
+			
+        <a href="/story/inflation-protection-for-a-fixed-income-2012-12-27?link=kiosk" class="">
+				&nbsp;• Plus: Inflation protection for a fixed income</a>
+			
+      <br>
+				<a class="Headline1" href="http://www.marketwatch.com/retirement/mentors/">&nbsp;• 
+				More from The RetireMentors » </a></span>
+				</div>
 		</div>
 	</div>
+	
+  <span class="bgChannel">/conga/kiosk/retirementors2.html</span>
+	<span class="bgRevision">242582</span>
+	<div class="clear"></div>
+</div>
 
-  <span class="bgChannel">/conga/kiosk/worldcup.html</span>
-	<span class="bgRevision">214417</span>
+
+			</li>
+			<li class=" invisible">
+				<div class="invisible startdate">1355983200000</div>
+				<div class="invisible enddate">1355983200000</div>
+				
+
+
+
+
+
+<div class="bgConga">
+      
+<div class="fourwide">
+		<p class="kiosktitle">The RetireMentors</p>
+		<div class="Kiosk" style="padding-top: 5px">
+			<div class="onewide addgutter">
+				<a href="mailto:RetireQA@marketwatch.com"><img src="http://s.wsj.net/public/resources/MWimages/MW-AX575_retire_MA_20121227185422.jpg" style="border: 0;" alt="" width="86" height="86"></a></div>
+			<div class="threewide">
+				<span class="Label">Dan Moisand</span><br>
+				<span class="Headline2">
+				<a href="mailto:RetireQA@marketwatch.com">What's your retirement 
+				question?</a><br></span>Send your retirement questions to Dan 
+				Moisand. Answers will appear in his new weekly column. <br>
+				<a class="Headline1" href="http://www.marketwatch.com/retirement/mentors/">
+				• More from The RetireMentors » </a><br>
+				</div>
+		</div>
+	</div>
+	
+  <span class="bgChannel">/conga/kiosk/retirementors3.html</span>
+	<span class="bgRevision">242468</span>
 	<div class="clear"></div>
 </div>
 
@@ -949,10 +1132,10 @@
 				<li><a href="/help">Help</a></li>
 				<li><a href="/support/feedback.asp">Feedback</a></li>
 				<li><a href="/newsroom/roster">Newsroom Roster</a></li>
-				<li><a href="{System.Configuration.ConfigurationManager.AppSettings['videoCenterUrl']}">Media Archive</a><!-- VCR --></li>
-        <li><a href="/premium-newsletters?link=djmc_footer_multi">Premium Products</a></li>
-        <li><a href="/mobile">Mobile</a></li>
-      </ul>
+				<li><a href="http://live.wsj.com/">Media Archive</a><!-- VCR --></li>
+                <li><a href="/premium-newsletters?link=djmc_footer_multi">Premium Products</a></li>
+                <li><a href="/mobile">Mobile</a></li>
+            </ul>
 			<ul class="twowide addgutter">
 				<li><a href="/companyinfo">Company Info</a></li>
 				<li><a href="http://www.dowjones.com/TheCompany/CodeConduct.htm">Code of Conduct</a></li>
@@ -960,24 +1143,24 @@
 				<li><a href="http://dowjonesonline.com/">Advertising Media Kit</a></li>
 				<li><a href="http://www.wsjlocal.com/">Advertise Locally</a></li>
 				<li><a href="http://solutions.dowjones.com/djcs/index.asp">License our Content</a></li>
-        <li><a href="/brokercenter?reflink=djm_mwbrokercenter_footer">Broker Center</a></li>
-        <li><a href="/privacy-policy#ad_choices">Your Ad Choices</a></li>
+                <li><a href="/brokercenter?reflink=djm_mwbrokercenter_footer">Broker Center</a></li>
+                <li><a href="/privacy-policy#ad_choices">Your Ad Choices</a></li>
 			</ul>      
 			<ul class="twowide addgutter">        
 				<li><a href="http://www.facebook.com/marketwatch">MarketWatch on Facebook</a></li>
-        <li>          
-          <iframe id="endcapFacebook" src="http://www.facebook.com/plugins/like.php?app_id=169035189823186&amp;href=http://www.facebook.com/marketwatch&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" allowtransparency="true"></iframe>          
-        </li>
+                <li>          
+                    <iframe id="endcapFacebook" src="http://www.facebook.com/plugins/like.php?app_id=169035189823186&amp;href=http://www.facebook.com/marketwatch&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" allowtransparency="true"></iframe>          
+                </li>
 				<li><a href="http://twitter.com/marketwatch">MarketWatch on Twitter</a></li>
-        <li>
-              <iframe id="endcapTwitter" allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=marketwatch&amp;show_screen_name=false&amp;show_count=true&amp;text_color=CDCDCD"></iframe>                        
-        </li>
-        <li><a href="/rss" id="endcapRss">RSS</a></li>        
-        <li><a href="/podcast">Podcasts</a></li>
+                <li>
+                    <iframe id="endcapTwitter" allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=marketwatch&amp;show_screen_name=false&amp;show_count=true&amp;text_color=CDCDCD"></iframe>                        
+                </li>
+                <li><a href="/rss" id="endcapRss">RSS</a></li>        
+                <li><a href="/podcast">Podcasts</a></li>
 			</ul>
 		</div>
     <div class="fourwide wsjdnsection">
-      <div class="sprt-foot-wsjdn-logo footbar" alt="logo"></div>
+        <div class="sprt-foot-wsjdn-logo footbar" alt="logo"></div>
 			<ul class="twowide addgutter first">
 				<li><a href="http://online.wsj.com/">WSJ.com</a></li>
 				<li><a href="http://online.barrons.com/">Barron's Online</a></li>
@@ -986,22 +1169,16 @@
 				<li><a href="http://allthingsd.com/">All Things Digital</a></li>
 			</ul>
 			<ul class="twowide last">
-				<li><a href="http://www.marketwatch.com/community">MarketWatch Community</a></li>
 				<li><a href="http://www.efinancialnews.com/">Financial News Online</a></li>
 				<li><a href="http://guides.wsj.com/small-business/">WSJ.com Small Business</a></li>
-				<li><a href="http://www.fins.com/?mod=MW_footer">FINS:</a> 
-				<a href="http://www.fins.com/finance/?mod=MW_footer">Finance</a>, 
-				<a href="http://it-jobs.fins.com/?mod=MW_footer">IT jobs</a>,
-				<a href="http://sales-jobs.fins.com/?mod=MW_footer">Sales jobs</a></li>
 			</ul>
 		</div>
 		<div class="clear"></div>
 	</div>
-</div>
-<div id="footer">	
+</div><div id="footer">	
 	<div class="fourwide addgutter">
     <div class="sprt-foot-mw-logo-dj" alt="logo"></div>
-    <p>
+        <p>
 			Copyright © 2012 MarketWatch, Inc.  All rights reserved.<br>
 			By using this site, you agree to the <a href="http://www.marketwatch.com/support/disclaimer.asp">Terms of Service</a> 
 			and <a href="http://www.marketwatch.com/support/privacy.asp">Privacy Policy - UPDATED 10/18/2011</a>.
@@ -1009,12 +1186,11 @@
 	</div>
 	<div class="sixwide">
 		<p>
-      Intraday Data provided by SIX Telekurs and subject to <a href="http://www.marketwatch.com/investing/terms-of-use">terms of use</a>. Historical and current end-of-day data provided by SIX Telekurs. Intraday data delayed per exchange requirements. Dow Jones Indexes (SM) from Dow Jones &amp; Company, Inc. All quotes are in local exchange time. Real time last sale data provided by NASDAQ. More information on <a href="http://www.nasdaq.com/services/DelDefOpenReport.pdf">NASDAQ traded symbols</a> and their current financial status. Intraday data delayed 15 minutes for Nasdaq, and 20 minutes for other exchanges. Dow Jones IndexesSM from Dow Jones &amp; Company, Inc. SEHK intraday data is provided by SIX Telekurs and is at least 60-minutes delayed. All quotes are in local exchange time.		
-    </p>
+            Intraday Data provided by SIX Financial Information and subject to <a href="http://www.marketwatch.com/investing/terms-of-use">terms of use</a>. Historical and current end-of-day data provided by SIX Financial Information. Intraday data delayed per exchange requirements. S&amp;P/Dow Jones Indices (SM) from Dow Jones &amp; Company, Inc. All quotes are in local exchange time. Real time last sale data provided by NASDAQ. More information on <a href="http://www.nasdaq.com/services/DelDefOpenReport.pdf">NASDAQ traded symbols</a> and their current financial status. Intraday data delayed 15 minutes for Nasdaq, and 20 minutes for other exchanges. S&amp;P/Dow Jones Indices (SM) from Dow Jones &amp; Company, Inc. SEHK intraday data is provided by SIX Financial Information and is at least 60-minutes delayed. All quotes are in local exchange time.		
+        </p>
 	</div>
 	<div class="clear"></div>
 </div>
-
   </div>
 
 
@@ -1033,7 +1209,7 @@
 <script type="text/javascript">
   $(".bgCurrencyFormatting").data("bgFormat", { last: "#,###.0000", change: "#,###.0000", percentChange: "#,###.0000%" });
 </script>
-
+  <script type="text/javascript" src="/community/commenting/commentcount"></script>
 	<!-- SiteCatalyst code version: H.20.2.
 	Copyright 1997-2009 Omniture, Inc. More info available at
 	http://www.omniture.com -->
@@ -1057,8 +1233,8 @@
       s.prop25 = "";
       s.prop27 = "nomem";
       s.eVar4 = "";
-      s.eVar31 = "Saturday";
-      s.eVar32 = "02:00";
+      s.eVar31 = "Sunday";
+      s.eVar32 = "17:00";
 
     /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
     var s_code=s.t();if(s_code)document.write(s_code) }//--></script>
@@ -1067,13 +1243,6 @@
 	//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://om.dowjoneson.com/b/ss/djglobal,djmarketwatch/1/H.20.2--NS/0" height="1" width="1" border="0" alt=""/></a></noscript><!--/DO NOT REMOVE/-->
 	<!-- End SiteCatalyst code version: H.20.2. -->
 	
-		<!-- START: RSI  Code  -->
-		<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=G07608"></script>
-		<script type="text/javascript">
-			DM_cat("MarketWatch > support > privacypolicy > ");
-			DM_tag();
-		</script>
-		<!-- END: RSI  Code  -->
     <!-- Begin BlueKai Tag -->
         <iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
         <script src="http://sj.wsj.net/djscript/require/dmptags/version/20110919191631.js"></script>
@@ -1108,11 +1277,18 @@
     <!-- begin tail -->
     
     
-    <script type="text/javascript" src="http://mw1.wsj.net/MW5/content/combined/combined-tail-min-1.0.5054.js"></script>
-  <script type="text/javascript">
-    $(function() {
-    });
-  </script>
+    <script type="text/javascript" src="http://mw1.wsj.net/MW5/content/combined/combined-tail-min-1.0.5218.js"></script>
+<script type="text/javascript">
+	var _bgProxyUrl = "/bgproxy/bgproxy/forward";
+	$(function() {
+		BlueGrass.Runtime.openConnection({}, function(connection, type) {
+                   if (type == "connect") { 
+                        BlueGrass.MarketState.setup(); 
+                        BlueGrass.Quote.setup(); 
+                   } 
+              });
+	});
+</script>
 	<!-- determining the user level here -->
 	<!-- set the level -->	
 	<script type="text/javascript">
@@ -1299,17 +1475,6 @@
                 </p>
 			</div>
 		</div>
-<script type="text/javascript">
-	var _bgProxyUrl = "/bgproxy/bgproxy/forward";
-	$(function() {
-		BlueGrass.Runtime.openConnection({}, function(connection, type) {
-                   if (type == "connect") { 
-                        BlueGrass.MarketState.setup(); 
-                        BlueGrass.Quote.setup(); 
-                   } 
-              });
-	});
-</script>
 	
 	<script type="text/javascript">
 		$(document).ready(function() { 
@@ -1333,24 +1498,81 @@
 
 	
 	<script type="text/javascript">
+	ScrillaZilla.Escort.addClient(
+		ScrillaZilla.Client('#ad_DaypartBannerNewYorkAfterHours', 
+			{
+				ord : 1559595546,
+				src : 'http://ad.doubleclick.net/adi/marketwatch.com/sponsor_afterbell;u=NULL**140x31****;sz=140x31;tile=5;ord=',
+				width : '140',
+				height : '31',
+				
                 
-            MarketWatch.Navigation.settings({ fixedTopNav: true, dropdownsEnabled: true });
+				lateLoad : false,
+                autoLoad : false,
+                lazyLoad : false,
+				refresh : false,
+				independentRefresh : false,
+				refreshRate : 480000,
+				refreshDomain : "",
+				type : "iframe",
+				refreshUrl : "/cdn_content/business/re.html"
+			})
+	);
+                
+             MarketWatch.Navigation.settings({ fixedTopNav: true, dropdownsEnabled: true });
         
 		MarketWatch.Kiosk.setup("#kiosk",
 		{
-			startIndex: 3,
+			startIndex: 7,
 			autostart: true,
 			refresh: true,
 			adInRotation: false
 		});
 
+
+    
+         var DayParts = {
+             BeforeTheBell: "BeforeTheBell",
+             Open: "Open",
+             CountdownToClose: "CountdownToClose",
+             AfterHours: "AfterHours",
+             Closed: "Closed"
+         };
+
+         MarketWatch.DayParting.setup({
+             
+                 currentEvent: {  
+                 market: "JP",
+                 display: "Tokyo",
+                 state: DayParts.BeforeTheBell,
+                 start: new Date("Sun, 30 Dec 2012 23:00:00 GMT"),
+                 end: new Date("Mon, 31 Dec 2012 00:00:00 GMT")
+                 },
+             
+             
+                 nextEvent: {
+                 market: "JP",
+                 display: "Tokyo", 
+                 state: DayParts.CountdownToClose,
+                 stateDisplay: "Tokyo Markets Close in:",
+                 start: new Date("Mon, 31 Dec 2012 05:00:00 GMT"),
+                 end: new Date("Mon, 31 Dec 2012 06:00:00 GMT"),
+                 links: ' <a href="/investing/currencies/tools">Currencies</a>  <a href="/column/europe-markets">Europe Markets</a>  <a href="/column/london-markets">London Markets</a> '
+                 },
+             
+            time: new Date("Sun, 30 Dec 2012 23:34:00 GMT"),
+            isNewsHole: false,
+            eventEndpoint: "/Theme/home/getnextdaypart"
+         });
+     
+
     </script>
        	
    	<script type="text/javascript">
    		bio.init();			
-    </script>        
+    </script>
 
-	<script type="text/javascript">
+    <script type="text/javascript">
 	// if present, canonical link is preferred
 	var p = '/support/privacy.asp';
 	var cl = $('link[rel=canonical]');
@@ -1359,7 +1581,7 @@
 	}
 	var _sf_async_config={uid:17409,domain:"marketwatch.com",path:p};
 		_sf_async_config.sections = ''; 
-		_sf_async_config.authors = ''; 
+    _sf_async_config.authors = '';
 	(function(){
 	  function loadChartbeat() {
 		window._sf_endpt=(new Date()).getTime();
@@ -1381,7 +1603,7 @@
   $(function() {
   });
 </script>
-
+    <script type="text/javascript" src="//tealium.hs.llnwd.net/o43/utag/wsjdn/marketwatch/prod/utag.js"></script>
   
 
 
