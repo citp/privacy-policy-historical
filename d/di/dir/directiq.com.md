@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directiq.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627225602id_/http%3A//www.directiq.com/email-marketing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directiq.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230233622id_/http%3A//www.directiq.com/email-marketing/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Intelligent Email Marketing by DirectIQ
 
@@ -45,3 +45,11 @@ Some of our sites provide links to third-party websites, such as those of our bu
 Notification of Changes 
 
 This policy is in effect as of July 2009. If we decide to change our privacy policy, we will post those changes on the DirectIQ Website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+Contacting DirectIQ 
+
+Direct IQ, LLC.  
+42 West 24th Street  
+New York, NY, 10010  
+800-852-2602  
+[Contact Form](http://www.directiq.com/email-marketing/contact-us)
