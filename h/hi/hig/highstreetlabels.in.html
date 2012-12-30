@@ -1,0 +1,1132 @@
+<!--The following is the downloaded HTML source of the highstreetlabels.in privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230192642id_/http%3A//highstreetlabels.in/Privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
+	High Street Labels
+</title>
+
+    <style type="text/css">
+        .showme
+        {
+            display: none;
+        }
+        .showhim:hover .showme
+        {
+            display: block;
+            background-color: #FFFFFF;
+        }
+    </style>
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+    
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-32269222-1']);
+        _gaq.push(['_setDomainName', 'highstreetlabels.in']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+    <script src="Scripts/jquery.js" type="text/javascript"></script>
+    <script src="Scripts/modal.js" type="text/javascript"></script>
+    <script src="Scripts/popUpmodal.js" type="text/javascript"></script>
+    <script src="Scripts/blockUI.js" type="text/javascript"></script>
+    <script src="Scripts/Campaign.js" type="text/javascript"></script>
+    <link href="css/hslNew.css" rel="stylesheet" type="text/css"><link href="css/hsl.css" rel="stylesheet" type="text/css"><link href="css/dropEverything.css" rel="stylesheet" type="text/css"><link href="css/popup.css" rel="stylesheet" type="text/css"><link href="css/global.css" rel="stylesheet" type="text/css"><link href="css/scroll-bar.css" type="text/css" rel="stylesheet"><link href="css/AdvancedSearch.css" rel="stylesheet" type="text/css"><link href="css/tabtastic.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="Scripts/searchjScrollPane.js"></script>
+    <script type="text/javascript" src="Scripts/AdvancedSearch.js"></script>
+    <script type="text/javascript" src="Scripts/jquery.cookie.js"></script>
+    <script type="text/javascript" src="comingsoon/facebook.js"></script>
+    <!-- new added js-->
+    <script type="text/javascript" src="js/searchjScrollPane.js"></script>
+    <link href="css/advance-search.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">
+
+        function openurl(url) {
+
+            window.open(url, '_blank');
+
+
+
+        }
+    
+    
+    </script>
+    <link href="dropdownmenu/live-preview.css" rel="stylesheet">
+    <script type="text/javascript" language="javascript">
+
+        $(document).ready(function () {
+
+
+
+            var storeIdvalue = $_GET('storeID');
+            var marIdVal = $_GET('mar');
+            var loungeIdVal = $_GET('lounge');
+
+
+
+            if (storeIdvalue == "1") {
+                $("[id*='imgprivecollections']").attr("src", "images/pc1.png");
+
+            }
+            if (storeIdvalue == "2") {
+                $("[id*='img5thavenue']").attr("src", "images/5th1.png");
+
+            }
+            if (storeIdvalue == "3") {
+                $("[id*='imgdealstreet']").attr("src", "images/ds1.png");
+
+            }
+
+            if (marIdVal == "1") {
+                $("[id*='imgmarchmadness']").attr("src", "images/nav-marchmadness.jpg");
+
+            }
+
+            if (loungeIdVal == "1") {
+                $("[id*='imghsllounge']").attr("src", "images/nav-hsllounge.jpg");
+
+            }
+
+
+        });
+
+        function $_GET(q, s) {
+            s = (s) ? s : window.location.search;
+            var re = new RegExp('&amp;' + q + '=([^&amp;]*)', 'i');
+            return (s = s.replace(/^\?/, '&amp;').match(re)) ? s = s[1] : s = '';
+        }
+       
+    </script>
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '244900172277699',
+                status: true,
+                cookie: true,
+                xfbml: true,
+                oauth: true
+            });
+        };
+        (function (d) {
+            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) { return; }
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            d.getElementsByTagName('head')[0].appendChild(js);
+        } (document));
+    </script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script>
+    <script type="text/javascript">
+
+        var isCartValid;
+        isCartValid = 'CartEmpty';
+
+        $(document).ready(function () {
+
+
+
+            $("[id*='lkbChangeCountry']").click(function () {
+                $("[id*='rptdv']").toggle(400);
+                return false;
+            });
+            $("[id*='rptdv']").mouseleave(function () {
+
+                $("[id*='rptdv']").css("display", "none");
+                return false;
+
+            });
+
+
+            //if ($.cookie("example") == null) {
+            if (isCartValid != "CartFilled")
+                $.cookie("example", null);
+            if (isCartValid == "CartEmpty" || ($.cookie("example") == null)) {
+                $("[id*='divTimerLeft']").hide();
+                $("[id='countdown']").hide();
+            }
+            else {
+
+                var timeVal = $.cookie("example");
+                if (timeVal == "0:0") {
+                    $.cookie("example", null);
+                    $("[id*='divTimerLeft']").hide();
+                    $("[id='countdown']").hide();
+                }
+                else {
+                    var timeList = timeVal.split(":");
+                    $("[id='countdown']").show();
+                    $("[id*='divTimerLeft']").show();
+                    var minuteVal = (parseInt(timeList[0]) * 60) + parseInt(timeList[1]);
+                    setTimer(minuteVal, 0);
+                }
+            }
+        });
+        $(function () {
+            $('#section').jScrollPane();
+            $('#sectionCategory').jScrollPane();
+            $('#sectionPrice').jScrollPane();
+            $('#sectionPrice').css("width", "90px");
+        });
+
+        function display(str) {
+
+            $("[id='countdown']").html(str);
+            var timeList = str.split(":");
+            if (timeList[1].length == 1) {
+                str1 = "0" + timeList[1];
+                $("[id='countdown']").html(timeList[0] + ":" + str1);
+            }
+
+            if (str == "0:0") {
+                $.cookie("example", null);
+                $("[id*='divTimerLeft']").hide();
+                $("[id='countdown']").hide();
+            }
+
+            else {
+
+                if (str == "0:3") {
+                    $.cookie("example", null);
+                    $("[id*='divTimerLeft']").hide();
+                    $("[id='countdown']").hide();
+                    PageMethods.EmptyCartOnSessionExpire(onSucessComplete);
+                }
+                else {
+
+                    $.cookie("example", str);
+
+                }
+            }
+        }
+
+        function toMinuteAndSecond(x) {
+            return Math.floor(x / 60) + ":" + x % 60;
+        }
+
+
+        function setTimer(remain, actions) {
+            (function countdown() {
+                //                if (remain == "0") {
+                //                    var date = new Date();
+                //                    date.setTime(date.getTime() + (0 * 0 * 0));
+                //                    $.cookie("example", "foo", { expires: date });
+                //                    isTimerEmpty = "true";
+                //                    $.cookie("example", null);
+                //                    display(toMinuteAndSecond(remain));
+                //                }
+                //                else {
+                display(toMinuteAndSecond(remain));
+                actions[remain] && actions[remain]();
+                (remain -= 1) >= 0 && setTimeout(arguments.callee, 1000);
+
+                //}
+            })();
+        }
+
+
+
+        function onSucessComplete(resonseJSON) {
+            alert("Your session has expired. Kindly re-select the items.");
+            window.location.href = "ViewMyCart.aspx";
+        }
+        //  setTimer(200,0);
+      
+    </script>
+    <script type="text/javascript" language="javascript">
+
+        $(document).ready(function () {
+
+            var storeIdvalue = $_GET('storeID');
+            var marIdVal = $_GET('mar');
+            var loungeIdVal = $_GET('lounge');
+
+
+
+            if (storeIdvalue == "1") {
+                $("[id*='imgprivecollections']").attr("src", "images/pc1.png");
+
+            }
+            if (storeIdvalue == "2") {
+                $("[id*='img5thavenue']").attr("src", "images/5th1.png");
+
+            }
+            if (storeIdvalue == "3") {
+                $("[id*='imgdealstreet']").attr("src", "images/ds1.png");
+
+            }
+
+            if (marIdVal == "1") {
+                $("[id*='imgmarchmadness']").attr("src", "images/nav-marchmadness.jpg");
+
+            }
+
+            if (loungeIdVal == "1") {
+                $("[id*='imghsllounge']").attr("src", "images/nav-hsllounge.jpg");
+
+            }
+        });
+
+        function $_GET(q, s) {
+            s = (s) ? s : window.location.search;
+            var re = new RegExp('&amp;' + q + '=([^&amp;]*)', 'i');
+            return (s = s.replace(/^\?/, '&amp;').match(re)) ? s = s[1] : s = '';
+        }
+       
+    </script>
+    <script language="javascript" type="text/javascript">
+
+        function open_in_new_tab(url) {
+            window.open(url, '_blank');
+            window.focus();
+        }
+    </script>
+    <style>
+        @font-face
+        {
+            font-family: 'Conv_pt-sans-regular-webfont';
+            src: url('fonts2/pt-sans-regular-webfont.eot');
+            src: url('fonts2/pt-sans-regular-webfont.woff') format('woff'), url('fonts2/pt-sans-regular-webfont.ttf') format('truetype'), url('fonts2/pt-sans-regular-webfont.svg') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+        
+        
+        * html
+        {
+            font-family: 'Conv_pt-sans-regular-webfont' ,Sans-Serif;
+            position: absolute;
+            -webkit-font-smoothing: antialiased !important;
+        }
+        
+        body
+        {
+            margin: 0px auto; /*background:url(../images/bodybg.jpg); */
+            font-family: 'Conv_pt-sans-regular-webfont' ,Sans-Serif;
+            -webkit-font-smoothing: none;
+            -webkit-font-smoothing: subpixel-antialiased;
+            -webkit-font-smoothing: antialiased;
+        }
+        p
+        {
+            font-family: 'Conv_pt-sans-regular-webfont' ,Sans-Serif;
+            -webkit-font-smoothing: none;
+            -webkit-font-smoothing: subpixel-antialiased;
+            -webkit-font-smoothing: antialiased;
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            var flg = false;
+            $('.fadein3 p:gt(0)').hide();
+            setInterval(function () {
+                $('.fadein3 :first-child').fadeOut(1000).next('p').fadeIn(2000).end().appendTo('.fadein3');
+            }, 4000);
+        });
+    </script>
+    <style>
+        .fadein3
+        {
+            position: relative;
+            width: 330px;
+            height: 20px;
+            padding: -20px 0px 0px 0px;
+        }
+        .fadein3 p
+        {
+            position: absolute;
+            left: 0px;
+            top: -20px;
+            display: block;
+            font-size: 11px;
+            color: #000;
+        }
+    </style>
+    
+ <!--[if lt IE 9]><link href="dropdownmenu/meganizr-ie.css" rel="stylesheet" type="text/css"><![endif]-->
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]><script src="dropdownmenu/html5.js"></script><![endif]-->
+</head>
+<body class="textbg">
+    <form method="post" action="Privacy.aspx" id="form1">
+<input type="hidden" name="ToolkitScriptManager1_HiddenField" id="ToolkitScriptManager1_HiddenField" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWFgIDDw8WAh4ISW1hZ2VVcmwFGGltYWdlcy9Db3VudHJ5L2luZGlhLnBuZ2RkAgUPDxYCHgRUZXh0BQVJbmRpYWRkAgcPEGRkFgBkAgkPFgIeB1Zpc2libGVoZAILD2QWAgIBDxYCHgtfIUl0ZW1Db3VudAIFFghmD2QWBAIBDw8WAh8ABRxpbWFnZXMvQ291bnRyeS9zaW5nYXBvcmUuanBnZGQCAw8PFgQfAQUJU2luZ2Fwb3JlHg9Db21tYW5kQXJndW1lbnQFAjExZGQCAQ9kFgQCAQ8PFgIfAAUaaW1hZ2VzL0NvdW50cnkvbWFsYXNpYS5qcGdkZAIDDw8WBB8BBQhNYWxheXNpYR8EBQIxM2RkAgIPZBYEAgEPDxYCHwAFHmltYWdlcy9Db3VudHJ5L3BoaWxpcHBpbmVzLmpwZ2RkAgMPDxYEHwEFC1BoaWxpcHBpbmVzHwQFAjE0ZGQCBA9kFgICAw8PFgQfAQUJQXVzdHJhbGlhHwQFAjIxZGQCDw8PFgIfAQUHU2lnbiBJbmRkAhEPZBYEAgEPDxYCHwEFBUd1ZXN0ZGQCAw8PFgIfAQUBMGRkAhMPZBYEAgMPFgIfAwIKFhQCAQ9kFgICAQ8WAh4EaHJlZgUwQnJhbmRQcm9kdWN0TGlzdGluZy5hc3B4P0JyYW5kSWQ9MTAxNDUmU3RvcmVJRD0xFgJmDxUBEEFsYmVydGEgRmVycmV0dGlkAgIPZBYCAgEPFgIfBQUwQnJhbmRQcm9kdWN0TGlzdGluZy5hc3B4P0JyYW5kSWQ9MTAxNjQmU3RvcmVJRD0xFgJmDxUBEUFsZXhhbmRlciBNY1F1ZWVuZAIDD2QWAgIBDxYCHwUFMEJyYW5kUHJvZHVjdExpc3RpbmcuYXNweD9CcmFuZElkPTEwMjgyJlN0b3JlSUQ9MRYCZg8VAQpCZXJuYXJkYXVkZAIED2QWAgIBDxYCHwUFMEJyYW5kUHJvZHVjdExpc3RpbmcuYXNweD9CcmFuZElkPTEwMzQyJlN0b3JlSUQ9MRYCZg8VARNCaGF2aWthIENvbGxlY3Rpb25zZAIFD2QWAgIBDxYCHwUFMEJyYW5kUHJvZHVjdExpc3RpbmcuYXNweD9CcmFuZElkPTEwMDU4JlN0b3JlSUQ9MRYCZg8VAQhCdXJiZXJyeWQCBg9kFgICAQ8WAh8FBTBCcmFuZFByb2R1Y3RMaXN0aW5nLmFzcHg/QnJhbmRJZD0xMDE1MCZTdG9yZUlEPTEWAmYPFQEGQ2VsaW5lZAIHD2QWAgIBDxYCHwUFMEJyYW5kUHJvZHVjdExpc3RpbmcuYXNweD9CcmFuZElkPTEwMDcwJlN0b3JlSUQ9MRYCZg8VAQZDaGxvw6hkAggPZBYCAgEPFgIfBQUwQnJhbmRQcm9kdWN0TGlzdGluZy5hc3B4P0JyYW5kSWQ9MTAwNzQmU3RvcmVJRD0xFgJmDxUBBUNvYWNoZAIJD2QWAgIBDxYCHwUFMEJyYW5kUHJvZHVjdExpc3RpbmcuYXNweD9CcmFuZElkPTEwMTM0JlN0b3JlSUQ9MRYCZg8VAQREYXVtZAIKD2QWAgIBDxYCHwUFMEJyYW5kUHJvZHVjdExpc3RpbmcuYXNweD9CcmFuZElkPTEwMDc1JlN0b3JlSUQ9MRYCZg8VAQ9Eb2xjZSAmIEdhYmJhbmFkAgUPFgIfAwIKFhRmD2QWAgIBDxYCHwUFMEJyYW5kUHJvZHVjdExpc3RpbmcuYXNweD9CcmFuZElkPTEwMTQzJlN0b3JlSUQ9MhYCZg8VAQMyTUVkAgEPZBYCAgEPFgIfBQUwQnJhbmRQcm9kdWN0TGlzdGluZy5hc3B4P0JyYW5kSWQ9MTAxNDUmU3RvcmVJRD0yFgJmDxUBEEFsYmVydGEgRmVycmV0dGlkAgIPZBYCAgEPFgIfBQUwQnJhbmRQcm9kdWN0TGlzdGluZy5hc3B4P0JyYW5kSWQ9MTAzMTImU3RvcmVJRD0yFgJmDxUBDkFsZnJlZCBEdW5oaWxsZAIDD2QWAgIBDxYCHwUFMEJyYW5kUHJvZHVjdExpc3RpbmcuYXNweD9CcmFuZElkPTEwMjU0JlN0b3JlSUQ9MhYCZg8VAQtBbHBpbmUgQ2x1YmQCBA9kFgICAQ8WAh8FBTBCcmFuZFByb2R1Y3RMaXN0aW5nLmFzcHg/QnJhbmRJZD0xMDI1NSZTdG9yZUlEPTIWAmYPFQESQW1lcmljYW4gVG91cmlzdGVyZAIFD2QWAgIBDxYCHwUFMEJyYW5kUHJvZHVjdExpc3RpbmcuYXNweD9CcmFuZElkPTEwMjcxJlN0b3JlSUQ9MhYCZg8VAQNBTkRkAgYPZBYCAgEPFgIfBQUwQnJhbmRQcm9kdWN0TGlzdGluZy5hc3B4P0JyYW5kSWQ9MTAzNTkmU3RvcmVJRD0yFgJmDxUBBUFudHlhZAIHD2QWAgIBDxYCHwUFMEJyYW5kUHJvZHVjdExpc3RpbmcuYXNweD9CcmFuZElkPTEwMTY1JlN0b3JlSUQ9MhYCZg8VAQxBcm1hbmkgSmVhbnNkAggPZBYCAgEPFgIfBQUwQnJhbmRQcm9kdWN0TGlzdGluZy5hc3B4P0JyYW5kSWQ9MTAyODUmU3RvcmVJRD0yFgJmDxUBBEFzbWlkAgkPZBYCAgEPFgIfBQUwQnJhbmRQcm9kdWN0TGlzdGluZy5hc3B4P0JyYW5kSWQ9MTAzMDImU3RvcmVJRD0yFgJmDxUBB0F2aXJhdGVkAhUPZBYCAgMPFgIfAwIKFhQCAQ9kFgJmDxUDATEBMgtBY2Nlc3Nvcmllc2QCAg9kFgJmDxUDATEBMQdBcHBhcmVsZAIDD2QWAmYPFQMBMQE3EkJlYXV0eSAmIENvc21ldGljc2QCBA9kFgJmDxUDATECMjIRQ29zdHVtZSBKZXdlbGxlcnlkAgUPZBYCZg8VAwExAjEwCEZvb3R3ZWFyZAIGD2QWAmYPFQMBMQE5EkZyYWdyYW5jZXMgICYgRGVvc2QCBw9kFgJmDxUDATECMTIISGFuZGJhZ3NkAggPZBYCZg8VAwExATgXSW5uZXIgV2VhciAvIE5pZ2h0IFdlYXJkAgkPZBYCZg8VAwExATYKU3VuZ2xhc3Nlc2QCCg9kFgJmDxUDATEBNQdXYXRjaGVzZAIXD2QWAgIDDxYCHwMCCxYWAgEPZBYCZg8VAwEyATILQWNjZXNzb3JpZXNkAgIPZBYCZg8VAwEyATEHQXBwYXJlbGQCAw9kFgJmDxUDATIBNxJCZWF1dHkgJiBDb3NtZXRpY3NkAgQPZBYCZg8VAwEyAjIyEUNvc3R1bWUgSmV3ZWxsZXJ5ZAIFD2QWAmYPFQMBMgIxMAhGb290d2VhcmQCBg9kFgJmDxUDATIBORJGcmFncmFuY2VzICAmIERlb3NkAgcPZBYCZg8VAwEyAjEyCEhhbmRiYWdzZAIID2QWAmYPFQMBMgE4F0lubmVyIFdlYXIgLyBOaWdodCBXZWFyZAIJD2QWAmYPFQMBMgEzDlJlYWwgSmV3ZWxsZXJ5ZAIKD2QWAmYPFQMBMgE2ClN1bmdsYXNzZXNkAgsPZBYCZg8VAwEyATUHV2F0Y2hlc2QCGQ9kFgICAw8WAh8DAgUWCgIBD2QWAmYPFQMBNwEyC0FjY2Vzc29yaWVzZAICD2QWAmYPFQMBNwIxMQVEZWNvcmQCAw9kFgJmDxUDATcCMTQHS2l0Y2hlbmQCBA9kFgJmDxUDATcCMjEKU3RhdGlvbmVyeWQCBQ9kFgJmDxUDATcCMjANVHJhdmVsICYgQmFnc2RkNq0pm8tfh1/k43R40JxW38LfiGw4jNGc9J3Uzm2/y0A=">
+
+
+<script src="/ScriptResource.axd?d=R_y8YZLFG9C1b1BQ67TMgyYlx2AfpfhzUSmRMGJws8lBXLNLrquk0TBGuKSrhBv1_1mpILmHyzwygldhLkKXKh27JYCEBAokY8zugBU_zTRIJ-ur9C8FiX1UjI5geUKSVA4MZe9XYQEMHDYRJSesQA2&amp;t=ffffffffd2acd832" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKWoN2mDQLPxfaKDQLPxfrnAwLKxY7FCALOxfKpBQLNxYaHCgLH9O3jAgLD5qm+CN9ogAsFUsVTEkIkyB2VENCKuAeSv4T0bjr7DYwGFcxJ">
+    
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '244900172277699',
+                status: true,
+                cookie: true,
+                xfbml: true,
+                oauth: true
+            });
+        };
+        (function (d) {
+            var js, id = 'facebook-jssdk'; if (d.getElementById(id)) { return; }
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            d.getElementsByTagName('head')[0].appendChild(js);
+        } (document));
+    </script>
+    <div class="dptc" id="divTimerLeft" style="display: none;">
+        <div class="dcc">
+            <div style="float: left; padding-left: 10px; font-size: 12px; color: #000;">
+                <img src="images/timer.png" alt="" style="vertical-align: middle;">
+                Your selected items will remain in the cart for : <span id="countdown" style="font-size: 16px;">
+                </span><span id="spnTag">minutes </span>
+            </div>
+            <div style="float: left; padding-left: 350px; font-size: 12px; color: #000;">
+                Once the session expires,
+                <br>
+                you have to "re-select" the items!</div>
+            
+        </div>
+    </div>
+    <div id="container">
+        <div id="home_main">
+            <!--HSL TOp banner Start here-->
+            <div class="hslTopBanner">
+                <table border="0" width="990px" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+                    <tbody><tr>
+                        <td valign="top">
+                            <div class="country">
+                                <div style="float: left;">
+                                    <img id="currentImg" src="images/Country/india.png" style="vertical-align: top;">
+                                    <span id="CurrentCountry" style="font-weight: bold;">India</span></div>
+                                
+                                
+                                
+                            </div>
+                            <div id="rptdv" style="display: none; float: left; margin-left: 30px;
+                                z-index: 9999px; overflow: hidden; position: absolute; background-color: White;
+                                opacity: 0.8">
+                                
+                                        <ul class="countrytabs">
+                                            <li class="border_none">
+                                                <img id="rptCountry_imgCountry_0" src="images/Country/singapore.jpg" style="vertical-align: top;">
+                                                <a id="rptCountry_lkbCountry_0" href="javascript:__doPostBack('ctl00$rptCountry$ctl00$lkbCountry','')" style="font-size: 10px;">Singapore</a>
+                                            </li>
+                                        </ul>
+                                    
+                                        <ul class="countrytabs">
+                                            <li class="border_none">
+                                                <img id="rptCountry_imgCountry_1" src="images/Country/malasia.jpg" style="vertical-align: top;">
+                                                <a id="rptCountry_lkbCountry_1" href="javascript:__doPostBack('ctl00$rptCountry$ctl01$lkbCountry','')" style="font-size: 10px;">Malaysia</a>
+                                            </li>
+                                        </ul>
+                                    
+                                        <ul class="countrytabs">
+                                            <li class="border_none">
+                                                <img id="rptCountry_imgCountry_2" src="images/Country/philippines.jpg" style="vertical-align: top;">
+                                                <a id="rptCountry_lkbCountry_2" href="javascript:__doPostBack('ctl00$rptCountry$ctl02$lkbCountry','')" style="font-size: 10px;">Philippines</a>
+                                            </li>
+                                        </ul>
+                                    
+                                        <ul class="countrytabs">
+                                            <li class="border_none">
+                                                <img id="rptCountry_imgCountry_3" src="" style="vertical-align: top;">
+                                                <a id="rptCountry_lkbCountry_3" href="javascript:__doPostBack('ctl00$rptCountry$ctl03$lkbCountry','')" style="font-size: 10px;"></a>
+                                            </li>
+                                        </ul>
+                                    
+                                        <ul class="countrytabs">
+                                            <li class="border_none">
+                                                <img id="rptCountry_imgCountry_4" src="" style="vertical-align: top;">
+                                                <a id="rptCountry_lkbCountry_4" href="javascript:__doPostBack('ctl00$rptCountry$ctl04$lkbCountry','')" style="font-size: 10px;">Australia</a>
+                                            </li>
+                                        </ul>
+                                    
+                            </div>
+                            <img src="images/zero.gif" width="330px" height="1px"><br>
+                            <div class="threeicons ">
+                                <!-- <div class="fadein3">  -->
+                                <div style="padding-top: 16px;">
+                                    <img src="images/5points.gif">
+                                    
+                                </div>
+                            </div>
+            
+            <div class="customercare mr12" id="mydiv">
+                <div class="phoneicon">
+                    <b>+91 124 4499399</b> (9AM-7PM Mon- Sat)</div>
+                <div class="mailicon">
+                    <a href="mailto:customercare@highstreetlabels.in">customercare@highstreetlabels.in</a></div>
+            </div>
+            </td>
+            <td width="100%" align="center">
+                <div style="position:relative;">
+<div style="position:absolute;left:340px;top:20px;"><a href="droolalert.aspx"><img src="images/cashbackbanner3.jpg"></a><br><a href="tandcoffers.aspx"><img src="images/cashbackbanner4.jpg"></a></div>
+				 <a href="index.aspx">
+                                    <img id="Image1" src="images/home-logo-transparent.png" height="105" width="148"></a></div>
+            </td>
+            <td valign="top" align="right">
+                <img src="images/zero.gif" width="330px" height="1px"><br>
+                <div class="tplinks1">
+                    <a href="http://www.highstreetlabels.in">Home</a> | <a href="Contact.aspx#email">Contact
+                        Us</a> |
+                    <a id="LinkButtonSignOut" href="javascript:__doPostBack('ctl00$LinkButtonSignOut','')">Sign In</a>
+                    | <a href="UserInfo.aspx">My Account</a>
+                </div>
+                <div class="fbbutton">
+                    <a href="javascript:void(0)" class="btn-facebook" onclick="fb_connect_login();">
+                        <img src="images/facebook1.jpg"></a></div>
+                
+<script type="text/javascript" language="javascript">
+
+    $(document).ready(function () {
+
+        if ($("[id*='hdnMiniCartHasItems']").val() == "0") {
+            $("[id*='trEmprtyMiniCart']").show();
+        }
+        else {
+            $("[id*='trEmprtyMiniCart']").hide();
+        }
+
+        $("[id*='ImgDeleteMiniProduct']").click(function () {
+
+            var MiniProTRDeleted = $(this).attr("miniproducttr");
+            $("#" + MiniProTRDeleted).remove();
+            PageMethods.RemoveIteamFromMiniCart($(this).attr("productid"));
+
+            //Remove from Main Cart
+            // if ($("[id*='hdnMainCartIsThere']") == 1) {
+
+            var MainCartTRDeleted = "tblMyCartMainIteam" + $(this).attr("CartIteamID");
+            $("#" + MainCartTRDeleted).remove();
+            PageMethods.RemoveIteamFromMyCart($(this).attr("CartIteamID"), $(this).attr("productid"), onMainCartDeletenSucessComplete, onDeleteFail);
+
+            function onMainCartDeletenSucessComplete(resonseJSON) {
+                $("[id*='lblCartTotalCast']").text(resonseJSON);
+                if (parseFloat(resonseJSON) == 0) {
+                    $("[id*='MainCartDiv']").hide();
+                    $("[id*='divcontinueShoping']").show();
+                    $("[id*='LinkButtonPaynow']").attr("disabled", "true");
+                    $("[id*='LinkButtonPaynow']").attr("title", "There is no item in cart, please continue shoping");
+                }
+            }
+
+            function onDeleteFail(resonseJSON) {
+
+
+            }
+        })
+    });
+</script>
+
+ <div class="welcome">
+                <span class="fontColor">Welcome </span>
+                <span id="ucMiniCart1_lblUserName" style="color:#e1191c;">Guest</span>
+</div>
+<div class="myCart" id="">
+
+			<div class="cartbg"><a href="ViewMyCart.aspx">My Cart</a>&nbsp;(<span id="ucMiniCart1_lblTotalMiniCart">0</span>)</div>
+                         
+            
+                    <table width="200" border="0" cellspacing="0" style="display:none;" cellpadding="0">
+                        <tbody><tr id="trEmprtyMiniCart">
+                            <td colspan="3" width="92" align="center" valign="middle" class="cartdrop-text">
+                                There is no item in your cart.
+                            </td>
+                        </tr>
+                        
+                    </tbody></table>
+                    <!-- end column -->
+                
+       
+</div>
+<input name="ctl00$ucMiniCart1$hdnMiniCartHasItems" type="hidden" id="ucMiniCart1_hdnMiniCartHasItems" value="0">
+            </td>
+            </tr> </tbody></table>
+        </div>
+    </div>
+    <div style="position: relative;">
+<div style="position:absolute;z-index:100002;left:340px;"><a href="droolalert.aspx"><img src="images/droolalertbutton.jpg"></a></div>
+        <table border="0" width="990px" cellpadding="0" cellspacing="0" class="mainmenubg">
+            <tbody><tr>
+                <td id="man" style="width: 500px;">
+                    <div>
+                        <ul class="meganizr" style="z-index: 100001;">
+                            <li id="liBrands" class="mzr-drop showhim"><a href="BrandsSearch.aspx">
+                                <span id="spnBrandActive"><b>BRANDS</b></span></a>
+                                <div id="dvbrand" class="mzr-content drop-four-columns" style="width: 990px; height: 200px;">
+                                    <ul id="Ul2" class="showme">
+                                        <div class="two-col" style="position: relative">
+                                            <div style="position: absolute; top: 85px; left: 902px;">
+                                                <a href="BrandsSearch.aspx" style="color: #000000;"><b>more brands...</b></a>
+                                            </div>
+                                            <div style="height: 100px; background-image: url('images/privebghome.jpg');">
+                                                <center style="padding: 2px 0px 0px 5px;">
+                                                    <a href="BrandsSearch.aspx">
+                                                        <img src="images/priveheadinghome.png"></a></center><a href="BrandsSearch.aspx">
+                            </a><center><a href="BrandsSearch.aspx">
+                                                     </a><ul class="logos"><a href="BrandsSearch.aspx">
+						     </a><li><a href="BrandsSearch.aspx"></a><a href="BrandProductListing.aspx?Brandid=10072&amp;StoreID=1"><img src="http://highstreetlabels.in/ServeImage.ashx?id=3316"></a></li>
+						     <li><a href="BrandProductListing.aspx?Brandid=10070&amp;StoreID=1"><img src="http://highstreetlabels.in/ServeImage.ashx?id=2733"></a></li>
+						     <li><a href="BrandProductListing.aspx?Brandid=10074&amp;StoreID=1"><img src="http://highstreetlabels.in/ServeImage.ashx?id=4321"></a></li>
+						     <li><a href="BrandProductListing.aspx?Brandid=10052&amp;StoreID=1"><img src="http://highstreetlabels.in/ServeImage.ashx?id=2725"></a></li>
+						     <li><a href="BrandProductListing.aspx?Brandid=10097&amp;StoreID=1"><img src="http://highstreetlabels.in/ServeImage.ashx?id=2502"></a></li>
+						     <li><a href="BrandProductListing.aspx?Brandid=10262&amp;StoreID=1"><img src="http://highstreetlabels.in/ServeImage.ashx?id=7158"></a></li>
+						     <li><a href="BrandProductListing.aspx?Brandid=10279&amp;StoreID=1"><img src="http://highstreetlabels.in/ServeImage.ashx?id=4081"></a></li>
+						     <li><a href="BrandProductListing.aspx?Brandid=10297&amp;StoreID=1"><img src="http://highstreetlabels.in/ServeImage.ashx?id=5424"></a></li>
+						      <li><a href="BrandProductListing.aspx?Brandid=10098&amp;StoreID=1"><img src="http://highstreetlabels.in/ServeImage.ashx?id=2505"></a></li>
+						      <li><a href="BrandProductListing.aspx?Brandid=10189&amp;StoreID=1"><img src="http://highstreetlabels.in/ServeImage.ashx?id=6148"></a></li>
+						      </ul>
+						      </center>
+						      
+						      <div style="display: none;">
+                                                    
+                                                            <img src="dropdownmenu/prive-brands.png" alt="prive Collection Brands" style="margin: 0px 0px 7px 0px;">
+                                                        
+                                                            <ul>
+                                                                <li class="brandsdropdown"><a href="BrandProductListing.aspx?BrandId=10145&amp;StoreID=1" id="rptPrevBrand_aBrand_0">
+                                                                    Alberta Ferretti
+                                                                </a></li>
+                                                            </ul>
+                                                        
+                                                            <ul>
+                                                                <li class="brandsdropdown"><a href="BrandProductListing.aspx?BrandId=10164&amp;StoreID=1" id="rptPrevBrand_aBrand_1">
+                                                                    Alexander McQueen
+                                                                </a></li>
+                                                            </ul>
+                                                        
+                                                            <ul>
+                                                                <li class="brandsdropdown"><a href="BrandProductListing.aspx?BrandId=10282&amp;StoreID=1" id="rptPrevBrand_aBrand_2">
+                                                                    Bernardaud
+                                                                </a></li>
+                                                            </ul>
+                                                        
+                                                            <ul>
+                                                                <li class="brandsdropdown"><a href="BrandProductListing.aspx?BrandId=10342&amp;StoreID=1" id="rptPrevBrand_aBrand_3">
+                                                                    Bhavika Collections
+                                                                </a></li>
+                                                            </ul>
+                                                        
+                                                            <ul>
+                                                                <li class="brandsdropdown"><a href="BrandProductListing.aspx?BrandId=10058&amp;StoreID=1" id="rptPrevBrand_aBrand_4">
+                                                                    Burberry
+                                                                </a></li>
+                                                            </ul>
+                                                        
+                                                            <ul>
+                                                                <li class="brandsdropdown"><a href="BrandProductListing.aspx?BrandId=10150&amp;StoreID=1" id="rptPrevBrand_aBrand_5">
+                                                                    Celine
+                                                                </a></li>
+                                                            </ul>
+                                                        
+                                                            <ul>
+                                                                <li class="brandsdropdown"><a href="BrandProductListing.aspx?BrandId=10070&amp;StoreID=1" id="rptPrevBrand_aBrand_6">
+                                                                    Chloè
+                                                                </a></li>
+                                                            </ul>
+                                                        
+                                                            <ul>
+                                                                <li class="brandsdropdown"><a href="BrandProductListing.aspx?BrandId=10074&amp;StoreID=1" id="rptPrevBrand_aBrand_7">
+                                                                    Coach
+                                                                </a></li>
+                                                            </ul>
+                                                        
+                                                            <ul>
+                                                                <li class="brandsdropdown"><a href="BrandProductListing.aspx?BrandId=10134&amp;StoreID=1" id="rptPrevBrand_aBrand_8">
+                                                                    Daum
+                                                                </a></li>
+                                                            </ul>
+                                                        
+                                                            <ul>
+                                                                <li class="brandsdropdown"><a href="BrandProductListing.aspx?BrandId=10075&amp;StoreID=1" id="rptPrevBrand_aBrand_9">
+                                                                    Dolce &amp; Gabbana
+                                                                </a></li>
+                                                            </ul>
+                                                        
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="two-col">
+                                            <div style="height: 100px; background-image: url('images/5thbghome.jpg'); position: relative;" class="alpha">
+                                                <div style="position: absolute; top: 85px; left: 902px;">
+                                                    <a href="BrandsSearch.aspx" style="color: #000000;"><b>more brands...</b></a>
+                                                </div>
+                                                <center style="padding: 5px 0px 5px 0px;">
+                                                    <a href="BrandsSearch.aspx">
+                                                        <img src="images/5thheadinghome.png"></a></center>
+                                                <table align="center" style="margin-top: 3px;">
+                                                    <tbody><tr>
+                                                        <td>
+                                                            <div class="fththtoplinks">
+                                                                <a href="BrandProductListing.aspx?Brandid=10255&amp;StoreID=2">American Tourister</a></div>
+                                                        </td>
+                                                        <td>
+                                                            <div class="fththtoplinks">
+                                                                <a href="BrandProductListing.aspx?Brandid=10271&amp;StoreID=2">AND</a></div>
+                                                        </td>
+                                                        <td>
+                                                            <div class="fththtoplinks">
+                                                                <a href="BrandProductListing.aspx?Brandid=10290&amp;StoreID=2">Catwalk</a></div>
+                                                        </td>
+                                                        <td>
+                                                            <div class="fththtoplinks">
+                                                                <a href="BrandProductListing.aspx?Brandid=10000&amp;StoreID=2">Christian Audigier </a>
+                                                            </div>
+                                                        </td>
+                                                        <td>
+                                                            <div class="fththtoplinks">
+                                                                <a href="BrandProductListing.aspx?Brandid=10126&amp;StoreID=2">DKNY</a></div>
+                                                        </td>
+                                                        <td>
+                                                            <div class="fththtoplinks">
+                                                                <a href="BrandProductListing.aspx?Brandid=10284&amp;StoreID=2">D'Damas</a></div>
+                                                        </td>
+                                                        <td>
+                                                            <div class="fththtoplinks">
+                                                                <a href="BrandProductListing.aspx?Brandid=10127&amp;StoreID=2">Ed Hardy</a></div>
+                                                        </td>
+                                                        <td>
+                                                            <div class="fththtoplinks">
+                                                                <a href="BrandProductListing.aspx?Brandid=10095&amp;StoreID=2">Just Cavalli</a></div>
+                                                        </td>
+                                                        <td>
+                                                            <div class="fththtoplinks">
+                                                                <a href="BrandProductListing.aspx?Brandid=10115&amp;StoreID=2">Puma</a></div>
+                                                        </td>
+                                                        <td>
+                                                            <div class="fththtoplinks">
+                                                                <a href="BrandProductListing.aspx?Brandid=10114&amp;StoreID=2">Reebok</a></div>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                                <table border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top: 10px;
+                                                    display: none;">
+                                                    <tbody><tr>
+                                                        
+                                                                <td>
+                                                                    <span class="brandsdropdown1"><a href="BrandProductListing.aspx?BrandId=10143&amp;StoreID=2" id="rpt5thAvenue_aBrand_0">
+                                                                        2ME
+                                                                        
+                                                                    </a></span>
+                                                                </td>
+                                                            
+                                                                <td>
+                                                                    <span class="brandsdropdown1"><a href="BrandProductListing.aspx?BrandId=10145&amp;StoreID=2" id="rpt5thAvenue_aBrand_1">
+                                                                        Alberta Ferretti
+                                                                        
+                                                                    </a></span>
+                                                                </td>
+                                                            
+                                                                <td>
+                                                                    <span class="brandsdropdown1"><a href="BrandProductListing.aspx?BrandId=10312&amp;StoreID=2" id="rpt5thAvenue_aBrand_2">
+                                                                        Alfred Dunhill
+                                                                        
+                                                                    </a></span>
+                                                                </td>
+                                                            
+                                                                <td>
+                                                                    <span class="brandsdropdown1"><a href="BrandProductListing.aspx?BrandId=10254&amp;StoreID=2" id="rpt5thAvenue_aBrand_3">
+                                                                        Alpine Club
+                                                                        
+                                                                    </a></span>
+                                                                </td>
+                                                            
+                                                                <td>
+                                                                    <span class="brandsdropdown1"><a href="BrandProductListing.aspx?BrandId=10255&amp;StoreID=2" id="rpt5thAvenue_aBrand_4">
+                                                                        American Tourister
+                                                                        
+                                                                    </a></span>
+                                                                </td>
+                                                            
+                                                                <td>
+                                                                    <span class="brandsdropdown1"><a href="BrandProductListing.aspx?BrandId=10271&amp;StoreID=2" id="rpt5thAvenue_aBrand_5">
+                                                                        AND
+                                                                        
+                                                                    </a></span>
+                                                                </td>
+                                                            
+                                                                <td>
+                                                                    <span class="brandsdropdown1"><a href="BrandProductListing.aspx?BrandId=10359&amp;StoreID=2" id="rpt5thAvenue_aBrand_6">
+                                                                        Antya
+                                                                        
+                                                                    </a></span>
+                                                                </td>
+                                                            
+                                                                <td>
+                                                                    <span class="brandsdropdown1"><a href="BrandProductListing.aspx?BrandId=10165&amp;StoreID=2" id="rpt5thAvenue_aBrand_7">
+                                                                        Armani Jeans
+                                                                        
+                                                                    </a></span>
+                                                                </td>
+                                                            
+                                                                <td>
+                                                                    <span class="brandsdropdown1"><a href="BrandProductListing.aspx?BrandId=10285&amp;StoreID=2" id="rpt5thAvenue_aBrand_8">
+                                                                        Asmi
+                                                                        
+                                                                    </a></span>
+                                                                </td>
+                                                            
+                                                                <td>
+                                                                    <span class="brandsdropdown1"><a href="BrandProductListing.aspx?BrandId=10302&amp;StoreID=2" id="rpt5thAvenue_aBrand_9">
+                                                                        Avirate
+                                                                        
+                                                                    </a></span>
+                                                                </td>
+                                                            
+                                                    </tr>
+                                                </tbody></table>
+                                            </div>
+                                        </div>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li id="liMen" class="mzr-drop showhim mzr-levels"><a href="MainCategory.aspx?MainCatID=1">
+                                <span id="spnMenActive"><b>MEN</b></span></a>
+                                <ul id="dvmen" class="showme" style="width: 970px; height: 180px; background-image: url('images/menbg.jpg');
+                                    background-position: top right; background-repeat: no-repeat;">
+                                    
+                                            <ul style="width: 350px; display: block;">
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=1&amp;parentcatid=2">
+                                                Accessories</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=1&amp;parentcatid=1">
+                                                Apparel</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=1&amp;parentcatid=7">
+                                                Beauty &amp; Cosmetics</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=1&amp;parentcatid=22">
+                                                Costume Jewellery</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=1&amp;parentcatid=10">
+                                                Footwear</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=1&amp;parentcatid=9">
+                                                Fragrances  &amp; Deos</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=1&amp;parentcatid=12">
+                                                Handbags</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=1&amp;parentcatid=8">
+                                                Inner Wear / Night Wear</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=1&amp;parentcatid=6">
+                                                Sunglasses</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=1&amp;parentcatid=5">
+                                                Watches</a> </li>
+                                        
+                                            </ul>
+                                        
+                                </ul>
+                            </li>
+                            <li id="liWomen" class="mzr-drop showhim mzr-levels"><a href="MainCategory.aspx?MainCatID=2">
+                                <span id="spnWomenActive"><b>WOMEN</b></span></a>
+                                <ul id="dvwoman" class="showme" style="width: 970px; height: 180px; background-image: url('images/womenbg.jpg');
+                                    background-position: top right; background-repeat: no-repeat;">
+                                    
+                                            <ul style="width: 350px; display: block;">
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=2&amp;parentcatid=2">
+                                                Accessories</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=2&amp;parentcatid=1">
+                                                Apparel</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=2&amp;parentcatid=7">
+                                                Beauty &amp; Cosmetics</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=2&amp;parentcatid=22">
+                                                Costume Jewellery</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=2&amp;parentcatid=10">
+                                                Footwear</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=2&amp;parentcatid=9">
+                                                Fragrances  &amp; Deos</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=2&amp;parentcatid=12">
+                                                Handbags</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=2&amp;parentcatid=8">
+                                                Inner Wear / Night Wear</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=2&amp;parentcatid=3">
+                                                Real Jewellery</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=2&amp;parentcatid=6">
+                                                Sunglasses</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=2&amp;parentcatid=5">
+                                                Watches</a> </li>
+                                        
+                                            </ul>
+                                        
+                                </ul>
+                            </li>
+                            <li id="liHome" class="mzr-drop showhim"><a href="MainCategory.aspx?MainCatID=7">
+                                <span id="spnHomeActive"><b>HOME &amp; LIVING</b></span></a>
+                                <ul id="Div2" class="showme" style="width: 970px; height: 180px; background-image: url('images/homeliving.jpg');
+                                    background-position: top right; background-repeat: no-repeat;">
+                                    
+                                            <ul style="width: 350px; display: block;">
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=7&amp;parentcatid=2">
+                                                Accessories</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=7&amp;parentcatid=11">
+                                                Decor</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=7&amp;parentcatid=14">
+                                                Kitchen</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=7&amp;parentcatid=21">
+                                                Stationery</a> </li>
+                                        
+                                            <li style="float: left; width: 150px; margin-right: 15px;"><a href="CategoryProductListing.aspx?maincatid=7&amp;parentcatid=20">
+                                                Travel &amp; Bags</a> </li>
+                                        
+                                            </ul>
+                                        
+                                </ul>
+                            </li>
+                            <!--<li id="li1"  class="mzr-drop showhim"><a href="#"><span id="Span1" ><b>SPECIALS</b></span></a>-->
+                        </ul>
+                    </div>
+                </td>
+                <td style="float: right;">
+                    <ul class="meganizr">
+                        <li id="liGift" class="mzr-drop"><a href="giftcardHome.aspx"><span id="spnGiftActive">Gift Card </span></a></li>
+                        <li id="liInvite" class="mzr-drop"><a href="invitations.aspx"><span id="spnInviteActive">Invite Friends</span></a></li>
+                        <li id="liLounge" class="mzr-drop"><a href="HighStreetLounge.aspx?lounge=1">
+                            <span id="spnLoungeActive">High Street Lounge </span></a></li>
+                        <!--<li  id="li2"  class="mzr-drop"><a href="#"><span id="Span2">Partners</span> </a></li> -->
+                        <!-- end Contact Form -->
+                    </ul>
+                </td>
+		<td><div style="margin-left:15px;"><a href="partnerbank.aspx"><img src="images/xtravaganza.jpg"></a></div></td>
+            </tr>
+        </tbody></table>
+    </div>
+    <div>
+        <table width="990px" cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+                <td width="865px" height="10px">
+                    <div>
+                        
+                        
+                        
+<div class="breadcrumb">
+    
+</div>
+
+                    </div>
+                </td>
+                <td id="tdRoundImg">
+                    <img src="images/zero.gif" width="125px" height="1px">
+                </td>
+            </tr>
+        </tbody></table>
+        <div>
+            
+
+
+  <h2 class="hd"><img src="images/mp_privacy.jpg"></h2>
+     <div class="wrapper">
+<div id="st-accordion" class="st-accordion">
+<p>Highstreetlabels.in is committed to protecting the privacy of visitors to this site (the "Site"). This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.</p>
+
+<p>During the registration process, we collect personal information such as your name and email address. Once you complete and submit your registration, you have opted in to receive email communication from us. You can choose to opt out of marketing communication sent by the site.</p>
+
+<p>We also collect personal information when you choose to use certain other features of the Site, such as making purchases or electing to receive text messages about upcoming events or promotions. When you choose to use these additional features, we require you to provide additional personal information such as your phone number, billing and shipping addresses, and we may request additional personal information such as your shopping preferences and demographics.</p>
+
+<p>In addition, through the Site, we automatically gather certain information about the use of the Site, such as how frequently certain areas of the Site are visited, including through the use of cookies, web beacons and other technologies. Most browsers can be set to prevent cookies or to notify you when one is being placed. However, cookies are necessary to access the Site.</p>
+
+<p>The Site also makes use of a technology designed to enhance your browsing experience and to provide aggregate non-personally identifiable information about the use of the Site to us.</p>
+
+<p>If you choose to invite an individual to join Highstreetlabels.in, you will need to provide his/her name and email address. Highstreetlabels.in stores this information to confirm qualifying orders attributable to your account and to track the results of the invitation referrals.</p>
+<ul>
+	<li>
+	<a href="#">How We Use Your Information <span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>We will not share or disclose your information to anyone except as described in this Privacy Policy.</p>
+<p>We use personally identifiable information in order to give you a more enjoyable, convenient shopping experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site. We may also track your past purchases to provide you with a personalized profile of your shopping history. In addition, we may notify you about new services or special promotional programs, or send you offers or information.</p>
+
+<p>We may permit certain trusted third parties to access your information in connection with their performance of services to maintain and operate the Site and certain features on the Site. For example, we may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders.
+</p>
+<p>Also, we may share personally identifiable or other information with our parent, subsidiaries, divisions, and affiliates.</p>
+
+<p>Occasionally, we provide our postal mailing list (consisting of customer names and postal mailing addresses, but not email addresses) to other companies whose products we believe may be of interest to you. In order to determine those products that we believe may be of interest to you, the information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources.</p>
+
+<p>We may transfer personally identifiable information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control.</p>
+
+<p>We reserve the right to disclose information in order to comply with a subpoena, court order, administrative or governmental order, or any other requirement of law, or when we, in our sole discretion, believe it is necessary in order to protect our rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk reduction.</p>
+
+<p>If you use a bulletin board, chat room or any other publicly accessible area of the Site, you should be aware that any personally identifiable information you submit there can be read, collected or used by any person for any purpose. We are not responsible for the personally identifiable or other information you choose to submit in these forums.</p>
+
+<p>You will receive notice when your personally identifiable information might be provided to any third party for any reason other than as set forth in this Privacy Policy, and you will have an opportunity to request that we not share such information.</p>
+
+<p>We use non-personally identifiable information in the aggregate, so that we can improve the Site and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.</p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">How We Protect Your Information <span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>We are committed to protecting the information we receive from you. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.</p>
+<p>The Site encrypts your personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, only those employees and third parties who need access to your information in order to perform their duties are allowed such access.</p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">Accessing and Updating Your Personal Information and Preferences <span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us. Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. In addition, you may update or change your personal information or preferences. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to thirty business days as we process your request.
+While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction.</p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">Children's Privacy and Parental Controls <span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>We do not solicit any personal information from children. If you are not 18 or older, you are not authorized to use the Site. Parents should be aware that there are parental control tools available online that you can use to prevent your children from submitting information online without parental permission or from accessing material that is harmful to minors.</p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">Privacy Policy Changes <span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>If we decide to change our Privacy Policy for the Site, we will post the revised Privacy Policy here so that you will always know what information we gather, how we might use that information and whether we may disclose it to anyone. Your continued use of the Site indicates your assent to the Privacy Policy as posted.</p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">Links<span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>Highstreetlabels.in contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. This Privacy Policy applies solely to information collected by this Site.</p>
+<p>We are not responsible for how these other companies or organizations collect, use, disclose, or secure the information that you provide them. If you choose to access a third party site linked to our Site, you do so at your own risk and subject to any terms of service or privacy policy (if any) associated with such third party sites. We encourage you to ask questions before you disclose your personal information to any third party.</p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">Safeguards<span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>Appropriate security safeguards are in place to protect personal data against unauthorized access, misuse, disclosure, copying, use, alteration, accidental loss or theft, destruction or damage.</p>
+<p>Only authorized personnel have access to our systems, and all employees in our organization are aware of the importance of maintaining confidentiality of the personal data collected from users.</p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">Your Use Of Other's Information<span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>You agree to respect to other users' personal information that you obtain through the Site or through any Highstreetlabels.in-related communication or transaction.
+In addition, under no circumstances will you disclose personal information about another user to any third party without our consent and the consent of such other user after adequate disclosure. </p>
+Please note that law enforcement personnel and other rights holders are given different rights with respect to information they access.
+We and our users do not tolerate spam.<p></p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">Accountability<span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>Highstreetlabels.in is committed to protecting the privacy of visitors to the Site and is responsible for all personal data collected. All personal data collected will be used and processed fairly and lawfully while in our possession or custody.</p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">Control Your Password<span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>You are responsible for all actions taken with your username and/or password. Therefore you should not disclose your Highstreetlabels.in password to any third parties. If you choose to share your username and/or password or your information with third parties to provide you with additional services, you agree that you are responsible for all actions taken with your username and/or password and therefore you should review that third party's privacy policy.</p>
+		<p>If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password and notify Highstreetlabels.in.</p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">What are Cookies? <span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>A cookie is a small information file that is sent to your computer and is stored on your hard drive. If you have registered with us then your computer will store an identifying cookie which will save you time each time you re-visit Highstreetlabels.in, by remembering your email address for you. You can change the settings on your browser to prevent cookies being stored on your computer without your explicit consent.</p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">Site Statistics<span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>We may disclose aggregate, anonymised statistics about the number of visitors to this Website or number of purchases made as required by our investors. We use an independent measurement and research company to gather data regarding the visitors to this Website on our behalf using cookies and code which is embedded in the site. Both the cookies and the embedded code provide statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. Highstreetlabels.in uses and stores this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users. Further information regarding the way in which this information is obtained and used can be obtained by contacting us at contact@Highstreetlabels.in.</p>
+		</div>
+	</li>
+
+		<li>
+	<a href="#">Checking your Details<span class="st-arrow">Open or Close</span></a>
+		<div class="st-content" style="display: none;">
+		<p>If you wish to verify the details you have submitted to Highstreetlabels.in you may do so in the My Account page under my profile OR by contacting us via the e-mail address or address given below. Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your e-mail address and password submitted upon registration. You must therefore keep this information safe as you will be responsible for any action which we take in response to a request from someone using your e-mail and password. We would strongly recommend that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information.</p>
+		</div>
+	</li>
+
+		
+</ul>
+</div>
+</div>
+      
+        <script type="text/javascript" src="Scripts/jquery.min.js"></script>
+		<script type="text/javascript" src="Scripts/jquery.accordion.js"></script>
+		<script type="text/javascript" src="Scripts/jquery.easing.1.3.js"></script>
+        <script type="text/javascript">
+            $(function () {
+
+                $('#st-accordion').accordion({
+                    oneOpenedItem: true
+                });
+
+            });
+        </script>
+
+
+
+
+
+        </div>
+        <!--HSL Middle section Start here-->
+        <!--HSL Middle close here-->
+        <div class="clear">
+        </div>
+        <hr>
+        <table width="990px" cellpadding="0" cellspacing="0" class="footer">
+            <tbody><tr>
+                <td width="100%">
+                    <a href="loginPage_abouthsl.aspx">About HSL</a> | <a href="TermsOfService.aspx">Terms
+                        of Service</a> | <a href="faq.aspx">FAQs</a> | <a href="Privacy.aspx">Privacy</a>
+                    | <a href="Contact.aspx#email">Contact Us</a><br>
+                    <br>
+                    <p id="socialicons">
+                        <span style="font-size: 11px;">Follow us on :</span> <a href="https://www.facebook.com/highstreetlabels.in" target="_new">
+                            <img src="images/facebook-hsl.png"></a><a href="http://pinterest.com/hslindia/" target="_new"><img src="images/pintrust-hsl.png" hspace="5"></a><a href="https://twitter.com/#!/hslindia" target="_new"><img src="images/twitter-hsl.png"></a>
+                    </p>
+                </td>
+                <td width="149px;">
+                      <img src="images/amex-india.png"> 
+                </td>
+            </tr>
+        </tbody></table>
+        <br>
+    </div>
+    <!--HSL Footer close here-->
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+
+
+
+   </div></form></body></html>
