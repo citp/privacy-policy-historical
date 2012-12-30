@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516050324id_/http%3A//www.partsexpress.com/security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parts-express.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230054855id_/http%3A//www.parts-express.com/security.cfm) for the most accurate reproduction.*
 
-# Security / Privacy at Parts Express
+# Parts-Express.com - Security / Privacy: Your security and privacy is a primary concern of ours. Here is a list of our policies.
 
 Your Privacy And Security Matters To Us
 
@@ -22,7 +22,7 @@ We Do Not Disclose Your Private Online Communications
 
 We honor the confidentiality of our customers' private e-mail communications with Parts Express, as well as any profile data you may create. 
 
-OPT-In and OPT–Out Newsletter 
+OPT-In and OPT-Out Newsletter 
 
 The Parts Express online newsletter is an opt-in newsletter, customers at their option can sign up to receive the electronic newsletter. Any customer at anytime can opt-out or unsubscribe to the newsletter. Clear instructions on how to unsubscribe are included with every mailing. This mailing list is never sold, rented or used by a third party.
 
@@ -32,7 +32,7 @@ By shopping with us, you consent to the collection and use of this information b
 
 Cookies
 
-Our site uses cookies to store information between visits to our site. Cookies are a mechanism to remember information about a visitor from one page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that information up to the server at one time. We use cookies to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. Our website requires the use of cookies. Turning off cookies or rejecting the partsexpress.com cookie will prevent you from accessing the website. 
+Our site uses cookies to store information between visits to our site. Cookies are a mechanism to remember information about a visitor from one page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that information up to the server at one time. We use cookies to remember your name and the contents of your shopping cart. This allows you to leave our site, come back later, and still have the contents of your shopping cart intact. Our website requires the use of cookies. Turning off cookies or rejecting the parts-express.com cookie will prevent you from accessing the website. 
 
 In Summary
 
@@ -40,4 +40,4 @@ We are committed to protecting your privacy. We use the information we collect o
 
 Tell Us What You Think
 
-Parts Express welcomes your questions and comments about privacy. Please send e-mail to [privacy@partsexpress.com](mailto:feedback@partsexpress.com.com). 
+Parts Express welcomes your questions and comments about privacy. Please send e-mail to [privacy@parts-express.com](mailto:feedback@parts-express.com.com). 
