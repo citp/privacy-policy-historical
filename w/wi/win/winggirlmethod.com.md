@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the winggirlmethod.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602211920id_/http%3A//www.winggirlmethod.com/the-wing-girl-method-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winggirlmethod.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230223149id_/http%3A//www.winggirlmethod.com/privacy-policy) for the most accurate reproduction.*
 
-# The Wing Girl Method Privacy Policy | The Wing Girl Method
+# Privacy Policy | Wing Girl Method - Do you want to attract women?
 
-**WingGirlMethod.com** (The Wing Girl Method, Wing Girls ™)
+## The Wing Girl Method Privacy Policy
+
+**WingGirlMethod.com** (The Wing Girl Method, Wing Girls™)
 
 **Privacy Policy**
 
@@ -36,9 +38,9 @@ The Wing Girl Method Web sites will disclose your personal information, without 
 
 The Wing Girl Method Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize The Wing Girl Method pages, or register with The Wing Girl Method site or services, a cookie helps The Wing Girl Method to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same The Wing Girl Method Web site, the information you previously provided can be retrieved, so you can easily use [The Wing Girl Method](http://www.winggirlmethod.com/) features that you customized.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize The Wing Girl Method pages, or register with The Wing Girl Method site or services, a cookie helps The Wing Girl Method to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same The Wing Girl Method Web site, the information you previously provided can be retrieved, so you can easily use The Wing Girl Method features that you customized.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of [The Wing Girl Method](http://www.winggirlmethod.com/) services or Web sites you visit.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of The Wing Girl Method services or Web sites you visit.
 
 **Opting Out**
 
@@ -54,4 +56,4 @@ The Wing Girl Method will occasionally update this Statement of Privacy to refle
 
 **Contact Information**
 
-[The Wing Girl Method](http://www.winggirlmethod.com/) welcomes your comments regarding this Statement of Privacy. If you believe that The Wing Girl Method has not adhered to this Statement, please contact [The Wing Girl Method](http://www.winggirlmethod.com/) info@winggirlmethod.com . We will use commercially reasonable efforts to promptly determine and remedy the problem.
+The Wing Girl Method welcomes your comments regarding this Statement of Privacy. If you believe that The Wing Girl Method has not adhered to this Statement, please contact The Wing Girl Method at [ info@winggirlmethod.com](mailto:info@winggirlmethod.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
