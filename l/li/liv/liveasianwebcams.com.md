@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveasianwebcams.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501101234id_/http%3A//liveasianwebcams.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveasianwebcams.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184627id_/http%3A//www.liveasianwebcams.com/privacy.html) for the most accurate reproduction.*
 
 # Asian Webcam: Chat With Hot Asian Girls | LiveAsianWebcams.com
 
@@ -18,7 +18,7 @@ This notice applies to all information collected or submitted on LiveAsianWebcam
 
 
 **The Way We Use Information:**  
-Customer information such as name, address and email may be verified between LiveAsianWebcams and your credit card issuing bank for security purposes. Information is not shared with any other parties.
+Customer information such as name, address and email may be verified between LiveAsianWebcams and your credit card issuing bank for security purposes. Information is not shared with any other parties. Your email may also be used to contact you.
 
 **Our Commitment To Data Security**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
