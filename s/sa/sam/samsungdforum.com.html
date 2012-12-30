@@ -1,0 +1,1311 @@
+<!--The following is the downloaded HTML source of the samsungdforum.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230193119id_/http%3A//samsungdforum.com/Main/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<!-- iPhone --> 
+	<link rel="apple-touch-icon" href="/Content/images/apple/apple-touch-icon.png">
+	<link rel="apple-touch-icon-precomposed" href="/Content/images/apple/apple-touch-icon-precomposed.png">
+	<link rel="apple-touch-icon" sizes="57x57" href="/Content/images/apple/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/Content/images/apple/apple-touch-icon-57x57-precomposed.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/Content/images/apple/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Content/images/apple/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/Content/images/apple/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/Content/images/apple/apple-touch-icon-144x144-precomposed.png">
+
+
+	<title>
+	Privacy policy - SAMSUNG SMART TV APPS Developer Forum
+
+	</title>
+
+	
+		<meta name="description" content="SAMSUNG D Forum is a website for developers and partners who wants to develop an application for the Samsung Smart TV platform.">
+	
+		<meta name="keyword" content="Samsungdforum, Samsung Smart TV SDK, Samsung Developer Forums, Smart TV, Samsung Smart TV Application Development">
+		
+
+    <link rel="shortcut icon" href="http://www.samsungdforum.com//favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://www.samsungdforum.com//favicon.ico" type="image/x-icon">
+
+	<link rel="stylesheet" type="text/css" href="/Content/editor/css/editor.css">
+    
+            
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Content/Scripts/jQuery/jquery-1.7.1.js" type="text/javascript"></script>  
+	<script src="/Content/Scripts/jQuery/jquery.blockUI.js" type="text/javascript"></script> 
+    
+					
+    <script type="text/javascript" src="/Content/Scripts/Common.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="/content/css/popup.css">
+	<link rel="stylesheet" type="text/css" href="/content/css/common.css">
+	
+		<link rel="stylesheet" type="text/css" href="/content/css/sub.css">
+	
+	<script type="text/javascript" src="/content/js/gnbnav.js"></script>
+
+    <!--숫자입력관련-->
+    <script type="text/javascript" src="/Content/Scripts/jQuery/jquery.alphanumeric.pack.js"></script>
+
+    <!--Layer 컨펌창 -->
+	<link rel="stylesheet" type="text/css" href="/Content/css/confirm.css">
+    <script language="javascript" src="/Content/Scripts/Confirm.js"></script>
+    <script language="javascript" src="/Content/Scripts/jQuery/jquery.simplemodal-1.4.3.js"></script>
+    
+    <!--기타 -->
+    <script src="/Content/Scripts/jQuery/json2.js" type="text/javascript"></script>
+    <script src="/Content/Scripts/InputTools.js" type="text/javascript"></script>	
+
+    <!-- 2011.08.08 추가 -->
+    <script language="javascript">
+        $(document).ready(function()
+		{
+			//등록,수정후 리스트에서 정상메세지 띄우는 기능
+			var SuccessMsg="";
+			if( SuccessMsg !="") {alert(SuccessMsg);}
+
+			//사이즈가 0일경우 사용자에게 출력
+			var sFileResult="";
+			if( sFileResult !=""){alert("The following file is not registered. Please check file size or extentions.<br>"+sFileResult);}
+		});
+    </script>
+    
+    <!-- 구글 통계 -->
+    <script type="text/javascript">
+    	var _gaq = _gaq || [];
+    	_gaq.push(['_setAccount', 'UA-27016376-1']);
+    	_gaq.push(['_trackPageview']);
+
+    	(function ()
+    	{
+    		var ga = document.createElement('script');ga.type = 'text/javascript';ga.async = true;
+    		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    		var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga, s);
+    	})();
+	</script>
+    
+</head>
+ 
+<body>
+	<div id="TopUpDownMenuLayer"></div>
+	<div class="wrap" id="wrap">
+		<!-- top -->
+		<div class="wrap_header">
+			
+
+	<script type="text/javascript">
+		var objLoginService = new Object();
+		objLoginService.IsLogin = false;
+
+		function SignInOutMaster(pType, pReturnURL)
+		{		
+			var returnURL = "http://www.samsungdforum.com";
+			if(pReturnURL != undefined && pReturnURL != null && pReturnURL != ""){returnURL = pReturnURL;}
+			
+			if(pType == "Home")
+			{
+				document.location.href = "/";
+			}
+			else if(pType == "SignIn" || pType == "SignInTop")
+			{
+				if(objLoginService.IsLogin && returnURL != null && $.trim(returnURL).length > 0)
+				{
+					document.location = returnURL;
+				}
+				else
+				{
+					if(pType == "SignInTop")
+					{
+						document.frmSignOnMaster.action="https://account.samsung.com/account/check.do";
+						document.frmSignOnMaster.returnURL.value = returnURL;
+						document.frmSignOnMaster.target="_self";
+						document.frmSignOnMaster.actionID.value = "StartAP";
+
+						document.frmSignOnMaster.submit();
+					}
+					else
+					{
+						confirm("Sign-in required to use this service.<br>Would you like to sign-in now?"
+						, function () 
+							{ 
+								document.frmSignOnMaster.action="https://account.samsung.com/account/check.do";
+								document.frmSignOnMaster.returnURL.value = returnURL;
+								document.frmSignOnMaster.target="_self";
+								document.frmSignOnMaster.actionID.value = "StartAP";
+
+								document.frmSignOnMaster.submit();	
+							}
+						, function () 
+							{ 
+								try
+								{
+									$("#_FooterForumDirect").hide();
+								}
+								catch(e){}
+							}
+						);
+					}
+				}
+			}		
+			else if(pType == "SignOut")
+			{
+				document.location.href = "/Sso/SignOut";
+			}
+			else if(pType == "MyProfile")
+			{
+				document.location.href = "/MyWork/MyProfile";
+			}
+			else if(pType == "AutoLogIn")
+			{
+				document.frmSignOnMaster.action="https://account.samsung.com/account/check.do";
+				document.frmSignOnMaster.returnURL.value = "/AutoLogIn";
+				document.frmSignOnMaster.target="IFRAME_AUTO_LOGIN";
+				document.frmSignOnMaster.actionID.value = "StartAP";
+
+				document.frmSignOnMaster.submit();
+			}
+			else if(pType == "Register")
+			{
+				document.frmSignOnMaster.action="https://account.samsung.com/account/check.do";
+				document.frmSignOnMaster.returnURL.value = returnURL;
+				document.frmSignOnMaster.target="_self";
+				document.frmSignOnMaster.actionID.value = "SignupAP";
+				
+				document.frmSignOnMaster.submit();
+			}
+			else if(pType == "SignUpMerge")
+			{
+			    document.location.href = "/Sso/SignUpMerge";
+			}
+		}	
+				
+		//통합 검색 
+    	function fnTopSearchGoGo()
+    	{
+    		document.location.href = "/Search/UnifiedSearchAll?schoption=&schloc=SCH_TOP&hdnSchText=" + encodeURIComponent($("#_TopSearchText").val());
+    	}
+
+        function fnTopSearch()
+        {
+            $('.h_search_area').toggle();
+            $('#_TopSearchText').focus();
+        }
+    </script>
+
+	<script type="text/javascript">
+		$(document).ready(function ()
+		{
+			$("#open_nav").css("margin-top", "-" + $("#open_nav").height() + "px");
+
+			$("#open_nav_link").click(function ()
+			{
+				if ($("#TopUpDownMenuLayer").height() == "0")
+				{
+					$("#open_nav").show();
+					$("#TopUpDownMenuLayer").animate({ height: $("#open_nav").height() + 'px' }, 500);
+				}
+				else
+				{
+					$("#TopUpDownMenuLayer").animate({ height: '0px' }, 500, function ()
+					{
+						$("#open_nav").hide();
+					});
+				}
+			});
+
+			$("#open_nav_close").click(function ()
+			{
+				$("#TopUpDownMenuLayer").animate({ height: '0px' }, 500, function ()
+				{
+					$("#open_nav").hide();
+				});
+			});
+		});
+	</script>
+
+	<form name="frmSignOnMaster" method="post" target="_self" style="margin:0 0 0 0;">
+		<input type="hidden" name="actionID" value="StartAP">
+		<input type="hidden" name="serviceID" value="b8n9aovh7i">
+		<input type="hidden" name="serviceName" value="SamsungDforum">
+		<input type="hidden" name="serviceLogo" value="https://www.samsungdforum.com/Content/images/gnb/smi.png">	
+		<input type="hidden" name="domain" value="www.samsungdforum.com">
+		<input type="hidden" name="countryCode" value="US">
+		<input type="hidden" name="languageCode" value="en">
+		<input type="hidden" name="goBackURL" value="http://www.samsungdforum.com">	
+		
+		<input type="hidden" name="idCheckURL" value="https://www.samsungdforum.com:442/Mvc/Sso/IDCheck">
+		<input type="hidden" name="signInURL" value="">
+		<input type="hidden" name="signUpURL" value="https://www.samsungdforum.com/Sso/SignUp">
+		<input type="hidden" name="profileUpdateURL" value="https://www.samsungdforum.com/Sso/SignUp">
+		<input type="hidden" name="termsURL" value="http://www.samsungdforum.com/Html/Sso/Term{CountryCode}.txt">
+		<input type="hidden" name="privacyPolicyURL" value="http://www.samsungdforum.com/Html/Sso/privacy{CountryCode}.txt">
+		<input type="hidden" name="returnURL" value="http://www.samsungdforum.com">
+		<input type="hidden" name="registURL" value="https://www.samsungdforum.com/Sso/Regist">
+		<input type="hidden" name="emailActivationURL" value="">
+	</form>	
+
+	<div class="s_header">
+		<p class="logo"><a href="javascript:SignInOutMaster('Home');"><img src="/content/images/header/logo.gif" alt="Samsung D Forum"></a></p>
+		<div class="gnb_area">
+			<ul class="top_menu">
+				<li><a href="javascript:SignInOutMaster('Home');">SAMSUNG SMART TV APPS DEVELOPER FORUM</a></li>
+	
+				<li><a href="javascript:SignInOutMaster('SignInTop');">Sign In</a></li>
+				<li><a href="javascript:SignInOutMaster('Register');">Register</a></li>
+	
+				<li class="last"><a href="/Support/FaqList">FAQ</a></li>
+				
+			</ul>
+			<!-- all menu -->
+			<p class="btn_all"><a href="javascript:;" id="open_nav_link">All Menu</a></p>
+			<div id="open_nav" style="margin-top: -227px;">
+				<div class="all_menu_area">
+							
+					<div class="all_menu">
+
+						<div class="menu_01 ml_64">
+							<h2 class="all_title"><a href="/Event/Index">News &amp; Event</a></h2>
+							<ul class="all_sub">
+								<li><a href="/SamsungDForum/NewsList">News</a></li>
+								<li><a href="/Event/Contest">Event</a></li>
+							</ul>
+						</div>
+
+						<div class="menu_01 ml_64">
+							<h2 class="all_title"><a href="/Devtools/index">SDK</a></h2>
+							<ul class="all_sub">
+								<li><a href="/Devtools/SdkDownload">SDK Download</a></li>
+								<li><a href="/Devtools/Spec">Spec &amp; Features</a></li>
+								<li><a href="/Devtools/SdkReleaseNote">SDK Release Note</a></li>
+								<li><a href="/Devtools/SdkArchive">SDK Archives</a></li>
+							</ul>
+						</div>
+
+						<div class="menu_01 ml_55">
+							<h2 class="all_title"><a href="/Guide">Guide</a></h2>
+							<ul class="all_sub">
+								<li><a href="/Guide">Documentation</a></li>
+							</ul>
+						</div>
+
+						<div class="menu_01 ml_80">
+							<h2 class="all_title"><a href="/SamsungDForum/index">Forum</a></h2>
+							<ul class="all_sub">
+								<li><a href="/SamsungDForum/ForumDashBoard/c305cb96c72a9e5b">English Forum</a></li>
+<li><a href="/SamsungDForum/ForumDashBoard/7e2b7fa90012098b">Korean Forum</a></li>
+<li><a href="/SamsungDForum/ForumDashBoard/fc9db838bc1a1dd3">Chinese Forum</a></li>
+<li><a href="/SamsungDForum/ForumDashBoard/f0cd8ea6961d50c3">Russian Forum</a></li>
+<li><a href="/SamsungDForum/ForumDashBoard/df3455b529adf7c4">Contest Forum</a></li>
+<li><a href="/Quiz/QuizList">Quiz Challenge</a></li>
+
+							</ul>
+						</div>
+
+						<div class="menu_01 ml_80">
+							<h2 class="all_title"><a href="/Support/index">Support</a></h2>
+							<ul class="all_sub">
+								<li><a href="/Support/BeginningforSmartTV">Beginning for Smart TV</a></li>
+<li><a href="/Partner/PartnerApply">How to be a Partner</a></li>
+<li><a href="/Support/TVAppsSecurity">TV Apps Security</a></li>
+<li><a href="/Support/MetaDB">How to Join Kids / Fitness</a></li>
+<li><a href="/Support/SmartTVapppolicies">Smart TV App Policies &amp; Guidelines</a></li>
+<li><a href="/Support/ActivityPolicy">Activity Policy</a></li>
+<li><a href="/Support/FaqList">FAQ</a></li>
+
+							</ul>
+						</div>
+
+						<div class="menu_01 ml_40">
+							<h2 class="all_title"><a href="javascript:SignInOutMaster('SignIn', '/MyWork/index');">My Work</a></h2>
+							<ul class="all_sub">
+								<li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/DmMyToDoList');">My Application</a></li>
+								<li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/MyContest');">My Contest</a></li>
+								<li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/MyProfile');">My Profile</a></li>
+							</ul>
+						</div>
+
+						<p class="all_close"><a href="#" id="open_nav_close"><img src="/content/images/header/all_close.gif" alt=""></a></p>
+
+					</div>
+				</div>
+			</div>
+			<!-- //all menu -->
+			<div id="TopMenuSub">
+				<ul class="gnb">
+					<li id="TopMenuSub_1">
+						<a href="/Event/Index">News &amp; Event</a>
+						<div class="lnb_news" style="display: none;">
+							<img src="/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
+							<ul class="lnb">
+								<li><a href="/SamsungDForum/NewsList">News</a></li>
+								<li><a href="/Event/Contest">Event</a></li>
+							</ul>
+						</div>
+					</li>
+					<li id="TopMenuSub_2">
+						<a href="/Devtools/index">SDK</a>
+						<div class="lnb_sdk" style="display: none;">
+							<img src="/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
+							<ul class="lnb">
+								<li><a href="/Devtools/SdkDownload">SDK Download</a></li>
+								<li><a href="/Devtools/Spec">Spec &amp; Features</a></li>
+								<li><a href="/Devtools/SdkReleaseNote">SDK Release Note</a></li>
+								<li><a href="/Devtools/SdkArchive">SDK Archives</a></li>
+							</ul>
+						</div>
+					</li>
+					<li id="TopMenuSub_3">
+						<a href="/Guide">Guide</a>
+						<div class="lnb_sdk" style="display: none;">
+							<ul class="lnb"></ul>
+						</div>
+					</li>
+					<li id="TopMenuSub_4">
+						<a href="/SamsungDForum/index">Forum</a>
+						<div class="lnb_forum" style="display: none;">
+							<img src="/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
+							<ul class="lnb">
+								<li><a href="/SamsungDForum/ForumDashBoard/c305cb96c72a9e5b">English Forum</a></li>
+<li><a href="/SamsungDForum/ForumDashBoard/7e2b7fa90012098b">Korean Forum</a></li>
+<li><a href="/SamsungDForum/ForumDashBoard/fc9db838bc1a1dd3">Chinese Forum</a></li>
+<li><a href="/SamsungDForum/ForumDashBoard/f0cd8ea6961d50c3">Russian Forum</a></li>
+<li><a href="/SamsungDForum/ForumDashBoard/df3455b529adf7c4">Contest Forum</a></li>
+<li><a href="/Quiz/QuizList">Quiz Challenge</a></li>
+
+							</ul>
+						</div>
+					</li>
+					<li id="TopMenuSub_5">
+						<a href="/Support/index">Support</a>
+						<div class="lnb_support" style="display: none;">
+							<img src="/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
+							<ul class="lnb">
+								<li><a href="/Support/BeginningforSmartTV">Beginning for Smart TV</a></li>
+<li><a href="/Partner/PartnerApply">How to be a Partner</a></li>
+<li><a href="/Support/TVAppsSecurity">TV Apps Security</a></li>
+<li><a href="/Support/MetaDB">How to Join Kids / Fitness</a></li>
+<li><a href="/Support/SmartTVapppolicies">Smart TV App Policies &amp; Guidelines</a></li>
+<li><a href="/Support/ActivityPolicy">Activity Policy</a></li>
+<li><a href="/Support/FaqList">FAQ</a></li>
+
+							</ul>
+						</div>
+					</li>
+					<li id="TopMenuSub_6">
+						<a href="javascript:SignInOutMaster('SignIn', '/MyWork/index');">My Work</a>
+						<div class="lnb_work" style="display: none;">
+							<img src="/content/images/header/lnb_arrow.gif" alt="">
+							<ul class="lnb">
+								<li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/DmMyToDoList');">My Application</a></li>
+								<li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/MyContest');">My Contest</a></li>
+								<li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/MyProfile');">My Profile</a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<p class="h_search"><a href="javascript:fnTopSearch();" style="cursor:pointer;"><img src="/content/images/header/btn_search.gif" alt=""></a></p>
+	</div>
+	<div class="h_search_area" style="display:none;">
+		<div class="header_s">			
+			<div class="input_bg">
+                <input type="text" class="footer_input" id="_TopSearchText" onkeydown="javascript:if (event.keyCode == 13) { fnTopSearchGoGo(); }">
+                <input type="image" src="/content/images/footer/btn_search.gif" onclick="fnTopSearchGoGo()" alt="Search">
+            </div>
+			<p class="top_search_close">
+                <a href="javascript:fnTopSearch();" style="cursor:pointer;"><img src="/content/images/footer/btn_close.gif" alt="Close"></a>
+            </p>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		var TopMenu1 = new fnTopMenu1_Type1;
+		TopMenu1.DivName = "TopMenuSub";
+		TopMenu1.fnName = "TopMenu1";
+		TopMenu1.DefaultMenu = "";
+		TopMenu1.Start();
+
+        
+	</script>
+		</div>
+		<!-- //top -->
+
+		
+			<div class="visual_area02">
+				<div class="visual_bg02">
+					<div class="s_visual02">
+						<h2 class="top_title f_left">Privacy Policy</h2>
+						<p class="line_map  f_right mt_20"><a href="/"><img src="/content/images/common/icon_home.gif"></a><span><span class="arrow">&gt;</span><a href="/Main/privacypolicy">Privacy Policy</a></span></p>	
+					</div>
+				</div>
+			</div>
+		
+
+
+		<!-- container 영역 -->
+		<div class="s_container">	
+			
+
+            <!-- 페이지 삽입 시작 -->
+            
+
+
+    
+	<div class="privacy_policy">
+		<p class="privacy_text">This "Privacy Policy" describes how Samsung collects, processes and protects your personal information. Samsung's Privacy Policy applies to all Services provided by Samsung or Samsung's Subsidiaries (as described in more detail in Samsung's [URL Terms and Conditions]) and any Services or products that display or refer to this Privacy Policy, regardless of whether you use the Services through Samsung's website, your mobile phone, mobile device, TV, PC or any other equipment suitable to use the Services. This Privacy Policy does not apply to any Services or products which provide for their own privacy policy. </p>
+
+		<dl class="policy_list">
+			<dt><span class="img_icon icon_policy">Why, how and what personal information we collect about you</span></dt>
+			<dd>You can generally use parts of our Services or our website without giving us any personal information about you. However, most of our Services and parts of our website are only accessible if you register a user account with Samsung and complete and submit the information required for the registration process.<br> For this purpose we may request you to provide us with personal information about you which may comprise your name, address, phone number and email address, details of your visits to our Services or website or other information specifically required to offer our Services to you. We collect this information about you when you submit it through our Services or website, typically when you register your user account or when you telephone or email us or correspond with us.<br> Some of the personal information that we collect about you will be "Personal Data". This means information and data related to you and which may be used to identify you. </dd>
+		</dl>
+
+		<dl class="policy_list">
+			<dt><span class="img_icon icon_policy">How we use your Personal Data</span></dt>
+			<dd>We use your Personal Data where this is required to provide our Services or parts thereof (including our website) to you and generally to fulfil our contractual obligations towards you.<br> In particular, we may use your Personal Data for any of the following purposes, provided that this is permissible under applicable law: 
+			<ul class="policy_list02">
+				<li>to register you and to enable you to use our Services or website;</li>
+				<li>to administer our Services or website (including any searches or requests for information about our products or Services);</li>
+				<li>for assessment and analysis of our market, customers, products and services, including asking you for your opinions on our products and Services and carrying out cus</li>
+				<li>tomer surveys;</li>
+				<li>to enable us to monitor, review and improve the products and services which we offer;</li>
+				<li>for internal record keeping;</li>
+				<li>to consider employing you if you have provided information in an application for a position with us; and</li>
+				<li>to register you and to enable you to use our Services or website;</li>
+				<li>to register you and to enable you to use our Services or website;</li>
+				<li>to register you and to enable you to use our Services or website;</li>
+				<li>to review the Samsung and third party services you have used and to recommend similar services to you.</li>
+			</ul>
+			To the extent permissible pursuant to applicable law, (a) we may combine the Personal Data that we collect about you through our Services or website with information that you provide to us by other means and (b) we may store that information together in a combined database or in separate databases.<br> We will not retain your Personal Data for longer than is necessary for the purposes for which it was intended or initially collected, or as required under any contract with you or by applicable law. We will delete your Personal Data once you inform us that you will no longer be using our Services unless and to the extent we are required to retain your Personal Data for legitimate reasons (e.g. due to legal requirements or if we still need your Personal Data to process the contractual relationship with you, such as billing or accounting) or if a deletion of your Personal Data would only be possible with unreasonable efforts, in which case we will lock your Personal Data instead of a deletion. We will not collect an excessive amount of Personal Data about you or any information that is not relevant to the purposes it was collected for. 
+			</dd>
+		</dl>
+
+		<dl class="policy_list">
+			<dt><span class="img_icon icon_policy">Direct Marketing</span></dt>
+			<dd>We may use your Personal Data for marketing purposes, in particular to display to you or present you with advertisements and promotion materials, to inform you about our products or to conduct free prize draws and prize competitions and other such information which we believe may be of interest to you based on your use of and your interests in our Services, always provided that such use complies with applicable laws. <br>We will only send you any advertisement, marketing or promotional material or product information, if you have elected to receive such information by email and/or post when you completed the registration process. Depending on the jurisdiction you reside in and in accordance with applicable laws in your country we may ask you to expressly consent to such use before we send you any marketing or promotional material or before we send you any product information.<br> You can change your mind about your preferences in respect of direct marketing at any time by using the unsubscribe information on every such mailing, by updating your user profile or account data or by contacting us (see below for details on how to contact us). If you do so, we would not remove your Personal Data from our database(s) to the extent that this Personal Data is still required by us under the terms of this Privacy Policy or to continue to provide our Services to you. </dd>
+		</dl>
+
+		<dl class="policy_list">
+			<dt><span class="img_icon icon_policy">Location-based services</span></dt>
+			<dd>Some of our Services, for example the "Find My Mobile" service, make use of and require you to provide us with location-based data ("Location-Based Services"). The Location-Based Services are offered by collecting, storing, transmitting or processing location data of your device. Samsung will only process any location-based data when you consent to such use, typically when you register for the respective Location-Based Service. <br>Location-based data is generally anonymous and does not personally identify you. However, the information gathered by locating your device may be combined with your Personal Data in order for us to provide you with the Location-Based Services, such as Remote Locator and Phone Tracking. All such information will be dealt with in accordance with the terms of this Privacy Policy. </dd>
+		</dl>
+
+		<dl class="policy_list">
+			<dt><span class="img_icon icon_policy">Sharing of your Personal Information</span></dt>
+			<dd>We will not share or disclose your Personal Data to any third party (including Samsung's Subsidiaries) without your consent, except (a) where this is necessary in order to provide our Services to you, (b) to pursue our legitimate interests or (c) if we are required to disclose your Personal Data in order to comply with any legal obligation or the decision of a judicial authority or (d) where we are otherwise permitted to do so by applicable law. We will never share your Personal Data with third parties if this is not permissible under applicable law.<br> You acknowledge that any Personal Data that you submit to our Services or website which is typically visible to others (e.g. blogs, forums and discussion pages) may result in such information being published and being visible to others. You should take common sense precautions about the Personal Data you provide in such environments and acknowledge that your Personal Data will be published in such a way for others to see.<br> Disclosure of your Personal Data in accordance with the above may include disclosure to Samsung's Subsidiaries or a third party which is located outside the European Union ("EU") or European Economic Area ("EEA"). If you are a resident of a member state of the EU or the EEA, the data protection laws outside the EU/EEA may not provide for an equivalent level of protection to those in your home country. However, before transferring the Personal Data of a resident of an EU/EEA member state we will take steps to ensure that such data will be afforded the same level of protection as under applicable data protection laws within the EU/EEA. We will not make your Personal Data available to third parties for any other purposes as described in this Privacy Policy and we will not sell your Personal Data. </dd>
+		</dl>
+
+		<dl class="policy_list">
+			<dt><span class="img_icon icon_policy">Security</span></dt>
+			<dd>We are committed to ensure that your Personal Data is kept and stored securely and we maintain reasonable physical, technical and organisational measures and procedures to safeguard and secure the information we collect through our Services and our website. <br>This has been done with a view to preventing unauthorised or unlawful processing of your Personal Data and accidental, unauthorised or unlawful access, use, processing, copying, alteration, transfer, loss or destruction of, or damage to your Personal Data. Whilst we have done all of this, and comply with the standards required by applicable laws, we cannot guarantee that your Personal Data is secure when submitted or otherwise communicated through insecure means.<br> We protect the security of your Personal Data by: 
+			<ul class="policy_list02">
+				<li>using encryption where appropriate;</li>
+				<li>using password protection where appropriate; and</li>
+				<li>limiting access to your Personal Data (for example, only our staff or employees who need access to it for the purposes described in this Privacy Policy will have access to it).</li>
+			</ul>
+			However, these measures do not release you from taking appropriate steps to keep your Personal Data safe and secure, in particular by avoiding obvious user ID's or passwords, by changing your password regularly and by ensuring that you do not disclose your password(s) or grant any other person access to your user account and your Personal Data. </dd>
+		</dl>
+
+		<dl class="policy_list">
+			<dt><span class="img_icon icon_policy">Links to external content resources</span></dt>
+			<dd>Our Services or website may link or direct you to other websites, services or external content resources which are outside of our control. Whilst we try to ensure that we link or direct you only to services or websites that share our privacy and security standards, once you have left our Services or our website we cannot safeguard and are not responsible for the protection and privacy of any Personal Data which you provide on other websites. You should exercise caution and review the privacy statement applicable to the respective service or website. We do not accept any responsibility or liability for those policies. </dd>
+		</dl>
+
+		<dl class="policy_list">
+			<dt><span class="img_icon icon_policy">Web tracking (cookies and web beacons)</span></dt>
+			<dd>We use cookies (small text files that store information on your hard drive) for certain functions and operations of our Services or website.<br> Cookies help us to understand which sections of our Services or website are the most popular because they allow us to see which pages or Services visitors are accessing and how much time they are spending on them. By studying these we are able to adapt our Services or website to suit your demands and to provide you with a more customised user experience. For example, cookies allow us to ensure that the information displayed on your next visit or login will match your user preferences.<br> You may configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For example, on Microsoft Internet Explorer you can disable or delete cookies by selecting "Tools/Internet Options".<br> Please note that our Services and our website are designed to work with cookies and disabling cookies may affect your usage of our Services or our website and may prevent you from taking full advantage of our Services. We do not exchange cookies with any third party websites or external data suppliers, except with third parties working with us to provide our Services to you.<br> Our Services or website and the communications generated from using and/or registering to our Services or website, such as promotional emails, may contain electronic images known as "web beacons". Web beacons generally work in conjunction with cookies, and we may use them in the same way we use cookies (see above). </dd>
+		</dl>
+
+		<dl class="policy_list">
+			<dt><span class="img_icon icon_policy">Changes to this Privacy Policy</span></dt>
+			<dd>Samsung may change and update this Privacy Policy from time to time. Samsung will notify you of any material changes or additions to this Privacy Policy and will provide you with a copy of the amended Privacy Policy, either under this [insert URL], by use of your email address provided to Samsung or by any other suitable means which ensure that you will be able to take notice of the changes to this Privacy Policy. </dd>
+		</dl>
+
+		<dl class="policy_list">
+			<dt><span class="img_icon icon_policy">Accessing and correcting your Personal Data</span></dt>
+			<dd>You can access, review and edit your Personal Data at any time by logging into your user account and visiting your user profile. Once you have access to your user profile you can review and edit any Personal Data you provided to us when you registered to our Services or to our website. See the help section on our website to learn more on how to access your account and how to edit your user profile or correct your Personal Data. Alternatively, you can contact us directly to learn about what Personal Data we have stored about you and how to correct any of your Personal Data. </dd>
+		</dl>
+
+		<dl class="policy_list">
+			<dt><span class="img_icon icon_policy">How to contact us with regard to your Personal Data</span></dt>
+			<dd>You can contact us at [svc.bada@samsung.com] to learn more about our commitment to privacy and this Privacy Policy. Under certain jurisdictions and data protection laws you may have the right to request details of Personal Data which we hold about you or to request the correction or deletion of your Personal Data. Please contact us at svc.bada@samsung.com for this purpose or alternatively contact our customer services department (which is accessible through the help menu on our website).<br> Please help us to ensure that the information that we hold about you is accurate and up to date. If you think that any information we have stored about you is incorrect or incomplete, please contact us at svc.bada@samsung.com or write to our customer services department.</dd>
+		</dl>
+
+		<p class="policy_date">2011-09-22</p>
+	</div>
+
+
+            <!-- 페이지 삽입 끝 -->
+		</div>
+		<!-- //container -->
+	</div>
+
+	<!-- footer 영역 -->
+	<div class="wrap_footer">
+		
+
+	<script type="text/javascript">
+		var _FooterSeachFocusValue = "Keyword";
+
+		function fnFooterBarToggle(tID)
+		{
+			if ($("#" + tID).is(':hidden')) {
+
+				$("#_FooterSearch").hide();
+				$("#_FooterFeedBack").hide();
+				$("#_FooterForumDirect").hide();
+
+				if (tID == "_FooterForumDirect") {
+					if (objLoginService.IsLogin == false) {
+						SignInOutMaster('SignIn', document.location.href);
+					} else {
+						$("#_FooterForumUrl").html((document.location.href.length > 88) ? document.location.href.substr(0, 88) + "..." : document.location.href);
+						$("#_FooterForumTitle").val(_FooterForumFocusValue);
+						$("#_FooterForumContents").val(_FooterForumContentsFocusValue);
+						$("#_FooterForumFileView").val("");
+						$("#_FooterForumTitleRemain").val("50");
+
+						if ($.browser.msie) {
+							$("#_FooterForumFile").replaceWith($("#_FooterForumFile").clone(true));
+						} else {    
+							$("#_FooterForumFile").val("");
+						}
+
+						$('select[name=_FooterDdlForumBoardListByCategoryCommon] option:not(option:eq(0))').remove();
+
+						fnFooterForumCateListData();
+					}
+				}
+				$("#_FooterSearchText").val("");
+		    
+            		    
+				$("#" + tID).show();
+		    
+				if (tID == "_FooterSearch") {		        
+					$("#_FooterSearchText").focus();
+				}
+		    
+		    
+			} else {
+
+				$("#" + tID).hide();
+		    
+			}
+
+            fnFooterFeedbackInit();
+            fnFooterFeedbackUrl();
+
+		}
+
+
+		function fnFooterSeachGoGo()
+		{
+			//fnFooterSeachFocus();
+			document.location.href = "/Search/UnifiedSearchAll?schoption=&schloc=SCH_TOP&hdnSchText=" + encodeURIComponent($("#_FooterSearchText").val());
+		}
+
+		var _FooterForumFocusValue = "Forum Title";
+		function fnFooterForumFocus()
+		{
+			if ($("#_FooterForumTitle").val() == _FooterForumFocusValue)
+			{
+				$("#_FooterForumTitle").val("");
+			}
+		}
+    
+
+		function fnFooterForumBlur()
+		{
+			if ($("#_FooterForumTitle").val() == "") {
+				$("#_FooterForumTitleRemain").val(50);
+				$("#_FooterForumTitle").val(_FooterForumFocusValue);
+			}
+		}
+
+		var _FooterForumContentsFocusValue = "Forum to leave a comment on this page";
+		function fnFooterContentsForumFocus()
+		{
+			if ($("#_FooterForumContents").val() == _FooterForumContentsFocusValue)
+			{
+				$("#_FooterForumContents").val("");
+			}
+		}
+
+		function fnFooterContentsForumBlur()
+		{
+			if ($("#_FooterForumContents").val() == "")
+			{
+				$("#_FooterForumContents").val(_FooterForumContentsFocusValue);
+			}
+		}
+
+		function fnFooterBarFeedBackSelect(theThis) {
+			var SelectID = theThis.id;
+			if (SelectID.length < 2) { return; }
+
+			var SelectNum = parseInt(SelectID.substr(SelectID.length - 1, 1));
+			SelectID = "_FooterBarFeedBackSelect_";
+
+			fnFeedbackSelectSync(SelectNum);
+		}
+
+		function fnFooterFeedBackSelect(theThis) {
+			var SelectID = theThis.id;
+			if (SelectID.length < 2) { return; }
+
+			var SelectNum = parseInt(SelectID.substr(SelectID.length - 1, 1));
+			SelectID = "_FooterFeedBackSelect_";
+
+			fnFeedbackSelectSync(SelectNum);
+		}
+
+
+		function fnFeedbackSelectSync(SelectNum) {
+
+			for (var i = 1; i < SelectNum + 1; i++) {
+				$("#_FooterBarFeedBackSelect_" + i).attr("src", "/content/images/footer/icon_sam_on.png");
+				$("#_FooterFeedBackSelect_" + i).attr("src", "/content/images/footer/detail_on.gif");
+			}
+
+			for (var i = SelectNum + 1; i < 6; i++) {
+				$("#_FooterBarFeedBackSelect_" + i).attr("src", "/content/images/footer/icon_sam_off.png");
+				$("#_FooterFeedBackSelect_" + i).attr("src", "/content/images/footer/detail_off.gif");
+			}
+
+			if (SelectNum > 0) {
+				var FeedbackText = new Array('Bad', 'Not Bad', 'Good!', 'Very Good!', 'Excellent!');
+
+				$("#FooterBarFBText").text(FeedbackText[SelectNum - 1]);
+				$("#FooterFBText").text("“" + FeedbackText[SelectNum - 1] + "”");
+				$("#fb_rank_text").css("display", "block");
+			}
+			else {
+				$("#FooterBarFBText").text("Rate this page");
+				$("#FooterFBText").text("");
+				$("#fb_rank_text").css("display", "none");
+			}
+
+			document.getElementById("hdnFooterFbMark").value = SelectNum;
+
+	    
+		}
+
+		function fnFooterFBTextAreaInit() {
+        
+			var FooterFFBTextArea = $("#FooterFBTextArea").val();
+
+			if (FooterFFBTextArea == "Write a brief description of the problem you're reporting.") {
+				$("#FooterFBTextArea").val("");
+			}
+		}
+
+		function fnFooterFBTextAreaChange(theThis) {
+
+			if (theThis.value.length >= 1500) {
+				theThis.value = theThis.value.toString().substring(0, 1500);
+				$("#FooterTAreaRemainCount").text("0");
+			}
+			else {
+				//theThis.value = theThis.value;
+				var remain_count = 1500 - $("#FooterFBTextArea").val().length;
+				$("#FooterTAreaRemainCount").text(remain_count.toString());
+			}
+        
+		}
+
+		//Feedback 저장 Ajax
+		function fnFooterGoTransperAjax(type) {
+
+		    $("#hdnFooterRawUrl").val(document.location.href);
+            
+			if (type == "FooterFeedback") {
+
+				$.post("/Common/FeedbackProc"
+						, $("#footerfrm").serialize()
+						, function (data) {
+							if (data == "success") 
+							{
+								fnFooterShowFbMessage();
+								fnFeedbackSelectSync(0);
+							}
+							else 
+							{
+								alert("Please leave your feedback before submit.");
+							}
+						}
+				);	        
+			}
+			else if (type == "FooterFeedbackDesc") {
+
+			    $("#hdnFooterFbchk1").val($("#FooterFbchk1").is(":checked"));
+				$("#hdnFooterFbchk2").val($("#FooterFbchk2").is(":checked"));
+				$("#hdnFooterFbchk3").val($("#FooterFbchk3").is(":checked"));
+				$("#hdnFooterFbchk4").val($("#FooterFbchk4").is(":checked"));
+				$("#hdnFooterFbchk5").val($("#FooterFbchk5").is(":checked"));
+				$("#hdnFooterFbchk6").val($("#FooterFbchk6").is(":checked"));
+
+				var FooterFFBTextArea = $("#FooterFBTextArea").val();
+
+				if ($("#FooterFBTextArea").val() == "Write a brief description of the problem you're reporting.") {
+					$("#hdnFooterFbdesc").val("");
+				}
+				else {
+					$("#hdnFooterFbdesc").val($("#FooterFBTextArea").val());
+				}
+
+
+
+	            if (fnFooterFBCheckCount() == 0 && fnFooterFBDescCount() == 1 && $("#hdnFooterFbMark").val()==0) {
+	                alert("Please leave your feedback before submit.");
+				}
+				else {
+				    $.post("/Common/FeedbackProc"
+						, $("#footerfrm").serialize()
+						, function (data) {
+						    if (data == "success") {
+						        fnFooterBarToggle('_FooterFeedBack');
+						        fnFooterFeedbackInit();
+						        fnFooterShowFbMessage();
+						        fnFeedbackSelectSync(0);
+						    }
+						    else {
+						        alert("Please leave your feedback before submit.");
+						    }
+						}
+				    );
+				}				
+	        
+			}
+		}
+
+		function fnFooterFBCheckCount() {
+		    var cnt = 0;
+
+		    if ($("#FooterFbchk1").is(":checked")) cnt = 1;
+		    if ($("#FooterFbchk2").is(":checked")) cnt = 1;
+		    if ($("#FooterFbchk3").is(":checked")) cnt = 1;
+		    if ($("#FooterFbchk4").is(":checked")) cnt = 1;
+		    if ($("#FooterFbchk5").is(":checked")) cnt = 1;
+		    if ($("#FooterFbchk6").is(":checked")) cnt = 1;
+
+		    return cnt;
+		}
+
+		function fnFooterFBDescCount() {
+		    var cnt = 0;
+
+		    if ($("#FooterFBTextArea").val() == "Write a brief description of the problem you're reporting.") cnt = 1;
+		    if ($("#FooterFBTextArea").val() == "") cnt = 1;
+
+		    return cnt;
+		}
+
+		//Thank you Message Show
+		function fnFooterShowFbMessage() {
+			SdfPopWin.openDiv("divFooterThankPopup");
+		}
+
+		//Thank you Message Close
+		function fnFooterCloseFbMessage() {
+			SdfPopWin.close();
+		}
+
+		function fnFooterFeedbackInit() {
+			$(".FooterFbchk").attr('checked', false);
+			$(".hdnFooterFbchk").attr('value', "");
+			$("#hdnFooterFbdesc").val("");
+			$("#FooterFBTextArea").val("Write a brief description of the problem you're reporting.");
+			$("#FooterTAreaRemainCount").text("1500");
+        }
+
+        function fnFooterFeedbackUrl() {
+            if ($('#_FooterFeedbackUrl').html() == "") {
+                $("#_FooterFeedbackUrl").html((document.location.href.length > 88) ? document.location.href.substr(0, 88) + "..." : document.location.href);
+                
+            }
+            else {
+                $("#_FooterFeedbackUrl").html((document.location.href.length > 88) ? document.location.href.substr(0, 88) + "..." : document.location.href);
+                //$('#_FooterFeedbackUrl').html("");                
+            }
+        }
+
+	</script>
+
+	<script type="text/javascript">
+		function fnFooterForumUrl() {
+			if ($('#_FooterForumUrl').html() == "") 
+			{
+				$("#_FooterForumUrl").html((document.location.href.length > 88) ? document.location.href.substr(0, 88) + "..." : document.location.href);
+				$("#_FooterForumUrlBtn").attr("src", "/content/images/footer/btn_clear.gif");
+			} 
+			else 
+			{
+				$('#_FooterForumUrl').html("");
+				$("#_FooterForumUrlBtn").attr("src", "/content/images/footer/btn_urladd.gif");
+			}
+		}
+
+		function fnFooterForumTitleChange(theThis) {
+
+			if (theThis.value.length > 50) {
+				theThis.value = theThis.value.toString().substring(0, 50);
+				$("#_FooterForumTitleRemain").text("0");
+			}
+			else {
+				//theThis.value = theThis.value;
+				var remain_count = 50 - $("#_FooterForumTitle").val().length;
+				$("#_FooterForumTitleRemain").text(remain_count.toString());
+			}
+        
+		}
+
+		function fnFooterChangeForumCateSub(subSelectID, cateID) {
+			var subSelect = document.getElementsByName(subSelectID)[0];
+        
+			subSelect.options[0] = new Option("Select Category", "");
+			if (cateID != "") {
+				$.ajax({
+					type: "POST",
+					url: "/SamsungDForum/GetForumBoardListByCategory/" + cateID,
+					dataType: "text",
+					success: function (result) {
+						var r = JSON.parse(result);
+
+						subSelect.options.length = r.length + 1;
+						for (var i = 0; i < r.length; i++) {
+							var option_obj = new Option(r[i].C_FORUM_BOARD_NAME, r[i].C_FORUM_BOARD_ID_Encode);
+							subSelect.options[i + 1] = option_obj;
+						}
+					}, cache: false
+				});
+			} else {
+				subSelect.options.length = 1;
+			}
+		}
+		function fnFooterForumCateListData() {
+
+			var mainSelect = document.getElementsByName("_FooterDdlForumCateListCommon")[0];
+			var fotterSubCate = $("#_FooterDdlForumBoardListByCategoryCommon");
+        
+			$.ajax({
+				type: "POST", 
+				url: "/SamsungDForum/GetCategoryList/",
+				dataType: "text",
+				success: function(result){
+					var r = JSON.parse(result);
+
+					for (var i = 0; i < r.length; i++) {
+						var option_obj = new Option(r[i].C_FORUM_CATE_NAME, r[i].C_FORUM_CATE_ID_Encode);
+						mainSelect.options[i + 1] = option_obj;
+					}
+				}, cache: false
+			});
+		}
+
+		function fnFooterForumChangeFileSearch(obj_file) {
+			var ftStrValidFileSearchExt = ".jpg.gif.png.zip.gul.doc.docx.pdf.ppt.pptx.xls.xlsx.pem.crt.cer.sap";
+
+			ftArrSearchFileName = obj_file.value.split(".");
+			ftStrSearchFileExt = ftArrSearchFileName[ftArrSearchFileName.length - 1].toLowerCase();
+			if (ftStrValidFileSearchExt.indexOf(ftStrSearchFileExt) > -1) {
+				document.getElementById("_FooterForumFileView").value = obj_file.value;
+				if (document.getElementById("_FooterForumFileView") != null && document.getElementById("_FooterForumFileView").value == "") return;
+			}
+			else {
+				alert("Please check the upload file extension name. You can upload only \"jpg, gif, png, zip, gul, doc, docx, pdf, ppt, pptx, xls, xlsx, pem, crt, cer, sap\".", function () {
+					document.getElementById("_FooterForumFileView").value = "";
+					return;
+				});
+			}
+
+		}
+
+		function fnFooterForumSubmit() 
+		{        
+			if (objLoginService.IsLogin == false) 
+			{
+				SignInOutMaster('SignIn', document.location.href);
+			} 
+			else 
+			{        
+                var _FooterFrm = document.footerfrm;
+
+				var _FooterForumTitle = document.getElementById("_FooterForumTitle").value.replace(/(^\s*)|(\s*$)/g, "");
+				var _FooterForumBody = document.getElementById("_FooterForumContents").value.replace(/(^\s*)|(\s*$)/g, "");
+            
+				var _FooterForumCate = document.getElementById("_FooterDdlForumCateListCommon").value;
+				var _FooterForumBoard = document.getElementById("_FooterDdlForumBoardListByCategoryCommon").value;
+
+                $.ajax({
+                    type: "POST", 
+                    url: "/SamsungDForum/GetBlockedNoWrite/" + _FooterForumBoard,
+                    dataType: "text",
+                    success: function(result){
+                        if (result == "false"){
+                            
+
+				            if ($('#_FooterForumUrl').html() == "") 
+				            {
+					            $("#_FooterRelateUrl").val("");
+				            } 
+				            else 
+				            {
+					            $("#_FooterRelateUrl").val(document.location.href);
+				            }
+
+				            var menuForFriends = $("#_FooterDdlForumCateListCommon option:selected").text() + " > " + $("#_FooterDdlForumBoardListByCategoryCommon option:selected").text();
+            
+				            $("#_FooterForumMenuForFriends").val(menuForFriends);
+
+				            //필수항목 입력 체크
+				            if (_FooterForumTitle.length == 0 || _FooterForumTitle == _FooterForumFocusValue) 
+				            {
+					            alert("Please write your post title, contents and select forum category before submit.", function() {
+						            document.getElementById("_FooterForumTitle").focus();
+					            });
+					            return;
+				            } 
+				            else if (document.getElementById("_FooterForumTitle").value.length > 50 ) 
+				            {
+					            alert("“Title” the length exceeds the maximum input.", function() {
+						            document.getElementById("_FooterForumTitle").focus();
+					            });
+					            return;
+				            } 
+				            else if (_FooterForumBody.length == 0 || _FooterForumBody == _FooterForumContentsFocusValue) 
+				            {
+					            alert("Please write your post title, contents and select forum category before submit.", function() {
+						            document.getElementById("_FooterForumContents").focus();
+					            });
+					            return;
+				            } 
+				            else if (_FooterForumCate == "") 
+				            {
+					            alert("Please write your post title, contents and select forum category before submit.", function() {
+						            document.getElementById("_FooterDdlForumCateListCommon").focus();
+					            });
+					            return;
+				            } 
+				            else if (_FooterForumBoard == "") 
+				            {
+					            alert("Please write your post title, contents and select forum category before submit.", function() {
+						            document.getElementById("_FooterDdlForumBoardListByCategoryCommon").focus();
+					            });
+					            return;
+				            }
+            
+				            _FooterFrm.target = "_FooterUploadIFrame";
+				            _FooterFrm.action = "/SamsungDForum/ForumWriteByFooterProc/" + _FooterForumBoard;
+				            _FooterFrm.submit();
+                        } else {
+                            var boartNM = $("#_FooterDdlForumBoardListByCategoryCommon option:selected").text();
+                            var msg = "Sorry, You are in [board block] Status in this [boardName] board. To unblock, contact admin. [AdminEMail]";
+                            msg = msg.replace("[boardName]", boartNM);
+                            msg = msg.replace("[AdminEMail]", "noreply@samsungdforum.com");
+                            alert(msg);
+                        }
+                    } , cache: false
+                });
+				
+			}
+		}
+    
+    
+
+		function fnFooterForumSuccess(boardID, forumID) 
+		{
+        
+			fnFooterBarToggle('_FooterForumDirect');
+
+			confirm('Your post is now registered in the forum. <br/>Would you like to check your post in the forum page?' , function () { 
+				location.href='/SamsungDForum/ForumView/' + boardID + '?forumID=' + forumID;
+			});
+		}
+		function fnFooterForumFail(msg) 
+		{
+			alert(msg);
+		}
+    
+
+		function fnFBTooltip(option)
+		{
+			if(option=="view")
+			{
+				$("#fb_rank_tooltip").css("display","block");
+			}
+			else 
+			{
+				$("#fb_rank_tooltip").css("display","none");
+			}
+
+		}
+	</script>
+	<form id="footerfrm" name="footerfrm" method="post" enctype="multipart/form-data">
+	<input type="hidden" id="hdnFooterFbMark" name="hdnFooterFbMark" value="0">
+	<input type="hidden" id="hdnFooterRawUrl" name="hdnFooterRawUrl" value="">
+
+	<input type="hidden" id="hdnFooterFbchk1" name="hdnFooterFbchk1" class="hdnFooterFbchk" value="">
+	<input type="hidden" id="hdnFooterFbchk2" name="hdnFooterFbchk2" class="hdnFooterFbchk" value="">
+	<input type="hidden" id="hdnFooterFbchk3" name="hdnFooterFbchk3" class="hdnFooterFbchk" value="">
+	<input type="hidden" id="hdnFooterFbchk4" name="hdnFooterFbchk4" class="hdnFooterFbchk" value="">
+	<input type="hidden" id="hdnFooterFbchk5" name="hdnFooterFbchk5" class="hdnFooterFbchk" value="">
+	<input type="hidden" id="hdnFooterFbchk6" name="hdnFooterFbchk6" class="hdnFooterFbchk" value="">
+	<input type="hidden" id="hdnFooterFbdesc" name="hdnFooterFbdesc" value="">
+
+	<input type="hidden" id="hdnFooterFbTopName" name="hdnFooterFbTopName" value="">
+	<input type="hidden" id="hdnFooterFbParentID" name="hdnFooterFbParentID" value="">
+
+
+		<div class="toolbar_area">
+			<div class="toolbar">
+				<div class="star_rating" onmouseover="javascript:fnFBTooltip('view');" onmouseout="javascript:fnFBTooltip('close');">
+                    <!-- 툴팁 -->
+					<div id="fb_rank_tooltip" class="tooltip" style="display:none;">Rating this page will help us to provide better service.</div>
+					<!-- //툴팁 -->
+                    <p class="rank_icon">
+                        <img src="/content/images/footer/icon_sam_off.png" alt="" id="_FooterBarFeedBackSelect_1" onclick="fnFooterBarFeedBackSelect(this)" style="cursor:pointer;">
+                        <img src="/content/images/footer/icon_sam_off.png" alt="" id="_FooterBarFeedBackSelect_2" onclick="fnFooterBarFeedBackSelect(this)" style="cursor:pointer;">
+                        <img src="/content/images/footer/icon_sam_off.png" alt="" id="_FooterBarFeedBackSelect_3" onclick="fnFooterBarFeedBackSelect(this)" style="cursor:pointer;">
+                        <img src="/content/images/footer/icon_sam_off.png" alt="" id="_FooterBarFeedBackSelect_4" onclick="fnFooterBarFeedBackSelect(this)" style="cursor:pointer;">
+                        <img src="/content/images/footer/icon_sam_off.png" alt="" id="_FooterBarFeedBackSelect_5" onclick="fnFooterBarFeedBackSelect(this)" style="cursor:pointer;">
+                    </p>                    
+                    <!-- 코멘트 -->
+					
+                   <div id="FooterBarFBText" class="rank_text" style="display:inline;">Rate this page</div>
+                   <div id="fb_rank_text" style="display:none;">
+                        <span class="rank_submit"><a href="javascript:fnFooterGoTransperAjax('FooterFeedback');">submit</a></span>
+                    </div>
+					<!-- //코멘트 -->
+                </div>
+				
+				<div class="feedback_area">					
+
+					<!-- Detail feedback -->
+					<div class="f_feed_area"><a href="javascript:fnFooterBarToggle('_FooterFeedBack');" class="s_link">Detail feedback <img src="/content/images/footer/icon_feedback.png" alt=""></a>
+						<div style="display:none;" id="_FooterFeedBack">
+							<p class="detail_on"><a href="javascript:fnFooterBarToggle('_FooterFeedBack');"><img src="/content/images/footer/detail_on.png" alt="detail feedback"></a></p>
+							
+							<div class="footer_feedback">
+								<div class="f_top">
+									<p class="footer_title"><img src="/content/images/footer/detail_title.gif" alt="Search with in this page"></p>
+									<p class="search_close"><a href="javascript:fnFooterBarToggle('_FooterFeedBack');"><img src="/content/images/footer/btn_close.gif" alt="close"></a></p>
+								</div>
+								<p class="feed_address">
+                                    <a class="url" id="_FooterFeedbackUrl" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;"></a>                                    
+                                </p>
+
+								<div class="check_grade">
+									<p class="grade_title">What would you like to report us about<br>this page? </p>
+
+									<ul class="grade_checkbox">
+										<li><input type="checkbox" id="FooterFbchk1" class="FooterFbchk"> <label for="FooterFbchk1">This page contains a typographical error.</label></li>
+										<li><input type="checkbox" id="FooterFbchk2" class="FooterFbchk"> <label for="FooterFbchk2">This page contains one or more broken links.</label></li> 
+										<li><input type="checkbox" id="FooterFbchk3" class="FooterFbchk"> <label for="FooterFbchk3">Some information in this page is incorrect.</label></li>
+										<li><input type="checkbox" id="FooterFbchk4" class="FooterFbchk"> <label for="FooterFbchk4">Some information in the page is difficult to understand.</label></li>
+										<li><input type="checkbox" id="FooterFbchk5" class="FooterFbchk"> <label for="FooterFbchk5">Text or images are not displaying properly.</label></li>
+										<li><input type="checkbox" id="FooterFbchk6" class="FooterFbchk"> <label for="FooterFbchk6">The document would be more helpful if there were <br><span style="margin-left:18px;">more code examples.</span></label></li>
+									</ul>
+								</div>
+								<div class="grade">
+									<p class="title_rate"><img src="/content/images/footer/title_rate.gif" alt="rate this page"></p>
+									<p class="detail_rank">
+                                        <img src="/content/images/footer/detail_off.gif" alt="" id="_FooterFeedBackSelect_1" onclick="fnFooterFeedBackSelect(this)" style="cursor:pointer;">
+                                        <img src="/content/images/footer/detail_off.gif" alt="" id="_FooterFeedBackSelect_2" onclick="fnFooterFeedBackSelect(this)" style="cursor:pointer;">
+                                        <img src="/content/images/footer/detail_off.gif" alt="" id="_FooterFeedBackSelect_3" onclick="fnFooterFeedBackSelect(this)" style="cursor:pointer;">
+                                        <img src="/content/images/footer/detail_off.gif" alt="" id="_FooterFeedBackSelect_4" onclick="fnFooterFeedBackSelect(this)" style="cursor:pointer;">
+                                        <img src="/content/images/footer/detail_off.gif" alt="" id="_FooterFeedBackSelect_5" onclick="fnFooterFeedBackSelect(this)" style="cursor:pointer;">
+                                    </p>
+									<div id="FooterFBText" class="text_rank"></div>
+									<textarea id="FooterFBTextArea" maxlength="" class="rank_write" style="overflow-y:auto;" onclick="javascript:fnFooterFBTextAreaInit();" onkeyup="javascript:fnFooterFBTextAreaChange(this);" onchange="javascript:fnFooterFBTextAreaChange(this);">Write a brief description of the problem you're reporting.</textarea>
+									<div class="submit_area">(<div id="FooterTAreaRemainCount" style="display:inline;">1500</div>&nbsp;characters remaining)</div>
+                                </div>
+                                    <span class="btn_submit"><a href="javascript:fnFooterGoTransperAjax('FooterFeedbackDesc');">Submit</a></span>								
+							</div>
+						</div>
+					</div>
+					<!-- //Detail feedback -->
+
+					<div class="f_forum_area"><a href="javascript:fnFooterBarToggle('_FooterForumDirect');" class="s_link">Join Forum <img src="/content/images/footer/icon_write.png" alt=""></a>
+						<div style="display:none;" id="_FooterForumDirect">
+							<p class="forum_on"><a href="javascript:fnFooterBarToggle('_FooterForumDirect');"><img src="/content/images/footer/forum_on.png" alt="join forum"></a></p>
+							
+							<div class="footer_forum">
+                                    <div class="f_top">
+									    <p class="footer_title"><img src="/content/images/footer/forum_title.gif" alt="Write about this page on the forum "></p>
+									    <p class="search_close"><a href="javascript:fnFooterBarToggle('_FooterForumDirect');"><img src="/content/images/footer/btn_close.gif" alt="close"></a></p>
+								    </div>
+								    <div class="url_area">
+                                        <p class="url_bg">
+                                            <a class="url" id="_FooterForumUrl" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;"></a>
+                                            <a href="javascript:fnFooterForumUrl();" class="btn_clear"><img src="/content/images/footer/btn_clear.gif" id="_FooterForumUrlBtn"></a>
+                                        </p>
+                                    </div>
+
+								    <div class="f_input_area">
+									    <p><input type="text" value="Forum Title" title="write title" class="f_forum_title" maxlength="50" id="_FooterForumTitle" name="_FooterForumTitle" onfocus="fnFooterForumFocus();" onblur="fnFooterForumBlur();" onkeyup="javascript:fnFooterForumTitleChange(this);"><br></p><div><div id="_FooterForumTitleRemain" style="display:inline;">50</div> characters remaining</div><p></p>
+									    <p><textarea class="f_forum_con" id="_FooterForumContents" name="_FooterForumContents" onfocus="fnFooterContentsForumFocus();" onblur="fnFooterContentsForumBlur();" rows="" cols="">Forum to leave a comment on this page</textarea></p>
+									    <div style="position:relative; width:592px;">
+                                            <input type="text" readonly="readonly" title="write title" class="f_forum_search" id="_FooterForumFileView" style="width:500px; z-index:10; position:absolute; left:0; top:0; float:left;"> 
+                                            <input type="file" id="_FooterForumFile" name="_FooterForumFile" style="cursor:pointer;filter:alpha(opacity=0); opacity:0; -moz-opacity:0; font-size:14pt; selector-dummy: expression(this.hideFocus=true); float:right; right:0px; position:absolute; z-index:5; width:339px" onchange="javascript:fnFooterForumChangeFileSearch(this);" title="Browse a file">
+                                            <span class="f_search" style="margin-left:0px;"><a style="z-index:1;">File</a></span>
+                                        </div>
+								    </div>
+								    <div class="select_area">
+									    <select id="_FooterDdlForumCateListCommon" name="_FooterDdlForumCateListCommon" onchange="javascript:fnFooterChangeForumCateSub('_FooterDdlForumBoardListByCategoryCommon', this.value);">
+										    <option value="">Select Forum</option>
+									    </select>
+									    <select id="_FooterDdlForumBoardListByCategoryCommon" name="_FooterDdlForumBoardListByCategoryCommon">
+										    <option value="">Select Category</option>
+									    </select>
+									    <span class="f_submit"><a href="javascript:fnFooterForumSubmit();">Submit</a></span>
+								    </div>
+                                    <input type="hidden" id="_FooterRelateUrl" name="_FooterRelateUrl" value="">
+                                    <input type="hidden" id="_FooterForumMenuForFriends" name="_FooterForumMenuForFriends" value="">
+                                    <iframe id="_FooterUploadIFrame" name="_FooterUploadIFrame" style="display:none;" src="about:blank"></iframe>
+                                
+							</div>
+						</div>
+					</div>
+                    <!-- search -->
+					<div class="f_search_area"><a href="javascript:fnFooterBarToggle('_FooterSearch');" class="s_link">Search <img src="/content/images/footer/icon_search.png" alt=""></a>
+						<div style="display:none;" id="_FooterSearch">
+							<p class="search_on"><a href="javascript:fnFooterBarToggle('_FooterSearch');"><img src="/content/images/footer/search_on.png" alt="search"></a></p>				
+										
+							<div class="footer_search">
+								<div class="f_top">
+									<p class="footer_title"><img src="/content/images/footer/search_title.gif" alt="Search with in this page"></p>
+									<p class="search_close"><a href="javascript:fnFooterBarToggle('_FooterSearch');"><img src="/content/images/footer/btn_close.gif" alt="close"></a></p>
+								</div>
+								<div class="input_bg"><input type="text" id="_FooterSearchText" value="Keyword" class="footer_input" onkeydown="javascript:if (event.keyCode == 13) { fnFooterSeachGoGo(); }">
+                                    <a href="javascript:fnFooterSeachGoGo();"><img src="/content/images/footer/btn_search.gif" alt="Search"></a>
+                                </div>
+							</div>
+						</div>
+
+					</div>
+					<!-- //search -->
+
+				</div>
+			</div>
+		</div>
+
+		<div class="footer">
+			<p class="f_logo"><img src="/content/images/footer/f_logo.jpg" alt="Sumsung logo"></p>
+			<div class="copy_area">
+				<ul>
+					<li><a href="/Main/terms">Terms and Conditions</a></li>
+					<li><a href="/Main/privacypolicy">Privacy Policy</a> &lt;<a href="/Main/privacypolicy?lang=kr">개인정보취급방침</a> · <a href="/Main/privacypolicy2?lang=kr">개인정보처리방침</a>&gt;</li>
+					<li class="last"><a href="/Main/sitemap">Sitemap</a></li>
+				</ul>
+				<p class="copyright">All contents copyright ⓒ Samsung Electronics Co., Ltd</p>
+			</div>
+			<div class="family_site">
+				<select id="_FooterFamailySite" class="family_select" onchange="if(this.value != '') {window.open(this.value);this.selectedIndex=0;}">
+					<option value="">Family Site</option>
+					<option value="http://www.samsung.com/">Samsung.com</option>
+					<option value="http://seller.samsungapps.com/">Samsung Apps</option>
+					<option value="http://developer.samsung.com/">Samsung Developers</option>					
+					<option value="http://www.samsungadhub.com/">Samsung AdHub</option>
+				</select>
+				
+			</div>
+		</div>
+
+        <!-- Thank you 팝업 -->
+	    <div id="divFooterThankPopup" class="layer_thank" style="display:none;">
+		    <div class="thank_top"><h1>Thank you!</h1><span class="layer_close"><a href="javascript:fnFooterCloseFbMessage();"><img src="/content/images/layer/btn_close.png" alt="닫기버튼"></a></span></div>
+
+		    <div class="content_thank">
+			    <div class="date_square">Your comment has been submitted</div>
+
+			    <div class="thank_text">Thank you for your feedback.<br>We will continue to communicate, discuss and share information with developers to make better website.<br><br><span>- SAMSUNG SMART TV APPS DEVELOPER FORUM -</span></div>
+
+			    <p class="text_center"><a href="javascript:fnFooterCloseFbMessage();"><img src="/content/images/layer/btn_thank.gif"></a></p>
+		    </div>
+
+		    <p><img src="/content/images/layer/thank_bottom.png" alt=""></p>
+	    </div>
+	    <!-- //Thank you 팝업 -->
+</form>
+	</div>
+	<!-- // footer 영역 -->
+
+	<!-- 팝업 Confirm -->
+	<div class="layer_alert" id="dvConfirm" style="display:none;">
+		<div class="alret_top02"><h1>Message</h1><span class="layer_close"><a style="cursor:pointer" class="MasterPopupNo"><img src="/content/images/layer/btn_close.png" alt="닫기버튼"></a></span></div>
+		<div class="layer_content02">
+			<p class="alarm_text MasterPopupMessage"></p>
+			<p class="text_center">
+				<a style="cursor:pointer" class="MasterPopupYes"><img src="/content/images/layer/btn_ok.gif" alt="OK"></a>
+				<a style="cursor:pointer" class="ml_03 MasterPopupNo"><img src="/content/images/layer/btn_cancle.gif" alt="Cancle"></a>
+			</p>
+		</div>
+		<p><img src="/content/images/layer/layer_bottom02.png" alt=""></p>
+	</div>
+	<!-- //팝업 Confirm  -->
+
+	<!-- 팝업 Alert -->
+	<div class="layer_alert" id="dvAlert" style="display:none;">
+		<div class="alret_top02"><h1>Message</h1><span class="layer_close"><a style="cursor:pointer" class="MasterPopupYes"><img src="/content/images/layer/btn_close.png" alt="닫기버튼"></a></span></div>
+		<div class="layer_content02">
+			<p class="alarm_text MasterPopupMessage"></p>
+			<p class="text_center">
+				<a style="cursor:pointer" class="MasterPopupYes"><img src="/content/images/layer/btn_ok.gif" alt="OK"></a>
+			</p>
+		</div>
+		<p><img src="/content/images/layer/layer_bottom02.png" alt=""></p>
+	</div>
+	<!-- //팝업Alert -->
+
+
+
+
+
+
+<script language="javascript">
+	//숫자만 입력가능
+	$('.JQ_integer').numeric();
+	$(".JQ_integer").css("ime-mode", "disabled");
+	//숫자, 영문만 입력가능
+	$('.JQ_alphanumeric').alphanumeric();
+	$(".JQ_alphanumeric").css("ime-mode", "disabled");
+	//영문만 입력가능
+	$('.JQ_alpha').alpha();
+	$(".JQ_alpha").css("ime-mode", "disabled");
+
+
+	//숫자, '-' 만 입력가능
+	$('.JQ_integer-').numeric({ allow: "-" });;
+	$(".JQ_integer-").css("ime-mode", "disabled");
+	//숫자, 영문, '-'만 입력가능
+	$('.JQ_alphanumeric-').alphanumeric({ allow: "-" });
+	$(".JQ_alphanumeric-").css("ime-mode", "disabled");
+	//숫자, 영문, 공백만 입력가능
+	$('.JQ_alphanumeric_space').alphanumeric({ allow: " " });
+	$(".JQ_alphanumeric_space").css("ime-mode", "disabled");
+	//영문, '-' 만 입력가능
+	$('.JQ_alpha-').alpha({ allow: "-" });;
+	$(".JQ_integer-").css("ime-mode", "disabled");
+	//숫자, 영문, 공백(space)만 입력가능
+	$('.JQ_alphanumeric_space').alphanumeric({ allow: " " });;
+	$(".JQ_integer-").css("ime-mode", "disabled");
+	//영문, 공백(space)만 입력가능
+	$('.JQ_alpha_space').alpha({ allow: " " });;
+	$(".JQ_integer-").css("ime-mode", "disabled");
+
+	//숫자, 영문, '- .'만 입력가능
+	$('.JQ_alphanumeric_point').alphanumeric({ allow: "-." });
+	$(".JQ_alphanumeric_point").css("ime-mode", "disabled");
+	//숫자, 영문, -, 공백 입력 허용
+	$('.JQ_alphanumeric_blank').alphanumeric({ allow: "- " });
+	$(".JQ_alphanumeric_blank").css("ime-mode", "disabled");
+
+	//;입력 불가
+	$('.JQ_alphanumeric_Not_colon').alphanumeric({ ichars: ";" });
+	$(".JQ_alphanumeric_Not_colon").css("ime-mode", "disabled");    
+   
+</script></body></html>
