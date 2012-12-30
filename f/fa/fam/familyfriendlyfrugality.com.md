@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the familyfriendlyfrugality.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629093856id_/http%3A//www.familyfriendlyfrugality.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyfriendlyfrugality.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193022id_/http%3A//www.familyfriendlyfrugality.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Family Friendly Frugality
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.familyfriendlyfrugality.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
+# Privacy Policy
 
 **Privacy Policy for www.familyfriendlyfrugality.com**
 
@@ -37,17 +35,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 
  **In addition:**  We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.familyfriendlyfrugality.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
-
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.familyfriendlyfrugality.com%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.familyfriendlyfrugality.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.familyfriendlyfrugality.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.familyfriendlyfrugality.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.familyfriendlyfrugality.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Privacy%20Policy%20for%20www.familyfriendlyfrugality.com%0D%0A%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20heather%40familyfriendlyfrugality.com.%0D%0A%0D%0AAt%20www.familyfriendlyfrugalit "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.familyfriendlyfrugality.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.familyfriendlyfrugality.com%2Fprivacy-policy%2F&srcTitle=Family+Friendly+Frugality+Frugal+Living+for+Real+Families "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.familyfriendlyfrugality.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Family+Friendly+Frugality+Frugal+Living+for+Real+Families&summary=Privacy%20Policy%20for%20www.familyfriendlyfrugality.com%0D%0A%0D%0AIf%20you%20require%20any%20more%20information%20or%20have%20any%20questions%20about%20our%20privacy%20policy%2C%20please%20feel%20free%20to%20contact%20us%20by%20email%20at%20heather%40familyfriendlyfrugality.com.%0D%0A%0D%0AAt%20www.familyfriendlyfrugalit "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.familyfriendlyfrugality.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
+  
 
