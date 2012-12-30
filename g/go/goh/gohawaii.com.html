@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the gohawaii.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630165208id_/http%3A//www.gohawaii.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gohawaii.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230013006id_/http%3A//www.gohawaii.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy | GoHawaii.com</title>
 <meta name="description" content="This Privacy Policy explains what personal information we collect, what we do with it, what we don't do with it, and how we keep it safe.">
@@ -17,9 +17,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script><script type="text/javascript" src="./template_resources/js/hvcb/jquery-ui.min.js"></script><script type="text/javascript" src="./template_resources/js/modernizr-2.5.3.min.js"></script><script type="text/javascript" src="./template_resources/js/hvcb/application.js"></script><script type="text/javascript">
         jQuery.noConflict();
-      </script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js"></script><script type="text/javascript">
+      </script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script><script type="text/javascript">
               var gigyaApi = '2_zH45J5_BLGcibU8g_c7Q7GFkURk0F4xX4AyaIu6teRK2eDvtVRxXsw6fDVFFqI-O';
-              
             </script><script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_zH45J5_BLGcibU8g_c7Q7GFkURk0F4xX4AyaIu6teRK2eDvtVRxXsw6fDVFFqI-O"></script><script type="text/javascript">
 		var conf={}
 	    </script><script type="text/javascript">           
@@ -84,7 +83,8 @@
 				islandName: 'Statewide',
 				siteId: 'hvcb',
 				omniture_id: 'hvcbghglobal,hvcbghstatewide'
-				     
+				    
+				
       }
       
       
@@ -228,9 +228,112 @@
         }
       }
       
+    </script><script type="text/javascript">
+    
+      // Utilities
+    
+      function startsWith(a, b) {
+        return a.indexOf(b) === 0;
+      };
+      
+      function endsWith(a, b) {
+        var c = a.length - b.length;
+        return a.indexOf(b) === c;
+      };
+      
+      function all(arr) {
+        for (var i=0, l=arr.length ; i < l ; i++) {
+          if (!arr[i]) { return false; }
+        }
+        return true;
+      };
+      
+      function none(arr) {
+        for (var i=0, l=arr.length ; i < l ; i++) {
+          if (arr[i]) { return false; }
+        }
+        return true;
+      };
+      
+      function either(arr) {
+        for (var i=0, l=arr.length ; i < l ; i++) {
+          if (arr[i]) { return true; }
+        }
+        return false;
+      };
+      
+      // Setup
+    
+      var referrer = document.referrer;
+      var currentlocation = window.location.toString();
+      var mobileUrl = 'http://m.gohawaii.com';
+      var locale = SiteVars.currentLocale;
+      var userAgent = navigator.userAgent.toLowerCase();
+      var userAgentMatch = userAgent.match(/(iPhone|iPod|blackberry|android|htc|lg|midp|mmp|nokia|opera mini|palm|pocket|psp|sgh|symbian|treo mini|Playstation Portable|SonyEricsson|Samsung|MobileExplorer|PalmSource|Benq|Windows Phone|Windows Mobile|IEMobile|Windows CE|Nintendo Wii)/i);
+      
+      var rejectedUrlTests = [
+        startsWith(referrer, 'http://admin.gohawaii.com'),
+        startsWith(referrer, 'http://www.gohawaii.com'),
+        startsWith(referrer, 'http://m.gohawaii.com'),
+        startsWith(referrer, 'http://media.gohawaii.com'),
+        startsWith(referrer, 'http://media-admin.gohawaii.com'),
+        startsWith(currentlocation, 'http://media.gohawaii.com'),
+        startsWith(currentlocation, 'http://media-admin.gohawaii.com'),
+        startsWith(currentlocation, 'http://admin.gohawaii.com/statewide/special-alert1'),
+        startsWith(currentlocation, 'http://www.gohawaii.com/statewide/special-alert1')
+      ];
+      
+      var tabletTests = [
+        userAgent.match(/iPad/i), // iPad
+        userAgent.match(/android/i) && !userAgent.match(/mobile/i) // Android Tablet (See http://googlewebmastercentral.blogspot.ca/2011/03/mo-better-to-also-detect-mobile-user.html)
+      ];
+      
+      var acceptedLocaleTests = [
+        locale.match('^en$')
+      ];
+      
+      var isMobile = userAgentMatch && none(tabletTests);
+      var isTablet = tabletTests;
+      
+      var itShouldRedirect = isMobile && all(acceptedLocaleTests) && none(rejectedUrlTests);
+
+      // Redirection
+      
+      // Add Island slug to url 
+      if (SiteVars.islandId != 'statewide') {
+        var mobileUrl = mobileUrl + '/' + SiteVars.islandId;
+      }
+      
+      // Check for special-offers page
+      var isSpecialOffer = endsWith(currentlocation, '/special-offers'); 
+      var isGolfPage = endsWith(currentlocation, '/statewide/discover/essential-hawaii/golf'); 
+      var isFarmPage = endsWith(currentlocation, '/statewide/guidebook/farm-to-table'); 
+      
+      if (isSpecialOffer) {
+        var mobileUrl = mobileUrl + '/special-offers'; 
+        } else if (SiteVars.islandId != 'statewide') { 
+        // Otherwise continue to mobile island page. for example: /kauai/about
+        var mobileUrl = mobileUrl + '/about';
+      }  
+      
+      if (itShouldRedirect) {
+        window.location = mobileUrl;
+      }
+      
+      // Exception case, redirect this golf page on tablet
+      if (isGolfPage && all(acceptedLocaleTests) && (isMobile||either(tabletTests))) {
+        var mobileUrl = mobileUrl + '/statewide/discover/essential-hawaii/golf';
+        window.location = mobileUrl;
+      }  
+      
+      // Exception case, redirect farm to table pages
+      if (isFarmPage && all(acceptedLocaleTests) && (isMobile)) {
+        var mobileUrl = mobileUrl + '/statewide/guidebook/farm-to-table';
+        window.location = mobileUrl;
+      }  
     </script><script type="text/javascript" src="./template_resources/js/BrowserDetect.js"></script><script type="text/javascript" src="./template_resources/js/analytics-scripts.js"></script><script type="text/javascript">
           var GMapKey = '';
-        </script><script type="text/javascript" src="./template_resources/js/map-scripts.js"></script><script type="text/javascript" src="./template_resources/js/module.js"></script><script type="text/javascript" src="./template_resources/js/search.js"></script><script type="text/javascript" src="./template_resources/js/ajax-history.js"></script><script type="text/javascript" src="./template_resources/js/myhawaii.js"></script><script type="text/javascript" src="./template_resources/js/Cookie.js"></script><script type="text/javascript" src="./template_resources/js/whereyouvebeen.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script><script type="text/javascript" src="./template_resources/js/print.js"></script><script type="text/javascript" src="./template_resources/js/gigyashare.js"></script><script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/lightbox.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/carousel2.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/carousel.js"></script><script language="javascript" src="./template_resources/js/feeds/events.js"></script>
+        </script><script type="text/javascript" src="./template_resources/js/map-scripts.js"></script><script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=" type="text/javascript"></script><script type="text/javascript" src="./template_resources/js/module.js"></script><script type="text/javascript" src="./template_resources/js/search.js"></script><script type="text/javascript" src="./template_resources/js/ajax-history.js"></script><script type="text/javascript" src="./template_resources/js/myhawaii.js"></script><script type="text/javascript" src="./template_resources/js/Cookie.js"></script><script type="text/javascript" src="./template_resources/js/whereyouvebeen.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script><script type="text/javascript" src="./template_resources/js/print.js"></script><script type="text/javascript" src="./template_resources/js/gigyashare.js"></script><script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/lightbox.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/carousel2.js"></script><script language="JavaScript" type="text/javascript" src="./template_resources/js/carousel.js"></script><script language="javascript" src="./template_resources/js/feeds/events.js"></script>
 <!--[if lte IE 7]>
              <link rel="stylesheet" type="text/css" href="./template_resources/css/hvcb/alliefix.css" />   
           <![endif]-->
@@ -590,7 +693,7 @@
 <form action="./directory/search" method="get" class="vacationdirectory">
 <h4>Find Things To Do</h4>
 <fieldset class="intro">
-<input type="hidden" id="randomGen" name="randomGen" value="random_201206290744.13"><input type="hidden" id="searchType" name="searchType" value="member"><input type="hidden" id="searchDisplayType" name="searchDisplayType" value="activities"><input type="hidden" id="ActSubCategory" name="SubCategory" value=""><input type="hidden" id="categoryRestriction" name="categoryRestriction" value=""><input type="hidden" id="ActMIslandId" name="mIslandId" class="mIslandId" value="(&quot;kauai&quot; OR &quot;oahu&quot; OR &quot;lanai&quot; OR &quot;molokai&quot; OR &quot;maui&quot; OR &quot;big-island&quot;)"><input type="hidden" id="ActislandId" name="islandId" class="islandId" value="statewide"><input type="hidden" id="act-seller-split" name="SellerSplit" value=""><input type="hidden" name="omniTypes" class="omniTypes" value="">
+<input type="hidden" id="randomGen" name="randomGen" value="random_201212290302.51"><input type="hidden" id="searchType" name="searchType" value="member"><input type="hidden" id="searchDisplayType" name="searchDisplayType" value="activities"><input type="hidden" id="ActSubCategory" name="SubCategory" value=""><input type="hidden" id="categoryRestriction" name="categoryRestriction" value=""><input type="hidden" id="ActMIslandId" name="mIslandId" class="mIslandId" value="(&quot;kauai&quot; OR &quot;oahu&quot; OR &quot;lanai&quot; OR &quot;molokai&quot; OR &quot;maui&quot; OR &quot;big-island&quot;)"><input type="hidden" id="ActislandId" name="islandId" class="islandId" value="statewide"><input type="hidden" id="act-seller-split" name="SellerSplit" value=""><input type="hidden" name="omniTypes" class="omniTypes" value="">
 <div class="field">
 <div class="dropdown">
 <strong class="all">All Islands</strong>
@@ -622,44 +725,44 @@
 </div>
 <div class="field" id="activity-category">
 <div class="dropdown" id="activity-category-all">
-<strong class="all">All Categories  (1709)
+<strong class="all">All Categories  (1663)
           </strong>
 <ul class="dropdown-list">
 <li>
-<a href="#" class="">All Categories (1709)</a>
+<a href="#" class="">All Categories (1663)</a>
 </li>
 <li>
-<a href="#" class="Activities">Activities (452)</a>
+<a href="#" class="Activities">Activities (433)</a>
 </li>
 <li>
-<a href="#" class="Dining">Dining (268)</a>
+<a href="#" class="Dining">Dining (264)</a>
 </li>
 <li>
-<a href="#" class="Golf">Golf (37)</a>
+<a href="#" class="Golf">Golf (39)</a>
 </li>
 <li>
-<a href="#" class="Services">Services (195)</a>
+<a href="#" class="Services">Services (180)</a>
 </li>
 <li>
-<a href="#" class="Shopping">Shopping (113)</a>
+<a href="#" class="Shopping">Shopping (110)</a>
 </li>
 <li>
 <a href="#" class="Transportation">Transportation (37)</a>
 </li>
 <li>
-<a href="#" class="TravelProfessionals">Travel Professionals (75)</a>
+<a href="#" class="TravelProfessionals">Travel Professionals (79)</a>
 </li>
 <li>
-<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (111)</a>
+<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (113)</a>
 </li>
 </ul>
 </div>
 <div class="dropdown" id="activity-category-lanai">
-<strong class="all">All Categories  (35)
+<strong class="all">All Categories  (34)
           </strong>
 <ul class="dropdown-list">
 <li>
-<a href="#" class="">All Categories (35)</a>
+<a href="#" class="">All Categories (34)</a>
 </li>
 <li>
 <a href="#" class="Activities">Activities (10)</a>
@@ -671,7 +774,7 @@
 <a href="#" class="Golf">Golf (2)</a>
 </li>
 <li>
-<a href="#" class="Services">Services (5)</a>
+<a href="#" class="Services">Services (4)</a>
 </li>
 <li>
 <a href="#" class="Shopping">Shopping (3)</a>
@@ -685,20 +788,20 @@
 </ul>
 </div>
 <div class="dropdown" id="activity-category-molokai">
-<strong class="all">All Categories  (38)
+<strong class="all">All Categories  (36)
           </strong>
 <ul class="dropdown-list">
 <li>
-<a href="#" class="">All Categories (38)</a>
+<a href="#" class="">All Categories (36)</a>
 </li>
 <li>
-<a href="#" class="Activities">Activities (9)</a>
+<a href="#" class="Activities">Activities (8)</a>
 </li>
 <li>
 <a href="#" class="Dining">Dining (2)</a>
 </li>
 <li>
-<a href="#" class="Services">Services (3)</a>
+<a href="#" class="Services">Services (2)</a>
 </li>
 <li>
 <a href="#" class="Shopping">Shopping (3)</a>
@@ -712,65 +815,65 @@
 </ul>
 </div>
 <div class="dropdown" id="activity-category-maui">
-<strong class="all">All Categories  (453)
+<strong class="all">All Categories  (461)
           </strong>
 <ul class="dropdown-list">
 <li>
-<a href="#" class="">All Categories (453)</a>
+<a href="#" class="">All Categories (461)</a>
 </li>
 <li>
 <a href="#" class="Activities">Activities (115)</a>
 </li>
 <li>
-<a href="#" class="Dining">Dining (76)</a>
+<a href="#" class="Dining">Dining (79)</a>
 </li>
 <li>
 <a href="#" class="Golf">Golf (14)</a>
 </li>
 <li>
-<a href="#" class="Services">Services (38)</a>
+<a href="#" class="Services">Services (35)</a>
 </li>
 <li>
-<a href="#" class="Shopping">Shopping (21)</a>
+<a href="#" class="Shopping">Shopping (18)</a>
 </li>
 <li>
-<a href="#" class="Transportation">Transportation (12)</a>
+<a href="#" class="Transportation">Transportation (13)</a>
 </li>
 <li>
 <a href="#" class="TravelProfessionals">Travel Professionals (21)</a>
 </li>
 <li>
-<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (40)</a>
+<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (41)</a>
 </li>
 </ul>
 </div>
 <div class="dropdown" id="activity-category-big-island">
-<strong class="all">All Categories  (366)
+<strong class="all">All Categories  (360)
           </strong>
 <ul class="dropdown-list">
 <li>
-<a href="#" class="">All Categories (366)</a>
+<a href="#" class="">All Categories (360)</a>
 </li>
 <li>
-<a href="#" class="Activities">Activities (114)</a>
+<a href="#" class="Activities">Activities (112)</a>
 </li>
 <li>
 <a href="#" class="Dining">Dining (47)</a>
 </li>
 <li>
-<a href="#" class="Golf">Golf (8)</a>
+<a href="#" class="Golf">Golf (9)</a>
 </li>
 <li>
-<a href="#" class="Services">Services (30)</a>
+<a href="#" class="Services">Services (31)</a>
 </li>
 <li>
-<a href="#" class="Shopping">Shopping (26)</a>
+<a href="#" class="Shopping">Shopping (27)</a>
 </li>
 <li>
 <a href="#" class="Transportation">Transportation (11)</a>
 </li>
 <li>
-<a href="#" class="TravelProfessionals">Travel Professionals (7)</a>
+<a href="#" class="TravelProfessionals">Travel Professionals (10)</a>
 </li>
 <li>
 <a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (13)</a>
@@ -778,32 +881,32 @@
 </ul>
 </div>
 <div class="dropdown" id="activity-category-oahu">
-<strong class="all">All Categories  (638)
+<strong class="all">All Categories  (607)
           </strong>
 <ul class="dropdown-list">
 <li>
-<a href="#" class="">All Categories (638)</a>
+<a href="#" class="">All Categories (607)</a>
 </li>
 <li>
-<a href="#" class="Activities">Activities (157)</a>
+<a href="#" class="Activities">Activities (144)</a>
 </li>
 <li>
-<a href="#" class="Dining">Dining (105)</a>
+<a href="#" class="Dining">Dining (99)</a>
 </li>
 <li>
-<a href="#" class="Golf">Golf (9)</a>
+<a href="#" class="Golf">Golf (10)</a>
 </li>
 <li>
-<a href="#" class="Services">Services (125)</a>
+<a href="#" class="Services">Services (117)</a>
 </li>
 <li>
-<a href="#" class="Shopping">Shopping (50)</a>
+<a href="#" class="Shopping">Shopping (49)</a>
 </li>
 <li>
-<a href="#" class="Transportation">Transportation (24)</a>
+<a href="#" class="Transportation">Transportation (22)</a>
 </li>
 <li>
-<a href="#" class="TravelProfessionals">Travel Professionals (56)</a>
+<a href="#" class="TravelProfessionals">Travel Professionals (60)</a>
 </li>
 <li>
 <a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (38)</a>
@@ -811,35 +914,35 @@
 </ul>
 </div>
 <div class="dropdown" id="activity-category-kauai">
-<strong class="all">All Categories  (307)
+<strong class="all">All Categories  (306)
           </strong>
 <ul class="dropdown-list">
 <li>
-<a href="#" class="">All Categories (307)</a>
+<a href="#" class="">All Categories (306)</a>
 </li>
 <li>
-<a href="#" class="Activities">Activities (83)</a>
+<a href="#" class="Activities">Activities (77)</a>
 </li>
 <li>
-<a href="#" class="Dining">Dining (29)</a>
+<a href="#" class="Dining">Dining (28)</a>
 </li>
 <li>
 <a href="#" class="Golf">Golf (8)</a>
 </li>
 <li>
-<a href="#" class="Services">Services (32)</a>
+<a href="#" class="Services">Services (33)</a>
 </li>
 <li>
 <a href="#" class="Shopping">Shopping (17)</a>
 </li>
 <li>
-<a href="#" class="Transportation">Transportation (12)</a>
+<a href="#" class="Transportation">Transportation (13)</a>
 </li>
 <li>
-<a href="#" class="TravelProfessionals">Travel Professionals (7)</a>
+<a href="#" class="TravelProfessionals">Travel Professionals (11)</a>
 </li>
 <li>
-<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (26)</a>
+<a href="#" class="WeddingsHoneymoons">Weddings &amp; Honeymoons (25)</a>
 </li>
 </ul>
 </div>
@@ -861,42 +964,42 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (452)</li>
+<input type="checkbox" name="SubCat" value="">All Types (433)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (40)</li>
+<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (34)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (55)</li>
 <li>
-<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (49)</li>
+<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (46)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (14)</li>
+<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (13)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (95)</li>
+<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (92)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (26)</li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (24)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (32)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (25)</li>
+<input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (27)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (27)</li>
+<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (28)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (124)</li>
+<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (114)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (34)</li>
+<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (31)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-all-Dining">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (268)</li>
+<input type="checkbox" name="SubCat" value="">All Types (264)</li>
 <li>
-<input type="checkbox" name="SubCat" value="American" class="">American (81)</li>
+<input type="checkbox" name="SubCat" value="American" class="">American (80)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Bakeries" class="">Bakeries (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (12)</li>
+<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (14)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Caribbean" class="">Caribbean (1)</li>
 <li>
@@ -904,27 +1007,25 @@
 <li>
 <input type="checkbox" name="SubCat" value="Continental" class="">Continental (22)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Desserts" class="">Desserts (3)</li>
+<input type="checkbox" name="SubCat" value="Desserts" class="">Desserts (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DinnerShow/Cruise" class="">Dinner Show/Cruise (9)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Euro-Asian" class="">Euro-Asian (1)</li>
-<li>
 <input type="checkbox" name="SubCat" value="French" class="">French (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Hawaiian" class="">Hawaiian (6)</li>
+<input type="checkbox" name="SubCat" value="Hawaiian" class="">Hawaiian (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiiRegional" class="">Hawaii Regional (51)</li>
+<input type="checkbox" name="SubCat" value="HawaiiRegional" class="">Hawaii Regional (49)</li>
 <li>
 <input type="checkbox" name="SubCat" value="HealthyOptions" class="">Healthy Options (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Italian" class="">Italian (9)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (18)</li>
+<input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (16)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (8)</li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Mediterranean" class=""> (1)</li>
 <li>
@@ -934,20 +1035,20 @@
 <li>
 <input type="checkbox" name="SubCat" value="Pizza" class="">Pizza (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Seafood" class="">Seafood (17)</li>
+<input type="checkbox" name="SubCat" value="Seafood" class="">Seafood (18)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Steak" class="">Steak (7)</li>
+<input type="checkbox" name="SubCat" value="Steak" class="">Steak (10)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-all-Golf">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (37)</li>
+<input type="checkbox" name="SubCat" value="">All Types (39)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="GolfCourses" class="">Golf Courses (27)</li>
+<input type="checkbox" name="SubCat" value="GolfCourses" class="">Golf Courses (29)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ProductsandServices" class="">Products and Services (9)</li>
 </ul>
@@ -956,30 +1057,30 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (195)</li>
+<input type="checkbox" name="SubCat" value="">All Types (180)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (91)</li>
+<input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (88)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ChildrenandFamilies" class="">Children and Families (5)</li>
+<input type="checkbox" name="SubCat" value="ChildrenandFamilies" class="">Children and Families (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="EducationalProgramsandInstitutions" class="">Educational Programs and Institutions (8)</li>
 <li>
 <input type="checkbox" name="SubCat" value="MedicalServicesandFacilities" class="">Medical Services and Facilities (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (28)</li>
+<input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (27)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PhotographersVideographers" class="">Photographers &amp; Videographers (5)</li>
+<input type="checkbox" name="SubCat" value="PhotographersVideographers" class="">Photographers &amp; Videographers (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (20)</li>
+<input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (16)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (38)</li>
+<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (34)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-all-Shopping">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (113)</li>
+<input type="checkbox" name="SubCat" value="">All Types (110)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (2)</li>
 <li>
@@ -987,11 +1088,13 @@
 <li>
 <input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (61)</li>
 <li>
-<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (14)</li>
+<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (12)</li>
 <li>
-<input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (33)</li>
+<input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (25)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (22)</li>
+<input type="checkbox" name="SubCat" value="ShoppingCenters,MallsandOutlets" class="">Shopping Centers, Malls and Outlets (18)</li>
+<li>
+<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (11)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-all-Transportation">
@@ -1000,13 +1103,13 @@
 <li class="all">
 <input type="checkbox" name="SubCat" value="">All Types (37)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Airlines" class="">Airlines (6)</li>
+<input type="checkbox" name="SubCat" value="Airlines" class="">Airlines (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BusesandShuttles" class="">Buses and Shuttles (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Cars,MotorcyclesandMopeds" class="">Cars, Motorcycles and Mopeds (14)</li>
+<input type="checkbox" name="SubCat" value="Cars,MotorcyclesandMopeds" class="">Cars, Motorcycles and Mopeds (15)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LimousinesandTaxis" class="">Limousines and Taxis (6)</li>
+<input type="checkbox" name="SubCat" value="LimousinesandTaxis" class="">Limousines and Taxis (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="OceanFerries" class="">Ocean Ferries (1)</li>
 </ul>
@@ -1015,20 +1118,20 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (75)</li>
+<input type="checkbox" name="SubCat" value="">All Types (79)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (35)</li>
+<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (38)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (40)</li>
+<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (42)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-all-WeddingsHoneymoons">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (111)</li>
+<input type="checkbox" name="SubCat" value="">All Types (113)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (12)</li>
 <li>
@@ -1036,15 +1139,15 @@
 <li>
 <input type="checkbox" name="SubCat" value="FloristsandFormalWear" class="">Florists and Formal Wear (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (36)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (40)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Officiants" class="">Officiants (2)</li>
+<input type="checkbox" name="SubCat" value="Officiants" class="">Officiants (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (8)</li>
+<input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (6)</li>
 <li>
 <input type="checkbox" name="SubCat" value="TransportationandLimousines" class="">Transportation and Limousines (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (54)</li>
+<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (52)</li>
 <li>
 <input type="checkbox" name="SubCat" value="WeddingServicesProviders" class=""> (1)</li>
 </ul>
@@ -1067,7 +1170,7 @@
 <li>
 <input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (1)</li>
+<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (2)</li>
 <li>
@@ -1075,7 +1178,7 @@
 <li>
 <input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (2)</li>
+<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (1)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-lanai-Dining">
@@ -1104,13 +1207,13 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (5)</li>
+<input type="checkbox" name="SubCat" value="">All Types (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (3)</li>
+<input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (2)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-lanai-Shopping">
@@ -1160,17 +1263,15 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (9)</li>
+<input type="checkbox" name="SubCat" value="">All Types (8)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (1)</li>
-<li>
-<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (4)</li>
+<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (1)</li>
+<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (3)</li>
+<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (1)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-molokai-Dining">
@@ -1188,13 +1289,11 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (3)</li>
+<input type="checkbox" name="SubCat" value="">All Types (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (1)</li>
-<li>
-<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (1)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-molokai-Shopping">
@@ -1205,7 +1304,7 @@
 <li>
 <input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (1)</li>
+<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (1)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-molokai-Transportation">
@@ -1244,42 +1343,40 @@
 <li class="all">
 <input type="checkbox" name="SubCat" value="">All Types (115)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (21)</li>
+<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (19)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (18)</li>
+<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (16)</li>
 <li>
-<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (9)</li>
+<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (24)</li>
+<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (23)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (9)</li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (8)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (7)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (8)</li>
+<input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (9)</li>
 <li>
 <input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (6)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (27)</li>
+<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (33)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (11)</li>
+<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (10)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-maui-Dining">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (76)</li>
+<input type="checkbox" name="SubCat" value="">All Types (79)</li>
 <li>
-<input type="checkbox" name="SubCat" value="American" class="">American (29)</li>
+<input type="checkbox" name="SubCat" value="American" class="">American (30)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (2)</li>
+<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Continental" class="">Continental (7)</li>
-<li>
-<input type="checkbox" name="SubCat" value="Desserts" class="">Desserts (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DinnerShow/Cruise" class="">Dinner Show/Cruise (2)</li>
 <li>
@@ -1289,19 +1386,19 @@
 <li>
 <input type="checkbox" name="SubCat" value="Italian" class="">Italian (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (3)</li>
+<input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (3)</li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Mediterranean" class=""> (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Mexican" class="">Mexican (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PacificRim" class="">Pacific Rim (2)</li>
+<input type="checkbox" name="SubCat" value="PacificRim" class="">Pacific Rim (3)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Seafood" class="">Seafood (5)</li>
+<input type="checkbox" name="SubCat" value="Seafood" class="">Seafood (6)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Steak" class="">Steak (1)</li>
+<input type="checkbox" name="SubCat" value="Steak" class="">Steak (3)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-maui-Golf">
@@ -1321,17 +1418,17 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (38)</li>
+<input type="checkbox" name="SubCat" value="">All Types (35)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (14)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ChildrenandFamilies" class="">Children and Families (2)</li>
+<input type="checkbox" name="SubCat" value="ChildrenandFamilies" class="">Children and Families (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (11)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PhotographersVideographers" class="">Photographers &amp; Videographers (2)</li>
+<input type="checkbox" name="SubCat" value="PhotographersVideographers" class="">Photographers &amp; Videographers (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (3)</li>
+<input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (6)</li>
 </ul>
@@ -1340,32 +1437,34 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (21)</li>
+<input type="checkbox" name="SubCat" value="">All Types (18)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DutyFree" class="">Duty Free (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (11)</li>
+<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (6)</li>
+<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (5)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (4)</li>
+<input type="checkbox" name="SubCat" value="ShoppingCenters,MallsandOutlets" class="">Shopping Centers, Malls and Outlets (2)</li>
+<li>
+<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (1)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-maui-Transportation">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (12)</li>
+<input type="checkbox" name="SubCat" value="">All Types (13)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Airlines" class="">Airlines (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BusesandShuttles" class="">Buses and Shuttles (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Cars,MotorcyclesandMopeds" class="">Cars, Motorcycles and Mopeds (5)</li>
+<input type="checkbox" name="SubCat" value="Cars,MotorcyclesandMopeds" class="">Cars, Motorcycles and Mopeds (6)</li>
 <li>
 <input type="checkbox" name="SubCat" value="OceanFerries" class="">Ocean Ferries (1)</li>
 </ul>
@@ -1376,26 +1475,26 @@
 <li class="all">
 <input type="checkbox" name="SubCat" value="">All Types (21)</li>
 <li>
-<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (11)</li>
+<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (11)</li>
+<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (13)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-maui-WeddingsHoneymoons">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (40)</li>
+<input type="checkbox" name="SubCat" value="">All Types (41)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (6)</li>
+<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (11)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Officiants" class="">Officiants (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (5)</li>
+<input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (23)</li>
+<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (22)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-big-island-all">
@@ -1412,25 +1511,25 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (114)</li>
+<input type="checkbox" name="SubCat" value="">All Types (112)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (7)</li>
+<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (13)</li>
+<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (14)</li>
 <li>
-<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (9)</li>
+<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (8)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (32)</li>
+<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (30)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (6)</li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (5)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (9)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (10)</li>
+<input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (11)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (5)</li>
+<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (29)</li>
 <li>
@@ -1447,21 +1546,17 @@
 <li>
 <input type="checkbox" name="SubCat" value="Bakeries" class="">Bakeries (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (1)</li>
+<input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Continental" class="">Continental (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Desserts" class="">Desserts (1)</li>
-<li>
-<input type="checkbox" name="SubCat" value="Euro-Asian" class="">Euro-Asian (1)</li>
-<li>
 <input type="checkbox" name="SubCat" value="Hawaiian" class="">Hawaiian (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiiRegional" class="">Hawaii Regional (13)</li>
+<input type="checkbox" name="SubCat" value="HawaiiRegional" class="">Hawaii Regional (12)</li>
 <li>
 <input type="checkbox" name="SubCat" value="HealthyOptions" class="">Healthy Options (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Italian" class="">Italian (1)</li>
+<input type="checkbox" name="SubCat" value="Italian" class="">Italian (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (3)</li>
 <li>
@@ -1470,15 +1565,17 @@
 <input type="checkbox" name="SubCat" value="PacificRim" class="">Pacific Rim (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Seafood" class="">Seafood (4)</li>
+<li>
+<input type="checkbox" name="SubCat" value="Steak" class="">Steak (1)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-big-island-Golf">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (8)</li>
+<input type="checkbox" name="SubCat" value="">All Types (9)</li>
 <li>
-<input type="checkbox" name="SubCat" value="GolfCourses" class="">Golf Courses (6)</li>
+<input type="checkbox" name="SubCat" value="GolfCourses" class="">Golf Courses (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ProductsandServices" class="">Products and Services (2)</li>
 </ul>
@@ -1487,7 +1584,7 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (30)</li>
+<input type="checkbox" name="SubCat" value="">All Types (31)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (10)</li>
 <li>
@@ -1497,7 +1594,7 @@
 <li>
 <input type="checkbox" name="SubCat" value="MedicalServicesandFacilities" class="">Medical Services and Facilities (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (7)</li>
+<input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (8)</li>
 <li>
 <input type="checkbox" name="SubCat" value="PhotographersVideographers" class="">Photographers &amp; Videographers (2)</li>
 <li>
@@ -1510,15 +1607,17 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (26)</li>
+<input type="checkbox" name="SubCat" value="">All Types (27)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (14)</li>
+<input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (15)</li>
 <li>
 <input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (6)</li>
 <li>
-<input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (8)</li>
+<input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (7)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (5)</li>
+<input type="checkbox" name="SubCat" value="ShoppingCenters,MallsandOutlets" class="">Shopping Centers, Malls and Outlets (5)</li>
+<li>
+<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (1)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-big-island-Transportation">
@@ -1538,11 +1637,11 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (7)</li>
+<input type="checkbox" name="SubCat" value="">All Types (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (1)</li>
+<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (6)</li>
+<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (8)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-big-island-WeddingsHoneymoons">
@@ -1555,11 +1654,11 @@
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (6)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (7)</li>
+<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (6)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-oahu-all">
@@ -1576,19 +1675,19 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (157)</li>
+<input type="checkbox" name="SubCat" value="">All Types (144)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (20)</li>
+<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (18)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (30)</li>
+<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (29)</li>
 <li>
 <input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (23)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (7)</li>
+<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (6)</li>
 <li>
 <input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (27)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (11)</li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (9)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (13)</li>
 <li>
@@ -1596,18 +1695,18 @@
 <li>
 <input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (7)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (47)</li>
+<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (38)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (9)</li>
+<input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (8)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-oahu-Dining">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (105)</li>
+<input type="checkbox" name="SubCat" value="">All Types (99)</li>
 <li>
-<input type="checkbox" name="SubCat" value="American" class="">American (26)</li>
+<input type="checkbox" name="SubCat" value="American" class="">American (25)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Bakeries" class="">Bakeries (2)</li>
 <li>
@@ -1625,19 +1724,17 @@
 <li>
 <input type="checkbox" name="SubCat" value="French" class="">French (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Hawaiian" class="">Hawaiian (1)</li>
+<input type="checkbox" name="SubCat" value="HawaiiRegional" class="">Hawaii Regional (19)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HawaiiRegional" class="">Hawaii Regional (20)</li>
+<input type="checkbox" name="SubCat" value="Italian" class="">Italian (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Italian" class="">Italian (2)</li>
-<li>
-<input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (11)</li>
+<input type="checkbox" name="SubCat" value="Japanese" class="">Japanese (10)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Mexican" class="">Mexican (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PacificRim" class="">Pacific Rim (4)</li>
+<input type="checkbox" name="SubCat" value="PacificRim" class="">Pacific Rim (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Seafood" class="">Seafood (5)</li>
 <li>
@@ -1648,9 +1745,9 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (9)</li>
+<input type="checkbox" name="SubCat" value="">All Types (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="GolfCourses" class="">Golf Courses (4)</li>
+<input type="checkbox" name="SubCat" value="GolfCourses" class="">Golf Courses (5)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ProductsandServices" class="">Products and Services (5)</li>
 </ul>
@@ -1659,11 +1756,11 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (125)</li>
+<input type="checkbox" name="SubCat" value="">All Types (117)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (69)</li>
+<input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (65)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ChildrenandFamilies" class="">Children and Families (2)</li>
+<input type="checkbox" name="SubCat" value="ChildrenandFamilies" class="">Children and Families (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="EducationalProgramsandInstitutions" class="">Educational Programs and Institutions (6)</li>
 <li>
@@ -1671,14 +1768,14 @@
 <li>
 <input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (24)</li>
+<input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (21)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-oahu-Shopping">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (50)</li>
+<input type="checkbox" name="SubCat" value="">All Types (49)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
@@ -1686,20 +1783,22 @@
 <li>
 <input type="checkbox" name="SubCat" value="HawaiianProductsandApparel" class="">Hawaiian Products and Apparel (28)</li>
 <li>
-<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (5)</li>
+<input type="checkbox" name="SubCat" value="OnlineShopping" class="">Online Shopping (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (16)</li>
+<input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (9)</li>
+<input type="checkbox" name="SubCat" value="ShoppingCenters,MallsandOutlets" class="">Shopping Centers, Malls and Outlets (8)</li>
+<li>
+<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (7)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-oahu-Transportation">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (24)</li>
+<input type="checkbox" name="SubCat" value="">All Types (22)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Airlines" class="">Airlines (6)</li>
+<input type="checkbox" name="SubCat" value="Airlines" class="">Airlines (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BusesandShuttles" class="">Buses and Shuttles (8)</li>
 <li>
@@ -1712,13 +1811,13 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (56)</li>
+<input type="checkbox" name="SubCat" value="">All Types (60)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (25)</li>
+<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (28)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (31)</li>
+<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (33)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-oahu-WeddingsHoneymoons">
@@ -1727,17 +1826,15 @@
 <li class="all">
 <input type="checkbox" name="SubCat" value="">All Types (38)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (5)</li>
+<input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesandGuides" class="">Directories and Guides (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="FloristsandFormalWear" class="">Florists and Formal Wear (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (9)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (12)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Officiants" class="">Officiants (1)</li>
-<li>
-<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (20)</li>
+<input type="checkbox" name="SubCat" value="WeddingServiceProviders" class="">Wedding Service Providers (18)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-kauai-all">
@@ -1754,27 +1851,27 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (83)</li>
+<input type="checkbox" name="SubCat" value="">All Types (77)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (12)</li>
+<input type="checkbox" name="SubCat" value="ActivityBookingConciergeServices" class="">Activity Booking &amp; Concierge Services (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (11)</li>
+<input type="checkbox" name="SubCat" value="Attractions" class="">Attractions (10)</li>
 <li>
-<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (7)</li>
+<input type="checkbox" name="SubCat" value="CultureandtheArts" class="">Culture, History and the Arts (6)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (22)</li>
+<input type="checkbox" name="SubCat" value="LandAdventures" class="">Land Adventures (20)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (8)</li>
+<input type="checkbox" name="SubCat" value="Luaus" class="">Luaus (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Nightlife" class="">Nightlife (3)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Plantations,FarmsandGardens" class="">Plantations, Farms and Gardens (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (12)</li>
+<input type="checkbox" name="SubCat" value="SkyAdventures" class="">Sky Adventures (13)</li>
 <li>
-<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (22)</li>
+<input type="checkbox" name="SubCat" value="WaterAdventures" class="">Water Adventures (20)</li>
 <li>
 <input type="checkbox" name="SubCat" value="WellnessRejuvenation" class="">Wellness &amp; Rejuvenation (7)</li>
 </ul>
@@ -1783,9 +1880,9 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (29)</li>
+<input type="checkbox" name="SubCat" value="">All Types (28)</li>
 <li>
-<input type="checkbox" name="SubCat" value="American" class="">American (5)</li>
+<input type="checkbox" name="SubCat" value="American" class="">American (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BarsLounges" class="">Bars &amp; Lounges (3)</li>
 <li>
@@ -1829,15 +1926,15 @@
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (32)</li>
+<input type="checkbox" name="SubCat" value="">All Types (33)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (14)</li>
+<input type="checkbox" name="SubCat" value="BusinessandFinancialServices" class="">Business and Financial Services (16)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (5)</li>
+<input type="checkbox" name="SubCat" value="Meetings/ConventionServices" class="">Meetings/Convention Services (6)</li>
 <li>
 <input type="checkbox" name="SubCat" value="PhotographersVideographers" class="">Photographers &amp; Videographers (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (6)</li>
+<input type="checkbox" name="SubCat" value="RealEstate" class="">Real Estate (4)</li>
 <li>
 <input type="checkbox" name="SubCat" value="VisitorInformationandGuides" class="">Visitor Information and Guides (7)</li>
 </ul>
@@ -1854,14 +1951,16 @@
 <li>
 <input type="checkbox" name="SubCat" value="RetailStores" class="">Retail Stores (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (4)</li>
+<input type="checkbox" name="SubCat" value="ShoppingCenters,MallsandOutlets" class="">Shopping Centers, Malls and Outlets (3)</li>
+<li>
+<input type="checkbox" name="SubCat" value="SpecialtyShopsBoutiques" class="">Specialty Shops &amp; Boutiques (1)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-kauai-Transportation">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (12)</li>
+<input type="checkbox" name="SubCat" value="">All Types (13)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Airlines" class="">Airlines (4)</li>
 <li>
@@ -1869,25 +1968,25 @@
 <li>
 <input type="checkbox" name="SubCat" value="Cars,MotorcyclesandMopeds" class="">Cars, Motorcycles and Mopeds (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LimousinesandTaxis" class="">Limousines and Taxis (2)</li>
+<input type="checkbox" name="SubCat" value="LimousinesandTaxis" class="">Limousines and Taxis (3)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-kauai-TravelProfessionals">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (7)</li>
+<input type="checkbox" name="SubCat" value="">All Types (11)</li>
 <li>
-<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (1)</li>
+<input type="checkbox" name="SubCat" value="TravelAgents" class="">Travel Agents (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (6)</li>
+<input type="checkbox" name="SubCat" value="VacationPackagesandTours" class="">Vacation Packages and Tours (8)</li>
 </ul>
 </div>
 <div class="field" id="activity-types-kauai-WeddingsHoneymoons">
 <h5>Select a Type</h5>
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (26)</li>
+<input type="checkbox" name="SubCat" value="">All Types (25)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Caterers,FacilitiesandVenues" class="">Caterers, Facilities and Venues (2)</li>
 <li>
@@ -1897,7 +1996,7 @@
 <li>
 <input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (8)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (2)</li>
+<input type="checkbox" name="SubCat" value="PhotographersandVideographers" class="">Photographers and Videographers (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="TransportationandLimousines" class="">Transportation and Limousines (1)</li>
 <li>
@@ -1916,7 +2015,7 @@
 <form action="./directory/search" method="get" class="vacationdirectory">
 <h4>Find A Place To Stay</h4>
 <fieldset class="intro">
-<input type="hidden" id="randomGen" name="randomGen" value="random_201206290744.13"><input type="hidden" id="searchType" name="searchType" value="member"><input type="hidden" id="searchDisplayType" name="searchDisplayType" value="accommodations"><input type="hidden" id="LodgCategory" name="Category" value="Accommodations"><input type="hidden" id="LodgSubCategory" name="SubCategory" value=""><input type="hidden" id="categoryRestriction" name="categoryRestriction" value=""><input type="hidden" id="LodgMIslandId" name="mIslandId" class="mIslandId" value="(&quot;kauai&quot; OR &quot;oahu&quot; OR &quot;lanai&quot; OR &quot;molokai&quot; OR &quot;maui&quot; OR &quot;big-island&quot;)"><input type="hidden" id="LodgislandId" name="islandId" class="islandId" value="statewide"><input type="hidden" id="act-seller-split" name="SellerSplit" value=""><input type="hidden" name="omniTypes" class="omniTypes" value="">
+<input type="hidden" id="randomGen" name="randomGen" value="random_201212290302.51"><input type="hidden" id="searchType" name="searchType" value="member"><input type="hidden" id="searchDisplayType" name="searchDisplayType" value="accommodations"><input type="hidden" id="LodgCategory" name="Category" value="Accommodations"><input type="hidden" id="LodgSubCategory" name="SubCategory" value=""><input type="hidden" id="categoryRestriction" name="categoryRestriction" value=""><input type="hidden" id="LodgMIslandId" name="mIslandId" class="mIslandId" value="(&quot;kauai&quot; OR &quot;oahu&quot; OR &quot;lanai&quot; OR &quot;molokai&quot; OR &quot;maui&quot; OR &quot;big-island&quot;)"><input type="hidden" id="LodgislandId" name="islandId" class="islandId" value="statewide"><input type="hidden" id="act-seller-split" name="SellerSplit" value=""><input type="hidden" name="omniTypes" class="omniTypes" value="">
 <div class="field">
 <div class="dropdown">
 <strong class="all">All Islands</strong>
@@ -1952,31 +2051,31 @@
 <div class="field" id="lodging-types-all">
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (499)</li>
+<input type="checkbox" name="SubCat" value="">All Types (488)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (76)</li>
+<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (73)</li>
 <li>
-<input type="checkbox" name="SubCat" value="CampingRVs" class="">Camping &amp; RVs (1)</li>
+<input type="checkbox" name="SubCat" value="CampingRVs" class="">Camping &amp; RVs (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (152)</li>
+<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (153)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (7)</li>
+<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (6)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Hostels" class="">Hostels (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (132)</li>
+<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (129)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (72)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (79)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (98)</li>
+<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (86)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (92)</li>
+<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (86)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RetreatsandCamps" class="">Retreats and Camps (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="VacationOwnerships" class="">Vacation Ownerships (13)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (65)</li>
+<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (75)</li>
 </ul>
 </div>
 <div class="field" id="lodging-types-lanai">
@@ -1992,37 +2091,37 @@
 <div class="field" id="lodging-types-molokai">
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (19)</li>
+<input type="checkbox" name="SubCat" value="">All Types (18)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (12)</li>
+<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (11)</li>
 <li>
 <input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (3)</li>
+<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (2)</li>
 <li>
 <input type="checkbox" name="SubCat" value="VacationOwnerships" class="">Vacation Ownerships (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (2)</li>
+<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (3)</li>
 </ul>
 </div>
 <div class="field" id="lodging-types-maui">
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (149)</li>
+<input type="checkbox" name="SubCat" value="">All Types (156)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (19)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (66)</li>
+<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (71)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (29)</li>
+<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (33)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (18)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (22)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (24)</li>
+<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (21)</li>
 <li>
 <input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (32)</li>
 <li>
@@ -2030,19 +2129,19 @@
 <li>
 <input type="checkbox" name="SubCat" value="VacationOwnerships" class="">Vacation Ownerships (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (25)</li>
+<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (31)</li>
 </ul>
 </div>
 <div class="field" id="lodging-types-big-island">
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (124)</li>
+<input type="checkbox" name="SubCat" value="">All Types (117)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (39)</li>
+<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (37)</li>
 <li>
-<input type="checkbox" name="SubCat" value="CampingRVs" class="">Camping &amp; RVs (1)</li>
+<input type="checkbox" name="SubCat" value="CampingRVs" class="">Camping &amp; RVs (2)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (18)</li>
+<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (20)</li>
 <li>
 <input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (1)</li>
 <li>
@@ -2050,11 +2149,11 @@
 <li>
 <input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (26)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (12)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (14)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (28)</li>
+<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (22)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (16)</li>
+<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (13)</li>
 <li>
 <input type="checkbox" name="SubCat" value="RetreatsandCamps" class="">Retreats and Camps (1)</li>
 <li>
@@ -2066,27 +2165,27 @@
 <div class="field" id="lodging-types-oahu">
 <ul class="dwidget-checkbox-list">
 <li class="all">
-<input type="checkbox" name="SubCat" value="">All Types (103)</li>
+<input type="checkbox" name="SubCat" value="">All Types (101)</li>
 <li>
 <input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (7)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (17)</li>
 <li>
-<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (2)</li>
+<input type="checkbox" name="SubCat" value="DirectoriesGuides" class="">Directories &amp; Guides (1)</li>
 <li>
 <input type="checkbox" name="SubCat" value="Hostels" class="">Hostels (1)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (54)</li>
+<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (53)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (27)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (29)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (15)</li>
+<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (13)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (27)</li>
+<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (25)</li>
 <li>
 <input type="checkbox" name="SubCat" value="VacationOwnerships" class="">Vacation Ownerships (4)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (9)</li>
+<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (11)</li>
 </ul>
 </div>
 <div class="field" id="lodging-types-kauai">
@@ -2094,21 +2193,21 @@
 <li class="all">
 <input type="checkbox" name="SubCat" value="">All Types (116)</li>
 <li>
-<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (13)</li>
+<input type="checkbox" name="SubCat" value="BedBreakfasts/Inn" class="">Bed &amp; Breakfasts/Inn (12)</li>
 <li>
-<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (40)</li>
+<input type="checkbox" name="SubCat" value="Condominiums" class="">Condominiums (44)</li>
 <li>
-<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (19)</li>
+<input type="checkbox" name="SubCat" value="HotelsResorts" class="">Hotels &amp; Resorts (22)</li>
 <li>
-<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (13)</li>
+<input type="checkbox" name="SubCat" value="LGBT" class="">LGBT (15)</li>
 <li>
-<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (32)</li>
+<input type="checkbox" name="SubCat" value="PrivateHomesCottages" class="">Private Homes &amp; Cottages  (31)</li>
 <li>
-<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (28)</li>
+<input type="checkbox" name="SubCat" value="ReservationsBookingServices" class="">Reservations &amp; Booking Services (26)</li>
 <li>
 <input type="checkbox" name="SubCat" value="VacationOwnerships" class="">Vacation Ownerships (5)</li>
 <li>
-<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (15)</li>
+<input type="checkbox" name="SubCat" value="VacationRentals" class="">Vacation Rentals (16)</li>
 </ul>
 </div>
 <div class="submit">
@@ -2205,12 +2304,17 @@
 </div>
 </fieldset>
 </form>
+<div class="advanced-search">
+<a href="./events/advanced-search" class="advanced-link">Advanced Search</a>
+</div>
 </div>
 </div>
 <span class="dwidget-bottom"></span>
 </div>
-<script type="text/javascript">document.observe('dom:loaded', function() {
-        jQuery('.dwidget-directory').directoryWidget();
+<script type="text/javascript">
+        Event.observe(window, 'load', function() { 
+      
+          jQuery('.dwidget-directory').directoryWidget();
   
       });
       var loader = new loadAsyncDirectory();
@@ -2226,7 +2330,7 @@
 <span class="dwidget-top"></span>
 <h3>Media Gallery</h3>
 <div class="dwidget-content">
-<div class="gallerywrapper-N63751" id="N63751">
+<div class="gallerywrapper-N63833" id="N63833">
 <img src="./template_images/loading.gif"></div>
 </div>
 <span class="dwidget-bottom"></span>
@@ -2237,7 +2341,7 @@
       
       GalleryLoaderSettings.Settings.push(
         {
-          id:   'N63751',
+          id:   'N63833',
           path: '/xml_content/public/hvcb/common/statewide/privacy-policy/default-gallery.xml',
           pfx:  '/gallery/carousel/tagsearch',
           url:  '/gallery/ajaxpage',
