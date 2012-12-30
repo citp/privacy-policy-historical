@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeka.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124639id_/http%3A//en.eyeka.com/legal/eyekaandyou) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeka.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192800id_/http%3A//en.eyeka.com/legal/eyekaandyou) for the most accurate reproduction.*
 
 # eYeka, the co-creation community.
 
@@ -50,8 +50,8 @@ For more details of how Eyeka safeguards your personal data, consult our [Terms 
 You may unsubscribe to our electronic newsletter at any time simply by unsubscribing yourself in the same place you signed up. Or you may follow the instructions contained at the end of newsletters. As in pronto. If you've tried to unsubscribe and things just aren't working out, send email to us directly at feedback@eyeka.com or send a mail to: 
 
 Newsletter Feedback   
-46 bis, rue Notre-Dame des Victoires   
-75002 Paris – France 
+79 rue la Boétie   
+75008 Paris – France 
 
 Tél : 33 (0)1 44 76 80 80   
 Fax : 33 (0)1 44 76 01 00 
