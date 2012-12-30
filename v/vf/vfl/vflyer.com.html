@@ -1,201 +1,390 @@
-<!--The following is the downloaded HTML source of the vflyer.com privacy policy that was archived on 2006-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061217111434id_/http%3A//www.vflyer.com/main/Privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vflyer.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230192135id_/http%3A//www.vflyer.com/main/Privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	
-	<title>vFlyer - Privacy Policy</title>
-	<link rel="STYLESHEET" type="text/css" href="/main/style/style.css">
-	<link rel="STYLESHEET" type="text/css" href="/main/style/listing.css">
-	<link rel="STYLESHEET" type="text/css" href="/main/style/beta.css">
-	<link rel="STYLESHEET" type="text/css" href="/main/style/bug.css">
-	<link rel="STYLESHEET" type="text/css" href="/main/style/calendar-blue.css">
-	<link rel="SHORTCUT ICON" href="/main/images/v-2.ico">
-
-	<script src="js/scripts.js?i=1166354074370"></script>
-	<script src="js/ajax.js"></script>
-	<script language="JavaScript">
-		var checkflag = "false";
-		function check(field) {
-			if (checkflag == "false") {
-				for (i = 0; i < field.length; i++) {
-					field[i].checked = true;
-				}
-				checkflag = "true";
-				return true; 
-			}
-			else {
-				for (i = 0; i < field.length; i++) {
-					field[i].checked = false; 
-				}
-				checkflag = "false";
-				return false; 
-			}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<title>Privacy Policy | vFlyer</title>
+	<meta name="Description" content="privacy vflyer.com">
+<meta name="Keywords" content="privacy vflyer.com">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<link rel="shortcut icon" href="/main/images/v-2.ico">
+<link rel="stylesheet" type="text/css" href="/main/style/v2/common.css?v=14"> <script type="text/javascript" async="" id="inspsync" src="https://www.inspectlet.com/inspect/1697047233.js"></script><script type="text/javascript" id="inspectletjs">
+	var __insp = __insp || [];
+	__insp.push(['wid', 1697047233]);
+	(function() {
+		function __ldinsp(){var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://www.inspectlet.com/inspect/1697047233.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); }
+		if (window.attachEvent){
+			window.attachEvent('onload', __ldinsp);
+		}else{
+			window.addEventListener('load', __ldinsp, false);
 		}
-		function unCheck(){
-			var text = document.getElementById('emailText').value;
-			if(text.length < 1){
-				document.getElementById('emailCheckBox').checked = false;
-			}
-		}
+	})();
+</script></head><body onload="setFocus('LOGIN');">
+		<div id="v2_container">
 		
-		function actionConfirm(){
-			var action = document.getElementById("flyerAction").value;
-			if(action == "Delete"){
-				var flag = confirm("Do you really want to " + action + " Flyers(s)");
-				if(flag){
-					document.FLYERS.submit();
-				}
-			}else if(action == "Clone"){
-				document.FLYERS.submit();
-			}
+			<div id="v2_header">
+	<div id="v2_header-body">
+		<div id="v2_logo" onclick="window.location='/main/Guest.jsp'"><span>vFlyer.com</span></div>
+		<div id="v2_nav">
+			<div id="v2_info_small">
+			<span class="phone_special2">800.594.5930</span>
+				<a href="http://vflyer.zendesk.com/forums">Support</a>
+				<a href="/main/Login.jsp" id="v2_login">Log In</a>
+				<div id="v2_back">&nbsp;&nbsp;Log In</div>
+				<div id="v2_login-container">
+					<div id="v2_up">&nbsp;&nbsp;Log In</div>
+					<div id="v2_login-box">
+						<div id="v2_login-box-top"></div>
+						<div id="v2_login-content">
+							<form action="https://www.vflyer.com/main/action?action=Login" method="post" name="LOGIN2">
+								<input type="hidden" value="LOGIN" name="source">
+								<input type="hidden" value="LOGIN" name="btnFlyerAction">
+								<input type="hidden" value="login" id="btnAction2" name="btnAction">
+								<b>Email</b><br>
+								<input type="text" name="email" class="inputMed" onkeypress="javascript:if(entersubmit(event)){this.form.submit();}"><br>
+								<b>Password</b><br>
+								<input type="password" name="password" class="inputMed" onkeypress="javascript:if(entersubmit(event)){this.form.submit();}"><br><br>
+								<input type="submit" value="Log In" class="button-save">&nbsp;
+								<span class="grey-label"><input class="v2_check-box" type="checkbox" id="rememberMe2" value="true" name="rememberMe"> <label for="rememberMe2">Remember me</label></span><br><br>
+								<a href="/main/ForgotPassword.jsp">Forgot Password?</a><br>
+								<a href="/main/Pricing.jsp">New User? Sign Up</a><br>
+							</form>
+						</div>
+						<div id="v2_login-box-bot"></div>
+					</div>
+				</div>
+			</div> <!-- v2_info_small -->
 			
-		}
-
-		function fillInput(){
-			document.getElementById("input2").value =  document.getElementById("input1").value;
-		}
-		function openWindow(){
-			window.open('Feedback.jsp', 'FeedbackForm','toolbar=no,location=yes,directories=no,status=no,menubar=no, scrollbars=no,resizable=yes,copyhistory=yes,width=450,height=340,left=100,top=60');
+			<ul id="v2_header-links">
+			<li><a href="/main/Guest.jsp">Home</a></li>
+				<li><a href="/main/Pricing.jsp">Pricing &amp; Sign Up</a></li>
+				<li><a href="/main/FAQ.jsp">FAQ</a></li>
+				<li><a class="active" href="/main/Overview.jsp">About</a></li>
+			</ul> <!-- v2_header-links -->
+		</div> <!-- v2_nav -->
+	</div> <!-- v2_header-body -->
+</div> <!-- v2_header --><div id="v2_slides_short">
+		<div>
+			<div class="v2_slides_short_try">
+					<input class="v2_green_upgradeToday_tryvFlyerNow try-vflyer-now-button" type="button" href="/main/Pricing.jsp">
+				</div>
+				<!-- div class="v2_slides_short_try"><a href="/main/Pricing.jsp"><img src="/main/images/v2/assets/try_vflyer_now.gif" alt="Try vFlyer Now"/></a></div-->
+			<p>Privacy Policy</p>
+		</div>
+	</div><script type="text/javascript" src="/main/scripts/external/jquery/jquery-latest.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+	$(document).ready(function() {			
+		function upgradeButtonMouseDownOrLeave($upgradeButton) {
+			var clazz = $upgradeButton.attr('class');
+			clazz = clazz.replace('upgrade-today-button ', '');
+			clazz = clazz.replace('-active', '');
+			clazz = 'upgrade-today-button ' + clazz;
+			$upgradeButton.removeClass().addClass(clazz);
 		}
 		
-	</script>
-</head>
-
-
-<body onload="updateIntStats('http://www.vflyer.com/stats/stats?linkType=IntRef&amp;fid=0&amp;aid=0&amp;pid=29&amp;refURL='); ">
-	<div id="container">
-	  <div id="header" style="position:relative;">
-		<!-- 
-<div style="position:absolute; top:5px; background-color:#FFFFCC; font-size:11px; font-family:tahoma; border:1px solid #999999; text-align:left; width:320px; margin 0px auto; padding:3px; left:30%">
-	 The system will be down for maintenance at 11:30 PM PDT and will be back up in about 30 min.
-</div>
--->
-		<div id="bar">		
-
-  				<a href="http://www.vflyer.com/main/Register.jsp" class="crumbsCurrent">Sign Up</a> | <a href="http://www.vflyer.com/main/Login.jsp" class="crumbsCurrent">Log In</a>
-    				 
-		</div>
-		<div id="navigation">
-			  <ul>
-				  <li class="activeNav"><a href="http://www.vflyer.com/main/Home.jsp">HOME</a></li>
-				  
-				  <li><a href="http://www.vflyer.com/main/FAQ.jsp">FAQ</a></li>
-				  
-				  <li><a href="http://www.vflyer.com/main/Overview.jsp">ABOUT US</a></li>
-				  
-			  </ul>
-		</div>
-	  </div>
-
-<form name="LOGIN" action="action?action=Login" method="post">
-<input type="hidden" name="source" value="LOGIN">
-<input type="hidden" name="btnFlyerAction" value="LOGIN">
-<input type="hidden" name="btnAction" id="btnAction" value="">
-<div><div>
-
-<table width="768" style="margin-bottom:10px;" cellspacing="0" cellpadding="0">
-  <tbody><tr valign="middle">
-    <td class="barTableL"><a class="barCrumbTitle" href="http://www.vflyer.com/main/index.jsp">Home</a> 
-    
-    
-    » <span class="barTitle">Privacy Policy
-    </span> <span class="contentSubTitle"></span></td>
-    <td nowrap="" class="barTableR"><div align="right">
-      
- 
-	
-	     
-
-
-
-</div></td>
-  </tr>
-</tbody></table>
-</div></div>
-<!-- BEGIN WEBSIDESTORY CODE v3.0.0 (pro)-->
-<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
-
-
-
-
-  <div id="pageBody">
- 
-<!-- ** start Main Form ** -->
-		<div style="color:#000000;">
-			<b>Privacy Statement</b><br><br>
-
-This privacy statement applies to the website of:<br><br>
-
-vFlyer Inc.<br>
-703 Market St, Suite 2100<br>
-San Francisco CA 94103<br>
-US<br>
-678-272-4040<br>
-support@vflyer.com<br>
-<br>
-We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document.<br>
-<br>
-<div class="reg-blue reg-bold">Collecting information provides specific benefits to our website visitors:</div>
-<ul>
-<li>This information will be used to track unique visitors to the site's content as well as to target marketing offerings based on browsing.</li>
-</ul>
-<div class="reg-blue reg-bold">We collect information for the following purpose(s):</div>
-<ul>
-
-    <li>Completing or supporting an activity</li>
-   <li>Website and system administration</li>
-   <li>Research and development</li>
-    <li>Tailoring the website for its visitors</li>
-    <li>Research, analysis, reporting</li>
-    <li>Build records of individual visitors</li>
-    <li>Research, analysis, reporting</li>
-    <li>Build records of individual visitors</li>
-    <li>Contacting our visitors (except via telephone) for promotion of the site or products</li>
-    <li>Preserving social history as governed by existing law or policy</li>
-</ul>
-<div class="reg-blue reg-bold">Who has access to the information we collect?</div>
-<ul>
-
-    <li>Ourselves - Information is only shared with partners who share a similar privacy policy</li>
-    <li>Delivery services possibly not sharing our privacy policy</li>
-    <li>Other businesses who share our privacy policy</li>
-</ul>
-<div class="reg-blue reg-bold">Of the information we do collect, we allow our visitors the following access to the information:</div>
-<ul>
-
-    <li>Access is given to contact information (such as email address or postal address). </li>
-</ul>
-If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page. 
-		</div>
-</div>
-
-<div id="footer" style="text-align:left; border-top:1px solid #DDDDDD; width:768px; margin-top:20px; padding-left:5px;">
-	<table cellpadding="0" cellspacing="0" width="768"><tbody><tr><td class="text reg-blue">
-	Copyright © 2006, vFlyer, Inc., All Rights Reserved.
-	<span style="color:#000000;">
-		<a href="Home.jsp">Home</a>
-		<span> | </span>
-		<a href="http://blog.vflyer.com" target="_blank">Blog</a>
-		<span> | </span>
-		<a href="Overview.jsp">About Us</a>
-		<span> | </span>
-		<a href="javascript:openWindow()">Feedback</a>
-		<span> | </span>
-		<a href="Privacy.jsp">Privacy</a>
-		<span> | </span>
-		<a href="Terms.jsp">Terms</a>
-		<span> | </span>
-		<a href="http://www.vflyer.com/help/why" target="_blank">Help</a>
+		function tryNowButtonMouseDownOrLeave($tryNowButton) {
+			var clazz = $tryNowButton.attr('class');
+			clazz = clazz.replace('try-vflyer-now-button ', '');
+			clazz = clazz.replace('-active', '');
+			clazz = 'try-vflyer-now-button ' + clazz;
+			$tryNowButton.removeClass().addClass(clazz);
+		}
 		
-	</span>
-	</td>
+		$("body")
+			.delegate("input.upgrade-today-button", "click", function(event){
+				document.location.href = $(this).attr("href");
+			})
+			.delegate("input.try-vflyer-now-button", "click", function(event){
+				document.location.href = $(this).attr("href");
+			})
+			.delegate("input.upgrade-today-button", "mousedown", function(event){
+				var clazz = $(this).attr('class');
+				clazz = clazz.replace('upgrade-today-button ', '');
+				clazz = clazz + '-active';
+				clazz = 'upgrade-today-button ' + clazz;
+				$(this).removeClass();
+				$(this).addClass(clazz);
+			})
+			.delegate("input.upgrade-today-button", "mouseup", function(event){
+				upgradeButtonMouseDownOrLeave($(this));
+			})
+			.delegate("input.upgrade-today-button", "mouseleave", function(event){
+				upgradeButtonMouseDownOrLeave($(this));
+			})
+			.delegate("input.try-vflyer-now-button", "mousedown", function(event){
+				var clazz = $(this).attr('class');
+				clazz = clazz.replace('try-vflyer-now-button ', '');
+				clazz = clazz + '-active';
+				clazz = 'try-vflyer-now-button ' + clazz;
+				$(this).removeClass();
+				$(this).addClass(clazz);
+			})
+			.delegate("input.try-vflyer-now-button", "mouseup", function(event){
+				tryNowButtonMouseDownOrLeave($(this));
+			})
+			.delegate("input.try-vflyer-now-button", "mouseleave", function(event){
+				tryNowButtonMouseDownOrLeave($(this));
+			});
+	});
+//]]>
+</script><div id="v2_info-bar-small">
+			
+				<div id="v2_info-bar"></div>
+				
+				<div id="v2_content">
+					<div class="v2_content-body">
+							<div class="v2_full">
+									<div>
+										<h2>vFlyer Inc. Privacy Policy</h2>
+										<h4>This privacy policy applies to the entire site of <a href="http://www.vflyer.com">www.vflyer.com</a>.</h4>
+		
+										<p>
+											vFlyer Inc.<br>
+											201 Post St, STE 800<br>
+											San FranciscoCA94108<br>
+											US<br>
+											800.594.5930 x1<br>
+											<a href="mailto:support@vflyer.com">support@vflyer.com</a>
+										</p>
+										
+										<p>
+											We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take time to review this document carefully.
+										</p>
+										
+										<p><b>We collect information for the following purpose(s):</b></p>
+										<ul class="v2_about-list">
+										    <li>Enabling the creation and management of marketing content</li>
+										    <li>Tailoring the site for its visitors</li>
+										    <li>Enabling the usage of this service</li>
+										    <li>Contacting our visitors for promotion of the site or products</li>
+										</ul>
+										
+										<p><b>Information Collection, Use, and Sharing</b></p>
+										<p>
+										We are the sole owners of the information collected on this site. We only have access to collect information that you voluntarily give us such as name, address, phone, billing information; either via email or other direct contact from you.  We will not sell or rent this information to anyone. 
+										</p><p>
+										We will use your information to respond to you, regarding the reason you contacted us.  We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. automatically submitting listing data to marketplace partners.
+										</p><p>
+										Unless you ask us not to, we may contact you in the future to tell you about special offers, new products or services, or changes to this privacy policy.
+										</p>
+										
+										<p><b>What control do you have over this information?</b></p>
+										<p>You may opt out of any future contacts from us at any time.  You can do the following at any time by contacting us via the email address or phone number given on our site:</p>
+										<ul class="v2_about-list">
+										    <li>See what data we have about you, if any</li> 
+										    <li>Change/correct any data we have about you</li>
+										    <li>Have us delete any data we have about you</li>
+										    <li>Express any concern you have about our use of your data</li>
+										</ul>
+										
+										<p><b>What type of security policies are in place to protect sensitive information?</b></p>
+										<p>
+										We take precautions to protect your information.  When you submit sensitive information via the site, your information is protected both online and offline.
+										</p><p>
+										Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way.  You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+										</p><p>
+										While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information.  The computers/servers in which we store personally identifiable information are kept in a secure environment.
+										</p>
+										
+										<p>If you believe that our site has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page.</p>
+									</div> 
+								</div> <!-- v2_full -->
+							<div class="clear"></div>
+					</div> <!--  content-body -->
+				</div>
+			</div> <!-- v2_info-bar-small -->
+			<div id="v2_footer">
+	<div id="v2_footer-body">
+		<div class="v2_footer_holder v2_footer_holder_big">
+			<div class="v2_footer-header">Navigation</div>
+			<ul id="v2_features">
+			<li><a href="/main/Guest.jsp">Home</a></li>
+				<li><a href="/main/marketing/agent">Real Estate Agents</a></li>
+				<li><a href="/main/marketing/vmarketing">Listing Marketing</a></li>
+				<li><a href="/main/marketing/propertymanager">Property Managers</a></li>
+				<li><a href="/main/marketing/vflyer-sites">Website Builder</a></li>
+				<li><a href="/main/marketing/serviceprovider">Service Providers</a></li>
+				<li><a href="/main/marketing/craigslist-ads">Craigslist Templates</a></li>
+				<li><a href="/main/marketing/autodealer">Auto Dealers</a></li>
+				<li><a href="/main/marketing/agent/features">Single Property Sites</a></li>
+				<li><a href="/main/marketing/agency">Agency Edition</a></li>
+			</ul>
+		</div>
+		<div class="v2_footer_holder">
+			<div class="v2_footer-header">Social</div>
+			<ul id="v2_social">
+				<li id="v2_social-facebook"><div>&nbsp;</div><a class="v2_social-a" href="http://www.facebook.com/vflyer">Facebook</a></li>
+				<li id="v2_social-twitter"><div>&nbsp;</div><a class="v2_social-a" href="http://twitter.com/vflyer">Twitter</a></li>
+				<li id="v2_social-googleplus"><div>&nbsp;</div><a class="v2_social-a" href="https://plus.google.com/101194309642751695035/posts">Google+</a></li>
+				<li id="v2_social-blog"><div>&nbsp;</div><a class="v2_social-a" href="http://www.vflyerblog.com/">Blog</a></li>
+				<li id="v2_social-linkedin"><div>&nbsp;</div><a class="v2_social-a" href="http://www.linkedin.com/company/vflyer.com">LinkedIn</a></li>
+				<li id="v2_social-youtube"><div>&nbsp;</div><a class="v2_social-a" href="http://www.youtube.com/user/vflyermarketing">YouTube</a></li>
+				<li id="v2_social-activerain"><div>&nbsp;</div><a class="v2_social-a" href="http://activerain.com/blogs/vflyer">Activerain</a></li>
+				</ul>
+		</div>
+		<div class="v2_footer_holder">
+			<div class="v2_footer-header">Resources</div>
+			<ul id="v2_resources">
+				<li><a href="/main/Overview.jsp">About Us</a></li>
+			<li><a href="http://support.vflyer.com/" target="_blank">Online Help</a></li>
+			<li><a href="/main/FAQ.jsp">FAQ</a></li>
+				<li>
+					<a href="http://vflyer.zendesk.com/forums">Support</a>
+				</li>
+				<li><a href="/main/News.jsp">News, Events, Press</a></li>
+				<li><a href="/main/Careers.jsp">Jobs</a></li>
+				<li><a href="/main/marketing/affiliate">Affiliate</a></li>
+				<li><a href="/main/marketing/reseller">Reseller</a></li>
+				<li><a href="/main/marketing/vflyer-sites-for-designers">Web Designers</a></li>
+			</ul>
+		</div>
+		<div class="v2_footer_holder">
+			<div id="v2_contact-label" class="v2_footer-header"><div>&nbsp;</div><a href="/main/Contacts.jsp">Contact us</a></div>
+			<ul id="v2_contact-holder">
+				<li id="v2_contact-phone" class="phone_special"><div>&nbsp;</div>800.594.5930</li>
+				<li id="v2_contact-email"><div>&nbsp;</div><a href="mailto:support@vflyer.com">Email</a></li>
+			</ul>
+		</div>
+		<div id="v2_footer-footnote">
+			<span id="v2_flyer-search"><input onclick="javascript:doHelp(this, true);" onblur="javascript:doHelp(this, false);" class="v2_footer-text-box" id="fsURL" type="text" value="Enter vFlyer Id here.">&nbsp;<input class="v2_footer-button" type="button" value="Find Flyer" onclick="javascript:findFlyer();"></span><br><br>
+			© 2006-2012&nbsp;<a href="http://www.vflyer.com">vFlyer Inc.</a>&nbsp;Your web marketing solution center.&nbsp;&nbsp;&nbsp;<a href="/main/Privacy.jsp">Privacy</a>&nbsp;|&nbsp;<a href="/main/Terms.jsp">Terms of Use</a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="/main/js/v2/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="/main/js/v2/scripts.js?v=3"></script> <script type="text/javascript">
+//<!--
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//-->
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<!--
+	var pageTracker = _gat._getTracker("UA-3862642-1");
+	pageTracker._trackPageview();
+//-->
+</script>
+<script type="text/javascript">
+//<!--
+	try{
+		
+		$(document).ready(function() {
+		    // shows the slickbox on clicking the noted link  
+			$('#v2_back').click(function() {
+				$('#v2_up').show();
+				$('#v2_login-container').show();
+				return false;
+			});
+
+			$('#v2_login').mouseover(function() {
+				$('#v2_back').show();
+			});
+
+			$('#v2_back').mouseout(function(){
+			  $('#v2_back').hide();
+			});
+
+			$('body').click(function() {
+				$('#v2_login-container').hide();
+			});
+			
+			$('#v2_login-box').click(function(e) {
+				e.stopPropagation();
+			});
+		});
+		
+		$(document).ready(function() {
+			$('#v2_error_close').click(function(e) {
+				$('#v2_error').slideUp();
+			});
+
+			$('#v2_success_close').click(function(e) {
+				$('#v2_success').slideUp();
+			});
+
+			$('#downgrade-options').click(function(e) {
+				$('#cancelsub').toggle('fast');
+			});
+
+			$('#downgrade-options-close').click(function(e) {
+				$('#cancelsub').slideUp('fast');
+			});
+		});
+		$(window).load(function(){ // after all the images are loaded
+			if ($.browser.msie && parseInt($.browser.version.substr(0, 1)) < 7) { // ie6 or 5
+				$("img.png").each(function(){
+					$(this).css("filter", "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + $(this).attr('src') + "', sizingMethod='scale')").attr("src", "/main/images/v2/assets/transparent.gif");
+				});
+				$("div.png").each(function(){
+					var bg = $(this).css("backgroundImage");
+					bg.match(/^url[("']+(.*\.png)[)"']+$/i);
+					bg = RegExp.$1;
+					$(this).css("filter", "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + bg + "', sizingMethod='crop')").css("backgroundImage", "none");
+				});
+			}
+			if(!$.browser.msie){ // For all browsers except IE: editor quick links should have relative positioning to avoid jumping when scrolling down page
+				$("div.v2_narrow_editor").css("position", "relative");
+			}
+		});
+	}catch(e){
+		//alert(e);
+	}
+//-->
+</script>
+<script type="text/javascript">
+//<!--
+	try {
+	$(document).ready(function () { 
+		 var top = 265;
+		 $(window).scroll(function (event) {
+			// what the y position of the scroll is
+			var y = $(this).scrollTop();
+			// whether that's below the form
+			if (y >= top) {
+			  // if so, ad the fixed class
+			  $('#floatMenu').addClass('fixed');
+			} else {
+			  // otherwise remove it
+			  $('#floatMenu').removeClass('fixed');
+			}
+		});
+	});
+	}catch(e){}
 	
-	</tr>
-	</tbody></table>
-</div>
-<div style="height:5px;">&nbsp;</div>
-
-</form>
-</div>
-
+//-->
+</script>
+<script type="text/javascript">
+//<!--
+$(document).ready(function () {
+	// PROCESS STATS
+	var statsBaseURL = 'http://www.vflyer.com/stats/stats?linkType=IntRef&fid=0&aid=0&pid=29&cc=&refURL=';
+	if (document.referrer != null && document.referrer.trim() != '') {
+		statsBaseURL += encodeURIComponent(document.referrer);
+	}
+	$.post(statsBaseURL);
+	
+	
+	    $("body:not(#fbBody)").css( {backgroundColor: "#070707"});
+	    $("#v2_listSelectAll").click(function() {
+	    	var checked_status = this.checked;
+	    	$("input[name=list]").each(function(){
+	    		this.checked = checked_status;
+	    	});
+		});
+	
+		$("ul.v2_menu li").hover(
+		  function () {
+			$(this).addClass("v2_jq-active");
+		  },
+		  function () {
+			$(this).removeClass("v2_jq-active");
+		  }
+		);
+	
+});
+//-->
+</script>
+</div> <!-- v2_container -->
+	
 </body></html>
