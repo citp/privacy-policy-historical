@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623201515id_/http%3A//www.preservationnation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185203id_/http%3A//www.preservationnation.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of the National Trust for Historic Preservation
 
@@ -68,8 +68,6 @@ Subsidiaries and National Trust Historic Sites  -  The National Trust has a nu
   * [National Trust Community Investment Corporation (NTCIC)](http://www.ntcicfunds.com/)
   * National Trust CDFI (website in development) 
   * [National Trust Insurance Services](http://www.nationaltrust-insurance.org/index2.html)
-  * [Heritage Travel, Inc.](http://www.gowithapurpose.com/)  
-
 
 
 
@@ -103,8 +101,7 @@ None of the web sites covered by this policy knowingly collect identifiable pers
 
 **Spam**
 
-The National Trust complies fully with the Controlling the Assault on Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM Act).  To this end, the National Trust:  
-
+The National Trust complies fully with the Controlling the Assault on Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM Act).  To this end, the National Trust:
 
 ALWAYS provides recipients of e-mail marketing and e-newsletters a clear mechanism to opt-out of receiving information in the future.
 
@@ -125,7 +122,7 @@ The National Trust welcomes comments or questions on this policy.  We are dedic
 
 Any information you provide to us is covered by this policy.
 
- **Updating Your Information**
+**Updating Your Information**
 
 You can help the National Trust ensure the accuracy of your information.  If you have any changes to your physical address, title, e-mail address, name, or phone number, please 
 
