@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429232130id_/http%3A//www.pragmaticmarketing.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191311id_/http%3A//pragmaticmarketing.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Pragmatic Marketing, world's most popular product management training
+# Pragmatic Marketing - Visit our site and still respect yourself in the morning
 
-The Pragmatic Marketing website, [www.PragmaticMarketing.com](http://www.pragmaticmarketing.com/) (referred to as "website"), gathers information about each site visitor. This statement is provided to explain Pragmatic Marketing's commitment to privacy.
+The Pragmatic Marketing website, [www.PragmaticMarketing.com](http://www.pragmaticmarketing.com/) (referred to as "website"), gathers information about each site visitor. This statement is provided to explain Pragmatic Marketing's commitment to privacy.
 
 **Information Collected  
 **When you visit the website, Pragmatic Marketing may collect a variety of technical data, including (but not limited to), your IP address, domain, and Web browser information.
@@ -20,5 +20,4 @@ Please keep in mind, however, that no data transmission over the Internet or any
 **Our websites contain links to other websites. Users who choose those links should remember they are leaving our website and entering another. Pragmatic Marketing is not responsible for the privacy practices or the content of these other websites. We encourage you to read the privacy statements of those other sites.
 
 **Contact Us**  
-If you have any questions about this privacy statement or the practices of this site, please [contact us](http://www.pragmaticmarketing.com/contact).  
-
+If you have any questions about this privacy statement or the practices of this site, please [contact us](http://www.pragmaticmarketing.com/contact). 
