@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628160358id_/http%3A//www.hairboutique.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192910id_/http%3A//www.hairboutique.com/static/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# HairBoutique.com - Privacy Policy
-
-Privacy Policy  Privacy Statement for HairBoutique.com
+# HairBoutique Privacy Policy
 
 The HairBoutique.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: The Hair Boutique.
 
@@ -53,3 +51,7 @@ HairBoutique.com
 Richardson, TX 75081  
 webmaster@hairboutique.com  
 
+
+|  | **Daily Hair Tip**  
+---  
+To protect against potential heat damage to your hair, always use a blow drier on the coolest setting and make sure to apply a good leave in conditioner that will protect the hair shaft from the dryer. 
