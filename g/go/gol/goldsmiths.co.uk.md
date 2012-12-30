@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldsmiths.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234411id_/http%3A//www.goldsmiths.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsmiths.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005112id_/http%3A//www.goldsmiths.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
 # Goldsmiths Privacy Policy
 
