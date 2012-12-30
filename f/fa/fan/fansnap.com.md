@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630093229id_/http%3A//www.fansnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansnap.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230162400id_/http%3A//www.fansnap.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | FanSnap - Ticket Search
+# Privacy Policy | Find Best Prices and Seats - FanSnap
 
 _Effective Date: December 21, 2011_
 
