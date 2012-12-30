@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerbuilder.co.uk privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625201955id_/http%3A//www.careerbuilder.co.uk/UK/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbuilder.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230230901id_/http%3A//www.careerbuilder.co.uk/UK/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # CareerBuilder.co.uk - Privacy
 
