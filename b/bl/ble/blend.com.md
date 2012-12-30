@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blend.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626044017id_/http%3A//www.blend.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blend.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230110145id_/http%3A//www.blend.com/privacy.html) for the most accurate reproduction.*
 
 # Blend.com | Privacy Policy
 
