@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quizclothing.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504231126id_/http%3A//www.quizclothing.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizclothing.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230051139id_/http%3A//www.quizclothing.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_(Dated: May 2011)_
+_(Dated: October 2012)_
 
 Quiz is committed to protecting the privacy of our customers and will not disclose any information except where it is vital to provide the services which we offer, including the process of arranging an item being sent to you. Your peace of mind is very important to Quiz and we will do all we can to maintain your privacy.
 
@@ -27,7 +27,27 @@ Quiz is committed to protecting the privacy of our customers and will not disclo
 
 2.1 By registering with or becoming a customer of Quiz and by providing us with your email address, phone number and postal address you consent to receive communication in relation to our products, services and special offers that you may be interested in. This will usually be in the format of a newsletter. The information provided may also be used to communicate offers and products of third parties which you may be interested in.
 
-2.2 All customers of Quiz can opt out of receiving marketing material sent by us or/and by third parties. To do this you can visit your account page by logging in and making the necessary changes. Newsletter subscribers can opt out by notifying us through email or by post.
+2.2 All customers of Quiz can opt out of receiving marketing material sent by us. To do this you can simply click on 'Update my details/preference' in the newsletter and making the necessary changes or contact us via the following:
+
+_**Write To Us**_
+
+Quiz
+
+61 Hydepark Street
+
+Glasgow
+
+Scotland
+
+G3 8BW
+
+ _ **Email Us:**_
+
+customerservice@quizclothing.co.uk, quoting "Opt Out" in the subject heading
+
+ _ **Call Us:**_
+
+Call us 24/7 on **0845 241 5551**
 
 * * *
 
