@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dilbert.com privacy policy that was archived on 2012-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628061353id_/http%3A//dilbert.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dilbert.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230104543id_/http%3A//www.dilbert.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:meebo="http://www.meebo.com/"><head>
 		<title>The official Dilbert website privacy policy.</title>
@@ -12,11 +12,11 @@
 		<meta name="description" content="The Official Dilbert Website featuring Scott Adams Dilbert strips, animation, mashups and more starring Dilbert, Dogbert, Wally, The Pointy Haired Boss, Alice, Asok, Dogbert's New Ruling Class and more.">
 		<meta name="keywords" content="official dilbert website, dilbert comic strip, scott adams, Dilbert, Dogbert, Wally, The Pointy Haired Boss, Alice, Asok, Dogbert's New Ruling Class, catbert, ratbert, mashups, animation, comics">
 
-		<script type="text/javascript" async="" src="http://widgets.digg.com/buttons.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 			var PATH	= { Public: '', IMG: '/img/v1' };
 			var VPI		= {
 					IsLoggedIn:		false,
-					ServerTime:		'2012-06-28 01:15:31',
+					ServerTime:		'2012-12-30 04:50:53',
 					FirstStripDate:	new Date( 1994, 0, 23 )
 			};
 		</script>
@@ -26,8 +26,8 @@
 		<script type="text/javascript" src="/js/v1/ZeroClipboard.js"></script>
 		<script type="text/javascript" src="/js/v1/public.js"></script>
 		<script type="text/javascript" src="/js/v1/jquery.rating.js"></script>
-		<script type="text/javascript" src="/js/v1/quantcast_secondary.js"></script>
 		<script type="text/javascript" src="/js/v1/stripzoom.js"></script>
+
 		<!-- begin quantcast tag secondary -->
         <script type="text/javascript">
             quantSegs = "";
@@ -48,8 +48,24 @@
 
 		<link rel="Shortcut Icon" href="/favicon.ico">
 
-		
+	<!--  Google Ads -->
+<script type="text/javascript">
+	(function() {
+		var useSSL = 'https:' == document.location.protocol;
+		var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})();
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
+<script type="text/javascript">
+googletag.defineSlot('/19196947/dilbert.com/explore', [160, 600], 'sky').addService(googletag.pubads());
+googletag.defineSlot('/19196947/dilbert.com/explore', [300, 250], 'box').addService(googletag.pubads());
+googletag.defineSlot('/19196947/dilbert.com/explore', [728, 90], 'leader').addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/19196947/dilbert.com/explore', 'div-gpt-ad-1345582942607-0-oop').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
 <!-- Google Analytics  UU -->
 <script type="text/javascript">
 
@@ -86,145 +102,29 @@
 		</script>
 		
 		<!-- START OF MEEBO CUSTOM BUTTONS -->
+
 		<script type="text/javascript">
-			function delay_widget() {		
-				Meebo('addButton', {
-			    id: "meebo_widget_digg_outer1", 
-			    type: "widget",
-			    icon: "http://widgets.digg.com/img/button/diggThisDigger.png",
-			    label: "Digg This", 
-			    element: "meebo_widget_digg_outer",
-				width: 290,
-				height: 125
-				});
-			}
-			setTimeout(delay_widget, 700);
-		</script>
-			
-		<div id="meebo_widget_digg_outer" style="display:none;">
-			<div class="widget_column">
-				<h2 class="SB_title">Share on Digg</h2>
-				<p>Share this page with other Digg Readers or tell others you "Dugg" it.</p>
-			</div><!-- end of widget column -->
-			<div class="widget_action">
-				<center>
-				  <script type="text/javascript">
-				  	(function() {
-				  		var s = document.createElement('SCRIPT'), s1 = document.getElementsByTagName('SCRIPT')[0];
-				  		s.type = 'text/javascript';
-				  		s.async = true;
-				  		s.src = 'http://widgets.digg.com/buttons.js';
-				  		s1.parentNode.insertBefore(s, s1);
-				  	})();
-				  </script>
-				  <!-- Medium Button -->
-				  <a class="DiggThisButton DiggMedium" target="_blank"></a>
-				</center>
-			</div><!-- end of widget column -->
-		</div><!-- end of meebo widget digg outer -->
-        
-		<!-- START OF MEEBO CUSTOM BUTTONS -->
-		<script type="text/javascript">
-		function delay_widget() {		
 			Meebo('addButton', {
-		    id: "meebo_widget_reddit_outer1", 
-		    type: "widget",
-		    icon: "http://reddit.com/static/spreddit1.gif",
-		    label: "Reddit", 
-		    element: "meebo_widget_reddit_outer",
-			width: 290,
-			height: 125
+				id: "fb-share-button",
+				type: "action",
+				isIcon: true,
+				icon: "http://images.gocomics.com/images/meebo/d_fb_share.png",
+				onClick: function(){
+					share_url = encodeURIComponent(document.location.href);
+					share_title = encodeURIComponent(document.title);
+					window.open ("http://www.facebook.com/sharer.php?u=" + share_url + "&t=" + share_title, "Share on Facebook","height=400,width=500");
+				}
 			});
-		}
-		setTimeout(delay_widget, 700);
-		</script>
-		
-		<div id="meebo_widget_reddit_outer" style="display:none;">
-			<div class="widget_column">
-				<h2 class="SB_title">Share on Reddit</h2>
-				<p>Share this page with other Reddit Readers or delegate points for this page.</p>
-			</div><!-- end of widget column -->
-			<div class="widget_action">
-				<center><script type="text/javascript" src="http://www.reddit.com/static/button/button2.js"></script></center>
-			</div><!-- end of widget column -->
-		</div><!-- end of meebo widget reddit outer -->
-		
-		<!-- START OF MEEBO CUSTOM BUTTONS -->
-		<script type="text/javascript">
-		function delay_widget() {		
-			Meebo('addButton', {
-		    id: "meebo_widget_reddit_outer1", 
-		    type: "widget",
-		    icon: "http://reddit.com/static/spreddit1.gif",
-		    label: "Reddit", 
-		    element: "meebo_widget_reddit_outer",
-			width: 290,
-			height: 125
-			});
-		}
-		setTimeout(delay_widget, 700);
-		</script>
-		
-		<div id="meebo_widget_promotion_outer" style="display:none;">
-			<a target="_blank" href="http://astore.amazon.com/ucomicscom/detail/0740778064"><img src="/img/v1/meebo_store_promotion.jpg" alt="Check out this special offer from the official Dilbert website featuring Scott Adams - Buy a book get 50% off the second book!"></a>
-		</div><!-- end of meebo widget promotion outer -->
-        
-		<script type="text/javascript">
-		function delay_widget() {		
-			Meebo('addButton', {
-			id: "meebo_widget_promotion_outer1", 
-			type: "widget", 
-			icon: "/img/v1/ico.widget_promotion.jpg",
-			label: "Special Offer",
-			element: "meebo_widget_promotion_outer",
-			width:  325,
-			height: 275
-			});
-		}
-		setTimeout(delay_widget, 1000);
-		</script>
-	    
-		<div id="meebo_widget_help_outer" style="display:none;">
-			<div id="meebo_widget_help_inner">
-				<h2>Woh!  What is this thing?!</h2>
-					<p>This is a social bar from the <a href="/about">Dilbert team</a> and our friends at <a href="http://www.meebo.com" target="_blank">Meebo</a>. It is a cool little feature we've added to Dilbert to make sharing comic strips, Mashups and other content, a simple click of the mouse from any page.</p>
-					<p>Try it out – use the buttons to instantly send the next funny comic you read to your Facebook status or your Twitter feed. We’re adding even more ways to share soon, so check this space often!</p>
-					<p>Still have questions? Email us at <a href="mailto:support@dilbert.com">support@dilbert.com.</a></p>
-			</div><!-- end of meebo widget help inner -->
-		</div><!-- end of meebo widget help outer -->
-		<script type="text/javascript">
-		function delay_widget() {		
-			Meebo('addButton', {
-			    id: "meebo_widget_help_outer1", 
-			    type: "widget", 
-			    icon: "/img/v1/meebo_widget_help.png",
-			    label: "", 
-			    element: "meebo_widget_help_outer",
-				width: 420,
-			    height: 200
-			});	
-		}
-		setTimeout(delay_widget, 1200);
-		</script>
-		
+		</script>		
 		<!-- END OF MEEBO CUSTOM BUTTONS -->
 		
 		<div class="SiteWrapper">
 			<div class="Header">
-				<div class="Ad_Banner">
-			 <script type="text/javascript">
-			window.dctile = Number(window.dctile) + 1 || 1;
-			window.ord = Number(window.ord) || Math.floor(Math.random() * 1E10);
-			if(typeof(dcopt) == "undefined"){var dcopt = ";dcopt=ist"} else {var dcopt = ""};
-			var site = "uu.dilbert";
-			var zone = "site";
-			var pos = "top";
-			var size = "468x60,728x90";
-
-			if (17>dctile) document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/'+site+'/'+zone+''+dcopt+';pos='+pos+';tile='+dctile+';sz='+size+';ord=' + ord + ';' + quantSegs + '?"><\/script>\n');
-			</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/uu.dilbert/site;dcopt=ist;pos=top;tile=1;sz=468x60,728x90;ord=401441091;?"></script>
-
-		</div>
+				<div class="Ad_Banner"><div id="leader" style="width: 728px; height: 90px" class="ad">
+<script type="text/javascript">
+googletag.display('leader');
+</script>
+</div></div>
 				<a href="/" class="HDR_Home"><span>Home</span></a>
 				<ul class="HDR_Nav">
 					<li class="HDR_MainLink"><span><a class="HDR_MainLink_Strips" href="/strips/">STRIPS</a></span></li>
