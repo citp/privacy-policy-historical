@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cheryls.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510120458id_/http%3A//www.cheryls.com/webapp/wcs/stores/servlet/ContentDisplay%3Fc%3DPrivacy%26t%3DA%26storeId%3D10202%26catalogId%3D10102%26langId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheryls.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005759id_/http%3A//www.cheryls.com/webapp/wcs/stores/servlet/ContentDisplay%3Fc%3DPrivacy%26t%3DA%26storeId%3D10202%26catalogId%3D11102%26langId%3D-1) for the most accurate reproduction.*
 
 # Your Privacy - Cheryls
 
 Cheryl&Co.®, recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of:
 
-  * the personal information we may collect from you when you visit our Web Site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail, 
+  * the personal information we may collect from you when you visit our Web Site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail,
   * why we gather information from you,
   * how we collect it,
   * how we use it, and
@@ -12,7 +12,7 @@ Cheryl&Co.®, recognizes and respects the importance of maintaining the privacy 
 
 
 
-This Privacy Policy is part of the [Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=10102), which governs your use of our Web Site located at [www.cheryls.com](http://www.cheryls.com/) (Cheryl&Co.® or the "Web Site"). The Web Site is owned by Cheryl&Co. (the "Company"). This Privacy Policy does not cover information provided to our Company-owned or franchised retail stores.
+This Privacy Policy is part of the [Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=11102&langId=-1), which governs your use of our Web Site located at [www.cheryls.com](https://web.archive.org/) (Cheryl&Co.® or the "Web Site"). The Web Site is owned by Cheryl&Co. (the "Company"). This Privacy Policy does not cover information provided to our Company-owned or franchised retail stores.
 
 Note: _You must be 21 years or older_ to use, subscribe or register as a member of Cheryl&Co.®. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children.
 
@@ -38,7 +38,7 @@ Depending on how you are interact with us, we collect some or all of the followi
   * products purchased and occasion type (for example, Mother's Day),
   * any promotion or gift card code and related information (for example, if you are claiming frequent flyer miles),
   * Message and gift recipients' names, addresses, telephone numbers and email addresses, and
-  * other information you provide to us, including User Submissions (defined in the [Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=10102)).
+  * other information you provide to us, including User Submissions (defined in the [Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=11102&langId=-1)).
 
 
 
@@ -62,11 +62,9 @@ Our Affiliates, subcontractors, and agents, and any successors or assignees to o
 
 We may combine information we receive from you via our Web Site, emails, mail, fax, and telephone with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy.
 
-We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Web Site, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the 
+We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Web Site, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=11102&langId=-1)).
 
-[Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=10102)).
-
-**Please note that any personal information you reveal or post on one our public forums (as defined in the[ Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=10102)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk.**
+**Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=11102&langId=-1)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk.**
 
 **Consent to Transfer and Submission**
 
@@ -96,21 +94,18 @@ Emailing us at: [Customerservice@cheryls.com](mailto:Customerservice@cheryls.com
 
 Writing us at:  
 Cheryl's  
-Attn: Customer Service
-
-646 McCorkle Blvd
-
-Westerville, Ohio 43082
-
+Attn: Customer Service  
+646 McCorkle Blvd  
+Westerville, Ohio 43082  
 Telephoning us at 1-800-443-8124
 
-(Please, include or tell us your mailing address, and if you have a catalog, brochure or other mailing label from us, please include it with your request or have it ready when you call).
+(Please, include or tell us your mailing address, and if you have a catalog, brochure or other mailing label from us, please include it with your request or have it ready when you call). 
 
 **_From our Affiliates_**
 
 If you also prefer not to have us provide personal information about you to our Affiliates, please indicate in your email or letter that you wish your instructions to apply to our "Affiliates."
 
-**_From_** Cheryl&Co.
+_From_ Cheryl&Co.
 
 If you also prefer that we not use the personal information you have provided to contact you or your message or gift recipients for our own marketing and promotional purposes, please indicate in your email or letter that you wish your instructions to apply to " Cheryl&Co.” These instructions, however, do not apply to non-promotional transactional messages from us.
 
@@ -126,9 +121,7 @@ Members can modify and update their membership information (including name, mail
 
 **Your Consent and Changes to this Policy**
 
-Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy and Terms of Use from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will endeavor to post the revised Privacy Policy and/or Terms of Use on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified. To see a revised Privacy Policy and/or Terms of Use prior to its effective date (unless it is effective upon posting), click on the following link:
-
-[Pending Revised Privacy Policy/Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Previous%20Privacy&t=A&storeId=10202&catalogId=10102).
+Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy and Terms of Use from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will endeavor to post the revised Privacy Policy and/or Terms of Use on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified. To see a revised Privacy Policy and/or Terms of Use prior to its effective date (unless it is effective upon posting), click on the following link:[ Previous Privacy Policy](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Previous%20Privacy&t=A&storeId=10202&catalogId=11102&langId=-1).
 
 The date on which the current Privacy Policy and overall Terms of Use took effect is listed at the top of the Privacy Policy and Terms of Use (see "Last Updated" at the top of each).
 
