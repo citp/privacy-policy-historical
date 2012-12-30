@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609080711id_/http%3A//www.eyeglasses.com/security_and_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180410id_/http%3A//www.eyeglasses.com/security_and_privacy.html) for the most accurate reproduction.*
 
 # Eyeglasses, Glasses, Eyewear, Prescription Sunglasses -- Eyeglasses.com
 
@@ -7,7 +7,7 @@
 
 
 
-Tryition Eyewear, LLC,  the owner of this website, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.eyeglasses.com.
+Tryiton Eyewear, LLC,  the owner of this website, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.eyeglasses.com.
 
 Thank you for accessing the web site ("Site") of The Vision Solution Store, also known as Eyeglasses.com, doing business under the corporate umbrella of Tryiton Eyewear, LLC. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
@@ -19,11 +19,11 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 
 **INFORMATION COLLECTION AND USE**
 
-  1. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
-    * help make this Site easier for you to use by not having to enter information more than once.  Help you quickly find information, products, and services.
-    * enable us to make prescription lenses for you.
-    * help us create content on this Site that is most relevant to you.
-    * alert you to new information, products, and services that we offer.
+    * Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
+      * help make this Site easier for you to use by not having to enter information more than once.  Help you quickly find information, products, and services.
+      * enable us to make prescription lenses for you.
+      * help us create content on this Site that is most relevant to you.
+      * alert you to new information, products, and services that we offer.
   
 (a) |  Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. If you have elected to use the Bill Me Later® payment method, you will have to provide the last four (4) digits of your social security number and your birth date. We use this information solely to facilitate the Bill Me Later® transaction and will not store or keep this information in our files. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you.   
 ---|---  
@@ -38,7 +38,7 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 (e) |  Age. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.  
 (f) |  Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.  
 (g) |  Bizrate Reviews. Bizrate.com is an independent company that permits shoppers to rate their experiences in visiting and shopping at online stores such as eyeglasses.com. After placing an order at eyeglasses.com, you may receive the opportunity to provide feedback on your experience. This choice is optional and will not affect your order or service from eyeglasses.com, whether or not you choose to provide feedback. Your feedback is collected by Bizrate.com, not eyeglasses.com, and is governed by their privacy policy, available at <http://shop.bizrate.com/content/privacy.html>  
-  2. Information Use and Disclosure.  
+    * Information Use and Disclosure.  
 (a) |  Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.   
 ---|---  
 (b) |  Communications with You: We will use your personal information to communicate with you about our site and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to register for a free shoe giveaway; to request us to notify you when we receive a new brand, new product style, or product size; to sign up for our email newsletter and special offers. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.  
