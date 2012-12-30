@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616120606id_/http%3A//www.drugabuse.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230212620id_/http%3A//www.drugabuse.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | National Institute on Drug Abuse
 
-Thank you for visiting one of the National Institute on Drug Abuse websites.
+Thank you for visiting one of the National Institute on [Drug Abuse](https://web.archive.org/lexicon/nida_notes_glossary#drug_abuse "The use of illegal drugs or the inappropriate use of prescription drugs. Read More") websites.
 
 Protecting your privacy is very important to us. We do not collect any personally identifiable information (PII) about you during your visit to NIDA Web sites unless you choose to provide it to us. We do, however, collect some data about your visit to our Web site to help us better understand how the public uses the site and how to make it more helpful. We collect information from visitors who read, browse, and/or download information from our Web site. NIDA never collects information for commercial marketing or any purpose unrelated to NIDA's mission and goals.
 
@@ -17,7 +17,7 @@ When you browse through any Web site, certain information about your visit can b
   * Operating system and information about the browser used when visiting the site
   * Date and time of your visit
   * Pages you visited
-  * Address of the Web site that connected you to a NIDA Web site (such as [google.com](http://www.google.com/)External link, please review our [disclaimer](https://web.archive.org/web-site-disclaimer). or [bing.com](http://www.bing.com/)External link, please review our [disclaimer](https://web.archive.org/web-site-disclaimer).)
+  * Address of the Web site that connected you to a NIDA Web site (such as [google.com](http://www.google.com/) or [bing.com](http://www.bing.com/))
 
 
 
@@ -27,7 +27,7 @@ We use this information to measure the number of visitors to our site and its va
 
 NIDA web sites use Google Analytics measurement software to collect the information in the bulleted list in the Types of Information Collected section above. Google Analytics collects information automatically and continuously. No personally identifiable information is collected. The NIDA staff conducts analyses and reports on the aggregated data from Google Analytics. The reports are only available to NIDA web staff, and other designated staff who require this information to perform their duties.
 
-Information submitted through contact forms, including the _NIDA Feedback Form_ or the _Proposal Intent Response Sheet_ , is also collected by NIDA. This information is additionally processed by the Mollom anti-spam service to prevent spam submissions. Further details on their privacy policy can be seen at <http://mollom.com/web-service-privacy-policy>External link, please review our [disclaimer](https://web.archive.org/web-site-disclaimer)..
+Information submitted through contact forms, including the _NIDA Feedback Form_ or the _Proposal Intent Response Sheet_ , is also collected by NIDA. This information is additionally processed by the Mollom anti-spam service to prevent spam submissions. Further details on their privacy policy can be seen at <http://mollom.com/web-service-privacy-policy>.
 
 NIDA retains this data as long as needed to support the mission of the NIDA web sites.
 
