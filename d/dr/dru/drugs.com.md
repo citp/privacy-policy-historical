@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527201118id_/http%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221325id_/http%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Drugs.com
 
-For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to the Drugsite Trust. The terms "You" and "End-User" refer to You as a user of this Site.
+For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to our Web site www.drugs.com. The terms "You" and "End-User" refer to You as a user of this Site.
 
-**For third party advertising information and opt-out options please[click here](https://web.archive.org/support/privacy/advertising.html)**
+**For third party advertising information and opt-out options please[click here](https://web.archive.org/support/privacy/advertising.html)**.
 
 ## TRUSTe
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.drugs.com&sealid=101)Drugs.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.drugs.com](http://www.drugs.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+[](http://privacy.truste.com/privacy-seal/Drugs-com/validation?rid=d18cba4a-afc4-4863-af81-8262bb120271)Drugs.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe certification only covers information collected on our Web site www.drugs.com and does not cover information that may be collected through our Mobile Application. 
 
 If you have questions or concerns regarding this statement, you should first contact:
 
@@ -17,9 +17,9 @@ If you have questions or concerns regarding this statement, you should first con
 > Auckland 0632  
 > New Zealand  
 > Telephone: +64 9 476 8500  
-> By e-mail: priv[........](http://www.google.com/recaptcha/mailhide/d?k=01hq_xXpyrjrPTaqcY4PgMtg==&c=aQznZYkoGGL5FX4GHkW6Yk5pDc0Fk7MS8QuhXYqURB0= "Reveal this e-mail address")@drugs.com
+> By e-mail: 
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Drugs.com collects no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us (such as through registration on our site, Mednotes, or on the product information submission forms). However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. This information may include:
 
@@ -35,9 +35,29 @@ Drugs.com is the sole owner of the information collected on the Drugs.com web si
 
 We may use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site’s technical design specifications and identifying system performance or problem areas.
 
+This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites.
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+
+This privacy statement applies only to information collected by this Web site.
+
 ### Cookies
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use session ID cookies to make it easier for you to navigate our site and to provide you with enhanced services (viewing history, account information). A session ID cookie expires when you close you browser. If you reject cookies, you can still use our site, but your ability to use or access some areas of our site may be limited.
+
+The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies. 
+
+### Clear Gifs (Web Beacons/Web Bugs)
+
+Our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+
+### Flash LSOs
+
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:
+
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
 
 You may choose to provide us with personal information, by sending e-mail with questions or comments or by filling out an online form and submitting it to us through our web site. We use this information to;
 
@@ -87,6 +107,8 @@ Drugs.com may retain personally identifiable information for the purpose of impr
 
 We provide you the opportunity to ’opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you set up an account but do not wish to receive any additional marketing material from us, you can indicate your preference during signup. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter, by signing into your account or by [emailing us](http://www.drugs.com/support/contact.html).
 
+For third party advertising information and opt-out options please [click here](https://web.archive.org/support/privacy/advertising.html).
+
 #### Removal
 
 To request the removal of publicly displayed personally identifiable information, you may contact us through our [support system](http://www.drugs.com/support/contact.html). In order for us to consider your request, you are required to include your account name and links to any page(s) where you believe any such personally identifiable information exists. For each instance, you must also provide clear instructions describing the exact position/location of the personally identifiable information on any page. 
@@ -103,4 +125,4 @@ You may update or close/delete your account at any time. When a member is signed
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
-Updated: May 13th, 2011
+Updated: June 28th, 2012
