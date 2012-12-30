@@ -1,95 +1,97 @@
-> *The following text is extracted and transformed from the sciencedirect.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209173204id_/http%3A//www.sciencedirect.com/science/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencedirect.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181013id_/http%3A//www.elsevier.com/privacypolicy%3Futm_source%3Dsciencedirect%26utm_medium%3Dlink%26utm_campaign%3Dprivacy) for the most accurate reproduction.*
 
-# ScienceDirect Privacy Policy
+# None
 
-This website ("Site") is owned and operated by Elsevier B.V., Radarweg 29, 1043 NX Amsterdam, The Netherlands, Reg. No. 33156677, BTW No. NL005033019B01 ("Elsevier", "we", "us" or "our"). 
-
-We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
-
- **Collection of Information Provided By Your Browser and Through Use of Cookies**
-
-This Site automatically collects information on our server logs from your web browser regarding your use of the Site. Examples of information we collect automatically from all users include the Internet Protocol ("IP") address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and full Uniform Resource Locator ("URL") click stream data, including date and time, and content you viewed or searched for on the Site. 
-
-This Site also collects information through the use of "cookies." Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a web site's computers and stored on your computer's hard drive. The type of information we collect as a result of a cookie being stored on your computer is specific to your computer. We use "session" cookies to collect information about your use of the Site (e.g., whether you are logged in) and to give you a more personalized browsing experience and help you navigate the Site more efficiently from page to page. These cookies are temporary and are deleted when you close your browser. We use "persistent" cookies to gather statistical information about repeat usage from your computer or workstation.
-
-We collect and use, and may from time to time supply third parties with, this information only as anonymous, collective or aggregated user data for the purposes of usage analysis, quality control and administering and improving the Site.
-
-You can prevent your browser from accepting new cookies, have the browser notify you when you receive a new cookie, or disable cookies altogether by accessing your browser's preferences menu. If you choose to disable cookies altogether, you can use the Site but will not be able to register, login to the Site with a personal User Name and Password, or make use of the advanced personalization features of the Site, although the basic features and functionality offered to unregistered users of the Site will be possible to use.
-
-The ScienceDirect e-Select webpages further use NedStat B.V.'s SiteStat software to collect information from your web browser regarding your use of ScienceDirect e-Select. For more information on Nedstat and the kind of information that SiteStat collects and processes, please visit NedStat's [ website](http://www.nedstat.com/) and its SiteStat [privacy policy](http://www.nedstat.com/web/nedstatuk.nsf/pages/EINN_6DKKJJ). 
-
-**Collection and Registration of Personal Information**
-
-We sometimes request users of the Site to provide personal information. The information collected from a user is strictly voluntary and may include contact information such as the user's name, e-mail address, and postal address.
-
-In order to access certain content and to make use of the full functionality and advanced personalization features of the Site such as alerts, saved searches, and search history, we ask you to register and obtain a personal User Name and Password. You may be prompted to register when you:
-
-  * Choose the "Register" link from the home page or login screens
-  * Use personalization features
-  * Create an e-mail alert or save a search
-  * Order a document
+Elsevier is committed to maintaining your confidence and trust with respect to the privacy of the personally identifiable information we collect from you. This privacy policy sets forth our practices regarding collection, use and disclosure of information collected through or in connection with the Elsevier corporate website and all other Elsevier websites that post a link to this privacy policy (each a "Site").  
 
 
+## Collection and Registration of Personal Information
 
-The information collected from the registration form that is presented to users when they choose to register may include contact information such as the user's name, e-mail address, postal address, work setting, profession, principal professional field and country ("Registration Information"). The Registration Information is linked directly to a personal User Name and Password chosen by the user and can only be retrieved by supplying the correct User Name and Password that is linked to that profile.
+We may request users of this Site to provide personal information. The information collected directly from a user may include contact information such as the user's name, e-mail address, and postal address.
 
-**How Personal Information Is Used**
+In order to access certain content and to make use of the full functionality and advanced personalization features of the Site we ask you to register by completing and submitting a registration form, which may request additional information, such as work setting or principal professional field.
+
+## Automatic Collection of Information
+
+This Site automatically collects certain information from your web browser regarding your use of the Site. Examples of information collected automatically from all users include the Internet Protocol ("IP") address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and full Uniform Resource Locator ("URL") click stream data, including date and time, and content you viewed or searched for on the Site.
+
+This Site also collects information through the use of "cookies" or similar technologies. Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a website's computers and stored on your computer's hard drive. The type of information collected as a result of a cookie being stored on your computer is specific to your computer. "Session" cookies collect information about your use of the Site (e.g., whether you are logged in) and to give you a more personalized browsing experience and help you navigate the Site more efficiently from page to page. These cookies are temporary and are deleted when you close your browser. "Persistent" cookies gather statistical information about repeat usage from your computer or workstation. In general, cookies do not contain personally identifiable information, but when you furnish your personal information through the Site, this information may be linked to the non-personally identifiable data stored in cookies sent to your browser from the Site.
+
+We and our affiliated group companies and service providers may use cookies, "web beacons" or clear .gifs, or similar technologies to collect and use this information for the purposes of usage analysis (including for the purposes of reporting and paying royalties and license fees to third-party providers, such as authors, societies and other copyright holders and content distributors as well as tracking and analyzing user preferences and trends), delivery and management of our advertising, promotions and surveys, quality control and administering, customizing and improving the Site.
+
+You can prevent your browser from accepting certain cookies, have the browser require your consent before a new cookie is placed in your browser, or block cookies altogether by accessing your browser's privacy preferences menu. However, if you block cookies altogether, you may not be able to register, login to the Site, or make use of the full features and functionality of the Site.
+
+### How Personal Information Is Used
 
 We use the personal information that you provide for such purposes as:
 
   * Completion and support of the activity for which the information was provided, such as allowing access to or delivery of our products or services, processing or fulfilling an order, or responding to your requests or inquiries;
   * Website and system administration, such as for the technical support of the Site and its computer system, including processing computer account information, information used in the course of securing and maintaining the Site, and verification of Site activity by the Site or its agents;
   * Tailoring or customizing content or design of the Site during a single visit to the Site and individualized personalization of the Site on repeat visits;
-  * Research and development to enhance, evaluate and improve the Site and our services;
+  * Research and development to enhance, evaluate and improve the Site and our products and services;
   * Pseudonymous analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting; and
-  * Communicating with you about changes or updates to the Site and our services and, with your consent, special offers, promotions or market research surveys. 
+  * Communicating with you about changes or updates to the Site and our products and services and special offers, promotions or market research surveys.
 
 
 
-**Disclosure of Personal Information to Third Parties**
+We may on occasion also match or combine the personal information that you provide with information that we obtain from other sources or that is already in our records, whether collected online or offline or by predecessor or affiliated group companies, for such purposes.
 
-Access to your personal information is restricted to our employees, agents, representatives and service providers, such as our data processing operations, and entities for whom we are acting as an agent, licensee or publisher, such as societies and our affiliated group companies, for the purposes set forth above. Your personal information may be used by all of our trading names and transferred to countries outside of the European Economic Area ("EEA"), including to the United States, for processing. These countries may not have similar data protection laws to the EEA. If we transfer your information outside of the EEA in this way, we will take steps to ensure that your privacy rights continue to be protected. In addition, if you access the Site while you are outside of the EEA, your information may be transferred outside of the EEA in order to provide you with such access.
+## Disclosure of Personal Information to Third Parties
 
-If you are an authorized user of an institution with a license agreement with us, your Registration Information and unsubscribed content usage activity statistics may be shared with your institution's librarian(s) and/or administrator(s) for the purposes of usage analysis, quality control and administering and improving the Site.
+Access to your personal information is restricted to our employees, agents, representatives, service providers, and entities for which we are acting as an agent, licensee or publisher, such as societies, for the purposes set forth above. Your personal information may be used by all of our trading names and affiliated group companies and transferred to other countries for processing. These countries may not have similar data privacy laws, but if we transfer your information in this way, we will take steps to ensure that your information continues to be protected.
 
-With your consent, we also may share your personal information with our affiliated group companies located both inside and outside of the EEA in Argentina, Australia, Brazil, Canada, China, India, Japan, Malaysia, New Zealand, Philippines, Russia, Singapore, South Korea, Switzerland, Taiwan and the United States and/or with non-affiliated third parties located inside and outside of the EEA that wish to send you information about their products and services that may be of interest to you, and users who have consented to receive such information may receive communications from these third parties. If you wish us to pass your personal information to such third parties, please tick the appropriate check box when you register or amend your preferences by logging in and clicking on the relevant "My Profile" link at any time.
+We also may share your personal information with our affiliated group companies worldwide and/or with non-affiliated third parties that wish to send you information about their products and services that may be of interest to you. We will not pass your personal information to such third parties if you indicate that you do not wish us to do so.
 
-We will not otherwise disclose any personal information without your consent except under the following circumstances: 
+If this site offers an online content database or learning service ("Service") and you access the Service through an institution-sponsored subscription, your personal information and certain usage data gathered through the Service, such as the number of items you downloaded, any non-subscribed items you accessed, and test scores, may be shared with your institution for the purposes of usage analysis, subscription management, course management, and testing and remediation. If your institution is a corporation or other business entity, additional usage data, such as the types of records you viewed and the number of searches you ran, also may be shared for the purposes of cost attribution and departmental budgeting.
 
-  * in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; 
-  * if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and 
+We will not otherwise disclose any personal information without your consent except under the following circumstances:
+
+  * in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims;
+  * if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and
   * if Elsevier, this Site, or a related asset or line of business is acquired by, transferred to or merged with another company.
 
 
 
- **Access and Changes to Your Registration Information and Preferences**
+## Access and Changes to Your Registration Information and Preferences
 
-Registered users may access their identified contact information and other Registration Information and correct any discrepancies or update information by clicking on the relevant "My Profile" link at any time. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users.
+Registered users may access their identified contact information and other registration information and correct any discrepancies or update information upon log in at any time. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users.
 
-If you wish to receive alerts, newsletters, special offers or promotions from us, please tick the appropriate check box when you register or amend your preferences by logging in and clicking on the relevant "My Profile" link at any time. If you wish to cease receiving any of this information, amend your preferences either by logging in and clicking on the relevant "My Profile" link, by notifying our [e-Helpdesk](http://info.sciencedirect.com/contacts), or by using the "opt-out" or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary. 
+If you wish to receive alerts, newsletters, special offers or promotions from us, please indicate your preferences when you register or amend your preferences upon log in at any time. If you wish to cease receiving any of this information, amend your preferences either upon log in or by using the "opt-out" or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary.
 
-**Third-Party Advertisers**
+## Third-Party Advertisers
 
-We contract with third-party advertisers and their agents that post on the Site banner ads, which may link to other websites not under our control. These third-party advertisers and their agents may use cookie technology to measure the effectiveness of their ads or may otherwise collect personally identifiable information from you when you leave this site. We are not responsible or liable for any content, advertising, products or other materials offered from such advertisers and their agents. Transactions that occur between you and the third party are strictly between you and the third party and are not our responsibility. You should review the privacy policy of any third-party advertiser and its agent, as their policies may differ from ours.
+We may contract with third-party advertisers or their agents or service providers that post on the Site banner advertisements, which may link to other websites not under our control. or that use cookies, "web beacons" or clear .gifs, or similar technologies to collect and use user data to measure the effectiveness of their ads or deliver relevant marketing messages and advertisements. Use of these technologies by these third parties is subject to their own privacy policies, which may differ from this privacy policy. We are not responsible or liable for any content, advertising, products or other materials offered from such third parties.
 
- **Retention of Personal Information**
+## Retention of Personal Information
 
-We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data by contacting our [e-Helpdesk](http://info.sciencedirect.com/contacts). 
+We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data.
 
-**Our Commitment to Data Security**
+## Our Commitment to Data Security
 
-We recognize that your privacy is important to you, and therefore we endeavor to keep your personal information confidential. The personal and demographic information about each user is stored on servers that are behind a firewall and physically housed within a secured data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of such information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of such information submitted to us nor for your or third parties' use or misuse of such information.
+We endeavor to keep your personal information confidential and protected against unauthorized access, loss, misuse or alteration through the use of appropriate administrative, physical and technical safeguards. The personal and demographic information about each user is stored on systems that are subject to appropriate physical and electronic security measures, and we limit employee access to and use of such information.
 
- **About This Privacy Policy**
+## About This Privacy Policy
 
-The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this webpage. Our policy does not create a contract or any legal rights.
+The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this web page.
 
-This privacy policy applies solely to the information you provide while visiting this Site. The terms of this privacy policy do not govern personal information furnished through any means other than this Site (such as via telephone or postal mail).
+This Site may contain links to other websites that are beyond our control. Other websites to which you link may contain privacy policies that are different from this privacy policy. This privacy policy will not apply to data collected by or provided to other websites. 
 
-This Site may contain links to other web sites that are beyond our control. Other web sites to which you link may contain privacy policies that are different from this privacy policy. We encourage you to check the privacy policy of each web site you visit before submitting any information to them.
+The websites of certain divisions or business units within the Elsevier group of companies may have privacy policies that are different from this privacy policy. In such cases, the privacy policy of that website will be posted and will supersede the terms of this policy in the event of a conflict.
 
- **Questions, Complaints, and Dispute Resolution**
+## Questions, Complaints, and Dispute Resolution
 
-If you have any questions or comments regarding this privacy policy, please contact our [e-Helpdesk](http://info.sciencedirect.com/contacts). If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact our e-Helpdesk. Disputes under this privacy policy will be resolved by our e-Helpdesk, which will use commercially reasonable efforts to promptly investigate and, if necessary, to correct any problem.
+If you have any questions or comments regarding this privacy policy, please contact:
 
-Last revised: 13 September 2006
+Elsevier Data Protection Officer  
+Elsevier Limited  
+The Boulevard  
+Langford Lane  
+Kidlington  
+Oxford OX5 1GB  
+United Kingdom  
+Email: [DPO@elsevier.com](mailto:DPO@elsevier.com)
+
+If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact the Elsevier Data Protection Officer. Disputes under this privacy policy will be resolved by the Elsevier Data Protection Officer, who will use commercially reasonable efforts to promptly investigate and, if necessary, to correct any problem.  
+
+
+Last revised: 28 May 2010
