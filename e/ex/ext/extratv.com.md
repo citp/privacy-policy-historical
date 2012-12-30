@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the extratv.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629100802id_/http%3A//www.warnerbros.com/privacy/policy.html%23p5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extratv.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005306id_/http%3A//www.warnerbros.com/privacy/policy.html%23p5) for the most accurate reproduction.*
 
 # WarnerBros.com - Privacy Policy
 
-Updated: June 12, 2012
+Updated: December 7, 2012
 
 Thank you for visiting a [Warner Bros. Entertainment Group](http://www.warnerbros.com/main/privacy/privacy_list.html#listOne) ("we" or "us") offering. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information you submit on our online and mobile Web sites, services, and applications (“Site” or “Sites”). For certain offerings on our Sites, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
 
@@ -46,7 +46,7 @@ We use the information that you provide about others to enable us to send them i
 
 **INFORMATION SHARING AND DISCLOSURE**
 
- **Legal and law enforcement purposes.** We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to protect our rights and the rights of others, and as otherwise required by law. 
+ **Legal and law enforcement purposes.** We may disclose personally identifiable information in response to legal process, for example in response to a court order or a subpoena, or in response to a law enforcement agency's request. We also may disclose such information to third parties in connection with fraud-scoring, detection, and prevention activities or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to protect our rights and the rights of others, and as otherwise required by law. 
 
 **Change of control.** In addition, we may transfer information about you in the event of a business transaction, such as if we or one of our business units or our relevant assets are acquired by, sold to, or merged with another company. 
 
