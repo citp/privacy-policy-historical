@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moveon.org privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614191350id_/https%3A//www.moveon.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moveon.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230085338id_/https%3A//www.moveon.org/privacy.html) for the most accurate reproduction.*
 
 # MoveOn.org: Democracy in Action
 
@@ -65,7 +65,7 @@ We may place online advertising with third-party vendors, including Google, whic
 
 In order to better serve our members, we use cookies and periodically analyze web logs. We may also use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our website. We may also use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to MoveOn.org Civic Action members. 
 
-URLs contained in emails may contain an ID that enables us to correctly identify the person who takes an action using a web page. We use these URLs to simplify the process of signing petitions and filling out surveys. We may occasionally present a shortened URL that references a longer URL which contains an id—we do this to simplify the display, to prevent links from becoming broken when copied, and to ensure compatibility with email programs which do not handle long URLs. When a shortened URL is displayed in an email, you will see the full URL in the browser's address bar when you access the page. 
+URLs contained in emails may contain an ID that enables us to correctly identify the person who takes an action using a web page. We use these URLs to simplify the process of signing petitions and filling out surveys. We may occasionally present a shortened URL that references a longer URL which contains an id謡e do this to simplify the display, to prevent links from becoming broken when copied, and to ensure compatibility with email programs which do not handle long URLs. When a shortened URL is displayed in an email, you will see the full URL in the browser's address bar when you access the page. 
 
 #### Non-Personally Identifiable Information
 
