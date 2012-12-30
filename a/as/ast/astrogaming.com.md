@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the astrogaming.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630190157id_/http%3A//www.astrogaming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrogaming.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185825id_/http%3A//www.astrogaming.com/privacy) for the most accurate reproduction.*
 
 # Support Privacy
 
 **Welcome to the Privacy Policy for Astro Gaming, Inc.**
 
 **Our Commitment To Privacy**  
-Astro Gaming, Inc. respects your privacy. This notice explains how Astro Gaming collects and uses information through the Astro Gaming website at [http://qa.astrogaming.com](http://qa.astrogaming.com/) ( the “Website”) and related services (together with the Website, the “Astro Gaming Offerings”) and the choices you can make about the way your information is collected and used (the “Privacy Policy”). Throughout this Privacy Policy, we may refer to Astro Gaming, Inc. as “Astro Gaming,” “use,” or “we.” “You” will refer to you and any other user of the Astro Gaming Offerings. We will not use or share your information with anyone except as described in this Privacy Policy.
+Astro Gaming, Inc. respects your privacy. This notice explains how Astro Gaming collects and uses information through the Astro Gaming website at [http://astrogaming.com](http://qa.astrogaming.com/) ( the “Website”) and related services (together with the Website, the “Astro Gaming Offerings”) and the choices you can make about the way your information is collected and used (the “Privacy Policy”). Throughout this Privacy Policy, we may refer to Astro Gaming, Inc. as “Astro Gaming,” “use,” or “we.” “You” will refer to you and any other user of the Astro Gaming Offerings. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 This Privacy Policy is considered part of our Terms of Use, and your use of the Astro Gaming Offerings is subject to both the Terms of Use, available on the Website, and this Privacy Policy. We reserve the right to change this Privacy Policy at any time. If we change this Privacy Policy, we will provide notification of the change at least thirty (30) business days before the change takes effect. This notice applies to all information collected or submitted on or through the Astro Gaming Offerings.
 
