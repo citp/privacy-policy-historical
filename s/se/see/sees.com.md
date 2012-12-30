@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630073019id_/http%3A//www.sees.com/index.cfm/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230090522id_/http%3A//www.sees.com/index.cfm/about_us/privacy_policy) for the most accurate reproduction.*
 
-# Chocolates & Chocolate Gifts | See's Candies
+# Privacy Policy | See's Candies
 
   
   
@@ -42,7 +42,7 @@ See's Candy Shops, Inc.
 Attn: Privacy Policy  
 20600 South Alameda Street  
 Carson, CA 90810  
-[custserv@sees.com](mailto:custserv@sees.com)  
+[SeesCandiesCustomerCare@sees.com](mailto:SeesCandiesCustomerCare@sees.com)  
 1-800-789-7337
 
 **Security**
