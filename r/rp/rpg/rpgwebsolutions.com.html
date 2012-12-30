@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rpgwebsolutions.com privacy policy that was archived on 2012-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604044227id_/http%3A//www.rpgwebsolutions.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rpgwebsolutions.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230053227id_/http%3A//www.rpgwebsolutions.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Web Design Company Delhi India, Web Development Company Delhi India, Web Solutions Company Delhi India, SEO Services Delhi India, Business Website Development Company Delhi India, Website Development Company Delhi India, Website Designing Company Delhi India</title>
@@ -23,10 +23,10 @@
 
 <script type="text/javascript" src="js/fadeshow.js"></script>
 
-<script>
+<script type="text/javascript">
 function validate()
 {
-if(document.form1.name.value=="name:")
+if(document.form1.name.value=="Name:")
 {
 alert("Please Specify Name");
 document.form1.name.focus();
@@ -42,11 +42,22 @@ alert("Please input a valid Email Id!");
 document.form1.email.focus();
 return false;
 }
-
+if(document.form1.mobile.value=="Mobile No.:")
+{
+alert("Please Specify Mobile No.");
+document.form1.mobile.focus();
+return false;
+}
 if(document.form1.feedback.value=="Quote/Query/Feedback:")
 {
 alert("Please Specify Feedback");
 document.form1.feedback.focus();
+return false;
+}
+if(document.form1.sec.value=="Enter Security Code:")
+{
+alert("Please Specify Security Code");
+document.form1.sec.focus();
 return false;
 }
 
@@ -55,6 +66,21 @@ return true;
 }
 
 </script>
+
+<script>
+function randomString() {
+        var chars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXTZabcdefghiklmnopqrstuvwxyz";
+        var string_length = 6;
+        var randomstring = '';
+        for (var i=0; i<string_length; i++) {
+                var rnum = Math.floor(Math.random() * chars.length);
+                randomstring += chars.substring(rnum,rnum+1);
+        }
+		//document.write("with");
+        document.form1.cap.value = randomstring;
+}
+</script>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -97,7 +123,7 @@ stepcarousel.setup({
 
 </head>
 
-<body id="body">
+<body id="body" onload="randomString();">
 <!--Menu Bar Starts Here-->  
 <div class="menu_container" title="RPG Websolutions based in Delhi, provides professional services in website designing, website development, website maintenance, website redesigning, web promotion, search engine optimization, e-commerce web development, intranet application development, SEO, portals and vortals development from Delhi, India.">
                     <div id="menu">
@@ -110,7 +136,7 @@ stepcarousel.setup({
                             <!--HTML for Flex Drop Down Menu 2-->
                                 
                                 
-                            <li><a href="software_development.html" data-flexmenu="flexmenu3">Webdevelopment</a></li>
+                            <li><a href="website_development.html" data-flexmenu="flexmenu3">Webdevelopment</a></li>
                             <!--HTML for Flex Drop Down Menu 3-->
                                 
                                 
@@ -147,7 +173,7 @@ stepcarousel.setup({
        	      <div class="header_main">
                 	<div class="inner_logo"><a href="default.html"><img src="images/rpgwebsolutions_logo.png" width="240" height="153" border="0" title="RPG Websolutions based in Delhi, provides professional services in website designing" alt="RPG Websolutions based in Delhi, provides professional services in website designing"></a></div>
                     <div class="call_now"><img src="images/call_now.png" width="134" height="55" border="0" title="RPG Websolutions based in Delhi, provides professional services in website designing" alt="RPG Websolutions based in Delhi, provides professional services in website designing"></div><div class="call_now_number">+91-0-98102-36266<br>011-26138669</div><div class="call_now_mail">Or Mail us at<br>
-                      <a href="mailto:info@rpgwebsolutions.com" class="style1">info@rpgwebsolutions.com</a></div><div class="call_now_chat"><a href="javascript:void(0)" onclick="window.open('http://www.google.com/talk/service/badge/Start?tk=z01q6amlq98ki55m1mvbmpo7roundkakjj4u5ac34s7bs1502vuali2u48v8n8g3n15qcar7or2ov41lohio1e85d9t9gqn2um0fartetnupp86n6nanfsn9rucp423vlqmqsonkvr02cdv658rhf1pug51trl9qqei4jro87', 'child', 'height=400,width=300')"><img src="images/chat_now.png" width="83" height="73" border="0" alt="Web Designing Company Delhi India,Web Development Company Delhi India,Web Solutions Company Delhi India,SEO Services Delhi India,Business Website Development Company Delhi India,Website Development Company Delhi India,Website Designing Company Delhi India" title="Web Designing Company Delhi India,Web Development Company Delhi India,Web Solutions Company Delhi India,SEO Services Delhi India,Business Website Development Company Delhi India,Website Development Company Delhi India,Website Designing Company Delhi India"></a></div>
+                      <a href="mailto:info@rpgwebsolutions.com" class="style1">info@rpgwebsolutions.com</a></div>
               </div>
 <!--Logo Banner Ends Here--> 
 
@@ -258,26 +284,40 @@ If you have any questions or concerns about privacy, then please Contact Us for 
                                  <div class="quick_quote_bg">
                                              <div style="margin-top:10px;"><img src="images/quick_quote_top.jpg" width="255" height="10"></div>
                                              <form id="form1" name="form1" method="post" action="quick_contact.php" onsubmit="return validate();">
-                                        <table width="100%" border="0" cellspacing="0" cellpadding="6">
+                                        <table width="70%" border="0" align="center" cellpadding="6" cellspacing="0">
                                           <tbody><tr>
                                             <td class="heading">Get a Free Quick Quote</td>
                                           </tr>
+                                        
                                           <tr>
                                             <td align="center">
-                                            <label for="textfield"></label>
-                                            <input name="name" onfocus="if(this.value == 'name:') {this.value=''}" onblur="if(this.value == ''){this.value ='name:'}" type="text" class="submit" id="name" style="background-color:#181818; padding:10px; border:0px;" value="name:" size="27"></td>
+                                            <label for="textfield" id="textfield"></label>
+                                            <input name="name" onfocus="if(this.value == 'Name:') {this.value=''}" onblur="if(this.value == ''){this.value ='Name:'}" type="text" class="submit" id="name" style="background-color:#cecece; padding:10px; border:0px;text-transform:none;" value="Name:" size="27"></td>
                                           </tr>
                                           <tr>
-                                            <td align="center"><input type="text" onfocus="if(this.value == 'Email Id:') {this.value=''}" onblur="if(this.value == ''){this.value ='Email Id:'}" name="email" id="email" class="submit" style="background-color:#181818; padding:10px; border:0px;" value="Email Id:" size="27"></td>
+                                            <td align="center"><input type="text" onfocus="if(this.value == 'Email Id:') {this.value=''}" onblur="if(this.value == ''){this.value ='Email Id:'}" name="email" id="email" class="submit" style="background-color:#cecece; padding:10px; border:0px; text-transform:none;" value="Email Id:" size="27"></td>
+                                          </tr>
+                                           <tr>
+                                            <td align="center"><input type="text" onfocus="if(this.value == 'Mobile No.:') {this.value=''}" onblur="if(this.value == ''){this.value ='Mobile No.:'}" name="mobile" id="mobile" class="submit" style="background-color:#cecece; padding:10px; border:0px;text-transform:none;" value="Mobile No.:" size="27"></td>
                                           </tr>
                                           <tr>
-                                            <td align="center"><textarea onblur="if (this.value == '') {this.value = 'Quote/Query/Feedback:';}" onfocus="if (this.value == 'Quote/Query/Feedback:') {this.value = '';}" name="feedback" cols="25" class="submit" id="feedback" style="background-color:#181818; padding:10px; border:0px;" rows="3">Quote/Query/Feedback:</textarea></td>
+                                            <td align="center"><textarea onblur="if (this.value == '') {this.value = 'Quote/Query/Feedback:';}" onfocus="if (this.value == 'Quote/Query/Feedback:') {this.value = '';}" name="feedback" cols="25" class="submit" id="feedback" style="background-color:#cecece; padding:10px; border:0px; text-transform:none;" rows="3">Quote/Query/Feedback:</textarea></td>
                                           </tr>
+                                           <tr>
+                                             <td align="left" class="style3">&nbsp;
+                                               <input name="cap" type="text" disabled="disabled" id="cap" style="background-color:#ffffff; padding:10px; border:0px;font-size:20px; text-indent:20px;" size="10" readonly="readonly"></td>
+                                           </tr>
+                                           <tr>
+                                             <td align="left" class="style16">Please Enter Above Showing Security Code into below box:</td>
+                                          </tr>
+                                           <tr>
+                                             <td align="left"><input type="text" name="sec" id="sec" style="background-color:#cecece; padding:10px; border:0px; text-transform:none;" size="27" onfocus="if(this.value == 'Enter Security Code:') {this.value=''}" onblur="if(this.value == ''){this.value ='Enter Security Code:'}"></td>
+                                           </tr> 
                                           <tr>
                                             <td align="center"><input name="Submit" type="submit" id="Submit" value="Submit" class="submit_button"></td>
                                           </tr>
                                         </tbody></table>
-                                      </form>
+                                </form>
             						<div><img src="images/quick_quote_bottom.jpg" width="255" height="12"></div>
                                 </div>
 
@@ -309,7 +349,7 @@ If you have any questions or concerns about privacy, then please Contact Us for 
             <div class="footer_main_saperator"><img src="images/separator.jpg" width="1" height="241" title="RPG Websolutions based in Delhi, provides professional services in website designing" alt="RPG Websolutions based in Delhi, provides professional services in website designing"></div>
             <div class="footer_main_content">
                 <div><span class="footer_links_heading1">Our</span><br><span class="footer_links_heading2">Esteemed </span><span class="footer_links_heading3">Clientele</span></div>
-                <div style="height:135px; text-align:center;"><script type="text/javascript">new fadeshow(fadeimages, 235, 135, 0, 3000, 1, "R")</script><div id="master0" style="position:relative;width:235px;height:135px;overflow:hidden;"><div id="canvas0_0" style="position: absolute; width: 235px; height: 135px; top: 0px; left: 0px; opacity: 0.990099; z-index: 1;"><img src="https://web.archive.org/web/20120604044227id_/http%3A//www.rpgwebsolutions.com/images/clients_1.jpg" border="0px"></div><div id="canvas0_1" style="position:absolute;width:235px;height:135px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:#"><img src="https://web.archive.org/web/20120604044227id_/http%3A//www.rpgwebsolutions.com/images/clients_2.jpg" border="0px"></div></div></div>
+                <div style="height:135px; text-align:center;"><script type="text/javascript">new fadeshow(fadeimages, 235, 135, 0, 3000, 1, "R")</script><div id="master0" style="position:relative;width:235px;height:135px;overflow:hidden;"><div id="canvas0_0" style="position: absolute; width: 235px; height: 135px; top: 0px; left: 0px; opacity: 0.990099; z-index: 1;"><img src="https://web.archive.org/web/20121230053227id_/http%3A//www.rpgwebsolutions.com/images/clients_6.jpg" border="0px"></div><div id="canvas0_1" style="position:absolute;width:235px;height:135px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:#"><img src="https://web.archive.org/web/20121230053227id_/http%3A//www.rpgwebsolutions.com/images/clients_2.jpg" border="0px"></div></div></div>
      		 </div>
             <div class="footer_main_saperator"><img src="images/separator.jpg" width="1" height="241" title="RPG Websolutions based in Delhi, provides professional services in website designing" alt="RPG Websolutions based in Delhi, provides professional services in website designing"></div>
             <div class="footer_main_content">
@@ -384,14 +424,15 @@ If you have any questions or concerns about privacy, then please Contact Us for 
                                     <li><a href="logo-design-portfolio.html">Logo Showcase</a></li>
                                     <li><a href="banners-design-portfolio.html">Banners Showcase</a></li>
                                     <li><a href="flyers/index.html">Flyers Showcase</a></li>
+<li><a href="brochure/index.html">Brochure</a></li>
                                 </ul><ul id="flexmenu6" class="flexdropdownmenu jqflexmenu" style="display: none; visibility: visible; z-index: 1000;">
                                     <li><a href="webdesigning_training.html">Web Designing</a></li>
-                                    <li><a href="programimg_training.html">PHP Programing</a></li>
+                                    <li><a href="programing_training.html">PHP Programing</a></li>
                                     <li><a href="seo_training.html">Seo</a></li>
                                     <li><a href="career.html">Jobs</a></li>
                                 </ul><ul id="flexmenu8" class="flexdropdownmenu jqflexmenu" style="display: none; visibility: visible; z-index: 1000;">
                                     <li><a href="contact.html">Enquiry Form</a></li>
-                                    <li><a href="javascript:void(0)" onclick="window.open('http://www.google.com/talk/service/badge/Start?tk=z01q6amlq98ki55m1mvbmpo7roundkakjj4u5ac34s7bs1502vuali2u48v8n8g3n15qcar7or2ov41lohio1e85d9t9gqn2um0fartetnupp86n6nanfsn9rucp423vlqmqsonkvr02cdv658rhf1pug51trl9qqei4jro87', 'child', 'height=400,width=300')">Chat With Us</a></li>
+                                    
                                     <li><a href="location_map.html">Location Map</a></li>
                                     <li><a href="newsletter.html">Newsletter</a></li>
                                     <li><a href="site-support-ticket.html">Site Support Ticket</a></li>
