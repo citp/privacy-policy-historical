@@ -1,173 +1,466 @@
-<!--The following is the downloaded HTML source of the thewhole9.com privacy policy that was archived on 2011-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526192830id_/http%3A//www.thewhole9.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thewhole9.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230190237id_/http%3A//www.thewhole9.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="charset" content="iso-8859-1">
-<title>Online community for photographers, artists, writers, etc.: The Whole 9</title>
-<meta name="description" content="The Whole 9 is an online community that offers common ground for creative people, including a place to display online portfolios, find creative jobs, read creative blogs and much more.">
-<meta name="keywords" content="online community, online portfolios, creative people">
-<meta name="robots" content="noarchive"> 
-<meta name="copyright" content="Copyright (c) 2009 The Whole 9">
-<meta name="author" content="The Whole 9">
-<meta name="distribution" content="Global">
-<meta name="revisit-after" content="7 Days">
-<meta name="rating" content="General">
-<link rel="canonical" href="http://www.thewhole9.com/">
-<base href="http://www.thewhole9.com/">
-<link href="styles_home2.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Online community for artists, graphic designers, writers, etc.: The Whole 9</title>
+<meta name="description" content="Connect with other creative people at The Whole 9, an online community that offers common ground for creative people including a place to network and display online portfolios, find creative jobs and call for artists, read creative blogs and much more.">
+<meta name="keywords" content="online community, online portfolios, creative people, creative blogs, creative jobs">
 
-</head>
+<link href="webfontkit-20110307-154509/stylesheet.css" rel="stylesheet" type="text/css">
+<script src="https://rules.quantcount.com/rules-p-334M-t3grRDyM.js" async=""></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<link href="tw9_global.css" rel="stylesheet" type="text/css">
 
-<body>
-<table border="0" cellspacing="0" cellpadding="0">
+
+
+<script type="text/javascript">
+/***********************************************
+* Different CSS depending on OS (mac/pc)-  Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+</script>
+<script type="text/javascript" src="js/osdetect.js"></script><link rel="stylesheet" type="text/css" href="../tw9_pc.css">
+
+<!-- JQUERY NOTICE -->
+<script type="text/javascript" src="js/jquery.notice.js"></script>
+<link rel="stylesheet" href="js/jquery.notice.css" type="text/css" media="screen">
+
+<!-- FANCYBOX MODALS -->
+<script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" href="js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
+
+<script type="text/javascript">
+
+   //  FORGOT PASSWORD
+		$(document).ready(function(){
+		
+		// LOGIN - ENTER KEY SUBMITS
+		
+		$("#password").keyup(function(event){
+			if(event.keyCode == 13){
+				$("#btnLoginSubmit").click();
+			}
+		});
+		$("#username").keyup(function(event){
+			if(event.keyCode == 13){
+				$("#btnLoginSubmit").click();
+			}
+		});
+
+				$("#PWLK,#PWLK2").fancybox({
+					'type'               : 'iframe',
+					'autoDimensions'	   : false,
+					'width'         		 : 450,
+					'height'        		 : 350,
+					'scrolling'          : 'auto',
+					'hideOnContentClick' : true
+				});
+
+
+   // NEWSFEED - WHAT IS CREATIVE CIRCLE
+		$("#FBWT").fancybox({
+			'type'               : 'iframe',
+			'autoDimensions'	   : false,
+			'width'         		 : 450,
+			'height'        		 : 350,
+			'scrolling'          : 'auto',
+			'hideOnContentClick' : true
+		});
+
+
+		// NEWSFEED - POPUP IMAGES
+		$("a.FBIPU, a.FBIPU-B").fancybox({
+			'type'               : 'image',
+			'autoDimensions'	   : true,
+			'scrolling'          : 'auto',
+			'hideOnContentClick' : true
+		});
+
+
+		// NEWSFEED - LIKES AND YEAHS PUSH USERES POPUP LIST
+		$("div.newsleft_ReplyLikeXXX, div.newsleft_ReplyYeahXXX").fancybox({
+			'type'               : 'ajax',
+			'autoDimensions'	   : false,
+			'width'         		 : 450,
+			'height'        		 : 350,
+			'scrolling'          : 'auto',
+			'hideOnContentClick' : true
+		});
+
+
+
+		// CREATIVE CIRCLE JOIN
+		$("#JCCF").fancybox({
+			'type'               : 'inline',
+			'autoDimensions'	   : false,
+			'width'         		 : 475,
+			'height'        		 : 320,
+			'scrolling'          : 'auto',
+			'hideOnContentClick' : false
+		});
+
+		
+		// SEARCH MODAL
+		$("#SRCHMOD").fancybox({
+			'type'               : 'iframe',
+			'autoDimensions'	   : false,
+			'width'         		 : 452,
+			'height'        		 : 528,
+			'scrolling'          : 'no',
+			'hideOnContentClick' : false
+		});
+		
+		
+		
+		// SEND USER A MESSSAGE
+		$("#btnSendMessage").fancybox({
+			'type'               : 'iframe',
+			'autoDimensions'	   : false,
+			'width'         		 : 480,
+			'height'        		 : 400,
+			'scrolling'          : 'false',
+			'hideOnContentClick' : false
+		});
+		
+		
+		// REPLAY TO A MESSSAGE - MAIL OPEN
+		$("#btnReplyMessage").fancybox({
+			'type'               : 'iframe',
+			'autoDimensions'	   : false,
+			'width'         		 : 480,
+			'height'        		 : 400,
+			'scrolling'          : 'no',
+			'hideOnContentClick' : false
+		});
+		
+
+		// OPEN A RECENT MENU STATUS IMAGE
+		$(".opnstatimg").fancybox({
+			'type'               : 'image',
+			'autoDimensions'	   : true,
+			'scrolling'          : 'auto',
+			'hideOnContentClick' : true
+		});
+		
+
+		// SHOW YOUTUBE CLIP
+		$("#showYoutubeVid").fancybox({
+  		'type'               : 'iframe',
+  		'autoDimensions'	   : true,
+  		'scrolling'          : 'no',
+  		'hideOnContentClick' : true
+		}); 
+		
+		
+		// POST MEMBER QUESTION FORM
+		$("#pmaq").fancybox({
+  		'type'               : 'iframe',
+			'autoDimensions'	   : false,
+			'width'         		 : 480,
+			'height'        		 : 400,
+			'scrolling'          : 'no',
+			'hideOnContentClick' : false
+		}); 
+		
+		
+		// POST MEMBER QUESTION COMMENT FORM
+		$(".pmaqComm").fancybox({
+  		'type'               : 'iframe',
+			'autoDimensions'	   : false,
+			'width'         		 : 480,
+			'height'        		 : 400,
+			'scrolling'          : 'no',
+			'hideOnContentClick' : false
+		});
+
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+		
+	$("#header").mouseenter(function() {
+        $("#dropLogin").hide();
+    });
+    $("#menu").mouseenter(function() {
+        $("#dropLogin").hide();
+    });
+    $("#btnMemberAccount").mouseenter(function() {									   
+        $("#dropLogin").show();
+		$("#btnMemberAccount").css('color','#cccccc');
+    }).mouseleave(function() {
+        /*$("#dropLogin").hide();*/
+    });
+	$("#dropLogin").mouseenter(function() {
+        /*$("#dropLogin").show();*/
+    }).mouseleave(function() {
+       $("#dropLogin").hide();
+	   $("#btnMemberAccount").css('color','#ffffff');
+    });
+});
+</script></head>
+<body id="profile">
+<div id="wrapper">
+<div id="header">
+	<div id="btnLogo" onclick="window.open('index.php','_self');"></div>
+	<a href="join.php" id="btnJoinNow"><span>Join Now</span></a>
+</div>
+
+<div id="nav">
+	<div id="navRight">
+		<a href="what-is-thewhole9.php" class="nav6" style="margin-right:60px;">ABOUT</a>
+		<a id="btnMemberAccount" style="cursor:pointer;color:#fff;">MEMBER LOGIN</a>
+	</div>
+	
+	<div id="menu">
+    <ul>
+        <li><a href="http://www.thewhole9.com/index.php" class="nav1">HOME</a></li>
+        <li><a href="http://www.thewhole9.com/community.php" class="nav2">COMMUNITY</a></li>
+        <li><a href="http://www.thewhole9.com/jobs.php" class="nav3">JOBS ETC</a></li>
+        <li><a href="http://www.thewhole9.com/blogs/index.php" class="nav4">BLOGS</a></li>
+        <li><a href="http://www.thewhole9.com/thepeaceproject-home.php" class="nav5">PEACE PROJECT</a></li>
+    </ul>
+  </div>
+  
+</div><div id="page">
+<div id="dropLogin">
+<!-- http://www.thewhole9.com/news-feed.php  -->
+	<form id="formLogin" name="formLogin" method="post" action="/privacy.php">
+	 <input type="hidden" name="Submit" value="SubmitLogin">
+	<table width="240" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="17" valign="top" background="images/column.gif"><img src="images/spacer.gif" width="17" height="50"></td>
-    <td valign="top" width="907"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td class="homeBG" width="907"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="header1">
-  <tbody><tr>
-    <td colspan="3"><img src="images/spacer.gif" alt="spacer" width="8" height="8"></td>
+    <td height="28" width="50%">&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
   <tr>
-    <td width="8"><img src="images/spacer.gif" alt="spacer" width="8" height="8"></td>
-    <td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-					<td class="helvetica10b" colspan="2">
-											<a href="http://www.thewhole9.com/" class="gray">HOME</a> &nbsp; | &nbsp;
-						<a href="http://www.thewhole9.com/people.php" class="gray">PEOPLE</a> &nbsp;| &nbsp;
-						<a href="http://www.thewhole9.com/portfolios.php" class="gray">PORTFOLIOS</a> &nbsp;| &nbsp;
-						<a href="http://www.thewhole9.com/creativejobs.php" class="gray">JOBS ETC</a> &nbsp;|&nbsp;
-						<!--<a href="http://www.thewhole9.com/gotoForums.php" class="gray">EVENTS</a> &nbsp;|&nbsp;-->
-						<a href="http://www.thewhole9.com/blogs/" class="gray">BLOGS</a> &nbsp;|&nbsp;
-						<a href="http://www.thewhole9.com/thepeaceproject/" class="gray" style="color:#452a66">PEACE PROJECT</a>
-					</td>
-		</tr>
-      <tr>
-					<td colspan="2"><img src="images/spacer.gif" alt="spacer" width="50" height="13"></td>
-				</tr>
-      <tr>
-        <td valign="bottom"><img src="images/logo_homeN.gif"></td>
-					<td align="right" valign="bottom">
-																					<p style="margin-right:75px;">
-							<a class="orangeJoin" href="join.php" title="JOIN NOW">JOIN NOW</a>
-							</p>							
-							
-					</td>
-				</tr>
-    </tbody></table></td>
-    <td width="8"><img src="images/spacer.gif" alt="spacer" width="8" height="8"></td>
-  </tr>
-</tbody></table></td>
-      </tr>
-      <tr>
-        <td width="907"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-          <tbody><tr>
-            <td width="590" valign="top"><img src="images/spacer.gif" width="452" height="8"></td>
-            <td width="17" valign="top" background="images/column.gif"><img src="images/spacer.gif" width="17" height="8"></td>
-            <td width="300" valign="top"><img src="images/spacer.gif" width="193" height="8"></td>
-          </tr>
-          <tr>
-            <td valign="top" width="590"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td class="headlinetext"><span class="arial30">PRIVACY POLICY </span></td>
-              </tr>
-              <tr>
-                <td><img src="images/spacer.gif" width="17" height="8"></td>
-              </tr>
-              <tr>
-                <td class="indent1"><span class="tahoma11"><p>The Whole 9 takes your privacy seriously and urges you to read our privacy policy carefully and to make note of your rights under this policy. </p>
-                </span>
-                  <p class="tahoma11"><strong>Changes to this Privacy Statement</strong><br>
-                    From time to time, The Whole 9 may use customer information for new purposes not previously disclosed in this privacy notice. If our information practices change at some time in the future we will post the policy changes here. If you are concerned about how your information is used, you should check back to our Privacy Policy periodically.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11"><strong>WHAT INFORMATION DOES THE WHOLE 9 GATHER AND/OR TRACK ABOUT YOU?</strong></p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11"><strong>Personally Identifying Information</strong><br>
-                    The Whole 9 collects personal information when you register with us, when you use our services, when you visit our web pages or the pages of certain partners, or when you write or phone us. The Whole 9 may combine information about you that we have with information we obtain from business partners or other companies to better serve you, and to administer our business.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">When you register we gather contact information (such as your name, phone number and email address) and demographic information (like your birth date, gender, zip code, occupation and personal interests). Should you choose to build a creative portfolio on The Whole 9, you may also elect to supply your address, work history, business name, and information about your training and education. </p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">The Whole 9 collects information about your transactions with us and possibly with some of our business partners who act on our behalf to provide services to you. This may include information about your use of the services that we offer.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11"><strong>Anonymous Information</strong><br>
-  The Whole 9 also gathers anonymous information, which may be used or shared with third parties. This information does not personally identify you but may be helpful for improving the services we offer. Generally this information is collected through "traffic data" and may entail the use of "cookies," "IP addresses," or other numeric codes used to identify a computer. </p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">Cookies: "Cookies" give users special, random IDs that are small text files, which are stored on the hard drive of a user's computer. The Whole 9 employs cookies to recognize you and your access privileges for certain locations on the Web site, as well as to track site usage. Subscribers who do not accept cookies from the Web site cannot access many areas of the Web site.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">IP Addresses: The Whole 9 also logs IP addresses for systems administration and troubleshooting purposes. (Your IP address indicates the location of your computer on the Internet.) The Whole 9 does not log IP addresses to track your session, nor do we link IP addresses to anything personally identifiable. </p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">Credit Card Information: If you use a credit card to pay for The Whole 9 service, we may retain your credit card information in order to renew your account in the event you elect to renew your subscription. When we do retain credit card information, we keep it secure and separate from other demographic information you may have given us. We do not share credit card information.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11"><strong>WITH WHOM DOES THE WHOLE 9 SHARE THE INFORMATION IT GATHERS AND/OR TRACKS?</strong></p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11"><strong>Personally Identifying Information</strong><br>
-  As previously stated, The Whole 9 takes the privacy of its customers seriously and, therefore, you have the ability to control how we use your personally identifying information by telling us if you wish to opt-out of certain uses of your information, as described in greater detail in the "Opting Out" provision below.<br>
-                    <br>
-                    The Whole 9 may, on occasion, choose to share personally identifying information collected about subscribers with select trusted third parties who work on behalf of or with The Whole 9 under confidentiality agreements. These companies may use your personal information to help The Whole 9 communicate with you about offers from The Whole 9. However, these companies do not have any independent right to share this information.  If you prefer not to have your personally identifying information shared with select third parties, please see the "Opting Out" provision below.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">Personal information about you as an individual subscriber may be shared, regardless of your "opt-out" status, if it is required by law or in the good-faith belief that such action is necessary to: (1) comply with the law or comply with legal process served on The Whole 9; and (2) protect and defend the legitimate business interests, rights or property of The Whole 9, its users, advertisers, customers, sponsors, advertisers or affiliates.</p>
-                  <p class="tahoma11">Customer Requests for Personal Information: Upon your request, The Whole 9 will provide you with its record of the personal information you gave us at registration. For security reasons, this information will only be sent to the e-mail address on file for the subscriber ID associated with it.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">Correspondence with The Whole 9: If you send us personal correspondence, such as e-mails or letters, or if other users or third parties send correspondence to The Whole 9 about your activities or postings on the Web site, The Whole 9 may collect such information into a file specific to you. All submissions become property of The Whole 9.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11"><strong>Anonymous Information</strong><br>
-                    The Whole 9 also shares the information it gathers in a compiled format with advertisers and other partners. The compiled format does not include personally identifying information.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11"><strong>WHAT DOES THE WHOLE 9 DO WITH THE INFORMATION IT GATHERS AND/OR TRACKS? </strong></p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">Data Security: To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to protect the information we collect online, including SSL security for credit card submissions. </p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">Account Maintenance: The Whole 9 may utilize the contact information you provided at registration, such as your telephone number and e-mail address, to contact you regarding account status, changes to the subscriber agreement, and to confirm registration.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">Service Updates and Email Promotions: Using the contact information and email addresses provided at registration, The Whole 9 periodically sends promotional messages to its users about services offered by The Whole 9 and notifies users of new features or changes that may be made to these services. </p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">The Whole 9 may also elect to send promotional messages on behalf of selected third parties whose products or services we think may be of interest to you. If you prefer not to receive promotional e-mails from The Whole 9, please see the "Opting Out" provision below.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11"><strong>THIRD PARTY PARTNERS AND LINKS TO OTHER WEB SITES </strong></p>
-                  <p class="tahoma11">The Whole 9 is not responsible for the content or the privacy policies of Web sites to which it may link. This policy applies solely to information collected by The Whole 9.<br>
-                      <br>
-                      The Whole 9 Provider Partner Products &amp; Services: While visiting the Web site, you may decide to purchase a product or service through one of our provider partners whose services are promoted or advertised on the site. If you do so, you will be acting under the guidelines of the third party provider's privacy policy, if it has one. The Whole 9 cannot make guarantees or a warranty as to the nature of a third party’s use of your personal information.</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11"><strong>OPTING-OUT, CORRECTIONS AND CANCELLATIONS </strong></p>
-                  <p class="tahoma11">If you are already a registered user with The Whole 9, you may manage your promotional e-mail preferences by "opting-out" of further email contact from The Whole 9 (excepting notification of major changes to the service) directly by logging in, going to Account Information and selecting which emails you would like to receive under EMAIL OPTIONS.</p>
-                  <p class="tahoma11">You may also correct information that is no longer accurate or delete your account completely on this page. If you have additional questions, please go to CONTACT US, or please contact:</p>
-                  <p class="tahoma11">&nbsp;</p>
-                  <p class="tahoma11">The Whole 9<br>
-                    Attn: Member Service<br>
-                    6101 Washington Blvd.<br>
-                    Culver City, CA  90232 USA</p></td>
-              </tr>
-                <tr>
-                  <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><img src="images/spacer.gif" width="50" height="8"></td>
-  </tr>
-  <tr>
-    <td><hr size="1"></td>
-  </tr>
-</tbody></table>
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
-  <tbody><tr>
-    <td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      
-      <tbody><tr>
-        <td class="helvetica10b">
-        		<a href="http://www.thewhole9.com/contact.php" class="tablink">CONTACT</a> | 
-										<a href="http://www.thewhole9.com/help.php" class="tablink">HELP</a> | 
-										<a href="http://www.thewhole9.com/privacy.php" class="tablink">PRIVACY</a> | 
-										<a href="http://www.thewhole9.com/terms.php" class="tablink">TERMS</a> | 
-        		<a href="http://www.thewhole9.com/community_builders.php" class="tablink">COMMUNITY BUILDERS</a> | 
-        		<a href="http://www.thewhole9.com/featuredbands.php" class="tablink">FEATURED BANDS</a> | 
-        		<a href="http://www.thewhole9.com/newsletters.php" class="tablink">NEWSLETTERS</a> | 
-        		<a href="http://www.thewhole9.com/resources.php" class="tablink">RESOURCES</a>
-        		
-				</td>
-      </tr>
-    </tbody></table>
+    <td>MEMBER NAME</td>
+    <td>
+      <label>
+        <input type="text" name="username" id="username" value="">
+        </label>
     </td>
   </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>PASSWORD</td>
+    <td><input type="password" name="password" id="password" value=""></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><a href="forgotSmall.php" class="password_link" id="PWLK">Forgot password?</a>
+    	<div onclick="document.formLogin.submit();" id="btnLoginSubmit"><span>Login</span></div>
+    	    </td>
+  </tr>
 </tbody></table>
+</form>
+</div>
+
+  <div id="profileLeft">
+  
+  <div class="leftBanner">PRIVACY POLICY</div><p style="margin-left:17px;padding-right:10px;font-size:12px;">The Whole 9 takes your privacy seriously and urges you to read our privacy policy carefully and to make note of your rights under this policy.<br><br>
+
+      <span class="orangebold">Changes to this Privacy Statement</span><br>
+<br>
+From time to time, The Whole 9 may use customer information for new purposes not previously disclosed in this privacy notice. If our information practices change at some time in the future we will post the policy changes here. If you are concerned about how your information is used, you should check back to our Privacy Policy periodically.<br><br>
+
+ 
+
+<strong>WHAT INFORMATION DOES THE WHOLE 9 GATHER AND/OR TRACK ABOUT YOU?</strong><br><br>
+
+ 
+
+<span class="orangebold">Personally Identifying Information</span><br><br>
+The Whole 9 collects personal information when you register with us, when you use our services, when you visit our web pages or the pages of certain partners, or when you write or phone us. The Whole 9 may combine information about you that we have with information we obtain from business partners or other companies to better serve you, and to administer our business.<br><br>
+
+ 
+
+When you register we gather contact information (such as your name, phone number and email address) and demographic information (like your birth date, gender, zip code, occupation and personal interests). Should you choose to build a creative portfolio on The Whole 9, you may also elect to supply your address, work history, business name, and information about your training and education.<br><br>
+
+ 
+
+The Whole 9 collects information about your transactions with us and possibly with some of our business partners who act on our behalf to provide services to you. This may include information about your use of the services that we offer.<br><br>
+
+ 
+
+<span class="orangebold">Anonymous Information</span><br><br>
+The Whole 9 also gathers anonymous information, which may be used or shared with third parties. This information does not personally identify you but may be helpful for improving the services we offer. Generally this information is collected through "traffic data" and may entail the use of "cookies," "IP addresses," or other numeric codes used to identify a computer.<br><br>
+
+ 
+
+Cookies: "Cookies" give users special, random IDs that are small text files, which are stored on the hard drive of a user's computer. The Whole 9 employs cookies to recognize you and your access privileges for certain locations on the Web site, as well as to track site usage. Subscribers who do not accept cookies from the Web site cannot access many areas of the Web site.<br><br>
+
+ 
+
+IP Addresses: The Whole 9 also logs IP addresses for systems administration and troubleshooting purposes. (Your IP address indicates the location of your computer on the Internet.) The Whole 9 does not log IP addresses to track your session, nor do we link IP addresses to anything personally identifiable.<br><br>
+
+ 
+
+Credit Card Information: If you use a credit card to pay for The Whole 9 service, we may retain your credit card information in order to renew your account in the event you elect to renew your subscription. When we do retain credit card information, we keep it secure and separate from other demographic information you may have given us. We do not share credit card information.<br><br>
+
+ 
+
+<strong>WITH WHOM DOES THE WHOLE 9 SHARE THE INFORMATION IT GATHERS AND/OR TRACKS?</strong><br><br>
+
+ 
+
+<span class="orangebold">Personally Identifying Information</span><br><br>
+As previously stated, The Whole 9 takes the privacy of its customers seriously and, therefore, you have the ability to control how we use your personally identifying information by telling us if you wish to opt-out of certain uses of your information, as described in greater detail in the "Opting Out" provision below.<br><br>
+
+The Whole 9 may, on occasion, choose to share personally identifying information collected about subscribers with select trusted third parties who work on behalf of or with The Whole 9 under confidentiality agreements. These companies may use your personal information to help The Whole 9 communicate with you about offers from The Whole 9. However, these companies do not have any independent right to share this information. If you prefer not to have your personally identifying information shared with select third parties, please see the "Opting Out" provision below.<br><br>
+
+ 
+
+Personal information about you as an individual subscriber may be shared, regardless of your "opt-out" status, if it is required by law or in the good-faith belief that such action is necessary to: (1) comply with the law or comply with legal process served on The Whole 9; and (2) protect and defend the legitimate business interests, rights or property of The Whole 9, its users, advertisers, customers, sponsors, advertisers or affiliates.<br><br>
+
+Customer Requests for Personal Information: Upon your request, The Whole 9 will provide you with its record of the personal information you gave us at registration. For security reasons, this information will only be sent to the e-mail address on file for the subscriber ID associated with it.<br><br>
+
+ 
+
+Correspondence with The Whole 9: If you send us personal correspondence, such as e-mails or letters, or if other users or third parties send correspondence to The Whole 9 about your activities or postings on the Web site, The Whole 9 may collect such information into a file specific to you. All submissions become property of The Whole 9.<br><br>
+
+ 
+
+<span class="orangebold">Anonymous Information</span><br><br>
+The Whole 9 also shares the information it gathers in a compiled format with advertisers and other partners. The compiled format does not include personally identifying information.<br><br>
+
+ 
+
+<strong>WHAT DOES THE WHOLE 9 DO WITH THE INFORMATION IT GATHERS AND/OR TRACKS?</strong><br><br>
+
+ 
+
+Data Security: To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to protect the information we collect online, including SSL security for credit card submissions.<br><br>
+
+ 
+
+Account Maintenance: The Whole 9 may utilize the contact information you provided at registration, such as your telephone number and e-mail address, to contact you regarding account status, changes to the subscriber agreement, and to confirm registration.<br><br>
+
+ 
+
+Service Updates and Email Promotions: Using the contact information and email addresses provided at registration, The Whole 9 periodically sends promotional messages to its users about services offered by The Whole 9 and notifies users of new features or changes that may be made to these services.<br><br>
+
+ 
+
+The Whole 9 may also elect to send promotional messages on behalf of selected third parties whose products or services we think may be of interest to you. If you prefer not to receive promotional e-mails from The Whole 9, please see the "Opting Out" provision below.<br><br>
+ 
+
+<span class="orangebold">THIRD PARTY PARTNERS AND LINKS TO OTHER WEB SITES<br>
+</span><br>
+
+The Whole 9 is not responsible for the content or the privacy policies of Web sites to which it may link. This policy applies solely to information collected by The Whole 9.<br><br>
+
+The Whole 9 Provider Partner Products &amp; Services: While visiting the Web site, you may decide to purchase a product or service through one of our provider partners whose services are promoted or advertised on the site. If you do so, you will be acting under the guidelines of the third party provider's privacy policy, if it has one. The Whole 9 cannot make guarantees or a warranty as to the nature of a third party’s use of your personal information.<br><br>
+
+ 
+
+<span class="orangebold">OPTING-OUT, CORRECTIONS AND CANCELLATIONS</span><br><br>
+
+If you are already a registered user with The Whole 9, you may manage your promotional e-mail preferences by "opting-out" of further email contact from The Whole 9 (excepting notification of major changes to the service) directly by logging in, going to Account Information and selecting which emails you would like to receive under EMAIL OPTIONS.<br><br>
+
+You may also correct information that is no longer accurate or delete your account completely on this page. If you have additional questions, please go to <a href="contact.php" class="orangelink">CONTACT US</a>, or please contact:<br><br>
+
+ 
+
+<strong>The Whole 9<br>
+Attn: Member Services<br>
+6101 Washington Blvd.<br>
+Culver City, CA 90232 USA</strong></p>
+  
+  
+  
+    
+    
+    
+    
+    
+
+
+	  
+    </div>
+  
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+  
+  
+ <div id="homeRight">
+  <div class="rightBanner">QUESTION OF THE DAY</div>
+    <div class="homeright_TextLarge" onclick="window.open('http://thewhole9.com/blogs/question/','_blank');" style="cursor: pointer;"><a>What’s the best trip you took this year?</a></div>
+ 
+  <div class="rightBanner"><a class="btnViewMore" href="jobs.php"><span>View More</span></a>JOBS, ETC.</div>
+  
+     <div class="homeright_Row ">Call for Artists! SustainAbility: an EcoArt Exhibition<br><a href="http://www.thewhole9.com/job_read.php?j=1691" class="home_right_link">(read more)</a></div>
+ 
+      <div class="homeright_Row lighter">2nd Annual All Women Online Art Competition<br><a href="http://www.thewhole9.com/job_read.php?j=1690" class="home_right_link">(read more)</a></div>
+ 
+      <div class="homeright_Row ">Call for Portraits. International Portrait Art Contest<br><a href="http://www.thewhole9.com/job_read.php?j=1689" class="home_right_link">(read more)</a></div>
+ 
+     <div class="rightAd">
+      <a href="tw9adClick.php?i=83" target="_blank"><img src="imagesAds/83.jpg" width="300" border="0" alt=""></a>
+  </div>
+  
+  
+  <div class="rightAd">
+       <a href="tw9adClick.php?i=81" target="_blank"><img src="imagesAds/81.jpg" width="300" border="0" alt=""></a>
+  </div>
+  
+  
+    
+</div></div>
+<div id="footer">
+<div id="footer_nav">
+      <div id="footer_menu">
+      <ul>
+        <li>© 2012 THEWHOLE9.COM</li>
+        <li><a href="http://www.thewhole9.com/contact.php">CONTACT</a></li>
+        <li><a href="http://www.thewhole9.com/privacy.php">PRIVACY</a></li>
+        <li><a href="http://www.thewhole9.com/terms.php">TERMS</a></li>
+        <li><a href="http://www.thewhole9.com/community-builders.php">COMMUNITY BUILDERS</a></li>
+        <li><a href="http://www.thewhole9.com/featuredbands.php">FEATURED BANDS</a></li>
+        <li><a href="http://www.thewhole9.com/newsletters.php">NEWSLETTERS</a></li>
+        <li style="padding:0;"><a href="http://www.facebook.com/TheWhole9Community" target="_blank"><img src="images/facebook.jpg" alt="Facebook" border="0"></a></li>
+      </ul>
+      </div>
+    </div>
+</div>
+
+
+
 
 
 <!-- Start Google tag -->
@@ -193,174 +486,6 @@ qacct:"p-334M-t3grRDyM"
 <noscript>
 <img src="/secure.quantserve.com/pixel/p-334M-t3grRDyM.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
-<!-- End Quantcast tag --></td>
-                </tr>
-              </tbody></table>
-              </td>
-            <td valign="top" width="17" background="images/column.gif">&nbsp;</td>
-            <td valign="top" class="homeBG" width="300">
-            <form action="http://www.thewhole9.com/" method="post" name="form1">
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td class="bggray" align="left">
-				<table width="100%" border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						<td class="tahoma_white2" valign="middle" width="50%"><strong>LOG IN </strong></td>
-						<td>
-							<div align="right">
-								</div>
-						</td>
-					</tr>
-					<tr>
-						<td class="helvetica11" colspan="2" valign="middle"><span class="helvetica11dark"><img src="images/spacer.gif" height="4" width="30"></span></td>
-					</tr>
-					<tr>
-						<td class="helvetica11" width="50%">
-																<input name="username" type="text" class="textfield120f11" value="MEMBER NAME" size="11" maxlength="25" onfocus="if(this.value=='MEMBER NAME'){this.value=''}" onblur="if(this.value==''){this.value='MEMBER NAME'}">
-						</td>
-						
-						<td align="right">
-							<input name="password" type="password" class="textfield120" value="" size="11" maxlength="25">
-						</td>
-					</tr>
-					<tr>
-						<td class="helvetica11" colspan="2" valign="middle"><span class="helvetica11dark"><img src="images/spacer.gif" height="4" width="30"></span></td>
-					</tr>
-					
-					<tr>
-								<td class="helvetica11" width="50%"><span style="float:left"><a href="forgot.php">Forgot Password?</a>
-                  </span>
-                  <input type="hidden" name="Submit" value="SubmitLogin"></td>
-						<td align="right"><input type="image" src="images/button_enter.gif"></td>
-					</tr>
-					
-			
-					
-				</tbody></table>
-</td>
-		</tr>
-		
-		
-		
-		
-		
-		<tr>
-			<td class="helvetica11dark" bgcolor="#FFFFFF"><img src="images/spacer.gif" height="8" width="17"></td>
-		</tr>
-		
-		<tr>
-			<td class="helvetica11dark" bgcolor="#FFFFFF">
-					<img src="images/bnw.jpg"><br>
-					<iframe width="300" height="100" scrolling="no" style="position: relative; display: block; width: 300px; height: 100px;" src="http://bandcamp.com/EmbeddedPlayer/v=2/track=3775473688/size=grande/bgcol=2a1648/linkcol=ff7522/" allowtransparency="true" frameborder="0"><a href="http://peaceproject.bandcamp.com/track/brave-new-world">Brave New World by Peace Project</a></iframe>
-			</td>
-		</tr>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		<tr>
-			<td class="helvetica11dark" bgcolor="#FFFFFF"><img src="images/spacer.gif" height="8" width="17"></td>
-		</tr>
-
-	<tr>
-			<td class="helvetica11dark" style="height:90px;" valign="top" height="102">
-												<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td class="home_deepblue_td"><span class="whtBlok20">QUESTION OF THE DAY!</span></td>
-                  </tr>
-                  <tr>
-                    <td class="helv14_darkblue" width="192">
-                    		<h2 class="entry-title"><a href="http://thewhole9.com/blogs/question/2011/05/26/what-has-shocked-you-lately/" title="Permalink to What has shocked you lately?" rel="bookmark">What has shocked you lately?</a></h2>																				</td>
-                  </tr>
-                </tbody></table>
-			</td>
-	</tr>
-
-		
-		
-		
-		
-			<tr>
-													<td bgcolor="white"><img src="images/spacer.gif" height="8" width="25"></td>
-												</tr>
-												<tr>
-													<td class="home_deepblue_td"><span class="whtBlok20">NEWS &amp; EVENTS</span></td>
-												</tr>
-												<tr>
-													<td class="tahoma12" style="padding: 0px 5px;">
-													  <p style="font-size: 11px;" class="style16">
-    																<span class="style17" style="font-weight: bold;"><a href="http://www.thewhole9.com/creation" target="_blank">CREATE YOUR OWN REALITY</a></span><br>
-    																Tuesday, June 28th, 7:00 - 8:45pm<br><br>
-    																Learn how to manifest change, shift out of repeating patterns, and choose and maintain a new way of...<a href="http://www.thewhole9.com/creation" target="_blank"><i>(read more)</i></a></p>
-<p style="font-size: 11px;" class="style16">
-    																<span class="style17" style="font-weight: bold;"><a href="http://www.thewhole9.com/yoga" target="_blank">YOGA IN AN ART GALLERY?!</a></span><br>
-    																Saturday, May 28th, 9:30 - 10:45am<br><br>
-    																This class is open to all levels, and Yoga Instructor, Whole 9 member, and artist, Charlene Maguire...<a href="http://www.thewhole9.com/yoga" target="_blank"><i>(read more)</i></a></p>
-<p style="font-size: 11px;" class="style16">
-    																<span class="style17" style="font-weight: bold;"><a href="http://www.thewhole9.com/gethungvideo" target="_blank">ARTISTS &amp; PHOTOGRAPHERS:  GET HUNG!</a></span><br>
-    																<br><br>
-    																Get great tips on packaging and marketing yourself, goal-setting and how to get your work into...<a href="http://www.thewhole9.com/gethungvideo" target="_blank"><i>(read more)</i></a></p>
-													</td>
-												</tr>
-		
-		
-				
-		
-		
-
-		
-		
-				
-							
-		<tr>
-			<td bgcolor="#FFFFFF"><img src="images/spacer.gif" height="8" width="17"></td>
-		</tr>					
-							
-	</tbody></table>
-</form>
-            
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-    <td>
-      <a href="tw9adClick.php?i=62" target="_blank"><img src="imagesAds/62.jpg" width="300" border="0"></a>
-    </td>
-  </tr>
-	  
-  
-    <tr>
-    <td bgcolor="white"><img src="images/spacer.gif" width="300" height="8" border="0"></td>
-  </tr>
-  <tr>
-    <td>
-       <a href="tw9adClick.php?i=63" target="_blank"><img src="imagesAds/63.jpg" width="300" border="0"></a>
-    </td>
-  </tr>
-    
-  
-    
-  
- 
-    
-  
-  <tr>
-    <td bgcolor="white"><img src="images/spacer.gif" width="300" height="8" border="0"></td>
-  </tr>
-  
-</tbody></table>            </td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-				<td width="17" valign="top" background="images/column.gif"><img src="images/spacer.gif" width="17" height="50"></td>
-			</tr>
-</tbody></table>
-
+<!-- End Quantcast tag --></div>
 
 </body></html>
