@@ -1,36 +1,777 @@
-<!--The following is the downloaded HTML source of the zello.com privacy policy that was archived on 2012-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120619192615id_/http%3A//zello.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zello.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230205135id_/http%3A//zello.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <title>Zello. Instant talk.</title>
+    <title>Zello. Live conversation.</title>
     <meta name="description" content="Zello Walkie Talkie">
     <meta name="author" content="Zello Inc">
 
+    
+    
+
+    
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/jquery-1.7.min.js"></script>
+    <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/jslibs/jquery-1.7.min.js"></script>
     <script src="/jslibs/bootstrap/js/bootstrap.min.js"></script>
     <script src="/jslibs/jquery.cookie.js"></script>
     <script src="/jslibs/jq-bbq.js"></script>
     <script src="/jslibs/jquery.tmpl.min.js"></script>
     <script src="/jslibs/bootstrap-typeahead.js"></script>
     <script src="/jslibs/knockout.js"></script>
+    <script src="/jslibs/sprintf.js"></script>
     <script src="/jslibs/json2.js"></script>
+    <script src="/jslibs/phpjs.js"></script>
 
     <script src="/jslibs/md5.js"></script>
 
     <script type="text/javascript" src="/jslibs/jgrowl/jquery.jgrowl.js"></script>
 
+    <script src="/jslibs/ajaxSubmit/jquery.ajaxsubmit.js"></script>
+    <script src="/jslibs/chosen/chosen.jquery.min.js"></script>
+    <link href="/jslibs/chosen/chosen.css" rel="stylesheet">
+
+    <script src="/jslibs/jcrop/js/jquery.Jcrop.min.js"></script>
+    <script src="/jslibs/jcrop/js/jquery.color.js"></script>
+    <link href="/jslibs/jcrop/css/jquery.Jcrop.min.css" rel="stylesheet">
+
     <script>
         var Zello = {};
         Zello.pageRequested = '/privacy';
-        Zello.nonce = "qzc5cntiquxhlit4aj7ktzv07suqli4187xalgj1078cfr7g14rlucbsvw9654x3";
+        Zello.nonce = "1ezawkom91yf4xam7w1o3u3cdq79lh0cmpd80sl0j95ex6quti8n21p6in6uvww8";
+        Zello.localeData = {
+    "confirmation_email_body": "To associate this e-mail address (%email%) with your Zello account (%account%) we need to confirm that this e-mail address really belongs to you.\n\nPlease click the link below to verify your e-mail address:\nhttp://%host%/user/verify_email?code=%code%&email=%encodedEmail%\n\nThe link will expire in 24 hours.\n\nIf you did not register at Zello, please ignore this e-mail.\n\nThanks,\nZello (previously Loudtalks)\nwww.zello.com",
+    "support_service_name": "Zello Support Service",
+    "forgot_password_email_subject": "Zello password help",
+    "forgot_password_email_multi_body": "Hi,\n\nWe received a password help request, submitted via http://zello.com. If you want to change your Zello password click the link corresponding to the username, for which you want to change the password, below to continue. If you don't want to change the password just ignore this email.\n\n%s\n\nIf the link doesn't work copy and paste it into your browser's address line.\n\nZello Support",
+    "forgot_password_email_single_body": "Dear %s,\n\nWe received a password help request, submitted via http://zello.com. If you want to change your Zello password click the link below to continue. If you don't want to change the password just ignore this email.\n\n%s\n\nIf the link doesn't work copy and paste it into your browser's address line.\n\nZello Support",
+
+    "shared_message_title_from_user_to_channel": "%user% to channel &quot;%channel%&quot;",
+    "shared_message_title_from_user_to_user": "%user1% to %user2%",
+    "shared_message_title_two_users": "%user1% and %user2%",
+    "shared_message_title_two_users_to_channel": "%user1% and %user2% to channel &quot;%channel%&quot;",
+
+    "shared_message_title_three_users_to_channel": "%user1%, %user2% and %user3% to channel &quot;%channel%&quot;",
+
+    "shared_message_more_users_label_plural_0": "more",
+    "shared_message_more_users_label_plural_1": "more",
+    "shared_message_more_users_label_plural_2": "more",
+    "shared_message_more_users_label_plural_3": "more",
+    "shared_message_more_users_label_plural_4": "more",
+    "shared_message_more_users_label_plural_5": "more",
+
+    "shared_message_title_more_than_three_users_to_channel": "%user1%, %user2%, %user3% and %othersCount% %othersCountLabel% to channel &quot;%channel%&quot;",
+
+    "shared_message_page_title": "Listen to Zello: %messageTitle% shared by %user%",
+
+    "shared_message_report": "Report abusive content",
+    "shared_message_report_sending": "Sending report...",
+    "shared_message_report_sent": "Report saved, thank you!",
+
+    "shared_message_download_mp3": "Download mp3",
+
+    "time_since_year_plural_0": "year",
+    "time_since_year_plural_1": "years",
+    "time_since_year_plural_2": "years",
+    "time_since_year_plural_3": "years",
+    "time_since_year_plural_4": "years",
+    "time_since_year_plural_5": "years",
+    "time_since_month_plural_0": "month",
+    "time_since_month_plural_1": "months",
+    "time_since_month_plural_2": "months",
+    "time_since_month_plural_3": "months",
+    "time_since_month_plural_4": "months",
+    "time_since_month_plural_5": "months",
+    "time_since_week_plural_0": "week",
+    "time_since_week_plural_1": "weeks",
+    "time_since_week_plural_2": "weeks",
+    "time_since_week_plural_3": "weeks",
+    "time_since_week_plural_4": "weeks",
+    "time_since_week_plural_5": "weeks",
+    "time_since_day_plural_0": "day",
+    "time_since_day_plural_1": "days",
+    "time_since_day_plural_2": "days",
+    "time_since_day_plural_3": "days",
+    "time_since_day_plural_4": "days",
+    "time_since_day_plural_5": "days",
+    "time_since_hour_plural_0": "hour",
+    "time_since_hour_plural_1": "hours",
+    "time_since_hour_plural_2": "hours",
+    "time_since_hour_plural_3": "hours",
+    "time_since_hour_plural_4": "hours",
+    "time_since_hour_plural_5": "hours",
+    "time_since_minute_plural_0": "minute",
+    "time_since_minute_plural_1": "minutes",
+    "time_since_minute_plural_2": "minutes",
+    "time_since_minute_plural_3": "minutes",
+    "time_since_minute_plural_4": "minutes",
+    "time_since_minute_plural_5": "minutes",
+    "time_since_second_plural_0": "second",
+    "time_since_second_plural_1": "seconds",
+    "time_since_second_plural_2": "seconds",
+    "time_since_second_plural_3": "seconds",
+    "time_since_second_plural_4": "seconds",
+    "time_since_second_plural_5": "seconds",
+
+    "shared_message_time_since": "%count% %label% ago",
+
+
+    "plays_label_plural_0": "play",
+    "plays_label_plural_1": "plays",
+    "plays_label_plural_2": "plays",
+    "plays_label_plural_3": "plays",
+    "plays_label_plural_4": "plays",
+    "plays_label_plural_5": "plays",
+
+    "shared_message_plays_count": "%count% %label%",
+
+    "zello_channels_time_since": "%count% %label% ago",
+
+    "zello_channels_subscribers_plural_0": "subscriber",
+    "zello_channels_subscribers_plural_1": "subscribers",
+    "zello_channels_subscribers_plural_2": "subscribers",
+    "zello_channels_subscribers_plural_3": "subscribers",
+    "zello_channels_subscribers_plural_4": "subscribers",
+    "zello_channels_subscribers_plural_5": "subscribers",
+
+    "zello_channels_blocked_plural_0": "blocked",
+    "zello_channels_blocked_plural_1": "blocked",
+    "zello_channels_blocked_plural_2": "blocked",
+    "zello_channels_blocked_plural_3": "blocked",
+    "zello_channels_blocked_plural_4": "blocked",
+    "zello_channels_blocked_plural_5": "blocked",
+
+    "zello_channels_online_users_plural_0": "online user",
+    "zello_channels_online_users_plural_1": "online users",
+    "zello_channels_online_users_plural_2": "online users",
+    "zello_channels_online_users_plural_3": "online users",
+    "zello_channels_online_users_plural_4": "online users",
+    "zello_channels_online_users_plural_5": "online users",
+
+    "privacy_policy_1" :"We value your privacy. This Privacy Policy applies to your usage of the software and services provided by Zello Inc (&quot;Services&quot;). We only collect your information in order to improve the Services and will never sell or share your information with other legal entities for commercial purposes,except in the cases when it's required as a part of the Services you requested.",
+
+    "tos_1": "Your use of software and services provided at this site (&quot;Services&quot;) is subject to the terms of legal agreement between you and Zello Inc. (&quot;Zello&quot;). Zello is located at 701 Brazos Street, 16th floor, Austin, Texas 78701. By using the Services, you agree to be bound by the following terms and conditions (&quot;Terms&quot;).",
+
+    "sign_in_wrong_username_or_password": "Wrong username or password",
+    "sign_in_missing_auth_token": "Missing auth token. Refresh the page and try again.",
+    "error_database_error": "Database error",
+    "error_no_mandatory_params": "No mandatory params",
+    "confirmation_email_subject": "Confirm your e-mail address at Zello.com",
+    "app_header": "Zello walkie-talkie app",
+    "app_intro": "Zello is a <strong>free</strong> push-to-talk application for smartphones and PCs. It's lightweight, easy to use and extremely fast. Better yet, it's free and will remain free for personal use.",
+    "app_intro_2": "<strong>10 million</strong>. That's how many times users have downloaded Zello. Try it on your %sAndroid%s, %sBlackBerry%s, %siPhone%s, %sPC%s or a mix!",
+    "app_features_header": "Features",
+    "app_features_fast_header": "Fast",
+    "app_features_fast_text": "Zello conversations are almost as fast as face-to-face conversations and faster than online communications.",
+    "app_features_easy_header": "Easy to use",
+    "app_features_easy_text": "Just push the button to talk. You most likely won't have to configure anything to start using Zello.",
+    "app_features_channels_header": "One-to-many",
+    "app_features_channels_text": "Zello supports %schannels%s where you can talk to one person on up to 100 people from all over the <nobr>world &#0133; at</nobr>the same time.",
+    "app_features_history_header": "Voice history",
+    "app_features_history_text": "Re-play your conversations whenever you want.",
+    "app_features_light_header": "Lightweight",
+    "app_features_light_text": "We don't like bloated software. Zello setup is lightweight and the program uses very little system resources and memory.",
+    "app_features_loud_header": "Loud",
+    "app_features_loud_text": "You don't have to use a headset with Zello. Use what works for you: phone's speakerphone, a plugged in or built-in microphone and connected speakers, for example.",
+    "app_features_mobile_header": "Mobile",
+    "app_features_mobile_text": "Turn your phone into a two-way radio with Zello for %sAndroid%s, %sBlackBerry%s or %siPhone%s!",
+    "app_features_multilang_header": "Multilingual",
+    "app_feature_multilang_text": "Zello is available in 11 languages. More translations to come. Do you want to help translate Zello? %sStart now%s with the interactive wiki!",
+    "app_feature_compatibility_header": "Compatibility",
+    "app_feature_compatibility_text": "Zello works great over Wi-Fi and 3G, and even GPRS and EDGE.",
+    "app_screenshots_header": "Zello app gallery",
+    "app_screen_talk_screen": "Talk screen",
+    "app_screen_contact_list": "Contact list",
+    "app_screen_contact_menu": "Contact menu",
+    "app_screen_change_status": "Change status",
+    "app_screen_under_the_hood": "Under the hood",
+    "app_screen_options": "Options",
+    "app_screen_history": "History",
+    "app_screen_sign_in_to_zello": "Sign in to Zello",
+    "app_screen_connecting_zello": "Connecting Zello",
+    "app_screen_contact_list_menu": "Contact list menu",
+    "app_screen_settings": "Settings",
+    "app_screen_add_a_channel": "Add a channel",
+    "app_screen_zello_app_icon": "Zello app icon",
+    "app_screen_about_zello": "About Zello",
+    "app_screen_channels": "Channels",
+    "app_screen_my_info_screen": "My info screen",
+    "app_screen_contacts": "Contacts",
+    "app_screen_recent_conversations": "Recent conversations",
+    "app_screen_talking_to_contact": "Talking to contact",
+    "app_screen_create_a_channel": "Create a channel",
+    "contact_us_header": "Contact us",
+    "contact_us_intro_text": "Zello is based in Austin with a team in St. Petersburg, Russia.",
+    "contact_us_email": "E-mail",
+    "contact_us_email_general": "General",
+    "contact_us_email_at_work_sales": "Zello@Work sales",
+    "contact_us_email_support": "Support",
+    "contact_us_phone": "Phone",
+    "contact_us_visit_hq": "Visit Headquarters",
+    "contact_us_view_map": "View map",
+    "contact_us_general_email_value": "info@zello.com",
+    "contact_us_sales_email_value": "sales@zello.com",
+    "contact_us_support_email_value": "support@zello.com",
+    "contact_us_phone_value": "512.522.7103",
+    "contact_us_address_value": "701 Brazos Street<br/>16th floor <br/>Austin, Texas 78701",
+    "contact_us_maps_url_value": "http://maps.google.com/maps?q=701+Brazos+Street+Austin,+Texas+78701",
+    "welcome_back_from_loudtalks": "<strong>Loudtalks</strong> is now Zello! Welcome back",
+    "home_header": "Live conversations",
+    "home_sub_header": "For Android, BlackBerry, iPhone and PC",
+    "free_donwload": "Free download",
+    "use_link_below": "Use the link below or visit <strong>zello.com</strong> on your device",
+    "zello_for_iphone": "Zello for iPhone",
+    "zello_for_android": "Zello for Android",
+    "zello_for_blackberry": "Zello for BlackBerry",
+    "zello_for_pc": "Zello for PC",
+    "live_voice_chat": "Live voice chat",
+    "start_your_channel": "Start your own public or private channel. <br/>Or, join one of 200,000 existing channels.",
+    "explore_zello_channels": "Explore Zello channels",
+    "walkie_talkie_app": "Walkie-talkie app",
+    "app_brief": "Push the button for instant, radio-style communication. It's handier than phone calls and SMS plus it's free.",
+    "learn_more": "Learn more",
+    "shared_message_info_to_channel": "to channel",
+    "shared_message_info_to": "to",
+    "shared_messages_shared_by": "shared by",
+    "timer_short_min": "min",
+    "timer_short_sec": "sec",
+    "shared_messages_message_not_available_title": "The message you have requested is not available",
+    "shared_messages_message_not_available_user_deleted": "User who have shared this message, has recently deleted it.",
+    "shared_messages_message_not_available_not_uploaded": "Audio file for this shared message is not yet uploaded. Something went wrong.",
+    "shared_messages_message_not_available_converting": "Audio file for this message is not yet converted. If you have recently shared this message, you may need to wait a few minutes for the audio file to process.",
+    "shared_messages_message_not_available_sorry": "Sorry about that.",
+    "shared_messages_comments_title": "Comments",
+    "shared_messages_shared_this_zello_audio_title": "Share this Zello audio",
+    "shared_messages_latest": "Latest",
+    "long_list_more_label": "more",
+    "shared_messages_no_messages_yet": "no messages yet",
+    "shared_messages_popular": "Popular",
+    "shared_messages_intro_text": "To save and share conversations, get Zello for %sAndroid%s or %siPhone%s. From %sHistory%s, choose %sEdit%s, select the conversations to share. Here, you can share them in sms, e-mail, Twitter or Facebook.",
+    "shared_messages_list_nav_popular": "Popular",
+    "shared_messages_list_nav_fresh": "Fresh",
+    "shared_messages_list_nav_search_field_alt_to_channel": "to channel",
+    "shared_messages_list_nav_search_field_help_to_channel": "Channel in which the message was sent",
+    "shared_messages_list_nav_search_field_alt_to_user": "to user",
+    "shared_messages_list_nav_search_field_help_to_user": "User to whom the message was sent",
+    "shared_messages_list_nav_search_field_alt_from_user": "from user",
+    "shared_messages_list_nav_search_field_help_from_user": "User who has sent the message",
+    "shared_messages_list_nav_search_field_alt_shared_by": "shared by",
+    "shared_messages_list_nav_search_field_help_shared_by": "User who has shared the message",
+    "shared_messages_list_nav_search_field_alt_title_and_description": "title and description",
+    "shared_messages_list_nav_search_field_help_title_and_description": "Search in title and description",
+    "button_search": "Search",
+    "label_no_results": "No results",
+    "shared_messages_shared_from_channel": "from channel",
+    "pager_previous_link": "Prev",
+    "pager_next_link": "Next",
+    "shared_messages_main_title": "Zello: Shared messages",
+    "user_home_welcome": "Welcome, %s",
+    "user_home_welcome_message": "Welcome to your personal playground at Zello.",
+    "user_home_edit_shared_message_title": "Edit shared message details",
+    "user_home_edit_shared_message_message_title": "Title",
+    "user_home_tab_account": "Account",
+    "user_home_tab_profile": "Profile",
+    "user_home_change_your_profile_settings": "Edit your public profile",
+    "user_name": "Display name",
+    "user_location": "Location",
+    "user_website": "Website",
+    "user_languages": "Languages",
+    "user_select_three_languages": "Select up to three languages",
+    "user_about": "About",
+
+    "error_user_profile_empty_chars_name": "Display name contains empty chars",
+    "error_user_profile_too_long_name": "Display name is too long",
+    "error_user_profile_too_long_location": "Location is too long",
+    "error_user_profile_too_long_website": "Website URL is too long",
+    "error_user_profile_too_long_about": "About text is too long",
+
+    "status_changing_user_profile": "Updating public profile...",
+
+    "user_home_tab_userpic": "User picture",
+    "user_home_delete_picture_button": "Delete picture",
+    "user_home_userpic_delete_confirm": "Are you sure you want to delete user picture?",
+    "user_home_upload_new_picture_button": "Upload new picture",
+    "user_home_upload_picture_button": "Upload picture",
+
+    "status_deleting_user_picture": "Deleting user picture...",
+    "status_user_home_uploading_userpic": "Uploading picture...",
+    "status_user_home_uploading_voice": "Uploading voice message...",
+
+    "user_home_upload_userpic_title": "Upload user picture",
+    "user_home_upload_userpic_help": "Maximum resolution for uploaded image: 1200x1200. Image will be scaled to 320x320 after optional cropping",
+
+    "error_upload_failed": "Upload failed",
+    "error_uploaded_file_is_not_image": "Uploaded file is not image",
+    "error_uploaded_image_too_big": "Uploaded image is too big. Max resolution is 1200x1200.",
+    "error_could_not_save_uploaded_image": "Could not save uploaded image",
+    "error_image_not_uploaded": "No image uploaded",
+
+    "user_home_tab_voice": "Voice message",
+    "user_home_upload_new_voice_button": "Upload new voice message",
+    "user_home_upload_voice_button": "Upload voice message",
+    "user_home_delete_voice_button": "Delete voice message",
+    "user_home_delete_voice_confirm": "Are you sure you want to delete channel voice message?",
+    "status_deleting_user_voice": "Deleting voice message",
+    "status_deleting_channel_voice": "Deleting channel voice message",
+    "status_deleting_channel_picture": "Deleting channel picture",
+    "user_home_delete_channel_picture_confirm": "Are you sure you want to delete channel picture?",
+
+    "user_home_upload_channel_userpic_title": "Upload channel picture",
+    "user_home_upload_channel_voice_title": "Upload channel voice message",
+    "status_user_home_uploading_channel_userpic": "Uploading channel picture",
+    "status_user_home_uploading_channel_voice": "Uploading channel voice message",
+
+    "user_home_upload_voice_header": "Upload voice message",
+    "user_home_upload_voice_help": "Upload mp3 file. Maximum file size is 100 kb.",
+
+    "error_uploaded_file_not_mp3": "Uploaded file is not mp3 audio",
+    "error_uploaded_voice_too_big": "Uploaded file is bigger than 100Kb",
+
+    "error_could_not_save_uploaded_voice": "Could not save uploaded voice message",
+
+
+    "user_home_channel_categories": "Categories",
+    "user_home_channel_categories_placeholder": "Select up to three categories...",
+    "user_home_channel_languages_placeholder": "Select up to three languages...",
+
+    "user_home_channel_languages": "Languages",
+
+    "channel_category_news": "News",
+    "channel_category_politics": "Politics",
+    "channel_category_sports": "Sports",
+    "channel_category_humor": "Humor",
+    "channel_category_local": "Local",
+    "channel_category_religion": "Religion",
+    "channel_category_technology": "Technology",
+    "channel_category_health": "Health",
+    "channel_category_dating": "Dating",
+    "channel_category_cars": "Cars",
+    "channel_category_marketplace": "Marketplace",
+
+    "user_home_create_channel_channel_website": "Website",
+    "user_home_create_channel_channel_location": "Location",
+
+    "user_home_loading_channel_profile": "Loading channel profile...",
+
+    "error_this_is_not_your_channel": "This is not your channel",
+
+    "user_home_tab_password": "Password",
+    "user_home_my_channels": "My channels",
+    "user_home_my_shared_messages": "My shared messages",
+    "user_home_change_your_account_settings": "Change your basic account settings",
+    "user_home_settings_email": "E-mail",
+    "user_home_email_not_verified": "Your e-mail address is not yet verified.",
+    "user_home_click_here_to_resend_verification_email": "%sClick here%s to resend verification e-mail",
+    "user_home_you_can_set_email": "You can set your e-mail and verification code will be sent to you",
+    "user_home_phone": "Phone",
+    "button_save_changes": "Save changes",
+    "button_upload": "Upload",
+    "user_home_remove_account_header": "Remove account",
+    "user_home_remove_account_confirmation": "Are you sure you want to remove your account? This cannot be undone",
+    "user_home_remove_account_status": "Removing account...",
+    "user_home_remove_account_done": "Account removed",
+    "user_home_you_can_remove_account": "You can remove your account from Zello. This action cannot be undone.",
+    "user_home_click_here_to_remove_account": "%sClick here%s to proceed and remove your account",
+    "user_home_change_password": "Change your password",
+    "user_home_current_password": "Current password",
+    "user_home_forgot_password": "Forgot your password?",
+    "user_home_new_password": "New password",
+    "user_home_confirm_password": "Confirm password",
+    "user_home_shared_deleted": "deleted",
+    "user_home_shared_not_uploaded": "not uploaded",
+    "user_home_shared_getting_message": "getting message",
+    "user_home_shared_go_to_message": "Go to message page",
+    "user_home_shared_edit_message": "Edit shared message",
+    "user_home_shared_remove_message": "Remove shared message",
+    "user_home_no_shared_messages_yet": "You haven't shared any messages yet",
+    "user_home_create_channel_button": "Create channel",
+    "user_home_change_channel_details_title": "Change channel details",
+    "user_home_manage_channel_moderators_title": "Moderators",
+    "user_home_start_typing_user_name_to_add_moderator": "Start typing username to add him as moderator",
+    "user_home_add_moderator_to_channel_placeholder": "Add moderator...",
+    "user_home_show_channel_moderators": "Show moderators",
+    "user_home_manage_channel_blocked_list_title": "Blocked users",
+    "user_home_start_typing_user_name_to_unblock": "Start typing username to unblock him",
+    "user_home_unblock_user_placeholder": "Unblock user...",
+    "user_home_show_channel_blocked_users": "Show blocked users",
+    "user_home_has_more_label": "has more",
+    "user_home_no_channels_found": "No channels found",
+    "user_home_unblock_user_from_channel": "Unblock user %s",
+    "user_home_remove_user_from_moderators_list": "Remove user %s from moderators list",
+    "user_home_pass_channel_to_moderator": "Set %s as channel owner",
+    "user_home_edit_shared_message_description": "Shared message description",
+    "button_close": "Close",
+    "user_home_channel_name": "Channel name",
+    "user_home_create_channel_channel_description": "Channel description",
+    "user_home_create_channel_channel_options": "Channel options",
+    "user_home_create_channel_talk_channel": "Talk channel",
+    "user_home_create_channel_broadcasting_channel": "Broadcasting channel",
+    "user_home_create_channel_public_channel": "Public channel",
+    "user_home_create_channel_require_password": "Require password",
+    "user_home_create_channel_password": "Password",
+    "user_home_create_channel_confirm_password": "Confirm password",
+    "user_home_create_channel_option_promote": "Promote",
+    "user_home_create_channel_option_listen_only": "Listen only",
+    "user_home_create_channel_option_explicit": "Explicit content",
+    "user_home_create_channel_option_has_password": "Has password",
+    "user_home_unblock_all_users": "Unblock all users",
+    "user_home_unblock_all_users_confirm_1": "Are you sure that you want to unblock all users from channel %s? In order to see these changes you will need to restart your client app",
+    "user_home_unblock_all_users_confirm_2": "This action cannot be undone. Proceed?",
+    "user_home_unblocking_all_users_status": "Unblocking all users from channel %s",
+    "sign_in_to_zello_header": "Sign in to Zello",
+    "sign_up_link": "Don't have an account? %sSign up!%s It only takes a minute",
+    "sign_in_username": "Username",
+    "sign_in_password": "Password",
+    "menu_forgot_password": "Forgot your password?",
+    "button_sign_in": "Sign In",
+    "work_hide_calculator": "Hide calculator",
+    "work_show_calculator": "Show calculator",
+    "work_calculator_users_label": "users",
+    "work_calculator_users_help": "Number of users, who will connect to the system from mobile devices and PCs.",
+    "work_calculator_gateways_label": "gateways",
+    "work_calculator_gateways_help": "Number of gateways to two-way radio system. Only applicable if you want to interoperate between Loudtalks and two way radio. You'll typically need one gateway per site, you want to connect.",
+    "work_main_header": "Push-to-talk",
+    "work_main_subheader": "Any device, any network",
+    "work_get_zello_at_work_now": "Get Zello@Work Now",
+    "work_intro_text": "Two minutes setup, free for 5 users",
+    "work_features_header": "Features",
+    "work_features_use_popular_phones_header": "Use Popular Phones",
+    "work_features_use_popular_phones_text": "Zello already connects 10 million+ consumers with iPhones, Androids and Blackberries. Use your clients’ existing mobile phones. Communicate globally with software that supports 11+ languages.",
+    "work_features_moto_header": "Reach Motorola, Intermec, Windows Mobile",
+    "work_features_moto_text": "Outfit your team with push-to-talk on existing rugged devices that are perfect for field service and warehouse apps.",
+    "work_dispatch_header": "Dispatch Instantly",
+    "work_dispatch_text": "Connect Windows PCs to your mobile phones and rugged devices for instant, easy dispatch.  Reach all dispatch apps, regardless of type, from a single console.",
+    "work_private_header": "Manage Private Networks",
+    "work_private_text": "You get total control of your browser, your users, your groups, settings and updates.  All communication is secured and encrypted.  Use a WiFi network or any data plan.",
+    "work_pricing_header": "Pricing and plans",
+    "work_service_name": "Zello@Work",
+    "work_pricing_feature_1": "No commitments",
+    "work_pricing_feature_2": "No hardware",
+    "work_pricing_feature_3": "Free for 5 users",
+    "work_pricing_feature_4": "per user/month",
+    "work_pricing_text": "Zello@Work pricing is per user per month and includes the hosted service with browser administrative access.  All plans include any mix of Zello clients for iOS, BlackBerry, Android, Windows Mobile or Windows PC.  All plans include software updates and second level tech support.  Capacity is limited to number of defined users.  Pricing may change within 30 days’ notice for unpaid months, and customers may change quantities each month.  Billing anniversary is first active day.  Payments must be made from the administrative console.  Pricing is in US $.",
+    "mobile_android_title": "Zello for Android",
+    "mobile_slogan": "Get the free and fast walkie-talkie app.",
+    "mobile_android_feature_1": "Access public and private channels.",
+    "mobile_android_feature_2": "Choose button for push-to-talk.",
+    "mobile_android_feature_3": "Use with Wi-Fi or mobile data.",
+    "mobile_android_also_available_for": "Also available for %sBlackBerry%s, %siPhone%s and %sWindows PC%s",
+    "mobile_android_apk_link": "Download zello.apk",
+    "mobile_android_faq_link": "Android FAQ",
+    "mobile_go_to_www_zello_com": "Go to www.zello.com",
+    "mobile_follow_us_on_zello": "Follow us on Twitter",
+    "mobile_bb_title": "Zello for BlackBerry",
+    "mobile_bb_feature_1": "Access public and private channels.",
+    "mobile_bb_feature_2": "Use with Wi-Fi or mobile data.",
+    "mobile_bb_feature_3": "Also for friends with %sAndroid%s, %siPhone%s and %sWindows%s",
+    "mobile_bb_can_not_detect": "We can't detect your BlackBerry. Please return to this page using the browser on your phone. If you're using your phone's browser, please select the link that matches your BlackBerry OS version number.",
+    "mobile_bb_download_link": "Download Zello for",
+    "mobile_bb_bis_support": "BIS support is <b>experimental</b> and must be enabled in Zello settings. Zello may add data charges to your service plan (even with a BIS data plan including &quot;unlimited email and browsing&quot;). You can use Zello on Wi-Fi free.",
+    "mobile_bb_help_1": "Press the <strong>left convenience key</strong> for PTT, or change the button in Zello Options.",
+    "mobile_bb_help_2": "GSM network users may need to configure the APN through Zello Options > Connection APN. %sSee APN settings for some mobile operators.%s",
+    "mobile_bb_help_3": "If something doesn't work, please drop us a line at %ssupport@zello.com%s.",
+    "mobile_bb_faq_link": "BlackBerry FAQ",
+    "mobile_bb_os_detected": "OS detected",
+    "mobile_bb_download_zello": "Download Zello",
+    "channels_main_page": "Zello channels",
+    "channel_page_title": "%s",
+    "zello_channels_main_page_intro": "Join conversations with up to 100 people around the world to discuss topics that interest you.",
+    "zello_channels_list_nav_popular": "Popular",
+    "zello_channels_list_nav_fresh": "Fresh",
+    "zello_channels_list_talk_channels": "Talk channels",
+    "zello_channels_list_readonly_channels": "Broadcast (read only) channels",
+    "zello_channels_list_with_non_empty_description": "With non-empty description",
+    "zello_channels_list_without_password": "Without password",
+    "zello_channels_list_with_subscribers": "With subscribers",
+    "zello_channels_list_search_placeholder": "Search",
+    "zello_channels_updated_by": "Updated by",
+    "zello_channels_moderators_title": "Moderators",
+    "zello_channels_description_title": "Description",
+    "zello_channels_comments_title": "Comments",
+    "zello_channels_share_this_channel": "Share this Zello channel",
+    "zello_channels_popular_shared_messages": "Popular shared messages",
+    "zello_channels_latest_shared_messages": "Latest shared messages",
+    "zello_channels_password_protected_channel": "Password-protected channel",
+    "zello_channels_languages": "Languages",
+    "zello_channels_categories": "Categories",
+    "zello_channels_website": "Channel website",
+    "zello_channels_location": "Channel location",
+    "zello_channels_voice": "Channel voice message",
+    "zello_channel_connect_to_this_channel": "Connect to this channel",
+    "forgot_password_header": "Reset your Zello account password",
+    "forgot_password_instructions_header": "Enter the e-mail associated with your Zello account then click Continue.",
+    "forgot_password_instructions": "We will then email password reset instructions.",
+    "forgot_password_email": "E-mail",
+    "forgot_password_continue_button": "Continue",
+    "mobil_ios_title": "Zello for iPhone and iPad",
+    "mobile_ios_feature_1": "Access public and private channels.",
+    "mobile_ios_feature_2": "Use with Wi-Fi, 3G, EDGE, GPRS or broadband.",
+    "mobile_ios_feature_3": "Modify %sZello@work%s setting option.",
+    "mobile_ios_also_available_for": "Also available for %sAndroid%s, %sBlackBerry%s and %sWindows PC%s",
+    "forgot_password_help": "Forgot password help",
+    "forgot_password_ender_new_password_header": "Step 3. Enter the new password.",
+    "forgot_password_enter_password": "New password",
+    "forgot_password_repeat_new_password": "Repeat new password",
+    "forgot_password_button_change_password": "Change password",
+    "forgot_password_step2": "Step 2. Check your email.",
+    "forgot_password_we_sent_you_email": "We sent you the email with instructions.",
+    "forgot_password_try_again": "If you didn't receive it within 15 minutes, check in your spam folder or %stry again%s.",
+    "forgot_password_password_updated": "Password updated.",
+    "forgot_password_proceed": "Now you can use your new password to login to Zello network. For better experience we recommend you to %sdownload%s the latest version of Zello client software.",
+    "privacy_policy_main_header": "Privacy Policy",
+    "privacy_policy_how_we_collect_info_header": "The information we collect and how we use it",
+    "privacy_policy_info_you_provide_header": "The information you provide",
+    "privacy_policy_info_you_provide_text": "During the registration or your use of the Services we ask you for your personal data such as name, e-mail address, billing information. We use that information to provision the Services, contact you when necessary, and improve the Services.",
+    "privacy_policy_cookies_header": "Cookies",
+    "privacy_policy_cookies_text": "Cookies are a small piece of data used to exchange information between your browser and the server. We use cookies to store your session identifier. The server erases your cookies when you log out. We may use the permanent cookies to store some of your preferences, such as user interface language.",
+    "privacy_policy_server_logs_header": "Server logs",
+    "privacy_policy_server_logs_text": "Every time you visit the Services web interface, servers log an entry that includes date and time, your IP address, browser type, browser language, referrer and an address of the page requested. When you connect using client software, the server log file adds that includes timestamp, your IP address, your Services username, client platform and client software version. We use this information for analytical purposes in aggregated form.",
+    "privacy_policy_public_channels_header": "Public channels",
+    "privacy_policy_public_channels_text": "When you connect to a public channel, your Services username is visible to other users connected to the same channel. Public channels communication may be stored in voice history on participant's computers or mobile devices.",
+    "privacy_policy_privacy_header": "Communication privacy",
+    "privacy_policy_privacy_text": "We do not record or keep track of your voice communication in using the Service. However, the person you are talking to may save, replay and share your messages from voice history.",
+    "privacy_policy_data_storage_header": "Data storage",
+    "privacy_policy_data_storage_text": "Services uses third party hosting providers to store your data. We store your username, encrypted password, contact list and email address.",
+    "privacy_policy_disclosure_header": "Disclosure",
+    "privacy_policy_disclosure_text": "Services may disclose personally identifiable information when it's required to comply with law enforcement requests or subpoenas when you violate the %sTerms of Service%s.",
+    "privacy_policy_changes_header": "Changes",
+    "privacy_policy_changes_text": "This privacy policy may be modified from time to time. When changes are significant, we will notify you by publishing the notice in our blog at %shttp://blog.zello.com/%s.",
+    "signup_header": "Sign up for a new Zello account",
+    "signup_username": "Username",
+    "signup_username_max_chars": "64 characters maximum",
+    "signup_password": "Password",
+    "signup_repeat_password": "Repeat password",
+    "signup_email": "E-mail",
+    "signup_phone": "Phone",
+    "signup_security_code": "Security code",
+    "signup_create_button": "Create Zello Account",
+    "tos_main_header": "Terms of Service",
+    "tos_2": "Zello reserves the right to modify the Terms from time to time without notice. By continuing using the Services, you consent to such changes.",
+    "tos_accepting_header": "Accepting the Terms",
+    "tos_accepting_intro": "To use the Services and accept these Terms, you must meet the following conditions:",
+    "tos_accepting_1": "You must be 18 years or older.",
+    "tos_accepting_2": "You must provide a valid email address.",
+    "tos_accepting_3": "One legal entity may not maintain more than one free account.",
+    "tos_use_header": "Use of Services",
+    "tos_use_1": "You are responsible for maintaining your account and password security.",
+    "tos_use_2": "You are responsible for any activity that occurs on your account.",
+    "tos_use_3": "You may not use the Services for any illegal purpose.",
+    "tos_use_4": "You may not engage in any activity that interferes with or disrupts the Services.",
+    "tos_privacy_header": "Privacy",
+    "tos_privacy_1": "Zello practices with regard to the use and protection of your personal information are explained in privacy policy.",
+    "tos_privacy_2": "You agree to the use of your data in accordance with Zello's privacy policy.",
+    "tos_modifications_header": "Modifications to the Service",
+    "tos_modifications_1": "You agree that Zello may modify the Services from time to time without notice.",
+    "tos_modifications_2": "You agree that Zello may change the prices of the Services. In such case, Zello shall issue a 30 days' notice. The notice of changesmay be posted on the website or on the Services interface.",
+    "tos_modifications_3": "Zello shall not be liable to you for any changes in the Service, prices or suspension of the Services.",
+    "tos_limits_header": "Limitation of liability",
+    "tos_limits_text": "In no event shall Zello be liable to you for any damages, including but not limited to any loss, or other incidental, indirect or consequential damages of any kind arising out of the use of or inability of using the Services, even if Zello has been advised of the possibility of such damages. In no event will Zello be liable for any claim, whether in contract, tort or any other theory of liability, exceed the cost of the Services. This limitation shall apply to claims of personal injury to the extent permitted by law.",
+    "tos_general_header": "General conditions",
+    "tos_general_1": "You use the Services at your own risk. The Services are provided on &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; basis.",
+    "tos_general_2": "Technical support to free accounts is provided when possible, but not guaranteed.",
+    "tos_general_3": "You understand that Zello uses third party hosting providers to provide the hardware and bandwidth required to operate the Services.",
+    "tos_general_4": "Zello provides no warranty of any kind regarding the Services including: (i) the suitability to your need, (ii) uninterrupted, error-free or secure operation.",
+    "tos_general_5": "Zello reserves the right to refuse the Services to anyone for any reason at any time.",
+    "tos_date": "September 22, 2011",
+    "footer_menu_mobile_apps": "Mobile Apps",
+    "footer_menu_mobile_apps_android": "Android",
+    "footer_menu_mobile_apps_blackberry": "BlackBerry",
+    "footer_menu_mobile_apps_iphone": "iPhone",
+    "footer_menu_mobile_apps_pc": "PC",
+    "footer_menu_zello_channels": "Zello Channels",
+    "footer_menu_support": "Support",
+    "footer_menu_zello_at_work": "Zello@Work",
+    "footer_menu_zello_at_work_features": "Features",
+    "footer_menu_zello_at_work_pricing": "Pricing",
+    "footer_menu_zello_at_work_support": "Support",
+    "footer_menu_zello_at_work_sdk_and_api": "SDK and API",
+    "footer_menu_zello_at_work_zello_radio_over_ip": "Zello Radio over IP",
+    "footer_menu_zello_at_work_zello_vs_nextel": "Zello vs. Nextel",
+    "footer_menu_legal": "Legal",
+    "footer_menu_legal_privacy": "Privacy",
+    "footer_menu_legal_terms_of_service": "Terms of Service",
+    "footer_menu_about_zello": "About Zello",
+    "footer_menu_about_zello_blog": "Blog",
+    "footer_menu_about_zello_contact": "Contact",
+    "footer_menu_about_zello_team": "Team",
+    "follow_us_on_twitter": "Follow @Zello",
+    "footer_copyright": "&copy; 2007-2012 Zello Inc",
+    "default_page_title": "Zello. Live conversation.",
+    "meta_description": "Zello Walkie Talkie",
+    "meta_author": "Zello Inc",
+    "meta_shared_messages_description": "Shared messages from Zello walkie-talkie app",
+    "meta_shared_messages_site_name": "Listen to Zello",
+    "meta_channel_page_description": "Zello channel page",
+    "meta_user_page_description": "Zello user profile page",
+    "meta_channel_page_site_name": "Zello channels",
+    "meta_user_page_site_name": "Zello user",
+    "menu_home_link": "Home",
+    "menu_support_link": "Support",
+    "menu_contact_link": "Contact",
+    "menu_get_zello_at_work": "Get Zello@Work",
+    "menu_manage_profile": "Manage your profile",
+    "menu_manage_channels": "Manage your channels",
+    "menu_manage_messages": "Manage your shared messages",
+    "menu_sign_out": "Sign Out",
+    "menu_sign_in": "Sign In",
+    "menu_sign_up": "Don't have an account? <b>Sign Up!</b>",
+    "get_zello_title": "Get Zello for live conversations",
+    "get_zello_blackberry": "Download Zello for your Blackberry",
+    "get_zello_other_platforms": "downloads for other platforms",
+    "get_zello_all_platforms": "Install Zello for %sAndroid%s, %sBlackBerry%s, %siPhone%s or %sPC%s right now!",
+    "shared_message_from_channel": "from channel",
+    "work_support": "Support",
+    "status_sign_out": "Sign out",
+    "sign_in_empty_username": "Empty username",
+    "sign_in_empty_password": "Empty password",
+    "sign_in_get_security_token": "Get security token",
+    "sign_in_performing_sign_in": "Sign in",
+    "error_empty_email": "Empty e-mail",
+    "error_not_valid_email": "E-mail is not valid",
+    "status_senging_password_reset_request": "Sending reset password request",
+    "error_empty_password": "Empty password",
+    "error_unsecure_password": "Password should contain more than 4 characters",
+    "error_passwords_do_not_match": "Passwords do not match",
+    "updating_profile": "Updating profile...",
+    "status_changing_password": "Changing password...",
+    "user_home_remove_moderator_confirm": "Remove moderator %s from channel %s?",
+    "user_home_removing_moderator_status": "Removing moderator...",
+    "user_home_pass_channel_to_moderator_confirmation": "Are you sure you want to make %s new owner of channel &quot;%s&quot;?\nYou won't be able to manage this channel again and you won't see it in the list of your channels.",
+    "user_home_unblock_user_from_channel_confirm": "Unblock user %s in channel %s?",
+    "user_home_unblocking_user_status": "Unblocking user...",
+    "user_home_edit_channel_header": "Change channel details",
+    "user_home_create_new_channel": "Create new channel",
+    "action_saving_changes_status": "Saving changes...",
+    "user_home_shared_message_remove_confirm": "Are you sure you want to delete this shared message? This cannot be undone",
+    "user_home_removing_shared_message_status": "Removing shared message...",
+    "user_home_shared_message_removed": "Shared message deleted",
+    "error_channel_name_is_empty": "Channel name is empty",
+    "error_channel_description_is_too_long": "Description is too long, please use 280 characters",
+    "error_shared_message_description_is_too_long": "Description is too long, please use 280 characters",
+    "error_channel_password_is_empty": "Channel password is empty",
+    "error_channel_passwords_do_not_match": "Channel passwords do not match",
+    "user_home_creating_channel_status": "Create channel...",
+    "user_home_changing_channel_status": "Change channel details...",
+    "signup_empty_security_code": "Empty security code",
+    "signup_empty_username": "Empty username",
+    "signup_empty_password": "Empty password",
+    "signup_short_password": "Password should contain at least 4 characters",
+    "signup_passwords_do_not_match": "Passwords do not match",
+    "signup_creating_account": "Creating account...",
+    "error_wrong_current_password": "Wrong current password",
+    "error_change_password_failed": "Password change failed",
+    "error_email_not_valid": "Email is not valid",
+    "error_email_verification_send_failed": "Email verification send failed",
+    "signup_username_too_long": "Username can be 64 characters long maximum",
+    "signup_username_already_taken": "Username is already taken",
+    "signup_invalid_security_code": "Invalid security code",
+
+    "shared_messages_breadcrumbs": "Shared messages",
+    "channels_breadcrumbs": "Zello channels",
+
+    "shared_message_abusive_warning": "This message was marked by other visitors as abusive. Do you want to proceed to listen to this  message?",
+    "shared_message_abusive_proceed": "Yes, I understand the risks",
+    "shared_message_abusive_getback": "No, take me back",
+    "shared_message_abusive_hidewarnings": "Don't show this warning again",
+
+    "shared_messages_lang_filter_all_languages": "All languages",
+    "shared_messages_lang_filter_popular_languages": "Popular languages",
+    "language_ar": "Arabic",
+    "language_az": "Azerbaijani",
+    "language_bg": "Bulgarian",
+    "language_ca": "Catalan",
+    "language_cs": "Czech",
+    "language_da": "Danish",
+    "language_de": "German",
+    "language_en": "English",
+    "language_en-GB": "English (GB)",
+    "language_es": "Spanish",
+    "language_et": "Estonian",
+    "language_eu": "Basque",
+    "language_fa": "Persian",
+    "language_fi": "Finnish",
+    "language_fr": "French",
+    "language_gl": "Galician",
+    "language_el": "Greek",
+    "language_he": "Hebrew",
+    "language_hu": "Hungarian",
+    "language_hr": "Croatian",
+    "language_in": "Indonesian",
+    "language_id": "Indonesian",
+    "language_it": "Italian",
+    "language_iw": "Hebrew",
+    "language_ja": "Japanese",
+    "language_jv": "Javanese",
+    "language_ko": "Korean",
+    "language_lt": "Lithuanian",
+    "language_lv": "Latvian",
+    "language_md": "Moldovan",
+    "language_nb": "Norwegian Bokmål",
+    "language_ro": "Romanian",
+    "language_ms": "Malay",
+    "language_mk": "Macedonian",
+    "language_nl": "Dutch",
+    "language_pl": "Polish",
+    "language_pt": "Portuguese",
+    "language_pt-PT": "Portuguese (PT)",
+    "language_ru": "Russian",
+    "language_sl": "Slovene",
+    "language_sr": "Serbian",
+    "language_sv": "Swedish",
+    "language_tr": "Turkish",
+    "language_th": "Thai",
+    "language_uk": "Ukrainian",
+    "language_vi": "Vietnamese",
+    "language_zh": "Chinese",
+    "language_zh-Hans": "Chinese (Hans)",
+    "language_zh-Hant": "Chinese (Hant)",
+
+    "error_not_enough_params": "Not enough params",
+    "error_failed_to_get_channel_profile": "Failed to get channel profile",
+    "error_could_not_update_channel_details": "Could not update channel details",
+    "error_could_not_update_channel_metadata": "Could not update channel metadata",
+    "error_could_not_update_channel_info": "Could not update channel info",
+    "error_could_not_create_channel": "Could not create channel",
+    "error_no_tmp_image_found": "No tmp image found",
+    "error_unsupported_image_type": "Unsupported image type",
+    "error_failed_to_resize_image": "Failed to resize images",
+    "error_failed_to_set_userpic": "Failed to set userpic",
+    "error_failed_to_set_thumbnail": "Failed to set thumbnail",
+    "error_failed_to_remove_tmp_image": "Failed to remove temporary image",
+    "error_uploaded_file_is_too_big": "Uploaded file is too big",
+    "error_failed_to_upload_voice_message": "Failed to upload voice message",
+
+    "error_could_not_add_moderator": "Could not add moderator",
+    "error_could_not_remove_moderator": "Could not remove moderator",
+    "error_could_not_unblock_user": "Could not unblock user",
+
+    "zello_user_page_title": "Zello user profile: %s",
+    "zello_user_share_this_user": "Tell your friends about this Zello user",
+    "zello_user_page_languages": "Languages",
+
+    "zello_user_shared_messages": "Conversations shared by this user",
+    "zello_user_spoken_messages": "Conversations with this user",
+
+    "zello_channel_page_share_title": "Zello channel %s",
+    "zello_user_page_share_title": "Zello user %s",
+    "zello_share_html_link": "HTML link",
+    "zello_share_bb_link": "BB-code"
+
+
+
+
+
+};
+        Zello.availableLanguages = ["en", "ar", "bg", "ca", "zh", "cs", "nl", "fi", "fr", "gl", "de", "el", "he", "hu", "id", "it", "ja", "ko", "lt", "ms", "nb", "pl", "pt", "ro", "ru", "es", "sv", "tr"];
+        Zello.availableChannelCategories = ["news", "politics", "sports", "humor", "local", "religion", "technology", "health", "dating", "cars", "marketplace"];
+        Zello.lang = 'en';
+                                                
     </script>
-    <script src="/js/zello.js?version=6136"></script>
+    <script src="/js/zello.js?version=5685-1435"></script>
 
     <!-- Le styles -->
     <link href="/jslibs/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +779,7 @@
     <!--
      <link href="css/bootstrap-responsive.css" rel="stylesheet">
      -->
-    <link href="/css/zello.css?version=6136" rel="stylesheet">
+    <link href="/css/zello.css?version=5685-1435" rel="stylesheet">
     
 
     <!-- Le fav and touch icons -->
@@ -64,7 +805,7 @@
 </script>
     </head>
 
-<body>
+<body dir="ltr">
 
 
 <div class="navbar">
@@ -72,12 +813,13 @@
         <div class="container">
 
             
-            <a class="brand" href="/"><img src="/img/logo_28w.png" alt="Zello"></a>
+            <a class="brand" href="/home/"><img src="/img/logo_28w.png" alt="Zello"></a>
 
             <div class="nav-collapse">
             <ul class="nav">
                 <li>
-                    <a href="/">Home</a>
+                    <!--<a href="/home/">Home</a>-->
+                    <a href="/home/">Home</a>
                 </li>
                 <li><a href="http://support.zello.com/">Support</a></li>
                 <li><a href="/contact.htm">Contact</a></li>
@@ -93,12 +835,10 @@
                                 <li id="sign-in-menu-form">
                                     <form style="padding: 20px; padding-bottom: 0px;" id="singin-form-popup" method="POST" action="/user/signin/proceed">
                                         <fieldset>
-                                            <label>Username
-                                                <input autocomplete="off" type="text" id="sign-in-username" class="username" name="username">
+                                            <label>Username                                                <input autocomplete="off" type="text" id="sign-in-username" class="username" name="username">
                                             </label>
                                             <label>
-                                                Password
-                                                <input type="password" id="sign-in-password" class="password" name="password">
+                                                Password                                                <input type="password" id="sign-in-password" class="password" name="password">
                                             </label>
                                         </fieldset>
                                         <fieldset>
@@ -106,55 +846,212 @@
                                         </fieldset>
                                     </form>
                                 </li>
-                                <li><a href="/user/signup">Don't have an account? <b>Sign Up!</b></a></li>
                                 <li><a href="/forgot_password/">Forgot your password?</a></li>
                             </ul>
                                             </li>
                 
+                <li class="dropdown">
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#" style="padding-bottom: 0px !important;">
+                        <div class="lang-selector"></div></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/user/change-language?lang=en"><i class="icon-ok"></i> English</a></li>
+                        <li><a href="/user/change-language?lang=ru">Русский</a></li>
+                    </ul>
+                </li>
+
+
             </ul>
             </div>
 
         </div>
     </div>
 </div>
+
+<script id="get-zello-social-tmpl" type="text/x-jquery-tmpl">
+    <div class="social-big">
+            <h3 class="section-head">Get Zello for live conversations</h3>
+        {{if Zello.mobileClient}}
+
+            <p class="centered">
+            {{if Zello.mobileClientIos}}
+                <a href="http://itunes.apple.com/app/zello-walkie-talkie/id508231856?ls=1&mt=8"><img border="0" src="/img/appstore.png" width="150" alt="Download From AppStore"/></a>
+            {{/if}}
+            {{if Zello.mobileClientAndroid}}
+                <a href="https://play.google.com/store/apps/details?id=com.loudtalks"><img src="/img/googleplay.png" border="0"/></a>
+            {{/if}}
+            {{if Zello.mobileClientBB}}
+                <a href="/bb">Download Zello for your Blackberry</a>
+            {{/if}}
+            </p>
+            <p class="centered">
+                <span
+                    class="toggler closed btn btn-mobile"
+                    toggle-class="other-download-links">
+                    <i class="item-management-icon toggler opener-icon closed" />
+                    <span>downloads for other platforms</span>
+                </span>
+            </p>
+        {{/if}}
+        <div class="other-download-links {{if Zello.mobileClient}}hidden{{/if}}">
+            <p>
+                Install Zello for <a href="https://play.google.com/store/apps/details?id=com.loudtalks">Android</a>, <a href="/bb">BlackBerry</a>, <a href="http://itunes.apple.com/app/zello-walkie-talkie/id508231856?ls=1&mt=8">iPhone</a> or <a href="/data/ZelloSetup.exe">PC</a> right now!
+            </p>
+        </div>
+    </div>
+</script>
+
+<script type="text/x-jquery-tmpl" id="shared-message-title">
+    {{if metadata.title!=''}}
+        ${Zello.htmlEncode(metadata.title)}
+    {{else}}
+        {{if metadata.messages.length==1}}
+            {{if metadata.messages[0].toChannel}}
+                {{expr var params = new Object(); params.user = metadata.messages[0].from, params.channel = metadata.messages[0].toChannel; }}
+                ${Zello.ss('shared_message_title_from_user_to_channel', params)}
+            {{else}}
+                {{expr var params = new Object(); params.user1 = metadata.messages[0].from, params.user2 = metadata.messages[0].to; }}
+                ${Zello.ss('shared_message_title_from_user_to_user', params)}
+            {{/if}}
+        {{else}}
+            {{var uniquePosters={}, uniquePostersArray=[] }}
+            {{each metadata.messages}}
+                {{expr uniquePosters[from] = {from: from};}}
+            {{/each}}
+            {{each uniquePosters}}
+                {{expr uniquePostersArray.push(from)}}
+            {{/each}}
+            {{if uniquePostersArray.length == 1}}
+                {{if metadata.messages[0].toChannel}}
+                    {{expr var params = new Object(); params.channel = metadata.messages[0].toChannel, params.user = uniquePostersArray[0]; }}
+                    ${Zello.ss('shared_message_title_from_user_to_channel', params)}
+                {{else}}
+                    {{expr var params = new Object(); params.user1 = uniquePostersArray[0], params.user2 = metadata.messages[0].to; }}
+                    ${Zello.ss('shared_message_title_from_user_to_user', params)}
+                {{/if}}
+            {{/if}}
+            {{if uniquePostersArray.length == 2}}
+                {{if metadata.messages[0].toChannel}}
+                    {{expr var params = new Object(); params.user1 = uniquePostersArray[0], params.user2 = uniquePostersArray[1], params.channel = metadata.messages[0].toChannel; }}
+                    ${Zello.ss('shared_message_title_two_users_to_channel', params)}
+                {{else}}
+                    {{expr var params = new Object(); params.user1 = uniquePostersArray[0], params.user2 = uniquePostersArray[1]; }}
+                    ${Zello.ss('shared_message_title_two_users', params)}
+                {{/if}}
+            {{/if}}
+            {{if uniquePostersArray.length == 3}}
+                {{expr var params = new Object(); params.user1 = uniquePostersArray[0], params.user2 = uniquePostersArray[1], params.user3 = uniquePostersArray[2], params.channel = metadata.messages[0].toChannel; }}
+                ${Zello.ss('shared_message_title_three_users_to_channel', params)}
+            {{/if}}
+            {{if uniquePostersArray.length > 3}}
+                {{expr var label = 'shared_message_more_users_label_plural_' + Zello.getPluralFormByLangAndNumber(Zello.lang, uniquePostersArray.length-3)}}
+                {{expr var othersCountLabel = Zello.ss(label)}}
+                {{expr var params = new Object(); params.user1 = uniquePostersArray[0], params.user2 = uniquePostersArray[1], params.user3 = uniquePostersArray[2], params.channel = metadata.messages[0].toChannel, params.othersCount = uniquePostersArray.length-3, params.othersCountLabel = othersCountLabel; }}
+                ${Zello.ss('shared_message_title_more_than_three_users_to_channel', params)}
+            {{/if}}
+        {{/if}}
+    {{/if}}
+</script>
+
+<script id="root-messages-list-tmpl" type="text/x-jquery-tmpl">
+    <div class="root-shared-message">
+        <h4>
+            {{var t = $.trim($('#shared-message-title').tmpl($data).text()); }}
+            <a href="/shared/${_id}">${t}</a><br/>
+                <small>
+                    ${Zello.displayDuration(Zello.sumDuration(metadata.messages))}
+                    shared by <a class="not-active">${user}</a>
+                    {{if metadata.messages[0].toChannel}}
+                        from channel <a href="/channels/c/${toChannelShortHash}">${metadata.messages[0].toChannel}</a>
+                    {{/if}}
+                    <nobr>
+                        {{if timeSince}}<i style="opacity:0; width:0px;">t</i>
+                        {{expr var label = 'time_since_' + timeSince.type + '_plural_' + Zello.getPluralFormByLangAndNumber(Zello.lang, timeSince.count)}}
+                        {{expr var timeSinceLabel  = Zello.ss(label)}}
+                        {{expr var params = new Object(); params.count = timeSince.count, params.label = timeSinceLabel; }}
+                        ${Zello.ss('shared_message_time_since', params)}{{else}}${Zello['tsToDate'](ts)}{{/if}}{{if views}}, {{/if}}
+                    </nobr>
+                    <nobr>{{if views}}
+                        {{expr var label = 'plays_label_plural_'+Zello.getPluralFormByLangAndNumber(Zello.lang, views)}}
+                        {{expr var playsLabel  = Zello.ss(label)}}
+                        {{expr var params = new Object(); params.count = views, params.label = playsLabel; }}
+                        ${Zello.ss('shared_message_plays_count', params)}
+                    {{/if}}</nobr>
+                </small>
+        </h4>
+        <div>
+        </div>
+    </div>
+</script>
+
+<script id="user-link-short-hash" type="text/x-jquery-tmpl">
+    <a href="/users/s?name=${encodeURIComponent(name)}"><nobr><i class="icon-user"></i>${name}</a></nobr>
+</script>
+
+<script id="user-link-key" type="text/x-jquery-tmpl">
+    <a class="user" href="/users/k/${key}"><nobr><i class="icon-user icon-with-text"></i>${name}</a></nobr>
+</script>
+
+<script id="location-google-maps" type="text/x-jquery-tmpl">
+    <a href="http://maps.google.com?q=${location}"><nobr><i class="icon-map-marker icon-with-text"></i>${Zello.shortenString(location,50)[0]}</nobr></a>
+</script>
+
+<script id="website-link" type="text/x-jquery-tmpl">
+    {{expr var safeUrl = Zello.safeUrl(url)}}
+    {{if safeUrl}}
+    <a href="${safeUrl}"><nobr><i class="icon-home icon-with-text"></i>${Zello.shortenString(url,50)[0]}</nobr></a>
+    {{else}}
+    <nobr><i class="icon-home icon-with-text"></i>${url}</nobr>
+    {{/if}}
+
+</script>
+
+
     <div class="container">
 	
-				<h1>Privacy Policy</h1>
-				
-We value your privacy. This Privacy Policy applies to your usage of the software and
-services provided by Zello Inc ("Services"). We only collect your information in
-order to provide you and improve the Services and will never sell or share it with
-other legal entities for commercial purposes, except in the cases when it's required as
-a part of the Services you requested.
+        <h1>Privacy Policy</h1>
 
-<h3>The information we collect and how we use it</h3>
-<ol>
-	<li><strong>The information you provide</strong> — during the registration or 
-	your use of the Services we ask you for your personal data such as name, e-mail address,
-	billing information. We use that information to provision the Services, contact you when necessary, and  
-	improve the Services.</li>
-	<li><strong>Cookies</strong> — is a small piece of data used to exchange information
-	between your browser and the server. We use cookies to store your session identifyier. These
-	cookies are erased, when you log out. We may use the permanent cookies to store some of your preferences
-	such as user interface language.</li>
-	<li><strong>Server logs</strong> — every time you visit the Services web interface an entry is
-	added to the server log file, which includes date and time, your IP address, browser type, browser language, referrer and an address of the
-	page requested. When you connect using client software an entry is added to the server log file, which includes timestamp, your IP address, your Loudtalks username, client platform and client software version. We use this information for analytical purposes in aggregated form.
-	</li>
-</ol> 
-<h3>Public channels</h3>
-When you connect to a public channel your username is visible to other users, connected to the same channel. Public channels communication may be stored in voice history on participant's computers or mobile devices.
-<h3>Communication privacy</h3>
-We do not record or keep track of the voice communication you perform using the service, however the person you are talking to may save and replay your messages from voice history. 	
-<h3>Data storage</h3>
-Zello Inc uses third party hosting providers to store your data. We store your username, password in the encrypted form, contact list and e-mail address.
-<h3>Disclosure</h3>
-Zello Inc may disclose personally identifiable information in the case, when it's required to comply
-with law enforcement requests, subpoenas of when you violate the <a href="/tos/">Terms of Service</a>.
-<h3>Changes</h3>
-This privacy policy may be modified from time to time. In the case when the changes are significant we 
-will notify you by publishing the notice in our blog at <a href="http://blog.zello.com/">blog.loudtalks.com</a>.
-<p></p>			
+        We value your privacy. This Privacy Policy applies to your usage of the software and services provided by Zello Inc ("Services"). We only collect your information in order to improve the Services and will never sell or share your information with other legal entities for commercial purposes,except in the cases when it's required as a part of the Services you requested.
+        <h3>The information we collect and how we use it</h3>
+        <ol>
+            <li>
+                <strong>The information you provide</strong><br>
+                During the registration or your use of the Services we ask you for your personal data such as name, e-mail address, billing information. We use that information to provision the Services, contact you when necessary, and improve the Services.            </li>
+            <li>
+                <strong>Cookies</strong><br>
+                Cookies are a small piece of data used to exchange information between your browser and the server. We use cookies to store your session identifier. The server erases your cookies when you log out. We may use the permanent cookies to store some of your preferences, such as user interface language.            </li>
+            <li>
+                <strong>Server logs</strong><br>
+                Every time you visit the Services web interface, servers log an entry that includes date and time, your IP address, browser type, browser language, referrer and an address of the page requested. When you connect using client software, the server log file adds that includes timestamp, your IP address, your Services username, client platform and client software version. We use this information for analytical purposes in aggregated form.            </li>
+        </ol>
+
+        <h3>Public channels</h3>
+
+        <p>
+            When you connect to a public channel, your Services username is visible to other users connected to the same channel. Public channels communication may be stored in voice history on participant's computers or mobile devices.        </p>
+
+        <h3>Communication privacy</h3>
+
+        <p>
+            We do not record or keep track of your voice communication in using the Service. However, the person you are talking to may save, replay and share your messages from voice history.        </p>
+
+
+        <h3>Data storage</h3>
+
+        <p>
+            Services uses third party hosting providers to store your data. We store your username, encrypted password, contact list and email address.        </p>
+
+        <h3>Disclosure</h3>
+
+        <p>
+            Services may disclose personally identifiable information when it's required to comply with law enforcement requests or subpoenas when you violate the <a href="/tos.htm">Terms of Service</a>.        </p>
+
+
+        <h3>Changes</h3>
+
+        <p>
+            This privacy policy may be modified from time to time. When changes are significant, we will notify you by publishing the notice in our blog at <a href="http://blog.zello.com/">http://blog.zello.com/</a>.        </p>
+
+    <p></p>
 	
 	</div> <!-- /container -->
 
@@ -164,9 +1061,10 @@ will notify you by publishing the notice in our blog at <a href="http://blog.zel
             <div class="span3">
                 <h3>Mobile Apps</h3>
                 <ul class="unstyled">
-                    <li><a href="/ios/">iPhone</a></li>
                     <li><a href="/android/">Android</a></li>
                     <li><a href="/bb/">BlackBerry</a></li>
+                    <li><a href="/ios/">iPhone</a></li>
+                    <li><a href="/data/ZelloSetup.exe">PC</a></li>
                     <li><a href="/channels/#popular">Zello Channels</a></li>
                     <li><a href="http://support.zello.com/">Support</a></li>
                 </ul>
@@ -182,7 +1080,6 @@ will notify you by publishing the notice in our blog at <a href="http://blog.zel
                 <ul class="unstyled">
                     <li><a href="/privacy/">Privacy</a></li>
                     <li><a href="/tos/">Terms of Service</a></li>
-                    <!--li><a href="/credits/">Credits</a></li-->
                 </ul>
             </div>
             <div class="span3">
@@ -191,22 +1088,26 @@ will notify you by publishing the notice in our blog at <a href="http://blog.zel
                     <li><a href="http://blog.zello.com/">Blog</a></li>
                     <li><a href="/contact.htm">Contact</a></li>
                     <li><a href="/team.htm">Team</a></li>
-                    <!--
-                             <li><a href="#">Hiring</a></li>
-                             -->
                 </ul>
                 <p>
                     <a href="https://twitter.com/Zello" class="twitter-follow-button" data-show-count="false">Follow @Zello</a>
                     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                 </p>
                 <p>
-                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FZelloMe&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
+                <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FZelloMe&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font=lucida+grande&amp;height=21" scrolling="no" frameborder="0" style="border:none;
+                    overflow:hidden;
+                    width:90px;
+                    height:21px;" allowtransparency="true"></iframe>
                 </p>
-            </div>
+                                <p>
+                    <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+                    <script type="IN/FollowCompany" data-id="2478568" data-counter="none"></script>
+                </p>
+                            </div>
         </div>
         <hr>
         <footer>
-            <p>© 2007-2012 Zello Inc </p>
+            <p>© 2007-2012 Zello Inc</p>
         </footer>
     </div>
 </div>
