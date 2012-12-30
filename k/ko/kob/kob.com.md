@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003638id_/http%3A//www.kob.com/article/stories/s409183.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055822id_/http%3A//www.kob.com/article/stories/s409183.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Statement | KOB.com
 
@@ -47,5 +47,7 @@ Hubbard Broadcasting Inc.
 St. Paul, MN 55114  
 [WebSecurity@hbi.com](mailto:WebSecurity@hbi.com)
 
-[](http://www.addthis.com/bookmark.php?v=20)   | [](http://www.kob.com/printStory.cfm?id=409183) | [Print Story](http://www.kob.com/printStory.cfm?id=409183) |    |   
----|---|---|---|---
+[Share](http://www.addthis.com/bookmark.php?v=300&pubid=kobwebmaster)
+
+| [](http://www.kob.com/printStory.cfm?id=409183) | [Print](http://www.kob.com/printStory.cfm?id=409183)   |  |  |  |   
+---|---|---|---|---|---|---
