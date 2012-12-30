@@ -1,31 +1,34 @@
-<!--The following is the downloaded HTML source of the figment.com privacy policy that was archived on 2012-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120509233836id_/http%3A//figment.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the figment.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230221056id_/http%3A//figment.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="pages privacy" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html lang="en" class="pages privacy " xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="keywords" content="Figment, Teen, Writing, Reading, Books, Stories, Poetry, Poems, Fiction, Fantasy, Young Adult, Community, Romance, Author, Library, Steampunk, Contests, Science Fiction, Twilight, Stephanie Meyer, Mockingjay, Hunger, Overlander, chick lit">
-  <meta name="google-site-verification" content="0oWxhYzbCgBpsDqetcJu3YabQbbGHNFC7SFz5-l9Wmo">
+  <meta name="google-site-verification" content="houbOT7DQ9RRhvelHoyV3pAbcAgCl6cJ7J3D41ZzLZc">
   
-  <title>Figment: Write yourself in.</title>
-  <link href="/stylesheets/figment.css?1336588048" media="screen" rel="stylesheet" type="text/css">
-<link href="/javascripts/fancybox/jquery.fancybox-1.3.3.css?1336588048" media="screen" rel="stylesheet" type="text/css">
+  <title>Write yourself in. Figment</title>
+  <link href="/stylesheets/figment.css?1356029108" media="screen" rel="stylesheet" type="text/css">
+<link href="/javascripts/fancybox/jquery.fancybox-1.3.3.css?1355761481" media="screen" rel="stylesheet" type="text/css">
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
-<script src="/javascripts/rails.js?1336588048" type="text/javascript"></script>
-<script src="/javascripts/application.js?1336588048" type="text/javascript"></script>
-<script src="/javascripts/cufon-yui.js?1336588048" type="text/javascript"></script>
-<script src="/javascripts/pnty_sold.js?1336588048" type="text/javascript"></script>
-	<script src="/javascripts/fancybox/jquery.fancybox-1.3.3.js?1336588048" type="text/javascript"></script>
+<script src="/javascripts/rails.js?1355761481" type="text/javascript"></script>
+<script src="/javascripts/application.js?1355761481" type="text/javascript"></script>
+<script src="/javascripts/cufon-yui.js?1355761481" type="text/javascript"></script>
+<script src="/javascripts/pnty_sold.js?1355761481" type="text/javascript"></script>
+	<script src="/javascripts/fancybox/jquery.fancybox-1.3.3.js?1355761481" type="text/javascript"></script>
 
 	<!--[if (gte IE 6)&(lte IE 8)]>
-	  <script src="/javascripts/selectivizr-development.js?1336588048" type="text/javascript"></script>
+	  <script src="/javascripts/selectivizr-development.js?1355761481" type="text/javascript"></script>
 	<![endif]-->
 	<!--[if lt IE 9]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
   <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="AtvbDkGsQ5Wid5LFfDpGy1fdiuyUtPkQ6nYxOVzjB6s=">
+<meta name="csrf-token" content="uj7Qb6UWvatE0wzGmcVXZXLbOhwOgSMEIxtbJvjc6yw=">
+
+  <script>_udn = "figment.com";</script>
 
   
   <script type="text/javascript">
@@ -35,18 +38,30 @@
 		Cufon.replace('.main h1:not(.nocuf), .comments-reviews h3, #ohsnap h3, .user-callout-signup p, .sessions.new h1');
     $(function() {
 			$('ul li:last-child, ol li:last-child').addClass('last');
-      setTimeout(function(){
-        $(".flash#notice").slideUp("slow", function () {
-          $(".flash").remove();
-        }); }, 5000);
 
-      
+      function mixpanel_track_sample(sample, event, params) {
+  if (Math.random() < (1/sample)) {
+    mixpanel.track(event, params);
+  }
+}
+
+  mixpanel.register({'logged_in': false});
+mixpanel.register({'mobile': false});
+
 mixpanel.track_links('.nav-blog a', 'link_to_blog');
 mixpanel.track_links('.nav-contests a', 'link_to_contests');
 
 
 
+      $('#connect-fb-hide').click(function() {
+        $('#connect-fb').slideUp("slow");
+        FIG.cookie('hide_connect_fb', true, 365);
+        $('html').removeClass('fb-notice');
+      });
+
       
+
+      mixpanel.track_links("#connect-fb a.connect-now", "click_connect_fb_msg");
     });
   </script>
 
@@ -54,12 +69,28 @@ mixpanel.track_links('.nav-contests a', 'link_to_contests');
 for(e=0;e<g.length;e++)(function(a){b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,0)))}})(g[e]);c._i.push([a,d,f])};window.mixpanel=c})(document,[]);
 mixpanel.init("f3c5044824c74e7a76316583a68fc4a9");</script><!-- end Mixpanel -->
 
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+  <script src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17982124-1']);
+  _gaq.push(['_setDomainName', 'figment.com']);
+  _gaq.push(['_addIgnoredRef', 'figment.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
 
 <!--[if IE 7 ]>    <body class="ie7"> <![endif]-->
 <!--[if IE 8 ]>    <body class="ie8"> <![endif]-->
 <!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <body> <!--<![endif]-->
+
 
 
 
@@ -79,7 +110,7 @@ mixpanel.init("f3c5044824c74e7a76316583a68fc4a9");</script><!-- end Mixpanel -->
   					<form accept-charset="UTF-8" action="/search" class="search-form round_6 grey-box" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
   						<fieldset>
   						  <input class="search" id="site_search" name="site_search" placeholder="search figment" results="5" type="search">
-						    <input src="/images/main-search.png?1336588048" type="image">
+						    <input src="/images/main-search.png?1355761481" type="image">
   						</fieldset>
 </form>					</div>
 				</li>
@@ -88,12 +119,13 @@ mixpanel.init("f3c5044824c74e7a76316583a68fc4a9");</script><!-- end Mixpanel -->
 			<nav class="main-nav groups-available">
 				<ul class="public-nav">
 			    <li class="nav-home"><a href="/">home</a></li>
-			    <li class="nav-library"><a href="/books">figment library</a></li>
-			    <li class="nav-features"><a href="/features">features</a></li>
+			    <li class="nav-library"><a href="/books">library</a></li>
+			    <li class="nav-spotlight"><a href="/spotlight">spotlight</a></li>
 			    <li class="nav-groups"><a href="/groups">groups</a></li>
 			    <li class="nav-contests"><a href="http://dailyfig.figment.com/category/contests">contests</a></li>
-			    <li class="nav-forums"><a href="/forums">forums</a></li>
-			    <li class="nav-blog"><a href="http://dailyfig.figment.com/">the daily fig</a></li>
+          <li class="nav-forums"><a href="/forums">forums</a></li>
+          <li class="nav-blog"><a href="http://dailyfig.figment.com/">the daily fig</a></li>        
+          <li class="nav-shop"><a href="http://shop.figment.com">shop</a></li>
 						<li class="nav-signup"><a href="/user/sign_up">sign up! </a></li>
 				</ul>
 			</nav>
@@ -137,11 +169,12 @@ mixpanel.init("f3c5044824c74e7a76316583a68fc4a9");</script><!-- end Mixpanel -->
 		<ul class="site-links group">
 	    <li><a href="/">home</a></li>
 	    <li><a href="/books">figment library</a></li>
-	    <li><a href="/features">figment features</a></li>
+	    <li><a href="/spotlight">spotlight books</a></li>
 	    <li><a href="http://dailyfig.figment.com/category/contests">contests</a></li>
 	    <li><a href="/groups">groups</a></li>
 	    <li><a href="/forums">forums</a></li>
 	    <li><a href="http://dailyfig.figment.com/">the daily fig</a></li>
+      <li><a href="http://shop.figment.com">shop</a></li>
 	    <li><a href="/user/sign_up">sign up</a></li>
 	  </ul>
 		<ul>
@@ -153,36 +186,17 @@ mixpanel.init("f3c5044824c74e7a76316583a68fc4a9");</script><!-- end Mixpanel -->
 	    <li><a href="/privacy">privacy</a></li>
 	    <li><a href="/legal">legal</a></li>
 	    <li><a href="/crisis_hotlines">crisis hotlines</a></li>
-			<li class="mark"><em>figment</em>. © 2011</li>
+			<li class="mark"><em>figment</em>. © 2012</li>
 	  </ul>
 	</footer>
 
 	
-  
-  <script src="https://www.google.com/jsapi"></script>
+  <div id="getsat-widget-729"></div>
+  <script type="text/javascript" src="https://loader.engage.gsfn.us/loader.js"></script>
   <script type="text/javascript">
-
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-17982124-1']);
-    _gaq.push(['_setDomainName', '.figment.com']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
+    if (typeof GSFN !== "undefined") { GSFN.loadWidget(729,{"containerId":"getsat-widget-729"}); }
   </script>
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","8dacf9797b",353207,"dF1fRhQOWQ4BF0wTAFBXQh1ODkEKARdK",0,19,new Date().getTime(),"","","","",""])</script>
+  
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js"></script></body></html>
+
+</body></html>
