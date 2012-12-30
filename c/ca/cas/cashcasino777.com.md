@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashcasino777.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627090239id_/http%3A//www.cashcasino777.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashcasino777.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230170831id_/http%3A//www.cashcasino777.com/privacy.html) for the most accurate reproduction.*
 
 # CashCasino777.com - Online Casino
 
