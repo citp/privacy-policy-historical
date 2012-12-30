@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drfuhrman.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502004630id_/http%3A//www.drfuhrman.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drfuhrman.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190831id_/http%3A//www.drfuhrman.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Company | Privacy Policy | DrFuhrman.com
 
@@ -13,7 +13,7 @@ In our Member Support Center, we use cookies to recognize members, grant you pri
 We do not sell any information of visitors to DrFuhrman.com to third parties. Any usage tracking is for internal use only for further development of DrFuhrman.com.
 
 **E-mail:**  
-If you sign up for our mailing list, are a member of our Member Support Center, or subscribe to our newsletters or services, you will receive e-mails from us. E-mails permit us to contact you about your account. If you prefer not to receive e-mail communication, please call us at 800-474-9355 x227 or e-mail us at [techsupport@drfuhrman.com](mailto:techsupport@drfuhrman.com) and arrange for your communication preferences.
+If you sign up for our mailing list, are a member of our Member Support Center, or subscribe to our newsletters or services, you will receive e-mails from us. E-mails permit us to contact you about your account. If you prefer not to receive e-mail communication, please call us at 800-474-9355 x227 or contact our Technical Support department using our [contact form](https://web.archive.org/company/contact.aspx) to request your communication preferences.
 
 **Links and Affiliates:**  
 Please refer to the individual policies of any links and affiliates found on DrFuhrman.com. Every website has different guidelines, and DrFuhrman.com is not responsible for the content or for the policies of websites to which it may link.
@@ -27,6 +27,6 @@ If we are required by law or if we believe, in good faith, that we need to discl
 **Changes:**  
 Please refer to this policy for any future changes, as developments on the internet frequently evolve, and we would like to keep you up-to-date.
 
-If you have any questions, please contact **[info@drfuhrman.com](mailto:info@drfuhrman.com)**.
+If you have any questions, please [contact us](https://web.archive.org/company/contact.aspx).
 
 September 1, 2005
