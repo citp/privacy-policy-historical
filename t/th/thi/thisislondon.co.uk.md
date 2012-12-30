@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512041759id_/http%3A//www.thisislondon.co.uk/standard-home/privacy-policy-6925316.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192343id_/http%3A//www.standard.co.uk/standard-home/privacy-policy-6925316.html) for the most accurate reproduction.*
 
-# Privacy Policy - Home - Evening Standard
+# Privacy Policy - Home - London Evening Standard
 
 This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use this Site.
 
@@ -10,11 +10,17 @@ We collect personal information from you (such as name, address, telephone numbe
 
  **Collection Of Other Information/Cookies**
 
-In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your last visit. Most Internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. Generally you have the option to accept all cookies, to be notified when a cookie is issued or reject all cookies. [Click here](http://www.thisislondon.co.uk/standard-home/article-23954180-instructions-on-controlling-cookies.do/) for instructions on controlling cookies in the most recent version of Windows Explorer (Users of other browsers should contact their manufacturer for instructions).
+In addition to personal information you optionally provide, we may also collect anonymous information about you when you visit the site. The collection of anonymous data via cookies or web beacons allows us to track our own performance - but also allows us to display content which is more personalised, thereby enhancing your experience of the website.
 
-If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies.
+Evening Standard Limited does its utmost to respect your privacy. Cookies let us monitor our performance and provide a better service, as well as sell advertising space, which we use to stay free of charge to our readers.
 
-The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the Internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location.
+To this end, we allow a careful selection of trusted third parties to use cookies and tracking to offer you a more personal experience.
+
+Most browsers accept cookies automatically, but you can change your settings to remove them or prevent your computer from automatically accepting them if you prefer.
+
+By continuing to use the website, you agree to the placement of cookies on your device. If you choose not to receive our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be. For instance, the site won’t be able to recognise your commenter ID, meaning that you won’t be able to leave comments.
+
+For more details on cookies (including how to opt out of cookies issued by third party advertisers) **[click here](http://www.thisislondon.co.uk/incoming/cookie-policy-7785319.html)**.
 
  **Interest Based Advertising**
 
