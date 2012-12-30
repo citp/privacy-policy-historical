@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptopz.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512115455id_/http%3A//www.laptopz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopz.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230203823id_/http%3A//www.laptopz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : LaptopZ.com, Laptop Parts and Laptop Accessories
 
