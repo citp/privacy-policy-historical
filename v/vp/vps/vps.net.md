@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vps.net privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629233520id_/http%3A//www.vps.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vps.net privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005514id_/http%3A//www.vps.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VPS.NET Cloud Hosting, Geo Hosting, Cloud Servers and Content Delivery Network
+# Privacy Policy | VPS and Cloud Hosting
 
 This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please contact [mgmt@vps.net](mailto:mgmt@vps.net). 
 
