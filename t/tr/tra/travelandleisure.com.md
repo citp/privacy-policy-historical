@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelandleisure.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620023337id_/http%3A//www.amexpub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelandleisure.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231001455id_/http%3A//www.amexpub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,7 +6,7 @@ At American Express Publishing Corporation ("AEP"), we value and protect your pr
 
 The objective of our Privacy Statement is to disclose and explain what information we collect, use, and share and to explain the privacy choices that you can make. We encourage you to read our Privacy Statement as well as those of all websites that you visit.
 
-This Privacy Statement applies to any information collected by AEP or its "Vendors" via: (1) the websites owned or operated by AEP ("AEP Websites" or "Websites"), (2) e-mail or any electronic newsletters in which you enroll, (3) offline means such as telephone, traditional mail, or in person, or (4) any other online or offline means in connection with AEP generally or with any of the AEP products and services listed [here](https://web.archive.org/web/20120620023337id_/http%3A//www.amexpub.com/products). AEP may provide links to third-party websites. Since we do not control third-party sites and are not responsible for any information you may provide while on such sites, we encourage you to read the privacy policies on those sites before providing any of your "Personally Identifiable Information" ("PII") on such sites.
+This Privacy Statement applies to any information collected by AEP or its "Vendors" via: (1) the websites owned or operated by AEP ("AEP Websites" or "Websites"), (2) e-mail or any electronic newsletters in which you enroll, (3) offline means such as telephone, traditional mail, or in person, or (4) any other online or offline means in connection with AEP generally or with any of the AEP products and services listed [here](https://web.archive.org/web/20121231001455id_/http://www.amexpub.com/privacy/products). AEP may provide links to third-party websites. Since we do not control third-party sites and are not responsible for any information you may provide while on such sites, we encourage you to read the privacy policies on those sites before providing any of your "Personally Identifiable Information" ("PII") on such sites.
 
 Effective Date: September 28, 2007
 
@@ -75,9 +75,9 @@ AEP respects the choices that you make regarding your privacy. You may request t
 ## Privacy Choices: How to Opt Out of Receiving Offers and Promotions
 
   * If you do not want to receive future offers or promotions from AEP via e-mail, please [click here](http://www.amexpub.com/privacy/optout/aepemail). In addition, if you have elected to receive certain marketing e-mails from AEP but decide that you no longer want to receive them, you may also follow the unsubscribe instructions that are located at the bottom of those e-mail messages.
-  * If you do not want to receive future offers or promotions from AEP via offline means, please [click here](https://web.archive.org/web/20120620023337id_/http%3A//www.amexpub.com/optout/aepoffline).
-  * If you do not want us to share your e-mail address with our Business Partners in the future so that they can e-mail you information about products or services that may interest you, please [click here](https://web.archive.org/web/20120620023337id_/http%3A//www.amexpub.com/optout/bpemail).
-  * If you do not want us to share your PII with our Business Partners in the future so that they can use offline means to provide you with information about products or services that may interest you, please [click here](https://web.archive.org/web/20120620023337id_/http%3A//www.amexpub.com/optout/bpoffline).
+  * If you do not want to receive future offers or promotions from AEP via offline means, please [click here](https://web.archive.org/web/20121231001455id_/http://www.amexpub.com/privacy/optout/aepoffline).
+  * If you do not want us to share your e-mail address with our Business Partners in the future so that they can e-mail you information about products or services that may interest you, please [click here](https://web.archive.org/web/20121231001455id_/http://www.amexpub.com/privacy/optout/bpemail).
+  * If you do not want us to share your PII with our Business Partners in the future so that they can use offline means to provide you with information about products or services that may interest you, please [click here](https://web.archive.org/web/20121231001455id_/http://www.amexpub.com/privacy/optout/bpoffline).
 
 
 
@@ -85,7 +85,7 @@ Please note that even if you opt out of receiving e-mails and/or offline offers 
 
 We use reasonable administrative, technical, and physical security measures to protect your PII from unauthorized access and use. Do not use e-mail to send us any PII, since it would be unencrypted and can be read by anyone who receives or intercepts it.
 
-If you wish to correct or update the PII related to your AEP account(s), please contact us at the applicable mailing address or telephone number listed [here](https://web.archive.org/web/20120620023337id_/http%3A//www.amexpub.com/customerservice).
+If you wish to correct or update the PII related to your AEP account(s), please contact us at the applicable mailing address or telephone number listed here.
 
 AEP reserves the right to change this Privacy Statement at any time by posting revisions on this Website. Such changes will be effective upon posting.
 
