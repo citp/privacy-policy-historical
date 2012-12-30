@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the boatquest.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502084233id_/http%3A//www.boatquest.com/MorePages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatquest.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192707id_/http%3A//www.boatquest.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Published  August 19, 2011
 
 **I. What information is collected?**
 
@@ -69,3 +71,4 @@ BoatQuest uses GoDaddy Certification and secure servers to transmit all online c
   * If you have further questions that were not addressed in the above privacy policy, please contact BoatQuest.com Legal Department at [](http://boatquest.helpserve.com/index.php?_m=tickets&_a=submit&step=1&departmentid=5).
 
 
+  *[August 19, 2011]: 2011-08-19T17:22:59-0500
