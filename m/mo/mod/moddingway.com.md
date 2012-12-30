@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moddingway.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617150030id_/http%3A//www.moddingway.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddingway.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230124441id_/http%3A//www.moddingway.com/page/privacy.html) for the most accurate reproduction.*
 
 # ModdingWay - PES 2013, FIFA 13, NBA 2K13, PES 2012, NBA 2K12, MLB 2K12, FIFA 12, Video Games | Mods, Patches, Updates, Downloads
 
