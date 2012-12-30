@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509220746id_/http%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ernestjones.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221257id_/http%3A//www.ernestjones.co.uk/webstore/static/legal/privacy.do) for the most accurate reproduction.*
 
-# Privacy Policy - Ernest Jones - Love & life
+# Privacy Policy - Ernest Jones
 
 We understand that privacy is important to you, and we promise to look after your personal information. Any personal information you provide to us will only be used and recorded in accordance with the Data Protection Act. We will not sell any information about you to any other party.
 
