@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bcorporation.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623204517id_/http%3A//www.bcorporation.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcorporation.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230215343id_/http%3A//www.bcorporation.net/privacy-policy) for the most accurate reproduction.*
 
-# B Corporation - News & Media - Privacy Policy
+# Privacy Policy - B Corporation
 
 Effective from July 5th, 2011.
 
@@ -8,24 +8,20 @@ Effective from July 5th, 2011.
 
 B Lab takes your privacy seriously. Please read the following information to learn more about our privacy practices.
 
-This policy covers what personally identifiable information B Lab collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the http://bcorporation.net web site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.
+This policy covers what personally identifiable information B Lab collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the [http://bcorporation.net](http://bcorporation.net/) web site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.
 
-This policy only applies to http://bcorporation.net and does not extend to the practices of other web sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.
+This policy only applies to [http://bcorporation.net](http://bcorporation.net/) and does not extend to the practices of other web sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.
 
 ### Contact Information
 
 We invite you to contact us if you have questions about this privacy policy.
 
-B Lab
-
-8 Walnut Ave.
-
-Berwyn, PA 19312
-
+B Lab  
+8 Walnut Ave.  
+Berwyn, PA 19312  
 USA
 
-You may contact us by e-mail at thelab@bcorporation.net
-
+You may contact us by e-mail at [thelab@bcorporation.net](mailto:thelab@bcorporation.net)  
 You may contact us by phone at 610-296-8283
 
 ### Dispute Resolution
