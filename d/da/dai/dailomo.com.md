@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the dailomo.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516141850id_/http%3A//www.dailomo.com/tamil/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailomo.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184352id_/http%3A//www.dailomo.com/dailomo-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Dailomo Privacy Policy
 
 Dailomo.com welcomes you. We value your privacy, and want you to know what information we collect and what we do with it. 
 
 From time to time, we may make changes to this Policy. We will endeavor to post the changes before they become effective. This consumer privacy policy applies to any information we collect or receive about you, from any source. We wants you to Feel comfortable using our web sites, Feel secure submitting information to us, Contact us with your questions or concerns about privacy on this site and Know that by using our sites you are consenting to the collection of certain data 
 
-**Cookies - Automatic Data Collection**
+**Cookies – Automatic Data Collection**
 
-We use a software technology called "cookies" for several purposes, depending on the type of cookie employed. Within Dailomo.com, we use what are commonly called "session" cookies, meaning that they only last as long as you are online. We use these cookies to identify you as a valid subscriber so that we can deliver music to you, to ensure that no one else can sign on simultaneously with your account from another computer and to help us personalize your service experience based on your registration preferences (such as genre). We may also use session cookies to help us facilitate any promotions or surveys that we provide. As part of the sign-in process, we may also use what are commonly called "persistent" cookies which stay with you after your session is over and you are offline. We only use these cookies in connection with a sign-in feature that allows you to save your member name and password so that the next time you sign in, these fields will be pre populated for you. This cookie is only offered in conjunction with certain Affiliate Sites that choose to make it available and it can only be activated if you select that option during your sign-in. If you select this option you can always deselect it each time you sign-in. 
+We use a software technology called “cookies” for several purposes, depending on the type of cookie employed. Within Dailomo.com, we use what are commonly called “session” cookies, meaning that they only last as long as you are online. We use these cookies to identify you as a valid subscriber so that we can deliver music to you, to ensure that no one else can sign on simultaneously with your account from another computer and to help us personalize your service experience based on your registration preferences (such as genre). We may also use session cookies to help us facilitate any promotions or surveys that we provide. As part of the sign-in process, we may also use what are commonly called “persistent” cookies which stay with you after your session is over and you are offline. We only use these cookies in connection with a sign-in feature that allows you to save your member name and password so that the next time you sign in, these fields will be pre populated for you. This cookie is only offered in conjunction with certain Affiliate Sites that choose to make it available and it can only be activated if you select that option during your sign-in. If you select this option you can always deselect it each time you sign-in. 
 
-In order to personalize our service for your enjoyment and to monitor and improve the performance of our technology, we do collect/capture other data such as a member's searches (such as their search criteria and results). For our internal purposes, we gather information such as date, time, connection speed and IP address of all visitors to our site. We keep this information simply for our internal security audit log, trend analysis, and system administration. 
+In order to personalize our service for your enjoyment and to monitor and improve the performance of our technology, we do collect/capture other data such as a member’s searches (such as their search criteria and results). For our internal purposes, we gather information such as date, time, connection speed and IP address of all visitors to our site. We keep this information simply for our internal security audit log, trend analysis, and system administration. 
 
 **Third Party Advertising & Third Party Cookies:**
 
@@ -18,19 +18,19 @@ We use third-party advertising companies to serve ads when you visit our website
 
 **.** | Google, as a third party vendor, uses cookies to serve ads on this site.   
 ---|---  
-**.** | Google's use of the [DART cookie ](http://www.doubleclick.com/privacy/faq.aspx)enables it to serve ads to users (that means You) based on their visit to this site and other sites on the Internet.   
+**.** | Google’s use of the [DART cookie ](http://www.doubleclick.com/privacy/faq.aspx)enables it to serve ads to users (that means You) based on their visit to this site and other sites on the Internet.   
 **.** | Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
   
 **  
 What information is, or may be, collected from you by Dailomo.com**
 
-We may collect certain anonymous information in standard usage logs through our Web server, including: computer-identification information obtained from "cookies", sent to your browser from a
+We may collect certain anonymous information in standard usage logs through our Web server, including: computer-identification information obtained from “cookies”, sent to your browser from a
 
 1\. Web server and stored on your hard drive   
 2\. An IP address, assigned to the computer which you use   
 3\. The domain server through which you access our service   
-4\. The type of computer you're using   
-5\. The type of web browser you're using 
+4\. The type of computer you’re using   
+5\. The type of web browser you’re using 
 
 We may collect the following personally identifiable information about you:
 
@@ -52,8 +52,7 @@ We may collect the following personally identifiable information about you:
 
 **Communications from Us and Mailing Lists:**
 
-In order to keep our members informed about the operation of our services, we will send e-mails and announcements that are needed for the proper functioning and administration of our site and subscription service. For additional information about our site, services and offers, we give our members the option of joining our mailing list. We also allow you to choose whether to receive mails from partners and sponsors that we think will be of interest to you. Each marketing e-mail from us will come with instructions on how to unsubscribe from our mailing list.  
-
+In order to keep our members informed about the operation of our services, we will send e-mails and announcements that are needed for the proper functioning and administration of our site and subscription service. For additional information about our site, services and offers, we give our members the option of joining our mailing list. We also allow you to choose whether to receive mails from partners and sponsors that we think will be of interest to you. Each marketing e-mail from us will come with instructions on how to unsubscribe from our mailing list.
 
 **How the infomation used?**
 
@@ -74,8 +73,8 @@ Generally, we use anonymous traffic information to:
 
 1\. Remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective   
 2\. Recognize your access privileges to our Web sites   
-3\. Track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings   
-4\. Make sure that you don't see the same ad repeatedly   
+3\. Track your entries in some of our promotions, sweepstakes and contests to indicate a player’s progress through the promotion and to track entries, submissions, and status in prize drawings   
+4\. Make sure that you don’t see the same ad repeatedly   
 5\. Help diagnose problems with our server   
 6\. Administer our Web sites   
 7\. Track your session so that we can understand better how people use our sites 
