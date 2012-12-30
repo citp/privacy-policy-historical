@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex4noobs.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615204019id_/http%3A//www.forex4noobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex4noobs.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230172118id_/http%3A//www.forex4noobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forex4Noobs
 
@@ -13,12 +13,12 @@ To opt out of the DART cookies you may visit the Google ad and content network p
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Forex4Noobs has no access or control over these cookies that may be used by third party advertisers.
 
  **Collection of Personal Information**  
-When visiting Forex4Noobs, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information. 
+When visiting Forex4Noobs, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-**Links to third party Websites**  
+ **Links to third party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-**Changes to this Privacy Statement**  
+ **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Forex4Noobs then you may contact us [here](http://www.forex4noobs.com/support/ "Contact Us")
