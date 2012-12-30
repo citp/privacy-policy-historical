@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pchelpsoft.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629012234id_/http%3A//www.pchelpsoft.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchelpsoft.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184503id_/http%3A//www.pchelpsoft.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PC HelpSoft
 
-You are here: [Home](https://web.archive.org/) / [Company](https://web.archive.org/company) / Privacy Policy
+You are here: [Home](https://web.archive.org/) / [Company](https://web.archive.org/company/) / Privacy Policy
 
 PCHelpSoft.com has created this policy in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for the PC HelpSoft network of sites. 
 
