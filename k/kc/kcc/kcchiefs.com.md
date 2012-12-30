@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510052412id_/http%3A//www.kcchiefs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcchiefs.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180503id_/http%3A//www.kcchiefs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # KCChiefs.com | Privacy and Security Statement
 
@@ -50,9 +50,7 @@ Registration: You may be asked to complete a registration form and provide perso
 
 Newsletters and Website Emails: We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors.  You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website.  Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.  You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email. 
 
-Tell-A-Friend: If you choose to use our referral service to tell a friend about season tickets, we will ask you for your friend’s name and email address.  We may send your friend a one-time email inviting him or her to visit the site.  Kansas City Chiefs stores this information for the sole purpose of sending an email and tracking the success of our referral program. 
-
-Your friend may contact us at <http://www.kcchiefs.com/unsubscribe/> to request that we remove this information from our database.
+Tell-A-Friend: If you choose to use our referral service to tell a friend about season tickets, we will ask you for your friend’s name and email address.  We may send your friend a one-time email inviting him or her to visit the site.  Kansas City Chiefs stores this information for the sole purpose of sending an email and tracking the success of our referral program. 
 
 Contests or Sweepstakes: We periodically operate contests and sweepstakes through the Website that may require registration or the submission of personal information.  Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.  Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes, (see the rules of each contest for details about how your personal information will be used).
 
@@ -66,7 +64,7 @@ Transaction Information: If you conduct a financial transaction with our Website
 
 How We Use The Information Collected
 
-As applicable, the information you provide to us may be used to: 
+As applicable, the information you provide to us may be used to:
 
   * contact you about the Website;
   * contact you relating to your membership status;
@@ -87,7 +85,7 @@ Agents: We employ other businesses, certain services and individuals to perform 
 
 Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information. An example when the user accesses real video content.
 
-Other Promotional Offers:  We may send offers to you on behalf of our marketing partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may use the opt out method detailed in the email [http://www.kcchiefs.com/unsubscribe/](http://www.kcchiefs.com/) or change your preferences by logging into your account. 
+Other Promotional Offers:  We may send offers to you on behalf of our marketing partners. When we do this, we do not give that partner your name and address. If you do not want to receive such offers, you may use the opt out method detailed in the email or change your preferences by logging into your account.
 
 To remove by mail:  
 Lance Brown  
@@ -147,4 +145,4 @@ Lance Brown
 Attn: Website Privacy Policy  
 Kansas City Chiefs  
 1 Arrowhead Drive  
-Kansas City, MO 64129 
+Kansas City, MO 64129
