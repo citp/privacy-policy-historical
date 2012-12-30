@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newsyaps.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626013506id_/http%3A//www.newsyaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsyaps.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230100733id_/http%3A//www.newsyaps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NewsYaps
 
-Thank you for giving your precious time to NewsYaps, a website running under the network of [D Techmonkey Solutions Pvt. Ltd](http://www.techmonkey.in/ "TechMonkey - Content Channels"). We highly apprise your backup and readership and respect your privacy with high values. Right here on NewsYaps, we are committed to protect the significant personal informations you provide us while visiting this website. Our intention is to enhance the potential of our business interests by implementing those maxims in the privacy policy, which manifestly describes the spirit to protect your sensible prospects of privacy. However, this privacy policy can be updated any time and NewsYaps encourage you to check back this page often so that you can keep yourself familiar with our latest versions and terms.
+Thank you for giving your precious time to NewsYaps, a website running under the network of [D Techmonkey Solutions Pvt. Ltd](http://www.techmonkey.in/ "TechMonkey - Content Channels"). We highly apprise your backup and readership and respect your privacy with high values. Right here on NewsYaps, we are committed to protect the significant personal informations you provide us while visiting this website. Our intention is to enhance the potential of our business interests by implementing those maxims in the privacy policy, which manifestly describe the spirit to protect your sensible prospects of privacy. However, this privacy policy can be updated any time and NewsYaps encourage you to check back this page often so that you can keep yourself familiar with our latest versions and terms.
 
 **(A) Range:**
 
@@ -60,7 +60,7 @@ We may access your these personal details from our network partners (social netw
 
 To protect your information is our biggest concern and that’s why we provide your personal details to our network partners under certain circumstances with strict policies. The sharing policy is executed within following points :
 
-  * We may hire a third party for maneuvering the technicalities of website but these tasks are performed under strict vigilance of our crew. Absolutely on our behalf.
+  * We may hire a third party for maneuvering the technicalities of website but these tasks are performed under strict vigilance of our crew. Absolutely on our behalf!
   * However, third parties help us in developing services of your interest but we DO NOT provide them your contact information.
   * If you’re directly involved in the public affairs of NewsYaps (i.e. comments), then only your user name, url and gravatar image (if registered) will be visible to the third party.
   * In case, if website is acquired by other company then we will properly notify you before exchanging your information.
@@ -84,11 +84,11 @@ As a user of NewsYaps, your most significant contribution is to participate in c
 
   * Avoid yourself from engaging in personal attacks.
   * NewsYaps will delete those comments that are based on the nature of sexism, abusive, racism, vulgarity and spammy.
-  * Respect the views and emotions of other users. NewsYaps reserve the right to delete any article that might be found exceedingly offensive.
+  * Respect the views and emotions of other users. NewsYaps reserves the right to delete any article that might be found exceedingly offensive.
   * We can’t tolerate deception. Our team will easily separate the defaming tactic from constructive debates.
   * In order to keep the article alive, please avoid off-topic comments.
   * Your intelligent discussions will be highly appreciated by our community.
-  * NewsYaps reserve the right to delete any account for no reason at all (we will do it only after receiving allegations from authorities and third parties).
+  * NewsYaps reserves the right to delete any account for no reason at all (we will do it only after receiving allegations from authorities and third parties).
   * Do not cloak yourself.
 
 
@@ -101,6 +101,6 @@ In order to forbid wildcat access and safeguard the personal data of users, we h
 
 If you have concerns and questions about the privacy policy of NewsYaps, please contact us at info@techmonkey.in.
 
-****NewsYaps does not holds responsibility for the content of external websites****
+****NewsYaps does not hold responsibility for the content of external websites****
 
 _* This Privacy Policy is effective from 08/05/2011_
