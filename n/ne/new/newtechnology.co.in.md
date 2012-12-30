@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newtechnology.co.in privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101827id_/http%3A//www.newtechnology.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtechnology.co.in privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180546id_/http%3A//www.newtechnology.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy|Technology News India - Latest trends in Technology
+# Privacy Policy|Technology News India - Latest Gadgets Price , Reviews
 
 ## **Log Files**
 
