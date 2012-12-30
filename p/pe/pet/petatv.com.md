@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petatv.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517054344id_/http%3A//www.peta.org/priv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petatv.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230203000id_/http%3A//www.peta.org/priv.asp) for the most accurate reproduction.*
 
 # Privacy Policy | PETA.org
 
@@ -38,9 +38,9 @@ PETA uses "cookies" on some Web pages. A cookie is a small piece of data that is
 
 PETA also uses cookies to administer its websites, track visitor movement, and gather broad demographic information for aggregate use. 
 
-**How is information used in PETA e-news?**
+**How is information used in PETA **e-mails**?**
 
-You will only receive e-mail newsletters (e-news) from us if you have expressly signed up for e-news on a PETA website. The information that we gather from subscribers to our e-news list, including their e-mail addresses, is not shared with non-PETA–affiliated organizations or companies. From time to time, we may send out e-mail messages that might include information about these like-minded organizations and companies, but we do not provide them with access to any personal information that you have provided. If you live outside the U.S. and provide us with your contact details, we may share these with PETA's international affiliates in order to keep you apprised of developments in your part of the world. If you don't want your information to be given to PETA's international affiliates, please e-mail [Info@peta.org](mailto:%20Info@peta.org). 
+If you provide PETA with your e-mail address, you will be signed up to start receiving e-mails from PETA. You can unsubscribe from any or all PETA e-mail lists at any time by following the instructions included in each e-mail or by e-mailing [Info@peta.org.](mailto:Info@peta.org.) The information that we gather from subscribers, including their e-mail addresses, is not shared with non-PETA–affiliated organizations or companies. From time to time, we may send out e-mail messages that might include information about these like-minded organizations and companies, but we do not provide them with access to any personal information that you have provided. If you live outside the U.S. and provide us with your contact details, we may share these with PETA's international affiliates in order to keep you apprised of developments in your part of the world. If you don't want your information to be given to PETA's international affiliates, please e-mail [Info@peta.org](mailto:%20Info@peta.org). 
 
 In order to provide you with better and more relevant information, we compile information about e-mail response and website usage. This information helps us to understand site usage patterns as well as find what types of content and information may help improve your user experience on PETA's websites.
 
