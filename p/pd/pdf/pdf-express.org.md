@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdf-express.org privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612015740id_/http%3A//www.ieee.org/web/publications/rights/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-express.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230053736id_/http%3A//www.ieee.org/web/publications/rights/privacy.html) for the most accurate reproduction.*
 
 # IEEE - About Your Privacy and Cookies
 
