@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialcontent.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621115354id_/http%3A//www.financialcontent.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialcontent.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184313id_/http%3A//www.financialcontent.com/privacy.php) for the most accurate reproduction.*
 
 # Stock Quote Widgets, Web Services, and XML Data API's for websites
 
@@ -18,7 +18,7 @@ This website and the content modules that are distributed to its business custom
 
 ### Choice/Opt Out
 
-We use third-party companies to serve advertisements and collect non-personally identifiable information when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on this website, other websites and other forms of media about goods and services that may be of interest to you. If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click here.
+We use third-party companies to serve advertisements and collect non-personally identifiable information when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on this website, other websites and other forms of media about goods and services that may be of interest to you. If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please [click here](http://www.networkadvertising.org/managing/opt_out.asp#).
 
 ### Information Use
 
