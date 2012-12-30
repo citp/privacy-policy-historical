@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606003150id_/http%3A//www.masnsports.com/masn_news_information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masnsports.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230060922id_/http%3A//www.masnsports.com/masn_news_information/privacy-policy.html) for the most accurate reproduction.*
 
 # MASN News & Information - Orioles, Nationals, Ravens on MASNsports.com
 
