@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2012-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120325081413id_/http%3A//www.flightcentre.co.uk/info/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181117id_/http%3A//www.flightcentre.co.uk/policies) for the most accurate reproduction.*
 
-# Cheap flights, holiday packages, hotels, car hire, touring and travel insurance | Flight Centre
-
-## Privacy Policy
+# Flight Centre uk policies
 
 **Introduction**  
 This Privacy Policy ("Policy") explains in general terms how Flight Centre UK Limited Registered in England No. 2937210 ("Flight Centre", "we" "our" or "us") protects the privacy of your personal information. We are firmly committed to protecting the privacy and confidentiality of personal information and maintain robust physical, electronic and procedural safeguards to protect personal information in our care.
@@ -85,22 +83,24 @@ Further correspondence regarding your request should only be made in writing to 
 We may recover from you any additional reasonable costs of supplying you with access to this information.
 
 **Opt-out**  
-Should you no longer wish to receive information on direct mail promotions and services we think may be of interest to you or participate in market research, kindly advise our [Customer Service Department](https://web.archive.org/contactus/feedback/?feedback=5). If you would like to unsubscribe from the email newsletter please [click here](https://web.archive.org/newsletter-maintain).
+Should you no longer wish to receive information on direct mail promotions and services we think may be of interest to you or participate in market research, kindly advise our [Customer Service Department](https://web.archive.org/contact-us/feedback-data). If you would like to unsubscribe from the email newsletter please [click here](https://web.archive.org/newsletter-maintain).
 
 **Use of Cookies**  
 A cookie is a small piece of text that is placed within the memory of a computer and can be later retrieved by web page servers. We use cookies to enhance your interaction and convenience with our website and do not use cookies to record any personal information.
 
+Most web browsers allow control of cookies. To find out more about cookies; how to manage and delete them, visit [www.allaboutcookies.org.](http://www.allaboutcookies.org/)
+
 **Social Media**  
-At times we may share comments and feedback via our social media channels. Permission to use your information will always be requested prior to this occuring. 
+At times we may share comments and feedback via our social media channels. Permission to use your information will always be requested prior to this occuring.
 
 **Linked Sites**  
 Flight Centre has partnered with reputable third parties to offer our site visitors a variety of products and services. This means that our website may contain links to, or framing of, external web sites. Although we only work with reputable third parties, our business partners may have different privacy policies and practices than us. We are not responsible for the privacy practices or the content of such sites and therefore, make no warranties and accept no liability in relation to material contained on these. We encourage you to read the privacy statements of any linked or framed web site before submitting any personal information.
 
 **Feedback / Complaints**  
-We welcome your inquiries or comments about our Policy. Should you have any comments or complaints please contact our [Customer Service Department](https://web.archive.org/contactus/feedback/?feedback=1).
+We welcome your inquiries or comments about our Policy. Should you have any comments or complaints please contact our [Customer Service Department](https://web.archive.org/contact-us/feedback-compliment).
 
 **Phone Enquiries**  
 Calls may be recorded for training purposes.
 
 **Changes to our Policy**  
-From time to time it may be necessary for us to review and revise this Policy. We reserve the right to change our Policy at any time, should this occur the amendment would be posted on our website.
+
