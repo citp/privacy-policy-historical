@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the korg.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609211846id_/http%3A//www.korg.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the korg.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230122121id_/http%3A//www.korg.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Korg - Privacy Policy
+# Korg
 
 **Privacy Policy**  
 KORG USA Inc. understands your concerns about privacy and we treat your personal information as confidential. We do not rent, sell, barter or trade e-mail addresses. When you place an order with us, we collect your name, address, telephone number, credit card information and your e-mail address. We use this information to fulfill your order and to communicate with you about your order. We may use this information to communicate additional information about this website.
