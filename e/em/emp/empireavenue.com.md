@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the empireavenue.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512180402id_/http%3A//www.empireavenue.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empireavenue.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181750id_/http%3A//empireavenue.com/legal/privacy) for the most accurate reproduction.*
 
-# Empire Avenue | Expand, Engage, Evaluate
-
-_This document updated: 19/04/2011_
+# Empire Avenue
 
 ## Privacy Policy
+
+_This document updated: 19/04/2011_
 
 **Empire Avenue Inc. (Empire Avenue) considers issues relating to your privacy to be a serious matter. As such, Empire Avenue has created and implemented this Privacy Policy so that you understand what Empire Avenue may and may not do with certain Personal Information.**
 
