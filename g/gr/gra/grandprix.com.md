@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandprix.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523201246id_/http%3A//www.grandprix.com/hmppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230051826id_/http%3A//grandprix.com/hmppolicy.html) for the most accurate reproduction.*
 
 # F1 News - Grandprix.com
 
