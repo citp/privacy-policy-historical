@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the penpalworld.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622174505id_/http%3A//www.penpalworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penpalworld.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230101818id_/http%3A//www.penpalworld.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - PenPal World
+# Our Privacy Policy - PenPal World
 
-PenPal World understands and respects that your privacy should always remain strictly under your control. It is because of this philosophy that you can be confident that the information you divulge to PenPal World will not be accessible to people whom you have not authorized. Neither will it be sold or otherwise distributed to third parties other than in accordance with this policy without your consent. PenPal World is not a source of unsolicited email.
+PenPal World understands and respects that your privacy should always remain strictly under your control. It is because of this philosophy that you can be confident that the information you divulge to PenPal World will not be accessible to people whom you have not authorized. Neither will it be sold or otherwise distributed to third parties other than in accordance with this policy without your consent. PenPal World is not a source of unsolicited e-mail.
 
  **Questions**
 
@@ -12,7 +12,7 @@ PenPal World understands and respects that your privacy should always remain str
   4. Does PenPal World sell my information to third parties?
   5. How secure is your web server?
   6. Will I be added to any mailing lists?
-  7. Do you send unsolicited emails?
+  7. Do you send unsolicited e-mails?
   8. What do you use cookies for?
   9. How will I be notified of changes?
   10. How do I cancel my membership?
@@ -38,17 +38,17 @@ PenPal World also collects other data, which may include your IP address and wha
 
 As a matter of policy, PenPal World does not sell, rent or lend any of your personal information to third parties other than in accordance with this policy without your consent. However, the following describes some of the ways that your personal information may be used in the normal routine to provide PenPal World range of services to you.
 
-Service Management. PenPal World uses your personal information to provide the services you request. PenPal World uses your personal information to: troubleshoot problems; measure consumer interest in PenPal World's services, inform you about offers, products, services, and updates; customize your experience; detect and protect PenPal World against error, fraud and other criminal activity; enforce PenPal World's Terms of Use; and as otherwise described to you at the time of collection.
+ _Service Management_. PenPal World uses your personal information to provide the services you request. PenPal World uses your personal information to: troubleshoot problems; measure consumer interest in PenPal World's services, inform you about offers, products, services, and updates; customize your experience; detect and protect PenPal World against error, fraud and other criminal activity; enforce PenPal World's Terms of Use; and as otherwise described to you at the time of collection.
 
 You agree that PenPal World may use personal information about you to improve PenPal World's marketing and promotional efforts, to analyze site usage, improve PenPal World's content and product offerings, and customize the site's content, layout, and services. These uses improve the site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the site.
 
-You agree that PenPal World may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. By accepting the Terms of Use and Privacy Policy, you expressly agree to receive this information. You may make changes to your email notification preferences at any time.
+You agree that PenPal World may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. By accepting the Terms of Use and Privacy Policy, you expressly agree to receive this information. You may make changes to your e-mail notification preferences at any time.
 
-Advertisers. PenPal World might disclose non-personally identifiable aggregated (gather up data across all member accounts) information to advertisers and other third parties. An example of non-personally identifiable information would be 'the number of members aged 20-30'.
+ _Advertisers_. PenPal World might disclose non-personally identifiable aggregated (gather up data across all member accounts) information to advertisers and other third parties. An example of non-personally identifiable information would be 'the number of members aged 20-30'.
 
-Law Enforcement. PenPal World cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and PenPal World's service. Therefore, in response to a genuine request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, PenPal World can disclose personal information about you.Third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the site. Therefore, although PenPal World uses industry standard practices to protect your privacy, PenPal World does not promise, and you should not expect, that your personal information or private communications will always remain private.
+ _Law Enforcement_. PenPal World cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights, to help protect you and PenPal World's service. Therefore, in response to a genuine request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, PenPal World can disclose personal information about you.Third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the site. Therefore, although PenPal World uses industry standard practices to protect your privacy, PenPal World does not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-Acquisition. It is possible that as PenPal World continues to develop its website and its business, PenPal World's service and/or related assets might be acquired. Notwithstanding any provision in this policy to the contrary, in event of a merger or acquisition, your personal information may be transferred to the acquiring entity, and become subject to the acquirer's data practices.
+ _Acquisition_. It is possible that as PenPal World continues to develop its website and its business, PenPal World's service and/or related assets might be acquired. Notwithstanding any provision in this policy to the contrary, in event of a merger or acquisition, your personal information may be transferred to the acquiring entity, and become subject to the acquirer's data practices.
 
  **How secure is your web server?** top
 
@@ -71,9 +71,9 @@ PenPal World uses industry standard technology to keep your personal information
 
 PenPal World does not sell, rent or lend e-mail addresses for any other purpose than in direct association with your use of PenPal World's service or as otherwise described in this privacy policy.
 
- **Do you send unsolicited emails?** top
+ **Do you send unsolicited e-mails?** top
 
-PenPal World will not send any unsolicited information, including e-mail. You will, however receive emails which form an essential part of the service.
+PenPal World will not send any unsolicited information, including e-mail. You will, however receive e-mails which form an essential part of the service.
 
  **What do you use cookies for?** top
 
@@ -95,4 +95,6 @@ This action will cancel your membership and delete your details from the system,
 
  **How do I contact you?** top
 
-If you have any questions about PenPal World's privacy statement, the practices of this website or your dealings with this website, you can contact PenPal World via the [support page](https://web.archive.org/web/20120622174505id_/http%3A//www.penpalworld.com/support.asp).
+If you have any questions about PenPal World's privacy statement, the practices of this website or your dealings with this website, you can contact PenPal World via the [support page](https://web.archive.org/web/20121230101818id_/http%3A//www.penpalworld.com/support.asp).
+
+This document was last modified on February 2, 2012
