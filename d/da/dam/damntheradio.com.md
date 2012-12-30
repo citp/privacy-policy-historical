@@ -1,105 +1,35 @@
-> *The following text is extracted and transformed from the damntheradio.com privacy policy that was archived on 2011-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111223112515id_/http%3A//www.damntheradio.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damntheradio.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230092659id_/http%3A//www.fanbridge.com/policies/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - FanBridge
 
-## PRIVACY POLICY
+_Last Update: February 1, 2006_  
+FanBridge.com is an email list management service provided by FanBridge, Inc.  
+To report any abuse or violations of the FanBridge service, please send email to [our Abuse Department](mailto:abuse@FanBridge.com) and attach an unedited copy of the email message that you feel was sent to you in error or without your permission. Include all header information so that we can trace origin of the message. Also include any notes or other information that you feel are pertinent. Any questions or concerns regarding this privacy policy may be directed to [our support department](mailto:contact@FanBridge.com).
 
-This site is owned and operated by Damntheradio, Inc. ("Damntheradio"). Your privacy on the Internet is of the utmost importance to us. At Damntheradio, we want to make your experience online satisfying and safe. This privacy policy applies to all Damntheradio related websites and applications such as those built on popular social networking sites. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
+Children's Guidelines  
+This website is directed persons over the age of 13, and we do not seek to collect from children online contact information or distribution to third parties any personally identifiable information from children or entice children to divulge information to us.
 
-## INFORMATION DAMNTHERADIO GATHERS AND TRACKS
+Email and Direct Response Contact  
+All of our direct response methods are opt-in. If you subscribed to our email newsletter(s) but do not want to receive it in the future, please follow the "unsubscribe" instructions contained in the newsletter(s).
 
-Damntheradio gathers the following types of information about users:
+Website Information Collection  
+For each visitor to our web page, our web server automatically recognizes only the consumer's domain name or IP address, but not the email address. Unless otherwise stated on our website, we collect only the domain name or IP address of visitors to our web page, the email addresses of those who communicate with us via email, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and registrations to access portions of the site and their related services or to set up a FanBridge account. We also collect clickstream information. We use SSL (secure socket layer) encryption for online payment collection for purchases of our own proprietary products and services, which includes the FanBridge email list management service.
 
-Information that users provide through optional, voluntary submissions. These are submissions to become a user of our applications, to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys.
+Use of Website Information Collected  
+The information we collect is used to create an aggregate demographic profile of our user base so that we can improve the content and services of our website and provide aggregate information to potential advertisers (no individual information is provided to any third-party without your consent), to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Website and services, to send visitors our opt-in email newsletter(s) (if requested by the visitor), to provide users with the products and/or services for which they signed-up or registered which may include sending service disruption notices or other service- or product-related information via email, and is not shared with other organizations for commercial purposes without the visitor's consent. We may share collected information with another company in the event that we merge with or are acquired by another company. Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us email at the above address. Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them. You can access this information, and/or have it corrected, by logging into your account online.
 
-Information Damntheradio gathers personal information the users directly provide on our websites. Damntheradio collects personal information from our users as a user of our applications. The information we collect may include names, email addresses, demographic information and any other information. We may supplement this information with information collected from other companies. This information allows us to better tailor our content to our users' and readers' needs and to help our advertisers, sponsors, and vendors better understand the demographics of our users and audience.
+Use of Your Email List Information  
+FanBridge is not an email list rental service and does not rent or sell any email addresses or other contact information that you provide or collect regarding your email list members. At all times, you retain ownership and control of your email lists and list information. When you schedule an email message to be broadcast to your list members, FanBridge sends your message based on the personalization, targeting, and other criteria that you specified when you created and scheduled your message. Please keep your account login and password secure at all times, changing your password regularly as you would on other computer systems to prevent unauthorized access or use. In order to comply with government legislation, email addresses which have requested no further contact will be placed on a suppression list which may be accessed by other organizations to maintain suppression of such addresses in their mailings as well as ours.
 
-When a user visits our websites or uses our applications some information may be automatically collected. It is standard for your web browser to automatically send information to every website you visit including ours. That information includes your computer's Internet Protocol (IP) address, access times, browser type and language, and referring website addresses. We may also collect information about your computer's operating system and information about your usage and activity on our websites.
+Cookies  
+We use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize web page content based on visitors' browser type or other information that the visitor sends, and to enable access to specific areas on the website.  
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>.
 
-Damntheradio Gathers User Information In The Following Processes: 
+Security  
+We strive to maintain appropriate security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Although we take reasonable measures to secure our data, we cannot guarantee that the measures we take are or will remain adequate. Some portions of our sites and services link to other companies' websites. Please refer to the privacy policies of those sites for information on how they handle security for information they collect.
 
-Damntheradio may from time to time offer certain services, which require some type of voluntary submission of personal information by users:
+Postal Address Collection and Use  
+If you supply us with your postal address online, we will use it to send you the information for which you provided us your address. If you supply us with your telephone number online, we will use it to contact you with information regarding your account, orders your have placed, or with information regarding your inquiry. We may send you information about additional services that we offer, but we will not rent or sell your contact information to any third parties without your permission.
 
-Electronic newsletters policy (Dispatches)
-
-We may offer a free electronic newsletter to users. Damntheradio gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration of our application.
-
-2\. Message boards/forums policy
-
-Users of the site's Message Boards and Forums may have to register separately for these services in order to post messages, although they may not need to register to visit the site. During registration the user may be required to supply a username, password, and email address.
-
-3\. "E-mail this to a friend" policy
-
-Our website may offer an option to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient.
-
-4\. Polling
-
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated. Damntheradio may use a system to "tag" users after they have voted, so they can vote only once on a particular question.
-
-5\. Surveys
-
-Damntheradio may occasionally conduct user surveys to better target our content to our audience and users. We may share the aggregated demographic information in these surveys with our sponsors, advertisers and partners.
-
-Children
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
-
-Usage tracking
-
-Damntheradio tracks user traffic patterns throughout all of our sites and applications. We may correlate this information with data about individual users. Damntheradio may break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). Damntheradio sometimes tracks and catalogs the search terms that users enter in our Search function. We may use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. This helps us continue to build a better service for you.
-
-Cookies
-
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain personal information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Damntheradio uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site.
-
-Web Beacons
-
-Web beacons (or also known as gifs) are electronic images that may be used on our websites or in our emails. A web beacon may be used on our websites to collect information, deliver cookies, count visits, understand usage and campaign effectiveness, or in our emails to tell if an email has been opened and acted upon.
-
-## USE OF INFORMATION
-
-Damntheradio uses any information voluntarily given by our users to enhance their experience in our network of sites and applications, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. Damntheradio may use the information collected in the following ways:
-
-to personalize, enhance, improve and enhance your experience on our websites and applications;
-
-to respond to comments, feedbacks, and questions, and to provide better customer service;
-
-to deliver messages and other services and content our users may request and to send information related to accounts and services, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
-
-to send our users information about new promotions, products, and services offered by Damntheradio and our selected partners; and
-
-to conduct an analysis of the performance of promotions and events.
-
-The personal information gathered by Damntheradio may be linked or combined with other personal information we collect or obtain from third parties. Damntheradio may store and process personal information in the United States and other countries.
-
-## SHARING OF THE INFORMATION
-
-Damntheradio uses the above-described information to tailor our content to suit your needs and help our advertisers and partners better understand our audience's demographics. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-Some promotions and features of our websites and application may request you to participate in certain promotions or when using certain applications your information may be collected and used by Damntheradio and other companies partnered with Damntheradio. Use of your information by those other companies for their own purposes is not controlled by Damntheradio and is subject to their own terms and privacy policies. Please review each sponsor's promotion rules and privacy policy for details.
-
-We do not share your personal information with third parties other than as described above or as described in this policy and as follows:
-
-with your consent, for example, when you agree to our sharing your information with other third party partners for their own marketing and other purposes subject to their separate privacy policies;
-
-with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us; to (a) comply with laws or respond to lawful requests and legal process, (b) to protect the rights and property of Damntheradio, our agents, members, and others including to enforce our agreements, policies and terms of use, or (c) in the good faith belief that disclosure is needed to respond to an emergency or protect the personal safety of any person; and
-
-in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
-
-## SECURITY
-
-Damntheradio operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
-
-## OPT-OUT POLICY
-
-We give users options wherever necessary and practical. Such choices include:
-
-Opting not to register to receive our electronic newsletters, emails, promotions or other marketing materials.
-
-Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.
-
-## YOUR CONSENT
-
-By using this website and our application, you consent to the collection and use of this information by Damntheradio. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-LAST UPDATED: June 30, 2010 
+Changes to Privacy Policy  
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to our website's Privacy Policy page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website's Privacy Policy page periodically.
