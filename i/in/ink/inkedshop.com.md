@@ -1,72 +1,115 @@
-> *The following text is extracted and transformed from the inkedshop.com privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424195051id_/http%3A//www.inkedshop.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkedshop.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230051825id_/http%3A//www.inkedshop.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms: Privacy
+# Privacy Policy
 
-**Privacy Policy**
+PRIVACY POLICY
 
-**What information do we collect?**
+Introduction
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+Thank you for visiting our website.  This privacy policy (“Privacy Policy”) applies to the websites that post this Privacy Policy, including, without limitation, www.inkedshop.com (each a “Site” and collectively, the “Sites”) (however accessed and/or used, whether via personal computers, mobile devices or otherwise), which are owned and operated by Inked Shop, Inc. (“Inked Shop” or “we,” “our,” or “us”).  This Privacy Policy also applies to widgets, applications, interactive features and/or downloads that are owned or operated by Inked Shop and available through the Sites, or that post a link to this Privacy Policy.  This Privacy Policy covers information collected at the Sites and does not cover any information collected at any other website or offline by Inked Shop (unless specifically stated).
 
-  
- **How do we use your information?**
+We want you to enjoy your experience on the Sites, so it’s important for you to understand our practices for information we collect about you from the Sites, including the types of information we collect regarding visitors to the Sites and how we may use that information.  This Privacy Policy explains these practices.  Please review this Privacy Policy carefully.  In addition, please review the Sites’ Terms of Use, which governs your use of the Sites.
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Consent
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
-  * To quickly process your transactions.
-  * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+BY USING THE SITES OR SUBMITTING PERSONAL INFORMATION THROUGH THE SITES, YOU EXPRESSLY CONSENT TO THE COLLECTION, USE, AND DISCLOSURE OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY.  
+Information You Provide To Us
 
-  
- **How do we protect visitor information?**
+We may ask that you provide us, or otherwise give you the opportunity to provide us, with certain categories of information, such as: (1) personally identifiable information (i.e., information that can reasonably be used to identify you personally, or information associated with the foregoing) such as your name, email address, birth date, credit card number, and physical address (any of the foregoing, “Personal Information”); and (2) demographic information, such as gender, zip code, or similar information (“Demographic Information”).  We may collect this information through various forms and in various places on the Sites, including account registration forms, if you maintain a “wish list,” sweepstakes and contest entry forms, email newsletter sign-ups, or when you submit information, communicate or otherwise interact with us.  We do not consider Demographic Information about you to be Personal Information unless it is associated with Personal Information so as to permit identification of you.  If we combine Demographic Information with the Personal Information we collect, we will treat it as Personal Information under this Privacy Policy.
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+Information We Collect Via Technology
 
- **Do we use "cookies"?**
+In addition to any Personal Information or other information that you choose to submit to the Sites, we and our third-party service providers may use a variety of now and later developed methods or technologies that automatically or passively collect certain information whenever you visit or interact with the Sites (“Usage Information”).  This Usage Information may include the browser you are using, the URL that referred you to our Sites, all of the areas within our Sites that you visit, and the time of day, among other information.  We may use Usage Information for a variety of purposes, including to enhance or otherwise improve the Sites and your interaction with them.  In addition, we collect your IP address or other unique identifier (“Device Identifier”) for your computer or other devices used to access the Sites (any, a “Device”).  A Device Identifier is a number that is automatically assigned to your Device used to access the Sites, and our computers identify your Device by its Device Identifier.  Whenever we associate Usage Information or a Device Identifier with your Personal Information, we will treat it as Personal Information.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+A few of the methods and technologies that may be used to collect Usage Information include the following:
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Cookies.  A cookie is a data file placed on a Device when it is used to visit the Sites.  A Flash cookie is a data file placed on a Device via the Adobe Flash plugin that may be built-in to or downloaded by you to your Device. Cookies and Flash Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages.  If you choose to disable cookies or Flash cookies on your Device, some features of the Sites may not function properly.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+Web Beacons.  Small graphic images or other web programming code called web beacons (also known as “1x1 GIFs” or “clear GIFs”) may be included in our web pages and email messages.  Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or email can act as a web beacon.  Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Sites, to monitor how users navigate the Sites, to count how many emails that were sent were actually opened or to count how many particular articles or links were actually viewed.
 
- **Do we disclose the information we collect to outside parties?**
+Embedded Scripts.  An embedded script is programming code that is designed to collect information about your interactions with the Sites, such as the links you click on.  The code is temporarily downloaded onto your Device from our web server or a third party service provider, is active only while you are connected to the Sites, and is deactivated or deleted thereafter.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Inked Shop. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+Purchases Made Through Our Sites
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We may contract with third parties to provide services such as online order selection and fulfillment services for the products available on our Sites ("Products").  You acknowledge and agree that you may be leaving our Sites to select Products and place your Product order.  Such third parties’ websites are subject to such sites’ policies, and when you are on those sites, those sites’ privacy policy and not this Privacy Policy govern the collection of information from you.
 
- **How can you opt-out, remove or modify information you have provided to us?**
+Personal Information from Other Sources
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+We may from time to time supplement the information we collect about you online with information from other sources, such as information validating your address or information you provided to us through one of our retail stores, including, without limitation, in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. Thus, information we obtain may be intermingled with and used in conjunction with information obtained through other sources, including both offline and online sources.  In those cases, we will apply this Privacy Policy to any Personal Information received, unless we have stated otherwise.  
+You may also choose to participate in a third party application (such as one of our Facebook applications or a similar application on a third party web site) through which you allow us to collect (or the third party to share) information about you, including Personal Information.  The third party may allow you to remove the application, in which case we will no longer collect information about you through the application, but we may retain the information previously collected.  In addition, we may receive information about you if other users of a third party web site give us access to their profiles and you are one of their "friends" or information about you is otherwise accessible through your friend's web page, profile page, or similar page on a social networking or other third party web site or interactive service. 
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+Information You Provide About A Third Party
 
- **Third party links**
+If you send someone else a communication from the Sites, such as sending an article to a friend or information about Products, we use the information you provide (typically, names and email addresses) to facilitate the communication and we do not use it for any other marketing purpose, unless we obtain consent from that person. 
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+Use of Information
 
- **Changes to our policy**
+Inked Shop may use your Personal Information, Demographic Information or Usage Information: (1) to provide you with products, information or services or process transactions that you have requested or agreed to receive, including to send you electronic newsletters, or to provide you with special offers or promotional materials on behalf of us or third parties; (2) to enable you to participate in a variety of the Sites’ features such as online entry sweepstakes, message boards and other communication features, user-generated content functions, and interactive features; (3) to process your registration with the Sites, including verifying your email address is active and valid; (4) to improve the Sites or our services, to customize your experience on the Sites, or to serve you specific content that is most relevant to you; (5) to contact you with regard to your use of the Sites and, in our discretion, changes to the Sites and/or Sites’ policies; (6) for internal business purposes; and (7) for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy. 
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
+Further, we may use third party analytics and other service providers to evaluate and provide us with information about the use of the Sites and viewing of our content.  We do not share Personal Information with these analytics service providers, but they may set and access their own tracking technologies and methods such as cookies, web beacons and embedded scripts on your Device and they may otherwise collect or have access to information about you, including Usage Information.   This Privacy Policy does not govern such third party tracking technologies but does govern our collection and use of your Usage Information we receive in connection therewith.
 
- **Questions and feedback**
+Please note that when you submit information to the Sites via a “contact us” or other similar function, you may not always receive a response.  We will not use the information provided to contact you for marketing purposes unrelated to your request unless you agree otherwise.
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+Disclosure of Information
 
- **Online Policy Only**
+Inked Shop may share Usage Information and Demographic Information with third parties.  Except as set forth in Section (f) below, we do not share your Personal Information with third parties for those third parties’ marketing purposes unless you consent to such sharing at the time you provide your Personal Information.  Notwithstanding anything herein to the contrary, we may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+(a) When You Agree To Receive Information From Third Parties.  You may be presented with an opportunity to receive information and/or marketing offers directly from third parties.  If you do agree (or, as applicable, do not decline) to have your Personal Information shared, your Personal Information will be disclosed to such third parties and all information you disclose will be subject to the privacy policy and practices of such third parties.  We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review the privacy policies and practices of such third parties prior to agreeing to receive such information from third parties.  If you later decide that you no longer want to receive communication from a third party, you will need to contact that third party directly.
 
- **Terms and Conditions**
+(b) Third Parties Providing Services on Our Behalf.  We may use third party vendors to perform certain services on behalf of the Sites, such as hosting the Sites, designing and/or operating the Sites’ features, tracking Site analytics, enabling you to purchase Products and enabling Inked Shop to send you email newsletters or performing other administrative services.  We may provide these companies with access to user information, including Personal Information, to carry out the services they are performing for you or for Inked Shop.
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20120424195051id_/http%3A//www.inkedshop.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+(c) Co-branded Areas. Certain areas of the Sites may be provided to you in association with third parties (“Co-Branded Areas”) and may require you to disclose Personal Information in order to register for and access Products.  Such Co-Branded Areas will identify the third party associates.  If you elect to register for Products and/or services at Co-Branded Areas you may be providing your information to both Inked Shop and the third party associates.  Further, if you sign-in to a Co-Branded Area with a username and password obtained on the Sites, your Personal Information may be disclosed to the identified third party associates for that Co-Branded Area and will be subject to the posted privacy policies.
 
- **Your consent**
+(d) Sweepstakes, Contests and Promotions.  We may offer sweepstakes, contests, and other promotions (any, a “Promotion”) through the Sites that may require registration.  By participating in a Promotion, you are agreeing to the terms, conditions and official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion.  If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
 
-By using our site, you consent to our privacy policy.
+(e) Administrative and Legal Reasons.  We may transfer and disclose your information, including Personal Information, to third parties: (i) in the event we are required to respond to subpoenas or other legal process or if in our good faith opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; (iii) to protect and/or defend the Sites’ Terms of Use or other policies applicable to the Sites; or (iv) to protect the personal safety, rights, property or security of any individual.  We may also use IP address or other Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion.  Such disclosures may be carried out without notice to you.
+
+(f) Business Transfer.  Inked Shop may share Personal Information with its parent and its and their subsidiaries and affiliates.  Inked Shop also reserves the right to disclose and transfer all information related to the Sites, including, without limitation, your Personal Information, Demographic Information and Usage Information: (i) to a subsequent owner, co-owner or operator of the Sites or applicable database; or (ii) in connection with a corporate merger, change of control, consolidation, restructuring, the sale of substantially all of Inked Shop’s assets or other corporate change, including, without limitation, during the course of any due diligence process.
+
+   Your Choices Regarding Your Personal Information
+
+When you receive promotional emails from us, you may indicate a preference to stop receiving such communications from us and you will have the opportunity to "opt-out" by following the instructions in the applicable email.  When you receive promotional text messages from us, you have the opportunity to "opt-out" by texting "STOP" to the number set forth in the Inked Shop Terms of Use or in your sign-up materials, or by following any unsubscribe instructions in the applicable text message. If we contact you by telephone for promotional purposes, you may notify us at that time if you do not wish to receive further promotional telephone communications. Note that if you've provided multiple forms of contact information at different times, you may have to opt out for each set of contact information that you have added to your account. If you don't want to reply to an e-mail or text message you receive, or want a simpler way to opt out of receiving e-mails or text messages from us, you can just tell us what you want by contacting:
+
+Inked Shop  
+12 West 27th Street  
+Floor #10  
+New York, NY 10001  
+646 434 9192
+
+We may contact you for service-related purposes (such as, but not limited to, notice that we have changed the Sites or the Privacy Policy) when we believe it necessary or advisable to do so. You may not opt out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to terminate your account. You understand that any such termination of your account may involve deletion of your Personal Information from our live databases.  Inked Shop will not have any liability to you for any termination of your account or related deletion of your information.
+
+You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration.  The Sites may allow you to review, correct, change or update certain of the Personal Information in your account by logging in to your account and editing it, provided that it remains accurate, complete, and up to date.  Inked Shop will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable. 
+
+You may request that we delete or destroy your Personal Information.  We will make good faith efforts to delete or destroy any Personal Information that we have collected about you, solely to the extent permitted by law.  When we delete electronic information that we have collected from or about you, it will be deleted from our active databases but may remain in our archives.
+
+Information I Disclose Publicly
+
+(a) User Generated Content, Social Networking and Public Information.  The Sites may permit you to submit ideas, photographs, user profiles, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions, communications,  or other content, including Personal Information (collectively, “User Generated Content”).  User Generated Content may be published online or offline in any media or format (currently existing or hereafter developed).  Others may have access to this User Generated Content and may have the ability to share it with third parties across the Internet.  Additionally, you may have the opportunity to engage in social networking or other online activities through the Sites, such as creating a public profile, sharing User Generated Content, and inviting others to connect with you.  Please think carefully before deciding what information you share, including Personal Information, in connection with your User Generated Content or social networking and other online activities.  Please note that Inked Shop does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure.  Notwithstanding anything to the contrary herein, this Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload onto the Sites.  We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the Sites. 
+
+(b) Name and Likeness.  We may also publish your name, voice, likeness and other Personal Information that is part of your User Generated Content, and Inked Shop may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Generated Content you submit to the Sites, please review our Terms of Use.
+
+Security
+
+We incorporate commercially reasonable safeguards to help protect and secure your Personal Information.  However, no data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure.  Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use our Sites and provide us with your information at your risk.
+
+Links to Other Sites
+
+When you use the Sites, you could be directed to other sites that are beyond our control. For example, if you "click" on a banner advertisement, or a link, the "click" takes your browser off the Sites. We have no control over, do not review and are not responsible for the privacy policies of such other websites or other locations. These other sites and locations may send their own cookies or other tracking technologies to users, collect user data, or solicit Personal Information.
+
+Transfer of Information to the United States
+
+The Sites are operated in the United States and intended for users located in the United States.  If you are located in the European Union, Canada or anywhere else outside of the United States, please be aware that information we collect will be transferred to and processed in the United States.  The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States.  By using the Sites or providing us with any information, you consent to this transfer, processing and storage of your information in the United States.
+
+Changes in this Privacy Policy
+
+Inked Shop reserves the right to change this Privacy Policy at any time without notice to you.  Any changes will be effective immediately upon the posting of the revised Privacy Policy.  However, Inked Shop will not use your Personal Information in a manner materially different than what was stated at the time it was collected without your consent.
+
+Contact Us
+
+Inked Shop’s mailing address Inked Shop  
+12 West 27th Street  
+Floor #10  
+New York, NY 10001  
+646 434 9192
+
+This Privacy Policy was last updated April 09, 2012.
