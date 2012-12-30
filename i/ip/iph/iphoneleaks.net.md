@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iphoneleaks.net privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622144211id_/http%3A//www.iphoneleaks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphoneleaks.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230210616id_/http%3A//www.iphoneleaks.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Redsnow, Redsn0w, Jailbreak iOS 5.1/5.0.1/5.1.1 Untethered On iPhone 4S, iPad 3, iPad 2
+# Privacy Policy | Redsnow Absinthe Redsn0w Jailbreak iOS 6 / 5.0 / 5.0.1 / 5.1.1, Untethered – iPad 3, 2
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
