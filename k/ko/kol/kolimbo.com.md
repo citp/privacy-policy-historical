@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kolimbo.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501071030id_/http%3A//www.kolimbo.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kolimbo.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230060713id_/http%3A//www.kolimbo.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Kolimbo.com
 
