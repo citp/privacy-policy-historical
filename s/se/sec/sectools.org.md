@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sectools.org privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626192621id_/http%3A//insecure.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sectools.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184702id_/http%3A//insecure.org/privacy.html) for the most accurate reproduction.*
 
 # Insecure.org Privacy Policy
 
@@ -52,4 +52,4 @@ By using our web sites, you consent to the collection and use of your informatio
 
 **Contacting Insecure.Org**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact our privacy coordinator at [fyodor@insecure.org](mailto:fyodor@insecure.org). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact our privacy coordinator at [fyodor@nmap.org](mailto:fyodor@nmap.org). 
