@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515214711id_/http%3A//www.nrl.com/nrlhome/privacy/tabid/10627/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055412id_/http%3A//www.nrl.com/nrlhome/privacy/tabid/10627/default.aspx) for the most accurate reproduction.*
 
 # NRL Privacy - NRL.com
 
