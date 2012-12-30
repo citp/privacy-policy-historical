@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyworld.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503234049id_/http%3A//www.propertyworld.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyworld.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182113id_/http%3A//www.propertyworld.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - PropertyWorld.com
 
@@ -43,7 +43,7 @@ Excepting the aforementioned provisions PropertyWorld will not disclose informat
 
 **Cookies**
 
-'Cookies' enable small pieces of information to be stored by your browser on your computer's hard drive. PropertyWorld uses cookies in several ways. We use cookies to allow you to login, to keep track of your preferences and for us to track usage of the site. Most Web browsers automatically accept cookies but if you prefer you can edit your browser options to block them in the future.
+'Cookies' enable small pieces of information to be stored by your browser on your computer's hard drive. PropertyWorld uses cookies in several ways. We use cookies to allow you to login, to keep track of your preferences and for us to track usage of the site. Most Web browsers automatically accept cookies but if you prefer you can edit your browser options to block them in the future, although this may negatively impact on your use of the site.
 
 **Enquiries**
 
@@ -56,6 +56,6 @@ Surrey
 KT6 7WZ  
 England
 
-Customer Service +44(0)1372 27 60 45 (between 9.00 AM and 5.30 PM GMT) [enquiries@propertyworld.com](mailto:enquiries@propertyworld.com)
+Customer Service [enquiries@propertyworld.com](mailto:enquiries@propertyworld.com)
 
 Thank you for using PropertyWorld. 
