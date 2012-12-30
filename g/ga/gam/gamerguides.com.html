@@ -1,192 +1,228 @@
-<!--The following is the downloaded HTML source of the gamerguides.com privacy policy that was archived on 2012-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120410012912id_/http%3A//www.gamerguides.com/footer/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamerguides.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230061648id_/http%3A//www.gamerguides.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+
     <title>Privacy Policy</title>
+
     
-    <meta http-equiv="Content-Type" content="text/html; charset=latin">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
     <meta name="description" content="">
+
     <meta name="keywords" content="Privacy Policy">
+
     <meta name="google-site-verification" content="0Njd2Sk4GurBRZkzARPZqC_Wked7J0HaJUCmK5AWQLU"> 
+
     <meta name="google-site-verification" content="aGi-AKyO90M8sSySbXOsP4Px5t_fJqzKuBPVaKYuutg">
+
    
-            <link href="/css/css.comp.css" rel="stylesheet" type="text/css">    
+
+    
+        <link href="/css/css.comp.css" rel="stylesheet" type="text/css">    
+
         <link href="/css/css.guides.css" rel="stylesheet" type="text/css">
         
+        <link href="/css/tables.css" rel="stylesheet" type="text/css">
+    
+    
+
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     
-    <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=227981510607408"></script><script src="/js/js.com.js" type="text/javascript"></script>
+    
+    
+
+    <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/js.com.js" type="text/javascript"></script>
+
     <script src="/js/jquery.bbedit.min.js" type="text/javascript"></script>
+
     <script src="/js/jquery.cyclefontsize.js"></script> 
 
-    		    
+	<script src="/js/jquery.raty.min.js"></script>
+
 	<script type="text/javascript" src="https://www.paypalobjects.com/js/external/dg.js"></script>
+
+	<script src="/js/jquery.cycle.all.js"></script>
+
+
+    <script src="/js/jquery.ui.core.js"></script>
+
+	<script src="/js/jquery.ui.widget.js"></script>
+
+	<script src="/js/jquery.ui.progressbar.js"></script>       
+    
+    <script src="/js/jquery.ui.dialog.js"></script>
+
+
+	<script type="text/javascript" src="/js/jquery.jrumble.min.js"></script>
+    
+    <script type="text/javascript" src="/js/fresco.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/fresco.css">
+
+	<script type="text/javascript" src="/js/lightview.js"></script>
+	<link rel="stylesheet" type="text/css" href="/css/lightview.css">
+
+    
+
+
+	    
+    
+		
+        
+
+    <script>
+	$(document).ready(function()
+	{ 		
+		// Initialize jRumble on Selector
+		$('.ipad_bar').jrumble();
+		
+		// Start rumble on element
+		$('.ipad_bar').trigger('startRumble');
+		
+		// Stop rumble on element
+		$('.ipad_bar').trigger('stopRumble');
+						
+	
+		var demoTimeout;
+		$('.ipad_bar').click(function()
+		{
+			$this = $(this);
+			clearTimeout(demoTimeout);
+			$this.trigger('startRumble');
+			demoTimeout = setTimeout(function(){$this.trigger('stopRumble');}, 750);
+		});
+	});
+	</script>
 </head>
 
-<body>
-<div id="main">  
-    <div id="modal_login">
-    	<div class="login_1">   		
-	
 
-	<div class="log_form">
-        <form method="post" action="/account/">
-            <a href="/#/close/#" class="modal_login_close">x</a> <img src="/images/assets/gamerguides_logo_login.png" width="201" height="32" alt="GamerGuides">
-            <p>Don't have an account yet? <a class="modal_login_change" href="/register/">Sign up now</a>!</p>           
-            <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-            <script>
-			(function(d, s, id) 
-			{
-              var js, fjs = d.getElementsByTagName(s)[0];
-              if (d.getElementById(id)) return;
-              js = d.createElement(s); js.id = id;
-              js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=227981510607408";
-              fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));
-            </script>    
-            
-            
-            	<p>
-					                        </p><div id="fb-root"></div>
-<script> 
-window.fbAsyncInit = function() 
-{
-	FB.init({
-		appId  : '276110875770028',
-		status : true, // check login status
-		cookie : true, // enable cookies to allow the server to access the session
-		xfbml  : true  // parse XFBML
-	});
-		
-			FB.Event.subscribe('auth.login', function(response)
-		{
-			if (response.status === 'connected' ) 
-			{
-				// do something on login
-				login();
-			}
-		});		
-		
-	FB.Event.subscribe('auth.authResponseChange', function(response) 
-	{			
-		if (response.status === 'connected' ) 
-		{
-			if (response.authResponse)
-			{
-				FB.api('/me', function(response)
-				{
-					var value = response.id;
-					var value2 = response.name;
-					var valueuser = response.username;
-					var value3 = response.email;
-					
-					var value = response.id;
-					var value2 = response.name;
-					var valueuser = response.username;
-					var value3 = response.email;
-				
-					$('.log1').css('display', 'none');
-					$('.log2').css('display', 'block');
-					var content = $(".log2");
-					content.load("/external/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-					
-					$('.login_1').css('display', 'none');
-					$('.login_2').css('display', 'block');
-					var content2 = $(".login_2");
-					content2.load("/ex_login/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-					
-					$('.login_3').css('display', 'none');
-					$('.login_4').css('display', 'block');
-					var content3 = $(".login_4");
-					content3.load("/ex_loginpage/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-	
-					var content4 = $(".hidden");
-					content4.load("/fb/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-				});
-			}
-		}
-	});
 
+<body><div class="lv_window" style="display: none; top: 239px; left: 538px;"><div class="lv_skin"><div class="lv_shadow"><canvas height="1000" width="1000"></canvas></div><div class="lv_bubble" data-lv-fx-placement="0"><canvas height="1000" width="1000"></canvas></div><div class="lv_side_buttons_underneath" style="display: none;"><div class="lv_side lv_side_left" style="display: none;"><div class="lv_side_button lv_side_button_previous"></div></div><div class="lv_side lv_side_right" style="display: none;"><div class="lv_side_button lv_side_button_next"></div></div></div><div class="lv_spinner_wrapper" style="display: none;"></div></div><div class="lv_content"></div><div class="lv_title_caption" style="display: none;"><div class="lv_title_caption_slide"><div class="lv_title"></div><div class="lv_caption"></div></div></div><div class="lv_inner_previous_next_overlays"><div class="lv_button lv_button_inner_previous_overlay"></div><div class="lv_button lv_button_inner_next_overlay" style="display: none;"></div></div><div class="lv_button_top_close close_lightview" style="display: none;"></div><div class="lv_controls_relative" style="display: none;"><div class="lv_slider"><div class="lv_slider_icon lv_slider_previous"><div class="lv_icon"></div></div><div class="lv_slider_numbers"><div class="lv_slider_slide"></div></div><div class="lv_slider_icon lv_slider_next"><div class="lv_icon"></div></div><div class="lv_slider_icon lv_slider_slideshow"><div class="lv_icon lv_slider_next"></div></div></div></div></div><div class="lv_overlay" style="display: none; background-color: rgb(0, 0, 0);"></div><div class="fr-window fr-window-fresco" style="display: none;"><div class="fr-bubble" style="display: none;"><div class="fr-frames"></div><div class="fr-thumbnails" style="display: none;"><div class="fr-thumbnails-wrapper" style="width: 1367px; margin-left: -683.5px;"><div class="fr-thumbnails-slider"><div class="fr-thumbnails-side fr-thumbnails-side-previous" style="display: none; height: 69px;"><div class="fr-thumbnails-side-button"><div class="fr-thumbnails-side-button-background"></div><div class="fr-thumbnails-side-button-icon"></div></div></div><div class="fr-thumbnails-thumbs" style="width: 1366px;"><div class="fr-thumbnails-slide" style="width: 1px;"></div></div><div class="fr-thumbnails-side fr-thumbnails-side-next" style="display: none; height: 69px;"><div class="fr-thumbnails-side-button"><div class="fr-thumbnails-side-button-background"></div><div class="fr-thumbnails-side-button-icon"></div></div></div></div></div></div></div></div><div class="fr-overlay fr-overlay-fresco" style="display: none;"><div class="fr-overlay-background"></div></div>
+
+
+
+<div id="overlay" title="privacy">
+
+	 
+		<script>
+		$(document).ready(function()
+		{  
+			var window_width = $(window).width();
+			var window_height = $(window).height();
+			
+			$('#modal_login').css('height', window_width+'px');
+			$('#modal_login').css('width', window_height+'px');
+		});			
+		</script>
+		
+        <div id="modal_login" class="v4_modal_login" style="height: 1366px; width: 768px;">
+
+            <div class="v4_log_form">
+    
+    
+    <div class="v4_cross"><a href="/#/close/#" class="modal_login_close"><img src="/images/v4forum/cross.png" alt="Return"></a></div>           
+      
+    <div class="v4_inner">
+    
+        <form method="post" action="/account/" id="account_login">
+        
+        	<div class="v4logusername_label">Sign In <span>Username / E-mail</span></div>
+            <input type="text" name="email" class="v4logusername" value="" onfocus="this.value=''">
+        	
+            <div class="v4logusername_label">Password <span><a href="/account/type/fgt/1/">cant access your account?</a></span></div>
+            <input type="password" name="password" class="v4logusername" value="">
+            
+            <p>
+            	</p><div style="float:right; font-size:12px; color:#30698b;"><input type="checkbox" name="remember" value="1" checked=""> Stay signed in</div>
+	            <input type="submit" name="Submit" value="Login"><br>
+            <p></p>
+            <div class="clear"></div>
+        </form>
+        
+        <div class="clear"></div>    
+         <div class="border"></div>   
+            
+        <div class="change" style="margin-top:15px;">
+        
+           <div onclick="doLogin();"><img src="/images/new/home/logfb.png" style="cursor:pointer;" alt="Login with Facebook"></div>
+                    </div>
+        
+        <div class="clear"></div>    
+         <div class="v4logusername_label" style="text-align:center;"><a href="/account/type/register/">Sign up to Gamer Guides</a></div>   
+
+        
+    </div>                    
+    
+    
+</div>
+
+
+        </div>
+         
+     
+     <div id="main"> 
+     
+	   	            
+			<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+FB.init({ appId: '227981510607408', status: true, cookie: true, xfbml : true });
+
+function doLogin() 
+{  
 	FB.getLoginStatus(function(response) 
 	{
-		if (response.status === 'connected' ) 
+		if(response.status == 'connected') 
 		{
-			var uid = response.authResponse.userID;
-			var accessToken = response.authResponse.accessToken;
-		
-			if (response.authResponse)
+			FB.api('/me', function(response)
 			{
-				FB.api('/me', function(response)
-				{
-					var value = response.id;
-					var value2 = response.name;
-					var valueuser = response.username;
-					var value3 = response.email;
+				var value = response.id;
+				var value2 = response.name;
+				var valueuser = response.username;
+				var value3 = response.email;					
 				
-					$('.log1').css('display', 'none');
-					$('.log2').css('display', 'block');
-					var content = $(".log2");
-					content.load("/external/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-					
-					$('.login_1').css('display', 'none');
-					$('.login_2').css('display', 'block');
-					var content2 = $(".login_2");
-					content2.load("/ex_login/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-					
-					$('.login_3').css('display', 'none');
-					$('.login_4').css('display', 'block');
-					var content3 = $(".login_4");
-					content3.load("/ex_loginpage/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-				
-					var content4 = $(".hidden");
-					content4.load("/fb/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-					
-				});
-			}
-				
+				var content = $(".change");
+				content.load("/fb/", { i: value, n: value2, u: valueuser, e: value3, p: '1' });
+			});	
 		}
-		else if (response.status === 'not_authorized') 
+		else if(response.status == 'not_authorized')
 		{
-			var value = response.id;
-			var value2 = response.name;
-			var valueuser = response.username;
-			var value3 = response.email;
-		
-			$('.fb-login-button').css('display', 'none');
-			$('.log1').css('display', 'none');
-			$('.log2').css('display', 'block');
-			var content = $(".log2");
-			content.load("/external/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-			
-			$('.login_1').css('display', 'none');
-			$('.login_2').css('display', 'block');
-			var content2 = $(".login_2");
-			content2.load("/ex_login/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-			
-			$('.login_3').css('display', 'none');
-			$('.login_4').css('display', 'block');
-			var content3 = $(".login_4");
-			content3.load("/ex_loginpage/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-			
+			FB.api('/me', function(response)
+			{
+				var value = response.id;
+				var value2 = response.name;
+				var valueuser = response.username;
+				var value3 = response.email;					
+				
+				var content = $(".change");
+				content.load("/fb/", { i: value, n: value2, u: valueuser, e: value3, p: '1' });
+			});	
+				}
+		else
+		{
+			FB.login(function(response)
+			{
+				loginwithfb();
+			}); 
 		}
-	});
-};
+	}); 
+}
 
-function login()
+
+function loginwithfb()
 {
-	FB.api('/me', function(response) 
+	FB.api('/me', function(response)
 	{
 		var value = response.id;
 		var value2 = response.name;
 		var valueuser = response.username;
-		var value3 = response.email;
-	
-		var content = $(".hidden");
-		content.load("/fb/fbid/" + encodeURI(value) + "/fbemail/" + encodeURI(value3) + "/fbname/" + encodeURI(value2));
-	});
+		var value3 = response.email;					
+		
+		var content = $(".change");
+		content.load("/fb/", { i: value, n: value2, u: valueuser, e: value3, p: '1' });
+	});	
 }
-
-
 
 
 /* Loading the JS SDK Asynchronously - Refer: https://developers.facebook.com/docs/reference/javascript/ */
@@ -197,130 +233,55 @@ function login()
 	e.async = true;
 	document.getElementById('fb-root').appendChild(e);
 }());
+</script>    	    
 
-/*(function(d, s, id) 
-{
-	var js, fjs = d.getElementsByTagName(s)[0];
-	if (d.getElementById(id)) return;
-	js = d.createElement(s); js.id = id;
-	js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=276110875770028";
-	fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));*/
-</script>
+        <div id="header"> 
 
-<fb:login-button data-show-faces="true"></fb:login-button>
-                                    <p></p>
-                <p>
-                    </p><h3>Or</h3>
-                <p></p>
-
-            <input type="text" name="email" class="input_box_user" value="Username/E-mail" onfocus="this.value=''">
-            <input type="password" name="password" class="input_box_pwd" value="">
-            <input type="checkbox" name="remember" value="1" checked="">
-            Keep me Logged in
-            <input type="submit" name="Submit" value="Login" class="button_light">
-            <div class="clear"></div>
-        </form>
-        
-    </div>
-</div>
-
-
-<div class="login_2" style="display:none;">
-</div>
-    </div>
-
-    <div id="modal_register">
-    	<div class="modal_reg_form">
-    <a style="position:absolute;margin-left:535px;" href="/#/close/#" class="modal_register_close"><img src="/images/new/x.png" width="27" height="27" alt="x"></a>
-   
-    <div class="fb">
-    	<div class="right">
-       		<div class="email_show">Sign up with your Email</div>
-        </div>
-    
-    	<div class="left">
-        	<div class="fb_show">Sign up with Facebook</div>
-        </div>
-        
-        <div class="info">       
-            <div class="fb-registration" data-fields="[
-             {'name':'name'},
-             {'name':'birthday'},
-             {'name':'email'}, 
-             {'name':'gender'}
-            ]" data-redirect-uri="http://www.gamerguides.com/register/"></div>
-   
-    	</div>
-    </div>
-    
-    <div class="email">
-    	<div class="right">
-       		<div class="email_show">Sign up with your Email</div>
-        </div>
-    
-    	<div class="left">
-        	<div class="fb_show">Sign up with Facebook</div>
-        </div>
-        
-        <div class="info">
-            <form id="reg_form_email" method="post" action="/register/">
-            	<p>Have an account? <a class="modal_register_change" href="/account/">Login now</a>!</p>
-			  	<div>                	
-              		<img style="float:right;" src="/images/new/reg/reg_email.png" width="250" height="40" alt="Enter Username">
-	                <input type="text" name="reg_username" class="input_box_user" value="Username" onfocus="this.value=''"> 
-                </div>             
-   				<div>
-              		<img style="float:right;" src="/images/new/reg/reg-email.png" width="250" height="40" alt="Enter Email Address">
-	                <input type="text" name="reg_email" class="input_box_email" value="E-mail" onfocus="this.value=''">
+            <div class="logo">
+            	<a href="/"></a>
+			</div>
+            
+            <div class="ipad_bar" style="left: 0px; top: 0px; opacity: 1; transform: rotate(0deg);"></div>
+            
+            <div id="v4_search_bar">
+            	<div class="v4_search_bar_submit" onclick="search_text();"></div>
+                <div class="v4_update_search_guides">
+					<input type="text" id="v4_search_bar_text" onkeyup="check_search(this.value);" class="search_bar_text" name="search_bar_text" value="Search Gamer Guides..." onfocus="if(this.value == 'Search Gamer Guides...') this.value = ''">
 				</div>
-				<div>
-              		<img style="float:right;" src="/images/new/reg/enter_pwd.png" width="250" height="40" alt="Enter Password">
-                    <input type="password" name="reg_password" class="input_box_pwd" value="">
-                </div>              
-                <input type="hidden" name="version" class="version" value="normal">
-				<div style="line-height:32px; font-size:11px;">
-                	By creating an account you agree to the <a href="/footer/terms/">Terms of Service</a> &amp; <a href="/footer/privacy/">Privacy Policy</a> 
-                    <input style="float:right" class="submit" type="image" src="/images/new/reg/reg.png" name="submit">
-                </div>
-                <div class="clear"></div>
-            </form>    
-    	</div>
-    </div>
-</div>
-    </div>
-
-    <div id="header"> 
-    	<a href="/"><img class="logo" src="/images/new/assets/logo.png" alt="Gamers Guide Beta"></a>
-        
-        <div id="header_nav">
-            <ul>
-                <li class="home" style="background:url(/images/new/assets/home.png) no-repeat left;"><a href="/">Home</a></li>
-                <li class="library" style="background:url(/images/new/assets/guides.png) no-repeat left;"><a href="/library/">Library</a></li>
-                <li class="community" style="background:url(/images/new/assets/forum.png) no-repeat left;"><a href="/forum/">Community</a></li> 
-                <li class="facebook"><a href="http://www.facebook.com/pages/GamerGuidescom/208647399165093" target="_blank"><img src="/images/new/assets/facebook.png" width="30" height="30" alt="Fb"></a></li> 
-                <li class="twitter"><a href="http://www.twitter.com/Gamer_Guides" target="_blank"><img src="/images/new/assets/twitter.png" width="30" height="30" alt="T"></a></li> 
-			</ul>
-		</div>
+                <div class="v4_update_searchbar">
                 
-		            <div id="header_entry">
-                <div class="right">
-            	    <a href="/account/type/login/" class="header_entry_1 button_dark">Login</a> or <a href="/register/" class="header_entry_2 button_dark">Sign up now</a>
                 </div>
             </div>
-		    </div>  
-    
-    
-	    	<div id="surround">
+            
+                                  
+                <div class="signin_header"><a href="/account/type/login/">Sign in</a></div>                 
+                
+
+            <div class="forum_header"><a href="/forum/">Discuss</a></div>
+
+
+        </div>  
+
         
-    	<div id="central">    <div id="content"><h1>
+
+
+        
+            <div id="surround">
+
+        
+        
+
+            <div id="central">    
+            
+            	                        <div id="arrow_point"></div>
+                    <div id="content"><h1>
 	Privacy Policy</h1>
 <p>
-	This privacy policy sets out how Leo Hayes Media Ltd uses and protects any information that you give Leo Hayes Media Ltd when you use this website.</p>
+	This privacy policy sets out how Gamer Guides Ltd uses and protects any information that you give Gamer Guides Ltd when you use this website.</p>
 <p>
-	Leo Hayes Media Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+	Gamer Guides Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
 <p>
-	Leo Hayes Media Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/08/2011</p>
+	Gamer Guides Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/08/2011</p>
 <p>
 	<strong>What we collect</strong></p>
 <p>
@@ -375,7 +336,7 @@ function login()
 	<li>
 		whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes</li>
 	<li>
-		if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at helpdesk@gamerguides.com</li>
+		if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at seb@gamerguides.com</li>
 </ul>
 <p>
 	We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
@@ -383,117 +344,101 @@ function login()
 	You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please e-mail helpdesk@gamerguides.com</p>
 <p>
 	If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p>
-</div>        </div>   
-	</div>
-    
-
-    
-	<div id="footer">
-        <div class="right">
-    		<div class="nav1">
-           	  <p class="title">Navigation</p>
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/library/">Library</a></li>
-                    <li><a href="/forum/">Community</a></li> 
-                </ul>
-            </div>
-            
-            <div class="nav2">
-           	  <p class="title">Social</p>
-                <ul>
-                    <li><a href="http://www.facebook.com/pages/GamerGuidescom/208647399165093" target="_blank">Facebook</a></li>
-                    <li><a href="http://www.twitter.com/Gamer_Guides" target="_blank">Twitter</a></li>
-                    <li><a href="http://www.youtube.com/gamerguides" target="_blank">Youtube</a></li> 
-                </ul>
-            </div>
-            
-            <div class="nav3">
-           	  <p class="title">General</p>
-                <ul>
-                    <li><a href="/footer/terms/">Terms of Use</a></li>
-                    <li><a href="/footer/privacy/">Privacy Policy</a></li>
-                    <li><a href="/footer/about/">About Us</a></li>
-                </ul>
-            </div>
-          
-          <div style="clear:both;"></div>
-          <div id="footer_copy"> ©2012 Leo Hayes Media Ltd. <a style="float:right;margin-right:35px;line-height:13px;" target="_blank" href="http://www.colinharris.net"><img src="/images/new/assets/chwd.png" width="13" height="13" alt="Colin Harris Website Development"></a></div>
-     	</div>		
-		
-		        
-			<div class="left" style="background:none;">
-            	<img src="/images/new/footer/logo.png" width="214" height="36" alt="GamerGuides">
-                <p style="margin-top:10px;padding-left:3px;width:325px;color:#c0c0c0;font-size:13px;font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;line-height:20px;">
-                	Gamer Guides is a next generation online video game strategy guide publisher.
-                </p>
-            </div>
+</div>            </div>   
+        </div>
         
-    </div>
+    
+        
+        <div id="footer">            
+        	<div class="left">
+             	<p class="title">Contact us</p>
+                <p class="telephone">+44 (0)7919535523</p>
+                <p class="email"><a href="mailto:seb@gamerguides.com">seb@gamerguides.com</a></p>
+            </div>
+            
+            <div class="right">                
+            	<div class="nav1">
+                 	<p class="title">Follow us</p>
+                    <ul>
+                        <li><div class="facebook"><a href="http://www.facebook.com/pages/GamerGuidescom/208647399165093" target="_blank"></a></div></li>
+                        <li><div class="twitter"><a href="http://www.twitter.com/Gamer_Guides" target="_blank"></a></div></li>
+                        <li><div class="fkindle"><a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&amp;field-keywords=gamerguides.com" target="_blank"></a></div></li>
+                        <li><div class="fapple"><a href="http://itunes.apple.com/us/artist/gamerguides.com/id482893078" target="_blank"></a></div></li>
+                    </ul>
+                </div>
+                
+                <div class="nav2">
+               		<p class="title">Boring Stuff</p>                    
+                  	<p>
+                    	© 2012 Gamer Guides Ltd. <img src="/images/new/footer/dot.png" alt=""> Company No.7577548 <img src="/images/new/footer/dot.png" alt=""> VAT No.122 2775 36					</p>
+                    <ul>
+                        <li><a href="/forum/">Forums</a> <img src="/images/new/footer/dot.png" alt=""></li>                         
+                        <li><a href="/about/">About Us</a> <img src="/images/new/footer/dot.png" alt=""></li> 
+                        <li><a href="/sitemap/">Sitemap</a> <img src="/images/new/footer/dot.png" alt=""></li>
+                        <li><a href="/terms/">Terms of Use</a> <img src="/images/new/footer/dot.png" alt=""></li>
+                        <li><a href="/privacy/">Privacy Policy</a> <img src="/images/new/footer/dot.png" alt=""></li>
+                        <li><a target="_blank" href="http://www.colinharris.net"><img src="/images/new/assets/chwd.png" width="13" height="13" alt="Colin Harris Website Development"></a></li>
+                    </ul>
+              </div>
+              
+              <div style="clear:both;"></div>
+            </div>		
+            
+
+    
+        </div>
+    
+    
+    
+        <div id="mask"></div>
+        <script type="text/javascript">
+        
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-21294499-1']);
+          _gaq.push(['_trackPageview']);
+        
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        
+        </script>
+        <!-- Start of Woopra Code -->
+        <script type="text/javascript">
+        function woopraReady(tracker) {
+            tracker.setDomain('gamerguides.com');
+            tracker.setIdleTimeout(300000);
+            tracker.track({type:'pageview',url:window.location.pathname+window.location.search,title:document.title});
+            return false;
+        }
+        (function() {
+            var wsc = document.createElement('script');
+            wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+            wsc.type = 'text/javascript';
+            wsc.async = true;
+            var ssc = document.getElementsByTagName('script')[0];
+            ssc.parentNode.insertBefore(wsc, ssc);
+        })();
+        </script>
+        <!-- End of Woopra Code -->
+        
+        <div class="hidden"></div>
+        
+        <!-- Start eXTReMe Pro Tracker Code V3/7A -->
+                <script type="text/javascript"><!--
+        EXd=document;location.protocol=="https:"?EXp="https":EXp="http";EXs="src";
+        EXd.write("<img "+EXs+"="+EXp+"://nht-3.extreme-dm.com/n4.g?login=ggltd",
+        "&d="+screen.width+"x"+screen.height+"&auto=y&pid=privacy",
+        "&jv="+navigator.javaEnabled()+"&c="+screen.colorDepth+"",
+        "&l="+escape(EXd.referrer)+" width=0 height=0>");//-->
+        </script><img src="https://nht-3.extreme-dm.com/n4.g?login=ggltd&amp;d=800x600&amp;auto=y&amp;pid=privacy&amp;jv=false&amp;c=24&amp;l=" width="0" height="0">
+        <noscript>
+        	<img height="1" width="1" alt="" src="http://nht-3.extreme-dm.com/n4.g?login=ggltd&amp;auto=y&amp;pid=privacy">
+        </noscript>
+        <!-- End eXTReMe Pro Tracker Code -->
 
 
-
-    <div id="mask"></div>
-    <script type="text/javascript">
-    
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-21294499-1']);
-      _gaq.push(['_trackPageview']);
-    
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    
-    </script>
-    <!-- Start of Woopra Code -->
-    <script type="text/javascript">
-    function woopraReady(tracker) {
-        tracker.setDomain('gamerguides.com');
-        tracker.setIdleTimeout(300000);
-        tracker.track({type:'pageview',url:window.location.pathname+window.location.search,title:document.title});
-        return false;
-    }
-    (function() {
-        var wsc = document.createElement('script');
-        wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
-        wsc.type = 'text/javascript';
-        wsc.async = true;
-        var ssc = document.getElementsByTagName('script')[0];
-        ssc.parentNode.insertBefore(wsc, ssc);
-    })();
-    </script>
-    <!-- End of Woopra Code -->
-    
-    <div class="hidden"></div>
-    
-    <div id="eXTReMe">
-    	<a href="http://extremetracking.com/open?login=gamergui"><img src="http://t1.extreme-dm.com/i.gif" style="border: 0;" height="1" width="1" id="EXim" alt="eXTReMe Tracker"></a>
-		<script type="text/javascript">
-		<!--
-    	EXref="";top.document.referrer?EXref=top.document.referrer:EXref=document.referrer;
-		//-->
-    	</script>
-		<script type="text/javascript">
-		<!--
-   		var EXlogin='gamergui' // Login
-    	var EXvsrv='s10' // VServer
-		EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
-		EXb=EXs.colorDepth:EXb=EXs.pixelDepth;EXsrc="src";
-		navigator.javaEnabled()==1?EXjv="y":EXjv="n";
-		EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
-		EXref?EXref=EXref:EXref=EXd.referrer;
-		EXd.write("<img "+EXsrc+"=http://e1.extreme-dm.com",
-		"/"+EXvsrv+".g?login="+EXlogin+"&amp;",
-		"jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
-		"l="+escape(EXref)+" height=1 width=1>");
-		//-->
-        </script><img src="http://e1.extreme-dm.com/s10.g?login=gamergui&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1">
-		<noscript>
-			<div id="neXTReMe"><img height="1" width="1" alt="" src="http://e1.extreme-dm.com/s10.g?login=gamergui&amp;j=n&amp;jv=n" />
-			</div>
-		</noscript>
 	</div>
 
-</div></body></html>
+</div><div class="fr-loading" style="display: none;"><div class="fr-loading-offset"><div class="fr-loading-background"></div><div class="fr-loading-icon"></div></div></div><div class="lv_controls_top" style="display: none;"><div class="lv_top_middle" style="display: none;"><div class="lv_top_button lv_top_previous"><div class="lv_icon"><span style="display: block;">Prev</span></div></div><div class="lv_top_button lv_top_slideshow"><div class="lv_icon"></div></div><div class="lv_top_button lv_top_next"><div class="lv_icon"><span style="display: block;">Next</span></div></div></div></div><div class="lv_controls_top_close" style="display: none;"><div class="lv_controls_top_close_button"></div></div><div class="lv_thumbnails" style="display: none;"><div class="lv_thumbnails_slider"><div class="lv_thumbnails_slide"></div></div></div><div class="lv_controls_top_close" style="display: none;"><div class="lv_controls_top_close_button"></div></div></body></html>
