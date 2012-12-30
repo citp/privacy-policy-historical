@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the callcentric.com privacy policy that was archived on 2012-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120604040027id_/http%3A//www.callcentric.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the callcentric.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230145526id_/http%3A//www.callcentric.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy</title>
 <base href="http://www.callcentric.com">
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 <meta name="robots" content="INDEX,FOLLOW">
-<meta http-equiv="expires" content="Mon, 04 Jun 2012 03:59:27 +0000">
-<meta name="description" content="Internet phone service for your home or office. Pay per call and Unlimited rate plans, phone numbers worldwide. Sign up for a free account today.">
-<meta name="Keywords" content="internet phone service">
+<meta http-equiv="expires" content="Sun, 30 Dec 2012 14:54:26 +0000">
+<meta name="description" content="Callcentric respects the privacy of every individual who visits our websites. This privacy statement provides notice of our information collection practices and of the ways in which your information may be used.">
+<meta name="Keywords" content="callcentric privacy policy, internet phone service">
 <link rel="stylesheet" type="text/css" href="css/index.css">
-<link type="text/css" href="http://www.callcentric.com/css/custom-theme/jquery-ui-1.8.18.custom.css" rel="Stylesheet">	
+<link type="text/css" href="http://www.callcentric.com/css/custom-theme/jquery-ui-1.8.18.custom.css" rel="Stylesheet">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.callcentric.com/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="http://www.callcentric.com/js/jquery-ui-1.8.18.custom.min.js"></script>
-<style>
+<style type="text/css">
 DIV.top_box {
 	position:relative;
 	height:128px;
@@ -33,6 +33,30 @@ DIV.top_box_login {
 }
 .top_menu #logo {
 	float:left;
+}
+
+@font-face {
+	font-family: "BankGothic";
+	src: url('/font/bankgthd.ttf'), url('/font/bankgthd.eot');
+}
+#internet_phone_service {
+	position:absolute;
+	left:0px;
+	top:53px;
+}
+#internet_phone_service h1 {
+	font-family: "BankGothic", arial, verdana;
+	font-size:18px;
+	font-style:normal;
+	font-weight:normal;
+}
+#internet_phone_service a {
+	text-decoration:none;
+	color:#2a2a2a;
+}
+#internet_phone_service a:hover {
+	text-decoration:none;
+	color:#2a2a2a;
 }
 
 /* Top Login Menu */
@@ -93,7 +117,8 @@ DIV.top_box_login {
 	height:32px;
 }
 
-#top_loginmenu #top_loginmenu_block DIV.shopping_cart_m {
+#top_loginmenu #top_loginmenu_block span.shopping_cart_m {
+	display: block;
 	float:left;
 	margin:5px 10px 0px 10px;
 	padding:0px 0px 0px 0px;
@@ -102,11 +127,13 @@ DIV.top_box_login {
 	height:33px;
 	text-align:center;
 }
-#top_loginmenu #top_loginmenu_block DIV.shopping_cart_m DIV {
+#top_loginmenu #top_loginmenu_block span.shopping_cart_m span {
+	display: block;
 	text-align:center;
 	width:32px;
-	padding:2px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
 	color:#ea8100;
+	font:bold 13px verdana;
 }
 
 #top_loginmenu #top_loginmenu_block DIV.balance_m {
@@ -400,6 +427,16 @@ $(function() {
 		window.location = $(this).find("a").attr("href");
 	});
 	
+	btnDblClick = true;
+	$(".noDblClick").click(function(e){
+		if (btnDblClick) {
+			btnDblClick = false;	
+		}
+		else {
+			e.preventDefault();
+		}
+	});
+	
 	$(document).ready(function() { 
 		var footerHeight = 0,
 		footerTop = 0,
@@ -479,15 +516,16 @@ $(function() {
 
 <div class="top_box">
 	<div class="top_menu">
-		<div id="logo"><a href="http://www.callcentric.com"><img src="http://www.callcentric.com/img2/internet_phone_service.png" border="0" width="185" height="78" alt="Internet Phone Service" title="Internet Phone Service"></a></div>
+		<div id="logo"><a href="http://www.callcentric.com"><img src="http://www.callcentric.com/img/internet_phone_service.png" border="0" width="185" height="78" alt="Internet Phone Service" title="Internet Phone Service"></a></div>
+		<div id="internet_phone_service"><h1><a href="http://www.callcentric.com">internet phone service</a></h1></div>
 		<div id="top_loginmenu">
-			<div class="top_loginmenu_transp"><div id="new_features"><a href="http://www.callcentric.com/new/">New features</a></div></div>
+			<div class="top_loginmenu_transp"><div id="new_features"><a href="http://www.callcentric.com/new/">New features <span style="color:red; font-size:8pt;">(5)</span></a></div></div>
 			<div id="top_loginmenu_block">
 				<div>Welcome.<br>
 					<a href="https://www.callcentric.com/login/" id="loginLink">My account</a>&nbsp;&nbsp;<a href="https://www.callcentric.com/login/">Sign Up</a>
 				</div>
 				<div class="separator"></div>
-				<a href="https://my.callcentric.com/shopping_cart.php"><div class="shopping_cart_m"><div>0</div></div></a>
+				<a href="https://my.callcentric.com/shopping_cart.php"><span class="shopping_cart_m"><span>0</span></span></a>
 			</div>
 
 			<div id="loginWindow" title="Login">
@@ -523,7 +561,7 @@ $(function() {
 				<div class="top-but-but20"><a href="http://www.callcentric.com/"><img src="http://www.callcentric.com/img2/home_icon_20x20.png" border="0" width="20" height="20" alt="HOME"></a></div><div class="top-but-sep"></div>
 				<div class="top-but-but"><a href="http://www.callcentric.com/rate/plans/">MAKE CALLS</a></div><div class="top-but-sep"></div>
 				<div class="top-but-but"><a href="http://www.callcentric.com/did/">RECEIVE CALLS</a></div><div class="top-but-sep"></div>
-				<div class="top-but-but"><a href="http://www.callcentric.com/products/">MORE</a></div><div class="top-but-sep"></div>
+				<div class="top-but-but"><a href="http://www.callcentric.com/products/">ALL SERVICES</a></div><div class="top-but-sep"></div>
 				
 				<div class="top-but-search">
 					<form action="http://www.callcentric.com/search.php" id="cse-search-box">
