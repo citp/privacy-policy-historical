@@ -1,61 +1,99 @@
-> *The following text is extracted and transformed from the gobananas.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220031302id_/http%3A//www.gobananas.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobananas.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183921id_/http%3A//www.gobananas.com/privacy-a-cookies.html) for the most accurate reproduction.*
 
-# Stag Weekends - Hen Nights - Birthday Parties - Corporate Events
+# Privacy & Cookies - Go Bananas
 
-GoBananas Privacy Policy
+This Privacy and Cookie Policy explains how HelpMeGo To Limited trading as GoBananas uses personal information we collect and how you can limit our use of that personal data.
 
-  
-goBananas has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the web site.
+1.  **What information do we gather?**
 
-**General**  
-We use your IP address to help diagnose problems with our server, general report information and to administer our Web site. Demographic and profile data is collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+1.1 We gather information that relates to, and can identify you (e.g. your name and address) and information that does not identify you (e.g. a visitor’s behaviour patterns when they visit our website). We collect information that does not identify you to evaluate our site, ensure that our site and services run properly and ensure we are paid for advertising services we offer.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+2.  **How do we gather information?**
 
-**Cookies**  
-Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other similar purposes.
+2.1 Information is gathered in two ways:
 
-**Registration Forms/ Newsletters**  
-Where a registration form is used it may require users to give us contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary.
+(1) indirectly (e.g. using website technology); and
 
-**Order Forms**  
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like name, address and e-mail address), financial information (like account or credit card numbers), and demographic information (like post code, age, or income level). Contact information from the order form is used to send orders to our customers. Financial information that is collected is used to bill the user for products and services.
+(2) directly (e.g. when you create a GoBananas itinerary or when you are registered as a payee of a group itinerary,).
 
-**Survey Forms**  
-Our online surveys ask visitors for contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+2.2 When responding to promotions, offers etc. by email, if you do not wish for your details to be used by us to send you promotions and offers, please make this clear by stating "No Offers".
 
-**Competitions**  
-We run contests on our site in conjunction with promoters in which we ask visitors for contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Information requested is shared with promoters on an aggregate basis where the visitor highlights their acceptance.
+3.  **Use of your information**
 
-**Public Forums**  
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+3.1 We might use your personal information to:
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor.
+(1) remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 5 deals with this in more detail.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.  
-1\. You can reply to any email sent out by the site following the opt-out instructions.  
-2\. You can send email to [privacy@goBananas.co.uk](mailto:privacy@gobananas.co.uk)  
-3\. You can send mail to the following postal address:
+(2) ensure any products or services you receive are correctly administered (including itineraries).
 
-_Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG_
+(3) contact you by email, mail or telephone to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) if you give us permission.
 
-4\. You can call the following telephone number: 08700 112201
+(4) ensure materials on the website are presented in the most effective manner for you and your computer.
 
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided.   
-1\. You can send email to [privacy@goBananas.co.uk](mailto:privacy@gobananas.co.uk)  
-2\. You can send mail to the following postal address:
+(5) collate and log numeric internet addresses to improve the website and to monitor website usage.
 
-_Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG_
+3.2 If you have purchased any of or products, we will use the information you provide to keep you updated on those services unless you tell us otherwise.
 
-3\. You can call the following telephone number: 08700 112201 
+4.  **Accessing and updating your personal information**
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:  
-  
-_GoBananas  
-55 Constitution Street  
-Edinburgh  
-EH6 7BG  
-Scotland_
+4.1 You can update your details and marketing preferences by emailing [privacy@gobananas.com](mailto:privacy@gobananas.com) or by writing to us at 9 Reform Street, Blairgowrie, Perthshire, PH10 6BD.
+
+4.2 If you have signed up to receive marketing from us by text, to stop this, please reply STOP to the last message you received.
+
+4.3 You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to [privacy@gobananas.com](mailto:privacy@gobananas.com). There will be an administrative charge of £10 for providing a copy of this information.
+
+5.  **Cookies**
+
+5.1 A cookie is a small piece of information that is placed on your computer when you visit certain websites. Find out more about the use of cookies on [http://www.cookiecentral.com.](http://www.cookiecentral.com./)
+
+5.2 We use cookies to:
+
+(1) remember you when you visit this website to keep track of your browsing patterns and to build up a profile of how you and other users use the website.
+
+(2) make our website work as efficiently as possible.
+
+(3) administer services to you and to advertisers.
+
+5.3 Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates.
+
+5.4 Google are one of the third parties we use to provide us with information about how users use our website.
+
+6\. **Third party advertising cookies**
+
+6.1 Most of the advertisements you see on the website are generated by third parties.
+
+Some of these third parties generate their own cookies (or web beacons) to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Some of the information gleaned from third party cookies will be aggregated with other anonymous information for statistical purposes. The third party companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website).
+
+6.2 If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. Here are links to the two main third party advertising platforms we use, each of which haveinstructions on how to do this:
+
+<http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/>
+
+<http://www.audiencescience.com/privacy>
+
+6.3 You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: <http://youronlinechoices.com/>
+
+7.  **Security**
+
+7.1 Any password you provide when registering with us is encrypted to ensure protection against unauthorised access to your personal information. This also means we cannot give you your password if you lose it. You need to regenerate it.
+
+7.2 We invest in high-quality security and do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures to protect the security of your personal information.
+
+8.  **Disclosing your information**
+
+8.1 We may disclose your personal information if we are approached by a potential buyer of our business, if we required to do so by law or in good-faith believing such action is necessary to comply with the law.
+
+8.2 We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf e.g. the providers of the services available  to purchase on the site.
+
+8.3 We never sell personal information, or pass it to third parties for marketing purposes without your permission.
+
+9.  **Where we store your personal information**
+
+9.1 The personal information that we collect from you may be sent and stored outside the European Economic Area ("EEA") in order to carry out the activities listed in “Use of Your Information”.
+
+10.  **Changes to this Policy**
+
+10.1 If we change our Policy, we will post the changes on this page. Please check the website regularly for any changes to this Policy.
+
+11\. If you don't feel we're adhering to this Policy, what should you do?
+
+11.1 If you believe that we have not adhered to this Policy, please notify us by email at [privacy@gobananas.com](mailto:privacy@gobananas.com) and we will try to solve the problem promptly.
