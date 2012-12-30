@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the munkyourself.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501113338id_/http%3A//www.foxhome.com/sites/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the munkyourself.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181401id_/http%3A//www.foxhome.com/sites/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,10 +52,11 @@ Fox uses reasonable administrative, technical, personnel and physical measures t
 
 Visitors to Fox websites may review the PII we maintain about them in our records whenever possible. If you would like to review, correct, or delete this information.
 
-Twentieth Century Fox Home Entertainment Online  
-20102 South Vermont Avenue
+Fox Connect  
+C/O Twentieth Century Fox Home Entertainment Online  
+2816 Columbia Street
 
-Torrance, California 90502  
+Torrance, California 90503  
 Telephone: (888) 223-4369  
 International Callers: (310) 217-4764  
 Fax: (888) 443-4369  
@@ -67,10 +68,11 @@ Unless otherwise indicated by Fox, your usual operator rates apply to all teleph
 
 Fox welcomes any suggestions on how to make this website a better and safer place. If you would like to communicate with us about our Privacy Policy or have privacy issues or complaints regarding this policy, please contact us at:
 
-Twentieth Century Fox Home Entertainment Online  
-20102 South Vermont Avenue
+Fox Connect  
+C/O Twentieth Century Fox Home Entertainment Online  
+2816 Columbia Street
 
-Torrance, California 90502  
+Torrance, California 90503  
 Telephone: (888) 223-4369  
 International Callers: (310) 217-4764  
 Fax: (888) 443-4369  
