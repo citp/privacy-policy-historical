@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directpayprofits.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624025757id_/http%3A//directpayprofits.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directpayprofits.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230224647id_/http%3A//directpayprofits.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ With whom may the information may be shared? Personally Identifiable Information
 
 How is Personally Identifiable Information stored? Personally Identifiable Information collected by the Site is securely stored and is not accessible to third parties or employees of the Site except for use as indicated above.
 
-What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by submitting a support ticket [here](https://web.archive.org/web/20120624025757id_/http%3A//directpayprofits.com/support.php). 
+What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by submitting a support ticket [here](https://web.archive.org/web/20121230224647id_/http%3A//directpayprofits.com/support.php). 
 
 Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off. 
 
