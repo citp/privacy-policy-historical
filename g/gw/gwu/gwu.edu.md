@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gwu.edu privacy policy that was archived on 2012-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120531180307id_/http%3A//www.gwu.edu/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwu.edu privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231004831id_/http%3A//www.gwu.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Legal | The George Washington University
+# Privacy Policy | The George Washington University
 
 The George Washington University is committed to respecting users of GW’s websites. For that purpose, this policy has been adopted to address the collection and use of information from GW’s websites. In order to maintain effective privacy practices, GW retains the right to update this policy without notice.
 
@@ -16,9 +16,9 @@ When a user visits one of GW’s websites, some information such as the visitor�
 
 Users may provide GW with non-personally and personally identifiable information in order to utilize certain services and retrieve information. Such instances may not be noticeable to the user and include, but are not limited to: filling out surveys, purchasing goods and services, submitting tests, registering for courses, and submitting certain online forms.
 
-Should the user choose to provide GW with any personal information, GW will use such information only to conduct official University business and will disclose it only when such disclosure may be appropriate to comply with applicable law, to enforce [GW’s Visitor Agreement](https://web.archive.org/vgn-ext-templating/v/index.jsp?vgnextoid=958d276f9a9d0210VgnVCM1000002e0ba480RCRD&vgnextchannel=958d276f9a9d0210VgnVCM1000002e0ba480RCRD&vgnextfmt=default), or to protect the rights, property or the safety of visitors to GW’s websites, the University community or the public. GW does not sell, trade, or rent users’ personal information to others.
+Should the user choose to provide GW with any personal information, GW will use such information only to conduct official University business and will disclose it only when such disclosure may be appropriate to comply with applicable law, to enforce GW’s Visitor Agreement, or to protect the rights, property or the safety of visitors to GW’s websites, the University community or the public. GW does not sell, trade, or rent users’ personal information to others.
 
-GW maintains information collection procedures that comply with The Child Online Privacy Protection Act of 1998. If you believe that GW has collected personally identifiable information about your child, please contact GW immediately at comply@gwu.edu so that if such information has been collected, GW may take appropriate action.
+GW maintains information collection procedures that comply with The Child Online Privacy Protection Act of 1998. If you believe that GW has collected personally identifiable information about your child, please contact GW immediately at [comply@gwu.edu](mailto:comply@gwu.edu) so that if such information has been collected, GW may take appropriate action.
 
 ### Distribution of Collected Information
 
@@ -48,14 +48,14 @@ While the security of users’ personal information is of the utmost importance 
 
 Below are a number of pertinent policies and procedures implemented by GW related to this policy:
 
-  * [The George Washington University Privacy Policy Statement](http://my.gwu.edu/files/policies/PrivacyPolicyFINAL.pdf)
-  * [Data Classification Security Policy](http://my.gwu.edu/files/policies/DataClassificationPolicy.pdf)
-  * [GW Web Content Policy](http://my.gwu.edu/files/policies/WebContentFINAL.pdf)
-  * [Security Breaches Involving Confidential Personal Information](http://my.gwu.edu/files/policies/SecurityBreachNotificationFINAL.pdf)
-  * [Information Security Policy](http://my.gwu.edu/files/policies/InformationSecurityPolicyFINAL.pdf)
-  * [Health Information Privacy Policy](http://my.gwu.edu/files/policies/HealthInformationPrivacyPolicy.pdf)
-  * [Privacy of Student Records Policy](http://my.gwu.edu/files/policies/PrivacyofStudentRecordsFINAL.pdf)
-  * [Social Security Number and GWid Usage Policy](http://my.gwu.edu/files/policies/SSN&GWidUsageFINAL.pdf)
+  * The George Washington University Privacy Policy Statement
+  * Data Classification Security Policy
+  * GW Web Content Policy
+  * Security Breaches Involving Confidential Personal Information
+  * Information Security Policy
+  * Health Information Privacy Policy
+  * Privacy of Student Records Policy
+  * Social Security Number and GWid Usage Policy
 
 
 
