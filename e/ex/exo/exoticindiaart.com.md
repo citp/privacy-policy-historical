@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505040338id_/http%3A//www.exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoticindiaart.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221501id_/http%3A//exoticindiaart.com/privacy_policy.php3) for the most accurate reproduction.*
 
-# Indian Artwork: Indian Paintings | Buddha Statues | Indian Jewelry
-
-[](http://www.exoticindiaart.com/)
-
-Namaste, Welcome to Exotic India [Contact Us](http://www.exoticindiaart.com/contactus.php3) | [Track Your Order](http://www.exoticindiaart.com/track.php) | [Register](http://www.exoticindiaart.com/register.php3) | [Sign In](http://www.exoticindiaart.com/loginform.php?gotopage=http%3A%2F%2Fwww.exoticindiaart.com%2Fprivacy_policy.php3) [](http://www.exoticindiaart.com/loginform.php?gotopage=http%3A%2F%2Fwww.exoticindiaart.com%2Fprivacy_policy.php3)
-
-[](http://www.facebook.com/pages/Exotic-India/111428205548544)
+# Indian Artwork - Gold Jewelry Paintings and Buddha Statues - Exotic India Art
 
 [](https://privacy.truste.com/privacy-seal/Indian-Arts-and-Crafts,-LLC-/validation?rid=20ac32c0-32ab-4c2e-85e2-bef7d1ddea6a "TRUSTe online privacy certification")
 
@@ -16,7 +10,8 @@ Indian Arts and Crafts LLC has been awarded TRUSTe's Privacy Seal signifying tha
 
 If you have questions or concerns regarding this statement, you should first contact Dr. S. K. Verma at privacy@exoticindiaart.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-**_Registration_**  
+##  ** _Registration_**
+
 In order to use this Web site, we request certain personally identifiable information from you on the registration form. During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest.
 
  _Orders_
@@ -25,18 +20,21 @@ If you purchase a product or service from us, we request certain personally iden
 
 We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
-**Affiliate Program**  
+##  **Affiliate Program**
+
 If you choose to sign up for our affiliate program we will ask for your name, email address, address and a referring URL. We collect this information in order to complete the process of signing you up for our affiliate program.
 
 Affiliates can update their information in our records by signing-in to their account at http://www.exoticindiaart.com/affiliate_program.php3
 
-**Newsletters**  
+###  **Newsletters**
+
 If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
 
-**Links to Other Sites**  
+###  **Links to Other Sites**
+
 If you click on a link to a third party site, including on an advertisement, you will leave the www.exoticindiaart.com site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as www.exoticindiaart.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to an www.exoticindiaart.com site, you should read that site’s privacy statement before providing any personally identifiable information.
 
-**Exoticindiaart.com does not share, sell, rent or trade your personal information with third parties other than as described within this privacy policy.**
+###  **Exoticindiaart.com does not share, sell, rent or trade your personal information with third parties other than as described within this privacy policy.**
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
