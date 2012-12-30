@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasd.org privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501111655id_/http%3A//www.lasdhq.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasd.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230232350id_/http%3A//www.lasdhq.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ By sending us an electronic mail message, you may be sending us personally ident
 The Los Angeles County Sheriff Department may ask visitors who request specific information to fill out a form. For example, when requesting information about a crime report, civil process, weapon permits, or other subjects, the visitors may be asked to provide their names, addresses, e-mail addresses and other pertinent information to ensure we can process and deliver the information requested. Other information may be collected at these sites through questionnaires, feedback forms or other means to enable us to determine a visitor's interests with the goal of providing better service.
 
 **If you use this Website to make a purchase, deposit or payment:**  
-The applicable Credit Card Disclosure linked below describes how personally identifiable information is treated in connection with making a purchase, deposit or payment.  If you are using this Website to deposit money in an inmate's trust account, please see the [**Credit Card Disclosure**](https://web.archive.org/web/20120501111655id_/http%3A//www.lasdhq.org/credit-card-disclosure.html). The Credit Card Disclosures are incorporated into the body of this Privacy Policy by this reference.
+The applicable Credit Card Disclosure linked below describes how personally identifiable information is treated in connection with making a purchase, deposit or payment.  If you are using this Website to deposit money in an inmate's trust account, please see the [**Credit Card Disclosure**](https://web.archive.org/web/20121230232350id_/http%3A//www.lasdhq.org/credit-card-disclosure.html). The Credit Card Disclosures are incorporated into the body of this Privacy Policy by this reference.
 
 **Consequences of failing to provide information:**  
 If you choose not to provide us with the information described above for us to refer, respond to, or investigate the issue you are concerned about.
