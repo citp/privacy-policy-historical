@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superfast-openreach.co.uk privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624092606id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteAr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfast-openreach.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185606id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteAr) for the most accurate reproduction.*
 
 # BT.com | Privacy Policy
 
