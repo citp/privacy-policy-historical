@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gatehousemedia.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611031857id_/http%3A//www.gatehousemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatehousemedia.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192137id_/http%3A//www.gatehousemedia.com/privacy) for the most accurate reproduction.*
 
-# GateHouse Media, Inc. - Privacy Policy
+# GateHouse Media, Inc. Publications
 
 This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. ("Gatehouse") and certain of Gatehouse's subsidiaries, including this website (the "websites").   
 
@@ -67,18 +67,24 @@ This Web site uses services provided by AP News Registry. AP News Registry colle
 
 We may modify this Privacy Policy at any time, so please review it frequently. We will post any changes on the Privacy Policy page of the Websites, but we have no other obligation to notify you of such changes. We indicate the date of the current version of this Privacy Policy below, so you know when it was last updated. Any changes will affect all of the information we have previously collected from you, as well as the information we collect after such changes, and may include without limitation additional uses or disclosures of your information. If any of the changes represent a material change that expands our use of personal information, the changes will be posted at least 30 days prior to taking effect and we will post a prompt on the home page of our site for users to review the new privacy policy. If you object to the changes, please contact us as provided below and we will remove your information that we previously collected. However, your subsequent provision of information to us through any of our Websites is deemed your agreement to use of that information in accordance with the then-current Privacy Policy.
 
+GateHouse Media works with DataXu to target advertising based on non-personally identifiable information. To learn more about DataXu’s privacy policy or to opt out, visit [www.dataxu.com/privacy/platform](http://www.dataxu.com/privacy/platform)
+
 ## CONTACT US
 
 If you have any questions about this Privacy Policy or you wish to make changes to your personal information or remove yourself from our database, please contact us in one of the following ways: 
 
 E-mail us at: [webmaster@gatehousemedia.com ](mailto:webmaster@gatehousemedia.com?subject=Privacy%20Policy)
 
-[Write to us at:   
+Write to us at:   
 Webmaster  
 GateHouse Media, Inc.  
 350 WillowBrook Office Park  
-Fairport, NY 14450](mailto:webmaster@gatehousemedia.com?subject=Privacy%20Policy)
+Fairport, NY 14450
 
-[Call us at: (585) 598-0030 and ask for the GateHouse webmaster](mailto:webmaster@gatehousemedia.com?subject=Privacy%20Policy)
+Call us at: (585) 598-0030 and ask for the GateHouse webmaster
 
-[Last revised April 2010](mailto:webmaster@gatehousemedia.com?subject=Privacy%20Policy)
+Last revised April 2010
+
+GateHouse Media, Inc.   
+350 WillowBrook Office Park, Fairport, NY 14450  
+Phone: (585) 598-0030 | Fax: (585) 248-2631
