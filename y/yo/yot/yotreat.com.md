@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yotreat.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625130220id_/http%3A//www.yotreat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotreat.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230115018id_/http%3A//www.yotreat.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Yotreat games: Privacy policy!
+# Yotreat: Privacy Policy
 
 ## Yotreat.com Privacy Policy
 
@@ -20,4 +20,6 @@ We may use third party advertising companies to serve different kind of ads when
 
 #### Third Party Cookies
 
-While providing advertisements for you in this website, our third party advertisers might drop a cookie on your web browser to track the effectiveness of the advertisement. 
+While providing advertisements for you in this website, our third party advertisers might drop a cookie on your web browser to track the effectiveness of the advertisement.
+
+2012 Yotreat.com: Free Online Games. All Games are copyright of respective owners or authors.
