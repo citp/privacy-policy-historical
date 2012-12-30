@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theyallhateus.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625154119id_/http%3A//www.theyallhateus.com/privacy-polisy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyallhateus.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230191505id_/http%3A//www.theyallhateus.com/privacy-polisy) for the most accurate reproduction.*
 
-# Privacy Policy | They All Hate Us
+# Privacy Policy | TheyAllHateUs
 
 We recognize the importance of your privacy, and that you have a right to control how your personal information is collected and used. We know that providing personal information is an act of trust and we take that seriously. Unless you directly give us consent to do otherwise, ‘They All Hate Us’ will only collect and use your personal information as set out below. This Privacy Policy is intended to represent industry best practice and comply fully with the Privacy Act 1988.
 
