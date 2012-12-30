@@ -1,33 +1,28 @@
-> *The following text is extracted and transformed from the ebookuniverse.net privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307054159id_/http%3A//www.ebookuniverse.net/index.php%3Fmain_page%3Dpage%26id%3D18%26chapter%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookuniverse.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184908id_/http%3A//ebookuniverse.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy : Ebook Universe
+# Privacy Policy
 
-)
+If you require any more information or have any questions about our privacy policy, please feel free to [Contact form](http://ebookuniverse.net/feedback.php "Contact Us")
 
-This is the web site of **Ebook Universe**.  
+At EBOOKS UNIVERSE, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by EBOOKS UNIVERSE and how it is used.
 
+**Log Files**  
+Like many other Web sites, EBOOKS UNIVERSE makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Our postal address is   
-**PO Box 1985, Noosa Heads, Queensland 4567  
-**
+**Cookies and Web Beacons**  
+EBOOKS UNIVERSE does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-We can be reached via e-mail at [**contact@ebookuniverse.net**](mailto:contact@ebookuniverse.net)  
+**DoubleClick DART Cookie**  
+\- Google, as a third party vendor, uses cookies to serve ads on EBOOKS UNIVERSE.  
+\- Google's use of the DART cookie enables it to serve ads to your users based on their visit to EBOOKS UNIVERSE and other sites on the Internet.  
+\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy/ads/>
 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on EBOOKS UNIVERSE send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-We collect the e-mail addresses of those who communicate with us via e-mail, name and address, payment information (e.g., credit card number and billing address), no information on consumers who browse our Web page.
+EBOOKS UNIVERSE has no access to or control over these cookies that are used by third-party advertisers.
 
-The information we collect is used to notify consumers about updates to our Web site, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website and used to process your order.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. EBOOKS UNIVERSE privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart.
-
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or "unchecking" the newsletter subscription box within your account.
-
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or .
-
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them .
-
-Consumers can access this information by e-mail us at the above address.
-
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
