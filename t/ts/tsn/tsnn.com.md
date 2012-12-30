@@ -1,23 +1,22 @@
-> *The following text is extracted and transformed from the tsnn.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105113844id_/http%3A//www.tsnn.com/blog/%3Fpage_id%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsnn.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184443id_/http%3A//www.tsnn.com/privacy-policy-1) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | TSNN Trade Show News
 
-TSNN.com is strongly committed to protecting the privacy of members and their products and services. We want to contribute to providing a safe and secure environment for conducting business transactions while ensuring that critical business information is protected.
+Tarsus Group plc is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK. The purpose of this statement is to explain to you what personal information we collect and how we may use it.
 
-## Information About All TSNN.com Visitors
+  1. When you order, we need to know your name, address, email address and card details. This allows us to process and fulfill your order. You have the option to withhold personal information that is not required for the order process. 
 
-In general, our service automatically gathers certain usage information like the numbers and frequency of visitors to TSNN.com and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our customers use parts of the site, so we can improve our site to assure that it is as appealing as we can make it for as many of you as possible. For example, TSNN.com uses “cookies” to tell us how and when pages in our site are visited, and by how many people. Such cookies do not collect personally identifiable information and we do not combine information collected through cookies with other personally identifiable information to tell us who you are or even what your screen name or e-mail address are. We also may provide statistical “ratings” information, never information about you personally, to our TSNN.com partners about how our members, collectively, use TSNN.com. We do this so they too can understand how much people use their areas and our site in order for them to provide you with the best possible Web experience as well.
+  2. We use your information for payment and billing purposes, to notify you of changes to the website, to update you about new products/services and to improve our products/services. We will only contact you with your consent. 
 
-Dates and locations for certain events are subject to change. Please consult with the specific event organizer to confirm final arrangements.
+  3. Except with your consent, we do not sell, rent or exchange your personal information with any third party for commercial reasons, beyond the essential requirement for credit/debit card validation during purchase. 
 
-## Information About You
+  4. We follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorized access in accordance with the UK data protection legislation. 
 
-Sometimes, we may specifically ask for information about you when you register, sign up for enhanced or upgraded services, or when you contact customer service personnel. We may need certain accurate information — such as name, Internet address or screen name, billing address, type of computer, and credit card number — in order to provide that service or product to you. We may also use that information to let you know of additional products and services about which you might be interested when you register on TSNN.com. You can choose not to receive such information if you don’t want to by letting us know on the registration screen when you sign up for the product or service. We may ask you for information about your interests so that both you and we can take advantage of the interactivity of the online medium, but you may always choose to respond or not. Additionally, we may provide you with an opportunity to be listed in a directory of TSNN.com subscribers or customers.
+  5. We do not collect sensitive information about you except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by contacting [website@tarsus.com](mailto:website@tarsus.com?subject=Web%20Message%20from%20Tarsus%20Privacy%20Policy%20)
 
-## Disclosure
+  6. In order to process credit/debit card transactions, the bank or card processing agency may require to verify your personal details for authorization outside the EEA (European Economic Area). Your information will not be transferred outside the EEA for any other purpose. 
 
-With your permission we may use or disclose information about your individual visits to TSNN.com or information that you may give us, such as your name, address, email address or telephone number, to carefully selected outside companies. As we mention above, we may also share with our Web site partners aggregated statistical “ratings” information about the use of TSNN.com.
+  7. If you have any questions about privacy please contact [website@tarsus.com](mailto:website@tarsus.com?subject=Web%20Message%20from%20Tarsus%20Privacy%20Policy%20)[.](mailto:website@tarsus-group.com?subject=Contact%20details)
 
-## TSNN.com Privacy Policy Changes
 
-If we decide to change our privacy policy for TSNN.com, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
+
