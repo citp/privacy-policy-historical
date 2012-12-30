@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626222351id_/http%3A//www.stratospherehotel.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratospherehotel.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184319id_/http%3A//www.stratospherehotel.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Las Vegas NV - Stratosphere Casino, Hotel & Tower
 
@@ -6,7 +6,7 @@ This Privacy Policy is effective as of March 1, 2012.
 
     I.  Application of this Privacy Policy.
 
-    This Privacy Policy applies to web sites owned or operated by American Casino & Entertainment Properties, LLC and its subsidiaries (collectively, "ACEP" or “we”) for the Stratosphere Casino, Hotel & Tower and accessible through the "[http://StratosphereHotel.com](http://stratospherehotel.com/)”, "[stratospherecasino.com](http://stratospherecasino.com/)", "[stratospheretower.com](http://stratospheretower.com/)", “[StratosphereNewYears.com](http://stratospherenewyears.com/)”, “[LasVegasUnder100.com](http://lasvegasunder100.com/)”, "[ChapelintheClouds.com](http://chapelintheclouds.com/)”, “[TopoftheWorldLV.com](http://topoftheworldlv.com/)”, and “[SkyJumpLasVegas.com](http://skyjumplasvegas.com/)” domain names (collectively, "Stratosphere Casino, Hotel & Tower Web Sites"). Stratosphere Casino, Hotel & Tower Web Sites may be accessed through domain names in addition to the domain names listed above. This Privacy Policy does not apply to information collected by us by means other than through Stratosphere Casino, Hotel & Tower Web Sites.
+    This Privacy Policy applies to web sites owned or operated by American Casino & Entertainment Properties, LLC and its subsidiaries (collectively, "ACEP" or “we”) for the Stratosphere Casino, Hotel & Tower and accessible through the " [http://StratosphereHotel.com](http://stratospherehotel.com/)”, " [stratospherecasino.com](http://stratospherecasino.com/)", " [stratospheretower.com](http://stratospheretower.com/)", “ [StratosphereNewYears.com](http://stratospherenewyears.com/)”, “ [LasVegasUnder100.com](http://lasvegasunder100.com/)”, " [ChapelintheClouds.com](http://chapelintheclouds.com/)”, “ [TopoftheWorldLV.com](http://topoftheworldlv.com/)”, and “ [SkyJumpLasVegas.com](http://skyjumplasvegas.com/)” domain names (collectively, "Stratosphere Casino, Hotel & Tower Web Sites"). Stratosphere Casino, Hotel & Tower Web Sites may be accessed through domain names in addition to the domain names listed above. This Privacy Policy does not apply to information collected by us by means other than through Stratosphere Casino, Hotel & Tower Web Sites.
 
     Certain transactions and services offered while visiting Stratosphere Casino, Hotel & Tower Web Sites may be processed or provided by us or strategic partners under contract with us, even though it appears that you may not have left the Stratosphere Casino, Hotel & Tower Web sites, including reservations. This Privacy Policy does not apply to information collected by strategic partners, except that we will treat information we receive about you from strategic partners under the terms of this Privacy Policy. We do not have any control over how strategic partners use information they collect about you.
 
@@ -44,7 +44,7 @@ This Privacy Policy is effective as of March 1, 2012.
 
     VI. Access
 
-    The general or Personal Information collected through Stratosphere Casino, Hotel & Tower Web Sites or provided by strategic partners is not currently accessible to you, except that confirmation is provided for some transactions, such as reservations. If you believe that any information collected by us about you is not correct or has changed, please send an e-mail message to [master.web@acepllc.com](mailto:master.web@acepllc.com) explaining the correction or change, addition or deletion, and provide any relevant confirmation or reference number.
+    The general or Personal Information collected through Stratosphere Casino, Hotel & Tower Web Sites or provided by strategic partners is not currently accessible to you, except that confirmation is provided for some transactions, such as reservations. If you believe that any information collected by us about you is not correct or has changed, please send an e-mail message to  [master.web@acepllc.com](mailto:master.web@acepllc.com) explaining the correction or change, addition or deletion, and provide any relevant confirmation or reference number.
 
     VII. Security
 
@@ -58,4 +58,4 @@ This Privacy Policy is effective as of March 1, 2012.
 
       This Privacy Policy is dated March 1, 2012. We reserve the right to change, modify or amend this Privacy Policy at any time. When the Privacy Policy is changed, modified and/or amended, the revised Privacy Policy will be posted on Stratosphere Casino, Hotel & Tower Web Sites. Any revised Privacy Policy will only apply prospectively to Personal Information collected or modified after the effective date of the revised policy. Customers are responsible for periodically checking the Privacy Policy posted on Stratosphere Casino, Hotel & Tower Web Sites for changes.
 
-    If you have any questions regarding this Privacy Policy, please contact [master.web@acepllc.com](mailto:master.web@acepllc.com).
+    If you have any questions regarding this Privacy Policy, please contact  [master.web@acepllc.com](mailto:master.web@acepllc.com).
