@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonadopters.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509203033id_/http%3A//dragonadopters.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonadopters.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190315id_/http%3A//dragonadopters.com/pp) for the most accurate reproduction.*
 
 # Dragonadopters Home
 
