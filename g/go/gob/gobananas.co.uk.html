@@ -1,307 +1,567 @@
-<!--The following is the downloaded HTML source of the gobananas.co.uk privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220031302id_/http%3A//www.gobananas.co.uk/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gobananas.co.uk privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230183921id_/http%3A//www.gobananas.com/privacy-a-cookies.html) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head><base href="http://www.gobananas.co.uk/">
-
-
-
-<title>Stag Weekends - Hen Nights - Birthday Parties - Corporate Events</title>
-			<meta name="keywords" content="Birthday Party, stag weekends, hen weekends, team building, Birthdays, corporate events, Event Partners.">
-			<meta name="description" content="GoBananas.co.uk have Party Organizers and Event Partners for stag weekends, Hen Nights, Birthday Parties and Corporate Events in Top Locations of UK.">
-			<meta name="copyright" content="2008 GoBananas &amp; HelpMeGo.To Ltd"><meta name="ROBOTS" content="NOYDIR">
-<link href="css/style1.css" rel="stylesheet" type="text/css">
-<link href="css/style.css" rel="stylesheet" type="text/css">
-<!--<link href="css/form.css" rel="stylesheet" type="text/css" />-->
-<link href="css/calendar.css" rel="stylesheet" type="text/css" media="all" title="win2k-cold-1">
-<link href="css/scroller.css" rel="stylesheet" type="text/css">
-<link href="css/layout.css" rel="stylesheet" type="text/css">
-<link href="SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
-<script src="SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
-<script type="text/javascript" src="js/calendar.js"></script>
-<script src="extras/htmleditor/wysiwyg.js"></script> 
-<script src="js/validator.js"></script>
-<script src="js/slide.js"></script>
-<script type="text/javascript" src="extras/editor/fckeditor.js"></script>
-<script type="text/javascript" src="js/dom-drag.js"></script>
-<script language="JavaScript" type="text/javascript">
-
-function homeload()
-{
-	/*scroller.init();
-	scroller3.init3();
-	scroller4.init4();
-	scroller5.init5();*/
-}
-function activitytypeload()
-{
-	scroller2.init2();
-	scroller3.init3();
-	scroller4.init4();
-	scroller5.init5();
-	//scroller6.init6();
-}
-</script>
-<script language="javascript">
-var DIV_CITY_PROFILE;
-function closex(){
-	document.getElementById("supplierlogin").removeChild(DIV_CITY_PROFILE);
-	document.getElementById("supplierlogin").style.display='none';
-	document.getElementById("hoverbox").style.display='none';
-	//document.body.className="enable-scroll-bars";
-}
-function getTop(){
-	if(window.innerHeight)
-	return window.pageYOffset;
-	
-	if(document.documentElement && document.documentElement.scrollTop)
-	return document.documentElement.scrollTop;
-	
-	if(document.body)
-	return document.body.scrollTop;
-}
-
-function ShowSupplierLogin(){
-	
-	var html="<table style=\"border:solid 5px #993300\" cellpadding=0 cellspacing=0><tr><td><TABLE id=leftmenupannel cellSpacing=0 cellPadding=0 width=300 border=0><TR><TD class=leftmenu_left width=25>&nbsp;</TD><TD width=250><P class=menu_head>SUPPLIER LOGIN</P></TD><TD class=leftmenu_rightsupplier align=right width=25 style='padding-right:3px'><a href=\"javascript:closex();\"><b>x</b></a></TD></TR></table><table width=\"300\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" bgColor=\"#fce387\">";
-	html+="<tr>";
-	html+="<td colspan=\"2\"><form id=\"frmLogin\" name=\"frmLogin\" method=\"post\" onSubmit=\"return ValidateForm(this)\" action=\"\"  >";
-	html+="<input type=\"hidden\" name=\"Process\" value=\"Login\" /><input type=hidden name=optUser value=supplier>";
-	html+="<table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" >";
-	html+="<tr>";
-	html+="<td colspan=\"3\" class=\"blackMedinor\"><div align=\"center\"></div></td>";
-	html+="</tr>";
-	html+="<tr>";
-	html+="<td height=\"25\" colspan=\"2\" class=\"user\"><div align=\"right\">Username:</div></td>";
-	html+="<td  height=\"25\" class=\"MedWhiteNor\"><div align=\"left\">";
-	html+="<input name=\"UserName\" type=\"text\" class=\"InputBox\" id=\"UserName\" size=\"10\"/>";
-	html+="</div></td>";
-	html+="</tr>";
-	html+="<tr>";
-	html+="<td height=\"25\" colspan=\"2\" class=\"user\"><div align=\"right\">Password:</span></div></td>";
-	html+="<td height=\"25\" class=\"MedWhiteNor\"><div align=\"left\">";
-	html+="<input name=\"Password\" type=\"password\" class=\"InputBox\" id=\"Password\" size=\"10\" />";
-	html+="</div></td>";
-	html+="</tr>";
-	html+="<tr>";
-	html+="<td height=\"30\" align=\"center\" colspan=\"3\">";
-	html+="<input type=\"submit\" name=\"login\" class=\"inputSubmit\" value=\"Login\" />";
-	html+="<input type=\"hidden\" name=\"Validation\" 		value=\"Field=UserName|Alias=UserName|Validate=Blank^ 											   Field=Password|Alias=Password|Validate=Blank\" />";
-	html+="</td></tr><tr>";
-	html+="<td></td>";
-	html+="<td colspan=\"2\"><a class=\"forgot\" href=\"index.php?p=forgotpassword\">Forgot Password ?</a><a class=\"forgot\" href=\"index.php?p=newregistration&user=supplier\">New Registration ?</a></td>";
-	html+="</tr> </table></form><br></td></tr><tr></td></tr></table></td></tr></table>";
-	DIV_CITY_PROFILE=document.createElement('DIV');
-	DIV_CITY_PROFILE.innerHTML=html;
-	document.getElementById("supplierlogin").innerHTML="";
-	document.getElementById("supplierlogin").appendChild(DIV_CITY_PROFILE);
-	document.getElementById("supplierlogin").style.left = (window.screen.width/2 - 160)+"px";
-	document.getElementById("supplierlogin").style.top = (getTop()+200)+"px";
-	document.getElementById("supplierlogin").style.display='block';
-	//document.body.className="disable-scroll-bars";
-	document.getElementById("hoverbox").style.display="block";
-	heightwidth=getPageSizeWithScroll();
-	
-	document.getElementById("hoverbox").style.width=heightwidth[0];
-	document.getElementById("hoverbox").style.height=heightwidth[1];
-}
-function getPageSizeWithScroll(){
-     if (window.innerHeight && window.scrollMaxY) {// Firefox
-         yWithScroll = window.innerHeight + window.scrollMaxY;
-         xWithScroll = window.innerWidth + window.scrollMaxX;
-     }
-	 else if (document.body.scrollHeight > document.body.offsetHeight){ // all but Explorer Mac
-         yWithScroll = document.body.scrollHeight;
-         xWithScroll = document.body.scrollWidth;
-     } 
-	 else { // works in Explorer 6 Strict, Mozilla (not FF) and Safari
-         yWithScroll = document.body.offsetHeight;
-         xWithScroll = document.body.offsetWidth;
-     }
-     arrayPageSizeWithScroll = new Array(xWithScroll,yWithScroll);
-     //alert( 'The height is ' + yWithScroll + ' and the width is ' + xWithScroll );
-     return arrayPageSizeWithScroll; 
-} 
-</script>
-</head>
-<body>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td align="center" width="100%">
-<div id="holder">
-  <!--main header-->
-  <form action="http://www.gobananas.co.uk/index.php" id="searchbox_002645371773192851485:w-ooof_8yy4">
-<input type="hidden" name="cx" value="002645371773192851485:w-ooof_8yy4">
-<input type="hidden" name="cof" value="FORID:11">
-<input type="hidden" name="p" value="search">
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-  <td><table width="776" border="0" align="center" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td valign="top" class="top-banner" align="right">
-			<table cellpadding="0" cellspacing="0">
-<tbody><tr><td><span class="call">Call us on</span> <span class="phone">0871 789 6200</span></td></tr>
-			<tr><td>
-            <span class="call">email</span> <a href="mailto:info@gobananas.co.uk"><span class="phone">info@gobananas.co.uk</span></a>
-</td></tr>
-<tr><td>
-			<!-- AddThis Bookmark Button BEGIN -->
+<!DOCTYPE html><html lang="en-gb" dir="ltr"><head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://static.dudamobile.com/DM_redirect.js" type="text/javascript"></script>
 <script type="text/javascript">
-  addthis_url    = location.href;   
-  addthis_title  = document.title;  
-  addthis_pub    = 'stagman';     
-</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
-<!-- AddThis Bookmark Button END -->
-</td></tr></tbody></table></td>
-      </tr>
-	  
-    </tbody></table></td>
-</tr>
-<tr>
-  <td><table width="776" border="0" align="center" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-      <td valign="top" class="second_banner"><div id="topmenu_nav">
-          <ul>
-            <li><a href="/">Home</a></li>
-            |
-            <li><a href="javascript:void(0)" onclick="ShowSupplierLogin()">Supplier Login</a></li>
-            |
-            <li><a href="aboutus.html">About Us</a></li>
-            |
-            <li><a href="contactus.html">Contact Us</a></li>
-          </ul>
+	DM_redirect("http://m.gobananas.com");
+</script>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <base href="http://www.gobananas.com/privacy-a-cookies.html">
+  <link rel="canonical" href="http://www.gobananas.com/privacy-a-cookies.html">
+  <meta name="keywords" content="Party activities, stag weekends, stag nights, hen party">
+  <meta name="author" content="Sholto Ramsay">
+  <meta name="description" content="stag weekends, hen nights, stag do and parties across the UK we've got some of the best packages, give us a call on 0870 01122 01 or send a quick email">
+  
+  <title>Privacy &amp; Cookies - Go Bananas</title>
+  <link href="http://cdn.gobananas.com/templates/yoo_subway/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="http://cdn.gobananas.com/cache/widgetkit/widgetkit-f6422229.css" type="text/css">
+  <link rel="stylesheet" href="http://cdn.gobananas.com/modules/mod_jw_ts/tmpl/css/template.css" type="text/css">
+  <link rel="stylesheet" href="http://cdn.gobananas.com/modules/mod_zoofilter/tmpl/default/style.css?ver=20120615" type="text/css">
+  <script type="text/javascript" src="http://cdn.gobananas.com/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="http://cdn.gobananas.com/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://cdn.gobananas.com/media/widgetkit/js/jquery.js"></script>
+  <script type="text/javascript" src="http://cdn.gobananas.com/cache/widgetkit/widgetkit-1a2f27cd.js"></script>
+  <script type="text/javascript" src="http://live.gobananas.co.uk/modules/mod_jw_ts/includes/js/behaviour.js"></script>
+  <script type="text/javascript" src="http://cdn.gobananas.com/modules/mod_zoofilter/assets/js/modernizr.custom.js?ver=20120615"></script>
+  <script type="text/javascript" src="http://cdn.gobananas.com/modules/mod_zoofilter/assets/js/jquery.placehold.min.js?ver=20120615"></script>
+  <script type="text/javascript" src="http://cdn.gobananas.com/modules/mod_zoofilter/tmpl/default/script.js?ver=20120615"></script>
+  <style type="text/css">
+		.recently_viewed_list{padding:0px 0px 0px 15px; margin:0px;}
+		.recently_viewed_subtitle{font-weight:bold;}
+		.recently_viewed_item{display:inline; height: 35px; line-height: 35px; margin-right: 0;	color: rgba(255,255,255,0.5);}
+		.recently_viewed_item a{padding: 10px 6px 9px 6px; border-right: 1px solid rgba(255,255,255,0.15); height: 35px;	line-height: 35px; color:rgba(255, 255, 255, 0.5);
+	background-clip: padding-box;}
+	.recently_viewed_item a:hover{padding: 10px 6px 9px 6px; color: rgba(255,255,255,1);
+	background-color: rgba(0,0,0,0.3);}
+	</style>
+
+<link rel="apple-touch-icon-precomposed" href="http://cdn.gobananas.com/templates/yoo_subway/apple_touch_icon.png">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/base.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/layout.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/menus.css">
+<style>body { min-width: 1180px; }
+.wrapper { width: 1030px; }
+#sidebar-a { width: 270px; }
+#maininner { width: 760px; }
+#menu .dropdown { width: 250px; }
+#menu .columns2 { width: 500px; }
+#menu .columns3 { width: 750px; }
+#menu .columns4 { width: 1000px; }</style>
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/modules.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/tools.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/system.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/extensions.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/custom.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/animations.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/background/street.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/texture/scanlines.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/font2/bebas.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/font3/opensanslight.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/styles/yellow_dove/css/style.css">
+<link rel="stylesheet" href="http://cdn.gobananas.com/templates/yoo_subway/css/print.css">
+<link rel="stylesheet" href="/templates/yoo_subway/fonts/bebas.css">
+<link rel="stylesheet" href="/templates/yoo_subway/fonts/opensanslight.css">
+<script>window["WarpSystemPath"]="http://www.gobananas.com";</script>
+<script>window["WarpThemePath"]="/templates/yoo_subway";</script>
+<script src="http://cdn.gobananas.com/templates/yoo_subway/warp/js/warp.js"></script>
+<script src="http://cdn.gobananas.com/templates/yoo_subway/warp/js/accordionmenu.js"></script>
+<script src="http://cdn.gobananas.com/templates/yoo_subway/warp/js/dropdownmenu.js"></script>
+<script src="http://cdn.gobananas.com/templates/yoo_subway/js/template.js"></script>
+<link href="https://plus.google.com/103400786762168441389" rel="publisher">
+<meta http-equiv="Content-Language" content="en"></head>
+<body id="page" class="page sidebar-a-right  isblog  transparency-75 system-transparent" data-config="{&quot;twitter&quot;:0,&quot;plusone&quot;:0,&quot;facebook&quot;:0}">
+<div id="page-body">
+  <div class="page-body-1">
+            <div id="socialbar"> <ul class="social-icons">
+<li><a class="twitter" href="https://twitter.com/#!/gobananasparty" target="_blank"></a></li>
+<li><a class="facebook" href="https://www.facebook.com/GoBananas.NOW" target="_blank"></a></li>
+<li><a class="googleplus" rel="publisher" href="https://plus.google.com/103400786762168441389" target="_blank"></a></li>
+<li><a class="feed" href="http://www.gobananas.com/ror.xml" target="_blank"></a></li>
+<li> <a target="_blank" href="http://instagram.com/gobananasuk?ref=badge" class="ig-b- ig-b-48"><img src="http://badges.instagram.com/static/images/ig-badge-48.png" alt="Instagram" style="width: 40px; height: 40px; padding: 10px;"></a></li>
+<li> <a target="_blank" href="http://www.youtube.com/user/GoBananasEvents" class="ig-b- ig-b-48"><img src="http://cdn.gobananas.com/images/stories/youtube.png" alt="youtube" style="width: 40px; height: 40px; padding: 10px;"></a></li>
+</ul> </div>
+        <div class="wrapper grid-block">
+      <header id="header">
+        <div id="toolbar" class="grid-block">
+                              <div class="float-right"> <div class="module   deepest">
+
+			<ul id="mainlevel-bottom" class="menu menu-line"><li class="level1 item"><a href="/" class="mainlevel-bottom level1">GoBananas Home</a></li><li class="level1 item"><a href="/party-games.html" class="mainlevel-bottom level1">Party Games</a></li><li class="level1 item"><a href="/frontpage/gobananas-bar-directory.html" class="mainlevel-bottom level1">City Party Guides</a></li><li class="level1 item"><a href="/frontpage/partners.html" class="mainlevel-bottom level1">Partners</a></li><li class="level1 item"><a href="/frontpage/events.html" class="mainlevel-bottom level1">Events</a></li><li class="level1 item"><a href="/contact-us.html" class="mainlevel-bottom level1">Contact Us</a></li><li class="level1 item"><a href="/special-deals/" class="mainlevel-bottom level1">Our Special Party Deals</a></li></ul>		
+</div>                      </div>
+                  </div>
+        <div id="headerbar" class="grid-block">
+                    <a id="logo" href="http://www.gobananas.com"><img width="234" height="91" style="margin-top: 3px; margin-right: 3px; margin-bottom: 3px; margin-left: 20px; float: left;" src="http://cdn.gobananas.com/images/stories/gobananas-logo.png" alt="GoBananas Stag and Hen" title="GoBananas Party Planners"></a>
+                              <div class="left"><div class="module   deepest">
+
+			<a href="/2minute-itinerary.php" target="_blank"><img src="http://cdn.gobananas.com/images/stories/2minute-enquiry-btn.png" style="margin-bottom: 10px; margin-left: 10px; margin-top: 15px; margin-right: 15px; float: right;"></a>		
+</div></div>
+                  </div>
+        <div id="menubar" class="grid-block">
+                            </div>
+              </header>
+            <section id="top-a" class="grid-block"><div class="grid-box width100 grid-h"><div class="module mod-box mod-box-transparent  has-icon deepest">
+
+			<div style="background: url('http://cdn.gobananas.com/templates/yoo_subway/images/module_icons_white.png') no-repeat 0 -80px transparent ; font-family: BebasNeueRegular;
+font-size: 28px; height: 37px; line-height: 35px; padding-left: 40px;"> <a href="/2minute-itinerary.php" target="_&quot;blank&quot;">Enquiry Form</a> | 
+<span style="color:#FFD500;">Freephone</span> 0800 567 7101 / 0131 516 8222 | <span style="color:#FFD500;">SMS</span> 07624804305 | <a href="http://chat.helpmego.to/chat/chatstart.htm?domain=www.gobananas.co.uk" onclick="javascript:window.open('http://chat.helpmego.to/chat/chatstart.htm?domain=www.gobananas.co.uk','wochat','width=484,height=361');return false;">Live Chat</a> | <a href="mailto:info@gobananas.co.uk">Email</a></div>
+		
+</div></div></section>
+                  <section id="top-b" class="grid-block"><div class="grid-box width100 grid-h"><div class="module   deepest">
+
+			
+
+<!-- JoomlaWorks "Tabs & Sliders" Module (v2.0) starts here -->
+
+
+<div id="jwTabsAndSlidersModule319" class="jwts_tabber style-blank color-transparent">
+		<div class="jwts_tabbertab" title="Find Location">
+		<h2>
+			<a href="javascript:void(null);" name="advtab">
+				Find Location			</a>
+		</h2>
+				<script language="javascript" src="/../js/actb.js"></script>
+<script type="text/javascript" src="/../js/common.js"></script>
+<script>
+var loc = new Array("Aberdeen","Aberfeldy","Aviemore","Basildon","Bath","Beaconsfield","Belfast","Berkshire","Berwick Upon Tweed","Birmingham","Blackpool","Blairgowrie","Bolton","Bournemouth","Brighton","Bristol","Buckinghamshire","Cairngorms","Cambridge","Canterbury","Cardiff","Carlisle","Cheltenham","Chester","Chester le street","Colchester","Cornwall","Coventry","Crieff","Darlington","Derby","Devon","Dundee","Dunfermline","Dunkeld","Durham","Edinburgh","England","Essex","Exeter","Falkirk","Fort William","Fife","Gateshead","Glasgow","Gloucester","Harrogate","Hartlepool","Hasting","Hexham","Hertfordshire","Highlands","Inverness","Ipswich","Isle of Skye","Isle of Wight","Kendal","Lake District","Lancaster","Leeds","Leicester","Lincoln","Liverpool","London","Luton","Manchester","Middlesborough","Milton Keynes","Newcastle","Newquay","Northampton","Norwich","Nottingham","Oxford","Perth","Peterborough","Pitlochry","Plymouth","Portsmouth","Preston","Reading","Scarborough","Scotland","Scottish Highlands","Sedgefield","Sheffield","Skegness","Slough","Southampton","Stirling","Stockton on Tees","Stratford upon Avon","Sunderland","Surrey","Sussex","Swansea","Swindon","Torquay","Wales","Winchester","Whitley Bay","York");
+function chklocation()
+{
+	//alert("Test");
+	var flag=1;
+	for(var i=0; i<loc.length; i++) {
+    	var sitelocation=loc[i];
+	var valloacation=document.getElementById('txtlocation').value;
+
+    	if (sitelocation.toLowerCase() == valloacation.toLowerCase()) 
+		{
+			flag=0;
+			break;
+		}
+	}
+	if(flag)
+	{
+		alert("Oops! We don't have activities in those locations. Try another or just call us for advice");
+		return false;
+	}
+}
+</script>
+
+<div class="jwts_tabbertab ">
+  
+  <div id="mod-zoofilter-322" class="zoo-filter form-wrapper">
+    <form id="frmlocation" name="frmlocation" method="post">
+      <div class="form-inner">
+        <div class="form-elements">
+          <input type="text" autocomplete="off" style="border:0px; width: 360px; font-size:20px; height:35px;" name="txtlocation" id="txtlocation" value="Start typing your Destination here....." onfocus="if(this.value=='Start typing your Destination here.....'){this.value='';}" onblur="if(this.value==''){this.value='Start typing your Destination here.....';}">
+         
+          <div class="clearfix"></div>
         </div>
-  <p><span class="search">Quick search</span>
-    <label>
-    <input type="text" name="q" size="25" style="font-size:11px; background-color:#fdf1ba; border:1px solid #dd6815; color:#a62508;">
-    </label>
-    <label>
-    <input type="submit" name="sa" value="GO" style="font-size:10px; font-weight:bold; background-color:#fdf1ba; border:1px solid #dd6815;">
-    </label>
-  </p>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-  <td><div>
-          </div></td>
-</tr>
-</tbody></table>
-</form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_002645371773192851485%3Aw-ooof_8yy4&amp;lang=en"></script>
-  <!--Main header close-->
-  <!--middle start-->
-  <div id="middle">
-    <table width="776" height="100%">
-		<tbody><tr>
-			<td>
-			    <table width="100%" height="100%">
-<tbody><tr>
-	<td class="blackMedinor" width="70%">
-		<table width="100%" border="0">
-    <tbody>
-        <tr>
-            <td>
-            <table width="100%" border="0">
-                <tbody>
-                    <tr>
-                        <td>
-                        <div id="content">
-                        <div id="blogWide">
-                        <div class="post"><span class="head">GoBananas Privacy Policy</span>
-                        <p><span class="sectionheader"><strong>Privacy statement</strong></span><br>
-                        <span class="blackMedinor">goBananas has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the web site.</span></p>
-                        <p align="justify"><b>General</b><br>
-                        <span class="blackMedinor">We use your IP address to help diagnose problems with our server, general report information and to administer our Web site. Demographic and profile data is collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
-                        </span></p><p class="blackMedinor">Users may opt-out of receiving future mailings; see the choice/opt-out section below.</p>
-                        <p align="justify"><b>Cookies</b><br>
-                        <span class="blackMedinor">Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other similar purposes.</span></p>
-                        <p align="justify"><b>Registration Forms/ Newsletters</b><br>
-                        <span class="blackMedinor">Where a registration form is used it may require users to give us contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary.</span></p>
-                        <p align="justify"><b>Order Forms</b><br>
-                        <span class="blackMedinor">Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like name, address and e-mail address), financial information (like account or credit card numbers), and demographic information (like post code, age, or income level). Contact information from the order form is used to send orders to our customers. Financial information that is collected is used to bill the user for products and services.</span></p>
-                        <p align="justify"><b>Survey Forms</b><br>
-                        <span class="blackMedinor">Our online surveys ask visitors for contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. </span></p>
-                        <p align="justify"><b>Competitions</b><br>
-                        <span class="blackMedinor">We run contests on our site in conjunction with promoters in which we ask visitors for contact information (like name, address and email address) and demographic information (like post code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Information requested is shared with promoters on an aggregate basis where the visitor highlights their acceptance.</span></p>
-                        <p align="justify"><b>Public Forums</b><br>
-                        <span class="blackMedinor">This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.</span></p>
-                        <p><b>Choice/Opt-Out</b><br>
-                        <span class="blackMedinor">Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor.</span></p>
-                        <p class="blackMedinor">This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.<br>
-                        <span class="blackMedinor">1. You can reply to any email sent out by the site following the opt-out instructions.<br>
-                        2. You can send email to <a href="mailto:privacy@gobananas.co.uk">privacy@goBananas.co.uk</a><br>
-                        3. You can send mail to the following postal address:</span></p>
-                        <p></p>
-                        <p class="blackMedinor"><i>Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG</i><br>
-                        <br>
-                        <span class="blackMedinor">4. You can call the following telephone number: 08700 112201</span> </p>
-                        <p class="blackMedinor"><b>Correct/Update</b><br>
-                        <span class="blackMedinor">This site gives users the following options for changing and modifying information previously provided.</span> <br>
-                        <span class="blackMedinor">1. You can send email to <a class="mainlink" href="mailto:privacy@gobananas.co.uk">privacy@goBananas.co.uk</a></span><br>
-                        <span class="blackMedinor">2. You can send mail to the following postal address:</span><br>
-                        <br>
-                        <span class="blackMedinor"><i>Customer Services, HelpMeGo.To Ltd, 55 Constitution Street, Edinburgh. EH6 7BG</i></span><br>
-                        <br>
-                        <span class="blackMedinor">3. You can call the following telephone number: 08700 112201 </span></p>
-                        <p><b>Contacting the Web Site</b><br>
-                        <span class="blackMedinor">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:<br>
-                        </span><br>
-                        <span class="blackMedinor"><i>GoBananas<br>
-                        55 Constitution Street<br>
-                        Edinburgh<br>
-                        EH6 7BG<br>
-                        Scotland</i></span><font face="Verdana, Arial, Helvetica, sans-serif"></font></p>
-                        </div>
-                        </div>
-                        </div>
-                        <div>&nbsp;</div>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
-            </td>
-        </tr>
-    </tbody>
-</table>    </td>
-</tr>
-</tbody></table>			</td>
-		</tr>
-	</tbody></table>
-	<!--content close-->
-  </div>
-  <!--middle close-->
-  <table width="100%" border="0" cellpadding="0" cellspacing="0" id="extremebottom">
-  <tbody><tr>
-    <td width="732" class="footerbg" align="center"><div id="footerwhite"><a href="aboutus.html">About</a> | <a href="http://www.gobananas.co.uk/stuff/Stag-Weekends.html">Stag Weekends</a> | <a href="http://www.gobananas.co.uk/stuff/Hen-Weekends.html">Hen Weekends</a> | <a href="privacy.html">Privacy</a> | <a href="terms-and-condition.html">T &amp; Cs</a> | <a href="http://www.gobananas.co.uk/type-location/Stag-Weekends/Edinburgh.html">Edinburgh Stag Weekends</a> | <a href="http://www.gobananas.co.uk/type-location/Stag-Weekends/Newcastle.html">Newcastle Stag Weekends</a> | <a href="contactus.html">Contact</a> | <a href="new-supplier.html">New Supplier</a> | <a href="javascript:void(0)" onclick="ShowSupplierLogin()" class="LnkBrownSmallbold">Supplier Login</a> | <a href="http://www.gobananas.co.uk/links.html">Links</a></div></td>
-  </tr>
-  <tr>
-    <td class="footerlogo"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td colspan="2">&nbsp;<a href="http://www.gobananas.co.uk/ror.xml" title="RSS Feed"><img border="0" src="images/rss.gif" alt="RSS Feed"></a></td>
-        </tr>
-        <tr>
-          <td width="89%" align="right"><span class="copyright">Copyright: 2008 <a href="http://www.helpmego.to" target="_blank">HelpMeGo.To Ltd</a></span></td>
-          <td width="11%" align="right">&nbsp;</td>
-        </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
-  <!--all div close-->
+         <input type="submit" id="buttonLocation" onclick="return chklocation();" name="buttonLocation" class="button" value="GO" style="height:30px">
+        <script>
+var obj = actb(document.getElementById('txtlocation'),loc);</script>
+      </div>
+    </form>
+  </div><div style="clear:both;"></div>
 </div>
-</td></tr></tbody></table>
-<div id="supplierlogin" style="position:absolute;z-index:1; display:none"></div>
-<div id="hoverbox" style="display: none; filter: alpha(opacity=60); -moz-opacity: .6; position: absolute;background-color: #000000; z-index:0; width: 100%; height: 100%; left: 0px; top:0px;" onclick="closex()">
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-229424-4");
-pageTracker._initData();
-pageTracker._trackPageview();
+	</div>
+		<div class="jwts_tabbertab" title="Find Activities">
+		<h2>
+			<a href="javascript:void(null);" name="advtab">
+				Find Activities			</a>
+		</h2>
+				
+<div class="zoo-filter form-wrapper" id="mod-zoofilter-320">
+	<form action="/privacy-a-cookies.html" method="post" id="zoo-filter-form-320" name="zoo-filter-form-320">
+		
+		<div class="form-inner">
+
+			
+
+<div class="form-elements">
+	<div class="form-element-row select select-1"><select name="elements[1e71d172-2a0f-4c29-8662-6fea0e6bc73a][]" id="elements1e71d172-2a0f-4c29-8662-6fea0e6bc73a"><option value="">I want to...</option><option value="4x4+GPS+Challenge">4x4 GPS Challenge</option><option value="4x4+Off+road+driving">4x4 Off road driving</option><option value="5+A+Side+Football">5 A Side Football</option><option value="7+A+Side+Football">7 A Side Football</option><option value="Abseiling">Abseiling</option><option value="Aerobatic+Plane+Ride">Aerobatic Plane Ride</option><option value="Air+Pistol+Target+Shooting">Air Pistol Target Shooting</option><option value="Air+Rifle+Shooting">Air Rifle Shooting</option><option value="Airsoft+combat">Airsoft combat</option><option value="Archery">Archery</option><option value="Argo+Cats">Argo Cats</option><option value="Assault+Course">Assault Course</option><option value="Axe+Throwing">Axe Throwing</option><option value="Bar+Crawl">Bar Crawl</option><option value="Bars">Bars</option><option value="Beer+Maids">Beer Maids</option><option value="Beer+Tasting">Beer Tasting</option><option value="Belly+Dancing+lessons">Belly Dancing lessons</option><option value="Blindfold+driving">Blindfold driving</option><option value="Boat+Cruise">Boat Cruise</option><option value="Bobsleigh+Push+Start+">Bobsleigh Push Start </option><option value="Bollywood+Dancing+Lessons">Bollywood Dancing Lessons</option><option value="Boogie+Boarding">Boogie Boarding</option><option value="Boot+Camp+Day">Boot Camp Day</option><option value="Bouncy+Castle">Bouncy Castle</option><option value="Bowling">Bowling</option><option value="Bungee+Jump">Bungee Jump</option><option value="Bungee+Run">Bungee Run</option><option value="Bungee+Trampolines">Bungee Trampolines</option><option value="Burlesque+Lessons">Burlesque Lessons</option><option value="Burlesque+show">Burlesque show</option><option value="Bushcraft+">Bushcraft </option><option value="Butler+in+the+Buff">Butler in the Buff</option><option value="Cabaret+Show">Cabaret Show</option><option value="Can+Can+Dancing+">Can Can Dancing </option><option value="Canoeing">Canoeing</option><option value="Canyoning">Canyoning</option><option value="Car+Racing">Car Racing</option><option value="Casino">Casino</option><option value="Catamaran+Cruise">Catamaran Cruise</option><option value="Cave+Swimming">Cave Swimming</option><option value="Caving">Caving</option><option value="Chain+Walk">Chain Walk</option><option value="Cheerleading+Lessons">Cheerleading Lessons</option><option value="Chicago+Dance+Lesson">Chicago Dance Lesson</option><option value="Chocolate+Making+Workshop">Chocolate Making Workshop</option><option value="Christmas+Party">Christmas Party</option><option value="Chuckle+Buggies">Chuckle Buggies</option><option value="Cider+Tasting+">Cider Tasting </option><option value="Clay+Pigeon+Shooting">Clay Pigeon Shooting</option><option value="Cliff+Jumping">Cliff Jumping</option><option value="Climbing">Climbing</option><option value="Coasteering">Coasteering</option><option value="Cocktail+Making">Cocktail Making</option><option value="Comedy+Clubs">Comedy Clubs</option><option value="Cooking+Classes">Cooking Classes</option><option value="Craft+Workshop+">Craft Workshop </option><option value="Crossbow+Shooting">Crossbow Shooting</option><option value="Cub+Karts">Cub Karts</option><option value="Cupcakes+Workshop">Cupcakes Workshop</option><option value="Dancing+lessons">Dancing lessons</option><option value="Day+at+the+Races">Day at the Races</option><option value="Deep+Sea+Fishing">Deep Sea Fishing</option><option value="Dirty+Dancing+">Dirty Dancing </option><option value="DJ+Experience">DJ Experience</option><option value="Duckies">Duckies</option><option value="Dune+Buggies">Dune Buggies</option><option value="Eating+Out">Eating Out</option><option value="Evening+Party+Meal">Evening Party Meal</option><option value="Falconry">Falconry</option><option value="Fine+Dining">Fine Dining</option><option value="Fire+Engine+Hire">Fire Engine Hire</option><option value="Fish+Pedicure+Treatment+">Fish Pedicure Treatment </option><option value="Fishing">Fishing</option><option value="Football+Match">Football Match</option><option value="Foreplay+Lessons">Foreplay Lessons</option><option value="Ghost+Walks">Ghost Walks</option><option value="Giant+Swing">Giant Swing</option><option value="Gladiator+Jousting">Gladiator Jousting</option><option value="Glider+Flight">Glider Flight</option><option value="Go+Karting">Go Karting</option><option value="Golf">Golf</option><option value="Gorge+Walking">Gorge Walking</option><option value="Grass+Sledging">Grass Sledging</option><option value="Grease+Dance+Lessons">Grease Dance Lessons</option><option value="Greyhound+Racing">Greyhound Racing</option><option value="Guest+List+Entry">Guest List Entry</option><option value="Hat+Making">Hat Making</option><option value="High+Ropes">High Ropes</option><option value="Hill+Walking">Hill Walking</option><option value="Honda+Pilots">Honda Pilots</option><option value="Horse+Racing">Horse Racing</option><option value="Horse+Riding+">Horse Riding </option><option value="Hot+Tubs">Hot Tubs</option><option value="Hovercrafting">Hovercrafting</option><option value="Hula+Hooping">Hula Hooping</option><option value="Hummer+Hire">Hummer Hire</option><option value="Ice+Skating">Ice Skating</option><option value="Infantry+Experience">Infantry Experience</option><option value="Inflatables">Inflatables</option><option value="Its+A+Knock+Out">Its A Knock Out</option><option value="JCB+Driving+">JCB Driving </option><option value="Jet+Skiing">Jet Skiing</option><option value="Jungle+Challenge+++">Jungle Challenge   </option><option value="Karaoke+">Karaoke </option><option value="Kayaking">Kayaking</option><option value="Kissogram">Kissogram</option><option value="Kite+Buggies">Kite Buggies</option><option value="Kite+landboarding">Kite landboarding</option><option value="Kite+Surfing">Kite Surfing</option><option value="Knive+Throwing">Knive Throwing</option><option value="Land+Yachting">Land Yachting</option><option value="Lap+Dancing+Club">Lap Dancing Club</option><option value="Lap+Dancing+Lessons">Lap Dancing Lessons</option><option value="Laser+Clay">Laser Clay</option><option value="Laser+Combat">Laser Combat</option><option value="Laser+Paintball">Laser Paintball</option><option value="Laughter+Yoga+">Laughter Yoga </option><option value="Limo+Hire">Limo Hire</option><option value="Low+Rope+Course">Low Rope Course</option><option value="Mad+Trax">Mad Trax</option><option value="Magician+">Magician </option><option value="Make+Your+Own+CD">Make Your Own CD</option><option value="Makeover">Makeover</option><option value="Manicure">Manicure</option><option value="Medieval+Themed+Event+">Medieval Themed Event </option><option value="Micro+Quads">Micro Quads</option><option value="Mini+Highland+Games">Mini Highland Games</option><option value="Modeling+Lesson">Modeling Lesson</option><option value="Mountain+Biking">Mountain Biking</option><option value="Mountain+Boarding">Mountain Boarding</option><option value="Mountain+Walking">Mountain Walking</option><option value="Mud+Buggies+">Mud Buggies </option><option value="Mud+Wrestling">Mud Wrestling</option><option value="Multi+Activity+Experience">Multi Activity Experience</option><option value="Multi+Activity+Weekend">Multi Activity Weekend</option><option value="Murder+Mystery">Murder Mystery</option><option value="Musicals+and+Theatres">Musicals and Theatres</option><option value="Naked+Life+Drawing">Naked Life Drawing</option><option value="Nightclubs">Nightclubs</option><option value="Off+Road+Buggies">Off Road Buggies</option><option value="Off+Road+Karting">Off Road Karting</option><option value="Orienteering">Orienteering</option><option value="Paintball">Paintball</option><option value="Pamper+Treatments">Pamper Treatments</option><option value="Paramotoring">Paramotoring</option><option value="Paranormal+Experience">Paranormal Experience</option><option value="Party+Boat">Party Boat</option><option value="Party+Bus">Party Bus</option><option value="Personal+Chef">Personal Chef</option><option value="Personal+Shopper">Personal Shopper</option><option value="Photography">Photography</option><option value="Pirate+Banquets">Pirate Banquets</option><option value="Poker">Poker</option><option value="Pole+Dancing+Club">Pole Dancing Club</option><option value="Pole+Dancing+Lessons">Pole Dancing Lessons</option><option value="Polo">Polo</option><option value="Pottery+Painting+Lesson">Pottery Painting Lesson</option><option value="Power+kiting">Power kiting</option><option value="Power+Turn+Buggies">Power Turn Buggies</option><option value="Powerboat">Powerboat</option><option value="Pub+Crawl">Pub Crawl</option><option value="Punting">Punting</option><option value="Quad+Biking">Quad Biking</option><option value="Raft+building+">Raft building </option><option value="Rage+Buggies">Rage Buggies</option><option value="Rally+Driving">Rally Driving</option><option value="Rally+Karting">Rally Karting</option><option value="Recording+Studio">Recording Studio</option><option value="Restaurants">Restaurants</option><option value="Reverse+Steer+Driving+">Reverse Steer Driving </option><option value="Rib+Ride">Rib Ride</option><option value="River+Bugging">River Bugging</option><option value="River+Party+Cruises">River Party Cruises</option><option value="Rock+Climbing">Rock Climbing</option><option value="Roller+Disco">Roller Disco</option><option value="Roulette">Roulette</option><option value="Sailing">Sailing</option><option value="Saloon+Cars">Saloon Cars</option><option value="Salsa+Dancing">Salsa Dancing</option><option value="Sangria+Making">Sangria Making</option><option value="School+Dinners">School Dinners</option><option value="Sea+Kayaking+">Sea Kayaking </option><option value="Segway">Segway</option><option value="Sex+Themed+Party">Sex Themed Party</option><option value="Shopping">Shopping</option><option value="Skiing">Skiing</option><option value="Sky+Diving">Sky Diving</option><option value="Snooker">Snooker</option><option value="Snorkelling">Snorkelling</option><option value="Snowboarding+++">Snowboarding   </option><option value="Spa">Spa</option><option value="Speedball+paintball">Speedball paintball</option><option value="Sphereing">Sphereing</option><option value="Sport+Events">Sport Events</option><option value="Stilettos+Workshop">Stilettos Workshop</option><option value="Street+Dancing+Lessons">Street Dancing Lessons</option><option value="Strippers">Strippers</option><option value="Sumo+Wrestling">Sumo Wrestling</option><option value="Surfing">Surfing</option><option value="Survival+courses+">Survival courses </option><option value="Sushi+Making">Sushi Making</option><option value="T+Shirt+Prints">T Shirt Prints</option><option value="Tango+Dancing">Tango Dancing</option><option value="Tank+Driving">Tank Driving</option><option value="Tapas+Meal">Tapas Meal</option><option value="Target+Shooting">Target Shooting</option><option value="Team+Building">Team Building</option><option value="Ten+pin+bowling">Ten pin bowling</option><option value="Tennis">Tennis</option><option value="Theme+Parks+">Theme Parks </option><option value="Themed+Dress+up+Dancing">Themed Dress up Dancing</option><option value="Tobboganing">Tobboganing</option><option value="Transfers">Transfers</option><option value="Treasure+Hunts">Treasure Hunts</option><option value="Tyrolean+traversing+">Tyrolean traversing </option><option value="Unusual+Events">Unusual Events</option><option value="VIP+Discount+Card">VIP Discount Card</option><option value="Virtual+Golf">Virtual Golf</option><option value="Virtual+Warfare">Virtual Warfare</option><option value="Wakeboarding">Wakeboarding</option><option value="Whisky+Tasting">Whisky Tasting</option><option value="White+Water+Rafting">White Water Rafting</option><option value="Wilderness">Wilderness</option><option value="Windsurfing">Windsurfing</option><option value="Wine+Crawls">Wine Crawls</option><option value="Wine+Tasting">Wine Tasting</option><option value="Xplorer+Course">Xplorer Course</option><option value="Zapcat">Zapcat</option><option value="Zipwire">Zipwire</option><option value="Zorbing">Zorbing</option></select></div>
+<div class="form-element-row select select-1"><select name="elements[81d21423-69c2-460d-b39b-248f5aff6747][]" id="elements81d21423-69c2-460d-b39b-248f5aff6747"><option value="">in Location (Optional)</option><option value="Aberdeen">Aberdeen</option><option value="Aberfeldy">Aberfeldy</option><option value="Aviemore">Aviemore</option><option value="Basildon">Basildon</option><option value="Bath">Bath</option><option value="Beaconsfield">Beaconsfield</option><option value="Belfast">Belfast</option><option value="Berwick+Upon+Tweed">Berwick Upon Tweed</option><option value="Birmingham">Birmingham</option><option value="Blackpool">Blackpool</option><option value="Blairgowrie">Blairgowrie</option><option value="Bolton">Bolton</option><option value="Bournemouth">Bournemouth</option><option value="Bracknell">Bracknell</option><option value="Brecon">Brecon</option><option value="Brighton">Brighton</option><option value="Bristol">Bristol</option><option value="Buckingham">Buckingham</option><option value="Cambridge">Cambridge</option><option value="Canterbury">Canterbury</option><option value="Cardiff">Cardiff</option><option value="Carlisle">Carlisle</option><option value="Cheltenham">Cheltenham</option><option value="Chester">Chester</option><option value="Chester+le+street">Chester le street</option><option value="Chichester">Chichester</option><option value="Colchester">Colchester</option><option value="Cork">Cork</option><option value="Cornwall">Cornwall</option><option value="Coventry">Coventry</option><option value="Crieff">Crieff</option><option value="Darlington">Darlington</option><option value="Derby">Derby</option><option value="Devon">Devon</option><option value="Dorset">Dorset</option><option value="Dublin">Dublin</option><option value="Dumfries">Dumfries</option><option value="Dundee">Dundee</option><option value="Dunfermline">Dunfermline</option><option value="Dunkeld">Dunkeld</option><option value="Durham">Durham</option><option value="Edinburgh">Edinburgh</option><option value="Essex">Essex</option><option value="Exeter">Exeter</option><option value="Falkirk">Falkirk</option><option value="Fife">Fife</option><option value="Fort+William">Fort William</option><option value="Galloway">Galloway</option><option value="Gateshead">Gateshead</option><option value="Glasgow">Glasgow</option><option value="Gloucester">Gloucester</option><option value="Harrogate">Harrogate</option><option value="Hartlepool">Hartlepool</option><option value="Hertfordshire">Hertfordshire</option><option value="Hexham">Hexham</option><option value="Higlands">Higlands</option><option value="Inverness">Inverness</option><option value="Ipswich">Ipswich</option><option value="Isle+of+Skye">Isle of Skye</option><option value="Isle+of+Wight">Isle of Wight</option><option value="Ivythorn">Ivythorn</option><option value="Kendal">Kendal</option><option value="Kent">Kent</option><option value="Lake+District">Lake District</option><option value="Lancaster">Lancaster</option><option value="Leeds">Leeds</option><option value="Leicester">Leicester</option><option value="Lincoln">Lincoln</option><option value="Liverpool">Liverpool</option><option value="London">London</option><option value="Londonderry">Londonderry</option><option value="Luton">Luton</option><option value="Maidstone">Maidstone</option><option value="Manchester">Manchester</option><option value="Middlesbrough">Middlesbrough</option><option value="Milton+Keynes">Milton Keynes</option><option value="Newcastle">Newcastle</option><option value="Newquay">Newquay</option><option value="Northampton">Northampton</option><option value="Northumberland+">Northumberland </option><option value="Norwich">Norwich</option><option value="Nottingham">Nottingham</option><option value="Oxford">Oxford</option><option value="Perth">Perth</option><option value="Peterborough">Peterborough</option><option value="Pitlochry">Pitlochry</option><option value="Plymouth">Plymouth</option><option value="Porthcawl">Porthcawl</option><option value="Portsmouth">Portsmouth</option><option value="Preston">Preston</option><option value="Reading">Reading</option><option value="Scarborough">Scarborough</option><option value="Scilly+Isles">Scilly Isles</option><option value="Scotland">Scotland</option><option value="Sedgefield">Sedgefield</option><option value="Sheffield">Sheffield</option><option value="Skegness">Skegness</option><option value="Slough">Slough</option><option value="Snowdonia">Snowdonia</option><option value="Southampton">Southampton</option><option value="Stafford">Stafford</option><option value="Stirling">Stirling</option><option value="Stockton+on+Tees">Stockton on Tees</option><option value="Stratford+upon+Avon">Stratford upon Avon</option><option value="Sunderland">Sunderland</option><option value="Surrey">Surrey</option><option value="Sussex">Sussex</option><option value="Swansea">Swansea</option><option value="Swindon">Swindon</option><option value="Torquay">Torquay</option><option value="Wales">Wales</option><option value="Whitley+Bay">Whitley Bay</option><option value="Winchester">Winchester</option><option value="Worcester">Worcester</option><option value="York">York</option></select></div></div>
+			
+			<input type="hidden" name="option" value="com_zoo">
+			<input type="hidden" name="task" value="search">
+			<input type="hidden" name="controller" value="zoofilter">
+			<input type="hidden" name="type" value="activities">
+			<input type="hidden" name="app_id" value="3">
+			<input type="hidden" name="show_title" value="1">
+			<input type="hidden" name="show_ordering" value="1">
+			<input type="hidden" name="show_permalink" value="1">
+			<input type="hidden" name="redirect_if_one" value="1">
+			<input type="hidden" name="columns" value="1">
+			<input type="hidden" name="page_title" value="THIS IS WHAT WE FOUND FOR YOU">
+			<input type="hidden" name="layout" value="default">
+			<input type="hidden" name="page_layout" value="search">
+			<input type="hidden" name="elayout" value="layout2">
+			<input type="hidden" name="ordering_layout" value="default">
+			<input type="hidden" name="type" value="activities">
+			<input type="hidden" name="module_id" value="320">
+			
+			<input type="hidden" name="Itemid" value="5632">	
+			<input type="hidden" name="items_per_page" value="1000">
+			<input type="hidden" name="search_limit" value="1000">
+			
+						<button type="submit" class="button">Search</button>
+									
+			<div class="clearfix"></div>
+
+		</div>
+		
+	</form>
+	
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			jQuery('#mod-zoofilter-320').zlResetForm({button: '.zfac-clear'});
+		});
+	</script>
+</div>	</div>
+		<div class="jwts_tabbertab" title="Find Group Accommodation">
+		<h2>
+			<a href="javascript:void(null);" name="advtab">
+				Find Group Accommodation			</a>
+		</h2>
+				
+<div class="zoo-filter form-wrapper" id="mod-zoofilter-321">
+	<form action="/privacy-a-cookies.html" method="post" id="zoo-filter-form-321" name="zoo-filter-form-321">
+		
+		<div class="form-inner">
+
+			
+
+<div class="form-elements">
+	<div class="form-element-row select select-1"><select name="elements[b931b83f-a508-495f-86d0-b94eabe8ec79][]" id="elementsb931b83f-a508-495f-86d0-b94eabe8ec79"><option value="">Choose your Location</option><option value="Aberdeen">Aberdeen</option><option value="Aberfeldy">Aberfeldy</option><option value="Aviemore">Aviemore</option><option value="Basildon">Basildon</option><option value="Bath">Bath</option><option value="Beaconsfield">Beaconsfield</option><option value="Belfast">Belfast</option><option value="Berwick+Upon+Tweed">Berwick Upon Tweed</option><option value="Birmingham">Birmingham</option><option value="Blackpool">Blackpool</option><option value="Blairgowrie">Blairgowrie</option><option value="Bolton">Bolton</option><option value="Bournemouth">Bournemouth</option><option value="Bracknell">Bracknell</option><option value="Brecon">Brecon</option><option value="Brighton">Brighton</option><option value="Bristol">Bristol</option><option value="Buckingham">Buckingham</option><option value="Cambridge">Cambridge</option><option value="Canterbury">Canterbury</option><option value="Cardiff">Cardiff</option><option value="Carlisle">Carlisle</option><option value="Cheltenham">Cheltenham</option><option value="Chester">Chester</option><option value="Chester+le+street">Chester le street</option><option value="Chichester">Chichester</option><option value="Colchester">Colchester</option><option value="Cornwall">Cornwall</option><option value="Coventry">Coventry</option><option value="Crieff">Crieff</option><option value="Darlington">Darlington</option><option value="Derby">Derby</option><option value="Devon">Devon</option><option value="Dorset">Dorset</option><option value="Dumfries">Dumfries</option><option value="Dundee">Dundee</option><option value="Dunfermline">Dunfermline</option><option value="Dunkeld">Dunkeld</option><option value="Durham">Durham</option><option value="Edinburgh">Edinburgh</option><option value="Exeter">Exeter</option><option value="Falkirk">Falkirk</option><option value="Fife">Fife</option><option value="Fort+William">Fort William</option><option value="Galloway">Galloway</option><option value="Gateshead">Gateshead</option><option value="Glasgow">Glasgow</option><option value="Gloucester">Gloucester</option><option value="Harrogate">Harrogate</option><option value="Hartlepool">Hartlepool</option><option value="Hertfordshire">Hertfordshire</option><option value="Hexham">Hexham</option><option value="Higlands">Higlands</option><option value="Inverness">Inverness</option><option value="Ipswich">Ipswich</option><option value="Isle+of+Skpe">Isle of Skpe</option><option value="Isle+of+Wight">Isle of Wight</option><option value="Ivythorn">Ivythorn</option><option value="Kendal">Kendal</option><option value="Kent">Kent</option><option value="Lake+District">Lake District</option><option value="Lancaster">Lancaster</option><option value="Leeds">Leeds</option><option value="Leicester">Leicester</option><option value="Lincoln">Lincoln</option><option value="Liverpool">Liverpool</option><option value="London">London</option><option value="Londonderry">Londonderry</option><option value="Luton">Luton</option><option value="Maidstone">Maidstone</option><option value="Manchester">Manchester</option><option value="Middlesbrough">Middlesbrough</option><option value="Middlesbrough">Middlesbrough</option><option value="Milton+Keynes">Milton Keynes</option><option value="Newcastle">Newcastle</option><option value="Newquay">Newquay</option><option value="Northampton">Northampton</option><option value="Northumberland+">Northumberland </option><option value="Norwich">Norwich</option><option value="Nottingham">Nottingham</option><option value="Oxford">Oxford</option><option value="Perth">Perth</option><option value="Peterborough">Peterborough</option><option value="Pitlochry">Pitlochry</option><option value="Plymouth">Plymouth</option><option value="Porthcawl">Porthcawl</option><option value="Portsmouth">Portsmouth</option><option value="Preston">Preston</option><option value="Reading">Reading</option><option value="Scarborough">Scarborough</option><option value="Scotland">Scotland</option><option value="Sedgefield">Sedgefield</option><option value="Sheffield">Sheffield</option><option value="Skegness">Skegness</option><option value="Slough">Slough</option><option value="Snowdonia">Snowdonia</option><option value="Southampton">Southampton</option><option value="Stafford">Stafford</option><option value="Stirling">Stirling</option><option value="Stockton+on+Tees">Stockton on Tees</option><option value="Stratford+upon+Avon">Stratford upon Avon</option><option value="Sunderland">Sunderland</option><option value="Surrey">Surrey</option><option value="Sussex">Sussex</option><option value="Swansea">Swansea</option><option value="Swindon">Swindon</option><option value="Torquay">Torquay</option><option value="Wales">Wales</option><option value="Whitley+Bay">Whitley Bay</option><option value="York">York</option></select></div></div>
+			
+			<input type="hidden" name="option" value="com_zoo">
+			<input type="hidden" name="task" value="search">
+			<input type="hidden" name="controller" value="zoofilter">
+			<input type="hidden" name="type" value="accommodation">
+			<input type="hidden" name="app_id" value="3">
+			<input type="hidden" name="show_title" value="1">
+			<input type="hidden" name="show_ordering" value="1">
+			<input type="hidden" name="show_permalink" value="1">
+			<input type="hidden" name="redirect_if_one" value="1">
+			<input type="hidden" name="columns" value="1">
+			<input type="hidden" name="page_title" value="THIS IS WHAT WE FOUND FOR YOU">
+			<input type="hidden" name="layout" value="default">
+			<input type="hidden" name="page_layout" value="search">
+			<input type="hidden" name="elayout" value="layout2">
+			<input type="hidden" name="ordering_layout" value="layout2">
+			<input type="hidden" name="type" value="accommodation">
+			<input type="hidden" name="module_id" value="321">
+			
+			<input type="hidden" name="Itemid" value="5632">	
+			<input type="hidden" name="items_per_page" value="1000">
+			<input type="hidden" name="search_limit" value="1000">
+			
+						<button type="submit" class="button">Search</button>
+									
+			<div class="clearfix"></div>
+
+		</div>
+		
+	</form>
+	
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			jQuery('#mod-zoofilter-321').zlResetForm({button: '.zfac-clear'});
+		});
+	</script>
+</div>	</div>
+		<div class="jwts_tabbertab" title="Find an All-In Package">
+		<h2>
+			<a href="javascript:void(null);" name="advtab">
+				Find an All-In Package			</a>
+		</h2>
+				
+<div class="zoo-filter form-wrapper" id="mod-zoofilter-322">
+	<form action="/privacy-a-cookies.html" method="post" id="zoo-filter-form-322" name="zoo-filter-form-322">
+		
+		<div class="form-inner">
+
+			
+
+<div class="form-elements">
+	<div class="form-element-row select select-1"><select name="elements[cbd1bb6a-0690-4255-887b-5b743f360899][]" id="elementscbd1bb6a-0690-4255-887b-5b743f360899"><option value="">Choose Your Destination</option><option value="Aberdeen">Aberdeen</option><option value="Aberfeldy">Aberfeldy</option><option value="Aviemore">Aviemore</option><option value="Bath">Bath</option><option value="Belfast">Belfast</option><option value="Birmingham">Birmingham</option><option value="Blackpool">Blackpool</option><option value="Blairgowrie">Blairgowrie</option><option value="Bournemouth">Bournemouth</option><option value="Brighton">Brighton</option><option value="Bristol">Bristol</option><option value="Cardiff">Cardiff</option><option value="Cornwall">Cornwall</option><option value="Crieff">Crieff</option><option value="Dundee">Dundee</option><option value="Dunkeld">Dunkeld</option><option value="Durham">Durham</option><option value="Edinburgh">Edinburgh</option><option value="Exeter">Exeter</option><option value="Fort+William">Fort William</option><option value="Glasgow">Glasgow</option><option value="Highlands">Highlands</option><option value="Inverness">Inverness</option><option value="Isle+of+Wight">Isle of Wight</option><option value="Kendal">Kendal</option><option value="Lake+District">Lake District</option><option value="Leeds">Leeds</option><option value="Liverpool">Liverpool</option><option value="London">London</option><option value="Manchester">Manchester</option><option value="Newcastle">Newcastle</option><option value="Newquay">Newquay</option><option value="Northumberland+">Northumberland </option><option value="Nottingham">Nottingham</option><option value="Oxford">Oxford</option><option value="Perth">Perth</option><option value="Pitlochry">Pitlochry</option><option value="Plymouth">Plymouth</option><option value="Scotland">Scotland</option><option value="Sheffield">Sheffield</option><option value="Snowdonia">Snowdonia</option><option value="Southampton">Southampton</option><option value="Stratford+upon+Avon">Stratford upon Avon</option><option value="Swansea">Swansea</option><option value="Wales">Wales</option><option value="York">York</option></select></div>
+<div class="form-element-row checkbox checkbox-1"><select name="elements[b92421fa-edfe-4f54-8b85-7ebc5c39a736][]" id="elementsb92421fa-edfe-4f54-8b85-7ebc5c39a736"><option value="">Choose Your Party Type</option><option value="Hen">Hen</option><option value="Stag">Stag</option></select></div></div>
+			
+			<input type="hidden" name="option" value="com_zoo">
+			<input type="hidden" name="task" value="search">
+			<input type="hidden" name="controller" value="zoofilter">
+			<input type="hidden" name="type" value="packages">
+			<input type="hidden" name="app_id" value="3">
+			<input type="hidden" name="show_title" value="1">
+			<input type="hidden" name="show_ordering" value="1">
+			<input type="hidden" name="show_permalink" value="1">
+			<input type="hidden" name="redirect_if_one" value="1">
+			<input type="hidden" name="columns" value="1">
+			<input type="hidden" name="page_title" value="THIS IS WHAT WE FOUND FOR YOU">
+			<input type="hidden" name="layout" value="default">
+			<input type="hidden" name="page_layout" value="search">
+			<input type="hidden" name="elayout" value="layout2">
+			<input type="hidden" name="ordering_layout" value="layout2">
+			<input type="hidden" name="type" value="packages">
+			<input type="hidden" name="module_id" value="322">
+			
+			<input type="hidden" name="Itemid" value="5632">	
+			<input type="hidden" name="items_per_page" value="1000">
+			<input type="hidden" name="search_limit" value="1000">
+			
+						<button type="submit" class="button">Search</button>
+									
+			<div class="clearfix"></div>
+
+		</div>
+		
+	</form>
+	
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			jQuery('#mod-zoofilter-322').zlResetForm({button: '.zfac-clear'});
+		});
+	</script>
+</div>	</div>
+	</div>
+<div class="jwts_clr"></div>
+
+<!-- JoomlaWorks "Tabs & Sliders" Module (v2.0) ends here -->
+
+<script>jwSlider.initShowHideDivs();
+	tabberAutomatic(tabberOptions);</script>		
+</div></div></section>
+                         <div id="main" class="grid-block">
+        <div id="maininner" class="grid-box">
+                              <section id="innertop2" class="grid-block"><div class="module   deepest">
+
+			<script>
+	jQuery(function($) {
+		$('#mod_carttop').load('/show-cart.php');
+	});
 </script>
+<div id="mod_carttop"></div>		
+</div></section>
+                              <section id="breadcrumbs"><div class="recently_viewed_container">
+<div class="recently_viewed_subtitle"></div>
+</div>
+
+</section>
+                              <section id="content" class="grid-block">
+
+<div id="system">
+	
+	
+	<article class="item">
+
+				<header>
+
+										
+							
+							
+			
+			<h1 class="title">Privacy &amp; Cookies</h1>
+
+				
+		</header>
+			
+				
+		<div class="content clearfix"><p>This Privacy and Cookie Policy explains how HelpMeGo To Limited trading as GoBananas uses personal information we collect and how you can limit our use of that personal data.</p>
+<p>1.&nbsp;<strong>What information do we gather?</strong></p>
+<p>1.1 We gather information that relates to, and can identify you (e.g. your name and address) and information that does not identify you (e.g. a visitor’s behaviour patterns when they visit our website). We collect information that does not identify you to evaluate our site, ensure that our site and services run properly and ensure we are paid for advertising services we offer.</p>
+<p>2.&nbsp;<strong>How do we gather information?</strong></p>
+<p>2.1 Information is gathered in two ways:</p>
+<p>(1) indirectly (e.g. using website technology); and</p>
+<p>(2) directly (e.g. when you create a GoBananas itinerary or when you are registered as a payee of a group itinerary,).</p>
+<p>2.2 When responding to promotions, offers etc. by email, if you do not wish for your details to be used by us to send you promotions and offers, please make this clear by stating "No Offers".</p>
+<p>3.&nbsp;<strong>Use of your information</strong></p>
+<p>3.1 We might use your personal information to:</p>
+<p>(1) remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 5 deals with this in more detail.</p>
+<p>(2) ensure any products or services you receive are correctly administered (including itineraries).</p>
+<p>(3) contact you by email, mail or telephone to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) if you give us permission.</p>
+<p>(4) ensure materials on the website are presented in the most effective manner for you and your computer.</p>
+<p>(5) collate and log numeric internet addresses to improve the website and to monitor website usage.</p>
+<p>3.2 If you have purchased any of or products, we will use the information you provide to keep you updated on those services unless you tell us otherwise.</p>
+<p>4.&nbsp;<strong>Accessing and updating your personal information</strong></p>
+<p>4.1 You can update your details and marketing preferences by emailing 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy64896 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy64896 = addy64896 + 'g&#111;b&#97;n&#97;n&#97;s' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy64896 + suffix + '\'' + attribs + '>' );
+ document.write( addy64896 );
+ document.write( '<\/a>' );
+ //-->
+ </script><a href="mailto:privacy@gobananas.com">privacy@gobananas.com</a><script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span> or by writing to us at 9 Reform Street, Blairgowrie, Perthshire, PH10 6BD.</p>
+<p>4.2 If you have signed up to receive marketing from us by text, to stop this, please reply STOP to the last message you received.</p>
+<p>4.3 You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy39269 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy39269 = addy39269 + 'g&#111;b&#97;n&#97;n&#97;s' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy39269 + suffix + '\'' + attribs + '>' );
+ document.write( addy39269 );
+ document.write( '<\/a>' );
+ //-->
+ </script><a href="mailto:privacy@gobananas.com">privacy@gobananas.com</a><script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span>. There will be an administrative charge of £10 for providing a copy of this information.</p>
+<p>5.&nbsp;<strong>Cookies</strong></p>
+<p>5.1 A cookie is a small piece of information that is placed on your computer when you visit certain websites. Find out more about the use of cookies on <a href="http://www.cookiecentral.com.">http://www.cookiecentral.com.</a></p>
+<p>5.2 We use cookies to:</p>
+<p>(1) remember you when you visit this website to keep track of your browsing patterns and to build up a profile of how you and other users use the website.</p>
+<p>(2) make our website work as efficiently as possible.</p>
+<p>(3) administer services to you and to advertisers.</p>
+<p>5.3 Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates.</p>
+<p>5.4 Google are one of the third parties we use to provide us with information about how users use our website.</p>
+<p>6. <strong>Third party advertising cookies</strong></p>
+<p>6.1 Most of the advertisements you see on the website are generated by third parties.</p>
+<p>Some of these third parties generate their own cookies (or web beacons) to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Some of the information gleaned from third party cookies will be aggregated with other anonymous information for statistical purposes. The third party companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website).</p>
+<p>6.2 If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. Here are links to the two main third party advertising platforms we use, each of which haveinstructions on how to do this:</p>
+<p><a href="http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/">http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/</a></p>
+<p><a href="http://www.audiencescience.com/privacy">http://www.audiencescience.com/privacy</a></p>
+<p>6.3 You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: <a href="http://youronlinechoices.com/">http://youronlinechoices.com/</a></p>
+<p>7.&nbsp;<strong>Security</strong></p>
+<p>7.1 Any password you provide when registering with us is encrypted to ensure protection against unauthorised access to your personal information. This also means we cannot give you your password if you lose it. You need to regenerate it.</p>
+<p>7.2 We invest in high-quality security and do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures to protect the security of your personal information.</p>
+<p>8.&nbsp;<strong>Disclosing your information</strong></p>
+<p>8.1 We may disclose your personal information if we are approached by a potential buyer of our business, if we required to do so by law or in good-faith believing such action is necessary to comply with the law.</p>
+<p>8.2 We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf e.g. the providers of the services available &nbsp;to purchase on the site.</p>
+<p>8.3 We never sell personal information, or pass it to third parties for marketing purposes without your permission.</p>
+<p>9.&nbsp;<strong>Where we store your personal information</strong></p>
+<p>9.1 The personal information that we collect from you may be sent and stored outside the European Economic Area ("EEA") in order to carry out the activities listed in “Use of Your Information”.</p>
+<p>10.&nbsp;<strong>Changes to this Policy</strong></p>
+<p>10.1 If we change our Policy, we will post the changes on this page. Please check the website regularly for any changes to this Policy.</p>
+<p>11. If you don't feel we're adhering to this Policy, what should you do?</p>
+<p>11.1 If you believe that we have not adhered to this Policy, please notify us by email at 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy86300 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy86300 = addy86300 + 'g&#111;b&#97;n&#97;n&#97;s' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy86300 + suffix + '\'' + attribs + '>' );
+ document.write( addy86300 );
+ document.write( '<\/a>' );
+ //-->
+ </script><a href="mailto:privacy@gobananas.com">privacy@gobananas.com</a><script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span> and we will try to solve the problem promptly.</p>
+
+</div>
 
 
-</div></body></html>
+				
+		
+	</article>
+
+</div></section>
+                            </div>
+        <!-- maininner end -->
+                <aside id="sidebar-a" class="grid-box"><div class="grid-box width100 grid-v"><div class="module mod-box mod-box-transparent  deepest">
+
+			<a href="/2minute-itinerary.php" target="_blank"><img width="240px" height="60px" src="http://cdn.gobananas.com/images/stories/2minute-enquiry-btn.png"></a>		
+</div></div></aside>
+                      </div>
+            <!-- main end -->
+                  <section id="bottom-b" class="grid-block"><div class="grid-box width66 grid-h"><div class="module mod-box mod-box-transparent  deepest">
+
+			<div style="text-align: center;"></div>
+<div style="width: 700px; margin-left: 20px; font-size: 11px; height: 170px;">
+<div style="border-right: 1px dotted #cccccc; width: 120px; height: 160px; float: left; margin-right: 15px; padding-right: 5px;"><strong>&nbsp;</strong></div>
+<div style="border-right: 1px dotted #cccccc; width: 120px; height: 160px; float: left; margin-right: 15px; padding-right: 5px;">
+<p><strong>Around the World</strong></p>
+<p><a title="Stag weekends" href="http://www.gobananas.com/india/">GoBananas India</a><br><a title="New Zealand" href="http://nz.gobananasworld.com/" target="_blank">New Zealand</a><br><a title="Australia" href="http://au.gobananasworld.com/" target="_blank">Australia</a><br>USA (Coming 2013)</p>
+</div>
+<div style="border-right: 1px dotted #cccccc; width: 120px; height: 160px; float: left; margin-right: 15px; padding-right: 5px;">
+<p><strong>Departments</strong></p>
+<p><a title="Stag weekends" href="/stag-weekends.html">Stag Weekends</a><br><a title="Hen Weekends" href="/hen-weekends.html">Hen Weekends</a><br><a title="Corporate Events" href="/corporate-events-team-building/">Team Building Events</a><br><a title="Things To Do" href="/things-to-do-in-the-uk.html">Things To Do</a><br><a href="/golf.html" title="Golf Courses &amp; Packages">Golf Courses</a></p>
+</div>
+<div style="border-right: 1px dotted #cccccc; width: 120px; height: 160px; float: left; margin-right: 15px; padding-right: 5px;">
+<p><strong>Our Party Ideas</strong></p>
+<p><a target="_self" title="Activity Weekends" href="/activity-weekends/">Activity Weekends</a><br><a target="_blank" title="Party Bus" href="http://www.clubclassbus.com/">Party on a Bus</a><br> <a href="/ideas/luxury-stag-weekends.html">Luxury Stag Weekends</a><br> <a href="/ideas/luxury-hen-weekends.html">Luxury Hen Weekends</a><br> <br> <br> <br></p>
+</div>
+</div>		
+</div></div><div class="grid-box width33 grid-h"><div class="module mod-box mod-box-transparent  deepest">
+
+			<a href="http://www.trustpilot.co.uk/review/www.gobananas.com" title="See reviews on trustpilot.co.uk" target="_blank">
+                <script type="text/javascript">
+                    var tpJsHost = "//s3.amazonaws.com/trustbox.trustpilot.com/badge/en/4stars/tp_badge-180.png";
+                    document.write(unescape("%3Cimg src='" + tpJsHost + "' alt='Trustpilot Badge' %3E%3C/img%3E"));
+                </script><img src="//s3.amazonaws.com/trustbox.trustpilot.com/badge/en/4stars/tp_badge-180.png" alt="Trustpilot Badge">
+            </a>
+		
+</div></div></section>
+                  <footer id="footer" class="grid-block">
+                <a id="totop-scroller" href="#page"></a>
+                <div class="module   deepest">
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="/terms-and-conditions.html" class="mainlevel">Terms</a><span class="mainlevel"> | </span><a href="/new-gobananas-supplier.html" class="mainlevel">Suppliers</a><span class="mainlevel"> | </span><a href="http://www.gobananas.com/sitemap.html" class="mainlevel">Site Map</a><span class="mainlevel"> | </span><a href="/privacy-a-cookies.html" class="mainlevel" id="active_menu">Privacy Matters &amp; Baking Cookies</a><span class="mainlevel"> | </span><a href="/stats.html" class="mainlevel">Stat</a></td></tr></tbody></table>		
+</div>
+<div class="module   deepest">
+
+			<script type="text/javascript" src="http://who.helpmego.to:8082/include.js?domain=www.gobananas.co.uk"></script>
+<script type="text/javascript">
+sWOResponse='';
+if(typeof sWOTrackPage=='function')sWOTrackPage();
+</script>
+		
+</div>
+<div class="module   deepest">
+
+			<p><span style="font-size: 8pt;">Copyright 2012 - GoBananas. All rights reserved. Operated Under Registration No: SC179215 by HelpMeGo.To Ltd, 9 Reform Street, Blairgowrie, Perthshire, PH10 6BD</span></p>		
+</div><script language="javascript" src="http://cdn.gobananas.com/js/awstats_misc_tracker.js"></script>
+<noscript><img src="http://cdn.gobananas.com/js/awstats_misc_tracker.js?nojs=y" height=0 width=0 border=0 style="display: none"></noscript>
+      </footer>
+          </div>
+    <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29217639-1']);
+  _gaq.push(['_setDomainName', 'gobananas.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script> </div>
+</div>
+<div id="EditArea" style="position:absolute;z-index:2; display:none; border:solid 2px #F6C513; background-color:#000000; padding:5px"></div>
+<div id="hoverbox" style="display: none; filter: alpha(opacity=50); KHTMLOpacity: 0.60; MozOpacity: 0.60; opacity: 0.60; position: absolute;background-color: #000000; z-index:1; height:3200px; width: 100%;left: 0px; top:0px;" onclick="closex()"></div>
+
+</body></html>
