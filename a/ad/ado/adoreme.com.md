@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adoreme.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630091037id_/http%3A//www.adoreme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoreme.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190953id_/http%3A//www.adoreme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,3 +74,10 @@ You may have received an offer from us. If you were a prior member, we may have 
 **UPDATES TO THIS POLICY**
 
 If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact Member Services at 1.800.433.2367  or [**Help@AdoreMe.com**](mailto:Help@AdoreMe.com).
+
+**Mailing Address**
+
+AdoreMe  
+485 7th Ave. Suite 505  
+New York, New York 10018  
+United States
