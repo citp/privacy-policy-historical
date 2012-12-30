@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easylifeapp.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503024157id_/http%3A//easylifeapp.com%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easylifeapp.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190814id_/http%3A//easylifeapp.com%3Fid%3D2) for the most accurate reproduction.*
 
 # EasyLife App
 
@@ -21,6 +21,7 @@ Information we collect from you may be used in any of the following ways:
     4. To process transactions.
     5. To administer a contest, promotion, survey or other Site features.
     6. To send periodic emails (the email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.).
+    7. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you
   4. **Cookies**
     1. We use cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology), which are comprised of data that often include certain identifier modules.
     2. Our Site send this data to your browser when you request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that site.
