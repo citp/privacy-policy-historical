@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedownloads.us.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616081200id_/http%3A//www.freedownloads.us.com/free/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownloads.us.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180811id_/http%3A//freedownloads.us.com/free/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « FreeDownloads.us.com
 
@@ -31,11 +31,11 @@ _Partner_ is an advertiser, or other entity with whom we have a business relatio
 
 _Service_ includes, but is not limited to, our screensaver, wallpaper, game, animated gif, clip art, buddy icon, greeting card, browser skin, font, desktop theme, html editor, sound effect, social networking, storage, and calendar software, as well as our Toolbars.
 
-_Subsidiary_ is an entity wholly owned or related to Openoffice.us.com.
+_Subsidiary_ is an entity wholly owned or related to Freedownloads.us.com.
 
 _User_ means an individual that has accessed the Sites on which we host our Products or Services.
 
-_We_ and _Our_ refer to Openoffice.us.com and its subsidiaries.
+_We_ and _Our_ refer to Freedownloads.us.com and its subsidiaries.
 
 _You_ and _Your_ refer to each user and his or her agents.
 
@@ -141,7 +141,7 @@ By modifying your browser preferences, you can choose to, accept all cookies, to
 
 **Offers**
 
-We may from time to time, send you e-mail regarding third party promotions, as well as other, Products and Services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our Partners, we may occasionally send you e-mail or direct postal mail about other products and services that we feel may be of interest to you. If you do not wish to receive e-mail or postal mail from us, you can tell us by e-mailing us at privacy@Openoffice.us.com. You can also write to Attn: Customer Care, Openoffice.us.com, 588 Sutter Street, San Francisco CA 94102. Be sure to include your full name and address, along with the information you submitted during your initial registration including postal address and e-mail, and tell us that you no longer wish to receive Offers from us. You also have the option of unsubscribing from e-mail Offers by clicking on the unsubscribe link at the bottom of every e-mail offer from us.
+We may from time to time, send you e-mail regarding third party promotions, as well as other, Products and Services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our Partners, we may occasionally send you e-mail or direct postal mail about other products and services that we feel may be of interest to you. If you do not wish to receive e-mail or postal mail from us, you can tell us by e-mailing us at privacy@Freedownloads.us.com. You can also write to Attn: Customer Care, Freedownloads.us.com, 588 Sutter Street, San Francisco CA 94102. Be sure to include your full name and address, along with the information you submitted during your initial registration including postal address and e-mail, and tell us that you no longer wish to receive Offers from us. You also have the option of unsubscribing from e-mail Offers by clicking on the unsubscribe link at the bottom of every e-mail offer from us.
 
 **Modifications**
 
