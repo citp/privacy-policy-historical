@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the mybag.com privacy policy that was archived on 2012-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628113400id_/http%3A//www.mybag.com/privacy-policy.info) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mybag.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230103642id_/http%3A//www.mybag.com/privacy-policy.info) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js"><head>
+<!DOCTYPE html><html lang="en-gb" dir="ltr" class="js"><head>
 
 
-<!-- Webserver =  || www.mybag.com || 10.10.1.21 -->
+<!-- Webserver =  || www.mybag.com || 10.10.1.32 -->
 
 
 
@@ -59,6 +59,7 @@
 		
 	
 </title>
+
 
 
 
@@ -136,10 +137,25 @@
 
 
 
+
+
+
+
+
+
 	
-		<link href="https://plus.google.com//u/0/109806944246561365497" rel="publisher">
+		
+			
+				
+			
+		
 	
-	
+
+
+
+
+
+	<link href="https://plus.google.com/u/0/109806944246561365497" rel="publisher">
 
 
 
@@ -149,6 +165,8 @@
 
 
 
+
+	<link rel="stylesheet" href="/common/css/base.css?v=1.0" type="text/css" media="screen">
 
 
 
@@ -160,8 +178,11 @@
 
 
 
+<!-- royalslider must be above screen css -->
+
+
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Cabin:700" type="text/css">
-<link rel="stylesheet" href="css/screen.css?v=2.3" type="text/css" media="screen">
+<link rel="stylesheet" href="css/screen.css?v=3" type="text/css" media="screen">
 
 
 
@@ -187,15 +208,14 @@
 
 
 
+ 
 
 
 
 
-
-
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6873.js?439484" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 	document.getElementsByTagName('html')[0].className = 'js';
-	
+
 	var siteObj = {
 			siteCode: 'mybag',
 			siteNonSecureURL: 'http://www.mybag.com/',
@@ -203,12 +223,14 @@
 			siteBasketURL: 'https://www.mybag.com/mybag/my.basket',
 			productImagePrefix: 'http://thehut.pantherssl.com/',
 			siteID: 41,
+			serverIP: '10.10.1.32',
 			siteDefaultLocale: 'en_GB',
 			subsiteCode: (true ? null : ''),
 			dept: '',
 			
 			
-			date: 'Thu Jun 28 12:34:00 BST 2012',
+			
+			date: 'Sun Dec 30 10:36:41 GMT 2012',
 			props: {
 				product: {
 					viewLargerImageLinkText: "View Larger Image",
@@ -230,16 +252,39 @@
 						basketItem: "Item",
 						basketContinue: "Continue Shopping",
 						basketView: "View Basket",
+						basketViewCheckout: "",
 						basketAdded: "This Item Has Been Added to Your Basket.",
 						basketAddedEnd: "&nbsp;to your shopping cart",
 						basketThankyou: "Thank you",
-						basketRecommendations: "You may also like..."
+						basketRecommendations: "You may also like...",
+						basketSubTotal: "Subtotal:",
+						basketTotal: "",
+						basketClose: "Close",
+						basketContinue: "Continue Shopping",
+						basketSave: "Save:"
 					}
+
+				},
+				bundles: {
+					normalSellingPrice: "Normal Selling Price",
+					addToBundle: "Add",
+					removeFromBundle: "Remove",
+					noneSelected: "None Selected",
+					pleaseSelectEnoughProducts: "Please make sure you have selected enough products",
+					somethingWentWrong: "Something Went Wrong"
 				},
 				account: {
 					ajaxFAQs: {
 						notFoundTheAnswerText: "Not found the answer you're looking for?"
 					}
+				},
+				readMore: {
+					readMore: "",
+					less: ""
+				},
+				sli: {
+					siteName: "",
+					formAction: ""
 				}
 			}
 		},
@@ -251,20 +296,22 @@
 		flashBannerHeights = [],
 		flashBannerWidths = [],
 		flashBannerSwfs = [],
-		flashBannerLinks = [],
-		shopSifr = false;
-	
+		flashBannerLinks = [];
+
 	
 		
 			siteObj.affiliate = '';
 		
 		
 	
-	
+
 </script>
 
 
 
+
+	
+	
 
 
 
@@ -326,13 +373,13 @@
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
-
+		
 	</script>
 
 
 
-
-
+	
+	
 
 
 
@@ -349,10 +396,38 @@
 	use_existing_jquery=false,
 	// DO NOT EDIT BELOW THIS LINE
 	f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=19978&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120628113400id_%2Fhttp%253A%2F%2Fwww.mybag.com%2Fprivacy-policy.info&amp;r=0.185552975261432" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=19978&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121230103642id_%2Fhttp%253A%2F%2Fwww.mybag.com%2Fprivacy-policy.info&amp;r=0.16664316983124894" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
 
 
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+	
 
 
 
@@ -369,28 +444,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style></head>
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
 
 		
 			<body id="info" class="privacy-policy">
@@ -419,47 +476,54 @@
 
 
 <div id="header">
-	
-		<a id="logo" href="home.dept" title="My Bag">My Bag</a>
-		
-	
-	<img src="images/logo-print.gif" width="195" height="140" alt="My Bag" title="My Bag" id="logo-print">
-	
-		<div id="utilities">
-			<div id="header-basket">
+	<div class="line">
+		<div class="unit size-3of5">
+			
+				<a id="logo" href="home.dept" title="My Bag">My Bag</a>
 				
-					
-					
-						<p class="basket-info basket-empty">Your basket is empty</p>
-					
-				
-			</div>
-			<ul>
-				<li class="currency eur" title="Switch currency to Euros">
-					<a rel="nofollow" href="privacy-policy.info?page=privacy-policy&amp;section=info&amp;switchcurrency=EUR">€</a>
-				</li>
-				<li class="currency gbp-on" title="Switch currency to GBP">
-					<a rel="nofollow" href="privacy-policy.info?page=privacy-policy&amp;section=info&amp;switchcurrency=GBP">£</a>
-				</li>
-				<li class="util-link-1"><a title="Get in contact with us" href="http://www.mybag.com/contact-us.info" rel="nofollow">Contact Us</a></li>
-				<li><a title="Help and FAQs" href="http://help.mybag.com" class="helpcursor" rel="nofollow">Help</a></li>
-				<li><a title="Login to your Account" href="https://www.mybag.com/mybag/accountHome.secure" rel="nofollow">My Account</a></li>
-			</ul>
+			
+			<img src="images/logo-print.gif" width="195" height="140" alt="My Bag" title="My Bag" id="logo-print">
 		</div>
+		<div class="unit size-2of5 lastUnit">
+
+			
+				<div id="utilities">
+					<div id="header-basket">
+						
+							
+							
+								<p class="basket-info basket-empty">Your basket is empty</p>
+							
+						
+					</div>
+					<ul>
+						<li class="currency eur" title="Switch currency to Euros">
+							<a rel="nofollow" href="privacy-policy.info?page=privacy-policy&amp;section=info&amp;switchcurrency=EUR">€</a>
+						</li>
+						<li class="currency gbp-on" title="Switch currency to GBP">
+							<a rel="nofollow" href="privacy-policy.info?page=privacy-policy&amp;section=info&amp;switchcurrency=GBP">£</a>
+						</li>
+						<li class="util-link-1"><a title="Get in contact with us" href="http://www.mybag.com/contact-us.info" rel="nofollow">Contact Us</a></li>
+						<li><a title="Help and FAQs" href="http://help.mybag.com" class="helpcursor" rel="nofollow">Help</a></li>
+						<li><a title="Login to your Account" href="https://www.mybag.com/mybag/accountHome.secure" rel="nofollow">My Account</a></li>
+					</ul>
+				</div>
+			
+		</div>
+	</div>
 	
+	
+	
+	
+	
+
 	<div id="nav">
 		<ul>
 			<li class="first">
-				<a accesskey="1" class="home" href="home.dept" title="Go to the Homepage">Home</a>
-				
-			</li>
-            <li class="highlight">
-				<a accesskey="2" class="vintage" href="http://www.mybag.com/brand/mybag-vintage.list" title="Go to the Vintage page">Vintage</a>
-				
+				<a accesskey="1" class="home" href="http://www.mybag.com/home.dept" title="Go to the Homepage">Home</a>
 			</li>
 			<li>
-				<a accesskey="3" class="bags" href="style.dept" title="Go to the Bags page">Bags</a>
-				
+				<a accesskey="2" class="bags" href="http://www.mybag.com/style.dept" title="Go to the Bags page">Bags</a>
 				<ul>
 					
 						<li><a title="All" href="http://www.mybag.com/style/all.list">All</a></li>
@@ -472,17 +536,17 @@
 					
 						<li><a title="Grab" href="http://www.mybag.com/style/grab.list">Grab</a></li>
 					
-						<li><a title="Holdall" href="http://www.mybag.com/style/holdall.list">Holdall</a></li>
+						<li><a title="Handbag Essentials " href="http://www.mybag.com/style/handbag-essentials.list">Handbag Essentials </a></li>
 					
-						<li><a title="Laptop Bag" href="http://www.mybag.com/style/laptop-bag.list">Laptop Bag</a></li>
+						<li><a title="Holdall" href="http://www.mybag.com/style/holdall.list">Holdall</a></li>
 					
 						<li><a title="Luggage" href="http://www.mybag.com/style/luggage.list">Luggage</a></li>
 					
+						<li><a title="Media" href="http://www.mybag.com/style/media.list">Media</a></li>
+					
 						<li><a title="Men's" href="http://www.mybag.com/style/men-s-bags.list">Men's</a></li>
 					
-						<li><a title="Men's luggage" href="http://www.mybag.com/style/men-s-luggage.list">Men's luggage</a></li>
-					
-						<li><a title="Messenger Bags" href="http://www.mybag.com/style/messenger-bags.list">Messenger Bags</a></li>
+						<li><a title="Sale " href="http://www.mybag.com/style/sale.list">Sale </a></li>
 					
 						<li><a title="Satchel" href="http://www.mybag.com/style/satchel.list">Satchel</a></li>
 					
@@ -492,162 +556,144 @@
 					
 						<li><a title="Tote" href="http://www.mybag.com/style/tote.list">Tote</a></li>
 					
+						<li><a title="Vintage " href="http://www.mybag.com/style/vintage.list">Vintage </a></li>
+					
 				</ul>
 			</li>
 			<li>
-				<a accesskey="4" class="accessories" href="accessories.dept" title="Go to the Accessories page">Accessories</a>
-				
+				<a accesskey="3" class="accessories" href="http://www.mybag.com/accessories.dept" title="Go to the Accessories page">Accessories</a>
 				<ul>
 					
 						<li><a title="All" href="http://www.mybag.com/accessories/all.list">All</a></li>
 					
 						<li><a title="Cosmetic Bags" href="http://www.mybag.com/accessories/cosmetic-bags.list">Cosmetic Bags</a></li>
 					
+						<li><a title="Hair Accessories" href="http://www.mybag.com/accessories/hair-accessories.list">Hair Accessories</a></li>
+					
 						<li><a title="Jewellery" href="http://www.mybag.com/accessories/jewellery.list">Jewellery</a></li>
+					
+						<li><a title="Make-up Bag Essentials" href="http://www.mybag.com/accessories/make-up-bag-essentials.list">Make-up Bag Essentials</a></li>
 					
 						<li><a title="Men's" href="http://www.mybag.com/accessories/men-s.list">Men's</a></li>
 					
 						<li><a title="Purses &amp; Wallets" href="http://www.mybag.com/accessories/purses-wallets.list">Purses &amp; Wallets</a></li>
 					
+						<li><a title="Sale " href="http://www.mybag.com/accessories/sale.list">Sale </a></li>
+					
 						<li><a title="Scarves" href="http://www.mybag.com/accessories/scarves.list">Scarves</a></li>
 					
-						<li><a title="Sunglasses" href="http://www.mybag.com/accessories/sunglasses.list">Sunglasses</a></li>
-					
-						<li><a title="Vintage Sunglasses" href="http://www.mybag.com/accessories/vintage-sunglasses.list">Vintage Sunglasses</a></li>
+						<li><a title="Ties" href="http://www.mybag.com/accessories/ties.list">Ties</a></li>
 					
 				</ul>
 			</li>
 			<li>
-				<a accesskey="5" class="brand" href="brand.dept" title="Go to the Brand page">Brand</a>
-				
+				<a accesskey="4" class="brand" href="http://www.mybag.com/brand.dept" title="Go to the Brands page">Brands</a>
 				
 					<div id="brands-menu">
 						<dl>
 							
-								<dd><a title="Aubrey" href="http://www.mybag.com/brand/aubrey.list">Aubrey</a></dd>
+								<dd><a title="Anna Lou of London" href="http://www.mybag.com/brand/anna-lou-of-london.list">Anna Lou of London</a></dd>
 							
-								<dd><a title="Bric's" href="http://www.mybag.com/brand/bric-s.list">Bric's</a></dd>
+								<dd><a title="Barbour" href="http://www.mybag.com/brand/barbour.list">Barbour</a></dd>
 							
-								<dd><a title="CK by Calvin Klein" href="http://www.mybag.com/brand/ck-by-calvin-klein.list">CK by Calvin Klein</a></dd>
+								<dd><a title="Barbour Men's" href="http://www.mybag.com/brand/barbour-men-s.list">Barbour Men's</a></dd>
 							
 								<dd><a title="Cambridge Satchel Company" href="http://www.mybag.com/brand/cambridge-satchel-company.list">Cambridge Satchel Company</a></dd>
 							
-								<dd><a title="Codello " href="http://www.mybag.com/brand/codello.list">Codello </a></dd>
+								<dd><a title="Candy Store" href="http://www.mybag.com/brand/candy-store.list">Candy Store</a></dd>
 							
-								<dd><a title="Delsey" href="http://www.mybag.com/brand/delsey.list">Delsey</a></dd>
+								<dd><a title="French Connection " href="http://www.mybag.com/brand/french-connection.list">French Connection </a></dd>
 							
-								<dd><a title="Diane Von Furstenberg " href="http://www.mybag.com/brand/diane-von-furstenberg.list">Diane Von Furstenberg </a></dd>
+								<dd><a title="Grafea" href="http://www.mybag.com/brand/grafea.list">Grafea</a></dd>
 							
-								<dd><a title="Hilfiger Denim" href="http://www.mybag.com/brand/hilfiger-denim.list">Hilfiger Denim</a></dd>
+								<dd><a title="Herschel" href="http://www.mybag.com/brand/herschel.list">Herschel</a></dd>
+							
+								<dd><a title="Hunter" href="http://www.mybag.com/brand/hunter.list">Hunter</a></dd>
+							
+								<dd><a title="Jack French London" href="http://www.mybag.com/brand/jack-french-london.list">Jack French London</a></dd>
 							
 								<dd><a title="John Galliano" href="http://www.mybag.com/brand/john-galliano.list">John Galliano</a></dd>
 							
 								<dd><a title="Just Cavalli " href="http://www.mybag.com/brand/just-cavalli.list">Just Cavalli </a></dd>
 							
-								<dd><a title="Karl Lagerfeld " href="http://www.mybag.com/brand/karl-lagerfeld.list">Karl Lagerfeld </a></dd>
+								<dd><a title="Kate Sheridan" href="http://www.mybag.com/brand/kate-sheridan.list">Kate Sheridan</a></dd>
+							
+								<dd><a title="Kris Ana " href="http://www.mybag.com/brand/kris-ana.list">Kris Ana </a></dd>
 							
 								<dd><a title="Lilifi" href="http://www.mybag.com/brand/lilifi.list">Lilifi</a></dd>
 							
 								<dd><a title="Louis Quatorze " href="http://www.mybag.com/brand/louis-quatorze.list">Louis Quatorze </a></dd>
 							
-								<dd><a title="Lulu Guinness" href="http://www.mybag.com/brand/lulu-guinness.list">Lulu Guinness</a></dd>
+								<dd><a title="Markberg " href="http://www.mybag.com/brand/markberg.list">Markberg </a></dd>
 							
-								<dd><a title="Mandarina Duck" href="http://www.mybag.com/brand/mandarina-duck.list">Mandarina Duck</a></dd>
-							
-								<dd><a title="Michael Kors" href="http://www.mybag.com/brand/michael-kors.list">Michael Kors</a></dd>
+								<dd><a title="Mi Pac" href="http://www.mybag.com/brand/mi-pac.list">Mi Pac</a></dd>
 							
 								<dd><a title="Mischa Barton" href="http://www.mybag.com/brand/mischa-barton.list">Mischa Barton</a></dd>
 							
 								<dd><a title="MyBag Vintage " href="http://www.mybag.com/brand/mybag-vintage.list">MyBag Vintage </a></dd>
 							
-								<dd><a title="Paul &amp; Joe Sister" href="http://www.mybag.com/brand/paul-joe-sister.list">Paul &amp; Joe Sister</a></dd>
+								<dd><a title="Susan Caplan Vintage " href="http://www.mybag.com/brand/susan-caplan-vintage.list">Susan Caplan Vintage </a></dd>
 							
-								<dd><a title="RI2K" href="http://www.mybag.com/brand/ri2k.list">RI2K</a></dd>
-							
-								<dd><a title="Rare Vintage Sunglasses" href="http://www.mybag.com/brand/rare-vintage-sunglasses.list">Rare Vintage Sunglasses</a></dd>
-							
-								<dd><a title="T-Tech by Tumi" href="http://www.mybag.com/brand/t-tech-by-tumi.list">T-Tech by Tumi</a></dd>
+								<dd><a title="Tatty Devine" href="http://www.mybag.com/brand/tatty-devine.list">Tatty Devine</a></dd>
 							
 								<dd><a title="Ted Baker " href="http://www.mybag.com/brand/ted-baker.list">Ted Baker </a></dd>
 							
-								<dd><a title="Tommy Hilfiger" href="http://www.mybag.com/brand/tommy-hilfiger.list">Tommy Hilfiger</a></dd>
+								<dd><a title="Ted Baker Men's" href="http://www.mybag.com/brand/ted-baker-men-s.list">Ted Baker Men's</a></dd>
 							
 						</dl>
 					</div>
 				
             </li>
             <li>
-				<a accesskey="6" class="occasion" href="boutique.dept" title="Go to the Boutique page">Boutique</a>
-				
+				<a accesskey="5" class="occasion" href="http://www.mybag.com/boutique.dept" title="Go to the Boutique page">Boutique</a>
 				<ul>
 					
-						<li><a title="Designer" href="http://www.mybag.com/boutique/designer.list">Designer</a></li>
+						<li><a title="Everyday" href="http://www.mybag.com/boutique/everyday.list">Everyday</a></li>
 					
-						<li><a title="Festival" href="http://www.mybag.com/boutique/festival.list">Festival</a></li>
+						<li><a title="Functional Fashion " href="http://www.mybag.com/boutique/functional-fashion.list">Functional Fashion </a></li>
 					
-						<li><a title="Garden Party" href="http://www.mybag.com/boutique/garden-party.list">Garden Party</a></li>
-					
-						<li><a title="Going out" href="http://www.mybag.com/boutique/going-out.list">Going out</a></li>
-					
-						<li><a title="Holiday" href="http://www.mybag.com/boutique/holiday.list">Holiday</a></li>
-					
-						<li><a title="Summer" href="http://www.mybag.com/boutique/summer.list">Summer</a></li>
-					
-						<li><a title="Wedding" href="http://www.mybag.com/boutique/wedding.list">Wedding</a></li>
-					
-						<li><a title="Work" href="http://www.mybag.com/boutique/work.list">Work</a></li>
+						<li><a title="Party" href="http://www.mybag.com/boutique/party.list">Party</a></li>
 					
 				</ul>
 			</li>
-            
-			
+            <li>
+				<a accesskey="6" class="vintage" href="http://www.mybag.com/brand/mybag-vintage.list" title="Go to the Vintage page">Vintage</a>
+			</li>
 			<li>
-				<a accesskey="7" class="trends" href="trends.dept" title="Go to the Trends page">Trends</a>
-				
+				<a accesskey="7" class="trends" href="http://www.mybag.com/trends.dept" title="Go to the Trending page">Trending</a>
 				<ul>
 					
-						<li><a title="Candy colours" href="http://www.mybag.com/trends/candy-colours.list">Candy colours</a></li>
+						<li><a title="Artisanal Craft" href="http://www.mybag.com/trends/artisanal-craft.list">Artisanal Craft</a></li>
 					
-						<li><a title="Foxtail and Fern Style Shop" href="http://www.mybag.com/trends/foxtail-and-fern-style-shop.list">Foxtail and Fern Style Shop</a></li>
+						<li><a title="Seeing Red " href="http://www.mybag.com/trends/seeing-red.list">Seeing Red </a></li>
 					
-						<li><a title="Geek chic" href="http://www.mybag.com/trends/geek-chic.list">Geek chic</a></li>
+						<li><a title="Shimmer and Shine " href="http://www.mybag.com/trends/shimmer-and-shine.list">Shimmer and Shine </a></li>
 					
-						<li><a title="Luxury Leather" href="http://www.mybag.com/trends/luxury-leather.list">Luxury Leather</a></li>
-					
-						<li><a title="Neon brights" href="http://www.mybag.com/trends/neon-brights.list">Neon brights</a></li>
-					
-						<li><a title="Park &amp; Cube style shop" href="http://www.mybag.com/trends/park-cube-style-shop.list">Park &amp; Cube style shop</a></li>
-					
-						<li><a title="Prints charming" href="http://www.mybag.com/trends/prints-charming.list">Prints charming</a></li>
-					
-						<li><a title="Rule Britannia" href="http://www.mybag.com/trends/rule-britannia.list">Rule Britannia</a></li>
-					
-						<li><a title="Sherbet dip" href="http://www.mybag.com/trends/sherbet-dip.list">Sherbet dip</a></li>
+						<li><a title="The Beauty of Brown " href="http://www.mybag.com/trends/the-beauty-of-brown.list">The Beauty of Brown </a></li>
 					
 						<li><a title="What Olivia Did Style Shop" href="http://www.mybag.com/trends/what-olivia-did-style-shop.list">What Olivia Did Style Shop</a></li>
 					
+						<li><a title="Wild Animals" href="http://www.mybag.com/trends/wild-animals.list">Wild Animals</a></li>
+					
+						<li><a title="lifestyleflash Style Shop" href="http://www.mybag.com/trends/lifestyleflash-style-shop.list">lifestyleflash Style Shop</a></li>
+					
 				</ul>
 			</li>
 			
 			<li>
-				<a accesskey="8" class="outlet" href="offers/outlet.list" title="Go to the Outlet">Outlet</a>
-				
+				<a accesskey="8" class="outlet" href="http://www.mybag.com/offers/outlet.list" title="Go to the Outlet">Outlet</a>
 				<ul>
 					
-						<li><a title="Above £50" href="http://www.mybag.com/offers/outlet/above-50.list">Above £50</a></li>
+						<li><a title="Over £100" href="http://www.mybag.com/offers/outlet/over-100.list">Over £100</a></li>
 					
-						<li><a title="Accessories" href="http://www.mybag.com/offers/outlet/accessories.list">Accessories</a></li>
+						<li><a title="£100 and under" href="http://www.mybag.com/offers/outlet/100-and-under.list">£100 and under</a></li>
 					
-						<li><a title="Bags and purses" href="http://www.mybag.com/offers/outlet/bags-and-purses.list">Bags and purses</a></li>
+						<li><a title="£20 and under " href="http://www.mybag.com/offers/outlet/20-and-under.list">£20 and under </a></li>
 					
-						<li><a title="£20 and under" href="http://www.mybag.com/offers/outlet/20-and-under.list">£20 and under</a></li>
-					
-						<li><a title="£30 and under" href="http://www.mybag.com/offers/outlet/30-and-under.list">£30 and under</a></li>
-					
-						<li><a title="£40 and over" href="http://www.mybag.com/offers/outlet/40-and-over.list">£40 and over</a></li>
+						<li><a title="£50 and under " href="http://www.mybag.com/offers/outlet/50-and-under.list">£50 and under </a></li>
 					
 				</ul>
-			</li>
+			</li>            
 		</ul>
 		
 
@@ -672,16 +718,38 @@
 
     </div>
 	
-	<div class="promo-col-mini">
-		<div class="mini-promo"><a href="http://help.mybag.com/index.php?sid=5503&amp;lang=en&amp;action=show&amp;cat=7" rel="mybag-mini-banner-01"><img src="http://thehut.pantherssl.com/banners/316x40-mb-jl-home-nav-freeukdelivery-V3.jpg" border="0" height="40" width="316" alt="free uk delivery" class="bannertrack"></a></div>
-		<div class="mini-promo"><a href="http://www.mybag.com/new-in/all.list" rel="mybag-mini-banner-02"><img src="http://thehut.pantherssl.com/banners/316x40-MB-Wk24-GR-NewCollections.jpg" border="0" height="40" width="316" alt="new collections" class="bannertrack"></a></div>
-		<div class="mini-promo last"><a href="http://blog.mybag.com/" rel="mybag-mini-banner-03"><img src="http://thehut.pantherssl.com/banners/20110208HM-MB-blog.gif" border="0" height="40" width="316" alt="mybag blog" class="bannertrack"></a></div>
-	</div>
+	
+
+
+
+
+
 	
 		
                                
-			<div id="strip-banner"><a href="http://www.mybag.com/style.dept" rel="mybag-generic-strip"><img src="http://thehut.pantherssl.com/banners/950x40-MB-wk26-md-flashsale-v2.jpg" border="0" height="40" width="950" alt="Flash me!" class="bannertrack"></a></div>
+			<div id="strip-banner"><a href="http://www.mybag.com/brand/grafea.list" rel="mybag-generic-strip"><img src="http://thehut.pantherssl.com/banners/950x40-wk51-md-salessb-4111.jpg" border="0" height="40" width="950" alt="Competition" class="bannertrack"></a></div>
 		
+	
+	
+	
+
+
+
+
+
+<div id="service-banner">
+	
+		
+		
+			
+				
+				
+					<!--Cannot Find Banner Set mybag-header-service-banner-01-->
+				
+			
+		
+	
+</div>
 	
 
 </div>
@@ -701,6 +769,12 @@
 								
 								
 									
+
+
+
+
+
+
 
 
 
@@ -812,7 +886,7 @@
 			
             
             
-            
+			
 			
             
             
@@ -905,8 +979,8 @@
 					
 				
 				 and industry-standard SSL to provide secure credit card transactions. SSL is a communications protocol for transmitting private information over the internet. It works by encrypting data that is transmitted over the SSL connection. When you place an order, your credit/debit card information is encrypted and then sent over the internet using an SSL connection. No one can read or access the data that is being transmitted.</p>
-			<p>It is important for you to protect against unauthorized access to your password and to your computer. Ensure that you log out when you finish using a shared computer.</p>
-			<p>In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the "Act"). The Act requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorized access by other people.</p>
+			<p>It is important for you to protect against unauthorised access to your password and to your computer. Ensure that you log out when you finish using a shared computer.</p>
+			<p>In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the "Act"). The Act requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people.</p>
 			<p>We take the risk of internet fraud very seriously. With the volume of fraudulent credit card transactions increasing, we make every effort to ensure all orders are thoroughly checked using the information already supplied. There is a possibility we may contact you to make additional security checks and we ask for your co-operation to enable us to complete them. Fraudulent transactions will not be tolerated by us and such transactions will be reported to the relevant authorities.</p>
 			<h2>Contact Us</h2>
 			<p>If you have any queries on any aspect of the above policy, please <a href="https://www.mybag.com/mybag/customerQuery.secure?skeletonAccount=true">contact us</a>.</p>
@@ -952,6 +1026,8 @@
             
             
             		
+			
+			
 									
 			
 		</div>
@@ -1030,7 +1106,7 @@
 		  
 		  
           
-            <!--Cannot Find Banner Set mybag-generic-footer-strip-->
+            <a href="http://www.mybag.com/articles/international-delivery.list" rel="mybag-generic-footer-strip"><img src="http://thehut.pantherssl.com/banners/freeeurostrip-1.gif" border="0" height="40" width="950" alt="Worldwide Delivery Options" class="bannertrack"></a>
           
         
       
@@ -1060,17 +1136,19 @@
 				<dd><a href="style/tote.list">Tote</a></dd>
 				<dd><a href="style/luggage.list">Luggage</a></dd>
 			</dl>
+			
 			<dl>                                       
 				<dd><a href="brand/cambridge-satchel-company.list">The Cambridge Satchel Company</a></dd>
-				<dd><a href="brand/mybag-vintage.list">Vintage Gucci</a></dd>
-				<dd><a href="brand/lilifi.list">Lilifi</a></dd>
-				<dd><a href="brand/ck-by-calvin-klein.list">Calvin Klein Bags</a></dd>
+				<dd><a href="brand/grafea.list">Grafea</a></dd>
+				<dd><a href="brand/ted-baker.list">Ted Baker</a></dd>
+				<dd><a href="brand/tatty-devine.list">Tatty Devine</a></dd>
+				<dd><a href="brand/herschel.list">Herschel</a></dd>
 			</dl>
 			<dl>
-              	<dd><a href="brand/louis-quatorze.list">Louis Quatorze</a></dd> 
-				<dd><a href="brand/paul-joe-sister.list ">Paul and Joe Sister</a></dd>
-				<dd><a href="brand/penelope-parker.list">Penelope and Parker Bags</a></dd>
-				<dd><a href="http://blog.mybag.com">Celebrity style</a></dd>
+              	<dd><a href="brand/anna-lou-of-london.list">Anna Lou London</a></dd> 
+				<dd><a href="brand/barbour.list">Barbour</a></dd>
+				<dd><a href="brand/mi-pac.list">Mi Pac</a></dd>
+				<dd><a href="http://www.mybag.com/blog/">Celebrity style</a></dd>
 			</dl>
 			<dl class="last">
 				<dd><a href="privacy-policy.info">Privacy Policy</a></dd>
@@ -1082,7 +1160,7 @@
 				<dd><a href="site-map.info">Site Map</a></dd>
 				<dd><a href="latestReviews.secure">Latest Reviews</a></dd>
 				<dd><a href="affiliates.info">Affiliates</a></dd>
-				<dd><a href="http://blog.mybag.com">Blog</a></dd>
+				<dd><a href="http://www.mybag.com/blog/">Blog</a></dd>
 				<dd><a href="http://www.mybag.com/cookies-policy.info" title="Cookie Information" rel="nofollow">Cookie Information</a></dd>
 			</dl>
 		</div>
@@ -1107,7 +1185,7 @@
 		
 	
 </div>
-
+</div>
 
 
 
@@ -1119,111 +1197,120 @@
 
 	
 	
-	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 	
-
-
-<script type="text/javascript" src="/common/scripts/plugins/jquery.swfobject.1-0-9.min.js"></script>
-<script type="text/javascript" src="/common/scripts/common.js?v=6.6"></script>
-
 
 
 
 	
+	
+		<script type="text/javascript" src="/common/scripts/plugins/jquery.swfobject.1-0-9.min.js"></script>
+		<script type="text/javascript" src="/common/scripts/common.js?v=1.1"></script>
+	
+
+
+
+
 
 	
 
 	
-		<script type="text/javascript" src="/common/scripts/cufon.js"></script>
-		<script type="text/javascript" src="scripts/cufon/ITC_Avant_Garde_Gothic_400.font.js"></script>
 		<script type="text/javascript" src="/common/scripts/plugins/jquery.cycle.all.min.js"></script>
+		<script type="text/javascript" src="/common/scripts/plugins/jquery.mtabs.1.2.5.min.js"></script>
 		
-		<script type="text/javascript" src="/common/scripts/plugins/jquery.mtabs.1.2.4.min.js"></script>
 		
-		<script type="text/javascript" src="scripts/mybag.js?v=2.1"></script>
+		
+		
+		<script type="text/javascript" src="scripts/mybag.js?v=7"></script>
 	
+
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
 	
 	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	
-	
-	 
     
 	
-    
-	
-
-	
-
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-
-
-
-	
-		
-			
-			<script type="text/javascript" src="/dwr/interface/BasketAjaxInterface.js"></script>
-		
-		
-		
-	<script type="text/javascript" src="/dwr/interface/AjaxInterface.js"></script>
-	<script type="text/javascript" src="/dwr/engine.js"></script>
-	
-	
-	<script type="text/javascript">
-		setTimeout(function(){var a=document.createElement("script");
-		var b=document.getElementsByTagName('script')[0];
-		a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/6873.js?"+Math.floor(new Date().getTime()/3600000);
-		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-	</script>
-		
-
-
-
-
-
-
-
-
-
-
-
-
 	
 	
     
-
 	
 	
-
-
-
-
-
-
-
-
-
 	
 
 
+
+
+
+
+
+
+
 	
+
+
 	
 	
 
@@ -1301,36 +1388,16 @@
 
 
 
-
-	
-	
-	
-	
-
-
-
-	
-	
-	
-
-
-
-
-
-
-   
+ 
 	<script src="//www.dwin1.com/3660.js" type="text/javascript" defer="defer"></script>
 
 
 	
 	
 	
-	
-
-	
 
 
-</div>
+
 
 
 
