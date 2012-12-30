@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardenandgun.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233958id_/http%3A//gardenandgun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenandgun.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231003437id_/http%3A//gardenandgun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Garden and Gun
 
