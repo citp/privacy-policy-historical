@@ -1,60 +1,122 @@
-> *The following text is extracted and transformed from the citywire.co.uk privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612033903id_/http%3A//citywire.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citywire.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230220944id_/http%3A//citywire.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Citywire
 
-CITYWIRE PRIVACY POLICY | YOUR INFORMATION AND HOW WE USE IT
+## WHO ARE WE?
 
-**CITYWIRE PRIVACY POLICY**
+Citywire Financial Publishers Limited (“Citywire”) (“we”) is the operator and copyright holder of all the websites operated by Citywire Financial Publishers Limited ("the Sites") including but not limited to [www.citywire.co.uk](http://www.citywire.co.uk/). For a full list of websites operated by Citywire, please follow this link.
 
-Citywire Financial Publishers Limited and Citywire the Operator and Copyright Holder respectively of the all the websites operated by Citywire Financial Publishers Limited ("the Sites") including but not limited to www.citywire.co.uk, www.citywire-fmi.com, www.nmablog.com respect your privacy and will not sell or make available in any way the personal information we collect from you ("Data") except where we have previously obtained your consent. This statement sets out the principles governing our use of your Data ("Use"). By Registering to use the Services and by using the Sites, you agree to this Use. Defined terms have the same meanings as in the terms and conditions set out above.
+The Data Controller (Data User) is Citywire Financial Publishers Limited.
 
-Citywire Financial Publishers Limited ("Citywire") is an independent financial publishing and data provider, 25% owned by Reuters
+Citywire is an independent publisher of financial information and data provider. 
 
-**YOUR INFORMATION AND HOW WE USE IT**
+## IMPORTANT: YOUR CONSENT
 
-Thank you for visiting the Citywire website and completing any registration forms and questionnaires including but not limited to the Citywire NMA Survey and for providing us with details relating to you and your organisation.
+Citywire is committed to protecting your data and respecting your privacy. Your choice to register with this Citywire site is a freely made, active indication that you agree to collection and use of your personal data as set out in this Privacy Notice[i]. If you neither understand nor agree to the use of your data in this way, please DO NOT REGISTER.
 
-We would like to take this opportunity to explain exactly why we gather this data, how we will use it and where it will be appearing.
+## WHAT PERSONAL DATA DO WE COLLECT?
 
-  1. When you Register and use the Sites, we will ask you to provide certain Data, such as your contact details and demographic information. We will store this Data and use it to contact you, provide you with details of Services and otherwise for the normal use and improvement of the Sites, unless you have asked us not to do so by modifying your MyCitywire profile anytime thereafter. 
-  2. We may also use the Data you provide us in response to surveys or provided during Registration to aggregate user profiles and to make you aware of relevant events and content by post, phone, email and SMS. 
-  3. To enable us to monitor and improve the Sites, we may gather certain information about you when you use the Sites. This includes details of your operating system, browser version, domain name and IP address, and the details of the website you referred from. 
-  4. The data relating to your use of the website, including a summary of the factsheets you have downloaded, the pages you have viewed, and any articles sent via the Email a Friend facility, will also be collected. Please note that Citywire may provide this data to third parties, including the fund manager's group of the manager's whose factsheets you have downloaded. 
-  5. We will use the contact information you provide during registration to provide you with relevant information and offers from Citywire's carefully chosen business partners.  You may opt out of this service at any time from the My Account area on the website or by emailing [privacy@citywire.co.uk](mailto:privacy@citywire.co.uk) or calling 020 7840 5100. 
-  6. We may use cookies to store information such as your User ID and your session identifiers to enable us to identify whether you are Registered on to the Sites and, if so, to shortcut your access to the Sites. We will only read cookies from your cookie file placed there through your web browser's interaction with the Sites. Please refer to documentation provided by your browser for more information on how disabling your cookies and withholding information outlined in paragraph 3 will affect your operability with our Sites. We cannot guarantee full operability of our Sites if you disable your cookies. 
-  7. We maintain a record of all the articles that have been sent via the Email a Friend facility on the Sites. We will keep a record of the email addresses that articles are sent to and from. We keep a record of the content and comments sent by Registered Users and Visitors using the Email a Friend facility for research purposes and from time to time we may publish on our Sites some of the comments made by Registered Users and Visitors in their emails. These comments will be ANONYMISED and will not be associated to any individual sender or recipient. You accept that by using the Email a Friend facility that your comments may be published, anonymously, on our Sites. 
-  8. The data relating to you and your organisation and some, or all, of the information you have provided may appear: in Citywire's regular printed publications, such as New Model Adviser, Citywire Global and Citywire Wealth Manager, on online websites such as www.nmablog.com or www.citywire.co.uk, and in Citywire's IFA factsheets which may be available online and in print. A comprehensive list of publications and online websites can be obtained by emailing Citywire at [privacy@citywire.co.uk](mailto:privacy@citywire.co.uk). 
-  9. Citywire may licence this data to companies/institutions with a keen interest in asset management including, for instance, fund management groups and life companies. We will impose tight restrictions on how our licensees use the data we provide. 
-  10. We are not responsible for the data policies, procedures or content of any other website that are linked to our Sites. 
-  11. We may supplement the information that you provide us with information we receive from third parties. 
-  12. To ensure that our records are up-to-date, we may contact you from time to time to check that the information you have provided is still accurate. If, at any stage, any of your details change and you would like us to reflect that change, please email the details of any changes [privacy@citywire.co.uk](mailto:privacy@citywire.co.uk). 
-  13. Where appropriate we will contact you or a representative from your fund management group from time to time to ensure that the information we hold remains accurate. If, however, any of the details you provided change and you would like us to reflect that change, please contact our Customer Services Department 020 7840 5100 or at [privacy@citywire.co.uk](mailto:privacy@citywire.co.uk) and we will be happy to update your details. 
-  14. We have certain responsibilities under legislation to verify the identity of Registered Users and users and may need to make certain enquiries and obtain certain information from you for that purpose. By using the Sites you confirm that all information you supply will be accurate and that we may pass on such information, as we consider necessary, to comply with any reporting requirements. 
-  15. You agree that we may disclose to the FSA, to any other regulatory authority to which we are subject and to any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them), or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you or, if relevant, any of your clients. 
+It is important that you understand WHAT personal data we collect.
 
-**ACCESS TO YOUR INFORMATION**
+When you visit our sites and chose to register as a user, complete questionnaire and/ or surveys you actively provide us with personal data which we use to build your ‘ **USER PROFILE’**.
 
-  16. You have the right to receive information about the personal information we hold on you. You can obtain a copy of the information we hold about you by sending an email to [privacy@citywire.co.uk](mailto:privacy@citywire.co.uk) or contacting us on 020 7840 2250. If you are concerned that any of the information we hold on you is incorrect, please contact us at [privacy@citywire.co.uk](mailto:privacy@citywire.co.uk). 
-  17. If you have any questions about our privacy policy, please contact us at [privacy@citywire.co.uk](mailto:privacy@citywire.co.uk). 
-  18. If you would like to request a comprehensive list of our current websites please contact us at [privacy@citywire.co.uk](mailto:privacy@citywire.co.uk). 
+When you browse our sites you passively provide personal data via cookies and similar technologies which we use to build your user profile (see cookie information below).
 
-**INFORMATION SECURITY**
+This user profile, which includes a summary of the factsheets you have downloaded, the pages you have viewed, any articles sent via the email-a-friend facility, and comments you make about published stories will be used by Citywire as set out below **.**
 
-  19. We endeavour to take all reasonable steps to protect your Data, including the use of encryption technology, but cannot guarantee the security of any Data you disclose online. You accept the inherent security implications of dealing on-line over the Internet and will not hold us responsible for any breach of security unless we have been negligent or in wilful default. 
+## HOW DO WE USE PERSONAL DATA
 
-**INDIVIDUAL CHOICE**
+Registering and CONSENTING for Citywire to use the personal data you provide requires that you UNDERSTAND how we use personal data.
 
-  20. You can change your personal information preferences and/or details at any time. As a registered user you can access your preferences by logging on to www.citywire.co.uk using your username (email address) and password. You may unsubscribe to any/all lists by sending an email request to [privacy@citywire.co.uk](mailto:privacy@citywire.co.uk). 
-  21. You will ALWAYS be given a straightforward way to opt out from our direct marketing each time you receive a communication from us or one of our advertising partners. 
+Citywire WILL USE the personal data in your user profile to help ensure that any marketing we direct to you via post, telephone and SMS is both relevant and informative. 
+
+### Third party usage
+
+Citywire is a data provider, providing a ‘host mailing’ service to commercial partners. This service enables other organisations to direct their marketing messages to you based on your user profile. As a ‘ _host mailing’_ service we **ensure that commercial partners never see nor retain your data** unless or until _you_ respond to their marketing. Citywire remains in control of your data.
+
+The act of registering with a Citywire site indicates your consent for Citywire to use your personal data ‘for gain’ in this manner. You may withdraw _this_ consent (opt out) freely and at any time via your My Account area on the website, by emailing privacy@citywire.co.uk or by calling 020 7840 5100.
+
+If, after responding to marketing directed to you from one of our commercial third parties, you wish them to cease direct marketing, please contact the third party directly.
+
+### Research
+
+Citywire is a research specialist, providing analysis of financial markets, its products and service providers. Your interaction with Citywire, the web pages you view, the documents you download and the comments you make will be used by us to formulate research reports for both internal and external (shared) use.
+
+We will not disclose any personally identifiable information unless we have sought and gained your explicit consent. In accordance with professional market research guidelines we will ensure that our research maintains your anonymity. Citywire will ensure that you are fully informed as to how any personal data will be shared, to whom and for what purpose **.**
+
+### Publishing 
+
+Research by Citywire may be published online, through smartphone applications (Apps) or in print.
+
+We may use cookies and similar technologies to store information such as your User ID and your session identifiers to enable us to identify whether you are registered on to the Sites and, if so, to make access faster and simpler.
+
+Cookies also help us to build your ‘user profile’ by, for example, remembering pages you visit on our Sites and articles you may have read. If you allow us the record this information we can provide you with a ‘site experience’ and marketing tailored to _your_ financial interests. 
+
+Should you wish a generic experience you can remove and/or disable cookies using the controls provided by your browser. If you are unfamiliar with these controls, please visit [www.aboutcookies.org/](http://www.aboutcookies.org/) where you will find information to help manage important information storage choices. 
+
+You are free to choose whether to accept cookies or not, however we cannot guarantee full operability of our Sites should you disable cookies. This information storage occurs passively, without you interaction.
+
+## Plugins from third party platforms (e.g. Facebook button)
+
+We are not responsible for the data policies, procedures or content of any other website that are linked to/from our Sites. Please read their privacy notices carefully before providing any personal information. For information on how these third parties use your data please read their privacy policies 
+
+## OUR OBLIGATIONS
+
+### Keeping personal data accurate
+
+To ensure that our records are up-to-date, we will maintain contact with you to check that the information we hold remains accurate. 
+
+Where appropriate we will contact you or a representative from your fund management group to ensure that our information remains accurate. If, however, any of the details you provided change and you would like us to reflect that change, please contact our Customer Services Department 020 7840 5100 or at privacy@citywire.co.uk and we will be happy to update your details.
+
+### Reporting and disclosure responsibilities
+
+We have responsibilities under legislation to verify the identity of both registered users and users and may need to make enquiries and obtain information from you for that purpose. By using the Sites you confirm that all information you supply will be accurate and that we may pass on such information, as we consider necessary, to comply with any reporting requirements.
+
+You agree that we may disclose to..
+
+a. the Financial Services Authority (FSA);
+
+b. any other regulatory authority to which we are subject;
+
+c. any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them);
+
+d. any person empowered to require such information by or under any legal enactment;
+
+.. any information they may request or require relating to you or, if relevant, any of your clients.
+
+### Providing access to your information
+
+You have the right to receive information about the personal information we hold on you. You can obtain a copy of the information by sending an email to privacy@citywire.co.uk or contacting us on 020 7840 2250. If you are concerned that any of the information we hold on you is incorrect, please contact us at privacy@citywire.co.uk.
+
+If you have any questions about our privacy policy, please contact us at privacy@citywire.co.uk.
+
+If you would like to request a comprehensive list of our current websites please contact us at privacy@citywire.co.uk.
+
+### Protecting data
+
+Citywire is a global business with offices in London and Singapore.
+
+This may result in your personal data being transferred out of the European Economic Area (EEA) to countries which have not been assessed by the European Commission as having adequate legal protection.
+
+For further information on the adequacy of non-EU countries, please visit the European Commission [website](http://ec.europa.eu/justice/policies/privacy/thridcountries/index_en.htm)
+
+### Respecting individual choice
+
+You can change your personal information preferences and/or details at any time. As a registered user you can access your preferences by logging on to www.citywire.co.uk using your username (email address) and password. 
+
+a. You may unsubscribe to any/all lists by sending an email request to privacy@citywire.co.uk.
+
+b. You may ask Citywire to cease providing your data to third parties by sending an email request to privacy@citywire.co.uk.
+
+c. You will ALWAYS be given a straightforward way to opt out from marketing each time you receive a communication from us or one of our commercial partners.
+
+If you believe we have not met any of our obligations, please contact us in the first instance. 
+
+You may find more information from the UK Information Commissioner on their [website](http://www.ico.gov.uk/complaints/data_protection.aspx).
+
+  
 
 
+* * *
 
-i Consent is defined in the European Data Protection Directive 95/46/EC as 'the data subject's consent' shall mean any freely given specific and informed indication of his wishes by which the data subject signifies his agreement to personal data relating to him being processed
-
-ii 'Data Protection Good Practice Note: Electronic mail marketing': version 2.0
-
-iii Article 29 Working Party Opinion 5/2004 on unsolicited communications for marketing purposes
-
-under Article 13 of Directive 2002/58/EC. States ...'Implied consent to receive such mails is not compatible with the definition of consent of Directive 95/46/EC and in particular with the requirement of consent being the indication of someone's wishes, including where this would be done 'unless opposition is made' (opt-out). Similarly, pre-ticked boxes, e.g., on websites are not compatible with the definition of the Directive either.'
-
-iv Data Protection Act 1998 Section 11 Right to not have personal data used for the purpose of direct marketing.
+[i] Also knows as a Personal Information Collection Statement (PICS), a Privacy Policy or Fair Processing information.
