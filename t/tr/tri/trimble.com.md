@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206074916id_/http%3A//www.trimble.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230032929id_/http%3A//www.trimble.com/privacy.aspx) for the most accurate reproduction.*
 
-# Trimble - Privacy Statement
+# Trimble - Online Privacy
 
-Last updated: May 17, 2011
+### Trimble's Commitment to Online Privacy
 
-**Trimble's Commitment to Online Privacy**
+Last updated: May 10, 2012
 
 Your right to privacy is important. At Trimble we believe that personal information you choose to furnish online should only be used to help us provide you with the highest quality of products, services and support. We display this Privacy Statement to make you aware of the information practices for Trimble websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. We may update our Privacy Statement from time to time to stay current with changes in our business and to better serve you. We encourage you to visit this page frequently to inform yourself of any changes.
 
 This Privacy Statement covers Trimble's family of corporate websites, which include:
 
-**Consent to Use and Transfer Personal Data**
+#### Consent to Use and Transfer Personal Data
+
+#### 
 
 Please note that if you submit personal data through the Trimble websites, you will send it to us (Trimble Navigation Limited), in the United States.  We will collect, process and transfer your personal data in accordance with this Data Privacy Statement but possibly not in accordance with the laws of the jurisdiction in which your reside.  By submitting your personal data through a Trimble web site you consent to Trimble's collection, use, storage and transfer of your personal data to our company databases and other repositories, wherever located, for the purposes for which it is submitted and in accordance with the policies set forth in this Privacy Statement.
 
-**Types of Data Collected Online**
+#### Types of Data Collected Online
 
 You can browse most of our web sites without entering any personal information. Only general, non-personally identifiable information that Trimble logs from all site visits, such as Internet service provider, operating system/browser type, and pages accessed, will be collected in those instances. This means that a user's session will be tracked, but the user will not be individually identified. 
 
@@ -36,7 +38,7 @@ For example, you may choose to give us personal information when you:
 
 At such times you may be asked to provide contact and billing information (e.g., your name, address, telephone number, email address, credit card number and expiration date), as well as information about the product or service purchased (e.g., product I.D., serial number, customer number, product version). Demographic or other personal information may also be requested, however, volunteering such information is optional. By providing the information to Trimble you consent to our transfer of this information to our company databases and other repositories, wherever located. 
 
-**Use of Data**
+#### Use of Data 
 
 Trimble uses personal information collected on its websites for the purposes for which it is requested or as necessary or permissible under applicable law (e.g., in some jurisdictions we may have to keep invoices under tax laws).  We also may use the information you provide to notify you later about new developments with respect to the products and services you have purchased or to inform you about new products, special offers and services offered by Trimble, its subsidiaries and affiliates ("Trimble Companies") or its business partners.  It is important to note that you may opt out of receiving further information from Trimble, as discussed in detail below. We use non-personal information to analyze sales trend data as it relates to geography, time and demographics.
 
@@ -44,9 +46,9 @@ In connection with a job application or inquiry advertised on a Trimble Website,
 
 Specific uses of personal information that vary from this Privacy Policy (if any) may be found in the Terms of Use or Terms of Service or privacy policies applicable to a particular service, contest or promotion. To the extent that you are notified of potential uses of your personal information that are different from those described in this Privacy Policy during your service agreement with us or enrollment in a particular contest or promotion, the uses of information set forth in that agreement, contest or promotion will supersede this Privacy Policy. Please review carefully the Terms of Use, Terms of Service and privacy policies applicable to the service(s) that you have purchased or the contests or promotions for which you sign-up or in which you participate. 
 
-**With Whom We Share Information**
+#### With Whom We Share Information
 
-In the ordinary course of business Trimble will not sell, trade or rent your individual identifying information to others adsent your consent to do so. Trimble may share the personal data you provide online with Trimble Companies and as described below: 
+In the ordinary course of business Trimble will not sell, trade or rent your individual identifying information to others absent your consent to do so. Trimble may share the personal data you provide online with Trimble Companies and as described below: 
 
   * Affiliated Companies and Business Partners.We work together with affiliated companies and business partners who are acting on our behalf for the uses described above. For example, an external service provider listed below may host or operate an online Trimble service, or process credit card transactions. When an affiliated company or one of our business partners is involved in a transaction with you, we may share personal identifying information related to this transaction.  
 
@@ -61,51 +63,53 @@ In the ordinary course of business Trimble will not sell, trade or rent your ind
 
 
 
-**External Service Providers**
+#### External Service Providers
 
 The following external service providers collect information through our websites: 
 
   * [http://www.trimbleevents.com](http://www.trimbleevents.com/)   
-Enterprise Events Group (EEG), a value leader in the event management services industry hosts and operates our online registration process for Trimble Dimensions 2005 user Conference at [ http://www.trimbleevents.com](http://www.trimbleevents.com/) . When you register for the conference from this online registration website, your contact and billing information will be collected by Enterprise Events Group. Please view Enterprise Events Group Privacy Statement at <http://www.eeginc.com/> for a full description of Enterprise Events Group comprehensive information privacy procedures. WingateWeb is an award-winning online event registration and event management software company. WingateWeb provides the event management software solution for Trimble Dimensions 2009 User Conference. Please view WingateWeb's Privacy Statement at [http://www.wingateweb.com](http://www.wingateweb.com/) for a full description of WingateWeb�s comprehensive information privacy procedures. 
+Enterprise Events Group (EEG), a value leader in the event management services industry hosts and operates our online registration process for Trimble Dimensions 2005 user Conference at [ http://www.trimbleevents.com](http://www.trimbleevents.com/) . When you register for the conference from this online registration website, your contact and billing information will be collected by Enterprise Events Group. Please view Enterprise Events Group Privacy Statement at <http://www.eeginc.com/> for a full description of Enterprise Events Group comprehensive information privacy procedures. WingateWeb is an award-winning online event registration and event management software company. WingateWeb provides the event management software solution for Trimble Dimensions 2009 User Conference. Please view WingateWeb's Privacy Statement at [http://www.wingateweb.com](http://www.wingateweb.com/) for a full description of WingateWeb’s comprehensive information privacy procedures. 
   * [http://www.tmsreplacements.com](http://www.tmsreplacements.com/)   
 Yahoo!. a leading hosting and e-commerce service provider, hosts our online store at www.tmsreplacements.com. Please see Yahoo!'s Privacy Statement at: <http://privacy.yahoo.com/>
 
 When you purchase our products and services from this online store, your contact and billing information will be collected by Wells Fargo Merchant Solutions. Please view Wells Fargo's Privacy Statement at: [ http://www.wellsfargo.com/privacy_security/index.jhtml](http://www.wellsfargo.com/privacy_security/index.jhtml) for a full description of Wells Fargo's comprehensive information privacy procedures and security system. 
 
+  * [2e2](http://www.netstore.co.uk/)  
+2e2 (formerly Netstore UK Plc) is a market leading provider of IT Managed Services and IT Security. The Trimble VRS Now Store operates on dedicated servers managed by Netstore Plc. You can find further information about 2e2's privacy policy at <http://www.netstore.co.uk/privacy-policy.aspx>. 
   * [Ceridian](http://www.myceridian.com/)   
 Ceridian provides support services for job candidates who submit online information related to an interest in employment with Trimble. 
 
 Ceridian collects, hosts and stores all such job candidate data for Trimble.   
 Ceridian has agreed not sell or rent personally identifiable information provided during the recruiting process. 
 
-  * [VeriSign](http://www.verisign.com/)   
-Trimble uses VeriSign, Inc. to process credit card transactions on the Trimble Store. Trimble passes VeriSign the name of the customer and their credit card details. For further information about VeriSign's privacy procedures please visit their website at <http://www.verisign.com/Privacy/index.aspx>. 
-  * [2e2](http://www.netstore.co.uk/)  
-2e2 (formerly Netstore UK Plc) is a market leading provider of IT Managed Services and IT Security. The Trimble VRS Now Store operates on dedicated servers managed by Netstore Plc. You can find further information about 2e2's privacy policy at <http://www.netstore.co.uk/privacy-policy.aspx>. 
-  * [WorldPay](http://www.worldpay.us/)  
-Trimble uses WorldPay to process payments for the Trimble VRS Now Store. When you make purchases from our online store, Trimble passes WorldPay the customer name along with shipping and billing information, and WorldPay collects information for the selected credit, debit, or other payment method. WorldPay processes personal data on behalf of Trimble only in order to perform the payment instructions of the customer, and personal data will not be provided to third parties other than the financial institutions for the selected payment method. Please view WorldPay's Privacy Policy at <http://www.worldpay.us/privacy.htm>. 
   * [Chase Paymentech](http://www.chasepaymentech.com/)  
 Trimble uses Chase Paymentech to process credit card transactions and for electronic check processing. Trimble passes Chase Paymentech the name of the customer and customer credit card and electronic check details. For further information about Chase Paymentech and its privacy policy please visit its website at <http://www.chasepaymentech.com/>. 
   * [Cybersource](http://www.cybersource.com/)  
 Trimble uses Cybersource to process credit card transactions. Trimble passes Cybersource the name of the customer and their credit card details. For further information about Cybersource's data privacy practices please view its privacy statement at <http://www.cybersource.com/privacy.php>. 
+  * [Google Analytics](http://www.google.com/analytics/)  
+Google Analytics is a website statistics service that Trimble uses to track our site activity including traffic sources, visitors' information, their activity and sales. This helps us in understanding our audience and improving the customer experience on our sites. For further information about Google Analytics data privacy practices, please view its privacy policy at <http://www.google.com/intl/en/policies/privacy/>
+  * [VeriSign](http://www.verisign.com/)   
+Trimble uses VeriSign, Inc. to process credit card transactions on the Trimble Store. Trimble passes VeriSign the name of the customer and their credit card details. For further information about VeriSign's privacy procedures please visit their website at <http://www.verisign.com/Privacy/index.aspx>. 
+  * [WorldPay](http://www.worldpay.us/)  
+Trimble uses WorldPay to process payments for the Trimble VRS Now Store. When you make purchases from our online store, Trimble passes WorldPay the customer name along with shipping and billing information, and WorldPay collects information for the selected credit, debit, or other payment method. WorldPay processes personal data on behalf of Trimble only in order to perform the payment instructions of the customer, and personal data will not be provided to third parties other than the financial institutions for the selected payment method. Please view WorldPay's Privacy Policy at <http://www.worldpay.us/privacy.htm>. 
 
 
 
-**Links**
+#### Links
 
 Please note that our websites contain links to other sites. When you access a third party's website, even one that may contain the Trimble logo and content regarding Trimble's products and services, please understand that the website is independent of Trimble. We do not control the privacy policies of any third party sites. If you click-through a banner ad or link to a third party site and submit your information, you will be subject to the privacy policies of those third parties. We assume no responsibility or liability for any third party policies or the actions of third parties. A link to a third-party website is not an endorsement. 
 
-**Choice**
+#### Choice
 
 Trimble will not share personal identifying information provided to us online except as stated above without allowing you the opportunity of consenting to or opting out of such disclosures. When you place an order for Trimble products, register as a user of Trimble products, services or promotions, or when you submit a user profile you are given the opportunity of notifying us as to whether you would like to receive future information, special offers and communications via email. All unsolicited email marketing and promotional communications contain an opportunity for you to decline future communications. Additionally, at any time you can opt-out of receiving such further information from Trimble by sending your opt-out request to [privacy@Trimble.com](mailto:privacy@trimble.com). Trimble will use its best efforts to comply promptly with all such requests.
 
-**Cookies and Options for Controlling Use of Your Personal Information**
+#### Cookies and Options for Controlling Use of Your Personal Information
 
-Cookies are small pieces of information stored in your browser on you computer's hard drive. Some Trimble pages use cookies, sent by Trimble or its third-party agents, to better serve you when you return to the site. If you prefer not to receive cookies you have the option of setting your browser to warn you before accepting cookies or to reject them altogether. If you do so, however, some areas of some sites may not function properly.
+Cookies are small pieces of information stored through your browser on your computer's hard drive. Some Trimble pages use cookies, sent by Trimble or its third-party agents, to better serve you when you return to the site. If you prefer not to receive cookies you have the option of setting your browser to warn you before accepting cookies or to reject them altogether. If you do so, however, some areas of some sites may not function properly.
 
 You should be aware that if you voluntarily disclose personal information online in a public area, such information can be collected and used by others. We do not control the actions of our visitors and registered users. If you disclose personal information in a review, bulletin board or any other publicly accessible portion of a Trimble website, you do so at your own risk and you understand that your submitted information may be collected and used by others to send you unsolicited messages or advertisements, or for other purposes. Please remember that protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any password you use, and you should always be careful and responsible whenever disclosing information online. Although we will use commercially reasonable efforts to safeguard the privacy of your personal information, transmissions made by means of the Internet cannot be made absolutely secure. Trimble assumes no liability for the disclosure of data due to errors in transmission or actions of unauthorized third parties. Trimble cannot ensure or warrant the security of any information you transmit to us or from our services. 
 
-**How You Can Access Or Correct Your Information**
+#### How You Can Access Or Correct Your Information
 
 You can access or ask for corrections of your personally identifiable information that we collect and maintain in retrievable form by following this procedure: 
 
@@ -119,6 +123,6 @@ You can access or ask for corrections of your personally identifiable informatio
 
 
 
-**How to Contact Us**
+#### How to Contact Us
 
 If you have requests or questions in connection with this Privacy Statement you may contact us at [privacy@Trimble.com](mailto:privacy@trimble.com).
