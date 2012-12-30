@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517131050id_/http%3A//www.newscientist.com/info/in9%3Ffull%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscientist.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230223639id_/http%3A//www.newscientist.com/info/in9%3Ffull%3Dtrue) for the most accurate reproduction.*
 
 # Privacy policy - 24 November 2004 - New Scientist
 
@@ -136,6 +136,8 @@ You may choose to decline these cookies by visiting the following sites:
 In addition, third-party advertisers run campaigns on newscientist.com.
 
 If you would like to block cookies being set by third-party networks you may do so through the preference settings on your browser.
+
+To contact us about the use of Cookies on this site please email [eucookies@rbi.co.uk](mailto:eucookies@rbi.co.uk).
 
 ### 9\. Changes to Privacy Policy
 
