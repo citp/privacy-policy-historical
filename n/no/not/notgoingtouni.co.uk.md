@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502005134id_/http%3A//notgoingtouni.co.uk/pages/site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190746id_/http%3A//www.notgoingtouni.co.uk/pages/site/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
