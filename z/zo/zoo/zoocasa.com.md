@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoocasa.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630183830id_/http%3A//www.zoocasa.com/en/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoocasa.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184639id_/http%3A//www.zoocasa.com/en/home/privacy_policy) for the most accurate reproduction.*
 
 # Real Estate Search - Zoocasa
 
