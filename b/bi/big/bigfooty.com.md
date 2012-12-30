@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfooty.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608071404id_/http%3A//biginternetgroup.com/wp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfooty.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230204133id_/http%3A//biginternetgroup.com/wp/privacy) for the most accurate reproduction.*
 
 # Big Internet Group | Privacy
 
