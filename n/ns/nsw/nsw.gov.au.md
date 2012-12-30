@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511123905id_/http%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsw.gov.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182425id_/http%3A//www.nsw.gov.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | NSW Government
 
-This website is maintained by the Strategic Communications & Government Advertising Branch in the New South Wales Department of Premier and Cabinet. This Privacy Policy applies to all the publicly accessible pages on this site located at [www.nsw.gov.au](http://www.nsw.gov.au/).
+This website is maintained by the Strategic Communications Branch in the New South Wales Department of Premier and Cabinet. This Privacy Policy applies to all the publicly accessible pages on this site located at [www.nsw.gov.au](http://www.nsw.gov.au/).
 
 The Department of Premier and Cabinet does not have any responsibility for the privacy policies or practices of third party sites linked to this site. If you have any questions about this site, or the application of this Privacy Policy or a request for access to information held please contact:
 
