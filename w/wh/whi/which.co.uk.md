@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623063531id_/http%3A//www.which.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the which.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192055id_/http%3A//www.which.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Which? Privacy policy
 
@@ -11,6 +11,8 @@ This policy explains how we use any personal information we collect about you wh
 We, or companies who work for us, collect information about you when you register with us, place an order for our products and services, sign up to one of our newsletters or get involved in our campaigns or our blogs.  We also collect information when you complete our surveys, provide feedback or reviews, send us enquiries or enter our competitions. This may cover anything from your contact and delivery details to payment information, or your responses to questionnaires we've sent you and feedback you've provided.
 
 We also collect information about your use of our websites, and how you arrived at our website in the first place. This can include what links or adverts of ours you've viewed or clicked on to reach us, or any search terms you've used.   We can also see which pages of our website have been viewed by you and for how long.  All this information helps us tell what content is popular with our customers so we can prioritise it.  
+
+We record calls for quality, training and monitoring purposes when you call our Customer Services, Which? Legal Services and Which? Mortgage Advisers.
 
 Online, we mostly use cookies to collect this information about you. Please see our [cookie policy](https://web.archive.org/privacy-policy/cookie-policy/) for further information.
 
