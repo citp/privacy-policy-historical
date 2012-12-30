@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliverbonas.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510063359id_/http%3A//www.oliverbonas.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverbonas.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055602id_/http%3A//www.oliverbonas.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oliver Bonas
 
@@ -55,4 +55,4 @@ Unit F Davis Road Industrial Estate
 Davis Road Chessington  
 KT9 1TQ
 
-"Give me a museum and I'll fill it. "  ~ Pablo Picasso 
+"The fruits of life fall into the hands of those who climb the tree and pick them."  ~ Earl Tupper 
