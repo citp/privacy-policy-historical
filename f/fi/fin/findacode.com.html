@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630225755id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230233759id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <script src="https://c.compete.com/bootstrap/4636535d1f8315afea3131fb5009868c/bootstrap.js" type="text/javascript" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -25,7 +25,7 @@ if (iframed != false) {
 
 <!-- Our styles and javascript -->
 <link type="text/css" href="/static/v1a/css/global.css" rel="stylesheet">
-<script type="text/javascript" src="/static/js/medical-codes.js"></script><style type="text/css">.switchcontent{display:none;}</style>
+<link type="text/css" href="/static/v1a/css/buttonlist.css" rel="stylesheet">
 <script type="text/javascript" src="/static/js/get_page.js"></script>
 <script type="text/javascript" src="/static/js/cookie_func.js"></script>
 
@@ -75,7 +75,7 @@ $(document).ready(function() {
   }
 
   //Date setter (quarter picker)
-  $('#viewing_date').attr('size',10).datepicker({dateFormat:'yy-mm-dd',buttonImage:'/static/images/calendar2.gif',buttonImageOnly:true,showOn:'both',minDate:'2010-01-1',maxDate:'2012-06-30'});
+  $('#viewing_date').attr('size',10).datepicker({dateFormat:'yy-mm-dd',buttonImage:'/static/images/calendar2.gif',buttonImageOnly:true,showOn:'both',minDate:'2009-10-1',maxDate:'2012-12-31'});
   $('#quarter_date_picker').dialog({
     autoOpen:false,
     modal:true,
@@ -107,9 +107,146 @@ $(document).ready(function() {
   
   $('a:contains(Sign In)').click(function(){return signin_popopen();});
   });
+$(function(){
+  //better... but what if screen width isn't even 600? any way for it to still work then? I want it to be at most 600 but stretch to as much of that width as possible.
+  var dialogWidth = 600;
+  var dialogMargin = 20;
+  $("#mycodes_dialog").dialog({modal:true,autoOpen:false,width:dialogWidth,height:$(window).height()-(dialogMargin*2),position:[($(window).width()-dialogWidth)/2,dialogMargin]});
+//  $(window).resize(function(){
+//    $('#mycodes_dialog').dialog({position:[($(window).width()-dialogWidth)/2,dialogMargin],height:$(window).height()-(dialogMargin*2)});
+//  });
+  $('#mycodes_dialog_launcher').click(function(){
+    if ($('#mycodes_dialog_contents').html() == '') {
+      $('#mycodes_dialog').dialog('option','title','Code Lists').dialog('open').show();
+      load_codelist_list();
+    } else {
+      $('#mycodes_dialog').dialog('open');
+    }
+    return false;
+  });
+  $('.ui-widget-button').addClass('ui-state-default ui-corner-all').hover(
+    function() { $(this).addClass('ui-state-hover'); },
+    function() { $(this).removeClass('ui-state-hover'); }
+  );
+  $('#password_dialog').dialog({'modal':true,'autoOpen':false});
+});
+function load_codelist_list() {
+  $('#mycodes_dialog_contents').fadeTo('fast',.01);
+  $.get('/ajax/ajax-mycodes-codelists.php', {'user_id':"0"}, function(response){
+    if (!response) {
+      alert('Invalid JSON response.');
+    } else if (!response.success) {
+      alert(response.message);
+    } else {
+      var content = "";
+      if (response.data.count > 0) {
+        content += "<ul class='fac_buttonlist'>";
+        $.each(response.data.code_lists, function(){
+          content += "<li class='fac_bl_item'><a href='#' onclick=\"load_codelist('"+this.list_id+"');return false;\">" + this.title + "</a></li>";
+        });
+        content += "</ul>";
+      } else {
+        content += "<p>No code lists to show.</p>";
+      }
+      
+      $('#mycodes_dialog')
+        .dialog('option','title','Code Lists').dialog('open')
+        .dialog('option','buttons',{
+          "New" : function(){window.location='/tools/code-list-edit.php?l=0'},
+          "Edit" : function(){window.location='/tools/code-lists-manage.php'},
+          "Close" : function(){$(this).dialog('close')}
+        });
+      $('#mycodes_dialog_contents').html(content).fadeTo('fast',1);
+    }
+  });
+}
+function load_codelist(list_id) {
+  $('#mycodes_dialog_contents').fadeTo('fast',.01);
+  $.get('/ajax/ajax-mycodes-codelist-codes.php', {'user_id':"0",'list_id':list_id}, function(response){
+    if (!response) {
+      alert('Invalid JSON response.');
+    } else if (!response.success) {
+      alert(response.message);
+    } else {
+      var content = "";
+      content += "<button href='#' onclick=\"load_codelist_list(); return false;\">&larr; Back</button><br />";
+      if (response.data.count > 0) {
+        content += "<ul class='fac_buttonlist'>";
+        $.each(response.data.codes, function(){
+          content += "<li class='fac_bl_item'>";
+          if (this.has_notes == 'Y') {
+            content += "<span class='fac_bl_item_r'><a href='#' onclick=\"load_code_notes('"+list_id+"','"+this.code_set+"','"+this.code+"');return false;\"><b>Notes</b></a></span>";
+          }
+          content += "<a href='/code.php?set="+this.code_set+"&c="+this.code+"'><b>"+this.code_set + "&nbsp;" + this.code + "</b></br>";
+          content += (this.descr || "");
+          content += "</a>";
+          content += "</li>";
+        });
+        content += "</ul>";
+      } else {
+        content += "<p>No codes to show.</p>";
+      }
+      
+      //Set up buttons (detect if code is in current list and make add/remove button accordingly)
+      var buttons = {};
+      var _code_set = "";
+      var _code = "";
+      if (_code_set != '' && _code != '' ) {
+        var code_exists_in_list = $.grep(response.data.codes, function(c){ return (c.code_set == _code_set && c.code == _code); }).length;
+        if (code_exists_in_list) {
+          buttons["Remove "+_code_set+" "+_code] = function(){
+            $.get('/ajax/ajax-mycodes-codelist-code-remove.php', {'user_id':"0",'list_id':list_id,'code_set':_code_set,'code':_code}, function(){
+              load_codelist(list_id);
+            });
+          };
+        } else {
+          buttons["Add "+_code_set+" "+_code] = function(){
+            $.get('/ajax/ajax-mycodes-codelist-code-add.php', {'user_id':"0",'list_id':list_id,'code_set':_code_set,'code':_code}, function(){
+              load_codelist(list_id);
+            });
+          };
+        }
+      }
+      buttons["Edit"] = function(){window.location="/tools/code-list-edit.php?l="+list_id;};
+      buttons["Close"] = function(){$(this).dialog('close')};
+      
+      $('#mycodes_dialog')
+        .dialog('option','title',response.data.code_list.title)
+        .dialog('option','buttons',buttons)
+        .scrollTop(0);
+      $('#mycodes_dialog_contents').html(content).fadeTo('fast',1);
+    }
+  });
+}
+function load_code_notes(list_id, code_set, code) {
+  $('#mycodes_dialog_contents').fadeTo('fast',.01);
+  $.get('/ajax/ajax-mycodes-codelist-code-notes.php', {'user_id':"0",'list_id':list_id,'code_set':code_set,'code':code}, function(response){
+    if (!response) {
+      alert('Invalid JSON response.');
+    } else if (!response.success) {
+      alert(response.message);
+    } else {
+      var content = "";
+      content += "<button href='#' onclick=\"load_codelist('"+list_id+"');return false;\">&larr; Back</button>";
+      content += "<h2>My Notes</h2>";
+      content += response.data.notes.my_notes || "<i>No notes to show.</i>";
+      content += "<h2>Admin Notes</h2>";
+      content += response.data.notes.admin_notes || "<i>No notes to show.</i>";
+      
+      $('#mycodes_dialog')
+        .dialog('option','title',response.data.code.code_set+" "+response.data.code.code+" "+(response.data.code.descr || ""))
+        .dialog('option','buttons',{
+          "Edit" : function(){window.location="/my-codes-edit.php?set="+response.data.code.code_set+"&c="+response.data.code.code;},
+          "Close" : function(){$(this).dialog('close')}
+        });
+      $('#mycodes_dialog_contents').html(content).fadeTo('fast',1);
+    }
+  });
+}
 function signin_popopen(no_animate) {
     header_height = '225px'; body_top_padding = '225px';
   $('#header_signin').show();
+  $('#main_signin').focus();
   if (no_animate) {
     $('div.header').css({'height':header_height});
     $('div.header_shadow').css({'top':header_height});
@@ -127,6 +264,17 @@ function signin_popclose(){
   $('div.body_section').animate({'padding-top':'87px'});
   $('#header_signin').hide();
 }
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20540029-1']);
+  _gaq.push(['_setDomainName', 'findacode.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 <style type="text/css">
 ul#menu li.mega div.menu_pop {
@@ -158,6 +306,13 @@ ul#menu li.mega div.menu_pop {
 .fac-icon-tool_clipboard{ background-position: 0 -480px; width: 22px; height: 22px; } 
 .fac-icon-viewmag{ background-position: 0 -512px; width: 22px; height: 22px; } 
 .new_item { font-weight:bold;color:red;font-size:8pt;vertical-align:super;line-height:0px; }
+.ui-widget-button {
+  cursor:pointer;
+  display:inline-block;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+} 
 </style>
 </head>
 
@@ -405,7 +560,7 @@ ul#menu li.mega div.menu_pop {
       <li class="mega" style="width:88px;"><a href="/account/subscribe.php"><b>Subscribe</b></a></li>
       <li class="mega" style="width:69px;"><a href="/signin.html" onclick="signin_popopen(); return false"><b>Sign In</b></a></li>
     </ul>
-    
+    <div id="mycodes_dialog" style="-webkit-overflow-scrolling: touch;display:none;" title="Code Lists"><div id="mycodes_dialog_contents" style="-webkit-transform: translate3d(0,0,0);"></div></div>
     <div style="position:absolute;top:2px;right:0px;text-align:right;color:white;width:330px;border:none;">
       <form action="/search/search.php" method="post" name="search2" id="search2" style="">
       	<table style="border:none;">
@@ -486,18 +641,26 @@ ul#menu li.mega div.menu_pop {
       </div>
 
       <div class="header_body_right" style="padding:0;margin-top:8px;">
-&nbsp;Guest<br>Viewing: &nbsp;Jun 30, 2012
+&nbsp;Guest<br>Viewing: &nbsp;Dec 30, 2012
     </div>
     
-    <div id="header_signin" style="display:none;clear:both;text-align:center;height:140px;width:900px;border:1px solid #aaa;margin:10px auto;background-image: url('/static/v1a/images/green-gradient.jpg') !important; background-repeat: repeat-x;">
+    <div id="header_signin" style="display:none;clear:both;text-align:center;height:155px;width:900px;border:1px solid #aaa;margin:10px auto;background-image: url('/static/v1a/images/green-gradient.jpg') !important; background-repeat: repeat-x;">
       <div style="float:left;width:450px;border: 0px solid yellow;">
       <h2>Sign in to Find-A-Code</h2>
       <form action="https://www.findacode.com/aboutus/privacy-policy.html" method="post" style="margin:0px 0px 5px 0px;">
         <input type="hidden" name="signin" value="true">
         <input type="hidden" name="orig_page" value="/aboutus/privacy-policy.html">
-                <div style="padding:3px;"><span style="display:inline-block;width:90px;text-align:right;">Subscriber ID:&nbsp;</span><input type="text" name="id" size="30"></div>
-        <div style="padding:3px;"><span style="display:inline-block;width:90px;text-align:right;">Password:&nbsp;</span><input type="password" name="password" size="30"></div>
-        <div style="padding:3px;"><span style="display:inline-block;width:90px"></span><input type="submit" value="Sign In" style="padding:2px 10px;margin-right:60px;">&nbsp;&nbsp;<a style="display:inline;" href="/lost-password.html">Lost Password?</a></div>
+                <table border="0">
+          <tbody><tr><td class="tdr" style="vertical-align:middle;">Email Address:</td><td><input type="text" name="id" id="main_signin" style="width:200px;"></td></tr>
+          <tr><td class="tdr" style="vertical-align:middle;">Password:</td><td><input type="password" name="password" style="width:200px;">
+<span class="ui-widget-button ui-corner-all" onclick="$('#password_dialog').dialog('open');" style="vertical-align:text-bottom;"><span class="ui-icon ui-icon-help" title="Password help"></span></span>
+</td></tr>
+          <tr><td></td><td><input type="submit" value="Sign In" style="width:108px;font-size:15px;font-weight:bold;">&nbsp;&nbsp;<a style="display:inline;" href="/lost-password.html">Lost Password?</a></td></tr>
+        </tbody></table>
+	<div id="password_dialog" title="Password Help" style="display:none;">
+          <p>Enter the email address and password you used when creating your account to sign in.</p>
+          <p>Don't remember your password? <a href="/lost-password.html" style="white-space:nowrap;font-weight:bold;">Click here to reset it.</a></p>
+        </div>
       </form>
       </div>
       <div style="float:right;margin:1px 3px 0px 0px;">
@@ -526,7 +689,13 @@ ul#menu li.mega div.menu_pop {
       </div>
       <div style="clear:both;"></div>
     </div>
-    
+
+   <noscript>
+  <p class='ui-state-highlight' style='padding:5px;'>
+  <b>Important:</b> FindACode.com uses Javascript to provide a rich, interactive user experience. We have detected that your browser either does not support Javascript or has been configured to not allow it.
+  To use FindACode.com, you will need to either change your Javascript settings or use a different web browser.
+  <p>
+</noscript> 
 
 
 <h1>FindACode.com Privacy Policy</h1>
@@ -653,16 +822,28 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
           <a href="/icd-10-pcs/icd-10-pcs-procedure-codes.html" title="ICD-10-PCS Procedure Codes">ICD-10-PCS Procedure Codes</a> - 
           <a href="/medical-code-sets/icd-9-to-icd-10-crosswalk.html" title="ICD-9 to ICD-10 Crosswalks">ICD-9 to ICD-10 Crosswalk</a> - 
           <a href="/medicare/pqri/index.html" title="Physicians Quality Reporting Initiative PQRI">PQRI Physicians Quality Reporting Initiative</a> - 
+          <a href="http://www.findacode.com/pqri" title="Physicians Quality Reporting System PQRS">PQRI Physicians Quality Reporting System</a> - 
           <a href="/medical-code-sets/annual-code-changes.html" title="Annual Code Changes">Annual Code Changes</a> - 
+<!--
           <a href="/medical-code-sets/2011-new-deleted-medical-codes.html" title="2011 New &amp; Deleted Medical Codes">2011 New &amp; Deleted Medical Codes</a> - 
           <a href="/cpt/2011-cpt-codes-new-deleted.html" title="2011 CPT Codes New, Deleted &amp; Changed">2011 CPT New, Changed and Deleted Codes</a> - 
           <a href="/hcpcs/2011-hcpcs-codes-new-deleted.html" title="2011 HCPCS Codes New, Deleted &amp; Changed">2011 HCPCS New, Changed and Deleted Codes</a> - 
           <a href="/icd-9/2011-icd9-codes-new-deleted.html" title="2011 ICD-9-CM Codes New, Deleted &amp; Changed">2011 ICD-9-CM New, Changed and Deleted Codes</a> - 
           <a href="/medical-code-sets/2010-new-deleted-medical-codes.html" title="2010 New &amp; Deleted Medical Codes">2010 New &amp; Deleted Medical Codes</a> - 
           <a href="/medical-code-sets/2009-new-deleted-medical-codes.html" title="2009 New &amp; Deleted Medical Codes">2009 New &amp; Deleted Medical Codes</a> - 
+-->          
+          <a href="/cms1500-claim-form/cms1500-claim-form.html" title="CMS 1500 Claim Form">CMS 1500 Claim Form</a> -
           <a href="/cms1500-claim-form/cms1500-place-of-service-codes.html" title="Place of Service Codes">Place of Service Codes</a> - 
+          <a href="/ub04-claim-form/ub04-cms1450-claim-form.html" title="UB04/CMS1450 Claim Form, Codes &amp; Information">UB04 Claim Form</a> -
           <a href="/medical-code-sets/drgs-apcs.html" title="DRGs &amp; APCs (Diagnosis-Related Group &amp; Ambulatory Payment Classification)">DRGs &amp; APCs</a>
-        <br>
+          <a href="/tools/taxonomy-codes.html" title="Provider Taxonomy Codes">Provider Taxonomy Codes</a> - 
+          <a href="/ndc/ndc-national-drug-codes.html" title="NDC National Drug Codes">NDC National Drug Codes</a> -
+          <a href="/anatomy-physiology-online/" title="Anatomy &amp; Physiology Online for Coders">Anatomy &amp; Physiology Online for Coders</a> -
+          <a href="http://www.findacode.com/tools/npi-lookup.html" title="NPI Look-Up Tool (National Provider Identifier number)">NPI Look-Up Tool (National Provider Identifier number)</a> - 
+          <a href="/tools/ncci-check.php" title="NCCI Edits Validator">NCCI Edits Validator</a> - 
+          <a href="/scrubber/scrubber.php" title="Scrub-A-Claim - Medical Claim Scrubber">Scrub-A-Claim - Medical Claim Scrubber</a> - 
+          <a href="/articles/index.html" title="Medical Coding and Billing Articles">Medical Coding and Billing Articles</a>
+          <br>
         </div>
 
         <div style="line-height:150%;margin-top:7px;">
@@ -675,7 +856,7 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
           </div>
           <div style="margin-bottom:7px;">
             Find A Code, LLC - 95 W. 200 N. Ste 2, Spanish Fork, UT 84660<br>
-            Phone 801-770-4203 (9-5 Mountain) - Fax (801) 770-4428
+            Phone 801-770-4203 (8am - 5pm Mountain) - Fax (801) 770-4428
           </div>
           <div style="margin-bottom:7px;">
           CPT<sup><small>®</small></sup> copyright 2011 American Medical Association - All Rights Reserved<br>
@@ -733,11 +914,11 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
 			  </a>
 			</td>
 			</tr>
-        </tbody></table>
-	</div>
+        </tbody>
+    </table>    
+        </div>
+  
       </td>
-
-      
     </tr>
   </tbody></table>
 
@@ -782,7 +963,7 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
       <input type="hidden" name="FirstName" value="">
       <input type="hidden" name="LastName" value="Guest">
       <input type="hidden" name="Email" value="guest@findacode.com">
-      <input type="hidden" name="Date" value="Saturday 30th of June 2012 04:57:57 PM">
+      <input type="hidden" name="Date" value="Sunday 30th of December 2012 04:38:16 PM">
       <input type="hidden" name="Browser" value="ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)">
       <input type="hidden" name="Cur_Page" value="/aboutus/privacy-policy.html">
       <input type="hidden" name="Cur_Uid" value="0">
@@ -795,15 +976,20 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
   </div> <!-- footer -->
 
   <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20540029-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  /* <![CDATA[ */
+  var google_conversion_id = 1040915089;
+  var google_conversion_label = "qFA4CPXPzwMQkbWs8AM";
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+  /* ]]> */
   </script>
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+  </script>
+  <noscript>
+  <div style="display:inline;">
+  <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1040915089/?value=0&amp;label=qFA4CPXPzwMQkbWs8AM&amp;guid=ON&amp;script=0"/>
+  </div>
+  </noscript>
   <!-- Quantcast Tag -->
   <script type="text/javascript">
   var _qevents = _qevents || [];
