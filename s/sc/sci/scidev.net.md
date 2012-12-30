@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scidev.net privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624092418id_/http%3A//www.scidev.net/en/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scidev.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184304id_/http%3A//www.scidev.net/en/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - SciDev.Net
 
@@ -16,7 +16,7 @@ We encourage our readers to express their opinions, and to facilitate this we ha
 
 Another key benefit offered by registration is free access to our notices service. This lets you post relevant grants, jobs, events and other announcements. The notices are included within our weekly email alerts, and therefore reach a wide audience of relevant individuals. When signing-up on the SciDev.Net website, we require some personal information, including your name, profession, country and email address. We also ask some further questions in order to gain a clearer understanding of our users as a whole. These relate to your profession and place of work. 
 
-Your personal information is password protected for security, and you can access and change your details and requirements at any time. Signing up with SciDev.Net is free and you can unsubscribe online or by emailing [support@scidev.net](https://web.archive.org/web/20120624092418id_/http://www.scidev.net/en/content/privacy-policy/support@scidev.net) with your details. We reserve the right to contact you by email from time to time about our activities, or to invite you to participate in surveys to help improve our services. 
+Your personal information is password protected for security, and you can access and change your details and requirements at any time. Signing up with SciDev.Net is free and you can unsubscribe online or by emailing [support@scidev.net](https://web.archive.org/web/20121230184304id_/http://www.scidev.net/en/content/privacy-policy/support@scidev.net) with your details. We reserve the right to contact you by email from time to time about our activities, or to invite you to participate in surveys to help improve our services. 
 
 As this data is stored in the United Kingdom, you have certain rights in British law under the Data Protection Acts 1984 and 1988. In particular, you have the right to be told what personal information we hold about you on our databases. If you require further information, you should write to us, at: 
 
