@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chinaspringtour.com privacy policy that was archived on 2012-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120604234432id_/http%3A//www.chinaspringtour.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaspringtour.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230065318id_/http%3A//www.chinaspringtour.com/policy.html) for the most accurate reproduction.*
 
-# China tours, Asian travel, cheap flight deals, China expo travel, China travel guide
+# ChinaSpringTour
 
 ChinaSpringTour's mission is to provide you effortless and worry-free travel around China. Personal information submitted to us via the Internet, mail, telephone, fax or by any other means, will be used only to arrange your travel to and around China, and will never be sold, rented, shared, or passed on to any unauthorized third-party. ChinaSpringTour takes full responsibility for protecting the security and confidentiality of personal information that you share with us. Earning your trust is very important to us!
 
