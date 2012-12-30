@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the ourbabynamer.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502092702id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourbabynamer.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184819id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
- 
-
-  At OurBabyNamer.com we understand your need to maintain your privacy as you surf and shop on the internet. For this reason we are providing our privacy policy. This policy applies to the use by consumers of OurBabyNamer.com and governs online data collection and usage by OurBabyNamer.com only. 
+   
+At OurBabyNamer.com we understand your need to maintain your privacy as you surf and shop on the internet. For this reason we are providing our privacy policy. This policy applies to the use by consumers of OurBabyNamer.com and governs online data collection and usage by OurBabyNamer.com only. 
 
 **What Information We Collect**  
 In an effort to understand our visitors, analyze site traffic and continue to improve our business, the following information may be collected: IP address, browser type, domain name, access times and referring web site. 
