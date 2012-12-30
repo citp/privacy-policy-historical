@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505190219id_/http%3A//www.the-blueprints.com/information/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230190652id_/http%3A//www.the-blueprints.com/information/privacypolicy) for the most accurate reproduction.*
 
 # The-Blueprints.com - Privacy Policy
+
+This page is only available in english. 
 
 **Privacy**  
 We take your privacy very seriously and will never sell, share, or otherwise disclose any of your personal information to anyone. Information that we collect is used only to enhance your experience on our web site and for troubleshooting purposes. 
