@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstchoice.co.uk privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630232247id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstchoice.co.uk privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231000021id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/fc-general.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceParam name="page_title" type="text" value="Our Policies | Privacy Policy" --><!-- InstanceParam name="inc1" type="text" value="" --><!-- InstanceParam name="inc2" type="text" value="" --><!-- InstanceParam name="inc3" type="text" value="" --><!-- InstanceParam name="inc4" type="text" value="" --><!-- InstanceParam name="inc5" type="text" value="" --><!-- InstanceParam name="inc6" type="text" value="" -->
@@ -30,6 +30,8 @@
 	<link href="/css/style_dock_ie.css" title="Style" rel="stylesheet" media="screen" />
 <![endif]-->
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable --><!-- InstanceParam name="Intro-paragraph-on" type="boolean" value="false" --><!-- InstanceParam name="Top-section-on" type="boolean" value="true" --><!-- InstanceParam name="Top-info-block-on" type="boolean" value="false" --><!-- InstanceParam name="Two-column-section-on" type="boolean" value="false" --><!-- InstanceParam name="One-column-section-on" type="boolean" value="false" --><!-- InstanceParam name="Linked-list-section-on" type="boolean" value="false" --><!-- InstanceParam name="Site-map-container-on" type="boolean" value="false" --><!-- InstanceParam name="Top-section-bordered" type="boolean" value="false" --><!-- InstanceParam name="Hero-background-image" type="text" value="/images/hero/our-policies-privacy.jpg" --><!-- InstanceParam name="info-block-include" type="text" value="" -->
+<!-- Include only js code, since it is present in HEAD tag. -->
+<script type="text/javascript" src="//nexus.ensighten.com/tui/Bootstrap.js"></script>
 <script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 <body>
 <!--start accessibility-->
@@ -79,7 +81,16 @@
 
 <script type="text/javascript" src="/js/po_header.js"></script>
 
-
+<script type="text/javascript">
+	function ValidateSearchbox(){
+		var searchbox = document.getElementById("searchWeb");	
+		if ((searchbox.value=='Enter keyword/hotel name')||(searchbox.value=="")){
+			alert("Please enter a keyword");
+			searchbox.focus();
+			return false;
+		}
+	}
+</script>
 <div id="branding" class="header">
 	<a class="brand" href="/"><img src="/images/header/first-choice-logo.gif" alt="First Choice - The Home of All Inclusive"></a>
 	<span class="advert">
@@ -88,7 +99,7 @@
    
    <script type="text/javascript">   
      mboxCreate("F_Header_Banner");
-   </script><div id="mboxMarker-default-F_Header_Banner-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://tuiuklimitedfirstcho.tt.omtrdc.net/m2/tuiuklimitedfirstcho/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580496284154-933517&amp;mboxPage=1580496291058-336913&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;mbox=F_Header_Banner&amp;mboxId=0&amp;mboxTime=1580496291172&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20120630232247id_%2Fhttp%3A%2F%2Fwww.firstchoice.co.uk%2Four-policies%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=40" language="JavaScript"></script>
+   </script><div id="mboxMarker-default-F_Header_Banner-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://tuiuklimitedfirstcho.tt.omtrdc.net/m2/tuiuklimitedfirstcho/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580496284587-995586&amp;mboxPage=1580496288814-620660&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;mbox=F_Header_Banner&amp;mboxId=0&amp;mboxTime=1580496288875&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121231000021id_%2Fhttp%3A%2F%2Fwww.firstchoice.co.uk%2Four-policies%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=40" language="JavaScript"></script>
    
  
  </span>
@@ -131,9 +142,9 @@
 		<li id="navFly"><a href="http://flights.firstchoice.co.uk/">Flights</a></li>
 		<li id="navHotels"><a href="/hotels/">Hotels</a></li>
 		<li id="navExtras"><a href="/holiday-extras/">Extras</a></li>
-		<li id="navDest"><a href="/destinations/">Destinations</a></li>
+		<li id="navDest"><a href="/holiday/destinations/">Destinations</a></li>
 	</ul>
-	<form action="/gsa/search" method="get" id="gs" class="search">
+	<form action="/gsa/search" method="get" id="gs" class="search" onsubmit="return ValidateSearchbox();">
 		<span class="searchBox"><input type="text" onblur="if(this.value=='')this.value='Enter keyword/hotel name'" onfocus="if(this.value=='Enter keyword/hotel name')this.value=''" value="Enter keyword/hotel name" name="q" id="searchWeb"></span>
 		<span class="button"><input type="submit" value="Go" title="Search First Choice" id="googleMiniSearchBtn" class="submit"></span>
 		<input type="hidden" value="firstchoice_collection" name="site">
@@ -142,6 +153,13 @@
 		<input type="hidden" value="xml_no_dtd" name="output">
 	</form>
 </div>
+
+<div class="mboxDefault" style="visibility: visible; display: block;"></div> 
+   
+   <script type="text/javascript">   
+     mboxCreate("F_PromoStrip");
+   </script><div id="mboxMarker-default-F_PromoStrip-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://tuiuklimitedfirstcho.tt.omtrdc.net/m2/tuiuklimitedfirstcho/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580496284587-995586&amp;mboxPage=1580496288814-620660&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=2&amp;mbox=F_PromoStrip&amp;mboxId=0&amp;mboxTime=1580496288900&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121231000021id_%2Fhttp%3A%2F%2Fwww.firstchoice.co.uk%2Four-policies%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=40" language="JavaScript"></script>
+
 
 
 
@@ -309,8 +327,6 @@ This refers to a combination of information such as your name, contact details, 
 <!-- The REQUEST_URI is /our-policies/privacy-policy/ -->
 
 
-   
-
 <noscript>
 	<style>
 		#footerTicker {display:none}
@@ -435,19 +451,15 @@ This refers to a combination of information such as your name, contact details, 
 		<a href="http://www.facebook.com/#!/Firstchoiceholidays" class="facebookIcon">&nbsp;</a>
 	</p>
 	<div class="clear"></div>
-	<p id="msgATOL">The air holiday packages shown are ATOL protected by the Civil Aviation Authority. Our ATOL number is ATOL 2524.
-	ATOL protection does not apply to all holiday and travel services shown on this website.
-	Please see our booking conditions for more information
-	</p>
 </div>
 
 <script type="text/javascript" src="/js/combined/footer.combined.js"></script>
 
-
     <!--Omniture VS Tag START .-->
-    <script type="text/javascript" src="/js/combined/footer.omniture.combined.js"></script>
-    <!--Omniture VS Tag END-->
+<script type="text/javascript" src="/js/js-omniture/Firstchoicevs.js"></script>
 
+<script type="text/javascript" src="/js/omniture/fcvsmedia.js"></script>
+    <!--Omniture VS Tag END-->
 
 <!-- Start Quantcast Tag -->
 <script type="text/javascript"> _qoptions={qacct:"p-95yI8caNxXk9U",labels:""}; qacct="p-95yI8caNxXk9U";</script>
