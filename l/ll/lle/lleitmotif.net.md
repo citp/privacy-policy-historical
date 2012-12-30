@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lleitmotif.net privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509223430id_/http%3A//www.lleitmotif.net/sales-enquiries/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lleitmotif.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230230506id_/http%3A//www.lleitmotif.net/sales-enquiries/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | lleitmotif
 
@@ -76,4 +76,10 @@ We may amend this Privacy Policy from time to time so that it accurately reflect
 ---  
 your cart is empty  
   
+[   
+_Dearest_](https://web.archive.org/product/1067/dearest-t-shirt)
+
+Price: ~~SGD$15.00~~   
+Now: SGD$9.90
+
 Receive emails about our promotion, new product information and news!
