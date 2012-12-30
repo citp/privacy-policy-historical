@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merge.com.au privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221234832id_/http%3A//www.merge.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merge.com.au privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230110325id_/http%3A//www.merge.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Merge
 
