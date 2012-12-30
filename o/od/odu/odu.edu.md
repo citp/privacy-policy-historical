@@ -1,52 +1,74 @@
-> *The following text is extracted and transformed from the odu.edu privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232109id_/http%3A//www.odu.edu/oduhome/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odu.edu privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230234419id_/http%3A//www.odu.edu/privacy) for the most accurate reproduction.*
 
-# Old Dominion University
+# Internet Privacy Statement - Old Dominion University
+
+  * [ODU Home](https://web.archive.org/)
+  * Internet Privacy Statement
+
+
 
 We reserve the right to amend our Internet Privacy Policy and Internet Privacy Policy Statement at any time without notice.
 
-**Governing Laws**
+## Governing laws
 
-ODU protects records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the Virginia Privacy Protection Act of 1976, the Virginia Freedom of Information Act, and by any applicable U.S. federal laws. 
+ODU protects records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the Virginia Privacy Protection Act of 1976, the Virginia Freedom of Information Act, and by any applicable U.S. federal laws.
 
-**Links to other websites**
+## Links to other websites
 
-The Web site may contain links to other public or private Web sites, whose privacy practices we do not control.  ODU does not take responsibility for the privacy practices of those Web sites or their content practices. You should check each Web site in order to understand its privacy policy
+The website may contain links to other public or private websites, whose privacy practices we do not control. ODU does not take responsibility for the privacy practices of those websites or their content practices. You should check each website in order to understand its privacy policy
 
-**Information we collect**
+## Information we collect
 
-_Routing information_ **-** the Internet domain and Internet address of the computer you are using.
+### Routing information
 
-_Essential technical information_ **-** identification of the page or service you are requesting, type of browser and operating system and the time and date of access.
+The Internet domain and Internet address of the computer you are using.
 
-_Nonessential technical information_ **  \- **the Internet address of the website from which you linked directly to our website.
+### Essential technical information
 
-_Optional information_ **-** when you send email, we collect your name, email address and the content of your email.  When you complete online forms, we collect the data you choose to submit and confirm.
+Identification of the page or service you are requesting, type of browser and operating system and the time and date of access.
 
-**How information is collected and used**
+### Nonessential technical information
 
-In general, users may visit the Old Dominion University website without being asked to share personal information. There are times, however, when personal information must be collected. There is no legal requirement for you to provide any information at our website.  You should also be aware that it may be not be possible to complete business transactions using this Web site without this personal information.  As an example, ODU may require your e-mail address in order to communicate with you.  In providing information to ODU through this Web site, you are agreeing to make such information available to the University so that it can meet its educational and business objectives.
+The Internet address of the website from which you linked directly to our website.
 
-**The following clarifies how the University may use personal information:**
+### Optional information
 
-_Fulfilling a Request_ **-** When requesting information or services from the University, the information you provide will be used in order to satisfy that request. Information may be shared with a third-party to provide indirect support in fulfilling your request. ****
+When you send email, we collect your name, email address and the content of your email. When you complete online forms, we collect the data you choose to submit and confirm.
 
-_Account and Log On Information_ **-** When you use certain university Web sites, log on and account information may be collected and used by the web site to authenticate your identity so that you may receive a variety of information resources and services. The Web site does not maintain copies of this account and log on information; it is ephemeral, meaning that is only used to validate your identity so that you can obtain the information or services you requested.
+## How information is collected and used
 
-_Usage Information_ **-** ODU routinely analyzes usage patterns on the Web site in order to better provide services to Internet users, primarily students, faculty and staff of the University.  As an example, we routinely collect Web pages access information, domain names where web pages are accessed, time of day, and the version of the browser used.  This information is used to provide a better Web browsing experience for people who use of Web servers the University maintains.
+In general, users may visit the Old Dominion University website without being asked to share personal information. There are times, however, when personal information must be collected. There is no legal requirement for you to provide any information at our website. You should also be aware that it may be not be possible to complete business transactions using this Web site without this personal information. As an example, ODU may require your e-mail address in order to communicate with you. In providing information to ODU through this Web site, you are agreeing to make such information available to the University so that it can meet its educational and business objectives.
 
-_Use of "Cookies"_ **-** This Web server makes use of "cookies."  A cookie is a small piece of information (or data) that the Web server may send in your Internet browser, which is usually stored on your computer. Cookies are designed to improve your Web browsing experience and to make the web site more useful. However, you may choose to disable cookies from your Internet browser. This may affect Web site functionality for you.  
+## The following clarifies how the University may use personal information
 
+### Fulfilling a request
 
-**Digital Millennium Copyright Act (DMCA) -** Refer to the [DMCA Notices](https://web.archive.org/web/20120630232109id_/http%3A//www.odu.edu/oduhome/dmca.shtml) Page for more information. 
+When requesting information or services from the University, the information you provide will be used in order to satisfy that request. Information may be shared with a third-party to provide indirect support in fulfilling your request.
 
-**Pop Up Advertisement Disclaimer**
+### Account & log on information
 
-The Pop-Up advertisements you may be seeing on Old Dominion University's Home page are not coming from the Old Dominion University Web Site.
+When you use certain university websites, log on and account information may be collected and used by the website to authenticate your identity so that you may receive a variety of information resources and services. The website does not maintain copies of this account and log on information; it is ephemeral, meaning that is only used to validate your identity so that you can obtain the information or services you requested.
+
+### Usage information
+
+ODU routinely analyzes usage patterns on the website in order to better provide services to Internet users, primarily students, faculty and staff of the University. As an example, we routinely collect Web pages access information, domain names where web pages are accessed, time of day, and the version of the browser used. This information is used to provide a better Web browsing experience for people who use of Web servers the University maintains.
+
+### Use of "cookies"
+
+This Web server makes use of "cookies." A cookie is a small piece of information (or data) that the Web server may send in your Internet browser, which is usually stored on your computer. Cookies are designed to improve your Web browsing experience and to make the website more useful. However, you may choose to disable cookies from your Internet browser. This may affect website functionality for you.
+
+## Digital Millennium Copyright Act (DMCA)
+
+Refer to the [DMCA Notices](http://facultystaff/computing/policies/dmca) Page for more information.
+
+## Pop up advertisement disclaimer
+
+The Pop-Up advertisements you may be seeing on Old Dominion University's Home page are not coming from the Old Dominion University website.
 
 The advertisements are not generated by Old Dominion University and the University has not contracted with anyone for such advertisement services.
 
 Some Internet sites are programmed to create Pop-up windows when you exit them. When you visit the Old Dominion University website after surfing these websites, you may experience Pop-up windows on the screen.
 
-Also, some free ware programs that you may have installed on your system may cause these Pop-up windows. . These programs (for example: Music and File sharing) support themselves by agreeing to install advertising packages with their product. For more information see this article by wired.com 
+Also, some free ware programs that you may have installed on your system may cause these Pop-up windows. . These programs (for example: Music and File sharing) support themselves by agreeing to install advertising packages with their product. For more information see this article by wired.com
 
-If you are experiencing this problem, you can help us track it by sending email to [webadmin@odu.edu](https://web.archive.org/web/20120630232109id_/http%3A//www.odu.edu/oduhome/feedback.shtml)
+If you are experiencing this problem, you can help us track it by sending email to [webadmin@odu.edu](mailto:webadmin@odu.edu)
