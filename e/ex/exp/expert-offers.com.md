@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the expert-offers.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617030832id_/https%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expert-offers.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230194801id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
 
 # SekiNdo - Privacy Policy
 
    
-|   |  [](http://www.sekindo.co.il/) |  [](http://www.sekindo.com/) |      |  [ Register a New User ](https://www.sekindo.com/account/registerNewUser.php) |    
+|   |  [](http://www.sekindo.com/) |   |      |  [ Register as a New User ](https://web.archive.org/account/registerNewUser.php) |    
 ---|---|---|---|---|---  
 |   |  |   
 ---  
@@ -11,18 +11,18 @@
 ---  
 [   Pending Publishers' Requests](https://web.archive.org/main/managePendingReq.php?id1=0)  
 [   Tool Box](https://web.archive.org/advertiser/adTools.php)  
-[   Create Ad](https://web.archive.org/advertiser/creative.php)  
+[   Order Campaign Design ](https://web.archive.org/advertiser/creative.php)  
    
 |  [   Define Ad Spaces](https://web.archive.org/publisher/spaceStep1.php)  
 ---  
 [   Management & Statistics](https://web.archive.org/publisher/mySpaces.php)  
 [    **The Ad Marketplace**](https://web.archive.org/publisher/searchAds.php)  
-[   Pending Publish Requests](https://web.archive.org/main/managePendingReq.php?id1=1)  
+[   Pending Advertising Requests](https://web.archive.org/main/managePendingReq.php?id1=1)  
    
-|  [   Register a New User](https://web.archive.org/account/registerNewUser.php)  
+|  [   Register to SekiNdo ](https://web.archive.org/account/registerNewUser.php)  
 ---  
 [   Personal Info and Configuration](https://web.archive.org/account/personalInfo.php)  
-[   Billing](https://web.archive.org/account/myBilling.php)  
+[   Billing and payment ](https://web.archive.org/account/myBilling.php)  
    
 |  [   Terms of Service](https://web.archive.org/help/terms.php)  
 ---  
@@ -35,7 +35,7 @@
 ---  
    
    
-|   |  SekiNdo LTD ("SekiNdo", "we", "our" or "us") respects your privacy. This policy explains the accepted privacy practices for the services available at www.sekindo.com (the "Website") and the use of SekiNdo related services and tools (collectively the "Service").   
+|   |  SekiNdo LTD, or any person acting on its behalf, ("SekiNdo", "we", "our" or "us") respects your privacy. This policy explains the accepted privacy practices for the services available at www.sekindo.com (the "Website") and the use of SekiNdo related services and tools (collectively the "Service").   
 ---|---  
    
   |  Personal Information that SekiNdo collects   
