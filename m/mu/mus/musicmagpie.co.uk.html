@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the musicmagpie.co.uk privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622180241id_/http%3A//www.musicmagpie.co.uk/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musicmagpie.co.uk privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230095429id_/http%3A//www.musicmagpie.co.uk/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
 <title>musicMagpie - Selling your music CDs, DVDs, games, blu-rays, mobiles, iPads, iPhones, iPods and Technology products? Sell for cash the best prices paid</title>
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Content-Language" content="en-gb">
@@ -12,122 +12,382 @@
 <meta name="author" content="Updated: 22-May-2012 Author: Entertainment Magpie Limited. Version 5.0 10000005">
 <meta name="copyright" content="© 2012 Entertainment Magpie Limited.">
 <link rel="stylesheet" href="main.css" type="text/css">
+<!-- Required jQuery Files -->
+<script>
+	/**
+	 * Returns a random integer between min and max
+	 * Using Math.round() will give you a non-uniform distribution!
+	 */
+	function checksize()
+	{	
+		if(isNaN(document.getElementById("barcode").value) == false)
+		{	
+			
+			document.getElementById("barcode").maxLength=17;
+			
+		}
+		else
+		{	
+			document.getElementById("barcode").maxLength=40;
+			
+		}
+		
+	}
+	 
+	function getRandomInt (min, max) {
+		return Math.floor(Math.random() * (max - min + 1)) + min;
+	} 
+	
+	function rtrim(stringToTrim) {
+		return stringToTrim.replace(/\s+$/,"");
+	}
+	function validate_data()
+	{	document.getElementById("barcode").value = rtrim(document.getElementById("barcode").value);
+		switch (isNaN(document.getElementById("barcode").value))
+		{	
+			case false: 
+				// is numeric so barcode or IMEI
+				//
+				if(document.sellit.barcode.value == "") // Potentially a barcode
+				{	var mymsg = new Array();
+					mymsg[0] = "Ooops... you haven't entered anything! Please enter your item before clicking 'Get Value'";
+					mymsg[1] = "Aaah shucks... you've just clicked 'Get Value' - we need to know what you want to sell first!";
+					alert(mymsg[getRandomInt (0, 1)]);					
+					return false
+				}
+				if(document.sellit.barcode.value.length >0 && document.sellit.barcode.value.length <8) // Potentially a barcode
+				{	alert("Please enter in a minimum of 8 digits")
+					return false
+				}
+					
+				if(document.sellit.barcode.value.length <13) // is a barcode but lets lpad it
+				{	var dif =  13 -	parseInt(document.sellit.barcode.value.length);
+					var padZero = "";
+					for(i = 1;i<=dif;i++)
+					{	padZero += "0";
+					}
+					document.sellit.barcode.value = padZero + document.sellit.barcode.value;
+					document.getElementById("entry_type").value = "media";
+					return true
+				}
+				
+				if(document.sellit.barcode.value.length >13) // is an IMEI number 15 or 17 chars
+				{	//
+					// Make sellit.action go to Alive 4.0 for IMEI
+					document.getElementById("entry_type").value = "nmi";
+					document.sellit.action="http://www.musicmagpie.co.uk/sellit.asp";
+				}
+				break;
+			
+			
+			case true:
+				// not numeric so alpha / none-media
+				//
+				if(!document.getElementById('prodid').value == "")
+				{	document.getElementById("entry_type").value = "nm";
+					document.sellit.action="http://www.musicmagpie.co.uk/sellit.asp";
+					return true
+				}
+				else
+				{	/*var id = document.sellit.barcode.value.toLowerCase().indexOf('apple');
+					if(parseInt(id)>0)
+					{  document.sellit.barcode.value = document.sellit.barcode.value.substring(id,document.sellit.barcode.value.length)
+					}*/
+					document.getElementById("entry_type").value = "nm";
+					document.sellit.action="http://www.musicmagpie.co.uk/sellit.asp";
+					return true
+				}
+				
+				break;
+			
+		}
+	}
+</script>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.musicmagpie.co.uk/js/jquery-ui-1.8.1.custom.min.js"></script>
+<script src="http://www.musicmagpie.co.uk/js/jquery.client.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" src="http://www.musicmagpie.co.uk/js/script.js"></script>
+
+<script type="text/javascript" src="http://www.musicmagpie.co.uk/js/slider.js"></script>
+
+<script type="text/javascript" src="http://www.musicmagpie.co.uk/js/superfish.js"></script>
+<script type="text/javascript" src="http://www.musicmagpie.co.uk/js/supersubs.js"></script>
+<script type="text/javascript" src="http://www.musicmagpie.co.uk/js/jquery.cookies.js"></script>
+<script type="text/javascript" src="http://www.musicmagpie.co.uk/js/jquery.cookieheader.js"></script>
+<style>
+	td { text-align:left; }
+</style>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4014075-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
 
 </head>
 
 
-<body bottommargin="0" background="images/top_banner_bg.gif" rightmargin="0" topmargin="0" leftmargin="0" onload="MM_preloadImages('images/Hor_home_ON.gif','images/Hor_selling_ON.gif','images/Hor_how_ON.gif','images/Hor_support_ON.gif','images/Hor_about_ON.gif','images/Hor_freebies_ON.gif','images/Hor_char_ON.gif','images/Hor_schools_ON.gif','images/free_kitsON.gif','images/news_ON.gif','images/signinON.gif','images/my_accountON.gif','images/registerON.gif','images/sign_outON.gif','images/TC_blog_ON.gif')">
-<!--Version 5.0 10000003//-->
-<link rel="stylesheet" href="main.css" type="text/css">
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
+<body bottommargin="0" background="images/top_banner_bg.gif" rightmargin="0" topmargin="0" leftmargin="0">
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-
-
-<table width="980" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="top_banner">
-  <tbody><tr> 
-    <td width="20" height="95" align="left" valign="top" background="images/left_top_banner.gif"><img src="images/left_top_banner.gif" width="20" height="95"></td>
-    <td width="400" height="95" valign="top"><a href="http://www.musicmagpie.co.uk/index.asp"><img src="images/logo.gif" title="musicMagpie.co.uk" width="400" height="95" border="0"></a></td>
-    <td width="54" height="95" valign="top"><img src="images/spacer.gif" width="54" height="95"></td>
-    <td width="100%" align="center" valign="middle"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td height="2" align="center" valign="bottom"><img src="images/spacer.gif" width="181" height="5"></td>
-        </tr>
-        <tr> 
-          <td align="center" valign="bottom"> 
-<!-- begin ad tag (tile=1) -->
 <script>
-//<![CDATA[
-ord=Math.random()*10000000000000000;
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/muscmgpiead21/;tile=1;sz=468x60;ord=' + ord + '?"><\/script>');
-//]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/muscmgpiead21/;tile=1;sz=468x60;ord=3153613578389156?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/muscmgpiead21/;tile=1;sz=468x60;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/muscmgpiead21/;tile=1;sz=468x60;ord=123456789?" border="0" alt="" /></a></noscript>
-<!-- end ad tag -->        </td>
-        </tr>
-        <tr> 
-          <td><img src="images/spacer.gif" width="181" height="2"></td>
-        </tr>
-      </tbody></table> 
-      <div align="center">
-        <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-          <tbody><tr>          </tr>
-          <tr>
-            <td><table width="468" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td><img src="images/spacer.gif" width="200" height="15"></td>
-                <td width="87" align="center" valign="bottom">
-                  <a href="https://www.musicmagpie.co.uk/Sellitregistration.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image31','','images/registerON.gif',1)"><img src="images/register.gif" title="Register" name="Image31" width="87" height="24" border="0"></a>
-                  </td>
-                <td width="84" align="center" valign="bottom">
-                  <a href="https://www.musicmagpie.co.uk/login.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image33','','images/signinON.gif',1)"><img src="images/signin.gif" title="Sign In" name="Image33" width="84" height="24" border="0"></a>
-                  </td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-        </tbody></table>
-      </div></td>
-    <td width="38" height="95" valign="top" background="images/right_top_banner.gif"><img src="images/right_top_banner.gif" width="38" height="95"></td>
-  </tr>
-</tbody></table>
-<table width="980" height="49" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><table width="980" height="49" border="0" align="center" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td width="20" height="49" align="left" valign="top"><img src="images/Hor_left.gif" width="20" height="49"></td>
-        <td width="58"><a href="http://www.musicmagpie.co.uk/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image511','','images/Hor_home_ON.gif',1)"><img src="images/Hor_home.gif" name="Image511" width="58" height="49" border="0" id="Image511" title="Home"></a></td>
-        <td width="1"><img src="images/Hor_divider.gif" width="1" height="49"></td>
-        <td width="86"><a href="http://www.musicmagpie.co.uk/sellit.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5112','','images/Hor_selling_ON.gif',1)"><img src="images/Hor_selling.gif" name="Image5112" width="86" height="49" border="0" id="Image5112" title="Start Selling"></a></td>
-        <td width="1"><img src="images/Hor_divider.gif" width="1" height="49"></td>
-        <td width="91"><a href="http://www.musicmagpie.co.uk/sellit_information.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image513','','images/Hor_how_ON.gif',1)"><img src="images/Hor_how.gif" name="Image513" width="91" height="49" border="0" id="Image513" title="How it Works"></a></td>
-        <td width="1"><img src="images/Hor_divider.gif" width="1" height="49"></td>
-        <td width="60"><a href="http://www.musicmagpie.co.uk/faqs.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image514','','images/Hor_support_ON.gif',1)"><img src="images/Hor_support.gif" name="Image514" width="60" height="49" border="0" id="Image514" title="Support"></a></td>
-        <td width="1"><img src="images/Hor_divider.gif" width="1" height="49"></td>
-        <td width="69"><a href="http://www.musicmagpie.co.uk/general_info.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image515','','images/Hor_about_ON.gif',1)"><img src="images/Hor_about.gif" name="Image515" width="69" height="49" border="0" id="Image515" title="About Us"></a></td>
-        <td width="1"><img src="images/Hor_divider.gif" width="1" height="49"></td>
-        <td width="67"><a href="http://www.musicmagpie.co.uk/freebies.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image516','','images/Hor_freebies_ON.gif',1)"><img src="images/Hor_freebies.gif" name="Image516" width="67" height="49" border="0" id="Image516" title="Freebies"></a></td>
-        <td width="1"><img src="images/Hor_divider.gif" width="1" height="49"></td>
-        <td width="70"><a href="http://www.musicmagpie.co.uk/donate/charity.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image518','','images/Hor_char_ON.gif',1)"><img src="images/Hor_char.gif" name="Image518" width="70" height="49" border="0" id="Image518" title="Charities"></a></td>
-        <td width="1"><img src="images/Hor_divider.gif" width="1" height="49"></td>
-        <td width="64"><a href="http://www.musicmagpie.co.uk/schools.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image527','','images/Hor_schools_ON.gif',1)"><img src="images/Hor_schools.gif" name="Image527" width="64" height="49" border="0" id="Image527" title="Schools"></a></td>
-        <td width="1"><img src="images/Hor_divider.gif" width="1" height="49"></td>
-        <td width="68"><a href="http://www.musicmagpie.co.uk/freekits/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image36','','images/free_kitsON.gif',1)"><img src="images/free_kits.gif" title="Free Kits" name="Image36" width="68" height="49" border="0" id="Image36"></a></td>
-        <td width="1"><img src="images/Hor_divider.gif" width="1" height="49"></td>
-        <td width="123"><a href="http://www.musicmagpie.co.uk/reviews.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image530','','images/news_ON.gif',1)"><img src="images/news.gif" name="Image530" width="123" height="49" border="0" id="Image530" title="Customer Reviews"></a></td>
-        <td width="1"><img src="images/Hor_divider.gif" width="1" height="49"></td>
-        <td width="49"><a href="http://www.musicmagpie.co.uk/blog/blog.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image34','','images/TC_blog_ON.gif',1)"><img src="images/TC_blog_off.gif" title="Blog" name="Image34" width="49" height="49" border="0"></a></td>
-        <td width="1"><img src="images/Hor_divider.gif" width="1" height="49"></td>
-        <td width="112"><img src="images/TC_nav_spacer.gif" width="112" height="49"></td>
-        <td width="13"><a href="http://www.musicmagpie.co.uk/blog/blog.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image35','','images/Hor_spacer_ON.gif',1)"><img src="images/TC_nav_end.gif" width="13" height="49" border="0"></a></td>
-        <td width="19" align="right" valign="top"><img src="images/Hor_right.gif" width="19" height="49"></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
+if ("https:" != document.location.protocol) {
+document.write('<link rel="stylesheet" href="http://www.musicmagpie.co.uk/main.css" type="text/css">');
+document.write('<link rel="stylesheet" href="http://www.musicmagpie.co.uk/css/superfish.css" type="text/css">');
+document.write('<link rel="stylesheet" href="http://www.musicmagpie.co.uk/css/navigation.css" type="text/css">');
 
+} else {
+document.write('<link rel="stylesheet" href="https://www.musicmagpie.co.uk/main.css" type="text/css">');
+document.write('<link rel="stylesheet" href="https://www.musicmagpie.co.uk/css/superfish.css" type="text/css">');
+document.write('<link rel="stylesheet" href="https://www.musicmagpie.co.uk/css/navigation.css" type="text/css">');
+} 
+
+
+	$(document).ready(function(){ 
+		$("ul.sf-menu").supersubs({ 
+			minWidth:    12,   // minimum width of sub-menus in em units 
+			maxWidth:    27,   // maximum width of sub-menus in em units 
+			extraWidth:  1     // extra width can ensure lines don't sometimes turn over 
+		}).superfish({
+			delay:       100,                            // one second delay on mouseout 
+			animation:   {opacity:'show'},  // fade-in and slide-down animation 
+			speed:       'fast',                          // faster animation speed 
+			autoArrows:  false,                           // disable generation of arrow mark-up 
+			dropShadows: false,
+			disableHI: true,			// disable drop shadows 
+			pathLevels: 2
+		});
+		/*Silly Apple Fix. Includes jquery.client.js for os and browser detection*/
+		if(($.client.browser == "Safari" || $.client.browser == "Firefox") && $.client.os == "Mac") {
+			$("ul.sf-menu a").css("font-weight","normal");
+			console.log($.client.browser && " " && $.client.os);
+		}
+	}); 
+	
+</script><link rel="stylesheet" href="https://www.musicmagpie.co.uk/main.css" type="text/css"><link rel="stylesheet" href="https://www.musicmagpie.co.uk/css/superfish.css" type="text/css"><link rel="stylesheet" href="https://www.musicmagpie.co.uk/css/navigation.css" type="text/css">
+
+<div id="preloader">
+	<img src="http://www.musicmagpie.co.uk/images/registerON.gif" width="1" height="1">
+	<img src="http://www.musicmagpie.co.uk/images/my_accountON.gif" width="1" height="1">
+	<img src="http://www.musicmagpie.co.uk/images/signinON.gif" width="1" height="1">
+	<img src="http://www.musicmagpie.co.uk/images/sign_outON.gif" width="1" height="1">
+</div>
+<table width="980" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tbody><tr> 
+    <td width="20" height="95" align="left" valign="top"><img src="http://www.musicmagpie.co.uk/images/left_top_banner.gif" width="20" height="95"></td>
+    <td width="400" height="95" valign="top"><a href="http://www.musicmagpie.co.uk/index.asp"><img src="http://www.musicmagpie.co.uk/images/logo4.gif" title="musicMagpie.co.uk" width="417" height="95" border="0"></a></td>
+    <td width="1" height="95" valign="top"><img src="http://www.musicmagpie.co.uk/images/spacer.gif" width="1" height="95"></td>
+  <td align="right" valign="middle">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  <tbody><tr>
+		<td align="right">
+		  <table width="100%" border="0" align="right" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			  <td align="right" valign="bottom">
+				<table border="0" align="right" cellpadding="0" cellspacing="0">
+				  <tbody><tr> 
+					<td height="61" align="right" valign="top">
+					  <script>
+					  if ("https:" != document.location.protocol) { <!-- begin ad tag (tile=1) -->
+					  
+						
+					
+                        //<![CDATA[
+                        ord=Math.random()*10000000000000000;
+                        document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/muscmgpiead21/;tile=1;sz=468x60;ord=' + ord + '?"><\/script>');
+                        //]]>
+
+                        
+                        
+                        <!-- end ad tag -->
+						} 
+						</script>
+					</td>
+				  </tr>
+				</tbody></table>  
+			  </td>
+			</tr>  
+		  </tbody></table>
+		</td>
+	  </tr>
+	  <tr>
+		<td align="right">
+		  <table width="468" border="0" align="right" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			  <td>
+				<img src="http://www.musicmagpie.co.uk/images/spacer.gif" width="180" height="15">
+			  </td>
+			  <td width="125" align="center" valign="bottom"><a href="https://www.musicmagpie.co.uk/Sellitregistration.asp" id="register" title="Register"></a>
+			  </td>
+			  <td width="84" align="center" valign="bottom"><a href="https://www.musicmagpie.co.uk/login.asp" id="signin" title="Sign In"></a>
+			  </td>
+			</tr>
+		  </tbody></table>
+		</td>
+	  </tr>
+    </tbody></table>
+  </td>
+  <td width="21" height="95" align="right" valign="top"><img src="http://www.musicmagpie.co.uk/images/right_top_banner2.gif" width="21" height="95"></td>
+  </tr>
+</tbody></table>
+<div id="nav">
+	<div id="links">
+		<ul class="sf-menu">
+			<li class="current">
+				<a href="http://www.musicmagpie.co.uk/index.asp">Home</a>
+			</li>
+			<li class="spacer">
+			
+			</li>
+			<li>
+				<a href="http://www.musicmagpie.co.uk/sellit.asp">Start Selling</a>
+			</li>
+			<li class="spacer">
+            
+			</li><li>
+				<a href="http://www.musicmagpie.co.uk/sellit.asp">Sell My Stuff</a>
+				<ul>
+					<li><a href="http://www.musicmagpie.co.uk/sell-CDs/index_CD.asp">Sell CDs</a></li>
+                    <li><a href="http://www.musicmagpie.co.uk/sell-DVDs/index_DVD.asp">Sell DVDs</a></li>
+					<li><a href="http://www.musicmagpie.co.uk/sell-blu-rays/index_blu_rays.asp">Sell Blu-rays</a></li>
+                    <li>
+						<a href="http://www.musicmagpie.co.uk/cash-for-clothes/index_clothes.asp" class="sf-with-ul">Cash for Clothes</a>
+						<ul>
+							<li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-my-coat/index_coats_jackets.asp">Sell Coats &amp; Jackets</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-my-dress/index_dresses.asp">Sell Dresses</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-formal-shirts/index_formal_shirts.asp">Sell Formal Shirts</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-hoodies-sweats/index_hoodies_sweats.asp">Sell Hoodies &amp; Sweats</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-jeans/index_jeans.asp">Sell Jeans</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-jumpers-cardigans/index_jumpers.asp">Sell Jumpers &amp; Cardigans</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-playsuits-jumpsuits/index_jumpsuits.asp">Sell Jumpsuits &amp; Playsuits</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-shorts/index_shorts.asp">Sell Shorts</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-skirts/index_skirts.asp">Sell Skirts</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-sportswear/index_sportswear.asp">Sell Sportswear</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-suits/index_suits_tailoring.asp">Sell Suits &amp; Tailoring</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-t-shirts/index_t-shirts.asp">Sell T-Shirts</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-shirts-tops/index_tops_shirts.asp">Sell Tops &amp; Shirts</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-trousers/index_trousers.asp">Sell Trousers</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-my-wedding-dress/index_wedding_dress.asp">Sell Wedding Dresses</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-bridesmaid-dresses/index_bridesmaidDress.asp">Sell Bridesmaid Dresses</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-my-prom-dress/index_prom_dresses.asp">Sell Prom Dresses</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-maternity-clothes/index_maternity.asp">Sell Maternity Clothes</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-vintage-clothes/index_vintage_clothes.asp">Sell Vintage Clothes</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-branded-clothes/index_branded_clothes.asp">Sell Branded Clothes</a></li>
+                            <li><a href="http://www.musicmagpie.co.uk/cash-for-clothes/sell-designer-clothes/index_designer_clothes.asp">Sell Designer Clothes</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="http://www.musicmagpie.co.uk/consoles-video-games/index_games_consoles.asp" class="sf-with-ul">Sell Games &amp; Consoles</a>
+						<ul>
+							<li><a href="http://www.musicmagpie.co.uk/consoles-video-games/sell-playstation-2/index_playstation_2.asp">Sell PlayStation 2</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/consoles-video-games/sell-playstation-3-playstation-3-games/index_playstation_3_playstation_3_games.asp">Sell PlayStation 3</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/consoles-video-games/sell-psp/index_psp.asp">Sell PSP</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/consoles-video-games/sell-wii/index_wii.asp">Sell Nintendo Wii</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/consoles-video-games/sell-nintendo-ds/index_ds.asp">Sell Nintendo DS</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/consoles-video-games/sell-3ds/index_3ds.asp">Sell Nintendo 3DS</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/consoles-video-games/sell-xbox/index_xbox.asp">Sell Xbox</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/consoles-video-games/sell-xbox-360/index_xbox_360.asp">Sell Xbox 360</a></li>
+						</ul>
+					</li>
+                    
+					<li>
+						<a href="http://www.musicmagpie.co.uk/sell-apple-goods/index_apple_goods.asp" class="sf-with-ul">Sell Apple Goods</a>
+						<ul>
+							<li><a href="http://www.musicmagpie.co.uk/sell-apple-goods/sell-ipad/index_ipad.asp">Sell iPad</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/sell-apple-goods/sell-iphone/index_iphone.asp">Sell iPhone</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/sell-apple-goods/sell-my-ipod/index_ipod.asp">Sell iPod</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/sell-apple-goods/sell-macBook/index_macBook.asp">Sell MacBook</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/sell-apple-goods/sell-apple-tv/index_apple_tv.asp">Sell Apple TV</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="http://www.musicmagpie.co.uk/sell-my-laptop/index_laptop.asp" class="sf-with-ul">Sell my Laptop</a>
+						<ul>
+							<li><a href="http://www.musicmagpie.co.uk/sell-my-laptop/sell-my-netbook/index_netbook.asp">Sell my Netbook</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/sell-apple-goods/sell-macBook/index_macBook.asp">Sell my MacBook</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/sell-my-laptop/sell-tablet-pc/index_tablet.asp">Sell Tablet PC</a></li>
+						</ul>
+					</li>
+					<li><a href="http://www.musicmagpie.co.uk/sell-my-pc/index_pc.asp">Sell my PC Desktop</a></li>
+					<li>
+						<a href="http://www.musicmagpie.co.uk/mobile-phone-recycling/index_mobile_phone_recycling.asp" class="sf-with-ul">Mobile Phone Recycling</a>
+						<ul>
+							<li><a href="http://www.musicmagpie.co.uk/mobile-phone-recycling/sell-blackberry/index_blackberry.asp">Sell Blackberry</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/mobile-phone-recycling/sell-htc/index_HTC.asp">Sell HTC</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/sell-apple-goods/sell-iphone/index_iphone.asp">Sell iPhone</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/mobile-phone-recycling/sell-lg/index_LG.asp">Sell LG</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/mobile-phone-recycling/sell-nokia/index_nokia.asp">Sell Nokia</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/mobile-phone-recycling/sell-samsung/index_samsung.asp">Sell Samsung</a></li>
+							<li><a href="http://www.musicmagpie.co.uk/mobile-phone-recycling/sell-sony-ericsson/index_sony_ericsson.asp">Sell Sony Ericsson</a></li>
+						</ul>
+					</li>
+					<li><a href="http://www.musicmagpie.co.uk/sell-monitor/index_monitor.asp">Sell Monitors</a></li>
+					<li><a href="http://www.musicmagpie.co.uk/sell-straighteners/sell-GHD/index_GHD.asp">Sell GHD</a></li>
+					<li><a href="http://www.musicmagpie.co.uk/sell-kindle/index_kindle.asp">Sell Kindle</a></li>
+
+				</ul>
+			</li>
+            <li class="spacer">
+            
+			</li><li>
+				<a href="http://www.musicmagpie.co.uk/sellit_information.asp">How It Works</a>
+			</li>
+			<li class="spacer">
+			
+			</li>
+			<li>
+				<a href="http://www.musicmagpie.co.uk/faqs.asp">Support</a>
+			</li>
+			<li class="spacer">
+			
+			</li>
+			<li>
+				<a href="http://www.musicmagpie.co.uk/general_info.asp">About Us</a>
+			</li>	
+			<li class="spacer">
+			
+			</li>
+			<li>
+				<a href="http://www.musicmagpie.co.uk/reviews.asp">Customer Reviews</a>
+			</li>
+			<li class="spacer">
+			
+			</li>
+			<li>
+				<a href="http://www.musicmagpie.co.uk/freebies.asp">Freebies</a>
+			</li>
+			<li class="spacer">
+			
+			</li>
+			<li>
+				<a href="http://www.musicmagpie.co.uk/donate/charity.asp">Charities</a>
+			</li>
+			<li class="spacer">
+			
+			</li>
+			<li>
+				<a href="http://www.musicmagpie.co.uk/schools.asp">Schools</a>
+			</li>
+			<li class="spacer">
+			
+			</li>
+			<li>
+				<a href="http://www.musicmagpie.co.uk/freekits/index.asp">Free Kits</a>
+			</li>
+			<li class="spacer">
+			
+			</li>
+			<li>
+				<a href="http://www.musicmagpie.co.uk/blog.asp">Blog</a>
+			</li>
+		</ul>
+	</div>
+</div>
 
   <table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr> 
@@ -165,7 +425,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
                                         <br>
                                         <span class="style_sellit"><strong>Other web sites</strong></span><br>
                                       <span class="myaccount_text">Our web site may contain links to other web sites which are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.</span></p>
-                                      <p><span class="style_sellit"><strong>Cookies</strong></span><br>
+                                      <p><a name="cookies"><span class="style_sellit"><strong>Cookies</strong></span></a><br>
                                         <span class="myaccount_text">"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the way cookies work on http://www.cookiecentral.com. musicMagpie.co.uk uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring.</span></p>
                                       <p class="myaccount_text">Non-registered visitors of the site are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile. In addition, any visitor who has clicked on a musicMagpie.co.uk advertisement on another site that links to musicMagpie.co.uk will be sent anonymous cookies that will allow us to analyse advertising effectiveness and manage our relationship with affiliate sites.</p>
                                       <p class="myaccount_text">Whilst you do not need to allow your browser to accept cookies in order to browse much of our web site or to access many of our services, you must have cookies enabled if you wish to shop online at any of our stores or access any areas reserved for registered users.<br>
@@ -199,14 +459,15 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 </tbody></table>
 <table width="171" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-    <td width="171" height="42" align="center" valign="middle"><!-- begin ad tag (tile=2) -->
-<script>
+    <td width="171" height="42" align="center" valign="middle"><script>if ("https:" != document.location.protocol) {
+ <!-- begin ad tag (tile=2) -->
+
 //<![CDATA[
 ord=Math.random()*10000000000000000;
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/muscmgpiead21/;tile=2;sz=120x600,160x600;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/muscmgpiead21/;tile=2;sz=120x600,160x600;ord=1070495607663557.5?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/muscmgpiead21/;tile=2;sz=120x600,160x600;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/muscmgpiead21/;tile=2;sz=120x600,160x600;ord=123456789?" border="0" alt="" /></a></noscript>
+}
+</script>
 <!-- end ad tag --></td>
   </tr>
 </tbody></table>
@@ -214,7 +475,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
                         <td width="19" rowspan="2" align="right" valign="top" class="right_background"><img src="images/Hor_right.gif" width="19" height="59"></td>
                       </tr>
                       <tr> 
-                        <td colspan="2" align="center" valign="middle"><table width="940" border="0" align="center" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="images/bottom_main_strip2.gif" title="Get CASH for your old CDs, DVDs, Games &amp; Tech"></td></tr></tbody></table><table width="930" border="0" align="center" cellpadding="0" cellspacing="0"><tbody><tr><td width="959"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"><tbody><tr align="center" valign="middle"><td width="230" height="22" align="left" class="style_sellit"><strong>&nbsp;&nbsp;Customer Services</strong></td><td width="230" height="22" align="left" class="style_sellit"><strong>About Us</strong></td><td width="230" height="22" align="left" class="style_sellit"><strong>Useful Links</strong></td><td width="230" align="left" class="style_sellit"><strong>Free Kits</strong></td><td width="125" align="left" valign="top" class="style_sellit"><strong>Regions</strong></td></tr><tr align="center" valign="middle"><td width="230" height="22" align="left"><strong>&nbsp;&nbsp;<a href="http://www.musicmagpie.co.uk/contact_us.asp" class="style108">Contact Us</a></strong></td><td width="230" height="22" align="left"><strong><a href="http://www.musicmagpie.co.uk/iphone/index.asp" class="style108">iPhone app</a></strong></td><td width="230" height="22" align="left"><strong><a href="http://www.musicmagpie.co.uk/environment.asp" class="style108">CDs and the Environment</a></strong></td><td width="230" align="left"><strong><a href="http://www.musicmagpie.co.uk/freekits" class="style108">About free kits</a></strong></td><td width="125" align="left" valign="top" class="style_sellit"><strong><a href="http://www.musicmagpie.co.uk" class="style108">United Kingdom</a></strong></td></tr><tr align="center" valign="middle"><td width="230" height="22" align="left"><strong>&nbsp;&nbsp;<a href="http://www.musicmagpie.co.uk/faqs.asp" class="style108">Support Pages</a></strong></td><td width="230" height="22" align="left"><strong><a href="http://www.musicmagpie.co.uk/android/index.asp" class="style108">Android app</a></strong></td><td width="230" height="22" align="left"><strong><a href="http://www.musicmagpie.co.uk/latest_charts.asp" class="style108">Latest Music &amp; Film Charts</a></strong></td><td width="230" align="left"><strong><a href="http://www.musicmagpie.co.uk/freekits/sign_up.asp" class="style108">Sign up</a></strong></td><td width="125" align="left" valign="top" class="style_sellit"><strong><a href="http://www.musicmagpie.de" class="style108">Germany</a></strong></td></tr><tr align="center" valign="middle"><td width="230" height="22" align="left"><strong>&nbsp;&nbsp;<a href="http://www.musicmagpie.co.uk/subscribe.asp" class="style108">Subscribe to Newsletter</a></strong></td><td width="230" align="left"><strong><a href="http://www.musicmagpie.co.uk/advertising.asp" class="style108">Advertising</a></strong></td><td width="230" height="22" align="left"><strong><a href="http://www.musicmagpie.co.uk/money_saving_guides.asp" class="style108">Money Saving Guide</a></strong></td><td width="230" align="left"><strong><a href="http://www.musicmagpie.co.uk/freekits/freekits_see_kits5.asp" class="style108">See the kits</a></strong></td><td width="125" align="left" valign="top" class="style_sellit"></td></tr><tr align="center" valign="middle"><td width="230" height="22" align="left"><strong>&nbsp;&nbsp;<a href="http://www.musicmagpie.co.uk/refer.asp" class="style108">Refer a Friend</a></strong></td><td width="230" align="left"><strong><a href="http://www.musicmagpie.co.uk/partnerships.asp" class="style108">Affiliates &amp; Partners</a></strong></td><td width="230" height="22" align="left"><strong><a href="http://www.musicmagpie.co.uk/venue_wembley_arena.asp" class="style108">Venue / Event Guides</a></strong></td><td width="230" align="left"><strong><a href="http://www.musicmagpie.co.uk/freekits/what_to_collect.asp" class="style108">What to collect</a></strong></td><td width="125" align="left" valign="top" class="style_sellit"></td></tr><tr align="center" valign="middle"><td width="230" height="22" align="left">&nbsp;</td><td width="230" align="left"><strong><a href="http://www.musicmagpie.co.uk/terms_conditions_sellit.asp" class="style108">Terms &amp; Conditions</a></strong></td><td width="230" height="22" align="left"><strong><a href="http://www.musicmagpie.co.uk/legal.asp" class="style108">© Copyright 2012</a></strong></td><td width="230" align="left"><strong><a href="http://www.musicmagpie.co.uk/freekits/poster_tips.asp" class="style108">Posters &amp; Tips</a></strong></td><td width="125" align="left" valign="top" class="style_sellit"></td></tr><tr align="center" valign="middle"><td height="22" align="left">&nbsp;</td><td width="230" align="left"><strong><a href="http://www.musicmagpie.co.uk/terms_conditions_courier.asp" class="style108">FREE Courier T&amp;Cs</a></strong></td><td height="22" align="left">&nbsp;</td><td align="left"><strong><a href="http://www.musicmagpie.co.uk/freekits/freekits_step1.asp" class="style108">Order a Kit</a></strong></td><td width="125" align="left" valign="top" class="style_sellit"></td></tr><tr align="center" valign="middle"><td width="230" height="22" align="left">&nbsp;</td><td width="230" align="left"><strong><a href="http://www.musicmagpie.co.uk/privacy.asp" class="style108">Privacy Policy</a></strong></td><td width="230" height="22" align="left">&nbsp;</td><td width="230" align="left"></td><td width="125" align="left" valign="top" class="style_sellit"></td></tr><tr align="center" valign="middle"><td height="22" align="left">&nbsp;</td><td align="left"><strong><a href="http://www.musicmagpie.co.uk/tv_advert.asp" class="style108">TV Advert</a></strong></td><td height="22" align="left"><a href="http://www.musicmagpie.co.uk/legal.asp" class="style108"></a></td><td align="left">&nbsp;</td><td align="right" valign="top" class="style_sellit">&nbsp;</td></tr><tr align="center" valign="middle"><td height="22" align="left">&nbsp;</td><td width="230" align="left"><strong><a href="http://www.musicmagpie.co.uk/sitemap.asp" class="style108">Site Map</a></strong></td><td height="22" align="left">&nbsp;</td><td align="left">&nbsp;</td><td align="right" valign="top" class="style_sellit">&nbsp;</td></tr></tbody></table></td></tr></tbody></table></td>
+                        <td colspan="2" align="center" valign="middle"><table width="940" border="0" align="center" cellpadding="0" cellspacing="0"><tbody><tr><td><a href="http://www.musicmagpie.co.uk/index.asp"><img src="http://www.musicmagpie.co.uk/images/bottom_main_strip2.gif" width="940" height="82" border="0" title="Get CASH for your stuff"></a></td></tr></tbody></table><table width="930" border="0" align="center" cellpadding="0" cellspacing="0"><tbody><tr><td width="959"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"><tbody><tr align="center" valign="middle"><td width="260" height="22" align="left" class="style_sellit"><strong>&nbsp;&nbsp;<a href="http://www.musicmagpie.co.uk/faqs.asp" class="style_sellit">Need Help? Go to Support/FAQs</a></strong></td><td width="178" align="left"><strong><a href="http://www.musicmagpie.co.uk/iphone/index.asp" class="style108">iPhone app</a></strong></td><td width="167" align="left"><strong><a href="http://www.musicmagpie.co.uk/partnerships.asp" class="style108">Affiliates &amp; Partners</a></strong></td><td width="208" align="left"><strong><a href="http://www.musicmagpie.co.uk/environment.asp" class="style108">CDs and the Environment</a></strong></td><td width="117" align="left" valign="top" class="style_sellit"><strong><a href="http://www.musicmagpie.co.uk" class="style108">United Kingdom</a></strong></td></tr><tr align="center" valign="middle"><td width="260" height="22" align="left"><strong>&nbsp;&nbsp;<a href="http://www.musicmagpie.co.uk/contact_us.asp" class="style108">Contact Us</a></strong></td><td width="178" align="left"><strong><a href="http://www.musicmagpie.co.uk/android/index.asp" class="style108">Android app</a></strong></td><td width="167" align="left"><strong><a href="http://www.musicmagpie.co.uk/advertising.asp" class="style108">Advertising</a></strong></td><td width="208" align="left"><strong><a href="http://www.musicmagpie.co.uk/latest_charts.asp" class="style108">Latest Music &amp; Film Charts</a></strong></td><td width="117" align="left" valign="top" class="style_sellit"><strong><a href="http://www.musicmagpie.de" class="style108">Germany</a></strong></td></tr><tr align="center" valign="middle"><td width="260" height="19" align="left"><strong>&nbsp;&nbsp;<a href="http://www.musicmagpie.co.uk/general_info.asp" class="style108">About Us</a></strong></td><td width="178" height="19" align="left"><strong><a href="http://www.musicmagpie.co.uk/terms_conditions_sellit.asp" class="style108">Terms &amp; Conditions</a></strong></td><td width="167" align="left"><strong><a href="http://www.musicmagpie.co.uk/tv_advert.asp" class="style108">TV Advert</a></strong></td><td width="208" align="left"><strong><a href="http://www.musicmagpie.co.uk/money_saving_guides.asp" class="style108">Money Saving Guide</a></strong></td><td width="117" align="left" valign="top" class="style_sellit">&nbsp;</td></tr><tr align="center" valign="middle"><td width="260" height="22" align="left"><strong>&nbsp;&nbsp;<a href="http://www.musicmagpie.co.uk/sellit_information.asp" class="style108">How It Works</a></strong></td><td width="178" align="left"><strong><a href="http://www.musicmagpie.co.uk/terms_conditions_courier.asp" class="style108">FREE Courier T&amp;Cs</a></strong></td><td width="167" align="left"><strong><a href="http://www.musicmagpie.co.uk/sitemap.asp" class="style108">Site Map</a></strong></td><td width="208" align="left"><strong><a href="http://www.musicmagpie.co.uk/venue_wembley_arena.asp" class="style108">Venue / Event Guides</a></strong></td><td width="117" align="left" valign="top" class="style_sellit"></td></tr><tr align="center" valign="middle"><td width="260" height="22" align="left"><strong>&nbsp;&nbsp;<a href="http://www.musicmagpie.co.uk/blog.asp" class="style108">Blog</a></strong></td><td width="178" align="left"><strong><a href="http://www.musicmagpie.co.uk/terms_conditions_send_service.asp" class="style108">FREE Send T&amp;Cs</a></strong></td><td width="167" height="22" align="left">&nbsp;</td><td width="208" align="left">&nbsp;</td><td width="117" align="left" valign="top" class="style_sellit"></td></tr><tr align="center" valign="middle"><td width="260" height="22" align="left">&nbsp;</td><td width="178" align="left"><strong><a href="http://www.musicmagpie.co.uk/privacy.asp" class="style108">Privacy Policy</a></strong></td><td width="167" height="22" align="left">&nbsp;</td><td width="208" align="left">&nbsp;</td><td width="117" align="left" valign="top" class="style_sellit"></td></tr><tr align="center" valign="middle"><td height="22" align="left">&nbsp;</td><td width="178" align="left"><strong><a href="http://www.musicmagpie.co.uk/legal.asp" class="style108">© Copyright 2012</a></strong></td><td height="22" align="left">&nbsp;</td><td align="left">&nbsp;</td><td width="117" align="left" valign="top" class="style_sellit"></td></tr><tr align="center" valign="middle"><td width="260" height="22" align="left">&nbsp;</td><td width="178" align="left">&nbsp;</td><td width="167" height="22" align="left">&nbsp;</td><td width="208" align="left"></td><td width="117" align="left" valign="top" class="style_sellit"></td></tr></tbody></table></td></tr></tbody></table></td>
                       </tr>
                     </tbody></table></td>
                 </tr>
