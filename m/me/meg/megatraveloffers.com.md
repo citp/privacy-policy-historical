@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the megatraveloffers.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626114741id_/http%3A//megatraveloffers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megatraveloffers.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230222436id_/http%3A//megatraveloffers.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Mega Travel Offers
 
-A. **Privacy Policy**
+A. Privacy policy 
 
   1. **General Introduction**
 
@@ -138,3 +138,5 @@ You can view and change Your Account settings and information, including your co
 
 
 MTO may amend this Privacy Policy from time to time and will notify you of any material changes by displaying the revised Privacy Policy on our website. 
+
+| 
