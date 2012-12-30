@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the reallygoodstuff.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521201553id_/http%3A//www.reallygoodstuff.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallygoodstuff.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182639id_/http%3A//www.reallygoodstuff.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security Customer Service
 
-Untitled Document
-
-## What is the Really Good Stuff, Inc Privacy Policy? 
+##### What is the Really Good Stuff, Inc Privacy Policy? 
 
 **What goes on at Really Good Stuff stays at Really Good Stuff.**
 
-As a teaching professional, you know how important it is to keep your students’ ongoing work and personal development confidential. We feel the same way about your relationship with us. What you order, your method of payment and shipping/contact information are completely private. In fact, if you look at the bottom of the home page of our website, you will see a Verisign logo. This is a company we've hired to protect your private information. Technically, we use what is called the Secure Socket Layer Protocol to ensure that all of your transactions on our web sites are extremely safe. That means when you place an order online, the information is encrypted to ensure confidentiality. 
+As a teaching professional, you know how important it is to keep your students' ongoing work and personal development confidential. We feel the same way about your relationship with us. What you order, your method of payment and shipping/contact information are completely private. In fact, if you look at the bottom of the home page of our website, you will see a Verisign logo. This is a company we've hired to protect your private information. Technically, we use what is called the Secure Socket Layer Protocol to ensure that all of your transactions on our web sites are extremely safe. That means when you place an order online, the information is encrypted to ensure confidentiality. 
 
 **Forget an apple for the teacher. We use cookies.**
 
@@ -19,8 +17,6 @@ Most web sites use what is known as a 'cookie', which is a small data file that 
   * To communicate with you regarding your orders and other matters regarding transactions between us. 
   * To share information about Really Good Stuff products and services that may be of interest to you. You may opt-out of receiving such promotional messages from us at any time. If we do send you a promotional e-mail, you will be given the opportunity to decline receiving similar emails in the future. 
   * To help diagnose problems with our server and to administer our web site.
-
-
 
 **How We Use Email**
 
@@ -36,4 +32,4 @@ In order to offer the best products for your personal needs, we like to understa
 
 **Is it safe to use my credit card?**
 
-Really Good Stuff values our customers' privacy and security. That is why we use SSL (Secure Socket Layer) Protection to insure the highest level of safety for credit card transactions. You can take full advantage of the convenience of ordering online, secure in the knowledge that your valuable credit information is being protected. 
+Really Good Stuff values our customers' privacy and security. That is why we use SSL (Secure Socket Layer) Protection to insure the highest level of safety for credit card transactions. You can take full advantage of 
