@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugardoodle.net privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623070031id_/http%3A//www.sugardoodle.net/joomla/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6540%26Itemid%3D200100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugardoodle.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230194140id_/http%3A//www.sugardoodle.net/joomla/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6540%26Itemid%3D200100) for the most accurate reproduction.*
 
 # Privacy Policy - T's & C's
 
