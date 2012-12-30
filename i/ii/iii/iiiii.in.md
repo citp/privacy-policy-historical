@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iiiii.in privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509171718id_/http%3A//iiiii.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iiiii.in privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230024302id_/http%3A//iiiii.in/privacy.php) for the most accurate reproduction.*
 
 # iiiii.in - The URL shortener service that pays you with Western Union , AlertPay , MoneyBookers and more! Earn money for every visitor to your links.
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8\. Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20120509171718id_/http%3A//iiiii.in/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20121230024302id_/http%3A//iiiii.in/contact.php). 
