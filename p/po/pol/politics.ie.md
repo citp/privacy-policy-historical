@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2012-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120601163222id_/http%3A//www.politics.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230183856id_/http%3A//www.politics.ie/privacy) for the most accurate reproduction.*
 
-# Politics.ie - The Irish Politics Website - Privacy Policy
+# Politics.ie - The Irish Politics & Current Affairs Website - Privacy Policy
 
 ## Politics.ie Privacy Statement
 
