@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6figurejobs.com privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519121702id_/https%3A//www.6figurejobs.com/6FigureJobs_PrivacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6figurejobs.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055344id_/https%3A//www.6figurejobs.com/6FigureJobs_PrivacyStatement.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | 6FigureJobs
 
@@ -67,4 +67,4 @@ How will I know of any changes in your privacy policy?
 If there is any change in our privacy policy, we will notify users by way of a note on our home page as well as inclusion of any such changes in our regular newsletter updates. 
 
 How can I contact the site with questions or problems?  
-Please feel free to contact us with any further questions or concerns at [Info@6figurejobs.com](mailto:Info@6figurejobs.com)
+Please feel free to contact us with any further questions or concerns at [info@6figurejobs.com](mailto:info@6figurejobs.com)
