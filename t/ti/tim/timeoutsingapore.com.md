@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutsingapore.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629041037id_/http%3A//www.timeoutsingapore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutsingapore.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230043457id_/http%3A//www.timeoutsingapore.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy :: Time Out Singapore
 
@@ -46,5 +46,4 @@ Our site is not directed to users under the age of 16. TOS will not knowingly (i
 **TOS's right to change privacy policy and no impediment on transfer of assets**  
 This policy is effective as of July 2007. TOS may change this policy at any time. You should periodically revisit our privacy policy to be sure that you are familiar with our current policy. Your use of the site following any modifications to the privacy policy will be conclusively deemed acceptance of the terms of this privacy policy and any changes to the policy. Nothing in this privacy policy is meant to impede TOS's right or ability to transfer, sell or otherwise dispose of any of its assets.
 
-**Contact us**   
-You can contact _TOS_ regarding this policy by mail, at Ink, 89 Neil Rd #03-01, Singapore (088849).
+_Time Out Singapore_ is published by:
