@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 188games.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611175752id_/http%3A//www.188games.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 188games.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230110229id_/http%3A//www.188games.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at 188BET – Corporate Affairs - 188BET
 
