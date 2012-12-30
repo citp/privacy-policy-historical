@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdf-word.net privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629121831id_/http%3A//www.pdf-word.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-word.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230011253id_/http%3A//www.pdf-word.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Free eBook PDF File Download - Privacy Policy
 
@@ -48,9 +48,22 @@ What you are installing on your computer is called a Linux distribution, or a Li
 
 Share your ebooks and let others know you, your thought and your ideas through the ebooks. You can use our new feature to promote your ebook and get any comments, critics or recommendations about the ebooks. So **start promoting your ebook** and get your readers.
 
+### [Costume Jewelry In Casjewellery](http://www.pdf-word.net/ebook/costume-jewelry-in-casjewellery-1.html)
+
+I have a costume jewelry pdf
+
+Author : smoothlove | Submitted Date : 24-09-2012 at 04:24   
+Type : pdf | Pages : 5 | Size : 0.40 Mb | Like : 0 | Dislike : 0
+
 ## Latest eBook Requests
 
 You can now request a free/shareable ebook through our member area. This feature will let us or other members to find you the related ebooks and the results will be posted to your request page. We still work this in beta version and hope it can be fully available very soon. So **give it a try** and let others help you finding the requested ebooks.
+
+### [VW Beetle](http://www.pdf-word.net/ebook-request/vw-beetle-94.html)
+
+#### Topic : [Automotives](http://www.pdf-word.net/ebook-request/topic/automotives-p-1.html)
+
+1966-69 VW Beetle and Karmann Ghia Service Manual (Bentley publishing)
 
 ## Latest Blogs
 
