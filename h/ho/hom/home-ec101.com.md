@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the home-ec101.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528012005id_/http%3A//www.home-ec101.com/site-information-and-disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-ec101.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230034057id_/http%3A//www.home-ec101.com/site-information-and-disclosure/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Home Ec 101
 
 _Updated 7-10-2008_
 
@@ -29,3 +29,5 @@ We may link to other websites. We are not responsible for their privacy and secu
  **Terms and modifications to this privacy and security statement**
 
 We at Home Ec 101 value your privacy. By using our website, you agree to the terms of our Privacy Policy. If you do not agree to these terms, do not use this website. We may modify this policy at any time. If we do, we will make sure there is a prominent notice of this change posted on the website.
+
+If you found this post useful, please take a moment and like it on Facebook or share with your friends via Twitter or Pinterest.
