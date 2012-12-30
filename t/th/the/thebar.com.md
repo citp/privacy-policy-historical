@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thebar.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628223003id_/http%3A//www.thebar.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebar.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231000037id_/http%3A//www.thebar.com/privacy) for the most accurate reproduction.*
 
 # 
 
-This Privacy and Cookie Notice provides a high-level overview of our full Privacy and Cookie Notice (click here to access). It summarises important information regarding how we collect, use, and share any personal information collected. This Privacy and Cookie Notice applies to personal information collected through this website thebar.com, which is operated by Diageo plc - the world's leading premium drinks business - or one of its group of companies. thebar.com represents Diageo's outstanding collection of beverage alcohol brands. 
+This Privacy and Cookie Notice provides a high-level overview of our full Privacy and Cookie Notice (click here to access). It summarizes important information regarding how we collect, use, and share any personal information collected. This Privacy and Cookie Notice applies to personal information collected through this website thebar.com, which is operated by Diageo plc - the world's leading premium drinks business - or one of its group of companies. thebar.com represents Diageo's outstanding collection of beverage alcohol brands. 
 
 At relevant points hyperlinks are provided that will take you directly to further information in this document. Links in this Privacy and Cookie Notice will not take you to any external website or content.
 
