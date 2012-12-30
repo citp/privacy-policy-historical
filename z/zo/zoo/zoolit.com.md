@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoolit.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021301id_/http%3A//zoolit.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoolit.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230192008id_/http%3A//zoolit.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
