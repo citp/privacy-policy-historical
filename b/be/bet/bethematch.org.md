@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethematch.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510101734id_/http%3A//marrow.org/NMDP_Online_Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethematch.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230021225id_/http%3A//marrow.org/NMDP_Online_Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # NMDP Online Privacy Statement
 
