@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focuslinesurveys.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623142048id_/http%3A//www.focuslinesurveys.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focuslinesurveys.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230025300id_/http%3A//www.focuslinesurveys.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Paid Surveys - Rewarded Surveys
 
@@ -54,7 +54,7 @@ FocuslineSurveys does not sell or rent user information to anyone. We will notif
 
 What is FocuslineSurveys's policy on allowing me to update, correct, or delete my personally identifiable information?
 
-You may edit your FocuslineSurveys Account Information and your public FocuslineSurveys Profile at any time by using your FocuslineSurveys ID and password. If you have forgotten your password, please [click here](https://web.archive.org/web/20120623142048id_/http%3A//www.focuslinesurveys.com/forgot_password.php) .
+You may edit your FocuslineSurveys Account Information and your public FocuslineSurveys Profile at any time by using your FocuslineSurveys ID and password. If you have forgotten your password, please [click here](https://web.archive.org/web/20121230025300id_/http%3A//www.focuslinesurveys.com/forgot_password.php) .
 
 Your FocuslineSurveys account can be deleted or deactivated. Please contact support@FocuslineSurveys.com for further instructions about deleting or deactivating your FocuslineSurveys account.
 
