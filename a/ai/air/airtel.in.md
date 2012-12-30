@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airtel.in privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630170659id_/http%3A//www.airtel.in/wps/wcm/connect/airtel.in/airtel.in/home/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtel.in privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230082002id_/http%3A//www.airtel.in/wps/wcm/connect/airtel.in/airtel.in/home/Privacy%2BPolicy) for the most accurate reproduction.*
 
-# 
+# :: airtel :: Privacy Policy
 
 | We at bharti airtel limited (hereinafter mentioned as "airtel") are committed to protect our customers’ personal information and/or sensitive personal data and strive to maintain the privacy of your personal information.   
 ---  
