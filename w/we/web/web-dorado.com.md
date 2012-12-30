@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-dorado.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630023107id_/http%3A//web-dorado.com/web-dorado-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-dorado.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231004856id_/http%3A//web-dorado.com/web-dorado-privacy-statement.html) for the most accurate reproduction.*
 
 # Web-Dorado Privacy Statement
 
@@ -46,43 +46,9 @@ You may be required to give us personal (name, phone number, address, bank accou
 
 
 Please note that you will be informed of any changes made in the Privacy Statement.  
-If you have any questions, complaints or suggestions, please contact us at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy49201%20=%20'info'%20+%20'@';%20addy49201%20=%20addy49201%20+%20'web-dorado'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy49201%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy49201%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[info@web-dorado.com](mailto:info@web-dorado.com).
+If you have any questions, complaints or suggestions, please contact us at [info@web-dorado.com](mailto:info@web-dorado.com).
 
-  |  | 
-
-Testimonials
-
-  
-
-
-Great support from the team, had an issue with the spider calendar lite, got in touch with the guys and 2 emails later the fix was in place and did not lose any of my pre set events. very impressed.
-
-  
-13/05/2011 Rose Hamer   
-Silver surfer web designer   
-Wales UK 
-
-  
-  
-  
----  
-[Leave Your Testimonial](http://web-dorado.com/about-us/testimonials.html?view=autartimonial#ADD_TESTIMONIAL) | [read more](http://web-dorado.com/about-us/testimonials.html?view=autartimonial)  
-  
-  
-
-
-[](http://web-dorado.com/products/folder-menu-wordpress.html)
-
-  
-
-
-  
-
-
-[](http://web-dorado.com/products/spider-calendar.html)
-
-  
-
+  | 
 
   
 
@@ -90,32 +56,61 @@ Wales UK
 [](http://web-dorado.com/products/zoom.html)
 
   
+
+
+  
+
+
+[](http://web-dorado.com/products/zoom-widget-wordpress.html)
+
+  
+
+
+  
+
+
+[](http://web-dorado.com/products/folder-menu.html)
+
+  
   
   
   * [Home](http://web-dorado.com/)
-  * [About us](http://web-dorado.com/about-us.html)
-    * [Services](http://web-dorado.com/about-us/services.html)
-    * [Support](http://web-dorado.com/about-us/support.html)
-    * [Testimonials](http://web-dorado.com/about-us/testimonials.html)
+  * [About us](http://web-dorado.com/web-dorado.html)
+    * [Services](http://web-dorado.com/web-dorado/services.html)
+    * [Support](http://web-dorado.com/web-dorado/support.html)
+    * [Testimonials](http://web-dorado.com/web-dorado/testimonials.html)
   * [News](http://web-dorado.com/news.html)
   * Products
     * [spider Box](http://web-dorado.com/products/spider-box.html)
-    * [spider Calendar](http://web-dorado.com/products/spider-calendar.html)
-    * [spider Calendar Lite](http://web-dorado.com/products/spider-calendar-lite.html)
-    * [Folder Menu](http://web-dorado.com/products/folder-menu.html)
-    * [Dripping Menu](http://web-dorado.com/products/dripping-menu.html)
-    * [Zoom](http://web-dorado.com/products/zoom.html)
-    * [Zoom](http://web-dorado.com/products/zoom-widget-wordpress.html)
-    * [Folder Menu](http://web-dorado.com/products/folder-menu-wordpress.html)
-    * [Spider Random Article](http://web-dorado.com/products/spider-random-article.html)
-    * [Form Maker](http://web-dorado.com/products/form-maker.html)
-    * [Form Maker](http://web-dorado.com/products/form-maker-wordpress.html)
-    * [Spider Catalog](http://web-dorado.com/products/spider-catalog.html)
-    * [Spider Video Player](http://web-dorado.com/products/spider-video-player.html)
+    * [spider Calendar](http://web-dorado.com/products/joomla-calendar.html)
+    * [spider Calendar Lite](http://web-dorado.com/products/joomla-calendar-module.html)
+    * [spider FC](http://web-dorado.com/products/joomla-event-calendar.html)
+    * [Folder Menu](http://web-dorado.com/products/joomla-menu-vertical-horizontal-drop-down.html)
+    * [Dripping Menu](http://web-dorado.com/products/joomla-flash-menu.html)
+    * [Zoom](http://web-dorado.com/products/joomla-zoom.html)
+    * [Zoom](http://web-dorado.com/products/wordpress-zoom.html)
+    * [Folder Menu](http://web-dorado.com/products/wordpress-menu-vertical.html)
+    * [Spider Random Article](http://web-dorado.com/products/joomla-random.html)
+    * [Form Maker](http://web-dorado.com/products/joomla-form.html)
+    * [Spider Contacts](http://web-dorado.com/products/joomla-contacts.html)
+    * [Form Maker](http://web-dorado.com/products/wordpress-form.html)
+    * [Spider Contacts](http://web-dorado.com/products/wordpress-contacts.html)
+    * [Wordpress Events Calendar](http://web-dorado.com/products/wordpress-events-calendar.html)
+    * [Spider Catalog](http://web-dorado.com/products/joomla-catalog.html)
+    * [Spider Video Player](http://web-dorado.com/products/joomla-player.html)
+    * [Spider Video Player](http://web-dorado.com/products/wordpress-player.html)
+    * [Spider Catalog](http://web-dorado.com/products/wordpress-catalog.html)
+    * [Spider Random Post](http://web-dorado.com/products/wordpress-random-post.html)
+    * [Folder Menu Drupal](http://web-dorado.com/products/drupal-menu-vertical.html)
+    * [Wordpress Calendar](http://web-dorado.com/products/wordpress-calendar.html)
+    * [Drupal Form Builder](http://web-dorado.com/products/drupal-form-builder.html)
+    * [Drupal Event Calendar](http://web-dorado.com/products/drupal-event-calendar.html)
+    * [Spider FAQ](http://web-dorado.com/products/joomla-faq-extension.html)
+    * [Joomla Facebook](http://web-dorado.com/products/joomla-facebook.html)
   * Products
   * [Forum](http://web-dorado.com/forum.html)
   * [Contact Us](http://web-dorado.com/contact-us.html)
 
   
   
-[Copyright](http://web-dorado.com/web-dorado-copyright-information.html)© 2011 **Web-Dorado**. All Rights Reserved. | [Privacy](http://web-dorado.com/web-dorado-privacy-statement.html "Privacy") | [Terms of Service](http://web-dorado.com/terms-of-service.html "Privacy") | [License](http://web-dorado.com/license.html "Privacy")
+[Copyright](http://web-dorado.com/web-dorado-copyright-information.html)© 2012 **Web-Dorado**. All Rights Reserved. | [Privacy](http://web-dorado.com/web-dorado-privacy-statement.html "Privacy") | [Terms of Service](http://web-dorado.com/terms-of-service.html "Privacy") | [License](http://web-dorado.com/license.html "Privacy")
