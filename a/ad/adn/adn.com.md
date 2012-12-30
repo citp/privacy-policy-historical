@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adn.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614064054id_/http%3A//www.adn.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adn.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230182057id_/http%3A//www.adn.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Alaska news at adn.com
+# ADN.com Anchorage, AK
 
-##### Effective Date: 10-21-09
+##### Effective Date: 9-4-09
 
 ADN.com ("ADN.com", "we", "our") has a firm commitment to privacy. We take your privacy concerns seriously and want to make reasonable efforts to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. This Privacy Policy explains our position on information gathering and how we intend to use and share any information we collect. This Privacy Policy applies only to information collected by ADN.com and does not apply to information obtained or used by Anchorage Daily News or its affiliates through other means.
 
@@ -14,7 +14,7 @@ This Privacy Policy is subject to change from time to time by ADN.com and your c
 
 ### Information we collect
 
-Access to certain special content, services and features on ADN.com requires users to be subscribers to Anchorage Daily News and/or to become registered members at ADN.com. Member registration may require you to provide certain personally identifiable information, such as your name, e-mail address, street address, telephone number, gender, and date of birth. If you choose to purchase a print subscription to Anchorage Daily News or a classified ad when you register, we also require credit card and billing information. For more information about how we use your credit card and billing information, see the Section below titled "Electronic commerce". You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. At registration you will have the opportunity to Opt out of subscribing to e-mail newsletters and alerts sent to you on behalf of ADN.com and its advertisers.
+Access to certain special content, services and features on ADN.com requires users to be subscribers to Anchorage Daily News and/or to become registered members at ADN.com. Member registration may require you to provide certain personally identifiable information, such as your name, e-mail address, street address, telephone number, gender, and date of birth. If you choose to purchase a print subscription to Anchorage Daily News or a classified ad when you register, we also require credit card and billing information. For more information about how we use your credit card and billing information, see the Section below titled "Electronic commerce". You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. At registration you will have the opportunity to Opt in of subscribing to e-mail newsletters and alerts sent to you on behalf of ADN.com and its advertisers.
 
 Some features and services of ADN.com may require additional personally identifiable information or other demographic information. We may collect other personally identifiable information when you provide feedback, comments, engage in chat, message boards, interactive forums or participate in surveys, or if you contact us offline. For example, when you enter contests you will be asked to also provide your phone number so that we can reach you in the event you have won a prize. All users may decline to share such information with us, by choosing not to register on ADN.com or not to use our services. Only registered members, however, may access certain content, services and features.
 
@@ -70,7 +70,7 @@ To describe our services to prospective partners, advertisers and others, we may
 
 ADN.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of ADN.com in order to access general ADN.com content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.
 
-ADN.com, 1001 Northway Drive Anchorage, AK 99508, or 907-257-4200, or [online@adn.com](mailto:online@adn.com)
+ADN.com, 1001 Northway Dr., Anchorage, AK 99508, or 907-257-4200, or [online@adn.com](mailto:online@adn.com)
 
 ### Member mail and e-mail offers
 
@@ -78,7 +78,7 @@ ADN.com does not rent, sell, barter or give away its user or member lists or its
 
 All registered users will receive periodic Member Mail e-mail related to their membership account or various features and services on the Anchorage Daily News Web sites to which their membership entitles them access. Because Member Mail is an integral part of our service to you, users cannot opt-out of receiving Member Mail. If you do not want to receive Member Mail, your only option is to terminate your membership by following the directions in the Member Center.
 
-Separate from ADN.com Member Mail, Anchorage Daily News may send you information via e-mail about various products or services that we believe may be of interest to you, including e-mails that may contain content provided by third-party advertisers. If you do not want to receive this information, you can Opt out by changing your permission setting for Anchorage Daily News Promotions e-mail in the Member Center. The Member Center also allows you to select which categories of e-mail Offers might interest you. You can also change your Opt out preferences in the Member Center.
+Separate from ADN.com Member Mail, Anchorage Daily News may send you information via e-mail about various products or services that we believe may be of interest to you, including e-mails that may contain content provided by third-party advertisers. If you do not want to receive this information, you can Opt in by changing your permission setting for Anchorage Daily News Promotions e-mail in the Member Center. The Member Center also allows you to select which categories of e-mail Offers might interest you. You can also change your Opt in preferences in the Member Center.
 
 When a user specifically authorizes e-mail solicitations we make available the user names and other Personally Identifiable Information in accordance with the applicable license.
 
@@ -104,6 +104,10 @@ You should know that when you voluntarily disclose personal information on the A
 
 In addition, our advertisers, content providers, partners and other Internet sites or services that may be accessible through ADN.com have separate data and privacy practices that are independent of us, and we disclaim any responsibility or liability for their policies or actions. Please contact those sites directly if you have questions about their privacy policies.
 
+### Notice to California Residents - Your California Privacy Rights:
+
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom ADN.com may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [online@adn.com](mailto:online@adn.com).
+
 ### International users
 
 If you are an international user, by using ADN.com or by registering for any of its services, you agree that ADN.com may collect, use and transfer your personal information as described in this privacy policy, including transfers outside the country where you live. If you reside in a country in the European Union or other jurisdiction that provides access rights under law, you may access your personal information or have it corrected or updated by going to your account information page in the Member Center and personally updating the information in accordance with applicable law or by contacting us at the address or e-mail set forth below. In some jurisdictions, you may be charged a reasonable fee for access to information.
@@ -114,4 +118,4 @@ ADN.com supports P3P, the Platform for Privacy Preferences, which allows us to c
 
 ### Contact Information
 
-If you have any questions or comments about our policies, we may be reached at ADN.com, 1001 Northway Drive Anchorage, AK 99508, at 907-257-4200 or at [online@adn.com](mailto:online@adn.com).
+If you have any questions or comments about our policies, we may be reached at ADN.com, 1001 Northway Dr., Anchorage, AK 99508, at 907-257-4200 or at [online@adn.com](mailto:online@adn.com).
