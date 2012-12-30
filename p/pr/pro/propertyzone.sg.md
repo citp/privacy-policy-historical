@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the propertyzone.sg privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231220510id_/http%3A//www.propertyzone.sg/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyzone.sg privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193414id_/http%3A//www.propertyzone.sg/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy :: PropertyZone.sg
+# Privacy policy::PropertyZone.sg
 
-  
-Like Us? Recommend us on Google:  |   
----|---  
-  
 This privacy policy sets out how PropertyZone.sg uses and protects any information that you give PropertyZone.sg when you use this website.
 
 PropertyZone.sg is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
