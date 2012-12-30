@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622014153id_/http%3A//www.watchguard.com/corporate-info/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005253id_/http%3A//www.watchguard.com/corporate-info/privacy-policy.asp) for the most accurate reproduction.*
 
 # WatchGuard Technologies | Privacy Statement
 
