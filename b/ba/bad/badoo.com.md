@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629055408id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230012905id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
 
-# Badoo's Privacy Policy
+# قوانين بادوو للخصوصية
 
 This policy and any dispute or claim arising out of or in connection with it or its subject matter (including non-contractual disputes or claims) shall be governed by and construed in accordance with English law. In the event there is a discrepancy between this English language version and any translated copies of the Privacy Policy, the English version shall prevail.
 
@@ -17,7 +17,7 @@ Hello (again, if you clicked through to here from our [Terms and Conditions of U
 
 ## Who we are
 
-Badoo is operated by Badoo Trading Limited, a company registered in England at Summit House, 12 Red Lion Square, London WC1R 4QD, United Kingdom and company number 754025.
+Badoo is operated by Badoo Trading Limited, a company registered in England at Media Village, 131 - 151 Great Titchfield Street, London, W1W 5BB, United Kingdom and company number 754025.
 
 ## The full legal bit
 
@@ -80,6 +80,12 @@ When you access Badoo or play our games we collect certain technical information
 If you have registered on one of our partner websites, such as Facebook, your Profile will be available to all users of the Badoo social network whether via our site or our partners’ websites.
 
 Remember that when you register with a Badoo partner, you are also giving them personal information, so we recommend that you read their privacy policies as Badoo does not control how they use their information.
+
+If you have have registered on one of our partner websites, such as Facebook, or you have verified your account via a partner website, we may connect your Badoo profile with your profile on such partner website. We may do this by way of new products and applications which we introduce from time to time. 
+
+If you have verified your account through a partner website and do not want to link your Badoo profile to your profile on the partner website, please go to the “Verifications” section on your profile page and click “forget this account”.
+
+If you have created a Badoo profile through a partner website and you do not want to link your Badoo profile to your profile on the partner website, Badoo cannot amend these settings. Please visit the application settings on your partner website profile and follow the instructions to remove the Badoo access permissions.
 
 #### Does Badoo collect any other personal information about me?
 
