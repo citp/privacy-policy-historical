@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terezowens.com privacy policy that was archived on 2012-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120624084849id_/http%3A//www.terezowens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terezowens.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231001612id_/http%3A//www.terezowens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Terez Owens
 
@@ -19,5 +19,3 @@ We use various third-party advertising companies to serve ads when you visit our
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 If you have any question about this privacy, please contact us using the contact form.
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.terezowens.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
