@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511082755id_/http%3A//www.ebgames.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230220836id_/http%3A//www.ebgames.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | GameStop Help Center | EBGames
+# Privacy Policy | Help Center | EBGames
 
 Last updated: January 9, 2007
 
@@ -10,7 +10,7 @@ Our online privacy policy applies only to information that we collect from custo
 
 In this document, the word "computer" means any device used to connect to Gamestop.com, including, but not limited to, mobile devices.
 
-**We Gather the Following Personal Information About Customers:**
+## We Gather the Following Personal Information About Customers:
 
 **Information That You Give Us:** We receive and store any information you enter on our website or that you give us in any other way. You can choose not to provide certain information, but this will limit your ability to purchase products offered on the website, or to take advantage of some of our features for website customers.
 
@@ -34,35 +34,31 @@ The information we receive or can determine from your interaction with our websi
 
 **Information from Other Sources:** If we receive any information about you from other sources, we may add it to our account information. For example, if we receive a list of subscribers to a gaming publication, and we note that you are a subscriber, we may include that information in the account information that we store about you. Other examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records; account information, purchase or redemption information, and page-view information from business partners who operate their own websites or for which we provide any services; search term and search result information from searches conducted through the website; and credit history information from credit bureaus, which we use to help prevent and detect fraud.
 
-**An Explanation of "Cookies"**
+## An Explanation of "Cookies"
 
 Cookies are alphanumeric identifiers that are placed by us on your computer's storage system through your web browser to enable our systems to recognize your browser when you make future visits to our website, and to store certain information (such as items placed in your shopping cart) between visits.
 
-You can stop your computer from storing cookies if you want to. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You should look in the "help" area shown on your browser's toolbar. Because cookies allow you to have the benefit of our personalized features, we recommend that you leave them turned on. You MUST have cookies enabled in order to checkout on our website.
+You can stop your computer from storing cookies if you want to. Most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You should look in the "help" area shown on your browser's toolbar. Because cookies allow you to have the benefit of our personalized features, we recommend that you leave them turned on. You **must** have cookies enabled in order to checkout on our website.
 
-**Sharing of Information
+## Sharing of Information
 
-Tournaments: 
+**Tournaments:** If you register for tournaments on GameStop.com, we may share your registration data with the tournament host and they may use it for internal tracking and analytics. For instance, if you give us your Xbox Live Gamertag for a Microsoft tournament, Microsoft will use that information for internal research.
 
-**If you register for tournaments on GameStop.com, we may share your registration data with the tournament host and they may use it for internal tracking and analytics. For instance, if you give us your Xbox Live Gamertag for a Microsoft tournament, Microsoft will use that information for internal research. **
-
-Sharing with Third Parties.
-
-** We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner. (See information on Third Party Relationships below.) Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates. It is not our policy to sell or rent lists of our website customers to unaffiliated third parties.
+**Sharing with Third Parties.** We may share customer information that we collect with third parties. Usually, this information will be shared with a third party that has relationship with us as a business partner or marketing partner. (See information on Third Party Relationships below.) Also, we may use the information that you provide us, or that we collect about you, in connection with the promotion of our products and services and those of our affiliates. It is not our policy to sell or rent lists of our website customers to unaffiliated third parties.
 
 **Sharing with our Contractors.** We also may employ other companies and individuals to perform functions on our behalf. Examples include order fulfillment, package delivery, postal mail and e-mail communications, customer lists management, data analysis, marketing assistance, credit card processing, and customer relationship management. These companies and individuals have access to personal information needed to perform their functions, but they are not permitted to use such information for other purposes without our permission.
 
 **Promotional Offers May be Sent to You.** We may send you offers on behalf of our company or other businesses, or permit other businesses that we are working with to send you offers, if we believe that you may be interested in receiving these offers. If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.
 
-**Sale or Acquisition of Business Units.** As we continue to develop our business, we may buy or sell business divisions or companies, we may merge or combine with another company, or our company itself, or all or a significant part of its assets, may be acquired by another company. In such transactions, customer information generally is one of the transferred and shared business assets. The information transferred and shared remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer has agreed to be subject to new privacy notice terms). 
+**Sale or Acquisition of Business Units.** As we continue to develop our business, we may buy or sell business divisions or companies, we may merge or combine with another company, or our company itself, or all or a significant part of its assets, may be acquired by another company. In such transactions, customer information generally is one of the transferred and shared business assets. The information transferred and shared remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer has agreed to be subject to new privacy notice terms).
 
 **Legal Requirements and Protection of Gamestop.com and Others.** We may decide to release your account and other personal information if we believe release is appropriate or necessary to comply with the law, to enforce or apply our website terms of use and other agreements, or to protect the rights, property, or safety of Gamestop.com, our users, or others. This information may be released or exchanged with other companies and organizations to protect against fraud, or for credit risk reduction. We will cooperate with law enforcement and judicial authorities, and we may provide personally identifiable information to appropriate government authorities upon receipt of a subpoena or court order, or to cooperate with a law enforcement investigation. We will fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be illegal. We undertake no obligation or duty to release such information, however, unless we are required to do so under applicable law.
 
 **Other Circumstances.** If we want to share personal information other than as permitted or described above, we will notify you, and you may choose to instruct us not to share the information.
 
-**Third Party Relationships**
+## Third Party Relationships
 
-**We have several types of third-party relationships.**
+We have several types of third-party relationships.
 
   * We offer an affiliate program through a third-party affiliate manager. This program allows other websites to earn money by directing people (through links) to our website. If you sign up as an affiliate, your contact information (website address and related information, email address, mailing and payment addresses, and contact information) is sent to the third-party affiliate manager who activates your affiliate status and pays you based on the sales you generate for Gamestop.com. You may apply for this program using an Affiliate Program application. The Affiliate Program area is clearly labeled, and your information is never collected or shared unless you also fill out an Affiliate Program application.
   * We work with business partners to provide you access to their products and services. For example, our website includes a link to www.alienware.com. Any information you supply upon entering the www.alienware.com site is collected by Alienware.
@@ -71,51 +67,51 @@ Sharing with Third Parties.
 
 
 
-**Security of Information Stored by Us**
+## Security of Information Stored by Us
 
 During transmission of information by you to our website, we use Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the first two and last two digits of your credit card number when confirming an order, but we have to transmit the entire credit card number to the credit card processor or company during order processing.
 
 To the extent that you use our website, and connect to us through your computer, anyone with access to your computer may be able to access our website and conduct transactions in your name. We have no ability to know who has access to your computer, or to your credit card information, or who you have authorized to use such computer or information. Persons with access to your computer may be able to view any private or stored account information or other information that you have given to us. Accordingly, you are responsible for any transactions that are made in your name by someone who has access to your computer or your credit card number. It is important for you to protect against unauthorized access to any login or password information, and to your computer.
 
-**You May Access, Change or Modify Your Personal Information**
+## You May Access, Change or Modify Your Personal Information
 
 If you have purchased from us or created an account, our site provides you the opportunity to review, correct, or update your account information. You can do this by:
 
-  1. Accessing Gamestop.com and clicking on the "My Account" link.
-  2. Sending mail to the following postal address:
-
-Gamestop.com Customer Service  
+  * Accessing GameStop.com and clicking on the "My Account" link.
+  * Sending mail to the following postal address:  
+GameStop.com Customer Service  
 625 Westport Parkway  
-Grapevine, TX 76051
-
-  3. Calling the following telephone number: 1-800-883-8895
-
+Grapevine, TX 76051 
+  * Calling the following telephone number: 1-800-883-8895
 
 
-**Your Right to Choose (Opt-Out)**
+
+## Your Right to Choose (Opt-Out)
 
 You always may choose not to provide information. Obviously, if you choose not to provide necessary information, we may not be able to process your orders or inquiries. If we permit you to update any information that we store about you, we may keep a copy of the previous information for our records.
 
-If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email. 
+If, after receiving a non-order related email, you do not want to receive such emails in the future, you can notify us, by clicking on the "unsubscribe" link attached to each email.
 
-**We May Change These Terms**
+## We May Change These Terms
 
-Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of Gamestop.com. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate. It is your responsibility to review them for changes.
+Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of GameStop.com. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate. It is your responsibility to review them for changes.
 
-**Use of Our Website by Children**
+## Use of Our Website by Children
 
-Gamestop.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Gamestop.com only with the involvement of a parent or guardian. 
+GameStop.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use GameStop.com only with the involvement of a parent or guardian.
 
-**Terms and Conditions of Use, Notices, and Revisions**
+## Terms and Conditions of Use, Notices, and Revisions
 
-If you choose to visit our website, your visit and any dispute over privacy is subject to this privacy notice and our Terms and Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Pennsylvania. If you have any concerns or questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: 
+If you choose to visit our website, your visit and any dispute over privacy is subject to this privacy notice and our Terms and Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Pennsylvania. If you have any concerns or questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-Gamestop.com Customer Service  
+GameStop.com Customer Service  
 625 Westport Parkway  
 Grapevine, TX 76051
 
 As is the case with any business, our business changes over time, and our privacy notice and the Terms and Conditions of Use also will change. We may e-mail reminders of our notices and conditions. You should frequently check our website to see recent changes to these terms and policies. Unless stated otherwise, our current privacy notice applies to all information that we have about you and your account.
 
-**Related Practices and Information**
+## Related Practices and Information
 
 Terms and Conditions of Use may be found by [clicking here.](https://web.archive.org/gs/help/disclaimer.aspx)
+
+[► Return to Help Center](https://web.archive.org/web/20121230220836id_/http%3A//www.ebgames.com/gs/help/default.aspx)
