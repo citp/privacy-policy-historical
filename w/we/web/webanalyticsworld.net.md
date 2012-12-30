@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webanalyticsworld.net privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512174846id_/http%3A//www.webanalyticsworld.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsworld.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230061432id_/http%3A//www.webanalyticsworld.net/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 Privacy: Safeguarding your information
 
@@ -15,7 +15,7 @@ Other than information collected automatically (see below) we may collect inform
 Protection of Information
 
 We disclose potentially personally-identifying and personally-identifying information only to those of our employees, contractors and affiliated organizations that (i) need to know that information in order to process it on our behalf or to provide services available at our websites, and (ii) that have agreed not to disclose it to others.   
-Some of those employees, contractors and affiliated organizations may be located outside of your home country. By using this website, you consent to the transfer of such information to them. 
+Some of those employees, contractors and affiliated organizations may be located outside of your home country. By using this website, you consent to the transfer of such information to them.
 
 If the business of this website enters into a joint venture with, or is sold to, or merged with, another business entity, the information you have supplied may be disclosed to its new business partners or owners and the use, ownership and control may be transferred to the new business partners.
 
@@ -30,14 +30,9 @@ We take all measures reasonably necessary to protect against the unauthorized ac
 Information collected automatically  
 We automatically collect information about your visit to our site. This information is used to make your visit to our site more efficient, and to help us follow browsing preferences on our site so that we can make regular improvements. Our external web host may also automatically log your IP address, a unique identifier for your computer or other access device. IP addresses are not linked to personally identifiable information. We only use IP addresses to analyze trends, administer our website, track general user movements, and gather broad demographic information for aggregate use.
 
-Cookies  
-Cookies are small files that are often created when you visit a website, and which are stored in the cookie directory of your computer. A cookie often includes an anonymous unique identifier. Cookies do not damage your computer. Each website can send its own cookie to your browser if your browser’s preferences allow it, but to protect your privacy your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. You do not have to accept cookies. You can decide if you want to accept cookies by changing the settings on your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Switching off cookies will still allow you to view the majority of content on our site, although it may restrict your use of our interactive tools.
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx "ClickTale Privacy"). We are using the information collected by ClickTale service to identify how web visitors are using our site and improvements to usability. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
-There are two types of cookie.
-
-\- Persistent cookies. These remain on your computer for a specified time  (We do not use persistent cookies.)
-
-\- Session-specific cookies. These are deleted when you leave the website. (We use session specific cookies)
+**More information about the[Cookies](http://www.webanalyticsworld.net/privacy/cookies "Cookies") used by Web Analytics World**
 
 Information requests
 
