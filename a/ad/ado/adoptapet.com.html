@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adoptapet.com privacy policy that was archived on 2012-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628072911id_/http%3A//www.adoptapet.com/public/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adoptapet.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230181304id_/http%3A//www.adoptapet.com/public/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/public_base.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -9,10 +9,12 @@
 <!-- tmpl_var ESCAPE=NONE CFG_TMPL_BASE_HREF -->
 <link rel="shortcut icon" href="../../favicon.ico">
 <link href="../../css/adoptapet.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
 <!-- InstanceParam name="width" type="text" value="194" -->
-<!-- InstanceParam name="pet_image_bg" type="text" value="../images/dog_cat.gif" -->
+<!-- InstanceParam name="pet_image_bg" type="text" value="/rotating_images/public_generic" -->
+<!-- InstanceParam name="photo_array" type="text" value="'dog-cat-1.jpg','dog-cat-2.jpg','dog-cat-4.jpg','dog-cat-6.jpg','dog-cat-8.jpg','dog-cat-10.jpg','dog-cat-3.jpg','dog-cat-5.jpg','dog-cat-7.jpg','dog-cat-9.jpg'" -->
 <!-- InstanceParam name="instruction_area" type="boolean" value="false" -->
 <!-- InstanceParam name="Footer" type="boolean" value="true" -->
 <!-- InstanceParam name="Page Title" type="boolean" value="true" -->
@@ -22,7 +24,7 @@
 <!-- InstanceParam name="Quote" type="boolean" value="false" -->
 <!-- InstanceParam name="PageTopAd" type="boolean" value="false" -->
 <!-- InstanceParam name="PageBottomAd" type="boolean" value="false" -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="../../js/public.js" type="text/javascript"></script>
+<script src="../../js/public.js" type="text/javascript"></script>
 <!-- InstanceParam name="default" type="boolean" value="true" -->
 <!-- InstanceParam name="dog_bayer_ad" type="boolean" value="false" -->
 <!-- InstanceParam name="cat_bayer_ad" type="boolean" value="false" -->
@@ -39,8 +41,14 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+<script type="text/javascript">
+ $(document).ready(function(){
+    var images = ['dog-cat-1.jpg','dog-cat-2.jpg','dog-cat-4.jpg','dog-cat-6.jpg','dog-cat-8.jpg','dog-cat-10.jpg','dog-cat-3.jpg','dog-cat-5.jpg','dog-cat-7.jpg','dog-cat-9.jpg'];
+	$('#pet_photo').css({'background-image': 'url(/rotating_images/public_generic/' + images[Math.floor(Math.random() * images.length)] + ')'});
+							});
+</script>
 </head>
-<body style="margin: 0px; margin-top: 10px; margin-left: 10px;" onload="MM_preloadImages('../../images/public/links_over_10.jpg','../../images/public/links_over_12.jpg','../../images/public/link_16_over.jpg','../../images/public/links_over_26.jpg','../../images/public/search_saver_over.jpg','../../images/public/green-icon_over_05.gif','../../images/public/green_icon_over.gif','../../images/public/green_icon_over-03.gif','../../images/public/green-icon_over_09.gif')">
+<body style="margin: 0px; margin-top: 10px; margin-left: 10px;" onload="MM_preloadImages('../../images/public/donate_nav_over.gif','../../images/public/promote_nav_over.gif','../../images/public/get_involved_nav_over.gif','../../images/public/tv_nav_over.gif')">
 
 <table width="850" border="0" align="center" cellpadding="0" cellspacing="0">
   
@@ -70,7 +78,7 @@ passionate pet lovers at Purina, Bayer, &amp; NSALA.<br>
       document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://sponsors.1-800-save-a-pet.com/adjs.php?n=767186294&amp;what=zone:119&amp;exclude=,"></script>
+</script><script language="JavaScript" type="text/javascript" src="http://sponsors.1-800-save-a-pet.com/adjs.php?n=409880929&amp;what=zone:119&amp;exclude=,"></script>
 <noscript>
 <a href='http://sponsors.1-800-save-a-pet.com/adclick.php?n=a356b857' target='_blank'><img src='http://sponsors.1-800-
 save-a-pet.com/adview.php?what=zone:119&amp;n=a356b857' border='0' alt='' /></a>
@@ -121,12 +129,9 @@ save-a-pet.com/adview.php?what=zone:119&amp;n=a356b857' border='0' alt='' /></a>
           </td>
           <td width="135" align="right" valign="top">
             <table width="133" border="0" cellspacing="0" cellpadding="0">
-              
-			  
-			  <tbody><tr>
-                <td align="left" valign="top" style="background-image:url(http://images.adoptapet.com/rotating_images/public_generic/dog-cat-5.jpg);"><img src="../../images/spacer-w.gif" alt="spacer" width="135" height="134"></td>
-		      </tr>
-			  
+              <tbody><tr>
+               <td align="left" valign="top" id="pet_photo"><img src="../../images/spacer-w.gif" alt="spacer" width="135" height="134"></td>
+              </tr>
             </tbody></table>
           </td>
         </tr>
