@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undergroundmarketers.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627225420id_/http%3A//undergroundmarketers.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergroundmarketers.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231004620id_/http%3A//undergroundmarketers.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Underground Marketers
 
