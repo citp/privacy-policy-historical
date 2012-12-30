@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viart.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630182455id_/http%3A//www.viart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viart.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181734id_/http%3A//www.viart.com/privacy) for the most accurate reproduction.*
 
 # ViArt Software Privacy Policy
 
@@ -10,7 +10,7 @@
 [Your Consent](http://www.viart.com/#17)  
 [Privacy Policy Contact](http://www.viart.com/#18)
 
-| **Data Protection** | [](http://www.viart.com/#top)  
+**Data Protection** | [](http://www.viart.com/#top)  
 ---|---  
   
 ViArt Software are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised shopping experience. 
