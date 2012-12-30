@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edenproject.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621120632id_/http%3A//www.edenproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edenproject.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184518id_/http%3A//www.edenproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Eden Project privacy policy
 
@@ -21,7 +21,7 @@ Eden Project collects information in a variety of ways from different parts of t
 
 ## 2\. What are cookies and how are they used?
 
-Eden Project uses cookies to store information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer. The Eden Project uses cookies to tell whether a website user has logged-in, where to find details that can be used to pre-fill parts of on-line forms and to personalise the user's visit to the website. They are also used to track anonymously which areas of the site are popular and which are not used; this allows us to monitor and improve the navigation and content of the site. Internet browsers normally accept cookies by default; however, it is possible to set a browser to reject cookies.
+Read our full [cookies policy](http://www.edenproject.com/cookies-policy).
 
 ## 3\. Who is collecting the information?
 
@@ -29,7 +29,7 @@ When you are on Eden Project website and are asked for personal information by E
 
 ## 4\. How is the information used?
 
-Eden Project primary goal in collecting personal information is to provide you, the member, with a customised experience. By knowing a little bit about you, Eden Project is able to deliver more relevant content and, hence, a better service to you. Eden Project also does research on our member's demographics, interests and behaviour based on the information provided to us upon registration to the mailing lists, during a promotion, from our server logs or from surveys. We do this to better understand our users. This research is compiled and analysed on an aggregated basis. Eden Project may share this aggregated data with potential advertisers or business partners.
+Eden Project's primary goal in collecting personal information is to provide you, the member, with a customised experience. By knowing a little bit about you, Eden Project is able to deliver more relevant content and, hence, a better service to you. Eden Project also does research on our member's demographics, interests and behaviour based on the information provided to us upon registration to the mailing lists, during a promotion, from our server logs or from surveys. We do this to better understand our users. This research is compiled and analysed on an aggregated basis. Eden Project may share this aggregated data with potential advertisers or business partners.
 
 ## 5\. With whom may the information be shared?
 
@@ -52,7 +52,7 @@ You may change any or all of your information by contacting Eden’s Information
 
 ## 8\. What security procedures are in place to protect the loss, misuse or alteration of the information?
 
-Your account information on is password protected so that only you have access to this personal information. We recommend that you do not divulge your password to anyone. Remember to log off your computer or close your browser window when you have finished your work to ensure that others cannot access your personal information and correspondence.
+Your account information is password protected so that only you have access to this personal information. We recommend that you do not divulge your password to anyone. Remember to log off your computer or close your browser window when you have finished your work to ensure that others cannot access your personal information and correspondence.
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Eden Project cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best efforts to ensure its security on our systems.
 
