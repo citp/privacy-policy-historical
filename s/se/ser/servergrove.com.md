@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502073022id_/http%3A//servergrove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servergrove.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185156id_/http%3A//www.servergrove.com/privacy) for the most accurate reproduction.*
 
 # ServerGrove Privacy
 
