@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pre-kpages.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501101459id_/http%3A//www.pre-kpages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pre-kpages.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184609id_/http%3A//www.pre-kpages.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pre-K Pages
+# Privacy Policy — Pre-K Pages
 
 Our readers’ privacy and trust are important to us. We never disclose or sell our readers information to third parties.
 
@@ -24,11 +24,11 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 Although most changes are likely to be minor, Pre-KPages.com may change its Privacy Policy from time to time, and at our sole discretion. We encourage visitors to frequently check this page for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 Be Sociable, Share!
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F%20 "Twitter")
   * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
   *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
