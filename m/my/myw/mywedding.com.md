@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mywedding.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234101id_/http%3A//www.mywedding.com/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywedding.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231003907id_/http%3A//www.mywedding.com/main/privacy.html) for the most accurate reproduction.*
 
 # mywedding - Wedding Planning Guide and Free Wedding Websites - mywedding.com - mywedding.com
-
-[Print](https://web.archive.org/main/downloads/mw-static/legal/privacy.pdf)
 
 ## Privacy Policy
 
@@ -45,6 +43,10 @@ Mywedding.com is committed to protecting your privacy in regards to your persona
 
 We reserve the right to disclose to third parties information about general subscriber usage of mywedding.com and any related services, including information gathered during your use of mywedding.com. Any information disclosed will be in the form of aggregate data (such as overall patterns or demographic reports) that does not describe or identify any individual user. By using Delightful Deals or our other opt-in services, you hereby grant mywedding.com permission to disclose the personal information you have provided to vendors matched to your service request. These opt-in services are a matching service and does not guarantee a successful transaction. Except as provided in this Privacy Policy, we do not share, trade, sell or allow access of your personal information to any third parties. 
 
+### Advertising Choices
+
+We may use third-party advertising companies to provide ads and collect information when you visit mywedding.com. These companies may use information (not including your name, email or postal address) about your visits to this and other websites in order to provide advertisements on this mywedding.com, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
 ### Security
 
 mywedding.com is protected by industry standard SSL (Secure Socket Layers) where appropriate. We have also, through firewalls and other means, attempted to ensure the security and privacy of information disclosed by you. All sensitive personal and financial information is restricted and our employees have access to your information only to perform specific tasks. While we have in place reasonable electronic procedures that safeguard your information collected online, no system on the Internet is completely secure. As such, we encourage the use of discretion when browsing the Internet or when visiting any website, including mywedding.com. 
@@ -73,6 +75,4 @@ If you have any questions regarding this Privacy Policy, you may e-mail us at [p
 
 We reserve the right to update this Privacy Policy at any time and for any reason without notice to you. However, if such a change will affect your personally identifiable information, we will notify you by e-mail of the relevant change. We will also post changes in our privacy statement 30 days prior to a change. You should periodically check to see if this Privacy Policy has changed. 
 
-**Privacy Policy Effective Date:** October 9, 2009. 
-
-[Print](https://web.archive.org/main/downloads/mw-static/legal/privacy.pdf)
+**Privacy Policy Effective Date:** August 30, 2012. 
