@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamingeverything.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621192111id_/http%3A//gamingeverything.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingeverything.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230234823id_/http%3A//gamingeverything.com/privacy-policy) for the most accurate reproduction.*
 
 # Gaming Everything » Privacy Policy
 
