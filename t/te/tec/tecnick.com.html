@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the tecnick.com privacy policy that was archived on 2012-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120522152749id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tecnick.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230230750id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it" dir="ltr"><head>
 <title>Privacy Statement</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="language" content="en"> 
+<meta name="language" content="it"> 
 <meta name="aiocp_level" content="0">
 <meta name="description" content="The following statement outlines the privacy policy of Tecnick.com">
 <meta name="author" content="Nicola Asuni">
@@ -26,9 +26,9 @@
 <input type="hidden" name="ie" id="ie" value="UTF-8">
 <label for="q" style="font-size:small;">?</label> 
 <input type="text" name="q" id="q" size="20" title="Google Search" style="background: url(&quot;https://www.google.it/cse/intl/en/images/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">
-<input type="submit" name="sa" id="gsearch" value="search">
+<input type="submit" name="sa" id="gsearch" value="cerca">
 </div>
-<input name="siteurl" type="hidden" value="web.archive.org/web/20120522152749id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy"><input name="ref" type="hidden" value=""></form>
+<input name="siteurl" type="hidden" value="web.archive.org/web/20121230230750id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy"><input name="ref" type="hidden" value=""><input name="ss" type="hidden" value=""></form>
 <script type="text/javascript">
 //<![CDATA[
 
@@ -41,11 +41,18 @@ if (f && f['q']) {
 var q = f['q'];
 var n = navigator;
 var l = location;
+var du = function(n, v) {
+var u = document.createElement('input');
+u.name = n;
+u.value = v;
+u.type = 'hidden';
+f.appendChild(u);
+return u;
+};
 var su = function (n, t, v, l) {
 if (!encodeURIComponent || !decodeURIComponent) {
 return;
 }
-var u = document.createElement('input');
 var regexp = new RegExp('(?:[?&]' + n + '=)([^&#]*)');
 var existing = regexp.exec(t);
 if (existing) {
@@ -55,14 +62,25 @@ var delimIndex = v.indexOf('://');
 if (delimIndex >= 0) {
 v = v.substring(delimIndex + '://'.length, v.length);
 }
-u.name = n;
 var v_sub = v.substring(0, l);
 while (encodeURIComponent(v_sub).length > l) {
 v_sub = v_sub.substring(0, v_sub.length - 1);
 }
-u.value = v_sub;
-u.type = 'hidden';
-f.appendChild(u);
+du(n, v_sub);
+};
+var pl = function(he) {
+var ti = 0, tsi = 0, tk = 0, pt;
+return function() {
+var ct = (new Date).getTime();
+if (pt) {
+var i = ct - pt;
+ti += i;
+tsi += i*i;
+}
+tk++;
+pt = ct;
+he.value = [ti, tsi, tk].join('j');
+};
 };
 var append = false;
 if (n.appName == 'Microsoft Internet Explorer') {
@@ -83,6 +101,14 @@ for (var i = 0; i < s.length; i++) {
       var loc = document.location.toString(); var ref = document.referrer;
       su('siteurl', loc, loc, 250);
       su('ref', loc, ref, 750);
+
+      
+      
+      if (q.addEventListener) {
+        q.addEventListener('keyup', pl(du('ss', '')), false);
+      } else if (q.attachEvent) {
+        q.attachEvent('onkeyup', pl(du('ss', '')));
+      }
     }
 
     
@@ -144,41 +170,42 @@ ul.altmenu ul {
 <![endif]><![endif]-->
 <ul class="altmenu">
 
-<li><a href="cp_dpage.php?aiocp_dp=_main" title="main page">Main</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=company" title="Tecnick.com company description">Company</a><ul>
-<li><a href="cp_dpage.php?aiocp_dp=about" title="site's terms and usage conditions">Info</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=privacy" title="privacy statement">Privacy</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=_main" title="Pagina principale">Home</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=company" title="Descrizione della Tecnick.com S.r.l.">Azienda</a><ul>
+<li><a href="cp_dpage.php?aiocp_dp=about" title="Informazioni e condizioni d'uso del sito">Informazioni</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=privacy" title="statuto sulla privacy">Privacy</a></li>
 <li><a href="cp_dpage.php?aiocp_dp=rfc1855" title="RFC1855 - Netiquette Guidelines">Netiquette</a></li></ul></li>
-<li><a href="cp_dpage.php?aiocp_dp=services_and_products" title="list of Tecnick.com services and products">Services - Products</a><ul>
-<li><a href="cp_dpage.php?aiocp_dp=product_support" title="Product Support">SUPPORT</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=opensource" title="Open Source Projects">Open Source</a></li>
-<li><a href="http://www.tcpdf.org" title="TCPDF PHP Class for PDF">TCPDF</a></li>
-<li><a href="http://www.tcexam.org" title="TCExam - online exam manager">TCExam</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=services_and_products" title="lista dei servizi e prodotti della Tecnick.com">Servizi - Prodotti</a><ul>
+<li><a href="cp_dpage.php?aiocp_dp=product_support" title="Supporto prodotti">SUPPORTO</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=opensource" title="Progetti Open Source">Open Source</a></li>
+<li><a href="http://www.tcpdf.org" title="TCPDF - classe PHP per PDF">TCPDF</a></li>
+<li><a href="http://www.tcexam.org" title="TCExam - gestione esami online">TCExam</a></li>
+<li><a href="http://www.gasoffice.net" title="GASOffice.net soluzione gestionale per le Stazioni di Servizio Carburanti">GASOffice.net</a></li>
 <li><a href="cp_dpage.php?aiocp_dp=aiocp" title="AIOCP - All In One Control Panel">AIOCP</a></li>
 <li><a href="cp_dpage.php?aiocp_dp=jadc" title="JADC - Advanced Digital Clock">JADC</a><ul>
-<li><a href="cp_dpage.php?aiocp_dp=jadc_setup" title="JADC Setup Intructions">Setup</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=jadc_examples" title="JADC Examples">Examples</a></li></ul></li>
+<li><a href="cp_dpage.php?aiocp_dp=jadc_setup" title="Impostazione dell'applet JADC">Impostazione</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=jadc_examples" title="Esempi d'uso di JADC">Esempi</a></li></ul></li>
 <li><a href="cp_dpage.php?aiocp_dp=jddm" title="JDDM - Drop Down Menu">JDDM</a><ul>
-<li><a href="cp_dpage.php?aiocp_dp=jddm_setup" title="JDDM Setup Instructions">Setup</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=jddm_examples" title="JDDM Examples">Examples</a></li></ul></li>
+<li><a href="cp_dpage.php?aiocp_dp=jddm_setup" title="Impostazione JDDM">Impostazione</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=jddm_examples" title="Esempi d'uso JDDM">Esempi</a></li></ul></li>
 <li><a href="cp_dpage.php?aiocp_dp=jwtm" title="JWTM - Web Tree Menu">JWTM</a><ul>
-<li><a href="cp_dpage.php?aiocp_dp=jwtm_setup" title="Setup JWTM - Java Web Tree Menu">Setup</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=jwtm_examples" title="Examples JWTM - Java Web Tree Menu">Examples</a></li></ul></li>
-<li><a href="cp_dpage.php?aiocp_dp=junitconv" title="JUnitConv - Units of Measure Converter">JUnitConv</a><ul>
-<li><a href="cp_dpage.php?aiocp_dp=junitconv_setup" title="JUnitConv Setup Instructions">Setup</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=junitconv_example" title="JUnitConv Example">Example</a></li></ul></li>
+<li><a href="cp_dpage.php?aiocp_dp=jwtm_setup" title="Impostazione di JWTM">Impostazione</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=jwtm_examples" title="Esempi JWTM - Java Web Tree Menu">Esempi</a></li></ul></li>
+<li><a href="cp_dpage.php?aiocp_dp=junitconv" title="JUnitConv - Convertiotore di Unità di Misura">JUnitConv</a><ul>
+<li><a href="cp_dpage.php?aiocp_dp=junitconv_setup" title="Impostazione di JUnitConv">Impostazione</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=junitconv_example" title="Esempio per JUnitConv">Esempio</a></li></ul></li>
 <li><a href="cp_dpage.php?aiocp_dp=jxhtmledit" title="JXHTMLEDIT WYSIWYG XHTML Editor">JXHTMLEDIT</a><ul>
-<li><a href="cp_dpage.php?aiocp_dp=jxhtmledit_setup" title="JXHTMLEDIT Setup">Setup</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=jxhtmledit_setup" title="Impostazione JXHTMLEDIT">Impostazione</a></li>
 <li><a href="cp_dpage.php?aiocp_dp=jxhtmledit_demo" title="JXHTMLEDIT Demo">Demo</a></li></ul></li>
 <li><a href="cp_dpage.php?aiocp_dp=jrelaxtimer" title="JRelaxTimer">JRelaxTimer</a><ul>
-<li><a href="cp_dpage.php?aiocp_dp=jrelaxtimer_setup" title="JRelaxTimer Setup">Setup</a></li></ul></li>
-<li><a href="cp_dpage.php?aiocp_dp=testimages" title="TESTIMAGES is an archive of images for scientific testing purposes.">TestImages</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=works_gallery" title="Works Gallery">Works Gallery</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=logos" title="Gallery of logos designed by Nicola Asuni">Logos Gallery</a></li></ul></li>
-<li><a href="#" title="Online utilities">Utilities</a><ul>
-<li><a href="cp_codice_fiscale.php" title="calculate online italian fiscal code">Fiscal Code (ITA)</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=eu_vat_id" title="VAT - European VAT tax">EU VAT</a></li></ul></li>
-<li><a href="cp_contact_us.php" title="postal address and mail form">Contact us</a></li></ul>
+<li><a href="cp_dpage.php?aiocp_dp=jrelaxtimer_setup" title="Impostazione JRelaxTimer">Impostazione</a></li></ul></li>
+<li><a href="cp_dpage.php?aiocp_dp=testimages" title="TESTIMAGES è un archivio di immagini per test scientifici.">TestImages</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=works_gallery" title="Galleria Lavori">Galleria Lavori</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=logos" title="galleria loghi">Galleria Loghi</a></li></ul></li>
+<li><a href="#" title="Utilità online">Utilità</a><ul>
+<li><a href="cp_codice_fiscale.php" title="calcola online il codice fiscale">Codice Fiscale</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=eu_vat_id" title="VAT - Imposta sul valore aggiunto in Europa">EU VAT</a></li></ul></li>
+<li><a href="cp_contact_us.php" title="Contatti, email, indirizzi, telefono">Contatti</a></li></ul>
 
 </div>
 </div>
@@ -247,11 +274,11 @@ The following statement outlines the privacy policy of Tecnick.com (www.tecnick.
 <br style="clear:both;">
 
 <div id="textmenubar"><ul>
-<li><a href="cp_dpage.php?aiocp_dp=_main" title="main page">Main</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=company" title="Tecnick.com company description">Company</a></li>
-<li><a href="cp_dpage.php?aiocp_dp=services_and_products" title="list of Tecnick.com services and products">Services - Products</a></li>
-<li><a href="#" title="Online utilities">Utilities</a></li>
-<li><a href="cp_contact_us.php" title="postal address and mail form">Contact us</a></li></ul></div>
+<li><a href="cp_dpage.php?aiocp_dp=_main" title="Pagina principale">Home</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=company" title="Descrizione della Tecnick.com S.r.l.">Azienda</a></li>
+<li><a href="cp_dpage.php?aiocp_dp=services_and_products" title="lista dei servizi e prodotti della Tecnick.com">Servizi - Prodotti</a></li>
+<li><a href="#" title="Utilità online">Utilità</a></li>
+<li><a href="cp_contact_us.php" title="Contatti, email, indirizzi, telefono">Contatti</a></li></ul></div>
 <div class="userbar">
 <div class="minibutton" dir="ltr">
 <span class="langselector" title="change language">
