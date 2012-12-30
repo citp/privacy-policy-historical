@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ktools.net privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625223248id_/http%3A//www.ktools.net/privacy.policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktools.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230225105id_/http%3A//ktools.net/privacy.policy.php) for the most accurate reproduction.*
 
-# Ktools.net: Privacy Policy
+# Privacy Policy - Ktools.net
 
 This is the web site of Ktools.net LLC. 
 
 Our postal address is   
-PO BOX 312  
-Cedar Springs, MI 49319 
+PO BOX 494  
+Belmont, MI 49306-0494 
 
 We can be reached via e-mail at [info@ktools.net](mailto:info@ktools.net)
 
@@ -40,4 +40,4 @@ Consumers can have this information corrected by visiting us at <http://www.ktoo
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses. 
