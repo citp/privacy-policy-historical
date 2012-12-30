@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speak7.com privacy policy that was archived on 2012-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120119142647id_/http%3A//www.speak7.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speak7.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230075800id_/http%3A//www.speak7.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -22,4 +22,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+We partner with a limited number of behavioral advertising companies to serve ads and/or collect certain information when you visit our websites. Behavioral advertising companies may use cookies to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this .behavioral advertising. practice or to opt-out of this use of your anonymous information, you can visit the Network Advertising initiative's [opt out](http://www.networkadvertising.org/managing/opt_out.asp).
