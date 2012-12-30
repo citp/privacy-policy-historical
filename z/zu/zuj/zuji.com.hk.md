@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626192527id_/http%3A//www.zuji.com.hk/site/help/corporate/privacy_policy.html%3Fskin%3Denhk.zuji.com.hk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230212956id_/http%3A//www.zuji.com.hk/site/help/corporate/privacy_policy.html%3Fskin%3Denhk.zuji.com.hk) for the most accurate reproduction.*
 
 # ZUJI Hong Kong: Your Online Travel Guru
 
 ##   Privacy Policy  
-  11 November 2011
+  26 November 2012
 
 ## Contents
 
@@ -23,9 +23,9 @@ Please note that this Privacy Policy will apply to your use of our Websites (as 
 
 ZUJI is a leading online travel company in Asia Pacific offering a full suite of travel products and services (air tickets, accommodation, car rental) in the Asia-Pacific region. ZUJI's head office is located at 67 Ubi Avenue 1, #06-12 Starhub Green, Singapore 408942. Tel: +65 6215 9600, Fax: +65 6215 9605.
 
-ZUJI Pte Ltd has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers only Personal Information that is collected through these sites: [www.zuji.com.sg](http://www.zuji.com.sg/), [www.zuji.com.au](http://www.zuji.com.au/), [www.zuji.com.hk](http://www.zuji.com.hk/), [www.travelocity.co.in](http://www.travelocity.co.in/) and [www.travelguru.com](http://www.travelguru.com/) (collectively referred to herein as "our Websites") and does not cover any information that may be collected offline. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+ZUJI Pte Ltd has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers only Personal Information that is collected through these sites: [www.zuji.com.sg](http://www.zuji.com.sg/), [www.zuji.com.au](http://www.zuji.com.au/), [www.zuji.com.hk](http://www.zuji.com.hk/) and [www.travelocity.co.in](http://www.travelocity.co.in/) (collectively referred to herein as "our Websites") and does not cover any information that may be collected offline. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [customercare@zuji.com.au](mailto:customercare@zuji.com.au) for Australia, [customercare@zuji.com.sg](mailto:customercare@zuji.com.sg) for Singapore, [customercare@zuji.com.hk](mailto:customercare@zuji.com.hk) for Hong Kong, [customercare@travelocity.in](mailto:customercare@travelocity.in) for Travelocity India or [service@travelguru.com](mailto:service@travelguru.com) for TravelGuru. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [customercare@zuji.com.au](mailto:customercare@zuji.com.au) for Australia, [customercare@zuji.com.sg](mailto:customercare@zuji.com.sg) for Singapore, [customercare@zuji.com.hk](mailto:customercare@zuji.com.hk) for Hong Kong or [customercare@travelocity.in](mailto:customercare@travelocity.in) for Travelocity India. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Back to Top
 
