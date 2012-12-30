@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the vladtv.com privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501070509id_/http%3A//www.vladtv.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vladtv.com privacy policy that was archived on 2012-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230053729id_/http%3A//www.vladtv.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta charset="utf-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 		<title>Privacy Policy</title>
 										<meta name="keywords" content="">
 										<meta name="description" content="">    <link rel="stylesheet" type="text/css" href="/includes/css/site.css">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Nobile">
-    <link rel="shortcut icon" href="/favicon.ico">
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <link rel="shortcut icon" href="http://www.vladtv.com/favicon.ico">
+    	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 	  	var _gaq = _gaq || [];
 	  	_gaq.push(['_setAccount', 'UA-6141937-1']);
 	  	_gaq.push(['_trackPageview']);
@@ -19,6 +19,83 @@
 	  		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  	})();
 	</script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script type="text/javascript">
+		
+		/* -- MENU VARIABLES ------------------------ */
+		var show 		= false;
+		var prev_id 	= '';
+		var current 	= '';
+		var _counter 	= 0;
+		var _seconds 	= 0;
+			
+		function openMenu() {
+
+			_seconds++;
+
+			if(_seconds == 2) { 
+				showMenu();
+				clearInterval(_counter);
+			}
+		
+		}
+		
+		function showMenu() {
+							
+			var id = '#'+ current.attr('rel');
+			var li = current.parent();
+			var pr = $('.menu-current');
+				
+			pr.removeClass('menu-current');
+			li.addClass('menu-current');
+				
+			if (!show) {
+				$(id).slideDown(500);
+				show = true;
+				prev_id = id;
+			} else {
+				$(prev_id).hide();
+				$(id).show();
+				prev_id = id;	
+			}
+
+		}
+		
+		$(document).ready(function() {
+			
+			$(".menu-link").hover(function(){
+				
+				current = $(this);
+				
+				if (!show) {
+					 _counter = setInterval(openMenu, 250);
+				} else {
+					showMenu()
+				}
+	
+			}, function() {
+				clearInterval(_counter);
+			});
+			
+			$(".video-entry img").hover(function(){
+				$(this).parent().parent().find(".video-entry-title a").css("color", "#d2232a");
+			}, function() {
+				$(this).parent().parent().find(".video-entry-title a").removeAttr("style");
+			});
+						
+		});
+	</script>
+    <script type="text/javascript">
+		!function(d,s,id){
+			var js,fjs=d.getElementsByTagName(s)[0];
+			if(!d.getElementById(id)){
+				js=d.createElement(s);
+				js.id=id;
+				js.src="//platform.twitter.com/widgets.js";
+				fjs.parentNode.insertBefore(js,fjs);
+			}
+		}(document,"script","twitter-wjs");
+	</script>
 	<script type="text/javascript">
 		cmnunt_site 		= 'cmn_vladtv';
 		cmnunt_silo 		= 's_mus';		
@@ -28,91 +105,56 @@
 		cmnunt_kw 			= '';						
 		cmnunt_exclude		= '';						
 	</script>
-	<script type="text/javascript" src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>
-</head>
+	<script type="text/javascript" src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script></head>
 
 <body>
 
-	<div id="fb-root"></div>
-	<script>
-		(function(d, s, id) {
-  			var js, fjs = d.getElementsByTagName(s)[0];
-  			if (d.getElementById(id)) return;
-  			js = d.createElement(s); js.id = id;
-  			js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  			fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));
-	</script>
+		<div id="fb-root"></div>
+	
 	<div id="sites-wrapper">
-        <div id="sites">
+        <div id="sites" class="clearfix">
             <ul>
                 <li class="current"><a href="http://www.vladtv.com/" id="sites-vladtv"></a>VLADTV</li>
                 <li><a href="http://www.sneakerwatch.com/" id="sites-sneakerwatch"></a>SNEAKER WATCH</li>
-                <li><a href="http://www.celebrityschoolpics.com/" id="sites-celebrityschoolpics"></a>CELEBRITY SCHOOL PICS</li>
                 <li><a href="http://www.hollywoodheavy.com/" id="sites-hollywoodheavy"></a>HOLLYWOOD HEAVY</li>
+				<li><a href="http://www.celebrityschoolpics.com/" id="sites-celebrityschoolpics"></a>CELEBRITY SCHOOL PICS</li>
 				<li><a href="http://www.techeater.com/" id="sites-teacheater"></a>TECH EATER</li>
+				<li><a href="http://www.trailerobsessed.com/" id="sites-trailerobsessed"></a>TRAILER OBSESSED</li>
             </ul>
-			<div id="social-media-icons">
+			<div id="social-media-icons" class="clearfix">
             	<a href="/rss/" target="_blank" id="icons-rss"></a>
             	<a href="/page/contact/" id="icons-email"></a>
-				<a href="http://www.facebook.com/pages/Tech-Eater/208018112604736" target="_blank" id="icons-facebook"></a>
-            	<a href="http://twitter.com/techeatercom" target="_blank" id="icons-twitter"></a>
-            	<div class="clear"></div>
+				<a href="http://www.youtube.com/user/djvlad" target="_blank" id="icons-youtube"></a>
+				<a href="http://www.facebook.com/vladtv" target="_blank" id="icons-facebook"></a>
+            	<a href="http://twitter.com/vladtv" target="_blank" id="icons-twitter"></a>
         	</div>
-            <div class="clear"></div>
         </div>
     </div>
-	<script type="text/javascript">cmnUNT('5x5', tile_num++);</script>
-<div id="cmn_wrap">
-
-<div id="container">
-
-    <div id="header">
-        <a href="/"><img src="/images/site/logo-vladtv.png" alt="Logo: VladTV" width="358" height="70" id="header-logo"></a>
-  		<div id="header-right">
-        	<div id="login">Guest User | <a href="/user-login.php">Login</a> | <a href="/user-register.php">Register</a></div>
-            <div id="search">
-                <!--<strong>POPULAR SEARCHES:</strong> 50 Cent, ROLLING STONE, OCHO CINCO--><br>
-                <form action="/search.php" method="get">
-                    <input type="text" name="title" onfocus="this.value=''" value="SEARCH" class="text-field">
-                    <input type="image" name="submit" src="/images/site/button-search.png" class="image-field">
-                </form>
-			</div>
-        </div>
-        <div class="clear"></div>
-    </div>
-    
-	<div id="fw_promo" class="fw_vladtv">
-		<center><script type="text/javascript">cmnUNT('1020x400,728x90', tile_num++);</script></center>
+	<div id="cmn_ad_tag_head" class="fw_vladtv clearfix">
+		<script type="text/javascript">cmnUNT('3x3', tile_num++, 1);</script>
 	</div>
+	<div id="cmn_wrap">
+	<div id="container">
     
-    <div id="body">
-    	
-        <div id="menu">
-        	<ul>
-            	<li onclick="location.href='/';" class="menu-first"><a href="/" title="Homepage">HOME</a></li>
-            	<li onclick="location.href='/channel/exclusives/';" class=""><a href="/channel/exclusives/" title="Exclusives">EXCLUSIVES</a></li><li onclick="location.href='/channel/best-of-lists/';" class=""><a href="/channel/best-of-lists/" title="&quot;Best of&quot; Lists">"BEST OF" LISTS</a></li><li onclick="location.href='/channel/beef/';" class=""><a href="/channel/beef/" title="Beef">BEEF</a></li><li onclick="location.href='/channel/funny/';" class=""><a href="/channel/funny/" title="Funny">FUNNY</a></li><li onclick="location.href='/channel/lmao-twitpics/';" class=""><a href="/channel/lmao-twitpics/" title="LMAO Twitpics">LMAO TWITPICS</a></li><li onclick="location.href='/channel/music/';" class=""><a href="/channel/music/" title="Music">MUSIC</a></li><li onclick="location.href='/channel/celebs/';" class=""><a href="/channel/celebs/" title="Celebs">CELEBS</a></li><li onclick="location.href='/channel/mma-boxing/';" class=""><a href="/channel/mma-boxing/" title="MMA / Boxing">MMA / BOXING</a></li><li onclick="location.href='/channel/movies-tv/';" class=""><a href="/channel/movies-tv/" title="Movies / TV">MOVIES / TV</a></li><li onclick="location.href='/channel/sports/';" class=""><a href="/channel/sports/" title="Sports">SPORTS</a></li><li onclick="location.href='/channel/random/';" class=""><a href="/channel/random/" title="Crazy News">CRAZY NEWS</a></li><li onclick="location.href='/channel/user-submissions/';" class=" menu-last"><a href="/channel/user-submissions/" title="User Submissions">USER SUBMISSIONS</a></li>            </ul>
-            <div id="ad-160">
-                <script type="text/javascript">cmnUNT('160x600', tile_num++);</script> 
+        <div id="header" class="clearfix">
+            <a href="/"><img src="/images/site/logo-vladtv.png" alt="Logo: VladTV" width="358" height="70" id="header-logo"></a>
+            <div id="header-right">
+                <div id="login">Guest User | <a href="/user-login.php">Login</a> | <a href="/user-register.php">Register</a></div>
+                <div id="search">
+                    <br>
+                    <form action="/search.php" method="get">
+                        <input type="text" name="title" onfocus="this.value=''" value="SEARCH" class="text-field">
+                        <input type="image" name="submit" src="/images/site/button-search.png" class="image-field">
+                    </form>
+                </div>
             </div>
-                        <a href="http://www.vladtv.com/user-submission.php"><img src="/images/ads/vladtv-uploadvideo.jpg" alt="VladTV User Submissions" width="160" height="160" class="ad-160-small"></a>
-			<a href="http://www.youtube.com/trailerobsessed" target="_blank"><img src="/images/ads/logo-trailer-obsessed.jpg" alt="Trailer Obsessed" width="160" height="160" class="ad-160-small"></a>
-			<a href="http://www.killerhiphop.com/" target="_blank"><img src="/images/ads/logo-killer-hiphop.gif" alt="Killer Hip Hop" width="160" height="160" class="ad-160-small"></a>
-			<a href="http://www.lilwaynehq.com/" target="_blank"><img src="/images/ads/logo-lilwaynehq-160-160.jpg" alt="Lil Wayne HQ" width="160" height="160" class="ad-160-small"></a>
-			<a href="http://www.sneakerwatch.com/article/000929/sneakerwatchs-top-50-air-force-1s-of-all-time/"><img src="/images/ads/sneakerwatch-50AF.jpg" alt="SneakerWatch's Top 50 Air Force 1's Of All Time" width="160" height="160" class="ad-160-small"></a>
-			<a href="http://www.sneakerwatch.com/article/002849/sneaker-watchs-top-50-air-maxs/"><img src="/images/ads/sneakerwatch-50airmax.jpg" alt="Sneaker Watch's Top 50 Air Max's" width="160" height="160" class="ad-160-small"></a>
-			<a href="http://www.sneakerwatch.com/article/003005/sneaker-watchs-top-55-nike-dunk-sbs/"><img src="/images/ads/sneakerwatch-55dunksb.jpg" alt="Sneaker Watch's Top 55 Nike Dunk SB's" width="160" height="160" class="ad-160-small"></a>
-			<a href="http://www.sneakerwatch.com/article/002555/the-best-and-worst-sneaker-tattoos/"><img src="/images/ads/sneakerwatch-tats160.jpg" alt="The Best and Worst Sneaker Tattoos" width="160" height="160" class="ad-160-small"></a>
-			<a href="http://www.vladtv.com/blog/41459/vladtv-presents-the-hottest-rapper-cars/"><img src="/images/ads/vladtv-cars160.jpg" alt="VladTV Presents: The Hottest Rapper Cars" width="160" height="160" class="ad-160-small"></a>
-			<a href="http://www.vladtv.com/blog/40909/vladtvs-10-greatest-jewish-rappers-of-all-time/"><img src="/images/ads/vladtv-jewish160.jpg" alt="VladTV's 10 Greatest Jewish Rappers of All Time" width="160" height="160" class="ad-160-small"></a>
-			<a href="http://www.vladtv.com/blog/40395/vladtvs-25-most-influential-southern-rappers/"><img src="/images/ads/vladtv-southern25.jpg" alt="VladTV's 25 Most Influential Southern Rappers" width="160" height="160" class="ad-160-small"></a>
-			<a href="http://www.vladtv.com/blog/47077/vladtvs-50-most-influential-latino-rappers-of-all-time/"><img src="/images/ads/vladtv-latino160.jpg" alt="VladTV's 50 Most Influential Latino Rappers Of All Time" width="160" height="160" class="ad-160-small"></a>        </div>
-        
-        <div id="area-title">
-        	<h1>Privacy Policy</h1>
         </div>
+        
+        <div id="menu" class="clearfix">
+			<ul><li><a href="/" title="Front Page" rel="menu-front-page" class="menu-link">Front Page</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/exclusives/" rel="menu-exclusives" class="menu-link">Exclusives</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/lists/" rel="menu-lists" class="menu-link">Lists</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/beef/" rel="menu-beef" class="menu-link">Beef</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/drama/" rel="menu-drama" class="menu-link">Drama</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/mc-battles/" rel="menu-mc-battles" class="menu-link">MC Battles</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/music/" rel="menu-music" class="menu-link">Music</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/lmao-twitpics/" rel="menu-lmao-twitpics" class="menu-link">LMAO Twitpics</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li><li><a href="/channel/breaking-news/" rel="menu-breaking-news" class="menu-link">Breaking News</a><img src="/images/site/arrow.png" alt="Icon: Menu Arrow" class="menu-arrow"></li></ul><div id="menu-front-page" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/135528/draya-michele-gets-at-meek-mills-alleged-jumpoff-on-twitter/?menu"><img src="http://www.vladtv.com/images/g_thumb/135528.jpg" alt="Draya Michele Gets at Meek Mill's Alleged Jumpoff on Twitter"><p>Draya Michele Gets at Meek Mill's Alleged Jumpoff on...</p></a></div><div class="menu-highlight-entry"><a href="/video/135668/katt-williams-says-how-do-you-keep-kids-safe-without-guns/?menu"><img src="http://www.vladtv.com/images/g_thumb/135668.jpg" alt="Katt Williams Says &quot;How Do You Keep Kids Safe Without Guns?&quot;"><p>Katt Williams Says "How Do You Keep Kids Safe Without...</p></a></div><div class="menu-highlight-entry"><a href="/blog/135253/chad-johnsons-hot-curvy-adult-tape-co-star-revealed/?menu"><img src="http://www.vladtv.com/images/g_thumb/135253.jpg" alt="Chad Johnson's Hot &amp; Curvy Adult Tape Co-Star Revealed!"><p>Chad Johnson's Hot &amp; Curvy Adult Tape Co-Star Revealed!</p></a></div><div class="menu-highlight-text"><p><a href="/blog/135569/paparazzi-catch-rihanna-changing-on-her-balcony/?menu">Paparazzi Catch Rihanna Changing on Her...</a></p><p><a href="/blog/135410/kat-stacks-goes-off-after-being-locked-up-past-release-date/?menu">Kat Stacks Goes Off After Being Locked...</a></p><p><a href="/blog/135654/kanye-rocks-two-strange-masks-during-atlantic-city-show/?menu">Kanye Rocks Two Strange Masks During...</a></p><p><a href="/blog/135659/tyga-sued-by-video-models-over-nudity-in-make-it-nasty-video/?menu">Tyga Sued By Video Models Over Nudity...</a></p></div></div><div id="menu-exclusives" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/video/86084/exclusive-ice-t-talks-about-open-relationships/?menu"><img src="http://www.vladtv.com/images/g_thumb/86084.jpg" alt="Exclusive!  Ice-T Talks About Open Relationships"><p> Ice-T Talks About Open Relationships</p></a></div><div class="menu-highlight-entry"><a href="/video/135650/exclusive-beanie-sigel-how-he-signed-to-roc-a-fella/?menu"><img src="http://www.vladtv.com/images/g_thumb/135650.jpg" alt="Exclusive! Beanie Sigel: How He Signed to Roc-A-Fella"><p>Beanie Sigel: How He Signed to Roc-A-Fella</p></a></div><div class="menu-highlight-entry"><a href="/video/135334/exclusive-future-reveals-what-he-learned-from-kanye-west/?menu"><img src="http://www.vladtv.com/images/g_thumb/135334.jpg" alt="Exclusive! Future Reveals What He Learned from Kanye West"><p>Future Reveals What He Learned from Kanye West</p></a></div><div class="menu-highlight-text"><p><a href="/video/135232/exclusive-swizz-beatz-recalls-jay-z-vs-dmx-battle/?menu">Swizz Beatz Recalls Jay-Z vs DMX Battle</a></p><p><a href="/video/135071/exclusive-trinidad-james-on-inspiration-for-dont-be-safe/?menu">Trinidad James on Inspiration for...</a></p><p><a href="/video/135019/exclusive-ti-trouble-man-aimed-at-those-who-abandoned-him/?menu">T.I.: 'Trouble Man' Aimed At Those Who...</a></p><p><a href="/video/134873/exclusive-lady-luck-i-get-called-once-a-month-to-battle/?menu">Lady Luck: I Get Called Once a Month To...</a></p></div></div><div id="menu-lists" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/135412/yowza-brooke-baileys-hottest-instagram-pics/?menu"><img src="http://www.vladtv.com/images/g_thumb/135412.jpg" alt="Yowza!: Brooke Bailey's Hottest Instagram Pics"><p>Yowza!: Brooke Bailey's Hottest Instagram Pics</p></a></div><div class="menu-highlight-entry"><a href="/blog/135549/top-music-videos-of-the-week/?menu"><img src="http://www.vladtv.com/images/g_thumb/135549.jpg" alt="Top Music Videos Of The Week"><p>Top Music Videos Of The Week</p></a></div><div class="menu-highlight-entry"><a href="/blog/135337/the-top-50-hip-hop-tracks-of-2012/?menu"><img src="http://www.vladtv.com/images/g_thumb/135337.jpg" alt="The Top 50 Hip Hop Tracks Of 2012"><p>The Top 50 Hip Hop Tracks Of 2012</p></a></div><div class="menu-highlight-text"><p><a href="/blog/135075/ho-ho-woah-sexiest-celebrity-santas/?menu">Ho, Ho, Woah!: Sexiest Celebrity Santas</a></p><p><a href="/blog/134661/miss-universe-2012-olivia-culpo-her-hottest-looks/?menu">Miss Universe 2012 Olivia Culpo: Her...</a></p><p><a href="/blog/134370/vladtvs-top-50-music-videos-of-2012/?menu">VladTV's Top 50 Music Videos of 2012</a></p><p><a href="/blog/133999/just-sad-most-ghetto-christmas-trees-of-all-time/?menu">Just Sad: Most Ghetto Christmas Trees...</a></p></div></div><div id="menu-beef" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/135332/cassidy-laughs-at-meek-diss-they-need-to-repo-his-rap-book/?menu"><img src="http://www.vladtv.com/images/g_thumb/135332.jpg" alt="Cassidy Laughs At Meek Diss, &quot;They Need To Repo His Rap Book&quot;"><p>Cassidy Laughs At Meek Diss, "They Need To Repo His Rap...</p></a></div><div class="menu-highlight-entry"><a href="/video/135174/ctes-tone-trump-jumped-by-meek-mills-artist-louis-v-gutta/?menu"><img src="http://www.vladtv.com/images/g_thumb/135174.jpg" alt="CTE's Tone Trump Jumped By Meek Mill's Artist Louis V Gutta"><p>CTE's Tone Trump Jumped By Meek Mill's Artist Louis V Gutta</p></a></div><div class="menu-highlight-entry"><a href="/video/135293/meek-mill-disses-cassidy-in-new-song-repo/?menu"><img src="http://www.vladtv.com/images/g_thumb/135293.jpg" alt="Meek Mill Disses Cassidy in New Song, &quot;Repo&quot;!"><p>Meek Mill Disses Cassidy in New Song, "Repo"!</p></a></div><div class="menu-highlight-text"><p><a href="/video/135530/exclusive-shyne-bury-judas-is-like-ether-hit-em-up-takeover/?menu">Shyne: Bury Judas is like Ether, Hit Em...</a></p><p><a href="/video/135489/gucci-mane-performs-young-jeezy-diss-truth-twice-in-macon-ga/?menu">Gucci Mane Performs Young Jeezy Diss...</a></p><p><a href="/blog/135092/tony-yayo-calls-games-jesus-piece-album-trash-rap/?menu">Tony Yayo Calls Game's Jesus Piece...</a></p><p><a href="/blog/134538/jr-smith-presses-charlamagne-on-twitter-for-disrespecting-him/?menu">JR Smith Presses Charlamagne On Twitter...</a></p></div></div><div id="menu-drama" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/135253/chad-johnsons-hot-curvy-adult-tape-co-star-revealed/?menu"><img src="http://www.vladtv.com/images/g_thumb/135253.jpg" alt="Chad Johnson's Hot &amp; Curvy Adult Tape Co-Star Revealed!"><p>Chad Johnson's Hot &amp; Curvy Adult Tape Co-Star Revealed!</p></a></div><div class="menu-highlight-entry"><a href="/blog/135088/biggies-son-cj-growing-up-fast-looks-just-like-dad/?menu"><img src="http://www.vladtv.com/images/g_thumb/135088.jpg" alt="Biggie's Son CJ Growing Up Fast, Looks Just Like Dad"><p>Biggie's Son CJ Growing Up Fast, Looks Just Like Dad</p></a></div><div class="menu-highlight-entry"><a href="/blog/135304/kyrie-irving-dumped-after-getting-caught-cheating-on-instagram/?menu"><img src="http://www.vladtv.com/images/g_thumb/135304.jpg" alt="Kyrie Irving Dumped After Getting Caught Cheating On Instagram"><p>Kyrie Irving Dumped After Getting Caught Cheating On...</p></a></div><div class="menu-highlight-text"><p><a href="/blog/135175/evelyn-lozada-responds-to-leaked-chad-johnson-adult-tape/?menu">Evelyn Lozada Responds To Leaked Chad...</a></p><p><a href="/blog/135528/draya-michele-gets-at-meek-mills-alleged-jumpoff-on-twitter/?menu">Draya Michele Gets at Meek Mill's...</a></p><p><a href="/blog/135536/trey-songz-denies-being-gay-after-photo-sparks-controversy/?menu">Trey Songz Denies Being Gay After Photo...</a></p><p><a href="/blog/135335/lil-jojos-best-friend-jayloud-shot-killed-on-christmas-day/?menu">Lil Jojo's Best Friend JayLoud Shot &amp;...</a></p></div></div><div id="menu-mc-battles" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/video/135241/kotd-flatline-2-battle-skelly-vs-daylyt/?menu"><img src="http://www.vladtv.com/images/g_thumb/135241.jpg" alt="KOTD Flatline 2 Battle: Skelly vs Daylyt"><p>KOTD Flatline 2 Battle: Skelly vs Daylyt</p></a></div><div class="menu-highlight-entry"><a href="/video/135190/uw-battle-league-math-hoffa-vs-shotgun-suge-face-off/?menu"><img src="http://www.vladtv.com/images/g_thumb/135190.jpg" alt="UW Battle League: Math Hoffa vs Shotgun Suge Face-Off"><p>UW Battle League: Math Hoffa vs Shotgun Suge Face-Off</p></a></div><div class="menu-highlight-entry"><a href="/video/135232/exclusive-swizz-beatz-recalls-jay-z-vs-dmx-battle/?menu"><img src="http://www.vladtv.com/images/g_thumb/135232.jpg" alt="Exclusive! Swizz Beatz Recalls Jay-Z vs DMX Battle"><p>Swizz Beatz Recalls Jay-Z vs DMX Battle</p></a></div><div class="menu-highlight-text"><p><a href="/video/135189/smack-url-battle-conceited-vs-tsu-surf/?menu">Smack/URL Battle: Conceited vs Tsu Surf</a></p><p><a href="/video/135172/o-zone-battle-arsonal-vs-crome/?menu">O-Zone Battle: Arsonal vs Crome</a></p><p><a href="/video/135166/dont-flop-battle-santa-vs-the-grinch/?menu">Don't Flop Battle: Santa vs The Grinch</a></p><p><a href="/video/134902/sma-url-christmas-day-gift-conceited-vs-tsu-surf-trailer/?menu">Sma/URL Christmas Day Gift: Conceited...</a></p></div></div><div id="menu-music" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/135237/nicki-minaj-busts-out-of-her-jumpsuit-at-nyc-xmas-extravaganza/?menu"><img src="http://www.vladtv.com/images/g_thumb/135237.jpg" alt="Nicki Minaj Busts Out of Her Jumpsuit at NYC XMas Extravaganza"><p>Nicki Minaj Busts Out of Her Jumpsuit at NYC XMas...</p></a></div><div class="menu-highlight-entry"><a href="/blog/135491/tis-trouble-man-comes-in-second-on-billboard-charts/?menu"><img src="http://www.vladtv.com/images/g_thumb/135491.jpg" alt="T.I.'s &quot;Trouble Man&quot; Comes In Second On Billboard Charts"><p>T.I.'s "Trouble Man" Comes In Second On Billboard Charts</p></a></div><div class="menu-highlight-entry"><a href="/blog/135662/trinidad-james-planning-an-ep-with-lil-boosie/?menu"><img src="http://www.vladtv.com/images/g_thumb/135662.jpg" alt="Trinidad James Planning An EP With Lil Boosie"><p>Trinidad James Planning An EP With Lil Boosie</p></a></div><div class="menu-highlight-text"><p><a href="/video/135650/exclusive-beanie-sigel-how-he-signed-to-roc-a-fella/?menu">Beanie Sigel: How He Signed to...</a></p><p><a href="/blog/135649/nas-kicks-off-nye-festivities-with-las-vegas-concert/?menu">Nas Kicks Off NYE Festivities With Las...</a></p><p><a href="/video/135652/diddy-releases-hilarious-outtakes-from-sean-john-ads/?menu">Diddy Releases Hilarious Outtakes from...</a></p><p><a href="/video/135661/behind-the-scenes-50-cent-wiz-khalifa-hate-bein-sober/?menu">Behind The Scenes: 50 Cent &amp; Wiz...</a></p></div></div><div id="menu-lmao-twitpics" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/135543/funniest-lmao-twitpics-12-28-2012/?menu"><img src="http://www.vladtv.com/images/g_thumb/135543.jpg" alt="Funniest LMAO Twitpics 12/28/2012"><p>Funniest LMAO Twitpics 12/28/2012</p></a></div><div class="menu-highlight-entry"><a href="/blog/135443/ipad-prank-win/?menu"><img src="http://www.vladtv.com/images/g_thumb/135443.jpg" alt="iPad prank win"><p>iPad prank win</p></a></div><div class="menu-highlight-entry"><a href="/blog/135504/too-sexy-for-the-xmas-photo/?menu"><img src="http://www.vladtv.com/images/g_thumb/135504.jpg" alt="too sexy for the xmas photo"><p>too sexy for the xmas photo</p></a></div><div class="menu-highlight-text"><p><a href="/blog/135655/funniest-lmao-twitpics-12-29-2012/?menu">Funniest LMAO Twitpics 12/29/2012</a></p><p><a href="/blog/135503/he-wants-to-be-bane-so-bad/?menu">he wants to be Bane so bad</a></p><p><a href="/blog/135432/your-ex-deserves-this/?menu">your ex deserves this</a></p><p><a href="/blog/135516/back-before-ipads-xmas-was-amazeballs/?menu">back before iPads Xmas was amazeballs</a></p></div></div><div id="menu-breaking-news" class="menu-top-entries clearfix"><div class="menu-highlight-entry"><a href="/blog/135339/ludacris-his-girl-flaunt-their-bangin-beach-bodies-in-hawaii/?menu"><img src="http://www.vladtv.com/images/g_thumb/135339.jpg" alt="Ludacris &amp; His Girl Flaunt Their Bangin' Beach Bodies in Hawaii"><p>Ludacris &amp; His Girl Flaunt Their Bangin' Beach Bodies in...</p></a></div><div class="menu-highlight-entry"><a href="/blog/135567/serena-williams-looks-sexier-than-ever-in-new-photo-shoot/?menu"><img src="http://www.vladtv.com/images/g_thumb/135567.jpg" alt="Serena Williams Looks Sexier Than Ever in New Photo Shoot"><p>Serena Williams Looks Sexier Than Ever in New Photo Shoot</p></a></div><div class="menu-highlight-entry"><a href="/blog/135568/floyd-mayweather-bought-his-fiance-a-16m-necklace/?menu"><img src="http://www.vladtv.com/images/g_thumb/135568.jpg" alt="Floyd Mayweather Bought His Fiance a $16M Necklace?"><p>Floyd Mayweather Bought His Fiance a $16M Necklace?</p></a></div><div class="menu-highlight-text"><p><a href="/blog/135537/drake-puts-gentlemans-club-in-his-house/?menu">Drake Puts Gentleman's Club in His...</a></p><p><a href="/blog/135572/diddy-plays-water-games-with-his-three-kids-in-st-barts/?menu">Diddy Plays Water Games With His Three...</a></p><p><a href="/blog/135416/lebron-james-says-ric-flair-is-one-of-the-creators-of-swag/?menu">LeBron James Says Ric Flair is One of...</a></p><p><a href="/video/135564/jay-z-shows-off-his-ball-handling-skills-at-nets-game/?menu">Jay-Z Shows Off His Ball Handling...</a></p></div></div>        </div>
             
         <div id="area-featured">
+        	<h2><span>Privacy Policy</span></h2>
 			<div id="page-info">
 				<p><strong>Third Party Advertising / Third Party Cookies </strong><br> In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. Security measures. We protect the personal information you share with us. Authorized third party agents may also need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. <br> <br> <strong>Data Retention </strong><br> Vladtv.com will not retain your personal information longer than is necessary for the purposes for which it was collected. <br> <br> <strong>Linked web sites</strong><br> We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites. Children's privacy We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Vladtv.com encourages parents to go online with their kids. <br> <br> <strong>Here are a few tips to help make a child's online experience safer: </strong><br> Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. <br> <br> Know the sites your kids are visiting and which sites are appropriate. Look for Web site privacy policies. <br> <br> Know how your child's information is treated. Check out the FTC's site(1) for more tips on protecting children's privacy online. <br> <br> We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. Third Party Advertising These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. Third Party Cookies. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.</p>
 <p>It is our strict policy to never knowingly work in association with any infringing entity's unlawful use of a lawful trademark or lawful copyright. Remember, VladTV is simply a site that provides its readers with reporting of urban media &amp; hip hop news and opinions.</p>            </div>
@@ -120,55 +162,71 @@
         
         <div id="area-featured-right">
             <div id="ad-300">
-                <script type="text/javascript">cmnUNT('300x250', tile_num++);</script> 
+                <script type="text/javascript">cmnUNT('300x250,300x600', tile_num++);</script> 
             </div>
         </div>
 
         <div class="clear"></div>
         
+		        <div id="footer">
+            Copyright © 2008-2012 Hot In Here, Inc. All Rights Reserved. <a href="/page/terms/">Terms of Service</a> | <a href="/page/privacy/">Privacy</a> | <a href="/page/contact/">Contact</a><br>
+        </div>
+    
     </div>
     
-	<div id="footer">
-    	Copyright © 2008-2012 Hot In Here, Inc. All Rights Reserved. <a href="/page/terms/">Terms of Service</a> | <a href="/page/privacy/">Privacy</a> | <a href="/page/contact/">Contact</a><br>
-    </div>
-
 </div>
 
-</div>
-
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<!-- Quantcast Tag --> 
 <script type="text/javascript">
-	_qacct="p-a0gOdUACucKCE";
-	quantserve();
+  	var _qevents = _qevents || [];
+  	(function() {
+   		var elem = document.createElement('script');
+   		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+   		elem.async = true;
+   		elem.type = "text/javascript";
+   		var scpt = document.getElementsByTagName('script')[0];
+   		scpt.parentNode.insertBefore(elem, scpt);  
+  	})();
+</script>
+<script type="text/javascript">
+	_qevents.push({ qacct:"p-a0gOdUACucKCE"});
 </script>
 <noscript>
-	<a href="http://www.quantcast.com/p-a0gOdUACucKCE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-a0gOdUACucKCE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-a0gOdUACucKCE.gif" height="1" width="1" alt="Quantcast"/></div>
 </noscript>
+<!-- End Quantcast tag -->
 
-<script type="text/javascript">
+<!-- Begin comScore Tag --> 
+<script>
 	document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-<script type="text/javascript">
-  var current_url = document.location.href.substr(7, document.location.href.length);
-  COMSCORE.beacon({
-    c1:2,
-    c2:6685975,
-    c3:"",
-    c4:"www.vladtv.com/page/privacy/",
-    c5:"",
-    c6:"",
-    c15:""
-  });
-</script>
-<noscript>
-	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6685975&c3=&c4=&c5=&c6=&c15=&cj=1" />
-</noscript>
+</script><script src="https://sb.scorecardresearch.com/beacon.js"></script> 
+<script>   
+	COMSCORE.beacon({     
+	c1: 2,     
+	c2: 6685975,     
+	c3: "",     
+	c4: "www.vladtv.com/page/privacy/'",     
+	c5: "",     
+	c6: "",     
+	c15: ""   
+	}); 
+</script> 
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6685975&c3=&c4=&c5=&c6=&c15=&cj=1" /></noscript> 
+<!-- End comScore Tag -->   
 
-<!-- CMN Toolbar -->
-<script type="text/javascript">
-	var cmn_k = '2_FBzXkQmWcO7KvbzjkOzVA6mNiQzv2QF5H1tAv47RQwnaLU1pR1me6rDsb9uGZmUe';
-	cmnTB();
-	cmnUNT('tover', tile_num++);
+<script type="text/javascript">			
+    cmnTB();
+    cmnUNT('tover', tile_num++);
+</script>
+
+<script>
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
 </script>
 
 
