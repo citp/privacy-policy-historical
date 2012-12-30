@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeshighereducation.co.uk privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524085430id_/http%3A//www.timeshighereducation.co.uk/hybrid.asp%3FtypeCode%3D122%26pubCode%3D1%26navcode%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeshighereducation.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193455id_/http%3A//www.timeshighereducation.co.uk/hybrid.asp%3FtypeCode%3D122%26pubCode%3D1%26navcode%3D11) for the most accurate reproduction.*
 
 # Times Higher Education - Education news, resources and university jobs for the academic world
 
