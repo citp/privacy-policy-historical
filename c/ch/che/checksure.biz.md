@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630233912id_/http%3A//www.checksure.biz/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185139id_/http%3A//www.checksure.biz/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ We sometimes use an Internet device called a cookie to store login or other info
 
 For certain services, we will allow you to have an ID or password stored in a cookie. We do not store payment details in cookies. 
 
-[_View Cookie Policy_](https://web.archive.org/web/20120630233912id_/http%3A//www.checksure.biz/cookies.asp)
+[_View Cookie Policy_](https://web.archive.org/web/20121230185139id_/http%3A//www.checksure.biz/cookies.asp)
 
 **Security of personal information**
 
@@ -50,7 +50,7 @@ In some cases we may be required to disclose your personal information to comply
 
 **Changes and Information**
 
-Should you wish to have your information updated or corrected, you may either access and correct your Internet registration record online. Alternatively, you may contact _[checkSURE Customer Service](https://web.archive.org/web/20120630233912id_/http%3A//www.checksure.biz/contact_online_credit_check.asp)._
+Should you wish to have your information updated or corrected, you may either access and correct your Internet registration record online. Alternatively, you may contact _[checkSURE Customer Service](https://web.archive.org/web/20121230185139id_/http%3A//www.checksure.biz/contact_online_credit_check.asp)._
 
 **Updates to Privacy Policy**
 
