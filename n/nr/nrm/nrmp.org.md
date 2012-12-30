@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrmp.org privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621133409id_/http%3A//www.nrmp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrmp.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230220028id_/http%3A//www.nrmp.org/privacy.html) for the most accurate reproduction.*
 
 # NRMP - Privacy Statement
 
@@ -8,7 +8,7 @@ The NRMP recognizes it has a responsibility to treat with care the personal info
 
 ### Personal Information
 
-As part of its Matching Program, the NRMP collects certain personal information to provide you with the services requested and to engage in research for specific, defined purposes. Such personal information may include names, identification numbers, contact information, institutional affiliation, and other biographical information. This information is collected only through our password-protected Web site, the Registration, Ranking, and Results (R3) System.
+As part of its Matching Program, the NRMP collects certain personal information to provide you with the services requested and to engage in research for specific, defined purposes. Such personal information may include names, identification numbers, contact information, institutional affiliation, and other biographical information. This information is collected only through our password-protected Web site, the **Registration, Ranking, and Results SM (R3SM)** **** system.
 
 In addition to using it for our Matching Program, your information also may be used by the NRMP for educational research or verification purposes or under restricted conditions by third parties as explained below in Data Sharing with Third Parties.
 
@@ -38,12 +38,13 @@ Although the NRMP and the Association of American Medical Colleges (which hosts 
 
 To learn more about protecting your personal information online, read [7 Practices for Computer Security](http://www.onguardonline.gov/topics/computer-security.aspx "7 Practices for Computer Security") and [How Not to Get Hooked by a 'Phishing' Scam](http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.shtm "How Not to Get Hooked by a 'Phishing' Scam") from the Federal Trade Commission.
 
-If you have any questions, comments, requests, or concerns related to this Privacy Notice, please contact the NRMP at [nrmp@aamc.org](mailto:nrmp@aamc.org) or at:
+If you have any questions, comments, requests, or concerns related to this Privacy Notice, please contact the NRMP at [support@nrmp.org](mailto:support@nrmp.org) or at:
 
 National Resident Matching Program  
-2450 N Street, NW  
+2121 K Street, NW   
+Suite 1000  
 Washington, DC 20037
 
-The NRMP has the right, at any time and from time to time, to make changes to this Privacy Notice. If the changes are material, we generally will provide at least 30 days’ notice. Any changes to this Privacy Notice will be posted on this Web site and will be effective when posted unless another date is referenced in the notice. We recommend you check the Privacy Notice on a regular basis so that you know the current terms and conditions that apply to you, because if you use our Web site after any changes are effective, you are agreeing to comply with and be bound by them.
+The NRMP has the right, at any time and from time to time, to make changes to this Privacy Notice. If the changes are material, we generally will provide at least 30 days� notice. Any changes to this Privacy Notice will be posted on this Web site and will be effective when posted unless another date is referenced in the notice. We recommend you check the Privacy Notice on a regular basis so that you know the current terms and conditions that apply to you, because if you use our Web site after any changes are effective, you are agreeing to comply with and be bound by them.
 
-Updated 08/30/2010
+Updated 07/26/2012
