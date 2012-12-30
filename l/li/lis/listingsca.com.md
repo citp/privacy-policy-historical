@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524034630id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230031356id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Listings Canada
 
@@ -55,6 +55,6 @@ Press the Back Button on your browser to return to the previous page.
 
 [Listings Canada](http://listingsca.com/)
 
-[Home](http://listingsca.com/) | [Jobs](http://www.careerbuilder.ca/intl/landingpage.aspx?lr=int_calistingsca&siteID=int_calistingsca03) | [Add/Modify Listing](http://listingsca.com/common/links/) | [Photo Gallery](http://listingsca.com/gallery/) | [Maps](http://listingsca.com/mapmenu.asp) | [Contact](http://listingsca.com/common/contact.asp) | [Privacy Statement](http://listingsca.com/common/privacy.asp) | [About Us](http://listingsca.com/common/aboutus.asp) | [USA](http://listingsus.com/)
+[Home](http://listingsca.com/) | [Jobs](http://www.careerbuilder.ca/intl/landingpage.aspx?lr=int_calistingsca&siteID=int_calistingsca03) | [Add/Modify Listing](http://listingsca.com/common/links/) | [Photo Gallery](http://listingsca.com/galleryindex.asp) | [Maps](http://listingsca.com/mapmenu.asp) | [Contact](http://listingsca.com/common/contact.asp) | [Privacy Statement](http://listingsca.com/common/privacy.asp) | [About Us](http://listingsca.com/common/aboutus.asp) | [USA](http://listingsus.com/)
 
 This site owned and operated by 2012 [LWorld Media Inc.](http://lworldmedia.com/)
