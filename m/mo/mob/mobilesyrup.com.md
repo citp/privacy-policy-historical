@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilesyrup.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623163434id_/http%3A//mobilesyrup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilesyrup.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184440id_/http%3A//mobilesyrup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobileSyrup.com
 
