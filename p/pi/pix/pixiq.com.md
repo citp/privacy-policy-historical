@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixiq.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627171326id_/http%3A//www.pixiq.com/privacy-principles) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixiq.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230213446id_/http%3A//www.pixiq.com/privacy-principles) for the most accurate reproduction.*
 
 # Privacy Principles | Pixiq
 
