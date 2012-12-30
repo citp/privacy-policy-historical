@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overture.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630161057id_/http%3A//info.yahoo.com/privacy/us/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overture.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230135231id_/http%3A//info.yahoo.com/privacy/us/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Policy
 
@@ -65,7 +65,7 @@ Yahoo! displays targeted advertisements based on personal information. Advertise
 
 
 
-Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://info.yahoo.com/privacy/us/all/). 
+Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://info.yahoo.com/privacy/us/yahoo/thirdparties/). 
 
 Return to top
 
@@ -126,6 +126,6 @@ Sunnyvale, CA 94089
 
 If you feel that your inquiry has not been satisfactorily addressed, please click [here](http://info.yahoo.com/privacy/us/yahoo/consumeragencies/) for information on consumer agencies that may be able to provide you with additional assistance.
 
-Effective Date: November 22, 2006
+Last Updated: October 28, 2008
 
 Return to top
