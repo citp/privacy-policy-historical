@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630122054id_/http%3A//www.adriatic.hr/en/local/text/doc/zastita_privatnosti) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230061142id_/http%3A//www.adriatic.hr/en/local/text/doc/zastita_privatnosti) for the most accurate reproduction.*
 
-# Privacy Policy » Useful Info » Adriatic.hr
+# Adriatic.hr - Croatia summer holiday. Private apartments, rooms and hotels
 
 Privacy statement serves us for protection of privacy of our users. You can look at Adriatic.hr pages for free, without any commitment of revealing your identity or leaving any kind of your private data. In case that you decide to use our services, it's necessary to leave us your personal data, so that we could complete your reservation and to lease asked service. Your personal data remains protected. We assure you that we are collecting only information that we need to complete our procedure of reservation of our service. In that process we are using only information that we receive directly from you.
 
