@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hymnary.org privacy policy that was archived on 2012-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120612233258id_/http%3A//www.hymnary.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hymnary.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184820id_/http%3A//www.hymnary.org/info/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Hymnary.org
+# Privacy Policy - Hymnary.org
 
 Because we respect your privacy and are committed to protecting it, we have adopted this Privacy Policy. There are several Hymnary services that require the collection of information from you. These services include signing up with a user name and password to enable you to access community features. Other services may set cookies on your computer. 
 
