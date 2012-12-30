@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livejournal.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629234600id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livejournal.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230235550id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # LiveJournal Privacy Policy
 
@@ -10,18 +10,6 @@ LiveJournal Inc. takes your privacy seriously. We are committed to making best e
   * 580 Market Street, Suite 500
   * San Francisco, CA 94104
   * Attn: Safe Harbor Compliance Unit
-
-
-
-**Council of Better Business Bureaus, Inc.:** LiveJournal is further committed to referring any unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by LiveJournal, you may contact:
-
-  * Council of Better Business Bureaus, Inc.
-  * BBB EU Safe Harbor
-  * 4200 Wilson Boulevard, Suite 800
-  * Arlington, VA 22203
-  * Phone:  703-276-0100
-  * Web: [http://www.bbb.org/us/](https://web.archive.org/web/20120629234600id_/http%3A//www.livejournal.com/legal/www.us.bbb.org)
-  * Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
 
 
 
