@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscitizenship.info privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623060027id_/http%3A//www.uscitizenship.info/privacy-policy-popup.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscitizenship.info privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230200020id_/http%3A//www.uscitizenship.info/privacy-policy-popup.jsp) for the most accurate reproduction.*
 
 # USCitizenship.info | Privacy Policy
 
