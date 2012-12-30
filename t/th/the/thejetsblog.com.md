@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thejetsblog.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628213739id_/http%3A//www.thejetsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejetsblog.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230185151id_/http%3A//thejetsblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | thejetsblog.com
-
-TheJetsBlog.com’s Privacy Policy
+# Privacy Policy | The Jets Blog
 
 We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website only.
 
