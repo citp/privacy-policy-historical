@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609034001id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230032417id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.*
 
 # Security and Privacy - Safe, Secure Shopping at Movies Unlimited
 
@@ -16,6 +16,8 @@ Our mailing address is:
 3015 Darnell Road  
 Philadelphia, PA 19154 **
 
+Email us at: [cusserv@moviesunlimited.com](mailto:cusserv@moviesunlimited.com)
+
 ### Over 20 years experience in protecting confidentiality…
 
 Movies Unlimited has been processing customers' video orders for over 20 years through our world-renowned print catalog. Over the years, more than one million customers' personal information has always been protected against unauthorized usage and now, shopping online remains just as safe. 
@@ -31,3 +33,9 @@ Movies Unlimited maintains two discrete mailing lists for our online and off-lin
 ### We're always up front with our customers…
 
 When you shop with us, you are in effect, giving your consent to use your email address to confirm your order and to keep you informed about new releases and upcoming specials. If we ever decide to change our policies about your email address, we will make those changes available on our website so that you will always be made aware of how we use that information. 
+
+### Google Analytics for Display Advertisers…
+
+MoviesUnlimited.com participates in a Google remarketing program for online advertising, where third-party vendors, including Google, show our ads on sites across the Internet. This is accomplished through the use of first-party cookies (such as the Google Analytics cookie), and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on past visits to our site. 
+
+Those who wish to opt out of this type of advertising can visit [Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TChHUhsS66OmcTrTkIPkQDcgkW37E8tH4ZwIIbFD60wO1xvCy3ZkukN9z_aLgkLynzpZAx1s1ReBkO3rQhL014WxwufMMHFGSGNxHiGb4QLz2txh6NmAz7B8sVNLmslPgcz0Kw9_uuTsTsu2NHxJYDI-ebkCbGo_IXqlzbmBlxwrjJowTO5PI_u7RAiKyRinRBH9wpQBujVBqDFdN3sP2Lt3ZTMN4Q), or [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
