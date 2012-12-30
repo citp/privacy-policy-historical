@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002931id_/http%3A//www.carlashes.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230223952id_/http%3A//www.carlashes.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Shopping Cart [](http://www.1automationwiz.com/SecureCart/SecureCart.aspx?mid=178383D6-7FEB-43DB-BD36-B8AB77A4F4DC)
 
-[](https://web.archive.org/web/20120504002931id_/http%3A//www.carlashes.com/order-complete-set-mardi-gras.html)
+[](https://web.archive.org/web/20121230223952id_/http%3A//www.carlashes.com/order-complete-set-mardi-gras.html)
 
   
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -25,7 +25,7 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-**If you have any questions about our privacy policy, please[contact us](https://web.archive.org/web/20120504002931id_/http%3A//www.carlashes.com/contact-us.html).**
+**If you have any questions about our privacy policy, please[contact us](https://web.archive.org/web/20121230223952id_/http%3A//www.carlashes.com/contact-us.html).**
 
 CARLASHES™ MAKE YOU SMILE!  
 Trademark Carlashes™ owned by Robert Small, And Used By Permission  
