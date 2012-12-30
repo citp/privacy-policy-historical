@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2wealth.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629095616id_/http%3A//www.way2wealth.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2wealth.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231001515id_/http%3A//www.way2wealth.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Way2Wealth Brokers Private Ltd.
 
@@ -159,13 +159,13 @@ Certain provisions of the Terms may be superseded by expressly designated legal 
 |   
 ---  
    
-|  | [About Us](https://web.archive.org/web/20120629095616id_/http%3A//www.way2wealth.com/about_us.asp)  |  [Careers](https://web.archive.org/web/20120629095616id_/http%3A//www.way2wealth.com/careers.asp) |  [Advertise with Us](https://web.archive.org/web/20120629095616id_/http%3A//www.way2wealth.com/advertise.asp)  |  [ Privacy Policy](https://web.archive.org/web/20120629095616id_/http%3A//www.way2wealth.com/privacy_policy.asp)  |  [Terms and Conditions](https://web.archive.org/web/20120629095616id_/http%3A//www.way2wealth.com/terms_conditions.asp)  |  [Investor Awareness and Compliance](https://web.archive.org/web/20120629095616id_/http%3A//www.way2wealth.com/InvestorAwarenessandCompliance.asp)  |  [Site Map](https://web.archive.org/web/20120629095616id_/http%3A//www.way2wealth.com/sitemap.asp)  
+|  | [About Us](https://web.archive.org/web/20121231001515id_/http%3A//www.way2wealth.com/about_us.asp)  |  [Careers](https://web.archive.org/web/20121231001515id_/http%3A//www.way2wealth.com/careers.asp) |  [Advertise with Us](https://web.archive.org/web/20121231001515id_/http%3A//www.way2wealth.com/advertise.asp)  |  [ Privacy Policy](https://web.archive.org/web/20121231001515id_/http%3A//www.way2wealth.com/privacy_policy.asp)  |  [Terms and Conditions](https://web.archive.org/web/20121231001515id_/http%3A//www.way2wealth.com/terms_conditions.asp)  |  [Investor Awareness and Compliance](https://web.archive.org/web/20121231001515id_/http%3A//www.way2wealth.com/InvestorAwarenessandCompliance.asp)  |  [Site Map](https://web.archive.org/web/20121231001515id_/http%3A//www.way2wealth.com/sitemap.asp)  
 ---  
 Way2Wealth Brokers Private Limited, SEBI Reg. Nos.: NSE CM: INB231150237 | NSE FO: INF230683037 | NSE CDM: INE231150237 | BSE CM: INB011150233 |  
 
 
 MCX-SX CDS: INE261150237 | BGSE CM: INB081150238 | PMS: INP000000829 | AMFI Regn. No.: ARN 0009   
-DP SEBI Regn. No. NSDL: IN-DP-NSDL-253-2005, CSDL: IN-DP-CSDL-526-2009
+DP SEBI Regn. No. NSDL: IN-DP-NSDL-253-2005, CDSL: IN-DP-CDSL-526-2009
 
 Way2Wealth Commodities Private Limited,  MCX: FMC Code: MCX/TCM/CORP/1616, MCX Member ID: 40040. NCDEX: FMC Code: NCDEX/TCM/CORP/0883, NCDEX Member ID: 00908. **Way2Wealth Insurance Brokers Private Limited** , IRDA License No – 222     
 If you have any grievances about our products or services, please write to us at [ grievance@way2wealth.com](mailto:grievance@way2wealth.com)  
