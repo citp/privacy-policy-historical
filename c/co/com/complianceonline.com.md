@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527091937id_/http%3A//www.complianceonline.com/ecommerce/control/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complianceonline.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230222832id_/http%3A//www.complianceonline.com/ecommerce/control/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - ComplianceOnline Quality & Compliance Portal
 
 **Introduction**
 
-ComplianceOnline is a service provided by MetricStream Inc. At ComplianceOnline, we are committed to protecting your privacy and to give you a secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide certain content, services, and products that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete ComplianceOnline privacy statement. 
+ComplianceOnline is a service provided by MetricStream Inc. At ComplianceOnline, we are committed to protecting your privacy and to give you a secure online experience. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide certain content, services, and products that you request, and this statement of privacy explains data collection and use in those situations. Please read the complete ComplianceOnline privacy statement.
 
 **Collecting Personal Information**
 
@@ -28,18 +28,18 @@ ComplianceOnline may collect information about the use of the Site, such as the 
 
 **Security of Personal Information**
 
-ComplianceOnline strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+ComplianceOnline strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. 
+Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access.
 
 **Changes to this Statement**
 
-ComplianceOnline will occasionally update this privacy statement. For material changes to this Statement, ComplianceOnline will notify you by placing prominent notices on the Web site. 
+ComplianceOnline will occasionally update this privacy statement. For material changes to this Statement, ComplianceOnline will notify you by placing prominent notices on the Web site.
 
 **Contact**
 
-Queries regarding this privacy statement please contact us at editor@complianceonline.com, or call Toll Free: +1-888-717-2436 or send mail to ComplianceOnline, 2600 E. Bayshore Road,Palo Alto, CA 94303 
+Queries regarding this privacy statement please contact us at editor@complianceonline.com, or call Toll Free: +1-888-717-2436 or send mail to ComplianceOnline, 2600 E. Bayshore Road,Palo Alto, CA 94303
 
 **Last Update**
 
-March 06, 2008 
+March 06, 2012
