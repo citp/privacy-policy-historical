@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfweekly.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234140id_/http%3A//www.sfweekly.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfweekly.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231005521id_/http%3A//www.sfweekly.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # San Francisco Privacy Policy
 
