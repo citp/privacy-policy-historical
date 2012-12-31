@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the highdefdiscnews.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622070238id_/http%3A//www.highdefdiscnews.com/%3Fpage_id%3D15511) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highdefdiscnews.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231035424id_/http%3A//www.highdefdiscnews.com/%3Fpage_id%3D15511) for the most accurate reproduction.*
 
-# Privacy - HighDefDiscNews Blu-ray News
+# HighDefDiscNews Blu-ray News Reviews Screenshots Release Dates Privacy - HighDefDiscNews Blu-ray News Reviews Screenshots Release Dates
 
 ## Privacy
 
