@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studystack.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630094850id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studystack.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231020113id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.*
 
 # Study Stack - Privacy
 
@@ -13,6 +13,8 @@ When a user signs up to join StudyStack, StudyStack will store the e-mail addres
 StudyStack reserves the right to collect information regarding who entered what data. This allows StudyStack to notify the individual who entered a certain piece of information if it suspects that the information is incorrect.
 
 If you use facebook to connect to studystack, your name and facebook profile picture will be displayed on flashcard pages that you create. If you do not want this data displayed, do not use facebook to connect to studystack. 
+
+StudyStack occasionally provides a support feature that allows users to interact with StudyStack using a chat session. This feature is only available to users that have logged in and who have indicated that they are over the age of 13. 
 
 ## Non-Personally Identifiable Information (Non-PII)
 
