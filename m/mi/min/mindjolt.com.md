@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindjolt.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617181353id_/http%3A//www.sgn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindjolt.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231133345id_/http%3A//www.sgn.com/privacy) for the most accurate reproduction.*
 
 # SGN – Social Gaming Network » Privacy Policy
 
