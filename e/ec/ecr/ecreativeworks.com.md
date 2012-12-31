@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecreativeworks.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511202336id_/http%3A//www.ecreativeworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecreativeworks.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231034411id_/http%3A//www.ecreativeworks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Industrial Website Design - Ecreativeworks, Inc.
 
@@ -21,11 +21,13 @@ Ecreativeworks is committed to protecting the privacy of visitors to our website
 
 **Types of Information  
 **  
-Cookies. A Cookie is a randomly generated unique number placed on your computer. It allows us to identify your computer without requiring your disclosure of any Non-Public Personal Information. Cookies make it possible to both store and retrieve information through your Internet browser. A Cookie itself cannot read information off a hard drive or read Cookie files from other sites.
+Cookies. A Cookie is a randomly generated unique number placed on your computer. It allows us to identify your computer without requiring your disclosure of any Non-Public Personal Information. Cookies make it possible to both store and retrieve [replica handbags](http://www.cheapmulberryonsale.org/) information through your Internet browser. A Cookie itself cannot read information off a hard drive or read Cookie files from other sites.
 
 General Information is information that does not itself reveal your identity. General Information may include, without limitation: generic business type, SIC code, information derived from publicly available databases (such as Dun and Bradstreet), user behavior on our website, and aggregated generic information.
 
-Non-Public Personal Information is any non-public information you provide to us or our Partners that is proprietary or identifies or can be used to identify, contact, or locate you or someone at your business. Non-Public Personal Information may include, without limitation: name, address, phone number, e-mail address, credit card number, account information, voting behavior, spending patterns, and individual tastes and preferences.
+[ugg outlet](http://www.hotestuggsoutlet.com/)
+
+Non-Public Personal Information is any non-public information you provide to us or our Partners that is proprietary or identifies or can be used to identify, contact, or locate you or someone at your business. Non-Public Personal Information [replica mulberry handbags](http://www.cheapmulberryonsale.org/mulberry) may include, without limitation: name, address, phone number, e-mail address, credit card number, account information, voting behavior, spending patterns, and individual tastes and preferences.
 
 Partners are individuals or entities we engage to help us carry out our mission.
 
@@ -37,7 +39,7 @@ Ecreativeworks collects general information and non-public personal information.
 
 Ecreativeworks collects our general information through the use of cookies and server-based tracking systems to view the usage of the website.
 
-Non-public personal information is collected through registration or contact forms on this site and will never be used for any purpose other than internal use or by our partners unless the registrant chooses to be added to mailing lists (this is a choice made by the registrant on the Registration form).
+Non-public personal information is collected through registration or contact forms on this site and will never be used for any purpose other than internal [mulberry bags outlet](http://www.cheapmulberryonsale.org/mulberry) use or by our partners unless the registrant chooses to be added to mailing lists (this is a choice made by the registrant on the Registration form).
 
 **Privacy Policy Changes**
 
