@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thatvideogameblog.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625000131id_/http%3A//www.thatvideogameblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatvideogameblog.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231172536id_/http%3A//www.thatvideogameblog.com/privacy-policy) for the most accurate reproduction.*
 
-# That VideoGame Blog » Privacy Policy
+# Privacy Policy | That VideoGame Blog - Game and Video game news
 
 **General.** We do not sell, rent or loan any identifiable information (including e-mail address, phone number, etc.) regarding our visitors to anybody. We will not solicit you by phone or mail. Any information you provide us will not be used in ways to which you have not consented.
 
