@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503165144id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231134943id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
 
-# College Reviews: StudentsReview : Over 115600 College Reviews ™! (3,359 schools reviewed)
+# College Reviews: StudentsReview : Over 119400 College Reviews ™ (3,359 schools reviewed!)
 
 StudentsReview is a firm supporter in individuals' rights to privacy and protection of their personal information. SR feels that not only a company such as itself fully disseminate its data acquisition processes, but also will do its best to keep users informed when it is taking data of any nature from or on them. 
 
