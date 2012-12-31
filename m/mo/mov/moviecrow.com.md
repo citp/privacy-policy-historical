@@ -1,100 +1,99 @@
-> *The following text is extracted and transformed from the moviecrow.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviecrow.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231164309id_/http%3A//www.moviecrow.com/Privacy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# MovieCrow.com Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**Moviecrow Privacy Policy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Effective Aug 1, 2011**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Thank you for visiting Moviecrow. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the collection and use of the personal information you submit on Web pages or for services where this policy is posted. We may make changes to this Policy and will post the recent policy on our site. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**THE INFORMATION WE COLLECT**
 
-**Information Collection and Use**
+**Registration.**  At some of our Web sites, applications and services ("Services"), you can order products or purchase content, enter contests, play one of our games, read critic and user reviews, vote in polls, rate movies, TV shows and other content, or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in our online forums or communities. In the course of using the Services, we ask you to create an account by providing us with certain personally identifiable information that can be used to contact or identify you, as well as to administer your account. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, credit card and billing information, and information about your interests in and use of various products, programs, and services.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Information about others/inviting friends.**  You also can submit information about other people. For example, you might submit a person's name and e-mail address to share content or recommendations, and if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Some of our Services also allow you to invite your friends to join our services and to connect with you through social media features. Inviting friends is always optional. To do so, you may provide their contact information or may enter your log-in credentials to import email addresses from your address book from other sites that support such functionality (e.g., Yahoo! and Gmail). You select the friends you want to invite to share in this experience.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Information from other sources/social networking sites.**  You can also engage with our content, such as video, games, applications, and other offerings, on or through (1) third-party social networking sites, such as Facebook, (2) third-party social media plug-ins and applications, and (3) our social media plug-ins and applications that may be available through third-party sites or our Services. You may also choose to link your account with us to third party social networking sites. When you link your account or engage with our content on or through third party social networking sites, social media plug-ins or applications, you may allow us to have ongoing access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the 'likes' you make). We may also maintain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on, etc.) from your interaction with our content.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+When you provide information from your social media profile, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly with the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with this Privacy Policy.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+When you post information on blogs, public forums or similar functions at our Services, or when you interact with our Services through social networking sites (depending on your privacy settings), social media plug-ins or similar applications, this information could be seen by anyone on the Internet. Therefore, we cannot prevent further use of this information. You can control what data you share through privacy settings available on some social networking sites. For more information about how you can customize your privacy settings and how social networking sites handle your personal information, please refer to their privacy help guides, privacy policies and terms of use.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Information collection from mobile devices**. If you access our Services on your mobile telephone or other mobile device, we also collect your unique device identifier and may collect location information. We also may collect your telephone number and other information you choose to provide, such as username or e-mail address (e.g., to receive updates about movies and other content).
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Technical and usage information.**  We also may obtain certain technical information when you use our Services, such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g., Windows 7, Mac OS, iOS, and Android), and the name of your Internet service provider or mobile carrier. 
 
-**Security**
+**HOW WE USE THE INFORMATION**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 
-**Updating Your Information**
+We use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our user agreements, to fulfill a request by you for an online newsletter, to confirm purchases you have made through our Services, or to contact you about your account with us.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We use the information that you provide about others to enable us to send them your invitations, gifts or offers. From time to time, we also may use this information to offer our products, programs, or services to them.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+If you choose to submit content for publication, we may publish your screen name and other information you have provided to us.
 
-      iii.      You may call us at: (480) 505-8800
+When you access our Services on a mobile device, we may use the information collected to enable you to do things like watch trailers and video clips; get entertainment news and updates; get information about movies or TV shows (e.g., find show times for theaters near you); buy movie tickets; play games; follow blogs; and read critic and user reviews. We may also use this information to offer you products and services we believe may be of interest to you and otherwise tailor your experience.
 
-       iv.      You may fax us at: (480) 505-8844
+We use the non-personally identifiable information that we collect to improve the design and content of our Services and to enable us to personalize your experience with our Services. We also may use this information in the aggregate to analyze usage of our Services, as well as for us and for other partners to offer you products, programs, or services.
 
-**Sending Emails**
+**INFORMATION SHARING AND DISCLOSURE**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we or one of our business units are acquired by, sold to, or merged with another company.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Our agents and contractors may have access to personally identifiable information to help carry out the services they are performing for us.
 
-**Compliance with Laws and Law Enforcement**
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We may disclose personally identifiable information about you to companies whose practices are not covered by this Privacy Policy (e.g., other marketers, publishers, retailers, participatory databases and non-profit organizations) that want to directly market products or services to you. If we share personally identifiable information with such companies, we will provide you with an opportunity to opt out or block such uses. If at some point in the future you decide that you no longer want us to share your information for these purposes, send us an email at [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com).
 
-**Third Party Service Providers**
+We may, on occasion, combine information we receive from you with outside records to enhance our ability to market to you those products or services that may be of interest to you. We provide you with an opportunity to express your preferences with respect to receiving information about products and services from us and selected third parties when you interact with us. If you ever decide in the future that you would like to update these preferences, you may log into your account if you have created one with us, you can follow the "unsubscribe" instructions provided on any marketing e-mail you receive from us, or you may send us an email at [privacy@flixster-inc.com](mailto:privacy@flixster-inc.com) and we will edit your preferences accordingly.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**COLLECTION OF INFORMATION BY THIRD PARTY SITES, AD SERVERS, AND SPONSORS**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Some of our Services contain links to or integrations with other sites (e.g., Facebook, Twitter) whose information practices may be different than ours. Visitors should consult the other sites' or services' privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties.
 
-**Supplementation of Information**
+We sometimes may offer content or programs (e.g., contests, sweepstakes, promotions, games, applications or social network integrations) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information. Our Services will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+At some of our Services, reputable third parties may present or serve the advertisements, provide us with data collection, reporting, ad response measurement, site analytics, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. For more information about third party ad servers at our Services and your ability to opt-out of targeted advertising from such third parties, visit the [Network Advertising Initiative](http://www.networkadvertising.org/).
 
-**Contests/Surveys**
+**COOKIES AND OTHER TECHNICAL INFORMATION**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We, our third party service providers, and our partners may send "cookies" to your computer or use similar technologies to enhance your experience with our Services. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies manage and measure the performance of advertisements displayed on or delivered by or through us and/or other networks or sites. Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser).
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+Some of our Services may use locally stored objects (sometimes referred to as "Flash cookies") to provide certain content, such as video on demand, video clips, or animation. Adobe's Flash player (and similar applications) use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your web browser, but you can access your Flash management tools from [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-**Tell-A-Friend**
+We may also use "Web beacons" that monitor your use of our Services. Web beacons (or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+When we correspond with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail. On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons.
 
-**What Happens to my Personal Information if I Opt Out?**
+By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Services can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**OUR COMMITMENT TO SECURITY**
 
-**Transfer of Data Abroad**
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+**HOW YOU CAN ACCESS OR CORRECT INFORMATION**
 
-**Changes in Our Practices**
+To access the personally identifiable information that our Services collected about you online from the pages on which this Privacy Policy is posted, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your profile if you have created one with us or send an email to [privacy@moviecrow.com](mailto:privacy@moviecrow.com).
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If you have downloaded one of our apps, you can access and change user settings, such as turning off location functionality, from the options/settings menu on your device. Methods for uninstalling will vary depending on your device.  To uninstall one of our apps, please use the application manager provided with your device or consult your device manual.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
-**Contacting Our Site**
+**INTERNATIONAL TRANSFER**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We operate internationally and many of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account at our Services as a visitor from outside the United States, you consent to the collection and/or processing of your personally identifiable information in the United States, which includes the use of cookies as described above.
 
-* * *
+**NOTIFICATION REGARDING UPDATES**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site or by sending you an email message. We encourage you to periodically check back and review this policy so that you know our current privacy practices.
+
+**HOW TO CONTACT US**
+
+webmaster@moviecrow.com
