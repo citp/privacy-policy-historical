@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511193225id_/http%3A//www.webpt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpt.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231082350id_/http%3A//www.webpt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WebPT
 
@@ -15,7 +15,7 @@ ATTN: Website Security
 605 E Grant Street, Suite 200  
 Phoenix, AZ 850004
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint) TRUSTe here. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through our applications.
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through our applications.
 
 #### The Information We Collect
 
