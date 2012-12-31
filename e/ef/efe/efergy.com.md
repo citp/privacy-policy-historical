@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efergy.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623154407id_/http%3A//www.efergy.com/index.php/default/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efergy.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231225229id_/http%3A//www.efergy.com/index.php/default/privacy) for the most accurate reproduction.*
 
 # efergy UK - Privacy Policy
 
@@ -26,9 +26,9 @@ We are committed to ensuring that your information is secure. In order to preven
 
 **Cookies**  
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.  
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.  
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. We also use cookies to keep track of what you have in your basket and to remember you when you return to our site. It also tells us which website you came to us from. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can disable cookies on your computer by changing the preferences or options menus in your browser. However, it is possible that some parts of our website will not operate correctly if you disable cookies.
 
 Restrict your personal details
 
