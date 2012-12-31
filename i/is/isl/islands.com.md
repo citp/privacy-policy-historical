@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islands.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510002626id_/http%3A//www.islands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islands.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231025725id_/http%3A//www.islands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Islands Magazine
 
@@ -10,7 +10,7 @@ At Bonnier Corporation, your privacy is important to us.  This Privacy Policy a
 
 To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
 
-Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the [Safe Harbor website](http://www.export.gov/safeharbor/doc_safeharbor_index.asp).
+Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the [Safe Harbor website](http://www.export.gov/safeharbor/eu/eg_main_018476.asp).
 
 **Note: For questions related to your magazine subscription, please visit our** **Customer Service web site** **or email** **islands@emailcustomerservice.com** **.**
 
