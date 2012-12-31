@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622122107id_/http%3A//www.amf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231011008id_/http%3A//www.amf.com/privacy) for the most accurate reproduction.*
 
-# AMF Bowling | Privacy Policy
+# Privacy Policy | AMF Bowling Centers
 
 The services offered by AMF Bowling Centers, Inc., its parent companies, subsidiaries and affiliates (collectively "AMF," "we," "us" or "our") include the AMF.com website (the "Site"), and any other features, content, or applications offered from time to time by AMF in connection with the Site (collectively, the "AMF Services"). The Site and the AMF Services are owned by AMF.
 
