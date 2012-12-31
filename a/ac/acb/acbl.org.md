@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acbl.org privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502011334id_/http%3A//www.acbl.org/join/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acbl.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231173618id_/http%3A//www.acbl.org/join/privacyPolicy.html) for the most accurate reproduction.*
 
 # ACBL - ACBL Privacy Policy
 
-## Last updated: June 2007
+## Last updated: September 2012
 
 The American Contract Bridge League (“ACBL”) is committed to respecting both your online and non-online privacy. Please read the following policy to understand how your personal information provided by you and collected by us will be treated. This policy may change from time to time so please check back periodically. This policy will let you know the following:
 
@@ -15,7 +15,8 @@ The American Contract Bridge League (“ACBL”) is committed to respecting both
   7. What does “opt-out” mean?
   8. What else should I know about my privacy?
   9. How secure is information about me?
-  10. Other legal notices.
+  10. How do we communicate with children?
+  11. Other legal notices.
 
 
 
@@ -67,7 +68,7 @@ back to top
 
 ## 6\. How do I access, update or delete my information?
 
-Members may change their addresses and other contact information when they access My ACBL and/or click onto "Change My Information" on the "Resources for Members" web page. They may also request the individual information that the ACBL has collected about them, correct factual inaccuracies in their information, remove personal information from the ACBL’s databases and/or update their personal information by calling the ACBL Customer Service Department at 662-253-3137 or e-mail at [service@acbl.org](mailto:service@acbl.org). Please allow up to four weeks for your selection to be fully implemented. Non-members' rights are as set forth in the "opt-out" section immediately below.
+Members may change their addresses and other contact information when they access My ACBL and click on "Update My Information." They may also request the individual information that the ACBL has collected about them, correct factual inaccuracies in their information, remove personal information from the ACBL’s databases and/or update their personal information by calling the ACBL Customer Service Department at 662-253-3137 or e-mail at [service@acbl.org](mailto:service@acbl.org). Please allow up to four weeks for your selection to be fully implemented. Non-members' rights are as set forth in the "opt-out" section immediately below.
 
 back to top
 
@@ -109,8 +110,14 @@ We have physical, electronic and procedural safeguards to protect personal infor
 
 back to top
 
-## 10\. Other legal notices.
+## 10\. How do we communicate with children?
 
-Any dispute over privacy is subject to this privacy policy and our Conditions of Use, including limitations on damages and submission to arbitration in Memphis TN. If you have any concern about your privacy in connection with this policy, please send us a thorough description to [service@acbl.org](mailto:service@acbl.org) and we will try to resolve it. We may post a revised privacy policy on our site. Please note that the use of information that we gather is subject to the privacy notice in effect at the time of use. You should check our web site frequently to see recent changes. 
+Although we wish to communicate with all of our members, we do not contact children under age 13 about special offers, upcoming events or for marketing purposes without a parent’s permission. At the time of enrollment, new members are asked to give a date of birth to receive the youth membership rate. This information is used for checking this policy. Parents can provide permission by calling the ACBL Customer Service Department at 662-253-3137 or by sending an email to [service@acbl.org](mailto:service@acbl.org). Once permission is granted, the other conditions of privacy and opt-out are available.
+
+back to top
+
+## 11\. Other legal notices.
+
+Any dispute over privacy is subject to this privacy policy and our Conditions of Use, including limitations on damages and submission to arbitration in Atlanta, Georgia. If you have any concern about your privacy in connection with this policy, please send us a thorough description to [service@acbl.org](mailto:service@acbl.org) and we will try to resolve it. We may post a revised privacy policy on our site. Please note that the use of information that we gather is subject to the privacy notice in effect at the time of use. You should check our web site frequently to see recent changes. 
 
 back to top
