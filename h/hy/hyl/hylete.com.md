@@ -1,100 +1,45 @@
-> *The following text is extracted and transformed from the hylete.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hylete.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231091045id_/http%3A//www.hylete.com/privacy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+Your privacy is important to us. HYLETE, LLC maintains high standards for the protection of your privacy at our web sites. Here is what you can expect when you visit our site. First, by using, accessing, or viewing this website, you irrevocably agree to the terms and conditions of use placed on this website by HYLETE, LLC, including but not limited to this privacy policy. Our privacy policy may be changed or modified at any time, so it is your responsibility to review this policy each time you visit our website. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Other than to fulfill a request from you, we won't sell, rent or share any personally-identifiable information you provide without your consent. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Please remember that this policy covers only the data collection and use practices for our site, an official website of HYLETE, LLC. HYLETE, LLC privacy policies may differ at other of its websites or in its off-line data collection and reporting practices. Questions regarding the privacy policy of any other website should be directed to the privacy policy posted on such other website. Further, HYLETE, LLC is not responsible for the privacy policies of third parties, and upon leaving the official HYLETE, LLC website, you understand that HYLETE, LLC privacy policy no longer applies to the third party website or materials you are viewing or accessing.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Email**  
+If you sign up for any online services, offers or programs, or purchase products from us online, we will use the information you provide to fulfill such order or provide you with such services or programs. If you are sent any email by us and no longer wish to receive any online services, offers or programs, you can always opt-out of future receipt of such communications by following the instructions for opting out on each email received. Your personal information concerning any product purchased may be maintained internally at HYLETE, LLC in order to allow HYLETE, LLC to fulfill warranty obligations and the like. 
 
-**Information Collection and Use**
+**The Information We Collect**  
+Our web servers automatically capture your domain name, the IP address of the web page from which you enter our site, the pages you visit on our site and the amount of time you spend here. We do not collect any information that can reveal your personal identity unless you voluntarily provide it when you register to use interactive features of the site, including the sales portal, or to receive information from us or our affiliated companies. If you register a HYLETE, LLC product, enter to win a contest, subscribe to one of our newsletters, or send an email to us, or otherwise transmit information via any of the HYLETE, LLC websites, HYLETE, LLC may obtain and collect personally identifiable contact information (expressed herein generally as "personal information") such as your name, email address, payment information (i.e. credit card number/expiration date), and/or mailing address, subject to your ability to opt-out of our future use or disclosure of such information. Should you wish to opt-out of any website feature or other communications, such as a newsletter you signed up for, then please follow the instructions associated with the website feature opt-out instruction, or the unsubscribe feature of any communication originating with HYLETE, LLC. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+If you have not "opted-out" of our use and disclosure of your personal information, HYLETE, LLC may also use personal information for all marketing and survey purposes on behalf of itself and its affiliates and subsidiaries. HYLETE, LLC may appoint third party agents in connection with such marketing and survey efforts. HYLETE, LLC may disclose personal information to select business partners for use in connection with direct mail marketing efforts, but that personal information will not include your email address. If you have "opted-out", HYLETE, LLC will use or disclose your personal information only as stated above, or: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with HYLETE, LLC, (3) if we believe you will harm the property or rights of HYLETE, LLC or those of HYLETE, LLC other customers, (4) under exigent circumstances to protect the physical safety of HYLETE, LLC, its employees, users or the general public, or (5) to validate credit card numbers for charging for fee services you have requested. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Chat Rooms and Bulletin Boards**  
+HYLETE, LLC may host various chat rooms, bulletin boards, or other means of allowing its customers to publicly communicate with each other. If you participate in any online chat room, bulletin board, or other public means of communication, you acknowledge and agree that your personal information will be publicly available, including your email address. HYLETE, LLC shall have no liability for any use of personal information you make public on its website or in its chat rooms. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Children's Privacy**  
+Any section of our site that is directed to children or teens will be protected by a screening mechanism to help ensure that parental consent is obtained before we collect or use personal information from children under 13. We do not knowingly collect or use information from children under 13 without the consent of a parent or guardian.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Personally identifiable information voluntarily provided by you may be retained indefinitely for the purposes described in this Privacy Notice. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**Use of the Information this Site Gathers/Tracks**  
+Any personally-identifiable information you give us will be used only to provide the product, service or information you have requested, like retail locations where our products may be found, or to support the programs for which you registered. Unless you specifically consent to let us do so, your personally-identifiable information, including your e-mail address, will not be sold, rented, licensed, or otherwise shared with third parties, other than as required to fulfill a request from you. The non-personally identifiable information we gather in aggregate form may be used to improve our site, and we may share that information with our licensors/licensees, affiliated companies or sponsors.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Making Changes to the Information You Provide to Us**  
+Information that you voluntarily provided will be maintained as long as HYLETE, LLC deems appropriate to fulfill the purpose for which you provided the information or until you request us to remove it.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Cookies**  
+When you visit our site, we may place a temporary "session" or a permanent cookie on your computer that will allow us to customize and enhance your experience at the site, make improvements to our site, or to report site activity. Our session cookies are not permanently stored on your computer and expire when you leave. Permanent cookies are issued only to site visitors who link the site from a search engine and are used only to permit HYLETE, LLC to attract qualified users to the site. Our cookies will never be used to track your activity on any third party web sites or to send spam, nor will they provide us with any personally identifiable information about you. We store cookie information only in aggregate form and use the aggregate information only to make improvements to the site or in internal reports on site activity. You may use your browser controls to refuse to allow cookies to be placed on your computer. Refusing cookies disables our ability to make your return visits to our site easier or to include information about your visit in our regular monitoring of site traffic.
 
-**Security**
+**Sites We Link To**  
+If you choose to use any of the links we provide to our member companies, affiliates, licensors/licensees, and other third party resources, you will be leaving our web site and going to a new web site. Protection of your privacy at those other sites will be governed by the privacy policy at that site. We've taken special care selecting the companies that are officially affiliated with our site to try to ensure that they respect your privacy as we do, but please take the time to read the privacy policies at their sites. HYLETE, LLC is not responsible for the use of your personal information by any third party.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Contact Information**  
+If you have any questions or comments or receive any unwanted e-mail from this site, please contact our customer service department via e-mail at [customerservice@hylete.com](mailto:customerservice@hylete.com) or contact us at the below address: 
 
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**HYLETE, LLC**  
+135 S. Sierra Ave, Unit 20  
+Solana Beach, California 92075  
+Phone: (800) 991-6532
