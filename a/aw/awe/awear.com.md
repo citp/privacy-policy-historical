@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awear.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605150702id_/http%3A//www.awear.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awear.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231034927id_/http%3A//www.awear.com/page/privacy) for the most accurate reproduction.*
 
 # A|wear - Privacy Policy Statement - A|wear
 
@@ -20,7 +20,7 @@ When you go through the checkout process we ask for additional information, incl
 
 We may also gather information about how you use the website and aggregate this information with usage information from other customers to determine how to improve the website experience further. We use the non-personal data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organise our website.
 
-Like most internet sites, we use Cookies to track your online experience on the website. Cookies are necessary to keep track of items in your basket, enable you to checkout, and to allow you to personalize your shopping experience. Cookies are required for the shopping experience. If you do not accept Cookies you will be unable to use this website. Refer to the FAQ content of your browser for more information on selecting or deselecting Cookies.
+Like most internet sites, we use Cookies to track your online experience on the website. Cookies are necessary to keep track of items in your basket, enable you to checkout, and to allow you to personalize your shopping experience. Cookies are required for the shopping experience. If you do not accept Cookies you will be unable to use this website. Refer to the FAQ content of your browser for more information on selecting or deselecting Cookies or for more details on the type of information that is stored by our cookies please [check our cookies information page >](http://www.awear.com/page/awear_cookie_policy)
 
 ## Third Parties
 
@@ -51,11 +51,11 @@ We reserve the right to transfer information (including your personal data) to a
 
 ## Security
 
-Your personal data is held on secure servers hosted by **Venda and Cheetah Mail**. The nature of the Internet is such that we cannot guarantee or warrant the security of any information you transmit to us via the Internet. No data transmission over the Internet can be guaranteed to be 100% secure. However, we will take all reasonable steps (including appropriate technical and organisational measures) to protect your personal data.
+Your personal data is held on secure servers hosted by  **Venda and Emarsys**. The nature of the Internet is such that we cannot guarantee or warrant the security of any information you transmit to us via the Internet. No data transmission over the Internet can be guaranteed to be 100% secure. However, we will take all reasonable steps (including appropriate technical and organisational measures) to protect your personal data.
 
 ## Updating, Verifying and Deleting Personal Data
 
-You may inform us of any changes in your personal data, and in accordance with our obligations under the Data Protection Acts 1988 and 2003 we will update or delete your personal data accordingly. To find out what personal data we hold on you or to have your personal data updated, amended or removed from our database, please email us at **[help@awear.com](mailto:help@awear.com?subject=Data%20Protection%20Query)**. Any such data subject requests may be subject to the prescribed fee.
+You may inform us of any changes in your personal data, and in accordance with our obligations under the Data Protection Acts 1988 and 2003 we will update or delete your personal data accordingly. To find out what personal data we hold on you or to have your personal data updated, amended or removed from our database, please email us at  **[help@awear.com](mailto:help@awear.com?subject=Data%20Protection%20Query)**. Any such data subject requests may be subject to the prescribed fee.
 
 ## Transfers of Personal Data
 
@@ -67,11 +67,11 @@ Any changes to this Policy will be posted on this website so you are always awar
 
 ## Contact Us
 
-If you would like to contact us, please email us at [feedback@awear.com](mailto:feedback@awear.com). If you send us an email, we will endeavour to respond to you within two business days.
+If you would like to contact us, please email us at [feedback@awear.com](mailto:feedback@awear.com). If you send us an email, we will endeavour to respond to you within two business days.
 
 This website is operated by:
 
-A|wear Ltd
+Latzur Ltd t/a A|wear
 
 A|wear Head Office
 
@@ -83,9 +83,7 @@ Dublin 2
 
 Ireland
 
-Company No: 3231  
-VAT No: 1E8V56031J  
-Copyright © A|wear Ltd 
+Company No: 509316 VAT REG: IE 9818896O  Copyright © Latzur Ltd t/a A|wear
 
 * * *
 
