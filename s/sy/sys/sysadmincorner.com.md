@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sysadmincorner.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502085058id_/http%3A//www.oraclesolved.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sysadmincorner.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231065016id_/http%3A//www.oraclesolved.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Oracle Solved Privacy Policy | OracleSolved.com
 
-This policy is presented to you in order to help you make an informed decision about using this service and to explain to you what information we collect, how we store that information and how we may use it. By using our website, you are consenting to have your personal data transferred to and/or processed in the United States in accordance with the terms of this Privacy Policy. RedSource Interactive, LLC collects all data collected through www.oraclesolved.com and is responsible for implementing and ensuring compliance with this privacy policy. RedSource Interactive, LLC participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's Safe Harbor website. 
+This policy is presented to you in order to help you make an informed decision about using this service and to explain to you what information we collect, how we store that information and how we may use it. By using our website, you are consenting to have your personal data transferred to and/or processed in the United States in accordance with the terms of this Privacy Policy. RedSource Interactive, LLC collects all data collected through www.oraclesolved.com and is responsible for implementing and ensuring compliance with this privacy policy. RedSource Interactive, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. To learn more about the Safe Harbor program, and to view RedSource Interactive, LLC’s certification, please visit http://www.export.gov/safeharbor/.
 
 ## 1\. What information do we collect?
 
@@ -118,7 +118,7 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 If you have questions or concerns regarding this privacy policy, you should first contact our privacy staff as follows:
 
-Mail: RedSource Interactive Ltd. Att: Chief Privacy Officer, PO Box 1062 San Luis Obispo, CA 93406-1062
+Mail: RedSource Interactive LLC. Att: Chief Privacy Officer, PO Box 1062 San Luis Obispo, CA 93406-1062
 
 Email: privacy@oraclesolved.com
 
@@ -128,4 +128,14 @@ You have the right to request a copy of the personal information Oracle Solved h
 
 Additionally, you may at any time change your information by updating your profile on the “My Profile – Edit” page.
 
-If you do not receive acknowledgment of your inquiry or if your inquiry has not been satisfactorily addressed, you should contact the Council of Better Business Bureaus, Inc. at eusafeharbor@council.bbb.org.
+## 14\. Privacy Complaints by European Union and Swiss Citizens
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Redsource Interactive, LLC commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Redsource Interactive, LLC at:
+
+Mail: RedSource Interactive, LLC. Attn: Chief Privacy Officer, PO Box 1062, San Luis Obispo, CA 93406-1062
+
+Email: privacy@redsourceinteractive.com
+
+Telephone: 805.543.2607
+
+Redsource Interactive, LLC has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Redsource Interactive, LLC, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
