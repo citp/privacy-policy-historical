@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606093217id_/http%3A//www.bps.org.uk/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231203206id_/http%3A//www.bps.org.uk/privacy-policy/privacy-policy-ml-dev-do-not-publish) for the most accurate reproduction.*
 
 # Privacy policy | BPS
 
@@ -28,13 +28,15 @@ Session cookies will be deleted from your computer when you close your browser. 
 
 We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information. More information is available at [Google's privacy policy.](http://www.google.com/privacypolicy.htm)
 
-Our advertisers/payment services providers] may also send you cookies.
+Our advertisers/payment services providers may also send you cookies.
 
 Our advertising services providers may send you cookies for the purpose of enabling the service of advertisements based on your previous visits to our website.
 
 We may publish Google Adsense interest-based advertisements on our website.  These are tailored by Google to reflect your interests.  To determine your interests, Google will track your behaviour on our website and on other websites across the web using the DART cookie.  You can view, delete or add interest categories associated with your browser using [Google's Ads Preference Manager](http://www.google.com/ads/preferences/)[](http://www.google.com/ads/preferences/).  You can opt-out of the [Adsense partner network cookie](http://www.google.com/privacy/ads/) or use the  [Network Advertising Initiative's (NAI) multi-cookie opt-out mechanism](http://www.networkadvertising.org/managing/opt_out.asp)[](http://www.networkadvertising.org/managing/opt_out.asp). However, these opt-out mechanisms use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the [Google browser plug-in](http://www.google.com/ads/preferences/plugin.). [](http://www.google.com/ads/preferences/plugin)
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.  Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
+
+[More information about the cookies we use](https://web.archive.org/cookie-information)
 
 **(3)  Using your personal information**
 
@@ -130,10 +132,12 @@ Please let us know if the personal information which we hold about you needs to 
 
 **(11)  Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, write to us by [email](mailto:enquiry@bps.org.uk) [](mailto:enquiry@bps.org.uk) or  post to: The British Psychological Society, St. Andrews House, 48 Princess Road East, Leicester, LE1 7DR.
+If you have any questions about this privacy policy or our treatment of your personal information, write to us by [email](mailto:enquiry@bps.org.uk) [](mailto:enquiry@bps.org.uk)or  post to: The British Psychological Society, St. Andrews House, 48 Princess Road East, Leicester, LE1 7DR.
 
 **(12)  Data controller**
 
 The data controller responsible in respect of the information collected on this website is The British Psychological Society. 
 
 Our data protection registration number is Z5958155.
+
+Document date: February 2012
