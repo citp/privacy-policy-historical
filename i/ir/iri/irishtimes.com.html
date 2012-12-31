@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the irishtimes.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630112413id_/http%3A//www.irishtimes.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the irishtimes.com privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231192718id_/http%3A//www.irishtimes.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -13,6 +13,10 @@
 <!-- <script src="/js/multibox.js" type="text/javascript"></script>
 <script src="/js/overlay.js" type="text/javascript"></script> -->
   <link href="/css/v3/about_us.css" rel="stylesheet" type="text/css" media="screen">
+  <style type="text/css">
+  ul.list{margin:0 0 18px 30px ;}
+  ul.list li{ list-style:disc !important; padding-left:10px;}
+  </style>
   
 </head>
 <body id="home">
@@ -23,7 +27,7 @@
 	}	
 	document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|826.1|1703389|0|225|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 	 //-->
-	 </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|826.1|1703389|0|225|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=22;misc=1580378670829"></script>
+	 </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|826.1|1703389|0|225|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=885;misc=1580378672157"></script>
 	 <noscript>
 	 <a href="http://adserver.adtech.de/adlink|3.0|826.1|1703389|0|225|ADTECH;loc=300;key=key1+key2+key3+key4;cookie=info;" target="_blank">
 	<img src="http://adserver.adtech.de/adserv|3.0|826.1|1703389|0|225|ADTECH;loc=300;key=key1+key2+key3+key4;cookie=info;" border="0"></a>
@@ -33,7 +37,7 @@
 	}	
 	document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|826.1|2119616|0|2530|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 	 //-->
-	 </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|826.1|2119616|0|2530|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=22;misc=1580378670830"></script>
+	 </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|826.1|2119616|0|2530|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=885;misc=1580378672158"></script>
 	 <noscript>
 	 <a href="http://adserver.adtech.de/adlink|3.0|826.1|2119616|0|2530|ADTECH;loc=300;key=key1+key2+key3+key4;cookie=info;" target="_blank">
 	<img src="http://adserver.adtech.de/adserv|3.0|826.1|2119616|0|2530|ADTECH;loc=300;key=key1+key2+key3+key4;cookie=info;" border="0"></a>
@@ -47,126 +51,129 @@
 					/* 20090701 ED: Javascript for the weather popup and site map.
 					 *** If this code is changed the equivalent batch build code needs to changed ***
 
-					 20100907 - eoneill, removed weather pop up stuff...
-					 20100915 - dzip added sethomepage and arrangecomm nav behavior
+							 20100907 - eoneill, removed weather pop up stuff...
+							 20100915 - dzip added sethomepage and arrangecomm nav behavior
 
-					 */
+							 */
 
-					window.addEvent(itEventType, function() {
-						/* Site Map */
-						if ((! $('slideout-sitemap')) || (! $('toggle-sitemap'))) { return }
+							window.addEvent(itEventType, function() {
+								/* Site Map */
+								if ((! $('slideout-sitemap')) || (! $('toggle-sitemap'))) { return }
 
-						var sitemapWasOpen;
-						var sitemapCount = 0;
-						var siteMapLink = $('toggle-sitemap');
+								var sitemapWasOpen;
+								var sitemapCount = 0;
+								var siteMapLink = $('toggle-sitemap');
 
-						var sitemapSlide = new Fx.Slide('site-map-wrapper', {
-							onComplete: function() {
-								if (sitemapWasOpen === false && sitemapCount === 1) {
-									trackCustomLink(siteMapLink, 'o', 'Site Map Opened ');
+								var sitemapSlide = new Fx.Slide('site-map-wrapper', {
+									onComplete: function() {
+										if (sitemapWasOpen === false && sitemapCount === 1) {
 
-									// 20100616 ED: Added asynch version of Google Analytics.
-									// _gaq.push( ['_trackEvent', 'CustomLinks', 'SiteMap', 'Site Map Opened'], [alert('ED cb TESTING _gaq pushed for CustomLinks SiteMap')] );
-									if (typeof(_gaq) != "undefined") {
-										_gaq.push(['_trackEvent', 'CustomLinks', 'SiteMap', 'Site Map Opened']);
+											// 20100616 ED: Added asynch version of Google Analytics.
+											// _gaq.push( ['_trackEvent', 'CustomLinks', 'SiteMap', 'Site Map Opened'], [alert('ED cb TESTING _gaq pushed for CustomLinks SiteMap')] );
+											if (typeof(_gaq) != "undefined") {
+												_gaq.push(['_trackEvent', 'CustomLinks', 'SiteMap', 'Site Map Opened']);
+											}
+										}
 									}
-								}
-							}
-						}).hide();
+								}).hide();
 
-						$('slideout-sitemap').addEvent('click', function(e) {
-							e = new Event(e);
-							sitemapSlide.slideOut();
-							//sitemapCount++;
-							sitemapWasOpen = sitemapSlide.open;
-							e.stop();
-						});
-
-						siteMapLink.addEvent('click', function(e) {
-							e = new Event(e);
-							if (sitemapCount == 0 ) $('site-map').adopt($('site-map-content'));//eoneill 20100907 - so that site map content can be moved to bottom of page
-							$('site-map-wrapper').setStyles({
-								display: 'block'
-							});
-							sitemapSlide.toggle();
-							sitemapCount++;
-							sitemapWasOpen = sitemapSlide.open;
-							e.stop();
-						});
-						/* End of Site Map */
-
-						/* rearrange Commercial NavBar */
-						arrangeCommNav('commercial', 'more');
-
-						if (window.ie6 ) {
-							var siteTools = $('site-tools');
-							$(document.body).adopt(siteTools);
-							new Fx.Style($(siteTools), 'opacity', {duration:500}).start(1);
-						}
-
-						if (window.ie) {
-							$('make-homepage').addEvent('click', function(e) {
-								//do we want to pass in the URL of the page the user is currently on?
-								this.style.behavior = 'url(#default#homepage)';
-								this.setHomePage(window.location.href);
-							});
-						} else {
-							$('make-homepage').setProperty('href', '/utils/hp_instructions.html');
-
-							//Initialize multibox: periodic instantiation of multiBox [to take care of network delays]
-							var periodical;
-							var initMultiBox = function () {
-								if (typeof MultiBox == "undefined") { return }
-								var initMultiBox = new MultiBox('hp_mb', {showNumbers:false , useOverlay: true, openFromLink:true});
-								$clear(periodical);
-							};
-
-							if (typeof MultiBox == "undefined") {
-								var head_DOM = $$('head')[0];
-
-								var mScript = document.createElement('script');
-								mScript.type = 'text/javascript';
-								mScript.src = '/js/multibox.js';
-								head_DOM.appendChild(mScript);
-
-								var oScript = document.createElement('script');
-								oScript.type = 'text/javascript';
-								oScript.src = '/js/overlay.js';
-								head_DOM.appendChild(oScript);
-
-								periodical = initMultiBox.periodical(100);
-							} else {
-								//reuse existing overlay
-								if (globalMultiBox && globalMultiBox instanceof MultiBox )  {
-									var overlay = globalMultiBox.overlay;
-									var showOverlay = function() { overlay.show(); };
-									var hideOverlay = function() { overlay.show(); };
-
-									var hp_mb = new MultiBox('hp_mb', {showNumbers:false, openFromLink:true, useOverlay:false,
-									onOpen:showOverlay});
-									hp_mb.overlay = overlay;
-									hp_mb.options.useOverlay = true;
-
-									$('OverlayContainer').addEvent('click', function(e) {
-										if (hp_mb.box.getStyle('visibility') == 'visible') {
-											new Event(e).stop();
-											hp_mb.close();
-									}
+								$('slideout-sitemap').addEvent('click', function(e) {
+									e = new Event(e);
+									sitemapSlide.slideOut();
+									//sitemapCount++;
+									sitemapWasOpen = sitemapSlide.open;
+									e.stop();
 								});
-								} else {
-									//multibox.js loaded but no multibox object found
-									periodical = initMultiBox.periodical(100);
-								}
-							}
-						}
-					});
 
-					//DZ 20100923 trick to use overlay in pages that have already a multibox defined
-					var globalMultiBox;
-			                  
-			--></script><div xmlns="http://www.w3.org/1999/xhtml" id="header"><div id="logo-date-area"><a href="http://www.irishtimes.com/"><img src="http://www.irishtimes.com/images/v3/generic/irishtimes-logo.gif" alt="irishtimes.com" id="logo"></a><div class="date"><script type="text/javascript"><!--
+								siteMapLink.addEvent('click', function(e) {
+									e = new Event(e);
+									if (sitemapCount == 0 ) $('site-map').adopt($('site-map-content'));//eoneill 20100907 - so that site map content can be moved to bottom of page
+									$('site-map-wrapper').setStyles({
+										display: 'block'
+									});
+									sitemapSlide.toggle();
+									sitemapCount++;
+									sitemapWasOpen = sitemapSlide.open;
+									e.stop();
+								});
+								/* End of Site Map */
+
+								/* rearrange Commercial NavBar */
+								arrangeCommNav('commercial', 'more');
+
+								if (window.ie6 ) {
+									var siteTools = $('site-tools');
+									$(document.body).adopt(siteTools);
+									new Fx.Style($(siteTools), 'opacity', {duration:500}).start(1);
+								}
+
+								if (window.ie) {
+									$('make-homepage').addEvent('click', function(e) {
+										//do we want to pass in the URL of the page the user is currently on?
+										this.style.behavior = 'url(#default#homepage)';
+										this.setHomePage(window.location.href);
+									});
+								} else {
+									$('make-homepage').setProperty('href', '/utils/hp_instructions.html');
+
+									//Initialize multibox: periodic instantiation of multiBox [to take care of network delays]
+									var periodical;
+									var initMultiBox = function () {
+										if (typeof MultiBox == "undefined") { return }
+										var initMultiBox = new MultiBox('hp_mb', {showNumbers:false , useOverlay: true, openFromLink:true});
+										$clear(periodical);
+									};
+
+									if (typeof MultiBox == "undefined") {
+										var head_DOM = $$('head')[0];
+
+										var mScript = document.createElement('script');
+										mScript.type = 'text/javascript';
+										mScript.src = '/js/multibox.js';
+										head_DOM.appendChild(mScript);
+
+										var oScript = document.createElement('script');
+										oScript.type = 'text/javascript';
+										oScript.src = '/js/overlay.js';
+										head_DOM.appendChild(oScript);
+
+										periodical = initMultiBox.periodical(100);
+									} else {
+										//reuse existing overlay
+										if (globalMultiBox && globalMultiBox instanceof MultiBox )  {
+											var overlay = globalMultiBox.overlay;
+											var showOverlay = function() { overlay.show(); };
+											var hideOverlay = function() { overlay.show(); };
+
+											var hp_mb = new MultiBox('hp_mb', {showNumbers:false, openFromLink:true, useOverlay:false,
+											onOpen:showOverlay});
+											hp_mb.overlay = overlay;
+											hp_mb.options.useOverlay = true;
+
+											$('OverlayContainer').addEvent('click', function(e) {
+												if (hp_mb.box.getStyle('visibility') == 'visible') {
+													new Event(e).stop();
+													hp_mb.close();
+											}
+										});
+										} else {
+											//multibox.js loaded but no multibox object found
+											periodical = initMultiBox.periodical(100);
+										}
+									}
+								}
+							});
+
+							//DZ 20100923 trick to use overlay in pages that have already a multibox defined
+							var globalMultiBox;
+					  
+					--></script><div xmlns="http://www.w3.org/1999/xhtml" id="header"><div id="cookies-policy-wrapper" style="display:none;"><div style="" id="cookies-policy"><div id="cookies-policy-prompt"><h2>Important Information</h2><a id="cookies-policy-continue-button" type="button" href="#">Hide this message</a><p>This site uses cookies to ensure that we give you the best experience on our website. We also use cookies to ensure we show you
+							advertising that is relevant to you. If you continue without changing your settings, we'll assume that you are happy to
+							receive all cookies on the irishtimes.com website. However, if you would like to, you can
+							change your cookie settings at any time. For more information see our <a href="/premium/cookies.htm" style="color:#c00000;" id="cookies-policy-moreinfo">Cookie Policy</a>.
+						</p></div></div></div><div id="logo-date-area"><a href="http://www.irishtimes.com/"><img src="http://www.irishtimes.com/images/v3/generic/irishtimes-logo.gif" alt="irishtimes.com" id="logo"></a><div class="date"><script type="text/javascript"><!--
 							document.write( glb_dateline_long );
-						--></script>Thursday, January 30, 2020</div><div id="site-search-div"><form name="site-search" onsubmit="return sitesearchsubmit(this);" action="http://www.irishtimes.com/search/index.html" method="get" id="site-search"><input type="hidden" name="rm" value="listresults"><input type="hidden" name="filter" value="datedesc"><input name="keywords" value="Search..." onfocus="clearDefault(this)" onblur="resetDefault(this)" class="text" id="site-search-query"><input type="image" alt="Search" title="Search" class="submit" src="http://www.irishtimes.com/images/v3/nav/search_box/submit.jpg"></form></div></div><div id="page-extras"><div id="multisearch"><!--Batch Build Fix: Don't self close--></div></div><div id="primary-navigation"><ul><li class="first"><span><a href="http://www.irishtimes.com/">News</a></span></li><li><span><a href="http://www.irishtimes.com/sports/">Sport</a></span></li><li><span><a href="http://www.irishtimes.com/business/">Business</a></span></li><li><span><a href="http://www.irishtimes.com/comment/">Comment</a></span></li><li><span><a href="http://www.irishtimes.com/life/">Life</a></span></li><li><span><a href="http://www.irishtimes.com/society/">Society</a></span></li><li class="last"><span><a href="http://www.irishtimes.com/culture/">Culture</a></span></li></ul><div id="comm-wrapper"><ul id="commercial"><li class="first"><span><a href="http://www.irishtimes.com/cars/">Cars</a></span></li><li><span><a href="http://www.irishtimes.com/jobs/">Jobs</a></span></li><li><span><a href="http://www.irishtimes.com/life/homesandproperty/">Property</a></span></li><li><span><a href="http://www.newsdelivery.ie/" onclick="_gaq.push(['_link', 'http://www.newsdelivery.ie/']); return false;">Home Delivery</a></span></li><li><span><a href="http://www.irishtimes.com/dating/">Dating</a></span></li><li><span><a href="http://www.irishtimes.com/shop/">Shop</a></span></li><li><span><a href="http://www.irishtimes.com/notices/">Family Notices</a></span></li><li><span><a href="http://www.irishtimes.com/ancestor/">Irish Ancestors</a></span></li><li><span><a href="http://www.irishtimes.com/crosswords/">Crosswords</a></span></li><li><span><a href="http://www.irishtimes.com/games/sudoku/">Sudoku</a></span></li><li><span><a href="http://eatwell.irishtimes.com/">Eat Well</a></span></li><li><span><a href="http://www.irishtimes.com/competitions/">Competitions</a></span></li><li><span><a href="http://www.irishtimestraining.com/" onclick="_gaq.push(['_link', 'http://www.irishtimestraining.com/']); return false;">Training</a></span></li><li class="last"><span><a href="http://www.rewardingtimes.ie" onclick="_gaq.push(['_link', 'http://www.rewardingtimes.ie']); return false;">Rewarding Times</a></span></li><li id="more" class="last"><span><a>More »</a></span></li></ul></div></div><div id="secondary-navigation"><ul></ul></div><div id="site-map"></div></div>
+						--></script>Thursday, January 30, 2020</div><div id="site-search-div"><form name="site-search" onsubmit="return sitesearchsubmit(this);" action="http://www.irishtimes.com/search/index.html" method="get" id="site-search"><input type="hidden" name="rm" value="listresults"><input type="hidden" name="filter" value="datedesc"><input name="keywords" value="Search..." onfocus="clearDefault(this)" onblur="resetDefault(this)" class="text" id="site-search-query"><input type="image" alt="Search" title="Search" class="submit" src="http://www.irishtimes.com/images/v3/nav/search_box/submit.jpg"></form></div></div><div id="page-extras"><div id="multisearch"><!--Batch Build Fix: Don't self close--></div></div><div id="primary-navigation"><ul><li class="first"><span><a href="http://www.irishtimes.com/">News</a></span></li><li><span><a href="http://www.irishtimes.com/sports/">Sport</a></span></li><li><span><a href="http://www.irishtimes.com/business/">Business</a></span></li><li><span><a href="http://www.irishtimes.com/comment/">Comment</a></span></li><li><span><a href="http://www.irishtimes.com/life/">Life</a></span></li><li><span><a href="http://www.irishtimes.com/society/">Society</a></span></li><li class="last"><span><a href="http://www.irishtimes.com/culture/">Culture</a></span></li></ul><div id="comm-wrapper"><ul id="commercial"><li class="first"><span><a href="http://www.irishtimes.com/cars/">Cars</a></span></li><li><span><a href="http://www.irishtimes.com/jobs/">Jobs</a></span></li><li><span><a href="http://www.irishtimes.com/life/homesandproperty/">Property</a></span></li><li><span><a href="http://www.newsdelivery.ie/" onclick="_gaq.push(['_link', 'http://www.newsdelivery.ie/']); return false;">Home Delivery</a></span></li><li><span><a href="http://www.irishtimes.com/dating/">Dating</a></span></li><li><span><a href="http://www.irishtimes.com/shop/">Shop</a></span></li><li><span><a href="http://www.irishtimes.com/notices/">Family Notices</a></span></li><li><span><a href="http://www.irishtimes.com/ancestor/">Irish Ancestors</a></span></li><li><span><a href="http://www.irishtimes.com/crosswords/">Crosswords</a></span></li><li><span><a href="http://eatwell.irishtimes.com/">Eat Well</a></span></li><li><span><a href="http://www.irishtimes.com/competitions/">Competitions</a></span></li><li><span><a href="http://www.irishtimestraining.com/" onclick="_gaq.push(['_link', 'http://www.irishtimestraining.com/']); return false;">Training</a></span></li><li class="last"><span><a href="http://www.rewardingtimes.ie" onclick="_gaq.push(['_link', 'http://www.rewardingtimes.ie']); return false;">Rewarding Times</a></span></li><li id="more" class="last"><span><a>More »</a></span></li></ul></div></div><div id="secondary-navigation"><ul></ul></div><div id="site-map"></div></div>
 
     <div id="torso">
       <div id="content" class="generic">
@@ -180,126 +187,92 @@
 		<h1>Privacy Policy</h1>
 
 <ul class="pointed-list" style="margin-bottom:20px;">
-	<li><a href="#intro">Introduction</a>
-	</li><li><a href="#collect">Information irishtimes.com collects</a>
-	</li><li><a href="#opt">Optional Sign ups</a>
-	</li><li><a href="#poll">Polling</a>
-	</li><li><a href="#cookie">Cookies</a>
-	</li><li><a href="#story">"E-mail this story" service</a>
-	</li><li><a href="#auto">Information automatically logged</a>
-	</li><li><a href="#audit">Auditing our traffic figures</a>
-	</li><li><a href="#idpc">Irish data protection commissioner</a>
-	</li><li><a href="#advert">Advertisers</a>
-	</li><li><a href="#form">Form submissions</a>
-	</li><li><a href="#survey">Surveys &amp; competitions</a>
-	</li><li><a href="#email">E-mail</a>
-	</li><li><a href="#links">External links</a>
-	</li><li><a href="#secure">Security</a>
-	</li><li><a href="#optin">Opt-In</a>
-	</li><li><a href="#special">Special interest sites</a>
-</li><li><a href="#correct">Correcting and updating</a>
-</li><li><a href="#contact">Contacting the web site</a>
-</li></ul>
+	<li><a href="#intro">Introduction</a></li>
+	<li><a href="#collect">Information The Irish Times collects</a></li>
+	 <li><a href="#info">Information you voluntarily provide:</a> </li>
+        <li><a href="#sm">Commenting and social media</a> </li>
+        <li><a href="#cookie">Cookies</a> </li>
+        <li><a href="#auto">Information automatically logged</a> </li>
+        <li><a href="#audit">Auditing our traffic figures</a> </li>
+        <li><a href="#idpc">Irish Data Protection Commissioner</a> </li>
+        <li><a href="#advert">Advertising</a> </li>
+        <li><a href="#financial">Financial information</a> </li>
+        <li><a href="#survey">Surveys &amp; competitions</a> </li>
+        <li><a href="#links">External links</a> </li>
+        <li><a href="#secure">Security</a> </li>
+        <li><a href="#optin">Opt-In to receive promotional material</a> </li>
+        <li><a href="#special">Special interest sites</a> </li>
+<li><a href="#correct">Correcting and updating</a></li>
+<li><a href="#contact">Contacting the web site</a></li>
+</ul>
 
 <h2><a name="intro">Introduction</a></h2>
-<p>irishtimes.com has created this privacy statement to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of irishtimes.com.</p>
-<p>A user can access our  site and utilise a number of our services without providing any information at all. However, all users who register for irishtimes.com  services provide basic contact and demographic information. We do develop summary - not individual - reports for our advertisers. The people that make it possible for visitors to use irishtimes.com for free - our advertisers - need this information to determine how effective their advertising investments are. irishtimes.com will not disclose a user's personally identifiable information to any third party without the user's express permission except where applicable for the purpose of supplying the service for which the user has registered.</p>
-<p>We do not follow a user's browsing path outside of our websites.</p>
+ <p>The Irish Times has created this privacy statement to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of The Irish Times.</p>
+  <p>A user can access our site and utilise a number of our services without providing any information at all. However, all users who register for The Irish Times services provide basic contact and demographic information. We do develop summary - not individual - reports for our advertisers. The people that make it possible for visitors to use The Irish Times for free - our advertisers - need this information to determine how effective their advertising investments are. The Irish Times will not disclose a user's personally identifiable information to any third party without the user's express permission except where applicable for the purpose of supplying the service for which the user has registered.</p>
+  <p>We do not follow a user's browsing path outside of our websites.</p>
 
-<h2><a name="collect">Information irishtimes.com collects:</a><a></a></h2><a>
+<h2><a name="collect">Information The Irish Times collects:</a></h2>
 
-</a><p><a></a><a name="opt"><b>Optional sign ups:</b></a></p>
-<p>If users wish to utilise certain services located on specific sections of irishtimes.com, they must sign up. Services that currently require some form of sign up include:</p>
-<ul>
-<li>Participation in competitions / promotions / surveys;
-</li><li>Subscribing to irishtimes.com premium content; 
-</li><li>Subscribing to irishtimes.com premium e-mail;
-</li><li>Subscribing to irishtimes.com News Digest;
-</li><li>Subscribing to partner services: Ancestors, Gifts, Travel, Text Alerts, Dating, and Gulliver.
-</li></ul>
-<p>The information collected when a user signs up for a service can include an email address and name. When signing up for a service, a user may also "opt-in " to  various email notifications or offers (see opt-in procedures below).</p>
+<p><a name="info"><b>Information you voluntarily provide:</b></a></p>
+ <p>We collect any information you voluntarily provide through any correspondence with The Irish Times through email or optional sign ups. This information is NOT disclosed to any third party without your prior consent.</p>
+  <p>For example, if you contact our editorial staff via email, we collect your email address, name and any additional information you include in your email message. Information such as your email address and name may also be collected when you sign up to optional services offered by The Irish Times and our partner services. These services currently include the following: </p>
+  <ul class="list">
+    <li>Subscription services from The Irish Times: newspaper delivery, ePaper, Archive, Crossword and email notifications.</li>
+    <li>Subscription services from our partners: Ancestors, Text Alerts, Family Notices and Dating.</li>
+    <li>Participation in competitions, promotions and surveys. </li>
+  </ul>
+ 
 
-<p><a name="poll"><b>Polling:</b></a></p>
-<p>irishtimes.com offers interactive polls so users can easily share their opinions with others and see what other irishtimes.com users think about important issues. Their name, email address and country information is retained temporarily.</p>
+ <p><a name="sm"><b>Commenting and social media:</b></a></p>
+  <p>The Irish Times invites users to leave comments and share articles. In order to do so, you must be logged in to your chosen social network. If you are not already logged in, you will be prompted to do so when you attempt to post a comment or when you select one of the share icons. To leave a comment, you must log in to Facebook, Twitter or LinkedIn as a means of authentication.</p>
+  <p>When you log in to one of these networks to leave a comment or share articles, you grant permission to your chosen network to share certain user details. This information could include the user ID associated with your account, any information you have made public in connection with your account and any information you have permitted the network to share (according to your privacy settings). For example, if you log in to comment on The Irish Times via Twitter, The Irish Times receives your avatar and Twitter username to display with your comment. </p>
 
 <p><a name="cookie"><b>Cookies:</b></a></p>
-<p>Certain sections of the site use cookies to maintain single user
-sessions as well as to aggregate broad demographic data as it relates to
-user behaviour. You also have choices with respect to cookies. By <a href="/about/help/faq_cookies.htm">modifying
-your browser preferences</a>, you have the choice to accept all cookies, to be
-notified when a cookie is set, or to reject all cookies. A cookie is a
-small piece of information sent by a web server to a web browser, which
-enables the server to collect information back from the browser. You can
-find out more about the use of cookies on: <a href="http://www.cookiecentral.com">http://www.cookiecentral.com</a></p>
+<p>Certain sections of The Irish Times use cookies, small pieces of data sent by a website’s server to your computer that allow that website to retrieve your user preferences, to personalise your visits and to simplify any sign-in procedures. To learn more about cookies, please see our <a href="/premium/cookies.htm">Cookies Policy</a>.</p>
 
-<p><a name="story"><b>"Email this story" service:</b></a></p>
-<p>A user can electronically forward a summary of a news story to someone else by clicking the link at the bottom of a story. The user provides a valid email address for both the sender and the recipient in order to ensure that the service functions properly and to inform the recipient who sent the story. There is also an option to include a name which is only used for the email salutation. None of this information is used for any other purpose.
-
-</p><p><a name="auto"><b>Information automatically logged:</b></a></p>
-<p>We log your IP address, browser's user agent, and referring address to help diagnose problems with our server, to administer our website and to identify unique users. Your IP address is also used to gather broad demographic information.</p>
+<p><a name="auto"><b>Information automatically logged:</b></a></p>
+ <p>We log your IP address, browser's user agent and referring address to help diagnose problems with our server, to administer our website and to identify unique users. Your IP address is also used to gather broad demographic information.</p>
 
 <p><a name="audit"><b>Auditing our traffic figures:</b></a></p>
-<p>We also provide our log file data to ABC electronic auditing bureau on a regular basis to verify our traffic figures to the website. The information is used solely for auditing purposes.</p>
+ <p>We also provide our log file data to ABC electronic auditing bureau on a regular basis to verify our traffic figures. This information is used solely for auditing purposes. However, on the occasion of abuse or harassment, this data may also be used to find and locate individuals abusing the network system and/or services of The Irish Times. In these cases, this data may be passed on to appropriate individuals, organisations or companies, if specifically requested.</p>
 
-<p>Finally, the data may on occasion of abuse or harassment be used to find and locate individuals abusing the network system and or services of irishtimes.com. In these cases this data may be passed on to appropriate individuals, organisations or companies, if specifically requested.</p>
 
-<p><a name="idpc"><b>Irish data protection commissioner:</b></a></p>
-<p>Further information on your data privacy rights are available on the
-website of the Irish data protection commissioner. <a href="http://www.dataprivacy.ie/2.htm#Your%20Rights">http://www.dataprivacy.ie</a></p>
+<p><a name="idpc"><b>Irish Data Protection Commissioner:</b></a></p>
+<p>Further information on your data privacy rights are available on the website of the Irish Data Protection Commissioner: <a href="http://www.dataprivacy.ie/">www.dataprivacy.ie</a></p>
 
-<p><a name="advert"><b>Advertisers:</b></a></p>
-<p>irishtimes.com may perform statistical analyses of user behaviour in order
-to measure interest in the various areas of our site (for product
-development purposes) and to inform advertisers as to how many consumers
-have seen or "clicked" their advertising banners. We may also use
-demographic and preference information to allow advertising banners on our
-website to be targeted, in aggregate, to the readers for whom they are
-most pertinent. This means that readers may see advertising that is most
-likely to interest them, and advertisers send their messages to people who
-are most likely to be receptive, improving both the viewer's experience and
-the effectiveness of the ads. In this statistical analyses and banner
-advertisement targeting, we will disclose information to third parties only
-in aggregate form. Personal information about you as an individual
-subscriber will not be provided to any third party without your consent.</p>
+<p><a name="advert"><b>Advertising:</b></a></p>
+ <p>The Irish Times may perform statistical analyses of user behaviour in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or ‘clicked’ their advertising banners. We may also use demographic and preference information to allow advertising banners on our website to be targeted, in aggregate, to the readers for whom they are most pertinent. This means that users may see advertising that is most likely to interest them, and advertisers may send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads. </p>
+  <p>For the purposes of statistical analysis and banner advertisement targeting, we will disclose information to third parties only in aggregate form. Personal information about you as an individual subscriber will not be provided to any third party without your consent.</p>
+  <p>We use a third-party advertising company to serve ads when you visit our website. Our third-party advertising company separately places or recognises a cookie file on your browser in the course of delivering advertisements to The Irish Times. For full details of our third-party advertising company’s terms and conditions, please visit <a href="http://www.adtech.com">www.adtech.com</a>. </p>
+ 
+  <p><a id="financial"><b>Financial information:</b></a></p>
+  <p>Certain online purchase options require users to provide financial information (such as their credit card numbers) and demographic information (such as their address etc.). Financial information collected is used solely to bill the user for products and services.</p>
 
-<p>We use a third-party advertising company to serve ads when you visit our
-website. Our third-party advertising company also separately places or
-recognises a cookie file on your browser in the course of delivering
-advertisements to irishtimes.com. For full details of our third-party
-advertising technology's company terms and conditions see: <a href="http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp">http://www.doubleclick.net</a></p>
-
-<p><a name="form"><b>Form submissions:</b></a></p>
-<p>Certain online purchase options require users to give us financial information (such as their credit card numbers), and demographic information (such as their address etc). Financial information that is collected is used solely to bill the user for products and services.</p>
 
 <p><a name="survey"><b>Surveys &amp; competitions:</b></a></p>
-<p>From time-to-time our site requests information from users via surveys or competitions. Participation in these surveys or competitions is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and delivery address), and demographic information (such as address, age and income level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. No personal information will be retained for longer than is necessary or used for any undisclosed purpose.</p>
-<p>Promotions and competitions that run on irishtimes.com may be sponsored by companies other than irishtimes.com or may be co-sponsored by irishtimes.com and another company.</p>
-<p>irishtimes.com or its sponsors or business partners may with your expressed permission, from time to time, send you e-mails regarding its products and services.</p>
-
-<p><a name="email"><b>Email:</b></a></p>
-<p>Using the email addresses provided on registration,  irishtimes.com may contact you regarding renewal of subscriptions to the premium email service.</p>
+<p>From time to time, our website requests information from users via surveys or competitions. Participation in these surveys or competitions is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact details (such as name and delivery address) and demographic information (such as address, age and income level). Contact information will be used to notify the winners and award prizes; demographic information will be used for purposes of monitoring and improving the website. No personal information will be retained for longer than is necessary or used for any undisclosed purpose.</p>
+  <p>Promotions and competitions that run on The Irish Times may be sponsored by companies other than The Irish Times or may be co-sponsored by The Irish Times and another company.</p>
+  <p>The Irish Times or its sponsors or business partners may, with your expressed permission, send you e-mails regarding its products and services.</p>
 
 <p><a name="links"><b>External links:</b></a></p>
-<p>This site contains links to other sites. irishtimes.com is not responsible for the privacy practices or the content of such websites.</p>
+ <p>This site contains links to other sites. The Irish Times is not responsible for the privacy practices or the content of such websites.</p>
 
 <p><a name="secure"><b>Security:</b></a></p>
-<p>This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Unfortunately, no data transmission over the internet can be guaranteed to be 100 per cent secure. As a result, while we strive to protect your personal information, irishtimes.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.</p>
+<p>This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Unfortunately, no data transmission over the internet can be guaranteed to be 100 per cent secure. As a result, while we strive to protect your personal information, The Irish Times cannot ensure or warrant the security of any information you transmit to us or from our online products or services – you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.</p>
 	
-<p><a name="optin"><b>Opt-in:</b></a></p>
-<p>Our site provides users with the opportunity to opt-in to receive
-promotional/marketing information from our <i>Irish Times</i>, irishtimes.com and
-select advertisers. To unsubscribe please go to
-<a href="/services/unsubscribe.htm">http://www.irishtimes.com.com/services/unsubscribe.htm</a> and enter your e-mail address.</p>
+<p><a name="optin"><b>Opt-in to receive promotional material:</b></a></p>
+ <p>Our site provides users with the opportunity to opt-in to receive promotional/marketing information from The Irish Times, The Irish Times and select advertisers via email. You can unsubscribe from these emails at any time by following the 'unsubscribe' link at the footer of the email page. </p>
 
 <p><a name="special"><b>Special interest sites:</b></a></p>
-<p>irishtimes.com provides certain services in conjunction with third parties: These third parties have their own security and privacy policies. You are advised to review these separately.</p>
-
+ <p>The Irish Times provides certain services in conjunction with third parties. These third parties have their own security and privacy policies. You are advised to review these separately.</p>
+ 
+ 
 <h2><a name="correct">Correcting and updating:</a></h2>
-<p>irishtimes.com offers users the ability to change certain personal identifiable information (e-mail address,) collected during the sign up process for specific services.</p>
+ <p>The Irish Times offers users the ability to change certain personal identifiable information (e.g. e-mail address) collected during the signup process for specific services. </p>
 
 <h2><a name="contact">Contacting the website:</a></h2>
-<p>If you have any questions about this privacy statement, or the security
-practices of this site, you can contact: <a href="mailto:services@irishtimes.com">services@irishtimes.com</a></p>
+ <p>If you have any questions regarding this privacy statement or the security practices of The Irish Times, pleases send them to <a href="mailto:services@irish-times.com">services@irish-times.com</a></p>
+
         </div>
         <div class="right-column">
     	<div class="sub-section"><span class="advertisement">ADVERTISEMENT</span><div class="advertisement-content"><!--Batch Build Fix: Don't self close--></div></div>
@@ -308,8 +281,8 @@ practices of this site, you can contact: <a href="mailto:services@irishtimes.com
       </div>
     </div>
     <div id="footer">
-      <div xmlns="http://www.w3.org/1999/xhtml" id="copyright"><a href="http://www.irishtimes.com/about/copyright/">© 2012 irishtimes.com</a></div><div xmlns="http://www.w3.org/1999/xhtml" id="footer-nav"><ul><li><a href="http://www.irishtimes.com/about/">Company information</a></li><li><a href="http://www.irishtimes.com/about/privacy/">Privacy policy</a></li><li><a href="http://www.irishtimes.com/blogs/career-opportunities/">Careers</a></li><li><a href="http://www.irishtimes.com/about/help/">Help</a></li><li><a href="http://www.irishtimes.com/about/contact/">Contact us</a></li><li><a href="http://www.irishtimes.com/about/advertise">Advertise</a></li><li class="last"><a href="http://www.irishtimes.com/about/terms_conditions/">Terms &amp; Conditions</a></li></ul></div><div xmlns="http://www.w3.org/1999/xhtml" style="clear:both;"></div><div xmlns="http://www.w3.org/1999/xhtml" id="partners-nav"><ul><li class="first">Please use our partners:</li><li><a href="http://www.top1000.ie/" title="top1000.ie/" target="_blank">top1000.ie</a></li><li><a href="http://www.rewardingtimes.ie" title="rewardingtimes.ie" target="_blank">rewardingtimes.ie</a></li><li><a href="http://www.myhome.ie" title="myhome.ie" target="_blank">myhome.ie</a></li><li><a href="http://www.irishracing.com" title="irishracing.com" target="_blank">irishracing.com</a></li><li><a href="http://www.ireland.com" title="ireland.com" target="_blank">ireland.com</a></li><li><a href="http://entertainment.ie" title="entertainment.ie" target="_blank">entertainment.ie</a></li><li><a href="http://www.myantiques.ie/" title="myantiques.ie" target="_blank">myantiques.ie</a></li><li class="last"><a href="http://www.thegloss.ie/" title="thegloss.ie" target="_blank">The Gloss</a></li></ul></div><div xmlns="http://www.w3.org/1999/xhtml" id="site-tools"><div><ul><li class="first"><a href="https://www.newsdelivery.ie/" class="delivery">Home Delivery</a></li><li><a href="/mobile" class="mobile">Mobile</a></li><li><a href="http://www.twitter.com/IrishTimes" class="twitter">Follow Us</a></li><li><a rel="width:540,height:540" class="homepagemake-index hp_mb" id="make-homepage">Make Homepage</a></li><li><a href="/feeds/rss/" class="rss-feeds">RSS Feeds</a></li><li><a id="toggle-sitemap" class="site-index" href="#">Site Map</a></li><li class="last" id="weather"><a xmlns="" href="http://www.irishtimes.com/weather/"><span class="temperature-location"><span class="temperature">12 °C</span> Dublin »
-</span><span class="weather-icon"><img src="http://www.irishtimes.com/weather/icons/trans/mostly_cloudy_showers.gif" alt="MOSTLY CLOUDY WITH SHOWERS"></span></a></li></ul></div></div><div xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; overflow: hidden;" id="site-map-content"><div style="margin: 0;display:none;" id="site-map-wrapper"><div id="site-map-close"><span id="slideout-sitemap" class="close">Close</span></div><div id="site-map-details"><div id="col1"><ul><li><strong><a href="http://www.irishtimes.com/">News</a></strong></li><li><a href="http://www.irishtimes.com/ireland/">Ireland</a></li><li><a href="http://www.irishtimes.com/world/">World</a></li><li><a href="http://www.irishtimes.com/indepth/">In Depth</a></li><li><a href="http://irishtimes.newspaperdirect.com/epaper/viewer.aspx">Today's ePaper</a></li><li><a href="http://www.irishtimes.com/weather/">Weather</a></li><li><a href="http://www.irishtimes.com/archive/">Archive</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/life/">Life</a></strong></li><li><a href="http://www.irishtimes.com/life/travel/">Travel</a></li><li><a href="http://www.irishtimes.com/life/foodanddrink/">Food &amp; Drink</a></li><li><a href="http://www.irishtimes.com/life/style/">Style</a></li><li><a href="http://www.irishtimes.com/life/consumer/">Consumer</a></li><li><a href="http://www.irishtimes.com/life/homesandproperty/">Homes &amp; Property</a></li><li><a href="http://www.irishtimes.com/life/motors/">Motors</a></li><li><a href="http://www.irishtimes.com/life/livingtoday/">Living Today</a></li></ul></div><div id="col2"><ul><li><strong><a href="http://www.irishtimes.com/sports/">Sport</a></strong></li><li><a href="http://www.irishtimes.com/sports/gaa/">Gaelic Games</a></li><li><a href="http://www.irishtimes.com/sports/soccer/">Soccer</a></li><li><a href="http://www.irishtimes.com/sports/rugby/">Rugby</a></li><li><a href="http://www.irishtimes.com/sports/golf/">Golf</a></li><li><a href="http://www.irishtimes.com/sports/other/">Other</a></li><li><a href="http://www.irishracing.com">irishracing.com</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/society/">Society</a></strong></li><li><a href="http://www.irishtimes.com/society/health/">Health</a></li><li><a href="http://www.irishtimes.com/society/family/">Family</a></li><li><a href="http://www.irishtimes.com/society/education/">Education</a></li><li><a href="http://www.irishtimes.com/society/science/">Science</a></li><li><a href="http://www.irishtimes.com/society/environment/">Environment</a></li><li><a href="http://www.irishtimes.com/society/newsfeatures/">News Features</a></li><li><a href="http://www.irishtimes.com/society/people/">People</a></li></ul></div><div id="col3"><ul><li><strong><a href="http://www.irishtimes.com/business/">Business</a></strong></li><li><a href="http://www.irishtimes.com/business/sectors/">Sectors</a></li><li><a href="http://www.irishtimes.com/business/economy/">Economy</a></li><li><a href="http://www.irishtimes.com/business/opinionandanalysis/">Opinion &amp; Analysis</a></li><li><a href="http://www.irishtimes.com/business/markets/">Markets</a></li><li><a href="http://www.irishtimes.com/business/exchangerates.html">Exchange Rates</a></li><li><a href="http://www.irishtimes.com/business/technology/">Technology</a></li><li><a href="http://www.irishtimes.com/business/personalfinance/">Personal Finance</a></li><li><a href="http://www.irishtimes.com/innovation/">Innovation</a></li><li><a href="http://www.irishtimes.com/business/law/">Law</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/culture/">Culture</a></strong></li><li><a href="http://www.irishtimes.com/culture/film/">Film</a></li><li><a href="http://www.irishtimes.com/culture/books/">Books</a></li><li><a href="http://www.irishtimes.com/culture/stage/">Stage</a></li><li><a href="http://www.irishtimes.com/culture/music/">Music</a></li><li><a href="http://www.irishtimes.com/culture/artanddesign/">Art &amp; Design</a></li><li><a href="http://www.irishtimes.com/culture/mediaandcomment/">Comment &amp; Media</a></li><li><a href="http://www.irishtimes.com/culture/treibh/">Treibh</a></li></ul></div><div id="col4"><ul><li><strong><a href="http://www.irishtimes.com/comment/">Comment</a></strong></li><li><a href="http://www.irishtimes.com/opinion/">Opinion &amp; Analysis</a></li><li><a href="http://www.irishtimes.com/letters/">Letters</a></li><li><a href="http://www.irishtimes.com/blogs/">Blogs</a></li><li><a href="http://www.irishtimes.com/polls/">Polls</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/blogs/">Blogs</a></strong></li><li><a href="http://www.irishtimes.com/blogs/business/">Current Account</a></li><li><a href="http://www.irishtimes.com/blogs/mechanicalturk/">Mechanical Turk</a></li><li><a href="http://www.irishtimes.com/blogs/minibyte/">MiniBytes</a></li><li><a href="http://www.irishtimes.com/blogs/ontherecord/">On The Record</a></li><li><a href="http://www.irishtimes.com/blogs/fash-mob/">Fash Mob</a></li><li><a href="http://www.irishtimes.com/blogs/politics/">Politics</a></li><li><a href="http://www.irishtimes.com/blogs/pricewatch/">Pricewatch</a></li><li><a href="http://www.irishtimes.com/blogs/pursuedbyabear/">Pursued by a Bear</a></li><li><a href="http://www.irishtimes.com/blogs/screenwriter/">Screenwriter</a></li></ul></div><div id="col5"><ul><li><strong><a href="http://www.irishtimes.com/cars/">Cars</a></strong></li><li><a href="http://www.irishtimes.com/cars/search_cars.html">Find Cars for Sale</a></li><li><a href="http://www.irishtimes.com/cars/directory.html">Find a Car Dealer</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/notices/">Family Notices</a></strong></li><li><a href="http://notices.irishtimes.com/browse?type=all_memorial">In Memoriam &amp; Death Notices</a></li><li><a href="http://notices.irishtimes.com/browse?type=all_wedding">Wedding Bells</a></li><li><a href="http://notices.irishtimes.com/browse?type=all_anniversary">Anniversaries</a></li><li><a href="http://notices.irishtimes.com/browse?type=all_birthday">Births &amp; Birthdays</a></li><li><a href="http://notices.irishtimes.com/browse?type=all_specialday">Special Days</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/ancestor">Irish Ancestors</a></strong></li><li><a href="http://www.irishtimes.com/ancestor/surname/">Surname search</a></li><li><a href="http://www.irishtimes.com/ancestor/genie/">Ancestor search</a></li><li><a href="http://www.irishtimes.com/ancestor/placenames/">Placenames</a></li><li><a href="http://www.irishtimes.com/ancestor/browse/">Browse</a></li><li><a href="http://www.irishtimes.com/ancestor/subscription/">Subscribe</a></li><li><a href="http://www.irishtimes.com/ancestor/research/">Research</a></li><li><a href="http://www.irishtimes.com/ancestor/research/assessment/">Wizard</a></li><li><a href="/ancestor/sitemap.htm">Ancestors Sitemap</a></li></ul></div><div id="col6"><ul><li><strong><a href="http://www.irishtimes.com/jobs/">Jobs</a></strong></li><li><a href="http://www.irishtimes.com/jobs">Find a Job</a></li><li><a href="http://www.irishtimes.com/jobs/recruiter.html">Find a Recruiter</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/dating/">Dating</a></strong></li><li><a href="http://dating.irishtimes.com/join.cfm">Sign up for free</a></li><li><a href="http://dating.irishtimes.com/mypage.cfm">Login</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/hotels">Hotels</a></strong></li><li><a href="http://www.irishtimes.com/hotels">Find a Hotel</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/restaurants">Restaurants</a></strong></li><li><a href="http://www.irishtimes.com/restaurants">Find a Restaurant</a></li></ul><ul><li><strong>About us</strong></li><li><a href="http://www.irishtimes.com/about/">Company information</a></li><li><a href="http://www.irishtimes.com/about/privacy/">Privacy policy</a></li><li><a href="http://www.irishtimes.com/about/help/">Help</a></li><li><a href="http://www.irishtimes.com/about/contact/">Contact us</a></li><li><a href="http://www.irishtimes.com/mediakit/">Advertise</a></li><li><a href="http://www.irishtimes.com/about/terms_conditions/">Terms &amp; conditions</a></li><li><a href="http://www.irishtimes.com/about/copyright/">Copyright</a></li></ul></div><div id="col7"><ul><li><strong><a href="http://www.irishtimes.com/homes/">Homes</a></strong></li><li><a href="http://www.irishtimes.com/homes/">Search for Properties </a></li><li><a href="http://www.irishtimes.com/homes/">Search for Rentals</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/shop/">Shop</a></strong></li><li><a href="http://www.irishtimes.com/pagesales/">Page Sales</a></li><li><a href="http://www.irishtimes.com/readeroffers/">Reader Offers</a></li><li><a href="http://traveloffers.irishtimes.com/">Travel Offers</a></li><li><a href="http://www.irishtimes.com/photosales/">Photo Sales</a></li><li><a href="http://www.irishtimes.com/dvdclub/">DVD Club</a></li></ul><ul><li><strong>Games</strong></li><li><a href="http://www.irishtimes.com/games/crosswords/">Crosswords</a></li><li><a href="http://www.irishtimes.com/games/sudoku/">Sudoku</a></li><li><a href="http://www.irishtimes.com/competitions/">Competitions</a></li></ul><ul><li><strong>Other</strong></li><li><a href="http://scripts.ireland.com/email/loginpage">Premium Email</a></li><li><a href="http://www.newspaperdirect.com/">Print on demand</a></li><li><a href="http://www.irishtimestraining.com/">Irish Times Training</a></li><li><a href="http://www.irishtimes.com/legal/">Legal</a></li></ul></div></div></div></div><script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"><!--
+      <div xmlns="http://www.w3.org/1999/xhtml" id="copyright"><a href="http://www.irishtimes.com/about/copyright/">© 2012 irishtimes.com</a></div><div xmlns="http://www.w3.org/1999/xhtml" id="footer-nav"><ul><li><a href="http://www.irishtimes.com/about/">Company information</a></li><li><a href="http://www.irishtimes.com/about/privacy/">Privacy policy</a></li><li><a href="http://www.irishtimes.com/blogs/career-opportunities/">Careers</a></li><li><a href="http://www.irishtimes.com/about/help/">Help</a></li><li><a href="http://www.irishtimes.com/about/contact/">Contact us</a></li><li><a href="http://www.irishtimes.com/about/advertise">Advertise</a></li><li class="last"><a href="http://www.irishtimes.com/about/terms_conditions/">Terms &amp; Conditions</a></li></ul></div><div xmlns="http://www.w3.org/1999/xhtml" style="clear:both;"></div><div xmlns="http://www.w3.org/1999/xhtml" id="partners-nav"><ul><li class="first">Please use our partners:</li><li><a href="http://www.top1000.ie/" title="top1000.ie/" target="_blank">top1000.ie</a></li><li><a href="http://www.rewardingtimes.ie" title="rewardingtimes.ie" target="_blank">rewardingtimes.ie</a></li><li><a href="http://www.myhome.ie" title="myhome.ie" target="_blank">myhome.ie</a></li><li><a href="http://www.irishracing.com" title="irishracing.com" target="_blank">irishracing.com</a></li><li><a href="http://entertainment.ie" title="entertainment.ie" target="_blank">entertainment.ie</a></li><li><a href="http://www.myantiques.ie/" title="myantiques.ie" target="_blank">myantiques.ie</a></li><li class="last"><a href="http://www.thegloss.ie/" title="thegloss.ie" target="_blank">The Gloss</a></li></ul></div><div xmlns="http://www.w3.org/1999/xhtml" id="site-tools"><div><ul><li class="first"><a href="https://www.newsdelivery.ie/" class="delivery">Home Delivery</a></li><li><a href="/mobile" class="mobile">Mobile</a></li><li><a href="http://www.twitter.com/IrishTimes" class="twitter">Follow Us</a></li><li><a rel="width:540,height:540" class="homepagemake-index hp_mb" id="make-homepage">Make Homepage</a></li><li><a href="/feeds/rss/" class="rss-feeds">RSS Feeds</a></li><li><a id="toggle-sitemap" class="site-index" href="#">Site Map</a></li><li class="last" id="weather"><a xmlns="" href="http://www.irishtimes.com/weather/"><span class="temperature-location"><span class="temperature">6 °C</span> Dublin »
+</span><span class="weather-icon"><img src="http://www.irishtimes.com/weather/icons/trans/partly_sunny_showers.gif" alt="PARTLY SUNNY WITH SHOWERS"></span></a></li></ul></div></div><div xmlns="http://www.w3.org/1999/xhtml" style="margin: 0; overflow: hidden;" id="site-map-content"><div style="margin: 0;display:none;" id="site-map-wrapper" class="setting-height"><div id="site-map-close"><span id="slideout-sitemap" class="close">Close</span></div><div id="site-map-details"><div id="col1"><ul><li><strong><a href="http://www.irishtimes.com/">News</a></strong></li><li><a href="http://www.irishtimes.com/ireland/">Ireland</a></li><li><a href="http://www.irishtimes.com/world/">World</a></li><li><a href="http://www.irishtimes.com/indepth/">In Depth</a></li><li><a href="http://irishtimes.newspaperdirect.com/epaper/viewer.aspx">Today's ePaper</a></li><li><a href="http://www.irishtimes.com/weather/">Weather</a></li><li><a href="http://www.irishtimes.com/archive/">Archive</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/life/">Life</a></strong></li><li><a href="http://www.irishtimes.com/life/travel/">Travel</a></li><li><a href="http://www.irishtimes.com/life/foodanddrink/">Food &amp; Drink</a></li><li><a href="http://www.irishtimes.com/life/style/">Style</a></li><li><a href="http://www.irishtimes.com/life/consumer/">Consumer</a></li><li><a href="http://www.irishtimes.com/life/homesandproperty/">Homes &amp; Property</a></li><li><a href="http://www.irishtimes.com/life/motors/">Motors</a></li><li><a href="http://www.irishtimes.com/life/livingtoday/">Living Today</a></li></ul></div><div id="col2"><ul><li><strong><a href="http://www.irishtimes.com/sports/">Sport</a></strong></li><li><a href="http://www.irishtimes.com/sports/gaa/">Gaelic Games</a></li><li><a href="http://www.irishtimes.com/sports/soccer/">Soccer</a></li><li><a href="http://www.irishtimes.com/sports/rugby/">Rugby</a></li><li><a href="http://www.irishtimes.com/sports/golf/">Golf</a></li><li><a href="http://www.irishtimes.com/sports/other/">Other</a></li><li><a href="http://www.irishracing.com">irishracing.com</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/society/">Society</a></strong></li><li><a href="http://www.irishtimes.com/society/health/">Health</a></li><li><a href="http://www.irishtimes.com/society/family/">Family</a></li><li><a href="http://www.irishtimes.com/society/education/">Education</a></li><li><a href="http://www.irishtimes.com/society/science/">Science</a></li><li><a href="http://www.irishtimes.com/society/environment/">Environment</a></li><li><a href="http://www.irishtimes.com/society/newsfeatures/">News Features</a></li><li><a href="http://www.irishtimes.com/society/people/">People</a></li></ul></div><div id="col3"><ul><li><strong><a href="http://www.irishtimes.com/business/">Business</a></strong></li><li><a href="http://www.irishtimes.com/business/sectors/">Sectors</a></li><li><a href="http://www.irishtimes.com/business/economy/">Economy</a></li><li><a href="http://www.irishtimes.com/business/opinionandanalysis/">Opinion &amp; Analysis</a></li><li><a href="http://www.irishtimes.com/business/markets/">Markets</a></li><li><a href="http://www.irishtimes.com/business/exchangerates.html">Exchange Rates</a></li><li><a href="http://www.irishtimes.com/business/technology/">Technology</a></li><li><a href="http://www.irishtimes.com/business/personalfinance/">Personal Finance</a></li><li><a href="http://www.irishtimes.com/innovation/">Innovation</a></li><li><a href="http://www.irishtimes.com/business/law/">Law</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/culture/">Culture</a></strong></li><li><a href="http://www.irishtimes.com/culture/film/">Film</a></li><li><a href="http://www.irishtimes.com/culture/books/">Books</a></li><li><a href="http://www.irishtimes.com/culture/stage/">Stage</a></li><li><a href="http://www.irishtimes.com/culture/music/">Music</a></li><li><a href="http://www.irishtimes.com/culture/artanddesign/">Art &amp; Design</a></li><li><a href="http://www.irishtimes.com/culture/mediaandcomment/">Comment &amp; Media</a></li><li><a href="http://www.irishtimes.com/culture/treibh/">Treibh</a></li></ul></div><div id="col4"><ul><li><strong><a href="http://www.irishtimes.com/comment/">Comment</a></strong></li><li><a href="http://www.irishtimes.com/opinion/">Opinion &amp; Analysis</a></li><li><a href="http://www.irishtimes.com/letters/">Letters</a></li><li><a href="http://www.irishtimes.com/blogs/">Blogs</a></li><li><a href="http://www.irishtimes.com/polls/">Polls</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/blogs/">Blogs</a></strong></li><li><a href="http://www.irishtimes.com/blogs/business/">Current Account</a></li><li><a href="http://www.irishtimes.com/blogs/mechanicalturk/">Mechanical Turk</a></li><li><a href="http://www.irishtimes.com/blogs/minibyte/">MiniBytes</a></li><li><a href="http://www.irishtimes.com/blogs/ontherecord/">On The Record</a></li><li><a href="http://www.irishtimes.com/blogs/fash-mob/">Fash Mob</a></li><li><a href="http://www.irishtimes.com/blogs/politics/">Politics</a></li><li><a href="http://www.irishtimes.com/blogs/pricewatch/">Pricewatch</a></li><li><a href="http://www.irishtimes.com/blogs/pursuedbyabear/">Pursued by a Bear</a></li><li><a href="http://www.irishtimes.com/blogs/screenwriter/">Screenwriter</a></li></ul></div><div id="col5"><ul><li><strong><a href="http://www.irishtimes.com/cars/">Cars</a></strong></li><li><a href="http://cars.irishtimes.com/new-cars/">Find new cars</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/notices/">Family Notices</a></strong></li><li><a href="http://notices.irishtimes.com/browse?type=all_memorial">In Memoriam &amp; Death Notices</a></li><li><a href="http://notices.irishtimes.com/browse?type=all_wedding">Wedding Bells</a></li><li><a href="http://notices.irishtimes.com/browse?type=all_anniversary">Anniversaries</a></li><li><a href="http://notices.irishtimes.com/browse?type=all_birthday">Births &amp; Birthdays</a></li><li><a href="http://notices.irishtimes.com/browse?type=all_specialday">Special Days</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/ancestor">Irish Ancestors</a></strong></li><li><a href="http://www.irishtimes.com/ancestor/surname/">Surname search</a></li><li><a href="http://www.irishtimes.com/ancestor/genie/">Ancestor search</a></li><li><a href="http://www.irishtimes.com/ancestor/placenames/">Placenames</a></li><li><a href="http://www.irishtimes.com/ancestor/browse/">Browse</a></li><li><a href="http://www.irishtimes.com/ancestor/subscription/">Subscribe</a></li><li><a href="http://www.irishtimes.com/ancestor/research/">Research</a></li><li><a href="http://www.irishtimes.com/ancestor/research/assessment/">Wizard</a></li><li><a href="/ancestor/sitemap.htm">Ancestors Sitemap</a></li></ul></div><div id="col6"><ul><li><strong><a href="http://www.irishtimes.com/jobs/">Jobs</a></strong></li><li><a href="http://www.irishtimes.com/jobs">Jobsboard</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/dating/">Dating</a></strong></li><li><a href="http://dating.irishtimes.com/join.cfm">Sign up for free</a></li><li><a href="http://dating.irishtimes.com/mypage.cfm">Login</a></li></ul><ul><li><strong>About us</strong></li><li><a href="http://www.irishtimes.com/about/">Company information</a></li><li><a href="http://www.irishtimes.com/about/privacy/">Privacy policy</a></li><li><a href="http://www.irishtimes.com/about/help/">Help</a></li><li><a href="http://www.irishtimes.com/about/contact/">Contact us</a></li><li><a href="http://www.irishtimes.com/mediakit/">Advertise</a></li><li><a href="http://www.irishtimes.com/about/terms_conditions/">Terms &amp; conditions</a></li><li><a href="http://www.irishtimes.com/about/copyright/">Copyright</a></li></ul></div><div id="col7"><ul><li><strong><a href="http://www.irishtimes.com/homes/">Homes</a></strong></li><li><a href="http://www.irishtimes.com/homes/">Search for Properties </a></li><li><a href="http://www.irishtimes.com/homes/">Search for Rentals</a></li></ul><ul><li><strong><a href="http://www.irishtimes.com/shop/">Shop</a></strong></li><li><a href="http://www.irishtimes.com/pagesales/">Page Sales</a></li><li><a href="http://www.irishtimes.com/readeroffers/">Reader Offers</a></li><li><a href="http://traveloffers.irishtimes.com/">Travel Offers</a></li><li><a href="http://www.irishtimes.com/photosales/">Photo Sales</a></li><li><a href="http://www.irishtimes.com/dvdclub/">DVD Club</a></li></ul><ul><li><strong>Games</strong></li><li><a href="http://www.irishtimes.com/games/crosswords/">Crosswords</a></li><li><a href="http://www.irishtimes.com/competitions/">Competitions</a></li></ul><ul><li><strong>Other</strong></li><li><a href="http://www.irishtimestraining.com/">Irish Times Training</a></li><li><a href="http://www.irishtimes.com/legal/">Legal</a></li></ul></div></div></div></div><script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript"><!--
         var _gaq = _gaq || [];
         _gaq.push(
             ['_setAccount', 'UA-850873-2'],
