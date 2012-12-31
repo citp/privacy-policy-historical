@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edlumina.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424013923id_/http%3A//www.cyanna.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edlumina.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231225157id_/http%3A//www.cyanna.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cyanna Education Services
 
@@ -38,4 +38,4 @@ Cyanna Education Services reserves the right to make changes, modifications or a
 
 #### Acceptance of These Terms
 
-By using the Cyanna Education Services Services and the Cyanna Education Services website, you signify your agreement to this Privacy Statement. If you do not agree to the terms of this policy, do not use the Cyanna Education Services Services or the Cyanna Education Services website and do not provide us with any information. Your continued use of the Cyanna Education Services Services and the Cyanna Education Services website in light of any changes to this policy will mean that you accept the changes.
+By using the Cyanna Education Services Services and the Cyanna Education Services website, you signify your agreement to this Privacy Statement. If you do not agree to the terms of this policy, do not use the Cyanna Education Services Services or the Cyanna Education Services website and do not provide us with any information. Your continued use of the Cyanna Education Services Services and the Cyanna Education Services website, in light of any changes to this policy, will mean that you accept the changes.
