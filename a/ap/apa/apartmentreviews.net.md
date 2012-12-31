@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apartmentreviews.net privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511045240id_/http%3A//www.apartmentreviews.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentreviews.net privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231172758id_/http%3A//www.apartmentreviews.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for ApartmentReviews.net
 
-This document was last updated on April 16, 2008. 
+This document was last updated on October 30, 2012. 
 
 1\. ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS 
 
@@ -62,7 +62,7 @@ Some of these Web beacons may be placed by third party service providers to help
 
 5\. ACCESSING WEB ACCOUNT INFORMATION 
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant --support@ApartmentReviews.net. 
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending a ticket through our support system at [Support.ApartmentReviews.net](http://support.apartmentreviews.net/). 
 
 6\. CHANGES TO THIS STATEMENT 
 
@@ -70,10 +70,11 @@ ApartmentReviews.net has the discretion to occasionally update this privacy stat
 
 7\. CONTACTING US 
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at privacypolicy@apartmentreviews.net or send your comments to: 
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [Support.ApartmentReviews.net](http://support.apartmentreviews.net/) or send your comments to: 
 
 ApartmentReviews.net  
-440 Benmar, Suite 1210  
-Houston, TX 77060 
+attn: Nathan Skinner  
+PO Box 1343  
+South Windsor CT 06074 
 
 ApartmentReviews.net will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
