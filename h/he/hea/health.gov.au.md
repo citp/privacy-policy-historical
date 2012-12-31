@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515104520id_/http%3A//health.gov.au/internet/main/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032517id_/http%3A//www.health.gov.au/internet/main/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
 
 # Department of Health and Ageing - Privacy and security
 
@@ -6,11 +6,11 @@ Privacy and security information for users of the Department of Health and Agein
 
 ## Privacy Statement
 
-The Australian Department of Health and Ageing is committed to protecting your privacy in accordance with the Privacy Commissioner’s Guidelines for Federal and ACT Government World Wide Websites (<http://www.privacy.gov.au/internet/web/index.html>). The guidelines set out the requirements for transparent collection, appropriate and ethical use and secure storage of personal information. Our aim is to provide an online environment which will ensure the information you provide to us is handled in a secure, efficient and confidential manner.
+The Australian Department of Health and Ageing is committed to protecting your privacy in accordance with the [Privacy Commissioner’s Guidelines](http://www.privacy.gov.au/internet/web/index.html) for Federal and ACT Government World Wide Websites. The guidelines set out the requirements for transparent collection, appropriate and ethical use and secure storage of personal information. Our aim is to provide an online environment which will ensure the information you provide to us is handled in a secure, efficient and confidential manner.
 
 ## Information collection and privacy protection
 
-This statement outlines our information gathering and dissemination practices for this website. The Department is subject to the _Privacy Act 1988_ and these practices have been developed for the purpose of complying with that Act (a copy of the Act is available at COMLAW ([http://www.comlaw.gov.au](http://www.comlaw.gov.au/)). Any information you provide to the Department will only be used for the purpose for which you provide it and will not be disclosed to any other party unless your written consent has been obtained. 
+This statement outlines our information gathering and dissemination practices for this website. The Department is subject to the _Privacy Act 1988_ and these practices have been developed for the purpose of complying with that Act (a copy of the Act is [available at Comlaw](http://www.comlaw.gov.au/). Any information you provide to the Department will only be used for the purpose for which you provide it and will not be disclosed to any other party unless your written consent has been obtained. 
 
 ## Your email address
 
@@ -19,7 +19,7 @@ Top of page
 
 ## Cookies
 
-The Department of Health and Ageing uses 'cookies' for maintaining contact with a user through a website session. A cookie is a small file supplied by the Department, and stored by the web browser software on your computer when you access our site. (An explanation of cookies can be found at the site of the Privacy Commissioner at: <http://www.privacy.gov.au/internet/internet_privacy/#2.1>). Cookies allow us to recognise you as an individual web user, as you browse our website. 
+The Department of Health and Ageing uses 'cookies' for maintaining contact with a user through a website session. A cookie is a small file supplied by the Department, and stored by the web browser software on your computer when you access our site. (An explanation of cookies can be found at the site of the [Privacy Commissioner](http://www.privacy.gov.au/internet/internet_privacy/#2.1). Cookies allow us to recognise you as an individual web user, as you browse our website. 
 
 Two cookie types may be used by this website:
 
@@ -67,7 +67,7 @@ The Commonwealth accepts no liability for any interference with or damage to a u
 
 ## Queries, concerns and further information
 
-If you have any queries, concerns or require further information relating to privacy and the Department of Health and Ageing, please email the Department at: [enquiries@health.gov.au](mailto:enquiries@health.gov.au).
+If you have any queries, concerns or require further information relating to privacy and the Department of Health and Ageing, please [email the Department](mailto:enquiries@health.gov.au) at: enquiries@health.gov.au.
 
 If you have concerns about emailing this site, please use our postal addresses and write to the:
 
