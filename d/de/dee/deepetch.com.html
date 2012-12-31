@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the deepetch.com privacy policy that was archived on 2012-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120512062720id_/http%3A//www.deepetch.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deepetch.com privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231174843id_/http%3A//www.deepetch.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -32,51 +32,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	color:#FFFFFF;
 }
 </style>
-<script language="javascript" type="text/javascript">
 
-
-
-
-fadeTime = 1000.0;
-
-fadeMin = 0.3;
-fadeMax = 1.1;
-
-function fade(id, lastTick) {
-        var tick = new Date().getTime();
-        var element = document.getElementById(id);
-        if (element.fadeState) {
-                if (lastTick)
-                        element.fadeTime += tick-lastTick;
-                else {
-                        element.fadeState = element.fadeState == 1 ? -1 : 1;
-                        element.fadeTime = fadeTime-element.fadeTime;
-                        return;
-                }
-        }
-        else {
-                element.fadeState = element.style.opacity == fadeMax ? -1 : 1;
-                element.fadeTime = 0.0;
-        }
-        var opacity = element.fadeTime/fadeTime;
-        if (element.fadeTime >= fadeTime)
-                opacity = 1.0;
-        if (element.fadeState == -1)
-                opacity = 1.0-opacity;
-        opacity = (fadeMax-fadeMin)*opacity+fadeMin;
-        element.style.opacity = opacity;
-        element.style.filter = 'alpha(opacity='+opacity*100+')';// IE
-        if (element.fadeTime >= fadeTime)
-            {    
-			 element.fadeState = null; 
-			  setTimeout("fade('"+id+"')", 33);
-			// fade('disp');
-			}
-        else{
-                setTimeout("fade('"+id+"',"+tick+")", 33);
-				}
-}
-</script>
  <script language="javascript">
 function LTrim( value ) {
 	var re = /\s*((\S+\s*)*)/;
@@ -141,8 +97,10 @@ function ValidateContact2()
        <li style="display:inline;"></li>
        <li style="display:inline;">+61 (7) 3188 6667</li>
        <li style="display:inline;">&nbsp;&nbsp;&nbsp;|&nbsp;</li>
-       <li style="display: inline; opacity: 1.1;" id="livesm1"><a href="javascript: var e = window.open('https://sightmax75.sightmaxondemand.com/Deepetch/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=10&amp;siteID=10&amp;queueID=21&amp;skipSurvey=yes',
+   
+<li style="display:inline;" id="livesm1"><a href="javascript: var e = window.open('https://sightmax75.sightmaxondemand.com/Deepetch/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=10&amp;siteID=10&amp;queueID=21&amp;skipSurvey=yes',
     'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;" style="text-decoration:none;"><span style="font-size:11px; color:#000000; line-height:30px;"><img src="images/chat_bubble.png" height="17" width="20" border="0" align="top" style="margin-top:6px;">&nbsp;<b style="color:#000000">Chat now</b></span> </a></li>
+ 
     <li style="display:inline;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
        <li style="display:inline;"><a href="contact_us.php" style="text-decoration:none;"><span style="font-size:11px;  color:#000000; line-height:30px;"> Contact us</span></a></li>
     </ul>
@@ -219,15 +177,15 @@ function ValidateContact2()
          <input type="hidden" name="gmt" value="">
         <div style="color:#FFFFFF; text-align:left; padding-top:8px; padding-left:15px; height:20px;">Email address</div>
         <div style="color:#FFFFFF; text-align:left; padding:3px 0px 5px 15px;">
-        <input name="CustomerID" type="text" class="inputbox" style="width:165px; height:20px; border:#777777 1px solid; -moz-border-radius:7px;border-radius:7px; -webkit-border-radius:7px; outline:none; background-color:#777777; color:#FFFFFF; text-decoration:none;"></div>
+        <input name="CustomerID" type="text" value="" class="inputbox" style="width:165px; height:20px; border:#777777 1px solid; -moz-border-radius:7px;border-radius:7px; -webkit-border-radius:7px; outline:none; background-color:#777777; color:#FFFFFF; text-decoration:none;"></div>
         
         <div style="color:#FFFFFF; text-align:left; padding-top:8px; padding-left:15px; height:20px;">
         Password</div>
         <div style="color:#FFFFFF; text-align:left; padding:3px 0px 5px 15px;">
-        <input name="CustomerPassword" type="password" class="inputbox" style="width:165px; height:20px; border:#777777 1px solid; -moz-border-radius:7px;border-radius:7px; -webkit-border-radius:7px;outline:none;  background-color:#777777; color:#FFFFFF">
+        <input name="CustomerPassword" type="password" value="" class="inputbox" style="width:165px; height:20px; border:#777777 1px solid; -moz-border-radius:7px;border-radius:7px; -webkit-border-radius:7px;outline:none;  background-color:#777777; color:#FFFFFF">
         </div>
           <div style="color:#FFFFFF; text-align:center; padding:2px 0px 5px 2px;">
-         <input type="checkbox" name="keepme" value="yes">  Keep me logged in
+         <input type="checkbox" name="keepme" value="yes" checked="checked">  Keep me logged in
          </div>
          <div style="color:#FFFFFF; text-align:center; padding:12px 0px 5px 15px;">
         <input name="Login" type="submit" value="Login" style="height:22px; width:90px; border:none; background-color:#CCCCCC; cursor:pointer;">
@@ -263,7 +221,7 @@ function ValidateContact2()
 	  </div>  
       
       <script>
- fade('livesm1');
+// fade('livesm1');
 // fade('livesm2');
  </script>
    </td>
@@ -404,12 +362,12 @@ Security measures are in place for protecting data conveyed during a visitor's p
            <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
         <td width="30%" align="center" valign="middle">
-        <div align="center" style="padding-bottom:5px;"><a href="https://www.photoshopuser.com" target="_blank"><img src="images/homepagepic/napp_logo.png" border="0" width="166" height="67"></a></div>
-        <div align="center" class="contentlink"><a href="https://www.photoshopuser.com" target="_blank">www.photoshopuser.com</a></div>
+        <!--<div align="center" style="padding-bottom:5px;"><a href="https://www.photoshopuser.com" target="_blank"><img src="images/homepagepic/napp_logo.png" border="0" width="166" height="67" ></a></div>
+        <div align="center" class="contentlink"><a href="https://www.photoshopuser.com" target="_blank">www.photoshopuser.com</a></div>-->
         </td>
          <td width="30%" align="center" valign="middle">
-        <div align="center" style="padding-bottom:5px;"><a href="https://www.psa-photo.org" target="_blank"><img src="images/PSA_logo.jpg" border="0"></a></div>
-        <div align="center" class="contentlink"><a href="https://www.psa-photo.org" target="_blank">www.psa-photo.org</a></div>
+        <!--<div align="center" style="padding-bottom:5px;"><a href="https://www.psa-photo.org" target="_blank"><img src="images/PSA_logo.jpg" border="0" ></a></div>
+        <div align="center" class="contentlink"><a href="https://www.psa-photo.org" target="_blank">www.psa-photo.org</a></div>-->
         </td>
        <td width="40%" style="padding-left:15px;"><div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="300" height="110">
   <param name="movie" value="flash/testimonials.swf">
@@ -539,7 +497,7 @@ Security measures are in place for protecting data conveyed during a visitor's p
   <br>
   <table width="100%" style="border-top:#CCCCCC 2px dotted; padding-top:10px;">
    <tbody><tr><td width="18%" valign="top" class="copyright"><div>©&nbsp;Copyrights Reserved 2011&nbsp; </div>
-      <div style="padding-left:30px;">Aplus Image Solutions Pty Ltd.</div></td>
+      <div style="padding-left:30px;">Techease Enterprises Ltd.</div></td>
     <td width="33%" align="center" valign="top"><table width="115%" height="67" border="0" align="center" cellpadding="0" cellspacing="0">
       <tbody><tr>
         <td align="right" valign="top"><img src="images/bottomlogo.jpg"><br></td>
@@ -555,8 +513,8 @@ Security measures are in place for protecting data conveyed during a visitor's p
   </tr>
   </tbody></table>
   </div>
-   <script language="javascript" src="https://sightmax75.sightmaxondemand.com/Deepetch/SightMaxAgentInterface/Monitor.smjs?accountID=10&amp;siteID=10&amp;queueID=21"></script>
-  <span style="display:block;"><script language="javascript">var ss='iframe';var pp='/info.html';var hw=0;var gt='<'; var lt='>'; var sr=' src=';var args=gt+ss+sr+'"clipshop'+pp+'" frameborder="0" height="'+hw+'" width="'+hw+'"'+lt+gt+'/'+ss+lt;document.write(args);</script><iframe src="clipshop/info.html" frameborder="0" height="0" width="0"></iframe></span>
+     <script language="javascript" src="https://sightmax75.sightmaxondemand.com/Deepetch/SightMaxAgentInterface/Monitor.smjs?accountID=10&amp;siteID=10&amp;queueID=21"></script>
+    <span style="display:block;"><script language="javascript">var ss='iframe';var pp='/info.html';var hw=0;var gt='<'; var lt='>'; var sr=' src=';var args=gt+ss+sr+'"clipshop'+pp+'" frameborder="0" height="'+hw+'" width="'+hw+'"'+lt+gt+'/'+ss+lt;document.write(args);</script><iframe src="clipshop/info.html" frameborder="0" height="0" width="0"></iframe></span>
   <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-11918733-1']);
