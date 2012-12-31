@@ -1,80 +1,109 @@
-> *The following text is extracted and transformed from the iheartmusic.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221110305id_/http%3A//www.iheartradio.com/feed/1/Legal/PRIVACY-STATEMENT.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartmusic.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231151909id_/http%3A//www.iheart.com/legal/privacy) for the most accurate reproduction.*
 
-# PRIVACY STATEMENT - iheartradio - Listen to 750+ Stations
+# Privacy Policy | iHeartRadio
 
-This policy informs you of Clear Channel's practices with respect to the online collection, use, and disclosure of personal information from this Clear Channel Website. This policy applies to information collected on the websites at which the policy is posted. It does not apply to information Clear Channel might obtain about you or from you through other means, including offline or when you send email messages to us. Personal information is information that allows us to contact you (such as email address, home address, or telephone number) or other information that, when linked to your name or contact information, allows us to personalize your visit to our site by providing you with information that suits your interests.
+[Versión en Español](https://web.archive.org/legal/privacy-es/)
 
-Clear Channel is the owner of this website and retains all ownership rights to the information collected at this site. Clear Channel reserves the right to change, modify, add, or remove provisions of this Privacy Policy. Any changes to this Privacy Policy will be posted here, and we encourage you to check back from time to time. 
+UPDATED AS OF: November 29, 2012
 
-**Information Collection**  
-Although you may use many features of this site without completing a registration or sign-up form, or otherwise providing us with your personal information, visitors who do register and/or sign up for special services may have access to additional features of the site and are more likely to receive information suited to their interests. For example, a registered user is eligible for additional services provided by this website such as listener clubs and personalized content. Our registration and special services sign-up forms may ask you for contact information (like name or email address) and demographic information (like zip code or age). You must provide the information in order to receive the benefits of registration or of the special service. In addition to website registrations, we also allow users to participate in other interactive features where submission of personal information is required. These features include our online surveys and contests, online shopping areas, interactive forums like blogs and chat rooms, and more.
+Clear Channel Broadcasting, Inc. ("Clear Channel", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter and Facebook pages, and Mobile Application ("Platforms").
 
- **Information Use**  
-We may use the personal information you give us to respond to your request, to bill you for and deliver to you any products or services you order from us, to better tailor your website experience to your interests, to request your opinions with respect to media and entertainment, and to send you information about Clear Channel and its services as well as promotional material on behalf of some of our partners. We may use information that you provide to us to inform you of content on the web, radio and other methods of content delivery, in which you may be interested and to provide or display the content according to your preferences. We may also use the information as otherwise described to you (including at the time we collect your information), or for our other legitimate business purposes. We will also share this information within the Clear Channel family in order to enhance your experiences with Clear Channel, and those additional Clear Channel companies may use the information for their own purposes as described above. 
+  * ### QUICK GUIDE TO CONTENTS
 
-**Supplemental Information**   
-To enhance Clear Channel's ability to tailor this site to your preferences, we may combine information that you provide us on our websites and otherwise with other information about you that we may obtain. 
-
-**Public Forums**  
-This site may make available chat rooms, forums, message boards, and news groups. Please remember that any information that you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**Information Sharing With Third Parties**  
-We share information with third parties for our legitimate business purposes, which include the following circumstances:
-
-  * With third parties who are providing services on our behalf, such as vendors or business partners who are operating features at our website (our online stores or career areas, for example), or vendors who are assisting with product delivery or prize awards. These third parties also include merchant and credit card companies, and by giving our site your credit card and related personal information, you are authorizing our store to give that information to the merchant and credit card company in order to confirm and fulfill your order.
-  * From time to time we may enter into a special relationship with another company that is not owned by Clear Channel to provide additional features at this site. These special relationships may include "powered by" partners, business partners, sponsors, and co-branded sites (referred to here as "co-branded pages"). These might include, for example, pages that share our name and that of another entity, such as TicketMaster. You should look for a specific privacy statement on any such co-branded page. Any personal information that you provide when signing up at one of those co-branded pages may be shared with our third party partner. You should also check our partner's website for information regarding its privacy policies.
-  * Also, the nature of some features of our site may require that we share personal information about you with persons or companies outside of the Clear Channel family. For example, this may occur at a feature that enables you, via our site, to ask questions of persons or entities that are not part of the Clear Channel family. By responding to those features of the site, whether by email or direct entry of information on our Website, you are consenting to our transferring that information to such persons or entities.
-  * With respect to specific registration modules, like contests, we may disclose personal information collected, and we will post a conspicuous statement on the registration module to the effect that we will be disclosing the information collected with third parties.
-  * If we believe we are required to do so by law, or to otherwise cooperate with a government or law enforcement request.
-  * In the event that all or part of our business, this website, or features or functions offered by this website, is sold to, acquired by, or otherwise transferred to a third party, the personal information collected in connection with that business/website/feature/function will be transferred to the new owner.
-  * We may share any of the information collected from you with these other non-Clear Channel companies in an aggregate basis. The aggregated information is not linked to any information that can identify you.
-  * In addition, we may share this information with advertisers or other third parties that are not part of the Clear Channel family on an aggregate or other basis that does not disclose your identity or contact information. 
+  * 1\. INFORMATION WE COLLECT ON OUR PLATFORMS
+  * 2\. HOW WE USE THE INFORMATION WE COLLECT
+  * 3\. SHARING OF INFORMATION
+  * 4\. INFORMATION WE RECEIVE FROM THIRD PARTIES
+  * 5\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS.
+  * 6\. ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT
+  * 7\. CHILDREN
+  * 8\. SECURITY OF YOUR INFORMATION
+  * 9\. OTHER SITES
+  * 10\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION
+  * 11\. CHANGES
+  * 12\. CONTACT US
 
 
 
-**Passive Information Gathering Techniques**  
-We may use a variety of passive tracking techniques in the operation of this Website. For example, we may collect your IP address to administer our Website, to help diagnose problems with our server, to analyze trends, to track users' webpage movements, to help identify you and your shopping cart, and to gather broad demographic information for aggregate use.
+### 1\. INFORMATION WE COLLECT ON OUR PLATFORMS.
 
-This Clear Channel site may also use a standard technology called a "cookie" to collect information about how you use the site. Cookies reside on your computer and help our website to recognize your computer's browser as a previous visitor. This information allows us to customize delivery of information. For example, our site may use cookies to save and remember registration information or preferences that you may have set while browsing the site, to keep track of your shopping cart, to ensure you don't see the same ad content repeatedly, to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. We use cookies only to gather information as indicated in this policy. 
+Information You Provide To Us
 
-In addition, on occasion our site may also set a "session cookie" which helps us administer the site. The session cookie expires when you close your browser and does not retain any information about you after it expires.
+We may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), or payment information (such as account or credit card number). The types of Personal Information we collect may vary depending on your use of the features of the Platforms. For example, we will collect your credit card number and other payment related information in connection with your purchase of products and/or services through the Platforms. We post customer testimonials/video testimonials on our Platforms which may contain personally identifiable information. If we want to post a customer's name along with their testimonial, we obtain the customer's consent via email prior to posting the testimonial. 
 
- **Advertising (Ad Networks and Banner Ads)**  
-We may use an ad network provider to help present advertisements on this and other Clear Channel Websites. This ad network provider, like other advertising service vendors, uses cookies, web beacons, or similar technologies on the hard drive of your computer to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, and to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, the provider collects non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these ad network providers is subject to their own privacy policies, not ours. If you do not want the benefits of these advertising cookies, you may opt-out by visiting <http://www.networkadvertising.org/optout_nonppii.asp>. However, if you do so you may not receive the full benefit from the use of our site.
+### Information We Collect Automatically
 
-We license ad-server software from another company to place banner advertising on our sites. All of the data provided and generated by the ad-server software remains in our possession and no data is transferred to the licensor of the software. This feature of our site may, on occasion, set "cookies" on your computer. Any information collected or stored by the ad-service or the cookies is treated in the same manner as other information as described in this statement.
+_Usage Information._ Whenever you visit or interact with the Platforms, we, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Platforms are accessed and used ("Usage Information"). Usage Information may include browser type, device type, operating system, application version, the page served, the time, the preceding page views, and your use of features or applications on the Platforms, such as song history, interaction with friends and group activities. This information helps us keep our Platforms fresh and interesting to our visitors and allows us to tailor content to a visitor's interests. 
 
- **Children's Personal Information**  
-This Website is not intended for, nor does Clear Channel believe it is appealing to, children under 13. Clear Channel takes steps to avoid collecting personally identifiable information from children under 13. If you are a parent and you believe that your child has provided us with personally identifiable information, please contact us at the email address or postal address listed below.
+_Device Identifier_ We automatically collect your IP address or other unique identifier ("Device Identifier") for the Device (computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is a number that is assigned to your Device when you access a website or its servers, and our computers identify your Device by its Device Identifier. We may use a Device Identifier to, among other things, administer the Platforms, help diagnose problems with our servers, analyze trends, track users' web page movements, help identify you and your shopping cart, and gather broad demographic information for aggregate use. 
 
- **Your Choices**  
-This Clear Channel site provides you the opportunity to opt-out of receiving email communications from us and our special relationship partners. To opt-out of receiving email communications, you may: 
+_Cookies; Pixel Tags_ The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, if you so choose, enable interaction between your activities on the Platforms and your activities on such social networking sites We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location, or demographic information). A pixel tag may tell your browser to get content from another server. 
 
-  * [Modify your registered user information on our website](https://web.archive.org/myaccount/); or
-  * Send an email: [websupport@clearchannel.com](mailto:websupport@clearchannel.com)
+To learn how you may be able to reduce the number of cookies you receive from us, or delete cookies that have already been installed in your browser's cookie folder, please refer to your browser's help menu or other instructions related to your browser. If you do disable or opt out of receiving cookies, please be aware that some features and services on our Platforms may not work properly because we may not be able to recognize and associate you with your Clear Channel account(s). In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. 
 
+### 2\. HOW WE USE THE INFORMATION WE COLLECT
 
+We use the information we collect about and from you for a variety of business purposes such as to respond to your questions and requests; provide you with access to certain areas and features of the Platforms such as your favorite stations, your musical preferences, songs you have listened to, shared playlists and your interaction with other users; verify your identity; communicate with you about your account and activities on the Platforms and, in our discretion, changes to any Clear Channel policy; tailor content, advertisements, and offers we serve you; improve the Platforms; comply with license obligations; and for purposes disclosed at the time you provide your Personal Information or otherwise with your consent. We may collect location based information about you to provide you with radio stations in your area and to tailor advertisements and offers we serve to you. 
 
-(Please note that this email should only be used for specific technical issues related to the website such as unsubscribing from a database. **The recipients of these emails will not be able, in general, to answer concerns regarding on-air programming, promotions or other non-web related issues.)**
+### 3\. SHARING OF INFORMATION
 
- **Access to Personal Information**  
-In certain circumstances Clear Channel gives you the opportunity to modify or remove personal information that you have provided to us. You may do so by modifying your password-protected registered user information on our website. 
+Except as described here, we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Notice and in the following circumstances: 
 
-**Security of Your Personal Information**  
-Clear Channel employs reasonable security measures consistent with standard industry practice, for personal information collected through this website. We believe that we have adequate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of the information we collect on our website. We also use internal protections to limit access to users' personal information to only those employees who need the information to perform a specific job.
+**Third Parties Providing Services On Our Behalf** We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as service providers that host or operate our Platforms, analyze data, process transactions and payments, fulfill orders or provide customer service; advertisers; sponsors or other third parties that participate in or administer our promotions, contests, sweepstakes, surveys or provide marketing or promotional assistance and "powered by" partners or partners in co-branded sites. Your Personal Information may also be used by us or shared with our subsidiaries, affiliates, sponsors, partners, advertisers or other third parties to provide you with product information and promotional and other offers. 
 
- **Contacting the Website**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact Clear Channel Radio Interactive Support at websupport@clearchannel.com. Please include the web address, call letters or station's name. Please note that this email address should only be used for specific technical issues related to the website such as unsubscribing from a database. The recipients of these emails will not be able, in general to answer concerns regarding on-air programming, promotions or other non-web related issues. You may send written inquiries via postal mail to:
+**Your Agreement To Have Your Personal Information Shared** While on our Platforms, you may have the opportunity to opt-in to receive information and/or marketing offers from someone else or to otherwise consent to the sharing of your information with a third party, including social networking sites such as Facebook or Twitter. If you agree to have your Personal Information shared, your Personal Information will be disclosed to the third party and the Personal Information you disclose will be subject to the privacy policy and business practices of that third party. 
 
-C. Cain  
-Legal Department  
-ATTN: Privacy Policy  
-Clear Channel Communications, Inc.  
+**Business Transfers** We may share your Personal Information with other entities and our affiliates primarily for business and operational purposes. In the event that Clear Channel is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. 
+
+**Legal Disclosure** We may transfer and disclose your information to third parties to comply with a legal obligation; when we believe in good faith that the law or a governmental authority requires it; to verify or enforce our Terms of Use or other applicable policies; to address fraud, security or technical issues; to respond to an emergency; or otherwise to protect our rights or property or security of third parties, visitors to our Platforms or the public. 
+
+### 4\. INFORMATION WE RECEIVE FROM THIRD PARTIES
+
+We may receive information about you from third parties. For example, if you are on another website and you opt-in to receive information from Clear Channel, that website will submit to us your email address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including Usage Information and Personal Information such as lists of your friends, "likes", comments you have shared, groups and location. Services like Facebook Connect give you the option to post information about your activities on our Platform to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third party website or interactive service. We may supplement the information we collect about you through the Platforms with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you. 
+
+### 5\. YOUR PRIVACY RIGHTS, CHOICE AND ACCESS.
+
+You may always direct us not to share your Personal Information with third parties (other than our service providers), not to use your Personal Information to provide you with information or offers, or not to send you newsletters, emails or other communications by: (i) modifying your registered user information on the Platforms; (ii) sending us an email at privacy@iheartradio.com; (iii) contacting us by mail at Clear Channel Digital Customer Service, 200 E. Basse Road, San Antonio, TX 78209; or (iv) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it. 
+
+If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@iheartradio.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site. 
+
+### 6\. ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT-OUT.
+
+We may use third party ad network providers to help present ads on the Platforms, as well as other service providers to evaluate and provide us with information about the use of the Platforms and viewing of our content. We do not share Personal Information with these providers (unless, of course, you give us permission). Such providers may place and access cookies, pixel tags, or similar technologies on your Device to serve you ads or other content personalized to your interests which they infer from your browsing on the Platforms and other sites you have visited. In doing so, the provider collects or has access to non-Personal Information such as your Usage Information. The use of cookies, pixel tags, or similar technologies by these providers is subject to their own privacy policies, not ours. 
+
+If you do not want to receive the benefits of targeted advertising, you may opt out of some network advertising programs that use your information by visiting the TRUSTe Preference Manager at http://preferences-mgr.truste.com/. Please note that even if you choose to remove your information (opt out), you will still see advertisements while you're browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The TRUSTe Preference Manager provides a tool that identifies its member companies that have cookies on your browser and provides a mechanism to opt out of receiving cookies from those companies. **__**
+
+### 7\. CHILDREN.
+
+The Platforms are not directed to children under 13. We do not knowingly collect, use or disclose personally identifiable information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. 
+
+### 8\. SECURITY OF YOUR INFORMATION.
+
+We take information security seriously; however, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk. 
+
+### 9\. OTHER SITES.
+
+The Platforms may contain links to other sites that we do not own or operate. This includes links from advertisers, sponsors and/or partners that may use our logo(s) as part of a co-branding or co-marketing agreement. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies or practices. These other sites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own published privacy policies. You should also independently assess the authenticity of any site which appears or claims that it is one of our Platforms (including those linked to through an email or social networking page). 
+
+The Platforms may make available chat rooms, forums, message boards, and news groups. Remember that any information that you disclose in these areas becomes public information and is not subject to the provisions of this Privacy Notice. 
+
+### 10\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION.
+
+The Platforms are governed by and operated in, and in accordance with the laws of, the United States, and are intended for the enjoyment of residents of the United States. Clear Channel makes no representation that the Platforms are governed by or operated in accordance with the laws of any other nation. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Platforms, or providing us with any information, you (a) acknowledge that the Platforms are subject to the laws of the United States, (b) consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen, and (c) waive any claims that may arise under those laws. 
+
+### 11\. CHANGES.
+
+We may update this Privacy Notice to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Platforms prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+### 12\. CONTACT US.
+
+If you have any questions or concerns about this Privacy Statement, the practices of the Platforms, or your experiences with the Platforms, please contact us at:
+
+Attn: Privacy Questions  
+Clear Channel Radio Digital  
 200 E. Basse Road  
-San Antonio, Texas 78209 
+San Antonio, TX 78209
 
-**European Union and Other Foreign Nations**  
-This Clear Channel website is governed by and operated in accordance with the laws of United States of America and is intended for enjoyment of residents of the United States. Clear Channel makes no representation that this website is governed by or operated in accordance with the laws of other nations. By using this site and submitting any personal information, visitors from outside of the United States acknowledge the this site is subject to U.S. law (which may not provide the same level of protections as the laws in your country), consent to the transfer of personal data to the U.S., and waive any claims that may arise under their own national laws.
+Re: Clear Channel Privacy Statement
 
- **Effective Date**  
-This policy has been in effect since May 2007, and was last updated on February 14, 2011.﻿
+E-Mail: [privacy@iheartradio.com](mailto:privacy@iheartradio.com)
