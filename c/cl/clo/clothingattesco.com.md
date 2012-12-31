@@ -1,45 +1,137 @@
-> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227180322id_/http%3A//www.clothingattesco.com/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231012333id_/http%3A//www.clothingattesco.com/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Clothing at Tesco | privacy policy
 
-Tesco is committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at online@tesco.co.uk.
+Clothing at Tesco ("the Website") is owned and operated by Tesco Stores Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](http://www.clothingattesco.com/clothing-at-tesco-terms+conditions/page/terms/), explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](http://www.clothingattesco.com/clothing-at-tesco-terms+conditions/page/terms/) carefully; by accessing the Website you confirm to have understood and agreed to them.
 
-## Information collected
+### Information we collect about you
 
-Tesco collects the details provided by you on registration together with information we learn about you from your use of our service and your visits to our web site and other sites accessible from them. We also collect information about the transactions you undertake including details of payment cards used.
+We collect information about you when you:
 
-We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms. We also monitor customer traffic patterns and site use which enables us to improve the service we provide.
+  * visit the Website, and other sites accessible from the Website. 
+  * register with and buy products or services on the Website.
+  * take part in promotions, competitions, customer surveys and questionnaires.
+  * contact us eg in writing, call customer services.
 
-## Access to Clubcard information
 
-We will access the information recorded through the use of your Clubcard to help us improve our service to you and to make our communications more relevant.
 
-For instance, if you use our online grocery service, whenever you buy products at your local Tesco store using your Clubcard, we can automatically add it to your "favourite products" list for the online service.
+We may supplement the information we collect about you with information we receive from other sources eg public registers such as the electoral roll. This allows us to assess the accuracy of the information we hold about you in order to send you relevant offers and information.
 
-## Use of your information and your preferences
+### Using your information
 
-We will use your information to provide and personalise our service. We will also use your contact details to communicate with you. We may use your information to send you offers and news about Tesco group products and services or those of other carefully selected companies which we think may be of interest to you. We may contact you by post, email, telephone or fax for these purposes. Once you have registered to use Tesco.com, you will be provided with access to a "Contact Preferences" page that will allow you to tailor our commercial communications to your preferences.
+Collecting your personal information helps Tesco to better understand what you need from us. We use your information to:
 
-To change your contact preferences simply click "Your Account" in the top frame and click "Your Contact Preferences". If you do not want to receive commercial communications from us, please select your choices by using the boxes available on that page.
+  * manage and improve the Website.
+  * personalise our services to you.
+  * administer and operate your account.
+  * process your orders and allocate Clubcard points to your account.
+  * tell you about important changes to the Website and our services.
+  * understand your shopping behaviour to develop and improve our products and services.
+  * manage promotions, competitions, customer surveys and questionnaires.
+  * check and verify your identity, and prevent or detect crime. In performing checks your information may be disclosed to credit reference agencies, who may keep a record of that information. This is not a credit check and your credit rating will be unaffected.
 
-We like to hear your views to help us improve our service. From time to time, we may contact you by post, email, telephone or fax to ask your opinions. Again, if you do not want to be contacted for this purpose, please make your choice on the "Contact Preferences" page. Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service.
 
-## Disclosures of your information
 
-Your information may be passed to and used by all Tesco companies. We will never pass your personal data to anyone else, except for any successors in title to our business and suppliers that process data on our behalf both in the UK and abroad. We may also use and disclose information in aggregate (so that no individual customers are identified) for marketing and strategic development purposes.
+We may share your personal information across the Tesco Group so they can provide you with relevant products and services.
 
-## Other web sites
+Your personal information is safe with us and will never be released to companies outside the Tesco Group for their marketing purposes.
 
-Our web site may contain links to other web sites which are outside our control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+We may use and share anonymised information outside the Tesco Group. However, we would like to reassure you that this never includes your personal information. 
+
+## Clubcard information
+
+We access the information recorded through the use of your Clubcard to help us improve our service to you and to make our communications more relevant.
+
+## Marketing and research
+
+If you agree, we may contact you:
+
+  * with offers and information about Tesco products or services
+  * with offers and information about partners' products or services
+  * for customer research eg to help improve our services
+
+
+
+Of course, the choice is entirely yours, but if you say you do not want to receive marketing information from us this will prevent you from receiving great offers or promotions that may be of interest to you.
+
+When you register online you can access a "Contact Preferences" page that allows you to tailor our commercial communications to your preferences.
+
+To change your contact preferences simply click "Your Account" in the top frame and click "Your Contact Preferences". If you do not want to receive commercial communications from us, select your choices by using the boxes available on that page.
+
+We like to hear your views to help us improve our service. From time to time, we may contact you to ask your opinions. Again, if you do not want to be contacted for this purpose, make your choice on the "Contact Preferences" page.
 
 ## Cookies
 
-"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the way cookies work on [http://www.cookiecentral.com](http://www.cookiecentral.com/). Tesco uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring.
+In order to comply with new rules, we use a system of classifying the different types of cookies which we use on the Website, or which may be dropped by third parties through our websites. The classification was developed by the International Chamber of Commerce UK and explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don't want to have them on your device. Please be reassured that we are working on other privacy and cookie-related improvements to the Website.
 
-Non-registered visitors of the site are sent anonymous cookies to keep track of their browsing patterns and build up a demographic profile. In addition, any visitor who has clicked on a Tesco.com advertisement on another site that links to Tesco.com will be sent anonymous cookies that will allow us to analyse advertising effectiveness and manage our relationship with affiliate sites.
+### What is a cookie?
 
-Whilst you do not need to allow your browser to accept cookies in order to browse much of our web site or to access many of our services, you must have cookies enabled if you wish to shop online at any of our stores or access any areas reserved for registered users. Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. As described above this will restrict the online Tesco services you can use. 
+Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.
 
-## Access rights
+Persistent cookies - these cookies remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
 
-You have a right to access the personal data that is held about you. To obtain a copy of the personal information Tesco holds about you, please write to us at the following address: Privacy Officer, Corporate Secretariat, Tesco House, Delamare Road, Cheshunt, Waltham Cross, Hertfordshire EN8 9SL enclosing your postal details and a cheque for £10 payable to Tesco Stores Limited. 
+Session cookies - these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.
+
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests.
+
+You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+### Cookies used on the Website
+
+A list of all the cookies used on the Website by category is set out below.
+
+### Strictly necessary cookies
+
+These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required.
+
+These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+
+### Performance cookies
+
+These cookies collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device.
+
+These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works.
+
+### Functionality cookies
+
+These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device.
+
+These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+
+### Targeting or advertising cookies
+
+These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
+
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+
+### Behavioural advertising and online privacy
+
+A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). The guide contains an explanation of the IAB's self-regulatory scheme to allow you greater control of the advertising you see.
+
+### Using browser settings to manage cookies
+
+The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. 
+
+However, because cookies allow you to take advantage of some of the Website's essential features, we recommend you leave them turned on. For example, if you block or otherwise reject cookies you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any of our products and services that require you to Sign in. If you leave cookies turned on, remember to sign off when you finish using a shared computer. 
+
+## Disclosing your information
+
+We will never disclose your information to anyone outside the Tesco Group except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.
+
+Whenever we transfer personal information to countries outside the European Economic Area we will ensure that appropriate security measures are taken.
+
+## Other websites
+
+The Website may contain links to other sites which are outside our control and not covered by this policy. The operators of these sites may collect information from you that will be used by them in accordance with their policy, which may differ from ours.
+
+## Accessing your information
+
+To obtain a copy of the information we hold about you, write to: Data Protection Officer, Corporate & Legal Affairs, New Tesco House, Delamare Road, Cheshunt, Hertfordshire EN8 9SL enclosing a cheque or postal order for £10 payable to "Tesco Stores Limited". Please confirm your Clubcard number and any details to help us identify and locate your information. If any of the details are incorrect, let us know and we will amend them.
+
+## Changes to our policy
+
+This policy replaces all previous versions and is correct as of May 2012. We reserve the right to change the policy at any time.
+
+## Contacting us
+
+If you have any queries, please contact us at [online@tesco.co.uk](mailto:online@tesco.co.uk)
