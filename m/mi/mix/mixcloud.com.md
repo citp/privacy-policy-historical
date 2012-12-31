@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixcloud.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621231336id_/http%3A//www.mixcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixcloud.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231151936id_/http%3A//www.mixcloud.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mixcloud - Re-think radio
+# Privacy Policy | Mixcloud
 
 This privacy policy sets out how Mixcloud Limited ("Mixcloud" or "we", "our" or "us") uses and protects any information that you give Mixcloud when you use www.mixcloud.com (the "Website"). Mixcloud enables users to submit and share "Cloudcasts". A Cloudcast is an audio file that is stored remotely rather than locally and accessible to listen to on-demand. A Cloudcast may include, but is not limited to, a radio show, a Podcast, a DJ mix-set or a live recording. 
 
@@ -49,6 +49,8 @@ A cookie is a small file which may be placed on your computer's hard drive. Once
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We also use cookies to identify you as a valid user and to help personalise your Mixcloud experience in conjunction with your profile. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
 You may refuse to accept cookies by activating the setting on your browser which allows you to refuse cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log onto our Website. Please note, our advertisers may also use cookies over which we have no control.
+
+We use Google's remarketing features to improve your experience of online advertising. This means that third-party vendors, including Google, can use cookies to serve ads based on your past visits to Mixcloud. This increases the relevancy of ads which you see as you browse other pages on the Internet. If you would prefer not to have this level of personalisation, then you can opt out [here](https://www.google.com/settings/ads/onweb/). Alternatively, you can opt out of a given third-party vendor's use of cookies by visiting the Network Advertising Initiative website [here](http://www.networkadvertising.org/choices/#completed).
 
 ### 8\. Links to other websites
 
