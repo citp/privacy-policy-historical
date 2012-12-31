@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stevenspass.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603183454id_/http%3A//www.stevenspass.com/Stevens/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevenspass.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231051307id_/http%3A//www.stevenspass.com/Stevens/info/privacy.aspx) for the most accurate reproduction.*
 
-# Stevens Pass | Privacy Policy
+# Privacy Policy | Stevens Pass
 
 Stevens Pass is committed to safeguarding your privacy online. We at Stevens Pass have posted this privacy statement to help you, the user, understand how your personal information will be treated.
 
