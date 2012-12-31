@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623031002id_/http%3A//www.apartmentguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentguide.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010344id_/http%3A//www.apartmentguide.com/privacy) for the most accurate reproduction.*
 
 # Apartments for Rent and Rentals - Free Apartment Finder | ApartmentGuide.com
-
-### Privacy Policy
 
 Consumer Source interactive, (CSi), operator of Apartmentguide.com, is comitted to making your search for a new home as pleasant and successful as possible. Maintaining your privacy is a large part of our commitment. We will never disclose your personally identifiable information to any third party without your consent, except in limited circumstances to our business partners with whom we have established agreements that protect your privacy. 
 
