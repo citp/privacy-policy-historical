@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addedbytes.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627113845id_/http%3A//www.addedbytes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addedbytes.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231083629id_/http%3A//www.addedbytes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Added Bytes - Brighton Web Application Development
+# Privacy Policy - Web Development in Brighton - Added Bytes
 
 Please direct all contact or enquiries to [dave@addedbytes.com](http://www.addedbytes.com/dave@addedbytes.com)
 
