@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricpig.co.uk privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617152713id_/http%3A//www.electricpig.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricpig.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010619id_/http%3A//www.electricpig.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electricpig
 
@@ -127,13 +127,13 @@ If you have an enquiry or concern about our privacy policy, please contact [Elec
 
 We do not recommend another means by which visitors’ concerns may be addressed.
 
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F%20\(via%20@sociablesite\) "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&title=Privacy%20Policy&notes=If%20you%27d%20like%20to%20know%20our%20policy%20on%20all%20things%20related%20to%20Privacy%2C%20you%27d%20better%20take%20a%20look.%20It%20makes%20for%20right%20tasty%20reading%21%0D%0APrivacy%20Statement%20of%20Republic%20Publishing%20Ltd%0D%0A%0D%0AInformation%20about%20our%20Organisation%20and%20Web%20site%0D%0A%0D%0AModern%20information%20and%20 "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&srcTitle=Electricpig+The+only+tech+you+need "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&title=Privacy%20Policy&source=Electricpig+The+only+tech+you+need&summary=If%20you%27d%20like%20to%20know%20our%20policy%20on%20all%20things%20related%20to%20Privacy%2C%20you%27d%20better%20take%20a%20look.%20It%20makes%20for%20right%20tasty%20reading%21%0D%0APrivacy%20Statement%20of%20Republic%20Publishing%20Ltd%0D%0A%0D%0AInformation%20about%20our%20Organisation%20and%20Web%20site%0D%0A%0D%0AModern%20information%20and%20 "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.electricpig.co.uk%2Fprivacy_policy%2F&Title=Privacy%20Policy "BlinkList")
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http://www.electricpig.co.uk/privacy_policy/%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http://www.electricpig.co.uk/privacy_policy/&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http://www.electricpig.co.uk/privacy_policy/&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http://www.electricpig.co.uk/privacy_policy/&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http://www.electricpig.co.uk/privacy_policy/&title=Privacy%20Policy&notes=If%20you%27d%20like%20to%20know%20our%20policy%20on%20all%20things%20related%20to%20Privacy,%20you%27d%20better%20take%20a%20look.%20It%20makes%20for%20right%20tasty%20reading!%0D%0APrivacy%20Statement%20of%20Republic%20Publishing%20Ltd%0D%0A%0D%0AInformation%20about%20our%20Organisation%20and%20Web%20site%0D%0A%0D%0AModern%20information%20and%20 "Delicious")
+  * [](http://www.google.com/reader/link?url=http://www.electricpig.co.uk/privacy_policy/&title=Privacy%20Policy&srcURL=http://www.electricpig.co.uk/privacy_policy/&srcTitle=Electricpig+The+only+tech+you+need "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http://www.electricpig.co.uk/privacy_policy/&title=Privacy%20Policy&source=Electricpig+The+only+tech+you+need&summary=If%20you%27d%20like%20to%20know%20our%20policy%20on%20all%20things%20related%20to%20Privacy,%20you%27d%20better%20take%20a%20look.%20It%20makes%20for%20right%20tasty%20reading!%0D%0APrivacy%20Statement%20of%20Republic%20Publishing%20Ltd%0D%0A%0D%0AInformation%20about%20our%20Organisation%20and%20Web%20site%0D%0A%0D%0AModern%20information%20and%20 "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http://www.electricpig.co.uk/privacy_policy/&Title=Privacy%20Policy "BlinkList")
   * 
 
