@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestpriceindia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630214823id_/http%3A//latestpriceindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestpriceindia.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231093653id_/http%3A//latestpriceindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Price India
 
@@ -6,7 +6,7 @@ Privacy of every visitor on latestpriceindia.com is important to us. We are prov
 
 Email addresses and any personal information of our visitors is never sold to third parties.
 
-The Wordpress on which our site is hosted may contain some log files. These log files contain information about
+The WordPress on which our site is hosted may contain some log files. These log files contain information about
 
   * Internet Protocol (IP) address
   * Internet Service Provider (ISP)
