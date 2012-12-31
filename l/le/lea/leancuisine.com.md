@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leancuisine.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625154049id_/http%3A//www.leancuisine.com/index/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leancuisine.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231232854id_/http%3A//www.leancuisine.com/index/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Nestle USA Online Privacy Policy | Lean Cuisine
 
@@ -87,7 +87,7 @@ Back to top
 
 __Demographic info__
 
-This includes any information that describes your demographic or psychographic characteristics. Examples may include your date of birth, age or age range, gender, geographic location (e.g., zip code, city and state, mobile location), favorite products, hobbies and interests, and household or lifestyle information. We typically collect demographic information in connection with a variety of activities, including general website registration, newsletter sign-up, website community registration, contests and other promotions, and consumer surveys. If you create an account with us, you may be allowed to modify certain demographic information stored under your account. To do so, log in to the relevant edit account section of our site (if available) or contact Consumer Services. For demographic information stored under your profile on a third party social network (e.g., Facebook), see separate paragraph on “Social network info.”
+This includes any information that describes your demographic or psychographic characteristics. Examples may include your date of birth, age or age range, gender, geographic location (e.g., zip code, city and state, mobile location), favorite products, hobbies and interests, and household or lifestyle information. We typically collect demographic information in connection with a variety of activities, including general website registration, newsletter sign-up, website community registration, contests and other promotions, and consumer surveys. If you create an account with us, you may be allowed to modify certain demographic information stored under your account. To do so, log in to the relevant edit account section of our site (if available) or contact Consumer Services. For demographic information stored under your profile on a third party social network (e.g., Facebook), see separate paragraph on “[Social network info](https://web.archive.org/web/20121231232854id_/http%3A//www.leancuisine.com/index/SocialNetworkInfo).”
 
 Back to top
 
@@ -101,7 +101,7 @@ __Website usage info__
 
 This includes information about how you use and navigate our websites and applications, including which links you click on, which pages or content you view and for how long, and other similar information and statistics about your interactions with a Nestlé USA website or application (e.g., date and time of visit, which site you came from, favorite recipes and site activities, high game scores, etc.). This information is captured using automated technologies such as browser cookies, flash cookies, and web beacons, and may also be collected through the use of third party tracking services (such as Google Analytics) that collect data in aggregate (such as number of visits to a particular page, or the amount of time spent on a web site). We may also use these technologies, such as web beacons, to capture information about how users respond to certain email campaigns (e.g., time the email is opened, where user links to from the email, etc.). Website usage information may be linked to your personal contact information for web site personalization and marketing purposes.
 
-Please note that “flash” cookies are different from "browser” cookies because of the way in which flash cookies capture and store data. Your browser’s cookie management tools will not remove flash cookies. To learn how to manage privacy settings for Flash cookies, please click here.
+Please note that “flash” cookies are different from "browser” cookies because of the way in which flash cookies capture and store data. Your browser’s cookie management tools will not remove flash cookies.
 
 Back to top
 
@@ -309,7 +309,7 @@ Back to top
 
 __We have been awarded the TRUSTe Privacy Seal__
 
-Nestlé USA has been awarded the TRUSTe Privacy Seal, signifying that this privacy policy and our website practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification applies to websites identified when clicking on TRUSTe’s "CERTIFIED PRIVACY" seal. If you have questions or complaints regarding our Privacy Policy or practices, please contact Consumer Services. If you are not satisfied with our response, you can also contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Nestlé USA has been awarded the TRUSTe Privacy Seal, signifying that this privacy policy and our website practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification applies to websites identified when clicking on TRUSTe’s "CERTIFIED PRIVACY" seal. If you have questions or complaints regarding our Privacy Policy or practices, please contact Consumer Services. If you are not satisfied with our response, you can also contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Back to top
 
