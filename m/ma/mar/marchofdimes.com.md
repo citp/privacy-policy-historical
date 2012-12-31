@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marchofdimes.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630091032id_/http%3A//www.marchofdimes.com/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marchofdimes.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231040541id_/http%3A//www.marchofdimes.com/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy Highlights | Privacy policy | March of Dimes
 
@@ -6,7 +6,7 @@ Please review our complete [Privacy Policy](https://web.archive.org/policies/pri
 
 ### [Information we collect](https://web.archive.org/policies/privacypolicy_indepth.html#info)
 
-  * The March of Dimes collects personal information when you communicate with us online – by making a donation or creating an account, for example. 
+  * The March of Dimes collects personal information when you communicate with us online – by making a donation, creating an account or downloading our mobile applications, for example. 
   * We collect personal information we receive offline when you volunteer, donate or participate in our events. 
   * We collect information, including your IP address, about your browser and operating system and access and use of our websites and mobile applications using [cookies](https://web.archive.org/policies/privacypolicy_indepth.html#info1) and similar technology. 
 
