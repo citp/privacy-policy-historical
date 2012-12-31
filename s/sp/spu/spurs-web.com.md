@@ -1,41 +1,27 @@
-> *The following text is extracted and transformed from the spurs-web.com privacy policy that was archived on 2001-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011025052115id_/http%3A//www.spursweb.com/home/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spurs-web.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231073140id_/http%3A//www.spurs-web.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SpursWeb.com
+# Privacy Policy | Spurs News and Rumours | Tottenham Hotspur News
 
-  
-SpursWeb.com respects your privacy. The information that you provide us with, or that is gathered automatically helps us and third parties to monitor our service and provide you with the services that you have subscribed to. Please bear in mind that any personal information that you submit through forums, letters/emails for publication and the like may be collected by others. If you have any concerns, questions or comments please email [webmaster@spursweb.com](mailto:webmaster@spursweb.com)
+[Cookies](http://www.allaboutcookies.org/faqs/cookies.html) (external website) are simple alphanumeric strings stored on your computer. We don’t use cookies to collect personally identifiable information about you, other than the basic information you give if you create an account on our website.
 
-**Email newsletters**  
-SpursWeb.com operates email newsletters on its site. These are free to sign up to. What we ask of you is your email address, at times we may ask you for further information, which is used for demographic purposes. We do not give our email lists out to other parties unless you choose to opt in to a scheme whereby third parties may use your details for their own purposes.
+We do use cookies for website usage statistics. Google Analytics places a cookie on your computer to store basic information about your last visit to the website. [Read about the cookies used by Google Analytics](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html) (external website).
 
-Our newsletters may contain promotions or advertisements from various businesses or information on other sites or services that we offer. If at any time you wish to unsubscribe from our newsletter you may do so by visiting the site you signed up with and using the unsubscribe facility. You may also email the website editor although it may take a longer time before your email address is removed than with the automatic unsubscribe facility. 
+However, if you wish to restrict or block the cookies we, or any other websites, use, you can do this through your browser settings. The Help function within your browser should tell you how.
 
-**Registration**  
-Our site may require you to register with us. This is to allow access to extra services that we provide for you. The information is not used for sending you newsletters or promotions unless stated. 
+You can set your browser to accept or reject all, or certain, cookies. You can also set your browser to prompt you each time a cookie is offered. For details on how to do this on the browser you use, please see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=2) (external website).
 
-**Third party sites**  
-Our site operates with third party sites (such as online shops). We may, on occasion, share non-personal aggregated information to these third parties.
+To find out which version of browser you are using, click on ‘Help’ and then ‘About (name of browser).
 
-**Cookies**  
-We use 'cookies' to track advertising information and website usage. On certain sites, or third party sites we may utilise cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
-**Surveys**  
-On occasion we may conduct online surveys. This is used to gauge our service, collect demographic information and other information that we may find useful. These surveys are optional. We may share non-personal, aggregated information with third parties. 
+**Web Activity Reporting**
 
-**Security**  
-While we strive to keep the information that you supply directly or indirectly secure please be aware that the Internet is not a fully secure medium. 
+We use ‘Google Analytics’ to monitor website usage. This records your IP addresss, and browser type, date and time of activity. None of this information is tied to a personally identifiable piece of data (like e-mail address). SpursWeb will use this information to analyse general page view and referrer activity to get a sense of traffic patterns and placement effectiveness. This information helps us to constantly improve the website for you the user.
 
-**Competitions**  
-From time to time we operate competitions and promotions. Participation in these is optional. Information submitted may be submitted to third parties, check individual competition rules. You may also be given an option to sign up for a free email newsletter, opting out of this does not disqualify you from a competition.
+**Newsletters**
 
-**Usage of information**  
-If requested we may submit your information to local or government authorities.
+We will not send you email newsletters at any time unless you have expressly opted in to receive them.
 
-**Engage**  
-This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects and stores anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy. 
+**Changes to this privacy policy**
 
-**Corrections/updates**   
-You may unsubscribe from our newsletters using the facilities available on the website you signed up with or by emailing the relevant online editor. If you have any problems please email [webmaster@spursweb.com](mailto:webmaster@spursweb.com)
-
-**Policy changes**   
-By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page.
+If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
