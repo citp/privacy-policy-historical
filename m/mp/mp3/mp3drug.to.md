@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3drug.to privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623041123id_/http%3A//mp3drug.to/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3drug.to privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231025425id_/http%3A//mp3drug.to/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # Mp3Drug.to
 
