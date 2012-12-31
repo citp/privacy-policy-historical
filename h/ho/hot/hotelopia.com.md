@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelopia.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502080918id_/http%3A//www.hotelopia.com/info/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelopia.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231072800id_/http%3A//www.hotelopia.com/info/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Hotelopia Privacy Policy
 
@@ -38,6 +38,8 @@ Hotelopia offers the website “as is”. You acknowledge and accept that it is 
 Hotelopia reserves the right to suspend access to the web on technical grounds, maintenance, security, and Act of God grounds, and assumes no responsibility to compensate or refund a user to access suspension. 
 
 Access to the web remains under complete control of Hotelopia, reserving the right to modify, substitute, suspend or remove any data or web services without prior notice. 
+
+It is prohibited to use this website to extract data for commercial purposes via automated processes (known as "screen scraping"). Exceptions: in cases where any type of agreement with a third party has been signed which allows hotel prices to be accessed and compared.
 
 Without prejudice to any of Hotelopia's other rights, Hotelopia reserves the right to deny access to this website and/or cancel bookings wherever and whenever Hotelopia believes (at Hotelopia’s absolute discretion) that you are in breach of any of the Hotelopia General Terms and Conditions or Privacy Policy. 
 
@@ -142,13 +144,13 @@ Although cookies help us to optimise your booking process, users who do not wish
 Our Cookies  
 ---  
 Category / Type | Name of the cookie | Purpose  
-Basic functioality of the page (Session). | ASP.NET_SessionId | Store your active session so that the next time you visit Hotelopia you can continue to make your booking.  
-Basic functioality of the page (Session). | AlteonP | This Cookie helps us to distribute the pages that we display from our servers in an efficient manner.  
-Basic functioality of the page (Session). | WLCodWeb | It determines the name of the white-label product used when working under the whitelabels subdomain.  
-Basic functioality of the page (Session). | idCurrency | It stores the user's preferred currency.  
-Basic functioality of the page (Session). | idLanguage | It stores the user's preferred language.  
-Basic functioality of the page (Short term, 30 days). | partnerId | It is used to identify the website that brought you to Hotelopia, in the case that you used a link.  
-Basic functioality of the page (Long term > 2 years). | nlFlash | It is used to store your login in the newsletter. Once you've signed up for our newsletter, for your convenience, you will not be shown this information automatically.   
+Basic functionality of the page (Session). | ASP.NET_SessionId | Store your active session so that the next time you visit Hotelopia you can continue to make your booking.  
+Basic functionality of the page (Session). | AlteonP | This Cookie helps us to distribute the pages that we display from our servers in an efficient manner.  
+Basic functionality of the page (Session). | WLCodWeb | It determines the name of the white-label product used when working under the whitelabels subdomain.  
+Basic functionality of the page (Session). | idCurrency | It stores the user's preferred currency.  
+Basic functionality of the page (Session). | idLanguage | It stores the user's preferred language.  
+Basic functionality of the page (Short term, 30 days). | partnerId | It is used to identify the website that brought you to Hotelopia, in the case that you used a link.  
+Basic functionality of the page (Long term > 2 years). | nlFlash | It is used to store your login in the newsletter. Once you've signed up for our newsletter, for your convenience, you will not be shown this information automatically.   
 Third party Cookies  
 Category / Type | Third party website | Purpose / additional information  
 Analysis of website. | Google | Are used to monitor the traffic of Hotelopia. This helps us to understand how visitors use the site, it helps us to identify potential problems and to make Hotelopia as easy to use as possible.   
