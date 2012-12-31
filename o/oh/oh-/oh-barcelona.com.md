@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626192726id_/http%3A//www.oh-barcelona.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032530id_/http%3A//www.oh-barcelona.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement of Oh-Barcelona.com (Open House Spain S.L.)
 
@@ -55,7 +55,7 @@ We send an evaluation/follow-up email to clients who have booked an apartment af
 
 ## **Links**
 
-This website contains links to other sites. Please be aware that Open House Spain SL is not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every website that collects personally identifiable information. This privacy statement applies solely to information collected by www.oh-barcelona.com. 
+This website contains links to other sites. Please be aware that Open House Spain SL is not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every website that collects personally identifiable information. This privacy statement applies solely to information collected by Oh-Barcelona 
 
   *   
   
@@ -74,15 +74,15 @@ When users are requested through our booking form to enter sensitive information
 
 Open House Spain SL complies with the levels of security of personal data protection required by all current legislation, and has installed the technical and organisation measures necessary to avoid loss, misuse, alteration or unauthorised access of personal data. 
 
-If users have any questions about security on our website, they can email us at info@oh-barcelona.com.
+If users have any questions about security on our website, they can email us at info@openhousegroup.com.
 
 **Registered users and clients**
 
-When uers make a reservation or register to create an account, we set up a profile page for them. Any content and information in this area will be kept strictly private and in no case given to a third party. The user's account profile will include their first name, last name, address and other personal information necessary to make a reservation. Furthermore, they will be able to select other items such as future destinations or preferences regarding accommodation. Users can review and revise their profile information at any time. 
+When users make a reservation or register to create an account, we set up a profile page for them. Any content and information in this area will be kept strictly private and in no case given to a third party. The user's account profile will include their first name, last name, address and other personal information necessary to make a reservation. Furthermore, they will be able to select other items such as future destinations or preferences regarding accommodation. Users can review and revise their profile information at any time. 
 
 **Facebook Connect**
 
-Users can decide to use Facebook in order to sign up to Oh-Barcelona.com with their Facebook profile. By doing so, Oh-Barcelona.com will have access to all personal data a Facebook user publishes on their profile. A user is granting access to their profile information when connecting to our site with Facebook connect. Depending on the security settings in their Facebook profile, this data can vary. In order to change them, users must use their Facebook profile. The connection is created via the Facebook API.
+Users can decide to use Facebook in order to sign up to Oh-Barcelona with their Facebook profile. By doing so, Oh-Barcelona will have access to all personal data a Facebook user publishes on their profile. A user is granting access to their profile information when connecting to our site with Facebook connect. Depending on the security settings in their Facebook profile, this data can vary. In order to change them, users must use their Facebook profile. The connection is created via the Facebook API.
 
 We may use this information to enhance our existing client database, creating personalised offers for customers based on their Facebook user profile, or sharing their actions on our site (such as bookings, use of like buttons etc.) with their friends when visiting our site. 
 
@@ -98,7 +98,7 @@ If we decide to make a material change to our privacy policy, we will notify use
 
 ## **Notification of changes in personal information**
 
-If there are any changes to your personal information (such as your postcode, telephone numbers, email or postal addresses), or if a user decides not to avail themselves of our services, he/she can approve, rectify, cancel or oppose the treatment of this information by sending an email to our client support service at: info@oh-barcelona.com. Alternatively, users can telephone or write to us using the details supplied below. 
+If there are any changes to your personal information (such as your postcode, telephone numbers, email or postal addresses), or if a user decides not to avail themselves of our services, he/she can approve, rectify, cancel or oppose the treatment of this information by sending an email to our client support service at: info@openhousegroup.com. Alternatively, users can telephone or write to us using the details supplied below. 
 
   *   
 
@@ -112,12 +112,15 @@ If you have any questions or suggestions about our privacy policy, please get in
 
 Phone: 34 93 467 37 79  
 Fax: 34 93 467 37 62  
-Email: info@oh-barcelona.com
+Email: info@openhousegroup.com
 
 Address:  
 Open House Group  
 Roger de Llùria 50, 1  
-08009 Barcelona
+08009 Barcelona  
+Spain 
+
+Open House Group obtains users information at different points throughout our website. This personal data will be stored within a file held by Open House Group. The user is expected to provide true, exact, complete and current information. 
 
 
 
