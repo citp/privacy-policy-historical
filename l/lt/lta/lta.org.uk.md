@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the lta.org.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630231938id_/http%3A//www.lta.org.uk/Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lta.org.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231170828id_/http%3A//www.lta.org.uk/Footer/Privacy-Policy) for the most accurate reproduction.*
 
-# LTA - Privacy policy
+# Privacy policy - LTA
 
 ## Processing Your Personal Information
 
 If you choose to give us personal information, such as your name, contact details and date of birth (for example to process an application or provide you with a subscription to an LTA or related service) then this will be held and processed by the LTA in accordance with the Data Protection Act 1998. The LTA may also need to transfer your personal information to its county or island associations, agents or sub-contractors – who will process it strictly on the LTA's behalf.
+
+_The Board of the Tennis Foundation has adopted LTA policies and references in this policy to the LTA should be read as to include the Tennis Foundation._
 
 ### Use of Your Personal Information
 
