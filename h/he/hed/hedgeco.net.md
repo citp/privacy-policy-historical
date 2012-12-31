@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the hedgeco.net privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515154934id_/http%3A//www.hedgeco.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hedgeco.net privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032531id_/http%3A//www.hedgeco.net/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-  
-We appreciate your interest in HedgeCo.Net (�Site�). We at HedgeCo, LLC ("HedgeCo"), recognize and appreciate the importance of respecting the privacy of our customers and are committed to safeguarding against unauthorized disclosure of, or access to, personal information of our customers. This Privacy Policy sets forth HedgeCo's current policies and practices with respect to nonpublic personal information of our customers. **By using this Site, you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site.**
+We appreciate your interest in HedgeCo.Net ("Site"). We at HedgeCo, LLC ("HedgeCo"), recognize and appreciate the importance of respecting the privacy of our customers and are committed to safeguarding against unauthorized disclosure of, or access to, personal information of our customers. This Privacy Policy sets forth HedgeCo's current policies and practices with respect to nonpublic personal information of our customers. **By using this Site, you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site.**
 
 **WHAT INFORMATION IS COLLECTED**
 
- _Personal Information_  
+ _Personal Information_
+
 We only collect the personally identifiable information that you provide to us.
 
 If you register for certain Services on this Site, you will be asked to provide certain personally identifiable information as part of the registration process, such as first and last name, e-mail address, telephone number. In addition, in using the Services, you may be asked to provide additional information about the hedge funds that you represent or manage.
@@ -26,13 +26,19 @@ We may use personally identifiable information in order to develop, offer, and d
 
 6\. From email correspondence from you (we may gather the information in a file specific to you). 
 
-_Non-Personal Information_  
-We also may collect certain non-personally identifiable information when you visit the Site. This information includes the type of Internet browser and operating system you are using, the domain name of your Internet service provider, the URL that you visited before you came to our Site, the URL to which you next go, and your IP (Internet Protocol) address, pages visited, and average time spent on our Site. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Site design and functionality. When you use the contact features of the Site, you consent to the review and internal use of your communication by HedgeCo. We also may use non-personally identifiable information in the aggregate to analyze Site usage and to gather broad demographic information. _Cookies_  
+_Non-Personal Information_
+
+We also may collect certain non-personally identifiable information when you visit the Site. This information includes the type of Internet browser and operating system you are using, the domain name of your Internet service provider, the URL that you visited before you came to our Site, the URL to which you next go, and your IP (Internet Protocol) address, pages visited, and average time spent on our Site. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Site design and functionality. When you use the contact features of the Site, you consent to the review and internal use of your communication by HedgeCo. We also may use non-personally identifiable information in the aggregate to analyze Site usage and to gather broad demographic information. 
+
+_Cookies_
+
 Like most major websites, HedgeCo uses cookies on our Site. Cookies are pieces of information that a website transfers to a user's hard drive for record-keeping purposes while visiting a Site. Cookies make using the Internet easier by, among other things, saving your passwords and preferences for you. For example, a cookie lets the Site remember that you've registered, which allows us to speed up your future activities on our Site, and which allows you to enter your password/log in ID less frequently while visiting our Site. Our cookies do not contain any personally identifying information although cookies may enable us to relate your use of our Site to personally identifying information that you previously submitted. For example, it enables us to enhance personalization on the Site, such as calling you by name when you return to our Site. We will always give you the choice of opting out of receiving a cookie by checking the appropriate box. However, if you decide to opt out, your use of the Site may be slowed because you will have to enter your log in ID and password at every session. 
 
 **HOW WE USE AND DISCLOSE THE INFORMATION**
 
- _Disclosure of Information:_ As a general rule, HedgeCo will not share, rent, sell or otherwise disclose any of your personal information except with your permission. However, HedgeCo may disclose personal information in the following ways: 
+ _Disclosure of Information:_
+
+As a general rule, HedgeCo will not share, rent, sell or otherwise disclose any of your personal information except with your permission. However, HedgeCo may disclose personal information in the following ways: 
 
 1\. In using certain of the services, some of your personal information will be displayed either to other persons or entities whom you designate, or to the public. You may modify the settings on your account to designate to whom certain information is disclosed. 
 
@@ -61,7 +67,7 @@ Except as described above, we do not reveal information about you to third parti
 **LINKED SITES AND OTHER THIRD PARTIES**  
 This Privacy Policy only addresses the use and disclosure of information we collect from you. The Site, or services on the Site, may contain links to other sites whose information, security, and privacy practices may be different than ours. You should consult the other sites' privacy policies and terms of use since we do not control information that is submitted to, or collected by, these third parties or the content of those linked sites. Once you access another website, you are subject to the privacy policy and terms of use of that site. 
 
-**CHILDREN�S PRIVACY**  
+**CHILDREN'S PRIVACY**  
 The Site and its services are not directed toward children under the age of 13. HedgeCo will not knowingly request personally identifiable information from anyone under the age of 13, and if HedgeCo becomes aware that any such information has been collected, HedgeCo will delete it.
 
 **HOW YOU CAN ACCESS OR CORRECT INFORMATION**  
@@ -75,7 +81,7 @@ From time to time, we may modify this Privacy Policy. We will notify you about m
 We may also share all individual investor information, under joint marketing agreements with nonaffiliated financial services business partners, in order to offer discounts or other special access to products and services. 
 
 **TERMS OF USE**  
-Please note that access to and use of the Site and its services are also subject to HedgeCo�s Website Terms of Use available on the Site. 
+Please note that access to and use of the Site and its services are also subject to HedgeCo's Website Terms of Use available on the Site. 
 
 **CONTACTING US**
 
