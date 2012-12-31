@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taaz.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621204615id_/http%3A//www.taaz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taaz.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231014713id_/http%3A//www.taaz.com/privacy.html) for the most accurate reproduction.*
 
 # TAAZ Privacy Policy
 
@@ -107,6 +107,10 @@ You are able to add, update or delete certain information on pages, such as thos
 
 You may request deletion of your Company account by sending an email to our webmaster at tou@taaz.com. Please note that some information may remain in our records after deletion of your account. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes. 
 
+### Notice Regarding Online Behavioral Advertising
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org. 
+
 ### Changes to this Privacy Policy
 
 Company may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you via email or by posting an announcement on the Website. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted. 
@@ -116,8 +120,8 @@ Company may make changes to this Privacy Policy from time to time for any reason
 If you have any questions or concerns regarding privacy at TAAZ.com, please send us a detailed message to tou@taaz.com or 
 
 Taaz, Inc.  
-4250 Executive Square, Suite 420  
-La Jolla, CA 92037
+9171 Towne Centre Drive, Suite 350  
+San Diego, CA 92122
 
 We will make every effort to resolve your concerns.
 
