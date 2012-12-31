@@ -1,49 +1,60 @@
-> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226121425id_/http%3A//www.expats.cz/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expats.cz privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231172253id_/http%3A//www.expats.cz/prague/article/expats-info/privacy-policy) for the most accurate reproduction.*
 
-# Expats.cz Privacy Policy, Prague - Czech Republic
+# User/ Advertising User: PRIVACY POLICY, Prague - Czech Republic
 
-**We have established this privacy policy to explain to you how your information is protected, collected and used, which may be updated from time to time.**
+**PRIVACY POLICY**
 
-We will provide notice of materially significant changes to this privacy policy by posting notice on the site.  
- **  
-Protecting your privacy**
+**User Privacy**  
+Howlings SRO is a website that lets you meet and interact with new people and businesses. Like any website that offers a service where you register and provide information about yourself or your opinions, it is wise to pay attention to your personal information. At Howlings SRO we understand this, and have established this Privacy Policy to explain how information is collected on our website, and how this information is used. This Privacy Policy is applicable to both users and advertisers of the site. 
 
-We don't share your information with third parties for marketing purposes. Account information is password-protected. Keep your password safe. Forums use basic webserver authentication. ALWAYS log out after you are done.
+**User Information Collected by Howlings SRO**
 
-We do not knowingly collect any information from persons under the age of 13. If we learn that a posting is by a person under the age of 13, we will remove that post.
+**Personally Identifiable User Information**  
+All user’s/ advertisers begin using Howlings SRO's services by registering on the Howlings SRO website. When registering, user’s/ advertisers provide personally identifiable information, which includes information such as first and last name, email address, zip/post/PSC code, a user-chosen password, date of birth, and other personal information. To complete the registration process, Howlings SRO sends a validation email message to each user, with a URL link back to our website. This URL contains an alphanumeric identifier and a user-specific numeric passcode that allows us to confirm the user’s/ advertisers identity.
 
-We or people who post on our site, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited.
+**Cookies and Passive Data Collection**  
+Howlings SRO logs standard user information and clickstream data for all user’s/ advertisers, including a user’s/ advertisers IP address, operating system, and page views. When user’s/ advertisers visit particular pages within Howlings SRO, a User ID may be placed in the URL, allowing customized features for the user. User’s/ advertisers should be aware that other websites visited before entering Howlings SRO might place personally identifiable information within a user’s/ advertisers URL during a visit to their website, and Howlings SRO has no control over such websites. Accordingly, some of this information may be logged by a subsequent website that collects URL information. In addition to the standard log information, Howlings SRO uses a variety of technologies to create a more personalized experience for its user’s/ advertisers. Cookies are small data files sent by websites to a user’s/ advertisers browser and hard drive that identify the computer to the website. We use cookies to allow enhanced features, such as allowing registered user’s/ advertisers to bypass typing their passwords before entering the website. We may also use cookies to enable customizable content for user’s/ advertisers, as they become available. User’s/ advertisers have the option, within their Internet browsers, to disable cookies and continue to access the Howlings SRO website. We do not have access to, nor control over, advertisers' cookies or how they may be used. 
 
- **Data we collect**
+**Document Retention Schedule**  
+All personal information collected by Howlings SRO in connection with your use of the Howlings SRO website, including, without limitation, your name, location, email address, pictures, friend connections, messages, comments, login information, ip addresses and other data, will be stored by Howlings SRO indefinitely in a safe and secure manner.
 
-We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails, authenticating user accounts, providing subscription email services, registering for forums, etc.
+**How Howlings SRO Uses the User Information**
 
-For paid job postings, we collect contact information, such as name(s), phone/fax number(s), and address for billing purposes. You may need to provide additional information about your organization if you wish to qualify for a non-profit job posting.
+**Personally Identifiable Information**  
+Howlings SRO may use personally identifiable user information for the purposes of the Howlings SRO website. Personally identifiable information may be displayed to people in order to facilitate user interaction on Howlings SRO. Howlings SRO may share the email address and/or other personally identifiable information of any registered user with third parties for marketing purposes. In addition, Howlings SRO may share a registered user’s/ advertisers email address with third parties to target advertising and to improve user experience on Howlings SRO's pages in general.
 
-Our site does not store credit card information.
+**Cookies and Passive Data Collection**  
+Howlings SRO uses cookie, IP address, clickstream and URL information to improve the content of the Howlings SRO website, the quality of Howlings SRO servers, and to provide enhanced features to user’s/ advertisers, where available. We use cookies to save User IDs, session validations, and on user’s/ advertisers' browsers and hard drives, and may use them to provide tailored products or services to those user’s/ advertisers, as they become available. We also cross-match user information with information collected from cookies and clickstream data in order to test features of the Howlings SRO website, and to better personalize our various offerings for user’s/ advertisers. IP Addresses also help us to diagnose problems with our server, to administer the Howlings SRO site, and to otherwise provide the Howlings SRO service to its user’s/ advertisers. IP addresses may be disclosed to a third party if we believe in good faith that the law or legal process so requires, or to protect the rights or property of Howlings SRO or others. From time to time we may extend various offers from various partner companies, including news or additional details on products and services. A user’s/ advertisers usage history may result in specifically tailored special offer screens or products. We may also produce aggregate reports for advertisers. For example, we may report to advertisers the number of user’s/ advertisers who clicked on an ad, or the number of user’s/ advertisers that visited different portions of the Howlings SRO website. This information will not include personally identifiable information about a user, or a specific user’s/ advertiser’s online usage patterns.
 
-We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on our forums or classifieds that you expect to keep private.
+**Profile Information**  
+Howlings SRO allows Members and advertisers to provide information to a profile and/or services that is accessible to other user’s/ advertisers. We use this profile information for the purposes of providing our services to Members and advertisers, such as to analyse demographics, to better personalize our various offerings for user’s/ advertisers, or to enable other user’s/ advertisers to find your profile. We also caution you when sharing sensitive information with other user’s/ advertisers whom you do not know or when placing such information in your profile. 
 
-Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer the site, and to otherwise provide our service to you.
+**Sharing Your Content and Information**  
+Howlings SRO allows Members and advertisers to upload and share content and information. With content that you own, you specifically give Howlings SRO the following permission: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with Howlings SRO ("IP License"). For example, Howlings SRO may make commercial use and/or otherwise display your name and/or IP Content in or in connection with endorsements of and/or advertisements promoting Howlings SRO and its Services. This IP License ends when you delete your IP content or your account, unless your content has been shared with others, such as in the context of a thread conversation or within a private message and they have not deleted the content or in the instance of public domain information. When you delete non public IP content it is removed from the website. However, you understand that we may maintain backup copies of the content, as part of our document retention policy.
 
-    **Data we store**
+**Surveys and Contests**  
+At various times we may offer surveys or contests to user’s and advertisers. Surveys may ask for contact, demographic or unique identifying information to increase the value of the results. Contests may require contact information or other demographic or personally identifiable information in order to determine eligibility. Howlings SRO may use information collected from surveys and contests to determine, notify and contact winners of various contests. In addition, user’s/ advertisers' demographic and/or personally identifiable information and responses to survey and contest questions may be used by Howlings SRO and/or shared with third parties in order to provide specifically tailored special offers or advertisements. 
 
-All classified and forum postings are stored in our database, even after "deletion," and may be archived elsewhere. Our web logs and other records are stored indefinitely. Subscribers can manage their profiles by selecting the "edit profile" link.
+**Third Party Links and Ad Servers**  
+Please be aware that links to third party websites and third-party ad server advertisements that are found on Howlings SRO may, or may not, use cookies, pixel tags and web tags. Howlings SRO may provide links to third party websites, which may, or may not, use cookies, pixel tags and web tags. Ad servers may also use these tools to compile information about where user’s/ advertisers saw particular advertisements, and to determine which ads were clicked on. We are not responsible for, or have any control over, the privacy policies of those third party websites and ad servers, and encourage all user’s/ advertisers to read the privacy policies of each and every website visited when linking directly from Howlings SRO.
 
-Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security.
+**Protection of Howlings SRO and Others**  
+Howlings SRO may disclose personally identifiable user information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. Howlings SRO may also disclose information about its user’s/ advertisers to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Service; respond to claims that any posting or other content violates the rights of third-parties; respond to your requests for customer service; or protect the rights, property, or personal safety of Howlings SRO, its user’s/ advertisers or the general public.
 
- **Circumstances in which we may release information**
+**Security**  
+Howlings SRO uses industry standard security measures to prevent the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by the Howlings SRO website in a secure operating environment that is not available to the public, we cannot guarantee complete security. Further, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
 
-We may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
+**No Spam Policy**  
+We at Howlings SRO.com are opposed to spam. Our No Spam Policy and Terms of Service prohibit all user’s/ advertisers from engaging in any activity involving spam on our service. Violations of these policies may result in immediate termination of service and legal action against any spammer. Howlings SRO's Terms of Service expressly prohibit user’s/ advertisers from uploading, posting, emailing, transmitting or otherwise making available junk mail, commercial advertisements, or other form of commercial solicitation on the Howlings SRO website or through Howlings SRO's services. Such violations may subject the sender and his or her agents to civil and criminal penalties.
 
-We may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of our site, its users or the general public.
+**Other Disclosures**
 
- **International Users**
+**Change of Ownership**  
+In the event of a change in ownership, or a direct merger or acquisition with another entity, we reserve the right to transfer all of Howlings SRO's user information, including email addresses and postal addresses, to a separate entity. All registered user’s/ advertisers will be notified of any change in ownership, merger or acquisition of Howlings SRO's assets by a third party, and may choose to modify any of their registration information at that time.
 
-By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of our site we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. By providing us with your data, you consent to the transfer of such data.
+**Revisions to This Policy**  
+Howlings SRO reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on the website, and a user’s/ advertisers continued use of Howlings SRO will signify agreement to such changes.
 
- **Extent and purpose of data processing**
+**USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY.**
 
-We process your personal information to the extent and for the purposes described in this Privacy Policy or our Site Terms of Service only. Beside the purposes stated above, these include following: ensuring the technical operation of our web pages and network, providing services to users, customizing and optimizing content of our services, analyzing our services to improve their functionality, developing new services, communicating with users and complying with obligations imposed on us by law.
-
-Article Published 12.10.08 |  Last Updated 21.10.08 
+Updated as of June 1st, 2012
