@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fetise.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503224732id_/http%3A//www.fetise.com/index.php%3Fmain_page%3Dpage%26id%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetise.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032235id_/http%3A//www.fetise.com/index.php%3Fmain_page%3Dpage%26id%3D19) for the most accurate reproduction.*
 
-# Privacy Policy : Real Fashion for Men. Members only Prices!
+# Privacy Policy : Fetise.com, India's leading fashion and lifestyle online store
 
 You Can Count On Us
 
