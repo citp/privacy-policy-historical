@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apollohq.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512084753id_/http%3A//www.apollohq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollohq.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231133451id_/http%3A//www.apollohq.com/privacy) for the most accurate reproduction.*
 
-# Privacy — Apollo
+# Privacy
 
 We collect the email addresses of those who communicate with us via email, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -39,4 +39,4 @@ We may periodically update this policy. We will notify you about significant cha
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to [contact@applicomhq.com](https://web.archive.org/web/20120512084753id_/http://www.apollohq.com/privacy/contact@applicomhq.com).
+Any questions about this Privacy Policy should be addressed to [contact@applicomhq.com](mailto:contact@applicomhq.com).
