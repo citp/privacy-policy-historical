@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patentbuddy.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232414id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patentbuddy.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231202312id_/http%3A//www.patentbuddy.com/privacypolicy.jsf) for the most accurate reproduction.*
 
 # Patent Buddy Special Reports
 
