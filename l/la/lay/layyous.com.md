@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the layyous.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503220448id_/http%3A//www.layyous.com/root%2520folder/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layyous.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231040524id_/http%3A//layyous.com/root%2520folder/privacy_statement.htm) for the most accurate reproduction.*
 
-# Privacy Statement for Layyous.com
+# Privacy Statement for Layyous.com policies we have put into place to safeguard your privacy
 
 **Our Commitment to Privacy**
 
 Dr Najeeb Layyous is committed to respecting and protecting your privacy as a visitor to his Web site at http://www.layyous.com. We take the issue of privacy very seriously and value the trust you place in us each time you use our services and access this Web site. This Privacy Statement describes the practices and policies we have put into place to safeguard your personal and health-related personal information that may be gathered and used as you visit our Web site. 
 
-THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULL.
 
 The policy may change from time to time so please check back periodically. If you have any questions about our privacy policies, we encourage you to contact us using any of the methods outlined at the end of our Privacy Statement.
 
@@ -26,7 +26,7 @@ At different places on our site depending upon the feature you use, you may be a
 
 The personally identifiable information gathered during your visit to this Web site is not shared with any organization for any purpose. 
 
-Dr Najeeb Layyous has the right to reveal the personally identifiable information for website visitors in cases which involves legal issues to defend himself and his website or a user of the website.
+Dr Najeeb Layyous has the right to reveal the personally, identifiable information for website visitors in cases which involves legal issues to defend himself and his website or a user of the website.
 
 **Access and Correction of Personal Information**
 
@@ -35,7 +35,7 @@ Site visitors may not access information we have collected and maintain about th
 
 _Use of our forum and other public places in our website._
 
-Dr Najeeb Layyous site contains infertility and endoscopy public forum. the information submitted in this forum is public and its privacy cannot be controlled . so any information that you submit in the forum is public and you are warned not to submit private information.
+Dr Najeeb Layyous site contains infertility and endoscopey public forum. the information submitted in this forum is public and its privacy cannot be controlled . so any information that you submit in the forum is public and you are warned not to submit private information.
 
 **Our Use of Cookies**
 
