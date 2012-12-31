@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarketexplorer.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520145203id_/http%3A//www.worldmarketexplorer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarketexplorer.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231030844id_/http%3A//worldmarketexplorer.com/privacy) for the most accurate reproduction.*
 
 # World Market Explorer
 
@@ -21,12 +21,12 @@ By visiting our website you are accepting the practices described in this Privac
 
 We receive and may store any information you provide to us through our website. For example, we collect information that you provide when you place an order, register with us, send us an email, call us, sign up for our email offers or Rewards Program or enter a sweepstakes. This information may include:
 
-  * your name;
-  * your mailing address;
-  * your billing address;
-  * your email address;
-  * your phone number; and
-  * your credit card information.
+  * Your name
+  * Your mailing address
+  * Your billing address
+  * Your email address
+  * Your phone number
+  * Your credit card information
 
 
 
@@ -62,7 +62,7 @@ We may use anonymous IP addresses to help diagnose problems with our server, to 
 
 ### YOUR CALIFORNIA PRIVACY RIGHTS
 
-Under California law, you have the right to request and receive information from retailers concerning any third parties who have received personal information about you from the retailers for the third parties' direct marketing purposes. Any such requests for information from us can be made by sending an email to [privacy@cpwm.com](mailto:privacy@cpwm.com) or by calling us at 1-877-967-5362.
+Under California law, you have the right to request and receive information from retailers concerning any third parties who have received personal information about you from the retailers for the third parties' direct marketing purposes. Any such requests for information from us can be made by sending an email to privacy@cpwm.com or by calling us at 1-877-967-5362.
 
 ### DISCLOSURES ORDERED BY LAW
 
@@ -76,7 +76,7 @@ This is a general audience website; it is not directed at children under the age
 
 #### Emails
 
-If you provide our company with your email address, you may receive emails from us. If you do not want to receive marketing or promotional emails from us, please email us at [emailunsubscribe@cpwm.com](mailto:emailunsubscribe@cpwm.com), or you may let us know by logging in to "My Profile" and indicating your preference. Please call 1-877-967-5362 if you have further questions about our email unsubscribe process. Your request will be handled promptly, although you may still receive marketing communications that were already in process prior to receipt of your request.
+If you provide our company with your email address, you may receive emails from us. If you do not want to receive marketing or promotional emails from us, please email us at emailunsubscribe@cpwm.com, or you may let us know by logging in to "My Profile" and indicating your preference. Please call 1-877-967-5362 if you have further questions about our email unsubscribe process. Your request will be handled promptly, although you may still receive marketing communications that were already in process prior to receipt of your request.
 
 #### Other Mailings
 
