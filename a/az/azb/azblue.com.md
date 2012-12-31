@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azblue.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504021036id_/http%3A//www.azblue.com/Privacy-Statement/Index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azblue.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231174221id_/http%3A//www.azblue.com/Privacy-Statement/Index.aspx) for the most accurate reproduction.*
 
 # AzBlue.com Privacy Statement
 
