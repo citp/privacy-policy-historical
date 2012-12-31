@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardenersworld.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630061839id_/http%3A//www.immediatemedia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenersworld.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231110033id_/http%3A//www.immediatemedia.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Immediate Media Co.
 
@@ -111,7 +111,9 @@ This privacy policy may be updated from time to time so you may wish to check it
 
 If you have any questions or comments about this Privacy Policy please contact:
 
-The Company Secretary, Immediate Media Company Limited, Media Centre, 201 Wood Lane, London, W12 7TQ, United Kingdom
+The Company Secretary, Vineyard House, 44 Brook Green, Hammersmith, London, W6 7BT, United Kingdom
+
+Tel: +44(0)20 7150 5000
 
 Email: [dataprotection@immediate.co.uk](mailto:dataprotection@immediate.co.uk)
 
