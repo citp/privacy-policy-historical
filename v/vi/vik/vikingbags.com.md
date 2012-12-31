@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vikingbags.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108113143id_/http%3A//www.vikingbags.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikingbags.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231203236id_/http%3A//www.vikingbags.com/privacy.html) for the most accurate reproduction.*
 
 # motorcycle saddlebags privacy policy
 
