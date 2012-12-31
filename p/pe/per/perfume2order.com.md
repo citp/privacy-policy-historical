@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfume2order.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630025733id_/http%3A//www.perfume2order.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfume2order.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231100659id_/http%3A//www.perfume2order.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Buy Imported Perfumes Fragrances Colognes Deodorants Online in India
 
