@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chatrwireless.com privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029064605id_/http%3A//www.chatrwireless.com/web/content/support_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatrwireless.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231132935id_/http%3A//www.chatrwireless.com/web/content/support_policy) for the most accurate reproduction.*
 
-# chatr wireless
-
-chatr privacy policy
+# chatr wireless - Privacy Policy
 
 1.
 
