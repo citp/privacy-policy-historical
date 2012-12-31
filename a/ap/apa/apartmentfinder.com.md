@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512004422id_/http%3A//www.apartmentfinder.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentfinder.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231173451id_/http%3A//www.apartmentfinder.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Apartment Finder
 
@@ -91,6 +91,6 @@ Unfortunately, it is not possible for data transmissions over the Internet or wi
 We encourage parents to create a safe place for children on the Internet. Parental control protections (such as computer hardware, software or filtering services) are commercially available that may assist parents in limiting access to content that may be harmful to minors. We also encourage parents to monitor their child's use of the Internet and teach them not to disclose any personally identifiable information (including their age, appearance, school, grade, etc.) about themselves in emails, chat rooms, or on other sites, except with your knowledge and approval.
 
 **Where can you get additional information about us or our Websites?  
-**Our Websites are owned and operated by Network Communications, Inc., 2305 Newpoint Parkway, Lawrenceville, GA 30043. For further information about our company, please visit our company's Website.
+**Our Websites are owned and operated by Network Communications, Inc., 2 Sun Court NW Suite 300, Norcross, GA 30092. For further information about our company, please visit our company's Website.
 
 Additionally, if you have any questions about this Privacy Policy, please contact [webmaster@apartmentfinder.com](mailto:webmaster@apartmentfinder.com)
