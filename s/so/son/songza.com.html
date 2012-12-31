@@ -1,53 +1,36 @@
-<!--The following is the downloaded HTML source of the songza.com privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622155215id_/http%3A//songza.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the songza.com privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231151920id_/http%3A//songza.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" dir="ltr" class="no-js" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<![endif]--><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>  - Songza</title>
+    <meta name="apple-itunes-app" content="app-id=453111583">
+    <title>Privacy Policy - Songza</title>
     <link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"> 
 
     <script type="text/javascript">
       var SZ_HISTORY = !!(window.history && history.pushState);
 
-      SM2_DEFER = true;
       if(!SZ_HISTORY && window.location.pathname != '/') {
-        function set_cookie(name, value, expires, path, domain, secure) {
-          var today = new Date();
-          today.setTime( today.getTime() );
-          
-          if( expires ) {
-            expires = expires * 1000;
-          }
-          var expires_date = new Date( today.getTime() + (expires) );
-          
-          document.cookie = name + "=" +escape( value ) +
-          ( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
-          ( ( path ) ? ";path=" + path : "" ) +
-          ( ( domain ) ? ";domain=" + domain : "" ) +
-          ( ( secure ) ? ";secure" : "" );
-        }
-
-        set_cookie("quick_start", "1", 10, "/", window.location.host);
-
         window.location = window.location.protocol + "//" + window.location.host + "/#!" + window.location.pathname + window.location.search;
       }
-    
+
+      SM2_DEFER = true;    
       var require = {
-        baseUrl: "/static/ccee021944da/js/",
+        baseUrl: "/static/c61bcc86ab91/js/",
         paths: {
           "songza/config": "/config"
         }
     };
     </script>
 
-    <link type="text/css" href="/static/ccee021944da/css/screen-songza.css" media="screen, projection" rel="stylesheet">
+    <link type="text/css" href="/static/c61bcc86ab91/css/screen-songza.css" media="screen, projection" rel="stylesheet">
 
     
 
 
 
-<script type="text/javascript" src="/static/ccee021944da/js/songza-deps.min.js"></script>
+<script type="text/javascript" src="/static/c61bcc86ab91/js/songza-deps.min.js"></script>
 
 
 
@@ -55,24 +38,25 @@
 
 
 
-<script type="text/javascript" src="/static/ccee021944da/js/songza-web.min.js"></script>
+<script type="text/javascript" src="/static/c61bcc86ab91/js/songza-web.min.js"></script>
 
 
 
 <script type="text/javascript">
-require(["songza/app"], function(App) {
+require(["songza/app", "songza/models"], function(App, Models) {
   $(function() {
-    App.init({"username": "", "website": "", "about": "", "display_name": "", "id": 0, "admin_sites": [], "site": "", "black_planet_id": null, "image_url": "http://songza.com/api/1/static/images/profiles/default-large.png", "facebook_id": null, "images": {"small": "http://songza.com/api/1/static/images/profiles/default-large.png", "large": "http://songza.com/api/1/static/images/profiles/default-large.png", "medium": "http://songza.com/api/1/static/images/profiles/default-large.png", "square": "http://songza.com/api/1/static/images/profiles/default-large.png"}, "image_default": true, "email": "", "is_admin": false});
+    var visitor = new Models.User({"username": "", "website": "", "about": "", "display_name": "", "id": 0, "admin_sites": [], "site": "", "black_planet_id": null, "image_url": "http://songza.com/api/1/static/images/profiles/default-large.png", "facebook_id": null, "images": {"small": "http://songza.com/api/1/static/images/profiles/default-large.png", "large": "http://songza.com/api/1/static/images/profiles/default-large.png", "medium": "http://songza.com/api/1/static/images/profiles/default-large.png", "square": "http://songza.com/api/1/static/images/profiles/default-large.png"}, "image_default": true, "email": "", "is_admin": false}, {parse: true});
+    App.init(visitor, {"version": "c61bcc86ab91", "session_id": null, "remote_addr": "207.241.226.79"});
   });
 });
 </script>
 
     
     
-        <!-- block meta:common/base.html dedad405aa63a90cdc9f7b85d51817b8 -->
+        <!-- block meta:common/base.html 3c8084cf38a39ca451ed99066db267e3 -->
         
     <meta name="description" content="Relaxing? Working? Throwing a party? Songza plays the right music for any situation. Songza is 100% free, with no audio ads "> 
-    <meta name="keywords" content="make free online playlist,create free radio station,make your own radio station,make your own playlist,online radio station,internet radio,listen free internet radio,free internet radio music,free internet radio,custom online radio,custom internet radio,personalized online radio,personalized internet radio,internet radios,online music radio,internetradio,listen to free radio,online mixtape,online radio,free online music radio,listen to music radio,free music radio,make a playlist,listen to free internet radio,music radio station,free online radio,radio music listen,listen free radio,listen to internet radio,free radio stations,free radio,listen to free radio stations,listen online radio,free music playlist,free online radio station,online radio,online radios">
+    <meta name="keywords" content="music concierge, online radio station,internet radio,listen free internet radio,free internet radio music,free internet radio,custom online radio,custom internet radio,personalized online radio,personalized internet radio,internet radios,online music radio,internetradio,listen to free radio, online radio,free online music radio,listen to music radio,free music radio,make a playlist,listen to free internet radio,music radio station,free online radio,radio music listen,listen free radio,listen to internet radio,free radio stations,free radio,listen to free radio stations,listen online radio,free music playlist,free online radio station,online radio,online radios, christmas music, free christmas playlist, free christmas music">
     <meta name="revisit-after" content="20 days">
     <meta name="robots" content="follow">
     <meta name="msnbot" content="follow">
@@ -93,12 +77,15 @@ require(["songza/app"], function(App) {
         <!-- endblock meta_open_graph:common/base.html -->
         
     
-        <!-- block set-visitor:common/base.html a6d352438320f6f4bece021e078c9679 -->
+        <!-- block set-visitor:common/base.html 1d3db3ca674e8b74e801e6fd966b9d49 -->
         
     <script type="text/javascript">
-    require(["songza/app"], function(App) {
+    require(["songza/app", "songza/models"], function(App, Models) {
       App.postInit(function() {
-        App.getInstance().setVisitor({"username": "", "website": "", "about": "", "display_name": "", "id": 0, "admin_sites": [], "site": "", "black_planet_id": null, "image_url": "http://songza.com/api/1/static/images/profiles/default-large.png", "facebook_id": null, "images": {"small": "http://songza.com/api/1/static/images/profiles/default-large.png", "large": "http://songza.com/api/1/static/images/profiles/default-large.png", "medium": "http://songza.com/api/1/static/images/profiles/default-large.png", "square": "http://songza.com/api/1/static/images/profiles/default-large.png"}, "image_default": true, "email": "", "is_admin": false});
+        var visitor = new Models.User({"username": "", "website": "", "about": "", "display_name": "", "id": 0, "admin_sites": [], "site": "", "black_planet_id": null, "image_url": "http://songza.com/api/1/static/images/profiles/default-large.png", "facebook_id": null, "images": {"small": "http://songza.com/api/1/static/images/profiles/default-large.png", "large": "http://songza.com/api/1/static/images/profiles/default-large.png", "medium": "http://songza.com/api/1/static/images/profiles/default-large.png", "square": "http://songza.com/api/1/static/images/profiles/default-large.png"}, "image_default": true, "email": "", "is_admin": false}, {parse:true});
+        var app = App.getInstance();
+        app.setVisitor(visitor);
+        app.setEnvironment({"version": "c61bcc86ab91", "session_id": null, "remote_addr": "207.241.226.79"});
       });
     });
     </script>
@@ -109,23 +96,11 @@ require(["songza/app"], function(App) {
   <body>
   
     <div id="body-delegate">
+      <div id="ad-top"></div>
       
-        <!-- block ad-top:common/base.html 7bc47fc9be7c34dd1a1d4a3903a054fb -->
+        <!-- block header:common/base.html e8c415a6d3b527f3303e4ba7d52bab62 -->
         
-        <!-- June 22, 2012, 3:52 p.m. /page/privacy/ -->
-        <div id="ad-top">
-  <iframe src="/advertising/top/" width="728" height="90" frameborder="0" scrolling="no" class="sz-ad-frame"></iframe>
-</div>
-
-      
-        <!-- endblock ad-top:common/base.html -->
-        
-
-
-        
-        <!-- block header:common/base.html f1e0f84d002009fc200b84052a44edde -->
-        
-          <div id="header" class="sz-header">
+        <div id="header" class="sz-header">
   <div class="container">
     <span class="szi-logo">
       <a href="/">Songza</a>
@@ -154,13 +129,13 @@ require(["songza/app"], function(App) {
   </div>
 </div>
 
-        
+      
         <!-- endblock header:common/base.html -->
         
+      
+        <!-- block nav:common/base.html 0bbb405d05a764d9e0ac592a9ab89757 -->
         
-        <!-- block nav:common/base.html 81bf5c2764ae1598e40574631a7790a5 -->
         
-          
 
 <div class="sz-nav-main sz-nav">
   <div class="container">
@@ -175,119 +150,120 @@ require(["songza/app"], function(App) {
   </div>
 </div>
 
-        
+      
         <!-- endblock nav:common/base.html -->
         
-     
 
-
+      
+        <!-- block promo-banner:common/base.html 9cd273fa0c8e1edc8d5eec45266be7fe -->
+        
+        
+      
+        <!-- endblock promo-banner:common/base.html -->
+        
       
         <!-- block pre-content:common/base.html d41d8cd98f00b204e9800998ecf8427e -->
         
         <!-- endblock pre-content:common/base.html -->
         
+
       
-        <!-- block content-wrapper:common/base.html ecac5ff67e4fdab9b10e54c76f080e84 -->
+        <!-- block content-wrapper:common/base.html 7a8348485e8951d95edb475643946b9f -->
         
       <div id="content" role="main">
         <div class="container">
           
-          <div id="main-div">
-            
-<div class="sz-static-page">
+<div class="sz-page">
   <div class="sz-section">
+    <h1>Privacy Policy</h1>
   
-
-<h1><span>More Information</span></h1>
-
-<h2><span>Privacy Policy</span></h2>
-
-<div class="szi-section-body">
-
-  <p>For information not covered below, please see the Terms of Service.</p>
+    <p class="szi-section-body">
+      For information not covered below, please see the <a href="/page/tos/">Terms of Service</a>.
+    </p>
+      
+    <h2>Information We Collect</h2>
   
-  <h3>Information We Collect</h3>
+    <p class="szi-section-body">
+      We store information that we collect through cookies, log files,
+      and clear gifs to create a "profile" of your preferences. Personally
+      identifiable information is used by Songza in order to provide
+      tailored services and to improve the content of the site for
+      you. Non-personally identifiable information is used by Songza and
+      Songza's advertising partners in order to provide tailored
+      advertisements that increase the relevance of the products to you
+      whenever possible.
+    </p>
+      
+    <h2>Who We Share Information With</h2>
   
-  <p>We store information that we collect through cookies, log files,
-  and clear gifs to create a "profile" of your preferences. Personally
-  identifiable information is used by Songza in order to provide
-  tailored services and to improve the content of the site for
-  you. Non-personally identifiable information is used by Songza and
-  Songza's advertising partners in order to provide tailored
-  advertisements that increase the relevance of the products to you
-  whenever possible.</p>
+    <div class="szi-section-body">
+      <p>
+        Songza will comply with demands made by law enforcement or other
+        governmental officials, in response to a verified request relating to
+        a criminal investigation.
+      </p>
+      
+      <p>
+        Only NON-personally identifiable, group information may be shared
+        or sold to Songza partners.
+      </p>
+      
+      <p>
+        We use third-party advertising companies to serve ads when you
+        visit our Web site. These companies may use aggregated information
+        (not including your name, address, email address or telephone number)
+        about your visits to this and other Web sites in order to provide
+        advertisements about goods and services of interest to you. If you
+        would like more information about this practice and to know your
+        choices about not having this information used by these companies,
+        click here: http://www.networkadvertising.org/managing/opt_out.asp
+      </p>
+    </div>
+      
+    <h2>Who We Do Not Share Information With</h2>
+      
+    <p class="szi-section-body">
+      We absolutely do NOT share your personally identifiable information
+      (email address, first or last name, etc.) with ANY third-party or
+      partner unless you explicitly request that we do.
+    </p>
+      
+    <h2>Customer Service</h2>
   
-  <h3>Who We Share Information With</h3>
-  
-  <p>Songza will comply with demands made by law enforcement or other
-  governmental officials, in response to a verified request relating to
-  a criminal investigation.</p>
-  
-  <p>Only NON-personally identifiable, group information may be shared
-  or sold to Songza partners.</p>
-  
-  <p>We use third-party advertising companies to serve ads when you
-  visit our Web site. These companies may use aggregated information
-  (not including your name, address, email address or telephone number)
-  about your visits to this and other Web sites in order to provide
-  advertisements about goods and services of interest to you. If you
-  would like more information about this practice and to know your
-  choices about not having this information used by these companies,
-  click here: http://www.networkadvertising.org/managing/opt_out.asp</p>
-  
-  <h3>Who We Do Not Share Information With</h3>
-  
-  <p>We absolutely do NOT share your personally identifiable information
-  (email address, first or last name, etc.) with ANY third-party or
-  partner unless you explicitly request that we do.
-  
-  </p><h3>Customer Service</h3>
-  
-  <p>Based upon the information you provide us, we will send you a
-  welcome email to verify your username and password. We will also
-  communicate with you in response to your inquiries, to provide the
-  services you request, to manage your account and inform you of new
-  services and features Songza is offering. Any time that we email you,
-  you will have the ability to opt out of all future communications.</p>
-  
-  <p>Songza will never ask for your login or personally identifiable
-  information in emails, instant messages, or pop-ups. If you witness
-  any of these possible scams, ignore them and inform us at support [at]
-  songza.com.</p>
-  
-  <p>We take your privacy very seriously; if you feel Songza is
-  violating your privacy in any way, please contact us at support [at]
-  songza.com</p>
-
-</div>
-
-
+    <div class="szi-section-body">
+      <p>
+        Based upon the information you provide us, we will send you a
+        welcome email to verify your username and password. We will also
+        communicate with you in response to your inquiries, to provide the
+        services you request, to manage your account and inform you of new
+        services and features Songza is offering. Any time that we email you,
+        you will have the ability to opt out of all future communications.
+      </p>
+      
+      <p>
+        Songza will never ask for your login or personally identifiable
+        information in emails, instant messages, or pop-ups. If you witness
+        any of these possible scams, ignore them and inform us at support [at]
+        songza.com.
+      </p>
+        
+      <p>
+        We take your privacy very seriously; if you feel Songza is
+        violating your privacy in any way, please contact us at support [at]
+        songza.com
+      </p>
+    </div>
   </div>
 </div>
 
-          </div>
-          <div id="side-div">
-            
-              <div id="ad-side">
-  
-    <iframe src="/advertising/side/" width="300" height="600" frameborder="0" scrolling="no" class="sz-ad-frame"></iframe>
-  
-</div>
 
-            
-          </div>
-          <div id="ad-bottom">
-  <iframe src="/advertising/bottom/" width="728" height="90" frameborder="0" scrolling="no" class="sz-ad-frame"></iframe>
-</div>
-
-          
         </div>
       </div>
       
         <!-- endblock content-wrapper:common/base.html -->
         
       
-        <!-- block footer:common/base.html 0280f7096c30b63f0a0c522f00036043 -->
+        <!-- block footer:common/base.html 5adc27a94a0224b3fab193aea71736ba -->
         
         <div class="sz-songza-footer">
   <div class="container">
@@ -309,12 +285,14 @@ require(["songza/app"], function(App) {
   </div>
   <div class="szi-press szi-last">
     <span class="szi-title">As Seen On:</span>
-    <ul>
-      <li><a target="_blank" class="footer-press-nytimes" href="http://www.nytimes.com/2011/10/20/technology/personaltech/online-music-tools-and-services-help-you-find-new-tunes.html">New York Times</a></li>
-      <li><a target="_blank" class="footer-press-cnn" href="http://www.cnn.com/2011/09/14/tech/mobi&#10;le/songza-app-mashable/index.html">CNN</a></li>
-      <li><a target="_blank" class="footer-press-techcrunch" href="http://techcrunch.com/2011/09/13/songza-raises-seven-figure-round-launches-mobile-sharable-music-collections-in-the-cloud/">TechCrunch</a></li>
-      <li><a target="_blank" class="footer-press-mashable" href="http://mashable.com/2011/10/14/iphone-4s-apps/#29739Songza">Mashable</a></li>
-    </ul>
+    <div class="carousel slide">
+      <ul class="carousel-inner">
+        <li class="item active"><a target="_blank" class="footer-press-nytimes" href="http://www.nytimes.com/2011/10/20/technology/personaltech/online-music-tools-and-services-help-you-find-new-tunes.html">New York Times</a></li>
+        <li class="item"><a target="_blank" class="footer-press-cnn" href="http://www.cnn.com/2011/09/14/tech/mobi&#10;  le/songza-app-mashable/index.html">CNN</a></li>
+        <li class="item"><a target="_blank" class="footer-press-techcrunch" href="http://techcrunch.com/2011/09/13/songza-raises-seven-figure-round-launches-mobile-sharable-music-collections-in-the-cloud/">TechCrunch</a></li>
+        <li class="item"><a target="_blank" class="footer-press-mashable" href="http://mashable.com/2011/10/14/iphone-4s-apps/#29739Songza">Mashable</a></li>
+      </ul>
+    </div>
   </div>
 </div>
   
@@ -322,9 +300,13 @@ require(["songza/app"], function(App) {
   <ul>
     <li class="szi-first">© Songza Media, Inc.</li>
     <li><a href="/page/advertising/">Advertising</a></li>
+    <li><a href="/page/careers/">Careers</a></li>
     <li><a href="/page/copyright/">Copyright</a></li>
     <li><a href="/page/privacy/">Privacy Policy</a></li>
     <li><a href="/page/tos/">Terms of Service</a></li>
+    <li><a href="https://twitter.com/songza" target="_blank">Twitter</a></li>      
+    <li><a href="http://www.facebook.com/SongzaRadio" target="_blank">Facebook</a></li>
+    <li><a href="https://plus.google.com/101736677666121192035" target="_blank" rel="publisher">Google+</a></li> 
     <li class="szi-last"><a href="http://nytm.org/made/" target="_blank">Made In NYC</a></li>
     
   </ul>
@@ -332,18 +314,9 @@ require(["songza/app"], function(App) {
 
 <script type="text/javascript">
 $(function() {
-  $(".sz-songza-footer .szi-press ul").carouFredSel({
-    items       : 1,
-    scroll      : {
-      fx          : "fade",
-      pauseOnHover: true
-    },
-    direction   : "up",
-    auto        : {
-      play: true,
-      duration: 1000
-    }
-  });
+  $(".sz-songza-footer .carousel").carousel({
+    interval: 5000
+  }).carousel('cycle');
 });
 </script>
 
