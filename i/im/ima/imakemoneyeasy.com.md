@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imakemoneyeasy.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621025854id_/http%3A//www.imakemoneyeasy.com/threads/3209-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imakemoneyeasy.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231200136id_/http%3A//www.imakemoneyeasy.com/threads/3209-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  1. 02-17-2012, 08:17 PM [#1](http://www.imakemoneyeasy.com/threads/3209-Privacy-Policy?p=4215&viewfull=1#post4215)
+  1. 02-17-2012, 09:17 PM [#1](http://www.imakemoneyeasy.com/threads/3209-Privacy-Policy?p=4215&viewfull=1#post4215)
 
 ##  Privacy Policy 
 
@@ -66,4 +66,4 @@ Copyright © 2012 vBulletin Solutions, Inc. All rights reserved.
 
 I Make Money Easy 
 
-All times are GMT -5. The time now is 09:58 PM.
+All times are GMT -5. The time now is 03:01 PM.
