@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gulfnews.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630100951id_/http%3A//gulfnews.com/about-gulf-news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfnews.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231051801id_/http%3A//gulfnews.com/about-gulf-news/privacy-policy) for the most accurate reproduction.*
 
-# gulfnews : Privacy policy
+# Gulfnews.com | Privacy policy | Latest Breaking News, Analysis, and Opinion
 
 _**Introduction**_
 
