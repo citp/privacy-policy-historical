@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistsnetwork.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613232609id_/http%3A//fwmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistsnetwork.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231062647id_/http%3A//fwmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | F+W Media
 
@@ -11,7 +11,8 @@ GENERAL CONTACT INFORMATION
 Our postal address is:  
 F+W Media, Inc.  
 10151 Carver Road Suite #200  
-Blue Ash, OH 45242
+Blue Ash, OH 45242  
+513.531.2690
 
 To ensure that your communications are properly routed, we ask that you identify the F+W products or services (web site, magazine, book club, etc.) relevant to your inquiry when contacting us. If you would like to receive a response, please be sure to include sufficient information to enable us to contact you (such as an email or postal address).
 
