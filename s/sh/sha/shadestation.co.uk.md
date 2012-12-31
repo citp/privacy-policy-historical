@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadestation.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630235523id_/http%3A//www.shadestation.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadestation.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010643id_/http%3A//www.shadestation.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,3 +19,9 @@ You may request deletion of your Shade Station customer details at any time by n
 Shade Station may amend this policy from time to time. If any substantial changes are made to in the way Shade Station use your personal information we will notify you by posting a prominent announcement on the Website or by email, as we see fit.
 
 If you have any unanswered questions, please contact us at [info@shadestation.co.uk](mailto:info@shadestation.co.uk). 
+
+Cookies are small text files which are stored on your computer by your browser when you visit web pages. We use cookies to allow us to store tracking information to make your user experience better. Cookie storage reasons include: Items in your shopping basket, usage statistics, and your favourite products. This information is not shared, and expires after a reasonable period of time. 
+
+We collect and store data in cookies which is sent securely to remarketing companies, whose algorithms may determine if you will see advertising related to your browsing on other websites. You are able to opt out of these adverts at any time (more information below).
+
+Cookies are necessary to purchase items at Shade Station. They are used to identify items in your shopping bag, shortlist, and also your browsing history so we can make better recommendations. The cookies themselves do not store any personal identifiable information. Instead, they store a 'key' on your computer which then identifies information stored temporarily on our own server. You can disable cookies in your browser to prevent this, however you will not be able to use the primary functionality of this website. You can disable cookies in your browser's settings. If you are unsure how to do this, follow this link: [Disable browser cookies](http://www.aboutcookies.org/Default.aspx?page=1). 
