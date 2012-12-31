@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510200602id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231011341id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | One Green Planet
 
@@ -28,7 +28,9 @@ We use [Google Analytics](http://www.google.com/analytics) to track usage on ou
 
 Facebook, Google and AddThis may store cookies on your computer.
 
-In addition, we serve [Ad Council PSAs](http://www.adcouncil.org/) that involves the uses of Google’s DART cookies to serve ads on OneGreenPlanet.org. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>. Other third-party vendors use cookies as well. Users can opt out of some, but not all, of third party cookies in one location at the Network Advertising Initiative’s opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+We serve [Ad Council PSAs](http://www.adcouncil.org/) that involves the uses of Google’s DART cookies to serve ads on OneGreenPlanet.org. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
 
 One Green Planet has no access to or control over these cookies used by third parties. The OneGreenPlanet.org privacy policy does not apply to, and we cannot control the activities of, such other advertisers, services or web sites.
 
@@ -68,4 +70,4 @@ If you have any questions about this Privacy Policy, please contact us at [team@
 
 _Effective Date: February 15, 2011_
 
-___Last Updated: September 5, 2011_
+___Last Updated: October 10, 2012_
