@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tamilfms.com privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302073909id_/http%3A//www.tamilfms.com/2010/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilfms.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231051121id_/http%3A//www.minthirai.com/FMsPrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Tamil Online FM|Tamil Online TVs,Online Movies,Tamil MP3,TV Shows Serials,Rhymes,Magazines
+# TamilFMs Minthirai - Tamil Online Radio, TVs, TV Shows, TV Serials, Movies, MP3s
 
-TamilFMs.com Privacy Policy
+  * TamilFMs.com Privacy Policy
 
 By using this site, you agree to the Privacy Policy of TamilFMs.com. If you do not agree to the Policy, please do not use this site. TamilFMs.com reviews its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please e-mail us at [Admin@TamilFMs.com](mailto:admin@tamilfms.com)
 
@@ -45,3 +45,6 @@ TamilFMs.com has established many links directly to sites operated by third part
 TamilFMs.com chooses its advertisers and business partners carefully. However, TamilFMs.com is not responsible for the content or practices of Web sites operated by third parties that are linked to our site. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by TamilFMs.com of the content, policies or practices of such third party sites. Once you enter a third party site by such a link, you should check the applicable privacy policy of the third party site.
 
 Copyright © 2010, TamilFMs.com, Online Tamil FM
+
+
+
