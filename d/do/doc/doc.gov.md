@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625150152id_/http%3A//www.commerce.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231041804id_/http%3A//www.commerce.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Department of Commerce
 
@@ -32,7 +32,7 @@ Some of our Web pages contain links to Web sites outside the Department of Comme
 
 **Interaction with Children:** The Office of the Secretary Web sites do not provide content to children and do not collect personally identifiable information from these visitors. Therefore, the requirements of the Children's Online Privacy Protection Act (COPPA) is not incorporated in this privacy policy.
 
-**Cookies** : To better serve our visitors, we use technology to track new and returning visitors actions while on the website. These small files are commonly referred to as "cookies." Our cookies don't not contain any personally-identifiable information. Our web measurement applications compare the behavior of new and returning visitors in the aggregate to help us identify work flows and trends and also resolve common problems on our site. 
+**Cookies** : To better serve our visitors, we use technology to track new and returning visitors actions while on the website. These small files are commonly referred to as "cookies." Our cookies do not contain any personally-identifiable information. Our web measurement applications compare the behavior of new and returning visitors in the aggregate to help us identify work flows and trends and also resolve common problems on our site. 
 
 Cookies are small files that Web servers place on a user's hard drive. They can serve several functions: 
 
@@ -62,7 +62,7 @@ Before collecting personally identifiable information, we will prominently discl
 
 
 
-**Consent to Information Collection /Sharing:** Generally, we will not share any personally identifiable information you give us with any other government agency, private organization, or the public, except with your consent or as required by law. **By pressing the "submit" button, each visitor constitutes consent to use the information for purposes stated in this policy.**
+**Consent to Information Collection/Sharing:** Generally, we will not share any personally identifiable information you give us with any other government agency, private organization, or the public, except with your consent or as required by law. **By pressing the "submit" button, each visitor constitutes consent to use the information for purposes stated in this policy.**
 
 **How e-mail is Handled:** By sending us an electronic mail message (for example, an e-mail message containing an official Freedom of Information Act request), you may be sending us personally-identifying information. In these cases, we may retain the information as long as necessary to respond to your request or otherwise resolve the subject matter of your e-mail. Please be aware that email is not necessarily secure from interception or misdirection. For your own protection you may wish to communicate sensitive information using a method other than email.
 
@@ -76,4 +76,4 @@ The Office of the Secretary may share information received from its Web sites wi
 
  **Department of Commerce Endorsement Policy:** links to web sites outside the U.S. Federal Government or the use of trade, firm, or corporation names within the Department of Commerce web sites are for the convenience of the user. Such use does not constitute an official endorsement or approval by the U.S. Commerce Department of any private sector website, product, or service. 
 
-**Dispute Resolution:** If for some reason you believe this site has not adhered to these principles, please notify the U.S Department of Commerce, Office of the CIO by e-mail at [webmaster[at]doc[dot]gov](https://web.archive.org/contact/webmaster/doc/gov). If our web pages are not fully in compliance with our stated policies, they will be corrected.
+**Dispute Resolution:** If for some reason you believe this site has not adhered to these principles, please notify the U.S Department of Commerce, Office of the CIO by e-mail at [webmaster[at]doc[dot]gov](https://web.archive.org/contact/webmaster/doc/gov). If our Web pages are not fully in compliance with our stated policies, they will be corrected.
