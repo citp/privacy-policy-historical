@@ -1,77 +1,127 @@
-> *The following text is extracted and transformed from the dawn.net privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231213703id_/http%3A//www.dawn.com/dawn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawn.net privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231172245id_/http%3A//dawn.com/dawn-privacy-policy) for the most accurate reproduction.*
 
-# DAWN PRIVACY POLICY DAWN.COM | Latest news, Breaking news, Pakistan News, world news, business, sport and multimedia.
+# DAWN PRIVACY POLICY | DAWN.COM
 
-Dawn.com is Pakistan Herald Publications (Pvt.) Ltd. website. Please know that while using this website and/or submitting information at this website you are volunteering the same; you are informed of the way such information may be used and you agree to such use.
+**Privacy policy**
 
- **Information you submit**
+This is the main privacy policy for dawn.com and Dawn Media Group publications online, and for certain services provided through the websites by Dawn Media Group
 
-To avail certain services and offerings, to participate in certain activities and to make contributions at this web-site you may be asked to submit personally identifiable information such as your name, address, e-mail address, telephone number, fax number, credit card information, your opinion on issues and items and information about your interests in and use of various products, programs, and services.
+At Dawn.com we collect different types of information about our users for four main reasons:
 
-At times you may also be submitting information about other people. For example, you might submit a person’s name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient’s name and address. The types of personally identifiable information that may be collected about other people at this website include: recipient’s name, address, e-mail address, and telephone number.
+1\. To provide personalised services unique to individual users.
 
-At certain parts of this website, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site’s activities and offerings.  
-You may also be submitting certain non-personally identifiable information such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider.
+2\. To help us to monitor and improve the services we offer
 
- **How We Use the Information**
+3\. To sell advertising space on the site. This helps us to keep the site free of charge.
 
-The information you submit will be used by us for communication and contact, to fulfill your requests, to respond to inquiries and to offer other products, programs or services that we believe may be of interest to you or to the person whose information you submit to us.  
-If you choose to submit content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board), we may publish your screen name and other information you have provided to us.
+4\. With user consent, to market services to individuals’ users.
 
-We use the non-personally identifiable information that you submit to improve our website.
+There may be additional privacy policies that apply to certain services on dawn.com
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or summon. We may also disclose such information in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our website and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, sold to, or merged with another company. Agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Statement by, for example, not using the information for any purpose other than to carry out the services they are performing for us.
+Please read these at the time you register or subscribe for these services on these sites.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that you submit will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+Please follow the links below for further information.
 
-We may disclose personally identifiable information to companies whose practices are not covered by this privacy policy (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
+**Our principles** ****
 
- **Cookies & Web Beacons**
+1\. We do our utmost to protect user privacy through the appropriate use of the security technology.
 
-To enhance your experience with our website, our web pages may use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. We use cookies to understand website usage and to improve the content and offerings on our website. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us.
+This means: - we ensure that we have appropriate physical and technological security measures to protect your information - we ensure that when we outsource any processes that the service provider has appropriate security measures.
 
-“Web beacons” or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on this site from time to time for this and other purposes.
+2\. We will respect your privacy. You should receive marketing emails only from DMG and, if you choose, from carefully chosen third parties.
 
-Cookies and web beacons shall be deemed to be information submitted by you to us.
+It will be made clear to you where you have these choices; for example, tick boxes will let you decide whether you wish to receive marketing.
 
- **Collection of Information by Third-Parties**
+We may, however, email you occasionally with information or queries about your registration, your subscription account or postings, for example, with reminders, warnings or copyright requests.
 
-Our website may contain links to other websites whose information practices or policies may be different than ours. You should consult the other sites’ privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+3\. We will collect and use individual user details only where we have legitimate business reasons and are legally entitled to do so.
 
-This website may offer content (e.g., contests or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may have access to personally identifiable information that you may submit to participate in the site activity. We have no control over these third parties’ use of such information. The site will notify you at the time of requesting personally identifiable information if these third parties will have access to such information.
+4\. We will be transparent in our dealings with you as to what information about you we will collect and how we will use your information.
 
-This website may use a third party to present or serve the advertisements that you may see on a web page. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to facilitate such advertisements and their effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies.
+5\. We will use personal data only for the purpose(s) for which they were originally collected and we will ensure personal data are securely disposed of.
 
- **Our Commitment to Security**
+6\. Our site is accessible via the Internet. This means that, wherever you choose to post your data on the site, they can be accessed from anywhere around the world.
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+**How we use your information** ****
 
- **Access to Information**
+**What information do we collect?**
 
-Access to personally identifiable information that is submitted to our website may be accessible for a limited period of time from the point of submission.
+We collect information on our users through registration and use of the website, through cookies, where you choose to disclose data in postings, and when you enter sales promotions and competitions (“sales promotions”).
 
-You may also send an e-mail or letter to the following e-mail or address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for said service.
+Certain services that we provide may involve the collection by us of additional information, such as your geographic location from time to time, to enable the service to be provided as designed. In particular, this may apply to certain Apps that you download, or which we provide.
 
-E-mail Administration  
-DAWN.COM  
-Haroon House  
-Dr. Ziauddin Ahmed Road  
-Karachi, Pakistan  
-email: webmaster@dawn.com
+**Registration**
 
- **For users under 18**
+The minimum information we need to register a user is an email address and a password. We will ask further questions for different services, including sales promotions. Unless stated, all registration questions are compulsory.
 
-If you are aged 18 or under, please get your parent/guardian’s permission before using this website and before submitting any information.
+We may also ask some further, voluntary questions during registration for certain services (for example, Classifieds, or Registration for Events) so we can gain a clearer understanding of our users. This also enables us to personalise services for our users.
 
- **How to Contact Us**
+**Logging in using social networking credentials**
 
-If you have any questions or concerns about this privacy policy you may contact us at webmaster@dawn.com.
+If you login to dawn.com using a Facebook login as a means of authentication you grant permission to Facebook to share your user details. This will include your name, email address, date of birth and location which will then be used to form a Dawn USER, and you may use your picture from Facebook as part of your profile. Authenticating also permits the sharing of your gender, networks, user ID and any other information you choose to share according to your Facebook account settings. If you remove the Dawn app from your Facebook settings, our access to this additional information will cease.
 
- **Updates & Effective Date**
+If you login to dawn.com using a twitter login as a means of authentication we receive your avatar and twitter username.
 
-We may update or amend this privacy policy from time to time. You are advised to review this policy each time you use this website.
+**Use of children’s data**
 
-The Privacy Policy posted on this website was last updated/amended on August 21st, 2008.
+Except for Young World, dawn.com does not knowingly collect or store any personal information about children under the age of 16.
 
-  
+Young World online is a service for children, which requires parental consent to join, no personal information on children is displayed on the site, and all contributions are moderated prior to being published.
 
+**Who we share data with**
+
+We will not share your personal information with others for marketing purposes unless you have given us your permission. With your permission we will share your information only with carefully chosen third parties.
+
+DMG may make available third party services; anyinformation, which is collected by DMG when you access a third party service, is processed under this Privacy Policy. Information collected by third party operators themselves is governed by their own privacy policies.
+
+Please note that we reserve the right to access and disclose personal data to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both our users and ourselves.
+
+Any third parties who access your data in the course of providing services on our behalf are subject to strict contractual restrictions to ensure that your data is protected, and in compliance with applicable data protection/privacy legislation. We may also independently audit these service providers to ensure that they meet our standards. We may use service providers to help us run these site or services available on the sites, some of which may be based outside of Pakistan.
+
+Some DMG webpages use plugins from third party platforms (such as the ‘Facebook Recommend’ function). These third party providers may collect information about your visit to DMG websites on these pages. If you browse these pages whilst still also logged in to your account on the third party platform, information collected by the third party may be connected to your account on the third party platform. For more information on how these third parties use information, please read their privacy policies.
+
+**Use of Cookies**
+
+We use cookies for a number of reasons:
+
+1\. For statistical purposes to track how many individual unique users we have and how often they visit our websites. We collect data listing which of our pages are most frequently visited and by which types of users and from which countries.
+
+2\. We use third parties to collect anonymous user information, sometimes through cookies and web beacons. Click here to learn more about how we use a third party service to collect and use information on dawn.com
+
+3\. DMG and third party advertisers will generate statistical cookies to track advertising impressions and conversions.
+
+4\. Placing cookies on your computer means we can serve you adverts that you might be more interested in, and allows us to control the number of times you see them and measure how effective the ad campaign has been. This helps us to keep the site free of charge.
+
+5\. Flash cookies may be used to store user preferences for media player functionality and without them some video content may not render correctly. You can turn cookies off but if you do this you may not be able to use all services on our websites and you might see more pop-ups and other intrusive advertising, as we won’t be able to limit what you see using cookies. You will, however, still be able to view editorial content.
+
+For more information about cookies and managing them, including how to turn them off, please visit our page on Cookies.
+
+By using the sites you are agreeing to the use of cookies as described.
+
+**About our advertising** ****
+
+We use targeted advertising, which allows us to deliver visitors to our website directed to your interests.
+
+As you browse dawn.com, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in.
+
+This information we collect about behavior on your computer enables us to group it with computers that show similar behavior. We can then display advertising to your computer, which is based on these interests. For instance if you have been reading a lot of food and drink articles we may decide to show you more adverts for food and drink.
+
+We do not share behavioral data with other websites.
+
+If you want to opt out of receiving online behavioral advertising this does not mean that you will no longer receive advertising when you are using guardian.co.uk or guardiannews.com. It just means that the advertising you see will not be customised for you.
+
+Please visit <http://www.dawn.com/privacypolicyoptout> to opt you.
+
+**Other Advertising**
+
+dawn.com will contain contextual affiliate links from which we may earn revenue. Advertisers or affiliates never influence our articles, nor are they written for the purpose of promoting a product, except when clearly branded as a ‘sponsored feature’ or ‘advertisement feature’ or ‘sponsor’s content’.
+
+**Legal information and how to contact us**
+
+For the purposes of data protection please contact legal@dawn.com
+
+If you would like to obtain a copy of the personal data we hold on you, or have any queries regarding DMG use of personal data please contact the Data Protection Manager at the above address
+
+**Changes to the privacy policy** ****
+
+Should we elect to change our privacy policy we will post the changes here. Where the changes are significant, we may also choose to email all our registered users with the new details. Where required by law, will we obtain your consent to make these changes.
