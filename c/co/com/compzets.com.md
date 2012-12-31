@@ -1,49 +1,91 @@
-> *The following text is extracted and transformed from the compzets.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121213934id_/http%3A//compzets.in/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compzets.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231011331id_/http%3A//www.compzets.com/view-info.php%3Finfo%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Compzets.com
 
-### Privacy Statement
+## Privacy Policy
 
-Compzets.in is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Compzets.in Web site and governs data collection and usage. By using the Compzets.in website, you consent to the data practices described in this statement.
+#### 1\. Usage of Information
 
-#### Collection of your Personal Information
+Registration on the Compzets web page is optional and voluntary. We use the information you provide to:
 
-Compzets.in collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Compzets.in also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+  1. Allow Authors to access the information they need in order to publish their work
+  2. Allow Compzets to send service email notifications or promotional messages about new publications released
+  3. Administer your account and customize the service we provide to you and other users
+  4. Provide your personal details to third parties offering combined services with Compzets, enabling you to share your information and communicate with other users
 
-There is also information about your computer hardware and software that is automatically collected by Compzets.in. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Compzets.in for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Compzets.in Web site.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Compzets.in public message boards, this information may be collected and used by others. Note: Compzets.in does not read any of your private online communications.
 
-Compzets.in encourages you to review the privacy statements of Web sites you choose to link to from Compzets.in so that you can understand how those Web sites collect, use and share your information. Compzets.in is not responsible for the privacy statements or other content on Web sites outside of the Compzets.in and Compzets.in family of Web sites.
+####  2\. What We Collect
 
-#### Use of your Personal Information
+For the purposes above we may collect the following information:
 
-Compzets.in collects and uses your personal information to operate the Compzets.in Web site and deliver the services you have requested. Compzets.in also uses your personally identifiable information to inform you of other products or services available from Compzets.in and its affiliates. Compzets.in may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+  1. Username, Referral, Name, Websites
+  2. Contact information in the form of email address, postal address, country of residence
+  3. Other information may include facebook link,twitter link etc.
+  4. Password
 
-Compzets.in does not sell, rent or lease its customer lists to third parties. Compzets.in may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Compzets.in may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Compzets.in, and they are required to maintain the confidentiality of your information.
 
-Compzets.in does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-Compzets.in keeps track of the Web sites and pages our customers visit within Compzets.in, in order to determine what Compzets.in services are the most popular. This data is used to deliver customized content and advertising within Compzets.in to customers whose behavior indicates that they are interested in a particular subject area.
+####  3\. Additional Information Collected
 
-Compzets.in Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Compzets.in or the site; (b) protect and defend the rights or property of Compzets.in; and, (c) act under exigent circumstances to protect the personal safety of users of Compzets.in, or the public.
+In order to deliver a better service, Compzets tracks patterns of use on this site. We note which links are clicked to determine what areas, articles and chapters are of most interest to our visitors. Like all websites, we automatically receive from the Internet usage information such as your IP address, the URLs of sites from which you arrive or leave the Compzets website, your type of browser, your operating system, your mobile provider, your mobile device and your ISP. We use cookies and other technologies to recognize you, study traffic patterns on our website and customize your experience.
 
-#### Use of Cookies
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-The Compzets.in Web site does not use "cookies" at present but in future it may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+####  4\. Your rights
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Compzets.in pages, or register with Compzets.in site or services, a cookie helps Compzets.in to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Compzets.in Web site, the information you previously provided can be retrieved, so you can easily use the Compzets.in features that you customized.
+  1. You can choose what information you make available to other registered and unregistered users
+  2. With the exception of your username (which works as a login), you are free to change your personal information at any time. If your personally identifiable information changes, you may correct, update or delete it by making the change on your user panel, or or by contacting us by postal mail at the contact information listed below.
+  3. You can delete or close your Compzets account at any time. If you no longer desire our services you can delete your account from your dashboard at security section.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Compzets.in services or Web sites you visit.
 
-#### Security of your Personal Information
 
-Compzets.in secures your personal information from unauthorized access, use or disclosure. Compzets.in secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+####  5\. Third Parties
 
-#### Changes to this Statement
+**Compzets does not sell, rent, or otherwise provide your personal information to third parties, unless we have your permission or are required by law so as to comply with a subpoena or similar legal process.** Please note that in order to deliver certain services (for example, Article/Chapter publication), we may share information with third parties. To process payments made by you, we share some of your information with the payment processing company we use. While you are entitled to decline to provide the information requested, this may prevent us from providing the services requested. In the case of delivery of hard copies of books to authors or other parties ordering such publications, we share with third parties conducting postal delivery services the information required in order to carry out the delivery.
 
-Compzets.in will occasionally update this Statement of Privacy to reflect company and customer feedback. Compzets.in encourages you to periodically review this Statement to be informed of how Compzets.in is protecting your information.
+####  6\. E-mail Policy
 
-#### Contact Information
+Compzets may send you service communications by email. If you have previously agreed to us using your personal information for email/newsletter services, Compzets may send information which you might find of interest. You may change your mind and unsubscribe at any time by emailing us at [support@Compzets.com](mailto:support@compzets.com).
 
-Compzets.in welcomes your comments regarding this Statement of Privacy. If you believe that Compzets.in has not adhered to this Statement, please contact Compzets.in at [admin@compzets.com](mailto:admin@compzets.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+####  7\. Customer Testimonials / Comments / Reviews
+
+In the "Software Description" pages of our website we post customer testimonials/comments/reviews which may contain personally identifiable information. These testimonials are stored on a database held within Compzets. Prior to posting a testimonial, we obtain the customer's consent via email to posting his or her name along with the testimonial.
+
+####  8\. Cookies
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+####  9\. Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, given that the Internet is not a secure medium, there is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. You are responsible for maintaining the secrecy of your unique password and account information and for controlling access to your email communications at all times.
+
+**10\. Third Party Cookies**
+
+The use of cookies by our partners and affiliates is not covered by our privacy statement. We do not have access or control over these cookies. 
+
+**11\. Web Beacons**
+
+Our web pages contain electronic images known as web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used. These may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+**12\. Links to Other Websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+#### 13\. Private Policy and Authors
+
+The summary of Authors' personal information (Username, Facebook link, Twitter Link) are made publicly accessible on Compzets's web site but **not email addresses**. Other personal and contact information will be publicly available to registered users only with prior authorization. Compzets will not send authors unsolicited e-mail messages unless it directly concerns their published work.
+
+#### 14\. Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to delete your account or request that we no longer use your information to provide you services then you can either delete your account from your dashboard or contact us at [support@Compzets.com](mailto:support@Compzets.com).  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements .  
+
+#### 15\. Changes in this Privacy Statement
+
+**If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.**
+
+**We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page 30 calendar days prior to implementing the change.**
+
+#### 16\. Contact Us
+
+If you have questions or comments about this Privacy Policy, please email us at [support@Compzets.com](mailto:support@Compzets.com)
