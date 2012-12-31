@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acid-play.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504002939id_/http%3A//www.acid-play.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acid-play.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231203016id_/http%3A//acid-play.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
