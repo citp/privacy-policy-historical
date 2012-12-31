@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ethiotube.net privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507165624id_/http%3A//www.ethiotube.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiotube.net privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231164147id_/http%3A//www.ethiotube.net/privacy) for the most accurate reproduction.*
 
-# EthioTube - Broadcast Ethiopia.
+# EthioTube - Watch All Things Ethiopia.
 
 The use of this version of the "EthioTube - Broadcast Ethiopia" website and/or EthioTube - Broadcast Ethiopia software and any other related software, upgrades or updates and all related services and special offers provided by "EthioTube - Broadcast Ethiopia" are subject to the hereunder provisions of this Privacy Policy.:
 
