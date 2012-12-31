@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the clickuplink.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622032302id_/http%3A//clickuplink.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickuplink.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231015000id_/http%3A//clickuplink.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Click Up Link | Privacy Policy
-
-  
-
 
 Your privacy is very important to ClickUpLink.com. So, this is a bit more detail to help understand how the website will collect, use, communicate and disclose and make use of personal information. We will not rent, sell, lease, or give away any of your personal information. The following outlines our privacy policy. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
@@ -42,5 +39,3 @@ ClickUpLink.com reserves the right to delete any comments that it deems not bene
 The web site contains links to other websites not owned by the owner of this website. We will not, and cannot, control how your personal information is used on these other websites. Consult the privacy policies of the linked websites to see how they use your information
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
-
-Â 
