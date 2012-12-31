@@ -1,31 +1,47 @@
-> *The following text is extracted and transformed from the planetizen.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232958id_/http%3A//www.planetizen.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetizen.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231055459id_/http%3A//www.planetizen.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Planetizen
 
-3 September 2005 - 12:20pm
+Your privacy is important to us. At Planetizen we have a few fundamental principles:
 
-We respect your privacy. All information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Planetizen will be held with the utmost care, and will not be used in ways to which you have not consented. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please do not hesitate to let us know.
+Below is our privacy policy which incorporates these goals.
 
-This policy is based on our fundamental goal at Planetizen to provide the Internet community with relevant content while maintaining personal privacy. This policy is open to comment and is meant to provide an evolutionary framework from which we can address any concerns of the Internet community. Please forward any comments you may have regarding this policy to us at [info@planetizen.com](mailto:info@planetizen.com).
+If you have questions about our privacy policy, please send an email to [editor@planetizen.com](mailto:editor@planetizen.com). 
 
-#### Resale or Disclosure of Information to Third Parties
+**Website Visitors**  
+Like most website operators, Planetizen collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Planetizen’s purpose in collecting non-personally identifying information is to better understand how Planetizen’s visitors use its website. From time to time, Planetizen may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. Planetizen also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments. Planetizen only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
-Planetizen _does not_ sell, rent, loan, trade, or lease any personal information collected at our site, including email addresses. (Please see advertising information below.)
+ **Gathering of Personally-Identifying Information**  
+Certain visitors to Planetizen’s websites choose to interact with Planetizen in ways that require Planetizen to gather personally-identifying information. The amount and type of information that Planetizen gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account to provide a username and email address. Those who engage in transactions with Planetizen – by purchasing products, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Planetizen collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Planetizen. Planetizen does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-#### Browser Information Collected on the Website
+ **Aggregated Statistics**  
+Planetizen may collect statistics about the behavior of visitors to its websites. Planetizen may display this information publicly or provide it to others. However, Planetizen does not disclose personally-identifying information other than as described below.
 
-We analyze our website logs to constantly improve the value of the materials available on this website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
+ **Protection of Certain Personally-Identifying Information**  
+Planetizen discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Planetizen’s behalf or to provide services available at Planetizen’s websites, and (ii) that have agreed not to disclose it to others. 
 
-#### Advertising
+Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Planetizen’s websites, you consent to the transfer of such information to them. Planetizen will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Planetizen discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Planetizen believes in good faith that disclosure is reasonably necessary to protect the property or rights of Planetizen, third parties or the public at large. 
 
-We do not use third-party advertisers.
+If you are a registered user of an Planetizen website and have supplied your email address, Planetizen may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Planetizen and our products. 
 
-#### Privacy of Our Email Lists
+If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Planetizen takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-Planetizen maintains several email lists to keep the urban planning community informed about news and changes to our website. Individuals must affirmatively ask to join our mailing lists by contacting PLANetizen, or completing our online email newsletter subscription form. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our email list server software to refuse to divulge the email addresses of our list subscribers to anyone.
+ **Cookies**  
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Planetizen uses cookies to help Planetizen identify and track visitors, their usage of Planetizen website, and their website access preferences. Planetizen visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Planetizen’s websites, with the drawback that certain features of Planetizen’s websites may not function properly without the aid of cookies.
 
-#### Online Privacy Alliance
+ **Business Transfers**  
+If Planetizen, or substantially all of its assets were acquired, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Planetizen may continue to use your personal information as set forth in this policy.
 
-Urban Insight, Inc. and Planetizen support the goals of the [Online Privacy Alliance](http://www.privacyalliance.org/), a cross-industry coalition of more than 80 global companies and associations committed to promoting the privacy of individuals online. The Alliance is an ad hoc organization. Its sole purpose is to work to define privacy policy for the new electronic medium and to foster an online environment that respects consumer privacy.
+ **Ads**  
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Planetizen and does not cover the use of cookies by any advertisers.
 
-If you have a question not covered by these topics please send us an [email](mailto:info@planetizen.com). 
+ **Comments and News Submissions**  
+Comments, news submissions and other content submitted to us are saved on our servers. We use them to improve the services we provide. If you submit personal commentary in a news article you submit, we may, at our discretion, publish your comments alongside your username and the article you submitted. If you do not wish your username to be associated with content that you submit to use, please submit it anonymously.
+
+ **Privacy Policy Changes**  
+Although most changes are likely to be minor, Planetizen may change its Privacy Policy from time to time, and in Planetizen’s sole discretion. Planetizen encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+ **Change Log**  
+March 15, 2012: Planetizen privacy policy substantially updated to recognize best practices in privacy policies.
+
+We wish to thank [Automattic](http://automattic.com/) for providing the foundation for this privacy policy under a creative commons license.
