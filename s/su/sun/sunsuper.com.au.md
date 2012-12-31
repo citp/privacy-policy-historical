@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502134222id_/http%3A//www.sunsuper.com.au/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231054241id_/http%3A//www.sunsuper.com.au/content/privacy.cfm) for the most accurate reproduction.*
 
 # Sunsuper Privacy Policy
 
@@ -86,7 +86,7 @@ You may have concerns about the personal information collected about you online 
 
 #### Information collected about you online
 
-The Sunsuper website relies on "cookies" to provide a number of services to you. A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer. Cookies generally allow the website to interact more efficiently with your computer. Usually you can set your browser to notify you before you receive a cookie so that you can decide whether to accept it. You may also be able to set your browser to turn off cookies. However, sometimes not accepting a cookie may affect your use of our website. We sometimes use cookies to monitor which pages on our website you visit, in order to improve our service.
+The Sunsuper website relies on "[cookies](http://www.sunsuper.com.au/Forms_and_Tools/Footer_docs/Sunsuper_Cookie_Policy/ "Sunsuper Cookie Policy")" to provide a number of services to you. A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer. Cookies generally allow the website to interact more efficiently with your computer. Usually you can set your browser to notify you before you receive a cookie so that you can decide whether to accept it. You may also be able to set your browser to turn off cookies. However, sometimes not accepting a cookie may affect your use of our website. We sometimes use cookies to monitor which pages on our website you visit, in order to improve our service.
 
 #### Security of your personal information online
 
