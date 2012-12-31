@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestateinvestor.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625062813id_/http%3A//www.realestateinvestor.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateinvestor.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231141321id_/http%3A//www.realestateinvestor.com/about/privacy) for the most accurate reproduction.*
 
 # About Us
 
