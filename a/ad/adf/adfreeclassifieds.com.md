@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfreeclassifieds.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507210600id_/http%3A//www.adfreeclassifieds.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfreeclassifieds.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231203142id_/http%3A//www.adfreeclassifieds.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Ad FREE Classifieds
 
