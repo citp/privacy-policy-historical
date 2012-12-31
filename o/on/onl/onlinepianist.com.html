@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onlinepianist.com privacy policy that was archived on 2011-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006202051id_/http%3A//www.onlinepianist.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlinepianist.com privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231152047id_/http%3A//www.onlinepianist.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -48,31 +48,66 @@ $(document).ready(function(){
 <div id="header_box">
   <div id="header_container">
   
-		    	<div id="top_leader"><script type="text/javascript"><!--
-google_ad_client = "pub-8848858913668155";
-/* Global_New_Leader */
-google_ad_slot = "2256695624";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
+		    	<div id="top_leader"><!-- BEGIN STANDARD TAG - 728 x 90 - Onlinepianist.com: Onlinepianist.com_728*90_ATF - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="728" height="90" src="http://adan1.xtendmedia.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=3277927&amp;pub_url=onlinepianist.com"></iframe>
+<!-- END TAG --></div>
         <div id="counter">
 		<div>
-				180,342		</div>
-		<div style="font-size:12px;">Online Pianists</div></div>   	  	<div id="logo"><a href="http://www.onlinepianist.com"><img src="http://www.onlinepianist.com/css/images/logo.png" border="0" alt="OnlinePianst.com"></a></div>
+602,049		</div>
+		<div style="font-size:12px;">Online Pianists</div></div>		
+   	  	<div id="logo" title="OnlinePianist.com" style="width:388px;"><a href="http://www.onlinepianist.com"><img src="http://www.onlinepianist.com/css/images/christmas_logo.png" border="0" alt="OnlinePianist.com" title="Merry Christmas from OnlinePianist!"></a></div>
         
-        <div id="search_box">
-					<div class="search_box_text_cell"><a href="http://www.onlinepianist.com/signup/">Sign Up</a></div><div class="search_box_text_cell"><a href="http://www.onlinepianist.com/login/">Login</a></div>
-			      		<div class="clear"></div>
-			<form action="http://www.onlinepianist.com/songs/" method="post" id="s" style="margin:0; padding:0;">
-        	<div class="search_box_input_cell_1">
-				<input type="text" name="int_search" class="search_input" title="Search a Tutorial" id="searchInput">
-			</div>
-         	 <div class="search_box_input_cell_2"><input type="image" src="http://www.onlinepianist.com/css/images/submit.gif" title="Search" id="submit"></div>
-			 </form>
-     	</div>
+		<div style="float:left;margin-top:34px;">
+			 <script type="text/javascript" src="http://www.onlinepianist.com/jquery.autocomplete.min.js"></script>
+	 <script type="text/javascript">
+	 function onItemSelect (item) {
+		window.location.href = "http://www.onlinepianist.com/songs/tutorials/?id="+item.data;
+	 }
+	 $(function() {
+		  $("#search_input").autocomplete('http://www.onlinepianist.com/autocomplete_json.php', {
+			 remoteDataType: 'json',
+			processData: function(data) {
+				dataArray = eval(data);
+				var i, processed = [];
+				for (i=0; i < dataArray.length; i++) {
+					processed.push([ [dataArray[i]['artist'] + " - " + dataArray[i]['name']], [dataArray[i]['id']] ]);
+				}
+				//alert(JSON.stringify(processed));
+				return processed;
+			},
+			onItemSelect: onItemSelect,
+		});
+	});
+
+</script>
+		<form action="http://www.onlinepianist.com/songs/" method="post" id="s" style="margin:0; padding:0;">
+		 <table border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+               <td>
+                       	<input type="text" id="search_input" name="int_search" title="Search a Song or an Artist...">
+               </td>
+
+               <td>
+                       <input type="image" src="http://www.onlinepianist.com/css/images/new_submit.gif" onclick="lookupAjax();" title="Search" id="submit">
+               </td>
+          </tr>
+     </tbody></table>
+	 </form>
+	</div>
+	
+		<div id="user_panel">
+		<div id="text_urls">
+		<a href="http://www.onlinepianist.com/signup/" style="float:left;margin-right:26px;">Signup</a>
+		<a href="http://www.onlinepianist.com/login/" style="float:left;">Login</a>
+		</div>
+		 <a href="#" title="Sign In using Facebook" id="fb" onclick="fb_login(); return false;"></a>
+		 <script>
+		 		function fb_login() {
+			window.location = "https://www.facebook.com/dialog/oauth?client_id=118200111537883&redirect_uri=http%3A%2F%2Fwww.onlinepianist.com%2Fsignup%2Ffb%2Fdo_fb_signin.php&scope=email,publish_actions&state=";
+		}
+		</script>
+	</div>
+			
         <div class="clear"></div>
 		
        <div id="main_menu">
@@ -80,8 +115,9 @@ google_ad_height = 90;
 		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/songs/" id="tutorials"></a></div>
 		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/chords/" id="chords"></a></div>
 		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/sheets/" id="sheets"></a></div>
+		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/virtual_piano/" id="virtual_piano"></a></div>
 		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/blog/" id="blog"></a></div>
-		        	<div class="main_menu_item"><a href="http://www.onlinepianist.com/requests-wall/" id="requests"></a></div>
+		        	<div class="main_menu_item"><a href="http://www.facebook.com/questions/567283056619868/" id="requests" target="_blank"></a></div>
 			
 		
 			<div id="menu_premium_item_cont"><a href="http://www.onlinepianist.com/premium/" id="premium"></a></div>
@@ -173,70 +209,20 @@ to time to ensure that you are aware of these changes. Your continued use of thi
 <div id="social_buttons" style="margin-top:14px;">
 	<div style="float:left;"><fb:like href="http://www.facebook.com/OnlinePianist" send="false" layout="button_count" width="30" show_faces="true" action="like" font="verdana"></fb:like></div>
 	<div id="googleplus" style="float:left;"><g:plusone size="medium" href="http://www.onlinepianist.com"></g:plusone></div>
+	<div style="float:left;">
+	<a href="https://plus.google.com/113153478837030891200?prsrc=3" style="text-decoration: none; color: #333;"><div style="display: inline-block;"><span style="float: left; font: bold 12px arial,sans-serif; margin-right: 4px; margin-top: 3px;">OnlinePianist</span><span style="float: left; font: 12px arial,sans-serif; margin-right: 4px; margin-top: 3px;">on</span><div style="float: left;"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" width="20" height="20" style="border: 0;"></div><div style="clear: both"></div></div></a>
+	</div>
 	<div class="clear"></div>
 	</div>
 	
-		<div class="box_top_frame"></div>
-    <div id="box_ad_box">
-	<!-- BEGIN RICH-MEDIA Burst Media CODE -->
-<script type="text/javascript" language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-ts=String.fromCharCode(60);
-if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad21746a.cgi/v=2.3S/sz=300x250A/NZ/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad21746a.cgi/v=2.3S/sz=300x250A/NZ/93345/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad21746a-map.cgi/ns/v=2.3S/sz=300x250A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad21746a.cgi/ns/v=2.3S/sz=300x250A/" border="0" alt="Click Here" /></a>
-</noscript>
-<!-- END Burst Media CODE -->	</div>
-	<div class="box_bott_frame"></div>
 	
-	
-	<div class="box_top_frame"></div>
-	<div id="login_box_container">
-			<div id="buttons_container">
-			<div id="login_button"><a href="http://www.onlinepianist.com/login/"></a></div>
-			<div id="signup_button"><a href="http://www.onlinepianist.com/signup/"></a></div>
-			<div id="fb_login">
-		   <a href="#" onclick="fb_login(); return false;"></a>
-		 <script>
-		function fb_login() {
-			
-			FB.login(function(response) {
-			if (response.session) {
-				window.location = "http://www.onlinepianist.com/accounts.php?pr=do_fb_quick_sign"
-				} 
-			else {
-				alert("Sorry... We are unable to sign you in with Facebook");
-				window.location = "http://www.onlinepianist.com/login/"
-				}
-			}, {perms:'email,user_birthday,user_website,user_location'});
-		}
-		</script>	
-			</div>
-		</div>
-				<div class="clear"></div>
+			<div class="box_top_frame"></div>
 		
-		<div id="login_form">
-		<form action="http://www.onlinepianist.com/login/" method="post" style="margin:0;"> 
-	<table align="center" cellspacing="6" cellpadding="0" border="0"> 
-	<tbody><tr> 
-	<td>Username:</td><td><input type="text" name="usernm" maxlength="25"></td> 
-	</tr> 
-	<tr> 
-	<td>Password:</td><td><input type="password" name="password" maxlength="35"></td> 
-	</tr> 
-		<tr> 
-	<td><input type="checkbox" name="remember" value="ON" checked="checked">Keep me logged in</td> 
-    <td><input type="hidden" name="do_login" value="do_login"> 
-                 <input type="submit" value="Login" class="form_submit_bott"> <a href="#" id="cancel_log_form">cancel</a></td> 
-	</tr>
-	</tbody></table> 
-	</form>
-		</div>
-	</div>
+    <div id="box_ad_box">
+	<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250" src="http://adan1.xtendmedia.com/st?ad_type=iframe&amp;ad_size=300x250&amp;section=3466550&amp;pub_url=onlinepianist.com"></iframe>	</div>
 	<div class="box_bott_frame"></div>
-	
-	
+		
+		
 	    <div id="follow_us">
 <dl class="social_map">
 	<dd><a class="soc_LINK0" title="Our Facebook Fan Page" href="http://www.facebook.com/OnlinePianist" target="_blank"></a></dd>
@@ -245,33 +231,33 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad21746a.cgi/
 </dl>
     </div>
 	
-    <div id="fb_like_box">Press the Like button to stay updated<br><fb:like-box href="http://www.facebook.com/OnlinePianist" width="300" height="326" show_faces="true" stream="false" header="false"></fb:like-box></div>
-
-</div>
+   	
+	 
+ </div>
 <div class="clear"></div> 
 </div>
  
-<div id="footer"> 
+﻿<div id="footer"> 
 	<div id="li_container">
 		<ul id="links">
 			<li><a href="http://www.onlinepianist.com/songs/">Piano Tutorials</a></li>
 			<li><a href="http://www.onlinepianist.com/chords/">Chords</a></li>
-			<li><a href="http://apps.facebook.com/pianotrivia/" target="_blank">Piano Trivia</a></li>
 			<li><a href="http://www.onlinepianist.com/sheets/">Piano Sheets</a></li>
 			<li><a href="http://www.onlinepianist.com/blog/">Blog</a></li>
-			<li><a href="http://www.onlinepianist.com/requests-wall/">Requests</a></li>
+			<li><a href="http://www.facebook.com/questions/567283056619868/" target="_blank">Requests</a></li>
 			<li><a href="http://www.onlinepianist.com/premium/">Premium</a></li>
-			<li><a href="http://www.thevirtualpiano.com/" target="_blank">TheVirtualPiano.com</a></li>
 			<li><a href="http://www.lyrics.net/" target="_blank">Lyrics</a></li>
+			<li><a href="http://www.songwriting.net" target="_blank" style="font-size:11px;">USA Songwriting Competition</a></li>
 			<li><a href="http://www.onlinepianist.com/faq/">FAQ &amp; Support</a></li>
 			<li><a href="http://www.onlinepianist.com/privacy/">Privacy</a></li>
+			<li><a href="http://www.onlinepianist.com/terms/">Terms</a></li>
 			<li><a href="http://www.onlinepianist.com/advertise/">Advertise</a></li>
 			<li class="last"><a href="http://www.onlinepianist.com/about/">About us</a></li>
 
 			</ul>	
 	</div>
-	<div id="copyrights">This site is legally licensed by <a href="http://www.acum.org.il/english/activity-scope" target="_blank">Acum</a>. © Copyrights protected.</div>
+	<div id="copyrights"><div style="float:left;margin-top:6px;">This site is legally licensed by </div><a href="http://www.acum.org.il/english/activity-scope" target="_blank" style="float:left;padding:0 6px 0 6px;"><img src="http://www.onlinepianist.com/css/images/acum.png" border="0"></a><div style="float:left;margin-top:6px;"> © Copyrights protected.</div>
 </div>
 
 
-</body></html>
+</div></body></html>
