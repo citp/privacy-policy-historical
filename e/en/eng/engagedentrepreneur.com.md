@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engagedentrepreneur.com privacy policy that was archived on 2012-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120608134258id_/http%3A//www.simplewealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagedentrepreneur.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231022832id_/http%3A//www.simplewealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SimpleWealth
 
