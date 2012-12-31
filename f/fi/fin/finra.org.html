@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the finra.org privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630225012id_/http%3A//www.finra.org/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the finra.org privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231195646id_/http%3A//www.finra.org/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
    var g_HttpRelativeWebRoot = "/web/";
@@ -107,7 +107,7 @@
 <!--SS_BEGIN_SNIPPET(fragment11,Title)-->
 
   <title>	
-	FINRA - FINRA Website Privacy Policy
+		FINRA Website Privacy Policy - FINRA
 			</title><!--SS_END_SNIPPET(fragment11,Title)-->
 
 <!--SS_BEGIN_SNIPPET(fragment1,Header)-->				<link rel="stylesheet" type="text/css" href="/web/fragments/fnrw_logo/finra-base.css">
@@ -163,9 +163,9 @@ newUrl += "&" + previewId + value;}
 if( g_ssSourceNodeId != _U && g_ssSourceNodeId != null )
 newUrl += "&ssSourceNodeId=" + g_ssSourceNodeId; window.location = newUrl;}
 function outsideLink(theurl)
-{ window.open("http://apps.finra.org/exitpage/1/exitpage.aspx?url="+theurl);}
+{ theurl = theurl.replace(";", "%3B");window.open("http://apps.finra.org/exitpage/1/exitpage.aspx?url="+theurl);}
 function outsidelink(theurl)
-{ window.open("http://apps.finra.org/exitpage/1/exitpage.aspx?url="+theurl);}
+{ theurl = theurl.replace(";", "%3B");window.open("http://apps.finra.org/exitpage/1/exitpage.aspx?url="+theurl);}
 function newWindow(theurl)
 { window.open(theurl);}
 function nativelink(contentId){ var newUrl = ""; 
@@ -200,7 +200,7 @@ popup.resizeTo((cWidth+10), (cHeight+25));
 
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-8282061-6']);
-_gaq.push(['_setDomainName', '.finra.org']);
+_gaq.push(['_setDomainName', 'finra.org']);
 _gaq.push(['_trackPageview']);
 
 (function() {
@@ -230,7 +230,8 @@ _gaq.push(['_trackPageview']);
  
 			<!--SS_END_SNIPPET(fragment1,HTML)-->
 
-<!--SS_BEGIN_SNIPPET(fragment2,HTML)-->				    <div id="fn-topnavdiv">
+<!--SS_BEGIN_SNIPPET(fragment2,HTML)-->				    
+    <div id="fn-topnavdiv">
       <ul class="finra-nav">
         <li class="fn-topnav"><a href="/">FINRA Home</a></li>
         <li class="fn-topnav"><a href="/AboutFINRA/">About FINRA</a></li>
@@ -238,11 +239,21 @@ _gaq.push(['_trackPageview']);
       </ul>
     </div>
     <div id="fn-topnavdiv-search">
+	    <span class="fn-homesearch-label"></span>    
     	<form name="frmBasicQuery" method="get" action="http://search.finra.org/search" id="frmBasicQuery">
-    		<input name="q" class="TopMenuSearchField" id="FinraSearch" value="" size="16"><input type="hidden" name="filter" value="0"><input type="hidden" name="entqr" value="0"><input type="hidden" name="ie" value="UTF-8"><input type="hidden" name="ud" value="1"><input type="hidden" name="oe" value="UTF-8"><input type="hidden" name="site" value="fnrw_global"><input type="hidden" name="client" value="fnrw_global"><input type="hidden" name="output" value="xml_no_dtd"><input type="hidden" name="proxystylesheet" value="fnrw_global"><input class="TopMenuSearchFieldButton" type="image" src="/web/groups/corporate/@corp/documents/web_asset/p075339.gif">
+    		<input name="q" class="TopMenuSearchField" id="FinraSearch" value="" size="25">
+			<input class="TopMenuSearchFieldButton" type="image" src="/web/groups/corporate/@corp/documents/web_asset/p075339.gif">
+    		<input type="hidden" name="filter" value="0">
+    		<input type="hidden" name="entqr" value="0">
+    		<input type="hidden" name="ie" value="UTF-8">
+    		<input type="hidden" name="ud" value="1">
+    		<input type="hidden" name="oe" value="UTF-8">
+    		<input type="hidden" name="site" value="fnrw_global">
+    		<input type="hidden" name="client" value="fnrw_global">
+    		<input type="hidden" name="output" value="xml_no_dtd">
+    		<input type="hidden" name="proxystylesheet" value="fnrw_global">			
     	</form>
     </div>
-      
   </div>
 			<!--SS_END_SNIPPET(fragment2,HTML)-->
 
