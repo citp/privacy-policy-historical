@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234854id_/http%3A//www.food52.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231110810id_/http%3A//www.food52.com/home/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Food52 - food community, recipe search and cookbook contests
 
@@ -41,6 +41,10 @@ However, Food52 Inc. may need to disclose personally identifiable information ("
 **Third Party Advertising**
 
 In order to continue to offer our services at reasonable charges to our users, Food52 Inc. permits third party advertisers to provide advertisements to you through the Web Site. Food52 Inc. DOES NOT provide any personal account information to such advertisers; however, Food52 Inc. may provide personal preference information to these advertisers in order that we may serve you better. In addition, such advertisers may download cookies onto your computer, which would enable them to recognize your computer each time they send you an advertisement. As a result, the advertising network would have the ability to deliver targeted advertisements that they believe would be of most interest to you. Food52 Inc. does not have access to or control of the cookies that may be placed by third party advertisers.
+
+**Notice Regarding Online behavioural Advertising**
+
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
 
 **Security**
 
