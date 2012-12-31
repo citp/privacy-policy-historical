@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotivecraze.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528184547id_/http%3A//www.automotivecraze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivecraze.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231085243id_/http%3A//www.automotivecraze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,5 +14,3 @@ Automotive Craze understands the concerns people have about privacy and safety w
 
 If you have any questions at all about our Privacy Policy or our Web site, [ please send us a message](mailto:admin@automotivecraze.com).  
 Thank you for visiting our site.
-
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
