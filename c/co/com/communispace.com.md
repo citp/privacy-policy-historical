@@ -1,44 +1,79 @@
-> *The following text is extracted and transformed from the communispace.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422113213id_/http%3A//www.communispace.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communispace.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231040604id_/http%3A//www.communispace.com/privacy.aspx) for the most accurate reproduction.*
 
-# Communispace Privacy Policy
+# Website Privacy Policy | Communispace
 
-The following Privacy Policy applies to your use of this web site.  If you have questions or concerns regarding this Privacy Policy, you should first contact Communispace Corporation’s privacy office by sending an email to [privacy at communispace.com](mailto:Privacy@communispace.com).
+This Privacy Policy discloses the practices of Communispace Corporation concerning information we obtain by and through your use of the Communispace website (the "Site") and/or online market research communities hosted and conducted by Communispace (a "Community"). Communispace is committed to respecting your privacy and recognizing your need for appropriate protection and management of any personal information you share with us. The purpose of this privacy policy is to explain the types of information Communispace obtains about visitors to our Site and members of Communispace's online Communities, how the information is obtained, how it is used, and the choices you have regarding our use of, and your ability to review and correct, the information. By using the Site or participating in a Community, you are accepting and consenting to the use of your information as described in this policy.
 
-**Notification of Changes**  
+## What Information We Collect and How We Use it
 
-We may change or revise this Privacy Policy from time to time by updating this posting.  Community members will also find their community Privacy Policy and any updates posted within the community.  
+The information we collect on our Site and through Communities generally fall into the following two categories: Personally Identifiable Information and Non-Personally Identifiable Information. Personally Identifiable Information refers to information that lets us know the specifics of who you are. The Personally Identifiable Information we may collect when you use our Site or become a member of a Community may include, for example, your name and e-mail address. Non-Personally Identifiable Information refers to information that does not by itself identify a specific individual. If we do combine Non-Personally Identifiable Information with Personally Identifiable Information, the combined information will be treated as personal information for as long as it remains combined.
 
-**Privacy**  
+In general, any information you provide may be used in the following ways:
 
-Communispace may collect and store information about your use of this web site on an anonymous, aggregate basis. We use this information solely to improve the web site.
+a) to determine whether you meet the criteria for online market research projects conducted by Communispace (a "Community");   
+b) to communicate with you regarding Communispace's services and/or your participation in a Community;   
+c) for market research conducted on behalf of a Communispace client;  
+d) to analyze, evaluate and/or improve Communispace's website, services and/or market research tools.
 
-Additionally, you may choose to share personally identifiable information, for example your name or email address, by completing a form on this web site.  When you provide personally identifiable information to us, we may ask if you want to receive future marketing information and communication from us, such as newsletters, email or other information. You can choose not to receive this communication, if you wish. If you have already chosen to receive such communication, you can ask us to stop by clicking the opt-out link on any email communication, or by emailing a request to [privacy at communispace.com](mailto:Privacy@communispace.com). 
+## Information Provided Through Our Website
 
-Your personally identifiable information may also be used to help us track the way you use our site and our products. We may also combine the information you provide with information that we collect separately, including information you have provided to other organisations (with consent that it can be shared) as well as public information.  All of this information will help us to better understand your needs and how we can improve our products and services. **** In order to do this, we may also share your information with companies who carry out work for us. These companies have agreed to only use your information in the way we tell them and to have procedures in place to protect that information. 
+You may choose to share Personally Identifiable Information, for example your name or email address, by completing a form on this website. When you provide Personally Identifiable Information to us, we may ask if you want to receive future marketing information and communication from us, such as newsletters, email or other information. You can choose not to receive this communication, if you wish. If you have already chosen to receive such communication, you can ask us to stop by clicking the opt-out link on any email communication, or by emailing a request to [helpdesk@communispace.com.](mailto:helpdesk@communispace.com)
 
-If we share your information with a company, other than as set out above, we will contact you first and give you the opportunity to remove your information from our database unless you have already given your consent to this.
+Your information may also be used to help us track the way you use our site and our products. We may also combine the information you provide with information that we collect separately, including information you have provided to other organizations (with consent that it can be shared) as well as public information. All of this information will help us to better understand your needs and how we can improve our products and services. In order to do this, we may also share your information with companies who carry out work for us. These companies have agreed to only use your information in the way we tell them and to have procedures in place to protect that information. We do not share the information you provide with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure.
 
-Some communities may collect sensitive personal information (e.g. ethnicity, income, education, etc.).  Communispace does so solely for the purpose of creating a balanced community reflective of Communispace Corporation’s consumer population or its segments.  Such information is not collected for any discriminatory purposes. You will always retain the right not to answer any question regarding personal information with which you do not feel comfortable.
+## Use of Cookies
 
-If you do not want your personally identifiable information collected, please do not submit it to us. If you have already submitted this information and would like us to remove it from our records, please contact your community facilitator or [privacy at communispace.com](mailto:Privacy@communispace.com). If you want to correct any personally identifiable information that you already submitted, please contact please contact your community facilitator or [privacy at communispace.com](mailto:Privacy@communispace.com). 
+Our Site uses or may use "cookies" to gather Non-Personally Identifiable Information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Generally, we use cookies to store information, such as your email address, user name and/or password, about your preferences and activity during and after your visit to a website. By using the Site and/or participating in a Community, you consent to Communispace's use of "cookies."
 
-Personal information collected on this web site or in a community may be stored or processed in your country of residence or any other country in which Communispace Corporation or its affiliates, subcontractors or agents maintain facilities and by using the site, you consent to any transfer of information outside your country of residence.  Communispace Corporation will ensure that if information is transferred outside your country of residence it will be treated in accordance with applicable data protection laws. 
+Most browsers automatically accept cookies, but you can usually refuse cookies, or selectively accept certain cookies, by adjusting the preferences in your browser. If you turn off cookies, though, there may be some features and functions of our Site and Communities that will not be available to you and some pages may not display properly.
 
-Further, any of your personally identifiable information may be directed to a third party site administered and hosted by a third party vendor retained by Communispace Corporation provided, that in such event, the third party vendor will have no right to use any such information other than uses necessary to fulfill its services to Communispace Corporation.
+## Information Provided Through Communities
 
-Communispace Corporation will retain your information for a reasonable period and not longer than allowed by the law.
+Your selection for and/or participation in an online Community may require you to submit Personally Identifiable Information to Communispace. This information will be used for market research purposes and to contact you regarding Community participation and not for direct marketing purposes (however, if you have provided your information to Communispace in other ways, such as through our website, we may use your information to contact you as set forth above).
 
-In cases with EU community members, in accordance with the EU Data Directive, we will retain your personal information securely per the provisions above and will dispose of this data no later than 2 weeks after the term of the community has come to an end.
+In some circumstances, the information you provide may include sensitive personal information (ethnicity, income, education, etc.). Communispace collects such sensitive information solely for meeting Communispace's (and its client's) market research goals, specifically, collecting this sensitive information allows Communispace and its client to create a balanced community reflective of a certain consumer population or its segments. Such information is not collected for any discriminatory purposes. You will always retain the right not to answer any question with which you do not feel comfortable.
 
-**Links to Third Party Sites**  
+If you are a Community Member and participate in Community Activities, we may share your information with the Sponsor for whom the market research is conducted. In most cases, your information is shared with Community Sponsors only on an aggregate and anonymous basis. In some cases, however, Communispace may share your Personally Identifiable Information with the Community Sponsor or the Sponsor may have access to that information in the Community. In these circumstances, your personal information may be handled in accordance with the Sponsor's privacy policy, a copy of which will be made available through your Community, but the Sponsor's use of your information will also be consistent with the purposes set forth above.
 
-This web site may contain links to other websites for informational purposes and are not intended to suggest any affiliation with Communispace Corporation unless expressly stated. The reliability, availability and performance of these other web sites is beyond Communispace Corporation’s control, and Communispace makes no representations or warranties with respect to such websites.  Communispace provides these links to you only as a convenience, and the inclusion of any link to such websites does not imply endorsement by Communispace of those websites. Communispace reserves the right to terminate any link or linking program at any time. 
+## Special Circumstances
 
-**Safe Harbor Compliance**  
+Other than as set forth above, we may use and/or disclose your information, including your Personally Identifiable Information, in the following circumstances:
 
-Communispace has certified its participation, and compliance with, the U.S. Department of Commerce Safe Harbor framework regarding the transfer of personal information from European Union member countries to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access and enforcement. Additional information about the Safe Harbor principles and certification process can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor/). 
+  * To enforce, and/or investigate violations of, our site Terms of Use, a Community Member Agreement, and/or this Policy.
+  * Although unlikely, your Personally Identifiable Information maybe disclosed to the governments, courts, law enforcement  
+or regulatory agencies under a lawful order in a jurisdiction where you are located and/or where your personal information is stored  
+and/or processed. You cannot opt out of disclosure of your personal information if required by lawful order.
 
-Communispace Corporation  
-100 Talcott Avenue  
-Watertown, MA 02472  
-(617) 607-1400
+
+
+## How We Protect Your Information
+
+We use reasonable technological and physical safeguards to protect Personally Identifiable Information you provide to us from loss, misuse and unauthorized access, disclosure, alteration and destruction. We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it.
+
+## Storage and Processing of Personal Information
+
+Personally Identifiable Information collected on this website or in a Community may be hosted, stored, processed, or supported in your country of residence or any other country in which Communispace Corporation or its affiliates, subcontractors or agents maintain facilities and by using the site or participating in a Community, you consent to any transfer of information outside your country of residence. If information is transferred outside your country of residence it will be treated in accordance with applicable data protection laws. 
+
+Further, any of your Personally Identifiable Information may be directed to a third party site administered and hosted by a third party vendor retained by Communispace Corporation for processing provided, that in such event, the third party vendor will have no right to use any such information other than uses necessary to fulfill its services to Communispace Corporation.
+
+Communispace Corporation will retain your information for a reasonable period and not longer than allowed by applicable law.
+
+## How to Correct or Remove Personally Identifiable Information
+
+If you do not want your personally identifiable information collected, please do not submit it to us. If you have already submitted this information and would like us to correct or remove it from our records, please contact your community facilitator or [helpdesk@communispace.com](mailto:helpdesk@communispace.com).
+
+## Safe Harbor Compliance
+
+Communispace has certified its participation, and compliance with, the U.S. Department of Commerce Safe Harbor framework regarding the transfer of personal information from European Union member countries and Switzerland to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access and enforcement. Additional information about the Safe Harbor principles and certification process can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+
+## Links to Third Party Sites and/or Integration with Third Party Services
+
+Our Site and Communities may interface with third party sites and services, (for example, Facebook® or other third party applications or services). Our Site and Communities may also contain links to websites operated and maintained by third parties, over which we have no control. 
+
+Privacy policies for these third party site sand services may be different from our privacy policy. You access these third party sites and services at your own risk. You should always read the privacy policy of a linked site or integrated service before disclosing any personal information on such site and/or through such service. Communispace is not responsible for information you submit to third parties.
+
+Currently, to help facilitate login to our communities, we may offer in some Communities, at the Sponsor's discretion, a sign-on service that allows you to sign into your Community using login credentials from your Facebook® account. This allows you to associate your existing Facebook® profile with your Communispace account. By linking these accounts, Communispace will have access to certain profile information contained within your Facebook® profile such as your full name, e-mail, locale, gender, profile picture, as well as other publicly available profile information. No Community content will ever be shared on Facebook® without your express permission. You can disassociate your Facebook® account from your Community account at any time by clicking "Unlink" on your Member Profile page. 
+
+## Questions or Feedback 
+
+If you have any questions or comments regarding our privacy policy and practice, please email us at [helpdesk@communispace.com](mailto:helpdesk@communispace.com).
