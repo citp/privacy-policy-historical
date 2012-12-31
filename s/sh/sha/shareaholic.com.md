@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shareaholic.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629112407id_/http%3A//www.shareaholic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareaholic.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231132135id_/http%3A//www.shareaholic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Shareaholic
 
-Your Privacy is of the highest concern to us.
+Your Privacy is important to us.
 
-Effective October 07, 2011
+Effective May 01, 2012
 
 The Really Big Picture
 
@@ -13,7 +13,7 @@ Your privacy is critically important to us. At Shareaholic we have a few fundame
   * We don't ask you for personal information unless we truly need it. (We can't stand services that ask you for things like your gender or income level for no apparent reason.)
   * We don't share your personal information with anyone except to comply with the law, develop and operate our products, or protect our rights.
   * We don't store personal information on our servers unless required for the on-going operation of one of our services.
-  * In our products, we aim to make it as simple as possible for you to control what's visible to the public, kept private, and permanently deleted.  
+  * In our products, we aim to make it as simple as possible for you to control what's visible to the public and kept private.  
 
 
 
@@ -26,7 +26,7 @@ This Privacy Policy covers Shareaholic's treatment of personal information gathe
 
 Keeping Information Secure
 
-Shareaholic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. These include internal reviews of our data collection, storage and processing practices and security measures.
+Shareaholic takes measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. These include internal reviews of our data collection, storage and processing practices and security measures.
 
 We restrict access to personal information to Shareaholic employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
@@ -52,7 +52,7 @@ Shareaholic users who do not wish to have cookies placed on their computers shou
 
 **Opt-out Choices:** We believe that providing you targeted and more relevant advertising enhances your internet experience. This is also how we support our business with services that are free to you. If however, you prefer that we do not use cookies to collect information about your browsing pattern for the purpose of delivering targeted advertising, you may opt out at any time by clicking on our "Opt-Out" link [here](https://web.archive.org/privacy/choices).
 
-  * **Third Party Cookies:** The use of cookies by our partners and service providers is not covered by our privacy statement. We do not have access or control over these cookies. From time-to-time, Shareaholic engages third parties to track and analyze usage and volume statistical information from individuals who visit our websites. Shareaholic may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it.
+  * **Third Party Cookies:** The use of cookies by our partners and service providers is not covered by our privacy statement. We do not have access or control over these cookies. From time-to-time, Shareaholic may engage third parties to track and analyze usage and volume information from individuals who visit our websites or on third-party websites that have included Shareaholic code. Shareaholic may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it.
 
 Shareaholic also contracts with third-party advertising networks that collect IP addresses and other website navigational information on our websites and emails and on third-party websites. Ad networks follow your online activities over time by collecting website navigational information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other websites. This process also helps us manage and track the effectiveness of our marketing efforts. To learn more about these and other advertising networks and their opt-out instructions, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
@@ -67,9 +67,9 @@ Shareaholic may use information from Web beacons in combination with Data About 
   * **Links:** Shareaholic may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our services.
   * **Location data:** Shareaholic may offer location-enabled services. If you use those services, Shareaholic may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location (such as a cell ID).
   * **Local storage:** Shareaholic may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
-  * **User Profile information:** Certain information collected during registration and subsequent visits, such as your full name and location, may be displayed to other Shareaholic users in your User Profile. The User Profile is the area on Shareaholic where we allow you to tell other Shareaholic users about yourself and your interests. You may control what personal information is displayed in your User Profile by visiting the Settings section of your User Profile at any time.
+  * **User Profile information:** Certain information collected during registration and subsequent visits, such as your full name and location, may be displayed to other Shareaholic users in your User Profile. The User Profile is the area on Shareaholic where we allow you to tell other Shareaholic users about yourself and your interests.
   * **Member Directory:** The e-mail address that you submit upon registration may be searchable by other Shareaholic users who know you by your email address, unless you choose to opt out of this feature. This is primarily so that other users can find you to establish a connection on Shareaholic. You may opt-out of this feature at any time by visiting the Settings section of your User Profile.
-  * **Aggregated statistics:** We may share with third parties certain pieces of aggregated, non-personal information such as the number of users who engaged in a particular topic, correlations between sharing and item preferences, and how many users chose to share a piece of content. Such information does not identify you individually.
+  * **Aggregated statistics:** We may share with third parties certain pieces of aggregated, non-personal information such as but not limited to the number of users who engaged in a particular topic, correlations between sharing and item preferences, and how many users chose to share a piece of content.
   * **Other sites:** This Privacy Policy applies to Shareaholic services only. We do not exercise control over the sites that include Shareaholic applications, products or services, or links from within our various services. These other third party sites operate under their own privacy and security policy and may place their own cookies or other files on your computer, collect data or solicit personal information from you. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's privacy policy. We encourage you to review the privacy policies of any other service provider from whom you request services.  
 
 
