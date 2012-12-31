@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbtech.co.nz privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626043127id_/http%3A//www.pbtech.co.nz/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbtech.co.nz privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231082529id_/http%3A//www.pbtech.co.nz/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # PB Tech - Computer Parts, PC Components, Laptop Computers, LCD Monitors, Tablets and more!
 
@@ -14,7 +14,7 @@ Only specified PB Technologies Ltd employees are able to access your personal da
 
 We may disclose aggregated shopper statistics, but none of these statistics will contain any information about identifiable customers and their individual shopping habits.
 
-Certain information may be made accessible to other persons or body corporate engaged by PB Technologies Ltd for or in relation to any of the purposes listed in �use of information� of the [Terms and Conditions](http://www.pbtech.co.nz/index.php?p=terms).
+Certain information may be made accessible to other persons or body corporate engaged by PB Technologies Ltd for or in relation to any of the purposes listed in use of information of the [Terms and Conditions](http://www.pbtech.co.nz/index.php?p=terms).
 
 Storage of personal information
 
@@ -23,3 +23,6 @@ We are aware that you may be concerned about the privacy and confidentiality of 
 What is PB Technologies Ltd policy on allowing me to view and update my personal information?
 
 You are able to access and change personal information held by PB Technologies Ltd in the "My Account" area.
+
+PB Technologies Ltd does not store, or process the credit cards.  
+Direct Payment Solutions processes transactions for New Zealand, and EFTPOS New Zealand LTD processes our Australian transactions. 
