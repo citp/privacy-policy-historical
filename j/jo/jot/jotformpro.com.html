@@ -1,28 +1,29 @@
-<!--The following is the downloaded HTML source of the jotformpro.com privacy policy that was archived on 2012-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120627224959id_/http%3A//jotformpro.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jotformpro.com privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231021324id_/http%3A//www.jotformpro.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title> Privacy Policy</title>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cms.interlogy.com/js/minify-js.js?v=1340812921"></script><script type="text/javascript">var jot_config = {KIT_LIVE_URL: "http://cms.interlogy.com/",KIT_URL: "http://cms.interlogy.com/memberkit/", JOT_URL: "http://www.jotform.com/"};var jcm_server = 'http://www.jotformpro.com/jcm/'</script>
-<link type="text/css" href="http://cms.interlogy.com/css/minify-css.css?V=1340812921" rel="stylesheet"><meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cms.interlogy.com/js/minify-js.js?v=1356905442"></script><script type="text/javascript">var jot_config = {KIT_LIVE_URL: "http://cms.interlogy.com/",KIT_URL: "http://cms.interlogy.com/memberkit/", JOT_URL: "http://jotpoll.com/"};var jcm_server = 'http://www.jotformpro.com/jcm/'</script>
+<link type="text/css" href="http://cms.interlogy.com/css/minify-css.css?V=1356905442" rel="stylesheet"><meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
 <meta name="HandheldFriendly" content="true">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <meta http-equiv="X-UA-Compatible" content="ie=8"> <!-- Styles -->
-<link rel="stylesheet" type="text/css" href="http://max.jotfor.ms/css/style.css?3.0.3667">
-<link rel="stylesheet" type="text/css" href="http://max.jotfor.ms/css/fancy.css?3.0.3667">
-<link type="text/css" rel="stylesheet" href="http://max.jotfor.ms/sprite/context-menu.css?3.0.3667">
-<link type="text/css" rel="stylesheet" href="http://max.jotfor.ms/sprite/index.css?3.0.3667">
+<link rel="stylesheet" type="text/css" href="http://max.jotfor.ms/css/style.css?3.1.1253">
+<link rel="stylesheet" type="text/css" href="http://max.jotfor.ms/css/fancy.css?3.1.1253">
+<link type="text/css" rel="stylesheet" href="http://max.jotfor.ms/sprite/context-menu.css?3.1.1253">
+<link type="text/css" rel="stylesheet" href="http://max.jotfor.ms/sprite/index.css?3.1.1253">
+<link rel="stylesheet" type="text/css" href="http://max.jotfor.ms/css/common.css?3.1.1253">
 <!-- <script src="http://max.jotfor.ms/js/snow.js" type="text/javascript"></script> -->
-<link rel="Shortcut Icon" href="http://max.jotfor.ms//favicon.ico?123&amp;v=3.0.3667"> 
+<link rel="Shortcut Icon" href="http://jotpoll.com/favicon.ico?123"> 
 <!--[if IE]>
-<link rel="stylesheet" type="text/css" href="http://www.jotform.com/css/IE.css"/> 
+<link rel="stylesheet" type="text/css" href="http://jotpoll.com/css/IE.css"/> 
 <![endif]-->
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="http://www.jotform.com/css/IE7.css"/> 
+<link rel="stylesheet" type="text/css" href="http://jotpoll.com/css/IE7.css"/> 
 <![endif]-->
 <!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" href="http://www.jotform.com/css/IE6.css" />
+<link rel="stylesheet" type="text/css" href="http://jotpoll.com/css/IE6.css" />
 <script type="text/javascript" src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js"></script> 
 <![endif]--> 
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -36,11 +37,278 @@
 </div>
 <div id="header">
 <div style="padding-top:7px;float:left;">
-<a href="http://www.jotform.com/" title="Go to JotForm Home" style="text-decoration: none;">
-<img alt="Jotform - Easiest Form Builder" id="logo-img" src="http://max.jotfor.ms/images/logo.png?3.0.3667" align="left" style="border: none;">
+<a href="http://jotpoll.com/" id="logo-url" title="Go to JotForm Home" style="text-decoration: none;">
+<img alt="Jotform - Easiest Form Builder" id="logo-img" src="http://max.jotfor.ms/images/logo.png?3.1.1253" align="left" style="border: none;">
 </a>
 </div>
-<ul id="nav" class="index-navbg">
+<script type="text/javascript">
+// to hide old login xxx
+var readyJsFilesTest = setInterval(function(){
+var navLoginLi = document.getElementById('nav-login-li');
+var oldLogin;
+if(typeof document.querySelector == "undefined"){
+//it is for ie7
+var divs = document.getElementsByTagName('div');
+for(var i in divs){
+if(divs[i].id == "signinFieldset"){
+oldLogin = divs[i];
+}
+}
+}else{
+var oldLogin = document.querySelector('#myaccount #signinFieldset');
+}
+if(window.location.search.indexOf("?p=login") > -1){
+clearInterval(readyJsFilesTest);
+navLoginLi.innerHTML = "";
+navLoginLi.style.display = "none";
+}else if(window.location.pathname == "/login"){
+clearInterval(readyJsFilesTest);
+navLoginLi.innerHTML = "";
+navLoginLi.style.display = "none";
+}else{
+if(oldLogin && navLoginLi){
+clearInterval(readyJsFilesTest);
+oldLogin.style.display = "none";
+document.getElementById('login-for-nav').style.display = "";
+}
+}
+},50);
+</script>
+<!-- for test Start -->
+<style>
+#signUpFieldset{
+position: relative;
+}
+</style>
+<ul id="nav-login" class="index-new-navbg">
+<li id="nav-login-li" class=" ">
+<a id="nav-login-open">Login</a>
+<div class="nav-dd nav-login-dd">
+<div class="nav-dd-arrow"></div>
+<ul class="nav-dd-cont">
+<li id="signinFieldset">
+<div>
+<div class="new-account-line">
+<label for="username">Username</label>
+<input type="text" id="username">
+<div id="usernameErrorDiv" class="error-div"></div>
+</div>
+<div class="new-account-line">
+<label for="password">Password</label>
+<input type="password" id="password">
+<div id="passwordErrorDiv" class="error-div"></div>
+</div>
+<div id="error-box" class="error-div"></div>
+<div class="new-account-line new-account-line-login">
+<button id="loginButton" value="">Sign In</button>
+<label for="remember"><input type="checkbox" id="remember" checked="checked">Remember Me</label>
+<span id="forgotPasswordButtonNav" value="">Forgot password?</span> 
+</div>
+</div>
+</li>
+<li id="forgotPasswordLi" style="display:none;">
+<div id="forgotPasswordFieldset">
+<div class="accountField">
+<div id="forgotPasswordDiv">
+<div class="new-account-line">
+<label for="resetData">Forgot Password?</label>
+<span>Enter your username or email.</span>
+<input type="text" id="resetData" tabindex="11" size="15">
+</div>
+<div class="new-account-line new-account-line-login">
+<button id="passResetButton" tabindex="13" value="">Send Reset Instructions</button>
+<span id="returnLoginBoxNav" tabindex="12" value="">Go back</span>
+</div>
+<div style="clear: both"></div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li id="nav-signup-li" class=" ">
+<a id="nav-signup-open">Sign Up</a>
+<div class="nav-dd nav-signup-dd">
+<div class="nav-dd-arrow"></div>
+<ul class="nav-dd-cont">
+<li>
+<form id="registrationForm" onsubmit="return false;">
+<div id="usernameField" class="new-account-line">
+<label for="suUsername">Username</label>
+<input type="text" id="suUsername" name="suUsername" autocomplete="off">
+<div id="usernameFieldMessage" class="fieldMessage">
+<div class="errorMessage error">
+<img src="http://max.jotfor.ms/images/blank.gif?3.1.1253" class="validationImage index-cross">
+<span>
+</span>
+</div>
+<div class="correctMessage correct">
+<img src="http://max.jotfor.ms/images/blank.gif?3.1.1253" class="validationImage index-tick">
+<span>
+</span>
+</div>
+<div class="neutralMessage neutral">
+<img src="http://max.jotfor.ms/images/ajax-loader.gif?3.1.1253" class="validationImage">
+<span>Checking if available...</span>
+</div>
+</div>
+</div>
+<div id="emailField" class="new-account-line">
+<label for="suEmail">Email</label>
+<input type="text" id="suEmail" name="suEmail" autocomplete="off">
+<div id="emailFieldMessage" class="fieldMessage">
+<div class="errorMessage">
+<img src="http://max.jotfor.ms/images/blank.gif?3.1.1253" class="validationImage index-cross">
+<span>
+</span>
+</div>
+<div class="correctMessage">
+<img src="http://max.jotfor.ms/images/blank.gif?3.1.1253" class="validationImage index-tick">
+<span>
+</span>
+</div>
+<div class="neutralMessage neutral">
+<img src="http://max.jotfor.ms/images/ajax-loader.gif?3.1.1253" class="validationImage">
+<span>Checking if available...</span>
+</div>
+</div>
+</div>
+<div id="passwordField" class="new-account-line">
+<label for="suPassword">Password</label>
+<input type="password" id="suPassword" name="suPassword" autocomplete="off">
+<div id="passwordFieldMessage" class="fieldMessage">
+<div class="errorMessage">
+<img src="http://max.jotfor.ms/images/blank.gif?3.1.1253" class="validationImage index-cross">
+<span>Password cannot be left blank.</span>
+</div>
+<div class="correctMessage">
+<img src="http://max.jotfor.ms/images/blank.gif?3.1.1253" class="validationImage index-tick">
+<span>Password OK.</span>
+</div>
+</div>
+</div>
+<div id="passwordConfField" class="new-account-line">
+<label for="suPasswordConf">Confirm Password</label>
+<input type="password" id="suPasswordConf" name="suPasswordConf" autocomplete="off">
+<div id="passwordConfFieldMessage" class="fieldMessage">
+<div class="errorMessage">
+<img src="http://max.jotfor.ms/images/blank.gif?3.1.1253" class="validationImage index-cross">
+<span>
+</span>
+</div>
+<div class="correctMessage">
+<img src="http://max.jotfor.ms/images/blank.gif?3.1.1253" class="validationImage index-tick">
+<span>Password Confirmation OK.</span>
+</div>
+</div>
+</div>
+<div id="registrationError" class="error new-account-line"></div>
+<div class="new-account-line-login">
+<button id="signupButton" value="">Create My Account</button>
+</div>
+</form>
+</li>
+<div style="display:none;"></div>
+</ul>
+</div>
+</li>
+</ul><ul id="nav-profile" class="index-new-navbg" style="display:none;">
+<li id="nav-profile-li" class="">
+<a id="nav-profile-open" class=" nav-acc"><img id="nav-profile-open-img" src="http://jotpoll.com/../images/common/ic-user-big-active.png"></a>
+<div id="logoutNavSub" class="nav-dd nav-acc-dd">
+<div class="nav-dd-arrow"></div>
+<ul class="nav-dd-cont">
+<li class=" profile">
+<img id="nav-gravatar" src="http://max.jotfor.ms/images/blank.gif?3.1.1253">
+<div id="nav-profile-username"></div>
+<a id="nav-myaccount" href="http://jotpoll.com/myaccount/">Account</a> — <a id="nav-logout" href="http://cms.interlogy.com/logout.php">Logout</a>
+</li>
+<div class="stats-table" style="padding: 10px 8px 10px 22px;">
+<div class="stats-container" style="padding-top:0;border-top:none;">
+<img src="http://max.jotfor.ms//images/myforms/new/status-submissions.png?3.1.1253">
+<p>Submissions</p>
+<div class="bar-out"><div class="bar-in" id="bar-submissions-nav"></div></div>
+<p><span id="usage-submissions-nav">0</span> of <span id="limit-submissions-nav">0</span> used</p>
+</div>
+<div class="stats-container">
+<img src="http://max.jotfor.ms//images/myforms/new/status-upload-space.png?3.1.1253">
+<p>Upload space</p>
+<div class="bar-out"><div class="bar-in" id="bar-uploads-nav"></div></div>
+<p><span id="usage-uploads-nav">0</span> of <span id="limit-uploads-nav">0</span> used</p>
+</div>
+<div class="stats-container">
+<img src="http://max.jotfor.ms//images/myforms/new/status-payments.png?3.1.1253">
+<p>Payment submissions</p>
+<div class="bar-out"><div class="bar-in" id="bar-payments-nav"></div></div>
+<p><span id="usage-payments-nav">0</span> of <span id="limit-payments-nav">0</span> used</p>
+</div>
+<div class="stats-container" style="padding-bottom:0;border-bottom:none;">
+<img src="http://max.jotfor.ms//images/myforms/new/status-ssl.png?3.1.1253">
+<p>Secure SSL submissions</p>
+<div class="bar-out"><div class="bar-in" id="bar-ssl-nav"></div></div>
+<p><span id="usage-sslSubmissions-nav">0</span> of <span id="limit-sslSubmissions-nav">0</span> used</p>
+</div>
+</div>
+</ul>
+</div>
+</li>
+</ul>
+<!-- for test End -->
+<!-- sale button image styling -->
+<style>
+.sale-banner {
+background: url(/images/sale-button.png) 0 0 no-repeat;
+width: 150px;
+height: 42px;
+border: none;
+left: 1px;
+top: 0px;
+}
+.sale-banner:hover {
+background-position: 0 -49px;
+}
+#nav-signup-li {
+background-color: transparent;
+}
+.sale-banner a{
+height: 20px;
+}
+</style>
+<ul id="new-nav" class="index-new-navbg">
+<li class=" "><a href="http://www.jotform.com/myforms/">My Forms</a></li>
+<li class=""><a href="http://www.jotform.com/form-templates/">Form Templates</a></li>
+<li id="navHelp" class=" "><a id="navHelpA">Support <span id="navHelpSpan" style="padding-left: 3px;font-size: 70%;">▼</span></a>
+<div id="navHelpSub" class="nav-dd nav-help-dd"> 
+<div class="nav-dd-arrow"></div>
+<ul class="nav-dd-cont">
+<li class=" "><a href="http://www.jotform.com/faq/">FAQ</a></li>
+<li class=" "><a href="http://www.jotform.com/help/">User Guide</a></li>
+<li class=" "><a href="http://www.jotform.com/answers/">Forum</a></li>
+<li class=" "><a href="http://www.jotform.com/contact/">Contact Us</a></li>
+</ul>
+</div>
+</li>
+<!-- temporary sale button -->
+<li id="pricing-banner" class=" navPremium ">
+<a href="http://jotpoll.com/pricing">Pricing</a>
+</li>
+<script type="text/javascript">
+if(document.getElementById("pricing-banner") != null){
+document.getElementById("pricing-banner").onclick = function(){
+location.href = "/upgrade_professional?banner=premium_nav";
+} 
+}
+</script>
+<!-- this is actual pricing button, this part will be commented for christmas sale -->
+<!-- 
+<li class=" navPremium ">
+<a href="http://jotpoll.com/upgrade_professional/?banner=premium_nav" class="locale">Pricing
+</a>
+</li>
+-->
+</ul>
+<ul id="nav" class="index-navbg" style="display:none">
 <li style="position:relative;" class="navItem "><a href="http://www.jotform.com/myforms/">My Forms</a></li>
 <li class="navItem"><a href="http://www.jotform.com/form-templates/" style="padding: 9px 14px 13px;white-space: nowrap">Form Templates</a></li>
 <li class="navItem "><a href="http://www.jotform.com/faq/">FAQ</a></li>
@@ -48,9 +316,17 @@
 <li class="navItem "><a href="http://www.jotform.com/answers/">Forum</a></li>
 <li class="navItem navPremium "><a href="http://www.jotform.com/pricing/">Pricing</a></li>
 </ul>
+<script>
+if(navigator.userAgent.indexOf("MSIE 7") > -1){
+document.getElementById('nav').style.display = "";
+document.getElementById('new-nav').style.display = "none";
+document.getElementById('nav-login').style.display = "none";
+document.getElementById('nav-profile').style.display = "none";
+}
+</script>
 </div><div id="mTitleBar">
 <h1 class="header">
-<a href="http://www.jotformpro.com/help/">
+<a href="http://www.jotform.com/help/">
 User Guide
 </a>
 </h1>
@@ -64,7 +340,7 @@ User Guide
  <a href="http://www.jotformpro.com/help/tag/Security" style="text-decoration:none;"><span class="checkBoxSpan" id="Security">Security</span></a> 
  <hr> <h2 class="title">Related Articles</h2><ul class="documentList"> <li><a href="http://www.jotformpro.com/help/131-Enabling-Security-Certificate-Seal-on-Secure-Forms">Enabling Security Certificate Seal on Secure Forms</a></li></ul> <hr>
  <h2 class="title">Related Forum Questions</h2>
- <ul class="documentList"> <li><a href="http://www.jotformpro.com/answers/109438-How-do-I-make-my-form-secure">How do I make my form secure?</a></li> <li><a href="http://www.jotformpro.com/answers/108948-Is-there-a-security-or-privacy-emblem-or-disclaimer-which-we-can-provid">Is there a security or privacy emblem or disclaimer which we can provid</a></li> <li><a href="http://www.jotformpro.com/answers/106959-How-can-I-ensure-that-confidential-information-is-kept-confidential">How can I ensure that confidential information is kept confidential?</a></li> <li><a href="http://www.jotformpro.com/answers/95982-Potential-Security-flaw-when-cloning-forms">Potential Security flaw when cloning forms</a></li> <li><a href="http://www.jotformpro.com/answers/95688-Can-I-insert-login-and-password-for-a-customer-log-in-and-answer-my-questions">Can I insert login and password for a customer log in and answer my questions??</a></li> <li><a href="http://www.jotformpro.com/answers/95445-Content-was-blocked-because-it-was-not-signed-by-a-valid-security-certificate-">Content was blocked because it was not signed by a valid security certificate.</a></li> <li><a href="http://www.jotformpro.com/answers/93627-Name-of-site-does-not-match-name-of-certificate">Name of site does not match name of certificate?</a></li> <li><a href="http://www.jotformpro.com/answers/92651-Security-certificate-error-on-JotForm-emails">Security certificate error on JotForm emails</a></li> <li><a href="http://www.jotformpro.com/answers/85269-The-Click-To-Verify-link-on-the-SSL-Secured-Image-that-we-can-add-to-our-forms-does-not-work-">The "Click To Verify" link on the SSL Secured Image that we can add to our forms does not work.</a></li> <li><a href="http://www.jotformpro.com/answers/84669-Security-Certificate-Issues-Again">Security Certificate Issues Again</a></li></ul> <hr> </div>
+ <ul class="documentList"> <li><a href="http://www.jotformpro.com/answers/159120-Add-hyperlink-to-selected-parts-of-a-checkbox-option">Add hyperlink to selected parts of a checkbox option</a></li> <li><a href="http://www.jotformpro.com/answers/158522-Adding-a-check-box-AND-a-link-file">Adding a check box AND a link/file</a></li> <li><a href="http://www.jotformpro.com/answers/155399-Wrong-account-">Wrong account!!!!</a></li> <li><a href="http://www.jotformpro.com/answers/154705-IE-user-getting-Security-Ceritficate-Error-when-they-hit-submission-button-on-questionnaire-">IE user getting Security Ceritficate Error when they hit submission button on questionnaire...</a></li> <li><a href="http://www.jotformpro.com/answers/148270-How-do-I-know-our-form-is-secure">How do I know our form is secure</a></li> <li><a href="http://www.jotformpro.com/answers/144764-How-do-I-actually-add-the-CAPTCHA-to-my-forms">How do I actually add the CAPTCHA to my forms?</a></li> <li><a href="http://www.jotformpro.com/answers/139374-Database-Security">Database Security</a></li> <li><a href="http://www.jotformpro.com/answers/135326-Internet-Explorer-has-blocked-website-from-displaying-content-with-security-certificate-errors-">Internet Explorer has blocked website from displaying content with security certificate errors...</a></li> <li><a href="http://www.jotformpro.com/answers/134107-How-can-i-check-the-security-of-an-ssl-form">How can i check the security of an ssl form</a></li> <li><a href="http://www.jotformpro.com/answers/133026-Users-are-receiving-site-is-insecure-error-when-submitting-via-ssl-How-can-I-fix-this">Users are receiving 'site is insecure' error when submitting via ssl. How can I fix this?</a></li></ul> <hr> </div>
 <div class="mainPanel"> <div class="navigation">
  <a href="http://www.jotformpro.com/help/index.php">Home</a>
  <span>/</span>
@@ -98,7 +374,7 @@ User Guide
 <table width="100%">
  <tbody><tr>
  <td>
- <h3>6 Comments...</h3>
+ <h3>11 Comments...</h3>
  </td>
  <td width="300" align="right">
  <!-- <h3>
@@ -148,7 +424,7 @@ User Guide
  </tr>
  <tr><td colspan="4" class="comment_body">
  <p>Hello<br>How are you doing<br>I can translate the site from English to Arabic without any mistakes<br>And I could also translate the site from French to Arabic Language<br>Regards<br>ahmedkoko</p>
- <p><a target="_blank" href="http://www.jotformpro.com/answers/99883-HelloHow-are-you-doingI-can-translate-the-site-from-English-to-Arabic-w">See Answer for This Question...</a> </p> </td></tr>
+ <p><a target="_blank" href="http://www.jotformpro.com/answers/99883-HelloHow-are-you-doingI-can-translate-the-site-from-English-to-Arabic-w">View Answer</a> </p> </td></tr>
 </tbody></table>
 <hr id="comment-21365324889">
 <table cellpadding="4" cellspacing="0" border="0" width="100%" id="21365324889">
@@ -169,7 +445,7 @@ User Guide
  </tr>
  <tr><td colspan="4" class="comment_body">
  <p>this link<br><br>http://form.jotform.me/form/21266607946460<br><br>spam email</p>
- <p><a target="_blank" href="http://www.jotformpro.com/answers/100196-this-linkhttp-form-">See Answer for This Question...</a> </p> </td></tr>
+ <p><a target="_blank" href="http://www.jotformpro.com/answers/100196-this-linkhttp-form-">View Answer</a> </p> </td></tr>
 </tbody></table>
 <hr id="comment-21365514873">
 <table cellpadding="4" cellspacing="0" border="0" width="100%" id="21365514873">
@@ -190,7 +466,7 @@ User Guide
  </tr>
  <tr><td colspan="4" class="comment_body">
  <p>and this link<br><br>http://form.jotform.me/form/21351333026440<br><br>spam too</p>
- <p><a target="_blank" href="http://www.jotformpro.com/answers/100195-and-this-linkhttp-form-">See Answer for This Question...</a> </p> </td></tr>
+ <p><a target="_blank" href="http://www.jotformpro.com/answers/100195-and-this-linkhttp-form-">View Answer</a> </p> </td></tr>
 </tbody></table>
 <hr id="comment-21662935499">
 <table cellpadding="4" cellspacing="0" border="0" width="100%" id="21662935499">
@@ -211,7 +487,7 @@ User Guide
  </tr>
  <tr><td colspan="4" class="comment_body">
  <p>Here:<br>http://form.jotform.me/form/21652021722441</p>
- <p><a target="_blank" href="http://www.jotformpro.com/answers/107169-Here-http-form-">See Answer for This Question...</a> </p> </td></tr>
+ <p><a target="_blank" href="http://www.jotformpro.com/answers/107169-Here-http-form-">View Answer</a> </p> </td></tr>
 </tbody></table>
 <hr id="comment-21723936703">
 <table cellpadding="4" cellspacing="0" border="0" width="100%" id="21723936703">
@@ -232,7 +508,112 @@ User Guide
  </tr>
  <tr><td colspan="4" class="comment_body">
  <p>Is there a security or privacy emblem or disclaimer which we can provide on our side to assure clients of secure forms?<br></p>
- <p><a target="_blank" href="http://www.jotformpro.com/answers/108948-Is-there-a-security-or-privacy-emblem-or-disclaimer-which-we-can-provid">See Answer for This Question...</a> </p> </td></tr>
+ <p><a target="_blank" href="http://www.jotformpro.com/answers/108948-Is-there-a-security-or-privacy-emblem-or-disclaimer-which-we-can-provid">View Answer</a> </p> </td></tr>
+</tbody></table>
+<hr id="comment-22181738895">
+<table cellpadding="4" cellspacing="0" border="0" width="100%" id="22181738895">
+ <tbody><tr class="comment_username">
+ <td rowspan="2" style="width:40px;">
+ <img src="http://www.gravatar.com/avatar/c8d9e4e828d23aeaba29d04f2aff8628.jpg?d=identicon&amp;r=r&amp;s=40">
+ </td>
+ <td>
+ <!-- -->
+ </td>
+ <td align="right">&nbsp;</td>
+ <td width="1">&nbsp;</td>
+ </tr>
+ <tr class="comment_subject">
+ <td>
+ <b>Robyn</b> </td>
+ <td colspan="2" align="right"> (August 06, 2012 at 08:17 PM)</td>
+ </tr>
+ <tr><td colspan="4" class="comment_body">
+ <p>I did not realise my query to you would be seen publicly. Please remove it ASAP.<br><br></p>
+ </td></tr>
+</tbody></table>
+<hr id="comment-22440241809">
+<table cellpadding="4" cellspacing="0" border="0" width="100%" id="22440241809">
+ <tbody><tr class="comment_username">
+ <td rowspan="2" style="width:40px;">
+ <img src="http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?d=identicon&amp;r=r&amp;s=40">
+ </td>
+ <td>
+ <!-- -->
+ </td>
+ <td align="right">&nbsp;</td>
+ <td width="1">&nbsp;</td>
+ </tr>
+ <tr class="comment_subject">
+ <td>
+ <b>my_angel917</b> </td>
+ <td colspan="2" align="right"> (September 01, 2012 at 12:02 PM)</td>
+ </tr>
+ <tr><td colspan="4" class="comment_body">
+ <p>nice</p>
+ </td></tr>
+</tbody></table>
+<hr id="comment-22440257767">
+<table cellpadding="4" cellspacing="0" border="0" width="100%" id="22440257767">
+ <tbody><tr class="comment_username">
+ <td rowspan="2" style="width:40px;">
+ <img src="http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?d=identicon&amp;r=r&amp;s=40">
+ </td>
+ <td>
+ <!-- -->
+ </td>
+ <td align="right">&nbsp;</td>
+ <td width="1">&nbsp;</td>
+ </tr>
+ <tr class="comment_subject">
+ <td>
+ <b>my_angel917</b> </td>
+ <td colspan="2" align="right"> (September 01, 2012 at 12:02 PM)</td>
+ </tr>
+ <tr><td colspan="4" class="comment_body">
+ <p>nice</p>
+ </td></tr>
+</tbody></table>
+<hr id="comment-22971115106">
+<table cellpadding="4" cellspacing="0" border="0" width="100%" id="22971115106">
+ <tbody><tr class="comment_username">
+ <td rowspan="2" style="width:40px;">
+ <img src="http://www.gravatar.com/avatar/04b700b69b8f943212a383a5f12aef82.jpg?d=identicon&amp;r=r&amp;s=40">
+ </td>
+ <td>
+ <!-- -->
+ </td>
+ <td align="right">&nbsp;</td>
+ <td width="1">&nbsp;</td>
+ </tr>
+ <tr class="comment_subject">
+ <td>
+ <b>notiweb</b> </td>
+ <td colspan="2" align="right"> (October 24, 2012 at 01:11 PM)</td>
+ </tr>
+ <tr><td colspan="4" class="comment_body">
+ <p>Saludos<br><br>Esta cuenta pertenece a una entidad pública del estado Colombiano, hace varios meses tenemos cuenta profesional y requerimos un estado de cuenta. Como somos entidad pública nos vigilan organismos de control, estamos buscando una página interna en JOTFORM donde podamos mirar los planes que estamos comprando uno a uno cada, necesitamos un reporte de cada plan que hemos comprado. por favor ayuda con esto es urgente, además estamos felices con JOTFORM</p>
+ <p><a target="_blank" href="http://www.jotformpro.com/answers/141842-Where-to-get-invoices-receipts">View Answer</a> </p> </td></tr>
+</tbody></table>
+<hr id="comment-23100705623">
+<table cellpadding="4" cellspacing="0" border="0" width="100%" id="23100705623">
+ <tbody><tr class="comment_username">
+ <td rowspan="2" style="width:40px;">
+ <img src="http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e.jpg?d=identicon&amp;r=r&amp;s=40">
+ </td>
+ <td>
+ <!-- -->
+ </td>
+ <td align="right">&nbsp;</td>
+ <td width="1">&nbsp;</td>
+ </tr>
+ <tr class="comment_subject">
+ <td>
+ <b>guest_23103419904043</b> </td>
+ <td colspan="2" align="right"> (November 06, 2012 at 07:07 AM)</td>
+ </tr>
+ <tr><td colspan="4" class="comment_body">
+ <p>hello...<br>i open today 3 account and all of it close i ddont now way and giving me this message(Due to terms of use violation, your account has been suspended.<br>It was suspected to be used for phishing. If you think this is a mistake please contact us to resolve this issue.</p>
+ <p><a target="_blank" href="http://www.jotformpro.com/answers/145040-hello-i-open-today-3-account-and-all-of-it-close-i-ddont-now-way-and">View Answer</a> </p> </td></tr>
 </tbody></table>
 <div id="comment-form"><script> var jot_config = {KIT_LIVE_URL: "http://cms.interlogy.com/", KIT_URL: "http://cms.interlogy.com/memberkit/"}; </script>
 <script src="http://cms.interlogy.com/memberkit/jotengine/js/form.js" type="text/javascript"></script>
@@ -255,9 +636,9 @@ User Guide
  <input type="hidden" name="form_id" value="892245969">
  <input type="hidden" name="app_id" value="892245406">
  <input type="hidden" name="sid" value="9">
- <input id="spc-21784959678" type="hidden" name="spc" value="88ee7551b76016681876f5902eae2d76">
+ <input id="spc-23641325072" type="hidden" name="spc" value="88ee7551b76016681876f5902eae2d76">
  <script>
- document.getElementById('spc-21784959678').value = '88ee7551b76016681876f5902eae2d76';
+ document.getElementById('spc-23641325072').value = '88ee7551b76016681876f5902eae2d76';
  </script>
  <input type="hidden" name="redirect" value="/help/read.php?if_id=9">
  <table cellpadding="5" cellspacing="0">
@@ -318,10 +699,10 @@ User Guide
 <div class="column">
 <h3>Jotform</h3>
 <ul>
-<li><a href="http://www.jotform.com/">Form Builder</a></li>
+<li><a href="http://jotpoll.com/">Form Builder</a></li>
 <li><a href="http://www.jotform.com/myforms/">My Forms</a></li>
 <li><a href="http://www.jotform.com/form-templates/">Form Templates</a></li>
-<!--li><a href="http://www.jotform.com/">Submissions</a></li-->
+<!--li><a href="http://jotpoll.com/">Submissions</a></li-->
 <li><a href="http://www.jotform.com/pricing/">Pricing</a></li>
 </ul>
 </div>
@@ -340,24 +721,25 @@ User Guide
 <li><a href="http://www.jotform.com/answers/">Forum</a></li>
 <li><a href="http://www.facebook.com/jotform/">Facebook</a></li>
 <li><a href="http://twitter.com/jotform/">Twitter</a></li>
+<li><a href="https://www.youtube.com/user/TheJotForm/videos?view=0">YouTube</a></li>
 </ul>
 </div>
 <div class="column">
 <h3>Labs</h3>
 <ul>
-<li><a href="http://www.jotform.com/dropbox/">Dropbox Forms</a></li>
-<li><a href="http://www.jotform.com/wishbox/">Wishbox</a></li>
-<li><a href="http://www.jotform.com/fit-forms/">Fit Forms</a></li>
-<li><a href="http://www.jotform.com/iphone/">iPhone App</a></li>
+<li><a href="http://jotpoll.com/dropbox/">Dropbox Forms</a></li>
+<li><a href="http://jotpoll.com/wishbox/">Wishbox</a></li>
+<li><a href="http://jotpoll.com/iphone/">iPhone App</a></li>
+<li><a href="http://jotpoll.com/labs">more...</a></li>
 </ul>
 </div>
 <div class="column">
 <h3>About Us</h3>
 <ul>
-<li><a href="http://www.jotform.com/blog/">Blog</a></li>
-<li><a href="http://www.jotform.com/about/">About Us</a></li>
-<li><a href="http://www.jotform.com/terms/">Terms of Use</a></li>
-<li><a href="http://www.jotform.com/privacy/">Privacy</a></li>
+<li><a href="http://jotpoll.com/blog/">Blog</a></li>
+<li><a href="http://jotpoll.com/about/">About Us</a></li>
+<li><a href="http://jotpoll.com/terms/">Terms of Use</a></li>
+<li><a href="http://jotpoll.com/privacy/">Privacy</a></li>
 </ul>
 </div>
 <div class="column" id="lang-bar">
@@ -391,7 +773,7 @@ User Guide
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-1170872-7']);
 _gaq.push(['_setAllowHash', false]);
-_gaq.push(['_setDomainName', '.jotform.com']);
+_gaq.push(['_setDomainName', '.jotpoll.com']);
 _gaq.push(['_trackPageview']);
 _gaq.push(['_trackPageLoadTime']);
 (function() {
@@ -400,4 +782,22 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
-</body></html>
+<script type="text/javascript">
+var _sf_async_config={uid:40907, domain:'jotpoll.com'};
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+'js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
