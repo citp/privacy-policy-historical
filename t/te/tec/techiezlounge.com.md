@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techiezlounge.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623034054id_/http%3A//techiezlounge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techiezlounge.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010129id_/http%3A//techiezlounge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
