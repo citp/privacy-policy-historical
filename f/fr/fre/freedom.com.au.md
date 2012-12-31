@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620073736id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231172336id_/http%3A//www.freedom.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Freedom Furniture and Homewares
 
@@ -11,7 +11,7 @@ Steinhoff Asia Pacific Limited trading as Freedom and its Related Bodies Corpora
 
 ###  Now for the details
 
-At Freedom, we are fully committed to respecting your privacy. The following Privacy Policy has been published to provide a clear and concise outline of how and when personal information is collected, used, stored, and distributed by Freedom. This policy also applies to Freedom's website: [www.freedom.com.au](https://web.archive.org/web/20120620073736id_/http:/).
+At Freedom, we are fully committed to respecting your privacy. The following Privacy Policy has been published to provide a clear and concise outline of how and when personal information is collected, used, stored, and distributed by Freedom. This policy also applies to Freedom's website: [www.freedom.com.au](https://web.archive.org/web/20121231172336id_/http:/).
 
 Freedom, is bound by the Privacy Act 1988 and the National Privacy Principles set by the Federal Privacy Commissioner. For more information, visit [www.privacy.gov.au](http://www.privacy.gov.au/).
 
@@ -82,7 +82,7 @@ Links to third party web sites on www.freedom.com.au are provided solely as a co
 
 At Freedom we only want to communicate with you if you want to hear from us. If you would like to unsubscribe from receiving email Newsletters you can do so at [freedom.com.au/unsubscribe](http://staging.freedom.com.au/unsubscribe) at any time, for any reason. 
 
-Should you wish to be removed from all our mailing lists you can do so at [freedom.com.au/opt-out](http://freedom.com.au/Privacy/opt-out).
+Should you wish to be removed from all our mailing lists you can do so at [freedom.com.au/opt-out](http://freedom.com.au/privacy/opt-out).
 
 ###  Security
 
@@ -96,9 +96,9 @@ Freedom may make changes to this Privacy Policy from time to time for any reason
 
 For any further queries relating to your personal details or Freedom's Privacy Policy please contact our Privacy office on the details below:
 
-Privacy Officer  
+Privacy Officer   
 Steinhoff Asia Pacific Limited trading as Freedom  
-PO BOX 4227  
-Maryong NSW 2148  
+3 Apollo Place  
+Lane Cove NSW 2066  
 Phone: 1300 135 588  
-Fax: + 61 2 8822 8813
+Email: [privacy@steinhoff.com.au](mailto:privacy@steinhoff.com.au)
