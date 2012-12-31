@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martinguitar.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625215730id_/http%3A//www.martinguitar.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D220) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martinguitar.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231133729id_/http%3A//www.martinguitar.com/component/content/article/220.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
