@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2011-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111225121229id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231233333id_/http%3A//www.mouser.com/privacypolicy) for the most accurate reproduction.*
 
 # Mouser Electronics - Electronic Component Distributor
-
-privacypolicy_en-GB.html 
 
 At Mouser, we are committed to protecting your privacy and developing technology that gives you the most powerful and secure online experience. You can travel through most of our website without giving us any personal information but sometimes we do need it to provide services that you requested. This statement of privacy explains data collection and the use of it so please read the entire statement.
 
