@@ -1,35 +1,20 @@
-> *The following text is extracted and transformed from the brightstarcorp.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430162956id_/http%3A//www.brightstarcorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstarcorp.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231230309id_/http%3A//www.brightstarcorp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Brightstar
+# Privacy Policy | Brightstar Corp.
 
-  1. Applicability
-  2. General
-  3. Personal Information
-  4. Information Collected
-  5. Sharing With Third Parties
-  6. Cookies
-  7. Security
-  8. Children
-  9. Endorsements and Links to Other Sites
-  10. Prohibitions on Use
-  11. Violations of the Statement
-  12. Changes and Inquiries
+### 1\. Applicability
 
-
-
-### 1\. Applicability 
-
-This Privacy Policy and Security Statement (“Statement”) applies to this Web site (“Site”), which is owned and operated by Brightstar Corporation (“Brightstar” or “we”) for the purpose of providing information about certain products and services offered by the companies represented on this Site (“Sellers”). Brightstar may operate other Web sites that are governed by different privacy policies and security statements. 
+This Privacy Policy and Security Statement (“Statement”) applies to this Web site (“Site”), which is owned and operated by Brightstar Corp. (“Brightstar” or “we”) for the purpose of providing information about certain products and services offered by the companies represented on this Site (“Sellers”). Brightstar may operate other Web sites that are governed by different privacy policies and security statements.
 
 This Statement supplements Brightstar’s Terms of Use, and is incorporated into such Terms of Use. In the event of any conflict between the Terms of Use and this Statement, this Statement shall control.
 
-### 2\. General 
+### 2\. General
 
-We recognize that privacy and security are a concern for most individuals accessing the Internet. Whether you are buying one of the quality products or services offered on this Site, or just browsing our Site, we want to make you comfortable with our privacy practices and the security measures we take to protect your personal information. By visiting and by using our Site, you agree to be bound by the terms and conditions of this Statement as currently in effect. If you do not agree please do not access or use our Site. 
+We recognize that privacy and security are a concern for most individuals accessing the Internet. Whether you are buying one of the quality products or services offered on this Site, or just browsing our Site, we want to make you comfortable with our privacy practices and the security measures we take to protect your personal information. By visiting and by using our Site, you agree to be bound by the terms and conditions of this Statement as currently in effect. If you do not agree please do not access or use our Site.
 
 If we decide to change this Statement, the changes will be posted here on the Site, so please check back periodically to ensure you have the most current policy. Your continued use of this website will mean that you accept any changes to this Statement.
 
-### 3\. Personal Information 
+### 3\. Personal Information
 
 This Statement applies only to personal information collected and stored from users of our Site. Information submitted solely in a business capacity is not covered by this Statement. “Personal information” is information about a natural person that identifies a specific individual, including, but not limited to, his or her name, title, company, physical and electronic addresses, and telephone and fax numbers. A domain name or Internet Protocol address is not considered personal information.
 
@@ -48,7 +33,7 @@ This Statement applies only to personal information collected and stored from us
 
 
 
-This information does not identify you personally and is used for gathering web site statistics. Our web site logs do not identify a visitor by personal information. 
+This information does not identify you personally and is used for gathering web site statistics. Our web site logs do not identify a visitor by personal information.
 
 **If You Send Us an E-Mail:** You may choose to provide us with personal information, for example, in an e-mail to Brightstar with a comment or question. We use the information provided to improve our service to you or to respond to your request.
 
@@ -84,7 +69,7 @@ This Site uses Secure Sockets Layer (SSL) encryption technology. The SSL protoco
 
 No data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us or from this Site, and therefore you use this Site at your own risk. Once we receive your transmission, we use our best effort to ensure its security on our systems. We also cannot be responsible for criminal acts of third parties, such as “hackers,” who may seek to compromise our security measures through unlawful means. Industry-accepted security measures have been integrated into the design, implementation, and day-to-day operation of the Site.
 
-### 8\. Children 
+### 8\. Children
 
 This site is intended for use by persons over the age of 13. Brightstar does not seek to collect information about children under the age of 13. No information should be submitted to or posted on this Web site by users under 13 years of age. If a child under the age of 13 submits personal information to this Site, we delete the information as soon as we discover it and do not use it for any other purpose. Brightstar encourages parents to take an active role in their children’s use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet.
 
