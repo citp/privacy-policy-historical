@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the phaidon.com privacy policy that was archived on 2012-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120625141101id_/http%3A//www.phaidon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phaidon.com privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231020407id_/http%3A//www.phaidon.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -37,36 +37,62 @@ var dotdotpath='/';
 <script language="javascript" type="text/javascript" src="/_include/js/jquery.ratings.js"></script>
 <script language="javascript" type="text/javascript" src="/_include/js/common.js"></script>
 
+
+<script type="text/javascript" language="javascript">//<![CDATA[
+var gaJsHost=(("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//]]></script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript">//<![CDATA[
+try{
+var tracker1=_gat._getTracker("UA-2006989-1");
+tracker1._setDomainName('phaidon.com');
+tracker1._trackPageview();
+
+}catch(e){}
+//]]></script>
+
+
+
+
 </head>
 <body oncontextmenu="return false;" ondragstart="return false;">
 <div id="outline">
-<div class="container">
+<div class="container fixed_bar_cont">
 
 
 
 
+
+
+<div id="cookiebox" style="background-color:#000; width:120px; height:15px; color:#FFF; position:fixed; bottom:0; right:0; padding:10px; display:none;">
+<a href="/cookie-statement/" onclick="setCookie('phaidoncom','agree',365);" style="color:#FFF;">How we use cookies</a>
+<a href="javascript:;" onclick="setCookie('phaidoncom','agree',365); return false;" style="color:#FFF;">X</a>
+</div>
 
 
 
 
 <div class="row login_rewards">
 	<div class="left text_content">
-		<h2>Phaidon Club</h2>
 		
-		<p><a href="../register/" style="color:#FFF;">Sign up</a> for special offers and rewards</p>
+		<a href="/register/"><h2>Phaidon Club</h2></a>
+		<p><a href="/register/" style="color:#FFF;">Sign up for special offers and rewards</a></p>
 		
 		<div class="clear"></div>
 	</div>
 	<ul class="user_nav">
 		
 			
-				<li><a href="/basket/">Basket (0)</a></li>
+				<li id="basketclass"><a href="/basket/">Basket (<span id="basketTotal">0</span>)</a><span id="basketcomplete" style="display:none;"><a href="/basket/">Complete your order</a></span></li>
 			
 			
 		
 			<li><a href="/login/">Sign in</a></li>
 				
 	</ul>
+
+	<div id="minibasket" style="position:absolute; right:0px; top:41px; width:294px;"></div>
+	
 	<div class="clear"></div>	
 </div>
 
@@ -119,7 +145,7 @@ var dotdotpath='/';
 		<li><a href="/store/">Phaidon Store</a></li>
 		<li><a href="/new-releases/">New Releases</a></li>
 		<li><a href="/apps/">Phaidon Apps</a></li>
-		<li><a href="http://www.phaidon.com/editions" target="_blank" class="collectors">Collector's Editions</a></li>
+		<li><a href="/collectors-editions/" target="_blank" class="collectors">Collector's Editions</a></li>
 	</ul>
 
 
@@ -246,6 +272,7 @@ var dotdotpath='/';
 <li><a href="/site-map/">Sitemap</a></li>
 
 <li><a href="/conditions-of-use/">Conditions of use</a></li>
+<li><a href="/about-phaidon/careers-at-phaidon/ ">Careers at Phaidon</a></li>
 <li><a href="/privacy-policy/">Privacy Policy</a></li>
 <li class="last"><a href="/site-credits/">Site credits</a></li> 
 </ul>
@@ -256,25 +283,20 @@ var dotdotpath='/';
 
 
 
-<script type="text/javascript" language="javascript">//<![CDATA[
-var gaJsHost=(("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-//]]></script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript" language="javascript">//<![CDATA[
-try{
-var tracker1=_gat._getTracker("UA-2006989-1");
-tracker1._trackPageview();
-
-}catch(e){}
-//]]></script>
 
 
+<script type="text/javascript">
 
+if (getCookie('phaidoncom') != "agree")
+{
+	document.getElementById("cookiebox").style.display = "";
+}
 
-
-
-
+</script>
 <!--end Footer-->
+
+
+
 
 </div>
 </div>
