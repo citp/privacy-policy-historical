@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629232931id_/http%3A//www.papajohns.co.uk/content/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231110026id_/http%3A//www.papajohns.co.uk/content/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Papa John's - Better Ingredients, Better Pizza - Papa John's : Privacy Statement
 
