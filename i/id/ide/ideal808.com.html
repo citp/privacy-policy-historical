@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the ideal808.com privacy policy that was archived on 2012-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120510035209id_/http%3A//www.ideal808.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideal808.com privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231205243id_/http%3A//www.ideal808.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 <title>Ideal808 - Magic the Gathering MTG Singles, Yugioh Single Cards, Cardfight Vanguard, Boxes and Starter Decks! Premier Store Privacy Policy</title>
 <meta content="" name="description">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
 <meta name="alexaVerifyID" content="eudLFpqVrzPxgvGkb7oo_bv4aBQ">
-<meta http-equiv="X-UA-Compatible" content="IE=8">
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=8" > -->
 
 
 
+<link href="/files/assets/popup.css" rel="stylesheet" type="text/css">
 <meta content="CrystalCommerce" name="software">
 <!-- Latest jquery with fall back in case CDN is not available -->
 <script type="text/javascript">window.jQuery || document.write(unescape('%3Cscript%20type%3D%22text/javascript%22%20src%3D%22//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js%22%3E%3C/script%3E'))</script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery || document.write('%3Cscript%20src%3D%22/javascripts/jquery-ui/js/jquery-1.7.1.min.js%22%3E%3C/script%3E')</script><style type="text/css">.highslide img {cursor: url(https://web.archive.org/web/20121013144919/http://www.toylynx.com/files/layout/highslide/graphics/zoomin.cur), pointer !important;}.highslide-viewport-size {position: fixed; width: 100%; height: 100%; left: 0; top: 0}</style></head><body>%3Cscript%20src%3D%22/javascripts/jquery-ui/js/jquery-1.7.1.min.js%22%3E%3C/script%3E
-<script src="http://cdn3.crystalcommerce.com/javascripts/all.js?1336500946" type="text/javascript"></script>
-<meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="GEle1cboyomFFmusRSKeb/DMbGG3JOpr/0s9Nnel5DQ=">
+<script src="http://cdn4.crystalcommerce.com/javascripts/all.js?1355868882" type="text/javascript"></script>
+<meta name="csrf-param" content="authenticity_token"><meta name="csrf-token" content="w98cxwzVJjPMVPsSUPaL4nmQ9u4OtFb+fpUE3xNdXuk=">
 
 <script type="text/javascript">
   //<![CDATA[
@@ -29,14 +29,14 @@
 </script>
 <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-<link href="http://cdn1.crystalcommerce.com/stylesheets/all.css?1336500946" media="screen" rel="stylesheet" type="text/css">
+<link href="http://cdn2.crystalcommerce.com/stylesheets/all.css?1355868882" media="screen" rel="stylesheet" type="text/css">
 <script type="text/javascript">
   //<![CDATA[
     jQuery(function() { jQuery.noConflict(); });
   //]]>
 </script>
 
-<link href="http://cdn2.crystalcommerce.com/assets/ideal808.com/head.css?604922426" type="text/css" media="screen" rel="stylesheet">
+<link href="http://cdn2.crystalcommerce.com/assets/ideal808.com/head.css?2913969842" type="text/css" media="screen" rel="stylesheet">
 
 <!-- Highslide html rich -->
 
@@ -45,70 +45,97 @@ div.highslide-maincontent a img {float:right; margin:0px 0px 10px 10px;}
 img.productTiles {float:left; margin:4px; padding:0px;}
 </style>
 <!-- Highslide html rich END -->
+<!--[if lt IE 9]>
+<script src="/files/assets/scripts/html5shiv.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/javascripts/jquery-ui/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/javascripts/jquery-ui/js/jquery-ui-1.8.18.custom.min.js"></script>
 
 <script type="text/javascript" src="/files/layout/highslide/highslide-full.js"></script>
 <script type="text/javascript" src="/files/layout/highslide/highslide.config.js" charset="utf-8"></script>
 
+<link rel="stylesheet" type="text/css" href="/files/assets/scripts/jquery.countdown.css">
+<script type="text/javascript" src="/files/assets/scripts/jquery.countdown.js"></script>
+
+<script type="text/javascript" src="/files/assets/scripts/cookie.js"></script>
+<script type="text/javascript" src="/files/assets/scripts/popup.js"></script>
+<script type="text/javascript" src="/files/assets/scripts/fancybox.js"></script>
 <script type="text/javascript" src="/javascripts/listCollapse.js"></script>
 <script type="text/javascript">
-window.onload = function () {
+$.noConflict();
+
+jQuery(document).ready(function($) {
+
 	compactMenuWithImages('categoryList','/files/assets/img/','btn_off.gif','btn_on.gif');
 	selfLink('categoryList','selfhighlight',true);
 	// if the list is completely folded, then change it's state to something more interesting
 	if(stateToFromStr('categoryList') == "") {
 		stateToFromStr('categoryList',"") // play with this to set the default menu orientation
 	}
-}
-</script>	
+
+	$(".fancybox").fancybox({
+		openEffect		: 'elastic',
+		closeEffect		: 'elastic',
+		helpers		: {
+			title	: { type : 'inside' },
+			buttons	: {},
+			overlay : {
+				speedIn  : 250,
+				speedOut : 250,
+				opacity  : 0.5,
+				css      : {
+					cursor : 'pointer'
+				},
+				closeClick: true
+			}
+		}
+	});
+	
+	$(window).scroll(function(){
+        if($(window).scrollTop() == 0){
+           $('#logo-overlay').animate({ "opacity": "show" }, 200 );
+        } else {
+           $('#logo-overlay').hide();
+        }
+    });
+    
+    
+	//Show/Hide Account Controls	
+	$('.accountControlsLink').click(function(){
+		//Now open/close the menu
+		$('.accountControlsLink').toggleClass('active');
+		$('ul.accountControls').slideToggle(100);
+	});
+	
+});
+</script>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "C6kWf1a8n500qT", domain:"ideal808.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=C6kWf1a8n500qT" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
 <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 
 
 
 <div id="wrapper">
-
+<div id="overlay"><!-- BLOCKS OUT THE PAGE --></div><div id="vbox-container"></div>
 	<div id="top">
 		
-		<a class="btnSpecial" href="/catalog/for_the_early_bird/590"></a>
-
+		<!--<a class="btnSpecial" href="/catalog/for_the_early_bird/590"></a>-->
+		
 		<a id="logoLink" href="/"></a>
+		
+		<object width="240" height="27" style="position:absolute;top:12px;left:230px;">
+		   <param name="movie" value="/files/assets/flash/free-shipping-banner.swf">
+		   <embed src="/files/assets/flash/free-shipping-banner.swf" width="240" height="27">
+		   
+		</object>
 
 		<div id="accountControls">
 			 <!-- if user is not logged in display the register and sign in stuff -->
 			
-				<a class="registerLink" href="/user/signup"></a><a class="signInLink" href="#"></a>
-				<div id="signInForm" style="display: none;">
-					<form method="post" action="/user/login" id="quickLoginForm">  
-					  <input type="hidden" name="authenticity_token" value="GEle1cboyomFFmusRSKeb/DMbGG3JOpr/0s9Nnel5DQ=">
-					  <table cellpadding="0" border="0">
-						<tbody><tr>
-						  <td><label for="user_email">E-Mail</label></td>
-						  <td><input type="text" name="user[email]" id="user_email"></td>
-						</tr>
-						<tr>
-						  <td><label for="user_password">Password &nbsp;</label></td>
-						  <td><input type="password" name="user[password]" id="user_password"></td>
-						</tr>
-						<tr>
-						  <td colspan="2" align="left">
-							<input type="checkbox" name="remember_me" value="1" id="remember_me" checked="">
-							<label for="remember_me">Remember me</label>
-						  </td>
-						</tr>
-						<tr>
-						  <td>
-							<input type="image" src="/files/assets/img/btnInputSignIn.png" name="login" value="">
-						  </td>
-						</tr>
-						<tr>
-						  <td colspan="2">
-							<a href="/user/forgot_password">Forgot your password</a><br>
-							<a href="/user/signup">Register a new account</a>
-						  </td>
-						</tr>
-					  </tbody></table>
-					</form>
-				</div>
-			
+				<a class="registerLink" href="/user/signup"></a><a class="signInLink" href="https://ideal808.crystalcommerce.com/user/login"></a>
+
 			
 				
 		</div><!-- // #accountControls -->
@@ -152,12 +179,6 @@ window.onload = function () {
 
 </ul>
 			</div>
-			<div id="secure_link">
-				<a href="http://www.securitymetrics.com/site_certificate.adp?s=72%2e253%2e180%2e27&amp;i=232530" target="_blank"> 
-						<img src="http://www.securitymetrics.com/images/sm_ccsafe_wh.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0" height="26px" width="67px">
-				</a>
-			</div>
-
 		</div>
 	
 		<div class="searchCtr1">
@@ -169,8 +190,28 @@ window.onload = function () {
 			
 	</div>
 	
-	<div id="headerBar">
-	<a href="/catalog/cardfight_vanguard-vanguard_singles_en/865" title="Children's Day Super Saver Sale on Cardfight Vanguard Singles!">Children's Day Super Saver Sale On Cardfight Vanguard Singles!</a><!-- comment out the following image if announcement is not for early bird item --><!-- <img style="position: absolute; left: 166px; top: 8px;" src="http://www.ideal808.com/files/assets/img/iconEarlyBirdOnly.png" alt="Early Bird Special"> --></div>
+	<div id="headerBar">        
+        <a href="/catalog/yugioh_singles-booster_set_cards_zexal-abyss_rising/1010" title="Yugioh Abyss Rising Available Now!!">
+            Yugioh Abyss Rising Now on Sale!
+        </a>
+        <a href="/products/search?query=Abyss+Rising+Booster&amp;x=0&amp;y=0" title="Booster Boxes">
+            Boosters,
+        </a>
+        <a href="/catalog/yugioh_singles-booster_set_cards_zexal-abyss_rising/1010" title="Singles">
+            &amp; Singles!!
+        </a>
+        +
+        <a href="/catalog/cardfight_vanguard-vanguard_singles_en-eb02_banquet_of_divas_en/1007" title="Vanguard EB02 Banquet of Divas!">
+            Vanguard EB02 Banquet of Divas!
+        </a>
+        <a href="/products/search?query=Banquet+of+Divas+Booster&amp;x=0&amp;y=0" title="Booster Boxes">
+            Boosters,
+        </a>
+        <a href="/catalog/cardfight_vanguard-vanguard_singles_en-eb02_banquet_of_divas_en/1007" title="Singles">
+            &amp; Singles!!
+        </a>
+        
+    <!-- comment out the following image if announcement is not for early bird item --><!-- <img style="position: absolute; left: 110px; top: 8px;" src="http://www.ideal808.com/files/assets/img/iconEarlyBirdOnly.png" alt="Early Bird Special"> --></div>
 	
 	<div id="main">
 	
@@ -185,15 +226,20 @@ window.onload = function () {
       <li class="categoryFolder"><a href="/catalog/for_the_early_bird-mtg_early_bird/594" class="expand">MTG Early Bird</a></li>
       <li class="categoryFolder"><a href="/catalog/for_the_early_bird-vanguard_early_bird/885" class="expand">Vanguard Early Bird</a></li>
       <li class="categoryProducts"><a href="/catalog/for_the_early_bird-preorder_deals/596">PreOrder Deals</a></li>
-      <li class="categoryProducts"><a href="/catalog/for_the_early_bird-best_sellers/598">Hot Sellers!!</a></li>
+      <li class="categoryProducts"><a href="/catalog/for_the_early_bird-hot_sellers/598">Hot Sellers!!</a></li>
       <li class="categoryProducts"><a href="/catalog/for_the_early_bird-yugioh_hot_from_japan/881">Yugioh Hot from Japan</a></li>
+      <li class="categoryFolder"><a href="/catalog/for_the_early_bird-preorder_supplies/956" class="expand">PreOrder Supplies</a></li>
+      <li class="categoryProducts"><a href="/catalog/for_the_early_bird-holiday_bundles/1018">Holiday Bundles</a></li>
+      <li class="categoryProducts"><a href="/catalog/holiday_supply_bundles/1020">Holiday Supply Bundles</a></li>
     </ul>
   </li>
   <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles/228" class="expand">Yugioh Singles</a>
     <ul class="subCategory" style="display: none;">
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles-booster_set_cards_zexal/787" class="expand">Booster Set Cards (ZeXal)</a>
         <ul class="subCategory" style="display: none;">
-          <li class="categoryProducts"><a href="/catalog/return_of_the_duelist__early_bird/939">Return of the Duelist - Early Bird</a></li>
+          <li class="categoryProducts"><a href="/catalog/yugioh_singles-booster_set_cards_zexal-cosmo_blazer__early_birds/1017">Cosmo Blazer - Early Birds</a></li>
+          <li class="categoryProducts"><a href="/catalog/yugioh_singles-booster_set_cards_zexal-abyss_rising/1010">Abyss Rising</a></li>
+          <li class="categoryProducts"><a href="/catalog/yugioh_singles-booster_set_cards_zexal-return_of_the_duelist/999">Return of the Duelist</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-booster_set_cards_zexal-galactic_overlord/935">Galactic Overlord</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-booster_set_cards_zexal-order_of_chaos/877">Order of Chaos</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-booster_set_cards_zexal-photon_shockwave/826">Photon Shockwave</a></li>
@@ -254,6 +300,7 @@ window.onload = function () {
       </li>
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles-gold_cards/310" class="expand">GOLD Cards</a>
         <ul class="subCategory" style="display: none;">
+          <li class="categoryProducts"><a href="/catalog/yugioh_singles-gold_cards-gold_series_5/955">GOLD Series 5</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-gold_cards-gold_series_4/801">GOLD Series 4</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-gold_cards-gold_series_3/330">GOLD Series 3</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-gold_cards-gold_series_2/328">GOLD Series 2</a></li>
@@ -262,7 +309,7 @@ window.onload = function () {
       </li>
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles-hidden_arsenal_cards/312" class="expand">Hidden Arsenal Cards</a>
         <ul class="subCategory" style="display: none;">
-          <li class="categoryProducts"><a href="/catalog/yugioh_singles-hidden_arsenal_cards-hidden_arsenal_6__early_bird/905">Hidden Arsenal 6 - Early Bird</a></li>
+          <li class="categoryProducts"><a href="/catalog/yugioh_singles-hidden_arsenal_cards-hidden_arsenal_6/987">Hidden Arsenal 6</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-hidden_arsenal_cards-hidden_arsenal_5/832">Hidden Arsenal 5</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-hidden_arsenal_cards-hidden_arsenal_4/769">Hidden Arsenal 4</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-hidden_arsenal_cards-hidden_arsenal_3/456">Hidden Arsenal 3</a></li>
@@ -299,8 +346,10 @@ window.onload = function () {
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-duelist_pack_cards-jaden_1__chazz/348">Jaden 1 | Chazz</a></li>
         </ul>
       </li>
-      <li class="categoryProducts"><a href="/catalog/yugioh_singles-battle_pack_epic_dawn__early_bird/929">Battle Pack: Epic Dawn - Early Bird</a></li>
+      <li class="categoryProducts"><a href="/catalog/yugioh_singles-battle_pack_epic_dawn/943">Battle Pack: Epic Dawn</a></li>
+      <li class="categoryProducts"><a href="/catalog/battle_pack__unlimited/1026">Battle Pack - Unlimited</a></li>
       <li class="categoryProducts"><a href="/catalog/yugioh_singles-legendary_collection_2/817">Legendary Collection 2</a></li>
+      <li class="categoryProducts"><a href="/catalog/yugioh_singles-legendary_collection_3/1006">Legendary Collection 3</a></li>
       <li class="categoryProducts"><a href="/catalog/yugioh_singles-ra_yellow_mega_pack/890">Ra Yellow Mega Pack</a></li>
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles-promo_cards/308" class="expand">Promo Cards</a>
         <ul class="subCategory" style="display: none;">
@@ -313,7 +362,8 @@ window.onload = function () {
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-promo_cards-tournament_prize_promo/580">Tournament Prize Promo</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-promo_cards-yugioh_movie_promo/756">Yugioh Movie Promo</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-promo_cards-2011_collector_tin_ct08/805">2011 Collector Tin CT08</a></li>
-          <li class="categoryProducts"><a href="/catalog/yugioh_singles-promo_cards-2012_premium_collection_tin_prc1/902">2012 Premium Collection Tin</a></li>
+          <li class="categoryProducts"><a href="/catalog/yugioh_singles-promo_cards-2012_premium_collection_tin/902">2012 Premium Collection Tin</a></li>
+          <li class="categoryProducts"><a href="/catalog/yugioh_singles-promo_cards-2012_collector_tin_ct09/994">2012 Collector Tin CT09</a></li>
         </ul>
       </li>
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles-starter_deck_cards_zexal/785" class="expand">Starter Deck Cards (ZeXal)</a>
@@ -322,6 +372,8 @@ window.onload = function () {
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-starter_deck_cards_zexal-dawn_of_the_xyz/803">Dawn of the XYZ</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-starter_deck_cards_zexal-dragons_collide/884">Dragons Collide</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-starter_deck_cards_zexal-xyz_symphony/924">Xyz Symphony</a></li>
+          <li class="categoryProducts"><a href="/catalog/yugioh_singles-starter_deck_cards_zexal-samurai_warlords/965">Samurai Warlords</a></li>
+          <li class="categoryProducts"><a href="/catalog/yugioh_singles-starter_deck_cards_zexal-realm_of_the_sea_emperor/1008">Realm of the Sea Emperor</a></li>
         </ul>
       </li>
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles-starter_deck_cards_5ds/314" class="expand">Starter Deck Cards (5D's)</a>
@@ -397,6 +449,7 @@ window.onload = function () {
           <li class="categoryProducts"><a href="/catalog/yugioh_singles-retro_pack_singles-retro_pack_2/586">Retro Pack 2</a></li>
         </ul>
       </li>
+      <li class="categoryProducts"><a href="/catalog/yugioh_singles-tokens/961">Tokens</a></li>
     </ul>
   </li>
   <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/magic_singles/8" class="expand">Magic Singles</a>
@@ -414,7 +467,9 @@ window.onload = function () {
       </li>
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/magic_singles-return_to_ravnica_block/936" class="expand">Return to Ravnica Block</a>
         <ul class="subCategory" style="display: none;">
-          <li class="categoryProducts"><a href="/catalog/return_to_ravnica/937">Return to Ravnica</a></li>
+          <li class="categoryProducts"><a href="/catalog/magic_singles-return_to_ravnica_block-return_to_ravnica/937">Return to Ravnica</a></li>
+          <li class="categoryProducts"><a href="/catalog/magic_singles-return_to_ravnica_block-gatecrash/1012">Gatecrash</a></li>
+          <li class="categoryProducts"><a href="/catalog/dragons_maze/1014">Dragon's Maze</a></li>
         </ul>
       </li>
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/magic_singles-innistrad_block/807" class="expand">Innistrad Block</a>
@@ -518,6 +573,7 @@ window.onload = function () {
           <li class="categoryProducts"><a href="/catalog/magic_singles-special_editions-planechase/815">Planechase</a></li>
           <li class="categoryProducts"><a href="/catalog/magic_singles-special_editions-archenemy/867">Archenemy</a></li>
           <li class="categoryProducts"><a href="/catalog/magic_singles-special_editions-duels_of_the_planeswalkers/732">Duels of the Planeswalkers</a></li>
+          <li class="categoryProducts"><a href="/catalog/planechase_2012/945">Planechase 2012</a></li>
         </ul>
       </li>
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/magic_singles-from_the_vault_sets/430" class="expand">From the Vault Sets</a>
@@ -526,10 +582,12 @@ window.onload = function () {
           <li class="categoryProducts"><a href="/catalog/magic_singles-from_the_vault_sets-from_the_vault_exiled/436">From the Vault: Exiled</a></li>
           <li class="categoryProducts"><a href="/catalog/magic_singles-from_the_vault_sets-from_the_vault_relics/434">From the Vault: Relics</a></li>
           <li class="categoryProducts"><a href="/catalog/magic_singles-from_the_vault_sets-from_the_vault_legends/810">From the Vault: Legends</a></li>
+          <li class="categoryProducts"><a href="/catalog/from_the_vault_realms/1002">From the Vault: Realms</a></li>
         </ul>
       </li>
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/magic_singles-duel_deck_sets/432" class="expand">Duel Deck Sets</a>
         <ul class="subCategory" style="display: none;">
+          <li class="categoryProducts"><a href="/catalog/magic_singles-duel_deck_sets-izzet_vs_golgari/1001">Izzet Vs. Golgari</a></li>
           <li class="categoryProducts"><a href="/catalog/magic_singles-duel_deck_sets-venser_vs_koth/915">Venser Vs. Koth</a></li>
           <li class="categoryProducts"><a href="/catalog/magic_singles-duel_deck_sets-ajani_vs_nicol_bolas/814">Ajani Vs. Nicol Bolas</a></li>
           <li class="categoryProducts"><a href="/catalog/magic_singles-duel_deck_sets-knights_vs_dragons/728">Knights Vs. Dragons</a></li>
@@ -552,6 +610,76 @@ window.onload = function () {
       <li class="categoryProducts"><a href="/catalog/magic_products-intro_decks/274">Intro Decks</a></li>
       <li class="categoryProducts"><a href="/catalog/magic_products-limited_edition_decks/276">Limited Edition Decks</a></li>
       <li class="categoryProducts"><a href="/catalog/magic_products-game_mats_playmats/452">Game Mats Playmats</a></li>
+      <li class="categoryFolder"><a href="/catalog/magic_products-exclusive_supplies/982" class="expand">Exclusive Supplies</a></li>
+    </ul>
+  </li>
+  <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard/861" class="expand">Cardfight Vanguard</a>
+    <ul class="subCategory" style="display: none;">
+      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard-vanguard_products_en/862" class="expand">Vanguard Products (EN)</a>
+        <ul class="subCategory" style="display: none;">
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_products_en-booster_boxes/863">Booster Boxes</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_products_en-booster_packs/897">Booster Packs</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_products_en-starter_trial_deck/864">Starter Trial Deck</a></li>
+        </ul>
+      </li>
+      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard-vanguard_singles_en/865" class="expand">Vanguard Singles (EN)</a>
+        <ul class="subCategory" style="display: none;">
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-set_1_king_of_knights_en/893">Set 1: King of Knights (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-set_2_dragon_souls_en/906">Set 2: Dragon Souls (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-set_3_demonic_lord_invasion_en/954">Set 3: Demonic Lord Invasion (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-set_4_eclipse_of_illusionary_shadows_en/1013">Set 4: Eclipse of Illusionary Shadows (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-set_5_awakening_of_twin_blades_en/1025">Set 5: Awakening of Twin Blades (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-set_6_breaker_of_limits_en/950">Set 6: Breaker of Limits (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-set_7_beast_king_en/968">Set 7: Beast King (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-eb01_comic_style_en/1029">EB01: Comic Style (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-eb02_banquet_of_divas_en/1007">EB02: Banquet of Divas (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-eb03_black_steel_en/949">EB03: Black Steel (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-td01_blaster_blade_en/895">TD01: Blaster Blade (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-td02_dragonic_overlord_en/896">TD02: Dragonic Overlord (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-td03_golden_mechanical_soldier_en/1023">TD03: Golden Mechanical Soldier (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-td04_maiden_princess_of_the_cherry_blossom_en/1024">TD04: Maiden Princess of the Cherry Blossom (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-td05_silver_wolf_en/933">TD05: Silver Wolf (EN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-td06_thunder_dragon_en/934">TD06: Thunder Dragon (EN)</a></li>
+        </ul>
+      </li>
+      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard-vanguard_products_jp/869" class="expand">Vanguard Products (JP)</a>
+        <ul class="subCategory" style="display: none;">
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_products_jp-booster_boxes/870">Booster Boxes</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_products_jp-starter_trial_deck/871">Starter Trial Deck</a></li>
+        </ul>
+      </li>
+      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard-vanguard_singles_jp/872" class="expand">Vanguard Singles (JP)</a>
+        <ul class="subCategory" style="display: none;">
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-set_3_invasion/873">Set 3: Invasion (JP)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-set_4_eclipse/874">Set 4: Eclipse (JP)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-set_5_awakening/875">Set 5: Awakening (JP)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-set_6_breaker_of_limits/931">Set 6: Breaker of Limits (JP)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-set_7_beast_king_jp/984">Set 7: Beast King (JP)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-promo_cards_jp/923">Promo Cards (JP)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-extra_set_1_comic_style_jp/932">Extra Set 1: Comic Style (JP)</a></li>
+          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-extra_set_2_diva_festival_jp/942">Extra Set 2: Diva Festival (JP)</a></li>
+          <li class="categoryProducts"><a href="/catalog/extra_set_3_black_steel_jp/948">Extra Set 3: Black Steel (JP)</a></li>
+        </ul>
+      </li>
+      <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-exclusive_supplies/983" class="expand">Exclusive Supplies</a></li>
+      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en/907" class="expand">Vanguard Clan Decks (EN)</a>
+        <ul class="subCategory" style="display: none;">
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-royal_paladin_clan/909" class="expand">Royal Paladin Clan</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-kagero_clan/910" class="expand">Kagero Clan</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-oracle_think_tank_clan/911" class="expand">Oracle Think Tank Clan</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-nova_grappler_clan/912" class="expand">Nova Grappler Clan</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-granblue_clan/908" class="expand">Granblue Clan</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-spike_brothers_clan/913" class="expand">Spike Brothers Clan</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-angel_feather/951" class="expand">Angel Feather</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-narukami/952" class="expand">Narukami</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-gold_paladin/953" class="expand">Gold Paladin</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-megacolony/975" class="expand">Megacolony</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-dark_irregulars/976" class="expand">Dark Irregulars</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-pale_moon/977" class="expand">Pale Moon</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-tachikaze/978" class="expand">Tachikaze</a></li>
+          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-great_nature/979" class="expand">Great Nature</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
   <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_products/286" class="expand">Yugioh Products</a>
@@ -564,29 +692,32 @@ window.onload = function () {
       <li class="categoryProducts"><a href="/catalog/yugioh_products-structure_decks/294">Structure Decks</a></li>
       <li class="categoryProducts"><a href="/catalog/yugioh_products-game_mats_playmats/406">Game Mats Playmats</a></li>
       <li class="categoryProducts"><a href="/catalog/video_games/232">Video Games</a></li>
+      <li class="categoryFolder"><a href="/catalog/yugioh_products-exclusive_supplies/981" class="expand">Exclusive Supplies</a></li>
     </ul>
   </li>
   <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/card_game_supplies/288" class="expand">Card Game Supplies</a>
     <ul class="subCategory" style="display: none;">
       <li class="categoryProducts"><a href="/catalog/card_game_supplies-ultra_pro_mtg_sleeves/13">Ultra Pro MTG Sleeves</a></li>
-      <li class="categoryProducts"><a href="/catalog/game_supplies-ultra_pro_yugioh_sleeves/410">Ultra Pro Yugioh Sleeves</a></li>
-      <li class="categoryProducts"><a href="/catalog/game_supplies-max_mtg_sleeves/412">MAX MTG Sleeves</a></li>
-      <li class="categoryProducts"><a href="/catalog/game_supplies-max_yugioh_sleeves/414">MAX Yugioh Sleeves</a></li>
+      <li class="categoryProducts"><a href="/catalog/card_game_supplies-ultra_pro_yugioh_sleeves/410">Ultra Pro Yugioh Sleeves</a></li>
+      <li class="categoryProducts"><a href="/catalog/card_game_supplies-max_mtg_sleeves/412">MAX MTG Sleeves</a></li>
+      <li class="categoryProducts"><a href="/catalog/card_game_supplies-max_yugioh_sleeves/414">MAX Yugioh Sleeves</a></li>
       <li class="categoryProducts"><a href="/catalog/card_game_supplies-yugioh_exclusive_supplies/706">Yugioh Exclusive Supplies</a></li>
-      <li class="categoryProducts"><a href="/catalog/card_game_supplies-cardfight_vanguard_exclusive_supplies/878">Vanguard Exclusive Supplies</a></li>
+      <li class="categoryProducts"><a href="/catalog/card_game_supplies-vanguard_exclusive_supplies/878">Vanguard Exclusive Supplies</a></li>
       <li class="categoryProducts"><a href="/catalog/card_game_supplies-pokemon_theme_supplies/716">Pokemon Theme Supplies</a></li>
-      <li class="categoryProducts"><a href="/catalog/game_supplies-deck_boxes/448">Deck Boxes</a></li>
+      <li class="categoryProducts"><a href="/catalog/card_game_supplies-deck_boxes/448">Deck Boxes</a></li>
       <li class="categoryProducts"><a href="/catalog/card_game_supplies-dice__dice__dice/767">Dice . Dice . Dice</a></li>
       <li class="categoryProducts"><a href="/catalog/game_supplies-card_albums/450">Card Albums</a></li>
       <li class="categoryProducts"><a href="/catalog/card_game_supplies-game_mat_playmats/816">Game Mat Playmats</a></li>
       <li class="categoryProducts"><a href="/catalog/card_game_supplies-japanese_import_supplies/811">Japanese Import Supplies</a></li>
+      <li class="categoryProducts"><a href="/catalog/card_game_supplies-players_choice_sleeves/989">Player's Choice Sleeves</a></li>
     </ul>
   </li>
-  <li class="categoryProducts"><a href="/catalog/board_games/454">Board Games</a></li>
   <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles_japanese/602" class="expand">Yugioh Singles (Japanese)</a>
     <ul class="subCategory" style="display: none;">
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles_japanese-jpn_booster_set_cards_zexal/770" class="expand">JPN Booster Set Cards (ZeXaL)</a>
         <ul class="subCategory" style="display: none;">
+          <li class="categoryProducts"><a href="/catalog/yugioh_singles_japanese-jpn_booster_set_cards_zexal-cosmo_blazer_jpn/1016">Cosmo Blazer (JPN)</a></li>
+          <li class="categoryProducts"><a href="/catalog/yugioh_singles_japanese-jpn_booster_set_cards_zexal-abyss_rising_jpn/986">Abyss Rising (JPN)</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles_japanese-jpn_booster_set_cards_zexal-return_of_the_duelist_jpn/921">Return of the Duelist (JPN)</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles_japanese-jpn_booster_set_cards_zexal-galactic_overlord_jpn/891">Galactic Overlord (JPN)</a></li>
           <li class="categoryProducts"><a href="/catalog/yugioh_singles_japanese-jpn_booster_set_cards_zexal-order_of_chaos_jpn/829">Order of Chaos (JPN)</a></li>
@@ -627,7 +758,7 @@ window.onload = function () {
           <li class="categoryProducts"><a href="/catalog/yugioh_singles_japanese-jpn_booster_series_gx-the_lost_millennium_jpn/704">The Lost Millennium (JPN)</a></li>
         </ul>
       </li>
-      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles_japanese-jpn_booster_series_yugiiii/644" class="expand">JPN Booster Series (YUGI-II)</a>
+      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles_japanese-jpn_booster_series_yugiii/644" class="expand">JPN Booster Series (YUGI-II)</a>
         <ul class="subCategory" style="display: none;">
           <li class="categoryProducts"><a href="/catalog/flaming_eternity_jpn/833">Flaming Eternity (JPN)</a></li>
           <li class="categoryProducts"><a href="/catalog/rise_of_destiny_jpn/834">Rise of Destiny (JPN)</a></li>
@@ -652,7 +783,7 @@ window.onload = function () {
           <li class="categoryProducts"><a href="/catalog/yugioh_singles_japanese-jpn_booster_series_yugiii-magic_ruler_jpn/858">Magic Ruler (JPN)</a></li>
         </ul>
       </li>
-      <li class="categoryFolder"><a href="/catalog/yugioh_singles_japanese-jpn_booster_series_yugiii/849" class="expand">JPN Booster Series (YUGI-I)</a></li>
+      <li class="categoryFolder"><a href="/catalog/yugioh_singles_japanese-jpn_booster_series_yugii/849" class="expand">JPN Booster Series (YUGI-I)</a></li>
       <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/yugioh_singles_japanese-japanese_gold_cards/646" class="expand">Japanese GOLD Cards</a>
         <ul class="subCategory" style="display: none;">
           <li class="categoryProducts"><a href="/catalog/gold_series_2012_jpn/847">GOLD Series 2012 (JPN)</a></li>
@@ -730,52 +861,16 @@ window.onload = function () {
       <li class="categoryProducts"><a href="/catalog/pokemon_products-collector_tins/768">Collector Tins</a></li>
     </ul>
   </li>
-  <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard/861" class="expand">Cardfight Vanguard</a>
+  <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/kaijudo/969" class="expand">Kaijudo: Rise of the Duel Masters</a>
     <ul class="subCategory" style="display: none;">
-      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard-vanguard_products_en/862" class="expand">Vanguard Products (EN)</a>
+      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/kaijudo_rise_of_the_duel_masters-kaijudo_products/973" class="expand">Kaijudo Products</a>
         <ul class="subCategory" style="display: none;">
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_products_en-booster_boxes/863">Booster Boxes</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_products_en-booster_packs/897">Booster Packs</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_products_en-starter_trial_deck/864">Starter Trial Deck</a></li>
+          <li class="categoryProducts"><a href="/catalog/kaijudo_rise_of_the_duel_masters-booster_boxes/970">Booster Boxes</a></li>
+          <li class="categoryProducts"><a href="/catalog/kaijudo_rise_of_the_duel_masters-booster_packs/971">Booster Packs</a></li>
+          <li class="categoryProducts"><a href="/catalog/kaijudo_rise_of_the_duel_masters-battle_decks/972">Battle Decks</a></li>
         </ul>
       </li>
-      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard-vanguard_singles_en/865" class="expand">Vanguard Singles (EN)</a>
-        <ul class="subCategory" style="display: none;">
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-set_1_king_of_knights_en/893">Set 1: King of Knights (EN)</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-set_2_dragon_souls_en/906">Set 2: Dragon Souls (EN)</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-set_6_breaker_of_limits_en__early_birds/922">Set 6: Breaker of Limits (EN) - Early Birds</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-td01en_blaster_blade/895">TD01: Blaster Blade (EN)</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-td02en_dragonic_overlord/896">TD02: Dragonic Overlord (EN)</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-td05en_slash_of_silver_wolf/933">TD05: Silver Wolf (EN)</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_en-td06en_resonance_of_thunder_dragon/934">TD06: Thunder Dragon (EN)</a></li>
-        </ul>
-      </li>
-      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard-vanguard_products_jp/869" class="expand">Vanguard Products (JP)</a>
-        <ul class="subCategory" style="display: none;">
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_products_jp-booster_boxes/870">Booster Boxes</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_products_jp-starter_trial_deck/871">Starter Trial Deck</a></li>
-        </ul>
-      </li>
-      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard-vanguard_singles_jp/872" class="expand">Vanguard Singles (JP)</a>
-        <ul class="subCategory" style="display: none;">
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-set_3_invasion/873">Set 3: Invasion</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-set_4_eclipse/874">Set 4: Eclipse</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-set_5_awakening/875">Set 5: Awakening</a></li>
-          <li class="categoryProducts"><a href="/catalog/cardfight_vanguard-vanguard_singles_jp-set_6_breaker_of_limits/931">Set 6: Breaker of Limits</a></li>
-          <li class="categoryProducts"><a href="/catalog/promo_cards/923">Promo Cards</a></li>
-          <li class="categoryProducts"><a href="/catalog/extra_set_1_comic_style/932">Extra Set 1: Comic Style</a></li>
-        </ul>
-      </li>
-      <li class="listNode"><a href="#" class="toggle_button"><img src="/files/assets/img/btn_off.gif" align="baseline" border="0"></a><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en/907" class="expand">Vanguard Clan Decks (EN)</a>
-        <ul class="subCategory" style="display: none;">
-          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-royal_paladin_clan/909" class="expand">Royal Paladin Clan</a></li>
-          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-kagero_clan/910" class="expand">Kagero Clan</a></li>
-          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-oracle_think_tank_clan/911" class="expand">Oracle Think Tank Clan</a></li>
-          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-nova_grappler_clan/912" class="expand">Nova Grappler Clan</a></li>
-          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-granblue_clan/908" class="expand">Granblue Clan</a></li>
-          <li class="categoryFolder"><a href="/catalog/cardfight_vanguard-vanguard_clan_decks_en-spike_brothers_clan/913" class="expand">Spike Brothers Clan</a></li>
-        </ul>
-      </li>
+      <li class="categoryProducts"><a href="/catalog/kaijudo_rise_of_the_duel_masters-kaijudo_singles/974">Kaijudo Singles</a></li>
     </ul>
   </li>
 </ul>
@@ -783,6 +878,29 @@ window.onload = function () {
 			</div>
 			<div class="sidebarBoxBottomAlt"></div>
 			
+            <div class="clearfix" id="shopWithConfidence">
+            
+            	<ul>
+                	<li>
+                    	<img src="/files/assets/img/iconShopWithConfidence.png" alt="Shop With Confidence">
+                    </li>
+                	<li>
+                        <a href="http://www.securitymetrics.com/site_certificate.adp?s=72%2e253%2e180%2e27&amp;i=232530" target="_blank"> 
+                            <img src="http://www.securitymetrics.com/images/sm_ccsafe_wh.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" style="border: 1px solid #96b1cb;" height="37" width="94">
+                        </a>
+                    </li>
+                	<li>
+                    	<a title="Click for the Business Review of Ideal808, Inc, a Collectibles in Honolulu HI" href="http://www.bbb.org/hawaii/business-reviews/collectibles/ideal808-in-honolulu-hi-25000155#sealclick"><img alt="Click for the BBB Business Review of this Collectibles in Honolulu HI" style="border: 0;" height="46" width="96" src="http://seal-hawaii.bbb.org/seals/blue-seal-120-61-ideal808inc-25000155.png"></a>
+                    </li>
+                	<li>
+                        <!-- START SCANALERT CODE -->
+                        <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.ideal808.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.ideal808.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+                        <!-- END SCANALERT CODE -->
+                    </li>
+                </ul>
+            
+            </div><!-- //#shopWithConfidence -->            
+            
 			<div class="sidebarBoxTop"></div>
 			<div class="sidebarBoxContent">
 				<h2 class="headingWithIcon">It's Ideal to Be Social!<img src="/files/assets/img/iconCommentBubble.png"></h2>
@@ -809,9 +927,12 @@ window.onload = function () {
 					<form id="newsletterSignUpForm" action="http://madmimi.com/signups/subscribe/23740" method="post">
 					<div><label for="signup_name">Name</label><input id="signup_name" name="signup[name]" type="text" onblur="if (this.value == '') {this.value = 'your name'}" onfocus="if (this.value == 'your name') {this.value=''}" value="your name"><br>
 					<label for="signup_email">Email</label><input id="signup_email" name="signup[email]" type="text" onblur="if (this.value == '') {this.value = 'your email'}" onfocus="if (this.value == 'your email') {this.value=''}" value="your email"><br><div class="subscribe-lists"><input name="lists[]" value="176451" type="checkbox" checked="checked"> Magic the Gathering<br>
-					</div><div class="subscribe-lists"><input name="lists[]" value="176450" type="checkbox" checked="checked"> Yugioh OCG<br>
-					</div><div class="subscribe-lists"><input name="lists[]" value="176449" type="checkbox" checked="checked"> Yugioh TCG<br>
-					</div><input name="commit" class="button" type="image" src="/files/assets/img/btnSignUp.png" value=""></div>
+					</div><div class="subscribe-lists"><input name="lists[]" value="176450" type="checkbox" checked="checked" id="list_176450"> Yugioh OCG<br>
+					</div><div class="subscribe-lists"><input name="lists[]" value="176449" type="checkbox" checked="checked" id="list_176449"> Yugioh TCG<br>
+					</div><div class="subscribe-lists"><input type="checkbox" checked="checked" value="443010" name="lists[]" id="list_443010"> Cardfight!! Vanguard<br>
+					</div><div class="subscribe-lists"><input type="checkbox" checked="checked" value="513029" name="lists[]" id="list_513029"> Kaijudo<br>
+					</div><div class="subscribe-lists"><input type="checkbox" checked="checked" value="513028" name="lists[]" id="list_513028"> Weiß Schwarz</div>				
+					<input name="commit" class="button" type="image" src="/files/assets/img/btnSignUp.png" value=""></div>
 					</form>
 				</div>
 				<!-- / newsletter form -->
@@ -832,7 +953,8 @@ window.onload = function () {
 			<script type="text/javascript" src="/files/assets/scripts/jquery-1.6.4.min.js"></script>
 			<script type="text/javascript" src="/files/assets/scripts/jquery-ui.min.js"></script><!-- used for tabs on product details page -->
 
-			
+
+        	
 <h1 class="pagetitle">Privacy Policy</h1>
 
 
@@ -865,9 +987,7 @@ window.onload = function () {
 			
 			
 			
-			
-			
-			
+            
 			
 			
 			
@@ -910,11 +1030,8 @@ window.onload = function () {
 					<!-- <img src="/files/assets/img/bbbmark.png" /> -->
 					<!-- (c) 2005, 2010. Authorize.Net is a registered trademark of CyberSource Corporation -->
 					<div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="6f907bff-41de-4da0-bb47-7ba24e4fb174";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Online Payments</a> </div>
-					<!-- START SCANALERT CODE -->
-					<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.ideal808.com"><img width="94" height="54" border="0" style="margin: 10px 0 0;" src="//images.scanalert.com/meter/www.ideal808.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-					<!-- END SCANALERT CODE -->
 					
-					<span>Copyright © 2010 Ideal808. All Rights Reserved.</span>
+					<span>Copyright © 2012 Ideal808. All Rights Reserved.</span>
 					
 				</td>
 			</tr>
@@ -948,12 +1065,14 @@ window.onload = function () {
 <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
-e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js";
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","694b5a49e7",311807,"dw1eQEpZDVQBER1FA1MHQxtLXg5P",0,74,new Date().getTime(),"","","","",""])</script>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","694b5a49e7",311807,"dw1eQEpZDVQBER1FA1MHQxtLXg5P",5,63,new Date().getTime(),"","","","",""]);</script>
 
-<div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="custom highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table></div><script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js"></script></body></html>
+<div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="custom highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table></div><script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
