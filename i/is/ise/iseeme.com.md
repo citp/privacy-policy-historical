@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iseeme.com privacy policy that was archived on 2012-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120521051749id_/http%3A//www.iseeme.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iseeme.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231173120id_/http%3A//www.iseeme.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,6 +8,6 @@ At I See Me! Inc., we take our customers' privacy and security very seriously. W
 
 If you have provided us your email address, we'll get back to you with timely special offers. To opt out, please send your request to customerservice@iseeme.com. We store your purchasing history, which we may use to enrich our product offerings or customize your buying experience.
 
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).
 
 We partner with FetchBack to serve ads and/or collect certain information when you visit our website. FetchBack may use cookies or web beacons to collect non‐personally identifiable information such as IP Address, pages viewed, and whether a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt‐out of this use of your anonymous information, you can visit www.networkadvertising.org.
