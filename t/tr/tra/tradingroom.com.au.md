@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingroom.com.au privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210140335id_/http%3A//www.fairfax.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingroom.com.au privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231034818id_/http%3A//www.fairfax.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fairfax Digital - Australian Digital Media publisher
 
