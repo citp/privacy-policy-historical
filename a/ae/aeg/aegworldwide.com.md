@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aegworldwide.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101113739id_/http%3A//www.aegworldwide.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegworldwide.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231134122id_/http%3A//www.aegworldwide.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ Information we collect may be accessed by a variety of parties, depending upon t
 While we believe this disclosure of your information will result in opportunities that may be of interest to you, you have the right to tell us not to give your information to any third party. If you want AEG to keep all of your information we have collected confidential and not share it with any third party, please either email us or mail your written request to:
 
 Attn: AEG Digital - Privacy Policy  
-800 West Olympic Blvd  
+800 West Olympic Blvd, Suite 305  
 Los Angeles, CA 90015  
 or email: [privacypolicy@aegworldwide.com](mailto:privacypolicy@aegworldwide.com)
 
@@ -124,6 +124,6 @@ If your personally identifiable information changes (such as your zip code), or 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact AEG by sending a letter to: 
 
 Attn: AEG Digital - Privacy Policy  
-800 West Olympic Blvd  
+800 West Olympic Blvd, Suite 305  
 Los Angeles, CA 90015  
 or email: [privacypolicy@aegworldwide.com](mailto:privacypolicy@aegworldwide.com)
