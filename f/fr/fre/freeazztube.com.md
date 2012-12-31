@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeazztube.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509120204id_/http%3A//www.freeazztube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeazztube.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231034831id_/http%3A//www.freeazztube.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Free Porn Hot Sex Videos - freeazztube.com - cum and get some...
 
 **PRIVACY POLICY**
 
