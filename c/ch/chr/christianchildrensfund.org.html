@@ -1,2283 +1,414 @@
-<!--The following is the downloaded HTML source of the christianchildrensfund.org privacy policy that was archived on 2009-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090418180340id_/http%3A//www.christianchildrensfund.org/content.aspx%3Fid%3D741) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the christianchildrensfund.org privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231151300id_/http%3A//www.childfund.org/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<link href="/uploadedfiles/public_site/stylesheets/ccf_public_style.css" rel="stylesheet" type="text/css">
-	
-<script language="JavaScript" type="text/javascript">
-<!--
-function CancelWindow() {
-	self.close();
-}
-
-function PopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) {
-	var cToolBar = 'toolbar=0,location=0,directories=0,status=' + nResize + ',menubar=0,scrollbars=' + nScroll + ',resizable=' + nResize + ',width=' + nWidth + ',height=' + nHeight;
-	var popupwin = window.open(url, hWind, cToolBar);
-	return popupwin;
-}
-
-function openWindow(url){
-	newWindow=window.open(url,'newWin','tollbar=yes,location=yes,scrollbars=yes,width=300,hight=200')
-}
-
-function openWindow2(url){
-	newWindow=window.open(url,'newWin','tollbar=yes,menubar=yes,location=yes,scrollbars=yes,directories=yes')
-}
-
-function closeWindow()
-	{
-	if(newWindow && !newWindow.closed)
-		{
-			newWindow.close()
-		}	
-	}
-	
-function PopUpWindowFull (url, hWind, nWidth, nHeight, nResize)
-	{
-	var cToolBar = "toolbar=yes,location=yes,directories=yes,resizable=1,status=" + nResize + ",menubar=yes,scrollbars=yes,width=" + nWidth + ",height=" + nHeight
-	var popupwin = window.open(url, hWind, cToolBar);
-	return popupwin;
-	}
-
-function QuickLinkSelect(baseFolderID, formName,  titleFormElem, useQLinkCheck, SetBrowserState) {
-	// There are specific requirements for this function. See "QuickLinkSelect.asp" for those.
-	//
-	var sendQString = '?folderid=' + baseFolderID + '&formName=' + formName + '&titleFormElem=' + 
-				titleFormElem + '&useQLinkCheck=' +  useQLinkCheck + '&SetBrowserState=' + SetBrowserState;
-	var cToolBar = 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=450,height=300';
-				
-	window.open('QuickLinkSelect.asp' + sendQString, 'QlinkSelectWin', cToolBar) ;
-	
-	return true ;
-}
-
-function Trim (string) {
-	if (string.length > 0) {
-		string = RemoveLeadingSpaces (string);
-	}
-	if (string.length > 0) {
-		string = RemoveTrailingSpaces(string);
-	}
-	return string;
-}
-	
-function RemoveLeadingSpaces(string) {
-	while(string.substring(0, 1) == " ") {
-		string = string.substring(1, string.length);
-	}
-	return string;
-}
-
-function RemoveTrailingSpaces(string) {
-	while(string.substring((string.length - 1), string.length) == " ") {
-		string = string.substring(0, (string.length - 1));
-	}
-	return string;
-}
-	
-function EnableElement(id, bEnable)
-{
-	var objElem = document.getElementById(id);
-	if (objElem)
-	{
-		// Mozilla FireFox 1.0 does not support .disabled for <label>
-		if (typeof objElem.disabled != "undefined")
-		{
-			objElem.disabled = !bEnable;
-		}
-		// if a label, follow the 'for' attribute as well
-		if (typeof objElem.htmlFor != "undefined")
-		{
-			// don't use recursion to avoid possibility of infinite recursion
-			objElem = document.getElementById(objElem.htmlFor);
-			if (objElem && typeof objElem.disabled != "undefined")
-			{
-				objElem.disabled = !bEnable;
-			}
-		}
-	}
-}
-	
-function ShowElement(id, bShow)
-{
-	var objElem = document.getElementById(id);
-	if (objElem)
-	{
-		objElem.style.display = (bShow ? "" : "none");
-		ShowSelectElements(objElem, bShow);	
-	}
-}
-
-function ShowSelectElements(objElem, bShow)
-// due to a bug in IE, descendent select lists may still be displayed
-// so target each individually
-{
-	if (!objElem) return;
-	if ("undefined" == typeof objElem.children) return;
-	if ("SELECT" == objElem.tagName)
-	{
-		objElem.style.display = (bShow ? "" : "none");
-	}
-	else
-	{
-		for (var i = 0; i < objElem.children.length; i++)
-		{
-			ShowSelectElements(objElem.children[i], bShow);
-		}
-	}
-}
-
-function GetElementValue(oElem)
-{
-	if (!oElem) return;
-	if (typeof oElem.value != "undefined")
-	{
-		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type || "radio" == oElem.type))
-		{
-			var strValue = oElem.value + "";
-			if (strValue.length > 0 && strValue != "true")
-			{
-				if (oElem.checked)
-				{
-					return strValue;
-				}
-				else
-				{
-					return "";
-				}
-			}
-			else // boolean
-			{
-				if (oElem.checked)
-				{
-					return true;
-				}
-				else
-				{
-					return false;
-				}
-			}
-		}
-		else
-		{
-			return oElem.value;
-		}
-	}
-	else if (typeof oElem.innerHTML != "undefined")
-	{
-		return oElem.innerHTML;
-	}
-	else if (typeof oElem.innerText != "undefined")
-	{
-		return oElem.innerText;
-	}
-	else
-	{
-		return; // no value
-	}
-}
-
-function SetElementValue(oElem, value)
-{
-	if (!oElem) return;
-	if (typeof oElem.value != "undefined")
-	{
-		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type))
-		{
-			// boolean
-			if ("true" == value || true == value)
-			{
-				oElem.checked = true;
-			}
-			else if ("false" == value || false == value)
-			{
-				oElem.checked = false;
-			}
-			else
-			{
-				oElem.value = value;
-			}
-		}
-		else
-		{
-			oElem.value = value;
-		}
-	}
-	else if (typeof oElem.innerHTML != "undefined")
-	{
-		oElem.innerHTML = value;
-	}
-	else if (typeof oElem.innerText != "undefined")
-	{
-		oElem.innerText = value;
-	}
-}
-
-function numberValidate(field)
-{
-	if (field.value == "")
-	{
-		return true;
-	}
-	if ((! /^\d+$/.test(field.value)) && field.value != "") 
-	{  
-		alert("You must use only numeric characters");
-		field.value = "";
-		field.focus();
-		return false;		
-	} 
-	return true;
-}
-	
-function textareaValidate(field)
-{
-	var strText = GetElementValue(field) + "";
-	var len = strText.length;
-	if(len > 500)
-	{
-		alert("Over limit of characters in text box.");
-		field.focus();
-		return false;	
-	}
-	return true;
-}
-
-function ValidateMeta(formName)
-// CAUTION: do not name this function 'V a l i d a t e M e t a d a t a', 
-// suspect the word 'M e t a d a t a' causes ASP to omit the JavaScript
-{
-
-	var reqfields;
-	var validationfields;
-	var validpair;
-	var objform = document.forms[formName];
-	if(objform.req_fields)
-	{
-		reqfields = objform.req_fields.value.split(",");
-		for(var i = 0; i < reqfields.length; i++)
-		{
-			if(objform.elements[reqfields[i]])
-			{
-				if(objform.elements[reqfields[i]].value == "")
-				{
-					alert('js: alert cannot submit meta incomplete');
-					//objform.elements[reqfields[i]].focus();
-					return false;
-				}
-			}
-		}
-	}
-	if(objform.needed_validation)
-	{
-		validationfields = objform.needed_validation.value.split(":");
-		for(var j = 0; j < validationfields.length; j++)
-		{
-			validpair = validationfields[j].split(",");
-			if(objform.elements[validpair[0]])
-			{
-				if(validpair[1] == "number")
-				{
-					if(!numberValidate(objform.elements[validpair[0]]))
-					{
-						return false;
-					}
-				}
-				else if(validpair[1] == "text")
-				{
-					if(!textareaValidate(objform.elements[validpair[0]]))
-					{
-						return false;
-					}
-				}
-				else if(validpair[1] == "date")
-				{
-					var originalDate;
-					var arrayForNumber = validpair[0].split("_");
-					if(arrayForNumber.length > 0)
-					{
-						if(arrayForNumber[0] = "frm_text")
-						{
-							originalDate = "frm_text_sel" + arrayForNumber[arrayForNumber.length-1];
-							objform.elements[originalDate].value = Trim(objform.elements[originalDate].value);
-						}
-					}
-					else
-					{
-						originalDate = validpair[0];
-					}
-					if(!CheckDate(objform.elements[originalDate].value))
-					{
-						return false;
-					}
-				}
-			}	
-		}
-	}
-	return true;
-}
-
-// -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta content="non_profit" property="og:type">
+<meta content="Sponsor a Child - ChildFund International" property="og:title">
+<!--<meta content="http://www.childfund.org/" property="og:url" />-->
+<meta content="http://www.childfund.org/uploadedImages/public_site/general/fb-storeImage.png" property="og:image">
+<meta content="ChildFund International" property="og:site_name">
+<!--<meta content="100000076750902" property="fb:admins" />-->
+<meta content="179879628745652" property="fb:app_id">
+<meta name="google-site-verification" content="8MAhlwX_xb0_7vnKU1rB4alztDDDPRKnuhcKjuyPico">
+<meta name="msvalidate.01" content="82DA7BC57DB522B80A2B96E10EEBD3FC">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/uploadedFiles/public_site/general/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/uploadedFiles/public_site/general/jquery-code.js"></script>
+<script type="text/javascript" src="/uploadedFiles/public_site/general/jquery-functions.js"></script>
+<script type="text/javascript" src="/uploadedFiles/public_site/general/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="/uploadedFiles/public_site/general/publicpop_api.js"></script>
+<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="/uploadedFiles/public_site/general/jcarousellite_1.0.1.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cloud.webtype.com/css/f8867f97-dd36-4575-9be8-3ce86289ae72.css">
+<link rel="stylesheet" type="text/css" href="/uploadedFiles/public_site/general/cfi_public_v1-2.css" media="all">
+<link rel="stylesheet" type="text/css" href="/uploadedFiles/public_site/general/prettyPhoto.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/uploadedFiles/public_site/places/country_pages/countryPages.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/uploadedFiles/public_site/general/cfi_print_v1-0.css" media="print">
+<script type="text/javascript">
+  <!--
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4558480-2']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+  -->
 </script>
-<script language="JavaScript" src="java/datejsfunc.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-function OpenCalendarForElement(id, id_data) {
-	var ctrlObj;
-	ctrlObj=document.getElementById(id);
-	if ((null != ctrlObj) && ('object' == (typeof(ctrlObj)).toLowerCase())) {
-		ctrlObj.value = Trim(ctrlObj.value);
-		CallCalendarForElement(ctrlObj.value, '/cms300scripts/calendar.asp', id, id_data, ctrlObj.form.name);
-	}
-}
-function CallCalendarForElement(date, pagename, ctrl, hctrl, formname){	
-	var regexp1 = / /gi;
-	var template;
-	var paremeter;
-	var Url;
-	var items = pagename.split('?');
-	if (items.length == 2 ) {
-		template = items[0].toLowerCase();
-		paremeter = items[1].toLowerCase();
-	}
-	else{
-		template = pagename.toLowerCase();
-		paremeter= '';
-	}
-	if (date.replace(regexp1, '') == '')
-	{
-		Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl;
-		if (paremeter.length){
-			Url = Url + '&' + paremeter;
-		} 
-		PopUpWindow (Url, 'Calendar', 325, 280, 0, 1);
-	}
-	else {
-		//if (CheckDate(date)) {
-			date = RemoveLeadingSpaces(date);
-			var date_times = date.split(' ');
-			if (date_times.length < 2) {
-				var times = '';
-				var hours = '';
-			}
-			else {
-				var times = date_times[1].split(':');
-				var hours = times[0].replace(regexp1, '');
-			}
-			if (times.length < 2) {
-				var minutes = '';
-			}
-			else {
-				var minutes = times[1].replace(regexp1, '');
-			}
-			if (times.length < 3) {
-				var seconds = '';
-			}
-			else {
-				var seconds = times[2].replace(regexp1, '');
-			}
-			if (date_times.length < 2) {
-				var ampm = '';
-			}
-			else {
-				var ampm = date_times[2].replace(regexp1, '');
-			}
-			Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl + '&startdate=' + date_times[0] + '&showdate=1';
-										+ '&hours=' + hours + '&minutes=' + minutes + '&seconds=' + seconds + '&tt=' + ampm;
-			if (paremeter.length){
-				Url = Url + '&' + paremeter;
-			}
-											
-			PopUpWindow (Url,'Calendar', 325, 280, 0, 1);
-		//}
-	}
-}	
-function UpdateTextCounter(id, maxlimit) {
-	var objText = document.getElementById(id);
-	var objCount = document.getElementById(id + "_len");
-	if (objText && objCount)
-	{
-		var strText = GetElementValue(objText) + "";
-		var len = strText.length;
-		if (len > maxlimit) {
-			objCount.style.color = "red";
-			objCount.style.fontWeight = "bold";
-		}
-		else
-		{
-			objCount.style.color = "";
-			objCount.style.fontWeight = "";
-		}
-		SetElementValue(objCount, len);
-	}
-}
-function SetDefault(id) {
-	var objElem = document.getElementById(id);
-	if (!objElem) return;
-	var objDefault = document.getElementById(id + "default");
-	if (!objDefault) return;
-	if (confirm("js: confirm restore default text"))
-	{
-		objElem.value = objDefault.value;
-		if ("function" == typeof objElem.onchange)
-		{
-			try
-			{
-				objElem.onchange();
-			}
-			catch (e)
-			{
-				// just in case something goes wrong
-			}
-		}
-	}
-}
-function booleanSelected(selfield, textfield, falsevalue, truevalue) {
-	textfield.value = (selfield.checked ? truevalue : falsevalue);
-}
-function outputSelected(selfield,textfield,seperator) {
-	var retValue;
-	var sel = getSelected(selfield);
-    var strSel = "";
-   	for (var item in sel) {       
-		strSel += sel[item].value + seperator + " ";
-    }
-    strSel = strSel.substring(0, strSel.length-2);
-    var ch = strSel.substring(0, 1);
-    if (ch == seperator) {
-		strSel = strSel.substring(1, strSel.length);
-    }
-    if(document.forms[0])
-    {
-		document.forms[0].elements[textfield].value = strSel;
-	}
-}
-				
-function getSelected(opt) {
-   var selected = new Array();
-   var index = 0;
-   for (var intLoop = 0; intLoop < opt.length; intLoop++) {
-      if ((opt[intLoop].selected) ||
-          (opt[intLoop].checked)) {
-         index = selected.length;
-         selected[index] = new Object;
-         selected[index].value = opt[intLoop].value;
-         selected[index].index = intLoop;
-      }
-   }
-   return selected;
-}
-// -->
-</script>
-<title>Christian Children's Fund Privacy Policy</title>
-
-<meta name="Keywords" content="Children, children, Christian, christian, fund, Fund, CCF, ccf, sponsor, child, Child, children's, Children's, charity, nonprofit, donate, feed, organization, need, hope, help, aid, needy, poverty, disaster, famine, hunger, international, relief">
 
 
-		<script language="javascript">
-			function CCFClickPop(page)
-			{
-				var id = '741';				
-				if (id == "")
-				{
-					return;
-				}
-				page = page + "?id=" + id;
-				window.open(page , 'xxx', 'toolbar=0,scrollbars=yes,location=0,statusbar=0,menubar=0,resizable=1,width=700,height=700,left = 362,top = 234');
-			}
-		</script>
-  <script language="JavaScript" src="/uploadedFiles/Public_Site/stylesheets/publicpop_api.js"></script><script type="text/javascript" src="/foresee/foresee-trigger.js"></script><script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
-  
- 
-  <body>
-	<center>
-    <form name="Form1" method="post" action="content.aspx?id=741" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTc0ODAwODEzMg9kFgoCAQ8WAh4EVGV4dAVqPGxpbmsgaHJlZj0nL3VwbG9hZGVkZmlsZXMvcHVibGljX3NpdGUvc3R5bGVzaGVldHMvY2NmX3B1YmxpY19zdHlsZS5jc3MnIHJlbD0nc3R5bGVzaGVldCcgdHlwZT0ndGV4dC9jc3MnPmQCAw8WAh8ABZ5cDQo8c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KPCEtLQ0KZnVuY3Rpb24gQ2FuY2VsV2luZG93KCkgew0KCXNlbGYuY2xvc2UoKTsNCn0NCg0KZnVuY3Rpb24gUG9wVXBXaW5kb3cgKHVybCwgaFdpbmQsIG5XaWR0aCwgbkhlaWdodCwgblNjcm9sbCwgblJlc2l6ZSkgew0KCXZhciBjVG9vbEJhciA9ICd0b29sYmFyPTAsbG9jYXRpb249MCxkaXJlY3Rvcmllcz0wLHN0YXR1cz0nICsgblJlc2l6ZSArICcsbWVudWJhcj0wLHNjcm9sbGJhcnM9JyArIG5TY3JvbGwgKyAnLHJlc2l6YWJsZT0nICsgblJlc2l6ZSArICcsd2lkdGg9JyArIG5XaWR0aCArICcsaGVpZ2h0PScgKyBuSGVpZ2h0Ow0KCXZhciBwb3B1cHdpbiA9IHdpbmRvdy5vcGVuKHVybCwgaFdpbmQsIGNUb29sQmFyKTsNCglyZXR1cm4gcG9wdXB3aW47DQp9DQoNCmZ1bmN0aW9uIG9wZW5XaW5kb3codXJsKXsNCgluZXdXaW5kb3c9d2luZG93Lm9wZW4odXJsLCduZXdXaW4nLCd0b2xsYmFyPXllcyxsb2NhdGlvbj15ZXMsc2Nyb2xsYmFycz15ZXMsd2lkdGg9MzAwLGhpZ2h0PTIwMCcpDQp9DQoNCmZ1bmN0aW9uIG9wZW5XaW5kb3cyKHVybCl7DQoJbmV3V2luZG93PXdpbmRvdy5vcGVuKHVybCwnbmV3V2luJywndG9sbGJhcj15ZXMsbWVudWJhcj15ZXMsbG9jYXRpb249eWVzLHNjcm9sbGJhcnM9eWVzLGRpcmVjdG9yaWVzPXllcycpDQp9DQoNCmZ1bmN0aW9uIGNsb3NlV2luZG93KCkNCgl7DQoJaWYobmV3V2luZG93ICYmICFuZXdXaW5kb3cuY2xvc2VkKQ0KCQl7DQoJCQluZXdXaW5kb3cuY2xvc2UoKQ0KCQl9CQ0KCX0NCgkNCmZ1bmN0aW9uIFBvcFVwV2luZG93RnVsbCAodXJsLCBoV2luZCwgbldpZHRoLCBuSGVpZ2h0LCBuUmVzaXplKQ0KCXsNCgl2YXIgY1Rvb2xCYXIgPSAidG9vbGJhcj15ZXMsbG9jYXRpb249eWVzLGRpcmVjdG9yaWVzPXllcyxyZXNpemFibGU9MSxzdGF0dXM9IiArIG5SZXNpemUgKyAiLG1lbnViYXI9eWVzLHNjcm9sbGJhcnM9eWVzLHdpZHRoPSIgKyBuV2lkdGggKyAiLGhlaWdodD0iICsgbkhlaWdodA0KCXZhciBwb3B1cHdpbiA9IHdpbmRvdy5vcGVuKHVybCwgaFdpbmQsIGNUb29sQmFyKTsNCglyZXR1cm4gcG9wdXB3aW47DQoJfQ0KDQpmdW5jdGlvbiBRdWlja0xpbmtTZWxlY3QoYmFzZUZvbGRlcklELCBmb3JtTmFtZSwgIHRpdGxlRm9ybUVsZW0sIHVzZVFMaW5rQ2hlY2ssIFNldEJyb3dzZXJTdGF0ZSkgew0KCS8vIFRoZXJlIGFyZSBzcGVjaWZpYyByZXF1aXJlbWVudHMgZm9yIHRoaXMgZnVuY3Rpb24uIFNlZSAiUXVpY2tMaW5rU2VsZWN0LmFzcCIgZm9yIHRob3NlLg0KCS8vDQoJdmFyIHNlbmRRU3RyaW5nID0gJz9mb2xkZXJpZD0nICsgYmFzZUZvbGRlcklEICsgJyZmb3JtTmFtZT0nICsgZm9ybU5hbWUgKyAnJnRpdGxlRm9ybUVsZW09JyArIA0KCQkJCXRpdGxlRm9ybUVsZW0gKyAnJnVzZVFMaW5rQ2hlY2s9JyArICB1c2VRTGlua0NoZWNrICsgJyZTZXRCcm93c2VyU3RhdGU9JyArIFNldEJyb3dzZXJTdGF0ZTsNCgl2YXIgY1Rvb2xCYXIgPSAndG9vbGJhcj0wLGxvY2F0aW9uPTAsZGlyZWN0b3JpZXM9MCxzdGF0dXM9MCxtZW51YmFyPTAsc2Nyb2xsYmFycz0xLHJlc2l6YWJsZT0xLHdpZHRoPTQ1MCxoZWlnaHQ9MzAwJzsNCgkJCQkNCgl3aW5kb3cub3BlbignUXVpY2tMaW5rU2VsZWN0LmFzcCcgKyBzZW5kUVN0cmluZywgJ1FsaW5rU2VsZWN0V2luJywgY1Rvb2xCYXIpIDsNCgkNCglyZXR1cm4gdHJ1ZSA7DQp9DQoNCmZ1bmN0aW9uIFRyaW0gKHN0cmluZykgew0KCWlmIChzdHJpbmcubGVuZ3RoID4gMCkgew0KCQlzdHJpbmcgPSBSZW1vdmVMZWFkaW5nU3BhY2VzIChzdHJpbmcpOw0KCX0NCglpZiAoc3RyaW5nLmxlbmd0aCA+IDApIHsNCgkJc3RyaW5nID0gUmVtb3ZlVHJhaWxpbmdTcGFjZXMoc3RyaW5nKTsNCgl9DQoJcmV0dXJuIHN0cmluZzsNCn0NCgkNCmZ1bmN0aW9uIFJlbW92ZUxlYWRpbmdTcGFjZXMoc3RyaW5nKSB7DQoJd2hpbGUoc3RyaW5nLnN1YnN0cmluZygwLCAxKSA9PSAiICIpIHsNCgkJc3RyaW5nID0gc3RyaW5nLnN1YnN0cmluZygxLCBzdHJpbmcubGVuZ3RoKTsNCgl9DQoJcmV0dXJuIHN0cmluZzsNCn0NCg0KZnVuY3Rpb24gUmVtb3ZlVHJhaWxpbmdTcGFjZXMoc3RyaW5nKSB7DQoJd2hpbGUoc3RyaW5nLnN1YnN0cmluZygoc3RyaW5nLmxlbmd0aCAtIDEpLCBzdHJpbmcubGVuZ3RoKSA9PSAiICIpIHsNCgkJc3RyaW5nID0gc3RyaW5nLnN1YnN0cmluZygwLCAoc3RyaW5nLmxlbmd0aCAtIDEpKTsNCgl9DQoJcmV0dXJuIHN0cmluZzsNCn0NCgkNCmZ1bmN0aW9uIEVuYWJsZUVsZW1lbnQoaWQsIGJFbmFibGUpDQp7DQoJdmFyIG9iakVsZW0gPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChpZCk7DQoJaWYgKG9iakVsZW0pDQoJew0KCQkvLyBNb3ppbGxhIEZpcmVGb3ggMS4wIGRvZXMgbm90IHN1cHBvcnQgLmRpc2FibGVkIGZvciA8bGFiZWw+DQoJCWlmICh0eXBlb2Ygb2JqRWxlbS5kaXNhYmxlZCAhPSAidW5kZWZpbmVkIikNCgkJew0KCQkJb2JqRWxlbS5kaXNhYmxlZCA9ICFiRW5hYmxlOw0KCQl9DQoJCS8vIGlmIGEgbGFiZWwsIGZvbGxvdyB0aGUgJ2ZvcicgYXR0cmlidXRlIGFzIHdlbGwNCgkJaWYgKHR5cGVvZiBvYmpFbGVtLmh0bWxGb3IgIT0gInVuZGVmaW5lZCIpDQoJCXsNCgkJCS8vIGRvbid0IHVzZSByZWN1cnNpb24gdG8gYXZvaWQgcG9zc2liaWxpdHkgb2YgaW5maW5pdGUgcmVjdXJzaW9uDQoJCQlvYmpFbGVtID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQob2JqRWxlbS5odG1sRm9yKTsNCgkJCWlmIChvYmpFbGVtICYmIHR5cGVvZiBvYmpFbGVtLmRpc2FibGVkICE9ICJ1bmRlZmluZWQiKQ0KCQkJew0KCQkJCW9iakVsZW0uZGlzYWJsZWQgPSAhYkVuYWJsZTsNCgkJCX0NCgkJfQ0KCX0NCn0NCgkNCmZ1bmN0aW9uIFNob3dFbGVtZW50KGlkLCBiU2hvdykNCnsNCgl2YXIgb2JqRWxlbSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGlkKTsNCglpZiAob2JqRWxlbSkNCgl7DQoJCW9iakVsZW0uc3R5bGUuZGlzcGxheSA9IChiU2hvdyA/ICIiIDogIm5vbmUiKTsNCgkJU2hvd1NlbGVjdEVsZW1lbnRzKG9iakVsZW0sIGJTaG93KTsJDQoJfQ0KfQ0KDQpmdW5jdGlvbiBTaG93U2VsZWN0RWxlbWVudHMob2JqRWxlbSwgYlNob3cpDQovLyBkdWUgdG8gYSBidWcgaW4gSUUsIGRlc2NlbmRlbnQgc2VsZWN0IGxpc3RzIG1heSBzdGlsbCBiZSBkaXNwbGF5ZWQNCi8vIHNvIHRhcmdldCBlYWNoIGluZGl2aWR1YWxseQ0Kew0KCWlmICghb2JqRWxlbSkgcmV0dXJuOw0KCWlmICgidW5kZWZpbmVkIiA9PSB0eXBlb2Ygb2JqRWxlbS5jaGlsZHJlbikgcmV0dXJuOw0KCWlmICgiU0VMRUNUIiA9PSBvYmpFbGVtLnRhZ05hbWUpDQoJew0KCQlvYmpFbGVtLnN0eWxlLmRpc3BsYXkgPSAoYlNob3cgPyAiIiA6ICJub25lIik7DQoJfQ0KCWVsc2UNCgl7DQoJCWZvciAodmFyIGkgPSAwOyBpIDwgb2JqRWxlbS5jaGlsZHJlbi5sZW5ndGg7IGkrKykNCgkJew0KCQkJU2hvd1NlbGVjdEVsZW1lbnRzKG9iakVsZW0uY2hpbGRyZW5baV0sIGJTaG93KTsNCgkJfQ0KCX0NCn0NCg0KZnVuY3Rpb24gR2V0RWxlbWVudFZhbHVlKG9FbGVtKQ0Kew0KCWlmICghb0VsZW0pIHJldHVybjsNCglpZiAodHlwZW9mIG9FbGVtLnZhbHVlICE9ICJ1bmRlZmluZWQiKQ0KCXsNCgkJaWYgKCJJTlBVVCIgPT0gb0VsZW0udGFnTmFtZSAmJiAoImNoZWNrYm94IiA9PSBvRWxlbS50eXBlIHx8ICJyYWRpbyIgPT0gb0VsZW0udHlwZSkpDQoJCXsNCgkJCXZhciBzdHJWYWx1ZSA9IG9FbGVtLnZhbHVlICsgIiI7DQoJCQlpZiAoc3RyVmFsdWUubGVuZ3RoID4gMCAmJiBzdHJWYWx1ZSAhPSAidHJ1ZSIpDQoJCQl7DQoJCQkJaWYgKG9FbGVtLmNoZWNrZWQpDQoJCQkJew0KCQkJCQlyZXR1cm4gc3RyVmFsdWU7DQoJCQkJfQ0KCQkJCWVsc2UNCgkJCQl7DQoJCQkJCXJldHVybiAiIjsNCgkJCQl9DQoJCQl9DQoJCQllbHNlIC8vIGJvb2xlYW4NCgkJCXsNCgkJCQlpZiAob0VsZW0uY2hlY2tlZCkNCgkJCQl7DQoJCQkJCXJldHVybiB0cnVlOw0KCQkJCX0NCgkJCQllbHNlDQoJCQkJew0KCQkJCQlyZXR1cm4gZmFsc2U7DQoJCQkJfQ0KCQkJfQ0KCQl9DQoJCWVsc2UNCgkJew0KCQkJcmV0dXJuIG9FbGVtLnZhbHVlOw0KCQl9DQoJfQ0KCWVsc2UgaWYgKHR5cGVvZiBvRWxlbS5pbm5lckhUTUwgIT0gInVuZGVmaW5lZCIpDQoJew0KCQlyZXR1cm4gb0VsZW0uaW5uZXJIVE1MOw0KCX0NCgllbHNlIGlmICh0eXBlb2Ygb0VsZW0uaW5uZXJUZXh0ICE9ICJ1bmRlZmluZWQiKQ0KCXsNCgkJcmV0dXJuIG9FbGVtLmlubmVyVGV4dDsNCgl9DQoJZWxzZQ0KCXsNCgkJcmV0dXJuOyAvLyBubyB2YWx1ZQ0KCX0NCn0NCg0KZnVuY3Rpb24gU2V0RWxlbWVudFZhbHVlKG9FbGVtLCB2YWx1ZSkNCnsNCglpZiAoIW9FbGVtKSByZXR1cm47DQoJaWYgKHR5cGVvZiBvRWxlbS52YWx1ZSAhPSAidW5kZWZpbmVkIikNCgl7DQoJCWlmICgiSU5QVVQiID09IG9FbGVtLnRhZ05hbWUgJiYgKCJjaGVja2JveCIgPT0gb0VsZW0udHlwZSkpDQoJCXsNCgkJCS8vIGJvb2xlYW4NCgkJCWlmICgidHJ1ZSIgPT0gdmFsdWUgfHwgdHJ1ZSA9PSB2YWx1ZSkNCgkJCXsNCgkJCQlvRWxlbS5jaGVja2VkID0gdHJ1ZTsNCgkJCX0NCgkJCWVsc2UgaWYgKCJmYWxzZSIgPT0gdmFsdWUgfHwgZmFsc2UgPT0gdmFsdWUpDQoJCQl7DQoJCQkJb0VsZW0uY2hlY2tlZCA9IGZhbHNlOw0KCQkJfQ0KCQkJZWxzZQ0KCQkJew0KCQkJCW9FbGVtLnZhbHVlID0gdmFsdWU7DQoJCQl9DQoJCX0NCgkJZWxzZQ0KCQl7DQoJCQlvRWxlbS52YWx1ZSA9IHZhbHVlOw0KCQl9DQoJfQ0KCWVsc2UgaWYgKHR5cGVvZiBvRWxlbS5pbm5lckhUTUwgIT0gInVuZGVmaW5lZCIpDQoJew0KCQlvRWxlbS5pbm5lckhUTUwgPSB2YWx1ZTsNCgl9DQoJZWxzZSBpZiAodHlwZW9mIG9FbGVtLmlubmVyVGV4dCAhPSAidW5kZWZpbmVkIikNCgl7DQoJCW9FbGVtLmlubmVyVGV4dCA9IHZhbHVlOw0KCX0NCn0NCg0KZnVuY3Rpb24gbnVtYmVyVmFsaWRhdGUoZmllbGQpDQp7DQoJaWYgKGZpZWxkLnZhbHVlID09ICIiKQ0KCXsNCgkJcmV0dXJuIHRydWU7DQoJfQ0KCWlmICgoISAvXlxkKyQvLnRlc3QoZmllbGQudmFsdWUpKSAmJiBmaWVsZC52YWx1ZSAhPSAiIikgDQoJe8KgIA0KCQlhbGVydCgiWW91IG11c3QgdXNlIG9ubHkgbnVtZXJpYyBjaGFyYWN0ZXJzIik7DQoJCWZpZWxkLnZhbHVlID0gIiI7DQoJCWZpZWxkLmZvY3VzKCk7DQoJCXJldHVybiBmYWxzZTsJCQ0KCX0gDQoJcmV0dXJuIHRydWU7DQp9DQoJDQpmdW5jdGlvbiB0ZXh0YXJlYVZhbGlkYXRlKGZpZWxkKQ0Kew0KCXZhciBzdHJUZXh0ID0gR2V0RWxlbWVudFZhbHVlKGZpZWxkKSArICIiOw0KCXZhciBsZW4gPSBzdHJUZXh0Lmxlbmd0aDsNCglpZihsZW4gPiA1MDApDQoJew0KCQlhbGVydCgiT3ZlciBsaW1pdCBvZiBjaGFyYWN0ZXJzIGluIHRleHQgYm94LiIpOw0KCQlmaWVsZC5mb2N1cygpOw0KCQlyZXR1cm4gZmFsc2U7CQ0KCX0NCglyZXR1cm4gdHJ1ZTsNCn0NCg0KZnVuY3Rpb24gVmFsaWRhdGVNZXRhKGZvcm1OYW1lKQ0KLy8gQ0FVVElPTjogZG8gbm90IG5hbWUgdGhpcyBmdW5jdGlvbiAnViBhIGwgaSBkIGEgdCBlIE0gZSB0IGEgZCBhIHQgYScsIA0KLy8gc3VzcGVjdCB0aGUgd29yZCAnTSBlIHQgYSBkIGEgdCBhJyBjYXVzZXMgQVNQIHRvIG9taXQgdGhlIEphdmFTY3JpcHQNCnsNCg0KCXZhciByZXFmaWVsZHM7DQoJdmFyIHZhbGlkYXRpb25maWVsZHM7DQoJdmFyIHZhbGlkcGFpcjsNCgl2YXIgb2JqZm9ybSA9IGRvY3VtZW50LmZvcm1zW2Zvcm1OYW1lXTsNCglpZihvYmpmb3JtLnJlcV9maWVsZHMpDQoJew0KCQlyZXFmaWVsZHMgPSBvYmpmb3JtLnJlcV9maWVsZHMudmFsdWUuc3BsaXQoIiwiKTsNCgkJZm9yKHZhciBpID0gMDsgaSA8IHJlcWZpZWxkcy5sZW5ndGg7IGkrKykNCgkJew0KCQkJaWYob2JqZm9ybS5lbGVtZW50c1tyZXFmaWVsZHNbaV1dKQ0KCQkJew0KCQkJCWlmKG9iamZvcm0uZWxlbWVudHNbcmVxZmllbGRzW2ldXS52YWx1ZSA9PSAiIikNCgkJCQl7DQoJCQkJCWFsZXJ0KCdqczogYWxlcnQgY2Fubm90IHN1Ym1pdCBtZXRhIGluY29tcGxldGUnKTsNCgkJCQkJLy9vYmpmb3JtLmVsZW1lbnRzW3JlcWZpZWxkc1tpXV0uZm9jdXMoKTsNCgkJCQkJcmV0dXJuIGZhbHNlOw0KCQkJCX0NCgkJCX0NCgkJfQ0KCX0NCglpZihvYmpmb3JtLm5lZWRlZF92YWxpZGF0aW9uKQ0KCXsNCgkJdmFsaWRhdGlvbmZpZWxkcyA9IG9iamZvcm0ubmVlZGVkX3ZhbGlkYXRpb24udmFsdWUuc3BsaXQoIjoiKTsNCgkJZm9yKHZhciBqID0gMDsgaiA8IHZhbGlkYXRpb25maWVsZHMubGVuZ3RoOyBqKyspDQoJCXsNCgkJCXZhbGlkcGFpciA9IHZhbGlkYXRpb25maWVsZHNbal0uc3BsaXQoIiwiKTsNCgkJCWlmKG9iamZvcm0uZWxlbWVudHNbdmFsaWRwYWlyWzBdXSkNCgkJCXsNCgkJCQlpZih2YWxpZHBhaXJbMV0gPT0gIm51bWJlciIpDQoJCQkJew0KCQkJCQlpZighbnVtYmVyVmFsaWRhdGUob2JqZm9ybS5lbGVtZW50c1t2YWxpZHBhaXJbMF1dKSkNCgkJCQkJew0KCQkJCQkJcmV0dXJuIGZhbHNlOw0KCQkJCQl9DQoJCQkJfQ0KCQkJCWVsc2UgaWYodmFsaWRwYWlyWzFdID09ICJ0ZXh0IikNCgkJCQl7DQoJCQkJCWlmKCF0ZXh0YXJlYVZhbGlkYXRlKG9iamZvcm0uZWxlbWVudHNbdmFsaWRwYWlyWzBdXSkpDQoJCQkJCXsNCgkJCQkJCXJldHVybiBmYWxzZTsNCgkJCQkJfQ0KCQkJCX0NCgkJCQllbHNlIGlmKHZhbGlkcGFpclsxXSA9PSAiZGF0ZSIpDQoJCQkJew0KCQkJCQl2YXIgb3JpZ2luYWxEYXRlOw0KCQkJCQl2YXIgYXJyYXlGb3JOdW1iZXIgPSB2YWxpZHBhaXJbMF0uc3BsaXQoIl8iKTsNCgkJCQkJaWYoYXJyYXlGb3JOdW1iZXIubGVuZ3RoID4gMCkNCgkJCQkJew0KCQkJCQkJaWYoYXJyYXlGb3JOdW1iZXJbMF0gPSAiZnJtX3RleHQiKQ0KCQkJCQkJew0KCQkJCQkJCW9yaWdpbmFsRGF0ZSA9ICJmcm1fdGV4dF9zZWwiICsgYXJyYXlGb3JOdW1iZXJbYXJyYXlGb3JOdW1iZXIubGVuZ3RoLTFdOw0KCQkJCQkJCW9iamZvcm0uZWxlbWVudHNbb3JpZ2luYWxEYXRlXS52YWx1ZSA9IFRyaW0ob2JqZm9ybS5lbGVtZW50c1tvcmlnaW5hbERhdGVdLnZhbHVlKTsNCgkJCQkJCX0NCgkJCQkJfQ0KCQkJCQllbHNlDQoJCQkJCXsNCgkJCQkJCW9yaWdpbmFsRGF0ZSA9IHZhbGlkcGFpclswXTsNCgkJCQkJfQ0KCQkJCQlpZighQ2hlY2tEYXRlKG9iamZvcm0uZWxlbWVudHNbb3JpZ2luYWxEYXRlXS52YWx1ZSkpDQoJCQkJCXsNCgkJCQkJCXJldHVybiBmYWxzZTsNCgkJCQkJfQ0KCQkJCX0NCgkJCX0JDQoJCX0NCgl9DQoJcmV0dXJuIHRydWU7DQp9DQoNCi8vIC0tPg0KPC9zY3JpcHQ+DQo8c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0IiBzcmM9ImphdmEvZGF0ZWpzZnVuYy5qcyI+PC9zY3JpcHQ+DQo8c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KPCEtLQ0KZnVuY3Rpb24gT3BlbkNhbGVuZGFyRm9yRWxlbWVudChpZCwgaWRfZGF0YSkgew0KCXZhciBjdHJsT2JqOw0KCWN0cmxPYmo9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaWQpOw0KCWlmICgobnVsbCAhPSBjdHJsT2JqKSAmJiAoJ29iamVjdCcgPT0gKHR5cGVvZihjdHJsT2JqKSkudG9Mb3dlckNhc2UoKSkpIHsNCgkJY3RybE9iai52YWx1ZSA9IFRyaW0oY3RybE9iai52YWx1ZSk7DQoJCUNhbGxDYWxlbmRhckZvckVsZW1lbnQoY3RybE9iai52YWx1ZSwgJy9jbXMzMDBzY3JpcHRzL2NhbGVuZGFyLmFzcCcsIGlkLCBpZF9kYXRhLCBjdHJsT2JqLmZvcm0ubmFtZSk7DQoJfQ0KfQ0KZnVuY3Rpb24gQ2FsbENhbGVuZGFyRm9yRWxlbWVudChkYXRlLCBwYWdlbmFtZSwgY3RybCwgaGN0cmwsIGZvcm1uYW1lKXsJDQoJdmFyIHJlZ2V4cDEgPSAvIC9naTsNCgl2YXIgdGVtcGxhdGU7DQoJdmFyIHBhcmVtZXRlcjsNCgl2YXIgVXJsOw0KCXZhciBpdGVtcyA9IHBhZ2VuYW1lLnNwbGl0KCc/Jyk7DQoJaWYgKGl0ZW1zLmxlbmd0aCA9PSAyICkgew0KCQl0ZW1wbGF0ZSA9IGl0ZW1zWzBdLnRvTG93ZXJDYXNlKCk7DQoJCXBhcmVtZXRlciA9IGl0ZW1zWzFdLnRvTG93ZXJDYXNlKCk7DQoJfQ0KCWVsc2V7DQoJCXRlbXBsYXRlID0gcGFnZW5hbWUudG9Mb3dlckNhc2UoKTsNCgkJcGFyZW1ldGVyPSAnJzsNCgl9DQoJaWYgKGRhdGUucmVwbGFjZShyZWdleHAxLCAnJykgPT0gJycpDQoJew0KCQlVcmwgPSB0ZW1wbGF0ZSArICc/Zm9ybT0nICsgZm9ybW5hbWUgKyAnJmN0cmw9JyArIGN0cmwgKyAnJmhjdHJsPScgKyBoY3RybDsNCgkJaWYgKHBhcmVtZXRlci5sZW5ndGgpew0KCQkJVXJsID0gVXJsICsgJyYnICsgcGFyZW1ldGVyOw0KCQl9IA0KCQlQb3BVcFdpbmRvdyAoVXJsLCAnQ2FsZW5kYXInLCAzMjUsIDI4MCwgMCwgMSk7DQoJfQ0KCWVsc2Ugew0KCQkvL2lmIChDaGVja0RhdGUoZGF0ZSkpIHsNCgkJCWRhdGUgPSBSZW1vdmVMZWFkaW5nU3BhY2VzKGRhdGUpOw0KCQkJdmFyIGRhdGVfdGltZXMgPSBkYXRlLnNwbGl0KCcgJyk7DQoJCQlpZiAoZGF0ZV90aW1lcy5sZW5ndGggPCAyKSB7DQoJCQkJdmFyIHRpbWVzID0gJyc7DQoJCQkJdmFyIGhvdXJzID0gJyc7DQoJCQl9DQoJCQllbHNlIHsNCgkJCQl2YXIgdGltZXMgPSBkYXRlX3RpbWVzWzFdLnNwbGl0KCc6Jyk7DQoJCQkJdmFyIGhvdXJzID0gdGltZXNbMF0ucmVwbGFjZShyZWdleHAxLCAnJyk7DQoJCQl9DQoJCQlpZiAodGltZXMubGVuZ3RoIDwgMikgew0KCQkJCXZhciBtaW51dGVzID0gJyc7DQoJCQl9DQoJCQllbHNlIHsNCgkJCQl2YXIgbWludXRlcyA9IHRpbWVzWzFdLnJlcGxhY2UocmVnZXhwMSwgJycpOw0KCQkJfQ0KCQkJaWYgKHRpbWVzLmxlbmd0aCA8IDMpIHsNCgkJCQl2YXIgc2Vjb25kcyA9ICcnOw0KCQkJfQ0KCQkJZWxzZSB7DQoJCQkJdmFyIHNlY29uZHMgPSB0aW1lc1syXS5yZXBsYWNlKHJlZ2V4cDEsICcnKTsNCgkJCX0NCgkJCWlmIChkYXRlX3RpbWVzLmxlbmd0aCA8IDIpIHsNCgkJCQl2YXIgYW1wbSA9ICcnOw0KCQkJfQ0KCQkJZWxzZSB7DQoJCQkJdmFyIGFtcG0gPSBkYXRlX3RpbWVzWzJdLnJlcGxhY2UocmVnZXhwMSwgJycpOw0KCQkJfQ0KCQkJVXJsID0gdGVtcGxhdGUgKyAnP2Zvcm09JyArIGZvcm1uYW1lICsgJyZjdHJsPScgKyBjdHJsICsgJyZoY3RybD0nICsgaGN0cmwgKyAnJnN0YXJ0ZGF0ZT0nICsgZGF0ZV90aW1lc1swXSArICcmc2hvd2RhdGU9MSc7DQoJCQkJCQkJCQkJKyAnJmhvdXJzPScgKyBob3VycyArICcmbWludXRlcz0nICsgbWludXRlcyArICcmc2Vjb25kcz0nICsgc2Vjb25kcyArICcmdHQ9JyArIGFtcG07DQoJCQlpZiAocGFyZW1ldGVyLmxlbmd0aCl7DQoJCQkJVXJsID0gVXJsICsgJyYnICsgcGFyZW1ldGVyOw0KCQkJfQ0KCQkJCQkJCQkJCQkNCgkJCVBvcFVwV2luZG93IChVcmwsJ0NhbGVuZGFyJywgMzI1LCAyODAsIDAsIDEpOw0KCQkvL30NCgl9DQp9CQ0KZnVuY3Rpb24gVXBkYXRlVGV4dENvdW50ZXIoaWQsIG1heGxpbWl0KSB7DQoJdmFyIG9ialRleHQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChpZCk7DQoJdmFyIG9iakNvdW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaWQgKyAiX2xlbiIpOw0KCWlmIChvYmpUZXh0ICYmIG9iakNvdW50KQ0KCXsNCgkJdmFyIHN0clRleHQgPSBHZXRFbGVtZW50VmFsdWUob2JqVGV4dCkgKyAiIjsNCgkJdmFyIGxlbiA9IHN0clRleHQubGVuZ3RoOw0KCQlpZiAobGVuID4gbWF4bGltaXQpIHsNCgkJCW9iakNvdW50LnN0eWxlLmNvbG9yID0gInJlZCI7DQoJCQlvYmpDb3VudC5zdHlsZS5mb250V2VpZ2h0ID0gImJvbGQiOw0KCQl9DQoJCWVsc2UNCgkJew0KCQkJb2JqQ291bnQuc3R5bGUuY29sb3IgPSAiIjsNCgkJCW9iakNvdW50LnN0eWxlLmZvbnRXZWlnaHQgPSAiIjsNCgkJfQ0KCQlTZXRFbGVtZW50VmFsdWUob2JqQ291bnQsIGxlbik7DQoJfQ0KfQ0KZnVuY3Rpb24gU2V0RGVmYXVsdChpZCkgew0KCXZhciBvYmpFbGVtID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaWQpOw0KCWlmICghb2JqRWxlbSkgcmV0dXJuOw0KCXZhciBvYmpEZWZhdWx0ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaWQgKyAiZGVmYXVsdCIpOw0KCWlmICghb2JqRGVmYXVsdCkgcmV0dXJuOw0KCWlmIChjb25maXJtKCJqczogY29uZmlybSByZXN0b3JlIGRlZmF1bHQgdGV4dCIpKQ0KCXsNCgkJb2JqRWxlbS52YWx1ZSA9IG9iakRlZmF1bHQudmFsdWU7DQoJCWlmICgiZnVuY3Rpb24iID09IHR5cGVvZiBvYmpFbGVtLm9uY2hhbmdlKQ0KCQl7DQoJCQl0cnkNCgkJCXsNCgkJCQlvYmpFbGVtLm9uY2hhbmdlKCk7DQoJCQl9DQoJCQljYXRjaCAoZSkNCgkJCXsNCgkJCQkvLyBqdXN0IGluIGNhc2Ugc29tZXRoaW5nIGdvZXMgd3JvbmcNCgkJCX0NCgkJfQ0KCX0NCn0NCmZ1bmN0aW9uIGJvb2xlYW5TZWxlY3RlZChzZWxmaWVsZCwgdGV4dGZpZWxkLCBmYWxzZXZhbHVlLCB0cnVldmFsdWUpIHsNCgl0ZXh0ZmllbGQudmFsdWUgPSAoc2VsZmllbGQuY2hlY2tlZCA/IHRydWV2YWx1ZSA6IGZhbHNldmFsdWUpOw0KfQ0KZnVuY3Rpb24gb3V0cHV0U2VsZWN0ZWQoc2VsZmllbGQsdGV4dGZpZWxkLHNlcGVyYXRvcikgew0KCXZhciByZXRWYWx1ZTsNCgl2YXIgc2VsID0gZ2V0U2VsZWN0ZWQoc2VsZmllbGQpOw0KICAgIHZhciBzdHJTZWwgPSAiIjsNCiAgIAlmb3IgKHZhciBpdGVtIGluIHNlbCkgeyAgICAgICANCgkJc3RyU2VsICs9IHNlbFtpdGVtXS52YWx1ZSArIHNlcGVyYXRvciArICIgIjsNCiAgICB9DQogICAgc3RyU2VsID0gc3RyU2VsLnN1YnN0cmluZygwLCBzdHJTZWwubGVuZ3RoLTIpOw0KICAgIHZhciBjaCA9IHN0clNlbC5zdWJzdHJpbmcoMCwgMSk7DQogICAgaWYgKGNoID09IHNlcGVyYXRvcikgew0KCQlzdHJTZWwgPSBzdHJTZWwuc3Vic3RyaW5nKDEsIHN0clNlbC5sZW5ndGgpOw0KICAgIH0NCiAgICBpZihkb2N1bWVudC5mb3Jtc1swXSkNCiAgICB7DQoJCWRvY3VtZW50LmZvcm1zWzBdLmVsZW1lbnRzW3RleHRmaWVsZF0udmFsdWUgPSBzdHJTZWw7DQoJfQ0KfQ0KCQkJCQ0KZnVuY3Rpb24gZ2V0U2VsZWN0ZWQob3B0KSB7DQogICB2YXIgc2VsZWN0ZWQgPSBuZXcgQXJyYXkoKTsNCiAgIHZhciBpbmRleCA9IDA7DQogICBmb3IgKHZhciBpbnRMb29wID0gMDsgaW50TG9vcCA8IG9wdC5sZW5ndGg7IGludExvb3ArKykgew0KICAgICAgaWYgKChvcHRbaW50TG9vcF0uc2VsZWN0ZWQpIHx8DQogICAgICAgICAgKG9wdFtpbnRMb29wXS5jaGVja2VkKSkgew0KICAgICAgICAgaW5kZXggPSBzZWxlY3RlZC5sZW5ndGg7DQogICAgICAgICBzZWxlY3RlZFtpbmRleF0gPSBuZXcgT2JqZWN0Ow0KICAgICAgICAgc2VsZWN0ZWRbaW5kZXhdLnZhbHVlID0gb3B0W2ludExvb3BdLnZhbHVlOw0KICAgICAgICAgc2VsZWN0ZWRbaW5kZXhdLmluZGV4ID0gaW50TG9vcDsNCiAgICAgIH0NCiAgIH0NCiAgIHJldHVybiBzZWxlY3RlZDsNCn0NCi8vIC0tPg0KPC9zY3JpcHQ+DQo8VGl0bGU+Q2hyaXN0aWFuIENoaWxkcmVuJ3MgRnVuZCBQcml2YWN5IFBvbGljeTwvVGl0bGU+DQoNCjxtZXRhIG5hbWU9IktleXdvcmRzIiBjb250ZW50PSJDaGlsZHJlbiwgY2hpbGRyZW4sIENocmlzdGlhbiwgY2hyaXN0aWFuLCBmdW5kLCBGdW5kLCBDQ0YsIGNjZiwgc3BvbnNvciwgY2hpbGQsIENoaWxkLCBjaGlsZHJlbidzLCBDaGlsZHJlbidzLCBjaGFyaXR5LCBub25wcm9maXQsIGRvbmF0ZSwgZmVlZCwgb3JnYW5pemF0aW9uLCBuZWVkLCBob3BlLCBoZWxwLCBhaWQsIG5lZWR5LCBwb3ZlcnR5LCBkaXNhc3RlciwgZmFtaW5lLCBodW5nZXIsIGludGVybmF0aW9uYWwsIHJlbGllZiI+DQoNCmQCBQ8WAh8ABQM3NDFkAgcPFgIfAAWyAQ0KPHNjcmlwdCBsYW5ndWFnZT0nSmF2YVNjcmlwdCcgc3JjPScvdXBsb2FkZWRGaWxlcy9QdWJsaWNfU2l0ZS9zdHlsZXNoZWV0cy9wdWJsaWNwb3BfYXBpLmpzJz48L3NjcmlwdD4gPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL2ZvcmVzZWUvZm9yZXNlZS10cmlnZ2VyLmpzIj48L3NjcmlwdD5kAgkPZBYCAgMPZBYCZg9kFgZmD2QWAmYPZBYCZg8WAh8ABcQDPHNjcmlwdCBsYW5ndWFnZT0namF2YXNjcmlwdCc+DQp2YXIgYlNlYXJjaEZvY3VzID0gZmFsc2U7DQpmdW5jdGlvbiB6enpfU2VhcmNoKCkNCnsJdmFyIFJpZ2h0Tm93ID0gJ2h0dHA6Ly9jaHJpc3RpYW5jaGlsZHJlbnNmdW5kLmN1c3RoZWxwLmNvbS9jZ2ktYmluL2NocmlzdGlhbmNoaWxkcmVuc2Z1bmQuY2ZnL3BocC9lbmR1c2VyL3dpZHhfYWxwLnBocD9wX3dpZHg9MSZwX3BhZ2U9MSZwX3NlYXJjaF90ZXh0PXh4eCZwX25ld19zZWFyY2g9MSZwX3NlYXJjaF90eXBlPTEmcF9zb3J0X2J5PTEnOw0KdmFyIHNlYXJjaEZvciA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCd0eHRTaXRlU2VhcmNoJykudmFsdWUNCndpbmRvdy5sb2NhdGlvbiA9IFJpZ2h0Tm93LnJlcGxhY2UoJ3Bfc2VhcmNoX3RleHQ9eHh4JywncF9zZWFyY2hfdGV4dD0nICsgc2VhcmNoRm9yKTsNCgkJfQ0KPC9zY3JpcHQ+DQpkAgEPZBYCAgEPZBYCZg9kFgJmD2QWAmYPZBYCZg8WAh4EaHJlZgU/aHR0cHM6Ly93d3cuY2hyaXN0aWFuY2hpbGRyZW5zZnVuZC5vcmcvcmVnaXN0ZXIvQ1dSZWdpc3Rlci5hc3B4ZAIDD2QWAmYPZBYCAgEPZBYEZg9kFghmDw9kFgIeB29uY2xpY2sFTXJldHVybiBub1Bvc3RCYWNrKCdodHRwczovL3d3dy5jaHJpc3RpYW5jaGlsZHJlbnNmdW5kLm9yZy9sb2dpbi9sb2dpbi5hc3B4Jyk7ZAIBDxYCHwEFPWh0dHBzOi8vd3d3LmNocmlzdGlhbmNoaWxkcmVuc2Z1bmQub3JnL3JlZ2lzdGVyL3JlZ2lzdGVyLmFzcHhkAgIPFgIfAQVHaHR0cHM6Ly93d3cuY2hyaXN0aWFuY2hpbGRyZW5zZnVuZC5vcmcvbG9naW4vbG9naW4uYXNweD9mb3Jnb3Q9dnA0OXloaW9kAgMPFgIfAQVHaHR0cHM6Ly93d3cuY2hyaXN0aWFuY2hpbGRyZW5zZnVuZC5vcmcvbG9naW4vbG9naW4uYXNweD9mb3Jnb3Q9dnB3aWVmbjJkAgIPFgIeB1Zpc2libGVoZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUcY3RsMDAkY3RsMDYkdWNMb2dpbiRpbWdCdG5Hb1eMbZaSAyAC2hYOYoNhEIeZqI9x">
+    
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLC58CaCgLRjbCIC67GjZ1ypP19EKWKOvujoumWCrRx">
-		<!-- Copyright 2001-2005, Clickability, Inc. All rights reserved.--> <script language="javascript1.2" src="http://a449.g.akamai.net/7/449/1776/000/button.clickability.com/90837/button_1/button.js">; </script> 
+<title>
+	Privacy Policy: ChildFund
+</title><script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
+<body>
+    
+    
+        
+    
+    
+    
+			<!-- webug location GOOGLE_RETARGETING_ALL_NONCONVERSION -->
+			<!-- Google Code for ChildFund - Non-confirm/Non-landing Pages Remarketing List -->
+			<script language="JavaScript" type="text/javascript">
+			<!--
+			var google_conversion_id = 1032407819;
+			var google_conversion_language = "en";
+			var google_conversion_format = "3";
+			var google_conversion_color = "666666";
+			var google_conversion_label = "NPWsCLvU0gEQi5al7AM";
+			var google_conversion_value = 0;
+			//-->
+			</script>
+			<script language="JavaScript" src="https://www.googleadservices.com/pagead/conversion.js">
+			</script>
+			<noscript>
+			<img height="1" width="1" border="0" src="https://www.googleadservices.com/pagead/conversion/1032407819/?label=NPWsCLvU0gEQi5al7AM&amp;guid=ON&amp;script=0"/>
+			</noscript>
 		
-<!--Begin outer table-->
-<table class="outer_table" width="1" cellpadding="0" cellspacing="0" border="0">
-<!-- Begin inner table -->
-<tbody><tr>
-<td>
-<table class="inner_table" width="1" cellpadding="0" cellspacing="0" border="0">
+			<!-- YAHOO BANNER RETARGETING -->
+			<!-- Advertiser 'Integrated Media Solutions, LLC',  Include user in segment 'Child Fund International Retargeting Pixel' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+			<img src="https://ad.yieldmanager.com/pixel?id=1028936&amp;t=2" width="1" height="1">
+			<!-- End of segment tag -->
+		
+			<!-- begin Marin Software Tracking Script -->
+			<script type="text/javascript">
+			var _marinClientId = "21890uh12867";
+			var _marinProto = (("https:" == document.location.protocol) ? "https://" : "http://");
+			document.write(unescape("%3Cscript src='" + _marinProto + "tracker.marinsm.com/tracker/" +
+			_marinClientId + ".js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://tracker.marinsm.com/tracker/21890uh12867.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			try {
+			_marinTrack.trackPage();
+			} catch(err) {}
+			</script>
+			<noscript>
+			<img src="https://tracker.marinsm.com/tp?act=1&cid=21890uh12867&script=no" >
+			</noscript>
+			<!-- end Copyright Marin Software -->
+		
+    <form name="aspnetForm" method="post" action="/privacy_policy/" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzg5MTA4ODkyD2QWAmYPZBYEAgUPFgIeBFRleHQF6A0KCQkJPCEtLSB3ZWJ1ZyBsb2NhdGlvbiBHT09HTEVfUkVUQVJHRVRJTkdfQUxMX05PTkNPTlZFUlNJT04gLS0+CgkJCTwhLS0gR29vZ2xlIENvZGUgZm9yIENoaWxkRnVuZCAtIE5vbi1jb25maXJtL05vbi1sYW5kaW5nIFBhZ2VzIFJlbWFya2V0aW5nIExpc3QgLS0+CgkJCTxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+CgkJCTwhLS0KCQkJdmFyIGdvb2dsZV9jb252ZXJzaW9uX2lkID0gMTAzMjQwNzgxOTsKCQkJdmFyIGdvb2dsZV9jb252ZXJzaW9uX2xhbmd1YWdlID0gImVuIjsKCQkJdmFyIGdvb2dsZV9jb252ZXJzaW9uX2Zvcm1hdCA9ICIzIjsKCQkJdmFyIGdvb2dsZV9jb252ZXJzaW9uX2NvbG9yID0gIjY2NjY2NiI7CgkJCXZhciBnb29nbGVfY29udmVyc2lvbl9sYWJlbCA9ICJOUFdzQ0x2VTBnRVFpNWFsN0FNIjsKCQkJdmFyIGdvb2dsZV9jb252ZXJzaW9uX3ZhbHVlID0gMDsKCQkJLy8tLT4KCQkJPC9zY3JpcHQ+CgkJCTxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiIHNyYz0iaHR0cHM6Ly93d3cuZ29vZ2xlYWRzZXJ2aWNlcy5jb20vcGFnZWFkL2NvbnZlcnNpb24uanMiPgoJCQk8L3NjcmlwdD4KCQkJPG5vc2NyaXB0PgoJCQk8aW1nIGhlaWdodD0iMSIgd2lkdGg9IjEiIGJvcmRlcj0iMCIgc3JjPSJodHRwczovL3d3dy5nb29nbGVhZHNlcnZpY2VzLmNvbS9wYWdlYWQvY29udmVyc2lvbi8xMDMyNDA3ODE5Lz9sYWJlbD1OUFdzQ0x2VTBnRVFpNWFsN0FNJmFtcDtndWlkPU9OJmFtcDtzY3JpcHQ9MCIvPgoJCQk8L25vc2NyaXB0PgoJCQoJCQk8IS0tIFlBSE9PIEJBTk5FUiBSRVRBUkdFVElORyAtLT4KCQkJPCEtLSBBZHZlcnRpc2VyICdJbnRlZ3JhdGVkIE1lZGlhIFNvbHV0aW9ucywgTExDJywgIEluY2x1ZGUgdXNlciBpbiBzZWdtZW50ICdDaGlsZCBGdW5kIEludGVybmF0aW9uYWwgUmV0YXJnZXRpbmcgUGl4ZWwnIC0gRE8gTk9UIE1PRElGWSBUSElTIFBJWEVMIElOIEFOWSBXQVkgLS0+CgkJCTxpbWcgc3JjPSJodHRwczovL2FkLnlpZWxkbWFuYWdlci5jb20vcGl4ZWw/aWQ9MTAyODkzNiZ0PTIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIC8+CgkJCTwhLS0gRW5kIG9mIHNlZ21lbnQgdGFnIC0tPgoJCQoJCQk8IS0tIGJlZ2luIE1hcmluIFNvZnR3YXJlIFRyYWNraW5nIFNjcmlwdCAtLT4KCQkJPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPgoJCQl2YXIgX21hcmluQ2xpZW50SWQgPSAiMjE4OTB1aDEyODY3IjsKCQkJdmFyIF9tYXJpblByb3RvID0gKCgiaHR0cHM6IiA9PSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCkgPyAiaHR0cHM6Ly8iIDogImh0dHA6Ly8iKTsKCQkJZG9jdW1lbnQud3JpdGUodW5lc2NhcGUoIiUzQ3NjcmlwdCBzcmM9JyIgKyBfbWFyaW5Qcm90byArICJ0cmFja2VyLm1hcmluc20uY29tL3RyYWNrZXIvIiArCgkJCV9tYXJpbkNsaWVudElkICsgIi5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyUzRSUzQy9zY3JpcHQlM0UiKSk7CgkJCTwvc2NyaXB0PgoJCQk8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+CgkJCXRyeSB7CgkJCV9tYXJpblRyYWNrLnRyYWNrUGFnZSgpOwoJCQl9IGNhdGNoKGVycikge30KCQkJPC9zY3JpcHQ+CgkJCTxub3NjcmlwdD4KCQkJPGltZyBzcmM9Imh0dHBzOi8vdHJhY2tlci5tYXJpbnNtLmNvbS90cD9hY3Q9MSZjaWQ9MjE4OTB1aDEyODY3JnNjcmlwdD1ubyIgPgoJCQk8L25vc2NyaXB0PgoJCQk8IS0tIGVuZCBDb3B5cmlnaHQgTWFyaW4gU29mdHdhcmUgLS0+CgkJZAIHEGRkFgICAw8WAh8ABYQNPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwhLS0KdmFyIGJTZWFyY2hGb2N1cyA9IGZhbHNlOwpmdW5jdGlvbiB6enpfU2VhcmNoKCkKewp2YXIgUmlnaHROb3cgPSAnaHR0cDovL2NoaWxkZnVuZC5jdXN0aGVscC5jb20vY2dpLWJpbi9jaGlsZGZ1bmQuY2ZnL3BocC9lbmR1c2VyL3dpZHhfYWxwLnBocD9wX3dpZHg9MSZwX3BhZ2U9MSZwX3NlYXJjaF90ZXh0PXh4eCZwX25ld19zZWFyY2g9MSZwX3NlYXJjaF90eXBlPTEmcF9zb3J0X2J5PTEnOwp2YXIgc2VhcmNoRm9yID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3R4dFNpdGVTZWFyY2gnKS52YWx1ZTsKd2luZG93LmxvY2F0aW9uID0gUmlnaHROb3cucmVwbGFjZSgncF9zZWFyY2hfdGV4dD14eHgnLCdwX3NlYXJjaF90ZXh0PScgKyBzZWFyY2hGb3IpOwp9Ci0tPjwvc2NyaXB0PjxkaXYgaWQ9InV0aWxpdHlfbmF2Ij48ZGl2IGlkPSJsb2dpbi1sb2dvdXQiPjxhIGhyZWY9Ii9sb2dpbi9sb2dpbi5hc3B4Ij48aW1nIGFsdD0iU2lnbiBJbiIgc3JjPSIvdXBsb2FkZWRJbWFnZXMvcHVibGljX3NpdGUvZ2VuZXJhbC9idXR0b25zL2J0bl9zaWduLWluLmdpZiIgLz48L2E+PC9kaXY+PGRpdiBpZD0iYWNjbnQtbWFpbnRfbXljaGlsZGZ1bmQiPjwvZGl2PjxkaXYgaWQ9InNob3BwaW5nLWNhcnQiPjxhIGhyZWY9Ii9naWZ0Y2F0YWxvZy9naWZ0Y2F0YWxvZ2NvbnRpbnVlLmFzcHgiPkNhcnQgKDApPC9hPjwvZGl2PjxkaXYgaWQ9InNlY29uZGFyeS1uYXYiPjxhIHRpdGxlPSJBYm91dCBVcyIgaHJlZj0iL2Fib3V0X3VzLyI+QWJvdXQgVXM8L2E+wqB8wqA8YSB0aXRsZT0iU3VwcG9ydGVycyIgaHJlZj0iL3N1cHBvcnRlcnMvIj5TdXBwb3J0ZXJzPC9hPsKgfMKgPGEgaHJlZj0iaHR0cDovL2NoaWxkZnVuZC5jdXN0aGVscC5jb20vY2dpLWJpbi9jaGlsZGZ1bmQuY2ZnL3BocC9lbmR1c2VyL3N0ZF9hbHAucGhwIj5GQVFzPC9hPsKgfMKgPC9kaXY+PGRpdiBpZD0ic2VhcmNoLWlucHV0Ij48aW5wdXQgaWQ9InR4dFNpdGVTZWFyY2giIGNsYXNzPSJzZWFyY2hib3giIHNpemU9IjI1IiB0eXBlPSJ0ZXh0IiBuYW1lPSJ0eHRTaXRlU2VhcmNoIiBvbmJsdXI9ImJTZWFyY2hGb2N1cyA9IGZhbHNlIiBvbmZvY3VzPSJiU2VhcmNoRm9jdXMgPSB0cnVlIiAvPjxpbWcgc3R5bGU9IkNVUlNPUjogcG9pbnRlciIgaWQ9IlNpdGVTZWFyY2hHb0J0biIgYm9yZGVyPSIwIiBhbHQ9IlNlYXJjaCIgc3JjPSIvdXBsb2FkZWRJbWFnZXMvcHVibGljX3NpdGUvZ2VuZXJhbC9idXR0b25zL2J0bl9zZWFyY2gtaGVhZGVyLmdpZiIgb25jbGljaz0ienp6X1NlYXJjaCgpIiAvPjwvZGl2PjwvZGl2PjxkaXYgaWQ9ImNoaWxkZnVuZF9sb2dvIj48YSB0aXRsZT0iU3BvbnNvciBhIENoaWxkIiBocmVmPSIvIiBib3JkZXI9IjAiPjxpbWcgYm9yZGVyPSIwIiBhbHQ9IkNoaWxkRnVuZCBMb2dvIiBzcmM9Ii91cGxvYWRlZEltYWdlcy9wdWJsaWNfc2l0ZS9nZW5lcmFsL2NoaWxkZnVuZF9sb2dvLmdpZiIgd2lkdGg9IjIxMCIgaGVpZ2h0PSI2MCIgLz48L2E+PGltZyBjbGFzcz0icHJpbnQiIGJvcmRlcj0iMCIgYWx0PSJDaGlsZEZ1bmQgTG9nbyIgc3JjPSIvdXBsb2FkZWRJbWFnZXMvcHVibGljX3NpdGUvZ2VuZXJhbC9jaGlsZGZ1bmRfbG9nby5qcGciIHdpZHRoPSIyMzEiIGhlaWdodD0iNTkiIC8+PC9kaXY+ZGS1u16bWz0a5vr2QXggNHZ0QPhDYA==">
+</div>
 
 
-<!-- Begin homepage top navigation bar -->
-<tbody><tr class="header_row" valign="top">
-<td colspan="3" class="header_logo" align="left">
-	<script language="javascript">
+<script src="/ScriptResource.axd?d=TzXoZf6kQS1QXFmLtJEV1adxd6RC57sILEaGV5hW1FA41AgtIdIIDvm557-6mtOlT9a14AK9sAGgNGjBqu4WQJ1Q-_ZZ-zMQtMRjt9EiO2u7e0w5IEAKuDfY7dvmraGlWmRWGf0EgB587Y6PZv4t9T212Fs1&amp;t=124b2ae7" type="text/javascript"></script>
+    
+    <div id="wrapper">
+        <!-- centers site content -->
+        <!-- HEADER CONTENT BLOCK -->
+        <div id="header">
+            <script type="text/javascript"><!--
 var bSearchFocus = false;
 function zzz_Search()
-{	var RightNow = 'http://christianchildrensfund.custhelp.com/cgi-bin/christianchildrensfund.cfg/php/enduser/widx_alp.php?p_widx=1&p_page=1&p_search_text=xxx&p_new_search=1&p_search_type=1&p_sort_by=1';
-var searchFor = document.getElementById('txtSiteSearch').value
+{
+var RightNow = 'http://childfund.custhelp.com/cgi-bin/childfund.cfg/php/enduser/widx_alp.php?p_widx=1&p_page=1&p_search_text=xxx&p_new_search=1&p_search_type=1&p_sort_by=1';
+var searchFor = document.getElementById('txtSiteSearch').value;
 window.location = RightNow.replace('p_search_text=xxx','p_search_text=' + searchFor);
-		}
+}
+--></script><div id="utility_nav"><div id="login-logout"><a href="/login/login.aspx"><img alt="Sign In" src="/uploadedImages/public_site/general/buttons/btn_sign-in.gif"></a></div><div id="accnt-maint_mychildfund"></div><div id="shopping-cart"><a href="/giftcatalog/giftcatalogcontinue.aspx">Cart (0)</a></div><div id="secondary-nav"><a title="About Us" href="/about_us/">About Us</a>&nbsp;|&nbsp;<a title="Supporters" href="/supporters/">Supporters</a>&nbsp;|&nbsp;<a href="http://childfund.custhelp.com/cgi-bin/childfund.cfg/php/enduser/std_alp.php">FAQs</a>&nbsp;|&nbsp;</div><div id="search-input"><input id="txtSiteSearch" class="searchbox" size="25" type="text" name="txtSiteSearch" onblur="bSearchFocus = false" onfocus="bSearchFocus = true"><img style="CURSOR: pointer" id="SiteSearchGoBtn" border="0" alt="Search" src="/uploadedImages/public_site/general/buttons/btn_search-header.gif" onclick="zzz_Search()"></div></div><div id="childfund_logo"><a title="Sponsor a Child" href="/" border="0"><img border="0" alt="ChildFund Logo" src="/uploadedImages/public_site/general/childfund_logo.gif" width="210" height="60"></a><img class="print" border="0" alt="ChildFund Logo" src="/uploadedImages/public_site/general/childfund_logo.jpg" width="231" height="59"></div>
+        </div>
+        <!-- END HEADER CONTENT BLOCK -->
+        <div id="content_wrap">
+            <!-- MAIN MENU CONTENT BLOCK -->
+            <div id="menu_wrapper">
+                
+                
+                <ul id="main_menu">
+<!-- CHILDREN --><li id="children"><a href="/children/"><img alt="Children" src="/uploadedImages/public_site/submenus/01_children.jpg"></a> <ul>
+<li class="ddMenuBottom"><a href="/children/">Overview</a> </li>
+</ul>
+</li>
+<!-- PLACES --><li id="places"><a href="/places/"><img alt="Places" src="/uploadedImages/public_site/submenus/02_places.jpg"></a> <ul>
+<li class="ddMenuBottom"><a href="/places/">Overview</a> </li>
+</ul>
+</li>
+<!-- EXPLORE --><li id="explore"><a href="/explore/"><img alt="Explore" src="/uploadedImages/public_site/submenus/03_explore.jpg"></a> <ul>
+<li class="ddMenuMiddle"><a href="/explore/">Explore</a> </li>
+<li class="ddMenuBottom"><a href="/child-nutrition/">Child Nutrition</a> </li>
+</ul>
+</li>
+<!--START Sponsor a Child--><li id="sponsor"><a title="Child Sponsorship Opportunities" href="/child-sponsorship/sponsor-a-child.aspx" name="Sponsor a Child"><img alt="Sponsor a Child" src="/uploadedImages/public_site/submenus/04_sponsor.jpg"></a> <ul>
+<li class="ddMenuMiddle"><a href="/child-sponsorship/sponsor-a-child.aspx">Sponsor a Child</a> </li>
+<li class="ddMenuMiddle"><a href="/how-sponsorship-works/">How It Works</a> </li>
+<li class="ddMenuBottom"><a href="/sponsorship-jumpstart.aspx">For Sponsors</a> </li>
+</ul>
+</li>
+<!--START ways to help--><li id="help"><a title="Ways to Help Children in Need" href="/ways_to_help/"><img border="0" alt="Ways to Help" src="/uploadedImages/public_site/submenus/05_help.jpg"></a> <ul>
+<li class="ddMenuMiddle"><a href="/ways_to_help/">Overview</a> </li>
+<li class="ddMenuMiddle"><a href="/emergency_updates/">Emergencies</a> </li>
+<li class="ddMenuMiddle"><a href="http://www.mychildfund.org/childfundchallenge/">ChildFund Challenge</a></li>
+<li class="ddMenuMiddle"><a href="/make-a-donation.aspx">Make a Donation</a> </li>
+<li class="ddMenuMiddle"><a href="/giftcatalog/giftcataloghomepage.aspx">Gift Catalog</a> </li>
+<li class="ddMenuMiddle"><a href="http://www.mychildfund.org/giftregistry/">Gift Registry</a> </li>
+<li class="ddMenuMiddle"><a href="http://www.mychildfund.org/fundaproject/">Fund a Project</a> </li>
+<li class="ddMenuMiddle"><a href="http://www.mychildfund.org/monthlygiving/">Monthly Giving</a> </li>
+<li class="ddMenuMiddle"><a href="http://www.legacy.vg/childfund">Planned Giving</a> </li>
+<li class="ddMenuMiddle"><a href="/stock-gifts/">Stock Gifts</a> </li>
+<li class="ddMenuMiddle"><a href="http://matchfinderonline.blackbaud.com/MatchGiftInquiry.aspx?cid=2801">Matching Gifts</a> </li>
+<li class="ddMenuMiddle"><a href="/cfc_campaign/">Workplace Giving</a> </li>
+<li class="ddMenuMiddle"><a href="/ChildFund-Tool-Kit/">ChildFund Tool Kit</a> </li>
+<li class="ddMenuMiddle"><a href="/ways_to_help/post_card.aspx">Send an eCard</a> </li>
+<li class="ddMenuMiddle"><a href="http://childfundstore.com">ChildFund Store</a> </li>
+<li class="ddMenuBottom"><a href="http://www.childfundcards.com/" title="ChildFund Holiday Cards" target="_blank">ChildFund Holiday Cards</a> </li>
+</ul>
+</li>
+<!--START media--><li id="media"><a href="/media/"><img alt="Media" src="/uploadedImages/public_site/submenus/06_media.jpg"></a> <ul>
+<li class="ddMenuMiddle"><a href="/media/">Overview</a> </li>
+<li class="ddMenuMiddle"><a href="/articles/">Articles</a> </li>
+<li class="ddMenuMiddle"><a href="/press_releases/">Press Releases</a> </li>
+<li class="ddMenuMiddle"><a href="http://www.youtube.com/user/childfundtube">Video</a> </li>
+<li class="ddMenuMiddle"><a href="/emergency_updates/">Emergency Updates</a> </li>
+<li class="ddMenuMiddle"><a href="/Anne-visits-India/">Anne's Visit to India</a> </li>
+<li class="ddMenuMiddle"><a href="/Advocating-for-Children/">Advocating for Children</a></li>
+<li class="ddMenuMiddle"><a href="/publications/">Publications</a> </li>
+<li class="ddMenuMiddle"><a href="http://blog.childfund.org/">Blog</a> </li>
+<li class="ddMenuMiddle"><a href="/in_the_media/">In the Media</a> </li>
+<li class="ddMenuBottom"><a href="/stay_connected/">Stay Connected</a> </li>
+</ul>
+</li>
+<li id="catalog"><a href="/giftcatalog/giftcataloghomepage.aspx"><img alt="Gift Catalog" src="/uploadedImages/public_site/submenus/07_catalog.jpg"></a> </li>
+<li id="donate"><a href="/make-a-donation.aspx"><img alt="Donate Now" src="/uploadedImages/public_site/submenus/08_donate.jpg"></a> </li>
+</ul>
+
+            </div>
+            <!-- END MAIN MENU CONTENT BLOCK -->
+            
+<!-- EKTRON CONTENT -->
+        <div id="ekt_content">
+            <h1>ChildFund International Privacy Policy</h1>
+<p>We at ChildFund International respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect, how we may use that information, and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, remove your name from our mailing lists, or answer any questions you may have about our privacy practices. We maintain full confidentiality of all sponsors and contributors on our mailing and email lists, which will neither be sold to nor exchanged with any other organization or commercial enterprise. We do share some information as described in the section below titled, Information We Share.</p>
+<p>Click on one of the links below to jump to the listed section:</p>
+<ul>
+<li><a title="Information We Collect and How We Use It" href="#Information_we_collect_and_how_we_use_it">Information We Collect and How We Use It</a></li>
+<li><a title="E-mail Communications" href="#E-mail_Communications">E-mail Communications</a></li>
+<li><a title="Send a Post Card to a Friend" href="#Send_a_post_card_to_a_friend">Send a Post Card to a Friend</a></li>
+<li><a title="Donations" href="#Donations">Donations</a></li>
+<li><a title="Questionnaires and Surveys" href="#Questionnaires_and_Surveys">Questionnaires and Surveys</a></li>
+<li><a title="Contests and Games" href="#Contests_and_Games">Contests and Games</a></li>
+<li><a title="Contact ChildFund International" href="#contact_childfund">Contact ChildFund International</a></li>
+<li><a title="Cookies and Web Beacons" href="#Cookies_and_Web_Beacons">Cookies and Web Beacons</a></li>
+<li><a title="Information We Share" href="#Information_We_Share">Information We Share</a></li>
+<li><a title="Links to Other Sites" href="#Links_to_Other_Sites">Links to Other Sites</a></li>
+<li><a title="Security" href="#Security">Security</a></li>
+<li><a title="Your Choices" href="#Your_Choices">Your Choices</a></li>
+<li><a title="Updates to this Privacy Notice" href="#Updates_to_this_Privacy_Notice">Updates to this Privacy Notice</a></li>
+<li><a title="How to Contact Us" href="#How_to_Contact_Us">How to Contact Us</a></li>
+</ul>
+<p><a name="Information_we_collect_and_how_we_use_it"></a><strong>Information We Collect and How We Use It</strong></p>
+<p>You may choose to provide personal information (such as your name, address, telephone number and e-mail address) either by phone, mail or on our Web site. Here are the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information.</p>
+<p><a name="E-mail_Communications"></a><strong>E-mail Communications</strong></p>
+<p>When you ask us to send you e-mail such as our free e-mail newsletter, you may provide us with certain information like your e-mail address so we can fulfill your request. You may choose to provide additional information as well, such as your postal address and phone number.</p>
+<p><a name="Send_a_post_card_to_a_friend"></a><strong>Send a Post Card to a Friend</strong></p>
+<p>If you take advantage of our Send a Post Card to a Friend feature, we ask for your friend’s and your first name and e-mail addresses. We use your friend’s name and e-mail address only to send the information you requested that we forward. We don’t keep your friend’s e-mail address or use it for any other purpose.</p>
+<p><a name="Donations"></a><strong>Donations</strong></p>
+<p>When you make a donation through our Web site (for example, by sponsoring a child), we may ask you to submit certain personal information (such as credit card information) so we can process your donation. We use the credit card information you provide only to fulfill the transaction you requested. We maintain that information in our customer service records in the event you choose to make another donation later. We also maintain your contact information in our records so we can contact you to provide ChildFund program information and information on additional giving opportunities.</p>
+<p><a name="Questionnaires_and_Surveys"></a><strong>Questionnaires and Surveys</strong></p>
+<p>We occasionally may ask visitors to our Web site to complete online surveys and opinion polls about their activities, attitudes and interests. These surveys help us understand the needs of our visitors. We do not keep any personal information about you in connection with your participation in a Web site survey unless you specifically agree to provide this information.</p>
+<p><a name="Contests_and_Games"></a><strong>Contests and Games</strong></p>
+<p>Our site occasionally may contain notices of contests or games we are conducting, which you may enter electronically in some cases. We use the information you provide to conduct the contest or game (for example, to contact you if you are a winner). We won’t use the information you provided to enter the contest or game for any other purpose unless you’ve agreed otherwise.</p>
+<p><a name="contact_childfund"></a><strong>Contact ChildFund International</strong></p>
+<p>You may choose to contact us through our Web site. We provide online forms so you may, for example, (1) ask a question, (2) update your address or (3) request more information. We use the information you provide on these forms to fulfill your request. We use the information you provide to respond to your inquiries.</p>
+<p><a name="Cookies_and_Web_Beacons"></a><strong>Cookies and Web Beacons</strong></p>
+<p>When you visit our Web site, your browser automatically sends us certain Internet-related information (such as the Internet Protocol (IP) address of the computer you’re using). We also may use cookies and Web beacons to better understand how visitors use our site.</p>
+<p>Cookies are small text files that Web sites often store on the computer hard drives of visitors to their sites. A cookie contains a unique code, which is used to recognize your computer when a user of your computer returns to a Web site that was visited previously. Web beacons are Internet tools that help us determine, for example, whether a Web site page has been viewed. We use cookies and Web beacons to enhance the online experience of our visitors and to better understand how our site is used. Cookies and Web beacons may tell us, for example, whether you have visited our site before or whether you are a new visitor.</p>
+<p>The “help” portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, without cookies, you may not be able to take full advantage of all of ChildFund International’s Web site features.</p>
+<p><a name="Information_We_Share"></a><strong>Information We Share</strong></p>
+<p>ChildFund International does not sell, rent, trade or otherwise disclose personal information about our Web site visitors, except as described here. We share information provided by our Web site visitors with service providers that we have retained to perform services on our behalf - for example, to process donations. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law, (ii) in response to a request from law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.</p>
+<p>We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to direct the transferee to use personal information you have provided through this Web site in a manner that is consistent with this Privacy Notice.</p>
+<p><a name="Links_to_Other_Sites"></a><strong>Links to Other Sites</strong></p>
+<p>Occasionally we provide links to other Web sites for your convenience and information. These sites operate independently from our site and are not under our control. These sites may have their own privacy notices in place, which we strongly suggest you review if you visit any linked Web sites. We are not responsible for the content of these sites, any products or services that may be offered through these sites, or any other use of these sites.</p>
+<p><a name="Security"></a><strong>Security</strong></p>
+<p>We maintain administrative, technical and physical safeguards to protect against unauthorized disclosure, use, alteration or destruction of the personal information in our possession. When you provide credit card information to make a donation, we use the industry standard for Internet security -- Secure Socket Layer (SSL) technology -- to help protect the information you provide. This Internet encryption standard scrambles data as it travels from your computer to our server. Please note, however, that perfect security does not exist on the Internet. You’ll know that you’re in a secure area of our Web site when a “lock” icon appears on your screen and the “http” portion of our URL address changes to “https.” The “s” stands for “secure.”</p>
+<p><a name="Your_Choices"></a><strong>Your Choices</strong></p>
+<p>If you would like to update your contact information or prefer not to receive certain communications from us (such as e-mail), please call or write us using one of the options provided below or visit <a href="/contact_us">www.childfund.org/contact_us</a>.</p>
+<p><a name="Updates_to_this_Privacy_Notice"></a><strong>Updates to this Privacy Notice</strong></p>
+<p>We may change or update portions of this Privacy Notice at any time and without prior notice to you. Please check back from time to time so you are aware of any changes or updates to the Notice. We will indicate below the effective date of the Notice.</p>
+<p><a name="How_to_Contact_Us"></a><strong>How to Contact Us</strong></p>
+<p>If you would like us to update your contact information or remove your name from our e-mail or postal mailing lists, or if you have any questions about our information practices, please contact us by:</p>
+<p>visiting <a href="/contact_us">www.childfund.org/contact_us</a></p>
+<p>calling us at (800) 776-6767 or (804) 756-2700</p>
+
+        </div>
+<!-- EKTRON CONTENT -->
+
+            <!-- FOOTER CONTENT BLOCK -->
+            <div id="footer">
+                <div class="footer" id="PgFt">
+    <hr>
+    <div class="section first" id="PgFt-Section-Links">
+      <h4>Site Navigation</h4>
+      <div class="nav first">
+        <ul>
+          <li>
+            <strong><a href="/" title="Sponser a Child">Home</a></strong>
+          </li>
+          <li>
+            <strong><a href="/make-a-donation.aspx">Donate Now</a></strong>
+          </li>
+          <li>
+            <strong><a href="/child-sponsorship/sponsor-a-child.aspx" title="Child Sponsorship Opportunities">Sponsor a Child</a></strong>
+          </li>
+          <li>
+            <strong><a href="/giftcatalog/giftcataloghomepage.aspx">Gift Catalog</a></strong>
+          </li>
+          <li>
+            <strong><a href="/ways_to_help/" title="Ways to Help Children in Need">Ways to Help</a></strong>
+          </li>
+        </ul>
+      </div>
+      <div class="nav">
+        <ul>
+          <li>
+            <a href="/children/">Children</a>
+          </li>
+          <li>
+            <a href="/places/" title="Sponsor Children Worldwide">Places</a>
+          </li>
+          <li>
+            <a href="/explore/">Explore</a>
+          </li>
+          <li>
+            <a href="/media/">Media</a>
+          </li>
+          <li>
+            <a href="/about_us/">About Us</a>
+          </li>
+          <li>
+            <a href="/supporters/">Supporters</a>
+          </li>
+        </ul>
+      </div>
+      <div class="nav">
+        <ul>
+          <li>
+            <a href="http://childfund.custhelp.com/cgi-bin/childfund.cfg/php/enduser/std_alp.php">FAQs</a>
+          </li>
+          <li>
+            <a href="/sitemap">Site Map</a>
+          </li>
+          <li>
+            <a href="/privacy_policy">Privacy Policy</a>
+          </li>
+          <li>
+            <a href="/terms_of_use">Terms of Use</a>
+          </li>
+          <li>
+            <a href="/careers/">Careers</a>
+          </li>
+          <li>
+            <a href="http://childfund.custhelp.com/cgi-bin/childfund.cfg/php/enduser/ask.php?p_li=">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="section" id="PgFt-Section-Accountability">
+      <h4>Accountability</h4>
+      <p>
+        ChildFund International has earned high ratings from Charity Navigator, the American Institute of Philanthropy and Charities Review Council.
+        <br>
+        <br>
+        <a href="/accountability/">Learn more about our financial accountability</a> <b style="FONT-SIZE: 0.9em; color:#4d4e53;">&gt;</b>
+      </p>
+    </div>
+    <div class="section" id="PgFt-Section-Connect">
+      <div class="connect cf">
+        <h4>Connect:</h4>
+        <ul class="socialLinks">
+          <li class="facebook">
+            <a href="http://www.facebook.com/ChildFundInternational" onclick="orgchildfund.recordOutboundLink(this,'Outbound Links','Facebook','Footer'); return false;">Facebook</a>
+          </li>
+          <li class="twitter">
+            <a href="http://twitter.com/#!/ChildFund" onclick="orgchildfund.recordOutboundLink(this,'Outbound Links','Twitter','Footer'); return false;">Twitter</a>
+          </li>
+          <li class="blog">
+            <a href="http://blog.childfund.org/" onclick="orgchildfund.recordOutboundLink(this,'Outbound Links','Blog','Footer'); return false;">Blog</a>
+          </li>
+          <li class="youtube">
+            <a href="http://www.youtube.com/user/childfundtube" onclick="orgchildfund.recordOutboundLink(this,'Outbound Links','YouTube','Footer'); return false;">YouTube</a>
+          </li>
+          <li class="pinterest">
+            <a href="http://www.pinterest.com/ChildFund" onclick="orgchildfund.recordOutboundLink(this,'Outbound Links','Pinterest','Footer'); return false;">Pinterest</a>
+          </li>
+          <li class="googleplus">
+            <a href="http://www.gplus.to/ChildFund" onclick="orgchildfund.recordOutboundLink(this,'Outbound Links','Google+','Footer'); return false;">Google+</a>
+          </li>
+          <li class="linkedin">
+            <a href="http://www.linkedin.com/company/childfund-international" onclick="orgchildfund.recordOutboundLink(this,'Outbound Links','LinkedIn','Footer'); return false;">LinkedIn</a>
+          </li>
+          <li class="textalerts">
+            <a title="Text Alerts" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=3986">Text Alerts</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="vcard cf" id="PgFt-Vcard">
+        <h5>Contact:</h5>
+        <a href="http://www.childfund.org/" class="url fn org">ChildFund International</a>
+        <div class="adr">
+          <div>
+            Phone:&nbsp;<span class="tel">800-776-6767</span>
+          </div>
+          <div class="emailContainer">
+            Email:&nbsp;<a href="mailto:questions@childfund.org" class="email">questions@ChildFund.org</a>
+          </div>
+          <div class="street-address">
+            2821 Emerywood Parkway
+          </div>
+          <div>
+            <span class="locality">Richmond</span>, <span class="region">VA</span>&nbsp;&nbsp;<span class="postal-code">23294</span><span class="country-name">USA</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section" id="PgFt-Section-MemberOrgs">
+      <h4>Member Organizations / Affiliations</h4>
+      <div class="logo" id="PgFt-BBB">
+        &nbsp;
+      </div>
+      <div class="logo" id="PgFt-CRC">
+        &nbsp;
+      </div>
+      <div class="logo" id="PgFt-ITA">
+        &nbsp;
+      </div>
+      <div class="logo" id="PgFt-CFA">
+        <a href="http://www.childfundalliance.org/">ChildFund Alliance</a>
+      </div>
+    </div>
+    <div id="PgFt-FootNote">
+      <div class="copyright">
+        Copyright&nbsp;©&nbsp;2012 ChildFund. <a href="/media/publications/annual_reports/Annual_Reports.aspx">A 501(c)(3) organization</a>. All donations are tax-deductible in full or in part.
+      </div>
+      <div>
+        <a href="#wrapper">Return to top</a>
+      </div>
+    </div>
+  </div>
+
+            </div>
+            <!-- END FOOTER CONTENT BLOCK -->
+        </div>
+        <!-- end content wrap -->
+    </div>
+    <!-- end wrapper -->
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
 </script>
+</form>
 
-<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr class="header_row" valign="top">
-		<td class="header_logo" align="left" colspan="3"><nobr><!-- IRB 7784 cobrand --><img alt="Christian Children's Fund Logo" src="/uploadedImages/public_site/navigation/logotop_cobrand.gif" border="0"><img alt="Child photo" src="/uploadedImages/public_site/navigation/bannerchildren/img_8_top_cobrand.jpg" border="0"></nobr></td>
-	</tr>
-	<tr class="header_row" valign="top">
-		<td class="header_tools" align="left">
-			<table cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>
-					<td><!-- IRB 7784 cobrand --><img alt="Christian Children's Fund Logo" src="/uploadedImages/public_site/navigation/logobottom_cobrand.gif" border="0"></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td class="header_tools" align="right" height="1">
-			<table cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>
-					<td><a href="/default.aspx"><img alt="Home" src="/uploadedImages/public_site/navigation/home.gif" border="0"></a><a href="https://www.christianchildrensfund.org/register/RNregister.aspx"><img alt="Ask CCF" src="/uploadedImages/public_site/navigation/askccf.gif" border="0"></a><a href="http://christianchildrensfund.custhelp.com/cgi-bin/christianchildrensfund.cfg/php/enduser/std_alp.php"><img alt="FAQ" s'="" src="/uploadedImages/public_site/navigation/faqs.gif" border="0"></a><a href="/content.aspx?id=522"></a><img alt="Search" src="/uploadedImages/public_site/navigation/search.gif" border="0"></td><td><table cellpadding="0" cellspacing="0" border="0" height="1"><tbody><tr><td><input type="text" onfocus="bSearchFocus = true" onblur="bSearchFocus = false" id="txtSiteSearch" name="txtSiteSearch" class="searchbox" size="10"></td><td><img id="SiteSearchGoBtn" style="cursor:hand" onclick="zzz_Search()" alt="Go button" src="/uploadedImages/public_site/navigation/go.gif" border="0"></td></tr></tbody></table></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td class="header_tools" align="right">
-			<table cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>
-					<td><a href="/sponsorship/sponsorentry.aspx" style="border-width=0"><img alt="Sponsor a child" src="/uploadedImages/public_site/navigation/sponsor.gif" border="0"></a></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-</td>
-</tr>
-<!-- End homepage top navigation bar -->
-
-
-<!-- Begin article body -->
-<tr class="body_row" valign="top">
-<!-- Begin left navigation bar -->
-<td class="body_left" width="158">
-	<table id="ctl00_ctl00_tbl_Nav" cellspacing="0" cellpadding="0" border="0" width="100%">
-	<tbody><tr>
-		<td class="leftnav_links"><table class="leftnav_table" border="0">
-			<tbody><tr>
-				<td class="leftnav_header">Sponsorships &amp; Giving</td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/sponsorship/sponsorEntry.aspx" class="">Sponsor a child</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/donate/donate.aspx" class="">Make a donation</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=4882" class="">Planned giving</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/giftcatalog/giftcatalog.aspx" class="">Gifts of Love &amp; Hope Catalog</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=123" class="">Study Tours</a></td>
-			</tr>
-		</tbody></table></td>
-	</tr><tr>
-		<td class="leftnav_divider"><img alt="" src="/uploadedImages/public_site/navigation/divider.gif" border="0"></td>
-	</tr><tr>
-		<td class="leftnav_links"><table class="leftnav_table" border="0">
-			<tbody><tr>
-				<td class="leftnav_header">News &amp; Information</td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=513" class="">Newsroom</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=514" class="">Publications</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=515" class="">Annual reports</a></td>
-			</tr><tr>
-				<td class="leftnav_content">Resources for:</td>
-			</tr><tr>
-				<td class="leftnav_content">&nbsp;&nbsp;&nbsp;<img border="0" src="/uploadedImages/public_site/navigation/bullet.gif" alt="#">&nbsp;<a href="http://www.christianchildrensfund.org:80/content.aspx?id=558" class="">Journalists</a></td>
-			</tr><tr>
-				<td class="leftnav_content">&nbsp;&nbsp;&nbsp;<img border="0" src="/uploadedImages/public_site/navigation/bullet.gif" alt="#">&nbsp;<a href="http://www.christianchildrensfund.org:80/content.aspx?id=559" class="">Development professionals</a></td>
-			</tr><tr>
-				<td class="leftnav_content">&nbsp;&nbsp;&nbsp;<img border="0" src="/uploadedImages/public_site/navigation/bullet.gif" alt="#">&nbsp;<a href="http://www.christianchildrensfund.org:80/content.aspx?id=560" class="">Grant partners</a></td>
-			</tr>
-		</tbody></table></td>
-	</tr><tr>
-		<td class="leftnav_divider"><img alt="" src="/uploadedImages/public_site/navigation/divider.gif" border="0"></td>
-	</tr><tr>
-		<td class="leftnav_links"><table class="leftnav_table" border="0">
-			<tbody><tr>
-				<td class="leftnav_header">About CCF</td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=104" class="">Accountability</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=515" class="">Stewardship</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=555" class="">Mission &amp; ethics</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=710" class="">Where we work</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=144" class="">What we do</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=556" class="">About sponsorship</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://www.christianchildrensfund.org:80/content.aspx?id=557" class="">Get involved</a></td>
-			</tr><tr>
-				<td class="leftnav_content"><a href="http://hostedjobs.openhire.com/epostings/jobs/submit.cfm?version=1&amp;company_id=15818" class="">Careers at CCF</a></td>
-			</tr>
-		</tbody></table></td>
-	</tr>
-</tbody></table>
-<table align="center" border="0">
-	<tbody><tr>
-		<td><a href="https://www.christianchildrensfund.org/register/CWRegister.aspx" id="ctl00_ctl02_aCWlink"><img border="0" src="/uploadedimages/public_site/navigation/childwire.gif"></a></td>
-	</tr><tr>
-		<td><a href="/uploadedFiles/Public_Site/multimedia/Timeline/timeline.html" id="ctl00_ctl03_aTLlink"><img border="0" src="/uploadedImages/Public_Site/timeline.jpg"></a></td>
-	</tr>
-</tbody></table>
-
-</td>
-<!-- End left navigation bar -->
-<!-- Begin content area -->
-<td class="body_cell" width="482" align="left">
-	
-<script language="JavaScript" type="text/javascript">
-<!--
-function CancelWindow() {
-	self.close();
-}
-
-function PopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) {
-	var cToolBar = 'toolbar=0,location=0,directories=0,status=' + nResize + ',menubar=0,scrollbars=' + nScroll + ',resizable=' + nResize + ',width=' + nWidth + ',height=' + nHeight;
-	var popupwin = window.open(url, hWind, cToolBar);
-	return popupwin;
-}
-
-function openWindow(url){
-	newWindow=window.open(url,'newWin','tollbar=yes,location=yes,scrollbars=yes,width=300,hight=200')
-}
-
-function openWindow2(url){
-	newWindow=window.open(url,'newWin','tollbar=yes,menubar=yes,location=yes,scrollbars=yes,directories=yes')
-}
-
-function closeWindow()
-	{
-	if(newWindow && !newWindow.closed)
-		{
-			newWindow.close()
-		}	
-	}
-	
-function PopUpWindowFull (url, hWind, nWidth, nHeight, nResize)
-	{
-	var cToolBar = "toolbar=yes,location=yes,directories=yes,resizable=1,status=" + nResize + ",menubar=yes,scrollbars=yes,width=" + nWidth + ",height=" + nHeight
-	var popupwin = window.open(url, hWind, cToolBar);
-	return popupwin;
-	}
-
-function QuickLinkSelect(baseFolderID, formName,  titleFormElem, useQLinkCheck, SetBrowserState) {
-	// There are specific requirements for this function. See "QuickLinkSelect.asp" for those.
-	//
-	var sendQString = '?folderid=' + baseFolderID + '&formName=' + formName + '&titleFormElem=' + 
-				titleFormElem + '&useQLinkCheck=' +  useQLinkCheck + '&SetBrowserState=' + SetBrowserState;
-	var cToolBar = 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=450,height=300';
-				
-	window.open('QuickLinkSelect.asp' + sendQString, 'QlinkSelectWin', cToolBar) ;
-	
-	return true ;
-}
-
-function Trim (string) {
-	if (string.length > 0) {
-		string = RemoveLeadingSpaces (string);
-	}
-	if (string.length > 0) {
-		string = RemoveTrailingSpaces(string);
-	}
-	return string;
-}
-	
-function RemoveLeadingSpaces(string) {
-	while(string.substring(0, 1) == " ") {
-		string = string.substring(1, string.length);
-	}
-	return string;
-}
-
-function RemoveTrailingSpaces(string) {
-	while(string.substring((string.length - 1), string.length) == " ") {
-		string = string.substring(0, (string.length - 1));
-	}
-	return string;
-}
-	
-function EnableElement(id, bEnable)
-{
-	var objElem = document.getElementById(id);
-	if (objElem)
-	{
-		// Mozilla FireFox 1.0 does not support .disabled for <label>
-		if (typeof objElem.disabled != "undefined")
-		{
-			objElem.disabled = !bEnable;
-		}
-		// if a label, follow the 'for' attribute as well
-		if (typeof objElem.htmlFor != "undefined")
-		{
-			// don't use recursion to avoid possibility of infinite recursion
-			objElem = document.getElementById(objElem.htmlFor);
-			if (objElem && typeof objElem.disabled != "undefined")
-			{
-				objElem.disabled = !bEnable;
-			}
-		}
-	}
-}
-	
-function ShowElement(id, bShow)
-{
-	var objElem = document.getElementById(id);
-	if (objElem)
-	{
-		objElem.style.display = (bShow ? "" : "none");
-		ShowSelectElements(objElem, bShow);	
-	}
-}
-
-function ShowSelectElements(objElem, bShow)
-// due to a bug in IE, descendent select lists may still be displayed
-// so target each individually
-{
-	if (!objElem) return;
-	if ("undefined" == typeof objElem.children) return;
-	if ("SELECT" == objElem.tagName)
-	{
-		objElem.style.display = (bShow ? "" : "none");
-	}
-	else
-	{
-		for (var i = 0; i < objElem.children.length; i++)
-		{
-			ShowSelectElements(objElem.children[i], bShow);
-		}
-	}
-}
-
-function GetElementValue(oElem)
-{
-	if (!oElem) return;
-	if (typeof oElem.value != "undefined")
-	{
-		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type || "radio" == oElem.type))
-		{
-			var strValue = oElem.value + "";
-			if (strValue.length > 0 && strValue != "true")
-			{
-				if (oElem.checked)
-				{
-					return strValue;
-				}
-				else
-				{
-					return "";
-				}
-			}
-			else // boolean
-			{
-				if (oElem.checked)
-				{
-					return true;
-				}
-				else
-				{
-					return false;
-				}
-			}
-		}
-		else
-		{
-			return oElem.value;
-		}
-	}
-	else if (typeof oElem.innerHTML != "undefined")
-	{
-		return oElem.innerHTML;
-	}
-	else if (typeof oElem.innerText != "undefined")
-	{
-		return oElem.innerText;
-	}
-	else
-	{
-		return; // no value
-	}
-}
-
-function SetElementValue(oElem, value)
-{
-	if (!oElem) return;
-	if (typeof oElem.value != "undefined")
-	{
-		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type))
-		{
-			// boolean
-			if ("true" == value || true == value)
-			{
-				oElem.checked = true;
-			}
-			else if ("false" == value || false == value)
-			{
-				oElem.checked = false;
-			}
-			else
-			{
-				oElem.value = value;
-			}
-		}
-		else
-		{
-			oElem.value = value;
-		}
-	}
-	else if (typeof oElem.innerHTML != "undefined")
-	{
-		oElem.innerHTML = value;
-	}
-	else if (typeof oElem.innerText != "undefined")
-	{
-		oElem.innerText = value;
-	}
-}
-
-function numberValidate(field)
-{
-	if (field.value == "")
-	{
-		return true;
-	}
-	if ((! /^\d+$/.test(field.value)) && field.value != "") 
-	{  
-		alert("You must use only numeric characters");
-		field.value = "";
-		field.focus();
-		return false;		
-	} 
-	return true;
-}
-	
-function textareaValidate(field)
-{
-	var strText = GetElementValue(field) + "";
-	var len = strText.length;
-	if(len > 500)
-	{
-		alert("Over limit of characters in text box.");
-		field.focus();
-		return false;	
-	}
-	return true;
-}
-
-function ValidateMeta(formName)
-// CAUTION: do not name this function 'V a l i d a t e M e t a d a t a', 
-// suspect the word 'M e t a d a t a' causes ASP to omit the JavaScript
-{
-
-	var reqfields;
-	var validationfields;
-	var validpair;
-	var objform = document.forms[formName];
-	if(objform.req_fields)
-	{
-		reqfields = objform.req_fields.value.split(",");
-		for(var i = 0; i < reqfields.length; i++)
-		{
-			if(objform.elements[reqfields[i]])
-			{
-				if(objform.elements[reqfields[i]].value == "")
-				{
-					alert('js: alert cannot submit meta incomplete');
-					//objform.elements[reqfields[i]].focus();
-					return false;
-				}
-			}
-		}
-	}
-	if(objform.needed_validation)
-	{
-		validationfields = objform.needed_validation.value.split(":");
-		for(var j = 0; j < validationfields.length; j++)
-		{
-			validpair = validationfields[j].split(",");
-			if(objform.elements[validpair[0]])
-			{
-				if(validpair[1] == "number")
-				{
-					if(!numberValidate(objform.elements[validpair[0]]))
-					{
-						return false;
-					}
-				}
-				else if(validpair[1] == "text")
-				{
-					if(!textareaValidate(objform.elements[validpair[0]]))
-					{
-						return false;
-					}
-				}
-				else if(validpair[1] == "date")
-				{
-					var originalDate;
-					var arrayForNumber = validpair[0].split("_");
-					if(arrayForNumber.length > 0)
-					{
-						if(arrayForNumber[0] = "frm_text")
-						{
-							originalDate = "frm_text_sel" + arrayForNumber[arrayForNumber.length-1];
-							objform.elements[originalDate].value = Trim(objform.elements[originalDate].value);
-						}
-					}
-					else
-					{
-						originalDate = validpair[0];
-					}
-					if(!CheckDate(objform.elements[originalDate].value))
-					{
-						return false;
-					}
-				}
-			}	
-		}
-	}
-	return true;
-}
-
-// -->
-</script>
-<script language="JavaScript" src="java/datejsfunc.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-function OpenCalendarForElement(id, id_data) {
-	var ctrlObj;
-	ctrlObj=document.getElementById(id);
-	if ((null != ctrlObj) && ('object' == (typeof(ctrlObj)).toLowerCase())) {
-		ctrlObj.value = Trim(ctrlObj.value);
-		CallCalendarForElement(ctrlObj.value, '/cms300scripts/calendar.asp', id, id_data, ctrlObj.form.name);
-	}
-}
-function CallCalendarForElement(date, pagename, ctrl, hctrl, formname){	
-	var regexp1 = / /gi;
-	var template;
-	var paremeter;
-	var Url;
-	var items = pagename.split('?');
-	if (items.length == 2 ) {
-		template = items[0].toLowerCase();
-		paremeter = items[1].toLowerCase();
-	}
-	else{
-		template = pagename.toLowerCase();
-		paremeter= '';
-	}
-	if (date.replace(regexp1, '') == '')
-	{
-		Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl;
-		if (paremeter.length){
-			Url = Url + '&' + paremeter;
-		} 
-		PopUpWindow (Url, 'Calendar', 325, 280, 0, 1);
-	}
-	else {
-		//if (CheckDate(date)) {
-			date = RemoveLeadingSpaces(date);
-			var date_times = date.split(' ');
-			if (date_times.length < 2) {
-				var times = '';
-				var hours = '';
-			}
-			else {
-				var times = date_times[1].split(':');
-				var hours = times[0].replace(regexp1, '');
-			}
-			if (times.length < 2) {
-				var minutes = '';
-			}
-			else {
-				var minutes = times[1].replace(regexp1, '');
-			}
-			if (times.length < 3) {
-				var seconds = '';
-			}
-			else {
-				var seconds = times[2].replace(regexp1, '');
-			}
-			if (date_times.length < 2) {
-				var ampm = '';
-			}
-			else {
-				var ampm = date_times[2].replace(regexp1, '');
-			}
-			Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl + '&startdate=' + date_times[0] + '&showdate=1';
-										+ '&hours=' + hours + '&minutes=' + minutes + '&seconds=' + seconds + '&tt=' + ampm;
-			if (paremeter.length){
-				Url = Url + '&' + paremeter;
-			}
-											
-			PopUpWindow (Url,'Calendar', 325, 280, 0, 1);
-		//}
-	}
-}	
-function UpdateTextCounter(id, maxlimit) {
-	var objText = document.getElementById(id);
-	var objCount = document.getElementById(id + "_len");
-	if (objText && objCount)
-	{
-		var strText = GetElementValue(objText) + "";
-		var len = strText.length;
-		if (len > maxlimit) {
-			objCount.style.color = "red";
-			objCount.style.fontWeight = "bold";
-		}
-		else
-		{
-			objCount.style.color = "";
-			objCount.style.fontWeight = "";
-		}
-		SetElementValue(objCount, len);
-	}
-}
-function SetDefault(id) {
-	var objElem = document.getElementById(id);
-	if (!objElem) return;
-	var objDefault = document.getElementById(id + "default");
-	if (!objDefault) return;
-	if (confirm("js: confirm restore default text"))
-	{
-		objElem.value = objDefault.value;
-		if ("function" == typeof objElem.onchange)
-		{
-			try
-			{
-				objElem.onchange();
-			}
-			catch (e)
-			{
-				// just in case something goes wrong
-			}
-		}
-	}
-}
-function booleanSelected(selfield, textfield, falsevalue, truevalue) {
-	textfield.value = (selfield.checked ? truevalue : falsevalue);
-}
-function outputSelected(selfield,textfield,seperator) {
-	var retValue;
-	var sel = getSelected(selfield);
-    var strSel = "";
-   	for (var item in sel) {       
-		strSel += sel[item].value + seperator + " ";
-    }
-    strSel = strSel.substring(0, strSel.length-2);
-    var ch = strSel.substring(0, 1);
-    if (ch == seperator) {
-		strSel = strSel.substring(1, strSel.length);
-    }
-    if(document.forms[0])
-    {
-		document.forms[0].elements[textfield].value = strSel;
-	}
-}
-				
-function getSelected(opt) {
-   var selected = new Array();
-   var index = 0;
-   for (var intLoop = 0; intLoop < opt.length; intLoop++) {
-      if ((opt[intLoop].selected) ||
-          (opt[intLoop].checked)) {
-         index = selected.length;
-         selected[index] = new Object;
-         selected[index].value = opt[intLoop].value;
-         selected[index].index = intLoop;
-      }
-   }
-   return selected;
-}
-// -->
-</script>
-<h1><span class="Heads">Christian Children's Fund Privacy Policy</span></h1>
-
-<span class="Body">We at the Christian Children’s Fund (“CCF”) respect your concerns about privacy and value the relationship we have with you.&nbsp; This Privacy Notice describes the types of personal information we collect on our website, how we may use that information, and with whom we may share it.&nbsp; Our Privacy Notice also describes the measures we take to protect the security of the information.&nbsp; In addition, we describe the choices you can make about how we use the information you provide to us.&nbsp; We also tell you how you can reach us to update your contact information, remove your name from our mailing lists, or answer any questions you may have about our privacy practices.<br>
-<br>
-<span class="Body">Click on one of the links below to jump to the listed section:<br>
-</span></span><span class="Body"><span class="Body"><span class="Body"><span class="Body"><span class="Body">·&nbsp;</span> <a href="#Information_we_collect_and_how_we_use_it"><span class="Body"><u>Information We Collect and How We Use It</u></span></a><br>
-<span class="Body"><span class="Body"><span class="Body">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="#E-mail_Communications"><span class="Body"><u>E-mail Communications</u></span></a> <span class="Body"><span class="Body"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="#Send_a_post_card_to_a_friend"><span class="Body"><span class="Body"><u>Send a Post Card to a Friend</u></span></span></a><br>
-<span class="Body"><span class="Body">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="#Donations"><span class="Body"><u>Donations</u></span></a></span></span></span></span></span></span></span> <span class="Body"><span class="Body"><span class="Body"><span class="Body"><br>
-</span></span></span><span class="Body"><span class="Body">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="#Questionnaires_and_Surveys"><span class="Body"><u>Questionnaires and Surveys</u></span></a><br>
-<span class="Body">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="#Contests_and_Games"><span class="Body"><u>Contests and Games</u></span></a><br>
-<span class="Body">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="#Contact_CCF"><span class="Body"><u>Contact CCF</u></span></a><br>
-<span class="Body">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a href="#Cookies_and_Web_Beacons"><span class="Body"><u>Cookies and Web Beacons</u></span></a><br>
-</span></span></span><span class="Body"><span class="Body">·&nbsp;</span> <a href="#Information_We_Share"><span class="Body"><u>Information We Share</u></span></a><br>
-<span class="Body">·&nbsp;</span> <a href="#Links_to_Other_Sites"><span class="Body"><u>Links to Other Sites</u></span></a><br>
-<span class="Body">·&nbsp;</span> <a href="#Security"><span class="Body"><u>Security</u></span></a><br>
-<span class="Body">·&nbsp;</span> <a href="#Your_Choices"><span class="Body"><u>Your Choices</u></span></a><br>
-<span class="Body">·&nbsp;</span> <a href="#Updates_to_this_Privacy_Notice"><span class="Body"><u>Updates to this Privacy Notice</u></span></a><br>
-<span class="Body">·&nbsp;</span> <a href="#How_to_Contact_Us"><span class="Body"><u>How to Contact Us</u></span></a><br>
-<br>
-<strong><a id="Information_we_collect_and_how_we_use_it" name="Information_we_collect_and_how_we_use_it"></a><span class="Body">Information We Collect and How We Use It<br>
-</span></strong><br>
-<span class="Body">You may choose to provide personal information (such as your name, address, telephone number and e-mail address) on this website.&nbsp; Here are the ways you may provide the information and the types of information you may submit.&nbsp; We also tell you how we may use the information.<br>
-<br>
-</span><strong><a id="E-mail_Communications" name="E-mail_Communications"></a><span class="Body">E-mail Communications<br>
-</span></strong><br>
-<span class="Body">When you ask us to send you e-mail such as our free e-mail newsletter, you may provide us with certain information like your e-mail address so we can fulfill your request.&nbsp; You may choose to provide additional information as well, such as your postal address and phone number.&nbsp;<br>
-<br>
-</span></span><strong><a id="Send_a_post_card_to_a_friend" name="Send_a_post_card_to_a_friend"></a><span class="Body"><span class="Body">Send a Post Card to a Friend<br>
-<br>
-</span></span></strong><span class="Body"><span class="Body">If you take advantage of our Send a Post Card to a Friend feature, we ask for your friend’s and your first name and e-mail addresses.&nbsp; We use your friend’s name and e-mail address only to send the information you requested we forward.&nbsp; We don’t keep your friend’s e-mail address or use it for any other purpose.<br>
-<br>
-</span></span><strong><a id="Donations" name="Donations"></a><span class="Body"><span class="Body">Donations<br>
-<br>
-</span></span></strong><span class="Body"><span class="Body">When you make a donation through our website (for example, by sponsoring a child), we may ask you to submit certain personal information (such as credit card information) so we can process your donation.&nbsp; We use the credit card information you provide only to fulfill the transaction you requested.&nbsp; We maintain that information in our customer service records in the event you choose to make another donation later.&nbsp; We also maintain your contact information in our records so we can contact you to provide CCF program information and information on additional giving opportunities.&nbsp;<br>
-<br>
-</span><strong><a id="Questionnaires_and_Surveys" name="Questionnaires_and_Surveys"></a><span class="Body">Questionnaires and Surveys<br>
-</span></strong><br>
-<span class="Body">We occasionally may ask visitors to our website to complete online surveys and opinion polls about their activities, attitudes and interests.&nbsp; These surveys help us understand the needs of our visitors.&nbsp; We do not keep any personal information about you in connection with your participation in a website survey unless you specifically agree to provide this information.&nbsp;<br>
-</span></span><strong><br>
-<span class="Body"><a id="Contests_and_Games" name="Contests_and_Games"></a><span class="Body">Contests and Games</span></span></strong><br>
-<br>
-<span class="Body"><span class="Body">Our site occasionally may contain notices of contests or games we are conducting, which you may enter electronically in some cases.&nbsp; We use the information you provide to conduct the contest or game (for example, to contact you if you are a winner).&nbsp; We won’t use the information you provided to enter the contest or game for any other purpose unless you’ve agreed otherwise.&nbsp;<br>
-</span></span><strong><br>
-<span class="Body"><a id="Contact_CCF" name="Contact_CCF"></a><span class="Body">Contact CCF</span></span></strong><br>
-<br>
-<span class="Body"><span class="Body">You may choose to contact us through our website.&nbsp; We provide online forms so you may, for example, (1) ask a question, (2) update your address or (3) request more information.&nbsp; We use the information you provide on these forms to fulfill your request.&nbsp; We use the information you provide to respond to your inquiries.&nbsp;<br>
-</span></span><strong><br>
-<span class="Body"><a id="Cookies_and_Web_Beacons" name="Cookies_and_Web_Beacons"></a><span class="Body">Cookies and Web Beacons<br>
-</span></span></strong><br>
-<span class="Body"><span class="Body">When you visit our website, your browser automatically sends us certain Internet-related information (such as the Internet Protocol (IP) address of the computer you’re using).&nbsp; We also may use cookies and Web beacons to better understand how visitors use our site.<br>
-Cookies are small text files that websites often store on the computer hard drives of visitors to their sites.&nbsp; A cookie contains a unique code, which is used to recognize your computer when a user of your computer returns to a website that was visited previously.&nbsp; Web beacons are Internet tools that help us determine, for example, whether a website page has been viewed.&nbsp; We use cookies and Web beacons to enhance the online experience of our visitors and to better understand how our site is used.&nbsp; Cookies and Web beacons may tell us, for example, whether you have visited our site before or whether you are a new visitor.<br>
-The “help” portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies.&nbsp; Remember, though, without cookies, you may not be able to take full advantage of all of CCF’s website features.<br>
-</span></span><strong><br>
-<span class="Body"><a id="Information_We_Share" name="Information_We_Share"></a><span class="Body">Information We Share<br>
-</span></span></strong><br>
-<span class="Body"><span class="Body">CCF does not sell, rent, trade or otherwise disclose personal information about our website visitors, except as described here.&nbsp; We share information provided by our website visitors with service providers we have retained to perform services on our behalf for example, to process donations.&nbsp; These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements.&nbsp; In addition, we may disclose information about you (i) if we are required to do so by law, (ii) in response to a request from law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.&nbsp;<br>
-We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets.&nbsp; Should such a sale or transfer occur, we will use reasonable efforts to try to direct the transferee to use personal information you have provided through this website in a manner that is consistent with this Privacy Notice.<br>
-</span></span><strong><br>
-<span class="Body"><a id="Links_to_Other_Sites" name="Links_to_Other_Sites"></a><span class="Body">Links to Other Sites<br>
-</span></span></strong><br>
-<span class="Body"><span class="Body">Occasionally we provide links to other websites for your convenience and information.&nbsp; These sites operate independently from our site and are not under our control.&nbsp; These sites may have their own privacy notices in place, which we strongly suggest you review if you visit any linked websites.&nbsp; We are not responsible for the content of these sites, any products or services that may be offered through these sites, or any other use of these sites.<br>
-</span></span><strong><br>
-<span class="Body"><a id="Security" name="Security"></a><span class="Body">Security<br>
-</span></span></strong><br>
-<span class="Body"><span class="Body">We maintain administrative, technical and physical safeguards to protect against unauthorized disclosure, use, alteration or destruction of the personal information in our possession.&nbsp; When you provide credit card information to make a donation, we use the industry standard for Internet security -- Secure Socket Layer (SSL) technology -- to help protect the information you provide.&nbsp; This Internet encryption standard scrambles data as it travels from your computer to our server.&nbsp; Please note, however, that perfect security does not exist on the Internet.&nbsp; You’ll know that you’re in a secure area of our website when a “lock” icon appears on your screen and the “http” portion of our URL address changes to “https.”&nbsp; The “s” stands for “secure.”&nbsp;<br>
-</span></span><strong><br>
-<span class="Body"><a id="Your_Choices" name="Your_Choices"></a><span class="Body">Your Choices</span></span></strong><br>
-<br>
-<span class="Body"><span class="Body">If you would like to update your contact information or prefer not to receive certain communications from us (such as e-mail), please call or write us using one of the options provided below or visit</span></span> <a href="/content.aspx?id=311"><span class="Body"><span class="Body">www.christianchildrensfund.org/contactccf</span></span></a><span class="Body"><span class="Body">.<br>
-</span></span><strong><br>
-<span class="Body"><a id="Updates_to_this_Privacy_Notice" name="Updates_to_this_Privacy_Notice"></a><span class="Body">Updates to this Privacy Notice<br>
-</span></span></strong><br>
-<span class="Body"><span class="Body">We may change or update portions of this Privacy Notice at any time and without prior notice to you.&nbsp; Please check back from time to time so you are aware of any changes or updates to the Notice.&nbsp; We will indicate below the effective date of the Notice.<br>
-</span></span><strong><br>
-<span class="Body"><a id="How_to_Contact_Us" name="How_to_Contact_Us"></a><span class="Body">How to Contact Us</span></span></strong><br>
-<br>
-<span class="Body"><span class="Body">If you would like us to update your contact information or remove your name from our e-mail or postal mailing lists, or if you have any questions about our information practices, please contact us by:<br>
-<br>
-visiting</span></span>&nbsp;<a href="/content.aspx?id=311">www.christianchildrensfund.org/contactccf</a> 
-
-<p><span class="Body"><span class="Body">calling us at (800) 776-6767 or (804) 756-2700<br>
-writing us at:<br>
-<br>
-Christian Children’s Fund<br>
-2821 Emerywood Parkway<br>
-Richmond, VA&nbsp; 23294&nbsp; USA</span></span></p>
-
-<p><span class="Body"><span class="Body">PRIVACY NOTICE EFFECTIVE DATE:&nbsp; 8/17/04<br>
-</span></span></p>
-
-<p><span class="Body"><span class="Body">Return to</span></span> <a href="/content.aspx?id=740"><span class="Body"><span class="Body"><u>Terms and Conditions</u></span></span></a></p>
-
-<!-- CCFClickTitle="Christian Children's Fund Privacy Policy"=CCFClickTitle --><!-- Begin CCFClick -->
-<p><a href="javascript:void CCFClickPop('CCFClick/EmailaFriend.aspx')"><img src="/uploadedImages/Public_Site/country_pers_data/single_child/Sample_Folder/email.gif" border="0"></a><a onclick="CCFClickPop('CCFClick/PrintThis.aspx');" href="#"><img src="/uploadedImages/Public_Site/country_pers_data/single_child/Sample_Folder/print.gif" border="0"></a></p>
-
-<!-- End CCFClick -->
-
-
-
-</td>
-<!-- End article content area -->
-<!-- Begin right navigation/related links area -->
-<td class="body_right" width="150" align="right">
-	
-<!--Begin right nav area-->
-<table cellpadding="0" cellspacing="0" border="0">
-	<!--SignOut-->
-	<tbody><tr valign="top">
-		<td>
-			
-	<script language="javascript">
-function noPostBack(sNewFormAction)
-{
-	// hack for 'Enter' submission:
-	if (document.getElementById('txtSiteSearch'))
-	{	if (bSearchFocus)
-		{	zzz_Search();
-			return false;
-		}
-	}
-
-	document.forms[0].action = sNewFormAction;
-	document.forms[0].__VIEWSTATE.name = 'NOVIEWSTATE';
-}
-	</script>
-	<table border="0">
-		<tbody><tr>
-			<td class="" colspan="1">Manage donations, view account history, and much more!</td>
-		</tr>
-		<tr>
-			<td>User ID:<br>
- 				<input type="text" maxlength="20" id="txtUID" name="txtUID" value=""></td>
-		</tr>
-		<tr>
-			<td>Password:<br>
-				<input style="WIDTH: 65px" type="password" maxlength="20" name="txtPwd">&nbsp;<input type="image" name="ctl00$ctl06$ucLogin$imgBtnGo" id="ctl00_ctl06_ucLogin_imgBtnGo" src="/uploadedimages/public_site/buttons/go.gif" onclick="return noPostBack('https://www.christianchildrensfund.org/login/login.aspx');" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="1"><a href="https://www.christianchildrensfund.org/register/register.aspx" id="ctl00_ctl06_ucLogin_lnkCreate">Create a new User ID now <span class="arrow">»</span></a></td>
-		</tr>
-
-        <tr>
-            <td colspan="1">
-                <a href="https://www.christianchildrensfund.org/login/login.aspx?forgot=vp49yhio" id="ctl00_ctl06_ucLogin_lnkForgotUserID">Forgot your User ID?</a>
-            </td>
-        </tr>
-
-		<tr>
-			<td colspan="1">
-				<a href="https://www.christianchildrensfund.org/login/login.aspx?forgot=vpwiefn2" id="ctl00_ctl06_ucLogin_lnkForgot">Forgot your password?</a></td>
-		</tr>
-	</tbody></table>
-
-
-
-		</td>
-	</tr>
-	<!--Targetted Appeal-->
-	<tr valign="top">
-		<td align="center">
-			<span id="ctl00_ctl06_lblContent">
-<script language="JavaScript" type="text/javascript">
-<!--
-function CancelWindow() {
-	self.close();
-}
-
-function PopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) {
-	var cToolBar = 'toolbar=0,location=0,directories=0,status=' + nResize + ',menubar=0,scrollbars=' + nScroll + ',resizable=' + nResize + ',width=' + nWidth + ',height=' + nHeight;
-	var popupwin = window.open(url, hWind, cToolBar);
-	return popupwin;
-}
-
-function openWindow(url){
-	newWindow=window.open(url,'newWin','tollbar=yes,location=yes,scrollbars=yes,width=300,hight=200')
-}
-
-function openWindow2(url){
-	newWindow=window.open(url,'newWin','tollbar=yes,menubar=yes,location=yes,scrollbars=yes,directories=yes')
-}
-
-function closeWindow()
-	{
-	if(newWindow && !newWindow.closed)
-		{
-			newWindow.close()
-		}	
-	}
-	
-function PopUpWindowFull (url, hWind, nWidth, nHeight, nResize)
-	{
-	var cToolBar = "toolbar=yes,location=yes,directories=yes,resizable=1,status=" + nResize + ",menubar=yes,scrollbars=yes,width=" + nWidth + ",height=" + nHeight
-	var popupwin = window.open(url, hWind, cToolBar);
-	return popupwin;
-	}
-
-function QuickLinkSelect(baseFolderID, formName,  titleFormElem, useQLinkCheck, SetBrowserState) {
-	// There are specific requirements for this function. See "QuickLinkSelect.asp" for those.
-	//
-	var sendQString = '?folderid=' + baseFolderID + '&formName=' + formName + '&titleFormElem=' + 
-				titleFormElem + '&useQLinkCheck=' +  useQLinkCheck + '&SetBrowserState=' + SetBrowserState;
-	var cToolBar = 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=450,height=300';
-				
-	window.open('QuickLinkSelect.asp' + sendQString, 'QlinkSelectWin', cToolBar) ;
-	
-	return true ;
-}
-
-function Trim (string) {
-	if (string.length > 0) {
-		string = RemoveLeadingSpaces (string);
-	}
-	if (string.length > 0) {
-		string = RemoveTrailingSpaces(string);
-	}
-	return string;
-}
-	
-function RemoveLeadingSpaces(string) {
-	while(string.substring(0, 1) == " ") {
-		string = string.substring(1, string.length);
-	}
-	return string;
-}
-
-function RemoveTrailingSpaces(string) {
-	while(string.substring((string.length - 1), string.length) == " ") {
-		string = string.substring(0, (string.length - 1));
-	}
-	return string;
-}
-	
-function EnableElement(id, bEnable)
-{
-	var objElem = document.getElementById(id);
-	if (objElem)
-	{
-		// Mozilla FireFox 1.0 does not support .disabled for <label>
-		if (typeof objElem.disabled != "undefined")
-		{
-			objElem.disabled = !bEnable;
-		}
-		// if a label, follow the 'for' attribute as well
-		if (typeof objElem.htmlFor != "undefined")
-		{
-			// don't use recursion to avoid possibility of infinite recursion
-			objElem = document.getElementById(objElem.htmlFor);
-			if (objElem && typeof objElem.disabled != "undefined")
-			{
-				objElem.disabled = !bEnable;
-			}
-		}
-	}
-}
-	
-function ShowElement(id, bShow)
-{
-	var objElem = document.getElementById(id);
-	if (objElem)
-	{
-		objElem.style.display = (bShow ? "" : "none");
-		ShowSelectElements(objElem, bShow);	
-	}
-}
-
-function ShowSelectElements(objElem, bShow)
-// due to a bug in IE, descendent select lists may still be displayed
-// so target each individually
-{
-	if (!objElem) return;
-	if ("undefined" == typeof objElem.children) return;
-	if ("SELECT" == objElem.tagName)
-	{
-		objElem.style.display = (bShow ? "" : "none");
-	}
-	else
-	{
-		for (var i = 0; i < objElem.children.length; i++)
-		{
-			ShowSelectElements(objElem.children[i], bShow);
-		}
-	}
-}
-
-function GetElementValue(oElem)
-{
-	if (!oElem) return;
-	if (typeof oElem.value != "undefined")
-	{
-		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type || "radio" == oElem.type))
-		{
-			var strValue = oElem.value + "";
-			if (strValue.length > 0 && strValue != "true")
-			{
-				if (oElem.checked)
-				{
-					return strValue;
-				}
-				else
-				{
-					return "";
-				}
-			}
-			else // boolean
-			{
-				if (oElem.checked)
-				{
-					return true;
-				}
-				else
-				{
-					return false;
-				}
-			}
-		}
-		else
-		{
-			return oElem.value;
-		}
-	}
-	else if (typeof oElem.innerHTML != "undefined")
-	{
-		return oElem.innerHTML;
-	}
-	else if (typeof oElem.innerText != "undefined")
-	{
-		return oElem.innerText;
-	}
-	else
-	{
-		return; // no value
-	}
-}
-
-function SetElementValue(oElem, value)
-{
-	if (!oElem) return;
-	if (typeof oElem.value != "undefined")
-	{
-		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type))
-		{
-			// boolean
-			if ("true" == value || true == value)
-			{
-				oElem.checked = true;
-			}
-			else if ("false" == value || false == value)
-			{
-				oElem.checked = false;
-			}
-			else
-			{
-				oElem.value = value;
-			}
-		}
-		else
-		{
-			oElem.value = value;
-		}
-	}
-	else if (typeof oElem.innerHTML != "undefined")
-	{
-		oElem.innerHTML = value;
-	}
-	else if (typeof oElem.innerText != "undefined")
-	{
-		oElem.innerText = value;
-	}
-}
-
-function numberValidate(field)
-{
-	if (field.value == "")
-	{
-		return true;
-	}
-	if ((! /^\d+$/.test(field.value)) && field.value != "") 
-	{  
-		alert("You must use only numeric characters");
-		field.value = "";
-		field.focus();
-		return false;		
-	} 
-	return true;
-}
-	
-function textareaValidate(field)
-{
-	var strText = GetElementValue(field) + "";
-	var len = strText.length;
-	if(len > 500)
-	{
-		alert("Over limit of characters in text box.");
-		field.focus();
-		return false;	
-	}
-	return true;
-}
-
-function ValidateMeta(formName)
-// CAUTION: do not name this function 'V a l i d a t e M e t a d a t a', 
-// suspect the word 'M e t a d a t a' causes ASP to omit the JavaScript
-{
-
-	var reqfields;
-	var validationfields;
-	var validpair;
-	var objform = document.forms[formName];
-	if(objform.req_fields)
-	{
-		reqfields = objform.req_fields.value.split(",");
-		for(var i = 0; i < reqfields.length; i++)
-		{
-			if(objform.elements[reqfields[i]])
-			{
-				if(objform.elements[reqfields[i]].value == "")
-				{
-					alert('js: alert cannot submit meta incomplete');
-					//objform.elements[reqfields[i]].focus();
-					return false;
-				}
-			}
-		}
-	}
-	if(objform.needed_validation)
-	{
-		validationfields = objform.needed_validation.value.split(":");
-		for(var j = 0; j < validationfields.length; j++)
-		{
-			validpair = validationfields[j].split(",");
-			if(objform.elements[validpair[0]])
-			{
-				if(validpair[1] == "number")
-				{
-					if(!numberValidate(objform.elements[validpair[0]]))
-					{
-						return false;
-					}
-				}
-				else if(validpair[1] == "text")
-				{
-					if(!textareaValidate(objform.elements[validpair[0]]))
-					{
-						return false;
-					}
-				}
-				else if(validpair[1] == "date")
-				{
-					var originalDate;
-					var arrayForNumber = validpair[0].split("_");
-					if(arrayForNumber.length > 0)
-					{
-						if(arrayForNumber[0] = "frm_text")
-						{
-							originalDate = "frm_text_sel" + arrayForNumber[arrayForNumber.length-1];
-							objform.elements[originalDate].value = Trim(objform.elements[originalDate].value);
-						}
-					}
-					else
-					{
-						originalDate = validpair[0];
-					}
-					if(!CheckDate(objform.elements[originalDate].value))
-					{
-						return false;
-					}
-				}
-			}	
-		}
-	}
-	return true;
-}
-
-// -->
-</script>
-<script language="JavaScript" src="java/datejsfunc.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-function OpenCalendarForElement(id, id_data) {
-	var ctrlObj;
-	ctrlObj=document.getElementById(id);
-	if ((null != ctrlObj) && ('object' == (typeof(ctrlObj)).toLowerCase())) {
-		ctrlObj.value = Trim(ctrlObj.value);
-		CallCalendarForElement(ctrlObj.value, '/cms300scripts/calendar.asp', id, id_data, ctrlObj.form.name);
-	}
-}
-function CallCalendarForElement(date, pagename, ctrl, hctrl, formname){	
-	var regexp1 = / /gi;
-	var template;
-	var paremeter;
-	var Url;
-	var items = pagename.split('?');
-	if (items.length == 2 ) {
-		template = items[0].toLowerCase();
-		paremeter = items[1].toLowerCase();
-	}
-	else{
-		template = pagename.toLowerCase();
-		paremeter= '';
-	}
-	if (date.replace(regexp1, '') == '')
-	{
-		Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl;
-		if (paremeter.length){
-			Url = Url + '&' + paremeter;
-		} 
-		PopUpWindow (Url, 'Calendar', 325, 280, 0, 1);
-	}
-	else {
-		//if (CheckDate(date)) {
-			date = RemoveLeadingSpaces(date);
-			var date_times = date.split(' ');
-			if (date_times.length < 2) {
-				var times = '';
-				var hours = '';
-			}
-			else {
-				var times = date_times[1].split(':');
-				var hours = times[0].replace(regexp1, '');
-			}
-			if (times.length < 2) {
-				var minutes = '';
-			}
-			else {
-				var minutes = times[1].replace(regexp1, '');
-			}
-			if (times.length < 3) {
-				var seconds = '';
-			}
-			else {
-				var seconds = times[2].replace(regexp1, '');
-			}
-			if (date_times.length < 2) {
-				var ampm = '';
-			}
-			else {
-				var ampm = date_times[2].replace(regexp1, '');
-			}
-			Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl + '&startdate=' + date_times[0] + '&showdate=1';
-										+ '&hours=' + hours + '&minutes=' + minutes + '&seconds=' + seconds + '&tt=' + ampm;
-			if (paremeter.length){
-				Url = Url + '&' + paremeter;
-			}
-											
-			PopUpWindow (Url,'Calendar', 325, 280, 0, 1);
-		//}
-	}
-}	
-function UpdateTextCounter(id, maxlimit) {
-	var objText = document.getElementById(id);
-	var objCount = document.getElementById(id + "_len");
-	if (objText && objCount)
-	{
-		var strText = GetElementValue(objText) + "";
-		var len = strText.length;
-		if (len > maxlimit) {
-			objCount.style.color = "red";
-			objCount.style.fontWeight = "bold";
-		}
-		else
-		{
-			objCount.style.color = "";
-			objCount.style.fontWeight = "";
-		}
-		SetElementValue(objCount, len);
-	}
-}
-function SetDefault(id) {
-	var objElem = document.getElementById(id);
-	if (!objElem) return;
-	var objDefault = document.getElementById(id + "default");
-	if (!objDefault) return;
-	if (confirm("js: confirm restore default text"))
-	{
-		objElem.value = objDefault.value;
-		if ("function" == typeof objElem.onchange)
-		{
-			try
-			{
-				objElem.onchange();
-			}
-			catch (e)
-			{
-				// just in case something goes wrong
-			}
-		}
-	}
-}
-function booleanSelected(selfield, textfield, falsevalue, truevalue) {
-	textfield.value = (selfield.checked ? truevalue : falsevalue);
-}
-function outputSelected(selfield,textfield,seperator) {
-	var retValue;
-	var sel = getSelected(selfield);
-    var strSel = "";
-   	for (var item in sel) {       
-		strSel += sel[item].value + seperator + " ";
-    }
-    strSel = strSel.substring(0, strSel.length-2);
-    var ch = strSel.substring(0, 1);
-    if (ch == seperator) {
-		strSel = strSel.substring(1, strSel.length);
-    }
-    if(document.forms[0])
-    {
-		document.forms[0].elements[textfield].value = strSel;
-	}
-}
-				
-function getSelected(opt) {
-   var selected = new Array();
-   var index = 0;
-   for (var intLoop = 0; intLoop < opt.length; intLoop++) {
-      if ((opt[intLoop].selected) ||
-          (opt[intLoop].checked)) {
-         index = selected.length;
-         selected[index] = new Object;
-         selected[index].value = opt[intLoop].value;
-         selected[index].index = intLoop;
-      }
-   }
-   return selected;
-}
-// -->
-</script>
-
-</span>
-		</td>
-	</tr>
-</tbody></table>
-<!-- End right nav area -->
-
-</td>
-<!-- End content area -->
-</tr>
-<!-- End article body -->
-
-
-</tbody></table>
-</td>
-</tr>
-<!-- End inner table -->
-
-
-<!--Insert Ektron footer element -->
-<tr>
-<td>
-	
-<script language="JavaScript" type="text/javascript">
-<!--
-function CancelWindow() {
-	self.close();
-}
-
-function PopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) {
-	var cToolBar = 'toolbar=0,location=0,directories=0,status=' + nResize + ',menubar=0,scrollbars=' + nScroll + ',resizable=' + nResize + ',width=' + nWidth + ',height=' + nHeight;
-	var popupwin = window.open(url, hWind, cToolBar);
-	return popupwin;
-}
-
-function openWindow(url){
-	newWindow=window.open(url,'newWin','tollbar=yes,location=yes,scrollbars=yes,width=300,hight=200')
-}
-
-function openWindow2(url){
-	newWindow=window.open(url,'newWin','tollbar=yes,menubar=yes,location=yes,scrollbars=yes,directories=yes')
-}
-
-function closeWindow()
-	{
-	if(newWindow && !newWindow.closed)
-		{
-			newWindow.close()
-		}	
-	}
-	
-function PopUpWindowFull (url, hWind, nWidth, nHeight, nResize)
-	{
-	var cToolBar = "toolbar=yes,location=yes,directories=yes,resizable=1,status=" + nResize + ",menubar=yes,scrollbars=yes,width=" + nWidth + ",height=" + nHeight
-	var popupwin = window.open(url, hWind, cToolBar);
-	return popupwin;
-	}
-
-function QuickLinkSelect(baseFolderID, formName,  titleFormElem, useQLinkCheck, SetBrowserState) {
-	// There are specific requirements for this function. See "QuickLinkSelect.asp" for those.
-	//
-	var sendQString = '?folderid=' + baseFolderID + '&formName=' + formName + '&titleFormElem=' + 
-				titleFormElem + '&useQLinkCheck=' +  useQLinkCheck + '&SetBrowserState=' + SetBrowserState;
-	var cToolBar = 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=450,height=300';
-				
-	window.open('QuickLinkSelect.asp' + sendQString, 'QlinkSelectWin', cToolBar) ;
-	
-	return true ;
-}
-
-function Trim (string) {
-	if (string.length > 0) {
-		string = RemoveLeadingSpaces (string);
-	}
-	if (string.length > 0) {
-		string = RemoveTrailingSpaces(string);
-	}
-	return string;
-}
-	
-function RemoveLeadingSpaces(string) {
-	while(string.substring(0, 1) == " ") {
-		string = string.substring(1, string.length);
-	}
-	return string;
-}
-
-function RemoveTrailingSpaces(string) {
-	while(string.substring((string.length - 1), string.length) == " ") {
-		string = string.substring(0, (string.length - 1));
-	}
-	return string;
-}
-	
-function EnableElement(id, bEnable)
-{
-	var objElem = document.getElementById(id);
-	if (objElem)
-	{
-		// Mozilla FireFox 1.0 does not support .disabled for <label>
-		if (typeof objElem.disabled != "undefined")
-		{
-			objElem.disabled = !bEnable;
-		}
-		// if a label, follow the 'for' attribute as well
-		if (typeof objElem.htmlFor != "undefined")
-		{
-			// don't use recursion to avoid possibility of infinite recursion
-			objElem = document.getElementById(objElem.htmlFor);
-			if (objElem && typeof objElem.disabled != "undefined")
-			{
-				objElem.disabled = !bEnable;
-			}
-		}
-	}
-}
-	
-function ShowElement(id, bShow)
-{
-	var objElem = document.getElementById(id);
-	if (objElem)
-	{
-		objElem.style.display = (bShow ? "" : "none");
-		ShowSelectElements(objElem, bShow);	
-	}
-}
-
-function ShowSelectElements(objElem, bShow)
-// due to a bug in IE, descendent select lists may still be displayed
-// so target each individually
-{
-	if (!objElem) return;
-	if ("undefined" == typeof objElem.children) return;
-	if ("SELECT" == objElem.tagName)
-	{
-		objElem.style.display = (bShow ? "" : "none");
-	}
-	else
-	{
-		for (var i = 0; i < objElem.children.length; i++)
-		{
-			ShowSelectElements(objElem.children[i], bShow);
-		}
-	}
-}
-
-function GetElementValue(oElem)
-{
-	if (!oElem) return;
-	if (typeof oElem.value != "undefined")
-	{
-		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type || "radio" == oElem.type))
-		{
-			var strValue = oElem.value + "";
-			if (strValue.length > 0 && strValue != "true")
-			{
-				if (oElem.checked)
-				{
-					return strValue;
-				}
-				else
-				{
-					return "";
-				}
-			}
-			else // boolean
-			{
-				if (oElem.checked)
-				{
-					return true;
-				}
-				else
-				{
-					return false;
-				}
-			}
-		}
-		else
-		{
-			return oElem.value;
-		}
-	}
-	else if (typeof oElem.innerHTML != "undefined")
-	{
-		return oElem.innerHTML;
-	}
-	else if (typeof oElem.innerText != "undefined")
-	{
-		return oElem.innerText;
-	}
-	else
-	{
-		return; // no value
-	}
-}
-
-function SetElementValue(oElem, value)
-{
-	if (!oElem) return;
-	if (typeof oElem.value != "undefined")
-	{
-		if ("INPUT" == oElem.tagName && ("checkbox" == oElem.type))
-		{
-			// boolean
-			if ("true" == value || true == value)
-			{
-				oElem.checked = true;
-			}
-			else if ("false" == value || false == value)
-			{
-				oElem.checked = false;
-			}
-			else
-			{
-				oElem.value = value;
-			}
-		}
-		else
-		{
-			oElem.value = value;
-		}
-	}
-	else if (typeof oElem.innerHTML != "undefined")
-	{
-		oElem.innerHTML = value;
-	}
-	else if (typeof oElem.innerText != "undefined")
-	{
-		oElem.innerText = value;
-	}
-}
-
-function numberValidate(field)
-{
-	if (field.value == "")
-	{
-		return true;
-	}
-	if ((! /^\d+$/.test(field.value)) && field.value != "") 
-	{  
-		alert("You must use only numeric characters");
-		field.value = "";
-		field.focus();
-		return false;		
-	} 
-	return true;
-}
-	
-function textareaValidate(field)
-{
-	var strText = GetElementValue(field) + "";
-	var len = strText.length;
-	if(len > 500)
-	{
-		alert("Over limit of characters in text box.");
-		field.focus();
-		return false;	
-	}
-	return true;
-}
-
-function ValidateMeta(formName)
-// CAUTION: do not name this function 'V a l i d a t e M e t a d a t a', 
-// suspect the word 'M e t a d a t a' causes ASP to omit the JavaScript
-{
-
-	var reqfields;
-	var validationfields;
-	var validpair;
-	var objform = document.forms[formName];
-	if(objform.req_fields)
-	{
-		reqfields = objform.req_fields.value.split(",");
-		for(var i = 0; i < reqfields.length; i++)
-		{
-			if(objform.elements[reqfields[i]])
-			{
-				if(objform.elements[reqfields[i]].value == "")
-				{
-					alert('js: alert cannot submit meta incomplete');
-					//objform.elements[reqfields[i]].focus();
-					return false;
-				}
-			}
-		}
-	}
-	if(objform.needed_validation)
-	{
-		validationfields = objform.needed_validation.value.split(":");
-		for(var j = 0; j < validationfields.length; j++)
-		{
-			validpair = validationfields[j].split(",");
-			if(objform.elements[validpair[0]])
-			{
-				if(validpair[1] == "number")
-				{
-					if(!numberValidate(objform.elements[validpair[0]]))
-					{
-						return false;
-					}
-				}
-				else if(validpair[1] == "text")
-				{
-					if(!textareaValidate(objform.elements[validpair[0]]))
-					{
-						return false;
-					}
-				}
-				else if(validpair[1] == "date")
-				{
-					var originalDate;
-					var arrayForNumber = validpair[0].split("_");
-					if(arrayForNumber.length > 0)
-					{
-						if(arrayForNumber[0] = "frm_text")
-						{
-							originalDate = "frm_text_sel" + arrayForNumber[arrayForNumber.length-1];
-							objform.elements[originalDate].value = Trim(objform.elements[originalDate].value);
-						}
-					}
-					else
-					{
-						originalDate = validpair[0];
-					}
-					if(!CheckDate(objform.elements[originalDate].value))
-					{
-						return false;
-					}
-				}
-			}	
-		}
-	}
-	return true;
-}
-
-// -->
-</script>
-<script language="JavaScript" src="java/datejsfunc.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-function OpenCalendarForElement(id, id_data) {
-	var ctrlObj;
-	ctrlObj=document.getElementById(id);
-	if ((null != ctrlObj) && ('object' == (typeof(ctrlObj)).toLowerCase())) {
-		ctrlObj.value = Trim(ctrlObj.value);
-		CallCalendarForElement(ctrlObj.value, '/cms300scripts/calendar.asp', id, id_data, ctrlObj.form.name);
-	}
-}
-function CallCalendarForElement(date, pagename, ctrl, hctrl, formname){	
-	var regexp1 = / /gi;
-	var template;
-	var paremeter;
-	var Url;
-	var items = pagename.split('?');
-	if (items.length == 2 ) {
-		template = items[0].toLowerCase();
-		paremeter = items[1].toLowerCase();
-	}
-	else{
-		template = pagename.toLowerCase();
-		paremeter= '';
-	}
-	if (date.replace(regexp1, '') == '')
-	{
-		Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl;
-		if (paremeter.length){
-			Url = Url + '&' + paremeter;
-		} 
-		PopUpWindow (Url, 'Calendar', 325, 280, 0, 1);
-	}
-	else {
-		//if (CheckDate(date)) {
-			date = RemoveLeadingSpaces(date);
-			var date_times = date.split(' ');
-			if (date_times.length < 2) {
-				var times = '';
-				var hours = '';
-			}
-			else {
-				var times = date_times[1].split(':');
-				var hours = times[0].replace(regexp1, '');
-			}
-			if (times.length < 2) {
-				var minutes = '';
-			}
-			else {
-				var minutes = times[1].replace(regexp1, '');
-			}
-			if (times.length < 3) {
-				var seconds = '';
-			}
-			else {
-				var seconds = times[2].replace(regexp1, '');
-			}
-			if (date_times.length < 2) {
-				var ampm = '';
-			}
-			else {
-				var ampm = date_times[2].replace(regexp1, '');
-			}
-			Url = template + '?form=' + formname + '&ctrl=' + ctrl + '&hctrl=' + hctrl + '&startdate=' + date_times[0] + '&showdate=1';
-										+ '&hours=' + hours + '&minutes=' + minutes + '&seconds=' + seconds + '&tt=' + ampm;
-			if (paremeter.length){
-				Url = Url + '&' + paremeter;
-			}
-											
-			PopUpWindow (Url,'Calendar', 325, 280, 0, 1);
-		//}
-	}
-}	
-function UpdateTextCounter(id, maxlimit) {
-	var objText = document.getElementById(id);
-	var objCount = document.getElementById(id + "_len");
-	if (objText && objCount)
-	{
-		var strText = GetElementValue(objText) + "";
-		var len = strText.length;
-		if (len > maxlimit) {
-			objCount.style.color = "red";
-			objCount.style.fontWeight = "bold";
-		}
-		else
-		{
-			objCount.style.color = "";
-			objCount.style.fontWeight = "";
-		}
-		SetElementValue(objCount, len);
-	}
-}
-function SetDefault(id) {
-	var objElem = document.getElementById(id);
-	if (!objElem) return;
-	var objDefault = document.getElementById(id + "default");
-	if (!objDefault) return;
-	if (confirm("js: confirm restore default text"))
-	{
-		objElem.value = objDefault.value;
-		if ("function" == typeof objElem.onchange)
-		{
-			try
-			{
-				objElem.onchange();
-			}
-			catch (e)
-			{
-				// just in case something goes wrong
-			}
-		}
-	}
-}
-function booleanSelected(selfield, textfield, falsevalue, truevalue) {
-	textfield.value = (selfield.checked ? truevalue : falsevalue);
-}
-function outputSelected(selfield,textfield,seperator) {
-	var retValue;
-	var sel = getSelected(selfield);
-    var strSel = "";
-   	for (var item in sel) {       
-		strSel += sel[item].value + seperator + " ";
-    }
-    strSel = strSel.substring(0, strSel.length-2);
-    var ch = strSel.substring(0, 1);
-    if (ch == seperator) {
-		strSel = strSel.substring(1, strSel.length);
-    }
-    if(document.forms[0])
-    {
-		document.forms[0].elements[textfield].value = strSel;
-	}
-}
-				
-function getSelected(opt) {
-   var selected = new Array();
-   var index = 0;
-   for (var intLoop = 0; intLoop < opt.length; intLoop++) {
-      if ((opt[intLoop].selected) ||
-          (opt[intLoop].checked)) {
-         index = selected.length;
-         selected[index] = new Object;
-         selected[index].value = opt[intLoop].value;
-         selected[index].index = intLoop;
-      }
-   }
-   return selected;
-}
-// -->
-</script>
-<table cellspacing="0" cellpadding="0" align="center" border="0">
-<tbody>
-<tr>
-<td height="5">
-<p>&nbsp;</p>
-</td>
-</tr>
-
-<tr>
-<td height="90">
-<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
-<tbody>
-<tr>
-<td width="226"><img alt="FY 08 Expenditure" src="/uploadedImages/Public_Site/pie_chart_FY08.jpg" border="0"></td>
-<td width="10"></td>
-<td width="240">Member of<a href="/content.aspx?id=7357" target="_blank"><img alt="ChildFund" hspace="4" src="/uploadedImages/Public_Site/CF.jpg" align="middle" border="0"></a></td>
-<td width="5"></td>
-<td width="60"><a href="//www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=3499" target="_blank"><img alt="" src="/uploadedImages/Public_Site/4star_charitynav.gif" border="0"></a></td>
-<td width="10"></td>
-<td width="60"><a href="http://www.give.org/seal.asp?ID=491312004" target="_blank"><img alt="" src="/uploadedImages/Public_Site/bbb_new_logo.jpg" border="0"></a></td>
-<td width="10"></td>
-<td width="120"><a href="http://www.smartgivers.org/" target="_blank"><img alt="Meets Standards Logo" src="/uploadedImages/Public_Site/meetsstandards-logo.gif" border="0"></a></td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-
-<tr>
-<td height="5"></td>
-</tr>
-
-<tr>
-<td align="middle">1-800-776-6767 Monday – Thursday 9 a.m. to 7 p.m. and Friday 9:30 a.m. to 7 p.m. (ET)<br>
-Outside the United States, please call 804-756-2700</td>
-</tr>
-
-<tr>
-<td height="5"></td>
-</tr>
-
-<tr>
-<td align="middle"><a href="http://www.christianchildrensfund.org/content.aspx?id=741">Privacy Policy</a> | <a href="http://www.christianchildrensfund.org/content.aspx?id=740">Terms of Use</a> | <a href="http://www.christianchildrensfund.org/register/RNregister.aspx">Contact CCF</a></td>
-</tr>
-
-<tr>
-<td height="5"></td>
-</tr>
-
-<tr>
-<td align="middle">© 2009 Christian Children’s Fund | 2821 Emerywood Parkway, Richmond VA 23294 USA</td>
-</tr>
-
-<tr>
-<td height="20"></td>
-</tr>
-</tbody>
-</table>
-
-
-
-</td>
-</tr>
-</tbody></table>
-<!-- End outer table -->
-
-    </form>
-	
-	</center>
-  
 
 </body></html>
