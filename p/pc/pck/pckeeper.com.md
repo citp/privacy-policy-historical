@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pckeeper.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509045047id_/http%3A//pckeeper.zeobit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pckeeper.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231134954id_/http%3A//pckeeper.zeobit.com/privacy) for the most accurate reproduction.*
 
 # PCKeeper | Privacy Policy
 
@@ -84,4 +84,4 @@ We will keep you up to date about any possible changes to our Privacy Policy. As
 
 ## Questions?
 
-We are open to any questions on this Privacy Policy. Please address all your concerns to [email](mailto:support@zeobit.com).
+We are open to any questions on this Privacy Policy. Please address all your concerns to email.
