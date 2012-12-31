@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jokes-post.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508203226id_/http%3A//jokes-post.com/Privacy/1_186_object%3D2734.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokes-post.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231204018id_/http%3A//jokes-post.com/Privacy/1_186_object%3D2734.aspx) for the most accurate reproduction.*
 
 # Privacy | Jokes-Post.com - the jokes that make you laugh
 
 ## Privacy
 
-February 12th 2010
+Update 1th January 2012 
 
-Thank you for visiting the jokes-post.com website located at jokes-post.com (the "Website", "we", "us"). We provide this notice in an effort to explain our online information practices and the choices available to you concerning the way that we use the information collected online at this Website.
+Thank you for visiting the jokes-post.com website located at http://jokes-post.com (the "Website", "we", "us"). We provide this notice in an effort to explain our online information practices and the choices available to you concerning the way that we use the information collected online at this Website.
 
 We collect your personally identifiable information when you sign up to receive products and/or services at the Website. We may also collect your personally identifiable information when you otherwise agree to the terms of this Privacy Policy at this Website, but do not complete the full registration process. The types of personally identifiable information that we may collect at this Website, during registration and when you make a purchase include, without limitation, your name, street address, e-mail address and telephone number. In addition, we may request information about your use of, or interest in, the types of products and services offered by the third-party advertisers with whom we have partnered to offer you the products and services available at this Website.
 
@@ -29,14 +29,17 @@ We may share with third party advertisers certain Website usage information of i
 
 We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of each of the third party advertisers that may advertise at this Website. The entities that advertise and/or place banner ads at this Website including, but not limited to, these third party advertisers, are independent third parties and are not affiliated with us.
 
-**  Your Choices**
+**Your Choices**
 
-During registration and/or when you submit personally identifiable information to us at the Website, you have opted-in to request that we share your personal information with third parties to receive marketing communications. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out from receiving any additional email communications regarding this website, [http://jokes-post.com/Contact-Us/3_0_menu=2.aspx .  
-](https://web.archive.org/web/Contact-Us/3_0_menu=2.aspx)
+During registration and/or when you submit personally identifiable information to us at the Website, you have opted-in to request that we share your personal information with third parties to receive marketing communications. However, your email address will only be shared with our mailing partners: YourDailyJokes.com, ExpressSender.com. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out from receiving any additional email communications regarding this website, [ contact us](https://web.archive.org/Contact-Us/3_0_menu=2.aspx).
 
 Some of the services that we provide will result in sending an SMS, wireless or other mobile offering to your cell phone. By signing up, you are agreeing to receive these mobile offerings. You understand that your wireless carrier's standard rates apply to these messages. To unsubscribe or discontinue SMS messages, send "STOP", "END", "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. This will not affect offerings sent on behalf of third parties.
 
-Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to <http://www.privacychoice.org/choose>
+Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to <http://www.privacychoice.org/choose>.
+
+**Use of Information**
+
+The Personal Information you submit to us remains your property, but by submitting that Personal Information to us, you grant us the right, subject to applicable state and federal law, to use that Personal Information for marketing purposes. Without limiting the generality of the foregoing, we reserve the right to share the Personal Information we collect, excluding your email address, with carefully selected marketing partners who can offer you products and services that may be of interest to you. You also agree to receive e-mail marketing from jokes-post.com. Any email you receive will be from jokes-post.com and may be sent by our mailing partner, YourDailyJokes.com.
 
 **SMS, Wireless and Other Mobile Offerings**
 
@@ -60,14 +63,13 @@ We employ industry standard security measures designed to safeguard against unau
 
 California Civil Code Section 1798.83 enables California residents who have provided PII to US, and/or to a third party who has then shared such information with US, to request information regarding our disclosure of such PII information to third parties. Within thirty days of receipt of such a request, we will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. We reserve the right not to honor and/or respond to such requests that are not sent to the address below.
 
-GMB Direct - Jokes-post.com  
+GMB Direct - jokes-post.com  
 315 Madison Avenue  
 Suite 901  
-New York, NY 10017  
-company@jokes-post.com
+New York, NY 10017
 
 **Acceptance**
 
 By using the Website and/or agreeing to receive information via e-mail from us, you agree to this Privacy Policy. We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
 
-Copyright © 2010 Jokes-Post.com - All Rights Reserved. For Entertainment Purposes Only.
+© 2009-2012 jokes-post.com. All rights reserved.
