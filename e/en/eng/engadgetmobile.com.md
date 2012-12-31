@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engadgetmobile.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630075548id_/http%3A//about.aol.com/aolnetwork/aol_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engadgetmobile.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231223701id_/http%3A//about.aol.com/aolnetwork/aol_pp) for the most accurate reproduction.*
 
 # AOL Privacy
 
