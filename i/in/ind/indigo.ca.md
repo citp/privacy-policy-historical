@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indigo.ca privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510080024id_/http%3A//www.chapters.indigo.ca/Privacy-Policy/priv-art.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigo.ca privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231174715id_/http%3A//www.chapters.indigo.ca/Privacy-Policy/priv-art.html) for the most accurate reproduction.*
 
 # | chapters.indigo.ca
 
@@ -26,7 +26,7 @@ When we use trusted third parties to act on our behalf by performing such functi
 
 ·
 
-Our website may contain links to other websites. We are not responsible or the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Indigo. Please review the [Terms of Use](https://web.archive.org/Legal-Statement/legal-art.html) for more information.
+Our website may contain links to other websites. We are not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Indigo. Please review the [Terms of Use](https://web.archive.org/Legal-Statement/legal-art.html) for more information.
 
 ## 2\. Identifying Purposes
 
