@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524100805id_/http%3A//www.baltimoreravens.com/About/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimoreravens.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231012653id_/http%3A//www.baltimoreravens.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Baltimore Ravens | About | Privacy Policy
+# Baltimore Ravens | Privacy Policy
 
-[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.baltimoreravens.com/seal_m "Validate TRUSTe privacy certification")
-
-Revised: September 28, 2010
+Revised: May 29, 2012
 
 TrusteThis privacy policy applies to the Baltimore Raven's website located at www.baltimoreravens.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
-The Baltimore Ravens has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at Webmaster at 1 Winning Drive, Owings Mills, MD 21117. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. 
+The Baltimore Ravens has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at Webmaster at 1 Winning Drive, Owings Mills, MD 21117. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -116,6 +114,20 @@ YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE POLICY*
 By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
 If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by using the opt out message in an email, or by emailing us at [contactus@ravens.nfl.net](mailto:contactus@ravens.nfl.net). If you create a profile account within baltimoreravensstore.com you may access your personally identifiable information within your account page to make changes or delete your profile.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [contactus@ravens.nfl.net](mailto:contactus@ravens.nfl.net). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+Back to the Top **
+
+SOCIAL MEDIA (FEATURES)  AND WIDGETS 
+
+**
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+Back to the Top
+
+**YOUR CALIFORNIA PRIVACY RIGHTS**
 
 A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes.
 
