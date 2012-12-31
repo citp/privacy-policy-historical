@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxempire.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425133159id_/http%3A//www.inboxempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxempire.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010303id_/http%3A//www.inboxempire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inbox Empire
 
@@ -40,7 +40,7 @@ If you choose to provide personal information, it will be used for the following
 
 
 **Section 4: Your Opt-Out Rights**  
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATinboxempireDOTcom (Please replace “AT” with @ and “DOT” with .)
 
 **Section 5: We Do Not Intend to Collect Data from Children**  
 The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside InboxEmpire.com. No part of InboxEmpire.com’s web site is structured to attract anyone under the age of 18.
@@ -52,7 +52,7 @@ We reserve the right to contact you regarding your account status and changes to
 We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
 
 **Section 8: Our Contact Information**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATinboxempireDOTcom (Please replace “AT” with @ and “DOT” with .)
 
 **Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
 
@@ -69,7 +69,7 @@ InboxEmpire.com is dedicated to ensuring compliance with the ‘Can-Spam Act’,
 
 To ensure compliance with the Can-Spam Act, InboxEmpire.com has implemented the following guidelines for email delivery:
 
-  1. All emails sent to you by InboxEmpire.com will clearly identify InboxEmpire.com as the sender. FROM / SENDER: someone@InboxEmpire.com or someone@drivingtraffic.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @InboxEmpire.com or @DrivingTraffic.com).
+  1. All emails sent to you by InboxEmpire.com will clearly identify InboxEmpire.com as the sender. FROM / SENDER: someone@InboxEmpire.com or someone@inboxempire.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @InboxEmpire.com or @WorkingMomsOnly.com).
   2. The Subject Line of any email you receive will always accurately describe the subject matter of the email.
   3. Any email from InboxEmpire.com will include the ability to unsubscribe from future email messages.
   4. Unsubscribing will ensure the customer is removed from ALL lists at InboxEmpire.com; this excludes customer service emails regarding the processing and status of a current product.
@@ -81,7 +81,7 @@ To ensure compliance with the Can-Spam Act, InboxEmpire.com has implemented the 
 
 **Section 10: Information for ISPs**  
 Web site: InboxEmpire.com  
-Email Address: supportATdrivingtrafficDOTcom  
+Email Address: supportATinboxempireDOTcom  
 (Please replace “AT” with @ and “DOT” with .)
 
 InboxEmpire.com understands consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies. InboxEmpire.com and its affiliated sites use only an “opt-in or opt out” method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. InboxEmpire.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
@@ -94,4 +94,4 @@ From time to time, InboxEmpire.com will enter into an arrangement with a third p
 
 
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of InboxEmpire.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+We hope this information satisfies any questions or concerns you may have regarding the email practices of InboxEmpire.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATinboxempireDOTcom (Please replace “AT” with @ and “DOT” with .)
