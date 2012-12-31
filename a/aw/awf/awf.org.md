@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627102009id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awf.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231043643id_/http%3A//www.awf.org/section/_footer/_privacy) for the most accurate reproduction.*
 
 # AWF: Privacy Policy
 
@@ -101,4 +101,4 @@ United States
 Phone: +1-202-939-3333   
 Fax: +1-202-939-3332
 
-You can also send an email to [webmaster@awf.org](mailto:webmaster@awf.org).
+You can also send an email to [africanwildlife@awf.org](mailto:africanwildlife@awf.org).
