@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627143119id_/http%3A//www.stopagingnow.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231134012id_/http%3A//www.stopagingnow.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Stop Aging Now Privacy Policy
 
@@ -23,7 +23,7 @@ If you still do not feel comfortable shopping online, you can order by email, ph
 
 Toll-Free Ordering 24/7: 800-627-9721
 
-Toll-Free Fax Line: 888-468-5529
+Fax Line: 240-479-2501
 
 **General**
 
