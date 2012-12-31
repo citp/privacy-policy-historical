@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbe.ab.ca privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504013814id_/http%3A//www.cbe.ab.ca/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbe.ab.ca privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231015232id_/http%3A//www.cbe.ab.ca/legal/privacy.asp) for the most accurate reproduction.*
 
 # Calgary Board of Education - Privacy
 
@@ -58,5 +58,5 @@ Phone: 403-817-7899
 Fax: 403-777-8028
 
 Content Moderator: [Cathy Evanochko](mailto:CLEvanochko@cbe.ab.ca)   
-Web Administrator: [L. Diemert ](mailto:lkdiemert@cbe.ab.ca)  
+Web Administrator: [Webmaster](mailto:webmaster@cbe.ab.ca)  
 Last Modified: September 24, 2011
