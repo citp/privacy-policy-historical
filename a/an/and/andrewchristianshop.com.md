@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the andrewchristianshop.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510215311id_/http%3A//www.andrewchristianshop.com/Privacy-Notice-Andrew-Christian-ccid_2.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrewchristianshop.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231173120id_/http%3A//www.andrewchristianshop.com/Privacy-Notice-Andrew-Christian-ccid_2.aspx) for the most accurate reproduction.*
 
-# Privacy Notice at Andrew Christian, Inc.
+# Privacy Notice at Andrew Christian
 
 At Andrew Christian, Inc., we take the protection of your privacy seriously. We use the information we collect strictly to improve the quality of your shopping experience and we never rent, trade or sell your private information to others. We also use the highest encryption standards available through an SSL certification.
 
