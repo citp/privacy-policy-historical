@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatinfofix.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630110112id_/http%3A//www.thatinfofix.com/%3Fpagedb%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatinfofix.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231140523id_/http%3A//www.thatinfofix.com/%3Fpagedb%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Information at ThatInfoFix
 
