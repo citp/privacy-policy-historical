@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the finra.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225012id_/http%3A//www.finra.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finra.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231195646id_/http%3A//www.finra.org/Privacy) for the most accurate reproduction.*
 
-# FINRA - FINRA Website Privacy Policy
+# FINRA Website Privacy Policy - FINRA
 
 FINRA has created this security and privacy statement in order to demonstrate and communicate its commitment to the privacy of the users of FINRA's websites and to conducting business with the highest ethical standards and appropriate internal controls. The following discloses FINRA's information gathering and dissemination policies for the FINRA website:
 
