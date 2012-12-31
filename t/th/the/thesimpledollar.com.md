@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesimpledollar.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606062425id_/http%3A//www.thesimpledollar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimpledollar.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231053418id_/http%3A//www.thesimpledollar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Coupon Codes and Deals from The Simple Dollar Updated 2012
+# Privacy Policy | The Simple Dollar
 
 This is just a standard, boring, boilerplate privacy policy, virtually identical to any other website on the planet. Legal agreements require me to have such wonderfully exciting legalese, so just bear with me here.
 
