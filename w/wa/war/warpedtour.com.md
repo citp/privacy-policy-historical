@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warpedtour.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011327id_/http%3A//vanswarpedtour.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warpedtour.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231033602id_/http%3A//vanswarpedtour.com/info/privacy) for the most accurate reproduction.*
 
-# Vans Warped Tour
+# 
 
 At Vanswarpedtour.com we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
 
@@ -32,3 +32,11 @@ We are committed to protecting your privacy. We use the information we collect o
 ## Your Consent
 
 By using this web site you consent to the collection and use of the information you provide to CCRL LLC, and its affiliates. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we always collect, how we use it, and under what circumstances we disclose it
+
+##  Site Advertising, User Data And Behavioral Targeting 
+
+  1. State that the site's advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags; 
+  2. Enable end users to opt out of behavioral targeting through the opt-out link located at <http://www.networkadvertising.org/managing/opt_out.asp>; and 
+  3. Note that you are participating in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising, with the provision an "Ad Choices" link on your site or within advertising units that links to <http://www.aboutads.info/choices/>. 
+
+
