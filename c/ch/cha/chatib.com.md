@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatib.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418064828id_/http%3A//www.chatib.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatib.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231194727id_/http%3A//chatib.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
