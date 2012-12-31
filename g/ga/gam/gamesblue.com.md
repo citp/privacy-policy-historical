@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesblue.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614103209id_/http%3A//www.gamesblue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesblue.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231202446id_/http%3A//www.gamesblue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Games Blue
 
@@ -27,4 +27,6 @@ If you have any additional questions or concerns about this Policy, please feel 
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-Rating: 3.0/ **10** (3 votes cast)
+Rating: 4.7/ **10** (6 votes cast)
+
+Rating: **-2** (from 4 votes)
