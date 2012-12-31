@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523070005id_/http%3A//www.gizmodiva.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231013243id_/http%3A//www.gizmodiva.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Gizmodiva.com
 
 User Information
 
@@ -12,11 +12,9 @@ How We Use Your Information
 
 Information such as your full name, profile photo and any personally identifiable information you have included in your profile may be shown to friends or other users primarily in conjunction with content you have contributed. Your full name and email address may also be used when you send an email notification to a friend (such as in an invitation). We may also use your email address to send you updates or news regarding our site, but you may choose not to receive email of this type by editing your preferences in your profile. Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message).
 
-Gizmodiva uses third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (http://networkadvertising.org/consumer/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server, administer Gizmodiva, and otherwise provide the highest possible level of service to you. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners.
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 Transfer of Information
 
@@ -30,7 +28,7 @@ Controlling Your Personal Information
 
 You should be aware that when you voluntarily disclose personally identifiable information (e.g., user name, e-mail address) via comments, messages, forums, postings, or in other areas of the Gizmodiva network, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Gizmodiva. Please do not post any personal information on the Gizmodiva site or in other areas that you expect to keep private.
 
-As a registered Gizmodiva user, you can modify your personal information at any time by editing your “Profile”. Also, upon your request, Gizmodiva will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by Gizmodiva. Registered users who wish to close their account should contact gizmodiva@gmail.com.
+As a registered Gizmodiva user, you can modify your personal information at any time by editing your “Profile”. Also, upon your request, Gizmodiva will use commercially reasonable efforts to functionally remove you and your personal information from the site; however, it may be impossible to remove your entry without some residual information being retained by Gizmodiva. Registered users who wish to close their account should contact Gizmodiva@gmail.com.
 
 Links
 
@@ -39,11 +37,13 @@ User Contact and Security
 
 Use of Cookies
 
-Like most websites, Gizmodiva requires cookies to function properly. Cookies are small text files that reside on a user's computer and identify you as a unique user. We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time. You should be aware that Gizmodiva cannot control the use of cookies by advertisers or any information advertisers may gather from their use of cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Gizmodiva site.
+Like most websites, Gizmodiva requires cookies to function properly. Cookies are small text files that reside on a user’s computer and identify you as a unique user. We use cookies to refine our site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time. You should be aware that Gizmodiva cannot control the use of cookies by advertisers or any information advertisers may gather from their use of cookies. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide you certain features (e.g., customized delivery of information) available on the Gizmodiva site.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
 Security
 
-Your Gizmodiva account is password-protected. Gizmodiva tries very hard to protect our users' information. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+Your Gizmodiva account is password-protected. Gizmodiva tries very hard to protect our users’ information. We use industry standard measures to protect your information that is stored within our database. We limit the access to your information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security at our website, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
 You hereby acknowledge that Gizmodiva is not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
 
@@ -58,25 +58,4 @@ By using the website, you signify your agreement to the terms of our Privacy Pol
 
 Contact Us
 
-If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact gizmodiva@gmail.com.  
-
-
-[](http://digg.com/submit?phase=2&url=http://www.gizmodiva.com/other_stuff/privacy_policy.php "Click here to Digg this post") | [](http://www.stumbleupon.com/submit?url=http://www.gizmodiva.com/other_stuff/privacy_policy.php&title=Privacy%20Policy "Stumble it") | [](http://buzz.yahoo.com/submit/?submitUrl=http://www.gizmodiva.com/other_stuff/privacy_policy.php) | [](http://reddit.com/submit?url=http://www.gizmodiva.com/other_stuff/privacy_policy.php "Add to Reddit") | [](http://facebook.com/share.php?u=http://www.gizmodiva.com/other_stuff/privacy_policy.php&t=Privacy%20Policy "Share on facebook") | [](http://cgi.fark.com/cgi/fark/farkit.pl?u=http://www.gizmodiva.com/other_stuff/privacy_policy.php&h=Privacy%20Policy "Fark it")
-
-by [dhiram](https://web.archive.org/dhiram/index.php), posted July 19, 2008 - 9:19 AM in [Other Stuff](http://www.gizmodiva.com/other_stuff/) | [**Comments** ()](http://www.gizmodiva.com/other_stuff/privacy_policy.php#comments)
-
-## Reader Comments
-
-[blog comments powered by ](http://disqus.com/)
-
-## Recent Entries
-
-  * [KitchenAid Artisan Susan G. Komen Stand Mixer is a pretty little thing](http://www.gizmodiva.com/home_gadgets/kitchenaid_artisan_susan_g_komen_stand_mixer_is_a_pretty_little_thing.php)
-  * [Whoopie Pie Lip Gloss for a delicious pout](http://www.gizmodiva.com/beauty/whoopie_pie_lip_gloss_for_a_delicious_pout.php)
-  * [Cats can sleep in peace with lush plant topped pet houses](http://www.gizmodiva.com/pets/cats_can_sleep_in_peace_with_lush_plant_topped_pet_houses.php)
-  * [Mad Pax backpack for some reptilian fun](http://www.gizmodiva.com/fashion/mad_pax_backpack_for_some_reptilian_fun.php)
-  * [Spacejunk - Sculptural shelf unit for stylish storage](http://www.gizmodiva.com/home_improvement/spacejunk_sculptural_shelf_unit_for_stylish_storage.php)
-  * [S'mores rack helps you make tasty treats at home](http://www.gizmodiva.com/home_improvement/smores_rack_helps_you_make_tasty_treats_at_home.php)
-  * [Wireless keyboard disguised as a Victorian typewriter](http://www.gizmodiva.com/home_gadgets/wireless_keyboard_disguised_as_a_victorian_typewriter.php)
-
-
+If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can contact dhiram [at] gizmodiva.com.
