@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308034847id_/http%3A//www.originlab.com/index.aspx%3Fs%3D1%26lm%3D55%26pid%3D168) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231205313id_/http%3A//www.originlab.com/index.aspx%3Fgo%3DCompany/PrivacyPolicy) for the most accurate reproduction.*
 
 # OriginLab.com - Privacy Policy
+
+|   | 
 
 OriginLab is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement only applies to OriginLab.com; it does not apply to other online or offline OriginLab sites, products or services. Please read the complete OriginLab.com privacy statement. 
 
@@ -27,7 +29,7 @@ We use your personal information for the following purposes:
 
 
 
-We will merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of OriginLab.com, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won’t merge your personal information with site-visitation data.
+We will merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of OriginLab.com, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won't merge your personal information with site-visitation data.
 
 We occasionally hire other companies to provide limited services on our behalf, mailing and sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
@@ -99,3 +101,5 @@ OriginLab welcomes your comments regarding this privacy statement, please contac
 OriginLab Corporation  
 One Roundhouse Plaza  
 Northampton, MA 01060 
+
+|  
