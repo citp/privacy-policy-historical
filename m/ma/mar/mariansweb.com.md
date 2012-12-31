@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mariansweb.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217165337id_/http%3A//mariansweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariansweb.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231030620id_/http%3A//mariansweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**MariansWeb.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+[](http://mariansweb.com/privacy-policy/?format=pdf "Download PDF")
+
+**MariansWeb.com - Proven Tips & Strategies from Affiliate Marketer** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
@@ -10,7 +12,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, MariansWeb.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, MariansWeb.com - Proven Tips & Strategies from Affiliate Marketer uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
