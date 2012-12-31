@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515165112id_/http%3A//www.goldenskate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231092842id_/http%3A//www.goldenskate.com/privacy) for the most accurate reproduction.*
 
-# Golden Skate Privacy Policy | Golden Skate
+# Golden Skate Privacy Policy
 
 _Golden Skate_ has created this privacy policy to demonstrate it’s firm commitment to your privacy and the protection of your information.
 
 **Cookies**
 
-_Golden Skate_ does not collect or use cookies. However, cookies are enabled for the [ _Golden Skate Forums_](http://www.goldenskate.com/forum/) in order to prevent a user from registering more than once.
+_Golden Skate_ does not collect or use cookies, however, cookies are _enabled_ for the [ _Golden Skate Forums_](http://www.goldenskate.com/forum/forum.php) in order to prevent a user from registering more than once.
 
 **COPPA**
 
 _Golden Skate_ , in compliance with the [Children’s Online Privacy Protection Act (COPPA) of 1998](http://www.ftc.gov/ogc/coppa1.htm), provides notice to parents of children under 13 that:
 
-  * The [ _Golden Skate Forums_](http://www.goldenskate.com/forum/) require the consent of parents or guardians to collect, use and disclose personally identifiable information about children under 13;
+  * The [ _Golden Skate Forums_](http://www.goldenskate.com/forum/forum.php) require the consent of parents or guardians to collect, use and disclose personally identifiable information about children under 13;
   * _Golden Skate_ has created a mechanism by which parents and guardians can provide consent;
-  * _Golden Skate_ may not require children under 13 to disclose more information than is reasonably necessary to participate in the [ _Golden Skate Forums_](http://www.goldenskate.com/forum/); and
+  * _Golden Skate_ may not require children under 13 to disclose more information than is reasonably necessary to participate in the [ _Golden Skate Forums_](http://www.goldenskate.com/forum/forum.php);
   * _Golden Skate_ has created a mechanism by which parents or guardians can, upon verification, review their children’s personal information, ask to have that information deleted, and refuse to allow any further collection or use of their children’s personal information.
 
 
@@ -27,9 +27,9 @@ If you received an email from  _Golden Skate_ , (a) your email address is eithe
 
 Please carefully examine the headers of the offending email to locate the IP address of the host that sent the email.
 
-If an examination of the headers reveals that the message originated from a host in the **goldenskate.com** domain (including IP addresses that begin with 69.5.2.224), then forward the message, with full headers, to the [webmaster](http://www.goldenskate.com/contact/).
+If an examination of the headers reveals that the message originated from a host in the **goldenskate.com** domain, then forward the message (with full headers) to the [webmaster](http://www.goldenskate.com/contact/).
 
-**If you cannot tell where the message originated from or if it did not originate from the** **goldenskate.com** **domain, please do not report the matter to us.** Instead, we suggest that you use the [spam reporting service](http://www.spamcop.net/) at Spamcop.net.
+If you cannot tell where the message originated from or if it did not originate from the goldenskate.com domain, please do not report the matter to us. Instead, we suggest that you use the [spam reporting service](http://www.spamcop.net/) at Spamcop.net.
 
 **Sharing and Usage**
 
