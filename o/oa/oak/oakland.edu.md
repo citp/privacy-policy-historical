@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakland.edu privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504205131id_/http%3A//www.oakland.edu%3Fid%3D1645%26sid%3D205) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakland.edu privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231150026id_/http%3A//www.oakland.edu%3Fid%3D1645%26sid%3D205) for the most accurate reproduction.*
 
 # OU Web Privacy Statement - Policies and Regulations - Oakland University
 
@@ -35,4 +35,4 @@ Privacy Policy Changes
 We may change this privacy statement at any time by posting revisions to our website. Your use of the website constitutes acceptance of the provisions of this privacy statement and your continued usage after such changes are posted constitutes acceptance of each revised privacy statement. If you do not agree to the terms of this privacy statement or any revised statement, then please exit the website immediately. 
 
 Reporting Personal Privacy Issues   
-If you have any questions about this privacy statement, your personal information, the practices of this website or your interaction with this website, please complete the [Contact OU form](http://www2.oakland.edu/search/contact.cfm). 
+If you have any questions about this privacy statement, your personal information, the practices of this website or your interaction with this website, please complete the [Contact OU form](https://web.archive.org/contact). 
