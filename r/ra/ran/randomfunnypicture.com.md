@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randomfunnypicture.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629120240id_/http%3A//randomfunnypicture.com/contact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randomfunnypicture.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231043456id_/http%3A//randomfunnypicture.com/contact) for the most accurate reproduction.*
 
 # Contact : Random Funny Picture | Funny Pictures | Funny Pics | Crazy Pictures | Weird Pictures
 
@@ -13,7 +13,7 @@ If you believe that any content appearing on randomfunnypicture.com infringes on
 3\. The exact URL or a description of each place where alleged infringing material is located;  
 4\. A statement by you that you have a good faith belief that the disputed use has not been authorized by you, your agent, or the law;  
 5\. Your electronic or physical signature or the electronic or physical signature of the person authorized to act on your behalf;  
-6\. A statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owner�s behalf
+6\. A statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owneru0092s behalf
 
 Please also note that under Section 512(f) of the Copyright Act any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
 
@@ -29,7 +29,7 @@ This site has technological and operational security functions in place to prote
 
 Non-personal information is collected to track the total number of guests visiting www.randomfunnypicture.com and to guide efforts to improve the site. The non-personal information includes the browser type and operating system being used by visitors; areas of the sites visited; date and time of access; host or service-provider information, and identification of the referring site. This information is used exclusively for internal purposes and is not disclosed to any third parties.
 
-www.randomfunnypicture.com uses �cookies� � one or more small text files saved on your computer�s hard drive and stored in memory while your browser is running. This allows us to monitor your activity throughout the sites and correlate usage patterns.
+www.randomfunnypicture.com uses u0093cookiesu0094 u0096 one or more small text files saved on your computeru0092s hard drive and stored in memory while your browser is running. This allows us to monitor your activity throughout the sites and correlate usage patterns.
 
 This site contains links to other sites. This site is not responsible for the privacy practices or the content of such Web sites.
 
