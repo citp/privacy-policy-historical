@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dobeweb.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516114844id_/http%3A//dobeweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobeweb.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231031555id_/http%3A//dobeweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy _Dobeweb
 
