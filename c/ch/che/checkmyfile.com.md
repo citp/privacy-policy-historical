@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510182218id_/http%3A//www.checkmyfile.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231054100id_/http%3A//www.checkmyfile.com/privacy.htm) for the most accurate reproduction.*
 
 # Credit Report, Credit Reference, Credit Check - checkmyfile
 
@@ -14,11 +14,73 @@ We **do not store** the lifestyle information you provide us when you use our Fr
 
 You may **opt out** or opt back in to receive our monthly emails at any time. Every monthly email we send contains a simple one-click ability to opt out.
 
+## Cookies
+
+We use a minimal number of cookies to support your use of the checkmyfile website. We classify these as being either **Strictly Necessary** , **Performance** or **Referral** cookies. More information is available below - you can change your settings by clicking the Privacy & Cookies link at the top of the page.
+
+#### Strictly Necessary Cookie Examples
+
+These cookies are always set by us, and never by third parties and are used to facilitate your navigation of the site, and provide features or functionality that you request which are provided by us.
+
+Cookie Name
+
+Provider
+
+Purpose
+
+ASP.NET_SessionId
+
+checkmyfile
+
+Used to manage your session on the site - enabling you to navigate pages and access secure areas. No personal information is stored in this cookie which is automatically destroyed when you log out and close your browser.
+
+CookiePreference
+
+checkmyfile
+
+Required to remember any cookie preferences you set with us, namely your preferences for blocking or showing Performance and/or Referral cookies.
+
+#### Performance Cookie Examples
+
+Set by us, or our trusted suppliers these cookies enable us to identify and resolve issues with our website, and to manage the amount of data that is required to view each page, thereby improving the performance of the website for all users.
+
+Cookie Name
+
+Provider
+
+Purpose
+
+__utma
+
+Google
+
+Used by Google to provide data for their Google Analytics service which provides us with detailed information about how our website is performing, which areas have issues and which are the most popular sections of the site that we would then seek to optimise. The data collected through this service is anonymous - we only permit access to our Google Analytics information to ourselves and to no other third party.  
+    
+View the [Google Privacy & Cookies Policy](http://www.google.co.uk/intl/en/policies/).
+
+#### Referral Cookie Examples
+
+These cookies are set by our advertising partners to enable us to track referrals sent to us via their advertising networks, and to reward them for promoting our services accordingly.
+
+Cookie Name
+
+Provider
+
+Purpose
+
+Various
+
+OMG
+
+These cookies are set by OMG, a market leading UK based affiliate marketing company to record a referral to our website from one of many hundreds of websites who promote our services. No personal information is recorded in these cookies, merely the data required to validate the referral at the checkout.  
+    
+View the [OMG Privacy & Cookies Policy](http://uk.omgpm.com/privacy.aspx).
+
+## Privacy Practices
+
 #### How we use your information
 
 Your IP address is used to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and your search requirements and to gather broad demographic information.
-
-We use small, harmless cookies to deliver content specific to your interests. We **do not extract** any information from your computer. 
 
 When you register on checkmyfile, we ask you for identification information (such as your name and date of birth), contact information (such as your address, email address amd telephone number) and secret information that you share with us (such as your password). We **do not share** any of this information with any third party, other than for obvious purposes (for example we need to give your name address and date of birth to the credit reference agencies when we search you). We use your telephone number only to contact you in case of payment issues arising on any subscription product you purchase from us.
 
@@ -44,7 +106,7 @@ Our online surveys are optional. The information you provide as an individual re
 
 #### Security
 
-checkmyfile has security measures in place to protect the loss, misuse and alteration of the information under our control. These include the issue and use of passwords, powerful encryption and computer firewalls to guard against hacking. From time to time we may have to suspend services whilst we investigate a breach of security. You are also obligated, under the Terms and Conditions you agree to abide by when you use our services, to report any suspected breach to us immediately.
+checkmyfile has security measures in place to protect the loss, misuse and alteration of the information under our control. These include the issue and use of passwords, powerful encryption and computer firewalls to guard against hacking. From time to time we may have to suspend services whilst we investigate any attempted breach of security. You are also obligated, under the Terms and Conditions you agree to abide by when you use our services, to report any suspected breach to us immediately.
 
 #### Supplementation Information
 
