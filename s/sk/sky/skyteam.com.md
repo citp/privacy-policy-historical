@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyteam.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629234842id_/http%3A//www.skyteam.com/en/General-information/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyteam.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231011252id_/http%3A//www.skyteam.com/en/General-information/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ We may retain your name, and possibly other personal information, such as mailin
 
 **Who do you share my personal information with?**
 
-We will not sell your name or other private profile information to third parties, and do not intend to do so in the future. We routinely share your information with our SkyTeam Member airlines and their subsidiaries. SkyTeam may also send you promotional offers in connection with its promotional partners if you indicate that you wish to receive offers from them. From time to time, we may engage third parties to process information on our behalf; however, SkyTeam requires that these third parties comply with SkyTeam's Privacy Policy and principles when processing this information. We may share anonymous, non-personal aggregated information about all our users with third parties.
+We will not sell your name or other private profile information to third parties, and do not intend to do so in the future. We routinely share your information with our SkyTeam member airlines and their subsidiaries. SkyTeam may also send you promotional offers in connection with its promotional partners if you indicate that you wish to receive offers from them. From time to time, we may engage third parties to process information on our behalf; however, SkyTeam requires that these third parties comply with SkyTeam's Privacy Policy and principles when processing this information. We may share anonymous, non-personal aggregated information about all our users with third parties.
 
 **How does skyteam.com use cookies and similar technologies?**
 
