@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630184633id_/http%3A//www.mcclatchydc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcclatchydc.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231183100id_/http%3A//www.mcclatchydc.com/privacy-policy) for the most accurate reproduction.*
 
 # McClatchy |
 
@@ -114,5 +114,3 @@ McClatchyDC.com supports P3P, the Platform for Privacy Preferences, which allows
 ### Contact Information
 
 If you have any questions or comments about our policies, we may be reached at McClatchyDC.com, 700 12th Street NW Suite 1000, Washington D.C., 20005, at (202) 383-6000 or at [web@mcclatchydc.com](mailto:web@mcclatchydc.com).
-
-advertisement
