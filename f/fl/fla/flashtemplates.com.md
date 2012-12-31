@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashtemplates.com privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301071712id_/http%3A//www.flashtemplates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashtemplates.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231152031id_/http%3A//www.flashtemplates.com/privacy) for the most accurate reproduction.*
 
-# Flash Templates Free and Premium
+# Privacy Policy | FlashTemplates.com
 
 **Cookies**
 
@@ -32,4 +32,4 @@ We may at any time, without notice to you and in its sole discretion, amend this
 
 **Questions or Suggestions**
 
-If you have questions or suggestions about this privacy policy, or your own personal information, please Contact Us.
+If you have questions or suggestions about this privacy policy, or your own personal information, please [contact us](http://rms2.flashtemplates.com/contacts/).
