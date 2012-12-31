@@ -1,37 +1,47 @@
-> *The following text is extracted and transformed from the samuelmerritt.edu privacy policy that was archived on 2012-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120519091042id_/http%3A//www.samuelmerritt.edu/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samuelmerritt.edu privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231093025id_/http%3A//www.samuelmerritt.edu/privacy_policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Samuel Merritt University
 
-Policy Version: 0.91 (draft), rev. 07.28.2004
+**Our Privacy Policy**
 
-**Policy Summary:**
+(last update: Jun 2012)
 
-This policy describes Samuel Merritt University's (herein "SMU") methods for collection, use, and distribution of personal information via the university's website. 
+This privacy policy sets out how Samuel Merritt University uses and protects any information that you give when you use this website.
 
-**Purpose:**
+Samuel Merritt University is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-This policy has been developed to insure the protection of our website visitors' privacy rights in any transaction involving the submission of personal information. Furthermore, it is the intent of this policy to provide disclosure to SMU website visitors. 
+Samuel Merritt University may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-**Scope/Applicability:**
+**Information we gather**
 
-This policy applies to all divisions of the University and to all personal information collected from all website visitors. SMU maintains privacy policies for other purposes (FERPA, HIPAA, and others) which may include provisions not present in this policy. This policy applies only to information collected from the SMU website. 
+The following information is gathered from our website visitors:
 
-**Policy:**
-
->   * Collection Methods: Personal information is collected for various purposes through website forms. In most cases, such information is delivered to relevant university employees through our internal email server. In some cases, the contents of these forms are collected in databases; in such cases, those databases are stored and maintained within our internal network and are not accessible to anyone inside or outside SMU without explicit permissions being granted.
-> 
-
-
-(example: A form is provided for companies registering for SMU's Annual Career Fair; when a form is submitted, the information is summarized in an email sent to designated employees of SMU's Enrollment Services Division, who are organizing the fair; additionally, the information is stored in a database that is accessible to those same employees when they are logged in to SMU's internal network.)
-
->   * Cookies and Session Variables: In some cases, information is collected for use in online software applications; in most of those cases, the information (usually log-in information) is stored in browser cookies or session variables. In all cases where information is stored in such a way, the information is deleted at the end of the browser session or set to expire after a fixed period of time; personal information stored in cookies and session variables is not stored by SMU.
->   * Disclosure: Data collected through SMU's website will only be used for the purposes stated on the particular page or form from which it is submitted. If SMU intends to share submitted information, details of how such information will be distributed will be detailed on the form being submitted.
-> 
+  * IP address
+  * Browser version
+  * Operating system version
 
 
-(example: On a form for students to register for SMU's Annual Career Fair, there is an option to elect to have the student's contact information forwarded to employers participating in the Career Fair. By forwarding their contact information, students can pre-arrange and schedule meetings with employers during the fair. Within the form itself, the question is asked specifically, "Would you like us to forward your contact information to employers participating in the fair?"; the student may check "yes" or "no". Only contact information for those who check "yes" will be forwarded, and it will only be forwarded to employers who have registered for the Career Fair.) 
 
-  * Authority/Enforcement: The SMU website privacy policy is maintained by Information Technology Services Department in conjunction with all divisions of the organization. Please direct any privacy concerns or complaints or SMU's Director of Information Technology, Blair Simmons.
-  * Renewal/Review: Changes to this policy will be posted to this web page with revision dates. Revisions will only apply to information collected after the revision date. Please refer to this page before submitting any information if you have concerns about the use of such information.
+If a user logs in to the website, the username will appear in the system logs as having attempted or completed a login.
 
+**Surveys and Webforms**
 
+Our site may request information from you via surveys and webforms. Participation in these surveys and webforms are completely voluntary, so you have a choice whether or not to disclose the information. Information requested may include contact information (such as name and email address) and demographic information (such as zip code or academic program). Submission data is secured on our servers and accessible only by select University personnel.
+
+When an authenticated user (someone that is logged in) submits a webform on our website, the user's username will be associated with that submission even if the webform does not specifically ask for a name. If the webform does not require authentication and does not ask for a name, the submission will not have a username associated with that submission.
+
+**How we use the information we gather**
+
+We use the information to enhance the visitor's experience and to analyze website performance statistics. The information is not sold to any outside group or entity.  Inquiry and webform submission data may be used by the University for recruitment purposes.
+
+**Our use of cookies**
+
+Our website makes use of cookies, which are small digital files that are stored in your web browser that enable us to analyze visits to our website.  If a user logs into the website, a cookie is used to maintain the session for the duration of the visit. Session cookies will expire after the user leaves the website.
+
+Browser settings may allow the user to block these cookies, but we recommend that users have them enabled. Certain segments of the website may not work as intended if cookies are disabled.
+
+Additionally, 3rd party vendors on our site may use cookies. Google, as a third party vendor, uses cookies to accomplish their objectives for the Google Analytics and Google Custom Search Engine services.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over the other websites.  We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects information.
