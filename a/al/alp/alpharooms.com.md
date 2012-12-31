@@ -1,71 +1,105 @@
-> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121002314id_/http%3A//www.alpharooms.com/webpages/cobrand/0/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231083112id_/http%3A//www.alpharooms.com/webpages/cobrand/0/privacy.aspx) for the most accurate reproduction.*
 
 # Alpharooms.com privacy policy
 
-**alpharooms.com** takes your privacy seriously. We do not share your details with anybody else. We do not send you any marketing material without your permission.
+**Alpharooms** take your privacy seriously. We will only use your details in accordance with this privacy policy. We do not send you any marketing material without your permission.
 
-## What information we collect
+##  1\. What information we collect 
 
-We only collect information that you voluntarily give to us:
+We only collect and store information that you voluntarily give to us. This includes: 
 
-  * During the booking process, and on the submission of other queries and requests, you provide us with certain personal information such as your name, email address, contact details and billing address. You also give us your credit/debit card details to pay for the booking.
-  * If you sign up for our special offers newsletter we take your email address, name, preferred airport and other travel preferences.
-  * When you submit a review, comment, photo or use our Interactive Areas you provide us with your name, email address, geographic location, traveller type, opinions, preferences, photos and videos.
-  * Like all online retailers, we collect usage information when a user visits our website. This information cannot identify individuals; we can use it solely to determine overall visitor numbers and trends.
-
-
-
-## How we use your information
-
-We use your information to:
-
-  * Deal with your booking, and other queries and requests, for accommodation, flights, transfers and other extras or services.
-  * Send you special offers by email - but only if you give us permission.
-  * Publish your reviews, comments, photos, videos and other content to alpharooms.com and other companies within the Alpha International Accommodation Ltd. Group.
-  * Tailor our services to your requirements and preferences.
-  * We may use your information for the purposes of providing you with our services, customer care, improving our service to you, assessing customer purchasing preferences, credit checking and debt collection.
-  * Determine visitor numbers to **alpharooms.com** , and to establish sales trends. This enables us to improve our visitors' experiences of our website. We use cookies on our website to allow us to monitor our website traffic, enhance functionality and personalise our website content for you. You can alter your security settings on your computer to reject the cookies, however this may mean you will not be able to use certain website features.
+  * Information that you provide by filling in any booking or other forms on the website [www.alpharooms.com](http://www.alpharooms.com/) (the “Website”), including your name, address, date of birth, email address, telephone numbers, credit card details (i.e. credit card type and number, CVC code, expiration date, credit card holder name) and any preferences in connection with your bookings; 
+  * Information about your computer and about your visits to and use of this Website (including your IP address, geographical location, browser/platform type and version, Internet Service Provider (ISP) and (for users of our service through a mobile device) Unique Device Identifier, operating system, referral source/exit pages, length of visit, page views, website navigation, date/time stamp information and details like the number and location of (mouse) clicks on a given page, mouse movements, scrolling activity and the (search) words you use and the text you type while being on and using our Website); 
+  * information that you provide to us for the purpose of registering with us; 
+  * information that you provide to us when you sign up for our newsletters and alerts including your email address, name, preferred airport and other travel preferences; and 
+  * any other information that you choose to send to us. 
 
 
 
-## Who we share your information with
+##  2\. Information you provide to us about other people 
 
-Your information is only shared with certain third parties, our selected business partners and service providers, in order to administer your requests and bookings, and provide other services you have requested. For example, we give your details to the hotel you have booked. We do not share your information for marketing purposes.
+Before you provide us with information about any person other than yourself, you must ensure that you have their authority to provide it to us and that they understand how their information will be used. 
 
-## How we protect your information
+##  3\. Cookies 
 
-Any sensitive information you give us (such as credit card details) is protected by SSL technology - the industry standard to securely send information across the Internet. For more information [view our Security page](https://web.archive.org/web/20111121002314id_/http%3A//www.alpharooms.com/webpages/cobrand/0/security.aspx).
+To read about how we use cookies please see our [Cookie Policy](https://web.archive.org/WebPages/CoBrand/0/Cookies.aspx). 
 
-##  Direct Marketing
+##  4\. How we use your information 
 
-We may use your information to contact you with relevant and similar marketing promotions from companies within the Alpha International Accommodation Ltd. Group (for example we may send you promotions from our sister company Vacenza.com with similar products and services). We may also contact you with relevant marketing promotions from some carefully selected third party companies.
+Personal information submitted to us via this Website will be held by us and used in accordance with this privacy policy. We may use your information to: 
 
-We may contact you with up and coming promotions via email, direct mail, SMS, or RSS feeds but only with your consent. 
+  * Tailor the services available on the Website to your requirements and preferences. 
+  * Allow you to use all of the services available on the Website including providing you with login in details so you may access details of your bookings. 
+  * Manage your bookings, and other queries and requests. 
+  * Send you email notifications which you have specifically requested including notifications confirming your bookings made via the Website. 
+  * Send you general (non-marketing) commercial communications, for example communications about important changes to the Website. 
+  * Send you special offers and other marketing communications where you have given us your permission to do so. (You can inform us at any time if you do not wish to receive such offers by simply clicking on the unsubscribe link contained in each offer message). 
+  * Provide you with various services including enquiry and complaint handling, improve our service to you, assess your purchasing preferences, credit checking and debt collection. 
+  * Manage and administer the Website; 
+  * Provide ourselves and third parties with statistical information about our users for Website optimisation, sales, marketing and business development purposes (this information will not be used in a way which allows any individual user to be identified); 
 
-We may also contact you by post with specific offers, brochure content, product information or competitions from the Alpha International Accommodation Ltd. Group. 
 
-All details provided by you will be held by us and used in accordance with our Privacy Policy. 
 
-##  Data Protection
+###  Direct Marketing 
 
-All personal information held by us is done so in accordance with the Data Protection Act (1998). 
+We will not provide your personal information to any third parties for the purpose of direct marketing unless you have provided your express consent by activating the "opt-in" option on the Website. In such cases, we shall only transfer to the third party that data which is necessary to allow you to receive this direct marketing (e.g. name, address and email addresses). You may remove your consent at any time after which we will no longer disclose your information. Each relevant third party will show their contact information in their marketing material. We have no control over such third party marketing material, we therefore disclaim all liability that may arise from such third party marketing material. 
 
-##  Your Rights
+You expressly agree to such uses of your personal information. 
 
-You have the right to unsubscribe from any future marketing communications. If you would like to unsubscribe from the alpharooms.com newsletters please do so by clicking on the unsubscribe link within the emails. Alternatively you can write to us requesting this removal. We will ensure that you are removed from all future communications. 
+##  5\. Who we share your information with 
 
-If you would like further information about the Alpha International Accommodation Ltd. Group please write to us at 261-263 Ecclesall Road, Sheffield. S11 8NX. Please address your correspondence to the Office Manager. 
+Your information is shared with hotel, airline, car rental, and other providers, who offer their products and services for sale through this Website (“Travel Providers”) and our employees, officers, agents and service providers in order to process your booking requests, provide other services you have asked for, process information or manage aspects of our Website. For example, we give your details to the hotel you have booked. We do not share your information for marketing purposes unless you have specifically agreed that we may do this. 
 
-## alpharooms.com features and your privacy
+Information that you provide may be stored and processed in and transferred between any of the countries in which our Travel Providers operate. Information which you provide may therefore be transferred to countries which do not have data protection laws equivalent to those in force in the European Economic Area (EEA), in particular where your booking destination is outside the EEA. Please note, if we cannot pass this information to the relevant Travel Providers, whether in the EEA or not, we cannot provide the services to you. 
 
-### Special Offer Emails
+We may disclose your personal information: 
 
-If you would like to unsubscribe from the alpharooms.com newsletters please do so by clicking on the unsubscribe link within the emails. 
+  * to the extent that we are required to do so by law; 
+  * in connection with any legal proceedings or prospective legal proceedings; 
+  * for the purposes of fraud prevention; 
+  * to a prospective purchaser of any business or asset which we are contemplating selling 
 
-### Email This Hotel
 
-**alpharooms.com** visitors can send links to hotel pages to their friends using the **Email This Hotel** buttons. We do not store any email addresses or names given by visitors using this service.
 
-##  Change to this Privacy Policy 
+You expressly agree to such transfers and disclosures of your personal information. 
 
-Alpha International Accommodation Ltd. Group reserves the right to amend this Privacy Policy in the future. All changes will be posted on the site. We endeavour to adhere to latest policy guidelines. 
+##  6\. How we protect your information 
+
+While we cannot guarantee the security of data sent over the internet, we have implemented appropriate administrative, technical, and physical security procedures to help prevent the loss, misuse or unauthorised alteration of the personal information you provide to us. In particular we use encryption when transmitting sensitive personal information (such as credit card details) and we employ firewalls and intrusion detection systems to help prevent unauthorised access to your information. 
+
+You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the Website). 
+
+##  7\. Your Rights 
+
+You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to: 
+
+  * the payment of a fee (currently £10.00); and 
+  * the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address). 
+
+
+
+We may withhold such personal information to the extent permitted by law. 
+
+We ask you to opt in before we use your personal information for marketing purposes. If at any time you wish to opt out you can do so by clicking the “unsubscribe” link contained in each marketing communication. Alternatively you can write to us requesting this removal at the address shown in Section 10 of this Privacy Policy. 
+
+##  8\. Change to this Privacy Policy 
+
+Alpha International Accommodation Limited reserves the right to amend this Privacy Policy from time to time by posting a new version on the Website. You should check this page occasionally for any changes. Your continued use of the Website shall constitute your agreement and acceptance of any changes to this policy. 
+
+##  9\. Links to Third Party Websites 
+
+The Website contains links to a number of other third party websites. We are not responsible for any aspects of those third party websites including their approach to privacy issues. You should refer to the privacy policy on each website for more information. 
+
+##  10\. How to contact us about this Privacy Policy 
+
+By Email: [datacontroller@alpharooms.com](mailto:datacontroller@alpharooms.com)
+
+By Post: Data Controller, Alpha International Accommodation Limited, 261-263 Ecclesall Road, Sheffield S11 8NX 
+
+Please use these contact details to let us know if the personal information we hold about you needs to be amended or updated. 
+
+##  11\. Data Protection 
+
+Our data protection registration number is Z8595359. 
+
+The responsible data controller in respect of the information collected on this Website is Alpha International Accommodation Limited, whose registered office is at 261-263 Ecclesall Road, Sheffield S11 8NX. 
