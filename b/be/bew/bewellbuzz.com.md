@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bewellbuzz.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621031018id_/http%3A//www.bewellbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bewellbuzz.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231015426id_/http%3A//www.bewellbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Be Well Buzz
 
@@ -28,7 +28,7 @@ Any information you disclose voluntarily on our comments pages or in any forums 
 
 ### [BeWellBuzz](http://www.bewellbuzz.com/author/Buzz%20Team/ "BeWellBuzz")
 
-Our mission and goal is to provide you with the best, researched and factual natural health information on the internet. Created by Larry Oz, a natural health journalist who seeks to awaken people to their highest levels of personal truth. Please spread this article far and wide by sharing it with family and friends. As always, please seek professional advice before implementing any practice. BeWellBuzz.com is brought to you by [Halcyon Publishing](http://www.halcyonpublishing.net/).
+The mission and goal of this site is to provide you with the best, researched and scientifically factual natural health and personal development information. Created by Larry Oz, a natural health & personal development advocate who seeks to awaken people to their highest levels of personal truth. He and his wife Oksana work hard to bring this work to you. When you like or share this information you help make the world a better place. As always, please seek professional advice before implementing any practice. BeWellBuzz.com is brought to you by [Halcyon Publishing](http://www.halcyonpublishing.net/).
 
 [More Posts](http://www.bewellbuzz.com/author/Buzz%20Team/ "More posts by BeWellBuzz") \- [Website](http://www.bewellbuzz.com/ "BeWellBuzz")
 
