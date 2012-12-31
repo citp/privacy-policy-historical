@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620220511id_/http%3A//www.ems1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ems1.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231012402id_/http%3A//www.ems1.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -164,7 +164,7 @@ If you have any questions or comments regarding this privacy policy, please cont
 The Praetorian Group   
 200 Green St., Suite 200   
 San Francisco, CA 94111   
-Toll Free: 866/431-5367   
+Toll Free: 866/402-4371   
 Fax: 415/962-8340   
 [customerservice@ems1.com](mailto:customerservice@ems1.com?subject=Profile%20Update)
 
