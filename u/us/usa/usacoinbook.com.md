@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usacoinbook.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621042505id_/http%3A//www.usacoinbook.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacoinbook.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231072803id_/http%3A//www.usacoinbook.com/privacy-policy.php) for the most accurate reproduction.*
 
 # USA Coin Book Privacy Policy
 
@@ -112,4 +112,6 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 ## General
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. Your questions may be answered online by writing to us using the [Contact Us](http://www.usacoinbook.com/contact-us.php) form.
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. Your questions may be answered online by writing to us using the [Contact Us](http://www.usacoinbook.com/contact-us.php) form.  
+  
+---|---
