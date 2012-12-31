@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the times.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630102009id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231215316id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The New York Times
 
-_Last Updated on December 5, 2011_
+_Last Updated on September 19, 2012_
 
 This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including global.nytimes.com, the online edition of The International Herald Tribune) [The New York Times Home Delivery](http://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome) Web site, [The New York Times Neediest Cases Fund](http://nytneediestcases.com/), Times Skimmer, Times Reader, [The New York Times Store](http://www.nytstore.com/ "Welcome to The New York Times Store  - Rare and Newsworthy Items") and [The New York Times Learning Network](http://learning.blogs.nytimes.com/ "The Learning Network - The Learning Network Blog - NYTimes.com"), our mobile messaging services, Web sites and other applications (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
@@ -166,7 +166,7 @@ In the future, we may sell, buy, merge or partner with other companies or busine
 
 **Third Parties**
 
-If you are a print subscriber to The New York Times newspaper and subscribed either by mail, phone or online, we may exchange or rent your name and mailing address and certain other information, such as when you first subscribed to The New York Times (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may opt-out by e-mailing us at [opt-out@nytimes.com](mailto:opt-out@nytimes.com?subject=Opt-out), or write to us at Customer Care, P.O. Box 217, Northvale, NJ 07647-0217.  If you are a current print subscriber, please remember to include your account number and phone number in the body of your e-mail or letter, and if you choose to opt-out via e-mail, please include "Opt-out" in the subject line.
+If you are a print subscriber to The New York Times newspaper and subscribed either by mail, phone or online, we may exchange or rent your name and mailing address and certain other information, such as when you first subscribed to The New York Times (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may opt-out by e-mailing us at [opt-out@nytimes.com](mailto:opt-out@nytimes.com?subject=Opt-out), or write to us at Customer Care, P.O. Box 8041 Davenport IA 52808-8041.  If you are a current print subscriber, please remember to include your account number and phone number in the body of your e-mail or letter, and if you choose to opt-out via e-mail, please include "Opt-out" in the subject line.
 
 **Service Providers**
 
@@ -224,7 +224,7 @@ If you experience difficulty with the unsubscribe process, feel free to contact 
 
 **Mail or Telephone Promotions**
 
-If, at any time, you prefer not to receive mail or telephone solicitations originated by The New York Times Home Delivery Department, or if you prefer that we do not share this information with third parties for marketing purposes, please e-mail us at [opt-out@nytimes.com](mailto:opt-out@nytimes.com?subject=Opt-out) or write to us at Customer Care, P.O. Box 217, Northvale, NJ 07647-0217. If you are a current newspaper subscriber, please remember to include your account number and phone number in the body of your e-mail or letter, and if you choose to opt-out via e-mail, please put "Opt-out" in the subject line.
+If, at any time, you prefer not to receive mail or telephone solicitations originated by The New York Times Home Delivery Department, or if you prefer that we do not share this information with third parties for marketing purposes, please e-mail us at [opt-out@nytimes.com](mailto:opt-out@nytimes.com?subject=Opt-out) or write to us at Customer Care, P.O. Box 8041, Davenport, IA 52808-8041. If you are a current newspaper subscriber, please remember to include your account number and phone number in the body of your e-mail or letter, and if you choose to opt-out via e-mail, please put "Opt-out" in the subject line.
 
 ### **IS MY INFORMATION PROTECTED?**
 
@@ -249,7 +249,7 @@ For any questions concerning The Learning Network, please contact Katherine Schu
 
 **Your California Privacy Rights**
 
-Under the California “Shine The Light” law, California residents may opt-out of the NYT’s disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to Customer Care, P.O. Box 217, Northvale, NJ 07647-0217 or by e-mailing us at [opt-out@nytimes.com](mailto:opt-out@nytimes.com?subject=Opt-out). It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes.
+Under the California “Shine The Light” law, California residents may opt-out of the NYT’s disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to Customer Care, P.O. Box 8041, Davenport, IA 52808-8041 or by e-mailing us at [opt-out@nytimes.com](mailto:opt-out@nytimes.com?subject=Opt-out). It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes.
 
 **Changes to This Policy**
 
