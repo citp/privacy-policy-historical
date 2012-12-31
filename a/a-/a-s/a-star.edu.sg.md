@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the a-star.edu.sg privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508014147id_/http%3A//www.a-star.edu.sg/PrivacyStatement/tabid/768/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-star.edu.sg privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231024236id_/http%3A//www.a-star.edu.sg/PrivacyStatement/tabid/768/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|  |    |  [RSS](https://web.archive.org/Media/News/PressReleases/tabid/828/articleType/Syndication/Default.aspx) |  [Print](http://www.a-star.edu.sg/Default.aspx?TabId=768&SkinSrc=\[L\]Skins\\astar\\HomePagePrinterFriendly) |  Email  |  [ Share](http://www.addthis.com/bookmark.php?v=250&pub=xa-4a8e009d245362a2) |  Text Size  A A A  
----|---|---|---|---|---  
-|    |  |  |  [](http://www.a-star.edu.sg/Default.aspx "Agency for Science Technology and Research \(A*STAR\)") |  |   
----|---|---  
-  
 | 
 
   1. This is an Agency for Science, Technology and Research (A*STAR) website. Thank you for examining our privacy statement.
@@ -19,6 +14,4 @@
 
   
   
----  
-  
- 
+---
