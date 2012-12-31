@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clumsycrooks.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505003615id_/http%3A//www.clumsycrooks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clumsycrooks.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231180838id_/http%3A//clumsycrooks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Clumsy Crooks
 
