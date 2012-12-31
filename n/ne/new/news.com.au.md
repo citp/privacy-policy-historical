@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the news.com.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630150943id_/http%3A//news.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news.com.au privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231172437id_/http%3A//www.news.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | News.com.au
 
-News Digital Media (NDM) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers.
+NewsLifeMedia (News) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers.
 
 We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
 
@@ -20,17 +20,17 @@ We use your information to provide our services (which may include the display o
 
 ### Use by Third Parties
 
-NDM may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you. We may also share your information with third parties who provide prizes for competitions or reader offers. If we do this we generally require these parties to protect your information in the same way we do.
+News may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you. We may also share your information with third parties who provide prizes for competitions or reader offers. If we do this we generally require these parties to protect your information in the same way we do.
 
 ### Use of Aggregate Data
 
 We may collect and use certain non-personal information (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider) to optimise our goods and services (which may include the display of personalised content and advertising)  including our Web pages for your computer.
 
-NDM may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by News or provided to others as a summary report for marketing, advertising or research purposes.
+News may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by News or provided to others as a summary report for marketing, advertising or research purposes.
 
 ### Security
 
-NDM strives to ensure the security, integrity and privacy of personally identifiable information of our customers. We use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure.
+News strives to ensure the security, integrity and privacy of personally identifiable information of our customers. We use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure.
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.
 
@@ -42,7 +42,7 @@ To request access, please contact our privacy officer as set out at the end of t
 
 ### Public Information
 
-Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While NDM strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board.
+Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While News strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board.
 
 ### Cookies
 
@@ -50,9 +50,9 @@ Cookies are data that a Web site transfers to an individual's hard drive for rec
 
 ### Online Links to Third Party and Co-Branded Sites
 
-NDM may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner.
+News may establish relationships with business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be "co-branded" with our logo; however, these sites may not be operated or maintained by or on our behalf. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner.
 
-NDM is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by NDM of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site.
+News is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by News of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site.
 
 ### What else you should know about privacy on the Internet
 
@@ -64,11 +64,12 @@ Whenever you voluntarily disclose personal information over the Internet that th
 
 Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy.
 
-Privacy Officer  
-News Digital Media  
+**Privacy Officer**  
 Contact us through [this online form](http://www.news.com.au/help/contactus/)
 
-Tel: 02 8114 7400  
+T: 02 8114 7400  
 Level 23  
 175 Liverpool St  
 Sydney, NSW, 2001
+
+Last updated: October 2012. 
