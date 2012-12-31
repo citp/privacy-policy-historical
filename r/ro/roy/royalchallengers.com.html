@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the royalchallengers.com privacy policy that was archived on 2012-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120630112920id_/http%3A//www.royalchallengers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the royalchallengers.com privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231194343id_/http%3A//www.royalchallengers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -19,20 +19,27 @@
 	<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/style-2012/global.css">
 	<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/style-2012/static-pages.css">
 	
-	<link rel="stylesheet" type="text/css" href="http://www.royalchallengers.com/js/drop-menu/menu.css">
-<!--[if lt IE 9]>
+	<!--[if lt IE 9]>
 <script src="http://html5shim.googlecode.com/svn/trunk/html5-els.js"></script>
 <![endif]-->
-<script type="text/javascript" src="http://www.royalchallengers.com/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://www.royalchallengers.com/js/jquery-1.7.2.min.js"></script>
 <script type="text/javascript" src="http://www.royalchallengers.com/js/jquery-ui-1.8.16.custom.min.js"></script>
 <script type="text/javascript" src="http://www.royalchallengers.com/js/flexcroll.js"></script>
 <script type="text/javascript" src="http://www.royalchallengers.com/js/drop-menu/menu.js"></script>
+
 <script type="text/javascript">
 $(document).ready(function(){
 		var height = $(document).height(); // returns height of HTML document
         $('.black_overlay').css('height',height+'px');
 	   });
-</script>	<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+</script>
+
+<style type="text/css">
+/* Hide Post to Facebook box of Flike */
+.fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr {
+display: none !important;
+}
+</style>	<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
 
 <link rel="alternate" type="application/rss+xml" title="Royal Challengers Bangalore Fan Club Latest Posts" href="http://feeds.feedburner.com/royalchallengers/RoyalChallengersBangaloreFanClubLatestPosts">
 <script type="text/javascript">
@@ -61,7 +68,13 @@ $(document).ready(function() {
 <script type="text/javascript" src="http://www.royalchallengers.com/js/signup-login-new.js"></script>
 <script type="text/javascript" src="http://www.royalchallengers.com/js/autocomplete.js"></script>
 <script type="text/javascript">
+var gender_temp = "";
 $(document).ready(function() {
+
+    $('.gender').click(function() {
+		gender_temp = $(this).attr('value');
+        //$(this).attr('src', 'http://www.royalchallengers.com/images/3.gif')
+    });
     $('.fb_login_loader').click(function() {
 		showLoginSignupOverlay();
         //$(this).attr('src', 'http://www.royalchallengers.com/images/3.gif')
@@ -121,15 +134,30 @@ $(document).ready(function() {
             postData(serviceURL, param, captcha_validation_result, true);
         }
     });
-
+	function getCheckedRadio(name) {
+	console.log(name);
+		 var radioButtons = document.getElementsByName(name);
+		for (var x = 0; x < radioButtons.length; x ++) {
+		  if (radioButtons[x].checked) {
+		   //alert("You checked " + radioButtons[x].id);
+		   //alert("Value is " + radioButtons[x].value;
+		   return radioButtons[x].value;
+		 }
+		 }
+		 return false;
+	}
     function login_ajax_call(flag) {
         var name;
         var email_id;
         var password_val;
         var param;
+		var gender;
 		var goIn = false;
 		
         if (flag == 'login') {
+			//signup tracking
+			_gaq.push(['_trackPageview', '/goals/signups']);			
+			
             email_id = document.getElementById('login_email_id').value;
             password_val = document.getElementById('login_password').value;
             remember_me = document.getElementById('auto_login').value;
@@ -141,7 +169,8 @@ $(document).ready(function() {
             name = $('#login_full_name').val();
             email_id = $('#login_email_id1').val();
             password = $('#login1_password').val();
-			gender = $("input[@name='gender']:checked").val();
+			//gender = getCheckedRadio('gender');
+			gender = gender_temp;
             param = 'gender=' + gender + '&name=' + name + '&email_id=' + email_id + '&rcb_password=' + $('#login1_password').val() + '&flag=' + flag + '&dob=' + $('#datepicker').val() + '&city=' + $('#location').val();
             goIn = true;
 			
@@ -176,8 +205,16 @@ $(document).ready(function() {
             }
         } else if (data.flag == 'create') {
             if (data.status) {
-                //console.log(data.message);
-                window.location.reload()
+               //console.log(data.message);
+			   window.location.reload()
+					/*$.ajax({
+				url: "http://www.royalchallengers.com/ee/index.php/login_signup/redirect-signup.php",
+				dataType: 'html',
+				success: function(data) {
+				ajax_response_last(data);
+				}
+			});*/
+               
             } else {
                 hideLoginSignupOverlay();
                 //console.log(data.message);
@@ -186,6 +223,10 @@ $(document).ready(function() {
         }
     }
     
+	/*function ajax_response_last(data){
+		 console.log(data);
+		window.location.reload();
+	}*/
     function captcha_validation_result(data) {
         if (data == 'success') {
             //console.log('captcha match');
@@ -217,6 +258,8 @@ function openWin() {
     var MYPAGE = window.location;
     myWindow = window.open('http://www.royalchallengers.com/dev_v2/google-api-php-client/examples/token/index.php', '', 'width=500,height=400');
     myWindow.focus();
+	//signup tracking 
+	_gaq.push(['_trackPageview', '/goals/signups']);	
 }
 function checkChild() {
     if (win2.closed) {
@@ -403,7 +446,7 @@ function log_out()
 	$("#logout_btn").css('display','none');
 	$("#logout_btn").html('');
 	$("#logout_loader").css('display','inline');
-		console.log('Logging out');
+		//console.log('Logging out');
 		var param;
 		param			=	'no_cache'+Math.random();
 		var urlField   	= 	"http://www.royalchallengers.com/ee/index.php?ACT=10&"+param;
@@ -438,41 +481,48 @@ function log_out()
                 <li><a href="http://www.royalchallengers.com/t-m-dilshan"><span>T M Dilshan</span></a></li>
 				<li><a href="http://www.royalchallengers.com/think-tank"><span>Think Tank</span></a></li>
             	<li><a href="http://www.royalchallengers.com/support-staff"><span>Support Staff</span></a></li>
+				<li><a href="http://www.royalchallengers.com/about-rcb"><span>About</span></a></li>
             </ul>
         </li>
-        <li><a href="http://www.royalchallengers.com/ipl-2012-highlights" class="parent"><span>IPL 2012</span></a>
+        <li><a href="http://www.royalchallengers.com/ipl-2012-highlights" class="parent"><span>IPL 2013</span></a>
         	<ul class="dropDown">
-        		<li><a href="http://www.royalchallengers.com/ipl-2012-highlights"><span>IPL Highlights</span></a></li>
+			<li><a href="http://www.royalchallengers.com/ipl-schedule"><span>IPL Schedule<sup>new</sup></span></a></li>
+        		<li><a href="http://www.royalchallengers.com/ipl-2012-highlights"><span>IPL 2012 Highlights</span></a></li>
 				<li><a href="http://www.royalchallengers.com/rcb-infographics"><span>RCB Infographics</span></a></li>
         		<!--<li><a href="http://www.royalchallengers.com/ipl-2012-schedule"><span>Schedule</span></a></li> -->
-				<li><a href="http://www.royalchallengers.com/ipl-statistics"><span>IPL Statistics</span></a></li>
+				<li><a href="http://www.royalchallengers.com/ipl-statistics"><span>IPL 2012 Statistics</span></a></li>
         	</ul>
         </li>
         <li><a href="http://www.royalchallengers.com/news" class="parent"><span>News</span></a>
 			<ul class="dropDown">
-				<li><a href="http://www.royalchallengers.com/news"><span>News</span></a></li>
+				<li><a href="http://www.royalchallengers.com/news"><span>Latest News</span></a></li>
 				<li><a href="http://www.royalchallengers.com/go-green"><span>Go Green</span></a></li>
-				<li><a href="http://www.royalchallengers.com/auctions-2012"><span>RCB Auctions <sup>New</sup></span></a></li>			
+				<li><a href="http://www.royalchallengers.com/auctions-2012"><span>RCB Auctions</span></a></li>
+                <li><a href="http://www.royalchallengers.com/fan-reporter"><span>Fan Reporter <sup>New</sup></span></a></li>					
 			</ul>
 		</li>
         <li><a href="http://www.royalchallengers.com/fan-club-landing" class="parent"><span>Fan Club</span></a>
         	<ul class="dropDown">
-	            <li><a href="http://www.royalchallengers.com/ffc-2012/"><span>Fanatic Fans Challenge</span></a></li>
-				<li><a href="http://www.royalchallengers.com/contest-zone"><span>Contest Zone <sup>New</sup></span></a></li>
+				                <li><a href="http://www.royalchallengers.com/glove-it"><span>Glove It</span></a></li>
+				<li><a href="http://www.royalchallengers.com/contest-zone"><span>Contest Zone<sup>new</sup></span></a></li>
+				<li><a href="http://www.royalchallengers.com/forums"><span>Discussion Forums<sup>new</sup></span></a></li>
+				<li><a href="http://www.royalchallengers.com/rcb-rewards"><span>RCB Rewards</span></a></li>	
                 <li><a href="http://www.royalchallengers.com/fan-club"><span>Fan Blogs</span></a></li>
                 <li><a href="http://www.royalchallengers.com/debates"><span>Debates</span></a></li>
-                <li><a href="http://www.royalchallengers.com/forums"><span>Discussion Forums</span></a></li>
                 <li><a href="http://www.royalchallengers.com/blog"><span>Community Blog</span></a></li>
-                <li><a href="http://www.royalchallengers.com/mischief-gals"><span>Mischief Gals</span></a></li>
+				<li><a href="http://www.royalchallengers.com/million-wishes-for-virat"><span>Wishes for Virat</span></a></li>
+                <li><a href="http://www.royalchallengers.com/mischief-girls"><span>Mischief Girls</span></a></li>
 				<li><a href="http://www.royalchallengers.com/sidhartha-mallya"><span>Sidhartha Mallya</span></a></li>
                 <li><a href="http://www.royalchallengers.com/russell-adams"><span>Management Speak</span></a></li>
                 <li><a href="http://www.royalchallengers.com/fan-advisory-board"><span>Fan Advisory Board</span></a></li>
-                <li><a href="http://www.royalchallengers.com/hall-of-fame"><span>Hall of Fame</span></a></li>
-                <li><a href="http://www.royalchallengers.com/rcb-rewards/know-more"><span>RCB Rewards</span></a></li>
+                <li><a href="http://www.royalchallengers.com/hall-of-fame"><span>Hall of Fame</span></a></li> 
+	            <li><a href="http://www.royalchallengers.com/ffc-2012/"><span>Fanatic Fans Challenge</span></a></li>
                 <li><a href="http://www.royalchallengers.com/fanatic-fans-guidelines"><span>Fan Guidelines</span></a></li> 
+                
             </ul>
         </li>
-        <li><a href="http://www.royalchallengers.com/about-rcb"><span>About</span></a></li>
+        <!--<li><a href="http://www.royalchallengers.com/about-rcb"><span>About</span></a></li>-->
+		 <li><a href="http://in.ticketgenie.in/store/index.php?route=product/category&amp;path=64" target="_blank"><span>RCB Store</span></a></li>
         <li class="lastMenuItem"><a href="http://www.royalchallengers.com/cricket-photos" class="parent"><span>Multimedia</span></a>
         	<ul class="dropDown">
             	<li><a href="http://www.royalchallengers.com/cricket-photos"><span>Photos</span></a></li>
@@ -490,11 +540,10 @@ function log_out()
 				<div style="overflow: hidden !important;height:22px;width:85px !important;float:left;">
 		<fb:like href="http://www.facebook.com/RoyalChallengersBangalore" send="false" layout="button_count" width="90" show_faces="false" font="arial"></fb:like>
 		</div>	</div>
-	<div class="followUs">Follow us
-			<a href="http://www.facebook.com/RoyalChallengersBangalore" target="_blank"><img src="http://www.royalchallengers.com/images/images-2012/icon-follow-fb.jpg"></a>
-			<a href="http://www.twitter.com/RCBTweets" target="_blank"><img src="http://www.royalchallengers.com/images/images-2012/icon-follow-twitter.jpg"></a>
-            <a href="http://www.youtube.com/royalchallengerstv" target="_blank"><img src="http://www.royalchallengers.com/images/images-2012/icon-follow-yt.jpg"></a> 
+	<div class="followUs">
+			<a href="https://twitter.com/RCBTweets" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow Us</a>
             <!--<a href="#"><img src="http://www.royalchallengers.com/images/images-2012/icon-follow-gplus.jpg" ></a>-->
+			 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
     <div class="clear"></div>
 </div>
@@ -514,57 +563,76 @@ function log_out()
     	<div class="mainBodyContainer">
 			<div class="lhsContainer">
     		
-        <script type="text/javascript"><!--
+        <script type="text/javascript">//<!--
 var MAIN_MENU_SELECT = 0;
 var route = '';
 var select = '';
 $(document).ready(function() {
 	route = String(document.location).toLowerCase().split('/');
+	
 	if (!route) {
 		$('#home_nav').addClass('current');
 	} else {
 		if(route[3] == "home"){
 			
-		}else if(route[3] == "news" || route[3] == "news-detail" || route[3] == "auctions-2012"){
+		}else if(route[3] == "news" || route[3] == "news-detail" || route[3] == "auctions-2012" || route[3] == "fan-reporter" || route[3] == "go-green"){
 			select = "latest-news";
 			if(route[3] == "auctions-2012"){
-				//MAIN_MENU_SELECT = "news";
 				select = "rcb-auctions";
+			}else if(route[3] == "fan-reporter"){
+				select = "fan-reporter-new";
+			}else if (route[3] == "go-green"){
+				select = "go-green";
 			}
-		}else if (route[3] == "go-green"){
-			select = "go-green";
-			MAIN_MENU_SELECT = "news"
-		}else if(route[3] == "team" || route[3] == "players" || route[3] == "virat-kohli" || route[3] == "chris-gayle" || route[3] == "ab-de-villiers" || route[3] == "t-m-dilshan" || route[3] == "charl-langeveldt" || route[3] == "rilee-rossouw" || route[3] == "mohammad-kaif" || route[3] == "mayank-agarwal" || route[3] == "ryan-ninnan" || route[3] == "asad-pathan" || route[3] == "dirk-nannes" || route[3] == "daniel-vettori" || route[3] == "saurabh-tiwary" || route[3] == "luke-pomersbach" || route[3] == "nuwan-pradeep" || route[3] == "abrar-kazi" || route[3] == "bhareth-narayanan" || route[3] == "raajoo-bhatkal" || route[3] == "zaheer-khan" || route[3] == "abhimanyu-mithun" || route[3] == "cheteshwar-pujara" || route[3] == "johan-van-der-wath" || route[3] == "jonathan-vandiar" || route[3] == "arun-karthik" || route[3] == "sreenath-aravind" || route[3] == "syed-mohammad" || route[3] == "prasanth-parameswaran" || route[3] == "think-tank" || route[3] == "support-staff"){
+			MAIN_MENU_SELECT = "news";
+		}else if(route[3] == "team" || route[3] == "players" || route[3] == "virat-kohli" || route[3] == "chris-gayle" || route[3] == "ab-de-villiers" || route[3] == "t-m-dilshan" || route[3] == "charl-langeveldt" || route[3] == "rilee-rossouw" || route[3] == "mohammad-kaif" || route[3] == "mayank-agarwal" || route[3] == "ryan-ninnan" || route[3] == "asad-pathan" || route[3] == "dirk-nannes" || route[3] == "daniel-vettori" || route[3] == "saurabh-tiwary" || route[3] == "luke-pomersbach" || route[3] == "nuwan-pradeep" || route[3] == "abrar-kazi" || route[3] == "bhareth-narayanan" || route[3] == "raajoo-bhatkal" || route[3] == "zaheer-khan" || route[3] == "abhimanyu-mithun" || route[3] == "cheteshwar-pujara" || route[3] == "johan-van-der-wath" || route[3] == "jonathan-vandiar" || route[3] == "arun-karthik" || route[3] == "sreenath-aravind" || route[3] == "syed-mohammad" || route[3] == "prasanth-parameswaran" || route[3] == "think-tank" || route[3] == "support-staff" || route[3] == "about-rcb"){
 			select = route[3];
 			MAIN_MENU_SELECT = "team";
-		}else if(route[3] == "fan-club-landing" || route[3] == "ffc-2012" || route[3] == "fan-club" || route[3] == "debates" || route[3] == "forums" || route[3] == "blog" || route[3] == "sidhartha-mallya" || route[3] == "fan-advisory-board" ||  route[3] == "hall-of-fame" || route[3] == "rcb-rewards" || route[3] == "fanatic-fans-guidelines" || route[3] == "russell-adams" || route[3] == "contest-zone" || route[3] == "contest-zone-winners"){
+			
+			if(route[3] == "about-rcb"){
+				select = "about";
+			}
+			
+		}else if(route[3] == "fan-club-landing" || route[3] == "ffc-2012" || route[3] == "fan-club" || route[3] == "debates" || route[3] == "forums" || route[3] == "blog" || route[3] == "sidhartha-mallya" || route[3] == "fan-advisory-board" ||  route[3] == "hall-of-fame" || route[3] == "rcb-rewards" || route[3] == "rcb-points-system" || route[3] == "fanatic-fans-guidelines" || route[3] == "russell-adams" || route[3] == "contest-zone" || route[3] == "contest-zone-winners" || route[3] == "mischief-girls" || route[3] == "glove-it" || route[3] == "million-wishes-for-virat"){
+			//console.log('in here');
 			select = route[3];
 			MAIN_MENU_SELECT = "fan-club";
 			if(route[3] == "fan-club-landing"){
 				select = "fan-club-home";
+			}else if(route[3] == "shot-stories"){
+				select = "shot-stories";
 			}else if(route[3] == "ffc-2012"){
 				select = "fanatic-fans-challenge";
+			}else if(route[3] == "contest-zone"){
+				select = "contest-zone";
+			}else if(route[3] == "contest-zone-winners"){
+				select = "contest-zone";
+			}else if(route[3] == "rcb-rewards" ||  route[3] == "rcb-points-system"){
+				select = "rcb-rewards";
 			}else if(route[3] == "fan-club"){
 				select = "fan-blogs";
 			}else if(route[3] == "forums"){
-				select = "discussion-forums";
+				select = "discussion-forumsnew";
 			}else if(route[3] == "blog"){
 				select = "community-blog";
-			}else if(route[3] == "mischief-gals"){
-				select = "mischief-gals";
+			}else if(route[3] == "mischief-girls"){
+				select = "mischief-girls";
 			}else if(route[3] == "fanatic-fans-guidelines"){
 				select = "fan-guidelines";
 			}else if(route[3] == "russell-adams"){
 				select = "management-speak";
-			}else if(route[3] == "contest-zone"){
-				select = "contest-zone-new";
-			}else if(route[3] == "contest-zone-winners"){
-				select = "contest-zone-new";
+			}else if(route[3] == "glove-it"){
+				select = "glove-it";
+			}else if(route[3] == "million-wishes-for-virat"){
+				select = "wishes-for-virat";
 			}
-		}else if(route[3] == "about-rcb"){
-			select = route[3];
-			MAIN_MENU_SELECT = "about";
-		}else if(route[3] == "cricket-photos" || route[3] == "cricket-videos" || route[3] == "downloads"){
+			
+		}//else if(route[3] == "about-rcb"){
+//			select = route[3];
+//			MAIN_MENU_SELECT = "about";
+//			
+//		}
+		else if(route[3] == "cricket-photos" || route[3] == "cricket-videos" || route[3] == "downloads"){
 			select = route[3];
 			MAIN_MENU_SELECT = "rcb-multimedia";
 			if(route[3] == "cricket-photos"){
@@ -572,14 +640,17 @@ $(document).ready(function() {
 			}else if(route[3] == "cricket-videos"){
 				select = "videos";	
 			}
-		} else if(route[3] == "ipl-2012-schedule" || route[3] == "ipl-2012-highlights" || route[3] == "rcb-infographics" || route[3] == "ipl-statistics"){
-			MAIN_MENU_SELECT = "ipl-2012";
-			if(route[3] == "ipl-2012-highlights"){
-				select = "ipl-highlights";
+			
+		} else if(route[3] == "ipl-schedule" || route[3] == "ipl-2012-highlights" || route[3] == "rcb-infographics" || route[3] == "ipl-statistics"){
+			MAIN_MENU_SELECT = "ipl-2013";
+			  if(route[3] == "ipl-schedule"){
+				select = "ipl-schedule";
+			}else if(route[3] == "ipl-2012-highlights"){
+				select = "ipl-2012-highlights";
 			}else if(route[3] == "rcb-infographics"){
 				select = "rcb-infographics";
 			}else if(route[3] == "ipl-statistics"){
-				select = "ipl-statistics";
+				select = "ipl-2012-statistics";
 			}else{
 				select = "schedule";
 			}
@@ -780,22 +851,22 @@ Occasionally we may update the privacy statement for <a href="http://www.royalch
         	<div class="footer_heading"><a href="http://www.royalchallengers.com/fan-club">RCB Fan Club</a> <a href="http://feeds.feedburner.com/RoyalChallengersBangaloreFanClubLatestPosts"><img src="http://cdn.royalchallengers.com/images/blog/rssIcon.gif" align="absmiddle"></a></div>
             <div class="footer_desc">
             	<ul>
-										<li><a href="http://www.royalchallengers.com/fan-club/-april-25-2012-sidhartha-mallyas-no-boundaries-with-asad-rauf-"> April 25, 2012 Sidhartha Mallya's No Boundaries with Asad Rauf  - jim-rydell1</a></li>
-										<li><a href="http://www.royalchallengers.com/fan-club/-may-3-2012-kingfisher-party-at-city-bar-ub-city"> May 3, 2012 Kingfisher Party at City Bar UB City - jim-rydell1</a></li>
-										<li><a href="http://www.royalchallengers.com/fan-club/may-13-2012m-bangalore-meet-greet-with-team-rcb">May 13 2012m Bangalore Meet &amp; Greet with Team RCB - jim-rydell1</a></li>
-										<li><a href="http://www.royalchallengers.com/fan-club/may-11-2012-victory-over-pwi-at-srs-stadium-pune-">May 11, 2012 Victory over PWI at SRS Stadium, Pune! - jim-rydell1</a></li>
-										<li><a href="http://www.royalchallengers.com/fan-club/may-14-2012-rcb-green-conference">May 14, 2012 RCB Green Conference - jim-rydell1</a></li>
+										<li><a href="http://www.royalchallengers.com/fan-club/series-1-1">Series -1-1 - oye</a></li>
+										<li><a href="http://www.royalchallengers.com/fan-club/what-should-india-beware-of-while-playing-against-pakistan-">What should India beware of while playing against Pakistan! - aka</a></li>
+										<li><a href="http://www.royalchallengers.com/fan-club/top-5-batsmen-and-bowlers-of-2012">Top 5 Batsmen and Bowlers of 2012 - aka</a></li>
+										<li><a href="http://www.royalchallengers.com/fan-club/recap-of-odi-history-between-pak-and-india-in-india">Recap of ODI history between Pak and India in India - Sachinbengaluru</a></li>
+										<li><a href="http://www.royalchallengers.com/fan-club/a-round-up-of-tournaments-in-2012">A round up of tournaments in 2012 - Sachinbengaluru</a></li>
 					                </ul>
             </div>
             
             <div class="footer_heading"><a href="http://www.royalchallengers.com/forums">Discussion Forum </a><a href="http://feeds.feedburner.com/RoyalChallengersDiscussionForum"><img src="http://cdn.royalchallengers.com/images/blog/rssIcon.gif" align="absmiddle"></a></div>
             <div class="footer_desc">
             	<ul>
-										<li><a href="http://www.royalchallengers.com/forums/viewthread/5452">MS Dhoni quits Chennai Super Kings; to lead Gorkha Brigade in IPL 2013! - attakers</a></li>
-										<li><a href="http://www.royalchallengers.com/forums/viewthread/5451">Gayle Unstoppable! - oye</a></li>
-										<li><a href="http://www.royalchallengers.com/forums/viewthread/5450">are ur point incresing or not guys - koolkamal</a></li>
-										<li><a href="http://www.royalchallengers.com/forums/viewthread/5449">gayle power - koolkamal</a></li>
-										<li><a href="http://www.royalchallengers.com/forums/viewthread/5448">Where is RCB rewards??? - abdul-razak</a></li>
+										<li><a href="http://www.royalchallengers.com/forums/viewthread/6025">Pakistan produces lots of fast bowler why not India - bappaditya</a></li>
+										<li><a href="http://www.royalchallengers.com/forums/viewthread/6024">Sohail Tanvir or Umar gul would do - nikhil-jp2</a></li>
+										<li><a href="http://www.royalchallengers.com/forums/viewthread/6023">Virat Kohli a doubt for the 2nd ODI - sharath-mohan-m</a></li>
+										<li><a href="http://www.royalchallengers.com/forums/viewthread/6022">m.Clark or steve smith - sharath-mohan-m</a></li>
+										<li><a href="http://www.royalchallengers.com/forums/viewthread/6021">one series clash with ipl - attakers</a></li>
 					                </ul>
             </div>
         </div>
@@ -818,26 +889,27 @@ Occasionally we may update the privacy statement for <a href="http://www.royalch
 					<li> <a href="http://www.royalchallengers.com/ab-de-villiers">AB de Villiers</a></li>
 					<li> <a href="http://www.royalchallengers.com/virat-kohli">Virat Kohli</a> </li>
 					<li> <a href="http://www.royalchallengers.com/t-m-dilshan">T M Dilshan</a> </li>
-					<li> <a href="http://www.royalchallengers.com/charl-langeveldt">Charl Langeveldt</a> </li>
-					<li> <a href="http://www.royalchallengers.com/rilee-rossouw">Rilee Rossouw</a> </li>
-					<li> <a href="http://www.royalchallengers.com/mohammad-kaif">Mohammad Kaif</a> </li>
+					<!--<li> <a href="http://www.royalchallengers.com/charl-langeveldt">Charl Langeveldt</a> </li>-->
+					<!--<li> <a href="http://www.royalchallengers.com/rilee-rossouw">Rilee Rossouw</a> </li>-->
+					<!--<li> <a href="http://www.royalchallengers.com/mohammad-kaif">Mohammad Kaif</a> </li>-->
 					<li> <a href="http://www.royalchallengers.com/mayank-agarwal">Mayank Agarwal</a> </li>
-					<li> <a href="http://www.royalchallengers.com/ryan-ninan">Ryan Ninan</a> </li>
-					<li> <a href="http://www.royalchallengers.com/asad-pathan">Asad Pathan</a> </li>
+					<!--<li> <a href="http://www.royalchallengers.com/ryan-ninan">Ryan Ninan</a> </li>-->
+					<!--<li> <a href="http://www.royalchallengers.com/asad-pathan">Asad Pathan</a> </li>-->
 					<li> <a href="http://www.royalchallengers.com/andrew-mcdonald">Andrew Mc Donald</a> </li>
-					<li> <a href="http://www.royalchallengers.com/cm-gautam">CM Gautam</a> </li>
+					<!--<li> <a href="http://www.royalchallengers.com/cm-gautam">CM Gautam</a> </li>-->
 					<li> <a href="http://www.royalchallengers.com/harshal-patel">Harshal Patel</a> </li>
+					<li> <a href="http://www.royalchallengers.com/vijay-zol">Vijay Zol</a> </li>
 				</ul>
 				<ul>
 					<li> <a href="http://www.royalchallengers.com/daniel-vettori">Daniel Vettori</a> </li>
 					<li> <a href="http://www.royalchallengers.com/chris-gayle">Chris Gayle</a> </li>
-					<li> <a href="http://www.royalchallengers.com/dirk-nannes">Dirk Nannes</a> </li>
+					<!--<li> <a href="http://www.royalchallengers.com/dirk-nannes">Dirk Nannes</a> </li>-->
 					<li> <a href="http://www.royalchallengers.com/saurabh-tiwary">Saurabh Tiwary</a> </li>
-					<li> <a href="http://www.royalchallengers.com/luke-pomersbach">Luke Pomersbach</a> </li>
+					<!--<li> <a href="http://www.royalchallengers.com/luke-pomersbach">Luke Pomersbach</a> </li>-->
 					<!--<li> <a href="http://www.royalchallengers.com/nuwan-pradeep">Nuwan Pradeep</a> </li>-->
-					<li> <a href="http://www.royalchallengers.com/abrar-kazi">Abrar Kazi</a> </li>
+					<!--<li> <a href="http://www.royalchallengers.com/abrar-kazi">Abrar Kazi</a> </li>-->
 					<!--<li> <a href="http://www.royalchallengers.com/bhareth-narayanan">Bhareth Narayanan</a> </li>-->
-					<li> <a href="http://www.royalchallengers.com/raajoo-bhatkal">Raajoo Bhatkal</a></li>
+					<!--<li> <a href="http://www.royalchallengers.com/raajoo-bhatkal">Raajoo Bhatkal</a></li>-->
 					<li> <a href="http://www.royalchallengers.com/karun-nair">Karun Nair</a></li>
 					<li> <a href="http://www.royalchallengers.com/k-p-appanna">K P Appanna</a></li>
 					<li> <a href="http://www.royalchallengers.com/vinay-kumar">Vinay Kumar</a></li>
@@ -853,9 +925,8 @@ Occasionally we may update the privacy statement for <a href="http://www.royalch
 					<li> <a href="http://www.royalchallengers.com/sreenath-aravind">Sreenath Aravind</a> </li>
 					<li> <a href="http://www.royalchallengers.com/syed-mohammad">Syed Mohammad</a> </li>
 					<li> <a href="http://www.royalchallengers.com/muttiah-muralitharan">Muttiah Muralitharan</a> </li>
-					<li> <a href="http://www.royalchallengers.com/ronit-more">Ronit More</a> </li>
-					<li> <a href="http://www.royalchallengers.com/s-thiyagarajan">S Thiyagarajan</a> </li>
-					<li> <a href="http://www.royalchallengers.com/vijay-zol">Vijay Zol</a> </li>
+					<!--<li> <a href="http://www.royalchallengers.com/ronit-more">Ronit More</a> </li>-->
+					<!--<li> <a href="http://www.royalchallengers.com/s-thiyagarajan">S Thiyagarajan</a> </li>-->
 				</ul>
                 <div class="clear"></div>
             </div>
@@ -883,22 +954,22 @@ Occasionally we may update the privacy statement for <a href="http://www.royalch
         	<div class="footer_heading"><a href="http://www.royalchallengers.com/news">RCB News </a><a href="http://feeds.feedburner.com/RoyalChallengersBangaloreLatestNews"><img src="http://cdn.royalchallengers.com/images/blog/rssIcon.gif" align="absmiddle"></a></div>
             <div class="footer_desc">
             	<ul>
-										<li><a href="http://www.royalchallengers.com/news/india-enter-u-19-asia-cup-final">India enter U-19s Asia Cup Final - monish3</a></li>
-										<li><a href="http://www.royalchallengers.com/news/get-your-hands-on-autographed-rcb-merchandise">Get your hands on autographed RCB merchandise - monish3</a></li>
-										<li><a href="http://www.royalchallengers.com/news/dilshan-bowlers-help-sl-dominate">Dilshan, bowlers help SL dominate - monish3</a></li>
-										<li><a href="http://www.royalchallengers.com/news/vijay-zol-hundred-goes-in-vain">Vijay Zol hundred goes in vain - monish3</a></li>
-										<li><a href="http://www.royalchallengers.com/news/dilshan-ton-props-up-sl">Dilshan ton props up SL - monish3</a></li>
+										<li><a href="http://www.royalchallengers.com/news/gayle-tops-twenty20-run-charts-for-2012">Gayle tops Twenty20 run charts for 2012 - monish3</a></li>
+										<li><a href="http://www.royalchallengers.com/news/virat-injury-to-be-monitored">Virat injury to be monitored - monish3</a></li>
+										<li><a href="http://www.royalchallengers.com/news/kohli-jumps-to-fifth-spot-in-icc-t20i-rankings">Kohli jumps to fifth spot in ICC T20I Rankings - Dhiraj@RCB</a></li>
+										<li><a href="http://www.royalchallengers.com/news/pakistan-win-1st-odi-by-6-wickets">Pakistan win 1st ODI by 6 wickets - monish3</a></li>
+										<li><a href="http://www.royalchallengers.com/news/zaheer-khan-leads-mumbai-in-ranji-trophy">Zaheer Khan leads Mumbai in Ranji Trophy - monish3</a></li>
 					                </ul>
             </div>
             
             <div class="footer_heading"><a href="http://www.royalchallengers.com/blog">community blog </a><a href="http://feeds.feedburner.com/royalchallengers/yAwK"><img src="http://cdn.royalchallengers.com/images/blog/rssIcon.gif" align="absmiddle"></a></div>
             <div class="footer_desc">
             	<ul>
-										<li><a href="http://www.royalchallengers.com/blog/the-royal-bangalore-meet-up">The Royal Bangalore Meet up!! - ushma-anirudha1</a></li>
-										<li><a href="http://www.royalchallengers.com/blog/the-best-of-both-worlds">The Best of both Worlds! - ushma-anirudha1</a></li>
-										<li><a href="http://www.royalchallengers.com/blog/a-goodbye-and-a-welcome">A Goodbye and a Welcome. - shruti@RCB</a></li>
-										<li><a href="http://www.royalchallengers.com/blog/beasport-each-click-makes-a-difference">#BEASPORT- Each Click makes a Difference - shruti@RCB</a></li>
-										<li><a href="http://www.royalchallengers.com/blog/up-in-the-air-with-rcb1">Up in the Air with RCB! - shruti@RCB</a></li>
+										<li><a href="http://www.royalchallengers.com/blog/rcb-fans-tournament-2nd-edition">RCB Fans Tournament – 2nd Edition - Dhiraj@RCB</a></li>
+										<li><a href="http://www.royalchallengers.com/blog/chris-gayle-living-it-up-down-under">Chris Gayle living it up down under - monish3</a></li>
+										<li><a href="http://www.royalchallengers.com/blog/winners-of-million-wishes-for-virat">Winners of Million Wishes For Virat - Dhiraj@RCB</a></li>
+										<li><a href="http://www.royalchallengers.com/blog/glove-it-winners">Glove It - Winners - Dhiraj@RCB</a></li>
+										<li><a href="http://www.royalchallengers.com/blog/know-your-challengers-cheteshwar-pujara-winners">Know Your Challengers - Cheteshwar Pujara - Winners - Dhiraj@RCB</a></li>
 					                </ul>
             </div>
         </div>
@@ -907,48 +978,73 @@ Occasionally we may update the privacy statement for <a href="http://www.royalch
 </div>
 <div class="footer_bottom">
 	<div class="footer_content">
-      <div class="foundingTeamSponsors">
+      <div class="foundingTeamSponsors png_bg">
         <h2>Founding Team Sponsors </h2>
         <div class="imgMainBox">
-          <div class="imgBox1"> <a href="http://www.theubgroup.com/" target="_blank"> <img src="http://cdn.royalchallengers.com/images/images-2012/logo-ub-group.jpg" align="absmiddle" width="110" height="101" border="0" class="logoImg"></a> </div>
-          <div class="imgBox2"> <a href="http://www.unitedspirits.in/"> <img src="http://cdn.royalchallengers.com/images/images-2012/logo-ub-united-spirits.jpg" width="118" height="101" border="0"></a> </div>
+          <div class="imgBox1"> <a href="http://www.theubgroup.com/" target="_blank"> <img src="http://www.royalchallengers.com/images/images-2012/logo-ub-group.jpg" align="absmiddle" width="110" height="101" border="0" class="logoImg"></a> </div>
+          <div class="imgBox2"> <a href="http://www.unitedspirits.in/"> <img src="http://www.royalchallengers.com/images/images-2012/logo-ub-united-spirits.jpg" width="118" height="101" border="0"></a> </div>
           <div class="clear"></div>
         </div>
       </div>
-      <div class="officialPartners">
-        <h2>Official Partners </h2>
+      <div class="officialSponsors png_bg">
+        <h2>Principle Sponsor</h2>
+        <div class="opimgBox1"> <img src="http://www.royalchallengers.com/images/images-2012/logo-mc-dowells.jpg" width="76" height="42" border="0"> </div>
+      </div>
+	  <div class="officialPartners png_bg" style="width:367px !important;">
+        <h2>Associate Sponsors</h2>
         <div class="opimgBox">
-          <div class="opimgBox1"> <a target="_blank" href="http://www.facebook.com/gameforlife"> <img src="http://cdn.royalchallengers.com/images/images-2012/logo-royal-challenge.jpg" align="absmiddle" width="78" height="48" border="0"> </a> </div>
-          <div class="opimgBox2"> <img src="http://cdn.royalchallengers.com/images/images-2012/logo-mc-dowells.jpg" width="76" height="42" border="0"> </div>
-          <br>
-          <div class="opimgBox3"> <a href="http://www.kingfisherworld.com/" target="_blank"> <img src="http://cdn.royalchallengers.com/images/images-2012/logo-kingfisher.jpg" align="absmiddle" width="70" height="49" border="0"> </a> </div>
-          <div class="opimgBox2"> <a href="http://www.via.com/" target="_blank"> <img src="http://cdn.royalchallengers.com/images/images-2012/logo-via-com.png" border="0" width="79" height="40"> </a> </div>
+          <div class="opimgBox3"> <a target="_blank" href="http://www.facebook.com/gameforlife"> <img src="http://www.royalchallengers.com/images/images-2012/logo-royal-challenge.jpg" align="absmiddle" width="78" height="48" border="0"> </a> </div>
+          <div class="opimgBox3"> <a href="http://www.kingfisherworld.com/" target="_blank"> <img src="http://www.royalchallengers.com/images/images-2012/logo-kingfisher.jpg" align="absmiddle" width="70" height="49" border="0"> </a> </div>
+		  <div class="opimgBox3"> <a href="http://www.via.com/" target="_blank"> <img src="http://www.royalchallengers.com/images/images-2012/logo-via-com.png" border="0" width="79" height="40"> </a> </div>
+          <div class="clear"></div>
+		  <div class="opimgBox3" style="margin-right:8px !important;"> <a href="http://www.shop4reebok.com/" target="_blank"> <img src="http://www.royalchallengers.com/images/images-2012/logo-reebok.jpg" align="absmiddle" width="85" height="47" border="0"> </a> </div>
+		  <div class="opimgBox3" style="margin-right:8px !important;"> <a target="_blank" href="http://www.facebook.com/flyingmachine1980"> <img src="http://www.royalchallengers.com/images/images-2012/logo-flying-machine.jpg" width="84" height="36" border="0"></a> </div>
+		  <div class="opimgBox3" style="margin-right:8px !important;"> <a href="http://www.whitemischief.info/" target="_blank"> <img src="http://www.royalchallengers.com/images/images-2012/logo-white-mischief.png" width="46" height="46" border="0"> </a> </div>
+		  <div class="clear"></div>
         </div>
       </div>
-      <div class="officialSponsors">
-        <h2>Official Sponsors</h2>
-        <div class="opimgBox">
-          <div class="opimgBox1"> <a href="http://www.shop4reebok.com/" target="_blank"> <img src="http://cdn.royalchallengers.com/images/images-2012/logo-reebok.jpg" align="absmiddle" width="85" height="47" border="0"> </a> </div>
-          <br>
-          <div class="opimgBox2"> <a target="_blank" href="http://www.facebook.com/flyingmachine1980"> <img src="http://cdn.royalchallengers.com/images/images-2012/logo-flying-machine.jpg" width="84" height="36" border="0"></a> </div>
-        </div>
-      </div>
-      <div class="associatePartners">
+      <div class="officialSponsors png_bg">
         <h2>Associate Partners</h2>
         <div class="opimgBox">
-          <div class="opimgBox1"> <a href="http://www.dnanetworks.com/" target="_blank"> <img src="http://cdn.royalchallengers.com/images/images-2012/logo-dna.jpg" align="absmiddle" width="66" height="39" border="0"> </a> </div>
-          <div class="opimgBox2"> <a href="http://www.whitemischief.info/" target="_blank"> <img src="http://cdn.royalchallengers.com/images/images-2012/logo-white-mischief.png" width="46" height="46" border="0"> </a> </div>
+          <div class="opimgBox1"> <a href="http://www.dnanetworks.com/" target="_blank"> <img src="http://www.royalchallengers.com/images/images-2012/logo-dna.jpg" align="absmiddle" width="66" height="39" border="0"> </a> </div>
+          
           <br>
-          <div class="opimgBox3"> 
+          <div class="opimgBox1"> 
           <a href="http://www.spiritzandmore.com/" target="_blank">
-          <img src="http://cdn.royalchallengers.com/images/images-2012/logo-spritiz-more.jpg" align="absmiddle" width="110" height="23" border="0">
+          <img src="http://www.royalchallengers.com/images/images-2012/logo-spritiz-more.jpg" align="absmiddle" width="80" border="0">
           </a>
            </div>
         </div>
       </div>
       <div class="clear"></div>
     </div>
+	<div class="footer_content" style="display:block;">
+<table width="60%" border="0" align="center" cellpadding="0" cellspacing="0" class="footerCopyRightWrap">
+	<tbody><tr>
+		<td colspan="4" align="center" valign="middle">
+		Copyright © Royal Challengers Sports Pvt. Ltd.
+		</td>
+	</tr>
+	<tr>
+		<td align="right" valign="middle">
+			<a href="http://www.royalchallengers.com/privacy">Privacy Policy</a>  <span>|</span>
+		</td>
+		<td align="center" valign="middle"><a href="http://www.royalchallengers.com/fanatic-fans-guidelines">Fanatic Fan Guidelines</a>
+		&nbsp;&nbsp;<span>|</span></td>
+		<td align="center" valign="middle"><a href="http://www.royalchallengers.com/terms">Terms &amp; Conditions</a>&nbsp;&nbsp;<span>|</span></td>
+		<td align="center" valign="middle"><a href="http://www.royalchallengers.com/contact-us">Contact Us</a></td>
+		</tr>
+	<tr>
+		<td colspan="4" align="center" valign="middle">
+			<a target="_blank" href="http://www.experiencecommerce.com/">Digital Agency</a> - 
+			<a target="_blank" href="http://www.experiencecommerce.com/">experience commerce</a>
+		</td>
+	</tr>
+</tbody></table>
+
 </div>
+</div>
+
 <!-- Footer Ends -->
 
 <!-- PNG Fix -->
@@ -957,6 +1053,8 @@ Occasionally we may update the privacy statement for <a href="http://www.royalch
 <script>
  /* EXAMPLE */
  DD_belatedPNG.fix('.png_bg');
+ DD_belatedPNG.fix('.jcarousel-prev');
+ DD_belatedPNG.fix('.jcarousel-next');
  DD_belatedPNG.fix('.teamMainWrapper .playerInfoWrapper');
  DD_belatedPNG.fix('.starPlayerWrapper');
  DD_belatedPNG.fix('.iplWidgetWrapper');
@@ -978,22 +1076,52 @@ Occasionally we may update the privacy statement for <a href="http://www.royalch
 <![endif]-->
 <!-- google analytics script for tracking -->
 <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10618185-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!--<script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+</script>
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-10618185-1");
 pageTracker._trackPageview();
 } catch(err) {
 }
-</script>
+</script>-->
 <!-- / google analytics script for tracking -->
 
 <script type="text/javascript" src="http://www.royalchallengers.com/js/common-ajax.min.js"></script>
 <!-- Google Analytics Social Button Tracking -->
 <script src="http://www.royalchallengers.com/js/ga_social_tracking.js" type="text/javascript"></script>
-<script type="text/javascript">_ga.trackSocial();</script></footer>
+<script type="text/javascript">_ga.trackSocial();</script>
+<script type="text/javascript">
+_ga.trackSocial();
+
+//flike tracking
+FB.Event.subscribe('edge.create', function(response) {
+    _gaq.push(['_trackPageview', '/goals/engagement']);
+});
+//tweet tracking 
+/*if (twttr && twttr.events && twttr.events.bind) {
+twttr.events.bind('tweet', function(event) {
+	if (event) {
+		_gaq.push(['_trackPageview', '/goals/twitter']);
+	}
+});
+}*/
+</script></footer>
 </div>
 
 
