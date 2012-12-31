@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-immune-health.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510045526id_/http%3A//www.easy-immune-health.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-immune-health.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231183321id_/http%3A//www.easy-immune-health.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Easy Immune Health.com
 
@@ -10,7 +10,6 @@ Here at [Easy Immune Health.com](http://www.easy-immune-health.com/) we strive t
 
 ## Personal Information
 
-  
 [Easy Immune Health.com](http://www.easy-immune-health.com/) collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
 
 This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
@@ -23,8 +22,9 @@ Easy Immune Health is a participant in the Amazon Services LLC Associates Progra
 
 ## Use of Cookies and Web Beacons
 
-  
-Here at [Easy Immune Health.com](http://www.easy-immune-health.com/) we may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the site's pages, or register with any of our site's services, a cookie enables [Easy Immune Health.com](http://www.easy-immune-health.com/) to recall your specific information on subsequent visits.Learn How I Built This Site  
+Here at [Easy Immune Health.com](http://www.easy-immune-health.com/) we may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the site's pages, or register with any of our site's services, a cookie enables [Easy Immune Health.com](http://www.easy-immune-health.com/) to recall your specific information on subsequent visits.
+
+Learn How I Built This Site  
 With NO Web Building Experience[](http://www.sitesell.com/Kerri6.html)
 
 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
@@ -78,6 +78,3 @@ Your use of this site indicates acceptance of this privacy policy.
 [Easy Immune Health.com](http://www.easy-immune-health.com/) is designed for information and educational purposes for the general public and health care professionals only. No information supplied is designed to diagnose or treat any illness, disease or medical condition. Always seek the advice of a qualified medical professional before making any decisions regarding your health. Use of this site implies that you agree with the above, that you are under the care of a medical doctor and have had a full workup for your current medical condition.The internet is not a reliable source of medical information and doing your own due diligence along with a full medical examination is imperative if you have any medical problems, complaints or signs or symptoms of medical problems.
 
 [](http://www.sitesell.com/Kerri6.html)
-
-  
-
