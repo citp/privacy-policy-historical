@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sldn.org privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630164006id_/http%3A//www.sldn.org/pages/sldn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sldn.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231203713id_/http%3A//www.sldn.org/pages/sldn-privacy-policy) for the most accurate reproduction.*
 
-# Servicemembers Legal Defense Network
+# OutServe-SLDN
 
 Servicemembers Legal Defense Network makes every attempt to protect the privacy of our web visitors.
 
