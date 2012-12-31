@@ -1,24 +1,108 @@
-> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101160035id_/http%3A//www.rbauction.com/web/rba/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231070156id_/http%3A//www.rbauction.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Ritchie Bros. Auctioneers
 
+Menu
+
+  * [Home](https://web.archive.org/ "Home")
+  * [Current Inventory](https://web.archive.org/heavy-equipment/ "Current Inventory")
+    * [Construction](https://web.archive.org/construction?id=ci&q=Y2l8Tj00Mjk0NzQ4MDY5 "Construction")
+    * [Agriculture](https://web.archive.org/agriculture?id=ci&q=Y2l8Tj00Mjk0NzQ4MDQ4 "Agriculture")
+    * [Transport Trucks](https://web.archive.org/transport-trucks?id=ci&q=Y2l8Tj00Mjk0NzQ0Mjk0 "Transport Trucks")
+    * [Vocational Trucks](https://web.archive.org/vocational-trucks?id=ci&q=Y2l8Tj00Mjk0NzQ4MjEz "Vocational Trucks")
+    * [Trailers](https://web.archive.org/trailers?id=ci&q=Y2l8Tj00Mjk0NzQ3OTg1 "Trailers")
+    * [Lifting & Material Handling](https://web.archive.org/lifting-material-handling?id=ci&q=Y2l8Tj00Mjk0NzQ3NzU2 "Lifting & Material Handling")
+    * [Vehicles & Buses](https://web.archive.org/vehicles-buses?id=ci&q=Y2l8Tj00Mjk0NzQ3MDUw "Vehicles & Buses")
+    * [Asphalt & Concrete](https://web.archive.org/asphalt-concrete?id=ci&q=Y2l8Tj00Mjk0NzQ2ODgy "Asphalt & Concrete")
+    * [Marine, Aircraft & Rail](https://web.archive.org/marine-aircraft-rail?id=ci&q=Y2l8Tj00Mjk0NzQ3NDUz "Marine, Aircraft & Rail")
+    * [Drilling & Mining](https://web.archive.org/drilling-mining?id=ci&q=Y2l8Tj00Mjk0NzQ4MTcx "Drilling & Mining")
+    * [Aggregate](https://web.archive.org/aggregate?id=ci&q=Y2l8Tj00Mjk0NzQ2OTY2 "Aggregate")
+    * [Oil, Gas, Power and Utility](https://web.archive.org/oil-gas-power-utility?id=ci&q=Y2l8Tj00Mjk0NzQ4MTEx "Oil, Gas, Power and Utility")
+    * [Real Estate](https://web.archive.org/heavy-equipment-auctions/real-estate "Real Estate")
+    * [Consumer Items](https://web.archive.org/consumer-items?id=ci&q=Y2l8Tj00Mjk0OTY2MDk0 "Consumer Items")
+    * [Attachment](https://web.archive.org/attachments?id=ci&q=Y2l8Tj00Mjk0NzQ3MTU1 "Attachment")
+    * [Industrial Support](https://web.archive.org/industrial-support?id=ci&q=Y2l8Tj00Mjk0NzQ4MDI4 "Industrial Support")
+    * [Forestry & Environmental](https://web.archive.org/forestry-environmental?id=ci&q=Y2l8Tj00Mjk0NzQ4MjU1 "Forestry & Environmental")
+  * [Auction Results](https://web.archive.org/heavy-equipment?id=ar&q=YXJ8Tj0w "Auction Results")
+  * [Auctions](https://web.archive.org/heavy-equipment-auctions/ "Auctions")
+    * [Upcoming Auctions](https://web.archive.org/heavy-equipment-auctions/ "Upcoming Auctions")
+    * [Past Auctions](https://web.archive.org/heavy-equipment-auctions/past-auctions "Past Auctions")
+  * [Buy](https://web.archive.org/buying "Buy")
+    * [About our Auctions](https://web.archive.org/buying/benefits-of-buying "About our Auctions")
+    * [Preparing to Bid](https://web.archive.org/buying/preparing-to-bid "Preparing to Bid")
+    * [Bidding in Person](https://web.archive.org/buying/bidding-in-person "Bidding in Person")
+    * [Online Bidding](https://web.archive.org/buying/bidding-online "Online Bidding")
+    * [Proxy Bidding](https://web.archive.org/buying/proxy-bidding "Proxy Bidding")
+    * [Timed Auctions](https://web.archive.org/buying/timedauctions "Timed Auctions")
+    * [Deposits & Payments](https://web.archive.org/buying/online-payment-service "Deposits & Payments")
+    * [Services](https://web.archive.org/buying/services "Services")
+    * [FAQ: Bidding & Buying](https://web.archive.org/buying/faq-bidding-and-buying "FAQ: Bidding & Buying")
+  * [Sell](https://web.archive.org/selling "Sell")
+    * [Benefits of Selling](https://web.archive.org/selling/benefits-of-selling "Benefits of Selling")
+    * [Our Auction Process](https://web.archive.org/selling/our-auction-process "Our Auction Process")
+    * [Paid Appraisals](https://web.archive.org/selling/paid-appraisals "Paid Appraisals")
+    * [1031 Like-Kind Exchanges](https://web.archive.org/selling/like-kind-exchanges "1031 Like-Kind Exchanges")
+    * [Refurbishing](https://web.archive.org/selling/refurbishing "Refurbishing")
+    * [FAQ: Selling](https://web.archive.org/selling/faq-selling "FAQ: Selling")
+  * [About Us](https://web.archive.org/aboutus "About Us")
+    * [Company Overview](https://web.archive.org/aboutus/company-overview "Company Overview")
+    * [History](https://web.archive.org/aboutus/history "History")
+    * [Leadership & Directors](https://web.archive.org/aboutus/management "Leadership & Directors")
+    * [Testimonials](https://web.archive.org/aboutus/testimonials "Testimonials")
+    * [Health & Safety](https://web.archive.org/aboutus/health-and-safety "Health & Safety")
+    * [Environment](https://web.archive.org/aboutus/environment "Environment")
+    * [News Releases](https://web.archive.org/media/news-releases "News Releases")
+    * [For Investors](https://web.archive.org/investors "For Investors")
+    * [For Media](https://web.archive.org/media "For Media")
+    * [Videos](https://web.archive.org/media/photos-and-videos/videos "Videos")
+  * [My Account](https://web.archive.org/myaccount/auth "My Account")
+    * [Summary](https://web.archive.org/myaccount/summary "Summary")
+    * [Registrations](https://web.archive.org/myaccount/registrations "Registrations")
+    * [Watchlist](https://web.archive.org/myaccount/watchlist "Watchlist")
+    * [Saved Searches](https://web.archive.org/myaccount/saved-searches "Saved Searches")
+    * [Deposits & Payments](https://web.archive.org/myaccount/deposits-and-payments "Deposits & Payments")
+    * [Subscriptions](https://web.archive.org/myaccount/subscriptions "Subscriptions")
+    * [Services](https://web.archive.org/myaccount/services "Services")
+    * [My Profile](https://web.archive.org/myaccount/profile "My Profile")
+    * [Terms and Conditions](https://web.archive.org/myaccount/terms-and-conditions "Terms and Conditions")
+  * [Blog](https://web.archive.org/blog "Blog")
+
+
+
+This Privacy Statement describes the privacy practices of Ritchie Bros. Auctioneers Incorporated and its affiliates ("RBA") with respect to the collection, use, and disclosure of personal information, including in respect of RBA's web site located at [www.rbauction.com](http://www.rbauction.com/). This Privacy Statement may be supplemented or modified by agreements entered into between RBA and an individual from time to time.
+
+Where RBA has provided a translation of the English language version of this Privacy Statement, such translation is provided for your convenience only. To the extent there is any inconsistency between the English language version of this Privacy Statement and any such translation, the English language version shall govern.
+
+In this Privacy Statement, "personal information" means any information about an identifiable individual, excluding any information that has been made anonymous or that is excluded from the definition of "personal information" under applicable laws.
+
+This statement will notify you of:
+
+  1. What personal information or third party personal information is collected through our web site
+  2. How the information is used
+  3. With whom the information may be shared
+  4. What choices are available to you regarding collection, use and distribution of personal information
+  5. The kind of security procedures that are in place to protect the loss, misuse or alteration of personal information under our control
+  6. How you can correct any inaccuracies in your personal information
+
+
+
 **Information Collection**
 
-Except where otherwise required or permitted by law, RBA will inform individuals of the purposes for the collection, use, or disclosure of the individual's personal information prior to collecting, using or disclosing the personal information.   
-RBA collects personal information from individuals through various means, including through RBA's web sites and through bidder registration cards submitted to RBA by individuals. For security reasons, RBA may also utilize video or other surveillance means to monitor its premises from time to time.   
-Requirements for consent to collection, use, or disclosure of personal information vary depending on circumstances and on the type of personal information that is intended to be collected, used, or disclosed. In determining whether consent is required and, if so, which form of consent is appropriate, RBA will take into account both the sensitivity of the personal information at issue and the purposes for which RBA will use the information. Consent may be express, implied (including through use of “opt-out” consent where appropriate), or deemed. For example, if an individual provides his/her mailing address and requests information regarding a particular product, consent to use the address to mail product information to the individual is implied.   
+Except where otherwise required or permitted by law, RBA will inform individuals of the purposes for the collection, use, or disclosure of the individual's personal information prior to collecting, using or disclosing the personal information.  
+RBA collects personal information from individuals through various means, including through RBA's web sites and through bidder registration cards submitted to RBA by individuals. For security reasons, RBA may also utilize video or other surveillance means to monitor its premises from time to time.  
+Requirements for consent to collection, use, or disclosure of personal information vary depending on circumstances and on the type of personal information that is intended to be collected, used, or disclosed. In determining whether consent is required and, if so, which form of consent is appropriate, RBA will take into account both the sensitivity of the personal information at issue and the purposes for which RBA will use the information. Consent may be express, implied (including through use of "opt-out" consent where appropriate), or deemed. For example, if an individual provides his/her mailing address and requests information regarding a particular product, consent to use the address to mail product information to the individual is implied.  
 On giving reasonable written notice to RBA, an individual may withdraw consent to the collection, use, or disclosure of his or her personal information. Upon receipt of this withdrawal, RBA will notify the individual of the likely consequences of withdrawing his or her consent. Except where otherwise required or permitted by law, RBA will then stop collecting, using or disclosing the individual's personal information.
 
 **Information Use**
 
-RBA uses information collected from individuals to provide products or services, to respond to requests for information regarding RBA's products and services, and for additional purposes that may be identified at or before the time that the information is collected. The information gathered will be used for general corporate marketing purposes, thereby enabling RBA to refine and improve our service and better meet our customers' needs.   
+RBA uses information collected from individuals to provide products or services, to respond to requests for information regarding RBA's products and services, and for additional purposes that may be identified at or before the time that the information is collected. The information gathered will be used for general corporate marketing purposes, thereby enabling RBA to refine and improve our service and better meet our customers' needs.  
 RBA will not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required or permitted by law. Once the information is no longer required to fulfill its intended purposes, and is no longer required or permitted to be retained for legal or business purposes, it will be destroyed, erased, or made anonymous.
 
 **Information Disclosure**
 
-We are the sole owner of the information collected on this site and will not share or rent this information to others in any way other than as disclosed in this Privacy Statement.   
-RBA may disclose certain personal information to third party service providers and to affiliated entities in order to carry out work on behalf of RBA. RBA will take appropriate steps to ensure that such recipients safeguard the personal information and use the information only for authorized purposes. If we partner with another party to provide specific services, and a user registers for these services, we will share the contact information or other information necessary for the third party to provide the requested services.   
-RBA may also disclose personal information to legal, financial, and other professional advisors and to its lenders or insurers in connection with the operation of its business, or in connection with the sale or reorganization of all or part of its business or operations. In respect of RBA's fraud detection and prevention efforts or the investigation of unlawful activities, RBA may collect and disclose personal information in cooperation with law enforcement authorities.   
+We are the sole owner of the information collected on this site and will not share or rent this information to others in any way other than as disclosed in this Privacy Statement.  
+RBA may disclose certain personal information to third party service providers and to affiliated entities in order to carry out work on behalf of RBA. RBA will take appropriate steps to ensure that such recipients safeguard the personal information and use the information only for authorized purposes. If we partner with another party to provide specific services, and a user registers for these services, we will share the contact information or other information necessary for the third party to provide the requested services.  
+RBA may also disclose personal information to legal, financial, and other professional advisors and to its lenders or insurers in connection with the operation of its business, or in connection with the sale or reorganization of all or part of its business or operations. In respect of RBA's fraud detection and prevention efforts or the investigation of unlawful activities, RBA may collect and disclose personal information in cooperation with law enforcement authorities.  
 By using the RBA web site, you agree to allow RBA to use your remarks, suggestions, writings or comments as RBA so determines without your further consent and without compensation or any other interests or rights. However, RBA will not identify the specific source of the comments by name or email address without your permission. You also agree that RBA will not be liable for use or acquisition of your information by any third party without RBA's knowledge or consent.
 
 **Sharing**
@@ -27,10 +111,10 @@ We may share aggregated demographic information with our partners and affiliates
 
 **Online Registration**
 
-To use certain areas of this web site, participate in online bidding or subscribe to receive email notices, a user must first complete a registration form and provide contact information (such as name and email address). Registration will result in a membership record and unique cookie ID being created.   
-Registration for an email notification subscription requires that registrants submit personal information including name, email address, industry and job title.   
-Registration for access to certain areas of the web site, including auction results and fleet valuator, requires registrants to submit personal information including that required for email notification subscription (above), plus company name, mailing address, and telephone number.   
-Registration for access to online bidding services requires registrants to submit personal information including that required for the above purposes, plus physical address, personal identification (driver's license or passport ID), and tax information.   
+To use certain areas of this web site, participate in online bidding or subscribe to receive email notices, a user must first complete a registration form and provide contact information (such as name and email address). Registration will result in a membership record and unique cookie ID being created.  
+Registration for an email notification subscription requires that registrants submit personal information including name, email address, industry and job title.  
+Registration for access to certain areas of the web site, including auction results and fleet valuator, requires registrants to submit personal information including that required for email notification subscription (above), plus company name, mailing address, and telephone number.  
+Registration for access to online bidding services requires registrants to submit personal information including that required for the above purposes, plus physical address, personal identification (driver's license or passport ID), and tax information.  
 Registration and the provision of this information are required to access these areas of the web site. Visitors who do not input the required information will not have access to these areas.
 
 **Special Offers, and Site and Service Updates**
@@ -53,7 +137,7 @@ Web server logs collect visitor information including IP address, browser type a
 
 **Children**
 
-RBA does not attempt to collect personal information from children.   
+RBA does not attempt to collect personal information from children.  
 Note that RBA cannot always determine if a user of our web site is a child.
 
 **Links**
@@ -68,12 +152,12 @@ If a user wishes to subscribe to our brochure mailing list, we ask for contact i
 
 Occasional surveys may be conducted on the RBA web site. Survey information will be used to help us monitor and improve the use of this site and our services.
 
-#### Management of Personal Information:
+####  Management of Personal Information:
 
 **Security**
 
-We take several precautions to protect our users' personal information. When users submit sensitive information, their information is protected both online and off-line.   
-When users are asked to enter sensitive information (such as bidding and consigning information) on our web site, that information is encrypted and is protected with industry-standard encryption software. While on a secure page, for example, our –online bidding –‘Terms of Bidding and Sale' page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about the encryption software in use on our web site, follow this [link](http://www.w3.org/Security/Faq/www-security-faq.html).   
+We take several precautions to protect our users' personal information. When users submit sensitive information, their information is protected both online and off-line.  
+When users are asked to enter sensitive information (such as bidding and consigning information) on our web site, that information is encrypted and is protected with industry-standard encryption software. While on a secure page, for example, our –online bidding –‘Terms of Bidding and Sale' page, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about the encryption software in use on our web site, follow this [link](http://www.w3.org/Security/Faq/www-security-faq.html).  
 While we use encryption software to protect sensitive information online, we also protect user-information off-line. Access to all of our users' information, not just the sensitive information mentioned above, is restricted within our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. All employees are required to strictly observe our security and privacy practices. Finally, the servers and backup tapes on which we store personal information are kept in a secure environment.
 
 **Correction/Updating Personal Information**
@@ -82,15 +166,15 @@ A registrant may change or update its personal information or remove itself from
 
 **Choice / Opt-Out**
 
-When registering for access to the My Account section of the web site, users can de-select the checkbox that asks if they would like periodic email marketing notices (e.g. email newsletter and e-brochures). However, as mentioned in the Special Offers, and Site and Service Updates section, some messages are not optional for web site registrants.   
+When registering for access to the My Account section of the web site, users can de-select the checkbox that asks if they would like periodic email marketing notices (e.g. email newsletter and e-brochures). However, as mentioned in the Special Offers, and Site and Service Updates section, some messages are not optional for web site registrants.  
 To ensure that you do not receive optional email notifications, please send an email to [events@rbauction.com](mailto:events@rbauction.com) with the word 'Unsubscribe' in the subject line.
 
 **Notification of Changes& Acceptance of Privacy Statement**
 
-By using the RBA web site and services, you signify your acceptance of this Privacy Statement.   
+By using the RBA web site and services, you signify your acceptance of this Privacy Statement.  
 We reserve the right to modify this Privacy Statement at any time. Your continued use of any portion of the RBA web site following notification or posting of such changes will constitute your acceptance of those changes.
 
-If we change our privacy practices, we will post those changes to our Privacy Statement web page and update the date listed on the links to it, as well as on the statement itself. We will post those changes so users are always aware of what personal information we collect, how we use it, and under what circumstances, if any, we disclose it. We may from time to time provide notice of changes to this Privacy Statement by email or mail, or to other contact information provided by you.   
+If we change our privacy practices, we will post those changes to our Privacy Statement web page and update the date listed on the links to it, as well as on the statement itself. We will post those changes so users are always aware of what personal information we collect, how we use it, and under what circumstances, if any, we disclose it. We may from time to time provide notice of changes to this Privacy Statement by email or mail, or to other contact information provided by you.  
 We use personal information in accordance with the Privacy Statement under which the personal information was collected. If at any point we decide to use personal information in a manner different from that currently stated, we will notify users. Users will have a choice as to whether or not we use their personal information in this different manner.
 
 If you have questions or concerns about this privacy statement, please send an email to [privacy@rbauction.com](mailto:privacy@rbauction.com).
@@ -98,3 +182,5 @@ If you have questions or concerns about this privacy statement, please send an e
 Last Revised: June 1, 2011
 
 Version: 4.0
+
+Node: dc1vplfry02.rbauction.net 
