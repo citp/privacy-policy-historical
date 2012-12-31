@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the freelogovector.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501212716id_/http%3A//www.freelogovector.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelogovector.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231033953id_/http%3A//www.freelogovector.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy » Free Logo Vector Graphics download and share
 
 ## Vector category
 
 freelogovector.com is an online gallery of free logo vector graphics, brand logo, company logo, corporate logo. All the images on this site are free for personal use and a lot of them for commercial use, if you use any of the free logo vector art it would be nice if you could provide a link back to the authors web site. (But not always a requirement .) If you have any feature requests please let us know via the contact us page. We like feedback :-D
+
+## Logo Search 
 
 ## Privacy Policy
 
@@ -21,11 +23,3 @@ Any and all information collected at this site will be kept strictly confidentia
 freelogovector.com have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of: <http://www.google.com/privacy.html>
 
 If you feel that this site is not following its stated information policy, you may contact us at hi[at]freelogovector.com. 
-
-[](http://www.addthis.com/bookmark.php?v=20)
-
-## Logo Search 
-
-## Advertising
-
-## Lates Download
