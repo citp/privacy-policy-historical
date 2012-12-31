@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadventures.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630111031id_/http%3A//www.gadventures.com/terms-conditions-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadventures.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231031251id_/http%3A//www.gadventures.com/terms-conditions-policies/privacy) for the most accurate reproduction.*
 
 # Adventure Travel & Tours - G Adventures
 
@@ -97,7 +97,3 @@ By using our product and services and by visiting our website you consent to the
 In the event you provide us with an Opt Out Notice you information will be segregated and not disclosed or used in any manner about which you have objected. However, the personal information we collected will be retained by us in accordance with our usual retention practices and procedures. You may at any time review such information as further set out below.
 
 We will respond to your written request within 30 days of your requests receipt. If we respond favourably to your request, we will give you access to your file. If for any reason, we cannot grant your request for this information, we will provide you with written reason(s).
-
-### How often is this policy updated?
-
-We will modify this policy in a timely manner when necessary to reflect changes to our Policy. You are obligated to review this Policy from time to time to review these changes.
