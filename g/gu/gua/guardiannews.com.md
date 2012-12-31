@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardiannews.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630184540id_/http%3A//www.guardian.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardiannews.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231182833id_/http%3A//www.guardian.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Info | guardian.co.uk
 
@@ -99,13 +99,15 @@ We use cookies for a number of reasons:
 
 You can turn cookies off but if you do this you may not be able to use all services on our websites and you might see more pop-ups and other intrusive advertising, as we won't be able to limit what you see using cookies. You will, however, still be able to view editorial content.
 
+6\. GNM and/or third party companies may use cookies to suggest and deliver content which we believe may be of interest to you.
+
 For more information about cookies and managing them, including how to turn them off, please visit our page on [Cookies](http://www.guardian.co.uk/info/cookies). 
 
 By using the sites you are agreeing to the use of cookies as described.
 
 ##  **About our advertising**
 
-In late 2005 we launched a new advertising service called Online Behavioural Advertising (OBA). OBA allows us to deliver targeted advertising to visitors to our website. OBA works by showing you adverts that are based on the type of content you have been reading, and delivering adverts which we believe may be of interest to you.
+In late 2005 we launched a new advertising service called Online Behavioural Advertising (OBA). OBA allows us to deliver targeted advertising to visitors to our website. OBA works by showing you adverts that are based on your browsing patterns and your interaction with the site, and delivering adverts which we believe may be of interest to you.
 
 As you browse guardian.co.uk or guardiannews.com, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in. 
 
@@ -113,9 +115,9 @@ This information we collect about behaviour on your computer enables us to group
 
 It is important to remember that none of the OBA techniques we employ uses or requires us to collect information such as your name, email address, postal address or telephone number. 
 
-We may also share behavioural data with other websites. This may mean that when you are on other websites you are served advertising based on your behaviour on guardian.co.uk and guardiannews.com, and on guardian.co.uk and guardiannnews.com you may be served advertising based on your behaviour on other sites.
+We may also share anonymised behavioural data with advertising partners. This may mean that when you are on other websites you are served advertising based on your behaviour on guardian.co.uk and guardiannews.com, and on guardian.co.uk and guardiannnews.com you may be served advertising based on your behaviour on other sites.
 
-Behavioural retargeting is another form of OBA that enables us and some of our advertising partners to show you ads based on your online reading away from guardian.co.uk or guardiannews.com. For example, if you have visited the website of an online clothes shop you may start seeing ads from that same shopping site displaying special offers or showing you the products that you were browsing. This is allows companies to advertise to website visitors who leave their website without making a purchase. The privacy policy of criteo, one of the partners that we work with for behavioural retargeting is here: [criteo.com/en/privacy-policy](http://www.criteo.com/en/privacy-policy).
+Behavioural retargeting is another form of OBA that enables us and some of our advertising partners to show you ads based on browsing patterns and interactions with the site away from guardian.co.uk or guardiannews.com. For example, if you have visited the website of an online clothes shop you may start seeing ads from that same shopping site displaying special offers or showing you the products that you were browsing. This is allows companies to advertise to website visitors who leave their website without making a purchase. The privacy policy of criteo, one of the partners that we work with for behavioural retargeting is here: [criteo.com/en/privacy-policy](http://www.criteo.com/en/privacy-policy).
 
 If you want to opt out of receiving online behavioural advertising this does not mean that you will no longer receive advertising when you are using guardian.co.uk or guardiannews.com. It just means that the advertising you see will not be customised for you.
 
