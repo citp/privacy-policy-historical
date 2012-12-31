@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the ideaswatch.com privacy policy that was archived on 2012-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120628205023id_/http%3A//www.ideaswatch.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ideaswatch.com privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231133944id_/http%3A//www.ideaswatch.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,600,400&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
 <meta content="en" http-equiv="Content-Language">
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
-<link rel="image_src" href="http://www.ideaswatch.com/img/layout/logo_fb.png" type="image/png">
-
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-ipad.png">
 <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-iphone4.png">
-<link rel="alternate" type="application/rss+xml" title="IdeasWatch: Startup ideas from the crowd" href="http://feeds.feedburner.com/ideaswatch">
+<link rel="alternate" type="application/rss+xml" title="IdeasWatch: Startup inspiration from the crowd" href=" http://feeds.feedburner.com/ideaswatch">
 <link href="/style.css" rel="stylesheet" type="text/css">
 <link href="/controls.css" rel="stylesheet" type="text/css">
 <link href="/postit.css" rel="stylesheet" type="text/css">
 <link href="/src/jquery-tiptip/tipTip.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/src/jquery.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/src/fancybox/jquery.fancybox.css?v=2.1.3" type="text/css" media="screen">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/src/jquery-1.8.2.min.js" type="text/javascript"></script>
 <script src="/src/jquery-tiptip/jquery.tipTip.js" type="text/javascript"></script>
+<script type="text/javascript" src="/src/fancybox/jquery.fancybox.pack.js?v=2.1.3"></script>
 <script src="/src/jquery-validate/jquery.validate.min.js" type="text/javascript"></script> 
 <script src="/src/master.js" type="text/javascript"></script>
 <script src="/src/controls.js" type="text/javascript"></script>
@@ -25,13 +25,12 @@
 
 	<title>IdeasWatch: Privacy policy</title>
 	
-<!-- socialize.js script should only be included once -->
-<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_hY2VtFBqGQpxW45hZFXl0M-qEfCUx-oSNjVQbNkOVmbo1D7c1mkOyd0mthdbDve3">
-{
-	siteName: 'ideaswatch.com'
-	,enabledProviders: 'facebook,twitter,google,linkedin'
-}
-</script>
+
+<script type="text/javascript">
+ var oneall_js_protocol = (("https:" == document.location.protocol) ? "https" : "http");
+ document.write(unescape("%3Cscript src='" + oneall_js_protocol + "://ideaswatch.api.oneall.com/socialize/library.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ideaswatch.api.oneall.com/socialize/library.js" type="text/javascript"></script>
+
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18806456-3']);
@@ -46,27 +45,21 @@
 </script>
 </head>
 <body>
+<div class="HideOnLogin" id="SignInBar">
+<div class="limit"><span class="text">
+You are not signed in. Welcome to do everything anonymously, but to engage with other like-minded Ideators, please sign in:</span> 
+<!-- The plugin will be embedded into this div //-->
+<div id="social_login_container"></div>
 
 <script type="text/javascript">
-var login_params=
-{
-	showTermsLink: 'false'
-	,height: 30
-	,width: 100
-	,containerID: 'headerLogin'
-	,UIConfig: '<config><body><controls><snbuttons buttonsize="20" /></controls></body></config>'
-	,autoDetectUserProviders: ''
-	,facepilePosition: 'none'
-	,redirectURL:'/user-validation-social.aspx'		
-}
-</script>
-<div class="HideOnLogin" id="SignInBar">
-<div class="limit">
-You are not signed in. Welcome to do everything anonymously, but to engage with other like-minded Ideators, please sign in: 			
-<div id="headerLogin"></div>
-<script type="text/javascript">
-   gigya.services.socialize.showLoginUI(login_params);
-</script>	
+ oneall.api.plugins.social_login.build("social_login_container", {
+  'providers' :  ['facebook', 'google', 'linkedin', 'twitter'], 
+  'grid_size_x': '9',
+  'grid_size_y': '1',
+  'callback_uri': 'http://www.ideaswatch.com/user-validation-social.aspx?returnurl=/privacy-policy',
+  'css_theme_uri': 'http://www.ideaswatch.com/src/oneall.css'
+ });
+</script>			
 </div>
 </div>
 
@@ -82,43 +75,34 @@ You are not signed in. Welcome to do everything anonymously, but to engage with 
 <img src="/img/layout/postit1-hover.jpg">
 <img src="/img/layout/postit2-hover.jpg">
 <img src="/img/layout/postit3-hover.jpg">
-<img src="/img/layout/tab-browse-on_hover.png">
-<img src="/img/layout/tab-browse-off_hover.png">
-<img src="/img/layout/tab-send-on_hover.png">
-<img src="/img/layout/tab-send-off_hover.png">
-<img src="/img/layout/tab-cofounders-on_hover.png">
-<img src="/img/layout/tab-cofounders-off_hover.png">
-<img src="/img/layout/support_hover.png">
-<img src="/img/layout/ajax-loader.gif">
-<img src="/img/layout/ajax-loader-light.gif">
-<img src="/img/layout/button_disabled_hover.png">
-<img src="/img/layout/button_disabled_down.png">
-<img src="/img/layout/button_empty_hover.png">
-<img src="/img/layout/button_empty_down.png">
-<img src="/img/layout/shutter-down.png">
-<img src="/img/layout/shutter-up.png">
-<img src="/img/layout/orangebox.png">
-<img src="/img/layout/support_hover.png">
-<img src="/img/layout/support_unlike.png">
-<img src="/img/layout/support_liked.png">
-<img src="/img/layout/next_hover.png">
+<img src="/img/themes/current/tab-on_hover.png">
+<img src="/img/themes/current/tab-off_hover.png">
+<img src="/img/themes/current/support_hover.png">
+<img src="/img/themes/current/ajax-loader.gif">
+<img src="/img/themes/current/ajax-loader-light.gif">
+<img src="/img/themes/current/button_empty_hover.png">
+<img src="/img/themes/current/button_empty_down.png">
+<img src="/img/themes/current/shutter-down.png">
+<img src="/img/themes/current/shutter-up.png">
+<img src="/img/themes/current/orangebox-new.png">
+<img src="/img/themes/current/support_hover.png">
+<img src="/img/themes/current/support_unlike.png">
+<img src="/img/themes/current/support_liked.png">
+<img src="/img/themes/current/next_hover.png">
 </div> 
 <center>
 <div id="limit">
 	<div id="masthead">
 		<div id="subtitle"><span class="note">Startup inspiration from the crowd</span></div>	
-		<a href="http://www.ideaswatch.com" title="IdeasWatch: Startup inspiration from the crowd">
-		<img id="logo" alt="IdeasWatch: Startup inspiration from the crowd" longdesc="IdeasWatch: Startup inspiration from the crowd" src="/img/layout/logo_small.png"></a> 
+		<a href="/" title="IdeasWatch: Startup inspiration from the crowd">
+		<img id="logo" alt="IdeasWatch" longdesc="IdeasWatch: Startup inspiration from the crowd" src="/img/layout/logo_small.png"></a> 
 			<div id="loginbar">
 		
 			<div id="signedinbar" class="ShowOnLogin preload" style="display: none;"><p style="text-align:right;">Welcome <span id="UserName">off</span>,</p>			
 			<p style="text-align:right">
 			<a href="/ideasboard"> <b>My ideasboard</b></a> | <a href="/profile-settings">Profile settings</a> |
 				<a href="/ajax/ajax-signout.aspx">Log out</a></p>
-				</div>
-			<div id="signedoffbar" class="HideOnLogin preload" style="padding-left:98px">
-			
-				</div>		
+				</div>			
 		</div>
 		<div class="SearchBox">
 
@@ -130,9 +114,9 @@ You are not signed in. Welcome to do everything anonymously, but to engage with 
 </div>
 	</div>	<div id="tabs">
 	<div id="top_nav">
-		<a href="#" id="tab-send" class="off"></a>
-		<a href="/browse" id="tab-browse" class="off" title="Browse startup ideas"></a> 
-		<a href="/cofounders" id="tab-cofounders" class="off"></a> 
+		<a href="#" id="tab-send" class="off tab"><span>Share</span></a>
+		<a href="/browse" id="tab-browse" class="off tab" title="Browse startup ideas"><span>Browse</span></a> 
+		<a href="/cofounders" id="tab-cofounders" class="off tab"><span>Team up</span></a> 
 	</div>
 	<div id="container">
 		<div id="right_col">
@@ -146,18 +130,18 @@ You are not signed in. Welcome to do everything anonymously, but to engage with 
 				<p>
 				<input type="text" id="Title" class="pole" name="Title" value="Title of the idea" alt="Title of the idea"></p>
 				<p>
-				<textarea id="Description" class="pole" style="height:130px" name="Description" alt="Description">Description</textarea></p>
+				<textarea id="Description" class="pole" style="height:130px" name="Description" alt="What problem do you want to be resolved and what solution do you suggest?">What problem do you want to be resolved and what solution do you suggest?</textarea></p>
 				<p>
 				<input type="text" id="Tags" class="pole" name="Tags" alt="Keywords" value="Keywords"></p>
 				<p>
 <input type="button" class="PurpleButton  PBNormal" style="" id="button-send" name="button-send" value="Share">
 
 <img id="button-sendHourGlass" class="hourglass" src="/img/layout/ajax-loader-light.gif" alt="Please wait">
-				<img id="SendHourGlass" class="hourglass" src="/img/layout/ajax-loader.gif" alt="Please wait"><a href="/inspiration" style="margin-left:120px;">Lacking inspiration?</a></p>				
+				<img id="SendHourGlass" class="hourglass" src="/img/themes/current/ajax-loader.gif" alt="Please wait"><a class="preload " href="/inspiration" style="margin-left:120px;">Lacking inspiration?</a></p>				
 				</fieldset>
 				</form>
 				  <div id="signinbox" name="signinbox" style="display:none">
-				  <h3 style="margin-top:10px"><img src="/img/layout/h2-sign-in-required.png" alt="Do you want to take credit for the idea and receive an email when it's realized?"></h3>
+				  <h3 style="margin-top:10px">Do you want to take credit for the idea and receive an email when it's realized?"</h3>
 				  <p class="zvetsene">Your idea will be shared as soon as you sign in.</p>
 				  
 <a class="PurpleButton PBNormal" href="/signin" target="_self" style="margin-right:20px">Log in</a>
@@ -166,7 +150,7 @@ You are not signed in. Welcome to do everything anonymously, but to engage with 
 <a class="PurpleButton PBNormal" href="/signup" target="_self" style="margin-left:20px">Sign up for free</a>
 
 <img id="HourGlass" class="hourglass" src="/img/layout/ajax-loader-light.gif" alt="Please wait">
-					<h3 style="margin-top:15px"><img src="/img/layout/h2-send-anonymously.png" alt="... no, just share it anonymously"></h3>	
+					<h3 style="margin-top:15px">... no, just share it anonymously"</h3>	
 				  <p>Keep in mind we won't be able to let you know when your idea is published.</p><p>
 				  
 <input type="button" class="PurpleButton  PBNormal" style="" id="button-send-anonymously" name="button-send-anonymously" value="Share as anonym">
@@ -176,45 +160,26 @@ You are not signed in. Welcome to do everything anonymously, but to engage with 
 					
 					</div>
 					<div id="ideasentbox" style="display:none">
-						<h3><img src="/img/icons/success.png" alt="Success" style="vertical-align: middle; margin: 5px"><img src="/img/layout/h2-idea-sent.png" style="vertical-align:middle;" alt="Your idea was sent!"></h3><p>Please give us a few days to check whether it's not identical with another idea in the database.</p>
-						<p><a href="/share.aspx">Share another idea</a></p>
+						<h3><img src="/img/icons/success.png" alt="Success" style="vertical-align: middle; margin: 5px">Your idea was sent!</h3><p>Please give us a few days to check whether it's not identical with another idea in the database.</p>
+						<p><a href="/#share">Share another idea</a></p>
 						
 					</div>
 					<div id="ideanotsentbox" style="display:none">
-						<h3><img src="/img/icons/fail.png" alt="Fail" style="vertical-align:middle; margin: 5px"><img src="/img/layout/h2-idea-not-sent.png" style="vertical-align:middle;" alt="Your idea was not sent!"></h3><div id="ideanotsentbox_err"></div>
-						<p><a href="/">Edit your idea and send again</a></p>						
-					</div>
-
-			
-				<div id="categorybox">
-				
-<a class="PurpleButton PBNormal" href="/browse" target="_self" style="">Show all ideas</a>
-
-<img id="BrowseAllHourGlass" class="hourglass" src="/img/layout/ajax-loader-light.gif" alt="Please wait"> 
-				<h3 style="margin-top:20px;">
-				<img src="/img/layout/h2-popular-topics.png" alt="Startup ideas topics"></h3>
-				<a href="/startup-ideas-about/online-ideas">online ideas</a>, <a href="/startup-ideas-about/mobile-ideas">mobile ideas</a>, <a href="/startup-ideas-about/app">app</a>, <a href="/startup-ideas-about/internet">internet</a>, <a href="/startup-ideas-about/service-ideas">service ideas</a>, <a href="/startup-ideas-about/home">home</a>, <a href="/startup-ideas-about/phone">phone</a>, <a href="/startup-ideas-about/social">social</a>, <a href="/startup-ideas-about/city">city</a>, <a href="/startup-ideas-about/facebook">Facebook</a>, <a href="/startup-ideas-about/shopping">shopping</a>, <a href="/startup-ideas-about/traveling">traveling</a>, <a href="/startup-ideas-about/search">search</a>, <a href="/startup-ideas-about/"></a>, <a href="/startup-ideas-about/language">language</a>	
-				<p>
-<a class="PurpleButton PBNormal" href="/topics" target="_self" style="">Show all topics</a>
-
-<img id="BrowseAllHourGlass" class="hourglass" src="/img/layout/ajax-loader-light.gif" alt="Please wait"></p> 
-				<h3 style="margin-top:20px;margin-bottom:5px"><img src="/img/layout/h2-search-ideas.png" alt="Search startup ideas"></h3>
-				<form id="SearchForm" name="SearchForm" action=""><p><input id="q" name="q" type="text" class="pole" style="width:250px"> 
-<input type="button" class="PurpleButton  PBNormal" style="" id="ButtonSearch" name="ButtonSearch" value="Search ideas">
-
-<img id="ButtonSearchHourGlass" class="hourglass" src="/img/layout/ajax-loader-light.gif" alt="Please wait"></p>				</form>
-				</div>
+						<h3><img src="/img/icons/fail.png" alt="Fail" style="vertical-align:middle; margin: 5px">Your idea was not sent!</h3><div id="ideanotsentbox_err"></div>
+						<p><a href="/#share">Edit your idea and send again</a></p>						
+					</div>							
 				</div>
 			</div>
 		</div>
 		<div id="shutter">
 			<center><a id="shutterbutton" href="#"><span class="arrow" style="display: none;">
-			<img alt="Hide" src="/img/layout/shutter-up.png" style="margin-top:-8px;"></span>
+			<img alt="Hide" src="/img/themes/current/shutter-up.png" style="margin-top:-8px;"></span>
 			<span class="arrow">
-			<img alt="Show" src="/img/layout/shutter-down.png"></span> </a>
+			<img alt="Show" src="/img/themes/current/shutter-down.png"></span> </a>
 			</center>
 		</div>
 		</div>
+
 		<div id="page_content">						
 			
 			
@@ -325,16 +290,15 @@ through your Web browser. These cookies do not collect personal information.</p>
 		<div id="footer">					
 			<p style="margin-top:0px; float:right; text-align: right">	<a href="/signin">Log in</a> | <a href="/about">About</a> |
 			<a href="/media">Media</a> |
-			<a href="/irc">IRC </a> |
+			<a href="/irc">IRC</a> |
 			<a href="/privacy-policy">Privacy</a> | 
 			<a href="/terms-of-service">Terms</a> |
 			<a href="/how-to">Help</a>
-<br><br>©&nbsp;2012, Powered by
-			<a href="http://www.crowdgene.com" target="_blank">
-			<img alt="Crowdgene: Pre-build crowdsourcing platform" src="http://www.crowdgene.com/crowdgene.png" style="vertical-align: middle; margin-right:0px"></a></p>		
+<br><br>©&nbsp;2012, Discovered by <a href="http://www.maintop.biz" title="Maintop Businesses" target="_blank"><img alt="Maintop Businesses" src="http://www.maintop.biz/maintop-biz-small-light.png" style="vertical-align: middle; margin-right:0px"></a></p>
+	
 		<b>
 	
-			<a href="http://www.ideaswatch.com" title="IdeasWatch: Startup ideas from the crowd">Share startup idea</a> |			
+			<a href="/" title="Startup inspiration from the crowd">Share startup idea</a> |			
 			<a href="/browse">Browse new business ideas</a> | 
 			<a href="/cofounders">Cofounders</a></b>
 <br>
@@ -342,7 +306,7 @@ through your Web browser. These cookies do not collect personal information.</p>
 <div id="FacebookPage"><p>
 	</p><p>
 	<fb:like href="http://www.facebook.com/IdeasWatch" layout="button_count" show-faces="false" width="80" action="like" colorscheme="light" font="segoe ui"></fb:like>
-	 <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.ideaswatch.com" data-text="Inspiration for startup ideas:" data-count="horizontal" data-via="IdeasWatch">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	 <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.ideaswatch.com" data-text="Startup inspiration from the crowd" data-count="horizontal" data-via="IdeasWatch">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 	<g:plusone size="medium" href="http://www.ideaswatch.com"></g:plusone>
 	 
 	</p></div>
@@ -394,6 +358,21 @@ var S,P;
 </script>
 <!-- Place this tag in your head or just before your close body tag -->
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<div id="loginpopup" class="preload">
+<h2>Sign in to watch this idea</h2>
+<p>To receive notifications about new discussions, competitors and cofounder opportunities for this idea, sign in with your social account and click on "Watch this!" button again.</p>
+<div id="inpage_login"></div>
+
+<script type="text/javascript">
+ oneall.api.plugins.social_login.build("inpage_login", {
+  'providers' :  ['facebook', 'google', 'linkedin', 'twitter'], 
+  'grid_size_x': '9',
+  'grid_size_y': '1',
+  'callback_uri': 'http://www.ideaswatch.com/user-validation-social.aspx?returnurl=/privacy-policy',
+ });
+</script>
+
+</div>
 
 
 
