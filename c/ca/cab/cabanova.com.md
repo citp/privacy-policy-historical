@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabanova.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430141031id_/http%3A//www.cabanova.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabanova.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032924id_/http%3A//www.cabanova.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cabanova
 
@@ -90,11 +90,11 @@ If you believe that any information we are holding on you is incorrect or incomp
 Postal Address  
 Cabanova GmbH  
 Fürstenwall 228  
-Düsseldorf  
+40215 Düsseldorf  
 Germany
 
 Tel.  
-+49 (0)211.61703188
++49 (0)211.30 33 185
 
 Fax.  
 +49 (0)211.3033435
