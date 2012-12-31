@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510130443id_/http%3A//www.ecigexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032811id_/http%3A//www.ecigexpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice : Quality brand e cigarette and e cig liquid from ecigexpress.com
 
@@ -77,15 +77,15 @@ This policy was last modified on **6/15/2011**
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 ECX LLC  
-PO BOX 190  
-Custer, WA 98240  
+1321 Cornwall Ave.  
+Bellingham, WA 98225  
 United States  
 888-418-2215
 
  **Privacy Policy Customer Pledge**
 
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
-Federal Trade Commision Fair  
+Federal Trade Commission Fair  
 California Online Privacy Protection Act  
 Childrens Online Privacy Protection Act  
 Privacy Alliance  
