@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610001133id_/http%3A//www.jimdo.com/info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimdo.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231073955id_/http%3A//www.jimdo.com/info/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Jimdo
 
-At Jimdo, we place the highest importance on handling your personal data with respect and confidentiality. Accordingly, Jimdo adheres to all applicable data protection laws and regulations, in particular to the strict[German Federal Data Protection Act](http://www.bfdi.bund.de/EN/DataProtectionActs/DataProtectionActs_node.html/). The following Privacy Policy outlines which data is collected from you and how it is handled. This policy applies to all Jimdo products and services. Jimdo is a service of Jimdo GmbH. 
+At Jimdo, we place the highest importance on handling your personal data with respect and confidentiality. Accordingly, Jimdo adheres to all applicable data protection laws and regulations, in particular to the strict [German Federal Data Protection Act](http://www.bfdi.bund.de/EN/DataProtectionActs/DataProtectionActs_node.html/). The following Privacy Policy outlines which data is collected from you and how it is handled. This policy applies to all Jimdo products and services. Jimdo is a service of Jimdo GmbH. 
 
   
 For questions about this privacy policy, you can write to us at any time via [our contact form](http://www.jimdo.com/info/privacy-statement/privacy-contact/) or by mail: 
@@ -66,9 +66,7 @@ For more information on the purpose and scope of data collection and further pro
 
 **The JimdoPage**. Any information that you put on your JimdoPage can be viewed by other Internet users. Therefore, we ask that you be careful and responsible with any personal information (such as addresses and phone numbers) and confidential data (such as passwords and login details) you put on your website. Keep in mind that password-protected areas do not absolutely prevent unauthorized access: files uploaded on password-protected pages can still be accessed through direct links. 
 
-**Administrative access to your JimdoPage**. Jimdo team members are authorized to access the administrative section (CMS) of your JimdoPage when fulfilling customer service requests and tracking errors. In such cases, they are able to view all parts of your JimdoPage, including all password-protected areas and the content of your Dropbox account if you have connected it to your JimdoPage. All members of our team are regularly trained in privacy concerns and the confidentiality of data according to Article 5 of the German Federal Data Protection Act. 
-
-###  Sharing your Data 
+**Administrative access to your JimdoPage**. Jimdo team members are authorized to access the administrative section (CMS) of your JimdoPage when fulfilling customer service requests and tracking errors. In such cases, they are able to view all parts of your JimdoPage, including all password-protected areas. All members of our team are regularly trained in privacy concerns and the confidentiality of data according to Article 5 of the German Federal Data Protection Act. 
 
 Your information will never be sold to third parties. We will not disclose any personal data without your consent, unless: 
 
@@ -82,23 +80,22 @@ Your information will never be sold to third parties. We will not disclose any p
 
     * **Domain registration**. Both paid packages include at least one domain name. When you register a domain, Jimdo is required to transfer registration data to the relevant domain organization. For more information on the nature and extent of data transferred, please consult the authority responsible for your domain: 
 
-> >     1. .com, .net, .org, .info, .biz domains (ICANN): <http://www.icann.org/en/udrp/udrp-policy-24oct99.htm>
->>     2. .eu domains (EURid): <http://www.eurid.eu/files/reg_pol_EN.pdf>
->>     3. .de domains (DENIC): <http://www.denic.de/de/bedingungen.html>
->>     4. .ch domains (SWITCH): <https://www.nic.ch/>
->>     5. .at domains (NIC.AT): <http://www.nic.at/service/rechtliche_informationen/registrierungsrichtlinien/>
->>     6. .nl domains (SIDN): <https://www.sidn.nl/fileadmin/docs/PDF-files_UK/General%20Terms%20and%20Conditions%20for%20.nl%20Registrants.pdf>
+> >     1. .com, .net, .org, .info, .biz domains (ICANN): <http://www.icann.org/en/udrp/udrp-policy-24oct99.htm>
+>>     2. .eu domains (EURid): <http://www.eurid.eu/files/reg_pol_EN.pdf>
+>>     3. .de domains (DENIC): <http://www.denic.de/de/bedingungen.html>
+>>     4. .ch domains (SWITCH): <https://www.nic.ch/>
+>>     5. .at domains (NIC.AT):<http://www.nic.at/service/rechtliche_informationen/registrierungsrichtlinien/>
 
 Depending on the registrar, this transferred registration data may be made publicly visible online. In particular, personal registration information for .com, .net, .org, .info, and .biz domains will be made public on the WHOIS.com website. You should keep this in mind when registering one of these TLDs.  
 
-    * **Email addresses**. When you set up an email account or forwarding address for your JimdoPage, we create an account for you with Rackspace Limited. Rackspace Limited assumes responsibility for the technical delivery and management of your emails. You can read [Rackspace’s privacy policy here](http://www.rackspace.com/information/legal/privacystatement.php/). 
-    * **Newsletter, guestbook and contact form**. SendGrid, Inc., is responsible for all emails that are sent through your website (such as notifications about new guestbook posts or store orders). [SendGrid, Inc.’s privacy policy can be found here](http://sendgrid.com/privacy.html/). 
-    * **Spam protection**. We use Akismet to scan incoming comments, messages in your contact form and guestbook entries as a precautionary measure against spam. In order to do this, we transfer incoming messages to Akismet, where they are analyzed. Akismet is a service of Automattic, Inc. You can read [Automattic, Inc.’s privacy policy here](http://automattic.com/privacy/). 
+    * **Email addresses**. When you set up an email account or forwarding address for your JimdoPage, we create an account for you with Rackspace Limited. Rackspace Limited assumes responsibility for the technical delivery and management of your emails. You can read [Rackspace’s privacy policy here](http://www.rackspace.com/information/legal/privacystatement.php/). 
+    * **Newsletter, guestbook and contact form**. SendGrid, Inc., is responsible for all emails that are sent through your website (such as notifications about new guestbook posts or store orders).[SendGrid, Inc.’s privacy policy can be found here](http://sendgrid.com/privacy.html/). 
+    * **Spam protection**. We use Akismet to scan incoming comments, messages in your contact form and guestbook entries as a precautionary measure against spam. In order to do this, we transfer incoming messages to Akismet, where they are analyzed. Akismet is a service of Automattic, Inc. You can read [Automattic, Inc.’s privacy policy here](http://automattic.com/privacy/). 
     * **User content**. When you upload images or files to your Jimdo website, these files may be uploaded to the cloud services of Amazon S3 or Nirvanix. Amazon and Nirvanix’s privacy policies can be found here: 
-      * [Amazon Privacy Policy](http://aws.amazon.com/privacy/%22%20/t%20%22_blank)
+      * [Amazon Privacy Policy](http://aws.amazon.com/privacy/)
       * [Nirvanix Privacy Policy﻿](http://www.nirvanix.com/privacy-policy.aspx)
-    * **Statistics**. If you are a JimdoPro or JimdoBusiness user, we use Google Analytics to generate statistics for your website. Data collected is processed in a non-personally-identifying form (“anonymizeIp”). [Google Analytics’ privacy policy can be found here](http://www.google.com/analytics/privacyoverview.html/). 
-    * **Content delivery**. We use CDNetworks Inc. to deliver the content of your JimdoPage. CDNetworks ensures that your website can be quickly accessed all over the world. [CDNetworks’ privacy policy can be found here](http://www.cdnetworks.com/privacy-statement/). 
+    * **Statistics**. If you are a JimdoPro or JimdoBusiness user, we use Google Analytics to generate statistics for your website. Data collected is processed in a non-personally-identifying form (“anonymizeIp”). [Google Analytics’ privacy policy can be found here](http://www.google.com/analytics/privacyoverview.html/). 
+    * **Content delivery**. We use CDNetworks Inc. to deliver the content of your JimdoPage. CDNetworks ensures that your website can be quickly accessed all over the world. [CDNetworks’ privacy policy can be found here](http://www.cdnetworks.com/privacy-statement/). 
 
 
 
@@ -109,7 +106,7 @@ We are happy to give you a summary of all data we have collected from you (Artic
 
 **Correction, Deletion or Blocking**
 
-** ** In accordance with Article 35 of the German Federal Data Protection Act, you are entitled to request that any data we collect from you be corrected, deleted or blocked from further use in cases that fall under the terms of the article. 
+In accordance with Article 35 of the German Federal Data Protection Act, you are entitled to request that any data we collect from you be corrected, deleted or blocked from further use in cases that fall under the terms of the article. 
 
 If you do not consent to this privacy policy in whole or in part, now or at a later point in time, you will no longer be able to use our services. In this case, you are required to inform us immediately and to delete your JimdoFree site at once, and to cancel your JimdoPro or JimdoBusiness site if you have one. 
 
@@ -129,9 +126,9 @@ Germany
 
 Revised October 20, 2011 
 
-**Please note:** The previous versions of our privacy statement (from February 2007, May 2008 and February 2010) are located here: [Older Versions of the Jimdo Privacy Statement](http://www.jimdo.com/info/privacy-statement-old/)
+**Please note:** The previous versions of our privacy policy (from February 2007, May 2008 and February 2010) are located here: [Older Versions of the Jimdo privacy policy](http://www.jimdo.com/info/privacy-statement-old/)
 
-If you choose not to accept the changes of our privacy statement, you have the opportunity to decline them within one month. After this period of time, the changes are considered to be accepted. Please enter your objection via the [contact form](http://www.jimdo.com/info/privacy-statement/privacy-contact/) below or write to us at: 
+If you choose not to accept the changes of our privacy policy, you have the opportunity to decline them within one month. After this period of time, the changes are considered to be accepted. Please enter your objection via the [contact form](http://www.jimdo.com/info/privacy-statement/privacy-contact/) below or write to us at: 
 
 **Jimdo GmbH**
 
