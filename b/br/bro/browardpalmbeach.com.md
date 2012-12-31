@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513155835id_/http%3A//www.browardpalmbeach.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032929id_/http%3A//www.browardpalmbeach.com/about/privacyPolicy) for the most accurate reproduction.*
 
-# Broward/Palm Beach Privacy Policy
+# Fort Lauderdale and Palm Beach Privacy Policy
 
 ### New Times BPB, LLC
 
