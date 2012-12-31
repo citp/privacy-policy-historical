@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ceoexpress.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630225640id_/http%3A//www.ceoexpress.com/html/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceoexpress.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231145930id_/http%3A//www.ceoexpress.com/html/privacy.asp) for the most accurate reproduction.*
 
 # CEOExpress - Privacy Policy
 
-**CEOExpress Company Privacy Policy
+**CEOExpress Company LLC Privacy Policy
 
-CEOExpress Company takes your privacy seriously. CEOExpress will never sell, rent or in any other way make your personal information available to a third party.
+CEOExpress Company LLC takes your privacy seriously. CEOExpress will never sell, rent or in any other way make your personal information available to a third party.
 
 **
 
@@ -31,7 +31,7 @@ Subpoena compliance information
 
 Registration:
 
-** During the registration process we ask you to supply personal information such as your name, email address and title as well as general information such as your industry, company size, zip or postal code, state or province, and country. CEOExpress Company collects this information to know our users better, with the goal of providing you with the best possible services.
+** During the registration process we ask you to supply personal information such as your name, email address and title as well as general information such as your industry, company size, zip or postal code, state or province, and country. CEOExpress Company LLC collects this information to know our users better, with the goal of providing you with the best possible services.
 
 Our E-commerce partner, Authorizenet.com, the world's leading payment authorization service for online business, is responsible for handling your payment authorization. They collect your financial data including contact name, credit card information and demographic information on their secure site. This information is strictly confidential and their 
 
@@ -58,7 +58,7 @@ You have the ability to modify your personal information that you have shared wi
 
 **Policy Modifications:** CEOExpress may edit this policy from time to time. We will post any changes here, so be sure to check back periodically. However, please be assured that these changes will not use the personal information you submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy without your prior consent. 
 
-**Banner Ads:** CEOExpress Company has a written agreement with our advertising agent, the company that serves our banner ads, that it will not collect any personally identifiable information from the users of CEOExpress. 
+**Banner Ads:** CEOExpress Company LLC has a written agreement with our advertising agent, the company that serves our banner ads, that it will not collect any personally identifiable information from the users of CEOExpress. 
 
 **Rights:** CEOExpress reserves the right to disclose and use personally identifiable information in special circumstances where it is necessary to enforce our Subscriber Agreement or Terms and Conditions of Use. We may also disclose or use your personal information when we, in good faith, believe that the law requires us to do so. 
 
@@ -68,19 +68,19 @@ If you seek the identity or account information of a CEOExpress account user in 
 
 **Submission of Subpoenas**
 
-CEOExpress Company is located in Cambridge MA, and all civil subpoenas should be served at that location or mailed or faxed to:
+CEOExpress Company LLC is located in Cambridge MA, and all civil subpoenas should be served at that location or mailed or faxed to:
 
-CEOExpress Company  
+CEOExpress Company LLC  
 Attn: Client Services  
-One Broadway, 14th Floor  
-Cambridge, MA 02110  
+1 Broadway, 14th Floor  
+Cambridge, MA 02142  
 Fax: 617-225-4440
 
 **Fees for Subpoena Compliance**
 
-CEOExpress Company will charge the person or entity submitting the civil subpoena for costs associated with subpoena compliance. Payment must be made within thirty (30) days from the date of receipt of the CEOExpress invoice. Checks should be made out to CEOExpress Company
+CEOExpress Company LLC will charge the person or entity submitting the civil subpoena for costs associated with subpoena compliance. Payment must be made within thirty (30) days from the date of receipt of the CEOExpress invoice. Checks should be made out to CEOExpress Company LLC
 
-CEOExpress Company subpoena compliance costs are as follows:
+CEOExpress Company LLC subpoena compliance costs are as follows:
 
 Research - $75.00/hour  
 Federal Express - Cost as Billed  
@@ -91,4 +91,4 @@ Compact Discs - $10.00/per CD
 
 If you have any questions, comments or concerns about our Privacy Policy, please complete a [Feedback Form](https://web.archive.org/asp/lffull.asp) or send an email to [privacy@ceoexpressmail.com](mailto:privacy@ceoexpressmail.com). 
 
-This Privacy Policy was last updated on June 28, 2009. 
+This Privacy Policy was last updated on October 2, 2012. 
