@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarpmagazine.org privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629021235id_/http%3A//www.aarp.org/about-aarp/info-05-2010/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarpmagazine.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231233321id_/http%3A//www.aarp.org/about-aarp/info-05-2010/privacypolicy.html) for the most accurate reproduction.*
 
 # AARP Privacy Policy - AARP
 
@@ -36,7 +36,9 @@ If you do not want us to share your personal information with nonprofit organiza
 If you wish to stop receiving all communications from AARP, including information about AARP activities, such as legislative events and educational programs, or about the activities of other AARP affiliates such as AARP Foundation, you can also opt out by contacting as specified below.   
 
 
-  * Email us at [AARPmember@aarp.org](mailto:AARPmember@aarp.org), or [click here](http://www.aarp.org/about-aarp/aarp-privacy-policy-opt-out.html).  
+  * Email us at [AARPmember@aarp.org](mailto:AARPmember@aarp.org)   
+
+  * Use our [online form](https://web.archive.org/about-aarp/aarp-privacy-policy-opt-out/)  
 
   * Call us at 1-888-OUR-AARP (1-888-687-2277)  
 
