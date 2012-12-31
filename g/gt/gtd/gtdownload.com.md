@@ -1,51 +1,51 @@
-> *The following text is extracted and transformed from the gtdownload.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505132240id_/http%3A//www.gtdownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtdownload.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231183827id_/http%3A//www.gtdownload.com/privacy.php) for the most accurate reproduction.*
 
 # GTdownload.com - Your free download software collection.
 
-[**POLAR and onlineprinters.com Present Sweepstake at the drupa 2012 Exhibition**](https://web.archive.org/press-release/POLAR-and-onlineprinters-com-Present-Sweepstake-at-the-drupa-2012-Exhibition.html)  
-At the fair stand of POLAR, printed sheets are cut into flyers for the campaign. [[read more]](https://web.archive.org/press-release/POLAR-and-onlineprinters-com-Present-Sweepstake-at-the-drupa-2012-Exhibition.html)
+[**Rightway Takes a Giant Leap in International Market – It’s Now Incorporated in NY, USA**](https://web.archive.org/press-release/Rightway-Takes-a-Giant-Leap-in-International-Market-8211-It-8217-s-Now-Incorporated-in-NY-USA.html)  
+Rightway Solution, a leading web and mobile solutions provider has added a new feather to its cap. It has taken a big leap in its efforts to target the international market with its incorporation in USA as Rightway Solution Corp. [[read more]](https://web.archive.org/press-release/Rightway-Takes-a-Giant-Leap-in-International-Market-8211-It-8217-s-Now-Incorporated-in-NY-USA.html)
 
-[**Enghouse Wins Prestigious Award for Interaction Management**](https://web.archive.org/press-release/Enghouse-Wins-Prestigious-Award-for-Interaction-Management.html)  
-Receives Industry Recognition for Its Interaction Management Portfolio of Contact Center, Console, Self-Service and Quality Monitoring Products [[read more]](https://web.archive.org/press-release/Enghouse-Wins-Prestigious-Award-for-Interaction-Management.html)
+[**W-2 Form Filing: Save Time and Money with EzW2 Software from Halfpricesoft.com**](https://web.archive.org/press-release/W-2-Form-Filing-Save-Time-and-Money-with-EzW2-Software-from-Halfpricesoft-com.html)  
+New edition of EzW2 Software eliminates the need to pre print tax forms which cuts costs and makes it easier to use. Try it free at www.halfpricesoft.com with no obligation or risk. [[read more]](https://web.archive.org/press-release/W-2-Form-Filing-Save-Time-and-Money-with-EzW2-Software-from-Halfpricesoft-com.html)
 
-[**SteadyRain Welcomes New Addition to Strategy Team, Ben Venker**](https://web.archive.org/press-release/SteadyRain-Welcomes-New-Addition-to-Strategy-Team-Ben-Venker.html)  
-Award winning, St. Louis based Internet strategy, web development, mobile, and online marketing agency, SteadyRain, is excited to announce the addition of Ben Venker as a Senior Project Manager to the Strategy Team. Ben will be managing client project str [[read more]](https://web.archive.org/press-release/SteadyRain-Welcomes-New-Addition-to-Strategy-Team-Ben-Venker.html)
+[**StageGrade Acquired by Davenport Media Enterprises**](https://web.archive.org/press-release/StageGrade-Acquired-by-Davenport-Media-Enterprises.html)  
+The theater review website StageGrade emerged on the scene in 2010 to fill a glaring need: an objective report card revealing the critical consensus for every play and musical in New York City. StageGrade quickly became for the stage what Rotten Tomatoes [[read more]](https://web.archive.org/press-release/StageGrade-Acquired-by-Davenport-Media-Enterprises.html)
 
-[**Acquia Co-Founder Dries Buytaert Recognized as a 2012 CIO of the Year by Boston Business Journal and Mass High Tech**](https://web.archive.org/press-release/Acquia-Co-Founder-Dries-Buytaert-Recognized-as-a-2012-CIO-of-the-Year-by-Boston-Business-Journal-and-Mass-High-Tech.html)  
-Dries Buytaert has been recognized by the Boston Business Journal and Mass High Tech as a 2012 CIO of the Year in the Emerging Technology category. [[read more]](https://web.archive.org/press-release/Acquia-Co-Founder-Dries-Buytaert-Recognized-as-a-2012-CIO-of-the-Year-by-Boston-Business-Journal-and-Mass-High-Tech.html)
+[**DFitPT.com Announces Partnership with AffiliateManager.com**](https://web.archive.org/press-release/DFitPT-com-Announces-Partnership-with-AffiliateManager-com.html)  
+Online Fitness Training Program Joins Leading Affiliate Management Program [[read more]](https://web.archive.org/press-release/DFitPT-com-Announces-Partnership-with-AffiliateManager-com.html)
 
-[**BluePrint Data Celebrates Two Year Anniversary of Its Cloud Based OEM Internet Filtering**](https://web.archive.org/press-release/BluePrint-Data-Celebrates-Two-Year-Anniversary-of-Its-Cloud-Based-OEM-Internet-Filtering.html)  
-BluePrint Data announces their second year anniversary of their cloud based OEM Internet Filtering Services. BluePrint Data has licensed over one million (1,500,000) end users via this system receiving hundreds of millions of URL “lookups” per [[read more]](https://web.archive.org/press-release/BluePrint-Data-Celebrates-Two-Year-Anniversary-of-Its-Cloud-Based-OEM-Internet-Filtering.html)
+[**PriceDekho.com Officially Launched – Review, Compare and Shop Online**](https://web.archive.org/press-release/PriceDekho-com-Officially-Launched-8211-Review-Compare-and-Shop-Online.html)  
+Girnar Retail Pvt. Ltd. today announced the official launch of PriceDekho.com, which had been in beta version since its inception, a product comparison-shopping platform for Indian buyers. PriceDekho.com enables users to compare product features & pri [[read more]](https://web.archive.org/press-release/PriceDekho-com-Officially-Launched-8211-Review-Compare-and-Shop-Online.html)
 
-[**AccuProcess Releases Business Process Modeling Software for Apple Mac OS X**](https://web.archive.org/press-release/AccuProcess-Releases-Business-Process-Modeling-Software-for-Apple-Mac-OS-X.html)  
-Becomes the first easy-to-use business process design, documentation and simulation software for Apple platform. [[read more]](https://web.archive.org/press-release/AccuProcess-Releases-Business-Process-Modeling-Software-for-Apple-Mac-OS-X.html)
+[**Online-Devices Announces the IA-3116-U2i**](https://web.archive.org/press-release/Online-Devices-Announces-the-IA-3116-U2i.html)  
+A new Industrial Relay Controller with 16-ch relays, 16 isolated Digital Inputs and two watchdog protection circuits manufactured by Intelligent-Appliance. [[read more]](https://web.archive.org/press-release/Online-Devices-Announces-the-IA-3116-U2i.html)
 
-[**Frazer Consultants Adds Yet Another Tribute Video Clip to Its Online Video Library**](https://web.archive.org/press-release/Frazer-Consultants-Adds-Yet-Another-Tribute-Video-Clip-to-Its-Online-Video-Library.html)  
-For those that love baseball, the new tribute video intro and ending, "Coming Home," will touch your hearts. [[read more]](https://web.archive.org/press-release/Frazer-Consultants-Adds-Yet-Another-Tribute-Video-Clip-to-Its-Online-Video-Library.html)
+[**QArea Event: Give the Tweet and Get the Gift**](https://web.archive.org/press-release/QArea-Event-Give-the-Tweet-and-Get-the-Gift.html)  
+‘#ChristmasTweet’ offer is organized by QArea software development company which is located in Ukraine, Kharkov. You can get 10% discount for period from December 27th, 2012 until January 31st, 2013 and use it from December 27th, 2012 until Ju [[read more]](https://web.archive.org/press-release/QArea-Event-Give-the-Tweet-and-Get-the-Gift.html)
 
-[**Frazer Consultants Expands Tribute Video Personalization Options by Adding "Butterfly Memories" Video Clip**](https://web.archive.org/press-release/Frazer-Consultants-Expands-Tribute-Video-Personalization-Options-by-Adding-34-Butterfly-Memories-34-Video-Clip.html)  
-"Butterfly Memories" is a beautiful new scenic video that has been expertly created and designed for use with Frazer Consultants Tribute Center video creation software. [[read more]](https://web.archive.org/press-release/Frazer-Consultants-Expands-Tribute-Video-Personalization-Options-by-Adding-34-Butterfly-Memories-34-Video-Clip.html)
+[**Priority Systems Bought by Neopost USA**](https://web.archive.org/press-release/Priority-Systems-Bought-by-Neopost-USA.html)  
+Harrisburg, PA provider of business communications and logistical systems has been purchased by one its primary suppliers, Neopost USA. [[read more]](https://web.archive.org/press-release/Priority-Systems-Bought-by-Neopost-USA.html)
 
-[**New Jersey School Districts Participate in an Innovative Autism Program**](https://web.archive.org/press-release/New-Jersey-School-Districts-Participate-in-an-Innovative-Autism-Program.html)  
-Lincoln Park School District, in conjunction with Scholastic Intervention Solutions, has launched an innovative program with the goal of improving the administrative and instructional aspects of their autism program as well as reducing costs 20-30%. [[read more]](https://web.archive.org/press-release/New-Jersey-School-Districts-Participate-in-an-Innovative-Autism-Program.html)
+[**Business Strategist Lisa Elia Provides Success Tips and Hosts Free Strategy Webinar**](https://web.archive.org/press-release/Business-Strategist-Lisa-Elia-Provides-Success-Tips-and-Hosts-Free-Strategy-Webinar.html)  
+As businesses owners and executives strategize for the coming year, CEO and Founder of Elia Erickson Consulting, Lisa Elia, provides proven success strategies for people who want to run their businesses more effectively and more efficiently in her free we [[read more]](https://web.archive.org/press-release/Business-Strategist-Lisa-Elia-Provides-Success-Tips-and-Hosts-Free-Strategy-Webinar.html)
 
-[**MindMaple Inc. Launches Free Mind Mapping Software, MindMaple Lite**](https://web.archive.org/press-release/MindMaple-Inc-Launches-Free-Mind-Mapping-Software-MindMaple-Lite.html)  
-MindMaple Inc. is the developer of MindMaple, a mind mapping software to increase productivity and creativity by visually organizing ideas on a map. MindMaple Inc. has MindMaple and MindMaple Lite, a free version of MindMaple. [[read more]](https://web.archive.org/press-release/MindMaple-Inc-Launches-Free-Mind-Mapping-Software-MindMaple-Lite.html)
+[**Exabytes to Hold “ISVs Journey to the Cloud Seminar” for Independent Software Vendors in the Country**](https://web.archive.org/press-release/Exabytes-to-Hold-8220-ISVs-Journey-to-the-Cloud-Seminar-8221-for-Independent-Software-Vendors-in-the-Country.html)  
+Exabytes Network Sdn. Bhd., a leading web hosting provider announced its latest training event, “ISVs Journey to the Cloud Seminar,” slated to be conducted at Cititel Mid Valley, Kuala Lumpur on 16 January, 2013 with the presence of numerous h [[read more]](https://web.archive.org/press-release/Exabytes-to-Hold-8220-ISVs-Journey-to-the-Cloud-Seminar-8221-for-Independent-Software-Vendors-in-the-Country.html)
 
-[**C-MOR Announces VM Version of IP Video Surveillance NVR System - C-MOR VM**](https://web.archive.org/press-release/C-MOR-Announces-VM-Version-of-IP-Video-Surveillance-NVR-System-C-MOR-VM.html)  
-Improves server and PC utilization; eliminates need for additional hardware. [[read more]](https://web.archive.org/press-release/C-MOR-Announces-VM-Version-of-IP-Video-Surveillance-NVR-System-C-MOR-VM.html)
+[**Michigan Digital Marketing Agency Hired by k-Space Associates**](https://web.archive.org/press-release/Michigan-Digital-Marketing-Agency-Hired-by-k-Space-Associates.html)  
+Leading digital marketing agency, Ingenex Digital Marketing, has been hired by k-Space Associates located in Dexter, Mich. to improve their current social media presence. [[read more]](https://web.archive.org/press-release/Michigan-Digital-Marketing-Agency-Hired-by-k-Space-Associates.html)
 
-[**GstarCAD Marketing Symposium 2012 Successfully Held in Suzhou**](https://web.archive.org/press-release/GstarCAD-Marketing-Symposium-2012-Successfully-Held-in-Suzhou.html)  
-GstarCAD Marketing Symposium 2012 has been successfully held in Suzhou. Distributors of GstarCAD around the world were presented this symposium. [[read more]](https://web.archive.org/press-release/GstarCAD-Marketing-Symposium-2012-Successfully-Held-in-Suzhou.html)
+[**ID Card Workshop 3.6.5 Has Been Released, Fixed Bugs and Launched Its Affiliate and Reseller Program**](https://web.archive.org/press-release/ID-Card-Workshop-3-6-5-Has-Been-Released-Fixed-Bugs-and-Launched-Its-Affiliate-and-Reseller-Program.html)  
+ID Card Workshop team today released a new version of ID Card Workshop. And together launched its affiliate and white-label reseller program, offering third parties the opportunity to earn paid commissions from each sale they refer to us. ID Card Worksho [[read more]](https://web.archive.org/press-release/ID-Card-Workshop-3-6-5-Has-Been-Released-Fixed-Bugs-and-Launched-Its-Affiliate-and-Reseller-Program.html)
 
-[**Red Chilli Media Announced Professional Web Designing Services in Real Estate Industry**](https://web.archive.org/press-release/Red-Chilli-Media-Announced-Professional-Web-Designing-Services-in-Real-Estate-Industry.html)  
-Red Chilli Media the renowned web development and design company has entered into a new sphere of web development. The company has recently launched their services in the field of Real Estate web development. Web design services provided by the company ar [[read more]](https://web.archive.org/press-release/Red-Chilli-Media-Announced-Professional-Web-Designing-Services-in-Real-Estate-Industry.html)
+[**Handy Backup Gets End of Year Update: Windows 8 Support, System Backup and More**](https://web.archive.org/press-release/Handy-Backup-Gets-End-of-Year-Update-Windows-8-Support-System-Backup-and-More.html)  
+Novosoft, an international software development company specializing in backup and recovery solutions for Windows and Linux, released Handy Backup 7.3.2 with support for Windows 8 and new features. [[read more]](https://web.archive.org/press-release/Handy-Backup-Gets-End-of-Year-Update-Windows-8-Support-System-Backup-and-More.html)
 
-[**New Version of Divine Elemente Released**](https://web.archive.org/press-release/New-Version-of-Divine-Elemente-Released.html)  
-New version of Divine Elemente (a plugin for Adobe Photoshop®) has been released. The main purpose of this plugin is to create WordPress themes in a few simple steps, which require no HTML/CSS/PHP skills and can save more than 90% of time normally sp [[read more]](https://web.archive.org/press-release/New-Version-of-Divine-Elemente-Released.html)
+[**Slotting Software Innovations Lead to Optricity Patent**](https://web.archive.org/press-release/Slotting-Software-Innovations-Lead-to-Optricity-Patent.html)  
+FL100 recognizes technology contributions to food and beverage distribution industry [[read more]](https://web.archive.org/press-release/Slotting-Software-Innovations-Lead-to-Optricity-Patent.html)
 
-[**New BPMonline Service Desk Incorporates ITSM Best Practices and Business Process Automation**](https://web.archive.org/press-release/New-BPMonline-Service-Desk-Incorporates-ITSM-Best-Practices-and-Business-Process-Automation.html)  
-BPMonline, SaaS CRM and business process management solutions provider, today launches BPMonline Service Desk, a new cost effective web service desk management solution that will transform IT Service Management (ITSM) automation. [[read more]](https://web.archive.org/press-release/New-BPMonline-Service-Desk-Incorporates-ITSM-Best-Practices-and-Business-Process-Automation.html)
+[**FinancialForce.com Shortlisted for British Finance Awards 2013 – Software Product of the Year**](https://web.archive.org/press-release/FinancialForce-com-Shortlisted-for-British-Finance-Awards-2013-8211-Software-Product-of-the-Year.html)  
+FinancialForce, has been shortlisted as one of the finalists in the Software Product of the Year category of the British Finance awards 2013. [[read more]](https://web.archive.org/press-release/FinancialForce-com-Shortlisted-for-British-Finance-Awards-2013-8211-Software-Product-of-the-Year.html)
 
 [Express scribe free transcription player](https://web.archive.org/download/Express-Scribe-Free-Transcription-Player-software.html)  
 [Free convert quicktime 2 m4v](https://web.archive.org/download/Free-Convert-QuickTime-2-M4V-software.html)  
