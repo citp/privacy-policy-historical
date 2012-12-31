@@ -1,14 +1,23 @@
-> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501113048id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231232135id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
 
-# Legals - Hype DC
+# Legals - Free delivery, Hype DC
 
 Terms and Conditions
 
 _Product Information_  
 The website www.hypedc.com is owned and operated by Hype DC Pty Ltd. All products listed on www.hypedc.com are described to the best of our abilities and the specifications reflect the information that has been provided to us. All care is taken to ensure this information is correct, but we cannot eliminate the possibility of human error.
 
-_Copyright_  
+_Copyright_
+
 The description of our products and photography is the copyright property of Hype DC, and specifically you may not use that description as the description of the product should you choose to re-sell the items elsewhere. This includes all product information, images and specifications where applicable.
+
+We have made every effort to display as accurately as possible the colours of our products that appear on the website. However, as the actual colours you see will depend on your monitor, we cannot guarantee that your monitor's display of any colour will accurately reflect the colour of the product on delivery.
+
+All sizes and measurements are approximate, however we do make every effort to ensure they are as accurate as possible. Unless otherwise stated all sizes are in US, with anything unisex running in Mens US sizing.
+
+Goods are subject to availability. As there is a delay between the time when the order is placed and the time when the order is accepted, the stock levels of each shoe may change. If an item you have ordered becomes out of stock before we accept the order we shall notify you as soon as possible and you will not be charged for the out of stock items.
+
+We continually update our online store. Occassionally we may run offers in our retail stores that don't appear online or vice versa.
 
 _Payment Information_  
 All orders are prepaid. When ordering, your credit card is charged when you place your order. All orders are in Australian dollars. We accept Visa and Mastercard cards only, and only cards with an Australian billing address.
@@ -23,7 +32,7 @@ Special request orders which are shipped directly from suppliers or directly fro
 Please note that we will not ship any order outside of Australia.
 
 _Shipping Errors_  
-Hype DC uses the Australia Post to deliver your products. Whilst we use quality carriers, the reality is that errors may occur. In the event of delivery errors, Hype DC will use all its efforts to ensure you receive your goods, receive a replacement or are refunded your purchase price.
+Hype DC uses TNT to deliver your products. Whilst we use quality carriers, the reality is that errors may occur. In the event of delivery errors, Hype DC will use all its efforts to ensure you receive your goods, receive a replacement or are refunded your purchase price.
 
 Warranties:
 
@@ -39,17 +48,17 @@ Under no circumstances will Hype DC be liable for any direct, indirect, special,
 _Returning Defective Merchandise_  
 At Hype DC we are proud of our products and guarantee all our products as being as advertised. We will attempt to replace any defective merchandise (subject to stock availability) or refund you for any defective merchandise (including reasonable shipping costs) provided that:
 
-  * a) The return is pre-arranged with Hype DC. This can be done by e-mailing [mark@hypedc.com](mailto:gabby@hypedc.com)
+  * a) The return is pre-arranged with Hype DC. This can be done by e-mailing [info@hypedc.com](mailto:gabby@hypedc.com)
   * b) the product is returned to us with proof of purchase within 14 days of the date of purchase; 
   * c) the product is in its original condition; and 
   * d) the product is not defective as a result of misuse.
 
 
 
-Should there be any problems with defective product, please contact Hype DC first. All returns must be pre-arranged by emailing [mark@hypedc.com](mailto:gabby@hypedc.com)
+Should there be any problems with defective product, please contact Hype DC first. All returns must be pre-arranged by emailing [info@hypedc.com](mailto:gabby@hypedc.com)
 
   
-If you are not completely satisfied with your purchase, simply use the RETURN POST STICKER in your post bag and return the item or items to us in their unworn and in original condition in the box within 14 days of receipt.
+If you are not completely satisfied with your purchase, simply return the item or items to us in their unworn and in original condition in the box within 14 days of receipt.
 
 We will issue you with a full refund back on the credit card that you used to make the purchase, or exchange the item, at your request (subject to stock availability).
 
@@ -57,10 +66,10 @@ Alternatively, you can exchange your purchase at any Hype DC retail store provid
 
 We will not under any circumstances refund the cost of shipping the original product to you in the case of exchange or refund.
 
-All returns must be pre-arranged by emailing [mark@hypedc.com](mailto:gabby@hypedc.com)
+All returns must be pre-arranged by emailing [info@hypedc.com](mailto:gabby@hypedc.com)
 
 _General_  
-Hype DC may revise these terms at any time. Use of this website is subject to the revised terms. These Terms were last Revised in January 2009.
+Hype DC may revise these terms at any time. Use of this website is subject to the revised terms. These Terms were last Revised in November 2012.
 
 Privacy
 
@@ -95,15 +104,14 @@ When you visit our website we may send you a cookie. Cookies may be used in the 
 1\. To help us recognise you as a unique visitor (just a number) when you return to our website   
 2\. To compile anonymous, aggregated statistics that allow us to understand how users use our site.   
 Two types of cookies may be used on this website, -session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site, and persistent cookies, which remain in the cookie file of your browser.  
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but if you prefer you can usually modify your browser setting to decline cookies.   
-
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but if you prefer you can usually modify your browser setting to decline cookies.
 
 _Contacting HypeDC Pty Ltd_  
-You can contact HypeDC Pty Ltd: 
+You can contact HypeDC Pty Ltd:
 
   * By email: [info@hypedc.com](mailto:info@hypedc.com)
-  * By letter: Level 6, 192 Pitt Street, Sydney NSW 2000
+  * By letter: Level 6, 228 Pitt Street, Sydney NSW 2000
 
 
 
-This Privacy Statement may be updated from time to time. The last update was in August 2009.
+This Privacy Statement may be updated from time to time. The last update was in August 2012.
