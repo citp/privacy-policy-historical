@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mochiads.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622053327id_/http%3A//www.mochimedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochiads.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231021530id_/http%3A//www.mochimedia.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Mochi Media :: Fueling Creativity
 
@@ -85,7 +85,7 @@ Mochi Media allows you to access the following information about you for the pur
 
   * As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Mochi Media features.
   * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
-  * You may request deactivation of your account and deletion of personally identifiable information in your Mochi Media account by sending an e-mail to our webmaster at support@mochimedia.com.Please note that when your personally identifiable information is deleted we no longer have the availability to send you information or payments. Additionally, some of your information may remain in our records after deactivation of your account.
+  * You may request deactivation of your account and deletion of personally identifiable information in your Mochi Media account by sending an e-mail to our webmaster at [mochi.desk.com](http://mochi.desk.com/customer/portal/emails/new).Please note that when your personally identifiable information is deleted we no longer have the availability to send you information or payments. Additionally, some of your information may remain in our records after deactivation of your account.
   * Mochi Media may use a user’s e-mail address to send updates, a newsletter or news regarding the Websites or Mochi Media services. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Websites, and you are responsible for reviewing such legal notices for changes.
 
 
@@ -96,4 +96,4 @@ Mochi Media may make changes to this Privacy Policy from time to time for any re
 
 ### Questions or Concerns?
 
-If you have any questions or concerns regarding privacy at the Websites, please send us a detailed message to support@mochimedia.com. 
+If you have any questions or concerns regarding privacy at the Websites, please send us a detailed message at [mochi.desk.com](http://mochi.desk.com/customer/portal/emails/new). 
