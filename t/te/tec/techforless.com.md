@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518022234id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231055855id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
-Your information is safe with us. We do not sell, rent or otherwise share your information with anyone. Tech for Less LLC is a member of the Better Business Bureau (BBB) and has the earned the Online Reliability Seal.  |  [](https://www.bbb.org/online/consumer/cks.aspx?id=102021515342021162)     
+Your information is safe with us. We do not sell, rent or otherwise share your information with anyone. Tech for Less LLC is a member of the Better Business Bureau (BBB) and has the earned the Online Reliability Seal.  |  [](http://www.bbb.org/southern-colorado/business-reviews/computers-dealers/tech-for-less-in-colorado-springs-co-23002518#sealclick)     
 ---|---  
   
 ### What Personally Identifiable Information Is Collected When Making a Purchase?
