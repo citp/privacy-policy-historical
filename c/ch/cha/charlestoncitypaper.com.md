@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the charlestoncitypaper.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606205610id_/http%3A//www.charlestoncitypaper.com/charleston/PrivacyStatement/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlestoncitypaper.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231015959id_/http%3A//www.charlestoncitypaper.com/charleston/PrivacyStatement/Page) for the most accurate reproduction.*
 
-# Charleston City Paper | Privacy Statement
+# Privacy Statement | Charleston City Paper
 
 Welcome to the website for the Charleston City Paper, [charlestoncitypaper.com](http://www.charlestoncitypaper.com/) (the "Site"). This Site is operated by Jones Street Publishers, LLC ("Jones Street" or "us"). We at Jones Street recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Website Privacy Statement. 
 
