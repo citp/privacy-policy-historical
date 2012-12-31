@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630094945id_/http%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231013402id_/http%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.*
 
 # QUT - Privacy
 
@@ -64,7 +64,7 @@ When you visit QUT's website, we make a record of your visit using "single pixel
 
 ## Privacy for students
 
-We have particular practices regarding the information we collect from out students.
+We have particular practices regarding the information we collect from our students.
 
 [Student privacy at QUT](http://www.qut.edu.au/additional/privacy/student-privacy-at-qut)
 
