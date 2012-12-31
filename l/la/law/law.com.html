@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the law.com privacy policy that was archived on 2012-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120629013251id_/http%3A//www.law.com/jsp/law/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the law.com privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231151944id_/http%3A//www.law.com/jsp/law/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,7 +10,15 @@
 <meta name="keywords" content="privacy policy, law.com">
 <meta name="msvalidate.01" content="FB8BE360877DD8E849C765E9AB617826">
 
-<!-- nav_style has tabbox styles in it, need to move to global  -->
+<meta property="og:title" content="Privacy | Law.com">
+	<meta property="og:type" content="news:collection">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:site_name" content="Law.com">
+	<meta property="og:description" content="Law.com privacy policy documentation">
+	<meta property="og:image" content="http://www.law.com/img/facebook/law.jpg">
+	<meta property="og:url" content="http://www.law.com/jsp/law/privacy.jsp">
+
+
 <link rel="stylesheet" type="text/css" href="/css/law_10/nav_style.css">
 <link rel="stylesheet" type="text/css" href="/css/law_10/global.css">
 
@@ -34,7 +42,7 @@
 <script type="text/javascript" src="/js/registration.js"></script>
 <script language="javascript1.3" src="/js/comment.js"></script>
 <script type="text/javascript" src="/js/flash/swfobject.js"></script>
-<script language="javascript" type="text/javascript" src="/js/interstitial_6hrCap.js"></script>
+<script type="text/javascript" src="/js/global/LAW.popupAd.js"></script>
 <link rel="stylesheet" type="text/css" href="/css/law_10/interstitial2.css">
 
 <script language="JavaScript">
@@ -62,16 +70,10 @@
 </script>
 
 <script type="text/javascript" language="javascript">
-    // This script function loads all of the display javascript
-    window.onload = function () {
-        init();
-    } //window.onload
-
     function init() {
+		LAW.popupAd.checkIfInterstitialAdShouldRun();
         pgLoaded = 2;
         getObj('t2').className = "sel";
-
-        checkIfInterstitialAdShouldRun();
         startList();
 
     }
@@ -120,7 +122,6 @@
    var s_account = "almlaw,almglobal,almlawglobal";
 </script>
 <script language="JavaScript" type="text/javascript" src="/js/metrics/s_code.js"></script>
-
 <script language="JavaScript" type="text/javascript">
    <!--
 	function get_cookie (cookie_name){
@@ -178,6 +179,8 @@
 	} else {
 		ipAuth="";
 	}
+	
+	
 
 	/* Share Function - s.prop29, event6 */
 	function scShare(shareType){
@@ -188,6 +191,13 @@
 	   s.eVar29 = shareType;
 	   s.events = "event6";
 	   s.tl(this,'o','social network share');
+	}
+	
+	/* Email Share */
+	var scemailshare = false;
+	var scsocialshare = "";
+	if (scemailshare == true) {
+		scsocialshare = "email";
 	}
 
 	/* Jump Page Function - event86 */
@@ -217,6 +227,7 @@
 		s.linkTrackVars = "eVar20,events";
 		s.linkTrackEvents = "event87";
 		s.eVar20 = "subscriber login";
+
 		s.events = "event87";
 		s.tl(this,'o','close login overlay');
 	}
@@ -237,13 +248,16 @@
 		s.events = "event33";
 		s.tl(this,'o','email form');
 	}
-	
+
 	/* Pagination - prop18 */
 	var pageparam = s.getQueryParam('thepage,page,pg');
+	var sclastpage = "";
 	var scpagination = "law:privacy policy" + ":page:" + pageparam;
-	if (pageparam == null || pageparam == "") { 
+	
+	if (pageparam > sclastpage || sclastpage == "1" || pageparam == null || pageparam == "" || sclastpage == null || sclastpage == "") {
 		scpagination = "";
 	}
+	
 
 	/* Set SC Vars */
 	s.pageName="law:privacy policy"
@@ -272,8 +286,9 @@
 	s.prop16=""	// Content Subscription Status
 
 	s.prop17=""	 // Leads - Application Name
-
-	s.prop18=scpagination	// Pagination
+		
+	s.prop18=scpagination;	// Pagination
+	
 	s.prop19=""	// Photo - Audio Title
 
 	s.prop20="" // Tool Name
@@ -287,7 +302,7 @@
 	s.prop27=""	// Times Visited Per Month
 	s.prop28=""	// Days Since Last Visit
 
-	s.prop29=""	// Share - Name
+	s.prop29=scsocialshare	// Share - Name
 	s.prop30=""	//
 
 	s.prop31=""	// Blog ID
@@ -358,7 +373,7 @@
 	<!--
 	document.write('<sc'+'ript language="JavaScript1.1" src="http://ad.doubleclick.net/adj/alm.law.com/home;dcopt=ist;pos=728a;ptype=21;tile=1;sz=728x90;id=' + dcid + ';ord=' + random + '?"><\/s'+'cript>');
 	// -->
-	</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/alm.law.com/home;dcopt=ist;pos=728a;ptype=21;tile=1;sz=728x90;id=;ord=4731060773983282?"></script>
+	</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/alm.law.com/home;dcopt=ist;pos=728a;ptype=21;tile=1;sz=728x90;id=;ord=19204398326052274?"></script>
 
   	<noscript>
   	<a href="http://ad.doubleclick.net/jump/alm.law.com/home;dcopt=ist;pos=728a;ptype=21;tile=1;sz=728x90" target="_blank">
@@ -366,11 +381,29 @@
 	</noscript>
 
 </div>
-<!-- ie6 include -->
-<!--Commenting out to solve seo conflicts but can be reused for ie7 browser barning 08/18/2011<div><nomobile><style type="text/css">#topSeparation {display:none;}</style><!--[if lt IE 7]>	<style type="text/css">		.sliderBox {width:900px!important; height:60px!important; background: #dd1b24 url(/images/global/exclamation_bg.gif) no-repeat bottom left;margin:0 auto!important;}		.sliderBox p{color:#fff; line-height:19px; font-family:Helvetica Neue,Arial,sans-serif!important; font-size:13px!important; margin:0 auto!important;}     		.sliderBox .warningMessage {padding:10px 20px 0 20px; width:170px; float:left; display:block; margin:0; font-weight:bold; font-size:15px!important; line-height:21px; color:#ffff00;}		.sliderBox .marketCopy {font-size:13px!important; margin:0; padding:10px!important; width:660px!important; float:left; font-weight:bold; text-align:left!important;}		.sliderBox .marketCopy span {font-size:13px!important; font-style:italic; color:#ffff00;}		.sliderBox .plainLink {display:inline-block; color:#fff !important; text-decoration:underline !important;font-size:13px!important;}		.sliderBox .plainLink:hover {color:#ffff00!important; text-decoration:underline; background:#000;font-size:13px!important;}		#topSeparation {display:block; background:#000; margin:8px 0 0 0; width:980px;}	</style><![endif]--><!--<script type="text/javascript">	/* Track IE6 Upgrade - s.prop20, event86 */	var is_ie6 = navigator.appVersion;		if (is_ie6.indexOf("MSIE 6.0") > -1){		var s = s_gi(s_account);		s.linkTrackVars = "eVar20,prop20,events";		s.linkTrackEvents = "event85";		s.prop20 = "ie6 upgrade";        s.eVar20 = "ie6 upgrade";		s.events = "event85";		s.tl(this,'o','ie6 upgrade');		}		function trackIE6(){   		var s = s_gi(s_account);		s.linkTrackVars = "eVar20,prop20,events";		s.linkTrackEvents = "event86";		s.prop20 = "ie6 upgrade";        s.eVar20 = "ie6 upgrade";		s.events = "event86";		s.tl(this,'o','ie6 upgrade');		}		var siteDirectory = siteDirectory;		var mySiteName = siteDirectory;				if (mySiteName != null){			if (mySiteName == "ca"){				mySiteName = "The Recorder";			} else if (mySiteName == "cc"){				mySiteName = "Corporate Counsel";			} else if (mySiteName == "dailybusinessreview"){				mySiteName = "The Daily Business Review";			} else if (mySiteName == "law"){				mySiteName = "Law.com";			} else if (mySiteName == "lawjobs"){				mySiteName = "Lawjobs";			} else if (mySiteName == "lawtechnologynews"){				mySiteName = "Law Technology News";			} else if (mySiteName == "mlj"){				mySiteName = "The Minority Law Journaly";			} else if (mySiteName == "nj"){				mySiteName = "The New Jersey Law Journal";			} else if (mySiteName == "nlj"){				mySiteName = "The National Law Journal";			} else if (mySiteName == "nylj"){				mySiteName = "The New York Law Journal";			} else if (mySiteName == "nylawyer"){				mySiteName = "New York Lawyer";			} else if (mySiteName == "pa"){				mySiteName = "The Legal Intelligencer";			} else if (mySiteName == "reprints"){				mySiteName = "Reprints";			} else if (mySiteName == "tal"){				mySiteName = "The American Lawyer";			} else if (mySiteName == "tx"){				mySiteName = "Texas Lawyer";			} else {				mySiteName = "We";			}		} else {			mySiteName = "We";		}					</script></div><div id="topSeparation"><div class="sliderBox"><p class="warningMessage">Your Internet Explorer browser is out of date.</p><p class="marketCopy">After July 15, 2011, <span><script>document.write(mySiteName);</script> will no longer support IE 6.</span> To get the best possible experience using our website we recommend that you <a onClick="trackIE6()" class="plainLink" target="_blank" href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home">upgrade your browser</a>.</p></div></nomobile></div>-->
-<!-- ie6 include -->
+<!-- LAW21 INTERSTITIAL AD SECTION -->
+<div id="interstitialAdContainer" class="domHidden"> 
+  <!-- This is the close button that appears over generated/visible ads --> 
+  <div id="IAHideButtonBlock" class="domHidden"> <a id="IAHideButton" class="domHidden" href="javascript:LAW.popupAd.disappear();">Close [ X ]</a> </div>    
+  <div id="interstitialAdContainer-content">
+   <script type="text/javascript">
+	    document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/alm.law.com/home;pos=500a;ptype=21;tile=20;sz=500x300;ord=' + random + '?"></scr' + 'ipt>');
+   </script><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/alm.law.com/home;pos=500a;ptype=21;tile=20;sz=500x300;ord=19204398326052274?"></script> 
+  </div> 
+</div> 
 
-    <div id="mast">
+<!-- END INTERSTITIAL AD -->
+
+<!-- in case for sites that's haven't update yet -->
+<script type="text/javascript">
+if (typeof LAW == 'undefined' || !LAW) { 
+	var LAW = {};
+	LAW.popupAd = {};
+	LAW.popupAd.disappear = disappear;
+}
+</script>	
+
+<div id="mast">
     	<div id="pub_masthead">
     	
         	<a href="/jsp/law/index.jsp"><img src="/img/law_10/law_masthead.jpg" border="0" alt="Law.com"></a>
@@ -455,8 +488,8 @@
 				<div class="box">
 					<ul>
 						<li><a href="/jsp/law/newswire.jsp">Newswire</a></li>
-						<li><a href="/jsp/tal/index.jsp">Large Firm</a></li>
-						<li><a href="/jsp/cc/index.jsp">Corporate Counsel</a></li>
+						<li><a href="http://www.americanlawyer.com">Large Firm</a></li>
+						<li><a href="/corporatecounsel">Corporate Counsel</a></li>
 
 					</ul>
 					<ul>
@@ -475,8 +508,8 @@
 
 				<div class="box">
 					<ul>
-						<li><a href="/jsp/tal/index.jsp">The American Lawyer</a></li>
-						<li><a href="/jsp/cc/index.jsp">Corporate Counsel</a></li>
+						<li><a href="http://www.americanlawyer.com">The American Lawyer</a></li>
+						<li><a href="/corporatecounsel">Corporate Counsel</a></li>
 						<li><a href="/jsp/lawtechnologynews/index.jsp">Law Technology News</a></li>
 						<li><a href="/jsp/nlj/index.jsp">The National Law Journal</a></li>
 					</ul>
@@ -530,7 +563,7 @@
 						<li><a href="http://www.americanlawyer.com/amlaw100">Amlaw 100</a></li>
 						<li><a href="/jsp/nlj/PubArticleNLJ.jsp?id=1202489565842">NLJ 250</a></li>
 						<li><a href="http://www.americanlawyer.com/global100">Global 100</a></li>
-						<li><a href="/jsp/tal/PubArticleTAL.jsp?id=1202498700231">The A-List</a></li>
+						<li><a href="http://www.americanlawyer.com/PubArticleTAL.jsp?id=1202498700231">The A-List</a></li>
 					</ul>
 					<ul class="last">
 
@@ -555,26 +588,26 @@
 					</ul>
 				</div>
 			</li>		  
-			<li id="catalog"><a target="_new" href="http://www.lawcatalog.com/default.cfm?affil=2312863">LawCatalog Store</a>
+			<li id="catalog"><a target="_new" href="http://www.lawcatalog.com">LawCatalog Store</a>
 				<div class="box">
 
 					<ul>
 						<li><a href="http://www.lawjournalpress.com">Books Online</a></li>
 						<li><a href="http://www.law.com/jsp/law/bookstore.jsp">Best-Selling Books</a></li>
-						<li><a href="http://www.lawcatalog.com/listview.cfm?affil=2312864&amp;category=Books">Books</a></li>
-						<li><a href="http://www.lawcatalog.com/listview.cfm?affil=2312864&amp;category=Directories">Directories</a></li>
+						<li><a href="http://www.lawcatalog.com/Catalog/ProductType/2/Books">Books</a></li>
+						<li><a href="http://www.lawcatalog.com/Catalog/ProductType/7/Directories">Directories</a></li>
 					</ul>
 					<ul>
-
-						<li><a href="http://www.lawcatalog.com/listview.cfm?affil=2312864&amp;category=Magazines">Magazines</a></li>
-						<li><a href="http://www.lawcatalog.com/listview.cfm?affil=2312864&amp;category=newspapers">Newspapers</a></li>
-						<li><a href="http://www.lawcatalog.com/listview.cfm?affil=2312864&amp;category=newsletters">Newsletters</a></li>
+						<li><a href="http://www.lawcatalog.com/Catalog/ProductType/22/E-Newsletters">E-Newsletters</a></li>
+						<li><a href="http://www.lawcatalog.com/Catalog/ProductType/1/Magazines">Magazines</a></li>
+						<li><a href="http://www.lawcatalog.com/Catalog/ProductType/3/Newspapers">Newspapers</a></li>
+						<li><a href="http://www.lawcatalog.com/Catalog/ProductType/4/Newsletters">Newsletters</a></li>
 					</ul>
 					<ul class="last">
-						<li><a href="http://www.lawcatalog.com/listview.cfm?affil=2312864&amp;category=electronic">Electronic</a></li>
-						<li><a href="http://www.uslegalforms.com/partner/lawcatalog/?affil=236722">Forms</a></li>
-
-						<li><a href="http://www.lawcatalog.com/listview.cfm?affil=2312864&amp;category=events">Events</a></li>
+						<li><a href="http://www.lawcatalog.com/Catalog/ProductType/19/Surveys">Surveys</a></li>
+						<li><a href="http://www.lawcatalog.com/Catalog/ProductType/109/Research-Services">Research Services</a></li>
+						<li><a href="http://www.lawcatalog.com/Catalog/ProductType/20/Webinars">Webinars</a></li>
+						<li><a href="http://www.lawcatalog.com/Catalog/ProductType/8/Events">Events</a></li>
 					</ul>
 				</div>
 			</li>		  
@@ -638,7 +671,7 @@
 	<h1>Your Privacy</h1>
 <div id="utilityPage">
 
-    <p>Law.com is a division of ALM Media, LLC (“ALM”). ALM has adopted information management guidelines that define our customer and advertiser relationships. These guidelines disclose the privacy policies for law.com news, information, online seminar, classified advertising and directory Web sites, including <a href="http://www.law.com">www.law.com</a>, <a href="http://www.lawjobs.com">www.lawjobs.com</a>, and <a href="http://www.lawcatalog.com/">LawCatalog.com</a>.</p><p>Any requests to correct or clarify your personally identifying information, or requests to modify your "opt-out" preferences can be directed to:</p><p>ALM Customer Service<br>4 Metrotech 21 fl<br>Brooklyn NY 11201<br>Phone: 1-877-256-2472 <br>E-mail: <a href="mailto:customercare@alm.com?subject=Privacy - Opt-Out Preferences">customercare@alm.com</a></p><p>Please note that if you are already a registered user with law.com, you may manage your promotional e-mail preferences by "opting-out" of further e-mail contact from law.com (excepting notification of major changes to the service) directly by going to <a href="http://store.law.com/Registration/opt-out.asp">http://store.law.com/Registration/opt-out.asp</a> and following the instructions provided there.</p><p><strong>Changes to this Privacy Statement</strong></p><p>From time to time, ALM may use customer information for new purposes not previously disclosed in this privacy notice. If our information practices change at some time in the future we will post the policy changes here to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back to our Web site periodically.</p><p>&nbsp;</p><p><strong>WHAT INFORMATION DOES ALM GATHER AND/OR TRACK ABOUT YOU?</strong></p><p><strong>Personally Identifying Information</strong></p><p>Free E-Mails: When you sign-up to receive free ALM e-mail information bulletins, ALM requires that you supply your name and e-mail address.</p><p>ALM Products: When you register to receive ALM products, whether those products are free (such as the Daily Legal Newswire) or paid (such as a subscription to a Practice Center or a book purchase), ALM requires that you supply your full name, e-mail address, contact information, and a unique subscriber ID. ALM may also require demographic information (e.g., whether you are an attorney and for what type of entity you work). Customers must also agree to the Terms of Use applicable to the product for which they are registering. In some instances, we also collect credit card information to bill subscribers for premium products.</p><p><strong>Anonymous Information</strong></p><p>ALM may also gather anonymous information, which may be used by ALM or shared with third parties. This information does not personally identify you but may be helpful for improving the services we offer. Generally this information is collected through "traffic data" and may entail the use of "cookies," "IP addresses," or other numeric codes used to identify a computer.</p><p>Cookies: "Cookies" give users a special, random ID that are small text files, which are stored on the hard drive of a user's computer. ALM employs cookies to recognize you and your access privileges for certain locations on the Web site, such as the Practice Centers, as well as to track site usage. Subscribers who do not accept cookies from the Web site cannot access many areas of the Web site. ALM also uses an advertising server developed by a third party, currently DoubleClick, to display ads on the Web site. Some of these ads may contain cookies that are set by third parties (i.e., advertising agencies or advertising clients). ALM does not have access to these cookies or any information that they may contain.</p><p>IP Addresses: ALM also logs IP addresses for systems administration and troubleshooting purposes. (Your IP address indicates the location of your computer on the Internet.) ALM does not log IP addresses to track your session, nor do we link IP addresses to anything personally identifiable.</p><p>Credit Card Information: If you use a credit card to pay for an ALM product, we may retain your credit card information in order to renew your account in the event you elect to renew your subscription. When we do retain credit card information, we keep it secure and separate from other demographic information you may have given us. We do not share credit card information internally within divisions of ALM.</p><p>&nbsp;</p><p><strong>WITH WHOM DOES ALM SHARE THE INFORMATION IT GATHERS AND/OR TRACKS?</strong></p><p><strong>Personally Identifying Information</strong></p><p>ALM takes the privacy of its customers seriously. You have the ability to control how we use your personally identifying information by telling us if you wish to opt-out of certain uses of your information, as described in greater detail in the "Opting Out" provision below.</p><p>ALM may, on occasion, choose to share personally identifying information collected about subscribers with select third parties whose products or services we feel may be of interest to you. Many of our subscribers find these e-mail promotions valuable, whether they are shopping for merchandise, taking advantage of a special offer, or purchasing unique services. If you prefer not to have your personally identifying information shared with select third parties, please see the "Opting Out" provision below.</p><p>Personal information about you as an individual subscriber or registrant may be shared, regardless of your "opt-out" status, in the following instances:</p><p>Compliance with Law: ALM may release information if it is required to do so by law or in the good-faith belief that such action is necessary to: (1) comply with the law or comply with legal process served on ALM; and (2) protect and defend the legitimate business interests, rights or property of ALM, its users, advertisers, customers, sponsors, advertisers or affiliates.</p><p>Vendors: ALM may on occasion use third-party vendors to assist it in performing its business functions, such as mailing statements to subscribers, editing user lists, processing data and payments, and providing customer service. Personal information may be shared with these businesses or individuals to allow them to perform their assigned functions, but is limited to that information needed to perform the assigned function, and may not be used for any other purpose.</p><p>Organizational Changes: Should ALM undergo a sales, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation, ALM's accumulated customer information will be treated as an asset and, like other business assets, subject to transfer to or acquisition by a third party.</p><p>Customer Requests for Personal Information: Upon your request, ALM will provide you with its record of the personal information you gave us at registration. For security reasons, this information will only be sent to the e-mail address on file for the subscriber ID associated with it.</p><p>Correspondence with ALM: If you send ALM personal correspondence, such as e-mails or letters, or if other users or third parties send correspondence to ALM about your activities or postings on the Web site, ALM may collect such information into a file specific to you. All submissions become property of ALM.</p><p><strong>Anonymous Information</strong></p><p>ALM also shares the information it gathers in a compiled format with advertisers and other partners. The compiled format does not include personally identifying information.</p><p>&nbsp;</p><p><strong>WHAT DOES ALM DO WITH THE INFORMATION IT GATHERS AND/OR TRACKS?</strong></p><p>Statistical Analysis and Banner Advertising: ALM may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. ALM also uses demographic information to allow advertising banners on the Web site to be targeted to the readers for whom they are most pertinent. This means that readers will see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the user's experience and the effectiveness of the ads. In this statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form, with no personally identifiable information.</p><p>Data Security: To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to protect the information we collect online, including SSL security for credit card submissions. Detailed information about SSL is available from Netscape.</p><p>Account Maintenance: ALM may utilize the contact information you provided at registration, such as your telephone number and e-mail address, to contact you regarding account status, changes to the subscriber agreement, and to confirm registration.</p><p>Service Updates and E-Mail Promotions: Using the contact information and e-mail addresses provided at registration, ALM periodically sends promotional messages to its users about services offered by ALM and notifies users of new features or changes that may be made to these services. ALM may also elect to send promotional messages on behalf of selected third parties whose products or services we think may be of interest to you. If you prefer not to receive promotional e-mails from ALM, please see the "Opting Out" provision below.</p><p>Marketing: We may use marketing tools to help understand our customers more efficiently. When you visit our website, ALM may send cookies to your computer or other device. ALM uses the cookies to improve our services to our customers, including improving search results and tracking user trends. If you wish to opt out of such tracking, you may <a href="http://bc.law.com/optout.html" target="_blank">opt out</a> now. If you delete the opt-out cookie, or if you change computers or Web browsers, you will need to opt out again.</p><p>Advertising Networks: We may use advertising networks to help present advertisements on our sites. These advertising networks use cookies to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks to determine the characteristics and preferences of their audience. We may share certain aggregate and non-personally-identifiable information about our users in order to help them deliver more relevant advertisements through their ad networks. It identifies your professional bizographics and allows Bizo advertisers to display professionally relevant advertising on our pages. To learn more about how Bizo targets ads, visit their web site at http://www.bizo.com/business_audience/privacy_policy. The Bizographic Targeting Network (Bizo) is one such network in which we participate. If you wish to 'opt out' of the targeted advertising delivered by Bizo, please click <a href="http://www.bizo.com/business_audience/opt_out">http://www.bizo.com/business_audience/opt_out</a> to visit the Bizo opt out page.</p><p>&nbsp;</p><p><strong>THIRD PARTY PARTNERS AND LINKS TO OTHER WEB SITES</strong></p><p>ALM is not responsible for the content or the privacy policies of Web sites to which it may link. This policy applies solely to information collected by ALM.</p><p>ALM Provider Partner Products &amp; Services: While visiting the Web site, you may decide to purchase a product or service through one of our provider partners whose services are promoted or advertised on the site. If you do so, you will be acting under the guidelines of the third party provider's privacy policy, if it has one. ALM cannot make guarantees or warranties as to the nature of a third party's use of your personal information.</p><p>&nbsp;</p><p><strong>A SPECIAL NOTE ABOUT CHILDREN AND NON-U.S. USERS</strong></p><p>The Web site is directed to adults and not directed to children under the age of 13. ALM asks that minors not submit any personal information to us. ALM complies with the Children's Online Privacy Protection Act and does not permit registration by and will not knowingly collect personally identifiable information from anyone under 13.</p><p>All users, including those users who access the Web site from a country other than the U.S., agree that the laws of the State of New York shall govern any dispute, including those arising from ALM's use of personal information or otherwise relating to privacy, as specified in the <a href="/service/terms_conditions.shtml">Terms and Conditions of Use</a>.</p><p>&nbsp;</p><p><strong>OPTING-OUT, CORRECTIONS AND CANCELLATIONS</strong></p><p>If you are already a registered user with law.com, you may manage your promotional e-mail preferences by "opting-out" of further e-mail contact from law.com (excepting notification of major changes to the service) directly by going to <a href="http://store.law.com/Registration/opt-out.asp">http://store.law.com/Registration/opt-out.asp</a> and following the instructions provided there.</p><p>Upon request, we will (a) remove you and your personal information from our database, thereby canceling your registration, (b) correct personal information that you state is erroneous, (c) manage your promotional e-mail preferences for you, and/or (d) manage your preferences for sharing personally identifying information for you. Please direct your inquiry to:</p><p>ALM Customer Service<br>4 Metrotech 21 fl<br>Brooklyn NY 11201<br>Phone: 1-877-256-2472 <br>E-mail: <a href="mailto:customercare@alm.com?subject=Privacy - Database Removal">customercare@alm.com</a></p><p>You may also contact customer service by going to <a href="http://store.law.com/feedback_form.asp">http://store.law.com/feedback_form.asp</a></p><p>LAST UPDATED: September 29, 2010</p>
+    <p><strong>ALM MEDIA.</strong> This website is owned and operated by ALM Media, LLC ("ALM"), a Delaware limited liability company with offices at 120 Broadway, 5th Floor, New York, NY 10271. References to "ALM," "We," "Us" and "Our" may be construed as references to ALM and its parents, subsidiaries, or divisions, including but not limited to, ALM Media Properties, LLC and ALM Media Canada, Inc. ALM has adopted information management guidelines that define our customer and advertiser relationships. These guidelines disclose the privacy policies for this website.<br>&nbsp;</p><p><strong>Changes to this Privacy Statement</strong></p><p>From time to time, ALM may use customer information for new purposes not previously disclosed in this privacy notice. If our information practices change at some time in the future we will post the policy changes here to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back to our website periodically.</p><p><br><br><strong>WHAT INFORMATION DOES ALM GATHER AND/OR TRACK ABOUT YOU?</strong></p><p><strong>Personally Identifying Information</strong></p><p>Free E-Mails: When you sign-up to receive free ALM e-mail information bulletins, ALM requires that you supply your name and e-mail address.</p><p>ALM Products: When you register to receive ALM products, including products from CLECenter.com, whether those products are free or paid, ALM requires that you supply your full name, e-mail address, contact information, and a unique subscriber ID. ALM may also require demographic information (e.g., whether you are an attorney and for what type of entity you work). Customers must also agree to the Terms of Use applicable to the product for which they are registering. In some instances, we also collect credit card information to bill subscribers for premium products.</p><p><strong>Anonymous Information</strong></p><p>ALM may also gather anonymous information, which may be used by ALM or shared with third parties. This information does not personally identify you but may be helpful for improving the services we offer. Generally this information is collected through "traffic data" and may entail the use of "cookies," "IP addresses," or other numeric codes used to identify a computer.</p><p>Cookies: "Cookies" give users a special, random ID which are small text files, which are stored on the hard drive of a user's computer. ALM employs cookies to recognize you and your access privileges for certain locations on the Website as well as to track site usage. Subscribers who do not accept cookies from the Website cannot access many areas of the Website. ALM also uses advertising servers developed by a third party, currently DoubleClick and Real Media 24/7, to display ads on the Website. Some of these ads may contain cookies that are set by third parties (i.e., advertising agencies or advertising clients). ALM does not have access to these cookies or any information that they may contain. You may also set your browser to block all cookies, including cookies associated with our services. However, it's important to remember that many of our services may not function properly if your cookies are disabled. For example, we need our first-party cookies to log you in to read stories that require registration or a subscription. In that case, you may set your browser to block third-party cookies and allow our first-party cookies only. <br>&nbsp;</p><p>IP Addresses: ALM also logs IP addresses for systems administration and troubleshooting purposes. (Your IP address indicates the location of your computer on the Internet.) ALM does not log IP addresses to track your session, nor do we link IP addresses to anything personally identifiable.<br>&nbsp;</p><p>Credit Card Information: If you use a credit card to pay for an ALM product or CLE program, we may retain your credit card information in order to renew your account in the event you elect to renew your subscription. When we do retain credit card information, we keep it secure and separate from other demographic information you may have given us. We do not share credit card information internally within divisions of ALM.<br>&nbsp;</p><p><br><br><strong>WITH WHOM DOES ALM SHARE THE INFORMATION IT GATHERS AND/OR TRACKS?</strong></p><p><strong>Personally Identifying Information</strong></p><p>ALM takes the privacy of its customers seriously. You have the ability to control how we use your personally identifying information by telling us if you wish to opt-out of certain uses of your information, as described in greater detail in the "Opting Out" provision below.</p><p>ALM may, on occasion, choose to share personally identifying information collected about subscribers with select third parties whose products or services we feel may be of interest to you. Many of our subscribers find these e-mail promotions valuable, whether they are shopping for merchandise, taking advantage of a special offer, or purchasing unique services. If you prefer not to have your personally identifying information shared with select third parties, please see the "Opting Out" provision below. <br>&nbsp;</p><p>Personal information about you as an individual subscriber or registrant may be shared, regardless of your "opt-out" status, in the following instances:</p><p>Compliance with Law: ALM may release information if it is required to do so by law or in the good-faith belief that such action is necessary to: (1) comply with the law or comply with legal process served on ALM; and (2) protect and defend the legitimate business interests, rights or property of ALM, its users, advertisers, customers, sponsors, advertisers or affiliates.</p><p>Vendors: ALM may on occasion use third-party vendors to assist it in performing its business functions, such as mailing statements to subscribers, editing user lists, processing data and payments, and providing customer service. Personal information may be shared with these businesses or individuals to allow them to perform their assigned functions, but is limited to that information needed to perform the assigned function, and may not be used for any other purpose.</p><p>Organizational Changes: Should ALM undergo a sales, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation, ALM's accumulated customer information will be treated as an asset and, like other business assets, subject to transfer to or acquisition by a third party.</p><p>Customer Requests for Personal Information: Upon your request, ALM will provide you with its record of the personal information you gave us at registration. For security reasons, this information will only be sent to the e-mail address on file for the subscriber ID associated with it.</p><p>Correspondence with ALM: If you send ALM personal correspondence, such as e-mails or letters, or if other users or third parties send correspondence to ALM about your activities or postings on the Website, ALM may collect such information into a file specific to you. All submissions become property of ALM.<br>&nbsp;</p><p><strong>Anonymous Information</strong></p><p>ALM also shares the information it gathers in a compiled format with advertisers and other partners. The compiled format does not include personally identifying information.</p><p><br><br><strong>WHAT DOES ALM DO WITH THE INFORMATION IT GATHERS AND/OR TRACKS?</strong></p><p>Statistical Analysis and Banner Advertising: ALM may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. ALM also uses demographic information to allow advertising banners on the Website to be targeted to the readers for whom they are most pertinent. This means that readers will see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the user's experience and the effectiveness of the ads. In this statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form, with no personally identifiable information.</p><p>Data Security: To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to protect the information we collect online, including SSL security for credit card submissions. Detailed information about SSL is available from Netscape.</p><p>Account Maintenance: ALM may utilize the contact information you provided at registration, such as your telephone number and e-mail address, to contact you regarding account status, changes to the subscriber agreement, and to confirm registration.</p><p>Service Updates and E-Mail Promotions: Using the contact information and e-mail addresses provided at registration, ALM periodically sends promotional messages to its users about services offered by ALM and notifies users of new features or changes that may be made to these services. ALM may also elect to send promotional messages on behalf of selected third parties whose products or services we think may be of interest to you. If you prefer not to receive promotional e-mails from ALM, please see the "Opting Out" provision below.</p><p>Marketing: We may use marketing tools to help understand our customers more efficiently. When you visit our website, ALM may send cookies to your computer or other device. ALM uses the cookies to improve our services to our customers, including improving search results and tracking user trends. If you wish to opt out of such tracking, you may <a target="_blank" href="http://bc.law.com/optout.html">opt out</a> now. If you delete the opt-out cookie, or if you change computers or Web browsers, you will need to opt out again.</p><p>Advertising Networks: We may use advertising networks to help present advertisements on our sites. These advertising networks use cookies to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks to determine the characteristics and preferences of their audience. We may share certain aggregate and non-personally-identifiable information about our users in order to help them deliver more relevant advertisements through their ad networks. It identifies your professional bizographics and allows Bizo advertisers to display professionally relevant advertising on our pages. To learn more about how Bizo targets ads, visit their web site at <a target="_blank" href="http://www.bizo.com/business_audience/privacy_policy">http://www.bizo.com/business_audience/privacy_policy</a>. The Bizographic Targeting Network (Bizo) is one such network in which we participate. If you wish to 'opt out' of the targeted advertising delivered by Bizo, please click <a target="_blank" href="http://www.bizo.com/business_audience/opt_out">http://www.bizo.com/business_audience/opt_out</a> to visit the Bizo opt out page.</p><p><br><br><strong>THIRD PARTY PARTNERS AND LINKS TO OTHER WEBSITES</strong></p><p>ALM is not responsible for the content or the privacy policies of Websites to which it may link. This policy applies solely to information collected by ALM.</p><p>ALM Provider Partner Products &amp; Services: While visiting the Website, you may decide to purchase a product or service through one of our provider partners whose services are promoted or advertised on the site. If you do so, you will be acting under the guidelines of the third party provider's privacy policy, if it has one. ALM cannot make guarantees or warranties as to the nature of a third party's use of your personal information.</p><p><br><br><strong>A SPECIAL NOTE ABOUT CHILDREN AND NON-U.S. USERS</strong></p><p>The Website is directed to adults and not directed to children under the age of 13. ALM asks that minors not submit any personal information to us. ALM complies with the Children's Online Privacy Protection Act and does not permit registration by and will not knowingly collect personally identifiable information from anyone under 13.<br>All users, including those users who access the Website from a country other than the U.S., agree that the laws of the State of New York shall govern any dispute, including those arising from ALM's use of personal information or otherwise relating to privacy, as specified in the <a href="http://www.law.com/jsp/law/terms.jsp">Terms and Conditions of Use</a>.</p><p><br><br><strong>OPTING-OUT, CORRECTIONS AND CANCELLATIONS</strong></p><p>Email: Any recipient of email notices may opt-out of receiving them at any time. To opt-out of receiving emails, please email your request to <a href="mailto:customercare@alm.com?subject=Privacy%20-%20Database%20Removal"><u>customercare@alm.com</u></a> or follow the unsubscribe instructions included in each promotional email.<br>&nbsp;</p><p>Postal Addresses: ALM collects postal mailing address information from you so that we may fulfill the orders you submit to us and inform you of ALM programs, products and services in which you may be interested. You have the right to opt-out of receiving postal mailings from ALM. If you do not wish to receive postal mailings from ALM in the future, please send an email to <a href="mailto:customercare@alm.com?subject=Privacy%20-%20Database%20Removal"><u>customercare@alm.com</u></a>.&nbsp;ALM selectively makes our postal mailing address list available to ALM affiliates whose products or service offerings may be of interest to you. If you do not wish for us to provide your mailing information, please specify this in an email to <a href="mailto:customercare@alm.com?subject=Privacy%20-%20Database%20Removal"><u>customercare@alm.com</u></a> <br>&nbsp;</p><p>Corrections/Cancellations: If your personal information is incorrect, we will correct such information upon request. Please email your corrections to <a href="mailto:customercare@alm.com?subject=Personal%20Information%20Update"><u>customercare@alm.com</u></a>. Upon request we will cancel your registration, thereby removing you and your personal information from our database. Please direct your request to <a href="mailto:customercare@alm.com?subject=Registration%20Cancellation"><u>customercare@alm.com</u></a>.</p><p>If you would like to mail your inquiry, please direct it to:</p><p>ALM Customer Service<br>4 Metrotech 21 fl<br>Brooklyn NY 11201<br>Phone: 1-877-256-2472 <br>Email: <a href="mailto:customercare@alm.com?subject=Privacy"><u>customercare@alm.com</u></a> <br>You may also contact customer service by going to <a href="http://store.law.com/feedback_form.asp">http://store.law.com/feedback_form.asp</a></p><p>LAST UPDATED: November 13, 2012</p>
 </div>
 
 
@@ -650,6 +683,7 @@
 <h2 class="underline">More Resources</h2>
 <ul class="utilities_nav">
     <li><a href="/jsp/law/AboutLaw.jsp" class="bluelink">About Law.com »</a></li>
+    <li><a href="/jsp/law/license-agreement.jsp" class="bluelink">ALM License Agreement »</a></li>
     <li><a href="/jsp/law/advertise.jsp" class="bluelink">Advertising »</a></li>
     <li><a href="/jsp/law/contact.jsp" class="bluelink">Contact Us »</a></li>
     <li><a href="http://store.law.com/feedback_form.asp" class="bluelink">Customer Service »</a></li>
@@ -670,9 +704,7 @@
 
 <div class="clear"></div>
 
-<!-- myPage is: privacy and dczone is: home-->
-
-	<!--global footer-->
+<!--global footer-->
 	<!-- EVIDON Explicit Consent for ALM -->
 <script type="text/javascript" language="javascript" src="http://www.law.com/js/uk-evidon.js"></script>  
 
@@ -691,7 +723,7 @@
 		
 
         			<ul id="advertise_button">
-<li id="advertise"><a href="/jsp/law/advertiseOpp.jsp?p=law">ADVERTISE</a></li>        				
+<li id="advertise"><a href="http://alm.com/advertise/lawcom">ADVERTISE</a></li>        				
         			</ul>
         	</div>
             
@@ -721,7 +753,7 @@
             
             	<li><a class="footer_links" href="http://www.americanlawyer.com/index.jsp">The American Lawyer</a></li>
                 <li><a class="footer_links" href="http://www.americanlawyer.com/litigation_daily.jsp">The Am Law Litigation Daily</a></li>
-                <li><a class="footer_links" href="http://www.law.com/jsp/cc/index.jsp">Corporate Counsel</a></li>
+                <li><a class="footer_links" href="http://www.law.com/corporatecounsel">Corporate Counsel</a></li>
                 <li><a class="footer_links" href="http://www.law.com/jsp/lawtechnologynews/index.jsp">Law Technology News</a></li>
                 <li><a class="footer_links" href="http://www.law.com/jsp/nlj/index.jsp">The National Law Journal</a></li>
             </ul>
@@ -744,6 +776,8 @@
                 <li><a class="footer_links" href="http://www.gcnewyork.com">GC New York</a></li>
                 <li><a class="footer_links" href="http://www.law.com/jsp/ca/index.jsp">The Recorder (CA)</a></li>
                 <li><a class="footer_links" href="http://www.law.com/jsp/tx/index.jsp">Texas Lawyer</a></li>
+                <li><a class="footer_links" href="http://www.americanlawyer.com/asian_lawyer/index.jsp">The Asian Lawyer</a></li>
+                <li><a class="footer_links" href="http://www.americanlawyer.com/focus_europe.jsp">Focus Europe</a></li>
                               
             </ul>
     
@@ -752,7 +786,7 @@
     <div id="foot_column3">
     
     	<h3 class="kicker">directories</h3>
-					<ul class="footer_list">    <li><a class="footer_links" href="http://www.almexperts.com">ALM Experts</a></li>    <li><a class="footer_links" href="http://www.legaltechdirectory.com/">LegalTech<span class="regLaw">®</span> Directory </a></li>    <li><a class="footer_links" href="http://top500.law.com">In-House Law Departments at the Top 500 Companies</a></li>    <li><a class="footer_links" href="http://www.law.com/jsp/law/ads.jsp?p=trl_landing">Top Rated Lawyers</a></li>    <li><a class="footer_links" href="http://www.law.com/jsp/tal/topratedlawyers.jsp">The American Lawyer Top Rated Lawyers</a></li>    <li><a class="footer_links" href="http://www.law.com/jsp/cc/topratedlawyers.jsp">Corporate Counsel Top Rated Lawyers</a></li>    <li><a class="footer_links" href="http://www.nlj.com/profiles">The National Law Journal Leadership Profiles</a></li>    <li><a class="footer_links" href="http://www.minoritylawjournal.com">National Directory of Minority Attorneys</a></li></ul>
+					<ul class="footer_list">    <li><a href="http://www.almexperts.com" class="footer_links">ALM Experts</a></li>    <li><a href="http://www.legaltechdirectory.com/" class="footer_links">LegalTech<span class="regLaw">®</span> Directory </a></li>    <li><a href="http://top500.law.com" class="footer_links">In-House Law Departments at the Top 500 Companies</a></li>    <li><a href="http://www.law.com/jsp/law/ads.jsp?p=trl_landing" class="footer_links">Top Rated Lawyers</a></li>    <li><a href="http://www.americanlawyer.com/topratedlawyers/index.jsp" class="footer_links">The American Lawyer Top Rated Lawyers</a></li>    <li><a href="http://www.recruiters.amlaw.com/webonline/homeAction.action" class="footer_links">The American Lawyer Legal Recruiter's Directory</a></li>    <li><a href="http://www.law.com/jsp/cc/topratedlawyers.jsp" class="footer_links">Corporate Counsel Top Rated Lawyers</a></li>    <li><a href="http://www.nlj.com/profiles" class="footer_links">The National Law Journal Leadership Profiles</a></li>    <li><a href="http://www.minoritylawjournal.com" class="footer_links">National Directory of Minority Attorneys</a></li></ul>
 </div>
     
     <div id="foot_column4">
@@ -763,7 +797,7 @@
                 <li><a class="footer_links" href="http://law.com/jsp/law/bookstore.jsp">Best-Selling Books</a></li>
             	<li><a class="footer_links" href="http://www.law.com/jsp/law/newsletters.jsp">Publication E-Alerts</a></li>
                 <li><a class="footer_links" href="http://www.lawjournalnewsletters.com">Law Journal Newsletters</a></li>
-                <li><a class="footer_links" href="http://www.lawcatalog.com/default.cfm?affil=2312863">LawCatalog Store</a></li>
+                <li><a class="footer_links" href="http://www.lawcatalog.com">LawCatalog Store</a></li>
                 <li><a class="footer_links" href="http://www.lawjournalpress.com">Law Journal Press Online</a></li>            
             </ul> 
         
@@ -842,10 +876,11 @@
 	<a href="http://www.law.com/jsp/law/contact.jsp">Customer Support</a> &nbsp;|&nbsp; 
 	<a href="http://www.law.com/jsp/reprints/index.jsp">Reprints</a> &nbsp;|&nbsp;	
 	<a href="http://www.law.com/jsp/law/privacy.jsp">Privacy Policy</a> &nbsp;|&nbsp;	 
-	<a href="http://www.law.com/jsp/law/terms.jsp">Terms &amp; Conditions</a>
+	<a href="http://www.law.com/jsp/law/terms.jsp">Terms &amp; Conditions</a>&nbsp;|&nbsp;
+	<a href="http://www.law.com/jsp/law/license-agreement.jsp">ALM User License Agreement</a>
 	<div class="copyright"><script language="JavaScript" src="http://www.law.com/global/copyright.js"></script><noscript>Copyright 2012. ALM Media Properties, LLC. All rights reserved.</noscript></div>
-  </div><!-- /myclass -->
-  <a href="http://www.alm.com/"><img src="http://www.law.com/img/universal/alm_footer_logo2009.gif" border="0"></a>
+  </div>
+  <a href="http://www.alm.com/"><img src="http://www.law.com/img/universal/alm_footer_logo.gif" border="0"></a>
 
 
 </div>
@@ -870,40 +905,7 @@
 	</script><script src="https://sjs.bizographics.com/convert_data.js?partner_id=437" type="text/javascript"></script>
 </div> <!--end wrapper -->
 
-
-
-
-<!-- 
- setIASiteCode: LAW
- dcsite: alm.law.com
- dczone: home
- dcptype: 21
- 
- -->
-
-  <!-- INTERSTITIAL AD SECTION -->
-  <div id="interstitialAdContainer" class="domHidden">
-     <!-- This is the close button that appears over generated/visible ads -->
-     <div id="IAHideButtonBlock" class="domHidden">
-        <a id="IAHideButton" class="domHidden" href="javascript:disappear();">Close [ X ]</a>
-     </div> <!-- end IAHideButtonBlock -->
-
-     <script type="text/javascript">
-        setIASiteCode( "LAW" );
-	if ( userHasNotSeenAd() ) {
-		if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
-			showAd = false;
-		}
-		else {
-              showAd = true;
-              
-              document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/alm.law.com/home;pos=500a;ptype=45;tile=20;sz=500x300"></scr'+'ipt>');
-	
-		}
-	}
-     </script>
-  </div> <!-- end interstitialAdContainer -->
-  <!-- END INTERSTITIAL AD -->
+<!-- Interstitial ad moved to TOP -->
 
 <!-- Marketo Tracking -->
 <script type="text/javascript">
