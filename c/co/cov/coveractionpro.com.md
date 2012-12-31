@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coveractionpro.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232745id_/http%3A//www.coveractionpro.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveractionpro.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010931id_/http%3A//www.coveractionpro.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cover Action Pro - Privacy Policy
 
@@ -60,8 +60,9 @@ This policy was last modified on 08.20.09
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-CoverActionPro.com  
-2575 Campus Drive #336  
-Klamath Falls, OR 97601 USA  
-info@coveractionpro.com  
-541-884-3126
+Actionstock LLC.  
+1750 Delta Waters Rd  
+STE 102-330   
+Medford, OR 97504  
+United States  
+
