@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tonightsgirlfriend.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405162739id_/http%3A//www.tonightsgirlfriend.com/index.php%3F%26m%3Dmisc%26s%3Dprivacy%26nats%3D4.4.58.80.2.0.0.0.0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonightsgirlfriend.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231073624id_/http%3A//www.tonightsgirlfriend.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Tonight's Girlfriend
+# Privacy Policy
 
 **LA TOURAINE, INC. WEBSITE PRIVACY POLICY**
 
-Effective Date: December 26, 2010
+Effective Date: August 9th, 2011
 
 **I.INTRODUCTION**
 
-A.La Touraine, Inc. ("us," "we," or "Company") is committed to respecting the privacy rights of its members, visitors, and all users of TonightsGirlfriend.com (the "Site"). We created this La Touraine, Inc. Website Privacy Policy (the "Privacy Policy") to give you confidence as you visit and use the Site and to demonstrate our commitment to fair information practices and protection of your privacy. The Privacy Policy will explain the information we routinely collect during the operation of the Site and how we utilize it to maximize your experience.
+A.La Touraine, Inc. ("us," "we," or "Company") is committed to respecting the privacy rights of its members, visitors, and all users of tonightsgirlfriend.com (the "Site"). We created this La Touraine, Inc. Website Privacy Policy (the "Privacy Policy") to give you confidence as you visit and use the Site and to demonstrate our commitment to fair information practices and protection of your privacy. The Privacy Policy will explain the information we routinely collect during the operation of the Site and how we utilize it to maximize your experience.
 
 B.The Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, or use practices and policies that differ materially from this Privacy Policy. Your selection of an ad banner or link may redirect you from the Site to a third party website. Company has no control over and no liability for any third party websites, materials, or for the privacy practices of any such third party website. You should direct any concerns regarding any external link to the third party site's administrator or webmaster.
 
@@ -50,7 +50,7 @@ A.COMPANY USE OF INFORMATION.
 
 B.SHARING PERSONAL INFORMATION.
 
-1)1) We share certain categories of information we collect from you in the ways described in this Privacy Policy. We share Demographic Data with advertisers and other third parties only on an aggregate basis whereby you are not personally identifiable. We share Contact Data with other companies who may want to send you information about their products or services, unless you have specifically requested that we not share Contact Data with such companies. We also share Contact Data and Financial Data with our business associates, including the Processing Agent, who assist us by performing core services including without limitation hosting, billing, transaction processing, fulfillment, or data storage and security related to the operation of the Site.
+1)We share certain categories of information we collect from you in the ways described in this Privacy Policy. We share Demographic Data with advertisers and other third parties only on an aggregate basis whereby you are not personally identifiable. We share Contact Data with other companies who may want to send you information about their products or services, unless you have specifically requested that we not share Contact Data with such companies. We also share Contact Data and Financial Data with our business associates, including the Processing Agent, who assist us by performing core services including without limitation hosting, billing, transaction processing, fulfillment, or data storage and security related to the operation of the Site.
 
 2)If you do not want us to share your Contact Data with any third parties, please email us at [policies@tonightsgirlfriend.com](mailto:policies@tonightsgirlfriend.com) or select the "opt-out" box on our online forms, but please understand that such a request will likely limit your ability to take advantage of all of the features and services we offer on the Site.
 
@@ -70,12 +70,12 @@ Unfortunately, Company does not maintain any procedures for you to review or req
 
 C.LOST OR STOLEN INFORMATION.
 
-You must promptly notify us if your credit card, user name, or password is lost, stolen, or used without your permission through the procedure provided in the [Terms of Service](http://www.tonightsgirlfriend.com/index.php?&m=misc&s=tos).
+You must promptly notify us if your credit card, user name, or password is lost, stolen, or used without your permission through the procedure provided in the [Terms of Service](http://www.tonightsgirlfriend.com/terms-of-service.html).
 
 **V.UPDATES AND CHANGES TO PRIVACY POLICY**
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. Specifically, in the event that Company elects to share Cookies information in the future, you will be notified via an update to this Privacy Policy or notice posted to the Site and at that time have the option to cease using the Site and/or terminate your membership. Your continued use of the Site after receiving such notice indicates your agreement to the sharing of Cookies information.
 
-All membership questions can be answered by submitting a ticket to: <http://www.tonightsgirlfriend.com/support>.
+All membership questions can be answered by submitting a ticket to: [http://support.tonightsgirlfriend.com](http://support.tonightsgirlfriend.com/).
 
 If you have any questions about this Privacy Policy, our practices related to this Site, or if you would like to have us remove your information from our database, please feel free to contact us at the following email address: [policies@tonightsgirlfriend.com](mailto:policies@tonightsgirlfriend.com) .
