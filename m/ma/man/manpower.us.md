@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manpower.us privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503181204id_/http%3A//www.manpower.us/PageShares/Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpower.us privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231195839id_/http%3A//www.manpower.us/PageShares/Footer/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
