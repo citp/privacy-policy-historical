@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509195553id_/http%3A//www.dallasobserver.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231033123id_/http%3A//www.dallasobserver.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Dallas Privacy Policy
 
