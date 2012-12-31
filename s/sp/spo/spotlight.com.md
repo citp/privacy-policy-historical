@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627103115id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231093745id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Spotlight - professional acting jobs and auditions since 1927
 
@@ -88,13 +88,13 @@ We will not sell, distribute or lease your personal information to third parties
 
 A cookie is a piece of information that is stored on your computer's hard drive by your web browser. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. Most web browsers allow control over these cookies through the browser settings.
 
-If you are a Spotlight Member or subscriber some cookies are vital to your effective usage of our Internet services; we use these to identify members/subscribers, manage secure logins and authentication status, remember website preferences and also to ensure secure renewals and payments can be made.Therefore if you choose to disable these cookies you will not be able to use Spotlight Interactive.
+If you are a Spotlight Member or subscriber some cookies are vital to your effective usage of our Internet services; we use these to identify members/subscribers, manage secure logins and authentication status, remember website preferences and also to ensure secure renewals and payments can be made. Therefore if you choose to disable these cookies you will not be able to use Spotlight Interactive.
 
-Spotlight also uses cookies (including third party cookies set by Google Analytics and Twitter) to track and analyse visits to our website; with the aim of constantly improving our website services, and ensuring that we are adequately supporting the growing number of visitors to our site.
+Spotlight also uses cookies to track and analyse visits to our website and the use of video and audio material, with the aim of constantly improving our website services and ensuring that we are adequately supporting the growing number of visitors to our site. These include third party cookies set by Google Analytics, Twitter and Brightcove, our video and audio service provider.
 
 Cookies from third parties may also be used by Spotlight to help us understand how our visitors engage with the website and to determine the number of people who click on an advertisement and subsequently buy our services. To gather this information Spotlight uses Google Analytics and Google AdWords. For more information on how Google uses cookies for analytics and conversion tracking visit [Google's Advertising and Privacy information pages](http://www.google.co.uk/privacy_ads.html "Google's Advertising and Privacy information pages").
 
-Some website links for third party service providers are embedded on our site (for example, our event booking provider). Spotlight does not control the dissemination of cookies from such sites and you should check the relevant third party website for more information on their use of cookies.
+Some website links for third party service providers are embedded on our site (for example, our event booking provider and on our news pages). Spotlight does not control the dissemination of cookies from such sites and you should check the relevant third party website for more information on their use of cookies.
 
 To see a comprehensive list of the cookies used on the Spotlight website, and their purpose, please [click here](https://web.archive.org/aboutus/privacy/CookiesTable.html "Spotlight Cookies Table").
 
