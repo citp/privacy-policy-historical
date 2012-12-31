@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the getlisted.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505085703id_/http%3A//getlisted.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlisted.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231065522id_/http%3A//getlisted.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GetListed.org
 
-_Effective January 6, 2012  
-_View [Original Privacy Policy](http://getlisted.org/Privacy_2009.aspx) / Updates are _italicized_ below 
+_Effective December 4, 2012  
+_View [Original Privacy Policy](http://getlisted.org/Privacy_2012.aspx) / Updates are _italicized_ below 
 
 **What information do we collect?**
 
@@ -15,7 +15,7 @@ Address
 Phone number   
 Email Address  
 Website Address  
-_IP address_
+IP address 
 
 
 
@@ -23,8 +23,8 @@ _IP address_
 
   * Any of the information we collect from you may be used in one of the following ways: 
     * To personalize your experience (your information helps us to better respond to your individual needs)
-    * To perform searches on Google, Yahoo, Best of the Web, Bing, and other search engines for the specific business information you entered 
-  * At no time do we transmit your information to any website or other data provider without your knowledge. 
+    * To perform searches on Google, Yahoo, Best of the Web, Bing, _business listing sites such Localeze and Infogroup,_ and other search engines for the specific business information you entered
+    * _We do not sell your information_
 
 
 
@@ -34,14 +34,16 @@ We implement a variety of security measures to maintain the safety of your perso
 
 **Do we use cookies?**
 
-  * Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+  * Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
   * We use cookies to understand and save your preferences for future visits.
+  * _We also partner with third parties, such as Infogroup and Localeze to verify and update your listing information. We may share information with them to provide you a more personalized experience._
 
 
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.  
+_We do not sell or trade your personally identifiable information to outside parties._ This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. 
 
 **Third party links**
 
@@ -78,7 +80,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 [GetListed.org](http://getlisted.org/)  
-_1400 NW Irving Street, Suite 111_  
-Portland, OR 97209  
+_119 Pine Street, Suite 400_  
+_Seattle, WA 98101_  
 USA  
 [ask@getlisted.org](mailto:ask@getlisted.org)
