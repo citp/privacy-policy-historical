@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630094550id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231022141id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com Privacy Statement
 
@@ -7,21 +7,9 @@
   
 [](https://web.archive.org/articles/feature.php?article-id=480) [](https://web.archive.org/product/store.php)  
 ---  
-| 6/22 [F104 Version II Detailed Overview](https://web.archive.org/articles/feature.php?article-id=613) |   
-| 6/19 [Thinning Tamiya Paints](https://web.archive.org/articles/feature.php?article-id=606) |   
-| 6/5 [Builder Showcase #79](https://web.archive.org/articles/feature.php?article-id=612) |   
+| 12/27 [Annual Inventory](https://web.archive.org/articles/feature.php?article-id=593) |   
+| 12/5 [Builder Showcase #85](https://web.archive.org/articles/feature.php?article-id=629) |   
 [More News...](https://web.archive.org/news/index.php) |   
-|   
-  
----|---  
----  
-|  Jul 22  |   
-|  [TCS Race #175 - Jackson, NJ ](https://web.archive.org/tcs/schedule.php) |   
-|  Jul 29  |   
-|  [TCS Race #176 - Lynnwood, WA ](https://web.archive.org/tcs/schedule.php) |   
-|  Oct 13-14  |   
-|  [High Voltage R/C Monster Truck Championships - Cleveland, OH ](https://web.archive.org/articles/feature.php?article-id=609) |   
-[Past Events...](https://web.archive.org/events/event_list.php) |   
 [](https://web.archive.org/product/rcpss.php)[](https://web.archive.org/articles/feature.php?article-id=3)[](https://web.archive.org/product/category.php?sub-id=79000)[](https://web.archive.org/product/stuff.php)[](https://web.archive.org/product/category.php?sub-id=78500)[](https://web.archive.org/articles/feature.php?article-id=144)[](https://web.archive.org/dealers/index.php)[](https://web.archive.org/tcs/index.php)
 
 | Privacy Statement  
