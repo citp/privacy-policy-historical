@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623175034id_/http%3A//www.dotwnews.com/page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231232513id_/http%3A//www.dotwnews.com/page/privacy-statement) for the most accurate reproduction.*
 
 # DOTWNews.com - Privacy statement
 
@@ -45,3 +45,23 @@ Destinations of the World News will occasionally update this Statement of Privac
 Contact Information
 
 Destinations of the World News welcomes your comments regarding this Statement of Privacy. If you believe that Destinations of the World News has not adhered to this Statement, please contact Destinations of the World News at [nicci@dotwnews.com](mailto:salimah@wnnlimited.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+
+Two medieval skeletons with metal rods piercing their ... 
+
+Two men were arrested at Dubai International Airport ... 
+
+Two women are dead and two children in critical ... 
+
+A Qantas pilot was ordered to leave the flight deck ... 
+
+Text of report published by Thailand-based Burmese ... 
+
+By Year End Special, Khaleej Times, Dubai, United Arab ... 
+
+By Tomoko Otake, Japan Times, Tokyo Dec. 30--Some, ... 
+
+By Amanda Fisher, Khaleej Times, Dubai, United Arab ... 
+
+[ ](https://web.archive.org/subcategory/suite-dreams)
+
+[ ](https://web.archive.org/page/competition)
