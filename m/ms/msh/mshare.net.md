@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mshare.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623165113id_/http%3A//www.mshare.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mshare.net privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231184231id_/https%3A//www.mshare.net/privacy-policy) for the most accurate reproduction.*
 
 # Mindshare Privacy Policy
 
-**Mindshare Privacy Policy** ****
+Mindshare Privacy Policy
 
 **Mindshare Technologies, Inc.**
 
@@ -10,13 +10,17 @@ This policy statement discloses the information practices of **Mindshare Technol
 
 Your privacy is important to you and to us.  We are committed to respecting your privacy.  The following policy was created in order to comply with both the Privacy Act (1974) and the Personal Information Protection and Electronic Documents Act (PIPEDA) and any other relevant legislation.  To the extent there is additional protection afforded to you pursuant to the law, which is not set forth herein, Mindshare agrees to take such measures to give full effect to such additional protection.  Mindshare respects the privacy of each individual with which it comes into contact.
 
+**Safe Harbor-compliant Affirmative Commitment**
+
+Mindshare complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Mindshare has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mindshare's certification, please visit <http://www.export.gov/safeharbor/>
+
 **Mindshare’s Clients and how this relates to your privacy**
 
 Mindshare acts as a SaaS Provider (“Software as a Service”) for companies conducting data collection activities via telephone, the Internet, text messaging, comment cards, mystery shopping, internal audits and other data collection methods.  Following collection, the information is analyzed and reported on.  These activities are primarily targeting customer and employee satisfaction issues, but may also include market, product, and service research, as well as other types of research.  Surveys and data collection may be hosted and accessible on Mindshare’s ASP Hosting site, or on our clients’ own hosting sites.  Reports are processed and printed each day that may provide our clients with your Personal Information for the purpose of improving their operations and/or contacting you to follow up on your service experience, and/or the information you provided.  Be aware that Mindshare’s Clients have full access to the data, and therefore bear full responsibility for usage of that data.  In such cases, please refer to the privacy policy of the Mindshare client who invited you to provide information and feedback.
 
 **What is Personal Information?**
 
-Personal Information is information about an identifiable individual.  It may include your full name, address, zip code, telephone number, date of birth, email address, demographic/classification information (e.g. education or age), and any other information that identifies who you are or would allow someone to contact you.  It also may include client program membership or loyalty numbers. Your contact information may be used as required to follow up on your feedback so you can be contacted by client employees or representatives.  Personal Information only becomes known toMindshare when you voluntarily provide it to us, or it is provided to Mindshare by the Mindshare client that invited you to take a survey.
+Personal Information is information about an identifiable individual.  It may include your full name, address, zip code, telephone number, date of birth, email address, demographic/classification information (e.g. education or age), and any other information that identifies who you are or would allow someone to contact you.  It also may include client program membership or loyalty numbers. Your contact information may be used as required to follow up on your feedback so you can be contacted by client employees or representatives.  Personal Information only becomes known to Mindshare when you voluntarily provide it to us, or it is provided to Mindshare by the Mindshare client that invited you to take a survey.
 
 **Collection and Use of Personal Information**
 
