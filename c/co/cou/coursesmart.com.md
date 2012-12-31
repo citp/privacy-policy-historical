@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514051547id_/http%3A//www.coursesmart.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231135702id_/http%3A//www.coursesmart.com/privacypolicy) for the most accurate reproduction.*
 
 # CourseSmart - Privacy Policy
 
@@ -23,6 +23,10 @@ We also may collect the foregoing Personally Identifying Information about you f
 We will not send you marketing communications unless you have opted-in to receiving them. We may also collect information about you and your use of our Site and the CourseSmart Service through your use of our Site and the CourseSmart Service. You are able to opt-in to receiving marketing communications from CourseSmart by signing in to the account you created, or in the instance of faculty, the account that was created for you by one of our publisher affiliates, and checking the box found in the Account Preferences section.
 
 CourseSmart uses this Personally Identifying Information to serve your needs as well as our own legitimate business purposes. We may use your Personally Identifying Information to help us improve our Site, to allow users to read their notes and make new notes within the mobile application, or for CourseSmart's marketing and promotional purposes (for example, to send email announcements of new products in the CourseSmart Service) or to track user movement and activity with regard to use of the CourseSmart Service. We may also use Personally Identifying Information to verify your authority to enter our Site, improve the content and general administration of the Site and the CourseSmart Service, provide you with notice regarding goods and services that you have purchased or may wish to purchase in the future, provide you with notices about other users of our Site and for targeted advertising.
+
+For student and faculty accounts that originate through a CourseSmart integration, your Personally Identifiable Information and account activity may be shared back to the institution to support service improvements.
+
+If you do not want your Personally Identifiable Information shared, please opt–out by emailing [opt-out@coursesmart.com](mailto:opt-out@coursesmart.com "opt-out@coursesmart.com") with the subject line "Unsubscribe." In the body of the email, please include your first and last name, the college or university you attend and your college email address.
 
 ### Targeted Advertising
 
@@ -112,7 +116,7 @@ Due to the Internet's rapidly evolving nature, CourseSmart may need to update th
 
 We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-This Privacy Policy was last updated: May 1, 2012
+This Privacy Policy was last updated: December 13, 2012
   *[eTextbook]: electronic textbook
   *[eResource]: electronic resource
   *[eTextbooks]: electronic textbooks
