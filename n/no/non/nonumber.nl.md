@@ -1,43 +1,23 @@
-> *The following text is extracted and transformed from the nonumber.nl privacy policy that was archived on 2012-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120328114920id_/http%3A//www.nonumber.nl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonumber.nl privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231050550id_/http%3A//www.nonumber.nl/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NoNumber! | Joomla! Extensions Directory
+# Privacy policy - NoNumber
 
-Joomla!® Websites & Extensions  
-development  -  support  -  consultancy
+## Privacy policy
 
-[](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=peter%40nonumber%2enl&lc=US&no_shipping=2&currency_code=EUR&an=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted&item_name=Donation%20for%20NoNumber%21)
+This privacy policy sets out how NoNumber uses and protects any information that you give NoNumber when you use this website. When visiting www.nonumber.nl the site records on behalf of NoNumber customer data for internal record keeping. NoNumber may use the information to improve our products and services.
 
-We want to protect your privacy. In order to operate, NoNumber.nl may gather information about you. These terms explain how this may happen, what we will do with any potentially private data and how you can get in contact should you have any concerns.
+_**We will never share your details with any third parties.**_
 
-### Personally Identifiable Information Collected
+NoNumber is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Personal identifiable information is information that allows you to be identified as a particular person, such as your name, your address or phone number. We collect certain types of personal information when you register. The only information we collect for registration is:
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-  * Your name
-  * Your email address 
+If you don’t want to receive information about activities, new products and services from NoNumber, there is the option of securing your personal details. You can also at any time withdraw your permission to use your email address or details. You’ll also find in every send newsletter of NoNumber or Joomla! Virtuemart iDEAL a unsubscribe link that you can click to indicate that you don’t want the information.
 
+## Disclaimer
 
+While NoNumber makes every effort to ensure that the content of this website is accurate, the website is provided 'as is' and NoNumber makes no representations or warranties in relation to the accuracy or completeness of the information found on it. While the content of www.nonumber.nl is provided with the utmost care and attention, we do not warrant that the information will always be up to date, be true and not misleading, or that this site will always (or ever) be available for use.
 
-Other information can be supplied after registration but it is not needed to join the site and is also covered by this Privacy Policy. Information we collect **will not** be given or sold to any third parties.
+We do not warrant that the servers that make this website available will be error, virus or bug free and you accept that it is your responsibility to make adequate provision for protection against such threats. We recommend scanning any files before downloading.
 
-### Cookies & Web Beacons
-
-NoNumber.nl, its advertisers or analytics partners may send a cookie to your computer or use web beacons to gather statistical information. 
-
-A cookie does not personally identify you. It is simply a way to know that a particular web browser was used to visit our sites. 
-
-A web beacon does not personally identify you. It is simply a way to automatically send information about pages and content used to an analysis tool. 
-
-Cookies and web beacons allows us to understand things such as whether a particular web browser is spending much time on our sites, visiting several times per month and other types of analysis. 
-
-If you never provide us with personally identifiable information, then your visits - despite us using cookies or web beacons - are anonymous. We don't know the actual person linked with the cookie. 
-
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our sites, should you so choose. If you do encounter a problem, please let us know.
-
-### Policy Changes, Questions & Comments
-
-We'll post changes to this policy on this page. Questions about this policy should be emailed via [the contact form or my email address](http://www.nonumber.nl/contact).
-
-[](http://tracking.maxcdn.com/c/11281/3967/378)
-
-[](http://www.ostraining.com/idevaffiliate/idevaffiliate.php?id=125_2_1_6)
+Nothing on this website should be taken to constitute professional advice or a formal recommendation and we exclude all representations and warranties relating to the content and use of this site. In no event will NoNumber be liable for any incidental, indirect, consequential or special damages of any kind, or any damages whatsoever, including, without limitation, those resulting from loss of profit, loss of contracts, goodwill, data, information, income, anticipated savings or business relationships, whether or not advised of the possibility of such damage, arising out of or in connection with the use of this website or any linked websites.
