@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcu.ie privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628191259id_/http%3A//www.dcu.ie/info/regulations/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcu.ie privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231052640id_/http%3A//www.dcu.ie/info/regulations/privacy.shtml) for the most accurate reproduction.*
 
 # Information - Dublin City University Privacy Statement | DCU
 
@@ -6,7 +6,7 @@ This statement relates to Dublin City University's privacy practices in connecti
 
 ### General statement
 
-Dublin City University fully respects your right to privacy and actively seeks to preserve the privacy rights of those who share information with the University. The University will not collect any personal information about you on this website without your permission save in cases where the University is required by law to do so (e.g. the investigation of a criminal offence or a breach of the University's policies, procedures or guidelines). Any personal information which you volunteer to the University will be treated with the highest standards of security and confidentiality, in accordance with the Data Protection Act 1988 and Data Protection (Amendment) Act 2003. The University's Data Privacy Policy which documents the University's application of the Data Protection Principles and the manner in which data is processed organisation-wide is available at: <http://www.dcu.ie/info/regulations/data_protection.shtml>
+Dublin City University fully respects your right to privacy and actively seeks to preserve the privacy rights of those who share information with the University. The University will not collect any personal information about you on this website without your permission save in cases where the University is required by law to do so (e.g. the investigation of a criminal offence or a breach of the University's policies, procedures or guidelines). Any personal information which you volunteer to the University will be treated with the highest standards of security and confidentiality, in accordance with the Data Protection Act 1988 and Data Protection (Amendment) Act 2003. The University's Data Privacy Policy which documents the University's application of the Data Protection Principles and the manner in which data is processed organisation-wide is available at: <http://www4.dcu.ie/sites/default/files/iss/pdfs/DCU_Data_Protection_Policy.pdf>
 
 ### Collection and use of personal information
 
@@ -14,7 +14,7 @@ Dublin City University does not collect any personal data about you on this webs
 
 ### Collection and use of technical information
 
-_[Cookies](https://web.archive.org/web/20120628191259id_/http%3A//www.dcu.ie/info/regulations/cookies.shtml)_
+_[Cookies](https://web.archive.org/web/20121231052640id_/http%3A//www.dcu.ie/info/regulations/cookies.shtml)_
 
 may be used by the DCU website to collect non-personal information about how visitors use our website or to remember display preferences.  Temporary session cookies may also be used in some areas to enable specific functionality (e.g. portal pages).  Session cookies are deleted once you close your browser session. 
 
