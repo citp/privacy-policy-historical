@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the economictimes.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630215227id_/http%3A//www.indiatimes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economictimes.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231190927id_/http%3A//www.indiatimes.com/privacypolicy) for the most accurate reproduction.*
 
-# Indiatimes.com
+# Indiatimes: India News, Business, Movies, Cricket, Shopping, more...
 
 Times Internet Ltd, (TIL) a wholly owned subsidiary of Bennett Coleman & Co. Limited. Indiatimes located at [in.indiatimes.com](http://in.indiatimes.com/) is the mother brand of TIL and powers / manages the Online Properties (Brand Names) of the 'Times Group' interalia [www.timesofindia.com](http://www.timesofindia.com/), [www.economictimes.com](http://www.economictimes.com/), [www.navbharattimes.com](http://www.navbharattimes.com/), [www.maharashtratimes.com](http://www.maharashtratimes.com/) including various internet sites and community boards and services, to name a few, (Indiatimes Channels) hereinafter collectively referred to as TIL. 
 
@@ -8,7 +8,7 @@ TIL respects the privacy of it's users and is committed to protect it in all res
 
 By using TIL’s website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer. 
 
-USER INFORMATION 
+USER INFORMATION
 
 To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. In some sites as in Indiatimes Contests, dating etc. we require your contact addresses. 
 
@@ -18,15 +18,9 @@ Such information will not be considered as sensitive if it is freely available a
 
 COOKIES 
 
-To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. 
-
-Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. 
-
-LINK TO THIRD PARTY SITES 
-
 TIL includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
 
-When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TIL, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you. 
+Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. 
 
 INFORMATION SHARING 
 
@@ -63,5 +57,3 @@ We request you to please provide the following information in your complaint:-
 (e) A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be.   
 (f) A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.   
 
-
-﻿﻿ 
