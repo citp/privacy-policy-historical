@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saddlebackleather.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230030621id_/http%3A//www.saddlebackleather.com/35-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saddlebackleather.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231173412id_/http%3A//www.saddlebackleather.com/s.nl/c.1265306/it.I/id.13/.f) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@ Nobody ever sees your email or physical addresses except for Saddleback.  We do
 
 We can be reached by telephone at 210.858.5210
 
-To request our postal address, please call or [email us](https://web.archive.org/contact).
+To request our postal address, please [contact us](https://web.archive.org/Contact-Us.html).
 
 Information we collect and how it's used:
 
@@ -19,7 +19,7 @@ Saddleback also collects e-mail addresses voluntarily to inform our customers th
 For their protection, we ask that children do not submit information to us without the consent of a parent or guardian.
 
 **Secure Shopping**  
-We use Global as our SSL (Secure Socket Layer) digital certificate provider, providing our customers the strongest certificate services available. Your credit card information is encrypted while traveling the Internet.
+We use VeriSign as our SSL (Secure Socket Layer) digital certificate provider, providing our customers the strongest certificate services available. Your credit card information is encrypted while traveling the Internet.
 
 **Need to make a change?**  
-If you would like to change any of your transactional information in our database please feel free to [contact us](https://web.archive.org/contact). You'll also find our phone number at the top of this page.
+If you would like to change any of your transactional information in our database please feel free to [contact us](https://web.archive.org/Contact-Us.html).
