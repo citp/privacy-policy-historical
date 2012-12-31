@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boku.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607044414id_/http%3A//www.boku.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boku.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231170422id_/http%3A//www.boku.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.boku.com/wp-content/uploads/truste_seal_ctv.gif "truste_seal_ctv")
+[](https://privacy.truste.com/privacy-seal/Boku-Inc-/validation?rid=23016465-fac8-4ed6-8a21-bb66c52459fa "TRUSTe European Safe Harbor certification")
 
-Last Updated: March 29, 2012
+Last Updated: November 6, 2012
 
 Boku, Inc. (for itself, and on behalf of its subsidiaries and affiliated entities, “Boku”) is committed to respecting and protecting your privacy. We value your trust and want you to understand how we protect, collect, use and disclose the personal information you share with us.
 
