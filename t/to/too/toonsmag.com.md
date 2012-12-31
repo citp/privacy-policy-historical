@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toonsmag.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627221856id_/http%3A//www.toonsmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonsmag.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231204058id_/http%3A//www.toonsmag.com/privacy) for the most accurate reproduction.*
 
 # tOOns MaG | Privacy Policy
 
@@ -53,4 +53,4 @@ If a visitor’s personally identifiable information changes (such as zip code, 
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our visitors are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-If, however, we are going to use visitors’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our web site for 30 days.
+If, however, we are going to use visitors’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our web site for 30 days. 
