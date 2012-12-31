@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainnamenews.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508080805id_/http%3A//www.domainnamenews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainnamenews.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231053137id_/http%3A//www.domainnamenews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Domain Name News (DNN)
 
