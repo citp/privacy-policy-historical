@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fashionsalade.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625215845id_/http%3A//www.fashionsalade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionsalade.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231131617id_/http%3A//www.fashionsalade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fashion Salade
 
-The following constitutes the Privacy Policy adopted by The New Streeters Publishing Ltd. with respect to its website and any ancillary websites or ancillary services operated by the magazine (collectively referred to in this Privacy Policy as the “Site“). This Privacy Policy is a part of the [](http://www.fashionsalade.com/terms-of-use/ "View Terms of Use")[Terms of Use](http://www.fashionsalade.com/terms-of-use/ "Terms of Use") that govern your use of the Site.
+The following constitutes the Privacy Policy adopted by The New Streeters Publishing Ltd. with respect to its website and any ancillary websites or ancillary services operated by the magazine (collectively referred to in this Privacy Policy as the “Site“). This Privacy Policy is a part of the [Terms of Use](http://www.fashionsalade.com/terms-of-use/ "View Terms of Use") that govern your use of the Site.
 
 **Changes**
 
@@ -10,7 +10,7 @@ The Privacy Policy may change from time to time without notice to you. You shoul
 
 Although we will endeavor to require third-party content providers and other parties to adhere to our policies, we are not responsible for any actions or policies of any third parties or for the information practices of any third-party sites to which links may be provided in the Site.
 
-**[Collection](http://www.fashionsalade.com/tag/collection/ "Collection") of Information**
+**Collection of Information**
 
 In various ways we collect information that is volunteered by visitors to our site. Certain identifying information, such as name, street address, city, state, zip code and email address, is gathered at certain interactive areas on the site, such as when you subscribe to our print or digital publication while online. Wherever possible and practical, we give users options about submitting information.
 
@@ -60,7 +60,7 @@ You should be aware that whenever you voluntarily disclose any information onlin
 
 **Updating, Correcting, Deleting or Restricting Personal Information**
 
-If you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us. You can also [contact us](http://www.fashionsalade.com/contact-us/ "contact us") if you wish to review and/or correct your personally identifiable information.
+If you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us. You can also contact us if you wish to review and/or correct your personally identifiable information.
 
 **Contact**
 
@@ -77,3 +77,7 @@ The New Streeters Publishing Ltd.
 EC1V APY, London
 
 For the additional legal obligations that apply to your use of the Site, please see the [Terms of Use](http://www.fashionsalade.com/terms/ "View Terms of Use")
+
+[](http://www.tumblr.com/share "Share on Tumblr")
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.fashionsalade.com%2Fprivacy-policy%2F&media=&description=Privacy+Policy)
