@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the thevillablog.co.uk privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620074215id_/http%3A//www.thevillablog.co.uk/villa-blog/park/privacy-policy-for-thevillablogcouk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevillablog.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231044803id_/http%3A//www.thevillablog.co.uk/villa-blog/park/privacy-policy-for-thevillablogcouk) for the most accurate reproduction.*
 
-# The Villa Blog Privacy Policy | Aston Villa Blog
+# Aston Villa Blog - Privacy Policy for thevillablog.co.uk
+
+##  [ Privacy Policy for thevillablog.co.uk](http://www.thevillablog.co.uk/villa-blog/park/privacy-policy-for-thevillablogcouk/)
+
+Details
+     Created on Wednesday, 19 August 2009 13:34 
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit thevillablog.co.uk, and how we safeguard your information. We never sell your personal information to third parties. 
 
