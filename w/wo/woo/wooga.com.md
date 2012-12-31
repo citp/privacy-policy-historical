@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wooga.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618090643id_/http%3A//www.wooga.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wooga.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231151445id_/http%3A//www.wooga.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wooga
 
@@ -14,7 +14,7 @@ The company responsible is _Wooga GmbH_ (” _Wooga_ ”, “we”, “our”). 
 
 _Wooga_ provides games and related services that can be used with friends or in a social network. Users share, sample and design games with other people – our services unite people in fun and enjoyment. At the same time though, we take the privacy of the user’s personal details very seriously and handle them with great care, in keeping with data protection law. Where applicable, before commencing play, the user consents to its personal data being recorded and used by us in the way described in this data protection notice. The user’s data is needed for actual technical usage, for the communicative setup, and for our games to be further developed.
 
-The data protection notices and conditions of the specific platform on which the user plays our games also apply at the same time. Users can find out more by referring to our FAQ ([http://www.wooga.com/support](https://web.archive.org/web/20120618090643id_/http://www.wooga.com/legal/support/)).
+The data protection notices and conditions of the specific platform on which the user plays our games also apply at the same time. Users can find out more by referring to our FAQ ([http://support.wooga.com](http://support.wooga.com/)).
 
 ### 2\. Log files when visiting _Wooga_ ; cookies
 
@@ -84,14 +84,14 @@ Once the user’s contractual agreement with _Wooga_ has come to an end, essenti
 
 ### 11\. Withdrawal of consent; objection to advertising, market research or opinion polls
 
-While the use of personal data is based on consent given by the user, this may be withdrawn at any time with immediate effect. Information on how to do this can be found in the FAQ on the relevant game (http://www.wooga.com/support). Withdrawing consent may result in services no longer being available, or to a user’s contractual agreement being terminated. We also reserve the right to base our data privacy procedures on statutory regulations at any time.
+While the use of personal data is based on consent given by the user, this may be withdrawn at any time with immediate effect. Information on how to do this can be found in the FAQ on the relevant game (http://support.wooga.com/). Withdrawing consent may result in services no longer being available, or to a user’s contractual agreement being terminated. We also reserve the right to base our data privacy procedures on statutory regulations at any time.
 
-If a user wishes to object to its personal details being used for advertising, market research or opinion polls, further information can be found in the FAQ on the relevant game ([http://www.wooga.com/support](https://web.archive.org/web/20120618090643id_/http://www.wooga.com/legal/support)). A notice or unsubscribe option (e.g. a button) may be provided on each service used. If the user sends an objection, advertising that does not use its personal data (InGame, for example) will not be affected.
+If a user wishes to object to its personal details being used for advertising, market research or opinion polls, further information can be found in the FAQ on the relevant game (<http://support.wooga.com/>). A notice or unsubscribe option (e.g. a button) may be provided on each service used. If the user sends an objection, advertising that does not use its personal data (InGame, for example) will not be affected.
 
-If anything is still unclear, a visit to our FAQ is certain to be helpful [(http://www. _Wooga_.com/support)](http://www.wooga.com/support). From there, you can also send a message to our experts here at _Wooga_. ****
+If anything is still unclear, a visit to our FAQ is certain to be helpful [(http://support. _Wooga_.com/](http://support.wooga.com/). From there, you can also send a message to our experts here at _Wooga_. ****
 
 ### 12\. Security
 
 We use standard security practices, including encryption, passwords and physical security measures, to protect your personal data from unauthorised access and disclosure. Your user account information is stored on a secure server with firewall protection. If a user enters sensitive data (such as a credit card number), we encrypt that information using secure socket layer technology (SSL).
 
-If you have any queries about the security of our services, please do not hesitate to contact us at any time on [http://www.wooga.com/support](http://www.wooga.com/support/).
+If you have any queries about the security of our services, please do not hesitate to contact us at any time on <http://support.wooga.com/>.
