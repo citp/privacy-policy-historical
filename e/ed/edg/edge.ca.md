@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edge.ca privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510133626id_/http%3A//www.edge.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edge.ca privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032537id_/http%3A//www.edge.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 102.1 the Edge
 
@@ -13,12 +13,6 @@ Related Links
   * [Contact Us](http://www.edge.ca/Station/ContactUs.aspx)
   * [Terms Of Service](http://www.edge.ca/TermsOfService.aspx)
   * [Privacy Policy](http://www.edge.ca/PrivacyPolicy.aspx)
-
-
-
-Share This Page  
-
-
 
 | 
 
