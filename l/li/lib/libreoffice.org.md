@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the libreoffice.org privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628190740id_/http%3A//www.libreoffice.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libreoffice.org privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231035334id_/http%3A//www.libreoffice.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » LibreOffice
 
-[Deutsche Fassung](http://www.libreoffice.org/privacy#deutsch) | [English version](http://www.libreoffice.org/privacy#english)
+[Deutsche Fassung](http://www.libreoffice.org/privacy/#deutsch) | [English version](http://www.libreoffice.org/privacy/#english)
 
 ##  Datenschutzerklärung
 
