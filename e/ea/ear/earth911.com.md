@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earth911.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623223810id_/http%3A//earth911.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth911.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231202030id_/http%3A//earth911.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Earth911.com
 
@@ -11,7 +11,7 @@ Earth911 Inc. (“Earth911”) offers services, features, content, applications 
 When you use the Services, Earth911 automatically receives and records information on our server logs from your browser or mobile platform, including but not limited to your location, IP address, cookie information, and the page you requested. We treat this data as non-Personal Information, except where we are required to do otherwise under applicable law. Earth911’s purpose in collecting non-personally identifying information is to better understand how Earth911’s visitors use its Services. Earth911 only uses this data in aggregate form. We may provide aggregate information to our partners about how our customers, collectively, use our site, so that our partners may also understand how often people use their services and our Service.
 
 **Gathering of Personally-Identifying Information**  
-Our servers automatically record information (“Log Data”) created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with advertisements, may also be included in Log Data.
+Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with advertisements, may also be included in Log Data.
 
 **Aggregated Statistics**  
 Earth911 may collect statistics about the behavior of visitors to its website. For instance, Earth911 may monitor the most popular search items or the most widely read articles. Earth911 may display this information publicly or provide it to others. However, Earth911 does not disclose personally-identifying information other than as described below.
