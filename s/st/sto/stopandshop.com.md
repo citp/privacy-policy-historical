@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopandshop.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630234700id_/http%3A//www.stopandshop.com/customer_service/privacy_policy/index.htm%3Flinkid%3DF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopandshop.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231010236id_/http%3A//www.stopandshop.com/customer_service/privacy_policy/index.htm%3Flinkid%3DF) for the most accurate reproduction.*
 
 # Customer Service - Stop & Shop
 
