@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aureliustjin.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215001911id_/http%3A//aureliustjin.com/legal/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aureliustjin.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231144648id_/http%3A//aureliustjin.com/legal/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
