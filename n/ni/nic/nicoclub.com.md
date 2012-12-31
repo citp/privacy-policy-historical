@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicoclub.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507182753id_/http%3A//www.nicoclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicoclub.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231223917id_/http%3A//www.nicoclub.com/privacy-policy) for the most accurate reproduction.*
 
 # NICOclub.com Privacy Policy
 
@@ -19,12 +19,3 @@ NICOclub may provide links to third-party websites for your convenience and info
 As with most free resource sites, we have advertising on the forums. To bring you offers that are of interest to Nissan enthusiasts, we have relationships with other companies that place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. This is fairly common to most websites. 
 
 If you feel that this site is not following its stated information policy, you may contact us via e-mail at webmaster@nicoclub.com.
-
-Did you like this article? If so, please help us spread the word and share it!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy%20\(via%20@sociablesite\) "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.nicoclub.com%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
-
-
