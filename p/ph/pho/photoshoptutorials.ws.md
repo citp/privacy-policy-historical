@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the photoshoptutorials.ws privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618172231id_/http%3A//photoshoptutorials.ws/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshoptutorials.ws privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231144852id_/http%3A//photoshoptutorials.ws/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Photoshop Tutorials
 
-We can be reached using our [contact form](http://photoshoptutorials.ws/component/option,com_forme/Itemid,175/).
+We can be reached using our [contact](http://photoshoptutorials.ws/contact/ "contact") form.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page unless provided, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
@@ -18,4 +18,4 @@ We provide site visitors with no access to information that we have collected an
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by sending us e-mail at the above address.
 
-If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org) .
+If you feel that this site is not following its stated information policy, you may contact The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org .
