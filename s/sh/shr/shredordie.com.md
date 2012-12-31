@@ -1,111 +1,177 @@
-> *The following text is extracted and transformed from the shredordie.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219011007id_/http%3A//www.shredordie.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shredordie.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231165354id_/http%3A//www.google.com/intl/en/policies/privacy) for the most accurate reproduction.*
 
-# Shred or Die Privacy Notice
+# Privacy Policy – Policies & Principles – Google
 
-**Shred or Die, Inc.** ("Shred or Die") recognizes that its customers, visitors, users, and others who use [www.shredordie.com](https://web.archive.org/) or other web sites owned or operated by Shred or Die (the "Shred or Die Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Shred or Die Sites. Shred or Die provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Shred or Die Sites.
+Last modified: July 27, 2012 ([view archived versions](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/archive/)) 
 
-This Privacy Notice is incorporated into and is subject to the [Shred or Die Terms of Use](https://web.archive.org/about/terms). Your use of the Shred or Die Sites and any personal information you provide on the Shred or Die Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/about/terms).
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
-Please note that any video, image, or other content posted at the direction of Users onto the Shred or Die Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
+Our Privacy Policy explains: 
 
-## The Information Shred or Die Collects
-
-  * **User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to Shred or Die when choosing to participate in various activities on the Shred or Die Sites such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
-  
-
-  * **Cookies Information:** When you visit the Shred or Die Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Shred or Die uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Shred or Die Sites may not function properly if the ability to accept cookies is disabled.
-  
-
-  * **Log File Information:** When you use the Shred or Die Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
-  
-
-  * **Clear GIFs Information:** When you use the Shred or Die Sites, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
 
 
-## The Way Shred or Die Uses Information
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://web.archive.org/support/websearch/bin/answer.py?answer=151265&hl=en). 
 
-  * If you submit personally identifiable information to us through the Shred or Die Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Shred or Die Sites.
-  
+### Information we collect
 
-  * Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the Shred or Die Sites and other Users can contact you through messages and comments. Any videos that you submit to the Shred or Die Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which ads you’ll find most useful or the people who matter most to you online. 
 
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Shred or Die Site changes or for customer service purposes).
-  
+We collect information in two ways: 
 
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Shred or Die Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
-  
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo. 
 
-  * We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Shred or Die Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+  * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This information includes: 
 
+    * **Device information**
 
+We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Google may associate your device identifiers or phone number with your Google Account. 
 
-## When Shred or Die Discloses Information
+    * **Log information**
 
-  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
-  
+When you use our services or view content provided by Google, we may automatically collect and store certain information in [server logs](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This may include: 
 
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
-  
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
 
-  * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Shred or Die Sites.
-  
+When you use a location-enabled Google service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. 
 
-  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-  
+    * **Unique application numbers**
 
-  * Shred or Die also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Shred or Die believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/about/terms), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Shred or Die, our Users or others.
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
 
+    * **Local storage**
 
+We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches. 
 
-## Your Choices
+    * **Cookies and anonymous identifiers**
 
-You may, of course, decline to submit personally identifiable information through the Shred or Die Sites, in which case Shred or Die may not be able to provide certain services to you. Please note that media files uploaded by Users to the Shred or Die Sites cannot be removed and remain subject to our [Terms of Use](https://web.archive.org/about/terms).
-
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
-
-Please contact Shred or Die with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing [privacy@shredordie.com](mailto:privacy@shredordie.com).
-
-## Third-party Advertisers, Links to Other Sites
-
-Shred or Die allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Shred or Die Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Shred or Die Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
-
-Shred or Die does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Shred or Die to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Shred or Die Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
-
-You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. Shred or Die's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
+We use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
 
 
-## Our Commitment To Data Security
 
-Shred or Die uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Shred or Die and you do so at your own risk. Once we receive your transmission of information, Shred or Die makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If Shred or Die learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Shred or Die may post a notice on the Shred or Die Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](https://web.archive.org/contact_us).
+### How we use information we collect
 
-## Our Commitment To Childrens' Privacy
+We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Google and our users. We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
 
-Protecting the privacy of young children is especially important. For that reason, Shred or Die does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Shred or Die Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Shred or Die Sites at any time or in any manner. If Shred or Die learns that personally identifiable information of persons under 13 years of age has been collected on the Shred or Die Sites without verified parental consent, then Shred or Die will take the appropriate steps to delete this information.
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
 
-## Special Note to International Users
+When you contact Google, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
 
-The Shred or Die Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Shred or Die Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Shred or Die Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/about/terms), you are transferring your personal information to the United States and you consent to that transfer.
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health. 
 
-## In the Event of Merger, Sale, or Bankruptcy
+We may combine personal information from one service with information, including personal information, from other Google services – for example to make it easier to share things with people you know. We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent. 
 
-In the event that Shred or Die is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
 
-## Changes and updates to this Privacy Notice
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
 
-This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Shred or Die Sites constitutes your agreement to this Privacy Notice and any future revisions.
+### Transparency and choice
 
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
 
-**Date Last Modified:**  
-This Privacy Notice was last modified April 11, 2007.
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your ads preferences, such as which categories might interest you, using the Ads Preferences Manager. You can also opt out of certain Google advertising services here. 
+  * [Use our editor](http://support.google.com/accounts/bin/answer.py?hl=en&answer=97706) to see and adjust how your Google Profile appears to particular individuals. 
+  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with. 
+  * [Take information](http://www.dataliberation.org/) out of many of our services.
 
-**Contact Information:**  
-Please contact Shred or Die with any questions or comments about this Privacy Notice at [privacy@shredordie.com](mailto:privacy@shredordie.com).
 
-Copyright © 2009 December Shred or Die Inc. All rights reserved. 
 
-Skateboarding and the other activities shown on this site are dangerous. Shred or Die, Inc. does not endorse the activities shown and described on this site nor encourage users of this site to engage in the activities depicted herein. By engaging in skateboarding or any of the other activities shown on this site you are doing so at your own risk. Using this site or engaging in the activities shown and described on this site in any manner whatsoever constitutes a complete waiver and release of all liability, claims, demands, actions or causes of action against Shred or Die, Inc., its developers and its related entities. 
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences. 
+
+### Information you share
+
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content. 
+
+### Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
+
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes). 
+
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+
+### Information we share
+
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances apply: 
+
+  * **With your consent**
+
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+
+  * **With domain administrators**
+
+If your Google Account is managed for you by a [domain administrator](http://support.google.com/a/bin/answer.py?hl=en&answer=178897) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request. 
+    * restrict your ability to delete or edit information or privacy settings.
+
+Please refer to your domain administrator’s privacy policy for more information. 
+
+  * **For external processing**
+
+We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+
+  * **For legal reasons**
+
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+    * meet any applicable law, regulation, legal process or enforceable governmental request. 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+
+
+We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
+
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+
+### Information security
+
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * We encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en). 
+  * We offer you [two step verification](http://support.google.com/accounts/bin/static.py?hl=en&page=guide.cs&guide=1056283&topic=1056284) when you access your Google Account, and a [Safe Browsing feature](http://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+### Application
+
+Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+
+### Enforcement
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20121231165354id_/http://www.google.com/intl/en/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+
+### Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+### Specific product practices
+
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+
+  * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
+  * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
+  * [Wallet](http://wallet.google.com/files/privacy.html?hl=en)
+  * [Fiber](https://fiber.google.com/legal/privacy.html)
+
+
