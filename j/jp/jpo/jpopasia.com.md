@@ -1,31 +1,40 @@
-> *The following text is extracted and transformed from the jpopasia.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101615id_/http%3A//www.jpopasia.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpopasia.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231015827id_/http%3A//www.jpopasia.com/static/privacy) for the most accurate reproduction.*
 
 # JpopAsia - the online asian media resource
 
 The JpopAsia Privacy Policy describes how JpopAsia treats personal information, including information provided when you use JpopAsia. In addition, the following describes privacy practices specific to JpopAsia. To understand how we treat the information you give us as you use JpopAsia, you should read the JpopAsia Privacy Policy.
 
-**Personal Information**  
-* Non-Account Activity. You can view information, read news, watch videos on JpopAsia without having a JpopAsia Account. You can also contact us without having a JpopAsia Account.  
-* Account-Related Activity. Certain other activities on JpopAsia-like adding celebrity profile information, posting comments, commenting news, user and celebrity profile interaction or using our community services require you to have a JpopAsia Account. We ask for some personal information when you create a JpopAsia Account, including your email address and a password, which is used to protect your account from unauthorized access. A JpopAsia Account allows you to access many of our services that require registration.  
-* Usage Information. We may record information about your usage, such as when you use JpopAsia, favorites you subscribe to, the contacts you communicate with, the videos you watch, and the frequency and size of data transfers, as well as information you display or click on in JpopAsia (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account.  
-* Content Uploaded to Site. Any personal information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.
+**We collect personal and activity data, which may be linked.**  
+We use technologies like cookies (small files stored on your browser), web beacons, or unique device identifiers to identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
 
-**Uses**  
-* If you submit personally identifiable information to us through JpopAsia, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of JpopAsia, and to process any flagging activity or correspondence you send to us.  
-* Your username (not your email address) is displayed to other Users when you comment, add concert/event information, add lyrics, or send messages through JpopAsia and other Users can contact you through messages and comments.  
-* We do not use your email address to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major JpopAsia Site changes or for customer service purposes).  
-* We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the JpopAsia Sites and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications.  
-* We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the JpopAsia Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address. With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you. If authorized by you, we may also access profile and other information from services like Facebook.
 
-**Information That is Publicly Available**  
-* When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include the date you opened your account, the date you last logged into your account, your age (if you choose to make it public), the country and the number of videos you have watched.  
-* Your username (not your email address) is displayed to other Users when you engage in certain activity on the site, such as you adding videos or send messages. Other Users can contact you through messages and comments.  
-* You may also choose to add personal information that will visible to other Users on your profile page (which is the public facing page for your account on the site). This may include a profile picture, you name, gender, relationship status, or other details.
+Our systems may associate this personal information with your activities in the course of providing service to you (such as pages you view or things you click on or search for).
 
-**Your Choices**  
-* You may, of course, decline to submit personally identifiable information through the JpopAsia Sites, in which case you can still view all public information and explore JpopAsia, but JpopAsia may not be able to provide certain services to you. Some advanced JpopAsia features may, for authentication purposes, require you to sign up for a JpopAsia account.
+We do not knowingly contact or collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly obtain parental consent or remove the information.
 
-**Third-party Advertisers, Links to Other Sites**  
-JpopAsia allows other companies, called third-party ad servers or ad networks, to serve advertisements at JpopAsia. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on JpopAsia. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+**We do not store or share your precise location.** We do not use or collect your precise geographic location.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. JpopAsia's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with JpopAsia is maintained and dealt with by JpopAsia in accordance with this privacy policy. 
+**You can request to see or delete your personal data.** You can sign into your account to see or delete any personally identifiable information we have stored, such as your name, address, email or phone number. You can also contact us by email to request to see or delete this information.
+
+**We keep personal data until you delete it.** We remove personally identifiable information (such as your name, address, email or phone number) and other preferences associated with your account promptly after you delete your account. We may retain other data indefinitely.
+
+**We don't share your personal information with marketers.** We generally do not share personally identifiable information (such as name, address, email or phone) with other companies for marketing purposes.
+
+**Ad companies collect anonymous data. You can opt out.** Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. Click to see company privacy policies and opt-out choices:
+
+**You can ask privacy questions or opt-out of marketing.** If you have any questions or concerns about our privacy policies, please contact us:  
+<http://www.jpopasia.com/contact/> If you have given us contact information but do not want us to contact you with promotional or marketing information, you can opt-out here:  
+<http://www.jpopasia.com/contact/> Please allow sufficient time for us to process your request.
+
+**Service providers access data on our behalf.** In order to serve you, we may share your personal and anonymous information with other companies, including vendors and contractors. Their use of information is limited to these purposes, and subject to agreements that require them to keep the information confidential. Our vendors provide assurance that they take reasonable steps to safeguard the data they hold on our behalf, although data security cannot be guaranteed.
+
+Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data.
+
+**We take steps to protect personal information** We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error.
+
+Information we collect may be stored or processed on computers located in any country where we do business.
+
+**Special situations may require disclosure of your data.** To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so.
+
+**You can review more privacy-related information.** This privacy policy was last updated on December 26, 2012. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text.
