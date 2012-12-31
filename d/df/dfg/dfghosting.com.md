@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dfghosting.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618092742id_/http%3A//dfghosting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfghosting.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231033122id_/http%3A//dfghosting.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Web Hosting & Domain Names by DFGHosting.com
+# Privacy - DFG Hosting
+
+### Privacy Policy
 
 #### Effective May 15, 2010
 
@@ -12,7 +14,7 @@ We collect the minimum amount of information about you that is commensurate with
 
 #### Information Collected
 
-We may collect any or all of the information that via both automated means such as communications profiles and cookies. Personal Information you give us depends on the type of service, support, or sale inqury, and may include your name, address, telephone number, fax number and email address, dates of service provided, types of service provided, payment history, manner of payment, amount of payments, date of payments, domain name, credit card* or other payment information. The financial information will be transferred only be used to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. All sensitive information is collected on a secure server and data is transferred . When transferring personal information a security icon will appear in your browser.
+We may collect any or all of the information that via both automated means such as communications profiles and cookies. Personal Information you give us depends on the type of service, support, or sale inquiry, and may include your name, address, telephone number, fax number and email address, dates of service provided, types of service provided, payment history, manner of payment, amount of payments, date of payments, domain name, credit card* or other payment information. The financial information will be transferred only be used to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. All sensitive information is collected on a secure server and data is transferred . When transferring personal information a security icon will appear in your browser.
 
   * We do not store or collect any credit card information locally on our servers. All credit card information is collected through third party processing centers. Any information collected during credit card transactions and submitted by you, the buyer, will be used only for the purpose of completing the transaction, delivering the product and addressing any customer service issues.
 
@@ -36,7 +38,7 @@ We do not disclose any personal information obtained about you from this website
 
 #### Correcting/Updating Personal Information
 
-If a customer’s personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer’s personal data in our records. In most cases, this can be achieved via our billing system at https://dfghosting.com/clientarea.php. Otherwise, please contact us at supp[...](http://www.google.com/recaptcha/mailhide/d?k=01JGWfGRbitA9wY7hkSp0VRw==&c=E1ICz-kjGEMocSV4Lg4DrHnqkbPc497wkpGw7zPy8sw= "Reveal this e-mail address")@dfghosting.com
+If a customer’s personally identifiable information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer’s personal data in our records. In most cases, this can be achieved via our billing system at http://dfghosting.com/clientarea.php. Otherwise, please contact us at supp[…](http://www.google.com/recaptcha/mailhide/d?k=01JGWfGRbitA9wY7hkSp0VRw==&c=E1ICz-kjGEMocSV4Lg4DrHnqkbPc497wkpGw7zPy8sw= "Reveal this e-mail address")@dfghosting.com
 
 #### Opt Out & Modifications
 
@@ -44,11 +46,11 @@ By default, customers do receive any voluntary system updates, such as the newsl
 
 #### Security
 
-[dfghosting.com](http://www.dfghosting.com/) uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. [dfghosting.com](http://www.dfghosting.com/) uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (“SSL”) technology
+[dfghosting.com](http://dfghosting.com/) uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. [dfghosting.com](http://dfghosting.com/) uses security measures including and not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (“SSL”) technology
 
 #### Data and Information Submitted to Another Person or Entity on Our Network
 
-As mentioned above, [dfghosting.com](http://www.dfghosting.com/) collects certain data and confidential information from customers relating to our web site hosting and domain registration services, and this Privacy Policy applies only to that data and confidential information submitted to us. This Privacy Policy does not apply to, nor does [dfghosting.com](http://www.dfghosting.com/) certify EU Safe Harbor compliance regarding, data or confidential information that is submitted to another person or entity for whom [dfghosting.com](http://www.dfghosting.com/) may provide hosting or domain name registration services, but regarding which we exercise no authority or control. An independent evaluation of that person or entity’s own privacy policy and EU Safe Harbor compliance should be made before submitting data or confidential information to them.
+As mentioned above, [dfghosting.com](http://dfghosting.com/) collects certain data and confidential information from customers relating to our web site hosting and domain registration services, and this Privacy Policy applies only to that data and confidential information submitted to us. This Privacy Policy does not apply to, nor does [dfghosting.com](http://dfghosting.com/) certify EU Safe Harbor compliance regarding, data or confidential information that is submitted to another person or entity for whom [dfghosting.com](http://dfghosting.com/) may provide hosting or domain name registration services, but regarding which we exercise no authority or control. An independent evaluation of that person or entity’s own privacy policy and EU Safe Harbor compliance should be made before submitting data or confidential information to them.
 
 #### Compliance with Laws and Law Enforcement
 
@@ -60,14 +62,14 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 #### Enforcement and Dispute Resolution
 
-[dfghosting.com](http://www.dfghosting.com/) has established internal mechanisms to verify its ongoing adherence to its privacy policy. DarkForge LLC also encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting [dfghosting.com](http://www.dfghosting.com/) at the address below.
+[dfghosting.com](http://dfghosting.com/) has established internal mechanisms to verify its ongoing adherence to its privacy policy. DarkForge LLC also encourages individuals covered by this privacy policy to raise any concerns about our processing of personal information by contacting [dfghosting.com](http://www.dfghosting.com/) at the address below.
 
-    PO Box 1954  
-    Elizabethtown, KY 42702  
-    United States of America
+PO Box 1954  
+Elizabethtown, KY 42702  
+United States of America
 
 DarkForge will seek to resolve any concerns.
 
 #### Contacting Us
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at priv[...](http://www.google.com/recaptcha/mailhide/d?k=01JGWfGRbitA9wY7hkSp0VRw==&c=pqwshhMH_2X0Ztv8-sJqAX_fvmPlqut14Hzl90KvFcw= "Reveal this e-mail address")@dfghosting.com. You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email us at priv[...](http://www.google.com/recaptcha/mailhide/d?k=01JGWfGRbitA9wY7hkSp0VRw==&c=pqwshhMH_2X0Ztv8-sJqAX_fvmPlqut14Hzl90KvFcw= "Reveal this e-mail address")@dfghosting.com.
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at priv[…](http://www.google.com/recaptcha/mailhide/d?k=01JGWfGRbitA9wY7hkSp0VRw==&c=pqwshhMH_2X0Ztv8-sJqAX_fvmPlqut14Hzl90KvFcw= "Reveal this e-mail address")@dfghosting.com. You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email us at priv[…](http://www.google.com/recaptcha/mailhide/d?k=01JGWfGRbitA9wY7hkSp0VRw==&c=pqwshhMH_2X0Ztv8-sJqAX_fvmPlqut14Hzl90KvFcw= "Reveal this e-mail address")@dfghosting.com.
