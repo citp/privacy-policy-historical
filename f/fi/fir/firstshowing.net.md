@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614053636id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstshowing.net privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231052738id_/http%3A//www.firstshowing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FirstShowing.net
 
@@ -29,14 +29,15 @@ We do not sell, trade, or rent Users personal identification information to othe
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
 **Google Adsense**  
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/policies/privacy/ads/>
 
-If you would like more information about this practice and to know your choices about not having this information used by third-party companies to serve ads and collect non-personally identifiable information, [click here](http://www.networkadvertising.org/managing/opt_out.asp). You can also find out how to opt out of various ad programs at that [link](http://www.networkadvertising.org/managing/opt_out.asp).
+If you would like more information about this practice and to know your choices about not having this information used by third-party companies to serve ads and collect non-personally identifiable information, [click here](http://www.networkadvertising.org/choices/). You can also find out how to opt out of various ad programs at that [link](http://www.networkadvertising.org/choices/).
 
 Some of our advertising partners may use cookies on our site. Our advertising partners include:  
 <http://www.google.com/doubleclick/>  
 <http://affiliates.sideshowtoy.com/>  
-[hhttp://giantrelease.com/](http://giantrelease.com/privacy/)
+<http://affiliate-program.amazon.com/>  
+<http://pubgears.com/>
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. FirstShowing.net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
@@ -48,9 +49,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**  
 If you require any more information or have any questions about this Privacy Policy, please feel free to contact us at:  
-FirstShowing.net  
+First Showing LLC  
 [http://www.firstshowing.net](http://www.firstshowing.net/)  
 719-964-5995  
 [movies[at]firstshowing.net](mailto:movies\[at\]firstshowing.net)
 
-_This document was last updated on July 8th, 2011_.
+_This document was last updated on October 24th, 2012_.
