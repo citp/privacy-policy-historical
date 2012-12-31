@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westmarine.com privacy policy that was archived on 2012-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120629235545id_/http%3A//www.westmarine.com/webapp/wcs/stores/servlet/AboutUsView%3FlangId%3D-1%26storeId%3D11151%26catalogId%3D10001%26page%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westmarine.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231013553id_/http%3A//www.westmarine.com/webapp/wcs/stores/servlet/AboutUsView%3FlangId%3D-1%26storeId%3D11151%26catalogId%3D10001%26page%3DPrivacy-Policy) for the most accurate reproduction.*
 
 # About Us: Privacy Policy
 
