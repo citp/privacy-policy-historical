@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510101238id_/http%3A//www.girlguiding.org.uk/system_pages/footer_navigation/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032950id_/http%3A//www.girlguiding.org.uk/system_pages/footer_navigation/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -78,7 +78,7 @@ When you supply this information to us, we are legally obliged by the Data Prote
 
 If you have selected either (or both) of the options giving us permission to contact you ("I am happy to be contacted by Girlguiding UK for marketing purposes" and "I would like to be kept up-to-date with how my contribution is being spent"), Girlguiding UK may send communications to you by email or post from time to time.
 
-This policy is in addition to our general [Privacy Policy](https://web.archive.org/system_pages/footer_navigation/privacy_policy.aspx#privacypolicy).
+This policy is in addition to our general [privacy policy](https://web.archive.org/system_pages/footer_navigation/privacy_policy.aspx#privacypolicy).
 
 ### Special note for users under the age of 18
 
@@ -160,7 +160,7 @@ If you would rather not receive any such contact from us, you can log in to the 
 
 ### Contacting us
 
-If you have any concerns about the Girlguiding UK Privacy policy or feel that we are not adhering to the provisions set out here, please do not hesitate to contact us by writing to:
+If you have any concerns about the Girlguiding UK privacy policy or feel that we are not adhering to the provisions set out here, please do not hesitate to contact us by writing to:
 
 The Web Manager  
 Girlguiding UK  
@@ -176,9 +176,9 @@ By using the Girlguiding UK website you consent to the provisions detailed in th
 
 ### Disclaimer
 
-We cannot be responsible for any information you disclose in public community areas of the Girlguiding UK website or those that are listed in our Website directory. This information can be viewed or collected by any third party and you should always be wary of publishing any personal information in public community areas.  
-We also encourage you to read the privacy policy of any websites listed in our Website directory that you choose to visit so you may understand what information is collected from you and for what purpose.  
-Girlguiding UK cannot be held responsible for the policies of any third party website listed in our Website directory and you access these websites at your own risk.
+We cannot be responsible for any information you disclose in public community areas of the Girlguiding UK website or those that are listed in our website directory. This information can be viewed or collected by any third party and you should always be wary of publishing any personal information in public community areas.  
+We also encourage you to read the privacy policy of any websites listed in our website directory that you choose to visit so you may understand what information is collected from you and for what purpose.  
+Girlguiding UK cannot be held responsible for the policies of any third party website listed in our website directory and you access these websites at your own risk.
 
 **Changes to this privacy policy**
 
