@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hybriddomainer.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501211543id_/http%3A//www.hybriddomainer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybriddomainer.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231033617id_/http%3A//www.hybriddomainer.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Hybrid Domainer
+# Privacy Policy and Disclosure Policy - Hybrid Domainer
 
 Privacy Policy for HybridDomainer.com
 
@@ -22,3 +22,15 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+**Disclosure Policy**
+
+This policy is valid from 12 August 2012
+
+ This blog is a collaborative blog written by a group of individuals. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
+
+ This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content.
+
+ The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers' own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+
+ This blog does contain content which might present a conflict of interest. This content will always be identified.
