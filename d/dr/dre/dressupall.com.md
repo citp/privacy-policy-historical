@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dressupall.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615134452id_/http%3A//www.dressupall.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupall.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231043242id_/http%3A//www.dressupall.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Dress up games - Free online games for Girls
 
 dressupall.com is firmly committed to the privacy of our users personal information. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of dressupall.com. We outline here the information-collection procedure and usage practices for our website, www.dressupall.com. By using this website, you agree to accept this Privacy Policy and are aware that our policy may change over time as discussed below. 
 
 Third Party Advertising   
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, [Adventure Games](http://www.adventuregame.cc/), email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here 
 
 Google, as a third party vendor, uses cookies to serve ads on your site. 
 
