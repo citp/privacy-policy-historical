@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullepisode.info privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620173431id_/http%3A//fullepisode.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullepisode.info privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231033104id_/http%3A//fullepisode.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch Streaming or Download Full Episode
 
