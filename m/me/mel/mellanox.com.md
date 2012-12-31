@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628025217id_/http%3A//www.mellanox.com/content/pages.php%3Fpg%3Dlegal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mellanox.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231174518id_/http%3A//www.mellanox.com/content/pages.php%3Fpg%3Dlegal_privacy) for the most accurate reproduction.*
 
 # Legal Privacy: Mellanox Technologies
 
