@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milkround.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630073026id_/http%3A//www.nidp.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milkround.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231190053id_/http%3A//www.nidp.com) for the most accurate reproduction.*
 
 # News International - Privacy Policy
 
