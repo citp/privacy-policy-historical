@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509223853id_/http%3A//www.nickatnite.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231033946id_/http%3A//www.nickatnite.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy/Your California Privacy Rights | Nick @ Nite
 
@@ -6,9 +6,9 @@ Nickelodeon - Universal Privacy Policy
 
 **THE NICKELODEON GROUP PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**
 
-**LAST UPDATED:** 02/29/2012
+**LAST UPDATED:** 05/23/2012
 
-Welcome! This Privacy Policy governs the websites within the Nickelodeon Group, which includes the websites listed [here](http://www.nick.com/nick-assets/copy/nickelodeon-sites.html), including those operated by NeoPets, Inc. and Atom Entertainment, Inc. (collectively, the “Nickelodeon Sites” and, individually, “Site”). By accessing any of the Nickelodeon Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Nickelodeon Sites collect from users, including children, when they visit the Nickelodeon Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected.
+Welcome! This Privacy Policy governs the websites and online services within the Nickelodeon Group, which includes the websites and online services listed [here](http://www.nick.com/nick-assets/copy/nickelodeon-sites.html), including those operated by NeoPets, Inc. and Atom Entertainment, Inc. (collectively, the “Nickelodeon Sites” and, individually, “Site”). By accessing any of the Nickelodeon Sites, you are consenting to this Privacy Policy. This Privacy Policy describes what information the Nickelodeon Sites collect from users, including children, when they visit the Nickelodeon Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected.
 
 Our visitors’ privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Nickelodeon Sites permitting such visitors.  Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries.  Younger visitors should always check with their parents or guardians before entering information on any website and we encourage families to discuss their household guidelines regarding the online sharing of personal information.
 
