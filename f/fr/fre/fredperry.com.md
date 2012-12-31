@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fredperry.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630104812id_/http%3A//www.fredperry.com/aboutus/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredperry.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231124123id_/http%3A//www.fredperry.com/aboutus/security) for the most accurate reproduction.*
 
 # Fred Perry - Security & Privacy
-
-## About Us - Security & Privacy
 
 ### Security
 
