@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nation.co.ke privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101527id_/http%3A//www.nation.co.ke/meta/-/1194/1182/-/ojmv98/-/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nation.co.ke privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231171711id_/http%3A//www.nation.co.ke/meta/-/1194/1182/-/ojmv98/-/index.html) for the most accurate reproduction.*
 
-# Privacy Policy - NMG Editorial Team |nation.co.ke
+# Privacy Policy - NMG Editorial Team - nation.co.ke
 
 NMG websites may perform statistical analyses of user behaviour in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. Personal information about you as an individual subscriber will not be provided to any third party without your consent, except under the circumstances described in Compliance with Legal Process below.
 
