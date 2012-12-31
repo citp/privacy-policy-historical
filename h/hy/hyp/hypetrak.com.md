@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hypetrak.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216114912id_/http%3A//hypetrak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypetrak.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231233042id_/http%3A//hypetrak.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Hypetrak
+# Privacy Policy | HYPETRAK
 
 The following Privacy Policy covers all the websites (“websites”) owned, affiliated or operated by 101 Media Lab Ltd. (“101 Media Lab”, “we”, “us”, “our”). It is our goal to bring you information tailored to your personal interests but, at the same time, protect your privacy. Please read the following to learn more about our privacy policy.
 
