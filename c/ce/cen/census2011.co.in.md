@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the census2011.co.in privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630092048id_/http%3A//www.census2011.co.in/p/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the census2011.co.in privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231110037id_/http%3A//www.census2011.co.in/p/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Census2011.co.in
-
-**e.g.** mumbai census
-
-[Home](https://web.archive.org/) > Privacy Policy
 
 1.) For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -21,5 +17,3 @@
 7.) Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
 8.) If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
-
-[](http://bit.ly/u2GEmW)
