@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hunterdouglas.com privacy policy that was archived on 2012-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120508105656id_/http%3A//www.hunterdouglas.com/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hunterdouglas.com privacy policy that was archived on 2012-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121231032247id_/http%3A//www.hunterdouglas.com/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -160,11 +160,20 @@ By using this site, you indicate your agreement to this Privacy Policy. If you d
 			   <li><a href="/my-workbook.jsp">My Workbook</a></li>
 		</ul>
 </li>
-<li id="gnav_search" class="cnav"><form action="/search-results.jsp" method="get" name="search_form"><label>Search</label><input type="text" name="words"><input type="submit" value="GO" id="submit_button"></form></li>
+<li id="gnav_search" class="cnav"><form action="/search-results.jsp" method="get" name="search_form"><label>Search</label><input type="text" name="words" id="global_site_search"><input type="submit" value="GO" id="submit_button"></form></li>
 </ul>
 
 </div>
 
+<script type="text/javascript">
+	$("#submit_button").click(function(e){
+		if(!$("#global_site_search").val().match(/^[^<>%;\)\"\'\+\(&!\{\}$\[\]]+$/)){
+			alert("Please enter a valid search term.");
+			e.preventDefault();
+		}
+	});
+
+</script>
 
 <script type="text/javascript" language="JavaScript">
 <!--
@@ -256,9 +265,9 @@ function validateZip () {
 	//var noSpace = /\S/gi;
 	//var re = /^\d{5}([\-]\d{4})?$/;
 	var zipField=document.getElementById("zipTeaser").value;
-	//if(document.getElementById("zip").value.length<5 || document.getElementById("zip").value=="Enter ZIP" || !noSpace.test(document.getElementById("zip").value)){
-	if(zipField.length<2 || zipField=="Enter US ZIP"){
 	//if(!re.test(zipField)){
+	//if(document.getElementById("zip").value.length<5 || document.getElementById("zip").value=="Enter ZIP" || !noSpace.test(document.getElementById("zip").value)){
+	if(zipField.length<5 || zipField.length>10 || zipField=="Enter US ZIP" || !zipField.match(/^[^<>%;\)\"\'\+\(&!\{\}$\[\]]+$/)){
 		alert("Please enter a 5 digit ZIP code.");
 	//	alert("Please enter an address.");
 		return false;
