@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627175026id_/http%3A//www.independent.co.uk/service/privacy-policy-759574.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231044538id_/http%3A//www.independent.co.uk/service/privacy-policy-759574.html) for the most accurate reproduction.*
 
 # Privacy policy - Service - The Independent
 
@@ -10,8 +10,7 @@ Independent Digital News and Media Limited is hereinafter referred to in this Pr
 * [Terms & Policies](http://www.independent.co.uk/service/article759573.html)   
 * [Advertising terms and conditions](http://www.independent.co.uk/service/article1673234.html)   
 * [Competition terms and conditions](http://www.independent.co.uk/service/article759575.html)   
-* [User-generated content terms and conditions](http://www.independent.co.uk/service/article759576.html)   
-* [Freelance contributions terms and conditions](http://www.independent.co.uk/service/article759578.html)   
+* [External contributors: Terms & conditions for freelancers, bloggers and contributors of user-generated content](http://www.independent.co.uk/service/external-contributors-terms--conditions-for-freelancers-bloggers-and-contributors-of-usergenerated-content-7905982.html)  
 * [Work experience terms and conditions](http://www.independent.co.uk/service/article2224620.html)   
 * [Corrections & Clarifications](http://www.independent.co.uk/news/corrections/)
 
@@ -65,9 +64,9 @@ In addition to personal information you optionally provide, we may also collect 
 
 IDNM does its utmost to respect your privacy. Cookies let us monitor our performance and provide a better service, as well as sell advertising space, which we use to stay free of charge to our readers.
 
-To this end, we allow a careful selection of trusted third parties to use cookies and tracking to offer you a more personal experience. 
+To this end, we allow a careful selection of trusted third parties to use cookies and tracking to offer you a more personal experience.
 
-Most browsers accept cookies automatically, but you can change your settings to remove them or prevent your computer from automatically accepting them if you prefer. 
+Most browsers accept cookies automatically, but you can change your settings to remove them or prevent your computer from automatically accepting them if you prefer.
 
 By continuing to use the website, you agree to the placement of cookies on your device. If you choose not to receive our cookies, we cannot guarantee that your experience will be as fulfilling as it would otherwise be. For instance, the site won’t be able to recognise your commenter ID, meaning that you won’t be able to leave comments.
 
