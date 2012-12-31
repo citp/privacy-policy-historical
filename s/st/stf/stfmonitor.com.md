@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stfmonitor.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621022738id_/http%3A//www.stfmonitor.com/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stfmonitor.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231094744id_/http%3A//www.stfmonitor.com/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
 
-# HYIP Monitor
+# #1 HYIP monitor with NO Referral links
 
 **What information do we collect?**
 
