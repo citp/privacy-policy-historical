@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the carmony.co.uk privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630232823id_/http%3A//www.carmony.co.uk/en/siteinfo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmony.co.uk privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231110047id_/http%3A//www.carmony.co.uk/en/siteinfo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We take the privacy rights of users of this Website very seriously and this Privacy Policy explains to you how certain information about you may be processed.
 
-This Privacy Policy is incorporated in and subject to the [Terms and Conditions](http://www.carmony.co.uk/en/siteinfo/terms-and-conditions) of Use and Terms of Trade. By using the Website, you expressly consent to the use of your Data in accordance with this Privacy Policy. 
+This Privacy Policy is incorporated in and subject to the [Terms and Conditions](http://www.carmony.co.uk/en/siteinfo/terms-and-conditions) of Use and Terms of Trade. By using the Website, you expressly consent to the use of your Data in accordance with this Privacy Policy.
 
 ### 1\. Your data
 
- **"Your Data"** means any information about you which is personally identifiable, including, without limitation, your name, postcode, telephone number, email address, vehicle registration number (if applicable) user name, password and other information from which you can be identified and which you may disclose to us or otherwise via the Website at any time. 
+ **"Your Data"** means any information about you which is personally identifiable, including, without limitation, your name, postcode, telephone number, email address, vehicle registration number (if applicable) user name, password and other information from which you can be identified and which you may disclose to us or otherwise via the Website at any time.
 
-### 2\. Collection of your data
+###  2\. Collection of your data
 
 We collect your data when:
 
@@ -46,7 +46,7 @@ you submit an entry to a competition or prize draw; or
 
 you disclose your Data to us or otherwise through the Website at any other point. 
 
-### 3\. Use of your data
+###  3\. Use of your data
 
 3.1 
 
@@ -100,7 +100,7 @@ iii.
 
 email us at unsubscribe@carmony.co.uk stating your user name. 
 
-### 4\. Passing on your data to third parties
+###  4\. Passing on your data to third parties
 
 4.1 
 
@@ -122,21 +122,39 @@ we may disclose your Data to the police, regulatory bodies or legal advisers in 
 
 We do not pass or sell your Data to third persons for any other purpose than those set out in 4.1 above. Any marketing under paragraph 3 is conducted by us on behalf of third parties and they do not have any access to your Data unless you yourself choose to contact them.
 
-### 5\. Data security
+###  5\. Data security
 
 We endeavour to take all reasonable steps to protect your Data. All the Data collected by us is stored on a secure server. The secure server software encrypts all information you input before it is sent to us. 
 
-### 6\. Cookies
+###  6\. Cookies
 
 6.1 
 
-Cookies are small pieces of information stored by your browser on your computer's hard drive. We use cookies to allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited, to determine the most popular areas of the Website and generally in order to monitor usage of the Website. Most web browsers automatically accept cookies, though you do not have to. We do not control the use of cookies by third parties. If you wish to disable cookies then you can do so by readjusting your browser settings although please note that by disabling cookies you may not be able to register with or use all features of the Website. 
+**What is a cookie?**  
+A cookie is a small text file, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your device's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other websites. Many web sites do this whenever a user visits their website in order to track online traffic flows. 
 
-6.2 
+The last of these means that certain personalised features cannot then be provided to that user and accordingly they may not be able to take full advantage of all of the website's features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. 
 
-For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org. 
+During the course of any visit to our website, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit. 
 
-### 7\. Access to and updating your data
+6.2. 
+
+**How does Carmony.co.uk use cookies?**  
+Cookies on Carmony.co.uk are primarily used for analytics purposes only and provides information about your user journey across the site and to enhance your user experience. Users have the opportunity to set their devices to except all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. 
+
+6.3. 
+
+**Third Party Cookies on Carmony.co.uk**  
+Please note that during your visits to Carmony.co.uk you may notice some cookies that are not related to Carmony.co.uk contractors. When you visit a page with content embedded from, for example, YouTube or Flickr, you may be presented with cookies from these websites. Carmony.co.uk does not control the dissemination of these cookies. You should check the third party websites for more information about these. 
+
+All third party cookie providers are strictly required not to use any information for their own business or other purposes. 
+
+6.4. 
+
+**Carmony.co.uk cookies and how to reject cookies?**  
+Carmony.co.uk cookies and how to reject cookies? A list of the main cookies that the Carmony.co.uk set (and what each is used for) together with ways to minimise the number of cookies you receive can be found within the Carmony.co.uk Cookie List and How To Reject Cookies. 
+
+###  7\. Access to and updating your data
 
 7.1 
 
@@ -144,9 +162,9 @@ Where you are a registered online account holder, you may access and update your
 
 7.2 
 
-If you would like to receive a copy of your Data held by us, please write to us at Carmony, PO Box 577, Macclesfield, SK10 9GZ . We may charge you a small administration fee to comply with your request.
+If you would like to receive a copy of your Data held by us, please [contact us](mailto:enquiries@carmony.co.uk).
 
-### 8\. Location of your data
+###  8\. Location of your data
 
 We hold your Data in the United Kingdom where the Website servers are located. 
 
@@ -154,12 +172,12 @@ We hold your Data in the United Kingdom where the Website servers are located.
 
 Carmony offers registered users access to our update services, car alerts, "My Showroom" and to the "send to a friend" or "email a friend" functionality on the Website. In order to register with us you must supply personal information such as your name, postcode, telephone number, and email address. We (and certain business partners who are engaged to process your information on our behalf) will hold and process your personal information for the purpose of providing you with various services and improving those services to you. 
 
-### 10\. Other links
+###  10\. Other links
 
 Please be aware that the Website may link to other web sites that may be accessed by you through our Website. We are not responsible for the data policies, content or security of these linked web sites. We do not have any control over the use to which third parties may put your Data where you choose to purchase products or services or otherwise to contact them via this Website. 
 
-### 11\. Contacting Us
+###  11\. Contacting Us
 
-If you have any questions about our Privacy Policy or how we use your Data please [contact us,](mailto:enquiries@carmony.co.uk) or write to us at Carmony, PO Box 577, Macclesfield, SK10 9GZ . 
+If you have any questions about our Privacy Policy or how we use your Data please [contact us](mailto:enquiries@carmony.co.uk) or write to us at ‘Carmony, Manheim Retail Services, Adlington Business Park, Adlington, Cheshire SK10 4NL’. 
 
 This Privacy Policy was last updated on 30/01/2009. 
