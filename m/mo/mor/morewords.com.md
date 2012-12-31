@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619184736id_/http%3A//www2.morewords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231173805id_/http%3A//www.morewords.com/privacy) for the most accurate reproduction.*
 
 # More Words - Privacy Policy
 
@@ -12,4 +12,4 @@ If you have any questions about this policy, please write to us using the [conta
 
 [New Search](https://web.archive.org/)
 
-Some random words: [reave](https://web.archive.org/word/reave/)   [kreep](https://web.archive.org/word/kreep/)   [beeves](https://web.archive.org/word/beeves/)   [laugh](https://web.archive.org/word/laugh/)   [jalap](https://web.archive.org/word/jalap/)   [oh](https://web.archive.org/word/oh/)   [if](https://web.archive.org/word/if/)  
+Some random words: [no](https://web.archive.org/word/no/)   [be](https://web.archive.org/word/be/)   [rya](https://web.archive.org/word/rya/)   [lederhosen](https://web.archive.org/word/lederhosen/)   [ogam](https://web.archive.org/word/ogam/)   [wo](https://web.archive.org/word/wo/)   [eigenmode](https://web.archive.org/word/eigenmode/)  
