@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tuneupmymac.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630171512id_/http%3A//www.tuneupmymac.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuneupmymac.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231095236id_/http%3A//tuneupmymac.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# TuneupMyMac: Privacy Policy
+# TuneupMyMac-Keep your Mac super tuned always
 
 Privacy Policy
 
