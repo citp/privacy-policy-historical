@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630101859id_/http%3A//dawn.com/dawn-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231172245id_/http%3A//dawn.com/dawn-privacy-policy) for the most accurate reproduction.*
 
 # DAWN PRIVACY POLICY | DAWN.COM
 
@@ -110,7 +110,7 @@ We do not share behavioral data with other websites.
 
 If you want to opt out of receiving online behavioral advertising this does not mean that you will no longer receive advertising when you are using guardian.co.uk or guardiannews.com. It just means that the advertising you see will not be customised for you.
 
-Please visit www.dawn.com/privacypolicyoptout to opt you.
+Please visit <http://www.dawn.com/privacypolicyoptout> to opt you.
 
 **Other Advertising**
 
