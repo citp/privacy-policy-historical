@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cruiseweb.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516144452id_/http%3A//cruiseweb.com/CRUISEWEB-PRIVACY-POLICY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseweb.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231134830id_/http%3A//cruiseweb.com/CRUISEWEB-PRIVACY-POLICY.HTM) for the most accurate reproduction.*
 
 # The Cruise Web privacy policy: reserve, book online secured.
+
+What Information We Gather About You
 
   
 
@@ -24,21 +26,24 @@ The Cruise Web collects information about you when you ask for a quote on, or in
   * Are you affiliated with the travel industry? 
   * Any comments 
 
+
+
+What We Do With That Information
+
   
 
 
 We use this information to help you select the cruise that is right for you and to communicate special offers to you.
 
+Who We Share That Information With
+
 Whenever making a reservation in your name, we forward any required information on to that cruise line. We do not sell or give this information to any other third parties.
 
-The Cruise Web offers Cruise Deals that are periodic emails that contain special offers on cruises and vacations. In order to receive these deals, you must sign up by entering your email address in various signup boxes on our site. After entering your email address, we will ask you some basic information to help us provide you with the offers that most appeal to you.
+How You Select Which Marketing Communications You Receive
 
-This includes: 
-  * Types of cruises (contemporary, luxury, family, etc) 
-  * Destinations (Caribbean /Mexico /Bermuda, Alaska, Europe,etc) 
-  * Name 
+The Cruise Web offers Cruise Deals that are periodic emails that contain special offers on cruises and vacations. You are automatically signed up for these deals when you complete a contact form.
 
-
+How You Can Change That Information
 
 At the bottom of every email you receive from The Cruise Web, there will be a link which will display a web page where you can opt out from receiving Cruise Deals and/or where you can change your preferences as to the type of offers you would like to receive.
 
