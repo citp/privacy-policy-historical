@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.co.jp privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606144137id_/http%3A//www.realestate.co.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.co.jp privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231135642id_/http%3A//www.realestate.co.jp/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Real Estate Japan | Tokyo, Osaka, Nagoya Properties For Rent & Sale
 
