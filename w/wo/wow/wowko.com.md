@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107171309id_/http%3A//www.wowko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2013-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130101072104id_/http%3A//www.wowko.com/privacy-policy) for the most accurate reproduction.*
 
 # Wowko Privacy Policy | Wowko.com
 
 **Buy Diablo 3 Gold** at Wowko.com. we offer cheap d3 gold,wow gold and other virtual currencies with 100% safe.
-
-Using illegal powerleveing/gold may suffer the risk of gaming account termination.
 
   * About Privacy
   * WOWKO Privacy Policy
