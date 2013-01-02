@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tangle.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105223549id_/http%3A//www.godtube.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tangle.com privacy policy that was archived on 2013-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130102120235id_/http%3A//www.godtube.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
