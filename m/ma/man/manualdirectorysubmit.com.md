@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manualdirectorysubmit.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015074348id_/http%3A//manualdirectorysubmit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manualdirectorysubmit.com privacy policy that was archived on 2013-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130103070059id_/http%3A//manualdirectorysubmit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Directory Links
 
