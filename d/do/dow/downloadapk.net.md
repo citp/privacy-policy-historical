@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadapk.net privacy policy that was archived on 2012-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120407070656id_/http%3A//downloadapk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadapk.net privacy policy that was archived on 2013-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130103091029id_/http%3A//downloadapk.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download APK
 
