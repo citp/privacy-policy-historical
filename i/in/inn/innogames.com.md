@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innogames.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611224637id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dportal%26lang%3Den%26market_id%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innogames.com privacy policy that was archived on 2013-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130105021702id_/http%3A//legal.innogames.de/%3Ftype%3Dprivacy%26game%3Dportal%26lang%3Den%26market_id%3Den) for the most accurate reproduction.*
 
 # Data Protection Provisions
 
