@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spicymatch.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618034450id_/http%3A//www.spicymatch.com/match/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicymatch.com privacy policy that was archived on 2013-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130105024857id_/http%3A//www.spicymatch.com/match/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy policy
-
-## PRIVACY POLICY
+# Privacy policy | SpicyMatch
 
 This Privacy Policy are related to the use of SpicyMatch site, identified by the URL spicymatch.com, owned by "Spicy Lands Ltd." company.
 
