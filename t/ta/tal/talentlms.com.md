@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talentlms.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204002021id_/http%3A//www.talentlms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentlms.com privacy policy that was archived on 2013-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130107044526id_/http%3A//www.talentlms.com/privacy) for the most accurate reproduction.*
 
 # TalentLMS - Cloud based, Lean and Complete LMS with an emphasis on Usability and easy Course creation
 
