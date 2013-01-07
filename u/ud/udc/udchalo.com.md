@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udchalo.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108042344id_/http%3A//www.udchalo.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udchalo.com privacy policy that was archived on 2013-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130108001612id_/http%3A//www.udchalo.com/Privacy.aspx) for the most accurate reproduction.*
 
 # UdChalo
 
