@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the udchalo.com privacy policy that was archived on 2012-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121108042344id_/http%3A//www.udchalo.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the udchalo.com privacy policy that was archived on 2013-01-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130108001612id_/http%3A//www.udchalo.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="Head1"><title>
 	UdChalo
@@ -15,10 +15,10 @@
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
+        })();        
     </script>
-    <script id="facebook-jssdk" type="text/javascript" src="//connect.facebook.net/en_US/all.js#appId=441915359178078&amp;xfbml=1"></script>
+    
+
 </head>
 <body class="inner">
     <div id="fb-root">
@@ -36,7 +36,8 @@
 <div class="top_navigation right">
     <ul>
         <li>
-            <fb:like href="http://www.udchalo.com" send="true" layout="button_count" width="150" show_faces="true" font="lucida grande"></fb:like>
+            <div class="fb-like" data-ref="" data-href="http://www.facebook.com/udchalo" data-width="150" data-show-faces="false" data-stream="false" data-header="false" data-layout="button_count" data-send="true">
+            </div>            
         </li>
         <li><a href="/Home.aspx">HOME</a></li>
         <li><a href="/HowItWorks.aspx">HOW IT WORKS</a></li>
@@ -44,8 +45,8 @@
         <li><a href="/ContactUs.aspx">CONTACT</a></li>
         <li id="liSignIn"><a id="lnkSignin" href="#">SIGN IN</a></li>
         <li id="liUser" style="display: none;">Welcome </li>
-        <li id="liSignOut" style="display: none;"><a href="#" class="signout" id="lnkSignOut">
-            SIGN OUT</a></li>
+        <li id="liSignOut" style="display: none;"><a href="#" class="signout" id="lnkMyAccount">
+            My Account</a></li>
         <li id="liArrow" style="display: none;"><a id="lnkArrow" href="#" class="dropmenu_arrow">
         </a></li>
     </ul>
@@ -184,9 +185,8 @@
                 <div class="formrow">
                     <div class="textcol">
                         <strong>I agree to udchalo <a href="/TermsofUse.aspx" target="_blank">Terms of Use</a></strong></div>
-                        <input type="checkbox" checked="checked" id="chkTerms" name="chkTerms" value="termsofuse">
+                    <input type="checkbox" checked="checked" id="chkTerms" name="chkTerms" value="termsofuse">
                     <div class="fieldcol">
-                        
                     </div>
                     <div class="clear">
                     </div>
@@ -207,7 +207,7 @@
             <a href="#" class="button_orange" id="btnRegister">Register</a></div>
         <div class="clear">
         </div>
-        <div class="sign_box">
+        <div class="sign_box" id="divFB3" style="display: none;">
             <a id="lnkRegisterFacebook" href="#"><strong>Using Facebook?</strong> Register on Facebook</a>
         </div>
         <div class="clear">
@@ -272,7 +272,7 @@
         </div>
         <div class="formbox">
             <div class="formcontent">
-                <div class="formrow">
+                <div class="formrow" id="divFB1" style="display: none;">
                     <div class="textcol">
                         <strong>Using Facebook?</strong></div>
                     <div class="fieldcol">
@@ -283,7 +283,7 @@
                     <div class="clear">
                     </div>
                 </div>
-                <div class="formrow">
+                <div class="formrow" id="divFB2" style="display: none;">
                     <div class="textcol">
                         <strong>OR</strong></div>
                     <div class="fieldcol">
@@ -345,8 +345,9 @@
                         enter the code below and click
                     </p>
                     <p>
-                        Next. In case you don't recieve the verification code, please <a id="btnResend" href="javascript:void(0);">
-                            click Resend</a></p>
+                        Next. In case you don't recieve the verification code, please click <a id="btnResend" href="javascript:void(0);">Resend</a></p>
+                    <p>
+                        To check and/or change your registered mobile number, please click <a id="btnShowMobile" href="javascript:void(0);">Show my mobile.</a></p>
                     <div class="clear">
                     </div>
                 </div>
@@ -360,13 +361,25 @@
         </div>
         <div class="clear">
         </div>
-        <div class="very_box">
-            Please enter your verifcation code<br>
-            <br>
-            <input name="txtMobileCode" type="password" id="txtMobileCode" style="width: 241px;">
+        <div id="divMobileCode" style="display: block;">
+            <div class="very_box">
+                Please enter your verifcation code<br>
+                <br>
+                <input name="txtMobileCode" type="password" id="txtMobileCode" style="width: 241px;">
+            </div>
+            <div class="btnholder_center">
+                <a href="javascript:void(0);" id="btnVerifyMobile" class="button_orange">Verify</a></div>
         </div>
-        <div class="btnholder_center">
-            <a href="javascript:void(0);" id="btnVerifyMobile" class="button_orange">Verify</a></div>
+        <div id="divMobileNumber" style="display: none;">
+            <div class="very_box">
+                Your registered mobile number is<br>
+                <br>
+                <input name="txtRegMobile" type="text" id="txtRegMobile" style="width: 241px;">
+            </div>
+            <div class="btnholder_center">
+                <a href="javascript:void(0);" id="btnBack" class="left">Back</a> <a href="javascript:void(0);" id="btnChangeMobile" class="button_orange">Change</a>
+            </div>
+        </div>
         <div class="clear">
         </div>
     </div>
