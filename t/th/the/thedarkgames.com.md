@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedarkgames.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225080239id_/http%3A//www.thedarkgames.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedarkgames.com privacy policy that was archived on 2013-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130107052027id_/http%3A//www.thedarkgames.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Dark Games
 
