@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mollie.com privacy policy that was archived on 2012-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120930224245id_/http%3A//www.mollie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mollie.com privacy policy that was archived on 2013-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130108073528id_/http%3A//mollie.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
