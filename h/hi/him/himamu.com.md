@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himamu.com privacy policy that was archived on 2012-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120329131636id_/http%3A//himamu.com/cinema/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himamu.com privacy policy that was archived on 2013-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130108020022id_/http%3A//himamu.com/cinema/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Himamu.com
 
