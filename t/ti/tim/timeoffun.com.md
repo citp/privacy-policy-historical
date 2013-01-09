@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timeoffun.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502052515id_/http%3A//timeoffun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoffun.com privacy policy that was archived on 2013-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130109051730id_/http%3A//timeoffun.com/privacy-policy) for the most accurate reproduction.*
 
 # Fun | Privacy Policy
 
-[](http://timeoffun.com/privacy-policy?tmpl=component&print=1&page= "Print")[](http://timeoffun.com/component/mailto/?tmpl=component&link=aHR0cDovL3RpbWVvZmZ1bi5jb20vcHJpdmFjeS1wb2xpY3k%3D "E-mail")
+[](http://www.timeoffun.com/privacy-policy?tmpl=component&print=1&page= "Print")[](http://www.timeoffun.com/component/mailto/?tmpl=component&link=aHR0cDovL3d3dy50aW1lb2ZmdW4uY29tL3ByaXZhY3ktcG9saWN5 "E-mail")
 
 TimeOfFun.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
