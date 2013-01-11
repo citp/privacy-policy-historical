@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebonymax.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506071557id_/http%3A//join.ebonymax.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebonymax.com privacy policy that was archived on 2013-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130111090141id_/http%3A//track.ebonymax.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
