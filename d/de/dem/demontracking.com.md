@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demontracking.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919211657id_/http%3A//demontracking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demontracking.com privacy policy that was archived on 2013-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130113092349id_/http%3A//demontracking.com/privacy.html) for the most accurate reproduction.*
 
 # Make Money Online With Demon Tracking
 
