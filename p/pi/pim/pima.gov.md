@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pima.gov privacy policy that was archived on 2012-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120826104055id_/http%3A//www.pima.gov/common/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pima.gov privacy policy that was archived on 2013-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130113182550id_/http%3A//www.pima.gov/common/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement: Pima County Government
 
