@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the glprop.com privacy policy that was archived on 2012-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121113093824id_/http%3A//www.glprop.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the glprop.com privacy policy that was archived on 2013-01-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130113092844id_/http%3A//www.glprop.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -137,6 +137,8 @@
 			<li><a href="fund.php?fund_id=1">GLP Japan Development Venture</a></li>
 			 
 			<li><a href="fund.php?fund_id=3">GLP Japan Logistics Partners</a></li>
+			 
+			<li><a href="fund.php?fund_id=4">GLP J-REIT</a></li>
 			          </ul>
           <em class="g_l png" style="background-repeat: repeat-y;"></em> <em class="g_r png" style="background-repeat: repeat-y;"></em>
           <p class="g_b png"></p>
@@ -155,9 +157,9 @@
             <li> <a href="sharePrice.php">Share Price</a> </li>
             <li> <a href="annouPressReleases.php">Announcements and Press Releases</a> </li>
             <li> <a href="webcastPresentations.php">Presentations and Webcasts</a> </li>
-            <li> <a href="finanicalResults.php">Financial Results</a> </li>
+            <li> <a href="financialResults.php">Financial Results</a> </li>
             <li> <a href="annualReports.php">Annual Reports</a> </li>
-            <li><a href="debt_infomation.php">Debt Informatiom</a></li>
+            <li><a href="debt_infomation.php">Debt Information</a></li>
             <li> <a href="analystCoverage.php">Analyst Coverage</a> </li>
 	          <li> <a href="irCalendar.php">IR Calendar</a> </li>  
             <li> <a href="informationRequest.php">Information Request</a> </li>
@@ -551,12 +553,20 @@ The personal information you provide may be stored and processed in which GLP or
 <!-- /footer -->
 <div id="pop_video_con">
 <a href="javascript:void(0);" class="showDiv_formClose popClose"></a>
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase=" http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="512" height="410" id="flashmedia"> 
-<param name="movie" value="flash/media.swf"> 
-<param name="quality" value="high"> 
-<param name="wmode" value="transparent">
-<embed src="flash/media.swf" quality="high" pluginspage=" http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="512" id="flashmedia" height="410">
-</object>
+<!--<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase=" http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="512" height="410" id="flashmedia"> 
+<param name="movie" value="flash/media.swf" /> 
+<param name="quality" value="high" /> 
+<param name="wmode" value="transparent" />
+<embed src="flash/media.swf" quality="high" pluginspage=" http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" width="512" id="flashmedia" height="410"></embed>
+</object>-->
+<object id="videoPlayerObject" name="videoPlayerObject" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="600" height="360">
+    <param name="movie" value="flash/GLP_VP6_Lg.swf">
+    <param name="flashvars" value="flv=flash/GLP_VP6_Lg.flv&amp;width=1021&amp;height=360">
+    <param name="allowScriptAccess" value="always">
+    <param name="allowFullScreen" value="true">
+    <param name="salign" value="lt">
+    <embed id="videoPlayerEmbed" name="videoPlayerEmbed" src="flash/GLP_VP6_Lg.swf" flashvars="flv=flash/GLP_VP6_Lg.flv&amp;width=600&amp;height=360" allowfullscreen="true" width="600" height="360" allowscriptaccess="always" salign="lt">
+    </object>
 </div>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.4.2min.js"></script> 
 <script type="text/javascript" src="js/jquery.easing-1.3.pack.js"></script> 
@@ -670,7 +680,7 @@ $(function(){
 });
 
 $(document).ready(function(){
-	var iframe_pd= '        GLP&nbsp;&nbsp;2.72(SGD)&nbsp;+0.05<span class="up"></span> ';
+	var iframe_pd= '        GLP&nbsp;&nbsp;2.74(SGD)&nbsp;0.00<span class="down"></span> ';
 	  
 	 $('p#ir_iframe').append(iframe_pd);
 });
