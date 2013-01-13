@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillshare.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105054330id_/http%3A//www.skillshare.com/ss/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillshare.com privacy policy that was archived on 2013-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130113045219id_/http%3A//www.skillshare.com/ss/privacy) for the most accurate reproduction.*
 
 # Skillshare - Privacy
 
