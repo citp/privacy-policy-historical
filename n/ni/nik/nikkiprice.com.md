@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikkiprice.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002204848id_/http%3A//nikkiprice.com/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikkiprice.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114124740id_/http%3A//nikkiprice.com/pp.htm) for the most accurate reproduction.*
 
 # Nikki Price
 
