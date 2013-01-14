@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the winoptions.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006133842id_/http%3A//www.winoptions.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winoptions.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114140837id_/http%3A//www.winoptions.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy that Ensures your Details are Confidential and Secure | Winoptions.com
-
-PRIVACY POLICY 
 
 PRIVACY POLICY   
 
@@ -30,38 +28,3 @@ and through the voluntary interaction they undertake with WinOptions’s product
 6. WinOptions does its utmost to ensure the confidentiality of its clients personal information including the implementation of data protection procedures designed to ensure client confidentiality. WinOptions ensures that its data protection policy is regularly updated in order to ensure that client’s confidential information is continually safeguarded.
 
 7. From time to time WinOptions may contact clients whether by phone or email for the purpose of offering them further information about WinOptions, binary options trading or financial market trading. In addition the company may, on occasion, seek to contact clients, whether by phone or by email, for the purpose of informing them of unique promotional offerings provided by WinOptions for the client. Clients consent to the receipt of such contact when they consent to our terms and conditions of use when registering with WinOptions. Any person wishing to opt out of further contact with WinOptions at anytime whatsoever is entitled to do so, simply by contacting the company whether by phone or email and requesting that no further contact on behalf of the company be made.
-
-[](https://web.archive.org/OpenAccount) [ ](https://web.archive.org/openAccount "downloadEbook")
-
-Trading In 3 Simple Steps : 
-
-  * Binary  
-Options
-
-  * Options  
-Builder
-
-  * One   
-Touch
-
-
-
-
-  * 1 
-
-Select the asset you want to trade
-
-  * 2 
-
-Click   if you forecast that an asset price will rise above the current market rate at a certain expiry time, or if you project that the future price will be lower.
-
-  * 3 
-
-Enter the amount you want to invest and click "Apply"
-
-  * 4 
-
-Get up to a 88% per trade when the binary option expires in the money.
-
-
-
