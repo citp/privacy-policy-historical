@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplesadvantage.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209084309id_/http%3A//www.staplesadvantage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplesadvantage.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115003749id_/http%3A//staplesadvantage.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
