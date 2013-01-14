@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalwebindex.net privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002230011id_/http%3A//globalwebindex.net/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwebindex.net privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114090243id_/http%3A//globalwebindex.net/home/privacy-policy) for the most accurate reproduction.*
 
 # GlobalWebIndex
 
