@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalwebtraffic.biz privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003000422id_/http%3A//globalwebtraffic.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwebtraffic.biz privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114094009id_/http%3A//globalwebtraffic.biz/privacy.php) for the most accurate reproduction.*
 
 # GlobalWebTraffic.biz
 
@@ -36,8 +36,6 @@ Links: This web site contains links to other web sites. Please note that when yo
 
 | [Home Page |](https://web.archive.org/index.php)
 
-[](http://www.alexa.com/siteinfo/http://globalwebtraffic.biz)
-
  | [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [Spam Policy](https://web.archive.org/spam.php) | [Privacy Policy](https://web.archive.org/privacy.php) | [Contact](mailto:etrafficsystems@gmail.com?subject=GlobalWebTraffic.biz) | 
 
-Copyright 2012 - All Rights Reserved Worldwide - GlobalWebTraffic.biz 
+Copyright 2013 - All Rights Reserved Worldwide - GlobalWebTraffic.biz 
