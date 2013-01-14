@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2012-survival-guide.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919230639id_/http%3A//2012-survival-guide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2012-survival-guide.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114234358id_/http%3A//soldoutaftercrisis.net/privacy.php) for the most accurate reproduction.*
 
-# 2012-Survival-Guide.com
+# 37 Critical Items
 
 Your privacy is critically important to us.  If you give us your name, email address, or other information, we will use it to communicate with you regarding your order status or to share other resources and offers. 
 
@@ -75,21 +75,28 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at 
+
+_[http://www.SoldOutAfterCrisis.net/terms.php](http://www.soldoutaftercrisis.net/terms.php)._
+
 **Your Consent**
 
 By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. This policy was last modified on April 6, 2010
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. This policy was last modified on October 5, 2010
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information found at this link: http://www.2012-Survival-Guide.com/contactus.php    
-PO Box 740536  
-Arvada, CO 80006  
+If there are any questions regarding this privacy policy you may contact us using the information found at this link: http://www.SoldOutAfterCrisis.net/contactus.php    
+3879 E. 120th Avenue  
+Suite 323  
+Thornton, CO 80233  
 USA  
-info@2012-Survival-Guide.com
+info@SoldOutAfterCrisis.net
 
 **Privacy Policy Customer Pledge**
 
@@ -101,5 +108,5 @@ Privacy Alliance
 
 Respectfully,
 
-2012-Survival-Guide   
-www.2012-Survival-Guide.com
+SoldOutAfterCrisis   
+www.SoldOutAfterCrisis.net
