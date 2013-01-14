@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smileycooking.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004030601id_/http%3A//www.smileycooking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smileycooking.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115004811id_/http%3A//www.smileycooking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Free Cooking and Baking Games
 
