@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themesorter.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920010033id_/http%3A//themesorter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesorter.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115005752id_/http%3A//themesorter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ThemeSorter
 
@@ -62,7 +62,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. It the user's responsibility to be aware of the current privacy policy of this website. 
 
-Last Update: January 21, 2011 
+Last Update: January 2, 2013 
 
 If you have any questions about this privacy policy statement, the practices of this website, your dealings with this website, or if you feel that this site is not following its stated information policy, you may contact us using the information below. 
 
