@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nuffnang.com.ph privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125090857id_/http%3A//www.nuffnang.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffnang.com.ph privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114195700id_/http%3A//www.nuffnang.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Nuffnang Philippines | Asia Pacific's First Blog Advertising Community » Privacy
 
-Nuffnang Philippines, Inc. (hereinafter referred as " **We** " or " **Us** " or " **Our** "), either itself or through its subsidiaries or licencees, provides online advertising sale and display services (" **Services** ") in electronic portals such as Nuffnang (" **Portals** "),for publishers(" **Publisher(s)** ").
+Nuffnang Philippines, Inc. (hereinafter referred as " **We** " or " **Us** " or " **Our** "), either itself or through its subsidiaries or licencees, provides online advertising sale and display services (" **Services** ") in electronic portals such as Nuffnang and ChurpChurp (" **Portals** "),for publishers(" **Publisher(s)** ").
 
 We sell " **Advertiser(s)** " the right to place advertisements (" **Ad(s)** ") via the Services in various Portals (such as Blogs or Twitter) of our network of Publishers and managed by such Publishers. The Services run on software developed by Netccentric Pte Ltd, its subsidiaries and third party contractors.
 
