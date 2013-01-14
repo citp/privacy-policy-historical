@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivydate.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623101809id_/http%3A//www.ivydate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivydate.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115001506id_/http%3A//www.ivydate.com/privacy) for the most accurate reproduction.*
 
 # IvyDate: Privacy Policy
 
@@ -154,4 +154,4 @@ Your use of our Site or our services, including any dispute concerning privacy, 
 
 **Effective Date** :  December 24, 2010
 
-© 2010 IvyDate, Inc. All rights reserved.
+© 2013 IvyDate, Inc. All rights reserved.
