@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomeaccess.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003032633id_/http%3A//www.incomeaccess.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomeaccess.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115001251id_/http%3A//www.incomeaccess.com/privacy.asp) for the most accurate reproduction.*
 
 # Income Access Privacy Policy
 
