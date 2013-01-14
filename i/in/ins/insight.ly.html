@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the insight.ly privacy policy that was archived on 2012-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121129045011id_/http%3A//insight.ly/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the insight.ly privacy policy that was archived on 2013-01-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130114093403id_/http%3A//insight.ly/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Insightly Privacy Policy - CRM and Project Management software for small business</title>
-	<link rel="stylesheet" type="text/css" href="/Content/css/all2.css" media="all">
+	<link rel="stylesheet" type="text/css" href="/Content/css/all3.css" media="all">
     <meta name="keywords" content="CRM, Project Management, Small Business, Google Apps, Customer Relationship Management, CRM for Google Apps">
     <meta name="description" content="Insightly - The Leading CRM for small business"> 
     <!--[if IE]><script type="text/javascript" src="/Scripts/excanvas.compiled.js"></script><![endif]-->
-	<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/5aaa7c36d8963d7aa722e077f21b01012c73bbbe.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" src="/Content/scripts/jquery-1.7.2.min.js"></script>
-	<script type="text/javascript" src="/Content/scripts/jquery.main2.js"></script>
+	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7137.js?439021" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/5aaa7c36d8963d7aa722e077f21b01012c73bbbe.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" src="/Content/scripts/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="/Content/scripts/jquery.main2.js?v=2"></script>
     <link rel="shortcut icon" href="http://d1nx7crndnrbq5.cloudfront.net/Content/images/favicon3.png">
     <link href="https://plus.google.com/118366179606270142654" rel="publisher">
     <script src="//cdn.optimizely.com/js/141664430.js"></script>
@@ -32,6 +32,7 @@
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
     })();
 </script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+
 
 
 <body>
@@ -145,7 +146,7 @@
                         <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Insightly-Inc-/asc?rid=b76d9faa-2875-4a9a-b0c8-a3562516d7ed"></script><a href="//privacy.truste.com/privacy-seal/Insightly-Inc-/validation?rid=ac8c278e-d101-4e6d-b63d-96222cd9345a" title="Validate TRUSTe privacy certification" target="_blank"><img style="border:none" src="//privacy-policy.truste.com/privacy-seal/Insightly-Inc-/seal?rid=ac8c278e-d101-4e6d-b63d-96222cd9345a" alt="Validate TRUSTe privacy certification"></a>
                     </div>
 
-					<p class="copyright">Copyright © 2012 Insightly Inc. All Right Reserved</p>
+					<p class="copyright">Copyright © 2013 Insightly Inc. All Right Reserved</p>
 				</div>
 			</div>
 		</div>
@@ -153,18 +154,108 @@
 
     <script type="text/javascript">
         jQuery(document).ready(function () {
+
+            //Hack for making placeholder text for SELECT grey in color
+            $('.selectInput').change(function () {
+                if($(this).val() == "") $(this).addClass("empty");
+                else $(this).removeClass("empty").children('.placeholder').remove();
+            });
+            $('.selectInput').change();
+
             Tipped.create('#GoogleAppsSignup', { skin: 'cloud', hook:'topmiddle'});
+
+            $('#insightlySignupForm').submit(function() {
+                return validate_form(this);
+            });
         });
+
+        function validate_form(thisform) {
+            with (thisform) {
+
+                if (validate_required(NAME, "Your name must be filled out") == false) {
+                    NAME.focus();
+                    return false;
+                 }
+
+                if (validate_required(ORGANISATION, "Your company name must be filled out") == false) {
+                    ORGANISATION.focus();
+                    return false; 
+                 }
+
+                if (document.forms[0].COMPANY_SIZE) { //If Exists on Form
+                    if (validate_required(COMPANY_SIZE, "Your company size must be chosen") == false) {
+                        COMPANY_SIZE.focus();
+                        return false; 
+                     }
+                }
+
+                if (document.forms[0].PHONE_NUMBER) { //If Exists on Form
+                    if (validate_required(PHONE_NUMBER, "Your phone number must be filled out") == false) {
+                        PHONE_NUMBER.focus();
+                        return false;
+                    }
+                    if (validate_phone_number(PHONE_NUMBER, "Your phone number is not valid") == false) {
+                        PHONE_NUMBER.focus();
+                        return false;
+                    }
+                }
+
+                if (validate_required(EMAIL_ADDRESS, "Your email address must be filled out") == false) {
+                    EMAIL_ADDRESS.focus();
+                    return false; 
+                 }
+
+                if (validate_required(PASSWORD, "Your password must be filled out") == false) {
+                    PASSWORD.focus();
+                    return false; 
+                }
+
+                $('#SignupSubmitButton').text('Signing you up');
+                $('#SignupSubmitButton').append('<img style="vertical-align:middle;margin-left:6px" src="/Content/images/ajax-loader.gif">');
+            }
+        }
+
+        function validate_required(field, alerttxt) {
+            with (field) {
+                if (value == null || $.trim(value) == "") {
+                    show_error_message(field, alerttxt);
+                    return false;
+                }
+                else {
+                    return true;
+                }
+            }
+        }
+
+        function validate_phone_number(field, alerttxt) {
+            with (field) {
+                var phoneregex = /^([0-9\(\)\/\+ \-]*)$/;
+                if (phoneregex.test(value) == false) {
+                    show_error_message(field, alerttxt);
+                    return false;
+                }
+                else {
+                    return true;
+                }
+            }
+        }
+
+        function show_error_message(field, alerttxt) {
+            $(field).show(); //Show fields hidden by placeholder text in form fields for IE8
+            var $faux = $('#' + $(field).attr('id') + '-faux');
+            $faux.hide();
+            Tipped.create(field, alerttxt, { skin: 'notification', hideOthers: true, hideOnClickOutside: true, showOn: false, hook: 'rightmiddle' }).show();
+        }
     </script>
 
-    <div id="signup" style="display: none; position: fixed; opacity: 1; z-index: 110; left: 50%; margin-left: -202px; top: 80px; ">
+    <div id="signup" style="display: none; position: absolute; opacity: 1; z-index: 110; left: 50%; margin-left: -202px; top: 80px; ">
 		<div id="signup-ct">
 			<div id="signup-header">
 				<h2>Sign up for Insightly</h2>
 				<a class="modal_close" href="#"></a>
 			</div>
             <div id="signup-body">
-                    <div>If you already have a Google Apps account:<br><a id="GoogleAppsSignup" title="If you already have a Google Apps account, click this button and then click the blue 'Add it Now' button<BR>to add Insightly to your Google Apps account." style="margin-left:7px" href="http://www.google.com/enterprise/marketplace/viewListing?productListingId=3956+15797827514936543044" target="_blank"><img src="/Content/images/Add-Google-Apps-Long-Btn.png"></a></div>
+                    <div>If you already have a Google Apps account:<br><a id="GoogleAppsSignup" title="" style="margin-left:7px" href="http://www.google.com/enterprise/marketplace/viewListing?productListingId=3956+15797827514936543044" target="_blank"><img src="/Content/images/Add-Google-Apps-Long-Btn.png"></a></div>
 
                     <div style="width:100%;height:1px;background-color:#ccc;margin:15px 0 15px 0"></div>
 
@@ -179,7 +270,7 @@
 				        <input placeholder="Company or Organization" id="ORGANISATION" name="ORGANISATION" type="text">
 				        </div>
 				        <div class="txt-fld">
-				        <input placeholder="Email Address" id="" name="EMAIL_ADDRESS" type="text">
+				        <input placeholder="Email Address" id="EMAIL_ADDRESS" name="EMAIL_ADDRESS" type="text">
 				        </div>
 				        <div class="txt-fld">
 				        <input placeholder="Password" id="PASSWORD" name="PASSWORD" type="password">
@@ -201,10 +292,6 @@
     $('#GoogleAppsSignup').click(function() {
         _kmq.push(['record', 'Clicked Google Apps Signup Button']);
     });
-    $('#SignupSubmitButton').click(function() {
-         $('#SignupSubmitButton').text('Signing you up');
-         $('#SignupSubmitButton').append('<img style="vertical-align:middle;margin-left:6px" src="/Content/images/ajax-loader.gif">');
-    });
     $('#login_btn').click(function() {
         _kmq.push(['record', 'Clicked Login Button']);
     });
@@ -212,6 +299,25 @@
     FauxPlaceholder(); //Placeholder Text in form fields for IE8
 </script>
 
+<!-- EIG JS -->
+<script type="text/javascript">
+    var p = (location.protocol=='https:'?'https://d1.openx.org/tjs.php':'http://d1.openx.org/tjs.php');
+    var r=Math.floor(Math.random()*999999);
+    document.write ("<" + "script language='JavaScript' ");
+    document.write ("type='text/javascript' src='"+p);
+    document.write ("?trackerid=4705&amp;append=0&amp;r="+r+"'><" + "\/script>");
+</script><script language="JavaScript" type="text/javascript" src="https://d1.openx.org/tjs.php?trackerid=4705&amp;append=0&amp;r=392201"></script>
 
 
-</body></html>
+<!-- Crazy Egg -->
+<script type="text/javascript">
+    setTimeout(function () {
+        var a = document.createElement("script");
+        var b = document.getElementsByTagName("script")[0];
+        a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/7137.js?" + Math.floor(new Date().getTime() / 3600000);
+        a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+    }, 1);
+</script>
+
+
+<div id="lean_overlay"></div><div id="lean_overlay"></div></body></html>
