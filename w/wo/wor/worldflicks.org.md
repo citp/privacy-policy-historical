@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldflicks.org privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214150322id_/http%3A//wiki.worldflicks.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldflicks.org privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115003334id_/http%3A//wiki.worldflicks.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - wiki.worldflicks.org
 
