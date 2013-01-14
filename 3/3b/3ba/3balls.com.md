@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127220241id_/http%3A//privacy-policy.truste.com/verified-policy/www.3balls.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114190622id_/http%3A//privacy-policy.truste.com/verified-policy/www.3balls.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.3balls.com
 
 Effective on March 16, 2010 
 
-This privacy statement describes how 3Balls.com Inc. collects and uses the personal information you provide on our Web site: [www.3balls.com ](https://www.3balls.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how 3Balls.com Inc. collects and uses the personal information you provide on our Web site: [www.3balls.com ](http://www.3balls.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
