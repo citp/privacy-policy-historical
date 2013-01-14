@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suggestbookmark.info privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003012624id_/http%3A//suggestbookmark.info/%3Fpage_id%3D124) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suggestbookmark.info privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115003817id_/http%3A//suggestbookmark.info/%3Fpage_id%3D124) for the most accurate reproduction.*
 
 # PRIVACY POLICY « Suggest Bookmark Daily Press - A to Z Social World
 
