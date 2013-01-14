@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kalloutsearch4.com privacy policy that was archived on 2012-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120727004838id_/http%3A//kalloutsearch4.com%3Ftmp%3Dfishy_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalloutsearch4.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114090943id_/http%3A//kalloutsearch4.com%3Ftmp%3Dfishy_privacy) for the most accurate reproduction.*
 
 # kalloutsearch4.com Privacy Policy
 
