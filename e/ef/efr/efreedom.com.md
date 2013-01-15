@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efreedom.com privacy policy that was archived on 2012-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120330150050id_/http%3A//efreedom.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efreedom.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115122708id_/http%3A//efreedom.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - efreedom.com
 
