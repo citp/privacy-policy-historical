@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the newwpthemes.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920020009id_/http%3A//newwpthemes.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newwpthemes.net privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115020610id_/http%3A//newwpthemes.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+##  [Privacy Policy](http://newwpthemes.net/privacy-policy/ "Permalink to Privacy Policy")
 
 Privacy Policy for NewWPThemes.net
 
@@ -41,3 +43,10 @@ As the standards governing Internet privacy continue to evolve, NewWPThemes.net 
 It is possible that portions or all of  NewWPThemes.net may be sold to another company. In that event, applicable user information whether personally identifiable or otherwise may be transferred as part of that sale.
 
 _Last updated 10/21/09_
+
+views:
+    33
+keyword_cache:
+    a:1:{s:13:"keywords_time";i:1226319523;}
+title_tag:
+    NewWPThemes | New Wordpress Themes Privacy Policy
