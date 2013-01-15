@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutely-free-hosting.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014011401id_/http%3A//www.absolutely-free-hosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutely-free-hosting.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115173723id_/http%3A//www.absolutely-free-hosting.com/privacy.php) for the most accurate reproduction.*
 
 # Absolutely-Free-Hosting.com Privacy Policy
 
@@ -9,7 +9,7 @@ The privacy of our visitors to Absolutely-Free-Hosting.com is important to us. B
 
 Log Files: 
 
-Similar to most other websites, we collect and use the data contained in log files for statistical purposes. The information in the log files include your IP address, your ISP (internet service provider, such as AOL), the browser type you used to visit our website (such as Internet Explorer, Firefox, or Safari), the time you visited our site, and which webpages you visited on our website. 
+Similar to most other websites, we collect and use the data contained in log files for statistical purposes. The information in the log files include your IP address, your ISP (internet service provider, such as AOL), the browser type you used to visit our website (such as Internet Explorer, Firefox, Safari, Opera, or Google Chrome), the time you visited our site, and which webpages you visited on our website. 
 
 Cookies and Web Beacons: 
 
