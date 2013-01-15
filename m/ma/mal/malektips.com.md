@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014003741id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115211600id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
 
 # MalekTips - Privacy Policy
 
@@ -40,11 +40,11 @@ Portions of MalekTips may require registration, which may include submitting an 
 
 ### Newest Tips:
 
-[ Microsoft Excel 2010   
-Stop Accidentally Showing the Ribbon Shortcut Keys ](http://malektips.com/excel-2010-slash-ribbon-shortcut-keys-menu-disable.html) [ Google Chrome   
-Disable Plugins Such as Flash Unless You Want Them to Run  ](http://malektips.com/google-chrome-plugins-click-to-play-flash-shockwave.html) [ Mozilla Firefox - Plugins and Extensions   
-Add Print and Print Preview to Context Menu  ](http://malektips.com/firefox-right-click-context-menu-print-preview.html) [ Microsoft Outlook 2010   
-Where is the Blind Carbon Copy Feature?  ](http://malektips.com/outlook-2010-bcc-blind-carbon-copy.html)
+[ Google   
+Look Inside Google's Data Centers ](http://malektips.com/google-data-centers-photos.html) [ Sites to Browse - Humor - Pranks   
+Make the Internet Safe for Cats  ](http://malektips.com/meowbify-cat-photo-any-site.html) [ Google   
+Find Google Blogs, Plus Google on Twitter, FaceBook, Elsewhere  ](http://malektips.com/google-blog-facebook-twitter-plus.html) [ Microsoft Excel 2010   
+Stop Accidentally Showing the Ribbon Shortcut Keys  ](http://malektips.com/excel-2010-slash-ribbon-shortcut-keys-menu-disable.html)
 
 ### Follow Us!
 
