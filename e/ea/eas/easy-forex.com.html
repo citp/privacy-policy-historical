@@ -1,9 +1,14 @@
-<!--The following is the downloaded HTML source of the easy-forex.com privacy policy that was archived on 2012-10-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121013091148id_/http%3A//www.easy-forex.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easy-forex.com privacy policy that was archived on 2013-01-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130115103236id_/http%3A//www.easy-forex.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head id="Head"><script>var absolutePath = '/';</script><link rel="shortcut icon" href="/Favicon.ico" type="image/x-icon">
 <meta id="MetaDescription" name="DESCRIPTION" content="easy-forex Privacy Policy"><meta id="MetaKeywords" name="KEYWORDS" content=",DotNetNuke,DNN"><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2007 by Easy-Forex®"><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke "><meta id="MetaAuthor" name="AUTHOR" content="International"><meta id="MetaVerify" name="verify-v1" content="P+Gj6tdpBTAQKzNOs4bCJCTBfW+0PuxfJtkYu+7o8IA="><meta name="RESOURCE-TYPE" content="DOCUMENT"><meta name="DISTRIBUTION" content="GLOBAL"><meta name="ROBOTS" content="INDEX, FOLLOW"><meta name="REVISIT-AFTER" content="1 DAYS"><meta name="RATING" content="GENERAL"><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)">
+            <!-- top bundle -->
+		    <script src="/EVO/EzfxClientResources/privacypolicy_Top_JS_LTR4.aspx?res=%2fevo%2fapp_scripts%2fjquery%2fjquery-1.2.3.min.js%3b%2fevo%2fapp_scripts%2futils%2fjson.min.js%3b%2fevo%2fapp_scripts%2futils%2futils.js%3b%2fevo%2fapp_scripts%2fglobal%2fglobal.v.1.0.0.js%3b%2fevo%2fjs%2fpuma%2fsite.js%3b%2fevo%2fjs%2fpuma%2fvalidation-1.0.2.js%3b%2fevo%2fjs%2fpuma%2flogin.js%3b%2fevo%2fapp_scripts%2fui%2frender.js%3b%2fevo%2fapp_scripts%2fmodules%2fdropdownmenu.js%3b&amp;resourceType=JS&amp;name=privacypolicy_Top_JS_LTR" type="text/javascript"></script>
+            <script src="https://secure.easy-forex.com/analytics/scripts/EfAnalytics.js.ashx?applicationSourceId=13&amp;subSourceId=0" type="text/javascript"></script>
             <script type="text/javascript">
+                var isAcceptCookies = true;
+                var isAuthenticated = false;
                 var culture = "Int-en";
                 var cultureId = 2;
                 var portalId = 42;
@@ -34,9 +39,92 @@
             <![endif]-->
             <link type="text/css" rel="stylesheet" href="/EzfxClientResources/privacypolicy_CSS_LTR.aspx?res=%2fevo%2fapp_resources%2fui%2fcss%2fui.compressed.css%3b%2fevo%2fapp_resources%2fglobal%2fcss%2fskinshared.v.1.0.1.css%3b%2fevo%2fapp_resources%2fglobal%2fcss%2fsprite.v.1.0.0.css%3b%2fportals%2f_default%2fdefault.css%3b%2fevo%2fcss%2fskin.css%3b%2fevo%2fapp_resources%2fdropdownmenu%2fcss%2fdropdownmenu.css%3b&amp;resourceType=CSS&amp;name=privacypolicy_CSS_LTR">
             <style id="StylePlaceholder" type="text/css"></style>
-            <!-- top bundle -->
-		    <script src="/EVO/EzfxClientResources/privacypolicy_Top_JS_LTR4.aspx?res=%2fevo%2fapp_scripts%2fjquery%2fjquery-1.2.3.min.js%3b%2fevo%2fapp_scripts%2futils%2fjson.min.js%3b%2fevo%2fapp_scripts%2futils%2futils.js%3b%2fevo%2fapp_scripts%2fglobal%2fglobal.v.1.0.0.js%3b%2fevo%2fjs%2fpuma%2fsite.js%3b%2fevo%2fjs%2fpuma%2fvalidation-1.0.2.js%3b%2fevo%2fjs%2fpuma%2flogin.js%3b%2fevo%2fapp_scripts%2fui%2frender.js%3b%2fevo%2fapp_scripts%2fmodules%2fdropdownmenu.js%3b&amp;resourceType=JS&amp;name=privacypolicy_Top_JS_LTR" type="text/javascript"></script>
             <!-- /top bundle -->
+
+
+            
+            <script type="text/javascript">
+
+                // redirect to mobile website or keep on regular
+                var getMobileLanguage = function(language) {
+                    var l = "";
+                    switch(language) {
+                        case "en" :
+                            l = "en";
+                            break;
+                        case "cn" :
+                            l = "cn";
+                            break;
+                        case "ar" :
+                            l = "ar";
+                            break;
+                        case "pl" :
+                            l = "pl";
+                            break;
+                        case "fr" :
+                            l = "fr";
+                            break;
+                        default :
+                            l = "en";
+                    }
+                    return l;
+                };
+
+			    ;(function ($) {
+				    redirect = function (givenOptions) {
+
+					    var options = $.extend({
+						    mobileUrl: "",
+						    sessionStorageKey : "keepregular"
+					    }, givenOptions);
+
+					    var getUrlParam = function (name) {
+						    name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+						    var res = (new RegExp("[\\?&]" + name + "=([^&#]*)"))
+					    .exec(window.location.href);
+						    return res ? decodeURIComponent(res[1]) : '';
+					    };
+
+					    var getTimestamp = Date.now || function() {
+						    return + (new Date).getTime();
+					    };
+
+					    if(options.mobileUrl != "") {
+
+						    // if mobile device such as Android or iPhone
+						    if ((/android/gi).test(navigator.appVersion)
+							    || (/iphone/gi).test(navigator.appVersion)) {
+
+							    if (getUrlParam("keepregular") != "") {
+								
+                                    var unique = getTimestamp();
+								    // sessionStorage.setItem(options.sessionStorageKey, unique);
+                                    jQuery.cookie(options.sessionStorageKey, unique, { path : "/", domain : __cookieDomain });
+								    self.window.name = unique;
+
+							    } else {
+								
+                                    var storageValue = jQuery.cookie(options.sessionStorageKey); // sessionStorage.getItem(options.sessionStorageKey);
+								    if(storageValue != self.window.name) {
+									    location.href = options.mobileUrl;
+								    }
+
+							    }
+
+						    }
+						
+					    }
+
+				    };
+			    })(jQuery);
+
+                var mobileUrl = "https://m.easy-forex.com";
+                var url = document.location.toString().toLowerCase();
+                new redirect({
+                    mobileUrl: (url.lastIndexOf("/register.aspx") != -1 ? (($.getUrlParam('regtype').length != 0 && $.getUrlParam('regtype') == "1") ? mobileUrl + "?state=registerDemo&l=" + getMobileLanguage(String(culture.split("-")[1]).toLowerCase()) : mobileUrl + "?state=register&l=" + getMobileLanguage(String(culture.split("-")[1]).toLowerCase())) : mobileUrl + "?l=" + getMobileLanguage(String(culture.split("-")[1]).toLowerCase()))
+                });
+            </script>
+            
 
             <script type="text/javascript">
             
@@ -90,7 +178,7 @@
         
          <form name="Form" method="post" action="/privacypolicy.aspx" id="Form" enctype="multipart/form-data" style="&quot;height: 100%;">
 <div>
-<input type="hidden" name="__VIEWSTATE_CACHEKEY" id="__VIEWSTATE_CACHEKEY" value="VS_i5rlyvydubmxemvzvtjqlv0a_7726">
+<input type="hidden" name="__VIEWSTATE_CACHEKEY" id="__VIEWSTATE_CACHEKEY" value="VS_nvo3bjuhzg5fmawhpxq1xfe5_7726">
 
 </div>
 
@@ -148,7 +236,7 @@
 		        var newRegFollowUp = $.cookie("new_reg_follow_up");
 		        if (newRegFollowUp && !window.gateway1st) {
 		            if (newRegFollowUp == "1") {
-		                $("li.open-an-account a").attr({ "href": "register.aspx" });
+		                $("li.open-an-account a").attr({ "href": "https://secure.easy-forex.com/int/en/register.aspx" });
 		            }
 		        }
 
@@ -197,10 +285,10 @@
 				<a href="home.aspx" class="first-item " id="link_general_menu_home">Home</a>
                 <b class="selected-item sprite-common sprt-green-seper"></b>
 			</li>
-            <li><a toggle="WhyEasyForex" href="http://en.easy-forex.com/int/whyeasyforex.aspx">Why easy-forex®?</a><b class="sprite-common sprt-green-seper"></b><ul class="WhyEasyForex-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/tradingfeatures.aspx" class="first-item">Features at a Glance</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/tradewithus.aspx">Accounts &amp; Spreads</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/tradinghours.aspx">Trading Hours</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/fractionalpips.aspx">Fractional Pips</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li><li><a toggle="TradeWithUs" href="http://en.easy-forex.com/int/tradingplatforms.aspx">Trading Platforms</a><b class="sprite-common sprt-green-seper"></b><ul class="TradeWithUs-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/webtrading.aspx" class="first-item">Web Trading</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/tradedesk.aspx">TradeDesk™</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/easyforexmobile.aspx">easy-forex on Mobile</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/mt4.aspx">MT4</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/platformcomparison.aspx" class="last-item">Platform Features</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li><li><a toggle="learn" href="http://en.easy-forex.com/int/learn.aspx">Learn</a><b class="sprite-common sprt-green-seper"></b><ul class="learn-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/newtoforex.aspx" class="first-item">New to Forex</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/learncenter.aspx">Forex Training Videos</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="https://secure.easy-forex.com/int/en/registrationdemo.aspx">Demo Account</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/ebook.aspx">Forex e-Book</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/events.aspx">Events</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/tradesimulator.aspx">Simulator</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/forexarticles.aspx">Forex Articles</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li><li><a toggle="PartnerWithUs" href="http://en.easy-forex.com/int/partners.aspx">Partners</a><b class="sprite-common sprt-green-seper"></b><ul class="PartnerWithUs-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/affiliatesandibs.aspx" class="first-item">Affiliates &amp; IBs</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/whitelabels.aspx">White Labels</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/developers.aspx" class="last-item">Developers</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li><li><a toggle="ResearchNAnalysisSection" href="http://en.easy-forex.com/int/researchandanalysis.aspx">Research &amp; Analysis</a><b class="sprite-common sprt-green-seper"></b><ul class="ResearchNAnalysisSection-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/specialreports.aspx" class="first-item">Fundamental Analysis</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/tctechnicalanalysis.aspx">Technical Analysis</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/marketnews.aspx">MNI</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/news.aspx">Reuters News</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/ezfxcharts.aspx">Charts</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/financialcalendar.aspx">Financial Calendar</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/dealingroom.aspx">Dealing Room</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/insideviewer.aspx">Inside Viewer™</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li><li><a toggle="AboutUs" href="http://en.easy-forex.com/int/aboutus.aspx" class="selected-item">About Us</a><b class="sprite-common sprt-green-seper"></b><ul class="AboutUs-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/manifesto.aspx" class="first-item">Manifesto</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/scam.aspx">Avoid Scams</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/securityoffunds.aspx">Security Of Funds</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/legal.aspx">Legal</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/jobsandcareers.aspx">Jobs &amp; Careers</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/feedback.aspx">Feedback</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/contactus.aspx" class="last-item">Contact Us</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li>
+            <li><a toggle="WhyEasyForex" href="http://en.easy-forex.com/int/whyeasyforex.aspx">Why easy-forex®?</a><b class="sprite-common sprt-green-seper"></b><ul class="WhyEasyForex-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/tradingfeatures.aspx" class="first-item">Features at a Glance</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/tradewithus.aspx">Accounts &amp; Spreads</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/tradinghours.aspx">Trading Hours</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/fractionalpips.aspx">Fractional Pips</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li><li><a toggle="TradeWithUs" href="http://en.easy-forex.com/int/tradingplatforms.aspx">Trading Platforms</a><b class="sprite-common sprt-green-seper"></b><ul class="TradeWithUs-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/webtrading.aspx" class="first-item">Web Trading</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/tradedesk.aspx">TradeDesk™</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/efmobile.aspx">easy-forex on Mobile</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/mt4.aspx">MT4</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/platformcomparison.aspx" class="last-item">Platform Features</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li><li><a toggle="learn" href="http://en.easy-forex.com/int/learn.aspx">Learn</a><b class="sprite-common sprt-green-seper"></b><ul class="learn-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/newtoforex.aspx" class="first-item">New to Forex</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/learncenter.aspx">Forex Training Videos</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="https://secure.easy-forex.com/int/en/registrationdemo.aspx">Demo Account</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/ebook.aspx">Forex e-Book</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/events.aspx">Events</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/tradesimulator.aspx">Simulator</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/forexarticles.aspx">Forex Articles</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li><li><a toggle="PartnerWithUs" href="http://en.easy-forex.com/int/partners.aspx">Partners</a><b class="sprite-common sprt-green-seper"></b><ul class="PartnerWithUs-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/affiliatesandibs.aspx" class="first-item">Affiliates &amp; IBs</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/whitelabels.aspx">White Labels</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/developers.aspx" class="last-item">Developers</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li><li><a toggle="ResearchNAnalysisSection" href="http://en.easy-forex.com/int/researchandanalysis.aspx">Research &amp; Analysis</a><b class="sprite-common sprt-green-seper"></b><ul class="ResearchNAnalysisSection-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/specialreports.aspx" class="first-item">Fundamental Analysis</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/tctechnicalanalysis.aspx">Technical Analysis</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/marketnews.aspx">MNI</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/news.aspx">Reuters News</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/ezfxcharts.aspx">Charts</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/financialcalendar.aspx">Financial Calendar</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/dealingroom.aspx">Dealing Room</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/insideviewer.aspx">Inside Viewer™</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li><li><a toggle="AboutUs" href="http://en.easy-forex.com/int/aboutus.aspx" class="selected-item">About Us</a><b class="sprite-common sprt-green-seper"></b><ul class="AboutUs-group general-menu-second-level"><li><a href="http://en.easy-forex.com/int/manifesto.aspx" class="first-item">Manifesto</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/scam.aspx">Avoid Scams</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/securityoffunds.aspx">Security Of Funds</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/legal.aspx">Legal</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/jobsandcareers.aspx">Jobs &amp; Careers</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/feedback.aspx">Feedback</a><b class="sprite-common sprt-gray-seper"></b></li><li><a href="http://en.easy-forex.com/int/contactus.aspx" class="last-item">Contact Us</a><b class="sprite-common sprt-gray-seper"></b></li></ul></li>
 			
 		    <li class="open-an-account external-item">
-		        <b class="sprite-common sprt-open-accout"></b><a href="registerjoin.aspx">Open an Account</a>
+		        <b class="sprite-common sprt-open-accout"></b><a href="https://secure.easy-forex.com/int/en/register.aspx">Open an Account</a>
 		    </li>
 		    
 		</ul>
@@ -212,7 +300,7 @@
 
 <!-- SEO -->
 <noscript>
-    <ul><li><ul><li><a href="http://en.easy-forex.com/int/whyeasyforex.aspx" title="Why easy-forex<sup>&reg;</sup>">Why easy-forex<sup>&reg;</sup></a></li></ul></li><li><ul><li><a href="http://en.easy-forex.com/int/webtrading.aspx" title="Web Trading">Web Trading</a></li><li><a href="http://en.easy-forex.com/int/tradedesk.aspx" title="TradeDesk™">TradeDesk™</a></li><li><a href="http://en.easy-forex.com/int/easyforexmobile.aspx" title="easy-forex on Mobile">easy-forex on Mobile</a></li><li><a href="http://en.easy-forex.com/int/mt4.aspx" title="MT4">MT4</a></li><li><a href="http://en.easy-forex.com/int/platformcomparison.aspx" title="Platform Features">Platform Features</a></li></ul></li><li><ul><li><a href="http://en.easy-forex.com/int/newtoforex.aspx" title="New to Forex">New to Forex</a></li><li><a href="http://en.easy-forex.com/int/learncenter.aspx" title="Forex Training Videos">Forex Training Videos</a></li><li><a href="https://secure.easy-forex.com/int/en/registrationdemo.aspx" title="Demo Account">Demo Account</a></li><li><a href="http://en.easy-forex.com/int/ebook.aspx" title="Forex e-Book">Forex e-Book</a></li><li><a href="http://en.easy-forex.com/int/events.aspx" title="Events">Events</a></li><li><a href="http://en.easy-forex.com/int/tradesimulator.aspx" title="Simulator">Simulator</a></li><li><a href="http://en.easy-forex.com/int/forexarticles.aspx" title="Forex Articles">Forex Articles</a></li><li><a href="http://en.easy-forex.com/int/faq.aspx" title="FAQ">FAQ</a></li><li><a href="http://en.easy-forex.com/int/glossary.aspx" title="Forex Glossary">Forex Glossary</a></li></ul></li><li><ul><li><a href="http://en.easy-forex.com/int/partners.aspx" title="Partners">Partners</a></li></ul></li><li><ul><li><a href="http://en.easy-forex.com/int/researchandanalysis.aspx" title="Research &amp; Analysis">Research &amp; Analysis</a></li></ul></li><li><ul><li><a href="http://en.easy-forex.com/int/manifesto.aspx" title="Manifesto">Manifesto</a></li><li><a href="http://en.easy-forex.com/int/scam.aspx" title="Avoid Scams">Avoid Scams</a></li><li><a href="http://en.easy-forex.com/int/securityoffunds.aspx" title="Security Of Funds">Security Of Funds</a></li><li><a href="http://en.easy-forex.com/int/legal.aspx" title="Legal">Legal</a></li><li><a href="http://en.easy-forex.com/int/jobsandcareers.aspx" title="Jobs & Careers">Jobs & Careers</a></li><li><a href="http://en.easy-forex.com/int/feedback.aspx" title="Feedback">Feedback</a></li><li><a href="http://en.easy-forex.com/int/contactus.aspx" title="Contact Us">Contact Us</a></li></ul></li></ul>
+    <ul><li><ul><li><a href="http://en.easy-forex.com/int/whyeasyforex.aspx" title="Why easy-forex<sup>&reg;</sup>">Why easy-forex<sup>&reg;</sup></a></li></ul></li><li><ul><li><a href="http://en.easy-forex.com/int/webtrading.aspx" title="Web Trading">Web Trading</a></li><li><a href="http://en.easy-forex.com/int/tradedesk.aspx" title="TradeDesk™">TradeDesk™</a></li><li><a href="http://en.easy-forex.com/int/efmobile.aspx" title="easy-forex on Mobile">easy-forex on Mobile</a></li><li><a href="http://en.easy-forex.com/int/mt4.aspx" title="MT4">MT4</a></li><li><a href="http://en.easy-forex.com/int/platformcomparison.aspx" title="Platform Features">Platform Features</a></li></ul></li><li><ul><li><a href="http://en.easy-forex.com/int/newtoforex.aspx" title="New to Forex">New to Forex</a></li><li><a href="http://en.easy-forex.com/int/learncenter.aspx" title="Forex Training Videos">Forex Training Videos</a></li><li><a href="https://secure.easy-forex.com/int/en/registrationdemo.aspx" title="Demo Account">Demo Account</a></li><li><a href="http://en.easy-forex.com/int/ebook.aspx" title="Forex e-Book">Forex e-Book</a></li><li><a href="http://en.easy-forex.com/int/events.aspx" title="Events">Events</a></li><li><a href="http://en.easy-forex.com/int/tradesimulator.aspx" title="Simulator">Simulator</a></li><li><a href="http://en.easy-forex.com/int/forexarticles.aspx" title="Forex Articles">Forex Articles</a></li><li><a href="http://en.easy-forex.com/int/faq.aspx" title="FAQ">FAQ</a></li><li><a href="http://en.easy-forex.com/int/glossary.aspx" title="Forex Glossary">Forex Glossary</a></li></ul></li><li><ul><li><a href="http://en.easy-forex.com/int/partners.aspx" title="Partners">Partners</a></li></ul></li><li><ul><li><a href="http://en.easy-forex.com/int/researchandanalysis.aspx" title="Research &amp; Analysis">Research &amp; Analysis</a></li></ul></li><li><ul><li><a href="http://en.easy-forex.com/int/manifesto.aspx" title="Manifesto">Manifesto</a></li><li><a href="http://en.easy-forex.com/int/scam.aspx" title="Avoid Scams">Avoid Scams</a></li><li><a href="http://en.easy-forex.com/int/securityoffunds.aspx" title="Security Of Funds">Security Of Funds</a></li><li><a href="http://en.easy-forex.com/int/legal.aspx" title="Legal">Legal</a></li><li><a href="http://en.easy-forex.com/int/jobsandcareers.aspx" title="Jobs & Careers">Jobs & Careers</a></li><li><a href="http://en.easy-forex.com/int/feedback.aspx" title="Feedback">Feedback</a></li><li><a href="http://en.easy-forex.com/int/contactus.aspx" title="Contact Us">Contact Us</a></li></ul></li></ul>
 </noscript>
 <!-- /SEO -->
 
@@ -337,6 +425,10 @@
                             <a href="http://en.easy-forex.com/int/contactusguernsey.aspx" id="dnn_ctr30900_ViewDnnMenuSiteMap_Repeater_Part_1_ctl01_Repeater_Part_2_ctl04_Repeater_Part_3_ctl03_lnkLevel_3">Contact Us</a>
                         </li>
                     
+                        <li id="dnn_ctr30900_ViewDnnMenuSiteMap_Repeater_Part_1_ctl01_Repeater_Part_2_ctl04_Repeater_Part_3_ctl04_liLevel_3" class="list-item">
+                            <a href="http://en.easy-forex.com/int/cookiepolicy.aspx" id="dnn_ctr30900_ViewDnnMenuSiteMap_Repeater_Part_1_ctl01_Repeater_Part_2_ctl04_Repeater_Part_3_ctl04_lnkLevel_3">Cookies Policy</a>
+                        </li>
+                    
                         </ul>
                     
             
@@ -440,19 +532,22 @@
         <table cellpadding="4" width="100%">
             <tbody><tr>
                 <td valign="top" width="100%" align="left">
-                    <span id="dnn_ctr30905_ViewCmsItem_lstContent_ctl00_lblContent" class="Normal"><h1>PRIVACY POLICY</h1>
+                    <span id="dnn_ctr30905_ViewCmsItem_lstContent_ctl00_lblContent" class="Normal"><h1>PRIVACY POLICY – SECURITY</h1>
+<p>By registering with or accessing the easy forex website, you consent to the collection and use of your personal data.</p>
 <p class="header2">Personal Data</p>
 <p>
-Your personal data that we require from you throughout our cooperation is safely stored in our electronic systems, it is treated CONFIDENTIAL, and it is protected by the Data Protection Act. It is Easy Forex policy not to disclose client information to non-affiliated third parties except with the consent of the client or when required for legal or regulatory purposes. Personal Data may include but is not limited to name, DOB, email, address, bank details, financial situation, trading activity, transaction history account balance information, KYC forms.
-</p>
-<p class="header2">Access to Personal Data</p>
+The personal data that we collect from you is safely stored via physical, electronic means and procedural controls, in accordance with applicable legislation and it is treated CONFIDENTIAL, at all times.</p>
+<p>These controls are reasonably designed to: (i) ensure the security and confidentiality of the customer’s records and information; (ii) protect against any threats or hazards to the security or integrity of the customer’s records and information; and (iii) protect against unauthorized access to or use of customer’s records or information that could result in substantial harm or inconvenience to the customer.</p>
+<p class="header2">What kind of information we collect from you?</p>
 <p>
-Easy Forex may not disclose any such information except as may be necessary in the course of effecting transactions and otherwise administering customer’s account(s) and then only subject to customary undertakings of confidentiality, or as required by law. Access to such information is restricted to persons, such as employees of Easy-Forex and / or third parties, on a “need to know” basis, so as to provide services to the customers and/or Easy Forex. In all cases, Easy Forex maintains physical, electronic and procedural controls to safeguard such information. These controls are reasonably designed to: (i) ensure the security and confidentiality of the customer’s records and information; (ii) protect against any anticipated threats or hazards to the security or integrity of the customer’s records and information; and (iii) protect against unauthorized access to or use of customer’s records or information that could result in substantial harm or inconvenience to the customer.
-</p>
+Throughout our cooperation we may collect information directly from you. Such information may be Personal Data such as your name, DOB, email, address, bank details, financial situation, trading activity, transaction history account balance information, and certain “KYC” documentation. </p>
+<p>We may also collect indirect information from you, which we use purely for verification and security purposes. Such information may include your (IP) address, browser type, operating system, Internet service provider (ISP), MAC id, cookies.</p>
+<p class="header2">Data Management</p>
+<p>
+Your security and data protection is our ultimate goal. easy forex does not distribute, sell or transfer any data of its Clients to any unauthorized, non-affiliated to it, third parties. easy forex may disclose data to third parties, always on a “need to know” basis, for the provision of specific services to easy forex and its customers.</p>
+<p>easy forex may enter into cooperation agreements with non-affiliated third parties to improve the customer services and to carry out functions, such as client services, consumer behavior surveys or  similar activities relevant to business.</p>
 <p class="header2">Marketing and Communication</p>
-<p>
-Easy Forex may contact you by email at any time to provide you with information on market trends, and/ or to inform you on marketing materials, training, and education or to enquire evaluation of its services. You may opt out from this application at any time by clicking on the unsubscribe link situated at the end each email sent to you.
-</p>
+<p>easy forex may contact you by electronic or other form of communication, at any time to provide you with information on its products, marketing materials, training or to enquire evaluation of its services. You may opt out from this application at any time by clicking on the unsubscribe link situated at the end each email sent to you or by notifying the member of staff that contacted you. </p>
 
 </span></td>
             </tr>
@@ -525,8 +620,7 @@ Easy Forex may contact you by email at any time to provide you with information 
             </li>; 
             <li>
                 <b class="sprite-common sprt-green-seper"></b>
-			    <a href="Legal.aspx">Disclaimer</a><b class="sprite-common sprt-green-seper"></b> <a href="privacypolicy.aspx">Privacy Policy</a><b class="sprite-common sprt-green-seper"></b> <a href="WithdrawalForms.aspx">Forms</a>
-
+			    <a href="Legal.aspx">Disclaimer</a><strong class="sprite-common sprt-green-seper" style="width: 1px !important;height: 7px !important;float: none !important;background-position: -611px -39px !important;display: inline-block;"></strong><a href="privacypolicy.aspx">Privacy Policy</a><strong class="sprite-common sprt-green-seper" style="width: 1px !important;height: 7px !important;float: none !important;background-position: -611px -39px !important;display: inline-block;"></strong><a href="cookiepolicy.aspx">Cookies Policy</a>
 
             </li>
             <li>
@@ -575,6 +669,11 @@ Easy Forex may contact you by email at any time to provide you with information 
 </div>
 <div class="content-bottom-spacer">
 </div>
+
+
+
+
+
 
 
 <!-- Detect IE6 -->
@@ -749,7 +848,7 @@ Easy Forex may contact you by email at any time to provide you with information 
             <input name="__dnnVariable" type="hidden" id="__dnnVariable">
             
             
-                <script type="text/javascript">Site.url="/";Site.machineUrl="https://secure.easy-forex.com/utp/int/en/";Site.simulatorUrl="http://www.easy-forex.com/simulator/int/en/";Site.simulatorSecuredUrl="http://www.easy-forex.com/simulator/int/en/";Site.direction=1;Site.CultureId=2;Site.ErrorPage="http://en.easy-forex.com/int/erroroccured.aspx";Site.PortalId=42;Site.logoutUrl="http://en.easy-forex.com/int/privacypolicy.aspx";Site.loginUrl="https://secure.easy-forex.com/utp/int/en/Login.aspx";Site.simLoginUrl="http://www.easy-forex.com/simulator/int/en/Login.aspx";Site.contactUsURL="http://en.easy-forex.com/int/contactus.aspx";Site.homePageUrl="http://en.easy-forex.com/int/home.aspx";Site.TabName="privacypolicy";Site.RedUrl="/EVO/";Site.isSimulatorEnabled=true;isCms=false;Site.loginReturnUrl="http://en.easy-forex.com/int/home.aspx?returnurl=https%3a%2f%2fsecure.easy-forex.com%2fint%2fen%2fprivacypolicy.aspx";Site.loginReturnUrlBuySell="http://en.easy-forex.com/int/home.aspx?returnurl=https%3a%2f%2fsecure.easy-forex.com%2fint%2fen%2fprivacypolicy.aspx&buy=tobuyy&sell=toselll";var direction=false;var culture="int-en";$(document).ready(function(){UserLogin.logoutMsg="Are you sure ?";if(sessionTimeoutManager){sessionTimeoutManager.timeOutHeader="Session time out.";sessionTimeoutManager.timeOutMsg="Please note:<br/>Due to no activity for over  minutes, your session will automatically end within {0} seconds.";sessionTimeoutManager.sessionTimeOutMintues=41;sessionTimeoutManager.timeOutMsgSeconds=60;sessionTimeoutManager.okText="Logout";sessionTimeoutManager.cancelText="Stay connected"}UserLogin.LoginServiceUrl="/evo/Handler/LoginService.ashx";UserLogin.isDemoOrTest=false;UserLogin.CurrentNonSecured="http://en.easy-forex.com/int/privacypolicy.aspx";$(".lnkChat").css("cursor","pointer");var a=$.cookie("EZFXUsername");if(a&&a!=""){$("#HeaderCenter .logo a").attr("href","Home.aspx");$("#HeaderRightAnonymos").hide();$("#HeaderRightLoggedIn").show()}else{$("#HeaderCenter .logo a").attr("href","http://www.easy-forex.com");$("#HeaderRightAnonymos").show();$("#HeaderRightLoggedIn").hide()}});simulator.msgs.simOpenCloseMachine="you are about to open the Simulator, your real trading screen will be closed ";simulator.msgs.simOpenLoggedin="you are about to open the Simulator. ";simulator.msgs.simOpenBenefits='<div class="optional-context-header">\n<h5>easy-forex<sup>®</sup> trade simulator</h5>\n</div>\n<div class="optional-context-body">\n<h6>try before you trade</h6>\n<div class="optional-context-body-field"><br />\n<h4>try the new easy-forex trade simulator.<br />\nno cost. no risk.</h4>\n<br />\n<h4>guests get 60 minutes of simulator trading.</h4>\n<br />\n<h3>registered users get 120 minutes of simulator trading.</h3>\n<br />\n<h2>ready?</h2>\n<br />\n</div>\n</div>\n';simulator.msgs.simOpenBtnHaveUser="registered user";simulator.msgs.simOpenBtnNoUser="guest";simulator.msgs.simOpenBtnOK="ok";simulator.msgs.simOpenBtnCancel="cancel";simulator.msgs.simDemoTestMessage="to use the Simulator, please log out of your Training Account";simulatorWindowName="wndSimulator_";window.name=$.browser.msie==false?"wndSite_":"wndSite_";machineWindowName=$.browser.msie==false?"wndMachine_":"wndMachine_";$(window).load(function(){$.cookie("sio","1",{path:"/",domain:".easy-forex.com"})});$(window).unload(function(){$.cookie("sio",null,{path:"/",domain:".easy-forex.com"})});</script>
+                <script type="text/javascript">Site.url="/";Site.machineUrl="https://secure.easy-forex.com/utp/int/en/";Site.simulatorUrl="http://www.easy-forex.com/simulator/int/en/";Site.simulatorSecuredUrl="http://www.easy-forex.com/simulator/int/en/";Site.direction=1;Site.CultureId=2;Site.ErrorPage="http://en.easy-forex.com/int/erroroccured.aspx";Site.PortalId=42;Site.logoutUrl="http://en.easy-forex.com/int/privacypolicy.aspx";Site.loginUrl="https://secure.easy-forex.com/utp/int/en/Login.aspx";Site.simLoginUrl="http://www.easy-forex.com/simulator/int/en/Login.aspx";Site.contactUsURL="http://en.easy-forex.com/int/contactus.aspx";Site.homePageUrl="http://en.easy-forex.com/int/home.aspx";Site.TabName="privacypolicy";Site.RedUrl="/EVO/";Site.isSimulatorEnabled=true;isCms=false;Site.loginReturnUrl="http://en.easy-forex.com/int/home.aspx?returnurl=https%3a%2f%2fsecure.easy-forex.com%2fint%2fen%2fprivacypolicy.aspx";Site.loginReturnUrlBuySell="http://en.easy-forex.com/int/home.aspx?returnurl=https%3a%2f%2fsecure.easy-forex.com%2fint%2fen%2fprivacypolicy.aspx&buy=tobuyy&sell=toselll";var direction=false;var culture="int-en";$(document).ready(function(){UserLogin.logoutMsg="Are you sure ?";if(sessionTimeoutManager){sessionTimeoutManager.timeOutHeader="Session time out.";sessionTimeoutManager.timeOutMsg="Please note:<br/>Due to no activity for over  minutes, your session will automatically end within {0} seconds.";sessionTimeoutManager.sessionTimeOutMintues=41;sessionTimeoutManager.timeOutMsgSeconds=60;sessionTimeoutManager.okText="Logout";sessionTimeoutManager.cancelText="Stay connected"}UserLogin.LoginServiceUrl="/evo/Handler/LoginService.ashx";UserLogin.isDemoOrTest=false;UserLogin.CurrentNonSecured="http://en.easy-forex.com/int/privacypolicy.aspx";$(".lnkChat").css("cursor","pointer");var a=$.cookie("EZFXUsername");if(a&&a!=""){$("#HeaderCenter .logo a").attr("href","Home.aspx");$("#HeaderRightAnonymos").hide();$("#HeaderRightLoggedIn").show()}else{$("#HeaderCenter .logo a").attr("href","http://www.easy-forex.com");$("#HeaderRightAnonymos").show();$("#HeaderRightLoggedIn").hide()}});simulator.msgs.simOpenCloseMachine="you are about to open the Simulator, your real trading screen will be closed ";simulator.msgs.simOpenLoggedin="you are about to open the Simulator. ";simulator.msgs.simOpenBenefits='<div class="optional-context-header">\n<h5>easy-forex<sup>®</sup> trade simulator</h5>\n</div>\n<div class="optional-context-body">\n<h6>try before you trade</h6>\n<div class="optional-context-body-field"><br />\n<h4>try the new easy-forex trade simulator.<br />\nno cost. no risk.</h4>\n<br />\n<h4>guests get 60 minutes of simulator trading.</h4>\n<br />\n<h3>registered users get 120 minutes of simulator trading.</h3>\n<br />\n<h2>ready?</h2>\n<br />\n</div>\n</div>\n';simulator.msgs.simOpenBtnHaveUser="registered user";simulator.msgs.simOpenBtnNoUser="guest";simulator.msgs.simOpenBtnOK="ok";simulator.msgs.simOpenBtnCancel="cancel";simulator.msgs.simDemoTestMessage="to use the Simulator, please log out of your Training Account";simulatorWindowName="wndSimulator_";machineWindowName=$.browser.msie==false?"wndMachine_":"wndMachine_";$(window).load(function(){$.cookie("sio","1",{path:"/",domain:".easy-forex.com"})});$(window).unload(function(){$.cookie("sio",null,{path:"/",domain:".easy-forex.com"})});</script>
               
         
 <div>
@@ -967,21 +1066,80 @@ Easy Forex may contact you by email at any time to provide you with information 
        
        
        var sendRegistrationConfirmationPixel = function () {
-          
-            var natanyaScriptUrl = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            var getUrlParam= function(name) {
+                    name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+                    var jsRgx = new RegExp("[\\?&]" + name + "=([^&#]*)", "i");
+                    var res = jsRgx.exec(window.location.href);
+                    return res ? decodeURIComponent(res[1]) : '';
+                }
+                
+             try{
+              /*uk pixels*/
+                 $.ajax({
+			                  url: pixelJsapiUrl,
+                        dataType: 'jsonp',
+			                  data: { rq: jQuery.toJSON(pixelCountryLocationInfoRq), sid: pixelSessionId },
+			                  success: function(data1) {
+				                  pixelCountryId = data1.results[0].GetCountryLocationInfo.geoLocationInfoResult.countryId;
+				                  var send = (jQuery.inArray(pixelCountryId, UKCountriesArr) > -1);
+				                  if (send) {           
+                              try{
+                                  _adftrack = {pm: 90521,id: 1640335};
+                                  $.ajax({ url: "https://track.adform.net/serving/scripts/trackpoint/async/",dataType: 'script',cache: true});
+                                }catch(e){}  
+				                  }
+			                  }
+		                  });
+            }catch(e){}  
+           
+              /*alpha.easy-forex pixel*/
+              try{
+                    var cval = $.cookie("REGPIXEL");
+                    var arr = cval.split('_');
+                    var params = {gatewayId:arr[0],gatewaySubId:arr[1], uniqueVisitorId:arr[2]};
+               
+                   var pixelurl = "";
+		                  if (params.gatewayId == null) { 
+			                    pixelurl = "https://alpha.easy-forex.info/~ezforex/track/pixel_EF.php?r=ef_reg&gid=&subid=&uv=" + params.uniqueVisitorId + "|" + 0;
+		                  } else { 
+			                    pixelurl = "https://alpha.easy-forex.info/~ezforex/track/pixel_EF.php?r=ef_reg&gid=" + params.gatewayId + "&subid=" + (params.gatewaySubId == null ? "" : params.gatewaySubId) + "&uv=" + params.uniqueVisitorId + "|" + 0;
+		                  }
+                    
+                   $('body').append('<iframe id="pixel" width="1" height="1" src="'+pixelurl+'">');
+                   
+              }catch(e){}
+              
+              try{/*media mind*/
+                var ebRand = Math.random()+'';
+                ebRand = ebRand * 1000000;
+                 $.ajax({ url: 'https://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=261433&amp;rnd=' + ebRand,dataType: 'script'});
+              }catch(e){}
+              
+              $.cookie("REGPIXEL", null,{path: '/', domain: __cookieDomain});
+              $.cookie("pixelCookie", 2, { path: '/', domain: __cookieDomain,expires: 30 });
+        };
+        var sendRegister1PIXEL=function(){
+           try{
+              var cval = $.cookie("Register1PIXEL");
+              var arr= cval.split('_');
+              var params = {gatewayId:arr[0],gatewaySubId:arr[1], uniqueVisitorId:arr[2]};
+              var pixelurl = "";
+	            if (params.gatewayId == null) {
+	                pixelurl = "https://alpha.easy-forex.info/~ezforex/track/pixel_EF.php?r=ef_lead&gid=&subid=&uv=" + params.uniqueVisitorId + "|" + 0;
+	            } else {
+	                pixelurl = "https://alpha.easy-forex.info/~ezforex/track/pixel_EF.php?r=ef_lead&gid=" + params.gatewayId + "&subid=" + (params.gatewaySubId == null ? "" : params.gatewaySubId) + "&uv=" + params.uniqueVisitorId + "|" + 0;
+	            }
+                $('body').append('<iframe id="pixel" width="1" height="1" src="'+pixelurl+'">');
+                 
+            }catch(e){}
             
-            try{
-              $.ajax({ url: natanyaScriptUrl,dataType: 'script',cache: true,
-                    success: function () {
-                          _qevents.push({ qacct: " p-nX2kjZ5Sb7RnS", labels: "_fp.channel.Easy Forex,_fp.event.Registration Confirmation" });
-                        }
-                  });
-            }catch(e){} 
+            try{/*media mind*/
+                var ebRand = Math.random()+'';
+                ebRand = ebRand * 1000000;
+                $.ajax({ url: 'https://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=261432&amp;rnd=' + ebRand,dataType: 'script'});
+              }catch(e){}
+              
             
-            try{
-                _adftrack = {pm: 90521,id: 1640335};
-                $.ajax({ url: "https://track.adform.net/serving/scripts/trackpoint/async/",dataType: 'script',cache: true});
-              }catch(e){}  
         };
         
       
@@ -1018,32 +1176,21 @@ Easy Forex may contact you by email at any time to provide you with information 
               });         
             }
             
-            //NavigationTiming
-            try{
-              if (window.performance != undefined && window.performance != null) {            
-                  $.ajax({url: '/evo/sharedresources/scripts/NavigationTiming.v3.js', dataType: 'script', cache: true });
-              }
-            }catch(e){}
-            
+                       
+              try{
+                  if($.cookie("Register1PIXEL")!=null){//after step1
+                      sendRegister1PIXEL();
+                      $.cookie("Register1PIXEL", null,{path: '/', domain: __cookieDomain});
+                  }
+              }catch(e){}
+              
              try{
 	              if ($.cookie("REGPIXEL") != null) 
 	              {
-		              $.ajax({
-			              url: pixelJsapiUrl,
-                    dataType: 'jsonp',
-			              data: { rq: jQuery.toJSON(pixelCountryLocationInfoRq), sid: pixelSessionId },
-			              success: function(data1) {
-				              pixelCountryId = data1.results[0].GetCountryLocationInfo.geoLocationInfoResult.countryId;
-				              var send = (jQuery.inArray(pixelCountryId, UKCountriesArr) > -1);
-				              if (send) {
-					              sendRegistrationConfirmationPixel();
-				              }
-				              $.cookie("REGPIXEL", null,{path: '/', domain: __cookieDomain});
-			              }
-		              });
+		              sendRegistrationConfirmationPixel();//after step 3
 	              }
               }catch(e){}
-      });
+        });
       </script>
 
     
