@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226020855id_/http%3A//www.multiplestreammktg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiplestreammktg.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115090440id_/http%3A//www.multiplestreammktg.com/privacy.html) for the most accurate reproduction.*
 
-# Multiple Stream Media. Direct Mail Lists, Rent Lists, USA Business Lists, And Postal Mailing Lists
+# Privacy Policy - Multiple Stream Media. Full Service Internet Advertising And Marketing Services.
+
+## Our Privacy Policy
 
 Multiple Stream Media has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you (the customer, subscriber, vendor) online.
 
