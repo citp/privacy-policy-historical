@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoresponseplus.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022143826id_/http%3A//autoresponseplus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoresponseplus.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115113405id_/http%3A//autoresponseplus.com/privacy.php) for the most accurate reproduction.*
 
 # Follow Up Autoresponder Software for EMail Marketing - AutoResponse Plus
 
@@ -22,4 +22,4 @@ When you enter our web site we may use cookies. Cookies are small pieces of info
 
 These cookies do not store any personal details relating to you or your PayPal account. If you do not wish to receive cookies you must not use this web site.
 
-If you have any questions about privacy, please [contact us](https://web.archive.org/web/20121022143826id_/http%3A//autoresponseplus.com/contact.php).
+If you have any questions about privacy, please [contact us](https://web.archive.org/web/20130115113405id_/http%3A//autoresponseplus.com/contact.php).
