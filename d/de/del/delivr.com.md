@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the delivr.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121222921id_/http%3A//delivr.com/legal%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delivr.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115102403id_/http%3A//delivr.com/legal_mobile%3Ftype%3Dprivacy) for the most accurate reproduction.*
 
-# Delivr : Privacy Policy
-
-  
-
+# Privacy Policy
 
 **Delivr Privacy Policy**
 
@@ -29,7 +26,7 @@ One feature of the Services is the ability to create shortened uniform resource 
 
 **Metrics and Analytics:**
 
-Delivr collects information about accesses (such as clicks or scans) of every shortened URL or QR Code created through the Services. This information includes, but is not limited to: (i) the IP address and physical location of the devices accessing the shortened URL; (ii) the referring websites or services; (iii) the time and date of each access; and (iv) information about sharing of the shortened URL on Third Party Services such as Twitter and Facebook. These metrics and analytics are used by Delivr and its partners to improve their websites and services by, for example, providing value-added features. 
+Delivr collects information about accesses (such as clicks or scans) of every shortened URL or QR Code® created through the Services. This information includes, but is not limited to: (i) the IP address and physical location of the devices accessing the shortened URL; (ii) the referring websites or services; (iii) the time and date of each access; and (iv) information about sharing of the shortened URL on Third Party Services such as Twitter and Facebook. These metrics and analytics are used by Delivr and its partners to improve their websites and services by, for example, providing value-added features. 
 
 **User Content:**
 
