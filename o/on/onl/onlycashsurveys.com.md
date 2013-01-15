@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onlycashsurveys.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106052634id_/http%3A//onlycashsurveys.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlycashsurveys.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115052924id_/http%3A//www.onlycashsurveys.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Only Cash Surveys Privacy Policy
 
 |  |   
 ---  
-| [](https://web.archive.org/web/20121106052634id_/http%3A//onlycashsurveys.com/index.php) | [](https://web.archive.org/web/20121106052634id_/http%3A//onlycashsurveys.com/registration.php) | [](https://web.archive.org/web/20121106052634id_/http%3A//onlycashsurveys.com/aboutus.php) | [](https://web.archive.org/web/20121106052634id_/http%3A//onlycashsurveys.com/privacy_policy.php) | [](https://web.archive.org/web/20121106052634id_/http%3A//onlycashsurveys.com/faq.php)  
+| [](https://web.archive.org/web/20130115052924id_/http%3A//www.onlycashsurveys.com/index.php) | [](https://web.archive.org/web/20130115052924id_/http%3A//www.onlycashsurveys.com/registration.php) | [](https://web.archive.org/web/20130115052924id_/http%3A//www.onlycashsurveys.com/aboutus.php) | [](https://web.archive.org/web/20130115052924id_/http%3A//www.onlycashsurveys.com/privacy_policy.php) | [](https://web.archive.org/web/20130115052924id_/http%3A//www.onlycashsurveys.com/faq.php)  
 ---|---|---|---|---  
   
 |  OnlyCashSurveys Privacy Policy - Updated 3/11/2010  
@@ -71,6 +71,10 @@ What else should I know about my privacy?
      Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
+
+We can reach OCS Market Research LLC at 118-B South Main Street, Salisbury, NC 28144 p: 704.647.9524 
+
+By signing up for our services, you agree to receive our newsletter and offers to take surveys and other money making opportunities. If you do not wish to receive these e-mails, you may opt-out at any time, by clicking on the opt-out link in the e-mail messages you receive. 
 
 Additional information 
      Questions regarding this statement should be directed to [support@surveyhelpcenter.com](mailto:support@surveyhelpcenter.com). 
