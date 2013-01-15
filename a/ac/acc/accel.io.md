@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accel.io privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031232339id_/http%3A//accel.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accel.io privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115050559id_/http%3A//accel.io/privacy-policy) for the most accurate reproduction.*
 
 # Turn-key publishing platform and networking for organizations - accel.io
 
