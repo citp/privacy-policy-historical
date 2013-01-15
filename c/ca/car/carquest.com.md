@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014054912id_/http%3A//www.carquest.com/webapp/wcs/stores/servlet/StaticView%3FstoreId%3D10151%26catalogId%3D10651%26content%3DPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115062011id_/http%3A//www.carquest.com/webapp/wcs/stores/servlet/StaticView%3FstoreId%3D10151%26catalogId%3D10651%26content%3DPrivacy.html) for the most accurate reproduction.*
 
 # CARQUEST
 
