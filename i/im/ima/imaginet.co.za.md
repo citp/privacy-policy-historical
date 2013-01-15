@@ -1,60 +1,28 @@
-> *The following text is extracted and transformed from the imaginet.co.za privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925163243id_/http%3A//www.imaginet.co.za/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginet.co.za privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115131331id_/https%3A//www.imaginet.co.za/content/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# .: i m a g i n e t * Privacy Statement
+# Privacy Policy
 
-Privacy Statement
+## Information Collected and Stored Automatically:
 
-**Privacy Policy for Visitors to our website:**
+When you visit our website to read pages or download information, we automatically collect and store the following information:
 
-Information Collected and Stored Automatically:  
-When you visit our web site to read pages or download information, we automatically collect and store the following non-identifying information:
+  * The Internet protocol or IP address that you access our site from. An IP address is a unique number that is automatically assigned to the computer that you are using whenever you surf the web.
+  * The type of browser (Netscape, Internet Explorer, etc.) and the operating system (Windows 7, Linux, etc.) that you use to access our site.
+  * The date and time that you accessed our site, so that we can see how much demand there is for the site.
+  * The pages that you visited, so that we can improve our site by giving you helpful links and taking away pages that are never visited.
 
-The Internet protocol (IP) address from which you access our web site. An IP address is a unique number that is automatically assigned to the computer you are using whenever you are surfing the web.
 
-The type of browser, such as Netscape or Internet Explorer, and operating system, such as Windows 98 or Linux, used to access our site.
 
-The date and time our site is accessed, for the purpose of monitoring demand.
+The information that we collect doesn't identify you personally. We keep it on our system logs and only use it to make the site more useful by learning the number of visitors who use the site, the number of pages provided and how much demand there is for specific pages. We do not check or record any information about the identities of our visitors.
 
-The pages visited, for the purpose of improving the usefulness of our web site by providing helpful links and removing pages that are not read.
+## Information Collected from E-mail:
 
-This information does not identify you personally. We maintain the above information in system logs. We use this information to make our site more useful to visitors by learning the number of visitors to our site, the number of pages served, and the level of demand for specific pages. We do not track or record information about identifiable individuals and their visits.
+When you send us personally-identifying information by e-mail, we only use that information to help us with your request. In order to respond to your request quickly and efficiently, that information might be viewed by a number of people within Imaginet. Once we have responded to your request, the information is protected by law (e.g. the Privacy Act and the Freedom of Information Act).
 
-**Information Collected from E-mail:**  
-When you send us personally-identifying information in an e-mail, we use the information you provide only to help us gather the information you might request. In an effort to respond to your request, information you submit may be viewed by various people within Imaginet. Once received, the information to your e-mail is protected in accordance with law, (e.g. the Privacy Act and the Freedom of Information Act).
+## Security, Intrusion, and Detection:
 
-Security, Intrusion, and Detection:  
-For site security purposes and to ensure that this service remains available to all users, our computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+For the purpose of site security and to make sure that the service is always available to all users, our computer system uses software programs that watch network traffic and point out unauthorised attempts to upload or change information, or to cause damage in any other way.
 
-**Privacy Policy for Subscribers:**
+## Privacy Policy for Subscribers:
 
-The following additional policies apply to subscribers of our services: To register for our services you will have to provide us with personally-identifiable information to enable us to provide you with our services. The information you provide will be entered into our database.
-
-If you register as a subscriber, we do not make your personally-identifiable information available to anyone unless required by law to do so. 
-Privacy Statement
-
-**Privacy Policy for Visitors to our website:**
-
-Information Collected and Stored Automatically:  
-When you visit our web site to read pages or download information, we automatically collect and store the following non-identifying information:
-
-The Internet protocol (IP) address from which you access our web site. An IP address is a unique number that is automatically assigned to the computer you are using whenever you are surfing the web.
-
-The type of browser, such as Netscape or Internet Explorer, and operating system, such as Windows 98 or Linux, used to access our site.
-
-The date and time our site is accessed, for the purpose of monitoring demand.
-
-The pages visited, for the purpose of improving the usefulness of our web site by providing helpful links and removing pages that are not read.
-
-This information does not identify you personally. We maintain the above information in system logs. We use this information to make our site more useful to visitors by learning the number of visitors to our site, the number of pages served, and the level of demand for specific pages. We do not track or record information about identifiable individuals and their visits.
-
-**Information Collected from E-mail:**  
-When you send us personally-identifying information in an e-mail, we use the information you provide only to help us gather the information you might request. In an effort to respond to your request, information you submit may be viewed by various people within Imaginet. Once received, the information to your e-mail is protected in accordance with law, (e.g. the Privacy Act and the Freedom of Information Act).
-
-Security, Intrusion, and Detection:  
-For site security purposes and to ensure that this service remains available to all users, our computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
-
-**Privacy Policy for Subscribers:**
-
-The following additional policies apply to subscribers of our services: To register for our services you will have to provide us with personally-identifiable information to enable us to provide you with our services. The information you provide will be entered into our database.
-
-If you register as a subscriber, we do not make your personally-identifiable information available to anyone unless required by law to do so. 
+If you subscribe to our services, you will need to give us personally-identifiable information that will give you access to our services. This information will be entered into our database, but we do not make it available to anyone outside of the company unless required to do so by law.
