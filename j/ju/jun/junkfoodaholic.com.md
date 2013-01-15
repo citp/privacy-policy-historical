@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junkfoodaholic.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018073154id_/http%3A//www.junkfoodaholic.com/p/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junkfoodaholic.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116004542id_/http%3A//www.junkfoodaholic.com/p/privacy-statement.html) for the most accurate reproduction.*
 
 # A Junk-Foodaholic's Journey to a Healthy Lifestyle: Privacy Statement
 
