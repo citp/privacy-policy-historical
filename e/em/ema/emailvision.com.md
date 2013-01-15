@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailvision.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102194637id_/http%3A//www.emailvision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailvision.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115142952id_/http%3A//www.emailvision.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Marketing Services - Emailvision
 
@@ -7,6 +7,12 @@ This Privacy Statement covers the information practices of Web site that linked 
 Emailvision’s Web sites may contain links to other Web sites. Emailvision is not responsible for the information practices or the content of such other Web sites. The Company encourages you to review the privacy statements of other Web sites to understand their information practices.
 
 By using the Company’s Web sites, you agree with the terms of this Privacy Statement and are consenting to the collection, use, and disclosure of information in accordance with this Privacy Statement.
+
+Emailvision SA has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through this Web site, [www.emailvision.com](http://www.emailvision.com/).
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@emailvision.com.  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+**Emailvision Holdings Ltd.** complies with the U.S.-EU Safe Harbor Framework **and the U.S.-Swiss Safe Harbor Framework** as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal **information** from European Union member **countries and Switzerland**.  **Emailvision Holdings Ltd.** has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view **Emailvision Holdings Ltd.** ’s certification, please visit <http://www.export.gov/safeharbor/>
 
 **2\. Personal Information Collected**  
 Emailvision offers a variety of services that are collectively referred to as the “Service.” Emailvision collects information from individuals who visit the Company’s Web sites (“Visitors”) and individuals who register to use the Service (“Customers”).  
@@ -18,7 +24,7 @@ The Company uses Data About Emailvision Customers to perform the services reques
 The Company may also use Data About Emailvision Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in Emailvision, the Service, and to send you information regarding the Company, such as information about promotions or events.
 
 **Choice/Opt-Out**  
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at **support(at)emailvision.com**.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at **support@emailvision.com**.
 
 Emailvision uses Web Site Navigational Information to operate and improve the Company’s Web sites. The Company may also use Web Site Navigational Information in combination with Data About Emailvision Customers to provide personalized information about the Company.
 
@@ -43,27 +49,31 @@ When you visit Emailvision’s Web sites, the Company collects your Internet Pro
 Emailvision also collects IP addresses from Customers whey they log into the Service as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
 
 **5\. Public Forums and Customer Testimonials**  
-Emailvision may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personally identifiable information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Emailvision is not responsible for the personally identifiable information you choose to submit in these forums.
+Emailvision may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Emailvision is not responsible for the personal information you choose to submit in these forums.
 
 Emailvision posts a list of Customers and testimonials on the Company’s Web sites that contain information such as Customer names and titles. Emailvision obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
 
 **6\. Sharing of Information Collected**  
-Emailvision may share Data About Emailvision Customers with the Company’s agents so that these agents can contact Customers and Visitors who have provided contact information on our behalf. Emailvision may also share Data About Emailvision Customers with the Company’s agents to ensure the quality of information provided. Emailvision does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.  
-Emailvision uses a third-party intermediary to manage credit card processing. is intermediary is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
+Emailvision may share Data About Emailvision Customers with the Company’s agents so that these agents can contact Customers and Visitors who have provided contact information on our behalf. Emailvision may also share Data About Emailvision Customers with the Company’s agents to ensure the quality of information provided. Emailvision does not share, sell, rent, or trade personal information with third parties for their promotional purposes.  
+Emailvision uses a third-party intermediary to manage credit card processing. This company is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
 
-Emailvision reserves the right to disclose personally identifiable information of the Company’s Customers or Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
+Emailvision reserves the right to disclose personal information of the Company’s Customers or Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
 
 **7\. Communications Preferences**  
-Emailvision offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to **support(at)emailvision.com**.
+Emailvision offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to **support@emailvision.com**.
 
 **8\. Correcting and Updating Your Information**  
-Customers may update or change their registration information by editing their user or organization record. To update a user profile, please login to [**http://www.campaigncommander.com**](http://www.campaigncommander.com/) with your Campaign Commander™ username and password and click “Manage Account.”
+Customers may update, delete or change their registration information by editing their user or organization record. To update or delete a user profile, please login to [**http://www.campaigncommander.com**](http://www.campaigncommander.com/) with your Campaign Commander™ username and password and click “Manage Account" or by emailing our Customer Support at **support@emailvision.com**.
+
+We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Blogs**  
 Our Web site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
+To request removal of your personal information from our blog or community forum, contact us at **support@emailvision.com**. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
 **Customer Testimonials/Comments/Reviews**  
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+We post customer testimonials/comments/reviews on our web site which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at **support@emailvision.com**.
 
 **9\. Customer Data**
 
@@ -73,21 +83,30 @@ Emailvision provides a wide variety of services and solutions to its business cl
 Emailvision Customers use the Service to host data and information (“Customer Data”). Emailvision will not review, share, distribute, or reference any such Customer Data except as provided in the Emailvision Master Subscription Agreement, or as may be required by law. Individual records of Customer Data may be viewed or accessed only for the purpose of resolving a problem, support issues, or suspected violation of the Emailvision Master Subscription Agreement, or as may be required by law. Customers are responsible for maintaining the security and confidentiality of their Campaign Commander™ usernames and passwords.
 
 **10\. Children’s Protection**  
-We do not collect, use, or disclose information from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at **privacy(at)emailvision.com**. If we learn or have reason to suspect that an Emailvision Web site visitor is under age 13, we will promptly delete any personal information regarding that visitor.
+We do not collect, use, or disclose information from children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us at **privacy@emailvision.com**. If we learn or have reason to suspect that an Emailvision Web site visitor is under age 13, we will promptly delete any personal information regarding that visitor.
 
 **11\. Security**  
 Emailvision uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Service is accessed using Internet Explorer version 6.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer (“SSL”) technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. Emailvision also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. Emailvision also offers enhanced security features within the Service that permit Customers to configure security settings to the level they deem necessary. Because the Company uses the Service to maintain Data About Emailvision Customers, this information is secured in the same manner as described above for Customer Data.
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at **security(at)emailvision.com**.
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at **security@emailvision.com**.
 
-**12\. Changes to this Privacy Statement**  
+**12\. Additional Information**
+
+_Links to 3rd Party Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Emailvision SA. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+_Social Media Widgets_
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+**13\. Changes to this Privacy Statement**  
 Emailvision reserves the right to change this Privacy Statement. Emailvision will provide notification of the material changes to this Privacy Statement through the Company’s Web sites at least thirty (30) business days prior to the change taking effect.
 
-**13\. Contacting Us**  
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to Emailvision Privacy by emailing **privacy(at)emailvision.com** or by mailing:
+**14\. Contacting Us**  
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to Emailvision Privacy by emailing **privacy@emailvision.com** or by mailing:
 
 Emailvision Privacy  
 Lynton House  
 7-12 Tavistock Square  
-London WC1H 9LT - United Kingdom  
- 
+London WC1H 9LT - United Kingdom
