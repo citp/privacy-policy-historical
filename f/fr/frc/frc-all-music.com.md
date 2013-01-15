@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frc-all-music.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526140559id_/http%3A//frc-all-music.com/%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frc-all-music.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115024356id_/http%3A//frc-all-music.com/%3Ft%3Dprivacy_policy) for the most accurate reproduction.*
 
-# FRC ALLMusic From Rock to Classic - Privacy Policy
+# FRC ALL Music From Rock to Classic - Privacy Policy
 
 ## Privacy Policy
 
