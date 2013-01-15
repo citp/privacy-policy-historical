@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumtotalsystems.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010090429id_/http%3A//www.sumtotalsystems.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumtotalsystems.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115144147id_/http%3A//www.sumtotalsystems.com/home/privacy.html) for the most accurate reproduction.*
 
 # Talent Management, Employee Performance Management Software, Performance Appraisals
 
@@ -117,7 +117,7 @@ SumTotal complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S
 
 ###  **Contacting Us**
 
-If you have any questions regarding this Privacy Policy or wish to access or correct your personal information that we collect, please contact us at [privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com) Written inquiries may be sent to: SumTotal Systems, Inc., 2850 NW 43rd Street, Suite #200, Gainesville, FL 32606 USA , and Attention: Privacy Policy.
+If you have any questions regarding this Privacy Policy or wish to access or correct your personal information that we collect, please contact us at [privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com) Written inquiries may be sent to: SumTotal Systems, LLC, 2850 NW 43rd Street, Suite #200, Gainesville, FL 32606 USA , and Attention: Privacy Policy.
 
-©2004 - 2010 SumTotal Systems, Inc. All rights reserved.  
+©2004 - 2010 SumTotal Systems, LLC. All rights reserved.  
 Privacy Policy last updated July 26, 2010. 
