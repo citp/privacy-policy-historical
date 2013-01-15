@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joomlage.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014070158id_/http%3A//www.joomlage.com/general-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlage.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115095120id_/http%3A//www.joomlage.com/general-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Joomlage
+# Privacy Policy - Joomla Templates - Fresh New Designs
 
 **What information do we collect?**  
 We collect information from you when you place an order or subscribe to our newsletter.  
