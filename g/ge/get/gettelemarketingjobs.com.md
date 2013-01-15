@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettelemarketingjobs.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015082442id_/http%3A//www.gettelemarketingjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettelemarketingjobs.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115143418id_/http%3A//www.gettelemarketingjobs.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ GetTelemarketingJobs.com
 
