@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsourcingmechanics.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104135424id_/http%3A//outsourcingmechanics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsourcingmechanics.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115024454id_/http%3A//outsourcingmechanics.com/privacy) for the most accurate reproduction.*
 
 # Outsourcing Mechanics Privacy Policy
 
