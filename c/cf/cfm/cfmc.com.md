@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfmc.com privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806080156id_/http%3A//www.cfmc.com/about-us/contact-us/cfmc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfmc.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115143415id_/http%3A//www.cfmc.com/about-us/contact-us/cfmc-privacy-policy) for the most accurate reproduction.*
 
 # CfMC Privacy Policy | CfMC Research Software
 
@@ -70,8 +70,8 @@ We may use cookies to store or acquire data about you and to assist us in conduc
 
 CfMC complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  CfMC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  CfMC’s Safe Harbor certification can be found at [https://safeharbor.export.gov/list.aspx](https://safeharbor.export.gov/list.aspx). For more information about the Safe Harbor Principles, please visit the [U.S. Department of Commerce’s Website](http://export.gov/safeharbor/ "US Dept of Commerce safe harbor") .
 
-[We self-certify compliance with:](http://www.export.gov/safeharbor "safe harbor")  
-
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx "safe harbor")  
+[](http://www.export.gov/safeharbor "safe harbor website")
 
 **Privacy Complaints by European Union Citizens**
 
