@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acurafinancialservices.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508120229id_/http%3A//www.acurafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acurafinancialservices.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115065802id_/http%3A//www.acurafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Acura Auto Leasing and Financing - Privacy Policy
 
