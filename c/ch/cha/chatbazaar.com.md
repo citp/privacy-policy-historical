@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919205406id_/http%3A//chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatbazaar.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115090422id_/http%3A//www.chatbazaar.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Chat, Free Chat, Free Chat rooms, Chatting, UK US London Dating Chat - Privacy Policy : www.chatbazaar.com
 
@@ -16,6 +16,10 @@ Chatbazaar.com cares deeply about online privacy If you have any questions conce
 
 Chatbazaar.com collects user information during registration information such as full name, date of birth, gender, country, city , home town and email to authenticate user and send notification and updates relating to chatbazaar.com's services.  
 Chatbazaar.com also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from users and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes We may also use a user's email address to send updates, a newsletter or news regarding the service.
+
+### Credit card details, Customer details and Use
+
+We do not store credit card details nor do we share customer details with any 3rd parties. 
 
 ### Google Adverts
 
