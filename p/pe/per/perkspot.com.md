@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102015127id_/http%3A//www.perkspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perkspot.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115122149id_/http%3A//www.perkspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « perkspot.com
 
@@ -98,6 +98,6 @@ By Phone: 312.423.7887
 By Mail:  
 ATTN: Customer Service Department  
 12 Interactive LLC  
-224 W. Huron St.  
-Suite 6E  
+216 W Ohio St.  
+Suite 400  
 Chicago, IL 60654
