@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the downeu.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920105733id_/http%3A//www.downeu.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downeu.net privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115115017id_/http%3A//www.downeu.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-Our privacy principles were changed.We’ll never sell your personal information or share it.Other than rare circumstances like valid legal requests.
+Our privacy principles were changed.We’ll never sell your personal information or share it.Other than rare circumstances like valid legal requests. **(Only for posters)**  
+
 
 We don't accept erotic,sexual,pornographic contents to our website.We are working find inappropriate content.Please report sexual,erotic,porno or any harmful content via comments and you can send email to downeu[at]gmail.com about this issues. **  
 **
@@ -13,9 +14,6 @@ By using our Web site, you consent to the collection and use of this information
 
  **Third Party Advertising**  
 We use search software third-party advertising companies to serve ads when you visit our Web site. _This ads only a link and was added to posts and search pages._
-
- **Third Party Cookies**  
- **We do not use any advertising that require cookies at this time.**
 
  **Modification of Privacy Policy**  
 Downeu.net reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
