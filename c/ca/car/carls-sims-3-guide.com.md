@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carls-sims-3-guide.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018213101id_/http%3A//www.carls-sims-3-guide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carls-sims-3-guide.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115022507id_/http%3A//www.carls-sims-3-guide.com/privacy.php) for the most accurate reproduction.*
 
 # Carl's Sims 3 Guide - Privacy
 
