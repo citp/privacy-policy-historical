@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fforfree.net privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226183927id_/http%3A//www.fforfree.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fforfree.net privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115201433id_/http%3A//www.fforfree.net/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy. ~ FforFree.net - Worldwide Free Stuff, Contests, Deals, Hot News, Sweepstakes, Prizes & much more.
+# Privacy Policy. ~ FforFree.net - Worldwide Free Stuff, Contests, Deals, Sweepstakes, Prizes, India Free Stuff, News.
 
 ##  [Privacy Policy.](http://www.fforfree.net/p/privacy-policy.html)
 
