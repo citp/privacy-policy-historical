@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postable.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002201719id_/https%3A//www.postable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postable.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115040146id_/https%3A//www.postable.com/privacy) for the most accurate reproduction.*
 
 # Postable - The easiest way to get people's mailing addresses
 
@@ -40,4 +40,4 @@ Our Site is designed for use solely by individuals 13 years and older. By using 
 
 ### Questions
 
-For any questions or comments you may have about this Privacy Policy, please contact us at: [info@postable.com.](https://web.archive.org/web/20121002201719id_/https%3A//www.postable.com/info@postable.com)
+For any questions or comments you may have about this Privacy Policy, please contact us at: [info@postable.com.](https://web.archive.org/web/20130115040146id_/https%3A//www.postable.com/info@postable.com)
