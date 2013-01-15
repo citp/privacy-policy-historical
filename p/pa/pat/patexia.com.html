@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the patexia.com privacy policy that was archived on 2012-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121017211018id_/http%3A//www.patexia.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the patexia.com privacy policy that was archived on 2013-01-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130115230954id_/http%3A//www.patexia.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec"><head>
 		<title>Privacy Policy | Patexia.com</title>		
@@ -10,7 +10,7 @@
 
 	    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/js/compiled/application0cdf61037d7053ca59347ab230818335.js"></script>
+<script type="text/javascript" src="/js/compiled/applicationa0ba2648acd23dc7a5829968ce531a7d.js"></script>
 <script type="text/javascript">
     //<!--
 $(document).ready(function() {
@@ -23,7 +23,22 @@ var interest = $('.leftColItem').find('.staticglossary');
 interest.parent().remove();
 
 
-    $(function(){
+    initSubmit = function() {
+    $("#frmContactUs").submit(function(){
+        var $form=$("#frmContactUs");
+        $.post($form.attr("action"), $form.serialize(), function(data)
+        {
+            $form.remove();
+            $("#middleCol").append(data.html);
+            $("#middleCol .styledSelect").styleSelect({jScrollPane: 1});
+            initSubmit();
+            Application.flashMessager(data.flashMessage);
+        });
+        return false;
+    });
+}
+
+$(function(){
     var hash = location.hash.replace(/^#/, '')
  // $('html,body').animate({scrollTop:$('[name="'+this.hash.substring(1)+'"]').offset().top+800}, 500);
   
@@ -97,15 +112,10 @@ interest.parent().remove();
     	parent.toggleClass("open");
     });
 
-    $('.userSetings .arrow').click(function(){
-    	var parent = $(this).parent();
-    	parent.children('.setingsBox').toggle();
-    	parent.toggleClass("open");
-    });
-
+    
 });
     //-->
-</script>	    <link href="/css/compiled/application0cdf61037d7053ca59347ab230818335.css" media="screen" rel="stylesheet" type="text/css">
+</script>	    <link href="/css/compiled/applicationa0ba2648acd23dc7a5829968ce531a7d.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/images/general/favicon.ico" rel="shortcut icon">
 <!--[if IE]> <link href="/css/ie.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->    	    	<script type="text/javascript">
 	var _gaq = _gaq || [];
@@ -117,12 +127,19 @@ interest.parent().remove();
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-</script>	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+</script>        <!--[if gte IE 8]>
+			<style>
+            	.contestAnswerForm .userBlogTable td{float:left; }
+                .contestAnswerForm .userBlogTable .cke_editor td{float:none;}
+            </style>
+		<![endif]-->
+        
+	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 	    <body class="defaultModule pageController viewAction  ">
 	    <div id="fb-root"></div>
 <script>
     window.fbAsyncInit = function() {
-        FB.init({"appId":"158230814236392","key":"1bbc7285f19f9c2ed815d843c1e908d6","secret":"aee7aa0799afe2961f964901a3acc7e7","cookie":true,"logging":false,"channelUrl":"\/\/irvine.patexia.com\/facebook_channel.php","status":false,"xfbml":false,"oauth":true});
+        FB.init({"appId":"158230814236392","key":"1bbc7285f19f9c2ed815d843c1e908d6","secret":"aee7aa0799afe2961f964901a3acc7e7","cookie":true,"logging":false,"channelUrl":"\/\/patexia.com\/facebook_channel.php","status":false,"xfbml":false,"oauth":true});
     };
 
     // Load the SDK Asynchronously
@@ -167,6 +184,9 @@ interest.parent().remove();
             <li>
                 <a id="menu-topOrg" href="/companies/list">Organizations</a>
             </li>
+            <li class="ipStatisticLink">
+                <a href="/ip-research/statistic">Stats</a>
+            </li>
         </ul>
     </li>
 </ul>                                  </div> 
@@ -210,9 +230,9 @@ interest.parent().remove();
                         
 					</div>
 				</div>
-			                                                <div id="pageTitle">
-                                                    Patexia. <span>Privacy Policy</span>                                             </div>
-                            			<div id="contentWrapper" style="padding-top:60px;">
+			                                    <div id="pageTitle" class="businessMemberPageTitle">
+                                                                    Patexia. <span>Privacy Policy</span>                                                             </div>
+            			<div id="contentWrapper" style="padding-top:60px;">
             
 <script>
 	$(function(){
@@ -251,7 +271,7 @@ interest.parent().remove();
                 </div>
                 
                 <div class="slide">
-                    <span class="left">Earn rewards and gain exposure with Prior Art Search contests. <a href="/contests/charge-pump-circuit">VIEW LATEST CONTEST »</a> </span>
+                    <span class="left">Earn rewards and gain exposure with Patent Study. <a href="/contests/stent">VIEW LATEST CONTEST »</a> </span>
                     
                 </div>
                 
@@ -332,13 +352,13 @@ interest.parent().remove();
         <a href="/search_guide.html">Using Patexia's Patent Research Tools</a>
     </li>
     <li>
-        <a href="/prior_art_contests.html">Tips for Patexia Prior Art Contests</a>
+        <a href="/prior_art_contests.html">Tips for Patexia Patent Study</a>
     </li>
     <li>
         <a href="/glossary.html">Intellectual Property Glossary</a>
     </li>
     <li>
-        <a href="/prior_art_search_resources.html">More Prior Art Search Resources</a>
+        <a href="/prior_art_search_resources.html">More Patent Study Resources</a>
     </li>
 </ul>        </li>
     </ul>
@@ -441,7 +461,7 @@ interest.parent().remove();
     			</div>
          		<footer>
 		<link href="/images/general/favicon.ico" rel="shortcut icon">
-<link href="/css/compiled/application0cdf61037d7053ca59347ab230818335.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/compiled/applicationa0ba2648acd23dc7a5829968ce531a7d.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/images/general/favicon.ico" rel="shortcut icon">
 <!--[if IE]> <link href="/css/ie.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->	</footer>
          	<div style="clear:both"></div>	
@@ -451,7 +471,7 @@ interest.parent().remove();
          			         		<footer>
 	    			    <div id="footer" class="pageLayout">
 	        				<!-- <a href="http://www.patexia.com" class="footerLogo" title="Home"></a>  -->
-	        				<div class="footerLeft">© 2010-2012 Patexia INC. All Rights Reserved. (v.5.0)</div>
+	        				<div class="footerLeft">© 2010-2013 Patexia INC. All Rights Reserved. (v.5.3.2)</div>
 	        				<div class="footerRight">
 	        								<a href="/about_us.html">About Us</a>	&nbsp;|&nbsp; 		<a id="menu-pressrelease" class="submenu" href="/pressrelease">Press Releases</a>	&nbsp;|&nbsp; 		<a href="/contact_us.html">Contact Us</a>	&nbsp;|&nbsp; 		<a href="/career.html">Careers</a>	&nbsp;|&nbsp; 		<a href="/privacy_policy.html">Privacy Policy</a>	&nbsp;|&nbsp; 		<a href="/terms_of_service.html">Terms of Service</a>	&nbsp;|&nbsp; 		<a href="/faq.html">FAQ</a>	&nbsp;|&nbsp; 		<a href="/glossary.html">Glossary</a>	&nbsp;|&nbsp; 		<a href="/blog">Blog</a>		        				</div>
 	        				<div class="clear"></div>
