@@ -1,33 +1,26 @@
-> *The following text is extracted and transformed from the fireloading.com privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227003846id_/http%3A//www.fireloading.com/%3Fpage_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireloading.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115195324id_/http%3A//fireloading.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Free Source of Programs
+# Privacy Policy for FireLoading.CoM
 
-**Privacy Policy for Fireloading.com**  
-  
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@Fireloading.com](mailto:info@Fireloading.com)
+**Logging IP Addresses**  
+For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by **FireLoading** for measuring usage.
 
-At www.Fireloading.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.Fireloading.com and how it is used.
+**Collecting e-mail Addresses**  
+We collect the e-mail addresses of **FireLoading** Delivery recipients and senders for the purpose of logging and measuring usage. **FireLoading** does not rent, sell, or share personal information about you with nonaffiliated companies.
 
-**Log Files**  
-Like many other Web sites, www.Fireloading.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**Certain Exceptional Disclosures**  
+We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law or if we receive legal process.
 
-**Cookies and Web Beacons**  
-www.Fireloading.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+**Use of Cookies**  
+**FireLoading   **uses cookies to store the preferences of users.
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on your site.  
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+**File Transfer Security**  
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Files stored for delivery are only accessible by **FireLoading** and through the clickable link generated for your recipient. All files stored for delivery are deleted when they expire.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
+**Third Party Advertising**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.Fireloading.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser or using web beacons to collect information.
 
-www.Fireloading.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.Fireloading.com’s  privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-[Home](http://fireloading.com/)
+﻿ 
