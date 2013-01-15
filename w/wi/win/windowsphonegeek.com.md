@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windowsphonegeek.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104090610id_/http%3A//windowsphonegeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsphonegeek.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115014719id_/http%3A//windowsphonegeek.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 This privacy policy explains our privacy practices for WindowsPhoneGeek.com and all other services provided by WPGeek Ltd (“WPGeek”). Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
