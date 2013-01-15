@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fliptoast.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227023925id_/http%3A//download.fliptoast.com/lm/products/fliptoast/fliptoast_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fliptoast.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115053448id_/http%3A//download.fliptoast.com/lm/products/fliptoast/fliptoast_privacypolicy.html) for the most accurate reproduction.*
 
 # FLIPTOAST PRIVACY POLICY STATEMENT
 
