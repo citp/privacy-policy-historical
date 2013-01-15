@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcontentfind.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919213458id_/http%3A//bestcontentfind.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcontentfind.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115192217id_/http%3A//bestcontentfind.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Bestcontentfind.com- Privacy Policy
 
