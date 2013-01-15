@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ta4a.info privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227085120id_/http%3A//www.ta4a.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ta4a.info privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115014325id_/http%3A//ta4a.info/privacy.php) for the most accurate reproduction.*
 
 # Tamer El-Dawoody- Ta4a Free Hosting:|| Privacy Policy
 
