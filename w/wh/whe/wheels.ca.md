@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheels.ca privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226043154id_/http%3A//www.thestar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheels.ca privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115073248id_/http%3A//www.thestar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Code - thestar.com
 
