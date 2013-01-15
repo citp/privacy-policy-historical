@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the hdwallpapersdepot.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105020620id_/http%3A//www.hdwallpapersdepot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapersdepot.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115125950id_/http%3A//www.hdwallpapersdepot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Download HD Wallpapers From HD Wallpapers Depot
+# Privacy Policy | HD Wallpapers and Pictures for Desktop.
 
-The owners and operators of [hdwallpapersdepot.com](http://www.hdwallpapersdepot.com/) take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.  
-**Personally Identified Data**
+Privacy Policy for  hdwallpapersdepot.com
 
-We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian.
+The privacy of our visitors to hdwallpapersdepot.com is important to us.
 
-We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material.  
-**Server Logs**
+At hdwallpapersdepot.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit hdwallpapersdepot.com, and how we safeguard your information.  We never sell your personal information to third parties.
 
-Like most web sites, hdwallpapersdepot.com logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.  
-**Cookies**
+**Log Files**  
+As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-While browsing hdwallpapersdepot.com, a small number of text files referred to as “cookies” may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of hdwallpapersdepot.com will function as expected without cookies enabled.  
-**Third-Party Advertisers**
+**Cookies and Web Beacons**  
+We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-In order to cover the costs of providing hdwallpapers as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by hdwallpapersdepot.com’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
+We also use third party advertisements on hdwallpapersdepot.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+**DoubleClick DART Cookie**
 
 _Google Adsense:_
 
@@ -28,13 +28,8 @@ We present you the following information about Google and the [DoubleClick DART
 
 
 
-**Sharing/Selling of Data**
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-HDwallpapersdepot.com does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy.  
-**Data Retention**
+**How to Contact US**
 
-The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes.  
-For any problems or questions don’t hesitate to [contact us.](http://www.hdwallpapersdepot.com/contact-us "Contact us")
-
-Yours sincerely!  
-HDwallapaersDepot.com
+If you have any questions or concerns about our privacy policy please don’t feel hesitate to [contact us.](http://www.hdwallpapersdepot.com/contact-us "Contact us")
