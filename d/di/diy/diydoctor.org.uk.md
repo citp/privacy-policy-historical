@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016041626id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115011057id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # DIY Doctor Privacy Policy | Privacy Policy Information and Protecting Customer Information
 
@@ -115,6 +115,12 @@ In order to bring you offers and information that may be of interest to you, we 
   3. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply any agreements we have entered into with you or any third party; or to protect the rights, property, or safety of DIY Doctor Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
+
+## Credit Cards and Payments
+
+Credit card details are not recorded, copied or saved by DIY Doctor. All details are destroyed after 7 days in our possession.
+
+We do not share or sell customer details with any third party.
 
 ## Your rights
 
