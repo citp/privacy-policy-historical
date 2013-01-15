@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netdetective.net privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015102109id_/https%3A//www.netdetective.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netdetective.net privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115131633id_/https%3A//www.netdetective.net/privacy-policy.php) for the most accurate reproduction.*
 
 # NET DETECTIVE PRIVACY POLICY - HD Publishing Group, Inc.
 
