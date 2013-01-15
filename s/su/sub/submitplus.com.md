@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the submitplus.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224144945id_/http%3A//submitplus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitplus.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115222907id_/http%3A//submitplus.com/privacy.htm) for the most accurate reproduction.*
 
-# Submit Plus Privacy
+# Walkinweb Privacy Policy
 
-### Walkinweb Inc (DBA Netix - Submit Plus) - Privacy Policy
+### Walkinweb Inc - Privacy Policy
 
 Walkinweb, Inc is committed to user privacy in its products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
 
