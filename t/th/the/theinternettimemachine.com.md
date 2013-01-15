@@ -1,60 +1,64 @@
-> *The following text is extracted and transformed from the theinternettimemachine.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103080601id_/http%3A//www.theinternettimemachine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternettimemachine.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115030112id_/http%3A//www.theinternettimemachine.com/privacy) for the most accurate reproduction.*
 
-# Contractor Internet Sales
+# The Internet Time Machine - Privacy Policy
 
-We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. **By visiting us, you are accepting the privacy policy described below.**
+Privacy Policy
 
-**1.   What Personal Information Do We Collect?**
+This privacy policy sets out how TheInternetTimeMachine.com Inc. uses and protects any information that you give TheInternetTimeMachine.com Inc. when you use this website. 
 
-  * **Information You Provide.**  We receive and store information you enter.  For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.  We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.  In addition, if you choose, we may share your information with other companies who provide goods or services that you are interested in.  Please see the “opt-in/opt-out” selection in Section 4 of this policy.
-  * **Cookies.** Like many websites, we use "cookies".  Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience.  If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the “help” button.  Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie.  In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies. 
-  * **Other Information:** Every computer has an IP (Internet Protocol) address.  IP addresses of computers used to visit this site are noted.  In addition, we automatically collect other information such as email addresses, browser types, operating systems, and the URL addresses of sites clicked to and from this site. 
-  * **Information from Other Sources**.  We might receive information about you from other sources and add it to our account information.  This may include updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. 
+TheInternetTimeMachine.com Inc. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. TheInternetTimeMachine.com Inc. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
+**What we collect**
 
+We may collect the following information:
 
-**2.   How Do We Use Your Information?**
-
-  * **Customized Shopping.   **We use your information to better serve you by providing a customized shopping experience.  As noted above, you may “opt-out” of this customization, or even visit and shop anonymously.
-  * **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * **Special Offers**.  We may send you special offers from time to time, unless you choose to “opt-out” of receiving such offers.  In addition, we may also send you special offers from other companies.  Again, you may “opt-out”.  If we send you offers from other businesses, we do not share your personal information with them.  The offers come directly through us.  Please see the “opt-in/opt-out” selection at the end of this policy. 
-  * **Business Transfers**. As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets. 
-  * **Law Enforcement.    **If we receive a lawful court order to release account or other personal information then we will comply with the law.  We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-**3.   How Do We Protect the Security of Your Information?**
+**What we do with the information we gather**
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * We use encryption to protect your information contained in our customer list.
-  * We use a firewall to protect against unlawful intrusion.
-  * We limit access to your information on a “need to know” basis.
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
-  * No system can guarantee absolute security, just as the finest lock can not guarantee physical security.  However, we take every reasonable precaution to assure that your data is secure.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: Internal record keeping. 
 
+We may use the information to improve our products and services. 
 
+We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
 
-**4.   Your Choice:  Opt-in or Opt-out.**
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
-It is your choice whether to receive emails or special offers from us or others.  The following section provides you with this choice.  Please note the default settings.
+**Security**
 
-·        Please send me email or other mail informing me of special offers of your products or services.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-·        Please do not send me email or other mail informing me of special offers of your products or services.
+**How we use cookies**
 
-·        Please send me email or other mail informing me of special offers of related products or services from other companies.
+A cookie is a small file which asks permission to be placed on your computerâ€™s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
-·        Please do not send me email or other mail informing me of special offers of related products or services from other companies.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-**5.   Children**
+**Links to other websites**
 
-We do not sell products or services to children. If you are under 18, you may use this site only with involvement of a parent or guardian.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-**6.   Other Websites**
+**Controlling your personal information**
 
-Various Web sites may be linked to from this site.  If you link to another site, your privacy depends on the policy of that site.  We strongly urge you to check their privacy policy.  Not all sites guarantee that they will not share your personally identifiable information with others.  You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance ([www.privacyalliance.org](http://www.privacyalliance.org/)).
+You may choose to restrict the collection or use of your personal information in the following ways: 
 
-**7.   Contact Us**
+1\. whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
 
-If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us at info@theinternettimemachine.com.  You will be required to provide identifier information to assure that this information is not released to others.  We reserve the right to modify this policy in the future.  If we do so, notice will be posted on our home page.
+2\. if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@theinternettimemachine.com 
+
+3\. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+4\. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
+
+TheInternetTimeMachine.com Inc.  
+\--  
+21 W Olympia Ave  
+Woburn, MA. 01801  
+United States of America.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
