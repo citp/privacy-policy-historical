@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liverpool-degrees.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202173707id_/http%3A//www.liverpool-degrees.com/en/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpool-degrees.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115073943id_/http%3A//liverpool-degrees.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
