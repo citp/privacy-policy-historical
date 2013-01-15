@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashiongames247.com privacy policy that was archived on 2012-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120928003515id_/http%3A//www.fashiongames247.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiongames247.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115162227id_/http%3A//www.fashiongames247.com/page/1.html) for the most accurate reproduction.*
 
 # Fashion Games - Free Fashion Games for people who love fashion - Privacy Policy
 
