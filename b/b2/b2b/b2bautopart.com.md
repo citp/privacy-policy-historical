@@ -1,27 +1,23 @@
-> *The following text is extracted and transformed from the b2bautopart.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511055433id_/http%3A//www.b2bautopart.com/privacy-notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2bautopart.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115051726id_/http%3A//www.b2bautopart.com/privacy-notice.htm) for the most accurate reproduction.*
 
 # Privacy Notice - Saiding Auto Parts Co., Ltd.
 
 English 
 
+Saiding Auto Parts Co., Ltd.
+
 [](http://www.b2bautopart.com/ "Saiding Auto Parts Co., Ltd.")
 
-Saiding Auto Parts Co., Ltd. 
+[Home](http://www.b2bautopart.com/) > Privacy Notice
 
-  
-
-You are here : [ Home ](http://www.b2bautopart.com/)> Privacy Notice 
-
-**Mr**.Kevin Song   
-**Tel:** 086-020-87744119
+Blair Wang  
+Phone:86-020-23329580
 
 [
 
 ](http://www.tradevv.com/Verified/index.htm)
 
-Privacy Notice 
-
-     [$thisMember.Host](http://%24thismember.host/) is aware that the security of your private information from the use of our website is an important concern. We take the protection of your personal data very seriously. Therefore we would like you to know what data we maintain and what data we discard. With this privacy notice, we would like to inform you about our security measures.
+     [www.b2bautopart.com](http://www.b2bautopart.com/) is aware that the security of your private information from the use of our website is an important concern. We take the protection of your personal data very seriously. Therefore we would like you to know what data we maintain and what data we discard. With this privacy notice, we would like to inform you about our security measures.
 
 Collection and processing of personal data
      We collect personal data only when you provide it to us, through registration, completion of forms or e-mails, as part of an order for products or services, inquiries or requests about materials being ordered and similar situations in which you have chosen to provide the information to us. The database and its contents remain at our company and stay with data processors or servers acting on our behalf and responsible to us. Your personal data will not be passed on by us for use by third parties in any form whatsoever, unless we have obtained your consent or are legally required to do so. We will retain control of and responsibility for the use of any personal data you disclose to us. Some of this data may be stored or processed at computers located in other jurisdictions, such as the United States, whose data protection laws may differ from the jurisdiction in which you live. In such cases, we will ensure that appropriate protections are in place to require the data processor in that country to maintain protections on the data that are equivalent to those that apply in the country in which you live.
@@ -46,6 +42,4 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 
 Choice and Opt-Out
-     If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [gzsaiding@yahoo.cn](mailto:gzsaiding@yahoo.cn)
-
-Please send your message to us 
+     If you no longer wish to receive promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing at [gzsaiding@yahoo.cn](mailto:gzsaiding@yahoo.cn)
