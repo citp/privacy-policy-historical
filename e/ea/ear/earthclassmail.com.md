@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017055132id_/http%3A//www.earthclassmail.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115171042id_/https%3A//www.earthclassmail.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Earth Class Mail
 
@@ -110,8 +110,7 @@ Direct Marketing Association
 1615 L St. NW, Ste 1100  
 Washington, DC 20036-5624  
 [safeharbor @ the-dma.org](mailto:safeharbor@the-dma.org)  
-<http://www.dmaresponsibility.org/SafeHarbor/consumers.shtml>   
-
+<http://www.dmaresponsibility.org/SafeHarbor/consumers.shtml>
 
 ## Changes to this policy
 
