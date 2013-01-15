@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the icanhazchat.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615043830id_/http%3A//icanhazchat.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanhazchat.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116001235id_/http%3A//www.icanhazchat.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy | 
 
 ### Privacy Policy
 
@@ -35,6 +33,8 @@ You can instruct your browser to refuse all cookies or to alert you before accep
 ### Disclosure and Sharing of Information
 
 Compliance with Laws and Law enforcement - IHAZACHAT may disclose any and all information, including Personal Information, if it is required to do so by (or in its sole and good-faith discretion, believes that such action is necessary to comply with) any applicable law or regulation, or an order of a court or other governmental body having jurisdiction. IHAZACHAT may also disclose your Personal Information if in its sole and good-faith discretion believes that such disclosure is necessary to enforce the Terms of Service, take precautions against possible liability, investigate and defend itself against any yours or any third-party claims or allegations, protect its property and rights (including the security or integrity of the Website), protect the property, rights or safety of any third party, and/or prevent or stop any illegal or unethical activity. Please note that aggregate information and metrics about the Website (such as number of users), but not Personal Information, may be disclosed to the public, in order to comply with applicable securities laws and regulations. 
+
+Multi-site harassment - if you are harassing ICHC users on other sites we may share information with the admins of those sites. 
 
 Sale, Merger or Acquisition - IHAZACHAT may sell, transfer, assign or otherwise share some or all of its assets, including information it has collected, in connection with a merger, acquisition, reorganization, sale of assets, change of control or in the unfortunate event of bankruptcy. In such case, your Personal Information may become subject to a different privacy policy. 
 
