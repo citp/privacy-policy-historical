@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dexplatform.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215073500id_/http%3A//dexplatform.com/publisher_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexplatform.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115183935id_/http%3A//dexplatform.com/publisher_privacy.php) for the most accurate reproduction.*
 
 # DexPlatform.com Publishers Network
 
