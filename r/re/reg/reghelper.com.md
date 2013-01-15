@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reghelper.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919215505id_/http%3A//www.reghelper.com/rh/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghelper.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115060617id_/http%3A//www.reghelper.com/rh/privacy.asp) for the most accurate reproduction.*
 
 # Registry Helper From SafeApp Software, LLC - Detects And Deletes Invalid Entries In Your Computer's Registry
 
@@ -72,7 +72,7 @@ The Site is not intended for use by children. We do not allow persons under the 
 
  **7. _Your Choices/Opt-Out_.**
 
-Users who no longer wish to receive our advertising or promotional communications can click on the opt-out mechanism provided in the e-mail communication or the user may contact us at [ http://www.reghelper.com/rh/email.asp](http://www.reghelper.com/rh/email.asp?ws=Privacy%20Unsubscribe&ak=&url=/rh/privacy.asp).
+Users who no longer wish to receive our advertising or promotional communications can click on the opt-out mechanism provided in the e-mail communication, or fill out our unsubscribe form at <http://www.reghelper.com/rh/regunsub.asp>, or the user may contact us at [ http://www.reghelper.com/rh/email.asp](http://www.reghelper.com/rh/email.asp?ws=Privacy%20Unsubscribe&ak=&url=/rh/privacy.asp).
 
 Users of our Site are always notified when their information is being collected by an outside party. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
@@ -95,13 +95,14 @@ If you have any questions about this Privacy Policy or the practices described h
 > Safe _App_ Software, LLC  
 >  600 Mamaroneck Avenue, Suite 400  
 >  Harrison, New York 10528  
+>  Phone: 1-914-468-0874  
 >  E-mail: [ http://www.reghelper.com/rh/email.asp](http://www.reghelper.com/rh/email.asp?ws=Privacy%20Questions&ak=&url=/rh/privacy.asp)
 
 We welcome your questions and/or suggestions about our Privacy Policy. **12. _Revisions to this Privacy Policy/Opt-Out_.**
 
 Safe
 
- _App_ Software reserves the right to revise, amend or modify this Privacy Policy at any time and in any manner. If our information practices change at some time in the future, we will post the policy changes to our Site to notify you of these changes. Where practicable, we will provide you with the ability to opt-out of these new uses. Please check this Privacy Policy periodically to inform yourself of any changes. By accessing the Site or using the Software after modification of the Privacy Policy, you agree to be bound by this Privacy Policy as modified. The last date this Privacy Policy was revised is set forth above. © 2007-2012 Safe _App_ Software, LLC. All rights reserved.
+ _App_ Software reserves the right to revise, amend or modify this Privacy Policy at any time and in any manner. If our information practices change at some time in the future, we will post the policy changes to our Site to notify you of these changes. Where practicable, we will provide you with the ability to opt-out of these new uses. Please check this Privacy Policy periodically to inform yourself of any changes. By accessing the Site or using the Software after modification of the Privacy Policy, you agree to be bound by this Privacy Policy as modified. The last date this Privacy Policy was revised is set forth above. © 2007-2013 Safe _App_ Software, LLC. All rights reserved.
 
   
 
