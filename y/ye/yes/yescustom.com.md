@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the yescustom.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219032646id_/http%3A//www.yescustom.com/article-center/aid/74) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yescustom.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115152654id_/http%3A//www.customdropshipping.com/article-agreement/n/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Custom T-Shirts Online - YesCustom
+# Privacy Policy
 
-* * *
+\--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Yescustom is committed to respecting the privacy rights of our customers and all visitors to our website. We have instituted the following policies and procedures to ensure that your privacy is respected. By visiting Yescustom you agree to the policies stated below:
 
 **Changes to our Privacy Policy**
 
-We may occasionally revise our Privacy Policy to reflect changes in our services and following customer feedback. When any changes are made to this Privacy Policy, we will revise the "last updated" date at the top of this page. If there are changes of production in this Privacy Policy, we will notify you by promptly posting a notice on our site, or by sending you a notification to the email address you have registered on our site. We recommend that you regularly review this Privacy Policy for any updates or changes. 
+We may occasionally revise our Privacy Policy to reflect changes in our services and following customer feedback. When any changes are made to this Privacy Policy, we will revise the "last updated" date at the top of this page. If there are changes of production in this Privacy Policy, we will notify you by promptly posting a notice on our site, or by sending you a notification to the email address you have registered on our site. We recommend that you regularly review this Privacy Policy for any updates or changes.
 
 **What Information do we collect?**
 
@@ -28,7 +28,7 @@ Yescustom will not disclose your personal information to any third party without
 
 We occasionally hire other companies to provide limited service on our behalf, such as handling the processing of delivery of mails, provide customer support, host websites, process transactions, or perform statistical analysis of our services. These companies will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
 
-**    How do we protect your Personal Information?**
+**How do we protect your Personal Information?**
 
 Yescustom is committed to protecting the security of your personal information. We protect the security of your information during transmission by using Secure Socket Layer (SSL) software, which encrypts the sensitive information that you input.
 
@@ -51,3 +51,6 @@ Yescustom is intended for users aged 13 or older. We will not knowingly collect 
 A cookie is a small text file that is placed on your hard disk by a webpage server. Cookies contain information that can later be read by a web server in the domain that issued the cookie. Cookies cannot be used to run programs or deliver viruses to your computer. Yescustom uses cookies to store information that uniquely identifies our users and secures their personal information. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can modify this in your browser settings if you prefer to decline cookies.
 
 If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [order.yescustom@yahoo.com](mailto:order.yescustom@yahoo.com) .We welcome your comments regarding our Privacy Policy. If you have questions or comments, please feel free to e-mail us at [order.yescustom@yahoo.com](mailto:order.yescustom@yahoo.com).
+
+  
+
