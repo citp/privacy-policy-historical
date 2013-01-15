@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filehost.ws privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014001821id_/http%3A//www.filehost.ws/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filehost.ws privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115044304id_/http%3A//www.filehost.ws/privacy.html) for the most accurate reproduction.*
 
-# FileHost.ws - Quality Free File Hosting & Storage
+# FileHost.ws - File Hosting & Storage gratis e di qualita
 
 #### PRIVACY POLICY / YOUR CALIFORNIA PRIVACY RIGHTS
 
