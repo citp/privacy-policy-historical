@@ -1,62 +1,110 @@
-> *The following text is extracted and transformed from the carpages.co.uk privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203012812id_/http%3A//www.carpages.co.uk/legal/default.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpages.co.uk privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115024035id_/http%3A//www.carpages.co.uk/about/legal.asp%23cookie) for the most accurate reproduction.*
 
 # Legal Information | carpages.co.uk
 
-You may use carpages.co.uk for your own personal or business use as long as it falls within our copyright protection system [ see copyright information ] and our privacy policy [ see privacy policy ].
+## Terms of Use
 
-Although we do our best to ensure that all our data is up to date, we do not warrant information to be correct. The information and links we present are for the UK market, please ensure that use of this website is legal from within your own country.
+You may use carpages.co.uk for your own personal or business use as long as it falls within terms and conditions. Please see our copyright information and our privacy policy and our cookie policy.
 
-We do not have any control over nor do we accept responsibility for data from third parties either reproduced on this website or as the result of a link from this website. if in doubt, please seek third party advice before making purchasing decisions.  
+Although we do our best to ensure that all our data is up to date, we do not warrant information to be correct. The information and links we present are for the UK market only. Please ensure that use of this website is legal from within your own country.
 
+We do not have any control over nor do we accept responsibility for data from third parties either reproduced on this website or as the result of a link from this website. If in doubt, please seek third party advice before making purchasing decisions.
 
-If you have any questions or concerns about our terms of use, please contact carpages.co.uk by [ [clicking here](https://web.archive.org/contact/default.asp?contact=Legal+Enquiries) ].
+If you have any questions or concerns about our terms of use, please [contact us](https://web.archive.org/about/contact.asp?contact=Legal+Enquiries&subject=Terms%20Of%20Use).
 
-| We take the issue of copyright seriously - our data and database is protected by protect-IT™ - a state of the art finger printing process, which can identify non-authorised sources and use of our data.
+## Our Cookie Policy
 
-You may NOT use our data for the compilation of databases, mailing lists or for any commercial purpose, including but not limited to websites. 
+The below Cookie policy explains how Cookies are used on our website:
 
-You may NOT use any part of our content on or within your website or other publication, this extends and includes photographs, images and text. 
+**Does this site use Cookies?**
 
-The website including the business and domain name, graphics, layout, data and programming code is the intellectual property and copyright of carpages.co.uk.
+Yes, our website uses Cookies, like most of the websites that are found on the internet today.
 
-All third party trademarks and intellectual property is acknowledged and respected. Any infringement of our copyright will be met with the full extent of the law for which we carry full legal insurance cover.
+**What are Cookies?**
 
-If you have any questions or concerns about our copyright policy, please contact carpages.co.uk by [ [clicking here](https://web.archive.org/contact/default.asp?contact=Legal+Enquiries) ].
+Cookies are small text files that are stored on your computer by your browser. Cookies perform many different functions such as storing analytical information which allows us to see which pages are viewed the most, or Cookies that will make the video player work at the optimum quality for your connection. There are also Cookies from 3rd Party suppliers that we work with such as advertising companies. They use Cookies to understand what advertising you have seen or might like to see based on websites that you have visited, amongst other things.
 
-| 
+**Do Cookies store any data?**
+
+Yes, Cookies store data, but only information about how your browser interacts with websites. They do not store any personal information about who you are, only information about the browser or computer IP address that visited us. You can rest assured that we don't know who you are, your name, your age, your bank details or anything that is personal or sensitive to you. This is not the purpose of a Cookie.
+
+### Types of cookie that may be used during your visit:
+
+**Our use of cookies**
+
+When you visit our site, we will automatically use cookies to optimise your experience. You can however, choose not to accept these cookies by selecting the option below. PLEASE NOTE: If you choose not to accept Cookies, it is likely that our website will not function properly and you may be unable to view content in the manner that it was intended. If you wish to change the cookie settings for your browser at anytime, you can do so by following these links: 
+
+[Google Chrome](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647) / [Internet Explorer](http://support.microsoft.com/kb/278835) or [Windows Phone](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx) / [Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies) / [Safari](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html) or [Safari Mobile Versions](http://support.apple.com/kb/HT1677) / [Opera](http://www.opera.com/browser/tutorials/security/privacy/)
+
+### Overview of the types of cookies that are used on carpages.co.uk
+
+**1\. Personalisation cookies**
+
+These are used to recognise repeat visitors to the website and in conjunction with other information we hold to attempt to record specific browsing information (that is, about the way you arrive at the Website, pages you view, options you select, information you enter and the path you take through the Website). These are used to recommend content we think you'll be interested in based on what you're looked at before.
+
+**2\. Analytics cookies**
+
+These monitor how visitors move around the Website and how they reached it. This is used so that we can see total (not individual) figures on which types of content users enjoy most, for instance.
+
+**3\. Third-party service cookies**
+
+Social sharing, video and other services we offer are run by other companies. These companies may drop cookies on your computer when you use them on our site or if you are already logged in to them.
+
+**4\. Ad management cookies**
+
+Advertisements on this website are provided by 3rd party organisations. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Website and other websites. In order to do this, our advertising partner may need to place a cookie on your computer. These cookies hold information about the computer they don't hold personal information about you (ie it's not linked to you as an individual).
+
+**5\. Site management cookies**
+
+These are used to maintain your identity or session on the Website. For instance, where our websites run on more than one server, we use a cookie to ensure that you are sent information by one specific server (otherwise you may log in or out unexpectedly). We may use similar cookies when you vote in opinion polls to ensure that you can only vote once, and to ensure that you can use our commenting functionality when not logged in (to ensure you don't see comments you've reported as abusive, for instance, or don't vote comments up/down more than once).
+
+## Privacy Policy
 
 **carpages.co.uk** is committed to safeguarding and protecting your privacy online. The Data Protection Act 1998 prohibits your personal information from being disclosed without your express consent. The following statement describes how we use the information collected as part of our service to you:
 
-Please note that no electronic transmission of data using the Internet can be completely secure and so despite our best efforts we are unable to ensure or warrant that any information you send to anyone as a result of this service is secure. 
+Please note that no electronic transmission of data using the Internet can be completely secure and so despite our best efforts we are unable to ensure or warrant that any information you send to anyone as a result of this service is secure.
 
-This site contains links to other websites - carpages.co.uk is not responsible for the content or the privacy practices of these websites. 
+This site contains links to other websites - carpages.co.uk is not responsible for the content or the privacy practices of these websites.
 
 **The information we collect about you:**
 
-We collect information about our users activities, such as their IP addresses, operating systems and browser information. This information is used to develop our website. This information does not reveal any private personal information, such as personal names and addresses of our users.
+We collect information about our users activities, such as their IP addresses, operating systems and browser information. This information is used to develop and undertand the uses our website. This information does not reveal any private personal information, such as personal names and addresses of our users. Nor do we store any personal information.
 
 **How we collect this information:**
 
-We obtain data about your activities on carpages.co.uk by using a combination of cookies* and log analysis software. 
-
-*Cookies - A cookie is a small text file stored on the user's hard drive containing some very basic information about the user. Cookies help carpages.co.uk to track activity on our website. They may be used to enable carpages.co.uk to recognise returning users in order to simplify the login process.
+We obtain data about your activities on carpages.co.uk by using a combination of cookies* and log analysis software.
 
 **What we do with your information:**
 
-The personal information we collect is not shared with any third parties without your express permission or if required by law. We will provide statistical data related to user activity to third parties but these do not include any personal information. 
+The information we collect is not shared with any third parties without permission or if required by law. We will provide statistical data related to user activity to third parties but these do not include any personal information.
 
-Tracking information related to the usage of the site is used to provide us with a better understanding of the visitor's use of the site allowing us to improve and focus the site on the areas of most interest. 
+Tracking information related to the usage of the site is used to provide us with a better understanding of the visitor's use of the site allowing us to improve and focus the site on the areas of most interest.
 
-We do not rent, sell or give email lists to any third party although we may use lists on behalf of third parties where express permission has been given during the registration process for the purpose of research. An option to stop/unsubscribe from any future emails will be present.
+We do not rent, sell or give email lists to any third party, although we may use lists on behalf of third parties where express permission has been given during the registration process for the purpose of research. An option to stop/unsubscribe from any future emails will be present.
 
 **If we contact you:**
 
-carpages.co.uk may contact you after you have requested further information about an aspect of our business or website. Any personal information you have supplied will only be used to answer your query or to follow up your enquiry.
+carpages.co.uk may contact you after you have requested further information about an aspect of our business or website. Any personal information you have supplied will only be used to answer your query or to follow up your enquiry and then deleted.
 
-carpages.co.uk may contact you for research purposes only if you have given your express permission during any registration process. 
+carpages.co.uk may contact you for research purposes only if you have given your express permission during any registration process.
 
 carpages.co.uk ensures, as far as is reasonably possible, that security measures are taken to protect personal data. These include safeguards against unauthorised access to data and safeguards against physical damage (i.e. backups).
 
 Should our privacy policy change in any way it will be published on this page, if you have any concerns please regularly revisit this page.
 
-If you have any questions or concerns about our privacy policy, please do not hesitate to contact carpages.co.uk by [ [clicking here](https://web.archive.org/contact/default.asp?contact=Legal+Enquiries) ].
+If you have any questions or concerns about our privacy policy, please do not hesitate to contact carpages.co.uk by clicking [ [here](https://web.archive.org/about/contact.asp?contact=Legal+Enquiries&subject=Privacy%20Policy) ]
+
+## Copyright
+
+You may NOT use any part of our content on or within your website or in any other publication. This extends and includes photographs, images and text without the written permission from the editor. If you wish to enquire then please [contact us](https://web.archive.org/about/permission.asp).
+
+You may NOT use our data for the compilation of databases, mailing lists or for any commercial or private purpose, including but not limited to websites.
+
+We take the issue of copyright seriously - our text, images, data and databases are protected by protect-IT™ - a finger printing process, which can identify non-authorised sources and use of our data. Any infringement of our copyright will be met with the full extent of the law for which we carry full legal insurance cover.
+
+The website including the business and domain name, graphics, layout, data and programming code is the intellectual property and copyright of carpages.co.uk.  
+
+
+All third party trademarks and intellectual property is acknowledged and respected.
+
+If you have any questions or concerns about our copyright policy, please contact [Contact Us](https://web.archive.org/about/contact.asp?contact=Legal+Enquiries&subject=Copyright).
