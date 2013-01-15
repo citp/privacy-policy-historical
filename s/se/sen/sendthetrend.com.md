@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sendthetrend.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014120415id_/http%3A//sendthetrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendthetrend.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115195536id_/http%3A//www.sendthetrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Send the Trend
-
-**This Privacy Policy replaces the Privacy Policy previously posted on this website. If you do not want your information to be subject to this Privacy Policy, you should email Send the Trend at[STTPrivacyOptOut@sendthetrend.com](mailto:STTPrivacyOptOut@sendthetrend.com).**
 
 Send the Trend understands that part of delivering quality service is being responsible in how we collect, use, protect, and share information about you. This Policy applies to information about you collected by Send the Trend when you use our Services. The “ **Services** ” covered by this Policy include when you create an account with us or when you visit, use, or buy from any of our websites (including sendthetrend.com), mobile services, social media sites, software applications (i.e., a widget) downloaded to your desktop or other device, contests, or other services. 
 
@@ -125,11 +123,6 @@ You may update and correct your information and change your communication prefer
 If you choose to not provide information to us, doing so may prevent you from using our services or features of the website. If we have already provided information to third parties before you changed your preferences, you may need to contact those third parties directly.   
 It may take us ten days to process an opt-out request. This opt-out does not apply to certain operational communications (for example, confirmation of delivery address), to the extent permitted by law.  
 
-
-If you are a California resident, then California’s “Shine the Light” law provides that you may request certain information regarding the disclosure of personally identifiable information to third parties for their direct marketing purposes.  
-
-
-To make such a request, please send an e-mail to [General.Counsel@sendthetrend.com](mailto:General.Counsel@sendthetrend.com) or write to us at to Send the Trend, Inc., Attn: General Counsel - California Information Disclosure Request, 39 W 38th Street, 3rd Floor East, New York, NY 10018. 
 
 **Do we collect personal information from children?**  
 Our services are not intended for use by children, and the Terms And Conditions governing the use of our Services require that you must be at least 18 years old to use them. We do not knowingly collect information from children under the age of 13.  
