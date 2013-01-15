@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mycashforums.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920022112id_/http%3A//mycashforums.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashforums.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115061933id_/http%3A//mycashforums.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - MyCashForums
-
-[](http://www.bampaid.com/index.php?ref=137) [ ](http://www.upgradeyourlife.com/) [](https://www.right5.com/)
 
 ## Privacy Policy
 
@@ -18,4 +16,4 @@ This website does not store any information that would, on its own, allow us to 
 
 [](https://secure.payza.com/?KAJs0EY0FZ8OeKUqDP9QZw%3d%3d)
 
-[](http://www.bampaid.com/index.php?ref=137) [ ](http://www.upgradeyourlife.com/)
+[](http://www.wcarev.com/?matt45)
