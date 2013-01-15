@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tripconnect.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182209id_/http%3A//www.tripconnect.com/tripconnect/info_privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripconnect.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115060737id_/http%3A//www.tripconnect.com/tripconnect/info_privacypolicy.do) for the most accurate reproduction.*
 
-# TripConnect - Budget Travelers Travel Group
+# TripConnect - Travel Reviews and Travel Advice on Destinations and Hotels
 
 [ ](http://www.truste.org/ivalidate.php?url=www.tripconnect.com&sealid=101)
 
