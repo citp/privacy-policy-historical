@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the parentpay.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920061413id_/https%3A//www.parentpay.com/ParentPay/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentpay.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115162430id_/https%3A//www.parentpay.com/ParentPay/Privacy-Policy) for the most accurate reproduction.*
 
 # - ParentPay
-
-You are currently in: [Home](https://web.archive.org/) > [ParentPay](https://web.archive.org/ParentPay/) > **Privacy Policy**
 
 **ParentPay Data Protection and Privacy Policy**
 
@@ -49,10 +47,14 @@ ParentPay's website contains links to other websites. ParentPay is not responsib
 This policy will be reviewed and updated versions will be posted on the website. 
 
 **Further information**  
-If you would like more information about Data Protection in ParentPay, contact:  
+To request a copy of the data held about you, or if you would like more information about Data Protection in ParentPay, contact:  
 The Data and Information Security Officer  
-ParentPay   
+ParentPay Ltd  
 Number Three Siskin Drive  
 Middlemarch Business Park  
 Coventry  
 CV3 4FJ
+
+Requests for data access will normally be responded to within 40 calendar days of receipt. ParentPay charges a fee for dealing with a data access request and will not provide the data until the fee has been received. The current fee is £10 and should be sent by cheque made payable to “ParentPay Limited” to the address above, along with the data access request.
+
+Before servicing the request, ParentPay will need to verify the identity of the subject making the request and in doing so may require copies of formal identification and proof of address.  Where requests made by a parent are for data related to their child, ParentPay will refer to the guidance from the ICO in respect of children’s rights to their own data. Where deemed necessary, ParentPay may decide to consult with the Data Controller (e.g. the school) before complying with the request, in order to ensure data security and to help protect the data subject.
