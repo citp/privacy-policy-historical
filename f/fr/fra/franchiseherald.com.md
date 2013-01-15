@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchiseherald.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055344id_/http%3A//www.franchiseherald.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseherald.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115131808id_/http%3A//www.franchiseherald.com/privacypolicy) for the most accurate reproduction.*
 
 # Franchise Herald
 
