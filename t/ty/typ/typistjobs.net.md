@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the typistjobs.net privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920025529id_/http%3A//typistjobs.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typistjobs.net privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115215351id_/http%3A//typistjobs.net/privacypolicy.html) for the most accurate reproduction.*
 
-# 
+# Typing Jobs From Home
 
 Welcome to TypistJobs.net (the "Site").
 
