@@ -1,50 +1,21 @@
-> *The following text is extracted and transformed from the multi-pops.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230224622id_/http%3A//multi-pops.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multi-pops.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115201430id_/http%3A//www.infinityads.com/privacy-policy) for the most accurate reproduction.*
 
-# Targeted Internet Advertising
+# Privacy Policy | Pop Under - Pop Up Ads - Targeted Internet Advertising Services
 
-  |  |   
----  
-| [Home](https://web.archive.org/web/20091230224622id_/http%3A//multi-pops.com/index.php) | [Advertisers](https://web.archive.org/web/20091230224622id_/http%3A//multi-pops.com/advertisers.php) | [Publishers](https://web.archive.org/web/20091230224622id_/http%3A//multi-pops.com/webmasters_affiliate_program.php) | [Resellers](https://web.archive.org/web/20091230224622id_/http%3A//multi-pops.com/traffic_resellers.php) | [Technology](https://web.archive.org/web/20091230224622id_/http%3A//multi-pops.com/advertising_technology.php) | [Company](https://web.archive.org/web/20091230224622id_/http%3A//multi-pops.com/company.php)  
----|---|---|---|---|---  
-|  | 
+This Privacy Policy describes what information we gather from you, how we use that information, and what we do to protect it. By using the Site, you expressly consent to the information handling practices described in this notice.
 
-|  | Privacy  
----|---  
-  
-|   
-Your **Personal Information** |    
----|---  
-At paypopup.com (PayPopUp) we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. 
+At InfinityAds, we are committed to protecting your privacy. Any information we collect, such as email addresses, are submitted at the visitor’s will. We do not and will not share any personal information with any third parties unless by governmental order.
 
-We have NO access to any information collected by our Payment Services providers and you may direct further inquiries here:   
-PAYPAL [ http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside)  
-2CHECKOUT <http://www.2checkout.com/faqs.htm>
+Use of Cookies:  
+Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record keeping purposes. Cookies make using our Website easier by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on our Website, and do not transfer any personal information to any other party. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. Please consult the technical information relevant to your browser for instructions. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Website may not function properly or may be considerably slower.
 
-|    
-  |    
-Cookies |    
-All browsers offer "cookies" and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a simple piece of text. It is not a program, or a plug-in. It cannot be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like best and allow content to be customized upon your return, according to prior preferences at that site. They gather and hold NO personal information. **  
-At PayPopUp We may use cookies to:**   
-::Save your password so you don't have to re-enter it each time you visit our sites.  
-We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. For more information on how to modify your browser settings to block or filter cookies, see [ http://www.cookiecentral.com/faq/](http://www.cookiecentral.com/faq/). 
+Use of Information:  
+InfinityAds uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features, information and services found on the Site. We will use your email address, without further consent, for administrative purposes, for customer service purposes, to address intellectual property infringement, rights of privacy, or defamation issues. InfinityAds will not use your email address or other personally identifiable information to send promotional messages unless you have opted in or otherwise requested that InfinityAds contact you about the InfinityAds services or other information.
 
-However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
+Web Sign-up form  
+When a Web [Publisher](https://web.archive.org/web/20130115201430id_/http://www.infinityads.com/publishers/ "Publisher") signs a service [agreement](https://web.archive.org/web/20130115201430id_/http://www.infinityads.com/advertiser-agreement/ "agreement") with InfinityAds, the Web Publisher is also required to provide company and personal identity information, commercial information, technical contact information and customization information to start their [contextual advertising](https://web.archive.org/web/20130115201430id_/http://www.infinityads.com/contextual-advertising/ "contextual advertising") services. InfinityAds uses this information to provide services and for payment purposes. If InfinityAds has trouble processing an order, it will use this information to contact the Web Publisher.
 
-|    
-  |    
-Third Party Cookies At Our Sites  |    
-While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain. Please contact the Payment Services provider for more information:  
-PAYPAL [ http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside)  
-2CHECKOUT <http://www.2checkout.com/faqs.htm> |    
-  |    
-Registration Forms  |    
-Our site's registration form requires users to supply contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary. It is never sold or shared.  |    
-  |   
-**External Links** |   
-This site contains links to other sites. PayPopUp is not responsible for the privacy practices or the content of such Web sites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links. [ webmaster@paypopup.com](mailto:webmaster@paypopup.com)   
-  |   
-  |    
-Contacting the Web Site  |    
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ webmaster@paypopup.com](mailto:webmaster@paypopup.com)  
-  
- 
+Links to External Websites:  
+InfinityAds is not responsible for the content or practices of third party websites not owned or controlled by InfinityAds. InfinityAds is also not responsible for any information that you might share with such linked websites. You should refer to each such website’s respective privacy policy and practices prior to disclosing any such information.
+
+If you have any questions about this privacy statement, the practices of this site, or concerns about this Web site, please contact: webmaster@InfinityAds.com
