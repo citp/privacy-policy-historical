@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228224126id_/http%3A//vivisimo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116001849id_/http%3A//vivisimo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Vivisimo, an IBM Company
 
@@ -36,4 +36,4 @@ Vivisimo constantly strives to provide the best service. As new products and cha
 
 ### Questions
 
-If you have any comments or questions about your privacy, please [contact us](https://web.archive.org/web/20121228224126id_/http%3A//vivisimo.com/about/contact-vivisimo.html).
+If you have any comments or questions about your privacy, please [contact us](https://web.archive.org/web/20130116001849id_/http%3A//vivisimo.com/about/contact-vivisimo.html).
