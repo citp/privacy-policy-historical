@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decc.gov.uk privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030085551id_/http%3A//www.decc.gov.uk/en/content/cms/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decc.gov.uk privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115173400id_/http%3A//decc.gov.uk/en/content/cms/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and cookies - Department of Energy and Climate Change
 
