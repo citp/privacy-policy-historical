@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandscreen.com privacy policy that was archived on 2012-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120715063631id_/http%3A//www.brandscreen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandscreen.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115084633id_/http%3A//www.brandscreen.com/en/privacy.html) for the most accurate reproduction.*
 
 # Brandscreen - Privacy Policy
 
@@ -50,7 +50,7 @@ Information sharing
   * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
 
 
-    Please[contact us](https://web.archive.org/web/20120715063631id_/http%3A//www.brandscreen.com/contacts.html)for any additional questions about the management or use of personal data.
+    Please[contact us](https://web.archive.org/web/20130115084633id_/http%3A//www.brandscreen.com/en/contacts.html)for any additional questions about the management or use of personal data.
 Information security
     We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
     We restrict access to personal information to Brandscreen employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
