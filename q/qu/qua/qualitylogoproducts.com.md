@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualitylogoproducts.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003102542id_/http%3A//www.qualitylogoproducts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitylogoproducts.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115144353id_/http%3A//www.qualitylogoproducts.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement Page - Quality Logo Products, Inc.
 
