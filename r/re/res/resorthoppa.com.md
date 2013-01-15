@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resorthoppa.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015153548id_/http%3A//www.resorthoppa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resorthoppa.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115165557id_/http%3A//www.resorthoppa.com/privacy.php) for the most accurate reproduction.*
 
 # Resorthoppa Airport Transfers | Popular Resort & City Destinations
 
@@ -83,7 +83,7 @@
 
 **10\. YOUR RIGHT TO ACCESS INFORMATION**
 
-> You are entitled to see the information held about you. If you wish to do this, please contact us at Resorthoppa (UK) Limited, Suite 109, Railway House, 14 Chertsey Road, Woking, Surrey, GU21 5AH. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
+> You are entitled to see the information held about you. If you wish to do this, please contact us at Resorthoppa (UK) Limited, 1st Floor, West Lodge, Station Approach, West Byfleet, Surrey KT14 6NG. We may require you to provide verification of your identity and to pay an administration fee (which is currently £10) to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
 
 **11\. CHANGES TO THIS PRIVACY POLICY**
 
@@ -91,4 +91,4 @@
 
 **12\. CONTACTING US**
 
-> If you have any questions about this statement or your personal information, please contact us at Resorthoppa (UK) Limited, Suite 109, Railway House, 14 Chertsey Road, Woking, Surrey, GU21 5AH.
+> If you have any questions about this statement or your personal information, please contact us at Resorthoppa (UK) Limited, 1st Floor, West Lodge, Station Approach, West Byfleet, Surrey KT14 6NG.
