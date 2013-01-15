@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuwaitairways.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010111458id_/http%3A//kuwaitairways.com/Default.aspx%3FpageId%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuwaitairways.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115073456id_/http%3A//kuwaitairways.com/Default.aspx%3FpageId%3D19) for the most accurate reproduction.*
 
 # Kuwait Airways – الخطوط الجوية الكويتية
 
