@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crueltyparty.com privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831121910id_/http%3A//crueltyparty.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crueltyparty.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115010647id_/http%3A//crueltyparty.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
