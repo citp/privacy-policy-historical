@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002220415id_/http%3A//www.caselogic.com/en-US/Global/Company-Information/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115162535id_/http%3A//www.caselogic.com/en/US/Company-Information/Privacy-Statement) for the most accurate reproduction.*
 
 # Case Logic | Privacy Statement
 
