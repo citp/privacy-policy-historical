@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerroad.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919184235id_/http%3A//www.pokerroad.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerroad.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115224505id_/http%3A//pokerroad.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PokerRoad
 
