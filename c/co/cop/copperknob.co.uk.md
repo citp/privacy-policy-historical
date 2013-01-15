@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copperknob.co.uk privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224040115id_/http%3A//www.copperknob.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copperknob.co.uk privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115093957id_/http%3A//www.copperknob.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # CopperKnob - Privacy Policy
 
