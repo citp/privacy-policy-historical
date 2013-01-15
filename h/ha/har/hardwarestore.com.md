@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwarestore.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003190911id_/http%3A//www.hardwarestore.com/Corporate.aspx%3Fc%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwarestore.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115025016id_/http%3A//www.hardwarestore.com/corporate.aspx%3Fc%3D19) for the most accurate reproduction.*
 
 # Privacy Policy at Aubuchon Hardware
 
