@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icgrouplp.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017044941id_/http%3A//www.icgrouplp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icgrouplp.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115224815id_/http%3A//icgrouplp.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | IC Group LP
 
