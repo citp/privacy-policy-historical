@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comeon.com privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920013146id_/https%3A//www.comeon.com/privacypolicyXX) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comeon.com privacy policy that was archived on 2013-01-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130115014307id_/https%3A//www.comeon.com/privacypolicyXX) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -15,19 +15,25 @@
 <link rel="stylesheet" href="https://c1093515.ssl.cf3.rackcdn.com/static/css/png_ie-min.css" media="screen" /><![endif]--><script async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 window.staticPath="https://c1093515.ssl.cf3.rackcdn.com";
 window.absoluteStaticPath="https://c1093515.ssl.cf3.rackcdn.com";
-
-var console = {};
-console.log = console.warn = console.info = console.error = function() {
-};
+(function() {
+	
+	window.console = {};
+	console.log = console.warn = console.info = console.error = function() {
+	};
+})();
 </script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+
+<script src="https://c1093515.ssl.cf3.rackcdn.com/static/comeon/js/jquery/jquery.atmosphere.js"></script>
+<script src="https://c1093515.ssl.cf3.rackcdn.com/static/comeon/js/PlayerConst.js"></script>
+<script src="https://c1093515.ssl.cf3.rackcdn.com/static/comeon/js/player/player.js"></script>
+<script src="https://c1093515.ssl.cf3.rackcdn.com/static/comeon/js/player/playerinfo.js"></script>
 <script src="https://c1093515.ssl.cf3.rackcdn.com/static/js/main-min.js"></script><script>
 var ga_aid = 'UA-20546404-2';
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', ga_aid]);
-//_gaq.push(['_setAccount', 'UA-20546404-3']);
 _gaq.push(['_trackPageview']);
 
 (function() {
@@ -40,8 +46,6 @@ var selLang = 'en_xx';
 // Panel headers (Find better way to load?)
 var panelPwHeader3 = 'Password Reminder';
 var panelChangePwHeader =  'Action Needed';
-var loginFailPanelHeader = 'Your Login Attempt';
-var loginFailRespGamingHeader = 'Account is closed';
 var easyDepHeader = 'Quick Deposit ';
 var headerLogoutPopUp = 'Logged Out';
 var headerOpenRegForm = '';
@@ -82,20 +86,9 @@ var popupCampaignButtonOpenLink = 'Yes';
 var popupCampaignCancel = 'Maybe later';
 var popupCampaignShowAgain = 'Show Again';
 
-var startPageUrl = '/';
+var gmtoff = 60;
+var timeIsOffset = false;
 
-var gmtoff = 120.0;
-var tiOff = false;
-
-var playerConst = [];
-playerConst.param_game_id = "PARAM_GAME_ID";
-playerConst.param_open_pop_up = "PARAM_OPEN_POP_UP";
-playerConst.param_user_name =  "PARAM_USER_NAME";
-playerConst.param_password = "PARAM_PASSWORD";
-playerConst.param_remember_me = "PARAM_REMEMBER_ME";
-playerConst.json_ok = "OK";
-playerConst.json_system_error = "SYSTEM_ERROR";
-playerConst.param_time_zone = "PARAM_TIME_ZONE";
 var topvars = {
 		   baseUrl: "/pp"
 		   };
@@ -123,7 +116,7 @@ var params2 = {
 	wmode: "transparent",
 	flashvars:"sEH=Ooops!&sEG=Temporary problem.&bOT=OK&baseUrl=/pp&auth=true&topNav=1&iST=0-100,1,200:101-1000,10,100:1001-10000,50,50:10001-,100,50"
 	};
-swfobject.embedSWF("/static/flash/FlashData.swf?1339141668000", "topNav", "1", "1", "9.0.0","expressInstall.swf", topvars, params, attributes);
+swfobject.embedSWF("/static/flash/FlashData.swf?1339141668000", "topNav", "1", "1", "10.0.42.34",window.absoluteStaticPath + "/static/flash/expressInstall.swf", topvars, params, attributes);
 function setStartFooter() {
 	document.getElementById("footer").className="footer-start";
 }
@@ -151,7 +144,7 @@ function init(){
 	}, 100);
 
     
-		tiOff = false;
+		timeIsOffset = false;
 
 		YAHOO.util.Dom.setStyle(['loginareatemp'], 'display', "none");
 		YAHOO.util.Dom.setStyle(['loginarea'], 'display', "block");
@@ -321,9 +314,9 @@ else window.addEventListener("load",lpAddMonitorTag,false);
 
 
 <!-- CHANGE name TO THE NEW RESOURCE IMAGE -->
-<div id="bg-extra"><img src="https://c1093515.ssl.cf3.rackcdn.com/static/img/en_XX/coffeecup_bg.png" width="289" height="395" alt=""></div>
+<div id="bg-extra"><img src="https://c1093515.ssl.cf3.rackcdn.com/static/img/updatable/en_XX/coffeecup_bg.png" width="289" height="395" alt=""></div>
 <div id="logo-promo" class="floating-promo">
-	<img src="https://c1093515.ssl.cf3.rackcdn.com/static/img/en_XX/logo_promo.png" alt=""></div>
+	<img src="https://c1093515.ssl.cf3.rackcdn.com/static/img/updatable/en_XX/logo_promo.png" alt=""></div>
 
 <!-- Header of site -->
 <div id="popup-positioner-400"></div>
@@ -345,7 +338,7 @@ else window.addEventListener("load",lpAddMonitorTag,false);
 					<li><a href="/support/">Support</a></li>
 					<li><div id="icon12-rg" class="icon12"></div>
 						<a href="/responsible-gaming/">Play Responsibly</a></li>
-					<li style="display: none;">Version 2069 on server prod/1 (mtsusevs02)</li>
+					<li style="display: none;">Version 1208-37729 on server prod/0 (mtsusevs01.cleverdolphin.se) </li>
 				</ul>
 				<ul id="supporticons">
 					<li><a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/57151933/?cmd=file&amp;file=visitorWantsToChat&amp;site=57151933&amp;byhref=1&amp;SESSIONVAR!skill=Chat_English&amp;imageUrl=https://c1093515.ssl.cf3.rackcdn.com/static/img/liveperson/topmenu" target="chat57151933" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/57151933/?SESSIONVAR!skill=Chat_English&amp;cmd=file&amp;file=visitorWantsToChat&amp;site=57151933&amp;imageUrl=https://c1093515.ssl.cf3.rackcdn.com/static/img/liveperson/topmenu&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat57151933','width=475,height=400,resizable=yes');return false;"><img src="https://server.iad.liveperson.net/hc/57151933/?cmd=repstate&amp;site=57151933&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=https://c1093515.ssl.cf3.rackcdn.com/static/img/liveperson/topmenu&amp;skill=Chat_English" name="hcIcon" style="border: 0"></a></li>
@@ -384,60 +377,65 @@ else window.addEventListener("load",lpAddMonitorTag,false);
 	</div>
 	<div id="playermenu">
 		<div id="userInfo" style="display: none;">install</div>
-		<div id="loginareatemp" style="display: block;"></div>
-		<div id="loginarea" style="display: block;">
-			<div id="loginarea-left"></div>
-			<div id="loginarea-bg">
-				<a href="javascript:;" id="registration-button" class="button-g50" onclick="this.blur();openRegForm()"><span>Not a Member Yet? Join Now!</span></a>
-				<form name="loginhtmlform" id="loginhtmlform" action="/pp" method="post" onsubmit="submitMe()" autocomplete="off">
-					<input type="hidden" name="flow" id="flow" value="46">
-					<div id="loginform">
-						<dl>
-							<dt>
-								<label for="loginusername">Username/ Email</label>
-							</dt>
-							<dd>
-								<input type="text" id="PARAM_USER_NAME" name="PARAM_USER_NAME" class="textf" value="" autocomplete="off" maxlength="45">
-							</dd>
-						</dl>
+		<script>
+	$(function() {
+		login.init('#loginhtmlform');
+	});
+</script>
+<div id="loginarea" style="display: block;">
+	<div id="loginarea-left"></div>
+	<div id="loginarea-bg">
+		<a href="javascript:;" id="registration-button" class="button-g50" onclick="this.blur();openRegForm()">
+			<span>Not a Member Yet? Join Now!</span>
+		</a>
+		<form name="loginhtmlform" id="loginhtmlform" action="/pp" method="post" autocomplete="off">
+			<input type="hidden" name="flow" id="flow" value="LoginJson">
+			<div id="loginform">
+				<dl>
+					<dt>
+						<label for="loginusername">Username/ Email</label>
+					</dt>
+					<dd>
+						<input type="text" id="loginusername" name="PARAM_USER_NAME" class="textf" value="" autocomplete="off" maxlength="45">
+					</dd>
+				</dl>
 
-						<dl id="pwholder">
-							<dt>
-								<label for="loginpassword">Password</label>
-							</dt>
-							<dd id="password">
-								<input type="password" name="PARAM_PASSWORD" id="PARAM_PASSWORD_TOP" class="textf" onkeypress="return submitenter(this, event);" autocomplete="off">
-							</dd>
-						</dl>
+				<dl id="pwholder">
+					<dt>
+						<label for="loginpassword">Password</label>
+					</dt>
+					<dd id="password">
+						<input type="password" id="loginpassword" name="PARAM_PASSWORD" class="textf" autocomplete="off">
+					</dd>
+				</dl>
 
-						<dl>
-							<dd id="loginbutton">
-								<a href="javascript:void(0)" class="button-g" onclick="submitMe();"><span>Login</span></a>
-							</dd>
-						</dl>
+				<dl>
+					<dd id="loginbutton">
+						<a href="javascript:;" class="button-g loginbutton"><span>Login</span></a>
+					</dd>
+				</dl>
 
-						<div id="remember">
-							<dl>
-								<dt>
-									<input value="true" name="PARAM_REMEMBER_ME" type="checkbox" id="PARAM_REMEMBER_ME"><label for="PARAM_REMEMBER_ME">Remember Me?</label>
-								</dt>
-							</dl>
-							<dl>
-								<dt>
-									<a href="javascript:;" onclick="this.blur();openRegForm()">Join Us</a> | <a href="javascript:;" onclick="this.blur();forgotPw1()">Forgot Password?</a>
-								</dt>
-							</dl>
-
-						</div>
-					</div>
-
-					<input type="hidden" name="PARAM_FLASH_VERSION" id="PARAM_FLASH_VERSION" value=""> <input type="hidden" name="did" id="did" value="-1">
-				</form>
+				<div id="remember">
+					<dl>
+						<dt>
+							<input id="rememberme" name="PARAM_REMEMBER_ME" type="checkbox" value="true" false="">
+								<label for="rememberme">Remember Me?</label>
+						</dt>
+					</dl>
+					<dl>
+						<dt>
+							<a href="javascript:;" onclick="this.blur();openRegForm()">Join Us</a> | <a href="javascript:;" onclick="this.blur();forgotPw1()">Forgot Password?</a>
+						</dt>
+					</dl>
+				</div>
 			</div>
-			<div id="loginarea-right"></div>
-		</div>
-
+			<input type="hidden" name="PARAM_FLASH_VERSION" id="PARAM_FLASH_VERSION" value="">
+			<input type="hidden" name="did" id="did" value="-1">
+		</form>
 	</div>
+	<div id="loginarea-right"></div>
+</div>
+</div>
 </div>
 <div id="topNav"></div>
 <div id="loadingPaymentPopup" style="display: none">
@@ -462,6 +460,7 @@ else window.addEventListener("load",lpAddMonitorTag,false);
 			Loading, please wait.....</p>
 	</div>
 </div>
+
 <div id="content">
 			<div id="contentshadow"></div>
 			<!-- include left menu -->
@@ -690,7 +689,7 @@ Malta<br>
 		var paramspromo = {  menu: "false", movie: "https://c1093515.ssl.cf3.rackcdn.com/static/flash/LoaderStatic.swf", allowScriptAccess: "always", wmode: "transparent"};
 		var attributespromo = { id: "loadingStatic", name: "loadingStatic" };
 		var flashvarspromo = { };
-		swfobject.embedSWF("https://c1093515.ssl.cf3.rackcdn.com/static/flash/LoaderStatic.swf", "sb-loader", "100", "100", "9.0.0","expressInstall.swf", flashvarspromo, paramspromo, attributespromo);
+		swfobject.embedSWF("https://c1093515.ssl.cf3.rackcdn.com/static/flash/LoaderStatic.swf", "sb-loader", "100", "100", "10.0.42.34",window.absoluteStaticPath + "/static/flash/expressInstall.swf", flashvarspromo, paramspromo, attributespromo);
 </script>			
 <div id="sb-spin-fl">
 <div id="sb-loader"></div>
@@ -735,7 +734,7 @@ Malta<br>
 				<div id="social-share-container">				
 					<div id="social-share-text">
 					
-						<img src="https://c1093515.ssl.cf3.rackcdn.com/static/img/en_XX/footer_socialshare_text.png?1339141652000" width="285" height="37" alt="">
+						<img src="https://c1093515.ssl.cf3.rackcdn.com/static/img/updatable/en_XX/footer_socialshare_text.png" width="285" height="37" alt="">
 					
 					</div>
 					<ul id="social-share">
@@ -778,6 +777,7 @@ Malta<br>
 						<li id="footer-icon-moneta"><a href="javascript:void(0)">Moneta</a></li>
 						<li id="footer-icon-webmoney"><a href="javascript:void(0)">WebMoney</a></li>
 						<li id="footer-icon-instadebit"><a href="javascript:void(0)">Instadepit</a></li>
+						<li id="footer-icon-mobiledeposit-en_xx"><a href="javascript:void(0)">Mobile Payments</a></li>
 					
 					
 					
