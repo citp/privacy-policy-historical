@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilflix.net privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219052925id_/http%3A//www.techsatish.net/2012/08/techsatish-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilflix.net privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117000830id_/http%3A//www.techsatish.net/2012/08/techsatish-privacy-policy.html) for the most accurate reproduction.*
 
 # TECHSATISH Privacy Policy - techsatish.net - tamil tv serials,tamil tv shows,tamil magazines,tamil mp3 songs
 
