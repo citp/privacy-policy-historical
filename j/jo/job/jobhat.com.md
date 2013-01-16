@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobhat.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011053722id_/http%3A//jobhat.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobhat.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116054102id_/http%3A//jobhat.com/education/privacy_policy) for the most accurate reproduction.*
 
 # JobsRadar.com - Find Jobs. Showcase Your Resume. Get Hired.
 
