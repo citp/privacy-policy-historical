@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourplasticsurgeryguide.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029055434id_/http%3A//www.yourplasticsurgeryguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourplasticsurgeryguide.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116090402id_/http%3A//www.yourplasticsurgeryguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Consumer Guide to Cosmetic Plastic Surgery
 
