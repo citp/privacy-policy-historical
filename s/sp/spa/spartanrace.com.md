@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spartanrace.com privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628165629id_/http%3A//www.spartanrace.com/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spartanrace.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116083702id_/http%3A//www.spartanrace.com/privacy-policies.html) for the most accurate reproduction.*
 
 # SPARTAN RACE™ Privacy Policies
 
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to Spartan Race’s website: [www.spartanrace.com](http://www.spartanrace.com/) and their blog: [blog.spartanrace.com](http://blog.spartanrace.com/). 
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Spartan Race’s website nd related Spartan Race websites including [www.spartanrace.com](http://www.spartanrace.com/) our blog [blog.spartanrace.com](htatp://blog.spartanrace.com/) and [SpartanKids.com](http://spartankids.com/) and [spartancoaches.com](http://spartancoaches.com/). 
 
 #### 1\. Purpose
 
@@ -86,4 +86,4 @@ As our website continues to develop, we may change or add new services or featur
 
 You may always opt-out of receiving future e-mail messages and newsletters from us or request that your information be removed from our website or corrected. To make such a request, you can send us a message at [SpartanUSA@Spartanrace.com](mailto:SpartanUSA@spartanrace.com).  
 
-Last Updated: 11.28.11
+Last Updated: 8.20.12
