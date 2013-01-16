@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ainsuranceguide.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127172105id_/http%3A//www.ainsuranceguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ainsuranceguide.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116172723id_/http%3A//www.ainsuranceguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — A Insurance Guide
+# A Insurance Guide
 
 **1\. Collection of Data**  
 Personal information is collected only by third-party transaction entities necessary for any charges that may occur. We do not collect any personal identifiable information on this web site intentionally or unintentionally. As on many web sites, the web server may automatically receive general information that is contained in server log files, such as your IP address, and cookie information.
