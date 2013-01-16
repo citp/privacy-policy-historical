@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphoneleaks.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230210616id_/http%3A//www.iphoneleaks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphoneleaks.net privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116182703id_/http%3A//www.iphoneleaks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Redsnow Absinthe Redsn0w Jailbreak iOS 6 / 5.0 / 5.0.1 / 5.1.1, Untethered – iPad 3, 2
 
