@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inwear.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203015932id_/http%3A//www.inwear.com/popup/%3Fpage%3Dprivacy_statement%26NYRO_WIDTH%3D550%26NYRO_HEIGHT%3D380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inwear.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116044318id_/http%3A//www.inwear.com/popup/%3Fpage%3Dprivacy_statement%26NYRO_WIDTH%3D550%26NYRO_HEIGHT%3D380) for the most accurate reproduction.*
 
 # Privacy Policy - InWear
 
