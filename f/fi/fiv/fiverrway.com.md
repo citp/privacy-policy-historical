@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fiverrway.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009232841id_/http%3A//fiverrway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiverrway.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116042128id_/http%3A//fiverrway.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | FIVERR WAY
+# PRIVACY POLICY | Fiverrway - Build your successful microjob website
 
 **What information do we collect?**
 
