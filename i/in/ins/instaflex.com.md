@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instaflex.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016162419id_/http%3A//www.instaflex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaflex.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116234519id_/http%3A//www.instaflex.com/privacy) for the most accurate reproduction.*
 
 # Instaflex Joint Support
 
@@ -38,7 +38,7 @@ We may disclose Personal Information to contractors, service providers or third 
 If you would like to know (1) the categories of Personal Information that we disclosed in the prior calendar year to third parties about you for the purposes of the third party marketing and/or (2) the names and addresses of such third parties, please contact us at 1 (877) 869-3310.
 
 **Opt-Out Procedures**  
-You may always opt-out of receiving communications from us. To not receive future e-mail communications from InstaFlex, please go to www.InstaFlex.com or contact us at 1-877-869-3310.
+You may always opt-out of receiving communications from us. To not receive future e-mail communications from InstaFlex, please go to www.InstaFlex.com or contact us at 1-800-436-0920.
 
 **Security of Information**  
 You can be assured that personal information collected through the Website is secure and is maintained in a manner consistent with current industry standards. The importance of security for all personal information associated with our subscribers is of utmost concern to us. Your personal information is protected in several ways. Your personal information resides on a secure server that only selected InstaFlex employees and contractors have access to via password. In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third-party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
@@ -67,4 +67,4 @@ This Website may contain links to websites of third parties not affiliated with 
 This Privacy Policy may change over time. We will notify you by e-mail to the e-mail address associated with your account whenever we make any substantive changes to this Privacy Policy. If you do not accept the changed version (for example, if you do not approve of a different way that we intend to use personal information) you may let us know by letter or e-mail. If you do not respond with any objections, we will assume that you consent to changes in the Privacy Policy. Changes will not apply retroactively to personal information that was collected before the changes to the Privacy Policy, except as may be required by law.
 
 **How to Contact Us**  
-If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us at 1-877-869-33103.
+If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us at 1-800-436-0920.
