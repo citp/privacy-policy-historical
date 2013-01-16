@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higheroneaccount.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014111040id_/https%3A//www.higheroneaccount.com/info/outprivacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheroneaccount.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116021317id_/https%3A//www.higheroneaccount.com/info/outprivacypolicy.jsp) for the most accurate reproduction.*
 
 # Higher One: Privacy Policy
 
@@ -53,6 +53,9 @@ We use a third-party tracking service, which uses HTML tags to track non-persona
 **Third-Party Sites**  
 The Site contains links to other websites. Higher One is not responsible for the privacy practices or the content of these other websites. Users and visitors will have to check the policy statement of these other websites to understand their respective policies. Users and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential. 
 
+**Third Party Partnership Disclosure**  
+When you open an account with Higher One, you are automatically enrolled in a rewards program. This program is hosted by a third party service provider (Cartera Commerce, Inc ) with whom we share your personal information to facilitate this service. The information shared is Higher One UserID, First Name, Gender, Account Type, Primary Email Address, Last 4 Digits of Card Number and Zip Code. Our third party agent is authorized to access this information for the explicit purpose of fulfilling a service on our behalf; consequently your personal information is not used for any promotional purposes. You will receive administrative communications via email from the third party service provider to confirm your enrollment in the program, confirm earnings, and for verification purposes. You can opt-out of such OneRewards emails by selecting the "Unsubscribe" link located in the email. You can opt out of the rewards program by either (a) logging-in to your Account website, clicking on "Cash Back / OneRewards" in the Account menu and then selecting the "Unsubscribe from OneRewards" link at the bottom of the OneRewards page or (b) by emailing privacy@higherone.com. 
+
 **Targeted Ads Disclosure**  
 We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving your targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
@@ -67,4 +70,4 @@ If you have any questions about this Statement or the practices of this Site, pl
 
 Your trust in Higher One is essential to us and that is why it is critical that Higher One goes above and beyond what is required of us to assure you and your family that we’re concerned and proactive with your online security. If you have problems or concerns, you can contact Customer Service at anytime (24 hours a day). Log on to your program website, and click on the link for "EasyHelp", where you can find answers to frequently asked questions, or even submit a question or concern. 
 
-Privacy Policy last updated: 8/11/2011 
+Privacy Policy last updated: 11/05/2012 
