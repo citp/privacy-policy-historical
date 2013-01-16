@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the astromart.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125021200id_/http%3A//www.astromart.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astromart.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116064511id_/http%3A//www.astromart.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Astromart - Privacy Policy
 
-[Home](https://web.archive.org/web/20121125021200id_/http%3A//www.astromart.com/) > [About Astromart](https://web.archive.org/web/20121125021200id_/http%3A//www.astromart.com/aboutus/) > Privacy Policy
+[Home](https://web.archive.org/web/20130116064511id_/http%3A//www.astromart.com/) > [About Astromart](https://web.archive.org/web/20130116064511id_/http%3A//www.astromart.com/aboutus/) > Privacy Policy
 
 ### Astromart Privacy Policy
 
@@ -48,5 +48,5 @@ c/o Anacortes Telescope and Wild Bird
 9973 Padilla Heights Road  
 Anacortes, Washington 98221  
 360-588-9000  
-[astromart@ymail.com](mailto:astromart@ymail.com)  
+[support@astromart.com](mailto:support@astromart.com)  
 
