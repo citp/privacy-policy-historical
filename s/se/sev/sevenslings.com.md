@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sevenslings.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606015550id_/http%3A//www.sevenslings.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenslings.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116162313id_/http%3A//www.motherslounge.com/privacy_policy) for the most accurate reproduction.*
 
-# Seven™ Everyday Slings - Our Privacy Policy
+# Mother's Lounge - Privacy Policy
 
 _Effective **January 1, 2009**_
 
@@ -51,4 +51,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How to Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please call us at 801-766-8570 or send us an email at [customerservice@sevenslings.com](mailto:customerservice@sevenslings.com).
+Should you have other questions or concerns about these privacy policies, please call us at 801-766-8570 or send us an email at [service@motherslounge.com](mailto:service@motherslounge.com).
