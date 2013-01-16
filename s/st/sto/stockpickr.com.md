@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the stockpickr.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112142326id_/http%3A//www.thestreet.com/static/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpickr.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116064022id_/http%3A//www.thestreet.com/static/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy on Using Financial Stock Market & Investing Analysis & Premium Services | Privacy | TheStreet
 
 TheStreet
 
-_Last revised: February 24, 2012_
+_Last revised: November 20, 2012_
 
-TheStreet, Inc. ("TheStreet") shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on TheStreet Portfolio of Websites as such term is defined in the [Terms of Use](https://web.archive.org/web/20121112142326id_/http%3A//www.thestreet.com/static/about/terms-of-use.html). Please note that this Privacy Policy may change from time to time. If changed, we will post an updated Privacy Policy on this page for your review.
+TheStreet, Inc. ("TheStreet") shares your concern about the protection of your personal information online. This is our Privacy Policy regarding the information we collect on TheStreet Portfolio of Websites as such term is defined in the [Terms of Use](https://web.archive.org/web/20130116064022id_/http%3A//www.thestreet.com/static/about/terms-of-use.html). Please note that this Privacy Policy may change from time to time. If changed, we will post an updated Privacy Policy on this page for your review.
 
 Questions or comments regarding this policy should be directed to [privacy@thestreet.com](mailto:privacy@thestreet.com).
 
@@ -16,7 +16,7 @@ We gather two types of data about our users: personal information and tracking i
 
 ## PERSONAL INFORMATION
 
-Personal information is provided by users when registering on TheStreet Portfolio of Websites as a member of TheStreet, our free flagship site, or another one of our free websites, when registering as a subscriber to one of our premium subscription services, and voluntarily at certain other points, such as entering contests or completing surveys. You may enter your information on our site, but if you prefer, you may talk offline to a customer service representative and provide the required information by email at [members@thestreet.com](mailto:members@TheStreet.com), or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 6:00 p.m. ET.
+Personal information is provided by users when registering on TheStreet Portfolio of Websites as a member of TheStreet, our free flagship site, or another one of our free websites, when registering as a subscriber to one of our premium subscription services, and voluntarily at certain other points, such as entering contests or completing surveys.
 
 Registering for Membership on TheStreet
 
@@ -57,7 +57,7 @@ TheStreet uses the personal information and tracking information obtained from i
   * To notify visitors about updates to TheStreet Portfolio of Websites and our Services (as such term is defined in our Terms of Use) and to contact users regarding account maintenance issues in any manner including without limitation, via direct mail, email, telephone or SMS text messages;
   * To maintain and improve TheStreet Portfolio of Websites and our Services;
   * To ensure the technical functioning of TheStreet Portfolio of Websites and our Services; and
-  * To deliver our Services, as well as free email newsletters containing selected stories, market information, advertisements and links to TheStreet Portfolio of Websites, or to contact you via direct mail, email, telephone, or SMS text message with information and offers for our Services, as well as special offers and advertisements for products or services offered by third parties. You can select which free newsletters you would like to receive, unsubscribe from delivery of our free newsletters, our marketing messages and third party offers and advertisements at any time by visiting the [Communication Preferences page](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp) under Your Account or contacting our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 6:00 p.m. ET. Please note that if you unsubscribe from communications but subsequently reregister with TheStreet or enter your email address into any form on TheStreet Portfolio of Websites, your communication preferences may revert from their unsubscribed status and/or you may receive communications from which you had previously unsubscribed.
+  * To deliver our Services, as well as free email newsletters containing selected stories, market information, advertisements and links to TheStreet Portfolio of Websites, or to contact you via direct mail, email, telephone, or SMS text message with information and offers for our Services, as well as special offers and advertisements for products or services offered by third parties. You can select which free newsletters you would like to receive, unsubscribe from delivery of our free newsletters, our marketing messages and third party offers and advertisements at any time by visiting the [Communication Preferences page](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp) under Your Account. Please note that if you unsubscribe from communications but subsequently reregister with TheStreet or enter your email address into any form on TheStreet Portfolio of Websites, your communication preferences may revert from their unsubscribed status and/or you may receive communications from which you had previously unsubscribed.
 
 
 
@@ -80,7 +80,7 @@ Chat rooms, forums, message boards, and/or news groups are available to you thro
 
 ## CORRECTING AND UPDATING THE INFORMATION
 
-TheStreet offers to its members the ability to correct or update online the information we collected during registration by visiting the [Your Account page](https://secure2.thestreet.com/cap/selfserve/). You may also contact our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com) or by telephone at (866) 321-TSCM (8726), between the hours of 8:00 a.m. and 6:00 p.m. ET.
+TheStreet offers to its members the ability to correct or update online the information we collected during registration by visiting the [Your Account page](https://secure2.thestreet.com/cap/selfserve/).
 
 ## SECURITY
 
