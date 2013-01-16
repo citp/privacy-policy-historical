@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenvelope.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014152643id_/http%3A//www.greenvelope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenvelope.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116220953id_/https%3A//www.greenvelope.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Greenvelope.com
 
@@ -109,6 +109,6 @@ You may choose to restrict the collection or use of your personal information is
 
 If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@greenvelope.com. 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please email at info@greenvelope.com. We will promptly correct any information found to be incorrect. You may also request that we delete the information we have collected about you at any time by emailing us at info@greenvelope.com. Please note that in certain circumstances, we may not be able to completely remove a your information from our systems. For example, we may retain your information for legitimate business purposes, if it may be necessary to prevent fraud or future abuse, for account recovery purposes, if required by law or as retained in our data backup systems or cached or archived pages. All retained personally identifiable information will continue to be subject to the terms of the Privacy Policy to which the User has previously agreed. 
+If you believe that any information we are holding on you is incorrect or incomplete, please email at info@greenvelope.com. We will promptly correct any information found to be incorrect. You may also request that we delete the information we have collected about you at any time by emailing us at info@greenvelope.com. Please note that in certain circumstances, we may not be able to completely remove your information from our systems. For example, we may retain your information for legitimate business purposes, if it may be necessary to prevent fraud or future abuse, for account recovery purposes, if required by law or as retained in our data backup systems or cached or archived pages. All retained personally identifiable information will continue to be subject to the terms of the Privacy Policy to which the User has previously agreed. 
 
 Finally, you may request access to the information we have collected about you by sending a request to info@greenvelope.com. 
