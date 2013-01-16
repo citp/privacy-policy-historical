@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senukex.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027134838id_/http%3A//www.senukex.com/%3Fpage_id%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senukex.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116140444id_/http%3A//www.senukex.com/%3Fpage_id%3D21) for the most accurate reproduction.*
 
 # Privacy Policy | SEnuke X SEO Software
 
