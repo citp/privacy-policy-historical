@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natlawreview.com privacy policy that was archived on 2012-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120509163500id_/http%3A//www.natlawreview.com/national-law-review-s-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natlawreview.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116024834id_/http%3A//www.natlawreview.com/national-law-review-s-privacy-policy) for the most accurate reproduction.*
 
 # The National Law Review Privacy Policy | The National Law Review
 
