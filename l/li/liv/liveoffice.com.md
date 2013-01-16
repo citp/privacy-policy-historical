@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the liveoffice.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022004045id_/http%3A//www.liveoffice.com/policy/liveoffice-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveoffice.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116205248id_/http%3A//www.liveoffice.com/policy/liveoffice-privacy-statement) for the most accurate reproduction.*
 
 # LiveOffice Privacy Statement | LiveOffice
 
 LiveOffice, LLC (“LiveOffice” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes LiveOffice’s information practices. LiveOffice provides managed email archiving, email compliance, email discovery, email continuity, financial websites and Exchange hosting solutions.
-
-LiveOffice complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  LiveOffice has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, LiveOffice commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact LiveOffice at [support@liveoffice.com](mailto:support@liveoffice.com).
-
-LiveOffice has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by LiveOffice, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints ](http://www.bbb.org/us/safe-harbor-complaints%20)for more information and to file a complaint.
 
 ## 1\. Web Sites Covered
 
