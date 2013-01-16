@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717000929id_/http%3A//www.cacert.org/policy/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cacert.org privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116034850id_/http%3A//www.cacert.org/policy/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,6 +59,6 @@ CAcert adopts the Australian privacy regulations. Please see <http://www.privacy
 If you need to contact us in writing, address your mail to:
 
 CAcert Inc.  
-P.O. Box 4107  
-Denistone East NSW 2112  
+PO Box 66   
+Oatley NSW 2223  
 Australia 
