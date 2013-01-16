@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodymart.in privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203015242id_/http%3A//www.bodymart.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodymart.in privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116064700id_/http%3A//www.bodymart.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Health, Dietary, Food, Fitness, Vitamin, Protein, Diabetes, Nutritional supplements at Bodymart Chennai India
 
