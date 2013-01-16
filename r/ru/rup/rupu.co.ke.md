@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rupu.co.ke privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502122044id_/http%3A//www.rupu.co.ke/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupu.co.ke privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116025631id_/https%3A//www.rupu.co.ke/page/privacy) for the most accurate reproduction.*
 
-# Base - Page - Rupu
+# Privacy Policy - Rupu
 
 **1\. Types of information we collect:** You agree that we may electronically collect, store and/or use the following of your information:  
 1.1. name and surname, birth date ("Personal Details");  
