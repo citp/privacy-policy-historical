@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclefish.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016035911id_/http%3A//www.cyclefish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclefish.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116041915id_/http%3A//www.cyclefish.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CycleFish
 
@@ -38,4 +38,4 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 
 |  |   
   
-Copyright © 2009 CycleFish.com       |       The CycleFish website is proudly hosted at: [**HostGator.com**](http://www.anrdoezrs.net/click-3550386-10409151 "Outstand Hosting Service with Affordable Plans for Any Website")
+Copyright © 2012 CycleFish.com       |       The CycleFish website is proudly hosted at: [**HostGator.com**](http://www.anrdoezrs.net/click-3550386-10409151 "Outstand Hosting Service with Affordable Plans for Any Website")
