@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010221107id_/http%3A//www.carzone.ie/index.cfm%3Ffuseaction%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116044227id_/http%3A//www.carzone.ie/index.cfm%3Ffuseaction%3Dprivacypolicy%23cookies) for the most accurate reproduction.*
 
 # Carzone.ie - New & Used Cars in Ireland - Privacy Policy
 
