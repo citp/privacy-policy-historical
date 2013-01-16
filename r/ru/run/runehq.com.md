@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runehq.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228003344id_/http%3A//www.runehq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runehq.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116135638id_/http%3A//www.runehq.com/privacy.php) for the most accurate reproduction.*
 
 # RuneHQ - RuneScape Help - Your Unfair RS Advantage
 
