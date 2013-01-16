@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catch.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014132123id_/https%3A//catch.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catch.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116164241id_/https%3A//catch.com/legal/privacy) for the most accurate reproduction.*
 
 # Catch Notes Privacy Policy | Catch.com
 
@@ -11,9 +11,7 @@ Policy in effect as of: 11/08/11
 
 ### Our Privacy Commitment to You
 
-At Catch.com, we understand the trust you place in us and our responsibility to protect your privacy, and as such we are committed to be open and transparent with you in communicating and discussing our policies. Catch.com values the privacy of those who use our web site located at www.catch.com and our products and services, and makes all commercially reasonable efforts to protect it.
-
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.catch.com/seal_m "Validate TRUSTe privacy certification")Catch.com has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and related practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at compliance@catch.com. If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+At Catch.com, we understand the trust you place in us and our responsibility to protect your privacy, and as such we are committed to be open and transparent with you in communicating and discussing our policies. Catch.com values the privacy of those who use our web site located at www.catch.com and our products and services, and makes all commercially reasonable efforts to protect it. If you have questions or complaints regarding our privacy policy or practices, please contact us at [compliance@catch.com](mailto:compliance@catch.com).
 
   
 
@@ -104,7 +102,7 @@ The security and privacy of your personal notes content is our top priority. We 
 
 ### Your Information is Confidential
 
-Account information data like your email address, user name, account and contact preferences, etc., are considered strictly confidential. Catch.com may communicate with you regarding any changes to your account settings information, deliver product announcements, software updates and special offers, and improve the features and usability of our products. You may opt-out of communications with Catch.com com at any time by clicking on the unsubscribe link located at the bottom of each email communication or by emailing us at compliance@catch.com. Registered Catch.com users can view and change their account settings information at any time by visiting the Catch.com account information page by signing in at https://catch.com and clicking on the “Settings” link. Unregistered users may still be able to use certain Catch.com web sites and services, in which case no account settings data is stored.
+Account information data like your email address, user name, account and contact preferences, etc., are considered strictly confidential. Catch.com may communicate with you regarding any changes to your account settings information, deliver product announcements, software updates and special offers, and improve the features and usability of our products. When you invite other people to Catch through our referral program, we send them a one-time email invitation. You may also provide us with your contacts' email addresses when you share spaces with them. Similarly, we may also receive personal information such as your email address through others, for example if they share a space with you or refer you to Catch. You may opt-out of communications with Catch.com com at any time by clicking on the unsubscribe link located at the bottom of each email communication or by emailing us at compliance@catch.com. Registered Catch.com users can view and change their account settings information at any time by visiting the Catch.com account information page by signing in at https://catch.com and clicking on the “Settings” link. Unregistered users may still be able to use certain Catch.com web sites and services, in which case no account settings data is stored.
 
   
 
