@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mojostreet.com privacy policy that was archived on 2012-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121015095646id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mojostreet.com privacy policy that was archived on 2013-01-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130116214712id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--<head prefix="og: http://ogp.me/ns# mymojostreet:http://ogp.me/ns/apps/mymojostreet#">--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# mymojostreet: http://ogp.me/ns/fb/mymojostreet#">
 
@@ -9,19 +9,19 @@
 
 <meta property="fb:app_id" content="181247205243797">
 <meta name="generator" content="mojostreet">
-<meta property="og:image" content="http://www.mojostreet.com/images/mojo_map_pin.png">
-<meta property="og:title" content="The location based mobile game with real world benefits.">
-<meta property="og:description" content="mojostreet is a location based mobile game with real world benefits.">
-<meta name="description" content="mojostreet is a location based mobile game with real world benefits.">
+<meta property="og:image" content="http://www.mojostreet.com/images/mojo_map_pin_new.png">
+<meta property="og:title" content="Mojostreet - Discover amazing places with friends">
+<meta property="og:description" content="Mojostreet makes it easy to find friends and amazing places nearby">
+<meta name="description" content="Mojostreet makes it easy to find friends and amazing places nearby">
 
-<!--<link href="http://www.mojostreet.com/css/global.css?1350295006" rel="stylesheet" type="text/css" />
-<link href="http://www.mojostreet.com/css/design.css?1350295006" rel="stylesheet" type="text/css" />-->
+<!--<link href="http://www.mojostreet.com/css/global.css?1358372832" rel="stylesheet" type="text/css" />
+<link href="http://www.mojostreet.com/css/design.css?1358372832" rel="stylesheet" type="text/css" />-->
 
-<link href="http://www.mojostreet.com/css/mojo_global.css?1350295006" rel="stylesheet" type="text/css">
-<link href="http://www.mojostreet.com/css/mojo_design.css?1350295006" rel="stylesheet" type="text/css">
+<link href="http://www.mojostreet.com/css/mojo_global.css?1358372832" rel="stylesheet" type="text/css">
+<link href="http://www.mojostreet.com/css/mojo_design.css?1358372832" rel="stylesheet" type="text/css">
 
 
-<link href="http://www.mojostreet.com/css/slideshow.css?1350295006" rel="stylesheet" type="text/css">
+<!--<link href="http://www.mojostreet.com/css/slideshow.css?1358372832" rel="stylesheet" type="text/css" />-->
 
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
@@ -30,7 +30,8 @@ var signupPagetype = '';
 </script>
 
 <script type="text/javascript" src="http://www.mojostreet.com/js/jquery.js"></script>
-<script type="text/javascript" src="http://www.mojostreet.com/js/common.js?1231350295006"></script>
+<script type="text/javascript" src="http://www.mojostreet.com/js/common.js?1231358372832"></script>
+
 <link rel="icon" type="image/png" href="http://www.mojostreet.com/images/fac_icon.png">
 <!--Google Analytics-->
 <script type="text/javascript">
@@ -46,8 +47,64 @@ var signupPagetype = '';
   })();
 </script>
 <!--Google Analytics-->
+
+
+
 </head>
 <body class="bgInnerBodyScape">
+
+<script>
+var glat;
+var glon;
+
+var distance = '';
+
+
+function getLocation()
+{
+		
+	console.log('==>');	
+	
+	
+	if (navigator.geolocation)
+	{
+		navigator.geolocation.getCurrentPosition(showPosition,geoError);
+		console.log("Supported.");
+	}
+	else
+	{
+				console.log("Geolocation is not supported by this browser.");
+	}
+}
+function geoError(error)
+{
+	console.log(error);
+	
+	}
+function showPosition(position)
+{
+	glat = position.coords.latitude;
+	glon = position.coords.longitude;
+		
+	console.log(glat+'==>'+glon+',==>');	
+	if(glat != '' && glon != '')
+	{
+		$.post(BASEURL+'ajax/places/latlongs/',{lat:position.coords.latitude,lon:position.coords.longitude}, function(data)
+		{		
+			console.log('updated location');
+						
+		})
+	}
+	else
+	{
+			}
+	
+	
+	
+	}
+getLocation();
+</script>
+
 <div> 
 <div class="POPspread" id="greyBG" style="left:0px; display:none">
 <!--End POPspread-->
@@ -73,18 +130,39 @@ var signupPagetype = '';
 
         <div class="innerHeadHold">
  	 <div class="logoInner"><a href="http://www.mojostreet.com/"><img src="http://www.mojostreet.com/images/logo_mojo_main_header.png" width="195" height="60"></a></div>
-              <div class="HomeSearchBxHold">
-             <form id="form1" name="form1" method="post" action="http://www.mojostreet.com/explore/results/">
-             <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <div class="HomeSearchBxHold" style="margin-top:13px">
+             <form id="search_frm" name="search_frm" method="post" onsubmit="return false;">
+             <table width="80%" border="0" align="right" cellpadding="0" cellspacing="0">
           <tbody><tr>
-            <td width="42%" align="left" valign="middle"><input name="keyword" id="keyword" type="searchbox" style="width:300px; border:0px; margin-top:9px; border-radius:0; padding:8px; background-color:#d3d3d3; border: 1px solid #323232" value=""></td>
+            <td width="42%" align="left" valign="middle"><input name="keyword" id="keyword" onfocus="onFocusBlur('focused','keyword','Ex: Pizza, Banjara hills'); " onblur="onFocusBlur('blurred','keyword','Ex: Pizza, Banjara hills');" style="width:300px; border:0px; border-radius:0; background-color:#d3d3d3; border: 1px solid #323232" value="Ex: Pizza, Banjara hills"></td>
             <td width="58%" align="left" valign="middle">
-              <input type="submit" name="button" id="button" value="Submit" style="width:100px; margin-top:10px; background-color:#7dc242; border-radius:0; padding:4px;  font-size:18px; font-weight:bold; color:#FFF; text-shadow: 1px 1px 0 #5e9131; border: 1px solid #323232">
+              <input type="submit" name="button" id="button" value="Search" style="width:100px; height:39px; padding-top:5px;  vertical-align:middle; background-color:#7dc242; border-radius:0; font-size:18px; font-weight:bold; color:#FFF; text-shadow: 1px 1px 0 #5e9131; border: 1px solid #323232; cursor:pointer;">
             </td>
           </tr>
         </tbody></table>
         </form>
         </div>
+        <script>
+		$(document).ready(function() 
+		{
+			$('#search_frm').submit(function(){
+				
+				var word = jQuery.trim($('#keyword').val());
+	
+				if( (word != 'Ex: Pizza, Banjara hills' && word.length < 3) || (word == 'Ex: Pizza, Banjara hills'))
+				{
+					alert('Please enter atleast 3 characters');
+					$('#keyword').val('');
+					return false;
+				}
+	
+				$.post(BASEURL+'ajax/places/search/',$('#search_frm').serialize(), function(data)
+				{		
+					window.location = BASEURL+'explore/results';
+				})
+			});
+		});
+		</script>
 	    
                 <!--End innerHeadHold--> 
   </div>  
@@ -172,7 +250,60 @@ var signupPagetype = '';
 
   <!--End privacyHold-->
 
-  </div> 
+  </div><script>
+function nothanks()
+{
+	hidePopBx();
+	
+	$.post( BASEURL+'ajax/social/fbreject/', {}, function(data) 
+	{							
+	});	
+}
+$(document).ready(function() {
+	
+	$(".POPcloseFB").click(function(e){
+		nothanks();
+	});
+});
+</script>
+<!-- ************************   POP starts here  ************************----------------- </div-->
+
+<div class="POP" id="autosignup_pop_div" style="left:300px; top: 245px; position: fixed; width:580px; background-color:#; float:left; border:1px solid #747474; display:none">
+<div class="POPcontent" style="width:580px; float:left;">
+<table width="92%" border="0" align="center" cellpadding="10" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="middle" height="15"></td>
+    </tr>
+  <tr>
+    <td align="left" valign="middle" style="font-size:22px;font-weight:bold">Your friends are on Mojostreet </td>
+    </tr>
+        <tr id="facebookFriendsSignupPop" style="display:none"><td>
+     <div align="center" style="padding-top:0px ;padding-bottom:10px;  height:60px; text-align:center; margin-top:0px;">
+<iframe src="http://www.facebook.com/plugins/facepile.php?app_id=181247205243797&amp;action&amp;size=medium&amp;max_rows=1&amp;width=560&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:560px; padding-bottom:0px" allowtransparency="true"></iframe>
+</div>    
+    </td></tr>
+     <tr>
+    <td align="left" valign="middle" style="font-size:16px">Sign in to Facebook and see their recommendations </td>
+    </tr>
+  <tr>
+    <td align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="32%" align="left" valign="middle"><img src="http://www.mojostreet.com/images/but_pop_facebook_signin.png" width="150" height="23" border="0" id="fbAutoSignup" style="cursor:pointer"></td>
+        <td width="68%" align="left" valign="middle"><a href="javascript: void(0);" onclick="nothanks()" style="color:#0063dc">No, thanks</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"> </td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle"> </td>
+  </tr>
+</tbody></table>
+  </div>
+<div class="POPclose POPcloseFB">X</div>
+</div>
+<!-- ************************   POP Ends here  ************************----------------- --> 
  <div class="clearB"></div>
  
    <!--End container--> 
@@ -180,28 +311,37 @@ var signupPagetype = '';
 
     <div class="FooterHolderInner">
     
-    <div class="HomeDNLDHoldFootr">
+    <div class="HomeDNLDHoldFootr" style="width:1100px">
+    <div class="PwrGgleContentBx" id="googleResultDiv" style="display:none; padding-top:40px"></div>
     <div class="HomeDNLDHoldFootrTxt">Available on</div>
+    
             
-           <a href="http://www.mojostreet.com/download_i">
+           <a href="http://mojo.st/SXTJlv">
             <div class="iphone BRDRradiusN"></div></a>
             
-            <a href="http://www.mojostreet.com/download_a">
+            <a href="http://mojo.st/R7XgLX">
             <div class="android BRDRradiusN"></div></a>
                  
-            <a href="http://www.mojostreet.com/download_bb">
+            <a href="http://mojo.st/SXTJlt">
             <div class="BB BRDRradiusN"></div></a> 
             
-            <a href="http://www.mojostreet.com/download_windows">
+            <a href="http://mojo.st/SXTKGb">
             <div class="Windows BRDRradiusN"></div></a> 
-            
+         
+         
+             
         </div>
+        
+
+
+
     
     
     <div class="Footer clearB">
     <div>
-   <a href="http://www.mojostreet.com/aboutus">About us</a> <a href="http://www.mojostreet.com/terms">Terms and Conditions</a> <a href="http://www.mojostreet.com/privacy">Privacy Policy</a><!--<a href="http://www.mojostreet.com/faqs" >FAQs</a>--> <a href="http://www.mojostreet.com/mediacoverage" style="color:#0082c6">Media Coverage</a> 
-    </div>
+   <a href="http://www.mojostreet.com/aboutus">About us</a> <a href="http://www.mojostreet.com/terms">Terms and Conditions</a>
+       <a href="http://www.mojostreet.com/privacy">Privacy Policy</a><!--<a href="http://www.mojostreet.com/faqs" >FAQs</a>--> <a href="http://www.mojostreet.com/mediacoverage" style="color:#0082c6">Media Coverage</a> 
+    <span id="siteseal"><script type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=YLujHm3jxXazCE97wA0AQWwN9LwSnd0a2ggXmrhYryBYd5iaks"></script></span> </div>
     </div>
     </div>
 
@@ -235,10 +375,14 @@ $(document).ready(function() {
 		var merchantOffersPage = 0;
 		var merchantAnnouncementPage = 0;
 		var merchantEditLocation = 0;
+		var merchantInvitesPage = 0;
 		
 		var loadFbFriends = 0;
 		var newHomePage = 0;
 		var placeSharePage = 0;
+		var exploreResultsPage = 0;
+		var askPermissions = 0; //for fb autosignup
+		var checkFbLoginStatus = 0;
 
 				//for merchant
 		$('#fb_merchant_auth').click(function(){			
@@ -324,6 +468,24 @@ $(document).ready(function() {
 			getFbInvitestest();
 		});
 		
+		$('#fbCheckLoginStatus').click(function(){	
+			exploreResultsPage = 1;
+			FB.getLoginStatus(updateButton);
+		});
+					  //show signup popup
+			 // askPermissions = 1;
+			  clicked = 1;
+			  checkFbLoginStatus = 1;
+			  FB.getLoginStatus(updateButton);
+			  //showPopBx('autosignup_pop_div', 1);	
+			  		  
+		  $('#fbAutoSignup').click(function(){	
+			checkFbLoginStatus = 0;
+			askPermissions = 1;
+			clicked = 1;
+			FB.getLoginStatus(updateButton);
+		});
+		
 		function getHomePageFbFriends()
 		{
 			clicked = 1;
@@ -362,7 +524,8 @@ $(document).ready(function() {
 			$('#domainDiv').hide();	
 
 			FB.getLoginStatus(updateButton);
-		}	
+		}
+		
 		function getFbInvitesBusiness()
 		{
 			clicked = 1;
@@ -395,20 +558,7 @@ $(document).ready(function() {
 			clicked = 1;
 			placeSharePage = 1;
 			
-			//var fbId = $('#facebook_id').val();
-			//var fbAccessToken = $('#access_token').val();
-			
-			clearMessage('show_error_facebook');	
-			
-			/*if(fbId != '' && fbAccessToken != '')
-			{
-				showFbPlaceShare();
-			}
-			else
-			{
-				FB.getLoginStatus(updateButton);
-			}*/
-			
+			clearMessage('show_error_facebook');			
 			FB.getLoginStatus(updateButton);
 		}
 		
@@ -427,8 +577,9 @@ $(document).ready(function() {
 			showPopBx('fb_share_div', 1);	
 			$('#sendBtn').hide();
 			
+			$('#fb_friends').show();
 			$('#fb_friends').html('<table><tr><td height="400" valign="middle"><img src="'+BASEURL+'images/ajaxLoader.gif" /></td></tr></table>');
-			//$('#fb_friends').hide();			
+				
 			$('.Loader').show();
 							
 			$.post( BASEURL+ 'ajax/places/facebook/'+fbAccessToken,  {}, function(data) 
@@ -437,7 +588,7 @@ $(document).ready(function() {
 				$('.Loader').hide();
 			
 				$('#sendBtn').show();
-				//$('#fb_friends').show();
+				
 				
 				if(splitData[0] == 'err')
 				{
@@ -476,7 +627,7 @@ $(document).ready(function() {
 					disableButton('false');
 				}
 			});	
-		}
+		}		
 		
 		function showFbInvites()
 		{
@@ -554,6 +705,23 @@ $(document).ready(function() {
 			}
 		}
 		
+		function setFbSess(fbId,fbEmail,fbToken,fbStatus)
+		{
+			$.post( BASEURL+'ajax/social/fbsess/'+fbId+'/'+fbToken, {email:fbEmail}, function(data) 
+			{
+				if(data == 0)
+				{
+					if(fbStatus != 'unknown')
+					{
+						//show signup popup
+						//askPermissions = 1;
+						showPopBx('autosignup_pop_div', 1);	
+						
+						$('#facebookFriendsSignupPop').show();
+					}
+				}
+			});	
+		}
 		
 		function updateButton(aResponse) 
 		{
@@ -566,14 +734,28 @@ $(document).ready(function() {
 					FB.api('/me', function(response) 
 					{
 						asyncFbId = response.id;
-						/*if(myProfilePage == 1)
-						{
-							$('#myProfileFbId').val(asyncFbId);
-							showlater_suggestion();
-						}
-						else*/ 
+						var fbStatus = aResponse.status;
 						
-						if(merchantPage == 1 || merchantTipsPage == 1 || merchantOffersPage == 1 || merchantAnnouncementPage == 1 || merchantEditLocation == 1 || (invitesFBFriendsBusiness == 1 && $('#facebook_id').val() == ''))
+						if(merchantInvitesPage == 1)
+							$('#merchantFbInvites').show();
+						
+						if(checkFbLoginStatus == 1)
+						{
+							setFbSess(response.id,response.email,aResoponseObj.accessToken,fbStatus);
+						}
+						else if(askPermissions == 1)
+						{							
+							//hide signup popup	
+							hidePopBx();
+							
+							$.post( BASEURL+'ajax/social/signup/1/'+response.id+'/'+aResoponseObj.accessToken, {}, function(data) 
+							{	
+								
+								setFbSess(response.id,response.email,aResoponseObj.accessToken,fbStatus);
+								document.location.reload();
+							});	
+						}
+						else if(merchantPage == 1 || merchantTipsPage == 1 || merchantOffersPage == 1 || merchantAnnouncementPage == 1 || merchantEditLocation == 1 || (invitesFBFriendsBusiness == 1 && $('#facebook_id').val() == ''))
 						{
 							/*if(invitesFBFriendsBusiness == 1)
 							{
@@ -633,6 +815,10 @@ $(document).ready(function() {
 							   }
 						   });
 						}	
+						else if(merchantInvitesPage == 1)
+						{
+							$('#merchantFbInvites').show();
+						}
 						else if(placeSharePage == 1)					
 						{
 							$('#facebook_id').val(asyncFbId);
@@ -699,7 +885,7 @@ $(document).ready(function() {
 									$('#fbfriends_list').show();
 									$('#fbfriends_list').html( data );
 								}
-							});						
+							});								
 						}	
 						else if(newHomePage == 1)				
 						{
@@ -729,10 +915,17 @@ $(document).ready(function() {
 				}
 				else 
 				{
-					askForLogin = 1;
+					if(checkFbLoginStatus == 1)
+					{
+						//checkFbLoginStatus = 0;
+						showPopBx('autosignup_pop_div', 1);	
+					}
+					else
+					{
+						askForLogin = 1;
 					//fbButton.onclick = function() 
 					//{	
-						if((friendsPage == 0 && profilePage == 0 && newHomePage == 0) || invitesPage ==1 || merchantPage == 1 || merchantTipsPage == 1 || merchantOffersPage == 1 || merchantAnnouncementPage == 1 || merchantEditLocation == 1 || placeSharePage == 1)	//facebook login is not required for some pages				
+						if((friendsPage == 0 && profilePage == 0 && newHomePage == 0) || invitesPage ==1 || merchantPage == 1 || merchantTipsPage == 1 || merchantOffersPage == 1 || merchantAnnouncementPage == 1 || merchantEditLocation == 1 || placeSharePage == 1 || askPermissions == 1)	//facebook login is not required for some pages				
 						{
 							FB.login(function(response) 
 							{								
@@ -745,6 +938,7 @@ $(document).ready(function() {
 							$('#fbTitleId').hide();
 						}						
 					//}
+					}
 				}
 			}			
 			else if(clicked1 == 1)
@@ -783,7 +977,6 @@ $(document).ready(function() {
 					//}
 				}
 			}
-			
 		}	
 		
 		function updateButton2(aResponse2) 
@@ -941,7 +1134,8 @@ $(document).ready(function() {
 			
 		}	
 		FB.Event.subscribe('auth.statusChange', updateButton);		// run once with current status and whenever the status changes	
-			};
+				
+	};
 	/*(function() 
 	{
 		var e = document.createElement('script'); e.async = true;
@@ -960,9 +1154,10 @@ $(document).ready(function() {
 	
 
 });
-
+ 
 </script>
 
 </div>
+
 
 </body></html>
