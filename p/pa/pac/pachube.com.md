@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pachube.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014063750id_/https%3A//cosm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pachube.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116153914id_/https%3A//cosm.com/privacy) for the most accurate reproduction.*
 
 # Cosm - Privacy Policy
 
