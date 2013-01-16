@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025112633id_/http%3A//www.belchfire.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116132422id_/http%3A//www.belchfire.net/privacy.php) for the most accurate reproduction.*
 
 # Windows XP Themes, Windows Vista Themes, Windows 7 Themes, Desktop Themes
 
