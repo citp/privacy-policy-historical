@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wralsportsfan.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014172031id_/http%3A//www.wralsportsfan.com/rs/page/3449665) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wralsportsfan.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116181444id_/http%3A//www.wralsportsfan.com/rs/page/3449665) for the most accurate reproduction.*
 
 # Privacy Policy - WRALSportsFan.com
 
