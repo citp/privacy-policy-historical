@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesuperpet.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116100333id_/http%3A//www.thesuperpet.com/privacy-policy-pg-31.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesuperpet.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116204606id_/http%3A//www.thesuperpet.com/privacy-policy-pg-31.html%3FosCsid%3D62827d6bb42c0d87ebb5ea6dfadcfb23) for the most accurate reproduction.*
 
 # THESUPERPET.COM
 
