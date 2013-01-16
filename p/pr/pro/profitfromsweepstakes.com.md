@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitfromsweepstakes.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015170610id_/http%3A//www.profitfromsweepstakes.com/instant-page-terms-and-conditions-2012-07-19-015657/instant-page-privacy-policy-2012-07-19-015657) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitfromsweepstakes.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116084311id_/http%3A//www.profitfromsweepstakes.com/instant-page-terms-and-conditions-2012-07-19-015657/instant-page-privacy-policy-2012-07-19-015657) for the most accurate reproduction.*
 
 # Privacy Policy | Profit From Sweepstakes, Make Money With Giveaways
 
