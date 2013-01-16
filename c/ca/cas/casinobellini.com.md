@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinobellini.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014122408id_/http%3A//www.casinobellini.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinobellini.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116131440id_/http%3A//www.casinobellini.com/privacy.html) for the most accurate reproduction.*
 
 # Casino Bellini: Privacy Statement
 
@@ -73,6 +73,14 @@ We may, for the Purposes, disclose your personal information to any of the follo
   * (vi) any potential purchasers of the Casino Bellini business or any investors in it or in any company within our group.
 
 
+
+## Use of cookies generally
+
+A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. Find out more about the use of cookies on http://www.cookiecentral.com.
+
+We use cookies to identify you when you visit this web site and to keep track of your browsing patterns and build up a demographic profile.
+
+Most browsers allow you to turn off cookies. If you want to know how to do this please look at the help menu on your browser. However, switching off cookies will restrict your ability to make full use of the functionality available on our web site. 
 
 ## Winnings
 
