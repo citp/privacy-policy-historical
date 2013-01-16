@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbasstabs.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030234406id_/http%3A//www.bigbasstabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbasstabs.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116235023id_/http%3A//www.bigbasstabs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for bigbasstabs.com
 
