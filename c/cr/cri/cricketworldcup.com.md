@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketworldcup.com privacy policy that was archived on 2012-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120927060506id_/http%3A//www.cricketworldcup.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketworldcup.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116014139id_/http%3A//www.icc-cricket.com//privacy_policy.php) for the most accurate reproduction.*
 
 # International Cricket Council - Privacy Policy
 
