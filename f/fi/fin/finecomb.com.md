@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finecomb.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116160801id_/http%3A//www.finecomb.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finecomb.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116074714id_/http%3A//www.finecomb.com/privacyPolicy) for the most accurate reproduction.*
 
 # FineComb | The best deals, online deals, and huge savings at FineComb.com
 
