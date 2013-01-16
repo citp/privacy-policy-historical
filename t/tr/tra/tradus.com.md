@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tradus.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010104412id_/http%3A//tradus.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradus.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116204325id_/http%3A//www.tradus.com/privacy_policy) for the most accurate reproduction.*
 
 # None
 
-At tradus.com, we believe strongly in protecting the privacy of your personal information, and in using it only in ways that have been notified to you. This Privacy Policy is a legal document which principally sets out what personal information we collect and retain, how we use it, whom we may disclose it to, the security measures we take to protect that information, and how you can correct inaccuracies in the personal information we hold. You should read it in conjunction with the tradus.com [Terms and Conditions](https://web.archive.org/web/20121010104412id_/http%3A//tradus.com/Terms)
+At tradus.com, we believe strongly in protecting the privacy of your personal information, and in using it only in ways that have been notified to you. This Privacy Policy is a legal document which principally sets out what personal information we collect and retain, how we use it, whom we may disclose it to, the security measures we take to protect that information, and how you can correct inaccuracies in the personal information we hold. You should read it in conjunction with the tradus.com [Terms and Conditions](https://web.archive.org/web/20130116204325id_/http%3A//www.tradus.com/Terms)
 
 If you have questions or concerns regarding this statement, you should contact tradus.com's customer service
 
