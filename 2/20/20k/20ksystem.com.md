@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20ksystem.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510021302id_/http%3A//secure.trust-guard.com/Privacy-Policy/policies/20ksystemcom.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20ksystem.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116113753id_/http%3A//secure.trust-guard.com/Privacy-Policy/policies/20ksystemcom.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 **  
 **What information do we collect?**
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
 
 Any data we request that is not required will be specified as voluntary or optional. 
 
@@ -24,19 +24,18 @@ Any of the information we collect from you may be used in one of the following w
 • To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
 • To send periodic emails
 
 The email address you provide for order processing, will only be used to send you information and updates pertaining to your order or request.
-
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 • To administer a contest, promotion, survey or other site feature
 
  **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request or place an order. 
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
 
 These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
 
@@ -60,6 +59,8 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
  **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
@@ -72,6 +73,10 @@ We have taken the necessary steps to ensure that we are compliant with the CAN-S
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://20ksystem.com/termsandconditions.html.
+
  **Your Consent**
 
 By using our site, you consent to our privacy policy.
@@ -80,18 +85,18 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-This policy was last modified on **5/15/2011**
+This policy was last modified on **12/4/2010**
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.20ksystem.com  
-7215 Sunset Blvd  
-Los Angeles, CA 55391  
+7336 Santa Monica Blvd Suite 2.  
+West Hollywood, CA 90046  
 United States  
-gcfglobalorders@gmail.com  
-877.506.5540
+support@20ksystem.com  
+8775065540
 
  **Privacy Policy Customer Pledge**
 
@@ -106,7 +111,7 @@ If at anytime you have a cause that needs to be disputed please fill out the [Tr
 
 Respectfully, 
 
-Max Stiegemeier   
+POP Support Team   
 www.20ksystem.com
 
 www.20ksystem.com's privacy policy has been verified by [Trust Guard](http://www.trust-guard.com/)
