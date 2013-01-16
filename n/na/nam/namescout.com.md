@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120051216id_/http%3A//www.namescout.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116044850id_/http%3A//www.namescout.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Namescout.com - Privacy Statement
 
 ### This Privacy Statement protects your privacy by:
 
-##### Informing you about :
+#### Informing you about :
 
   * the types of personal information Namescout.com collects about you through its Web sites;
   * how it collects that information; 
@@ -14,14 +14,14 @@
 
 
 
-##### Empowering you to choose :
+#### Empowering you to choose :
 
   * whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
   * whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
 
 
 
-##### Assuring you that Namescout.com :
+#### Assuring you that Namescout.com :
 
   * takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
   * implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
