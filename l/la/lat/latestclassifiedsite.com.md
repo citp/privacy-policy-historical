@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the latestclassifiedsite.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015220718id_/http%3A//www.latestclassifiedsite.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestclassifiedsite.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116024442id_/http%3A//www.latestclassifiedsite.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Free Classified Ads - Free Classified Sites
+
+Wednesday 16 January 2013 
 
 ##  Website Privacy Policy 
 
