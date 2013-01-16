@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leapcard.ie privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014145052id_/https%3A//www.leapcard.ie/PageSetting/ContentViewer.aspx%3FVal%3Dl18aYhoP9dAGjL7tuPcQwQdFOtHf6cCmDKfYR3kzzVJcVe5djyMPMdX%252bFaMZrcr1Wgcyd6CJ4DpIDMFnD3TG9AycQod7F7arEBXfx673bIIahIyeQVHIO33ui7VKCQH4BdYjkCECS9AfvEG5%252fOpN4N%252b2xcEDzKLBLCQEodlMOuo%253d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapcard.ie privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116105148id_/https%3A//www.leapcard.ie/PageSetting/ContentViewer.aspx%3FVal%3Dl18aYhoP9dAGjL7tuPcQwQdFOtHf6cCmDKfYR3kzzVJcVe5djyMPMdX%252bFaMZrcr1Wgcyd6CJ4DpIDMFnD3TG9AycQod7F7arEBXfx673bIIahIyeQVHIO33ui7VKCQH4BdYjkCECS9AfvEG5%252fOpN4N%252b2xcEDzKLBLCQEodlMOuo%253d) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement and Use of Cookies
 
 ## General Statement
 
@@ -25,12 +25,13 @@ By continuing to use Leapcard.ie you are agreeing to our use of cookies as descr
 
 ## Cookies used by LeapCard.ie
 
-LeapCard.ie uses 4 types of cookies
+LeapCard.ie uses 5 types of cookies
 
   * 1.A “Session ID” cookie
   * 2.An “Analytics” cookie
   * 3.A “login” cookie
-  * 4.A “surveys” cookie
+  * 4.A shopping basket cookie
+  * 5.A “surveys” cookie
 
 
 
@@ -47,6 +48,7 @@ For more information, visit: <http://support.microsoft.com/kb/899918>
 For more information, refer to the section below entitled “Collection And Use Of Technical Information”  
   
 **Login cookie** | .ASPXFORMSAUTH | When you login to your account on Leapcard.ie we generate a cookie that helps the website to remember this information and allowing you to navigate from page to page without having to enter your login details each time you click on a link. Without this cookie, you will not be able to use the “Your Account” area of the website. This cookie is automatically deleted when you logout.  
+**Shopping Basket Cookie** | ShBCookie | This cookie is used to remember the contents of your Shopping Basket. It contains only a reference to the database table identifier in the web database, and does not contain any user identifying information. Without this cookie, you will not be able to use the shopping basket functionality in the website. This cookie will last for 24 hours.  
 **Surveys cookie** | Varies | Contains only a reference to the database table identifier in the web database, it does not contain user information.
 
 This cookie only lasts for the current user session   
@@ -90,7 +92,7 @@ The information you provide to the Authority may occasionally be passed to third
 
 At no time will information provided by you be disclosed to any third parties (other than as set out in the Leap Card Terms and Conditions) unless in accordance with the law. Your personal data may be made anonymous and used for statistical purposes. 
 
-You may choose [unsubscribe from our newsletter at any time by clicking here](https://web.archive.org/web/20121014145052id_/https%3A//www.leapcard.ie/CMS/UnsubscribeNewsLetter.aspx) or emailing [customer.care@leapcard.ie](mailto:customer.care@leapcard.ie). If you opted in to receive Leapcard.ie newsletters you may choose to unsubscribe by logging in to your online account or emailing [customer.care@leapcard.ie](mailto:customer.care@leapcard.ie). 
+You may choose [unsubscribe from our newsletter at any time by clicking here](https://web.archive.org/web/20130116105148id_/https%3A//www.leapcard.ie/CMS/UnsubscribeNewsLetter.aspx) or emailing [customer.care@leapcard.ie](mailto:customer.care@leapcard.ie). If you opted in to receive Leapcard.ie newsletters you may choose to unsubscribe by logging in to your online account or emailing [customer.care@leapcard.ie](mailto:customer.care@leapcard.ie). 
 
 You may also choose to provide us with personal data (e.g. name, e-mail and postal address) in correspondence to one of the addresses listed on our website. We use these details solely for the purpose of dealing with your query. 
 
