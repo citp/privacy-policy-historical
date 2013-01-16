@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diynot.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920072740id_/http%3A//www.diynot.com/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynot.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116151404id_/http%3A//www.diynot.com/docs/privacy.php) for the most accurate reproduction.*
 
 # DIYnot > Privacy Statement
 
