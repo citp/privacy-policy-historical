@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echoecho.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102140637id_/http%3A//www.echoecho.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echoecho.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116180807id_/http%3A//www.echoecho.com/privacy.htm) for the most accurate reproduction.*
 
 # EchoEcho.Com: Privacy statement
 
