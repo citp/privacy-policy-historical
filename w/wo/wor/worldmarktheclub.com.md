@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920104040id_/https%3A//worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116071737id_/https%3A//worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WorldMark, The Club | Privacy Policy
 
