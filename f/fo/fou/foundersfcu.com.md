@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foundersfcu.com privacy policy that was archived on 2012-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120311053925id_/https%3A//www.foundersfcu.com/pdf/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foundersfcu.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116163821id_/https%3A//www.foundersfcu.com/pdf/4313PrivacyPolicy1212.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                                    Rev 12/2010
+                                                                                                                    Rev 12/2012
                       WHAT DOES FOUNDERS FEDERAL CREDIT UNION
 FACTS                 DO WITH YOUR PERSONAL INFORMATION?
                       Financial companies choose how they share your personal information. Federal law gives
@@ -48,6 +48,7 @@ For our nonaffiliates to market to you                                    No    
                       However, you can contact us at any time to limit our sharing.
  Questions?           Call (800) 845-1614.
  Mail-in Form
+                      You are not required to complete this form if you have done so in the past.
                       Do not allow your affiliates to use my personal information to market to me.
                      Name                                                                            Mail to:
                                                                                                      Founders Federal
@@ -56,8 +57,9 @@ For our nonaffiliates to market to you                                    No    
                                                                                                      Attn: Compliance
                      City, State, Zip                                                                Officer
                                                                                                      737 Plantation Road
-                                                                                                     Lancaster, SC
-                     Phone Numbers                                                                   29720
+                     Account
+                     Number                                                                          Lancaster, SC
+                                                                                                     29720
 
 
    What we do
