@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the href.info privacy policy that was archived on 2012-08-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120817110016id_/http%3A//directory.href.info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the href.info privacy policy that was archived on 2013-01-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130117005049id_/http%3A//directory.href.info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Href Directory</title>
@@ -73,7 +73,7 @@ Should you ever wish to be removed from our database, simply contact us and we w
 <td width="50%" class="footer" align="center" valign="middle">
 <a href="/">Home</a><font color="silver">| </font><a href="/about.html">About</a><font color="silver">| </font><a href="/newsletter.html">Newsletter</a><font color="silver">| </font><a href="/advertise.html">Advertise</a><font color="silver">| </font><a href="/submit.html">Submit Your Site</a><font color="silver">| </font><a href="/contact.html">Contact Us</a><font color="silver">| </font>
 <br>
-<a href="http://www.href.info/">Href Directory</a> ©2012 <a href="/privacy.html">Privacy
+<a href="http://www.href.info/">Href Directory</a> ©2013 <a href="/privacy.html">Privacy
 Policy</a> and <a href="/legal.html">Legal</a>.
 </td>
 </tr>
@@ -83,11 +83,18 @@ Policy</a> and <a href="/legal.html">Legal</a>.
 </td>
 </tr>
 </tbody></table>
-<script type="text/javascript">
+<!--?
+if(strlen($CFG['GOOGLE_ANALYTICS'])){
+echo <<<PXR
+<script type="text/javascript"-->
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-6217713-8");
+var pageTracker = _gat._getTracker("{$CFG['GOOGLE_ANALYTICS']}");
 pageTracker._trackPageview();
-</script></body></html>
+</script>
+PXR;
+}
+?&gt;
+</body></html>
