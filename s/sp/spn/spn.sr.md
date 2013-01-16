@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spn.sr privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022162539id_/https%3A//virurl.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spn.sr privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116054304id_/https%3A//virurl.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | VIRURL
 
