@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiredrive.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511052617id_/http%3A//www.wiredrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiredrive.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116124121id_/http%3A//www.wiredrive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 Any changes to this policy will be posted at this URL and will be effective when posted. Please check back periodically if you have any concerns about changes made to our privacy policy.
 
-Copyright © 2011 Wiredrive™ is a registered trademark of IOWA, LLC. All rights reserved.
+Copyright © 2013 Wiredrive™ is a registered trademark of IOWA, LLC. All rights reserved.
