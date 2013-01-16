@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geekblogger.org privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015001106id_/http%3A//www.geekblogger.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekblogger.org privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116011711id_/http%3A//www.geekblogger.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Geek Blogger
 
 **The views and opinions expressed on this blog are purely the bloggers’ own. Contents of this blog-all texts and images may not be published, rewritten, broadcast or redistributed anywhere without permission.**
 
