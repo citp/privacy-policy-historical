@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flippingplanet.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018032530id_/http%3A//experienced-people.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flippingplanet.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116095804id_/http%3A//experienced-people.net/privacy) for the most accurate reproduction.*
 
 # Experienced-People.net Privacy Policy
 
