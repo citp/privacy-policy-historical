@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsecurity-disability.org privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512064654id_/http%3A//www.socialsecurity-disability.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsecurity-disability.org privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116060249id_/http%3A//www.socialsecurity-disability.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,4 +62,4 @@ We do use cookies to store information, such as your personal preferences when y
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please contact us at support@socialsecurity-disability.org To remove yourself from our contact list: http://socialsecurity-disability.org/unsubscribe 
+Should you have other questions or concerns about these privacy policies, please contact us at support@socialsecurity-disability.org To remove yourself from our contact list: http://www.socialsecurity-disability.org/form/unsubscribe 
