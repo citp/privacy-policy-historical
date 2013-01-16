@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gistplanet.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014115913id_/http%3A//www.gistplanet.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gistplanet.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116180649id_/http%3A//www.gistplanet.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,12 +56,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ****
 
-**** [ ](https://www.blogger.com/rearrange?blogID=8784398059284711089&widgetType=HTML&widgetId=HTML13&action=editWidget&sectionId=main "Edit") ****
-
-**** [ ](https://www.blogger.com/rearrange?blogID=8784398059284711089&widgetType=HTML&widgetId=HTML17&action=editWidget&sectionId=main "Edit") ****
-
-****
-
-## Get Updates Directly to your email
-
-[ ](https://www.blogger.com/rearrange?blogID=8784398059284711089&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=main "Edit") ****
+**** [ ](https://www.blogger.com/rearrange?blogID=8784398059284711089&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=main "Edit") ****
