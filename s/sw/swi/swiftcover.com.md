@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swiftcover.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014104456id_/http%3A//www.swiftcover.com/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftcover.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116035119id_/http%3A//www.swiftcover.com/security/privacy) for the most accurate reproduction.*
 
-# Cheap Car Insurance, Online Car Insurance, Travel Insurance Quotes UK. Privacy - Swiftcover
+# Cheap Car Insurance, Online Car Insurance, Travel Insurance Quotes UK. Privacy | swiftcover.com
 
   * How we use your information and who we share it with
   * Using your online account
@@ -24,14 +24,14 @@
 
 ##  How we use your information and who we share it with
 
-Your privacy is important to us and we promise we will respect your personal information. We will use your information to manage your insurance with us, including underwriting, claims handling and statistical analysis. This may include disclosing your information within the [AXA Group](https://web.archive.org/about/axa/) and to agents, suppliers, other insurers, or reinsurers who provide services on our behalf.
+Your privacy is important to us and we promise we will respect your personal information. We will use your information to manage your insurance with us, including underwriting, claims handling, No Claims Discount entitlement and statistical analysis. This may include disclosing your information within the [AXA Group](https://web.archive.org/about/axa/) and to agents, suppliers, other insurers, or reinsurers who provide services on our behalf.
 
   
 We do not disclose your information to anyone outside the AXA Group except: 
 
   * Where we have your permission; or
   * Where we are required or permitted to do so by law; or
-  * To other companies who provide a service to us or you; or
+  * To other companies who provide a service to us or you which includes proof of No Claims Discount (NCD) entitlement; or
   * Where we may transfer rights and obligations under this agreement.
 
 
@@ -181,10 +181,10 @@ Back to top
 When you take out other policies with us, your details will be passed to the appropriate provider as shown below: 
 
   * Breakdown Claims - AXA Assistance (UK) Limited
-  * Glass Claims - AA AutoWindshields
-  * Car and Home Claims - Supply & Incident Management Solutions Ltd 
-  * Travel Claims - Inter Group Insurance Services Ltd 
-  * Replacement Cars - Enterprise Rent A Car Ltd 
+  * Glass Claims - Autoglass
+  * Car and Home Claims - Supply & Incident Management Solutions Ltd
+  * Travel Claims - Inter Group Insurance Services Ltd
+  * Replacement Cars - Enterprise Rent A Car Ltd
 
 
 
