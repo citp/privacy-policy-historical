@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igxe.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611062512id_/http%3A//www.igxe.com/include/Privacy_Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igxe.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116181621id_/http%3A//www.igxe.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,10 +70,15 @@ The Company stores the information it collects on computers located in a control
 **Storage and Security of Personal Information Storage**  
 The Company protects the privacy and integrity of the information it collects by employing appropriate administrative protocols, technical safeguards, and physical security controls designed to limit access, detect and prevent the unauthorized access, improper disclosure, alteration, or destruction of the information under its control.   
 Although the Company follows the procedures set forth above to protect the Personal Information submitted to the Company, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Thus, while the Company strives to use commercially acceptable means to protect your Personal Information, the Company cannot guarantee its absolute security.   
-If you have any questions about the Company's security on the its web sites, please feel free to send us an e-mail at    
+If you have any questions about the Company's security on the its web sites, please feel free to send us an e-mail at 
+
 **Internet Fraud**   
 The Company has a ZERO TOLERANCE policy for Internet fraud or any attempt to access or acquire customer or other information on its web sites via illegal or surreptitious means. The Company works with local, national, and international fraud investigation agencies and employs a variety of electronic and other means to discourage, detect, and intercept fraudulent activities. The Company aggressively prosecutes, to the fullest extent of the law, those perpetrators apprehended conducting fraudulent activities on its web site.   
 Agencies with which the Company cooperates are: state and local police authorities, the United States Federal Bureau of Investigation, US and International Customs Agencies, and Interpol. 
 
 **International Transfer  
 **Personal Information collected by the Company may be stored and processed in the United States or any other country in which the Company or its affiliates, subsidiaries or agents maintain facilities, and by using the Company's web sites, you consent to any such transfer of Personal Information outside of your country.
+
+**If you have questions, suggestions or concerns regarding our products or services please contact us at:**
+
+IGXE owns all right, title and interest in the Logos, including but not limited to, copyright, trademark, service mark, moral rights, rights under any statutory protection of fine arts, and otherwise, as applicable. All the transactions are processed by IGXE's fully owned subsidiary SOFTISLAND LLC LIMITED located in Suite 250,162-168 Regent Street, London W1B 5TD. 
