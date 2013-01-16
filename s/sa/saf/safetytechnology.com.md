@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the safetytechnology.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801082814id_/http%3A//www.safetytechnology.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safetytechnology.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116073702id_/http%3A//www.safetytechnology.com/privacy.htm) for the most accurate reproduction.*
 
 # Safety Technology's Privacy Policy
 
-## Safety Technology's Privacy Policy. 
+Our Web server automatically recognizes the consumer's IP address of each visitor to our web site. but not the e-mail address. 
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's IP address, but not the e-mail address. 
+We do collect e-mail addresses of those who purchase from us and from those who opt-in to our e-mail list. The information we collect is used by us to contact consumers for marketing purposes. At the bottom of every email address you have the option to manage your subscription and opt-out. 
 
-We collect e-mail address of those who purchase from us and from those who opt-in to our e-mail list. The information we collect is used by us to contact consumers for marketing purposes. If you do not want to receive e-mail from us in the future, please let us know by sending an e-mail to [remove@safetytechnology.com](mailto:remove@safetytechnology.com). 
-
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart. 
+We use cookies to record session information, such as items that consumers add to their shopping cart. 
 
 If you supply us with your telephone number we will only contact you if we have questions regarding an order you have placed on-line. 
 
 We do _not_ share your information with anyone. This includes your e-mail address. 
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
+We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
 
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. We do not collect or store credit card information. Our website is completely PCI compliant.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+If you feel that we are not following our stated privacy policy, you may contact us using the [contact form here](http://www.safetytechnology.com/contact.htm).
