@@ -1,35 +1,8 @@
-> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723144443id_/http%3A//ebby.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebby.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116111228id_/http%3A//www.ebby.com/privacy_policy) for the most accurate reproduction.*
 
-# Dallas Homes for Sale
+# Dallas Real Estate | Dallas Homes for Sale by Ebby Halliday Realtors
 
-|   
----  
-City  
-  
-Metroplex & North Texas Areas  
-  
-Property Type  
-Price Range  
-to  
-New Listings  
-  
-[](https://web.archive.org/map_search/ "Map Search")
-
-[](https://web.archive.org/find_a_home/advanced_search/ "Advanced Search")
-
-[](https://web.archive.org/leasing/search_rentals/ "Leasing Search")
-
-[](http://www.relohomesearch.com/ "National/World Search")
-
-[](https://web.archive.org/find_a_home/advanced_search/view/Min_Price/750000/owner_only/on/ "Luxury Search")
-
-[](https://web.archive.org/services/multilingual_search/ "Mulit Lingual Search")
-
-MY EBBY >
-
-Stay on top of the properties your're interested in most...[Details >](https://web.archive.org/account/ "Details")
-
-Thank you for visiting Ebby.com or any Web site owned, operated, licensed or controlled by Ebby Halliday REALTORS®. Your privacy is very important to us. Our policy is to respect and protect the privacy of visitors to our web sites. In this document, we explain how we use information you supply us. If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy. 
+Thank you for visiting Ebby.com or any Web site owned, operated, licensed or controlled by Ebby Halliday REALTORS®. Your privacy is very important to us. Our policy is to respect and protect the privacy of visitors to our web sites. In this document, we explain how we use information you supply us. If we update our privacy policy, all revisions will be posted on this page. We reserve the right to change the privacy policy.
 
 For your convenience we have organized our privacy policy into the following topics.
 
@@ -116,7 +89,5 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 If you have questions about the privacy procedures employed at Ebby Halliday REALTORS, please contact [privacy@ebby.com](mailto:privacy@ebby.com) or call 972-980-6600. 
 
-Back to Top | [Home](https://web.archive.org/web/20100723144443id_/http://www.ebby.com/privacy_policy/index.shtml)  
+Back to Top | [Home](https://web.archive.org/web/20130116111228id_/http://www.ebby.com/privacy_policy/index.shtml)  
 
-
- 
