@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insuranceagents.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501051717id_/http%3A//www.insuranceagents.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuranceagents.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116123935id_/http%3A//www.insuranceagents.com/privacy-policy.html) for the most accurate reproduction.*
 
 # InsuranceAgents.com | CyberTechnology LLC. Privacy Policy
 
