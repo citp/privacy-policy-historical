@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127173647id_/http%3A//www.blacksexfinder.com/public.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksexfinder.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116172350id_/http%3A//www.blacksexfinder.com/page_static/privacy.html) for the most accurate reproduction.*
 
-# Black Sex | Black Pussy | Black Girls | Black Date | Black Single | Adult Finder | Black Meet | BlackSexFinder
+# Your Privacy at BlackSexfinder.com
 
-**Information Obtained**
+  * **Information Obtained**
 
-When you join blacksexfinder.com, you will create a user identity, which will include a username, personal profile, personal narrative and photograph. You will be asked for some personal information to complete your profile such as body type, personal interests, etc. The information you provide is being made available to the public as part of your personal profile and you should recognize as much prior to providing your information. If there is any information that you do not wish to made available to the public at large, you should not post it in your profile. 
+When you join blacksexfinder.com, you will create a user identity, which will include a username, personal profile, personal narrative and photograph. You will be asked for some personal information to complete your profile such as body type, personal interests, etc. The information you provide is being made available to the public as part of your personal profile and you should recognize as much prior to providing your information. If there is any information that you do not wish to made available to the public at large, you should not post it in your profile. All profiles, pictures and videos are publicly available to Search Engines. DO NOT PUT YOUR REAL NAME, PHONE NUMBER, TWITTER, FACEBOOK, ETC. ANY INFO YOU DO NOT WANT TO BE SHARED WITH THE PUBLIC AUDIENCE. 
 
 **Minors**
 
@@ -12,7 +12,7 @@ Individuals under the age of 18 should not access this site. If we discover that
 
 **Use of Cookies**
 
-We use “cookies” to identify how individuals use our site and to facilitate modifications and improvements to our site for your benefit. A “cookie” is a small piece of information that is placed on the hard drive of your computer so we can identify you when you access the site. The use of cookies is a common practice on the Internet. You can avoid the use of cookies on your site by disabling all cookies, typically by accessing the Internet options bar on your browser. 
+We use Ã¢??cookiesÃ¢?? to identify how individuals use our site and to facilitate modifications and improvements to our site for your benefit. A Ã¢??cookieÃ¢?? is a small piece of information that is placed on the hard drive of your computer so we can identify you when you access the site. The use of cookies is a common practice on the Internet. You can avoid the use of cookies on your site by disabling all cookies, typically by accessing the Internet options bar on your browser. 
 
 **Security**
 
@@ -24,7 +24,7 @@ We do NOT sell, share or give away any information regarding your credit card or
 
 **Email Information**
 
-From time-to-time, we may forward information to you regarding site developments, special promotions, members that may match your interests. By subscribing to this site, you are “opting-in” to our email list and agree to receive such mailings. Should you prefer to avoid such email messages, please do not join this site. 
+From time-to-time, we may forward information to you regarding site developments, special promotions, members that may match your interests. By subscribing to this site, you are Ã¢??opting-inÃ¢?? to our email list and agree to receive such mailings. Should you prefer to avoid such email messages, please do not join this site. 
 
 **Linking to Third Party Sites**
 
@@ -36,4 +36,7 @@ blacksexfinder.com reserves the right to change this privacy policy at any time.
 
 **Contact**
 
-If you have any questions regarding the above Policy Statement, please contact us at info@blacksexfinder.com 
+If you have any questions regarding the above Policy Statement, please contact us at thebeesourceinc@hotmail.com 
+
+
+
