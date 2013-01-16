@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springcm.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228131341id_/http%3A//www.springcm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springcm.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116102611id_/http%3A//www.springcm.com/privacy.html) for the most accurate reproduction.*
 
 # Enterprise Content Management Software - Privacy Policy - SpringCM
 
