@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixjunky.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015161016id_/https%3A//flixjunky.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixjunky.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116070550id_/https%3A//flixjunky.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
