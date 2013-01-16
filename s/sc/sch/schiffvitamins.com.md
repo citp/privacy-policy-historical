@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schiffvitamins.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920041558id_/http%3A//www.schiffvitamins.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schiffvitamins.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116201728id_/http%3A//www.schiffvitamins.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Schiff Vitamins
 
 Schiff Products ("Schiff") respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as processing a bid you have requested or notifying you about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy policy.
 
