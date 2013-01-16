@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915023251id_/http%3A//www.mimecast.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116130252id_/http%3A//www.mimecast.com/privacy-statement) for the most accurate reproduction.*
 
-# Mimecast Privacy Statement
+# Mimecast Privacy Statement | Mimecast
 
 ### Privacy Policy
 
@@ -80,7 +80,7 @@ You have a legal right under the Data Protection Act 1998 to a copy of all the p
 
 ### Safe Harbor
 
-Mimecast has certified its participation, and compliance with, the U.S. Department of Commerce Safe Harbor framework regarding the transfer of personal information from European Union member countries to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access and enforcement. Additional information about the Safe Harbor principles and certification process can be found at www.export.gov/safeharbor.
+Mimecast has certified its participation, and compliance with, the U.S. Department of Commerce Safe Harbor framework regarding the transfer of personal information from European Union member countries, or Switzerland,  to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access and enforcement. Additional information about the Safe Harbor principles and certification process can be found at www.export.gov/safeharbor.
 
 ### Contacting us
 
