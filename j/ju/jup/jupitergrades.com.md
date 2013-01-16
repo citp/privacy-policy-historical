@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jupitergrades.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919205514id_/http%3A//jupitergrades.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jupitergrades.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116113035id_/http%3A//jupitergrades.com/about/privacy.html) for the most accurate reproduction.*
 
 # Jupiter Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Staff Personal Information:** Teachers and School staff are required to give some personal information on the Website, including name, email address, school name and location, and optionally phone number. Some of this information is made available to Students and Parents when they login, but Staff may optionally hide their email address and phone number. Other Staff at the same School may see personal information, and by default, the first Staff member to sign up at a School has full administrative access to the gradebooks of other Staff members at the same School, but they never see passwords. (If you do not want administrators to see your account, sign up at your own fake school.) The Website uses password protection and encryption to prevent anyone else from accessing Staff accounts. School Staff must keep their passwords confidential and logout when done using the Website to ensure their privacy and the privacy of their Students and Parents.
 
-**Financial Information:** Jupiter uses Google Checkout as a third party to process online payments. If you pay online, Google asks you to provide some personal information and financial information, such as your credit card number, in accordance with their Privacy Policy posted at [Google.com](http://checkout.google.com/files/privacy.html). Jupiter does not have access to your complete credit card number. Jupiter does not initiate any automatic or recurring payments.
+**Financial Information:** Jupiter uses Google Wallet as a third party to process online payments. If you pay online, Google asks you to provide some personal information and financial information, such as your credit card number, in accordance with their Privacy Policy posted at [Google.com](http://checkout.google.com/files/privacy.html). Jupiter does not have access to your complete credit card number. Jupiter does not initiate any automatic or recurring payments.
 
 **Unsolicited Email (Spam):** Jupiter sends email to Teachers and School staff for security alerts and confirmations. All other notices and promotions are usually communicated through the Website when you login, but they may be sent in email on occasion. Jupiter does not send email to Parents and Students except if needed to service an account.
 
