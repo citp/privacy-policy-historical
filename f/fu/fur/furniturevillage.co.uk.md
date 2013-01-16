@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915082805id_/http%3A//www.furniturevillage.co.uk/Customer-Services/Privacy-Policy/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117000807id_/http%3A//www.furniturevillage.co.uk/Customer-Services/Privacy-Policy/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
