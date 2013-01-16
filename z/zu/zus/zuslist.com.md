@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuslist.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115072550id_/http%3A//www.zuslist.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuslist.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116095511id_/http%3A//www.zuslist.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Classifieds | Classifieds Ads
 
