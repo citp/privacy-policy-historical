@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictiveindex.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103034259id_/http%3A//www.piworldwide.com/Utilities/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictiveindex.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116201349id_/http%3A//www.piworldwide.com/Utilities/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ PRODUCT USER PRIVACY POLICY**
 
 This Product User Privacy Policy (“Policy”) describes the manner in which Praendex Incorporated, doing business as PI Worldwide (“PI Worldwide” or “we”), handles personal information collected in connection with the administration of its Predictive Index® proprietary management tool (the “Predictive Index” or “PI®”), the Selling Skills Assessment Tool™ (the “SSAT”) and related management and sales training and access to its e-learning system.. This includes personal information collected by the administration of The Predictive Index Organization Survey Checklist (“PI® Survey”) or the SSAT (via web application, a local desktop application, or paper form), or usage of our e-learning system. In this Policy, the term ‘personal information’ means information that identifies, or can be used to identify, an individual.
 
-This Policy does not describe PI Worldwide’s information collection practices with respect to its general corporate websites located at piworldwide.com and ssatsurvey.com. In this Policy, the term “Customer” means PI Worldwide’s corporate customers; the term “User” means employees,prospective employees and contractors of Customers, and those individuals who have access to our e-learning system, including but not limited to Licensees, Consultants, Analysts, Clients, and potential Clients
+This Policy does not describe PI Worldwide’s information collection practices with respect to its general corporate websites located at piworldwide.com and ssatsurvey.com. In this Policy, the term “Customer” means PI Worldwide’s corporate customers; the term “User” means employees, prospective employees and contractors of Customers, and those individuals who have access to our e-learning system, including but not limited to Licensees, Consultants, Analysts, Clients, and potential Clients
 
 _ Background  
 _
@@ -29,31 +29,35 @@ PI Worldwide and its distributors also provide e-learning modules to Licensees, 
 _ Safe Harbor  
 _
 
-PI Worldwide has certified its compliance with the standards of the Safe Harbor Principles established by the U.S. Department of Commerce for the regulation of data transfers between the European Union and the United States. This Product User Privacy Policy and PI Worldwide’s information handling practices described herein comply with the Safe Harbor privacy principles. 
+PI Worldwide complies with the U.S- EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  PI Worldwide has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view PI Worldwide’s certification, please visit <http://www.export.gov/safeharbor/>
 
-[ We self-certify compliance with ](http://safeharbor.export.gov/list.aspx)
+[ **_ We self-certify compliance with_** ](http://safeharbor.export.gov/list.aspx)
 
 [ ](http://www.export.gov/safeharbor)
 
-[ ** Click here ** ](http://safeharbor.export.gov/companyinfo.aspx?id=13058) to access the Safe Harbor List record of Praendex, Inc, d/b/a PI Worldwide. Should the URL change, our record can always be located by searching the  [ Safe Harbor List ](https://safeharbor.export.gov/list.aspx) . 
+[ **_Click here_ ** ](http://safeharbor.export.gov/companyinfo.aspx?id=16278) to access the Safe Harbor List record of Praendex, Inc, d/b/a PI Worldwide. Should the URL change, our record can always be located by searching the  [ **_Safe Harbor List_** ](https://safeharbor.export.gov/list.aspx) . 
 
 _Notice_ _  
 _ PI Worldwide will inform Users about the purposes for which it collects information about them, how to contact PI Worldwide with inquiries or complaints, the types of third parties to whom PI Worldwide discloses personal information, and the choices and means PI Worldwide offers Users for limiting use and disclosure of personal information. This notice is provided by means of this Policy, which is made available to Users before personal information is obtained from them.
 
 _Choice  
-_ The Safe Harbor privacy principles require that PI Worldwide provide Users with the right to opt out as to whether personal information is disclosed to a third party (other than a third party acting as PI Worldwide’s agent or a third party software system used by the Customer or PI Worldwide), or used for a purpose that is incompatible with the purpose for which it was originally collected or subsequently authorized by the User. As PI Worldwide does not disclose personal information except to its agents or third party software systems used by the Customer or PI Worldwide(as described in the “Onward Transfer” section below) or to the Customer for the benefit of whom the User provided the information, and PI Worldwide does not use personal information for incompatible purposes, there are no activities for which an opt-out is applicable.
+_ The Safe Harbor privacy principles require that PI Worldwide provide Users with the right to opt out as to whether personal information is disclosed to a third party (other than a third party acting as PI Worldwide’s agent or a third party software system used by the Customer or PI Worldwide), or used for a purpose that is incompatible with the purpose for which it was originally collected or subsequently authorized by the User. As PI Worldwide does not disclose personal information except to its agents or third party software systems used by the Customer or PI Worldwide (as described in the “Onward Transfer” section below) or to the Customer for the benefit of whom the User provided the information, and PI Worldwide does not use personal information for incompatible purposes, there are no activities for which an opt-out is applicable.
 
 _Notice: What Personal Information Does PI Worldwide Collect, and How Do We Use It?_
 
 __PI Survey  
-_ _When a PI® Survey is administered via the _access_ PI™ web application or is otherwise entered into the _access_ PI™ web application, PI Worldwide collects the following personal information about Users, which generally consists of the following and is used solely for the purpose of administering the Predictive Index, generating reports of the results, providing the results to the Customer, and interpreting the results for the Customer:
+_ _When a PI® Survey is administered via the _access_ PI™ web application or is otherwise entered into the _access_ PI™ web application, such as through the accessPI-CONNECT™ functionality or through a third party portal, PI Worldwide collects the following personal information about Users, which generally consists of the following and is used solely for the purpose of administering the Predictive Index, generating reports of the results, providing the results to the Customer, and interpreting the results for the Customer:
 
     • First and last name   
     • Occupation/title:  
     • Email address; and   
     • Responses to the PI Survey
 
-The responses consist of the User’s reaction to a list of adjectives. Users of _access_ PI™ taking the survey through a remote, on-line portal are also required to provide a username and password. The password is application generated, but the username is the User’s email address.In addition, Customers who use the _access_ PI™ online portal may optionally request and store other information from their Users including job code, department code, occupation, or other information. PI Worldwide does not make use of such information except in accordance with this Privacy Policy. PI Worldwide does not collect or use any other personal information in connection with administration of the Predictive Index. For example, and without limitation, we do not collect or use the User’s address, date of birth, age, sex, race, religion, or any sensitive information such as health-related or politics-related information.
+The responses consist of the User’s reaction to a list of adjectives. Users of _access_ PI™ taking the survey through a remote, on-line portal are also required to provide a username and password. The password is application generated, but the username is the User’s email address.
+
+In addition, Customers who use the _access_ PI™ or other online portal may optionally request and store other information from their Users including job code, department code, occupation, or other information. PI Worldwide does not make use of such information except in accordance with this Privacy Policy.
+
+In conjunction with its research endeavors only, PI Worldwide may ask some Survey Takers to provide voluntarily their gender, age, country of origin, ethnic origin, educational level, and employment level. Any information so collected may be used for internal research purposes only, and will not be reflected in the assessment results nor disclosed to any third party.
 
 __SSAT  
 _ _In administering the SSAT, PI Worldwide collects the following personal information from individuals who complete the survey, which is used solely for the purpose of administering the SSAT, generating reports of the results, providing the results to the Customer, and interpreting the results for the Customer:
@@ -93,7 +97,7 @@ _ _PI Worldwide does not sell or rent personal information to any third party. P
     • To third party software systems used by the Customer; and   
     • To the entity and its employees which purchased and/or use the e-learning system
 
-All of the Customers, employees, distributors and subcontractors and third party software providers described above are subject to contractual or other legally binding obligations to comply with the requirements of this Policy. Because PI Worldwide adheres to the Safe Harbor privacy principles, all Customers, distributors and subcontractors that receive any personal information of Users in the European Union are either themselves subject to EU data privacy law, the Safe Harbor Principles or another adequacy finding, or have entered into a written agreement with PI Worldwide requiring that such third party provide at least the same level of privacy protection as the Safe Harbor Principles.
+All of the Customers, employees, distributors and subcontractors and third party software providers described above are subject to contractual or other legally binding obligations to comply with the requirements of this Policy. Because PI Worldwide adheres to the Safe Harbor privacy principles, all Customers, distributors and subcontractors that receive any personal information of Users in the European Union or Switzerland are either themselves subject to EU and Swiss data privacy law, the Safe Harbor Principles or another adequacy finding, or have entered into a written agreement with PI Worldwide requiring that such third party provide at least the same level of privacy protection as the Safe Harbor Principles.
 
 __Legal Disclaimers_ _:   
 PI Worldwide reserves the right to disclose personal information if required by law enforcement authorities, subpoena or other court order, or other governmental authority, and (to the extent permitted by law and the Safe Harbor principles) to the extent necessary to protect the legal rights and personal safety of PI Worldwide and its employees and agents.
@@ -124,9 +128,9 @@ _ _If you have a question, comment or complaint about this Policy or enforcement
 
 PI Worldwide will investigate your concerns promptly, and will respond to your correspondence within thirty (30) days after we receive it. PI Worldwide will provide you with a clear explanation of any decisions made with respect to your request. If you are not satisfied with the manner in which PI Worldwide dealt with your privacy concern, you may use an external recourse mechanism, as described below.
 
-__EU Residents:_ _PI Worldwide has elected to satisfy its obligation under the Safe Harbor privacy principles to provide a readily available and affordable independent recourse mechanism, and to remedy problems arising out of any failure to comply with the Safe Harbor principles, by committing to cooperate with European data protection authorities with respect to personal information about EU Users held by PI Worldwide. PI Worldwide will cooperate with the European data protection authorities in the handling and resolution of complaints brought under the Safe Harbor privacy principles. Any User who is resident in the EU should address his or her concerns to his or her local data protection authority.
+__EU and Swiss Residents:_ _PI Worldwide has elected to satisfy its obligation under the Safe Harbor privacy principles to provide a readily available and affordable independent recourse mechanism, and to remedy problems arising out of any failure to comply with the Safe Harbor principles, by committing to cooperate with European and Swiss data protection authorities with respect to personal information about EU and Swiss Users held by PI Worldwide. PI Worldwide will cooperate with the European and Swiss data protection authorities in the handling and resolution of complaints brought under the Safe Harbor privacy principles. Any User who is resident in the EU or Switzerland should address his or her concerns to his or her local data protection authority.
 
-__Non-EU Residents:_ _If you are not a resident of the European Union, any dispute arising between a User and PI Worldwide with respect to this Product User Privacy Policy, including the breach, enforcement, interpretation or validity thereof, shall be resolved by binding arbitration conducted in Boston, Massachusetts by a single arbitrator. The arbitration shall be administered by JAMS pursuant to its Streamlined Arbitration Rules and Procedures. Judgment on the arbitration award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
+__Non-EU or Switzerland Residents:_ _If you are not a resident of the European Union or Switzerland, any dispute arising between a User and PI Worldwide with respect to this Product User Privacy Policy, including the breach, enforcement, interpretation or validity thereof, shall be resolved by binding arbitration conducted in Boston, Massachusetts by a single arbitrator. The arbitration shall be administered by JAMS pursuant to its Streamlined Arbitration Rules and Procedures. Judgment on the arbitration award may be entered in any court having jurisdiction. This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
 
 _Verification  
 _ PI Worldwide conducts an annual self-assessment to verify that this Policy is accurate, comprehensive, prominently displayed, completely implemented, accessible and conforms to the Safe Harbor principles, and to confirm that employee training and appropriate compliance procedures are in place.
@@ -134,7 +138,7 @@ _ PI Worldwide conducts an annual self-assessment to verify that this Policy is 
 _General  
 _ This Policy does not govern PI Worldwide’s collection and use of information that does not constitute personal information. Without limitation of the foregoing, PI Worldwide may collect, store and use aggregated, anonymous information from the administration of the PI Survey, SSAT and e-learning system in order to improve its business and the PI Survey and SSAT themselves. This information does not identify any individual. In addition, PI Worldwide uses log files and other generally available web tracking technologies in operating, maintaining and improving the _access_ PI™and SSAT websites. This information does not contain any personal information and is not linked to any personal information that PI Worldwide does hold. This Policy applies to PI Worldwide and to PI Worldwide’s distributors, who are independent third parties licensed to distribute the Predictive Index, SSAT, and e-learning system, and provide related management and sales training. PI Worldwide’s distributors have agreed in writing to comply with this Policy.
 
-_Policy updated as of October, 2011_
+_Policy updated as of December, 2012_
 
 **PI WORLDWIDE  
 GENERAL PRIVACY POLICY**
@@ -153,8 +157,10 @@ _Profiles
 _ PI Worldwide does not create or maintain profiles of visitors to its sites.
 
 _Cookies  
-_ PI Worldwide may elect to generate "cookies." A cookie is a piece of data stored on the user's hard drive containing information about the user. The cookie, and the information inside, is in no way linked to any personally identifiable information. Users may reject a cookie with an understanding that access to and use of the site may be severely limited.We may use session ID cookies and/or persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the User's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+_ PI Worldwide may elect to generate "cookies."  The cookies we provide are retained by the user’s computer and stored on the user's hard drive.  These cookies are used to assist with login defaults (i.e., persistent cookies) and to maintain session state during use of our secure applications (i.e., session cookies) and to track activity on the Company’s site (tracking cookies). All of the cookies generated by PI Worldwide, and the information inside is in no way linked to any personally identifiable information. These cookies are used only for the purpose of improving the User experience. Users may reject a cookie with an understanding that access to and use of the site may be severely limited.
 
+We may use session ID cookies and/or persistent cookies when a connection is made to one of our applications. For the session cookie, once a user closes their browser, the cookie simply terminates. A persistent cookie is available for use for an extended period of time. The user can remove persistent cookies by following the directions in his/her Internet browser’s help files.  
+  
 _Third Party Advertising  
 _ These sites do not contain any third party advertising.
 
@@ -185,4 +191,4 @@ _ If your personally identifiable information changes, updated information may b
 _Notification of Changes  
 _ Changes to this Policy will be posted on this site. We will use information in accordance with the Privacy Policy version under which the information was collected.
 
-_ Policy updated as of October, 2011. _
+_ Policy updated as of December, 2012. _
