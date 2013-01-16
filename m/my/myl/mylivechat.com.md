@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylivechat.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006062630id_/https%3A//www.mylivechat.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylivechat.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116083923id_/https%3A//mylivechat.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Live Chat | Live Chat Software | Online Chat Software
 
