@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scootpad.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921045452id_/http%3A//scootpad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scootpad.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116234208id_/http%3A//scootpad.com/privacy) for the most accurate reproduction.*
 
 # ScootPad :: Practice. Learn. Succeed.
 
@@ -6,7 +6,7 @@ Welcome to ScootPad.com (the "Website") operated by ScootPad Corp. ScootPad valu
 
 This Privacy Policy describes what information we gather from you, how we use that information, and what we do to protect it. By using the Website (whether or not you are a registered member), you expressly consent to the information handling practices described in this policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the Website.
 
-This Privacy Policy is incorporated into and is subject to the ScootPad [Terms and Conditions.](https://web.archive.org/web/20120921045452id_/http%3A//scootpad.com/terms) Your use of the Website and any personal information you provide on the Website are subject to the terms of this Privacy Policy and ScootPad [Terms and Conditions](https://web.archive.org/web/20120921045452id_/http%3A//scootpad.com/terms).
+This Privacy Policy is incorporated into and is subject to the ScootPad [Terms and Conditions.](https://web.archive.org/web/20130116234208id_/http%3A//scootpad.com/terms) Your use of the Website and any personal information you provide on the Website are subject to the terms of this Privacy Policy and ScootPad [Terms and Conditions](https://web.archive.org/web/20130116234208id_/http%3A//scootpad.com/terms).
 
 ##### The Information ScootPad Collects: 
 
