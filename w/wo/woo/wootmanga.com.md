@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the wootmanga.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621021741id_/http%3A//wootmanga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wootmanga.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116130909id_/http%3A//wootmanga.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy - WootManga
+
+ 
+
+**Privacy Policy**
 
  
 
@@ -15,11 +19,8 @@ As with most other websites, we collect and use the data contained in log files.
   **3\. Cookies and Web Beacons**  
 We does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-  **4\. 3rd Party Advertisers**  
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you such as DoubleClick DART cookie. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+  **4\. Cookies & 3rd Party Advertisements**
 
-  www.wootmanga.com has no access to or control over these cookies that are used by third-party advertisers.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-  You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.asd’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-  If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
