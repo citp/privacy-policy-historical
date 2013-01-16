@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cavsi.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229114718id_/http%3A//www.cavsi.com/english/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavsi.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116093057id_/http%3A//www.cavsi.com/english/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Email Privacy Policy
 
@@ -28,7 +28,7 @@ To remove your name from our marketing lists, please follow the instructions not
 
 . Click on the " **unsubscribe** " link located in all of our promotional emails. 
 
-. Send a blank email to [unsuscribe@promo.cavsi.com](mailto:unsuscribe@promo.cavsi.com)
+. Send a blank email to [unsubscribe@cavsi.com](mailto:unsubscribe@cavsi.com)
 
 **Note:** Requests to opt out of promotional e-mails will be honored within **10** business days. 
 
@@ -38,11 +38,11 @@ This website may contain links to other sites, such as commercial ads located in
 
 **Changes to this policy**
 
-CAVSI may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [www.cavsi.com/english/PrivacyPolicy.html](https://web.archive.org/web/20121229114718id_/http%3A//www.cavsi.com/english/PrivacyPolicy.html)
+CAVSI may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [www.cavsi.com/english/PrivacyPolicy.html](https://web.archive.org/web/20130116093057id_/http%3A//www.cavsi.com/english/PrivacyPolicy.html)
 
 **Questions Regarding Privacy**
 
-If you have further questions or concerns relating to this site's privacy practices, please email [PrivacyQuestions@promo.cavsi.com](mailto:PrivacyQuestions@promo.cavsi.com), feel free to contact us through this web site, call us at **(786)220-1752 / (305)407-8472** , or write us at:
+If you have further questions or concerns relating to this site's privacy practices, please email [info@cavsi.com](mailto:info@cavsi.com), feel free to contact us through this web site, call us at **(786)220-1752 / (305)407-8472** , or write us at:
 
 **CAVSI  
 1251 NE 108th ST   
