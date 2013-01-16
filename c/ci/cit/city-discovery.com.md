@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-discovery.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011112359id_/http%3A//www.city-discovery.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-discovery.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117000207id_/http%3A//www.city-discovery.com/privacy_policy.php) for the most accurate reproduction.*
 
 # City-Discovery.com Privacy Statement
 
@@ -44,7 +44,7 @@ If you have additional questions about the privacy of your information, please c
 
 Mailing Address:  
 City Discovery, Inc..  
-3290 Levis Commons Blvd Perrysburg, OH 43551, USA  
+5648 Main St, Sylvania, OH 43560, USA  
 T: +1 866-988-8687 F: 419-243-0221  
 
 
@@ -72,7 +72,7 @@ London / UK : +44 20 7193 8320
 Paris / France : +33 9 7044 5290  
 Hong Kong : +852 8173 6120  
 Australia : +61 2 8003 4300  
-Italy : +39 06 97271716  
+Italy : +39 06 9481 6990  
 Brazil : +552140425056
 
 You can also [request a call back](http://server.iad.liveperson.net/hc/42623859/?cmd=file&file=visitorWantsToTalk&site=42623859&byhref=1&imageUrl=http://server.iad.liveperson.net/hcp/Gallery/CallButton-Gallery/English/General/1a). 
@@ -83,7 +83,7 @@ Some Facts About Us
 \- 200,000 customers  
 \- 6,000 tours and activities  
 \- 400+ destinations  
-\- 7,500 registered travel agencies  
+\- 13,000 registered travel agencies  
 \- 700+ airports available for airport-transfer  
 \- 16 languages in customer service   
 \- 4 stars out of 5 average customers review   
