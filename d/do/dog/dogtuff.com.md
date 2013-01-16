@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogtuff.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508113830id_/http%3A//www.dogtuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtuff.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116181231id_/http%3A//www.dogtuff.com/privacy) for the most accurate reproduction.*
 
 # DogTuff.com - Privacy Policy
 
@@ -62,8 +62,8 @@ This policy was last modified on 1/3/2010
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 https://www.dogtuff.com/contact  
-100 Daniel Creek Ln  
+5885 Cumming Hwy STE 108-314  
 Sugar Hill, GA 30518  
 USA  
-support@dogtuff.com  
+customerservice@dogtuff.com  
 1-877-341-0633
