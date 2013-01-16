@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingplus.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021233421id_/http%3A//www.readingplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingplus.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116051625id_/http%3A//www.readingplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Reading Plus :: Privacy Policy
 
