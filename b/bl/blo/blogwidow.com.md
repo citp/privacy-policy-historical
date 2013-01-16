@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blogwidow.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010191652id_/http%3A//www.blogwidow.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogwidow.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116055718id_/http%3A//www.blogwidow.com/privacy.shtml) for the most accurate reproduction.*
 
 # BlogWidow.com - Privacy Policy
 
 ## Privacy Policy
 
-**[blogwidow.com](http://blogwidow.com/ "http://blogwidow.com")** has created this privacy statement in order to demonstrate our firm commitment to privacy.  
+**blogwidow.com** has created this privacy statement in order to demonstrate our firm commitment to privacy.  
 The following discloses the information gathering and dissemination practices for [blogwidow.com](http://www.blogwidow.com/).
 
 ### Information Automatically Logged
@@ -19,11 +19,11 @@ Our Site uses cookies to keep track of your shopping cart, and to make sure you 
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp")
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/ "http://networkadvertising.org").
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [www.valueclickmedia.com/member_privacy.shtml](http://www.valueclickmedia.com/member_privacy.shtml "http://www.valueclickmedia.com/member_privacy.shtml")
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit http://www.valueclickmedia.com/member_privacy.shtml
 
 ### Registration Forms
 
@@ -74,7 +74,7 @@ Users may opt-out of receiving future mailings; see the choice/opt-out section b
 ### External Links
 
 This site contains links to other sites.  
-**[blogwidow.com](http://blogwidow.com/ "http://blogwidow.com")** is not responsible for the privacy practices or the content of such Web sites. 
+**blogwidow.com** is not responsible for the privacy practices or the content of such Web sites. 
 
 ### Security
 
@@ -111,7 +111,7 @@ We care about children and understand that they have special privacy needs. Ther
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us.
 
-  1. You can send email to **[blogwidow.com](http://blogwidow.com/ "http://blogwidow.com")** by using the [contact form](https://web.archive.org/contact.shtml). 
+  1. You can send email to **blogwidow.com** by using the [contact form](https://web.archive.org/contact.shtml). 
 
 
 
@@ -119,10 +119,10 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 This site gives users the following options for changing and modifying information previously provided:
 
-  1. You can send email to **[blogwidow.com](http://blogwidow.com/ "http://blogwidow.com")** by using the [contact form](https://web.archive.org/contact.shtml). 
+  1. You can send email to **blogwidow.com** by using the [contact form](https://web.archive.org/contact.shtml). 
 
 
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact **[blogwidow.com](http://blogwidow.com/ "http://blogwidow.com")** by using the [contact form](https://web.archive.org/contact.shtml).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact **blogwidow.com** by using the [contact form](https://web.archive.org/contact.shtml).
