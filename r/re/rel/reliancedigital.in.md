@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliancedigital.in privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120064949id_/http%3A//www.reliancedigital.in/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliancedigital.in privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116074022id_/http%3A//www.reliancedigital.in/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,4 +60,4 @@ Contacting us
 
 **3.** If at any time you would like to contact us, you can do so by emailing us at [corp.legal@ril.com](mailto:corp.legal@ril.com)
 
-**© 2010 Reliance Retail Limited**
+**© 2013 Reliance Retail Limited**
