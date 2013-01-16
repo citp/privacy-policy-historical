@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fashion-networks.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602214738id_/http%3A//fashion-networks.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashion-networks.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116065453id_/http%3A//fashion-networks.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - apparel garment fashion networking textile retail job news
 
 **  
-Last Updated: May, 2011**
+Last Updated: May, 2009**
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:
 
