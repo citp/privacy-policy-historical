@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylishblogtemplates.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209102004id_/http%3A//www.stylishblogtemplates.com/2012/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylishblogtemplates.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116155713id_/http%3A//www.stylishblogtemplates.com/2012/06/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy |Blogger Templates 2013
 
