@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doorone.co.uk privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024195947id_/http%3A//uk.shopping.com/sc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doorone.co.uk privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117192743id_/http%3A//uk.shopping.com/sc/privacy-policy) for the most accurate reproduction.*
 
 # Shopping.com UK - Find, Compare, and Buy Anything in Seconds
 
