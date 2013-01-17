@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the snap.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226180309id_/http%3A//www.snap.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snap.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117204120id_/http%3A//www.snap.com/about/privacy.php) for the most accurate reproduction.*
 
 # Snap.com: Delivering Contextual Content And Advertising > Privacy Policy
 
 We are committed to protecting online user privacy. In order to ensure your privacy, information we collect is used only in the manner and for the purposes described below. 
 
-We provide this privacy policy so we may inform you about how we collection, use, and disclosure of information on our Site and how our advertising technology (“Technology”) processes information on behalf of the online advertisers, website owners, business partners, and other businesses that use our services (our “Clients”). If you have any questions about this privacy policy, please feel free to contact us at [privacy@snap.com](mailto:privacy@snap.com). Capitalized terms shall have the meaning designated in the Snap Terms of Service located at [http://www.snap.com/about/terms](https://web.archive.org/about/terms), unless specifically defined in this Privacy Policy. All references herein to “we” or “us” refer to Snap Technologies, Inc. (“Snap”). All references to the “site” refer to our website located at [http://www.snap.com](http://www.snap.com/). 
+We provide this privacy policy so we may inform you about how we collection, use, and disclosure of information on our Site and how our advertising technology (“Technology”) processes information on behalf of the online advertisers, website owners, business partners, and other businesses that use our services (our “Clients”). If you have any questions about this privacy policy, please feel free to contact us at [privacy@snap.com](mailto:privacy@snap.com). Capitalized terms shall have the meaning designated in the Snap Terms of Service located at [http://www.previewshots.com/about/terms](https://web.archive.org/about/terms.php), unless specifically defined in this Privacy Policy. All references herein to “we” or “us” refer to Snap Technologies, Inc. (“Snap”). All references to the “site” refer to our website located at [http://www.previewshots.com](http://www.previewshots.com/). 
 
 ##### Children's Privacy Policy
 
@@ -58,7 +58,7 @@ Our Technology uses cookies in conjunction with Web beacons in order to help mak
 
 ##### Opting out from Cookies
 
-If you'd like to opt-out from having Snap collect your Non-PII in connection with our Technology, please see our [opt-out page](https://web.archive.org/web/20111226180309id_/http%3A//www.snap.com/about/opt_out) located at [http://www.snap.com/about/opt_out](https://web.archive.org/web/20111226180309id_/http%3A//www.snap.com/about/opt_out). we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
+If you'd like to opt-out from having Snap collect your Non-PII in connection with our Technology, please see our [opt-out page](https://web.archive.org/web/20130117204120id_/http%3A//www.snap.com/about/opt_out) located at [http://www.snap.com/about/opt_out](https://web.archive.org/web/20130117204120id_/http%3A//www.snap.com/about/opt_out). we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
 
 ##### Deleting your PII
 
