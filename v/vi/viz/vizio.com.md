@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizio.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031103239id_/http%3A//www.vizio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizio.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117111815id_/http%3A//www.vizio.com/privacy) for the most accurate reproduction.*
 
 # VIZIO
 
