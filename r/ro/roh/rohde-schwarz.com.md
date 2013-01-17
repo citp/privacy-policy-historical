@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rohde-schwarz.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118052102id_/http%3A//www2.rohde-schwarz.com/en/Statement_of_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohde-schwarz.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117160511id_/http%3A//www.rohde-schwarz.com/en/general_information/satement-of-privacy_101515.html) for the most accurate reproduction.*
 
-# Statement of Privacy (Rohde & Schwarz International)
-
-### Statement of Privacy / Data Protection
+# Statement of Privacy - Rohde & Schwarz
 
 The companies of the ROHDE & SCHWARZ group of companies (hereinafter respectively referred to as Rohde & Schwarz) are committed to respecting and protecting your privacy. This statement informs you about the data protection practices on Rohde & Schwarz websites, including what type of data is gathered on these websites, how the data is used and with whom the data is shared.
 
@@ -12,14 +10,14 @@ Rohde & Schwarz by default also automatically collects anonymous information fro
 
 Rohde & Schwarz may collect the anonymous information through the use of various technologies, including, in particular, cookies. A cookie is an element of data that a website can send to your browser, and which may then be stored on your computer system. You can set your browser to inform you when a cookie is received, thus enabling you to decide whether to accept it.
 
-Furthermore, Rohde & Schwarz uses its websites to collect only such personal data that you have explicitly and voluntarily made available. In some cases, for example, Rohde & Schwarz may require certain information from you, such as your name and (e-mail) address, in order to contact you, react to an order, provide you with a subscription, or for other purposes. It may also be necessary to transfer your personal data to Rohde & Schwarz partner companies so that they can provide services for Rohde & Schwarz. This includes, but is not limited to, answering your questions about products or services, or processing event registrations or orders.
+Furthermore, Rohde & Schwarz uses its websites to collect only such personal data that you have explicitly and voluntarily made available. In some cases, for example, Rohde & Schwarz may require certain information from you, such as your name and (e-mail) address, in order to contact you, react to an order, provide you with a subscription, or for other purposes. It may also be necessary to transfer your personal data to Rohde & Schwarz partner companies so that they can provide services for Rohde & Schwarz. This includes, but is not limited to, answering your questions about products or services, or processing event registrations or orders.
 
 Once you have disclosed your personal data, Rohde & Schwarz (and, where applicable, its partner companies) shall process this data exclusively for the purposes of pursuing the business relationship with you or for other purposes that are either stated on the Rohde & Schwarz website or have been agreed otherwise. Rohde & Schwarz shall provide its partner companies only with such data as they will need for performing their services. The use of the data for purposes other than those set out above is forbidden, or permitted only with your consent.
 
 Your personal data shall be treated strictly in accordance with the applicable data protection provisions in the country in which the body responsible for data processing (controller) is based. Furthermore, Rohde & Schwarz has implemented appropriate technical and organizational measures, such as using encryption for transmission, in order to keep your data secure, current and complete and to protect it from unauthorized access by third parties.
 
-Once you are registered at Rohde & Schwarz, you may wish to check your personal data that has been collected via the Rohde & Schwarz websites and processed at Rohde & Schwarz. To do so, please [do not hesitate to send an e-mail to the webmaster](mailto:webmaster@rohde-schwarz.com?subject=Statement%20of%20Privacy:%20check%20personal%20information%20disclosed)[.](mailto:webmaster@rsd.rohde-schwarz.com?subject=Statement%20of%20Privacy:%20check%20personal%20information%20disclosed)
+Once you are registered at Rohde & Schwarz, you may wish to check your personal data that has been collected via the Rohde & Schwarz websites and processed at Rohde & Schwarz. To do so, please [do not hesitate to send an e-mail to the webmaster](mailto:webmaster@rohde-schwarz.com).
 
-Should you wish to have your personal data corrected or completed, please feel free to  [send your request to Rohde & Schwarz](mailto:webmaster@rohde-schwarz.com?subject=Statement%20of%20Privacy:%20correct%20personal%20information).
+Should you wish to have your personal data corrected or completed, please feel free to [send your request to Rohde & Schwarz](mailto:webmaster@rohde-schwarz.com).
 
 The Rohde & Schwarz websites may contain links to other websites. This statement of privacy does not cover these other websites and Rohde & Schwarz cannot assume any responsibility whatsoever, neither for the privacy practices nor the content of these other websites.
