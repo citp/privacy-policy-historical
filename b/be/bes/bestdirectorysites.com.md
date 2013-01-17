@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdirectorysites.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014035507id_/http%3A//www.bestdirectorysites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdirectorysites.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117011744id_/http%3A//www.bestdirectorysites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best SEO Friendly Directory
 
