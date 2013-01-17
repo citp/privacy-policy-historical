@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920043315id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationstarmtg.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117234118id_/https%3A//www.nationstarmtg.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Nationstar Mortgage | Privacy Policy
 
@@ -133,12 +133,12 @@ You can respond to Nationstar secure emails with secure replies, and there is al
 
 ####  Where can I get more information?
 
-[Secure Email User Guide](https://web.archive.org/web/20120920043315id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailUserGuide.pdf)  
-[ Secure Email Quick Reference](https://web.archive.org/web/20120920043315id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailQuickReference.pdf)
+[Secure Email User Guide](https://web.archive.org/web/20130117234118id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailUserGuide.pdf)  
+[ Secure Email Quick Reference](https://web.archive.org/web/20130117234118id_/https%3A//www.nationstarmtg.com/content/documents/NSM_SecureEmailQuickReference.pdf)
 
 ####  Privacy Options and Solicitations
 
-  * To make privacy elections, [click here](https://web.archive.org/web/20120920043315id_/https%3A//www.nationstarmtg.com/PrivacyElections.aspx).
-  * To limit the types of solicitations Nationstar sends you, [click here](https://web.archive.org/web/20120920043315id_/https%3A//www.nationstarmtg.com/DoNotSolicit.aspx).
+  * To make privacy elections, [click here](https://web.archive.org/web/20130117234118id_/https%3A//www.nationstarmtg.com/PrivacyElections.aspx).
+  * To limit the types of solicitations Nationstar sends you, [click here](https://web.archive.org/web/20130117234118id_/https%3A//www.nationstarmtg.com/DoNotSolicit.aspx).
 
 
