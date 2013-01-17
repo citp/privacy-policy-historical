@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gethired.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017120155id_/https%3A//gethired.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethired.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117124738id_/https%3A//gethired.com/privacy-policy) for the most accurate reproduction.*
 
 # Get Hired: The Best Way to Hire and Get Hired | GetHired.com
 
