@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthynaturals.info privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625130730id_/http%3A//www.healthynaturals.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthynaturals.info privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117031532id_/http%3A//www.healthynaturals.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthy Naturals
 
