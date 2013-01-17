@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macblurayplayer.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021170529id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macblurayplayer.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117131052id_/http%3A//www.macblurayplayer.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Macgo Blu-ray player Privacy Policy
 
