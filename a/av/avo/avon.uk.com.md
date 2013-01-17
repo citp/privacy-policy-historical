@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avon.uk.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018190747id_/http%3A//www.avon.uk.com/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avon.uk.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117205203id_/http%3A//www.avon.uk.com/PRSuite/privacy_security.page%3Ffooter%3DY) for the most accurate reproduction.*
 
 # Avon - Anew A-F33, cosmetics, beauty, make-up, skincare, fragrance, work from home
 
