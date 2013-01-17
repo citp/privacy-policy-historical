@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the empiretoday.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724204014id_/http%3A//www.empiretoday.com/other/private-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empiretoday.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117045043id_/http%3A//www.empiretoday.com/other/private-policy) for the most accurate reproduction.*
 
 # Empire Today - Privacy Policy
 
-[](https://web.archive.org/Products.aspx)
+[](https://web.archive.org/priceguarantee)
 
-[](http://www.bbbonline.org/cks.asp?id=10602288240)
+[](http://www.bbb.org/chicago/business-reviews/carpet-and-rug-dealers-new/empire-today-in-northlake-il-4547#bbblogo "Empire Today LLC, Carpet and Rug Dealers - New, Northlake, IL")
 
 |    
 
@@ -13,7 +13,7 @@
 
 This Privacy Policy explains what information Empire Today, LLC  ("Company” or “we”) collects on this web site ("Web Site"), how Company uses that information and the Web Site’s other privacy practices. This Privacy Policy only covers information collected at this Web Site, and does not cover any information collected at any other web site by Company or any other related or unrelated company (unless specifically stated) or collected offline by Company, unless specifically stated.
 
-**Notice to California Residents / Your California Privacy Rights:** We may share personal information collected at the Web Site with third parties for those third parties’ direct marketing purposes. California Civil Code Section 1798.83 permits California residents who have supplied personal information, as defined in the statute, to the Web Site to request and obtain certain information regarding our disclosure, if any, of personal information to third parties for their direct marketing purposes (namely, the categories of personal information shared and the names and addresses of all third parties that received personal information from this Web Site for their direct marketing purposes) during the immediately prior calendar year (e.g. requests made in 2007 will receive information about 2006 sharing activities).  To make such a request (limit one request per year), please send an e-mail to [Marketing@empiretoday.com](mailto:Marketing@empiretoday.com), with “California Privacy Rights” as the subject line. You must include your full name, e-mail address, and postal address in your message.
+**Notice to California Residents / Your California Privacy Rights:** We may share personal information collected at the Web Site with third parties for those third parties’ direct marketing purposes. California Civil Code Section 1798.83 permits California residents who have supplied personal information, as defined in the statute, to the Web Site to request and obtain certain information regarding our disclosure, if any, of personal information to third parties for their direct marketing purposes (namely, the categories of personal information shared and the names and addresses of all third parties that received personal information from this Web Site for their direct marketing purposes) during the immediately prior calendar year (e.g. requests made in 2007 will receive information about 2006 sharing activities).  To make such a request (limit one request per year), please send an e-mail to [MarketingInquiries@EmpireToday.com](mailto:MarketingInquiries@empiretoday.com?subject=Request%20for%20Information%20Regarding%20Direct%20Marketing), with “California Privacy Rights” as the subject line. You must include your full name, e-mail address, and postal address in your message.
 
 **_INFORMATION COLLECTED, HOW COMPANY USES THAT INFORMATION, AND YOUR CHOICES_**
 
@@ -49,13 +49,13 @@ In addition, note that this Web Site’s pages or e-mail messages may contain co
 
 A web beacon is a small graphic image that allows the party that set the web beacon to monitor and collect certain information about the viewer of the web page, web-based document or e-mail message, such as the type of browser requesting the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed. Web beacons can be very small and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail, including HTML based content, can act as a web beacon.
 
-Our Web Site uses Google Analytics, which uses a first party cookie and JavaScript code that is stored on Google’s server, to track user traffic patterns throughout the Web Site and create overall Web Site usage and demographic statistics by reading information from each user’s browser string (information contained in every user’s browser), including the user’s domain name, browser type, and MIMI type. Company does not use Google Analytics to collect any personally identifiable data from users, and Company does not link the information collected by Google Analytics to any personally identifiable information you provide to the Web Site (e.g., no individual profiles are created).
+Our Web Site uses analytics software, which uses a first party cookie and JavaScript code that is stored on our service providers’ servers, to track user traffic patterns throughout the Web Site and create overall Web Site usage and demographic statistics by reading information from each user’s browser string (information contained in every user’s browser), including the user’s domain name, browser type, and MIME type. Company may use analytics software to collect personally identifiable data from users, and Company may link the information collected by our analytics software to any personally identifiable information you provide to the Web Site.
 
-Our Web Site also uses the services of Advertising.com in connection with the serving of targeted banner advertisements. Advertising.com will employ web beacons to track users of our Web Site and Advertising.com will use non-personally identifiable information regarding you to serve targeted banner advertisements from Company and other advertisers to you at the Web Site and at third-party web sites that also use Advertising.com services.
+Our Web Site also uses the services of a number of online advertising partners in connection with the serving of targeted banner advertisements. These online advertsing partners utilize web beacons to track users of our Web Site and they will use non-personally identifiable information regarding you to serve targeted banner advertisements from Company and other advertisers to you at the Web Site and at third-party web sites that also use these advertising partners' services.
 
 **User Forums**
 
-Please review our Restriction on Use and guidelines for User Forums in our [Terms of Use](http://www.empiretoday.com/other/private-policy.aspx).  In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in user forums (such as testimonials and user comments). You should keep in mind that whenever you publicly disclose information about yourself online, that information could be collected and used by people that you do not know. Company bears no responsibility for any action or policies of any third parties who collect any information who collect any information users may disclose in public areas, if any, of this Web Site.
+Please review our Restriction on Use and guidelines for User Forums in our [Terms of Use](https://web.archive.org/Terms-of-Use).  In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in user forums (such as testimonials and user comments). You should keep in mind that whenever you publicly disclose information about yourself online, that information could be collected and used by people that you do not know. Company bears no responsibility for any action or policies of any third parties who collect any information who collect any information users may disclose in public areas, if any, of this Web Site.
 
 **_Disclosure/SHARING of Collected Information_**
 
@@ -71,7 +71,7 @@ These third parties may have access to this Web Site's user information, includi
 
 **Sweepstakes, Contests, and Promotions** : On occasion, we may offer promotions --like sweepstakes or contests--by ourselves or in conjunction with a third party sponsor. If you choose to enter a sweepstakes, contest, or other promotion, your personally identifiable information may be disclosed to third parties in connection with the administration of such promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list. Winners' information, such as name, city and state may be posted on the Web Site. Also, by entering a sweepstakes or contest, you are agreeing to the official rules that govern such promotions. These rules may dictate specific obligations such as allowing the sponsor(s) of the promotion to use your name, voice, or likeness in advertising or marketing associated with a sweepstakes or contest.
 
-**Other third parties** : At certain times, we may share personal information collected at the Web Site with third parties for those third parties' direct marketing purposes. If you are a California resident, you have the right to request additional information. Please see the Notice to California Residents / Your California Privacy Rights section above.
+**Other parties** : At certain times, we may share personal information collected at the Web Site with our parents, subsidiaries, and affiliates, as well as third parties for direct marketing purposes. If you are a California resident, you have the right to request additional information. Please see the Notice to California Residents / Your California Privacy Rights section above 
 
 **_LINKS_**
 
@@ -89,10 +89,8 @@ This Web Site is operated in the United States. If you are located in the Europe
 
 By using this Web Site, you accept the privacy practices set forth in this Privacy Policy.  Company reserves the right to modify, alter or otherwise update this Privacy Policy at any time, and we will post any new or revised policies on the Web Site. However, Company will only use your personally identifiable information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.
 
-**LANGUAGE DISCREPENCIES**
+**LANGUAGE DISCREPANCIES**
 
 In the event there is a discrepancy or inconsistency between the English language version and any translated version of this Privacy Policy, unless otherwise provided by law, the English version shall prevail and govern.
 
-This Privacy Policy has an Effective Date of July 18, 2008.
-
-| 
+This Privacy Policy has an Effective Date of February 1st 2012
