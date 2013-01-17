@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247azpropertysearch.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016115736id_/http%3A//www.247azpropertysearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247azpropertysearch.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117203807id_/http%3A//www.247azpropertysearch.com/privacy) for the most accurate reproduction.*
 
 # 247AZPropertySearch.com | Privacy Policy
 
@@ -44,4 +44,4 @@ This Privacy Policy was last revised on **September 4, 2012**. We reserve the ri
 
 Close Window
 
-© 2012 Arizona Regional Multiple Listing Service, Inc. All rights reserved. All information should be verified by the recipient and none is guaranteed as accurate by ARMLS. The ARMLS logo indicates a property listed by a real estate brokerage other than West USA Realty Revelation. Data last updated 10/15/2012.
+© 2013 Arizona Regional Multiple Listing Service, Inc. All rights reserved. All information should be verified by the recipient and none is guaranteed as accurate by ARMLS. The ARMLS logo indicates a property listed by a real estate brokerage other than West USA Realty Revelation. Data last updated 1/17/2013.
