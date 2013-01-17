@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2012-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120831091722id_/http%3A//www.clarksusa.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117184123id_/http%3A//www.clarksusa.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,13 +65,31 @@ When you choose to browse our Sites as a visitor, we gather only non-personally 
   
   
 **Cookies and other web applications**  
-Clarks uses cookies and other technologies to better understand the needs and wants of our customers. Cookies are small data text files which are automatically transferred from our Sites to your computer’s hard drive for identification purposes. Cookies allow us to recognize your web browser every time you visit, so that we can personalize your experience and identify the areas of our Sites which are most relevant to you.
+Clarks uses cookies and other tracking technologies to better understand the needs and wants of our customers. Cookies are small data text files which are automatically transferred from our Sites to your computer's hard drive for identification purposes. While cookies do not collect any personal information about you, they do allow us to recognize your web browser every time that you visit our Sites. This enables us to better understand your preferences and browsing habits so that we can provide you with a more personalized site experience and in some cases more personalized advertisements. Cookies are also used to collect aggregate data about visitors of our Sites. For example, we may use cookies to identify the number of visitors we receive and which parts of our Sites are most popular. 
 
-Clarks also uses cookies to collect aggregate data about our customer base. Through the use of cookies, we are able to track which parts of our Sites are most popular, where our visitors are going, and how much time they spend there. Such information helps us to provide you with improved services and a better overall site experience.
+At times, we may work with third party business partners who use cookies and web beacons (small pixel tags which work in conjunction with cookies) on our Sites. Clarks has no access to or control over these cookies once we have given permission to the third party to set cookies on our Sites. You can, however, choose not to accept cookies from our Sites or any others by modifying your browser settings. Additionally, you may remove any existing cookies stored on your hard drive by deleting them in your browser's settings section.
 
-If you would prefer not to accept cookies from our Sites or any others, you can modify your browser preferences to refuse them. In order to do so, please refer to your browser’s "help" section.
+ •
 
-In addition to using cookies, we also gather non-personally identifiable "click stream" data and store it in our website log files. "Click stream" data records your Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), previously visited web pages, and domain name. We use this data solely to improve the content of our Sites and to understand the demographics of our customer base. We will not use this information to market directly to you, as our website logs do not store any personally identifiable information.
+| 
+
+**Customized Advertising**  
+Clarks works with third-party service providers to serve targeted advertisements to you across the web. Targeted advertisements are those which are customized to meet your interests and preferences based on anonymous information gathered about your previous interactions with our Sites. Such information is collected through the use of cookies and does not involve the collection or sharing of any of your personally identifiable information (such as your name or email address). 
+
+Currently, Clarks uses the DoubleClick DART cookie to serve targeted advertisements to you. You can opt out of the use of the DART cookie by disabling cookies on your browser or by installing the [Google Advertising Cookie Opt-Out Plug In](http://www.google.com/ads/preferences/plugin/). You can learn more about Google advertising and how they use cookies by visiting the [Google Privacy Policy](http://www.google.com/policies/privacy/ads/). You can learn more about the general practice of targeted/customized advertising and your choices by visiting the [Network Advertising Initiative Website](http://www.networkadvertising.org/managing/opt_out.asp).  
+  
+---|---  
+  
+ •
+
+| 
+
+**Google Analytics and Log Data**  
+We use Google Analytics to collect anonymous information about the use of our Sites. Google Analytics collects data pertaining to the browsing activities of our users, including how often certain pages of our Sites are visited, the amount of time spent on those pages, and what websites are visited prior to our Sites. Clarks uses this information to better understand our web page traffic patterns, for internal marketing purposes, and to make modifications to improve our Sites. Google Analytics does not collect any personally identifiable information from you, nor does Clarks combine any information obtained through Google Analytics with any of your personal information. 
+
+In order for us to use this service, Google automatically sets a cookie on your machine or device. You can prevent Google Analytics from recognizing your machine or device by disabling cookies on your browser or by downloading and installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).   
+  
+Clarks also gathers non-personally identifiable "click stream" data and stores it in our website log files. "Click stream" data records your Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), previously visited web pages, and domain name. We use this data solely to improve the content of our Sites and to understand the demographics of our customer base. We will not use this information to market directly to you, as our website logs do not store any personally identifiable information. 
 
 **Third parties and your information**  
 Clarks does not sell, rent, trade, or otherwise share your personal information with third parties without first giving you advance notice, except as set forth in this privacy policy. We may disclose your information to third parties with whom you explicitly ask us to share your information, where it is permitted or required by law, and as it is necessary for business operation purposes.
@@ -156,4 +174,4 @@ Newton Upper Falls, MA 02464
   
 This Privacy Policy applies only to the information collected by www.clarksusa.com and www.bostonianshoe.com
 
-Date Posted: September 26, 2011 
+Date Posted: November 19, 2012
