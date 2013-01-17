@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920044948id_/http%3A//www.learn2type.com/index.cfm%3Faction%3Dhome%26subaction%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117020911id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Learn2Type.com - Free Typing Test & Online Typing Tutor - Privacy Statement
+
+Content and materials on this website are Copyright ©1999-2013 Learn2Type.com, Inc. 
+
+Access to this website and content is provided at no charge, and with no   
+guarantees. While this content has been made available to assist you in   
+mastering touch typing, no guarantee is made that it will improve your typing. 
+
+Learn2Type.com, Inc. is not liable for any damages, consequential or inconsequential, from   
+the ability or disability of using this website. Use these materials at your own risk. 
+
+Usage of this website constitutes acknowledgment of these disclaimers and terms. 
+
+* * *
 
 Learn2Type.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Learn2Type.com. Your IP address is used to help identify you and tailor your typing lessons and to gather broad demographic information. 
 
@@ -26,7 +39,7 @@ In accordance with laws and safe practices, any account marked as a "kid" (i.e. 
 * Exercise content will be simpler and with educational content; 
 * NO emails will be sent to kids accounts, unless email contact is initiated by the user (limited to answering support questions); 
 * Banner ads displayed (if any) will be filtered; 
-* Public areas will not be available to kids (Messageboard, Guestbook) to prevent contact with any third parties; 
+* Public areas will not be available to kids (Forum, Guestbook) to prevent contact with any third parties; 
 * Additional security measures may be implemented at our sole discretion, if deemed necessary. 
 
 **Third Party Advertising**   
