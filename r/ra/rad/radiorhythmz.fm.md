@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiorhythmz.fm privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006132119id_/http%3A//www.radiorhythmz.fm/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiorhythmz.fm privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117033125id_/http%3A//www.radiorhythmz.fm/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Data - Radio Rhythmz
 
