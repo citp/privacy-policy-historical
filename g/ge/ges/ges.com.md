@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ges.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512193412id_/http%3A//ges.com/Home/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ges.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117053022id_/http%3A//www.ges.com/Home/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Exposition, Exhibit, Trade Show, Event Services and Management | GES
 
