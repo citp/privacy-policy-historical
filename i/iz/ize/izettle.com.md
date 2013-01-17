@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the izettle.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126025048id_/http%3A//www.izettle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izettle.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117223710id_/http%3A//www.izettle.com/privacy-policy) for the most accurate reproduction.*
 
-# iZettle - Privacy Policy
+# Privacy Policy - iZettle
+
+### Request an invite!
+
+You can sign up for iZettle in [Sweden](https://web.archive.org/se/), [Norway](https://web.archive.org/no/), [Denmark](https://web.archive.org/dk/), [Finland](https://web.archive.org/fi/), the [UK](https://web.archive.org/gb/), [Germany](https://web.archive.org/de/) and [Spain](https://web.archive.org/es/). 
+
+We're also coming soon to even more countries. Would you like it to be yours? Sign up here and we'll keep you in the loop!
 
 This privacy policy explains how we, iZettle AB, process and use personal data provided to, and collected by, us through the registration on izettle.com (the Website) and in connection with use of your iZettle to take chip card payments and to keep track of the card payments you take with your iZettle (the Services). By accepting this Privacy Policy you consent to our use and processing of your personal data in accordance with this Privacy Policy. Please read it carefully before you proceed.
 
