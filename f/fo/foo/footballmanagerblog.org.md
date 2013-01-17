@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footballmanagerblog.org privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211154254id_/http%3A//www.footballmanagerblog.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballmanagerblog.org privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117231810id_/http%3A//www.footballmanagerblog.org/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Football Manager Blog | 1st in Football Manager
+# Privacy Policy ~ Football Manager Blog
 
 Privacy Policy for www.footballmanagerblog.org
 
