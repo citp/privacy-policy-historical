@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fsa.gov.uk privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226190037id_/http%3A//www.fsa.gov.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fsa.gov.uk privacy policy that was archived on 2013-01-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130117054707id_/http%3A//www.fsa.gov.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" pext-strict"><head>
 	
@@ -43,7 +43,7 @@
 		
 		
 <!-- 
-   Wed Dec 26 19:00:36 GMT 2012 elapsed time in [MetaData] = 0 seconds
+   Thu Jan 17 05:47:08 GMT 2013 elapsed time in [MetaData] = 0 seconds
  -->
  
 
@@ -152,7 +152,7 @@
 		
 		
 <!-- 
-   Wed Dec 26 19:00:36 GMT 2012 elapsed time in [Horizontal Navigation] = 0 seconds
+   Thu Jan 17 05:47:08 GMT 2013 elapsed time in [Horizontal Navigation] = 0 seconds
  -->
  
 			    </div>
@@ -205,7 +205,7 @@
 		
 		
 <!-- 
-   Wed Dec 26 19:00:36 GMT 2012 elapsed time in [Left Navigation] = 0 seconds
+   Thu Jan 17 05:47:08 GMT 2013 elapsed time in [Left Navigation] = 0 seconds
  -->
  
 				</div>
@@ -252,42 +252,39 @@
     
     
 
-      
+	  
 
 
 
+	 
+
+<!-- dhtml module layout - begins -->
+<style type="text/css">
 
 
+	APPLET 			{visibility:visible}
 
 
+.epi-panelMsg		{font-family:Verdana, Geneva, sans-serif;
+font-size: x-small;}
+.epi-indicator		{overflow:hidden;background:#009900}
+</style>
+
+<!-- Include DHTML CSS -->
+<link rel="stylesheet" type="text/css" href="/portal/templates/template0018/fSUTZcXZYXdZTbRYabdbVVVeaQaQaQaQ/dhtml-css.css">
 
 
+    <div id="pos_anchor" style="position:absolute;  overflow:hidden; height:0; width:0;"></div>
+    <div id="layout" style="position: relative; height: 1354px; width: 100%; visibility: visible;">&nbsp;</div>
 
 
+	  <div id="d_0" style="width: 460px; left: 250px; top: 97px; height: 1354px; visibility: visible;" class="epi-layout0">&nbsp;</div>
 
+		<div id="p_0_0" style="width: 456px; left: 250px; top: 97px; height: 1354px; visibility: visible;" class="epi-panel">&nbsp;</div>
 
+          <div id="m_0_0_0" style="width: 455px; left: 250px; top: 97px; visibility: visible;" class="epi-modDrg" uid="ab0418b94e06fba00ded50bba0a0a0a0">
 
-
-<!-- Begin Page Controls -Horz Area -->
-
-  
-
-<!-- End Page Controls -Horz Area -->
-
-<table border="0" cellspacing="10" cellpadding="0" width="100%" height="240">
-
-   
-
-
-    <tbody><tr>
-	  <td width="100%" valign="top">
-	    <table border="0" width="100%" cellpadding="0" cellspacing="0">
-		  <tbody><tr>
-
-			  <td width="100%" valign="top" align="left">
-
-			    
-    
+		    
         
 	
 	  
@@ -410,7 +407,7 @@ Expires: 90 days<br>
 		
 		
 <!-- 
-   Wed Dec 26 19:00:36 GMT 2012 elapsed time in [channelpage] = 0 seconds
+   Thu Jan 17 05:47:08 GMT 2013 elapsed time in [channelpage] = 0 seconds
  -->
  
 	  
@@ -418,32 +415,146 @@ Expires: 90 days<br>
 	
 
 
+
+		  </div>
+
+
+  
+<!-- dhtml module layout - ends -->
+
+<!-- module up location indicator -->
+<div id="li_mup" class="epi-modUpFootPr">&nbsp;</div>
+
+<!-- locked panel greyed out -->
+<div id="li_lockp" class="epi-panelLocked"></div>
+<div id="li_lockp_msg" class="epi-panelMsg">Area is Locked</div>
+
+<script language="JavaScript" src="/portal/jslib/generic.js"></script>
+<script language="JavaScript" src="/portal/jslib/dragndrop.js"></script>
+<script language="JavaScript" src="/portal/jslib/frontpagedrop.js"></script>
+
+<script language="JavaScript">
+  var innerTxt = "&nbsp;";
+
+
+function _getPageOffsetTop(objElement){
+	var objTop;
+	if(bw.ns4){
+		objTop=objElement.pageY;
+	} else {
+		objTop=objElement.offsetTop;
+		//while((objElement=objElement.offsetParent)!=null){
+		//	objTop+=objElement.offsetTop;
+		//}
+	}
+	return objTop;
+}
+  function contentInit()
+  {
+    if(!cmpage) cmpage=new cm_page();
+
+	exchangerInit();
+
+	var anchor= new cm_makeObj("pos_anchor");
+
+	// It is important that only PageLayout's position is not absolute
+	PageLayout= new Column("layout",null,null,null,null,false);
+
+	PageLayout.posAnchor=anchor;
+	var posL=_getPageOffsetLeft(anchor.evnt);
+	var posT=_getPageOffsetTop(anchor.evnt);
 	
-    
+	
+	if(bw.ie5&&cm_vertw) posL+=cm_vertw;
+	    PageLayout.setRelativePos(posL,posT);
+	
 
+	Panels= new Array();
+    Dividers = new Array();
 
-				
-			  </td>
-
-	          
-
-          </tr>
-
-        
-
-          <tr>
-            <td><img src="/portal/images/misc/spacer.gif" width="100" height="1" border="0" alt=""></td>
-          </tr>
-
-      </tbody></table>
-    </td>
-  </tr>
+	typeOfOrientation = new String("row");
 
 
 
+	    var d_0= new Row("d_0","100%",0,0,5,1,0);
+		PageLayout.addRow(d_0);
+        Dividers[0]=d_0;
+
+		  var p_0_0= new Column("p_0_0","100%",0,5,0,1,5);
+
+	    Panels[0]=p_0_0;
+
+		  d_0.addColumn(p_0_0);
+
+          var m_0_0_0= new Row("m_0_0_0","100%",0,"drag",5,0,0,1);
+          p_0_0.addRow(m_0_0_0);
 
 
-</tbody></table>
+  lockedpanel= new cm_makeObj("li_lockp");
+  lpmsg= new cm_makeObj("li_lockp_msg");
+  if(bw.ie)
+  {
+    lockedpanel.css.filter="alpha(opacity=25)";
+  }
+  else if (bw.ns6)
+  {
+    lockedpanel.css.MozOpacity="25%";
+  }
+  else
+  {
+    lockedpanel=null;
+  }
+
+  PageLayout.lockedPanel=lockedpanel;
+  PageLayout.msg=lpmsg;
+
+  IndicatorHeight=1.5;
+
+  upModuleFootPrint= new cm_makeObj("li_mup");
+  PageLayout.upModFp=upModuleFootPrint;
+  PageLayout.upModCl="epi-modUp";
+  PageLayout.dnModCl="epi-modDrg";
+  PageLayout.toPageH=1;
+  PageLayout.render();
+  appendToHandler("onresize","PageLayout.render();");
+}
+appendToHandler("onload","contentInit();");
+
+</script>
+
+<!-- for communications to server -->
+<script language="JavaScript" src="/portal/jslib/exchanger.js"></script>
+<script language="JavaScript">
+  function nullSrc()
+  {
+    return '';
+  }
+
+  var theBuffer;
+  function exchangerInit()
+  {
+    theBuffer= new exchanger("hiddenframe");
+  }
+
+  function sendDataToServer(data)
+  {
+
+
+	theBuffer.sendData("/portal/site/fsa/template.PAGE/action.process/menuitem.cf48810545916eaac4a69810a0a0a0a0/?action=process_dhtml&"+data);
+  }
+
+  function showReturnData()
+  {
+    alert(theBuffer.retrieveData("myNewData"));
+  }
+</script>
+
+<iframe name="hiddenframe" style="width:0;height:0;visibility:hidden" src="javascript:top.nullSrc();">
+  <LAYER name=hiddenframe WIDTH=0 HEIGHT=0 visibility="hidden">
+  </LAYER>
+</iframe>
+   
+
 					
 				</div>
 			</div>
@@ -554,7 +665,7 @@ Expires: 90 days<br>
 		
 		
 <!-- 
-   Wed Dec 26 19:00:36 GMT 2012 elapsed time in [Footer] = 0 seconds
+   Thu Jan 17 05:47:08 GMT 2013 elapsed time in [Footer] = 0 seconds
  -->
  
 		</div>
