@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaleclothing4u.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014184425id_/http%3A//www.wholesaleclothing4u.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleclothing4u.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117053540id_/http%3A//www.wholesaleclothing4u.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Wholesaleclothing4u.com
 
