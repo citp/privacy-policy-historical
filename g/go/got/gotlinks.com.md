@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotlinks.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231203101id_/http%3A//www.gotlinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotlinks.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117101835id_/http%3A//www.gotlinks.com/privacy.php) for the most accurate reproduction.*
 
 # GotLinks.com Free Link Exchange Service
 
