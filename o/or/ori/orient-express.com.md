@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the orient-express.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012025207id_/http%3A//www.orient-express.com/security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orient-express.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117024158id_/http%3A//www.orient-express.com/security.jsp) for the most accurate reproduction.*
 
 # Our Collection - Privacy Policy
 
 ## PRIVACY POLICY
 
-Last Updated: 14 September 2011 
+Last Updated: 7 Jan 2013  
 
 The Orient-Express Group* respects the privacy of every individual who visits our hotels, trains, cruises or websites and protecting the privacy and personal data of our visitors is of the utmost importance to us. This policy establishes how we handle the information that (i) you provide to us when you stay or travel with us and (ii) we collect from you when you visit our websites. 
 
 You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information for certain purposes. We will make all practical efforts to respect your wishes (subject to any overriding legal obligations). 
 
-In order to provide multiple access points to the services and products we offer, the Orient-Express Group operates directly, or through its affiliates or service providers, many websites, including www.orient-express.com, www.orient-expresstrains.com, www.orient-expresshotels.com, www.orient-expressgifts.com, www.orient-express.fr, www.orient-express.co.jp, www.orient-express.co.ru, www.21club.com, www.perrycabin.com, www.charlestonplace.com, www.elencanto.com, www.maromahotel.com, www.lasamanna.com, www.casadesierranevada.com, www.peru-tour.com, www.copacabanapalace.com.br, www.hoteldascataratas.com, www.mira-park.com, www.machupicchu.orient-express.com, www.monasteriohotel.com, www.mesa18restaurant.com, www.mesa18restaurante.com, www.mesa18restaurante.com.pe, www.riosagrado.com, www.grand-hotel-europe.com www.ritz.es, www.ritzmadrid.com, www.hotellaresidencia.com, www.hotelsplendido.com, www.villasanmichele.com, www.hotelcaruso.com, www.hotelcipriani.com, www.hotelvillasantandrea.com, www.grandhoteltimeo.com, www.manoir.com, www.reidspalace.com, www.eagleislandcamp.com, www.khwairiverlodge.com, www.savuteelephantcamp.com, www.alouettebarge.com, www.amaryllisbarge.com, www.hirondellebarge.com, www.napoleonbarge.com, www.fleurdelysbarge.com, www.jimbaranpuribali.com, www.ubudhanginggardens.com, www.residencedangkor.com, www.residencephouvao.com, www.napasai.com, www.governorsresidence.com, www.roadtomandalay.net, www.vsoe.co.uk, www.perurail.com, www.royalscotsman.com, www.mountnelson.co.za, www.orient-express-safaris.co.za, www.westcliff.co.za, www.portocupecoy.com, www.portocupecoyvillas.com, www.romanticgetaways.orient-express.com, and www.afloatinfrance.com, www.palacionazarenas.com, www.palacionazarenas.com.pe. Any one of these websites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information. 
+In order to provide multiple access points to the services and products we offer, the Orient-Express Group operates directly, or through its affiliates or service providers, many websites, including www.orient-express.com, www.orient-expresstrains.com, www.orient-expresshotels.com, www.orient-expressgifts.com, www.orient-express.fr, www.orient-express.co.jp, www.orient-express.co.ru, www.21club.com, www.perrycabin.com, www.charlestonplace.com, www.elencanto.com, www.maromahotel.com, www.lasamanna.com, www.casadesierranevada.com, www.peru-tour.com, www.copacabanapalace.com.br, www.hoteldascataratas.com, www.mira-park.com, www.machupicchu.orient-express.com, www.monasteriohotel.com, www.mesa18restaurant.com, www.mesa18restaurante.com, www.mesa18restaurante.com.pe, www.riosagrado.com, www.grand-hotel-europe.com www.ritz.es, www.ritzmadrid.com, www.hotellaresidencia.com, www.hotelsplendido.com, www.villasanmichele.com, www.hotelcaruso.com, www.hotelcipriani.com, www.hotelvillasantandrea.com, www.grandhoteltimeo.com, www.manoir.com, www.reidspalace.com, www.eagleislandcamp.com, www.khwairiverlodge.com, www.savuteelephantcamp.com, www.alouettebarge.com, www.amaryllisbarge.com, www.hirondellebarge.com, www.napoleonbarge.com, www.fleurdelysbarge.com, www.jimbaranpuribali.com, www.ubudhanginggardens.com, www.residencedangkor.com, www.residencephouvao.com, www.napasai.com, www.governorsresidence.com, www.roadtomandalay.net, www.vsoe.com, www.perurail.com, www.royalscotsman.com, www.mountnelson.co.za, www.orient-express-safaris.co.za, www.westcliff.co.za, www.portocupecoy.com, www.portocupecoyvillas.com, www.romanticgetaways.orient-express.com, and www.afloatinfrance.com, www.hotel-du-palais.com, www.palacionazarenas.com, www.palacionazarenas.com.pe. Any one of these websites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information. 
 
 If you have any specific questions that are not covered in the FAQ section below, please contact: 
 
@@ -120,7 +120,7 @@ Further information about cookies and how they work is available at www.allabout
 
 Q4. Which cookies does the Orient-Express Group use? 
 
-The main cookies we use on our Orient-Express websites are: 
+The main cookies we use on our Orient-Express websites are:
 
 Cookie Name   
 | Function   
@@ -150,9 +150,9 @@ user_id
 lounge_user_id | These two cookie allows us to identify the user and customise their experience as appropriate as well as helping with form entry and the like by pre-populating fields containing name and address information.   
   
   
-In addition, the following are the main third party cookies we use (which are each subject to their own privacy policies): 
+In addition, the following are the main third party cookies we use (which are each subject to their own privacy and cookie policies):
 
-**Third Party Cookie**  
+ **Third Party Cookie**  
 |  **Function**  
   
 ---|---  
@@ -171,8 +171,13 @@ Yahoo Advertising and Campaign Tags
 | Allows the Orient-Express Group to monitor (using non-personally identifiable data) the number and type of relevant searches made for it on Yahoo. Privacy policy available at [info.yahoo.com/privacy/us/yahoo/details.html](http://info.yahoo.com/privacy/us/yahoo/details.html)  
   
 Yandex   
-| Allows users to search for Orient-Express Group websites Allows users to search for Orient-Express Group websites in the Russian language. Privacy policy available at [company.yandex.ru/legal/en/confidential/](http://company.yandex.ru/legal/en/confidential/)  
+| Allows users to search for Orient-Express Group websites in the Russian language. Privacy policy available at [company.yandex.ru/legal/en/confidential/](http://company.yandex.ru/legal/en/confidential/)  
   
+Quantcast    
+| Quantcast enable the direct-measurement of traffic and audience characteristics, using non-persoanlly identifiable data. Privacy policy available at <http://www.quantcast.com/privacy>  
+  
+Google Remarketing Tags     
+| Orient-Express are using remarketing to advertise online.  This means that third-party vendors, including Google, will show ads on sites across the Internet. Google will use cookies to serve ads based on past visits to this website. You can opt-out of Google's use of cookies by visiting the [Ads Preferences Manager](http://www.google.com/settings/ads/onweb), or through the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).  
   
 Unless you have adjusted your browser setting so that it will refuse cookies (Q5 How can I turn cookies off?), our system will issue cookies when you log on to any of our websites. 
 
@@ -258,7 +263,7 @@ Q12. Do Orient-Express Group Websites link to Other Websites?
 
 Our websites may, from time to time, contain links to and from the websites of our partner networks, advertisers, social media sites and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal information to these websites. 
 
-[Back to top](https://web.archive.org/web/20121012025207id_/http%3A//www.orient-express.com/item.aspx?tcm=16#top)
+[Back to top](https://web.archive.org/web/20130117024158id_/http%3A//www.orient-express.com/item.aspx?tcm=16#top)
 
 Q13. Are there any additional privacy provisions for non-UK websites? 
 
@@ -271,6 +276,4 @@ CIF A28011286
 e-mail: lopd@ritz.es 
 
 Registered in the Mercantile record of Madrid 20-08-1908, to the volume the 55th, I foliate aheet 2345, inscription 1.   
-[Back to top](https://web.archive.org/web/20121012025207id_/http%3A//www.orient-express.com/item.aspx?tcm=16#top)
-
-Copyright © Orient-Express Hotels Ltd. (for itself and on behalf of its corporate group) 1995-2011. All rights reserved. [Full Copyright Notice](https://web.archive.org/web/20121012025207id_/http%3A//www.orient-express.com/copyright.jsp)
+[Back to top](https://web.archive.org/web/20130117024158id_/http%3A//www.orient-express.com/item.aspx?tcm=16#top)
