@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bimmerfest.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023051842id_/http%3A//www.bimmerfest.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bimmerfest.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117175739id_/http%3A//www.bimmerfest.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
