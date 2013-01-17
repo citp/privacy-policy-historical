@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cdfreaks.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116192003id_/http%3A//www.myce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdfreaks.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117231950id_/http%3A//www.myce.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MyCE – My Consumer Electronics
+# Privacy Policy | MyCE.com
 
 RankOne Media is committed to protecting your privacy. The following privacy policy deals with the privacy issues around our website.
 
