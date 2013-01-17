@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpcentral.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015204414id_/http%3A//mobilenations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcentral.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117054905id_/http%3A//mobilenations.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Mobile Nations - Privacy Policy
 
