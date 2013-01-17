@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdmap.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014013212id_/https%3A//crowdmap.com/mhi/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdmap.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117131418id_/https%3A//crowdmap.com/mhi/legal/privacy) for the most accurate reproduction.*
 
 # Crowdmap | Create and Share Interactive Maps Online
 
