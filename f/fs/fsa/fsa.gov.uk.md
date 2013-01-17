@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsa.gov.uk privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226190037id_/http%3A//www.fsa.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsa.gov.uk privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117054707id_/http%3A//www.fsa.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy statement
 
@@ -26,7 +26,7 @@ Cookies collect anonymous information about how visitors use our site, which is 
 
 We use Google Analytics, a web analytics service provided by Google. Google Analytics uses 'cookies', which are text files placed on your computer, to help analyse how visitors use fsa.gov.uk.
 
-| Cookie name | What is it  
+Cookie name | What is it  
 ---|---  
 _utma | Typical content: randomly generated number  
 Expires: 2 years  
