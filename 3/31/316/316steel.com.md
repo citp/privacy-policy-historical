@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 316steel.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018041446id_/http%3A//www.316steel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 316steel.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117080457id_/http%3A//www.316steel.com/privacy.php) for the most accurate reproduction.*
 
 # Wholesale Stainless Steel Jewelry - Bracelets, Rings, Earrings, and More - 316Steel.com
 
-316STEEL.COM knows that you care how information about you is used and shared, and we appreciate your trust and wnat you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting 316STEEL.COM, you are accepting the practices described in this Privacy Notice. 
+316STEEL.COM knows that you care how information about you is used and shared, and we appreciate your trust and want you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting 316STEEL.COM, you are accepting the practices described in this Privacy Notice. 
 
 **What Personal Information About Customers Does 316STEEL.COM Gather?**
 
