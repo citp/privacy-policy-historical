@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the producteev.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010192534id_/http%3A//www.producteev.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producteev.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117204016id_/https%3A//www.producteev.com/privacy.php) for the most accurate reproduction.*
 
 # Producteev - Privacy Policy
 
