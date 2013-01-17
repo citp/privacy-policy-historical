@@ -1,17 +1,21 @@
-<!--The following is the downloaded HTML source of the nativeplanet.com privacy policy that was archived on 2012-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005115253id_/http%3A//www.nativeplanet.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nativeplanet.com privacy policy that was archived on 2013-01-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130117150627id_/http%3A//www.nativeplanet.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Native Planet | Privacy Policy | Travel Website | Travel And Tourist Information - Native Planet</title>
+
 <meta name="description" content="Get to know the privacy policy of Native Planet, an online travel website which gives travel and tourist information.">
 
 
-<meta name="Generator" content="Nativeplanet">
+
+<meta name="generator" content="Bluefish 2.2.2">
 <meta http-equiv="content-language" content="en">
 <meta property="og:title" content="Native Planet | Privacy Policy | Travel Website | Travel And Tourist Information">
 <meta property="og:type" content="article">
 <meta property="og:image" content="http://www.nativeplanet.com/images/nativeplanet-fb.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@oneindiatravel">
     <meta property="og:url" content="http://www.nativeplanet.com/privacy-policy.html">
     <meta property="og:description" content="Get to know the privacy policy of Native Planet, an online travel website which gives travel and tourist information.">
 <meta property="fb:app_id" content="275160992568888">
@@ -21,9 +25,11 @@
 
 <!-- <link type="text/css" rel="stylesheet" href="http://www.nativeplanet.com/css/style-responsive24062012.css" />
  -->
-<link type="text/css" rel="stylesheet" href="http://www.nativeplanet.com/min/b=css&amp;f=style-responsive20120817.css,hotels.css">
+<link type="text/css" rel="stylesheet" href="http://www.nativeplanet.com/min/b=css&amp;f=style-responsive20130109.css,hotels.css">
 
+<!-- <link type="text/css" rel="stylesheet" href="http://www.nativeplanet.com/min/b=css&amp;f=style-responsive20120817.css,hotels.css" /> -->
 
+<link type="text/css" rel="stylesheet" href="http://www.nativeplanet.com/css/photos.css">
 
 <script type="text/javascript" async="" src="https://in-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.2.js"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
     var base_url = "http://www.nativeplanet.com/";
@@ -57,17 +63,18 @@
 			    });
 		    }
 		});
-		$( "#destination_search" ).autocomplete({
+		$( "#destination_search" ).catcomplete({
 			source: base_url+"ajax-common.php?func=search-destination",
                         autoFocus: true,
 			minLength: 3,
 			select: function( event, ui ) {
 			    $('#search_destination_query_string').val(ui.item.query_string);
 			    var search_destination_query_string = document.getElementById("search_destination_query_string").value;
+			    
 			    $.ajax({
 				   url: base_url+"ajax-common.php?func=insert-search-keyword&name="+ui.item.value+"&query_string="+ui.item.query_string,
 				   success: function(data){
-					 window.location = base_url+"destination.php?search_destination_query_string="+data;
+					   window.location = base_url+"destination.php?search_destination_query_string="+data;
 				   }
 			   });
 			}
@@ -97,6 +104,7 @@
 	window.google_analytics_uacct = "UA-110466-38";
 	</script>
 	<!-- code to connect analytics and adsense accounts -->
+
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-110466-38']);
@@ -156,12 +164,72 @@
 	 GS_googleAddAdSenseService("ca-pub-6601380052549923");
 	 GS_googleEnableAllServices();
 	</script>
-	<script type="text/javascript">
-	 GA_googleAddSlot("ca-pub-6601380052549923", "nativeplanet-160x600");
-	 GA_googleAddSlot("ca-pub-6601380052549923", "nativeplanet-728x90");
-	 GA_googleAddSlot("ca-pub-6601380052549923", "nativeplanet-300x250");
 
+	<!--start of google ad manager custom variable targeting-->
+
+<script language="JavaScript">
+var url = document.location.href;
+var pattern = /\/([0-9][a-z]-_)*\//g;
+var url_section = url.split('/');
+var number_pattern = /^[0-9]+$/;
+var topic_pattern = /search\.html\?topic=(.*)/g;
+var search_pattern = /\?q=(.*)&/g;
+var file_pattern = /(.*)\.html/i;
+var ga_value = '';
+var domain_varifier = /(.*)\.oneindia\.in/g;
+var file_chunk = '';
+var value = '';
+for(var i=1; i<url_section.length;i++)
+{
+    ga_value = url_section[i];
+    if(!ga_value.match(number_pattern) && ga_value.length > 0 )
+    {
+        if(ga_value.match(topic_pattern))
+        {
+            GA_googleAddAttr("topic",RegExp.$1);
+        }
+        else if(ga_value.match(file_pattern))
+        {
+            ga_value = ga_value.replace('_','-');
+            ga_value = ga_value.replace('.html','');
+            file_chunk = ga_value.split('-');
+            for(var x in file_chunk)
+            {
+                if(!file_chunk[x].match(number_pattern) && !file_chunk[x].match(file_pattern))
+                {
+                    GA_googleAddAttr("topic",file_chunk[x]);
+                }
+            }
+        }
+        else if(ga_value.match(search_pattern))
+        {
+            GA_googleAddAttr("topic",RegExp.$1);
+        }
+        else
+        {
+            if(url_section[i].match(domain_varifier))
+                value = RegExp.$1;
+            else
+                value = url_section[i];
+
+            GA_googleAddAttr("topic",value);
+        }
+    }
+}
+
+</script>
+
+<!--end of google ad manager custom variable targeting--> 
+	
+	<script type="text/javascript">
+	     GA_googleAddAdSensePageAttr("google_page_url","http://www.nativeplanet.com/privacy-policy.html");
+	     GA_googleAddSlot("ca-pub-6601380052549923", "nativeplanet-160x600-right");
+	     GA_googleAddSlot("ca-pub-6601380052549923", "nativeplanet-160x600");
+	     GA_googleAddSlot("ca-pub-6601380052549923", "nativeplanet-728x90");
+	     GA_googleAddSlot("ca-pub-6601380052549923", "nativeplanet-300x250");
+	     GA_googleAddAdSensePageAttr("google_language", "en");
 	</script>
+	
 	<script type="text/javascript">
 	 GA_googleFetchAds();
 	</script>
@@ -173,6 +241,8 @@
 <!-- start Mixpanel --><script type="text/javascript">(function(d,c){var a,b,g,e;a=d.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===d.location.protocol?"https:":"http:")+'//api.mixpanel.com/site_media/js/api/mixpanel.2.js';b=d.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b);c._i=[];c.init=function(a,d,f){var b=c;"undefined"!==typeof f?b=c[f]=[]:f="mixpanel";g="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config".split(" ");
 for(e=0;e<g.length;e++)(function(a){b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,0)))}})(g[e]);c._i.push([a,d,f])};window.mixpanel=c})(document,[]);
 mixpanel.init("83940fae8c02d864c279e7fd617e3f57");</script><!-- end Mixpanel -->
+
+
 		
 	</head>
 	<body class="np-bodyBg">
@@ -191,33 +261,48 @@ mixpanel.init("83940fae8c02d864c279e7fd617e3f57");</script><!-- end Mixpanel -->
 			})();
 		</script>
 		<noscript>
-			<img src="in.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+			<img src="//in.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
 		</noscript>
 		<!--END EFFECTIVE MEASURE CODE -->
 
 		
-				<!-- Header Starts here -->
+		
+		<!-- Header Starts here -->
 			<header>
 			
-			<!-- -->	
+			<!-- -->
+				
+				<div class="clear"></div>
 				<div id="np-header" class="clear">
+					
 					<div id="np-logo">
 						<a href="http://www.nativeplanet.com/"><img src="http://www.nativeplanet.com/images/nativeplanet-logo.png" alt="NativePlanet" title="NativePlanet"></a>
 					</div>
 
 					<div id="np-headerRight">
 						<!-- Social Networking Links -->
-							<div id="np-socialNetworks">
-								<a href="https://www.facebook.com/nativeplanet" target="_blank"><img src="http://www.nativeplanet.com/images/icons/facebook.jpg" alt="Follow us on facebook" title="Follow us on facebook"></a> <a href="https://twitter.com/#!/oneindiatravel" target="_blank"><img src="http://www.nativeplanet.com/images/icons/twitter.jpg" alt="Follow us on twitter" title="Follow us on twitter"></a> <a href="https://plus.google.com/117158661630711195042/" target="_blank"><img src="http://www.nativeplanet.com/images/icons/gplus.jpg" alt="Follow us on Google plus" title="Follow us on Google plus"></a>							</div>
+							<div id="region-menu">
+																								<a href="http://hindi.nativeplanet.com/">हिन्दी</a>
+																								<a href="http://tamil.nativeplanet.com/">தமிழ்</a>
+																								<a href="http://malayalam.nativeplanet.com/">മലയാളം</a>
+																								<a href="http://kannada.nativeplanet.com/">ಕನ್ನಡ</a>
+																								<a href="http://telugu.nativeplanet.com/">తెలుగు</a>
+															</div>
+							<div class="clear"></div>
+							<div id="np-socialNetworks" style="padding-top:5px;">
+								<a href="https://www.facebook.com/nativeplanet" target="_blank"><img src="http://www.nativeplanet.com/images/icons/facebook.jpg" alt="Follow us on facebook" title="Follow us on facebook"></a> <a href="https://twitter.com/#!/oneindiatravel" target="_blank"><img src="http://www.nativeplanet.com/images/icons/twitter.jpg" alt="Follow us on twitter" title="Follow us on twitter"></a> <a href="https://plus.google.com/117158661630711195042/" target="_blank"><img src="http://www.nativeplanet.com/images/icons/gplus.jpg" alt="Follow us on Google plus" title="Follow us on Google plus"></a>
+							</div>
 						<!-- Social Networking Links -->
 
 						<nav class="navmenu">
 							<div id="np-menu">
 								<a href="http://www.nativeplanet.com/">Home</a>
 <a href="http://www.nativeplanet.com/about-us.html">About</a>
-<a href="http://www.nativeplanet.com/tourist-places/">Destinations</a>
-<a href="http://www.nativeplanet.com/videos/">Videos</a>
+        <a href="http://www.nativeplanet.com/tourist-places/">Destinations</a>
+    <a href="http://www.nativeplanet.com/videos/">Videos</a>
+<a href="http://www.nativeplanet.com/hotels/" class="noflights">Hotels</a>
 <a href="http://www.nativeplanet.com/flights/" class="noflights">Flights</a>
+
 							</div>
 						</nav>
 					</div>
@@ -229,7 +314,8 @@ mixpanel.init("83940fae8c02d864c279e7fd617e3f57");</script><!-- end Mixpanel -->
 				
 				
 			</header>
-		<!-- Header Ends here -->	
+		<!-- Header Ends here -->
+	
 	
 		<!-- Container Starts here -->
 			<div id="np-container">
@@ -238,6 +324,7 @@ mixpanel.init("83940fae8c02d864c279e7fd617e3f57");</script><!-- end Mixpanel -->
 
 <script type="text/javascript">
 function destinationSearch(){
+
     var search_destination_query_string = $.trim(document.getElementById("search_destination_query_string").value);
     if(search_destination_query_string != ''){
         document.destination_search_frm.action = base_url+"destination.php?search_destination_query_string="+search_destination_query_string;
@@ -246,6 +333,21 @@ function destinationSearch(){
     var destination_name = document.getElementById("destination_search").value;
     destination_name = $.trim(destination_name);
     if(destination_name != 'Where do you want to go?'){
+  
+		var xmlhttp,xmlDoc;
+		if (window.XMLHttpRequest)
+		{// code for IE7+, Firefox, Chrome, Opera, Safari
+				xmlhttp=new XMLHttpRequest();
+		}
+		else
+		{// code for IE6, IE5
+				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		url=base_url+"ajax-common.php?func=insert-search-keyword&name="+destination_name+"&query_string="+destination_name;
+		xmlhttp.open("GET",url,false);
+		xmlhttp.send();
+		xmlDoc=xmlhttp.response; 
+		
 	destination_name = destination_name.toLowerCase();
 	document.getElementById("search_destination_query_string").value = destination_name;
 	document.destination_search_frm.action = base_url+"suggestion/";
@@ -278,7 +380,8 @@ function destinationSearch(){
 		<div class="clear"></div>
 	</div>
 	</form>
-<!-- Search Block Goes here -->	
+<!-- Search Block Goes here -->
+	
 
 			<!-- Content Starts here -->
 				<section>
@@ -287,13 +390,68 @@ function destinationSearch(){
 						<div id="np-midPanel">
 					<!-- leftPanel Starts here -->
 							<h2>Privacy Policy</h2>
-							<div id="staticContent"><!-- 		@page { margin: 0.79in } 		P { margin-bottom: 0.08in } 		A:link { so-language: zxx } 	--> 	  <p align="JUSTIFY">Oneindia.in Privacy Policy describes how we maintain your personal information when you register for Oneindia.in's services which include Oneindia Mail, Oneindia Bookmarks, Oneindia Videos, Oneindia Blogs, Public Notice &amp; Fans Community on <a href="http://popcorn.oneindia.in/" target="_blank">http://popcorn.oneindia.in/</a> .<br><br><strong>Personal information</strong>  </p> <ul><li><p style="margin-bottom: 0in">You will need to create a <a href="http://user.oneindia.in/" target="_blank">Oneindia 	Accoun</a>t to use the services on Oneindia.in. Oneindia.in will 	collect personal information when you create your Account which 	includes your email address, your name and a password, which is used 	to protect your account from unauthorized access. The Oneindia 	Account allows you to access all of our services including Oneindia 	Mail, Oneindia Bookmarks, Oneindia Videos, Oneindia Blogs, Public 	Notice, Fans community.  	</p> 	</li><li><p style="margin-bottom: 0in">As a Fan Club member, you can 	create a profile which includes personal information, such as your 	name (if no nickname is set), gender, location and also add profile 	photo. This information may be accessed and viewed by other members. 		</p> 	</li><li><p>When you invite new members into your network or send 	messages through the Fan Club, Oneindia.in collects and maintains 	the email addresses associated with the messages.  	</p> </li></ul> <p><strong>Uses and Information Sharing</strong>  </p> <ul><li><p style="margin-bottom: 0in">Oneindia.in maintains and 	processes your personal information and content of your 	communications in order to provide access to Oneindia services and 	the use of Fan Club services.  	</p> 	</li><li><p style="margin-bottom: 0in">Your profile information displayed 	on your Fan Club account includes you name (if no nickname is set), 	gender, location and date of joining the Fan Club.  	</p> 	</li><li><p style="margin-bottom: 0in">When you send messages through the 	Fan Club, your name and email address will be identified in the 	message. We also use your name and email address to notify you of 	new members, messages and or other information, such as invitations 	to join fan clubs, new alerts including ratings, reviews, 	recommendations, and crush notices.  	</p> 	</li><li><p style="margin-bottom: 0in">If you invite another person or 	friends to join the Fan Club, we use the name and email address you 	provide us to contact that person and, if necessary, may send 	reminders to join.  	</p> 	</li><li><p style="margin-bottom: 0in">Friends or other persons can 	search your profile by using the nickname provided in your profile.  	</p> 	</li><li><p style="margin-bottom: 0in">Oneindia.in allows you to upload 	photos &amp; videos to your profile. You understand that Photos &amp; 	Videos posted are the sole responsibility of the person/user from 	which such content originated and such content are publicly 	available for other users to see, rate, recommend and download.  	</p> 	</li><li><p style="margin-bottom: 0in">Users may also post reviews, 	comments, polls, quizzes, so long as the contents are not illegal, 	obscene, threatening, defamatory, invasive of privacy, infringing of 	intellectual property rights, or otherwise injurious to third 	parties or objectionable and not contain political campaigning, 	commercial solicitation, chain letters, mass mailings, or any form 	of "spam".  	</p> 	</li><li><p style="margin-bottom: 0in">Oneindia.in pre-screens user 	submitted polls &amp; quizzes, the right to approve, reject or 	remove such content solely remains with Oneindia.in.  	</p> 	</li><li><p>You agree not to submit material that is copyrighted, 	protected by trade secret or otherwise subject to third party 	proprietary rights, including privacy and publicity rights, unless 	you are the owner of such rights or have written permission from 	their rightful owner to post the material and to grant Oneindia.in 	all of the license rights granted herein.  	</p> </li></ul> <p><strong>Your Fan Club Profile </strong> </p> <ul><li><p style="margin-bottom: 0in">Oneindia.in allows you to view and 	share your information with your friends, friends of friends and all 	Fan Club members.  	</p> 	</li><li><p style="margin-bottom: 0in">You can update your profile 	information anytime by clicking on the "edit" on your 	profile.  	</p> 	</li><li><p>Messages from Oneindia.in or your friends will be sent to 	your Primary email address provided while registering for 	Oneindia.in Account.  	</p> </li></ul> <p><strong>Advertisers</strong><br><br>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>. <br><br><strong>Disclaimer</strong><br><br>We value the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our portal.<br><br>We will not use information about you without your permission and will provide the means for you to manage and control the information that you have provided. You agree to receive promotional communications from us (email and/or SMS) unless you specifically indicate otherwise in writing to us.<br><br>We do not disclose any personal information to advertisers and for other marketing and promotional purposes that could be used to personally identify you, such as your password, credit card number and bank account number. <br><br><strong>More information</strong><br><br>Our Terms &amp; Condition, Privacy Policy and other related legal information applies to all sites owned by the Company. If you have additional questions, please write to <a href="mailto:inquiries@greynium.com" target="_blank">inquiries@greynium.com</a> <br><br><br> </p></div>
+							<div id="staticContent"><!-- 		@page { margin: 0.79in } 		P { margin-bottom: 0.08in } 		A:link { so-language: zxx } 	-->
+<p>Greynium Information Technologies Pvt. Ltd., (hereinafter referred as "<strong>Greynium</strong>" which expression shall, unless repugnant to the context or meaning thereof, be deemed to include its affiliates, parent company, legal representatives and permitted assigns) provides the you, i.e. the user (hereinafter referred to as the "<strong>User</strong>") with access to its content, resources, tools for communication, public forums, commerce platforms, and other services through its network of websites and all mobile applications ( hereinafter referred to as the "<strong>Service</strong>").</p>
+<p>We at Greynium appreciate and respect your privacy and so we have drafted this Privacy Policy (hereinafter referred to as "<strong>this Policy</strong>") which details how we handle your information. Privacy protection is our number one priority. Greynium uses the patent-pending "dual blind" privacy protection technology which allows Greynium to customize advertisement for User's browser without ever knowing User's name, address, social security number, telephone number or any other personally identifiable information. It's completely anonymous. Kindly note that usage of our Services on/through our network of websites and all mobile applications is subject to your absolute and unconditional acceptance of the terms and conditions of this Privacy Policy.</p>
+<p>&nbsp;</p>
+<ol>
+<li><strong>User Information &amp; Usage</strong>
+<p>For accessing or using our Service, you may be required to provide certain information such as name, address, occupation, nationality, credit/debit card details, email, contact number, etc.</p>
+<p>All information, disclosed by you shall be deemed to be disclosed willingly and without any coercion. No liability pertaining to the authenticity/misrepresentation/fraud/negligence, etc. of the information disclosed to us shall lie on Greynium nor will we in any way be responsible to verify any information obtained from you.</p>
+<p>You agree and acknowledge that all information gathered from you may be used by us for the following purposes:</p>
+<ol type="1">
+<li>to maintain, develop, protect and improve our Services, manage your account/orders/subscriptions, etc;</li>
+<li>for communication regarding important notices, changes in any of our user related terms and conditions and policies, promotion and marketing purposes;</li>
+<li>for internal purposes such as auditing, data analysis and research relating our Services;</li>
+<li>in the event you participate in any contests or other promotional activity, for administering those activities;</li>
+<li>for doing strategic and targeted marketing.</li>
+</ol>
+<p>&nbsp;</p>
+</li>
+<li><strong>Collection of Information &amp; Storage</strong>
+<p>We shall collect information from you about you or relating to third parties, during the following stages (if applicable), but not limited to the following stages:</p>
+<ol>
+<li>When you subscribe for any of our Services;</li>
+<li>When you share our content with third parties;</li>
+<li>When you invite others to use our Services;</li>
+<li>When you make any payments for our Services;</li>
+<li>When you gift out subscription or any of our Services to any third party; etc.</li>
+</ol>
+<p>We may make use of cookies and other technologies such as pixel tags and web beacons to gather information about you or to make effective use of the information gathered from you. The aforementioned technology tools shall collect only the information which you voluntarily/agree to supply and unless you identify yourself vide such information, we may not be able to ascertain your identity. Further, all information about you, including information about your internet connection, IP address, etc. may be used by us in our endeavours to cater to you mindful of your interests, preferences and otherwise.</p>
+<p>All information gathered by us shall be stored on servers, log files and any other storage system owned by us or by third parties. Additionally, information may be stored on our computers, hard drives, hard copies, etc.</p>
+<p>&nbsp;</p>
+</li>
+<li><strong>Collection of Information by Third-Party Sites and Advertisers</strong>
+<p>Our network of websites and all mobile applications may contain links to other websites/other applications, whose privacy policies may be different to ours. You should consult the other sites'/applications’ privacy policies as we have no control over information that is submitted to, or collected by, these third parties.</p>
+<p>On our network of websites and all mobile applications, there are third party advertisers and links who advertise their products and/or services and such third party advertisers and links may place or recognize a unique "cookie" on your browser and may use information (not including your name, address, e-mail address) about your visits to our and other websites in order to provide advertisements about goods and services of interest to you.</p>
+<p>&nbsp;</p>
+</li>
+<li><strong>Disclosure</strong>
+<p>You agree and acknowledge that Greynium shall be at liberty to disclose your information or part thereof to its agents/ business partners/ retailers/vendors/ service providers/ third party servers/advertisers and other business associates.</p>
+<p>&nbsp;</p>
+</li>
+<li><strong>Confidentiality</strong>
+<p>We at Greynium endeavor to treat your information as confidential and not cause any harm, theft, loss, unauthorized access, misuse within our storage system, alteration and destruction. In line with the priority for confidentiality, we request you to SSL-enabled browsers such as Chrome, Safari, Firefox or Internet Explorer as such browsers protect the confidentiality of out information while it is transmitted over internet. In the event any of our Services are public forums such at chat rooms you shall be responsible for the information you may disclose on such forums to other users.</p>
+<p>However, in the course of our business we may be required to disclose information about you or part thereof to its agents/ business partners/ retailers/vendors/ service providers/ third party servers/advertisers and other business associates.</p>
+<p>&nbsp;</p>
+</li>
+<li><strong>Legal Disclosure</strong>
+<p>You agree that if so required by law or as per directions of the governmental agency, authority, court, etc, Greynium may be required to disclose all your information and in such an event Greynium is in no manner responsible for informing you or seeking your prior approval.</p>
+<p>&nbsp;</p>
+</li>
+<li><strong>Grievances</strong>
+<p>In the event you have any grievances relating to the Policy, please inform us within 24 hours of occurrence of the instance from which the grievance has arisen, by writing an email to tos@oneindia.co.in. We shall respond to all grievances lodged with us, within 36 hours through emails, telephone calls, personal visits, etc.</p>
+<p>&nbsp;</p>
+</li>
+<li><strong>Amendments</strong>
+<p>Greynium retains unconditional right to modify or amend this Policy without any recourse to you or any requirement of notice of the same to you.</p>
+</li>
+</ol></div>
 						</div>
 					<!-- midContent Ends here -->
 						
 					<!-- rightPanel Starts here -->
-						
-<script type="text/javascript">
+						<script type="text/javascript">
 	$(function() {
 		$( "#fromcity" ).autocomplete({
 			source: base_url+"ajax-common.php?func=search-destination&for=distance",
@@ -378,6 +536,7 @@ function destinationSearch(){
 <div id="np-rightPanel">
 								<aside>
 									
+
 								<!-- Rounded Box Recent Search Starts here -->	
 									<div class="np-titleText" id="recent_head">Recently Viewed</div>
 									<div class="np-roundedBlock" id="recent_body">
@@ -394,43 +553,49 @@ function destinationSearch(){
 	<ul id="listoo">
 							
 			<li class="evenRow">
-				<a href="http://www.nativeplanet.com/bangalore/" title="Bangalore">Bangalore</a><span><a href="javascript:void(0)" onclick="removeSearchItem(1)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/ranikhet/" title="Ranikhet">Ranikhet</a><span><a href="javascript:void(0)" onclick="removeSearchItem(1185)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="oddRow">
-				<a href="http://www.nativeplanet.com/lakshadweep/" title="Lakshadweep">Lakshadweep</a><span><a href="javascript:void(0)" onclick="removeSearchItem(1227)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/hyderabad/" title="Hyderabad">Hyderabad</a><span><a href="javascript:void(0)" onclick="removeSearchItem(69)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="evenRow">
-				<a href="http://www.nativeplanet.com/nainital/" title="Nainital">Nainital</a><span><a href="javascript:void(0)" onclick="removeSearchItem(68)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/haridwar/" title="Haridwar">Haridwar</a><span><a href="javascript:void(0)" onclick="removeSearchItem(75)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="oddRow">
-				<a href="http://www.nativeplanet.com/chittorgarh/" title="Chittorgarh">Chittorgarh</a><span><a href="javascript:void(0)" onclick="removeSearchItem(330)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/longleng/" title="Longleng">Longleng</a><span><a href="javascript:void(0)" onclick="removeSearchItem(1291)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="evenRow">
-				<a href="http://www.nativeplanet.com/danta/" title="Danta">Danta</a><span><a href="javascript:void(0)" onclick="removeSearchItem(818)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/kottayam/" title="Kottayam">Kottayam</a><span><a href="javascript:void(0)" onclick="removeSearchItem(216)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="oddRow">
-				<a href="http://www.nativeplanet.com/bhimashankar/" title="Bhimashankar">Bhimashankar</a><span><a href="javascript:void(0)" onclick="removeSearchItem(855)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/ladakh/" title="Ladakh">Ladakh</a><span><a href="javascript:void(0)" onclick="removeSearchItem(1121)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
 							
 			<li class="evenRow">
-				<a href="http://www.nativeplanet.com/mount-abu/" title="Mount Abu">Mount Abu</a><span><a href="javascript:void(0)" onclick="removeSearchItem(59)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
+				<a href="http://www.nativeplanet.com/pune/" title="Pune">Pune</a><span><a href="javascript:void(0)" onclick="removeSearchItem(749)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
+				<div class="clear"></div>
+			</li>
+
+							
+			<li class="oddRow">
+				<a href="http://www.nativeplanet.com/phek/" title="Phek">Phek</a><span><a href="javascript:void(0)" onclick="removeSearchItem(482)"><img src="http://www.nativeplanet.com/images/closebtn.jpg" alt="Remove" title="Remove"></a></span>
 				<div class="clear"></div>
 			</li>
 
@@ -451,6 +616,7 @@ function destinationSearch(){
 	});
 
 </script>
+
 											</div>
 										</div>
 
@@ -486,7 +652,8 @@ function destinationSearch(){
 									</div>
 								</form>
 																<!-- Rounded Box Recent Search Ends here -->
-																
+								
+								
 
 								<!-- Rounded Box Recent Search Starts here -->	
 									<form name="newsletter_frm" id="newsletter_frm">
@@ -508,144 +675,13 @@ function destinationSearch(){
 									</form>
 								<!-- Rounded Box Recent Search Ends here -->
 																								
-								<div class="np-ads article_right_google_text_ad">
+								<div class="np-ads">
 								
-								<script language="JavaScript">
-								<!--
-								var google_adnum = 0;/* only insert this line for your first ad unit */
-
-								function google_ad_request_done(google_ads) {
-
-								/*
-								* This function is required and is used to display
-								* the ads that are returned from the JavaScript
-								* request. You should modify the document.write
-								* commands so that the HTML they write out fits
-								* with your desired ad layout.
-								*/
-
-								var s = '';
-								var i;
-
-								/*
-								* Verify that there are actually ads to display.
-								*/
-
-								if (google_ads.length == 0) {
-								return;
-								}
-
-								/*
-								* If an image, flash or html ad is returned, display that ad.
-								* Otherwise, build a string containing all of the ads and
-								* then use a document.write() command to print that string.
-								*/
-								if (google_ads[0].type == "flash") {
-								s += '<a href=\"' +
-								google_info.feedback_url + '\" class="ads_by_goolge_txt">Ads by Google</a><br>' +
-								'<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
-								' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="' +
-								google_ad.image_width + '" HEIGHT="' +
-								google_ad.image_height + '"> <PARAM NAME="movie" VALUE="' +
-								google_ad.image_url + '">' +
-								'<PARAM NAME="quality" VALUE="high">' +
-								'<PARAM NAME="AllowScriptAccess" VALUE="never">' +
-								'<EMBED src="' +
-								google_ad.image_url + '" WIDTH="' +
-								google_ad.image_width + '" HEIGHT="' +
-								google_ad.image_height +
-								'" TYPE="application/x-shockwave-flash"' +
-								' AllowScriptAccess="never" ' +
-								' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
-								} else if (google_ads[0].type == "image") {
-								s += '<a href=\"' +
-								google_info.feedback_url + '\" class="ads_by_goolge_txt_right">Ads by Google</a><br> <a href="' +
-								google_ads[0].url + '" target="_top" title="go to ' +
-								google_ads[0].visible_url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
-								google_ads[0].visible_url + '\';return true"><img border="0" src="' +
-								google_ads[0].image_url + '"width="' +
-								google_ads[0].image_width + '"height="' +
-								google_ads[0].image_height + '"></a>';
-								} else if (google_ads[0].type == "html") {
-								s += '<a href=\"' +
-								google_info.feedback_url + '\" style="color:000000;font-size:11px;font-family: arial;">Ads by Google</a><br>' +
-								google_ads[0].snippet;
-								} else {
-								if (google_ads.length == 1) {
-
-								/*
-								* Partners should adjust text sizes
-								* so ads occupy the majority of ad space.
-								*/
-
-								s += '<a href=\"' +
-								google_info.feedback_url + '\" class="ads_by_goolge_txt_right" style="font-family: arial;font-size:12px;color:#000000;text-decoration:none;" target="_blank">Ads by Google</a><br> <a target="_blank" style="text-decoration:none" href="' +
-								google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
-								google_ads[0].visible_url + '\';return true"> <span class="google_text_ad_single_link_right"> <b>' +
-								google_ads[0].line1 + '</b>&nbsp;</span></a><br/> <span class="google_text_ad_desc_right">' +
-								google_ads[0].line2 + '&nbsp;' +
-								google_ads[0].line3 + '<br></span> <a target="_blank" class="google_text_ad_url_right" style="text-decoration:none;" href="' +
-								google_ads[0].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
-								google_ads[0].visible_url + '\';return true"><span>' +
-								google_ads[0].visible_url + '</span></a>';
-
-								} else if (google_ads.length > 1) {
-
-								s += '<a target="_blank" href=\"' + google_info.feedback_url + '\" class="ads_by_goolge_txt" style="font-family: arial;font-size:12px;color:#000000;text-decoration:none;">Ads by Google</a>'
-
-								/*
-								* For text ads, append each ad to the string.
-								*/
-
-								for(i = 0; i < google_ads.length; ++i) {
-								s += '<br style="margin-bottom:15px;"><a target="_blank" style="text-decoration:none" href="' +
-								google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
-								google_ads[i].visible_url + '\';return true"> <span class="google_text_ad_multi_link_right"> <b>' +
-								google_ads[i].line1 + '</b>&nbsp;</span></a><br> <span class="google_text_ad_desc_right_bottom_rt">' +
-								google_ads[i].line2 + ' ' +
-								google_ads[i].line3 + '<br></span> <a target="_blank" class="google_text_ad_url_right" style="text-decoration:none;" href="' +
-								google_ads[i].url + '" onmouseout="window.status=\'\'" onmouseover="window.status=\'go to ' +
-								google_ads[i].visible_url + '\';return true"><span>' +
-								google_ads[i].visible_url + '</span></a>';
-								}
-								}
-								}
-								if (google_ads[0].bidtype == "CPC") {/* insert this snippet for each ad call */
-								google_adnum = google_adnum + google_ads.length;
-								}
-
-								document.write(s);
-								return;
-								}
-								google_ad_client = 'pub-6601380052549923';/* substitute your client_id (pub-#) */
-								google_ad_channel = '4986458515';
-								google_ad_output = 'js';
-								google_max_num_ads = '6';
-								google_ad_type = 'text_html';
-								//google_image_size = '160x600';
-								google_feedback = 'on';
-								google_language = 'en';
-								google_encoding = 'utf8';
-								google_skip = google_adnum;/* to skip for multiple units, insert this snippet for each ad call */
-								// -->
-
-								</script>
-
-								<!--
-								/*
-								* The JavaScript returned from the following page uses
-								* the parameter values assigned above to populate an array
-								* of ad objects. Once that array has been populated,
-								* the JavaScript will call the google_ad_request_done
-								* function to display the ads.
-								*/
-								-->
-
-								<script language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-								</script>
+								<script type="text/javascript">GA_googleFillSlot("nativeplanet-160x600-right");</script>
 								
 								</div></aside>
-							</div>	
+							</div>
+	
 					<!-- rightPanel Ends here -->
 
 							<div class="clear"></div>
@@ -661,7 +697,7 @@ function destinationSearch(){
 					<div id="np-footer">
 						
 						<div class="np-footerLeft">
-							<h4>About Nativeplanet</h4>
+							<h4>About Native Planet</h4>
 							<div class="np-aboutNPText">
 								Native Planet opens up to detailed information on all aspects of travel, a discerning traveller would <a href="http://www.nativeplanet.com/about-us.html">stretch to know</a>.
 							</div>
@@ -669,22 +705,24 @@ function destinationSearch(){
 						<div class="np-footerLeft">
 							<h4>Travel This Season</h4>
 							<ul>
-																<li><a href="http://www.nativeplanet.com/kochi/">Kochi</a></li>
-																<li><a href="http://www.nativeplanet.com/mumbai/">Mumbai</a></li>
-																<li><a href="http://www.nativeplanet.com/coorg/">Coorg</a></li>
-																<li><a href="http://www.nativeplanet.com/lakshadweep/">Lakshadweep</a></li>
+																<li><a href="http://www.nativeplanet.com/goa/">Goa</a></li>
+																<li><a href="http://www.nativeplanet.com/thiruvananthapuram/">Thiruvananthapuram</a></li>
+																<li><a href="http://www.nativeplanet.com/pune/">Pune</a></li>
+																<li><a href="http://www.nativeplanet.com/mysore/">Mysore</a></li>
 															</ul>
 						</div>
 						<div class="np-footerLeft">
-							<h4>Terms  &amp; Conditions</h4>
+							<h4>Terms &amp; Conditions</h4>
 							<ul>
 								<li><a href="http://www.nativeplanet.com/terms-of-service.html">Terms of Service</a></li>
 								<li><a href="http://www.nativeplanet.com/privacy-policy.html">Privacy Policy</a></li>
 								<li><a href="http://www.nativeplanet.com/disclaimer.html">Disclaimer</a></li>
+								<li><a href="http://www.nativeplanet.com/contact-us.html">Contact Us</a></li>
 							</ul>
 						</div>
 						<div class="np-footerLeft last">
-							<div>© 2012 Native Planet. All rights reserved. A Product of Oneindia. </div>
+														<div class="np-footerStateLink"><a href="http://www.nativeplanet.com/sitemap/">Sitemap</a></div>
+														<div>© 2012 Native Planet. All rights reserved. A Product of Oneindia. </div>
 						</div>
 						
 						<div class="clear"></div>
@@ -692,7 +730,9 @@ function destinationSearch(){
 				</footer>
 
 			<!-- Footer  Ends here -->	
-			<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>			<!-- Footer  Ends here -->	
+			<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+			<!-- Footer  Ends here -->	
 			
 			</div>
 		<!-- Container Ends here -->
