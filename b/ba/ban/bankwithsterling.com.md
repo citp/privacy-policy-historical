@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwithsterling.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005124840id_/https%3A//www.bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwithsterling.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117043954id_/https%3A//www.bankwithsterling.com/PrivacyandSecurity/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sterling Bank | Privacy and Security | Privacy Policy
 
@@ -132,8 +132,6 @@ Definitions
 _  \- Our joint marketing partners include issuer of Sterling's credit card and credit life insurance provider._  
   
 ### Other Important Information
-
-For Sterling Savings Bank insurance product customers in Montana: We will safeguard your Customer Information in accordance with the most protective applicable law, whether state or federal.
 
 For California residents only: California law places additional limits on sharing information about California residents. In accordance with California law, we will not share information we collect about California residents with outside companies, except as permitted by law, such as with the consent of the customer or to service the customer's accounts.
 
