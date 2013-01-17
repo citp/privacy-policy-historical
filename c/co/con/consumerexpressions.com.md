@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the consumerexpressions.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014114851id_/http%3A//consumerexpressions.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D3600namename%26catalog_id%3D18638) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerexpressions.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117042921id_/http%3A//consumerexpressions.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D3600namename%26catalog_id%3D18638) for the most accurate reproduction.*
 
 # Consumerexpressions.com
 
 ### Consumerexpressions Privacy Policy
 
-Consumerexpressions is committed to protecting your privacy in a manner that will allow you to use our services with confidence and comfort. The purpose of this Privacy Policy is to describe: 1). what information Consumerexpressions.com collects; 2). how we use it; 3). Your control over the information you give us and; 4). how we protect your information from theft or unauthorized use. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Policy. If you have a question about the Privacy Policy, please contact our [customer service](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namenamename&catalog_id=18638&SID=89dc3976c869f86e8519881c054493c53) department. 
+Consumerexpressions is committed to protecting your privacy in a manner that will allow you to use our services with confidence and comfort. The purpose of this Privacy Policy is to describe: 1). what information Consumerexpressions.com collects; 2). how we use it; 3). Your control over the information you give us and; 4). how we protect your information from theft or unauthorized use. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Policy. If you have a question about the Privacy Policy, please contact our [customer service](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namenamename&catalog_id=18638&SID=269e3d31586ae02e1f2f915dceb6b5db4) department. 
 
 **The Information We Collect**
 
@@ -18,14 +18,14 @@ Your information will be used to improve and personalize the offers Consumerexpr
 
 **The Controls You Have On The Information You Share**
 
-If you do not want us to share contact, postal, e-mail address and demographic information with third party marketers, we can add your name to our "do-not-share" or "do-not-call" list. Please [click here](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namenamename&catalog_id=18638&SID=89dc3976c869f86e8519881c054493c53) to send us a request to be added to this list.
+If you do not want us to share contact, postal, e-mail address and demographic information with third party marketers, we can add your name to our "do-not-share" or "do-not-call" list. Please [click here](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namenamename&catalog_id=18638&SID=269e3d31586ae02e1f2f915dceb6b5db4) to send us a request to be added to this list.
 
-Additionally, you may request to unsubscribe from all Consumerexpressions.com related emails by [clicking here](https://web.archive.org/suppress.htm?user_ref_id=&promo_name=3600namename&catalog_id=18638&gift=71&SID=89dc3976c869f86e8519881c054493c53).   
+Additionally, you may request to unsubscribe from all Consumerexpressions.com related emails by [clicking here](https://web.archive.org/suppress.htm?user_ref_id=&promo_name=3600namename&catalog_id=18638&gift=71&SID=269e3d31586ae02e1f2f915dceb6b5db4).   
 Unsubscribe requests are processed within 72 hours but because of time lags due to scheduling, you may receive one or two additional e-mail messages that are already "in the pipeline." To remove yourself from third-party mailing lists, please follow the unsubscribe instructions provided or contact the third-party directly with your request for removal.
 
-If you supply Consumerexpressions.com with your postal address, you may receive periodic postal mailings from us with information on new products and services or upcoming events. You may also receive mailings from other reputable companies. If you do not want to receive postal mail from Consumerexpressions.com or other reputable companies, please contact our [customer service](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namenamename&catalog_id=18638&SID=89dc3976c869f86e8519881c054493c53) group. Please provide us with your exact name and address and we will be sure your name is removed from our postal list.
+If you supply Consumerexpressions.com with your postal address, you may receive periodic postal mailings from us with information on new products and services or upcoming events. You may also receive mailings from other reputable companies. If you do not want to receive postal mail from Consumerexpressions.com or other reputable companies, please contact our [customer service](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namenamename&catalog_id=18638&SID=269e3d31586ae02e1f2f915dceb6b5db4) group. Please provide us with your exact name and address and we will be sure your name is removed from our postal list.
 
-If you give us your telephone number, you may receive calls from Consumerexpressions.com or other reputable companies. You can, however, have your name put on our do-not-call list by [clicking here](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namenamename&catalog_id=18638&SID=89dc3976c869f86e8519881c054493c53). You can also submit your request online by using this form.
+If you give us your telephone number, you may receive calls from Consumerexpressions.com or other reputable companies. You can, however, have your name put on our do-not-call list by [clicking here](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namenamename&catalog_id=18638&SID=269e3d31586ae02e1f2f915dceb6b5db4). You can also submit your request online by using this form.
 
 **Security**
 
