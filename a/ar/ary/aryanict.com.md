@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the aryanict.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107192437id_/http%3A//www.aryanict.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aryanict.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117041637id_/http%3A//www.aryanict.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - ARYAN ICT Solutions
 
-  
-Our privacy policy is displayed below. This Privacy Policy governs the manner in which AryanIct collects, uses, maintains and discloses information collected from users of her websites. **By becoming a customer you acknowledge to have read this privacy policy and agree to it**.  
- 
+Our privacy policy is displayed below. This Privacy Policy governs the manner in which AryanIct collects, uses, maintains and discloses information collected from users of her websites. **By becoming a customer you acknowledge to have read this privacy policy and agree to it**.
 
 ### Effective January 1, 2011
 
-The use of services from AryanIct [hereafter referred to as "Aryanict.com"] constitutes agreement to these terms. You may view our [Terms of Service here](https://web.archive.org/web/20121107192437id_/http%3A//www.aryanict.com/terms.shtml).
+The use of services from AryanIct [hereafter referred to as "Aryanict.com"] constitutes agreement to these terms. You may view our [Terms of Service here](https://web.archive.org/web/20130117041637id_/http%3A//www.aryanict.com/terms.shtml).
 
 ### Introduction
 
@@ -65,3 +63,5 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 ### Contacting Us
 
 If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [ support@aryanict.com](mailto:support@aryanict.com). You can also correct any factual errors in that information or require us to remove your details from any list under our control. You can also email us at [support@aryanict.com](mailto:support@aryanict.com).
+
+|  | 
