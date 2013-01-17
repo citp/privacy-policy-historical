@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpowerspeed.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226215202id_/http%3A//pcpowerspeed.com/Legal/Privacy.aspx%3Flng%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpowerspeed.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117221500id_/http%3A//pcpowerspeed.com/Legal/Privacy.aspx%3Flng%3Den) for the most accurate reproduction.*
 
 # PCPowerSpeed.com
 
@@ -93,6 +93,6 @@ If we propose to use personal information for any purposes other than those desc
 
 ### 6\. Changes to this Privacy Policy
 
-This Privacy Policy may change from time to time.. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
+This Privacy Policy may change from time to time. You are responsible for periodically reviewing this Privacy Policy for any applicable changes.
 
 **Last Updated:** November 29, 2012
