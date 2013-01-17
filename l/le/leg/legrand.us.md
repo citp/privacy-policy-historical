@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the legrand.us privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015113145id_/http%3A//www.legrand.us/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legrand.us privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117172819id_/http%3A//www.legrand.us/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy | Legrand
+# Privacy | by Legrand
 
 #### Privacy Policy
 
