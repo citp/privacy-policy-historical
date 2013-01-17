@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trusteer.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010095940id_/http%3A//www.trusteer.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trusteer.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117154501id_/http%3A//www.trusteer.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Support
 
@@ -74,7 +74,7 @@ Trusteer regularly reviews its compliance with this Policy. Please feel free to 
 
 Trusteer is a participant in the U.S.-E.U. and U.S.-Switzerland Safe Harbor programs developed by the U.S. Department of Commerce and the European Union and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S., the E.U. and Switzerland.  For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor/ "http://www.export.gov/safeharbor/") Web site. If you would like to contact Trusteer directly about the Safe Harbor program, please send an e-mail to [support@Trusteer.com](mailto:support@Trusteer.com "mailto:support@Trusteer.com")
 
-Trusteer’s Safe Harbor Privacy Policy is posted [here](http://www.trusteer.com/support/customer-safe-harbor-privacy-policy).
+Trusteer's Safe Harbor Privacy Policy is posted [here](http://www.trusteer.com/support/customer-safe-harbor-privacy-policy).
 
 **Changes to this Privacy Policy:**
 
