@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adjingo.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010015831id_/http%3A//www.adjingo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjingo.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117061905id_/http%3A//www.adjingo.com/privacy.php) for the most accurate reproduction.*
 
 # AdJingo.com | Privacy Polocy
 
