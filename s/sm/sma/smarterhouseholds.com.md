@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarterhouseholds.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123220306id_/http%3A//www.smarterhouseholds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterhouseholds.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117050907id_/http%3A//www.smarterhouseholds.com/privacy) for the most accurate reproduction.*
 
 # Smarter Households | Privacy Policy
 
