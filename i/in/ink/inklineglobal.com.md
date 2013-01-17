@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inklineglobal.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530070910id_/http%3A//www.inklineglobal.com/support/sales_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inklineglobal.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117135246id_/http%3A//www.inklineglobal.com/support/sales_privacy.html) for the most accurate reproduction.*
 
-# inKline Global, Inc. | Privacy Policy
+# inKline Global, Inc
 
 inKline Global, Inc. is committed to protecting your privacy. To make your shopping experience more convenient, we must sometimes ask you for information. We maintain the privacy of your information using security technologies and adhering to policies that prevent unauthorized use of any personal information you provide. 
 
@@ -36,7 +36,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
 Subscribe/Unsubscribe  
-[http://www.inklineglobal.com/cgi-bin/mailing/externalus.cgi](http://www.inklineglobal.net/cgi-bin/mailing/igmailsublink.cgi?Your_Name+!*EMAIL*!)  
+[http://www.inklineglobal.com/cgi-bin/mailing/externalus.cgi](http://www.inklineglobal.net/cgi-bin/mailing/igmailsublink.cgi?Your_Name+%21*EMAIL*%21)  
 
 
 **Correct/Update information**  
