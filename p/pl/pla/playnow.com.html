@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the playnow.com privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920024149id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playnow.com privacy policy that was archived on 2013-01-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130117232857id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <script type="text/javascript">
@@ -17,86 +17,39 @@ if(top != self){top.location = location};
 <link type="text/css" href="/resources/css/about.css" rel="stylesheet">
 </head>
 <body class="aboutUsPage secondary" onload="page_load();setSidebar(&quot;About&quot;,&quot;privacy&quot;);">
-<script type="text/javascript">
+<script type="text/javascript" src="/resources/js/jquery/jquery.js">
 //<![CDATA[
-
-    document.disable_logout_timeout = true;
-
 //]]>
 </script>
-<script type="text/javascript" src="/static/portal_ext/js/header.js">
+<script type="text/javascript" src="/static/portal_ext/js/ui/header_bar.js">
 //<![CDATA[
 //]]>
 </script>
 <script type="text/javascript">
 //<![CDATA[
-    var loginNavUrl = '/loginNav';
-    var loginNavCookieDomain = null;
-    
+    var OB = {
+            "headerBar": {}
+    };
+
+
+    $(function () {
+        $.extend(OB.headerBar, new HeaderBar({
+            'uris': {
+                'details': 'https://www.playnow.com/playnow?action=GoHeaderBarDetails',
+                'unreadMsgs': 'https://www.playnow.com/playnow?action=GoNumUnread'
+            }
+        }));
+    });
 //]]>
 </script>
-<script type="text/javascript" src="/static/loginNav/loginNav.js">
-//<![CDATA[
-//]]>
-</script>
-<script type="text/javascript" src="/resources/js/detect.js">
-//<![CDATA[
-//]]>
-</script>
-<div id="mainOverlays">
-<div id="overlayContainer">
-<div id="dashboardContainer" style="display: none">
-<div id="dashboardLeft"></div>
-<div id="dashboardBody">
-<div id="accountName">
-<div class="dashHeading"><b>WELCOME</b></div>
-<div class="dashInfo" id="userName"></div>
-</div>
-<div id="walletBalance">
-<div id="walletHeading">
-<div class="dashHeading"><b>ACCOUNT BALANCE</b></div>
-</div>
-<div id="cashBalance"><span class="dashHeading">Cash Balance:&nbsp;</span>  <span class="dashInfo" id="dash_balance"></span></div>
-<div id="tokenBalance"><span class="dashHeading">Token Balance:&nbsp;</span>  <span class="dashInfo" id="dash_token_balance"></span></div>
-</div>
-<div id="thisSession">
-<div id="sessionHeading">
-<div class="dashHeading"><b>THIS SESSION</b></div>
-</div>
-<div id="timeSpent"><span class="dashHeading">Time Spent:&nbsp;</span> <span class="dashInfo" id="dash_sess_time"></span></div>
-<div id="moneySpent"><span class="dashHeading">Cash Spent:&nbsp;</span>  <span class="dashInfo" id="dash_sess_stakes"></span></div>
-</div>
-<div id="dashButtons">
-<div class="buttonRound smBtn thinText redBtn"><a href="/playnow?action=GoMyAcctHome">MY ACCOUNT</a></div>
-<div class="buttonRound smBtn thinText redBtn"><a href="/playnow?action=DoLogout">LOGOUT</a></div>
-</div>
-</div>
-<div id="dashboardRight"></div>
-</div>
-<div id="loginContainer" style="display: none">
-<div id="loginContent">
-<form id="loginFm">
-<div id="loginHeading"><b>LOGIN TO PLAY</b></div>
-<div id="loginInput">
-<div class="loginField">Username <input name="username" type="text"></div>
-<div class="loginField">Password <input name="password" type="password"></div>
-<a href="">Forgot password?</a></div>
-<div id="loginText"><input name="loginCheck" class="loginCheck" type="checkbox"><span>I am a resident of BC and I am 19 years of age or older and confirm I am in BC at the time of PlayNow Games purchase.</span></div>
-<span id="loginButton"><a href="javascript:void(0)" onclick="submitLoginFm()">LOGIN TO PLAY</a></span> <span id="loginCancel"><a href="javascript:void(0)" onclick="hide('loginContainer')"><span>CANCEL</span></a></span> 
-<div id="loginLink"><a href="/playnow?action=GoRegister">Not a member? Register to play!</a></div>
-</form>
-</div>
-</div>
-</div>
-</div>
 <script type="text/javascript">
 //<![CDATA[
 
     function goLogin() {
         if (!location.href.match(/action=DoLogout/gi)) {
-            location.href = "/playnow?action=GoLogin&return_url=" + escape(location.href);
+            location.href = "/go/login?return_url=" + escape(location.href);
         } else {
-            location.href = "/playnow?action=GoLogin";
+            location.href = "/go/login?";
         }
     }
 
@@ -106,9 +59,60 @@ if(top != self){top.location = location};
 <div id="headerContainer">
 <div id="headerContent">
 <div id="headerLogo"><a href="/"></a></div>
-<div id="headerRegister" style="display: block;">
-<div class="buttonRound smBtn thinText redBtn"><a href="/playnow?action=GoRegister&amp;WT.ac=globalheader|registerbutton">REGISTER</a></div>
+<div id="headerRegister" style="display: none">
+<div class="buttonRound smBtn thinText redBtn"><a href="/go/register?WT.ac=globalheader|registerbutton">REGISTER</a></div>
 <div class="buttonRound smBtn thinText redBtn"><a href="javascript:%20goLogin();">LOGIN</a></div>
+</div>
+<div id="notificationsBarContainer" style="display: none">
+<div id="notifcationsBarContent">
+<div class="accountBalance">
+<h2>ACCOUNT BALANCE</h2>
+<div class="cashBalance">
+<p id="hbar-cash-balance"></p>
+<h3>CASH BALANCE</h3>
+<a href="/my-account/account-balance"></a></div>
+<div class="heldCash">
+<p id="hbar-held-cash"></p>
+<div class="infoButton">
+<div class="infoBubble">
+<h3>HELD CASH</h3>
+<p>Held Cash are winnings from tokens that have not yet completed their wagering requirements (WR). Once their WR is met, it is moved to your cash balance.</p>
+</div>
+</div>
+<h3>HELD CASH</h3>
+<a href="/my-account/my-promotions"></a></div>
+<div class="tokenBalance">
+<p id="hbar-token-balance"></p>
+<h3>TOKEN BALANCE</h3>
+<a href="/my-account/my-promotions"></a></div>
+</div>
+<div class="thisSession">
+<h2>THIS SESSION</h2>
+<div class="cashSpent">
+<p id="hbar-session-spent"></p>
+<h3>CASH SPENT</h3>
+</div>
+<div class="timeSpent">
+<p id="hbar-time-spent"></p>
+<h3>TIME SPENT</h3>
+</div>
+</div>
+<div class="myAccount">
+<div class="inbox">
+<div class="icon"></div>
+<span class="numberIndicator" style="display:none"></span> <a href="/my-account/inbox"></a></div>
+<div class="userName">
+<div class="icon"></div>
+<h1>Hi <span id="hbar-first-name"></span></h1>
+<div class="icon menu_arrow"></div>
+<ul>
+<li><a href="/my-account">My Account</a></li>
+<li><a href="/my-account/my-promotions">My Promotions</a></li>
+<li><a id="hbar-logout" href="/playnow?action=DoLogout">Logout</a></li>
+</ul>
+</div>
+</div>
+</div>
 </div>
 </div>
 <div id="topNavMenu">
@@ -132,12 +136,12 @@ if(top != self){top.location = location};
 <hr>
 <div id="leftNavContainer">
 <ul>
-<li class="togglable"><span class="togglerWrapper"><span class="nonToggler"><a href="/about-playnow/index.html" class="level1" id="About"><span><span>About Playnow.com</span></span></a></span><span class="toggler level1toggler"><a class="open" href="#"></a></span></span> 
-<ul class="toggleClosed" style="display: block;">
+<li class="togglable"><span class="togglerWrapper"><span class="nonToggler"><a href="/about-playnow/index.html" class="level1" id="About"><span><span>About Playnow.com</span></span></a></span><span class="toggler level1toggler"><a class="closed" href="#"></a></span></span> 
+<ul class="toggleClosed">
 <li><a id="help" href="/about-playnow/help.html" class="level2">Help</a></li>
 <li><a id="news" href="/about-playnow/news.html" class="level2">News</a></li>
 <li><a id="site" href="/about-playnow/site-map.html" class="level2">Site Map</a></li>
-<li><a id="privacy" href="/about-playnow/privacy.html" class="level2 active">Privacy</a></li>
+<li><a id="privacy" href="/about-playnow/privacy.html" class="level2">Privacy</a></li>
 <li><a id="legal" href="/about-playnow/legal.html" class="level2">Legal</a></li>
 <li><a id="security" href="/about-playnow/account-security.html" class="level2">Account Security</a></li>
 <li><a id="contact" href="/about-playnow/contact.html" class="level2">Contact Us</a></li>
@@ -194,7 +198,7 @@ if(top != self){top.location = location};
 <p class="featureBody">In order to use PlayNow.com, you must first complete the registration form and create a user account. During registration you are required to provide personal information (such as name, address, date of birth, phone number, email address and credit card information). We use this information to verify your identity (BC Resident over age 19) and register you for our website. We also use this information to expedite enrolment in other services provided by BCLC or BCLC's service providers that BCLC thinks may be of interest to you.</p>
 <p class="featureBody">Upon successful registration, you will receive a Welcome Letter, a monthly newsletter and the occasional promotional offering. See "Communications from the Site" for complete details.</p>
 <p class="featureBody"><strong>Deposit of Funds</strong></p>
-<p class="featureBody">Once registered for an account, you will need to deposit funds to use our website and services. You must provide financial information, such as credit card number and expiry date. We use this information solely for the purpose of processing a deposit into your account. If there is difficulty processing the deposit, you will receive notification on your screen and will be prompted to contact our Consumer Services department.</p>
+<p class="featureBody">Once registered for an account, you will need to deposit funds to use our website and services. You must provide financial information, such as credit card number and expiry date. We use this information solely for the purpose of processing a deposit into your account. If there is difficulty processing the deposit, you will receive notification on your screen and will be prompted to contact our Customer Support department.</p>
 <p class="featureBody"><strong>Withdrawal of Funds</strong></p>
 <p class="featureBody">In the event that you wish to withdraw funds from your account, we will collect your bank account information (transit #, institution #, account #). This information is used to facilitate the transfer of funds from your PlayNow.com wallet into your bank account, and is only accessed upon your request.</p>
 <p class="featureBody"><strong>Surveys or Contests</strong></p>
@@ -209,7 +213,7 @@ if(top != self){top.location = location};
 <p class="featureBody"><strong>Service-related Announcements</strong></p>
 <p class="featureBody">All service-related announcements (i.e. website temporarily down for maintenance) are present on our website and will not be communicated directly with you.</p>
 <p class="featureBody"><strong>Customer Service</strong></p>
-<p class="featureBody">Any personal information you provide will be used to prove your identity if you contact our Consumer Services department. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.</p>
+<p class="featureBody">Any personal information you provide will be used to prove your identity if you contact our Customer Support department. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.</p>
 <p class="featureBody"><strong>Identity Verification</strong></p>
 <p class="featureBody">To determine if you qualify to participate on our website, we use your name, address, date of birth and credit card information to verify that you meet our age (19+) and residency (B.C. residents only) requirements. A soft check against your credit file is performed as part of the verification process. This check will not affect your credit rating or credit score.</p>
 <p class="featureTitle">Information Sharing and Disclosure</p>
@@ -231,9 +235,8 @@ if(top != self){top.location = location};
 <p class="featureBody">If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by:</p>
 <ul class="featureBody basicUl">
 <li>following the "unsubscribe" link included in each newsletter or communication</li>
-<li>calling Consumer Services at 1-866-815-0222</li>
-<li>emailing us at <a href="mailto:consumerservices@bclc.com">consumerservices@bclc.com</a></li>
-<li>completing the <a href="/about-playnow/contact/feedback.html">General Feedback Form</a> on PlayNow.com</li>
+<li>calling Customer Support at 1-866-815-0222</li>
+<li><a href="/about-playnow/contact/emailus.html">Email us</a></li>
 </ul>
 <p class="featureBody">You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.</p>
 <p class="featureTitle">Log Files</p>
@@ -260,15 +263,15 @@ if(top != self){top.location = location};
 <p class="featureTitle">Social Media Features</p>
 <p class="featureBody">Our Web site includes Social Media Features, such as the Facebook Like button and the Twitter Tweet button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are hosted by a third party. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
 <p class="featureTitle">Public Forums</p>
-<p class="featureBody">Our website offers publicly accessible in-game chat. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our in-game chat, contact us at <a href="mailto:consumerservices@bclc.com">consumerservices@bclc.com</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p class="featureBody">Our website offers publicly accessible in-game chat. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our in-game chat, please contact Customer Support at 1-866-815-0222 or <a href="/about-playnow/contact/emailus.html">email us</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
 <p class="featureTitle">Winner Stories</p>
 <p class="featureBody">We post winner stores on our web site which may contain personal information, such as name and city of residence. Player consent is governed by the Rules and Regulations Respecting Lotteries and Gaming and the PlayNow.com Player Agreement that is acknowledged upon registration for an account.</p>
 <p class="featureTitle">Access to Personal information</p>
 <p class="featureBody">If your personal information changes, or if you no longer desire our service, you may edit, update, or delete your information by:</p>
 <ul class="featureBody basicUl">
 <li>making the change on your account page</li>
-<li>emailing us at <a href="mailto:consumerservices@bclc.com">consumerservices@bclc.com</a></li>
-<li>contacting us by telephone at 1-866-815-0222</li>
+<li><a href="/about-playnow/contact/emailus.html">emailing Customer Support</a></li>
+<li>calling Customer Support at 1-866-815-0222</li>
 <li>sending us a letter via postal mail at the contact information listed below</li>
 </ul>
 <p class="featureBody">We will respond to all requests within 30 days.</p>
@@ -276,7 +279,7 @@ if(top != self){top.location = location};
 <p class="featureBody">The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.</p>
 <p class="featureBody">When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).</p>
 <p class="featureTitle">Data Retention</p>
-<p class="featureBody">We will retain your information for as long as your account is active or as needed to provide services to you. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us at <a href="mailto:consumerservices@bclc.com">consumerservices@bclc.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p class="featureBody">We will retain your information for as long as your account is active or as needed to provide services to you. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact Customer Support at 1-866-815-0222 or <a href="/about-playnow/contact/emailus.html">email us</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
 <p class="featureTitle">Changes in this Privacy Statement</p>
 <p class="featureBody">We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by means of a notice on PlayNow.com prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
 <p class="featureBody">If you would like more information about our privacy practices or believe that we could do something better, please contact our Information and Privacy department. While we may not be able to implement all suggestions, we will give them all genuine consideration.</p>
@@ -369,13 +372,13 @@ if(top != self){top.location = location};
 <div>
 <h4>Poker</h4>
 <ul>
-<li><a onclick="redirectToGettingStarted('FT|pokerclient');" href="http://cpn-download.g2-networks.com/DL/CPN/pokerplaynow.exe">Download Poker</a></li>
+<li><a href="/poker/getting-started/?WT.ac=FT|poker|gettingstarted|home">Download Poker</a></li>
 <li><a href="/poker/getting-started/?WT.ac=FT|poker|gettingstarted|home">Get Started with Poker</a></li>
 <li><a href="/poker/at-the-poker-table/?WT.ac=FT|poker|atthepokertable|home">At the Poker Table</a></li>
 <li><a href="/poker/poker-games/?WT.ac=FT|poker|pokergames|home">Poker Games</a></li>
 <li><a href="/poker/tournaments/?WT.ac=FT|poker|tournaments|home">Poker Tournaments</a></li>
 <li><a href="/poker/promotions/?WT.ac=FT|poker|promotions|home">Poker Promotions</a></li>
-<li><a href="http://twitter.com/#!/playnowpoker?WT.ac=FT|twitterpokerbutton" target="_blank"><img src="/resources/images/global/tiny-twitter-icon.png"></a> <a href="http://www.youtube.com/user/PlayNowCasino?WT.ac=FT|youtubepokerbutton" target="_blank"><img src="/resources/images/global/tiny-ytube-icon.png"></a></li>
+<li><a href="http://twitter.com/#!/playnowpoker" target="_blank"><img src="/resources/images/global/tiny-twitter-icon.png"></a> <a href="http://www.youtube.com/user/PlayNowCasino?WT.ac=FT|youtubepokerbutton" target="_blank"><img src="/resources/images/global/tiny-ytube-icon.png"></a></li>
 </ul>
 </div>
 <div>
@@ -388,7 +391,7 @@ if(top != self){top.location = location};
 <li><a href="/playnow?action=GoCat&amp;name=Scratch%20Cards&amp;WT.ac=FT|games|scratchcards">Play Scratch Cards</a></li>
 <li><a href="/playnow?action=GoCat&amp;name=Slots%20&amp;WT.ac=FT|casino|allslots">View All Slots</a></li>
 <li><a href="/casino/promotions/?WT.ac=FT|casino|promotions|home">Casino Promotions</a></li>
-<li><a href="https://www.facebook.com/PlayNowCasino?WT.ac=FT|facebookbutton" target="_blank"><img src="/resources/images/global/tiny-facebook-icon.png"></a> <a href="http://twitter.com/#!/playnowcasino?WT.ac=FT|twitterbutton" target="_blank"><img src="/resources/images/global/tiny-twitter-icon.png"></a> <a href="http://www.youtube.com/user/PlayNowCasino?WT.ac=FT|youtubecasinobutton" target="_blank"><img src="/resources/images/global/tiny-ytube-icon.png"></a></li>
+<li><a href="https://www.facebook.com/PlayNowCasino?WT.ac=FT|facebookbutton" target="_blank"><img src="/resources/images/global/tiny-facebook-icon.png"></a> <a href="http://twitter.com/#!/playnowcasino" target="_blank"><img src="/resources/images/global/tiny-twitter-icon.png"></a> <a href="http://www.youtube.com/user/PlayNowCasino?WT.ac=FT|youtubecasinobutton" target="_blank"><img src="/resources/images/global/tiny-ytube-icon.png"></a></li>
 </ul>
 </div>
 <div>
@@ -401,7 +404,7 @@ if(top != self){top.location = location};
 <li><a href="/sports/help/?WT.ac=FT|sports|help">Sports Help</a></li>
 <li><a href="http://blog.playnow.com?WT.ac=FT|sports|blog">Sports Blog</a></li>
 <li><a href="/sports/promotions/?WT.ac=FT|sports|promotions">Sports Promotions</a></li>
-<li><a href="https://www.facebook.com/PlayNowSports?WT.ac=FT|facebooksportsbutton" target="_blank"><img src="/resources/images/global/tiny-facebook-icon.png"></a> <a href="http://twitter.com/#!/PlayNowSports?WT.ac=FT|twittersportsbutton" target="_blank"><img src="/resources/images/global/tiny-twitter-icon.png"></a> <a href="https://plus.google.com/b/114866087716701427259/114866087716701427259?WT.ac=FT|googleplussportsbutton" target="_blank"><img src="/resources/images/global/tiny-gplus-icon.gif"></a> <a href="http://www.youtube.com/user/PlayNowSports?WT.ac=FT|youtubesportsbutton" target="_blank"><img src="/resources/images/global/tiny-ytube-icon.png"></a></li>
+<li><a href="https://www.facebook.com/PlayNowSports?WT.ac=FT|facebooksportsbutton" target="_blank"><img src="/resources/images/global/tiny-facebook-icon.png"></a> <a href="http://twitter.com/#!/PlayNowSports" target="_blank"><img src="/resources/images/global/tiny-twitter-icon.png"></a> <a href="https://plus.google.com/b/114866087716701427259/114866087716701427259?WT.ac=FT|googleplussportsbutton" target="_blank"><img src="/resources/images/global/tiny-gplus-icon.gif"></a> <a href="http://www.youtube.com/user/PlayNowSports?WT.ac=FT|youtubesportsbutton" target="_blank"><img src="/resources/images/global/tiny-ytube-icon.png"></a></li>
 </ul>
 </div>
 <div>
@@ -453,7 +456,7 @@ if(top != self){top.location = location};
 </ul>
 </div>
 </div>
-<div id="tabSlide" style="">
+<div id="tabSlide" style="display:none;">
 <div id="gameSense-tab"></div>
 <div id="gameSense-tab-content">
 <div id="close-gameSense-tab"><a href=""></a></div>
@@ -523,24 +526,7 @@ $(function () {showGameSenseTab();});
  <noscript>
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="https://webtrends.bclc.com/dcsmgnref1a8zq1b6i6qv2u2u_3k7k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2" /></div>
 </noscript></div>
-<script type="text/javascript">
-//<![CDATA[
-var loginNavUrl = '/loginNav';
-//]]>
-</script>
- <script src="/static/office/js/form.js" type="text/javascript">
-//<![CDATA[
-//]]>
-</script>
- <script src="/static/portal_ext/js/header.js" type="text/javascript">
-//<![CDATA[
-//]]>
-</script>
- <script src="/static/loginNav/loginNav.js" type="text/javascript">
-//<![CDATA[
-//]]>
-</script>
- <script src="/resources/js/nav_orbis/combined.js" type="text/javascript">
+<script src="/static/loginNav/loginNav.js" type="text/javascript">
 //<![CDATA[
 //]]>
 </script>
