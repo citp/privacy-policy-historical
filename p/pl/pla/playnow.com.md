@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playnow.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920024149id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playnow.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117232857id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.*
 
 # Privacy | PlayNow.com
 
@@ -54,7 +54,7 @@ Upon successful registration, you will receive a Welcome Letter, a monthly newsl
 
 **Deposit of Funds**
 
-Once registered for an account, you will need to deposit funds to use our website and services. You must provide financial information, such as credit card number and expiry date. We use this information solely for the purpose of processing a deposit into your account. If there is difficulty processing the deposit, you will receive notification on your screen and will be prompted to contact our Consumer Services department.
+Once registered for an account, you will need to deposit funds to use our website and services. You must provide financial information, such as credit card number and expiry date. We use this information solely for the purpose of processing a deposit into your account. If there is difficulty processing the deposit, you will receive notification on your screen and will be prompted to contact our Customer Support department.
 
 **Withdrawal of Funds**
 
@@ -84,7 +84,7 @@ All service-related announcements (i.e. website temporarily down for maintenance
 
 **Customer Service**
 
-Any personal information you provide will be used to prove your identity if you contact our Consumer Services department. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
+Any personal information you provide will be used to prove your identity if you contact our Customer Support department. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
 **Identity Verification**
 
@@ -121,9 +121,8 @@ Choice/Opt-out
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by:
 
   * following the "unsubscribe" link included in each newsletter or communication
-  * calling Consumer Services at 1-866-815-0222
-  * emailing us at [consumerservices@bclc.com](mailto:consumerservices@bclc.com)
-  * completing the [General Feedback Form](https://web.archive.org/about-playnow/contact/feedback.html) on PlayNow.com
+  * calling Customer Support at 1-866-815-0222
+  * [Email us](https://web.archive.org/about-playnow/contact/emailus.html)
 
 
 
@@ -177,7 +176,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 Public Forums
 
-Our website offers publicly accessible in-game chat. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our in-game chat, contact us at [consumerservices@bclc.com](mailto:consumerservices@bclc.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our website offers publicly accessible in-game chat. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our in-game chat, please contact Customer Support at 1-866-815-0222 or [email us](https://web.archive.org/about-playnow/contact/emailus.html). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Winner Stories
 
@@ -188,8 +187,8 @@ Access to Personal information
 If your personal information changes, or if you no longer desire our service, you may edit, update, or delete your information by:
 
   * making the change on your account page
-  * emailing us at [consumerservices@bclc.com](mailto:consumerservices@bclc.com)
-  * contacting us by telephone at 1-866-815-0222
+  * [emailing Customer Support](https://web.archive.org/about-playnow/contact/emailus.html)
+  * calling Customer Support at 1-866-815-0222
   * sending us a letter via postal mail at the contact information listed below
 
 
@@ -204,7 +203,7 @@ When you enter sensitive information (such as a credit card number) on our order
 
 Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide services to you. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us at [consumerservices@bclc.com](mailto:consumerservices@bclc.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide services to you. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact Customer Support at 1-866-815-0222 or [email us](https://web.archive.org/about-playnow/contact/emailus.html). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Changes in this Privacy Statement
 
