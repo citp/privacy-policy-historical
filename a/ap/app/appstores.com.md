@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appstores.com privacy policy that was archived on 2012-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120715064555id_/http%3A//appgalleries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appstores.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117181101id_/http%3A//appgalleries.com/privacy) for the most accurate reproduction.*
 
 # AppGalleries.com - Privacy Policy
 
