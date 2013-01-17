@@ -1,7 +1,14 @@
-> *The following text is extracted and transformed from the buildeazy.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016032537id_/http%3A//www.buildeazy.com/privacy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildeazy.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117182513id_/http%3A//www.buildeazy.com/privacy.html%23privacy) for the most accurate reproduction.*
 
 # buildeazy.com Policies
 
+[](http://www.buildeazy.com/)
+
+## BuildEazy™ Policies
+
+|  Recommend   
+---|---  
+  
 **Policy regarding copyright and the use of BuildEazy data.**
 
 **General**   
@@ -10,7 +17,7 @@ All free articles in this site are intended for private and individual use.
 All rights reserved, Copyright © Buildeazy.com Ltd   
 Reproduction of any article contained in this website is prohibited without expressed written permission. 
 
-Under no circumstance do we allow any article, or part of, contained in www.buildeazy.com to be displayed in any other website **except** for excerpts from relevant paragraphs used solely for the purpose of promoting www.buildeazy.com or to describe hyperlinks to any of the BuildEazy™ plans or projects. See '[Linking to BuildEazy](https://web.archive.org/web/20121016032537id_/http%3A//www.buildeazy.com/privacy.html#linking)' below. 
+Under no circumstance do we allow any article, or part of, contained in www.buildeazy.com to be displayed in any other website **except** for excerpts from relevant paragraphs used solely for the purpose of promoting www.buildeazy.com or to describe hyperlinks to any of the BuildEazy™ plans or projects. See '[Linking to BuildEazy](https://web.archive.org/web/20130117182513id_/http%3A//www.buildeazy.com/privacy.html#linking)' below. 
 
 We are now committed to taking action against those that infringe upon our copyright and will act vigorously against any violation. 
 
@@ -53,8 +60,9 @@ You may unsubscribe at any time by following the simple instructions in the emai
 **Linking to BuildEazy**
 
 You are welcome to link to any BuildEazy™ free plans or projects without permission.   
-You my also copy a short excerpt from that particular plan or project to use solely as a description or a summary.   
-For more information and examples [ click here. ](https://web.archive.org/web/20121016032537id_/http%3A//www.buildeazy.com/source.html)
+You my also copy a short excerpt from that particular plan or project to use solely as a description or a summary, although we would prefer that you wrote any summary in your own words to avoid search engine confusion. 
 
 **Link exchange policy**   
-[ Click here](https://web.archive.org/web/20121016032537id_/http%3A//www.buildeazy.com/link_policy.html) for our link exchange policy 
+Sorry! We no longer exchange links. 
+
+[](http://www.facebook.com/pages/BuildEazy/188052247921222)         [](http://twitter.com/#!/buildeazy)         [](https://plus.google.com/112029407538310054710/posts)
