@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014144736id_/http%3A//www.sesamecommunications.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117163820id_/http%3A//www.sesamecommunications.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | Sesame Communications
 
@@ -89,15 +89,6 @@ Return to Top
 
 * * *
 
-#### Sesame Webinars
-
-Social Media is an amazing phenomenon that has revolutionized how we use the Internet and how we interact.
-
-**[Social Media: Beyond Facebook](http://info.sesamecommunications.com/EventWebinarEmmott12.1011_RegistrationForm.html)**  
-with **Larry Emmott**  
-October 11, 2012 9:00 a.m. PST  
-[Learn more →](http://info.sesamecommunications.com/EventWebinarEmmott12.1011_RegistrationForm.html)
-
 * * *
 
-Sesame™, Sesame 24-7™, Top Patient Appeal Rated™, Sesame Designed Site™, Premium Sesame Designed Site™, Sesame First Call™ and Sesame Voice™ are trademarks of Sesame Communications. All other trademarks are the property of their respective owners. Copyright © 2000-2012 Sesame Communications, Inc. All rights reserved. [Terms of Use](https://web.archive.org/terms.php) | [Privacy Policy](https://web.archive.org/privacy-policy.php) | [Sitemap](https://web.archive.org/sitemap.php)
+Sesame™, Sesame 24-7™, Top Patient Appeal Rated™, Sesame Designed Site™, Premium Sesame Designed Site™, Sesame First Call™ and Sesame Voice™ are trademarks of Sesame Communications. All other trademarks are the property of their respective owners. Copyright © 2000-2013 Sesame Communications, Inc. All rights reserved. [Terms of Use](https://web.archive.org/terms.php) | [Privacy Policy](https://web.archive.org/privacy-policy.php) | [Sitemap](https://web.archive.org/sitemap.php)
