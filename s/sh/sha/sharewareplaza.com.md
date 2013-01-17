@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sharewareplaza.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010061355id_/http%3A//sharewareplaza.com/info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharewareplaza.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117133128id_/http%3A//www.sharewareplaza.com/info/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - SharewarePlaza
 
-**[Home](https://web.archive.org/) » Privacy policy**
+**[Home](https://web.archive.org/) » Privacy Policy**
 
 SharewarePlaza.com Privacy policy
 
