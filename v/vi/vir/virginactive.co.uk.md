@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the virginactive.co.uk privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015003426id_/http%3A//www.virginactive.co.uk/en/legals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginactive.co.uk privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117161732id_/http%3A//www.virginactive.co.uk/en/legals/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin Active
+
+## Privacy Policy
 
 ## Virgin Active Privacy Policy
 
