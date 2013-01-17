@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatexfiles.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101011311id_/http%3A//www.affiliatexfiles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatexfiles.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117081320id_/http%3A//www.affiliatexfiles.com/privacy) for the most accurate reproduction.*
 
 # Affiliatexfiles Privacy Policy
 
