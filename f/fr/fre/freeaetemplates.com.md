@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeaetemplates.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016122820id_/http%3A//privacy-policy.truste.com/verified-policy/www.freeaetemplates.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeaetemplates.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117112436id_/http%3A//privacy-policy.truste.com/verified-policy/www.freeaetemplates.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.freeaetemplates.com
 
