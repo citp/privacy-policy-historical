@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfgrowthengine.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231051731id_/http%3A//www.selfgrowthengine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfgrowthengine.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118001150id_/http%3A//www.selfgrowthengine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Self Growth Engine
 
