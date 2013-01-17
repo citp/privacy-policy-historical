@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the listverse.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022131141id_/http%3A//listverse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listverse.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117081134id_/http%3A//listverse.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Listverse
 
 **Our Commitment To Privacy** \- effective: June 31, 2007 
 
