@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the orient-express.com privacy policy that was archived on 2012-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121012025207id_/http%3A//www.orient-express.com/security.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orient-express.com privacy policy that was archived on 2013-01-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130117024158id_/http%3A//www.orient-express.com/security.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -82,6 +82,9 @@
 			 	        $('#fancybox-frame').load(function() { // wait for frame to load and then gets it's height
 				              $('#fancybox-content').height($(this).contents().find('body').height()+40);
 				              $('#fancybox-content').width($(this).contents().find('body').width());
+				              if ($('#fancybox-overlay').height() < $('#fancybox-content').height()) {
+				                    $('#fancybox-overlay').height($('#fancybox-content').height()+400);
+				              }
 				        });
 				}
 		        });
@@ -106,7 +109,7 @@
 
 
 
-	
+
 		<div class="cookieOptOutLayer" id="cookieOptOutLayer"></div>
 		<script>
 		function cookieOptOutLayer() {
@@ -114,7 +117,6 @@
 		function hideCookieLayer() {
 		}
 		</script>
-	
 
 
 
@@ -268,6 +270,31 @@
 
 <script type="text/javascript" src="/web/includes/orex/reservations_data.js"></script>
 <script>
+
+function startBookingMobile() {
+		var n = document.getElementById('reservationBtnMobApp');
+                n.innerHTML = "<p style='padding-right:30px;'>Searching...</p>";
+                $('#reservationBtnMobApp').addClass('loading');   
+
+		var sLoc = "https://secure.netbookerng.com/mobileibe/?partnerid=16019505";
+		var sQS = "";
+		if ('null'!='null') {
+			_gaq.push(['_link', 'http://agents.orient-express.com/web/agents/null.jsp']);
+		} else {  
+			var session = new Date();
+			var bustCache = session.getTime();
+			var img = new Image();
+ 			img.onload = function() {
+ 			     var tracker = _gat._getTrackerByName();  
+ 			     _gaq.push(['_trackEvent', 'Reservations Top Nav', 'Availability Search', 'Mobile App']);
+ 			     setTimeout('document.location= "' + tracker._getLinkerUrl(sLoc + sQS) + '"', 300);
+   			};
+  			img.onerror = function() {
+  			 	document.location = 'http://' + domain + '/web/down.jsp?hid=' + sHid.substr(0,4);
+  			};
+  			img.src = "http://secure.netbookerng.com/content/brands/vc/images/pegasus_logo.gif?time='+bustCache"; 
+		}
+}
 
 $(function() {
 	$('#dropdownSearch').css('cursor', 'pointer');
@@ -423,9 +450,9 @@ $(function() {
 <!-- asia pacific map start -->
 <div id="asiaPacificMap">
        <img src="http://static.orient-express.com/orex2/images/maps/orex2_map_asia_pacific01.jpg" alt="Asia Pacific" width="1366" height="470" border="0" usemap="#Map6">
-<map name="Map6" id="Map6"><area shape="rect" coords="750,209,949,244" href="/collection/hotels/ubud_hanging_gardens.jsp" alt="Ubud Hanging Gardens"><area shape="rect" coords="678,170,917,205" href="/collection/trains/eastern_and_oriental_express.jsp" alt="Eastern and Oriental Express"><area shape="rect" coords="696,114,890,157" href="/collection/hotels/la_residence_d_angkor.jsp" alt="La Residence d'Angkor"><area shape="rect" coords="681,55,879,98" href="/collection/hotels/la_residence_phou_vao.jsp" alt="La Residence Phou Vao"><area shape="rect" coords="588,245,749,280" href="/collection/hotels/jimbaran_puri_bali.jsp" alt="Jimbaran Puri Bali"><area shape="rect" coords="492,152,632,186" href="/collection/hotels/napasai.jsp" alt="Napasai"><area shape="rect" coords="444,106,666,141" href="/collection/hotels/the_governors_residence.jsp" alt="The Governor's Residence"><area shape="rect" onclick="$('#northAmericaMap,#southAmericaMap,#europeMap,#africaMap,#asiaPacificMap').fadeOut();$('#worldMap').fadeIn();" coords="118,403,328,443" href="#" alt="Back to world map">
-  <area shape="rect" coords="447,31,658,66" href="/collection/riverboats/road_to_mandalay.jsp" alt="Road to Mandalay">
-  <area shape="rect" coords="346,73,625,107" href="/collection/riverboats/orcaella.jsp" alt="Orcaella">
+<map name="Map6" id="Map6"><area shape="rect" coords="749,207,948,242" href="/collection/hotels/ubud_hanging_gardens.jsp" alt="Ubud Hanging Gardens"><area shape="rect" coords="678,170,917,205" href="/collection/trains/eastern_and_oriental_express.jsp" alt="Eastern and Oriental Express"><area shape="rect" coords="696,114,890,157" href="/collection/hotels/la_residence_d_angkor.jsp" alt="La Residence d'Angkor"><area shape="rect" coords="681,55,879,98" href="/collection/hotels/la_residence_phou_vao.jsp" alt="La Residence Phou Vao"><area shape="rect" coords="589,243,750,278" href="/collection/hotels/jimbaran_puri_bali.jsp" alt="Jimbaran Puri Bali"><area shape="rect" coords="492,152,632,186" href="/collection/hotels/napasai.jsp" alt="Napasai"><area shape="rect" coords="441,105,663,140" href="/collection/hotels/the_governors_residence.jsp" alt="The Governor's Residence"><area shape="rect" onclick="$('#northAmericaMap,#southAmericaMap,#europeMap,#africaMap,#asiaPacificMap').fadeOut();$('#worldMap').fadeIn();" coords="118,403,328,443" href="#" alt="Back to world map">
+  <area shape="poly" coords="450,31,450,64,639,62,661,87,673,82,646,31,449,29" href="/collection/riverboats/road_to_mandalay.jsp" alt="Road to Mandalay">
+  <area shape="poly" coords="668,92,617,70,546,73,546,83,343,84,341,102,665,100" href="/collection/riverboats/orcaella.jsp" alt="Orcaella">
 </map>
 </div>
 <!-- asia pacific map finish -->
@@ -442,7 +469,7 @@ $(function() {
 <!-- europe map start -->
 <div id="europeMap">
        <img src="http://static.orient-express.com/orex2/images/maps/orex2_map_europe01.jpg" alt="Europe" width="1366" height="470" border="0" usemap="#Map4">
-<map name="Map4" id="Map4"><area shape="rect" coords="496,272,617,304" href="/collection/hotels/la_residencia.jsp" alt="La Residencia"><area shape="rect" coords="823,18,1002,63" href="/collection/hotels/grand_hotel_europe.jsp" alt="Grand Hotel Europe"><area shape="rect" coords="572,68,707,105" href="/collection/trains/northern_belle.jsp" alt="Northern Belle"><area shape="rect" coords="388,55,568,89" href="/collection/trains/the_royal_scotsman.jsp" alt="The Royal Scotsman"><area shape="rect" coords="346,121,586,155" href="/collection/hotels/le_manoir_aux_quat_saisons.jsp" alt="Le Manoir aux Quat' Saisons"><area shape="rect" coords="588,110,730,144" href="/collection/trains/british_pullman.jsp" alt="British Pullman"><area shape="rect" coords="638,145,912,175" href="/collection/trains/venice_simplon_orient_express.jsp" alt="Venice Simplon-Orient-Express"><area shape="rect" coords="486,167,635,204" href="/collection/riverboats/afloat_in_france.jsp" alt="Afloat in France"><area shape="rect" coords="677,179,812,216" href="/collection/hotels/hotel_cipriani.jsp" alt="Hotel Cipriani"><area shape="rect" coords="678,216,911,251" href="/collection/hotels/villa_san_michele.jsp" alt="Villa San Michele"><area shape="rect" coords="698,254,898,291" href="/collection/hotels/hotel_caruso.jsp" alt="Hotel Caruso"><area shape="rect" coords="709,300,872,337" href="/collection/hotels/grand_hotel_timeo.jsp" alt="Grand Hotel Timeo"><area shape="rect" coords="369,209,677,244" href="/collection/hotels/hotel_splendido.jsp" alt="Hotel Splendido and Splendido Mare"><area shape="rect" coords="542,305,700,342" href="/collection/hotels/villa_sant_andrea.jsp" alt="Villa Sant' Andrea"><area shape="poly" coords="374,251,575,256,574,269,485,270,481,282,376,281,374,251" href="/collection/hotels/hotel_ritz.jsp" alt="Hotel Ritz"><area shape="rect" onclick="$('#northAmericaMap,#southAmericaMap,#europeMap,#africaMap,#asiaPacificMap').fadeOut();$('#worldMap').fadeIn();" coords="118,403,328,443" href="#" alt="Back to world map"><area shape="rect" coords="360,316,504,353" href="/collection/hotels/reids_palace.jsp" alt="Reid's Palace">
+<map name="Map4" id="Map4"><area shape="rect" coords="448,208,588,242" href="/collection/hotels/hotel_du_palais.jsp" alt="Afloat in France"><area shape="rect" coords="496,272,617,304" href="/collection/hotels/la_residencia.jsp" alt="La Residencia"><area shape="rect" coords="823,18,1002,63" href="/collection/hotels/grand_hotel_europe.jsp" alt="Grand Hotel Europe"><area shape="rect" coords="572,68,707,105" href="/collection/trains/northern_belle.jsp" alt="Northern Belle"><area shape="rect" coords="388,55,568,89" href="/collection/trains/the_royal_scotsman.jsp" alt="The Royal Scotsman"><area shape="rect" coords="346,121,586,155" href="/collection/hotels/le_manoir_aux_quat_saisons.jsp" alt="Le Manoir aux Quat' Saisons"><area shape="rect" coords="588,110,730,144" href="/collection/trains/british_pullman.jsp" alt="British Pullman"><area shape="rect" coords="638,145,912,175" href="/collection/trains/venice_simplon_orient_express.jsp" alt="Venice Simplon-Orient-Express"><area shape="rect" coords="486,167,635,204" href="/collection/riverboats/afloat_in_france.jsp" alt="Afloat in France"><area shape="rect" coords="677,179,812,216" href="/collection/hotels/hotel_cipriani.jsp" alt="Hotel Cipriani"><area shape="rect" coords="764,260,915,295" href="/collection/hotels/villa_san_michele.jsp" alt="Villa San Michele"><area shape="rect" coords="764,303,959,340" href="/collection/hotels/hotel_caruso.jsp" alt="Hotel Caruso"><area shape="rect" coords="764,347,927,384" href="/collection/hotels/grand_hotel_timeo.jsp" alt="Grand Hotel Timeo"><area shape="rect" coords="765,220,1073,255" href="/collection/hotels/hotel_splendido.jsp" alt="Hotel Splendido and Splendido Mare"><area shape="rect" coords="542,305,700,342" href="/collection/hotels/villa_sant_andrea.jsp" alt="Villa Sant' Andrea"><area shape="poly" coords="374,251,575,256,574,269,485,270,481,282,376,281,374,251" href="/collection/hotels/hotel_ritz.jsp" alt="Hotel Ritz"><area shape="rect" onclick="$('#northAmericaMap,#southAmericaMap,#europeMap,#africaMap,#asiaPacificMap').fadeOut();$('#worldMap').fadeIn();" coords="118,403,328,443" href="#" alt="Back to world map"><area shape="rect" coords="360,316,504,353" href="/collection/hotels/reids_palace.jsp" alt="Reid's Palace">
 </map>
 </div>
 <!-- europe map finish -->
@@ -503,22 +530,32 @@ $(window).load(function(e) {
 
 <div class="logoRes"><img src="http://static.orient-express.com/orex2/images/misc/orex2_logo.png" class="logoFull"></div>
 <div class="dropDownContent">
+
 <h2>Reservations</h2>
-<p class="intro">Book online</p>
 
-<div class="dropText">
-<p>What are you looking for?</p>
-</div>
+<!-- ############# start mobile link to Pegs Mobile Booking App -->
 
-<div class="btnRes" id="gobuttonReservations">
-<p>Go</p><input type="hidden" id="reservations_url" value=""><input type="hidden" id="reservations_category" value="">
-</div>
+<!-- ############# end mobile link to Pegs Mobile Booking App -->
 
-<div class="resDropContainer">
-<input id="reservations" type="text" placeholder="Enter a property name, country or region" onfocus="this.select();" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
-<div class="btnGo" id="dropdownReservations"></div>
-<div class="clear"></div>
-</div>
+
+           <p class="intro">Book online</p>
+
+           <div class="dropText">
+                      <p>What are you looking for?</p>
+           </div>
+
+           <div class="btnRes" id="gobuttonReservations">
+                      <p>Go</p><input type="hidden" id="reservations_url" value=""><input type="hidden" id="reservations_category" value="">
+           </div>
+
+           <div class="resDropContainer">
+                      <input id="reservations" type="text" placeholder="Enter a property name, country or region" onfocus="this.select();" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+                      <div class="btnGo" id="dropdownReservations"></div>
+                      <div class="clear"></div>
+           </div>
+
+
+
 
 <div class="clear"></div>
 
@@ -552,27 +589,22 @@ $(window).load(function(e) {
     
     <div class="dropContentBlockRight">
 
-    <div class="dropContentBlock">Let us inspire you</div>
-    
-    <div class="dropContentBlock">
-    <a href="/journeys/asia/magic_of_bali.jsp" onclick="trackEventAndGo('Reservations Top Nav', 'Click', 'Promo: Magic of Bali', '/journeys/asia/magic_of_bali.jsp', '');return false;"><img src="http://static.orient-express.com/orex2/images/190x133images/pbal_190x133_pool05.jpg"></a>   
-    <div class="square"></div>
-    <a href="/journeys/asia/magic_of_bali.jsp" onclick="trackEventAndGo('Reservations Top Nav', 'Click', 'Promo: Magic of Bali', '/journeys/asia/magic_of_bali.jsp', '');return false;"><p class="intro">Discover Bali</p>
-    <p>6 Nights: Jimbaran and Ubud in Bali, Indonesia</p>
-    <p>Experience both sides of this breathtaking land. Blend tranquil days beside the turquoise sea with the chance to explore dramatic volcanoes and emerald-green gorges.</p></a>
-    <div class="clear"></div>
+	<div class="dropContentBlock">   
+            <a href="/journeys/asia/magic_of_bali.jsp" onclick="trackEventAndGo('Reservations Top Nav', 'Click', 'Promo: Discover Bali', '/journeys/asia/magic_of_bali.jsp', '');return false;"><img src="http://static.orient-express.com/orex2/images/190x133images/pbal_190x133_pool05.jpg"></a>
+            <div class="square"></div>
+            <a href="/journeys/asia/magic_of_bali.jsp" onclick="trackEventAndGo('Reservations Top Nav', 'Click', 'Promo: Discover Bali', '/journeys/asia/magic_of_bali.jsp', '');return false;"><p class="intro">Discover Bali</p>
+                    <p></p>
+                    <p>Experience both sides of this breathtaking land. Blend tranquil days beside the turquoise sea with the chance to explore dramatic volcanoes and emerald-green gorges.</p></a>
+            <div class="clear"></div>
+    </div><div class="dropContentBlock">   
+            <a href="/journeys/peru/insiders_peru.jsp" onclick="trackEventAndGo('Reservations Top Nav', 'Click', 'Promo: Insider\'s Peru', '/journeys/peru/insiders_peru.jsp', '');return false;"><img src="http://static.orient-express.com/orex2/images/190x133images/onaz_190x133_exterior01.jpg"></a>
+            <div class="square"></div>
+            <a href="/journeys/peru/insiders_peru.jsp" onclick="trackEventAndGo('Reservations Top Nav', 'Click', 'Promo: Insider\'s Peru', '/journeys/peru/insiders_peru.jsp', '');return false;"><p class="intro">Insider's Peru</p>
+                    <p></p>
+                    <p>Experience Cuzco close up before heading to the Sacred Valley and Machu Picchu. Expert guides accompany you, bringing fascinating ancient cultures to life.</p></a>
+            <div class="clear"></div>
     </div>
-    
-    <div class="dropContentBlock">
-   
-     <a href="/journeys/peru/insiders_peru.jsp" onclick="trackEventAndGo('Reservations Top Nav', 'Click', 'Promo: Insiders\' Peru', '/journeys/peru/insiders_peru.jsp', '');return false;"><img src="http://static.orient-express.com/orex2/images/190x133images/onaz_190x133_exterior01.jpg"></a>
-    <div class="square"></div>
-     <a href="/journeys/peru/insiders_peru.jsp" onclick="trackEventAndGo('Reservations Top Nav', 'Click', 'Promo: Insiders\' Peru', '/journeys/peru/insiders_peru.jsp', '');return false;"><p class="intro">Insiders' Peru</p>
-    <p>6 Nights: Lima, Cuzco, Sacred Valley and Machu Picchu</p>
-    <p>Experience Cuzco close up before heading to the Sacred Valley and Machu Picchu. Expert guides accompany you, bringing fascinating ancient cultures to life.</p></a>
-    <div class="clear"></div>
-    </div> 
-    
+
     </div>   
 
 <div class="clear"></div>
@@ -598,7 +630,10 @@ $(window).load(function(e) {
 		  <div id="container">
 		    <div class="flexslider">
 		     <!-- main nav start -->
+ 
 		      
+
+
 
 
 
@@ -661,7 +696,8 @@ if (typeof jQuery == 'undefined') {
 $(function () {
         //outgoing links
         // exclude oe.com links on this hotel site e.g. reservations page
-	$('a[href^="http"]:not([href*="://' + document.domain + '"]):not([href*="orient-express.com/web/orex"]):not([href*="http://www.orient-express.com"])').click(function() {
+        //exclude if a class is set to ignoreOutboundLink (used for fancybox forms)
+	$('a[href^="http"]:not([href*="://' + document.domain + '"]):not([href*="orient-express.com/web/orex"]):not([href*="http://www.orient-express.com"]):not(".ignoreOutboundLink")').click(function() {
 		recordOutboundLink($(this).attr('href'),'outgoing','click',$(this).attr('target'));
 	});			
 });
@@ -789,13 +825,13 @@ function trackEventAndGo(category, action, label, link, target) {
 	
 		  	    <!--Paragraph 1  starts-->
 <div class="clear"></div>
-<p><strong><a name="top" id="top"></a></strong></p><p>Last Updated: 14 September 2011
+<p><strong><a name="top" id="top"></a></strong></p><p>Last Updated: 7 Jan 2013 &nbsp;
 <br><br>
 The Orient-Express Group* respects the privacy of every individual who visits our hotels, trains, cruises or websites and protecting the privacy and personal data of our visitors is of the utmost importance to us. This policy establishes how we handle the information that (i) you provide to us when you stay or travel with us and (ii) we collect from you when you visit our websites.
 <br><br>
 You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information for certain purposes. We will make all practical efforts to respect your wishes (subject to any overriding legal obligations).
 <br><br>
-In order to provide multiple access points to the services and products we offer, the Orient-Express Group operates directly, or through its affiliates or service providers, many websites, including www.orient-express.com, www.orient-expresstrains.com, www.orient-expresshotels.com, www.orient-expressgifts.com, www.orient-express.fr, www.orient-express.co.jp, www.orient-express.co.ru, www.21club.com, www.perrycabin.com, www.charlestonplace.com,&nbsp;www.elencanto.com,&nbsp;www.maromahotel.com, www.lasamanna.com, www.casadesierranevada.com, www.peru-tour.com, www.copacabanapalace.com.br, www.hoteldascataratas.com, www.mira-park.com, www.machupicchu.orient-express.com, www.monasteriohotel.com, www.mesa18restaurant.com, www.mesa18restaurante.com, www.mesa18restaurante.com.pe, www.riosagrado.com, www.grand-hotel-europe.com www.ritz.es, www.ritzmadrid.com, www.hotellaresidencia.com, www.hotelsplendido.com, www.villasanmichele.com, www.hotelcaruso.com, www.hotelcipriani.com, www.hotelvillasantandrea.com, www.grandhoteltimeo.com, www.manoir.com, www.reidspalace.com, www.eagleislandcamp.com, www.khwairiverlodge.com, www.savuteelephantcamp.com, www.alouettebarge.com, www.amaryllisbarge.com, www.hirondellebarge.com, www.napoleonbarge.com, www.fleurdelysbarge.com, www.jimbaranpuribali.com, www.ubudhanginggardens.com, www.residencedangkor.com, www.residencephouvao.com, www.napasai.com, www.governorsresidence.com, www.roadtomandalay.net, www.vsoe.co.uk, www.perurail.com, www.royalscotsman.com, www.mountnelson.co.za, www.orient-express-safaris.co.za, www.westcliff.co.za, www.portocupecoy.com, www.portocupecoyvillas.com, www.romanticgetaways.orient-express.com, and www.afloatinfrance.com, www.palacionazarenas.com, www.palacionazarenas.com.pe. Any one of these websites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information.&nbsp;</p><p><br>
+In order to provide multiple access points to the services and products we offer, the Orient-Express Group operates directly, or through its affiliates or service providers, many websites, including www.orient-express.com, www.orient-expresstrains.com, www.orient-expresshotels.com, www.orient-expressgifts.com, www.orient-express.fr, www.orient-express.co.jp, www.orient-express.co.ru, www.21club.com, www.perrycabin.com, www.charlestonplace.com,&nbsp;www.elencanto.com,&nbsp;www.maromahotel.com, www.lasamanna.com, www.casadesierranevada.com, www.peru-tour.com, www.copacabanapalace.com.br, www.hoteldascataratas.com, www.mira-park.com, www.machupicchu.orient-express.com, www.monasteriohotel.com, www.mesa18restaurant.com, www.mesa18restaurante.com, www.mesa18restaurante.com.pe, www.riosagrado.com, www.grand-hotel-europe.com www.ritz.es, www.ritzmadrid.com, www.hotellaresidencia.com, www.hotelsplendido.com, www.villasanmichele.com, www.hotelcaruso.com, www.hotelcipriani.com, www.hotelvillasantandrea.com, www.grandhoteltimeo.com, www.manoir.com, www.reidspalace.com, www.eagleislandcamp.com, www.khwairiverlodge.com, www.savuteelephantcamp.com, www.alouettebarge.com, www.amaryllisbarge.com, www.hirondellebarge.com, www.napoleonbarge.com, www.fleurdelysbarge.com, www.jimbaranpuribali.com, www.ubudhanginggardens.com, www.residencedangkor.com, www.residencephouvao.com, www.napasai.com, www.governorsresidence.com, www.roadtomandalay.net, www.vsoe.com, www.perurail.com, www.royalscotsman.com, www.mountnelson.co.za, www.orient-express-safaris.co.za, www.westcliff.co.za, www.portocupecoy.com, www.portocupecoyvillas.com, www.romanticgetaways.orient-express.com, and www.afloatinfrance.com, www.hotel-du-palais.com, www.palacionazarenas.com, www.palacionazarenas.com.pe. Any one of these websites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information.&nbsp;</p><p><br>
 If you have any specific questions that are not covered in the FAQ section below, please contact:
 <br><br>
 Central Marketing
@@ -891,11 +927,9 @@ We do not associate the information in a website visitor’s cookie with any oth
 <br><br>
 Further information about cookies and how they work is available at www.allaboutcookies.org
 <br><br><a name="Q4" id="Q4"></a>Q4. Which cookies does the Orient-Express Group use?
-<br><br>
-The main cookies we use on our Orient-Express websites are:
-<br><br></p><table style="border-collapse: collapse;" cellspacing="1" cellpadding="1" border="1"><tbody><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">Cookie Name
-<br></td><td style="text-align: left; vertical-align: middle;">Function
-<br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">ARPT
+<br><br></p><p>The main cookies we use on our Orient-Express websites are:</p><p><br></p><table style="border-collapse: collapse;" class="cookies"><tbody><tr style="text-align: left; vertical-align: middle;"><th style="text-align: left; vertical-align: middle;">Cookie Name
+<br></th><th style="text-align: left; vertical-align: middle;">Function
+<br></th></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">ARPT
 <br></td><td style="text-align: left; vertical-align: middle;">Ensures that the user stays on the same server throughout their visit, ensuring consistent functionality throughout a visit. This cookie is destroyed at the end of the user’s visit
 <br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">JSESSIONID
 <br></td><td style="text-align: left; vertical-align: middle;">Ensures that the user’s session is maintained and works in conjunction with ARRPT to ensure consistent functionality throughout a visit. This cookie is destroyed at the end of the user’s visit
@@ -923,9 +957,7 @@ internal_user_placement
 <br>
 lounge_user_id
 <br><br></td><td style="text-align: left; vertical-align: middle;" rowspan="1">These two cookie allows us to identify the user and customise their experience as appropriate as well as helping with form entry and the like by pre-populating fields containing name and address information.
-<br></td></tr></tbody></table><br>
-In addition, the following are the main third party cookies we use (which are each subject to their own privacy policies):
-<br><br><table style="border-collapse: collapse;" cellspacing="1" cellpadding="1" border="1"><tbody><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;"><strong>Third Party Cookie</strong><br></td><td style="text-align: left; vertical-align: middle;"><strong>Function</strong><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">Google Analytics
+<br></td></tr></tbody></table><p><br></p><p>In addition, the following are the main third party cookies we use (which are each subject to their own privacy and cookie policies):</p><p><br></p><table style="border-collapse: collapse;" class="cookies"><tbody><tr style="text-align: left; vertical-align: middle;"><th style="text-align: left; vertical-align: middle;"><strong>Third Party Cookie</strong><br></th><th style="text-align: left; vertical-align: middle;"><strong>Function</strong><br></th></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">Google Analytics
 <br></td><td style="text-align: left; vertical-align: middle;">Monitors usage of site (using non-personally identifiable data). Privacy policy available at <a target="_blank" href="http://www.google.com/intl/en/analytics/privacyoverview.html">www.google.com/intl/en/analytics/privacyoverview.html</a><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">Facebook Like Button
 <br></td><td style="text-align: left; vertical-align: middle;">Allows users to choose to show Orient-Express websites on their Facebook site. Privacy policy available at <a href="http://www.facebook.com/about/privacy/">www.facebook.com/about/privacy/</a><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">Google +1 Button
 <br></td><td style="text-align: left; vertical-align: middle;">Allows users to choose to show Orient-Express websites on their Google + account. Privacy policy available at <a href="http://www.google.com/intl/en/+/policy/+1button.html">www.google.com/intl/en/+/policy/+1button.html</a><br><br><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">DoubleClick Advertising
@@ -933,7 +965,9 @@ In addition, the following are the main third party cookies we use (which are ea
 and Google Adwords
 <br><br></td><td style="text-align: left; vertical-align: middle;">Allows the Orient-Express Group to monitor (using non-personally identifiable data) the number and type of relevant searches made for it on Google. Privacy policy available at <a target="_blank" href="http://www.google.com/intl/en/privacy/ads/">www.google.com/intl/en/privacy/ads/</a><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">Yahoo Advertising and Campaign Tags
 <br></td><td style="text-align: left; vertical-align: middle;">Allows the Orient-Express Group to monitor (using non-personally identifiable data) the number and type of relevant searches made for it on Yahoo. Privacy policy available at <a target="_blank" href="http://info.yahoo.com/privacy/us/yahoo/details.html">info.yahoo.com/privacy/us/yahoo/details.html</a><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;" rowspan="1">Yandex
-<br></td><td style="text-align: left; vertical-align: middle;" rowspan="1">Allows users to search for Orient-Express Group websites Allows users to search for Orient-Express Group websites in the Russian language. Privacy policy available at <a target="_blank" href="http://company.yandex.ru/legal/en/confidential/">company.yandex.ru/legal/en/confidential/</a><br></td></tr></tbody></table><br>
+<br></td><td style="text-align: left; vertical-align: middle;" rowspan="1">Allows users to search for Orient-Express Group websites in the Russian language. Privacy policy available at <a target="_blank" href="http://company.yandex.ru/legal/en/confidential/">company.yandex.ru/legal/en/confidential/</a><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;" rowspan="1">Quantcast&nbsp;
+<br></td><td style="text-align: left; vertical-align: middle;" rowspan="1">Quantcast enable the direct-measurement of traffic and audience characteristics, using non-persoanlly identifiable data. Privacy policy available at <a target="_blank" href="http://www.quantcast.com/privacy">http://www.quantcast.com/privacy</a><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;" rowspan="1">Google Remarketing Tags &nbsp;
+<br></td><td style="text-align: left; vertical-align: middle;" rowspan="1">Orient-Express are using remarketing to advertise online. &nbsp;This means that third-party vendors, including Google, will show ads on sites across the Internet. Google will use cookies to serve ads based on past visits to this website. You can opt-out of Google's use of cookies by visiting the <a href="http://www.google.com/settings/ads/onweb" target="_blank">Ads Preferences Manager</a>, or through the <a href="http://www.networkadvertising.org/choices/" target="_blank">Network Advertising Initiative opt-out page</a>.</td></tr></tbody></table><br>
 Unless you have adjusted your browser setting so that it will refuse cookies (<a href="#Q5">Q5 How can I turn cookies off?</a>), our system will issue cookies when you log on to any of our websites.
 <br><br><a name="Q5" id="Q5"></a>Q5. How can I turn cookies off?
 <br><br>
@@ -1015,7 +1049,6 @@ e-mail: lopd@ritz.es
 <br><br>
 Registered in the Mercantile record of Madrid 20-08-1908, to the volume the 55th, I foliate aheet 2345, inscription 1.
 <br><a href="item.aspx?tcm=16#top">Back to top</a><br><br><br><br>
-Copyright © Orient-Express Hotels Ltd. (for itself and on behalf of its corporate group) 1995-2011. All rights reserved. <a target="_blank" href="copyright.jsp">Full Copyright Notice</a><br><br><br>
 <!--Paragraph 1  ends-->
 <div class="clear"></div>
 
@@ -1080,6 +1113,7 @@ Copyright © Orient-Express Hotels Ltd. (for itself and on behalf of its corpora
 
 
 
+
 <div class="footer">
   <div class="footerContainer">
   
@@ -1104,6 +1138,9 @@ Copyright © Orient-Express Hotels Ltd. (for itself and on behalf of its corpora
         <div class="ctaQuick"><a href="http://www.oeh.com/jobs" target="_blank"><img src="http://static.orient-express.com/orex2/images/icons/orex2_icon_careers.png" alt="Careers">
           <p>Careers</p></a>
         </div>
+
+        <div class="clear"></div>
+
         <div class="ctaQuick"><a href="http://www.orient-expresshotelsltd.com" target="_blank"><img src="http://static.orient-express.com/orex2/images/icons/orex2_icon_corporate.png" alt="Corporate &amp; Investors">
           <p>Corporate &amp; Investors</p></a>
         </div>
@@ -1153,6 +1190,7 @@ Copyright © Orient-Express Hotels Ltd. (for itself and on behalf of its corpora
 <a href="http://bit.ly/LsEjVi" target="_blank"><img src="http://static.orient-express.com/orex2/images/icons/orex2_icon_pinterest.png" alt="Pinterest"></a> 
 <a href="http://bit.ly/xbzaNK" target="_blank"><img src="http://static.orient-express.com/orex2/images/icons/orex2_icon_youtube.png" alt="YouTube"></a> 
 <a href="javascript:void(0);" id="newsletterLink"><img src="http://static.orient-express.com/orex2/images/icons/orex2_icon_newsletter.png" alt="Newsletter"></a> 
+<a href="http://bit.ly/UooL5T" target="_blank"><img src="http://static.orient-express.com/orex2/images/icons/orex2_icon_instagram.png" alt="Instagram"></a> 
 <a href="http://itunes.com/apps/orientexpresstraveller" target="_blank"><img src="http://static.orient-express.com/orex2/images/icons/orex2_icon_app.png" alt="Download App"></a> 
 
 </div> 
@@ -1176,7 +1214,7 @@ Copyright © Orient-Express Hotels Ltd. (for itself and on behalf of its corpora
    <div class="clear"></div>
    
    <div class="copyright">
-      <p>Copyright © Orient-Express Hotels Ltd. (for itself and on behalf of its corporate group) 1995-2012. All rights reserved. <a href="javascript:popUp('http://www.orient-express.com/copyright.jsp');">Full Copyright Notice</a>.</p>
+      <p>Copyright © Orient-Express Hotels Ltd. (for itself and on behalf of its corporate group) 1995-2013. All rights reserved. <a href="javascript:popUp('http://www.orient-express.com/copyright.jsp');">Full Copyright Notice</a>.</p>
     </div>
   
   </div>
@@ -1263,6 +1301,7 @@ $(function() {
          var liveURLtoTrack = '';
          var devNewsletterLink = '';
          var liveNewsletterLink = '';
+        
 
 		devNewsletterLink = 'https://staging.orient-express.com/web/epc/login.jsp?hid=orex&parentdomain=www.orient-express.com&secure=n';
 		liveNewsletterLink = 'https://www.orient-express.com/web/epc/login.jsp?hid=orex&parentdomain=www.orient-express.com&secure=n';
