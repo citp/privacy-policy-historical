@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the itisallhere.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022094951id_/http%3A//www.itisallhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itisallhere.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118205153id_/http%3A//www.itisallhere.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | It Is All Here
+# Privacy Policy
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.itisallhere.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
-
-Welcome to Your itisallhere.com (the “Site”).
+[Welcome](http://www.itisallhere.com/ "Welcome") to Your itisallhere.com (the “Site”).
 
 We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (”Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Your Site (collectively, “Services”) (”Authorized Customers”).
 
@@ -54,7 +52,7 @@ All of our employees are familiar with our security policy and practices. The Pe
 
 **How can Visitors correct any inaccuracies in Personally Identifiable Information?** ****
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [support@itisallhere.com](mailto:support@relationshipsolver.com)
+Visitors and Authorized Customers may [contact us](http://www.itisallhere.com/contact-us/ "contact us") to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [support@itisallhere.com](mailto:support@relationshipsolver.com)
 
 **Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?** ****
 
@@ -67,5 +65,3 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:** ****
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.itisallhere.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
