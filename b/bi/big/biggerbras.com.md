@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505010238id_/http%3A//www.biggerbras.com/d-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118133513id_/http%3A//www.biggerbras.com/service/d-privacy.shtml) for the most accurate reproduction.*
 
 # BiggerBras.com: Privacy Policy
 
@@ -14,7 +14,7 @@ BGB does not release or sell the names and addresses of its customers obtained t
 
 Credit Cards and Security 
 
-BGB uses the secure server software (SSL) encryption to protect your personal data so that the personal information you provide to complete your purchase remains confidential and secure. BGB uses [Plug 'n Pay Technologies, Inc.](http://www.plugnpay.com/) as our gateway for secure commerce transactions. Your personal information is used only to process your order, is protected under our agreement with Plug-n-Pay, and is not shared with any other entity.
+BGB uses the secure server software (SSL) encryption to protect your personal data so that the personal information you provide to complete your purchase remains confidential and secure. BGB uses [Plug 'n Pay Technologies, Inc.](http://www.plugnpay.com/) as our gateway for secure commerce transactions. Your personal and credit card information is used only to process your order, is protected under our agreement with Plug-n-Pay, and is not shared with any other person(s) or entity, including employees of Big Girls Bras.
 
 SSL technology encrypts all of your personal information including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.
 
@@ -65,3 +65,5 @@ Our website uses the remarketing features of Google adwords. Third party vendors
 Conclusion 
 
 BGB receives thousands of visitors each day to our website and we reserve the right to modify or adapt this policy to further protect the privacy of our visitors, the security, aesthetics and functionality of our site, and to provide a quality shopping experience for our customers.
+
+Do you have a bra or swimsuit question? Ask us on Facebook. <http://www.facebook.com/BigGirlsBras>
