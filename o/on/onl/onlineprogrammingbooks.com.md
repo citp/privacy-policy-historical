@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineprogrammingbooks.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023153359id_/http%3A//www.onlineprogrammingbooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineprogrammingbooks.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118205744id_/http%3A//www.onlineprogrammingbooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | OnlineProgrammingBooks.com
 
