@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the optumhealthfinancial.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102022018id_/http%3A//www.optumhealthfinancial.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optumhealthfinancial.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118045514id_/http%3A//www.optumhealthfinancial.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - OptumHealthFinancial.com
 
 * * *
 
 **Financial Privacy Rule Notice:**  
-To read more about our privacy policy as it applies to OptumHealth Bank as a regulated financial institution, and OptumHealth Financial Services, please [click here](https://web.archive.org/web/20121102022018id_/http://www.optumhealthfinancial.com/privacypolicy/~/media/DDB76BE8A7804DCE817A502D5403AB16.pdf), which links to our Financial Notice of Privacy Practices.
+To read more about our privacy policy as it applies to OptumHealth Bank as a regulated financial institution, and OptumHealth Financial Services, please [click here](https://web.archive.org/web/20130118045514id_/http://www.optumhealthfinancial.com/privacypolicy/~/media/DDB76BE8A7804DCE817A502D5403AB16.pdf), which links to our Financial Notice of Privacy Practices.
 
 **Social Security Number Protection Policy:**  
 Protecting personal information is important to OptumHealth Financial Services and its current and future subsidiaries. It is the policy of OptumHealth and its current and future affiliates to protect the confidentiality of Social Security numbers (“SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, electronic, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
