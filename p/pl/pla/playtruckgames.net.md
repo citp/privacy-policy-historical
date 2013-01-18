@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtruckgames.net privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215010659id_/http%3A//www.playtruckgames.net/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtruckgames.net privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118095324id_/http%3A//www.playtruckgames.net/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy -
 
