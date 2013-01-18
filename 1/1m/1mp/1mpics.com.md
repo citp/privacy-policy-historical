@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1mpics.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217061016id_/http%3A//www.1mpics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1mpics.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118010422id_/http%3A//www.1mpics.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - One Million Pictures
+# Privacy Policy - Million Pictures
 
 **Personal identification information**  
   
