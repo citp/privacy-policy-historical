@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favista.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016204644id_/http%3A//www.favista.com/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favista.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118065037id_/http%3A//www.favista.com/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Favista
 
