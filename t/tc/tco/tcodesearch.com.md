@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcodesearch.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021092806id_/http%3A//www.tcodesearch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcodesearch.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118120237id_/http%3A//www.tcodesearch.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
