@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111111617id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtraorbit.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118203836id_/http%3A//www.xtraorbit.com/core/docs/main_user_policy.php) for the most accurate reproduction.*
 
 # XtraOrbit.Com :: Company Profile :: Privacy Policy :: Skrill, MoneyBookers, PayPal, Liberty Reserve, Payza, AlertPay and Credit Cards Payments Accepted.
 
