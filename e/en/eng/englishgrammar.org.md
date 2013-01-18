@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishgrammar.org privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014220710id_/http%3A//www.englishgrammar.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishgrammar.org privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118132059id_/http%3A//www.englishgrammar.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy.
 
  **Changes to our Privacy Policy**
 
