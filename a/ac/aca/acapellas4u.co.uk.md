@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acapellas4u.co.uk privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920091919id_/http%3A//www.acapellas4u.co.uk/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acapellas4u.co.uk privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118204234id_/http%3A//www.acapellas4u.co.uk/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # ACAPELLAS4U • User Control Panel • Privacy policy
 
