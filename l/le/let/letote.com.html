@@ -1,18 +1,51 @@
-<!--The following is the downloaded HTML source of the letote.com privacy policy that was archived on 2012-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121006133524id_/https%3A//letote.com/privacy_sp.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the letote.com privacy policy that was archived on 2013-01-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130118064625id_/https%3A//letote.com/privacy_sp.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <title>LE TOTE - </title>
+    <title>LE TOTE</title>
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/text.css">
     <link rel="stylesheet" href="css/960.css">
-    <link rel="stylesheet" href="css/letote.css">
-    <link href="login/assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="login/assets/css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/letote2.css">
     <link rel="icon" href="resources/img/favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="resources/img/favicon.ico" type="image/x-icon">
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="resources/js/jquery-1.7.2.min.js"></script>
     <script src="resources/js/letote.js"></script>
-    <script src="resources/js/simpleSlide.js" type="text/javascript"></script>
+    <script src="login/assets/js/bootstrap.js"></script>
+    <!--[if lt IE 9]>
+	<style type="text/css">
+	.logincomponent{
+		background: url('../resources/img/common/signupimg.jpg') no-repeat;
+		height: 399px;
+		position: absolute;
+		bottom: 18%;
+		width: 411px;
+		right: 5%;
+		cursor: pointer;
+	    }
+	.dropdown-menu{
+	    z-index: 10000000;
+	    float: none;
+	    left: -160px;
+	}
+	.alert-error
+	{
+	    display: none;
+	}
+	body{
+            font-family: 'Futura-Medium';
+        }
+	</style>
+<![endif]-->
+    <style type="text/css">
+	.alert-error
+	{
+	    display: none;
+	}
+	.dropdown-menu{
+	    left: -160px;
+	}
+    </style>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 </head>
 <body>
@@ -20,22 +53,63 @@
     <div class="container_16">
         <div class="grid_3">
             <a href="/hi.html"><img src="resources/img/common/logo_larger.png"></a>
-        </div>       
-        <div class="grid_10 prefix_3" style="position: relative; top: 70px;">
+        </div>
+    </div>
+</div>
+<div class="container_16" style="height: 100px;">
+    <div class="grid_11 prefix_5" style="position: fixed; top: 70px; z-index: 1000000;">
             <div id="top_menu">
                <ul>
-                    <li><a href="howitworks_splash.html">HOW IT WORKS</a></li>
+                    <li><a href="howitworks_splash.html">HOW IT WORKS</a></li>                    
                     <li><a href="whatsinatotesplash.html">WHAT'S IN A TOTE?</a></li>
-                                   </ul>
+                    <li><a href="press_splash.html">PRESS</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">LOGIN <strong class="caret"></strong></a>
+                        <ul class="dropdown-menu" style="padding: 15px; padding-bottom: 0px;"> 
+                                <form method="post" action="hi.html">
+                                <fieldset>
+                                        <div class="control-group" style="text-align: left;">
+                                                <label for="username" class="login-label">Email Address</label>
+                                                <div class="controls">
+                                                        <input type="email" class="xlarge" id="username" name="username" maxlength="255">                                                  
+                                                </div>
+                                        </div>
+                
+                                        <div class="control-group" style="text-align: left;">
+                                            <label for="password" class="login-label">Password</label>
+                                            <div class="controls">
+                                                    <input class="xlarge" id="password" name="password" size="30" type="password">
+                                                    
+                                            </div>
+                                        </div>
+                                        <div class="control-group">
+                                            <label for="remember" class="remember" style="float: left;">
+                                                <input type="checkbox" name="remember" id="remember"><span> Remember Me</span>
+                                            </label>
+                                            <input type="submit" value="Sign In" class="btn btn-info" id="login-submit" name="login" style="float: left; width: 100%;">
+                                            <div id="login_msg"></div>
+                                        </div>
+                                        <span class="forgot"><a data-toggle="modal" href="#forgot-form" id="forgotlink" tabindex="-1">Forgot Password</a></span>
+                                </fieldset>
+                                <input type="hidden" name="token" value="">
+                                
+                            </form>
+                            <div style="font-size: 12px; width: 60%; text-align: left;">
+                               Have an invite code?<br>
+                               <a href="#" onclick="launchSignUp();" id="loginclaim">Click here to redeem</a><br>
+                            </div>
+                        </ul>
+                    
+                    </li>
+                    
+               </ul>
             </div>
         </div>
-           
-    </div>
 </div>    <div class="main_content privacy" style="margin-bottom: 80px;">
-        <div class="spacer20px" style="height: 100px;"></div>
+        <div class="spacer40px"></div>
         <div class="container_16">
             <div class="grid_16">
-                <div id="faq" style="font-size: 26px; border-bottom: 1px solid #999999;">TERMS OF USE AND PRIVACY POLICY</div><br><br>
+                <h2 id="faq" style="font-size: 26px; border-bottom: 1px solid #999999;">TERMS OF USE AND PRIVACY POLICY</h2>
                 <p>LE TOTE works to ensure your privacy is protected when using our services. We therefore have a policy setting out how your personal data will be processed and protected. Any changes we have made to this data policy can be found by visiting our website (www.letote.com)</p>
                                                
                 <h2>Personal details</h2>
@@ -61,11 +135,11 @@
             <div class="spacer20px" style="height: 100px;"></div>
             <div class="spacer20px" style="height: 100px;"></div>
         </div>
-    <div style="background-color: #FFFFFF;  bottom: 0; position: fixed; clear: both; width: 100%; height: 100px;">
-	
-	<div style="background-color: #FFFFFF; width: 1200px; margin: auto; text-align: center; font-family: 'Futura-Medium', sans-serif; font-size: 14px; margin-bottom: 10px; color: #999;">
-	    As seen in: <img src="resources/img/common/as_seen_sml.jpg">
-		<div class="spacer20px"></div>
+    <div class="container_16">
+	<div class="grid_16 center" style="background-color: #FFFFFF;  clear: both; color: #999;">
+		<div>
+		       As seen in: <a href="press_splash.html"><img src="resources/img/common/as_seen_sml.jpg"></a>
+		</div>
 		<div class="footer_submenu">
 			<ul>
 			    <li><a href="contactus_sp.html">CONTACT US</a></li>
