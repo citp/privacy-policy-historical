@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the crowdcontent.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013815id_/http%3A//www.crowdcontent.com/client/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdcontent.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118070858id_/http%3A//www.crowdcontent.com/privacy-policy) for the most accurate reproduction.*
 
-# Custom Content on Demand - Crowdcontent
+# Crowd Content
+
+This website requires javascript to be enabled.
 
 CrowdContent.com is committed to protecting the privacy of visitors to our websites, as well as our members and partners. CrowdContent.com has established this Privacy Policy to explain what information we collect through these websites and how it is used. 
 
