@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuxhd.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118043627id_/http%3A//fuxhd.videosz.com/legal.php%3Fpg%3Dprivacy%26l%3D18382%26t%3D13163%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuxhd.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118065739id_/http%3A//fuxhd.videosz.com/legal.php%3Fpg%3Dprivacy%26l%3D18382%26t%3D13163%26v%3Ddesktop%26lg%3Dus) for the most accurate reproduction.*
 
 # FuxHD
 
