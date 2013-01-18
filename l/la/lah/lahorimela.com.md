@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lahorimela.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020074930id_/http%3A//www.lahorimela.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lahorimela.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118090350id_/http%3A//www.lahorimela.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,3 +41,5 @@ We use an outside ad company to display ads on our site. These ads may contain c
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact Us](http://www.lahorimela.com/contact-us)
+
+Privacy Policy, 7.0 out of 10 based on 1 rating 
