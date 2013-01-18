@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giverecipe.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010014848id_/http%3A//www.giverecipe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giverecipe.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118083113id_/http%3A//www.giverecipe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Give Recipe
+# Privacy Policy | Give RecipeGive Recipe
 
 Privacy Policy for [Give Recipe](http://www.giverecipe.com/ "Give Recipe").
 
