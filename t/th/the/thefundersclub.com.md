@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the thefundersclub.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006054655id_/https%3A//thefundersclub.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefundersclub.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118095133id_/https%3A//thefundersclub.com/site/privacy) for the most accurate reproduction.*
 
-# FundersClub |
-
-* * *
-
-* * *
+# FundersClub | Privacy Policy
 
 ### We Value Your Privacy
 
@@ -107,5 +103,3 @@ Please feel free to contact us if you have any questions about FundersClub's Pri
 FundersClub 
 
 [info@thefundersclub.com](mailto:info@thefundersclub.com)
-
-* * *
