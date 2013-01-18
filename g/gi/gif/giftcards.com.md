@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftcards.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016002034id_/http%3A//www.giftcards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcards.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118230842id_/http%3A//www.giftcards.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GiftCards.com
 
@@ -51,7 +51,7 @@ We do not knowingly collect or use personal information from children under 13 w
 
 **CAN-SPAM Act Opt-Out Policy**
 
-Subscribers receiving our email messages can opt-out at any time by going to our [email opt-out page](http://www.giftcards.com/utils/email_opt_out.html) and submitting their email address.
+Subscribers receiving our email messages can opt-out at any time by going to our [email opt-out page](https://web.archive.org/utils/email_opt_out.html) and submitting their email address.
 
 **_Privacy Policy Frequently Asked Questions_**
 
