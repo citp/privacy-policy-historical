@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupbizhub.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920093422id_/http%3A//www.startupbizhub.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupbizhub.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118203943id_/http%3A//www.startupbizhub.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Startupbizhub.com
 
@@ -22,8 +22,10 @@ Take note that deleting cookies doesn’t mean that you are excluded in advertis
 
 ### Comments
 
-  * Comments copy pasted from other resources will be removed from our website. We encourage to write your post in your own words.
-  * Comments posted with links in it will be moderated and it will be up to us to allow the comment with link or remove the link.
+  * All our comments are moderated so it is up to the mod to decide whether a comment should be published or not.
+  * Any kind of ads are prone to be deleted, just remember this site is not meant to post your ads rather help others if you can.
+  * Copy pasted content from other websites will be removed from our site. We encourage to write your comment in your own words.
+  * Comments posted with links in it will be moderated and it will be up to us to allow the comment with link or remove it.
   * There is no easy way to remove or edit a comment right now, so you have to contact us for editing or removing them.
   * We don’t disclose the email address submitted to us along the comment so post your email address on the post itself if you want others to contact you.
 
