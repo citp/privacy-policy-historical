@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atoot.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507075420id_/http%3A//www.atoot.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atoot.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119001629id_/http%3A//www.atoot.com/policy.php) for the most accurate reproduction.*
 
 # Our Privacy Policy : Marriage Compatibility : Palm Reading : Love Compatibility : Atoot.com
 
@@ -20,7 +20,7 @@ Certain personal information like Birth information, etc. may be shared with aff
 
   * 4\. What is your policy on updating or deleting personal information?
 
-Personal information may easily be updated from the â€œMy Profileâ€ page after you have logged in.
+Personal information may easily be updated from the “My Profile” page after you have logged in.
 
   * 5\. Tell me about security of my personal information
 
