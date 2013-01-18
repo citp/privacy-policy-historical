@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005124106id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118081828id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
 
 # Online-Education.net Privacy Policy
 
@@ -6,11 +6,11 @@
 
 **LAST UPDATED:  **July 31, 2012
 
-**Online-Education.net** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
+**QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
 
 **CERTIFICATIONS**
 
-Online-Education.net has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our privacy policy or practices, please contact us as described below, if you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).  The TRUSTe program applies to the information collected on this Site.
+QuinStreet has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  If you have questions or complaints regarding our privacy policy or practices, please contact us as described below, if you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).  The TRUSTe program applies to the information collected on this Site.
 
 **Personal Information**
 
@@ -51,7 +51,7 @@ We may use Personal Information:
 
 Your Personal Information may be disclosed:
 
-  * to our affiliates, including but not limited to Online-Education.net, for the purposes described in this Privacy Policy. Online-Education.net is the party responsible for the management of the jointly-used Personal Information.
+  * to our affiliates for the purposes described in this Privacy Policy.  QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information.
   * to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services.
   * if you request information from vendors so that they (or so that third parties who provide similar services) can provide you with information about their products and services.  We are not responsible or liable for vendors’ use of your Personal Information.
   * if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource. If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
@@ -133,7 +133,7 @@ We will seek to comply with your request(s) as soon as reasonably practicable. �
 
 **How you can access, change or suppress your Personal Information**
 
-If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [info@online-education.com](mailto:info@online-education.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process.  For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
+If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [info@quinstreet.com](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process.  For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
 
 In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information.  We will try to comply with your request as soon as reasonably practicable.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
@@ -155,7 +155,7 @@ We ask that you not send us, and you not disclose, any sensitive Personal Inform
 
 **Your California Privacy Rights**
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes.  That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information.  If you are a California resident you may request this information by writing to us at the address below. Online-Education.net is not obligated to respond to more than one such request from you per calendar year.
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes.  That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information.  If you are a California resident you may request this information by writing to us at the address below. QuinStreet, Inc. is not obligated to respond to more than one such request from you per calendar year.
 
 **UPDATES TO THIS PRIVACY POLICY**
 
@@ -163,11 +163,11 @@ We may change this Privacy Policy.  Please take a look at the “ _Last Updated
 
 **CONTACTING US**
 
-If you have any questions about this Privacy Policy, please contact us by email at [info@online-education.com](mailto:info@online-education.com), or please write to the following address:
+If you have any questions about this Privacy Policy, please contact us by email at [info@quinstreet.com](mailto:info@quinstreet.com), or please write to the following address:
 
 Privacy
 
-Online-Education.net
+QuinStreet, Inc.
 
 950 Tower Lane, 6th Floor
 
