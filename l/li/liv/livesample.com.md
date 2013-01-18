@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livesample.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015203458id_/http%3A//www.livesample.com/privacy.html%3Fheight%3D540%26width%3D1010%26PHPSESSID%3D24c9acb6bdd60d2f1233ee1b5b6cfdbe) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesample.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119003428id_/http%3A//www.livesample.com/privacy.html%3Fheight%3D540%26width%3D1010%26PHPSESSID%3D0c32bc5e205d564498f684ee5ae89521) for the most accurate reproduction.*
 
 # LiveSample
 
