@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicdomaintreasurehunter.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017201108id_/http%3A//www.publicdomaintreasurehunter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicdomaintreasurehunter.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118113348id_/http%3A//www.publicdomaintreasurehunter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
