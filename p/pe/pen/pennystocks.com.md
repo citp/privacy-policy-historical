@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pennystocks.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010154702id_/http%3A//www.pennystocks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennystocks.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118053804id_/http%3A//www.pennystocks.com/privacy) for the most accurate reproduction.*
 
-# Privacy | 100% Free Penny Stocks Newsletter: Get Alerts on Stocks Before They go up!
+# General Notice and Disclaimer - PennyStocks
 
 PennyStocks.com is Acqua Impero Energia, Praia do Botafogo 300/5 Andar, 22250-040 Rio de Janeiro, Rio de Janeiro, Brazil. 
 
