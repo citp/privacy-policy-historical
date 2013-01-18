@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incredigames.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104012139id_/http%3A//www.incredigames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredigames.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118205308id_/http%3A//www.incredigames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IncrediGames Games
 
