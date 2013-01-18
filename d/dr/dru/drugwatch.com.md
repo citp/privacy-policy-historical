@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugwatch.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012024620id_/https%3A//www.drugwatch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugwatch.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118043801id_/https%3A//www.drugwatch.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DrugWatch.com
 
