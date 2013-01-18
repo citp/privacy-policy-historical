@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carefulcash.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110160359id_/http%3A//www.carefulcash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carefulcash.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118084902id_/http%3A//www.carefulcash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Careful Cash
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
