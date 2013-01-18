@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016203209id_/http%3A//www.masonworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masonworld.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118063801id_/http%3A//www.masonworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MasonWorld Late Night Internet Marketing
+
+**Warning** : Missing argument 2 for wpdb::prepare(), called in /home/mwadmin/public_html/wordpress/wp-content/plugins/sharebar/sharebar.php on line 112 and defined in **/home/mwadmin/public_html/wordpress/wp-includes/wp-db.php** on line **990**
 
 ### MasonWorld Privacy Policy
 
