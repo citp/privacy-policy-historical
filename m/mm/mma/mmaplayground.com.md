@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220085225id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118070203id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
 
 # MMAPlayground.com Internet Privacy Policy
 
-| **UFC ON FX 6 /TUF 16 finale combo card**  
+| **UFC 155: dos Santos vs. Velasquez II**  
 ---  
 Earnings | Username  
-[$357,154](https://web.archive.org/financial_history.aspx?U=59512#EID148) | [aussiemma](https://web.archive.org/profile/aussiemma)  
-[$218,573](https://web.archive.org/financial_history.aspx?U=9012#EID148) | [tuvok500](https://web.archive.org/profile/tuvok500)  
-[$151,994](https://web.archive.org/financial_history.aspx?U=18598#EID148) | [Wolfenstein](https://web.archive.org/profile/Wolfenstein)  
-[$123,119](https://web.archive.org/financial_history.aspx?U=60078#EID148) | [x5xwrathx5x](https://web.archive.org/profile/x5xwrathx5x)  
-[$86,182](https://web.archive.org/financial_history.aspx?U=11456#EID148) | [Jshep714](https://web.archive.org/profile/Jshep714)  
-[$84,993](https://web.archive.org/financial_history.aspx?U=15987#EID148) | [Shawn91111](https://web.archive.org/profile/Shawn91111)  
-[$70,305](https://web.archive.org/financial_history.aspx?U=17945#EID148) | [Kaem](https://web.archive.org/profile/Kaem)  
-[$52,071](https://web.archive.org/financial_history.aspx?U=59328#EID148) | [Baby_Wads](https://web.archive.org/profile/Baby_Wads)  
-[$46,091](https://web.archive.org/financial_history.aspx?U=16152#EID148) | [Schatte](https://web.archive.org/profile/Schatte)  
-[$43,811](https://web.archive.org/financial_history.aspx?U=17599#EID148) | [danclarke1992](https://web.archive.org/profile/danclarke1992)  
-[$39,788](https://web.archive.org/financial_history.aspx?U=57764#EID148) | [Samps](https://web.archive.org/profile/Samps)  
-[$32,083](https://web.archive.org/financial_history.aspx?U=57118#EID148) | [BuffaloDave](https://web.archive.org/profile/BuffaloDave)  
-[$31,231](https://web.archive.org/financial_history.aspx?U=26446#EID148) | [BelXavier420](https://web.archive.org/profile/BelXavier420)  
-[$28,003](https://web.archive.org/financial_history.aspx?U=34704#EID148) | [inadvertentgroinstrike](https://web.archive.org/profile/inadvertentgroinstrike)  
-[$24,958](https://web.archive.org/financial_history.aspx?U=17240#EID148) | [Biancoceleste](https://web.archive.org/profile/Biancoceleste)  
+[$1,293,780](https://web.archive.org/financial_history.aspx?U=9012#EID147) | [tuvok500](https://web.archive.org/profile/tuvok500)  
+[$1,211,089](https://web.archive.org/financial_history.aspx?U=29541#EID147) | [Krazypoison](https://web.archive.org/profile/Krazypoison)  
+[$995,783](https://web.archive.org/financial_history.aspx?U=16888#EID147) | [bjj1605](https://web.archive.org/profile/bjj1605)  
+[$932,597](https://web.archive.org/financial_history.aspx?U=57512#EID147) | [goldmouth](https://web.archive.org/profile/goldmouth)  
+[$456,033](https://web.archive.org/financial_history.aspx?U=15987#EID147) | [Shawn91111](https://web.archive.org/profile/Shawn91111)  
+[$418,214](https://web.archive.org/financial_history.aspx?U=11456#EID147) | [Jshep714](https://web.archive.org/profile/Jshep714)  
+[$383,828](https://web.archive.org/financial_history.aspx?U=56095#EID147) | [Shelter](https://web.archive.org/profile/Shelter)  
+[$213,130](https://web.archive.org/financial_history.aspx?U=57764#EID147) | [Samps](https://web.archive.org/profile/Samps)  
+[$192,371](https://web.archive.org/financial_history.aspx?U=56593#EID147) | [gogoplata77](https://web.archive.org/profile/gogoplata77)  
+[$183,932](https://web.archive.org/financial_history.aspx?U=8075#EID147) | [CanadianCripplr](https://web.archive.org/profile/CanadianCripplr)  
+[$167,660](https://web.archive.org/financial_history.aspx?U=54910#EID147) | [BillsNewAccount](https://web.archive.org/profile/BillsNewAccount)  
+[$139,371](https://web.archive.org/financial_history.aspx?U=17945#EID147) | [Kaem](https://web.archive.org/profile/Kaem)  
+[$130,146](https://web.archive.org/financial_history.aspx?U=55682#EID147) | [Michael_Corleone](https://web.archive.org/profile/Michael_Corleone)  
+[$118,044](https://web.archive.org/financial_history.aspx?U=10480#EID147) | [MHughes4prez17](https://web.archive.org/profile/MHughes4prez17)  
+[$116,507](https://web.archive.org/financial_history.aspx?U=55518#EID147) | [bakersfield6969](https://web.archive.org/profile/bakersfield6969)  
   
 Sponsors
 
