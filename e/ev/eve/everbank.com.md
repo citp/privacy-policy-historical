@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everbank.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015105608id_/https%3A//www.abouteverbank.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everbank.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119055345id_/https%3A//www.abouteverbank.com/privacy.aspx) for the most accurate reproduction.*
 
 # About EverBank | Privacy Policy
 
@@ -19,7 +19,7 @@ Banking customers
 
 | 
 
-Call 888.882.3837, Opt. 4  
+Call 888.882.3837  
   
 Advisor clients
 
@@ -35,7 +35,7 @@ Mortgage origination customers
 
 | 
 
-[**This notice**](https://web.archive.org/_documents/privacy-mortgage-originating.pdf) describes EverBank's and Everhome's sharing practices when we make a first or second mortgage or open a home equity line of credit.
+[**This notice**](https://web.archive.org/_documents/privacy-mortgage-originating.pdf) describes EverBank's sharing practices when we make a first or second mortgage or open a home equity line of credit.
 
 | 
 
@@ -45,9 +45,9 @@ Mortgage servicing customers
 
 | 
 
-[**This notice**](https://web.archive.org/_documents/privacy-mortgage-servicing.pdf) describes Everhome's and EverBank's sharing practices in all states except California for servicing of mortgage-related products—processing payments and providing other services after the loan is made or the credit line is opened.
+[**This notice**](https://web.archive.org/_documents/privacy-mortgage-servicing.pdf) describes EverBank's sharing practices in all states except California for servicing of mortgage-related products—processing payments and providing other services after the loan is made or the credit line is opened.
 
-[**This notice**](https://web.archive.org/_documents/privacy-mortgage-servicing-ca.pdf) describes Everhome's and EverBank's sharing practices in California for servicing of mortgage-related products—processing payments and providing other services after the loan is made or the credit line is opened.
+[**This notice**](https://web.archive.org/_documents/privacy-mortgage-servicing-ca.pdf) describes EverBank's sharing practices in California for servicing of mortgage-related products—processing payments and providing other services after the loan is made or the credit line is opened.
 
 | 
 
@@ -61,7 +61,7 @@ EverBank Wealth Management, Inc. clients
 
 | 
 
-Call 888.882.3837, Opt. 4  
+Call 888.882.3837  
   
 EverTrade Direct Brokerage, Inc. customers
 
@@ -71,16 +71,17 @@ EverTrade Direct Brokerage, Inc. customers
 
 | 
 
-Call 888.882.3837, Opt. 4  
+Call 888.882.3837  
   
 #### Online Information Collection
 
 When you use our website, EverBank collects information in several ways:
 
   * If you use online banking services, we collect and use information as described in the applicable privacy notice.
-  * EverBank uses your IP address to help diagnose problems with its servers and to administer the website. An IP address is like a telephone number for a computer on the Internet. Just as one can locate a phone number in the telephone book, computers can locate an IP address using a Domain Name Service Server. EverBank also uses your IP address to help identify your computer and browser as you move throughout the EverBank website, and to gather general information such as where your Internet service provider is located or the type of service that you have. In many cases, this allows EverBank to present a convenient, more customized website to you.
+  * EverBank collects and uses your IP address to help diagnose problems with its servers and to administer the website. An IP address is like a telephone number for a computer on the Internet. Just as one can locate a phone number in the telephone book, computers can locate an IP address using a Domain Name Service Server. EverBank also uses your IP address to help identify your computer and browser as you move throughout the EverBank website, and to gather general information such as where your Internet service provider is located or the type of service that you have. In many cases, this allows EverBank to present a convenient, more customized website to you.
   * Our website uses cookies to keep track of you as you move through the website. Cookies are small text files or text identifiers that are placed on your computer by EverBank and many other websites. Cookies are used to show which computer and browser accessed our site. By using cookies, EverBank can deliver content specific to your interests and provide access to our secure banking functions. Cookies do not disrupt your computer. If you choose, you may set your web browser to warn you before you accept a cookie and choose each time if you want to accept the cookie. You may also choose to obtain software that operates in conjunction with your browser to control cookie acceptance. Some portions of the EverBank website require the use of cookies so that EverBank can provide you with a secure environment for certain financial transactions. These features may not work properly if you restrict the use of cookies on the website.
-  * In addition to cookies, EverBank uses tracking tags and/or pixels for purposes such as site traffic reporting, unique visitor counts, advertising auditing and reporting, and personalization of a website. Any information that EverBank collects through web beacons is anonymous, so we will not connect this information directly to you. 
+  * In addition to cookies, EverBank uses tracking tags, pixels, web beacons, and/or similar technologies for purposes such as site traffic reporting, unique visitor counts, advertising auditing and reporting, providing customer service support and responding to your inquiries (including through the use of live chat or video session technologies), and personalization of a website. Any information that EverBank collects through such tags, pixels, web beacons, and/or similar technologies is anonymous, so we will not connect this information directly to you. 
+  * EverBank also collects information that you provide to us through your use of the website and its features (including live chat or video sessions) to provide customer service support and to respond to your inquiries.
 
 
 
@@ -94,11 +95,11 @@ Protecting your information is important to EverBank. We’ve instituted policie
 
 
 
-By using our online services, you acknowledge that you will not, under any circumstances, disclose your EverBank password by telephone or any other means to any person, and you acknowledge that no person from the EverBank family of services will ever ask you for your password and that our employees do not need and should not ask for your password. You agree not to provide your password to anyone claiming to represent us. You are liable for all transactions made or authorized using your username and password. You agree that if you give your username or password to anyone or fail to safeguard their secrecy, you do so at your own risk. 
+By using our online services, you acknowledge that you will not, under any circumstances, disclose your EverBank password by telephone or any other means to any person, and you acknowledge that no person from the EverBank family of companies will ever ask you for your password and that our employees do not need and should not ask for your password. You agree not to provide your password to anyone claiming to represent us. You are liable for all transactions made or authorized using your username and password. You agree that if you give your username or password to anyone or fail to safeguard their secrecy, you do so at your own risk. 
 
 #### Sharing Information
 
-We may share information that we collect online and with trusted third parties according to the terms described in the applicable privacy notice (see Table 1 above). Third party service providers with whom we share personally identifiable information are contractually obligated to keep the information confidential and to use the information only to provide the services we have asked them to perform.
+We may share information that we collect online and with trusted third parties according to the terms described in the applicable privacy notice (see Table 1 above), including for purposes of providing customer service support and responding to your inquiries (including through the use of chat or video-based technologies). Third party service providers with whom we share personally identifiable information are contractually obligated to keep the information confidential and to use the information only to provide the services we have asked them to perform.
 
 For a description of how EverBank may share information collected from consumers who have applied for or obtained a consumer product or service from us, please refer to Table 1 above.
 
@@ -110,15 +111,15 @@ The EverBank website may make chat rooms, forums, message boards, and/or news gr
 
 #### Encrypted Email
 
-Encrypted email not only provides authentication but also protects your privacy. Encryption software "scrambles" the message so that only the intended recipient can read the message. Encrypted email often supports a digital signature within the same process. When combined, encryption and a digital signature allow you to obtain both authentication and privacy. EverBank encourages and supports the use of encrypted messages for communication with the Bank. EverBank banking account holders have access from within the EverBank Online Financial Center to an encrypted, secure web-based email system. That system will allow you to communicate via a secured channel with EverBank Customer Care Specialists.
+Encrypted email not only provides authentication but also protects your privacy. Encryption software "scrambles" the message so that only the intended recipient can read the message. Encrypted email often supports a digital signature within the same process. When combined, encryption and a digital signature allows you to obtain both authentication and privacy. EverBank encourages and supports the use of encrypted messages for communication with EverBank. EverBank banking account holders have access from within the EverBank Online Financial Center to an encrypted, secure web-based email system. That system will allow you to communicate via a secured channel with EverBank Customer Care Specialists.
 
 #### Fraud and Other Internet Risks
 
-EverBank maintains customer authentication procedures to protect your personal information and account from identity theft. These procedures are for your protection. If you suspect a website is "spoofing" or pretending to be an EverBank website, do not enter personal information but instead please contact us using the contact information in Table 1 above, or send an email to **abuse@everbank.com**.
+EverBank maintains customer authentication procedures to protect your personal information and account from identity theft. These procedures are for your protection. If you suspect a website is "spoofing" or pretending to be an EverBank website, do not enter personal information but instead please contact us using the contact information in Table 1 above, or send an email to **fraud@everbank.com**.
 
 #### Information Collected in Surveys or Contests
 
-From time to time, EverBank's website may use online surveys or run contests that ask you for contact information (such as your email address) and demographic information (e.g., zip code, age or income level). EverBank uses this contact and demographic data to send you information about EverBank and promotional material from certain partners. To request that we not send you information about EverBank and other promotional materials, see the "How to Refuse Further Mailings" subsection below.
+From time to time, EverBank's website may use online surveys or run contests that ask you for contact information (such as your email address) and demographic information (e.g., zip code, age or income level). EverBank uses this contact and demographic data to send you information about EverBank and promotional material from certain partners. To request that we not send you information about EverBank and other promotional materials, see the "How to Refuse Further Communications" subsection below.
 
 #### Other Information Collection
 
@@ -136,12 +137,12 @@ You can refer to the privacy policies included in Table 1 above for more informa
 
 #### Privacy Issues Contact Information
 
-EverBank’s website gives you the opportunity to discuss privacy issues or report anything that you consider unusual or inappropriate. If you have such an issue, please contact us using the contact information in Table 1, or send an email to **abuse@everbank.com**.
+If you would like more information about EverBank's privacy practices, or would like to report anything that you consider unusual or inappropriate, please contact us using the contact information in Table 1, or send an email to **privacy@everbank.com**.
 
 #### Protecting Children's Online Privacy
 
-EverBank encourages protection of children's information on the internet. We will not intentionally collect personal information from children under 13 on our website without first obtaining consent from their parents or legal guardians. For more information about the Children's Online Privacy Protection Act (COPPA) please refer to the [**FTC's website**](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html).
+EverBank encourages protection of children's information on the internet. We will not intentionally collect personal information from children under 13 on our website without first obtaining consent from their parents or legal guardians. For more information about the Children's Online Privacy Protection Act (COPPA) please refer to the [**Federal Trade Commission's website**](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html).
 
 #### Changes
 
-This notice describes our current online privacy practices. EverBank may change its online privacy practices in the future, and we may revise this notice to reflect material changes. If we do change our policy, we will note those changes on our website. A message will be displayed on our homepage for a period of time that a change has been made. We also may send an email describing the changes. Your continued use of the website following the posting of changes to these terms will mean that you accept those changes.
+This notice describes our current online privacy practices. EverBank may change its online privacy practices in the future, and we may revise this notice to reflect material changes. If we do change our policy, we will note those changes on our website. A message will be displayed on our homepage for a period of time that a change has been made. We may also send an email describing the changes. Your continued use of the website following the posting of changes to these terms will mean that you accept those changes.
