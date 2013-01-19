@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the datashack.net privacy policy that was archived on 2012-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120513225928id_/https%3A//www.datashack.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the datashack.net privacy policy that was archived on 2013-01-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130119085137id_/https%3A//www.datashack.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -16,11 +16,30 @@
 function gbid(a) {
 	return document.getElementById(a);
 }
+
+function openlb(content) {
+	gbid('lightbox').style.display = 'block';
+	//gbid('lb_content').innerHTML = gbid(content).innerHTML;
+}
+
+function closelb() {
+	gbid('lightbox').style.display = 'none';
+	gbid('lb_content').innerHTML = '';
+}
 //-->
 </script>
 <script src="https://www.ndevix.com/script/ndxjs.js"></script>
 </head>
 <body>
+
+<div id="lightbox" style="display:none">
+  <div id="lb_wrap">
+    <div class="textright"><a href="javascript: ;" onclick="closelb()">Close</a></div>
+    <div id="lb_content"></div>
+  </div>
+</div>
+
+
 <div id="wrap">
   <div id="header">
     <div class="floatl"><a href="https://www.datashack.net/"><img src="https://www.datashack.net/images/logo.png"></a></div>
@@ -88,7 +107,7 @@ function gbid(a) {
     <div class="clear"></div>
     <div class="fineprint">
       <div class="floatl">
-        Copyright © 2012 <strong>Data</strong>Shack.net      </div>
+        Copyright © 2013 <strong>Data</strong>Shack.net      </div>
       <div class="floatr">Designed &amp; Developed by <a href="http://www.ndevix.com/" target="_blank">nDeviX</a></div>
       <div class="clear"></div>
     </div>
