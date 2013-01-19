@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rummycircle.com privacy policy that was archived on 2012-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120920051300id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rummycircle.com privacy policy that was archived on 2013-01-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130119130805id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
@@ -29,7 +29,7 @@
         ga24x7Tracker.trackPageView();ga24x7Tracker.enableLinkTracking();}
 </script><script type="text/javascript" async="" src="https://analytics.rummycircle.com/GamesAnalytics/js/ga24x7.js"></script>
 <!-- End Games Analytics Tracking Tag -->
-<script src="/js/jquery-1.6.2.min.js" type="text/javascript"></script>
+<script src="/js/jquery-1.6.2.min.js?v1356528874" type="text/javascript"></script>
 <script type="text/javascript">
  var User;
 if (!this.User) 
@@ -91,24 +91,21 @@ function loadHeader()
 $(document).ready(function() 
 {
         loadHeader();
-	var url = window.location.search;
-	if(url)
-	{
-		var g = url.indexOf("games24x7=true");
-		var s = url.indexOf("utm_campaign=SE-Brand");
-		if(g != -1 || s != -1)
-		{
-						$I('topDiv').innerHTML ="<img src=\"https://rcmg.in/rc/overlay-gms/rc-overlay_animated.gif\" width='507' height='61'/>";
-						var overlay = HOME_OVERLAY.box.show({
-							html: $I('faqoverlay').innerHTML,
-							height: $($I('faqoverlay')).height(),
-							width: $($I('faqoverlay')).width(),
-							maskid: 'pmask',
-							boxid: 'filterbox',
-							closebtn:close
-							});
-		}
-	}        
+// ESC for more details and registration screens
+
+   $(document).keyup(function(e) {			
+             if (e.keyCode == 27) {
+   var checkTinyBox1 = $('#tmask1').is(':visible');
+   var checkTinyBox = $('#tmask').is(':visible');
+	   if(checkTinyBox1 && checkTinyBox){
+               TINY1.box.hide();
+	   } else if(checkTinyBox1){
+		 TINY1.box.hide();
+	  }else if(checkTinyBox){
+		TINY.box.hide();
+	 }
+       } 
+	});        
 });
 </script>
 
@@ -116,16 +113,19 @@ $(document).ready(function()
 <link rel="SHORTCUT ICON" href="/favicon.ico">
 <link rel="ICON" href="/favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="/themes/default/css/reset.css" rel="stylesheet" type="text/css">
-<link href="/themes/default/css/main.css" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/reset.css?v1356528874" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/main.css?v1356528874" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/jquery-ui-1.7.1.custom.css?v1356528874" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/ui.slider.extras.css?v1356528874" rel="stylesheet" type="text/css">
 <!--[if IE 6]>
-	<link href="/themes/default/css/main-ie6.css" rel="stylesheet" type="text/css" />
+	<link href="/themes/default/css/main-ie6.css?v1356528874" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="/themes/default/css/jquery-ui.css" rel="stylesheet" type="text/css">
-<link href="/themes/default/css/mobile-addcash.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/js/jquery.alerts.js"></script>
-<script type="text/javascript" src="/js/config_list.js?v1.7"></script>
-<script type="text/javascript" src="/js/common.js?v1.5"></script>
+<link href="/themes/default/css/jquery-ui.css?v1356528874" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/mobile-addcash.css?v1356528874" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/popup.css?v1356528874" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/jquery.alerts.js?v1356528874"></script>
+<script type="text/javascript" src="/js/config_list.js?v1358318141"></script>
+<script type="text/javascript" src="/js/common.js?v1358430734"></script>
 
 
 <title>Privacy Policy | RummyCircle.com</title>
@@ -133,36 +133,13 @@ $(document).ready(function()
 <meta name="keywords" content="privacy policy rummy circle">
 </head>
 <body>
-<div id="faqoverlay" style="width:523px; height:235px; overflow:auto; display:none;">
-<div style="padding: 8px;">
-	<div style="width:507px; font-family:Arial, Helvetica, sans-serif; font-size:16px; float: left;">
-		<div id="topDiv" style="background-color:#300;"> 
-				<!-- <img src="https://rcmg.in/rc/overlay-gms/rc-overlay_animated.gif"/> -->
-		</div>
-            	<div style="padding-top: 20px; text-align: center; border-left: solid 1px #CFCDCE; border-right: solid 1px #CFCDCE; float: left; width: 504px; background-color:#EFEDEE;">
-				<strong>Games24x7.com is now RummyCircle.com</strong>
-				<!--<a href="/rummycircle-visitors.html" style="color:#0060ac; font-size:12px; text-decoration:underline;">Learn More</a>-->
-				<div style="font-size: 13px; margin: 10px 5px;">We are still the same awesome rummy site, just <strong>Faster and Better.</strong> Register now and enjoy the Best Rummy Experience.
-				</div>
-				<div style="margin-top: 25px; margin-left: 150px;">
-					<a href="javascript:hideOverlay();" class="btn_prime" title="Continue to RummyCircle.com"><span class="continue">Continue to RummyCircle.com</span></a>
-				</div>
-		</div>
-		<div style="border:solid 1px #CFCDCE; padding: 8px 0; margin: 0; background: #EFEDEE; border-radius:8px;-moz-border-radius:8px;-khtml-border-radius:8px; width: 504px;">&nbsp;
-		</div>
-        </div>
-</div>
-</div>
-<div id="utm_wrapper">
-</div>
-
 <div id="wrapper">
 	<div id="gmscontent">
 	</div>
 	<div id="popupContact">
 		<div class="mobile-payment-close">
 			<span onclick="javascript:disablePopup();" id="popupContactClose">
-				<img src="/themes/default/images/add_cash/mobile-payment-close.jpg" alt="Close">
+				<img src="https://rcmg.in/rc/add_cash/mobile-payment-close.jpg" alt="Close">
 			</span>
 		</div>	
 		<div id="contactArea" class="popup_content">		
@@ -174,7 +151,7 @@ $(document).ready(function()
 	    	<div id="illegitimate" style="display:none">	    	
 		    	<div class="congratulations-main" style="width: 530px;height:245px;">
 		            <div class="congratulations-title" id="addcashMsg">
-		            <span>SORRY!</span>
+		            	<span>SORRY!</span>
 		            </div>
 					<div class="congratulations-middle" id="addcashMsg1"><br>
 						<div id="addcashMsgErrorMsg">
@@ -187,57 +164,141 @@ $(document).ready(function()
 					</div>
 				</div>
 			</div>
-
-           <div id="blockedSuccess" style="display:none">
-	    	
-	    	<div class="congratulations-main" style="width: 530px;height:50px; background-color:#fff">
-	    	<div style="position:relative; width:515px; height:36px; padding:5px 0 5px 15px; background-color:#f6feef;"><img src="/themes/default/images/add_cash/RC_logo_addcash.jpg" width="148" height="36"></div>
-
-			<div class="congratulations-middle" id="addcashMsg1"><br>
-			    
-			  <p class="heading0">Details Saved successfully</p>
-			   
-			<br>Your personal details have been saved successfully.You are now eligible to play cash games.<br><br><br><br>
-			
-			    
-			</div>
-            </div>
-	    	
+           	<div id="blockedSuccess" style="display:none">	    	
+	    		<div class="congratulations-main" style="width: 530px;height:50px; background-color:#fff">
+	    			<div style="position:relative; width:515px; height:36px; padding:5px 0 5px 15px; background-color:#f6feef;">
+	    				<img src="https://rcmg.in/rc/add_cash/RC_logo_addcash.jpg" width="148" height="36">
+	    			</div>
+					<div class="congratulations-middle" id="addcashMsg1">
+						<br>			    
+			  			<p class="heading0">Details Saved successfully</p>			   
+						<br>Your personal details have been saved successfully.You are now eligible to play cash games.<br><br><br><br>			
+			    	</div>
+			    </div>	    	
 	    	</div>
-            
-            
-            
-            <div id="firstloginpopup" class="tranparentpopupborderCHAT" style="display:none">
-				<div class="first-login">
-                	<div class="first-login-1">
-                    	<div class="welcometext">
-                                Welcome <span class="loginId"></span>!
-                    	</div>
-						<div class="congratulation">
-                      		Congratulations! You've earned <img src="/themes/default/images/1000-practice-chips.png" alt="10,000 Practice Chips" width="95" height="30" align="absbottom"> practice chips
-                        	<p> for being our newest member! Well done!</p>
-                      	</div>
-                    </div>
-                    <div class="first-login-2">
-                    	<img src="/themes/default/images/first-login-click-here.jpg" alt="" width="269" height="100" border="0" usemap="#Map">
-						<map name="Map" id="Map" onclick="findAGame();">
-							<area shape="poly" coords="81,16,240,16,253,20,263,28,268,41,265,59,253,69,240,72,78,73,72,79,74,83,74,91,10,90,6,78,4,69,6,60,0,55,2,45,10,45,8,33,3,23,4,15,10,8,16,9,29,2,44,1,58,4,66,9,72,7" href="javascript:;" alt="">
-                      	</map>
-                    </div>
-                    <div class="first-login-3">
-                    	<div class="go-to-lobby">
-                    		<a href="tournaments.html#practicepoints" onclick="trackAjaxPage('/player/overlay/skip-to-lobby.html');OVERLAY.box.hide();"><img src="/themes/default/images/go-to-lobby.gif" alt="Go To Lobby" width="119" height="29" border="0"></a>
-                    	</div>
-                      	<div class="bre-players-online">
-                        	<div class="players-online-left">Players Online:</div>
-                        	<div class="players-online-number" id="onlineplayerslist"></div>
-                   		</div>
+			<!-- Add Cash popup start here -->
+			<div class="gd_popup" id="addcashLimitCondition" style="display:none; z-index: 4001">		
+				<div class="mobile-addcash-close-btn-fix">
+					<span onclick="javascript:disablePopupAddCash();" id="addcashPopupClose" style="display: none">
+						<img src="https://rcmg.in/rc/closebutton.png" alt="Close">
+					</span>
+				</div>		
+				<div class="gd_popup_head">
+					Add Cash Limits
+				</div>		   	
+				<div class="gd_popup_content">
+					<div class="gd_popup_table_container">
+						<table width="100%" border="0" align="center">
+				  			<tbody><tr>
+				    			<td width="70%" id="addcashLimitConditionHeader">Your Daily Add Cash Limit</td>
+				    			<td><span class="rupeefont">r</span> <span id="addcashLimitConditionHeaderContent">500</span></td>
+				  			</tr>
+				  			<tr>
+				    			<td id="addcashLimitConditionCashAddedHeader">Cash added today</td>
+				    			<td><span class="rupeefont">r</span> <span id="addcashLimitConditionCashAddedHeaderContent">480</span></td>
+				  			</tr>
+				  			<tr>
+				    			<th id="addcashLimitConditionMaximumCashHeader">Maximum Cash you can add now</th>
+				    			<th>
+				     				<div class="margin-zeroul flt_rt">
+					     			<ul>	
+				    					<li class="flt_lt"><span class="rupeefont">r</span><span id="addcashLimitConditionCashCanBeAddedHeaderContent">20</span></li>
+				    					<li class="flt_lt"><span id="astrik">*</span></li>
+				    				</ul>
+				    				</div>
+				    			</th>
+				  			</tr>
+						</tbody></table>
+						<p class="fontsize10" id="min25" style="display: none">
+							*Minimum <span class="rupeefont">r</span>25
+						</p>
 					</div>
+					<div id="addcashLimitConditionHeaderErrorMsg1" class="error_message marg_top" style="display: block;"> 
+						<span id="addcashLimitConditionHeaderErrorMsg1Message">
+							We have been unable to reach you at <strong id="addcashLimitConditionHeaderErrorMsg1Email"></strong> (<a href="/player/account/change-email.html">Update</a>) or <strong id="addcashLimitConditionHeaderErrorMsg1Mobile"></strong> (<a href="/player/account/change-mobile.html">Update</a>). 
+							Your daily add cash limit has been reduced to <strong class="rupeefont">r</strong> <strong id="addcashLimitConditionHeaderErrorMsg1Amount"></strong>, <b id="contactMsg">until we are able to contact you.</b> 
+						</span>
+						<div id="addcashLimitConditionToolTip" style="display:none;" class="addcashLimitConditionToolTipClass">
+							<div id="item_2" class="item tooltipleft flt_lt padding_topleft3_7" onmouseout="javascript:;">
+								<img src="https://rcmg.in/rc/add_cash/questionmark-addcash.png" alt="" width="16" height="16">
+			 					<div id="tip2" class="tooltip_description" style="display:none;">
+	                        		You can change your add cash limit once every 48 hrs. You last changed your add cash limit at <span class="addcashLimitConditionToolTipTime">MMM-DD Time</span>.
+                        		</div>
+                        	</div>
+						</div>			
+					</div>
+					<p id="addcashLimitConditionHeaderLink" align="center">
+						<a href="javascript:sendRequestToChangeAddCashLimit('popup',0,true,'','',810,515);">
+							<span id="addcashLimitConditionHeaderLinkMessage">Click here to increase your</span> 
+							<strong id="addcashLimitConditionHeaderLinkMessageStrong">Monthly Add Cash Limit.</strong>
+						</a>
+					</p>			 								
+	         		<div id="addcashLimitConditionHeaderErrorMsg2" class="warning_message marg_top" style="display: block;">
+			  			<span id="addcashLimitConditionHeaderErrorMsg2Message">
+			  				<strong>Creation of another account is prohibited</strong> and may lead to closure of all accounts and forfeit of all money.
+			  			</span>
+					</div>	
+					<input type="hidden" name="gd_mobile_no" id="gd_mobile_no" value="">		
+					<input type="hidden" name="gd_link_enable" id="gd_link_enable" value="">
+				</div> <!--  gd_popup_content -->
+				<div class="gd_popup_footer">
+					<div class="gd_popup_footer_left"> 
+						<img src="https://rcmg.in/rc/ico_res_play_addcash.png" width="25" height="25">
+						&nbsp;&nbsp;Stay in control, stay entertained!
+					</div>
+					<div class="gd_popup_footer_right">
+						<div class="btn_submit" onclick="location.href='/support/contact-us.html';"> 
+							<span class="contactusicon">Contact Us</span>
+						</div>
+					</div>
+				</div> <!-- gd_popup_footer -->				
+			</div> <!-- gd_popup -->
+			<!-- Add Cash popup end here -->			
+		</div>   <!-- contactArea -->         
+        <div id="firstloginpopup" class="tranparentpopupborderCHAT" style="display:none">
+			<div class="first-login_lobby">
+				<div class="first-login-1">
+					<div class="welcometext">
+						Welcome <span class="loginId"></span>!
+					</div>
+					<div class="congratulation">
+						Congratulations! You've earned <img src="https://rcmg.in/rc/1000-practice-chips.png" alt="10,000 Practice Chips" width="95" height="30" align="absbottom"> practice chips
+                        <p> for being our newest member! Well done!</p>
+                    </div>
+                </div>
+				<div class="first-login-2">
+                	<img src="https://rcmg.in/rc/first-login-click-here.jpg" alt="" width="269" height="100" border="0" usemap="#Map">
+					<map name="Map" id="Map" onclick="findAGame();">
+						<area shape="poly" coords="81,16,240,16,253,20,263,28,268,41,265,59,253,69,240,72,78,73,72,79,74,83,74,91,10,90,6,78,4,69,6,60,0,55,2,45,10,45,8,33,3,23,4,15,10,8,16,9,29,2,44,1,58,4,66,9,72,7" href="javascript:;" alt="">
+                   	</map>
+				</div>
+				<div class="first-login-3">
+					<div class="go-to-lobby">
+						<a href="tournaments.html#practicepoints" onclick="trackAjaxPage('/player/overlay/skip-to-lobby.html');OVERLAY.box.hide();"><img src="https://rcmg.in/rc/spacer.gif" alt="Go To Lobby" width="119" height="29" border="0"></a>
+					</div>
+                    <div class="bre-players-online">
+                      	<div class="players-online-left">Players Online:</div>
+                      	<div class="players-online-number" id="onlineplayerslist"></div>
+                  	</div>
 				</div>
 			</div>
-		</div> <!-- contactArea -->
-	</div> <!-- popupContact -->
-	
+		</div> <!-- firstloginpopup -->
+		<div id="firstloginpopup_addCash" class="tranparentpopupborderCHAT" style="display:none">
+			<div class="add_realcash_overlaysu">
+				<div class="add_realcash_overlaysu_mainimg">
+					<div class="add_buttonrealcash_one">
+						<a onclick="javascript:trackAjaxPage('/player/overlay/addcash/addcashnow.html');addCash();" class="btn_prime"><span class="add_buttonrealcash_btn">ADD CASH NOW</span></a>
+					</div>
+                </div>
+				<div class="add_realcash_overlaysu_secure">
+					<img src="https://rcmg.in/gms/add-cash-popup-bottom-secure.jpg">
+				</div>
+				<div class="gotolobby-addcash-loginpopup">
+					<a href="tournaments.html#practicepoints" onclick="trackAjaxPage('/player/overlay/addcash/skip-to-lobby.html');OVERLAY.box.hide();"><span>Go to Lobby</span></a>
+				</div>
+			</div>
+		</div> <!--  firstloginpopup_addCash -->		 	
+	</div> <!-- popupContact -->	
 	<div id="backgroundPopup"></div>
 	<div class="wrapper" id="preload_div">
     <div class="ie6_message_wrap">
@@ -246,7 +307,7 @@ $(document).ready(function()
       <a href="http://windows.microsoft.com/en-in/internet-explorer/downloads/ie" target="_blank"><img src="https://rcmg.in/rc/ie6_ie_icon.gif" width="108" height="42" alt="Internet Explorer" title="Internet Explorer"></a>
       <a href="http://www.google.com/chrome/" target="_blank"><img src="https://rcmg.in/rc/ie6_googlechrome_icon.gif" width="106" height="42" alt="Google Chrome" title="Google Chrome"></a>
       <a href="http://www.mozilla.org/en-US/firefox/new/" target="_blank"><img src="https://rcmg.in/rc/ie6_mozillafirefox_icon.gif" width="102" height="42" alt="Mozilla Firefox" title="Mozilla Firefox"></a>
-      <a href="http://www.apple.com/safari/" target="_blank"><img src="https://rcmg.in/rc/ie6_applesafari_icon.gif" width="99" height="42" alt="Apple Safari" title="Apple Safari"></a>
+      <!--<a href="http://www.apple.com/safari/" target="_blank"><img src="https://rcmg.in/rc/ie6_applesafari_icon.gif" width="99" height="42" alt="Apple Safari" title="Apple Safari"/></a>-->
       </div>
 <div class="ie6_message_left">
       <span>Your browser is outdated and not fully supported.</span><br>
@@ -254,16 +315,16 @@ $(document).ready(function()
         </div>
       </div>
     </div>
-<div class="header_wrap">
-	<div class="header">
-    			<div class="logo"><a id="logiId" href="/"><img src="/themes/default/images/rummy-circle-logo.gif" width="256" height="66" alt="RummyCircle.com - The Best Rummy Experience." title="RummyCircle.com - The Best Rummy Experience."></a></div>
+		<div class="header_wrap">
+			<div class="header">
+    			<div class="logo"><a id="logiId" href="/"><img src="https://rcmg.in/rc/rummy-circle-logo.gif" width="256" height="66" alt="RummyCircle.com - The Best Rummy Experience." title="RummyCircle.com - The Best Rummy Experience."></a></div>
     			<!-- <div id="loading_box" class="userdetail">
                 	<div class="userdetail_main orangeonblackbg userdetail_blank" align="center">
-                		<img src="/themes/default/images/loader.gif"/>
+                		<img src="https://rcmg.in/rc/loader.gif"/>
                     </div>
 				</div> -->		
 				<div id="loading_box" class="userdetail userdetail_blank" align="center">
-					<img src="/themes/default/images/loader.gif" alt="Loading ..." title="Loading ...">
+					<img src="https://rcmg.in/rc/loader.gif" alt="Loading ..." title="Loading ...">
 				</div>		
 				<div id="account_box" class="userdetail" style="display: none;">
 					<div class="userdetail_main orangeonblackbg">
@@ -310,21 +371,21 @@ $(document).ready(function()
               	<div id="login_box" class="userdetail" style="display: none;">              	
 					<div class="userdetail_main orangeonblackbg">
                     	<div class="login_box_inner">
-                    	<form id="loginForm" name="loginForm" method="post" novalidate="" onsubmit="return login();">
+                    	<form id="loginForm" name="loginForm" method="post" novalidate="novalidate" onsubmit="return login();">
                     		<input type="hidden" name="calloutType" value="bottom">
                       		<div class="form_row">
-                      			<input id="j_username" name="j_username" type="text" value="" onfocus="toggleText(this, false)" onblur="toggleText(this, true)">
+                      			<input id="j_username" name="j_username" type="text" value="" onfocus="toggleText(this, false)" onblur="toggleText(this, true)" maxlength="20">
                       		</div>
                       		<div class="form_row">
                       			<input type="text" name="fake_j_password" id="fake_j_password" onfocus="passwordFocus('j_password')">
-      							<input id="j_password" name="j_password" type="password" onblur="passwordBlur(this)" style="display:none;">
+      							<input id="j_password" name="j_password" type="password" onblur="passwordBlur(this)" style="display:none;" maxlength="20">
                       		</div>
 							<div class="btn_row flt_lt">				
 								<span class="btn_prime_home">
 									<input type="submit" value="Login" class="home_login" name="login_submit" id="login_submit">
 								</span>
 								<div class="marg_lt flt_lt">
-          							<span><a href="/forgot-password.html">Forgot<br>Password?</a></span>
+          							<span><a href="/player/forgot-password.html">Forgot<br>Password?</a></span>
           						</div>
 							</div>
 						</form>
@@ -336,22 +397,33 @@ $(document).ready(function()
                   	</div>
 				</div> <!--  login_box  -->  
 				<ul id="top_nav">
-					<li id="superlink1"><h3><a href="/" id="top_nav_home" title="Home" class="home"><img id="homeicon" src="/themes/default/images/top-nav-home-icon.png" width="23" height="20" alt="RummyCircle"></a></h3></li>
+					<li id="superlink1"><h3><a href="/" id="top_nav_home" title="Home" class="home"><img id="homeicon" src="https://rcmg.in/rc/top-nav-home-icon.png" width="23" height="20" alt="RummyCircle"></a></h3></li>
+					<li>					</li>
 					<li>
+					  <ul id="tdropdown" class="dropdown">
+					    <li id="superlink2" style="width: auto;">    
+					      <h3><a href="/player/tournaments.html" title="Rummy Lobby" class="">Rummy Lobby</a></h3>
+					      <ul class="sub_menu">
+					        <li><a id="listCash" href="/player/tournaments.html#cashpoints">Cash</a></li>
+					        <li><a id="listPractice" href="/player/tournaments.html#practicepoints">Practice</a></li>
+						<li><a id="listPromo" href="/player/tournaments.html#mttall">Tournaments</a></li>
+					        </ul>
+					      </li>
+					    </ul>
+				  </li>
+					<!--<li><h3><a onClick="javascript:addCash();" title="Add Cash" class="add_cash">Add Cash</a></h3></li>-->
+				  <li id="superlink3"><h3><a href="/player/account/overview.html" title="My Account" class="my_acct_a">My Account</a></h3></li>
+					<!--<li id="superlink4"><h3><a href="/promotions/promotions.html" title="Promotions" class="promo">Promotions</a></h3></li>-->
+                    <li>
 						<ul id="tdropdown" class="dropdown">
-							<li id="superlink2" style="width: auto;">    
-								<h3><a href="/player/tournaments.html" title="Rummy Lobby" class="">Rummy Lobby</a></h3>
-                                <ul class="sub_menu">
-                                	<li><a id="listCash" href="/player/tournaments.html#cashpoints">Cash</a></li>
-                                    <li><a id="listPractice" href="/player/tournaments.html#practicepoints">Practice</a></li>
-                                    <li><a id="listPromo" href="/player/tournaments.html#promotions">Promotions</a></li>
-                                </ul>
+							<li id="superlink4" style="width: auto;">    
+								<h3><a href="/promotions/promotions.html" title="Promotions" class="">Promotions</a></h3>
+                                
                         	</li>
                         </ul>
 					</li>
-					<!--<li><h3><a onClick="javascript:addCash();" title="Add Cash" class="add_cash">Add Cash</a></h3></li>-->
-					<li id="superlink3"><h3><a href="/player/account/overview.html" title="My Account" class="my_acct_a">My Account</a></h3></li>
-					<li id="superlink4"><h3><a href="/promotions/promotions.html" title="Promotions" class="promo">Promotions</a></h3></li>
+
+
 					<li id="superlink5"><h3><a href="/player/bring-friends/home" title="Bring-A-Friend" class="bring_friend">Bring-A-Friend</a></h3></li>
 					<li id="superlink6" class="top_nav_last"><h3><a href="/help/helphome.html" title="Help" class="help">Help</a></h3></li>
 				</ul> <!--  top_nav -->
@@ -362,7 +434,7 @@ $(document).ready(function()
 			<div id="promo_banner">
                                 <div style="padding-top:0px;text-align:center">
                                         <a>
-                                                <img width="959" height="68" border="0" src="/themes/default/images/spacer.gif">
+                                                <img width="959" height="68" border="0" src="https://rcmg.in/rc/spacer.gif">
                                         </a>
                                 </div>
             </div>
@@ -635,7 +707,7 @@ must be sent to the Grievance Officer at <a href="mailto:support@rummycircle.com
 			<ul class="payment_part_foot">
 				<li class="title"><p class="foot_head_small">We Accept</p></li>
 				<li class="last title"><p class="foot_head_small">RNG Certified By</p></li>
-				<a onclick="javascript=window.open(&quot;../help/add-cash/cod.html&quot;,&quot;&quot;,&quot;width=630,height=579,menuBar=no,scrollbars=yes,resizable=no&quot;);" href="#"><li class="banklogo5"></li></a>
+				<a href="javascript:openCashOnDeliveryPopup();"><li class="banklogo5"></li></a>
 				<li class="last banklogo6"></li>
 			</ul>
 		</div>
@@ -653,18 +725,20 @@ must be sent to the Grievance Officer at <a href="mailto:support@rummycircle.com
 	</div>
 </div>
 </div>
-<script src="/js/jquery.alerts.js" type="text/javascript"></script>
-<script src="/js/jquery.autocomplete.js" type="text/javascript"></script>
-<script src="/js/custom_function.js?v1.2" type="text/javascript"></script>
-<script src="/js/addressVerification.js?v1.1" type="text/javascript"></script>
-<script src="/js/addCashValidationMessage.js" type="text/javascript"></script>
-<script src="/js/trackStaticPages.js" type="text/javascript"></script>
-<script src="/js/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/js/popup.js?v1.2" type="text/javascript"></script>
-<script src="/js/jquery.tooltip.js" type="text/javascript"></script>
-<script src="/js/jquery.dropdown.js" type="text/javascript"></script>
-<script src="/js/addcash4.js?v1.1" async="" type="text/javascript"></script>
-<script src="/js/links.js" async="" type="text/javascript"></script>
+<script src="/js/jquery.alerts.js?v1356528874" type="text/javascript"></script>
+<script src="/js/jquery.autocomplete.js?v1356528874" type="text/javascript"></script>
+<script src="/js/custom_function.js?v1358506225" type="text/javascript"></script>
+<script src="/js/addressVerification.js?v1356528874" type="text/javascript"></script>
+<script src="/js/addCashValidationMessage.js?v1358506225" type="text/javascript"></script>
+<script src="/js/trackStaticPages.js?v1356528874" type="text/javascript"></script>
+<script src="/js/jquery-ui.min.js?v1356528874" type="text/javascript"></script>
+<script src="/js/popup.js?v1358506225" type="text/javascript"></script>
+<script src="/js/jquery.tooltip.js?v1356528874" type="text/javascript"></script>
+<script src="/js/jquery.dropdown.js?v1356528874" type="text/javascript"></script>
+<script src="/js/addcash4.js?v1356528874" async="" type="text/javascript"></script>
+<script src="/js/links.js?v1356528874" async="" type="text/javascript"></script>
+<script src="/js/jquery.carousel.js?v1356528874" type="text/javascript"></script>
+<script src="/js/selectToUISlider.jQuery.js?v1356528874" type="text/javascript"></script>  
 <script type="text/javascript">
 	(function() {
 		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
@@ -672,6 +746,9 @@ must be sent to the Grievance Officer at <a href="mailto:support@rummycircle.com
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 	})();
 </script>
+<img src="https://rcmg.in/rc/first-login-bg_lobby.jpg" height="1px;" style="visibility: hidden">
+<img src="https://rcmg.in/gms/addcash-relcash-bnr.jpg" height="0px;" style="visibility: hidden">
+
 
 
 
