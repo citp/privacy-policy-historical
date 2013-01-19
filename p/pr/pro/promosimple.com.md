@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promosimple.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004200955id_/https%3A//promosimple.com/accounts/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promosimple.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119070526id_/https%3A//www.promosimple.com/accounts/privacy-policy) for the most accurate reproduction.*
 
 # PromoSimple
 
