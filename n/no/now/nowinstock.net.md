@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215032307id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstock.net privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119014627id_/http%3A//www.nowinstock.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - NowInStock.net
 
@@ -92,4 +92,4 @@ We continually add new products, let us know if you have any you would like to s
 
 #### Testimonials
 
-"Merry Christmas to NowInStock.net and to my kids. Thanks to your website I was able to purchase 2 Leappad's in pink from Amazon Prime with no tax/shipping and 1 green for my son and 1 for my nephew! I am thrilled. I have been going in circles since Thanksgiving and am amazed that I got 4 of them within 2 days of each other and they will be here by Christmas!! Thank you!" -Janis
+"Thank you for this service! With your browser alerts, I could just leave the window open and continue my browsing. I didn't have to worry about checking every website 1000 times a day to see if the Chromebook was in stock. I got one the first day I started using it and now I'll have it by Christmas. Thanks!" -Ashley
