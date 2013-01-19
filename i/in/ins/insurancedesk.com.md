@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurancedesk.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119160017id_/http%3A//www.insurancedesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancedesk.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119022824id_/http%3A//insurancedesk.com/privacy) for the most accurate reproduction.*
 
 # InsuranceDesk.com - Health insurance quotes in just minutes!
 
@@ -88,4 +88,4 @@ InsuranceDesk.com
 Suite 2300  
 Cambridge, MA 02142 
 
-Copyright © 2009-2012 insurancedesk.com. 
+Copyright © 2009-2013 insurancedesk.com. 
