@@ -1,89 +1,64 @@
-> *The following text is extracted and transformed from the plrzon.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113230121id_/http%3A//plrzon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrzon.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119140744id_/http%3A//plrzon.com/page/privacy) for the most accurate reproduction.*
 
-# PlrZon
+# Privacy Policy | PlrZon
 
-_This statement was last updated February 26, 2011._
+**About Privacy  
+**
 
-The term 'plrzon' or 'us' or 'we' refers to the owner(s) of the website. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service. 
+Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers" needs. 
 
-We at PlrZon respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts. 
+**  
+What Information Do We Collect?**
 
-Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you. 
+When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
 
-This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally. 
+**  
+Credit Card Information**
 
-[For the purpose of the Data Protection Act 1998, PlrZon is our data controller.] 
+If you choose to purchase products or services from us or our partners, you will need to give personal information and authorization to obtain information from various credit services Like PayPal. We DO NOT process credits from our servers at this time.
 
-**1\. Collected Information**
+**  
+Email Information**
 
-Data can be collected and processed during the operations of our website. The following are ways we may perform these actions: 
+In addition to providing the foregoing information to our partners, if you choose to correspond further with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-1.1 Data regarding your visit(s) to our website and any resources used are collected. The following is included and not limited to: location data, weblogs, traffic data, and any other communication information. 
+**  
+How Do We Use Your Private Information?**
 
-1.2 Any forms you filled out on our site allows us to collect data such as registering for information or when you complete a purchase. 
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers’ personal information. As a customer, you will be given the opportunity, at least once annually, to notify us of your desire not to receive these offers.
 
-1.3 If for any reason you communicate with our personnel or site we may collect information. 
+**  
+What Are Cookies?**
 
-**2\. Cookie Usage**
+Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user’s Web browser on the user’s hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user’s transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
-There are instances where we may use cookies to gather information regarding our services in a mathematical collection for our website and our advertisers. 
+**  
+How Do We Use Information We Collect From Cookies?**
 
-Any information collected will not have any identifying data. It is statistical data about our visitors and how they have used our site. No personal details will be shared that could identify you. 
+We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users’ browsing activities, in order to constantly improve our Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective customers.
 
-We may assemble information about your common internet use with a cookie file. When used, the cookies are downloaded to your computer automatically. The cookie is stored on the hard drive, with transferred information. The data sought by the cookie helps us improve our website and any service offered to you. 
+**  
+Notice of New Service Changes**
 
-Your browser has the ability to decline cookies. This is done by setting your browser options to decline all cookies. Note: if you do decline the download of cookies, some aspects of our site may not work or allow you access. 
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us a request.
 
-Our advertisers may download cookies to which we have no control. If used, these cookies are downloaded by clicking on an advertisement found on our website. 
+**  
+Disclosure of Information to Outside Parties**
 
-**3\. Our Use of Your Information**
+We may provide aggregate information about our customers, sales, Web site traffic patterns and related Web site information to our affiliates or reputable third parties, but this information will not include personally identifying data, except as otherwise provided in this Privacy Policy.
 
-Information stored or collected regarding you helps us improve and offer services you need. The following list contains how we might use your data: 
+**  
+Legally Compelled Disclosure of Information**
 
-3.1 Any request you make of our site or personnel allows us to use information you provided us with, relating to the products or services we have. We may also send information on products or services you may be interested in, as long as consent has been received. 
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. 
 
-3.2 Contract Commitments: To meet any Commitment we make to you. 
+**  
+Other Website Linked to Our Website**
 
-3.3 Changes or Improvements made to the site can warrant use of your information, with regard to notification of such changes. 
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.   
+Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding. 
 
-3.4 An existing customer may be contacted regarding products and services related to any item of previous sale you made on our site. 
+**  
+Your Consent**
 
-3.5 We may use data or allow third parties to use information that is not related to goods or services you may be interested in. We or third parties contact you only if consent has been provided by you at anytime, based on information we collected. 
-
-3.6 Any new customer can only be contacted by us or third parties if consent has been offered via our site. We only send communications you have consented to. 
-
-3.7 Anyone who does not wish to give consent for our site or third party use has the opportunity to decline. Once we receive your withhold for consent we will remove your details from any mailings or third party communications. 
-
-3.8 None of the information collected about you will offer identifiable characteristics. Information shared to a third party is statistical only. We will not reveal who you are, only mathematical information about our visitors. 
-
-**4\. Personal Data Storage**
-
-4.1 Locations outside the European Economic Area may be used for transferring data we collect about you. These data sites are for storing or processing of your information. The information we share outside the European Economic Area may be shared with staff based on the process and storage of said data. It may include such processes as processing a payment or offering support for your service or product needs. The staff processing or storing information may work for our suppliers outside the European Economic Area. By submitting your data to use you have agreed to this transfer and storage of data. We take all reasonable action to ensure the safety of your personal data in agreement with this Privacy Policy. 
-
-4.2 Information we are provided will be stored on secure servers. Transaction data is encrypted for your safety. 
-
-4.3 You should understand data via online transmission is not completely secure. We cannot guarantee full protection and security data, only that we take all reasonable action to protect information sent to us electronically. Transmission of any data by you is at your own risk. Where applicable you may be given access to sections of our site that require a password. You are responsible for the passwords safety and confidentiality. 
-
-**5\. Information Disclosure**
-
-5.1 At times we may disclose personal information to persons in our group. This can include subsidiaries, holding companies, or any other subsidiaries involved in our business, if applicable. 
-
-5.2 Third Party disclosure may occur for the following reasons: 
-
-5.2.1 Selling any or all of our business to a third party may result in sharing your information. 
-
-5.2.2 At any time when we are legally required to we may disclose information about you and your visits to our sites. 
-
-5.2.3 To prevent fraud and help in fraud protection in order to reduce credit risk, we may disclose information. 
-
-**6\. Third Party Links**
-
-Third party links may be discovered on our site. These third party links have their own privacy policy, which you agree to when you click on the link. We are not responsible nor do we accept responsibility for third party links. Our liability covers us only on our site, and thus we do not accept liability for third party links as we have no control over them. 
-
-**7\. Information Accessibility**
-
-We cannot withhold data we collect about you, as per The Data Protection Act 1998. This act provides you with access to any information we may hold on you. If you wish to have access about our data collection on you please pay our fee of ?10. The fee covers our costs for processing your request and getting the data to you. Please use the contact details below to formulate your data access request. 
-
-**8\. Contacting Us**
-
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20121113230121id_/http%3A//plrzon.com/contact.php). 
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
