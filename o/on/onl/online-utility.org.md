@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116074208id_/http%3A//www.online-utility.org/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119043429id_/http%3A//www.online-utility.org/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,13 +34,10 @@ _Utilities for Online Operating System_ |
     * [Loan Calculator](https://web.archive.org/math/loan_calculator.jsp)
     * [Present Value of Future Money](https://web.archive.org/math/present_value_of_future_money.jsp)
     * [Retirement Planning Calculator](https://web.archive.org/math/retirement_planning_calculator.jsp)
-  * [Webmaster](https://web.archive.org/webmaster/index.jsp)
-    * [Backlink Checker](https://web.archive.org/webmaster/backlink_domain_analyzer.jsp)
-    * [Keyword Suggestion](https://web.archive.org/webmaster/keyword_suggestion.jsp)
-    * [Anchor Text Analysis](https://web.archive.org/webmaster/backlink_anchor_analyzer.jsp)
-    * [Hosts and IP Backlink Analysis](https://web.archive.org/webmaster/backlink_host_ip_analyzer.jsp)
   * [Other](https://web.archive.org/other.jsp)
     * [Image Converter](https://web.archive.org/image_converter.jsp)
+    * [Webmaster Tools](https://web.archive.org/webmaster/index.jsp)
+    * [Travel Utilities](https://web.archive.org/travel/index.jsp)
     * [Picture Galleries - Free Photos](https://web.archive.org/image/)
     * [Special Search Engines](https://web.archive.org/search/index.jsp)
     * [Measurement Convertors](https://web.archive.org/measures/index.jsp)
