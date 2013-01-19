@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the readyforzero.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018040117id_/https%3A//privacy-policy.truste.com/verified-policy/www.readyforzero.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyforzero.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119081621id_/https%3A//privacy-policy.truste.com/verified-policy/www.readyforzero.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.readyforzero.com
 
 Effective on July 16, 2010 
 
-This privacy statement describes how Limbo Labs collects and uses the personal information you provide on our Web site: [www.readyforzero.com ](https://www.readyforzero.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Limbo Labs collects and uses the personal information you provide on our Web site: [www.readyforzero.com ](http://www.readyforzero.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
@@ -23,13 +23,21 @@ We collect the following personal information from you
 
 
 
+We also collect the following information from you
+
+  * Demographic information such as age, education, gender, interests and zip code
+
+
+
 As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
 We use this information to
 
   * Send you requested product or service information
+  * Send product updates or warranty information
   * Respond to customer service requests
   * Send you a newsletter
+  * Respond to your questions and concerns
   * Improve our Web site and marketing efforts
   * Conduct research and analysis
   * Display content based upon your interests
@@ -46,9 +54,13 @@ We enable you to create a profile, and share information such as messages, photo
 
 We obtain credit information about you from an outside credit reporting agency to help us with customer authentication and credit-related decisions.
 
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
 ## Information Sharing
 
 We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
 We may also disclose your personal information
 
@@ -99,8 +111,8 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 Limbo Labs 
 
-153 Townsend #9086 
+71 Stevenson Street #800 
 
-San Francisco, CA, United States 94107
+San Francisco, CA, United States 94105
 
 Phone: 8889376269
