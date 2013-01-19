@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the followerhub.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016022344id_/http%3A//www.followerhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followerhub.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119103103id_/http%3A//www.followerhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » FollowerHub.com
+
+Unfortunately we do not accept new registrations at this time.
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
