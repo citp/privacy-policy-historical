@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trueandco.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021102229id_/https%3A//trueandco.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueandco.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119090616id_/https%3A//trueandco.com/privacy_policy) for the most accurate reproduction.*
 
-# True&Co: Your Personalized Online Bra Shop
+# True&Co: Your personal bra shop online
 
 ## Privacy Policy
 
