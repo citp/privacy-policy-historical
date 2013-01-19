@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equitynet.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508102008id_/https%3A//www.equitynet.com/privacy.aspx%3Fmode%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equitynet.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119132426id_/https%3A//www.equitynet.com/privacy.aspx%3Fmode%3D1) for the most accurate reproduction.*
 
 # 
 
@@ -12,7 +12,7 @@ If you have any questions about this Policy, please feel free to contact us via 
 
 **Information we collect and how we use it**
 
-We offer a service that requires you to register for an account and provide some personal and enterprise information to us. In order to provide our services, we may collect the following types of information: 
+We offer a service that requires you to register for an account and provide some personal and business information to us. In order to provide our services, we may collect the following types of information: 
 
 | •  |  **Personal information** – When you sign up for an EquityNet account, we ask you for personal information (such as your name, address, phone number, email address, and account username and password). We also request that our customers provide credit card or other payment account information, which is encrypted and securely maintained at Authorize.Net. This information is collected for internal use only and will not be sold to or shared with third-party firms.   
 ---|---  
