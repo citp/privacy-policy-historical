@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteopsys.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010123323id_/http%3A//siteopsys.com/privacy-policy.tool) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteopsys.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120003921id_/http%3A//www.siteopsys.com/privacy-policy.tool) for the most accurate reproduction.*
 
 # Siteopsys Privacy Policy
 
