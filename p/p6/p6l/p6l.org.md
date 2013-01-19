@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the p6l.org privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224184901id_/http%3A//p6l.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the p6l.org privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120005321id_/http%3A//p6l.org/privacy.html) for the most accurate reproduction.*
 
 # P6L.ORG - Privacy Policy
 
