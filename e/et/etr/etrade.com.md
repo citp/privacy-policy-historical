@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etrade.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016062030id_/https%3A//us.etrade.com/e/t/estation/pricing%3Fid%3D1209010000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etrade.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119045413id_/https%3A//us.etrade.com/e/t/estation/pricing%3Fid%3D1209010000) for the most accurate reproduction.*
 
 # E*TRADE FINANCIAL - Home
 
@@ -8,7 +8,7 @@ E*TRADE FINANCIAL Privacy Statement
 
 * * *
 
-This Privacy Policy covers the following **affiliated companies** in the E*TRADE family of companies: E*TRADE Financial Corporation, E*TRADE Securities LLC (member FINRA/SIPC), E*TRADE Capital Markets, LLC (member FINRA/SIPC), E*TRADE Capital Management, LLC (SEC RIA), E*TRADE FFX, LLC (member NFA, )E*TRADE Insurance Services, Inc., E*TRADE Financial Corporate Services, Inc., E*TRADE Platform Services, LLC, E*TRADE United Bank (member FDIC), E*TRADE Bank (member FDIC), E*TRADE Clearing LLC (member NYSE/FINRA/SIPC), E*TRADE Savings Bank (member FDIC), E*TRADE Securities Limited, and ETRADE Securities (Hong Kong) Limited. These entities are collectively referred to as "affiliated companies," "we," "us," and "our" throughout this policy.
+This Privacy Policy covers the following **affiliated companies** in the E*TRADE family of companies: E*TRADE Financial Corporation, E*TRADE Securities LLC (member FINRA/SIPC/NFA), E*TRADE Capital Markets, LLC (member FINRA/SIPC), E*TRADE Capital Management, LLC (SEC RIA), E*TRADE Insurance Services, Inc., E*TRADE Financial Corporate Services, Inc., E*TRADE Platform Services, LLC, E*TRADE United Bank (member FDIC), E*TRADE Bank (member FDIC), E*TRADE Clearing LLC (member NYSE/FINRA/SIPC), E*TRADE Savings Bank (member FDIC), E*TRADE Securities Limited, and ETRADE Securities (Hong Kong) Limited. These entities are collectively referred to as "affiliated companies," "we," "us," and "our" throughout this policy.
 
 **Privacy is our priority.**
 
