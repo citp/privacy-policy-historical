@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mutualofomahabank.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221152548id_/http%3A//www.mutualofomahabank.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualofomahabank.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119110331id_/http%3A//mutualofomahabank.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Mutual of Omaha Bank
 
