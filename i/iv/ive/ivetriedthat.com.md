@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivetriedthat.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024021614id_/http%3A//www.ivetriedthat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivetriedthat.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120021557id_/http%3A//ivetriedthat.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
