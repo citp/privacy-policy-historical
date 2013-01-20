@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaddresser.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015010231id_/http%3A//www.ipaddresser.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddresser.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120031738id_/http%3A//www.ipaddresser.com/privacy.php) for the most accurate reproduction.*
 
 # IP Addresser Privacy Policy
 
