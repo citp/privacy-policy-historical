@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodhouseclothing.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014082258id_/http%3A//www.woodhouseclothing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodhouseclothing.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120075502id_/http%3A//www.woodhouseclothing.com/privacy.php) for the most accurate reproduction.*
 
 # Woodhouse Clothing Privacy Policy
 
@@ -56,6 +56,14 @@ We will endeavor to keep any information, which we hold, about you up to date an
 
 We will endeavor to protect your data against unauthorised use.
 
+## MARKETING OPT-OUT
+
+At any time, you can tell us that you do not want us to use your details for the purposes of marketing. You can opt-out from all future communications from Woodhouse by using the unsubscribe link from any of our email communications, or emailing us at customerservices@woodhouseclothing.com or by writing to us at:
+
+Woodhouse Marketing Department, Unit 18, Adlington Industrial Estate, Macclesfield, Cheshire, SK10 4NL.
+
+If you have any further questions, don't hesitate to contact our Customer Service team on 01625 421 100.
+
 ## COOKIES
 
 As part of ensuring the proper operation of our site and to maximise your enjoyment of it, we currently use cookies on this website. On 26th May 2012 the rules about the use of cookies on websites changed. A cookie is a small file, typically of letters and numbers, downloaded to your device when you visit our website and allows us and/or our business partners to recognise you as a user when you return using the same computer and web browser. You can find an overview of the various types of cookies used by us and/or our business partners, in the table below.
@@ -75,14 +83,14 @@ AdWords uses cookies to anonymously identify traffic and conversions from paid s
 **Webgains**  
 Webgains use cookies to anonymously record that a user has clicked on an Webgains link that referred the user to our site. This information is collected in order to enable us to pay a commission to Webgains and its affiliates for any sales they may drive on our site. Webgains cookies remain active for a period of 30 days.
 
-**SaleCycle**  
-Salecycle collect information about customers who used the basket and checkout process but then did not complete their purchase. This allows us to email those customers and make sure that there was not a technical problem or other issue which prevented them from completing their purchase. SaleCycle have recently adopted a cookieless approach to tracking, but is still included here for completeness.
-
 **PredictiveIntent**  
 PredictiveIntent dynamically personalise and suggest products which may be of interest based on the products that have been previously viewed or interacted with by you and other visitors/customers. Cookies are used by PredictiveIntent for the purpose of monitoring and analysing your preferences – this allows us to then provide you with tailored information.
 
 **AddThis**  
-AddThis use cookies to record when you have interacted with their widget. When you share a product using the social media sharing button on our site, the social network that has created the button will record that you have done this.  
+AddThis use cookies to record when you have interacted with their widget. When you share a product using the social media sharing button on our site, the social network that has created the button will record that you have done this.
+
+**Struq**  
+Struq places anonymous cookies which collect details of pages and products you viewed. This information is then used to better direct advertisements shown to you on 3rd party websites to make sure that those adverts include products that are of interest to you.  
   
 If you want to manage your cookies then you can do this via your browser or alternatively please visit [**www.aboutcookies.org**](http://www.aboutcookies.org/) for up to date information about cookie management. All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, see the 'Help' option in your browser for more details.
 
