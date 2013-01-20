@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014152000id_/https%3A//www.webcargo.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120012107id_/https%3A//www.webcargo.net/privacy) for the most accurate reproduction.*
 
 # WEBCARGO :: Privacy Policy
 
