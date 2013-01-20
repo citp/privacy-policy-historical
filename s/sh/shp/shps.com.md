@@ -1,39 +1,20 @@
-> *The following text is extracted and transformed from the shps.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001103703id_/http%3A//shps.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shps.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120030710id_/http%3A//www.shps.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | SHPS
+# Privacy Policy | ADP
 
-At SHPS, we know how important it is to keep your personal information secure. SHPS is committed to maintaining the confidentiality of information we receive from our customers and website users. We have privacy protections built into every aspect of our business operations, including our Web-based services. This statement discloses our privacy strategy.
+Your employer or plan sponsor (in either case, the "Employer") has contracted with ADP in order to make this website available to you. You can use this website to access various ADP products and services pursuant to your Employer's contracts with ADP.
 
-## Collected Information
+ADP is committed to protecting the privacy and security of all personal information that we process when we provide services to you and the Employer. This notice explains our practices with regard to the personal information you submit to us when using the applications via this website.
 
-SHPS limits the information collected about you to what is needed for conducting business. For example, when we provide services to you on behalf of your employer, we may collect demographic, payroll, banking, and insurance data. We may use this information to process transactions, respond to inquiries from you or your representative, or to fulfill other administrative requirements. Failure to provide requested information limits access to the features and services offered by this site. 
-
-Technical and navigational information, such as browser type, Internet protocol address, screens viewed, and average session length, may be collected and used to improve our Web design and functionality. This data is used only in aggregate and does not reveal individual details about users of our site. 
-
-## Information Protection
-
-Protection of your data is a core component of our service to you. SHPS' information protection controls are maintained in accordance with industry standards and practices, and we adapt our physical, electronic, and procedural controls to meet changing requirements and advances in technology. 
-
-SHPS restricts access to information to individuals in our organization who require that access in order to provide products and services to you. Our associates are educated regarding their responsibility to protect your privacy utilizing clear guidelines. 
-
-SHPS shares collected information with outside parties only as required (1) by law or legal order, or (2) to fulfill our contracted administrative duties. For example, SHPS provides enrollment services that require transmitting collected demographic, payroll and insurance data to the employer and applicable insurance carrier(s). Information collected will not be distributed or shared with any entity for marketing purposes or for any other purpose outside the scope of our business requirements. 
-
-This site may contain links to other Web sites. SHPS is not responsible for the privacy practices or the content of these other Web sites. Users should check the policy statement of the other sites to understand their policies. It is the responsibility of the user to keep personal information private and confidential. 
-
-If you are a former customer of SHPS, your information is treated in the same manner as current customers. 
-
-## Online Security
-
-SHPS utilizes proven methods to maintain the security of your information during your use of our services. Highlights of our security include: 
-
-  * Internal firewalls;
-  * Security audits and assessments;
-  * Secure Socket Layers 3.0 (128-bit data encryption);
-  * User-level security controls; and
-  * Accessing information. 
+  * ADP will collect personal information from you when you register at the website. We may combine your personal information with information we have received from the Employer or generated in the course of performing services to the Employer. This personal information may include your contact information (such as your name and address) as well as payroll information, time and attendance records, benefits information, and other personal information that the Employer may have in order to perform human resources and other administrative functions.
+  * ADP uses "cookies" to enable certain functionality of the website and the applications. A cookie is a small text file placed on your computer hard drive by our website. Our website can then read that information the next time you visit. This website uses cookies to manage your preferences, assist with authentication, and for website administration. Information we gather from cookies may be combined with your personal information.
+  * ADP will collect and process your personal information only as needed to perform the services requested or as otherwise instructed by the Employer or you. We will not use or disclose your personal information for our own purposes.
+  * ADP may disclose all of your personal information to the Employer. We may disclose your personal information to our affiliates and data processors as needed to provide the services that you and the Employer have requested. These entities are all contractually bound to limit use of your personal information as needed to perform the services. We may also disclose your personal information when required by law or as otherwise permitted by our contracts with the Employer.
+  * ADP will at all times maintain reasonable and appropriate security controls to protect your personal information.
+  * If you are based outside of the United States, your personal information may be transferred to ADP affiliates and data processors in the United States and elsewhere in the world, unless your Employer's contract dictates otherwise. ADP will always protect the privacy and security of your personal information, regardless of where it is processed. Personal information transfers from the European Union and other countries with data transfer restrictions will be authorized by approved model contracts or an EU-US Safe Harbor certification.
 
 
 
-SHPS offers several options for accessing your account information, including Web access, automated telephone service, customer service representative, mail, and e-mail. Specific addresses and telephone numbers are listed on your statements and other correspondence. 
+If you have questions about your privacy rights, please contact the Employer's human resources department. If you believe that ADP has not handled your personal information properly, you may also contact ADP's Privacy Office at [Privacy@adp.com](mailto:Privacy@adp.com).
 
-If you have questions or comments regarding this privacy policy, please [contact us](https://web.archive.org/web/20121001103703id_/http%3A//shps.com/contact-us/contact-form.htm). 
+This policy is effective as of: 10/1/2012
