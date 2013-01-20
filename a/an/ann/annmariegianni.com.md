@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annmariegianni.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017114915id_/http%3A//www.annmariegianni.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annmariegianni.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120192244id_/http%3A//www.annmariegianni.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy « Annmarie Gianni Skin CareAnnmarie Gianni Skin Care
 
