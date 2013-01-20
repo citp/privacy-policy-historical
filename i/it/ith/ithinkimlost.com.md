@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ithinkimlost.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120070411id_/http%3A//www.ithinkimlost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithinkimlost.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120190235id_/http%3A//www.ithinkimlost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ITIL JET Programme / Japan Forum
 
@@ -21,7 +21,7 @@ Privacy Policy
 
   
   
-All times are GMT +9. The time now is 16:04.
+All times are GMT +9. The time now is 04:01.
 
   
 
