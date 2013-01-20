@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianpad.in privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016003611id_/http%3A//www.indianpad.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianpad.in privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120070611id_/http%3A//www.indianpad.in/privacy) for the most accurate reproduction.*
 
 # IndianPad.in - Indian Video Sharing
 
