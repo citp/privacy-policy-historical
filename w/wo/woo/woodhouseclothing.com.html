@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the woodhouseclothing.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014082258id_/http%3A//www.woodhouseclothing.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the woodhouseclothing.com privacy policy that was archived on 2013-01-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130120075502id_/http%3A//www.woodhouseclothing.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Woodhouse Clothing Privacy Policy</title>	 
@@ -12,7 +12,7 @@
 <meta name="rating" content="General">
 
 <link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,200,300,700" rel="stylesheet" type="text/css">
-<link href="http://www.woodhouseclothing.com/templates/2011/css/layout.css" rel="stylesheet" type="text/css">
+<link href="http://www.woodhouseclothing.com/templates/2011/css/layout.css?23122012" rel="stylesheet" type="text/css">
 <link href="http://www.woodhouseclothing.com/templates/2011/css/tabs.css" rel="stylesheet" type="text/css">
 <link href="http://www.woodhouseclothing.com/templates/2011/css/bx_styles.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="http://www.woodhouseclothing.com/templates/2011/css/flexslider.css">
@@ -49,12 +49,17 @@
 <script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/jquery.mousewheel.min.js"></script>
 <script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/jquery.mCustomScrollbar.js"></script>
 <script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/jquery.validate.js"></script>
-<script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/jquery.form.js"></script> 
+<script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/jquery.form.js"></script>
 <script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/modernizr.js"></script>
 <script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/chosen.jquery.js"></script>
 <script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/script.js"></script>
 <script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/jquery.prettyPhoto.js" charset="utf-8"></script>
 <script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/tooltips.js" charset="utf-8" defer="defer"></script>
+<script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/money.min.js"></script>
+<script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/accounting.min.js"></script>
+<script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/jquery.dropdownPlain.js"></script>
+<script type="text/javascript" src="http://www.woodhouseclothing.com/templates/2011/js/currency.conversion.min.js"></script>
 
 
 <script language="JavaScript">
@@ -147,16 +152,13 @@ if (atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length)
   return false;
   }
 }
-
+$(window).bind("load", function() {
+    if($("#sizedd option:contains('One Size')").length > 0){
+        $("#sizedd option:eq(1)").attr('selected','selected');
+        updateCheck();
+    }else{};
+});
 </script>
-
-        <script>
-        setTimeout(function(){
-            if($("#sizedd option:eq(1)").html() == ' One Size '){
-            $("#sizedd option:eq(1)").prop('selected',true);
-            }
-        }, 2000);
-        </script>
 
 <!--[if !IE]><!-->
 <script>
@@ -180,6 +182,19 @@ $(document).ready(function()
 </script>
 <![endif]-->
 
+<!--[if IE 7]>
+<script type="text/javascript">
+$(function() {
+       var zIndexNumber = 1000;
+       // Put your target element(s) in the selector below!
+       $("div").each(function() {
+               $(this).css('zIndex', zIndexNumber);
+               zIndexNumber -= 10;
+       });
+});
+</script>
+<![endif]-->
+
 
     <link href="http://www.woodhouseclothing.com/templates/2011/css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css">
     
@@ -192,13 +207,17 @@ $(document).ready(function()
     </noscript>
 
 
+<script type="text/javascript">
+var __stormJs = 't1.stormiq.com/dcv4/jslib/4445_825A2AF4_F1B7_4DC9_BEB9_177CBD1514EC.js';
+</script>
+<script type="text/javascript" src="/track.js"></script>
 </head>
 <body>
 
 <div class="container">
 
 	<div id="toTop">^ TOP</div>
-<!--googleoff: all-->
+
 <div class="slidingDiv">
     
     		<a id="signupClose"></a>
@@ -236,7 +255,8 @@ $(document).ready(function()
                 <label for="optIn" id="smsText">&nbsp;I would like to receive SMS updates</label>
                 </div>
                 <div class="fieldContainer"><input tabindex="6" name="mobileNumber" id="mobileNumber" disabled="disabled" type="text" placeholder="Mobile Number"></div>
-				<input name="signup" tabindex="7" class="button" type="submit" id="signup" value="JOIN THE MAILING LIST">
+				<input tabindex="9999" type="text" name="url" id="url">
+                <input name="signup" tabindex="7" class="button" type="submit" id="signup" value="JOIN THE MAILING LIST">
                 <div id="reply">
                 <h2>THANK YOU!</h2>
         		<p>Congratulations! You're now signed up to the Woodhouse email newsletter. Check your inbox shortly for a welcome email.</p>
@@ -250,25 +270,41 @@ $(document).ready(function()
         
         
         
-    </div><!--/.slidingDiv--><!--googleon: all-->
+    </div><!--/.slidingDiv-->
 <div id="header">
-    <!--googleoff: all-->
-	<!-- NEWSLETTER SIGNUP LINK -->
+
 	<a class="show_hide" title="We send out exclusive offers and savings to our newsletter subscribers. You will also receive the latest news and style updates to keep you on trend this season.">Woodhouse newsletter | Sign up now for <strong>free delivery</strong> on your next order</a>
-    <!--googleon: all-->
+
+    <div id="headerPost" class="right" style="position:absolute;display:block;top:40px;right:0;">
+        <a href="/returns.php">
+            <img src="http://www.woodhouseclothing.com/templates/2011/img/collect.png" style="margin:5px 5px 0 0;" alt="Collect+ - Returns made easy" class="dpd left">
+            <span class="next_day left">RETURNS MADE EASY</span>
+        </a>
+        <a href="/delivery.php">
+            <img src="http://www.woodhouseclothing.com/templates/2011/img/dpd.jpg" alt="Next day UK Delivery" style="margin:2px 0 0 12px;" class="dpd left">
+            <span class="next_day left" style="margin-right:0;">NEXT DAY UK DELIVERY</span>
+        </a>
+
+    </div>
+
+    <div id="daysleft" style="height:48px;width:307px;position:absolute;display:block;top:72px;right:0">
+                <!-- <a href="http://www.woodhouseclothing.com/xmas.php" title="Christmas Delivery Times"><img src="http://www.woodhouseclothing.com/templates/2011/img/misc/daysleft/whdaysleft_timetable.jpg" alt="Christmas Delivery Times" border="0" /></a> -->
+    </div>
+    
     <a href="http://www.woodhouseclothing.com/"><div id="logo"></div></a>
 
+    
     <div id="navigation">
         
 <ul id="menu">
 
-    <li><a style="margin-left:0px;color:#d16335;font-weight:bold" href="http://www.woodhouseclothing.com/latest.php">FRESH LINES</a></li>
+    <li><a style="margin-left:0px;font-weight:bold" href="http://www.woodhouseclothing.com/latest.php">FRESH LINES</a></li>
     
-    <li><a style="margin-left:0px;" href="http://www.woodhouseclothing.com/brands.php">LABELS</a>
+	    <li><a style="margin-left:0px;" href="http://www.woodhouseclothing.com/brands.php">LABELS</a>
     		
 		<div class="submenu">
             <div class="dd_top"></div>
-            <div class="dd_main five_columns"><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Adidas+SLVR">Adidas SLVR</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Agua+de+Colonia">Agua de Colonia</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Andersons">Andersons</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Anerkjendt">Anerkjendt</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Antony+Morato">Antony Morato</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Armani+Jeans">Armani Jeans</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Barbour">Barbour</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Baxter+of+California">Baxter of California</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Big+E">Big E</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Blood+Brother">Blood Brother</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Black">BOSS Black</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Green">BOSS Green</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Orange">BOSS Orange</a></li></ul></div><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Calvin+Klein">Calvin Klein</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Carrera">Carrera</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=CP+Company">CP Company</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Creative+Recreation">Creative Recreation</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Cruyff+Classics">Cruyff Classics</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Denham">Denham</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Diesel">Diesel</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Dockers">Dockers</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Dr+Martens">Dr Martens</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=EA7">EA7</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Edwin">Edwin</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Emporio+Armani">Emporio Armani</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Esemplare">Esemplare</a></li></ul></div><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Folk">Folk</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Franklin+%26+Marshall">Franklin &amp; Marshall</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Fred+Perry">Fred Perry</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Gant+Rugger">Gant Rugger</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Goliath">Goliath</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Hackett">Hackett</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Henri+Lloyd">Henri Lloyd</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Heritage+Research">Heritage Research</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Herschel">Herschel</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Hudson+Shoes">Hudson Shoes</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=HUGO+Red+Label">HUGO Red Label</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Humor">Humor</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=J+Lindeberg">J Lindeberg</a></li></ul></div><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Jeffery+West">Jeffery West</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Judas+Sinned">Judas Sinned</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste">Lacoste</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste+Footwear">Lacoste Footwear</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste+LIVE">Lacoste LIVE</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Levis+Made+%26+Crafted">Levis Made &amp; Crafted</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Luke+1977">Luke 1977</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lyle+%26+Scott">Lyle &amp; Scott</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=MA.Strum">MA.Strum</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Marvis">Marvis</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Money">Money</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Natural+Selection">Natural Selection</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=New+Balance">New Balance</a></li></ul></div><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Nudie+Jeans+Co">Nudie Jeans Co</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Paul+%26+Shark">Paul &amp; Shark</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Penfield">Penfield</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Penguin">Penguin</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Pretty+Green">Pretty Green</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Replay">Replay</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Sebago">Sebago</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Stone+Island">Stone Island</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=TOMS">TOMS</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=True+Religion">True Religion</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=TST">TST</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Vans">Vans</a></li></ul></div></div>
+            <div class="dd_main five_columns"><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Agua+de+Colonia">Agua de Colonia</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Andersons">Andersons</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Anerkjendt">Anerkjendt</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Antony+Morato">Antony Morato</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Armani+Jeans">Armani Jeans</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Barbour">Barbour</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Barbour+Steve+McQueen">Barbour Steve McQueen</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Baxter+of+California">Baxter of California</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Big+E">Big E</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Blood+Brother">Blood Brother</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Bolin+Webb">Bolin Webb</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Black">BOSS Black</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Green">BOSS Green</a></li></ul></div><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Orange">BOSS Orange</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Calvin+Klein">Calvin Klein</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Click">Click</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=CP+Company">CP Company</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Creative+Recreation">Creative Recreation</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Cruyff+Classics">Cruyff Classics</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Cruyff+Clothing">Cruyff Clothing</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Cuckoos+Nest">Cuckoos Nest</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Denham">Denham</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Diesel">Diesel</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Dockers">Dockers</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Dr+Martens">Dr Martens</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=EA7">EA7</a></li></ul></div><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Edwin">Edwin</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Emporio+Armani">Emporio Armani</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Esemplare">Esemplare</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Folk">Folk</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Franklin+%26+Marshall">Franklin &amp; Marshall</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Fred+Perry">Fred Perry</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Gant+Rugger">Gant Rugger</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Goliath">Goliath</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Hackett">Hackett</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Henri+Lloyd">Henri Lloyd</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Herschel">Herschel</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Hudson+Shoes">Hudson Shoes</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=HUGO+Red+Label">HUGO Red Label</a></li></ul></div><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Humor">Humor</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=J+Lindeberg">J Lindeberg</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Jeffery+West">Jeffery West</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste">Lacoste</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste+Footwear">Lacoste Footwear</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste+LIVE">Lacoste LIVE</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Levis+Made+%26+Crafted">Levis Made &amp; Crafted</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Luke+1977">Luke 1977</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lyle+%26+Scott">Lyle &amp; Scott</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=MA.Strum">MA.Strum</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Marvis">Marvis</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Money">Money</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Natural+Selection">Natural Selection</a></li></ul></div><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=New+Balance">New Balance</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Nudie+Jeans+Co">Nudie Jeans Co</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Paul+%26+Shark">Paul &amp; Shark</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Penfield">Penfield</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Penguin">Penguin</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Pretty+Green">Pretty Green</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Replay">Replay</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Sebago">Sebago</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Stone+Island">Stone Island</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Swims">Swims</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=TOMS">TOMS</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=True+Religion">True Religion</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Vans">Vans</a></li></ul></div></div>
         </div>
             
     </li>
@@ -280,19 +316,28 @@ $(document).ready(function()
             <div class="dd_main four_columns"><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Accessories">Accessories</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Belts">Belts</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Books+%26+Magazines">Books &amp; Magazines</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Caps+%26+hats">Caps &amp; hats</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Casual+Shirts">Casual Shirts</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Footwear">Footwear</a></li></ul></div><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Formal+Shirts">Formal Shirts</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Grooming+%26+Fragrance">Grooming &amp; Fragrance</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Jackets">Jackets</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Jeans">Jeans</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Knitwear">Knitwear</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Loungewear">Loungewear</a></li></ul></div><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Polo+Shirts">Polo Shirts</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Rugby+Shirts">Rugby Shirts</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Shorts">Shorts</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Socks">Socks</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Sunglasses">Sunglasses</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Sweatshirts">Sweatshirts</a></li></ul></div><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=T-Shirts">T-Shirts</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Tracksuits">Tracksuits</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Trousers">Trousers</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?garment=Underwear">Underwear</a></li></ul></div></div>
         </div>
     
-    </li>    
-    <li><a style="margin-left:0px;" href="http://www.woodhouseclothing.com/keylooks.php">TRENDING</a></li>    
-    <li><a style="margin-left:0px;" href="http://www.woodhouseclothing.com/blog">HOT OFF THE PRESS</a></li>
-    <li><a style="margin-left:0px;" href="http://www.woodhouseclothing.com/searchresults.php?garment=Books+%26+Magazines">PUBLICATIONS</a></li>
+    </li>
+    
+        
+    <!-- <li><a style="margin-left:0px;" href="http://www.woodhouseclothing.com/blog">HOT OFF THE PRESS</a></li>
+    <li><a style="margin-left:0px;" href="http://www.woodhouseclothing.com/searchresults.php?garment=Books+%26+Magazines">PUBLICATIONS</a></li> -->
 	
-		<li><a style="margin-left:0px;" href="http://www.woodhouseclothing.com/sale.php">SALE RAIL</a>
-	
-		<!--<div class="submenu">
+    <li><a style="margin-left:0px;" href="http://www.woodhouseclothing.com/londonstore">NOTTING HILL STORE</a></li>
+	<li><a style="margin-left:0px;font-weight:bold;margin-left:0px;color:#fff;background:#971c20;padding:2px 5px 3px 5px" href="http://www.woodhouseclothing.com/sale.php">SALE NOW ON</a>
+		<div class="submenu">
             <div class="dd_top"></div>
-            <div class="dd_main"><div class="dd_column"><ul><li><a href='http://www.woodhouseclothing.com/sale.php?discount=up-to-30-off'  >Up to 30% off</a></li><li><a href='http://www.woodhouseclothing.com/sale.php?discount=up-to-40-off'  >Up to 40% off</a></li><li><a href='http://www.woodhouseclothing.com/sale.php?discount=up-to-50-off'  >Up to 50% off</a></li><li><a href='http://www.woodhouseclothing.com/sale.php?discount=up-to-60-off'  >Up to 60% off</a></li><li><a href='http://www.woodhouseclothing.com/sale.php?discount=up-to-70-off'  >Up to 70% off</a></li><li><a href='http://www.woodhouseclothing.com/sale.php?discount=above-70'  >Above 70%</a></li></ul></div></div>
-        </div>-->
-		
-	</li>
+            <div class="dd_main"><div class="dd_column"><ul><li><a href="http://www.woodhouseclothing.com/sale.php?discount=up-to-30-off">Up to 30% off</a></li><li><a href="http://www.woodhouseclothing.com/sale.php?discount=up-to-40-off">Up to 40% off</a></li><li><a href="http://www.woodhouseclothing.com/sale.php?discount=up-to-50-off">Up to 50% off</a></li><li><a href="http://www.woodhouseclothing.com/sale.php?discount=up-to-60-off">Up to 60% off</a></li><li><a href="http://www.woodhouseclothing.com/sale.php?discount=up-to-70-off">Up to 70% off</a></li><li><a href="http://www.woodhouseclothing.com/sale.php?discount=above-70">Above 70%</a></li></ul></div></div>
+        </div>
+    </li>
+    <!-- <li><a style="margin-left:0px;" href="http://www.woodhouseclothing.com/londonstore">NOTTING HILL STORE</a></li> -->
+    <!-- <li><a style="margin-left:0px;" href="http://www.woodhouseclothing.com/christmas">CHRISTMAS SHOP</a>
+    	<div class="submenu">
+            <div class="dd_top"></div>
+            <div class="dd_main"><div class="dd_column"><ul><li><a href='/christmas_gifts.php'>Christmas Gift Finder</a></li><li><a href='/christmas/brochure.php'>Christmas Brochure</a></li><li><a href='/christmas/giftguide.php'>Christmas Gift Guide</a></li><li><a href='/christmas/partywear.php'>Christmas Party Styles</a></li></ul></div></div>
+        </div>
+    </li> -->
+	
+        
 		
         
 </ul>    </div>
@@ -300,6 +345,7 @@ $(document).ready(function()
     <div id="search">
         <form method="get" action="/text-search.html">
             <input name="searchtext" type="text" placeholder="SEARCH FOR PRODUCTS" id="searchtext" class="text"><input type="submit" value="" id="searchbutton" class="go">
+            <!-- OLD JAVASCRIPTY INPUT<input name="searchtext" type="text" value="SEARCH FOR PRODUCTS" id="searchtext" class="text" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'SEARCH FOR PRODUCTS':this.value;" /><input type="submit" value="" id="searchbutton" class="go" />-->
         </form>
     </div>
 
@@ -330,17 +376,34 @@ $(document).ready(function()
                 <img class="account_img" src="http://www.woodhouseclothing.com/templates/2011/img/assets/deer_grey.png" alt="Customer Account" class="Customer Account" height="32" />
                 <span><a href="myaccount.php">LOGIN</a> / <a href="register.php">REGISTER</a></span>
             </div>-->
-
-
+            <div id="telephoneNumber" style="float:left;margin-left:15px;">
+                                <img style="float:left;" width="22" height="32" class="account_img" src="http://www.woodhouseclothing.com/templates/2011/img/tel.png">
+                                <p style="margin:5px 0 0 5px;float:left;"><strong style="font-weight:700;color:#D16335;font-size:20px;">01625 421 100</strong><span> (Orderline 9am to 5pm Mon - Fri)</span></p>
+                            </div>
         </div>
 
-        <a href="/delivery.php"><div class="right">
-                <img width="63" height="32" src="http://www.woodhouseclothing.com/templates/2011/img/dpd.jpg" alt="Next day UK Delivery" class="dpd left">
-                <span class="next_day left">NEXT DAY UK DELIVERY</span>
-                <img width="132" height="32" src="http://www.woodhouseclothing.com/templates/2011/img/dispatch.jpg" alt="Next day UK Delivery" class="dispatch left">
-            </div></a>
+                <div id="currencySelect">
+                    <ul class="dropdown">
+                        <li><a id="currentCurrency"></a>
+                            <ul class="sub_menu">
+                                <li><a class="currencyLink" id="convertToGBP" href="#" onclick="return false" rel="nofollow" title="Convert to Pounds Sterling (£)"><img src="../../templates/2011/img/gbp.png"> £ GBP</a></li>
+                                <li><a class="currencyLink" id="convertToEUR" href="#" onclick="return false" rel="nofollow" title="Convert to Euros (€)"><img src="../../templates/2011/img/eur.png"> € EUR</a></li>
+                                <li><a class="currencyLink" id="convertToUSD" href="#" onclick="return false" rel="nofollow" title="Convert to United States Dollars ($)"><img src="../../templates/2011/img/usd.png"> $ USD</a></li>
+                                <li><a class="currencyLink" id="convertToYEN" href="#" onclick="return false" rel="nofollow" title="Convert to Japanese Yen (¥)"><img src="../../templates/2011/img/jpy.png"> ¥ JPY</a></li>
+                                <li><a class="currencyLink" id="convertToCHF" href="#" onclick="return false" rel="nofollow" title="Convert to Swiss Francs (SFr)"><img src="../../templates/2011/img/chf.png"> SFr. CHF</a></li>
+                                <li><a class="currencyLink" id="convertToAUD" href="#" onclick="return false" rel="nofollow" title="Convert to Australian Dollars ($)"><img src="../../templates/2011/img/aud.png"> $ AUD</a></li>
+                                <li><a class="currencyLink" id="convertToCAD" href="#" onclick="return false" rel="nofollow" title="Convert to Canadian Dollars ($)"><img src="../../templates/2011/img/cad.png"> $ CAD</a></li>
+                                <li><a class="currencyLink" id="convertToSEK" href="#" onclick="return false" rel="nofollow" title="Convert to Swedish Krona (kr)"><img src="../../templates/2011/img/sek.png"> kr SEK</a></li>
+                                <li><a class="currencyLink" id="convertToDKK" href="#" onclick="return false" rel="nofollow" title="Convert to Danish Krone (kr)"><img src="../../templates/2011/img/dkk.png"> kr DKK</a></li>
+                                <li><a class="currencyLink" id="convertToNOK" href="#" onclick="return false" rel="nofollow" title="Convert to Norwegian Krone (kr)"><img src="../../templates/2011/img/nok.png"> kr NOK</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
 
-                
+        <img id="cardLogos" src="http://www.woodhouseclothing.com/templates/2011/img/card_logos.png" height="32" width="261" title="We accept MasterCard, Maestro, Visa, Visa Electron, Visa Debit, American Express, and PayPal" alt="MasterCard, Maestro, Visa, Visa Electron, Visa Debit, American Express, PayPal">
+
+                                
     </div>
 
 
@@ -348,14 +411,18 @@ $(document).ready(function()
 	<div id="main" class="static">
 			
 		
-
+<style>
+    .marginL5 {
+        margin-left:5px
+    }
+</style>
 	<div id="leftcol">
 	 <h3>BRANDS</h3>
 
 
 
 			
-            	<ul class="mobile_links"><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Adidas+SLVR">Adidas SLVR</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Agua+de+Colonia">Agua de Colonia</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Andersons">Andersons</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Anerkjendt">Anerkjendt</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Antony+Morato">Antony Morato</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Armani+Jeans">Armani Jeans</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Barbour">Barbour</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Baxter+of+California">Baxter of California</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Big+E">Big E</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Blood+Brother">Blood Brother</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Black">BOSS Black</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Green">BOSS Green</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Orange">BOSS Orange</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Calvin+Klein">Calvin Klein</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Carrera">Carrera</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=CP+Company">CP Company</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Creative+Recreation">Creative Recreation</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Cruyff+Classics">Cruyff Classics</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Denham">Denham</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Diesel">Diesel</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Dockers">Dockers</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Dr+Martens">Dr Martens</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=EA7">EA7</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Edwin">Edwin</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Emporio+Armani">Emporio Armani</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Esemplare">Esemplare</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Folk">Folk</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Franklin+%26+Marshall">Franklin &amp; Marshall</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Fred+Perry">Fred Perry</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Gant+Rugger">Gant Rugger</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Goliath">Goliath</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Hackett">Hackett</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Henri+Lloyd">Henri Lloyd</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Heritage+Research">Heritage Research</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Herschel">Herschel</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Hudson+Shoes">Hudson Shoes</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=HUGO+Red+Label">HUGO Red Label</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Humor">Humor</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=J+Lindeberg">J Lindeberg</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Jeffery+West">Jeffery West</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Judas+Sinned">Judas Sinned</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste">Lacoste</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste+Footwear">Lacoste Footwear</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste+LIVE">Lacoste LIVE</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Levis+Made+%26+Crafted">Levis Made &amp; Crafted</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Luke+1977">Luke 1977</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lyle+%26+Scott">Lyle &amp; Scott</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=MA.Strum">MA.Strum</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Marvis">Marvis</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Money">Money</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Natural+Selection">Natural Selection</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=New+Balance">New Balance</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Nudie+Jeans+Co">Nudie Jeans Co</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Paul+%26+Shark">Paul &amp; Shark</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Penfield">Penfield</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Penguin">Penguin</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Pretty+Green">Pretty Green</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Replay">Replay</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Sebago">Sebago</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Stone+Island">Stone Island</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=TOMS">TOMS</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=True+Religion">True Religion</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=TST">TST</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Vans">Vans</a></li></ul>                                      
+            	<ul class="mobile_links"><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Agua+de+Colonia">Agua de Colonia</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Andersons">Andersons</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Anerkjendt">Anerkjendt</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Antony+Morato">Antony Morato</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Armani+Jeans">Armani Jeans</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Barbour">Barbour</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Barbour+Steve+McQueen">Barbour Steve McQueen</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Baxter+of+California">Baxter of California</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Big+E">Big E</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Blood+Brother">Blood Brother</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Bolin+Webb">Bolin Webb</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Black">BOSS Black</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Green">BOSS Green</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=BOSS+Orange">BOSS Orange</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Calvin+Klein">Calvin Klein</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Click">Click</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=CP+Company">CP Company</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Creative+Recreation">Creative Recreation</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Cruyff+Classics">Cruyff Classics</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Cruyff+Clothing">Cruyff Clothing</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Cuckoos+Nest">Cuckoos Nest</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Denham">Denham</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Diesel">Diesel</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Dockers">Dockers</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Dr+Martens">Dr Martens</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=EA7">EA7</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Edwin">Edwin</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Emporio+Armani">Emporio Armani</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Esemplare">Esemplare</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Folk">Folk</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Franklin+%26+Marshall">Franklin &amp; Marshall</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Fred+Perry">Fred Perry</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Gant+Rugger">Gant Rugger</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Goliath">Goliath</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Hackett">Hackett</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Henri+Lloyd">Henri Lloyd</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Herschel">Herschel</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Hudson+Shoes">Hudson Shoes</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=HUGO+Red+Label">HUGO Red Label</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Humor">Humor</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=J+Lindeberg">J Lindeberg</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Jeffery+West">Jeffery West</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste">Lacoste</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste+Footwear">Lacoste Footwear</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lacoste+LIVE">Lacoste LIVE</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Levis+Made+%26+Crafted">Levis Made &amp; Crafted</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Luke+1977">Luke 1977</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Lyle+%26+Scott">Lyle &amp; Scott</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=MA.Strum">MA.Strum</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Marvis">Marvis</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Money">Money</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Natural+Selection">Natural Selection</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=New+Balance">New Balance</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Nudie+Jeans+Co">Nudie Jeans Co</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Paul+%26+Shark">Paul &amp; Shark</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Penfield">Penfield</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Penguin">Penguin</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Pretty+Green">Pretty Green</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Replay">Replay</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Sebago">Sebago</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Stone+Island">Stone Island</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Swims">Swims</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=TOMS">TOMS</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=True+Religion">True Religion</a></li><li><a href="http://www.woodhouseclothing.com/searchresults.php?brand=Vans">Vans</a></li></ul>                                      
 
                             </div>
         
@@ -413,6 +480,11 @@ $(document).ready(function()
             <p>We will endeavor to keep any information, which we hold, about you up to date and accurate. To help us to do this, please keep us informed if any of your details change.</p>
             <p>We will endeavor to protect your data against unauthorised use.</p>
 			
+			 <h2>MARKETING OPT-OUT</h2>
+			 <p>At any time, you can tell us that you do not want us to use your details for the purposes of marketing. You can opt-out from all future communications from Woodhouse by using the unsubscribe link from any of our email communications, or emailing us at customerservices@woodhouseclothing.com or by writing to us at:</p>
+			 <p>Woodhouse Marketing Department, Unit 18, Adlington Industrial Estate, Macclesfield, Cheshire, SK10 4NL.</p>
+			 <p>If you have any further questions, don't hesitate to contact our Customer Service team on 01625 421 100.</p>
+
 			<a name="cookies"></a>
 			<h2>COOKIES</h2>
 
@@ -443,12 +515,14 @@ $(document).ready(function()
 					AdWords uses cookies to anonymously identify traffic and conversions from paid search advertisements, recording data like the amount of items purchased, the value of those items and the time of day the purchase was made. This cookie is placed on a user’s browser via a redirect to the destination landing page. We can then use this information to improve our display ads.<br><br>
 					<strong>Webgains</strong><br>
 					Webgains use cookies to anonymously record that a user has clicked on an Webgains link that referred the user to our site. This information is collected in order to enable us to pay a commission to Webgains and its affiliates for any sales they may drive on our site. Webgains cookies remain active for a period of 30 days.<br><br>
-					<strong>SaleCycle</strong><br>
-					Salecycle collect information about customers who used the basket and checkout process but then did not complete their purchase. This allows us to email those customers and make sure that there was not a technical problem or other issue which prevented them from completing their purchase. SaleCycle have recently adopted a cookieless approach to tracking, but is still included here for completeness.<br><br>
+					<!--<strong>SaleCycle</strong><br />
+					Salecycle collect information about customers who used the basket and checkout process but then did not complete their purchase. This allows us to email those customers and make sure that there was not a technical problem or other issue which prevented them from completing their purchase. SaleCycle have recently adopted a cookieless approach to tracking, but is still included here for completeness.<br /><br />-->
 					<strong>PredictiveIntent</strong><br>
 					PredictiveIntent dynamically personalise and suggest products which may be of interest based on the products that have been previously viewed or interacted with by you and other visitors/customers. Cookies are used by PredictiveIntent for the purpose of monitoring and analysing your preferences – this allows us to then provide you with tailored information.<br><br>
 					<strong>AddThis</strong><br>
-					AddThis use cookies to record when you have interacted with their widget. When you share a product using the social media sharing button on our site, the social network that has created the button will record that you have done this.</td>
+					AddThis use cookies to record when you have interacted with their widget. When you share a product using the social media sharing button on our site, the social network that has created the button will record that you have done this.<br><br>
+					<strong>Struq</strong><br>
+					Struq places anonymous cookies which collect details of pages and products you viewed. This information is then used to better direct advertisements shown to you on 3rd party websites to make sure that those adverts include products that are of interest to you.</td>
 				</tr>										
             </tbody></table>
 			
@@ -466,7 +540,7 @@ $(document).ready(function()
 	<script type="text/javascript">document.getElementById('bc_contain').innerHTML = '<div id="breadcrumb"><span><a href=\"http://www.woodhouseclothing.com/\">HOME</a> &nbsp;&rsaquo;&nbsp; <a href=\"\">Privacy</a></span></div>';</script>
 	
 <div style="clear:both"></div>
-    <div style="clear:both"></div>
+<div style="clear:both"></div>
 <div id="footer">
 
     <div class="footer_content">
@@ -495,6 +569,7 @@ $(document).ready(function()
                 <li><a href="http://www.woodhouseclothing.com/purchasing.php">PURCHASING</a></li>
                 <li><a href="http://www.woodhouseclothing.com/security.php">SECURITY</a></li>
                 <li><a href="http://www.woodhouseclothing.com/privacy.php">PRIVACY</a></li>
+                <li><a href="http://www.woodhouseclothing.com/giftvoucher-faq.php">GIFT VOUCHER FAQS</a></li>
                 <li><a href="http://www.woodhouseclothing.com/voucher_codes.php">VOUCHER CODES</a></li>
                 <li><a href="http://www.woodhouseclothing.com/terms.php">TERMS AND CONDITIONS</a></li>
                 <li><a href="http://www.woodhouseclothing.com/jobs.php">JOBS @ WOODHOUSE</a></li>
@@ -564,7 +639,20 @@ $(document).ready(function()
     </div>
     
 
-<script type="text/javascript">
+    <script type="text/javascript">
+        <!--
+        function cookiePromoNotice()
+        {
+            $.cookie("promoNotice",1, {expires: 1, path:'/'});
+            document.getElementById("promoNotice").style.display = 'none';
+        }
+        -->
+    </script>
+
+            <!--<div id="promoNotice"><a href="/delivery.php"><img title="Big News - Take advantage of our DPD Predict service and get a 1 hour delivery window sent by email &amp; SMS for your order." alt="Big News - Take advantage of our DPD Predict service and get a 1 hour delivery window sent by email &amp; SMS for your order." width="750" height="25" src="/christmas/img/dpd-predict-forfooter.png" /></a><a id="promoNoticeClose" onclick="javascript:cookiePromoNotice();" /></a></div>-->
+        <!-- <div id="promoNotice">Get <span style="color:#D16335;">FREE NEXT DAY DELIVERY</span> on all non-sale items today - enter code <span style="color:#D16335;">FREEDEL</span> at the checkout<a id="promoNoticeClose" onclick="javascript:cookiePromoNotice();" /></a></div> -->
+        <div id="promoNotice"><span style="color:#D16335;">50% OFF</span> All Armani sale lines | Armani Jeans, EA7 &amp; Emporio Armani<a id="clickHere" href="http://www.woodhouseclothing.com/sale.php?discounts=&amp;brands=Armani+Jeans%2CEA7%2CEmporio+Armani">CLICK HERE</a><a id="promoNoticeClose" onclick="javascript:cookiePromoNotice();"></a></div>
+    <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
