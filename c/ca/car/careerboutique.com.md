@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerboutique.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002184455id_/http%3A//www.careerboutique.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerboutique.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120030118id_/http%3A//careerboutique.com/education/privacy_policy) for the most accurate reproduction.*
 
 # JobsRadar.com - Find Jobs. Showcase Your Resume. Get Hired.
 
@@ -92,6 +92,8 @@ Please understand that CareerBoutique may contract with third parties to provide
 We will share information provided by Users (whether or not personally identifiable) with certain third parties in our network so that they can contact you with information about the services in which you have expressed interest. In order to provide the services available to you on this Site, we may also supplement your information (whether or not personally identifiable) with information from third party sources with whom we have contracted for the purpose of verifying the contact information you have provided. You have the option not to have your information shared with third parties by not requesting these services.
 
 We may also share information about Users (whether or not personally identifiable) with third parties so that we can offer you a broader range of services and information to meet your needs. If you would prefer not to have your information shared with third parties, you may opt out by e-mailing info@CareerBoutique.com.
+
+Further, by registering on this Site, you agree that this act constitutes an inquiry and/or application for purposes of telemarketing laws, and notwithstanding that your telephone and/or cell number may be listed with the federal Do-Not-Call Registry you expressly opt-in to: (a) receive an offer or service from one or more of our partners or affiliates; (b) receive future information about products and services from us, our partners, affiliates and other third parties to whom we may provide your information; (c) permit us, our partners, affiliates and other third parties to contact you pursuant to the business relationship we have established using the information you provided to us for any purpose such as contacting you by e-mail address, phone and/or mobile phone number (including use of automated dialing equipment), text (SMS) message or any means of communication for any purpose that, among other things, your wireless device may be capable of receiving (e.g. mms, video etc. ). You may revoke authorization for us to contact you by such means at any time (see the Opting Out and SMS Service sections below).
 
 **Communications From Us**
 
