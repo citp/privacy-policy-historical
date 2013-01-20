@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burningshed.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011213858id_/https%3A//burningshed.com/index.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burningshed.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120232523id_/https%3A//www.burningshed.com/index.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Burning Shed: Specialist online music label and shop
 
