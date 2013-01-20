@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the webcargo.net privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014152000id_/https%3A//www.webcargo.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webcargo.net privacy policy that was archived on 2013-01-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130120012107id_/https%3A//www.webcargo.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <!-- META (START) -->
         
     <!-- META (END) -->
     
-    <title>WEBCARGO :: Privacy Policy</title>    
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://widget.uservoice.com/zdZZDs33EvNA8n7Oj9AH9Q.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<title>WEBCARGO :: Privacy Policy</title>    
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" id="janrainAuthWidget" src="https://rpxnow.com/js/lib/webcargo/engage.js"></script><script type="text/javascript" async="" src="https://widget.uservoice.com/zdZZDs33EvNA8n7Oj9AH9Q.js"></script><script type="text/javascript" src="/media/js/jquery/jquery-1.4.4.min.js"></script>
+    <script type="text/javascript" src="/media/js/jquery/jquery-1.4.4.min.js"></script>
     <script type="text/javascript" src="/media/js/jquery/jquery-ui-1.8.11.custom.min.js"></script>
                 
-    <script type="text/javascript" src="/media/js/functions.general.js?r=1"></script>
-<script type="text/javascript" src="/media/js/webcargo-translation.js?r=1"></script>
+    <script type="text/javascript" src="/media/js/functions.general.js?r=2324"></script>
+<script type="text/javascript" src="/media/js/webcargo-translation.js?r=2324"></script>
 <script type="text/javascript" src="/language/get-js-translation/"></script>    
     <script type="text/javascript"> 
         //<![CDATA[
@@ -45,40 +46,19 @@
         (function() {
             if (typeof window.janrain !== 'object') window.janrain = {};
             window.janrain.settings = {};
-            
             janrain.settings.tokenUrl = 'https://www.webcargo.net/social-connect/';
-
-            function isReady() { janrain.ready = true; };
-            if (document.addEventListener) {
-              document.addEventListener("DOMContentLoaded", isReady, false);
-            } else {
-              window.attachEvent('onload', isReady);
-            }
-
-            var e = document.createElement('script');
-            e.type = 'text/javascript';
-            e.id = 'janrainAuthWidget';
-
-            if (document.location.protocol === 'https:') {
-              e.src = 'https://rpxnow.com/js/lib/webcargo/engage.js';
-            } else {
-              e.src = 'http://widget-cdn.rpxnow.com/js/lib/webcargo/engage.js';
-            }
-
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(e, s);
         })();
     </script>
     
         
-    <link rel="stylesheet" type="text/css" media="all" href="/media/css/main.css?r=1">
+    <link rel="stylesheet" type="text/css" media="all" href="/media/css/main.css?r=2324">
     <link rel="stylesheet" type="text/css" media="screen" href="/media/css/jquery-ui/wclight_green_highlight/jquery-ui.custom.css">
     <link rel="stylesheet" type="text/css" media="all" href="/cobrand-builder/render-file/id/0/key/0/fileId/1">
-        <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico?r=1">
-    <link rel="apple-touch-icon" href="/media/images/apple-touch-icon.png?r=1">
+        <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico?r=2324">
+    <link rel="apple-touch-icon" href="/media/images/apple-touch-icon.png?r=2324">
     
     <!--[if IE 7]>
-        <link href="/media/css/ie7.css?r=1" type="text/css" rel="stylesheet">
+        <link href="/media/css/ie7.css?r=2324" type="text/css" rel="stylesheet">
     <![endif]-->
     
     <!-- Tag to force the AddThis thumbnail image -->
@@ -115,7 +95,7 @@
         <div id="second-line">
             <div id="second-line-wrapper" style="width: 320px;">
                 <div id="social-container">
-                    <span id="social-connect" style="margin-right: 55px;">or log in with <a class="janrainEngage" href="#"><img src="/media/images/social_4_16.png"></a></span>
+                    <span id="social-connect" style="margin-right: 55px;">or log in with <a class="janrainEngage" href="javascript:void(0);"><img src="/media/images/social_4_16.png"></a></span>
                 </div>
                 <div class="clear_both"></div>
             </div>
@@ -126,10 +106,6 @@
 <script type="text/javascript"> 
 //<![CDATA[
 $(document).ready(function() {
-    
-    /*$('#button-login').button().bind('click', function(){
-        $('#form-login').submit();
-    });*/
     
     $('#button-login').button()
     
@@ -167,7 +143,34 @@ $(document).ready(function() {
         }
     });
     $(".defaultText").blur();
-    // End : Default input text       
+    // End : Default input text
+    
+    // JANRAIN LOGIN
+    $('a.janrainEngage').one('click', function(){
+        showLoading();
+        
+        var e = document.createElement('script');
+        e.type = 'text/javascript';
+        e.id = 'janrainAuthWidget';
+
+        if (document.location.protocol === 'https:') {
+          e.src = 'https://rpxnow.com/js/lib/webcargo/engage.js';
+        } else {
+          e.src = 'http://widget-cdn.rpxnow.com/js/lib/webcargo/engage.js';
+        }
+
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(e, s);
+        $(e).one('load', function(){
+            janrain.ready = true;
+        });
+        
+        janrainWidgetOnload = function(){
+            janrain.engage.signin.modal.init();
+            janrain.engage.signin.modal.create();
+            hideLoading();
+        }
+    });
 });
 //]]>
 </script>    </div>
@@ -292,7 +295,7 @@ $(document).ready(function() {
                                             </li>
                             </ul>
             <div id="copyright-content">
-                Copyright © 2003-2012 <a href="/" class="intext-link">WEBCARGO</a>, Inc. All rights reserved. All other trademarks are the property of their respective owners.            </div>
+                Copyright © 2003-2013 <a href="/" class="intext-link">WEBCARGO</a>, Inc. All rights reserved. All other trademarks are the property of their respective owners.            </div>
         </div>
     </div>
 </div>    </div>
@@ -312,6 +315,7 @@ _gaq.push(['_trackPageview']);
 })();
 
 //]]>
-</script>
+</script><script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","9e46550573","557985","YFUBZEFYW0oDAEILVlkfIlNHUFpXTQdTBFhCXBcfQ0tcTwMAT01QWVQGSA==",0,48,new Date().getTime(),"","","","",""]);</script>
 
-</body></html>
+
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
