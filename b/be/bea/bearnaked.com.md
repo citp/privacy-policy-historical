@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearnaked.com privacy policy that was archived on 2012-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120731184328id_/http%3A//www.bearnaked.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearnaked.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120113254id_/http%3A//www.bearnaked.com/privacy.shtml) for the most accurate reproduction.*
 
 # Bear Naked :: Fuel Your Wild Life
 
@@ -18,11 +18,7 @@ Personal information, including your name, billing and credit card information, 
   * Bear Naked has the right, in its sole discretion, to add to, remove, modify or otherwise change any part of the Terms and Conditions, in whole or in part, at any time. Changes will be effective when notice of such change is posted at this Site. Please check the Terms and Conditions frequently for updates by checking the date of "Last Update" at the top of this document. If any term, condition or any change thereto is not acceptable to you, you must discontinue your Use of this Site immediately. Your continued Use of this Site after any such changes are posted will constitute acceptance of those changes. 
   * These Terms and Conditions apply exclusively to your Use of this Site and do not alter the terms or conditions of any other agreement you may have with Bear Naked. 
 
-  
-**DEN Community Guidelines**   
-The Bear Naked DEN Community is a place for you to get motivated, set goals, and create change. Please share your comments, experiences, and suggestions .Connecting with others will help on your journey to success! We have a few common sense guidelines to make sure everyone has the best experience possible. 
 
-This site is user moderated. Please flag comments that violate the guidelines below. All flagged comments will be reviewed promptly and removed if necessary. Remember to flag with care. Be respectful when making comments, whether it's on a product or other content within the DEN or elsewhere on the site. You are entitled to your own opinion, but please be respectful when offering differing viewpoints. No personal attacks will be tolerated. Keep this a positive place! This community does not tolerate disrespectful language, images or content. This includes profanity, sexually suggestive or explicit language, and abusive, derogatory, discriminatory, false, hateful, offensive, violent or vulgar comments. Uploaded photographs may not contain graphic images or nudity. Do not post comments or information that violates another individual 's privacy or comments that are false or defamatory. Advice may be given and taken freely. However, never discuss or encourage any illegal, violent, or harmful activities. If you need help with a serious medical or personal problem, consult a professional. No spam! This is not a place to market yourself or your services. There are places to go for that. This is not one of them. Uploaded photographs may not violate any copyright laws, trademark laws or any other proprietary rights. Bear Naked reserves the right to change these guidelines at any time. 
 
 **FREQUENTLY ASKED QUESTIONS**
 
