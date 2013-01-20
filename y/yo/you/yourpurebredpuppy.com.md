@@ -1,27 +1,7 @@
-> *The following text is extracted and transformed from the yourpurebredpuppy.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504063351id_/http%3A//www.yourpurebredpuppy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourpurebredpuppy.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120053213id_/http%3A//www.yourpurebredpuppy.com/privacy.html) for the most accurate reproduction.*
 
 # Your Purebred Puppy - Privacy Policy
 
-  * [Our Books](http://www.yourpurebredpuppy.com/books/)
-    * [See all of our books](http://www.yourpurebredpuppy.com/books/ "Visit our bookstore of Michele Welton's books")
-    * [Teach Your Dog 100 English Words](http://www.yourpurebredpuppy.com/books/TYD.html "How to train your dog")
-    * [11 Things You Must Do Right To Keep Your Dog Healthy and Happy](http://www.yourpurebredpuppy.com/books/11T.html "How to raise your dog to be healthy")
-    * [How To Buy a Good Dog](http://www.yourpurebredpuppy.com/books/HTB.html "How to choose and find a good dog")
-  * Free Info 
-    * [Dog Training](http://www.yourpurebredpuppy.com/training/ "Training, obedience, housebreaking, socialization")
-    * [Health Care & Feeding](http://www.yourpurebredpuppy.com/health/ "Health care, feeding, vaccinations")
-    * [Finding a Good Dog](http://www.yourpurebredpuppy.com/buying/ "Buying or adopting a puppy or adult dog")
-    * [Dog Breed Reviews](http://www.yourpurebredpuppy.com/dogbreeds/ "Temperament, personality, behavior, traits, characteristics")
-  * [Dog Breed Reviews](http://www.yourpurebredpuppy.com/dogbreeds/)
-    * [180 Dog Breeds:  
-What's Good About 'Em,  
-What's Bad About 'Em](http://www.yourpurebredpuppy.com/dogbreeds/ "180 dog breeds")
-  * Connect With Us 
-    * [Visit our blog](http://www.yourpurebredpuppy.com/blog/)
-    * [Follow us on Facebook](http://www.facebook.com/yourpurebredpuppy)
-    * [About us](http://www.yourpurebredpuppy.com/about.html)
-
-  
   
 
 
@@ -94,6 +74,6 @@ What's Bad About 'Em](http://www.yourpurebredpuppy.com/dogbreeds/ "180 dog breed
 
 > Feel free to contact me at [author@yourpurebredpuppy.com](mailto:author@yourpurebredpuppy.com)
 
-Copyright © 2000-2010 by Michele Welton. All rights reserved.  
+Copyright © 2000-2012 by Michele Welton. All rights reserved.  
 No part of this website may be copied, displayed on another website,  
 or distributed in any way without the express permission of the author.
