@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moqups.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016121351id_/https%3A//moqups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moqups.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121004929id_/https%3A//moqups.com/privacy) for the most accurate reproduction.*
 
 # Moqups - Privacy Policy
 
