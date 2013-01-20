@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shootq.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531172931id_/http%3A//app.shootq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shootq.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120082406id_/http%3A//app.shootq.com/privacy.html) for the most accurate reproduction.*
 
 # ShootQ :: Privacy Policy
 
-ShootQ LLC ("ShootQ") knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By opening a photographer account on ShootQ's website at [http://www.shootq.com](http://www.shootq.com/) ("shootq.com"), or using any of our services or products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+ShootQ Inc ("ShootQ") knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By opening a photographer account on ShootQ's website at [http://www.shootq.com](http://www.shootq.com/) ("shootq.com"), or using any of our services or products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 ## What Does This Privacy Policy Cover?
 
@@ -10,7 +10,7 @@ This Privacy Policy covers ShootQ's treatment of personally identifiable informa
 
 ## What Personal Information Does ShootQ display or Collect?
 
-The information we gather from users varies based on whether they are either an end user or a Photographer. Photographers are users who use shootq.com to organize and gain clients using shootq.com. This Privacy Policy covers the information we collect from each Photographer. End Users are users who have hired (or may hire) a Photographer for their occasion. The information we collect from End Users is governed by the [End User Privacy Policy](https://web.archive.org/web/20100531172931id_/http%3A//app.shootq.com/eupol.html). 
+The information we gather from users varies based on whether they are either an end user or a Photographer. Photographers are users who use shootq.com to organize and gain clients using shootq.com. This Privacy Policy covers the information we collect from each Photographer. End Users are users who have hired (or may hire) a Photographer for their occasion. The information we collect from End Users is governed by the [End User Privacy Policy](https://web.archive.org/web/20130120082406id_/http%3A//app.shootq.com/eupol.html). 
 
 The information we collect enables us to personalize and improve our services, and to allow you to set up a user account and profile that can be used to interact with other Photographers and End Users through shootq.com. In connection with shootq.com, we may request and display some personal information to other users and visitors of shootq.com, which allows Photographers and End Users to identify, interact, and contract with each other. We collect the following types of information from our users:
 
