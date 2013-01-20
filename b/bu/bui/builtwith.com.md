@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2012-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120227055636id_/http%3A//builtwith.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120215755id_/http%3A//builtwith.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ We may collect, store and use the following kinds of personal data:
 
 ###### (2) Information about website visits
 
-We may collect information about you computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website's usability, and for marketing purposes.
+We may collect information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and number of page views. We may use this information in the administration of this website, to improve the website's usability, and for marketing purposes.
 
 ###### (3) Using your personal data
 
@@ -29,6 +29,8 @@ In addition to the uses identified elsewhere in this privacy policy, we may use 
 (a) improve your browsing experience by personalising the website;
 
 (b) to contact you about features and updates about BuiltWith.com exclusively.
+
+(c) To bill and collect sums owed to us. Uses for this purpose include sending you emails, invoices, receipts and notices of delinquency, to alert you if we need a different credit card number, and to otherwise try to collect money owed. We use third parties to handle secure credit card transaction processing and send billing information to such third parties, who maintain all information in confidence, to process your orders and credit card payments.
 
 ###### (4) Other disclosures
 
@@ -44,6 +46,12 @@ In addition to the disclosures reasonably necessary for the purposes identified 
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
+###### (5) Safeguarding Your Information
+
+(a) To protect your information, our credit card processing vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. In addition, our vendor is certified as compliant with card association security initiatives, such as the Visa Cardholder Information Security and Compliance (CISP), MasterCard® (SDP), and Discovery Information Security and Compliance (DISC).
+
+(b) Account passwords are encrypted. We cannot see your passwords. We can only reset them.
+
 ###### (6) Security of your personal data
 
 We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
@@ -56,7 +64,7 @@ We may update this privacy policy from time-to-time by posting a new version on 
 
 ###### (8) Your rights
 
-You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to the payment of a fee (currently fixed at 60 Australian Dollars).
+You may instruct us to provide you with any personal information we hold about you. Provision of such information will be subject to the payment of a fee (currently fixed at $AU90).
 
 ###### (9) Third party websites
 
