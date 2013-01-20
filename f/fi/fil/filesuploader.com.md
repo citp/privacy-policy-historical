@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesuploader.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014145719id_/http%3A//www.filesuploader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesuploader.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120071438id_/http%3A//www.filesuploader.com/privacy) for the most accurate reproduction.*
 
 # FilesUploader - Kürzen Sie Ihre langen URLs in einem Klick
 
@@ -22,4 +22,4 @@ We have included links on this site for your use and reference. We are not respo
 Changes to this Privacy Statement  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of our site then you may contact us at no_reply@filesuploader.com
+If you have any questions regarding the privacy policy of our site then you may contact us at postmaster@filesuploader.com
