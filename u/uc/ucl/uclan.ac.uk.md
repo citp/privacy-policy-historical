@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uclan.ac.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010153205id_/http%3A//www.uclan.ac.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uclan.ac.uk privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120014153id_/http%3A//www.uclan.ac.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Privacy - University of Central Lancashire
 
