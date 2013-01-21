@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113010457id_/https%3A//www3.imsa.edu/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121113701id_/https%3A//www3.imsa.edu/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Websites Under Domain imsa.edu | Illinois Mathematics and Science Academy®
 
