@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parentsquare.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515165122id_/http%3A//www.parentsquare.com/user/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentsquare.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121153721id_/http%3A//parentsquare.com/privacy) for the most accurate reproduction.*
 
-# ParentSquare
+# ParentSquare | Privacy Policy
 
 The privacy policy is designed to assist you in understanding how we collect, use, and safeguard the personal information you or your school provides and to assist you in making informed decisions when using our site. The school refers to the staff personnel and PTA/ PTO executives including but not limited to the principal, teachers and the school administrative staff and the PTA/ PTO members at your children's school(s). 
 
@@ -18,19 +18,19 @@ You or your school may provide us with two types of information: personal inform
 
 ### Information You Provide to Us
 
-When your school chooses to use ParentSquare, the school provides us with your name and email address. During the registration process you provide us with your children’s name and class. Once you register you can provide other information about yourself such as your phone numbers, address, profession, talent, interests and abilities. All information you provide to us is made accessible to other users in your school. This information is not shared with users outside of your school. 
+When your school chooses to use ParentSquare, the school provides us with your name and email address and the name of the class you child is in and this information is available to registered ParentSquare users in your school. During the registration process you provide us with your child(ren)’s name(s) and class(es). Once you register you can provide other information about yourself such as your phone numbers, address, profession, talent, interests and abilities. All information you provide to us is made accessible to other users in your school. This information is not shared with users outside of your school, but may be made available to your school's district office should they request it.
 
 ### Information We Collect when You Interact With ParentSquare
 
-##### Site Activity Information
+#### Site Activity Information
 
 We keep track of some of the actions you take on ParentSquare. For example, if you add a comment, in addition to storing the actual comment, we log the fact that you added a comment.
 
-##### Access Device and Browser Information
+#### Access Device and Browser Information
 
 When you access ParentSquare from a computer, mobile phone, or other device, we may collect information from that device about your browser type, location, and IP address, the pages you visit, the date and time of visits, time spent at our website, and the sites visited just before and just after ours. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
 
-##### Cookie Information
+#### Cookie Information
 
 We use "cookies" (small pieces of data we store for an extended period of time on your computer) to make ParentSquare easier to use and to protect both you and ParentSquare. For example, we use them to store your login ID (but never your password) to make it easier for you to login whenever you come back to ParentSquare. We also use them to confirm that you are logged into ParentSquare. You can remove or block cookies using the settings in your browser, but in some cases that may impact your ability to use ParentSquare.
 
@@ -38,15 +38,15 @@ We use "cookies" (small pieces of data we store for an extended period of time o
 
 We use the information we collect to try to provide a safe, efficient, and customized experience. Here are some of the details on how we do that.
 
-##### To Manage the Service
+#### To Manage the Service
 
 We use the information we collect to provide our services and features to you, to measure and improve those services and features, and to provide you with customer support.
 
-##### To Contact You
+#### To Contact You
 
 We may contact you with service-related announcements from time to time. This includes contacting you for any school related activities. We may include content you see on ParentSquare in the emails we send to you. We may also contact you to notify you about important changes to our website.
 
-##### How We Protect Information
+#### How We Protect Information
 
 We keep your account information on a secured server behind a firewall. We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.
 
