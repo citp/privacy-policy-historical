@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jtrigsby.com privacy policy that was archived on 2012-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120623071603id_/http%3A//www.jtrigsby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtrigsby.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121074059id_/http%3A//www.jtrigsby.com/privacy) for the most accurate reproduction.*
 
 # Privacy at jtrigsby.com | jtrigsby.com
-
-##  Privacy 
 
 Ethel Guarding the Safe, Thanks Grandma!
 
