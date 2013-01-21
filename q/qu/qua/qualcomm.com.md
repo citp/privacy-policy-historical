@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the qualcomm.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192243id_/http%3A//www.qualcomm.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualcomm.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121185447id_/http%3A//www.qualcomm.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Site Information | Qualcomm
 
-In this Web Site Privacy Statement (“statement”), we, Qualcomm Incorporated and our wholly-owned subsidiaries, provide information about how we collect, use and transfer personally identifiable data from you, a web site visitor, through [www.qualcomm.com](http://www.qualcomm.com/ "www.qualcomm.com"), and other web sites that we operate and on which we post a direct link to this statement (collectively the "site").
+## You are here
+
+In this Web Site Privacy Statement (“statement”), we, Qualcomm Incorporated and our wholly-owned subsidiaries, provide information about how we collect, use and transfer personally identifiable data from you, a web site visitor, through [www.qualcomm.com](http://www.qualcomm.com/), and other web sites that we operate and on which we post a direct link to this statement (collectively the "site").
 
 This statement covers only data collected through the site and not any other data collection or processing, including, without limitation, data collection practices of other web pages to which we link or data that we or our affiliates collect offline or through web sites, products, or services that do not display a direct link to this statement. Occasionally, we may refer to this statement in notices and consent requests related to surveys and special-purpose web pages, for example, our Careers web pages; under such circumstances, this statement applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection).
 
