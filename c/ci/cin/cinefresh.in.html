@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cinefresh.in privacy policy that was archived on 2012-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121029122105id_/http%3A//www.cinefresh.in/2009/07/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cinefresh.in privacy policy that was archived on 2013-01-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130121064230id_/http%3A//www.cinefresh.in/2009/07/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
 <meta content="www.cinefresh.in" name="title">
@@ -26,7 +26,7 @@ try{var m=null;a.chrome&&a.chrome.csi&&(m=Math.floor(a.chrome.csi().pageT),j&&0<
 <title>Privacy Policy | Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews: Privacy Policy</title>
 <link href="http://www.iconj.com/ico/4/0/405up36nx0.ico" rel="shortcut icon" type="image/x-icon">
 <link type="text/css" rel="stylesheet" href="//www.blogger.com/static/v1/widgets/1937454905-widget_css_bundle.css">
-<link type="text/css" rel="stylesheet" href="//www.blogger.com/dyn-css/authorization.css?targetBlogID=7485897059310807125&amp;zx=7999e22b-e856-402c-ac82-32704d94b84d">
+<link type="text/css" rel="stylesheet" href="//www.blogger.com/dyn-css/authorization.css?targetBlogID=7485897059310807125&amp;zx=ae28dda1-5a07-4f16-ad4b-9f74eb7734e2">
 <style id="page-skin-1" type="text/css"><!--
 /*BEL
 -----------------------------------------------
@@ -40,7 +40,7 @@ Theme Date:     10-07-11
 body {
 background: #171717 url('http://3.bp.blogspot.com/-aabRKYlIBOw/TlCgfNMk2tI/AAAAAAAAPpk/pu2UE7sINnY/s1600/bgc2.gif') fixed;
 color: #333333;
-width: 1158px;
+width: 998px;
 font-size: 12px;
 font-family: Tahoma, Arial, Verdana;
 margin: 0 auto 0;
@@ -254,8 +254,8 @@ border: 1px solid #333333;
 -webkit-border-radius: 5px;
 }
 .searchsubmit:hover {
-background: #CF152A;
-border: 1px solid #CF152A;
+background: #00a0e2;
+border: 1px solid #00a0e2;
 }
 #nav {
 clear: both;
@@ -573,6 +573,7 @@ position: relative;
 border: 1px solid #cccccc;
 }
 .post {
+font-family: 'Hammersmith One', sans-serif, Tahoma, Arial, Verdana;
 border-bottom: 2px dotted #dddddd;
 margin: 0 0 2px;
 padding: 5px;
@@ -580,7 +581,7 @@ padding: 5px;
 .post h3 {
 color: #333333;
 font-size: 25px;
-font-family: 'Play', Tahoma, Arial, Verdana;
+font-family: 'Chewy', cursive, Tahoma, Arial, Verdana;
 font-weight: bold;
 text-decoration: none;
 margin: 0 0 2px;
@@ -801,10 +802,10 @@ margin-bottom: 7px;
 .post img{padding:3px; border:1px solid #666;}
 .post a img {
 padding:3px;
-border:1px solid #00aaff;
+border:1px solid #ddd;
 margin:2px 3px;
 }
-.post a:hover img{border:1px solid #000;}
+.post a:hover img{border:1px solid #333;box-shadow:0 0 4px #bbb;-moz-box-shadow:0 0 4px #bbb;-webkit-box-shadow:0 0 4px #bbb;}
 .post blockquote {
 margin: 1em 20px;
 }
@@ -910,7 +911,7 @@ top: 1px;
 float: left;
 padding: 6px 14px 6px 13px;
 margin: 0px 1px 0px 0px;
-font: 13px 'Exo', sans-serif, Arial, Helvetica, sans-serif;
+font: 13px 'Hammersmith One', sans-serif, sans-serif, Arial, Helvetica, sans-serif;
 background-color: #8b8b8b;
 list-style: none;
 border: solid 1px #666;
@@ -928,6 +929,7 @@ color: #fff;
 background-color: #ADABAB;e6e7eb;
 }
 .TabbedPanelsTabSelected {
+box-shadow:0 0 4px #999;-moz-box-shadow:0 0 4px #999;-webkit-box-shadow:0 0 4px #999;
 background-color: #E4E4E4;
 border: 1px solid #999;d5d9da;
 border-bottom: 1px solid #E4E4E4;
@@ -939,6 +941,7 @@ text-decoration: none;
 }
 .TabbedPanelsContentGroup {
 clear: both;
+box-shadow:0 0 4px #333;-moz-box-shadow:0 0 4px #bbb;-webkit-box-shadow:0 0 4px #333;
 border-left: solid 1px #999;
 border-bottom: solid 1px #666;
 border-top: solid 1px #999;
@@ -1082,15 +1085,7 @@ function createSummaryAndThumb(pID){
 var div = document.getElementById(pID);
 var imgtag = "";
 var img = div.getElementsByTagName("img");
-var summ = summary_noimg;
-if(img.length>=1) { 
-imgtag = '<span style="float:left; padding:0px 10px 5px 0px;"><img src="'+img[0].src+'" width="'+img_thumb_width+'px" height="'+img_thumb_height+'px"/></span>';
-summ = summary_img;
-}
-
-var summary = imgtag + '<div>' + removeHtmlTag(div.innerHTML,summ) + '</div>';
-div.innerHTML = summary;
-}
+var summ=summary_noimg;if(img.length>=1){imgurl=img[0].src;imgurl=imgurl.replace("/s200/","/s160-c/");imgtag='<span style="float:left; padding:0px 10px 5px 0px;"><img src="'+imgurl+'" width="140px" height="150px"/></span>';summ=summary_img}var summary='<div>'+imgtag+removeHtmlTag(div.innerHTML,summ)+'</div>';div.innerHTML=summary}
 
 
 //]]>
@@ -1128,7 +1123,7 @@ function harishthumbs(json) {
                 thumburl = d
             } else thumburl = 'http://2.bp.blogspot.com/-fvGHB8GLUjY/ThG-C3fXoMI/AAAAAAAAI34/N2s5uttNFfY/s400/noimg.jpg'
         }
-        document.write('<a style="padding:3.6px;margin-bottom:1px; border:1px solid #F2F2F2; float:left;" href="' + posturl + '" target ="_top" title="' + posttitle + '"><img class="recent_thumb" src="' + thumburl + '"/></a>');
+        document.write('<a style="padding:3.6px;margin-bottom:1px; border:1px solid #F2F2F2; webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px; float:left;" href="' + posturl + '" target ="_top" title="' + posttitle + '"><img class="recent_thumb" src="' + thumburl + '"/></a>');
     }
     document.write('</span>')
 }
@@ -1167,7 +1162,7 @@ function bobthumbs(json) {
                 thumburl = d
             } else thumburl = 'http://2.bp.blogspot.com/-fvGHB8GLUjY/ThG-C3fXoMI/AAAAAAAAI34/N2s5uttNFfY/s400/noimg.jpg'
         }
-        document.write('<a style="padding:3.8px;margin-bottom:1px; border:1px solid #F2F2F2; float:left;" href="' + posturl + '" target ="_top" title="' + posttitle + '"><img class="bob_thumb" src="' + thumburl + '"/></a>');
+        document.write('<a style="padding:3.6px;margin-bottom:1px; border:1px solid #F2F2F2; float:left;" href="' + posturl + '" target ="_top" title="' + posttitle + '"><img class="bob_thumb" src="' + thumburl + '"/></a>');
     }
     document.write('</span>')
 }
@@ -1272,8 +1267,8 @@ return false;
 });
 });
 </script>
-<link href="http://fonts.googleapis.com/css?family=Exo" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Play:700" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Chewy" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Hammersmith+One" rel="stylesheet" type="text/css">
 <script type="text/javascript">var a=navigator,b="userAgent",c="indexOf",f="&m=1",g="(^|&)m=",h="?",i="?m=1";function j(){var d=window.location.href,e=d.split(h);switch(e.length){case 1:return d+i;case 2:return 0<=e[1].search(g)?null:d+f;default:return null}}if(-1!=a[b][c]("Mobile")&&-1!=a[b][c]("WebKit")&&-1==a[b][c]("iPad")||-1!=a[b][c]("Opera Mini")||-1!=a[b][c]("IEMobile")){var k=j();k&&window.location.replace(k)};
 </script><script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('headEnd');
@@ -1317,7 +1312,7 @@ head.appendChild(script);
 </div></div>
 <div class="container">
 <div id="title-area">
-<h1 id="title"><a href="http://www.cinefresh.in/"><img id="Header1_headerimg" src="http://4.bp.blogspot.com/-rVrG2a9msXc/Tv2k85N9BvI/AAAAAAAAv80/FdS0MJ82LlU/s1600/CineFresh_Logo.gif" style="padding-right: 1px;"></a><a href="http://www.cinefresh.in/search/label/mirchi"><img src="http://3.bp.blogspot.com/-TttY5d4q-6k/UI2Yy4GM_II/AAAAAAABHNw/8VBf8yHOYhU/s1600/mirchiprabhas.png" style="cursor:pointer; cursor:hand;"></a></h1>
+<h1 id="title"><a href="http://www.cinefresh.in/"><img id="Header1_headerimg" src="http://4.bp.blogspot.com/-rVrG2a9msXc/Tv2k85N9BvI/AAAAAAAAv80/FdS0MJ82LlU/s1600/CineFresh_Logo.gif" style="padding-right: 1px;"></a><a href="http://www.cinefresh.in/search/label/Seethamma%20Vakitlo%20Sirimalle%20Chettu"><img src="http://2.bp.blogspot.com/-KOjeIm-qf14/UO-PSHm4MdI/AAAAAAABVwk/VYOVhZVsQCk/s1600/svscbanner.gif" style="cursor:pointer; cursor:hand;"></a></h1>
 </div>
 <!-- end #title-area -->
 <div class="widget-area">
@@ -1338,7 +1333,7 @@ head.appendChild(script);
 </li>
 <li class="page_item page-item-62"><a href="http://www.cinefresh.in/search/label/photoshoot" title="Photoshoot Page">Photoshoot</a>
 </li>
-<li class="page_item page-item-213"><a href="http://www.cinefresh.in/p/tollywood-celebrities-twitter-buzzing.html" title="twitter">Celebs Twitter Buzz...!</a></li>
+<li class="page_item page-item-213"><a href="http://www.cinefresh.in/p/tollywood-celebrities-twitter-buzzing.html" title="twitter">Celebs Twitter Buzz!</a></li>
 <li class="page_item page-item-213"><a href="http://www.cinefresh.in/2009/07/contact-us.html" target="_blank">Contact Us</a></li>
 <li class="right rss"><a href="http://feedburner.google.com/fb/a/mailverify?uri=FreshIndianMovieUpdatesTeluguHindiTamilMovieHotGalleriesWallpapersReviews" rel="nofollow" target="_blank">Subscribe</a><a href="http://feeds.feedburner.com/FreshIndianMovieUpdatesTeluguHindiTamilMovieHotGalleriesWallpapersReviews" rel="nofollow" target="_blank">Rss</a><a href="http://twitter.com/cinefreshblog" rel="nofollow" target="_blank">Twitter</a><a href="https://www.facebook.com/pages/CineFresh/194908197188316" rel="nofollow" target="_blank">Facebook</a></li>
 </ul>
@@ -1373,7 +1368,9 @@ head.appendChild(script);
 <div id="footer-wrapper">
 <div class="footer section" id="footer"><div class="widget HTML" id="HTML9">
 <div class="widget-content">
-<div style="margin-left: 5px;"><div style="padding-top: 5px;width: 950px; height: 95px;background: none repeat scroll 0% 0% rgb(221, 221, 221); border: 1px solid rgb(181, 181, 181); text-shadow: 1px 1px rgb(255, 255, 255); text-align: center; font-weight: bold; color: rgb(0, 0, 0); font-family:trebuchet ms;"><center><script type="text/javascript"><!--
+<div style="margin-left: 6px; padding-bottom: 5px;">
+<div style="background: #ddd; border: 1px solid #b5b5b5; padding-top: 5px; width:950px;height:95px;box-shadow:0 0 4px #333;-moz-box-shadow:0 0 4px #bbb;-webkit-box-shadow:0 0 4px #333;">
+<center><script type="text/javascript"><!--
 google_ad_client = "pub-3229607848934244";
 google_ad_host = "pub-1556223355139109";
 /* bottom center leaderboard cf 728x90 */
@@ -1383,7 +1380,9 @@ google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></center></div></div>
+</script></center>
+</div>
+</div>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
@@ -1422,15 +1421,24 @@ google_ad_height = 90;
 <script type="text/javascript" src="http://www.cinefresh.in/feeds/posts/default/-/hotupdates?alt=json-in-script&amp;callback=harishthumbs"></script>
 </div>
         <div class="TabbedPanelsContent">
-<script type="text/javascript" src="http://www.cinefresh.in/feeds/posts/default/-/event?alt=json-in-script&amp;callback=harishthumbs"></script>
-</div>
+<script type="text/javascript" src="http://www.cinefresh.in/feeds/posts/default/-/event?alt=json-in-script&amp;callback=harishthumbs"></script></div>
     </div>
 </div>
-<!--Initialize the Tabbed Panel widget object-->
 <script type="text/javascript">
 var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
-</script>
+TabbedPanels1.onTabClick = function(e, tab)
+{
+this.showPanel(tab); // FUnction related; keep on top!!!!
 
+// Now Load on each tabl click
+var div = TabbedPanels1.getContentPanels()[TabbedPanels1.currentTabIndex];
+upDateContent(TabbedPanels1.currentTabIndex,div);
+return this.cancelEvent(e);// Function related
+};
+// By Default Tab ONE will be loaded.
+var div = TabbedPanels1.getContentPanels()[TabbedPanels1.currentTabIndex];
+upDateContent(TabbedPanels1.currentTabIndex,div);
+</script>
 <div style="border-bottom: 2px dotted #dddddd;">
       </div>
 </div>
@@ -1445,7 +1453,7 @@ var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
 <div class="clear"></div>
 </div><div class="widget HTML" id="HTML6">
 <div class="widget-content">
-<div style="padding-left: 5px;padding-top: 5px;"><div style="width: 638px;height: 70px;background: none repeat scroll 0% 0% #f7f7f7; border: 1px solid #ddd;"><div style="padding-top: 5px;"><center><!-- BEGIN STANDARD TAG - 468 x 60 - ROS: Run-of-site - DO NOT MODIFY -->
+<div style="padding-left: 5px;padding-top: 5px;"><div style="width: 638px;height: 70px;background: none repeat scroll 0% 0% #f7f7f7; border: 1px #ddd solid;"><div style="padding-top: 5px;"><center><!-- BEGIN STANDARD TAG - 468 x 60 - ROS: Run-of-site - DO NOT MODIFY -->
 <iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="468" height="60" src="http://ad.globe7.com/st?ad_type=iframe&amp;ad_size=468x60&amp;section=3005662&amp;pub_url=${PUB_URL}"></iframe>
 <!-- END TAG -->
 </center></div>
@@ -1547,7 +1555,7 @@ printRelatedLabels_thumbs("http://www.cinefresh.in/2009/07/privacy-policy.html")
 </p>
 <a href="http://www.blogger.com/comment-iframe.g?blogID=7485897059310807125&amp;postID=4249688760764216675" id="comment-editor-src"></a>
 <iframe allowtransparency="true" class="blogger-iframe-colorize" frameborder="0" height="275" id="comment-editor" scrolling="no" src="" width="590"></iframe>
-<script type="text/javascript" src="//www.blogger.com/static/v1/jsbin/2175433709-iframe_colorizer.js"></script>
+<script type="text/javascript" src="//www.blogger.com/static/v1/jsbin/1512995807-iframe_colorizer.js"></script>
 </div>
 <p></p>
 <div id="backlinks-container">
@@ -1559,14 +1567,14 @@ printRelatedLabels_thumbs("http://www.cinefresh.in/2009/07/privacy-policy.html")
 </div>
 <div class="blog-pager" id="blog-pager">
 <span id="blog-pager-newer-link">
-<a class="blog-pager-newer-link" href="http://www.cinefresh.in/2009/07/contact-us.html" id="Blog1_blog-pager-newer-link" title="Newer Post"><div style="width: 140px; border: 1px dotted rgb(153, 153, 153); background: none repeat scroll 0% 0% rgb(247, 247, 247); font-weight: bold; text-align: center; box-shadow: 0pt 0pt 4px #DBDBDB inset; border-radius: 5px 5px 5px 5px; color: rgb(204, 0, 0); font-family: Play, trebuchet ms;font-family:Play, trebuchet ms;font-size:100%;"><span style="font-weight: bold;">&lt;&lt; </span>Previous Page</div>
+<a class="blog-pager-newer-link" href="http://www.cinefresh.in/2009/07/contact-us.html" id="Blog1_blog-pager-newer-link" title="Newer Post"><div style=" font-family: Chewy, cursive, trebuchet ms; text-align: center;font-size: 22px;">Previous Page<br><span style="font-weight: bold;">&lt;&lt; </span><img src="http://1.bp.blogspot.com/-jxemfWZZ39E/T_65sv622uI/AAAAAAAAHfQ/vaP9YXA0P5w/s100/main-shadow.png"></div>
 </a>
 </span>
 <span id="blog-pager-older-link">
-<a class="blog-pager-older-link" href="http://www.cinefresh.in/2012/03/watch-racha-audio-launch-live-online.html" id="Blog1_blog-pager-older-link" title="Older Post"><div style="width: 140px; border: 1px dotted rgb(153, 153, 153); background: none repeat scroll 0% 0% rgb(247, 247, 247); font-weight: bold; font-family: Play, trebuchet ms; text-align: center; box-shadow: 0pt 0pt 4px #DBDBDB inset; border-radius: 5px 5px 5px 5px; color: rgb(204, 0, 0);font-size:100%;">Next Page<span style="font-weight: bold;">&gt;&gt;</span></div>
+<a class="blog-pager-older-link" href="http://www.cinefresh.in/2012/03/watch-racha-audio-launch-live-online.html" id="Blog1_blog-pager-older-link" title="Older Post"><div style=" font-family: Chewy, cursive, trebuchet ms; text-align: center;font-size: 22px;">Next Page<br><img src="http://1.bp.blogspot.com/-jxemfWZZ39E/T_65sv622uI/AAAAAAAAHfQ/vaP9YXA0P5w/s100/main-shadow.png"><span style="font-weight: bold;">&gt;&gt;</span></div>
 </a>
 </span>
-<a class="home-link" href="http://www.cinefresh.in/"><center><div style="width: 80px; border: 1px dotted rgb(153, 153, 153); background: none repeat scroll 0% 0% rgb(247, 247, 247); font-weight: bold; font-family: Play, trebuchet ms; text-align: center; box-shadow: 0pt 0pt 4px #DBDBDB inset; border-radius: 5px 5px 5px 5px; color: rgb(204, 0, 0);font-size:100%;">Home</div></center></a>
+<a class="home-link" href="http://www.cinefresh.in/"><center><div style=" font-family: Chewy, cursive, trebuchet ms; text-align: center;font-size: 22px;">Home</div></center></a>
 </div>
 <div class="clear"></div>
 </div></div>
@@ -1586,13 +1594,13 @@ printRelatedLabels_thumbs("http://www.cinefresh.in/2009/07/privacy-policy.html")
     <script language="JavaScript">
     images = new Array(2);
 
-    images[0] = "<a href = 'http://www.cinefresh.in/2012/09/tamanna-hot-stills-from-rebel-movie.html' rel='nofollow' ><img src='http://1.bp.blogspot.com/-Vol5X9pRu2w/UHRlZsewmNI/AAAAAAABCzc/9FkIRjAHKFw/s1600/tammu-cf.gif' border='0' height='70' width='300' alt='Tamanna Hot in Rebel'></a>";
+    images[0] = "<a href = 'http://www.cinefresh.in/2012/12/telugu-movies-release-dates-updated.html' rel='nofollow' ><img src='http://4.bp.blogspot.com/--KBpIonXk10/UKTxZ-vaCdI/AAAAAAABKQg/eL0A8mJuOvk/s1600/UPCOMING-CF.gif' border='0' height='70' width='300'  alt='Upcoming telugu movies release dates'></a>";
 
-    images[1] = "<a href = 'http://www.cinefresh.in/search/label/camera%20man%20ganga%20tho%20rambabu' rel='nofollow' ><img src='http://2.bp.blogspot.com/-telrGjT3daU/UIVJDfhNriI/AAAAAAABFQM/HyvnYbsVr8E/s1600/cmgr-CF.gif' border='0' height='70' width='300' alt='Cameraman Ganga Tho Rambabu'></a>";
+    images[1] = "<a href = 'http://www.cinefresh.in/2012/10/samantha-latest-hot-stunning-photos.html' rel='nofollow' ><img src='http://3.bp.blogspot.com/-RIsxzhpoQTg/UJ_pVyqei7I/AAAAAAABJas/2Y67nKsdvkY/s1600/samantha-hot-CF.gif' border='0' height='70' width='300' alt='Samantha Hot Photos'></a>";
 
     index = Math.floor(Math.random() * images.length);
     document.write(images[index]);
-    </script><a href="http://www.cinefresh.in/2012/09/tamanna-hot-stills-from-rebel-movie.html" rel="nofollow"><img src="http://1.bp.blogspot.com/-Vol5X9pRu2w/UHRlZsewmNI/AAAAAAABCzc/9FkIRjAHKFw/s1600/tammu-cf.gif" border="0" height="70" width="300" alt="Tamanna Hot in Rebel"></a>
+    </script><a href="http://www.cinefresh.in/2012/12/telugu-movies-release-dates-updated.html" rel="nofollow"><img src="http://4.bp.blogspot.com/--KBpIonXk10/UKTxZ-vaCdI/AAAAAAABKQg/eL0A8mJuOvk/s1600/UPCOMING-CF.gif" border="0" height="70" width="300" alt="Upcoming telugu movies release dates"></a>
 
     </center></td>
     </tr>
@@ -1615,6 +1623,62 @@ google_ad_height = 250;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </center>
+
+
+<style>
+
+#floatdiv {
+  position:absolute;
+bottom:0%;
+margin-left:305px;
+z-index:10;
+float:left;
+padding-bottom:1730px;
+padding-top: 5px;
+
+}
+
+#cfsidebar {
+        background:#transparent;
+        border-top:1px solid #transparent;
+        border-left:1px solid #transparent;
+        border-bottom:1px solid #transparent;
+        border-radius:5px;
+       -moz-border-radius:5px;
+       -webkit-border-radius:5px;
+        padding-left:5px;
+        width:120px;
+        margin:0 0 0 0px;
+}
+
+</style>
+
+ 
+
+
+<div id="floatdiv">
+<div id="cfsidebar">
+    <table cellpadding="1px" cellspacing="0">
+
+    <tbody><tr>
+    <td style="padding:5px 0px 0px 0;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3229607848934244";
+google_ad_host = "pub-1556223355139109";
+/* Top Left Wide Skyscraper - N 160x600 */
+google_ad_slot = "4551976388";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script> 
+</td>
+</tr>
+
+    </tbody></table>
+</div>
+</div>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
@@ -1628,17 +1692,16 @@ google_ad_height = 250;
 </div><div class="widget HTML" id="HTML4">
 <h2 class="title">Listen Songs Online</h2>
 <div class="widget-content">
+<a href="http://www.cinefresh.in/2012/12/listen-sarocharu-songs-online-no.html"><span style="margin: 2px 0pt; padding: 2px 5px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; display: block; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal; font-size-adjust: none; font-stretch: normal; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;font-family:'trebuchet ms',Arial,Helvetica,sans-serif;">Sarocharu <img src="https://lh3.googleusercontent.com/-FqtJlIiYerE/TkLmvIXwj3I/AAAAAAAANmI/m5pgAwCjJ08/s288/icon.gif">
+<span style="font-weight: bold; color: rgb(255, 0, 0);">- <blink>Full Songs!</blink></span>
+</span></a>
 <a href="http://www.cinefresh.in/2012/09/listen-cameraman-ganga-tho-rambabu-full.html"><span style="margin: 2px 0pt; padding: 2px 5px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; display: block; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal; font-size-adjust: none; font-stretch: normal; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;font-family:'trebuchet ms',Arial,Helvetica,sans-serif;">Cameraman Ganga Tho Rambabu <img src="https://lh3.googleusercontent.com/-FqtJlIiYerE/TkLmvIXwj3I/AAAAAAAANmI/m5pgAwCjJ08/s288/icon.gif">
-<span style="font-weight: bold; color: rgb(255, 0, 0);">- <blink>Full Songs!<blink></blink></blink></span>
+<span style="font-weight: bold; color: rgb(255, 0, 0);">- Full Songs!</span>
 </span></a>
 <a href="http://www.cinefresh.in/2012/09/listen-rebel-audio-songs-online.html"><span style="margin: 2px 0pt; padding: 2px 5px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; display: block; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal; font-size-adjust: none; font-stretch: normal; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;font-family:'trebuchet ms',Arial,Helvetica,sans-serif;">Rebel <img src="https://lh3.googleusercontent.com/-FqtJlIiYerE/TkLmvIXwj3I/AAAAAAAANmI/m5pgAwCjJ08/s288/icon.gif"> <span style="font-weight: bold; color: rgb(255, 0, 0);">- Full Songs!</span>
 </span></a>
 <a href="http://www.cinefresh.in/2012/09/listen-damarukam-audio-songs-online.html"><span style="margin: 2px 0pt; padding: 2px 5px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; display: block; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal; font-size-adjust: none; font-stretch: normal; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;font-family:'trebuchet ms',Arial,Helvetica,sans-serif;">Damarukam <img src="https://lh3.googleusercontent.com/-FqtJlIiYerE/TkLmvIXwj3I/AAAAAAAANmI/m5pgAwCjJ08/s288/icon.gif"><span style="font-weight: bold; color: rgb(255, 0, 0);">- Full Songs!</span></span></a>
 <a href="http://www.cinefresh.in/2012/03/listen-eega-telugu-movie-songs-online.html"><span style="margin: 2px 0pt; padding: 2px 5px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; display: block; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal; font-size-adjust: none; font-stretch: normal; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;font-family:'trebuchet ms',Arial,Helvetica,sans-serif;">Eega <img src="https://lh3.googleusercontent.com/-FqtJlIiYerE/TkLmvIXwj3I/AAAAAAAANmI/m5pgAwCjJ08/s288/icon.gif">
-<span style="font-weight: bold; color: rgb(255, 0, 0);">- Full Songs!</span>
-</span></a>
-<a href="http://www.cinefresh.in/2012/03/listen-jr-ntr-dhammu-movie-audio-songs.html"><span style="margin: 2px 0pt; padding: 2px 5px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; display: block; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal; font-size-adjust: none; font-stretch: normal; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;font-family:'trebuchet ms',Arial,Helvetica,sans-serif;">Dhammu <img src="https://lh3.googleusercontent.com/-FqtJlIiYerE/TkLmvIXwj3I/AAAAAAAANmI/m5pgAwCjJ08/s288/icon.gif">
-<span style="font-weight: bold; color: rgb(255, 0, 0);">- Full Songs!</span>
 </span></a>
 <div style="text-align: right;"><a href="http://www.cinefresh.in/2009/10/listen-telugu-movie-songs-online-telugu.html"><span style="margin: 2px 0pt; padding: 2px 5px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; display: block; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal; font-size-adjust: none; font-stretch: normal; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;font-family:'trebuchet ms',Arial,Helvetica,sans-serif;">For More...</span></a></div>
 </div>
@@ -1745,25 +1808,6 @@ home_page = "http://www.cinefresh.in/";
 <h2 class="title">Popular Updates</h2>
 <div class="widget-content">
 <div style="width: 300px; background:#000000;"><script src="http://www.cinefresh.in/feeds/posts/default/-/popular?alt=json-in-script&amp;callback=bobthumbs" type="text/javascript"></div></div></script></div>
-
-<!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=7130431; 
-var sc_invisible=1; 
-var sc_security="6e598ab2"; 
-</script>
-
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div
-class="statcounter"><a title="tumblr counter"
-class="statcounter"
-href="http://statcounter.com/tumblr/"><img
-class="statcounter"
-src="http://c.statcounter.com/7130431/0/6e598ab2/1/"
-alt="tumblr counter" /></img
-class="statcounter"
-src="http:></a></div
-class="statcounter"></noscript>
-<!-- End of StatCounter Code -->
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
@@ -1792,9 +1836,25 @@ class="statcounter"></noscript>
 
 <table border="0" cellpadding="0" cellspacing="0" width="950"><tbody><tr><td align="center" valign="middle">
 <div style="background: transparent none repeat scroll 0% 0%; width: 730px; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;">
-	<center><!-- BEGIN STANDARD TAG - 728 x 90 - ROS: Run-of-site - DO NOT MODIFY -->
-<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ad.globe7.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=3005662&amp;pub_url=${PUB_URL}"></iframe>
-<!-- END TAG --></center>
+	<center><!-- Begin: Cpmtree.com -->
+
+<script type="text/javascript">
+<!--
+ad_width = 728;
+ad_height = 90;
+ad_affid = '197';
+// -->
+</script>
+
+<script type="text/javascript" src="http://www.cpmtree.com/serv/tag.js"></script>
+
+<noscript>
+<a href="http://www.cpmtree.com">
+<img src="http://www.cpmtree.com/serv/noscript/1.gif" alt="Javascript Disabled" />
+</a>
+</noscript>
+<!-- End: Cpmtree.com -->
+</center>
 </div>
 
 </td><td align="center" valign="middle">
@@ -1914,10 +1974,10 @@ Subscribe via Email
 <script src="http://bloggerblogwidgets.googlecode.com/files/w2b_jquery.ui.totop.js" type="text/javascript"></script>
 <script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
-</script><script type="text/javascript" src="//www.blogger.com/static/v1/widgets/2857735638-widgets.js"></script>
+</script><script type="text/javascript" src="//www.blogger.com/static/v1/widgets/3115898655-widgets.js"></script>
 <script type="text/javascript">
 if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '7485897059310807125';BLOG_attachCsiOnload('item_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7485897059310807125','//www.cinefresh.in/2009/07/privacy-policy.html','7485897059310807125');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7485897059310807125', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews', 'pageType': 'item', 'url': 'http://www.cinefresh.in/2009/07/privacy-policy.html', 'canonicalUrl': 'http://www.cinefresh.in/2009/07/privacy-policy.html', 'canonicalHomepageUrl': 'http://www.cinefresh.in/', 'homepageUrl': 'http://www.cinefresh.in/', 'blogspotFaviconUrl': 'http://www.cinefresh.in/favicon.ico', 'enabledCommentProfileImages': false, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'Privacy Policy', 'pageTitle': 'Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews: Privacy Policy', 'metaDescription': '', 'encoding': 'UTF-8', 'locale': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews - Atom\42 href\75\42http://www.cinefresh.in/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews - RSS\42 href\75\42http://www.cinefresh.in/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews - Atom\42 href\75\42http://www.blogger.com/feeds/7485897059310807125/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\0757485897059310807125\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews - Atom\42 href\75\42http://www.cinefresh.in/feeds/4249688760764216675/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'postImageThumbnailUrl': 'http://2.bp.blogspot.com/-fe1Wm8xNBkM/TkN0pncqqaI/AAAAAAAANpE/nl1rUHHzaas/s72-c/bobby-cf.gif', 'imageSrcTag': '\74link rel\75\42image_src\42 href\75\42http://2.bp.blogspot.com/-fe1Wm8xNBkM/TkN0pncqqaI/AAAAAAAANpE/nl1rUHHzaas/s72-c/bobby-cf.gif\42 /\76\n', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var a\75window,b\75\42jstiming\42,d\75\42tick\42;var e\75function(c){this.t\75{};this.tick\75function(c,p,h){h\75void 0!\75h?h:(new Date).getTime();this.t[c]\75[h,p]};this[d](\42start\42,null,c)},f\75new e;a.jstiming\75{Timer:e,load:f};if(a.performance\46\46a.performance.timing){var g\75a.performance.timing,j\75a[b].load,k\75g.navigationStart,l\75g.responseStart;0\74k\46\46l\76\75k\46\46(j[d](\42_wtsrt\42,void 0,k),j[d](\42wtsrt_\42,\42_wtsrt\42,l),j[d](\42tbsd_\42,\42wtsrt_\42))}\ntry{var m\75null;a.chrome\46\46a.chrome.csi\46\46(m\75Math.floor(a.chrome.csi().pageT),j\46\0460\74k\46\46(j[d](\42_tbnd\42,void 0,a.chrome.csi().startE),j[d](\42tbnd_\42,\42_tbnd\42,k)));null\75\75m\46\46a.gtbExternal\46\46(m\75a.gtbExternal.pageT());null\75\75m\46\46a.external\46\46(m\75a.external.pageT,j\46\0460\74k\46\46(j[d](\42_tbnd\42,void 0,a.external.startE),j[d](\42tbnd_\42,\42_tbnd\42,k)));m\46\46(a[b].pt\75m)}catch(n){};a.tickAboveFold\75function(c){var i\0750;if(c.offsetParent){do i+\75c.offsetTop;while(c\75c.offsetParent)}c\75i;750\76\75c\46\46a[b].load[d](\42aft\42)};var q\75!1;function r(){q||(q\75!0,a[b].load[d](\42firstScrollTime\42))}a.addEventListener?a.addEventListener(\42scroll\42,r,!1):a.attachEvent(\42onscroll\42,r);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/2179ec63bcf35660'}}, {'name': 'skin', 'data': {'vars': {}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7485897059310807125', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews', 'pageType': 'item', 'url': 'http://www.cinefresh.in/2009/07/privacy-policy.html', 'canonicalUrl': 'http://www.cinefresh.in/2009/07/privacy-policy.html', 'canonicalHomepageUrl': 'http://www.cinefresh.in/', 'homepageUrl': 'http://www.cinefresh.in/', 'blogspotFaviconUrl': 'http://www.cinefresh.in/favicon.ico', 'enabledCommentProfileImages': false, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'Privacy Policy', 'pageTitle': 'Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews: Privacy Policy', 'metaDescription': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeLanguage': 'en', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews - Atom\42 href\75\42http://www.cinefresh.in/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews - RSS\42 href\75\42http://www.cinefresh.in/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews - Atom\42 href\75\42http://www.blogger.com/feeds/7485897059310807125/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\0757485897059310807125\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Fresh Indian Movie Updates, Telugu, Hindi, Tamil Movie Hot Galleries, wallpapers, reviews - Atom\42 href\75\42http://www.cinefresh.in/feeds/4249688760764216675/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'postImageThumbnailUrl': 'http://2.bp.blogspot.com/-fe1Wm8xNBkM/TkN0pncqqaI/AAAAAAAANpE/nl1rUHHzaas/s72-c/bobby-cf.gif', 'imageSrcTag': '\74link rel\75\42image_src\42 href\75\42http://2.bp.blogspot.com/-fe1Wm8xNBkM/TkN0pncqqaI/AAAAAAAANpE/nl1rUHHzaas/s72-c/bobby-cf.gif\42 /\76\n', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var a\75window,b\75\42jstiming\42,d\75\42tick\42;var e\75function(c){this.t\75{};this.tick\75function(c,p,h){h\75void 0!\75h?h:(new Date).getTime();this.t[c]\75[h,p]};this[d](\42start\42,null,c)},f\75new e;a.jstiming\75{Timer:e,load:f};if(a.performance\46\46a.performance.timing){var g\75a.performance.timing,j\75a[b].load,k\75g.navigationStart,l\75g.responseStart;0\74k\46\46l\76\75k\46\46(j[d](\42_wtsrt\42,void 0,k),j[d](\42wtsrt_\42,\42_wtsrt\42,l),j[d](\42tbsd_\42,\42wtsrt_\42))}\ntry{var m\75null;a.chrome\46\46a.chrome.csi\46\46(m\75Math.floor(a.chrome.csi().pageT),j\46\0460\74k\46\46(j[d](\42_tbnd\42,void 0,a.chrome.csi().startE),j[d](\42tbnd_\42,\42_tbnd\42,k)));null\75\75m\46\46a.gtbExternal\46\46(m\75a.gtbExternal.pageT());null\75\75m\46\46a.external\46\46(m\75a.external.pageT,j\46\0460\74k\46\46(j[d](\42_tbnd\42,void 0,a.external.startE),j[d](\42tbnd_\42,\42_tbnd\42,k)));m\46\46(a[b].pt\75m)}catch(n){};a.tickAboveFold\75function(c){var i\0750;if(c.offsetParent){do i+\75c.offsetTop;while(c\75c.offsetParent)}c\75i;750\76\75c\46\46a[b].load[d](\42aft\42)};var q\75!1;function r(){q||(q\75!0,a[b].load[d](\42firstScrollTime\42))}a.addEventListener?a.addEventListener(\42scroll\42,r,!1):a.attachEvent(\42onscroll\42,r);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/c1a86c5cfc77b662', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js'}}, {'name': 'skin', 'data': {'vars': {}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'footer', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar', null, document.getElementById('HTML4'), {}, 'displayModeFull'));
