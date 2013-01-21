@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mnet.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524031443id_/http%3A//global.mnet.com/bottom.m%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnet.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121120311id_/http%3A//global.mnet.com/bottom.m%3Fmenu%3Dprivacy) for the most accurate reproduction.*
 
-# Mnet where K-pop starts! - MNET
+# K-POP Makes One - MNET - MNET
 
 The Company gives priority to protection of personal information and it is always doing its utmost to protect personal information of members. The Company observes the Act on Promotion of Information and Communications Network Utilization and Information Protection, etc. (the “Communications Network Act”), other rules and regulations related to protection of personal information and “Policy on Protection of Personal Information” which was enacted by Ministry of Information and Communications. Personal Data Protection Policy allows the Company to inform members of the purpose and method of using their personal information and the measures for protection of the personal information. This personal data protection policy will be posted on an online site (http://global.mnet.com) so that the customers can refer to it anytime. 
 
