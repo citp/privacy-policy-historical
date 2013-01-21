@@ -1,44 +1,41 @@
-> *The following text is extracted and transformed from the naiku.net privacy policy that was archived on 2012-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120923005835id_/http%3A//www.naiku.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naiku.net privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121072213id_/http%3A//www.naiku.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Naiku
 
-Welcome to the Web sites of Naiku. Your privacy is important to us. This privacy policy applies to Web sites operated by Naiku (collectively, the “Sites”):
+Naiku is committed to the privacy and security of our participating users. Supplementing the various measures that each client takes to protect its own computing and user environment, Naiku guards the privacy and the security of your information.  This privacy policy applies to Web sites operated by Naiku (collectively, the “Sites”):
 
 www.naiku.net  
 support.naiku.net  
-a.naiku.net
+a.naiku.net  
+q.naiku.net
 
-This privacy policy generally explains the type of information we collect through our Web sites and how we use that information. PLEASE NOTE, HOWEVER, THAT THIS POLICY DOES NOT APPLY TO PERSONALLY IDENTIFIABLE STUDENT INFORMATION FURNISHED THROUGH THE SITES, OR BY ANY OTHER MEANS, IN CONNECTION WITH OUR SOFTWARE APPLICATIONS AND SERVICES PROVIDED TO OUR CUSTOMERS. SUCH PERSONALLY IDENTIFIABLE INFORMATION IS GOVERNED BY A SEPARATE POLICY.
+**Information Collection**  
+At the Sites, Naiku offers you the opportunity to request information and use our products, programs and services. We allow visitors to submit by email resume information in connection with our employment opportunities, and to request by email information about becoming a publishing partner. We may also collect the following types of personally identifiable information through the Sites: the email address of visitors, user-specific information regarding what pages visitors access or visit and other information that visitors to the Sites may submit, such as registration information. On some of our sites, Naiku also collects personally identifiable information such as names and product-use information such as a user’s answers to test questions.
 
-#### Information Collection
+Naiku also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Safari or Internet Explorer), the type of operating system you are using, (e.g., Windows or Mac), the domain name of your Internet service provider (ISP) (e.g., Comcast) and your computer’s IP address.
 
-At the Sites, we offer you the opportunity to request information about our products, programs and services. We also allow visitors to submit by email resume information in connection with our employment opportunities, and to request by email information about becoming a publishing partner. We may also collect the following types of personally identifiable information through the Sites: the email address of visitors, user-specific information regarding what pages visitors access or visit and other information that visitors to the Sites may submit, such as registration information.
+**Collection of Information by Others**  
+The Sites contain links to Web sites not controlled by Naiku (e.g., to our publishing partners’ Web sites), whose information practices may be different than ours. This privacy policy does not apply to Web sites of any other company or organization linked to a Naiku site. You should consult the other Sites’ privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
-We also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Safari or Internet Explorer), the type of operating system you are using, (e.g., Windows or Mac), the domain name of your Internet service provider (ISP) (e.g., Comcast) and your computer’s IP address.
+**Use of Information**  
+Naiku use this information to respond to your inquiries about our offerings, and other questions or comments you submit to us.
 
-#### How We Use the Information
+In an effort to provide the best quality services, Naiku may use data obtained in order to evaluate the use of the system and to obtain and understand statistical and other generalized information about its users and how to improve the features and functions of Naiku Platforms.
 
-We use this information to respond to your inquiries about our offerings, and other questions or comments you submit to us. We also may use the personally identifiable information that we collect to offer you other products or services that we believe may be of interest to you. We may use the non-personally identifiable information that we collect to improve the design and content of our Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze Site usage.
+Naiku may utilize third-party services. Such services may include various analytics of system usage or system performance. At all times, such third parties will be required to maintain the confidentiality of the information with which they may come in contact and be prohibited from using the information for any other purpose than the purpose which is described above.
 
-We do not normally use IP addresses to identify individual users, but may do so if we feel that there are or may be safety and/or security risks. We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena, in response to a law enforcement agency request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms and Conditions of Use, or as otherwise required by law. In addition, we may transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of Naiku.
+**Security**  
+Naiku’s servers are housed in a data center with 24-hour, 365-day/year access and staffed to provide effective protection of all data as well as for maximum uptime and system protection.
 
-#### Choices / Opt-Out
+Naiku reviews its technology safeguards and measures on a periodic basis and strives to ensure the privacy of any user’s online information.
 
-As noted above, Naiku may contact you to provide you with opportunities to purchase products or services that may be of interest to you. If you prefer not to receive marketing information from this Site or that we not share your information with any third party, just let us know by sending us an email at [info@naiku.net](mailto:info@naiku.net).
+**Privacy**  
+The information obtained by Naiku will not be given, sold, rented, loaned, disclosed to or shared with any third party except when it may be necessary for Naiku to comply with applicable law as described below.
 
-#### Collection of Information by Others
+Naiku recognizes the importance of maintaining the highest standards of privacy protection and complies with current laws and regulations governing privacy protection for students and schools. Naiku does not market to children under 13 years of age and does not employ games, contests, or other measures to collect personal information from children. No information obtained will be shared with third parties. In addition, Naiku will continue to revise its policies in this area to maintain its legal compliance and use its reasonable efforts to institute “best practices” as they become available.
 
-The Sites contain links to third-party Web sites (e.g., to our publishing partners’ Web sites) whose information practices may be different than ours. This privacy policy does not apply to Web sites of any other company or organization linked to a Naiku site. You should consult the other Sites’ privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
+Naiku may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena, in response to a law enforcement agency request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms and Conditions of Use, or as otherwise required by law.
 
-#### Security
-
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
-
-#### Contact Us
-
-If you have any questions or concerns about our privacy notice or its implementation you may contact us at [info@naiku.net](mailto:info@naiku.net) or contact us via postal mail at the following address:
-
-Naiku, Inc.  
-9297 Tyne Lane  
-Inver Grove Heights, MN 55077  
-Attention: Privacy
+Laws and their related regulations in this area may be reviewed by visiting the U.S. Federal Trade Commission’s website at http://www.ftc.gov/privacy/privacyinitiatives/childrens.html. Naiku currently complies with all laws and regulations established under current law, such as The Child’s Online Privacy Protection Act (COPPA) legislation and similar measures. You may also be interested in reviewing the Children’s Internet Protection Act: http://www.ifea.net/cipa.html.  
+**Contact Us**  
+This Privacy Policy may change from time to time. If and when updates are made to the Privacy Policy, the most up-to-date version will be posted on this webpage. By using our services, you acknowledge that you are aware of this Privacy Policy and agree to be bound by this Privacy Policy in your dealings with us. If you have any questions or concerns regarding this privacy statement, please contact us at: Naiku, Suite 401-102, 400 South 4th Street, Minneapolis, MN 55415.
