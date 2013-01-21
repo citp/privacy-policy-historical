@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestjobs.co.za privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920070053id_/http%3A//www.bestjobs.co.za/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobs.co.za privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121104500id_/http%3A//www.bestjobs.co.za/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy :: Best Jobs South Africa
 
