@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014063759id_/http%3A//www.jobsgopublic.com/pages/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122000441id_/http%3A//www.jobsgopublic.com/pages/show/cookies) for the most accurate reproduction.*
 
-# privacy | jobsgopublic - Public Sector Jobs and Careers
+# cookies | jobsgopublic - Public Sector Jobs and Careers
 
 We respect your right to privacy. Our relationship with you is valuable and we understand the importance you place on the privacy and security of information that personally identifies you. In that respect, whether you are a first time visitor to our website ("Website") or a regular user, we take your privacy seriously. Please read the following to learn more about our privacy policy and information handling practices.
 
@@ -9,10 +9,6 @@ We respect your right to privacy. Our relationship with you is valuable and we u
 We collect personal information from you when you register with us and when you use our services. Information we collect includes name, email address and other contact details. We use this information to provide our services to you and to communicate with you generally.
 
 It is not our practice to rent or sell your details or otherwise share them with organisations or individuals not connected with the Website. However, we may disclose personal data when we deem it appropriate on the sale of the whole or any related part of our business and/or assets, and/or in order to comply with applicable law.
-
-## Cookies
-
-Please see our [cookies policy](https://web.archive.org/pages/show/cookies).
 
 ## Security
 
@@ -27,3 +23,63 @@ We may edit this statement and/or our privacy policies and practices at any time
 ## Contact Details
 
 If you have any questions or suggestions regarding this statement or believe we are not properly adhering to it, please contact us at [support@jobsgopublic.com](mailto:support@jobsgopublic.com) or call us on 0207 884 3389.
+
+## What are cookies?
+
+Cookies are small text files placed on your computer when you visit a site to help us identify you and your preferences. They may be used to help the website to recognise your computer the next time you visit – for example if you check a ‘keep me signed in’ box when logging in to a site. Some cookies also help us monitor how our website is performing and collect information about our visitors to help us to improve the services that we can offer to you to improve your user experience within our sites.
+
+More detailed information about cookies and what they are used for is available at <http://www.aboutcookies.org/> \- this site also has detailed information about how you can control which cookies are allowed by you, and enables you to delete cookies from your computer, should you wish to.
+
+## How does Jobsgopublic use cookies?
+
+We use several types of cookies across our network of websites:
+
+_Essential cookies_ – These are cookies that the site has to set on your computer in order to make our services work effectively.
+
+Our sites use a cookie called _aspire_session or _RMS_Front_End_session so our system can recognise you, enabling you to login and to save searches and application forms.
+
+_Performance cookies_ – These are cookies we set in order to give us an understanding of our users' movements and activities so that we can improve our service and your user experience. For example, we often use Google Analytics to collect and monitor information about how our sites are being used. Google Analytics logs selected information about the pages that you visit, how long you are on the site, and how you found us . The cookies that Google set on our site do not collect or store any of your personal information (e.g. your name or address). We do not allow Google to use or share our analytics data.
+
+_Advertising cookies_ \- We use services like Google Adserver to be able to provide advertising tailored around your interests, for example in identifying the most relevant job adverts. This service uses cookies to gather information about the adverts that you click on in order to present you with the most relevant information, as well as to track an advert's performance. As with Google Analytics, no personal information is collect or stored so these cookies cannot be used to identify you.
+
+## Are cookies dangerous?
+
+None of the cookies set by Jobsgopublic's network of sites jeopardises the security of your computer or device. Cookies are just very small pieces of text with letters and numbers arranged in patterns that only make sense to the web service that created them – they can’t be used to spread viruses or other malicious software.
+
+## How safe is my privacy when I use cookies?
+
+We only use cookies to enhance your browsing experience – we protect your privacy by only storing a simple ID number and token string that is only meaningful to this Website. Your personal details, such as your name or phone number, are not stored in our cookies.
+
+## Why has this policy changed?
+
+The Privacy and Electronic Communications (EC Directive) Regulations 2003 (amended by Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011) became law in the UK on 26 May 2011. After a one year grace period the Information Commissioner’s Office will enforce this Law from 26 May 2012.
+
+Jobsgopublic has not implemented any new functionality involving cookies – the purpose of this updated statement is our attempt to ensure that we comply with the Law and provide better information for our users.
+
+Although the Law applies to all non-essential cookies – like the performance cookies we refer to above – it was developed primarily to target the use of online behavioural advertising. This is the kind of advertising most of us are now familiar with, where after visiting a shopping site or similar and then browsing to another page, the items you viewed on the first site appear in advertising on the second. This is achieved through the use of cookies placed on your computer by the first site.
+
+Jobsgopublic does not place these kinds of cookies on your computer . However, if you are concerned about this please visit the Your Online Choices website for further information: <http://www.youronlinechoices.eu/>, or access <http://www.networkadvertising.org/managing/opt_out.asp> to opt out of behavioural advertising on a selective basis.
+
+## Can website users choose to block cookies?
+
+Cookies are important tools in delivering web-based services and improving user experience.
+
+You can choose to enable or disable cookies in your browser – most browsers are set to accept cookies by default. For detailed information about how to manage or disable cookies please visit [AboutCookies](http://www.aboutcookies.org/Default.aspx?page=1) and choose the operating system and browser you are using.
+
+Please remember that disabling cookies may mean some of our services or sections of our websites are not available or do not work as expected. This may impact on your ability to search and apply for vacancies.
+
+Google themselves also offer free opt-out solutions for their services that we use
+
+<http://www.google.com/ads/preferences/plugin/> \- for opting out of advertising cookies
+
+<http://tools.google.com/dlpage/gaoptout> \- for opting out of Google analytics 
+
+## More information and help
+
+More information on cookies and the changes in the law can be obtained from:
+
+[http://www.aboutcookies.org](http://www.aboutcookies.org/)
+
+<http://www.youronlinechoices.eu/>
+
+If you have any questions, concerns or comments about cookies please email our support team on [support@jobsgopublic.com](mailto:support@jobsgopublic.com) who will be happy to help.
