@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itshd.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021121717id_/https%3A//www.itshd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itshd.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122003013id_/https%3A//www.itshd.com/privacy) for the most accurate reproduction.*
 
 # ItsHD.com - Watch movies instantly online
 
@@ -139,4 +139,4 @@ N13 4BS
 United Kingdom  
 Attention: Privacy Administrator 
 
-Copyright (c) 2012 IMOVIES Ltd. All rights reserved.
+Copyright (c) 2013 IMOVIES Ltd. All rights reserved.
