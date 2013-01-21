@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securly.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028073149id_/http%3A//www.securly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securly.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121132110id_/http%3A//www.securly.com/privacy) for the most accurate reproduction.*
 
 # Securly - Web Filtering 2.0 for Schools!
 
