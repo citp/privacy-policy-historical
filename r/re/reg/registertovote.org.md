@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registertovote.org privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004122213id_/http%3A//registertovote.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registertovote.org privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122215223id_/http%3A//registertovote.org/privacy.html) for the most accurate reproduction.*
 
 # None
 
@@ -48,7 +48,7 @@ The use of third party cookies is not covered by our privacy policy. We do not h
 
 #### Clear Gifs (Web Beacons/Web Bugs)
 
-Our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user?s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers? personally identifiable information. 
+Our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a users computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers personally identifiable information. 
 
 We also use clear gifs in our HTML-based e-mails so that we know which e-mails have been opened. We use this information to monitor the effectiveness of our e-mail campaigns and to validate our results to our marketing partners. 
 
@@ -282,4 +282,4 @@ Please also read the [Terms and Conditions](https://web.archive.org/tc.html) est
 
 This site is privately owned and is neither operated by, nor affiliated with, any government agency. 
 
-Copyright ? Registertovote.org 2012 All Rights. 
+Copyright Registertovote.org 2012 All Rights. 
