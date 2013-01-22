@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chargebee.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010070915id_/http%3A//www.chargebee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargebee.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122153635id_/http%3A//www.chargebee.com/privacy.html) for the most accurate reproduction.*
 
-# ChargeBee Privacy policy - Affordable Subscription billing for small and emerging businesses.
+# Privacy Policy - ChargeBee
 
 ## What information do we collect?
 
@@ -60,7 +60,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 ## Your Consent
 
-By using our site, you consent to our online [privacy policy](https://web.archive.org/web/20121010070915id_/http%3A//www.chargebee.com/privacy.html). 
+By using our site, you consent to our online [privacy policy](https://web.archive.org/web/20130122153635id_/http%3A//www.chargebee.com/privacy.html). 
 
 ## Changes to our Privacy Policy
 
