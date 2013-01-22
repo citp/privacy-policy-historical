@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acceleratedmentoring.net privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111042311id_/http%3A//acceleratedmentoring.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acceleratedmentoring.net privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122194814id_/http%3A//www.acceleratedmentoring.net/privacy) for the most accurate reproduction.*
 
 # Welcome to eLibrary 3.0
 
