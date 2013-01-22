@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sciquest.com privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905030953id_/http%3A//www.sciquest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciquest.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122095112id_/http%3A//www.sciquest.com/privacy) for the most accurate reproduction.*
 
-# SciQuest | Privacy
+# Privacy Statement | SciQuest
 
 Each employee agrees to keep all customer information confidential. In addition, SciQuest, Inc. respects your right to privacy online.
 
