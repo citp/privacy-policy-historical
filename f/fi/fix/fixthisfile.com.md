@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fixthisfile.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518165526id_/http%3A//www.fixthisfile.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixthisfile.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122185036id_/http%3A//fixthisfile.com/o/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# How to Fix Windows Files
 
 ## What Information We Collect
 
@@ -35,7 +35,7 @@ FixThisFile.com has an optional e-mail service for customers who wish to periodi
 Customers are provided the option to opt-out within each e-mail. If you no longer wish to receive FixThisFile.com communications, you may "unsubscribe" from our mailing program at any time in the following ways:
 
   * By clicking on the auto-unsubscribe link included in each e-mail
-  * By contacting our technical support using this [contact form](https://web.archive.org/contact.php)
+  * By contacting our technical support using this [contact form](https://web.archive.org/o/contact)
 
 
 
@@ -51,11 +51,11 @@ We may continue to use a third party service provider to conduct these surveys o
 
 ## Transactional Messages
 
-FixThisFile.com sends required notifications via e-mail to keep you informed of the status of your orders or accounts and to provide updates and technical notices. This service is used for messages that are important for the maintenance of your subscription and the functionality of our services. When you purchase or register a product online, we require an e-mail address for completion of the transaction, which we will use for these communications. In order to stop receiving these notifications, please contact our technical support team using our [contact form](https://web.archive.org/contact.php). You will be opted out of further communications within 10 business days.
+FixThisFile.com sends required notifications via e-mail to keep you informed of the status of your orders or accounts and to provide updates and technical notices. This service is used for messages that are important for the maintenance of your subscription and the functionality of our services. When you purchase or register a product online, we require an e-mail address for completion of the transaction, which we will use for these communications. In order to stop receiving these notifications, please contact our technical support team using our [contact form](https://web.archive.org/o/contact). You will be opted out of further communications within 10 business days.
 
 ## Ways to Update Your Personal Information
 
-FixThisFile.com carefully maintains our customer database in an effort to keep your Personal Information accurate for the purposes for which it is used. It is your right to be able to update your Personal Information as needed. You can correct out-of-date information, update information, remove information, delete your Personal Information or review any information previously provided to FixThisFile.com by [contacting us](https://web.archive.org/contact.php). Changes will be implemented within 10 business days. Please note, however, that we may retain certain information relating to software licensing and your information may also be retained in our archives. When contacting customer service, we will verify your identification through the use of security questions before sharing any Personal Information as it appears in our customer database.
+FixThisFile.com carefully maintains our customer database in an effort to keep your Personal Information accurate for the purposes for which it is used. It is your right to be able to update your Personal Information as needed. You can correct out-of-date information, update information, remove information, delete your Personal Information or review any information previously provided to FixThisFile.com by [contacting us](https://web.archive.org/o/contact). Changes will be implemented within 10 business days. Please note, however, that we may retain certain information relating to software licensing and your information may also be retained in our archives. When contacting customer service, we will verify your identification through the use of security questions before sharing any Personal Information as it appears in our customer database.
 
 ## FixThisFile.com's Commitment to Data Security
 
@@ -63,7 +63,7 @@ FixThisFile.com has security measures in place, such as the following, to protec
 
 To provide secure credit card processing when ordering, orders placed on our Web site are processed through a payment gateway which operates under its own privacy policy.
 
-FixThisFile.com DOES NOT store credit card information. FixThisFile.com does not handle financial transactions via the Web, so it has no need for streaming encryption products. FixThisFile.com works with a third party to serve as a trusted intermediary to handle e-commerce transactions with our customers. Our commerce partner handles e-commerce on a secure server which encrypts all of our customers' personal information. To learn more about how our commerce partners manages the privacy of information in conjunction with these e-commerce transactions, please see their complete Privacy Statement. If at any time you would like to make a purchase, but do not want to provide your credit card information online, you may [contact](https://web.archive.org/contact.php) a support representative.
+FixThisFile.com DOES NOT store credit card information. FixThisFile.com does not handle financial transactions via the Web, so it has no need for streaming encryption products. FixThisFile.com works with a third party to serve as a trusted intermediary to handle e-commerce transactions with our customers. Our commerce partner handles e-commerce on a secure server which encrypts all of our customers' personal information. To learn more about how our commerce partners manages the privacy of information in conjunction with these e-commerce transactions, please see their complete Privacy Statement. If at any time you would like to make a purchase, but do not want to provide your credit card information online, you may [contact](https://web.archive.org/o/contact) a support representative.
 
 Although we make good faith efforts to store the Personal Information we collect in a secure operating environment that is not accessible to unauthorized users, we cannot guarantee complete security.
 
@@ -79,4 +79,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## FixThisFile.com Contact Information
 
-For questions regarding this Privacy Policy please [contact us](https://web.archive.org/contact.php).
+For questions regarding this Privacy Policy please [contact us](https://web.archive.org/o/contact).
