@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wlci.in privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626125206id_/http%3A//www.wlci.in/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlci.in privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122204302id_/http%3A//www.wlci.in/privacy_policy.htm) for the most accurate reproduction.*
 
-# WLC College India
+# Privacy Policy- WLC College India
 
 ##  Privacy Policy
 
