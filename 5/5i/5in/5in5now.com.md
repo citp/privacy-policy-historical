@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5in5now.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224102921id_/http%3A//5in5now.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5in5now.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122082922id_/http%3A//www.5in5now.com/privacy.php) for the most accurate reproduction.*
 
 # 5In5Now | Earn Cash for Taking Surveys, Trying Products and more!
 
