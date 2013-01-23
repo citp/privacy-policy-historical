@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudwork.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018135255id_/https%3A//cloudwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudwork.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123153140id_/https%3A//cloudwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CloudWork
 
@@ -109,4 +109,4 @@ Unless a specific local regulation sets forth to the contrary, the Privacy Polic
 
 ## Contact Us
 
-If users experience problems while exercising their online rights or if they have doubts or questions related to our Privacy Policy or [Terms of Use](https://web.archive.org/terms) they can contact us directly at: CloudWork., Diagonal 622, 7.2, 08021 Barcelona, Spain. Or through our e-mail: [legal@cloudwork.com](https://web.archive.org/web/20121018135255id_/https%3A//cloudwork.com/mailto) indicating the reference matter.
+If users experience problems while exercising their online rights or if they have doubts or questions related to our Privacy Policy or [Terms of Use](https://web.archive.org/terms) they can contact us directly at: CloudWork., Diagonal 622, 7.2, 08021 Barcelona, Spain. Or through our e-mail: [legal@cloudwork.com](https://web.archive.org/web/20130123153140id_/https%3A//cloudwork.com/mailto) indicating the reference matter.
