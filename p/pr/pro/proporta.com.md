@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proporta.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223011243id_/http%3A//www.proporta.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proporta.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123125022id_/http%3A//www.proporta.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Proporta
 
@@ -82,7 +82,7 @@ If you want to read up even more on cookies and how they are used on the Interne
 Microsoft Cookies guide  
 All About Cookies
 
-For information specifically about privacy issues and Internet advertising, try: [youronlinechoices.co.uk/uk](https://web.archive.org/web/20121223011243id_/http%3A//www.proporta.com/static/youronlinechoices.co.uk/uk) If you have any other questions about Proporta's use of cookies, please email us at [hello@proporta.com](mailto:hello@proporta.com).
+For information specifically about privacy issues and Internet advertising, try: [youronlinechoices.co.uk/uk](https://web.archive.org/web/20130123125022id_/http%3A//www.proporta.com/static/youronlinechoices.co.uk/uk) If you have any other questions about Proporta's use of cookies, please email us at [hello@proporta.com](mailto:hello@proporta.com).
 
 Back to top of page  
   
