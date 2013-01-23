@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spigit.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110044155id_/http%3A//www.spigit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spigit.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123124712id_/http%3A//www.spigit.com/privacy) for the most accurate reproduction.*
 
 # Spigit | Privacy
 
@@ -37,12 +37,14 @@ We may collect information through your use of our Website and in off-line commu
 * We may periodically use your e-mail information or share your e-mail address with our partner organizations and companies for service, sales, support, and marketing purposes. If you do not wish to receive marketing e-mail from us or our partners, you may opt out as detailed below.
 * On line forms. We use this information to send updates about our company and our products and to contact you. We also use the demographic information you provide on these forms in connection with studies and reports regarding our Web site, such as Web site usage patterns, to better understand the needs of visitors to our Web site. We will not, however, associate any personally identifiable information which you provide in these studies and reports.
 * Contests or other promotions on our Web site ask those who choose to participate for contact information (like an e-mail address) or demographic information (like a zip code, industry or country). We may use the data we collect from you in these contests and promotions to send you promotional material about our company or our partners. Your contact information may also be used to administer the contest.
+  
+
 
 ##### Safe Harbor Certification
 
 Your personal information may be transferred abroad (including outside the EU for our users in the EU) in connection with our providing our hosted application service and associated support services.
 
-Spigit, Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Spigit has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Spigit’s certification, please visit <http://www.export.gov/safeharbor/>
+Spigit, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Spigit has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Spigit’s certification, please visit <http://www.export.gov/safeharbor/>
 
 If you have a question about Spigit’s Safe Harbor compliance, please contact [privacy@spigit.com](mailto:privacy@spigit.com)
 
