@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examfx.com privacy policy that was archived on 2012-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120622064228id_/http%3A//www.examfx.com/Utility/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examfx.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123061415id_/http%3A//www.examfx.com/Utility/Privacy.aspx) for the most accurate reproduction.*
 
 # ExamFX | Privacy Policy
 
