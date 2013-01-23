@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201064215id_/http%3A//www.drivers.com/privacy_drivers.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123021002id_/http%3A//www.drivers.com/privacy_drivers.php) for the most accurate reproduction.*
 
 # Download Drivers - Automatic Driver Updates With the World's Leading Device Drivers Website
 
