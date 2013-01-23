@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the software182.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208032403id_/http%3A//www.software182.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the software182.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123085050id_/http%3A//www.software182.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Full Version Software
 
