@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duoboots.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013152612id_/http%3A//www.duoboots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duoboots.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123061641id_/http%3A//www.duoboots.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DUO
 
@@ -10,7 +10,7 @@
 ###  1\. PRIVACY OF YOUR INFORMATION
 
   
-DUO is committed to protecting any personal information that you may provide to us and we believe it is important for you to know how we treat information about you that we may receive from this website.  Please read this Privacy Policy carefully as it explains what information DUO collects from you and how we use this information, including setting out the circumstances where we could provide it to third parties. You should also read the separate Terms and Conditions of Sale [here](https://web.archive.org/terms-and-conditions/) (opens a new window).
+DUO is committed to protecting any personal information that you may provide to us and we believe it is important for you to know how we treat information about you that we may receive from this website.  Please read this Privacy Policy carefully as it explains what information DUO collects from you and how we use this information, including setting out the circumstances where we could provide it to third parties. You should also read the separate Terms and Conditions of Sale [here](http://www.duoboots.com/terms-and-conditions/) (opens a new window).
 
 **What information do we collect?**
 
@@ -24,7 +24,7 @@ DUO is committed to protecting any personal information that you may provide to 
 **What do we do with the information we collect?**
 
   * All of the information we collect will be stored on secure servers, and treated as completely confidential.
-  * We will use the information which we collect to help us to administer our website, improve the usefulness and effectiveness of our website, to personalise your experience on our website, to help you log on in future and to continue to use our website. We may also use the information we collect to deliver appropriate content or advertising to you on the DUO website or third party websites. By knowing your preferences we can deliver relevant information that meets your needs and ensures that your visit to our site is quick, easy and productive. We use a technology known as cookies to manage this process. For more information on how we use cookies, [click here](https://web.archive.org/cookie-policy/) (opens in new window).
+  * We will use the information which we collect to help us to administer our website, improve the usefulness and effectiveness of our website, to personalise your experience on our website, to help you log on in future and to continue to use our website. We may also use the information we collect to deliver appropriate content or advertising to you on the DUO website or third party websites. By knowing your preferences we can deliver relevant information that meets your needs and ensures that your visit to our site is quick, easy and productive. We use a technology known as cookies to manage this process. For more information on how we use cookies, [click here](http://www.duoboots.com/cookie-policy/) (opens in new window).
   * We will use your personal details to process your order, respond to your enquiries, and inform you of the status of your order.
   * Only if you have given express consent to allow us to do so when registering or buying with us, we may use your information to communicate with you through post, sms or email to notify you of new products, competitions, special offers and relevant service information. If you have subscribed to our emails in the past and would prefer not to receive emails from duoboots.com in the future, simply click on the unsubscribe link that can be found at the bottom of all weekly emails to opt out. (UK DUO mail order: +44(0)845 070 5588).
   * We may pass your personal information to third parties who help us to maintain, administer or develop our website, or help us to provide the products available on our website. If so, that information is only given to those third parties for that limited purpose.
@@ -44,7 +44,7 @@ By using the DUO website you acknowledge and agree that:
   * By using our website, you expressly agree to the collection and use of your personal information as set out above for the purposes set out in this Privacy Policy.
   * You consent to DUO contacting you in the ways outlined in this privacy policy, whether by telephone, e-mail, sms or in writing, and you confirm that you do not and will not consider any of this contact as being a breach of any of your rights under the Privacy and Electronic Communications (EC Directive) Regulations 2003.
   * If you do not want us to use your personal data for marketing purposes or to pass your details on to third parties for marketing purposes, please tick or untick the relevant boxes situated in the account creation and purchasing process, displayed to you before placing an order. If you have previously given permission for us to use your data for marketing purposes, and wish to revoke this permission, please use the unsubscribe link within any of DUO’s marketing emails, or contact enquiries@duoboots.com to make this request.
-  * If you do not want to accept cookies you will be unable to use some of this website’s features, as they depend technically on the use of cookie technology. Find out more about how to block cookies in our cookie policy [here](https://web.archive.org/cookie-policy/) (opens in a new window).
+  * If you do not want to accept cookies you will be unable to use some of this website’s features, as they depend technically on the use of cookie technology. Find out more about how to block cookies in our cookie policy [here](http://www.duoboots.com/cookie-policy/) (opens in a new window).
   * If you'd like to opt out of behavioural advertising cookies, please go to the Network Advertising Initiative website - <http://www.networkadvertising.org/managing/opt_out.asp> – opens in new window. Please note that we're not responsible for the content of external websites).
 
 **Accessing your information**
@@ -95,11 +95,11 @@ Advertisements will always include a link to the third party privacy policy page
 
 Another way that you can opt out of behavioural advertising cookies is to go to the Network Advertising Initiative website and opt out of any active cookies that you can see are stored on your computer - <http://www.networkadvertising.org/managing/opt_out.asp> (opens in new window. Please note that we're not responsible for the content of external websites).
 
-For more detail on the third party ad networks with whom we currently work, please see our full cookie policy [here](https://web.archive.org/cookie-policy) (opens a new window).
+For more detail on the third party ad networks with whom we currently work, please see our full cookie policy [here](http://www.duoboots.com/cookie-policy) (opens a new window).
 
 **DUO’s cookie policy**
 
-For more detail about what cookies are, DUO’s own cookie policy, what cookies DUO uses, what third party cookies DUO employs, information about how to manage cookies on your computer, and information on how DUO uses cookies to deliver banner advertising on other websites, please see our full cookie policy [here](https://web.archive.org/cookie-policy) (opens a new window).
+For more detail about what cookies are, DUO’s own cookie policy, what cookies DUO uses, what third party cookies DUO employs, information about how to manage cookies on your computer, and information on how DUO uses cookies to deliver banner advertising on other websites, please see our full cookie policy [here](http://www.duoboots.com/cookie-policy) (opens a new window).
 
 ###  4\. CHANGES TO THIS PRIVACY POLICY
 
