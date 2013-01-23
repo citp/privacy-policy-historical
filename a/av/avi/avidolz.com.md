@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avidolz.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215032906id_/http%3A//www.avidolz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avidolz.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123023914id_/http%3A//www.avidolz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Terms and conditions « Membership help
 
