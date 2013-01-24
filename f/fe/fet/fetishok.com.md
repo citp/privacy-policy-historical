@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetishok.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016035244id_/http%3A//www.fetishok.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetishok.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124185552id_/http%3A//www.fetishok.com/privacy.html) for the most accurate reproduction.*
 
 # Fetish Tube, Free Exreme Porn Videos, Pregnant XXX, BDSM Porno Movies, Femdom Online Streaming and Pissing Clips
 
