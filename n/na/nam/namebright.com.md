@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namebright.com privacy policy that was archived on 2012-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120804211052id_/http%3A//www.namebright.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namebright.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124093050id_/http%3A//www.namebright.com/Privacy.aspx) for the most accurate reproduction.*
 
 # NameBright - Next Generation Domain Registration
 
@@ -57,6 +57,14 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
+**What Information are you Required to Provide**
+
+Various information is required for different products and services. For domain registrations, you are required to provide the name, postal address, e-mail address, voice telephone number, and (where available) fax number of the technical contact for the Registered Name. In general, you will not be able to submit a form on our website without providing the exact information required to complete that specific action. 
+
+**How to Rectify Information Held About You**
+
+If there is information in the registrar database that you wish to correct, you will be required to login to your account and update the appropriate information. This includes information published in Whois records as well as account owner information, information submitted for various related products and services offered through this website. 
+
 **Terms and Conditions**
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.namebright.com/terms.aspx](https://web.archive.org/terms.aspx). 
@@ -75,5 +83,5 @@ If there are any questions regarding this privacy policy you may contact us form
 
 Related Documents: [Registrars Dispute Policy](https://web.archive.org/disputepolicy.aspx) and [Terms and Conditions](https://web.archive.org/terms.aspx)
 
-Revised: 8/18/2010  
+Revised: 11/21/2012  
 Copyright 2008-2020 NameBright.com. All Rights Reserved 
