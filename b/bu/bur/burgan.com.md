@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614013821id_/http%3A//burgan.com/SitePages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124055523id_/http%3A//www.burgan.com/SitePages/privacy.aspx) for the most accurate reproduction.*
 
 # Burgan Bank Kuwait - privacy
 
