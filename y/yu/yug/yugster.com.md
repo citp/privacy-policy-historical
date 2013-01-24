@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yugster.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004174339id_/http%3A//www.yugster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugster.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124175704id_/http%3A//www.yugster.com/privacy-policy) for the most accurate reproduction.*
 
 # Yugster - Privacy Policy
 
@@ -25,7 +25,7 @@ Here are some examples of the types of personal information yugster may collect 
   
 **What personal information we collect:**
 
-    When you purchase a product we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, and credit card information. We do not store your credit card information, it is passed to our payment gateway provider though a secure link.  
+    When you purchase a product we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, and credit card information. We do not store your credit card information, it is passed to our payment gateway provider though a secure link. Your credit card number is never stored on any yugster server and is never accessible by anyone at yugster, not even the CEO/President/YugMeister himself.  
     When you share your content with family and friends, send gift certificates and products, or invite others to join you, yugster may collect the information you provide about those people such as name, mailing address, email address, and phone number.
 
 **How we use your personal information:**
