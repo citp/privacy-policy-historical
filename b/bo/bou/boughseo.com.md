@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boughseo.com privacy policy that was archived on 2012-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120425203621id_/http%3A//www.boughseo.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boughseo.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124171607id_/http%3A//www.boughseo.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Bough SEO - Privacy Policy
 
