@@ -1,6 +1,50 @@
-> *The following text is extracted and transformed from the aeticle.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122170050id_/http%3A//www.aeticle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeticle.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124022052id_/http%3A//aeticle.com/privacy) for the most accurate reproduction.*
 
 # Free Articles
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/safehtml.php** on line **608**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **161**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **163**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **164**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **165**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **167**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **168**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **169**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **244**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **251**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **260**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **267**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **274**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **281**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **289**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **486**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **488**
+
+**Deprecated** : Assigning the return value of new by reference is deprecated in **/home/aeticle/public_html/lib/safehtml/HTMLSax3.php** on line **490**
+
+**Deprecated** : Function ereg_replace() is deprecated in **/home/aeticle/public_html/core.php** on line **179**
+
+**Deprecated** : Function ereg_replace() is deprecated in **/home/aeticle/public_html/core.php** on line **180**
+
+**Deprecated** : Function ereg_replace() is deprecated in **/home/aeticle/public_html/code/articlems.php(102) : eval()'d code** on line **3**
+
+**Deprecated** : Function ereg_replace() is deprecated in **/home/aeticle/public_html/code/articlems.php(102) : eval()'d code** on line **4**
 
 ## Free Articles Privacy Policy Overview
 
