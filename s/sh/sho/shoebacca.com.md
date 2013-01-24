@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoebacca.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123154527id_/http%3A//www.shoebacca.com/resources/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoebacca.com privacy policy that was archived on 2013-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130124164947id_/http%3A//www.shoebacca.com/resources/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SHOEBACCA.com
 
