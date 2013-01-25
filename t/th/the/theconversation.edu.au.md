@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconversation.edu.au privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126042619id_/https%3A//theconversation.edu.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconversation.edu.au privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125180433id_/https%3A//theconversation.edu.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy at The Conversation
 
