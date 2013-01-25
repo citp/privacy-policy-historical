@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relishapp.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004073709id_/https%3A//www.relishapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relishapp.com privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125234034id_/https%3A//www.relishapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Relish
 
