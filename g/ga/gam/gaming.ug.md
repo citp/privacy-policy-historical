@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaming.ug privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006093546id_/https%3A//gaming.ug/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaming.ug privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125055352id_/https%3A//gaming.ug/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Gaming International
 
