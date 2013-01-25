@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dh.gov.uk privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030085601id_/http%3A//www.dh.gov.uk/health/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dh.gov.uk privacy policy that was archived on 2013-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130125110234id_/http%3A//www.dh.gov.uk/health/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | Department of Health
 
@@ -117,7 +117,7 @@ When we provide services, we want to make them easy, useful and reliable. Where 
 
 
 
-You can manage these small files and learn more about them from the article, Internet [Browser cookies](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies) – what they are and how to manage them.
+You can manage these small files and learn more about them from the article, Internet [Browser cookies](https://www.gov.uk/support/cookies) – what they are and how to manage them.
 
 ### **Current cookies**
 
@@ -233,7 +233,7 @@ We will not use cookies to collect personally identifiable information about you
 
 However, if you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through your browser settings. The ‘Help’ function within your browser should tell you how.
 
-Alternatively, you may wish to visit [www.aboutcookies.org](https://web.archive.org/web/20121030085601id_/http://www.dh.gov.uk/health/privacy-and-cookies/www.aboutcookies.org) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies.
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies.
 
 Please be aware that restricting cookies may impact on the functionality of our website.
 
