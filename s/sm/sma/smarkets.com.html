@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smarkets.com privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004135158id_/https%3A//smarkets.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smarkets.com privacy policy that was archived on 2013-01-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130125052443id_/https%3A//smarkets.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js"><head>
     <meta charset="utf-8">
@@ -7,12 +7,25 @@
     <meta name="keywords" content="privacy, policy, information, collection, disclosure, smarkets, odds, betting, gaming, uk, prediction markets, markets, politicsmarkets, political, peer to peer betting">
     <meta name="description" content="Smarkets's privacy policy, and how Smarkets deals with your private information.">
     <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-
     
-        <link rel="stylesheet" type="text/css" href="https://d2ddi39c2rqcmy.cloudfront.net/beta/css/main.8487f35b.css">
+        <link rel="stylesheet" type="text/css" href="https://d2ddi39c2rqcmy.cloudfront.net/main/css/main.afee1380.css">
     
 
-    <script type="text/javascript" async="" src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="utf-8">
+    <style type="text/css">
+    /* Make header static for mobile devices */
+    /* Breaks if minified hence inclusion here */
+    @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+        header {
+            margin: 0;
+            position: static;
+        }
+        #content {
+            padding-top: 0px;
+        }
+    }
+    </style>
+
+    <script type="text/javascript" async="" src="//d1l6p2sc9645hc.cloudfront.net/tracker.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.1.min.js"></script><script type="text/javascript" charset="utf-8">
         // Break out of frames
         if (window != top) top.location.href = location.href;
         var GLOB = GLOB || {};
@@ -27,17 +40,33 @@
         "loggedIn": false,
         "backerStake": true,
         "display_name": false,
-        "id_slug": false
+        "id_slug": false,
+        "live_chat": false,
+        
+        
+        
     }
 };
         GLOB.config.stream = {"secure": true, "exchange": "sio.url.<pathname>", "host": "<random>.live.smarkets.com", "timeout": "15000", "transports": ["websocket", "flashsocket"], "port": "443", "connectTimeout": "9000"};
+        GLOB.config.chat = {"room_address": "lobby@conference.support-chat.corp.smarkets.com", "support_user": "support", "support_address": "support@support-chat.corp.smarkets.com"};
         WEB_SOCKET_SWF_LOCATION = '/static/swf/sio.swf';
         // inject a class of "js" into the html element so CSS is aware of JS
         document.documentElement.className += 'js';
+
+        // Mixpanel Analytics (This needs to be loaded before the end of the page in order to log events that are tracked in the HTML)
+        (function(c,a){window.mixpanel=a;var b,d,h,e;b=c.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===c.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.1.min.js';d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d);a._i=[];a.init=function(b,c,f){function d(a,b){var c=b.split(".");2==c.length&&(a=a[c[0]],b=c[1]);a[b]=function(){a.push([b].concat(Array.prototype.slice.call(arguments,0)))}}var g=a;"undefined"!==typeof f?
+        g=a[f]=[]:f="mixpanel";g.people=g.people||[];h="disable track track_pageview track_links track_forms register register_once unregister identify name_tag set_config people.identify people.set people.increment".split(" ");for(e=0;e<h.length;e++)d(g,h[e]);a._i.push([b,c,f])};a.__SV=1.1})(document,window.mixpanel||[]);
+        mixpanel.init("104e060e3aed1891e6035c69cc3b9c0d");
     </script>
 
     
         
+        
+            <script type="text/x-mustache-template" id="includes-_chat_err" charset="utf-8">
+                &lt;li class=&#34;error notice&#34;&gt;
+	&lt;p&gt;Error! ({{msg}})&lt;/p&gt;
+&lt;/li&gt;
+            </script>
         
             <script type="text/x-mustache-template" id="includes-_account_rows" charset="utf-8">
                 {{^no_results}}
@@ -85,27 +114,8 @@
 
             </script>
         
-            <script type="text/x-mustache-template" id="includes-_account_overview" charset="utf-8">
-                &lt;ul id=&#34;account_tools&#34;&gt;
-    &lt;li&gt;&lt;a href=&#34;/account/&#34;&gt;Account&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;/account/settings/&#34;&gt;Settings&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&#34;/account/deposit/&#34;&gt;Deposit&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&#34;/account/withdraw/&#34;&gt;Withdraw&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&#34;/account/limits/&#34;&gt;Limits&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;/members/logout/&#34;&gt;Sign Out&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;span class=&#34;balance&#34;&gt;Balance: &lt;strong&gt;{{ currency_symbol }}{{ user_balance }}&lt;/strong&gt;&lt;/span&gt;
-            </script>
-        
-            <script type="text/x-mustache-template" id="includes-_nav_pane" charset="utf-8">
-                &lt;ul class=&#34;panes&#34;&gt;
-    {{#items}}
-    &lt;li&gt;
-        &lt;h5&gt;&lt;a href=&#34;{{url}}&#34; data-next_level=&#34;{{child}}&#34;&gt;{{title}}&lt;/a&gt;&lt;/h5&gt;
-        &lt;a data-next_level=&#34;{{child}}&#34;&gt;&lt;span class=&#34;count&#34;&gt;{{number}}&lt;/span&gt; {{type}}&lt;/a&gt;
-    &lt;/li&gt;
-    {{/items}}
-&lt;/ul&gt;
+            <script type="text/x-mustache-template" id="includes-_empty_button_small" charset="utf-8">
+                &lt;span class=&#34;{{side}} no_position {{#text}}has_msg{{/text}}&#34;&gt;&lt;strong&gt;{{#text}}{{text}}{{/text}}{{^text}}-{{/text}}&lt;/strong&gt;&lt;/span&gt;
             </script>
         
             <script type="text/x-mustache-template" id="includes-_nav_home_row" charset="utf-8">
@@ -113,28 +123,6 @@
     {{#items}}
     &lt;li&gt;
     	&lt;a href=&#34;{{url}}&#34; data-next_level=&#34;{{child}}&#34;&gt;{{title}}&lt;/a&gt;
-    &lt;/li&gt;
-    {{/items}}
-&lt;/ul&gt;
-            </script>
-        
-            <script type="text/x-mustache-template" id="includes-_bet_button" charset="utf-8">
-                &lt;a class=&#34;{{side}} {{class_name}}&#34; {{#quantity}} data-quantity=&#34;{{quantity}}&#34;{{/quantity}} data-price=&#34;{{#price}}{{price}}{{/price}}{{^price}}50.00{{/price}}&#34;&gt;
-    &lt;strong class=&#34;price&#34;&gt;{{#odds}}{{odds}}{{/odds}}{{^odds}}Bet now{{/odds}}&lt;/strong&gt;
-    &lt;span class=&#34;qty&#34;&gt;{{#volume}}{{volume}}{{/volume}}{{^volume}}-{{/volume}}&lt;/span&gt;
-&lt;/a&gt;
-            </script>
-        
-            <script type="text/x-mustache-template" id="includes-_nav_event_list" charset="utf-8">
-                &lt;ul class=&#34;nav_event_list&#34;&gt;
-    {{#items}}
-    &lt;li&gt;
-        {{#title}}&lt;h5&gt;{{title}}&lt;/h5&gt;{{/title}}
-        &lt;ul&gt;
-            {{#children}}
-            &lt;li&gt;&lt;a href=&#34;{{url}}&#34;&gt;{{title}}&lt;/a&gt;&lt;/li&gt;
-            {{/children}}
-        &lt;/ul&gt;
     &lt;/li&gt;
     {{/items}}
 &lt;/ul&gt;
@@ -153,32 +141,8 @@
 &lt;/div&gt;
             </script>
         
-            <script type="text/x-mustache-template" id="includes-_search_result_parent" charset="utf-8">
-                &lt;tr class=&#34;parent&#34;&gt;
-    &lt;th colspan=&#34;4&#34;&gt;
-        &lt;a href=&#34;{{url}}&#34;&gt;
-            {{ name }}
-            {{#start}}&lt;span class=&#34;start&#34;&gt;{{start}}&lt;/span&gt;{{/start}}
-        &lt;/a&gt;
-    &lt;/th&gt;
-&lt;/tr&gt;
-{{#children}}
-&lt;tr data-market_id=&#34;{{market_id}}&#34;&gt;
-    &lt;th&gt;
-        &lt;a href=&#34;{{url}}&#34;&gt;
-            {{ name }}
-            {{#start}}&lt;span class=&#34;start&#34;&gt;{{start}}&lt;/span&gt;{{/start}}
-        &lt;/a&gt;
-    &lt;/th&gt;
-    &lt;td&gt;&lt;/td&gt;
-    &lt;td class=&#34;quote&#34;&gt;&lt;/td&gt;
-    &lt;td class=&#34;quote&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-{{/children}}}
-            </script>
-        
             <script type="text/x-mustache-template" id="includes-_search_result_event" charset="utf-8">
-                &lt;tr {{#market_id}}data-market_id=&#34;{{market_id}}&#34;{{/market_id}}&gt;
+                &lt;tr {{#market_id}}data-market_id=&#34;{{market_id}}&#34;{{/market_id}} data-event_type=&#34;search&#34;&gt;
     &lt;th {{^market_id}}colspan=&#34;4&#34;{{/market_id}}&gt;
         &lt;a href=&#34;{{url}}&#34;&gt;
             {{ name }}
@@ -193,6 +157,110 @@
         
             <script type="text/x-mustache-template" id="includes-_empty_button" charset="utf-8">
                 &lt;span class=&#34;{{side}} no_position {{#text}}has_msg{{/text}}&#34;&gt;&lt;strong&gt;{{#text}}{{text}}{{/text}}{{^text}}-{{/text}}&lt;/strong&gt;&lt;span&gt;{{#extra}}{{extra}}{{/extra}}{{^extra}}-{{/extra}}&lt;/span&gt;&lt;/span&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_notifications" charset="utf-8">
+                &lt;div id=&#34;notifications&#34; class=&#34;module&#34;&gt;
+    &lt;h3&gt;Notifications &lt;a&gt;Clear All&lt;/a&gt;&lt;/h3&gt;
+    &lt;ul class=&#34;empty&#34;&gt;
+        &lt;li&gt;&lt;span&gt;No notifications&lt;/span&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_search_result_parent" charset="utf-8">
+                &lt;tr class=&#34;parent&#34;&gt;
+    &lt;th colspan=&#34;4&#34;&gt;
+        &lt;a href=&#34;{{url}}&#34;&gt;
+            {{ name }}
+            {{#start}}&lt;span class=&#34;start&#34;&gt;{{start}}&lt;/span&gt;{{/start}}
+        &lt;/a&gt;
+    &lt;/th&gt;
+&lt;/tr&gt;
+{{#children}}
+&lt;tr data-market_id=&#34;{{market_id}}&#34; data-event_type=&#34;search&#34;&gt;
+    &lt;th&gt;
+        &lt;a href=&#34;{{url}}&#34;&gt;
+            {{ name }}
+            {{#start}}&lt;span class=&#34;start&#34;&gt;{{start}}&lt;/span&gt;{{/start}}
+        &lt;/a&gt;
+    &lt;/th&gt;
+    &lt;td&gt;&lt;/td&gt;
+    &lt;td class=&#34;quote&#34;&gt;&lt;/td&gt;
+    &lt;td class=&#34;quote&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+{{/children}}}
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_chat_notice" charset="utf-8">
+                &lt;li class=&#34;notice&#34;&gt;&lt;p&gt;{{notice}}&lt;/p&gt;&lt;/li&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_nav_event_list" charset="utf-8">
+                &lt;ul class=&#34;nav_event_list&#34;&gt;
+    {{#items}}
+    &lt;li&gt;
+        {{#title}}&lt;h5&gt;{{title}}&lt;/h5&gt;{{/title}}
+        &lt;ul&gt;
+            {{#children}}
+            &lt;li&gt;&lt;a href=&#34;{{url}}&#34;&gt;{{title}}&lt;/a&gt;&lt;/li&gt;
+            {{/children}}
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    {{/items}}
+&lt;/ul&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_bet_button" charset="utf-8">
+                &lt;a class=&#34;{{side}} {{class_name}}&#34; {{#quantity}} data-quantity=&#34;{{quantity}}&#34;{{/quantity}} data-price=&#34;{{#price}}{{price}}{{/price}}{{^price}}50.00{{/price}}&#34;&gt;
+    &lt;strong class=&#34;price&#34;&gt;{{#odds}}{{odds}}{{/odds}}{{^odds}}Bet now{{/odds}}&lt;/strong&gt;
+    &lt;span class=&#34;qty&#34;&gt;{{#volume}}{{volume}}{{/volume}}{{^volume}}-{{/volume}}&lt;/span&gt;
+&lt;/a&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_edit_betwidget" charset="utf-8">
+                &lt;td colspan=&#34;{{colspan}}&#34;&gt;
+    &lt;h3&gt;{{title}}&lt;/h3&gt;
+    &lt;form&gt;
+        &lt;div class=&#34;bet_params&#34;&gt;
+            &lt;label for=&#34;inline_stake_{{contract_id}}&#34;&gt;{{#backer}}Backer {{/backer}}{{^backer}}Your {{/backer}}Stake ({{currency_symbol}})&lt;/label&gt;
+            &lt;input type=&#34;text&#34; name=&#34;inline_stake_{{contract_id}}&#34; id=&#34;inline_stake_{{contract_id}}&#34; value=&#34;{{stake}}&#34; class=&#34;stake&#34; maxlength=&#34;8&#34;&gt;
+            &lt;label for=&#34;inline_price_{{contract_id}}&#34;&gt;Price&lt;/label&gt;
+            &lt;input type=&#34;text&#34; name=&#34;inline_odds_{{contract_id}}&#34; value=&#34;{{odds}}&#34; class=&#34;odds&#34; maxlength=&#34;8&#34;&gt;
+            &lt;span class=&#34;ticks&#34;&gt;
+                &lt;span class=&#34;tick up&#34;&gt;Price Up&lt;/span&gt;
+                &lt;span class=&#34;tick down&#34;&gt;Price Down&lt;/span&gt;
+            &lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;bet_confirmation&#34;&gt;You are betting &lt;strong&gt;{{^liability}}{{currency_symbol}}{{stake}}{{/liability}}{{#liability}}{{liability}}{{/liability}}&lt;/strong&gt; at &lt;strong&gt;{{odds}}&lt;/strong&gt; odds&lt;/div&gt;
+        &lt;div class=&#34;bet_info{{#liability}} with_liability{{/liability}}&#34;&gt;
+            &lt;span&gt;Return: &lt;strong class=&#34;return&#34;&gt;{{payout}}&lt;/strong&gt;&lt;/span&gt;
+            {{#liability}}&lt;span&gt;Liability: &lt;strong class=&#34;liability&#34;&gt;{{liability}}&lt;/strong&gt;&lt;/span&gt;{{/liability}}
+        &lt;/div&gt;
+        &lt;div class=&#34;bet_controls&#34;&gt;
+            &lt;input type=&#34;button&#34; name=&#34;cancel&#34; value=&#34;Cancel&#34; class=&#34;cancel_bet&#34;&gt;
+            &lt;input type=&#34;submit&#34; name=&#34;submit&#34; value=&#34;Place Bet&#34; class=&#34;check_bet&#34;&gt;
+        &lt;/div&gt;
+    &lt;/form&gt;
+&lt;/td&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_bet_button_small" charset="utf-8">
+                &lt;a class=&#34;{{side}} {{class_name}}&#34; {{#quantity}} data-quantity=&#34;{{quantity}}&#34;{{/quantity}} data-price=&#34;{{#price}}{{price}}{{/price}}{{^price}}50.00{{/price}}&#34;&gt;
+    &lt;strong class=&#34;price&#34;&gt;{{#odds}}{{odds}}{{/odds}}{{^odds}}&amp;nbsp;{{/odds}}&lt;/strong&gt;
+&lt;/a&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_account_overview" charset="utf-8">
+                &lt;ul id=&#34;account_tools&#34;&gt;
+    &lt;li&gt;&lt;a href=&#34;/account/&#34;&gt;Account&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;/account/settings/&#34;&gt;Settings&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;/account/deposit/&#34;&gt;Deposit&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;/account/withdraw/&#34;&gt;Withdraw&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&#34;/account/limits/&#34;&gt;Limits&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;/members/logout/&#34;&gt;Sign Out&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&#34;balance&#34;&gt;Balance: &lt;strong&gt;{{ currency_symbol }}{{ user_balance }}&lt;/strong&gt;&lt;/span&gt;
             </script>
         
             <script type="text/x-mustache-template" id="includes-_betwidget" charset="utf-8">
@@ -225,12 +293,19 @@
 &lt;/td&gt;
             </script>
         
-            <script type="text/x-mustache-template" id="includes-_notifications" charset="utf-8">
-                &lt;div id=&#34;notifications&#34; class=&#34;module&#34;&gt;
-    &lt;h3&gt;Notifications &lt;a&gt;Clear All&lt;/a&gt;&lt;/h3&gt;
-    &lt;ul class=&#34;empty&#34;&gt;
-        &lt;li&gt;&lt;span&gt;No notifications&lt;/span&gt;&lt;/li&gt;
-    &lt;/ul&gt;
+            <script type="text/x-mustache-template" id="includes-_chat_module" charset="utf-8">
+                &lt;div id=&#34;chat&#34;&gt;
+	&lt;div class=&#34;header&#34;&gt;
+		&lt;div class=&#34;rooms&#34;&gt;
+			&lt;h5 class=&#34;room&#34; data-room=&#34;{{room}}&#34;&gt;{{room}} &lt;span class=&#34;user_count&#34;&gt;&lt;/span&gt;&lt;/h5&gt;
+			&lt;h5 class=&#34;support inactive&#34; data-room=&#34;support&#34;&gt;Support&lt;/h5&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&#34;{{room}} transcript&#34;&gt;&lt;ol&gt;&lt;/ol&gt;&lt;/div&gt;
+	&lt;div class=&#34;support transcript&#34;&gt;&lt;ol&gt;&lt;/ol&gt;&lt;/div&gt;
+	&lt;div class=&#34;controls&#34;&gt;
+		&lt;textarea class=&#34;message&#34;&gt;&lt;/textarea&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
             </script>
         
@@ -238,31 +313,41 @@
                 &lt;li&gt;&lt;a href=&#34;{{url}}&#34;&gt;{{name}}&lt;/a&gt;&lt;/li&gt;
             </script>
         
-            <script type="text/x-mustache-template" id="includes-_edit_betwidget" charset="utf-8">
-                &lt;td colspan=&#34;{{colspan}}&#34;&gt;
-    &lt;h3&gt;{{title}}&lt;/h3&gt;
-    &lt;form&gt;
-        &lt;div class=&#34;bet_params&#34;&gt;
-            &lt;label for=&#34;inline_stake_{{contract_id}}&#34;&gt;{{#backer}}Backer {{/backer}}{{^backer}}Your {{/backer}}Stake ({{currency_symbol}})&lt;/label&gt;
-            &lt;input type=&#34;text&#34; name=&#34;inline_stake_{{contract_id}}&#34; id=&#34;inline_stake_{{contract_id}}&#34; value=&#34;{{stake}}&#34; class=&#34;stake&#34; maxlength=&#34;8&#34;&gt;
-            &lt;label for=&#34;inline_price_{{contract_id}}&#34;&gt;Price&lt;/label&gt;
-            &lt;input type=&#34;text&#34; name=&#34;inline_odds_{{contract_id}}&#34; value=&#34;{{odds}}&#34; class=&#34;odds&#34; maxlength=&#34;8&#34;&gt;
-            &lt;span class=&#34;ticks&#34;&gt;
-                &lt;span class=&#34;tick up&#34;&gt;Price Up&lt;/span&gt;
-                &lt;span class=&#34;tick down&#34;&gt;Price Down&lt;/span&gt;
-            &lt;/span&gt;
-        &lt;/div&gt;
-        &lt;div class=&#34;bet_confirmation&#34;&gt;You are betting &lt;strong&gt;{{^liability}}{{currency_symbol}}{{stake}}{{/liability}}{{#liability}}{{liability}}{{/liability}}&lt;/strong&gt; at &lt;strong&gt;{{odds}}&lt;/strong&gt; odds&lt;/div&gt;
-        &lt;div class=&#34;bet_info{{#liability}} with_liability{{/liability}}&#34;&gt;
-            &lt;span&gt;Return: &lt;strong class=&#34;return&#34;&gt;{{payout}}&lt;/strong&gt;&lt;/span&gt;
-            {{#liability}}&lt;span&gt;Liability: &lt;strong class=&#34;liability&#34;&gt;{{liability}}&lt;/strong&gt;&lt;/span&gt;{{/liability}}
-        &lt;/div&gt;
-        &lt;div class=&#34;bet_controls&#34;&gt;
-            &lt;input type=&#34;button&#34; name=&#34;cancel&#34; value=&#34;Cancel&#34; class=&#34;cancel_bet&#34;&gt;
-            &lt;input type=&#34;submit&#34; name=&#34;submit&#34; value=&#34;Place Bet&#34; class=&#34;check_bet&#34;&gt;
-        &lt;/div&gt;
-    &lt;/form&gt;
-&lt;/td&gt;
+            <script type="text/x-mustache-template" id="includes-_nav_pane" charset="utf-8">
+                &lt;ul class=&#34;panes&#34;&gt;
+    {{#items}}
+    &lt;li&gt;
+        &lt;h5&gt;&lt;a href=&#34;{{url}}&#34; data-next_level=&#34;{{child}}&#34;&gt;{{title}}&lt;/a&gt;&lt;/h5&gt;
+        &lt;a data-next_level=&#34;{{child}}&#34;&gt;&lt;span class=&#34;count&#34;&gt;{{number}}&lt;/span&gt; {{type}}&lt;/a&gt;
+    &lt;/li&gt;
+    {{/items}}
+&lt;/ul&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_chat_admin" charset="utf-8">
+                &lt;div class=&#34;admin panel&#34;&gt;
+	&lt;h6&gt;Admin: {{ user }}&lt;/h6&gt;
+	&lt;a class=&#34;close&#34;&gt;&amp;times;&lt;/a&gt;
+	&lt;ol&gt;
+		&lt;li&gt;&lt;a id=&#34;chat_admin_user_profile&#34;&gt;View User Profile Page&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a id=&#34;chat_admin_ban_toggle&#34;&gt;Ban User&lt;/a&gt;&lt;/li&gt;
+	&lt;/ol&gt;
+&lt;/div&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_user_bar" charset="utf-8">
+                &lt;div id=&#34;user_bar&#34;&gt;
+	&lt;div id=&#34;notifications&#34;&gt;&lt;/div&gt;
+	&lt;a class=&#34;chat&#34;&gt;General Chat &amp;amp; Support&lt;/a&gt;
+&lt;/div&gt;
+            </script>
+        
+            <script type="text/x-mustache-template" id="includes-_chat_msg" charset="utf-8">
+                &lt;li class=&#34;{{historical}}&#34;&gt;
+	&lt;span class=&#34;author is_{{role}}&#34; data-user_id=&#34;{{user_id}}&#34;&gt;{{user}}&lt;/span&gt;
+	&lt;span class=&#34;datetime&#34;&gt;{{timestamp}}&lt;/span&gt;
+	&lt;p&gt;{{msg}}&lt;/p&gt;
+&lt;/li&gt;
             </script>
         
             <script type="text/x-mustache-template" id="includes-_userbet" charset="utf-8">
@@ -307,13 +392,14 @@
     {{/expandable}}
 
 &lt;/tbody&gt;
+
             </script>
         
     
 
     <!--[if lt IE 9]>
         
-            <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/beta/js/main.ie8.3feb88cb.js"></script>
+            <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/main/js/main.ie8.0c7baced.js"></scrpt>
         
         <script type="text/javascript">document.documentElement.className += ' ie8';</script>
         <style type="text/css">
@@ -326,24 +412,23 @@
     <![endif]-->
     <!--[if IE 9]>
         
-            <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/beta/js/main.ie9.a9b66407.js"></script>
+            <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/main/js/main.ie9.edc1fd28.js"></script>
         
     <![endif] -->
     <!--[if gt IE 9]><!-->
         
-            <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/beta/js/main.4e2b3172.js"></script>
+            <script type="text/javascript" src="https://d2ddi39c2rqcmy.cloudfront.net/main/js/main.7e3afb09.js"></script>
         
     <!--<![endif]-->
 
         
-        <link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">
-        <link rel="apple-touch-icon" type="image/png" href="/static/img/apple-touch-icon.png">
+        <link rel="shortcut icon" type="image/ico" href="https://d2ddi39c2rqcmy.cloudfront.net/main/img/favicon.ico">
+        <link rel="apple-touch-icon" type="image/png" href="https://d2ddi39c2rqcmy.cloudfront.net/main/img/apple-touch-icon.png">
 
         <meta name="MSSmartTagsPreventParsing" content="true">
         <meta name="copyright" content="© Copyright 2012 Smarkets Limited">
         <meta property="og:title" content="Smarkets - The Thrill of Sport">
         <meta property="og:site_name" content="Smarkets">
-        <link rel="canonical" href="http://smarkets.com/">
 </head>
 <body id=""><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 
@@ -351,16 +436,47 @@
 
     <header>
     
-    <a href="/" id="logo_home"><img src="/static/img/smarkets-logo.png" width="189" height="44"></a>
+    <a href="/" id="logo_home"><img src="https://d2ddi39c2rqcmy.cloudfront.net/main/img/smarkets-logo_2x.png" width="189" height="44"></a>
     <div id="search_module">
     <input type="text" name="search" value="" placeholder="Search Smarkets" id="search">
 </div>
     
     <div class="logged_out_tools">
-        <p>New User? <a href="/sign-up/" class="btn">Join today for 2% commission!</a></p>
+        <p>New User? <a href="/sign-up/" class="btn sign_up">Sign up - Only 2% commission</a></p>
     </div>
     
     
+    <ul id="secondary_nav">
+    <li>
+    	<a href="/sport/horse-racing" data-next_level="horse_racing">Horse Racing</a>
+    </li><li>
+    	<a href="/sport/football" data-next_level="football">Football</a>
+    </li><li>
+    	<a href="/sport/american-football" data-next_level="american-football">American Football</a>
+    </li><li>
+    	<a href="/sport/basketball" data-next_level="basketball">Basketball</a>
+    </li><li>
+    	<a href="/sport/cricket" data-next_level="cricket">Cricket</a>
+    </li><li>
+    	<a href="/sport/golf" data-next_level="golf">Golf</a>
+    </li><li>
+    	<a href="/sport/handball" data-next_level="handball">Handball</a>
+    </li><li>
+    	<a href="/sport/rugby" data-next_level="rugby">Rugby</a>
+    </li><li>
+    	<a href="/sport/rugby-league" data-next_level="rugby-league">Rugby League</a>
+    </li><li>
+    	<a href="/sport/tennis" data-next_level="tennis">Tennis</a>
+    </li><li>
+    	<a href="/sport/volleyball" data-next_level="volleyball">Volleyball</a>
+    </li><li>
+    	<a href="/politics/" data-next_level="politics">Politics</a>
+    </li><li>
+    	<a href="/current-affairs/" data-next_level="current-affairs">Current Affairs</a>
+    </li><li>
+    	<a href="/tv-entertainment/" data-next_level="tv-entertainment">Tv Entertainment</a>
+    </li>
+</ul>
     </header>
 
     <div id="content">
@@ -368,6 +484,7 @@
     
 
         <div id="primary">
+        
         
             
         
@@ -462,35 +579,37 @@
                 <ul>
                 
                 
-                
-                
-                <li><a href="/sport/football/europe-uefa-europa-league/2012/10/04/anzhi-makhachkala-vs-young-boys">Anzhi Makhachkala vs. Young Boys</a></li>
-                
-                
-                
-                
-                <li><a href="/sport/football/europe-uefa-europa-league/2012/10/04/panathinaikos-vs-tottenham">Panathinaikos vs. Spurs</a></li>
+                    
+                    
+                    
+                    <li><a href="/sport/football/australia-a-league/2013/01/25/central-coast-mariners-vs-adelaide-united">Central Coast Mariners vs. Adelaide United</a></li>
                 
                 
                 
-                
-                <li><a href="/sport/football/europe-uefa-europa-league/2012/10/04/psv-vs-napoli">PSV vs. Napoli</a></li>
-                
-                
-                
-                
-                <li><a href="/sport/football/europe-uefa-europa-league/2012/10/04/fc-basel-vs-genk">Basel vs. Genk</a></li>
+                    
+                    
+                    
+                    <li><a href="/sport/cricket/icc-odi-championship/2013/01/25/south-africa-vs-new-zealand">South Africa vs. New Zealand</a></li>
                 
                 
                 
+                    
+                    
+                    
+                    <li><a href="/sport/tennis/australian-open-2013/mens-singles/semi-finals/andy-murray-vs-roger-federer">Andy Murray vs. Roger Federer</a></li>
                 
-                <li><a href="/sport/horse-racing/bangor/2012/10/04/14:50:00">14:50 Bangor</a></li>
+                
+                
+                    
+                    
+                    
+                    <li><a href="/sport/basketball/nba/2013/01/25/phoenix-suns-at-los-angeles-clippers">Los Angeles Clippers at Phoenix Suns</a></li>
+                
                 
                 </ul>
             </div>
             
         
-            <div id="#notifications" style="display: none;"></div>
         </div>
 
     
@@ -546,14 +665,18 @@
     <div>
         <p>Wholly owned and operated by Smarkets (Malta) Limited (Reg No: C 44795) of 28/19 Strait Street, Valletta, Malta under license <a id="license_number" href="http://www.lga.org.mt/lga/content.aspx?id=87005">LGA/CL3/492/2008</a> issued May 12th, 2009 and regulated by the <a href="http://lga.org.mt/">Lotteries and Gaming Authority</a>. Please gamble responsibly.</p>
         <ul id="legal_icons">
-            <li><a href="http://www.gamcare.org.uk/" rel="nofollow external"><img src="https://diy1dqjwmz5rw.cloudfront.net/img/icon/gamcare.281a3bcb.gif" alt="Smarkets supports GamCare" width="46" height="51"></a></li>
-            <li><img src="https://d2ddi39c2rqcmy.cloudfront.net/img/icon/18plus.14033bfb.gif" alt="Over 18s only" width="50" height="51"></li>
-            <li><a href="http://www.lga.org.mt/" rel="nofollow external"><img src="https://diy1dqjwmz5rw.cloudfront.net/img/icon/lga_authorised.8b0795ff.png" alt="Lotteries and Gaming Authority" width="214" height="50"></a></li>
+            <li><a href="http://www.gamcare.org.uk/" rel="nofollow external">
+                    <img src="https://d2ddi39c2rqcmy.cloudfront.net/main/img/icons/gamcare.gif" alt="Smarkets supports GamCare" width="46" height="51"></a></li>
+            <li><img src="https://d2ddi39c2rqcmy.cloudfront.net/main/img/icons/18plus.gif" alt="Over 18s only" width="50" height="51"></li>
+            <li><a href="http://www.lga.org.mt/" rel="nofollow external">
+                    <img src="https://d2ddi39c2rqcmy.cloudfront.net/main/img/icons/lga_authorised.png" alt="Lotteries and Gaming Authority" width="214" height="50"></a></li>
         </ul>
     </div>
 </div>
     
     </footer>
+
+    
 
 
 
@@ -590,10 +713,13 @@
         if (typeof GoSquared['DefaultTracker'] !== 'undefined') {
             GoSquared.DefaultTracker.TrackView(window.location.pathname, document.title);
         }
+        if (typeof mixpanel !== 'undefined') {
+            mixpanel.track_pageview(window.location.pathname);
+        }
     });
 
     // When a user logs in and has a hearbeat they'll have user data
-    // so update their GoSquared UserName and relog them on the tracker
+    // so update their details and relog them on the tracker
     jQuery(document).on('ready', function() {
 
         GLOB.bind('heartbeat:start', function() {
@@ -602,9 +728,27 @@
             if (typeof GoSquared['DefaultTracker'] !== 'undefined') {
                 GoSquared.DefaultTracker.TrackView(window.location.pathname, document.title);
             }
+            if (typeof mixpanel !== 'undefined') {
+                mixpanel.name_tag(GLOB.config.user.get('display_name')+'/'+GLOB.config.user.get('id_slug'));
+                mixpanelTrackUser();
+            }
         });
 
     });
+
+    function mixpanelTrackUser(){
+        mixpanel.people.identify(GLOB.config.user.get('id_slug'));
+        mixpanel.people.set({
+            '$email': GLOB.config.user.get('email'),
+            '$username': GLOB.config.user.get('display_name'),
+            '$created': new Date(GLOB.config.user.get('created').split(',')[0]),
+            'currency': GLOB.config.user.get('currency'),
+            'dob': new Date(GLOB.config.user.get('dob')),
+            'Browser Width': $(window).width()
+        });
+    }
+
+    
 
 </script>
 <script type="text/javascript">
@@ -614,17 +758,6 @@ olark.identify('7270-418-10-7874');
 </script>
 <!-- end olark code -->
 
-
-
-<script>
-// Envolve JS
-var envoOptions = {
-    enableNewChatButton: false,
-    defaultSoundMode : false
-};
-
-
-</script>
 
 
 
