@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the akitio.com privacy policy that was archived on 2012-10-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121006052333id_/http%3A//www.akitio.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akitio.com privacy policy that was archived on 2013-01-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130125062320id_/http%3A//www.akitio.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us" dir="ltr"><head>
   <meta property="og:locale" content="en_US">
@@ -25,90 +25,37 @@
   <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
   <script type="text/javascript" src="/plugins/content/attachments_refresh.js"></script>
   <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="http://www.akitio.com/modules/mod_jw_latesttweets/includes/js/behaviour.js"></script>
   <script type="text/javascript" src="http://www.akitio.com/modules/mod_superfishmenu/tmpl/js/jquery.js"></script>
   <script type="text/javascript" src="http://www.akitio.com/modules/mod_superfishmenu/tmpl/js/jquery.event.hover.js"></script>
   <script type="text/javascript" src="http://www.akitio.com/modules/mod_superfishmenu/tmpl/js/superfish.js"></script>
   <script type="text/javascript">
+
+	jwLatestTweets.ready(function(){
+		jwLatestTweets.lang = {
+			lessthanaminute: "less than a minute ago",
+			minute: "about a minute ago",
+			minutes: "minutes ago",
+			hour: "about an hour ago",
+			hours: "hours ago",
+			day: "1 day ago",
+			days: "days ago"
+		};
+		jwLatestTweets.fetchTweets({
+			screen_name: 'akitio',
+			count: '2',
+			callback: 'jwLtCb354',
+			moduleID: 'ltUpdateId354',
+			timeout: 2000
+		});
+	});
+
 jQuery.noConflict();
 jQuery(function($){ $("ul.sf-menu").superfish({hoverClass:'sfHover', pathClass:'active', pathLevels:0, delay:400, animation:{height:'show'}, speed:'def', autoArrows:1, dropShadows:1}) });
 jQuery.event.special.hover.delay = 100;
 jQuery.event.special.hover.speed = 100;
 
   </script>
-  <!-- JoomlaWorks "Latest Tweets" Module (v1.1) starts here -->
-
-<script type="text/javascript">
-	//<![CDATA[
-	function twitterCallbackId354(twitters) {
-
-	  var statusHTML = [];
-	  for (var i=0; i<twitters.length; i++){
-	    var username = twitters[i].user.screen_name;
-	    var status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, function(url) {
-	      return '<a href="'+url+'">'+url+'</a>';
-	    }).replace(/\B@([_a-z0-9]+)/ig, function(reply) {
-	      return  reply.charAt(0)+'<a href="http://twitter.com/'+reply.substring(1)+'">'+reply.substring(1)+'</a>';
-	    });
-	    
-	    if(i%2==1) var liClass = 'Even'; else var liClass = 'Odd';
-	    
-	    var liOutput = '\
-		    <li class="lt'+liClass+'">\
-			    <span class="ltUserStatus">'+status+'</span>\
-			    <br />\
-			    <a class="ltStatusTimestamp" href="http://twitter.com/'+username+'/statuses/'+twitters[i].id+'">\
-			    	'+relative_time(twitters[i].created_at)+'\
-			    </a>\
-		    </li>\
-	    ';
-	    
-	    statusHTML.push(liOutput);
-	  }
-	  
-	  setTimeout(function(){document.getElementById('ltUpdateId354').innerHTML = statusHTML.join('');},2000);
-	}
-	
-	function relative_time(time_value) {
-	  var values = time_value.split(" ");
-	  time_value = values[1] + " " + values[2] + ", " + values[5] + " " + values[3];
-	  var parsed_date = Date.parse(time_value);
-	  var relative_to = (arguments.length > 1) ? arguments[1] : new Date();
-	  var delta = parseInt((relative_to.getTime() - parsed_date) / 1000);
-	  delta = delta + (relative_to.getTimezoneOffset() * 60);
-	
-	  if (delta < 60) {
-	    return 'less than a minute ago';
-	  } else if(delta < 120) {
-	    return 'about a minute ago';
-	  } else if(delta < (60*60)) {
-	    return (parseInt(delta / 60)).toString() + ' minutes ago';
-	  } else if(delta < (120*60)) {
-	    return 'about an hour ago';
-	  } else if(delta < (24*60*60)) {
-	    return 'about ' + (parseInt(delta / 3600)).toString() + ' hours ago';
-	  } else if(delta < (48*60*60)) {
-	    return '1 day ago';
-	  } else {
-	    return (parseInt(delta / 86400)).toString() + ' days ago';
-	  }
-	}
-	//]]>
-</script>
-<script type="text/javascript">
-	//<![CDATA[
-	window.addEvent('domready', function() {
-	  var twitterJson = 'http://twitter.com/statuses/user_timeline/akitio.json?callback=twitterCallbackId354&count=2';
-		var twitterScript = document.createElement('script');
-		twitterScript.setAttribute('charset','utf-8');
-		twitterScript.setAttribute('type','text/javascript');
-		twitterScript.setAttribute('src',twitterJson);
-		var b = document.getElementsByTagName('body')[0];
-		b.appendChild(twitterScript);
-	});
-	//]]>
-</script>
-
-<!-- JoomlaWorks "Latest Tweets" Module (v1.1) ends here -->
   <script type="text/javascript" language="javascript" src="http://www.akitio.com/modules/mod_pixsearch/js/pixsearch.js"></script>
 		<style type="text/css">#ps_results{margin-left:-130px;}</style>
 
@@ -193,7 +140,7 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5598564-4']);
-  _gaq.push(['_setCustomVar', 1, 'Page creation time and ram', '72', 3]);
+  _gaq.push(['_setCustomVar', 1, 'Page creation time and ram', '89', 3]);
   _gaq.push(['_setCustomVar', 2, 'Logged-in user', 'anonymous', 3]);
   
   
@@ -243,7 +190,7 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
 
 					                    
                     <div class="icemodule_content"> 
-					<ul class="menu sf-menu sf-horizontal"><li class="parent item781"><a><img src="/images/stories/worldwide-globe-shiny-14.png" align="left" alt="usa"><span>USA - English</span></a><ul><li class="first-child item782"><a href="http://www.akitio.com.tw" onclick="_gaq.push(['_trackEvent', 'Akitio', 'Taiwan', 'Top'])"><span>Taiwan - 繁體中文</span></a></li><li class="last-child item828"><a href="http://www.akitio.com.cn" onclick="_gaq.push(['_trackEvent', 'Akitio', 'China', 'Top'])"><span>China - 简体中文</span></a></li></ul></li><li class="parent item800"><a href="/community/akitio-community"><span>Social</span></a><ul><li class="first-child item805"><a href="/forum/"><img src="/images/stories/icon-forum-16.png" align="left" alt="forum"><span>Forum</span></a></li><li class="item801"><a href="http://twitter.com/akitio"><img src="/images/stories/icon-twitter-16.png" align="left" alt="twitter"><span>Twitter</span></a></li><li class="item802"><a href="http://www.youtube.com/user/akitious"><img src="/images/stories/icon-youtube-16.png" align="left" alt="youtube"><span>YouTube</span></a></li><li class="item803"><a href="http://www.facebook.com/pages/Akitio/148287718534583"><img src="/images/stories/icon-facebook-16.png" align="left" alt="facebook"><span>Facebook</span></a></li><li class="last-child item804"><a href="http://www.akitio.com/press-releases/feed/rss"><img src="/images/stories/icon-feed-16.png" align="left" alt="rss"><span>RSS Feed</span></a></li></ul></li><li class="parent item610"><a href="/about-akitio/"><span>About Akitio</span></a><ul><li class="first-child item611"><a href="/about/company-profile"><span>Company Profile</span></a></li><li class="item632"><a href="/about/link-to-akitio"><span>Link to Us</span></a></li><li class="last-child item633"><a href="/about/contact-akitio"><span>Contact Us</span></a></li></ul></li></ul>
+					<ul class="menu sf-menu sf-horizontal"><li class="parent item781"><a><img src="/images/stories/worldwide-globe-shiny-14.png" align="left" alt="usa"><span>USA - English</span></a><ul><li class="first-child item782"><a href="http://www.akitio.com.tw" onclick="_gaq.push(['_trackEvent', 'Akitio', 'Taiwan', 'Top'])"><span>Taiwan - 繁體中文</span></a></li><li class="last-child item828"><a href="http://www.akitio.com.cn" onclick="_gaq.push(['_trackEvent', 'Akitio', 'China', 'Top'])"><span>China - 简体中文</span></a></li></ul></li><li class="parent item800"><a href="/community/akitio-community"><span>Social</span></a><ul><li class="first-child item805"><a href="/forum/"><img src="/images/stories/icon-forum-16.png" align="left" alt="forum"><span>Forum</span></a></li><li class="item801"><a href="http://twitter.com/akitio"><img src="/images/stories/icon-twitter-16.png" align="left" alt="twitter"><span>Twitter</span></a></li><li class="item802"><a href="http://www.youtube.com/user/akitious"><img src="/images/stories/icon-youtube-16.png" align="left" alt="youtube"><span>YouTube</span></a></li><li class="item803"><a href="http://www.facebook.com/akitiousa"><img src="/images/stories/icon-facebook-16.png" align="left" alt="facebook"><span>Facebook</span></a></li><li class="last-child item804"><a href="http://www.akitio.com/press-releases/feed/rss"><img src="/images/stories/icon-feed-16.png" align="left" alt="rss"><span>RSS Feed</span></a></li></ul></li><li class="parent item610"><a href="/about-akitio/"><span>About Akitio</span></a><ul><li class="first-child item831"><a href="/about/job-opportunities"><span>Job Opportunities</span></a></li><li class="item611"><a href="/about/company-profile"><span>Company Profile</span></a></li><li class="item632"><a href="/about/link-to-akitio"><span>Link to Us</span></a></li><li class="last-child item633"><a href="/about/contact-akitio"><span>Contact Us</span></a></li></ul></li></ul>
                     </div>
                     
            
@@ -263,7 +210,7 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
     <div id="main-nav_wrap">
       <div id="main-nav-bg">
         <div id="main-nav">
-            <ul class="menu" id="nav"><li class="item68"><a href="http://www.akitio.com/"><span>Home</span></a></li><li class="parent item590"><a href="/products"><span>Products</span></a><ul><li class="item619"><a href="/portable-storage"><span>Portable Storage</span></a></li><li class="item621"><a href="/desktop-storage"><span>Desktop Storage</span></a></li><li class="item617"><a href="/network-storage"><span>Network Storage</span></a></li><li class="item827"><a href="/home-entertainment"><span>Home Entertainment</span></a></li><li class="item777"><a href="/accessories"><span>Accessories</span></a></li></ul></li><li class="item593"><a href="/where-to-buy/akitio-sites"><span>Where to Buy</span></a></li><li class="parent item635"><a href="/newsroom"><span>Newsroom</span></a><ul><li class="item821"><a href="/newsroom/akitio-in-the-news/"><span>Akitio in the News</span></a></li><li class="item807"><a href="/newsroom/announcements/"><span>Announcements</span></a></li><li class="item638"><a href="/newsroom/reviews/"><span>Product Reviews</span></a></li><li class="item636"><a href="/press-releases/"><span>Press Releases</span></a></li><li class="item806"><a href="/newsroom/media-resources"><span>Press Contact</span></a></li><li class="item823"><a href="/newsroom/testimonials/"><span>Testimonials</span></a></li><li class="item641"><a href="/newsroom/media-kit"><span>Media Kit</span></a></li></ul></li><li class="parent item814"><a href="/blog/"><span>Blog</span></a><ul><li class="item816"><a href="/blog/announcements/"><span>Announcements</span></a></li><li class="item817"><a href="/blog/articles/"><span>Articles</span></a></li><li class="item818"><a href="/blog/promotions/"><span>Promotions</span></a></li><li class="item819"><a href="/blog/reviews/"><span>Reviews</span></a></li><li class="item820"><a href="/blog/tutorials/"><span>Tutorials</span></a></li></ul></li><li class="parent item600"><a href="/support"><span>Support</span></a><ul><li class="item602"><a href="/information-center/"><span>Information Center</span></a></li><li class="item795"><a href="/index.php?option=com_kunena&amp;view=home&amp;Itemid=795"><span>Community Forum</span></a></li><li class="item822"><a href="/support/video-tutorials"><span>Video Tutorials</span></a></li><li class="item601"><a href="/support/help-desk"><span>Help Desk</span></a></li><li class="item605"><a href="/firmware/"><span>Firmware</span></a></li><li class="item662"><a href="/software/"><span>Software</span></a></li><li class="item606"><a href="/support/user-manuals"><span>Manuals</span></a></li><li class="item603"><a href="/support/faq"><span>FAQ</span></a></li></ul></li></ul> 
+            <ul class="menu" id="nav"><li class="item68"><a href="http://www.akitio.com/"><span>Home</span></a></li><li class="parent item590"><a href="/products"><span>Products</span></a><ul><li class="item619"><a href="/portable-storage"><span>Portable Storage</span></a></li><li class="item621"><a href="/desktop-storage"><span>Desktop Storage</span></a></li><li class="item617"><a href="/network-storage"><span>Network Storage</span></a></li><li class="item827"><a href="/home-entertainment"><span>Home Entertainment</span></a></li><li class="item777"><a href="/accessories"><span>Accessories</span></a></li></ul></li><li class="item593"><a href="/where-to-buy/akitio-sites"><span>Where to Buy</span></a></li><li class="parent item635"><a href="/newsroom"><span>Newsroom</span></a><ul><li class="item821"><a href="/newsroom/akitio-in-the-news/"><span>Akitio in the News</span></a></li><li class="item807"><a href="/newsroom/announcements/"><span>Announcements</span></a></li><li class="item638"><a href="/newsroom/reviews/"><span>Product Reviews</span></a></li><li class="item636"><a href="/press-releases/"><span>Press Releases</span></a></li><li class="item806"><a href="/newsroom/media-resources"><span>Press Contact</span></a></li><li class="item823"><a href="/newsroom/testimonials/"><span>Testimonials</span></a></li><li class="item641"><a href="/newsroom/media-kit"><span>Media Kit</span></a></li></ul></li><li class="parent item814"><a href="/blog/"><span>Blog</span></a><ul><li class="item816"><a href="/blog/announcements/"><span>Announcements</span></a></li><li class="item817"><a href="/blog/articles/"><span>Articles</span></a></li><li class="item818"><a href="/blog/promotions/"><span>Promotions</span></a></li><li class="item819"><a href="/blog/reviews/"><span>Reviews</span></a></li><li class="item820"><a href="/blog/tutorials/"><span>Tutorials</span></a></li><li class="item830"><a href="/blog/mycloud/"><span>MyCloud</span></a></li></ul></li><li class="parent item600"><a href="/support"><span>Support</span></a><ul><li class="item602"><a href="/information-center/"><span>Information Center</span></a></li><li class="item795"><a href="/index.php?option=com_kunena&amp;view=home&amp;Itemid=795"><span>Community Forum</span></a></li><li class="item822"><a href="/support/video-tutorials"><span>Video Tutorials</span></a></li><li class="item601"><a href="/support/help-desk"><span>Help Desk</span></a></li><li class="item605"><a href="/firmware/"><span>Firmware</span></a></li><li class="item662"><a href="/software/"><span>Software</span></a></li><li class="item606"><a href="/support/user-manuals"><span>Manuals</span></a></li><li class="item603"><a href="/support/faq"><span>FAQ</span></a></li></ul></li></ul> 
 			
 <form name="pp_search" id="pp_search" action="http://www.akitio.com/" method="get">
 
@@ -528,15 +475,15 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
   <ul class="ucd_list">
     <!-- UCD item 0 -->
 <li class="ucd_item row0">
-<div class="ucd_title"><a href="/press-releases/2012/akitio-thunderbolt-storage-now-available">Akitio Thunderbolt™ Storage Now Available!</a></div>
+<div class="ucd_title"><a href="/press-releases/2012/akitio-neutrino-thunderbolt-available-now">Akitio Neutrino Thunderbolt Edition available now!</a></div>
 </li>
 <!-- UCD item 1 -->
 <li class="ucd_item row1">
-<div class="ucd_title"><a href="/2012/akitio-releases-neutrino-u3plus">Akitio Breaks USB 2.0 Barrier with Release of Neutrino U3+ HDD Enclosure</a></div>
+<div class="ucd_title"><a href="/press-releases/2012/akitio-holiday-season">Akitio Holiday Season</a></div>
 </li>
 <!-- UCD item 2 -->
 <li class="ucd_item row0">
-<div class="ucd_title"><a href="/2012/akitio-introduces-cloud-hybrid">Akitio Introduces Innovative Cloud Hybrid to Growing Product Line</a></div>
+<div class="ucd_title"><a href="/press-releases/2012/akitio-thunderbolt-storage-now-available">Akitio Thunderbolt™ Storage Now Available!</a></div>
 </li>
   </ul>
 </div>
@@ -567,7 +514,7 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
                          <div class="col-module_content">
                          
 
-<!-- JoomlaWorks "Latest Tweets" Module (v1.1) starts here -->
+<!-- JoomlaWorks "Latest Tweets" Module (v1.3) starts here -->
 
 <div class="ltBlock">
 	<ul id="ltUpdateId354" class="ltBlockList">
@@ -580,7 +527,7 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
 	</div>
 </div>
 
-<!-- JoomlaWorks "Latest Tweets" Module (v1.1) ends here -->
+<!-- JoomlaWorks "Latest Tweets" Module (v1.3) ends here -->
 
                          </div>
                
@@ -622,7 +569,7 @@ ul#nav ul, #MainMenuSub ul { width:200px}ul#nav ul li a, #MainMenuSub ul li a { 
                 <div class="padding">
                     
 					                    <div id="footermenu">
-            			<p id="copytext">Copyright © 2012 AKiTiO. All Rights Reserved.</p>
+            			<p id="copytext">Copyright © 2013 AKiTiO. All Rights Reserved.</p>
  <div class="joomla_add_this"><!-- AddThis Button BEGIN -->
 <script type="text/javascript">
 var addthis_product = 'jlp-1.2';
