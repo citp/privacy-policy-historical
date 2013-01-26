@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchman.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028015007id_/https%3A//searchman.com/s/doc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchman.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127005559id_/https%3A//searchman.com/s/doc/privacy.html) for the most accurate reproduction.*
 
 # 
 
