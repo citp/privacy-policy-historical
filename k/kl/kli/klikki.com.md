@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klikki.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617172324id_/http%3A//www.klikki.com/online-display/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klikki.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126161841id_/http%3A//www.klikki.com/online-display/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | KliKKi
 
