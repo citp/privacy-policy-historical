@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrife.com privacy policy that was archived on 2012-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120906021733id_/http%3A//adrife.com/index.php/guest/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrife.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127001502id_/http%3A//adrife.com/index.php/guest/policy) for the most accurate reproduction.*
 
 # AdRife - Privacy Policy
 
