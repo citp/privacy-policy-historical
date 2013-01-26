@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megaleech.eu privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203090526id_/http%3A//www.leechone.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaleech.eu privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126215650id_/http%3A//www.premiumleech.info/privacy.php) for the most accurate reproduction.*
 
-# leechone.info - Premium link generator|Megaupload premium|Hotfile premium|Rapidleech
+# premiumleech.info - Premium link generator|Megaupload premium|Hotfile premium|Rapidleech
 
 **Hello fellow downloaders, very happy to announce that we just Added Wupload new premium generator!**
 
@@ -8,41 +8,41 @@
 
 ## Website Visitors
 
-Like most website operators, leechone.info collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. leechone.info purpose in collecting non-personally identifying information is to better understand how leechone.info visitors use its website. From time to time, leechone.info may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
+Like most website operators, premiumleech.info collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. premiumleech.info purpose in collecting non-personally identifying information is to better understand how premiumleech.info visitors use its website. From time to time, premiumleech.info may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
 
-leechone.info also collects potentially personally-identifying information like Internet Protocol (IP) addresses. leechone.info does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. 
+premiumleech.info also collects potentially personally-identifying information like Internet Protocol (IP) addresses. premiumleech.info does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below. 
 
   
 
 
 ## Gathering of Personally-Identifying Information
 
-Certain visitors to leechone.info websites choose to interact with leechone.info in ways that require leechone.info to gather personally-identifying information. The amount and type of information that leechone.info gathers depends on the nature of the interaction. For example, we ask visitors who use our website and chooses to register, provide a username and email address. In each case, leechone.info collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with leechone.info. leechone.info does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
+Certain visitors to premiumleech.info websites choose to interact with premiumleech.info in ways that require premiumleech.info to gather personally-identifying information. The amount and type of information that premiumleech.info gathers depends on the nature of the interaction. For example, we ask visitors who use our website and chooses to register, provide a username and email address. In each case, premiumleech.info collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with premiumleech.info. premiumleech.info does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
 
   
 
 
 ## Aggregated Statistics
 
-leechone.info may collect statistics about the behavior of visitors to its websites. For instance, leechone.info may reveal how many downloads a particular file got, or say which plugins are most popular based on checks from polls. However, leechone.info does not disclose personally-identifying information other than as described below. 
+premiumleech.info may collect statistics about the behavior of visitors to its websites. For instance, premiumleech.info may reveal how many downloads a particular file got, or say which plugins are most popular based on checks from polls. However, premiumleech.info does not disclose personally-identifying information other than as described below. 
 
   
 
 
 ## Protection of Certain Personally-Identifying Information
 
-leechone.info discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on leechone.info’s behalf or to provide services available at leechone.info websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using leechone.info websites, you consent to the transfer of such information to them. leechone.info will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, leechone.info discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when leechone.info believes in good faith that disclosure is reasonably necessary to protect the property or rights of leechone.info, third parties, or the public at large. If you are a registered user of a leechone.info website and have supplied your email address, leechone.info may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with leechone.info and our products. We try to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. leechone.info takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information. 
+premiumleech.info discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on premiumleech.info’s behalf or to provide services available at premiumleech.info websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using premiumleech.info websites, you consent to the transfer of such information to them. premiumleech.info will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, premiumleech.info discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when premiumleech.info believes in good faith that disclosure is reasonably necessary to protect the property or rights of premiumleech.info, third parties, or the public at large. If you are a registered user of a premiumleech.info website and have supplied your email address, premiumleech.info may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with premiumleech.info and our products. We try to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. premiumleech.info takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information. 
 
   
 
 
 ## Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. leechone.info uses cookies to help leechone.info identify and track visitors, their usage of leechone.info website, and their website access preferences. leechone.info visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using leechone.info websites, with the drawback that certain features of leechone.info websites may not function properly without the aid of cookies. 
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. premiumleech.info uses cookies to help premiumleech.info identify and track visitors, their usage of premiumleech.info website, and their website access preferences. premiumleech.info visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using premiumleech.info websites, with the drawback that certain features of premiumleech.info websites may not function properly without the aid of cookies. 
 
   
 
 
 ## Privacy Policy Changes
 
-Although most changes are likely to be minor, leechone.info may change its Privacy Policy from time to time, and in leechone.info sole discretion. leechone.info encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+Although most changes are likely to be minor, premiumleech.info may change its Privacy Policy from time to time, and in premiumleech.info sole discretion. premiumleech.info encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
