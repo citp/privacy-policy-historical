@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historycentral.com privacy policy that was archived on 2012-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120207100853id_/http%3A//www.historycentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historycentral.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126173335id_/http%3A//www.historycentral.com/privacy.html) for the most accurate reproduction.*
 
 # HistoryCentral.com: Privacy Policy
 
@@ -7,7 +7,7 @@ HistoryCentral.com
 _**STATEMENT REGARDING INFORMAITON USE & PRIVACY ON THIS SITE**_
 
 MultiEducator Incorporated  
-226 North Avenue  
+553 North Avenue  
 New Rochelle, NY 10801
 
 We created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for HistoryCentral.com, which is wholly owned and operated by MultiEducator, Inc.
@@ -22,7 +22,7 @@ Some pages on our site may use "cookies" to keep track of your shopping cart. Co
 
 **Advertisers**
 
-"We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [Sonar.](http://www.sonar.com/content/privacy.htm)
+"We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. I
 
 **Registration Forms**
 
