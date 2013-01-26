@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012052959id_/http%3A//bajaao.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126092822id_/http%3A//46.20.125.4/shop/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BAJAAO - Buy online and Review Musical Instruments, Pro Audio, Studio, P.A. Audio Equipment in India
 
