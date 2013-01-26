@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2012-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120807212858id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatwesternbank.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126100525id_/http%3A//www.greatwesternbank.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy Explains How Great Western Bank is Dedicated to Protecting Your Privacy
 
