@@ -1,41 +1,19 @@
-> *The following text is extracted and transformed from the jv-extensions.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823042541id_/http%3A//www.jv-extensions.com/en/policies/privacy-policy-143.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jv-extensions.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126152942id_/https%3A//www.jv-extensions.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Policies
 
-**What information do we collect?**
-
-We collect information from you when you register on our site or subscribe to our newsletter. 
-
-Any data we request that is not required will be specified as voluntary or optional. 
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways: 
-
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  * To send periodic emails
-
-
-
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
-
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.  
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information.
 
-These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
+We store your account information in password protected directories and databases to safeguard your information. Our website is hosted in the most secured environment at HostGator who continuously monitor and audit the websites.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+None of the financial transactions happen on our site. Once you select the products to purchase, you can choose to pay for them, at the secure sites of 2Checkout or PayPal, where all your financial transactions happen. At 2CO and Paypal, all supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted in their database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Any time during a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 **Do we use cookies?**
 
@@ -61,19 +39,19 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **CAN-SPAM Compliance**
 
-We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information. We always use the double-opt in method where by you will need request for subscription to our newsletters and then will confirm that request in another email.
 
 **Advertising**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For Google, if you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [Advertising and Privacy ? Google Privacy Center](http://www.google.com/privacy_ads.html)
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Terms and Conditions**
+**Terms of Sale and Service**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.jv-extensions.com/en/poli...rvice-142.html](http://www.jv-extensions.com/en/policies/terms-of-service-142.html).
+Please also visit our Terms of Sale section establishing the use, disclaimers, and limitations of liability governing the use of our website at https://www.jv-extensions.com/jj/index.php/policies
 
 **Your Consent**
 
@@ -81,38 +59,20 @@ By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on **23rd December 2009**
+This policy was last modified on **18th April** **2012**
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-_[www.jv-extensions.com](http://www.jv-extensions.com/)_
-
+[www.jv-extensions.com](http://www.jv-extensions.com/)  
 44/6, First Floor, Singarachari street, Triplicane  
 Chennai, TamilNadu, 600005  
 India  
-[support@jv-extensions.com](mailto:support@jv-extensions.com)
+support@jv-extensions.com
 
 **Privacy Policy Customer Pledge**
 
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
-
-  * Federal Trade Commission Fair
-  * California Online Privacy Protection Act
-  * Childrens Online Privacy Protection Act
-  * Privacy Alliance
-  * Controlling the Assault of Non-Solicited Pornography and Marketing Act
-
-
-
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
-
-Respectfully, 
-
-Niranjan, Managing Director  
-JV-Extensions, 
-
-_[www.jv-extensions.com](http://www.jv-extensions.com/)_
