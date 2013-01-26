@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glowindia.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218020105id_/http%3A//glowindia.com/home/%3Fp%3D215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glowindia.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126075426id_/http%3A//www.glowindia.com/home/%3Fp%3D215) for the most accurate reproduction.*
 
 # Privacy Policy « Glow India
 
