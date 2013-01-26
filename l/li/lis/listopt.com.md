@@ -1,18 +1,26 @@
-> *The following text is extracted and transformed from the listopt.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102235357id_/http%3A//listopt.com/legal/form-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listopt.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127004841id_/http%3A//www.glenhopkins.name/legal/form-privacy.html) for the most accurate reproduction.*
 
 # General Privacy Policies
 
-**General ListOpt.com Privacy Policies**
+**General Privacy Policies**
 
 We respect your interest in your privacy and as a result we have created this informational disclosure. 
 
-We collect and use personal information for the purposes of confirming your name and email address. We do this by sending you a confirmation email in which you must click a confirmation link to confirm you do indeed want the newsletter(s) requested. Once confirmed your information is passed to the respective publisher(s) of the newsletter(s) you requested. If you do not respond to the confirmation email we send you, you will not be contacted by the publisher(s) of the newsletter(s) you requested.
+We collect and use personal information for many purposes, including but not limited to, billing; product and service fulfillment; to better understand our customer needs; to provide a better website, products and services; to communicate with customers and potential customers regarding our products and services and third party products and services. 
+
+Generally, your private information will only be disclosed to our owners, employees, independent contractors, subsidiaries, partners, affiliates, attorneys, consultants, business associates, service providers, suppliers and agents, acting on our behalf or request. This general rule, and disclosures in specific situations, is more particularly described below. 
 
 You must be at least 18 years old to access this website. We do not direct this website to persons under 18, nor do we knowingly collect any personal information from children under the age of thirteen. 
 
 **Information Collected by our ISP**
 
 The hosting provider for this Internet site (as with any Internet site) has the ability to record various information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information, and to disclose this information. This is most commonly done by providing access to raw server logs. For more information you should perform an Internet search on 'server logs' or 'raw server logs.' We may have access to our raw server logs and access reports prepared by our hosting provider. 
+
+**Financial Information for Billing Purposes**
+
+We sell products and services. When sales are made financial information must be disclosed. This information can include any number of facts you are asked to provide, but most commonly includes your name, financial / credit card information, billing address, and email address. Generally, this purchase information will be provided by you to a third party payment processor and we do not receive your financial / credit card information. 
+
+In the event we do receive financial / credit card information, we will not disclose it to anyone unless disclosure is required by law or a court order, or unless disclosure is required to address an issue implicated by the financial transaction. If you claim that your financial information was used to make a purchase you did not authorize, details about the financial transaction may be disclosed to law enforcement and anyone else we deem necessary to address the matter. 
 
 **Use of eMail Addresses and other Contact Information**
 
@@ -22,7 +30,25 @@ As a customer you are agreeing to receive information about the product or servi
 
 We may also send you information about other products and services our company offers.
 
- **Disclosure by Necessity**
+At the time of a purchase, any information submitted by the buyer will be used _solely_ for the purpose of completing the transaction, delivering the product and addressing any customer service issues.
+
+We will not sell, provide, or transfer you email address to others. 
+
+We may allow advertising to our customers, or engage in joint ventures, which result in your receiving advertisements from selected third parties. 
+
+**Identification of Purchasers**
+
+If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions. 
+
+We also use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes. 
+
+**Cookies**
+
+Cookies may be used to keep track of referred affiliate commissions and to monitor access to our website. You consent to any future use of cookies for testing purposes and the use of cookies for publicly available data to gather statistics for the purpose of determining which search engines, referring sites, key words, etc., bring visitors to our website, which pages visitors are most interested in, what web browsers are used, etc. Various providers may be used for this purpose. The purpose is obtain information that will help promote the website, make the website more interesting and useful to visitors, and to identify areas where improvement is needed. 
+
+Additionally, various third party information suppliers and other entities that provide information for this website, or for use by us, may use cookies. Examples include, but are not necessarily limited to billing providers, third party advertisers, and third party resources we promote. 
+
+**Disclosure by Necessity**
 
 Private information may be disclosed if required by a court order, statute, law, or regulation. 
 
