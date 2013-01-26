@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joined.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005191214id_/http%3A//www.joined.com/index.php/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joined.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126153445id_/http%3A//www.joined.com/index.php/about/privacy_policy) for the most accurate reproduction.*
 
 # Professional Profile | Joined.com
 
