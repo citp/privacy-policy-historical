@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topranktrade.jp privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219011856id_/http%3A//www.topranktrade.jp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topranktrade.jp privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126123410id_/http%3A//topranktrade.jp/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy/Japanese Car Exporter,Japan Used cars,japanese car Dealer/TOPRANK toprank
 
