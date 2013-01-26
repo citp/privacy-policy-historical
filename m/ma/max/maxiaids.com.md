@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the maxiaids.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621002439id_/http%3A//www.maxiaids.com/store/m_privacysecurity.asp%3Fidstore%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxiaids.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126065055id_/http%3A//www.maxiaids.com/store/m_privacysecurity.asp) for the most accurate reproduction.*
 
 # Products for Independent Living, Blind, Low Vision, Deaf, Physically Challenged - MaxiAids.com
 
-  
+FREE domestic shipping on web orders of $49.95 or more (details)
 
+**Privacy & Security**
 
-[](http://www.bbbonline.org/cks.asp?id=10211079344427480)
+[ ](http://www.bbbonline.org/cks.asp?id=10211079344427480)
 
 Latest Internet Technology provides us with the safest way of doing business with your credit card. MaxiAids.com has made it safer to use your credit card and personal information on our Web site than to use it in more traditional ways.
 
