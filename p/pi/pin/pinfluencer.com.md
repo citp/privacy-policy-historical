@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the pinfluencer.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130083332id_/http%3A//www.pinfluencer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinfluencer.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126084851id_/http%3A//www.pinfluencer.com/privacy) for the most accurate reproduction.*
 
 # Pinfluencer - Marketing and Analytics for Pinterest
 
 Welcome to Pinfluencer, the online and mobile service of Pinfluencer, Inc. (“Pinfluencer,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
-
-Click on the links below to jump to each section:
-
-How We Collect and Use Information Sharing of Your Information How We Store and Protect Your Information Your Choices About Your Information Children's Privacy Links to Other Websites and Services How to Contact Us Changes to Our Privacy Policy 
-
 
 ### HOW WE COLLECT AND USE INFORMATION
 
