@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hqtube.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025112518id_/http%3A//hqtube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqtube.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127053054id_/http%3A//www.hqtube.com/privacy.php) for the most accurate reproduction.*
 
 # HQTube.com Terms of use
 
