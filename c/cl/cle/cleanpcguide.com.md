@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleanpcguide.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003192608id_/http%3A//www.cleanpcguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleanpcguide.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127030207id_/http%3A//www.cleanpcguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cleanpcguide.com
 
