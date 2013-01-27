@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humoncomics.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127194534id_/http%3A//humoncomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humoncomics.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127182452id_/http%3A//humoncomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Humon Comics | Webcomic
 
