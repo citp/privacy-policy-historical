@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fas.ie privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111033521id_/http%3A//www.fas.ie/en/General/Privacy%2BStatement%2Bfor%2BF%25C3%2581S/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fas.ie privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127084611id_/http%3A//www.fas.ie/en/General/Privacy%2BStatement%2Bfor%2BF%25C3%2581S/default.htm) for the most accurate reproduction.*
 
 # FÁS - Privacy Statement for FÁS
 
@@ -40,8 +40,7 @@ FÁS do not knowingly collect any personal information from children.
 
 ## Use of Cookies
 
-Some sections of the FAS website use cookies. These cookies are encrypted and contain no personally identifiable information. All cookies have an expiration time after which they will be unusable.  
-
+The Jobbridge Internship section of the FAS website uses cookies. These cookies are encrypted and contain no personally identifiable information. All cookies have an expiration time after which they will be unusable. Website users should be aware that FAS will not delete any cookies stored locally on your machine however we will overwrite cookies each time a new session is started on our website. Deletion of cookies is entirely at your own discretion.
 
 ## Use of Google Analytics   
 
