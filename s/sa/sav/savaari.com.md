@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the savaari.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025135001id_/http%3A//www.savaari.com/privacy_policy_terms_conditions_cancellations) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savaari.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127222820id_/http%3A//www.savaari.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Savaari Car Rentals Pvt Ltd
 
 This privacy policy sets out how Savaari uses and protects any information that you give Savaari when you use this website.
 
 Savaari is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 Savaari may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 31st July 2006.
+
+  
+
 
 ## We may collect the following information:
 
@@ -49,27 +52,3 @@ We will not sell, distribute or lease your personal information to third parties
 ## Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information on the About Us page.
-
-Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Savaari's relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.
-
-The term 'Savaari' or 'us' or 'we' refers to the owner of the website whose registered office is 203, first floor, oxford towers, 139 old airport road, kodihalli, bengaluru 560008. The term 'you' refers to the user or viewer of our website.
-
-The use of this website is subject to the following terms of use:
-
-  * 1) The content of the pages of this website is for your general information and use only. It is subject to change without notice.
-  * 2) This website uses cookies to monitor browsing preferences. If you do allow cookies to be used, the following personal information may be stored by us for use by third parties: IP Address, Location
-  * 3) Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
-  * 4) Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.
-  * 5) This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
-  * 6) All trade marks reproduced in this website which are not the property of, or licensed to, the operator are acknowledged on the website.
-  * 7) Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence.
-  * 8) From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).
-  * 9) Your use of this website and any dispute arising out of such use of the website is subject to the laws of India.
-
-
-
-## Cancellations and Returns
-
-Any cancellation or shortening of the trip has to be done 24 hours before the trip takes place. In case it is a multi-day trip, the charge for the first day would be deducted from the refunded amount. If it is a single day trip then no refund will be issued.
-
-If the cancellation or shortening of the trip is requested within 24 hours of the pickup time, no refund will be issued.
