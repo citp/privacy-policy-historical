@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onlive.com privacy policy that was archived on 2012-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122131701id_/http%3A//www.onlive.com/legal/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlive.com privacy policy that was archived on 2013-01-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130127173908id_/https%3A//www.onlive.com/legal/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <title>    Privacy Policy</title>
@@ -148,7 +148,7 @@ This Privacy Policy covers the information practices for the following websites 
 
 Contact Us
 
-If you have any comments, questions or complaints about this Privacy Policy or our information collection practices, please contact us via email at privacy@onlive.com; or, by regular mail to OnLive: 181 Lytton Avenue, Palo Alto, CA 94301, Attn: Privacy Policy Administrator and Legal Department. 
+If you have any comments, questions or complaints about this Privacy Policy or our information collection practices, please contact us via email at privacy@onlive.com; or, by regular mail to OnLive: 1091 N Shoreline Blvd, Suite 100, Mountain View, CA 94043, Attn: Privacy Policy Administrator and Legal Department. 
 
 ESRB Certification
  <a href="http://www.esrb.org/confirm/onlive-confirmation.jsp" class="txt_or" target="new">
@@ -328,7 +328,7 @@ While users under the age of 18 are not themselves permitted to register for an 
 
 XIV. QUESTIONS ABOUT THIS PRIVACY POLICY
 
-OnLive will promptly respond to your privacy concerns and questions submitted via email at privacy@onlive.com or by regular mail to OnLive: 181 Lytton Avenue, Palo Alto, CA 94301, Attn: Privacy Policy Administrator and Legal Department. However, if you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB via email at privacy@esrb.org; or, by regular mail to ESRB: 317 Madison Avenue, 22nd Floor, New York, NY 10017, Attn: Privacy Online Program.
+OnLive will promptly respond to your privacy concerns and questions submitted via email at privacy@onlive.com or by regular mail to OnLive: 1091 N Shoreline Blvd, Suite 100, Mountain View, CA 94043, Attn: Privacy Policy Administrator and Legal Department. However, if you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB via email at privacy@esrb.org; or, by regular mail to ESRB: 317 Madison Avenue, 22nd Floor, New York, NY 10017, Attn: Privacy Online Program.
 
 XV. CHANGES TO THIS PRIVACY POLICY
 
@@ -372,7 +372,7 @@ California Users may request further information about our compliance with this 
         <li><a href="http://www.onlive.com/">OnLive</a></li>
                 <li><a href="http://www.onlive.com/games/featuredgames">Games</a></li>
         <li><a href="http://www.onlive.com/playpack">PlayPack</a></li>
-        <li><a href="http://support.onlive.com">Support</a></li>
+        <li><a href="https://support.onlive.com/home">Support</a></li>
                 <li><a href="http://www.onlive.com/corporate/news">News</a></li>
                         <li><a href="http://www.onlive.com/corporate/careers">Careers</a></li>
                 <li><a href="http://www.onlive.com/corporate/contact">Contact</a></li>
@@ -384,7 +384,7 @@ California Users may request further information about our compliance with this 
     </ul>
     <hr>
     <p class="copyright">
-        		    Copyright © 2012 OnLive.
+        		    Copyright © 2013 OnLive.
 		        All rights reserved. Trademarks belong to their respective owners.
         <br>
         <a href="http://www.onlive.com/legal/index" class="txt_or">Terms of Use</a> and 
@@ -448,7 +448,11 @@ California Users may request further information about our compliance with this 
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-5011987-10']);
     _gaq.push(['_setDomainName', 'onlive.com']);
-    _gaq.push(['_trackPageview']);
+    if (typeof analyticsURL == 'undefined') {
+        _gaq.push(['_trackPageview']);
+    } else {
+        _gaq.push(['_trackPageview', analyticsURL]);
+    }
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
