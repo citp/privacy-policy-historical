@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inventables.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223111541id_/https%3A//www.inventables.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventables.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127054023id_/https%3A//www.inventables.com/privacy_policy) for the most accurate reproduction.*
 
 # Inventables Privacy Policy
 
