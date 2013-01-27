@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaresubmitterpro.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018194610id_/http%3A//softwaresubmitterpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaresubmitterpro.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127100207id_/http%3A//www.softwaresubmitterpro.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
