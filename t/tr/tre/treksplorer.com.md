@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the treksplorer.com privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029111926id_/http%3A//www.treksplorer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treksplorer.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128002232id_/http%3A//www.treksplorer.com/aboutus/privacy) for the most accurate reproduction.*
 
-# Privacy Policy @ Treksplorer.com
+# Privacy Policy | Treksplorer.com
 
 This privacy policy sets out how Trekplorer, Ltd. uses and protects any information that you give Treksplorer, Ltd. when you use this website.
 
