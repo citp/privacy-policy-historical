@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227181326id_/http%3A//www.icfi.com/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127234134id_/http%3A//www.icfi.com/global/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy » ICF Intl
 
@@ -6,7 +6,7 @@
 
 ICF International, Inc., ("ICF International" or "ICF") is committed to protecting the privacy and security of your Personal Information. Except as described below, ICF International does not sell, rent, or share Personal Information provided to us through our suite of websites. "Personal Information" is information that would allow someone to identify or contact you, including, for example, your full name, address, telephone number, or email address. 
 
-By accessing icfi.com, [icfi.com.br](http://www.icfi.com.br/), or [icfinternational.ru](http://www.icfinternational.ru/), you consent to the collection, usage, and storage of your Personal Information by us in the manner described below. If you have questions regarding this Website Privacy Policy, please [contact us](https://web.archive.org/web/20121227181326id_/http%3A//www.icfi.com/global/~/link.aspx?_id=7D1F5A1E450740829636CBDDCE0488AC&_z=z). Because the Internet is an evolving medium, we reserve the right to amend this policy at any time by posting the amended version on our website and updating the Effective Date of the policy to reflect the date of the changes. By continuing to use this website after we post any such changes, you accept the Website Privacy Policy as modified. We encourage you to learn as much as you can about your privacy on the Internet. This Website Privacy Policy covers the following issues and information: 
+By accessing icfi.com, [icfi.com.br](http://www.icfi.com.br/), or [icfinternational.ru](http://www.icfinternational.ru/), you consent to the collection, usage, and storage of your Personal Information by us in the manner described below. If you have questions regarding this Website Privacy Policy, please [contact us](https://web.archive.org/web/20130127234134id_/http%3A//www.icfi.com/global/~/link.aspx?_id=7D1F5A1E450740829636CBDDCE0488AC&_z=z). Because the Internet is an evolving medium, we reserve the right to amend this policy at any time by posting the amended version on our website and updating the Effective Date of the policy to reflect the date of the changes. By continuing to use this website after we post any such changes, you accept the Website Privacy Policy as modified. We encourage you to learn as much as you can about your privacy on the Internet. This Website Privacy Policy covers the following issues and information: 
 
   * How Personal Information is Collected and Used
     * Information You Voluntarily Provide to Us
@@ -50,7 +50,7 @@ ICF International contracts with a number of third-party vendors to enhance your
 
 ###### Job Applicant Data
 
-When you apply to work at ICF International through our online Career Center at [https://jobs.icfi.com](https://web.archive.org/web/20121227181326id_/http%3A//www.icfi.com/global/~/link.aspx?_id=A5DD78E3F2B14EE398D328BE6A201C89&_z=z), a third-party website (see "ICF's Contracted Third-Party Websites" above), we use your Personal Information to process the application and to monitor recruiting statistics. When we disclose information to a third party, for example, to check a reference or obtain a background check, we will not do so without informing you beforehand and receiving written consent. Personal information about unsuccessful candidates will be kept on file for future consideration unless you request its removal. We also retain non-personally identifiable statistical information about applicants.
+When you apply to work at ICF International through our online Career Center at [https://jobs.icfi.com](https://web.archive.org/web/20130127234134id_/http%3A//www.icfi.com/global/~/link.aspx?_id=A5DD78E3F2B14EE398D328BE6A201C89&_z=z), a third-party website (see "ICF's Contracted Third-Party Websites" above), we use your Personal Information to process the application and to monitor recruiting statistics. When we disclose information to a third party, for example, to check a reference or obtain a background check, we will not do so without informing you beforehand and receiving written consent. Personal information about unsuccessful candidates will be kept on file for future consideration unless you request its removal. We also retain non-personally identifiable statistical information about applicants.
 
 ##### 2\. INFORMATION COLLECTED AUTOMATICALLY 
 
@@ -62,7 +62,7 @@ ICF International studies this non-personally identifiable data in our Internet 
 
 ICF International also uses "cookies" to enhance your experience on the website, for example, by remembering you and your preferences so you don’t have to give the same information again during your session or on subsequent visits to the site, such as a username/password or data for a registration form. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. You can learn more about cookies at [allaboutcookies.org](http://allaboutcookies.org/). If you choose to decline cookies, you may not be able to experience fully the ICF websites or other websites you visit. 
 
-The list below shows the cookies that are set by ICF websites and the purposes for which such cookies are used. Some of our business partners, such as Taleo and Thomson Reuters, also use cookies when you interact with sections of the ICF International website that are hosted by these third-party vendors. We have no access to or control over these cookies. If you have any queries about these cookies or would like more information about them, please [contact us](https://web.archive.org/web/20121227181326id_/http%3A//www.icfi.com/global/~/link.aspx?_id=7D1F5A1E450740829636CBDDCE0488AC&_z=z). 
+The list below shows the cookies that are set by ICF websites and the purposes for which such cookies are used. Some of our business partners, such as Taleo and Thomson Reuters, also use cookies when you interact with sections of the ICF International website that are hosted by these third-party vendors. We have no access to or control over these cookies. If you have any queries about these cookies or would like more information about them, please [contact us](https://web.archive.org/web/20130127234134id_/http%3A//www.icfi.com/global/~/link.aspx?_id=7D1F5A1E450740829636CBDDCE0488AC&_z=z). 
 
 ###### Cookies Used on This Site 
 
@@ -149,7 +149,7 @@ ICF International is committed to protecting children's privacy online. Our webs
 
 #### How to Make Changes to Your Information 
 
-If you have subscribed to one or more of our newsletters or receive information from ICF International via email or postal mail and would like to modify or cancel these mailings, please follow the instructions in the mailing, send an email to [info@icfi.com](mailto:info@icfi.com), or use the [Contact Us](https://web.archive.org/web/20121227181326id_/http%3A//www.icfi.com/global/~/link.aspx?_id=7D1F5A1E450740829636CBDDCE0488AC&_z=z) form on this website. For best results, please forward a copy of the mailing you received from ICF International.
+If you have subscribed to one or more of our newsletters or receive information from ICF International via email or postal mail and would like to modify or cancel these mailings, please follow the instructions in the mailing, send an email to [info@icfi.com](mailto:info@icfi.com), or use the [Contact Us](https://web.archive.org/web/20130127234134id_/http%3A//www.icfi.com/global/~/link.aspx?_id=7D1F5A1E450740829636CBDDCE0488AC&_z=z) form on this website. For best results, please forward a copy of the mailing you received from ICF International.
 
 To change your partner profile submitted in our teaming form, please email [info@icfi.com](mailto:info@icfi.com). 
 
