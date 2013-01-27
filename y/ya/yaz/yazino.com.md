@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yazino.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027081629id_/https%3A//www.yazino.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yazino.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127010237id_/https%3A//www.yazino.com/legal/privacy) for the most accurate reproduction.*
 
 # Yazino Privacy Policy
 
