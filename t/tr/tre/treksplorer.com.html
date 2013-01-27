@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the treksplorer.com privacy policy that was archived on 2011-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111029111926id_/http%3A//www.treksplorer.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the treksplorer.com privacy policy that was archived on 2013-01-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130128002232id_/http%3A//www.treksplorer.com/aboutus/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
@@ -13,160 +13,144 @@
 <script type="text/javascript" src="/scripts/maptest.js"></script>
 <script type="text/javascript" src="/scripts/main.js"></script>
 
-<title>Privacy Policy @ Treksplorer.com</title>
+<title>Privacy Policy | Treksplorer.com</title>
 <base href="/">
 </head>
 <body>
 <div id="MainWrapper">
 
-<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
-<div id="fb-root"></div>
-<script language="javascript" type="text/javascript">
-	FB.init({
-	appId: '153052614781422',
-	status: true,
-	cookie: true,
-	xfbml: true,
-	oauth: true
-	 });
-	 FB.Event.subscribe('auth.login', function(response) {
-  		// do something with response
-		userInfo = document.getElementById("MyName");
-		FB.api('/me', function(response) {
-			userInfo.innerHTML = ' <img src="https://graph.facebook.com/' 
-		  + response.id + '/picture" alt="Profile Pic" /><a href="/myprofile/">' + response.name + '</a>';
-		  });
-		
-	});
-	FB.Event.subscribe('auth.logout', function(response) {
-  		// do something with response
-		document.getElementById("MyProfile").innerHTML = "";
-		document.getElementById("MyName").innerHTML = "";
-	});
-	
-	function fb_getAuthorization() {
-	   FB.ui({
-			client_id: '153052614781422',
-			method: 'oauth',
-			scope: 'email,user_location, user_hometown',
-			redirect_uri: window.location,
-			response_type: 'token'
-		  });
-	}
-</script>
+
+<div id="HeaderWrapper">
 
 <div id="Header">
     <div id="HeaderLogo">
-    	<img src="./images/textlogo-us.png" alt="Treksplorer.com">
-    </div>
-    <div id="HeaderNavMenu">
-    	<ul id="HeaderNavBar">
-            <div id="MyName" style="float: left;"></div>
-			<div id="fbLoginButton" style="float: left;">
-            <fb:login-button size="small" autologoutlink="true" onlogin="Log.info('onlogin callback')" scope="email,user_location,user_hometown">
-            </fb:login-button>&nbsp;|</div>
-			<script language="javascript" type="text/javascript">
-			FB.getLoginStatus(function(response) {
- 				 if (response.authResponse) {
-					// logged in and connected user, someone you know
-					//alert(response.status);
-					userInfo = document.getElementById("MyName");
-					 FB.api('/me', function(response) {
-						userInfo.innerHTML = '<img src="https://graph.facebook.com/' 
-					  + response.id + '/picture" alt="Profile Pic" /><a href="/myprofile/">' + response.name + '</a>';
-					  });
+   	 	<a href="#"><img src="/images/logo-abr2.png"></a>
+        <div id="HeaderLogoText">
+        	<div class="grn">trek</div>
+            <div class="blu">splorer</div>
+        	<div class="blk">.com</div>
+   		</div>
 
-					//document.getElementById("");
-				  } else {
-					// no user session available, someone you dont know
-				  }
-				});
-			</script>
-            <div id="MyProfile" style="float: left;"></div>
-			<div id="Help" style="float: left;"><li><a href="/aboutus/help/">Help</a></li>|</div>
-			<div id="RegionClick" style="float: left;"><li><a href="#" onclick="OpenPopup('#RegionPopout');">
-            <img src="images/flags/48/us.png" alt="US">            </a></li>
-            </div>
+    </div>
+      <div class="HeaderSearchBox">
+
+ 		<input class="defaultText" type="text" placeholder="Search For Travel Destinations" id="place-autocomplete" size="35">
+        <input class="search" id="submitButton" type="submit" value="Search">
+    </div>
+    <div id="HeaderNavMenu" style="display: none;">
+    <div id="SignInBox">
+     <div id="MyName"></div>
+     <div id="ProfileInfoDrop">
+          </div>
+        <div id="SignInText">
+		   Sign In: 		</div>
+        <div id="TwitterLoginButton">
+            <a href="javascript:void(0)" onclick="Login('twitter');"><img src="/images/twitter.png" alt="Sign In With Twitter"></a>         </div>
+          
+			<div id="fbLoginButton">
+                <a href="javascript:void(0)" onclick="Login('fb');"><img src="/images/facebook.png" alt="Sign In With Facebook"></a>        	</div>
+        </div>
+        
+    	<ul id="HeaderNavBar">
+        
+
+            <div id="MyProfile"></div>
+			<li><a href="/aboutus/help/">Help</a></li>
+			<li class="last"><a href="#" onclick="OpenPopup('#RegionPopout', 'fade'); return false;">
+            <img src="/images/flags/48/us.png" alt="US">            </a></li>
+            
 		</ul>
     </div>
-    <div id="SocialMediaHeader">
-        <a href="http://www.facebook.com/pages/Treksplorer/211283728933340" target="_blank"><img src="images/social_facebook_button_blue_48.png" alt="Visit Us On Facebook"></a>
-        <a href="http://twitter.com/Treksplorer" target="_blank"><img src="images/social_twitter_button_blue_48.png" alt="Follow Us On Twitter"></a>
-        <img src="images/social_linkedin_button_blue_48.png" alt="Connect with Us On LinkedIn">
-        <a href="http://del.icio.us/post?v=2&amp;url=http%3A%2F%2Fwww.treksplorer.com&amp;title=Treksplorer.com+Travel+Destinations+and+Itineraries" target="_blank"><img src="images/social_delicious_button_48.png" alt="Add Us to Delicious"></a>
-        <a href="http://www.stumbleupon.com/submit?url=http%3A%2Fwww.treksplorer.com&amp;title=Treksplorer.com+Travel+Destinations+and+Itineraries"><img src="images/social_stumbleupon_button_color_48.png" alt="Recommend Us On StumbleUpon"></a>
+   
+    <div id="SocialMediaHeader" style="display: none;">
+        <a href="http://www.facebook.com/pages/Treksplorer/211283728933340" target="_blank"><img src="/images/social_facebook_button_blue_48.png" alt="Visit Us On Facebook"></a>
+        <a href="http://twitter.com/Treksplorer" target="_blank"><img src="/images/social_twitter_button_blue_48.png" alt="Follow Us On Twitter"></a>
+        <img src="/images/social_linkedin_button_blue_48.png" alt="Connect with Us On LinkedIn">
+        <a href="http://del.icio.us/post?v=2&amp;url=http%3A%2F%2Fwww.treksplorer.com&amp;title=Treksplorer.com+Travel+Destinations+and+Itineraries" target="_blank"><img src="/images/social_delicious_button_48.png" alt="Add Us to Delicious"></a>
+        <a href="http://www.stumbleupon.com/submit?url=http%3A%2Fwww.treksplorer.com&amp;title=Treksplorer.com+Travel+Destinations+and+Itineraries"><img src="/images/social_stumbleupon_button_color_48.png" alt="Recommend Us On StumbleUpon"></a>
     </div>
+    
+     <div id="HeaderLanguages"> 	 	
+     	    </div>
+    
   </div>
   <div id="RegionPopout">
-  	<div id="RegionHeader">Region Selection<a href="#" id="RegionPopoutClose" onclick="ClosePopup('#RegionPopout');">Close</a></div>
+  	<div id="RegionHeader">Region Selection<a href="javascript:void(0)" id="RegionPopoutClose" onclick="ClosePopup('#RegionPopout', 'fade');">Close</a></div>
     <div id="RegionWrapper">
     	<div class="RegionColumn">
             <div class="RegionName">North America</div>
-                <div class="RegionList"><img src="images/flags/48/ca.png" alt="CA">&nbsp;<a href="http://www.treksplorer.ca" onclick="_gaq.push(['_link', 'http://www.treksplorer.ca']); return false;">Canada</a></div>
-                <div class="RegionList"><img src="images/flags/48/us.png" alt="US">&nbsp;<a href="http://www.treksplorer.com" onclick="_gaq.push(['_link', 'http://www.treksplorer.com']); return false;">United States</a></div>
+                <div class="RegionList"><img src="/images/flags/48/ca.png" alt="CA">&nbsp;<a href="/region/CA/" rel="nofollow canonical">Canada</a></div>
+                <div class="RegionList"><img src="/images/flags/48/us.png" alt="US">&nbsp;<a href="/region/US/" rel="nofollow canonical">United States</a></div>
       
             <div class="RegionName">Europe</div>
-                <div class="RegionList"><img src="images/flags/48/ie.png" alt="IE">&nbsp;<a href="http://www.treksplorer.com/index.php?cc=ie">Ireland</a></div>
-                <div class="RegionList"><img src="images/flags/48/gb.png" alt="GB">&nbsp;<a href="http://www.treksplorer.co.uk" onclick="_gaq.push(['_link', 'http://www.treksplorer.co.uk']); return false;">United Kingdom</a></div>
+                <div class="RegionList"><img src="/images/flags/48/ie.png" alt="IE">&nbsp;<a href="/region/IE/" rel="nofollow canonical">Ireland</a></div>
+                <div class="RegionList"><img src="/images/flags/48/gb.png" alt="GB">&nbsp;<a href="/region/GB/" rel="nofollow canonical">United Kingdom</a></div>
         </div>
          
          <div class="RegionColumn">        
              <div class="RegionName">Asia &amp; The Pacific</div>
-              	<div class="RegionList"><img src="images/flags/48/au.png" alt="AU">&nbsp;<a href="http://www.treksplorer.com/index.php?cc=au">Australia</a></div>
-                <div class="RegionList"><img src="images/flags/48/nz.png" alt="NZ">&nbsp;<a href="http://www.treksplorer.co.nz" onclick="_gaq.push(['_link', 'http://www.treksplorer.co.nz']); return false;">New Zealand</a></div>
+              	<div class="RegionList"><img src="/images/flags/48/au.png" alt="AU">&nbsp;<a href="/region/AU/" rel="nofollow canonical">Australia</a></div>
+                <div class="RegionList"><img src="/images/flags/48/nz.png" alt="NZ">&nbsp;<a href="/region/NZ/" rel="nofollow canonical">New Zealand</a></div>
              
              <div class="RegionName">Africa &amp; The Middle East</div>
-                <div class="RegionList"><img src="images/flags/48/za.png" alt="ZA">&nbsp;<a href="http://www.treksplorer.co.za" onclick="_gaq.push(['_link', 'http://www.treksplorer.co.za']); return false;">South Africa</a></div>
+                <div class="RegionList"><img src="/images/flags/48/za.png" alt="ZA">&nbsp;<a href="/region/ZA/" rel="nofollow canonical">South Africa</a></div>
         </div>
     </div>
-  </div><div id="MainNavMenu">
+  </div>  <div id="MainNavMenuWrapper">
+<div id="MainNavMenu">
 		<ul id="MainNavBar">
-			<li class="NavList"><a href="index.php">Home</a></li> |
-			<li class="NavList"><a href="/destinations/list/">Destinations</a></li>  |
-            <li class="NavList"><a href="/travel-plans/search/">Travel Plans</a></li>  |
-			<li class="NavList"><a href="/responsible-travel/">Responsible Travel</a></li>
-		</ul>
-     <div style="float: right; margin-right: 10px; margin-top: 5px;">
-<script type="text/javascript">
-    	$(function() {
-			$("#place-autocomplete").autocomplete({
-	     	source: "includes/autocomplete-main.php",
-			dataType: "json",
-			contentType: "application/json; charset=utf-8",
-			minLength: 3,
-			select: function(event,ui){
-				location = '/destinations/'+ui.item.country.replace(" ", "-") + '/'+ui.item.place.replace(" ", "-")+'/'+ ui.item.id+'/';
-   			 }
-
-	    	});
-		});
-		$(document).ready(function() {
-			$(".defaultText").focus(function(srcc)
-			{
-				if ($(this).val() == $(this)[0].title)
-				{
-					$(this).removeClass("defaultTextActive");
-					$(this).val("");
-				}
-			});
-			
-			$(".defaultText").blur(function()
-			{
-				if ($(this).val() == "")
-				{
-					$(this).addClass("defaultTextActive");
-					$(this).val($(this)[0].title);
-				}
-			});
-			
-			$(".defaultText").blur();        
-		});
-   </script>
- 		<input class="defaultText" type="text" title="Search For Travel Destinations" id="place-autocomplete" size="28">
-    </div>
+        	<li class="NavList"><a href="#" onclick="OpenDestinations('#DestinationsPopout'); return false;">Destinations</a><a href="#" onclick="OpenDestinations('#DestinationsPopout'); return false;"><img src="/images/arrow-down.png" style="margin-left: 5px; width: 18px;" alt="V"></a></li> <li class="NavList"><a href="/travel-plans/search/">Trip Itineraries</a></li> <li class="NavList"><a href="/Articles/">Travel Articles</a></li> <li class="NavList last"><a href="/aboutus/">About Us</a></li>		</ul>
+   
+    
+</div>    
 </div>
+</div>
+<div id="DestinationsPopoutWrapper">
+<div id="DestinationsPopout">
+
+<div id="DestinationsRegionList" style="display:none;">
+ <h2>World Regions</h2>
+ <ul>
+</ul>
+</div>
+
+<div id="DestinationsCountryList" class="DestinationsPopoutList" style="display: none;">
+ <h2>Popular Countries</h2>
+ <ul>
+</ul>
+</div>
+
+<div id="DestinationsCityList" class="DestinationsPopoutList" style="display: none;">
+ <h2>Popular Places</h2>
+ <ul>
+</ul>
+</div>
+
+<div id="DestinationsActivitiesList" class="DestinationsPopoutList" style="display: none;">
+ <h2>Popular Activities</h2>
+ <ul>
+</ul></div>
+
+<div id="DestinationsTravelGuidesList" class="DestinationsPopoutList">
+ <h2>Popular Travel Guides</h2>
+ <ul>
+<li><a href="/Travel-Guides/Taiwan/Taipei/1206/" title="Taipei Travel Guide">Taipei Travel Guide</a></li><li><a href="/Travel-Guides/Oman/Muscat/1129/" title="Muscat Travel Guide">Muscat Travel Guide</a></li><li><a href="/Travel-Guides/Sweden/Stockholm/48/" title="Stockholm Travel Guide">Stockholm Travel Guide</a></li><li><a href="/Travel-Guides/South-Korea/Seoul/1135/" title="Seoul Travel Guide">Seoul Travel Guide</a></li><li><a href="/Travel-Guides/China/Hong-Kong/1055/" title="Hong Kong Travel Guide">Hong Kong Travel Guide</a></li><li><a href="/Travel-Guides/Turkey/Istanbul/34/" title="Istanbul Travel Guide">Istanbul Travel Guide</a></li><li><a href="/Travel-Guides/Israel/Jerusalem/42/" title="Jerusalem Travel Guide">Jerusalem Travel Guide</a></li><li><a href="/Travel-Guides/Czech-Republic/Prague/18/" title="Prague Travel Guide">Prague Travel Guide</a></li><li><a href="/Travel-Guides/China/Beijing/46/" title="Beijing Travel Guide">Beijing Travel Guide</a></li><li><a href="/Travel-Guides/China/Macau/1382/" title="Macau Travel Guide">Macau Travel Guide</a></li></ul></div>
+
+<div id="DestinationsItinerariesList" class="DestinationsPopoutList">
+ <h2>Popular Trip Itineraries</h2>
+ <ul>
+<li><a href="/Travel-Plans/Discover-Southeast-Asia/42/">Discover Southeast Asia (1 Month)</a></li><li><a href="/Travel-Plans/Singapore-to-Bangkok-Explorer/45/">Singapore to Bangkok Explorer (3 Weeks)</a></li><li><a href="/Travel-Plans/Hanoi-to-Beijing-Overland/43/">Hanoi to Beijing Overland (1 Month)</a></li><li><a href="/Travel-Plans/Cities-of-Germany/14/">Cities of Germany (2 Weeks)</a></li><li><a href="/Travel-Plans/Baltic-Cities-and-Sea/62/">Baltic Cities and Sea (3 Weeks)</a></li><li><a href="/Travel-Plans/Thailand-in-a-Nutshell/41/">Thailand in a Nutshell (2 Weeks)</a></li><li><a href="/Travel-Plans/Northeastern-Vietnam/10/">Northeastern Vietnam (2 Weeks)</a></li><li><a href="/Travel-Plans/Lijiang-to-Beijing-Explorer/44/">Lijiang to Beijing Explorer (1 Month)</a></li><li><a href="/Travel-Plans/Hanoi-to-Hong-Kong-Overland/59/">Hanoi to Hong Kong Overland (2 Weeks)</a></li><li><a href="/Travel-Plans/Kota-Kinabalu-to-Kuching-Explorer/46/">Kota Kinabalu to Kuching Explorer (3 Weeks)</a></li></ul></div>
+
+<div id="DestinationsTagList" class="DestinationsPopoutList" style="display: none;">
+ <h2>Popular Tags</h2>
+ <ul>
+</ul></div>
+
+</div>
+ </div>
   
 	<div id="MainBoxWrapper">
+       <div class="PlaceSection">
       <div class="LeaderboardAd" style="margin-left: 12%; margin-right: 12%;">
 			<script type="text/javascript"><!--
             google_ad_client = "ca-pub-1719689217047941";
@@ -179,8 +163,10 @@
             <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
             </script>
       </div>
-      <div id="TermsHeader">PRIVACY POLICY</div>
-      <div id="Terms">
+      </div>
+      <div class="PlaceSection">
+      <div class="DiscoveryMainHeader">PRIVACY POLICY</div>
+      <div>
       <p>This privacy policy sets out how Trekplorer, Ltd. uses and protects any information that you give Treksplorer, Ltd. when you use this website.</p>
 
 <p>Treksplorer, Ltd. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
@@ -245,19 +231,25 @@ A cookie is a small file which asks permission to be placed on your computer's h
 
 <p>If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.</p>
       </div>
+      </div>
   </div>
    
-<div id="footer">
-	<div id="footerBar">
-		<a href="/aboutus/">About Us</a> |
-        <a href="/aboutus/jobs/">Employment</a> |
-        <a href="/aboutus/advertising/">Advertising</a> |
-        <a href="/aboutus/privacy/">Privacy Policy</a> |
-        <a href="/aboutus/terms/">Terms of Use</a> |
-        <a href="/aboutus/sitemap/">Site Map</a> |
-        <a href="/aboutus/contact/">Contact Us</a>
-      </div>
-	<div id="copyNotice">Copyright © 2011 Treksplorer Ltd. All Rights Reserved.</div>
+<div id="footerWrapper">
+	<div id="footer">
+        <ul id="footerBar">
+            <li class="footerLi"><a href="/aboutus/">About Us</a></li><li class="footerLi"><a href="/aboutus/privacy/">Privacy Policy</a></li><li class="footerLi"><a href="/aboutus/terms/">Terms of Use</a></li><li class="footerLi last"><a href="/aboutus/contact/">Contact Us</a></li>        </ul>
+        
+         <div class="SocialMediaFooter cl fl">
+       <a href="http://www.facebook.com/treksplorer" target="_new"><img src="/images/stainedsm/facebook.png" alt="Like Us On Facebook"></a>
+           <a href="http://www.twitter.com/treksplorer" target="_new"><img src="/images/stainedsm/tweet.png" alt="Follow Us On Twitter"></a>
+          <a href="http://www.linkedin.com/company/treksplorer" target="_new"><img src="/images/stainedsm/linkedin.png" alt="Connect With Us on LinkedIn"></a>
+            <a href="https://plus.google.com/b/116643343116636438238/116643343116636438238/posts" target="_new"> <img src="/images/stainedsm/google-plus.png" alt="Follow Us on Google+"></a>
+                <a href="http://www.flickr.com/photos/treksplorer/" target="_new"><img src="/images/stainedsm/flickr.png" alt="Follow us on Flickr"></a>
+           <a href="http://www.treksplorer.com/rssfeeds/articles/" target="_new"><img src="/images/stainedsm/rss.png" alt="Subscribe To Our RSS Feed"></a>
+          </div>
+        
+		<div id="copyNotice" class="cl">Copyright © 2013 Treksplorer Ltd. All Rights Reserved.</div>
+    </div>
 </div>
 </div>
 
