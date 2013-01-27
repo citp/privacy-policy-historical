@@ -1,12 +1,31 @@
-> *The following text is extracted and transformed from the starkbros.com privacy policy that was archived on 2000-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000511204837id_/http%3A//www.starkbros.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starkbros.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127020942id_/http%3A//www.starkbros.com/our-company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Stark Bro's
 
-**_mySEASONS respects your privacy and believes in keeping your personal information confidential. Your personal information will only be used to enhance your shopping experience with mySEASONS by providing more personalized service. We do not sell or rent any information regarding our customers to any third party._**
+## Privacy Policy & Terms of Use
 
-When placing a mySEASONS order, we need your name, e-mail address, shipping address, credit card number, and expiration date. This allows us to process and fulfill your order as well as update you about your order status.
+Protecting your privacy is important to us. We hope the following statement will help you understand how Stark Bros collects, uses and safeguards the personal information you provide to us on our site.
 
-To personalize your shopping experience we may use the information about your purchases to fashion special offers that we believe will be of special interest to you. You may choose not to receive these offers at any time. If you never want to receive any announcements or special offers from us, please use the [Contact Us](https://web.archive.org/contact_us.cfm) email form and type UNSUBSCRIBE in the message field.
+### How does Stark Bro's protect my information online?
 
-**MySeasons.com Partnerships**  
-We want to provide you with the best possible shopping experience. In order to accomplish this we have established partnerships with some of the best, and most reputable, suppliers of home and gardening products. Our Partners may occasionally send you their catalogs to help make shopping MySeasons easier. You may choose at anytime to be removed from this list. If you never want to receive catalogs from Our Partners, please use the [Contact Us](https://web.archive.org/contact_us.cfm) email form and type DO NOT SEND CATALOGS in the message field.
+We use Secure Sockets Layer (SSL) technology with verified information though DigiCert to protect your online order information as it is transmitted over the Internet. We also utilize advanced firewall technology to protect our equipment from online attacks.
+
+Some versions of browsers and firewalls do not permit communication through secure servers like the ones we use at starkbros.com. To check the security of your Internet connection, look at your browser window after accessing our website, prior to entering your credit card information. An unbroken key icon or a closed lock icon will indicate that SSL is active. You can also double-check the security by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http:" to "https:".
+
+If your browser or firewall does not support SSL, you will not be able to connect to the server. This also means you will not be able to mistakenly place an order through an unsecured connection. If for any reason you cannot access our secure server, you can place your order by phone at 800.325.4180.
+
+### What kind of information is being collected online?
+
+When you request a catalog or place an order online or by phone, we collect information such as your name, email, postal address, phone number, and credit card number. We maintain a record of your present and past purchases with us. We may acquire information about you from our joint marketing partners and unrelated third parties. We also collect basic information on the systems that use our web site in order to build a better online experience for our customers. We may share certain information with other reputable companies; however, we will never share your email address, phone number or credit card information.
+
+In addition, when you visit our website, we make use of remarketing and similar audience systems from third-party vendors, including Google and Google Analytics for Display Advertisers features, to show ads on sites across the internet. These third-party vendors use cookies to serve ads based on past visits to our website.
+
+### Do I have a choice with the use of my information?
+
+You have the options to review, change or modify the use of your personal information in regards to promotional emails, catalog mailings, third-party sharing, and promotional telephone contact. If your account is set up online, all of these options can be found by going to _View My Account »[Promotion Options](https://web.archive.org/web/20130127020942id_/http%3A//www.starkbros.com/account/promotion-options)_. If your account is not yet set up online, you can simply call us at 800.325.4180 to make any of these inquiries or changes. We respect your wishes concerning the use of your personal information.
+
+You can also opt out of Google's use of cookies by visiting the [Ads Preference Manager](https://www.google.com/settings/ads/onweb). You can opt out of third-party vendors use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/). And you can install a [browser add-on](https://tools.google.com/dlpage/gaoptout/) to opt out of Google Analytics data collection. 
+
+### Have additional questions or concerns?
+
+Should you have any additional questions or concerns regarding our privacy policy, please feel free to [Contact us](https://web.archive.org/web/20130127020942id_/http%3A//www.starkbros.com/our-company/contact-information) anytime. You can also contact us if you need to correct or change any account information.
