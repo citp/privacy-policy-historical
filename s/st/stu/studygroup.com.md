@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studygroup.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920055620id_/http%3A//www.studygroup.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studygroup.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128161242id_/http%3A//www.studygroup.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Study Group: Global Leaders in International Education
 
 **
 
