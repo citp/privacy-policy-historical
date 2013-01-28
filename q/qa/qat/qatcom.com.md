@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qatcom.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003043133id_/http%3A//qatcom.com/qataryellowpages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qatcom.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128093512id_/http%3A//qatcom.com/qataryellowpages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -101,7 +101,3 @@ _CONTACT US_
 
   
 Please feel free to contact us at any time with any questions you may have regarding our privacy statement. _[http://www.qatcom.com/contact-qatcom](http://www.qatcom.com/contact-qatcom)_
-
-[](https://web.archive.org/contact/tell_a_friend)
-
-[](https://web.archive.org/contact/tell_a_friend)
