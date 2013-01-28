@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthdiscovery.net privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225063441id_/http%3A//www.healthdiscovery.net/disclosure.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdiscovery.net privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128200254id_/http%3A//www.healthdiscovery.net/disclosure.htm) for the most accurate reproduction.*
 
 # Health Discovery Privacy - Weight Watchers Diet Fitness and Exercise Support
 
