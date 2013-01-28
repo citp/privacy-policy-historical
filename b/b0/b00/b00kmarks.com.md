@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b00kmarks.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125085729id_/http%3A//b00kmarks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b00kmarks.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128103955id_/http%3A//b00kmarks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
