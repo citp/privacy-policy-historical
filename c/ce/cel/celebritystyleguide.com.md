@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritystyleguide.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221165221id_/http%3A//www.celebritystyleguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritystyleguide.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128191509id_/http%3A//www.celebritystyleguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Celebrity Style Guide
 
@@ -66,4 +66,4 @@ If you have any concerns about our use of your information or about this Privacy
 
 Updated and effective September 20th, 2007. 
 
-© 2005-2010 Celebrity Style Guide, Inc., U.S.A, all rights reserved. 
+© 2005-2013 Celebrity Style Guide, Inc., U.S.A, all rights reserved. 
