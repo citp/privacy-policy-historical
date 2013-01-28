@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heartconnect.com privacy policy that was archived on 2012-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121129041105id_/http%3A//www.heartconnect.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heartconnect.com privacy policy that was archived on 2013-01-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130128210228id_/http%3A//www.heartconnect.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#" xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -20,8 +20,9 @@
     var _gaq = _gaq || [];
     _gaq.push(["_setAccount", "UA-1973499-139"],["_setDomainName", "www.heartconnect.com"],["_setCustomVar", 5, "Member", 0, 1],["_trackPageview"],["rollup._setAccount", "UA-1973499-64"],["rollup._setDomainName", "www.heartconnect.com"],["rollup._setCustomVar", 5, "Member", 0, 1],["rollup._trackPageview"]);
     
-    function _track(category, action, action_label, value) {
-      if(window._gaq) _gaq.push(['_trackEvent', category, action, action_label, value]);
+    function _track(category, action, action_label, value, non_interactive) {
+      if(typeof(non_interactive)==='undefined') non_interactive = false;
+      if(window._gaq) _gaq.push(['_trackEvent', category, action, action_label, value, non_interactive]);
     }
     
     function _pageview(href) {
@@ -39,32 +40,48 @@
 </script>
 
 
-<link href="/stylesheets/prototip~9293369c99e5bc1403d86387ba83d67c.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/site/heartconnect/screen~916a4860fa3282b10b7c328dfaba96d5.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/platform/print~657ef1d3b9979aba542c26a45f5c37ad.css" media="print" rel="stylesheet" type="text/css">
+<link href="/stylesheets/site/heartconnect/screen~ec305609be5976ddc8a78ffb49634b42.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/platform/print~82ad53b5fc4fd5ef4e2ae5d07ae1d144.css" media="print" rel="stylesheet" type="text/css">
 <!--[if lt IE 8]>
-<link href="/stylesheets/platform/ie7~a20514047decb28d2177bf7475f36708.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/platform/ie7~4fe9c606ba7e1ad91cf144f9e1b1f52c.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 <!--[if lt IE 9]>
 <link href="/stylesheets/platform/ie8~c964b1b2f32be7a83e6505442708f5e7.css" media="screen" rel="stylesheet" type="text/css" />
 <script src="/javascripts/html5shiv~2a10e079c9abe14373c493341469d01e.js" type="text/javascript"></script>
 <script src="/javascripts/html5shiv-printshiv~e9d79f92e20f42d4e4507cde3f530607.js" type="text/javascript"></script>
 <![endif]-->
+<link href="/stylesheets/bootstrap-tooltips~1132f316ef7843eb2692d99d21362d3c.css" media="screen" rel="stylesheet" type="text/css">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript">
   //<![CDATA[
     var $j = jQuery.noConflict();
   //]]>
 </script>
-<script src="/javascripts/bundles/application~81a854b1b7ab9a58d4ac5fad9d397d1b.js" type="text/javascript"></script>
-<script src="/javascripts/hats~9cb3b5febfb6bcdc65f55ce929421fc8.js" type="text/javascript"></script>
+<script src="/javascripts/bundles/application~c9a9a0e6c0d0079c302638f668683ddc.js" type="text/javascript"></script>
+<script src="/javascripts/bundles/connect~83cf48faca3f4003fecf154d5e3f5102.js" type="text/javascript"></script>
+<script src="/javascripts/bootstrap-tooltips~9055446561fc64d7298dd626a8b6d820.js" type="text/javascript"></script>
+<script src="/javascripts/bootstrap-clickover~7535f854ba211ab1324f979246f6bbb4.js" type="text/javascript"></script>
+<script src="/javascripts/jquery.passwordstrengthindicator~92550f1d708df8176a4179779e84af12.js" type="text/javascript"></script>
+<script src="/javascripts/connect/hats~b86bcf9ec5f7abf13e35b630628b0f71.js" type="text/javascript"></script>
 <script type="text/javascript">
   //<![CDATA[
     function timezoneOffset(a){var b=new Date,c=b.getTimezoneOffset()/30,d=b.getTime()/1000,e=Math.round((a-d)/1800),f=Math.round(c+e)%48;if(f==0){return 0}else if(f>24){f-=Math.ceil(f/48)*48}else if(f<-28){f+=Math.ceil(f/-48)*48}return f*30}
-    document.cookie = 'timezone=' + timezoneOffset(1354162265).toString() + '; path=/';
+    document.cookie = 'timezone=' + timezoneOffset(1359406948).toString() + '; path=/';
   //]]>
 </script>
 
+<script type="text/javascript">
+  //<![CDATA[
+    $j(document).ready(function () {
+      if ($j("[rel=tooltip]").length) {
+        $j("[rel=tooltip]").tooltip();
+      }
+      if ($j("[rel=popover]").length) {
+        $j("[rel=popover]").popover();
+      }
+    });
+  //]]>
+</script>
 
 
 </head>
@@ -195,8 +212,6 @@ Visit Another Community
 <span>Recipes</span></a>
 </li><li><a href="/heart-condition-articles"><img alt="Site Manager Article" height="16" src="/images/platform/icons/resources/site-manager-article~e0292c8bd829081e986a0e25673b1b7a.png" width="16">
 <span>Living With A Heart Condition</span></a>
-</li><li><a href="/health-center/documents"><img alt="Health Center Document" height="16" src="/images/platform/icons/resources/health-center-document~0e2f2978bf787235265b176311c7797f.png" width="16">
-<span>Health Center</span></a>
 </li></ul>
 
 <div class="ad" id="zone-global-left-nav" style="width:160px;">
@@ -213,7 +228,7 @@ Visit Another Community
       
       window._ads = window._ads || {};
       window._ads['global-left-nav'] = {
-        url: "http://ads.alliancehealth.com/www/delivery/ajs.php?category=&cb=9246394700&env=production&has_ugc=true&loc=/privacy-policy&logged_in=false&mobile=false&n=901054924&zoneid=117",
+        url: "http://ads.alliancehealth.com/www/delivery/ajs.php?category=&cb=7948162008&env=production&has_ugc=true&loc=/privacy-policy&logged_in=false&mobile=false&n=901054924&zoneid=117",
         show: function (text) {
           if (!(/alt='House/.test(text) || zone.className.match(/ vendor/))) { zone.className += ' vendor'; }
           zone.className = zone.className.replace('not-loaded', '');
@@ -231,8 +246,8 @@ Visit Another Community
 </script>
 
 <noscript>
-<a href='http://ads.alliancehealth.com/www/delivery/ck.php?category=&amp;cb=5453969861&amp;env=production&amp;has_ugc=true&amp;loc=/privacy-policy&amp;logged_in=false&amp;mobile=false&amp;n=901054924&amp;zoneid=117' target='_blank'>
-<img alt='' border='0' src='http://ads.alliancehealth.com/www/delivery/avw.php?category=&amp;cb=3613513679&amp;env=production&amp;has_ugc=true&amp;loc=/privacy-policy&amp;logged_in=false&amp;mobile=false&amp;n=901054924&amp;zoneid=117' />
+<a href='http://ads.alliancehealth.com/www/delivery/ck.php?category=&amp;cb=5980319078&amp;env=production&amp;has_ugc=true&amp;loc=/privacy-policy&amp;logged_in=false&amp;mobile=false&amp;n=901054924&amp;zoneid=117' target='_blank'>
+<img alt='' border='0' src='http://ads.alliancehealth.com/www/delivery/avw.php?category=&amp;cb=5538981823&amp;env=production&amp;has_ugc=true&amp;loc=/privacy-policy&amp;logged_in=false&amp;mobile=false&amp;n=901054924&amp;zoneid=117' />
 </a>
 </noscript>
 <p class="caption">Advertisement</p>
@@ -605,7 +620,7 @@ Any improper collection or misuse by unauthorized third parties of Personally Id
       
       window._ads = window._ads || {};
       window._ads['footer'] = {
-        url: "http://ads.alliancehealth.com/www/delivery/ajs.php?category=&cb=1934213210&env=production&has_ugc=true&loc=/privacy-policy&logged_in=false&mobile=false&n=3794863443&zoneid=122",
+        url: "http://ads.alliancehealth.com/www/delivery/ajs.php?category=&cb=9927045410&env=production&has_ugc=true&loc=/privacy-policy&logged_in=false&mobile=false&n=3794863443&zoneid=122",
         show: function (text) {
           if (!(/alt='House/.test(text) || zone.className.match(/ vendor/))) { zone.className += ' vendor'; }
           zone.className = zone.className.replace('not-loaded', '');
@@ -623,8 +638,8 @@ Any improper collection or misuse by unauthorized third parties of Personally Id
 </script>
 
 <noscript>
-<a href='http://ads.alliancehealth.com/www/delivery/ck.php?category=&amp;cb=6771067508&amp;env=production&amp;has_ugc=true&amp;loc=/privacy-policy&amp;logged_in=false&amp;mobile=false&amp;n=3794863443&amp;zoneid=122' target='_blank'>
-<img alt='' border='0' src='http://ads.alliancehealth.com/www/delivery/avw.php?category=&amp;cb=9222497069&amp;env=production&amp;has_ugc=true&amp;loc=/privacy-policy&amp;logged_in=false&amp;mobile=false&amp;n=3794863443&amp;zoneid=122' />
+<a href='http://ads.alliancehealth.com/www/delivery/ck.php?category=&amp;cb=8488035033&amp;env=production&amp;has_ugc=true&amp;loc=/privacy-policy&amp;logged_in=false&amp;mobile=false&amp;n=3794863443&amp;zoneid=122' target='_blank'>
+<img alt='' border='0' src='http://ads.alliancehealth.com/www/delivery/avw.php?category=&amp;cb=741727246&amp;env=production&amp;has_ugc=true&amp;loc=/privacy-policy&amp;logged_in=false&amp;mobile=false&amp;n=3794863443&amp;zoneid=122' />
 </a>
 </noscript>
 <p class="caption">Advertisement</p>
@@ -650,7 +665,6 @@ Any improper collection or misuse by unauthorized third parties of Personally Id
 </div>
 
 </div>
-
 
 
 
