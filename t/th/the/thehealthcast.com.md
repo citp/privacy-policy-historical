@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2012-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120824145403id_/http%3A//www.thehealthcast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128040815id_/http%3A//thehealthcast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Your Privacy Rights – TheHealthCast.com
 
@@ -29,7 +29,7 @@ TheHealthCast.com may share your information with our affiliates or with service
 
 **What are my choices?**
 
-If you would like TheHealthCast.com to stop providing your information to these third parties, please send a “do not share” request to TheHealthCast.com by emailing us at [privacy@optimalfusion.com](mailto:privacy@optimalfusion.com), or by contacting us as directed below under “Additional Information.”
+If you would like TheHealthCast.com to stop providing your information to these third parties, please send a “do not share” request to TheHealthCast.com by emailing us at [privacy@optimalfusion.com](mailto:privacy@optimalfusion.com?subject=TheHealthCast.com), or by contacting us as directed below under “Additional Information.”
 
 **TheHealthCast.com’s special note to parents**
 
