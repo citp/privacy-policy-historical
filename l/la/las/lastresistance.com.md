@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lastresistance.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114121535id_/http%3A//lastresistance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastresistance.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128083624id_/http%3A//lastresistance.com/privacy) for the most accurate reproduction.*
 
 # Privacy : The Last Resistance
 
-[](https://web.archive.org/web/20121114121535id_/http://lastresistance.com/privacy/ "Print page")[](https://web.archive.org/web/20121114121535id_/http://lastresistance.com/privacy/ "PDF page")[](https://web.archive.org/web/20121114121535id_/http://lastresistance.com/privacy/ "Email page")
+[](https://web.archive.org/web/20130128083624id_/http%3A//lastresistance.com/ "Print page")[](https://web.archive.org/web/20130128083624id_/http%3A//lastresistance.com/ "PDF page")[](https://web.archive.org/web/20130128083624id_/http%3A//lastresistance.com/ "Email page")
 
 Privacy Policy for www.lastresistance.com
 
