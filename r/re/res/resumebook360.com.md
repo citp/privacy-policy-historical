@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumebook360.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122025602id_/http%3A//resumebook360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumebook360.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128015601id_/http%3A//www.resumebook360.com/privacy-policy) for the most accurate reproduction.*
 
 # Resumebook360 - Privacy Policy
 
@@ -37,6 +37,7 @@ Information Sharing and Disclosure
 1\. Resumebook360 does not sell personal information about you with other people or non-affiliated companies except to provide products or services you've requested or under the following circumstances:
 
   * We provide your professional information, resume, and contact information to recruiters who signed up on Resumebook360 or other websites owned by us. You may specify in your privacy settings not to show your profile and resume to a certain or to all to recruiters. If you select these settings, our systems will attempt to hide your profile appropriately. However you understand and agree that we do not guarantee this or any privacy feature on this site, and you should assume that all recruiter users, regardless of your privacy settings, may be able to view your professional information and resume.
+  * We provide your professional information, resume, and contact information to other Job Boards for the purpose of distributing your information to additional recruiters. These partners have entered into information sharing agreements with us and agreed to use your information only for providing exposure of your resume to additional recruiters. These partners have further agreed to remove your information upon request by you.
   * We provide the information to trusted partners who work on behalf of or with Resumebook360. These companies may use your personal information to help Resumebook360 communicate with you about offers from Resumebook360 and our marketing partners. However, these companies do not have any independent right to share this information.
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
   * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Resumebook360's terms of use, or as otherwise required by law.
@@ -84,5 +85,9 @@ Questions and Suggestions
 If you have questions or suggestions, please contact us at contact[a]resumebook360.com.
 
 Effective Date: December 27, 2010
+
+Changes:
+
+12/22/2012: Updated Information Sharing and Disclosure section to include partners of Resumebook360. 
 
  
