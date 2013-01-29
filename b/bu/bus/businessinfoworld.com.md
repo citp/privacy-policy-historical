@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessinfoworld.com privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618203132id_/http%3A//www.businessinfoworld.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinfoworld.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129091121id_/http%3A//businessinfoworld.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
