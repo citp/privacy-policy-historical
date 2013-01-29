@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citethisforme.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128102940id_/http%3A//www.citethisforme.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citethisforme.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129115443id_/http%3A//www.citethisforme.com/us/privacy) for the most accurate reproduction.*
 
 # Cite This For Me - Privacy policy
 
