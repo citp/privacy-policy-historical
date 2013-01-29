@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eworldofads.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129125141id_/http%3A//eworldofads.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eworldofads.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129225153id_/http%3A//www.eworldofads.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Free Classified Ads,Auctions & Chat
 
