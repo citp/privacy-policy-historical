@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medplusbeauty.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119021959id_/http%3A//www.medplusbeauty.com/control/privacyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medplusbeauty.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129120730id_/http%3A//www.medplusbeauty.com/control/privacyPage) for the most accurate reproduction.*
 
 # Skin Care Products Online | Health & Beauty Care | Makeup | Hair Products | Security Privacy | Medplus E-Commerce Store | MedPlus Beauty
 
