@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filthydatez.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210120729id_/http%3A//filthydatez.com/index.php%3Fm%3Dpages%26g%3Dgeneral%26p%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filthydatez.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129031843id_/http%3A//filthydatez.com/index.php%3Fm%3Dpages%26g%3Dgeneral%26p%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement | Filthy Datez
 
