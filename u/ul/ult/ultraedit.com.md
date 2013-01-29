@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultraedit.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021134940id_/http%3A//www.ultraedit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultraedit.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129173937id_/http%3A//www.ultraedit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # IDM Computer Solutions, Inc. Privacy Policy
 
@@ -10,9 +10,11 @@ We will ask you when we need information that personally identifies you (persona
 
 For example: If you choose a service or transaction that requires payment, such as making a purchase, we will request personal information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number. 
 
+Additionally, when placing an order with a credit card on our website, your IP address may be used as part of IDM's fraud prevention measures for the sole purpose of reconciling the physical address you provide on your order to your IP geolocation. This information is deleted from our database once your order has been processed and imported into our system. This is a standard practice in online security and prevents the use of your credit card for placement of fraudulent orders by others.
+
 This website does make use of cookies to enhance your website experience (for example, registering in the forum) and to collect site usage information so that we can improve our site (for example, Google Analytics). All cookies used by our website contain only anonymous data and will never store your personal information (your name, email address, etc.). Additionally, this site does not use cookies to market or advertise to visitors.
 
-**IDM will never collect and store personal information about you without your knowledge and consent.**
+**IDM will never collect or store your personal information without your knowledge and consent.**
 
 Use of your Personal Information
 
@@ -60,8 +62,6 @@ IDM Computer Solutions, Inc.
 Suite B  
 Hamilton, OH 45011 
 
-[](http://www.ultraedit.com/products/ultrafinder.html)
-
 It's **easy** to purchase corporate licensing from us!
 
 [](http://www.ultraedit.com/register-buy/corporate_solutions.html)
@@ -83,11 +83,6 @@ Now supporting PortableApps!
 [](http://www.ultraedit.com/products/mobility.html)
 
 Unleash the power of the total file management solution on your flash drive!
-
-  * [Learn more](http://www.ultraedit.com/products/mobility.html)
-  * [Buy a license now!](https://www.ultraedit.com/store/product.php?&productid=16239)
-
-
 
 Sign up now for...
 
