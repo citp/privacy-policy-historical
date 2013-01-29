@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogupp.com privacy policy that was archived on 2012-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120921034259id_/http%3A//www.blogupp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogupp.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129072259id_/http%3A//www.blogupp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,13 +31,13 @@ Note that BlogUpp can be used through Google Gadgets, Widgetbox gallery, or othe
   5. **Acquisition**  
 We reserve the right to transfer the information that identifies you in the event of a transfer of ownership of BlogUpp, such as acquisition by or merger with another company. If an acquiring company should plan to materially change this privacy policy, we will notify you beforehand. 
   6. **Security**  
-We take steps to help protect your information. We require password protection physical, electronic, and procedural safeguards to protect information about you. Please note however that no technological environment is completely secure and we cannot guarantee the confidentiality of any communication or material transmitted to BlogUpp over the Internet. If you have any other questions about the security of our website and service, please contact us. 
+We take steps to help protect your information. We require password protection physical, electronic and procedural safeguards to protect information about you. Please note however that no technological environment is completely secure and we cannot guarantee the confidentiality of any communication or material transmitted to BlogUpp over the Internet. If you have any other questions about the security of our website and service, please contact us. 
   7. **Changes in Privacy Policy**  
 From time to time we may update this Privacy Policy and will post a notice of any significant changes on our website. You should visit this page periodically to review any such changes to the privacy policy. Your continued use of our service will be subject to the terms of the then-current Privacy Policy. 
   8. **Canceling the Use of the Service**  
 You always have the option to stop using the service. Simply remove the widget from your site. Advertisers may request to have their campaigns stopped by submitting a request by email. We will act on your request as promptly as possible. 
   9. **How to Contact Us**  
 If you have any questions or concerns about BlogUpp Privacy Policy or its implementation, please contact us by using "Support" link from the menu. 
-  10. This policy is effective as of January 01, 2009.
+  10. This policy is effective as of March 04, 2008.
 
 
