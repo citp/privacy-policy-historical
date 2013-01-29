@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mandco.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014183053id_/http%3A//www.mandco.com/privacy%2Bcookie-policy/page/privacycookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandco.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129112047id_/http%3A//www.mandco.com/privacy%2Bcookie-policy/page/privacycookiepolicy) for the most accurate reproduction.*
 
-# M&Co. Official Online Shop
+# Privacy And Cookie Policy - M&Co.
 
 * Using your information
 * Cookies
