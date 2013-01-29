@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frugalexperiments.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124194723id_/http%3A//www.frugalexperiments.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalexperiments.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129015414id_/http%3A//www.frugalexperiments.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Frugal Experiments | Privacy Policy
+# Privacy Policy - Frugal Experiments
 
 Privacy Policy:  
 What information do we collect?  
