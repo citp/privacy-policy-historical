@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the yourcreativecrew.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012005425id_/http%3A//www.yourcreativecrew.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcreativecrew.com privacy policy that was archived on 2013-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130129043045id_/http%3A//yourcreativecrew.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Details
+     Published on Thursday, 16 December 2010 17:25 
 
 What information do we collect?
 
@@ -46,6 +49,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 www.yourcreativecrew.com
 
-  * [](http://addthis.com/bookmark.php?v=250&pub=xa-4af3e1272f178ef0)
-
-
+You have no rights to post comments
