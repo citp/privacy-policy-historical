@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the smallseotool.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022015705id_/http%3A//smallseotool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallseotool.com privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130162543id_/http%3A//smallseotool.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-We encourage you to read this Policy carefully. If you have any questions about this Policy, our use of your Personal Information, or your dealings with this website, please feel free to contact us. We may update this Policy from time to time in our sole discretion to reflect changes in our use of your Personal Information and/or applicable law. Any changes made to this Policy will be reflected in an updated policy (denoted by an updated date above) posted on our website at SmallSeoTools.com. 
+We encourage you to read this Policy carefully. If you have any questions about this Policy, our use of your Personal Information, or your dealings with this website, please feel free to contact us.
+
+We may update this Policy from time to time in our sole discretion to reflect changes in our use of your Personal Information and/or applicable law. Any changes made to this Policy will be reflected in an updated policy (denoted by an updated date above) posted on our website at SmallSeoTools.com. 
 
 ## SmallSeoTools.com Customer Privacy
 
@@ -12,7 +14,9 @@ Customers who use the products and services available through our website (colle
 
 ### How We Use Personal Information
 
-Any Personal Information collected and stored by us is used strictly for billing purposes, contacting our customers, evaluating a prospective customer’s website content, and for such other purposes as are described in this Policy. SmallSeoTools.com does not share any customer Personal Information with any third party other than those business partners which are directly involved in managing our day to day business operations, such as, without limitation, our billing and payment processes. We reserves the right to disclose your Personal Information without notice or consent as it deems necessary (a) to conform to applicable law; (b) when we believe that disclosure is necessary to protect our rights and property; (c) to protect the safety of our users, us, or other third parties; (d) to comply with any judicial proceeding, court order, or legal process served on us; and/or (e) pursuant to an acquisition, merger, sale of assets or other business transfer. 
+Any Personal Information collected and stored by us is used strictly for billing purposes, contacting our customers, evaluating a prospective customer’s website content, and for such other purposes as are described in this Policy. SmallSeoTools.com does not share any customer Personal Information with any third party other than those business partners which are directly involved in managing our day to day business operations, such as, without limitation, our billing and payment processes. 
+
+We reserves the right to disclose your Personal Information without notice or consent as it deems necessary (a) to conform to applicable law; (b) when we believe that disclosure is necessary to protect our rights and property; (c) to protect the safety of our users, us, or other third parties; (d) to comply with any judicial proceeding, court order, or legal process served on us; and/or (e) pursuant to an acquisition, merger, sale of assets or other business transfer. 
 
 ### Direct Email
 
@@ -32,8 +36,31 @@ To allow our customers the convenience of not having to remember their login inf
 
 ### General Internet User Privacy
 
-In order to gather and aggregate statistical data for our customers, we may from time to time place persistent or temporary cookies on a visitor’s hard drive when visiting a customer’s website. These cookies are not capable of tracking, retaining, or storing any Personal Information, and they are used for no other reason than to gather the same general internet information that is available to all internet service providers, search engines, and websites. Examples of this information include, without limitation, a visitor’s general location based on IP address, information from the visitor’s browser such as browser type, type of operating system, keywords used while searching, websites visited, monitor resolution settings. We may from time to time also authorize and facilitate the use of cookies from trusted third party business partners to gather and aggregate additional, anonymous, and non-Personal Information data from general internet visitors for the purpose of providing our customers with additional information about their viewing audience. We does not gather, retain or store any data from these third party partners. We has also chosen to partner only with businesses that have shown a strong commitment to online privacy and have represented and warranted to Us that any and all data collected on our behalf is non-Personal Information. We do not condone, support, or participate in any activities that could potentially gather, retrieve or store any Personal Information about or from internet users. 
+In order to gather and aggregate statistical data for our customers, we may from time to time place persistent or temporary cookies on a visitor’s hard drive when visiting a customer’s website. These cookies are not capable of tracking, retaining, or storing any Personal Information, and they are used for no other reason than to gather the same general internet information that is available to all internet service providers, search engines, and websites. Examples of this information include, without limitation, a visitor’s general location based on IP address, information from the visitor’s browser such as browser type, type of operating system, keywords used while searching, websites visited, monitor resolution settings. 
+
+We may from time to time also authorize and facilitate the use of cookies from trusted third party business partners to gather and aggregate additional, anonymous, and non-Personal Information data from general internet visitors for the purpose of providing our customers with additional information about their viewing audience. 
+
+We does not gather, retain or store any data from these third party partners. We has also chosen to partner only with businesses that have shown a strong commitment to online privacy and have represented and warranted to Us that any and all data collected on our behalf is non-Personal Information. 
+
+We do not condone, support, or participate in any activities that could potentially gather, retrieve or store any Personal Information about or from internet users. 
 
 ### Links to Other Websites
 
-Our  website contains links to other sites that are not owned or controlled by Us. Please be aware that we are not responsible for the privacy practices of such third party websites and this Policy does not govern such other websites or your use of them. This Policy applies only to information collected by our website. We encourage you to be aware when you leave our site and to read the privacy policies of each and every website that collects personally identifiable information. (1) For a comprehensive list of definitions and what constitutes “personally identifiable information” please visit http://www.w3.org/TR/1998/WD-P3P10-harmonization-19980330 (2) For more information Regarding Cookies please see – http://www.bbbonline.org/UnderstandingPrivacy/toolbox/cookies.asp Additional Information Regarding Online Privacy Can Be Found At: http://www.bbbonline.org http://www.privacyalliance.org http://www.truste.org 
+Our  website contains links to other sites that are not owned or controlled by Us. Please be aware that we are not responsible for the privacy practices of such third party websites and this Policy does not govern such other websites or your use of them. This Policy applies only to information collected by our website. 
+
+We encourage you to be aware when you leave our site and to read the privacy policies of each and every website that collects personally identifiable information. 
+
+  1. For a comprehensive list of definitions and what constitutes “personally identifiable information” please visit http://www.w3.org/TR/1998/WD-P3P10-harmonization-19980330
+  2. For more information Regarding Cookies please see – http://www.bbbonline.org/UnderstandingPrivacy/toolbox/cookies.asp
+
+
+
+Additional Information Regarding Online Privacy Can Be Found At: 
+
+[http://www.bbbonline.org](http://www.bbbonline.org/ "http://www.bbbonline.org")
+
+[http://www.privacyalliance.org](http://www.privacyalliance.org/ "http://www.privacyalliance.org")
+
+[http://www.truste.org](http://www.truste.org/ "http://www.truste.org")
+
+Updated: November 24, 2012 
