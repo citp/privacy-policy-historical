@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sceg.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012152422id_/http%3A//www.sceg.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sceg.com privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130181825id_/http%3A//www.sceg.com/en/privacy-policy) for the most accurate reproduction.*
 
 # SCE&G - Privacy Policy
 
