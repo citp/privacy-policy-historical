@@ -1,0 +1,502 @@
+<!--The following is the downloaded HTML source of the offgridworld.com privacy policy that was archived on 2013-01-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130130020827id_/http%3A//offgridworld.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Privacy</title>
+<meta name="robots" content="noodp,noydir">
+<link rel="Shortcut Icon" href="http://offgridworld.com/wp-content/themes/enterprise/images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="http://offgridworld.com/wp-content/themes/enterprise/style.css" type="text/css" media="screen">
+<link rel="alternate" type="application/rss+xml" title=" » Feed" href="http://offgridworld.com/feed/">
+<link rel="alternate" type="application/rss+xml" title=" » Comments Feed" href="http://offgridworld.com/comments/feed/">
+<link rel="canonical" href="http://offgridworld.com/privacy/">
+<link rel="stylesheet" id="farbtastic-css" href="http://offgridworld.com/wp-admin/css/farbtastic.css?ver=1.3u1" type="text/css" media="all">
+<link rel="stylesheet" id="NextGEN-css" href="http://offgridworld.com/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" id="thickbox-css" href="http://offgridworld.com/wp-includes/js/thickbox/thickbox.css?ver=3.4.1" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://offgridworld.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.2" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://platform.stumbleupon.com/1/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://offgridworld.com/wp-includes/js/jquery/jquery.js?ver=1.7.2"></script>
+<script type="text/javascript" src="http://offgridworld.com/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.9995"></script>
+<script type="text/javascript" src="http://offgridworld.com/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.06"></script>
+<script type="text/javascript" src="http://offgridworld.com/wp-includes/js/comment-reply.js?ver=3.4.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://offgridworld.com/xmlrpc.php?rsd">
+<script type="text/javascript" src="http://offgridworld.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+<script type="text/javascript">
+//<![CDATA[
+function alo_em_pubblic_form ()
+{
+//edit : added all this for
+  var alo_cf_array = new Array();
+      document.alo_easymail_widget_form.submit.value="sending...";
+  document.alo_easymail_widget_form.submit.disabled = true;
+  document.getElementById('alo_em_widget_loading').style.display = "inline";
+  document.getElementById('alo_easymail_widget_feedback').innerHTML = "";
+  
+   var alo_em_sack = new sack("http://offgridworld.com/wp-admin/admin-ajax.php" );    
+
+  alo_em_sack.execute = 1;
+  alo_em_sack.method = 'POST';
+  alo_em_sack.setVar( "action", "alo_em_pubblic_form_check" );
+  alo_em_sack.setVar( "alo_em_opt_name", document.alo_easymail_widget_form.alo_em_opt_name.value );
+  alo_em_sack.setVar( "alo_em_opt_email", document.alo_easymail_widget_form.alo_em_opt_email.value );
+    alo_em_sack.setVar( "alo_easymail_txt_generic_error", 'Error during operation.' );  
+  alo_em_sack.setVar( "alo_em_error_email_incorrect", "The e-email address is not correct");
+  alo_em_sack.setVar( "alo_em_error_name_empty", "The name field is empty");
+    alo_em_sack.setVar( "alo_em_error_email_added", "Warning: this email address has already been subscribed, but not activated. We are now sending another activation email");
+  alo_em_sack.setVar( "alo_em_error_email_activated", "Warning: this email address has already been subscribed");
+  alo_em_sack.setVar( "alo_em_error_on_sending", "Error during sending: please try again");
+  alo_em_sack.setVar( "alo_em_txt_ok", "Subscription successful. You will receive an e-mail with a link. You have to click on the link to activate your subscription.");
+  alo_em_sack.setVar( "alo_em_txt_subscribe", "Subscribe");
+  alo_em_sack.setVar( "alo_em_lang_code", "");  
+  
+  var cbs = document.getElementById('alo_easymail_widget_form').getElementsByTagName('input');
+  var length = cbs.length;
+  var lists = "";
+  for (var i=0; i < length; i++) {
+  	if (cbs[i].name == 'alo_em_form_lists' +'[]' && cbs[i].type == 'checkbox') {
+  		if ( cbs[i].checked ) lists += cbs[i].value + ",";
+  	}
+  }
+  alo_em_sack.setVar( "alo_em_form_lists", lists );
+  alo_em_sack.setVar( "alo_em_nonce", '38a6d4904e' );  
+  //alo_em_sack.onError = function() { alert('Ajax error' )};
+  alo_em_sack.runAJAX();
+
+  return true;
+
+} 
+//]]>
+</script>
+<link rel="stylesheet" type="text/css" href="http://offgridworld.com/wp-content/plugins/getsocial/lib/getsocialstyles.php?color=EAEAF4&amp;border=D9D9ED&amp;w=73&amp;strip=light&amp;prehide=yes&amp;rc=yes&amp;stralign=left">
+<script type="text/javascript">var $opt_initial_top = 200;var $opt_scrolled_top = 20;var $opt_browser_width = 1140;var $opt_box_left = 250;</script><script type="text/javascript" src="http://offgridworld.com/wp-content/plugins/getsocial/lib/getsocial.js"></script>					</head><body class="page page-id-799 page-template-default custom-background header-full-width sidebar-content-sidebar"><div class="getsocial"><div class="sharebutton"><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="" data-related="">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div class="sharebutton"><div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-like" data-href="http%3A%2F%2Foffgridworld.com%2Fprivacy%2F" data-send="true" data-layout="box_count" data-width="63" data-show-faces="false"></div></div><div class="sharebutton"><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script><g:plusone size="tall" href="http://offgridworld.com/privacy/"></g:plusone></div><div class="sharebutton"><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Foffgridworld.com%2Fprivacy%2F&amp;media=http%3A%2F%2Fs.wordpress.com%2Fmshots%2Fv1%2Fhttp%253A%252F%252Foffgridworld.com%252Fprivacy%252F%3Fw%3D600&amp;description=" class="pin-it-button" count-layout="vertical"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It"></a><script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script></div><div class="sharebutton"><su:badge layout="5"></su:badge> <script type="text/javascript"> (function() {      var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;     li.src = window.location.protocol + '//platform.stumbleupon.com/1/widgets.js';      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s); })(); </script></div><div class="sharebutton sharefooter"><a href="http://www.riyaz.net/getsocial" title="GetSocial Plugin by riyaz.net">GetSocial</a></div></div><!-- <meta name="NextGEN" version="1.9.6" /> -->
+
+<!-- ========= Google Maps Store Locator for WordPress (v1.9.5) | http://www.viadat.com/store-locator/ ========== -->
+<!-- No store locator on this page, so no unnecessary scripts for better site performance. ()-->
+<!-- ========= End Google Maps Store Locator for WordPress ========== -->
+
+<link type="text/css" rel="stylesheet" href="http://offgridworld.com/wp-content/plugins/wordpress-simple-paypal-shopping-cart/wp_shopping_cart_style.css">
+
+	<script type="text/javascript">
+	<!--
+	//
+	function ReadForm (obj1, tst) 
+	{ 
+	    // Read the user form
+	    var i,j,pos;
+	    val_total="";val_combo="";		
+	
+	    for (i=0; i<obj1.length; i++) 
+	    {     
+	        // run entire form
+	        obj = obj1.elements[i];           // a form element
+	
+	        if (obj.type == "select-one") 
+	        {   // just selects
+	            if (obj.name == "quantity" ||
+	                obj.name == "amount") continue;
+		        pos = obj.selectedIndex;        // which option selected
+		        val = obj.options[pos].value;   // selected value
+		        val_combo = val_combo + "(" + val + ")";
+	        }
+	    }
+		// Now summarize everything we have processed above
+		val_total = obj1.product_tmp.value + val_combo;
+		obj1.product.value = val_total;
+	}
+	//-->
+	</script>	
+<style type="text/css" media="screen">
+	#rotator {
+		position: relative;
+		width: 600px;
+		height: 235px;
+		margin: 0; padding: 0;
+		overflow: hidden;
+	}
+</style>
+	
+<link id="MediaRSS" rel="alternate" type="application/rss+xml" title="NextGEN Gallery RSS Feed" href="http://offgridworld.com/wp-content/plugins/nextgen-gallery/xml/media-rss.php">
+<link rel="pingback" href="http://offgridworld.com/xmlrpc.php">
+<center><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3576170165420759";
+/* Off-Grid-World-728-Top */
+google_ad_slot = "8896522812";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=196147307177561";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33529625-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script type="text/javascript">
+//<![CDATA[
+	var screen_res = ""; 
+	function writeCookie(name,value,hours) {
+		var the_cookie = name+"="+escape(value)+"; expires=";
+		var expires = "";
+		hours=hours+0; //convert to number
+		if (hours > 0) { //0==expires on browser close
+			var cdate = new Date();
+			cdate.setTime(cdate.getTime()+(hours*60*60*1000));
+			expires = expires+cdate.toGMTString();
+		} 
+		document.cookie = the_cookie+expires+"; path=/; domain=";
+	}
+	screen_res = screen.width+" x "+screen.height;
+	if (screen_res==" x ") screen_res = window.screen.width+" x "+window.screen.height;
+	if (screen_res==" x ") screen_res = screen.availWidth+" x "+screen.availHeight;
+	if (screen_res!=" x ") { 
+		writeCookie("wassup_screen_res",screen_res,"48"); //keep 2 days
+	} else {
+		screen_res = "";
+	}
+//]]>
+</script>
+<style type="text/css">#header { background: url(http://offgridworld.com/wp-content/uploads/2012/10/header3.jpg) no-repeat; }#title a, #title a:hover, #description { color: #333; }</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #17240f; }
+</style>
+
+
+<div id="wrap">
+<div id="header"><div class="wrap"><div id="title-area"><p id="title"><a href="http://offgridworld.com/" title=""></a></p></div><!-- end #title-area --></div><!-- end .wrap --></div><!--end #header--><div id="nav"><div class="wrap"><ul id="menu-main" class="menu menu-primary"><li id="menu-item-256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-256"><a href="http://offgridworld.com/">Home</a></li>
+<li id="menu-item-257" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-257"><a href="http://offgridworld.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545"><a href="http://offgridworld.com/about/our-team/">Our Team</a></li>
+	<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a href="http://offgridworld.com/resources/">Resources</a></li>
+	<li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="http://offgridworld.com/resources/about-shipping-containers/">About Shipping Containers</a></li>
+	<li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="http://offgridworld.com/resources/about-open-source/">About Open Source</a></li>
+	<li id="menu-item-529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="http://offgridworld.com/invention/">Invention</a></li>
+	<li id="menu-item-804" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-799 current_page_item menu-item-804"><a href="http://offgridworld.com/privacy/">Privacy</a></li>
+	<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="http://offgridworld.com/about/contact/">Contact</a></li>
+	<li id="menu-item-736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-736"><a href="http://offgridworld.com/how-you-can-help/">How You Can Help</a>
+	<ul class="sub-menu">
+		<li id="menu-item-405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-405"><a href="http://offgridworld.com/contributors/">Contributors</a></li>
+		<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="http://offgridworld.com/off-grid-world-expo/sponsors/">Sponsors</a></li>
+		<li id="menu-item-735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="http://offgridworld.com/partners/">Partners</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263"><a href="http://offgridworld.com/designs/">Designs</a>
+<ul class="sub-menu">
+	<li id="menu-item-681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-681"><a href="http://offgridworld.com/designs/25k-1280sqft-3br-1ba-shipping-container-home/">$25k 1280sqft 3BR 1BA Shipping Container Home</a></li>
+	<li id="menu-item-264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-264"><a href="http://offgridworld.com/designs/off-grid-cabin/">Off Grid Cabin</a></li>
+</ul>
+</li>
+<li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a href="http://offgridworld.com/advertise/">Advertise</a></li>
+<li id="menu-item-1070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1070"><a href="http://offgridworld.com/off-grid-world-book/">Off Grid World Book</a></li>
+<li id="menu-item-1089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1089"><a href="http://offgridworld.com/newsletter/">Newsletter</a></li>
+<li id="menu-item-670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-670"><a title="Off Grid World Magazine: Monthly Digital $19.99/yr" href="http://offgridworld.com/subscribe/">MAGAZINE</a>
+<ul class="sub-menu">
+	<li id="menu-item-1109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1109"><a href="http://offgridworld.com/authors-artists/">Authors &amp; Artists</a></li>
+	<li id="menu-item-1110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110"><a href="http://offgridworld.com/authors-artists/submission-guidelines/">Submission Guidelines</a></li>
+	<li id="menu-item-1111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1111"><a href="http://offgridworld.com/authors-artists/submit-content/">Submit Content</a></li>
+</ul>
+</li>
+<li id="menu-item-1100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1100"><a title="Off Grid World Sign Up: Get our FREE Newsletter" href="http://offgridworld.com/wp-login.php?action=register">Register</a></li>
+<li id="menu-item-1131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1131"><a href="http://offgridworld.com/donate/">Donate</a></li>
+<li class="right twitter"><a href="http://twitter.com/OffGridWorld">Follow OGW</a></li></ul></div><!-- end .wrap --></div><div id="subnav"><div class="wrap"><ul id="menu-sub" class="menu menu-secondary"><li id="menu-item-269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-269"><a href="http://offgridworld.com/category/blog/">Blog</a></li>
+<li id="menu-item-270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-270"><a href="http://offgridworld.com/category/off-grid-news/">Off Grid News</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-275"><a href="http://offgridworld.com/category/sustainable-living/">Sustainable Living</a>
+<ul class="sub-menu">
+	<li id="menu-item-276" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-276"><a href="http://offgridworld.com/category/sustainable-living/homesteading-sustainable-living/">Homesteading</a></li>
+</ul>
+</li>
+<li id="menu-item-272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-272"><a href="http://offgridworld.com/category/renewable-energy/">Renewable Energy</a></li>
+<li id="menu-item-271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-271"><a href="http://offgridworld.com/category/preparedness/">Preparedness</a></li>
+<li id="menu-item-273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-273"><a href="http://offgridworld.com/category/survival/">Survival</a>
+<ul class="sub-menu">
+	<li id="menu-item-274" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-274"><a href="http://offgridworld.com/category/survival/self-defense/">Self Defense</a></li>
+</ul>
+</li>
+</ul></div><!-- end .wrap --></div><div id="inner">	<div id="content-sidebar-wrap">
+				<div id="content" class="hfeed">
+				<div class="post-799 page type-page status-publish hentry">
+
+				<h1 class="entry-title">Privacy</h1>
+		
+				<div class="entry-content">
+			<div id="getsocialmain"><div class="addthis_toolbox addthis_default_style " addthis:url="http://offgridworld.com/privacy/" addthis:title="Privacy "><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_google_plusone" g:plusone:size="medium"></a><a class="addthis_counter addthis_pill_style"></a></div><p><strong>Privacy Policy</strong></p>
+<p>If you require any more information or have any questions about our privacy policy, please feel free to <a href="mailto:contact@offgridworld.com">contact us by email</a> at .</p>
+<p>At www.offgridworld.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.offgridworld.com and how it is used.</p>
+<p><strong>Log Files</strong><br>
+Like many other Web sites, www.offgridworld.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
+<p><strong>Cookies and Web Beacons</strong><br>
+www.offgridworld.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
+<p><strong>DoubleClick DART Cookie</strong><br>
+.:: Google, as a third party vendor, uses cookies to serve ads on www.offgridworld.com.<br>
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.offgridworld.com and other sites on the Internet.<br>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html</p>
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….<br>
+Google Adsense</p>
+<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.offgridworld.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p>
+<p>www.offgridworld.com has no access to or control over these cookies that are used by third-party advertisers.</p>
+<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.offgridworld.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
+<div><a class="addthis_button" href="//addthis.com/bookmark.php?v=250" addthis:url="http://offgridworld.com/privacy/" addthis:title="Privacy "><img src="//cache.addthis.com/cachefly/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a></div></div><!-- #getsocialmain -->		</div><!-- end .entry-content -->
+		
+	</div><!-- end .postclass -->
+			</div><!-- end #content -->
+		<div id="sidebar" class="sidebar widget-area">
+<div id="text-2" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">Follow us on Facebook</h4>
+			<div class="textwidget"><div class="fb-like-box" data-href="http://www.facebook.com/OffGridWorld" data-width="292" data-show-faces="false" data-stream="false" data-header="false"></div></div>
+		</div></div>
+<div id="text-4" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">Sponsor Links</h4>
+			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3576170165420759";
+/* Off-Grid-World-300-Sidebar */
+google_ad_slot = "0806594027";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div></div>
+<div id="adrotate_widgets-2" class="widget widget_adrotate_widgets"><div class="widget-wrap"><h4 class="widgettitle">ADVERTISE</h4>
+<div style="float:none;margin:0;padding:3px;clear:none;width:290px;height:290px;border:none;"><div style="margin:10px;padding:0px;clear:none;float:left;width:125px;height:125px;border:none;"><a href="http://offgridworld.com/wp-content/plugins/adrotate/adrotate-out.php?track=NSwwLDEsaHR0cDovL3d3dy5iaXRzb2ZlYXJ0aC5jb20v" target="_blank"><img src="http://offgridworld.com/wp-content/uploads/2012/11/ad-125-BOElogo-ad.gif"></a></div><div style="margin:10px;padding:0px;clear:none;float:left;width:125px;height:125px;border:none;"><a href="http://offgridworld.com/wp-content/plugins/adrotate/adrotate-out.php?track=NCwwLDEsaHR0cDovL29mZmdyaWR3b3JsZC5jb20vYWR2ZXJ0aXNlLw="><img src="http://offgridworld.com/wp-content/uploads/2012/11/ad-125.jpg"></a></div><div style="margin:10px;padding:0px;clear:none;float:left;width:125px;height:125px;border:none;"><a href="http://offgridworld.com/wp-content/plugins/adrotate/adrotate-out.php?track=MiwwLDEsaHR0cDovL29mZmdyaWR3b3JsZC5jb20vYWR2ZXJ0aXNlLw="><img src="http://offgridworld.com/wp-content/uploads/2012/11/ad-125.jpg"></a></div><div style="margin:10px;padding:0px;clear:none;float:left;width:125px;height:125px;border:none;"><a href="http://offgridworld.com/wp-content/plugins/adrotate/adrotate-out.php?track=MywwLDEsaHR0cDovL29mZmdyaWR3b3JsZC5jb20vYWR2ZXJ0aXNlLw="><img src="http://offgridworld.com/wp-content/uploads/2012/11/ad-125.jpg"></a></div></div></div></div>
+		<div id="recent-posts-2" class="widget widget_recent_entries"><div class="widget-wrap">		<h4 class="widgettitle">Recent Posts</h4>
+		<ul>
+				<li><a href="http://offgridworld.com/off-grid-world-ebook/" title="Off Grid World Ebook">Off Grid World Ebook</a></li>
+				<li><a href="http://offgridworld.com/off-grid-land-community-gardens-farm/" title="Off Grid Land: Community Gardens &amp; Farm">Off Grid Land: Community Gardens &amp; Farm</a></li>
+				<li><a href="http://offgridworld.com/off-grid-hackerspace-open-lab/" title="Off Grid Hackerspace: Open Lab">Off Grid Hackerspace: Open Lab</a></li>
+				<li><a href="http://offgridworld.com/2012-end-of-the-world-nope-but-dont-stop-preparing-for-zombies/" title="2012 End Of The World? Nope… But Don’t Stop Preparing for ZOMBIES!">2012 End Of The World? Nope… But Don’t Stop Preparing for ZOMBIES!</a></li>
+				<li><a href="http://offgridworld.com/farming-algae-for-biofuel-the-renewable-energy-crop/" title="Farming Algae For BioFuel: The Renewable Energy Crop">Farming Algae For BioFuel: The Renewable Energy Crop</a></li>
+				<li><a href="http://offgridworld.com/1440sqft-3br-1ba-shipping-container-home-with-living-roof-and-4000-watt-solar-power-system/" title="1440sqft 3BR 1BA Shipping Container Home with Living Roof and 4000 Watt Solar Power System">1440sqft 3BR 1BA Shipping Container Home with Living Roof and 4000 Watt Solar Power System</a></li>
+				<li><a href="http://offgridworld.com/60000lbs-of-organic-food-per-acre/" title="60,000lbs of Organic Food Per Acre!">60,000lbs of Organic Food Per Acre!</a></li>
+				<li><a href="http://offgridworld.com/whats-stopping-you-from-going-off-grid-now/" title="What’s Stopping You From Going Off Grid NOW?">What’s Stopping You From Going Off Grid NOW?</a></li>
+				<li><a href="http://offgridworld.com/2560sqft-5br-2ba-2-story-shipping-container-home-for-50k/" title="2560sqft 5BR 2BA 2 Story Shipping Container Home For $50k">2560sqft 5BR 2BA 2 Story Shipping Container Home For $50k</a></li>
+				<li><a href="http://offgridworld.com/pricey-or-practical-prefab-modular-architecture-vs-recycled-shipping-container-homes/" title="Pricey or Practical? Prefab Modular Architecture vs Recycled Shipping Container Homes">Pricey or Practical? Prefab Modular Architecture vs Recycled Shipping Container Homes</a></li>
+				</ul>
+		</div></div>
+<div id="views-2" class="widget widget_views"><div class="widget-wrap"><h4 class="widgettitle">Most Popular Posts</h4>
+<ul>
+<li><a href="http://offgridworld.com/shipping-container-home-designs/" title="Shipping Container Home Designs">Shipping Container Home Designs</a> - 24,909 views</li><li><a href="http://offgridworld.com/3500sqft-expandable-disaster-relief-shelter/" title="3500sqft EXPANDABLE Disaster Relief Shelter">3500sqft EXPANDABLE Disaster Relief Shelter</a> - 12,469 views</li><li><a href="http://offgridworld.com/off-grid-community/" title="Off Grid Community">Off Grid Community</a> - 6,677 views</li><li><a href="http://offgridworld.com/vertical-farm/" title="Vertical Farm">Vertical Farm</a> - 5,730 views</li><li><a href="http://offgridworld.com/off-grid-cabin/" title="Off Grid Cabin">Off Grid Cabin</a> - 4,459 views</li><li><a href="http://offgridworld.com/2560sqft-5br-2ba-2-story-shipping-container-home-for-50k/" title="2560sqft 5BR 2BA 2 Story Shipping Container Home For $50k">2560sqft 5BR 2BA 2 Story Shipping Container Home For $50k</a> - 4,333 views</li><li><a href="http://offgridworld.com/zombie-fortress/" title="Zombie Fortress">Zombie Fortress</a> - 4,320 views</li><li><a href="http://offgridworld.com/how-to-build-a-40-acre-off-grid-community-ecovillage-for-less-than-1-sq-ft/" title="How To Build a 40 Acre Off Grid Community (Ecovillage) For LESS Than $1 Sq Ft!">How To Build a 40 Acre Off Grid Community (Ecovillage) For LESS Than $1 Sq Ft!</a> - 3,730 views</li><li><a href="http://offgridworld.com/2880sqft-contemporary-container-home-design/" title="2880sqft Contemporary Container Home Design">2880sqft Contemporary Container Home Design</a> - 2,491 views</li><li><a href="http://offgridworld.com/1440sqft-3br-1ba-shipping-container-home-with-living-roof-and-4000-watt-solar-power-system/" title="1440sqft 3BR 1BA Shipping Container Home with Living Roof and 4000 Watt Solar Power System">1440sqft 3BR 1BA Shipping Container Home with Living Roof and 4000 Watt Solar Power System</a> - 2,358 views</li><li><a href="http://offgridworld.com/off-grid-world-expo-shelter-water-food-jobs/" title="Off Grid World Expo: Shelter Water Food Jobs">Off Grid World Expo: Shelter Water Food Jobs</a> - 1,850 views</li><li><a href="http://offgridworld.com/40-shipping-container-applications/" title="40+ Shipping Container Applications">40+ Shipping Container Applications</a> - 1,579 views</li><li><a href="http://offgridworld.com/worlds-biggest-blackout-are-you-prepared/" title="World’s Biggest Blackout! Are You Prepared?">World’s Biggest Blackout! Are You Prepared?</a> - 1,519 views</li><li><a href="http://offgridworld.com/algae-biofuel-farm-photobioreactor-harvester-extraction-system/" title="Algae Biofuel Farm: Photobioreactor Harvester Extraction System">Algae Biofuel Farm: Photobioreactor Harvester Extraction System</a> - 1,302 views</li><li><a href="http://offgridworld.com/25k-1280sqft-3br-1ba-shipping-container-home/" title="1280sqft 3BR 1BA Shipping Container Home for $25k">1280sqft 3BR 1BA Shipping Container Home for $25k</a> - 1,298 views</li><li><a href="http://offgridworld.com/pricey-or-practical-prefab-modular-architecture-vs-recycled-shipping-container-homes/" title="Pricey or Practical? Prefab Modular Architecture vs Recycled Shipping Container Homes">Pricey or Practical? Prefab Modular Architecture vs Recycled Shipping Container Homes</a> - 1,267 views</li><li><a href="http://offgridworld.com/off-grid-project-rehousing-america/" title="Off Grid Project: Rehousing America">Off Grid Project: Rehousing America</a> - 1,252 views</li><li><a href="http://offgridworld.com/60000lbs-of-organic-food-per-acre/" title="60,000lbs of Organic Food Per Acre!">60,000lbs of Organic Food Per Acre!</a> - 1,189 views</li><li><a href="http://offgridworld.com/living-off-grid-doesnt-mean-primitive-living/" title="Living Off Grid Doesn’t Mean “Primitive Living”">Living Off Grid Doesn’t Mean “Primitive Living”</a> - 1,156 views</li><li><a href="http://offgridworld.com/whats-stopping-you-from-going-off-grid-now/" title="What’s Stopping You From Going Off Grid NOW?">What’s Stopping You From Going Off Grid NOW?</a> - 1,089 views</li></ul>
+</div></div>
+<div id="linkcat-2" class="widget widget_links"><div class="widget-wrap"><h4 class="widgettitle">Blogroll</h4>
+
+	<ul class="xoxo blogroll">
+<li><a href="http://www.agri-tecture.com/" title="Agritecture" target="_blank">Agritecture</a></li>
+<li><a href="http://www.houseofstraw.com" title="House of Straw" target="_blank">House of Straw</a></li>
+<li><a href="http://science.howstuffworks.com/environmental/green-science/living-off-the-grid.htm" title="How Living Off the Grid Works" target="_blank">Living Off The Grid</a></li>
+<li><a href="http://offgridsurvival.com/" title="Off grid survival" target="_blank">Off Grid Survival</a></li>
+<li><a href="http://www.offthegrid.com/" title="Off The Grid: Survival Store" target="_blank">Off The Grid</a></li>
+<li><a href="http://www.offthegridnews.com/" target="_blank">Off The Grid News</a></li>
+<li><a href="http://prepperchicks0.homestead.com/" title="Prepping for Survival…a Girls Point of View!" target="_blank">Prepper Chicks</a></li>
+<li><a href="http://www.tinyhouseliving.com/" title="Tiny House Living" target="_blank">Tiny House Living</a></li>
+
+	</ul>
+</div></div>
+
+<div id="categories-3" class="widget widget_categories"><div class="widget-wrap"><h4 class="widgettitle">Categories</h4>
+		<ul>
+	<li class="cat-item cat-item-1"><a href="http://offgridworld.com/category/blog/" title="View all posts filed under Blog">Blog</a>
+</li>
+	<li class="cat-item cat-item-117"><a href="http://offgridworld.com/category/sustainable-living/homesteading-sustainable-living/" title="Homesteading articles, how-to's, news and information.">Homesteading</a>
+</li>
+	<li class="cat-item cat-item-110"><a href="http://offgridworld.com/category/off-grid-news/" title="Off Grid News: Current news from the off grid world community.">Off Grid News</a>
+</li>
+	<li class="cat-item cat-item-180"><a href="http://offgridworld.com/category/sustainable-living/permaculture-sustainable-living/" title="Permaculture articles, information and news.">Permaculture</a>
+</li>
+	<li class="cat-item cat-item-103"><a href="http://offgridworld.com/category/preparedness/" title="View all posts filed under Preparedness">Preparedness</a>
+</li>
+	<li class="cat-item cat-item-105"><a href="http://offgridworld.com/category/renewable-energy/" title="Renewable energy news and information from around the world.">Renewable Energy</a>
+</li>
+	<li class="cat-item cat-item-118"><a href="http://offgridworld.com/category/survival/self-defense/" title="Self defense articles, how-to's, news and information.">Self Defense</a>
+</li>
+	<li class="cat-item cat-item-104"><a href="http://offgridworld.com/category/survival/" title="View all posts filed under Survival">Survival</a>
+</li>
+	<li class="cat-item cat-item-106"><a href="http://offgridworld.com/category/sustainable-living/" title="View all posts filed under Sustainable Living">Sustainable Living</a>
+</li>
+		</ul>
+</div></div>
+<div id="tag_cloud-3" class="widget widget_tag_cloud"><div class="widget-wrap"><h4 class="widgettitle">Tags</h4>
+<div class="tagcloud"><a href="http://offgridworld.com/tag/cargo-container-home/" class="tag-link-250" title="3 topics" style="font-size: 10.4pt;">cargo container home</a>
+<a href="http://offgridworld.com/tag/container-home/" class="tag-link-8" title="3 topics" style="font-size: 10.4pt;">container home</a>
+<a href="http://offgridworld.com/tag/container-homes/" class="tag-link-12" title="3 topics" style="font-size: 10.4pt;">container homes</a>
+<a href="http://offgridworld.com/tag/ecovillage/" class="tag-link-276" title="3 topics" style="font-size: 10.4pt;">ecovillage</a>
+<a href="http://offgridworld.com/tag/farming/" class="tag-link-131" title="4 topics" style="font-size: 12.4pt;">farming</a>
+<a href="http://offgridworld.com/tag/homestead/" class="tag-link-127" title="5 topics" style="font-size: 14pt;">homestead</a>
+<a href="http://offgridworld.com/tag/homesteading/" class="tag-link-95" title="11 topics" style="font-size: 20pt;">homesteading</a>
+<a href="http://offgridworld.com/tag/hydroponics/" class="tag-link-195" title="5 topics" style="font-size: 14pt;">hydroponics</a>
+<a href="http://offgridworld.com/tag/isbu/" class="tag-link-251" title="3 topics" style="font-size: 10.4pt;">ISBU</a>
+<a href="http://offgridworld.com/tag/living-off-grid/" class="tag-link-101" title="5 topics" style="font-size: 14pt;">living off grid</a>
+<a href="http://offgridworld.com/tag/modern-homesteading/" class="tag-link-295" title="3 topics" style="font-size: 10.4pt;">modern homesteading</a>
+<a href="http://offgridworld.com/tag/off-grid/" class="tag-link-4" title="14 topics" style="font-size: 22pt;">Off Grid</a>
+<a href="http://offgridworld.com/tag/off-grid-cabin/" class="tag-link-6" title="6 topics" style="font-size: 15.4pt;">off grid cabin</a>
+<a href="http://offgridworld.com/tag/off-grid-community/" class="tag-link-220" title="7 topics" style="font-size: 16.4pt;">off grid community</a>
+<a href="http://offgridworld.com/tag/off-grid-home/" class="tag-link-7" title="7 topics" style="font-size: 16.4pt;">off grid home</a>
+<a href="http://offgridworld.com/tag/off-grid-living/" class="tag-link-17" title="14 topics" style="font-size: 22pt;">off grid living</a>
+<a href="http://offgridworld.com/tag/off-grid-survival/" class="tag-link-52" title="2 topics" style="font-size: 8pt;">off grid survival</a>
+<a href="http://offgridworld.com/tag/off-grid-world/" class="tag-link-199" title="3 topics" style="font-size: 10.4pt;">off grid world</a>
+<a href="http://offgridworld.com/tag/off-the-grid/" class="tag-link-5" title="8 topics" style="font-size: 17.4pt;">off the grid</a>
+<a href="http://offgridworld.com/tag/off-the-grid-living/" class="tag-link-51" title="2 topics" style="font-size: 8pt;">off the grid living</a>
+<a href="http://offgridworld.com/tag/permaculture/" class="tag-link-132" title="12 topics" style="font-size: 20.6pt;">permaculture</a>
+<a href="http://offgridworld.com/tag/recycled-homes/" class="tag-link-291" title="3 topics" style="font-size: 10.4pt;">recycled homes</a>
+<a href="http://offgridworld.com/tag/recycled-housing/" class="tag-link-87" title="3 topics" style="font-size: 10.4pt;">recycled housing</a>
+<a href="http://offgridworld.com/tag/renewable-energy-2/" class="tag-link-243" title="5 topics" style="font-size: 14pt;">renewable energy</a>
+<a href="http://offgridworld.com/tag/shipping-container-home/" class="tag-link-9" title="10 topics" style="font-size: 19.2pt;">shipping container home</a>
+<a href="http://offgridworld.com/tag/shipping-container-home-designs/" class="tag-link-11" title="7 topics" style="font-size: 16.4pt;">shipping container home designs</a>
+<a href="http://offgridworld.com/tag/shipping-container-home-plans/" class="tag-link-316" title="3 topics" style="font-size: 10.4pt;">shipping container home plans</a>
+<a href="http://offgridworld.com/tag/shipping-container-homes/" class="tag-link-10" title="9 topics" style="font-size: 18.4pt;">shipping container homes</a>
+<a href="http://offgridworld.com/tag/shipping-container-house/" class="tag-link-24" title="4 topics" style="font-size: 12.4pt;">shipping container house</a>
+<a href="http://offgridworld.com/tag/solar-cabin/" class="tag-link-23" title="7 topics" style="font-size: 16.4pt;">solar cabin</a>
+<a href="http://offgridworld.com/tag/solar-home/" class="tag-link-22" title="2 topics" style="font-size: 8pt;">solar home</a>
+<a href="http://offgridworld.com/tag/solar-power/" class="tag-link-29" title="5 topics" style="font-size: 14pt;">solar power</a>
+<a href="http://offgridworld.com/tag/solar-powered-home/" class="tag-link-74" title="3 topics" style="font-size: 10.4pt;">solar powered home</a>
+<a href="http://offgridworld.com/tag/solar-power-system/" class="tag-link-30" title="4 topics" style="font-size: 12.4pt;">solar power system</a>
+<a href="http://offgridworld.com/tag/solar-shelter/" class="tag-link-68" title="2 topics" style="font-size: 8pt;">solar shelter</a>
+<a href="http://offgridworld.com/tag/sustainable-living-2/" class="tag-link-107" title="7 topics" style="font-size: 16.4pt;">SUSTAINABLE LIVING</a>
+<a href="http://offgridworld.com/tag/wind-power/" class="tag-link-69" title="3 topics" style="font-size: 10.4pt;">wind power</a>
+<a href="http://offgridworld.com/tag/zombie-apocalypse/" class="tag-link-33" title="4 topics" style="font-size: 12.4pt;">zombie apocalypse</a>
+<a href="http://offgridworld.com/tag/zombie-apocalypse-survival/" class="tag-link-40" title="2 topics" style="font-size: 8pt;">zombie apocalypse survival</a>
+<a href="http://offgridworld.com/tag/zombie-defense/" class="tag-link-38" title="2 topics" style="font-size: 8pt;">zombie defense</a>
+<a href="http://offgridworld.com/tag/zombie-preparedness/" class="tag-link-43" title="3 topics" style="font-size: 10.4pt;">zombie preparedness</a>
+<a href="http://offgridworld.com/tag/zombies/" class="tag-link-37" title="3 topics" style="font-size: 10.4pt;">zombies</a>
+<a href="http://offgridworld.com/tag/zombie-squad/" class="tag-link-39" title="2 topics" style="font-size: 8pt;">zombie squad</a>
+<a href="http://offgridworld.com/tag/zombie-survival/" class="tag-link-34" title="3 topics" style="font-size: 10.4pt;">zombie survival</a>
+<a href="http://offgridworld.com/tag/zombie-survival-tactics/" class="tag-link-42" title="2 topics" style="font-size: 8pt;">zombie survival tactics</a></div>
+</div></div>
+<div id="wassup-widget" class="widget wassup_widget"><div class="widget-wrap"><h4 class="widgettitle">Visitors Online</h4>
+<ul class="links"><li><strong style="padding:0 4px 0 4px;background:#ddd;color:#777">08</strong> visitor(s) online</li><li style="font-size:6pt; color:#bbb;">powered by <a style="color:#777;" href="http://www.wpwp.org" title="WassUp - Real Time Visitors Tracking">WassUp</a></li></ul></div></div>
+<div id="meta-5" class="widget widget_meta"><div class="widget-wrap"><h4 class="widgettitle">Login/Register</h4>
+			<ul>
+			<li><a href="http://offgridworld.com/wp-login.php?action=register">Register</a></li>			<li><a href="http://offgridworld.com/wp-login.php">Log in</a></li>
+			<li><a href="http://offgridworld.com/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://offgridworld.com/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+			<li>I'm using <a href="http://www.adrotateplugin.com/" target="_blank" title="AdRotate">AdRotate</a></li>
+			</ul>
+</div></div>
+<div id="text-7" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"></div>
+		</div></div>
+</div>
+	</div><!-- end #content-sidebar-wrap -->
+	<div id="sidebar-alt" class="sidebar widget-area">
+<div id="text-6" class="widget widget_text"><div class="widget-wrap"><h4 class="widgettitle">Sponsors</h4>
+			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-3576170165420759";
+/* Off-Grid-World-160-Sidebar-Left */
+google_ad_slot = "5988471798";
+google_ad_width = 160;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div></div>
+</div>
+</div><!-- end #inner --><div id="footer-widgets" class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><div id="featured-page-2" class="widget featuredpage"><div class="widget-wrap"><div class="post-2 page type-page status-publish hentry"><a href="http://offgridworld.com/about/" title="About" class="alignnone"><img width="270" height="80" src="http://offgridworld.com/wp-content/uploads/2012/09/Open-Community-3D-4-270x80.jpg" class="attachment-homepage" alt="Off Grid Community" title="Off Grid Community"></a><h2><a href="http://offgridworld.com/about/" title="About">About</a></h2><p>OFF GRID COMMUNITY PROJECT Sustainable Living/Off-The-Grid -&nbsp;An off grid&nbsp;community&nbsp;that is 100% self sufficient in every way.
+
+ABOUT THE FOUNDER:&nbsp;This site is run by me (&nbsp;Eric Wichman&nbsp;), I am the director and owner of Off Grid World (future non-profit organization). This site is the brainchild of years of my research into sustainable living, renewable energy, and countless thousands of hours of work to move off grid. It has evolved from a simple idea for a personal homestead for my … <a href="http://offgridworld.com/about/" class="more-link">[Read More...]</a></p></div><!--end post_class()-->
+
+</div></div>
+</div><div class="footer-widgets-2 widget-area"><div id="featured-page-3" class="widget featuredpage"><div class="widget-wrap"><div class="post-98 page type-page status-publish hentry"><a href="http://offgridworld.com/resources/about-open-source/" title="About Open Source" class="alignnone"><img width="270" height="80" src="http://offgridworld.com/wp-content/uploads/2012/09/BenjaminFranklin2-270x80.jpg" class="attachment-homepage" alt="Benjamin Franklin" title="Benjamin Franklin"></a><h2><a href="http://offgridworld.com/resources/about-open-source/" title="About Open Source">About Open Source</a></h2><p>Open Source
+
+
+Open source will eventually power the world. From software, to&nbsp;manufacturing,&nbsp;community&nbsp;building and everything in between, open source is the future today. Those that embrace this philosophy today will become the innovators of tomorrow.
+
+When you look at the software industry you’ll notice a small niche that started some 10-15 years ago. I’ll try to summarize the best I can. it started out with simple licenses for computer programs that were either hard to find or that … <a href="http://offgridworld.com/resources/about-open-source/" class="more-link">[Read More...]</a></p></div><!--end post_class()-->
+
+</div></div>
+</div><div class="footer-widgets-3 widget-area"><div id="featured-page-4" class="widget featuredpage"><div class="widget-wrap"><div class="post-649 page type-page status-publish hentry"><a href="http://offgridworld.com/subscribe/" title="SUBSCRIBE" class="alignnone"><img width="270" height="80" src="http://offgridworld.com/wp-content/uploads/2012/09/ogw-mag-cover1-270x80.jpg" class="attachment-homepage" alt="Off Grid World Magazine" title="Off Grid World Magazine"></a><h2><a href="http://offgridworld.com/subscribe/" title="SUBSCRIBE">SUBSCRIBE</a></h2><p>Subscribe to OFF GRID WORLD digital magazine!
+Subscribe to OFF GRID WORLD magazine! A monthly full color digital magazine all about sustainable living, renewable energy, permaculture, natural building, and off grid living. (Premiere issue will be released in March 2013)
+
+Price: $19.99 (Digital Edition)
+Subscribe
+
+FREE Copy of OFF GRID WORLD BOOK&nbsp;To everyone who subscribes before March 1st.
+
+About the book: 182 Pages of Off Grid Ideas, Writings, Drawings &amp; Designs: All about living … <a href="http://offgridworld.com/subscribe/" class="more-link">[Read More...]</a></p></div><!--end post_class()-->
+
+</div></div>
+</div></div><!-- end .wrap --></div><div id="footer" class="footer"><div class="wrap"><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to top of page</a></p></div><div class="creds"><p>Copyright © 2013 · <a href="http://www.studiopress.com/themes/enterprise" title="Enterprise Theme">Enterprise Theme</a> on <a href="http://www.studiopress.com/" title="Genesis Framework">Genesis Framework</a> · <a href="http://wordpress.org/" title="WordPress">WordPress</a> · <a href="http://offgridworld.com/wp-login.php">Log in</a></p></div></div><!-- end .wrap --></div><!-- end #footer -->
+</div><!-- end #wrap -->
+
+<!--[if IE]>
+<script language=javascript>
+//<![CDATA[
+	if (screen_res=="") {
+		screen_res = screen.width + " x " + screen.height;
+	}
+	if (screen_res!=" x ") {
+		var cdate = new Date();
+		cdate.setTime(cdate.getTime()+(48*60*60*1000));
+		var cexpires = cdate.toGMTString();
+		//var the_cookie = "wassup_screen_res="+escape(screen_res)+"; expires="+cexpires;
+		document.cookie = "wassup_screen_res=" + escape(screen_res)+ "; path=/; domain=" + document.domain;
+
+	}
+//]]>
+</script>
+<![endif]--><!--
+<p class="small"> WassUp 1.8.3.1 timestamp: 2013-01-30 02:04:16AM UTC (02:04AM)<br />
+If above timestamp is not current time, this page is cached.</p> -->
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3576170165420759";
+/* Off-Grid-World-728-Footer */
+google_ad_slot = "8195142053";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center><script type="text/javascript">
+
+var addthis_config = {"data_track_clickback":true,"data_track_addressbar":false,"data_track_textcopy":false};
+var addthis_product = 'wpp-265';
+</script><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4f6faaab55ba26b8"></script><script type="text/javascript"></script>
+<script type="text/javascript">tb_pathToImage = "http://offgridworld.com/wp-includes/js/thickbox/loadingAnimation.gif";tb_closeImage = "http://offgridworld.com/wp-includes/js/thickbox/tb-close.png";</script>
+
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	$("#rotator").cycle({ 
+	    fx: 'fade',
+	    timeout: 3000,
+	    speed: 1000,
+	    pause: 1,
+	    fit: 1
+	});
+});
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/offgridworld.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif","closeImage":"http:\/\/offgridworld.com\/wp-includes\/js\/thickbox\/tb-close.png"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://offgridworld.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20111117"></script>
+<script type="text/javascript" src="http://offgridworld.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.js?ver=3.09"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/offgridworld.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://offgridworld.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.2"></script>
+<script type="text/javascript" src="http://offgridworld.com/wp-content/plugins/wp-cycle/jquery.cycle.all.min.js?ver=3.4.1"></script>
+<!--wp_footer-->
+
+</body></html>
