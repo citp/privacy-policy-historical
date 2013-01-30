@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsinkent.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004130129id_/http%3A//www.jobsinkent.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinkent.com privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130103616id_/http%3A//www.jobsinkent.com/about/privacy.html) for the most accurate reproduction.*
 
 # JobsInKent.com - Privacy Policy
 
@@ -24,3 +24,8 @@ Please note that JIK Software Limited reserves the right to remove from our data
 
 **Statistical Information:**  
 We provide statistical information about site visitors and users to recruiters (such as the number of CVs on the database, or the number of visitors to the site) and for other lawful purposes. We provide this information to customers, advertisers, suppliers and other reputable third parties. This will not include any information that enables them to identify individuals.
+
+**Anti-Spam Policy**  
+JIK Software Ltd are against sending unsolicited bulk email (spam). All of our mailing lists are opt-in and contain links to be removed from any lists. You can additionally [contact us](https://web.archive.org/contact/) to be removed manually by a member of our team.
+
+JIK Software Ltd does not authorise the harvesting, mining or collection of e-mail addresses or other information from our services. You may not use any of our services, or cause any of our services, to send spam.
