@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the equitablepcib.com privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813180719id_/http%3A//equitablepcib.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equitablepcib.com privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130185223id_/http%3A//equitablepcib.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 * **Overview**
 
-Thank you for visiting www.equitablepcib.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+Thank you for visiting equitablepcib.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
 * **What Type of Information We Collect**
 
