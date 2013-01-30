@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the app-o-trap.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503225114id_/http%3A//www.app-o-trap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app-o-trap.com privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130160529id_/http%3A//www.app-o-trap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ The following privacy policy is licensed under the [Creative Commons](http://cre
 
 ### Website Visitors
 
-Like most website operators, App-o-Trap collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. App-o-Trap’s purpose in collecting non-personally identifying information is to better understand how App-o-Trap’s visitors use its website so we can make improvements. From time to time, App-o-Trap may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Like most website operators, App-o-Trap collects _non-personally-identifying_ information of the sort that web browsers and servers typically make available, such as the browser type, your language preference, the referring site, the date and time of each request, and any Javascript errors that occur during your visit. App-o-Trap’s purpose in collecting non-personally identifying information is to better understand how App-o-Trap’s visitors use its website so we can make improvements and fix bugs. From time to time, App-o-Trap may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
 App-o-Trap avoids collecting potentially personally-identifying information like Internet Protocol (IP) addresses except to the extent necessary to provide certain services. 
 
@@ -16,7 +16,7 @@ App-o-Trap may collect statistics about the behavior of visitors to its websites
 
 ### Google App Engine
 
-Some of App-o-Trap's services may be provided by Google App Engine, a service operated by Google. As such, you should assume that any information you provide to App-o-Trap may be available to App-o-Trap and to Google. For details about the specific privacy guarantees made by Google, please refer to [code.google.com/appengine/privacy.html](http://code.google.com/appengine/privacy.html).
+Some of App-o-Trap's services may be provided by Google App Engine, a service operated by Google (a third party service provider). As such, you should assume that any information you provide to App-o-Trap may be available to App-o-Trap and to Google. For details about the specific privacy guarantees made by Google in its capacity as a service provider, please refer to [code.google.com/appengine/privacy.html](http://code.google.com/appengine/privacy.html).
 
 ### Protection of Certain Personally-Identifying Information
 
@@ -25,6 +25,10 @@ App-o-Trap discloses potentially personally-identifying and personally-identifyi
 ### Cookies
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. App-o-Trap uses cookies to help App-o-Trap identify and track visitors, their usage of App-o-Trap website, and their website access preferences. App-o-Trap visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using App-o-Trap’s websites, with the drawback that certain features of App-o-Trap’s websites may not function properly without the aid of cookies.
+
+### Javascript Errors
+
+App-o-Trap’s software products are complex. Occasionally, error conditions which we did not anticipate may occur. If such an error condition occurs on your computer, we may log a small amount of non-personally-identifying information about the error in order to help our engineers prevent it from occurring again.
 
 ### Business Transfers
 
