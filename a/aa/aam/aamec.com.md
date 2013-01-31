@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aamec.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022134504id_/http%3A//www.aamec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamec.com privacy policy that was archived on 2013-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130201002643id_/http%3A//aamec.com/privacy-policy) for the most accurate reproduction.*
 
-# It's an AMMEC Word - Privacy Policy
+# AAMEC WORLD - Privacy Policy
 
 **THIS WEBSITE** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
