@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instaproofs.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004172629id_/http%3A//www.instaproofs.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaproofs.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131050141id_/http%3A//www.instaproofs.com/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy at Instaproofs | Instaproofs.com
 
@@ -14,7 +14,7 @@ USA
 
 You may contact us by e-mail at [support@instaproofs.com](mailto:support@instaproofs.com)
 
-You may contact us by phone at 435-258-6278
+You may contact us by phone at 435-258-6197
 
 ### Dispute Resolution
 
