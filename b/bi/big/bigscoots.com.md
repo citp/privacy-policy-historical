@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigscoots.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005154825id_/http%3A//www.bigscoots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigscoots.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131030608id_/http%3A//www.bigscoots.com/privacy) for the most accurate reproduction.*
 
 # BigScoots - Privacy Policy
 
