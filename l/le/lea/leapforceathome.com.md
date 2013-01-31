@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leapforceathome.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626195609id_/http%3A//www.leapforceathome.com/qrp/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leapforceathome.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131012302id_/http%3A//www.leapforceathome.com/qrp/public/privacy%3Bjsessionid%3D046008A508E27B9F0D1B9B3F4FD34205.lf-prod-03-2209) for the most accurate reproduction.*
 
 # Leapforce About Leapforce
 
