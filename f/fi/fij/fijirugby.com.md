@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fijirugby.com privacy policy that was archived on 2012-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120421034019id_/http%3A//www.fijirugby.com/pages.cfm/about-union/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fijirugby.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131094909id_/http%3A//www.fijirugby.com/pages.cfm/about-union/privacy-policy.html) for the most accurate reproduction.*
 
 # Welcome to Fiji Rugby Union - Privacy Policy
 
