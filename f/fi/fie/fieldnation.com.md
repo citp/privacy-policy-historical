@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fieldnation.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214123322id_/https%3A//www.fieldnation.com/tech_reg/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fieldnation.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131060526id_/https%3A//www.fieldnation.com/tech_reg/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Field Nation
 
@@ -29,6 +29,10 @@ Agents, affiliates and customers of FieldNation, LLC who have access to your Per
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that Personally Identifiable Information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. We may share your Personally Identifiable Information if disclosure is necessary to (i) comply with a court order or other legal process, (ii) protect our rights and property or that of our licensors, or (iii) enforce our other contractual rights.
 
 Our advertisers may disclose Personally Identifiable Information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you, if you provide such information to them. We do not send any of your Personally Identifiable Information to our advertisers. You may see a cookie from a third-party banner server, and this cookie comes from the third-party banner server, not FieldNation, LLC. 
+
+**HIPAA Compliance**
+
+Field Nation meets and exceeds Health Insurance Portability and Accountability Act (HIPAA), as well as other national security requirements. Our secure website operates on a 256 bit encrypted Secure Socket Layer (SSL) and unique login and passwords are required for system access. This assures that your data is only accessed by authorized personnel. The system and uploaded data and attachments are stored and continually backed-up on 100% HIPAA secure servers with many redundancies. Please contact our staff for any specific questions about Field Nation's HIPAA compliance policies and procedures. 
 
 **Cookies**
 
