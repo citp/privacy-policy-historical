@@ -1,30 +1,53 @@
-> *The following text is extracted and transformed from the brandzones.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010083323id_/http%3A//www.brandzones.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandzones.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131050457id_/http%3A//www.brandzones.com/privacy) for the most accurate reproduction.*
 
-# privacy policy
+# BrandZones - Privacy Policy
 
-| 
+## BrandZones Privacy Policy  
 
-| 
+**The following privacy statement details the BrandZones.com pledge to keep your information private.** Any questions in regards to BrandZones.com privacy practices should be sent via email to [privacy@brandzones.com](mailto:privacy@brandzones.com).
 
-    ** _privacy_**  
-  
----  
-  
-**Privacy Policy**
+BrandZones.com utilizes the cookie feature of your browser. Cookies, on their own, can't be used to identify you. The cookie feature of your browser can be turned off; simply locate your browser preference options. Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.
 
-In order to serve you better, **_BrandZones.com_** collects and stores your personal information when you: (i) sign up to be added to our mailing list or Preferred Advance Notification List; (ii) open an account with us; or (iii) enter a contest or promotion on our site. An account is created when you do one of following things: make a purchase on **_BrandZones.com_**. When creating an account, we ask you for either, if you are an individual, your first and last name, your e-mail address, your shipping and billing address, and perhaps some other similar information, or if you are a corporation or other non-individual, your corporate entity name, your contact name, your billing and shipping address, your Tax ID, or other resellers information, and perhaps some similar information. If you are making a purchase, we will additionally ask you for your payment information, which may include credit card information. If you are requesting to be added to our mailing list, we will ask you additional information that will better enable us to provide you with information pertaining to your business areas.
+### What type of information does BrandZones.com collect?
 
-Your information is used to process your orders and improve your shopping experience with **_BrandZones.com_**. We also review what kinds of products appeal most to our customers as a group. This statistical information helps us improve our offering in the same way that other companies change their catalog based on what sells best. We may also use information about the kinds of products you buy from **_BrandZones.com_** to make other marketing offers to you. Of course, you always have the option to opt-out from receiving such offers. 
+Your IP address helps BrandZones.com diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize BrandZones.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
 
-Your e-mail address is used to create and identify your account with **_BrandZones.com_**. Your e-mail address is also used by **_BrandZones.com_** to correspond with you about any orders that you may place or to notify you with the results of any contests you may have entered. We may also use your e-mail address to notify you about important functionality changes to the Web site, new **_BrandZones.com_** services, special offers and promotions we think you'll find valuable. If you would rather not receive this information, or would like to opt-out of receiving e-mail of this kind, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions to have your email address removed from the list of customers who receive notices of new functionality, services, special offers and promotions.
+### What does BrandZones.com do with my data?
 
-To have your email address removed from our list of addresses that receive information about new products, service, sales and promotions, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions. 
+BrandZones.com only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
 
-To have your name and address removed from our list of addresses that may receive information about new products, sales and promotions via regular mail from Luxury Brands, simply send an email to service@brandzones.com and type UNSUBSCRIBE as the subject of your reply. 
+IP addresses help us diagnose server issues and help us administer BrandZones.com Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.
 
-You acknowledge that this privacy policy is part of the terms of service and you agree that using this site signifies your assent to **_BrandZones.com_** privacy policy. **_BrandZones.com_** reserves the right to change the terms of service, including this privacy policy, at any time, without advanced notice. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+Every email sent to BrandZones.com users is to meet your needs. We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, all for your enjoyment. If at any point these emails become annoying or bothersome, simply click on the link provided to opt out.
 
-  If you have any comments or questions about Luxury Brand𠏋 privacy statement, please e-mail us at service@brandzones.com 
+Also note that your email address helps BrandZones.com respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
 
-  
+### Who else gets to see my personal information?
 
+When you request services from our business partners BrandZones.com will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about an BrandZones.com business partner, you may contact them directly. BrandZones.com is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with BrandZones.com owned businesses.
+
+Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information.
+
+### How do I delete my information from BrandZones.com ?
+
+At this current time it is not possible to completely delete your user information from the BrandZones.com database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
+
+### Will I be notified of a security breach?
+
+BrandZones.com has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
+
+### Do linked sites honor your policy?
+
+Linked sites are not run or controlled by BrandZones.com. The website does contain many linked sites, so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. BrandZones.com won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
+
+### Will your policy always remain intact?
+
+We cannot guarantee that this policy will always be honored. In the event that BrandZones.com is bought, or our assets are acquired by another company, user information may be transferred to new ownership. BrandZones.com will suggest this policy be adapted, but we cannot guarantee it.
+
+### BrandZones.com will notify you of changes
+
+BrandZones.com is constantly improving and making additions to our site to provide you with better features and services. As a result, our policies must be continuously revised. Whenever alterations are required, a new revised policy will be posted to this site, along with the date of last revision. It is important to us that you are always up to date with BrandZones.com policies, so check this site often for information on your privacy.
+
+### Contacting BrandZones.com
+
+In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [privacy@brandzones.com](mailto:privacy@brandzones.com)
