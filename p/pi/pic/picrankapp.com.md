@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picrankapp.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208081305id_/http%3A//www.picrankapp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picrankapp.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131081835id_/http%3A//www.picrank-app.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
