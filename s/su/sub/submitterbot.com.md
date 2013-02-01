@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitterbot.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219032607id_/http%3A//www.submitterbot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitterbot.com privacy policy that was archived on 2013-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130201100308id_/http%3A//www.submitterbot.com/privacy) for the most accurate reproduction.*
 
 # SubmitterBot - Privacy Policy
 
