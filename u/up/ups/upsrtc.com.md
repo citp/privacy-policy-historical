@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upsrtc.com privacy policy that was archived on 2012-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120227145610id_/http%3A//www.upsrtc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsrtc.com privacy policy that was archived on 2013-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130201075659id_/http%3A//upsrtc.com/privacy.htm) for the most accurate reproduction.*
 
 # UPSRTC
 
