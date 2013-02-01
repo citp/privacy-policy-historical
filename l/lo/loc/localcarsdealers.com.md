@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localcarsdealers.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028181205id_/http%3A//www.localcarsdealers.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localcarsdealers.com privacy policy that was archived on 2013-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130201013347id_/http%3A//www.localcarsdealers.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.localcarsdealers.net
 
