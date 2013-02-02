@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ireel.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014050142id_/https%3A//www.ireel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ireel.com privacy policy that was archived on 2013-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130203005649id_/https%3A//www.ireel.com/privacy) for the most accurate reproduction.*
 
 # iReel.com - Watch movies instantly online
 
@@ -113,4 +113,4 @@ Suite 31, Don House
 Gibraltar  
 Attention: Privacy Administrator 
 
-Copyright (c) 2012 IDEAL MEDIA Ltd. All rights reserved.
+Copyright (c) 2013 IDEAL MEDIA Ltd. All rights reserved.
