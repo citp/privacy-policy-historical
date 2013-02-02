@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live-astro.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016013845id_/http%3A//www.russellgrant.com/sitewide/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live-astro.com privacy policy that was archived on 2013-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130202162155id_/http%3A//www.russellgrant.com/sitewide/privacy.php) for the most accurate reproduction.*
 
 # Russell Grant Psychic Horoscopes : www.russellgrant.com/sitewide/privacy.php
 
@@ -14,9 +14,11 @@ Collection of data through "Cookies": Russell Grant Astrology uses resident and 
 
 The collection of data by Russell Grant Astrology through registration on third party sites may lead to your data also being held by that third party site. 
 
-The data that you provide to Russell Grant Astrology, is held by Russell Grant Astrology. Russell Grant Astrology holds your data in a central database. The process of supplying you with this information is at all times under the control of Russell Grant Astrology although specialist third party suppliers may carry out the dispatch of emails, sms, voice or postal services.
+The data that you provide to Russell Grant Astrology, is held by Russell Grant Astrology. Russell Grant Astrology holds your data in a central database. The process of supplying you with this information is at all times under the control of Russell Grant Astrology although specialist third party suppliers may carry out the dispatch of emails, sms, voice or postal services. 
 
 At times it may be appropriate for Russell Grant Astrology, to contact you with offers and information in respect of your interests or to inform you about subjects upon which you have requested information through your mobile phone or other PDA devices. Before doing so Russell Grant Astrology will always ask you for your specific consent. 
+
+By using our services we occasionally send you SMS text messages. The cost of the SMS text message is free and you can opt out anytime by replying STOP to the message. 
 
 If having given consent previously, you wish to withdraw this consent you may do so by logging on and amending your details on the site.
 
@@ -34,4 +36,4 @@ Use of your data for analytical and statistical purposes: Your data together wit
 
  **Security of the Internet:** The Internet is not a 100% secure medium for communication and, accordingly, Russell Grant Astrology cannot guarantee the security of any information you send to Russell Grant Astrology via the Internet. Russell Grant Astrology is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
 
- **Further information:** If you have any questions regarding the privacy policy of Russell Grant Astrology or require any further information please send your request by email by [clicking here](https://web.archive.org/web/20121016013845id_/http%3A//www.russellgrant.com/sitewide/mailus.php).
+ **Further information:** If you have any questions regarding the privacy policy of Russell Grant Astrology or require any further information please send your request by email by [clicking here](https://web.archive.org/web/20130202162155id_/http%3A//www.russellgrant.com/sitewide/mailus.php).
