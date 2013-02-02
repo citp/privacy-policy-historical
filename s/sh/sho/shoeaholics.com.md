@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoeaholics.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002005348id_/http%3A//www.shoeaholics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeaholics.com privacy policy that was archived on 2013-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130202163128id_/http%3A//www.shoeaholics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Shoeaholics | Privacy Policy
 
 Hopefully you won’t need this lot! We take the security of our site and our conduct as a company very seriously.
 
