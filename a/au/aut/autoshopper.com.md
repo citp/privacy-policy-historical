@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autoshopper.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101095313id_/http%3A//www.autoshopper.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoshopper.com privacy policy that was archived on 2013-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130202232649id_/http%3A//www.autoshopper.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# AutoShopper.com - Privacy Policy
+# Privacy Policy - AutoShopper.com
 
 **Showcase Publications, Inc.** is committed to protecting your privacy. This Privacy Policy describes the ways that personally identifiable and anonymous information about our online users is gathered through our website and what we do with that information. The practices described in this policy are applicable to current and former customers and to consumers who do business with us. The policy also explains how we protect the confidentiality and security of our customer information. This Privacy Policy does not apply to any information that You may provide to third parties; for example, other sites linked to Our Website. You should contact such third parties directly to determine their respective privacy policies. By visiting AutoShopper.com, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and [Our Terms of Use](http://www.autoshopper.com/termsofuse.asp).
 
