@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the high5store.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924184648id_/http%3A//www.high5store.com/content/3-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the high5store.com privacy policy that was archived on 2013-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130202153426id_/http%3A//www.high5store.com/content/3-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - High5Store
+# Privacy Policy - High5Store.com
 
 **Privacy Policy**
 
