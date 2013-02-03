@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wallpapermania.eu privacy policy that was archived on 2012-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121230183231id_/http%3A//www.wallpapermania.eu/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wallpapermania.eu privacy policy that was archived on 2013-02-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130203211807id_/http%3A//www.wallpapermania.eu/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
    <title>Privacy Policy</title>
@@ -11,6 +11,7 @@
 
    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/v2.css">
    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/assets/js/jquery-1.7.1.min.js"></script>
+   <script type="text/javascript" src="/assets/js/colorpicker.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -27,17 +28,29 @@
 </script>
 
     
-   <script type="text/javascript">
-
+<script type="text/javascript">
+var sw=screen.width;
+var sh=screen.height;
+if(sw<10)
+{
+  sw=1920;
+}
+if(sh<10)
+{
+  sh=1080;
+}
 var hexcolor;
 hexcolor="";
 
 var addthis_config = {     
     services_overlay:'facebook,twitter,email,more'
 }
-   var mouse_is_inside=true;
+var mouse_is_inside=true;
 jQuery(document).ready(function($) {
-  $.ajax({url:'/assets/js/colorpicker.js',dataType:'script',cache:true,success:function(){
+
+//$('.dlinks li a').attr('href',function(i, val) {
+//  return 'http://adf.ly/1121384/www.wallpapermania.eu'+val;
+//});
 
 
   $('#colorSelector').ColorPicker({
@@ -75,26 +88,14 @@ $('#q').keyup(function(e) {
     window.location='/search/index/'+$('#q').val()+'/';
   }
 });
-})
-  }});
-  $.ajax({url:'/assets/js/jquery.colorbox-min.js',dataType:'script',cache:true,success:function(){
-      if (document.cookie.indexOf('visited=true') == -1) {var fifteenDays = 1000*60*60*24*7;var expires = new Date((new Date()).valueOf() + fifteenDays);document.cookie = "visited=true;expires=" + expires.toUTCString() + "; path=/";$.colorbox({width:"450px;", inline:true, href:"#subscribe", title: "Like us on Facebook!"});$("#cboxTitle").remove();}}});
-  $.ajax({url:'/assets/js/advertisement.js',dataType:'script',cache:true,error:function(){
-    var adsblocker=true;_gaq.push(['_trackEvent', 'AdBlocker', 'Detected']);
-  }});
-  $.ajax({url:'/assets/js/scripts.js',dataType:'script',cache:true,success:function(){ }
 });
+
+
+  $.ajax({url:'/assets/js/jquery.colorbox-min.js',dataType:'script',cache:true,success:function(){if (document.cookie.indexOf('visited=true') == -1) {var fifteenDays = 1000*60*60*24*7;var expires = new Date((new Date()).valueOf() + fifteenDays);document.cookie = "visited=true;expires=" + expires.toUTCString() + "; path=/";$.colorbox({width:"450px;", inline:true, href:"#subscribe", title: "Like us on Facebook!"});$("#cboxTitle").remove();}}});
+  $.ajax({url:'/assets/js/advertisement.js',dataType:'script',cache:true,error:function(){var adsblocker=true;_gaq.push(['_trackEvent', 'AdBlocker', 'Detected']);}});
+  $.ajax({url:'/assets/js/scripts.js',dataType:'script',cache:true,success:function(){ }});
+
 });
-var sw=screen.width;
-var sh=screen.height;
-if(sw<10)
-{
-  sw=1920;
-}
-if(sh<10)
-{
-  sh=1080;
-}
    </script>
    <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4de790052068ed3d"></script>                            
                             
@@ -123,6 +124,10 @@ if(sh<10)
 
 </head>
 <body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+ <script>
+ window.google_analytics_uacct = "UA-3882777-18";
+ </script>
+
 
 <div style="display:none">
 <div id="subscribe" style="padding:10px; background:#fff;min-height:170px">
@@ -276,7 +281,7 @@ $('#topq').keyup(function(e) {
 	<div style="position:relative;top: 48px;">
   <div class="fb-like" style="top:5px;display:inline" data-href="http://www.facebook.com/WallpaperManiaEU/" data-send="true" data-layout="button_count" data-width="150" data-show-faces="true">
   </div>
-	<a class="rss" title="RSS Feed" href="/rss">r</a>
+<!-- 	<a class="rss" title="RSS Feed" href="/rss">r</a> -->
 	<a class="fb" title="WallpaperMania.eu on Facebook" href="http://www.facebook.com/WallpaperManiaEU/">f</a>	
 	</div>
 	
@@ -363,11 +368,11 @@ If you believe that any information we are holding on you is incorrect or incomp
 <div class="container"> 
 	<div class="footer"> 
 	<br class="clr">
-	  2012 WallpaperMania.eu - The best wallpaper sharing community, free awsome high quality wallpapers. Join now to share your favorite artwork with your friends and our community! <br> <a href="mailto:office@wallpapermania.eu">contact us</a> |  
+	  2013 WallpaperMania.eu - The best wallpaper sharing community, free awsome high quality wallpapers. Join now to share your favorite artwork with your friends and our community! <br> <a href="mailto:office@wallpapermania.eu">contact us</a> |  
 	 <a href="/page/privacy">privacy policy</a> |  <a href="/page/terms">terms of service</a> | <a href="/page/partners">partners</a>
 	<br>
     <small style="display:none">Memory usage: 1.92MB 
-    Render time: 0.0087</small>
+    Render time: 0.0053</small>
      </div>
 
 
@@ -378,5 +383,19 @@ If you believe that any information we are holding on you is incorrect or incomp
 <br class="clr"></div>
 
 </div>
+
+
+<!-- Piwik --> 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.pixelwattstudio.com/" : "http://stats.pixelwattstudio.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://stats.pixelwattstudio.com/piwik.js" type="text/javascript"></script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 2);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://stats.pixelwattstudio.com/piwik.php?idsite=2" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
 
 </body></html>
