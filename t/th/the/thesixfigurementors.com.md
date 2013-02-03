@@ -1,20 +1,59 @@
-> *The following text is extracted and transformed from the thesixfigurementors.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505234303id_/http%3A//thesixfigurementors.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesixfigurementors.com privacy policy that was archived on 2013-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130203051734id_/http%3A//thesixfigurementors.com/blog/website-privacy-cookies) for the most accurate reproduction.*
 
-# Privacy Policy | Welcome to The Six Figure Mentors
+# Website Privacy & Cookies « Welcome to The Six Figure Mentors
 
-This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for the website that linked you here. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our current practices, as they may change in the future.
+## Website Privacy & Cookies
 
-By using our services or submitting information, you are accepting the practices described in this Privacy Policy. Your assent to these practices is essential for us to provide our services. Similarly, we need you to provide accurate personal information so that you can be contacted and use our website and related services. You can opt-out and decide not to provide the requested personal information. However, by doing so, we will not be able to contact you and you will not be able to use our website and/or services.
+This page describes how we treat the information provided by visitors, what other information we gather and how we use it, why we sometimes need to store “cookies” and how to prevent this. 
 
-The personal information we collect includes name, address, e-mail address, telephone number, user name, and password. Other personal information that you may submit is clearly labeled at the time you submit it. We use the information that we collect to provide our services, to contact you regarding our products and services, and to improve our site. We also share your name, address, telephone number, and other contact details with the member, if any, who referred you to our website. Once a third-party obtains your personal information, its subsequent use is controlled by their business practices, which is beyond our control. By providing us a telephone number and/or email address, you are expressly requesting that we and/or anyone to whom we subsequently share or transfer your personal information contact you at that number or email address. Note, however, that your payment information is used only for order processing purposes.
+In common with almost all professionally run websites, this website logs the IP address of each visitor in order to keep it running reliably. This is also essential for protecting the website and its visitors from malicious attacks, including infection with malware. 
 
-We automatically collect certain information from visitors to, and members of, the site, such as Internet addresses, browser type, Internet Service Provider (ISP), referring and exit page, operating system, timestamps, and clickstream data. We also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers. This information is logged to help diagnose technical problems, and to administer our site so that we can constantly improve the quality of the services we provide.
+This website provides information as a service to vistors such as yourself, and to do this reliably and efficiently, it sometimes places small amounts of information on your computer or device (e.g. mobile phone). This includes small files known as cookies. 
 
-When you pay for anything on our site using a credit or debit card—including your monthly membership fee—we collect the personal information needed to complete the transaction. This information includes your name, card number, and other necessary information, all of which is clearly labeled on the form you use to submit payment. We use an unaffiliated, credit card processing company to process your payment. We transfer your payment information—and you authorize us to do so—to this company solely for this purpose. The company does not retain, share, store, or use personally identifiable information for any other purposes.
+The cookies stored by this website cannot be used to identify you personally. 
 
-Anything you send us, post on our site, or use with our service, such as emails or voice recordings, or if other users or third parties send us anything about your activities or postings, we will collect such information into a file specific to you. We use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems, and enforce our membership agreements.
+## How Cookies Are Used
 
-Contact us at the address below if you want us to change or delete any information that we have about you. We will respond to your request to access, update, or delete your information within ten (10) business days. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity.
+We use cookies to understand what pages and information visitors find useful, and to detect problems such as broken links, or pages which are taking a long time to load. 
 
-This website is owned and operated by:  
-Empowered Marketing Ltd
+We sometimes use cookies to remember a choice you make on one page, when you have moved to another page if that information can be used to make the website work better. For example: 
+
+  * avoiding the need to ask for the same information several times during a session (e.g. when filling in forms), or
+  * remembering that you have logged in, so that you don’t have to re-enter your username and password on every page.
+
+
+
+## Cookies for Google Analytics
+
+We use analytics to measure how many visitors are using the website, which pages interest them and so on, and this involves storing the following cookies: 
+
+Name: _utma  
+Typical content: randomly generated number  
+Expires: 2 years 
+Name: _utmb  
+Typical content: randomly generated number  
+Expires: 30 minutes 
+Name: _utmc  
+Typical content: randomly generated number  
+Expires: when user exits browser 
+Name: _utmz  
+Typical content: randomly generated number + info on how the site was reached (e.g. directly or via a link, organic search or paid search)  
+Expires: 6 months 
+
+
+For more information [Google Analytics ](http://www.google.com/analytics/ "opens in a new window")website.
+
+## Disabling Cookies
+
+You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit.
+
+## Personal data
+
+Personal information that you submit to us through this website will only be used for the purposes we solicited it. For example, to respond to an enquiry, and will not be used for any other purpose without your consent. We will never pass it on to any third party without your consent, unless legally required to do so.
+
+## Other Websites
+
+The information on this page applies only to **this website** and not to other sites linked to from these pages. 
+
+3   
+FEB
