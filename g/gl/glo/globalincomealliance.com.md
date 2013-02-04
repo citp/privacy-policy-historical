@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalincomealliance.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108191416id_/http%3A//www.globalincomealliance.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalincomealliance.com privacy policy that was archived on 2013-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130204083631id_/http%3A//www.globalincomealliance.com/privacy.php) for the most accurate reproduction.*
 
 # Global Income Alliance Privacy Policy
 
