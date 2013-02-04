@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taketheinternetback.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204001800id_/http%3A//www.taketheinternetback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taketheinternetback.com privacy policy that was archived on 2013-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130204115936id_/http%3A//www.taketheinternetback.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | taketheinternetback.com
 
