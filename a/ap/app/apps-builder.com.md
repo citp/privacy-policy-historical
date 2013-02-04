@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apps-builder.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016083734id_/http%3A//www.apps-builder.com/pag/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apps-builder.com privacy policy that was archived on 2013-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130204150828id_/http%3A//www.apps-builder.com/pag/privacy) for the most accurate reproduction.*
 
-# PRIVACY | APPS BUILDER
+# AppsBuilder
 
 AppsBuilder Srl ("AppsBuilder," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by AppsBuilder when you use Apps-Builder.com and/or related AppsBuilder software and services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. 
 
