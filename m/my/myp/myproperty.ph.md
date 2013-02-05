@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myproperty.ph privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218080401id_/http%3A//www.myproperty.ph/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myproperty.ph privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205011431id_/http%3A//www.myproperty.ph/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Philippine Real Estate - MyProperty.ph
 
@@ -88,7 +88,9 @@ Third party service providers are prohibited from using your personal informatio
 
 Currently, MyProperty.ph uses Google Analytics as a third party web analytics service, which tracks the traffic of the site. It is used for internal use in analyzing the usage and performance of MyProperty.ph. Google Analytics does not have access to the personal information of our users.
 
-MyProperty.ph also uses iContact, a third-party e-mail newsletter service. It is used to design and release e-newsletters, and does not have access to the personal information of our users.
+MyProperty.ph also uses iContact, a third-party e-mail newsletter service. It is used to design and release e-newsletters, and does not have access to the personal information of our users. **MyProperty.ph** also uses Google AdWords and Google Display Network together to serve ads to you on other websites after you’ve visited our website. This practice is known as remarketing and is a tool that Google offers to businesses. If you would like to know more about the program, [you can do so here](http://support.google.com/analytics/bin/answer.py?hl=en&answer=2611268&topic=2611283&ctx=topic "blocked::http://support.google.com/analytics/bin/answer.py?hl=en&answer=2611268&topic=2611283&ctx=topic"). But here are the basics: we, along with third-party vendors, Google and DoubleClick, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.  
+If you would like to opt-out of receiving advertising like this from Google, you can manage these settings by visiting the [Google Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en "blocked::http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO9"). Also, Google recommends installing the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/ "blocked::http://tools.google.com/dlpage/gaoptout/").  
+ 
 
 ##  **I. Changes Applied to the Privacy Policy**
 
