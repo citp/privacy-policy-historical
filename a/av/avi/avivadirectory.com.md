@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avivadirectory.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515100738id_/http%3A//www.avivadirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avivadirectory.com privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205123726id_/http%3A//www.avivadirectory.com/privacy.php) for the most accurate reproduction.*
 
-# - Privacy Policy Information - Aviva Web Directory
+# Directory | Add Url or Add Site to Submit to Aviva Web Directory
 
 ## Aviva Directory Privacy Policy
 
