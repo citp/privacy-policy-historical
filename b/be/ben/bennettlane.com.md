@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bennettlane.com privacy policy that was archived on 2012-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120809130955id_/http%3A//www.bennettlane.com/Winery/tabid/38/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennettlane.com privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205144401id_/http%3A//www.bennettlane.com/Winery/tabid/38/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Bennett Lane Winery
 
@@ -45,3 +45,7 @@ BennettLaneWinery will occasionally update this Statement of Privacy to reflect 
 Contact Information
 
 BennettLaneWinery welcomes your comments regarding this Statement of Privacy. If you believe that BennettLaneWinery has not adhered to this Statement, please contact BennettLaneWinery at [info@bennettlane.com](mailto:info@bennettlane.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+
+We may contract with third party marketing companies to serve advertisements on our behalf across the Internet. They may collect non-personal information about your visits to our website, and your interaction with our products and services. They may also use non-personal information about your visits to this and other websites to target advertisements for goods and services. These targeted advertisements may appear on other websites that you visit. The anonymous information is collected through the use of technology such as Cookies and Web Beacons, which are industry standard. No Personally Identifiable Information (“PII”) is collected in this process. 
+
+You may opt-out of the use of your information for tailored advertising purposes. To learn more about the use of this information or to choose not to have this information used by our third-party advertising partner by opting out, please visit the Network Advertising Initiative by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). If you delete your Cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice. 
