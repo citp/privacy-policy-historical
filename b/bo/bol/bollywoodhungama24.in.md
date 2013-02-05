@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodhungama24.in privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015065105id_/http%3A//www.bollywoodhungama24.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodhungama24.in privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205194740id_/http%3A//www.bollywoodhungama24.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bollywood & Hollywood Movies, Celebrities News & Gossips, Upcoming Movies, Reviews & Trailers, HD wallpapers
 
@@ -24,11 +24,11 @@ As mentioned in google privacy policy:
 
 Log Files
 
-As with most other websites, we collect and use the data contained in log files.  The 
+As with most other websites, we collect and use the data contained in log files.  The
 
-information in the log files include  your IP (internet protocol) address, your ISP (internet 
+information in the log files include  your IP (internet protocol) address, your ISP (internet
 
-service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited 
+service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited
 
 throughout our site.
 
@@ -42,9 +42,9 @@ We also use third party advertisements on http://www.bollywoodhungama24.in/ to s
 
 * “http://www.bollywoodhungama24.in/” is not Hosted Any vulgar or pornography images of celebrities, If you Want to remove any image about Copyright issue  then just Contact Us. These All Images are hosted on internet for information and news purpose only.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your 
+You can choose to disable or selectively turn off our cookies or third-party cookies in your
 
-browser settings, or by managing preferences in programs such as Norton Internet Security.  
+browser settings, or by managing preferences in programs such as Norton Internet Security.
 
 However, this can affect how you are able to interact with our site as well as other websites.
 
@@ -56,16 +56,18 @@ Please Contact us On Our Email Address “contact@bollywoodhungama24.in”, if y
 
 This Website http://www.bollywoodhungama24.in/ is for entertainment purposes only.
 
-Content may contain errors or inaccurate information, as it is based on entertainment news, gossips, wallpapers of celebs and personal opinions. 
+Content may contain errors or inaccurate information, as it is based on entertainment news, gossips, wallpapers of celebs and personal opinions.
 
-All images and videos that appear on this blog are copyright their respective owners. 
+All images and videos that appear on this blog are copyright their respective owners.
 
 If you own the rights to any of the images and do not wish them to appear on this site,Please Contact us On Our Email Address “contact@bollywoodhungama24.in” , and they will be removed as soon as possible.
 
 Disclaimer
 
-Actually we collect image from the various websites of internet, so if any image of this 
+Actually we collect image from the various websites of internet, so if any image of this
 
-sitehave any privacy policy or if anyone have any complain about any post, please feel free to contact with us. We will delete the offending post as soon as possible after the confirmation of the person who want to remove the post. 
+sitehave any privacy policy or if anyone have any complain about any post, please feel free to contact with us. We will delete the offending post as soon as possible after the confirmation of the person who want to remove the post.
 
 Just send an e-mail at: contact@bollywoodhungama24.in
+
+[](http://bloggers.com/)
