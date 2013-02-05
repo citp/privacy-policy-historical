@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moonit.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010163953id_/http%3A//moonit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonit.com privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205023559id_/http%3A//moonit.com/privacy) for the most accurate reproduction.*
 
 # Moonit
 
