@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coedmagazine.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425184730id_/http%3A//coedmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coedmagazine.com privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205061144id_/http%3A//coedmagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : COED Magazine
+# Privacy Policy «
 
 Online privacy is a top concern at Coedmagazine..com. For further information or questions about privacy, email us at editor@coedmagazine.com. Your use is based on your acceptance of how Coedmagazine.com operates, as indicated in this Privacy Policy.
 
@@ -17,3 +17,5 @@ Third-party advertisers may come from users of Coedmagazine.com or an advertisin
 Coedmagazine.com users may edit their personal content at any time. They can also limit the amount of their content available to other users. However, if it has been captured by other users, it is impossible to receive that provided information. Members can indicate when they no longer want to receive solicitations from Coedmagazine.com, such as email newsletters, by adjusting their Account Settings.
 
 Your account is protected by a password of your creation Coedmagazine.com goes to great lengths to ensure that your account information remains private. Coedmagazine.com takes all precautions in protecting our databases. Coedmagazine.com will not disclose personal information to any third party unless it is deemed necessary, as in the cases of: responding to legal demands or subpoenas; enforcing Coedmagazine.com Terms of Use Agreement; protecting the safety of users. Coedmagazine.com reserves the right to transfer personal information in the event that ownership of the site changes hands. Because email correspondence and instant-messaging is not a secure means of communication, Coedmagazine.com asks that you refrain from sending us personal information in this manner. If you have any questions about your privacy while using Coedmagazine.com, please contact us at editor@coedmagazine.com.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
