@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinefmradio.in privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222231148id_/http%3A//onlinefmradio.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefmradio.in privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205175534id_/http%3A//www.onlinefmradio.in/privacy_policy.php) for the most accurate reproduction.*
 
-# Online FM Radio,Latest Hindi Songs,New Hindi Songs,Hit Hindi Songs,Latest Bollywood Songs- OnlineFMRadio.in
+# Online FM Radio Privacy Policy - OnlineFMRadio.in
 
 **User-provided Information:** When you register with us, we may ask you to provide us with certain personal information, including, but not limited to, your name and email address. We take reasonable steps to protect the privacy of our members and ensure that the personal information we collect is not ordinarily disclosed to third parties without the member's consent. onlinefmradio.in has numerous security measures in place to protect the loss, misuse and alteration of our members' information. All member information is password protected and only accessible by authorized staff of onlinefmradio.in. 
 
