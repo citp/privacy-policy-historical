@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the youtorrent.com privacy policy that was archived on 2012-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120620091845id_/http%3A//www.youtorrent.com/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtorrent.com privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205094847id_/http%3A//www.youtorrent.com/p/privacy-policy) for the most accurate reproduction.*
 
 # YouTorrent.com (BETA) - Your Torrents. Our Legal Downloads.
+
+Enter your e-mail to be the first to access the 
+
+_new_
+
+features.
+
+  
+
 
 ## Privacy Policy
 
