@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plugcomputer.org privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109073553id_/http%3A//plugcomputer.org/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugcomputer.org privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205064333id_/http%3A//www.plugcomputer.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PlugComputer.org – Privacy Policy
 
 Marvell Technology Group Ltd. ("Marvell") is committed to respecting the privacy of the users of the www.PlugComputer.org Internet site and its associated services (the "PlugComputer Service") (collectively or individually "Users"). This statement governs information you provide to us or that we learn from your use of the PlugComputer Service and tells you how we may collect, use, and in some instances share this information. Any information collected via other Marvel sites is handled in accordance with the privacy policy posted on such sites.
 
@@ -38,7 +38,9 @@ Links to third party Web sites on the site are provided solely as a convenience 
 
 No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and/or other security software.
 
-If Marvell learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the PlugComputer Service or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the PlugComputer Service. Marvell may post a notice on the PlugComputer Service if a security breach occurs. Marvell may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email at [privacy@marvell.com](mailto:privacy@marvell.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+If Marvell learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the PlugComputer Service or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the PlugComputer Service. Marvell may post a notice on the PlugComputer Service if a security breach occurs. Marvell may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email at  
+[privacy@marvell.com](mailto:privacy@marvell.com)  
+This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
 
 ### INTERNATIONAL USERS
 
@@ -59,7 +61,10 @@ If Marvell should ever file for bankruptcy or have some or all of its assets sol
 
 ### CONTACT
 
-If you have comments or questions about our privacy policy, please send them to this email address: [privacy@marvell.com](mailto:privacy@marvell.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+If you have comments or questions about our privacy policy, please send them to this email address:  
+[privacy@marvell.com](mailto:privacy@marvell.com)
+
+This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
 
 ### PRIVACY POLICY CHANGES
 
