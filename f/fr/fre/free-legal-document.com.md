@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-legal-document.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021055901id_/http%3A//www.free-legal-document.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-legal-document.com privacy policy that was archived on 2013-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130205010443id_/http%3A//www.free-legal-document.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Free-Legal-Document.com
 
