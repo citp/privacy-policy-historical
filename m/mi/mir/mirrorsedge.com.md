@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mirrorsedge.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216181306id_/http%3A//www.ea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorsedge.com privacy policy that was archived on 2013-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130206004139id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/en/en/PC) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 ELECTRONIC ARTS PRIVACY POLICY
 
@@ -8,6 +8,7 @@ Effective Date: September 4, 2012
 
 [](http://privacy.truste.com/privacy-seal/Electronic-Arts/validation?rid=1cc8e153-d5a9-45d1-b59d-5fe13b8709c5 "TRUSTe European SafeHarbor certification")
 
+  
 By registering for an Origin Account (formerly known as an EA Account) ( ** _"Account"_** ), using this site and/or any of EA's online or mobile products and services, you agree to EA's Privacy Policy and that we may transfer and store your information in the USA. By registering, you agree that EA may process your data in accordance with the following privacy policy and that you will abide by EA's Terms of Service.
 
 IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY EA SITE, ONLINE OR MOBILE PRODUCT OR SERVICE. If we change our privacy policy, we will post those changes to this privacy statement, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material or significant changes to this policy or the way we use your child's information, we will notify you or the parent/guardian here, by email, or by means of a notice on our home page prior to the changes taking effect. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our online Privacy Policy.
