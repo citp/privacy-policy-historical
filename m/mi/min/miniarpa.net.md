@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniarpa.net privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108120600id_/http%3A//miniarpa.net/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniarpa.net privacy policy that was archived on 2013-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130206031229id_/http%3A//miniarpa.net/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Miniarpa Privacy Policy and Disclaimer | Miniarpa
 
