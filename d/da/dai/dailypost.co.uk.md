@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailypost.co.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010183641id_/http%3A//www.dailypost.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypost.co.uk privacy policy that was archived on 2013-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130206122240id_/http%3A//www.dailypost.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
