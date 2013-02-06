@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastdirectorylistings.org privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206202612id_/http%3A//fastdirectorylistings.org/privacy-policy.php%3Fp%3Dh) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastdirectorylistings.org privacy policy that was archived on 2013-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130206210602id_/http%3A//www.fastdirectorylistings.org/privacy-policy.php%3Fp%3Dh) for the most accurate reproduction.*
 
 # Fast Directory Listings - Privacy Policy
 
