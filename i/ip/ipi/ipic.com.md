@@ -1,182 +1,118 @@
-> *The following text is extracted and transformed from the ipic.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014043056id_/http%3A//www.ipictheaters.com/ipic-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipic.com privacy policy that was archived on 2013-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130206223715id_/http%3A//www.ipictheaters.com/ipic-privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - iPic Theaters - Luxurious Movie Theater
+# Privacy Policy - iPic Theaters
 
-### 1\. INTRODUCTION
+Effective Date:  February 1, 2013
 
-#### 1.1 The Company
+This Privacy Policy applies to the web sites, mobile apps and other features or services brought to you by iPic-Gold Class Entertainment, LLC, doing business as iPic Theaters (“iPic,” “we,” or “us”), that post or link to it (each, a “Service” and collectively, the “Services”).  Your use of our Services is also governed by our [Terms of Use](https://web.archive.org/web/20130206223715id_/http%3A//www.ipictheaters.com/ipic-terms.aspx). This Privacy Policy does not apply to offline collection of data unless specifically stated.
 
-IPic - Gold Class Entertainment ("IGCE") operates Cinemas in the US and through the operation of these cinemas, IGCE from time to time gathers information from Customers and other parties with whom we deal, for a variety of reasons including, in particular, to enable us to improve the nature of the services we provide. IGCE understands individuals' concerns regarding confidentiality and takes seriously its obligations with respect to all information it gathers. This Privacy Policy outlines how IGCE deals with Personal Information. 
+KEY POINTS TO KNOW
 
-#### 1.2 Internet Privacy Policy
+WE FULLY DESCRIBE OUR PRIVACY PRACTICES BELOW IN THIS PRIVACY POLICY.  THIS SUMMARY HIGHLIGHTS SOME IMPORTANT INFORMATION REGARDING OUR USE AND SHARING OF YOUR INFORMATION, AND REGARDING THIRD PARTIES WHO MAY COLLECT CERTAIN INFORMATION WHEN YOU USE THE SERVICES. PLEASE REVIEW OUR FULL PRIVACY POLICY BEFORE USING OUR SERVICES.
 
-It is IGCE's policy to fully comply with all applicable privacy and data protection laws. This IGCE Internet Privacy Policy ("Policy") sets forth the steps IGCE takes in protecting the privacy of personal information obtained on our Internet sites. 
+We primarily use the information we collect when you use the Services in connection with your relationship with iPic, your use of the Services, your purchase of products and for sending you information from us or on behalf of certain third parties. Click here for further details
 
-This Privacy Policy applies, in general, to all internet sites operated by or on behalf of IGCE and its subsidiaries ("IGCE Internet Sites"). 
+We do not share your Personal Information (defined as information that identifies you as a specific individual, such as your name or e-mail address)  with third parties for marketing purposes without your consent; however, we may share your Personal Information under certain limited circumstances, such as vendors providing services or for legal compliance. Click here for further details
 
-#### 1.3 Web Site Privacy Statements
+iPic does not currently display third party advertisements on the Services. However, we work with third party service providers (network advertisers, ad agencies, analytics service providers and other vendors) to serve iPic advertisements on other web sites, within mobile Apps, and elsewhere online; and to provide us with information regarding the use of the Services and the effectiveness of our advertisements.  We do not share Personal Information (information that identifies you as a specific individual, such as your name or e-mail address) with these third parties, but these third parties may set and access their own tracking devices (including cookies and web beacons) and they may otherwise collect or have access to information about you and your online browsing activities. While we may use a variety of service providers to perform advertising and analytics services, you may wish to visit www.networkadvertising.org/managing/opt_out.asp which provides information regarding this practice by Network Advertising Initiative ("NAI") members, including the “opt-out” procedures of NAI members. Click here for further details
 
-Although this Policy applies to all IGCE Internet Sites generally, each IGCE Internet site has a different purpose and different features. If additional or different disclosures are required with respect to a specific IGCE Internet site, we will provide those disclosures on that site itself or in a separate web site privacy statement ("Web Site Privacy Statement") posted on that site. Each individual disclosure or Web Site Privacy Statement supplements and amends this Policy, but only with respect to the IGCE Internet Site on which it is posted. 
+The Services may contain certain Social Media features that for interaction between you, the Services and third party platforms and features. Click here for further details
 
-#### 1.4 Links to Third Party Internet Sites
+INFORMATION COLLECTION
 
-IGCE Internet sites may contain links to Internet sites that are not operated by IGCE. These links are provided as a service and do not imply any endorsement of the activities or content of these sites, nor any association with their operators. IGCE does not control these Internet sites and is not responsible for their content, security, or privacy practices. We urge you to review the privacy policy posted on web sites you visit before using the site or providing personal information. 
+Registration and  Other Information You Provide
 
-### 2\. WHY IGCE COLLECTS PERSONAL INFORMATION
+The Services may collect and store "Personal Information" (which is information that can be used to identify or contact a specific individual, such as your name and email address), account information (such as a password or other information that helps us confirm that it is you accessing your account) and demographic or other information (such as your school, gender, age, birthdate, zip code, and information about your interests and preferences).  We will also collect and may store payment information (typically, credit card account information) if you choose to purchase products or services through the Services.  If we combine demographic or similar information with the Personal Information we collect, we will treat it as Personal Information under this Privacy Policy.
 
-#### 2.1 Nature of Information
+Note about Children: Our services are general audience services and are not intended for individuals younger than the age of 13.  We do not knowingly collect Personal Information from individuals younger than the age of 13. 
 
-The information IGCE collects in most cases relates to Customers but can relate to suppliers and other parties we deal with (for the purposes of this Privacy Policy all such people are described as ("Customers"). Information is gathered for a range of purposes, including the provision of ongoing Customer support and the compiling of Customer databases to enable us to more accurately market our goods and services. The type of information we collect may include such things as contact details (name, physical and e-mail addresses, phone numbers, etc. ), demographic information (such as zip code, age or income level), financial information (such as account or credit card numbers), buying habits, opinions, product preferences and transactional details. We may also collect the Internet Protocol address and e-mail address of visitors to our website, the e-mail addresses of those who post messages to a bulletin board (if applicable), and the e-mail addresses of those who communicate with us via e-mail. IGCE treats all information which is collected and identifiable as relating to an individual as Personal Information. It is this information which is described as "Personal Information" for the purposes of this Privacy Policy. 
+Social Media Features
 
-In addition to Personal Information, our web servers automatically collect website usage information from Customers when they visit our website. Website usage information is anonymous information about our visitors that describes how our website is used and navigated, including the number and frequency of visitors and subscribers to each web page, their actions taken during visits to the site, and the length of their stays. Website usage information does not contain personally identifiable information. 
+The Services may permit interactions a third party web site or service, such as enabling you to “like” a product within our Services or “share” content to other web sites. If you choose to “like” or “share” content or to otherwise post information from or via the Services to a third party web site, feature or application, that information may be publicly displayed, and the third party web site may have access to information about you and your use of our Services. 
 
-#### 2.2 Collection of Information
+Similarly, if you interact with iPic through a third party platform, we may have access to information about you (for example, if you “like” or “follow” us through a third party platform).  if other users of a third party web site give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections” web page, profile page, or similar page on a social networking or other third party web site or interactive service.
 
-Where practical, Customers of IGCE may deal with IGCE on an anonymous basis. However, as a provider of a wide range of services, IGCE frequently finds that it is necessary or desirable to collect Personal Information during the course of transactions. Personal Information may be collected about Customers via the following means:
+Your interactions with third parties through these types of social media features are governed by the privacy policies of those third parties.
 
-#### 2.2.1. Information Sent to Us by Your Web Browser. 
+Information Third Parties Provide About You
 
-IGCE collects information that is sent to us automatically by your web browser. This information typically includes the IP address of your Internet service provider, the name of your operating system (such as Macintosh® or Windows®) and the name and version of your browser (such as Internet Explorer® or Netscape®). The information we receive depends on the settings on your web browser. 
+Third parties may provide us with information about you. For example, if you are on a third party web site, and you opt-in to receive information from us, that third party will forward information about you to us so that we may contact you as requested.  Someone may also provide information about you in order to send you something through the Services (such as a gift card or other product, or a movie review or other information). We also may supplement the information we collect with outside records from third parties in order to provide you with information, services or goods you have requested, to enhance our ability to serve you to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you.] We may combine the information we receive from those other sources with information we collect through the Services. In those cases, we will apply this Privacy Policy to the combined information.
 
-The information provided by your browser does not identify you personally. We use this information to create statistics that help us improve our sites and make them more compatible with the technology used by our Internet visitors. 
+Public Forums and User Content  
 
-#### 2.2.2. Information Collected By Placing a "Cookie" On Your Computer
+The Services may provide features through which you can publicly post content ("Public Forums"). You may choose, through such features or otherwise, to submit or post reviews, comments, ideas, messages, images, videos, text or other material (" **User Content** "). We do not claim ownership of any User Content. Instead, you hereby grant to us a non-exclusive, fully paid and royalty-free, transferable, sub-licensable, worldwide license to copy, display, distribute, modify and otherwise use the User Content as necessary to provide the Services to you.   
 
-IGCE may obtain information about you by installing a "tag" on your computer's hard drive. This tag is known as a "cookie. "  
-All of our IGCE Internet sites use "session cookies. " A session cookie is used to tag your computer with a computer-generated, unique identifier when you access our site. A session cookie does not identify you personally and expires after you close your browser. We use session cookies to collect statistical information about the ways visitors use our sites – which pages they visit, which links they use, and how long they stay on each page. We analyze this information (known as "clickstream data") in statistical form to better understand our visitors' interests and needs to improve the content and functionality of our sites.   
-Some IGCE Internet sites also use "persistent cookies. " These cookies do not expire when you close your browser; they stay on your computer until you delete them. By assigning your computer a unique identifier, we are able to create a database of your previous choices and preferences, and in situations where these choices or preferences need to be collected again, they can be provided by us automatically, saving you time and effort. For example, after you make a purchase, if you decide to make another purchase, your shipping address will have been retained and will only need to be confirmed. If an IGCE Internet Site uses "persistent cookies" we will notify you in the Privacy Statement posted on that site.   
-If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit an IGCE Internet Site, you may be unable to use all of the features of the Site if your browser rejects our cookies. 
+Note that anything you post to a Public Forum may be viewed by others without restriction. If you choose to voluntarily disclose Personal Information or other information in a Public Forum, that information will be considered public information and the protections of this Privacy Policy will not apply.
 
-#### 2.2.3. Information You Knowingly and Voluntarily Provide
+Information iPic Collects Automatically When You Access The Services
 
-IGCE collects the information you knowingly and voluntarily provide when you use an IGCE Internet site, for example, the information you provide when you sign up to receive email alerts, when you complete a survey, when you become a member, or when you ask us a question or email us with feedback. In many cases this information will be Personal Information. 
+We and our third party service providers, including analytics providers and third party content providers, may automatically collect certain “Usage Information” whenever you access and use the Services.  **“Usage Information”** typically includes the browser and operating system you may be using, the URL or advertisement that referred you to our Services (if applicable), the search terms you entered into a search engine that lead you to our Services (if applicable), all of the areas within our Services that you visit, and the time of day you used the Services, among other information relating to your use of the Services. We may use Usage Information for a variety of purposes, including to analyze and improve our Services and products, to provide special offers, and to select appropriate content to display to you.
 
-IGCE uses this information for the purposes for which you provide it. For example, if you provide your e-mail address when you sign up to receive e-mail alerts, we use your e-mail address to deliver the e-mail alerts you request.   
-We may also use the information we collect on IGCE Internet Sites for various business purposes such as customer service, fraud prevention, market research, improving our products and services, and providing you with information and offers we believe may be of interest to you. We may also remove all the personally identifiable information and use the rest for historical, statistical or scientific purposes. 
+In addition, we automatically collect your IP address or other unique identifier (“Device Identifier”) for any computer, mobile phone, tablet or other device you may use to access the Services. A Device Identifier is a number that is automatically assigned or connected to the device you use to access a Service, and our servers identify your device by its Device Identifier. Some mobile service providers may also provide us or our third party service providers with information regarding the physical location of the Device used to access a Service. Usage Information is generally non-identifying, but if we associate it with you as a specific and identifiable person, we treat it as Personal Information.
 
-#### 2.2.4. Ownership of Information Collected on the IGCE Internet Sites. 
+Cookies and Similar Technologies
 
-All Personal Information collected on IGCE Internet Sites will remain the property of IGCE. 
+Our Services may include the following tracking technologies, and similar technologies, and which may be set and controlled by iPic or by our third parties: 
 
-#### 2.3 'Sensitive Information'
+Cookies: A cookie is a data file placed on your computer or other device when you visit the Services or otherwise access our online content. Cookies may be used for many purposes, including, without limitation, remembering you and your preferences, tracking your visits to our web pages, and facilitating your check-out and purchases.  We employ Adobe Flash cookies in certain situations where we use Flash to provide some content such as video clips or animation. You may access your Flash management tools from Adobe’s web site directly. We do not use Flash cookies to serve interest-based advertising.
 
-IGCE will not ask a Customer for information revealing racial or ethnic origin, political opinions, religious beliefs, or details of health, disability or sexual orientation, unless:
+Web Beacons:  Web beacons are small graphic images or other web programming code that may be found within our Services and our communications with you.  Web beacons are used to recognize certain types of information on your computer such as cookies, the time and date a page is viewed, and a description of the page where the web beacon is placed.  Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Sites, to monitor how users navigate the Sites, and to count whether an e-mail we sent was opened.  Web beacons may collect certain Personal Information (for example, the email address associated with an email message). 
 
-  * (a) the Customer provides their consent;
-  * (b) the collection of that information is specifically authorized by law;
-  * (c) the collection is necessary to lessen a serious or imminent threat to the health or safety of a person; or
-  * (d) the collection of the information is necessary for the establishment, exercise or defense of a legal claim. 
+An Embedded Script is programming code that is designed to collect information about your interactions with the Services, such as the links you click on. The code is temporarily downloaded onto your computer or other device and is deactivated or deleted when you disconnect from the Services.
 
+HOW WE USE THE INFORMATION WE COLLECT
 
+We use information about you, including Personal Information and Usage Information, to: (1) process your registration or a transaction you initiate, including verifying information you provide is active and valid; (2) allow you to participate in features we offer or to provide related customer service (for example, to respond to your questions, complaints or comments); (3) send you information regarding iPic and our products and services or information from us relating to a third party; (4) tailor content, recommendations and offers we display to you; (5) improve the Services and our products, and for internal business purposes; (6) contact you with regard to your use of the Services and, in our discretion, changes to our policies; and (7) as described in this Privacy Policy and for purposes disclosed at the time you provide your information or otherwise with your consent. 
 
-#### 2.4 Customer Consent
+INFORMATION SHARING
 
-IGCE will interpret a Customer's actions as indicating that a Customer consents to the collection of Personal Information. This may occur where the Customer has provided Personal Information for a particular purpose and that purpose cannot be achieved without IGCE making use of the Customer's Personal Information. 
+iPic does not share your Personal Information with third parties for their marketing purposes without your consent.  iPic may share non-Personal Information, such as aggregate user statistics, demographic information and Usage Information with third parties, including advertisers, content providers, and analytics providers; and third parties may collect non-Personal Information when you visit the Services. We also may share your Personal Information with third parties with your consent, as disclosed at the time you provide us with information, and as described below or otherwise in this Privacy Policy:
 
-#### 2.5 What happens if Personal Information is not provided
+1\. When You Request That We Share Your Information. We may offer opportunities and features through the Services that are brought to you by a third party or that otherwise involve sharing your information with a third party. If you request or agree at that time to have your information shared (i.e., if you “opt-in” or do not “opt-out”), your information will be disclosed to that third party (or parties) at that time and will be subject to the privacy policy and practices of that third party. You also may request, sometimes through your use of an interactive feature, a widget or third party application, that we share information about you with a third party and we will typically do so under those circumstances.   
 
-Where relevant, IGCE will endeavor to make Customers aware that IGCE may not be able to provide a particular service to them if Personal Information is not provided upon request. 
+2\. Service Providers.  We may use third parties to perform certain services on behalf of the iPic or the Services, such as fulfilling and processing orders, tracking analytics, or performing other administrative services. We may provide these companies with access to user information, including Personal Information, to carry out the services they are performing. If you purchase any products or services, our billing partner will receive billing and financial information (e.g., credit card numbers) necessary to process your charges, including your postal and e-mail addresses, depending on your payment method and the purchase.
 
-### 3\. MAINTENANCE AND MANAGEMENT OF PERSONAL INFORMATION
+3\. Legal Compliance & Security. We may disclose information, including Personal Information, in response to a subpoena or when required by law; to defend our rights; in response to a written request from law enforcement regarding an investigation into criminal activity that may have occurred through or in any way using iPic’s Services or property; to provide information to a claimed owner of intellectual property who claims that content you have provided to us infringes on their rights; and/or defend any applicable Terms of Use or other policies applicable to the Services; or to protect the personal safety, rights, property or security of any organization or individual. We may also use Device Identifiers, including IP addresses, to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies in our discretion. These disclosures may be carried out without notice to you.
 
-#### 3.1 Who may view Personal Information
+4\. Business Transitions iPic may share Personal Information with its subsidiaries and affiliates, primarily for business and operational purposes. iPic reserves the right to disclose and transfer all information related to the Services, including Personal Information, if it goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, or other corporate change, including, without limitation, during the course of any due diligence process.
 
-In general, only officers, employees or contractors of IGCE may view Personal Information. 
+5\. Sweepstakes, Contests and Promotions. We may offer sweepstakes, contests, and other promotions ("Promotion") that may require registration. By participating in a Promotion, you are agreeing to governing terms, conditions or official rules, which may contain specific requirements of you, including allowing the sponsor(s) of the Promotion to use your name, voice, likeness or other indicia of persona in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, Personal Information, such as your name and shipping address, may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
 
-IGCE will only grant access to parties other than IGCE's officers, employees and contractors to view Personal Information where IGCE believes that access is necessary to achieve the purpose for which the Personal Information was collected. 
+THIRD PARTY AD NETWORKS AND ANALYTICS PROVIDERS
 
-IGCE will only disclose Personal Information to parties other than IGCE's officers, employees and contractors if:
+Although the Services currently do not display ads from third parties, we work with network advertisers, ad agencies, third party traffic measurement services and other vendors to provide us with information regarding traffic on the Services, to serve our advertisements on other web sites, within third party applications, and other places online, and to provide us with information regarding the use of the Services and the effectiveness of our advertisements. For example, if you clicked on an iPic advertisement that led you to our Services, our service provider(s) may be able to tell us which iPic advertisement you clicked on and where you were viewing the advertisement. In connection with providing analytics and advertisement services, our service providers may collect certain information about your visits to this or other web sites. We do not share Personal Information with these service providers, but they may set and access their own tracking technologies on your computer or mobile device including (cookies and web beacons) and may otherwise collect or have access to information about you (such as your general interest in movies and entertainment and Usage Information). Cookies and web beacons, including those set by third party network advertisers, may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. We may share Usage Information about visitors with third party advertising companies, analytics providers and other vendors for similar purposes.  While we may use a variety of service providers to perform advertising and analytics services, you may wish to visit www.networkadvertising.org/managing/opt_out.asp which provides information regarding this practice by Network Advertising Initiative (“NAI”) members, including the “opt-out” procedures of NAI members.
 
-  * (a) that disclosure is required to give effect to the purposes for which IGCE collected the Personal Information; 
-  * (b) the Customer has consented to that disclosure; 
-  * (c) IGCE believes that the disclosure may lessen a risk of harm to the health or safety of any person; 
-  * (d) IGCE believes an unlawful activity is being undertaken and the Personal Information is disclosed as part of IGCE's investigation into this activity; 
-  * (e) IGCE is required by law to disclose the Personal Information; or 
-  * (f) the disclosure is required for the enforcement of a criminal law or a law imposing a pecuniary penalty or for the protection of public revenue. 
+UPDATING YOUR ACCOUNT INFORMATION
 
+You are responsible for maintaining the accuracy of the information you submit to us. You may review and update the information you have provided to us within the “your account” feature on the Services, by calling us at (561)886-3232, or by writing to us at iPic Theaters, Attn: Privacy Dept., 433 Plaza Real Boulevard, Suite 335, Boca Raton, FL.  We will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable. Note, however, that information may persist internally for administrative purposes and that residual data may remain on backup media or for other reasons. If you have made any public postings on or through the Services, such as in a community forum, these communications generally will not be removed; we reserve the right to undertake traditional editorial functions concerning the content available through the Services. 
 
+THIRD PARTY CONTENT, LINKS TO OTHER SITES, AND IPIC CONTENT FOUND OUTSIDE OF THE SERVICES
 
-#### 3.2 Storage and Security
+Certain content provided through the Services may be hosted and served by third parties, which may include third party widgets (such as those that allow you to “like” or “share” content with third party web sites and online services). In addition, the Services may link to third party web sites or content and iPic content and widgets may be included on web pages and web sites that are not associated with us and over which we have no control. These third parties may independently collect data. iPic is not responsible for the privacy practices or business practices of any third party.
 
-Your Personal Information will generally be stored in IGCE databases located in the United States. To the extent required by law, if your personal information will be transferred outside your country an appropriate notice will be provided.   
-IGCE maintains reasonable safeguards to protect the confidentiality, security and integrity of your Personal Information. For example, we use secure socket layer (SSL) technology to transfer Personal Information over the Internet. Although we use security measures to help protect your Personal Information against unauthorized disclosure, misuse or alteration, as is the case with all computer networks linked to the Internet, we cannot guarantee the security of information provided over the Internet and will not be responsible for breaches of security beyond our reasonable control. 
+SECURITY
 
-Personal Information may also be stored in hard copy form. Hard copy Personal Information is, wherever practical, kept under locked security. 
+iPic takes commercially reasonable security measures to protect the Personal Information submitted to us, both during transmission and once we receive it. For example, when you enter certain Personal Information, such as a credit card number and CCV2 number on our checkout forms, that information is encrypted using secure socket layer (SSL) technology, to help protect the communications between you and our payment partners. However, no method of electronic transmission or method of electronic storage is 100% secure. Therefore, we cannot guarantee the security of any information you submit and you do so at your own initiative and risk.
 
-#### 3.3 Updating Personal Information
+CONSENT TO TRANSFER
 
-IGCE regularly monitors the quality and accuracy of Personal Information that it maintains and where practical, updates that information on a regular basis. Customers may review, correct and update the Personal Information that you provide to us at an IGCE Internet Site by using the feedback mechanisms provided at a particular IGCE Internet Site or by writing to us at iPic-Gold Class Entertainment, 433 Plaza Real Boulevard, Suite 335, Boca Raton, FL 33432. Main phone line (561)886-3232. 
+The Services are operated in the United States. If you are located outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Services, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
 
-### 4\. CHILDREN
+CHANGES TO THIS PRIVACY POLICY
 
-IGCE does not specifically target its online services to children under 13 years old. If you are under the age of 13 you may use our website only under the supervision and with the consent of a parent or legal guardian. Where IGCE is aware that it is gathering information from a minor, IGCE will obtain consent from a parent or legal guardian for the collection of the information. Where this is not possible, IGCE's staff will not knowingly collect Personal Information from a minor under age 13. If your child has submitted Personal Information and you would like to request that such information be deleted from our records, you may do so using the feedback mechanisms provided at the website, or by writing to us at iPic-Gold Class Entertainment, 433 Plaza Real Boulevard, Suite 335, Boca Raton, FL 33432. Main phone line (561)886-3232. 
+We may update this Privacy Policy at any time and any changes will be effective upon posting.  However, we will use your Personal Information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy. 
 
-### 5\. CONTESTS
+QUESTIONS OR COMMENTS
 
-Personal Information gathered during contests run by IGCE will be governed by the principles set out in this Privacy Policy unless an express statement is made in relation to privacy in the conditions of entry for the contest. 
+If you have questions or comments about this privacy policy, please contact us through the applicable form available through the Services or contact us at:
 
-### 6\. DIRECT MARKETING
+iPic Theaters  
+Attention: Privacy Department  
+433 Plaza Real Boulevard, Suite 335   
+Boca Raton, FL
 
-Personal Information collected for direct marketing purposes will only be collected, used or disclosed with the consent of the relevant Customer as provided for in this Privacy Policy. In circumstances where IGCE cannot practically obtain the consent of a Customer, then IGCE may still engage in direct marketing to that Customer, but will:
+California Residents - Your CA Privacy Rights
 
-  * (a) advise the Customer that he or she can be taken off the mailing list at any time; and
-  * (b) display its contact details clearly in each direct marketing publication. 
+Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California certain information relating to third parties to which the company has disclosed certain categories of personal information during the preceding year for the third parties’ direct marketing purposes. Alternatively, the law provides that a company may comply, as iPic does, by disclosing in its privacy policy that it provides consumers choice (opt-out or opt-in) regarding sharing personal information with third parties for those third parties’ direct marketing purposes, and information on how to exercise that choice.  As stated above in this Privacy Policy, iPic provides you choice prior to sharing your personal information with third parties for their direct marketing purposes. If you do not opt-in or if you opt-out at the time iPic offers that choice, iPic does not share your information with that identified third party for its direct marketing purposes. 
 
-
-
-Customers may be taken off any mailing list or may opt-out of receiving marketing communications from IGCE by either writing to us at iPic-Gold Class Entertainment, 433 Plaza Real Boulevard, Suite 335, Boca Raton, FL 33432, or by contacting IGCE's Privacy Officer as described in Paragraph 10, below. 
-
-### 7\. ACCESS TO PERSONAL INFORMATION
-
-Customers may access their Personal Information by contacting IGCE's Privacy Officer as described in Paragraph 10, below. Access is generally granted within 30 days of that request. IGCE may impose a reasonable charge for access. 
-
-### 8\. WHEN IGCE MAY WITHHOLD ACCESS TO PERSONAL INFORMATION
-
-#### 8.1 When access can be withheld
-
-Access to Personal Information may be withheld in a number of circumstances. These include where: 
-
-(a) providing access would pose a serious and imminent threat to the life or health of a person;
-
-(b) providing access would have an unreasonable impact on the privacy of others; 
-
-(c) the information is subject to confidentiality where the person who provided the information to IGCE did so expressly on the condition that it remains confidential; 
-
-(d) the request is vexatious or frivolous; 
-
-(e) the information relates to current or anticipated legal proceedings between IGCE and the person and the information would not be available pursuant to the applicable rules of discovery; 
-
-(f) IGCE is in commercial negotiations with the person and the information would reveal IGCE's intentions; 
-
-(g) providing access would be unlawful or IGCE is required by a law to withhold access; or 
-
-(h) providing access could prejudice the investigation or detection by IGCE or by a government body of an unlawful activity or some serious or improper misconduct. Where IGCE does withhold Personal Information, IGCE may instead choose to give the Customer a summary of that information. 
-
-#### 8.2 Written reasons
-
-If IGCE does withhold Personal Information, IGCE will provide written reasons. 
-
-#### 8.3 Third party intermediary
-
-If IGCE withholds access to Personal Information, IGCE will consider whether the provision of access to an independent third party will meet IGCE's and the relevant Customer's needs. 
-
-### 9\. CONTRACTORS
-
-IGCE may from time to time employ subcontractors to provide services to it. In these situations, Personal Information may be collected about those subcontractors. This Privacy Policy applies equally to those subcontractors. 
-
-### 10\. WHO TO CONTACT
-
-If you have any questions regarding this Privacy Policy, IGCE's privacy practices, or your interaction with this website, please contact our Privacy Officer by e-mail at privacyofficer@ipic.com or by mail at:
-
-  * iPic-Gold Class Entertainment
-  * 433 Plaza Real Boulevard, Suite 335
-  * Boca Raton, FL 33432
-  * (561) 886-3232
-
-
-
-### 11\. MODIFICATIONS TO THIS DOCUMENT
-
-IGCE may, from time to time and without prior notice, modify this Privacy Policy and the way it handles Personal Information. We will post any changes on our website, so please check back periodically. Your continued use of our website after any change has been posted constitutes acceptance of the change to this Privacy Policy. 
-
-### This Privacy Policy was last updated October 12, 2011.
+If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to us at the following mailing address: Boca Raton, Attn: Privacy Department You must put the statement "Your California Privacy Rights" in your writing. You must include your name, street address, city, state, and zip code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
