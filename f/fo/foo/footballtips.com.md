@@ -1,52 +1,94 @@
-> *The following text is extracted and transformed from the footballtips.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606082503id_/http%3A//www.rummyroyal.com/about_us/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballtips.com privacy policy that was archived on 2013-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130206094545id_/http%3A//www.footballtips.com/Information/Privacy-Policy) for the most accurate reproduction.*
 
-# Security and Privacy
+# Privacy Policy
 
-**Security**  
-Protecting the privacy and security of our members is our number one priority at RummyRoyal. While providing our members with a fun, exciting and attractive skill-based online gaming environment, it is important to us to ensure this platform is also safe and secure and that our members' privacy is fully protected at all times. Our security and privacy policies are strictly enforced at all of our sites and those of our partners'. We conduct all our banking and financial affairs in accordance with generally accepted standards of international banking.
+This Privacy Policy was last revised on 1st November 2012
 
- **Privacy Policy**  
-We welcome you to RummyRoyal.com. We provide our services subject to the following terms and conditions contained in this privacy notice (the "Privacy Policy"). If you visit or play at RummyRoyal.com and use any current or future RM Royal Media LTD. (referred to herein as "RummyRoyal") services, you are deemed to have accepted the Privacy Policy and the End User Agreement that appear on the website www.RummyRoyal.com (the "Site") from time to time.  
-We appreciate your trust that we will use and share your privacy on the internet carefully and sensibly. The purpose of the Privacy Policy is to enable you to understand how we collect, store, use and safeguard your personal information and your rights in relation to that information. By visiting or playing at RummyRoyal you are accepting the practices described in the Privacy Policy.
+Footballtips.com (“the Site,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by the site when you use the Site Service, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy are defined in our Terms of Use 
 
- **1\. What information is collected and for what purpose**  
-As part of the RummyRoyal account (the "Account") opening process, we will ask you to provide us with certain personal information (the "Personal Information"), including name, postal address, e-mail address and password.  
-We will use your Personal Information to confirm various financial transactions, to occasionally send you events and news information and to provide you with customer support services. It is very important that you complete the Account details with valid information, since they will be used in the course of validating financial transactions and for the other aforementioned purposes.  
-Players are able to change their Account details by selecting the Account option in the downloaded software.
+ **Information We Collect**
 
- **2\. Deposit and withdrawal processing**  
-To play for real money, players will need to make a deposit. In the course of making a deposit, players will need to provide deposit method information (For example: credit card number). This information in conjunction with your other Personal Information may be used to clear financial transactions executed by you with RummyRoyal. 
+User-Provided Information: When you add a Site application on a social network site or a mobile device, you provide us with the information associated with our account on the site in accord with the site’s terms of use. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Service. You may provide us information in User Content you post to the Service. You may provide payment information to our payment partner if you conduct paid transactions on the Service; such information is subject to the payment provider’s privacy policy, not this Privacy Policy.
 
-**3\. Confidentiality**  
-RummyRoyal undertakes substantial efforts to protect the confidentiality of the identity, preferences and other information it has collected about individual Players. RummyRoyal will not knowingly allow access to this information to anyone outside RummyRoyal, other than to the Player or as described in this Privacy Policy.
+Cookies Information: When you use the Service, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets the Site help you log in faster and enhance your navigation through the Service. A cookie may also convey anonymous information about how you use the Service to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-You are responsible for all actions taken with your User ID and player password, including fees charged to your account. You should also take necessary measures to protect your information and unauthorized access to your password and computer. Your RummyRoyal player password is confidential and we recommend that you not divulge it to anyone or enable others to discover it. If you choose to share your User ID and password or your Personal Information with third parties, you are responsible for all actions taken with your Account. If you lose control of your Player password, you may lose control over your Personal Information and may be subject to legally binding actions being taken on your behalf. If your password has been compromised for any reason, you should immediately change your Player password.
+Log File Information: Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any web page. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
- **4\. Limits of Confidentiality**  
-Due to the existing legal, regulatory and security environment, we may be required, under certain circumstances, to disclose personally identifiable information about its players. Further, we can, and you authorize us to, disclose your player identification, name, street address, city, state, zip code, country, phone number, e-mail, and company to third party agents of RummyRoyal as we, in our sole discretion, believe necessary or appropriate in connection with an investigation for fraud, intellectual property infringement, piracy, other unlawful activities or any activity whatsoever that may expose us to legal liability.
+Clear Gifs Information: When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make the Site better for our users.
 
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other Personal Information will not be disclosed in ways not otherwise described in the Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose Personal Information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your Personal Information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your Personal Information or private communications will always remain private.
+ **How We Use Your Information**
 
- **5\. Who receives your information?**  
-In addition to legally required disclosures as explained above, we may disclose your Personal Information to our employees, employees of other companies related to or affiliated with RummyRoyal and to third party service providers who use your Personal Information to provide services to us in respect of you being a player with RummyRoyal. All parties who come into possession of your Personal Information under this provision shall be bound by applicable data protection laws to keep your Personal Information private at no less a level than that by which we are bound.
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
 
- **6\. Cookies**  
-We may send you a temporary cookie when you visit the Site. A cookie is a text-only string of information that we place in your computer's cookie file so that we can remember who you are when you revisit the Site. We may use the data generated from cookies to compile statistical data on your use of the Site. You are not obliged to accept the cookie from us and you have the ability to accept or decline cookies by modifying the settings in your browser.
+By providing the Site your email address, including by adding a the Site application on a social network, you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on the Service to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out by sending an email with “opt out” in the subject line to the email address specificed below. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails.
 
- **7\. International Transfers**  
-Personal information collected may be stored and processed in any country in which we or our affiliates, suppliers, subsidiaries, or agents are located. By using RummyRoyal services, you consent to all national and international transfers of your Personal Information without limitation.
+Following termination or deactivation of your Member account, The Site may retain your information and User Content for a commercially reasonable time for backup, archival, or audit purposes, or to reactivate your account upon your request. Furthermore, The Site may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your Member account.
 
- **8\. Third-Party Practices**  
-Although RummyRoyal does its best to work only with trustworthy online sites, RummyRoyal does not take responsibility for any information that you provide to third-party sites which link to or from the Site. This includes, but is not limited to, affiliate sites and advertisers. Since these third-party sites are not operated by RummyRoyal, we take no responsibility for their privacy policies, if any. We recommend that you read their privacy policy before submitting any information to their website.
+If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person’s email address and automatically send an email invitation. The Site stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service. Your friend may contact us to request that we remove this information from our database at the email address below
 
- **9\. Consent to Security Review**  
-We reserve the right to conduct a security review at any time to validate your identity, age, the registration data provided by you, and to verify your use of RummyRoyal services and your financial transactions for potential breach of this Privacy Policy, the End User Agreement or any applicable law. By accepting this Privacy Policy, you authorize us, our staff, affiliates, subsidiaries, agents, and suppliers to use your Personal Information and to disclose your Personal Information to third parties for the purposes of validating the information you provide to us in the course of using the Services including, where necessary, the transfer of information outside of your country. Security reviews may include but are not limited to ordering a credit report and/or otherwise verifying the information you provide against third party databases. In addition, to facilitate these security reviews, you agree to provide such information or documentation as we may request.  
-RummyRoyal reserves the right to use software to determine whether other active processes operating on your hardware represent a threat to the RummyRoyal System, either by using artificial intelligence to play the Games or by altering the RummyRoyal Software.
+The Site may use certain information about you and/or your User Content internally for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing content.
 
- **10\. Consent to Privacy Policy**  
-By visiting the Site, you agree to the terms of this Privacy Policy. We may occasionally update this Privacy Policy and we encourage you to periodically review it. Your continued use of the RummyRoyal Services constitutes your agreement to this Privacy Policy and any updates. If you do not agree or are not comfortable with any policy described in this Privacy Policy, your only remedy is to discontinue use of RummyRoyal's services.
+The Site reserves the right, but has no obligation, to monitor the User Content you post on the Service. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Use Agreement, or to protect or defend our rights or property or those of any third party. The Site also reserves the right to remove information upon the request of any third party.
 
- **Disclaimer:**  
-RummyRoyal does not assume liability for any events beyond our direct control. Despite RummyRoyal’s best efforts to maintain your privacy, due to the nature of the technology and software, we cannot guarantee, nor do we represent that there will be error-free performance as regards to the privacy of your personal information. RummyRoyal will not be liable for any indirect, incidental, consequential, or punitive damages relating to the use or release of Personal Information.
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you use the Service; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of users, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses; and (f) help you efficiently access your information after you sign in; and (h) track User Content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.
 
-For further assistance, feel free to [contact us](https://web.archive.org/support/support.html). 
+ **How We Share Your Information**
+
+Personally Identifiable Information: The Site may share your personally identifiable information with third parties solely for the purpose of providing the Service to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of The Site (for instance, on servers or databases co-located with hosting providers).
+
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
+
+The Site may disclose information about you to select business partners in order to provide you with advertising and promotional information and opportunities that we think may be of interest to you. We do not give our partners an independent right to share this information.
+
+Any personal information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. You may change your privacy settings on the Service with the features provided by the Application and/or the social networking site or by sending an email to the address specified below. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
+
+Except as otherwise described in this Privacy Policy, The Site will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of The Site, our Users or others.
+
+Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain The Site services.
+
+The Site may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the the Site Service. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. The Site does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks The Site to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies. The Site Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
+
+ **How We Protect Your Information**
+
+The Site uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information and implement your privacy settings. We cannot, however, ensure or warrant the security of any information you transmit to The Site and you do so at your own risk. Once we receive your transmission of information, The Site makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Your privacy settings may also be affected by changes to the functionality of The Site’s distributors, such as social networks. The Site is not responsible for the functionality or security measures of any third party.
+
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from The Site, at all times.
+
+Compromise of Personal Information
+
+In the event that personal information is compromised as a result of a breach of security, The Site will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+
+ **Your Choices About Your Information**
+
+You may, of course, decline to submit personally identifiable information through the Service, in which case The Site may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by contacting us at the email address below. You can review and correct the information about you that The Site keeps on file by contacting us directly at the email address below.
+
+ **  
+Children’s Privacy**
+
+Protecting the privacy of young children is especially important. For that reason, The Site does not knowingly collect or solicit personal information from anyone under the age of 18 or knowingly allow such persons to register as Members. If you are under 18, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 18 is allowed to provide any personal information to or on The Site. In the event that we learn that we have collected personal information from a child under age 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us at the email address below immediately.
+
+ **  
+Links to Other Web Sites**
+
+We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by The Site in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+ **  
+Changes to Our Privacy Policy**
+
+If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at the email address below or send mail to:
+
+privacy@Footballtips.com
+
+Footballtips.com
+
+Admiral’s Offices
+
+Main Gate Road
+
+The Historic Dockyard
+
+Chatham
+
+Kent ME4 4TZ 
