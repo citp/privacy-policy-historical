@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xfnk.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730034206id_/http%3A//www.xfnk.com/%3Fpage_id%3D1631) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfnk.com privacy policy that was archived on 2013-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130207085213id_/http%3A//www.xfnk.com/%3Fpage_id%3D1631) for the most accurate reproduction.*
 
 # Law For You » Privacy Policy
 
