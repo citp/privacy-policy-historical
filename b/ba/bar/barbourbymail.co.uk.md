@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbourbymail.co.uk privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126143857id_/http%3A//www.barbourbymail.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbourbymail.co.uk privacy policy that was archived on 2013-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130207123523id_/http%3A//www.barbourbymail.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Barbour's Dedicated Online Shop for Barbour Clothing
 
@@ -6,7 +6,7 @@
 
 We are committed to protecting and respecting your privacy.
 
-This policy (together with our [Terms of Use](https://web.archive.org/web/20121126143857id_/http%3A//www.barbourbymail.co.uk/termsofuse.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [Terms of Use](https://web.archive.org/web/20130207123523id_/http%3A//www.barbourbymail.co.uk/termsofuse.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Smith and Morris Retail Limited T/A The Outdoor and Country Store of The Old School, Stone Road, Blackbrook, Newcastle-under-Lyme, Staffordshire, ST5 5EG.
 
@@ -56,9 +56,6 @@ __utma | Google | Tracking | 2 years | This cookie is used to give each unique b
 __utmb | Google | Tracking | 30 minutes | This cookie is used to establish a session along with __utmc.  
 __utmc | Google | Tracking | Not set | This cookie is used to establish a session along with __utmb.  
 __utmz | Google | Tracking | 6 months | This cookie is used to track how you got to our site. For example via a search engine.  
-op1616[name of test]gum | Autonomy Optimost | Functionality | 30 days but may vary | This cookie is used in multivariant testing and is used to maintain consistency for the visitor. It controls the length of time for which visitors will see the same test version of our site. It is also used to store information on which visitors are excluded from a test, when the test is not being shown to all visitors.  
-op1616[name of test]liid | Autonomy Optimost | Functionality | 1 day but may vary | This cookie is used in multivariant testing. This cookie is used to track visitor behaviour after the visitor has seen a test version of our site. It is picked up by counters which track specific events such as page visits, or button clicks.   
-opTrack | Autonomy Optimost | Tracking | 1 Year | This cookie is used to track if a visitor is a new visitor or an existing visitor for use with multivariant testing of our site.  
 SliBeacon_ | Sli Systems | Functionality | 2 years | This cookie is used for our site search analytics, and to improve the relevance of search results for visitors.  
 SLI_4 | Sli Systems | Functionality | 6 Months | This cookie is used for our site search analytics, and to improve the relevance of search results for visitors.  
 __atuvc | Addthis.com | Functionality | 2 years | This cookie is used by addthis.com who provide our social media plug-in. It allows the visitor to view information such as number of Facebook likes.  
@@ -108,7 +105,7 @@ We may disclose your personal information to third parties:
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
 
   * If Smith and Morris Retail Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/web/20121126143857id_/http%3A//www.barbourbymail.co.uk/termsofuse.aspx) or [Terms and Conditions of Supply](https://web.archive.org/web/20121126143857id_/http%3A//www.barbourbymail.co.uk/termsofuse.aspx) and other agreements; or to protect the rights, property, or safety of Smith and Morris Retail T/A The Outdoor and Country Store, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](https://web.archive.org/web/20130207123523id_/http%3A//www.barbourbymail.co.uk/termsofuse.aspx) or [Terms and Conditions of Supply](https://web.archive.org/web/20130207123523id_/http%3A//www.barbourbymail.co.uk/termsofuse.aspx) and other agreements; or to protect the rights, property, or safety of Smith and Morris Retail T/A The Outdoor and Country Store, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
