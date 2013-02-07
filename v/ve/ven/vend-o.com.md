@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vend-o.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208063514id_/http%3A//vend-o.com/en/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vend-o.com privacy policy that was archived on 2013-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130207041046id_/http%3A//vend-o.com/en/about-us/privacy) for the most accurate reproduction.*
 
 # Vendo
 
