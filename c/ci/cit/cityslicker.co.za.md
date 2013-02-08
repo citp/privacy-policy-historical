@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cityslicker.co.za privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202132638id_/http%3A//www.cityslicker.co.za/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityslicker.co.za privacy policy that was archived on 2013-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130209001327id_/http%3A//www.cityslicker.co.za/about/privacy.php) for the most accurate reproduction.*
 
-# CitySlicker - Buy Deals Everyday|Cape Town|Shopping|Voucher|Discount
+# CitySlicker - Buy Deals Everyday|Durban|Shopping|Voucher|Discount
 
 ## We protect your personal information and data.
 
