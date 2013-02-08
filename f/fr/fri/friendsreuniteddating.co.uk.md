@@ -1,115 +1,137 @@
-> *The following text is extracted and transformed from the friendsreuniteddating.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231001939id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.aspx%3Fwci%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsreuniteddating.co.uk privacy policy that was archived on 2013-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130208064330id_/http%3A//www.friendsreuniteddating.com/static.php%3Fhtml%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy policy • Online Dating UK • Friends Reunited Dating
+# FriendsReunitedDating.com - Find local singles on FriendsReunitedDating - an online dating site
 
-At Friends Reunited Dating, we believe strongly in protecting the privacy of our users' personal information. This is a legal document that sets out how we handle data that identifies you. You should read it in conjunction with the Friends Reunited Dating [Terms and Conditions](https://web.archive.org/web/20101231001939id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.aspx?wci=terms), of which this Privacy Policy forms part.
+### Privacy Policy
 
-##  1\. Emails from Friends Reunited Dating 
+(' **We** ') Cupid plc are committed to protecting and respecting your privacy. 
 
-You are probably most interested in how we will use your email address to communicate with you, so here's our email promise, in plain English.
+This policy (together with our [terms and conditions of use](http://www.friendsreuniteddating.com/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-**Service Emails** \- The team at Friends Reunited Dating hate spam and will never ever send you unsolicited emails. But there are some emails that we will need to send you to provide you with a good Friends Reunited Dating service. These include notifications that you have a message from another Member, reminders about your membership expiring and guides on how to use the site. A full list of the types of emails you will receive to help you use the service most effectively (which we call Service Emails) are shown below:
+We are the data controller for the purposes of the Data Protection Act 1998 (the ' **Act** '). 
 
-  * Validation email – the email we use to verify your email address when you first register
-  * Payment receipt – this is sent if you upgrade to Full Membership
-  * Renewal notices – these remind you to renew your Full Membership
-  * Automatic Full Membership renewal alerts – if you have selected automatic renewal of your Full Membership, we will alert you before this happens
-  * Key service messages – if we need to notify you about changes to the service
-  * New message notification and reminders – when you receive messages from other Members
-  * Notes/profile and photo approval notification
-  * Service suspension notices – if you break the house rules
+**What information do we collect about you?**
 
+We may collect and process the following information about you: 
 
+Information that you provide by filling in forms on our site (the ' **Site** ') (including your personal details, contact details, mobile phone number and other profile information you submit when you create a membership profile). We may also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions. 
 
-**Weekly Dating Matches** \- As well as these Service Emails, you will also receive our Weekly Dating Matches and (if you have opted to receive them) our occasional newsletters. These emails genuinely help you make the most of the website and let you know when there’s new fun and interesting stuff to do. Here's a bit more about them... 
+Information from your web-based email accounts (including your profile picture and other publicly visible information) if you agree to add the Site's email address to the contact lists stored at your email provider's website. 
 
-  * We automatically send you our Weekly Dating Matches Alert. It is an essential part of the Friends Reunited Dating service because it tells you when potential matches have joined the site. The good thing about this email is it lets you know when you should pop back to the site.
-  * If at anytime you decide you don't want to receive the Weekly Dating Matches, all you need to do is uncheck the “Weekly Dating Matches” box in your email preferences. You’ll find this on the “My Settings” page which can be accessed from a link anywhere on the site titled “My details/profiles” once you’re logged in. Instructions on this can be found at the bottom of every Weekly Dating Match email.
+Your location according to the IP address assigned to your PC by your Internet Service Provider. 
 
+If you contact us, we may keep a record of that correspondence. 
 
+Details of transactions you carry out through the Site, including any information we require to provide any products or services that you order from us through the Site. 
 
-**Newsletters** \- When registering, you are given the option to receive our occasional newsletter. We use this to notify you about new features on the site, ask your opinion, and tell you about services you might not be using yet. 
+Website usage information is also collected using cookies (see below under 'Cookies'). 
 
-  * We only send a newsletter when there is something worthwhile to tell you about, so your inbox will never be overflowing with guff from us. Generally you»ll get a newsletter about once every six weeks.
-  * If you decide you no longer want to receive these newsletters – or if you aren»t currently receiving it and want to – all you need to do is change your email preferences. You’ll find this in the “My Settings” area once you’re logged in (see above as to how to get there).
+**How will we use the information about you?**
 
+We use the information we hold about you in the following ways: 
 
+To administer your user account with us (including notifying you of any compatible matches, tips, announcements, updates, special offers or services, should you consent to this). 
 
-##  2\. The information we gather and track 
+To help us improve the structure, layout and usability of the Site. 
 
-**Information gathered on registration** \- When you register for the Friends Reunited Dating Service, you provide your name, gender, email address, and various other items of information about you ("Registration Information"). They are available to you, and capable of being changed, through your Member Details page.
+To allow you to participate in any interactive features of the Site (including the features that require the mobile phone number). 
 
-**Cookies** \- We use small files known as "cookies" to enhance users' experience of the Friends Reunited Dating Service as follows:
+To help personalise your repeat visits to the Site. 
 
-  1. To hold Members' login information, so that your Member Details are displayed when you visit the Friends Reunited Dating Service. This option can be turned off by switching the "Remember Your Password" option to "No" in your Member Details.
-  2. To facilitate optimal use of the Friends Reunited Dating Service by Members, by means of a temporary "session" cookie. These cookies disappear when the Member's browser session ends, or if the Member clicks the "logoff" text which appears on the Friends Reunited Dating Service.
+To notify you of any compatible matches or any matches who are near your location. 
 
+To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing by us and third parties** ' for more information). Such information may be sent to you by email or by SMS (if you provided your mobile phone number). 
 
+To answer any questions you may raise or respond to any comments you may send to us. 
 
-**Neilsen Netratings** \- In addition we useNeilsen Netratings, an independent measurement and research company. They use cookies and code on the site to gather non-personal data regarding the number and frequency of visitors to our site. Both the cookies and the embedded code provide general site and not personal statistical information about visits to pages on the site, the duration of individual page views, paths taken by visitors through the site and other general information. Friends Reunited Dating uses this type of information to help it improve the services to its members. Further information regarding Neilsen Netratings privacy statement can be found at [www.nielsen-netratings.com](http://www.nielsen-netratings.com/)
+To notify you about changes to our service or the functionality of the Site. 
 
-**Third party cookies** including those from **DoubleClick, TheSearchWorks** and **Google** are used on some parts of the site. They are used for tracking the success of advertising campaigns. These cookies are normally permanent.
+To carry out market analysis and research. 
 
-##  3\. Storing and use of information 
+To ensure that you are complying with the [terms and conditions of use](http://www.friendsreuniteddating.com/helptandc.asp?s=s) and to comply with our statutory and regulatory obligations. 
 
-The over-riding principles we apply are these:
+**What information do we collect about others?**
 
-  1. We, and (where relevant) our credit card processing agents, will not supply your personal data to a third party for commercial exploitation, unless you agree to permit us to do so; and
-  2. the only circumstances in which we will provide any of your personal data to a third party for non-commercial purposes are those contained in this Privacy Policy.
+Some features of the Site allow you to share your Site experience with people you know (“your Contacts”), or to invite them to join the Site. When given the option to do so you can choose to upload your Contacts information; we will request their name and email address. 
 
+If you give us your password to upload these Contacts through a web based email provider we shall not store your password after you have uploaded your Contacts’ addresses. 
 
+**How do we use information about your Contacts?**
 
-**Registration Information** \- Some or all of the Registration Information posted by a Member will be made available to other Members in response to searches they make on the Friends Reunited Dating Service. Your name and email address will not be made available in this way, but the name you elect to be known as on the site will. It is up to you how anonymous you wish this name to be. Your photograph may also be disclosed.
+If you choose to upload your Contact’s name and email address you are allowing us to send an email invitation on your behalf, inviting your Contact to join the Site. 
 
-We may also make your Registration Information available to other individuals who are not Members but are permitted by us to use some or all of this Friends Reunited Dating Service on websites operated by the Friends Reunited Group, including sites run for ITV, Trinity Mirror, GMTV and Guardian Media Group or our commercial partners such as Facebook. Again your name and email address will not be made available to other individuals without your consent, but the name you elect to be known as on the site will. It is up to you how anonymous you wish this name to be. Your photograph may also be disclosed.
+We will store your Contact’s name and email address solely for the purposes of inviting them to join our Site and for associating your Contact with you and other people they may know. 
 
-**Email addresses** \- We do not directly make your email address available to anyone on any screen of the Friends Reunited Dating Service. The only legitimate way of making contact with another Member as a result of viewing a search result found on the Friends Reunited Dating Service is for a Full Member to enter a message which we will send on the Full Member's behalf to the Member. The email sent will not include the sending Full Member's email address and the recipient can only respond through the Friends Reunited Dating site. By sending a message Full Members will not be disclosing their email address.
+If your Contact does not want us to store their email address which you uploaded to our Site, they can ask us to remove it by contacting us at [datarequest@friendsreuniteddating.com ](mailto:datarequest@friendsreuniteddating.com)
 
-**Advertising** \- The Friends Reunited Dating Service may include interactive advertising for other businesses. We may use, and provide to third parties, anonymised demographic data provided by Members to target this advertising more appropriately.
+We will not store your Contacts information after invitations (up to a maximum of 3) have been sent. Your Contacts will then only receive future emails from us if they choose to accept the invitation and join our Site, or if you use any of our tools to share experiences with your Contacts and you input their email address for us to use again. 
 
-**Credit Card information** \- There has been a lot of publicity about Credit Card security on the Internet so we use Worldpay plc and Datacash as our payment providers. Both operate a secure server, to process our credit card payments. They encrypt Members' credit or debit card information and authorise payment directly. This means that Members' full credit card details are never revealed to us. Worldpay plc and Datacash may transfer to, process and hold your credit card information in countries either within or outside the European Economic Area in connection with performing their duties.
+**Disclosure of your information**
 
-**Companies in the Friends Reunited Dating group** \- We may share data supplied by you (or collected about you) with our subsidiaries and other companies in our group, but only for the purposes described in this policy.
+As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that we or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with: 
 
-**Changes in Friends Reunited Dating business** \- If all of the assets which we use to operate our business (or substantially all of them) are acquired by a third party, we may transfer personal data we then hold to that party so that the acquirer can continue to provide the Friends Reunited Dating Service.
+Other companies in the same corporate group as us. 
 
-**Place of processing** \- The personal information held by us is held on and processed by computers situated in the United Kingdom.
+A buyer or prospective buyer of our business. 
 
-##  4\. Security 
+Our professional advisers, such as our lawyers, where it is necessary for them to advise us. 
 
-We have security measures in place to protect our customer database and access to this database is restricted internally. However, it remains each Member's responsibility:
+Other persons if we are under a duty to disclose or share your information in order to comply with any legal obligation. 
 
-  * to protect against unauthorised access to Member Details
-  * to ensure no-one else uses the Friends Reunited Dating Service on that Member»s machine while it is "logged on" to the Friends Reunited Dating Service
-  * to log off or exit from the Friends Reunited Dating Service when not using it
-  * to keep his/her password secret
+We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties. 
 
+You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Company and Group's services including our various internet sites and mobile sites. 
 
+We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
 
-##  5\. Removing yourself from the Friends Reunited Dating Service 
+We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used. 
 
-You may have your registration details removed at any time. To remove yourself please [click here](https://web.archive.org/web/20101231001939id_/http%3A//www.friendsreuniteddating.co.uk/join.aspx?wci=unregister) and we will remove all your Member Details.
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@friendsreuniteddating.com](mailto:unsubscribe@friendsreuniteddating.com)
 
-##  6\. Disclosure for legal reasons 
+**Marketing and other uses of your non-personal data by us and by third parties**
 
-We reserve the right to communicate such of a Member's personal information as we hold to third parties which seek the disclosure of it, and which make a legally-compliant request for its disclosure.
+We may share non-personal information we collect under any of the above circumstances. We may share it with our own companies or other third parties to develop and deliver targeted advertising to you, or to help us prepare or share aggregate business and marketing reports. Your non-personal data may also be sold or otherwise provided to third parties for use by them for various purposes. 
 
-##  7\. Data Retention Period 
+**Cookies**
 
-We will retain your personal data only as long as is necessary for the purposes to which you consent under the Friends Reunited Dating [Terms and Conditions](https://web.archive.org/web/20101231001939id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.aspx?wci=terms) and this Privacy Policy, or as is required by applicable law, and then we will delete it. 
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Site and to deliver a better and more personalised service. They enable us: 
 
-##  8\. Contacting Friends Reunited Dating 
+To estimate our audience size and usage pattern. 
 
-If you have any questions about this Privacy Policy, the practices of the Friends Reunited Dating Service, or your dealings with Friends Reunited Dating, you can contact us on [support@FriendsReunitedDating.co.uk](mailto:support@friendsreuniteddating.co.uk). You can also use this address if you wish to request from Friends Reunited Dating a copy of the personal data we hold about you or a description of that data. Please note that by law we are entitled to charge you a small sum for providing this information. 
+To store information about your preferences, and so allow us to customise the Site according to your individual interests. 
 
-##  9\. Links to third party sites 
+To speed up your searches. 
 
-The Friends Reunited Dating Service contains links to other sites. Friends Reunited Dating is not responsible for the privacy practices, or the content, of those web sites. 
+To recognise you when you return to the Site. 
 
-##  10\. Data Protection Information 
+For further information about cookies visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/)
 
-You can obtain further information about data protection laws by visiting the Information Commissioner's website at www.dataprotection.gov.uk. You can search for our Data Protection Notification there, should you so wish.
+You can set your browser not to accept cookies and the above website tells you how to do that. However, in a few cases some of the features on our Site may not function as a result. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site. 
 
-##  11\. Changes to this Privacy Policy 
+**Where we store your personal data**
 
-If we change this Privacy Policy, we will notify you of the changed document in the same way as we notify changes to the Friends Reunited Dating [Terms and Conditions](https://web.archive.org/web/20101231001939id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.aspx?wci=terms).
+The personal data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area (' **EEA** '). It may also be processed by staff located outside the EEA who work for us or for one of our suppliers (for example, staff who are involved in providing services that you order from us, processing your payment details or providing support services for the Site). By submitting your personal data to us through the Site, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+
+Where we have given you (or where you have chosen) a password or user ID code which enables you to access certain parts of the Site, you are responsible for keeping the password or user ID code confidential. We ask you not to share a password or user ID code with anyone. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Athough we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access. 
+
+**Other Websites**
+
+The Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+
+**Access to information and correction**
+
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please contact us at [info@friendsreuniteddating.com](mailto:info@friendsreuniteddating.com). Please note that we may make a small charge for this service.
+
+We want to make sure that your personal information is accurate and up to date. You can ask us to correct or remove information you think is inaccurate at any time by e-mailing us at [info@friendsreuniteddating.com](mailto:info@friendsreuniteddating.com).
+
+**Changes to our privacy policy**
+
+We keep our privacy policy under regular review and will post any changes to it on this page. We encourage you to regularly review our privacy policy to make sure you are always aware of what information we collect, how we use it and under what circumstances, if any, we may share it with other parties. 
+
+**Additional Privacy Protections for Children Using the Internet:**  We do not solicit or target persons younger than legal age for collection of information online. Our Site does not permit children under the age of 18 to become users and we do not accept any information from children. By submitting information via the Site you represent that you are over the age of 18. We encourage minors to seek the consent of their parents before providing any information about themselves or their households to anyone on the Internet. We encourage parents to take an active role to protect the privacy and security of their children and to prevent the inappropriate use of information about their children. We support the development of technologies that help parents to control the collection and use of personal information from children who use online services in their households. 
+
+**Questions**
+
+If you have any questions about this privacy policy then please contact us at [info@friendsreuniteddating.com](mailto:info@friendsreuniteddating.com)
