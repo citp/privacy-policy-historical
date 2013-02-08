@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hlorenzo.com privacy policy that was archived on 2012-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120619025657id_/http%3A//hlorenzo.com/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hlorenzo.com privacy policy that was archived on 2013-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130208184428id_/http%3A//www.hlorenzo.com/Privacy-statement) for the most accurate reproduction.*
 
 # H. Lorenzo :: Privacy Statement
 
