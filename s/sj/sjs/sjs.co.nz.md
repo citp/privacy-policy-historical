@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sjs.co.nz privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011142410id_/http%3A//www.sjs.co.nz/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sjs.co.nz privacy policy that was archived on 2013-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130208101010id_/http%3A//www.sjs.co.nz/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Student Job Search
 
