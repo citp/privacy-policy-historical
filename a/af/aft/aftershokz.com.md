@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aftershokz.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208032554id_/http%3A//www.aftershokz.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aftershokz.com privacy policy that was archived on 2013-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130208014042id_/http%3A//www.aftershokz.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # AfterShokz Sport Headphones - Open Ear Bone Conduction Headphones - Safer and More Comfortable
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20121208032554id_/http%3A//www.aftershokz.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20130208014042id_/http%3A//www.aftershokz.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
