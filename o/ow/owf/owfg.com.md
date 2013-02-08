@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owfg.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111092837id_/http%3A//www.owfg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owfg.com privacy policy that was archived on 2013-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130208145236id_/http%3A//www.owfg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Overwaitea Food Group
 
