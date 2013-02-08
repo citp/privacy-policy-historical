@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allsitecafe.com privacy policy that was archived on 2012-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121023205831id_/http%3A//www.allsitecafe.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allsitecafe.com privacy policy that was archived on 2013-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130208041326id_/http%3A//www.allsitecafe.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -57,6 +57,82 @@
 </div>
 <p>&nbsp;</p>
 
+<script type="text/javascript"> 
+function GetCookieX3X (name)
+{
+    var start = document.cookie.indexOf(name+'=');
+    var len = start+name.length+1;
+    if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
+    if (start == -1) return null;
+    var end = document.cookie.indexOf(';',len);
+    if (end == -1) end = document.cookie.length;
+    return unescape(document.cookie.substring(len,end));
+}
+function AdsenseClickX3X()
+{
+	if (! DetectedClickX3X)
+	{
+		DetectedClickX3X = 1;
+		//alert ('AdsenseClick');
+		trackerimg = new Image();
+		trackerimg.src = '/privacy.html?t=1';
+	}
+}
+function OperaPageUnloadX3X()
+{
+	document.cookie = 'adxxurl=' + window.location.pathname + ';path=/;';
+}
+function OperaPageLoadX3X()
+{
+	if (GetCookieX3X ('adxxurl') == window.location.pathname)
+	{
+		document.cookie = 'adxxurl=;path=/;';
+		window.location.reload(true);
+	}
+	document.cookie = 'adxxurl=;path=/;';
+}
+function PageUnloadX3X()
+{
+	if (InIframeX3X)
+	{
+		AdsenseClickX3X ();
+		InIframeX3X = 0;
+	}
+}
+function DoMouseOverX3X()
+{
+	InIframeX3X = 1;
+}
+function DoMouseOutX3X()
+{
+	InIframeX3X = 0;
+}
+var InIframeX3X = 0;
+var DetectedClickX3X = 0;
+if (document.getElementsByTagName  ||  document.body.all)
+{
+	var iframelist;
+	if (document.getElementsByTagName)
+		iframelist = document.body.getElementsByTagName('IFRAME');
+	else
+		iframelist = document.body.all.tags('IFRAME');
+	for (var c = 0; c < iframelist.length; c ++)
+	{
+		if (iframelist[c].src.indexOf('googlesyndication.com') != -1)
+		{
+			iframelist[c].onfocus = AdsenseClickX3X;
+			iframelist[c].onmouseover = DoMouseOverX3X;
+			iframelist[c].onmouseout = DoMouseOutX3X;
+		}
+	}
+}
+window.onbeforeunload = PageUnloadX3X;
+if (navigator.userAgent.indexOf('Opera') >= 0)
+{	//Fix Opera bug so page reloads on Back (needs cookies)
+	window.onunload = OperaPageUnloadX3X;
+	window.onload = OperaPageLoadX3X;
+}
+</script>
 
 
 
