@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverelements.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123021602id_/http%3A//www.cleverelements.com/appl/ce/portal_e/imprint.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverelements.com privacy policy that was archived on 2013-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130210003305id_/http%3A//www.cleverelements.com/appl/ce/portal_e/imprint.php) for the most accurate reproduction.*
 
 # Imprint - Clever Elements
 
@@ -25,7 +25,7 @@ HRB 125967 B / DE 813700499
 
 Please note: the English version of this document is provided for informational purpose only.  
 In doubt, only the German version is legally binding due to German law.  
-The German version of this document can be found [here](https://web.archive.org/web/20111123021602id_/http%3A//www.cleverelements.com/appl/ce/portal/imprint.php).
+The German version of this document can be found [here](https://web.archive.org/web/20130210003305id_/http%3A//www.cleverelements.com/appl/ce/portal/imprint.php).
 
 ## Disclaimer
 
