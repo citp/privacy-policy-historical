@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infinitemonkeys.mobi privacy policy that was archived on 2012-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120412165026id_/http%3A//infinitemonkeys.mobi/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitemonkeys.mobi privacy policy that was archived on 2013-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130209214648id_/http%3A//infinitemonkeys.mobi/privacy-policy) for the most accurate reproduction.*
 
-# Make an iPhone App, Create iPhone App, Create Android Apps
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -27,7 +27,7 @@ The email address you provide may be used to send you information, respond to in
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
