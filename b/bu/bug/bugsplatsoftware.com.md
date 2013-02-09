@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015232928id_/http%3A//www.bugsplatsoftware.com/browse/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugsplatsoftware.com privacy policy that was archived on 2013-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130209203738id_/http%3A//www.bugsplatsoftware.com/browse/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
