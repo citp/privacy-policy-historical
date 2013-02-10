@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the zippytune.com privacy policy that was archived on 2012-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121212045907id_/http%3A//www.zippytune.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zippytune.com privacy policy that was archived on 2013-02-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130210205131id_/https%3A//www.zippytune.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
-
+<meta name="verifyownership" content="f261c96b632a05e306410e0c9ed60eda">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="content-language" content="ll-cc">
-<meta name="google-site-verification" content="UoL94dyx376TXGOf4zbqYygtP9NR4-juXpXG45qeHug">
-<meta name="verifyownership" content="9b54c10e4416189fe5f58d2a1f2148cb">
+<meta name="google-site-verification" content="oOSHHo1h_lPh8mKVxRHM9yUYPkHWnQ5G5RqIBJAGXk4">
 <meta name="msvalidate.01" content="9219F21BA5C42CE2D459DC85D587EE49">
 
 
@@ -16,7 +15,7 @@
 
 
 <!-- Scripts and CSS -->
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=421516381202760"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://widget.uservoice.com/S9E1xZTAnLF2fxybtDdh0A.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=421516381202760"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/js/tinybox.js"></script>
 <script type="text/javascript" src="/searchfield/searchfield.js"></script>
@@ -24,13 +23,13 @@
 <script type="text/javascript" src="/js/autosuggest.js"></script>
 <script type="text/javascript" src="/js/history.js"></script>
 <script type="text/javascript" src="/js/ajaxNavigator.js"></script>
-<script src="https://www.zippytune.com/js/jquery.form.js"></script>
-
+<script type="text/javascript" src="/js/jquery.form.js"></script>
+<script type="text/javascript" src="/js/livefunctions.js"></script>
 
 <script type="text/javascript">
 
 var getServerTime = (function(){
-    var baseTime = 1355288348000,
+    var baseTime = 1360529490000,
         startTime = new Date().getTime();
 
     return function(){
@@ -54,11 +53,11 @@ var getServerTime = (function(){
 
 <!-- META DATA -->
 <!-- GENERAL -->
-<meta name="keywords" content="mp3, download, explore, music, share, song, free, track, Zippy, ZippyTune">
-<meta name="viewport" content="width=1100" user-scalable="no">
 <meta name="viewport" content="width=device-width, 
-height=device-height, initial-scale=1.0, maximum-scale=1.0, 
-target-densityDpi=device-dpi">
+height=device-height, initial-scale=1.0, maximum-scale=1.0, target-densityDpi=device-dpi">
+
+<!--<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, user-scalable=no">-->
+<meta name="keywords" content="mp3, download, explore, music, share, sound, song, free, track, Zippy, ZippyTune">
 <meta content="IE=edge,chrome=1" name="X-UA-Compatible">
 <meta property="og:site_name" content="ZippyTune">
 <meta content="421516381202760" property="fb:app_id">
@@ -87,12 +86,20 @@ target-densityDpi=device-dpi">
 </script>
 <!-- Google Analytics Tracker-->
 
+<!-- Share This -->
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "b78beba8-2a39-4df5-b195-f212dedde282", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+<!-- Share This -->
+
 </head>
 
 <!-- GET USER DATA -->
 <!-- END GET USER DATA -->
 
 <body class="stream">
+
+<div style="position:absolute;right:10px;top:120px;z-index:3;display:none;" id="followLoading"><img src="/images/fbloading.gif" alt="Loading"></div>
 
 <!-- REQUIRED FOR FACEBOK PLUGIN -->
 <div id="fb-root"></div>
@@ -107,6 +114,10 @@ target-densityDpi=device-dpi">
 }(document, 'script', 'facebook-jssdk'));</script>
 
 
+
+
+
+
 <div class="newHeader">
 
 
@@ -117,8 +128,9 @@ target-densityDpi=device-dpi">
 
  <div class="homeExplore">
   <ul class="headerNav">
-  <li><a href="/" class="hEItem">Home</a></li>
-  <li><a href="/explore.php" class="hEItem">Explore</a></li>
+  <li><a href="/" class="hEItem" id="heStream">Home</a></li>
+  <li><a href="/explore" class="hEItem" id="hePeople">People</a></li>
+  <li><a href="/tracks" class="hEItem" id="heTracks">Music</a></li>
   <li><div class="hEItemB"></div></li>
   </ul>
  </div>
@@ -143,49 +155,40 @@ target-densityDpi=device-dpi">
 
 
 
+<div class="rightLoggedIn">
 
 
+<div style="margin-top:18px;">
+<a href="/login.php" class="newNavLink">Sign In</a><span class="seperateLinks">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+<a href="/signup.php" class="newNavLink">Create Account</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+</div>
 
 
-<div class="newNavButtons">
-
-
-<!--
-<a href='/' class='newNavLink'>Home</a><span class='seperateLinks'>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-<a href='#' class='newNavLink' id='exploreDrop'>Explore</a><span class='seperateLinks'>&nbsp;&nbsp;<a href='#' id='exploreDrop2'><img src="/images/DownTriangleIcongrey.png" style="height:8px;width:8px;"/></a><span class='seperateLinks'>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-<a href="/uploadtrack.php" class="uploadShare">Add Your Track</a>
--->
-
+<!-- BELOW END HEADER AND HEADER IN -->
 
 
 </div>
 
 
-<script type="text/javascript" src="/js/livefunctions.js"></script>
+</div>
+
+
+
+
 
 
 
 <div class="dropdownwrap">
 
+
+
+
 <div id="display">
 </div>
 
-<div class="exploredropdown" id="exploredropdown" style="display:none;">
-<a href="/tracks.php"><div class="option" id="option">Tracks</div></a>
-<a href="/explore.php"><div class="option" id="option">People</div></a>
-<a href="/playlists"><div class="option" id="option">Playlists</div></a>
 
-</div>
-
-</div>
-
-
-<div class="rightNotLoggedIn">
-
-<a href="/login.php" class="newNavLink">Sign In</a><span class="seperateLinks">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-<a href="/signup.php" class="newNavLink">Create Account</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="/uploadtrack.php" class="creAccount">Upload Music</a>
 
 
 
@@ -194,31 +197,16 @@ target-densityDpi=device-dpi">
 
 
 
-</div>
 
 
-</div>
+
+
 
 
 
 <!-- DROP DOWN js -->
 <script type="text/javascript">
 
-  $(document).ready(function() {
-        var hide = false;
-        $("#exploreDrop").hover(function(){
-            if (hide) clearTimeout(hide);
-            $("#exploredropdown").stop(false, true).fadeIn(200);
-        }, function() {
-            hide = setTimeout(function() {$("#exploredropdown").fadeOut(200);}, 600);
-        });
-        $("#exploredropdown").hover(function(){
-            if (hide) clearTimeout(hide);
-            if($("#exploredropdown").is(':animated')) $("#exploredropdown").fadeIn(200);
-        }, function() {
-            hide = setTimeout(function() {$("#exploredropdown").fadeOut(200);}, 600);
-        });
-    });
 
 
   $(document).ready(function() {
@@ -228,36 +216,10 @@ $("#searchBox").focus(function(){
 });
 
 $("#searchBox").blur(function(){
-   $(this).animate({width:'250px'}, 500);
+   $(this).animate({width:'260px'}, 500);
 });
 
    });
-
-  /*
-  $(document).ready(function() {
-        $('#searchBox').focus(function() {
-            $('#searchBox').css("width", "350px");
-        });
-        $('#searchBox').blur(function() {
-            $('#searchBox').css("width", "250px");
-        });
-    });
- */
- $(document).ready(function() {
-        var hide = false;
-        $("#exploreDrop2").hover(function(){
-            if (hide) clearTimeout(hide);
-            $("#exploredropdown").stop(false, true).fadeIn(200);
-        }, function() {
-            hide = setTimeout(function() {$("#exploredropdown").fadeOut(200);}, 600);
-        });
-        $("#dropdown").hover(function(){
-            if (hide) clearTimeout(hide);
-            if($("#exploredropdown").is(':animated')) $("#exploredropdown").fadeIn(200);
-        }, function() {
-            hide = setTimeout(function() {$("#exploredropdown").fadeOut(200);}, 600);
-        });
-    });
 
 </script>
 
@@ -267,7 +229,7 @@ $("#searchBox").blur(function(){
 <!-- END CONTROLS -->
 
 <div id="fbLoading" style="display:none;">
- <img src="/images/fbloading.gif" title="Loading...">
+ <img src="/images/fbloading.gif" title="Loading..." alt="Loading">
 </div><div id="pageContainer">
 
 	<div id="pagewrapper" class="pagewrapper">
@@ -435,7 +397,8 @@ As long as you remain a registered user of one or more of the Sites, or continue
 
 </p></div>
 
-</div>
+</div><div style="height:50px;width:100%;"></div>
+
 <div id="playerfooterwrap">
 </div>
 
@@ -448,7 +411,9 @@ As long as you remain a registered user of one or more of the Sites, or continue
   | <a href="/about.php" class="footerHov">About</a> 
   | <a href="/contactus.php" class="footerHov">Contact Us</a>  
   | <a href="/report.php" class="footerHov">Copyright Information</a>
-   <br><br><span style="font-weight:normal;color:#ffffff;">  © 2012 ZippyTune. All rights reserved.  </span></span>
+
+
+   <br><br><span style="font-weight:normal;color:#ffffff;">  © 2013 ZippyTune. All rights reserved.  </span></span>
 				  
 					<a href="#" id="toTop" style="display:inline;"><span id="toTopHover" style="opacity:0;"></span>
 					</a>
@@ -456,7 +421,6 @@ As long as you remain a registered user of one or more of the Sites, or continue
 
 
 </div>
-
             
 </div>
 
@@ -465,9 +429,16 @@ As long as you remain a registered user of one or more of the Sites, or continue
 
 
 
+<div class="overlay"></div><!-- OVERLAY FOR ONCLICK DISABLED -->
 
 
-
-
+<script type="text/javascript">
+  var uvOptions = {};
+  (function() {
+    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/S9E1xZTAnLF2fxybtDdh0A.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+  })();
+</script>
 
 </body></html>
