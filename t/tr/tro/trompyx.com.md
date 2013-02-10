@@ -1,5 +1,27 @@
-> *The following text is extracted and transformed from the trompyx.com privacy policy that was archived on 2012-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120820103146id_/http%3A//www.trompyx.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trompyx.com privacy policy that was archived on 2013-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130210075650id_/http%3A//www.trompyx.com/privacy-policy) for the most accurate reproduction.*
 
-# TROMPYX: Privacy Policy
+# Privacy Policy | Information Center TROMPYX
 
-trompyx.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. Third Party Advertising We use Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. Personal Information We do not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. External Links This site contains links to other sites. Good-Thing.Net is not responsible for the privacy practices or the content of such Web sites. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us. (trompyx(@)gmail.com) 
+Trompyx.com is committed to protecting your privacy.
+
+Trompyx.com currently collects no personal information about who visits our site.
+
+Trompyx.com uses a hit service that shows information such as which internet service visitors are using, their screen resolutions, browser types, etc. but in no way does this reveal the name, email address, or any specific information whatsoever about the site’s visitors.
+
+We use third-party advertising companies to serve ads when you visit our Web site.
+
+These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
+Will Trompyx.com disclose the information it collects to outside parties? Trompyx.com may eventually disclose the aforementioned GENERAL information about visitors – information that does NOT identify who you are.
+
+We may disclose answers to questions such as: During what time periods do we receive the most visitors, what is the most common browser version of our visitors, what are the most popular internet services our visitors use, etc. We will never release contact details of any registered users of our website.
+
+The last thing we want is “spam” reaching our visitors. Your consent: By using our Web site, you consent to the collection and use of this information by Trompyx.com.
+
+If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+But, now and forever we put your privacy first before any other concerns.  
+We will never sell lists of email addresses from this site.  
+We respect the privacy of our visitors.
