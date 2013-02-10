@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationdegreesource.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209094236id_/http%3A//www.educationdegreesource.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationdegreesource.com privacy policy that was archived on 2013-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130210020929id_/http%3A//www.educationdegreesource.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Career Degree Source | Education Online
 
