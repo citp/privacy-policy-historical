@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galaxylovenote.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029102542id_/https%3A//www.galaxylovenote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galaxylovenote.com privacy policy that was archived on 2013-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130210114732id_/https%3A//www.galaxylovenote.com/privacy-policy) for the most accurate reproduction.*
 
 # Samsung GALAXY Love Note
 
