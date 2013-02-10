@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-free-directory.com privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211083453id_/http%3A//www.best-free-directory.com/privacy-policy.php%3Fp%3Dh) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-free-directory.com privacy policy that was archived on 2013-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130210114233id_/http%3A//best-free-directory.com/privacy-policy.php%3Fp%3Dh) for the most accurate reproduction.*
 
 # Best Free Directory - Privacy Policy
 
