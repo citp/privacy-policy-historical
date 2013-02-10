@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adeex.in privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021070743id_/http%3A//www.adeex.in/questions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adeex.in privacy policy that was archived on 2013-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130211004234id_/http%3A//www.adeex.in/questions/privacy-policy) for the most accurate reproduction.*
 
 # Free Classified ads, classifieds, Jobs, Real Estate
 
