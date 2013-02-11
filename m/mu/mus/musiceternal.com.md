@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the musiceternal.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606054830id_/http%3A//www.musiceternal.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musiceternal.com privacy policy that was archived on 2013-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130211092728id_/http%3A//www.musiceternal.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy-Policy: Privacy-Policy
+
+Page 1 of 1  
+
 
 **Privacy Policy**
 
@@ -26,5 +29,3 @@ Under **_NO_** circumstances is this information given or sold to any third part
 **OTHER INFORMATION**
 
 All additional information that is obtained by member after purchase may be posted on Musiceternal.com and/or DJ-Draven, but only after approval by that member. Otherwise, it is not presented, unless it is a review, song Of The Week, or some other means that does not show material or information provided by you, the member.
-
-[](http://www.musiceternal.com/Join/Advertisers)
