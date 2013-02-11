@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orderyourname.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213074814id_/http%3A//orderyourname.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderyourname.com privacy policy that was archived on 2013-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130211160620id_/http%3A//orderyourname.com/privacy-policy) for the most accurate reproduction.*
 
 # OrderYourName.com | Privacy Policy
 
