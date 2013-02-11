@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uqast.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119151949id_/http%3A//www.uqast.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uqast.com privacy policy that was archived on 2013-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130211031715id_/http%3A//www.uqast.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # uQast Privacy Policy
 
