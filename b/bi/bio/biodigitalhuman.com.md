@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biodigitalhuman.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102112736id_/https%3A//www.biodigitalhuman.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biodigitalhuman.com privacy policy that was archived on 2013-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130212042202id_/https%3A//www.biodigitalhuman.com/home/privacy.html) for the most accurate reproduction.*
 
 # BioDigital Human
 
@@ -99,5 +99,5 @@ BDS may amend this Privacy Policy. Use of information we collect now is subject 
 
 If you have any questions or concerns regarding privacy at BDS, please send us a detailed message to [support@biodigital.com](mailto:privacy@biodigital.com?subject=BioDigital%20Human%20Privacy%20Questions&) or to BioDigital Systems LLC at 594 Broadway, Suite 606, New York, NY 10012. Your privacy is important to us and we will make every effort to resolve your concerns.
 
-© 2012 BioDigital Systems, LLC. All rights reserved.   
+© 2013 BioDigital Systems, LLC. All rights reserved.   
 Last Updated: March 2012
