@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamescelebrity.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111072503id_/http%3A//www.gamescelebrity.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamescelebrity.com privacy policy that was archived on 2013-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130213154337id_/http%3A//www.gamescelebrity.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
