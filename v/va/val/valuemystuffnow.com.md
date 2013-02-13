@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemystuffnow.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630142923id_/http%3A//www.valuemystuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemystuffnow.com privacy policy that was archived on 2013-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130213031333id_/http%3A//www.valuemystuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy VALUEMYSTUFFNOW.COM
 
@@ -33,9 +33,9 @@ If you have any queries in relation to the use and protection of your personal d
 
 #### It's quick and easy to get an expert valuation...
 
-##### 1\. You upload photos
+##### 1\. Upload Photo
 
-You upload some photos of your item and add any information you have.
+You upload the photos of your item and add any information you have
 
 ##### 2\. We assign an expert
 
