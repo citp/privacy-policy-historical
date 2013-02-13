@@ -1,100 +1,107 @@
-> *The following text is extracted and transformed from the seismic.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seismic.com privacy policy that was archived on 2013-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130213143630id_/http%3A//www.seismic.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Seismic
 
-**Go Daddy Respects Your Privacy**
+We at Seismic Software, Inc., D/B/A Seismic ("Seismic," "we," "us," "our") know that our users ("you," "your") care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using www.Seismic.com ("Website") and domain name, and any other linked pages, features, content, Seismic Mobile Application ("Mobile Application"), or the software ("Software") or any other products or services we offer from time to time by in connection therewith (collectively, the "Seismic Services""), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+  1. ### What Does This Privacy Policy Cover?
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Website located at www.Seismic.com, Software, and on our Mobile Application collectively "Seismic Services". The use of information collected through our Software shall be limited to the purpose of providing the service for which the Client has engaged Seismic. This policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Seismic has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe'sProgram Requirements and the TRUSTed Cloud Program Requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's certification covers Seismic Services as defined above. The TRUSTe certification does not cover personal information collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 855-466-8748. If you are not satisfied with our response you can contact TRUSTe here.
 
-**Information Collection and Use**
+We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for Seismic Services. If you are under 13, please do not attempt to register for Seismic Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on Seismic Services. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@seismic.com](mailto:support@seismic.com).
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  2. ### What Information Does Seismic Collect?
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We gather various types of Personal Information such as name, email address, company name, phone number, Mobile OS, and Device type from our users, as explained more fully below. We may use this Personal Information to personalize and improve Seismic Services, to allow our users to set up a user account and profile, to contact users, to fulfill your requests for certain products and services, to analyze how users utilize the Seismic Services, and as otherwise set forth in this Privacy Policy. We may share certain types of Personal Information with third parties (described in this Section and in Section III below). We collect the following types of information: 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+    1. ### Information You Provide to Us:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We receive and store any information you knowingly provide to us on Seismic Services. For example, we collect Personal Information such as your name, email address, etc. We may collect other Personal Information you provide to us through your use of Seismic Services, such as the information or content you upload, display, manage and/or otherwise use in connection with your creation of pitches through the Software (your "Content"). Our Mobile Application does not track users using Geo-Location. You can choose not to provide us with certain information, but then you may not be able to register with us or to take advantage of some of our features. We may anonymize your Personal Information so that you cannot be individually identified, and provide that information to our partners. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+From time to time, we display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@seismic.com](mailto:support@seismic.com). 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Seismic also collects information under the direction of its Clients who utilize our Software, and has no direct relationship with the individuals whose personal data it processes. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+    2. ### Information Collected Automatically:
 
-**Security**
+      * Whenever you interact with Seismic Services , we automatically receive and record information on our server logs from your browser including your IP address, "cookie" information, and the page you requested. "Cookies" are identifiers we transfer to your computer that allow us to recognize your browser and tell us how and when pages in our Website are visited and by how many people. You may be able to change the preferences on your browser to prevent or limit your computer or device's acceptance of cookies, but this may prevent you from taking advantage of our Website's best features.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+      * We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
-**Updating Your Information**
+      * We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see section IV below. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+      * The use of cookies and web beacons by our third party tracking utility company is not covered by our privacy policy. We do not have access or control over these tracking technologies.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+      * When we collect usage information (such as the numbers and frequency of visitors to the Website), we only use this data in aggregate form, and not in a manner that would identify you personally. For example, this aggregate data tells us how often users use parts of the Website, so that we can make the Website appealing to as many users as possible. We may also provide this aggregate information to our partners; our partners may use such information to understand how often and in what ways people use Seismic services, so that they, too, can provide you with an optimal experience. We never disclose aggregate information to a partner in a manner that would identify you personally.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+    3. ### E-mail and Other Communications:
 
-      iii.      You may call us at: (480) 505-8800
+We may contact you, by email or other means; for example, we may send you promotional offers on behalf of other businesses, or communicate with you about your use of Seismic Servcies. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make emails more interesting and improve our service. If you do not want to receive email or other mail from us, please indicate your preference by sending an email to [support@seismic.com](mailto:support@seismic.com). 
 
-       iv.      You may fax us at: (480) 505-8844
+  3. ### Will Seismic Share Any of the Personal Information it Receives?
 
-**Sending Emails**
+We neither rent nor sell your Personal Information in personally identifiable form to anyone. We share your Personal Information in personally identifiable form with third parties as described below. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+    1. ### Affiliated Businesses We Do Not Control:
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+In certain situations, businesses we're affiliated with may sell items or provide services to you through the Website (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. 
 
-**Compliance with Laws and Law Enforcement**
+    2. ### Agents:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. Seismic may transfer personal information collected through its Software to companies that help us provide our service as described above. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
-**Third Party Service Providers**
+    3. ### Business Transfers:
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+    4. ### Protection of Seismic and Others:
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We may release Personal Information when we believe in good faith that release is necessary to comply with a subpoena, or similar legal process; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Nu:Pitch, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-**Supplementation of Information**
+    5. ### With Your Consent:
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+  4. ### Is Personal Information About me Secure?
 
-**Contests/Surveys**
+Your account is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. When you enter sensitive information (such as your login information in our Software, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+The Website may contain links to other sites. We are not responsible for the privacy policies and/or practices on other sites. When following a link to another site you should read that site's privacy policy.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+  5. ### What personal information can i access?
 
-**Tell-A-Friend**
+Through your account settings with Seismic Services, you may access, and, in some cases, edit or delete the following information you've provided to us:
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+    * name and password
 
-**What Happens to my Personal Information if I Opt Out?**
+    * email address
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+    * location
 
-**Transfer of Data Abroad**
+    * content
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+The information you can view and update may change as the Seismic Services changes. If you have any questions about viewing or updating information we have on file about you, please contact us via at support@nupitch.com 
 
-**Changes in Our Practices**
+  6. ### What Choices Do I Have?
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+You can always opt not to disclose information to use, but keep in mind some information may be needed to register with us or to take advantage of some of our special features.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+You may be able to add, update, or delete information as explained in Section V above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account via email to [support@seismic.com](mailto:support@seismic.com). Please note that some information may remain in our private records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. 
 
-**Contacting Our Site**
+We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly. Seismic will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Seismic will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+If you do not wish to receive email or other mail from us, please contact us via email at [support@seismic.com](mailto:support@seismic.com) or follow the unsubscribe instructions in each promotional email. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
 
-* * *
+  7. ### Changes to this Privacy Policy
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+  8. ### Questions or Concerns
+
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [support@seismic.com](mailto:support@seismic.com). We will make every effort to resolve your concerns.
+
+685 Second Street  
+Encinitas, CA 92024  
+Effective Date: August 13, 2012  
+
+
+
+
