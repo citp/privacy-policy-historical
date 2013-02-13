@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earth4energy.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223060732id_/http%3A//www.earth4energy.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth4energy.com privacy policy that was archived on 2013-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130213060818id_/http%3A//www.earth4energy.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Earth4Energy Privacy Policy
 
