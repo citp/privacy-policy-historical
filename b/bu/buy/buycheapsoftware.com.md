@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buycheapsoftware.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028090223id_/https%3A//www.buycheapsoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycheapsoftware.com privacy policy that was archived on 2013-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130214155456id_/http%3A//www.buycheapsoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # BuyCheapSoftware
 
