@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adsblink.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213013723id_/http%3A//www.adsblink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsblink.com privacy policy that was archived on 2013-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130214064822id_/http%3A//www.adsblink.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Classified Ads
+# Privacy Policy
 
 Our Privacy Policy is designed to assist you for understanding how we collect and use the personal information you provided to us and to assist you in making informed decisions when using our website (adsblink.com) and our products and services (Free Classifieds, Buy or Sale).  
 What Information we are Collecting!
@@ -41,4 +41,8 @@ We may disclose your personal information if required to do so by law or subpoen
 Your Consent
 
 By using the Site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on the Site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. If you have any questions,  
-feel free to [Contact Us](http://www.adsblink.com/contact-us/). 
+feel free to Contact Us.
+
+0
+
+0
