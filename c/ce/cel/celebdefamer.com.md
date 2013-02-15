@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebdefamer.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222112813id_/http%3A//track2.celebdefamer.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebdefamer.com privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215190718id_/http%3A//track2.celebdefamer.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
