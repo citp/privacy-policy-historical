@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2012-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120611090635id_/http%3A//bannerbank.com/Documents/BANR_Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannerbank.com privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215125143id_/http%3A//bannerbank.com/Documents/BANR_Privacy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                                               Rev. October 2011
+                                                                                                                               Rev. October 2012
                                WHAT DOES BANNER BANK DO WITH YOUR PERSONAL INFORMATION?
  FACTS
  Why?                          Financial companies choose how they share your personal information. Federal law gives consumers
@@ -40,7 +40,7 @@
  Questions?                    Call toll-free 800-272-9933
 Privacy Model Disclosure                                                                                                        PRIV-MODEL 8/1/2010
 VMP® Bankers Systems™
-Wolters Kluwer Financial Services © 2010                               2011.1/1660 3082558-010 Custom EPRV1660
+Wolters Kluwer Financial Services © 2010                               2012.1/1660 3494008-010 Custom EPRV1660
 
 
 Page 2
