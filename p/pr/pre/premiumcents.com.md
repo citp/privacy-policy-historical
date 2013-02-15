@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumcents.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227180127id_/http%3A//premiumcents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumcents.com privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215033217id_/http%3A//premiumcents.com/privacy-policy) for the most accurate reproduction.*
 
 # Premiumcents - Earn the premium way!
 
