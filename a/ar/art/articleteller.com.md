@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleteller.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007184510id_/http%3A//www.articleteller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleteller.com privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215015035id_/http%3A//www.articleteller.com/privacy-policy) for the most accurate reproduction.*
 
 # Articleteller "Privacy Policy" Page
 
