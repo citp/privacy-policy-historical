@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfectaudience.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015233629id_/https%3A//perfectaudience.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectaudience.com privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215102538id_/https%3A//www.perfectaudience.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Perfect Audience
+# Perfect Audience - Privacy
 
 (Last updated July 27, 2012) 
 
