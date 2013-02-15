@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the styleseat.com privacy policy that was archived on 2012-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121104032028id_/http%3A//www.styleseat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the styleseat.com privacy policy that was archived on 2013-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130215155438id_/https%3A//www.styleseat.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="//widgets.awe.sm/v3/widgets.js?key=c4e2cc2a143cd4741589587221017e476474399de7d50b21d73c78f20eaf45da&amp;async=true"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/0f926739cd92029668a1eb7be394466b7f0f6567.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+<!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="//widgets.awe.sm/v3/widgets.js?key=c4e2cc2a143cd4741589587221017e476474399de7d50b21d73c78f20eaf45da&amp;async=true"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/0f926739cd92029668a1eb7be394466b7f0f6567.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
         <title>StyleSeat Privacy Policy</title>
         <meta charset="utf-8">
         <meta name="description" content="">
         <meta name="keywords" content="">
         <meta property="fb:app_id" content="111891482183773">
         <link rel="shortcut icon" href="/favicon.ico">
-        <link rel="stylesheet" type="text/css" href="//d116z2zrbldebi.cloudfront.net/static/css/min/ssnew.87f12e34.css">
+        <link rel="stylesheet" type="text/css" href="//d3ekddjly7rbp4.cloudfront.net/static/css/min/ssnew.d0aed7ec.css">
 
         <!--[if lt IE 9]>
         <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         
         
-            <link rel="image_src" href="//d3ekddjly7rbp4.cloudfront.net/static/new/images/ginkgo_512x512.c4a06a95.png">
-            <meta property="og:image" content="//d3ekddjly7rbp4.cloudfront.net/static/new/images/ginkgo_512x512.c4a06a95.png">
+            <link rel="image_src" href="//d2nibjxagc37ko.cloudfront.net/static/new/images/ginkgo_512x512.c4a06a95.png">
+            <meta property="og:image" content="http://d2nibjxagc37ko.cloudfront.net/static/new/images/ginkgo_512x512.c4a06a95.png">
         
         
             <meta property="og:title" content="Welcome to StyleSeat">
@@ -29,7 +29,7 @@
 <body id="">
 
 
-  <script type="text/javascript" src="//d2nibjxagc37ko.cloudfront.net/static/js/min/ssnew.6a6d0872.js"></script>
+  <script type="text/javascript" src="//d149ro5wtvak1z.cloudfront.net/static/js/min/ssnew.1cf76009.js"></script>
 
 
 
@@ -131,53 +131,58 @@ function completedUserSignupLogin(data) {
 
           
 
+          window.recordPageView = function(protocol, fullPath, host, pathName, search) {
+              try {
+                  var domainRE = /^(?:[^\/]+:\/\/)?([^\/:]+)/;
+                  var matches = 'https://www.styleseat.com/'.match(domainRE);
+                  var referrerDomain = '';
+                  if(matches && matches.length > 1) {
+                      referrerDomain = matches[1];
+                  }
+
+                  var page_seq = getCookie('page_seq');
+                  if(!page_seq) { page_seq = 0; }
+                  page_seq = parseInt(page_seq) + 1;
+                  setCookie('page_seq', page_seq, 0, "/", false);
+                  var logSession = (referrerDomain.lastIndexOf('styleseat.com') == -1);
+
+                  $j.ajax("/tracker/log_page",
+                          { 'type': 'POST',
+                              'data': {
+                                  'pid': 0,
+                                  'r' : "https://www.styleseat.com/",
+                                  'rOver' : "", // if GET has trackRef then use that, else use referrer (used to force referrer on modal opens etc)
+                                  'i' : "207.241.237.232, 10.80.179.159",
+                                  'u' : "Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)",
+                                  'e' : '1',
+                                  'utm_source' : "",
+                                  'utm_medium' : "",
+                                  'utm_content' : "",
+                                  'utm_campaign' : "",
+                                  'page_seq' : page_seq,
+                                  'pf': fullPath,
+                                  'ppr': protocol,
+                                  'ph': host,
+                                  'pp': pathName,
+                                  'pqs': search,
+                                  
+                                  'log_session':logSession,
+                                  'session':getCookie('sessionid'),
+                                  'pref': "",
+                                  'prefOver': ""
+                              }
+                          }
+                  );
+              }
+              catch(e) {
+                  logError(e, 'Tracker', 'Something failed while making tracker call for non ss referrer visit.');
+              }
+          };
+
           $j(document).ready(function() {
-            try {
-                var domainRE = /^(?:[^\/]+:\/\/)?([^\/:]+)/;
-                var matches = ''.match(domainRE);
-                var referrerDomain = '';
-                if(matches && matches.length > 1) {
-                    referrerDomain = matches[1];
-                }
-
-                var page_seq = getCookie('page_seq');
-                if(!page_seq) { page_seq = 0; }
-                page_seq = parseInt(page_seq) + 1;
-                setCookie('page_seq', page_seq, 0, "/", false);
-                var logSession = (referrerDomain.lastIndexOf('styleseat.com') == -1);
-
-                $j.ajax("/tracker/log_page",
-                        { 'type': 'POST',
-                            'data': {
-                                'pid': 0,
-                                'r' : "",
-                                'rOver' : "", // if GET has trackRef then use that, else use referrer (used to force referrer on modal opens etc)
-                                'i' : "174.129.228.67",
-                                'u' : "ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)",
-                                'e' : '1',
-                                'utm_source' : "",
-                                'utm_medium' : "",
-                                'utm_content' : "",
-                                'utm_campaign' : "",
-                                'page_seq' : page_seq,
-                                'pf': window.location.protocol + "//" + window.location.host + window.location.pathname + window.location.search,
-                                'ppr': window.location.protocol,
-                                'ph':window.location.host,
-                                'pp':window.location.pathname,
-                                'pqs':window.location.search,
-                                
-                                'log_session':logSession,
-                                'session':getCookie('sessionid'),
-                                'pref': "",
-                                'prefOver': ""
-                            }
-                        }
-                );
-            }
-            catch(e) {
-                logError(e, 'Tracker', 'Something failed while making tracker call for non ss referrer visit.');
-
-            }
+            window.recordPageView(window.location.protocol,
+                    window.location.protocol + "//" + window.location.host + window.location.pathname + window.location.search,
+                    window.location.host, window.location.pathname, window.location.search);
           });
 
     </script>
@@ -248,8 +253,10 @@ var styleSeatAwesmButtons = {
                 cookie : true, // enable cookies to allow the server to access the session
                 xfbml  : true,  // parse XFBML
                 oauth  : true,
-                channelUrl: 'http://www.styleseat.com/sharing/fb_channel' //custom channel - Note that running the channel
+                channelUrl: ('https:' == document.location.protocol ? 'https://' : 'http://')
+                        + 'www.styleseat.com/sharing/fb_channel' //custom channel - Note that running the channel
                 // in local dev against www causes IE to be sad.
+
             });
 
             // Suggested hotfix in comments for IE Permission Denied bug
@@ -295,9 +302,10 @@ var styleSeatAwesmButtons = {
   </div>
   <div id="wrapper">
     
+    
         <!-- start:loggedOutHeader -->
 		    <header id="siteHeader" role="banner">
-		      <h1><a href="/"><img id="logoLight" width="162" height="38" src="//d116z2zrbldebi.cloudfront.net/static/new/images/logo.eaff61f3.png" alt="StyleSeat"></a></h1>
+		      <h1><a href="/"><img id="logoLight" width="162" height="38" src="//d3ekddjly7rbp4.cloudfront.net/static/new/images/logo.eaff61f3.png" alt="StyleSeat"></a></h1>
 		      <nav id="siteNav" role="navigation">
 		        <ul>
 		          
@@ -329,15 +337,10 @@ var styleSeatAwesmButtons = {
 		        </ul>
 		      </nav><!--end:nav-->
                 
-                    
-                        
-                            <ul id="tools">
-                                <li class="it01"><div class="padMe"><a href="/signup?pref=origHead">Join as a Professional</a></div></li>
-                                <li class="it01" style="margin-left:8px"><div class="padMe"><a href="#" class="doClientSignup">Join as Client</a></div>
-                                </li><li><div class="padMe"><a href="/login?next=/privacy">Log in</a></div></li>
-                            </ul><!--end:tools-->
-                        
-                    
+                    <ul id="tools">
+                        <li><div><a href="/signup?pref=tealTextHead" style="color: #1EAB9C; padding: 5px; font-weight: bold; font-size: 16px;">Sign up for StyleSeat!</a></div></li>
+                        <li><div class="padMe"><a href="/login?next=/privacy">Log in</a></div></li>
+                    </ul><!--end:tools-->
                 
                 
 		      <div id="breadcrumbs">
@@ -347,6 +350,7 @@ var styleSeatAwesmButtons = {
 		      
 		      
 		    </header><!--end:loggedOutHeader -->
+    
     
     
 <div id="central">
@@ -415,6 +419,7 @@ var styleSeatAwesmButtons = {
 </div>
 
     </div><!--end:wrapper-->
+    
         
     <footer id="footerWrapper" style="position: relative;">
       <div>
@@ -478,6 +483,7 @@ var styleSeatAwesmButtons = {
       </div>
     </footer>
         
+    
   <!--end:wrapper-->
   
     
@@ -556,7 +562,7 @@ var styleSeatAwesmButtons = {
 
 </script>
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","4b1135a577",328162,"NQNaYkAHDUQDVhFZWwxJfkNcBRdeDVtKQlEFD0tCQAcXXg1bS0ZdBxFLDEIUCkEDVhw=",0,60,new Date().getTime()])</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","4b1135a577","328162","NQNaYkAHDUQDVhFZWwxJfkNcBRdeDVtKQlEFD0tCQAcXXg1bS0ZdBxFLDEIUCkEDVhw=",0,64,new Date().getTime(),"","","","",""]);</script>
 <script type="text/javascript">var _kiq = _kiq || [];</script>
 
 <script type="text/javascript" src="//s3.amazonaws.com/j.kissinsights.com/u/117/cb0cfddec5f425f23f4076e15ec0a8b1f8520b5f.js" async="true"></script>
@@ -568,4 +574,4 @@ var styleSeatAwesmButtons = {
     })();
 </script>
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
