@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latest-version-blog.blogspot.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014144948id_/http%3A//latest-version-blog.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latest-version-blog.blogspot.com privacy policy that was archived on 2013-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130216002933id_/http%3A//latest-version-blog.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Latest Version: Privacy Policy
 
