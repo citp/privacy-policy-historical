@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the celebritybodygossip.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028082005id_/http%3A//celebritybodygossip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritybodygossip.com privacy policy that was archived on 2013-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130216020128id_/http%3A//celebritybodygossip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrity Body Gossip
 
-Hi and welcome to Celebrity Body Gossip! If you're new here, you may want to subscribe to my [RSS feed](http://feeds.feedburner.com/CelebrityBodyGossip). Thanks for visiting!
-
- **Privacy Policy for www.celebritybodygossip.com**
+**Privacy Policy for www.celebritybodygossip.com**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at celebritybodygossip@gmail.com.
 
