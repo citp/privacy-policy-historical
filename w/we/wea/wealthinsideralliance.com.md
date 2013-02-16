@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthinsideralliance.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226061417id_/http%3A//wealthinsideralliance.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthinsideralliance.com privacy policy that was archived on 2013-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130216025938id_/http%3A//wealthinsideralliance.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Wealth Insider Alliance | Privacy Policy
 
