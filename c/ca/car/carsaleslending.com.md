@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsaleslending.com privacy policy that was archived on 2011-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111221180105id_/http%3A//www.carsaleslending.com/prp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsaleslending.com privacy policy that was archived on 2013-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130216082335id_/http%3A//carsaleslending.com/prp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
