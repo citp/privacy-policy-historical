@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sherrodbrown.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214214521id_/http%3A//www.sherrodbrown.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherrodbrown.com privacy policy that was archived on 2013-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130216092601id_/http%3A//www.sherrodbrown.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Senator Sherrod Brown, Ohio -- Official Campaign Website
 
