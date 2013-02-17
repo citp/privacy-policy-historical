@@ -1,31 +1,79 @@
-> *The following text is extracted and transformed from the tweaky.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114031405id_/http%3A//www.tweaky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweaky.com privacy policy that was archived on 2013-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130217185859id_/https%3A//www.tweaky.com/privacy) for the most accurate reproduction.*
 
-# Tweaky - the marketplace for website customization
+# The #1 marketplace for website, wordpress customization | Tweaky
 
-### Website Visitors
+This Privacy Policy governs the manner in which Tweaky Inc collects, uses, maintains and discloses information collected from users (each, a "User") of the http://tweaky.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Tweaky Inc.
 
-Like most website operators, Tweaky.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Tweaky.com’s purpose in collecting non-personally identifying information is to better understand how Tweaky.com’s visitors use its website. From time to time, Tweaky.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+## Personal identification information
 
-Tweaky.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Tweaky.com does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, credit card information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-### Gathering of Personally-Identifying Information
+## Non-personal identification information
 
-Certain visitors to Tweaky.com’s websites choose to interact with Tweaky.com in ways that require Tweaky.com to gather personally-identifying information. The amount and type of information that Tweaky.com gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a username and email address. In each case, Tweaky.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Tweaky.com. Tweaky.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-### Aggregated Statistics
+## Web browser cookies
 
-Tweaky.com may collect statistics about the behavior of visitors to its websites. For instance, Tweaky.com may reveal how many downloads a particular version got, or say which plugins are most popular based on checks from `api.Tweaky.com`, a web service used by Tweaky installations to check for new versions of Tweaky and plugins. However, Tweaky.com does not disclose personally-identifying information other than as described below. 
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-### Protection of Certain Personally-Identifying Information
+## How we use collected information
 
-Tweaky.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on Tweaky.com’s behalf or to provide services available at Tweaky.com’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Tweaky.com’s websites, you consent to the transfer of such information to them. Tweaky.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, Tweaky.com discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Tweaky.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of Tweaky.com, third parties, or the public at large. If you are a registered user of a Tweaky.com website and have supplied your email address, Tweaky.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Tweaky.com and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Tweaky.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
+Tweaky Inc may collect and use Users personal information for the following purposes:
 
-### Cookies
+  * **To improve customer service**
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Tweaky.com uses cookies to help Tweaky.com identify and track visitors, their usage of Tweaky.com website, and their website access preferences. Tweaky.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Tweaky.com’s websites, with the drawback that certain features of Tweaky.com’s websites may not function properly without the aid of cookies.
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-### Privacy Policy Changes
+  * **To personalize user experience**
 
-Although most changes are likely to be minor, Tweaky.com may change its Privacy Policy from time to time, and in Tweaky.com’s sole discretion. Tweaky.com encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+
+  * **To improve our Site**
+
+We may use feedback you provide to improve our products and services.
+
+  * **To process payments**
+
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+
+  * **To send periodic emails**
+
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+
+
+
+
+## How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+## Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+## Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+## Changes to this privacy policy
+
+Tweaky Inc has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+## Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+## Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+Tweaky Inc   
+http://tweaky.com   
+48 Cambridge Street, Collingwood, VIC, 3066, Australia   
+admin@tweaky.com 
+
+This document was last updated on October 31, 2012
 
 [ ](http://creativecommons.org/licenses/by-sa/2.5/)
