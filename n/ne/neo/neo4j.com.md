@@ -1,100 +1,59 @@
-> *The following text is extracted and transformed from the neo4j.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neo4j.com privacy policy that was archived on 2013-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130217195432id_/http%3A//www.neo4j.org/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy - Neo4j: The World's Leading Graph Database
 
-**Go Daddy Respects Your Privacy**
+## Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This privacy policy applies to the use of [Neo4j.org](http://neo4j.org/). We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### Links to Other Websites
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
 
-**Information Collection and Use**
+### Registration and Use of Personal Information
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+If you do register, and in the process provide us with personally identifiable information, rest assured that any such information you provide will not be shared with any third-party organization except with your express consent.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Please note that if you post comments or articles to any forum, blog or message board on this site, any personally identifiable information you provide in those comments or articles may be read, collated and used by anyone viewing them. As such, we are not responsible for personally identifiable information you may choose to make available through these channels.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We also provide visitors to our website the opportunity to opt-in to receive communications from us. In this case, we ask the visitor for his or her email address. These communications will include our monthly newsletter, product promotions and any other information that we feel may be pertinent to the visitor. You may opt out of receiving any, or all, of these communications by emailing us at [webinfo@neotechnology.com](mailto:webinfo@neotechnology.com), by clicking on the “unsubscribe” link in any email we send to you, by replying to any email we send you and entering the word UNSUBSCRIBE in the subject line, or by visiting this URL: <http://info.neotechnology.com/UnsubscribePage.html>.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Again, if you provide us with your email address and/or name for the purposes of receiving communications from us, this information will not be shared with any third-party organization except with your express consent.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+### Access to Personally Identifiable Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+If your personally identifiable information changes, or if you no longer wish us to possess your information, you may request correction, updating, or deletion of your information by emailing us at [webinfo@neotechnology.com](mailto:webinfo@neotechnology.com).
 
-**Security**
+### Security
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore – as is the case with any organization – we are not in a position to guarantee the absolute security of your information.
 
-**Updating Your Information**
+### Cookies
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-      iii.      You may call us at: (480) 505-8800
+### Links to Other Websites
 
-       iv.      You may fax us at: (480) 505-8844
+This website may contain links to other sites that are not controlled in any way by us. Please be aware of this when you click on any such links; we are not responsible for the privacy practices and/or policies of any website other than our own. Consequently, we strongly suggest that you review the privacy policy of every website you visit, whether or not they are linked to by our own site.
 
-**Sending Emails**
+### Legal Disclaimer
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+### Special Note to International Users
 
-**Compliance with Laws and Law Enforcement**
+The website is hosted in the United States and is intended for and directed to users in the United States. If you are accessing the Website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Website, which is governed by U.S. law, this Privacy Policy, and our [Terms and Conditions of Use](https://web.archive.org/terms), you are transferring your personal information to the United States and you consent to that transfer.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### Changes and Updates to this Privacy Policy
 
-**Third Party Service Providers**
+This Privacy Policy may be revised periodically and this will be reflected by the date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of the Website constitutes your agreement to this Privacy Policy and any future revisions.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information. If you have any questions about our privacy policy, please contact us at [webinfo@neotechnology.com](mailto:webinfo@neotechnology.com).
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+This privacy policy was last updated on December 1, 2012.
