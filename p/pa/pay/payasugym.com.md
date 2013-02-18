@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payasugym.com privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504235048id_/http%3A//www.payasugym.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payasugym.com privacy policy that was archived on 2013-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130218120750id_/http%3A//www.payasugym.com/legal/privacy) for the most accurate reproduction.*
 
 # Terms & Conditions and Privacy Policy | Legal | Legal | payasUgym
 
@@ -6,11 +6,11 @@
 
 **Partners:** Gyms or Health Clubs Part of the payasUgym programme.
 
-**Product:** The main product is ePasses for entrance into Partner gyms however payasUgym may from time to time sell other product as to which the following terms and conditions apply.
+**Product:** The main product is Passes for entrance into Partner gyms however payasUgym may from time to time sell other product as to which the following terms and conditions apply.
 
 **General Introduction** These terms and conditions govern your use of our website. Please read the terms in full before you use this Website. If you do not accept these terms, please do not use this Website. Using the Website implies that you accept these terms. We do occasionally update these terms so please refer back to them in the future.
 
-payasUgym acts as Principal and as a Disclosed Agent for third party suppliers. When payasUgym is acting as a Disclosed Agent this means is that the contract for the product is between you and the supplier. In most cases this will mean that there are additional terms and conditions governing the contract as each supplier will have terms and conditions relating to that product. Please make sure that you have read these terms and conditions before completing your transaction with us. Where we act as a Disclosed Agent, this will mean that we have no contractual liability to you in respect of that product. However, we may still be liable to you if we have been negligent, we have misrepresented important information or have been in breach of any other relevant law. On the other hand, for other Partners, we act as Principal. This means that the contract for the product is between you and us. We will always let you know where we act as Principal and where we act as a Disclosed Agent. When is a purchase made? A purchase is made at the point an ePass is either redeemed or expires. At this point a receipt of purchase will be available. For an expired ePass Sandcroft Avenue will always be acting as Principal.
+payasUgym acts as Principal and as a Disclosed Agent for third party suppliers. When payasUgym is acting as a Disclosed Agent this means is that the contract for the product is between you and the supplier. In most cases this will mean that there are additional terms and conditions governing the contract as each supplier will have terms and conditions relating to that product. Please make sure that you have read these terms and conditions before completing your transaction with us. Where we act as a Disclosed Agent, this will mean that we have no contractual liability to you in respect of that product. However, we may still be liable to you if we have been negligent, we have misrepresented important information or have been in breach of any other relevant law. On the other hand, for other Partners, we act as Principal. This means that the contract for the product is between you and us. We will always let you know where we act as Principal and where we act as a Disclosed Agent. When is a purchase made? A purchase is made at the point a Pass is either redeemed or expires. At this point a receipt of purchase will be available. For an expired Pass Sandcroft Avenue will always be acting as Principal.
 
 **1.        PRIVACY POLICY**
 
@@ -142,6 +142,12 @@ Various pages on our website contain links (including via ads) to third party we
 
 To the extent that any third party has access to your Personal Information to provide functions on our behalf, their use of this information will be limited solely to providing those functions and for no other purpose. Any Personal Information processed by our group companies will be in accordance with the terms of this Privacy Policy or similarly stringent conditions and as permitted under applicable data protection laws. We place contractual restrictions on our non-group third party partners who receive your Personal Information, to ensure that they use this in accordance with this Privacy Policy and applicable data protection laws.
 
+Third party vendors, including Google, show payasUgym ads on sites on the internet.
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.
+
+Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page.
+
 **Business restructuring**
 
 Like any other organisation, from time to time payasUgym may restructure its business operations by selling one or more of its businesses (or part of a business). In such transactions, your Customer Information could be transferred as part of the relevant sale. If this is the case, we would contact you to let you know.
@@ -177,6 +183,8 @@ You are permitted to use our website for your own purposes and to print and down
 The copyright and other intellectual property rights in all material on this Website are owned by us or our licensors and must not be reproduced without our prior consent.
 
 Subject to paragraph 2, no part of this Website may be reproduced without our prior written permission.
+
+Customer are allowed to create one account only on payasUgym.com. We reserve the right to close all the accounts of any user that is suspected of creating multiple account to take advantage of promotions or referral offers. 
 
 **4.        SITE UPTIME**
 
@@ -222,7 +230,7 @@ The material at this Website is provided without any conditions or warranties of
 
 **8.        EXCLUSION OF LIABILITY**
 
-When you exchange an ePass for entrance to any of our Partner’s premises within the payasUgym programme, payasUgym, its officers, agents and/or consultants have no liability whatsoever in contract, tort, or otherwise for your acts, omissions or opinions and is in no way responsible for the behaviour or within any of the Partner’s premises. This means that payasUgym is in no way liable or responsible for your health and safety at any time.
+When you exchange a Pass for entrance to any of our Partner’s premises within the payasUgym programme, payasUgym, its officers, agents and/or consultants have no liability whatsoever in contract, tort, or otherwise for your acts, omissions or opinions and is in no way responsible for the behaviour or within any of the Partner’s premises. This means that payasUgym is in no way liable or responsible for your health and safety at any time.
 
 Neither we nor any other party (whether or not involved in producing, maintaining or delivering this Website), shall be liability or responsible for any kind of loss or damage that may result to you or a third party as a result of your or their use of our website. This exclusion shall include servicing or repair costs and, without limitation, any other direct, indirect or consequential loss, and whether in tort or contract or otherwise in connection with this Website.
 
@@ -230,25 +238,31 @@ Nothing in these Terms shall exclude or limit liability for (i) death or persona
 
 **9.        TERMS OF USE FOR AN eWALLET**
 
-Sandcroft Avenue Ltd stored value is exempt from the Electronic Money Regulations 2011 because funds can only be used to buy a limited range of services from [www.payasUgym.com](http://www.payasugym.com/). The funds in your eWallet can only be used to purchase goods from payasUgym. The funds in your eWallet cannot be used to purchase any goods directly from the gyms or facilities listed on payasUgym. The minimum amount you can ‘top-up’ onto your eWallet is £3. Your eWallet funds cannot exceed a maximum of £100. You are only able to withdraw funds to credit or debit card already used to ‘top-up’ funds into your eWallet. A £1 administration fee is charged to withdraw funds from your eWallet. This £1 is charged to cover the bank charges and administration expenses that we incur from this transaction. If a period of 24 months passes with no orders placed, we will assume that your account is no longer active and your eWallet balance will expire.
+Sandcroft Avenue Ltd stored value is exempt from the Electronic Money Regulations 2011 because funds can only be used to buy a limited range of services from [www.payasUgym.com](http://www.payasugym.com/). The funds in your Account can only be used to purchase goods from payasUgym. The funds in your Account cannot be used to purchase any goods directly from the gyms or facilities listed on payasUgym. The minimum amount you can ‘top-up’ onto your Account is £3. Your Account funds cannot exceed a maximum of £100. You are only able to withdraw funds to credit or debit card already used to ‘top-up’ funds into your Account. A £1 administration fee is charged to withdraw funds from your Account. This £1 is charged to cover the bank charges and administration expenses that we incur from this transaction. If a period of 24 months passes with no orders placed, we will assume that your account is no longer active and your Account balance will expire.
 
 **10.    TERMS OF USE FOR DIFFERENT TYPES OF ePASS**
 
 **General Terms**
 
-An ePass is a unique alpha numeric code purchased by you and only applies to and is valid to be redeemed at the selected gym Partner for entrance to their facilities.
+A Pass is a unique alpha numeric code purchased by you and only applies to and is valid to be redeemed at the selected gym Partner for entrance to their facilities.
 
-**1-day Gym ePass & 1-day Swim ePass**
+**1-day Gym Pass & 1-day Swim Pass & 1-day Sessions**
 
-An ePass is valid for one single entrance the gym it was purchased for and can be used within a period of 30 days. If an ePass is not used within the 30 days the ePass will be invalid and you will lose the value, this ePass will be marked ‘Expired’ in the ‘My Account’ section. At any point whilst an ePass is valid you are able to refund the ePass and the price of the ePass minus a £1; charge will be returned to your eWallet. The £1; charge covers the transactional and administration cost that payasUgym incurred to issue the ePass. We do not want our customers to lose the value of any ePass and therefore we will e-mail you and let you know when an ePass is about to expire.
+A Pass is valid for one single entrance the gym it was purchased for and can be used within a period of 30 days. If a Pass is not used within the 30 days the Pass will be invalid and you will lose the value, this Pass will be marked ‘Expired’ in the ‘My Account’ section. At any point whilst a Pass is valid you are able to refund the Pass and the price of the Pass minus a £1; charge will be returned to your Account. The £1; charge covers the transactional and administration cost that payasUgym incurred to issue the Pass. We do not want our customers to lose the value of any Pass and therefore we will e-mail you and let you know when a Pass is about to expire.
 
-**30-day, 90-day Gym and other ePasses longer than 1-day**
+A 1-day pass purchases with bonus credit can be refunded however the bonus credit will only be credited back into the account if it is valid and has not expired during the period while the pass was not used. All 1-day passes purchased with a First Pass Free promotion can be cancelled but not funds will be transferred back into the registered user’s account. 
 
-An ePass purchased for periods longer than 1-day can used multiple times within the ePass validity period. For example a 30-day ePass can be used multiple times within the 30-day period. The ePass code will remain the same for the duration of the validity period. All ePasses purchased for periods longer than 1-day are non-refundable.
+**30-day, 90-day Gym and other Passes longer than 1-day**
+
+A Pass purchased for periods longer than 1-day can used multiple times within the Pass validity period. For example a 30-day Pass can be used multiple times within the 30-day period. The Pass code will remain the same for the duration of the validity period. All Passes purchased for periods longer than 1-day are non-refundable.
+
+**Bundle Passes**
+
+Bundle products are multiple single use passes which are sold at a discounted price than the corresponding individual pass. All bundle products are non-refundable.
 
 **11.    MINIMUM AGE TO PURCHASE AN ePASS**
 
-You have to be aged 18 years or above to purchase an ePass. However some of our Partners allow parents and other legal guardians to purchase ePasses to be used at Partner gyms for children under 18 in their care. This is most likely to be the case for Local Leisure Centre facilities where swimming ePasses are available. As it is entirely under the discretion of the gym you are advised to check with the Partner that you intend to visit if you would like to purchase an ePass for children less than 18 years of age.
+You have to be aged 18 years or above to purchase a Pass. However some of our Partners allow parents and other legal guardians to purchase Passes to be used at Partner gyms for children under 18 in their care. This is most likely to be the case for Local Leisure Centre facilities where swimming Passes are available. As it is entirely under the discretion of the gym you are advised to check with the Partner that you intend to visit if you would like to purchase a Pass for children less than 18 years of age.
 
 **12.    CONTACTING PAYASUGYM**
 
@@ -271,25 +285,25 @@ This Legal Notice shall be governed by and construed in accordance with English 
 
 **14.    OPENING HOURS**
 
-Gym opening hours will be clearly shown on the website. For some gyms the price of the 1-day ePass will vary by peak and off-peak times. Peak and off-peak times may vary within a particular day and be different for days of the week. Peak and off-peak opening hours will be clearly shown on the website and iPhone application. A 1-day ePass bought for off-peak period will only work for an off-peak period. An ePass bought for a peak period will be valid for peak and off-peak periods. During bank holidays and other occasion the gym may change opening times without informing payasUgym, however we aim to keep the information on payasUgym as up-to-date and correct as possible for our customers.
+Gym opening hours will be clearly shown on the website. For some gyms the price of the 1-day Pass will vary by peak and off-peak times. Peak and off-peak times may vary within a particular day and be different for days of the week. Peak and off-peak opening hours will be clearly shown on the website and iPhone application. A 1-day Pass bought for off-peak period will only work for an off-peak period. A Pass bought for a peak period will be valid for peak and off-peak periods. During bank holidays and other occasion the gym may change opening times without informing payasUgym, however we aim to keep the information on payasUgym as up-to-date and correct as possible for our customers.
 
 **15.    FEEDBACK ON GYMS**
 
-You are able to leave feedback on the gyms you have visited. Unlike other feedback websites all of the feedback on payasUgym has been left by customers that have visited the gym in question. Once you have redeemed an ePass at a gym you will automatically be prompted to leave rated feedback for gyms on a number of criteria and you will also be able to write a short comment on your experience.  All feedback will be used to provide feedback to gym Partners to help them improve the customer experience they offer. Free text feedback is published if deemed to be a fair and true representation of a customer’s experience. payasUgym will share all customer feedback with the gym in question and may allow the partner gym to respond to feedback where appropriate. By agreeing to these Terms & Conditions you agree to only provide helpful and constructive feedback that represents and honest account of your experiences. We really appreciate your time to help other gym users and our Partner gyms by leaving feedback on your experiences.
+You are able to leave feedback on the gyms you have visited. Unlike other feedback websites all of the feedback on payasUgym has been left by customers that have visited the gym in question. Once you have redeemed a Pass at a gym you will automatically be prompted to leave rated feedback for gyms on a number of criteria and you will also be able to write a short comment on your experience.  All feedback will be used to provide feedback to gym Partners to help them improve the customer experience they offer. Free text feedback is published if deemed to be a fair and true representation of a customer’s experience. payasUgym will share all customer feedback with the gym in question and may allow the partner gym to respond to feedback where appropriate. By agreeing to these Terms & Conditions you agree to only provide helpful and constructive feedback that represents and honest account of your experiences. We really appreciate your time to help other gym users and our Partner gyms by leaving feedback on your experiences.
 
 **16.    FRIEND REFERRAL SCHEME**
 
-As a payasUgym customer you can introduce your friends to payasUgym and be rewarded with 'eWallet credit' if that customer completes the necessary steps. For each customer that uses your referral code when registering and then goes on to purchase and redeem one ePass you will be rewarded with £5 worth of 'Friend credit'. 'Friend Credit' can be used to purchase ePasses just like normal eWallet credit you have added. The 'Friend credit' is not refundable and therefore cannot be withdrawn from your account. Where applicable 'Friend Credit' will be used before 'Added Credit' (credit you have added) for any purchases. The friend that you refer will receive £5 bonus credit, the terms and condition of which are explained below under ‘Bonus Schemes’.
+As a payasUgym customer you can introduce your friends to payasUgym and be rewarded with 'Account credit' if that customer completes the necessary steps. For each customer that uses your referral code when registering and then goes on to purchase and redeem one Pass you will be rewarded with £5 worth of 'Friend credit'. 'Friend Credit' can be used to purchase Passes just like normal Account credit you have added. The 'Friend credit' is not refundable and therefore cannot be withdrawn from your account. Where applicable 'Friend Credit' will be used before 'Added Credit' (credit you have added) for any purchases. The friend that you refer will receive £5 bonus credit, the terms and condition of which are explained below under ‘Bonus Schemes’.
 
 **17.    BONUS SCHEMES**
 
-From time to time payasUgym will run 'Bonus Schemes'. By fulfilling the necessary steps you will be rewarded with 'Bonus Credit'. Bonus credit is not refundable and therefore cannot be withdrawn from your account. All 'Bonus Credit' is valid for a period of 30-days from the point it is added to a User's eWallet. Where applicable 'Bonus Credit' will be used before 'Friend Credit' and 'Added Credit' (credit you have added) for any purchases. payasUgym reserves the right to stop any Bonus Scheme without notice. Any customer who has entered a valid bonus code before the Bonus Scheme has finished will be awarded 'Bonus Credit' if the necessary steps within the specified timeframe are completed even if these steps are completed after the Bonus Scheme has finished. 'Bonus Schemes' cannot be used in conjunction with any other offers.
+From time to time payasUgym will run 'Bonus Schemes'. By fulfilling the necessary steps you will be rewarded with 'Bonus Credit'. Bonus credit is not refundable and therefore cannot be withdrawn from your account. All 'Bonus Credit' is valid for a period of 30-days from the point it is added to a User's Account. Where applicable 'Bonus Credit' will be used before 'Friend Credit' and 'Added Credit' (credit you have added) for any purchases. payasUgym reserves the right to stop any Bonus Scheme without notice. Any customer who has entered a valid bonus code before the Bonus Scheme has finished will be awarded 'Bonus Credit' if the necessary steps within the specified timeframe are completed even if these steps are completed after the Bonus Scheme has finished. 'Bonus Schemes' cannot be used in conjunction with any other offers.
 
-a.         £5 Introduction Offer: This offer allows customer to enter a specific 'Bonus Code' at registration and when they have completed the necessary steps (if necessary) within the timeframe they are award 'Bonus Credit'. The 'Bonus Code' can be a code sent from a friend through a Referral Scheme or this code may be completely independent. For each customer that uses this 'Bonus Code' when registering and then goes on to purchase and redeem one ePass within the specified timeframe they will be rewarded with £5 worth of 'Bonus Credit'. Once the 'Bonus Code' has been activated at registration the customer has 30-days to redeem a pass to be awarded the 'Bonus Credit'. Cannot be used in conjunction with any other offers.
+a.         £5 Introduction Offer: This offer allows customer to enter a specific 'Bonus Code' at registration and when they have completed the necessary steps (if necessary) within the timeframe they are award 'Bonus Credit'. The 'Bonus Code' can be a code sent from a friend through a Referral Scheme or this code may be completely independent. For each customer that uses this 'Bonus Code' when registering and then goes on to purchase and redeem one Pass within the specified timeframe they will be rewarded with £5 worth of 'Bonus Credit'. Once the 'Bonus Code' has been activated at registration the customer has 30-days to redeem a pass to be awarded the 'Bonus Credit'. Cannot be used in conjunction with any other offers.
 
-b.         First Pass Free Introductory Offer: This allows the customer to purchase their first pass free if it is equal to or under £15. You are not able to purchase ePass greater than £15 with this promotion. You cannot use real money combined with this offer to purchase an ePass more expensive than £15. First Pass Free is only applicable for 1-day ePasses and not any other types of ePasses or products. A pass purchased with a First Pass Free promotion cannot be refunded and will be valid for 30 days for you to redeem.
+b.         First Pass Free Introductory Offer: This allows the customer to purchase their first pass free if it is equal to or under £15. You are not able to purchase Pass greater than £15 with this promotion. You cannot use real money combined with this offer to purchase a Pass more expensive than £15. First Pass Free is only applicable for 1-day Passes and not any other types of Passes or products. A pass purchased with a First Pass Free promotion cannot be refunded and will be valid for 30 days for you to redeem.
 
-c.          15% off 1-Day ePasses: This promotion gives you 15% off the cost of an ePass and is only applicable for 1-day ePasses and not any other types of ePasses or products.
+c.          15% off 1-Day Passes: This promotion gives you 15% off the cost of a Pass and is only applicable for 1-day Passes and not any other types of Passes or products.
 
 **18.    FURTHER INFORMATION**
 
