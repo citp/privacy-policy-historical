@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitaramedia.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003190853id_/http%3A//kitaramedia.com/privacy_kitara.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitaramedia.com privacy policy that was archived on 2013-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130218132607id_/http%3A//www.kitaramedia.com/privacy_kitara.html) for the most accurate reproduction.*
 
 # Kitara Media Inc. :: Targeted Online Marketing
 
