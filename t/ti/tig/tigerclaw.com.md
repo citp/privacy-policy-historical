@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114174409id_/https%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerclaw.com privacy policy that was archived on 2013-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130218053521id_/https%3A//www.tigerclaw.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Martial Arts Supplies, Uniforms, Sparring Gear, and More from Tiger Claw :: Customer Service
 
@@ -43,5 +43,3 @@ By adjusting your browser settings, you can be warned each time a cookie is bein
 
 **Your consent  
 **By using our site, you consent to our privacy policy
-
-[Read a list of all events](https://www.tigerclaw.com/events-martial-arts-pg-7.html "Events")
