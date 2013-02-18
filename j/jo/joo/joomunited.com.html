@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the joomunited.com privacy policy that was archived on 2012-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121219000344id_/http%3A//www.joomunited.com/about-us/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joomunited.com privacy policy that was archived on 2013-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130218030604id_/http%3A//www.joomunited.com/about-us/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
     <!-- The following JDOC Head tag loads all the header and meta information from your site config and content. -->
@@ -12,6 +12,7 @@
   <title>A professionnal team at your service</title>
   <link href="http://www.joomunited.com/ka" rel="shortlink">
   <link href="/templates/joomunited/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link rel="stylesheet" href="/components/com_seoglossary/assets/css/style.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?version=114" type="text/css">
   <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/squeeze/css/style.css?version=114" type="text/css">
   <link rel="stylesheet" href="/cache/widgetkit/widgetkit-63e6597f.css" type="text/css">
@@ -20,11 +21,37 @@
   <link rel="stylesheet" href="/templates/joomunited/css/forum.css" type="text/css">
   <link rel="stylesheet" href="/templates/joomunited/js/form.css" type="text/css">
   <link rel="stylesheet" href="/templates/joomunited/html/mod_yj_pop_login/stylesheet.css" type="text/css">
+  <style type="text/css">
+.tooltip {
+background: #eeeeee !important;
+
+border: 2px solid #ffffff !important;
+padding:10px 15px !important;
+width: 200px !important;
+max-width: 200px !important;
+display:none;
+color: #330000 !important;
+text-align:left !important;
+font-size: 12px !important;
+
+-moz-box-shadow:0 0 4px #000 !important;
+-webkit-box-shadow:0 0 4px #000 !important;
+-moz-border-radius: 4px;
+border-radius: 4px;
+z-index: 65635;
+}
+abbr
+{
+border-bottom: 1px dotted;
+}
+  </style>
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/core.js" type="text/javascript"></script>
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/components/com_seoglossary/assets/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_seoglossary/assets/js/jquery.fpss.js" type="text/javascript"></script>
+  <script src="/components/com_seoglossary/assets/js/jquery.tools.min.js" type="text/javascript"></script>
   <script src="/plugins/system/jcemediabox/js/jcemediabox.js?version=114" type="text/javascript"></script>
-  <script src="/media/widgetkit/js/jquery.js" type="text/javascript"></script>
   <script src="/cache/widgetkit/widgetkit-0e0e149b.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
   <script src="http://www.joomunited.com/modules/mod_yj_pop_login/src/yj_login_pop.js" type="text/javascript"></script>
@@ -32,8 +59,60 @@
 window.addEvent('load', function() {
 				new JCaption('img.caption');
 			});
+ var windowWidth = 0;
+					$FPSS.fn.cssNumber = function(prop){
+					    var v = parseInt(this.css(prop),10);
+					    return isNaN(v) ? 0 : v;
+					};
+					$FPSS(window).load(function(){
+						var onBeforeShow = function(event, pos) {
+							windowWidth = $FPSS(window).width();
+						};
+						var onShow = function(event) {
+							var position = {
+								top: this.getTip().cssNumber('top'),
+								left: this.getTip().cssNumber('left'),
+								width: this.getTip().cssNumber('width')
+							};
+							
+							if (position.top < 0) {
+								this.getTip().css({top: '0px'});
+							}
+							
+							var delta = position.left + position.width - windowWidth;
+																	
+							if (position.left < 0) {
+								this.getTip().css({left: '5px'});
+							} else if (delta > 0) {
+								delta += 50;
+								if (position.left - delta < 0) {
+									this.getTip().css({left: '5px'});
+								} else {
+									this.getTip().css({left: (position.left - delta) + 'px'});
+								}
+							}
+						};
+						
+						
+						$FPSS('.mytool a[title]').tooltip( {
+									effect: 'slide',
+									onBeforeShow: onBeforeShow,
+									onShow: onShow,
+									position: 'top center',
+									delay: 500
+						});
+						$FPSS('.mytool abbr[title]').tooltip( {
+									effect: 'slide',
+									onBeforeShow: onBeforeShow,
+									onShow: onShow,
+									position: 'top center',
+									delay: 500
+						});
+						
+					});
+					
 JCEMediaObject.init('/', {flash:"10,0,22,87",windowmedia:"5,1,52,701",quicktime:"6,0,2,0",realmedia:"7,0,0,0",shockwave:"8,5,1,0"});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:300,scalespeed:300,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'}},tooltip:{className:"tooltip",opacity:0.8,speed:100,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"squeeze",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
- var xi_strings = {"COM_PAYPLANS_CONFIG_SYSTEM_USE_MINIFIED_JS_LABEL":"Use minified JS","COM_PAYPLANS_CONFIG_SYSTEM_USE_MINIFIED_JS_DESC":"Default to YES, Set to NO if you want to debug javascript","COM_PAYPLANS_JS_ARE_YOU_SURE_TO_DELETE":"Are you sure to delete?","COM_PAYPLANS_JS_TERMS_CONDITIONS":"Please check the Terms & Conditions box.","COM_PAYPLANS_JS_TIMEAGO_SUFFIX_AGO":"Ago","COM_PAYPLANS_JS_TIMEAGO_SUFFIX_FROM_NOW":"from now","COM_PAYPLANS_JS_TIMEAGO_SECONDS":"less than a minute","COM_PAYPLANS_JS_TIMEAGO_MINUTE":"about a minute","COM_PAYPLANS_JS_TIMEAGO_MINUTES":"%d minutes","COM_PAYPLANS_JS_TIMEAGO_HOUR":"about an hour","COM_PAYPLANS_JS_TIMEAGO_HOURS":"about %d hours","COM_PAYPLANS_JS_TIMEAGO_DAY":"a day","COM_PAYPLANS_JS_TIMEAGO_DAYS":"%d days","COM_PAYPLANS_JS_TIMEAGO_MONTH":"about a month","COM_PAYPLANS_JS_TIMEAGO_MONTHS":"%d months","COM_PAYPLANS_JS_TIMEAGO_YEAR":"about an year","COM_PAYPLANS_JS_TIMEAGO_YEARS":"%d years","COM_PAYPLANS_JS_VALIDVAL_ALERT_MESSAGE_ON_INVALID":"Attention, not all the fields have been filled out correctly.","COM_PAYPLANS_APP_FIXEDDATEEXPIRATION_JS_SEPARATOR":"Till","PLG_PAYPALNS_APPMANAGER_JS_MANAGE_INSTALLING":"Installing.......","PLG_PAYPALNS_APPMANAGER_JS_MANAGE_RESPONSE_ERROR":"Error","PLG_PAYPALNS_APPMANAGER_JS_MANAGE_RESPONSE_SUCCESS":"Success","PLG_PAYPALNS_APPMANAGER_JS_MANAGE_ERROR_CODE_INVALID_SUBSCRIBER":"You do not have active subscription of plan, required to install the apps.","PLG_PAYPALNS_APPMANAGER_JS_MANAGE_ERROR_CODE_INVALID_USERNAME":"You have stored the wrong username of your account at JPayplans.com, in the configuration of Payplans","PLG_PAYPALNS_APPMANAGER_JS_MANAGE_ERROR_CODE_INVALID_PASSWORD":"You have stored the wrong password of your account at JPayplans.com, in the configuration of Payplans","PLG_PAYPALNS_APPMANAGER_JS_MANAGE_ERROR_CODE_INSTALLATION_SUCCESS":"Plugin\/app has been installed\/upgraded successfully."};
+ var xi_strings = {"COM_PAYPLANS_CONFIG_SYSTEM_USE_MINIFIED_JS_LABEL":"Use minified JS","COM_PAYPLANS_CONFIG_SYSTEM_USE_MINIFIED_JS_DESC":"Default to YES, Set to NO if you want to debug javascript","COM_PAYPLANS_JS_ARE_YOU_SURE_TO_DELETE":"Are you sure to delete?","COM_PAYPLANS_JS_TERMS_CONDITIONS":"Please check the Terms & Conditions box.","COM_PAYPLANS_JS_DASHBOARD_REBUILD_START_DIALOG_TITLE":"Start Rebuild","COM_PAYPLANS_JS_DASHBOARD_REBUILD_CALCULATING_DIALOG_TITLE":"Calculating Statistics","COM_PAYPLANS_JS_DASHBOARD_REBUILD_COMPLETED_DIALOG_TITLE":"Rebuilding Completed","COM_PAYPLANS_JS_DASHBOARD_SETUP_CHECK_LIST_REMOVE_MSG":"Are you sure to remove this message?","COM_PAYPLANS_JS_SUBSCRIPTION_EDIT_SCREEN_WARNING":"<font size=1.5em>For proper working, do not manually activate the subscriptions. First, create invoice and <br> then attach transaction to it. Doing this will acivate the subcription automatically.<\/font>","COM_PAYPLANS_JS_SUBSCRIPTION_GRID_SCREEN_WARNING":"<font size=1.5em>For proper working, do not manually activate the subscriptions. <br>First create invoice and then attach transaction to it.<br> Doing this will acivate the subcription automatically.<br> Do you still want to activate???<\/font>","COM_PAYPLANS_APP_FIXEDDATEEXPIRATION_JS_SEPARATOR":"Till","COM_PAYPLANS_JS_TIMEAGO_SUFFIX_AGO":"Ago","COM_PAYPLANS_JS_TIMEAGO_SUFFIX_FROM_NOW":"from now","COM_PAYPLANS_JS_TIMEAGO_SECONDS":"less than a minute","COM_PAYPLANS_JS_TIMEAGO_MINUTE":"about a minute","COM_PAYPLANS_JS_TIMEAGO_MINUTES":"%d minutes","COM_PAYPLANS_JS_TIMEAGO_HOUR":"about an hour","COM_PAYPLANS_JS_TIMEAGO_HOURS":"about %d hours","COM_PAYPLANS_JS_TIMEAGO_DAY":"a day","COM_PAYPLANS_JS_TIMEAGO_DAYS":"%d days","COM_PAYPLANS_JS_TIMEAGO_MONTH":"about a month","COM_PAYPLANS_JS_TIMEAGO_MONTHS":"%d months","COM_PAYPLANS_JS_TIMEAGO_YEAR":"about an year","COM_PAYPLANS_JS_TIMEAGO_YEARS":"%d years","COM_PAYPLANS_JS_VALIDVAL_ALERT_MESSAGE_ON_INVALID":"Attention, not all the fields have been filled out correctly.","PLG_PAYPLANS_APPMANAGER_JS_MANAGE_INSTALLING":"Installing.......","PLG_PAYPLANS_APPMANAGER_JS_MANAGE_RESPONSE_ERROR":"Error","PLG_PAYPLANS_APPMANAGER_JS_MANAGE_RESPONSE_SUCCESS":"Success","PLG_PAYPLANS_APPMANAGER_JS_MANAGE_ERROR_CODE_INVALID_SUBSCRIBER":"You do not have active subscription of plan, required to install the apps.","PLG_PAYPLANS_APPMANAGER_JS_MANAGE_ERROR_CODE_INVALID_USERNAME":"You have stored the wrong username of your account at JPayplans.com, in the configuration of Payplans","PLG_PAYPLANS_APPMANAGER_JS_MANAGE_ERROR_CODE_INVALID_PASSWORD":"You have stored the wrong password of your account at JPayplans.com, in the configuration of Payplans","PLG_PAYPLANS_APPMANAGER_JS_MANAGE_ERROR_CODE_INSTALLATION_SUCCESS":"Plugin\/app has been installed\/upgraded successfully.","PLG_PAYPLANS_APPMANAGER_JS_MANAGE_ERROR_CODE_INSTALLATION_ERROR":"Error when installing, app is not released with updated version"};
   </script>
 
     
@@ -134,7 +213,7 @@ window.addEvent('domready', function() {
 				<input type="hidden" name="option" value="com_users">
 		<input type="hidden" name="task" value="user.login">
 		<input type="hidden" name="return" value="aW5kZXgucGhwP0l0ZW1pZD0xOTM=">
-		<input type="hidden" name="cd15907695d3397fadb31ab28dedb805" value="1">	</form>
+		<input type="hidden" name="ca7a391f584771b3a251eeb3112c3807" value="1">	</form>
 	<a href="javascript:;" onclick="this.blur();showThem('login_pop');return true;" id="closeLogin">Close</a> </div>
 <!-- registration  -->
 <div id="reg_pop" style="display:none;">
@@ -158,7 +237,7 @@ window.addEvent('domready', function() {
 		<button class="button validate" type="submit">Register</button>
 		<input type="hidden" name="option" value="com_users">
 		<input type="hidden" name="task" value="registration.register">
-		<input type="hidden" name="cd15907695d3397fadb31ab28dedb805" value="1">	</form>
+		<input type="hidden" name="ca7a391f584771b3a251eeb3112c3807" value="1">	</form>
 	<a href="javascript:;" onclick="this.blur();showThem('reg_pop');return true;" id="closeReg">Close</a> </div>
 <!-- end registration and login -->
 		</div>
@@ -166,7 +245,7 @@ window.addEvent('domready', function() {
 					<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
 <ul class="joomla-nav_main_menu">
 <li id="current" class="selected item101"><a href="/">Home</a></li><li class="parent item157"><span class="separator">Products</span>
-<ul><li class="item398"><a href="/item/social-backlinks.html">Social Backlinks</a></li><li class="item397"><a href="/item/seo-glossary.html">SEO Glossary</a></li><li class="item489"><a href="/item/sponsorship-reward.html">Sponsorship Reward</a></li></ul></li><li class="parent item253"><span class="separator">Support</span>
+<ul><li class="item398"><a href="/item/social-backlinks.html">Social Backlinks</a></li><li class="item397"><a href="/item/seo-glossary.html">SEO Glossary</a></li><li class="item489"><a href="/item/sponsorship-reward.html">Sponsorship Reward</a></li><li class="item518"><a href="/item/my-maps-location.html">My Maps location</a></li><li class="item533"><a href="/item/droppics.html">Droppics</a></li></ul></li><li class="parent item253"><span class="separator">Support</span>
 <ul><li class="item177"><a href="/list-forums/main-forum/">Pre-sales forum</a></li><li class="item159"><a href="/support/ticket-support.html">Ticket support</a></li><li class="item303"><a href="/support/social-backlinks-video-manuals.html">Video Manuals</a></li></ul></li><li class="item254"><a href="/news-blog/">News</a></li><li class="item255"><a href="/dashboard/frontview.html">My account</a></li></ul>
 		</div>
 			<div class="moduletable">
@@ -276,7 +355,7 @@ window.addEvent('domready', function() {
 					<h3>Special offers</h3>
 					<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
 <ul class="joomla-nav">
-<li class="item195"><a href="/special-offers/special-offers.html">Bundles</a></li><li class="item196"><a href="/special-offers/special-offers.html">Limited time offers</a></li></ul>
+<li class="item195"><a href="/special-offers/special-offers.html">Bundles</a></li><li class="item196"><a href="/special-offers/special-offers.html">Limited time offers</a></li><li class="item517"><a href="/partner/partner-listing.html">Partner listing</a></li></ul>
 		</div>
 			<div class="moduletable_social_media">
 					<h3>Connect and spread the word</h3>
@@ -290,6 +369,6 @@ window.addEvent('domready', function() {
       </div>
       
     </div>
-  <img src="http://www.joomunited.com/index.php?option=com_payplans&amp;view=cron&amp;task=trigger">
+  
 
 </body></html>
