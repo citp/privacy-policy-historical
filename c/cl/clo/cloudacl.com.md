@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudacl.com privacy policy that was archived on 2012-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121121224814id_/http%3A//www.cloudacl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudacl.com privacy policy that was archived on 2013-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130218055916id_/http%3A//www.cloudacl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cloudacl
 
@@ -6,7 +6,7 @@ Cloudacl's privacy policy
 
 **Collecting and using personal information**
 
-Welcome to Cloudacl's websites. We appreciate your interest in us. When you visit and navigate our sites and when you communicate with us via our sites or using our addon products, we may collect collect the following types of information:
+Welcome to Cloudacl's websites. We appreciate your interest in us. When you visit and navigate our sites and when you communicate with us via our sites or using our add-on products, we may collect collect the following types of information:
 
 \- User communications - When you send email or other communications to Cloudacl, we may retain those communications in order to process your inquiries, respond to your requests and improve our services
 
