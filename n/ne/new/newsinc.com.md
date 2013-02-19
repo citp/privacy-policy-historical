@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newsinc.com privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222163233id_/http%3A//www.newsinc.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsinc.com privacy policy that was archived on 2013-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130219031925id_/http%3A//www.newsinc.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - News Distribution Network, Inc. Press Releases
 
-Last modified:  November 30, 2012 ([view archived versions](https://web.archive.org/archives-privacy-policy.html))
+Last modified:  December 6, 2012 ([view archived versions](https://web.archive.org/archives-privacy-policy.html))
 
 This Privacy Policy explains the data collection and use practices of News Distribution Network, Inc. and its affiliates (“NDN”) on the NDN player (the “NDN Player”) and on NDN’s websites: [www.newsinc.com](http://www.newsinc.com/) and [www.politicaliq.com](http://www.politicaliq.com/) (together with the NDN Player, the “Websites”).  By using the Websites, you signify your assent to our Privacy Policy.
 
@@ -30,8 +30,8 @@ We use personal information collected through this site to:
   * conduct market research surveys,
   * fulfill product orders,
   * run features that incorporate submissions to the Websites,
-  * provide information and services you request or subscribe to, and 
-    * provide you with information about, and access to, products and services we offer, either ourselves or jointly with or on behalf of other organizations.
+  * provide information and services you request or subscribe to, and
+  * provide you with information about, and access to, products and services we offer, either ourselves or jointly with or on behalf of other organizations.
 
 
 
@@ -39,11 +39,7 @@ If you do not wish to receive information about our products or services, or the
 
 ## 4\. Automatically Collected Information
 
-We collect information in the aggregate form through the use of cookies and internet protocol (“IP”) addresses, such as demographic information and browsing patterns, including the domain and host from which you access the internet, your domain name, the IP address of the computer you are using, the name of the page that referred you to us, the date and times you enter and exit the Websites, the pages you visit before and after visiting the Websites, the web pages, video content and advertisements you view and links you click on within the Websites, unique identifiers, including mobile device identification numbers that can identify the physical location of such devices in accordance with applicable law, and information collected through web beacons and other technologies.  We also collect information about your interactions and transactions with us and some of our business partners.
-
- 
-
-Such information does not identify any individual and will not be linked to any personal information.  We use such information to:
+We collect information in the aggregate form through the use of cookies and internet protocol (“IP”) addresses, such as demographic information and browsing patterns, including the domain and host from which you access the internet, your domain name, the IP address of the computer you are using, the name of the page that referred you to us, the date and times you enter and exit the Websites, the pages you visit before and after visiting the Websites, the web pages, video content and advertisements you view and links you click on within the Websites, unique identifiers, including mobile device identification numbers that can identify the physical location of such devices in accordance with applicable law, and information collected through web beacons and other technologies.  We also collect information about your interactions and transactions with us and some of our business partners. Such information does not identify any individual and will not be linked to any personal information.  We use such information to:
 
   * monitor the usage of the Websites,
   * build up marketing profiles,
@@ -76,7 +72,7 @@ We use cookies, tags and similar technologies to recognize your preferences and 
 
 We use third-party tracking and advertising providers such as Auditude and Quantcast to act on our behalf.  The third-party tracking and advertising technology that we use on the Websites uses information derived from your visits to the Websites to target advertising to the Websites.  In addition, our advertisers may use other third-party advertising technology to target advertising on the Websites and other sites.  They may track and analyze your usage of the Websites through the use of cookies, pixel tags, web beacons and similar technologies.  They may collect and share with us usage information about visits to the Websites and use of the NDN services.  They also may measure and research the effectiveness of our advertisements, track page usage and paths followed during and after your use of the Websites and the NDN services, help us target the advertisements on the Websites, and track use of our advertisements and other links from marketing partners' sites to the NDN services.
 
-To “opt-out” of such third-party cookies, go to http://www.networkadvertising.org/managing/opt_out.asp and select Collective, Quantcast, YuMe, Specific Media and ValueClick Media as your opt out choices.
+To “opt-out” of such third-party cookies, go to <http://www.networkadvertising.org/choices/> and select Collective, Quantcast, YuMe, Specific Media and ValueClick Media as your opt out choices.
 
 ## 8\. Disclosure of Information
 
@@ -85,7 +81,7 @@ NDN is committed to maintaining your trust and we want you to understand when an
   * Authorized third-party service providers.  We share your information with third-party vendors who help us with specialized services, including customer support, email and text message deployment, business analytics, marketing, and data processing.  These third parties are allowed to use your information to help us provide our services and not for any other purpose.
   * Business transfers.  We may share your information in connection with a substantial corporate transaction, such as the sale of a NDN Website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
   * Legal requirements.  We may disclose information about our users, including contact information, to respond to subpoenas, court orders, legal process, and other law enforcement measures, and to comply with other legal obligations.
-  * Protect our Websites and users.  We may disclose information to protect and defend the legal rights, interests, and safety of NDN Websites, other NDN companies, and their employees, agents, and contractors (including enforcing our agreements); to protect the safety and security of users of the Websites and members of the public; and as otherwise disclosed in our Terms of Use.
+  * Protect our Websites and users.  We may disclose information to protect and defend the legal rights, interests, and safety of NDN Websites, other NDN companies, and their employees, agents, and contractors (including enforcing our agreements), to protect the safety and security of users of the Websites and members of the public, and as otherwise disclosed in our Terms of Use.
 
 
 
