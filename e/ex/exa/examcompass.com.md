@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examcompass.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107181554id_/http%3A//www.examcompass.com/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examcompass.com privacy policy that was archived on 2013-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130219055303id_/http%3A//www.examcompass.com/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,11 +25,12 @@ The Google Analytics opt-out browser add-on lets website visitors choose not to 
 Google uses cookies to serve ads based on a user's prior visits to This Website. Google's use of the DART cookie enables it and its partners to serve ads to users of This Website based on their previous visits to This Website and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting and following the instructions published by Google on its [advertising opt-out page](http://www.google.com/policies/privacy/ads/#toc-optout).
 
 **Other third-party vendors and ad networks**  
-Third-party vendors and ad networks other than Google AdSense may also use cookies and web beacons to serve content on This Website. Our other advertising partners include:
+Third-party vendors and ad networks other than Google AdSense may also use cookies and web beacons to serve content on This Website. Third-party vendors and advertisers This Website is affiliated with include::
 
   * AddThis (http://www.addthis.com/privacy)
   * Amazon (http://www.amazon.com/gp/dra/info)
   * Commission Junction (http://www.cj.com/privacy.html)
+  * GogoTraining (http://gogotraining.com/pages/privacy.php)
   * Indeed (http://www.indeed.com/intl/en/cookie.html)
   * ShareASale (http://shareasale.com/termsofuse.cfm)
   * ShareThis (http://sharethis.com/privacy)
@@ -38,7 +39,7 @@ Third-party vendors and ad networks other than Google AdSense may also use cooki
 
 These other third-party vendors and ad networks may use cookies, JavaScript, or web beacons to measure the effectiveness of their advertisements and/or to personalize the advertising content served on This Website.
 
-Please note that This Website does not use cookies and has no access to or control over the cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party vendors for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This Website's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
+Please note that This Website has no access to or control over the cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party vendors for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This Website's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
 
 You can generally opt-out of cookies from third-party advertisers and ad networks by visiting their websites (if the advertiser or ad network offers this capability). It is also possible to opt out of some, but not all, of these cookies in one location at the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp), or [Digital Advertising Alliance (DAA)](http://www.aboutads.info/choices/) opt-out web pages.
 
