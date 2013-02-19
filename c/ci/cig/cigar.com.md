@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920080015id_/http%3A//www.cigar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2013-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130219213110id_/http%3A//www.cigar.com/privacy.asp) for the most accurate reproduction.*
 
 # Cigar.com - Privacy Statement
 
