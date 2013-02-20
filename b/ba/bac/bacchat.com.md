@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bacchat.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030120714id_/https%3A//www.bacchat.com/BacchatLive/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bacchat.com privacy policy that was archived on 2013-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130220151909id_/http%3A//bacchat.com/BacchatLive/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Bacchat.com : Privacy Policy
 
