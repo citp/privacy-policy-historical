@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfwpub.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614092613id_/http%3A//www.macmillanhighered.com/Catalog/content.aspx%3FTitle%3D136) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfwpub.com privacy policy that was archived on 2013-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130221220549id_/http%3A//www.macmillanhighered.com/Catalog/content.aspx%3FTitle%3D136) for the most accurate reproduction.*
 
 # Macmillan Higher Ed Catalog :: PrivacyPolicy
 
