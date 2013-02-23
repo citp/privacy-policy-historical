@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lesbiansextales.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524072431id_/http%3A//secure.lesbiansextales.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesbiansextales.com privacy policy that was archived on 2013-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130223223454id_/http%3A//track.lesbiansextales.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
