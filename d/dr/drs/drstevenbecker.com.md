@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drstevenbecker.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229174747id_/http%3A//www.drstevenbecker.com/Patients/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drstevenbecker.com privacy policy that was archived on 2013-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130223023126id_/http%3A//www.drstevenbecker.com/Patients/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
      Category: [Patients](http://www.drstevenbecker.com/Table/Patients/)
      Published Date 
-     Hits: 73 
+     Hits: 128 
 
 **Privacy Policy  
 **
