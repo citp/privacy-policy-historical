@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realcyclist.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022195832id_/http%3A//www.realcyclist.com/roadbike/footer.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcyclist.com privacy policy that was archived on 2013-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130223041251id_/http%3A//www.realcyclist.com/roadbike/footer.html%23privacy) for the most accurate reproduction.*
 
 # Realcyclist.com | Footer Links from Realcyclist.com
 
