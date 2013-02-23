@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radian6.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209233024id_/http%3A//www.radian6.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radian6.com privacy policy that was archived on 2013-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130223012313id_/http%3A//www.radian6.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Radian6 – Privacy - Salesforce Marketing Cloud
 
