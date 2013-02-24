@@ -1,14 +1,23 @@
-> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2012-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120302035931id_/http%3A//www.abrsm.org/help/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2013-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130224092256id_/http%3A//us.abrsm.org/en/policies/website-privacy-policy) for the most accurate reproduction.*
 
-# ABRSM: PrivacyPolicy
+# ABRSM: Website Privacy Policy
 
-**ABRSM  is fully committed to respecting your privacy and to protecting any personal information you provide to us. We make every effort to ensure that all information that you provide to us is protected.**
+  * [Safeguarding & Child Protection Policy](http://us.abrsm.org/en/policies/child-safeguarding-policy/)
+  * [Customer Service Statement](http://us.abrsm.org/en/policies/customer-service-statement/)
+  * [Special Consideration Policy](http://us.abrsm.org/en/policies/special-consideration-policy/)
+  * [Equal Opportunities Statement](http://us.abrsm.org/en/policies/equal-opportunities-policy/)
+  * [Website Privacy Policy](http://us.abrsm.org/en/policies/website-privacy-policy/)
+  * [Cookie Policy](http://us.abrsm.org/en/policies/cookie-policy/)
 
-This privacy statement is designed to explain how we collect information from you when you visit our website and how this information is then used.
+
+
+**ABRSM is fully committed to respecting your privacy and to protecting any personal information you provide to us. We make every effort to ensure that all information that you provide to us is protected.**
+
+This privacy statement is designed to explain how we collect information from you when you visit our website and how this information is then used. 
 
 Please read this statement carefully and revisit it from time to time to review any changes that may have been made.
 
-## Information collection
+##  [Information collection](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_1)
 
 ### Personal information
 
@@ -48,17 +57,17 @@ Applicants from the UK, Singapore and Malaysia have the option of entering exam 
 
 We also request financial information from online applicants (such as credit card number and expiry date). This information is used to process payments for examination entries. The online entry form is held on a secure HTTPS site (demonstrated by the padlock logo visible)
 
- **Payment via the online form for UK applicants** is processed via the Logic Groups’s SolveSE program and paid to ABRSM via Barclays Merchant Services. In accordance with the Payment Card Industries Data Security Standards (PCI DSS), truncated card details (first & last four digits) are temporarily stored on the The Logic Group’s server but no card details are stored on the ABRSM server.
+**Payment via the online form for UK applicants** is processed via the Logic Groups’s SolveSE program and paid to ABRSM via Barclays Merchant Services. In accordance with the Payment Card Industries Data Security Standards (PCI DSS), truncated card details (first & last four digits) are temporarily stored on the The Logic Group’s server but no card details are stored on the ABRSM server.
 
- **Payment via the online form for Malaysia applicants** is processed via the HSBC/GlobalPay payment gateway and paid to our local representative Lembaga Peperiksaan. No card details are stored on either the ABRSM or the HSBC/GlobalPay server. Our systems and procedures are fully compliant with the new Payment Card Industries Data Security Standards (PCI DSS).
+**Payment via the online form for Malaysia applicants** is processed via the HSBC/GlobalPay payment gateway and paid to our local representative Lembaga Peperiksaan. No card details are stored on either the ABRSM or the HSBC/GlobalPay server. Our systems and procedures are fully compliant with the new Payment Card Industries Data Security Standards (PCI DSS).
 
- **Payment via the online form for Singapore applicants** is processed via the HSBC/GlobalPay payment gateway and paid to our local representative Singapore Symphonia Company Limited via DBS Bank Limited. No card details are stored on the ABRSM or HSBC/GlobalPay servers.
+**Payment via the online form for Singapore applicants** is processed via the HSBC/GlobalPay payment gateway and paid to our local representative Singapore Symphonia Company Limited via DBS Bank Limited. No card details are stored on the ABRSM or HSBC/GlobalPay servers.
 
 All exam entries are stored on the ABRSM secure web server and transferred daily onto our AS400 system and then held in the same way as postal entries. All online information is held purely for the purpose of exam entries, and is retained on this secure server so that applicants can view their past entries.
 
 We use the contact information supplied by applicants to ensure that examination schedules, results and certificates are forwarded to the correct address. In the event of any problems or complications with exam entries, this information is also used to contact the applicant.  Finally this information is used to keep accurate records of applicant and candidate exam history, which allows us to provide a quicker and more effective service to our applicants.
 
- **Information regarding exam entries and candidates is strictly confidential and is not disclosed to external organisations.**
+**Information regarding exam entries and candidates is strictly confidential and is not disclosed to external organisations.**
 
 ### Job applications
 
@@ -77,11 +86,11 @@ If you choose to participate in an ABRSM discussion forum, you should be aware 
 
 
 
-## Aggregate information
+##  [Aggregate information](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_2)
 
 Aggregate information is collected from users using our own web tracker. This information includes users (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time of visit, number of clicks, error pages and number of unique visits. This information is collected to allow us to analyze visitor trends and use of our website, administer the website and to gather broad demographic information of our website users. This information is not linked to personal profiles or to personally identifiable information provided by users.
 
-## Information use
+##  [Information use](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_3)
 
 ### Profile
 
@@ -91,15 +100,19 @@ We store information that we collect through cookies and log files. A profile is
 
 A cookie is a piece of data stored on the user’s computer tied to information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies.  For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
-Once visitors to [www.abrsm.org](http://www.abrsm.org/) have selected their country from the drop-down menus provided, cookies are used to display the examination dates and contact details of ABRSM representatives for that country. Our aim is to make the site more easily navigable and applicable to users from different countries. Persistent cookies enable us to track and target the interests of our users, to enhance their experience and to ensure that they do not have to reset their country preferences each time they visit our website. 
+Cookies are used to display exam dates, fees and contact details of ABRSM representatives for that country. Our aim is to make the site more easily navigable and applicable to users from different countries. Persistent cookies enable us to track and target the interests of our users, to enhance their experience and to ensure that they do not have to reset their country preferences each time they visit our website. 
 
-If you are concerned about cookies, you can disable them in your browser.  If you do this however, please note that you will have to manually reset your country preferences on each return visit to our website. (See _"Profile"_ above)
+If you are concerned about cookies, you can disable them in your browser.  If you do this however, please note that you will have to manually reset your country preferences on each return visit to our website. (See _"Profile"_ above).
+
+  * [View our Cookie Policy](http://us.abrsm.org/en/policies/cookie-policy/ "Opens internal link in current window")
+
+
 
 ### Log files
 
 Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-## Communications from the site
+##  [Communications from the site](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_4)
 
 ### Online applicants
 
@@ -111,33 +124,33 @@ Finally, upon submitting an examination entry via our online application form, c
 
 Generally, users of the online application service may not opt out of receiving these communications, although they can deactivate their account. These communications are not promotional in nature and are produced in the interests of providing the best possible service to online applicants.
 
-## Customer service
+### Customer service
 
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email, post, fax or phone, in accordance with the users wishes.
 
-## Sharing
+### Sharing
 
 We currently DO NOT disclose any of the personally identifiable information that you give to us beyond ABRSM.  We do not sell or supply any of the information that you provide through our website to third parties.
 
 All users are given the opportunity to opt out of having their information used for purposes not directly related to our website at the point where we ask for that information. 
 
-Please refer to the Choice/opt-out section for further details. 
+Please refer to the choice/opt-out section for further details. 
 
- **Information regarding exam entries and candidates is strictly confidential and is never passed on to third parties.**
+**Information regarding exam entries and candidates is strictly confidential and is never passed on to third parties.**
 
-## Legal disclaimer
+### Legal disclaimer
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
 
-## Aggregate information (non-personally identifiable)
+### Aggregate information (non-personally identifiable)
 
 We occasionally share aggregated demographic information with organisations who are interested in either linking to or placing a link on our website and members of the press. This aggregated information will consist of user numbers, date and times of visits, user’s movement through the website in the aggregate and broad demographic information.  This information will be provided purely to allow organisations to assess the suitability of our website for their own web audience when considering reciprocal links. This aggregate information is not linked to any personally identifiable information.
 
-## Third party intermediaries
+### Third party intermediaries
 
 We use a credit card processing company to process online exam entry fees. This company does not retain, share, store or use personally identifiable information for any secondary purposes.
 
-## Choice/opt-out
+### Choice/opt-out
 
 Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for that information. 
 
@@ -145,11 +158,11 @@ Our mailing list registration form has an opt-out mechanism for users who do not
 
 Similarly, our UK online application form allows applicants to opt out of receiving copies of  _Libretto_ and other ABRSM publications, information on seminars and workshops and information on new syllabus developments.
 
-## Links
+### Links
 
 This website contains links to other sites. Please be aware that we, ABRSM, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.  This privacy statement applies solely to information collected by this website.
 
-## Security
+### Security
 
 The ABRSM website takes every precaution to protect our users’ information. When users submit sensitive information via the website, their information is protected both online and off-line.
 
@@ -157,43 +170,8 @@ When our online examination entry form asks users to enter sensitive information
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. Personal information given by users beyond their name and address is restricted in our offices and made available only to the appropriate departments. All employees are provided with a unique username and password in order to gain access to this information. Finally, the servers that store personally identifiable information are password protected and held in a secure environment, in a locked facility. Regular back ups are made of this data, and these are stored off site.
 
-If you have any questions about the security on the ABRSM website, please send [an email to the ABRSM IT department](about:\({E,online@abrsm.ac.uk,the ABRSM IT Department}).
-
-## Correcting/updating/deleting/deactivating personal information
-
-If a user’s personally identifiable information changes (such as post or zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can be done by emailing us at [marketing@abrsm.ac.uk](mailto:marketing@abrsm.ac.uk).
-
-Alternatively, you can contact us by telephone at +44 20 7636 5400 or post at:
-
- **Marketing Department  
-ABRSM  
-24 Portland Place  
-London W1B 1LU  
-United Kingdom  
-T +44 20 7636 5400     
-F +44 20 7637 0234  
-E [marketing@abrsm.ac.uk](mailto:marketing@abrsm.ac.uk)**
-
-## Notification of changes
+##  [Notification of changes](http://us.abrsm.org/en/policies/website-privacy-policy/#collapse_5)
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
 If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users where possible via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner.
-
-## Contact information
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at:
-
- **Marketing  Department  
-ABRSM  
-24 Portland Place  
-London W1B 1LU  
-United Kingdom  
-T +44 20 7636 5400     
-F +44 20 7637 0234  
-E [marketing@abrsm.ac.uk](mailto:marketing@abrsm.ac.uk)**
-
-## Further useful links
-
-  *   *   *   *   * 
-
