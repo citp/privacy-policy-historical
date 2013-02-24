@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgiastandards.org privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019072442id_/https%3A//www.georgiastandards.org/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgiastandards.org privacy policy that was archived on 2013-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130224024751id_/https%3A//www.georgiastandards.org/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
