@@ -1,25 +1,48 @@
-> *The following text is extracted and transformed from the festivalsofindia.in privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830195533id_/http%3A//www.panindia.in/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festivalsofindia.in privacy policy that was archived on 2013-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130225120654id_/http%3A//www.indiaonline.in/com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Pan India Internet Pvt. Ltd. - Privacy Policy
+# Privacy Policy - IndiaOnline.in
 
-Welcome to the **[Pan India Network](http://www.panindia.in/)** websites’ privacy policy statement. Our policy is very simple and no personal information is collected about you unless you choose to provide the same to us. We do not sell, or transfer any personal information to any third party except for the limited use of contacting our users directly or by other service providers / associates for providing the users with the information they might have opted for.
+**  
+IndiaOnline.in - An Overview**  
+IndiaOnline.in has created this privacy statement in order to demonstrate our firm commitment to privacy. Throughout the cyberspace we want to contribute towards providing a safe and secure environment,safe information gathering and dissemination practices for all our sites. This policy applies only to IndiaOnline.in and its [partner websites](http://www.panindia.in/portals/) which carry the IndiaOnline.in brand and not to other companies or organisations' websites to which we link.
 
-When you browse through our site, we collect information on the efficiency and working of our Web site. This information generally includes the browser, site, pages and other statistical information which we generally use for the improvement of our site.
+**Information Gathering And Usage**
 
-Some of our web pages such as registration forms, discussion forums and other similar interfaces etc. let you voluntarily submit personal information. 
+**1\. Registration**  
+You may provide us with certain information such as your name, email address, postal address when registering for certain services such as Online Registration, Classifieds, Events, Raise Your Voice etc.. This information will primarily be used for the purpose of providing personalisation and verification.
 
-**Cookies**
+**2\. Feedback**  
+Our site's feedback form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age etc ).
 
-We may use "cookies" at times for various purposes A cookie is a small file that a website transfers to your computer's hard disk, usually to keep track of you while you are connected to that site. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Click Here](http://www.google.com/privacy_ads.html)
+We use customer contact information from the feedback form to send the user information about our company and promotional material from some of our partners.
 
-**E-mails You Send to us AND Information Collected from Interactive Forums / Forms :**
+Demographic and profile data is also collected at our site. We use this data to tailor the visitors' experience at our site, showing them the content that we think they might be interested in, and displaying the content according to their preferences.
 
-If you send us any e-mail, the mail usually contains your e-mail address. Our web site also offers some interactive forms that let you voluntarily submit your personal information (such as your e-mail address, name, organizational or other details). When you include your personal information in your e-mail / forms we, or our associates may use this information in responding / sending information about related activities.
+The customer's contact information is also used to contact the visitor when necessary.
 
-**Links to Other Sites**
+Users may opt out of receiving future mailings; by sending us an e-mail.
 
-Our policy discloses the privacy practices for our own web site only. Our site provides links to other websites also that are beyond our control. We shall in no way be responsible in way for your use of such sites.
+**3\. Contests**  
+We run contests on our site in which we ask visitors for contact information (like their email address), financial information (income bracket), and demographic information (like their zip code, age or income level).
 
-**Questions**
+We use contact data from our contestant to send information about our company and promotional material from some of our partners. The users' contact information is also used by us to contact the visitor when necessary, primarily to announce new contests and features of the site.
 
-If you have questions about this policy, please [contact us](https://web.archive.org/web/20120830195533id_/http%3A//www.panindia.in/contact.asp).
+A user may expressly choose to receive additional information from the contest organizer ( the website ) or the sponsor, in which the user identity is divulged to the third party, as long as the user gives his/her consent.
+
+Users may opt out of receiving future mailings; by sending us an e-mail.
+
+**4\. Electronic Newsletter**  
+The site offers a free electronic newsletter to its users. We gather the e-mail addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by using the link provided in every newsletter.
+
+**5\. Cookies**  
+A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. IndiaOnline.in uses cookies to track user traffic patterns (as described above) and for the personalisation feature. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Click Here](http://www.google.com/privacy_ads.html).
+
+**Registration:** When you register, IndiaOnline.in uses a cookie to store a unique, random user ID. We do not store passwords or any personal information about you. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. Cookies also enable you to enter the sites ad use services as a member without having to log on each time.
+
+If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use any part of IndiaOnline.in which is available without the need to register.
+
+**6\. Choice/Opt Out policy**  
+Our site provides users the opportunity to opt out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the option of removing their information from our database to not receive future communications or to no longer receive our service.Users may opt out of receiving future mailings; by sending us an e-mail.  
+**  
+7\. Contacting the Web Site**  
+If you have any questions about this privacy statement, the practices of this site or your dealings with this website contact IndiaOnline.in head office. 
