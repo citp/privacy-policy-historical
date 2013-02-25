@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the workplace.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120011435id_/http%3A//www.workplace.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workplace.com privacy policy that was archived on 2013-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130225082017id_/http%3A//workplace.com/Home/Privacy) for the most accurate reproduction.*
 
-# Workplace Technologies, Privacy Policy
+# Privacy Policy
 
-Our Commitment to Privacy
+## Our Commitment to Privacy
 
 At Workplace Technologies, your privacy is important to us and we are committed to protecting your privacy. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
