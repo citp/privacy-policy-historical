@@ -1,0 +1,485 @@
+<!--The following is the downloaded HTML source of the rttv.ru privacy policy that was archived on 2013-02-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130226142615id_/http%3A//www.rttv.ru/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="ru"><head>
+    <title>Privacy policy — RT</title>    <meta name="description" content="RT’s privacy policy describes the types of personal information RT may collect through its websites and applications, the use and protection of such data.">    <meta charset="UTF-8">
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=yes">
+    <!-- Add "maximum-scale=1.0; user-scalable=no;" to fix the Mobile Safari auto-zoom bug on orientation changes, but keep in mind that it will disable user-zooming completely. Bad for accessibility. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    
+    <!-- BlackBerry, Palm and others use the Handheld Friendly tag -->
+    <meta name="HandheldFriendly" content="true">
+    <!-- Windows Mobile (and WP7?) use the MobileOptimized and cleartype values -->
+    <meta name="MobileOptimzied" content="width">
+    <meta http-equiv="cleartype" content="on">    
+    <!-- Tell Google that we're already on the mobile version -->
+    <link rel="alternate" media="handheld" href="">
+    
+        <!-- Favicon -->
+    <link rel="shortcut icon" href="http://rt.com/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://rt.com/favicon.ico" type="image/x-icon">
+    <!-- iOS devices plus many other browsers nowadays use these apple touch icon files 
+    <link rel="apple-touch-icon" href="http://rt.com/touch-icon-iphone.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="http://rt.com/touch-icon-ipad.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="http://rt.com/touch-icon-iphone4.png" />
+
+    <!--[if lt IE 6]>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE6">
+    <![endif]-->
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<!--    <script type="text/javascript" src="/js/tmp/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="/js/tmp/jquery-ui.js"></script> -->
+
+
+    <script>
+        google.load("jquery", "1");
+        google.load("jqueryui", "1");
+    </script>
+    
+    <script type="text/javascript">
+/*
+var _ga_account='UA-5773642-2'
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', _ga_account]);
+_gaq.push(['_setDomainName', '.rt.com']);
+_gaq.push(['_trackPageview']);
+if ('undefined' != typeof FB ) {
+FB.Event.subscribe('edge.create', function(targetUrl) {
+_gaq.push(['_trackSocial', 'facebook', 'recommend', targetUrl]);
+});
+}
+if ('undefined' != typeof twttr) {
+twttr.events.bind('tweet', function(event) {
+if (event) {
+var targetUrl;
+if (event.target && event.target.nodeName == 'IFRAME') {
+targetUrl = extractParamFromUri(event.target.src, 'url');
+}
+_gaq.push(['_trackSocial', 'twitter', 'tweet', targetUrl]);
+}
+});
+}
+
+function _GA(uri) {
+  if (uri) {
+    var pageTracker = _gat._getTracker(_ga_account);
+    pageTracker._trackPageview(uri);
+  } else {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  }
+};
+
+
+_GA();*/
+</script>
+
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5773642-2']);
+	_gaq.push(['_setDomainName', '.rt.com']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+  
+	/**********************************
+	// Social plugins
+	**********************************/
+	var _ga = _ga || {};
+	var _gaq = _gaq || [];
+
+
+	_ga.trackSocial = function(opt_pageUrl, opt_trackerName) {
+	  _ga.trackFacebook(opt_pageUrl, opt_trackerName);
+	  _ga.trackTwitter(opt_pageUrl, opt_trackerName);
+	};
+
+
+	_ga.trackFacebook = function(opt_pageUrl, opt_trackerName) {
+	  var trackerName = _ga.buildTrackerName_(opt_trackerName);
+	  try {
+		if (FB && FB.Event && FB.Event.subscribe) {
+		  FB.Event.subscribe('edge.create', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'like',
+				targetUrl, opt_pageUrl]);
+		  });
+		  FB.Event.subscribe('edge.remove', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'unlike',
+				targetUrl, opt_pageUrl]);
+		  });
+		  FB.Event.subscribe('message.send', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'send',
+				targetUrl, opt_pageUrl]);
+		  });
+		}
+	  } catch (e) {}
+	};
+
+
+	_ga.buildTrackerName_ = function(opt_trackerName) {
+	  return opt_trackerName ? opt_trackerName + '.' : '';
+	};
+
+
+	_ga.trackTwitter = function(opt_pageUrl, opt_trackerName) {
+	  function twitterEventHandler(event){
+		if (event) {
+		  var targetUrl; // Default value is undefined.
+		  if (event.target && event.target.nodeName == 'IFRAME') {
+			targetUrl = _ga.extractParamFromUri_(event.target.src, 'url');
+		  }
+		  _gaq.push([trackerName + '_trackSocial', 'twitter', event.type,
+			targetUrl, opt_pageUrl]);
+		}
+	  }
+	
+	  var trackerName = _ga.buildTrackerName_(opt_trackerName);
+	  try {
+		if (twttr && twttr.events && twttr.events.bind) {
+		  twttr.events.bind('tweet', twitterEventHandler);
+		  twttr.events.bind('follow', twitterEventHandler);
+		  twttr.events.bind('unfollow', twitterEventHandler);
+		}
+	  } catch (e) {}
+	};
+
+
+	_ga.extractParamFromUri_ = function(uri, paramName) {
+	  if (!uri) {
+		return;
+	  }
+	  var uri = uri.split('#')[0];  // Remove anchor.
+	  var parts = uri.split('?');  // Check for query params.
+	  if (parts.length == 1) {
+		return;
+	  }
+	  var query = decodeURI(parts[1]);
+
+	  // Find url param.
+	  paramName += '=';
+	  var params = query.split('&');
+	  for (var i = 0, param; param = params[i]; ++i) {
+		if (param.indexOf(paramName) === 0) {
+		  return unescape(param.split('=')[1]);
+		}
+	  }
+	  return;
+	};
+	
+	// Run trackings
+	$(_ga.trackSocial);
+</script>
+
+    <link rel="stylesheet" href="/css/smoothness/jquery-ui.css" media="all">
+
+    <link rel="stylesheet" href="/static/css/base.css?v1361888775" media="all">
+    <link rel="stylesheet" href="/static/css/high.css?v1361888775" media="only screen and (max-width: 864px) and (min-width: 685px)">
+    <link rel="stylesheet" href="/static/css/med.css?v1361888775" media="only screen and (max-width: 684px) and (min-width: 479px)">
+    <link rel="stylesheet" href="/static/css/low.css?v1361888775" media="only screen and (max-width: 478px)">
+
+<!--    <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.1/themes/base/jquery-ui.css" media="all" />
+    <script src="http://code.jquery.com/jquery-1.8.1.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script>-->
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/static/css/ie.css" media="all" />
+    <script src="/static/js/tab.js"></script>
+    <script src="/static/js/ie.js"></script>
+    <script src="/static/js/ie-css3.htc"></script>
+    <![endif]-->
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/static/css/ie7.css" media="all" />
+    <![endif]-->
+    <!--[if lt IE 7]>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+    <style type="text/css">.main-header,.page{display: none;} .chromeFrameOverlayContent{width: auto;}</style>
+    <![endif]-->
+        <script type="text/javascript" src="/s/swf/jwplayer/jwplayer.js"></script>
+    <script type="text/javascript" src="/s/swf/swfobject.js"></script>
+    <script type="text/javascript" src="/js/common.js"></script>
+
+    <script>
+        $(function() {
+            /*CFInstall.check({
+                mode: "overlay",
+                destination: "http://www.waikiki.com"
+            });*/
+
+            // Datapicer
+            var datapicerIcon = $('.datepicker .icon'),
+            // из-за ie параметры фона пришлось прописать "хардкорно"
+                    datapicerIconBg = 'url("/static/img/static/icons.png") no-repeat scroll -239px -43px';
+
+            $('.datepicker .dp-inp').datepicker({
+                changeMonth: true,
+                changeYear: true,
+                showOn: 'both',
+                buttonText: '',
+                dateFormat: 'yy-mm-dd',
+                beforeShow: function() {
+
+                    datapicerIcon.css('background', 'none');
+                },
+                onClose: function(date) {
+                    datapicerIcon.css('background', datapicerIconBg);
+                    if(date !== '') {
+                        window.location = ' /'+datepickerUrl+'/' + date.replace(/\//g, '-')+'/';
+                    }
+                }
+            }).hide();
+            $('.datepicker .icon').live('click',function(){
+                $('.datepicker .dp-inp').datepicker('show');
+            });
+/*
+            /**/
+            var currentVideoID = 1;
+            $('.video-link-autoprocess').each(function(){              
+//                return;
+                var $this = $(this);
+                var videourl = $this.attr('href')
+                        .replace(/\/original\_/,'/')
+                        .replace(/\.asf$/,'.flv')
+                        
+                ;
+                var curVideoIdStr = 'inline_video_'+currentVideoID;
+                var videoContainer = $('<div id="'+curVideoIdStr+'"></div>');
+                var poster = $this.data('poster_url')?$this.data('poster_url'):'/static/img/RT.jpg';
+                var alt = $this.data('alt')?$this.data('alt'):'';
+                var video = $('<video id="video" controls="controls" width="681" poster="'+poster+'"></video>');
+                var source_flv = $('<source src="'+(videourl)+'" type="video/x-flv"/>');
+                var source_mp4 = $('<source src="'+(videourl.replace(/\.flv$/,'.mp4'))+'" type="video/mp4"/>');
+                //alert($this.attr('href'));
+                if(!navigator.userAgent.match(/iphone|ip[ao]d/i)) {
+                    video.append(source_flv);
+                }
+                video.append(source_mp4);
+                videoContainer.append(video);
+                $this.after(videoContainer);
+                if(!navigator.userAgent.match(/iphone|ip[ao]d/i)) {
+                    var playerVersion = swfobject.getFlashPlayerVersion();
+                    if (playerVersion.major > 0) {
+                        new FVideo({
+                            container:curVideoIdStr, width:690, height:388,
+                            image:poster,
+                            alt:alt,
+                            video:videourl
+                        });
+                    }else{
+
+                        var start_param = 'ec_seek';
+                        jwplayer(videoContainer.get(0)).setup({
+                            flashplayer: '/s/swf/jwplayer/player.swf',
+                            skin: '/s/swf/jwplayer/skin.zip',
+                            'http.startparam': start_param,
+                            width:690,
+                            height:388,
+                            stretching:'uniform'
+                        });
+                    }
+                }
+                $this.hide();
+                currentVideoID++;
+            });
+            /**/
+        });
+    </script>
+
+    
+    <script>
+        var controllerName = 'staticpage';
+        var site_domain = 'www.rttv.ru';
+        var datepickerUrl = 'staticpage';
+    </script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('.main-nav .button').live("click", function(){
+				if($('.main-nav ul').hasClass('active')) {
+					$('.main-nav ul').removeClass('active');
+				} else { 
+					$('.main-nav ul').addClass('active');
+				}
+			});
+			});	
+	</script>
+	<script type="text/javascript">
+		$(function() {
+
+			var marquee = $('.marquee'); 
+			marquee.wrapInner("<span>");
+			marquee.append(marquee.find("span").clone());
+			marquee.wrapInner("<div>");
+			var reset = function() {
+				$(this).css("margin-left", "0%");
+				$(this).animate({ "margin-left": "-900px" }, 12000, 'linear', reset);
+			};
+			reset.call(marquee.find("div"));
+		});
+	</script>
+</head>
+<body class="">
+<div class="main-header">
+    <div class="main-header-wp">
+        <div class="head-nav clearfix">
+            <ul class="lang">
+                <li class="button">Version <span>▼</span></li>
+                <li><a href="//arabic.rt.com/">Arabic</a></li>
+                <li><a href="//actualidad.rt.com/">Spanish</a></li>
+                <li><a href="//russian.rt.com/">Russian</a></li>				
+            </ul>
+            <div class="center">
+                <ul class="media">
+                    <li><a href="//freevideo.rt.com/">Freevideo</a></li>
+                    <li class="upper"><a href="//inotv.rt.com/">инотв</a></li>
+                    <li class="upper"><a href="//rtd.rt.com/">rtд</a></li>
+                    <li class="upper"><a href="//ruptly.tv/">RUPTLY</a></li>
+                </ul>
+                <ul class="alternative">
+                    <!-- <li class="mob-apps"><a href="/mobile-apps/"><span class="icon"></span>Mobile apps</a></li> -->
+                                    </ul>
+            </div>
+            <!--<ul class="user">
+                <li><a href="">Log in</a></li>
+                <li><a href="">Sign up</a></li>
+            </ul>-->
+        </div>
+        <div class="logo">
+            <h1><a href="/"><img src="/static/img/static/logo.jpg" alt="" title=""></a></h1>
+			<div class="logo_text">
+				<h2><img src="/static/img/static/question-more.png" alt="" title=""></h2>
+				<p class="upper btn-live"><a href="/on-air/" class="live">live</a></p>
+			</div>
+        </div>
+        <div class="search">
+            <form action="/search/everywhere/" method="get">
+                <fieldset>
+                    <legend>search</legend>
+                    <span class="icon"><input type="text" name="term" value=""><input type="submit" value=""></span>
+					<label>
+						<div id="hours">
+							<script language="JavaScript" type="text/javascript" src="/js/clock.js"></script>
+						</div>
+                   </label>
+                </fieldset>
+            </form>
+        </div>
+        <div class="main-nav">
+            <div class="button">section</div>
+            <ul>
+                                    <li class=""><a href="/news/">News</a></li>
+                                    <li class=""><a href="/usa/">USA</a></li>
+                                    <li class=""><a href="/politics/">Russian politics</a></li>
+                                    <li class=""><a href="/business/">Business</a></li>
+                                    <li class=""><a href="/op-edge/">Op-Edge</a></li>
+                                    <li class=""><a href="/in-vision/">In vision</a></li>
+                                    <li class=""><a href="/shows/">Shows</a></li>
+                                    <li class=""><a href="/bulletin-board/">Bulletin board</a></li>
+                                    <li class=""><a href="/more/">More</a></li>
+                            </ul>
+        </div>
+    </div>
+</div>
+<div class="page">
+        <div class="content policy"><!-- crumbs -->
+    <!--     <ul class="crumbs">
+        <li><a href="/">Home</a> /</li>
+        <li><a href=""></a> /</li>
+    </ul> -->
+	<ul class="crumbs">
+        <li><a href="#">Home</a> /</li>
+    </ul>
+    <!--// crumbs -->		
+	<div class="content-wp">
+        <div class="cont-wp-mid">
+            <h1>RT privacy policy</h1>
+        </div>
+
+        <div class="cont-wp">
+            <p>When you use RT websites and applications, various types of personally identifiable and non-personally identifiable information about you may become available or be purposefully collected by RT and third parties that provide site usage statistics services to us.</p>
+            <p>RT is committed to keeping such data confidential and does not seek to gather any personal information aside from that which allows us to provide you with a quality service, analyze the readability of our own content and functionality of our web and mobile products.</p>
+        </div>
+
+        <div class="cont-wp">
+            <h2>What information we collect</h2>
+            <ul>
+                <li>Your email address, as well as other information about yourself (e.g. user name, name, place of residence, phone number) you are either required to fill in or choose to disclose to us if you decide to register at RT.COM or contact us using our Feedback form</li>
+                <li>Information acquired using cookies stored on your computer or device that allow us to recognize you when you return to an RT website (You can use your browser settings to change your privacy preferences regarding the use of cookies)</li>
+                <li>Any information about yourself you choose to make public when commenting on an RT website</li>
+                <li>Your list of favorite stories in the event you choose to establish one in your RT profile</li>
+                <li>Any information about yourself that you choose to disclose through an email sent to us</li>
+                <li>Personal information that becomes available to us when you access our content or use our applications through third-party websites and platforms (e.g. social networks)</li>
+                <li>Your IP address, as well as information about your browser, type of operating system, type of handheld or mobile device you are using to access RT websites and applications</li>
+                <li>Non-personally identifiable data collected by third parties gathering user-behavior statistics on RT websites for us, which includes information about the location from which our websites are accessed and information about the content viewed.</li>
+            </ul>
+            <p>RT websites and applications may contain hyperlinks to websites owned and controlled by third parties. Please be advised that RT is not responsible or liable for the privacy policies of such web sources.</p>
+        </div>
+
+        <div class="cont-wp">
+            <h2>How we may use personal information</h2>
+            <ul>
+                <li>To provide you our online content</li>
+                <li>To personalize your RT experience</li>
+                <li>To receive feedback from you and respond to it</li>
+                <li>To contact you about anything you may submit to RT</li>
+                <li>To analyze user behavior in order to improve our web and mobile products</li>
+                <li>To block attempts to disrupt the work of our websites and applications</li>
+                <li>To prevent violations of RT comment posting rules</li>
+            </ul>
+        </div>
+
+        <div class="cont-wp">
+            <h2>Sharing of personal information</h2>
+            <p>We will keep your information confidential except where disclosure is required or permitted by the laws of the Russian Federation.</p>
+            <p>RT may share personal data in the following cases:</p>
+            <ul>
+                <li>when transfer of personal data is effected upon consent of the owner of the data to have that personal data processed;</li>
+                <li>when transfer of personal data is required for the administration of justice in accordance with the laws of the Russian Federation;</li>
+                <li>when transfer of personal data is required for RT or the third parties to exercise their legal rights and interests, or in order to achieve a significant public benefit conditional that it involves no violation to the rights and freedoms of the owner of personal data;</li>
+                <li>in other cases defined by the laws of the Russian Federation.</li>
+            </ul>
+            <p>RT strives to keep your personal information from being accessed by unauthorized third parties by using reasonable means to safeguard it. However, as transfer of any kind of data over the internet is never 100 per cent secure, we cannot give you any guarantees and urge you to be cautious when disclosing sensitive information. Changes</p>
+            <p>RT may update this Privacy policy periodically. We advise you to review this document from time to time. If you have any comments or enquiries you are welcome to contact us using the Feedback form.</p>
+        </div>
+    </div><!--// content-wp -->
+</div>
+    <div class="main-footer clearfix">
+        <ul>
+            <li><a href="/legal-disclaimer/">Legal disclaimer</a></li>
+            <li><a href="/privacy-policy/">Privacy policy</a></li>
+            <li><a href="mailto:feedback@rttv.ru">Feedback</a></li>
+            <li><a href="/about-us/">About us</a></li>
+            <li><a href="/about-us/contact-info/">Contact info</a></li>
+        </ul>
+        <p class="copyright">© Autonomous Nonprofit Organization “TV-Novosti”, 2005–2013. All rights reserved.</p>
+    </div>
+</div><!--/.page-->
+<!--LiveInternet counter-->
+  <script type="text/javascript">
+  new Image().src = "http://counter.yadro.ru/hit?r"+
+  escape(document.referrer)+((typeof(screen)=="undefined")?"":
+  ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+  screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+  ";"+Math.random();</script>
+<!--/LiveInternet-->	<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+  var sc_project=4158078;
+  var sc_invisible=1;
+  var sc_partition=54;
+  var sc_click_stat=1;
+  var sc_security="fd2686a7";
+  
+  
+</script>
+<script type="text/javascript" src="/s/js/counters/statcounter.js"></script>
+<noscript><div class="statcounter"><a title="myspace hit counter" href="http://www.statcounter.com/myspace/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/4158078/0/fd2686a7/1/" alt="myspace hit counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+
+</body></html>
