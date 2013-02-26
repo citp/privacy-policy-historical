@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerautosource.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015002417id_/http%3A//www.consumerautosource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerautosource.com privacy policy that was archived on 2013-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130226162306id_/http%3A//www.consumerautosource.com/privacy.php) for the most accurate reproduction.*
 
 # ConsumerAutoSource.com Privacy Policy
 
@@ -6,7 +6,7 @@
 
 At ConsumerAutoSource.com, your privacy is a top priority, and we are committed to protecting your privacy both on ConsumerAutoSource.com and online. This Privacy Policy provides details on how we treat any personal information you may submit to us.
 
-This Privacy Policy applies to this website, ConsumerAutoSource.com (the â€œSiteâ€). Please note that this Privacy Policy applies only to the information collected through the Site and not to websites maintained by other companies or organizations to which we link.
+This Privacy Policy applies to this website, ConsumerAutoSource.com (the “Site”). Please note that this Privacy Policy applies only to the information collected through the Site and not to websites maintained by other companies or organizations to which we link.
 
 #### Information We Collect and Use
 
@@ -18,7 +18,7 @@ We also collect demographic information. Demographic information is all other in
 
 We share personal information about you under the following circumstances:
 
-Insurance Quote Request - If you submit a request on the Site for quotes for insurance products or services, we will share the personal information contained in your request form (such as your full name, address, telephone number, email, information about your cars, etc.) with third parties, which include insurance agents, insurance carriers, lead aggregators, and other insurance service providers (â€œService Providersâ€) in our network to process and fulfill your request for insurance quotes. In some circumstances, we may obtain additional information about you and/or share that information with Service Providers in our network.
+Insurance Quote Request - If you submit a request on the Site for quotes for insurance products or services, we will share the personal information contained in your request form (such as your full name, address, telephone number, email, information about your cars, etc.) with third parties, which include insurance agents, insurance carriers, lead aggregators, and other insurance service providers (“Service Providers”) in our network to process and fulfill your request for insurance quotes. In some circumstances, we may obtain additional information about you and/or share that information with Service Providers in our network.
 
 All Service Providers in our network have entered into agreements with us, and are required to comply with federal and state privacy regulations. By submitting your request to us, you understand that Service Providers may contact you by telephone (on a recorded line), automated calling, email, or regular mail based on the information you provided to us in order to process and fulfill your request, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of an internal company. If one of the Service Providers contacts you and you wish not to be contacted again by that Service Provider with respect to your inquiry, then you should specifically make a request to that Service Provider not to contact you again. Please note that the Service Providers may maintain the information you provided whether you elect to use their services.
 
