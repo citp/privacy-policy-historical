@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mancx.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107085323id_/https%3A//www.mancx.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mancx.com privacy policy that was archived on 2013-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130226150954id_/http%3A//www.mancx.com/pages/privacy) for the most accurate reproduction.*
 
-# Mancx | The trusted community for business answers | Privacy policy
+# Mancx | Business tasks | Privacy policy
 
 ## Introduction
 
@@ -61,4 +61,4 @@ We are not responsible for the practices employed by websites linked to or from 
 
 If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-If you have any questions about our practices or this privacy policy, please contact us at [privacy@mancx.com](mailto:privacy@mancx.com), or send mail to: Mancx & More AB, Attn: Privacy, Sveavägen 98, 113 50 Stockholm
+If you have any questions about our practices or this privacy policy, please contact us at [privacy@mancx.com](mailto:privacy@mancx.com), or send mail to: Mancx & More AB, Attn: Privacy, Alstromergatan 20 A, 112 47 Stockholm, Sweden
