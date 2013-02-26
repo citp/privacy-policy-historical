@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-search-directory.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227015107id_/http%3A//top-search-directory.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-search-directory.com privacy policy that was archived on 2013-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130226122532id_/http%3A//top-search-directory.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Top Search Directory - Privacy Policy
 
