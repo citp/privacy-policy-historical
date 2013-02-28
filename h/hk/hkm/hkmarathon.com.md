@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hkmarathon.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130141633id_/http%3A//www.hkmarathon.com/home/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hkmarathon.com privacy policy that was archived on 2013-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130228082348id_/http%3A//hkmarathon.com/home/disclaimer.aspx) for the most accurate reproduction.*
 
 # Standard Chartered Hong Kong Marathon 2013
 
