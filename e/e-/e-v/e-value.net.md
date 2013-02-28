@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the e-value.net privacy policy that was archived on 2012-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120817151945id_/https%3A//www.e-value.net/home/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-value.net privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301002410id_/https%3A//www.e-value.net/privacy-policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Privacy Policy
+# Privacy Policy | E*Value
 
 Advanced Informatics' Commitment to Privacy: Your privacy is important to us. This policy describes our online information practices. You may access this policy from our homepage or any other portion of our website where personally identifiable information may be requested. 
 
@@ -20,3 +18,7 @@ Personally identifiable information provided to us online will not be shared in 
 Our Commitment to Data Security: To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
 How to Contact Us: Should you have other questions or concerns about these privacy policies, please send us an email at [contact@e-value.net](mailto:contact@e-value.net)
+
+Learn why more than 600,000 administrators, teachers and students use E*Value to power their schools, classrooms, and careers.
+
+To learn more, contact the E*Value business development team at (612) 877-4598 or [demo@e-value.net](mailto:demo@e-value.net)
