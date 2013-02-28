@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkaccess.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212121913id_/http%3A//bookmarkaccess.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkaccess.com privacy policy that was archived on 2013-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130228052738id_/http%3A//bookmarkaccess.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BookmarkAccess
 
