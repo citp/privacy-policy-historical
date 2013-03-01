@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032811id_/http%3A//www.ecigexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301191419id_/http%3A//www.ecigexpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice : Quality brand e cigarette and e cig liquid from ecigexpress.com
 
