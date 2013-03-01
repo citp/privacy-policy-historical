@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adomnia.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231110037id_/http%3A//www.adomnia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adomnia.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302002049id_/http%3A//www.adomnia.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
