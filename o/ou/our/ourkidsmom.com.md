@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourkidsmom.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017102129id_/http%3A//www.ourkidsmom.com/pr-info/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourkidsmom.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301071556id_/http%3A//www.ourkidsmom.com/pr-info/disclosure) for the most accurate reproduction.*
 
 # Disclosure & Privacy - OurKidsMom
 
@@ -30,7 +30,9 @@ OurKidsMom may on occasion ask for personal information, such as for giveaways. 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.ourkidsmom.com%2Fpr-info%2Fdisclosure%2F&media=&description=Disclosure+%26%23038%3B+Privacy)
+[contact-form] [contact-field label="Name" type="name" required="true" /] [contact-field label="Email" type="email" required="true" /] [contact-field label="Website" type="url" /] [contact-field label="Comment" type="textarea" required="true" /] [/contact-form] 
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.ourkidsmom.com%2Fpr-info%2Fdisclosure%2F&media=&description=Disclosure%20%26%23038%3B%20Privacy)
 
 Be Sociable, Please Share!
 
