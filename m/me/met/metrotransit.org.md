@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the metrotransit.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230193643id_/http%3A//www.metrocouncil.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrotransit.org privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301163509id_/http%3A//www.metrocouncil.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Metropolitan Council - Privacy statement, government data practices act, data access procedures
 
-> [About Us](https://web.archive.org/web/20121230193643id_/http%3A//www.metrocouncil.org/about/index.htm) > [Policies](https://web.archive.org/web/20121230193643id_/http%3A//www.metrocouncil.org/about/policies.htm)
+> [About Us](https://web.archive.org/web/20130301163509id_/http%3A//www.metrocouncil.org/about/index.htm) > [Policies](https://web.archive.org/web/20130301163509id_/http%3A//www.metrocouncil.org/about/policies.htm)
 
 The Metropolitan Council is committed to protecting the privacy of users in accordance with the [Minnesota Government Data Practices Act](https://www.revisor.mn.gov/statutes/?id=13); this privacy statement explains how. We reserve the right to alter our privacy policy as business needs require. Any changes to this policy will be posted on this website in a timely manner.
 
