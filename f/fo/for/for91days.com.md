@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the for91days.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230184237id_/http%3A//www.for91days.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the for91days.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301183641id_/http%3A//www.for91days.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | For 91 Days in Idaho – Travel Blog
 
