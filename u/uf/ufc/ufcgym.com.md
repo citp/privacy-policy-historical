@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufcgym.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025173652id_/http%3A//www.ufcgym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufcgym.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301133806id_/http%3A//www.ufcgym.com/privacy) for the most accurate reproduction.*
 
 # UFC Gym | The Ultimate Fitness Destination | Privacy Policy
 
