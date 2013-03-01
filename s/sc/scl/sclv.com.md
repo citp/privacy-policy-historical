@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sclv.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230215438id_/https%3A//www.sclv.com/en/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sclv.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301164709id_/https%3A//www.sclv.com/en/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Station Casinos - Las Vegas
 
