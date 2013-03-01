@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infochimps.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223060751id_/http%3A//www.infochimps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infochimps.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301134741id_/http%3A//www.infochimps.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Infochimps
 
@@ -68,4 +68,4 @@ By using the Service, you accept that your use and any dispute over privacy is s
 
 This Privacy Policy applies only to Infochimps and not to any third-parties that may be accessed through hyper-links. Infochimps reserves the right to occasionally update this Privacy Policy. At such time, Infochimps will also revise the "last updated" date at the end of the Privacy Policy. Infochimps recommends that you periodically visit this page regularly to review the most current version of this Privacy Policy and monitor any changes.
 
-Last updated: March 25, 2011. © 2009-2012 Infochimps, Inc.
+Last updated: March 25, 2011. © 2009-2013 Infochimps, Inc.
