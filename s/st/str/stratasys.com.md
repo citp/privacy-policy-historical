@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the stratasys.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016080110id_/http%3A//www.stratasys.com/Privacy/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratasys.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301103800id_/http%3A//stratasys.com/Privacy/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Stratasys Inc.
+# Privacy Policy | Stratasys
 
 Privacy Policy
 
 Please take a moment to read the following policy to learn how we handle your information. Awareness and understanding of our Privacy Policy will allow us to provide you with better service. 
 
-Stratasys, Inc. will not sell or share any of the names, addresses, or information in our databases. Stratasys only collects your information for the purposes of sending the product literature and samples you explicitly requested through trade publications, trade shows, and direct contact with our company. As part of this request and fulfillment process, we do forward your information to the Stratasys product representative, distributor or reseller nearest you. 
+Stratasys Ltd. will not sell or share any of the names, addresses, or information in our databases. Stratasys only collects your information for the purposes of sending the product literature and samples you explicitly requested through trade publications, trade shows, and direct contact with our company. As part of this request and fulfillment process, we do forward your information to the Stratasys product representative, distributor or reseller nearest you. 
 
 **Why we collect personal information**
 
