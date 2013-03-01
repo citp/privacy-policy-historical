@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblionasium.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230230729id_/http%3A//biblionasium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblionasium.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301164248id_/http%3A//biblionasium.com/privacy) for the most accurate reproduction.*
 
 # BiblioNasium - Kids Share Book Recommendations. Use Online Reading Logs, Find Books At Their Reading Level
 
