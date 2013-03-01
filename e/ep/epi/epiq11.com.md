@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epiq11.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231032511id_/http%3A//www.epiqsystems.com/General.aspx%3Fid%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiq11.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301204514id_/http%3A//www.epiqsystems.com/General.aspx%3Fid%3D53) for the most accurate reproduction.*
 
-# Epiq Systems | Privacy Statement
+# Epiq Systems, Inc. | Privacy Statement
 
 Epiqsystems.com is owned and operated by Epiq Systems, Inc. ("Epiq"). Epiq collects personal and non-personal information on Epiqsystems.com. Epiq is committed to protecting the privacy of its users. We have created this Privacy Statement in order to describe and explain to users our information collection practice. If you have any questions or concerns in connection with Epiq's information collection practice summarized in this Privacy Statement, please send an email, with the subject heading "Privacy Statement Question," to [webmaster@epiqsystems.com](mailto:webmaster@epiqsystems.com). In the email, please state your questions or concerns.
 
