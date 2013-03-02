@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booklikes.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112021124id_/http%3A//booklikes.com/page/11/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booklikes.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302140258id_/http%3A//booklikes.com/page/11/privacy_policy) for the most accurate reproduction.*
 
 # BookLikes • Page
 
