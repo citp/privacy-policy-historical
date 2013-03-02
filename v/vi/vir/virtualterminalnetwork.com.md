@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virtualterminalnetwork.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229172519id_/http%3A//www.virtualterminalnetwork.com/cardholder/CMSDisplay.asp%3FPageID%3D506) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualterminalnetwork.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302105133id_/https%3A//www.virtualterminalnetwork.com/cardholder/CMSDisplay.asp%3FPageID%3D506) for the most accurate reproduction.*
 
 # Privacy Policy - virtualterminalnetwork.com
 
-[ ](http://www.truste.org/ivalidate.php?url=www.virtualterminalnetwork.com&sealid=101)Our mission is to enable merchants and buyers in Nigeria to buy and pay for tangible products and services securely online. VTNetwork Limited is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.virtualterminalnetwork.com. Because this Web site wants to demonstrate its commitment to our users privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+ Our mission is to enable merchants and buyers in Nigeria to buy and pay for tangible products and services securely online. VTNetwork Limited is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.virtualterminalnetwork.com. Because this Web site wants to demonstrate its commitment to our users privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If users have questions or concerns regarding this statement, they should first contact   
 Customer Service Department at VTNetwork Limited:   
@@ -120,7 +120,7 @@ If, however, we are going to use users’ personally identifiable information in
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-[ ](http://www.truste.org/ivalidate.php?url=www.virtualterminalnetwork.com&sealid=101)Corporate matters, please write to:   
+ Corporate matters, please write to:   
 VTNetwork Limited   
 Suite S 8 Febson Mall, Plot 2425, Herbert Macaulay Way, Wuse Zone 4, Abuja, Nigeria  
 Web site URL: http://www.virtualterminalnetwork.com  
@@ -128,4 +128,4 @@ Email: support@virtualterminalnetwork.com
 
   
   
-[Open an Account](https://web.archive.org/web/20111229172519id_/http%3A//www.virtualterminalnetwork.com/cardholder/)
+[Open an Account](https://web.archive.org/web/20130302105133id_/https%3A//www.virtualterminalnetwork.com/cardholder/)
