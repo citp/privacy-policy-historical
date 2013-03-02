@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230194124id_/https%3A//www.diversalertnetwork.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302232436id_/http%3A//www.diversalertnetwork.org/privacypolicy) for the most accurate reproduction.*
 
-# DAN | Divers Alert Network
+# DAN | Dive Safety & Insurance - Divers Alert Network
 
 DAN is committed to protecting your privacy and uses your personal information only to process orders and provide you with the highest level of service. Please read on for more details about DAN's policy regarding your privacy.
 
