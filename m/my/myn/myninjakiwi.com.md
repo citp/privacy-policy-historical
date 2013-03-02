@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myninjakiwi.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227053000id_/http%3A//ninjakiwi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myninjakiwi.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302020345id_/http%3A//ninjakiwi.com/privacy.php) for the most accurate reproduction.*
 
 # Free Online Games - Ninja Kiwi
 
