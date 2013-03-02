@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the thefactsite.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021092149id_/http%3A//www.thefactsite.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefactsite.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302091428id_/http%3A//www.thefactsite.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# 
-
-  
-
+# Privacy Policy - The Fact Site
 
 **What information do we collect?**
 
