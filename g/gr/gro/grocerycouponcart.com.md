@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grocerycouponcart.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030124802id_/http%3A//www.grocerycouponcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponcart.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302162611id_/http%3A//www.grocerycouponcart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
