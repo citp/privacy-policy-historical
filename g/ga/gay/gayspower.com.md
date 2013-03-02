@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayspower.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919225849id_/http%3A//gayspower.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayspower.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302102428id_/http%3A//gayspower.com/privacy.html) for the most accurate reproduction.*
 
 # Gay Porn tube, Free HD Gay Porn Videos, XXX Gay Porno Movies, Online Gay Streaming Porn and Free Gay Sex Clips
 
