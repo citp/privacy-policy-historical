@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twittascope.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001233234id_/http%3A//beta.tarot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittascope.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302093442id_/http%3A//www.tarot.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Tarot.com's Privacy Policy
 
 Tarot.com may gather information for the following reasons:
 
@@ -35,7 +35,7 @@ We reserve the right to disclose your personally identifiable information as req
 ### Information Gathered for Customization, Purchasing & Ad Serving   
 Product Purchases / Ecommerce
 
-Purchasing online at Tarot.com is completely secure. The purchase of Karma Coins® tokens, gift certificates and expert readings requires no personal information other than name and credit card number, expiration date, etc. You can update your credit card information during the purchase process. To update, edit or delete your profile information immediately, login to the site and [use this link](https://web.archive.org/my-account "Update Your Member Profile"). You can also email support@tarot.com and your request will be handled within 30 days. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Purchasing online at Tarot.com is completely secure. The purchase of Karma Coins® tokens, gift certificates and expert readings requires no personal information other than name and credit card number, expiration date, etc. You can update your credit card information during the purchase process. To update or edit your profile information immediately, login to the site and [use this link](http://www.tarot.com/member/profile "Member Profile"). You can also email support@tarot.com and your request will be handled within 30 days. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our website, you can send email us at support@tarot.com. We make our best effort to ensure that your data is safe. All of our databases are housed in a secure datacenter with restricted access. Our servers are housed behind industry standard firewalls using the latest encryption technology. Our secure system stores some of this information for your convenience in the future, but no personal or financial information is ever shared, rented or sold. If you need to update this information, please see the 'Updating/Accessing/Amending/Correcting Personally Identifiable Information' below.
 
@@ -77,7 +77,7 @@ If you use our blog on this website, you should be aware that any personally ide
 
 ### Personal Online Journals
 
-All full-sized readings and reports are saved for users in "Your Readings and Reports Journal," which you can find under the "About You" menu on every regular page of the website. This information -- which consists of Tarot readings, I Ching readings and Astrology and Numerology reports -- is saved for your convenience or analysis only, and any items in your Journal can be easily deleted by you anytime you want. These items are completely protected by your password and are not used by anyone else for any purpose.
+All full-sized readings and reports are saved for users in "Your Readings and Reports Journal," which you can find under the "About You" menu on every regular page of the website. This information -- which consists of Tarot readings, I Ching readings and Astrology and Numerology reports -- is saved for your convenience or analysis only, and any items in your Journal can be easily modified by you anytime you want. These items are completely protected by your password and are not used by anyone else for any purpose.
 
 ### Links to Other Sites
 
@@ -87,7 +87,7 @@ In order to provide you with a seamless experience, we may utilize a framing tec
 
 ### Updating/Accessing/Amending/Correcting Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update, edit or delete your profile information immediately, login to the site and [use this link](https://web.archive.org/my-account "Update Your Member Profile"). You can also email support@tarot.com or contact us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
+If your personally identifiable information changes, or if you no longer desire our service, you may update or edit your profile information immediately, login to the site and [use this link](http://www.tarot.com/member/profile "Update Your Member Profile"). You can also email support@tarot.com or contact us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.
 
 7412 SW Beaverton Hillsdale Hwy, Suite 102   
 Portland, Oregon 97225   
