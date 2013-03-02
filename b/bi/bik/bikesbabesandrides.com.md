@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bikesbabesandrides.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029040219id_/http%3A//bikesbabesandrides.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikesbabesandrides.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302150218id_/http%3A//bikesbabesandrides.com/Page/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Bikes Babes And Rides
+# Privacy Policy | BikesBabesAndRides.com
 
 This privacy policy sets out how www.BikesBabesAndRides.com uses and protects any information that you give www.BikesBabesAndRides.com when you use this website. www.BikesBabesAndRides.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. www.BikesBabesAndRides.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from August, 2012.
 
