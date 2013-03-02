@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esl-kids.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003051459id_/http%3A//www.esl-kids.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esl-kids.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302050944id_/http%3A//www.esl-kids.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ESL-Kids - Privacy Policy
 
