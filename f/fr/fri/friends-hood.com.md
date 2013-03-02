@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friends-hood.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231052244id_/http%3A//friends-hood.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friends-hood.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302074211id_/http%3A//friends-hood.com/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - Friends Hood
 
