@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetmyjobs.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030193838id_/http%3A//www.tweetmyjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetmyjobs.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302171855id_/http%3A//www.tweetmyjobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TweetMyJobs
 
@@ -79,4 +79,4 @@ E-mail: [legal@careerarcgroup.com](mailto:legal@careerarcgroup.com)
 
 
 
-TweetMyJobs is a service provided by © CareerArc Group LLC  |  All rights reserved  |  Patent Pending
+TweetMyJobs® is a service provided by © 2013 CareerArc Group LLC. All rights reserved. Patent Pending.
