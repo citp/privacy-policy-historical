@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the certifiedprofile.com privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016023007id_/https%3A//www.certifiedprofile.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the certifiedprofile.com privacy policy that was archived on 2013-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130302195929id_/https%3A//www.certifiedprofile.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!DOCTYPE html><html><head>
    <title>Privacy Policy | CP</title>
    <link rel="shortcut icon" href="/favicon.ico">
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -14,10 +14,14 @@
    <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://www.certifiedprofile.com/javascripts/jquery-1.4.2.min.modified.js?1287050949" type="text/javascript"></script>
    <script src="https://www.certifiedprofile.com/javascripts/cufon-yui.js?1287050950" type="text/javascript"></script>
    <script src="https://www.certifiedprofile.com/javascripts/DIN_200-DIN_700.font.js?1287050948" type="text/javascript"></script>
+   <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
    <link href="https://www.certifiedprofile.com/stylesheets/style-ext.css?1287050947" media="screen" rel="stylesheet" type="text/css">
    <link href="https://www.certifiedprofile.com/stylesheets/slideshow.css?1287050947" media="screen" rel="stylesheet" type="text/css">
    <link href="https://www.certifiedprofile.com/stylesheets/static/all.css?1287050948" media="screen" rel="stylesheet" type="text/css">
    <link href="https://www.certifiedprofile.com/stylesheets/static/privacy-terms.css?1287050948" media="screen" rel="stylesheet" type="text/css">
+   <!--[if IE 9]>
+   <link href="https://www.certifiedprofile.com/stylesheets/style-ie9.css?1287050949" media="screen" rel="stylesheet" type="text/css" />
+   <![endif]-->
    <!--[if IE 8]>
    <link href="https://www.certifiedprofile.com/stylesheets/style-ie8.css?1287050948" media="screen" rel="stylesheet" type="text/css" />
    <![endif]-->
@@ -27,46 +31,68 @@
    <!--[if lte IE 6]>
    <link href="https://www.certifiedprofile.com/stylesheets/style-ie6.css?1287050947" media="screen" rel="stylesheet" type="text/css" />
    <![endif]-->
-   
+   <script language="javascript">
+$(document).ready(function() {
+  	$('#navigation li').each(function() {
+		if ($(this).is(':last-child') == false) {
+			$(this).find('a').css('border-right','2px groove lightgrey');
+		}
+	});
+
+});
+</script>
+	<!--[if lte IE 9]><script type="text/javascript">
+	$(document).ready(function() {
+		// HTML5 placeholder Attribute
+		$('input[type=text][placeholder]').each(function() {
+			if ($(this).val() == '') $(this).val($(this).attr('placeholder'));
+			$(this).focus(function() {
+				if ($(this).val() == $(this).attr('placeholder')) $(this).val('');
+			}).blur(function() {
+				if ($(this).val() == '') $(this).val($(this).attr('placeholder'));
+			});
+		});
+	});
+	</script><![endif]-->
 </head>
 <body id="privacy" class="static-controller privacy-action">
 
 <div id="exterior" class="container_16">
-<!-- Begin Header -->
-   <a href="/"><h1 class="grid_8 with-text">CertifiedProfile</h1></a>
-   <ul id="navigation" class="grid_12 suffix_4">
-      <li id="navigationHome"><a href="https://www.certifiedprofile.com/" title="Home">Home</a></li>
+<header>
+<div id="userSessionForm">
+	<form action="https://www.certifiedprofile.com/certify" method="post">
+	<h1>CertifiedProfile User Login</h1>
+		<input type="hidden" name="process" value="login">
+		<input type="text" placeholder="Email" name="emailaddr">
+		<input type="submit" value="Go" class="with-text">
+		<input type="hidden" name="form_authenticity_token" value="887370c705c1fcf4af20607ca7ccca1f">
+	</form>
+
+	<form action="https://www.certifiedprofile.com/online_submission/login.php" method="post" id="clientLogin">
+	<h1>Administrator/Client Access</h1>
+		<input type="text" placeholder="Username" name="username">
+		<input type="password" placeholder="Password" name="password">
+		<input type="submit" value="Go" class="with-text">
+	</form>
+	<form action="https://www.certifiedprofile.com/online_submission/package_code.php" method="post" id="placeOrder">
+	<h1>Place Order</h1>
+		<input type="text" placeholder="Package Code" name="package_code">
+		<input type="submit" value="Go" class="with-text">
+	</form>
+</div>
+<a href="/" id="navigationHome" class="grid_5 with-text"><h1>CertifiedProfile</h1></a>
+   <ul id="navigation" class="grid_7">
       <li id="navigationAbout"><a href="https://www.certifiedprofile.com/about" title="About">About</a></li>
       <li id="navigationFeatures"><a href="https://www.certifiedprofile.com/features" title="Features">Features</a></li>
       <li id="navigationSecurity"><a href="https://www.certifiedprofile.com/security" title="Security">Security</a></li>
       <li id="navigationGettingStarted"><a href="https://www.certifiedprofile.com/getting-started" title="Getting Started">Getting Started</a></li>
    </ul>
-   <div id="userSessionForm" class="grid_8">
-      <form action="https://www.certifiedprofile.com/certify" class="edit-form" id="new_user_session" method="post">
-         <div style="margin:0;padding:0;display:inline">
-            <input type="hidden" name="form_authenticity_token" value="b64d360cea601d82200739205b4f3370">
-            <input type="hidden" name="process" value="login">
-         </div>
-         <ul class="form-list">
-            <li id="container_for_user_login">
-               <h5>Email Login:</h5>
-               <input autocomplete="off" id="user_session_login" name="emailaddr" size="30" type="text">
 
-               <div style="width:1px; height:1px; overflow:hidden; text-indent: -9999 px">
-                  <input id="user_session_submit" name="commit" type="submit" value="Login">
-               </div>
-               <a href="#" class="button-submit button button-login with-text">Login</a>
-            </li>
-         </ul>
-      </form>
-   </div>
-
-
-<!-- End Header -->
+</header>
 <!-- Begin Body --><div class="container_16">
   <div id="terms-privacy" class="grid_16">
     <h3>Privacy Policy</h3>
-<p>Welcome to CertifiedProfile.com.  By accessing and using CertifiedProfile.com and its services and network (the "Website"), you signify that you have read, understand, and agree to be bound by this Privacy Policy ("Privacy Policy"), whether or not you are a registered account ("Account") holder (registered and nonregistered Account holders collectively, "User" or "Users"). The Website is owned, operated, and administered by CertifiedBackground.com a division of Castle Branch, Inc. (the "Company"). Company reserves the right, in its sole discretion, to change, modify, add, or delete portions of this Privacy Policy at any time without further notice. If the Privacy Policy is modified, such changes shall be posted on the Website. User's continued use of the Website after any such changes constitutes User's acceptance of the new Privacy Policy.</p>
+<p>Welcome to CertifiedProfile.  By accessing and using CertifiedProfile and its services and network (the "Website"), you signify that you have read, understand, and agree to be bound by this Privacy Policy ("Privacy Policy"), whether or not you are a registered account ("Account") holder (registered and nonregistered Account holders collectively, "User" or "Users"). The Website is owned, operated, and administered by CertifiedBackground.com a division of Castle Branch, Inc. (the "Company"). Company reserves the right, in its sole discretion, to change, modify, add, or delete portions of this Privacy Policy at any time without further notice. If the Privacy Policy is modified, such changes shall be posted on the Website. User's continued use of the Website after any such changes constitutes User's acceptance of the new Privacy Policy.</p>
 <h4>Account Registration and Data Collection</h4>
 <p>Registration of an Account on the Website requires a valid e-mail address and unique password.  Company also may require additional information from User including, but not limited to, legal name, social security number, birth date, address, phone number, and email address, and User shall provide valid, accurate, and complete information as requested.  In addition, when User registers with the Website, Company may ask User for certain additional information and it is within the discretion of User to provide.  User acknowledges and agrees that Company may collect and store User's name, username, password, email address, and any other information (including, without limitation, personally identifiable information) User provides to Company ("Data"). User also acknowledges and agrees that Company may collect and use non-personally identifiable information including IP addresses, profile information, aggregate User data, and browser types from User in order to manage the Website, track usage, advertise products and services to User, and improve the overall Website.</p>
 <h4>Ownership of Content</h4>
@@ -74,7 +100,7 @@
 <h4>Account Data and Content Privacy</h4>
 <p>Company takes the security of User's Data, Content, and other personal information seriously and wants Users to feel comfortable using the Website. Company has implemented industry standard technology designed to keep User Data, Content, and other personal information safe. Company currently employs Secure Socket Layer (SSL) data encryption when data is transmitted over the Internet to the Website. Company's systems are also compliant with the Payment Card Industry Data Security Standard (PCI DSS). Company has installed layered firewalls and other security technologies to help prevent unauthorized access to its systems. Strong password protection protocols are used on all computers and employees are kept up-to-date on Company's security and privacy policies. The servers used to store User information are maintained in a secure environment with appropriate security measures. Company also limits access to personally identifiable information to those employees and contractors who need access in order to carry out their job responsibilities and to certain Educational Institutions or other person, entities, or organizations designated by User.  Such protective measures are designed to limit access to User's Content, Data, and other personal information.  Please note that despite Company's efforts, factors beyond Company's control may result in disclosure of User Content, Data, or other personal information.  Accordingly, Company is not in a position to guarantee that User information will be secure under all circumstances and Company offers no warranties or representations with regards to the maintenance or non-disclosure of User Content, Data, or other personal information.  User agrees that Company Parties shall not be liable, under any circumstances, and User, for and on behalf of User and User's heirs, successors, assigns, and legal representatives, hereby forever releases and discharges Company Parties from any and all liabilities, claims, damages, actions, and losses in any way related to or connected with any loss or disclosure of User Content, Data, or other personal information.</p>
 <h4>Use of Data and Content</h4>
-<p>Company does not sell User Data or Content.  Company discloses, transmits, or shares User Data and/or Content only as follows:  (a) as provided in this Privacy Policy or in the Terms of Use; (b) pursuant to User's consent, authorization, or designation (for example, when User designates educational organizations, business organizations, or other persons, entities, or organizations to have access to or copies of User's background report, immunization records, Data, Content, or verifications contained within User's Account); (c) to educational institutions and/or departments, institutions, programs, or healthcare facilities or partners affiliated with or a part of such educational institutions (such as hospitals and clinical sites) at which User is enrolled, admitted, employed, being trained, attending instruction or class, serving as an intern, or in a similar position, or applying or being considered for enrollment, admission, employment, training, instruction, internship, or a similar position ("Educational Institutions"); (d) when a service provided on the Website requires interaction with a third party, or is provided by a third party, such as an application service provider; (e) to Company's agents, employees, or contractors as necessary, in Company's discretion, to perform or provide the products or services requested or purchased by User, such as background reports; (f) as required by law, subpoena, or order of any court or government agency having jurisdiction over Company; or (g) Company or the Website are purchased, in which event the third-party purchaser will have access to and use of the Data and Content in accordance with this Privacy Policy and the Terms of Use.</p>
+<p>Company does not sell User Data or Content.  Company discloses, transmits, or shares User Data and/or Content only as follows:  (a) as provided in this Privacy Policy or in the Terms of Use; (b) pursuant to User's consent, authorization, or designation (for example, when User designates educational organizations, business organizations, or other persons, entities, or organizations to have access to or copies of User's background report, immunization records, Data, Content, or verifications contained within User's Account); (c) to educational institutions and/or departments, institutions, programs, or healthcare facilities or partners affiliated with or a part of such educational institutions (such as hospitals and clinical sites) at which User is enrolled, admitted, employed, being trained, attending instruction or class, serving as an intern, or in a similar position, or applying or being considered for enrollment, admission, employment, training, instruction, internship, or a similar position ("Educational Institutions"); (d) when a service provided on the Website requires interaction with a third party, or is provided by a third party, such as an application service provider; (e) to Company's agents, employees, or contractors as necessary, in Company's discretion, to perform or provide the products or services requested or purchased by User, such as background reports; (f) as required by law, subpoena, or order of any court or government agency having jurisdiction over Company; or (g) Company or the Website are purchased, in which event the third-party purchaser will have access to and use of the Data and Content in accordance with this Privacy Policy and the Terms of Use. Company stores electronic data within our secure system indefinitely. All stored hard copy documents are secured in a locking cabinet at the close of business each day.  All hard copy documents that are no longer required are deposited into a locked Shred-It box for proper disposal.</p>
 <h4>Right to Delete/Terminate Account</h4>
 <p>Company, in its sole discretion, may delete User's Account or Data and Content with or without notice to User.  Company reserves the right to permanently block any User who violates this Privacy Policy or the Terms of Use. Even after deletion of an Account, Company may retain User Data and Content for archival purposes. This information is maintained to allow Company to recover Data and Content and restore Accounts in the event of equipment or system failure or to abide by legal requirements.</p>
 <h4>Links</h4>
@@ -95,28 +121,26 @@ Use of Cookies
 <p>the event that Company is acquired by or merged with any third party entity, Company reserves the right, in any of these circumstances, to transfer or assign Users' Content and Data, and the licenses obtained from User for Content and Data, and any information Company has collected from User. In the unlikely event of Company's bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Company may not be able to control how User's personal information is treated, transferred, or used.</p>
   </div>
 </div><!-- End Body -->
-<!-- Begin Footer -->
-   <div id="footer">
-      <ul class="grid_7 alpha omega">
-         <li id=""><a href="https://www.certifiedprofile.com/" title="CertifiedProfile">CertifiedProfile</a></li><a href="https://www.certifiedprofile.com/" title="CertifiedProfile">
-         </a><li id=""><a href="https://www.certifiedprofile.com/" title="CertifiedProfile"></a><a href="https://www.certifiedprofile.com/getting-started" title="Getting Started">Getting Started</a></li><a href="https://www.certifiedprofile.com/getting-started" title="Getting Started">
-         </a><li id=""><a href="https://www.certifiedprofile.com/getting-started" title="Getting Started"></a><a href="https://www.certifiedprofile.com/terms" title="Terms of Use">Terms of Use</a></li><a href="https://www.certifiedprofile.com/terms" title="Terms of Use">
-         </a><li id=""><a href="https://www.certifiedprofile.com/terms" title="Terms of Use"></a><a href="https://www.certifiedprofile.com/about" title="About Us">About Us</a></li><a href="https://www.certifiedprofile.com/about" title="About Us">
-         </a><li id=""><a href="https://www.certifiedprofile.com/about" title="About Us"></a><a href="https://www.certifiedprofile.com/features" title="Features">Features</a></li><a href="https://www.certifiedprofile.com/features" title="Features">
-         </a><li id=""><a href="https://www.certifiedprofile.com/features" title="Features"></a><a href="https://www.certifiedprofile.com/privacy" title="Privacy Policy">Privacy Policy</a></li><a href="https://www.certifiedprofile.com/privacy" title="Privacy Policy">
-         </a><li id=""><a href="https://www.certifiedprofile.com/privacy" title="Privacy Policy"></a><a href="https://www.certifiedprofile.com/about#contact-us" title="Contact Us">Contact Us</a></li><a href="https://www.certifiedprofile.com/about#contact-us" title="Contact Us">
-         </a><li id=""><a href="https://www.certifiedprofile.com/about#contact-us" title="Contact Us"></a><a href="https://www.certifiedprofile.com/security" title="Security">Security</a></li><a href="https://www.certifiedprofile.com/security" title="Security">
-         </a><li id=""><a href="https://www.certifiedprofile.com/security" title="Security"></a><a href="https://www.certifiedprofile.com/faq" title="FAQ">FAQ</a></li><a href="https://www.certifiedprofile.com/faq" title="FAQ">
-      </a></ul>
-      <a href="http://www.certifiedbackground.com" id="poweredByCB" class="with-text">Powered By CertifiedBackground</a>
-      <p id="tagline" class="with-text">Certify Your World</p>
-      <p id="copyright">Copyright © 2010. All right reserved.</p>
-   </div>
-<!-- -->
 </div>
 <!-- END SITE WRAP -->
-<div id="leftShadow"></div>
-<div id="rightShadow"></div>
+<!-- Begin Footer -->
+<div class="clear" style="height: 40px"></div>
+<div style="text-align: center; color: #e7653e; font-weight: bold;">For your convenience, CertifiedProfile is available as a mobile application and web-based hub.</div>
+<div style="background: url('/images/home-images/blue-curve-footer.png') no-repeat bottom center; display: block; margin: 0; padding: 0; width: 100%; height: 40px;"></div>
+<footer>
+      <ul class="grid_7 alpha omega">
+         <li id=""><a href="https://www.certifiedprofile.com/" title="CertifiedProfile">CertifiedProfile</a></li>
+         <li id=""><a href="https://www.certifiedprofile.com/getting-started" title="Getting Started">Getting Started</a></li>
+         <li id=""><a href="https://www.certifiedprofile.com/terms" title="Terms of Use">Terms of Use</a></li>
+         <li id=""><a href="https://www.certifiedprofile.com/about" title="About Us">About Us</a></li>
+         <li id=""><a href="https://www.certifiedprofile.com/features" title="Features">Features</a></li>
+         <li id=""><a href="https://www.certifiedprofile.com/privacy" title="Privacy Policy">Privacy Policy</a></li>
+         <li id=""><a href="https://www.certifiedprofile.com/about#contact-us" title="Contact Us">Contact Us</a></li>
+         <li id=""><a href="https://www.certifiedprofile.com/security" title="Security">Security</a></li>
+         <li id=""><a href="https://www.certifiedprofile.com/faq" title="FAQ">FAQ</a></li>
+      </ul>
+	<p id="copyright">Copyright © 2012. All right reserved.</p>
+</footer>
 <script type="text/javascript">
 Cufon.now();
 </script>
