@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testcraft.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919220410id_/http%3A//www.ingeniousgroup.com/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testcraft.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302153537id_/http%3A//www.ingeniousgroup.com/web/privacy) for the most accurate reproduction.*
 
 # Ingenious Group - Privacy Policy
 
