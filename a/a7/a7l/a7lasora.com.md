@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a7lasora.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231034550id_/http%3A//a7lasora.com/index.php%3F/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a7lasora.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302033611id_/http%3A//a7lasora.com/index.php%3F/page/privacy_policy) for the most accurate reproduction.*
 
 # Home / Albums | احلى صورة
 
