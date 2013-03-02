@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deadstock.ca privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127191152id_/http%3A//deadstock.ca/shop/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadstock.ca privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302161808id_/http%3A//deadstock.ca/shop/privacy-statement.html) for the most accurate reproduction.*
 
 # Livestock / Privacy statement
 
