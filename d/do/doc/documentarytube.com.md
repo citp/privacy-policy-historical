@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the documentarytube.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102102208id_/http%3A//www.documentarytube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentarytube.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302134628id_/http%3A//www.documentarytube.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Documentary Tube
+# Privacy Policy - DocumentaryTube.com
 
 This is the web site of Documentary Tube.
 
@@ -33,3 +33,5 @@ Consumers can access this information by e-mail us at the above address, write t
 Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+Privacy Policy, 3.1 out of 5 based on 11 ratings 
