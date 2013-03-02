@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cnu.edu privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231053324id_/http%3A//www.cnu.edu/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnu.edu privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302082143id_/http%3A//www.cnu.edu/privacy/index.asp) for the most accurate reproduction.*
 
-# Christopher Newport University
+# Your Privacy
 
 ##### Scope
 
