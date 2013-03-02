@@ -1,0 +1,408 @@
+<!--The following is the downloaded HTML source of the chronoblade.com privacy policy that was archived on 2013-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130302153653id_/http%3A//chronoblade.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+	<meta charset="utf-8">
+	<title>ChronoBlade Privacy</title>
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="stylesheet" href="/cdn/josefin/stylesheet.css?cache=v0_0_4" type="text/css" charset="utf-8">
+	<link rel="stylesheet" href="/cdn/css.css?cache=v0_0_4" type="text/css" charset="utf-8">
+	<script src="http://s3.amazonaws.com/chronoblade/cdn/js/yui/yui.js"></script>
+	<!--[if gte IE 9]>
+	  <style type="text/css">
+	    .box.bg .mask {
+	       filter: none;
+	    }
+	  </style>
+	<![endif]-->
+</head>
+<body class="privacy subpage">
+<div class="privacy box bg top">
+	<div class="btm">
+		<div class="bdy">
+			<div class="mask">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pg-content-container">
+<div class="box navbar">
+	<a class="logo" href="/"></a>
+	<a class="fb" href="https://www.facebook.com/Chronoblade"></a>
+	<a class="twitter" href="https://twitter.com/nWayGames"></a>
+	<ul class="menu">
+		<li class="first"><a href=""></a></li>
+		<li class="second hasSubmenu"><a href="/multiverse/">GAME</a></li>
+		<li class="third"><a href="http://forums.chronoblade.com" target="cbforum">FORUMS</a></li>
+		<li class="fourth"><a href="/beta/">BETA</a></li>
+		<li class="fifth"><a href=""></a></li>
+	</ul>
+	<a class="nWay" href="http://www.nway.com"></a>
+</div>
+<ul class="second submenu">
+	<li><a href="/multiverse/">MULTIVERSE</a></li>
+	<li><a href="/heroes/">HEROES</a></li>
+	<li><a href="/faq/">FAQ</a></li>
+	<li class="ftr"></li>
+</ul>
+
+<script>
+	YUI().use("node", "event", "transition", function (Y) {
+		/*
+		Y.all(".menu .hasSubmenu").on("click", function(evt) {
+			evt.halt();
+		});
+		*/
+		var TRANSITION_DURATION = '0.5';
+		var SUBMENU_1_H = "200px";
+		
+		Y.all(".menu a").on("hover", function(evt){
+			Y.all(".submenu").transition({
+				duration: TRANSITION_DURATION,
+				easing: 'ease-out',
+				height: '0px'
+		    });
+		});
+
+		Y.all(".menu .hasSubmenu a").on("hover", function(evt){
+			var a = evt.target;
+			var li = a.get('parentNode').getAttribute("class").split("hasSubmenu")[0];
+			if(!li) return;
+
+			//(a.get('tagName').toLowerCase() !== 'a') || a.setStyle("boxShadow", "0 0 11px red");
+			li = ".submenu." + li;
+			Y.one(li).transition({
+				duration: TRANSITION_DURATION,
+				easing: 'ease-in',
+				height: SUBMENU_1_H
+		    });
+		});
+
+		Y.all(".submenu").on("hover", null, function(evt) {
+			Y.all(".submenu").transition({
+				duration: TRANSITION_DURATION,
+				easing: 'ease-out',
+				height: '0px'
+		    });
+		});
+	});
+</script>
+<div class="subpage box beta hide" id="signupbox">
+	<button id="betasignupbtn">Beta Sign Up</button>
+	<div class="signupiframe assistant hide" id="betasignupassistant">
+		<button id="closebetaassistant"></button>
+		<iframe src="http://eepurl.com/pmz_P"></iframe>
+	</div>
+</div><div class="privacy box sublayout top">
+	<img src="/cdn/sub/privacy/privacy.png?cache=v0_0_4" border="0" class="title">
+	<div class="ft">
+		<div class="bd">
+			<div class="contents">
+				<ul>
+	<li>
+		Date of Last Revision: October, 11 2012
+	</li>
+	<li>
+		<p class="important">
+			This Privacy Policy explains our practices regarding the collection, use and disclosure of information that we receive
+			when you visit our Site and use our Service. This Privacy Policy doesn’t apply to any third-party websites, services or
+			applications, including any websites, services and applications that you may access through our Service. Unless we
+			define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our
+			Terms of Service.
+		</p>
+	</li>
+	<li>
+		<h5>How do we collect and use information?</h5>
+		<p>
+			Our primary goals in collecting information are to provide and improve our Service, to administer your use of the
+			Service (and, if you have registered an account with us, administer your account), and to enable you to enjoy and
+			easily navigate our Service.
+		</p>
+	</li>
+	<li>
+		<h5>Account Information</h5>
+		<p>
+			When you create an account we’ll collect certain information that can be used to identify you,
+			such as your name and email address (“PII”). We may also collect certain information that is not PII because it cannot
+			be used by itself to identify you, such as your gender, birth date or age, and zip code. If you choose to create an
+			account using a Social Networking Service, you will provide us with your username (or userID) so that your identity can
+			be authenticated by the Social Networking Service account. When the authentication is complete, we’ll be able to link
+			your account with the Social Networking Service account and access certain PII, such as your name and email address,
+			and other information that your privacy settings on the Social Networking Service account permit us to access.
+		</p>
+	</li>
+	<li>
+		<h5>
+			Information Collected Using Cookies
+		</h5>
+		<p>
+			We collect certain information through the use of “cookies,” which are small text
+			files that are saved by your browser when you access our Service. We may use both session cookies and persistent
+			cookies to identify that you’ve logged in to the Service and to tell us how and when you interact with our Service.
+			We may also use cookies to monitor aggregate usage and web traffic routing on our Service and to customize and
+			improve our Service. Unlike persistent cookies, session cookies are deleted when you log off from the Service and
+			close your browser. Although most browsers automatically accept cookies, you can change your browser options to
+			stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you
+			don’t accept cookies, you may not be able to access all portions of the Service. Some third-party services providers
+			that we engage (including third-party advertisers) may also place their own cookies on your browser. Note that this
+			Privacy Policy covers only our use of cookies and does not include use of cookies by such third parties.
+		</p>
+	</li>
+	<li>
+		<h5>
+			Information Related to Use of the Service
+		</h5>
+		<p>
+			Our servers automatically record certain information about how a person
+			uses our Service (we refer to this information as “Log Data”), including both account holders and non-account holders
+			(either, a “User”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type,
+			operating system, the web page that a User was visiting before accessing our Service, the pages or features of our
+			Service to which a User browsed and the time spent on those pages or features, search terms, the links on our Service
+			that a User clicked on and other statistics. We use this information to administer the Service and we analyze (and may
+			engage third parties to analyze) this information to improve and enhance the Service by expanding their features and
+			functionality and tailoring them to our Users’ needs and preferences. We generally use IP addresses to fight spam,
+			malware and identity theft. We also use the IP Address to generate aggregate, non-identifying information about how
+			our Service is used.
+		</p>
+	</li>
+	<li>
+		<h5>
+			Location Information
+		</h5>
+		<p>
+			In some cases we collect and store information about where you are located, such as by
+			converting your IP address into a rough geolocation. We may use location information to improve and personalize our
+			Service for you.
+		</p>
+	</li>
+	<li>
+		<h5>
+			What Information Do We Share With Third Parties?
+		</h5>
+		<p>
+			We will not share any PII that we have collected from you except as described below:
+		</p>
+	</li>
+	<li>
+		<h5>
+			Information Shared with Our Service Providers
+		</h5>
+		<p>
+			We may engage third party service providers to work with us to
+			administer and provide the Service. These third-party services providers have access to your information only to the
+			extent necessary and for the purpose of performing services on our behalf.
+		</p>
+	</li>
+	<li>
+		<h5>
+			Information Shared with Third Parties
+		</h5>
+		<p>
+			We may share aggregated information and non-identifying information with
+			third parties for industry analysis, demographic profiling and other similar purposes.
+		</p>
+	</li>
+	<li>
+		<h5>
+			Information Disclosed in Connection with Business Transactions
+		</h5>
+		<p>
+			Information that we collect from our users is
+			considered to be a business asset and if we are acquired as a result of a transaction such as a merger, acquisition or
+			asset sale, or if we go out of business or enter bankruptcy, your information would be transferred to a third-party as a
+			business asset in connection with such a transaction.
+		</p>
+	</li>
+	<li>
+		<h5>
+			Information Disclosed for Our Protection and the Protection of Others
+		</h5>
+		<p>
+			We may disclose information about you
+			to government or law enforcement officials or to private parties as we, in our reasonable discretion, believe it is
+			necessary: (i) to satisfy or comply with any applicable law, regulation or legal process or to respond to lawful requests,
+			including subpoenas, warrants or court orders; (ii) to protect our property, rights and safety and the rights, property
+			and safety of third parties or the public in general; and (iii) to prevent or stop activity we consider to be illegal or
+			unethical.
+		</p>
+	</li>
+	<li>
+		<h5>
+			Information We Disclose With Your Consent or at Your Request
+		</h5>
+		<p>
+			We will share your PII with third-party sites or
+			platforms, such as social networking sites, if you have expressly requested that we do so.
+		</p>
+	</li>
+	<li>
+		<h5>
+			The Security of Your Information
+		</h5>
+		<p>
+			We take reasonable measures to protect the information that we collect from or about you from unauthorized access,
+			use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing
+			information is completely secure and we cannot guarantee the absolute security of any information.
+		</p>
+	</li>
+	<li>
+		<h5>
+			Links to Other Sites
+		</h5>
+		<p>
+			Our Service may contain links to other websites and services. Any information that you provide on or to a third-party
+			website or service is provided directly to the owner of the website or service and is subject to that party's privacy
+			policy. Our Privacy Policy does not apply to such websites or services and we’re not responsible for the content,
+			privacy or security practices and policies of those websites or services. To protect your information we recommend
+			that you carefully review the privacy policies of other websites and services that you access.
+		</p>
+	</li>
+	<li>
+		<h5>
+			Modifying Your Information
+		</h5>
+		<p>
+			You can access and modify your personal information through your account. If you want us to delete any of your
+			personal information and/or your account, please <a href="mailto:contact@nway.com?subject=Privacy Policy">contact us</a> with your request. We’ll take steps to delete your
+			information as soon as is practicable, but some information may remain in archived/backup copies for our records or
+			as otherwise required by law.
+		</p>
+	</li>
+	<li>
+		<h5>
+			International Users
+		</h5>
+		<p>
+			Your information may be transferred to, and maintained on, computers located outside of your state, province,
+			country or other governmental jurisdiction where the privacy laws may not be as protective as those in your
+			jurisdiction. If you’re located outside the United States and choose to provide information to us, we may transfer your
+			information to the United States and process it there (or any other country in which we operate).
+		</p>
+	</li>
+	<li>
+		<h5>
+			Our Policy Toward Children
+		</h5>
+		<p>
+			Our Service is not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn
+			that we have collected PII of someone under 13 we will take steps to delete such information from our files as soon as
+			possible.
+		</p>
+	</li>
+	<li>
+		<h5>
+			Changes to Privacy Policy
+		</h5>
+		<p>
+			Any information that we collect is subject to the privacy policy in effect at the time such information is collected.
+			We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this
+			Privacy Policy, we’ll notify you of such changes by posting them on the Service or by sending you an email or other 
+			notification, and we’ll indicate when such changes will become effective.
+		</p>
+	</li>
+	<li>
+		<h5>
+			Questions?
+		</h5>
+		<p>
+			Please contact us at contact@nway.com if you have any questions about our Privacy Policy.
+		</p>
+	</li>
+</ul>			</div>
+		</div>
+	</div>
+</div><script src="/cdn/gallery-lightbox.js?cache=v0_0_4"></script> 
+<script src="/cdn/simpler-panel.js?cache=v0_0_4"></script> 
+<script>/*
+	YUI({
+    	gallery: 'gallery-2011.04.20-13-04'
+	}).use('node', 'event', 'gallery-yui-slideshow', function (Y) {
+		var slideshow = new Y.Slideshow( {
+			srcNode: '#imagerotator',
+        	autoplay: true,
+        	interval: 4,
+        	pauseOnHover: false,
+        	duration: .7,
+			transition: {
+				slideIn: {
+					before: {
+						top: 0,
+						left: '-cW',
+						opacity: 0
+					},
+					transition: {
+						left: 0,
+						opacity: 1
+					}
+				},
+
+				slideOut: {
+					before: {
+						top: 0,
+						opacity: 1
+					},
+					transition: {
+						top: 'cH',
+						opacity: 0
+					}
+				}
+			}
+		});
+
+		slideshow.render();
+	});*/
+	
+	YUI().use("node", "event", "transition", "panel", function (Y) {
+		var signupbox = Y.one("#signupbox");
+		signupbox.replaceClass('hide', 'show');
+		
+		var betasignupbtn = Y.one("#betasignupbtn"),
+			betasignupassistant = Y.one("#betasignupassistant"),
+			closebetaassistant = Y.one("#closebetaassistant"),
+			betasignupassistantiframe = Y.one("#betasignupassistant iframe");
+		
+		betasignupbtn.on("click", function (e) {
+				betasignupassistant.replaceClass('hide', 'show');
+		});
+		
+		closebetaassistant.on("click", function (e) {
+				betasignupassistant.replaceClass('show', 'hide');
+				betasignupassistantiframe.set('src', 'http://eepurl.com/pmz_P');
+		});
+		
+			});
+
+	YUI().use("gallery-lightbox", function (Y) { Y.Lightbox.init(); });
+	YUI().use("simpler-panel", function (Y) { 
+		//Y.all(".simplerpanel").on("click", function(e) {
+			Y.SimplerPanel.init({
+				rel			: "video",
+				background	: "url(/cdn/trailer_dock_updated_for_web.png?cache=v0_0_4) no-repeat scroll left top transparent",
+				height		: 490,
+				width		: 998,
+				padding		: "85px 71px",
+				content		: '<object type="application/x-shockwave-flash" data="http://www.youtube.com/v/vBIJVt05jwc?version=3&amp;hl=en_US&amp;rel=0" width="853" height="480"><param name="movie" value="http://www.youtube.com/v/vBIJVt05jwc?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param></object>'
+			});
+		//}); 
+	});
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-29432497-2']);
+	_gaq.push(['_setDomainName', 'chronoblade.com']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script></div>
+<div class="globalfooter">
+	<a href="http://nway.com/?page_id=6">About Us</a>
+	<a href="/terms/">Terms of Service</a>
+	<a href="/privacy/">Privacy Policy</a>
+	<a href="mailto:info@nway.com">Contact Us</a>
+	<p>Copyright 2013 All Rights Reserved</p>
+</div>
+
+</body></html>
