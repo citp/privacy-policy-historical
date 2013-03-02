@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webgamesclub.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201144551id_/http%3A//www.webgamesclub.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgamesclub.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302171443id_/http%3A//www.webgamesclub.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Details
      Category: [about](http://www.webgamesclub.com/index.php/privacy-policy/40-about)
      Published on Monday, 16 July 2012 12:18 
      Written by Super User 
-     Hits: 714 
+     Hits: 897 
 
 PRIVACY POLICY FOR: webgamesclub
 
