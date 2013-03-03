@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the af.edu privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602143928id_/http%3A//www.af.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the af.edu privacy policy that was archived on 2013-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130303161628id_/http%3A//www.af.edu/privacy.htm) for the most accurate reproduction.*
 
 # AF.EDU
 
@@ -9,7 +9,7 @@ Maxwell Base Operations Support (MAXBOS) through the 42d Communications Squadron
 
 Information presented on the Maxwell Web Site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested.
 
-[Information concerning visitors,](https://web.archive.org/web/20120602143928id_/http%3A//www.af.edu/example.htm) use of this site is collected for analytical and statisticalpurposes, such as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+[Information concerning visitors,](https://web.archive.org/web/20130303161628id_/http%3A//www.af.edu/example.htm) use of this site is collected for analytical and statisticalpurposes, such as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
