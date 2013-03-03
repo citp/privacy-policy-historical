@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the jacobtime.com privacy policy that was archived on 2012-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121014005123id_/http%3A//www.jacobtime.com/osc/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jacobtime.com privacy policy that was archived on 2013-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130303015618id_/http%3A//www.jacobtime.com/osc/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
+<!DOCTYPE html><html dir="LTR" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Jacob Time Watches</title>
+<title>Raymond Weil Watches | Armani Watches | Jacobtime.com</title>
 <base href="http://www.jacobtime.com/osc/">
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 <meta name="google-site-verification" content="V5GOELtEHe3sjsINJjx1MQRQbjs80yTwD4AuIcoE1-w">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script src="//paypal.adtag.where.com/merchant.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 <!-- jQuery and jQueryUI libraries -->
 <script type="text/javascript" src="SliderJS/libraries/jquery.min.js"></script>
 <script type="text/javascript" src="SliderJS/libraries/jquery-ui.min.js"></script>
@@ -66,14 +66,7 @@ Event.observe(document, 'dom:loaded', function(){
 	  });
   });
  </script>
- <!-- BEGIN: buySAFE Seal -->
-<script src="https://seal.buysafe.com/private/rollover/rollover.js"></script>
-</head><body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0"><span id="BuySafeSealSpan"></span>
-<script type="text/javascript">
-buySAFE.Hash = 'kCcB1f9WoNdOix5fAVV5b6bplB0ViTg97aNOg9re7Y7OhEk2Wz0k6hEcsCd2hKOEx1AGThHgz7DrgwsrGaaFig%3D%3D';
-WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
-</script>
-<!-- END: buySAFE Seal -->
+
 
 <script type="text/javascript">
 	Event.observe(window, 'load', init, false);
@@ -95,38 +88,171 @@ function storeAddress(event) {
 	}
 </script>	
 
+<script type="text/Javascript">
+<!--
+function display (category) {
+	var whichcategory = document.getElementById(category);
+	if (whichcategory.className=="show") {
+		whichcategory.className="hide";
+	} else {
+		whichcategory.className="show";
+	}
+}
+-->
+</script>
+<script language="javascript"><!--
 
 
+var checkboxHeight = "25";
+var radioHeight = "25";
+var selectWidth = "190";
+
+document.write('<style type="text/css">input.styled { display: none; } select.styled { color: #5a697b; font-weight: bold; position: relative; width: ' + selectWidth + 'px; opacity: 0; filter: alpha(opacity=0); z-index: 5; } .disabled { opacity: 0.5; filter: alpha(opacity=50); }</style>');
+
+
+var Custom = {
+	init: function() {
+		var inputs = document.getElementsByTagName("input"), span = Array(), textnode, option, active;
+		for(a = 0; a < inputs.length; a++) {
+			if((inputs[a].type == "checkbox" || inputs[a].type == "radio") && inputs[a].className == "styled") {
+				span[a] = document.createElement("span");
+				span[a].className = inputs[a].type;
+
+				if(inputs[a].checked == true) {
+					if(inputs[a].type == "checkbox") {
+						position = "0 -" + (checkboxHeight*2) + "px";
+						span[a].style.backgroundPosition = position;
+					} else {
+						position = "0 -" + (radioHeight*2) + "px";
+						span[a].style.backgroundPosition = position;
+					}
+				}
+				inputs[a].parentNode.insertBefore(span[a], inputs[a]);
+				inputs[a].onchange = Custom.clear;
+				if(!inputs[a].getAttribute("disabled")) {
+					span[a].onmousedown = Custom.pushed;
+					span[a].onmouseup = Custom.check;
+				} else {
+					span[a].className = span[a].className += " disabled";
+				}
+			}
+		}
+		inputs = document.getElementsByTagName("select");
+		for(a = 0; a < inputs.length; a++) {
+			if(inputs[a].className == "styled") {
+				option = inputs[a].getElementsByTagName("option");
+				active = option[0].childNodes[0].nodeValue;
+				textnode = document.createTextNode(active);
+				for(b = 0; b < option.length; b++) {
+					if(option[b].selected == true) {
+						textnode = document.createTextNode(option[b].childNodes[0].nodeValue);
+					}
+				}
+				span[a] = document.createElement("span");
+				span[a].className = "select";
+				span[a].id = "select" + inputs[a].name;
+				span[a].appendChild(textnode);
+				inputs[a].parentNode.insertBefore(span[a], inputs[a]);
+				if(!inputs[a].getAttribute("disabled")) {
+					inputs[a].onchange = Custom.choose;
+				} else {
+					inputs[a].previousSibling.className = inputs[a].previousSibling.className += " disabled";
+				}
+			}
+		}
+		document.onmouseup = Custom.clear;
+	},
+	pushed: function() {
+		element = this.nextSibling;
+		if(element.checked == true && element.type == "checkbox") {
+			this.style.backgroundPosition = "0 -" + checkboxHeight*3 + "px";
+		} else if(element.checked == true && element.type == "radio") {
+			this.style.backgroundPosition = "0 -" + radioHeight*3 + "px";
+		} else if(element.checked != true && element.type == "checkbox") {
+			this.style.backgroundPosition = "0 -" + checkboxHeight + "px";
+		} else {
+			this.style.backgroundPosition = "0 -" + radioHeight + "px";
+		}   
+	},
+	check: function() {
+		element = this.nextSibling;
+		if(element.checked == true && element.type == "checkbox") {
+			this.style.backgroundPosition = "0 0";
+			element.checked = false;
+		} else {
+			if(element.type == "checkbox") {
+				this.style.backgroundPosition = "0 -" + checkboxHeight*2 + "px";
+			} else {
+				this.style.backgroundPosition = "0 -" + radioHeight*2 + "px";
+				group = this.nextSibling.name;
+				inputs = document.getElementsByTagName("input");
+				for(a = 0; a < inputs.length; a++) {
+					if(inputs[a].name == group && inputs[a] != this.nextSibling) {
+						inputs[a].previousSibling.style.backgroundPosition = "0 0";
+					}
+				}
+			}
+			element.checked = true;
+		}
+    },
+	clear: function() {
+		inputs = document.getElementsByTagName("input");
+		for(var b = 0; b < inputs.length; b++) {
+			if(inputs[b].type == "checkbox" && inputs[b].checked == true && inputs[b].className == "styled") {
+				inputs[b].previousSibling.style.backgroundPosition = "0 -" + checkboxHeight*2 + "px";
+			} else if(inputs[b].type == "checkbox" && inputs[b].className == "styled") {
+				inputs[b].previousSibling.style.backgroundPosition = "0 0";
+			} else if(inputs[b].type == "radio" && inputs[b].checked == true && inputs[b].className == "styled") {
+				inputs[b].previousSibling.style.backgroundPosition = "0 -" + radioHeight*2 + "px";
+			} else if(inputs[b].type == "radio" && inputs[b].className == "styled") {
+				inputs[b].previousSibling.style.backgroundPosition = "0 0";
+			}
+		}
+	},
+	choose: function() {
+		option = this.getElementsByTagName("option");
+		for(d = 0; d < option.length; d++) {
+			if(option[d].selected == true) {
+				document.getElementById("select" + this.name).childNodes[0].nodeValue = option[d].childNodes[0].nodeValue;
+			}
+		}
+	}
+}
+window.onload = Custom.init;
+
+//--></script><style type="text/css">input.styled { display: none; } select.styled { color: #5a697b; font-weight: bold; position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; } .disabled { opacity: 0.5; filter: alpha(opacity=50); }</style>
+<!-- Start WebsiteAlive Embedded Icon/Tracking Code -->
+<script type="text/javascript">
+function wsa_include_js(){
+var wsa_host = (("https:" == document.location.protocol) ? "https://" : "http://");
+var js = document.createElement("script");
+js.setAttribute("language", "javascript");
+js.setAttribute("type", "text/javascript");
+js.setAttribute("src",wsa_host + "tracking.websitealive.com/vTracker_v2.asp?objectref=wsa4&groupid=565&websiteid=0");
+document.getElementsByTagName("head").item(0).appendChild(js);
+}
+if (window.attachEvent) {window.attachEvent("onload", wsa_include_js);}
+else if (window.addEventListener) {window.addEventListener("load", wsa_include_js, false);}
+else {document.addEventListener("load", wsa_include_js, false);}
+</script>
+<!-- End WebsiteAlive Embedded Icon/Tracking Code -->
+<!-- Start WebsiteAlive Embedded Icon/Tracking Code -->
+<script type="text/javascript">
+function wsa_include_js(){
+var wsa_host = (("https:" == document.location.protocol) ? "https://" : "http://");
+var js = document.createElement("script");
+js.setAttribute("language", "javascript");
+js.setAttribute("type", "text/javascript");
+js.setAttribute("src",wsa_host + "tracking.websitealive.com/vTracker_v2.asp?objectref=wsa4&groupid=565&websiteid=0");
+document.getElementsByTagName("head").item(0).appendChild(js);
+}
+if (window.attachEvent) {window.attachEvent("onload", wsa_include_js);}
+else if (window.addEventListener) {window.addEventListener("load", wsa_include_js, false);}
+else {document.addEventListener("load", wsa_include_js, false);}
+</script>
+<!-- End WebsiteAlive Embedded Icon/Tracking Code --><script language="javascript" type="text/javascript" src="https://tracking.websitealive.com/vTracker_v2.asp?objectref=wsa4&amp;groupid=565&amp;websiteid=0"></script><script language="javascript" type="text/javascript" src="https://tracking.websitealive.com/vTracker_v2.asp?objectref=wsa4&amp;groupid=565&amp;websiteid=0"></script></head>
+<body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
 <!-- header //-->
-
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-5226711-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 993801334;
-var google_conversion_label = "FYLpCNrI3wUQ9ujw2QM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993801334/?value=0&amp;label=FYLpCNrI3wUQ9ujw2QM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
 
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
@@ -150,7 +276,7 @@ var google_remarketing_only = true;
 		<tbody><tr>
 			<td align="center" class="mainBlack" id="topmenu1"><a href="http://www.jacobtime.com/osc/index.php" class="headerNavigation">&nbsp;Home&nbsp;&nbsp;</a></td>
 			<td class="header_nav_separater"></td>
-			<td align="center" class="" id="topmenu2" width="156"><a href="http://www.jacobtime.com/osc/advanced_search_result.php?inc_subcat=1&amp;dfrom=20120913&amp;dto=20121014&amp;new=1&amp;sort=5" class=""><img src="images/layout/new_arrivals.jpg" width="156" height="46" border="0" alt=""></a></td>
+			<td align="center" class="" id="topmenu2" width="156"><a href="http://www.jacobtime.com/osc/advanced_search_result.php?inc_subcat=1&amp;dfrom=20130131&amp;dto=20130303&amp;new=1&amp;sort=5" class=""><img src="images/layout/new_arrivals.jpg" width="156" height="46" border="0" alt=""></a></td>
 			<td class="header_nav_separater"></td>
 			<td align="center" class="headerNavigation3" id="topmenu3"><span><a href="http://www.jacobtime.com/osc/specials.php" class="headerNavigation"><img src="images/pixel_trans.gif" width="150" height="35" border="0" alt=""></a></span>
 				<span style="cursor: pointer;" onmouseover="ShowText('jacobdeals');" onmouseout="HideText('jacobdeals')" ;=""><img src="images/questionmark.gif" width="13" height="14" border="0"></span>
@@ -218,13 +344,14 @@ var google_remarketing_only = true;
 		    <table width="99%" border="0" cellspacing="0" cellpadding="0" style="padding-top: 4px;">
 			    <tbody><tr>
 			    	<td align="center" style="padding-top: 15px;">
-		         	<span class="tollFreeText">Call Us:</span><span class="tollFree"> 877-JACOBTIME &nbsp;&nbsp;877-587-7780</span> 
-		          <!--<br /> <b>Our sales line is open on Sundays.</b>-->
+		         	<span class="tollFreeText">Call Us:</span><span class="tollFree"> 877-JACOBTIME &nbsp;&nbsp;877-587-7780</span>
+                     
+		           
 		         	 </td></tr>
 					<tr>
 						<td align="center" style="padding-top: 12px;" valign="bottom" class="headerTag">
 					<!-- <span> -->Better Watches. Even Better Prices.<!-- <span> -->
-			        <!-- <span class="tollFreeText">International: </span><br>
+                    			        <!-- <span class="tollFreeText">International: </span><br>
 		          <span class="tollFreeText">Fax Number: </span> -->
 			      </td>
 				 </tr>
@@ -234,7 +361,7 @@ var google_remarketing_only = true;
 		<table width="98%" border="0" cellspacing="0" cellpadding="0" style="padding-top: 4px;">
 			<tbody><tr>
 				<td class="cartBoxContent" align="right">
-					<a href="http://www.jacobtime.com/osc/shopping_cart.php" class="headerNavigation"><span class="cart">Shopping Cart</span><br><b>now in your cart</b> <span class="shopCartHeading">12</span> item(s)</a> $1,149.95      			</td>
+					<a href="http://www.jacobtime.com/osc/shopping_cart.php" class="headerNavigation"><span class="cart">Shopping Cart</span><br><b>now in your cart</b> <span class="shopCartHeading">0</span> item(s)</a> $0.00      			</td>
 				<!-- <td width="10%" valign="top" align="left"></td> -->
 	  		 </tr>
 			 <tr>
@@ -260,7 +387,34 @@ var google_remarketing_only = true;
   </tr> -->
 </tbody></table>
 </div>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5226711-1']);
+  _gaq.push(['_trackPageview']);
 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 993801334;
+var google_conversion_label = "FYLpCNrI3wUQ9ujw2QM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993801334/?value=0&amp;label=FYLpCNrI3wUQ9ujw2QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 <!-- header_eof //-->
 
@@ -270,28 +424,26 @@ var google_remarketing_only = true;
     <td width="199" valign="top"><table border="0" width="199" cellspacing="0" cellpadding="2">
 <!-- left_navigation //-->
 <tbody><tr>
-	<td>
+	<td style="background-color:white;">
 	<table border="0" width="100%" cellspacing="0" cellpadding="0" stylee="border-style:solid; border-color:#c0c0c0; border-width: 1px;">
 		<tbody><tr>
-  		<td height="19" class="categories_heading" colspan="1">Watch Brands</td>
+  		<td height="19">
+          <div class="menu_test">
+    <ul>
+        <li><a href="#" target="_self">Shop By Brand</a>
+            <ul>
+                <li><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=313">Accutron&nbsp;(6)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=444">Adidas&nbsp;(26)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=572">Anne Klein&nbsp;(74)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=78">Armani&nbsp;(141)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=443">Armani Exchange&nbsp;(17)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=146">Baume &amp; Mercier&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=440">Breitling&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=222">Bulova&nbsp;(108)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=306">Calvin Klein&nbsp;(181)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=326">Caravelle by Bulova&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=139">Cartier&nbsp;(30)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=317">Casio&nbsp;(17)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=194">Chopard&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=24">Citizen&nbsp;(283)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=468">Citizen (Display Models)&nbsp;(77)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=544">Citizen Signature&nbsp;(20)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=158">Concord&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=325">Diesel&nbsp;(79)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=308">Dior&nbsp;(4)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=128">DKNY&nbsp;(89)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=374">Dolce &amp; Gabbana&nbsp;(9)</a></div></li><li><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=242">Ebel&nbsp;(2)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=390">Ed Hardy&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=157">Edox&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=132">ESQ&nbsp;(20)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=28">Fossil&nbsp;(320)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=462">Fruitz&nbsp;(22)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=112">Gucci&nbsp;(167)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=280">Guess&nbsp;(317)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=471">Guess (Display Models)&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=537">Hamilton&nbsp;(41)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=567">Hugo Boss&nbsp;(83)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=469">Ice Watch&nbsp;(59)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=373">Invicta&nbsp;(246)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=573">Jacob &amp; Co&nbsp;(18)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=575">Juicy Couture&nbsp;(52)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=135">Kenneth Cole&nbsp;(27)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=591">Lacoste&nbsp;(130)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=490">Lorus&nbsp;(9)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=475">Luminox&nbsp;(83)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=320">Marc Ecko&nbsp;(7)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=494">Marc Jacobs&nbsp;(14)</a></div></li><li><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=411">Michael Kors&nbsp;(102)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=299">Michele&nbsp;(59)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=23">Movado&nbsp;(177)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=603">Mulco&nbsp;(88)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=284">Nautica&nbsp;(110)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=470">Nixon&nbsp;(23)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=600">Oceanaut&nbsp;(17)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=22">Omega&nbsp;(11)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=480">Polar&nbsp;(16)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=259">Pulsar&nbsp;(294)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=201">Puma&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=25">Rado&nbsp;(168)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=474">Rado (Display Models)&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=318">Raymond Weil&nbsp;(78)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=453">Rotary&nbsp;(1)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=179">Seiko&nbsp;(466)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=595">Seiko Display Models&nbsp;(8)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=291">Skagen&nbsp;(89)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=288">Swatch&nbsp;(290)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=182">Swiss Army&nbsp;(53)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=560">Swiss Military&nbsp;(143)</a></div></li><li><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=32">Tag Heuer&nbsp;(145)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=332">TechnoMarine&nbsp;(63)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=272">Timex&nbsp;(44)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=279">Tissot&nbsp;(338)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=206">Tommy Hilfiger&nbsp;(145)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=466">Toy Watch&nbsp;(72)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=446">TW STEEL&nbsp;(92)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=472">TX&nbsp;(3)</a></div><div id="brand_link"><a href="http://www.jacobtime.com/osc/index.php?cPath=283">Wittnauer&nbsp;(3)</a></div></li>    </ul>
+</li></ul></div>
+            </td>
 		</tr>
-		<tr>
-			<td>
-			<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-style:solid; border-color:#c0c0c0; border-width: 1px;">
-			<tbody><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="10" border="0" alt=""></td></tr><tr><td colspan="3"><div class="scrollDiv">
-					<table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=313" class="boxTextCategory">Accutron&nbsp;(7)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=444" class="boxTextCategory">Adidas&nbsp;(89)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=572" class="boxTextCategory">Anne Klein&nbsp;(25)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=78" class="boxTextCategory">Armani&nbsp;(146)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=443" class="boxTextCategory">Armani Exchange&nbsp;(1)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=440" class="boxTextCategory">Breitling&nbsp;(4)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=222" class="boxTextCategory">Bulova&nbsp;(215)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=306" class="boxTextCategory">Calvin Klein&nbsp;(135)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=326" class="boxTextCategory">Caravelle by Bulova&nbsp;(15)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=139" class="boxTextCategory">Cartier&nbsp;(96)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=317" class="boxTextCategory">Casio&nbsp;(36)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=194" class="boxTextCategory">Chopard&nbsp;(31)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=24" class="boxTextCategory">Citizen&nbsp;(317)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=468" class="boxTextCategory">Citizen (Display Models)&nbsp;(101)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=544" class="boxTextCategory">Citizen Signature&nbsp;(22)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=158" class="boxTextCategory">Concord&nbsp;(2)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=325" class="boxTextCategory">Diesel&nbsp;(105)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=308" class="boxTextCategory">Dior&nbsp;(12)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=128" class="boxTextCategory">DKNY&nbsp;(57)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=374" class="boxTextCategory">Dolce &amp; Gabbana&nbsp;(23)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=242" class="boxTextCategory">Ebel&nbsp;(1)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=157" class="boxTextCategory">Edox&nbsp;(4)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=132" class="boxTextCategory">ESQ&nbsp;(27)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=28" class="boxTextCategory">Fossil&nbsp;(261)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=462" class="boxTextCategory">Fruitz&nbsp;(24)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=238" class="boxTextCategory">Gifts&nbsp;(13)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=112" class="boxTextCategory">Gucci&nbsp;(277)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=280" class="boxTextCategory">Guess&nbsp;(380)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=471" class="boxTextCategory">Guess (Display Models)&nbsp;(3)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=537" class="boxTextCategory">Hamilton&nbsp;(37)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=568" class="boxTextCategory">Hugo Boss&nbsp;(2)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=567" class="boxTextCategory">Hugo Boss&nbsp;(58)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=469" class="boxTextCategory">Ice Watch&nbsp;(86)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=373" class="boxTextCategory">Invicta&nbsp;(271)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=573" class="boxTextCategory">Jacob &amp; Co&nbsp;(18)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=575" class="boxTextCategory">Juicy Couture&nbsp;(11)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=135" class="boxTextCategory">Kenneth Cole&nbsp;(96)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=394" class="boxTextCategory">Locman&nbsp;(1)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=490" class="boxTextCategory">Lorus&nbsp;(9)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=475" class="boxTextCategory">Luminox&nbsp;(66)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=320" class="boxTextCategory">Marc Ecko&nbsp;(8)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=494" class="boxTextCategory">Marc Jacobs&nbsp;(4)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=411" class="boxTextCategory">Michael Kors&nbsp;(149)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=299" class="boxTextCategory">Michele&nbsp;(127)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=23" class="boxTextCategory">Movado&nbsp;(429)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=284" class="boxTextCategory">Nautica&nbsp;(101)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=470" class="boxTextCategory">Nixon&nbsp;(33)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=22" class="boxTextCategory">Omega&nbsp;(97)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=480" class="boxTextCategory">Polar&nbsp;(25)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=259" class="boxTextCategory">Pulsar&nbsp;(256)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=201" class="boxTextCategory">Puma&nbsp;(4)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=25" class="boxTextCategory">Rado&nbsp;(195)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=474" class="boxTextCategory">Rado (Display Models)&nbsp;(7)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=318" class="boxTextCategory">Raymond Weil&nbsp;(83)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=179" class="boxTextCategory">Seiko&nbsp;(521)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=291" class="boxTextCategory">Skagen&nbsp;(142)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=288" class="boxTextCategory">Swatch&nbsp;(284)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=182" class="boxTextCategory">Swiss Army&nbsp;(108)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=560" class="boxTextCategory">Swiss Military&nbsp;(143)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=32" class="boxTextCategory">Tag Heuer&nbsp;(320)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=332" class="boxTextCategory">TechnoMarine&nbsp;(135)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=272" class="boxTextCategory">Timex&nbsp;(6)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=279" class="boxTextCategory">Tissot&nbsp;(303)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=206" class="boxTextCategory">Tommy Hilfiger&nbsp;(78)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=466" class="boxTextCategory">Toy Watch&nbsp;(74)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=446" class="boxTextCategory">TW STEEL&nbsp;(109)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=472" class="boxTextCategory">TX&nbsp;(12)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td width="10px;"></td><td class="parent_cat_icon"></td><td><a href="http://www.jacobtime.com/osc/index.php?cPath=283" class="boxTextCategory">Wittnauer&nbsp;(32)</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr><tr><td colspan="3"><img src="images/layout/left_menu_seperator.gif" border="0" alt="" width="170" height="1"></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr>
-</tbody></table>
-</div>
-</td>
+    </tbody></table>
+    </td>
 </tr>
-</tbody></table>
-	</td>
-		</tr>
-		</tbody></table>
-	</td>
-		</tr>
+            
+
+
 <tr>
-	<td>
+	<td style="background-color:white;">
 	<table border="0" width="100%" cellspacing="0" cellpadding="0" stylee="border-style:solid; border-color:#c0c0c0; border-width: 1px;">
 		<tbody><tr>
   		<td height="19" class="categories_heading" colspan="1">Accessories</td>
@@ -300,7 +452,7 @@ var google_remarketing_only = true;
 			<td>
 			<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-style:solid; border-color:#c0c0c0; border-width: 1px;">
 				<tbody><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="10" border="0" alt=""></td></tr><tr><td colspan="3"><div class="scrollDiv2">
-										<table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=397"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Jewelry</a>&nbsp;(19)</td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=448"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Pens</a></td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=477"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Sunglasses</a>&nbsp;(141)</td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=541"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Watch Winders</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr>				</tbody></table>
+										<table border="0" width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=397"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Jewelry</a>&nbsp;(65)</td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=448"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Pens</a></td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=477"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Sunglasses</a>&nbsp;(194)</td></tr><tr><td width="10px;"></td><td class="main"><a href="http://www.jacobtime.com/osc/index.php?cPath=541"><img src="images//icons/menu_bullet.gif" width="11" height="13" border="0" align="absmiddle" alt="">&nbsp;Watch Winders</a></td></tr><tr><td colspan="3"><img src="images/pixel_trans.gif" width="100" height="5" border="0" alt=""></td></tr>				</tbody></table>
 				</div>
 			</td>
 			</tr>
@@ -309,21 +461,29 @@ var google_remarketing_only = true;
 		</tr>
 		</tbody></table>
 	</td>
-		</tr>
-    <tr>
-      <td align="center">
+		</tr> 
+        
+    
+
+  		
+ 
+
+ <!-- Start WebsiteAlive Button Code ID: 62 -->
+ <tr><td align="center">
+<img src="https://www.websitealive4.com/565/visitor/image/?code_id=62" style="cursor:pointer" onclick="wsa_open_chat(0,629)">
+</td></tr>
+<!-- End WebsiteAlive Button Code -->
+ <!-- categories //-->
+     <tr>
+      <td align="center" style="background-color:white;">
        
         <a href="https://www.resellerratings.com" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=11702','name','height=760,width=780,scrollbars=1'); 
         return false;">
         <img style="border:none;" src="//seals.resellerratings.com/seal.php?seller=11702" oncontextmenu="alert('Copying Prohibited by Law - ResellerRatings seal is a Trademark of All Enthusiast, Inc.'); return false;"></a>
     
       </td>
-    </tr>
-  		
- 
-
- <!-- categories //-->
-  <tr><td class="" style="text-align: center;"><a href="http://www.jacobtime.com/osc/advanced_search.php"><img src="images/layout/need_help.gif" width="194" height="52" border="0" alt=""></a></td></tr><tr><td><img src="images/pixel_trans.gif" width="50" height="50" border="0" alt=""></td></tr><input type="hidden" name="phpself:privacy.php">	<tr><td align="center">
+    </tr> 
+<tr><td class="" style="text-align: center;"><a href="http://www.jacobtime.com/osc/advanced_search.php"><img src="images/layout/need_help.gif" width="194" height="52" border="0" alt=""></a></td></tr><tr><td><img src="images/pixel_trans.gif" width="50" height="50" border="0" alt=""></td></tr><input type="hidden" name="phpself:privacy.php">	<tr><td align="center">
   
  	<table align="center" cellspacing="0" cellpadding="0" width="100%">
 		<tbody><tr>
@@ -360,7 +520,7 @@ var google_remarketing_only = true;
 
 
 <tr>
-	<td>
+	<td style="background-color:white;">
 				
  	<table align="center" cellspacing="0" cellpadding="0" width="100%">
 		<tbody><tr>
@@ -406,7 +566,7 @@ var google_remarketing_only = true;
 </tr>
 
 <tr>
-	<td>
+	<td style="background-color:white;">
 				
  	<table align="center" cellspacing="0" cellpadding="0" width="100%">
 		<tbody><tr>
@@ -579,39 +739,39 @@ var google_remarketing_only = true;
     <td><img src="images/pixel_trans.gif" width="100%" height="1" border="0" alt=""></td>
   </tr>
   <tr>
-    <td class="boxText"><table border="0" width="100%" cellspacing="0" cellpadding="1"><tbody><tr><td><span class="manufacturerFrontBoxSpecials">01. Swatch</span><br></td></tr>
-							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=6748"><img src="product_thumb.php?img=images/SVCK4032G.jpg&amp;w=110&amp;h=200" width="110" height="200" border="0" alt="Swatch Full Blooded Mens Watch SVCK4032G" title="Swatch Full Blooded Mens Watch SVCK4032G"></a></td></tr>
-							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=6748">Swatch Full Blooded Mens Watch SVCK4032G</a></td></tr>
-							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr>
-							<tr><td align="center"></td></tr>
-							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">02. Guess</span><br></td></tr>
+    <td class="boxText"><table border="0" width="100%" cellspacing="0" cellpadding="1"><tbody><tr><td><span class="manufacturerFrontBoxSpecials">01. Guess</span><br></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
 							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=3994"><img src="product_thumb.php?img=images/G12557L.jpg&amp;w=107&amp;h=200" width="107" height="200" border="0" alt="Guess Waterpro Ladies Watch G12557L" title="Guess Waterpro Ladies Watch G12557L"></a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
 							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=3994">Guess Waterpro Ladies Watch G12557L</a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr>
 							<tr><td align="center"></td></tr>
-							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">03. Citizen</span><br></td></tr>
+							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">02. Raymond Weil</span><br></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=144"><img src="product_thumb.php?img=images/BL8000-54L.jpg&amp;w=109&amp;h=200" width="109" height="200" border="0" alt="Citizen Calibre 8700 Men's Perpetual Calendar Watch  BL8000-54L" title="Citizen Calibre 8700 Men's Perpetual Calendar Watch  BL8000-54L"></a></td></tr>
+							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=16092"><img src="product_thumb.php?img=images/10280-G-97005.jpg&amp;w=123&amp;h=200" width="123" height="200" border="0" alt="Raymond Weil Parsifal 18K   Yellow Gold Ladies Watch   10280-G-97005" title="Raymond Weil Parsifal 18K   Yellow Gold Ladies Watch   10280-G-97005"></a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=144">Citizen Calibre 8700 Men's Perpetual Calendar Watch  BL8000-54L</a></td></tr>
+							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=16092">Raymond Weil Parsifal 18K   Yellow Gold Ladies Watch   10280-G-97005</a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr>
 							<tr><td align="center"></td></tr>
-							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">04. Toy Watch</span><br></td></tr>
+							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">03. Swatch</span><br></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=12666"><img src="product_thumb.php?img=images/32208WH.jpg&amp;w=120&amp;h=200" width="120" height="200" border="0" alt="Toy Watch Classic Collection Watch 32208WH" title="Toy Watch Classic Collection Watch 32208WH"></a></td></tr>
+							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=6748"><img src="product_thumb.php?img=images/SVCK4032G.jpg&amp;w=110&amp;h=200" width="110" height="200" border="0" alt="Swatch Full Blooded Mens Watch SVCK4032G" title="Swatch Full Blooded Mens Watch SVCK4032G"></a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=12666">Toy Watch Classic Collection Watch 32208WH</a></td></tr>
+							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=6748">Swatch Full Blooded Mens Watch SVCK4032G</a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr>
 							<tr><td align="center"></td></tr>
-							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">05. Tissot</span><br></td></tr>
+							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">04. Tissot</span><br></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=7244"><img src="product_thumb.php?img=images/T17158652.jpg&amp;w=118&amp;h=200" width="118" height="200" border="0" alt="Tissot T-Sport PRC200 Chronograph Mens Watch T17158652" title="Tissot T-Sport PRC200 Chronograph Mens Watch T17158652"></a></td></tr>
+							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=20741"><img src="product_thumb.php?img=images/T0484272705701.jpg&amp;w=115&amp;h=200" width="115" height="200" border="0" alt="Tissot T-Race Automatic Mens Watch T0484272705701" title="Tissot T-Race Automatic Mens Watch T0484272705701"></a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
-							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=7244">Tissot T-Sport PRC200 Chronograph Mens Watch T17158652</a></td></tr>
+							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=20741">Tissot T-Race Automatic Mens Watch T0484272705701</a></td></tr>
+							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr>
+							<tr><td align="center"></td></tr>
+							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr><tr><td><span class="manufacturerFrontBoxSpecials">05. Michael Kors</span><br></td></tr>
+							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
+							<tr><td class="infoBoxContents" valign="top" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=12928"><img src="product_thumb.php?img=images/MK5038.jpg&amp;w=124&amp;h=200" width="124" height="200" border="0" alt="Michael Kors Acrylic Tortoiseshell Ladies Watch MK5038" title="Michael Kors Acrylic Tortoiseshell Ladies Watch MK5038"></a></td></tr>
+							<tr><td><img src="images/pixel_trans.gif" width="100%" height="10" border="0" alt=""></td></tr>
+							<tr><td class="infoBoxContents" align="center"><a href="http://www.jacobtime.com/osc/product_info.php?products_id=12928">Michael Kors Acrylic Tortoiseshell Ladies Watch MK5038</a></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr>
 							<tr><td align="center"></td></tr>
 							<tr><td><img src="images/pixel_trans.gif" width="100%" height="15" border="0" alt=""></td></tr></tbody></table></td>
@@ -657,7 +817,16 @@ var google_remarketing_only = true;
 					<td>
 						<!-- PayPal Logo --><table border="0" align="center"><tbody><tr><td align="center"></td></tr>
 					<tr><td align="center">
-                    <script type="text/javascript">var rand = Math.round(Math.random() * 100000000000000) + "";document.write('<scr');document.write('ipt type="text/javascript" src="https://ad.where.com/jin/spotlight/ads?pubid=db4c9f4e59&format=js&v=2.4&zip=02114&ip=38.111.32.114&placementtype=234x60&rand=' + rand + '">');document.write('</scr' + 'ipt>');</script><script type="text/javascript" src="https://ad.where.com/jin/spotlight/ads?pubid=db4c9f4e59&amp;format=js&amp;v=2.4&amp;zip=02114&amp;ip=38.111.32.114&amp;placementtype=234x60&amp;rand=36569632614626"></script>
+                                        <script type="text/javascript" data-pp-pubid="db4c9f4e59" data-pp-placementtype="234x60">
+                            /*global document: true*/
+                            (function (d, t) {
+                                "use strict";
+                                var s = d.getElementsByTagName(t)[0], n = d.createElement(t);
+                                n.src = "//paypal.adtag.where.com/merchant.js";
+                                s.parentNode.insertBefore(n, s);
+                            }(document, "script"));
+                        </script>    
+
                     </td></tr></tbody></table><!-- PayPal Logo -->
 					</td>
 				</tr>
@@ -718,11 +887,6 @@ var google_remarketing_only = true;
 </td>
 
 
-
-<td align="center" valign="center">
-		<a target="_blank" href="https://www.pricegrabber.com/rating_getreview.php/retid=3870"><img border="0" src="https://a248.e.akamai.net/f/248/10025/1d/www.pricegrabber.com/merchant_rating_image_secure.php?retid=3870" alt="PriceGrabber User Ratings for JacobTime.com"></a>
-</td>
-
  
 <!--<td align="center" valign="center">
 		<a target="_blank" href="https://www.shopping.com/xMR-Jacob Time, Inc~MRD-331970~S-1" ><img src="https://www.shopping.com/merchant_logo?ID=331970" width="197" height="82" border="0"alt="Read Your Store Reviews" /></a><a target="_blank" href="https://www.shopping.com/xPP-Watches" ><img src="https://sc.dealtime.com/cctool/files/spacer.gif" width="1" height="1" border="0"alt="" /></a>
@@ -773,10 +937,18 @@ var google_remarketing_only = true;
 <!--<span id="BuySafeSealSpan">
 	<script type="text/javascript">WriteBuySafeSeal('BuySafeSealSpan', 'PersistentSeal', 'HASH=kCcB1f9WoNdOix5fAVV5b6bplB0ViTg97aNOg9re7Y7OhEk2Wz0k6hEcsCd2hKOEx1AGThHgz7DrgwsrGaaFig%3d%3d');</script></span>
 -->
+ <!-- BEGIN: buySAFE Seal -->
+<script src="https://seal.buysafe.com/private/rollover/rollover.js"></script>
+<span id="BuySafeSealSpan"></span>
+<script type="text/javascript">
+buySAFE.Hash = 'kCcB1f9WoNdOix5fAVV5b6bplB0ViTg97aNOg9re7Y7OhEk2Wz0k6hEcsCd2hKOEx1AGThHgz7DrgwsrGaaFig%3D%3D';
+WriteBuySafeSeal("BuySafeSealSpan", "GuaranteedSeal");
+</script>
+<!-- END: buySAFE Seal -->
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td align="center" class="main">
-    	Copyright © 2012 <a href="http://www.jacobtime.com/osc/index.php">Jacobtime.com</a>		</td>
+    	Copyright © 2013 <a href="http://www.jacobtime.com/osc/index.php">Jacobtime.com</a>		</td>
   </tr>
 </tbody></table>
 <iframe src="http://pxlproxy.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=2887" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
