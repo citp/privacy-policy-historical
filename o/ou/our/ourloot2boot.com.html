@@ -1,0 +1,515 @@
+<!--The following is the downloaded HTML source of the ourloot2boot.com privacy policy that was archived on 2013-03-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130304003227id_/http%3A//www.ourloot2boot.com/privacypolicy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>OurLoot2Boot Network</title>
+
+<meta name="description" content="OurLoot2Boot Network">
+<meta name="keywords" content="">
+<script language="javascript">
+	  					function changeDiv(divname, action) {
+							if (action == "show") {
+								document.getElementById(divname).style.display='block';
+							} else if (action == "toggle") {
+								if (document.getElementById(divname).style.display == 'none') {
+									document.getElementById(divname).style.display='block';
+								} else {
+									document.getElementById(divname).style.display='none';
+								}
+							} else {
+								document.getElementById(divname).style.display='none';
+							}
+						}
+						function popUp(URL) {
+							newwindow=window.open(URL, null, 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1');
+							if (window.focus) {newwindow.focus()}
+						}
+						function ClipBoard()
+						{
+							holdtext.innerText = copytext.innerText;
+							Copied = holdtext.createTextRange();
+							Copied.execCommand("Copy");
+						}
+						function confirmation(message, nextpage) {
+							var answer = confirm(message)
+							if (answer) {
+								window.location = nextpage;
+							}
+						}
+						function promptuser(question, nextpage)
+						{
+							var answer = prompt(question, "");
+							if (answer != null) {
+								window.location = nextpage + answer;
+							}
+						}
+					</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link type="text/css" rel="stylesheet" href="main.css">
+<script language="JavaScript" type="text/javascript" src="menu.js"></script>
+
+<link rel="stylesheet" type="text/css" href="jquery.css"><!-- For DropDown Menu -->
+<script language="JavaScript" type="text/javascript" src="jquery.js"></script>
+<script language="JavaScript" type="text/javascript" src="jquery2.js"></script>
+
+<!-- For Live Support Widget -->
+<script language="javascript">
+	function newfoos(newContents) {
+	winContent = window.open(newContents, 'nextWins', 'left=10,top=10,width=270,height=370,toolbar=no,scrollbars=no,resizable=no')
+	winContent.focus()
+	}
+</script>
+
+
+<!-- For Prizes Scroll -->
+			<script language="javascript" type="text/javascript"> 
+			    function toggle(id) {
+			       var e = document.getElementById(id);
+			       if(e.style.display == 'block')
+			          e.style.display = 'none';
+			       else
+			          e.style.display = 'block';
+			    }
+			</script>
+
+			<style type="text/css">
+				.cssheader {
+					width: 193px;
+					background: transparent url(images/mousebg.gif) top center no-repeat;
+					font-size:12px;
+					text-align:left;
+					padding:8px 6px 5px 29px;
+					}
+				.cssbody {
+					margin-left:19px;
+					border-top: 2px #436fbc solid;
+					}
+			</style>
+
+			<script language="javascript">
+				function togglePannelStatus(content) {
+					var expand = (content.style.display=="none");
+					content.style.display = (expand ? "block" : "none");
+					var chevron = content.parentNode
+					.firstChild.childNodes[1].childNodes[0];
+					chevron.src = chevron.src
+					.split(expand ? "expand.gif" : "collapse.gif")
+					.join(expand ? "collapse.gif" : "expand.gif");
+					}
+
+
+		    	function changeDiv(divname, action) {
+					if (action == "show") {
+						document.getElementById(divname).style.display='block';
+					} else if (action == "toggle") {
+						if (document.getElementById(divname).style.display == 'none') {
+							document.getElementById(divname).style.display='block';
+						} else {
+							document.getElementById(divname).style.display='none';
+						}
+					} else {
+						document.getElementById(divname).style.display='none';
+					}
+				}
+
+				function popUp(URL) {
+					newwindow=window.open(URL, null, 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1');
+					if (window.focus) {newwindow.focus()}
+				}
+
+				function ClipBoard()
+				{
+					holdtext.innerText = copytext.innerText;
+					Copied = holdtext.createTextRange();
+					Copied.execCommand("Copy");
+				}
+
+				function confirmation(message, nextpage) {
+					var answer = confirm(message)
+					if (answer) {
+						window.location = nextpage;
+					}
+				}
+
+				function promptuser(question, nextpage)
+				{
+					var answer = prompt(question, "");
+					if (answer != null) {
+						window.location = nextpage + answer;
+					}
+				}
+
+				function slideLeft(){
+					var prizeNodeList = document.getElementById('productRow').getElementsByTagName('td');
+					if(prizeNodeList.length <= 4) return false;
+					for(var i = 0; i < prizeNodeList.length; i++){
+						if (i == 0 && isHidden(prizeNodeList[i]) == false){
+							return false;
+						}
+						if(!isHidden(prizeNodeList[i])){
+							showNode(prizeNodeList[i-1]);
+							if(i+3 <= prizeNodeList.length){
+								hideNode(prizeNodeList[i+3]);
+							}
+							return false;
+						}
+					}
+				}
+                            
+				function slideRight(){
+					var prizeNodeList = document.getElementById('productRow').getElementsByTagName('td');
+					if(prizeNodeList.length <= 4) return false;
+					nodeIndex = prizeNodeList.length -1;
+					for(var i = nodeIndex; i >=0 ; i--){
+						if(i == nodeIndex && isHidden(prizeNodeList[ i]) == false){
+							return false;
+						}
+						if(!isHidden(prizeNodeList[i])){
+							showNode(prizeNodeList[i+1]);
+							if(i-3 >= 0){
+								hideNode(prizeNodeList[i-3]);
+							}
+							return false;
+						}
+					}    
+				}
+				
+				function slideproofLeft(){
+					var prizeNodeList = document.getElementById('productRow').getElementsByTagName('td');
+					if(prizeNodeList.length <= 1) return false;
+					for(var i = 0; i < prizeNodeList.length; i++){
+						if (i == 0 && isHidden(prizeNodeList[i]) == false){
+							return false;
+						}
+						if(!isHidden(prizeNodeList[i])){
+							showNode(prizeNodeList[i-1]);
+							if(i <= prizeNodeList.length){
+								hideNode(prizeNodeList[i]);
+							}
+							return false;
+						}
+					}
+				}
+                            
+				function slideproofRight(){
+					var prizeNodeList = document.getElementById('productRow').getElementsByTagName('td');
+					if(prizeNodeList.length <= 1) return false;
+					nodeIndex = prizeNodeList.length -1;
+					for(var i = nodeIndex; i >=0 ; i--){
+						if(i == nodeIndex && isHidden(prizeNodeList[ i]) == false){
+							return false;
+						}
+						if(!isHidden(prizeNodeList[i])){
+							showNode(prizeNodeList[i+1]);
+							if(i >= 0){
+								hideNode(prizeNodeList[i]);
+							}
+							return false;
+						}
+					}    
+				}
+
+
+				function isHidden(element){
+					return (element.className == 'hidden') ? true : false;
+				}
+
+				function hideNode(element){
+					element.className = 'hidden';
+				}
+
+				function showNode(element){
+					element.className = '';
+				}
+			</script>
+
+
+			<style type="text/css">
+				.hidden{
+					display:none;
+				}
+			</style>
+
+			<style>
+				#prizer:hover { background: #fdf3d8; border: 1px solid #fba126;  width: 125px; height: 170px;}
+				#prizer { color: #666666; width: 125px; height: 170px;}
+				#proofer { background: #fdf3d8; border: 1px solid #fba126;  width: 125px; height: 170px;}
+				#dropmenudiv{
+					position:absolute;
+					border:1px solid #fba126;
+					border-bottom-width: 1px;
+					font:normal 12px Verdana;
+					line-height:18px;
+					border-bottom: 1px solid #000000;
+					z-index:100;
+					padding-top:10px;
+					padding-bottom:10px;
+					margin-right:-125px;
+				}
+
+				#dropmenudiv a{
+					width: 165px;
+					display: block;
+					text-indent: 3px;
+					padding: 1px 0 0 0px;
+					padding-left:10px;
+					text-decoration: none;
+					font-weight: bold;
+					text-align:left;
+					color:#666666;
+				}
+				
+				#dropmenudiv a:hover{ 
+					background-color: #efeaea;
+				}
+			</style>
+
+<script language="javascript" type="text/javascript">
+<!-- 
+function stopRKey(evt) {
+   var evt = (evt) ? evt : ((event) ? event : null);
+   var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+   if ((evt.keyCode == 13) && (node.type=="text")) {return false;}
+}
+
+document.onkeypress = stopRKey;
+-->
+</script>
+
+
+
+
+<script language="JavaScript1.2" type="text/javascript">
+
+ function CreateBookmarkLink() {
+
+	if (window.sidebar) {
+		window.sidebar.addPanel("www.ourloot2boot.com/privacypolicy.php", "http://www.ourloot2boot.com/privacypolicy.php","");
+	} else if( window.external ) {
+		window.external.AddFavorite( "http://www.ourloot2boot.com/privacypolicy.php", "www.ourloot2boot.com/privacypolicy.php"); }
+	else if(window.opera && window.print) {
+		return true; }
+}
+</script>
+
+<!-- Site Colors -->
+		
+
+<style type="text/css">
+#toplinks a { color: #333333; }
+#toplinks a:hover { color: #f8a235; text-decoration: underline; }
+</style>
+
+</head>
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<script type="text/javascript" src="boxover.js"></script>
+
+
+<div id="content"><!-- Start Menu - navbar.tpl -->
+	</div><table width="1000" border="0" cellpadding="0" cellspacing="0" align="center">
+
+<!-- Start Header -->
+	<tbody><tr>
+		<td>
+		
+			<table width="1000" height="23" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td>
+						<img src="images/m2_left.jpg" width="118" height="23" border="0"></td>
+					<td background="images/m2_bg.jpg" style="width: 765px; height: 23px; text-align: right; vertical-align: middle;" border="0">
+					
+					<div style="height: 23px; margin-right: 20px;"><img src="images/i_bookmark.png" border="0" align="absmiddle"><a class="navbar" href="javascript:CreateBookmarkLink()">Bookmark This Page</a></div>
+					
+					</td>
+					<td>
+						<img src="images/m2_right.jpg" width="117" height="23" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	
+<!-- End Header --><tr>
+		<td>
+			<table width="1000" height="23" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td>
+						<img src="images/m2_left.jpg" width="118" height="23" border="0"></td>
+					<td background="images/m2_bg.jpg" width="765" height="23" border="0" align="right">
+					
+					</td>
+					<td>
+						<img src="images/m2_right.jpg" width="117" height="23" border="0"></td>
+				</tr>
+			</tbody></table></td>
+	</tr>
+<!-- End Menu -->
+
+
+<!-- Start 3 Steps -->
+	<tr>
+		<td>
+			<table width="1000" height="129" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td background="images/3steps_left.jpg" width="118" height="100%" border="0"></td>
+
+
+
+					<td>
+					<img src="images/3steps.gif" width="765" height="129" border="0">
+					</td>
+
+
+
+					<td background="images/3steps_right.jpg" width="117" height="100%" border="0"></td>
+				</tr>
+			</tbody></table></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/3steps_line_under.jpg" width="1000" height="1" border="0"></td>
+	</tr>
+<!-- End 3 Steps -->
+
+
+<!-- Start Menu 2 -->
+	<tr>
+		<td>
+			<table width="1000" height="23" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td>
+						<img src="images/m_left.jpg" width="118" height="23" border="0"></td>
+					<td background="images/m2_bg.jpg" width="765" height="23" border="0" align="left">
+					
+					</td>
+					<td>
+						<img src="images/m_right.jpg" width="117" height="23" border="0"></td>
+				</tr>
+			</tbody></table></td>
+	</tr>
+
+	<tr>
+		<td>
+			<img src="images/s_under_m2.jpg" width="1000" height="13" border="0"></td>
+	</tr>
+<!-- End Menu 2 -->
+
+	<tr>
+		<td>
+			<table width="1000" height="235" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td background="images/c1_left.jpg" width="118" height="100%" border="0"></td>
+					<td width="765" height="235" border="0" bgcolor="white">
+					
+					
+<table width="765" height="235" border="0" cellpadding="0" cellspacing="0" background="images/c_bg2.jpg">
+	<tbody><tr><td><img src="images/c_title_privacy.jpg" width="765" height="32" border="0"></td></tr>
+	<tr><td><img src="images/c_bg.jpg" width="765" height="12" border="0"></td></tr>
+	<tr>
+	<td style="background: url('images/c_bg_bottom.jpg') bottom left no-repeat; padding: 0px 20px;" width="765" height="191" valign="top" align="left">
+
+
+
+
+<br><h3 align="CENTER" style="font-family: Georgia, 'Times New Roman', serif; font-size: 16px; color: black">OurLoot2Boot Privacy Policy</h3><br>
+<center><font size="1" color="black">(Last Updated : January 1st, 2013)</font></center><br>
+<br>
+<blockquote style="font-size:12px;"><font color="black"><br>
+<b>Privacy Policy</b><br>
+<br>
+<p align="justify">This privacy statement discloses the privacy practices for www.ourloot2boot.com. Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. OurLoot2Boot respects your privacy. Our purpose in collecting information from you, is to help us provide you with better service.</p><br>
+<br>
+<br>
+<b>Information Collection and Use</b><br>
+<br>
+<p align="justify">OurLoot2Boot is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way. OurLoot2Boot collects information from our users at several different points on our web site.</p><br>
+<br>
+<br>
+<b>Cookies</b> <br>
+<br>
+<p align="justify">A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For example, by setting a cookie on our site, the user would not have to input a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. We also use cookies to allow user customization on various areas of our site. Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p><br>
+<br>
+<br>
+<b>Email</b><br>
+ <br>
+<p align="justify">We use the return name and email addresses to answer the email we receive. Such addresses and names are not used for any other purpose and are not shared with outside parties other than our business partner "MRMerchandise". They too agree to never share or sell your email address.</p><br>
+ <br>
+<br>
+<b>Site and Service Updates</b><br>
+ <br>
+<p align="justify">We also send the user site and service announcement updates.</p><br>
+ <br>
+<br>
+<b>Outbound Links to Other Web Sites </b><br>
+<br>
+<p align="justify">This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.</p><br>
+<br>
+<br>
+<b>Data Security</b><br>
+ <br>
+<p align="justify">To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p><br>
+<p align="justify">If it is determined that you are scamming people and/or frauding offers, certain information about you, and/or your history, will be shared with other site owners/operators in our on-going community efforts to combat scamming/fraud.</p> <br>
+</font><br><br>
+
+
+
+<br>
+	</blockquote></td>
+	</tr>
+</tbody></table>
+
+					
+					</td>
+					<td background="images/c1_right.jpg" width="117" height="100%" border="0"></td>
+				</tr>
+			</tbody></table></td>
+	</tr>
+
+<!-- Start Footer -->
+	<tr>
+		<td>
+			<img src="images/footer_s_above.jpg" width="1000" height="19" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/footer_line_top.jpg" width="1000" height="2" border="0"></td>
+	</tr>
+	<tr>
+		<td>
+			<table width="1000" height="76" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td background="images/footer_left.jpg" width="118" height="100%" border="0"></td>
+					<td background="images/footer_bg.jpg" width="765" height="76" border="0">
+					
+	
+
+<table border="0" cellpadding="0" cellspacing="0" width="765" height="76" background="images/footer_bg.jpg">
+			<tbody><tr>
+			<td width="300" align="left" style="padding: 6px 0px 0px 5px; font-size: 12px;">Copyright © 2011 MissFreeBee.com</td>
+
+            <td width="465" align="right" style="padding: 6px 5px 0px 0px; font-size: 12px;">
+			<a href="index.php" style="color: #333333; text-decoration: none;">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="termsofservice.php" style="color: #333333; text-decoration: none;">Terms Of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacypolicy.php" style="color: #333333; text-decoration: none;">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="faq.php" style="color: #333333; text-decoration: none;">FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="contactus.php" style="color: #333333; text-decoration: none;">Contact Us</a></td>
+            </tr>
+			<tr><td colspan="2" align="right" valign="top" style="font-size: 10px; color: #ffffff; padding-right: 5px; line-height: 15px;">
+			Only one account per person and shipping address. Open to US, CANADA, and the UK only.<br>
+			This offer is provided by the MissFreeBee Network and is not endorsed by or affiliated with any product or service found on this site. 
+</td></tr></tbody></table>
+
+
+					
+					</td>
+					<td background="images/footer_right.jpg" width="117" height="100%" border="0"></td>
+				</tr>
+			</tbody></table></td>
+	</tr>
+
+</tbody></table>
+<script language="JavaScript" type="text/javascript" src="wz_tooltip.js"></script>
+
+<!-- Designed by killuanhn@gmail.com -->
+
+
+<div style="position: absolute; visibility: hidden;"><div></div><div></div></div></body></html>
