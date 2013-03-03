@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innovationads.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022204809id_/http%3A//www.innovationads.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovationads.com privacy policy that was archived on 2013-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130303055857id_/http%3A//innovationads.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
