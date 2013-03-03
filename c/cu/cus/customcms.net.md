@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customcms.net privacy policy that was archived on 2012-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120618110749id_/http%3A//www.customcms.net/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customcms.net privacy policy that was archived on 2013-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130303210246id_/http%3A//www.customcms.net/company/privacy-policy) for the most accurate reproduction.*
 
-# Couch Gamers BETA by Custom CMS (CCMS)
+# Couch Gamers by Custom CMS (CCMS)
 
 [Read Terms of Service »](http://www.customcms.net/company/terms-and-conditions "Read Terms of Service")
 
