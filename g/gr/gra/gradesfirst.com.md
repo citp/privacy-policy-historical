@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the gradesfirst.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027210435id_/http%3A//www.gradesfirst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradesfirst.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304145853id_/http%3A//www.gradesfirst.com/privacy-policy) for the most accurate reproduction.*
 
-# GradesFirst: Student Advising and Retention System
+# GradesFirst Online Privacy Policy | GradesFirst
 
-www.gradesfirst.com Privacy Policy 
+At GradesFirst, the protection of your privacy is important to us. The following privacy policy applies to the data collection and use practices at our website (the “Site”). This policy does not apply to the GradesFirst application.
 
-Published November 12, 2010
+**Information We Collect:**  
+When you enter our Site, our web servers will automatically capture your domain name, the pages you visit on our Site, and the amount of time you spend on the Site. We will not collect any information that can reveal your personal identity except for when you provide it directly on a registration page or through submitting a contact request form.
 
-GradesFirst cares about the privacy surrounding the information you give us and how it is used or shared. This notice describes GradesFirst’s Privacy Policy. 
+**Use and Disclosure of Information:**  
+We use the information that we collect about you to maintain, improve, and administer our site, provide products and information that you request, inform you about products and services that might be of interest to you, and personalize your online experience. Any personally-identifiable information you voluntarily give us will be used only to provide the product or information you have requested. 
 
-GradesFirst does not use "cookies" to obtain personal information regarding visitors to this Website. GradesFirst does not distribute any information to third parties except as required by law. 
+**Cookies:**  
+We currently use third-party advertising companies, including Google, to serve advertisements on sites across the Internet. Many companies, including GradesFirst, may use “cookies” to serve you content and advertisements that are based on your past visits to our Site. Most web browsers are set to accept cookies by default, but allow you to reject cookies by changing your browser preferences. Additionally, any visitor to our Site can opt out of Google’s use of cookies by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/).
 
-GradesFirst does not collect or sell any information that you give to us via this web site. Any information that you do provide to us via this site will be used only to: (a) respond to your request or (b) send you information if requested. If at any time you no longer want to receive information from GradesFirst, you may unsubscribe by clicking on the “Unsubscribe” button at the bottom of any Newsletter up Update or by emailing businessoffice@gradesfirst.com. 
+**Changes to this Policy:**  
+GradesFirst reserves the right to change this online Privacy Policy at any time by posting revisions on this Site. Such changes will be effective upon posting.
 
-We welcome any questions or comments about our privacy statement. Please contact GradesFirst at businessoffice@gradesfirst.com for further information. 
+**Contact Information:**  
+GradesFirst welcomes any questions or comments you might have concerning this Privacy Policy. If you have any questions or concerns, please contact GradesFirst electronically at info@gradesfirst.com.
