@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115194515id_/http%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304092333id_/http%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
 
 # Wiggle Customer Services
 
-We will never sell or pass on your name and address to any other organisation without your consent. Your details are confidential and you will never receive unsolicited mail as a result of ordering from Wiggle.
-
-Wiggle maintains a strict privacy policy in full accordance with the Data Protection Act 1998.
-
-We expect you to maintain the confidentiality of your username and password for your Wiggle account.
-
-All content included in this site, text and graphics (including copyright), is owned and controlled by Wiggle Ltd. In accessing the Wiggle web pages, you agree that you may only download the content for your own individual and non-commercial use. You are not permitted to copy, broadcast, download, store, transmit, show or play in public, adapt or change in any way the content of these Wiggle pages for any other purpose whatsoever, in any medium, without the prior written permission of Wiggle Ltd.
-
-(back to top)
-
-* * *
-
 **Wiggle Ltd**  are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you for 2 reasons: firstly, to process your order and secondly to provide you with the best service possible. We will not email you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us in the future.
 
-**_Contact information_ :**
+**Contact information:**
 
 Wiggle Ltd  
 3 Optima  
@@ -28,7 +16,9 @@ United Kingdom
 
 Email: [sales@wiggle.co.uk](mailto:sales@wiggle.co.uk)
 
-Executive Directors: Humphrey Michael Cobbold, Andrew James Bond, Andreas Panteli and Martin Richard Talbot
+Executive Directors: Humphrey Michael Cobbold and Martin Richard Talbot
+
+**Information:**
 
 The type of information we will collect about you when you place an order or register on our web site includes:
 
@@ -56,12 +46,14 @@ We process personal information collected via Wiggle for the purpose of:  
 
 
 
-If you do not wish to receive information about our products or services, please tick the appropriate box on the registration form.
-
 When you place an order we need to know your name, email address, delivery address and payment information, depending on the payment method that you choose to use. This allows us to process and fulfil your order and to notify you of the status of your request. We may also ask for your telephone number which enables us to contact you urgently if there is a problem with your order.
 
+**Newsletter Subscription**
+
+When you agree, your e-mail address will be used for our own marketing purposes until you unsubscribe. It is possible to unsubscribe at any time. If you do not wish to receive information about our products or services, please tick the appropriate box on the Wiggle Newsletter Management.
+
 **Your Consent**  
-By submitting information to Wiggle you consent to the collection and use of this information by Wiggle and it's Service Provider (if any). If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it and under what circumstances we disclose it.
+By submitting information to Wiggle you consent to the collection and use of this information by Wiggle and its Service Provider (if any) in the fullfilment of your order. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it and under what circumstances we disclose it.
 
 **Data Security**  
 We have designed our site to protect the information we collect online from unauthorised access. We safeguard your private information by implementing the appropriate physical, electronic and managerial procedure necessary to protect your privacy. To further protect your security, we also take the reasonable steps to verify your identity before granting access to your personal profile or making data changes. We are committed to protecting your privacy and have security measures in place to prevent unauthorised access to and disclosure of your personal information.
@@ -72,7 +64,16 @@ Wiggle does not sell, trade or rent your personal information to others. To bet
 **Cookies**  
 Cookies are alphanumeric identifiers that are transferred to your computer's (or alternative web browsing device’s) hard drive through your Web browser to enable our systems to recognise your browser and to provide rich shopping features such as recommend products and loyalty discounts, as well as the storage of items in your Shopping Basket between visits. The Help menu in most common browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. However, because cookies allow you to take advantage of some of Wiggle’s essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Wiggle.co.uk features that require you to Sign in. If you do leave cookies turned on, be sure to sign off when you finish using a shared computer.
 
-Please read our  _full_ [Cookie Policy](http://www.wiggle.co.uk/h/option/Cookies) for further information.
+Please read our  **full** [Cookie Policy](http://www.wiggle.co.uk/h/option/Cookies) for further information.
+
+**Analytic Tools**
+
+  * Google Analytics is a system used by many website to record information about who visits a website. Google set five different cookies with expiry dates ranging from 1 day to 2 years. These cookies are used mainly to differentiate between first time visitors to a website and repeat visitors. They do not contain any personally identifiable information. You can find out more about how Google use cookies at http://www.google.co.uk/policies/privacy/ (English only)
+
+
+
+**Social Media Plug-ins**  
+Social Media Plug-ins for Facebook and Twitter obtain data for tracking purposes.
 
 **International Privacy**  
 The above privacy statement may not be applicable in all countries of Wiggle visitors or registered community users, as security policies may vary according to the individual Internet laws in each host country.
@@ -85,15 +86,19 @@ We will not pass your information to any third parties. You can also email us to
 
 * * *
 
-**Copyright**
+Wiggle maintains a strict privacy policy in full accordance with the Data Protection Act 1998.
 
-Unless otherwise stated, all rights, including copyright, in the content of these Wiggle web pages are owned and controlled for these purposes by Wiggle Ltd.
+We expect you to maintain the confidentiality of your username and password for your Wiggle account.
 
-In accessing Wiggle web pages, you agree that you may only download the content for your own individual and non-commercial use.
+We will never sell or pass on your name and address to any other organisation without your consent. Your details are confidential and you will never receive unsolicited mail as a result of ordering from Wiggle.
 
-You are not permitted to copy, broadcast, download, store, transmit, show or play in public, adapt or change in any way the content of these Wiggle pages for any other purpose whatsoever, in any medium, without the prior written permission of Wiggle Ltd.
+Unless otherwise stated, all rights, including copyright, in the content, text and graphics of these Wiggle web pages are owned and controlled for these purposes by Wiggle Ltd. You are not permitted to copy, broadcast, download, store, transmit, show or play in public, adapt or change in any way the content of these Wiggle pages for any other purpose whatsoever, in any medium, without the prior written permission of Wiggle Ltd.
 
-**Exceptions and Acknowledgments**
+In accessing Wiggle web pages, you agree that you may only download the content for your own individual and non-commercial use.
+
+(back to top)
+
+* * *
 
 Feel free to use small quotes as long as you acknowledge our site and provide a link back to the original source.
 
@@ -131,6 +136,11 @@ This means that you can choose the license that best suits your project, and use
 jQuery imagesLoaded plugin v2.0.1  
 <http://github.com/desandro/imagesloaded>  
 MIT License. by Paul Irish et al.
+
+**iosSlider**  
+http://iosscripts.com/iosslider/  
+Copyright (c) 2012 Marc Whitbread  
+iosSlider is licensed under the Creative Commons – Attribution-NonCommercial 3.0 License.
 
 **jCarouselLite**  
 jCarouselLite - jQuery plugin to navigate images/any content in a carousel style widget.  
