@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwcfs.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230231040id_/http%3A//www.uwcfs.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcfs.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304085406id_/http%3A//www.uwcfs.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | UWC Financial Services
 
