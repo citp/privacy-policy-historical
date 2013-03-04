@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessmonitor.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105094456id_/http%3A//www.businessmonitor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessmonitor.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304210502id_/http%3A//www.businessmonitor.com/privacy.html) for the most accurate reproduction.*
 
 # Business Monitor: Privacy Policy
 
