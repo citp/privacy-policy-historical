@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsgeyser.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214140652id_/http%3A//www.appsgeyser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsgeyser.com privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304213038id_/http%3A//www.appsgeyser.com/privacy) for the most accurate reproduction.*
 
 # AppsGeyser - Create Android Apps from any web content
 
