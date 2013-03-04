@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the appgyver.com privacy policy that was archived on 2012-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121202150307id_/http%3A//www.appgyver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appgyver.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305003455id_/http%3A//www.appgyver.com/privacy) for the most accurate reproduction.*
 
 # AppGyver
-
-* * *
 
 AppGyver is committed to protecting your privacy and to comply with applicable data protection and privacy laws. This Privacy Policy explains what kind of information AppGyver collects in connection with its services and how such information is processed.
 
