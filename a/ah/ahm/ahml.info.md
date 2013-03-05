@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahml.info privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505184443id_/http%3A//ahml.info/content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahml.info privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306002910id_/http%3A//ahml.info/content/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | AHML
 
