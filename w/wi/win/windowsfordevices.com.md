@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsfordevices.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023030813id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsfordevices.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305191240id_/http%3A//www.ziffdavisenterprise.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Ziff Davis Enterprise - IT Media’s Most Complete Information and Engagement Marketing Solution Provider
 
