@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bestdealinsurance.co.uk privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021141448id_/http%3A//www.bestdealinsurance.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdealinsurance.co.uk privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305111846id_/http%3A//www.bestdealinsurance.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Best Deal Privacy Policy
-
-* * *
+# Privacy Policy - Best Deal Insurance
 
 All data submitted to Best Deal Insurance Services Ltd on this site is secured using Verisign.
 
@@ -58,4 +54,4 @@ If you need to Modify or Change your personal details after you have made a purc
 
 ## Contact
 
-If you have any questions or concerns about the information we hold about you, you can also email us at [info@bestdealinsurance.co.uk](mailto:info@bestdealinsurance.co.uk) or alternatively call us on Freephone 08000 324455
+If you have any questions or concerns about the information we hold about you, you can also email us at[info@bestdealinsurance.co.uk](mailto:info@bestdealinsurance.co.uk) or alternatively call us on Freephone 08000 324455 
