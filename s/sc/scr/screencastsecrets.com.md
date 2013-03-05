@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencastsecrets.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227025819id_/http%3A//screencastsecrets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencastsecrets.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305174807id_/http%3A//screencastsecrets.com/privacy-policy) for the most accurate reproduction.*
 
 # Camtasia Training : Screenflow Training : PowerPoint Videos : Keynote Videos : ScreencastSecrets.com
 
