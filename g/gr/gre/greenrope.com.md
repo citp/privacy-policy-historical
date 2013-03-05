@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenrope.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109020114id_/http%3A//new.greenrope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenrope.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305110030id_/http%3A//www.greenrope.com/privacy.html) for the most accurate reproduction.*
 
 # Anti-Spam Policy by GreenRope
 
