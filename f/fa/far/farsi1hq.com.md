@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the farsi1hq.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011051054id_/http%3A//www.farsi1hq.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farsi1hq.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306005002id_/http%3A//www.farsi1hq.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Farsi1 - privacy_policy - farsi1hq.com
+# Serial Privacy_policy - www.farsi1hq.com
 
 ### **Download free TV and Farsi1 HD Toolbar == >**
 
@@ -21,4 +21,4 @@ Contact Information
 Concerns or questions about this privacy policy can be directed to info@farsi1hd.com for further clarification.
 
   
-Copyright ©2010 farsi1hd.com | [Privacy Policy / Contact US](https://web.archive.org/web/20121011051054id_/http%3A//www.farsi1hq.com/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20121011051054id_/http%3A//www.farsi1hq.com/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
+Copyright ©2010 farsi1hd.com | [Privacy Policy / Contact US](https://web.archive.org/web/20130306005002id_/http%3A//www.farsi1hq.com/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20130306005002id_/http%3A//www.farsi1hq.com/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
