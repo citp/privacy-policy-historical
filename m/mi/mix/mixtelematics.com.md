@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixtelematics.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231190036id_/http%3A//mixtelematics.com/en/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixtelematics.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306044145id_/http%3A//www.mixtelematics.com/en/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MiX Telematics
+# Privacy Policy
 
 This privacy policy sets out how MiX Telematics International (Pty) Ltd (“MiX Telematics”) uses and protects any information that you give MiX Telematics when you use this website.
 
