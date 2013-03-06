@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the payzone.ie privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101061209id_/http%3A//www.payzone.ie/pages/about-us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payzone.ie privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306031726id_/http%3A//www.payzone.ie/privacy) for the most accurate reproduction.*
 
-# Payzone IE - Privacy Policy
+# Privacy Policy - Payzone
 
-Payzone Group (hereinafter referred to as "Payzone" "us" "we" or "our") is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit [www.payzone.ie](http://www.payzone.ie/) ("Site") without disclosing any personally identifiable information about yourself.   
-We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information.
+Payzone Group (hereinafter referred to as "Payzone" "us" "we" or "our") is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit www.payzone.ie ("Site") without disclosing any personally identifiable information about yourself. We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information.
 
-For the purposes of this Privacy Policy Statement "Payzone" means Payzone Group and any company or other entity within the group.
+For the purposes of this Privacy Policy Statement "Payzone" means Payzone Group and any company or other entity within the group
 
 You should read this notice in conjunction with the Terms and Conditions of use for the Site.
 
-**Personal Information Collection**
+###  **Personal Information Collection**
 
 We endeavour to collect and use your personal information only with your knowledge and consent and typically when you use services, make customer enquiries, register for information or other services, or when you respond to communications from us (such as questionnaires or surveys).
 
@@ -17,34 +16,84 @@ The type of personal information we may collect could include, for example, your
 
 You acknowledge that by providing data to us, you consent to the processing of your data in accordance with this Privacy Policy Statement.
 
-**Access to your Information**
+###  **Access to your Information**
 
 You can write to us at any time to obtain details of the personal information we may hold about you.*
 
 The Data Protection Manager  
 Payzone Group  
 Payzone House  
-Heather Road  
+4 Fern Road (off Heather Road)  
 Sandyford Ind Est  
 Dublin 18  
 Republic of Ireland
 
-Please quote your name and address. We would be grateful if you could also provide brief details of what information you want a copy (this helps us to more readily locate your data).
+### Cookie Policy
 
-We will take all reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you.   
-*we may charge Euro15.00 to cover the administration costs involved.
+###### Cookie Name
 
-**Information Security**
+| 
 
-Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Intranet. Payzone cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.   
-Privacy Support  
-Payzone reserves the right to amend or modify this Privacy Policy Statement at any time and in response to changes in applicable data protection and privacy legislation.   
-If you have any enquiry about Payzone's data protection and privacy policy or practices, please write to:
+###### Nature of cookie
 
-The Data Protection Manager  
-Payzone Group   
-Payzone House  
-Heather Road  
-Sandyford Ind Est  
-Dublin 18  
-Republic of Ireland
+| 
+
+###### First or Third Party
+
+| 
+
+###### Purpose  
+  
+---|---|---|---  
+  
+__utma
+
+__utmb
+
+__utmc
+
+__utmz
+
+| 
+
+__utma is a persistent cookie
+
+__utmb and __utmc are session cookies that last for a maximum of 30 minutes
+
+__utmz is a persistent cookie that lasts for six months
+
+| 
+
+These are third party cookies that are placed on your device to allow us to use the Google Analytics service
+
+| 
+
+These cookies are used to collect information about how visitors use our website.  We use the information to compile reports and to help us improve the website.  The cookies collect information in an anonymous form, including the number of visitors to the website, where visitors have come to the website from and the pages they visited.  Further information is available about these cookies here: <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>  
+  
+JSESSIONID
+
+| 
+
+A JESSIONID cookie lasts until the end of the session
+
+| 
+
+This is a cookie placed on your device by us
+
+| 
+
+JSESSIONID is the unique ID of the http session generated by the server  
+  
+cookieStatus_payzoneie
+
+| 
+
+A cookieStatus_ payzoneie cookie lasts for a maximum of 10 days
+
+| 
+
+This is a cookie placed on your device by us
+
+| 
+
+The cookie Status is set if you accept the cookie policy on the website. It removes the policy overlay.
