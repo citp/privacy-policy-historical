@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the triciastreasure.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015005044id_/http%3A//aryias.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triciastreasure.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306050218id_/http%3A//aryias.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Tricia's Treasures: Privacy Policy
 
 **What information do we collect?**
 
-We collect information from you when you Leave acomment or enter a giveaway. 
+We collect information from you when you Leave a comment or enter a giveaway. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
@@ -14,7 +14,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-; To administer a contest, promotion, survey or other site feature
+ To administer a contest, promotion, survey or other site feature
 
 **How do we protect your information?**
 
@@ -58,6 +58,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on 7/6/2012
 
-http://aryias.blogspot.com
+http://www.triciastreasure.com.
 
 This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
