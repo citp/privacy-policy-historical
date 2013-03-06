@@ -1,81 +1,62 @@
-> *The following text is extracted and transformed from the bigtittytube.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625220711id_/http%3A//bigtittytube.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtittytube.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306033548id_/http%3A//www.bigtittytube.com/static/privacy) for the most accurate reproduction.*
 
-# BigTittyTube - Information
+# Privacy Policy
 
-**Bigtittytube.com** ("Bigtittytube") recognizes that its customers, visitors, users, and others who use [www.Bigtittytube.com](http://bigtittytube.com/) or other web sites owned or operated by Bigtittytube (the "Bigtittytube Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Bigtittytube Sites. Bigtittytube provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Bigtittytube Sites.
+PRIVACY POLICY
 
-This Privacy Notice is incorporated into and is subject to the [Bigtittytube Terms of Use](https://web.archive.org/web/20120625220711id_/http%3A//bigtittytube.com/index.php?view=info_terms). Your use of the Bigtittytube Sites and any personal information you provide on the Bigtittytube Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/web/20120625220711id_/http%3A//bigtittytube.com/index.php?view=info_terms).
+This document details important information regarding the use and disclosure of User Data collected on BigTittyTube.com
 
-Please note that any video, image, or other content posted at the direction of Users onto the Bigtittytube Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
+The security of your Data is very important to BigTittyTube.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
-### The Information Bigtittytube Collects
+This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
-**User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to Bigtittytube when choosing to participate in various activities on the Bigtittytube Sites such as uploading videos, posting messages in our forums or in the video comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
+DATA COLLECTED
 
-  * **Cookies Information:** When you visit the Bigtittytube Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Bigtittytube uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Bigtittytube Sites may not function properly if the ability to accept cookies is disabled.
-  * **Log File Information:** When you use the Bigtittytube Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+·       Personal Information: 
 
+·       Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
 
+·       Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
 
-### The Way Bigtittytube Retains Information
+·       Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
 
-  * To preserve the integrity of website databases Bigtittytube's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Bigtittytube you are consenting to store that information indefinitely.
-  * If required by law, such as the Children's Online Privacy Protection Act (COPPA,) Bigtittytube will scramble and/or encrypt that information to make it unrecognizable. Bigtittytube will also respond to written member requests to scramble account information. If you wish to make such a request, which will require you to verify your identity, contact the Bigtittytube Policy Manager. ï¿½ needs to link to the contact info
+·       Cookies: When you visit BigTittyTube.com, we may send one or more cookies to your computer that uniquely identifies your browser session. BigTittyTube.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
 
+·       Log File Information: When you visit BigTittyTube.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
 
+·       Emails: If you contact us, we may keep a record of that correspondence.
 
-### The Way Bigtittytube Uses Information
+USES
 
-  * If you submit personally identifiable information to us through the Bigtittytube Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Bigtittytube Sites.
-  * Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the Bigtittytube Sites and other Users can contact you through messages and comments. Any videos that you submit to the Bigtittytube Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Bigtittytube Site changes or for customer service purposes).
-  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Bigtittytube Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
-  * We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Bigtittytube Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+·       Your Personally identifiable information submitted to BigTittyTube.com is used to provide to the user the website's features and special personalized features.
 
+·       Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the BigTittyTube.com private mail, etc. Other Users can contact you through, private messages.
 
+·       Any videos that you submit to BigTittyTube.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
 
-### When Bigtittytube Discloses Information
+·       We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
 
-  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
-  * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Bigtittytube Sites.
-  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-  * Bigtittytube also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Bigtittytube believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20120625220711id_/http%3A//bigtittytube.com/index.php?view=info_terms), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Bigtittytube, our Users or others.
+·       We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
 
+·       OPT-IN AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."
 
+·       OPT-OUT AND USER COMMUNICATION – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
-### Your Choices
+·       We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the BigTittyTube.com user-experience.
 
-You may, of course, decline to submit personally identifiable information through the Bigtittytube Sites, in which case Bigtittytube may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile page. 
+DISCLOSURE OF INFORMATION
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+·       if under duty to do so BigTittyTube.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of BigTittyTube.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is BigTittyTube.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
 
-Please contact Bigtittytube with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices by emailing [customer service](https://web.archive.org/web/20120625220711id_/http%3A//bigtittytube.com/index.php?view=contact).
+·       Should you deliberately upload any illegal material BigTittyTube.com shall forward all available information to all relevant authorities and this without notice.   
+\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
 
-### Third-party Advertisers, Links to Other Sites
+SECURITY
 
-Bigtittytube allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Bigtittytube Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Bigtittytube Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-Bigtittytube does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Bigtittytube to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+Unfortunately, the transmission of information via the Internet is not completely secure. BigTittyTube.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to BigTittyTube.com and you do so at your own risk.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. Bigtittytube's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+YOUR RIGHTS
 
-### Our Commitment To Data Security:
-
-Bigtittytube uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Bigtittytube and you do so at your own risk. Once we receive your transmission of information, Bigtittytube makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-If Bigtittytube learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Bigtittytube may post a notice on the Bigtittytube Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify [customer service](https://web.archive.org/web/20120625220711id_/http%3A//bigtittytube.com/index.php?view=contact).
-
-### Our Commitment to Legal-Age Usage
-
-Protecting children from adult ocntent is especially important. For that reason, Bigtittytube does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Bigtittytube Sites from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the Bigtittytube Sites at any time or in any manner. If Bigtittytube learns that personally identifiable information of persons under 18 years of age has been collected on the Bigtittytube Sites then Bigtittytube will take the appropriate steps to delete this information.
-
-### Special Note to International Users:
-
-The Bigtittytube Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Bigtittytube Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Bigtittytube Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/web/20120625220711id_/http%3A//bigtittytube.com/index.php?view=info_terms), you are transferring your personal information to the United States and you consent to that transfer.
-
-### Changes and updates to this Privacy Notice
-
-This Privacy Notice may be revised periodically and users are encouraged to review the Notices periodically to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Bigtittytube Sites constitutes your agreement to this Privacy Notice and any future revisions.
-
-For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at webmaster@BigTittyTube.com.
