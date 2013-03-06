@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popupvia.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218053542id_/http%3A//popupvia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popupvia.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306085726id_/http%3A//popupvia.com/privacy.html) for the most accurate reproduction.*
 
 # PopupVia | Best Popup / Pop-under Advertising Network | Pop-up / Pop-under Ads
 
