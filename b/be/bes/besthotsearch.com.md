@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besthotsearch.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919084130id_/http%3A//besthotsearch.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthotsearch.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306021259id_/http%3A//besthotsearch.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Besthotsearch.com- Privacy Policy
 
