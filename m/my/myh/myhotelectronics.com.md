@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhotelectronics.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110080756id_/http%3A//www.myhotelectronics.com/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhotelectronics.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306020859id_/http%3A//www.myhotelectronics.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,3 +11,5 @@ We may use cookies to store information on certain pages, such as your personal 
 Some of these advertisers may use technology such as cookies and web beacons when they advertise on our website, which will also send these advertisers certain information including your ip address, internet service provider, browser type and when you visited our website, and in some cases, whether you have flash installed or not. You can chose to disable or selectively turn off our cookies or third-party cookies in your web browser settings.
 
 If you have any questions in regards to our privacy policy or need more information, please visit the contact section, submit your inquiry and we will reply to you asap.
+
+[](http://trkur.com/trk?o=6940&p=109674&i=35816)
