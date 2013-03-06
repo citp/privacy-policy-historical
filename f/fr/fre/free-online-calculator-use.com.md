@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-online-calculator-use.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220053827id_/http%3A//www.free-online-calculator-use.com/info-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-online-calculator-use.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306114141id_/http%3A//www.free-online-calculator-use.com/info-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,6 +87,8 @@ You can find additional information in Appendix A of the NAI Self-Regulatory pri
 If you do not agree to free-online-calculator-use.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
 
 **Your use of this site indicates acceptance of this privacy policy.**
+
+[ Home](http://www.free-online-calculator-use.com/) > Privacy Policy 
 
 **Share this page:  **  
 
