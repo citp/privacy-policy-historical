@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oksingapore.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227130718id_/http%3A//www.oksingapore.com/about_104.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oksingapore.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306015840id_/http%3A//oksingapore.com/about_104.html) for the most accurate reproduction.*
 
 # Privacy-Jinqiao International Group Pte. Ltd. - Singapore manpower, study in Singapore, Singapore tourism, business, investigate and Singapore investment immigrant, Singapore summer camp. Various kinds of Singapore visa advisers, Singapore website construction, software development, plane design, customer service system,china & singapore culture dissemination
 
