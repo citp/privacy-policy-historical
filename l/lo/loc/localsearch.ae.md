@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsearch.ae privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025083749id_/http%3A//www.localsearch.ae/en/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsearch.ae privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307005008id_/http%3A//www.localsearch.ae/en/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - LocalSearch.ae
 
