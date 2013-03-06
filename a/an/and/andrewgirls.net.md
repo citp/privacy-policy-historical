@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrewgirls.net privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905171405id_/http%3A//andrewgirls.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrewgirls.net privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306191601id_/http%3A//www.andrewgirls.net/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
