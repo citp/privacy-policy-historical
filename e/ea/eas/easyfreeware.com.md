@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyfreeware.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116104937id_/http%3A//www.easyfreeware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfreeware.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307185427id_/http%3A//www.easyfreeware.com/privacy.html) for the most accurate reproduction.*
 
 # Easy Freeware | Privacy Policy
 
