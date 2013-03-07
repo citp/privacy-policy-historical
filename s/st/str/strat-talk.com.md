@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strat-talk.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022094438id_/http%3A//www.strat-talk.com/wp-strat/%3Fpage_id%3D1788) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strat-talk.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307055633id_/http%3A//www.strat-talk.com/wp-strat/%3Fpage_id%3D1788) for the most accurate reproduction.*
 
 # Fender Stratocaster Guitar Forum
 
