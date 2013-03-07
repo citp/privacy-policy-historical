@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230201222id_/http%3A//www.zenplanner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenplanner.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307041138id_/http%3A//www.zenplanner.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,12 +23,20 @@ We will only allow your private information to be seen by another person in orde
   
 
 
-All modern web browsers support cookies, which are small, temporary pieces of information that are saved on your computer by your browser. Some are concerned about the potential for sneaky companies to abuse cookies, to save sensitive data on their computer that they do not know, or to monitor their online behavior. Please know that our use of cookies is governed by our customer service philosophy, and that they are never used in a misleading, or intrusive way.
+About Cookies All modern web browsers support cookies, which are small, temporary pieces of information that are saved on your computer by your browser. Some are concerned about the potential for sneaky companies to abuse cookies, to save sensitive data on their computer that they do not know, or to monitor their online behavior. Please know that our use of cookies is governed by our customer service philosophy, and that they are never used in a misleading, or intrusive way.
 
 Like most secure web applications, we use cookies to allow you to “log in” to our site because they are the most secure way of ensuring that your private data stays private. We will never store any personally identifiable information in cookies; they are only random numbers and letters that our servers use to keep track of which information you can access. 
 
 We also use cookies to identify the computers that connect to this website. This is done to provide better customer service and to prevent fraud. For example, if a suspicious user attempts to log in to your account from an unknown computer in a distant country, we may block that computer from doing so.
 
-We also use cookies on our marketing website (www.zenplanner.com) to optimize our investment in our search engine optimization and search engine marketing programs. 
+Zen Planner uses cookies on our marketing website (www.zenplanner.com) to optimize our investment in our search engine optimization and search engine marketing programs. 
+
+Specifically, Zen Planner has implemented Google Display Advertising and Remarketing. These Google Analytics features we’ve implemented are based on Displayed Advertising (e.g., Remarketing). 
+
+Zen Planner and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.
+
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Preferences Manager.
+
+Additionally, we also encourage visitors to explore the Google Analytics opt-out browser add-on. 
 
 In all things, we constantly aim to do the right thing, and to do better than in the past. If we need to update this policy, we will do so to be more clear, open, and honest with you. If so, we will notify you about significant changes via email, or by posting a notice on the website.
