@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the megamoneygames.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027210502id_/http%3A//www.megamoneygames.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megamoneygames.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307191328id_/http%3A//www.scratchgames.com/About/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Scratch cards & Scratch games by MegaMoneyGames
+# Privacy Policy | Scratch cards & Scratch games by ScratchGames
 
-At MegaMoneyGames.com we are committed to protecting and respecting our players personal information. We recognize the importance of protecting information collected from users and have created this Privacy Policy to let You know what information We collect, why We collect this information and how We use the collected information.
+At ScratchGames.com we are committed to protecting and respecting our players personal information. We recognize the importance of protecting information collected from users and have created this Privacy Policy to let You know what information We collect, why We collect this information and how We use the collected information.
 
 ## 1\. Privacy
 
-This Privacy Policy is an integral part of MegaMoneyGames’s End user license agreement and Our Terms And Conditions. By Clicking / Checking “I Agree” or access or use MegaMoneyGames website, You automatically agree to our information collection, use and disclosure of your personal information in accordance to this Privacy Policy.
+This Privacy Policy is an integral part of ScratchGames’s End user license agreement and Our Terms And Conditions. By Clicking / Checking “I Agree” or access or use ScratchGames website, You automatically agree to our information collection, use and disclosure of your personal information in accordance to this Privacy Policy.
 
 By clicking 'Submit' or 'I agree' during the registration process or by Your continued use of the Service following the posting of this Privacy Policy (as applicable), You agree to this Privacy Policy. This is Our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with Our [Terms and Conditions](https://web.archive.org/About/Terms-and-conditions) and any additional applicable terms posted on Our Platforms. We may periodically make changes to this Privacy Policy and will notify You of these changes by posting the modified terms on Our Platforms. We recommend that You revisit this Privacy Policy regularly
 
@@ -24,7 +24,7 @@ We may disclose Your Personal Information if required to do so by law, or if We 
 
 ## 4\. Access / Opt-Out
 
-You may 'opt out' of receiving any promotional communications either by choosing to opt out directly from your personal profile / account located on Our site or the Service or in an email You receive from Us, or at any time by sending an email to support@MegaMoneyGames.com. In addition, You may update manually or contact Us by email if You: 1) want to confirm the accuracy of the Personal Information We have collected about You; 2) would like to update Your Personal Information; and/or 3) have any complaint regarding Our use of Your Personal Information. If requested, We will (a) update any information You have provided to Us, provided that You provide evidence as We may reasonably require for such changes, or (b) mark any information to prohibit future use for marketing purposes. For the avoidance of doubt, nothing in this Privacy Policy shall prevent Us from retaining Your Personal Information where We are required to do so by law.
+You may 'opt out' of receiving any promotional communications either by choosing to opt out directly from your personal profile / account located on Our site or the Service or in an email You receive from Us, or at any time by sending an email to support@ScratchGames.com. In addition, You may update manually or contact Us by email if You: 1) want to confirm the accuracy of the Personal Information We have collected about You; 2) would like to update Your Personal Information; and/or 3) have any complaint regarding Our use of Your Personal Information. If requested, We will (a) update any information You have provided to Us, provided that You provide evidence as We may reasonably require for such changes, or (b) mark any information to prohibit future use for marketing purposes. For the avoidance of doubt, nothing in this Privacy Policy shall prevent Us from retaining Your Personal Information where We are required to do so by law.
 
 ## 5\. Cookies
 
@@ -38,7 +38,7 @@ These cookies will hold information collected during Your registration and will 
 
 **5.1.2 On Our Website / Platform**
 
-For visitors to Our website, We use cookies to collect information and track Your use of the MegaMoneyGames website / Platform in order to provide you with more personalized user expectance and content and allow You to sign in easily and play MegaMoneyGames’s games quickly
+For visitors to Our website, We use cookies to collect information and track Your use of the ScratchGames website / Platform in order to provide you with more personalized user expectance and content and allow You to sign in easily and play ScratchGames’s games quickly
 
 Cookies allows us to:
 
@@ -56,7 +56,7 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 ## 6\. Security
 
-We understand the importance of information security and the techniques needed to secure information. We store all of the Personal Information We receive directly from You in a password-protected database residing within Our secure network behind active state-of-the-art firewall software. MegaMoneyGames uses a VeriSign Secure Socket Layer (SSL), EV Certified Version 3 with 128-bit encryption.
+We understand the importance of information security and the techniques needed to secure information. We store all of the Personal Information We receive directly from You in a password-protected database residing within Our secure network behind active state-of-the-art firewall software. ScratchGames uses a VeriSign Secure Socket Layer (SSL), EV Certified Version 3 with 128-bit encryption.
 
 ## 7\. International Transfers
 
