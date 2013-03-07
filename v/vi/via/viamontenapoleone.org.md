@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viamontenapoleone.org privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016175427id_/http%3A//www.viamontenapoleone.org/eng/privacypolicy.php%3Fmncsideng%3D67a6b2a0e25199dd6918958b4ad70820) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viamontenapoleone.org privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307022859id_/http%3A//www.viamontenapoleone.org/eng/privacypolicy.php) for the most accurate reproduction.*
 
 # Via Montenapoleone Official Site | Luxury fashion accessories, made-on-measure and gifts | Visit Milan hotels, attractions and events
 
