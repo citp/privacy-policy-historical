@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackjones.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827161103id_/http%3A//shop.bestseller.com/customer-service/privacy-policy/jj-cs-privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackjones.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307081858id_/http%3A//shop.bestseller.com/customer-service/privacy-policy/jj-cs-privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,15 +18,28 @@ BESTSELLER HANDELS AG will process your personal data for marketing purposes, ho
 
 ###### Cookies
 
-BESTSELLER HANDELS AG uses cookies to provide the best possible browsing experience for our visitors. Cookies are small text files that your browser places on your computer when you visit websites to mark that you have been there.
+BESTSELLER* uses cookies to give you the best possible experience when you visit our website. A cookie is a small text file which is attached to your computer's hard disk, smartphone or other IT equipment. It enables your computer/IP address to be recognised and information to be collected regarding the pages and functions you visit.
 
-If you check your settings, you can see if a cookie has been added. A lot of browsers allow you to choose your preference, so if you have set your browser settings to refuse cookies, we cannot place a cookie on your computer. You can at any time delete the cookies stored on your computer.
+The first time you visit our website, you will see a banner at the top with the statement that we use cookies. If you click on the link "No thanks to cookies", we will not apply more cookies than those re-quired to implement the choices you make, e.g. cookies to make a purchase from our online shop. If you don't want us to use cookies at all, you must deactivate cookies in your browser. However, you should be aware that in this case there may be services and functions which you cannot use as they require cookies to remember the choices you are making. You can follow the link below if you would like instructions on how to delete cookies from your browser.
 
-By adding a BESTSELLER cookie to your browser, we can give you a better experience on our website and continuously improve the content and features. 
+BESTSELLER uses cookies to give you a better user experience on our website, to remember the choices you are making when you use our website, for example choice of country, and for ongoing improvement of the content and functions you experience on our website. We also use cookies to target our marketing so that it matches your requirements, and to generate statistics regarding the use of our website.  
+Some cookies are kept until you close down your browser, while others are kept for longer.
 
-The cookies do not contain personal data such as information about your email address, your user ID or similar.
+BESTSELLER makes use of third-party cookies. A third-party cookie is a cookie which is installed by someone other than BESTSELLER, such as other websites which provide content for our website, suppli-ers of some of our functions on the website or analysis programmes. Below you can see a list of the third-party cookies we use.
 
-BESTSELLER HANDELS AG uses third-party cookies. A third-party cookie is a cookie which is placed by websites or analysis programs. The data provided by these cookies is completely anonymous and used mostly for internal customer analysis and visitor statistics.
+Google Analytics, Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA  
+Demandware Inc., 5 Wall St., Burlington, MA 01803, USA  
+AddThis, 1595 Spring Hill Rd, Suite 300, Vienna, VA 22182
+
+BESTSELLER will occasionally show content from YouTube. YouTube may therefore place cookies, includ-ing third-party cookies, over which BESTSELLER has no influence. BESTSELLER has no knowledge of the identity or purpose of such cookies. If you want to know more about which cookies are used by YouTube, you can see their cookie policy [here](http://www.google.com/intl/en/policies/privacy/cookies/).
+
+If you use a link from BESTSELLER's websites to a third-party's website, you should be aware that new cookies may be used over which BESTSELLER has no influence. In this case you should investigate the website's cookie policy yourself.
+
+Links to remove cookies via browser settings: [Click here](http://shop.bestseller.com/Remove-Cookies/cs-remove-cookies,en_GB,pg.html)
+
+  
+*: BESTSELLER comprises Bestseller A/S, Vila A/S and Bestseller Handels AG  
+ 
 
 ###### Security
 
@@ -42,7 +55,7 @@ If you want us to update, change or delete personal data which we process about 
 
 ###### Transfer to third parties
 
-Your personal data may be transferred to BESTSELLER's warehouses in Germany and Denmark for packing and sending your items as well as BESTSELLER A/S in Denmark for marketing and customer services such as e.g. handling returns or complaints.
+Your personal data may be transferred to BESTSELLER's warehouses in Germany and Denmark for packing and sending your items as well as BESTSELLER A/S in Denmark for marketing and customer services such as e.g. handling returns or complaints.
 
 We would like to point out that legislation and regulations relating to the safeguarding, processing and transmission of personal data may be different in other countries from the related provisions in Switzerland. By providing your personal data, you agree to your data being transmitted abroad in accordance with this provision.
 
@@ -54,83 +67,4 @@ BESTSELLER HANDELS AG will process and store your personal data for as long as i
 
 Swiss legislation regulates any circumstances or any disputes, which may occur in connection with usage of the website.
 
-##### Change Password
-
-_*_ = required field 
-
-***   
-THIS IS THE ADDRESS BOOK LISTING   
-THIS WILL NEED TO BE REMOVED FROM THIS PAGE   
-AND PLACED INTO THE CORRECT PAGE ONCE DEVELOPMENT IS COMPLETED   
-*** 
-
-##### Address Book
-
-    
-    
-
-## Address was successfully deleted
-
-    
-    
-
-## Delivery address was saved successfully
-
-    
-    
-
-## Address was updated successfully
-
-    
-    
-
-## Address was successfully added
-
-_*_ = required field 
-
-    
-
-Title, First Name, Surname
-
-    
-
-Default Address
-
-    
-
-    
-
-Title, First Name, Surname
-
-    
-    
-
-***   
-THIS IS THE ADD TO ADDRESS BOOK SECTION   
-THIS WILL NEED TO BE REMOVED FROM THIS PAGE   
-AND PLACED INTO THE CORRECT PAGE ONCE DEVELOPMENT IS COMPLETED   
-*** 
-
-##### Add Address
-
-_*_ = required field 
-
-***   
-THIS IS THE CHANGE PASSWORD SECTION   
-THIS WILL NEED TO BE REMOVED FROM THIS PAGE   
-AND PLACED INTO THE CORRECT PAGE ONCE DEVELOPMENT IS COMPLETED   
-*** 
-
-##### Change Password
-
-_*_ = required field 
-
-_*_ Password: 
-
-{label:"Password"}
-
-[ ]()
-
-_*_ Confirm Password: 
-
-{label:"Confirm Password"}
+Back to top
