@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialvibe.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021080342id_/http%3A//www.socialvibe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialvibe.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307234124id_/http%3A//www.socialvibe.com/privacy.html) for the most accurate reproduction.*
 
 # SocialVibe
 
