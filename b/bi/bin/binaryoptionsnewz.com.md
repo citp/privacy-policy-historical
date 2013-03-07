@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the binaryoptionsnewz.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228231426id_/http%3A//binaryoptionsnewz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryoptionsnewz.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307025152id_/http%3A//binaryoptionsnewz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Binary Options | Binary Options
+# Privacy Policy | Binary Option Newz
 
 ## Privacy Policy
 
@@ -26,4 +26,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to 48f06ogfro590@5904fotop5.com for further clarification.
+Concerns or questions about this privacy policy can be directed to todayimhithtat@gmail.com for further clarification.
