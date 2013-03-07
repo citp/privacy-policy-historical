@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getlocalization.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114135943id_/http%3A//support.getlocalization.com/entries/104948-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlocalization.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308005918id_/http%3A//support.getlocalization.com/entries/104948-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Get Localization Help Desk
 
-## [Forums](https://web.archive.org/forums)/[Service](https://web.archive.org/forums/115169-service)
+## [Forums](https://web.archive.org/forums)/[Service](https://web.archive.org/forums/115169-Service)
 
 ### Privacy Policy
 
