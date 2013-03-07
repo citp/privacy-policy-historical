@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datebookpage.com privacy policy that was archived on 2012-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120712040916id_/http%3A//datebookpage.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datebookpage.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307074135id_/http%3A//datebookpage.com/policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -91,6 +91,6 @@ Contact Us
 If you have questions about this Policy, the practices of or your dealings with us relating to this Policy, please email us at  [contact@cpxinteractive.com](mailto:contact@cpxinteractive.com) or you can send correspondence to us at the following address: 
 
 CPX Interactive Networks  
-Box 10485  
-360 Maple Avenue  
-Westbury, NY, 11590
+P.O. BOX 1091  
+MIDTOWN STATION  
+NY, NY, 10018
