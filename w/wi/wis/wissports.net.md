@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114111944id_/http%3A//www.wissports.net/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wissports.net privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307174156id_/http%3A//www.wissports.net/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | NGIN
 
@@ -20,15 +20,19 @@ Sport Ngin sites do not knowingly solicit any personally identifiable informatio
 
   4. #### Collection Of Information By Third-Party Sites And Sponsors
 
-  5. #### Cookies
+  5. #### Third Party Advertising and Sites
 
-  6. #### Our Commitment To Security
+  6. #### Right to Deliver and Send Commercial Messages
 
-  7. #### How To Contact Us
+  7. #### Cookies
 
-  8. #### Online Registration
+  8. #### Our Commitment To Security
 
-  9. #### Updates
+  9. #### How To Contact Us
+
+  10. #### Online Registration
+
+  11. #### Updates
 
 
 
@@ -59,35 +63,41 @@ While Sport Ngin is careful in choosing its sponsors and advertisers, we are onl
 
 Our sites contains links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. We may sometimes offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors/entrants voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the third party sponsors' use of this information.
 
-  5. #### Right to Deliver and Send Commercial Messages
+  5. #### Third Party Advertising and Sites
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising for some companies, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/) and <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+The Network Advertising Initiative (NAI) is a self-regulatory initiative tasked with helping advertisers and publishers develop and maintain industry standards and best practices, and as part of this has developed an opt-out mechanism for website visitors who do not wish to be tracked by several advertisers.
+
+  6. #### Right to Deliver and Send Commercial Messages
 
 You agree to receive commercial messages from Sport Ngin or any third party chosen by Sport Ngin (thereafter Sport Ngin Commercial partners) on any device you use to access and operate Sport Ngin products and services and which may be based on characteristics derived from information explicitly or implicitly provided by you, such as your location, to Sport Ngin and which will be treated according to our Privacy Policy.
 
 Commercial messages are messages sent on your Sport Ngin account or email address for commercial purposes for Sport Ngin or Sport Ngin Commercial partners’ products and services. Commercial messages sent bySport Ngin or Sport Ngin Commercial partners to your email address will include a one click opt-out option.
 
-  6. #### Cookies
+  7. #### Cookies
 
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. These Cookies do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering with us.
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites.
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites.
 
-  7. #### Our Commitment to Security
+  8. #### Our Commitment to Security
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-  8. #### How to Contact Us
+  9. #### How to Contact Us
 
 If you have any questions or concerns about the Sport Ngin online policy for this site or its implementation you may contact us at 612-379-1030 or at support@ngin.com.
 
-  9. #### Online Registration
+  10. #### Online Registration
 
 When asked to submit personal billing information, it is important to know that this information is used only for payment processing verification. Sport Ngin does not distribute sell or otherwise exploit this information in any way. For security reasons complete credit card numbers are never saved or stored.
 
-  10. #### Updates
+  11. #### Updates
 
 From time to time, we may update this privacy notice. We will note the date the Policy was changed at either the top or bottom of the Policy, to keep you informed of when updates occur. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
 
 
 
-LAST UPDATED: July 25, 2011 © Sport Ngin, 2012. All Rights Reserved. Use of this site signifies your acceptance of this Privacy Policy.
+LAST UPDATED: January 23, 2013 © Sport Ngin, 2013. All Rights Reserved. Use of this site signifies your acceptance of this Privacy Policy.
