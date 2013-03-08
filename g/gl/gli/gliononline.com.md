@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gliononline.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004020826id_/http%3A//www.gliononline.com/images/LaureateEUPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gliononline.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308150312id_/http%3A//gliononline.com/images/LaureateEUPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
