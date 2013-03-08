@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solowave.info privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106233950id_/http%3A//solowave.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solowave.info privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308064215id_/http%3A//solowave.info/privacy.php) for the most accurate reproduction.*
 
 # SoloWave Privacy Policy
 
