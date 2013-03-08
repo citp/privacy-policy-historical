@@ -1,0 +1,3020 @@
+<!--The following is the downloaded HTML source of the kbzbank.com privacy policy that was archived on 2013-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130308100112id_/http%3A//www.kbzbank.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="pragma" content="nocache">
+    <!-- The following JDOC Head tag loads all the header and meta information from your site config and content. -->
+      <base href="http://www.kbzbank.com/privacy-policy.html">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="keywords" content="kbz bank, kbz group, strength of myanmar,banking, atm card,debit card, Air KBZ, Kanbawza Bank">
+  <meta name="author" content="Super User">
+  <meta name="description" content="Strength Of Myanmar">
+  <meta name="generator" content="Joomla! - Open Source Content Management">
+  <title>KBZ Bank - Privacy Policy</title>
+  <link href="/templates/atomic/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link href="http://www.kbzbank.com/component/search/?Itemid=495&amp;format=opensearch" rel="search" title=" KBZ Bank" type="application/opensearchdescription+xml">
+  <link rel="stylesheet" href="/modules/mod_sptab/assets/css/style7.css.php?id=90" type="text/css">
+  <link rel="stylesheet" href="/modules/mod_sp_accordion/style/style4.css" type="text/css">
+  <link rel="stylesheet" href="http://www.kbzbank.com/modules/mod_jt_superfish_menu/css/superfish.css" type="text/css">
+  <style type="text/css">
+#sptab90 .tabs_mask, #sptab90 ul.tabs_container li span {height:27px;line-height:27px;}
+  </style>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/modules/mod_sptab/assets/js/sptab.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+function golink(target,id)
+	{
+		
+		var link = document.forms['jlink'+id].add.value;
+		
+		switch(target)
+		{
+			case 'parent':
+				window.location=link;
+				break;
+			case 'newwith':
+				window.open(link);
+				break;
+				
+			case 'newwithout':
+				window.open(link,'','toolbar=no');
+				break;
+			default:
+				alert('oops!!');
+		}
+
+	}
+var called=false;	
+var T_Price=0;
+
+var fixed_rate="";
+var fixed_period="";
+var rate="";
+var period="";
+/**/
+/** Clear Form with Javascript**/
+function clear_form_elements(ele) {
+
+    tags = ele.getElementsByTagName('input');
+    for(i = 0; i < tags.length; i++) {
+        switch(tags[i].type) {
+            case 'password':
+            case 'text':
+                tags[i].value = '';
+                break;
+            case 'checkbox':
+            case 'radio':
+                tags[i].checked = false;
+                break;
+        }
+    }
+   
+    tags = ele.getElementsByTagName('select');
+    for(i = 0; i < tags.length; i++) {
+        if(tags[i].type == 'select-one') {
+            tags[i].selectedIndex = 0;
+        }
+        else {
+            for(j = 0; j < tags[i].options.length; j++) {
+                tags[i].options[j].selected = false;
+            }
+        }
+    }
+
+    tags = ele.getElementsByTagName('textarea');
+    for(i = 0; i < tags.length; i++) {
+        tags[i].value = '';
+    }
+   
+}
+/*** End of Clear form **/
+function numberWithCommas(x) {
+    var parts = x.toString().split(".");
+    parts[0] = parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+    return parts.join(".");
+}
+function compute(form){
+	called=true;
+	//-------Fixed Terms in Month----------
+		if (form.fixedterms[0].selected){
+			fixed_period=0;		fixed_rate=0;				
+		}
+		if (form.fixedterms[1].selected){
+			fixed_period=3;			fixed_rate =8.25;			
+			form.FixRate.value = 8.25+"%";
+		}
+		if (form.fixedterms[2].selected){
+			fixed_period=6;			fixed_rate =8.5;			
+			form.FixRate.value = 8.5 +"%";
+		}
+		if (form.fixedterms[3].selected){
+			fixed_period=9;			fixed_rate =8.75;
+			form.FixRate.value = 8.75 +"%";
+		}
+		if (form.fixedterms[4].selected){
+			fixed_period=12;		fixed_rate =9;			
+			form.FixRate.value = 9 +"%";
+		}
+		if (form.fixedterms[5].selected){
+			fixed_rate =9.25;
+			fixed_period=15;
+			form.FixRate.value = 9.25 +"%";
+		}
+		if (form.fixedterms[6].selected){
+			fixed_period=18;		fixed_rate =9.5;			
+			form.FixRate.value = 9.5 +"%";
+		}
+		if (form.fixedterms[7].selected){
+			fixed_rate =9.75;
+			fixed_period=21;
+			form.FixRate.value = 9.75 +"%";
+		}
+		if (form.fixedterms[8].selected){
+			fixed_period=24;		fixed_rate =10;			
+			form.FixRate.value = 10 +"%";
+		}
+		if (form.fixedterms[9].selected){
+			fixed_period=27;		fixed_rate =10.25;			
+			form.FixRate.value = 10.25 +"%";
+		}
+		if (form.fixedterms[10].selected){
+			fixed_period=30;		fixed_rate =10.5;			
+			form.FixRate.value = 10.5 +"%";
+		}
+		if (form.fixedterms[11].selected){
+			fixed_period=33;		fixed_rate =10.75;
+			form.FixRate.value = 10.75 +"%";
+		}
+		if (form.fixedterms[12].selected){
+			fixed_period=36;		fixed_rate =11;			
+			form.FixRate.value = 11 +"%";
+		}
+		
+		
+//-------Terms in Month----------
+		if (form.Terms[0].selected){
+			period=0;			rate=0;
+		}
+		if (form.Terms[1].selected){
+			period =1;			rate=8;
+		}
+		if (form.Terms[2].selected){
+			period =2;			rate=8;
+		}
+		if (form.Terms[3].selected){
+			period =3;			rate=8;
+		}
+		if (form.Terms[4].selected){
+			period =4;			rate=8;
+		}
+		if (form.Terms[5].selected){
+			period =5;			rate=8;
+		}
+		if (form.Terms[6].selected){
+			period =6;			rate=8;
+		}
+		if (form.Terms[7].selected){
+			period =7;			rate=8;
+		}
+		if (form.Terms[8].selected){
+			period =8;			rate=8;
+		}
+		if (form.Terms[9].selected){
+			period =9;			rate=8;
+		}
+		if (form.Terms[10].selected){
+			period =10;			rate=8;
+		}
+		if (form.Terms[11].selected){
+			period =11;			rate=8;
+		}
+		if (form.Terms[12].selected){
+			period =12;			rate=8;
+		}
+		/**Saving **/
+		
+		if(form.fixedterms[0].selected) {
+			Price=Number(form.Deposit.value)+(((form.Deposit.value* (rate/100))/12)*period);
+T_Price = Price.toFixed(3); 
+		} 
+		/**Fixed**/
+		if(form.Terms[0].selected)  {
+			Price=Number(form.Deposit.value)+(((form.Deposit.value* (fixed_rate/100))/12)*fixed_period);
+T_Price =Price.toFixed(3); 
+		}
+				
+		
+		form.T_Price.value="  K "+ numberWithCommas(T_Price);
+}
+
+function validateForm()
+{
+var x=document.forms["calculate"]["Deposit"].value;
+if (x==null || x=="")
+  {
+  alert("Deposit must be filled out");
+  return false;
+  }
+}
+
+var lastDiv = "";
+function showDiv(divName) {
+	// hide last div
+	if (lastDiv) {
+		document.getElementById(lastDiv).className = "hiddenDiv";
+	}
+	//if value of the box is not nothing and an object with that name exists, then change the class
+	if (divName && document.getElementById(divName)) {
+		document.getElementById(divName).className = "visibleDiv";
+		lastDiv = divName;
+
+	}
+}
+  </script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+  <script type="text/javascript" src="http://www.kbzbank.com/modules/mod_jt_superfish_menu/js/hoverIntent.js"></script>
+  <script type="text/javascript" src="http://www.kbzbank.com/modules/mod_jt_superfish_menu/js/superfish.js"></script>
+  <script type="text/javascript">jQuery.noConflict();</script>
+
+    <!--[if lt IE 9]>
+        <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+         <![endif]-->
+                
+       <!--[if lte IE 8]>
+        <link href="/templates/atomic/css/ieonly.css" rel="stylesheet" type="text/css" />
+        <![endif]-->  
+    <link rel="stylesheet" href="/templates/atomic/css/blueprint/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+      <link rel="stylesheet" href="/templates/atomic/css/blueprint/plugins/joomla-nav/screen.css" type="text/css" media="screen">
+
+    <!-- The following line loads the template CSS file located in the template folder. -->
+    <link rel="stylesheet" href="/templates/atomic/css/template.css" type="text/css">
+    <link rel="stylesheet" href="/templates/atomic/css/core.css" type="text/css">
+    <link rel="stylesheet" href="/templates/atomic/css/core-ui-select.css" type="text/css">
+    <link rel="stylesheet" href="/templates/atomic/css/jquery.scrollpane.css" type="text/css">
+
+       <script type="text/javascript"> /* <![CDATA[ */ if(window.devicePixelRatio){ document.write('<link rel="stylesheet" href="/templates/atomic/css/safari.css" type="text/css">'); } /* ]]> */ </script><link rel="stylesheet" href="/templates/atomic/css/safari.css" type="text/css">
+    <!-- The following four lines load the Blueprint CSS Framework and the template CSS file for right-to-left languages. If you don't want to use these, delete these lines. -->
+                            
+    <!-- The following line loads the template JavaScript file located in the template folder. It's blank by default. -->
+    <script type="text/javascript" src="/templates/atomic/js/template.js"></script>
+    <script type="text/javascript" src="/templates/atomic/js/jquery-1.7.1.min.js"></script>
+  <script type="text/javascript" src="/templates/atomic/js/jquery.core-ui-select.js"></script>
+    <script type="text/javascript" src="/templates/atomic/js/jquery.mousewheel.js"></script>
+    <script type="text/javascript" src="/templates/atomic/js/jquery.scrollpane.js"></script>
+    <script type="text/javascript">
+    $.noConflict();
+       jQuery(document).ready(function($) {
+        $('#add').coreUISelect({
+            jScrollPane : {
+                verticalDragMinHeight: 20,
+                verticalDragMaxHeight: 20,
+                showArrows : false
+            }
+        });
+    
+       $('#website1').coreUISelect({
+            jScrollPane : {
+                verticalDragMinHeight: 20,
+                verticalDragMaxHeight: 20,
+                showArrows : true
+            }
+        });   
+    $('#website2').coreUISelect({
+            jScrollPane : {
+                verticalDragMinHeight: 20,
+                verticalDragMaxHeight: 20,
+                showArrows : true
+            }
+        });  
+    $('#website3').coreUISelect({
+            jScrollPane : {
+                verticalDragMinHeight: 20,
+                verticalDragMaxHeight: 20,
+                showArrows : true
+            }
+        });   
+    $('#websites4').coreUISelect({
+            jScrollPane : {
+                verticalDragMinHeight: 20,
+                verticalDragMaxHeight: 20,
+                showArrows : true
+            }
+        });
+
+        function addCoreUISelectListener(select, event){
+            console.log(select, event);
+        }
+    });
+</script>   
+<script type="text/javascript"> if (navigator.userAgent.match(/Macintosh/)){
+       
+
+  document.write('<link rel="stylesheet" href="/templates/atomic/css/mac.css" type="text/css">');
+   }
+</script>
+
+  </head>
+  <body>
+   <div id="maincontainer">
+   
+            <div id="wrapper-content">
+                    <div id="top-bg">
+                        <div id="header">
+                                <p id="logo">
+                                                                               
+                                            		</p><div class="moduletable">
+					<div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a href="/" title="KBZ Bank">
+							<img src="http://www.kbzbank.com/images/logo/logo.png" alt="KBZ Bank">
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+		</div>
+	
+                                   
+                                      
+                                 <p></p>
+                                                                 
+                                 <p id="icon">
+                                    <span id="icon-text"></span>
+                                    <span><a href="https://www.facebook.com/KanbawzaBank"><img src="/templates/atomic/images/facebook.png" class="facebook" alt=""></a></span>
+                                </p><!--icon-->
+                                
+                                
+                              <!--header--></div>
+                              <div class="language">
+                                                                                                       
+                                     		<div class="moduletable">
+					<span class="date">
+8th March 2013</span>		</div>
+			<div class="moduletable">
+					<script type="text/javascript">
+//<![CDATA[
+//------------------------------------------------------------
+//--  Time Zone Clock Version 4.0                           --
+//--  The script uses the server time to display the clocks --
+//------------------------------------------------------------
+var DispDay=0;var DispSeconds=1;var zonefirst=1;var disp_ampm=1;var servertimestr='March 08, 2013 10:01:11';var servtime=new Date(servertimestr);var DispHoriz=0;var z1text="";var z1time=390;var z1dst=0;var ampm="";var d = document;function did(objID){return d.getElementById(objID);}
+Date.prototype.TZoff=new Function("var X, Y, Z; with (this){X = getTimezoneOffset(); Y = Math.abs(X);return LZ(X*-1)  }");
+Date.prototype.UStimeStr=new Function("var H;with (this) return PadZero(1+((H=getUTCHours())+11)%12  )+':'+LZ(getUTCMinutes())+':'+LZ(getSeconds())+[' AM',' PM'][+(H>11)]");
+Date.prototype.T24timeStr=new Function("var H;with (this) return LZ(getUTCHours())+':'+LZ(getUTCMinutes())+':'+LZ(getSeconds())");
+Date.prototype.UStimeStrNS=new Function("var H;with (this) return PadZero(1+((H=getUTCHours())+11)%12)+':'+LZ(getUTCMinutes())+[' AM',' PM'][+(H>11)]");
+Date.prototype.T24timeStrNS=new Function("var H;with (this) return LZ(getUTCHours())+':'+LZ(getUTCMinutes())");
+function DoWstr(DoWk) {return "SunMonTueWedThuFriSatSun".substr(3*DoWk, 3)}
+var spantxt="<span style='display:inline; ;padding: 0px 2px 0px 5px;vertical-align:middle; align=left'>";
+var spantxt2="<span style='margin: 0px 7px 0px 0px;padding:0px 2px 0px 2px; background:; vertical-align:middle; width:auto; align=left'>";
+var servtime=new Date(servertimestr);
+var stsec=servtime.getTime();
+var utsecdo=new Date();
+var utsec=utsecdo.getTime();
+var secdiff=stsec-utsec+(utsecdo.TZoff()*60*1000);
+function LZ(x){return (x>=10||x<0?"":"0") + x; }
+function PadZero(num){
+      if (DispHoriz)
+            {return num;}
+      else {
+            if(num<=9) {return "&nbsp;&nbsp;"+num;}else{ return num;}}            
+}
+function buildTime(srvtime,texttodisp,timeoffset,dst)
+      {
+        if(dst=="*"){var dispflag="*";}else {var dispflag="&nbsp;";}
+        houris=srvtime.getUTCHours();
+        minis =srvtime.getUTCMinutes();
+        secondis=srvtime.getUTCSeconds();
+        
+        yy=Math.abs(parseInt(secdiff/1000));
+        adjminadd=yy % 60;
+        zz=yy%60;
+        yy=(yy-adjminadd)/60;
+        if (secdiff<0){yy=yy*(-1);}
+        if (secdiff<0){zz=zz*(-1);}
+if(did("tzcdebug")){did("tzcdebug").innerHTML="Minutes off(+/-)sign="+yy+"<br/>Seconds off(+/-)sign="+zz;}
+        Y = Math.abs(timeoffset);
+        minadd = parseInt(Y % 60);
+        Y=(Y-minadd)/60;
+        if(timeoffset<0){Y=Y*(-1);if(minadd!=0){Y=Y-1;}}
+        calcseconds=Math.abs(secondis)+zz;
+        calcminutes=Math.abs(minis+minadd)+yy;
+       // calcminutes=Math.abs(minis+timeoffset)+yy;
+        calchours=houris+Y;
+        
+with (N = new Date()) {	
+	N.setUTCHours(calchours,calcminutes,calcseconds);
+	if(DispDay){dayofweek="("+DoWstr(N.getUTCDay())+")";}else{dayofweek="";}
+
+            if(DispHoriz) {
+                  if(DispSeconds){
+                        if (disp_ampm){return spantxt+texttodisp+"<\/span>&nbsp;"+spantxt2+N.UStimeStr()+dispflag+" "+dayofweek+"<\/span>";}
+                        else{return spantxt+texttodisp+"<\/span>&nbsp;"+spantxt2+N.T24timeStr()+dispflag+" "+dayofweek+"<\/span>";}
+                  }
+                  else{
+                        if (disp_ampm){return spantxt+texttodisp+"<\/span>&nbsp;"+spantxt2+N.UStimeStrNS()+dispflag+" "+dayofweek+"<\/span>";}
+                        else{return spantxt+texttodisp+"<\/span>&nbsp;"+spantxt2+N.T24timeStrNS()+dispflag+" "+dayofweek+"<\/span>";}
+                  }
+            }
+            else {
+                  if(DispSeconds){
+                        if (disp_ampm){if(zonefirst) {return texttodisp+" "+N.UStimeStr()+dispflag+"  "+dayofweek;} else{return N.UStimeStr()+dispflag+" "+texttodisp+"  "+dayofweek;}}
+                        else{if(zonefirst){return texttodisp+"  "+N.T24timeStr()+dispflag+" "+dayofweek;} else{return N.T24timeStr()+dispflag+" "+texttodisp+"  "+dayofweek; }}
+                  }
+                  else{
+                        if (disp_ampm){if(zonefirst){return texttodisp+" "+N.UStimeStrNS()+" "+dayofweek;}else{return N.UStimeStrNS()+" "+texttodisp+"  "+dayofweek;}}
+                        else{if(zonefirst){return texttodisp+" "+N.T24timeStrNS()+dayofweek;}else{return N.T24timeStrNS()+dayofweek+" "+texttodisp;}}
+                  }
+            }
+      }     
+}                   
+function RunTZclock(){
+      var srvtime=new Date();
+      var Q=srvtime.getTime();
+      RunTZclockTimer=setTimeout('RunTZclock()', 1000-Q%1000);
+      if(typeof z1text!="undefined")
+            {var time1=buildTime(srvtime,z1text,z1time,z1dst);
+            if(did('RC1'))did('RC1').innerHTML=time1;}
+      if(typeof z2text!="undefined")
+            {var time2=buildTime(srvtime,z2text,z2time,z2dst);
+            if(did('RC2'))did('RC2').innerHTML=time2;}
+      if(typeof z3text!="undefined")
+            {var time3=buildTime(srvtime,z3text,z3time,z3dst);
+            if(did('RC3'))did('RC3').innerHTML=time3;}
+      if(typeof z4text!="undefined")
+            {var time4=buildTime(srvtime,z4text,z4time,z4dst);
+            if(did('RC4'))did('RC4').innerHTML=time4;}
+      if(typeof z5text!="undefined")
+            {var time5=buildTime(srvtime,z5text,z5time,z5dst);
+            if(did('RC5'))did('RC5').innerHTML=time5;}
+      if(typeof z6text!="undefined")
+            {var time6=buildTime(srvtime,z6text,z6time,z6dst);
+            if(did('RC6'))did('RC6').innerHTML=time6;}
+      if(typeof z7text!="undefined")
+            {var time7=buildTime(srvtime,z7text,z7time,z7dst);
+            if(did('RC7'))did('RC7').innerHTML=time7;}
+      if(typeof z8text!="undefined")
+            {var time8=buildTime(srvtime,z8text,z8time,z8dst);
+            if(did('RC8'))did('RC8').innerHTML=time8;}
+      if(typeof z9text!="undefined")
+            {var time9=buildTime(srvtime,z9text,z9time,z9dst);
+            if(did('RC9'))did('RC9').innerHTML=time9;}
+      if(typeof z10text!="undefined")
+            {var time10=buildTime(srvtime,z10text,z10time,z10dst);
+            if(did('RC10'))did('RC10').innerHTML=time10;}}
+//]]>			
+			</script>
+<div class="time"><div id="RC1"> &nbsp;&nbsp;4:31:12 PM&nbsp;  </div></div><script type="text/javascript">
+function addLoadEvent(func) {
+  var oldonload = window.onload;
+  if (typeof window.onload != "function") {
+    window.onload = func;
+  } else {
+    window.onload = function() {
+      oldonload();
+      func();
+    }
+  }
+}
+addLoadEvent(RunTZclock);
+</script>		</div>
+	
+                        
+                              
+                              </div>
+                             
+                        <div class="trmenu">
+                   
+                  
+                                            
+                                    
+            </div>
+                                    
+                      <div>   
+                                                    		<div class="moduletable">
+					<form action="/privacy-policy.html" method="post" class="inline">
+	<div class="search">
+		<input name="searchword" id="mod-search-searchword" maxlength="" class="inputbox" type="text" size="20" value="" onblur="if (this.value=='') this.value='';" onfocus="if (this.value=='') this.value='';"><input type="submit" value="" class="button" onclick="this.form.searchword.focus();">	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="495">
+	</div>
+</form>
+		</div>
+	
+                                                        </div>
+            
+          
+             		<div class="moduletable menu">
+						
+	
+<ul class="jt-menu">
+<li class="item-435"><span class="l-menu"></span><a href="/">Home</a><span class="r-menu"></span></li><li class="item-492"><span class="l-menu"></span><a href="/about-kbz.html">About KBZ </a><span class="r-menu"></span></li><li class="item-484 deeper parent"><span class="l-menu"></span><a href="#">Retail Banking</a><span class="r-menu"></span><ul><li class="item-485 deeper parent"><span class="l-menu"></span><a href="#">Deposit Products</a><span class="r-menu"></span><ul><li class="item-523"><span class="l-menu"></span><a href="/consumer-banking/deposit-products/savings-deposit-account.html">Savings Deposit Account</a><span class="r-menu"></span></li><li class="item-524"><span class="l-menu"></span><a href="/consumer-banking/deposit-products/current-account.html">Current Account </a><span class="r-menu"></span></li><li class="item-525"><span class="l-menu"></span><a href="/consumer-banking/deposit-products/fixed-deposit-account.html">Fixed Deposit Account</a><span class="r-menu"></span></li><li class="item-526"><span class="l-menu"></span><a href="/consumer-banking/deposit-products/minor-account.html">Minor Account </a><span class="r-menu"></span></li></ul></li><li class="item-527 deeper parent"><span class="l-menu"></span><a href="#">Lending Products</a><span class="r-menu"></span><ul><li class="item-528"><span class="l-menu"></span><a href="/consumer-banking/lending-products/loans-overdraft.html">Loans &amp; Overdraft</a><span class="r-menu"></span></li><li class="item-529"><span class="l-menu"></span><a href="/consumer-banking/lending-products/hire-purchase.html">Hire Purchase </a><span class="r-menu"></span></li></ul></li><li class="item-487 deeper parent"><span class="l-menu"></span><a href="#">Cards</a><span class="r-menu"></span><ul><li class="item-530"><span class="l-menu"></span><a href="/consumer-banking/cards/debit.html">Debit/ATM</a><span class="r-menu"></span></li><li class="item-565"><span class="l-menu"></span><a href="/consumer-banking/cards/international-cards.html">International Cards</a><span class="r-menu"></span></li></ul></li><li class="item-488 deeper parent"><span class="l-menu"></span><a href="#">Remittance</a><span class="r-menu"></span><ul><li class="item-532"><span class="l-menu"></span><a href="/consumer-banking/remittance/remittance.html">Remittance</a><span class="r-menu"></span></li><li class="item-533"><span class="l-menu"></span><a href="/consumer-banking/remittance/workers-remittance.html">Workers’ Remittance </a><span class="r-menu"></span></li></ul></li><li class="item-491 deeper parent"><span class="l-menu"></span><a href="#">Others</a><span class="r-menu"></span><ul><li class="item-534"><span class="l-menu"></span><a href="/consumer-banking/other/gift-cheque.html">Gift Cheque </a><span class="r-menu"></span></li><li class="item-535"><span class="l-menu"></span><a href="/consumer-banking/other/safe-deposit-locker.html">Safe Deposit Locker</a><span class="r-menu"></span></li></ul></li></ul></li><li class="item-493 deeper parent"><span class="l-menu"></span><a href="#">Wholesale Banking</a><span class="r-menu"></span><ul><li class="item-540"><span class="l-menu"></span><a href="/wholesales-banking/trade-services.html">Trade Services</a><span class="r-menu"></span></li><li class="item-541"><span class="l-menu"></span><a href="/wholesales-banking/fx-services.html">FX Services</a><span class="r-menu"></span></li></ul></li><li class="item-494 deeper parent"><span class="l-menu"></span><a href="/careers-at-kbz.html">Careers at KBZ</a><span class="r-menu"></span><ul><li class="item-550"><span class="l-menu"></span><a href="/careers-at-kbz/job-vacancy.html">Job Vacancy</a><span class="r-menu"></span></li></ul></li><li class="item-511"><span class="l-menu"></span><a href="/faq.html">FAQ</a><span class="r-menu"></span></li><li class="item-497 deeper parent"><span class="l-menu"></span><a href="#">Contact Us</a><span class="r-menu"></span><ul><li class="item-512"><span class="l-menu"></span><a href="/contact/head-office.html">Head Office</a><span class="r-menu"></span></li><li class="item-536"><span class="l-menu"></span><a href="/contact/branches.html">Branches</a><span class="r-menu"></span></li></ul></li></ul>
+<script type="text/javascript"> 
+   jQuery(document).ready(function(){ 
+        jQuery("ul.jt-menu").superfish({ 
+            animation:  {opacity:'show', height:'show', width:'show'},
+            delay:      1000,
+			speed:      'normal',
+            autoArrows: true 
+        }); 
+    });  
+</script>
+<div style="clear: both;"></div>
+<div style="display:none"><a href="http://www.jtemplate.ru/en" target="_blank">free templates joomla</a></div>		</div>
+	
+                
+                       </div>
+                                                                                        
+<div class="breadcrumbs">
+<a href="/" class="pathway">Home</a> <img src="/media/system/images/arrow.png" alt=""> <span>Privacy Policy</span></div>
+
+                                         
+                                                   
+                         
+                        <div id="mid-content">
+                            <div id="midlf-content">
+                                        <p>
+                                                                                  </p>
+                                        
+                                        
+<div id="system-message-container">
+</div>
+                                          
+                    <link rel="stylesheet" href="/plugins/content/custompagenavigation/style/style.css" type="text/css" media="all"><div id="scrollableContent"><div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div><div id="innerScroll" class="viewport"><div class="overview">
+<div id="" class="item-page">
+
+
+
+
+
+
+
+
+<div class="content-links">
+	<ul>
+			</ul>
+	</div>
+
+<h2>What we collect</h2>
+<p>We may collect the following information:</p>
+<ul class="Terms-Conditions">
+    <li>name and job title</li>
+    <li>contact information including email address</li>
+    <li>demographic information such as postcode, preferences and interests</li>
+    <li>other information relevant to customer surveys and/or offers</li>
+</ul>
+<p>&nbsp;</p>
+<h2>What we do with the information we gatherv</h2>
+<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
+<ul class="Terms-Conditions">
+    <li>Internal record keeping.</li>
+    <li>We may use the information to improve our products and services.</li>
+    <li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
+    <li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Security</h2>
+<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
+<p>&nbsp;</p>
+<h2>How we use cookies</h2>
+<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+<p>&nbsp;</p>
+<h2>Links to other websites</h2>
+<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+<p>&nbsp;</p>
+<h2>Controlling your personal information</h2>
+<p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
+<ul class="Terms-Conditions">
+    <li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes</li>
+    <li>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
+ <script type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy36743 = 'kbz&#105;nf&#111;' + '&#64;';
+ addy36743 = addy36743 + 'kbzb&#97;nk' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy36743 + '\'>');
+ document.write(addy36743);
+ document.write('<\/a>');
+ //-->\n </script><a href="mailto:kbzinfo@kbzbank.com">kbzinfo@kbzbank.com</a><script type="text/javascript">
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script><span style="display: none;">This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type="text/javascript">
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></span></li>
+</ul> 
+	
+</div>
+</div></div></div>
+                                        <div id="info-news">
+                                       <div id="info">
+                                                                                                  <!--info--></div>
+                                                <div id="news">
+                                                                                                    <!--news--></div>
+                                        <!--info-news--></div>
+                                        <!--midlf-content--></div>
+                                <div id="midrh-content">
+                                    <div id="container">
+                                                                                                                     
+                                                         		<div class="moduletable">
+					<script type="text/javascript">
+window.addEvent('domready',function(){
+var spTab90 = new sptabs($('sptab90'), {
+	animation : 'fade',
+	btnPos: 'top',
+	activator: 'click',
+	transition: Fx.Transitions.linear,
+	fxduration: 400,
+	autoHeight : true,
+	fixedHeight: 300	});
+});
+</script>
+<div class="sptab_red" id="sptab90">
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title">ATM</h2>
+			<script type="text/javascript">
+window.addEvent('domready', function() {
+	var myAccordion130 = new Accordion(document.getElements('#accordion_sp1_id130 .toggler'), document.getElements('#accordion_sp1_id130 .sp-accordion-inner'), {
+		opacity: true,
+				display:-1,
+				alwaysHide: true,		
+		onActive: function(toggler){
+			toggler.addClass('active');
+		},
+		onBackground: function(toggler){
+			toggler.removeClass('active');
+		}
+	});
+});
+</script>
+<div id="accordion_sp1_id130" class="sp-accordion sp-accordion-style4">
+			<div class="toggler">
+			<span><span>Alone Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(331), Strand Rd, Ahlone Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Bahosi Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(770/774), Corner of Bogyoke Aung San Rd &amp; Phoe Yar Zar St, Lanmadaw Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Bayintnaung Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(Nya/48-49), Yuzana St, Bayintnaung Warehouse, Mayangone Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Bogyoke Aung San Market</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>Bogyoke Aung San Market, Bogyoke Aung San Rd, Pabaedan Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Botahtaung  Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(178), Bo Aung Kyaw Rd, Botahtaung Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>City Mart (Shwe Mya Yar)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>Shwe Mya Yar Housing, Mya Yar Kone St, Mingalartaungnyunt Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>City Mart - Thamine</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(144), Corner of Insein Rd &amp; Thamine Station St, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>City Mart- Market Place </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>Damazaydi Rd, Golden Villa, Bahan Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Diamond Plaza-Mandalay</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>(78)St, Diamond Plaza, Chanayetharzan Tsp, Mandalay.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Hlaing Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(41), Aye Yeik Mon Housing, Bayintnaung Rd, Hlaing Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Hlaingtharyar Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(1946), Ahsint Myint Rd, (6)Qtr, Zone (2), Hlaingtharyar Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Htaukkyant Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(51/Ka), Nat Yae Twin Ward, Yangon-Pyay Rd, Htauk Kyant, Mingalardone Tsp,Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Juction Square Shopping Mall</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>Kyun Taw St, Sanchaung Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kalaw Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p><span class="userContent">No. (5/10), 5 Quarter, Min Street, Kalaw, Southern Shane State.</span></p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kamayut  Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(615/1), Pyay Road, Kamayut Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyauktada Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(33/49), Corner of Bank St &amp; Maharbandoola Garden St, Kyauktada Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyeemyindaing Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(578), Lower Kyeemyindaing Rd(Near Bagayar), Panhlaing Ward, Kyeemyindaing Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyuntawlan  Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>Unit(1), Junction Square Compound, KyunTaw St, Sanchaung Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Lanmadaw Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>Block-B, Unit 01-06/07, Lanmadaw Condo Centre, Lanmadaw Rd, Latha Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (1)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(230), 80<sup>th</sup> St , Between (31<sup>st</sup> &amp;32<sup>nd</sup>)St, Near Zay Cho, Chanayetharzan Tsp, Mandalay.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (2)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>84<sup>th</sup> St, Between (26<sup>th</sup> &amp; 27<sup>th</sup>)St,near Zay Cho, Chanayetharzan Tsp, Mandalay.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (3) </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(131/A), Corner of (78<sup>th</sup> &amp;34<sup>th</sup>)St , ShweChiHtoe (East) Ward, Chanayetharzan Tsp, Mandalay.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (4) </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(23), Yangon-Mandalay St, Khin Saw Mu Corner, Chanmyaetharsi, Maharaungmyay Tsp, Mandalay.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (5) </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p style="text-align: justify;">No.(746), 30<sup>th</sup> St, Between(71x72)St, Chanayetharzan Tsp, Mandalay.</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (6) </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(Sa/80), Corner of 10<sup>th</sup> St &amp; Yangon –Mandalay Rd, Kywesaekan, Pyigyitakhun Tsp, Mandalay.</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (9)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No(35), (26th) St, Between (62 x 63), Pyay Gyi Myat Mhan Ward, Chan Aye Thar Zan Tsp, Mandalay.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch(12), Manawhari</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p><span class="userContent"><span class="text_exposed_show">No(Ga Gyi-2/71), 62 St, Between Manawhari St &amp; Sein Pan St, Chan Mya Thar Zi Tsp, Mandalay Division.</span></span></p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Meiktila Branch (2)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(104), Ta Da Oo Street, Pan Thein Tan Ward, Myoe Ma (4) Qtr, Meiktila City, Mandalay Division.
+
+ </p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mingalardone Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(170), Khayaypin St, (2/Kha) Qtr, Mingalardone Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mingalarzay Branch (2)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(267), Banyardala Rd, Ah Yoe Kone Ward, Tamwe Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Muse Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(Ha-1/1), Corner of Pyihtaungsu Road &amp; Khwar Nyo Street, Homon Ward, Muse.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Myaynigone Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(272), DanaHlaing Tower, Pyay Rd, Myaynigone(North), Sanchaung Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>North Okkalapa Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(315/ka-4), Ga Gyi Qtr, Thudamar Rd, North Okkalapa Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Nyaung Shwe Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.30, Lanmadaw St, Kanthar Ward, NyaungShwe.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pazuntaung Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(117/119), Golden Gate Tower,&nbsp; Upper Pazuntaung Rd, MingalartaungNyunt Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pyay (2), Ywar Bae Yat Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p><span class="userContent"><span class="text_exposed_show">No(150), Bogyoke Rd, Ywar Bae Ward, Pyay Tsp, Bago Division.</span></span></p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pyinoolwin Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(9/Kha-80), Corner of Station Rd &amp; Mandalay-Lashio Rd, Pyinoolwin.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Sein Gay Har Super Centre</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No(44), Pyay Road, Dagon Township, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Shwebonthar Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(316/324), Shwebonthar(Middle) Rd, Pabaedan Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Shwegonedaing Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(212), Building-A, Unit(101/201-202), Shwegonedaing Rd, Bahan Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>South Okkalapa Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(586), Thantumar St, (7)Qtr, South Okkalapa Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>SSC Hospital</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(7), East Shwegonedaing St, Bahan Tsp,&nbsp; Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Tamwe Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(24), U Chit Maung Housing, U Chit Maung Street, Tamwe Twsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Taunggyi Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(154), Corner of Bogyoke Aung San Rd &amp; Myat Lay St, Lanmadaw Ward, Taunggyi.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Taw Win Centre</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No (45),Pyay Road, Dagon Township, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Thingangyun Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(23), Ground Floor &amp; 1<sup>st</sup> Floor, Tosta Tower, Layhtuaungkan St, Thingangyun Tsp, Yangon.</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+	</div>			<div style="clear:both"></div>
+		</div>
+	</div>
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title">Branches</h2>
+			<script type="text/javascript">
+window.addEvent('domready', function() {
+	var myAccordion127 = new Accordion(document.getElements('#accordion_sp1_id127 .toggler'), document.getElements('#accordion_sp1_id127 .sp-accordion-inner'), {
+		opacity: true,
+				display:-1,
+				alwaysHide: true,		
+		onActive: function(toggler){
+			toggler.addClass('active');
+		},
+		onBackground: function(toggler){
+			toggler.removeClass('active');
+		}
+	});
+});
+</script>
+<div id="accordion_sp1_id127" class="sp-accordion sp-accordion-style4">
+			<div class="toggler">
+			<span><span>Ahlone Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(331), Strand Rd, Alone Tsp,Yangon.</p>
+</div>
+<div class="branch-right">
+<p>Ph :&nbsp; (+95)&nbsp; 1-218501, 218502, 218503, 218504</p>
+<p>Fax : (+95) 1-218512, 218514 </p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Amarapura Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(117),Sagaing-Mandalay Road, Oae Taw Ward, Yay Twin Nyi Naung Qtr, Amarapura Township, Mandalay.</p>
+</div>
+<div class="branch-right">
+<p>Ph :&nbsp; (+95) 02-59041,59786, 59734</p>
+<p>Fax : (+95) 02-59482, 59836</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Aungban Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.47, Pyi Htaung Su Road, (4) Quarter, Aungban.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 081-60708, 61055, 61057</p>
+<p>Fax: (+95) 081-61049-50-51-53</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Bago Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.237/238, Shwe Maw Daw Pagoda Road, Yonegyi Ward, Bago.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 052-21431, 21476, 21483, 21517,&nbsp; 21832, 21750</p>
+<p>Fax:&nbsp;(+95) 052-21576, 21591, 21602</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Bahan Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.271, Shwegonedaing Road, Middle Shwegonedaing Ward,Bahan Tsp, Yangon.</p>
+<p>Ph: (+95) 1-8603023~27, 8603019</p>
+<p>Fax: (+95) 1-8603021-22</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Bahosi Branch	</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No-(770/774), Corner of Bogyoke Aung San Road &amp; Phoe YarZar Street, Lanmadaw Tsp, Yangon.</p>
+<p>Ph: (+95) 1-218506~11</p>
+<p>Fax: (+95) 1-218516~19</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Bamaw Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.33, Bogyoke Road, West Tharsi Ward, Bamaw.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 074-50080, 50090, 50100</p>
+<p>Fax: (+95) 074-50060, 50070, 50077</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Bayintnaung Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(Nya-48/49),Yuzana Street,Bayintnaung Warehouse, Mayangone Tsp, Yangon.</p>
+</div>
+<div class="branch-right">
+<p>Ph : (+95) 1-682298-99, 682300</p>
+<p>Fax: (+95) 1-682304, 683034, 683038, 683299</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Bokalay Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+    <p>No(267), U Paing No(1), North, No(3) Ward, Phyarpone District, Bokalay.</p>
+</div>
+<div class="branch-right">
+    <p>Ph- (045) 45839, 45492, 45317,45630</p>
+    <p>Fax- (045) 45838</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Botahtaung Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.178, Bo Aung Kyaw Road, Botahtaung Tsp, Yangon.</p>
+</div>
+<div class="branch-right">
+<p>Ph : (+95)&nbsp; 1-385434-35, 385149, 385175</p>
+<p>Fax : (+95) 1-385436,385182,385189,385192</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Dawei Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+    <p>No.14, Neikban Street, Myoe Twin Ward, Dawei.</p>
+</div>
+<div class="branch-right">
+    <p>Ph: (+95) 059-23467~ 69, 23476</p>
+    <p>Fax: (+95) 059-23470-71- 72- 75</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Hinthada Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.49, Nat Maw Street,&nbsp; U yin (South) Ward, Hinthada.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 044-21868,21728</p>
+<p>Fax: (+95) 044-21905, 22188</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Hlaing Branch	</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.41, Aye Yeik Mon Housing , Bayintnaung Road, Hlaing Tsp, Yangon.</p>
+<p>Ph: (+95) 1-531089~94, 531098</p>
+<p>Fax: (+95) 1-531095~97</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Hlaingtharyar Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No-1946, Ahsint Myint Rd, 6 Qt, Zone 2, Hlaingtharyar Tsp, Yangon.</p>
+</div>
+<div class="branch-right">
+<p>Ph : (+95) 1-687970~ 72</p>
+<p>Fax: (+95) 1-687963 ~65</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Hledan Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">No(2/Ga). Yangon- Insein Road, (9) Ward, Hlaing Tsp, Yangon.</div>
+<p>Ph :(+95) 1- 2305089, 2305091, 2305092, 2305093, 2305094, 2305095, 2305096</p>
+<p>Fax :(+95) 1-2305097, 2305098</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Hpa-an Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+    <p>No.(88/4), (88/5), Corner of Zay Tan St &amp; Thazin St, Ward (2), Hpa-an.</p>
+</div>
+<div class="branch-right"><p>Ph: (+95) 058-23292-93</p>
+    <p>Fax: (+95) 058-23298-99, 23300</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Htaukkyant Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(51/Ka), Natyaytwin Ward, Yangon-Pyay Road, Htauk Kyant Township, Mingalardone.</p>
+</div>
+<div class="branch-right">
+<p>Ph : (+95) 01-600729~ 32-34</p>
+<p>Fax:&nbsp;(+95) 01-600735~37</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kalaw Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p><span class="userContent"> No. (5/10), 5 Quarter, Min Street, Kalaw, Southern Shane State.</span></p>
+</div>
+<div class="branch-right">
+<p>Ph :&nbsp; <span class="userContent">(+95) 081-50199, 50537</span></p>
+<p>Fax : <span class="userContent">(+95) 081-50499, 50500</span></p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kalay Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No. 3/3, Bogyoke Road, Pinlon Ward, Kalay.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 073-22742- 43</p>
+<p>Fax: (+95) 073-22746~ 49</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kamayut Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(615/1), Pyay Road, Kamayut Township, Yangon.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 01-538072,538073</p>
+<p>Fax: (+95) 01-532304-05-06</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kawthaung Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+    <p>No.205/1, Corner of Myanandar St Myoma Tada St, Annawa Ward, Kawthaung.</p></div>
+<div class="branch-right">
+    <p>Ph: (+95) 059-51938- 39, 51984</p>
+    <p>Fax: (+95) 059-51938- 39, 51984</p>
+    <p>IP Phone - 3332743, 081-9567391 (Thai Ph;)</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyaingtong Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(11/Kha), Zay Tan Gyi Street, Ward (3), Kyaingtong.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 084-21696, 21697</p>
+<p>Fax: (+95) 084-21694, 21695, 23546</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyaukpadaung Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(Sa/197-198), Yan Pyay Man Road, San Pya Ward, Kyaukpadaung.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 061-52179, 52196</p>
+<p>Fax: (+95) 061-51699, 51697</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyaukse Branch   </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.( Ma Ya /404), Ygn-Mdy Main Rd, Min Ward, Kyetminton Quarter, Kyaukse.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 066-50573-74</p>
+<p>Fax: (+95) 066-50996, 50287, 50451</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyauktada Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(33-49), Coner of Bank St &amp; Maharbandoola St, Kyauktada Twsp, Yangon.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 1-373952-53-54</p>
+<p>Fax: (+95) 1-373962-63,373955</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyeikhto Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(21/N), Bogyoke St, (North) Ward, Kyeik Hto.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 057-60413,60359</p>
+<p>Fax: (+95) 057-60569</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyimyindaing Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(578),Lower Kyeemyintdaing Rd (Near Bagayar), PanHlaing Qtr, Kyeemyintdaing Township, Yangon.</p>
+<p>Ph: (+95) 1-508145~ 50, 508154</p>
+<p>Fax: (+95) 1-508151~53</p>
+<p>&nbsp;</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyoepinkouk Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(1), Yangon-Pyay Main Rd, Pyin Htaung Twin Ward, Kyoe Pin Kouk Tsp, Bago Division.</p>
+</div>
+<div class="branch-right">
+<p>Ph&nbsp;&nbsp; : (053)51192, 51193, 51194</p>
+<p>Fax : (053)51196, 51197</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyuntawlan  Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>Unit (1),&nbsp; Junction Square Compound, Kyunn Taw St, Sanchaung Tsp, Yangon.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 1-532406-07-08, 515206</p>
+<p>Fax: (+95) 1-515207-08, 515213</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Lanmadaw Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>Block - B, Unit 01-06/07, Lanmadaw Condo Centre,Lanmadaw Road, Latha Tsp, Yangon.</p>
+<p>Ph: (+95) 1-212763~65, 212781, 212948, 220506, 395592-93, 210533, 212950-51, 210522, 212778-79</p>
+<p>Fax: (+95) 1-220510,210544, 212770-71, 212780</p>
+<p>&nbsp;</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Lashio Branch (1)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(Ga-12/1),Corner of Thazin St &amp; Bogyoke Road, Ward (3), Lashio.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 082-23803-04, 23889, 24043, 30213-14</p>
+<p>Fax: (+95) 082-23924, 23925, 30212</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Lashio Branch (2)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">&nbsp;</div>
+<p>No (26), Shan Zay Tan St, Theinni Rd, Region(7), (12)Ward, Lsahio Gyi, Lashio.</p>
+<p>Ph: (+95) 82- 22279, 22437, 22515, 22599, 22617, 22170</p>
+<p><span class="textexposedshow"><span style="font-size: 10pt; line-height: 115%; font-family: 'Zawgyi-One','sans-serif';"></span></span><span style="font-size: 10pt; line-height: 115%; font-family: 'Zawgyi-One','sans-serif';"></span>Fax: (+95) 82- 22742, 22748, 22749</p>
+<div class="branch-right">&nbsp;</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Loikaw Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.10/B, Kandayawati Road, Minsu Ward, Loikaw.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 083-22890~ 92-96-97, 21752</p>
+<p>Fax: (+95) 083-22893~ 95</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Magwe Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(464-465), Pyay Taw Tar St, Yan Myo Aung Ward, Magwe.</p>
+<p>Ph: (+95) 63-24057-58, 27719, 27723, 27573, 27721</p>
+<p>Fax: (+95) 63-24055-56, 27722, 27720</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (1)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No. 230, 80th St, Between 31st St 32nd St, Kitsnamahi Ward, Chanayetharzan Tsp, Mandalay.</p>
+<p>Ph: (+95) 2-30145~47, 35216, 34077, 60551, 60553, 35212, 31309</p>
+<p>Fax: (+95) 2-39358, 68960~62</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (10)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(313), 35 St, Between 82&amp; 83 St, Yadanarbonmi (East) Ward, Maharaungmyay Tsp,Mandalay Division.</p>
+</div>
+<div class="branch-right">
+<p>Ph :&nbsp; (+95) 02-30625, 30631, 30632</p>
+<p>Fax : (+95) 02-30623, 30624</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (11)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+    <p>No(829), 84 St, Between 42 and 45 St, Shwe Phone Shein Ward, Maharaungmyay Tsp,Mandalay Division.</p>
+</div>
+<div class="branch-right">
+    <p>Ph : (+95) 02-76450, 76451, 76453</p>
+    <p>Fax : (+95) 02-76452, 76454</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (12), Manawhari</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p><span class="userContent"><span class="text_exposed_show">No(Ga Gyi-2/71), 62 St, Between Manawhari St &amp; Sein Pan St, Chan Mya Thar Zi Tsp, Mandalay Division.</span></span></p>
+<p><span class="userContent"><span class="text_exposed_show">Ph: (+95) 2-82145~7, 80155<br></span></span></p>
+<p><span class="userContent"><span class="text_exposed_show"><span class="userContent"><span class="text_exposed_show">Fax: (+95) 2-82143, 82144<br></span></span></span></span></p>
+<p><span class="userContent"><span class="text_exposed_show"><br></span></span></p>
+</div>
+<div class="branch-right"><span class="userContent"><span class="text_exposed_show"><br> </span></span></div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (2)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>84 St, Between 26 <sup>th</sup> &amp; 27<sup>th</sup> St, (North) Zay Cho Apartment, Chanayetharzan Township, Mandalay.</p>
+<p>Ph: (+95) 2-30017~30020, 30150, 39354, 60552, 68965, 30149</p>
+<p>Fax: (+95) 30016, 68963-64, 30151</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (3)   </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(131/A), 30 St, Corner of 78<sup>th</sup> St &amp; 34<sup>th</sup> St, Shwe Chi Htoe (East) Ward, Chanayethar Zan Tsp, Mandalay.</p>
+<p>Ph: (+95) 2-61657-58,61713,71635, 71384,71721, 61510, 616112</p>
+<p>Fax: (+95) 2-71544,71595,71916,71291,72519,</p>
+<p>&nbsp;</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (4) </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(23/Kha)+30, 78<sup>th</sup> St, Corner of Khin Saw Mu,&nbsp; Chan Mya Thar Si (North) Ward,&nbsp;Mahar Aung Myay Twsp, Mandalay.</p>
+<p>Ph: (+95) 2-71170, 72402-03, 71056, 69397, 72401</p>
+<p>Fax: (+95) 2-72404,71068, 69981</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch(5) </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(746), U Pai (35),30<sup>th</sup> St, Between 71<sup>th</sup> &amp; 72<sup>th</sup> St, Chanayetharzan Ward, Mandalay.</p>
+<p>Ph: (+95) 2-74821, 74831, 74841, 74861</p>
+<p>Fax: (+95) 2-74834~37</p>
+<p>&nbsp;</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch(6)       </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(Hsa-80), Corner of 10<sup>th</sup> St &amp; Ygn-Mdy Rd, Chan Mya Thar Yar Ward, Pyigyitakhun Twsp, Mandalay.</p>
+<p>Ph: (+95) 2-59984~88, 59983, 70379</p>
+<p>Fax: (+95) 2-59980~82, 59989</p>
+<p>&nbsp;</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch(7)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(462), 80<sup>th</sup> St, Between of 28<sup>th</sup> St &amp; 29<sup>th</sup> St , Chanayetharzan (East) Ward, Chanayetharzan Tsp, Mandalay.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 02-30741-42-43</p>
+<p>Fax: (+95) 02-30750~ 53</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch(8)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(313), 28<sup>th</sup> St, Between of 83<sup>th</sup> St &amp; 84<sup>th</sup> St , Chanayetharzan (Middle) Ward, Chanayetharzan Tsp, Mandalay.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 02-30759-60-61</p>
+<p>Fax: (+95) 02-30764-65</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch(9)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(35), (26th) St, Between (62 x 63), Pyay Gyi Myat Mhan Ward, Chan Aye Thar Zan Tsp, Mandalay.</p>
+</div>
+<div class="branch-right">
+<p>Ph- (02) 66459, 73693</p>
+<p>Fax- (02) 69746</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Maungtaw Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>Corner of Minbar Gyi Road &amp; Bo Chin Pyan St, Quarter (1), Maung Daw.</p>
+<p>Ph : (+95) 43-55402, 55403</p>
+<p>Fax: (+95) 43-55034, 55401</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mawlamyine Branch (1)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(11-12/1,12/2),Lower Main Road, Phet tan Ward,Mawlamyaine.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 057-24915, 24940, 24943</p>
+<p>Fax: (+95) 057-24946, 24980, 26993</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mawlamyine Branch (2)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No. (75), U Paing no. (128/B), (128/D) Quarter, Zaykyo Ward, Mawlamyaine, Mon State.</p>
+</div>
+<div class="branch-right">
+<p>Ph - (057) 25856, 25857, 25858, 25994, 25989</p>
+<p>Fax - (057) 25859, 25860</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Meiktilar Branch (1)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No. (188),&nbsp; Yangon- Mandalay Road, Thiri Mingalar Ward, Meiktilar.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 064-24510 -11</p>
+<p>Fax: (+95) 064-24516 -17-18-19</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Meiktilar Branch (2)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(104), Ta Da Oo Street, Pan Thein Tan Ward, Myoe Ma (4) Qtr, Meiktila City, Mandalay Division.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 064- 25891-92,23826</p>
+<p>Fax: (+95) 064-23879,24642</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Minbuu Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(15),No.(4) Qtr,Tamar Tan Ward, Min Buu-Sa Ku Road, Min Buu.</p>
+<p>Ph:(+95) 65-21537~41, 21545-46</p>
+<p>Fax: (+95) 65-21542~44</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mingalar Zay(2), Banyardala Lan Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p><span class="userContent"><span class="text_exposed_show">No.(267), Banyardala Rd, Ah Yoe Kone Ward, Tamwe Tsp, Yangon.</span></span></p>
+</div>
+<div class="branch-right"><span class="userContent"><span class="text_exposed_show">Ph &nbsp; : (+95) 1-8619314-15-16-17-18-19<br> Fax&nbsp; : (+95) 1-8619320-21-22-23</span></span></div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mingalardone Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No-170, Khayaypin St, (2/Kha) Qt, Mingalardone Twsp, Yangon.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 1-637662~ 64, 635758,</p>
+<p>Fax: (+95) 1-637668~ 70</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mingalarzay Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left"><p>Building(1), Room No.(01-03-05), Set Yone Street, Mingalartaungnyunt Tsp,Yangon.</p></div>
+<div class="branch-right">
+    <p>Ph : (+95) 1-202854, 202867, 203595</p>
+    <p>Fax: (+95) 1-202853, 202873, 203567-68,8619240</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Moegoke Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.33, Bogyoke Road, Zay Haung Ward, Moegoke.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 086-21171~ 74-75-79</p>
+<p>Fax: (+95) 086-21176~ 80</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Monywa Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.20, Bogyoke Road, Yone Gyi Ward, Monywa.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 071-23678~ 80-85,09-400508311-22</p>
+<p>Fax: (+95) 071-23681-82-83-84</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mudon Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(67), Salmyaung Lanwa, Mawlamyine- Thanphyuzayat Rd, Myoma(1) Qt, Mudone</p>
+<p>Ph: (+95) 57-70328, 70313</p>
+<p>Fax: (+95) 57-70197, 70313</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Muse Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.Ha-1/1, Corner of Pyihtaungsu Road &amp; Khwar Nyo Street, Homon Ward, Muse.</p>
+<p>Ph: (+95) 82-50457, 52114-15, 51421, 06926882290 (China)</p>
+<p>Fax: (+95) 82-52113, 52116, 51423</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Myawaddy Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.Ga/48, Bayintnaung Rd, No.3 Qtr, Myawaddy.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 058-51151- 52- 53</p>
+<p>Fax: (+95) 058-50562, 50652, 50927</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Myaynigone Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left"><p>No. 272, Pyay Road, Danahlaing Tower, Myaynigone (North) Ward, Sanchaung Twsp,Yangon.</p></div>
+<div class="branch-right">
+    <p>Ph: (+95) 1-534829, 505496, 511940</p>
+    <p>Fax : (+95) 1-505494, 505495, 511928</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Myeik Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.13(B), Pyitawthar St, Seik Nge&nbsp; Ward, Myeik.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 059-41405,42346-47</p>
+<p>Fax: (+95) 059-41781, 41890, 42348</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Myingyan Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left"><p>No. 23, 12 Street, (8)Qtr, Myingyan.</p></div>
+<div class="branch-right">
+    <p>Ph: (+95) 066-22853-54-57-59, 09-425023241, 09-425023242</p>
+    <p>Fax: (+95) 066-22855, 22856, 22858</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Myitkyina Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.18, Corner of Khayaypin St &amp; Thakhinnatphay Road, Myoma Ward,Myitkyina.</p>
+<p>Ph: (+95) 74-23955, 23958, 21758, 21760</p>
+<p>Fax: (+95) 74-23954, 23956, 23957, 21925</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Naypyitaw Branch (1)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>Bank Apart (1), Oaktarathiri Twsp, Naypyitaw.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 067-417185-86-87-88-89, 417016</p>
+<p>Fax: (+95) 067-417146-47-48</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Naypyitaw Branch (2)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(259-A), Yarzahtarni Road, Ywar Kyouk Ward, Paung Laung (2), Pobba Thiri Myo Thit, Naypyitaw.</p>
+</div>
+<div class="branch-right">
+<p>Ph : (067) 25926, 25927</p>
+<p>Fax: (067) 25928-29-30-31</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Naypyitaw Branch(3), Tha Pyay Kone</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p><span class="userContent"><span class="text_exposed_show">No(644/645), Padauk Rd, between Padauk(3) St &amp; Tharaphi St, Tha Pyay Kone Market Rode, Tha Pyay Kone Ward, Zebu Thiri Tsp, Naypyitaw.</span></span></p>
+</div>
+<div class="branch-right">
+<p>Ph :&nbsp; (+95) 67-8108031~ 35</p>
+<p>Fax : (+95) 67-8108037~ 40</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>North Okkalapa Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No (315/ka-4), Ga Gyi Qtr, Thudamar St, North Okkalapa Township, Yangon.</p>
+<p>Ph: (+95) 1-692479~81</p>
+<p>Fax: (+95) 1-692476~78</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Nyaungoo Branch  </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>Junction Of ANaw Yahtar Rd &amp; NyaungOo- Kyaukpatung Rd, (3)Qtr, Aungtheithti Ward,NyaungOo.</p>
+<p>Ph: (+95) 61-61065, 61089, 60773</p>
+<p>Fax: (+95) 61-60013, 60988</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Nyaungshwe Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No-30, Lanmadaw St, Kanthar Ward, NyaungShwe.</p>
+</div>
+<div class="branch-right">
+<p>Ph :&nbsp; (+95) 081-209894~ 98</p>
+<p>Fax : (+95) 081-209890~ 93</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pakokku Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No. 6, Independent St, (8) Quarter, Pakokku.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 062-21982, 22184,</p>
+<p>Fax: (+95) 062-21981, 21983,21984</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pathein Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.232, Mahabandula Road, (3) Quarter, Pathein.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 042-25852, 25853, 25854</p>
+<p>Fax: (+95) 042-25858, 25859, 25860</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pazuntaung Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.117/119, Golden Gate Tower, Upper Pazuntaung Road, Mingalartaungnyunt Tsp, Yangon.</p>
+<p>Ph: (+95) 1-299774, 299794</p>
+<p>Fax: (+95) 1-299132, 299903, 201939</p>
+<p>&nbsp;</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pharkant Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No. (Nga/13), No(1) Rd, Ngapyawtaw Ward, Pharkant.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 074-70864, 70913-14</p>
+<p>Fax: (+95) 074-70912, 70043, 70036-37</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pyawbwe Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(168), Maharbandoola Rd, Myinn Bat Qtr, Pyawbwe.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp;&nbsp; (+95) 064-48001, 48002</p>
+<p>Fax : (+95) 064-48003-04-05</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pyay Branch  (1)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No. 201, Lanmadaw St, Shweku Ward, Pyay.</p>
+</div>
+<div class="branch-right">
+<p>Ph&nbsp; : (+95) 53-24834, 24836, 24839</p>
+<p>Fax: (+95) 53-24937, 24938, 24947</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pyay Branch (2), Ywar Bae Yat </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p><span class="userContent"><span class="text_exposed_show"> No(150), Bogyoke Rd, Ywar Bae Ward, Pyay Tsp, Bago Division.</span></span></p>
+<p>Ph &nbsp; : (+95)<span class="userContent"><span class="text_exposed_show">53-24265, 24376, 24554, 24847</span></span><span class="userContent"><span class="text_exposed_show"></span></span></p>
+<p><span class="userContent"><span class="text_exposed_show">Fax&nbsp; : (+95)<span class="userContent"><span class="text_exposed_show">53-25188, 25232, 25510</span></span></span></span></p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pyinmana Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.74, Bo Tout Htein St, Mingalar Qt,Pyinmana.</p>
+</div>
+<div class="branch-right">
+<p>Ph : (+95) 067-26841~ 44</p>
+<p>Fax : (+95) 067-26846~ 49</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Pyinoolwin Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(9/B), Corner of Station St &amp; Lashio-Mdy Road, Zone(2), (3) Qtr, Pyinoolwin.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 085-28056- 57-58</p>
+<p>Fax: (+95) 085-28062-63-64</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Sagaing Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(120), Mandalay- Monywa- Shwebo St, Pabaetan Ward, Sagaing.</p>
+</div>
+<div class="branch-right">
+<p>Ph : (+95) 072-22904~ 06-08-09-10</p>
+<p>Fax : (+95) 072-22911-12, 22907</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Saw Bwar Gyi Kone Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p><span class="userContent">No(86/87), Lan Thit St, Nant Thar Kone Ward, Saw Bwar Gyi Kone, Insein Tsp, Yangon.</span></p>
+</div>
+<div class="branch-right">
+<p>Ph: <span class="userContent">(+95) 01-64794142~ 44, 647947, 647948</span></p>
+<p>Fax: <span class="userContent">(+95) 01-647945-46, 647933</span></p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Shwebo Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(6/361), Lanmadaw St, No (6) Qt, ShweBo.</p>
+<p>Ph: (+95) 75-22801~04, 22807</p>
+<p>Fax: (+95) 75-22805-06, 22808~10</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Shwebonthar Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left"><p>No.316/324, Shwebonthar(Middle) Road, Pabaedan Tsp,Yangon.</p></div>
+<div class="branch-right">
+<p>Ph : (+95) 1-372874~ 76</p>
+<p>Fax : (+95) 1-372823~ 26</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Shwegonedaing Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No. 212, Building- A, Unit (101-102 / 201-202),Shwegonedaing Road, Bahan Tsp, Yangon.</p>
+<p>Ph: (+95) 1-558251~54, 552779</p>
+<p>Fax: (+95) 1-558255~57</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Sittwe Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+    <p>No. 10, Lamagyi Road, Yupa(South) Ward, Sittwe.</p>
+</div>
+<div class="branch-right">
+    <p>Ph: (+95) 043-22142-43-44</p>
+    <p>Fax: (+95) 043-22145, 23715, 23806</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>South Dagon Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No-13, Coner Of Union Rd &amp; Mya Sabai St, 24Qtr, Near SouthDagon&nbsp; Industry Zone. SouthDagon, Yangon.</p>
+<p>Ph: (+95) 1-8100636-37</p>
+<p>Fax: (+95) 1-8100638~41</p>
+<p>&nbsp;</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>South Okkalapa Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(586), Thanthumar Rd , (7)Qtr, South Okkalapa Township, Yangon.</p>
+<p>Ph: (+95) 1-572320, 8500704</p>
+<p>Fax: (+95) 1-8500703, 563080, 569370</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Tachileik Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.1/2, Cherry Road, Tarlot Quarter, Tachileik.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 084-51805-06, 52976</p>
+<p>Fax: (+95) 084-51802-03-04, 53500-01</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Tamwe Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(24), U Chit Maung Housing, U Chit Maung Street, Tamwe Twsp,</p>
+<p>Yangon.</p>
+<p>Ph: (+95) 1-8603923~29</p>
+<p>Fax: (+95) 1-8603930~32</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Taunggyi Branch (1)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.154, Corner of Bogyoke Aung San Road &amp; Myat Lay St, Lanmadaw Ward, Taunggyi.</p>
+<p>Ph: (+95) 81-2124761, 2124763-64, 2121974, 2121796, 2122410, 2124334-35</p>
+<p>Fax: (+95) 81-2121593, 2124094, 2124161, 2124336, 2124338</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Taunggyi Branch (2)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(10/A), Myoema Zay (West) Rd, Haw Kone Qtr,Taunggyi.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 81-202082-83-84</p>
+<p>Fax: (+95) 81-202078-80</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Taungoo Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.362, Corner of Kaytumati St &amp; Yeik Thar St, Ygn-Mdy Road, Taungoo.</p>
+<p>Ph: (+95) 54-24051~55, 26001</p>
+<p>Fax: (+95) 54-26002~04</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Thahtone Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(69), Yangon-Mawlamyine Road, Phayar Kyee (South) Ward,Tha Htone.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 57-41155-56- 57-58</p>
+<p>Fax: (+95) 57-41159-60</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Thamine Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p><span class="userContent"><span class="text_exposed_show"> No(6/D-2), Kyeik Wine Pagoda Rd, Thamine Ward, Mayangone Tsp, Yangon.</span></span></p>
+</div>
+<div class="branch-right">
+<p>Ph :&nbsp; <span class="userContent"><span class="text_exposed_show">(+95) 1- 966905-52-53-54-55-56</span></span></p>
+<p>Fax : (+95) 1-<span class="userContent"><span class="text_exposed_show">9669047-48-49-50</span></span></p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Thandwe Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p><span class="userContent">No.(248), Ward(3), Corner of Bayintnaung &amp; Thitsar St, Thandwe, Rakhine State.</span></p>
+</div>
+<div class="branch-right"><span class="userContent">Ph - (+95)) 43-65551-52-53-54<br> Fax - (+95) 43-65556-57</span></div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Thingangyun Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(23),Ground Floor &amp; 1st Floor, Tosta Tower, Layhtaungkan Rd,Thingangyun Tsp, Yangon.</p>
+<p>Ph: (+95) 1-573457~ 62, 561858-59</p>
+<p>Fax: (+95) 1-573462-63-65-67-68</p>
+</div>
+<div class="branch-right-two">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Thuwana Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(5), Thuwana Developing Construction Housing, Thanthumar Road, Thingangyun Township, Yangon.</p>
+<p>Ph :&nbsp; (+95) 1-563896, 563693, 563529</p>
+<p>Fax : (+95) 1-563892, 563668</p>
+</div>
+<div class="branch-right">
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Yamaethin Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No(102), Aung Mingalar Ward, (28) Qtr, Yamaethin.</p>
+</div>
+<div class="branch-right">
+<p>Ph : (+95) 64-40599,40779</p>
+<p>Fax : (+95) 64- 40761,40762</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+	</div>			<div style="clear:both"></div>
+		</div>
+	</div>
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title">Changers</h2>
+			<script type="text/javascript">
+window.addEvent('domready', function() {
+	var myAccordion129 = new Accordion(document.getElements('#accordion_sp1_id129 .toggler'), document.getElements('#accordion_sp1_id129 .sp-accordion-inner'), {
+		opacity: true,
+				display:-1,
+				alwaysHide: true,		
+		onActive: function(toggler){
+			toggler.addClass('active');
+		},
+		onBackground: function(toggler){
+			toggler.removeClass('active');
+		}
+	});
+});
+</script>
+<div id="accordion_sp1_id129" class="sp-accordion sp-accordion-style4">
+			<div class="toggler">
+			<span><span>Bahosi Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No-(770/774), Corner of Bogyoke Aung San Road &amp; Phoe YarZar Street, Lanmadaw Tsp, Yangon.</p>
+<p>Ph:&nbsp; (+95) 01-218507~08(Ext-117).</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Dawei Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No(14), Neikban Street, Myoetwin Qtr, Dwei.</p>
+<p>Ph : (+95) 059-23467-69,23474-76</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Haeho Airport</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>Haeho Airport, Haeho.</p>
+<p>Ph : (+95) 9-49352673</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kamayut Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(615/1), Pyay Road, Kamayut Township, Yangon.</p>
+</div>
+<div class="branch-right">
+<p>Ph:&nbsp; (+95) 01-538080(Ext-107, 108)</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kawthaung Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No(205/A), Bogyoke St, Byintnaung Qtr, Kawthaung.</p>
+<p>Ph : (+95) 059- 51938-39 51984</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Kyauktada Branch </span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No (33-49), Corner of Bank St and Mahabandoola&nbsp; Road, Kyauktadar Township, Yangon.</p>
+<p>Ph: (+95) 1-373965</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (1)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No. 230, 80th St, Between 31st St 32nd St, Kitsnamahi Ward, Chanayetharzan Tsp, Mandalay.</p>
+<p>Ph: (+95) 2-30147,34077 (Ext-21)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (2)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>84 St, Between 26 <sup>th</sup> &amp; 27<sup>th</sup> St, (North) Zay Cho Apartment, Chanayetharzan Township, Mandalay.</p>
+<p>Ph: (+95) 2-39354, 30019</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (4)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.23/Kha, 78St, KhinSawMu Corner, Chanmyatharsi (North) Ward,&nbsp; Maharaungmyay, Mandalay.</p>
+<p>Ph: (+95) 02-72402, 71170, 69981</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (5)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(746), U Pai (35),30<sup>th</sup> St, Between 71<sup>th</sup> &amp; 72<sup>th</sup> St, Chanayetharzan Ward, Mandalay.</p>
+<p>Ph: (+95) 2-74821, 74831</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay Branch (7)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.(462), 80<sup>th</sup> St, Between of 28<sup>th</sup> St &amp; 29<sup>th</sup> St , Chanayetharzan (East) Ward, Chanayetharzan Tsp, Mandalay.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 2-30745</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Mandalay International Airport</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>Mandalay International Airport, Mandalay Division.</p>
+<p>Ph: (+95) 2-27066</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>NaungShwe Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No (30), U Paing No.(95), Lamadaw Road, Kanthar Qtr, Naung Shwe.</p>
+<p>Ph: (+95) 081-209890</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Naypyitaw Branch (1)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>Bank Apart (1), Oaktarathiri Twsp, Naypyitaw.</p>
+<div class="branch-right">
+<p>Ph: (+95) 67-417185~89, </p>
+<p>Fax: (+95) 67-417195</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Nyaung Oo Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No(13/C),Junction of Anaw Yahtar Rd, Naung Oo -Kyoukpadaung Rd, Nyaung Oo.</p>
+<p>Ph: (+95) 61- 61089, 61065</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Shwegonedaing Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No. 212, Building- A, Unit (101-102 / 201-202),Shwegonedaing Road, Bahan Tsp, Yangon.</p>
+<p>Ph:&nbsp; (+95) 01-558254</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Sittwe Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(10), Main Rd, South Rupa Quarter, Sittwe.</p>
+<p>Ph: (+95) 43-51805,51806</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Tachileik Branch</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<div class="branch-left">
+<p>No.1/2, Cherry Road, Tarlot Quarter, Tachileik.</p>
+</div>
+<div class="branch-right">
+<p>Ph: (+95) 084-51805-06, 52976</p>
+<p>&nbsp;</p>
+</div>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Taunggyi Branch (1)</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(154), Corner of Bogyoke Aung San St &amp; Myat Lay St,Lanmadaw Ward, Taunggyi.</p>
+<p>Ph: (+95) 081-202140</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Thein Phyu Exchange Counter</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>No.(99-103), Thein Phyu Road, Botahtaung Township, Yangon.</p>
+<p>Ph: (+95) 9-73-211683</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+			<div class="toggler">
+			<span><span>Yangon International Airport</span></span>
+		</div>
+		<div class="clr"></div>
+		<div class="sp-accordion-inner">
+			<p></p>
+						<p>Gate (2),(3) , Yangon International Airport Building, Mingalardon Township, Yangon.</p>
+<p>Ph : (+95) 9-73-220141 (Arrival)</p>
+<p>Ph: (+95) 9-73-220140 (Departure)</p>			<div class="clr"></div>
+						<p></p>
+		</div>
+	</div>			<div style="clear:both"></div>
+		</div>
+	</div>
+</div>		</div>
+	
+                                            
+                                                    
+                                                <div id="tabs"> 
+                                         </div>
+                                  <div id="exchange-rate">
+                                                                                                               
+                                                 		<div class="moduletable exchange">
+					<p class="mid-text heading">Exchange Rate</p>
+					<table style="width: 247px; height: 126px;" id="tbl-exchange">
+<tbody>
+<tr><th scope="col">Unit</th>
+<td><img alt="USA-flag" src="/images/artical_img/USA-flag.gif" height="13" width="25"><span class="unit">USD</span></td>
+<td><img alt="Singapore-flag" src="/images/artical_img/Singapore-flag.gif" height="17" width="25"><span class="unit">SGD</span></td>
+<td><img src="/images/artical_img/Euro-flag.gif" alt="Euro-flag" height="17" width="25"><span class="unit">EUR</span></td>
+<td><img src="/images/artical_img/fec.gif" alt="fec" height="16" width="25"><span class="unit">FEC</span></td>
+</tr>
+<tr><th scope="col">BUY</th>
+<td>863</td>
+<td>688</td>
+<td>1123
+<p>&nbsp;</p>
+</td>
+<td>863</td>
+</tr>
+<tr><th scope="col">SELL</th>
+<td>871</td>
+<td>697</td>
+<td>1138</td>
+<td>871</td>
+</tr>
+</tbody>
+</table>
+<p><span class="hd-date">8th Mar 2013</span></p>		</div>
+			<div class="moduletable customjt">
+					<div id="calculator">
+<p class="mid-text heading">Calculator</p>
+<div class="jt-code customjt">
+<div class="selectopt">
+<form id="myForm" action="blah.php" method="get" name="myForm">
+			<select name="selectName" size="1" onchange="showDiv(this.value);resetForm()" class="selecttext" id="website1">
+            <option value="" selected="">Choose ...</option>
+				<option value="one">Fixed</option>
+				<option value="two">Saving</option>
+			</select>
+		</form>
+</div>
+<div class="calculateform">		
+<form method="post" id="calculate" name="calculate">
+<span>Amount</span>
+<input type="text" name="Deposit" value="" onblur="Current Deposit" class="inputtext"><br>
+
+<div id="one" class="hiddenDiv">
+<span>Maturity</span>
+<select name="fixedterms" class="inputtext modify" id="website2">
+<option selected="">Months to Grow
+</option><option>3 months 
+</option><option>6 months 
+</option><option>9 months 
+</option><option>12 months 
+</option><option>15 months 
+</option><option>18 months
+</option><option>21 months
+</option><option>24 months 
+</option><option>27 months 
+</option><option>30 months 
+</option><option>33 months 
+</option><option>36 months 
+</option></select>
+<br>
+<input type="hidden" class="inputtext" name="FixRate" value="">
+</div>
+
+<div id="two" class="hiddenDiv">
+<span>Maturity</span>
+<select name="Terms" class="inputtext modify" id="website3">
+<option selected="">Months to Grow
+</option><option>1 months 
+</option><option>2 months 
+</option><option>3 months 
+</option><option>4 months 
+</option><option>5 months 
+</option><option>6 months
+</option><option>7 months
+</option><option>8 months 
+</option><option>9 months 
+</option><option>10 months 
+</option><option>11 months 
+</option><option>12 months 
+</option></select>
+<br> 
+<label class="rate">Yearly Rate is 8%</label> 
+</div>
+<input type="button" class="reset" value="" onclick="clear_form_elements(this.form)">
+<input type="BUTTON" name="Price" value="" onclick="compute(this.form)" class="btn">
+<br>
+<p>
+<label class="future">Estimated Value : </label><input type="text" size="13" readonly="readonly" name="T_Price" value="" class="nocolor">
+</p>
+</form>
+</div></div>
+</div>
+<div style="display:none"><a href="http://jtemplate.ru" title="Jtemplate.ru - free templates and extensions for Joomla" target="_blank">jtemplate.ru - free extensions Joomla</a></div>
+
+		</div>
+	
+                                    
+                                            
+                                   </div>
+ 
+                  <!--midrh-menu--></div>
+                                   
+                                                                                  <div id="quick-link">                                
+                                                 		<div class="moduletable">
+					<p class="mid-text heading">Useful Link</p>
+					 <form name="jlink94" action="" method="post"><p><select name="country" id="add" size="1" onchange="this.form.elements[&quot;submit&quot;].click();"><option value="">Quick Link</option><option value="http://www.kbzbank.com/index.php?option=com_content&amp;view=article&amp;id=265"> Foreign Currency Account</option><option value="http://www.kbzbank.com/index.php?option=com_content&amp;view=article&amp;id=239&amp;Itemid=532&amp;lang=en"> International Remittance</option></select><input type="submit" style="visibility:hidden" id="submit" name="submit" onclick="golink('parent',94);return false;" value="Go"></p></form></div>
+		</div>
+	
+                                    
+                                          
+                                         <div id="sidebar-menu">
+                                         
+                                    <!--quick-link--></div>  
+                                     
+                                    <!--quick-link--></div>
+                            <!--midrh-content--></div>
+                        <!--midlf-content--></div>
+                        <div id="footer-menu">
+                                  <div class="fleft">                          
+                                <div id="fmenu">                   
+                                                                                    
+                                      		<div class="moduletable_menu">
+					<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item490"><a href="/terms-conditions.html">Terms &amp; Conditions</a></li><li id="current" class="selected item495"><a href="/privacy-policy.html">Privacy Policy</a></li><li class="item547"><a href="/website-disclaimer.html">Website Disclaimer</a></li><li class="item546"><a href="/correspondance-banks.html" target="_blank">Correspondent Banks</a></li></ul>
+		</div>
+	
+                                
+                                  
+                                 </div>
+                                <div id="copyright">
+                                                                                          
+                                      		<div class="moduletable">
+					<div class="footer2">Copyright © KANBAWZA Bank LTD. All rights reserved 2013 
+	<br>
+    	<a href="http://www.medialane.net/">Another Creation of Media Lane, The Creative Agency.</a>
+    </div>
+		</div>
+	
+                                
+                                         
+                                <!--address--></div>
+                                </div>
+                                 <div style="float: left;width: 145px;">
+                                 
+                                 </div>
+                                 <div style="float: left;width: 145px;">
+                                 
+                                </div>
+                                 <div id="rh-cologo">
+                                                                                             
+                                      		<div class="moduletable weblink">
+					<p class="mid-text heading">Members of KBZ Group</p>
+					<p><a href="http://www.airkbz.com/"><img src="/images/logo/Kanbawza.png" alt="kbz"></a></p>
+<p><a href="http://www.kbzfc.com/"><img src="/images/logo/kbz.png" alt="kbz"></a></p>
+<p><a href="http://www.maiair.com/"><img src="/images/logo/MAI.png" alt="kbz"></a></p>		</div>
+	
+                                
+                                   
+                                <!--rh-cologo--></div>
+                        <!--footer-menu--></div>
+                        <div style="clear: both;">
+                        <div class="footer-bg"></div>
+
+                </div>
+        <!--wrapper--></div>
+        <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19163185-48']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</body></html>
