@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ejpix.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225053522id_/http%3A//www.ejpix.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ejpix.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308061036id_/http%3A//www.ejpix.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Ejpix Privacy Policy
 
@@ -15,9 +15,6 @@ An example of this is "10206720" which can be seen in the url of
 . 
 
 http://www.ejpix.com/photos/instagram-user-photos.php?user=10206720 « this is the number we need.
-
-*** **We'd like to wish you a holiday full of joy and good cheer!**  
-Our office will be **closed Dec. 24th - Jan 2nd for the Holidays**. Please allow a few days to fulfill requests during that time.
 
 Please click [_here_](http://www.contactme.com/4ef7a0a873bcf40001019a06?locale=en&u=http%3A%2F%2Fwww.ejpix.com%2F&f=4ef7a0a873bcf40001019a06&ha=left&va=middle&tx=Contact%20Us&c=003C68&vid=13519f4130a58cb) to send us the USER ID you want removed.
 
@@ -36,9 +33,6 @@ We are committed to conducting our business in accordance with these principles 
 
   
   
-
-
-[ ](https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.ejpix.com%2Fprivacy-policy.php) [](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.ejpix.com%2Fprivacy-policy.php&media=http://www.ejpix.com/images/ejpix-75-200-min.jpg&description=Ejpix%20Privacy%20Policy) [ ](http://plus.google.com/share?url=http%3A%2F%2Fwww.ejpix.com%2Fprivacy-policy.php) [ ](https://twitter.com/share?url=http%3A%2F%2Fwww.ejpix.com%2Fprivacy-policy.php) [](https://www.tumblr.com/login?s=&t=ejpix.com&u=http%3A%2F%2Fwww.ejpix.com%2Fprivacy-policy.php) [ ](http://www.ejpix.com/travel-widgets-for-blogs/subscribe-via-rss.php)
-
+  
   
 
