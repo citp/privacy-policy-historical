@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the girlsgames123.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224163242id_/http%3A//www.girlsgames123.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgames123.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308094540id_/http%3A//www.girlsgames123.com/page/privacy) for the most accurate reproduction.*
 
 # Girl Games, Games for Girls, Play Girls Games!
 
-[RECENTLY PLAYED](https://web.archive.org/recently-played) [MY FAVE GAMES](https://web.archive.org/favorited)
+[RECENTLY PLAYED](http://www.girlsgames123.com/recently-played) [MY FAVE GAMES](http://www.girlsgames123.com/favorited)
 
 GAME CATEGORIES
 
-[New Girl Games](https://web.archive.org/?new) [Adventure](https://web.archive.org/games/adventure) [Animal](https://web.archive.org/games/animal) [Celebrity](https://web.archive.org/games/celebrity) [Cooking](https://web.archive.org/games/cooking) [Doll](https://web.archive.org/games/doll) [Dress Up](https://web.archive.org/games/dress-up) [Fun](https://web.archive.org/games/fun) [Makeover](https://web.archive.org/games/makeover) [Music](https://web.archive.org/games/music) [Painting](https://web.archive.org/games/painting) [Puzzle](https://web.archive.org/games/puzzle) [Simulation](https://web.archive.org/games/simulation) [Slacking Games](https://web.archive.org/games/fun/exclusive-games) [All Categories](https://web.archive.org/games/all) [Old Games](https://web.archive.org/old)   
+[New Girl Games](http://www.girlsgames123.com/?new) [Adventure](http://www.girlsgames123.com/games/adventure) [Animal](http://www.girlsgames123.com/games/animal) [Celebrity](http://www.girlsgames123.com/games/celebrity) [Cooking](http://www.girlsgames123.com/games/cooking) [Doll](http://www.girlsgames123.com/games/doll) [Dress Up](http://www.girlsgames123.com/games/dress-up) [Fun](http://www.girlsgames123.com/games/fun) [Makeover](http://www.girlsgames123.com/games/makeover) [Music](http://www.girlsgames123.com/games/music) [Painting](http://www.girlsgames123.com/games/painting) [Puzzle](http://www.girlsgames123.com/games/puzzle) [Simulation](http://www.girlsgames123.com/games/simulation) [Slacking Games](http://www.girlsgames123.com/games/fun/exclusive-games) [All Categories](http://www.girlsgames123.com/games/all) [Old Games](http://www.girlsgames123.com/old)   
 |  |  |    
 
 
