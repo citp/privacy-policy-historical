@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invanto.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011031159id_/http%3A//www.invanto.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invanto.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308105815id_/http%3A//www.invanto.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Invanto
 
