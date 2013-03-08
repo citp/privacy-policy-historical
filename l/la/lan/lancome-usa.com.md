@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancome-usa.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006160647id_/http%3A//www.lancome-usa.com/Privacy/privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancome-usa.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308082807id_/http%3A//www.lancome-usa.com/Privacy/privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy - Lancome Policies On Information Collected From Website
 
