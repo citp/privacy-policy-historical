@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutads.info privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207171032id_/http%3A//www.aboutads.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutads.info privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308110348id_/http%3A//www.aboutads.info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | www.aboutads.info
 
