@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studybass.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113113202id_/http%3A//www.studybass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studybass.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308192726id_/http%3A//www.studybass.com/privacy) for the most accurate reproduction.*
 
 # StudyBass.com Privacy Policy
 
