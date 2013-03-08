@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the mirrorupload.net privacy policy that was archived on 2012-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121212064447id_/http%3A//www.mirrorupload.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mirrorupload.net privacy policy that was archived on 2013-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130308183337id_/http%3A//www.mirrorupload.net/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>MirrorUpload.net - Privacy Policy</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8;">
 <meta name="description" content="MirrorUpload.net uploads your files simultaneously to multiple file hosting sites. We upload files to top sharing hosts including Rapidshare, MediaFire, Free, DepositFiles, Hotfile, Filefactory, UpToBox, Sendspace, Megashare etc...">
@@ -12,64 +12,84 @@
 <meta name="msvalidate.01" content="162A7E8B0F84929489B190AC68A9734C">
 <meta http-equiv="content-language" content="en">
 <base href="http://www.mirrorupload.net/">
+<!---- Current server : www1 ---->
 <link rel="shortcut icon" href="favicon.ico">
-<link href="http://cdn.mirrorupload.net/css/style.css" rel="stylesheet" type="text/css">
-<link href="http://cdn.mirrorupload.net/css/colorbox.css" rel="stylesheet" type="text/css" media="screen">
-<link href="http://cdn.mirrorupload.net/css/screensmall.css" rel="stylesheet" type="text/css" media="screen">
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://cdn.mirrorupload.net/js/accordion.js"></script>
-<script type="text/javascript" src="http://cdn.mirrorupload.net/js/jquery.filestyle.mini.js"></script>
-<script type="text/javascript" src="http://cdn.mirrorupload.net/js/animatedcollapse.js"></script>
-<script type="text/javascript" src="http://cdn.mirrorupload.net/js/snowinjs.js"></script>
+<link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
+	
+<link href="css/jquery-ui-1.9.1.custom.css" rel="stylesheet">
+<link rel="stylesheet" href="http://blueimp.github.com/jQuery-Image-Gallery/css/jquery.image-gallery.min.css">
+<link rel="stylesheet" href="css/toolbar.upload.css">
+<!-- Shim to make HTML5 elements usable in older Internet Explorer versions -->
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	
+<link href="http://www.mirrorupload.net/css/colorbox.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.mirrorupload.net/css/screensmall.css" rel="stylesheet" type="text/css" media="screen">
 
-
-		<script type="text/javascript" src="http://cdn.mirrorupload.net/js/jquery.colorbox.js"></script>
-
-		<script>
-			$(document).ready(function(){
-				$(".hosters-stats").colorbox({iframe:true, innerWidth:425, innerHeight:190});
-				$(".login").colorbox({iframe:true, innerWidth:425, innerHeight:180});
-			});
-		</script>
-
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.mirrorupload.net/js/javascript.js"></script>
+<script type="text/javascript" src="http://www.mirrorupload.net/js/accordion.js"></script>
+<script type="text/javascript" src="http://www.mirrorupload.net/js/jquery.filestyle.mini.js"></script>
+<script type="text/javascript" src="http://www.mirrorupload.net/js/animatedcollapse.js"></script>
+<script type="text/javascript" src="http://www.mirrorupload.net/js/jquery.colorbox.js"></script>
 
 
 	<noscript><meta http-equiv="refresh" content="0;URL=javascript.html"></noscript>
 
 </head>
-<body style="height:100%;">
+<body class="home" style="height:100%;">
+
 <div id="container">
-<div id="site">
-	<script type="text/javascript">
-        window.onload = function(){
-            snow.init(50);
-        };
-    </script>
 
-<div id="header">
-	<a href="http://www.mirrorupload.net/" class="logo"></a>      
-	<div id="navigation">
-		<div id="navright">
-		<ul class="menu1">
-					<li><a href="login.html" class="login">Login</a></li>
-			<li><a href="signup.html">Sign Up</a></li>
-			<li><a href="forgot.html">Forgotten your password ?</a></li>
-				</ul>
-		<div id="separateur"></div>
-		<ul class="menu2">
-		<li><a href="http://www.mirrorupload.net/">Home</a></li>
-		<li><a href="remote.html">Remote</a></li>
-		<li><a href="news.html">News</a></li>
-		<li><a href="faq.html">F.A.Q</a></li>
-		<li><a href="load.html">Load</a></li>
-		<li><a href="contact.html">Support</a></li>
-		</ul>
+<div id="wrapper">
+	<div id="header-login">
+		<div class="centered-wrapper">
+			<div id="language">
+								<a href="/privacy.html?language=en"><img src="images/en.gif"></a>
+				<a href="/privacy.html?language=fr"><img src="images/fr.gif"></a>
+			</div>
+							<div id="login-input">
+					<form action="" method="post">
+						<input type="text" name="login" placeholder="Username">
+						<input type="reset" class="forgot" value="?" onclick="window.location.href = 'forgot.html';return false;">
+						<input type="password" name="pass" placeholder="Password">
+						<input type="submit" class="login" value="Connect">
+						<input type="reset" class="signup" value="Sign Up" onclick="window.location.href = 'signup.html';return false;">
+					</form>
+				</div>
+					</div>
 	</div>
-	</div>   
-</div>   
+	<div class="bottomtop-shadow"></div>
+	<div class="top-shadow"></div>
+	<div id="header">
+		<div class="centered-wrapper">
+			<div class="one-third">
+				<div class="logo"><a href=""></a></div>
+			</div><!--end one-third-->
+			
+			<div class="two-third column-last">		
+				<div id="navigation">
+					<ul id="mainnav">
+						<li>
+															<a href=""><span>HOME</span></a></li>
+													<li><a href="remote.html"><span>REMOTE</span></a></li>
+						<li><a href="premium.html"><span>PREMIUM</span></a></li>
+						<li><a href="news.html"><span>NEWS</span></a></li>						
+						<li><a href="faq.html"><span>F.A.Q</span></a></li>
+						<li><a href="contact.html"><span>SUPPORT</span></a></li>
+					</ul>
+				</div><!--end navigation-->
+			</div><!--end two-third-->
+		<div class="clear"></div>			
+		</div><!--end centered-wrapper-->
+	</div>	
 
-<div id="corps">
+	<div class="bottomtop-shadow"></div>
+	
+	<script src="http://www.pubdirecte.com/script/pop.php?id=55236&amp;ref=29150"></script>
+	<div id="corps" class="centered-wrapper">
+
 
 <h1>Privacy Policy</h1>
 
@@ -169,67 +189,79 @@
 
 </div>
 
+		<div class="clear"></div>
+
+	</div><!--end centered-wrapper-->
+
 </div>
-</div>
+
+
+<div id="footer-bottom">
+
+
+<div style=" width:100%;background:#ff0000;"></div>
 
 
 <script type="text/javascript"> //<!-- 
 $(document).ready(function() {$(".w2bslikebox").hover(function() {$(this).stop().animate ({right: "0"}, "medium");}, function() {$(this).stop().animate({right: "-250"}, "medium");}, 
 500);}); //--> </script> 
-<style type="text/css"> 
-.w2bslikebox{background: url("http://cdn.mirrorupload.net/images/facebook.png") no-repeat scroll left center transparent !important;display: block;float: right;height: 270px;padding: 0 5px 0 46px;width: 245px;z-index: 99999;position:fixed;right:-250px;top:20%;} 
-.w2bslikebox div{border:none;position:relative;display:block;} 
-.w2bslikebox span{bottom: 10px;font: 9px "lucida grande",tahoma,verdana,arial,sans-serif;position: absolute;right: 6px;text-align: right;z-index: 99999;} 
-.w2bslikebox span a{color: #FF9D00;text-decoration:none;} 
-.w2bslikebox span a:hover{text-decoration:underline;} 
-</style><div class="w2bslikebox" style=""><div>
-<iframe src="https://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/MirrorUpload&amp;width=245&amp;colorscheme=light&amp;show_faces=true&amp;connections=8&amp;stream=false&amp;header=false&amp;height=330" scrolling="no" frameborder="0" style="border: medium none; overflow: hidden; height: 330px; width: 245px;background:#fff;"></iframe></div></div> 
+<div class="w2bslikebox" style=""><div>
+<iframe src="https://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/MirrorUpload&amp;width=245&amp;colorscheme=light&amp;show_faces=true&amp;connections=12&amp;stream=false&amp;header=false&amp;height=305" scrolling="no" frameborder="0" style="border: medium none; overflow: hidden; height: 305px; width: 245px;background:#fff;"></iframe></div></div> 
 
-
-<div id="footer-bottom">
-<div id="footer">
-    <div id="txt">
-    
-    <ul> 
-		<li class="img"> 
-        <a href="" title="" target=""><img src="http://cdn.mirrorupload.net/images/logofooter.png" width="47" height="47" alt="" title="" border="0"></a>
-		</li> 
-		<li class="first"> 
-            <p>© 2012 <a href="http://www.mirrorupload.net/">MirrorUpload.net</a> - All rights reserved</p><p> 
-            </p><p>This site is the exclusive property of his authors</p>
-            <p>
-				<a href="about.html">About Us</a> - 
-				<a href="contact.html">Contact Us</a>
-								<!-- http://livestats.fr - Outils de mesure d'audience en temps r�el -->
-				<script type="text/javascript" src="http://livestats.fr/counter.php?u=mirrorupload"></script>
-				<a href="http://livestats.fr/"><img src="http://livestats.fr/images/button3.png" width="0" height="0" border="0"></a>
-				<!-- Fin de http://livestats.fr -->
-				<a href="http://host-tracker.com/fr/" onmouseover="this.href=&quot;http://host-tracker.com/fr/website-monitoring-stats/10379392/ff/&quot;;"><img width="0" height="0" border="0" alt="pistage de l" indiponibilit�="" des="" sites="" web'="" src="http://ext.host-tracker.com/uptime-img/?s=15&amp;t=10379392&amp;m=0.59&amp;p=Total&amp;src=ff"></a><noscript><a href='http://host-tracker.com/fr/' >alerte de surverillance de site web</a></noscript>
-				<iframe src="http://www.megavisites.com/index.php?id=824&amp;ad88x31&amp;in" scrolling="no" width="0" height="0" style="border:none"></iframe>
-							</p>
-		</li> 
-		<li class="one"> 
-            <p><a href="privacy.html">Privacy Policy</a></p><p> 
-            </p><p><a href="terms.html">Terms of service</a></p>
-            <p><a href="dmca.html">DMCA</a></p>
-		</li> 
-		<li class="two"> 
-            <p><a href="api.html">Application programming interface</a></p><p> 
-            </p><p><a href="webmasters.html">Tools for the webmasters</a></p>
-            <p><a href="software.html">Download our software (Free)</a></p>
-		</li> 
-        <li class="final">
-        <p><strong>Language :</strong></p><p>
-				<select onchange="window.location.href=this.value" style="width:125px; margin-top: 10px;">
-			<option value="/privacy.html?language=fr">French</option>
-			<option value="/privacy.html?language=en" selected="">English</option>
-		</select>
-        </p></li> 
-	</ul>		
+	<div id="footer">
+		<div class="centered-wrapper">
+			<div id="topfooter">
+				<div id="footerimg">
+					<img src="images/logo2.png" width="60">
+				</div>
+				<div id="footerdivider"></div>
+				<div id="footerlinks">
+					<a href="about.html">About Us</a><br>
+					<a href="privacy.html">Privacy Policy</a><br>
+					<a href="terms.html">Terms of service</a><br>
+				</div>
+				<div id="footerdivider"></div>
+				<div id="footerdeveloppers">
+					<a href="api.html">Application programming interface</a><br>
+					<a href="webmasters.html">Tools for the webmasters</a><br>
+					<a href="software.html">Download our software (Free)</a><br>
+				</div>
+				<div id="footerdivider"></div>
+				<div id="footerprogress">
+					<span>Used bandwidth : <a href="load.html"><i>(more details)</i></a></span><br>
+											<div class="progress progress-success progress-striped active ui-progressbar ui-widget ui-widget-content ui-corner-all progress-bar-defaut" style="margin-left:5px; margin-top: 10px; height:22px;" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="61"><div style="width: 61%; height:22px;" class="ui-progressbar-value ui-widget-header ui-corner-left"></div></div>					
+										</div>
+			</div><!--end topfooter-->
+		</div><!--end centered-wrapper-->
 		
-    </div>
-</div>
-</div>
+		<div id="bottomfooter">		
+			<div class="centered-wrapper">		
+				<div class="one-half">
+					<p>COPYRIGHT © 2013 - <a href="http://www.mirrorupload.net/">MIRRORUPLOAD.NET</a> | ALL RIGHTS RESERVED | <a href="dmca.html">DMCA</a></p>
+				</div><!--end one-half-->
+
+				<div class="one-half column-last" style="float: right;">
+					<ul id="social">
+						<li><a class="rss" href="#">RSS Feed</a></li>
+						<li><a class="facebook" href="https://www.facebook.com/MirrorUpload" target="_blank">Facebook</a></li>
+						<li><a class="twitter" href="https://twitter.com/" target="_blank">Twitter</a></li>
+						<li><a class="flickr" href="http://www.flickr.com/" target="_blank">Flickr</a></li>
+						<li><a class="google" href="https://www.google.com/" target="_blank">Google</a></li>
+					</ul>					
+					 <!-- Histats.com  START (hidden counter)-->
+					<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script><script src="http://s10.histats.com/js15.js" type="text/javascript"></script>
+					<a href="http://www.histats.com" target="_blank" title="free log"><script type="text/javascript">
+					try {Histats.start(1,2196319,4,0,0,0,"");
+					Histats.track_hits();} catch(err){};
+					</script></a>
+					<!-- Histats.com  END  -->
+					<a href="http://host-tracker.com/fr/" onmouseover="this.href=&quot;http://host-tracker.com/fr/website-monitoring-stats/10379392/ff/&quot;;"><img width="0" height="0" border="0" alt="pistage de l" indiponibilit�="" des="" sites="" web'="" src="http://ext.host-tracker.com/uptime-img/?s=15&amp;t=10379392&amp;m=0.59&amp;p=Total&amp;src=ff"></a>
+				</div><!--end one-half-->
+			</div><!--end centered-wrapper-->				
+		</div><!--end bottomfooter-->
+	</div><!--end footer-->	
+</div>	
 </div>
 
+ 
 </body></html>
