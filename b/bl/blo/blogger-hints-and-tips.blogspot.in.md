@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogger-hints-and-tips.blogspot.in privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014235359id_/http%3A//blogger-hints-and-tips.blogspot.com/2009/12/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogger-hints-and-tips.blogspot.in privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308085211id_/http%3A//blogger-hints-and-tips.blogspot.com/2009/12/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Blogger-Hints-and-Tips
+# Blogger-Hints-and-Tips: Privacy Policy
 
 **This article describes the personal information that Blogger-Hints-and-Tips collects, and how it is used.**  
 
