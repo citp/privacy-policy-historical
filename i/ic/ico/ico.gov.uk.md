@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120041027id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308231644id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy Notice - Information Commissioner's Office - ICO
 
@@ -16,92 +16,19 @@ This privacy notice tells you what to expect when the Information Commissioner�
 
 ## Visitors to our websites
 
-When someone visits [www.ico.gov.uk](http://www.ico.gov.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting either of our websites ([www.ico.gov.uk](http://www.ico.gov.uk/) or [www.ico.jobs](http://www.ico.jobs/)). We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it. 
+When someone visits [www.ico.gov.uk](http://www.ico.gov.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting either of our websites ([www.ico.gov.uk](http://www.ico.gov.uk/) or [www.ico.jobs](http://www.ico.jobs/)). We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
 ### Use of cookies by the ICO
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
+You can read more about how we use cookies on our [Cookies page](https://web.archive.org/Global/cookies.aspx).
 
-The table below explains the cookies we use and why. 
+### People taking part in the survey about our website
 
-## Cookie
+We are running a survey on our main website ([www.ico.gov.uk](http://www.ico.gov.uk/)). The survey will help us measure satisfaction with our site, to ascertain whether it is performing as expected and to identify potential future improvements.
 
-| 
+We have contracted Bunnyfoot ([www.bunnyfoot.com](http://www.bunnyfoot.com/)) to conduct the research on our behalf. The survey is intended to be anonymous and will not ask for any personal information, eg names or email addresses. As with all forms of market research, your participation is voluntary. Those participating in the survey must indicate they are over 16.
 
-## Name
-
-| 
-
-## Purpose
-
-| 
-
-## More information  
-  
----|---|---|---  
-  
-ICO site cookie acceptance
-
-| 
-
-ICOCookiesAccepted
-
-| 
-
-This cookie is used to record if a user has accepted the use of cookies on the ICO website.
-
-| 
-
-To withdraw your consent after accepting this cookie, delete the ICOCookiesAccepted cookie. Find out how at [www.aboutcookies.org](http://www.aboutcookies.org/)  
-  
-Google Analytics
-
-| 
-
-_utma  
-_utmb  
-_utmc  
-_utmz
-
-| 
-
-These cookies are used to collect information about how visitors use our site, which we use to help improve it. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
-| 
-
-[Click here for an overview of privacy at Google](http://www.google.com/intl/en_uk/analytics/privacyoverview.html "External link")  
-  
-Online notification form cookie | 
-
-ASP.NET_SessionId
-
-| 
-
-This cookie is essential for the online notification form – the form that data controllers can use to notify with the ICO – to operate. It is set only for those people using the form. This cookie is deleted when you close your browser.
-
-| 
-
-[Visit the Microsoft website](http://support.microsoft.com/kb/899918 "External link")  
-  
-Content Management System cookie | 
-
-ico62#sc_wede youth#sc_wede
-
-| 
-
-One or both of these cookies may be set by our content management system on a small number of browsers, upon arrival to the ICO site or young people's pages. Neither is used by the ICO for any purpose. These cookies are deleted when a user closes their browser.
-
-| 
-
-The supplier of our content management system (the software we use to update our website) is working to remove this cookie from their product.  
-  
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. 
-
-### YouTube cookies
-
-We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please visit [YouTube’s embedding videos information page](http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780 "External link").
+Bunnyfoot is using SurveyMonkey to run and store data from the survey. Bunnyfoot administer the survey data, and will only store it for as long as is necessary for the purposes of this research. The survey collects standard internet log information, including your IP address. Neither the ICO, Bunnyfoot or SurveyMonkey will link, or seek to link, any information gathered by the survey with the identity of a computer user. The survey uses cookies. For full details of SurveyMonkey’s privacy policy see <http://www.surveymonkey.com/mp/policy/privacy-policy/>. 
 
 ### Search engine
 
@@ -125,7 +52,7 @@ We will only use the personal information we collect to process the complaint an
 
 We usually have to disclose the complainant’s identity to whoever the complaint is about. This is inevitable where, for example, the accuracy of a person’s record is in dispute. If a complainant doesn’t want information identifying him or her to be disclosed, we will try to respect that. However, it may not be possible to handle a complaint on an anonymous basis.
 
-We will keep personal information contained in complaint files in line with our retention policy. This means that information relating to a complaint will be retained for four years from closure. It will be retained in a secure environment and access to it will be restricted according to the ‘need to know’ principle.
+We will keep personal information contained in complaint files in line with our retention policy. This means that information relating to a complaint will be retained for two years from closure. It will be retained in a secure environment and access to it will be restricted according to the ‘need to know’ principle.
 
 Similarly, where enquiries are submitted to us we will only use the information supplied to us to deal with the enquiry and any subsequent issues and to check on the level of service we provide.
 
@@ -195,7 +122,7 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 31 August 2012.
+We keep our privacy notice under regular review. This privacy notice was last updated on 1 February 2013.
 
 ## How to contact us
 
@@ -208,4 +135,4 @@ Wilmslow
 Cheshire  
 SK9 5AF
 
-[Read more in our guide to information](https://web.archive.org/global/page_not_found.aspx?item=web%3a%7bBA61DFDD-9278-4FC6-BC06-CA80CB75BFAD%7d%40en)
+[Read more in our guide to information](https://web.archive.org/Global/publication_scheme_compliance.aspx)
