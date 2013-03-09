@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summercampsprogram.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110205912id_/http%3A//summercampsprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summercampsprogram.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309155158id_/http%3A//summercampsprogram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Summer Camps 2013 | Summer Camp Programs
 
