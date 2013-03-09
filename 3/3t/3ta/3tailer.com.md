@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3tailer.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018002405id_/http%3A//www.3tailer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3tailer.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309205340id_/http%3A//www.3tailer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# On Sale: Privacy Policy - Discount Cheap
 
 **Sign up for our newsletter**   
 _be the first to learn of new sale events and coupons!_
