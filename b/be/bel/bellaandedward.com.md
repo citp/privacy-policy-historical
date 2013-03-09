@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellaandedward.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025062352id_/http%3A//bellaandedward.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellaandedward.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310002319id_/http%3A//bellaandedward.com/privacypolicy.php) for the most accurate reproduction.*
 
 # bellaandedward.com - THE twilight fansite
 
@@ -16,4 +16,4 @@ With respect to cookies: We use cookies to store visitors preferences, ensure th
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: http://www.google.com/privacypolicy.html
 
-Hi there, and welcome to **BellaAndEdward.com** , one of the largest fansites online dedicated to _The Twilight Saga_ by Stephenie Meyer! This site was started by Michelle and is maintained by the wonderful BAE.com [staff](https://web.archive.org/web/20121025062352id_/http%3A//bellaandedward.com/sitestaff.php). Feel free to look around, have fun! If you have any questions or inquiries, please [email](mailto:michelle\[at\]bellaandedward\[dot\]com) Michelle.
+Hi there, and welcome to **BellaAndEdward.com** , one of the largest fansites online dedicated to _The Twilight Saga_ by Stephenie Meyer! This site was started by Michelle and is maintained by the wonderful BAE.com [staff](https://web.archive.org/web/20130310002319id_/http%3A//bellaandedward.com/sitestaff.php). Feel free to look around, have fun! If you have any questions or inquiries, please [email](mailto:michelle\[at\]bellaandedward\[dot\]com) Michelle.
