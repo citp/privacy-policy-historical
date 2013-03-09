@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planetwisdom.com privacy policy that was archived on 2012-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120827212426id_/http%3A//planetwisdom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetwisdom.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309184608id_/http%3A//planetwisdom.com/privacypolicy) for the most accurate reproduction.*
 
-# Student Ministry Discipleship Conference | PlanetWisdom
+# Our Commitment To Privacy | PlanetWisdom
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
