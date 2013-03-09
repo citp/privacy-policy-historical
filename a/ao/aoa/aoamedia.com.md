@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aoamedia.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216054839id_/http%3A//www.aoamedia.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aoamedia.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309190335id_/http%3A//www.aoamedia.com/privacy.htm) for the most accurate reproduction.*
 
 # AOAMEDIA.COM PRIVACY STATEMENT
 
