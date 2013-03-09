@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508182524id_/https%3A//www.robinsfcu.org/Forms_Applications1/Disclosures/2011%2520Privacy%2520Policy%2520Final%2520Aug.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309032609id_/https%3A//www.robinsfcu.org/Forms_Applications1/Disclosures/2011%2520Privacy%2520Policy%2520Final%2520Aug.pdf) for the most accurate reproduction.*
 
 # FACTS
 
