@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantrax.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010073813id_/http%3A//www7.fantrax.com/showPage.go%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantrax.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309023238id_/http%3A//www6.fantrax.com/showPage.go%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Fantrax
 
