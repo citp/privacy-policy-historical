@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaisale.co.th privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524142255id_/http%3A//www.thaisale.co.th/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaisale.co.th privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310001426id_/http%3A//www.thaisale.co.th/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # THAISALE - Privacy Policy
 
