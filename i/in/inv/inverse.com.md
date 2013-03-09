@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inverse.com privacy policy that was archived on 2011-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110713051125id_/http%3A//inverse.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inverse.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309203407id_/http%3A//inverse.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
