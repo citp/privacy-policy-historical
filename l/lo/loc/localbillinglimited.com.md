@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the localbillinglimited.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/localbilling_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbillinglimited.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310000823id_/http%3A//www.localbillinglimited.com/localbilling_privacy_policy.php) for the most accurate reproduction.*
 
 # LocalBilling - LocalBilling Privacy Policy
 
-|  | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/billing_solutions01.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/start.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/stats_reporting.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/payment.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/affiliate_management.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/contact_support.php) | [](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/news.php)  
----|---|---|---|---|---|---  
+|  | [](https://web.archive.org/web/20130310000823id_/http%3A//www.localbillinglimited.com/billing_solutions01.php) | [](https://web.archive.org/web/20130310000823id_/http%3A//www.localbillinglimited.com/start.php) | [](https://web.archive.org/web/20130310000823id_/http%3A//www.localbillinglimited.com/stats_reporting.php) | [](https://web.archive.org/web/20130310000823id_/http%3A//www.localbillinglimited.com/payment.php) | [](https://web.archive.org/web/20130310000823id_/http%3A//www.localbillinglimited.com/affiliate_management.php) |   
+---|---|---|---|---|---  
   
-| [Home](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/index.php) >>> Local Billing Privacy Policy  
+| [Home](https://web.archive.org/web/20130310000823id_/http%3A//www.localbillinglimited.com/index.php) >>> Local Billing Privacy Policy  
 ---  
   
 Summary
@@ -44,14 +44,10 @@ Preferences
 
 General
 
-• You can edit your [Local Billing Account Information](https://secure.localbillinglimited.com/user_admin.php) at any time. 
-
 • New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit  
 this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
 
 • We reserve the right to send you certain communications relating to the Local Billing service, such as service announcements, administrative messages and the Local Billing Newsletter, that are considered part of your Local Billing account
-
-• You can delete your Local Billing account by visiting our [User Administration](https://secure.localbillinglimited.com/user_admin.php) page.
 
 Confidentiality and Security
 
@@ -66,35 +62,3 @@ at Local Billing.
 Changes to this Privacy Policy
 
 • Local Billing may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Local Billing account or by placing a prominent notice on our site.
-
-Questions and Suggestions
-
-If you have questions or suggestions, please [contact us](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/contact_support.php)
-
-|  January 12th, 2009
-
-**Las Vegas**  
-Meet the team in Las Vegas, Nevada.   
-  
----  
-November 19th, 2008
-
-**Los Angeles**  
-Meet Clay Douglass, CEO, and Mitch Platt, President, to find out more on the complete service Local Billing offers and more importantly how they can it help your company grow it's e-commerce revenue.   
-  
-October 17th, 2008
-
-**Panama**  
-Meet Mitch Platt, President and Andrew Hellner, Director of the Entertainment Segment in October in a more personal setting to find out what's new at Local Billing.   
-  
-September 25th, 2008
-
-**Amsterdam**  
-Meet the team in Europe to find our exactly how Local Billing can help grow your international revenue. Lukas Taylor, new account manager will be on hand for the first time to answer any questions.   
-  
-August 8th, 2008
-
-**Miami**  
-Be the first to personally meet the new Local Billing directive team and find out how their world-class knowledge and expertise will ensure Local Billing will deliver on your performance. They will also be on hand to answer any questions. 
-
-[Read more news...](https://web.archive.org/web/20100223083804id_/http%3A//www.localbillinglimited.com/news.php)
