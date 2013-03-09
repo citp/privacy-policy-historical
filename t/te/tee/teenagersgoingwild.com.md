@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenagersgoingwild.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006022010id_/http%3A//www.teenagersgoingwild.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenagersgoingwild.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309181911id_/http%3A//teenagersgoingwild.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
