@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datafeedfile.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192631id_/http%3A//www.datafeedfile.com/privacy_data_feed_file.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafeedfile.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309050037id_/http%3A//www.datafeedfile.com/privacy_data_feed_file.php) for the most accurate reproduction.*
 
 # DataFeedFile.com Privacy Policy for all users including affiliates, merchants and affiliate networks
 
