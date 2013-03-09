@@ -1,108 +1,126 @@
-> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201212920id_/http%3A//www.onebip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309024307id_/http%3A//corporate.onebip.com/docs/privacy-notice-policy.pdf) for the most accurate reproduction.*
 
-# Onebip Services Privacy Policy
+# ONEBIP SERVICE’S PRIVACY NOTICE
 
-Onebip respects your privacy, and has published this Privacy Policy to explain how Onebip treats information you submit to Onebip. Please read this Privacy Policy carefully prior to your access to and/or use or registered for or use of a Service. If you do not agree to abide by this Privacy Policy, please do not access or use or register for or use any of the Services.   
-By submitting information to Onebip, either by visiting or using Onebip.com or registering for or using a Service, you are accepting the practices described in this Privacy Policy and the terms and conditions of Onebip Terms of Use and Service Agreement (the "Terms of Use"). This Privacy Policy is governed by the Terms of Use, which includes disclaimers of warranties, limitation of liabilities and an agreement to arbitrate all claims. Each capitalized term not defined in this Privacy Policy will have the meaning set forth in the Terms of Use.   
-This Privacy Policy governs the Personal Information (as defined below) collected by our Website and our Service, but does not cover any other information, whether collected in any other manner or for any other purpose, nor on any other web site or service unless specifically stated.  
-Our Service is offered and made available only to users 18 years of age or older. If you are not yet 18 years old or if your use of our Service is prohibited or restricted in any way by the laws, regulations or other governmental requirements of the jurisdiction in which you live, or if, for any reason and at any time, you do not agree with all of this Privacy Policy, please discontinue using all our Services immediately because by using or attempting to use the Service, you certify you are at least 18 years of age, that you meet all our eligibility requirements for your use of our Services and that you agree with all of the terms and conditions of and incorporated into our Terms of Use, referenced above.
-
-**_Overview_** : Our Privacy Policy is intended to **explain our privacy practices** and inform you as to:
-
-·    **The kinds of Personal Information we collect from users and how such Personal Information is collected;**
-
-·    **How we use Personal Information;**
-
-·    **The circumstances under which we disclose Personal Information to third parties;**
-
-·    **How you can access, update or delete any Personal Information we collect about you; and**
-
-·    **The mechanisms we have implemented to protect your Personal Information.**
-
-There are, among other things, age and residency requirements you must comply with in order to use our Service and you must refer to our Terms of Use (including our Subscription Agreement and Community Requirements) for the specific terms and conditions regarding these requirements. Without modifying or limiting our Terms of Use in any way, a Minor is not permitted to use our Service without the consent of a parent or legal guardian and, if you are not 18 years old you may never use any portion of our Service at all. Furthermore, if for any reason, you do not agree with this Privacy Policy or any of our Terms of Use, please do not use any of our Services or Website at all.
-
-We have the right to change this Privacy Policy at any time and from time to time by posting an updated version on our Website, without advance notice to you, or we may, in our sole discretion, send you a message telling you we have made a change (for example, we may, email or text message you about the changes). The changes shall be effective to you immediately upon posting or when you receive our message. We encourage you to check this Privacy Policy often so you are aware of the most current terms and conditions that apply to you.
-
-When we use the term “ _Personal Information_ ” we mean information such as your first/middle initial or name and last name, street address, town or city, state, zip code, mobile device number, telephone number, your date of birth, email address, gender, and any other information that would allow someone to identify you or contact you. Personal information may also be contained in Postings or other User Generated Content you Post or submit to us or any other user or onto our Website or Service. For example, if you are a Registered User to life, a Subscriber to our Subscription Services in addition to your name and contact information, we may also collect and maintain your billing address, Service selections, your wireless or mobile carrier name and account number or payment instrument information, order numbers and your wireless or mobile device’s identification and/or your computer’s internet address and website, including any link that may have referred or directed you to our Service ( _e.g_., to our Website from a referring URL).
-
-We are committed to protecting our users’ privacy. Keeping Personal Information you share with us through the use of our Service, secure, including Personal Information we obtain on our Website. It is also important for us to explain to you how we collect, use, disclose and maintain your Personal Information and help you understand these things. We maintain reasonable physical, electronic and procedural safeguards to protect your Personal Information and while no data transmission which is wireless or mobile or over the Internet is completely secure, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information.
-
-**All requests sent via postal mail must be labeled “Privacy Rights Office” on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) **We will not accept requests via the telephone or by facsimile.** We are not responsible for notices that are not labeled or sent properly, notices that are illegible or do not have complete information.
-
-To all users of the Website, if you have any questions about this Privacy Statement, please contact our Privacy Administrator at [privacy@onebip.com](mailto:privacy@onebip.com) or:
-
-Onebip srl - Privacy Administrator   
-Largo Donegani 3  
-20121 Milano – Italy  
-Attn: Privacy Rights Office
-
-**OUR GENERAL PRIVACY POLICIES**
-
-All our Services are designed and targeted to audiences and governed by and operated in accordance with the laws, regulations, and treaties of the Countries in which the service is made available. By your use of (or attempt to use) our Service, you certify you are at least 18 years of age and if you are a Minor, you have obtained consent from your parent as required (Please see our Terms of Use, our Subscription Agreement and any Additional Terms that may apply to any of the Onebip suite of Services you may register for, subscribe to and/or use). We make no representation that our Services are operated in accordance with or governed by the laws of other nations or jurisdictions. If you are located in a country where the service is not available, and you use or attempt to use our Services contrary to our Terms of Use which state that only residents in the countries where the service is avaulable are eligible to be users, Registered Users or Subscribers, you do so at your own risk and you are responsible for compliance with any applicable local, national laws rules and regulations and, if applicable, international treaties.
-
-Please be aware that Personal Information we obtain from you or that you provide to us may be transferred, stored, maintained and used both within and outside the servers, communication and data processing facilities we maintain. Our servers are under the control of Onebip and are currently located with TelecityGroup Italia S.p.A., via Savona 125, Milano, Italy . By using our Services and providing us with Personal Information, you consent to the transfer of your Personal Information to and from the servers and waive any claims that may arise under your own or any other local or national laws, rules or regulation or international treaties. All users of our Service are required to provide true, current, complete and accurate Personal Information when prompted and we have the right to refuse or revoke your right to use our Services and/or reject and delete any entry you make, if we have reason to believe information you provide to us is or may be false, fraudulent, or inconsistent with this Privacy Policy or in violation of the Terms of Use. Your continued use of our Service indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, maintenance, management and storage of your Personal Information as described. We may from time to time, transfer or merge your Personal Information collected off-line to our online databases or store off-line information in an electronic format. We may also combine Personal Information we collect online with information available from other sources, including information received from our advertisers and promotional partners. This Privacy Policy remains applicable to your Personal Information for as long as your Personal Information is in our possession, even if you terminate or discontinue your use of our Service and you acknowledge and agree you will be bound by its terms.
-
-**Collection and Use of Personal Information:** We collect Personal Information about you when you use our Service, as a user, Registered User and/or Subscriber, whether or not you register, enroll or sign up for particular activities, services, features or functions, participate in promotions, order or purchase goods or services or simply in the course of exchanges of information, transactions and activities (including, but not limited to, Posting) in connection with our Service. We may use your Personal Information to tailor your experience on our Services, serve advertising we think may be of relevance to you, to understand your preferences, and among other things, to provide you with offers we think may be of interest to you. It is your responsibility to give us current, complete, truthful, and accurate information and to keep the Personal Information that you provide us up to date. We cannot and shall not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us. You are solely responsible for maintaining the confidentiality of your User ID. Bear in mind when you submit information to us, it does not guarantee that we will permit you to register, subscribe and/or participate in or use any or all of the activities, services, features or functions of our Service.
-
-**Registered Users and Subscribers.** Registered Users and Subscribers are required to submit certain Personal Information. If a Trial Period is available to you when you subscribe to any of our Subscription Services, we will allow you, subject to the terms and conditions (including any applicable time limitations) of such Trial Period, to use certain features and functions of our Subscription Services available to Subscribers and to take advantage of such a Trial Period you will be required to also provide us with Personal Information. At a minimum, when you sign up, enroll, register for or subscribe to any of our Services, we will require you to submit your mobile phone or wireless device number and in order to take advantage of our Subscription Services you must also give us your wireless or mobile carrier account information. By doing so, you understand, acknowledge and agree you are giving us your consent to track your activities and use of our Service. You are also confirming your agreement to comply with all the terms and conditions in the Terms of Use, (and, if applicable our Subscription Agreement) of which this Privacy Policy forms a part. Registered Users and Subscribers may be provided with opportunities to subscribe to text-message and/or email newsletters, alerts and other periodic communications and information we may send you. In some cases, when you as a user (even if you are not a Registered User or Subscriber), sign up for certain features or functions or submit your wireless or mobile device number to us or you elect to receive Content, send User Generated Content and/or Post, your actions in doing so may also include and be deemed to give us your consent for us to create a non-subscription account, send you and for you to receive such text-messages, email, e-newsletters and other communications from us. We will always disclose this to you if that is the case and you will be given the opportunity at that time and thereafter, to Opt-Out of receiving or continuing to receive these. You understand, acknowledge and agree that you are giving us your consent to track your use of the Service and all your activities, exchanges of information and transactions in connection with any Services you have agreed to receive or participate in as described. You are also confirming your agreement to comply with all the terms and conditions in the Terms of Use, of which this Privacy Policy forms a part.
-
-**Opt-Out Procedures.** We may post notices, advertising and promotional material on our Website and/or we may contact you by email or text message or otherwise to promote our Services or to send you offers we believe may be of interest to you. You may chose to Opt-out of receiving marketing and promotional emails or text messages or similar electronic messages from us (i) by replying via SMS to the latest subscription SMS you received, (ii) by sending us an email to [support@onebip.com](mailto:support@onebip.com) (iii) contacting us through the online form at <http://my.onebip.com/support/contact>. If you are using SMS, to unsubscribe from the latest text alert service you enrolled in you must send the word “STOP”; to unsubscribe from all active services, you must send the keyword "STOP ALL" in this exact order. We may always contact you via email or SMS for administrative or informational purposes, including follow-up messages regarding the administration of your subscription plan, any promotions you have entered or participated in, or offers you have accepted or services you have enrolled in or ordered or other transactions you have initiated in connection with our Service.
-
-If we unknowingly send an email or SMS text message to anyone under the age of 18 or a Minor who has registered in violation of the Terms of Use, the Minor or the Minor’s parent or legal guardian always has the right to unsubscribe or Opt-out from receiving future emails, SMS text messages, text alerts or e-newsletters or request termination of the registration, subscription plans and/or status as a Subscriber, registered user or user of our Service.
-
-**Sharing of Aggregate Information with Third Parties.** Some of the aggregate data we collect in connection with our Service may be shared with our advertisers and other business partners, but we do not give any Personal Information to them as part of the relationship unless specifically stated in this Privacy Policy. On their websites, you are subject to their privacy policies and practices and for more information, please contact these third parties directly.
-
-**Marketing Services and Promotional Opportunities.** We may provide our users with the opportunity to register for special promotions delivered via text messaging to your wireless or mobile device.  If any of these are included in a sign up, registration or enrolment process, we will disclose that to you at the time you are requested to provide us with your Personal Information and we will advise you that continuing will constitute your consent to receive these from us. Users may be required to register or re-enter or provide additional Personal Information such as a wireless or mobile device number, email address and sometimes your wireless or mobile carrier’s name to participate or take advantage of these Services. Optional information may be requested for specific offers, promotions or services and we may also collect an email address or other information. We caution that most wireless transmissions are not secure and there is a greater risk of an unknown third party’s interception of messages or a user’s Personal Information when using a wireless or mobile device. In addition, while we make efforts to protect our Website from intrusion and unauthorized access, we cannot and do not guarantee that any of your Internet communications, Postings and/or activities on the World Wide Web, including our Website, are secure or are not subject to interception by third parties.
-
-You understand and hereby acknowledge and agree **you will be charged by your wireless or mobile carrier for all messages sent to you or your designated wireless or mobile device(s)** and you are responsible for the standard message or other rates and charges that may apply to you. Under no circumstances will we be responsible for any wireless email, text messaging or other charges incurred by you or any other person that has access to your (as defined in the Subscription Agreement) wireless or mobile device, device number or email address.
-
-**Use of Information**. We will not use any Personal Information submitted to us in connection with our Service for any purpose but to provide the Services as you have requested, unless we provide advance notice to you of any other use. We will not share Personal Information we obtain solely in connection with our Service with any non-affiliated parties, unless you Opt-In. We will share information with parent company, subsidiaries and affiliates, as well as our operational service providers that  assist in delivering our Services  to you.
-
-**Cookies and Similar Technology.** We use ‘cookie’ technology to collect data regarding your visits to our Website and your use of our Services. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including:
-
-·     Saving your wireless or mobile device number or other information so you don’t have to re-enter it each time you visit our Website or use our Services;   
-·     Keeping count of your return visits to our Website, advertisers’ or partners’ sites;   
-·     Accumulating and reporting aggregate, statistical information in connection with our Services and Content; and   
-·         Determining which Services, Content, features and functions users like best.
-
-Although we may track the numbers of users to inform us on how best to update and enhance our Service, Personal Information is not extracted in this process. We use tracking information on an aggregated basis to help us operate, enhance, and improve our Services and display advertising and marketing information. You can choose to have your computer warn you each time a cookie or image tag is being sent or you can choose to turn off all such mechanisms. This is done through your browser. If you turn cookies off, you may not have access to many features and functions of our Service that make your experience more efficient and enjoyable and some of our Services may not function properly.
-
-Our Services may contain advertisements, references and links to other services, web sites and organizations. We may also use third parties to display or serve advertising and to communicate to you. Often these third parties employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules apply to the collection, storage, maintenance, use and disclosure of your information by third parties in connection with their advertisements, promotions, and other web sites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours and even if we have a relationship with a third party, we do not control their web sites, their technology or policies and practices regarding your information. This Privacy Policy does not cover any use of Personal Information that a third party, an advertiser or ad server may collect from you.We encourage you to investigate and ask questions directly of them in this regard.
-
-**Postings**.We respect the privacy of the contents of certain non-public Postings you provide or make, however, even with respect to private Postings (including, without limitation, User Generated Content), we do reserve the right to monitor, edit and disclose your use of our Services and/or any information pertaining to a Posting and any of the contents to a third party if we believe such action is required by law or is necessary to protect and defend our rights, to enforce our Terms of Use or to protect our interests or the interests of our users, Registered Users, Subscribers, advertisers, suppliers, operational service providers or others.
-
-**Disclosure to Third Parties.** We do not sell, rent, lease or disclose your Personal Information to non-affiliated entities ( _i.e_., entities that are not our parent or subsidiary or affiliated companies) or entities that are not our advertisers or operational service providers, except in the limited circumstances disclosed in this Privacy Policy. If we plan to disclose your Personal Information to any non-affiliated entities, we will ask you to Opt-in and allow it, in which case their use of your information is subject to their privacy policies. We may also offer co-branded services, features and functions, which are activities, events and promotions (for example, a contest) that we put together with another third party (“Co-Branded Partner”). We may share your Personal Information with our Co-Branded Partner and your voluntary use or participation in a co-branded promotion, activity, service, feature or function means you have given your affirmative consent to us and our Co-Branded Partner to collect, maintain, store and use your Personal Information. If you wish to Opt-out of a Co-Branded Partner’s future use of your Personal Information, you will need to contact the Co-Branded Partner directly.
-
-We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining our Services and our operations. These third party specialists that provide support to our Services, Website and Content are our “operational service providers” and we use them to efficiently provide the full range of Content, subscription plans, services, promotions, advertising, downloading, streaming and other features and functions we offer or make available to you. We request that our operational service providers also protect your privacy and not disclose your Personal Information to third party marketers that are not associated with our Services. Additionally, these operational service providers are not permitted to use your Personal Information for their own marketing or promotional purposes.
-
-We will make your Personal Information available to non-affiliated third parties in the following limited circumstances:
-
-·         When we are compelled to do so by a governmental agency, court or other entity ( _e.g_., to respond to subpoenas, court orders or legal process);
-
-·         If we believe your actions violate any law, regulation, any term or condition of the Terms of Use, including, without limitation, this Privacy Policy, our Community Requirements or any of Additional Terms or if you threaten the rights, property or safety of us, our parent, subsidiaries or affiliated companies, our Services, any of our operational service providers, suppliers, advertisers, customers, other users, registered users, Subscribers or any other party;
-
-·         If in our sole discretion, we believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries to protect our business and assets, to defend our interests, or to comply with any legal and regulatory obligations; or
-
-·         In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us.
-
-**Security and Protection of Personal Information.** We maintain reasonable standards of security and confidentiality. However, for most Internet sites and wireless and mobile communications, it is possible third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We conduct financial transactions via secured transmissions but may not always secure other parts of our Service in the same way. We also limit access to our Services by our own employees to individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow the same policy.
-
-**Review, Update or Delete Your Personal Information.** Generally, you may review, update or delete any of your Personal Information collected by or through our Service, as well as your profile or any other user information you may have entered during the registration and/or subscription process or your participation in our Services or any prior updates you may have given us. You may also correct factual inaccuracies. However, Personal Information that is necessary to check eligibility, such as date of birth or age or wireless or mobile device numbers, may be modified with sufficient verification of the correct information, but cannot be deleted and if you delete or attempt to delete such information, it may result in the suspension of any and all rights you may have to use our Services, your status as a Registered User, Subscriber and/or other aspects of our Service or offers we make available to you. If you have registered for or subscribed to any Services or provided any information as part of an account or profile in connection with our Service, you may review, update or delete your Personal Information and you should go to our Website and follow the instructions there that will explain how you can edit, change, update and, with some exceptions noted, delete your Personal Information.
-
-If you do not understand or are not sure what Personal Information may be collected or used for particular purposes, you should contact our Privacy Administrator via email with a request at [privacy@onebip.com](mailto:privacy@onebip.com) and be prepared to provide verification of your identity.
-
-Personal Information collected for certain offers and promotions are subject to corporate and regulatory recordkeeping requirements and will not be deleted upon the user’s request unless the user is under the age of 18. Parents of Minors who wish to terminate or cancel their Minor’s use of all or any portion of our Services or modify any selections the Minor may have made, must notify us by contacting us at [support@onebip.com](mailto:support@onebip.com) and provide verifiable identification that they are the parent of the ineligible Minor before making any changes to or terminations of the Minor’s registration. We will not allow direct access to any Personal Information by any person without the Registered User’s or Subscriber’s User appropriate identification. Parent will be required to send an email to the [support@onebip.com](mailto:support@onebip.com) that includes the parent’s name, address, telephone and email address, in addition to the Minor’s name and wireless or mobile device number or email address as shown in our records, as a user, and service password. We will send a confirming email to the parent via the wireless or mobile device number or email address provided by the parent to verify the parent wishes to terminate his or her Minor’s registration. The parent must confirm by sending a reply to the return address designated by us. We will then terminate the Minor’s account and registration as requested by the parent and will notify the Minor of the termination request either by SMS text message or email, identifying the name, address and contact information submitted by the parent, legal guardian or other authorized person who made the request.
-
-We reserve the right to deny, suspend, deactivate, terminate and/or cancel any registration, subscription, status as a Registered User, Subscriber, and/or the use of or access to any or all of our Services and any other services, content, activities, features or functions, if we believe there is a question about the identity of the person trying to use or access any portion of our Service, to use or access any information. If the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide you access to such information. In such cases, we will provide you with an explanation of why access cannot be provided and a contact person for further inquiries.
-
-**Questions and Concerns**  
-If you have questions, comments, concerns or feedback regarding this Privacy Policy, please contact us via any of the methods set forth below:
-
-  * Via email: [privacy@onebip.com](mailto:privacy@onebip.com)
-  * Via mail:  
-Onebip srl- Privacy Administrator   
-Largo Donegani, 3  
-20121 Milano – Italy  
-Attn: Privacy Rights Office 
+                                            ONEBIP SERVICE’S PRIVACY NOTICE
+Neomobile respects your privacy, and has published this notice (the “Privacy Notice”) to explain to you how it treats the Personal Information you
+submit to us when using the Onebip services; any Personal Information you submit shall be processed in accordance with this Privacy Notice, so
+please read it carefully before submitting any Personal Information to us.
+This Privacy Notice is governed by the Terms of Use, available at www.onebip.com. Each capitalized term not defined in this Privacy Policy will have
+the meaning set forth in the Terms of Use. This Privacy Policy governs the Personal Information (as defined below) collected through our Website
+and/or our Service, but does not cover any other information, whether collected in any other manner or for any other purpose, unless specifically
+stated.
+We are committed to protecting your privacy, keeping the Personal Information you share with us secure. It is also important for us to explain to
+you how we collect, use, disclose and maintain your Personal Information and help you understand these things. We maintain reasonable physical,
+electronic and procedural safeguards to protect your Personal Information and we have used and will continue to use commercially reasonable
+efforts to ensure the protection of your Personal Information. Below you will find, in accordance with article 13 of Italian Legislative Decree
+no.196/03 – "Code on the protection of personal data" (hereinafter, the “Privacy Code”), a description of how we process your Personal
+Information. For any additional information, please contact us using the contact information provided at section 7 below.
+      1.    WHAT IS “PERSONAL INFORMATION”?
+When we use the term “Personal Information” we mean information such as your name, address, mobile device number, telephone number, your
+date of birth, email address, gender, etc. or any other information that would allow someone to identify you or contact you. You submit Personal
+Information to us when you register to or use the Services, either as a User or as a Merchant. We also collect Personal Information about you when
+you use some functionalities of our Service through third-party websites (as described in point 3.2. of the Terms of Use). Moreover, if you are a
+User, we may also collect and maintain your billing address, Service selections, your wireless or mobile carrier name and account number or
+payment instrument information, order numbers and your wireless or mobile device’s identification.
+      2.    WHY AND HOW DO WE PROCESS YOUR PERSONAL INFORMATION?
+We process your Personal Information in order to provide you with the Services described in the Terms of Use and/or in the Merchant Agreement,
+as applicable, and to carry out any and all activities connected with the Services rendered to you through the Website, the Onebip Platform and the
+Onebip Portal. We may also process your Personal Information for other purposes expressly set forth by applicable legislation, or in order to comply
+with requests we receive from any competent authorities. In particular, we process your Personal Information in order to:
+•        Provide you with the Services or functionalities you requested when registering as a User and/or as a Merchant, or when using Onebip
+         through third-party websites;
+•        Monitor, track and record data regarding all relevant transactions, so as to allow the delivery and billing of the Contents;
+•        Verify the accuracy of your Personal Information, including the verification of whether you are of the age required for registering to the
+         Services;
+•        Prevent and identify possible fraudulent behavior;
+•        Manage administrative and contractual aspects of your relationship with us;
+•        Provide you with any necessary technical or customer support service;
+•        Manage any possible complaints or litigation;
+•        Use Personal Information in order to make any communications regarding the contractual relationship between you and us.
+We process your Personal Information mostly by electronic means, although it is possible that some of your Personal Information may be processed
+in hard copy documents (such as, for example, invoices).
+      3.    DO YOU HAVE TO SUBMIT YOUR PERSONAL INFORMATION TO US? WHAT IF YOU DECIDE NOT TO?
+Your submission of Personal Information for the aims described in section 2 above is a necessary condition for us to provide you with the Services or
+any functionality thereof.
+If you do not want to provide us with the Personal Information requested, we will not be able to provide you with the Service or any functionality
+thereof.
+      4.    CAN WE USE YOR PERSONAL INFORMATION FOR MARKETING PURPOSES?
+On the terms of article 130(4) of the Privacy Code, we may send to the e-mail address you submit to us, information and marketing material,
+including newsletters, which regard exclusively services or functionalities which are similar to those Services or functionalities of Services you have
+used and/or registered to use with Onebip. We will always give you the opportunity to oppose to receive such materials, at any time, and without
+any costs (“Opt-Out”). If you decide to Opt-Out, you will only have to communicate that choice to us, using the contacts provided in section 7
+below. Such choice will have no consequences whatsoever in your use of the Services or any functionality thereof.
 
 
+We do not serve you with any other marketing or commercial communications which do not regard services or functionalities similar to those you
+already use, or any type of marketing or commercial communication sent to you through means other than your e-mail (such as your postal
+address, fax or phone). If we plan on sending you any such communication, we will ask for your express consent in advance (“Opt-in”). You will of
+course be entitled to withdraw any such consent at any time and free of charge, using the contacts provided in section 7 below. Any such
+withdrawal of consent will have no consequences whatsoever in your use of the Services or any functionality thereof.
+Any communications sent to you for marketing purposes in accordance with this section shall – on the terms of article 8 of legislative decree no. 70
+of 9 April 2003 as amended – be clearly identified as having a commercial nature and as being addressed to you by Neomobile. If applicable, such
+communications will also indicate that (i) they regard a promotional offer such as a discount, prize or offer and the respective conditions of access;
+and/or (ii) they regard promotional contests or games, and the respective conditions of participation.
+      5.     TO WHOM CAN WE COMMUNICATE YOUR PERSONAL INFORMATION?
+We adopt all necessary measures to ensure that your Personal Information shall remain safe, private and confidential at all times. We limit access to
+your Personal Information by our own employees to individuals who are authorized for the proper handling of such information and any employee
+found violating our standards of security and confidentiality will be subject to our disciplinary processes.
+Your Personal Information may be communicated to third parties who carry out activities which are ancillary and instrumental to those of
+Neomobile. In particular, and exclusively for the purposes described in section 2 above, your Personal Information may be communicated to:
+•        Companies which render services of customer support on our behalf, such as Onebip Serbia Preduzeće Onebip D.O.O. Beograd (a company
+         within the Neomobile group) or Zendesk Inc.;
+•        Companies which provide us with the Contents which you acquire through the Service or functionalities thereof (the so-called Merchants),
+         for delivery, invoicing and customer support purposes;
+•        Your mobile phone operator and/or internet access provider, for invoicing and customer support purposes;
+•        Companies which provide us with technical support to the Onebip platform, in order to allow it to run smoothly, and allow us to efficiently
+         provide you with the Service or functionalities thereof that you require from us.
+These third parties have undertaken to treat your Personal Information as private and to process it in accordance with the applicable legislation and
+exclusively for the purposes indicated in section 2 above. Please note that this Privacy Notice applies only to the Personal Information you provide
+to us and which we may communicate to these third parties. This Privacy Policy does not cover any use of personal information that a third party
+may collect from you directly. Before you provide any personal information directly to any third parties, we encourage you to investigate their
+privacy policies and, if necessary, ask any questions directly to them in this regard.
+Furthermore, we may make your Personal Information available to other third parties in the following limited circumstances:
+•        When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal
+         process);
+•        In legal proceedings, if we believe your actions violate any law, regulation, any term or condition of the Terms of Use, including, without
+         limitation, this Privacy Policy, or any of Additional Terms or if you threaten the rights, property or safety of us, our parent, subsidiaries or
+         affiliated companies, our Services, any of our operational service providers, suppliers, advertisers, customers, Users or Merchants; or
+•        In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us.
+      6.     WHAT ARE YOUR RIGHTS REGARDING OUR PROCESSING OF YOUR PERSONAL INFORMATION?
+On the terms of article 7 of the Privacy Code, you are entitled to obtain confirmation of whether we have collected any of your Personal
+Information, even if we have not yet registered any Personal Information. Moreover, in accordance with the same article, it is your right to require
+us to:
+•        give you access to your Personal Information;
+•        update, correct or complete your Personal Information and to communicate any such operation to any third parties to which your Personal
+         Information has been communicated in accordance with section 5 above;
+•        cancel, make anonymous or block any of your Personal Information which is being processed illegally and to communicate any such
+         operation to any third parties to which your Personal Information has been communicated in accordance with section 5 above; or
+•        to oppose, in whole or in part, to the processing of your Personal Information, for legitimate reasons; however, you may oppose to the
+         processing of your Personal Information for marketing purposes, freely, in accordance with section 4 above.
+You may exercise any of these rights by contacting us using the contact details provided in section 8 below.
+      7.     USE OF “COOKIES”
+On the Website, we do not use any cookies which enable us to register, track and/or access any information regarding your navigation habits or the
+use you make of the services. The only cookies we use are cookies which enable us to remember your Personal Information (such as mobile phone
+number) so that you don’t have to re-enter it every time you access the Website, and cookies which allow us to remember the credentials you use
+
+
+in order to access the website (i.e., username and password). These last cookies will only be used if you expressly request us to remember such
+information for you, by clicking the “remember me” box when you register and/or log-in. The cookies described above are, on the terms and for the
+effects of Legislative Decree no. 69/2012, necessary for us to provide you with services that you request. WHO IS RESPONSIBLE FOR THE
+            PROCESSING OF YOUR PERSONAL INFORMATION AND HOW CAN YOU REACH THEM?
+As “Data Controller”, we are directly responsible towards you and any competent authorities for the manner in which we process your Personal
+Information. You may contact us in order to exercise any of the rights described in section 6 above, to obtain further information on how we
+obtained your Personal Information, how and why we process it and who we communicate your Personal Information to, to obtain more
+information regarding us, to Opt-Out or to Opt-In from receiving marketing communications from us in accordance with section 4 above or, more
+generally, for any questions, concerns or feedback you have regarding our processing of your Personal Information, using the following contact
+information:
+Neomobile S.p.A
+Att.: Onebip Services’ Customer Care
+Largo Donegani 3 Milan, Italy
+e-mail: support@onebip.com
+      9.    HOW DO WE UPDATE OUR PRIVACY POLICIES AND THIS PRIVACY NOTICE?
+We verify the accuracy and sufficiency of our policies with regard to privacy and safety on a regular basis and, if applicable, we may amend such
+policies and the present Privacy Notice due to changes in the applicable legislation or in our own organization and internal policies or due to
+technology evolution. We encourage you to check this Privacy Policy often so you are aware of the most current terms and conditions that apply to
+you. We shall publish any such new versions of this Privacy Notice on the Website immediately as they become effective.
