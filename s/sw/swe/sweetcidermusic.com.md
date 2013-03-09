@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetcidermusic.com privacy policy that was archived on 2012-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120101132319id_/http%3A//www.sweetcidermusic.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetcidermusic.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310002437id_/http%3A//www.sweetcidermusic.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Sweet Cider Music - Privacy Policy
 
