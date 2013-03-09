@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g4tv.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217093426id_/http%3A//www.g4tv.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g4tv.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310002311id_/http%3A//www.g4tv.com/about/privacy) for the most accurate reproduction.*
 
 # Video Games, Game Reviews & News - G4tv.com
 
