@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autowallpapers.net privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122222035id_/http%3A//autowallpapers.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autowallpapers.net privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309103815id_/http%3A//autowallpapers.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for AUTOWALLPAPERS.NET
 
@@ -32,13 +32,14 @@ We use third-party advertising companies to serve ads when you visit our website
 
 * * *
 
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. Currently we work with a number of advertisers – [Amazon.com](http://www.amazon.com/gp/dra/info/), [Chitika](http://chitika.com/privacy/), [Google Adsense](http://www.google.com/policies/privacy/) and [Matomy Media](http://www.matomymedia.com/about/privacy-policy/). Please check their websites for respective privacy policies.  
+We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. Currently we work with a number of advertisers – [AdStract](http://www.adstract.com/privacy-policy/), [Amazon](http://www.amazon.com/gp/dra/info/), [Chitika](http://chitika.com/privacy/), [Clicksor](http://www.clicksor.com/footer-link/privacy-policy), [Google AdSense](http://www.google.com/policies/privacy/) and [Matomy Media](http://www.matomymedia.com/about/privacy-policy/). Please check their websites for respective privacy policies.  
 
 
   * Amazon.com hosts the ordering system and order data. Amazon will collect order information during the process of fulfilling an order and supporting the shopping experience. Please see the [Amazon Privacy Policy](http://www.amazon.com/gp/dra/info/) for more information about how Amazon uses this information.
   * Chitika collects information about your activities on certain websites to send you targeted advertisements. To opt out of Chitika's targeted ads, [click here](http://chitika.com/privacy/). If you opted out of Chitika targeted ads before March 1, 2010, the opt-out has expired and you must opt out again to avoid targeted ads.
   * Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to users based on their visit to our websites and other sites on the Internet. If you wish, you may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
+  
 **DMCA Notice**  
 
 
