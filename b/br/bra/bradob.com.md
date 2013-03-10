@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bradob.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029085452id_/http%3A//bradob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradob.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310080336id_/http%3A//bradob.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Questions & Answers:Get Answers, Ask Questions
+# Privacy | Bradob.com
 
 ## Terms of Service – Privacy
 
