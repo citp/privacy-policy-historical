@@ -1,98 +1,72 @@
-> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505045743id_/http%3A//www.creditsolutions.com/Popup/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsolutions.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310053154id_/http%3A//www.creditsolutions.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Debt Consolidation and Credit Consolidation alternative with Credit Solutions
+# Privacy Policy
 
-## Credit Solutions Privacy Policy
+**What information do we collect?**
 
-At Credit Solutions, we are committed to your privacy. 
+We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
 
-  * We will not sell, share, trade or rent any information given to us (this includes any and all information), except as disclosed in this privacy statement. 
-  * We are committed to protect your privacy and your personal information - period. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or social security number. You may, however, visit our site anonymously.
 
+ **What do we use your information for?**
 
+Any of the information we collect from you may be used in one of the following ways: 
 
-We place tremendous value on our commitment to excellence and security to each and every person who visits our site. We need to request information from you in order to give the most educated and accurate answers possible to your questions. We believe you have the right to know that your information will not be ever be disclosed to any other site, business or individual unless you specifically request such information be disclosed. Please read below for any additional detailed questions you may have about our policy. Please don't hesitate to call us. 
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-[](http://www.truste.org/ivalidate.php?url=www.creditsolutions.com&sealid=101)
+; To process transactions
 
-  
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
+; To send periodic emails
 
-  * TRUSTe Privacy Program 
-  * Information Collection and Use
-  * Information Sharing and Disclosure
-  * Uses of E-mail Addresses
-  * Collection of Information by Third-Party Sites and Sponsors
-  * Use of Cookies
-  * IP Addresses 
-  * Privacy Policy Changes 
-  * Our Commitment to Security
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
+**How do we protect your information?**
 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-## TRUSTe Privacy Program 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-Credit Solutions is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.creditsolutions.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-If you have questions or concerns regarding this statement, then please contact us toll free at (800) 353-7630 or via fax: (214) 853-5997 or write to us at our address at the end of this notice.  If we do not acknowledge your inquiry or address it to your satisfaction, then please contact TRUSTe at: https://www.truste.org/consumers/watchdog_complaint.php
+ **Do we use cookies?**
 
-TRUSTe will then serve as a liaison with us to resolve your concerns.
+We do not use cookies.
 
-## INFORMATION COLLECTION AND USE
+ **Do we disclose any information to outside parties?**
 
-Two types of information may be collected when you visit any of our web sites, information that you knowingly provide us (called personally identifiable information), and information that is obtained from your visit but is not directly associated with you (called non-personally identifiable information).
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-When you sign up to use one or more of our services, ask a question or purchase merchandise, we may specifically ask for information about you, including, but not limited to name, address, telephone number, e-mail address, birth date and/or payment information. This information is used to facilitate a phone call from one of our Credit Specialists to assist you in reducing your debt. In the normal course of using Credit Solutions's web sites we may collect information about your habits and usage of our sites. This non-personally identifiable information is collected without any direct association with you specifically.
+ **Third party links**
 
-## INFORMATION SHARING AND DISCLOSURE
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Agents, employees and contractors of Credit Solutions, who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of the company. Information about you specifically will not be used for any purpose other than to carry out the services you requested from Credit Solutions and its affiliates.
+ **California Online Privacy Protection Act Compliance**
 
-We will not sell or rent your personally identifiable information to anyone at any time without your prior permission, except as disclosed below. We will not use any personal information beyond what is necessary to assist us in delivering to you the services you have requested.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-  1. We have your consent to share the information,
-  2. We need to share your information in order to provide the product or service you have requested; or
-  3. We are required to do so by law, for example, in response to a court order or a subpoena.
+ **Childrens Online Privacy Protection Act Compliance**
 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
+ **Online Privacy Policy Only**
 
-In states where we cannot provide assistance, we have partnered with affiliates who can provide you the services you have requested. In those cases, the affiliates are required to meet our high standards and comply with this Privacy Policy before we disclose any information. 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-We routinely use the non-personally identifiable information that we collect to improve the design and content of our sites and to enable us to personalize your Internet experience. We also may use this information to analyze site usage, as well as to offer products, programs, or services to you or other users like you.
+ **Your Consent**
 
-## USES OF E-MAIL ADDRESSES
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
 
-**Customer Service** \- Based upon the personally identifiable information you provide us through creditsolutions.com, we may send you an confirmation email letting you know that we received your information successfully. We will also communicate with you in response to your inquiries, to provide services you request, and to manage your account. We will communicate with your by email or telephone in accordance with your wishes. 
+ **Changes to our Privacy Policy**
 
-**Service Related Announcements** \- Credit Solutions may send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily unavailable for system maintenance, we might send you a email notice to keep you informed. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. Please contact customer care if you wish to do so. customercare@creditsolutions.com.
+If we decide to change our privacy policy, we will post those changes on this page. 
 
-## COLLECTION OF INFORMATION BY THIRD-PARTY SITES AND SPONSORS
+This policy was last modified on 1-4-13
 
-Sometimes Credit Solutions's web sites may contain links to various other sites not owned and operated by Credit Solutions. While we encourage other site developers to adopt privacy policies that build user's trust and confidence, we are not responsible for the privacy practices or the content of web sites either linked to our sites or to which we link. Visitors should consult the other sites' privacy policies, as we have no control over the information that is submitted to, or collected by, these third parties.
+any questions or comments email [support@creditsolutions.com](mailto:support@creditsolutions.com)
 
-## CORRECTING AND EDITING YOUR INFORMATION
+This policy is monitored and in compliance with our local law 
 
-If you would like to make changes to the information you submitted (i.e. email address change), you may contact the webmaster at customercare@creditsolutions.com or notify the Credit Specialist assisting you to make these changes. We do not store your information online for your access at this time. 
-
-## USE OF COOKIES
-
-Cookies are small text files that may be placed on your computer's hard drive by our servers to identify your computer. We may use cookies to recognize you when you visit our sites, to personalize your experience and generally to serve you better. For example, if you enter your name, address, telephone number, email address, zip code or other personally identifiable information on one of our forms, such information may be, but is not necessarily always, stored in a cookie so you do not have to enter this information again. Our learning center portion of creditsolutions.com uses cookies for the two interactive tools. These cookies do not store any personally identifiable information and are used only for calculations in the interactive tools. Creditsolutions.com also uses third party cookies for the purpose of site traffic monitoring. These cookies help us understand which parts of our site are most visited and helps up keep our site as up to date and helpful as possible. These third party cookies do not store any personal identifiable information. 
-
-## IP ADDRESSES
-
-An IP address is a number that is assigned to your computer whenever you're using the Internet. Web servers automatically identify your computer by its IP address. Credit Solutions collects IP addresses in our web site logs for the purposes of system administration, to report aggregated information, and to audit the use of our site. When visitors request pages from Credit Solutions' site, our servers log the visitor's IP address. We do not link IP addresses to anything personally identifiable, which means that a visitor's session will be logged, but the visitor remains anonymous to us.
-
-## Privacy Policy Changes
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
-
-## OUR COMMITMENT TO SECURITY
-
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect via the Internet. We do not sell, trade, or rent your personal information in any way and at any time without your prior knowledge and permission.
-
-If you have questions about the privacy procedures employed at Credit Solutions, please contact:
-
-**Credit Solutions  
-12700 Park Central Dr, 9th Floor, Dallas, TX 75251  
-Toll Free: (800) 353-7630 . Fax: (214) 853-5997 **  
-Policy Effective Date: August 14, 2008 
+.
