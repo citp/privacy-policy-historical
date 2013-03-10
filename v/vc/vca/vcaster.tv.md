@@ -1,33 +1,112 @@
-> *The following text is extracted and transformed from the vcaster.tv privacy policy that was archived on 2012-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121222002046id_/http%3A//www.vcaster.tv/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcaster.tv privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310082008id_/http%3A//vcaster.tv/privacy.php) for the most accurate reproduction.*
 
-# vcaster - Free Live Broadcasting
+# Vcaster Beta 2.0 - Live Video Stream on Tencast
 
-## Privacy policy :
+vcaster.tv are committed to protecting and respecting your privacy.
 
-vcaster is committed to protecting your privacy when you use the vcaster website. This Privacy Policy informs you of the types of information vcaster collects about you, how that information is used, whether and to whom vcaster discloses it, and the choices you have regarding your personal information. Please read carefully. 
+This policy (together with our Terms of Use and vcaster.tv! End User Licence Agreement (and any other documents referred to therein) describes the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-**Collection of Information**
+Unless otherwise defined below, defined terms referred to in this Privacy Policy shall have the meaning set out in the vcaster.tv! Terms of Use.  
+How we collect information
 
-vcaster may automatically collect certain aggregated data regarding your use of the website. Aggregated information is anonymous, statistical information that reflects the scope of the website's user base, customer patterns and related site information. In addition, certain non-personally identifiable information is collected by vcaster and other third-party advertising providers during your use of the vcaster website and in serving advertisements to the vcaster website.
+We may collect and process the following information about you:
 
-vcaster may also use cookies to track and understand the traffic on the vcaster website. Cookies are alphanumeric identifiers that the vcaster website places onto the user's computer hard drive. Cookies identify the user's computer hard drive so that the vcaster website can recognize you the next time you visit.
+1\. In order to access the vcaster.tv! service for the first time, you may be asked to create a user account by providing information including your first and last name, a valid email address and a password made up of alpha numeric characters. Subsequently, you may be asked to sign in using your registered email address and password, which we refer to as your "credentials". As part of creating your user account, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password, as well as an alternate email address. Finally, a unique ID number will be assigned to your credentials which will be used to identify your credentials and associated information.
 
-Third party advertisements displayed on or in connection with the vcaster website may also contain cookies set by such advertisers. vcaster does not control these cookies and users of the vcaster website should check the privacy policy of such advertisers to understand whether and how it uses cookies. 
+2\. We ask you to provide personal information, such as your e-mail address, name, company name, home or work address or telephone number. We may also collect demographic information, such as your ZIP or postal code, age, gender, preferences, interests and favourites.
 
-**Use of Information**
+3\. We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with the Site and other vcaster.tv sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
 
-If you submit personally identifiable information to vcaster through the vcaster website, then vcaster may use your personal information to operate, maintain, and provide to you the features and functionality of the site.
+4\. When you use the Services to distribute User Content to other Users of the Services, we may collect information about the User Content you are distributing including the title, description, genre, type (audio or video) and location information. In addition, if you use the vcaster.tv! User Microsite or Channel page feature, you will be able to create and edit your own page on the Site, which will contain addition information about you (that you provide) and which will be visible to other users of the Services.
 
-vcaster does not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+5\. When you receive newsletters or promotional e-mail, we may use web beacons, customised links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
 
-**Disclosure of Information**
+6\. In order to offer you a more consistent and personalised experience in your interactions with the Services and us, information collected through one vcaster.tv service may be combined with information obtained through other vcaster.tv services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customise certain services to your geographic area.  
+IP Addresses and Cookies
 
-vcaster will not share your personally identifiable information with any third-parties for their commercial or marketing use.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about Users" browsing actions and patterns, and does not identify any individual.
 
-vcaster may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with any laws or respond to a court order, subpoena, or search warrant.
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies are small text files that are placed on your hard disk by a web page server. Cookies cannot be used programs or deliver viruses to your computer. They help us to improve the Services and to deliver a better and more personalised service. They enable us:
 
-vcaster also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, if appropriate or necessary to enforce the Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the vcaster website, and to protect the rights, property, or personal safety of vcaster, our users or others. 
+  * To estimate our audience size and usage pattern;
+  * To store information about your preferences, and so allow us to customise the Site according to your individual interests;
 
-**Changes and updates to this Privacy Notice**
 
-This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the vcaster website constitutes your agreement to this privacy notice and any future revisions.
+  * To speed up your searches and
+  * To recognise you when you return to the Site.
+
+
+
+We use "session" cookies which confirm that users are logged on to the Site. These cookies terminate once the User closes the browser. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site.
+
+Please note that our advertisers may also use cookies, over which we have no control.  
+Where we store your personal data
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staffs operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy polic y.
+
+All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Site, you are responsible for keeping this password confidential. You must not share your password with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving a site or service to protect access to your information from subsequent users.  
+How we keep your information secure
+
+We are committed to protecting the security of your personal information. As such, all information you provide to us is stored on our secure servers and we use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use or disclosure.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.  
+How we use the information we collect
+
+We use information held about you in the following ways:
+
+  * To ensure that content from the Site is presented in the most effective manner for you and for your computer;
+
+
+  * To allow us to operate and improve the Site and deliver the services or carry out the transactions you have requested in the most effective manner;
+
+
+  * Performing research and analysis aimed at improving our products, services and technologies;
+
+
+  * To allow you to participate in interactive features of our service, when you choose to do so; and
+
+
+  * To notify you about changes to our service.
+
+
+
+We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.  
+Children under age 13
+
+In accordance with our Terms of Use, we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register to use the Services. If you are under 13, please do not send any information about yourself to us. No one under the age of 13 is allowed to provide any personal information to vcaster.tv or to use any of the Services. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at [info@vcaster.tv](mailto:info@vcaster.tv) .  
+Children aged between ages 13 and 14
+
+We require that children over the age of 13 ask their parents or legal guardians for permission before sending any information about themselves over the Internet.  
+Disclosure of your information
+
+vcaster.tv! enables you to distribute live audio and video content and other information about yourself with other Users. We allow you to choose the information you share with other Users.
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+
+In addition, some vcaster.tv services may be co-branded and offered in conjunction with another company. If you register for or use such services, both vcaster.tv and the other company may receive information collected in conjunction with the co-branded services.
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+
+
+  * If vcaster.tv or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; and
+
+
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use and other agreements; or to protect the rights, property, or safety of vcaster.tv, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+In accordance with our TERMS OF USE, we may disclose your identity to any third party who claims that any User Content posted or uploaded by you to the Site or delivered by you using the Services to other Users of the Services constitutes a violation of their intellectual property rights, or of their right to privacy OR ANY BREACH OF LAW OR REGULATION IN ANY JURISDICTION.  
+Your rights
+
+You may have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your credentials.
+
+You have the right to request details of the information we hold about you and to delete or rectify any inaccurate information about you by sending us a written request to [info@vcaster.tv](mailto:info@vcaster.tv) stating your full name and your address. A small administrative charge may be made for fulfilling this request.
+
+The Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites
+
+You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data (if any). You can also exercise the right at any time by contacting us at [admin@vcaster.tv](mailto:admin@vcaster.tv)  
+Changes to our privacy policy
+
+vcaster.tv under a continuing development process. Any changes we may make to our privacy policy in the future will be posted on this page. You should check this page from time to time to ensure you are happy with any changes.
