@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfriendapp.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120054026id_/http%3A//www.unfriendapp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfriendapp.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310111655id_/http%3A//www.unfriendapp.com/privacy.html) for the most accurate reproduction.*
 
 # UnfriendApp - Privacy Policy
 
@@ -36,7 +36,7 @@ There may be instances when the Company may disclose user information without pr
 
 ### Notice and Modifications
 
-This Privacy Policy is the means by which the Company provides you with notice about its collection and use of your personal information. The Company may modify this Privacy Policy at any time, and each such modification will be effective upon notice to you, including posting on the Site.
+When UnfriendApp has new added functionality to the app, we will provide a notice to you and what upgrades are available. We will not implement the upgrades until you have consented. If you do not want the upgrades, we will provide you with an option to uninstall.
 
 #### Legacy Users
 
@@ -54,8 +54,8 @@ We do not knowingly collect personal data from children or collect data from any
 
 To uninstall from any of the supported browsers go to the Windows Start Menu and then to Control Panel. Under programs click on uninstall a program. Navigate and click on UnfriendApp. Click on Uninstall/Change.
 
-For more detailed uninstall instructions, feel free to visit the uninstall section on our [About page](https://web.archive.org/web/20121120054026id_/http%3A//www.unfriendapp.com/about.html#uninstall-information).
+For more detailed uninstall instructions, feel free to visit the uninstall section on our [About page](https://web.archive.org/web/20130310111655id_/http%3A//www.unfriendapp.com/about.html#uninstall-information).
 
 ### Questions and Concerns
 
-If you have any questions or concerns about the Privacy Policy or its implementation, please email us at [support@unfriendapp.com](mailto:support@unfriendapp.com). 
+If you have any questions or concerns about the Privacy Policy or its implementation, please email us at [helpdesk@unfriendapp.com](mailto:helpdesk@unfriendapp.com). 
