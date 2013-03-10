@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the nyra.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228153928id_/http%3A//nyra.com/iwscratches/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyra.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310022615id_/http%3A//www.nyra.com/iwscratches/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy Policy | New York Racing Association - Belmont
 
-[](http://www.nyra.com/iwscratches/nyra-logo.jpg) | **The New York Racing Association Inc.**  
----|---  
-  
 _Privacy Policy Notice_
 
 **Protecting your privacy** has always been important to us and we continue to be committed to protecting the privacy of our customers’ information. Please take a few minutes to review this information about The New York Racing Association Inc.’s (“NYRA”) privacy policies and practices.
@@ -25,5 +22,3 @@ _Privacy Policy Notice_
 We will continue to adhere to the policies and practices described in this privacy policy with respect to the information that we have acquired, even when you are no longer a customer.
 
 We reserve the right to change this policy at any time and will provide you with a notice describing the revised policies. In addition, our policy will be sent to you annually. Should you have any questions about our policy, please do not hesitate to write to us at P.O. Box 90, Jamaica, New York 11417.
-
-Copyright © The New York Racing Association, Inc. All rights reserved. 
