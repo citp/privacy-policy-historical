@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forex-for-retirement.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206013407id_/http%3A//forex-for-retirement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-for-retirement.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310102521id_/http%3A//www.forex-for-retirement.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Forex for Retirement
+# » Privacy Policy
 
 ## Privacy Policy
 
@@ -67,3 +67,7 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:** ****
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+
+#### Our Sponsors
+
+[ ](http://mavmakers.mdpips.hop.clickbank.net/)
