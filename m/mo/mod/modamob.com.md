@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modamob.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209115027id_/http%3A//www.modamob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modamob.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310030458id_/http%3A//www.modamob.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ModaMob
+# Privacy Policy
 
 Effective Date: _January 1, 2007_
 
