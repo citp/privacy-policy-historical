@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maryland.gov privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126002806id_/http%3A//www.maryland.gov/pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maryland.gov privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310082326id_/http%3A//www.maryland.gov/pages/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Maryland.gov Privacy Policy
 
 Thank you for visiting a website published and managed by the State of Maryland Department of Information Technology. This statement applies specifically to Maryland.gov and State agency websites that have been authorized to link to this central privacy statement.
 
@@ -24,7 +24,7 @@ If you send us e-mail, we use the information you send us to respond to your inq
 
 ## General Privacy Policy
 
-It is our policy to preserve the privacy of personal records and to protect confidential or privileged information. Such information will be disclosed publicly only as required by the Public Information Act or as necessary or permissible to carry out official duties. Under State law, these policies do not apply to information gathered for certain specified purposes, such as the investigation of a possible violation of the law. If you have any questions about these privacy policies, please e-mail them to [contact@maryland.gov](mailto:contact@maryland.gov).
+It is our policy to preserve the privacy of personal records and to protect confidential or privileged information. Such information will be disclosed publicly only as required by the Public Information Act or as necessary or permissible to carry out official duties. Under State law, these policies do not apply to information gathered for certain specified purposes, such as the investigation of a possible violation of the law. If you have any questions about these privacy policies, please e-mail [support](https://web.archive.org/pages/support.aspx).
 
 ## Privacy Policy Changes
 
