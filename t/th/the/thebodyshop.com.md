@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebodyshop.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030073157id_/http%3A//www.thebodyshop-usa.com/about-us/privacy.aspx%3Fcm_re%3DTyra_VineyardPeach2012-_-Navigation-_-Privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310045116id_/http%3A//www.thebodyshop-usa.com/about-us/privacy.aspx%3Fcm_re%3DTyra_HolidayPh12012-_-Navigation-_-Privacy%2520policy) for the most accurate reproduction.*
 
 # The Body Shop - Privacy Policy
 
@@ -47,7 +47,7 @@ You are required to register with _thebodyshop-usa.com_ in order to purchase pro
 
 The Body Shop incorporates security measures such as encryption and authentication tools to protect your data from unauthorized use. Firewalls are utilized to protect our servers and network from unauthorized users accessing and tampering with files and other information that we store.
 
-We use Secure Sockets Layer (SSL) technology to protect your credit card information. Upon entering the checkout page your computer will begin communicating with our server in secure mode. You will be able to tell that you are in secure mode because the "https" in the web address on your browser will change to "https". In addition, depending on the browser you use, you will see either a padlock (Microsoft Internet Explorer, Netscape Communicator, AOL) or a solid key (Netscape Navigator) in the lower section of your browser window.
+We use Secure Sockets Layer (SSL) technology to protect your credit card information. Upon entering the checkout page your computer will begin communicating with our server in secure mode. You will be able to tell that you are in secure mode because the "http" in the web address on your browser will change to "https". In addition, depending on the browser you use, you will see either a padlock (Microsoft Internet Explorer, Netscape Communicator, AOL) or a solid key (Netscape Navigator) in the lower section of your browser window.
 
 How Do I Correct My Information or "Opt-Out"?
 
