@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localnichespy.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025032413id_/http%3A//localnichespy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localnichespy.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310054809id_/http%3A//localnichespy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
