@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9-11heroes.us privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717081834id_/http%3A//www.9-11heroes.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9-11heroes.us privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310081626id_/http%3A//www.9-11heroes.us/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -101,7 +101,7 @@ Fly Your Own American Flag: [](http://www.amazon.com/Annin-Tough-Tex-Woven-Polye
 > If you submit your email when contacting us via the [contact form on this page](http://www.9-11heroes.us/contact.php), we may use your email address to contact you. We are not storing email addresses submitted via that contact form, nor do we ever give or sell your email address to any third party. HOWEVER, if you do put your email address into a memorial comment, those addresses may end up published online.  
 >  We try to keep advertisements to a minimum on this website and we don't have long term sponsors. The revenue from the advertisements goes towards the costs of maintaining this site. From time to time we may post an affiliate link to a product related to our site, and we will receive a small commission if you purchase through such links. 
 > 
-> Questions? [Contact us.](https://web.archive.org/web/20120717081834id_/http%3A//www.9-11heroes.us/contact.php)
+> Questions? [Contact us.](https://web.archive.org/web/20130310081626id_/http%3A//www.9-11heroes.us/contact.php)
 
   
   
