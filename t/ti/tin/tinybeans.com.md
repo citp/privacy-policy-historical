@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the tinybeans.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106010309id_/http%3A//www.tinybeans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinybeans.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310024113id_/http%3A//tinybeans.com/site/privacy) for the most accurate reproduction.*
 
-# Tinybeans - Privacy Statement
+# Privacy Policy - Tinybeans
 
 Your privacy is important to Tinybeans. This privacy statement provides information about the personal information that Tinybeans collects, and the ways in which Tinybeans uses that personal information. 
 
-## Personal information collection
-
 Tinybeans may collect and use the following kinds of personal information: 
 
-  * information about your use of this website
-  * information that you provide using for the purpose of registering with the website
-  * information about transactions carried out over this website
-  * information that you provide for the purpose of subscribing to the website services; and
-  * any other information that you send to Tinybeans.
+  * information about your use of this website;
+  * information that you provide using for the purpose of registering with the website;
+  * information about transactions carried out over this website;
+  * information that you provide for the purpose of subscribing to the website services;
+  * any other information that you send to Tinybeans
 
 
 
@@ -26,7 +24,7 @@ Tinybeans may use your personal information to:
   * publish information about you on the website;
   * send to you products that you purchase;
   * supply to you services that you purchase;
-  * send you statements and invoices;
+  * send to you statements and invoices;
   * collect payments from you; and
   * send you marketing communications.
 
@@ -58,8 +56,14 @@ You should check this page occasionally to ensure you are familiar with any chan
 
 ## Other websites
 
+This website contains links to other websites. 
+
 Tinybeans is not responsible for the privacy policies or practices of any third party. 
 
-## This privacy statement
+## Contact Tinybeans
 
-This privacy statement is based on a precedent created by employmentlawcontracts.co.uk and published by freenetlaw.com. 
+If you have any questions about this privacy policy or Tinybeans' treatment of your personal information, please write: by email to info@tinybeans.com; or by post to P O Box A2628, Sydney South, NSW 1235, Australia.
+
+## About this privacy statement
+
+We created this privacy statement using a free privacy statement template available at www.freenetlaw.com. Other forms available from Contractology include sale agreement precedents. Personal information collection 
