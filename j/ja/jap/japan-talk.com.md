@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514103458id_/http%3A//www.japan-talk.com/jt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310073612id_/http%3A//www.japan-talk.com/jt/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Japan Talk
 
-  
 |  |    
 Japan Talk takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -16,7 +15,7 @@ Japan Talk automatically receives and records information on our server logs fro
 
 ## Information Sharing and Disclosure
 
-Japan Talk does not rent, sell, or share personal information we have collected about you with other people or nonaffiliated companies. However, our pages include advertising and social media features from third parties.
+Japan Talk does not rent, sell, or share personal information we have collected about you with other people or non-affiliated companies. However, our pages include advertising and social media features from third parties.
 
 We use social media features to allow you to share content from Japan Talk with people you know or online communities. Such features may set cookies to enhance their services to you.
 
@@ -32,8 +31,12 @@ As a result of the ads on Japan Talk, third parties (including Google) place and
 
 We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
 
+## Disclosure by Law
+
+Japan Talk may disclose information you provide if required to do so by law, at the request of a third party, or if we, in our sole discretion, believe that disclosure is reasonable to (1) comply with the law, requests or orders from law enforcement, or any legal process (whether or not such disclosure is required by applicable law); (2) protect or defend Japan Talk's rights or property; or (3) protect someone's health or safety, such as when harm or violence against any person (including the user) is threatened. 
+
 ## Changes to this Privacy Policy 
 
 Japan Talk may update this policy. We will notify you about significant changes in the way we treat personal information by placing a prominent notice on our site. 
 
-Effective Date: January 1, 2012 
+Effective Date: January 23, 2008 
