@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zacks.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103033701id_/http%3A//www.zacks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zacks.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310081345id_/http%3A//www.zacks.com/privacy.php) for the most accurate reproduction.*
 
-# - Privacy Policy
+# Zacks.com
 
 **Zacks Investment Research Privacy Policy**
 
@@ -38,6 +38,6 @@ If you decide to subscribe to any of our paid newsletters, we collect your credi
 
 Please note that while Zacks will not freely distribute the information you submit, if you click to unsubscribe from mailings sent to the Zacks.com Opt-In Marketing List from a particular marketer, we are obligated to share your email address with that marketer for the purpose of being added to their Do Not Mail list. How that mailer manages your email address after that time is beyond Zacks.com control.
 
-**Children''s Online Privacy Protection Rule:** If a child has provided us with private information without parental or guardian consent, the parent or guardian should e-mail us to remove the information and unsubscribe the child from any promotional contact opportunities. Contact Information: If you experience any privacy related difficulties on Zacks.com, please use the following contact information: [support@zacks.com](mailto:support@zacks.com).
+**Children's Online Privacy Protection Rule:** If a child has provided us with private information without parental or guardian consent, the parent or guardian should e-mail us to remove the information and unsubscribe the child from any promotional contact opportunities. Contact Information: If you experience any privacy related difficulties on Zacks.com, please use the following contact information: [support@zacks.com](mailto:support@zacks.com).
 
 Updated 6/09
