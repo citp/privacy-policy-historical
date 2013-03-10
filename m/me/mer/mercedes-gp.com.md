@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedes-gp.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510105510id_/http%3A//www.mercedes-amg-f1.com/staticlayer/privacypolicy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedes-gp.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310045428id_/http%3A//www.mercedes-amg-f1.com/staticlayer/privacypolicy_en.html) for the most accurate reproduction.*
 
 # 
 
