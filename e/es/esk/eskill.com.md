@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eskill.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108125445id_/http%3A//www.eskill.com/privacy-htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eskill.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310053031id_/http%3A//www.eskill.com/privacy-htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - eSkill
 
 eSkill Corporation (hereafter «eSkill» or «we») understands the power that the Internet holds for changing your life and making things easier for you. These benefits are at risk if people are concerned about their personal privacy. We are committed to providing you with an Internet experience that respects and protects your personal privacy choices and concerns.
 
@@ -93,6 +93,6 @@ We will notify you directly if there is a material change in our privacy practic
 
 Please contact us at if you have any questions or suggestions regarding our privacy policy:
 
-Phone: (866) 537-5455  
-Fax: (978) 649-8040  
+Phone: 1-866-537-5455  
+Fax: 1-978-649-8040  
 Email: **[info@eskill.com](mailto:info@eskill.com) **
