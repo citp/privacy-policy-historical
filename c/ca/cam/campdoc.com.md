@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the campdoc.com privacy policy that was archived on 2012-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120220192612id_/https%3A//www.campdoc.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campdoc.com privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311083846id_/https%3A//campdoc.com/privacy_policy.php) for the most accurate reproduction.*
 
 # CampDoc.com | Privacy Policy
 
-#### Your Privacy and Security is our Top Priority
+  * #### Your Privacy and Security is our Top Priority
 
 While it is necessary for us to collect personal information that you provide us, we respect and protect your right to privacy. We implement a variety of security measures to maintain the safety of your personal information. The following is CampDoc's policy regarding your privacy and the security of your personal information.
 
     * We offer the use of a secure server. All supplied sensitive information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. 
     * CampDoc LLC uses your personal information to personalize your experience, improve customer service and promote safer and more efficient communication between parents and camps. 
     * CampDoc LLC may use non-personally identifiable aggregated data in order to better understand how our site is being use and to enhance the experience of all visitors to our site. 
-    * You are always able to review and edit your registration information from our site at any time. 
+    * You are always able to review and edit your registration information from our site at any time.   
+
 
 #### How Your Information is Protected
 
@@ -43,12 +44,13 @@ CampDoc LLC reserves the right to change this Privacy Policy, at any time. We wi
 
 If you have any questions regarding this privacy policy you may contact us at any time.
 
-      * CampDoc LLC 
-      * 111 N Ashley, Suite 401 
-      * Ann Arbor, Michigan 48104 
-      * USA 
-      * � 
-      * www.campdoc.com 
-      * info@campdoc.com 
+    * CampDoc LLC
+    * 111 N Ashley, Suite 401
+    * Ann Arbor, Michigan 48104
+    * USA
+    *   
 
+    * www.campdoc.com 
+    * info@campdoc.com 
+    * 
 
