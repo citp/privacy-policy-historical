@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awardscircuit.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110041324id_/http%3A//www.awardscircuit.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awardscircuit.com privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311025017id_/http%3A//www.awardscircuit.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Awards Circuit - By Clayton Davis - Academy Awards, Oscars, and Other Award Show Predictions
 
@@ -64,7 +64,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [The Awards Circuit](http://www.awardscircuit.com/)  
 [http://www.awardscircuit.com](http://www.awardscircuit.com/)  
-[ClaytonDavis@AwardsCircuit.com](https://web.archive.org/web/20121110041324id_/http://www.awardscircuit.com/about-us/privacy-policy/claytondavis@awardscircuit.com)
+[ClaytonDavis@AwardsCircuit.com](https://web.archive.org/web/20130311025017id_/http://www.awardscircuit.com/about-us/privacy-policy/claytondavis@awardscircuit.com)
 
 This document was last updated on September 02, 2012
 
