@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyken.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104013026id_/http%3A//www.familyken.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyken.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312004614id_/http%3A//www.familyken.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Familyken No Minimum Payouts - Earn Money At Home!
 
