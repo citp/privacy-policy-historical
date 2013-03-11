@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfectmind.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109184624id_/http%3A//www.perfectmind.com/SocialSite/Object/Records/PrivacyPolicies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectmind.com privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311104204id_/http%3A//www.perfectmind.com/SocialSite/Object/Records/PrivacyPolicies) for the most accurate reproduction.*
 
-# Small Business Management Software Solution
+# Small Business Software - Management, Marketing, Billing
 
 [](https://privacy-policy.truste.com/click-with-confidence/TrustedCloud/en/www.perfectmind.com/seal_l "Validate TRUSTe privacy certification")
 
