@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the incredibleworld.net privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055343id_/http%3A//incredibleworld.net/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredibleworld.net privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311195925id_/http%3A//incredibleworld.net/about) for the most accurate reproduction.*
 
 # Privacy
 
   * Thursday, October 29, 2009, 18:15
-  * 362 views
+  * 372 views
 
 
 
