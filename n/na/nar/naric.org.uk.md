@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naric.org.uk privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023100923id_/http%3A//www.ecctis.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naric.org.uk privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311191109id_/https%3A//www.naric.org.uk/privacy.aspx) for the most accurate reproduction.*
 
 # ECCTIS Ltd - Privacy policy
 
-[](https://web.archive.org/web/20121023100923id_/http%3A//www.ecctis.co.uk/default.aspx)
+[](https://web.archive.org/web/20130311191109id_/https%3A//www.naric.org.uk/default.aspx)
 
 ### Cookies
 
@@ -32,18 +32,18 @@ WHO WE ARE
 
 Find out more about the services we provide 
 
-[Who We Are](https://web.archive.org/web/20121023100923id_/http%3A//www.ecctis.co.uk/About%20Us.aspx)
+[Who We Are](https://web.archive.org/web/20130311191109id_/https%3A//www.naric.org.uk/About%20Us.aspx)
 
 CONTACT US
 
 Contact us with any queries  
 you may have
 
-[Contact Us](https://web.archive.org/web/20121023100923id_/http%3A//www.ecctis.co.uk/Contact%20Us.aspx)
+[Contact Us](https://web.archive.org/web/20130311191109id_/https%3A//www.naric.org.uk/Contact%20Us.aspx)
 
 NEWS
 
 Keep up to date with the latest   
 news. 
 
-[News](https://web.archive.org/web/20121023100923id_/http%3A//www.ecctis.co.uk/News.aspx)
+[News](https://web.archive.org/web/20130311191109id_/https%3A//www.naric.org.uk/News.aspx)
