@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ubersocial.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223052130id_/http%3A//ubermedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubersocial.com privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311095141id_/http%3A//ubermedia.com/privacy) for the most accurate reproduction.*
 
 # UberMedia » Privacy Policy
 
-UberMedia is committed to protecting the privacy of your information. This Privacy Policy describes how we collect, store and use information from and about users of our websites, including www.ubermedia.com, www.chime.in, www.ubersocial.com, and www.echofon.com (the “Sites”), and any services or software available or enabled via the Sites (“Services”). This Privacy Policy is subject to our [Universal Terms](http://ubermedia.com/all-terms/terms). By using our Sites or Services, you expressly consent to UberMedia’s collection, storage, use and disclosure of your information as described in this Privacy Policy. If you disagree with anything in this Privacy Policy, you may not use the Sites or the Services. 
+UberMedia is committed to protecting the privacy of your information. This Privacy Policy describes how we collect, store and use information from and about users of our websites, including www.ubermedia.com, www.chime.in, www.ubersocial.com, and www.echofon.com (the “Sites”), and any services or software available or enabled via the Sites (“Services”). This Privacy Policy is subject to our [Universal Terms](http://ubermedia.com/all-terms/terms). By using our Sites or Services, you expressly consent to UberMedia’s collection, storage, use and disclosure of your information as described in this Privacy Policy. If you disagree with anything in this Privacy Policy, you may not use the Sites or the Services.
 
 **INFORMATION COLLECTED**
 
@@ -137,4 +137,4 @@ Pasadena, CA 91103
 
 Email: [copyright@ubermedia.com](mailto:copyright@ubermedia.com)
 
-Effective: March 5th, 2011.
+Effective: March 5th, 2011
