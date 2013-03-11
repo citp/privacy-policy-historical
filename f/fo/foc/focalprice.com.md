@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the focalprice.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619055240id_/http%3A//www.focalprice.com/helptype.html%3FParentID%3D%26TypeID%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focalprice.com privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311095613id_/http%3A//www.focalprice.com/helpinfo%3FcurrentCategoryID%3D24) for the most accurate reproduction.*
 
-# Welcome to focalprice.com | The lowest Price for DS R4 lite,PSP Slim,Genuine Earphone,SONY EX71 EX082PS2,Macbook Accessories etc.
+# www.focalprice.com helpindex
 
 **Last updated**  
 The Privacy Policy contained herein became officially effective on  Jan 26th, 2010. 
@@ -23,7 +23,7 @@ Register email, Password, Nickname, IP address, the date and time, browser and o
 When you order in our website, we may collect this information:  
 Register email, Password, Nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email, your PayPal shipping address 
 
-When we have more cooperation (like drop shipping), we may collect more information:  
+When we have more cooperation, we may collect more information:  
  like Phone number, your website, MSN, your reviews and testimonials etc 
 
 **Information use:**  
@@ -34,3 +34,7 @@ Our website contains links to other sites (like tracking web). Please be aware t
 
 **Notification of Changes**  
 If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Customers are responsible for periodically checking the Privacy Policy available on the Website for changes. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage. 
+
+**Choice and Opt-Out**
+
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication.
