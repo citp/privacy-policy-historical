@@ -1,251 +1,247 @@
-<!--The following is the downloaded HTML source of the focalprice.com privacy policy that was archived on 2011-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110619055240id_/http%3A//www.focalprice.com/helptype.html%3FParentID%3D%26TypeID%3D24) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the focalprice.com privacy policy that was archived on 2013-03-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130311095613id_/http%3A//www.focalprice.com/helpinfo%3FcurrentCategoryID%3D24) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="keywords" content="PSP Slim,R4,DS R4,N5,DSTT,DS lite,PSP,Wii,XBOX,XBOX 360,Wii,PS2,PS3,Video Games,iPod Earphone,SONY EX082,EX 082,SONY EX71,SONY EX 71,CX300,CX400,Macbook,Macbook Case,Macbook Accessories,FM Transmitter,Memory Card,Flash Drive,Pen Drive,Laser,FlashLight,Cellphone,MP3 Player,MP4 Player,Iphone,Camear,Computer Cable,Cable,The lowest Price.">
-		<meta name="description" content="The lowest Price for DS R4 lite,PSP Slim,Genuine Earphone,SONY EX71 EX082 PS2,Macbook Accessories etc.">
-		<meta name="google-site-verification" content="TVzjpZzuVxKmCH4VqtPgLDk9W5nL2WyDN0h_eyRZWJU">
-		<link href="/templates/css/globalv2.css?t=20100408.css" rel="stylesheet" type="text/css">
-		<link href="/templates/css/helpindex.css" rel="stylesheet" type="text/css">
-		<title>Welcome to focalprice.com | The lowest Price for DS R4 lite,PSP Slim,Genuine Earphone,SONY EX71 EX082PS2,Macbook Accessories etc.
-        </title>
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Templates/js/jquery-1.4.2.min.js"></script>
-		<script type="text/javascript">
-        function keyswordsSearch(){
-       var keys=document.getElementById("helpkeys").value;
-       if( keys.length<1 || keys=="Enter Key"){
-              alert("Please input a keyword.");
-			  document.getElementById("helpkeys").focus();
-              return false;
-       }else{
-           $("#help_search").attr("action","http://www.focalprice.com/helpsearch.html?key="+keys);
-           $("#help_search").submit();
-           return false;
-       }
-      }
-	  document.onkeydown = function(evt) //网页内按下回车触发
-		{
- 			evt = evt || window.event;
-			if(evt.keyCode==13)
- 			{
-			keyswordsSearch();
-		return false;
-			}
-		} 
-      </script>
-	</head>
-    
-    <body>
-		<div id="help" class="Swidth">
-			<p>        Welcome! <a href="http://www.focalprice.com/signin.html?url=http://my.focalprice.com/"><u>Sign in</u></a> | <a href="/register.html"><u>Register</u></a> | 
-                <a href="http://www.focalprice.com/helpsitemap.html">All Products</a>  |  
-        <a href="http://my.focalprice.com/">My account</a>   |   
-		<a href="http://messenger.providesupport.com/messenger/huaxiast.html" target="_blank">Live Help</a>   |  
-        <a href="/helpindex.html" class="help">Help?</a></p>
-			<a href="http://www.focalprice.com/" title="Focal Price,Free Shipping!" class="logo"></a>
-			<div class="Search">
-            <form id="help_search" name="help_search" method="post" action="">
-				<input type="text" name="" id="helpkeys" class="text" onblur="if (this.value == '') this.value = 'Enter Key';" onfocus="if (this.value == 'Enter Key') this.value = '';" value="Enter Key" onmouseover="this.style.borderColor='#FCB309'" onmouseout="this.style.borderColor='#a6c1d9'">
-              <input type="button" name="input" id="input" class="chk" onclick="javascript:keyswordsSearch();">
-            </form>
-			</div>
-		</div>
-<script language="javascript">
-
-$(function()
-{
-  $("#continue").click(function()
-  {
-   continueContactUs();
-  });
-});
-<!--
-function continueContactUs(){
-	var email = $("#email").val(); 
-	var regm =/^([a-zA-Z0-9_-])+@([a-zA-Z0-9_-])+((\.[a-zA-Z0-9_-]{2,3}){1,2})$/;
-	var username=$("#username").val();
-	var enquiry=$("#enquiry").val();
-	
-	if(username==""){
-	alert("Sorry,Full name is required.");
-	$("#username").select();
-	return false;
-	}
-	
-	if(email==""){
-		alert("Sorry,Email address is required.");
-		$("#email").select();
-		return false;
- 	}
- 	if (!regm.test(email) || email.length<2)
-    {
-		alert("Is your email address correct? Please try again.");
-		$("#email").select();   
-		return false;
-    } 
-	if(enquiry==""){
-	alert("Sorry,Enquiry is required.");
-	$("#enquiry").select();
-	return false;
-	}
-	AddEnquiry();
-}
-
-
-
-function AddEnquiry() {
-jQuery.ajax({ 
-	type: 'post', 
-	dataType: 'text', 
-	url: "AjaxHandler.aspx", 
-	data: $("#f_help_contact").serialize(),
-	success: function(data){ 
-		if(data.toString()=="1")
-		{
-		    alert("Focal Customer service center will give your feedback within 24 hours by email.");
-			//window.location.href='/reviewDetail_${goods_sku}.html';
-		    $("#username").val("");
-			$("#email").val("");
-			$("#enquiry").val("");
-		}else
-		{
-			alert("Unknown error! please try again.");
-		}
-	
-	}	
-		
-	});  
-	
-	
-	$("#continue").ajaxStart(function(){
-	   $(this).val("waitting...");
-	   $(this).attr("disabled","disabled");
-	 }).ajaxComplete(function(){
-	   $(this).val("Continue");
-	    $(this).attr("disabled","");
-	 }); 
-	 
-}
-
--->
-</script>
-		<div id="helpCont" class="Swidth">
-			<div class="Div1">
-				<div class="Div2">
-					<h5><a href="http://www.focalprice.com/" title="Back Home">Home</a> &gt; <a href="helpindex.aspx" title="Help Home">Help</a> &gt; <b>Privacy &amp; Securiry Policy</b></h5>
-                    <br>
-                    <!-- 分类 -->
-                    <div class="HelpCate">
-
-				                        	<h4><a href="/helptype.html?ParentID=14">FAQs</a></h4>						
-                    	<ul>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=15">Payment </a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=16">Shipping </a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=23">Ordering</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=21">Points &amp; Coupons</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=22">Products Warranty</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=17">Returns (RMA)</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=35">My Account</a></li>
-						                        </ul>
-						                    	<h4><a href="/helptype.html?ParentID=8">Policy</a></h4>						
-                    	<ul>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=10">Product Warranty</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=11">Return Policy</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=12">Term of Use</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=24">Privacy &amp; Securiry Policy</a></li>
-						                        </ul>
-						                    	<h4><a href="/helptype.html?ParentID=25">Business Opportunities</a></h4>						
-                    	<ul>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=29">Advantage</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=30">Dropshipping</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=31">Wholesale</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=32">Affiliate Program</a></li>
-						                        </ul>
-						                    	<h4><a href="/helptype.html?ParentID=18">Contact Us</a></h4>						
-                    	<ul>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=26">Leave Message</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=27">Live Chat</a></li>
-						                        	<li><a href="/helptype.html?ParentID=&amp;TypeID=28">RMA Request</a></li>
-						                        </ul>
-						                    	<h4><a href="/helptype.html?ParentID=33">Partner Links</a></h4>						
-                    	<ul>
-						                        </ul>
-						                    	<h4><a href="/helptype.html?ParentID=37">Links</a></h4>						
-                    	<ul>
-						                        </ul>
-						                    	<h4><a href="/helptype.html?ParentID=34">About Us</a></h4>						
-                    	<ul>
-						                        </ul>
-						                    </div>
-                    <!-- /分类 -->
-                    
-                    <!-- 内容部分 -->
-					<div class="HelpNav helpinfo">
-
-<div style="display:none">
-						<h1>Privacy &amp; Securiry Policy</h1>
-						<ul>
-												</ul>  
-						
-												</div>								
-						<div class="helpinfo" style="display:">
-						<h1>Privacy &amp; Securiry Policy</h1>
-						<ul>
-						                        												</ul>
-												<h1 id="119"><!--<img src="templates/Images/help_q.gif" />--> </h1>
-						<div class="helpinfotxt"><!--<img src="templates/Images/help_a.gif" />--><b>Last updated</b><br>The Privacy Policy contained herein became officially effective on&nbsp; Jan&nbsp;26th, 2010. 
-<p><b>Security</b><br>Focalprice.com takes precautions to protect your Personal information. When you submit sensitive information via the website, your information is protected both online and offline.<br>The policy of allowing access to this Personal Information is only to our staffs with a need to know. We also use available technology and encryption, when legally required or when appropriate for your protection, to provide a more secure environment and to reduce the chance of unauthorized access. Personal Information is stored in a secure environment protected by a combination of physical and technical measures. Tape backups are not permitted to leave the premises without prior authorization.<br>Focalprice.com is the sole owner of information collected on this site. We will not sell, share, or rent this information to any outside parties. 
-</p><p><b>This information may be collected</b><br>Register email,Password (No any other body can get your password include our staffs, it is encrypted!)<br>Nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email, your PayPal shipping address;Other information if you want to share with us, like Phone number etc. 
-</p><p>When you browse our website, we may collect this information:<br>IP address, browser and operating system, the URL you request. 
-</p><p>When you register in our website, we may collect this information:<br>Register email, Password, Nickname, IP address, the date and time, browser and operating system, the URL you request. 
-</p><p>When you order in our website, we may collect this information:<br>Register email, Password, Nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email, your PayPal shipping address 
-</p><p>When we have more cooperation (like drop shipping), we may collect more information:<br>&nbsp;like Phone number, your website, MSN, your reviews and testimonials etc 
-</p><p><b>Information use:</b><br>We need the information to process your orders and offer better services to you; we want to make it easier to tailor our products and services to your particular needs. We also want you to have the most enjoyable Internet and shopping experiences possible. This Personal Information also may be used to contact you about sales, special offers and new site features, unless you have elected not to receive promotional communications in connection with this website. However, if you do not like receive promotion emails from us, we will respect you wish. 
-</p><p><b>Links</b><br>Our website contains links to other sites (like tracking web). Please be aware that Focalprice.com is not responsible for the privacy practices of such other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website. 
-</p><p><b>Notification of Changes</b><br>If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Customers are responsible for periodically checking the Privacy Policy available on the Website for changes. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage. 
-</p><p></p></div>   
-												</div>
-					</div>
-                    <!-- /内容部分 -->
-                    
-                    <div class="Clear"></div>
-				</div>
-			</div>
-		</div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="/Views/js/CurrencyUrl.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>www.focalprice.com helpindex</title>
+    <link type="text/css" rel="stylesheet" href="/Views/Css/global.css">
+    <link type="text/css" rel="stylesheet" href="/Views/Css/layout.css">
+    <link type="text/css" rel="stylesheet" href="/Views/Css/help.css">
+    <script type="text/javascript" src="/Views/Js/jquery-1.4.1.js"></script>
+    <script type="text/javascript" src="/Views/Js/ZH-CN.js"></script>
+    <link rel="shortcut icon" href="/Views/favicon.ico">
+    <link rel="stylesheet" rev="stylesheet" id="skin" type="text/css" media="all" href="/Views/css/1024.css">
+    <script type="text/javascript" src="/Views/Js/screen.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$(".account").hover(function () {
+				$(this).children(".selMenu").addClass("active");
+				$(this).children(".down_men").show();
+			}, function () {
+				$(this).children(".selMenu").removeClass("active");
+				$(this).children(".down_men").hide();
+			});
+		})
+	</script>
+</head>
+<body>
+    <div class="header">
         
-<div class="clear"></div> 
-<div id="copyright">
-         Popular on Focalprice: <a href="http://www.focalprice.com/">China Electronics</a>, <a rel="nofollow" href="/iPhone_58_1_n.html">iPhone</a>, <a rel="nofollow" href="/Cameras--Camcorders_83_1_n.html">Cameras</a>, <a rel="nofollow" href="/Cell-Phonesgoods_59_1_c.html">Cell Phones</a>, <a rel="nofollow" href="/Video-Gamesgoods_8_1_c.html">Video Games Accessories</a><br>
-© 2010 FocalPrice.com. All rights reserved.
-</div>
-<div id="footer_pp">
-<a rel="nofollow" class="footer_pa" href="http://www.paypal.com/" target="_blank">Paypal</a>
-<script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script>
-</div>   
+    <!--topMenu-->
+    <div id="topmenuWrap">
+        <div id="topmenu" class="mauto">
+            <ul class="topmenu_l fleft">
+                <li class="fleft home">
+                    <a class="cf50" href="http://www.focalprice.com/">Home</a></li>
+            </ul>
+            <ul class="topmenu_r fright">
+                <li class="fright f11 livechat" style="display: none;">
+                    <script type="text/javascript" src="http://livehelp.focalprice.com/image.php?tl=PGEgaHJlZj1cImphdmFzY3JpcHQ6dm9pZCh3aW5kb3cub3BlbignaHR0cDovL2xpdmVoZWxwLmZvY2FscHJpY2UuY29tL2NoYXQucGhwJywnJywnd2lkdGg9NTkwLGhlaWdodD02MTAsbGVmdD0wLHRvcD0wLHJlc2l6YWJsZT15ZXMsbWVudWJhcj1ubyxsb2NhdGlvbj15ZXMsc3RhdHVzPXllcyxzY3JvbGxiYXJzPXllcycpKVwiIDwhLS1jbGFzcy0tPj48IS0tdGV4dC0tPjwvYT4_&amp;tlont=TGl2ZSBDaGF0&amp;tloft=TGl2ZSBDaGF0&amp;tloo=1"></script>
+                </li>
+                <li class="fright line" style="display: none;"></li>
+                <li class="fright f11 help">
+                    <a href="/help">Help</a></li>
+                <li class="fright line"></li>
+                <li class="fright account f11">
+                    <a class="selMenu" id="selMenu" href="http://members.focalprice.com/My/Account">My Account</a>
+                    <span></span>
+                    <div class="account_menu down_men" style="display: none">
+                        <a id="head_dropshiporderlist" href="http://members.focalprice.com/My/Order/DropShip/List">Drop-shipping
+                        Order List</a>
+                        <a href="http://members.focalprice.com/My/Order/Focal/List">Focal Order List </a>
+                        <a href="http://members.focalprice.com/membermessage">My Message</a>
+                        <a href="http://members.focalprice.com/My/Account/PayedNotReview">My Reviews</a>
+                        <a href="http://members.focalprice.com/My/Point/List">My Points &amp; Counpons</a>
+                        <a href="http://members.focalprice.com/Wishlist">Wish List</a>
+                        <a href="http://members.focalprice.com/memberprofile">My Profile </a>
+                    </div>
+                </li>
+                <li class="fright line"></li>
+                <li class="fright" style="padding: 0 10px;">
+                    <a href="http://members.focalprice.com/Tracking">Order Tracking</a></li>
+                <li class="fright line"></li>
+                <li class="fright siginin" id="sign_area" style="">
+                    <a class="username fleft mr5" href="http://members.focalprice.com/signin">Sign in</a>
+                    <em class="db fleft mr5" id="sign_em_text">or</em>
+                    <a class="cf50 mr5 fleft" href="http://members.focalprice.com/register">Register</a>
+                    <div class="siginin_menu down_men">
+                        <div class="siginin_menu_l">
+                            <h1>Sign In</h1>
+                            <dl>
+                                <form id="signinForm">
+                                    <dt>Email Address :</dt>
+                                    <dd>
+                                        <input type="text" id="emailAddress" name="emailAddress" class="txt"></dd>
+                                    <dt>Password :</dt>
+                                    <dd>
+                                        <input type="password" id="password" name="password" class="txt"></dd>
+                                    <dd class="mt10">
+                                        <input type="submit" class="btn_sign" value=""></dd>
+                                </form>
+                            </dl>
+                        </div>
+                        <div class="siginin_menu_r f11">
+                            <h1 style="font-size: 13px;">New Customer</h1>
+                            Register with Focalprice, you can<br>
+                            *Easier to checkout<br>
+                            *Gain FP points &amp; coupon<br>
+                            *Tracking the status of your order<br>
+                            *Get personalized recommendations
+                        <a class="Create_an_Account"></a>
+                        </div>
+                    </div>
+                </li>
+                <!--登录后-->
+                <li class="fright pr10" id="after_sign" style="display:none;">
+                    <em class="db fleft mr5">Welcome!</em><a route-type="members" class="username db fleft mr10" href="#" id="nickName">MixSun</a>
+                    <a route-type="members" class="cf50 db fleft" href="#">Sign out</a></li>
+            </ul>
+        </div>
+    </div>
+    <!--topMenu add-->
+    <script type="text/javascript">
+        var cookies = document.cookie;
+        var memberNameexp = /Focalprice_MemberNickName=\S*/;
+        var memberIDexp = /Focalprice_MemberID=\S*/;
 
+        var prefixNickname = "Focalprice_MemberNickName=";
+        var prefixMemberID = "Focalprice_MemberID=";
 
+        var len = prefixNickname.length;
+        var lenid = prefixMemberID.length;
+        if (cookies != null) {
+            var memberidresult = memberIDexp.exec(cookies);
+            var NickNameResult = memberNameexp.exec(cookies);
 
+            if (memberidresult != null) {
+                var memberIDresult = memberidresult[0];
+                var memberid = memberIDresult.replace(/;/, "").substr(lenid);
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-4806418-4");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-17026298-1']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-    
+                if (memberid != "") {
+                    var result = NickNameResult[0];
+                    var nickname = result.substr(len);
+                    $("#nickName").html(nickname.replace(/;/, ""));
+                    $("#after_sign").show();
+                    $("#sign_area").hide();
+                }
+                else {
+                    $("#after_sign").hide();
+                    $("#sign_area").show();
+                }
+            }
+            else {
+                $("#after_sign").hide();
+                $("#sign_area").show();
+            }
+        }
+        else {
+            $("#after_sign").hide();
+            $("#sign_area").show();
+        }
+        //判断live chat
+        $(function () {
+            if ($(".livechat").children("a").length == 0) {
+                $(".livechat").css("display", "none");
+                $(".livechat").next(".line").css("display", "none");
+            }
+        })
+    </script>
+    <script type="text/javascript" src="/Views/Js/seo.link.js"></script>
+
+        <div class="mauto help_headerin mb10">
+            <div class="logo fleft">
+                <a title="Wellcome to Focalprice!" href="/">Wellcome to Focalprice!</a></div>
+            <div class="search_help fright">
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>
+                            </td>
+                            <td>
+                                <input type="text" id="txtSearch" name="txtSearch" onmouseover="this.style.borderColor='#FF5A00'" onkeyup="value=value.replace(/[^\w\.\/]/ig,'')" onmouseout="this.style.borderColor='#CCCCCC'" value="keyword" class="help_input" style="border-color: rgb(204, 204, 204);">
+                            </td>
+                            <td>
+                            </td>
+                            <td>
+                                <input type="button" id="btnSearch" class="search" value="" name="">
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(function () {
+            $("#txtSearch").click(function () {
+                $("#txtSearch").val("");
+            });
+            $("#txtSearch").keydown(function (e) {
+                var curKey = e.which;
+                if (curKey == 13) {
+                    if ($("#txtSearch").val() != "") {
+                        //alert(event.keyCode + $("#txtSearch").val());
+                        window.location.href = "helpsearch?key=" + $("#txtSearch").val();
+
+                    }
+                }
+            });
+            $("#btnSearch").click(function () {
+                if ($("#txtSearch").val() != "") {
+                    window.location.href = "helpsearch?key=" + $("#txtSearch").val();
+                }
+            });
+        });
+    </script>
+    <input type="hidden" id="h_search" value="/helpsearch">
+    <script type="text/javascript">
+        $(function () {
+            $("#btnSearch").click(function () {
+                if ($("#txtSearch").val() != "") {
+                    window.location.href = $("#h_search").val() + "?key=" + $("#txtSearch").val();
+                }
+            });
+        });
+    </script>
+    <div id="breadcrumb">
+        <a title="Back Home" class="homeico" href="/">Home</a>
+        -&gt;<a title="Back Home" id="helpurl" class="homeico" href="/help">Help</a>
+        -&gt;
+        <span id="keywordnav"></span>
+    </div>
+    <div class="help_body">
+        <div class="HelpCate"><h4><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTg=' );return false;">Policy</a></h4><ul><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTEw' );return false;">Product Warranty</a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTEx' );return false;">Return Policy</a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTEy' );return false;">Term of Use</a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTI0' );return false;">Privacy &amp; Security Policy</a></li></ul><h4><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTE0' );return false;">FAQs</a></h4><ul><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTE1' );return false;">Payment </a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTE2' );return false;">Shipping </a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTE3' );return false;">Returns (RMA)</a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTIx' );return false;">Points,Coupons&amp;Gifts</a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTIy' );return false;">Products Warranty</a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTIz' );return false;">Ordering</a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTM1' );return false;">My Account</a></li></ul><h4><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTE4' );return false;">Contact Us</a></h4><ul><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTI3' );return false;">My Message&amp; RMA </a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTI4' );return false;">Telephone</a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTQ2' );return false;">Live Chat</a></li></ul><h4><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTI1' );return false;">Business Opportunities</a></h4><ul><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTI5' );return false;">Advantage</a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTMx' );return false;">Wholesale</a></li><li><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTMy' );return false;">Affiliate Program</a></li></ul><h4><a href="/helpinfo?currentCategoryID=33">Partner Links</a></h4><h4><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTM0' );return false;">About Us</a></h4><h4><a href="/helpinfo?currentCategoryID=37">Links</a></h4><h4><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTQ0' );return false;">Tags</a></h4><h4><a href="javascript:void(0);" onclick="focal.navigator( this,'L2hlbHBpbmZvP2N1cnJlbnRDYXRlZ29yeUlEPTQ1' );return false;">Legal window</a></h4></div>
+        <div class="HelpNav helpinfo">
+            <h1></h1>
+            <ul>
+                <li>
+                    <a style="color: #036" href="#119">Privacy &amp; Security Policy</a></li>
+            </ul>
+            <div class="helpinfosingle" id="119">
+                <h1>Privacy &amp; Security Policy</h1>
+                <div class="helpinfotxt"><b>Last updated</b><br>
+The Privacy Policy contained herein became officially effective on&nbsp; Jan&nbsp;26th, 2010. <p><b>Security</b><br>
+Focalprice.com takes precautions to protect your Personal information. When you submit sensitive information via the website, your information is protected both online and offline.<br>
+The policy of allowing access to this Personal Information is only to our staffs with a need to know. We also use available technology and encryption, when legally required or when appropriate for your protection, to provide a more secure environment and to reduce the chance of unauthorized access. Personal Information is stored in a secure environment protected by a combination of physical and technical measures. Tape backups are not permitted to leave the premises without prior authorization.<br>
+Focalprice.com is the sole owner of information collected on this site. We will not sell, share, or rent this information to any outside parties. </p><p><b>This information may be collected</b><br>
+Register email,Password (No any other body can get your password include our staffs, it is encrypted!)<br>
+Nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email, your PayPal shipping address;Other information if you want to share with us, like Phone number etc. </p><p>When you browse our website, we may collect this information:<br>
+IP address, browser and operating system, the URL you request. </p><p>When you register in our website, we may collect this information:<br>
+Register email, Password, Nickname, IP address, the date and time, browser and operating system, the URL you request. </p><p>When you order in our website, we may collect this information:<br>
+Register email, Password, Nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email, your PayPal shipping address </p><p>When we have more cooperation, we may collect more information:<br>
+&nbsp;like Phone number, your website, MSN, your reviews and testimonials etc </p><p><b>Information use:</b><br>
+We need the information to process your orders and offer better services to you; we want to make it easier to tailor our products and services to your particular needs. We also want you to have the most enjoyable Internet and shopping experiences possible. This Personal Information also may be used to contact you about sales, special offers and new site features, unless you have elected not to receive promotional communications in connection with this website. However, if you do not like receive promotion emails from us, we will respect you wish. </p><p><b>Links</b><br>
+Our website contains links to other sites (like tracking web). Please be aware that Focalprice.com is not responsible for the privacy practices of such other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website. </p><p><b>Notification of Changes</b><br>
+If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Customers are responsible for periodically checking the Privacy Policy available on the Website for changes. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage. </p><p style="margin:0cm 0cm 0pt;" class="MsoNormal"><b><span style="font-family:'Tahoma','sans-serif';color:black;font-size:10pt;mso-fareast-font-family:宋体;mso-font-kerning:0pt;" lang="EN-US">Choice and Opt-Out <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></span></b></p>
+<p><span style="font-family:'Tahoma','sans-serif';color:black;font-size:9pt;mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;" lang="EN-US">If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication.</span> </p><p></p></div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        © 2008-2011 FocalPrice.com. All rights reserved.
+    </div>
+
 
 </body></html>
