@@ -1,100 +1,67 @@
-> *The following text is extracted and transformed from the ezmoneymethod.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezmoneymethod.com privacy policy that was archived on 2013-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130311012228id_/http%3A//fcmtraining.com/ez/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# EZ Money Method
 
-**Go Daddy Respects Your Privacy**
+**Privacy Policy** ****  
+The following describes the Privacy Policy for our HTTP://EZMONEYMETHOD.COM and HTTP://EZMONEYMETHOD.NET websites
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+  
+**Your Privacy**  
+Your privacy is important to us at DAILY INCOME NETWORK, LLC.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  
+**State Law & Accompanying Rights**  
+Please understand that you may have additional rights originating from State laws based on where you live.  These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law.  Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate.  Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  
+**Our Commitment To Children's Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.  
+Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services.  It is not our intention to offer products or services to minors.
 
-**Information Collection and Use**
+  
+**Collection of Personal Information**  
+When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  
+Other information may be collected as well by DAILY INCOME NETWORK, LLC, which is rather typical of most websites.  For instance, the source that referred you to our website is generally known.  Likewise, your duration on our website, and your destination when you leave our website can also be tracked.  Other common data collected includes the type of operating system the computer you are using to access our website has.  Similarly, the type of web browser is often noted.  Again, this is common data collection, and helps ultimately produce a better end-user experience.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  
+Cookies are another common internet practice.  Cookies are a key means of improving user experience by allows us to customize your use of our website.  Simple information is transferred to your computer to allow the content and experience at HTTP://EZMONEYMETHOD.COM AND HTTP://EZMONEYMETHOD.NET to reflect your actions, preferences, and so on.  You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose.  Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  
+At times, you will be fully aware of information received, as you are the direct source providing it.  For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise.  Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on.  Refusing to provide some of this information may lead to us being unable to provide you with the products or services you’ve requested.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  
+A prime example of limited access to our website is where some HTTP://EZMONEYMETHOD.COM AND HTTP://EZMONEYMETHOD.NET content may be protected by a username and password.  Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you.  This is true since much content that is protected on the internet is subscription based, often paid for.  Thus, the username and password must necessarily be tied to your other account data.  Usernames and passwords, by their very nature, should be kept private. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+  
+**Handling of Personal Information**  
+Note that any personal information you provide to others apart from us or our vendors is wholly optional.  As an example, you might disclose something in a blog post comment.  That “private” information is now “public,” and we have no control over that.  In like fashion, you sharing information with any other third party not functioning as a service provider to us puts that information beyond our control and becomes subject to the policy that party has in place.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  
+Our primary intention for collecting personal and private information from you is simply to conduct our business.  We can use this internally to better serve you.  Accordingly, we see no reason to share your personal information to other parties and outside interests unless you have authorized us to do so.  Of course, there are instances where your information is stored with third party service providers, such as email service providers, as they provide services that are industry-leading in quality and security and are far more beneficial to our end user than attempting such services “in-house.”  However, you are never required to deal with any such third party directly, they are limited in how they use your information, and they cannot sell or transfer it to others in any way.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  
+However, of course, your information does comprise part of an overall whole.  This aggregate of information, by contrast, may be used to understand our overall user base.  Further, we may share this information about our website visitors as a whole, not individually, with third parties for various purposes, in our sole discretion.
 
-**Security**
+  
+While we are staunch privacy advocates at DAILY INCOME NETWORK, LLC, there are times when even we may be forced to abandon these ideals.  Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our HTTP://EZMONEYMETHOD.COM AND HTTP://EZMONEYMETHOD.NET website.  Illegal activity or other serious acts or allegations could create legal liability for our website.  In those cases, we reserve the right to share your information, or else may simply be compelled to do so by law.  On the other hand, there may be times when we would need to share your private information in order to protect our own interests.  For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, may use cookies to serve ads on this HTTP://EZMONEYMETHOD.COM AND HTTP://EZMONEYMETHOD.NET website.  The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet.  
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.  
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers.  However, you can opt out of some, though likely not all, of these cookies in one easy location at http://ww.networkadvertising.org/managing/opt_out.asp
 
-**Updating Your Information**
+  
+**Links to Third Party Websites**  
+We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  
+**CHANGE NOTICE:** As with any of our administrative and legal notice pages, the contents of this page can and will change over time.  Accordingly, this page could read differently as of your very next visit.  These changes are necessitated, and carried out by DAILY INCOME NETWORK, LLC, in order to protect you and our HTTP://EZMONEYMETHOD.COM AND HTTP://EZMONEYMETHOD.NET website.  If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  
+**COPYRIGHT WARNING:** The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney.  We at DAILY INCOME NETWORK, LLC have paid to license the use of these legal notices and administrative pages on HTTP://EZMONEYMETHOD.COM AND HTTP://EZMONEYMETHOD.NET for your protection and ours.  This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.  
+Daily Income Network, LLC 10685-B Hazelhurst Dr. # 12506 Houston, TX 77043 USA (800) 350-7654
