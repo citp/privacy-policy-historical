@@ -1,43 +1,49 @@
-> *The following text is extracted and transformed from the buddy4study.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014092958id_/http%3A//buddy4study.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddy4study.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312094511id_/http%3A//www.buddy4study.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Buddy4study
+# Privacy Policy | Buddy4study.com
 
-**Buddy4Study.Com - An Overview**  
-Buddy4study.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Throughout the cyberspace we want to contribute towards providing a safe and secure environment,safe information gathering and dissemination practices for all our sites. This policy applies only to Buddy4study.com which carry the Buddy4study.com brand and not to other companies or organisations' websites to which we link.
+At Buddy4study, we highly value the privacy of our members and we have a strict privacy policy to ensure all of our users' information is private.
 
-**Information Gathering And Usage**
+When we collect personal information from you on our website.
 
-**1\. Registration**  
-You may provide us with certain information such as your name, email address, postal address when registering for certain services such as OnlineRegistration / Submit Resume, Contests. This information will primarily be used for the purpose of providing personalisation and verification.
+These are our promises to you:
 
-**2\. Feedback**  
-Our site's feedback form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age etc ).
+1\. Newsletters and subscriptions: Buddy4study only collects your personal information to provide you with the features you request such as email notification, scholarships and newsletter subscription. When we collect your personal information, we’ll always give you timely and appropriate notice describing what personal information we’re collecting and how we’ll use it.
 
-We use customer contact information from the feedback form to send the user information about our company and promotional material from some of our partners.
+2\. Buddy4study does not and will never release any student's marks to any third party without the student's (or parents') express permission.
 
-Demographic and profile data is also collected at our site. We use this data to tailor the visitors' experience at our site, showing them the content that we think they might be interested in, and displaying the content according to their preferences.  
-The customer's contact information is also used to contact the visitor when necessary.  
-Users may opt out of receiving future mailings; by sending us an e-mail.
+3\. Email, Internal Messaging, and SPAM. : Buddy4study emails buddies about matters directly related to their Buddy4study account such as: sign up confirmation, lost log in information, new message notifications, Forum topics comments, upgrade information etc. Buddy4study may also send a monthly newsletter, for which you may opt-out at any time. Buddy4study will never release a user's email address to any third party without the user's express permission. Buddy4study also provides users with its own internal messaging system. To prevent SPAM associated with other messaging systems, Buddy4study only allows users to message other users with whom they have a confirmed relationship (such as student-teacher).
 
-**3\. Contests**  
-We run contests on our site in which we ask visitors for contact information (like their email address), financial information (income bracket), and demographic information (like their zip code, age or income level).
+4\. Choice and Sharing. We’ll give you choices about the ways we use and share your personal information, and we’ll respect the choices you make. Buddy4study will never release any of our users' information to third parties without express permission.
 
-We use contact data from our contestant to send information about our company and promotional material from some of our partners. The users' contact information is also used by us to contact the visitor when necessary, primarily to announce new contests and features of the site.
+5\. Relevance. We’ll collect only as much personal information as we need for specific, identified purposes, and we won’t use it for other purposes without obtaining your consent.
 
-A user may expressly choose to receive additional information from the contest organizer ( the website ) or the sponsor, in which the user identity is divulged to the third party, as long as the user gives hi s/her consent.  
-Users may opt out of receiving future mailings; by sending us an e-mail.
+6\. Retention. We’ll keep your personal information only as long as we need it for the purposes for which we collected it.
 
-**4\. Electronic Newsletter**  
-The site offers a free electronic newsletter to its users. We gather the e-mail addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by using the link provided in every newsletter.
+7\. Accuracy. We’ll take appropriate steps to make sure the personal information in our records is accurate.
 
-**5\. Cookies**  
-A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Buddy4study.com uses cookies to track user traffic patterns (as described above) and for the personalisation feature. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
+8\. Access. We’ll provide ways for you to access your personal information, as required by law, so you can correct inaccuracies.
 
-_Registration:_ When you register Buddy4study.com uses a cookie to store a unique, random user ID. We do not store passwords or any personal information about you. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. Cookies also enable you to enter the sites ad use services as a member without having to log on each time.
+9\. Cookies. Buddy4study uses cookies only for usability purposes, we do not store any personal user information on cookies. We currently use cookies in three ways: (1) to store a buddy's session while they are logged in; (2) to remember a buddy's account settings; and (3) to determine if the buddy's system is compatible with certain technologies such as Flash and JavaScript.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use any Buddy4study.com.
+10\. Security. We’ll take appropriate physical, technical, and organizational measures to protect your personal information from loss, misuse, unauthorized access or disclosure, alteration, and destruction. unauthorized access or disclosure, alteration or destruction. Buddy4study takes extreme precautions to ensure that our system is absolutely secure.
 
-**6\. Choice/Opt Out policy**  
-Our site provides users the opportunity to opt out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users options for removing their information from our database to not receive future communications or to no longer receive our service.
+11\. Enforcement. We’ll regularly review how we’re meeting these privacy promises, and we’ll provide an independent way to resolve complaints about our privacy practices.
 
-Thanking you all
+To access your information, ask questions about our privacy practices, or issue a complaint, contact us at:
+
+Buddy4study
+
+Smiling Star Adv. Pvt Ltd,
+
+A-75, 2nd floor
+
+Sector-58,Noida,
+
+UP-201301
+
+Buddy4study is a subsidiary in the Smiling Star Advisory Pvt Ltd. It is an independent organization whose mission is to provide IT services.
+
+If you have questions or concerns regarding this statement, you should first contact Buddy4study team on the "contact us" page. If your inquiry is not satisfactorily addressed, you may then contact Smiling Star Advisory Pvt Ltd. or email to Director "ashutosh@buddy4study.com". at http://www.smilingstar.org.
+
+We will serve as a liaison to work toward resolutions of your concerns.
