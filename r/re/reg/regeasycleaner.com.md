@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the regeasycleaner.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110155816id_/http%3A//www.regeasycleaner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regeasycleaner.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312031548id_/http%3A//www.regeasycleaner.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Registry Easy
+
+## Registry Easy™ is an excellent Windows Registry Cleaner that helps you scan your PC, safely clean the errors & invalid entries cause system slow, freezing and crashing, and repair registry problems to speedup your computer performances. It is easy to use.
 
 * * *
 
@@ -41,4 +43,4 @@ The Web Site may contain links to other web sites. Registry Easy.com does not mo
 RegistryEasy.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy.
 
 6\. CONTACT INFORMATION  
-For questions regarding this Privacy Policy please [**Contact us**](https://web.archive.org/web/20121110155816id_/http%3A//www.regeasycleaner.com/contact.php).
+For questions regarding this Privacy Policy please [**Contact us**](https://web.archive.org/web/20130312031548id_/http%3A//www.regeasycleaner.com/contact.php).
