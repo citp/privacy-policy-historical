@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerofs.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104234411id_/https%3A//www.aerofs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerofs.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312112027id_/https%3A//www.aerofs.com/privacy) for the most accurate reproduction.*
 
 # AeroFS
 
