@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magneticaffiliateblog.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920002236id_/http%3A//magneticaffiliateblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magneticaffiliateblog.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312185612id_/http%3A//magneticaffiliateblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
