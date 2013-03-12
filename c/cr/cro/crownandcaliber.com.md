@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownandcaliber.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106211942id_/http%3A//www.crownandcaliber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownandcaliber.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312070646id_/http%3A//www.crownandcaliber.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Crown & Caliber, LLC
 
