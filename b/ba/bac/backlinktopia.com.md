@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinktopia.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023011452id_/http%3A//www.backlinktopia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinktopia.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312184340id_/http%3A//www.backlinktopia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BackLinkTOPIA.com
 
