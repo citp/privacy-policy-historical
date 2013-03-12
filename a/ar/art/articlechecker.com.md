@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlechecker.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231004728id_/http%3A//www.articlechecker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlechecker.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312034538id_/http%3A//www.articlechecker.com/privacy.php) for the most accurate reproduction.*
 
 # Plagiarism Checker - Privacy Policy
 
