@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innerfidelity.com privacy policy that was archived on 2012-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120719003843id_/http%3A//privacy.sourceinterlinkmedia.com/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerfidelity.com privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313133822id_/http%3A//privacy.sourceinterlinkmedia.com/index.html) for the most accurate reproduction.*
 
 # Source Interlink Companies Privacy Policy
 
