@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rephunter.net privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004082506id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rephunter.net privacy policy that was archived on 2013-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130314002913id_/http%3A//www.rephunter.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>RepHunter Privacy Notice, Manufacturers Reps, Independent Sales Rep, Sales Agency, Sales Force, Manufacturer Agent</title>
@@ -8,6 +8,7 @@
 	<meta name="description" content="Find Manufacturers Representatives in all industries and territories. Offering Independent Sales Reps new product lines and revenue opportunities.">
 	<meta name="keywords" content="sales representatives, sales reps, sales representative, manufacturer representative, independent sales reps, manufacturers reps, independent sales rep, outside sales representative, sale rep, manufactures reps, manufacturers representatives, manufacturers representative, manufacturer reps, manufacturer sales rep, sales force, sales agencies, sales agents, sales agents wanted, sales reps needed, manufacturer representation, reps wanted, representatives wanted, independent sales representation, sales representation, find sales reps, find sales representative">
 	<meta http-equiv="content-script-type" content="text/javascript">
+	<!--base href="http://www.rephunter.net/" /--> <!-- added to handle rewrites; but caused problems with action buttons on view-profile.php; don't need because also changed all paths from relative to absolute, except not for javascript -->
 	<!--meta http-equiv="X-UA-Compatible" content="IE=7" /-->
 	<link rel="shortcut icon" href="/favicon.ico">
 	<!-- css -->
@@ -29,6 +30,7 @@
 		var is_IE = 0;
 		//]]>
 	</script>
+	
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 	<script type="text/javascript" src="/js/library-1.min.js"></script>
 	
@@ -62,19 +64,25 @@ _gaq.push(['_trackPageview']);
 <noscript><p><strong>Warning:</strong> many features of this site require JavaScript. <a href="/enable-javascript.php" class="obvious-link">Click here for instructions.</a></p></noscript>
 <div id="content">
 	<div id="keywords">
-		<h1>&nbsp;RepHunter Privacy Notice | Manufacturers Reps | Independent Sales Rep | Sales Agency | Sales Force | Manufacturer Agent</h1>
+		<h2>&nbsp;RepHunter Privacy Notice | Manufacturers Reps | Independent Sales Rep | Sales Agency | Sales Force | Manufacturer Agent</h2>
 	</div>
 	
 	<div class="rh_header">
 			<div id="login">
 		<div style="padding:3px;clear:both;">
 		<form action="/privacy.php" method="post">
-			
-			<div class="loginprompt" style="margin: 40px 5px 0 0; ">
+					<!--<div class="loginprompt" style="padding: 9px 5px 0px 0px;"> <span class="login-label">Principal:<br />-->
+              <!--First time user?</span> <input type="button" value="Register" name="requestloginbutton" class="login-button" onclick="location.href='/manufacturers-sales-reps-register.php/?mode=create';" />-->
+		<!--</div>-->
+		<div class="loginprompt" style="padding: 9px 5px 0px 0px;"> <span class="login-label">Principal:<br>
+              First time user?</span> <input type="button" value="Register" name="requestloginbutton" class="login-button" onclick="location.href='/register.php?mode=create&amp;usertype=';">
+		</div>
+		<div class="clear"></div>
+			<div class="loginprompt" style="margin: 9px 5px 0 0; ">
 				
 					<span class="login-label" style="margin-top:5px;">Already registered?</span>
 	<input type="submit" value="Login" name="requestloginbutton" class="login-button">
-	<span class="login-label" id="login-help" style="margin-top:9px;">
+	<span class="login-label" id="login-help">
 		<a href="/reset-password.php"><span class="login-help-prompt">Forgot your password?</span></a>
 		<br>
 		<a href="/faq.php#tech-login-gen"><span class="login-help-prompt">Need help logging in?</span></a>
@@ -89,11 +97,11 @@ _gaq.push(['_trackPageview']);
 			<a href="/index.php" id="logo-neutral">
 				<!--span id="sales-neutral">Sales</span--><span class="logo-part-1">Rep</span><span class="logo-part-2">Hunter<span class="reg">®</span></span>
 			</a>
-							<span class="special-notice-image" style="left:600px; top:25px;"><a onclick="window.open('images/badge-our-11th-year-330x167x128.gif','','scrollbars,width=350,height=200');return false;"><img src="images/badge-our-11th-year-200x101x128.gif" alt="Our 11th Year!" title="Our 11th Year! - Click for larger image" width="200" height="101"></a></span>
+							<span class="special-notice-image" style="left:600px; top:25px;"><a onclick="window.open('images/badge-our-11th-year-330x167x128.gif','','scrollbars,width=350,height=200');return false;"><img src="/images/badge-our-11th-year-200x101x128.gif" alt="Our 11th Year!" title="Our 11th Year! - Click for larger image" width="200" height="101"></a></span>
 		</div>
-		<div id="tagline"><a href="search-by-keyword.php?usertype=pri">Find Sales Reps</a> — <a href="search-by-keyword.php?usertype=rep">Find New Lines</a></div>
+		<h2 id="tagline"><a href="/manufacturers-sales-reps-find">Find Sales Reps</a> — <a href="/independent-sales-reps-find">Find Manufacturers Lines</a></h2>
 				<div class="link-div how-link wide-button" style="position:absolute; top:86px; left:20px; width:140px;">
-			<a href="guided-tours.php?src=button">
+			<a href="/guided-tours.php?src=button">
 				<span class="featured-button" style="top:-8px;">
 					 <span style="font-size:10px; color:white;">How Does This Work?</span>
 				</span>
@@ -114,11 +122,11 @@ _gaq.push(['_trackPageview']);
 		</div>
 					<div id="intl-link-header" class="">
 				<span class="intl-link-label">RepHunter International:&nbsp;&nbsp;&nbsp;</span>
-				<a href="/intl/chinese.html">Chinese</a>
+				<a href="/intl/chinese.php">中国的</a>
 				<span class="fpsep">|</span>
-				<a href="/intl/german.html">German</a>
+				<a href="/intl/german.php">Deutsche</a>
 				<span class="fpsep">|</span>
-				<a href="/intl/french.html">French</a>
+				<a href="/intl/french.php">Français</a>
 			</div>
 	</div>
 	
@@ -129,11 +137,11 @@ _gaq.push(['_trackPageview']);
 	</div>
 	<div id="tabs">
 		<ul>
-					<li><a href="search-by-keyword.php?usertype=pri"><span>Find Sales Reps</span></a></li>
-		<li><a href="search-by-keyword.php?usertype=rep"><span>Find New Lines</span></a></li>
+					<li><a href="/manufacturers-sales-reps-find"><span>Find Sales Reps</span></a></li>
+		<li><a href="/independent-sales-reps-find"><span>Find New Lines</span></a></li>
 		</ul>
 	</div>
-	<div class="subheader">&nbsp; <div id="sec-nav-phone"></div> 			<a href="faq.php"><img src="images/lightbulb3-FAQ-38x40x256.gif" title="Click here for Frequently Asked Questions" alt="Click here for Frequently Asked Questions" width="38" height="40" id="sec-nav-faq"></a></div>
+	<div class="subheader">&nbsp; <div id="sec-nav-phone"></div> 			<a href="/faq.php"><img src="/images/lightbulb3-FAQ-38x40x256.gif" title="Click here for Frequently Asked Questions" alt="Click here for Frequently Asked Questions" width="38" height="40" id="sec-nav-faq"></a></div>
 	<div class="subcontent_all">
 			
 			<div class="subcontent_nofloat">
@@ -142,7 +150,7 @@ _gaq.push(['_trackPageview']);
 	<h2>What this Privacy Policy Covers</h2>
 
 		<div style="float:right; margin-bottom:10px; margin-left:20px;">
-	<h1>Testimonial</h1>
+	<h2>Manufacturer Testimonial</h2>
 		<div>
 		<div style="height:18px;"><img src="/images/test-top.gif" width="417" height="18" alt=""></div>
 		<div class="testimonial">
@@ -284,16 +292,17 @@ while(x=eval(x));}rh_encrypt();
 					<td align="center">
 						<table><tbody><tr>
 							<td><span class="intl-link-label">RepHunter International:&nbsp;&nbsp;&nbsp;</span></td>
-							<td><a href="/intl/chinese.html">Chinese</a></td>
+							<td><a href="/intl/chinese.php">中国的</a></td>
 							<td><span class="fpsep">|</span></td>
-							<td><a href="/intl/german.html">German</a></td>
+							<td><a href="/intl/german.php">Deutsche</a></td>
 							<td><span class="fpsep">|</span></td>
-							<td><a href="/intl/french.html">French</a></td>
+							<td><a href="/intl/french.php">Français</a></td>
 						</tr></tbody></table>
 					</td>
 				</tr>
 			</tbody></table>
 			</div>
+
 			<div id="about">
 				<p>About RepHunter</p>
 				<p>
@@ -302,8 +311,10 @@ while(x=eval(x));}rh_encrypt();
 				<p>
 	Our clients confirm the quality of our referrals and tell us that the candidates that we place are more productive and able to hit the ground running precisely because of their established customer base.
 				</p>
-				<p id="copyright">© RepHunter, Inc. 2001-2012. All Rights Reserved.</p>
+				<p id="copyright">© RepHunter, Inc. 2001-2013. All Rights Reserved.</p>
 			</div>
+
+			
 	</div>
 </div>
 
