@@ -1,77 +1,739 @@
-<!--The following is the downloaded HTML source of the photoshop.cc privacy policy that was archived on 2012-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121009234000id_/http%3A//photoshop.cc/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photoshop.cc privacy policy that was archived on 2013-03-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130313061742id_/http%3A//photoshop.cc/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<title>privacy policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" type="text/css" media="all" href="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/style.css">
-<link rel="stylesheet" type="text/css" media="all" href="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/v01/v01.css">
-<link rel="pingback" href="http://photoshop.cc/xmlrpc.php">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<link rel="stylesheet" type="text/css" media="all" href="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/v01/events.css"><title> » privacy policy</title>
+<!--  <script  type="text/livescript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script> -->
+ <script type="text/javascript" src="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/js/jquery-1.9.1.min.js"></script>
+<script type="&quot;text/javascript&quot;">
+		jQuery(window).load( function(){
+			jQuery('#avatar-to-crop').Jcrop({
+				onChange: showPreview,
+				onSelect: showPreview,
+				onSelect: updateCoords,
+				aspectRatio: 1,
+				setSelect: [ 50, 50, 231, 225 ]
+			});
+			updateCoords({x: 50, y: 50, w: 231, h: 225});
+		});
+
+		function updateCoords(c) {
+			jQuery('#x').val(c.x);
+			jQuery('#y').val(c.y);
+			jQuery('#w').val(c.w);
+			jQuery('#h').val(c.h);
+		}
+
+		function showPreview(coords) {
+			if ( parseInt(coords.w) > 0 ) {
+				var rx = 120 / coords.w;
+				var ry = 120 / coords.h;
+
+				jQuery('#avatar-crop-preview').css({
+									width: Math.round(rx * 462) + 'px',
+					height: Math.round(ry * 450) + 'px',
+									marginLeft: '-' + Math.round(rx * coords.x) + 'px',
+					marginTop: '-' + Math.round(ry * coords.y) + 'px'
+				});
+			}
+		}
+	</script>
+
+	<style type="&quot;text/css&quot;">
+		.jcrop-holder { float: left; margin: 0 20px 20px 0; text-align: left; }
+		.jcrop-vline, .jcrop-hline { font-size: 0; position: absolute; background: white top left repeat url( http://smeak.com/wp-content/plugins/buddypress//bp-core/images/Jcrop.gif ); }
+		.jcrop-vline { height: 100%; width: 1px !important; }
+		.jcrop-hline { width: 100%; height: 1px !important; }
+		.jcrop-handle { font-size: 1px; width: 7px !important; height: 7px !important; border: 1px #eee solid; background-color: #333; *width: 9px; *height: 9px; }
+		.jcrop-tracker { width: 100%; height: 100%; }
+		.custom .jcrop-vline, .custom .jcrop-hline { background: yellow; }
+		.custom .jcrop-handle { border-color: black; background-color: #C7BB00; -moz-border-radius: 3px; -webkit-border-radius: 3px; }
+		#avatar-crop-pane { width: 120px; height: 120px; overflow: hidden; }
+		#avatar-crop-submit { margin: 20px 0; }
+		#avatar-upload-form img, #create-group-form img, #group-settings-form img { border: none !important; }
+	</style>
+ <script>
+$(document).ready(function() {
+
+	var div = $('#fixed_header');
+	var start = $(div).offset().top;
+
+	$.event.add(window, "scroll", function() {
+		var p = $(window).scrollTop();
+		$(div).css('position',((p)>start) ? 'fixed' : 'static');
+		$(div).css('top',((p)>start) ? '0px' : '');
+	});
+
+});
+</script>
+ 
+<script type="text/javascript">
+this.imagePreview = function(){	
+	/* CONFIG */
+		
+		xOffset = 10;
+		yOffset = 30;
+		
+		// these 2 variable determine popup's distance from the cursor
+		// you might want to adjust to get the right result
+		
+	/* END CONFIG */
+	$("img.preview").hover(function(e){
+		this.t = this.title;
+		this.title = "";	
+		var c = (this.t != "") ? "<br/>" + this.t : "";
+		$("body").append("<p id='preview'><img src='"+ this.name +"' alt='Image preview' />"+ c +"</p>");								 
+		$("#preview")
+			.css("top",(e.pageY - xOffset) + "px")
+			.css("left",(e.pageX + yOffset) + "px")
+			.fadeIn("fast");						
+    },
+	function(){
+		this.title = this.t;	
+		$("#preview").remove();
+    });	
+	$("img.preview").mousemove(function(e){
+		$("#preview")
+			.css("top",(e.pageY - xOffset) + "px")
+			.css("left",(e.pageX + yOffset) + "px");
+	});			
+};
+
+
+// starting the script on page load
+$(document).ready(function(){
+	imagePreview();
+});
+</script>
+
+<script type="text/javascript" charset="utf-8">
+$(document).ready(function(){
+$('.commentrating').click(function(){
+$('.commentrating').removeClass('clicked_comments_ratting');
+$(this).addClass('clicked_comments_ratting');
+});
+
+//////// favorites container
+$('.the_fave_container').hide();
+ $('.the_arrow_icon').click(function(){
+ $('.the_fave_container').toggle('slow');
+  /*$('.the_fave_container').load("http://photoshop.cc/?favorites=brushes"); */
+ });
+		//////// login down
+		$('.login_nav_v03_2').hide();
+		$('.login_nav_a_login').click(function(){
+		
+
+
+		
+		
+		$('.login_nav_v03_2').slideToggle('fast');
+		$('.login_nav_v03').toggleClass('actived');					
+		$('.login_nav_li_hover').toggleClass('actived_arrow');					
+		
+
+		
+			return false;
+		});
+		
+	
+/*  tabs profile */
+$('#tabs div').hide();
+$('#tabs div:first').show();
+$('#tabs ul li:first').addClass('active');
+ 
+$('#tabs ul li a').click(function(){
+$('#tabs ul li').removeClass('active');
+$(this).parent().addClass('active');
+var currentTab = $(this).attr('href');
+$('#tabs div').hide();
+$(currentTab).show();
+return false;
+});
+
+
+$('.tab_4').click(function(){
+$('#tab-4').load('http://photoshop.cc/?brushes=brushes');
+});
+	
+	$('.flip').click(function() {
+    $(this)
+        .closest('tbody')
+        .next('.section')
+        .toggle('fast');
+});	
+	
+/*  $('body').hide();*/
+////////////////////////////////////////
+////////////// youtube ////////////////
+      var promo=$('#overhead-promo'),
+                slider=promo.find('.dev-strip span');
+            $('#overhead-promo a').mouseenter(function() {
+                slider.stop().animate({top: '0px'}, 180);
+            }).mouseleave(function() {
+                slider.stop().animate({top: '-93px'}, 180);
+            });
+///// end youtube
+});	
+</script>
+<script type="text/javascript" src="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/js/jquery.min.js"></script>
 <link rel="alternate" type="application/rss+xml" title="Free photoshop brushes, patterns, shapes » Feed" href="http://photoshop.cc/feed">
 <link rel="alternate" type="application/rss+xml" title="Free photoshop brushes, patterns, shapes » Comments Feed" href="http://photoshop.cc/comments/feed">
 <link rel="alternate" type="application/rss+xml" title="Free photoshop brushes, patterns, shapes » privacy policy Comments Feed" href="http://photoshop.cc/privacy-policy/feed">
-<script type="text/javascript" src="http://photoshop.cc/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://photoshop.cc/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<link rel="stylesheet" id="bp-default-main-css" href="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/_inc/css/default.css?ver=1.6.4" type="text/css" media="all">
+<link rel="stylesheet" id="bp-default-responsive-css" href="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/_inc/css/responsive.css?ver=1.6.4" type="text/css" media="all">
+    <style type="text/css">
+        .ac_results {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            position: absolute;
+            z-index: 10000;
+            display: none;
+            border-width: 1px;
+            border-style: solid;
+        }
+
+        .ac_results li {
+            padding: 2px 5px;
+            white-space: nowrap;
+            text-align: left;
+        }
+
+        .ac_over {
+            cursor: pointer;
+        }
+
+        .ac_match {
+            text-decoration: underline;
+        }
+    </style>
+    <script type="text/javascript" src="http://photoshop.cc/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var BP_DTheme = {"my_favs":"My Favorites","accepted":"Accepted","rejected":"Rejected","show_all_comments":"Show all comments for this thread","show_all":"Show all","comments":"comments","close":"Close","view":"View","mark_as_fav":"Favorite","remove_fav":"Remove Favorite"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/_inc/global.js?ver=1.6.4"></script>
+<script type="text/javascript" src="http://photoshop.cc/wp-includes/js/comment-reply.min.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://photoshop.cc/home/photosho/public_html/wp-content/themes/free-photoshop-brushes/buddypress/plus/bp-custom-background-for-user-profile/bp-custom-background-for-user-profile.phpbppbg.js?ver=3.5.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://photoshop.cc/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://photoshop.cc/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="Free photoshop brushes, patterns, shapes" href="http://photoshop.cc">
 <link rel="prev" title="Link Exchange" href="http://photoshop.cc/link-exchange">
 <link rel="next" title="Photoshop update" href="http://photoshop.cc/photoshop-update">
-<meta name="generator" content="WordPress 3.2.1">
+<meta name="generator" content="WordPress 3.5.1">
 <link rel="canonical" href="http://photoshop.cc/privacy-policy">
-<!-- HeadSpace SEO 3.6.41 by John Godley - urbangiraffe.com -->
-<meta name="description" content="Free Photoshop Brushes - Download the best free Photoshop Brushes, Photoshop Patterns, and Free Textures">
-<!-- HeadSpace -->
 
- <link rel="SHORTCUT ICON" href="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/v01/main/fax.png"> 
- </head>
+	<script type="text/javascript">var ajaxurl = 'http://photoshop.cc/wp-admin/admin-ajax.php';</script>
 
 
+<!-- Start Of Script Generated By WP-PostViews -->
+    <style type="text/css">
+        .ac_results {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            position: absolute;
+            z-index: 10000;
+            display: none;
+            border-width: 1px;
+            border-style: solid;
+        }
+
+        .ac_results li {
+            padding: 2px 5px;
+            white-space: nowrap;
+            text-align: left;
+        }
+
+        .ac_over {
+            cursor: pointer;
+        }
+
+        .ac_match {
+            text-decoration: underline;
+        }
+    </style>
+    <script type="text/javascript">
+/* <![CDATA[ */
+jQuery.ajax({type:'GET',url:'http://photoshop.cc/wp-admin/admin-ajax.php',data:'postviews_id=22183&action=postviews',cache:false});/* ]]> */
+</script>
+<!-- End Of Script Generated By WP-PostViews -->
+    <style type="text/css">
+        .ac_results {
+            padding: 0;
+            margin: 0;
+            list-style: none;
+            position: absolute;
+            z-index: 10000;
+            display: none;
+            border-width: 1px;
+            border-style: solid;
+        }
+
+        .ac_results li {
+            padding: 2px 5px;
+            white-space: nowrap;
+            text-align: left;
+        }
+
+        .ac_over {
+            cursor: pointer;
+        }
+
+        .ac_match {
+            text-decoration: underline;
+        }
+    </style>
+    <script type="text/javascript">
+/* <![CDATA[ */
+function setMycookie(value,name){var Days=1;var exp=new Date();exp.setTime(exp.getTime()+Days*24*3600*1000);document.cookie='http://photoshop.cc/privacy-policy'+"="+escape(value)+";expires="+exp.toGMTString();}
+function updateMoodComment(tag){jQuery.ajax({type:'GET',url:'wp-content/themes/ddrosv01/moods/init.php',data:'ajaxType=updateMoodComment&mood_comment_post_id=22183&tag='+tag,cache:false,success:function(data){jQuery('#moodComment').html(data)}});}/* ]]> */
+</script>
+
+	<style type="text/css">
+					#header { background-image: url(http://photoshop.cc/wp-content/themes/free-photoshop-brushes/images/headers/path.jpg); }
+		
+				#header h1 a, #desc { color:#FFFFFF; }
+			</style>
+
+
+	<script type="text/javascript"> jQuery(document).ready( function() { jQuery("a.confirm").click( function() { if ( confirm( 'Are you sure?' ) ) return true; else return false; }); });</script>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/v03/v03.css">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" media="all" href="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/v01/ie.css" />
+<![endif]--><link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://photoshop.cc/xmlrpc.php">
+
+
+
+<link rel="SHORTCUT ICON" href="http://photoshop.cc/wp-content/themes/free-photoshop-brushes/v01/main/fax.png"> 
+</head>
 <body>
-<div title="free photoshop brushes 2012, cs6 cs5 cs3 cs4 , download , fbrushes" id="header_bar_black">Free Photoshop Brushes ,photoshop brushes ,  Download Free Brushes ,2012 brushes, cs6 brushes ,cs5 cs4 cs3 cs  brushes , free patterns , free photoshop shapes, !</div>	
+<div class="register_note">
+<b><img style="float:left; position:absolute; margin-left:-65px;" src="http://icons.iconarchive.com/icons/shin-ui/christmas/64/gift-icon.png">Photoshop Version 0.03  Been Lunched  <a href="http://photoshop.cc/register">register</a> Get free membership , congratulations for winners with Permium membership
+ <a class="closez_reg" href="http://photoshop.cc/register">x</a>
+
+
+</b>
+</div>
+
+<style>
+.register_note b{
+display:block;
+margin:0 auto;
+width:1000px;
+}
+.register_note{
+width:100%;
+height:40px;
+background:#fff09b;
+border-top:2px solid #e6cd3f;
+border-bottom:2px solid #e6cd3f;
+float:left;
+position:absolute;
+color:#000;
+z-index:888;
+margin-top:-43px;
+text-align:center;
+font-weight:bold;
+line-height:40px;
+
+}
+.register_note a{
+color:red;
+}
+.register_note a.closez_reg{
+display:block;
+width:30px;
+height:30px;
+line-height:30px;
+background:#ebcd21;
+border:1px solid #d9bd1f;
+margin:5px;
+float:right;
+font-size:15px;
+color:#fff09b;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+
+}
+
+#overhead-promo{
+margin-top:43px;
+}
+</style>
+ 
+
+<div class="wparaby_header_shadow"></div>
+
+<div title="free photoshop brushes 2012, cs6 cs5 cs3 cs4 , download , fbrushes" id="header_bar_black">
+ Free Photoshop Brushes ,photoshop brushes , Download Free Brushes ,2013 brushes, cs6 brushes ,cs5 cs4 cs3 cs brushes , free patterns , free photoshop shapes, free fonts, mac fonts.
+</div>	
 <div id="header_bar_bg"></div>	
-<div id="wparaby_warpper">
+<div id="wparaby_warpper"> <a href="http://adobe.com" target="_blank" title="Supported by Adobe" class="adobe"></a>
+
 <div class="wparaby_header_1">
 <div class="secial_netw_icons">
-<a target="_blank" href="http://photoshop.cc/contact/" class="msg_icon"></a>
-<a target="_blank" href="http://photoshop.cc/rss" class="rss_icon"></a>
-<a target="_blank" href="http://photoshop.cc/" class="t_icon"></a>
+<a target="_blank" href="http://twitter.com/brushesfree" class="t_icon"></a>
  
-<a target="_blank" href="http://photoshop.cc/" class="y_icon"></a>
- 
-<a target="_blank" href="http://photoshop.cc/" class="f_icon"></a>
+<a target="_blank" href="http://facebook.com/freephotoshopbrushes" class="f_icon"></a>
 </div>
 <ul class="header_ul_1">
-<li><a href="http://photoshop.cc">Photoshop</a></li>
-<li><a href="http://photoshop.cc/fonts">Free Fonts</a></li>
+<li><a href="http://photoshop.cc/blog"><b style="color:#FFFFFF;">Blog</b></a></li>
+
+<!-- 
+<li><a href="http://photoshop.cc/login"><b style="color:#FFFFFF;">Login</b></a></li>
+<li><a href="http://photoshop.cc/join"><b style="color:#FFFFFF;">Register</b></a></li>
+<li><a href="http://photoshop.cc/password"><b style="color:#FFFFFF;">Lost Password ?</b></a></li>
+<li><a href="http://photoshop.cc/dashboard"><b style="color:#FFFFFF;">Dashboard</b></a></li>
+<li><a href="http://photoshop.cc/profile"><b style="color:#FFFFFF;">Edit profile</b></a></li>-->
+
 <li><a href="http://photoshop.cc/link-exchange">Link Exchange</a></li>
+
 <li><a href="http://photoshop.cc/contact/">Contact us</a></li>
 <li><a href="http://photoshop.cc/photoshop-update">Photoshop Updates <sup style="color:yellow;"> New</sup></a></li>
+
 </ul>
+
+43 queries in 0.236 seconds.
+
+
+
+
+<ul class="login_nav_v03">
+<div class="login_nav_a_signup"><a href="http://photoshop.cc/register">Sign up</a></div>
+
+<li class="login_nav_li_hover">
+<div class="login_nav_a_login classicp"><a>Login in <span>▼</span></a></div>
+<br>
+<ul class="login_nav_v03_2">
+<form action="http://photoshop.cc/wp-login.php" method="post">
+<fieldset id="inputs">
+<input id="username" type="text" name="log" placeholder="Your email address" required="">   
+<input id="password" type="password" name="pwd" placeholder="Password" required="">
+</fieldset>
+<fieldset id="actions">
+						<input type="submit" name="submit" id="submit" value="Log in">
+<label><input type="checkbox" checked="checked"> Keep me signed in</label>
+<input type="hidden" name="redirect_to" value="/privacy-policy">
+</fieldset>
+
+<li style=" margin-left:150px;"><a href="http://photoshop.cc/wp-login.php?action=lostpassword">Lost Password ?</a></li>
+
+</form>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
 </div><!--end of header1 -->
 <div class="wparaby_header_2">
+
 <div class="wparaby_logo_warpper"><a title="Free photoshop brushes, patterns, shapes" href="http://photoshop.cc"></a></div>
+
+
+
+
+
+
+
+
+<div id="tab_categories">
+
+
+
+ 
 <!--start ul more -->
-<ul class="arrow_more">
-<li><a class="the_arrow_icon"></a>
+<ul style="margin-left:-1px;" class="arrow_more_tab_cats tab_cat_1">
+<li><a href="http://photoshop.cc/free-arabic-fonts" class="category_tab_title">Arabic عربي</a>
 <ul>
-<li><a target="_blank" href="http://photoshop.cc"><i class="icon_arrow_dros"></i>Photoshop</a></li>
-<li><a target="_blank" href="http://wassimo.net"><i class="icon_arrow_dros"></i>Wassimo</a></li>
-<li><a target="_blank" href="http://photoshopna.com"><i class="icon_arrow_dros"></i>PhotoshopNA</a></li>
-<li><a target="_blank" href="http://ddros.com"><i class="icon_arrow_dros"></i> Free Tutorials</a></li>
+	<li class="cat-item cat-item-16481"><a href="http://photoshop.cc/free-arabic-fonts/fonts-bassit" title="View all posts filed under bassit الخط البسيط">bassit الخط البسيط</a>
+</li>
+	<li class="cat-item cat-item-16482"><a href="http://photoshop.cc/free-arabic-fonts/diwani-fonts" title="View all posts filed under Diwani الخط الديواني">Diwani الخط الديواني</a>
+</li>
+	<li class="cat-item cat-item-16483"><a href="http://photoshop.cc/free-arabic-fonts/e3lanat-fonts" title="View all posts filed under e3lanat خط الأعلانات">e3lanat خط الأعلانات</a>
+</li>
+	<li class="cat-item cat-item-16484"><a href="http://photoshop.cc/free-arabic-fonts/farisi-fonts" title="View all posts filed under Farisi خطوط فارسية">Farisi خطوط فارسية</a>
+</li>
+	<li class="cat-item cat-item-16485"><a href="http://photoshop.cc/free-arabic-fonts/gharib-fonts" title="View all posts filed under Gharib خطوط غريبة">Gharib خطوط غريبة</a>
+</li>
+	<li class="cat-item cat-item-16486"><a href="http://photoshop.cc/free-arabic-fonts/horr-fonts" title="View all posts filed under Horr خط حر">Horr خط حر</a>
+</li>
+	<li class="cat-item cat-item-16487"><a href="http://photoshop.cc/free-arabic-fonts/kufi-fonts" title="View all posts filed under Kufi خطوط كوفية">Kufi خطوط كوفية</a>
+</li>
+	<li class="cat-item cat-item-16488"><a href="http://photoshop.cc/free-arabic-fonts/maghrebi-fonts" title="View all posts filed under Maghrebi خطوط مغربيه">Maghrebi خطوط مغربيه</a>
+</li>
+	<li class="cat-item cat-item-16489"><a href="http://photoshop.cc/free-arabic-fonts/moraba3-fonts" title="View all posts filed under Moraba3 خطوط مربعة">Moraba3 خطوط مربعة</a>
+</li>
+	<li class="cat-item cat-item-16490"><a href="http://photoshop.cc/free-arabic-fonts/mutawar-fonts" title="View all posts filed under Mutawar خطوط مطورة">Mutawar خطوط مطورة</a>
+</li>
+	<li class="cat-item cat-item-16491"><a href="http://photoshop.cc/free-arabic-fonts/naskh-fonts" title="View all posts filed under Naskh خط النسخ">Naskh خط النسخ</a>
+</li>
+	<li class="cat-item cat-item-16492"><a href="http://photoshop.cc/free-arabic-fonts/rekaa-fonts" title="View all posts filed under Rekaa خط الرقعة">Rekaa خط الرقعة</a>
+</li>
+	<li class="cat-item cat-item-16493"><a href="http://photoshop.cc/free-arabic-fonts/separate-fonts" title="View all posts filed under Separate خطوط منفصله">Separate خطوط منفصله</a>
+</li>
+	<li class="cat-item cat-item-16494"><a href="http://photoshop.cc/free-arabic-fonts/thuluth-fonts" title="View all posts filed under Thuluth خط الثلث">Thuluth خط الثلث</a>
+</li>
+ 
 </ul></li></ul>
 <!--end ul more -->
-<div id="extra_bar">
-<ul class="sort_by ">
-<li title="Sort posts by Views , Working only in categories !" class="sort_left"><a href="?sort=views"></a></li>
-<li title="Sort posts by New  , Working only in categories !" class="sort_right"><a href="?sort=new"></a></li>
-</ul>
-<div class="wparaby_search_warpper"><form role="search" method="get" id="search_form_form" action="http://photoshop.cc">
-	<input type="text" value="Search..." onblur="if(this.value=='') this.value='Search...';" onfocus="if(this.value=='Search...') this.value='';" name="s" class="search_input">
-	<input type="submit" class="searchsubmit" value="">
-</form>
-</div></div>
+
+
+
+
+
+
+
+
+
+
+ 
+<!--start ul more -->
+<ul style="margin-left:-1px;" class="arrow_more_tab_cats tab_cat_1">
+<li><a href="http://photoshop.cc/brushes" class="category_tab_title">Shapes</a>
+<ul>
+	<li class="cat-item cat-item-3"><a href="http://photoshop.cc/brushes/abstract-brushes" title="View all posts filed under Abstract brushes">Abstract brushes</a>
+</li>
+	<li class="cat-item cat-item-15918"><a href="http://photoshop.cc/brushes/animals-brushes" title="View all posts filed under Animal brushes">Animal brushes</a>
+</li>
+	<li class="cat-item cat-item-17108"><a href="http://photoshop.cc/brushes/bokeh-brushes" title="View all posts filed under Bokeh brushes">Bokeh brushes</a>
+</li>
+	<li class="cat-item cat-item-327"><a href="http://photoshop.cc/brushes/custom-brushes" title="View all posts filed under custom brushes">custom brushes</a>
+</li>
+	<li class="cat-item cat-item-113"><a href="http://photoshop.cc/brushes/drawings" title="View all posts filed under Drawing Brushes">Drawing Brushes</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://photoshop.cc/brushes/fractals" title="View all posts filed under Fractal Brushes">Fractal Brushes</a>
+</li>
+	<li class="cat-item cat-item-183"><a href="http://photoshop.cc/brushes/girly-doodles-brushes" title="View all posts filed under girly &amp; Doodles">girly &amp; Doodles</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://photoshop.cc/brushes/grunge-brushes" title="View all posts filed under Grunge brushes">Grunge brushes</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://photoshop.cc/brushes/hearts" title="View all posts filed under Heart Brushes">Heart Brushes</a>
+</li>
+	<li class="cat-item cat-item-337"><a href="http://photoshop.cc/brushes/lines-shapes" title="View all posts filed under Lines / Shapes">Lines / Shapes</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://photoshop.cc/brushes/miscellaneous-brushes" title="View all posts filed under Miscellaneous">Miscellaneous</a>
+</li>
+	<li class="cat-item cat-item-373"><a href="http://photoshop.cc/brushes/nature" title="View all posts filed under Nature Brushes">Nature Brushes</a>
+</li>
+	<li class="cat-item cat-item-117"><a href="http://photoshop.cc/brushes/ornamental" title="View all posts filed under Ornamental brushes">Ornamental brushes</a>
+</li>
+	<li class="cat-item cat-item-141"><a href="http://photoshop.cc/brushes/people-brushes" title="View all posts filed under People Bushes">People Bushes</a>
+</li>
+	<li class="cat-item cat-item-133"><a href="http://photoshop.cc/brushes/skulls-skeletons-brushes" title="View all posts filed under Skulls &amp; Skeletons">Skulls &amp; Skeletons</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://photoshop.cc/brushes/splatters" title="View all posts filed under Splatters Brushes">Splatters Brushes</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://photoshop.cc/brushes/stars-space-brushes" title="View all posts filed under Stars Space">Stars Space</a>
+</li>
+	<li class="cat-item cat-item-130"><a href="http://photoshop.cc/brushes/swirls" title="View all posts filed under Swirls Brushes">Swirls Brushes</a>
+</li>
+	<li class="cat-item cat-item-164"><a href="http://photoshop.cc/brushes/urban-brushes" title="View all posts filed under urban brushes">urban brushes</a>
+</li>
+	<li class="cat-item cat-item-2044"><a href="http://photoshop.cc/brushes/vintage" title="View all posts filed under vintage Brushes">vintage Brushes</a>
+</li>
+	<li class="cat-item cat-item-156"><a href="http://photoshop.cc/brushes/words-letters" title="View all posts filed under words &amp; letters brushes">words &amp; letters brushes</a>
+</li>
+ 
+</ul></li></ul>
+<!--end ul more -->
+
+
+
+
+
+
+ 
+<!--start ul more -->
+<ul class="arrow_more_tab_cats">
+<li><a href="http://photoshop.cc/custom-shapes" class="category_tab_title">Shapes</a>
+<ul>
+	<li class="cat-item cat-item-278"><a href="http://photoshop.cc/custom-shapes/animals-shapes" title="View all posts filed under Animals shapes">Animals shapes</a>
+</li>
+	<li class="cat-item cat-item-204"><a href="http://photoshop.cc/custom-shapes/flowers-shapes" title="View all posts filed under flowers shapes">flowers shapes</a>
+</li>
+	<li class="cat-item cat-item-284"><a href="http://photoshop.cc/custom-shapes/life-style-shapes" title="View all posts filed under life style shapes">life style shapes</a>
+</li>
+	<li class="cat-item cat-item-365"><a href="http://photoshop.cc/custom-shapes/miscellaneous-custom-shapes" title="View all posts filed under Miscellaneous">Miscellaneous</a>
+</li>
+	<li class="cat-item cat-item-17021"><a href="http://photoshop.cc/custom-shapes/nature-shapes" title="View all posts filed under Nature shapes">Nature shapes</a>
+</li>
+	<li class="cat-item cat-item-203"><a href="http://photoshop.cc/custom-shapes/people-shapes" title="View all posts filed under People Shapes">People Shapes</a>
+</li>
+	<li class="cat-item cat-item-17026"><a href="http://photoshop.cc/custom-shapes/web-shapes" title="View all posts filed under Web shapes">Web shapes</a>
+</li>
+ 
+</ul></li></ul>
+<!--end ul more -->
+
+
+
+
+
+
+
+
+
+ 
+<!--start ul more -->
+<ul class="arrow_more_tab_cats">
+<li><a href="http://photoshop.cc/patterns" class="category_tab_title">Patterns</a>
+<ul>
+	<li class="cat-item cat-item-68"><a href="http://photoshop.cc/patterns/colourful" title="View all posts filed under Colourful Patterns">Colourful Patterns</a>
+</li>
+	<li class="cat-item cat-item-86"><a href="http://photoshop.cc/patterns/decor" title="View all posts filed under Decor Patterns">Decor Patterns</a>
+</li>
+	<li class="cat-item cat-item-70"><a href="http://photoshop.cc/patterns/doodles" title="View all posts filed under Doodles Patterns">Doodles Patterns</a>
+</li>
+	<li class="cat-item cat-item-189"><a href="http://photoshop.cc/patterns/dotted-pattern" title="View all posts filed under dotted pattern">dotted pattern</a>
+</li>
+	<li class="cat-item cat-item-92"><a href="http://photoshop.cc/patterns/flower" title="View all posts filed under Flower Patterns">Flower Patterns</a>
+</li>
+	<li class="cat-item cat-item-302"><a href="http://photoshop.cc/patterns/miscellaneous-patterns" title="View all posts filed under Miscellaneous Patterns">Miscellaneous Patterns</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://photoshop.cc/patterns/free-psd-files" title="View all posts filed under PSD">PSD</a>
+</li>
+	<li class="cat-item cat-item-96"><a href="http://photoshop.cc/patterns/rounded" title="View all posts filed under Rounded Patterns">Rounded Patterns</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="http://photoshop.cc/patterns/scanlines" title="View all posts filed under Scanlines Patterns">Scanlines Patterns</a>
+</li>
+	<li class="cat-item cat-item-197"><a href="http://photoshop.cc/patterns/stripe-pattern" title="View all posts filed under Stripe Pattern">Stripe Pattern</a>
+</li>
+	<li class="cat-item cat-item-17008"><a href="http://photoshop.cc/patterns/swirl-patterns" title="View all posts filed under Swirl Patterns">Swirl Patterns</a>
+</li>
+	<li class="cat-item cat-item-85"><a href="http://photoshop.cc/patterns/tiles" title="View all posts filed under Tiles Patterns">Tiles Patterns</a>
+</li>
+ 
+</ul></li></ul>
+<!--end ul more -->
+
+
+
+
+ 
+<!--start ul more -->
+<ul class="arrow_more_tab_cats">
+<li><a href="http://photoshop.cc/textures" class="category_tab_title">Textures</a>
+<ul>
+	<li class="cat-item cat-item-11"><a href="http://photoshop.cc/textures/colorful" title="View all posts filed under Colorful textures">Colorful textures</a>
+</li>
+	<li class="cat-item cat-item-249"><a href="http://photoshop.cc/textures/flat" title="View all posts filed under flat textures">flat textures</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://photoshop.cc/textures/grunge-textures" title="View all posts filed under grunge textures">grunge textures</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://photoshop.cc/textures/metal" title="View all posts filed under Metal textures">Metal textures</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://photoshop.cc/textures/paper" title="View all posts filed under paper textures">paper textures</a>
+</li>
+	<li class="cat-item cat-item-54"><a href="http://photoshop.cc/textures/rust" title="View all posts filed under Rust">Rust</a>
+</li>
+	<li class="cat-item cat-item-56"><a href="http://photoshop.cc/textures/wood" title="View all posts filed under Wood textures">Wood textures</a>
+</li>
+ 
+</ul></li></ul>
+<!--end ul more -->
+
+
+
+
+
+
+ 
+<!--start ul more -->
+<ul class="arrow_more_tab_cats tab_cat_8">
+<li><a href="http://photoshop.cc/blog" class="category_tab_title">Blog </a>
+<ul>
+	<li class="cat-item cat-item-2847"><a href="http://photoshop.cc/blog/designs" title="View all posts filed under Designs">Designs</a>
+</li>
+	<li class="cat-item cat-item-15978"><a href="http://photoshop.cc/blog/photography-blog" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-15971"><a href="http://photoshop.cc/blog/photoshop-freebies" title="View all posts filed under Photoshop Freebies">Photoshop Freebies</a>
+</li>
+	<li class="cat-item cat-item-15970"><a href="http://photoshop.cc/blog/photoshop-tutorials" title="View all posts filed under Photoshop Tutorials">Photoshop Tutorials</a>
+</li>
+ 
+</ul></li></ul>
+<!--end ul more -->
+
+
+
+
+ 
+<!--start ul more -->
+<ul class="arrow_more_tab_cats tab_cat_8">
+<li><a href="http://photoshop.cc/styles-files" class="category_tab_title">Styles</a>
+<ul>
+	<li class="cat-item cat-item-318"><a href="http://photoshop.cc/styles-files/psd-files" title="View all posts filed under free psd files">free psd files</a>
+</li>
+	<li class="cat-item cat-item-262"><a href="http://photoshop.cc/styles-files/layer-styles" title="View all posts filed under Layer Styles">Layer Styles</a>
+</li>
+	<li class="cat-item cat-item-258"><a href="http://photoshop.cc/styles-files/styles" title="View all posts filed under styles">styles</a>
+</li>
+ 
+</ul></li></ul>
+<!--end ul more -->
+
+
+ 
+<!--start ul more -->
+<ul class="arrow_more_tab_cats tab_cat_8">
+<li><a href="http://photoshop.cc/youtube" class="category_tab_title">Youtube</a>
+<ul>
+	<li class="cat-item cat-item-16989"><a href="http://photoshop.cc/youtube/3d" title="View all posts filed under 3D Tutorials">3D Tutorials</a>
+</li>
+	<li class="cat-item cat-item-16990"><a href="http://photoshop.cc/youtube/designing" title="View all posts filed under Designing Tutorials">Designing Tutorials</a>
+</li>
+	<li class="cat-item cat-item-16991"><a href="http://photoshop.cc/youtube/drawing" title="View all posts filed under Drawing Tutorials">Drawing Tutorials</a>
+</li>
+	<li class="cat-item cat-item-16992"><a href="http://photoshop.cc/youtube/effects" title="View all posts filed under Effects Tutorials">Effects Tutorials</a>
+</li>
+	<li class="cat-item cat-item-16993"><a href="http://photoshop.cc/youtube/icon-design-tutorials" title="View all posts filed under Icon Design Tutorials">Icon Design Tutorials</a>
+</li>
+	<li class="cat-item cat-item-16994"><a href="http://photoshop.cc/youtube/illustration" title="View all posts filed under Illustration Tutorials">Illustration Tutorials</a>
+</li>
+	<li class="cat-item cat-item-16995"><a href="http://photoshop.cc/youtube/interface" title="View all posts filed under Interface Tutorials">Interface Tutorials</a>
+</li>
+	<li class="cat-item cat-item-16996"><a href="http://photoshop.cc/youtube/painting" title="View all posts filed under Painting Tutorials">Painting Tutorials</a>
+</li>
+	<li class="cat-item cat-item-16997"><a href="http://photoshop.cc/youtube/photo-effects" title="View all posts filed under Photo Effects Tutorials">Photo Effects Tutorials</a>
+</li>
+	<li class="cat-item cat-item-17050"><a href="http://photoshop.cc/youtube/photomanipulation" title="View all posts filed under Photomanipulation">Photomanipulation</a>
+</li>
+	<li class="cat-item cat-item-16998"><a href="http://photoshop.cc/youtube/text-youtube" title="View all posts filed under Text Effects">Text Effects</a>
+</li>
+	<li class="cat-item cat-item-16999"><a href="http://photoshop.cc/youtube/tools-tips" title="View all posts filed under Tools &amp; Tips">Tools &amp; Tips</a>
+</li>
+	<li class="cat-item cat-item-17000"><a href="http://photoshop.cc/youtube/video-effects" title="View all posts filed under Video Effects">Video Effects</a>
+</li>
+ 
+</ul></li></ul>
+<!--end ul more -->
+
+ <a href="http://photoshop.cc/question/recent" class="upload_button2"><i class="icon_permium"></i>Questions</a>
+
+
+</div>
+
+
+
+
+
 
 </div><!--enf of header2 -->
 <div id="menu_best_cates">
@@ -113,676 +775,96 @@
 
 
 
+</div><!-- end menu_best_cates-->
 
-<ul class="embad_brushes">
 
-<li class="bbcode_warpper">
-<a class="bbcode_url"></a>
-<div class="bb_li"><b>HTML Code</b> <textarea id="holdtext">
 
 
-</textarea></div>
-</li>
 
 
-<li class="html_warpper">
-<a class="html_url"></a>
-<div class="html_li"><b>HTML Code</b> <textarea id="holdtext">
 
-is_page
 
-</textarea></div>
-</li>
 
 
 
-</ul>
-</div>
 
-<div id="site_width_v3">
-<div id="site_width_right_v3">
 
 
 
-
-
-<li id="text-2" class="widget-container widget_text"><h3 class="widget-title">About Photoshop</h3>			<div class="textwidget"><p>About the Site<br>
-Photoshop.cc is a collection of High Quality Free Photoshop Brushes, Photoshop Patterns and Textures on the net. We’ve gather and collect it all in to one place. Thus, We’ll bring you the best brushes, patterns and textures and shapes that would satisfy your needs,</p>
-<p>#1 free photoshop brushes 2012 , cs6 , cs5 ,cs4 cs3 , cs2<br>
-#1 free photoshop patterns, patterns, shapes , styles , textures</p>
-</div>
-		</li><li id="listsubcategories-19" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/blog">Photoshop Blog</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/blog/photography-blog" title="Photography">Photography </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/blog/photoshop-freebies" title="Photoshop Freebies">Photoshop Freebies </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/blog/photoshop-tutorials" title="Photoshop Tutorials">Photoshop Tutorials </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-5" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/brushes">Free brushes</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/abstract-brushes" title="Abstract">Abstract </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/animals-brushes" title="Animals">Animals </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/custom-brushes" title="custom brushes">custom brushes </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/drawings" title="Drawings">Drawings </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/fractals" title="Fractals">Fractals </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/girly-doodles-brushes" title="girly &amp; Doodles">girly &amp; Doodles </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/grunge-brushes" title="Grunge">Grunge </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/hearts" title="Hearts">Hearts </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/lines-shapes" title="Lines / Shapes">Lines / Shapes </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/miscellaneous-brushes" title="Miscellaneous">Miscellaneous </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/nature" title="Nature">Nature </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/ornamental" title="Ornamental">Ornamental </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/people-brushes" title="people">people </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/skulls-skeletons-brushes" title="Skulls &amp; Skeletons">Skulls &amp; Skeletons </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/splatters" title="Splatters">Splatters </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/stars-space-brushes" title="Stars Space">Stars Space </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/swirls" title="Swirls">Swirls </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/urban-brushes" title="urban brushes">urban brushes </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/vintage" title="vintage">vintage </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/brushes/words-letters" title="words &amp; letters">words &amp; letters </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-6" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/patterns">Free Patterns</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/patterns/colourful" title="Colourful">Colourful </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/patterns/decor" title="Decor">Decor </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/patterns/doodles" title="Doodles">Doodles </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/patterns/dotted-pattern" title="dotted pattern">dotted pattern </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/patterns/flower" title="Flower">Flower </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/patterns/miscellaneous-patterns" title="Miscellaneous">Miscellaneous </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/patterns/free-psd-files" title="PSD">PSD </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/patterns/rounded" title="Rounded">Rounded </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/patterns/scanlines" title="Scanlines">Scanlines </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/patterns/stripe-pattern" title="Stripe Pattern">Stripe Pattern </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/patterns/tiles" title="Tiles">Tiles </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-7" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/custom-shapes">Free Shapes</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/custom-shapes/animals-shapes" title="Animals">Animals </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/custom-shapes/flowers-shapes" title="flowers">flowers </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/custom-shapes/life-style-shapes" title="life style">life style </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/custom-shapes/miscellaneous-custom-shapes" title="Miscellaneous">Miscellaneous </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/custom-shapes/people-shapes" title="people">people </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-8" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/styles-files">Free Styles</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/styles-files/psd-files" title="free psd files">free psd files </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/styles-files/layer-styles" title="Layer Styles">Layer Styles </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/styles-files/styles" title="styles">styles </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-9" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/exclusive-resources">Free Exclusive</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/exclusive-resources/exclusive-brushes" title="Exclusive brushes">Exclusive brushes </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/exclusive-resources/exclusive-patterns" title="exclusive patterns">exclusive patterns </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/exclusive-resources/exclusive-styles" title="Exclusive styles">Exclusive styles </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-16" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/occasions">Free events</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/occasions/halloween" title="Halloween">Halloween </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/occasions/happy-eid" title="happy eid">happy eid </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/occasions/holiday-photoshop-resources" title="Holiday">Holiday </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-18" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/textures">Free Textures</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/textures/colorful" title="Colorful">Colorful </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/textures/flat" title="flat">flat </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/textures/grunge-textures" title="grunge">grunge </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/textures/metal" title="Metal">Metal </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/textures/paper" title="paper">paper </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/textures/rust" title="Rust">Rust </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/textures/wood" title="Wood">Wood </a>
-
-		</li>
-</ul></div>
-</li>
-<div id="widg_link_1">
-<li id="listsubcategories-15" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/fonts/holiday-free-fonts">Free Holiday Fonts</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/holiday-free-fonts/christmas" title="christmas">christmas </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/holiday-free-fonts/easter" title="easter">easter </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/holiday-free-fonts/halloween-holiday-free-fonts" title="halloween">halloween </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/holiday-free-fonts/valentine" title="valentine">valentine </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/holiday-free-fonts/various-holiday-free-fonts" title="various">various </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-13" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/fonts/script-free-fonts">Free Script Fonts</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/script-free-fonts/brush" title="brush">brush </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/script-free-fonts/calligraphy" title="calligraphy">calligraphy </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/script-free-fonts/graffiti" title="graffiti">graffiti </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/script-free-fonts/handwritten" title="handwritten">handwritten </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/script-free-fonts/old-school-script-free-fonts" title="School">School </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/script-free-fonts/trash" title="trash">trash </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/script-free-fonts/various-script-free-fonts" title="various">various </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-11" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/fonts/foreign-look-free-fonts">Free Foreign Fonts</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/foreign-look-free-fonts/arabic" title="arabic">arabic </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/foreign-look-free-fonts/chinese-jpn" title="chinese jpn">chinese jpn </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/foreign-look-free-fonts/mexican" title="Mexican">Mexican </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/foreign-look-free-fonts/roman-greek" title="roman greek">roman greek </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/foreign-look-free-fonts/russian" title="russian">russian </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/foreign-look-free-fonts/various-foreign-look-free-fonts" title="various">various </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-14" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/fonts/techno-free-fonts">Free Techno Fonts</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/techno-free-fonts/lcd" title="LCD">LCD </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/techno-free-fonts/sci-fi" title="sci-fi">sci-fi </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/techno-free-fonts/square" title="square">square </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/techno-free-fonts/various-techno-free-fonts" title="various">various </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-10" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/fonts/fancy-free-fonts">Free Fancy Fonts</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/cartoon" title="Cartoon Fonts">Cartoon Fonts </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/comic" title="Comic Fonts">Comic Fonts </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/curly" title="Curly Fonts">Curly Fonts </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/decorative" title="Decorative Fonts">Decorative Fonts </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/destroy" title="Destroy">Destroy </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/distorted" title="Distorted">Distorted </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/eroded" title="Eroded">Eroded </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/fire-ice" title="fire ice">fire ice </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/grid" title="grid">grid </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/groovy" title="Groovy">Groovy </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/horror-fancy-free-fonts" title="horror">horror </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/intililas" title="intililas">intililas </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/old-school" title="Old School">Old School </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/retro" title="retro">retro </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/stencil-army" title="Stencil, Army">Stencil, Army </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/typewrite" title="typewrite">typewrite </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/various-fancy-free-fonts" title="various">various </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/fancy-free-fonts/western" title="Western">Western </a>
-
-		</li>
-</ul></div>
-</li><li id="listsubcategories-12" class="widget-container widget_listsubcategories"><h3 class="widget-title"><a href="http://photoshop.cc/fonts/basic-free-fonts">Free Basic Fonts</a></h3>
-	
-	<div>
-	<ul>
-	
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/basic-free-fonts/fixed-width" title="Fixed Width Fonts">Fixed Width Fonts </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/basic-free-fonts/sans-serif" title="Sans Serif Fonts">Sans Serif Fonts </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/basic-free-fonts/serif" title="Serif Fonts">Serif Fonts </a>
-
-		</li>
-		<li>
-
-		<a class="post-title" href="http://photoshop.cc/fonts/basic-free-fonts/various" title="Various Fonts">Various Fonts </a>
-
-		</li>
-</ul></div>
-</li><li id="text-4" class="widget-container widget_text"><h3 class="widget-title">Visitors</h3>			<div class="textwidget"><a href="http://s06.flagcounter.com/more/3g3"><img src="http://s06.flagcounter.com/count/3g3/bg=FFFFFF/txt=000000/border=CCCCCC/columns=1/maxflags=1/viewers=0/labels=0/pageviews=1/" alt="Free counters!" border="0"></a></div>
-		</li><li id="linkcat-2" class="widget-container widget_links"><h3 class="widget-title">Friends &amp; Partners</h3>
-	<ul class="xoxo blogroll">
-<li><a href="http://www.brushking.eu/">Brush King</a></li>
-<li><a href="http://brushphotoshop.net" title="download free brushes">Brush photoshop</a></li>
-<li><a href="http://fbrushes.com">Fbrushes</a></li>
-<li><a href="http://freebrushes.net" title="download free brushes">Free brushes</a></li>
-<li><a href="http://free-brushes.com">free-brushes.com</a></li>
-<li><a href="http://free-brushes.com">free-brushes.com</a></li>
-<li><a href="http://brushportal.com">Illustrator brushes</a></li>
-<li><a href="http://illustratorcs6.com">illustrator cs6</a></li>
-<li><a href="http://www.ubrushes.com/" target="_blank">photoshop brushes</a></li>
-<li><a href="http://www.9photoshop.com/" title="photoshop tutorials">photoshop tutorials</a></li>
-<li><a href="http://ps.psd.co">PSD.co</a></li>
-<li><a href="http://tutoriallounge.com/">tutorial lounge</a></li>
-
-	</ul>
-</li>
+<div id="overhead-promo" class="xactive slide-down cmp_holiday2012_RET_PRT_123012_35OFFPSLC">
+<a href="http://photoshop.cc/youtube" class="dev-strip">
+<div class="dev-item"></div>
+<span class="overhead-promo-span" style="height: 150px; width: 94px;  left: 0px; top: -93px;"></span>
+</a>
 </div>
 
 
-<!-- 
-<div id="slide_random">
-<div id="slide_random_title">Latest News</div>
 
-<div id="side_random_thumb"></div>
-<div id="side_random_thumb"></div>
-<div id="side_random_thumb"></div>
---></div>
-<div id="site_width_left_v3">
+
+
+
+
+
+
+
+
+<div class="browse_tab">
+<div class="bar_v03">
+<a href="http://photoshop.cc/submit" class="upload_button"><i class="icon_upload"></i>upload</a>
+<a href="http://photoshop.cc/members/" class="upload_button"><i class="icon_vatar"></i>Members</a>
+<a href="settings" class="upload_button"><i class="icon_settings"></i>Settings</a>
+<a href="http://photoshop.cc/permium" class="upload_button"><i class="icon_permium"></i>Permium</a>
+
+<div id="sf_50de43c661e92" class="search_v03">
+<form role="search" method="get" class="search_form_v03" action="http://photoshop.cc">
+	<input type="text" value="Search..." onblur="if(this.value=='') this.value='Search...';" onfocus="if(this.value=='Search...') this.value='';" name="s" class="search_input_v03 sf_input sf_focused">
+	<input type="submit" class="searchsubmitt_v03" value="">
+</form>
+</div><!--end search v03-->
+<script type="text/javascript">
+			/* <![CDATA[ */
+			var sf_50de43c661e92_timeout = null;
+			jQuery("#sf_50de43c661e92 .sf_input").keyup(function(event){
+				if(event.keyCode != "38" && event.keyCode != "40" && event.keyCode != "13" && event.keyCode != "27" && event.keyCode != "39" && event.keyCode != "37")
+				{
+					if(sf_50de43c661e92_timeout != null)
+					{
+						clearTimeout(sf_50de43c661e92_timeout);
+					}
+					jQuery("#sf_50de43c661e92 .sf_input").attr("class", jQuery("#sf_50de43c661e92 .sf_input").attr("class").replace(" sf_focused", "") + " sf_focused");
+					sf_timeout = setTimeout("sf_get_results('sf_50de43c661e92')", sf_delay);
+				}
+			});
+		/* ]]> */
+		</script></div><!--end bar_v03 v03--><div class="browse_tab_bg">
+<div class="browse_right">
+<br>
+
+
+
+</div>
+<div class="browse_left">
 
 <div class="cate_line_v3"><p><a href="http://photoshop.cc">Home</a></p><span><a>  privacy policy</a></span></div>
 
 <div style="height:auto; width:660px; padding:20px;  font-size:16px; line-height:25px;  margin-top:-20px;" id="font_single_thumb">
 <p><strong>Privacy Policy for photoshop.cc</strong></p>
 <p>If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at wassimo4life[@]gmail.com.</p>
-<p>At Photosohop.cc, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by&nbsp;Photosohop.cc and how it is used.</p>
+<p>At Photosohop.cc, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected byÂ&nbsp;Photosohop.cc and how it is used.</p>
 <p><strong>Log Files</strong><br>
-Like many other Web sites,&nbsp;Photosohop.cc makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
+Like many other Web sites,Â&nbsp;Photosohop.cc makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
 <p><strong>Cookies and Web Beacons</strong><br>
 Photosohop.cc does not use cookies.</p>
 <p><strong>DoubleClick DART Cookie</strong><br>
 .:: Google, as a third party vendor, uses cookies to serve ads on Photosohop.cc.<br>
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to Photosohop.cc and other sites on the Internet.<br>
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html</p>
-<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….<br>
+.:: Googleâ€™s use of the DART cookie enables it to serve ads to users based on their visit to Photosohop.cc and other sites on the Internet.<br>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL â€“ http://www.google.com/privacy_ads.html</p>
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include â€¦.<br>
 Google Adsense</p>
 <p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on Photosohop.cc send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p>
 <p>Photosohop.cc has no access to or control over these cookies that are used by third-party advertisers.</p>
-<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Photosohop.cc’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
-<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
+<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Photosohop.ccâ€™s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsersâ€™ respective websites.</p>
 
 
 
@@ -792,80 +874,31 @@ Google Adsense</p>
 
 
 
-<div id="cate_line_v3"><p><a href="http://photoshop.cc">Home</a></p><span><a> Comments</a></span></div>
-
-<div id="comment_left" style="margin-right:30px;">
-<!-- You can start editing here. -->
 
 
-			<!-- If comments are open, but there are no comments. -->
-
-	 
-
-
-<div id="respond">
-
-<h3>Leave a Reply</h3>
-
-<div id="cancel-comment-reply">
-	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy#respond" style="display:none;">Click here to cancel reply.</a></small>
-</div>
-
-
-<form action="http://photoshop.cc/wp-comments-post.php" method="post" id="commentform">
-
-
-<p><input type="text" name="author" id="author" value="" size="22" tabindex="1" aria-required="true">
-<label for="author"><small>Name (required)</small></label></p>
-
-<p><input type="text" name="email" id="email" value="" size="22" tabindex="2" aria-required="true">
-<label for="email"><small>Mail (will not be published) (required)</small></label></p>
-
-<p><input type="text" name="url" id="url" value="" size="22" tabindex="3">
-<label for="url"><small>Website</small></label></p>
-
-
-<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
-
-<p><textarea name="comment" id="comment" cols="58" rows="10" tabindex="4"></textarea></p>
-
-<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment">
-<input type="hidden" name="comment_post_ID" value="22183" id="comment_post_ID">
-<input type="hidden" name="comment_parent" id="comment_parent" value="0">
-</p>
-<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="7214f31b08"></p>
-</form>
-
-</div>
-
-</div>
-
-
-
-
-		<!--end of left warrpper -->
+<!--end of left warrpper -->
         
-<div id="side_middle" style="float:left;padding-top:10px;;"><li class="widget-container widget_tag_cloud"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href="http://photoshop.cc/tag/arabic-2" class="tag-link-1710" title="1,381 topics" style="font-size: 13.8507462687pt;">Arabic</a>
+<div id="side_middle" style="float:left;padding-top:10px;;"><li class="widget-container_warpper widget_tag_cloud"><h3 class="widget_title_v03_container_warpper">Tags</h3><div class="tagcloud"><a href="http://photoshop.cc/tag/arabic-2" class="tag-link-1710" title="1,396 topics" style="font-size: 14.0597014925pt;">Arabic</a>
 <a href="http://photoshop.cc/tag/army-2" class="tag-link-1703" title="2,103 topics" style="font-size: 17.6119402985pt;">Army</a>
 <a href="http://photoshop.cc/tag/bar" class="tag-link-1739" title="1,382 topics" style="font-size: 13.8507462687pt;">Bar</a>
-<a href="http://photoshop.cc/tag/cartoon" class="tag-link-747" title="727 topics" style="font-size: 8pt;">Cartoon Fonts</a>
+<a href="http://photoshop.cc/tag/cartoon" class="tag-link-747" title="726 topics" style="font-size: 8pt;">Cartoon Fonts</a>
 <a href="http://photoshop.cc/tag/christmas-2" class="tag-link-1747" title="1,405 topics" style="font-size: 14.0597014925pt;">Christmas</a>
 <a href="http://photoshop.cc/tag/code" class="tag-link-1740" title="1,386 topics" style="font-size: 13.8507462687pt;">Code</a>
 <a href="http://photoshop.cc/tag/comic-2" class="tag-link-6330" title="745 topics" style="font-size: 8.20895522388pt;">COMIC</a>
 <a href="http://photoshop.cc/tag/cs6" class="tag-link-5486" title="1,381 topics" style="font-size: 13.8507462687pt;">cs6</a>
 <a href="http://photoshop.cc/tag/curly" class="tag-link-749" title="721 topics" style="font-size: 8pt;">Curly Fonts</a>
-<a href="http://photoshop.cc/tag/dafont" class="tag-link-5484" title="1,381 topics" style="font-size: 13.8507462687pt;">dafont</a>
-<a href="http://photoshop.cc/tag/decorative" class="tag-link-750" title="717 topics" style="font-size: 8pt;">Decorative Fonts</a>
-<a href="http://photoshop.cc/tag/destroy" class="tag-link-751" title="717 topics" style="font-size: 8pt;">Destroy</a>
-<a href="http://photoshop.cc/tag/distorted" class="tag-link-752" title="718 topics" style="font-size: 8pt;">Distorted</a>
+<a href="http://photoshop.cc/tag/dafont" class="tag-link-5484" title="1,382 topics" style="font-size: 13.8507462687pt;">dafont</a>
+<a href="http://photoshop.cc/tag/decorative" class="tag-link-750" title="726 topics" style="font-size: 8pt;">Decorative Fonts</a>
+<a href="http://photoshop.cc/tag/destroy" class="tag-link-751" title="717 topics" style="font-size: 8pt;">Destroy Free fonts</a>
+<a href="http://photoshop.cc/tag/distorted" class="tag-link-752" title="718 topics" style="font-size: 8pt;">Distorted Free fonts</a>
 <a href="http://photoshop.cc/tag/download" class="tag-link-546" title="1,381 topics" style="font-size: 13.8507462687pt;">download</a>
 <a href="http://photoshop.cc/tag/easter-2" class="tag-link-1746" title="1,389 topics" style="font-size: 13.8507462687pt;">Easter</a>
 <a href="http://photoshop.cc/tag/fancy" class="tag-link-1697" title="721 topics" style="font-size: 8pt;">Fancy</a>
 <a href="http://photoshop.cc/tag/fantastic-2" class="tag-link-1737" title="1,382 topics" style="font-size: 13.8507462687pt;">Fantastic</a>
-<a href="http://photoshop.cc/tag/fire" class="tag-link-1700" title="719 topics" style="font-size: 8pt;">Fire</a>
+<a href="http://photoshop.cc/tag/fire" class="tag-link-1700" title="733 topics" style="font-size: 8.20895522388pt;">Fire</a>
 <a href="http://photoshop.cc/tag/fonts-2" class="tag-link-4291" title="2,323 topics" style="font-size: 18.6567164179pt;">fonts</a>
 <a href="http://photoshop.cc/tag/fonts-3" class="tag-link-5485" title="1,381 topics" style="font-size: 13.8507462687pt;">fonts.</a>
-<a href="http://photoshop.cc/tag/free" class="tag-link-681" title="2,146 topics" style="font-size: 17.8208955224pt;">free</a>
+<a href="http://photoshop.cc/tag/free" class="tag-link-681" title="2,154 topics" style="font-size: 17.8208955224pt;">free</a>
 <a href="http://photoshop.cc/tag/games-2" class="tag-link-1738" title="1,382 topics" style="font-size: 13.8507462687pt;">Games</a>
 <a href="http://photoshop.cc/tag/groovy-2" class="tag-link-5499" title="719 topics" style="font-size: 8pt;">groovy</a>
 <a href="http://photoshop.cc/tag/halloween-2" class="tag-link-623" title="1,400 topics" style="font-size: 14.0597014925pt;">halloween</a>
@@ -876,13 +909,13 @@ Google Adsense</p>
 <a href="http://photoshop.cc/tag/kidstv" class="tag-link-1742" title="1,381 topics" style="font-size: 13.8507462687pt;">KidsTV</a>
 <a href="http://photoshop.cc/tag/logos-2" class="tag-link-1743" title="1,390 topics" style="font-size: 13.8507462687pt;">Logos</a>
 <a href="http://photoshop.cc/tag/movie" class="tag-link-545" title="1,392 topics" style="font-size: 13.8507462687pt;">movie</a>
-<a href="http://photoshop.cc/tag/music" class="tag-link-518" title="1,397 topics" style="font-size: 14.0597014925pt;">Music Fonts</a>
+<a href="http://photoshop.cc/tag/music" class="tag-link-518" title="1,401 topics" style="font-size: 14.0597014925pt;">Music Fonts</a>
 <a href="http://photoshop.cc/tag/nature-2" class="tag-link-541" title="1,413 topics" style="font-size: 14.0597014925pt;">nature</a>
-<a href="http://photoshop.cc/tag/old" class="tag-link-2922" title="740 topics" style="font-size: 8.20895522388pt;">Old</a>
+<a href="http://photoshop.cc/tag/old" class="tag-link-2922" title="745 topics" style="font-size: 8.20895522388pt;">Old</a>
 <a href="http://photoshop.cc/tag/photoshop" class="tag-link-38" title="1,449 topics" style="font-size: 14.2686567164pt;">photoshop</a>
 <a href="http://photoshop.cc/tag/school" class="tag-link-1725" title="718 topics" style="font-size: 8pt;">School</a>
 <a href="http://photoshop.cc/tag/sexy-2" class="tag-link-1744" title="1,385 topics" style="font-size: 13.8507462687pt;">Sexy</a>
-<a href="http://photoshop.cc/tag/shapes" class="tag-link-631" title="1,382 topics" style="font-size: 13.8507462687pt;">Shapes Fonts</a>
+<a href="http://photoshop.cc/tag/shapes" class="tag-link-631" title="1,384 topics" style="font-size: 13.8507462687pt;">Shapes Fonts</a>
 <a href="http://photoshop.cc/tag/sport" class="tag-link-573" title="1,419 topics" style="font-size: 14.0597014925pt;">Sport Fonts</a>
 <a href="http://photoshop.cc/tag/stencil" class="tag-link-1516" title="728 topics" style="font-size: 8pt;">stencil</a>
 <a href="http://photoshop.cc/tag/ttf" class="tag-link-812" title="3,380 topics" style="font-size: 22pt;">TTF</a>
@@ -899,40 +932,11 @@ Google Adsense</p>
 
 
 
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
+</div><!--end broswe left-->
+<div class="bar_bottom_v03">
+</div><!--end bar_v03 v03-->
+</div><!-- browse_tab-->
 
 
 
@@ -941,6 +945,7 @@ Google Adsense</p>
 </div><!-- #wrapper -->
 
 
+<div class="wparaby_footer_shadow"></div>
 <div id="wparaby_footer_top"></div>
 <div id="wparaby_footer">
 <div class="footer_width">
@@ -948,163 +953,18 @@ Google Adsense</p>
 
 
 <div class="footer_1">
-<li id="tag_cloud-2" class="widget-container widget_tag_cloud"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href="http://photoshop.cc/tag/arabic-2" class="tag-link-1710" title="1,381 topics" style="font-size: 13.8507462687pt;">Arabic</a>
-<a href="http://photoshop.cc/tag/army-2" class="tag-link-1703" title="2,103 topics" style="font-size: 17.6119402985pt;">Army</a>
-<a href="http://photoshop.cc/tag/bar" class="tag-link-1739" title="1,382 topics" style="font-size: 13.8507462687pt;">Bar</a>
-<a href="http://photoshop.cc/tag/cartoon" class="tag-link-747" title="727 topics" style="font-size: 8pt;">Cartoon Fonts</a>
-<a href="http://photoshop.cc/tag/christmas-2" class="tag-link-1747" title="1,405 topics" style="font-size: 14.0597014925pt;">Christmas</a>
-<a href="http://photoshop.cc/tag/code" class="tag-link-1740" title="1,386 topics" style="font-size: 13.8507462687pt;">Code</a>
-<a href="http://photoshop.cc/tag/comic-2" class="tag-link-6330" title="745 topics" style="font-size: 8.20895522388pt;">COMIC</a>
-<a href="http://photoshop.cc/tag/cs6" class="tag-link-5486" title="1,381 topics" style="font-size: 13.8507462687pt;">cs6</a>
-<a href="http://photoshop.cc/tag/curly" class="tag-link-749" title="721 topics" style="font-size: 8pt;">Curly Fonts</a>
-<a href="http://photoshop.cc/tag/dafont" class="tag-link-5484" title="1,381 topics" style="font-size: 13.8507462687pt;">dafont</a>
-<a href="http://photoshop.cc/tag/decorative" class="tag-link-750" title="717 topics" style="font-size: 8pt;">Decorative Fonts</a>
-<a href="http://photoshop.cc/tag/destroy" class="tag-link-751" title="717 topics" style="font-size: 8pt;">Destroy</a>
-<a href="http://photoshop.cc/tag/distorted" class="tag-link-752" title="718 topics" style="font-size: 8pt;">Distorted</a>
-<a href="http://photoshop.cc/tag/download" class="tag-link-546" title="1,381 topics" style="font-size: 13.8507462687pt;">download</a>
-<a href="http://photoshop.cc/tag/easter-2" class="tag-link-1746" title="1,389 topics" style="font-size: 13.8507462687pt;">Easter</a>
-<a href="http://photoshop.cc/tag/fancy" class="tag-link-1697" title="721 topics" style="font-size: 8pt;">Fancy</a>
-<a href="http://photoshop.cc/tag/fantastic-2" class="tag-link-1737" title="1,382 topics" style="font-size: 13.8507462687pt;">Fantastic</a>
-<a href="http://photoshop.cc/tag/fire" class="tag-link-1700" title="719 topics" style="font-size: 8pt;">Fire</a>
-<a href="http://photoshop.cc/tag/fonts-2" class="tag-link-4291" title="2,323 topics" style="font-size: 18.6567164179pt;">fonts</a>
-<a href="http://photoshop.cc/tag/fonts-3" class="tag-link-5485" title="1,381 topics" style="font-size: 13.8507462687pt;">fonts.</a>
-<a href="http://photoshop.cc/tag/free" class="tag-link-681" title="2,146 topics" style="font-size: 17.8208955224pt;">free</a>
-<a href="http://photoshop.cc/tag/games-2" class="tag-link-1738" title="1,382 topics" style="font-size: 13.8507462687pt;">Games</a>
-<a href="http://photoshop.cc/tag/groovy-2" class="tag-link-5499" title="719 topics" style="font-size: 8pt;">groovy</a>
-<a href="http://photoshop.cc/tag/halloween-2" class="tag-link-623" title="1,400 topics" style="font-size: 14.0597014925pt;">halloween</a>
-<a href="http://photoshop.cc/tag/heads" class="tag-link-1741" title="1,381 topics" style="font-size: 13.8507462687pt;">Heads</a>
-<a href="http://photoshop.cc/tag/holiday" class="tag-link-626" title="1,390 topics" style="font-size: 13.8507462687pt;">holiday</a>
-<a href="http://photoshop.cc/tag/horror-2" class="tag-link-1699" title="2,112 topics" style="font-size: 17.6119402985pt;">Horror</a>
-<a href="http://photoshop.cc/tag/ice" class="tag-link-1701" title="719 topics" style="font-size: 8pt;">Ice</a>
-<a href="http://photoshop.cc/tag/kidstv" class="tag-link-1742" title="1,381 topics" style="font-size: 13.8507462687pt;">KidsTV</a>
-<a href="http://photoshop.cc/tag/logos-2" class="tag-link-1743" title="1,390 topics" style="font-size: 13.8507462687pt;">Logos</a>
-<a href="http://photoshop.cc/tag/movie" class="tag-link-545" title="1,392 topics" style="font-size: 13.8507462687pt;">movie</a>
-<a href="http://photoshop.cc/tag/music" class="tag-link-518" title="1,397 topics" style="font-size: 14.0597014925pt;">Music Fonts</a>
-<a href="http://photoshop.cc/tag/nature-2" class="tag-link-541" title="1,413 topics" style="font-size: 14.0597014925pt;">nature</a>
-<a href="http://photoshop.cc/tag/old" class="tag-link-2922" title="740 topics" style="font-size: 8.20895522388pt;">Old</a>
-<a href="http://photoshop.cc/tag/photoshop" class="tag-link-38" title="1,449 topics" style="font-size: 14.2686567164pt;">photoshop</a>
-<a href="http://photoshop.cc/tag/school" class="tag-link-1725" title="718 topics" style="font-size: 8pt;">School</a>
-<a href="http://photoshop.cc/tag/sexy-2" class="tag-link-1744" title="1,385 topics" style="font-size: 13.8507462687pt;">Sexy</a>
-<a href="http://photoshop.cc/tag/shapes" class="tag-link-631" title="1,382 topics" style="font-size: 13.8507462687pt;">Shapes Fonts</a>
-<a href="http://photoshop.cc/tag/sport" class="tag-link-573" title="1,419 topics" style="font-size: 14.0597014925pt;">Sport Fonts</a>
-<a href="http://photoshop.cc/tag/stencil" class="tag-link-1516" title="728 topics" style="font-size: 8pt;">stencil</a>
-<a href="http://photoshop.cc/tag/ttf" class="tag-link-812" title="3,380 topics" style="font-size: 22pt;">TTF</a>
-<a href="http://photoshop.cc/tag/typewriter" class="tag-link-1702" title="726 topics" style="font-size: 8pt;">Typewriter</a>
-<a href="http://photoshop.cc/tag/valentine-2" class="tag-link-1745" title="1,382 topics" style="font-size: 13.8507462687pt;">Valentine</a>
-<a href="http://photoshop.cc/tag/various" class="tag-link-729" title="1,383 topics" style="font-size: 13.8507462687pt;">Various Fonts</a>
-<a href="http://photoshop.cc/tag/western" class="tag-link-764" title="718 topics" style="font-size: 8pt;">Western</a></div>
-</li></div>
+</div>
 
 <div class="footer_1">
-		<li id="recent-posts-2" class="widget-container widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
-				<li><a href="http://photoshop.cc/watercolour-brushes-www-photoshop-cc.html" title="Watercolour brushes www.photoshop.cc">Watercolour brushes www.photoshop.cc</a></li>
-				<li><a href="http://photoshop.cc/high-resolution-watercolour-photoshop-brushes.html" title="High Resolution Watercolour Photoshop Brushes">High Resolution Watercolour Photoshop Brushes</a></li>
-				<li><a href="http://photoshop.cc/splatter-brushes-2-www-photoshop-cc.html" title="Splatter brushes 2 www.photoshop.cc">Splatter brushes 2 www.photoshop.cc</a></li>
-				<li><a href="http://photoshop.cc/watercolour-photoshop-brushes.html" title="watercolour photoshop brushes">watercolour photoshop brushes</a></li>
-				<li><a href="http://photoshop.cc/splatters-www-photoshop-cc.html" title="Splatters www.photoshop.cc">Splatters www.photoshop.cc</a></li>
-				<li><a href="http://photoshop.cc/splatter-photoshop-brushes.html" title="Splatter Photoshop Brushes">Splatter Photoshop Brushes</a></li>
-				<li><a href="http://photoshop.cc/eight-corners-brush-addon.html" title="Eight Corners Brush AddOn">Eight Corners Brush AddOn</a></li>
-				<li><a href="http://photoshop.cc/watercolor-photoshop-brushes-www-photoshop-cc.html" title="Watercolor Photoshop Brushes www.photoshop.cc">Watercolor Photoshop Brushes www.photoshop.cc</a></li>
-				<li><a href="http://photoshop.cc/14-gothic-masks-halloween-2012.html" title="14 Gothic Masks Halloween 2012">14 Gothic Masks Halloween 2012</a></li>
-				<li><a href="http://photoshop.cc/brushes-night-club.html" title="Brushes: Night Club">Brushes: Night Club</a></li>
-				<li><a href="http://photoshop.cc/brushes-xplosion.html" title="Brushes: Xplosion">Brushes: Xplosion</a></li>
-				<li><a href="http://photoshop.cc/firma-ylenia.html" title="Firma Ylenia">Firma Ylenia</a></li>
-				<li><a href="http://photoshop.cc/vegetalise-brushes.html" title="Vegetalise Brushes">Vegetalise Brushes</a></li>
-				<li><a href="http://photoshop.cc/brushfx-shatter-effects-set-1.html" title="BrushFX – Shatter Effects Set 1">BrushFX – Shatter Effects Set 1</a></li>
-				<li><a href="http://photoshop.cc/crownheart-brush.html" title="Crownheart Brush">Crownheart Brush</a></li>
-				<li><a href="http://photoshop.cc/brushes-comic-book-action.html" title="Brushes: Comic Book Action">Brushes: Comic Book Action</a></li>
-				<li><a href="http://photoshop.cc/hetalia-brushes.html" title="+ Hetalia Brushes +">+ Hetalia Brushes +</a></li>
-				<li><a href="http://photoshop.cc/ribbon-brushes-vol-3.html" title="Ribbon Brushes Vol 3">Ribbon Brushes Vol 3</a></li>
-				<li><a href="http://photoshop.cc/bloodcell.html" title="BloodCell">BloodCell</a></li>
-				<li><a href="http://photoshop.cc/victorian-lady.html" title="Victorian Lady">Victorian Lady</a></li>
-				<li><a href="http://photoshop.cc/requested-manga-pen-pencil-emulator-brush.html" title="Requested: Manga Pen + Pencil Emulator Brush">Requested: Manga Pen + Pencil Emulator Brush</a></li>
-				<li><a href="http://photoshop.cc/10-textures-brush-pack.html" title="10 Textures: Brush Pack">10 Textures: Brush Pack</a></li>
-				<li><a href="http://photoshop.cc/50-must-have-photoshop-brushes.html" title="50 Must-Have Photoshop Brushes Watercolour and Splatters">50 Must-Have Photoshop Brushes Watercolour and Splatters</a></li>
-				<li><a href="http://photoshop.cc/free-hi-res-watercolor-photoshop-brushes-set-ii.html" title="Free Hi-Res Watercolor Photoshop Brushes Set II">Free Hi-Res Watercolor Photoshop Brushes Set II</a></li>
-				<li><a href="http://photoshop.cc/45-free-psd-files-that-you-can-use-in-your-projects.html" title="45 Free PSD Files that you can use in your projects">45 Free PSD Files that you can use in your projects</a></li>
-				<li><a href="http://photoshop.cc/2-heart-brushes.html" title="2 Heart Brushes">2 Heart Brushes</a></li>
-				<li><a href="http://photoshop.cc/untitled-drawing.html" title="Untitled Drawing">Untitled Drawing</a></li>
-				<li><a href="http://photoshop.cc/rain-and-snow-brush-set.html" title="Rain and Snow Brush Set">Rain and Snow Brush Set</a></li>
-				<li><a href="http://photoshop.cc/leaves-and-naturebrushes.html" title="Leaves and naturebrushes">Leaves and naturebrushes</a></li>
-				<li><a href="http://photoshop.cc/hi-res-19-nature-brushes-for-photoshop.html" title="( Hi-Res ) 19 Nature Brushes for Photoshop">( Hi-Res ) 19 Nature Brushes for Photoshop</a></li>
-				</ul>
-		</li></div>
+</div>
 
 
 
 <div class="footer_1">
-<li id="recent_searches-3" class="widget-container widget_search_meter"><h3 class="widget-title">Recent Searches</h3>
-<ul>
-<li><a href="http://photoshop.cc/search/catwoman">catwoman</a></li>
-<li><a href="http://photoshop.cc/search/324">324</a></li>
-<li><a href="http://photoshop.cc/search/6">6</a></li>
-<li><a href="http://photoshop.cc/search/314">314</a></li>
-<li><a href="http://photoshop.cc/search/lace">lace</a></li>
-<li><a href="http://photoshop.cc/search/coffee">coffee</a></li>
-<li><a href="http://photoshop.cc/search/food">food</a></li>
-<li><a href="http://photoshop.cc/search/smoke">smoke</a></li>
-<li><a href="http://photoshop.cc/search/kp">kp</a></li>
-<li><a href="http://photoshop.cc/search/naruto">naruto</a></li>
-<li><a href="http://photoshop.cc/search/ss">ss</a></li>
-<li><a href="http://photoshop.cc/search/bread">bread</a></li>
-<li><a href="http://photoshop.cc/search/square%20brushes">square brushes</a></li>
-<li><a href="http://photoshop.cc/search/debris">debris</a></li>
-<li><a href="http://photoshop.cc/search/heart">heart</a></li>
-<li><a href="http://photoshop.cc/search/red">red</a></li>
-<li><a href="http://photoshop.cc/search/green%20day">green day</a></li>
-<li><a href="http://photoshop.cc/search/wood">wood</a></li>
-<li><a href="http://photoshop.cc/search/basketball">basketball</a></li>
-<li><a href="http://photoshop.cc/search/christian">christian</a></li>
-<li><a href="http://photoshop.cc/search/cross">cross</a></li>
-<li><a href="http://photoshop.cc/search/arrows">arrows</a></li>
-<li><a href="http://photoshop.cc/search/car">car</a></li>
-<li><a href="http://photoshop.cc/search/SNOW">SNOW</a></li>
-<li><a href="http://photoshop.cc/search/music%20notes">music notes</a></li>
-<li><a href="http://photoshop.cc/search/rust">rust</a></li>
-<li><a href="http://photoshop.cc/search/kitchen">kitchen</a></li>
-<li><a href="http://photoshop.cc/search/kawaii">kawaii</a></li>
-<li><a href="http://photoshop.cc/search/music">music</a></li>
-<li><a href="http://photoshop.cc/search/guitar">guitar</a></li>
-</ul>
-
-</li></div>
+</div>
 
 <div class="footer_1">
-<li id="popular_searches-3" class="widget-container widget_search_meter"><h3 class="widget-title">Popular Searches</h3>
-<ul>
-<li><a href="http://photoshop.cc/search/Smoke">Smoke</a></li>
-<li><a href="http://photoshop.cc/search/debris">debris</a></li>
-<li><a href="http://photoshop.cc/search/skull">skull</a></li>
-<li><a href="http://photoshop.cc/search/election">election</a></li>
-<li><a href="http://photoshop.cc/search/photoshop">photoshop</a></li>
-<li><a href="http://photoshop.cc/search/basketball">basketball</a></li>
-<li><a href="http://photoshop.cc/search/frames">frames</a></li>
-<li><a href="http://photoshop.cc/search/girls">girls</a></li>
-<li><a href="http://photoshop.cc/search/hearts">hearts</a></li>
-<li><a href="http://photoshop.cc/search/snow">snow</a></li>
-<li><a href="http://photoshop.cc/search/glass">glass</a></li>
-<li><a href="http://photoshop.cc/search/lunar">lunar</a></li>
-<li><a href="http://photoshop.cc/search/skateboard">skateboard</a></li>
-<li><a href="http://photoshop.cc/search/cs">cs</a></li>
-<li><a href="http://photoshop.cc/search/goom">goom</a></li>
-<li><a href="http://photoshop.cc/search/kawaii">kawaii</a></li>
-<li><a href="http://photoshop.cc/search/korea">korea</a></li>
-<li><a href="http://photoshop.cc/search/6">6</a></li>
-<li><a href="http://photoshop.cc/search/arab">arab</a></li>
-<li><a href="http://photoshop.cc/search/dance">dance</a></li>
-<li><a href="http://photoshop.cc/search/deviantart">deviantart</a></li>
-<li><a href="http://photoshop.cc/search/fire">fire</a></li>
-<li><a href="http://photoshop.cc/search/moles">moles</a></li>
-<li><a href="http://photoshop.cc/search/brushes">brushes</a></li>
-<li><a href="http://photoshop.cc/search/music">music</a></li>
-<li><a href="http://photoshop.cc/search/ski">ski</a></li>
-<li><a href="http://photoshop.cc/search/water">water</a></li>
-<li><a href="http://photoshop.cc/search/car">car</a></li>
-<li><a href="http://photoshop.cc/search/CS6">CS6</a></li>
-<li><a href="http://photoshop.cc/search/flame">flame</a></li>
-</ul>
-
-</li></div>
+</div>
 
 
 
@@ -1114,13 +974,23 @@ Google Adsense</p>
 <div id="footer_copyrights">
 <div id="line_light"></div>
 <div class="footer_width">
-© 2012 Photosohop.cc - Free Photoshop Brushes | patterns | Shapes | <a href="http://photoshop.cc/sitemap/">Sitemap</a> | <a href="http://photoshop.cc/privacy-policy/">Privacy Policy</a> | <a href="http://photoshop.cc/contact/">Contact Us</a>  44 queries in 0.346</div>
+© 2012 Photosohop.cc - Free Photoshop Brushes | patterns | Shapes | <a href="http://photoshop.cc/sitemap/">Sitemap</a> | <a href="http://photoshop.cc/privacy-policy/">Privacy Policy</a> | <a href="http://photoshop.cc/contact/">Contact Us</a> </div>
 </div>
-<div class="wp_footer"></div>
+
+<div class="wp_footer">
+<!-- Generated in 0.314 seconds. (54 q) -->
+
+	<script type="text/javascript" src="http://photoshop.cc/wp-includes/js/jquery/suggest.min.js?ver=1.1-20110113"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $('#s').suggest('http://photoshop.cc/wp-admin/admin-ajax.php' + '?action=incremental_suggest');
+        });
+    </script></div>
 
 
+<div id="the_lights"></div>
 
+<!-- Dynamic page generated in 0.313 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2013-03-13 06:17:41 -->
 
-
-
-</body></html>
+<!-- super cache --></body></html>
