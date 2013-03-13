@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the eyesfile.co privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919073119id_/http%3A//www.eyesfile.co/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyesfile.co privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313092701id_/http%3A//www.eyesfile.org/privacy_policy.html) for the most accurate reproduction.*
 
 # EyesFile.com privacy_policy
 
-This EyesFile.co Privacy Policy, in conjunction with the [AUP](http://www.eyesfile.com/use_policy.html), [Terms of Service](http://www.eyesfile.com/tos.html) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Uploadc website and are collectively referred to as the "Agreement". 
+This EyesFile.org Privacy Policy, in conjunction with the [AUP](http://www.eyesfile.net/use_policy.html), [Terms of Service](http://www.eyesfile.net/tos.html) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Uploadc website and are collectively referred to as the "Agreement". 
 
-EyesFile.co may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement. 
+EyesFile.org may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement. 
 
-Any Content EyesFile.com by you to RestFile.com becomes published Content and is not considered personally identifiable information subject to this Privacy Policy. 
+Any Content EyesFile.net by you to RestFile.net becomes published Content and is not considered personally identifiable information subject to this Privacy Policy. 
 
-EyesFile.co uses IP addresses to measure usage and analyze trends, administer the website and collect information for its databases. 
+EyesFile.org uses IP addresses to measure usage and analyze trends, administer the website and collect information for its databases. 
 
 A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided EyesFile. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created a free account. Cookies also can enable Uploadc to track and target your interests to enhance your experience on our website. 
 
