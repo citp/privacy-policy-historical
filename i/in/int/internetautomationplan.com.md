@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetautomationplan.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120083628id_/http%3A//www.getmoremomentum.com/docs/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetautomationplan.com privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313035305id_/http%3A//www.getmoremomentum.com/docs/privacypolicy.html) for the most accurate reproduction.*
 
 # Get More Momentum
 
