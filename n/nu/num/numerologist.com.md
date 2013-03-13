@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130182020id_/http%3A//privacy-policy.truste.com/verified-policy/numerologist.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313122243id_/http%3A//www.numerologist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for numerologist.com
+# Privacy Policy | Numerologist.com
 
-Effective on March 24, 2010 
+Effective on March 24, 2010
 
 This privacy statement describes how Atlantic Private Equity Incorporated collects and uses the personal information you provide on our Web site: [numerologist.com ](http://numerologist.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-**TRUSTe**
-
-Atlantic Private Equity Incorporated is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
+**TRUSTe** Atlantic Private Equity Incorporated is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
 If you have questions or concerns regarding this policy, you should first contact us at [info@numerologist.com ](mailto:info@numerologist.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -42,9 +40,7 @@ We use this information to
 
 
 
-**Choice/Opt-Out**
-
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@numerologist.com ](mailto:info@numerologist.com).
+**Choice/Opt-Out** You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@numerologist.com ](mailto:info@numerologist.com).
 
 ## Information Sharing
 
@@ -55,27 +51,21 @@ We may provide your personal information to companies that provide services to h
 We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if Atlantic Private Equity Incorporated is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Atlantic Private Equity Incorporated is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
 
 
 
-_Third Party E-Commerce Solutions Provider_
-
-Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
+_Third Party E-Commerce Solutions Provider_ Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose.
 
 ## Cookies and Other Tracking Technologies
 
 We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
-_Web beacons_
+_Web beacons_ Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
-
-_Links to Other Web Sites_
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of Atlantic Private Equity Incorporated. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+_Links to Other Web Sites_ Our Site includes links to other Web sites whose privacy practices may differ from those of Atlantic Private Equity Incorporated. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 ## Security
 
@@ -85,19 +75,15 @@ In order to make a purchase from us, you must use our shopping cart provider to 
 
 ## Additional Policy Information
 
-**Correcting and Updating Your Personal Information**
+**Correcting and Updating Your Personal Information** To review and update your personal information to ensure it is accurate, contact us at [info@numerologist.com ](mailto:info@numerologist.com).
 
-To review and update your personal information to ensure it is accurate, contact us at [info@numerologist.com ](mailto:info@numerologist.com).
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+**Notification of Privacy Statement Changes** We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Atlantic Private Equity Incorporated 
+Atlantic Private Equity Incorporated
 
-PO Box 35-082 New Zealand 
+PO Box 35-082 New Zealand
 
 Christchurch, CA, United States 11111
 
