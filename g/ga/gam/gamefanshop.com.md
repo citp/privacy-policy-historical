@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefanshop.com privacy policy that was archived on 2012-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121029131135id_/http%3A//www.gamefanshop.com/partner-InTheWorksMedia/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefanshop.com privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313140148id_/http%3A//www.gamefanshop.com/partner-InTheWorksMedia/page/privacy) for the most accurate reproduction.*
 
 # GameFanShop Privacy Policy
 
