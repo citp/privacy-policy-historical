@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoviespoiler.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218095445id_/http%3A//www.themoviespoiler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoviespoiler.com privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314035440id_/http%3A//themoviespoiler.com/privacy.html) for the most accurate reproduction.*
 
 # The Movie Spoiler
 
@@ -20,7 +20,7 @@ The information we collect is used for internal review and is then discarded, us
 With respect to cookies: We do not set any cookies. 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here  
-[<http://www.networkadvertising.org/managing/opt_out.asp>](https://web.archive.org/web/20121218095445id_/http%3A//www.themoviespoiler.com/%3Chttp://www.networkadvertising.org/managing/opt_out.asp%3E). 
+[<http://www.networkadvertising.org/managing/opt_out.asp>](https://web.archive.org/web/20130314035440id_/http%3A//themoviespoiler.com/%3Chttp://www.networkadvertising.org/managing/opt_out.asp%3E). 
 
 With respect to Ad Servers: We partner with the following ad server companies.   
 [Burstmedia](http://burstmedia.com/), [Fastclick.com](http://www.fastclick.com/), [Casalemedia.com](http://www.casalemedia.com/), [GoogleAdsense](https://www.google.com/adsense)
