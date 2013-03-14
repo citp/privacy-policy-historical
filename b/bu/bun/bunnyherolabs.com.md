@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bunnyherolabs.com privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704002924id_/http%3A//bunnyherolabs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnyherolabs.com privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314085329id_/http%3A//bunnyherolabs.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy - bunnyhero labs
 
@@ -55,10 +55,10 @@ If you feel that this site is not following its stated information policy, you m
 Privacy Policy version history:
 
   * 2008-04-11: added additional information about 3rd party cookies and web beacons
-  * 2007-06-28: [added information about local shared objects ("flash cookies") and gigya wildfire](https://web.archive.org/web/20120704002924id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20070628.php)
-  * 2005-02-05: [added information about e-card information use](https://web.archive.org/web/20120704002924id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20050205.php)
-  * 2005-01-08: [updated mailing address](https://web.archive.org/web/20120704002924id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20050108.php)
-  * 2004-04-11: [more detail in "cookies" section, covering polls and games](https://web.archive.org/web/20120704002924id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040411.php)
-  * 2004-04-07: [initial version](https://web.archive.org/web/20120704002924id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040407.php)
+  * 2007-06-28: [added information about local shared objects ("flash cookies") and gigya wildfire](https://web.archive.org/web/20130314085329id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20070628.php)
+  * 2005-02-05: [added information about e-card information use](https://web.archive.org/web/20130314085329id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20050205.php)
+  * 2005-01-08: [updated mailing address](https://web.archive.org/web/20130314085329id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20050108.php)
+  * 2004-04-11: [more detail in "cookies" section, covering polls and games](https://web.archive.org/web/20130314085329id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040411.php)
+  * 2004-04-07: [initial version](https://web.archive.org/web/20130314085329id_/http%3A//bunnyherolabs.com/privacyarchive/privacy20040407.php)
 
 
