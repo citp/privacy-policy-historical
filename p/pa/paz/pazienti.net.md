@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the pazienti.net privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315000118id_/http%3A//www.pazienti.net/privacy) for the most accurate reproduction.*
+
+# Privacy - Pazienti.it
+
+## PRIVACY
+
+This Privacy Policy governs the manner in which Pazienti.org s.r.l. collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.pazienti.net website ("Site"). This privacy policy applies to the Site and all products and services offered by Pazienti.org s.r.l.. Personal identification information We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. Non-personal identification information We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
+
+Questions? email us at: info@pazienti.it
