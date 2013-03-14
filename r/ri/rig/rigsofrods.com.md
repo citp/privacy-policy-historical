@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rigsofrods.com privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603062045id_/http%3A//www.rigsofrods.com/wiki/pages/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rigsofrods.com privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314035115id_/http%3A//www.rigsofrods.com/wiki/pages/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rigs of Rods Wiki
 
