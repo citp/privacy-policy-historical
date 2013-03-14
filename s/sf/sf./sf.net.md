@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sf.net privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220015120id_/http%3A//geeknetmedia.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sf.net privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314135015id_/http%3A//geeknetmedia.com/privacy-statement) for the most accurate reproduction.*
 
 # None
 
@@ -200,7 +200,7 @@ In the event Media becomes aware that the security of a Site has been compromise
 
 If a user has comments or questions about Media’s privacy statement, please contact:
 
-Email: [privacy@dice.com](mailto:legal@geek.net)  
+Email: [privacy@dice.com](mailto:privacy@dice.com)  
 Telephone: 888-321-3423
 
 Postal Mail:  
