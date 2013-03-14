@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigsight.org privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830014520id_/http%3A//bigsight.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigsight.org privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314112511id_/http%3A//bigsight.org/privacy) for the most accurate reproduction.*
 
 # http://bigsight.org
 
