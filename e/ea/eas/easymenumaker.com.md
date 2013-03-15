@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the easymenumaker.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113145216id_/http%3A//www.blumentals.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easymenumaker.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315144314id_/http%3A//www.blumentals.biz/privacy.php) for the most accurate reproduction.*
 
 # Blumentals Software - Privacy Policy
 
 This privacy policy discloses the privacy practices for Blumentals Software websites and services. This privacy policy applies solely to information collected by the following websites 
 
-  * www.blumentals.net 
-  * www.blumentals.biz 
-  * www.blumentals.de 
-  * www.rapidseotool.com 
-  * www.easymenumaker.com 
-  * www.easycssmenu.com 
-  * www.magicbuttonmaker.com 
+  * www.blumentals.net
+  * www.blumentals.biz
+  * www.blumentals.de
+  * www.rapidseotool.com
+  * www.easymenumaker.com
+  * www.easycssmenu.com
+  * www.magicbuttonmaker.com
+  * www.webuilderapp.com
+  * www.rapidphpeditor.com
+  * www.htmlpad.net
+  * www.rapidcsseditor.com
 
 
 
@@ -70,4 +74,4 @@ Blumentals Software may periodically update this policy. When we do, we will pos
 
 ## Questions
 
-If you have any questions about this privacy policy, please [contact us](https://web.archive.org/web/20121113145216id_/http%3A//www.blumentals.biz/company-contact.php).
+If you have any questions about this privacy policy, please [contact us](https://web.archive.org/web/20130315144314id_/http%3A//www.blumentals.biz/company-contact.php).
