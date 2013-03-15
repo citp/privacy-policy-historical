@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketon.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630112713id_/http%3A//rocketon.com/a/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketon.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/privacy.php) for the most accurate reproduction.*
 
 # RocketOn - parallel virtual world - with online game avatars chat play interact games massively multiplayer gaming MMOG
 
@@ -9,7 +9,7 @@ Privacy Policy
   
 RocketOn, Inc. ("RocketOn") recognizes that its customers, visitors, users, and others (collectively or individually "Users") who use RocketOn.com or other web sites owned or operated by RocketOn (the "RocketOn Sites") value their privacy. The RocketOn Sites include, but are not limited to, the domain names RocketOn.com, RocketOn.org, RockitOn.com, RocketOn.cn, RocketOn.biz, RocketOn.mobi and RocketOn.tv. This Privacy Policy details important information regarding the use and disclosure of User information collected on the RocketOn Sites. RocketOn provides this Privacy Policy to help you make an informed decision about whether to use or continue using the RocketOn Sites.
 
-This Privacy Policy is incorporated in and is subject to the RocketOn's [Terms of Use](https://web.archive.org/web/20120630112713id_/http%3A//rocketon.com/a/terms.php). Your use of the RocketOn Sites and any personal information you provide on the RocketOn Sites remains subject to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20120630112713id_/http%3A//rocketon.com/a/terms.php).
+This Privacy Policy is incorporated in and is subject to the RocketOn's [Terms of Use](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/terms.php). Your use of the RocketOn Sites and any personal information you provide on the RocketOn Sites remains subject to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/terms.php).
 
 Please note that any images, photos, videos, messages, text, or any other content posted at the discretion of Users onto the RocketOn Sites becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
 
@@ -58,15 +58,15 @@ We do share non-personally-identifiable information (such as anonymous User usag
 
 We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law), or respond to a court order, subpoena, or search warrant.
 
-RocketOn also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that RocketOn believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20120630112713id_/http%3A//rocketon.com/a/terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our website, and to protect the rights, property, or personal safety of RocketOn, our Users or others.
+RocketOn also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that RocketOn believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/terms.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our website, and to protect the rights, property, or personal safety of RocketOn, our Users or others.
 
 **Your Choices About Privacy:**
 
-You may decline to submit personally identifiable information through the RocketOn Sites, in which case RocketOn may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile, if you have one.�Please note that any images, photos, videos, text or other content uploaded by Users to the RocketOn Sites cannot be removed by Users and remain subject to our [Terms of Use](https://web.archive.org/web/20120630112713id_/http%3A//rocketon.com/a/terms.php).
+You may decline to submit personally identifiable information through the RocketOn Sites, in which case RocketOn may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by visiting your account profile, if you have one.�Please note that any images, photos, videos, text or other content uploaded by Users to the RocketOn Sites cannot be removed by Users and remain subject to our [Terms of Use](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/terms.php).
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-Please contact RocketOn with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices using our [Contact Page](https://web.archive.org/web/20120630112713id_/http%3A//rocketon.com/a/contact.php).
+Please contact RocketOn with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out choices using our [Contact Page](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/contact.php).
 
 **Third-party Services:**
 
@@ -87,7 +87,7 @@ Quantcast: [www.quantcast.com](http://www.quantcast.com/)
 
 RocketOn uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to RocketOn, and you do so at your own risk. Once we receive your transmission of information, RocketOn makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If RocketOn learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. RocketOn may post a notice on the RocketOn Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using our [Contact Page](https://web.archive.org/web/20120630112713id_/http%3A//rocketon.com/a/contact.php).
+If RocketOn learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. RocketOn may post a notice on the RocketOn Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using our [Contact Page](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/contact.php).
 
 **Our Commitment To Childrens' Privacy:**
 
@@ -95,7 +95,7 @@ Protecting the privacy of young children is especially important. For this reaso
 
 **Special Note to International Users:**
 
-The RocketOn Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the RocketOn Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the RocketOn Sites, which are governed by U.S. law, this Privacy Policy, and our [Terms of Use](https://web.archive.org/web/20120630112713id_/http%3A//rocketon.com/a/terms.php), you are transferring your personal information to the United States and you consent to that transfer.
+The RocketOn Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the RocketOn Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the RocketOn Sites, which are governed by U.S. law, this Privacy Policy, and our [Terms of Use](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/terms.php), you are transferring your personal information to the United States and you consent to that transfer.
 
 **In the Event of Merger, Sale, or Bankruptcy:**
 
@@ -113,4 +113,4 @@ This Privacy Policy was last modified July 22, 2009.
 
 **Contact Information:**
 
-Please contact RocketOn with any questions or comments about this Privacy Policy using our [Contact Page](https://web.archive.org/web/20120630112713id_/http%3A//rocketon.com/a/contact.php).
+Please contact RocketOn with any questions or comments about this Privacy Policy using our [Contact Page](https://web.archive.org/web/20130315114127id_/http%3A//rocketon.com/a/contact.php).
