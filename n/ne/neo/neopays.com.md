@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neopays.com privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224220630id_/http%3A//www.neopays.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neopays.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315215034id_/http%3A//www.neopays.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # Neo Pays Bux : Privacy
 
