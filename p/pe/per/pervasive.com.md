@@ -1,120 +1,47 @@
-> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016210248id_/http%3A//www.pervasive.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315051403id_/http%3A//www.pervasive.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Pervasive Corporate Site > Privacy
+# privacy policy
 
-## Pervasive Software Respects Your Privacy
+Pervasive Corporate Site is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Pervasive Corporate Site Web site and governs data collection and usage. By using the Pervasive Corporate Site website, you consent to the data practices described in this statement.
 
-Pervasive Software and its subsidiaries respect your privacy and are committed to protecting it. Pervasive Software provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We've structured our websites so that, in general, you can visit Pervasive Software on the Web without identifying yourself or revealing any personal information. We make this notice readily available at the bottom of every Pervasive Software Web page.
+Collection of your Personal Information
 
-1\. Sites covered by this privacy statement  
-2\. Types of information we collect  
-3\. Children's privacy  
-4\. How we use your information  
-5\. Who we share your information with  
-6\. Your choices  
-7\. Access to and accuracy of your information  
-8\. Keeping your information secure  
-9\. Changes to this Statement  
-10.Contacting us
+Pervasive Corporate Site collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Pervasive Corporate Site also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-How Pervasive Software uses cookies and Web beacons on pervasive.com and in third-party ads:
+There is also information about your computer hardware and software that is automatically collected by Pervasive Corporate Site. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Pervasive Corporate Site for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Pervasive Corporate Site Web site.
 
-  * **Cookies**  
-A "cookie" is a small data file transferred by a website to your computer’s hard drive. Pervasive Software sends cookies when you surf our site, make purchases, request or personalize information, or register yourself for certain services. Accepting the cookies used on our site does not give us access to your personal information, but we may use the cookies to identify your computer. Cookies are typically classified as either "session" cookies or "permanent" cookies. 
-    * **"Session" cookies** do not stay on your computer after you leave our website or close your browser. The aggregate information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide a better experience on our site by improving content or personalization and making our site easier to use. 
-    * **"Permanent" cookies** are those that remain on your computer. They are used to facilitate shopping, personalization and registration services. For example, cookies can keep track of what you have selected to purchase as you continue to shop and allow you to enter your password only once on Web pages where a login is required. "Permanent" cookies can be manually removed by the user. 
-Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following websites: 
-    * Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>
-    * Netscape Navigator: <http://www.netscape.com/legal_notices/cookies.html>
-  * **Web beacons**  
-Some Pervasive.com Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies to compile aggregate statistics about website usage. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some Web beacons unusable by rejecting their associated cookies. 
-  * **Third-party media companies**  
-Pervasive Software does not post third-party ads on its website. Pervasive Software may use third-party media companies to place ads for Pervasive Software products or services on other companies’ websites. If you view a Web page where Pervasive Software ads appear, the online media company may place a cookie or Web beacon on your computer. This allows the online media company to recognize the computer when it is used to return to that site, or to measure advertising response. This data is anonymous and is not linked to personal data on the user’s computer or any Pervasive Software databases. Some Pervasive Software newsletters delivered on Pervasive Software’s behalf by online media companies use the same technologies. In both cases, this data is also used by the online media company to measure advertising and content interest and relevance. Pervasive Software does not have access to the data collected by the online media company. To prevent online media companies from placing cookies on your computer, you will need to visit each media company’s website and use their cookie removal process or set your browser cookie filter accordingly. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Pervasive Corporate Site public message boards, this information may be collected and used by others. Note: Pervasive Corporate Site does not read any of your private online communications.
 
+Pervasive Corporate Site encourages you to review the privacy statements of Web sites you choose to link to from Pervasive Corporate Site so that you can understand how those Web sites collect, use and share your information. Pervasive Corporate Site is not responsible for the privacy statements or other content on Web sites outside of the Pervasive Corporate Site and Pervasive Corporate Site family of Web sites.
 
+Use of your Personal Information
 
-**1\. Sites covered by this Privacy Statement**
+Pervasive Corporate Site collects and uses your personal information to operate the Pervasive Corporate Site Web site and deliver the services you have requested. Pervasive Corporate Site also uses your personally identifiable information to inform you of other products or services available from Pervasive Corporate Site and its affiliates. Pervasive Corporate Site may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-This Privacy Statement applies to all pervasive.com-owned websites and domains, and our wholly owned subsidiaries ("Pervasive Software websites.")
+Pervasive Corporate Site does not sell, rent or lease its customer lists to third parties. Pervasive Corporate Site may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Pervasive Corporate Site may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Pervasive Corporate Site, and they are required to maintain the confidentiality of your information.
 
-**Links to non-Pervasive Software websites**  
-The Pervasive Software websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Pervasive Software website. Pervasive Software does not control those sites or their privacy practices, which may differ from Pervasive Software's. We do not endorse or make any representations about third-party websites. The personal data you choose to give to unrelated third parties is not covered by the Pervasive Software Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. Some third-party companies may choose to share their personal data with Pervasive Software; that sharing is governed by that third-party company's privacy policy.
+Pervasive Corporate Site does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-**2\. Types of information we collect**  
-This Privacy Statement covers personal information, non-personal data collection and aggregate reporting.
+Pervasive Corporate Site keeps track of the Web sites and pages our customers visit within Pervasive Corporate Site, in order to determine what Pervasive Corporate Site services are the most popular. This data is used to deliver customized content and advertising within Pervasive Corporate Site to customers whose behavior indicates that they are interested in a particular subject area.
 
-  * **Personal information**  
-is information that is associated with your name or personal identity. Pervasive Software uses personal information to understand better your needs and interests and to provide you with better service. Once you choose to provide us with personal information, you can be assured it will be used only to support your customer relationship with Pervasive Software. We take seriously the trust you place in us. 
+Pervasive Corporate Site Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Pervasive Corporate Site or the site; (b) protect and defend the rights or property of Pervasive Corporate Site; and, (c) act under exigent circumstances to protect the personal safety of users of Pervasive Corporate Site, or the public.
 
-On some Pervasive Software websites, you can order products or services, apply for instant credit, request information, subscribe to marketing or support materials, register yourself or your Pervasive Software products, or apply for a job at Pervasive Software. The types of personal information you provide to us on these pages may include name, address, phone number, e-mail address, user IDs and passwords, billing and transaction information, credit card information, contact preferences, educational and employment background, and job interest data.
+Use of Cookies
 
-To personalize our websites, services or communications and improve our products and services, we may also ask you to provide us with information regarding your personal or professional interests, demographics, and experiences with our products or services. Providing this additional information is optional.
+The Pervasive Corporate Site Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-  * **Non-personal information**  
-is data about usage and service operation that is not associated with a specific personal identity. Pervasive Software collects and analyzes non-personal information to evaluate how visitors use the Pervasive Software websites. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Pervasive Corporate Site pages, or register with Pervasive Corporate Site site or services, a cookie helps Pervasive Corporate Site to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Pervasive Corporate Site Web site, the information you previously provided can be retrieved, so you can easily use the Pervasive Corporate Site features that you customized.
 
-Non-personal data we collect may include the pages visited on the Pervasive Software websites, unique URLs visited within Pervasive Software.com, browser type and IP2 address. Most non-personal data is collected via cookies or other analysis technologies. Pervasive Software.com Web pages use cookies, Web beacons and other technologies for data analysis and personalization services. Pervasive Software also places ads on other websites that may use cookies. To learn more, read Pervasive Software use of cookies and Web beacons.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Pervasive Corporate Site services or Web sites you visit.
 
+Security of your Personal Information
 
+Pervasive Corporate Site secures your personal information from unauthorized access, use or disclosure. Pervasive Corporate Site secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
+Changes to this Statement
 
-More information about the U.S. Department of Commerce Safe Harbor Program can be found at [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+Pervasive Corporate Site will occasionally update this Statement of Privacy to reflect company and customer feedback. Pervasive Corporate Site encourages you to periodically review this Statement to be informed of how Pervasive Corporate Site is protecting your information.
 
-**3\. Children's privacy**  
-Pervasive Software is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities and interests. Pervasive Software does not knowingly collect information from children under the age of 13 and Pervasive Software does not target its websites to children under 13.
+Contact Information
 
-**4\. How we use your information**  
-Pervasive Software uses your personal information to provide you with services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to provide service and support, to update you on services and benefits, to personalize promotional offers and to personalize some Pervasive Software websites. Occasionally we may also use your information to contact you for market research regarding Pervasive Software products or services. We will give you the opportunity to choose your privacy preferences regarding such communications (see section 6, "Your choices"). Credit card information is used only for payment processing and fraud prevention. Credit card information and sensitive personal data are not used for any other purpose by our financial services providers or Pervasive Software.
-
-Personal data collected online may also be combined with information you provide Pervasive Software through other sources such as product registration, call centers or public events such as trade shows or seminars.
-
-Personal data given to Pervasive Software may be transferred across state and country borders for the purposes of data consolidation, storage and simplified customer information management.
-
-Non-personal data is aggregated for reporting about Pervasive Software website usability, performance and effectiveness. It is used to improve the customer experience, usability and site content.
-
-**5\. Who we share your information with**  
-Pervasive Software shares customer information across Pervasive Software-owned business entities and companies working on our behalf, but only as described above in "How we use your information."
-
-Pervasive Software contracts with third-party service providers and suppliers to deliver complete products, services and customer solutions described in "How we use your information." Suppliers and service providers are required to keep confidential the information received on behalf of Pervasive Software and may not use it for any purpose other than to carry out the services they are performing for Pervasive Software. These service providers may change or we may contract with additional service providers to better accommodate our customers. Pervasive Software will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law.
-
-Certain Pervasive Software services are linked with those from unrelated third-party companies, some which offer you the option to share with both Pervasive Software and the third party personal data you provide. Examples include the ability to register software products from multiple vendors from a single Pervasive Software Web page, to request communications from Pervasive Software marketing or solution partners, or to enable order completion through a reseller.
-
-Pervasive Software or its related entities could merge with or be acquired by another business entity or some or all of their respective assets could be acquired, including some or all of your personal information.
-
-**6\. Your choices**  
-Pervasive Software will deliver a variety of information that complements our products and services. Pervasive Software-wide communications may include new product information, special offers, or an invitation to participate in market research. Out of respect for the privacy of our users we present the option to not receive these types of communications. To be removed from our list, email us at [privacy@pervasive.com](mailto:privacy@pervasive.com?subject=Unsubscribe).
-
-**Subscription services**  
-To opt-out of receiving communications use any of the following methods:
-
-  * Select the e-mail "opt-out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication 
-  * Users who no longer wish to receive our newsletters and promotional communications may opt-out of receiving these communications by visiting our subscription management page at [www.pervasive.com/support/subscription.asp](http://www.pervasive.com/support/subscription.asp). 
-
-
-
-**7\. Access to and accuracy of your information**  
-Pervasive Software strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain customer data accuracy. We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. Certain areas of Pervasive Software's websites may limit access to specific individuals through the use of passwords and other personal identifiers.
-
-The most effective way to view and change your personal information is to visit this page, [www.pervasive.com/login/updateuser.asp](http://www.pervasive.com/login/updateuser.asp).
-
-**8\. Keeping your information secure**  
-Pervasive Software is committed to protecting the information you provide us. To prevent unauthorized access or disclosure, to maintain data accuracy, and to ensure the appropriate use of the information, Pervasive Software has in place appropriate physical and managerial procedures to safeguard the information we collect.
-
-We use Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive data such as credit card information. SSL encryption is designed to make the information unreadable by anyone but us. This security measure is working when you see either the symbol of an unbroken key or closed lock (depending on your browser) on the bottom of your browser window.
-
-Credit card numbers are used only for processing payment and are not used for other purposes.
-
-**9\. Changes to this Statement**  
-If there are updates to the terms of Pervasive Software's Online Privacy Statement, we will post those changes and update the revision date in this document, so you will always know what information we collect online, how we use it, and what choices you have.
-
-**10\. Contacting us**  
-We value your opinions. If you have comments or questions about our privacy policy, please send them to the Pervasive Software Marketing Programs or write to us at the following address:
-
-Pervasive Software Inc.  
-Attention: Marketing Programs  
-Phone: +1.512.231.6224  
-Email: [privacy@pervasive.com](mailto:privacy@pervasive.com)  
-Postal Address: 12365 Riata Trace Pkwy Bldg B, Austin, TX 78727 USA  
-Web site URL: [www.pervasive.com](http://www.pervasive.com/)
-
-Rev. June 2004
+Pervasive Corporate Site welcomes your comments regarding this Statement of Privacy. If you believe that Pervasive Corporate Site has not adhered to this Statement, please contact Pervasive Corporate Site at [corpdevadmin@pervasive.com](mailto:corpdevadmin@pervasive.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
