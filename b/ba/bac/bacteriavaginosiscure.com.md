@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bacteriavaginosiscure.com privacy policy that was archived on 2012-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120904023832id_/http%3A//www.bacteriavaginosiscure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bacteriavaginosiscure.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315112406id_/http%3A//www.bacteriavaginosiscure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bacterial Vaginosis Cure | BV Cured in 3 Days | Cure for BV
 
