@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copilotgps.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503204248id_/http%3A//www.copilotlive.com/uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copilotgps.com privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315021249id_/http%3A//copilotlive.com/uk/privacy.asp) for the most accurate reproduction.*
 
 # CoPilot Live Privacy Policy
 
@@ -37,4 +37,6 @@ By choosing to complete an order on the ALK webstore you consent to the transmis
 By using our Web site, you consent to the collection and use of this information by ALK. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 **Links to other sites**  
-Please note that ALK offers links to a wide variety of other sites. We do not control how these other sites gather and use information about their users. We encourage you to review the privacy policies of all sites you link to from our sites. 
+Please note that ALK offers links to a wide variety of other sites. We do not control how these other sites gather and use information about their users. We encourage you to review the privacy policies of all sites you link to from our sites.
+
+We keep our privacy notice under regular review. This privacy notice was last updated on 25 May 2012. 
