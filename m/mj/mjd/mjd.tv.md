@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mjd.tv privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002222906id_/http%3A//mjd.tv/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mjd.tv privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315221025id_/http%3A//mjd.tv/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MJD.tv
 
