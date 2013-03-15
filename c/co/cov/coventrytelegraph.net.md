@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coventrytelegraph.net privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111175151id_/http%3A//www.coventrytelegraph.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventrytelegraph.net privacy policy that was archived on 2013-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130315051357id_/http%3A//www.coventrytelegraph.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Coventry Telegraph
 
