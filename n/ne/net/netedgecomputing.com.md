@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netedgecomputing.com privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018051627id_/http%3A//www.netedgecomputing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netedgecomputing.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316062636id_/http%3A//www.netedgecomputing.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of NetEdge
 
@@ -21,7 +21,7 @@ We shall ask you (when we need) information that personally identifies you (Pers
 
 
 **Consent**  
-If you choose not to register or provide personal information, you can still use most websites of **[NetEdge Computing Solutions Pvt. Ltd](https://web.archive.org/web/20121018051627id_/http%3A//www.netedgecomputing.com/index.html "IT Service Provider").** , but you may not be able to access areas that require registration.
+If you choose not to register or provide personal information, you can still use most websites of **[NetEdge Computing Solutions Pvt. Ltd](https://web.archive.org/web/20130316062636id_/http%3A//www.netedgecomputing.com/index.html "IT Service Provider").** , but you may not be able to access areas that require registration.
 
 If you decide to register, you will be authorized to select the information you want to receive from NetEdge Computing Solutions Pvt. Ltd. by subscribing to various services, like electronic newsletters. If you do not want us to communicate to you other offers regarding our products, programs, events or services by e-mail, postal mail or telephone, you may establish your preferences at the time of registration.
 
