@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpstart.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208051158id_/http%3A//www.jumpstart.com/CustomerCare/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpstart.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316090120id_/http%3A//www.jumpstart.com/CustomerCare/PrivacyPolicy.aspx%3Fpid%3Djs%26cid%3Dtopmenu) for the most accurate reproduction.*
 
 # Privacy Policy - 3D Virtual World - JumpStart
 
@@ -43,14 +43,14 @@ If you have any questions, complaints, or comments regarding our privacy policy 
 
 Online visitors to any KA sites including, but not limited to the following sites: 
 
-  * [www.jumpstart.com](http://www.jumpstart.com/)
-  * [www.mathblaster.com](http://www.mathblaster.com/)
-  * [www.kidspace.com](http://www.kidspace.com/)
-  * [reg.knowledgeadventure.com](http://reg.knowledgeadventure.com/)
-  * [www.supersecret.com](http://www.supersecret.com/)
-  * [www.kidworks.com](http://www.kidworks.com/)
-  * [www.eatmydust.com](http://www.eatmydust.com/)
-  * [www.twistedgames.com](http://www.twistedgames.com/)
+  * [www.jumpstart.com](https://www.jumpstart.com/ "Jumpstart")
+  * [www.mathblaster.com](https://www.mathblaster.com/ "Mathblaster")
+  * [www.kidspace.com](https://www.kidspace.com/ "Kid Space")
+  * [reg.knowledgeadventure.com](https://reg.knowledgeadventure.com/ "KnowledgeAdventure")
+  * [www.supersecret.com](https://www.supersecret.com/ "Super Secret")
+  * [www.kidworks.com](https://www.kidworks.com/ "Kid Works")
+  * [www.eatmydust.com](https://www.eatmydust.com/ "Eat My Dust")
+  * [www.twistedgames.com](https://www.twistedgames.com/ "Twisted Games")
   * www.kasafe.com 
 
 
