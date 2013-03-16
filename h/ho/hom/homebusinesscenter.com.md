@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210020838id_/http%3A//www.homebusinesscenter.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316024622id_/http%3A//www.homebusinesscenter.com/disclaimer.html) for the most accurate reproduction.*
 
 # HBC Inc Privacy Policy, Copyright Notice and Liability Disclaimer
 
@@ -32,7 +32,7 @@
 > 
 > On this site, we write about and include only business ideas and marketing information that we think is useful and worthwhile, whether it be commissionable or not. Home Business Center, Inc. does not sell any products directly.
 > 
-> The products and services shown as third party ads (i.e Google Adsense) in the left-hand column of our web pages are not affiliated with Home Business Center, Inc..
+> The products and services shown as third party ads (i.e Google Adsense) in the right-hand column of our web pages are not affiliated with Home Business Center, Inc..
 > 
 > Please contact us if you have any questions. We'd be happy to talk with you.
 > 
