@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genesismails.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030024453id_/http%3A//genesismails.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesismails.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316085057id_/http%3A//genesismails.com/pages/privacy.php) for the most accurate reproduction.*
 
 # genesismails.com
 
