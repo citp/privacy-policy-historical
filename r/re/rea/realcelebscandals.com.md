@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realcelebscandals.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502105759id_/http%3A//track.realcelebscandals.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcelebscandals.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316032749id_/http%3A//track.realcelebscandals.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
