@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025020226id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316143608id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and DMCA Notification for Peru Expat and Travel
 
 | 
+
+* * *
 
 * * *
 
@@ -177,11 +179,14 @@ Emails we might send you**
 
 > In case you email us with a concern we may email you back.
 
-> You can enable / disable any notifications / subscriptions via the "User Menu / Notifications" selection or you can disable them via the link provided in all emails sent because of a notification or subscription option.  
-> 
+> You can enable / disable any notifications / subscriptions via the "User Menu / Notifications" selection or you can disable them via the link provided in all emails sent because of a notification or subscription option.
 
 > 
 
+
+If we receive a spam complaint directly from you, or indirectly, via an email provider (for example, hotmail.com, gmail.com, etc), via an internet carrier, or other third party, regarding any email sent for any of the above reasons, we may disable your account within our system. That means that no emails will be sent to you for password requests, or notifications of comments on posts, or messages sent to you, additionally, you will not be able to login into comment, respond, delete, or in other form access content you have posted under your account. You will not be able to login with alternative services such as Facebook or Google accounts which use the same email address. If you do not wish to receive emails as described above, please turn off notifications and do not use the other sections which directly send an email in response to your actions.
+
+Emails that are returned undeliverable by your email service, for example, because your email address is not recognized by them, your account is over quota, or has expired, may also result in the permanent suspension of any emails being sent to you, including password requests.
 
 If you attempt to participate in any kind of fraudulent activity, or abusive behavior or any activity to attack our servers or network resources any and all information we have or can collect may be shared with anyone we feel is necessary, and/or useful to resolve the problem.
 
@@ -278,6 +283,16 @@ To be effective, the notification must be in writing and contain the following i
 5\. a statement that you have a good faith belief that the use by the person you believe has infringed on your copyright is not authorized by the copyright owner, its agent, or the law;   
 6\. your statement, made under penalty of perjury, that the information contained in your notification is accurate, and that you are the copyright owner or are authorized to act on the owner's behalf.
 
-* * *  
+* * *
+
+| 
+
+**Disclaimer**
+
+Important information.
+
+| This page is part of a social network. People change choose to participate here for personal, commercial or other reasons. Please keep in mind that posts or other information here may be: 1) advertisements and not personal opinions, and 2) that any products or services mentioned here may not work exactly as the promoter describes or promises.
+
+Please verify all claims and use an escrow service for any signficiant purchases.  
   
 ---|---
