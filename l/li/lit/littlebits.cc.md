@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010173532id_/http%3A//littlebits.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317101835id_/http%3A//support.littlebits.cc/entries/22220088-privacy-policy) for the most accurate reproduction.*
 
-# privacy policy « littleBits
+# Privacy Policy : littleBits customer service
 
-In short (and plain English), we are good people. We will never use your private information in a harmful way, never sell it, and never spam you without your consent. We also hate sites and companies that do that, and we respect your privacy, and clean inboxes!  
+In short (and plain English), we are good people. We will never use your private information in a harmful way, never sell it, and never spam you without your consent. We also hate sites and companies that do that, and we respect your privacy, and clean inboxes!
+
 Below is the detailed privacy policy that our legal counsel said we had to include (sorry for the occasional caps, we promise we are not yelling  . For any questions, please [email us](mailto:info@littlebits.cc?subject=).
 
 Cheers!  
@@ -16,16 +17,15 @@ The following discloses our information gathering and dissemination practices re
 
 If you have any questions about how we collect, store and use your personal information and data please contact us as follows or in order to access or correct your personal information:
 
-  * Phone us in the US at +1 917 464 4577
-  * Email us: info[AT]littleBits.cc with subject “Online Privacy”
-  * Write to us at the following address (“Attention: Online Privacy”):
+    * Phone us in the US at +1 917 464 4577
+    * Email us: info[AT]littleBits.cc with subject “Online Privacy”
+    * Write to us at the following address (“Attention: Online Privacy”):
+
+
 
 littleBits Electronics  
-304 Hudson street, 6th floor  
-New York NY 10013
-
-
-
+60 East 11th St, 5th floor  
+New York NY 10003
 
 This Privacy Policy is supplemental to our [Terms of Use](http://littlebits.cc/terms-of-use).  
  
@@ -105,7 +105,7 @@ Other websites accessible through the Services (through hyperlinks, advertisemen
  
 
 **littleBits Children’s Privacy Policy**  
-We do not knowingly collect or distribute personally identifiable information from children under the age of 13 without prior verifiable parental consent. As one measure to ensure that we do not gather personally identifiable information from children under 13, we require that all individuals provide a valid credit card number before completing a purchase. If you are the parent or guardian of a child under the age of 13 and believe that we have collected personally identifiable information contrary to this policy or, in the US, the Children’s Online Privacy Protection Act (COPPA), please contact us by e-mail [](mailto:)so that we may delete such information. You can learn more about COPPA at the United States Federal Trade Commission website:
+We do not knowingly collect or distribute personally identifiable information from children under the age of 13 without prior verifiable parental consent. As one measure to ensure that we do not gather personally identifiable information from children under 13, we require that all individuals provide a valid credit card number before completing a purchase. If you are the parent or guardian of a child under the age of 13 and believe that we have collected personally identifiable information contrary to this policy or, in the US, the Children’s Online Privacy Protection Act (COPPA), please contact us by e-mailso that we may delete such information. You can learn more about COPPA at the United States Federal Trade Commission website:
 
 <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>  
  
