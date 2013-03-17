@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bullvid.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011131632id_/http%3A//bullvid.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullvid.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318003946id_/http%3A//bullvid.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - bullvid.com
+# Privacy Policy | BullVid.com
 
 KOYOTE-LAB INC ("BullVid") takes your privacy very seriously. Please read the following to learn more about BullVid's Privacy Policy ("Policy"). This Policy details how BullVid receives, collects and uses information in connection with our website and software provided on the BullVid.com website (the website and software collectively referred to herein as "Site").
 
