@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcsi.ie privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103105618id_/http%3A//www.rcsi.ie/index.jsp%3Fp%3D100%26n%3D361) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcsi.ie privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317203409id_/http%3A//www.rcsi.ie/privacy) for the most accurate reproduction.*
 
 # Privacy and Data Protection Statement - Royal College Surgeons in Ireland
 
