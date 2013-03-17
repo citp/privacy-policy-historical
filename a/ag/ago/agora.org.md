@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agora.org privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615180340id_/http%3A//www.k12.com/agora/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agora.org privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317114358id_/http%3A//www.k12.com/agora/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Agora Cyber Charter School
 
