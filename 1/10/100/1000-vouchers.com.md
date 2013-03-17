@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000-vouchers.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126074013id_/http%3A//www.1000-vouchers.com/wingame/datenschutz_43.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000-vouchers.com privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317081941id_/http%3A//www.1000-vouchers.com/wingame/datenschutz_43.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
