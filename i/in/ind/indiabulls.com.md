@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiabulls.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205105333id_/http%3A//indiabulls.com/ibgroup/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabulls.com privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317111917id_/http%3A//www.indiabulls.com/ibgroup/privacy_policy.htm) for the most accurate reproduction.*
 
 # Indiabulls Group is one of India’s top Business houses with businesses spread over Real Estate, Infrastructure, Financial Services, Securities and Power sectors.
 
