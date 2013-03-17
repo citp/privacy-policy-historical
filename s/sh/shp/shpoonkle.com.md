@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shpoonkle.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006114435id_/http%3A//www.shpoonkle.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shpoonkle.com privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317162529id_/http%3A//www.shpoonkle.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Shpoonkle.com
 
