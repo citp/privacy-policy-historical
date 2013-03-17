@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sageone.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022060442id_/http%3A//www.sageone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sageone.com privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317035030id_/http%3A//www.sageone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sage One
 
@@ -53,7 +53,7 @@ We use the following different types of cookies:
 
 We keep a record of traffic data which is logged automatically by our server, such as your Internet Protocol (IP) address, the website that you visited before ours, the website you visit after leaving our site. We also collect some site, product and service statistics such as access rates, page hits and page views. We are not able to identify any individual from traffic data or site statistics.
 
-Find out more about the [cookies](https://web.archive.org/web/20121029135546id_/http://uk.sageone.com/privacy-policy/cookies) that we use.
+Find out more about the [cookies](https://web.archive.org/web/20130317045320id_/http://uk.sageone.com/privacy-policy/cookies) that we use.
 
     * **How to disable cookies  
 ** You may be able to configure your browser to restrict cookies or block all cookies if you wish, however if you disable cookies you may find this affects your ability to use certain parts of our website, products or services. For more information about cookies and instructions on how to adjust your browser settings to accept, delete or reject cookies, see the Internet Advertising Bureau website [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/ "www.youronlinechoices.co.uk").
