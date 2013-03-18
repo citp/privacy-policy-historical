@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sizzledcore.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114224754id_/http%3A//www.sizzledcore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sizzledcore.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318070652id_/http%3A//www.sizzledcore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
