@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmasterslibrary.com privacy policy that was archived on 2012-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120829055640id_/http%3A//www.webmasterslibrary.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterslibrary.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319002306id_/http%3A//www.webmasterslibrary.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement - Webmasters' Library
 
@@ -41,4 +41,4 @@ Webmasters' Library itself, does not create or use any cookies in visitors brows
 
 Webmasters' Library contains links to external websites outside the WebmastersLibrary.com domain. We are in no way responsible for the privacy practices or content of these websites.
 
-If you have any questions or comments regarding this privacy statement, please [contact us](https://web.archive.org/web/20120829055640id_/http%3A//www.webmasterslibrary.com/contact.jsp).
+If you have any questions or comments regarding this privacy statement, please [contact us](https://web.archive.org/web/20130319002306id_/http%3A//www.webmasterslibrary.com/contact.jsp).
