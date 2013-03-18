@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caltesting.org privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025072759id_/http%3A//caltesting.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caltesting.org privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318130433id_/http%3A//caltesting.org/privacy.html) for the most accurate reproduction.*
 
 # Computerized Assessments & Learning - Contact Information
 
