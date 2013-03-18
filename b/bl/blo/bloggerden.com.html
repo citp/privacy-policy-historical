@@ -1,0 +1,214 @@
+<!--The following is the downloaded HTML source of the bloggerden.com privacy policy that was archived on 2013-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130318051037id_/http%3A//www.bloggerden.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<title>Blogger Den</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta name="revisit-after" content="7 days">
+<meta name="robots" content="index,follow">
+<meta name="copyright" content="2010-2013 Blogger Den. All Rights Reserved.">
+<meta name="author" content="Blogger Den">
+<meta name="Rating" content="General">
+<meta name="Distribution" content="Global"><link href="/themes/contrast/css/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/themes/contrast/css/jquery.jgrowl.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/themes/contrast/css/default/style.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" src="/js/jquery-1.8.2.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/js/html5.js"></script>
+<script type="text/javascript" src="/js/cart.js"></script>
+<script type="text/javascript" src="/js/jquery.jgrowl_minimized.js"></script></head>
+<body>
+    <div id="wrapper">
+            <div class="pattern">
+		<div class="inner-wrapper">	
+			 <header>
+			 	<a href="http://www.bloggerden.com/" class="logotype">
+                                        
+        <img src="/images/thumbs/00226100/blogger-den-logo-170x60.jpg" class="alignLeft noborder padded2" title="Blogger Den" alt="Blogger Den" width="170" height="60">
+                                </a>
+			 	<div class="cont">
+                                    <div class="user-auth-block">
+                                                                                    <a class="" href="/login">Log In</a>
+                                            <a class="" href="http://www.bloggerden.com/registration">Sign Up</a>
+                                                                                <div class="clear"></div>
+                                    </div>
+                                    <div class="info-service-block">
+                                        <ul class="my-cab-cont-item">
+                                            <li class="my-cab-item"><a rel="nofollow" href="http://www.bloggerden.com/sale" class="my-cab-link-sale">SALE</a></li>
+                                                                                        <li class="my-cab-item"><a rel="nofollow" href="http://www.bloggerden.com/about-us" class="my-cab-link">About us</a></li>
+                                            <li class="my-cab-item"><a rel="nofollow" href="http://www.bloggerden.com/privacy-policy" class="my-cab-link">Privacy Policy</a></li>
+                                            <li class="my-cab-item"><a rel="nofollow" href="http://www.bloggerden.com/contact-us" class="my-cab-link">Contact Us</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="user-search-block">
+                                        <form id="formTextSearch" action="" method="post" name="formTextSearch" onsubmit="return onTextSearchSubmit();">
+                                            <input type="hidden" value="search" name="QueryType">
+                                            <input type="hidden" value="search/index" name="action">
+                                            <input type="text" id="textQuery" name="" placeholder="Search" class="search">
+                                            <input type="hidden" value="true" id="search_submit" name="search_submit">
+                                            <input type="submit" value="Search" class="btnsubmit">
+                                            <input id="cidForFilter" type="hidden" name="cid" value="1081">
+                                        </form>
+                                        <script type="text/javascript">
+                                            function onTextSearchSubmit() {
+                                                var URL = 'http://www.bloggerden.com';
+                                                var TextQuery = $('#textQuery').val();
+                                                if (!TextQuery.length) {
+                                                    alert('Please type what are you want to find');
+                                                    return false;
+                                                }
+                                                URL += '/q/'+TextQuery;
+                                                $('#formTextSearch').get(0).setAttribute('action', URL);
+                                                $('#formTextSearch').get(0).submit();
+                                                return false;
+                                            }
+                                        </script>
+                                    </div>
+                                    <div class="cart-box">
+                                                                                <a class="my-cart" href="/product/parse-amazon/get-cart">My Cart: <span id="my-cart-totalItems" class="">0</span><span>&nbsp;item(s)&nbsp;-&nbsp;$</span><span id="my-cart-totalPrice" class="">0-00</span></a>
+                                    </div>
+                                    <div class="clear"></div>
+			 	</div>
+			 </header>
+			 <!-- End header -->
+			 <nav>
+			 <ul class="menu">
+                                                                  <li class="item_menu"><a href="/blog/blogging" class="">blogging</a></li>
+                                                                      <li class="item_menu"><a href="/blog/making-money" class="">Making Money</a></li>
+                                                                      <li class="item_menu"><a href="/blog/marketing-seo" class="">Marketing SEO</a></li>
+                                                                      <li class="item_menu"><a href="/blog/design-development" class="">Design Development</a></li>
+                                                                      <li class="item_menu"><a href="/blog/content-management" class="">Content Management</a></li>
+                                 			 </ul>
+			 </nav>
+			 <!-- End nav -->
+
+			 <section class="content clear">
+                                
+
+<script type="text/javascript">
+// maxlength for comment
+function isNotMax(e){
+    e = e || window.event;
+    var target = e.target || e.srcElement;
+    var code=e.keyCode?e.keyCode:(e.which?e.which:e.charCode);
+
+    switch (code){
+        case 13:
+        case 8:
+        case 9:
+        case 46:
+        case 37:
+        case 38:
+        case 39:
+        case 40:
+            return true;
+    }
+    return target.value.length <= target.getAttribute('maxlength');
+}
+function getlistComments()
+{
+    $('#blockComments').html('<center><img src="/themes/contrast/img/loading.gif" style="padding-top: 30px;" /></center>');
+    $.ajax({
+        type: "GET",
+        url: "http://www.bloggerden.com/frontend/product/comment/getlist/template/ajax/productid/7/group/article",
+        cache: false,
+        success: function(html) {
+            $("#blockComments").html(html);
+        }
+    });
+}
+function loadPage(url)
+{
+    $('#blockComments').html('<center><img src="/themes/contrast/img/loading.gif" style="padding-top: 30px;" /></center>');
+    $.ajax({
+        type: "GET",
+        url: url,
+        cache: false,
+        success: function(html) {
+            $("#blockComments").html(html);
+        }
+    });
+    return false;
+}
+
+$(document).ready(function() {
+    $('#CommentBody').live('keyup', function() {
+        if ($('#CommentBody').val() != '')
+            $('#buttonAddComment').removeAttr('disabled');
+        else
+            $('#buttonAddComment').attr('disabled','disabled');
+    });
+
+    $("#buttonAddComment").live('click', function(){
+        //$("#blockCommentsErrors").css('display', 'none');
+        $('#buttonAddComment').attr('disabled','disabled');
+        //$("#blockLoadingImg").css({'display': 'block'});
+        $.ajax({
+            type: "POST",
+            cache: false,
+            url: "http://www.bloggerden.com/add-comment",
+            data: $("#formAddComment").serialize(),
+            beforeSend: function () {
+                $("#blockLoadingImg").css({'display': 'inline'});
+            },
+            success: function(json) {
+                $("#blockLoadingImg").css({'display': 'none'});
+                var obj = jQuery.parseJSON(json);
+                if (obj.error == 1) {
+                    //$("#blockCommentsErrors").html(obj.message);
+                    //$("#blockCommentsErrors").css('display', 'block');
+                    $('#CommentBody').val('');
+                    $('#buttonAddComment').attr('disabled','disabled');
+                } else {
+                    getlistComments();
+                    $('#CommentBody').val('');
+                    $('#buttonAddComment').attr('disabled','disabled');
+                }
+            }
+        });
+    });
+});
+</script>
+
+    <div id="article-main-block">
+
+        <div class="prev-box"><h1 class="h1Option">Privacy Policy</h1><div class="TextTop textPageOption"><p>Privacy of every individual who visits the website is important for us.</p><p>When you visit the site, We will not collect any of your personal data (for example, contact information such as your name, address or phone number) unless you give it to us.</p><p>If you contact us by email, fax, post or telephone we will use your contact details in order to handle your issue, request or order. We will also keep your details to be able to contact you in the future notifying of any news or developments relating to www.bloggerden.com.</p><p>If you do not wish us to keep your details for these purposes, please let us know. You can do this when you first contact us or at any time after this by using our Contact Us page.</p><p>We use third-party advertising companies to serve ads on our site. These companies may use information (not including your contact information) about your visits to this and other websites to provide advertisements about goods and services of interest to you.</p><p>CERTAIN CONTENT THAT APPEARS ON THIS SITE COMES FROM AMAZON SERVICES LLC. THIS CONTENT IS PROVIDED ‘AS IS’ AND IS SUBJECT TO CHANGE OR REMOVAL AT ANY TIME.</p></div></div>    </div>
+
+			 </section>
+			 <!-- End section -->
+		</div>
+		<!-- End inner-wrapper -->
+	</div>
+	<!-- End pattern -->
+    </div>
+    <!-- End wrapper -->
+    <footer>
+            <ul class="f-menu">
+                                        <li class=""><a href="/blog/blogging" class="">blogging</a></li>
+                                            <li class=""><a href="/blog/making-money" class="">Making Money</a></li>
+                                            <li class=""><a href="/blog/marketing-seo" class="">Marketing SEO</a></li>
+                                            <li class=""><a href="/blog/design-development" class="">Design Development</a></li>
+                                            <li class=""><a href="/blog/content-management" class="">Content Management</a></li>
+                                </ul>
+            <div class="copy">Copyright&nbsp;©&nbsp;2013&nbsp;Blogger Den</div>
+    </footer>
+    
+<!-- PIWIK TRACKING CODE --> 
+<script type="text/javascript">
+//<![CDATA[
+
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stat.oxusinfotec.com/" : "http://stat.oxusinfotec.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://stat.oxusinfotec.com/piwik.js" type="text/javascript"></script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 55);
+
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+//]]>
+</script>
+<noscript><p><img src="http://stat.oxusinfotec.com/piwik.php?idsite=55" style="border:0" alt="" /></p></noscript>
+<!-- END PIWIK TRACKING CODE --> 
+        
+
+</body></html>
