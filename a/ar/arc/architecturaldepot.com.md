@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527004416id_/http%3A//www.architecturaldepot.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318021203id_/http%3A//www.architecturaldepot.com/help-privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy: ArchitecturalDepot.com
+# Privacy Policy: ArchitecturalDepot.com -- Your Privacy & Rights -- by Architectural Depot - Call us today at: 888-573-3768
+
+## Your Privacy and Rights
 
 **What information do we collect?**
 
@@ -38,7 +40,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
  **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
 
 These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
 
@@ -68,6 +70,14 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
+ **Information about Teracent Cookies**
+
+To further enhance the users experience we have partnered with Teracent for their expertise in increasing user experience. If you would like to opt-out of this service, please [click here](http://www.teracent.com/about-us/opt-out/) to opt-out.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
  **Terms and Conditions**
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.architecturaldepot.com/help-terms.html.
@@ -78,9 +88,9 @@ By using our site, you consent to our privacy policy.
 
  **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-This policy was last modified on **03-13-2011**
+This policy was last modified on **August 1st, 2012**
 
  **Contacting Us**
 
@@ -106,5 +116,5 @@ If at anytime you have a cause that needs to be disputed please fill out the [Tr
 
 Respectfully, 
 
-Robert Sellek   
-www.ArchitecturalDepot.com 
+James Morris Team Member  
+www.architecturaldepot.com 
