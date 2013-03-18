@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the genealogybank.com privacy policy that was archived on 2012-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121216011047id_/http%3A//www.genealogybank.com/gbnk/information/privacy_policy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the genealogybank.com privacy policy that was archived on 2013-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130318054136id_/http%3A//www.genealogybank.com/gbnk/information/privacy_policy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	
@@ -23,16 +23,19 @@
 		
 			
 				
-					<link rel="stylesheet" href="http://www.genealogybank.com/css/cache/2012.11.29/gbnk-style-1.9-min.css">
+					<link rel="stylesheet" href="http://www.genealogybank.com/css/cache/2013.02.26/gbnk-style-1.15-min.css">
 				
 			
 			
 				
-					<script async="" src="https://z.chango.com/static/o.js"></script><script src="http://www.genealogybank.com/scripts/cache/2012.02.20/gbnk-script-head-1.0.js"></script>
+					<script src="http://www.genealogybank.com/scripts/cache/2012.02.20/gbnk-script-head-1.0.js"></script>
 				
 			
 		
 		
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="http://www.genealogybank.com/scripts/cache/2012.02.20/jquery/jquery-1.4.2.min.js"><\/script>')</script><script src="http://www.genealogybank.com/scripts/cache/2012.02.20/jquery/jquery-1.4.2.min.js"></script>
+
 		
 
 		
@@ -287,7 +290,7 @@
 				<input type="email" name="EMAIL" data-placeholder="Enter Your Email Address" value="Enter Your Email Address" id="nl-email" required="required">
 				<p class="privacy">We respect your <a href="/gbnk/privacy.html">privacy</a>.</p>
 				<div class="submit">
-					<button type="submit" class="fancy alt hoverable"><i class="s"></i><i class="e"></i>
+					<button type="submit" class="fancy hoverable"><i class="s"></i><i class="e"></i>
 						<em>Sign Up Now&nbsp;<span>‣</span></em>
 					</button>
 				</div>
@@ -407,12 +410,9 @@
 		
 		
 			
-
-				<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-				<script>window.jQuery || document.write('<script src="http://www.genealogybank.com/scripts/cache/2012.02.20/jquery/jquery-1.4.2.min.js"><\/script>')</script><script src="http://www.genealogybank.com/scripts/cache/2012.02.20/jquery/jquery-1.4.2.min.js"></script>
 				
 				
-					<script src="http://www.genealogybank.com/scripts/cache/2012.11.29/gbnk-script-1.5.js"></script>
+					<script src="http://www.genealogybank.com/scripts/cache/2013.02.12/gbnk-script-1.6.js"></script>
 					<script src="http://www.genealogybank.com/scripts/cache/2012.10.28/gbnk-plugins-1.2.js"></script>
 																	
 
@@ -467,15 +467,15 @@
 				<form id="site-abandon-offer-1-form" class="site-abandon-form" method="get" action="/gbnk/api/v2/sp/addrecipient/1682864/">
 					<div class="form-fields">
 						<div class="row">
-							<div class="label"><label for="EMAIL" "="">Email Address</label></div>
+							<div class="label"><label for="EMAIL">Email Address</label></div>
 							<div class="field hl"><input id="fld-abandon-email" class="txtbox" type="text" name="EMAIL" value="" maxlength="4000"></div>
 						</div>
 						<div class="row">
-							<div class="label"><label for="FIRSTNAME" "="">First Name</label></div>
+							<div class="label"><label for="FIRSTNAME">First Name</label></div>
 							<div class="field hl"><input id="fld-abandon-fname" class="txtbox" type="text" name="FIRSTNAME" value="" maxlength="4000"></div>
 						</div>
 						<div class="row">
-							<div class="label"><label for="LASTNAME" "="">Last Name</label></div>
+							<div class="label"><label for="LASTNAME">Last Name</label></div>
 							<div class="field hl"><input id="fld-abandon-lname" class="txtbox" type="text" name="LASTNAME" value="" maxlength="4000"></div>
 						</div>
 					</div>
@@ -502,11 +502,17 @@
 			
 				if (!GBNK) {
 					$(document).ready(function() {
+
 						$('body').append('<div id="abandon-trigger"></div>');
-			
+
 						$('#abandon-trigger').css({
-							position: "absolute", top: "0", right: "0", height: "35px", width: "200px"
+							position: "absolute", top: "0", height: "35px", width: "200px"
 						});
+
+						//Position abandonment trigger depending on OS
+						if( navigator.appVersion.indexOf("Mac") != -1 ) $('#abandon-trigger').css({ right: "auto", left: "0" });
+						else $('#abandon-trigger').css({ left: "auto", right: "0" });
+
 						size_abandon_trigger();
 	
 						$('#abandon-trigger').hover(
@@ -681,13 +687,7 @@
 					</noscript>
 				
 			
-			
-			
 				
-					<iframe src="http://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=4166" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
-				
-			
-			
 			
 				
 					<script>
@@ -706,20 +706,6 @@
 						document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
 						if(oldonload){oldonload()}};
 						}());
-					</script>
-				
-			
-
-			
-				
-					<script>
-						var __cho__ = {pid:246};(function(){
-							var c = document.createElement('script');
-							c.async = true;
-							c.src = ('https:' == document.location.protocol ? 'https://z': 'http://p') + '.chango.com/static/o.js';
-							var s = document.getElementsByTagName('script')[0];
-							s.parentNode.insertBefore(c, s);
-						})();
 					</script>
 				
 			
