@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficforce.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215033922id_/http%3A//www.trafficforce.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficforce.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318095541id_/http%3A//www.trafficforce.com/policy.html) for the most accurate reproduction.*
 
 # Features - TrafficForce Ad Broker
 
