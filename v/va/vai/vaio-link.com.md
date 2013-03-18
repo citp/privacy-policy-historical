@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaio-link.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116073928id_/http%3A//www.sony.co.uk/pages/privacy/Privacy_statement_en_EU.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaio-link.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318012241id_/http%3A//www.sony.co.uk/pages/privacy/Privacy_statement_en_EU.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
