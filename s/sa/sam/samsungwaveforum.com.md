@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungwaveforum.com privacy policy that was archived on 2012-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120401074051id_/http%3A//www.verticalscope.com/aboutus/privacypolicy.php%3Fsite%3Dsamsungwaveforum.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungwaveforum.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318010908id_/http%3A//www.verticalscope.com/aboutus/privacypolicy.php%3Fsite%3Dsamsungwaveforum.com) for the most accurate reproduction.*
 
 # VerticalScope - Driven by Enthusiasts
 
