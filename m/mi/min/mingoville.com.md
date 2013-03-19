@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mingoville.com privacy policy that was archived on 2012-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120616023903id_/http%3A//www.mingoville.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mingoville.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319011127id_/http%3A//www.mingoville.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
