@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetimesecret.com privacy policy that was archived on 2012-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120127081132id_/https%3A//onetimesecret.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetimesecret.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319050756id_/https%3A//onetimesecret.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - One Time
 
