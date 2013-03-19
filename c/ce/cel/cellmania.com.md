@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellmania.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221014721id_/http%3A//cellmania.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellmania.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319183914id_/http%3A//www.cellmania.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Cellmania - Leading Provider of M-commerce Solutions - Privacy Policy for Cellmania
 
