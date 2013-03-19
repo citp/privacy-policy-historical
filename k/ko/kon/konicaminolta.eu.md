@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the konicaminolta.eu privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117205950id_/http%3A//www.konicaminolta.eu/en/business-solutions/meta/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konicaminolta.eu privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319152247id_/http%3A//www.konicaminolta.eu/en/business-solutions/meta/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - KONICA MINOLTA | Europe
 
