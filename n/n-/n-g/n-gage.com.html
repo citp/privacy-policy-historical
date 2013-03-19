@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the n-gage.com privacy policy that was archived on 2012-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120521160240id_/http%3A//www.n-gage.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the n-gage.com privacy policy that was archived on 2013-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130319100010id_/http%3A//www.n-gage.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
         <title>Nokia Store</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,12 +20,12 @@
         
         <!-- Javascript that should be run first thing, for e.g: checks if the page is framed in an 'evil' page -->
         
-                 <link href="http://static.store.ovi.com/com/cmn/css/common-min.css?v=30" type="text/css" rel="stylesheet" media="all" charset="utf-8">
-                
+                 <link href="http://static.store.ovi.com/com/cmn/css/common-min.css?v=46" type="text/css" rel="stylesheet" media="all" charset="utf-8">
+                        <link href="http://static.store.ovi.com/com/cmn/css/sso-min.css?v=1" type="text/css" rel="stylesheet" media="all" charset="utf-8">
+        
 
         <!--[if IE 6]><link rel="stylesheet" href="http://static.store.ovi.com/com/cmn/css/ie6.css" type="text/css" media="all" charset="utf-8" /><![endif]-->
         <!--[if IE 7]><link rel="stylesheet" href="http://static.store.ovi.com/com/cmn/css/ie7.css?v=1" type="text/css" media="all" charset="utf-8" /><![endif]-->
-
 
         <script type="text/javascript" charset="utf-8" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
         <script type="text/javascript" charset="utf-8">
@@ -36,8 +36,9 @@
             Juniper.global.cookieDomain = "store.ovi.com";
             Juniper.global.registrationForFreeContent = "";
             Juniper.global.searchSuggestEnabled = "false";
-            Juniper.global.searchSuggestMinChars = 2;
-            Juniper.global.searchSuggestDelay = 400;
+            Juniper.global.searchSuggestMinChars = 3;
+            Juniper.global.searchSuggestDelay = 200;
+            Juniper.global.openContentPage = "true"
                                     Juniper.global.showNextGenFulfillment = "1";
                 $(document).ready(function() {
                 });
@@ -51,16 +52,18 @@
 
     
         <!-- Include SSO lib for enabled countries in the config -->
+                <script type="text/javascript" src="https://account.nokia.com/js/v1/sdk.js"></script>
         
-        <script type="text/javascript" charset="utf-8" src="http://static.store.ovi.com/com/ext/plugins/jquery.plugins.min.js?v=2"></script>
-        <script type="text/javascript" charset="utf-8" src="http://static.store.ovi.com/com/cmn/js/common-min.js?v=32"></script>
+        <script type="text/javascript" charset="utf-8" src="http://static.store.ovi.com/com/ext/plugins/jquery.plugins.min.js?v=3"></script>
+        <script type="text/javascript" charset="utf-8" src="http://static.store.ovi.com/com/cmn/js/common-min.js?v=42"></script>
 
         <!-- SiteCatalyst code version: H.19.4.
              Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
-        <script language="JavaScript" src="http://static.store.ovi.com/com/ext/tracking/s_code_prod.js?v=1"></script>
+        <script language="JavaScript" src="http://static.store.ovi.com/com/ext/tracking/s_code_prod.js?v=2"></script>
 
         
         <!-- Embed js if country is enabled to use SSO portal-->
+                <script type="text/javascript" charset="utf-8" src="http://static.store.ovi.com/com/cmn/js/sso-min.js?v=2"></script>
         
 
         <!--  Embed Js here if the JS needs to get values from PHP -->
@@ -68,6 +71,27 @@
             $(document).ready(function() {
                         });
 
+                                    function getOptions() {
+                var opts = {
+                        lang: 'en',
+                        ch: 'ovi:store:fw',
+                        c6: 'ovistorefwus,ovistorerollup',
+                        c23: 'US:en'
+                    };
+                    return opts;
+            }
+
+            // initialize SSO values to prepare for the login lightbox
+            var sdk4 = new NOKIA.sso.SDK();
+            sdk4.init({
+                authenticationMethod: "oauth2",
+                callbackUrl: "http://store.ovi.com/ssocallback",
+                serviceId: "OviStoreBE",
+                callback: NOKIA.sso.SDK.Default.createFrameHandler({containerElementId: "ssoContainer"}),
+                oauth2ClientId: "d4e33b669e1a40eaa125c0572f72b6e9",
+                oauth2RedirectUri: "https://store.ovi.com/login/ssosuccess"
+            });
+            sdk4.registerCallback("all", sdk4CallbackFunction);
                     </script>
     </head>
     <body class="lang_en ">
@@ -110,7 +134,7 @@
             <div id="catNav">
                 <div class="alignRight" style="height:20px"><img src="http://static.store.ovi.com/com/img/sidenav/storeNav_TopCorner.gif"></div>
 
-                <ul class="listNavigation"><li class="navContentArea"><div class="navTab"><a class="textLink" href="/home" rel="ajax">Home</a><a class="homeBtnLink" href="/home" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=14" rel="ajax">Business</a><a class="mystuffBtnLink" href="applications?categoryId=14" rel="ajax"></a></div></li><li class="navContentArea navLongName"><div class="navTab"><a class="textLink" href="/applications?categoryId=15" rel="ajax">City guides &amp; maps</a><a class="mystuffBtnLink" href="applications?categoryId=15" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=16" rel="ajax">Entertainment</a><a class="mystuffBtnLink" href="applications?categoryId=16" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=17" rel="ajax">Music</a><a class="mystuffBtnLink" href="applications?categoryId=17" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=18" rel="ajax">News &amp; info</a><a class="mystuffBtnLink" href="applications?categoryId=18" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=19" rel="ajax">Photo &amp; video</a><a class="mystuffBtnLink" href="applications?categoryId=19" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=20" rel="ajax">Reference</a><a class="mystuffBtnLink" href="applications?categoryId=20" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=21" rel="ajax">Social networks</a><a class="mystuffBtnLink" href="applications?categoryId=21" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=22" rel="ajax">Sports</a><a class="mystuffBtnLink" href="applications?categoryId=22" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=23" rel="ajax">Utilities</a><a class="mystuffBtnLink" href="applications?categoryId=23" rel="ajax"></a></div></li><li class="navContentArea"><div class="navTab"><a class="menuToggle textLink" href="/games" rel="ajax">Games</a><a class="menuToggle catBtnLink" href="#"></a></div><ul class="navCategoriesList"><li id="c_1"><a href="/games?categoryId=1" rel="ajax">Action</a></li><li id="c_2"><a href="/games?categoryId=2" rel="ajax">Adventure</a></li><li id="c_3"><a href="/games?categoryId=3" rel="ajax">Arcade</a></li><li id="c_4"><a href="/games?categoryId=4" rel="ajax">Card &amp; casino</a></li><li id="c_5"><a href="/games?categoryId=5" rel="ajax">Education</a></li><li id="c_6"><a href="/games?categoryId=6" rel="ajax">Puzzle</a></li><li id="c_7"><a href="/games?categoryId=7" rel="ajax">Sports</a></li><li id="c_8"><a href="/games?categoryId=8" rel="ajax">Strategy</a></li><li id="c_9"><a href="/games?categoryId=9" rel="ajax">Trivia</a></li><li><a href="/channel/?contentArea=games" rel="ajax">Channels</a></li></ul></li><li class="navContentArea"><div class="navTab"><a class="menuToggle textLink" href="/audiovideo" rel="ajax">Audio &amp; video</a><a class="menuToggle catBtnLink" href="#"></a></div><ul class="navCategoriesList"><li id="c_26"><a href="/audiovideo?categoryId=26" rel="ajax">Audio</a></li><li id="c_25"><a href="/audiovideo?categoryId=25" rel="ajax">Video</a></li><li><a href="/channel/?contentArea=audiovideo" rel="ajax">Channels</a></li></ul></li><li class="navContentArea"><div class="navTab"><a class="menuToggle textLink" href="/personalize" rel="ajax">Personalisation</a><a class="menuToggle catBtnLink" href="#"></a></div><ul class="navCategoriesList"><li id="c_11"><a href="/personalize?categoryId=11" rel="ajax">Ringtones</a></li><li id="c_12"><a href="/personalize?categoryId=12" rel="ajax">Themes</a></li><li id="c_13"><a href="/personalize?categoryId=13" rel="ajax">Wallpapers</a></li><li><a href="/channel/?contentArea=personalize" rel="ajax">Channels</a></li></ul></li><li class="navContentArea"><div class="navTab"><a class="textLink" href="/channel/?contentArea=applications" rel="ajax">Collections</a><a class="mystuffBtnLink" href="channel/?contentArea=applications" rel="ajax"></a></div></li></ul>
+                <ul class="listNavigation"><li class="navContentArea"><div class="navTab"><a class="textLink" href="/home" rel="ajax">Home</a><a class="homeBtnLink" href="/home" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=14" rel="ajax">Business</a><a class="mystuffBtnLink" href="applications?categoryId=14" rel="ajax"></a></div></li><li class="navContentArea navLongName"><div class="navTab"><a class="textLink" href="/applications?categoryId=15" rel="ajax">City guides &amp; maps</a><a class="mystuffBtnLink" href="applications?categoryId=15" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=16" rel="ajax">Entertainment</a><a class="mystuffBtnLink" href="applications?categoryId=16" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=17" rel="ajax">Music</a><a class="mystuffBtnLink" href="applications?categoryId=17" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=18" rel="ajax">News &amp; info</a><a class="mystuffBtnLink" href="applications?categoryId=18" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=19" rel="ajax">Photo &amp; video</a><a class="mystuffBtnLink" href="applications?categoryId=19" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=20" rel="ajax">Reference</a><a class="mystuffBtnLink" href="applications?categoryId=20" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=21" rel="ajax">Social networks</a><a class="mystuffBtnLink" href="applications?categoryId=21" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=22" rel="ajax">Sports</a><a class="mystuffBtnLink" href="applications?categoryId=22" rel="ajax"></a></div></li><li class="navContentArea "><div class="navTab"><a class="textLink" href="/applications?categoryId=23" rel="ajax">Utilities</a><a class="mystuffBtnLink" href="applications?categoryId=23" rel="ajax"></a></div></li><li class="navContentArea  "><div class="navTab"><a class="menuToggle textLink" href="/games" rel="ajax">Games</a><a class="menuToggle catBtnLink" href="#"></a></div><ul class="navCategoriesList"><li id="c_1"><a href="/games?categoryId=1" rel="ajax">Action</a></li><li id="c_2"><a href="/games?categoryId=2" rel="ajax">Adventure</a></li><li id="c_3"><a href="/games?categoryId=3" rel="ajax">Arcade</a></li><li id="c_4"><a href="/games?categoryId=4" rel="ajax">Card &amp; casino</a></li><li id="c_5"><a href="/games?categoryId=5" rel="ajax">Education</a></li><li id="c_6"><a href="/games?categoryId=6" rel="ajax">Puzzle</a></li><li id="c_7"><a href="/games?categoryId=7" rel="ajax">Sports</a></li><li id="c_8"><a href="/games?categoryId=8" rel="ajax">Strategy</a></li><li id="c_9"><a href="/games?categoryId=9" rel="ajax">Trivia</a></li><li><a href="/channel/?contentArea=games" rel="ajax">Channels</a></li></ul></li><li class="navContentArea  "><div class="navTab"><a class="menuToggle textLink" href="/audiovideo" rel="ajax">Audio &amp; video</a><a class="menuToggle catBtnLink" href="#"></a></div><ul class="navCategoriesList"><li id="c_26"><a href="/audiovideo?categoryId=26" rel="ajax">Audio</a></li><li id="c_25"><a href="/audiovideo?categoryId=25" rel="ajax">Video</a></li><li><a href="/channel/?contentArea=audiovideo" rel="ajax">Channels</a></li></ul></li><li class="navContentArea  "><div class="navTab"><a class="menuToggle textLink" href="/personalize" rel="ajax">Personalisation</a><a class="menuToggle catBtnLink" href="#"></a></div><ul class="navCategoriesList"><li id="c_11"><a href="/personalize?categoryId=11" rel="ajax">Ringtones</a></li><li id="c_12"><a href="/personalize?categoryId=12" rel="ajax">Themes</a></li><li id="c_13"><a href="/personalize?categoryId=13" rel="ajax">Wallpapers</a></li><li><a href="/channel/?contentArea=personalize" rel="ajax">Channels</a></li></ul></li><li class="navContentArea"><div class="navTab"><a class="textLink" href="/channel/?contentArea=applications" rel="ajax">Collections</a><a class="mystuffBtnLink" href="channel/?contentArea=applications" rel="ajax"></a></div></li></ul>
                 <div class="alignRight"><img src="http://static.store.ovi.com/com/img/sidenav/storeNav_BottomCorner.gif"></div>
             </div>
 
@@ -257,44 +281,50 @@ s.prop37=""
 s.prop42=""
 s.prop40="us"
 s.eVar40="s.prop40"
-s.prop46="fw-2.12.1"
+s.prop46="fw-3.0.0"
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics">
-<img src="http://metrics.nokia.com/b/ss/nokiaglobalfwg0prod/5/H.19.4--NS/0"
+<img src="http://metrics2.nokia.com/b/ss/nokiaglobalfwg0prod/5/H.19.4--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.19.4. -->			</div>
 
-                        
+                                </div> <!-- /wrapper -->
+
+        <div id="footer-wrapper">
             <!-- FOOTER -->
             <ul id="footer">
                 <li><a href="/legal/terms">Nokia terms and conditions</a></li>
                 <li id="footPolicy"><a href="/legal/privacy" class="on">Privacy policy</a></li>
                 <li><a href="https://publish.ovi.com/login">Publish to Nokia</a></li>
                 <li><a href="http://appwizard.nokia.com">Nokia App Wizard</a></li>
-                <li id="linkSupport"><a href="http://support.ovi.com/" title="Support">Support</a></li>
+                <li id="linkSupport"><a href="/help/faqs" title="Support">Support</a></li>
 
-                            <li id="linkRegister"><a href="/register" class="ignore">Register</a></li>
-            
-                                <li id="copyright">© Nokia 2012</li>
+                                <li id="linkRegister"><a href="https://account.nokia.com/acct/register?c6=ovistorefwus%2Covistorerollup&amp;c23=US%3Aen&amp;ch=ovi%3Astore%3Afw&amp;lang=en&amp;serviceId=OviStoreBE&amp;returnurl=https%3A%2F%2Faccount.nokia.com%2Foauth2%2Fauthorize%3Fclient_id%3Dd4e33b669e1a40eaa125c0572f72b6e9%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fstore.ovi.com%252Flogin%252Fssosuccess" class="ignore">Register</a></li>
+                
+                
+                                <li id="copyright">© Nokia 2013</li>
                                 <li id="footLanguage">
                     <select name="lang" id="langSettingB">
     <option value="en" label="English" selected="selected">English</option>
     <option value="en_us" label="English (US)">English (US)</option>
+    <option value="ar" label="العربية">العربية</option>
     <option value="bn_bd" label="বাংলা (বাংলাদেশ)">বাংলা (বাংলাদেশ)</option>
-    <option value="bn_in" label="বাংলা (ভারত)">বাংলা (ভারত)</option>
+    <option value="bn" label="বাংলা (ভারত)">বাংলা (ভারত)</option>
     <option value="cs" label="Čeština">Čeština</option>
     <option value="da" label="Dansk">Dansk</option>
     <option value="el" label="Ελληνικά">Ελληνικά</option>
     <option value="es" label="Español">Español</option>
     <option value="es_419" label="Español (América Latina)">Español (América Latina)</option>
     <option value="de" label="Deutsch">Deutsch</option>
+    <option value="fa" label="فارسی">فارسی</option>
     <option value="fi" label="Suomi">Suomi</option>
     <option value="fr" label="Français">Français</option>
     <option value="fr_ca" label="Français (Canadien)">Français (Canadien)</option>
+    <option value="he" label="עברית">עברית</option>
     <option value="hu" label="Magyar">Magyar</option>
     <option value="hi" label="हिन्दी">हिन्दी</option>
     <option value="id" label="Bahasa Indonesia">Bahasa Indonesia</option>
@@ -314,6 +344,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
     <option value="tl" label="Filipino">Filipino</option>
     <option value="tr" label="Türkçe">Türkçe</option>
     <option value="uk" label="Українська">Українська</option>
+    <option value="ur" label="اردو">اردو</option>
     <option value="vi" label="Tiếng Việt">Tiếng Việt</option>
     <option value="zh_cn" label="中文(简体)">中文(简体)</option>
     <option value="zh_hk" label="中文(香港)">中文(香港)</option>
