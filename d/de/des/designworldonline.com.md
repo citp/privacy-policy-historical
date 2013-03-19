@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designworldonline.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231072134id_/http%3A//www.designworldonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designworldonline.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319034647id_/http%3A//www.designworldonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Design World
+# Privacy Policy
 
 WTWH Media LLC (“WTWH”, “we”, or “us”) is committed to ensuring the privacy of our users. The following is our privacy policy and we hope it clarifies how WTWH processes and uses certain information collected via the Design World Network of websites. A full listing of WTWH online properties can be found at wtwhmedia.com. By using our Sites, you consent to the terms of this Policy.
 
@@ -39,9 +39,9 @@ In addition, information about our users, including personally identifiable info
 Our Site contains links to other Web sites. Links from our Site to other sites or content are provided for your convenience only, and we do not have control over the content or privacy and security practices and policies of such third parties or other sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party’s privacy policy. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. In the case of a link to a Design World Network site and/or WTWH Media site, this privacy policy is applicable.
 
 **How to Contact Us**  
-If you have any questions or concerns about the WTWH online policy for the Design World website or its implementation you may contact us at privacy@designworldonline.com.
+If you have any questions or concerns about the WTWH online policy for the Design World website or its implementation you may contact us at webmaster@wtwhmedia.com.
 
 **Updates & Effective**  
 Date From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-The Privacy Notice posted on this site was updated on or about May 18, 2012
+The Privacy Notice posted on this site was updated on or about February 5, 2013
