@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftyspices.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117063212id_/http%3A//www.craftyspices.com/disclosure/39-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftyspices.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319144914id_/http%3A//www.craftyspices.com/disclosure/39-privacy-policy) for the most accurate reproduction.*
 
 # Crafty Spices - Privacy Policy
 
