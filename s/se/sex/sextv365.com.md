@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sextv365.com privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813082330id_/http%3A//www.sextv365.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextv365.com privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319054308id_/http%3A//www.sextv365.com/policy.aspx) for the most accurate reproduction.*
 
 # SexTV 365 - Privacy Statement
 
