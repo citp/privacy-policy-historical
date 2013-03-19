@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitpro.us privacy policy that was archived on 2012-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120718204539id_/http%3A//www.hitpro.us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitpro.us privacy policy that was archived on 2013-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130319063743id_/http%3A//www.hitpro.us/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,8 +7,8 @@
 |   
 ---|---  
   
-[](https://web.archive.org/web/20120718204539id_/http%3A//www.hitpro.us/search-engine-submission-list.asp)  
-[**List of search engines**](https://web.archive.org/web/20120718204539id_/http%3A//www.hitpro.us/search-engine-submission-list.asp)
+[](https://web.archive.org/web/20130319063743id_/http%3A//www.hitpro.us/search-engine-submission-list.asp)  
+[**List of search engines**](https://web.archive.org/web/20130319063743id_/http%3A//www.hitpro.us/search-engine-submission-list.asp)
 
 | 
 
@@ -46,6 +46,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 _support @hitpro.us_
 
-© 2002-2012 HitPro , All Rights Reserved.  
+© 2002-2013 HitPro , All Rights Reserved.  
   
 ---|---
