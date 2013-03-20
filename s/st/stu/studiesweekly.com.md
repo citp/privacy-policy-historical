@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studiesweekly.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024122714id_/http%3A//www.studiesweekly.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiesweekly.com privacy policy that was archived on 2013-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130320173230id_/http%3A//www.studiesweekly.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Studies Weekly
 
@@ -28,7 +28,7 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
 Do we use cookies?   
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -37,6 +37,48 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Third party links   
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+Limited Permission to Reprint and Distribute
+
+### Grantor
+
+  
+American Legacy Publishing is the creator of Studies Weekly publications, educational materials designed for use in classrooms and home schools in the United States. Studies Weekly publications are protected by U.S. Copyright Law, Title 17 of the U.S. Code. 
+
+### Publications Covered under this Limited Permission
+
+  
+This Limited Permission document applies to all Studies Weekly publications, including discontinued publications, publications currently in print and all future Studies Weekly publications. 
+
+### Grantees
+
+  
+Permission to reprint and distribute is granted solely to teachers who have a current and up-to-date subscription for a Studies Weekly publication. Teachers with current and up-to-date subscriptions are hereafter known as SUBSCRIBERS. Publications to which SUBSCRIBERS are subscribed are hereafter known as SUBSCRIBED PUBLICATIONS. 
+
+### Purpose of the Agreement
+
+  
+The purpose of this agreement is to allow limited reprint and distribution of Studies Weekly publications for the convenience of SUBSCRIBERS and their registered students. It does NOT allow for reprinting and distribution beyond the number of registered students or for use in classrooms other than that of the SUBSCRIBER. SUBSCRIBERS are strictly prohibited from reprinting multiple copies for the purpose of distribution to students of non-subscribers. 
+
+### Reprint/Distribution Scope and Limitations
+
+  
+This Limited Permission agreement applies to student editions, teacher editions and any supplemental materials - both in print and online \- included with the SUBSCRIBED PUBLICATION. 
+
+SUBSCRIBERS may reprint and distribute single copies of the SUBSCRIBED PUBLICATION only to students officially enrolled in her or his class or to students participating in home schools that comply with state and local guidelines SUBSCRIBERS must register students who may receive single-copy reprints of the SUBSCRIBED PUBLICATION at [www.estudiesweekly.com](http://www.estudiesweekly.com/) as soon after the beginning of the school year as is practicable. When new students are added to the class over the course of the school year, SUBSCRIBERS must register those students at [www.estudiesweekly.com](http://www.estudiesweekly.com/) as soon after enrollment as is practicable. The number of subscriptions a SUBSCRIBER has to a publication **MUST** correlate to the number of students registered in the SUBSCRIBER'S class. 
+
+Permission to reprint and distribute is limited solely to the SUBSCRIBED PUBLICATION and is strictly limited to the school year for which the subscription was purchased. Example: A subscription for the 2013-2014 school year may only be distributed to registered students during the 2013-2014 school year. 
+
+Permission to reprint and distribute is **NOT** granted for school, class, teacher, student or any other websites. SUBSCRIBERS who wish to make publications available for online viewing to parents and students during the subscription year must register students at [www.estudiesweekly.com](http://www.estudiesweekly.com/). 
+
+Permission to reprint and distribute is **NOT** granted for commercial purposes of any kind. Any reprint or distribution for commercial purposes is strictly prohibited. 
+
+Permission to reprint and distribute is **NOT** granted to any person who is not a SUBSCRIBER, as described above. Any reprinting or distribution by any person who is not a SUBSCRIBER and distribution to non-registered students are expressly prohibited. 
+
+Any questions regarding this Limited Permission may be sent to [service@studiesweekly.com](mailto:service@studiesweekly.com).
+
+
+
 
 California Online Privacy Protection Act Compliance   
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
