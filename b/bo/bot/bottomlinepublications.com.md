@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bottomlinepublications.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114235541id_/http%3A//bottomlinepublications.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinepublications.com privacy policy that was archived on 2013-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130320143817id_/http%3A//www.bottomlinepublications.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Bottom Line Publications
 
 **Boardroom, Inc.**  
  **BottomLinePublications.com**
