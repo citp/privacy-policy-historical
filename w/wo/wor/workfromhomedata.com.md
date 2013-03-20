@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workfromhomedata.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208145519id_/http%3A//workfromhomedata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workfromhomedata.com privacy policy that was archived on 2013-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130320084737id_/http%3A//workfromhomedata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Work from Home jobs resources
 
@@ -22,7 +22,3 @@ Deleting cookies ԁοеѕ nοt mean уου аrе permanently opted out οf аnу
 
 
 ### Top rated popular products deal:
-
-[Madagascar 3: Europe's Most Wanted](http://www.amazon.com/Madagascar-3-Europes-Most-Wanted/dp/B005LAIHW2?SubscriptionId=AKIAINJWLMY34UX3XFJA&tag=business21s-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005LAIHW2)Alex, Marty, Gloria and Melman are still fighting to get home to their beloved Big Apple. Their journey takes them through Europe where they find th... [Read More >](http://www.amazon.com/Madagascar-3-Europes-Most-Wanted/dp/B005LAIHW2?SubscriptionId=AKIAINJWLMY34UX3XFJA&tag=business21s-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005LAIHW2)
-
-[Brave](http://www.amazon.com/Brave-Billy-Connolly/dp/B008YWY0HK?SubscriptionId=AKIAINJWLMY34UX3XFJA&tag=business21s-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B008YWY0HK)Pixar Animation Studios, the creator of Toy Story 3, whisks you away on an astonishing adventure to an ancient land full of mystery and tradition. Bu... [Read More >](http://www.amazon.com/Brave-Billy-Connolly/dp/B008YWY0HK?SubscriptionId=AKIAINJWLMY34UX3XFJA&tag=business21s-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B008YWY0HK)
