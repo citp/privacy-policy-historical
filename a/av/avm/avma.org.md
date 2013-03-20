@@ -1,51 +1,59 @@
-> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505073601id_/http%3A//www.avma.org/termsofuse/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2013-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130320010818id_/https%3A//www.avma.org/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# AVMA Online Privacy Notice
+# Privacy Policy for AVMA Websites
 
-**Overview**  
-The following information reflects the AVMA's commitment to maintain our Web site visitors' rights to privacy and the confidentiality of personal information. The AVMA takes extensive measures to ensure the safety and security of its Web site servers and the information contained on them and to guard against divulging private information.
+​ 
 
-**General Information**  
-If you send us an email, you should know that email is not necessarily secure against interception. The AVMA discourages sending of confidential information by e-mail. If your communication includes sensitive information such as your credit card information, and you prefer not to use one of our secure online forms, contact us by postal mail, fax or telephone rather than email.
+_Updated Aug. 1, 2012_
 
-Credit card information will be used by the AVMA solely as authorized by the sender and will not be used in any other manner or shared with any third party except as needed to conduct the requested transaction.
+This is the American Veterinary Medical Association® (“AVMA”) privacy policy applicable to any site containing the URL [avma.org](https://web.archive.org/) and any other websites operated by the AVMA (collectively referred to as the “AVMA Websites”) from time to time. Please read this Privacy Policy carefully as well as the [Agreement and Terms of Use](https://web.archive.org/Pages/terms-of-use.aspx) applicable to use of the AVMA Websites.
 
-Only authorized AVMA personnel can access credit card information and solely for the purpose of processing the user's request and performing adjustments or refunds at the user's request.
+If you have any questions about this Privacy Policy, you can send us an email at [avmaonline@avma.org](mailto:avmaonline@avma.org), call us at 800.248.2862, or write to us at:
 
-**Links**  
-Our Web sites contain links to documents and pages located on Web sites maintained by various other organizations. Once you select a link that takes you to another Web site, you are subject to the privacy policy of that Web site.
+            American Veterinary Medical Association  
+            1931 N. Meacham Road, Suite 100  
+            Schaumburg, IL 60173-4360
 
-**Security**  
-The AVMA uses generally accepted, industry-standard security systems, software, and encryption technologies to protect against unauthorized access to our servers, equipment, and other components of our online presence.
+### Overview
 
-This includes the use of secure socket layer (SSL) encryption to protect the transmission of information you submit to us when you use our secure online forms on [www.avma.org](http://www.avma.org/). All the information you provide us through these forms is stored securely offline. You will know that an online form is secure if "https://" appears at the beginning of the address line in your browser; if "http://" appears at the beginning, the page is not secure.
+AVMA values individual privacy, and we want to give visitors to AVMA Websites the opportunity to know what information we collect about them, what we do with that information, and how they can limit the use of personally-identifiable information beyond the purposes for which they first provided it. _At all times, however, AVMA reserves the right to disclose information where required by law or to comply with valid legal process (such as a search warrant, subpoena, or court order), to protect AVMA’s rights or property, including without limitation in the event of a transfer of control of AVMA or substantially all of its assets, or during emergencies when safety is at risk._
 
-The AVMA has procedures in place for protecting personal information, including but not limited to: use of firewalls; frequent updates to security and virus-protection software; and storing any personal information collected online on a secure offline server that is not accessible from the Internet.
+AVMA reserves the right to modify this Privacy Policy at its discretion with or without providing notice to users of AVMA Websites. Whenever we change this Privacy Policy, however, we will endeavor to give users of AVMA Websites reasonable notice by posting a notice on the home page of www.avma.org. Since these policy change notices last only for a limited time, you should check this Privacy Policy regularly to see if there have been any changes. 
 
-**Information for all visitors to the AVMA Web site**  
-In general, you can visit our Web sites without telling us who you are or revealing any personal information about yourself.
+### Data We Collect and How We Use It
 
-We do collect and store information that does not identify you personally when you visit our Web sites, including but not necessarily limited to the name of the domain and host from which you access the Internet (for example, aol.com or princeton.edu); the Internet protocol (IP) address used to access our Web site; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the Web site from which you linked directly to our site. We use this information to measure the number of visitors to the different sections of our site, and to help us make our site more useful. This information does not allow us to individually identify any of our site visitors.
+We do not collect personally identifiable information, such as your name, address, phone number or email address, if you are only browsing AVMA Websites and do not interact for any online product or service from the AVMA. We do, however, collect certain non-personally identifiable information from all visitors to AVMA Websites, as described more fully below.
 
-Like most websites, we employ cookies to help users more efficiently use our websites. A cookie is a string of information that is sent by a website and stored on a user's hard drive. Cookie information is used only by the AVMA and our agents, and is not provided to any other organization. If you do not want your browser to accept cookies, you can modify the cookie option in your browser's settings. However, some features or services of our sites may not function properly or be accessible without cookies.
+We will collect and retain certain personal information from you when needed to process your transactions (including purchases of goods and services), fulfill your requests for information, allow you to access certain services or areas of AVMA Websites such as online communities, or maintain our membership records. The type of personal information we collect will vary but may include your name, contact information (address, phone number, billing and delivery information, email address), credit card or other financial account information, and other demographic information. The type of information you provide will determine the personal information that is collected.
 
-**Information for AVMA members or subscribers who log on to our site**  
-When you log on to [www.avma.org](http://www.avma.org/) to access our members-only or subscribers-only features or information, a temporary "cookie" is used solely for the purpose of authenticating you as an AVMA member or as otherwise authorized to view restricted areas of www.avma.org. This is designed to maintain your "sign on" status for the duration of the visit. This cookie persists only as long as your member session remains open; your session will close after 30 minutes of inactivity or when you close your browser window, whichever comes first.
+If you purchase a product or service at any AVMA Website, we will not give out your credit card number or other financial account information to third parties unless you authorize us to do so, or it is necessary to fulfill our responsibilities with respect to the transaction, including but not limited to delivering a product or service you order.
 
-**Information for parents of children who may visit the AVMA Web site**  
-We would like you to know that the AVMA cares about the welfare of children and the privacy of our members and has taken steps to ensure that submitting information on our Web sites is a safe and secure experience. In order to safeguard children's privacy, and in keeping with the Children's Online Privacy Protection Act (COPPA), the AVMA does not collect any personally identifying information online from or about children under the age of 13. For any instance in which the AVMA needs to obtain information about children, such information is collected via fax or postal mail rather than online and will be accepted only with a signature indicating parental consent to the collection and specified use. None of the information is shared with any third party, and AVMA use of the information is limited to fulfillment of the requested service.
+Our online member directory contains specific personal and professional information, depending on the information you provide to the AVMA through your membership application or updates to your online profile. Access to online member directory information is available only to AVMA members. However, we may occasionally provide, sell, or rent limited member data to third parties, including companies that offer products and services related to veterinary medicine for sale to AVMA members. We do not provide email addresses to third parties for any commercial purpose.
 
-Upon your request, and after verification of your identity, we will provide you with a description of the information that we maintain about you or your children. We will accommodate all reasonable requests. Please contact us [by e-mail](http://www.avma.org/contact_us_error.asp) or in writing at the above address.
+We do collect and store information that does not identify you personally when you visit AVMA Websites, including but not limited to: the name of the domain and host from which you access the AVMA Websites; the Internet protocol address used to access AVMA Websites; the date and time you access AVMA Websites; and the Internet address of the website from which you linked directly to AVMA Websites. We use this information to track and analyze traffic to AVMA Websites, including the number of visitors and which pages are viewed by visitors, and to help us improve AVMA Websites. We may also share this information in aggregate with advertisers and sponsors to determine advertising effectiveness.
 
-**Information for AVMA Web site visitors who purchase products or services on our site**  
-When you purchase products or services from the AVMA via the AVMA's Web sites, we collect your name, company name if applicable, contact information, your credit card information, as well as information about your current purchase. This information is used to support your interaction with our site, to deliver your purchases if applicable and to contact you as necessary to fulfill your product or service request.
+Like most websites, we employ cookies to assist users to more efficiently use AVMA Websites. A “cookie” is a string of information that is sent by a website and stored on a user’s computer. Cookie information is used only by the AVMA and our contractors, and is not provided to other organizations. You may block cookies by modifying the cookie option in your browser’s settings, but doing so may inhibit certain features or services of AVMA Websites from being accessible or functioning properly.
 
-We collect the e-mail addresses of those who communicate with us by e-mail. The e-mail addresses are used only to fulfill your request or to contact you with information related to your request unless you specify that you would like to receive further communications with us via e-mail.
+### Email Policy
 
-**Information for those who receive electronic communications from the AVMA**  
-If you no longer wish to receive a specific AVMA electronic communication, please follow the unsubscribe instructions included in that communication or contact our [help desk](http://www.avma.org/contact_us_error.asp) and request removal from the mailing list.
+Your email address will only be used by the AVMA. We do not share, sell or rent email addresses to anyone outside the AVMA. We sometimes collect specific information on email responses, such as how many recipients open an email or choose to click through to links provided in the email message. This information is used solely within the AVMA to analyze areas of interest and to enhance our products, services, and AVMA Websites. None if this information is sold or distributed outside the AVMA. You can manage your email preferences, including opt-out preferences, in our [Email Subscription Center](http://www.highroadsolution.com/avma_preference_page/default.aspx). 
 
-Please see the [AVMA Electronic Communication Terms of Use](http://www.avma.org/termsofuse/electronic_communication/default.asp) for more information.
+### Sharing Personal Information
 
-**Changes to the AVMA Online Privacy Notice**  
-The AVMA reserves the right to modify this policy at any time in the future. When we do, we will also revise the "updated" date at the top of this privacy Notice. Please refer to the online version of this Notice for the latest information regarding the AVMA's online privacy policy.
+AVMA may share, sell, or rent limited member data, including postal address (but not email address), to third parties, including companies that offer products and services related to veterinary medicine for sale to AVMA members. This includes, for example, companies that offer products and services to members through the AVMA affinity programs. In addition, AVMA may share limited personal information (but not email address) of registered AVMA Convention attendees with convention exhibitors. AVMA also hires vendors to perform certain services for the AVMA, such as packaging and mailing purchases, printing, and sending postal mail and processing event registration. We only provide the information these companies need to perform these services.
+
+As an AVMA member, if you prefer to receive mailings from AVMA only and do not wish to receive mailings from these other organizations, you may have your name and address removed from the lists. To do so, please visit the online member update center (URL linked to member update center) and update your member preferences to be excluded from third party mailing opportunities. 
+
+### Security
+
+AVMA uses up-to-date technology to keep any information you provide as secure as possible. We also have in place privacy protection control contractual obligations with our vendors designed to ensure that personal information is protected from unauthorized access or disclosure. AVMA employees are obligated to maintain the confidentiality of personally-identifiable information and are subject to disciplinary action for any breach, up to and including termination. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, and despite our efforts, AVMA cannot guarantee or warrant the security of any information you transmit to us, or to or from our online products or services. 
+
+### Children Under the Age of 13
+
+We do not knowingly solicit data online from or market online to children under the age of 13. 
+
+### Advertisers on AVMA Websites
+
+Some AVMA Websites may contain advertisements or links to the advertiser’s website. We do not control the websites of third parties reached through links on AVMA Websites or their information collection practices, and AVMA will not be responsible for the activities of these third parties. We encourage you to review the terms of use and privacy practices of all websites you visit.
+
+AVMA Websites may also include links to third-party organizations that offer products and services, such as SmartBrief (offering the Animal Health SmartBrief), to members and other users of AVMA Websites. The AVMA does not control the privacy practices of these other organizations or what they do with any information you may provide them through their websites. We encourage you to review the terms of use and privacy policies of these other websites before providing any personal information.
