@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the saplinglearning.com privacy policy that was archived on 2012-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121120115302id_/https%3A//www.saplinglearning.com/PrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saplinglearning.com privacy policy that was archived on 2013-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130321070439id_/https%3A//www.saplinglearning.com/PrivacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <title>Sapling Learning</title>
 <link rel="shortcut icon" href="https://www.saplinglearning.com/image/ico_sapling.png">
 <link rel="apple-touch-icon" href="https://www.saplinglearning.com/image/ico_sapling.png">
 <meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+<script>
 	var pathURL = "https://www.saplinglearning.com";
 </script><link href="css/saplinglearning.css" rel="stylesheet" type="text/css">
 <link href="css/howIt_Works.css" rel="stylesheet" type="text/css">
@@ -74,20 +75,20 @@ Shadowbox.init({
         var dataSend = {};
         dataSend.fb_userid = FB_userid;
         dataSend.email = false;
-		
+
         jQuery.ajax({
             url: fb_server_path+"/ibiscms/auth/facebook/dao_facebook.php",
             data: dataSend,
             type: 'post',
             success: function(data) {
                 if(data == 'true'){
-                    jQuery.getJSON("https://graph.facebook.com/"+FB_userid+"/&callback=?", function(json){
+                    jQuery.getJSON("https://graph.facebook.com/"+FB_userid+"?callback=?", function(json){
                         replaceLoginFacebook(FB_userid, json);
                     });
                 }
                 else {
                     if(linked == 1){
-                        jQuery.getJSON("https://graph.facebook.com/"+FB_userid+"/&callback=?", function(json){
+                        jQuery.getJSON("https://graph.facebook.com/"+FB_userid+"?callback=?", function(json){
                             location.replace(fb_server_path+'/ibiscms/auth/facebook/link_account.php');
                         });
                     }
@@ -133,9 +134,9 @@ Shadowbox.init({
         startFacebook(false);
         var htmlShow = '<form id="login" name="login" method="post" action="'+fb_server_path+'/ibiscms/login/index.php">';
         htmlShow += '<ul>';
-        htmlShow += '<li class="facebook_bt"><fb:login-button scope="email,user_location,user_hometown" onlogin="replaceLoginFacebook(\'\', \'\')"></fb:login-button></li>';
-        htmlShow += '<li><div><label>username</label><input name="username" id="loginUser" type="text" onKeypress="doSubmitLoginReturn()" tabindex=1 /></div></li>';
-        htmlShow += '<li class="borderright"><div><label>password</label> <input id="loginPass" name="password" class="password" type="password" onKeypress="doSubmitLoginReturn()" tabindex=2 /> <a class="go" href="javascript:document.login.submit()" tabindex=3></a><a href="'+fb_server_path+'/ibiscms/login/forgot_password.php" title="forgot it?" tabindex=5>forgot password?</a></div></li>';
+        htmlShow += '<li class="facebook_bt"><div id="facebook-bt-content"><fb:login-button scope="email,user_location,user_hometown" onlogin="replaceLoginFacebook(\'\', \'\')"></fb:login-button></div></li>';
+        htmlShow += '<li><div class="login-item"><label>username</label><input name="username" id="loginUser" type="text" onKeypress="doSubmitLoginReturn()" tabindex=1 /></div></li>';
+        htmlShow += '<li class="borderright"><div class="login-item"><label>password</label> <input id="loginPass" name="password" class="password" type="password" onKeypress="doSubmitLoginReturn()" tabindex=2 /> <a class="go" href="javascript:document.login.submit()" tabindex=3></a><a href="'+fb_server_path+'/ibiscms/login/forgot_password.php" title="forgot it?" tabindex=5>forgot password?</a></div></li>';
         htmlShow += '<li><a class="help" href="/help"title="help">help</a></li>';
         htmlShow += '</ul>';
         htmlShow += '</form>';
@@ -152,9 +153,9 @@ Shadowbox.init({
             });
         }
     }
-    
+
     function doSubmitLogin(){
-        
+
         if(jQuery('#loginPass').val() == ''){
             jQuery('#loginPass').focus();
             return false;
@@ -179,9 +180,9 @@ Shadowbox.init({
         <div id="password">
             <form id="login" name="login" method="post" action="https://www.saplinglearning.com/ibiscms/login/index.php">
                 <ul>
-                    <li class="facebook_bt"><fb:login-button scope="email,user_location,user_hometown" onlogin="replaceLoginFacebook('', '')" width="100"></fb:login-button></li>
-                    <li><div><label>username</label><input id="loginUser" name="username" type="text" tabindex="1"></div></li>
-                    <li class="borderright"><div><label>password</label> <input id="loginPass" name="password" class="password" type="password" tabindex="2"> <a class="go" href="javascript:doSubmitLogin()" tabindex="3"></a><a href="https://www.saplinglearning.com/ibiscms/login/forgot_password.php" title="forgot it?" tabindex="5">forgot password?</a></div></li>
+                    <li class="facebook_bt"><div id="facebook-bt-content"><fb:login-button scope="email,user_location,user_hometown" onlogin="replaceLoginFacebook('', '')" width="100"></fb:login-button></div></li>
+                    <li><div class="login-item"><label>username</label><input id="loginUser" name="username" type="text" tabindex="1"></div></li>
+                    <li class="borderright"><div class="login-item"><label>password</label> <input id="loginPass" name="password" class="password" type="password" tabindex="2"> <a class="go" href="javascript:doSubmitLogin()" tabindex="3"></a><a href="https://www.saplinglearning.com/ibiscms/login/forgot_password.php" title="forgot it?" tabindex="5">forgot password?</a></div></li>
                     <li><a class="help" href="/help" title="help">help</a></li>
                 </ul>
                 <input type="hidden" name="flashversion" id="flashversion">
@@ -197,13 +198,13 @@ Shadowbox.init({
 </div>
 <script>
     $("#loginUser, #loginPass").keypress(function(evt) {
-        if (evt.keyCode == 13){  
+        if (evt.keyCode == 13){
             doSubmitLogin();
         }
     });
-    
+
     function showBox(id, url){
-        jQuery(".tab_content-login").hide(); 
+        jQuery(".tab_content-login").hide();
         jQuery("ul.tabs-login li:eq("+id+")").addClass("active").show();
         jQuery(".tab_content-login:eq("+id+")").show();
         window.location.href = url;
@@ -213,13 +214,13 @@ Shadowbox.init({
         jQuery("ul.tabs-login li").removeClass("active");
         jQuery(this).addClass("active");
         jQuery(".tab_content-login").hide();
-	
+
         var activeTab = jQuery(this).find("a").attr("href");
         jQuery(activeTab).fadeIn();
     });
 
     jQuery(document).ready(function() {
-        jQuery(".tab_content-login").hide(); 
+        jQuery(".tab_content-login").hide();
         jQuery("ul.tabs-login li:eq(0)").addClass("active").show();
         jQuery(".tab_content-login:eq(0)").show();
 
@@ -331,5 +332,6 @@ Shadowbox.init({
     <!-- # End content Site -->
 </div>
 
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-4.newrelic.com","680dae6da3","1243498","Z1MDbRdTCEVYAkBRDF4ZNEsMHTZEUBdVWxpgWQ1QBktIRlER",0,0,new Date().getTime(),"","","","",""]);</script>
 
-</body></html>
+<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
