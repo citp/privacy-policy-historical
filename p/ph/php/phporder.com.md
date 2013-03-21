@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phporder.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525013421id_/http%3A//www.phporder.com/PrivacyPage.aspx%3FID%3Dwww) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phporder.com privacy policy that was archived on 2013-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130321221355id_/http%3A//www.puriumcorp.com/PrivacyPage.aspx) for the most accurate reproduction.*
 
 # Purium Health Products | Offering Whole Food Nutrition & Organic Supplements for Holistic Health
 
