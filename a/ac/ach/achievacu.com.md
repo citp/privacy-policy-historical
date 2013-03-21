@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the achievacu.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208164322id_/http%3A//www.achievacu.com/personal/credit-cards/CreditCardServices/KeepingYourCreditSafe/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achievacu.com privacy policy that was archived on 2013-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130321073112id_/http%3A//www.achievacu.com/personal/credit-cards/CreditCardServices/KeepingYourCreditSafe/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Achieva Credit Union - Privacy Policy
 
-## [Our Privacy Pledge](https://web.archive.org/web/20121208164322id_/http%3A//www.achievacu.com/Libraries/Brochures_and_links/Privacy_Pledge.sflb.ashx)
+## [Our Privacy Pledge](https://web.archive.org/web/20130321073112id_/http%3A//www.achievacu.com/Libraries/Brochures_and_links/Privacy_Pledge.sflb.ashx)
 
 Achieva Credit Union, a member-owned financial institution, is committed to protecting your privacy.
 
