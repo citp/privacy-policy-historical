@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehostingbug.com privacy policy that was archived on 2012-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120828005354id_/http%3A//freehostingbug.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehostingbug.com privacy policy that was archived on 2013-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130321100720id_/http%3A//freehostingbug.com/privacy) for the most accurate reproduction.*
 
 # FreeHostingBug Privacy Policy - FreeHostingBug - Free Web Hosting Talk & Reviews
 
