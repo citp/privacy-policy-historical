@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oreck.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228110218id_/http%3A//www.oreck.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreck.com privacy policy that was archived on 2013-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130321070233id_/http%3A//www.oreck.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Oreck Privacy Policy
 
