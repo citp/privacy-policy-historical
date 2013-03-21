@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the timesharelifestyle.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028154346id_/http%3A//www.timesharelifestyle.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesharelifestyle.com privacy policy that was archived on 2013-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130321070308id_/http%3A//www.timesharelifestyle.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Timeshare Lifestyle
-
-## Privacy Policy
+# Privacy Policy
 
 This privacy notice discloses the most current privacy practices for www.TimeshareLifestyle.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
