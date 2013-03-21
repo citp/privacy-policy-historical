@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogsupplies.com privacy policy that was archived on 2012-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120506141433id_/http%3A//www.dogsupplies.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogsupplies.com privacy policy that was archived on 2013-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130321194128id_/http%3A//www.dogsupplies.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,6 +32,8 @@ DWP also allows third party companies that are presenting advertisements on some
 Information Sharing and Disclosure**
 
 DWP may disclose your personal information to third parties who work on behalf of DWP to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, contact us.
 
 **DWP may otherwise disclose your personal information when:**
 
