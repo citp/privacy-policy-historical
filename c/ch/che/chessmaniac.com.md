@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chessmaniac.com privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729011339id_/http%3A//www.chessmaniac.com/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chessmaniac.com privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322024930id_/http%3A//www.chessmaniac.com/Privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
