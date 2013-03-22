@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketgear.com privacy policy that was archived on 2012-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120924041344id_/http%3A//handango.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketgear.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323004229id_/http%3A//handango.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Handango – Premium Free Apps Everyday
 
