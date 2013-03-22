@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bb3b.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107050149id_/http%3A//www.thdelectronics.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bb3b.com privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322085102id_/http%3A//www.thdelectronics.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
