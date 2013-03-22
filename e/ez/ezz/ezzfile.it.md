@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ezzfile.it privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118090517id_/http%3A//www.ezzfile.it/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezzfile.it privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322041714id_/http%3A//ezzfile.it/privacy.html) for the most accurate reproduction.*
 
-# ezzfile.it - Easy way to share your files
+# عز فايل | Ezzfile.it - Easy way to share your files
 
 Privacy Policy for www.EzzFile.it
 
