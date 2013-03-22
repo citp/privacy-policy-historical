@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badimg.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119215849id_/http%3A//badimg.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badimg.com privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322022740id_/http%3A//badimg.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Bad IMG » More Information » Privacy Policy
 
@@ -8,4 +8,4 @@ We may also collect the URL from which you linked into our site, your IP address
 
 User privacy is something we take very seriously at Bad IMG. We do not, and have never, sold or disseminated (except in cases where required to by law enforcement agencies) the personal information of our users to any parties outside of Bad IMG. We use account information for the purposes of creating and maintaining individual user accounts, contacting a user in case of a problem with their account, for statistical purposes, to administer our systems, and to provide technical support. 
 
-If you have any question, please do not hesitate to [contact us](http://www.badimg.com/contact.php?act=contact_us). 
+If you have any question, please do not hesitate to [contact us](http://badimg.com/contact.php?act=contact_us). 
