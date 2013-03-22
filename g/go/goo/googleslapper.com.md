@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googleslapper.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503065105id_/http%3A//www.googleslapper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googleslapper.com privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322102657id_/http%3A//www.googleslapper.com/privacy.html) for the most accurate reproduction.*
 
 # Google Slapper Privacy Policy
 
