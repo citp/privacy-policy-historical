@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldgroups.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227222321id_/http%3A//apps.worldgroups.com/grppage.wsif%3Ft%3DSite%5CGeneral%5CPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldgroups.com privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322074104id_/http%3A//apps.worldgroups.com/grppage.wsif%3Ft%3DSite%5CGeneral%5CPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy : WorldGroups
 
