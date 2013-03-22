@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupsite.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124030959id_/http%3A//www.groupsite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupsite.com privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322030823id_/http%3A//www.groupsite.com/privacy) for the most accurate reproduction.*
 
 # Your Network -- Powered by Groupsite.com
 
