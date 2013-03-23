@@ -1,58 +1,130 @@
-> *The following text is extracted and transformed from the paydaybank.co.uk privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419223900id_/http%3A//www.paydaybank.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydaybank.co.uk privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323132553id_/http%3A//www.paydaybank.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Payday Bank - Same Day Payday Loans
+# Privacy Policy
 
-**We recognize the importance of protecting your privacy** and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
+Payday Bank is a trading name of PDB UK Limited. Any use of "we", "our" etc refers to this party. We are committed to preserving and respecting your privacy.
 
-**Fraud Prevention:** If false or inaccurate information is provided, including in relation to a person’s identity and fraud is identified, details about this information, including customer Personal Data, will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related and other facilities; managing credit and credit related accounts or other facilities; recovering debt; checking details on proposals and claims for all types of insurance; and checking details of job applicants and employees. For further details of the relevant fraud prevention agencies please contact us as described at the end of this Privacy Policy. 
+The following information covers: 
 
-**What Information Do We Collect?**  
-When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+  
 
-**1\. Personal Information You Choose to Provide**
 
-**2\. Registration Information**
+  * The Data Protection Act
+  * How we collect information
+  * How we use your information
+  * How we protect that information
+  * Cookies and how to remove them
+  * Disclosure of your information
+  * Your Rights
+  * Further information and contact
 
-     When you register for any of our products, services or newsletters you will provide us information about yourself.
 
-**3\. Email Information**  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-**4\. Web Site Use Information**  
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used.  
-Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site 
+##  The Data Protection Act
 
-**How Do We Use the Information That You Provide to Us?**     
+For the purpose of the Data Protection Act 1998, we are the data controller. We are a company incorporated in England and Wales with Company No. 06617413 and our registered office is 28-32 Wellington Road, London, NW8 9SP. Our data protection register is #Z1696368.
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, , to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
+This policy only applies to the collection of your data by us and those we authorise. We may link to third party websites that have their own privacy policy. We do not accept any responsibility or liability for these policies, so please check them before submitting any personal data.
 
-Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
+  
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
 
-     **Sharing and Selling Information**  
-We do not share, sell, lend or lease any of the personal or financial information that you choose to provide us (such as personal details or bank information) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. We may use statistical and email information for making lending decisions and servicing our relationship with you, for the purposes of fraud prevention and debt collection, to understand your financial needs, to conduct our business and to provide you with better customer services and products from both PaydayBank and those of selected third parties, to evaluate the effectiveness of our marketing of the Website and for statistical analysis.
-    **How Can You Access and Correct Your Information?**  
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
-    **What About Legally Compelled Disclosure of Information?**  
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
-     **What About Other Web Sites Linked to Our Web Site?**
+##  Information we collect
 
-We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
+Almost all websites gather information about you when you go to them to some degree or other. We don't collect anything scary, as the way we do business is pretty simple. We may collect and use the following data about you: 
 
-Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+  
 
-     **Your Consent**  
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
-    **Our Commitment to Data Security:**  
-Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-    **Choice/Opt-In/Opt-Out**  
-This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
-    **Surveys & Contests**  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-    **A Special Note About Children**  
-Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
-    **Acquisition or Changes in Ownership**  
-In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
-    **Policy Modifications**  
-We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+  * Information about your visits to our site, and which pages you visited. This is partially so we can make improvements.
+  * Your loan application information. This is partially to prevent fraudulent information.
+  * A record of any contact you have with us, either by phone, email, online chat or post.
+  * Details of transactions you carry through our website and fulfilment of your orders.
+  * Decisions made by lenders with regards to your application.
+
+
+
+## How we use your information:
+
+  * To carry out business, including our obligations that arise from any contracts entered into between you and us.
+  * To provide information, products and services you request
+  * To process applicationsand keep them secure
+  * To monitor how people use each page of our website and service, in order to improve it.
+  * To notify you about our services and special offers we think you will find valuable. This will only happen where you have consented to be contacted for these purposes. Anything we send will have information that tells you how to unsubscribe as well. If you don't want to receive anything from us, please email us at customer.support@paydaybank.co.uk.
+  * We send it to our lenders in order that they can make lending decisions, and also conduct identity verification, credit checking, fraud prevention and debt collection where necessary.
+  * To evaluate the effectiveness of our marketing of our website and statistical analysis.
+
+
+
+Your details may be passed on to third parties involved in the lending process, including debt management companies and credit rating agencies. Some third parties may contact you for marketing purposes. They will have their own privacy policy and you will need to contact them separately if you want to be removed from their marketing information. If you are an existing customer, we will only contact you via email or SMS for re-marketing purposes.
+
+##  How we protect that information
+
+As part of the lending process, your data may be transferred or stored in locations outside the European Economic Area. Staff from areas outside of the European Economic Area may process your data in order to fulfil your order, process your payment details and provide your support services, amongst other duties. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy at all times. We store all and any information you provide to us on our secure servers. Any payment transactions will be encrypted using SSL technology to ensure the maximum protection we can provide.
+
+  
+
+
+##  Cookies and how to remove them
+
+The way we track information about people who visit our site is by using cookies. This information includes your IP address, operating system and browser type, in order for us to learn aggregate information. This is never used to identify any individual. It also allows us to present you with a consistent experience with our website, and also to use web analytic tools to see how our sites are used in order to improve them. 
+
+Cookies are small pieces of data created when you visit a website and are stored in the cookies directory on your computer. They do not give us any access to your computer and cannot be used to identify an individual user. They're used by many websites.
+
+  
+Cookie  |  Name  |  Purpose   
+---|---|---  
+Essential site cookies  |  ASP.NET_SessionId  |  This cookie is an online notification form cookie, and is essential for the online quick apply form to operate. It is set only for those people using that and is deleted when you close your browser. For more information, Visit the Microsoft website   
+|  pdbREF  |  This allows us to see where you accessed the site from, in order that we can monitor and improve our advertising, and so that we can accurately recompense advertisers and affiliates. For more information, Visit the Microsoft website   
+Live Chat  |  LivepersonID  |  This saves a limited amount of session and visitor information in order to identify returning visitors by saving LivePerson-specific data such as visitor ID, last chat date, etc. The cookies do not contain any private customer data, or any data which would be accessible or useful outside of LivePerson.   
+|  HumanclickACTIVE  
+HumanclickKey  
+HumanClickSiteContainerID+39923063  |  These allow us to log and respond to livechat conversations, and are used in a similar way to call centre phone conversations being recorded. This is for the protection of both parties involved in the conversation.   
+Google Analytics  |  _utma  
+_utmb  
+_utmc  
+_utmz  |  These are Google Analytics cookies, which collect information, in an anonymous form, about how visitors use our site, which pages they visited, where they come from, and the number of visitors to our site.Click here for an overview of privacy at Google   
+ClickTale  |  WRIgnore WRUID  |  These are ClickTale cookies, which collect information, in an anonymous form, about how visitors use our site. We use this to improve our site designs.Click here for an overview of privacy at Click Tale   
+  
+If you would prefer not to use cookies, you can opt out of it by changing your browser settings. It should only take a few simple steps.
+
+Just go to “Tools” on your internet browser. On some browsers, this may be an icon of a spanner or gears. 
+
+Then go to “Options”, “Preferences” or “Settings”, depending on the browser you are using. 
+
+The cookies setting will be either in “Privacy”, “Advanced” or “Under the hood”, depending on the browser. 
+
+You will then be able to select your settings as required. 
+
+  
+
+
+##  Disclosure of your information
+
+There are limited scenarios where we would ever pass on your data to a third party. These are: 
+
+  * To prospective lenders to consider whether to make a loan to you. This may, as described earlier, involve credit and identity checking, and may involve third parties as appropriate to that end.
+  * To law enforcement agencies. This is if there is ever any reason to suspect fraudulent information has been used, or identity theft. This is primarily to protect your privacy and data, in case anyone ever tries to apply with your information.
+  * If we sell or buy any business or assets, or if we are acquired by a third party, in which case we may disclose data to prospective sellers or buyers of such business or assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use, and other agreements; or to protect the rights, property or safety of PDB UK Limited, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+We may also share your information with third parties not listed above where you have given your consent or where we are required or permitted to by any applicable law.
+
+##  Your Rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will inform you (by way of our privacy policy and terms and conditions) if we intend to use your data for such purposes. 
+
+You can exercise your right to be removed from any marketing lists by contacting us at customer.support@paydaybank.co.uk. By unsubscribing from our service, you will be opting out of any of our marketing. You will need to contact any third parties separately. 
+
+You have the right to access information we hold about you. If you would like to exercise this right, just email us and ask. It may be subject to a £10 fee to meet our costs in providing you with the information.
+
+Any changes we make to our privacy policy will be posted on this page. Where appropriate, we will contact you by email. 
+
+You can contact us either by email or post.customer.support@paydaybank.co.uk Data Protection Compliance Officer PDB UK Limited  
+28-32 Wellington Road  
+NW8 9SP
+
+  
+
