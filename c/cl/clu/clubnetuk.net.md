@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubnetuk.net privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211200852id_/http%3A//clubnetuk.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubnetuk.net privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323191932id_/http%3A//clubnetuk.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Clubnet UK
 
