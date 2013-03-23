@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamingthebeast.net privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016210638id_/http%3A//www.tamingthebeast.net/admin/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamingthebeast.net privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323113207id_/http%3A//www.tamingthebeast.net/admin/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement for Taming the Beast.net
 
@@ -21,7 +21,11 @@ The main purpose of cookies is to identify Internet users and possibly prepare c
 
 We  use cookies to enable functionality of our message boards. Some of our content providers and advertisers do issue cookies. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website. 
+
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to users based on their visit to this site and/or other sites on the Internet. 
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, you can opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).) 
 
 ## Links to other sites 
 
@@ -33,7 +37,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 ## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  Details of our subscribers and classified advertisers are kept in secure areas of our server and with encrypted passwords. Security of our site is controlled in part by our hosting service - [Thinkhost](https://web.archive.org/web/20121016210638id_/http%3A//www.tamingthebeast.net/admin/reghost.htm).  All activity on Taming the Beast.net is logged for security purposes. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  Details of our subscribers and classified advertisers are kept in secure areas of our server and with encrypted passwords. Security of our site is controlled in part by our hosting service - [Thinkhost](https://web.archive.org/web/20130323113207id_/http%3A//www.tamingthebeast.net/admin/reghost.htm).  All activity on Taming the Beast.net is logged for security purposes. 
 
 ## Legal Issues
 
@@ -76,8 +80,8 @@ This site gives users the following options for changing and modifying informati
 
 ## Other usability issues
 
-You can discover more by [clicking here](https://web.archive.org/web/20121016210638id_/http%3A//www.tamingthebeast.net/admin/usability.htm). Please remember to also read our Disclaimer and Terms of Service notices - [click here](https://web.archive.org/web/20121016210638id_/http%3A//www.tamingthebeast.net/admin/disclaimer.htm)
+You can discover more by [clicking here](https://web.archive.org/web/20130323113207id_/http%3A//www.tamingthebeast.net/admin/usability.htm). Please remember to also read our Disclaimer and Terms of Service notices - [click here](https://web.archive.org/web/20130323113207id_/http%3A//www.tamingthebeast.net/admin/disclaimer.htm)
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, we recommend you review our [terms of service](https://web.archive.org/web/20121016210638id_/http%3A//www.tamingthebeast.net/admin/disclaimer.htm) or you can contact 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, we recommend you review our [terms of service](https://web.archive.org/web/20130323113207id_/http%3A//www.tamingthebeast.net/admin/disclaimer.htm) or you can contact 
 
 Michael Bloch  Taming the Beast  [michael@tamingthebeast.net](mailto:michael@tamingthebeast.net) Box 112 Seacliff Park  South Australia 5049  +61 0404 284 011   
