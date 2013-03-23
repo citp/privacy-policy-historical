@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aged-domain-finder.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513163028id_/http%3A//www.aged-domain-finder.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aged-domain-finder.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323064517id_/http%3A//www.aged-domain-finder.com/privacy.php) for the most accurate reproduction.*
 
 # Aged Domain Finder - Find Your Own Aged Domains
 
