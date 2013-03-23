@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewarezoom.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228220812id_/http%3A//www.freewarezoom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarezoom.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323010742id_/http%3A//www.freewarezoom.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Freeware Download List
 
