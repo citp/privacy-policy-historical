@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cefcu.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513053300id_/https%3A//www.cefcu.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cefcu.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323122327id_/https%3A//www.cefcu.com/privacy-policy.php) for the most accurate reproduction.*
 
 # CEFCU - Privacy Policy
 
@@ -11,28 +11,33 @@ Citizens Equity First Credit Union ("CEFCU") and its wholly-owned subsidiary, CE
 
 
 
-**Collecting Your Information  
-**What information is collected by us? Information that we collect about you may come from any or all of the following sources, and is considered "collected information":
+**Collecting Your Information**
+
+What information is collected by us? Information that we collect about you may come from any or all of the following sources, and is considered "collected information":
 
   * Information we receive from you on applications or other forms — such as your name, address, Social Security number, assets, income, and beneficiaries;
   * Information about your transactions with us or with others, such as your account balance, payment history, parties to transactions, credit card usage, policy coverage, or premiums paid;
   * Information we receive from communications and interactions that we have with you, such as financial or insurance needs you have told us about or concerns you have expressed; and,
-  * Information we receive from consumer reporting agencies, such as your creditworthiness and credit history.
+  * Information we receive from consumer reporting agencies, such as your creditworthiness and credit history.  
 
 
 
-**Protecting Your Information  
-**How do we safeguard information about you? We maintain security procedures to protect your non-public personal information. In so doing, we employ physical, electronic, and procedural safeguards that comply with applicable state and federal laws, regulations and guidelines to guard your nonpublic personal information.
+
+**Protecting Your Information**
+
+How do we safeguard information about you? We maintain security procedures to protect your non-public personal information. In so doing, we employ physical, electronic, and procedural safeguards that comply with applicable state and federal laws, regulations and guidelines to guard your nonpublic personal information.
 
 We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you.
 
 We require companies that perform services for us or functions on our behalf to agree not to disclose or use your non-public personal information except to perform the services for us. We select these companies very carefully and only work with those who agree to maintain strict confidentiality protections and limit the use and redisclosure of the information we provide. These companies receive only the information needed to perform the marketing or other services on our behalf, and they are not permitted to use it in any other way, including selling or redisclosing the information to any other third party.
 
-**Information Sharing  
-**Is information about me shared within your Affiliated Companies or with non-affiliated companies? From time to time, there may be products and services, either from our Affiliated Companies or from businesses that are not affiliated with us, which we think may be of interest to you. To offer such products and services to you, we may need to share your information with our Affiliated Companies or with non-affiliated companies.
+**Information Sharing**
 
-**Former Members or Customers  
-**If your relationship with us ends, your collected information may be shared in the same way, and with the same parties, as is the information about our existing members or customers, all as described in this notice.
+Is information about me shared within your Affiliated Companies or with non-affiliated companies? From time to time, there may be products and services, either from our Affiliated Companies or from businesses that are not affiliated with us, which we think may be of interest to you. To offer such products and services to you, we may need to share your information with our Affiliated Companies or with non-affiliated companies.
+
+**Former Members or Customers**
+
+If your relationship with us ends, your collected information may be shared in the same way, and with the same parties, as is the information about our existing members or customers, all as described in this notice.
 
 **Sharing with Our Affiliated Companies  
 **Is information about me shared within your Affiliated Companies? In our efforts to better serve your financial needs, we may share your collected information described above within our Affiliated Companies. This means CEFCU shares your collected information with CEFCU Financial Services, Inc. and CEFCU Financial Services, Inc. shares your collected information with CEFCU. We want to be sure we understand your entire relationship with us when addressing your needs, providing you services, developing products, and determining what products you may want to know about.
@@ -95,12 +100,6 @@ Companies terminates, your opt out choices will continue to apply. However, if y
 
 **Changes  
 **Should you change your opt out choices, you may do so by writing us a letter and mailing it to:
-
-Citizens Equity First Credit Union  
-Compliance Department  
-5401 W. Dirksen Parkway  
-P.O. Box 1715  
-Peoria, IL 61607
 
 We reserve the right to change this notice in the future, and we will notify you as required by law. 
 
