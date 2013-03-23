@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltilt.com privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110042811id_/http%3A//fulltilt.com/about-us/legal-information/terms/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltilt.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323120721id_/http%3A//fulltilt.com/about-us/legal-information/terms/privacy-legal) for the most accurate reproduction.*
 
 # Online Poker at Full Tilt Poker - Legal Information: Privacy
 
@@ -59,7 +59,7 @@ We and other members of our corporate group may occasionally send you events and
 
 Where you fail to reimburse us for any chargebacks, denial or reversal of deposits you make, we may give details of your accounts and how you manage them to Credit Reference Agencies (CRA). The CRA will record the outstanding debt. This information may be supplied to other organisations and records will remain on the CRA file for 6 years after the date of the chargeback, denial or reversal of payment. The information will be used by the CRA to prevent crime, fraud, money laundering, verifying your identity if you, your partner, other members of your household, your business or financial associates apply for other facilities, monitoring the operation of accounts you may hold, making decisions for credit, credit related or other facilities, trace your whereabouts, recover debts that you owe, statistical analysis and system testing.
 
-Your personal information may be processed by us, other members or our group, our affiliates, our agents and third parties providing services to us, in jurisdictions outside of the Isle of Man and the European Economic Area. In this event we will comply with the terms of the Isle of Man's Data Protection Act 2002.
+Your personal information may be processed by us, other members or our Group, our affiliates, our agents and third parties providing services to us, in jurisdictions outside of the Isle of Man and the European Economic Area. In this event we will comply with the terms of the Isle of Man's Data Protection Act 2002.
 
 We will only use your name in publicity materials with your consent.
 
@@ -85,7 +85,7 @@ Legally Required Disclosures: Due to the legal, regulatory and security environm
 
 In addition to legally required disclosures as explained in this Privacy Policy, we may disclose your personal information to our employees, employees of other companies in our corporate group, our agents and to third party service providers who use your personal information to provide services to us in respect of your being a User with Full Tilt Poker. 
 
-We may combine your personal information collected from your use of the Service in accordance with this Privacy Policy with other information collected from you using other services operated by Full Tilt Poker or an affiliated company within the same corporate group including, but not limited to online poker websites operated under the brands "Full Tilt Poker" (including the Site) and "PokerStars" as well as all products which are related or ancillary thereto, including mobile and social networking services. We will treat this combined information in accordance with, and will use it for the purposes set out in this Policy.
+We may combine your personal information collected from your use of the Service in accordance with this Privacy Policy with other information collected from you using other services operated by Full Tilt Poker or any other member of the Group including, but not limited to online poker websites operated under the brands "Full Tilt Poker" (including the Site) and "PokerStars" as well as all products which are related or ancillary thereto, including mobile and social networking services. We will treat this combined information in accordance with, and will use it for the purposes set out in this Policy.
 
 All recipients of your personal information shall be bound by applicable data protection laws to keep your personal information private at no less a level than that by which we are bound.
 
@@ -97,7 +97,9 @@ We aim to keep our information about you as accurate as possible. You can write 
 
 Cookies are text-only strings of information that are downloaded to your personal desktop, laptop computer or mobile device (each a " **Device** ") when you visit a website. They are then sent back to the originating website on each subsequent visit, or to another website that recognises those cookies. 
 
-Cookies are very useful and are used for many different purposes. These include allowing you to navigate between pages efficiently, remembering your preferences, and generally improving user experience. Sometimes cookies are used to help ensure that adverts you see online are relevant to you and your interests. We use cookies in order to track referrals to our websites, to remember your preferences, and to generate anonymised statistical data, which we use to improve the user experience on our sites.
+Cookies are very useful and are used for many different purposes. These include allowing you to navigate between pages efficiently, remembering your preferences, and generally improving user experience. Sometimes cookies are used to help ensure that adverts you see online are relevant to you and your interests. We use cookies in order to track referrals to our websites, to remember your preferences, and to generate anonymised statistical data, which we use to improve the user experience on our sites. We also use cookies to measure the effectiveness of our advertising campaigns, to limit the number of times you see an advertisement, to remember that you have visited a website, and to provide advertisements that are more relevant to your interests.
+
+Detailed information about cookies and how we use them on the Site may be found in our [Cookie Policy](https://web.archive.org/about-us/legal-information/terms/cookie-policy), which also describes how you can turn off cookies or control which cookies are set on your Device (see in particular the section headed ['How to manage your cookie settings'](https://web.archive.org/about-us/legal-information/terms/cookie-policy#link3)).
 
 * **Who are we?**
 
@@ -105,4 +107,4 @@ Rational FT Enterprises Limited
 33-37 Athol Street  
 Douglas  
 Isle of Man, IM1 1LB  
-Privacy Policy last revised: 31 October 2012
+Privacy Policy last revised: 12 March 2013
