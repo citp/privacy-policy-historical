@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017033555id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323012054id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
@@ -78,25 +78,15 @@ _a copy of_
 
 * * *
 
-### _Conference on Complementary Animal Healing_
-
-**November 11 and 12, 2012  
-Boxborough, Mass**  
-
-
-Learn about essential oils for cats & dogs (Sunday) and horses (Monday) with Nan here!
-
-[**Info and Registration!**](http://www.experience-essential-oils.com/essential-oils-equine-clinics.html)
-
-* * *
-
 ###   
 _Using Essential Oils for People and  
-their Animals!_
+their Animals   
+Online Training Course & Certification!_
 
-**November 17 and 18, 2012  
-Westhampton, Mass**  
+**Coming Soon!**  
 
+
+_Downloadable Videos that you can Watch from Home!_
 
 * * *
 
