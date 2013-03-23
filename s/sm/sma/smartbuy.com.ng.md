@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the smartbuy.com.ng privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007085000id_/http%3A//www.smartbuy.com.ng/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbuy.com.ng privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323013309id_/http%3A//www.smartbuy.com.ng/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-Thank you for accessing the smartbuy.com.ng Website (“Site”) operated by SmartBuy Limited. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
-
-This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
-
-**This privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.**
-
-**We are not responsible for the content or privacy practices on any web site not operated by SmartBuy Limited to which the Site links or that links to the Site.**
+This privacy policy sets out how SmartBuy uses and protects any information that you give SmartBuy when you use this website. SmartBuy is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. SmartBuy may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 **INFORMATION COLLECTION AND USE**
 
@@ -71,7 +64,7 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 **OPT OUT/CORRECTIONS**
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site <http://www.smartbuy.com.ng/>, or by telephoning, or emailing your request to smartbuy.com.ng’s Customer Service 0805-101-9090 or [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy74595%20=%20'cs'%20+%20'@';%20addy74595%20=%20addy74595%20+%20'smartbuy'%20+%20'.'%20+%20'com'%20+%20'.'%20+%20'ng';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy74595%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy74595%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[cs@smartbuy.com.ng](mailto:cs@smartbuy.com.ng)
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site[http://www.smartbuy.com.ng/](http://www.smartbuy.com.ng/), or by telephoning, or emailing your request to smartbuy.com.ng’s Customer Service 0805-101-9090 or[cs@smartbuy.com.ng](mailto:cs@smartbuy.com.ng)
 
 **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
 
@@ -79,11 +72,8 @@ As you might expect from us, the majority of information that we collect is obta
 
 **ONLINE TRANSACTIONS**
 
-Smartbuy treats all information given to us through the site as very confidential and as such will not treat the information of our customers to anyone. Smartbuy will not violate the privacy of card holders registered on the site. All Card Information is private and smartbuy ensures its safety.  
+Smartbuy treats all information given to us through the site as very confidential and as such will not treat the information of our customers to anyone. Smartbuy will not violate the privacy of card holders registered on the site. All Card Information is private and smartbuy ensures its safety.
 
+**UPDATES TO THIS POLICY**
 
- **UPDATES TO THIS POLICY**
-
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 0805-101-9090 or [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy63410%20=%20'cs'%20+%20'@';%20addy63410%20=%20addy63410%20+%20'smartbuy'%20+%20'.'%20+%20'com'%20+%20'.'%20+%20'ng';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy63410%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy63410%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E.)[cs@smartbuy.com.ng](mailto:cs@smartbuy.com.ng).
-
-Effective May 1, 2012
+If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 0805-101-9090 or [cs@smartbuy.com.ng](mailto:cs@smartbuy.com.ng).
