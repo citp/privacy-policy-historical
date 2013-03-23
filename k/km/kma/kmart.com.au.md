@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224201515id_/http%3A//shop.kmart.com.au/webapp/wcs/stores/servlet/ContentDisplay%3FstoreId%3D10701%26catalogId%3D10051%26langId%3D-1%26t%3DfooterContent%26c%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323063004id_/http%3A//shop.kmart.com.au/webapp/wcs/stores/servlet/ContentDisplay%3FstoreId%3D10701%26catalogId%3D10051%26langId%3D-1%26t%3DfooterContent%26c%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kmart
 
