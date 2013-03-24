@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordreference.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123092433id_/http%3A//www.oxfordreference.com/page/77/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordreference.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324210035id_/http%3A//www.oxfordreference.com/page/77/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy Oxford Reference
 
