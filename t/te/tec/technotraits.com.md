@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technotraits.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015163437id_/http%3A//www.technotraits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technotraits.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324170420id_/http%3A//www.technotraits.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Technotraits.com
+# Privacy Policy
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
