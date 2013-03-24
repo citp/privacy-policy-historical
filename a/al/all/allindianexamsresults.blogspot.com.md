@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the allindianexamsresults.blogspot.com privacy policy that was archived on 2012-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120211023445id_/http%3A//allindianexamsresults.blogspot.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allindianexamsresults.blogspot.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324031919id_/http%3A//allindianexamsresults.blogspot.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
 
-# All Indian Exams Results: Privacy Policy
-
-## Subscribe to Get Free SMS alert for Latest Exam Results
-
-[ ](http://www.blogger.com/rearrange?blogID=645918958968810819&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=main "Edit")
+# All India Results 2013: Privacy Policy
 
 ###  [Privacy Policy](http://allindianexamsresults.blogspot.com/2009/09/privacy-policy.html)
 
@@ -27,4 +23,4 @@ Simply enter your mobile number to get yourself register or Subscribe for upcomi
 
 If you want to unsubscribe from this free sms service, Please post email query at software.engineering[at]gmail[dot]com.
 
-[ ](http://www.blogger.com/rearrange?blogID=645918958968810819&widgetType=Text&widgetId=Text6&action=editWidget&sectionId=main "Edit")
+[ ](https://www.blogger.com/rearrange?blogID=645918958968810819&widgetType=Text&widgetId=Text6&action=editWidget&sectionId=main "Edit")
