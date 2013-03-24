@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysearchresults.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014010251id_/http%3A//www.mysearchresults.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysearchresults.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324152624id_/http%3A//www.mysearchresults.com/privacy-policy) for the most accurate reproduction.*
 
 # Search Results — Privacy Policy
 
