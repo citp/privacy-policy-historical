@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerroom.com privacy policy that was archived on 2012-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120813131838id_/http%3A//www.pokerroom.com/help/about-pokerroom/terms-of-service/privacy-policy.html%3Fframework%3Dinline-popup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerroom.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324172801id_/http%3A//www.pokerroom.com/help/about-pokerroom/terms-of-service/privacy-policy.html%3Fframework%3Dinline-popup) for the most accurate reproduction.*
 
 # 
 
@@ -58,7 +58,7 @@ To protect your personal data during communication with your web browser, the Co
 
 In order to prevent illegal manipulation by third parties and to identify and prevent any form of misuse, we record the IP addresses of all computers used to access the line-up on the PokerRoom homepage. In addition, all your data is protected from unauthorized access by a firewall - a computer that is fitted with complex security technology specifically designed to shield the Company's network from the Internet. Additionally, the Company uses reliable internal data protection mechanisms combined with a restrictive security system. 
 
-As a registered user, you have the option to change or revise your personal data (with exception of your first name, last name, date of birth and country) at any time. After logging in, you may correct your data under [My account / Settings: Personal details](https://www.pokerroom.com/account/profile/details/editPersonalDetails/#personal_details). 
+As a registered user, you have the option to change or revise your personal data (with exception of your first name, last name, date of birth and country) at any time. After logging in, you may correct your data under [My account / Settings: Personal details](https://web.archive.org/offline.php?page=details-personaldetails). 
 
 As a registered user you may close your gaming account at any time. When your account is closed, any positive balance will be paid out to you and the personal data stored encrypted. Deleting personal data is not possible because in order to ensure your security, this information has to be available should it be needed in pursuing cases of fraud. With this exception, data is subsequently not used by the Company. The deletion of the personal data takes place with the expiration of the statutory period of limitation. 
 
