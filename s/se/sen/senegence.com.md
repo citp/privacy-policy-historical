@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senegence.com privacy policy that was archived on 2012-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121027183004id_/http%3A//www.senegence.com/SeneGence/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senegence.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325000923id_/http%3A//www.senegence.com/SeneGence/privacy_policy.aspx) for the most accurate reproduction.*
 
 # SeneGence Website Privacy Policies
 
@@ -30,4 +30,4 @@ When you view one of our Web sites, we may store some information in the form of
 
 If you have submitted information about yourself through a SeneGence Web site, and you would like us to delete that information from our records, please contact us by clicking here. We will make reasonable efforts to delete your personal information from our existing files. 
 
-[ ](https://web.archive.org/web/20121027183004id_/http%3A//www.senegence.com/SeneGence/reference/privacy_policy.pdf)
+[ ](https://web.archive.org/web/20130325000923id_/http%3A//www.senegence.com/SeneGence/reference/privacy_policy.pdf)
