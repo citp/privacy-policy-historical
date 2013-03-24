@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the istorya.net privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020065052id_/http%3A//www.istorya.net/forums/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istorya.net privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324065445id_/http%3A//www.istorya.net/forums/privacy_policy.php) for the most accurate reproduction.*
 
-# iSTORYA.NET Privacy Policy
+# iSTORYA.NET - Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at forums@istorya.net.  
 At iSTORYA.NET, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.istorya.net/forums and how it is used.  
