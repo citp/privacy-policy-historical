@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaimerc.com privacy policy that was archived on 2012-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120830045853id_/http%3A//www.dubaimerc.com/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaimerc.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324031338id_/http%3A//www.dubaimerc.com/privacy/index.aspx) for the most accurate reproduction.*
 
 # DME - Privacy Policy
 
