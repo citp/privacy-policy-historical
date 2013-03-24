@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtoolsandtips.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227045826id_/http%3A//webtoolsandtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtoolsandtips.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324042803id_/http%3A//webtoolsandtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Internet Security Blog | Privacy Policy
 
