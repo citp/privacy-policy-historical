@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the availabledirectory.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122165812id_/http%3A//www.availabledirectory.com/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the availabledirectory.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325230608id_/http%3A//www.availabledirectory.com/privacy-policies.html) for the most accurate reproduction.*
 
 # Privacy Policies | Add a Link
 
