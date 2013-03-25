@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118040612id_/http%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325185721id_/http%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy —Professional tool reviews for the average Joe
+# Pro Tool Reviews Magazine | Privacy Policy | Pro Tool Reviews Magazine
 
 ### **What information do we collect?**
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site, subscribe to our 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 ### **What do we use your information for?**
 
@@ -27,8 +27,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
 
-### **Do we use cookies?**  
-
+### **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
@@ -44,32 +43,30 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
 
-### **Childrens Online Privacy Protection Act Compliance**  
+### **Childrens Online Privacy Protection Act Compliance**
 
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at http://www.protoolreviews.com/privacy-policy.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act).
 
 ### **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.protoolreviews.com/terms-and-conditions>
+Please also visit our [Terms and Conditions](https://web.archive.org/terms-conditions "Terms & Conditions") section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ### **Your Consent**
 
-By using our site, you consent to our [website's privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our website’s privacy policy.
 
 ### **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-### **Contacting Us**  
+### **Contacting Us**
 
+If there are any questions regarding this privacy policy you may [contact us online](http://www.protoolreviews.com/contact "Contact PTR") or by mail at.
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://www.protoolreviews.com  
-9824 Conifer Lane  
-Murrells Inlet, SC 29576  
+Pro Tool Reviews, LLC  
+PO Box 24867  
+Lakeland, FL 33802-4867  
 USA  
-[privacy@protoolreviews.com](mailto:privacy@protoolreviews.com)
+privacy -AT- protoolreviews.com
