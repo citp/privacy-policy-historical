@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarkarjobnow.blogspot.in privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123085410id_/http%3A//sarkarjobnow.blogspot.com/2010/02/privacy-policy-for-sarkarjobnowblogspot.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarjobnow.blogspot.in privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325082156id_/http%3A//sarkarjobnow.blogspot.com/2010/02/privacy-policy-for-sarkarjobnowblogspot.html) for the most accurate reproduction.*
 
 # Privacy Policy For sarkarjobnow.blogspot.com | Sarkar Jobnow
 
@@ -26,9 +26,19 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-## Popular Posts
+## Recent Posts
 
-  *   *   *   *   *   *   *   *   *   * 
+  * [Income Tax Department - Inspector/ Tax Assistant - Graduate](http://sarkarjobnow.blogspot.com/2013/03/income-tax-department-inspector-tax.html)
+  * [Staff Selection Commission - RESEARCH OFFICER / DEPUTY FIELD OFFICER / PERSONAL ASSISTANT / STENOGRAPHER - Post Graduate, Bachelor Degree, Diploma/ITI, 10th/12th](http://sarkarjobnow.blogspot.com/2013/03/staff-selection-commission-research.html)
+  * [Reserve Bank of India - Assistant - Bachelor Degree](http://sarkarjobnow.blogspot.com/2013/03/reserve-bank-of-india-assistant.html)
+  * [LIC of India - Assistant Administrative Officer - Bachelors / Masters Degree](http://sarkarjobnow.blogspot.com/2013/03/lic-of-india-assistant-administrative.html)
+  * [KONKAN RAILWAY CORPORATION LIMITED - Dy. Chief Engineer / Assistant Engineer - B.E./M.E B.Tech/M.Tech](http://sarkarjobnow.blogspot.com/2013/03/konkan-railway-corporation-limited-dy.html)
+  * [National Jute Manufactures Corporation Limited - Management Trainees / Finance & Accounts Executive / Executive Engineer - MBA/ PGDBM, CA/ICWA, B.E./M.E B.Tech/M.Tech](http://sarkarjobnow.blogspot.com/2013/03/national-jute-manufactures-corporation.html)
+  * [Engineering Projects (India) Ltd invites applications Assistant Manager - B.E./M.E B.Tech/M.Tech](http://sarkarjobnow.blogspot.com/2013/03/engineering-projects-india-ltd-invites.html)
+  * [SAIL - Management Trainee - B.E./M.E, B.Tech/M.Tech, MBA/ PGDBM, CA/ICWA, BCA/MCA](http://sarkarjobnow.blogspot.com/2013/03/sail-management-trainee-beme-btechmtech.html)
+  * [General Insurance Company Ltd - Specialist Officers(Assistant Manager) - B.E./M.E, B.Tech/M.Tech, B.Sc/M.Sc, B.A/B.Com, BCA/MCA, MBA/ PGDBM, LAW, MBBS, Graduate](http://sarkarjobnow.blogspot.com/2013/02/general-insurance-company-ltd.html)
+  * [Mineral Exploration Corporation Limited Applications are Invited for Various Jobs - Graduate, Post Graduate, MBA/ PGDBM, CA/ICWA, B.E./M.E B.Tech/M.Tech, B.Sc/M.Sc, Diploma/ITI, LAW, 10th/12th](http://sarkarjobnow.blogspot.com/2013/03/mineral-exploration-corporation-limited.html)
 
 
-[ ](https://www.blogger.com/rearrange?blogID=7142289565691094364&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=main "Edit")
+
+[ ](https://www.blogger.com/rearrange?blogID=7142289565691094364&widgetType=PopularPosts&widgetId=PopularPosts2&action=editWidget&sectionId=main "Edit")
