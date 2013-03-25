@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottpilgrimthemovie.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102223120id_/http%3A//www.universalstudiosentertainment.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottpilgrimthemovie.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325225622id_/http%3A//www.universalstudiosentertainment.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Universal Studios Entertainment Portal
 
