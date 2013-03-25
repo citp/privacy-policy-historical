@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onewayfurniture.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101093402id_/http%3A//www.onewayfurniture.com/ccprv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onewayfurniture.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325212337id_/http%3A//www.onewayfurniture.com/ccprv.html) for the most accurate reproduction.*
 
 # Your Privacy is Our Priority
 
@@ -64,7 +64,7 @@ We encourage you to be aware when you leave our site and to read the privacy sta
 \- We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. We will send you an order confirmation email. We will also respond to any inquiry you send to us via email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 **_Choice/Opt Out_**
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference during our order process or in our confirmation email. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication. Or you may phone us at 1-800-789-1995 or [Contact Us](https://web.archive.org/web/20121101093402id_/http%3A//www.onewayfurniture.com/helpdesk.html "Contact Us") You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference during our order process or in our confirmation email. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication. Or you may phone us at 1-800-789-1995 or [Contact Us](https://web.archive.org/web/20130325212337id_/http%3A//www.onewayfurniture.com/helpdesk.html "Contact Us") You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
  ** _Log Files_**
 
@@ -92,7 +92,7 @@ One Way Furniture does not collect any personal information on our blog and only
 
  _ **Access to Personally Identifiable Information**_
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete your personally identifiable information by opening a [Customer Support](https://web.archive.org/web/20121101093402id_/http%3A//www.onewayfurniture.com/ticket-submit.html "Customer Support") help ticket on our site. You can also call us at 1-800-789-1995 . You can update or change your account information by contacting our Customer Support or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete your personally identifiable information by opening a [Customer Support](https://web.archive.org/web/20130325212337id_/http%3A//www.onewayfurniture.com/ticket-submit.html "Customer Support") help ticket on our site. You can also call us at 1-800-789-1995 . You can update or change your account information by contacting our Customer Support or by contacting us by telephone or postal mail at the contact information listed below.
 
  ** _Changes To This Privacy Statement_**
 
