@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518225910id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325121315id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BBS Radio Privacy Policy
 
   
-**_BBSRadio.tv (herein referred to as BBS Radio)_**
+**_BBSRadio.com (herein referred to as BBS Radio)_**
 
 **Our Policy:**
 
@@ -13,12 +13,12 @@
   * We do not give out the information to third parties! We do not share, sell, rent or barter any identifiable personal information to any third party without your permission, and rarely then as well. It's how we roll!
 
 
-  * Any individual or company may request to opt out of our electronic newsletters by sending an email directly to [newsletter@BBSRadio.tv](mailto:newsletter@BBSRadio.tv), or contacting the us by mail at the following address. BBS Network, Inc. (dba: BBS Radio), 5167 Toyon Lane, Paradise, CA 95969. Toll Free in US/Canada 888-710-8061. The main business direct line is 530-413-4529. We are easy to reach, and we make ourselves readily available! People may also remove themselves from the Newsletter just by clicking on the link located on the bottom of the email.
+  * Any individual or company may request to opt out of our electronic newsletters by sending an email directly to [newsletter@BBSRadio.com](mailto:newsletter@BBSRadio.com), or contacting the us by mail at the following address. BBS Network, Inc. (dba: BBS Radio), 5167 Toyon Lane, Paradise, CA 95969. Toll Free in US/Canada 888-710-8061. The main business direct line is 530-413-4529. We are easy to reach, and we make ourselves readily available! People may also remove themselves from the Newsletter just by clicking on the link located on the bottom of the email.
 
 **Newsletters:**  
 
 
-  * BBS Radio Newsletters are intended to keep users informed of new features that are available on our website. They are also used to send out information that we feel our users would appreciate. Our policy is to send our email announcements or newsletters _only to those specific individuals that signed up for them_. If you receive an email and want to be removed from the newsletter, we provide instructions on how to unsubscribe, so that you will not receive any other messages from BBS Radio in the future. If instructions are not provided within the email, please send us an email at [newsletter@BBSRadio.tv](mailto:newsletter@BBSRadio.tv), asking to be removed, and it will be done within 24 hours. Our telephone numbers are provided all throughout the website. Please contact [management](http://www.bbsradio.tv/management.php) whenever you have a concern, and we'll be most happy to speak with you personally.
+  * BBS Radio Newsletters are intended to keep users informed of new features that are available on our website. They are also used to send out information that we feel our users would appreciate. Our policy is to send our email announcements or newsletters _only to those specific individuals that signed up for them_. If you receive an email and want to be removed from the newsletter, we provide instructions on how to unsubscribe, so that you will not receive any other messages from BBS Radio in the future. If instructions are not provided within the email, please send us an email at [newsletter@BBSRadio.com](mailto:newsletter@BBSRadio.com), asking to be removed, and it will be done within 24 hours. Our telephone numbers are provided all throughout the website. Please contact [management](http://www.bbsradio.com/management.php) whenever you have a concern, and we'll be most happy to speak with you personally.
 
 **Disclosure to Authorities:**  
 
@@ -45,7 +45,7 @@ By using the BBS Radio web site and the content and services available to you on
 
 **Final Disclosures:**
 
-This privacy notice explains the information and security practices of BBS Network, Inc. (BBS Radio) [www.BBSRadio.tv](http://www.bbsradio.tv/).
+This privacy notice explains the information and security practices of BBS Network, Inc. (BBS Radio) [www.BBSRadio.com](http://www.bbsradio.com/).
 
 **Changes in the Privacy Policy:**
 
