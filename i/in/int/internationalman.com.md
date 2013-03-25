@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalman.com privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124165024id_/http%3A//internationalman.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalman.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325235218id_/http%3A//www.internationalman.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - International Man
 
