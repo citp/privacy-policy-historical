@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016035557id_/http%3A//www.activeforever.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325164328id_/http%3A//www.activeforever.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # ActiveForever.com Privacy Policy
 
@@ -89,7 +89,7 @@ We are not responsible for the practices employed by Web sites linked to or from
 
 **Transfer of Information**
 
-All information gather and transferred on ActiveForever.com is secure, so you can shop online in confidence. ActiveForever.com uses a 128-bit SSL (Secure Socket Layer) encryption on all pages colleting private information (i.e. credit card data, email addresses, etc).
+All information gather and transferred on ActiveForever.com is secure, so you can shop online in confidence. ActiveForever.com uses a 128-bit (or greater) SSL (Secure Socket Layer) encryption on all pages colleting private information (i.e. credit card data, email addresses, etc). The storage of information by third parties, affiliates and business partenrs is strictly prohibited in any form. Gathering data may only be used for the purpose of fulfillment of an order, all other information cannot be stored, used, tranferred or disseminated by any other party without prior written consent.
 
 **What is ActiveForever's policy on advertising and advertising-related content?**
 
