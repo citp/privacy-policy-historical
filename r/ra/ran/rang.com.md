@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rang.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015163438id_/https%3A//rang.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rang.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325052339id_/https%3A//rang.com/privacy) for the most accurate reproduction.*
 
 # Boomerang
 
