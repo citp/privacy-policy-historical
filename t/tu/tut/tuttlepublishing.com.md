@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuttlepublishing.com privacy policy that was archived on 2012-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120610165254id_/http%3A//www.tuttlepublishing.com/info/%3Ffa%3DInfosLegales) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuttlepublishing.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326094316id_/http%3A//www.tuttlepublishing.com/info/%3Ffa%3DInfosLegales) for the most accurate reproduction.*
 
 # Tuttle Publishing
 
