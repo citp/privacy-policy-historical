@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibuzone.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017072001id_/http%3A//www.ibuzone.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibuzone.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326125041id_/http%3A//www.ibuzone.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Policy
 
@@ -43,3 +43,7 @@ And we try to hire the most trustworthy employees we can, but unless they invent
 And no, we don't sell your information to third parties for the purposes of marketing to you. There's a special place in Hell for people who do that. But we do share your information to some companies, ie courier companies would require your address so they can ship your products to you. We would share your information if a court order forced us to, but unless you're a mastermind criminal, what are the chances of that happening? Oh and if we ever get bought by another company (we don't see that happening in the foreseeable future), they would have access to your information.
 
 And that's about it for privacy.
+
+Name: INTERNATIONAL BUSINESS UNION CO., LIMITED
+
+Address: 1606 16/F Nan Fung Centre 264-298 Castle Tsuen Wan, Hong Kong
