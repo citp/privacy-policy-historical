@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cushmanwakefield.com privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929093743id_/http%3A//www.cushwake.com/cwglobal/jsp/privacy.jsp%3FCountry%3DGLOBAL%26Language%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cushmanwakefield.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326053455id_/http%3A//www.cushwake.com/cwglobal/jsp/privacy.jsp%3FCountry%3DGLOBAL%26Language%3DEN) for the most accurate reproduction.*
 
 # Cushman & Wakefield - Global real estate solutions
 
