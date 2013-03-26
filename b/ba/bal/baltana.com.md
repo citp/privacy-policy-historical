@@ -1,76 +1,68 @@
-> *The following text is extracted and transformed from the baltana.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022165833id_/http%3A//www.baltana.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltana.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326072314id_/http%3A//www.baltana.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Baltana
+# Privacy Policy | Baltana
 
-You can choose to remain anonymous when paying or being paid. Buyers and sellers are entitled to cancel orders that have not been delivered successfully, on time, or at all.  Our priority is to listen, respond, and protect sellers against user misbehavior, including removal of false feedback or ratings left by malicious sellers.  
+This Privacy Policy governs the manner in which www.Baltana.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [Privacy Policy](http://www.baltana.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by www.Baltana.com.
 
-We want to keep your confidence and trust and will continuously strive to keep dishonesty away. As a community we encourage and depend on your feedback to help us remove poor content, spam/spammers, or other distasteful things. Our customer support is always ready to assist you with account problems, orders and any other issue within the site.  Poor quality sellers hurt the community and first and foremost other great sellers.
+## **Personal Identification Information**
 
-At Baltana, the privacy of our visitors is of extreme importance to us. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Baltana is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+## **Non-Personal Identification Information**
 
-What we collect:
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-We may collect the following information:
+## **Web Browser Cookies**
 
- 
-  *   * Email address
-  * Demographic information such as postcode, city, or country.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
+## **How we use Collected Information**
 
+www.Baltana.com may collect and use Users personal information for the following purposes:
 
-Log Files:
-
-Like many other Web sites, Baltana makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
-
-Cookies and Web Beacons:
-
-Baltana does not currently use cookies. The following information in regards to cookies applies to any future usage of cookies that we may acquire and the terms of the cookie usage by us or third parties.
-
-DoubleClick DART Cookie:
-
-  * Google, as a third party vendor, uses cookies to serve ads on Baltana.
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to Baltana and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To send periodic emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on Baltana send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+## **How we Protect your Information**
 
-Baltana has no access to or control over these cookies that are used by third-party advertisers. 
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Baltana's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+## **Sharing your Personal Information**
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-What we do with the information we gather:
+## **Third Party Websites**
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email. We may use the information to customize the website according to your interests.
+## **Advertising**
 
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
+## **Google Adsense**
 
-Links to other websites:
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+## **Changes to this Privacy Policy**
 
-Controlling your personal information:
+www.Baltana.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+## **Your acceptance of these terms**
 
-Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-By using this website you have agreed to us using your personal information for direct marketing purposes,  you may change your mind at any time by emailing us at contact(@)baltana.com.
+## **Contacting Us**
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.baltana.com/contact) at:  
+[www.Baltana.com](http://www.baltana.com/)  
+[www.Baltana.com](http://www.baltana.com/)
 
-If you believe that any information we have of you is incorrect or incomplete, please email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-Security:
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+This document was last updated on December 22, 2012.
