@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idownloadbox.com privacy policy that was archived on 2012-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120704001614id_/http%3A//www.idownloadbox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idownloadbox.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326144030id_/http%3A//www.idownloadbox.com/privacy.php) for the most accurate reproduction.*
 
 # iDownloadBox - Privacy Policy
 
@@ -25,7 +25,7 @@ You can access all your personally identifiable information that we collect onli
 
   * ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20120704001614id_/http%3A//www.idownloadbox.com/support.php).
+Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20130326144030id_/http%3A//www.idownloadbox.com/support.php).
 
 
 
