@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the errabus.com privacy policy that was archived on 2012-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121024232353id_/http%3A//errabus.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the errabus.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326100258id_/http%3A//www.errabus.com/privacy_policy.php) for the most accurate reproduction.*
 
 # errabus best for news and entertainment
 
