@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coconutsbangkok.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007032122id_/http%3A//www.coconutsbangkok.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coconutsbangkok.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326113146id_/http%3A//coconutsbangkok.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Coconuts Bangkok
 
