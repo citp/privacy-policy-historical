@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rssorange.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031154556id_/http%3A//rssorange.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rssorange.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326131216id_/http%3A//rssorange.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of RSS Orange : Aggregator & Syndicator of RSS Feeds
 
@@ -38,4 +38,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-This privacy policy is current as of, Wed, 31 Oct 2012
+This privacy policy is current as of, Tue, 26 Mar 2013
