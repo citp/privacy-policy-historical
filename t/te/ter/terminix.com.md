@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206235734id_/http%3A//www.terminix.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2013-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130326034441id_/http%3A//www.terminix.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Information
 
 At ServiceMaster, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy for all ServiceMaster Quality Service Network Web sites, including: 
 
   * [www.AllAboutHome.com](http://www.allabouthome.com/)
-  * [www.AHS.com](http://www.ahs.com/)
+  * [www.AHS.com](http://www.ahs.com/homeowners/)
   * [www.AmeriSpec.com](http://www.amerispec.com/)
   * [www.FurnitureMedic.com](http://www.furnituremedic.com/)
   * [www.MerryMaids.com](http://www.merrymaids.com/)
