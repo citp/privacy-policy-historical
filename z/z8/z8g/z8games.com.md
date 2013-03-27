@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the z8games.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226060502id_/http%3A//www.z8games.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the z8games.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327214622id_/http%3A//www.z8games.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Z8Games - Privacy Policy
 
