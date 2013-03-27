@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandwidth.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002234143id_/http%3A//bandwidth.com/resources/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandwidth.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327103512id_/http%3A//bandwidth.com/resources/legal/privacy.html) for the most accurate reproduction.*
 
 # Bandwidth.com Website Terms of Use | Legal | Bandwidth.com
 
@@ -99,10 +99,11 @@ If you have questions about this Privacy Policy, please contact us at:
 Email: customercare@bandwidth.com
 
 Bandwidth.com, Inc.  
-4001 Weston Parkway, Suite 100  
-Cary, North Carolina 27513  
+Venture Center III  
+900 Main Campus Drive   
+Raleigh, North Carolina 27606  
 Attention: Customer Care
 
-**(Update Effective as of: 09.14.2010)**
+**(Update Effective as of: 10.25.2012)**
 
 © 2010 Bandwidth.com. All rights reserved.
