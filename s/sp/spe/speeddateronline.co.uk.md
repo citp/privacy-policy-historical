@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speeddateronline.co.uk privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523015727id_/http%3A//www.speeddateronline.co.uk/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddateronline.co.uk privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327054024id_/http%3A//www.speeddateronline.co.uk/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,6 +69,8 @@ As we continue to develop our business, we might sell or buy assets. In such tra
 
 We may also share information about you with third parties that we engage to help us in certain areas, such as processing payments for services you order from us. However, we will control and be responsible for the use of your information by these third parties.
 
+You authorise us to reproduce and broadcast the information contained in your profile including your name, photograph, "chat up line", description etc. throughout all or part of our Company and our corporate group services including our various internet sites and mobile sites. 
+
 We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
 
 **Marketing and other uses of your non-personal data by us and by third parties**
@@ -81,20 +83,33 @@ If you do not want us to use your data in this way, or to pass your details on t
 
 **Cookies**
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Site and to deliver a better and more personalised service. They enable us: 
+We may collect information about your computer or mobile device by using Cookies. If you use our site you are consenting to the use of Cookies as explained here.
+
+Cookies are small text files that are placed on your computer by websites that you visit and provide statistical data to us, that does not identify you personally but an tell us a lot about your browsing habits to tailor your user experience to suit your needs. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. We use cookies to enhance our security, help us gather information during subscription and understand our web traffic trends.
+
+They help us to improve the Site and to deliver a better and more personalised service. They enable us:
 
   * To estimate our audience size and usage pattern.
   * To store information about your preferences, and so allow us to customise the Site according to your individual interests.
   * To speed up your searches.
   * To recognise you when you return to the Site.
+  * To provide anonymized statistical information: Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our websites by specific third party partners. We use this non-personal information to help improve the services we provides to you.
 
 
 
+When you visit the publicly available sections of the Site, a session ID cookie is placed on your computer that only lasts while you’re visiting. We also place persistent cookies (also known as local storage devices) on members’ computers, so that we remember them to make your login in process faster and easier. You may set your browser to block cookies and local storage devices, but if you do so, you may not be able to access all of the features of the Site.
+
+This table shows fully the cookie functions and why they are used, although our uses may change over time and it is important that you revisit this page to understand these uses:
+
+**Cookie Functions** | **Cookie Purposes**  
+---|---  
+Analytics and research | We use the information collected by Google Analytics to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy all of the features without having to continually log in – our Site “remembers” you and allows you full access without the need to keep entering your log in details.  
+Security and site integrity | We may use cookies and other devices, such as CAPTCHAs, to help keep the Site and our members safe and secure by protecting the Site from fraud and spam attacks to keep your data safe.  
+Site features and services | These cookies and local storage devices provide the functionality that our members enjoy, such as uploading of photographs, chats, instant messaging, your account settings etc. We also use cookies to help provide experiences, such as links to other social media sites, social plugins and video content, including making it easier for you to share content between the Site with your other favourite social networks. In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data you should always read their privacy policies. Third parties who place cookies on your device when you use the Site include Twitter and Facebook whose own privacy policies apply.   
+Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for our Site and Services.  
+  
 For further information about cookies visit: [http://www.aboutcookies.org](http://www.aboutcookies.org/)
-
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.  We use cookiesto enhance our security, help us gather information during subscription and understand our web traffic trends. You can amend your browser settings so that you do not accept cookies, but this will probably adversely affect the way you experience our Site.
-
-Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our websites by specific third party partners. We use this non-personal information to help improve the services we provides to you. The non-personal data gathered is used to provide anonymised statistical information.
 
 **Where we store your personal data**
 
