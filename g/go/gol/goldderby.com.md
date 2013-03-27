@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldderby.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119043032id_/http%3A//www.goldderby.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldderby.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327120541id_/http%3A//www.goldderby.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Goldderby.com
 
