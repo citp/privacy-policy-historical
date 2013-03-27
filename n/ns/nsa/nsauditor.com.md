@@ -1,37 +1,64 @@
-> *The following text is extracted and transformed from the nsauditor.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127151235id_/http%3A//www.nsauditor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsauditor.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327232856id_/http%3A//www.nsasoft.us/privacy_policy) for the most accurate reproduction.*
 
-# Nsasoft Privacy and Security Policy
+# Privacy Policy
 
-We **do not send** out any Spam emails or news letters. We don’t even write to our customers about the upgrades, you have to visit our "what is new" page to see that.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
-Cookies are **not** used to collect personal information about you, to collect information from your files, or to damage to your files.
+When accessing our Website, Nsasoft Us, LLC will learn certain information about you during your visit.
 
-While  you download the setup files:
+Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
 
-You ** do not need ** to supply your name or email address in order to download our product. 
+  
+**What Are Cookies?**
 
-While you install and use our product in your PC:
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-You ** do not need** to supply your name or email address in order to use our product. While running in your PC our software **will not communicate** to any other computer through internet.
+  
+**IP Addresses**
 
-While you write to us: (Your name and email address)
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
 
-We ** do not** maintain any email list, we do not grab your email address from your email and your email address will not be passed to others, We will use your email address just to reply. After that your email stays in our "In box" and our reply stays in our "Sent item" folder in one PC for reference.
+  
+**Email Information**
 
-**While you order our product: (Your credit card number)**
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
-_We are not collecting your credit card number_ _._
+  
+**How Do We Use the Information That You Provide to Us?**
 
-We are selling through the popular online stores **Plimus,** **Regnow[](http://www.esellerate.net/) ** and **ShareIt** who do the credit card payment processing for us, and they do not pass the credit card number to us. Our credit card payment processing with with them use **SSL** (secured socket layer). There is no problem in using credit card in a secured site. It is safer then passing the credit card through a waiter in a restaurant. In case of online order no human being is seeing your credit card number. When you enter the card number it goes through their secured server, so no one can get the info (your email, address, card no. etc..).
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
 
-While you order our product: (Your name, email address and postal address)
+Nsasoft Us, LLC will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-We will get to know your email address that is used to send the license. In few cases we may write one more email showing you additional info like how to install etc, it depends on your comments you wrote while ordering. We just keep the email addresses in the backup, to use it to search and find in case you write to us in future. 
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-Information sharing:
+**  
+A Special Note About Children**
 
-We **do not** rent or sell your personally identifying information like email to others. We only store the info for our own record.
+Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
 
-Confidentiality and Security:
+  
+**How Do We Protect Your Information and Secure Information Transmissions?**
 
-For site security purposes and to ensure that this service remains available to all users, this website uses a special security software that monitors suspicious network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. We take necessary security measures to protect our data. 
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
+
+Nsasoft Us, LLC may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users, Nsasoft Us, LLC uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+  
+**Policy Changes**
+
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+**  
+Contact**
+
+If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
+
+Nsasoft Us, LLC  
+2215-B Renaissance Drive #2660 Las Vegas, NV 89119  
+818-850-6642  
+info@nsasoft.us
