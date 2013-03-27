@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celtx.com privacy policy that was archived on 2012-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121113105423id_/https%3A//www.celtx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celtx.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327084112id_/https%3A//www.celtx.com/privacy.html) for the most accurate reproduction.*
 
-# celtx - Privacy
+# Celtx - Privacy
 
 This privacy policy is designed to assist you in understanding how celtx uses and safeguards the information and resources that you provide to us.
 
