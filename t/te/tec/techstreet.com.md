@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125205505id_/http%3A//www.techstreet.com/sec_priv.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstreet.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327210630id_/http%3A//www.techstreet.com/sec_priv.tmpl) for the most accurate reproduction.*
 
 # Techstreet Privacy Statement
 
