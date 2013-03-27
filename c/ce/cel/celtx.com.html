@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the celtx.com privacy policy that was archived on 2012-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121113105423id_/https%3A//www.celtx.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the celtx.com privacy policy that was archived on 2013-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130327084112id_/https%3A//www.celtx.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <title>celtx - Privacy</title>
+    <title>Celtx - Privacy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="keywords" content="  ">
     <meta name="description" content="  ">
@@ -10,11 +10,11 @@
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">
 window.cx_uri = function(path) { 
-  return '/celtx/1.59/en-US/ux' + '/' + path;
+  return '/celtx/1.75/en-US/ux' + '/' + path;
 };
 	</script>
-<script type="text/javascript" src="/celtx/1.59/en-US/ux/scripts/module_cxmodules.js"></script>
-<script type="text/javascript" src="https://s3.amazonaws.com/celtx.com/assets/1.59/javascript/jlabel-1.3-min.js"></script>
+<script type="text/javascript" src="/celtx/1.75/en-US/ux/scripts/module_cxmodules.js"></script>
+<script type="text/javascript" src="https://s3.amazonaws.com/celtx.com/assets/1.70/javascript/jlabel-1.3-min.js"></script>
     
 
 	<!-- Basic Page Needs
@@ -37,19 +37,34 @@ window.cx_uri = function(path) {
 
 	<!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/assets/1.59/css/base.css">
-	<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/assets/1.59/css/skeleton.css">
-	<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/assets/1.59/css/layout.css">
-	<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/assets/1.59/css/header.css">
+
+	<link rel="stylesheet" href="https://s3.amazonaws.com/celtx.com/assets/1.70/css/styles.css">
 
 	<!-- Favicons
 	================================================== -->
 	<link rel="shortcut icon" href="favicon.ico">
-	<!-- <link rel="apple-touch-icon" href="https://s3.amazonaws.com/celtx.com/assets/1.59/images/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="https://s3.amazonaws.com/celtx.com/assets/1.59/images/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="https://s3.amazonaws.com/celtx.com/assets/1.59/images/apple-touch-icon-114x114.png"> -->
+	<!-- <link rel="apple-touch-icon" href="https://s3.amazonaws.com/celtx.com/assets/1.70/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://s3.amazonaws.com/celtx.com/assets/1.70/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://s3.amazonaws.com/celtx.com/assets/1.70/images/apple-touch-icon-114x114.png"> -->
 	
+
+	<!--[if IE 9]>
+		<style>
+			.www-body #topBar{
+				filter: progid:DXImageTransform.Microsoft.gradient(enabled='false');
+			}
+			.www-body #topBar #topnav li a.btn-inverse{
+				filter: progid:DXImageTransform.Microsoft.gradient(enabled='false');
+				background: #333 !important;
+			}
+		</style>
+	<![endif]-->
+
   	<script type="text/javascript">
+
+  	if (typeof console == "undefined") {
+    	this.console = {log: function() {}};
+	}
 	
 	var cxm = cx.module.Manager.getInstance();
 	cxm.load("cxauth", function() {
@@ -105,7 +120,6 @@ window.cx_uri = function(path) {
 			}
 			else{
 				$('#signInDiv').hide();
-				$('#dashboard-logo').fadeIn();
 				
 				//$('#loggedInDiv').fadeIn();
 				//$('#loggedInUsername').text(cx.auth.Session.getInstance().getUserId());
@@ -123,7 +137,7 @@ window.cx_uri = function(path) {
 		
 		signupSuccess = function(email){
 			_gaq.push(['_trackEvent', 'Login', 'Create Account']);
-			window.location.href = "/signedup.html";
+			window.location.href = "/signedup.html?email=" + encodeURI(email);
 		},
 		
 		validate = function(user, pass, messageEl){
@@ -229,8 +243,16 @@ window.cx_uri = function(path) {
 		$(document).ready(function() {
 			setupLogin();
 			setupSignup();		
-			$('.j-label').jLabel();
-			$(this).find('#email_id').focus();
+			$('input[type="submit"]').removeAttr('disabled');
+			var i = 1;
+			$('.j-label').each(function(){
+				if(!$(this).attr('id')){
+					$(this).attr('id', 'jlabel'+i);
+					$sib = $(this).siblings('label').attr('for', 'jlabel'+i);
+					i++;
+				}
+				$(this).jLabel();
+			});
 		});
 	};
     
@@ -252,72 +274,69 @@ window.cx_uri = function(path) {
 
 </script>
 
+
   </head>
-  <body id="" class="">
+  <body id="" class="www-body ">
     
 <!-- Top Bar and Menu
 ================================================== -->
 
-<div style="width: 100%; position:absolute; top: 0px; z-index:3" id="topBar">
-	<div style="position:absolute; width:100%">
-	
+<div id="topBarContainer">
+<div id="topBar">	
+	<div class="globalNavContainer">
+			<div class="globalNav">
+				<div class="logo">
+					<a href="/">
+						<img src="https://s3.amazonaws.com/celtx.com/assets/1.70/images/celtxLogo.png" alt="Celtx Logo">
+					</a>
+				</div>
+				<ul id="topnav">
+					<li>
+						<a href="products.html">Products</a>
+					</li>
+					<li>
+						<a href="http://celtx.tumblr.com/" target="_new">Blog</a>
+					</li>
+					<li>
+						<a href="seeds.html">Seeds</a>
+					</li>
+					<li>
+						<a href="support.html">Support</a>
+					</li>
+					<li>
+						<a href="contact.html">Contact</a>
+					</li>
+					<li class="pull-right" style="position:relative;">
+						<a href="#" id="login-btn" class="btn btn-inverse btn-large">Sign in</a>
+						<div id="login-or-signin" class="pull-right" style="display:none;">
+						<div id="loggedInDiv">
+							<a style="color: white !important; display: inline-block; text-align: center; margin-top: -9px;" class="btn btn-large" href="/">Go back to your <span style="font-weight:bold">Celtx Account</span></a>
+						</div>
+						<div id="signInDiv" class="well dropdown-menu">
+							<form id="sign-in" class="clearfix" name="sign-in" method="post">
+								<ul id="loginFields" style="float:right; margin-bottom: 5px;">
+									<li class="inputFields clearfix">
+										<label class="placeholder-input" for="email_id">email</label>
+										<input type="email" name="email_id" value="" id="email_id" class="homeUsername wicked" autocorrect="off" autocapitalization="off">
+									</li>
+									<li class="inputFields clearfix">
+										<label class="placeholder-input" for="password_id">password</label>
+										<input type="password" name="password_id" id="password_id" class="homePassword wicked"></li>
+									<li class="homeLogIn" style="padding-right:5px"><input class="btn" type="submit" disabled="" id="btnLogin" value="Log In" onsubmit="_gaq.push(['_trackEvent', 'Login', 'Submit']);"></li>
+								</ul>
+								<div id="login-failed-msg" class="pull-left" style="height:11px; color:#b94a48;font-size:11px;visibility:hidden;font-weight:bold;padding-left:6px;"></div>
+								<div class="pull-right" style="height:11px; color:white;font-size:11px"><a href="reset.html">Trouble logging in?</a></div>
+							</form>
+						</div>
+					</div>
+					</li>
+				</ul>
+				
+			</div>
+			
+		</div>
 	</div>
 </div>
-
-<div style="position:absolute; top:0px; width:100%;  z-index:4">
-	<div style="margin: 0px auto; width: 1024px;">
-		<div class="globalNavContainer">
-			<div class="logo">
-				<a href="/">
-					<img style="display:none" id="dashboard-logo" src="https://s3.amazonaws.com/celtx.com/assets/1.59/images/dash-logo-small.png" alt="Dashboard Logo">
-					<img src="https://s3.amazonaws.com/celtx.com/assets/1.59/images/celtxLogo.png" alt="Celtx Logo">
-				</a>
-			</div>
-			<ul id="topnav">
-				<li>
-					<a href="about.html">About</a>
-				</li>
-				<li>
-					<a href="http://celtx.tumblr.com/" target="_new">Blog</a>
-				</li>
-				<li>
-					<a href="seeds.html">Seeds</a>
-				</li>
-				<li>
-					<a href="http://forums.celtx.com/viewforum.php?f=20&amp;sid=df429adc587df40d4c0a1e0a1f412cd0" target="_new">Forums</a>
-				</li>
-				<li>
-					<a href="support.html">Support</a>
-				</li>
-				<li>
-					<a href="contact.html">Contact</a>
-				</li>
-			</ul>
-		</div>
-		<div id="login-or-signin" class="pull-right">
-					<div id="loggedInDiv">
-						<a style="color: white !important; display: inline-block; text-align: center; margin-top: -9px;" class="btn btn-large btn-primary" href="/">Go back to your <span style="font-weight:bold">Celtx Account</span></a>
-					</div>
-					<div id="signInDiv" class="well">
-						<form id="sign-in" class="clearfix" name="sign-in">
-							<ul id="mainNav" style="float:right;">
-								<li class="inputFields">
-									<label for="email_id">email</label>
-									<input type="email" name="email_id" value="" id="email_id" class="j-label homeUsername wicked" autocorrect="off" autocapitalization="off">
-								</li>
-								<li class="inputFields">
-									<label for="password_id">password</label>
-									<input type="password" name="password_id" id="password_id" class="j-label homePassword wicked"></li>
-								<li class="homeLogIn"><input type="submit" id="btnLogin" value="Log In" onsubmit="_gaq.push(['_trackEvent', 'Login', 'Submit']);"></li>
-							</ul>
-							<div id="login-failed-msg" class="pull-left" style="height:11px; color:#b94a48;font-size:11px;visibility:hidden;font-weight:bold"></div>
-							<div class="pull-right" style="height:11px; color:white;font-size:11px"><a href="reset.html">Trouble logging in?</a></div>
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
-
 
 <noscript>
 	<div id="noscript">
@@ -327,6 +346,29 @@ window.cx_uri = function(path) {
 		</div>
 	</div>
 </noscript>
+<script>
+	$(document).ready(function(){
+		$('#login-btn').click(function(e){
+			$('#login-or-signin').fadeToggle(function(){
+				if($(this).is(':visible')){
+					$('#email_id, #password_id').jLabel();
+					$('#email_id').focus();
+				}
+			});
+			e.preventDefault();
+		});
+
+		var currentUrl = document.URL;
+
+		$('#topnav a').each(function(){
+			var href = $(this).attr('href');
+			if(currentUrl.indexOf(href) > 0){
+				$(this).addClass('active');
+				return;
+			}
+		});
+	});
+</script>
 
     
 
@@ -361,7 +403,7 @@ window.cx_uri = function(path) {
 	<div class="clear"></div>
 	<div id="footer-container">
 		<div class="footer">
-			<a href="about.html">About</a>
+			<a href="products.html">Products</a>
 			<a href="http://celtx.tumblr.com/">Blog</a>
 			<a href="seeds.html">Seeds</a>
 			<a href="https://studio.celtx.com">Studio Login</a>
