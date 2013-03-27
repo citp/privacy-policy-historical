@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winpcap.org privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021084121id_/http%3A//www.riverbed.com/us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winpcap.org privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328002602id_/http%3A//www.riverbed.com/us/privacy_policy.php) for the most accurate reproduction.*
 
 # Title of Web Page
 
@@ -26,7 +26,7 @@ We may receive and store any information you enter on our web site or provide to
 
 ### E-mail Communications
 
-We may receive a confirmation when you open an e-mail from Riverbed if your computer supports this type of program. We may also compare our customer list with lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please unsubscribe at: [http://www.riverbed.com/us/unsubscribe.php](https://web.archive.org/web/20121021084121id_/http%3A//www.riverbed.com/us/unsubscribe.php)[.](https://web.archive.org/web/20121021084121id_/http%3A//www.riverbed.com/us/unsubscribe.php)
+We may receive a confirmation when you open an e-mail from Riverbed if your computer supports this type of program. We may also compare our customer list with lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please unsubscribe at: [http://www.riverbed.com/us/unsubscribe.php](https://web.archive.org/web/20130328002602id_/http%3A//www.riverbed.com/us/unsubscribe.php)[.](https://web.archive.org/web/20130328002602id_/http%3A//www.riverbed.com/us/unsubscribe.php)
 
 ### What About Cookies?
 
@@ -53,3 +53,6 @@ Riverbed may amend this Privacy Policy from time to time. Use of information we 
 ## Questions or Concerns
 
 If you have any questions or concerns regarding this Privacy Policy, please send a detailed message to [info@riverbed.com](mailto:info@riverbed.com). We will make every effort to resolve your concerns.
+
+**Riverbed. WAN optimization for your network: Application acceleration, WAN bandwidth optimization, and IT consolidation**  
+Riverbed Technology delivers performance for the globally connected enterprise. With Riverbed, enterprises can successfully and intelligently implement strategic initiatives such as virtualization, consolidation, cloud computing, and disaster recovery without fear of compromising performance. By giving enterprises the platform they need to understand, optimize and consolidate their IT, Riverbed helps enterprises to build a fast, fluid and dynamic IT architecture that aligns the business needs of the organization. Additional information about Riverbed (NASDAQ: RVBD) is available at www.riverbed.com.
