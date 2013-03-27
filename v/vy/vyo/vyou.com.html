@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the vyou.com privacy policy that was archived on 2012-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121025154031id_/http%3A//vyou.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vyou.com privacy policy that was archived on 2013-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130327055835id_/http%3A//vyou.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:foaf="http://xmlns.com/foaf/0.1/"><!-- <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> --><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# vyoucom: http://ogp.me/ns/fb/vyoucom#">
-  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://d1gp8joe0evc8s.cloudfront.net/horizon/v1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <link rel="foaf:primaryTopic foaf:maker" href="#me">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-Type" content="text/html; charset=utf-8">
 
 
-  <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://d1gp8joe0evc8s.cloudfront.net/horizon/v1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-        <link rel="stylesheet" type="text/css" media="all" href="/css/prod/latest.css?673737.14354693284253936.0808865">
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+        <link rel="stylesheet" type="text/css" media="all" href="/css/prod/latest.css?511056.176699852921418160.53332">
       <script type="text/javascript" src="/js/prod/latest.js?999505.102511123819531218.583856"></script>
           
     <script type="text/javascript">
@@ -28,6 +29,7 @@
 <script type="text/javascript">
     var iUser = {};
     var currentMsg = {};
+    var js_host = 'http://vyou.com/';
 	function getInternetExplorerVersion() {
 	    var rv = -1; // Return value assumes failure.
 	    if (navigator.appName == 'Microsoft Internet Explorer') {
@@ -117,19 +119,8 @@
       var currentState;
       var record_panel = '<div id="record_panel_content" >Loading...</div>';
       var record_panel_loaded = 0;
-      (function(){
-  	    $.ajax({
-  		      url: "/index/recordermodal/",
-  		      success: function (data) {
-  		    	  record_panel = data;
-  		    	  record_panel_loaded = 1;
-  		      },
-  		      error:function(data){
-  		    	  //console.log('open question box failed to load');
-  		      }
-  		    });	
-  	   })();
 	   
+      	  
       var fbTimelineAction = { 'watch' : 0,
                               'record' : 0,
                               'hasSeenDesc': 0 };
@@ -140,15 +131,19 @@
   		    display_name : "false",
   		    username : "false",
   		    token : "false",
+    		  votable: 0,
   		    group_id : 'false',
   		    fb_linked : "0",
   		    tw_linked : "0",
   		    tm_linked : "0",
-    		num_followed : "0",
-		fbTimelineAction : { 'watch' : 0,
+  		    votable: 0,
+    		  num_followed : "0",
+		      fbTimelineAction : { 'watch' : 0,
                                  'record' : 0,
-                                 'hasSeenDesc': 0 }
+                                 'hasSeenDesc': 0 },
+                                 'recorder_port': "",
   		};
+
       var redirect_obj = {
   			controller:'',
   			action:'',
@@ -168,6 +163,17 @@
                 <li class="first horz_nav_list"><a id="vyou_logo_home" href="/"></a></li>
                 <li class="horz_nav_list"><a href="/popular">Answers</a></li>
                 <li class="horz_nav_list"><a href="/questions">Questions</a></li>
+                <li class="horz_nav_list people_nav_wrapper">
+                    <div id="ddw_people" class="left_nav_dd">
+                       <a href="/people">People</a>
+                       <div class="navigation_dropdown_left clearfix">
+                            <ul class="left_nav_list clearfix">
+                                <li class="left_dd_li"><a class="left_dd_link" href="/people/popular">Everyone</a></li>
+                                <li class="left_dd_li"><a class="left_dd_link" href="/groups">Groups</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
             </ul>
 
             <!-- Logged IN Left Nav -->
@@ -193,6 +199,18 @@
                                 <li class="left_dd_li"> <a class="left_dd_link" href="/questions/popular">by Everyone</a> </li>
                                 <li class="left_dd_li"> <a class="left_dd_link" href="/questions/activityfeed">by People I Follow</a> </li>
                                 <li class="left_dd_li"> <a class="left_dd_link" href="/sent/p/all">I've Asked</a> </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="horz_nav_list">
+                    <div id="ddw_people" class="left_nav_dd">
+                       <a href="/people">People</a>
+                       <div class="navigation_dropdown_left clearfix">
+                            <ul class="left_nav_list clearfix">
+                                <li class="left_dd_li"><a class="left_dd_link" href="/people/popular">Everyone</a></li>
+                                <li class="left_dd_li"><a class="left_dd_link" href="/people/follow">People I Follow</a></li>
+                                <li class="left_dd_li"><a class="left_dd_link" href="/groups">Groups</a></li>
                             </ul>
                         </div>
                     </div>
@@ -233,7 +251,7 @@
                     <ul>
                         <li id="manage_link_html"><a href="/profile/p/0#manage" onclick="init_person('',0);return false;">Manage Videos</a></li>
                         <li class="register"><a href="/mysettings">Settings</a></li>
-                        <li><a href="http://help.vyou.com/">Help</a></li>
+                                                <li><a href="http://help.vyou.com/">Help</a></li>
                         <li class="register"><a href="http://help.vyou.com/customer/portal/emails/new">Contact</a></li>
                         <li><a href="/about">About</a></li>
                         <li><a href="http://vyou.com/communityguidelines">Guidelines</a></li>
@@ -285,7 +303,7 @@
                         </div>
                          <div class="blank_slate_copy" style="" id="fb_watch_not_connected">
                              Connect Your VYou account to your Facebook.
-                            <div class="facebook_button fb_login_btn_sml" id="fb_sign_up" onclick="Fb_Login();">
+                            <div class="facebook_button fb_login_btn_sml" id="fb_sign_up" onclick="Fb_Login({from:'crowdview'});">
                                 <img src="/images/buttons/fb_btn_icon_lrg.png" alt="facebook-f" class="facebook_f" height="43">
                                 <div class="facebook_button_text">Connect</div>
                                 <div class="clear"></div>
@@ -311,7 +329,7 @@
     <div id="sexy_search_top_shadow" style="display:none;"></div>
     </div>
 	  
-	      <div id="layout_right_col_content">
+	      <div id="layout_right_col_content" class="clearfix">
       
 	    
 <style>
@@ -457,7 +475,7 @@ Privacy Policy </h1>
 </div> <!-- /wrapper -->
  
 
-            <script type="text/javascript" src="/js/vyou/main.prod.js" ?673737.14354693284253936.0808865"=""></script>    
+            <script type="text/javascript" src="/js/vyou/main.prod.js" ?511056.176699852921418160.53332"=""></script>    
 <script type="text/javascript">
 //$(window).resize(function() {  resize_layout(); });
 //$(window).scroll(function() {  resize_layout(); });
@@ -681,7 +699,7 @@ function getDocHeight() {
 <script type="text/javascript"> 
   VY.C.s3_url = "http://vythumb.s3.amazonaws.com/";
   VY.C.s3_res = "http://cdn-responsethumb.vyou.com/";
-  VY.C.unixtime = "1351179631";
+  VY.C.unixtime = "1364363915";
   VY.C.search_ip = ["search.vyou.com:80"];
   window.setInterval(function () {
       VY.C.unixtime++;
@@ -721,25 +739,33 @@ function getDocHeight() {
 	}
 	function Fb_Login(data){
 		$.fancybox.close();
-		//$.fancybox.showActivity();
 		if(typeof data !== 'undefined'){
 		    FROM = typeof data.from !== 'undefined' ? data.from : 'undefined';		    
 		}else{
 		    FROM='crowdview';
 		}
+		$.fancybox.close();
 		FB.login(function(response) {
+
 	   if (response.authResponse) {
+         data['accesstoken'] = response.authResponse.accessToken;
 	     FB.api('/me', function(response) {
 			$.post('/user/facebookconnect/',data,function (resp) {
 				$.fancybox.hideActivity();
-
 				if(resp.STATUS == 'SUCCESS_s' || resp.STATUS == 'SUCCESS_s_MYHOME'){
+					try{
+						if('queued' in vid_data_obj){
+							saveRecording();
+						}
+					}catch(err){
+						///
+					}
 					if(FROM === 'undefined'){
 						composeSignupAnalytics('end','profile','', 'FB');
                         window.location ='/setup/follow';
 					}else{
                         if(FROM == 'follow'){
-                        	composeSignupAnalytics('end','profile','follow', 'FB');
+                            composeSignupAnalytics('end','profile','follow', 'FB');
     	                    loginCallback(resp.questions, resp.notifs, resp.iUser);
     	                    dofollow_post_signup();
     	                    $('#followed_notif_options').show();
@@ -751,7 +777,11 @@ function getDocHeight() {
                         }else if(FROM == 'badges'){
                         	composeSignupAnalytics('end','profile','stamps', 'FB');
                         	loginCallback(resp.questions, resp.notifs, resp.iUser);
-            				getBadgeTotals(page.screen.whatIsPlaying);   
+            				getBadgeTotals(page.screen.whatIsPlaying);
+                        } else if (FROM == 'questionvote') {
+                            refresh_voting_list(resp.iUser,resp.ping_id,resp.vote_count);
+                            composeSignupAnalytics('end','profile','votequestion', 'email');
+                            loginCallback(resp.questions, resp.notifs, resp.iUser);
                         }else{
                         	composeSignupAnalytics('end','profile','', 'FB');
                         }
@@ -761,7 +791,9 @@ function getDocHeight() {
 					var analytics_sent = false;
 					asyncLogin();
 					loginCallback(resp.questions, resp.notifs, resp.iUser);
-
+					if( typeof vid_data_obj != 'undefined' && 'queued' in vid_data_obj){
+						saveRecording();
+					}
 					if(FROM=='ask'){
     					exit_ask_mode();
     					show_done_panel();    
@@ -787,7 +819,12 @@ function getDocHeight() {
     						analytics_sent = true;
             				getBadgeTotals(page.screen.whatIsPlaying);   
     					}    
-	                }
+                    } else if (FROM == 'questionvote') {
+                        refresh_voting_list(resp.iUser,resp.ping_id,resp.vote_count);
+                        if(analytics_sent == false && 'signup' in resp){
+                            composeSignupAnalytics('end','profile','votequestion', 'email');
+                        }
+		            }
 	                
 					if(analytics_sent == false && 'signup' in resp){
 						composeSignupAnalytics('end','profile','', 'FB');
@@ -889,68 +926,10 @@ function getDocHeight() {
       //ARE IN CV.JS!!!!
       
       function indv_record_session(ping_id, message, video_type,montage_id,vuser_id, vuser_display_name){
-          //window.location = '/record';
-          // return;
-      	currentMsg = {'ping_id':ping_id, 'ping_question':message,'video_type':video_type,'montage_id':montage_id,'vuser_id':vuser_id,'vuser_display_name':vuser_display_name};
-		open_record_modal(currentMsg.ping_question);
-
+          window.location.href = js_host+'record/' + montage_id;
+          console.log('asdf');
       }
-      
-      function open_record_modal(msg, single){
-         
-  	
-  	  //	if( $('.scroll_to.top') ){ $('.scroll_to.top').hide(); }
-  	  	var wid = single ? 1120 : 1120;
-  		var fancybox_params={
-  	        'scrolling'		 : 'no',
-  	        'titleShow'		 : false,
-  	        'padding'		 : 0,
-  	        'transitionIn'	 : 'none',
-  	        'overlayColor'	 : 'white',  
-  			'centerOnScroll' :  false,
-  			'autoDimensions' :  false,      
-  			'height' 		 : 	610,
-  			'showCloseButton': false,
-  			'onStart': function () {
-  				//$('#inbox_wrap, #fancybox-wrap, #fancybox-outer, #fancybox-content').width(wid);
-  			},
-  			'onComplete': function() {
-  			    loadRecordModalComplete(false);
-  			    $('#inbox_search_input').focus();
-  		    },
-  			'onClosed' : function () {
-  				//$('html').removeAttr('style');
-  				//$('#inbox_wrap, #fancybox-wrap, #fancybox-outer, #fancybox-content').removeAttr('style');
-  			}
-  	    };
-  	    
-  	    fancybox_params.href = '/index/recordermodal/msg/'+encodeURIComponent(msg);
-  		$.fancybox(fancybox_params);
-  		
-  	}
 
-      function loadRecordModalComplete(out){
-  		
-  	    var inboxTab = $('#inbox_tab');
-  	    var modalWrap = $('#inbox_wrap, #fancybox-content');
-  		var arrow =  $('#inbox_arrow_notch');
-  		var modalCurrWidth = 650;
-  		var move = ($('body').width() - 1120)/2;
-
-  		inboxTab.on ({
-  		"click" : function () {						
-  			$(modalWrap).animate({width: 1120}, 250,function(){$.fancybox.center()});
-  			out = true;
-  			modalCurrWidth = 1120;  
-  			inboxTab.hide();
-  			arrow.text('‚ñ∫');	
-  			if(iUser.logged_in == true){
-				$('#inbox_sidebar_logged_in').show();
-				$('#inbox_sidebar_logged_out').hide();
-  	  	  	}		   	
-  		}
-  		});
-  	}
       function closeOutside ( bind, icon, el ) {
       	//icon is for navigation drop downs.
       	if (bind == true && ! $.data( $(document).get(0), 'events' ).mouseup) {
@@ -1008,23 +987,45 @@ function getDocHeight() {
   	}
 
     function loginCallback(questions, notifs, iuser_data){
-      		iUser = iuser_data;
-		// $('#bcast').show();
-	if(iUser.fb_linked){
-            iUser.fbTimelineAction.watch && $('#fb_watch_box').addClass('on');
-            iUser.fbTimelineAction.record && $('#fb_record_box').addClass('on');
+      	iUser = iuser_data;
+        $('#bcast').show();
+	if(~~iUser.fb_linked){
+	    $('#fb_watch_not_connected').hide();
+	    $('#fb_watch_connected').show();
+            if(~~iUser.fbTimelineAction.watch){
+		$('#fb_watch_box').addClass('on');
+	    }else{
+		$('#fb_watch_box').removeClass('on');
+	    }
+	    if(~~iUser.fbTimelineAction.record){
+		$('#fb_record_box').addClass('on');
+	    }else{
+		$('#fb_record_box').removeClass('on');
+	    }
 
-            (iUser.fbTimelineAction.record || iUser.fbTimelineAction.watch) 
-                && $('#bcast').addClass('connected');$('#bcast').removeClass('not_connnected')&&$('#watch').text('ON')
-                || $('#bcast').addClass('not_connected');$('#bcast').removeClass('connected')&&$('#watch').text('OFF');
-            
-            $('#fb_watch_not_connected').hide();$('#fb_watch_connected').show();
+	    if(~~iUser.fbTimelineAction.record || ~~iUser.fbTimelineAction.watch){
+		$('#bcast').removeClass('not_connected');
+		$('#bcast').removeClass('connected');
+		$('#bcast').addClass('connected');
+		$('#watch').text('ON');
+	    }else{
+	    	$('#bcast').removeClass('not_connected');
+		$('#bcast').removeClass('connected');
+		$('#bcast').addClass('not_connected');
+		$('#watch').text('OFF');
+	    }  
+
             //update checkboxes with broadcast state stuff.
     	    self.setTimeout(function(){
                 timelineWatchCallOut(true)
     	    },1000);
     	}else{
-    	    $('#fb_watch_not_connected').show();$('#fb_watch_connected').hide();
+		$('#fb_watch_not_connected').show();
+		$('#fb_watch_connected').hide();
+	    	$('#bcast').removeClass('not_connected');
+		$('#bcast').removeClass('connected');
+		$('#bcast').addClass('not_connected');
+		$('#watch').text('OFF');
     	}
       		var global_nav = document.getElementById('global_nav'),
       			logged_in_left = document.getElementById('logged_in_left'),
@@ -1221,7 +1222,8 @@ function getDocHeight() {
       
    </script>
 
-  <script id="_crowd_view_tmpl" type="text/template">
+  
+<script id="_crowd_view_tmpl" type="text/template">
 <% 
 var len = _cv.length;
 var show_oq_pending_buttons = (oq_owner && filter=='oqpending');
@@ -1229,35 +1231,25 @@ for (var i = 0; i < len; i+=1) { %>
   <% 
    var cv = _cv[i];
    var onmyprofile=(iUser.user_id == cv.user_id);
-   var msg = cleaninput(cv.message); 
-   var display_name = cleaninput(cv.display_name);
+   var f_msg_len = cv.other_answers > 1 ? 51 : 51;
+   var msg = cleaninput(cv.message);
+   var full_msg =  msg;
+   var has_more_class = '';
+   if ( msg.length > f_msg_len ) { msg = msg.substr( 0, f_msg_len ) + ' <span class="blue_ellip">...</span>'; has_more_class = 'has_more_msg_text'; }
+        var display_name = cleaninput(cv.display_name);
    cv.uniq = +new Date();
    var Q=(cv.is_status_update>0) ? '&nbsp;':'Q';
    var box_class=(cv.is_status_update>0) ? 'status':'';
+   var num_other_answers = ~~cv.other_answers > 1 ? cv.other_answers + '&nbsp;answers' : '&nbsp;';
   %>
   
-<div class="box <%= box_class %> <%= cv.response_id %>" id="data_video_<%= cv.node_id %>_<%= cv.uniq %>" data-username="<%= cv.username %>">
-    <% if (typeof cv.featured_text == 'string' && cv.featured_text.length>0) { %>
-        <% if (filter=='popular' || filter=='random' || filter=='recent') { %>
-            <% if (cv.featured_group_id > 0) { %>
-                <span class="user_featured_settings" onclick="init_group('<%= cv.featured_group_id %>','<%= cv.featured_text %>');">
-                    <span><%= cv.featured_text %></span>
-                </span>
-            <% } else { %>
-                <span class="user_featured_settings" onclick="window.location.href='http://vyou.com/<%= cv.username %>';">
-                    <span><%= cv.featured_text %></span>
-                </span>
-            <% } %>
-        <% } %>
-    <% } %>
-    
+<div class="box <%= box_class %> <%= cv.response_id %>" id="data_video_<%= cv.node_id %>_<%= cv.uniq %>" data-username="<%= cv.username %>">    
     <div class="crowd_answerCircleBG"><%= Q %></div>
      <div class="crowd_single_response_question msg">
-        <span class="msg_text"><%= msg %></span>
-        <% if(~~cv.other_answers > 1){ %>
-                <span class="answerby" ><a class="answerby" href="/oq/p/<%= cv.montage_id %>" onclick="refresh_filter('oq','<%= cv.montage_id %>');return false;" ><%= cv.other_answers %>&nbsp;answers</a></span>
-        <% } %>
+        <span class="msg_text <%=has_more_class%> " data-full_msg= "<%=full_msg%>"><%= msg %></span>
+        <span class="answerby" ><a class="answerby" href="/oq/p/<%= cv.montage_id %>" onclick="refresh_filter('oq','<%= cv.montage_id %>');return false;" ><%= num_other_answers %></a></span>
       </div> 
+      <div class="notch">&nbsp;</div>
        
         <div class="post_play_wrap" id="pp_video_<%= cv.node_id %>_<%= cv.uniq %>" style="display:none" >
             <a href="http://vyou.com/<%= cv.username %>" class="this_full_name"><%= display_name %></a>
@@ -1269,43 +1261,62 @@ for (var i = 0; i < len; i+=1) { %>
                 <a href="javascript:void(0);" onclick="followFromCrowd('<%= cv.user_id %>');" class="blue_button <%= cv.user_id %>_follow follow_pp_button">Follow</a>
 
             <div class="clear line"></div>
+            
+            <div class="progress_spinner play_state <%= mv_test_class %>" onclick="play_pause('video_<%= cv.node_id %>_<%= cv.uniq %>', '<%= cv.user_id %>', '<%= cv.response_id %>');" id="crowd_play_video_<%= cv.node_id %>_<%= cv.uniq %>" >&nbsp;</div>
+            
         </div>
         
         <div class="video_controls_wrapper" onclick="play_pause('video_<%= cv.node_id %>_<%= cv.uniq %>', '<%= cv.user_id %>', '<%= cv.response_id %>');">
             <% if(onmyprofile){ %>
-                <a class="manage_response icon" href="javascript:void(0);" onclick="closeOutsideManage(event);">&nbsp;</a>
+                <a class="manage_response icon" href="javascript:void(0);" onclick="closeOutsideManage(event);setdisablecommentcopy(<%= cv.response_id %>)">&nbsp;</a>
                  <div class="manage_response_spatula">
                      <a class="disable_comments" id="<%= cv.response_id %>_disable_comments" onclick ="disable_comments(<%= cv.response_id %>);" href="javascript:void(0);">Disable Comments</a>
                      <a class="delete_video" id="<%= cv.response_id %>_delete_video" onclick="delete_video('<%= cv.node_id %>','<%= cv.ping_id %>','<%= cv.response_id %>');" href="javascript:void(0);">Delete Video</a>
                  </div>
             <% } %>
             
-            <div class="progress_spinner play_state fade " id="crowd_play_video_<%= cv.node_id %>_<%= cv.uniq %>" >&nbsp;</div>
-            <div class="progress_spinner play_state " id="play_btn_video_<%= cv.node_id %>_<%= cv.uniq %>"  >&nbsp;</div>
-            <div class="play_me " id="playme_video_<%= cv.node_id %>_<%= cv.uniq %>" ><span id="playans_video_<%= cv.node_id %>_<%= cv.uniq %>" class="play_copy" >Play Answer</span></div>
+            <div class="progress_spinner play_state fade <%= mv_test_class %> " id="crowd_play_video_<%= cv.node_id %>_<%= cv.uniq %>" >&nbsp;</div>
+            <div class="progress_spinner play_state <%= mv_test_class %>" id="play_btn_video_<%= cv.node_id %>_<%= cv.uniq %>" >&nbsp;</div>
+            <div class="play_me <%= mv_test_class %>" id="playme_video_<%= cv.node_id %>_<%= cv.uniq %>" ><span id="playans_video_<%= cv.node_id %>_<%= cv.uniq %>" class="play_copy" >Play Answer</span></div>
                     
-            <div class="pill_wrap" id="pill_wrap_<%= cv.node_id %>_<%= cv.uniq %>">
-                <div class="response_share_wrap pill" id="share_pill_video_<%= cv.node_id %>_<%= cv.uniq %>" onclick="stopBubble(event);handleShareVis( this, '','<%= cv.user_id %>');" >&nbsp;</div>
+        </div>
+        
+        <div class="video_section" >
+    
+            <div id="thumb_video_<%= cv.node_id %>_<%= cv.uniq %>" class="fallBackThumb"><img onerror="this.src='//cdn-responsethumb.vyou.com/lg_default-avatar.png'" height="192" width="256" src="//cdn-responsethumb.vyou.com/lg_<%= cv.thumbnail %>" /></div>
+
+            <div id="video_<%= cv.node_id %>_<%= cv.uniq %>" >
+                <div id="http://vyou.com/server/geturl/file_name/<%= cv.video_address %>/"></div>
+            </div>
+        </div>
+        
+        <div class="btm_actions top_lvl">
+        
+            <div class="stamp_wrap">
+                <div class="stamp_btn white_button" id="<%= cv.node_id %>stamp_node" onclick="handleStampVis(event);" data-name="Love" >Like</div>
+                <div class="share_pop_up on_btm stamp" id="stamp_<%= cv.node_id %>" >
+                    <a href="javascript:void(0);" class="stamp_icon lol" onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="LOL">LOL</a>
+                    <a href="javascript:void(0);" class="stamp_icon hot" onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="Hot">Hot</a>
+                    <a href="javascript:void(0);" class="stamp_icon tal" onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="Talented">Talented</a>
+                    <a href="javascript:void(0);" class="stamp_icon wise"onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="Wise">Wise</a>
+                    <a href="javascript:void(0);" class="stamp_icon cute"onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="Cute">Cute</a>
+                    <a href="javascript:void(0);" class="stamp_icon omg" onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="OMG">OMG</a>
+                </div>
+            </div>
+        
+            <div class="pill_wrap on_btm white_button" id="pill_wrap_<%= cv.node_id %>_<%= cv.uniq %>">
+                <div class="response_share_wrap pill on_btm" id="share_pill_video_<%= cv.node_id %>_<%= cv.uniq %>" onclick="handleShareVis( this, '','<%= cv.user_id %>');" >&nbsp;</div>
             
-                <div class="share_pop_up" onclick="stopBubble(event);" id="popup_<%= cv.node_id %>_<%= cv.uniq %>" >
+                <div class="share_pop_up on_btm" id="popup_<%= cv.node_id %>_<%= cv.uniq %>" >
                     <a href="javascript:void(0);" class="fbx" onclick="share('fb','<%= cv.node_id %>','<%= cv.uniq %>', $('#this_display_name_<%= cv.node_id %>_<%= cv.uniq %>').html() ,'<%= cv.status_update %>','http://vyou.com/');" ></a>
                     <a href="javascript:void(0);" class="twx" onclick="share('tw','<%= cv.node_id %>','<%= cv.uniq %>', $('#this_display_name_<%= cv.node_id %>_<%= cv.uniq %>').html(),'<%= cv.status_update %>','http://vyou.com/');" ></a>
                     <a href="javascript:void(0);" class="embx" onclick="embedVideo('<%= cv.user_id %>','<%= cv.node_id %>');" >&#60;&#62; Embed</a>
                 </div>
             </div>
-   
-            <div class="video_section" >
-        
-                <div id="thumb_video_<%= cv.node_id %>_<%= cv.uniq %>" class="fallBackThumb"><img onerror="this.src='//cdn-responsethumb.vyou.com/lg_default-avatar.png'" height="192" width="256" src="//cdn-responsethumb.vyou.com/lg_<%= cv.thumbnail %>" /></div>
-    
-                <div id="video_<%= cv.node_id %>_<%= cv.uniq %>" >
-                    <div id="http://vyou.com/server/geturl/file_name/<%= cv.video_address %>/"></div>
-                </div>
-            </div>
-            
+            <div class="clear"></div>
         </div>
         
-        <div class="btm_actions  clearfix">
+        <div class="btm_actions">
               <a id="this_display_name_<%= cv.node_id %>_<%= cv.uniq %>" href="/<%= cv.username %>" class="name_copy btm_btn"><%= display_name %></a>
               <% if(typeof cv.action_id != 'undefined'){
                   show  = (iUser.logged_in && cv.action_id>1) ? 'display:block':'';
@@ -1324,8 +1335,11 @@ for (var i = 0; i < len; i+=1) { %>
 		      
               <a href="javascript:void(0);" class="btm_btn_ask btm_btn" onclick="initiateAskOpenQuestionModal('<%= cv.user_id %>', $('#this_display_name_<%= cv.node_id %>_<%= cv.uniq %>').html(), '' );return false;">Ask</a>
               <a href="javascript:void(0);" class="follow <%= cv.user_id %>_follow btm_btn" onclick="followFromCrowd(<%= cv.user_id %>);setFollowTarget(event);return false;" >Follow</a>
+              <div class="clear"></div>
           </div>
+    
     </div>
+    
 <% } %>
 </script>
 
@@ -1337,6 +1351,10 @@ for (var i = 0; i < len; i+=1) {
     var cv = _cv_unanswered[i];
     var onmyprofile=(~~iUser.user_id == ~~cv.user_id); 
     var msg = cleaninput(cv.message); 
+    var f_msg_len = cv.other_answers > 1 ? 51 : 51;
+    var full_msg =  msg;
+    var has_more_class = '';
+    if ( msg.length > f_msg_len ) { msg = msg.substr( 0, f_msg_len ) + ' <span class="blue_ellip">...</span>'; has_more_class = 'has_more_msg_text'; }
     var display_name = cleaninput(cv.display_name);
     cv.uniq = Math.round(Math.random()*10000)/1;
     if (typeof(cv.box_class)==='undefined') {
@@ -1354,7 +1372,7 @@ for (var i = 0; i < len; i+=1) {
     <div class="crowd_answerCircleBG">Q</div>
     <div class="crowd_single_response_question">
         <% if (typeof(cv.case !== 'undefined')) { %><span class="case"><%= cv.case %></span><% } %>
-            <%= msg %><br />
+            <span class="msg_text <%=has_more_class%>" data-full_msg="<%=full_msg%>" ><%= msg %></span> <br />
         <% if (typeof(cv.q_a_info !== 'undefined')) { %><span class="answerby"><%= cv.q_a_info %></span><span class="answerby">by <a href="http://vyou.com/<%= cv.username %>"><%= display_name %></a></span><% } %>
     </div>
     
@@ -1365,13 +1383,14 @@ for (var i = 0; i < len; i+=1) {
     <% } %>
 
     <% if(box_type=='unanswered'){ %>
-        <div class="post_play_wrap" style="display:block;position:relative;">
+        <div class="post_play_wrap" >
             <div class="contain_info">
                 <div class="clear line"></div>
                 <div class="un_answered_block" >
                     This Question has no Answers.
                 </div>
                 <div class="clear line"></div>
+                <div class="progress_spinner play_state" onclick="play_pause('video_<%= cv.node_id %>_<%= cv.uniq %>', '<%= cv.user_id %>', '<%= cv.response_id %>');" id="crowd_play_video_<%= cv.node_id %>_<%= cv.uniq %>" >&nbsp;</div>
             </div>
         </div>
     <% } %>
@@ -1386,7 +1405,11 @@ for (var i = 0; i < len; i+=1) {
                 <a href="javascript:void(0);" class="emb" onclick="embedVideo('<%= cv.user_id %>','<%= cv.ping_id %>');" >&nbsp;</a>
             </div>
             <div class="clear line"></div>
+
+            <div class="progress_spinner play_state" onclick="play_pause('video_<%= cv.node_id %>_<%= cv.uniq %>', '<%= cv.user_id %>', '<%= cv.response_id %>');" id="crowd_play_video_<%= cv.node_id %>_<%= cv.uniq %>" >&nbsp;</div>
+
         </div>
+
         <div class="video_section" onclick="play_pause('video_<%= cv.node_id %>_<%= cv.uniq %>','<%= cv.user_id %>', '');"></div>
     <% } %>
     <% if(box_type=='video'){ %>
@@ -1400,13 +1423,16 @@ for (var i = 0; i < len; i+=1) {
                 <a href="javascript:void(0);" onclick="followFromCrowd('<%= cv.user_id %>');" class="blue_button <%= cv.user_id %>_follow follow_pp_button">Follow</a>
 
             <div class="clear line"></div>
+            
+            <div class="progress_spinner play_state" onclick="play_pause('video_<%= cv.node_id %>_<%= cv.uniq %>', '<%= cv.user_id %>', '<%= cv.response_id %>');" id="crowd_play_video_<%= cv.node_id %>_<%= cv.uniq %>" >&nbsp;</div>
+
         </div>
         
-        <div class="video_controls_wrapper">
+        <div class="video_controls_wrapper" onclick="play_pause('video_<%= cv.node_id %>_<%= cv.uniq %>','<%= cv.user_id %>', '');">
             <% if(onmyprofile){ %>
-                <a class="manage_response icon" href="javascript:void(0);" onclick="closeOutsideManage(event);">&nbsp;</a>
+                <a class="manage_response icon" href="javascript:void(0);" onclick="setdisablecommentcopy(<%= cv.response_id %>);closeOutsideManage(event);">&nbsp;</a>
                  <div class="manage_response_spatula">
-                     <a class='disable_comments' id='<%= cv.response_id %>_disable_comments' href="javascript:void(0);">Disable Comments</a>
+                     <a class='disable_comments' id='<%= cv.response_id %>_disable_comments' href="javascript:void(0);" onclick="disable_comments(<%= cv.response_id %>);">Disable Comments</a>
                      <a class='delete_video' id='<%= cv.response_id %>_delete_video' href="javascript:void(0);">Delete Video</a>
                      <% if(cv.is_status_update<1){ %>
                          <a class='rerecord_video' id='<%= cv.response_id %>_rerecord_video' href="javascript:void(0);">Re-Record</a>                         
@@ -1414,30 +1440,45 @@ for (var i = 0; i < len; i+=1) {
                  </div>
             <% } %>
             
-            <div class="progress_spinner play_state fade" id="crowd_play_video_<%= cv.node_id %>_<%= cv.uniq %>"  onclick="play_pause('video_<%= cv.node_id %>_<%= cv.uniq %>');" >&nbsp;</div>
-            <div class="progress_spinner play_state" id="play_btn_video_<%= cv.node_id %>_<%= cv.uniq %>"onclick="play_pause('video_<%= cv.node_id %>_<%= cv.uniq %>');"  >&nbsp;</div>
-            <div class="play_me" id="playme_video_<%= cv.node_id %>_<%= cv.uniq %>"  onclick="play_pause('video_<%= cv.node_id %>_<%= cv.uniq %>');" ><span id="playans_video_<%= cv.node_id %>_<%= cv.uniq %>" class="play_copy" >Play Answer</span></div>
-   
-            <div class="pill_wrap" id="pill_wrap_<%= cv.node_id %>_<%= cv.uniq %>">
-                <div class="response_share_wrap pill" id="share_pill_video_<%= cv.node_id %>_<%= cv.uniq %>" onclick="stopBubble(event);handleShareVis( this, '','<%= cv.user_id %>');" >&nbsp;</div>
+            <div class="progress_spinner play_state fade" id="crowd_play_video_<%= cv.node_id %>_<%= cv.uniq %>" >&nbsp;</div>
+            <div class="progress_spinner play_state" id="play_btn_video_<%= cv.node_id %>_<%= cv.uniq %>" >&nbsp;</div>
+            <div class="play_me" id="playme_video_<%= cv.node_id %>_<%= cv.uniq %>" ><span id="playans_video_<%= cv.node_id %>_<%= cv.uniq %>" class="play_copy" >Play Answer</span></div>
+        </div>
+        
+        <div class="video_section" >
+            <div id="thumb_video_<%= cv.node_id %>_<%= cv.uniq %>" class="fallBackThumb"><img height="192" width="256" src="//cdn-responsethumb.vyou.com/lg_<%= cv.thumbnail %>" /></div>
+
+            <div id="video_<%= cv.node_id %>_<%= cv.uniq %>">
+                <div id="http://vyou.com/server/geturl/file_name/<%= cv.video_address %>" type="video/mp4"></div>
+            </div>
+        </div>
+  
+        <div class="btm_actions top_lvl">
+        
+            <div class="stamp_wrap">
+                <div class="stamp_btn white_button" id="<%= cv.node_id %>stamp_node" onclick="handleStampVis(event);" data-name="Love" >Like</div>
+                <div class="share_pop_up on_btm stamp" id="stamp_<%= cv.node_id %>" >
+                    <a href="javascript:void(0);" class="stamp_icon lol" onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="LOL">LOL</a>
+                    <a href="javascript:void(0);" class="stamp_icon hot" onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="Hot">Hot</a>
+                    <a href="javascript:void(0);" class="stamp_icon tal" onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="Talented">Talented</a>
+                    <a href="javascript:void(0);" class="stamp_icon wise"onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="Wise">Wise</a>
+                    <a href="javascript:void(0);" class="stamp_icon cute"onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="Cute">Cute</a>
+                    <a href="javascript:void(0);" class="stamp_icon omg" onclick="sendStampCV(event,<%= cv.node_id %>);" data-name="OMG">OMG</a>
+                </div>
+            </div>
+        
+            <div class="pill_wrap on_btm white_button" id="pill_wrap_<%= cv.node_id %>_<%= cv.uniq %>">
+                <div class="response_share_wrap pill on_btm" id="share_pill_video_<%= cv.node_id %>_<%= cv.uniq %>" onclick="handleShareVis( this, '','<%= cv.user_id %>');" >&nbsp;</div>
             
-                <div class="share_pop_up" onclick="stopBubble(event);" id="popup_<%= cv.node_id %>_<%= cv.uniq %>" >
-                    <a href="javascript:void(0);" class="fbx" onclick="share('fb','<%= cv.node_id %>','<%= cv.uniq %>', '<%= msg %>', $('#this_display_name_<%= cv.node_id %>_<%= cv.uniq %>').html() ,'<%= cv.status_update %>','http://vyou.com/');" ></a>
-                    <a href="javascript:void(0);" class="twx" onclick="share('tw','<%= cv.node_id %>','<%= cv.uniq %>', '<%= msg %>', $('#this_display_name_<%= cv.node_id %>_<%= cv.uniq %>').html(),'<%= cv.status_update %>','http://vyou.com/');" ></a>
+                <div class="share_pop_up on_btm" id="popup_<%= cv.node_id %>_<%= cv.uniq %>" >
+                    <a href="javascript:void(0);" class="fbx" onclick="share('fb','<%= cv.node_id %>','<%= cv.uniq %>', $('#this_display_name_<%= cv.node_id %>_<%= cv.uniq %>').html() ,'<%= cv.status_update %>','http://vyou.com/');" ></a>
+                    <a href="javascript:void(0);" class="twx" onclick="share('tw','<%= cv.node_id %>','<%= cv.uniq %>', $('#this_display_name_<%= cv.node_id %>_<%= cv.uniq %>').html(),'<%= cv.status_update %>','http://vyou.com/');" ></a>
                     <a href="javascript:void(0);" class="embx" onclick="embedVideo('<%= cv.user_id %>','<%= cv.node_id %>');" >&#60;&#62; Embed</a>
                 </div>
             </div>
-   
-            <div class="video_section"  onclick="play_pause('video_<%= cv.node_id %>_<%= cv.uniq %>',  '<%= cv.user_id %>', '<%= cv.response_id %>');">
-        
-
-                <div id="thumb_video_<%= cv.node_id %>_<%= cv.uniq %>" class="fallBackThumb"><img height="192" width="256" src="//cdn-responsethumb.vyou.com/lg_<%= cv.thumbnail %>" /></div>
-    
-                <div id="video_<%= cv.node_id %>_<%= cv.uniq %>">
-                    <div id="http://vyou.com/server/geturl/file_name/<%= cv.video_address %>" type="video/mp4"></div>
-                </div>
-            </div>
+            <div class="clear"></div>
         </div>
+        
         
         <div class="btm_actions clearfix">
             <a id="this_display_name_<%= cv.node_id %>_<%= cv.uniq %>" href="/<%= cv.username %>" class="name_copy btm_btn"><%= display_name %></a>
@@ -1451,18 +1492,64 @@ for (var i = 0; i < len; i+=1) {
 <% } %>
 </script>
 
+<script id="_crowd_view_person_tmpl" type="text/template">
+<% 
+
+var len = d.length;
+for (var i = 0; i < len; i+=1) { %>
+  <% 
+   var user = d[i];
+   var bio_more_btn = '';
+   var bio = cleaninput(user.bio).substr(0,90);
+   if ( /^$/.test( cleaninput(user.bio) ) ) {
+       bio = '<em style="color:#999999;">No bio</em>';
+   }
+   if( bio.length  >= 90 ) {
+       bio_more_btn = ' <a class="people_box_more" href="http://vyou.com/' + user.username + '" >&nbsp;...</a>';
+   }
+   
+   var follow_add_class = '';
+   var follow_btn_copy = 'Follow';
+   if(peep_page_filter.indexOf('follow') != -1 || typeof user.is_following != 'undefined' && user.is_following == 1 ) {
+       var follow_btn_copy = 'Following';
+       var follow_add_class = 'no_button';
+   }
+   
+   var display_name = cleaninput(user.display_name);
+   user.uniq = +new Date();
+
+  %>
+  
+  <div class="box <%= user.user_id %> person_info_box " data-username="<%= user.username %>" >
+        <div  class="fallBackThumb people_box">
+            <a href="http://vyou.com/<%= user.username %>" >
+                <img src="//vyoufbthumb.s3.amazonaws.com/lg_<%= user.avatar_name %>" onerror="this.src='//cdn-responsethumb.vyou.com/lg_default-avatar.png'" width="256" height="192" />
+            </a>
+        </div>
+        <div class="box_user_info">
+            <a href="http://vyou.com/<%= user.username %>" class="person_box_name"><%= display_name %></a>
+            <span class="msg_text user_bio"><%= bio %><%= bio_more_btn %></span>
+	 </div> 
+        <div class="btm_actions box_follow_wrap clearfix">
+            <a id="this_display_name_<%= user.node_id %>_<%= user.uniq %>" href="/<%= user.username %>" class="blue_button follow_in_box <%=follow_add_class%>" onclick="followFromCrowd(<%= user.user_id %>);setFollowTarget(event);return false;" ><%=follow_btn_copy%></a>
+        </div>
+  </div>
+  
+<% } %>
+</script>
+
 <script id="_group_tmpl" type="text/template">
 <% 
   var len = ch.length;
   for (var i = 0; i < len; i++) { %>
   <% var c = ch[i]; %>
-  <div class='box group'>
-      <a href="/group/p/<%= c.id %>" class="group">
-          <img src="//cdn-graphics.vyou.com/<%= c.big_player_img %>" height="212" width="256" />
-      </a>
-      <span class="crowd_single_cnt group_content_span"><%= c.description %></span>
-  </div>
-<% } %>
+      <div class='box group'>
+          <a href="/group/<%= c.url %>" class="group">
+              <img src="//cdn-graphics.vyou.com/<%= c.big_player_img %>" height="212" width="256" />
+          </a>
+          <span class="crowd_single_cnt group_content_span"><%= c.description %></span>
+      </div>
+  <% } %>
 </script>
 
 <script id="_question_tmpl" type="text/template">
@@ -1476,12 +1563,7 @@ for (var i = 0; i < len; i+=1) {
 	var escapedString = cleaninput(msg.ping_question,true);
 	msg.from_display_name = cleaninput(msg.from_display_name,true);
 	var escapedDisplayName = escape(msg.from_display_name);
-
-	if(page == 'profile'){
-    var click_function = "window.location='/record'";
-	}else{
-	var click_function = "indv_record_session(" + msg.ping_id +",'" + escapedString +"', '" +  msg.video_type + "','" + msg.montage_id +"',"+ msg.from_user_id + ", '" + escapedDisplayName + "');";
-	}
+    var click_function = "window.location='/record/" + msg.montage_id+"';";
 %>
 
   <div class='question<%= addClass %>' onclick="<%= click_function %>" >
@@ -1543,17 +1625,18 @@ for (var i = 0; i < len; i+=1) {
 			var gc_text = group_count + ' Members';
 		}
     %>
-    <div class='box group'>
+    <div class='box group w_list'>
         <a onclick="refresh_filter('group',<%= id %>);" class="group">
             <img src="//cdn-graphics.vyou.com/<%= big_player_img %>" height="212" width="256" />
         </a>
         <span class="crowd_single_cnt group_content_span"><%= description %></span>
         <%= addition %>
         <span id="people_crest_tab" ><%=gc_text %> <%= unjoin %></span>
-     
-        <ul class="people_list crest_tab_content">
-        <%= people_html %>
-        </ul>
+        <div class="people_in_group_wrap">
+            <ul class="people_list in_group crest_tab_content">
+            <%= people_html %>
+            </ul>
+        </div>
     </div>
 </script>
 
@@ -1563,23 +1646,30 @@ for (var i = 0; i < len; i+=1) {
    var display_name = cleaninput(display_name);
 %>    
     <div class='box person'>
-    
+        
         <% if(intro_video_url != ''){ %>
-            <div class="video_controls_wrapper">
-					<div class="progress_spinner play_state fade" id="crowd_play_video_intro" onclick="play_pause('video_intro', '<%= id %>', '');" >&nbsp;</div>
-                    <div class="progress_spinner play_state" id="play_btn_video_intro" onclick="play_pause('video_intro', '<%= id %>', '');">&nbsp;</div>
-                    <div class="play_me" id="playme_video_intro" onclick="play_pause('video_intro', '<%= id %>','');" >Play <a style= "display:inline; color:##0C8ABF;" href="/<%= username %>" ><%= display_name %></a></div>
-                    <div class="video_section" onclick="play_pause('video_intro', '<%= id %>', '');">
-                        <div id="intro_thumb" class="fallBackThumb" ><img height="192" width="256" src="//cdn-fbthumb.vyou.com/lg_<%= avatar %>" /></div>
-                        <video style="height:192px;width:256px;" id="video_intro" class="video" preload="none" height="192" width="256" >
-                            <source src="<%= host_url %>server/geturl/file_name/<%= intro_video_url %>" type="video/mp4" />
-                        </video> 
-                    </div>
-                </div>       
+            <div class="clear_both_wrap clearfix">
+                <div class="video_controls_wrapper"  onclick="play_pause('video_intro', '<%= id %>', '');" >
+                    <div class="progress_spinner play_state fade" id="crowd_play_video_intro" >&nbsp;</div>
+                    <div class="progress_spinner play_state" id="play_btn_video_intro" >&nbsp;</div>
+                    <div class="play_me" id="playme_video_intro" >Play <a style= "display:inline; color:##0C8ABF;" href="/<%= username %>" ><%= display_name %></a></div>
+                </div>
+                <div class="video_section">
+                    <div id="intro_thumb" class="fallBackThumb" ><img height="192" width="256" src="//cdn-fbthumb.vyou.com/lg_<%= avatar %>" /></div>
+                    <video style="height:192px;width:256px;" id="video_intro" class="video" preload="none" height="192" width="256" >
+                        <source src="<%= host_url %>server/geturl/file_name/<%= intro_video_url %>" type="video/mp4" />
+                    </video> 
+                </div>
+            </div>
+        <% } else { %>
+            <a class="clearfix" href="/<%=username %>">         
+                <img class="mng_main_img" src="//cdn-fbthumb.vyou.com/lg_<%= avatar %>" width="256" height="192" />
+            </a>
         <% } %>
-    
-        <a class="person_name" href="/<%= username %>"><%= display_name %></a>
-        <span class="crowd_single_cnt group_content_span"><%= cleaninput(bio) %></span>
+        <div class="box_user_info">
+            <a class="person_box_name" href="/<%= username %>"><%= display_name %></a>
+            <span class="msg_text user_bio"><%= cleaninput(bio) %></span>
+        </div>
         <div class="stats clearfix">
          <div class="stat first">
                 <strong><%= video_count %></strong>   
@@ -1595,7 +1685,6 @@ for (var i = 0; i < len; i+=1) {
            </div>
            <div class="clear">&nbsp;</div>
          </div>
-         <a class="blue_button ask_in_crest" href="/<%=username %>">Go to Profile</a>         
     </div>
 </script>
 
@@ -1628,7 +1717,7 @@ for (var i = 0; i < len; i+=1) {
         </div>
     <% } %>
          <div class="crowd_answerCircleBG">Q</div>
-         <div class="crowd_single_response_question">
+         <div class="crowd_single_response_question oq_msg_wrap">
              <%= msg %>
              <div class="clear"></div>
              <span class="answerby" >Asked by&nbsp;
@@ -1704,9 +1793,9 @@ for (var i = 0; i < len; i+=1) {
 		var css_for_selected = '';
 		var escaped =cleaninput(display_name, true);
 %>
-<div class="autocomplet_question_person" rel="user||<%= display_name %>||<%= user_id %>" <%=css_for_selected %>onclick="addPopulatedBox('user||<%= escaped %>||<%= user_id %>',true);" id="aqp_<%= count %>" >
+<div class="autocomplet_question_person" rel="user||<%= _.escape(display_name) %>||<%= user_id %>" <%=css_for_selected %>onclick="addPopulatedBox('user||<%= _.escape(display_name) %>||<%= user_id %>',true);" id="aqp_<%= count %>" >
     <img height="48" width="60" src='//cdn-thumb.vyou.com/<%= avatar %>'/>
-    <span id="auto_q_<%= username %>" ><%= display_name %></span>
+    <span id="auto_q_<%= username %>" ><%= escaped %></span>
 </div>
 </script>
 
@@ -1735,16 +1824,17 @@ for (var i = 0; i < len; i+=1) {
 %>
     <div>
         <div class="crowd_answerCircleBG">Q</div>
-        <div class="q_content" >
-            <%= msg %>
-            <% if(~~q[i].montage_id>0){ %>
-                <a href='/oq/p/<%= q[i].montage_id %>'  onclick="refresh_filter('oq',<%= q[i].montage_id %>);pv('/public_question/other_answers/<%= q[i].montage_id %>');return false;" <span class="num_answers"> <%= answers %></span></a>
-            <% } %>
-            <span class="q_actions">
-                <a href="javascript:void(0);" class="oq_action" onclick="<%=click_function_now %>pv('/public_question/answer_now/<%= q[i].montage_id %>');" ><span class="q_bull">&nbsp;</span> Answer Now</a><a href="javascript:void(0);" onclick="star_for_later(<%= q[i].montage_id %>);pv('/public_question/save_for_later/<%= q[i].montage_id %>');" id="star_for_<%= q[i].montage_id %>" class="oq_action star"><span class='q_star'>&nbsp;</span> Save For Later</a>
-            </span>
+        <div id="q_cnt_wrapper" class="clearfix">
+            <div class="q_content clearfix" >
+                <%= msg %>
+                <% if(~~q[i].montage_id>0){ %>
+                    <a href='/oq/p/<%= q[i].montage_id %>'  onclick="refresh_filter('oq',<%= q[i].montage_id %>);pv('/public_question/other_answers/<%= q[i].montage_id %>');return false;" <span class="num_answers"> <%= answers %></span></a>
+                <% } %>
+                <span class="q_actions">
+                    <a href="javascript:void(0);" class="oq_action" onclick="<%=click_function_now %>pv('/public_question/answer_now/<%= q[i].montage_id %>');" ><span class="q_bull">&nbsp;</span> Answer Now</a><a href="javascript:void(0);" onclick="star_for_later(<%= q[i].montage_id %>);pv('/public_question/save_for_later/<%= q[i].montage_id %>');" id="star_for_<%= q[i].montage_id %>" class="oq_action star"><span class='q_star'>&nbsp;</span> Save For Later</a>
+                </span>
+            </div>
         </div>
-        <div class="clear"> </div>
     </div>
    <% }%>
    
@@ -1754,12 +1844,12 @@ for (var i = 0; i < len; i+=1) {
     <div id="top_left_crest" class="box questions" style="display:block;">
         <div class="q_content_wrap" >
             <div id="q_header">Public Questions</div>
-            <div id="q_container">
-                <img style="margin: 0 auto;padding-top:41px;" src="/images/crowd_view/cv_mini_loader.gif" />
-                <div class="clear"> </div>
-            </div>
-            <div class="clear">&nbsp;</div>
-         </div>
+                <div id="q_container_wrap" class="clearfix">
+                    <div id="q_container" class="clearfix">
+                        <img style="margin: 0 auto;padding-top:41px;" src="/images/crowd_view/cv_mini_loader.gif" />
+                    </div>
+                </div>
+             </div>
             <div class="clear">&nbsp;</div>
          <img id='public_question_loader' src="/images/crowd_view/cv_mini_loader.gif" />
          <div id="q_footer" onclick="getSideOpenQuestionCrest();">Load More Questions</div>
@@ -1823,7 +1913,7 @@ for (var i = 0; i < len; i+=1) {
               <div class="navigation_dropdown" id="answers_list" >
                  <div class="recent_questions_header">
 					<h2>My Questions to Answer</h2>
-					<a onclick="open_record_modal('inPageNavBtn');" href="javascript:void(0);" id="answers_href" > ▶ See All</a>
+					<a href="/record" id="answers_href" > ▶ See All</a>
 					<div class="clear"> </div>
 				</div>
               </div>
@@ -1942,11 +2032,13 @@ for (var i = 0; i < len; i+=1) {
   
   <script>
       </script>
-  <script>
+    <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 </script>
 
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","d584b1a31d","309315","Z11RN0dRWEFUAUBQXl4XcBZGRFlfGkg=",0,213,new Date().getTime(),"","","","",""]);</script>
 
 
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
