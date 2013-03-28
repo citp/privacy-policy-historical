@@ -1,1136 +1,231 @@
-<!--The following is the downloaded HTML source of the schoollibraryjournal.com privacy policy that was archived on 2012-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121016101449id_/http%3A//www.schoollibraryjournal.com/csp/cms/sites/SLJ/Info/privacypolicy.csp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schoollibraryjournal.com privacy policy that was archived on 2013-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130328053330id_/https%3A//shop.mediasourceinc.com/policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
+	Policy
+</title><link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="jquery/jquery.alerts.js" type="text/javascript"></script>
+    <link href="jquery/jquery.alerts.css" rel="stylesheet" type="text/css" media="screen">
+    
+    <script type="text/javascript">
 
-<!-- FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/head.csp -->
-<script type="text/javascript"> function doLog(logStatement){}</script>
-<script type="text/javascript">
-	var cookies_enabled = false;
-	function dti_ad_area_HTMLDecode(textToDecode)
-	{      
-		var result = textToDecode
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-16323142-10']);
+        _gaq.push(['_trackPageview']);
 
-		if (result && result != '')
-		{
-			var amp = '&';
-			var gt = '>';
-			var lt = '<';
-			var quot = '"';
-			var apos = "'";
-			var iframe_disabled = "ifrme_not";
-			var iframe_enabled = "iframe";
-		
-		
-			var html_gt = /&gt;/gi;
-			var html_lt = /&lt;/gi;
-			var html_amp = /&amp;/gi;
-			var html_quot = /&quot;/gi;
-			var html_apos = /&apos;/gi;
-			var html_39Ref = /&#39;/gi;
-			var search_iframe_disabled = /ifrme_not/gi;
-			var search_iframe_enabled = /iframe/gi;
-		
-			result = result.replace(search_iframe_enabled, iframe_disabled);
-			result = result.replace( html_amp,amp);
-			result = result.replace(html_quot, quot);
-			result = result.replace(html_39Ref, quot);
-			result = result.replace( html_lt, lt);
-			result = result.replace(html_gt, gt);
-			result = result.replace(html_apos, apos);
-			result = result.replace(search_iframe_disabled, iframe_enabled);
-		}
-		return result;
-	}
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
 
-	// Finds a movie with the 
-	function dti_ad_area_PlayMovie(id)
-	{
-		//console.log("dti_play_area_PlayMovie("+id+")");
-		var player =document.getElementById(id);
-		if (player != null && player.IsPlaying() == false)
-		{
-			player.Play();
-		}
-		else
-		{
-			setTimeout("dti_ad_area_PlayMovie('"+id+"')", 1000);
-		}
-	}
-
-	// Stores the adRequest objects so they don't get garbage collected before the response is finished.
-	function XHRContainer()
-	{
-		var xhrArray = [];
-		var next = 0;
-		
-		this.getNewRequest = function() {
-			var req = new adRequest();
-			var index = next++;
-			xhrArray[index] = req;
-			req.containerIndex = index;
-			return req;
-		}
-		
-		this.disposeRequest = function(req) {
-			xhrArray[req.containerIndex] = null;
-		}	
-	}
-	
-	var adReqContainer = new XHRContainer();
-	
-	/* Gets the value of a cookie */
-	function Get_Cookie( check_name ) 
-	{
-		// first we'll split this cookie up into name/value pairs
-		// note: document.cookie only returns name=value, not the other components
-		var a_all_cookies = document.cookie.split( ';' );
-		var a_temp_cookie = '';
-		var cookie_name = '';
-		var cookie_value = '';
-		var b_cookie_found = false; // set boolean t/f default f
-
-		for ( i = 0; i < a_all_cookies.length; i++ )
-		{
-			// now we'll split apart each name=value pair
-			a_temp_cookie = a_all_cookies[i].split( '=' );
+</script>
 
 
-			// and trim left/right whitespace while we're at it
-			cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
-
-			// if the extracted name matches passed check_name
-			if ( cookie_name == check_name )
-			{
-				b_cookie_found = true;
-				// we need to handle case where cookie has no value but exists (no = sign, that is):
-				if ( a_temp_cookie.length > 1 )
-				{
-					cookie_value = unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g, '') );
-				}
-				// note that in cases where cookie is initialized but no value, null is returned
-				return cookie_value;
-				break;
-			}
-			a_temp_cookie = null;
-			cookie_name = '';
-		}
-		if ( !b_cookie_found )
-		{
-			return null;
-		}
-	}
-
-	
-	/* Sets a cookie that will allow ads to be served in a faster way */
-	function enableFastAdServing()
-	{
-		
-		var name = "_dtFastAds2";
-		var value = 1;
-		var path = "/";
-		var expireDays = 7;
-		var domain = null;
-		var secure = null;
-		
-		// set time, it's in milliseconds
-		var today = new Date();
-		today.setTime( today.getTime() );
-		
-		var expires = expireDays * 1000 * 60 * 60 * 24;
-		var expires_date = new Date( today.getTime() + (expires) );
-		
-		document.cookie = name + "=" +escape( value ) +
-		( ( expires ) ? ";expires=" + expires_date.toGMTString() : "" ) +
-		( ( path ) ? ";path=" + path : "" ) +
-		( ( domain ) ? ";domain=" + domain : "" ) +
-		( ( secure ) ? ";secure" : "" );
-		
-		// make sure cookies are enabled by getting the cookie we just set.
-		cookies_enabled = Get_Cookie(name);
-	}
-	
-	enableFastAdServing();
-
-	function adRequest()
-	{
-		this.xmlhttp = null;
-		this.divId = "";
-		this.stateChange = adRequest_StateChange;
-		this.loadXMLDoc = adRequest_loadXMLDoc;
-	}
-	var isMozilla = false;
-	function GetXmlHttpObject()
-	{
-		var xmlhttp=null;
-		if (window.XMLHttpRequest)
-		  {
-		  // code for IE7+, Firefox, Chrome, Opera, Safari
-		  	xmlhttp=new XMLHttpRequest();
-		  	isMozilla = true;
-		  }
-		else if (window.ActiveXObject)
-		  {
-		  // code for IE6, IE5 - giving errors, just return an empty object and treat as not supporting scripts
-		 // xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-		  isMozilla = false
-		  
-		  }
-		else
-		  {
-		 // alert("Your browser does not support XMLHTTP!");
-		 	// returning an empty object emulates the <noscript> tag
-		  }	
-		  return xmlhttp;
-	}
-
-	function adRequest_loadXMLDoc(url, index, noScriptContents, areaName, theId)
-	{
-		this.xmlhttp=GetXmlHttpObject();
-		var divId = index + 1;
-		var itemId = theId+".adSlot"+divId
-		
-		if (this.xmlhttp!=null)
-		  {
-			  url = url + "&itemId="+itemId;
-			  this.xmlhttp.owner = this
-			  this.xmlhttp.onreadystatechange=this.stateChange;
-			  this.xmlhttp.open("GET",url,true);
-			  this.divId = itemId
-			  if (isMozilla == true)
-			  {
-			  	this.xmlhttp.send(null);
-			  }
-			  else
-			  {
-				  this.xmlhttp.send();
-			  }			  
-		  }
-		else
-		  {
-		  	var outStr = noScriptContents + "&itemId="+itemId;
-		  	var adSlotName = itemId;
-			var adSlot = document.getElementById(adSlotName);
-			if (adSlot)
-			{
-				adSlot.innerHTML= dti_ad_area_HTMLDecode(outStr);
-			}
-			else
-			{
-				doLog("NON-AJAX: failed to find element: "+adSlotName);
-				
-			}
-		  }
-	}
-
-	function adRequest_StateChange()
-	{
-		var xmlhttp;
-		xmlhttp = this.owner.xmlhttp
-
-		if (xmlhttp != null && xmlhttp != "")
-		{
-			if (xmlhttp.readyState==4)// 4 = "loaded"
-			{
-				if (xmlhttp.status == 200)// 200 = "OK"
-				{
-					var adSlotName = this.owner.divId
-					adSlot = document.getElementById(adSlotName);
-					if (adSlot)
-					{
-						adSlot.innerHTML=xmlhttp.responseText;
-					}
-					else
-					{
-						doLog("AJAX RESPONSE: failed to find div: "+adSlotName);
-					}
-				}
-				else
-				{
-					doLog("AJAX RESPONSE: Problem retrieving data:" + xmlhttp.statusText);
-				}
-				adReqContainer.disposeRequest(this.owner);
-			}
-		}
-	}
-
-	function serveAds(refreshAdRate, numSlots, encodedURL, noScriptContents, areaName, theId)
-	{
-		countDown = refreshAdRate;
-	
-		for (loop = 0; loop < numSlots ;++loop)
-		{
-			var xmlhttpRequest = adReqContainer.getNewRequest();
-			xmlhttpRequest.loadXMLDoc(encodedURL, loop, noScriptContents, areaName, theId);
-		}
-	
-		if (refreshAdRate > 0)
-		{
-			t=setTimeout("serveAds("+ refreshAdRate + ", " + numSlots + ", '" + encodedURL + "', '" + noScriptContents + "', '"+ areaName + "', '" + theId + "')", refreshAdRate * 1000); 
-		}
-	}
-	</script>
-<!-- FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/ad.csp -->
-
-<!--calling the server-->
-
-
-
-
-
-
-<style type="text/css">
-#lightbox
-{
-    background: #333;
-    display: none; 
-    height: 100%;
-    left: 0; 
-    opacity: 0.6;
-    filter: alpha(opacity=60);
-    position: fixed; 
-    top: 0; 
-    width: 100%;
-    height:1500px;
-    z-index: 1200;
-}
-#whitebox 
-{
-    background: #fff;
-    display: none;
-    font-size: 12pt;    
-    left: 50%;
-    margin-left: -300px;
-    padding: 10px 10px 0px 10px;
-    top:10px;
-    position: absolute;
-    text-align: center;     
-    z-index: 1300;
-    vertical-align:middle;
-}
-#roadblock 
-{
-    background: #fff;
-    display: none;
-    font-size: 12pt;   
-    left: 45.5%;   
-    margin-left: -300px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    width:660px;
-    position: absolute;
-    text-align: center;        
-    z-index: 1300;
-    vertical-align:middle;
-}
-<!--
-.skipad {
-display:block;
-clear:both;
-text-align:center;
-width:658px;
-
-}-->
-</style>
-<script type="text/javascript">
-function getCookie(c_name)
-{
-if (document.cookie.length>0)
-  {
-  c_start=document.cookie.indexOf(c_name + "=");
-  if (c_start!=-1)
-    {
-    c_start=c_start + c_name.length+1;
-    c_end=document.cookie.indexOf(";",c_start);
-    if (c_end==-1) c_end=document.cookie.length;
-    return unescape(document.cookie.substring(c_start,c_end));
-    }
-  }
-return "";
-}
-
-function setCookie(c_name,value,expiredays)
-{
-var exdate=new Date();
-exdate.setDate(exdate.getDate()+expiredays);
-var mycookie=c_name+ "=" +escape(value)+((expiredays==null) ? "" : ";expires="+exdate.toUTCString());
-mycookie +=" ;javahere=yes; path=/"; 
-document.cookie = mycookie;
-}
-
-function checkCookie()
-{
-username=getCookie('username');
-if (username!=null && username!="")
-  {  
-	hideAd()
-  }
-else
-  {
-   var currentTime = new Date();
-   var aday = new Array();
-   
-  //Edit Dates Here
-   aday[0] = 00;
-   aday[1] = 00;
-   aday[2] = 00;
-   aday[3] = 00;
-   aday[4] = 00;
-   aday[5] = 00;
-   aday[6] = 00;
-
-
-   
-   for(i=0;i!=aday.length;i++){
-  	if(aday[i]==currentTime.getDate()){ 
-      username="yes";
-      if (username!=null && username!="")
-        {    	 
-             setCookie('username',username,1);
-             showAd(); 
-             var timedisplay = 16000;                         																																																																																																																																																																																																																																												setTimeout("document.getElementById('whitebox').style.display='none';document.getElementById('roadblock').style.display='none';document.getElementById('lightbox').style.display='none';",+ timedisplay );             
+    <style type="text/css">
+        
+        .style1
+        {
+            height: 60px;
         }
-     }
-    }          
-  }
-}  
-function hideAd()
-{
-	document.getElementById('whitebox').style.display='none';
-	document.getElementById('roadblock').style.display='none';
-	document.getElementById('lightbox').style.display='none';
-}
-function showAd()
-{
-     document.getElementById('whitebox').style.display='block';
-	 document.getElementById('roadblock').style.display='block';
-	 document.getElementById('lightbox').style.display='block';
-} 
-</script>
+        .style2
+        {
+            width: 80px;
+        }
+        
+        #lblogoutAccount
+        {   
+            width: 27    
+        } 
+      
+        
+        #hplaccount
+        {   width: 27 }
+        
+        #myaccount
+        {   width: 27 }
+        #register
+        {   width: 27}
+        .style3
+        {
+            width: 2px;
+        }
+    </style>
+    
+    
 </head>
-<body onload="checkCookie();">
-<span id="NOINDEX" style="z-index:1000;">
-<div id="lightbox"></div>
-
-    <div id="whitebox">
-        <!-- Ad tag should be placed here-->        
-                   
-        <!-- Ad tag ends-->         
-                <div id="roadblock">     
-                <div class="content">
-                    <div class="skipad">
-                        <center><a title="" href="javascript:void(0)" onclick="document.getElementById('whitebox').style.display='none';document.getElementById('roadblock').style.display='none';document.getElementById('lightbox').style.display='none'" rel="nofollow">SKIP THIS AD &gt;&gt;</a></center>
-                    </div>
-                    <br>
-                    <br>
-                    <p class="rbadv">ADVERTISEMENT<br>
-                        <span class="rbtext">You will be redirected to your destination in a few seconds.</span>
-                    </p>
-                </div>            
-        <script language="JavaScript" type="text/javascript">
-        var timedisplay = 16000;                         																																																																																																																																																																																																																																												setTimeout("document.getElementById('whitebox').style.display='none';document.getElementById('roadblock').style.display='none';document.getElementById('lightbox').style.display='none';",+ timedisplay );
-        </script>       
-                </div><!--roadblock -->
-    </div><!--whitebox-->    
-</span><!-- noindex -->
-
-
-<!--/FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/ad.csp, took .008312 -->
-
-<!-- CSS -->
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/slj.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/CharacterStyles.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/ParagraphStyles.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/anylinkmenu.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/PagingAreas.css" media="screen">
-<script type="text/javascript" src="/csp/cms/sites/SLJ/assets/scripts/PagingAreas.js"></script>
-
-
-
-<!--<dti:file:include base="assets" file="/includes/testads.csp">-->
-
-<!-- Google Analytics Code-->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-16325127-1");
-pageTracker._setDomainName(".schoollibraryjournal.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- Google Analytics Code End-->
-
-<!-- Special Ad Start -->
-<script type="text/javascript">
-GA_googleAddAttr("site", "SLJ");
-
-              
-               
-        </script>
-
-<meta name="google-site-verification" content="DnxtUbEiEUqjx1LsLUP9Ir5wghTzmGsjNnqijuAvucw">
-<!-- Special Ad End --> 
-
-<!--Double Click Ad -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJ_webcasts");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-<!--end Double Click Ad -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-
-<script type="text/javascript">
-GA_googleAddAttr("Site", "SLJ");
-
-              
-               
-        </script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJHalfpage300x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJLeaderboard728x90");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJLeaderboard728x90_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJRectangle300x250");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJRectangle300x250_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJSkyscraper160x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJTicker920x25");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJBoomBox336x280");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJPushdownExpandable983x25");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJSearchButton88x31");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-
-<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
-<script src="http://vjs.zencdn.net/c/video.js"></script>
-<!--/FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/head.csp, took .009014 -->
-
-
-
-
-<!-- FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/wrapper.csp -->
-<script type="text/javascript">
-GA_googleAddAttr("site", "SLJ");
-
-              
-               
-        </script><!-- JEP DDI, 061420010, NEwsletter Link update-->
-
-<div id="wrapper">
-<!--script language="JavaScript" type="text/javascript">
-  draw_0X0MN();
-</script>
--->
-<!-- END BURST CODE -->
-<!-- Google Analytics Code-->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-16325127-1");
-pageTracker._setDomainName(".schoollibraryjournal.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- Google Analytics Code End-->
-<!--- BLOG RSS FEED --->
-<!-- Special Ad Start -->
-<script type="text/javascript">
-GA_googleAddAttr("site", "SLJ");
-
-              
-               
-        </script>
-
-
-<!-- Special Ad End --> 
-
-<!--Double Click Ad -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJ_webcasts");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-<!--end Double Click Ad -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-1872221973353849");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJHalfpage300x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJLeaderboard728x90");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJLeaderboard728x90_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJRectangle300x250");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJRectangle300x250_2");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJSkyscraper160x600");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJTicker920x25");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJBoomBox336x280");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJMarketing160x160");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJPushdownExpandable983x25");
-GA_googleAddSlot("ca-pub-1872221973353849", "SLJSearchButton88x31");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-<script type="text/javascript">
-GA_googleAddAttr("site", "SLJ");
-
-              
-               
-        </script>
-<!---BLOG RSS FEED END--->
-
-
-<meta name="verify-v1" content="zJ5ITkWHl1JmnlxvaUYZUqtDjKRnX9x0LzreGSuYxU4=">
-
-
-    
-<title>Libraries, Schools Join In - School Library Journal</title>
-
-<meta name="robots" content="index, follow">
-<meta http-equiv="pragma" content="no-cache">
-<meta name="copyright" content="MediaSource, Inc.">
-
-<meta name="language" content="English">
-<meta name="MSSmartTagsPreventParsing" content="TRUE">
-<meta name="distribution" content="Global">
-<meta name="rating" content="General">
-<meta name="expires" content="Never">
-<meta name="revisit-after" content="7 Days">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Language" content="en-us">
-
-<meta name="rbindustry" content="Publishing">
-<meta name="rbbuckettype" content="article">
-<meta name="rbportal" content="rbius">
-<meta name="rbpubid" content="SLJ">
-<meta name="rbpubname" content="School Library Journal">
-
-<meta name="rbtitle" content="Libraries, Schools Join In&nbsp;Autism Awareness Month">
-<meta name="rbtaxonomy" content="School Library Journal/Topics/People#School Library Journal/Homepage - Top Stories">
-<meta name="rbstring1" content="">
-<meta name="rbstring2" content="">
-<meta name="rbstring3" content="">
-<meta name="rbstring4" content="">
-<meta name="rbint1" content="">
-<meta name="rbnib2" content="">
-
-
-
-  
-
-<link rel="stylesheet" type="text/css" href="/csp/cms/sites/SLJ/assets/css/slj.css">
-<link rel="shortcut icon" type="image/x-icon" href="/csp/cms/sites/SLJ/assets/images/favIconSLJ.ico">
-
-
-<script language="JavaScript" src="/csp/cms/sites/SLJ/assets/scripts/slj.js" type="text/javascript"></script>
-<script type="text/javascript" src="/csp/cms/sites/SLJ/assets/scripts/swfobject.js"></script>
-
-
-
-<div align="center"></div>
-<div id="wrapper">
-
-<!-- BEGIN RICH-MEDIA Reed Business CODE 
-<script language="JavaScript" type="text/javascript">
-  draw_0X0MN();
-</script>
- END BURST CODE -->
-
-<div id="headerContainer">
-<span class="noindex">
-<div id="headerLogin">
-<div style="position: absolute; top: 4px; left: 10px;">
-	<!--<a href="http://mobile.schoollibraryjournal.com/" class="" rel="nofollow">School Library Journal Mobile</a>-->
-</div>
- <!--		<dti:user:logged:in>
-		   Hello 
-        	 <dti:user:info fieldType="personalInfo" field="FirstName"> 
-   			 <dti:user:info fieldType="personalInfo" field="LastName"> 
-        	
-        	<a href="#(gPublication.getPublicationPath())#/usermanagement/updateprofile.csp?section=#(gSection.name)#" style="color:#fff;">My Account</a> 
-			| <a class="thickbox" href="#(gPublication.getPublicationPath())#/usermanagement/signout.csp?height=220&width=670" title="Log Out - Library Journal">Log Out</a>
-			<dti:else>
-			Hello, Guest
-			| <a class="thickbox" href="#(gPublication.getPublicationPath())#/usermanagement/signin.csp?height=225&width=675" title="Log In - Library Journal">Log In</a> | <a href="#(gPublication.getPublicationPath())#/usermanagement/signup.csp?s=nonstory">Register</a> 
-      </dti:user:logged:in>-->
-
-<a style="vertical-align:top;float:left; padding-left: 10px;" href="https://shop.mediasourceinc.com/Login.aspx?t=login">Log In to your Account</a>
-<!-- start of Login/Welcome field --><!--<a href="http://www.schoollibraryjournal.com/login.asp?regopt=logout">Log In</a>--><!-- end of Login/Welcome field -->&nbsp;&nbsp;<!--|-->&nbsp;&nbsp;<!-- start of Register/Logout link --><!--<a href="http://www.schoollibraryjournal.com/subscribe.asp?go=profile">Register</a>--><!-- end of Register/Logout link -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<!-- start of newsletter/subscribe link -->
-<!--<a style=" text-align:center; padding-right:248px; text-align:center; vertical-align:top;" href="http://reg.accelacomm.com/servlet/Frs.frs?Script=/LP/51113312/reg&Context=START">Search Reviews</a>-->
-
-
-<a href="http://www.schoollibraryjournal.com/csp/cms/sites/SLJ/Info/newsletterSubscription.csp"><img src="/csp/cms/sites/SLJ/assets/images/sljnewnlheader.gif" border="0" align="absmiddle" alt="Free Newsletter Subscription"></a><!-- end of newsletter/subscribe link -->
-
-</div><!--//headerLogin-->
-<div id="header">
-<div id="mainLogo"><a href="http://www.slj.com" class="SLJLogo">School Library Journal</a></div>
-<div id="leaderboard"><!--<span class="adtext"><img src="#(gPublication.getPublicationPath())#/assets/images/rbius_adv_top.gif" width="20" alt="Advertisement" align="left" /></span>-->
-
-
-<!-- BEGIN RICH-MEDIA NETWORK CODE -->
-<!-- <dti:ads:area id="69" name="SLJLeaderboard728x90"> -->
-<!-- SLJLeaderboard728x90 -->
-<script type="text/javascript">
-GA_googleFillSlot("SLJLeaderboard728x90");
-</script>	
-<!-- END BURST CODE -->
-
-
-</div><!-- end leaderboard -->
-</div><!-- end header -->
-
-<div id="navbarContainer">
-<ul id="nav">
-
-<li id="btn1"><a href="http://www.slj.com">Home</a></li>
-
-<li id="btn2"><a name="print">Print Issue</a>
-	<ul> 
-	<li><a href="http://www.schoollibraryjournal.com/slj/articlereview/894916-451/school_library_journal_july_2012.html.csp">Latest Issue</a></li> 
-	<li><a href="/csp/cms/sites/SLJ/PrintIssue/Archive.csp">Archive</a></li>
-   
-                 <li><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SLJ&amp;cds_page_id=67338&amp;cds_response_key=QXXNDST">Subscribe</a></li> 
-
-
-	</ul></li>
-
-     
-<li id="btn3"><a name="reviews">Reviews</a>
-	<ul> 
-	<li><a href="http://bookverdict.com">Book Verdict</a></li> 
-    <li><a href="/csp/cms/sites/SLJ/Reviews/PreToGrade4/index.csp">Preschool to Grade 4</a></li> 
-	<li><a href="/csp/cms/sites/SLJ/Reviews/Grade5AndUp/index.csp">Grades 5 and Up</a></li>
-
-	<li><a href="/csp/cms/sites/SLJ/Reviews/GraphicNovels/index.csp">Graphic Novels</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Reviews/AdultBooks/index.csp">Adult Books 4 Teens</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Reviews/ProfessionalReading/index.csp">Professional Reading</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Reviews/ReferenceBooks/index.csp">Reference Books</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Reviews/DigitalResources/index.csp">Digital Resources</a></li>
-<li><a href="/csp/cms/sites/SLJ/Reviews/Multimedia/index.csp">Multimedia</a></li>
-
-	<li><a href="/csp/cms/sites/SLJ/Reviews/Spanish/index.csp">Spanish</a></li>
-<li><a href="/csp/cms/sites/SLJ/Reviews/ReviewIndexes/index.csp">Cumulative Indexes</a></li>
-	</ul></li>
-
-
-<li id="btn4"><a name="articles">Articles</a>
-
-	<ul> 
-<li><a href="/csp/cms/sites/SLJ/Articles/Interviews/index.csp">Interviews</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Articles/Awards/index.csp">Awards</a></li>
-
-	<li><a href="/csp/cms/sites/SLJ/Articles/Books/index.csp">Books</a></li>
-<li><a href="/csp/cms/sites/SLJ/Articles/Censorship/index.csp">Censorship</a></li> 
-	<li><a href="/csp/cms/sites/SLJ/Articles/Certification/index.csp">Certification</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Articles/CollectionDevelopment/index.csp">Collection Development</a></li>
-<li><a href="/csp/cms/sites/SLJ/Articles/Copyright/index.csp">Copyright</a></li> 
-<li><a href="/csp/cms/sites/SLJ/Articles/EarlyLearning/index.csp">Early Learning</a></li>
-		<li><a href="/csp/cms/sites/SLJ/Articles/Education/index.csp">Education</a></li>
-
-	<li><a href="/csp/cms/sites/SLJ/Articles/Funding/index.csp">Funding</a></li>
-<li><a href="/csp/cms/sites/SLJ/Articles/InfoLiteracy/index.csp">Info Literacy</a></li>
-<li><a href="/csp/cms/sites/SLJ/Articles/K8/index.csp">K-8</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Articles/ProfessionalDevelopment/index.csp">Professional Development</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Articles/Surveys/index.csp">Surveys</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Articles/ATechnology/index.csp">Technology</a></li>
-<li><a href="/csp/cms/sites/SLJ/Articles/Teens/index.csp">Teens</a></li>
-
-	</ul></li>
-
-<li id="btn5"><a name="Technology">Technology</a>
-
-	<ul> 
-	<li><a href="/csp/cms/sites/SLJ/Technology/DigitalContent/index.csp">Digital Content </a></li>
-	<li><a href="/csp/cms/sites/SLJ/Technology/EducationalTechnology/index.csp">Educational Technology</a></li> 
-	<li><a href="/csp/cms/sites/SLJ/Technology/Gadgets/index.csp">Gadgets</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Technology/Gaming/index.csp">Gaming</a></li>
-
-	<li><a href="/csp/cms/sites/SLJ/Technology/ToolsAndTrends/index.csp">Library Tools and Trends</a></li>
-	<li><a href="/csp/cms/sites/SLJ/Technology/Web20/index.csp">Web 2.0</a></li> 
-	<li><a href="/csp/cms/sites/SLJ/Technology/WebSites/index.csp">Web Sites</a></li> 
-<li><a href="/csp/cms/sites/SLJ/Technology/WebCasts/index.csp">Webcasts</a></li>
-<li><a href="http://www.ebook-summit.com">ebook Summit</a></li>
- <li><a href="http://www.thedigitalshift.com/">The Digital Shift</a></li> 	
-    </ul></li>
-
-<li id="btn6"><a name="Supplements">Supplements</a>
-  <ul> 
- <!--   <li>
-
-<a href="#(gPublication.getPublicationPath())#/Supplements/CurriculumConnections/index.csp">Curriculum Connections</a></li>-->
-    <li><a href="http://www.schoollibraryjournal.com/slj/supplements/seriesmadesimple/894064-363/series_made_simple_-_spring.html.csp">Series Made Simple</a></li>  
-  </ul>
-</li>
-
-<li id="btn7"><a name="extra">Newsletters</a>
-	<ul> 
-	<li><a href="/csp/cms/sites/SLJ/Newsletters/ExtraHelpingArchive/index.csp">Extra Helping</a></li> 
-        <li><a href="/csp/cms/sites/SLJ/Newsletters/CCNewslettersArchive/index.csp">Curriculum Connections</a></li> 
-        <li><a href="/csp/cms/sites/SLJ/Newsletters/SLJTeensArchive/index.csp">SLJTeen</a></li> 
-
-<li><a href="/csp/cms/sites/SLJ/Info/newsletterSubscription.csp">Sign Up</a></li> 
-	</ul></li>
-
-
-<li id="btn8"><a>Blogs</a>
-	<ul> 
-	<li><a href="http://blog.schoollibraryjournal.com/teacozy/">A Chair, A Fireplace &amp; A Tea Cozy</a></li> 
-    <li><a href="http://blog.schoollibraryjournal.com/afuse8production/">A Fuse #8 Production</a></li> 
-    <li><a href="http://blog.schoollibraryjournal.com/adult4teen/">Adult Books 4 Teens</a></li>
-    <li><a href="http://battleofthebooks.slj.com/">Battle of the Books</a></li> 
-	<li><a href="http://blog.schoollibraryjournal.com/bowllansblog/">Bowllan's Blog</a></li> 
-	<li><a href="http://blogs.slj.com/connect-the-pop/">Connect the Pop</a></li> 
-	<!--<li><a href="http://www.schoollibraryjournal.com/blog/840000284.html">Digital Reshift</a></li>-->
- 	<li><a href="http://blog.schoollibraryjournal.com/goodcomicsforkids/">Good Comics for Kids</a></li>
-	<li><a href="http://blog.schoollibraryjournal.com/heavymedal/">Heavy Medal:A Mock Newbery Blog</a></li>
-	<li><a href="http://blogs.slj.com/bank-street-irma-black-award/">Irma Black Awards</a></li>
-	<li><a href="http://blogs.slj.com/make-some-noise/">Make Some Noise</a></li> 
-	<li><a href="http://blog.schoollibraryjournal.com/neverendingsearch/">NeverEnding Search</a></li> 
-	<li><a href="http://blog.schoollibraryjournal.com/nonfictionmatters/">Nonfiction Matters</a></li> 
-    <li><a href="http://blog.schoollibraryjournal.com/practicallyparadise/">Practically Paradise</a></li>
- 	<li><a href="http://blog.schoollibraryjournal.com/printzblog/">Some Day My Printz Will Come</a></li>
- 	<li><a href="http://blog.schoollibraryjournal.com/touchandgo/">Touch and Go</a></li>
-    <li><a href="http://blog.schoollibraryjournal.com/allblog.php">All Blogs</a></li>
-
-    <!--<li><a href="#(gPublication.getPublicationPath())#/Info/blogs.csp">All Blogs</a></li>-->
-	</ul></li>
-	<li id="btn9"><a href="/csp/cms/sites/SLJ/Info/learnrss.csp">RSS</a></li> 
-	<!--<li id="btn10"><a href="http://www.schoollibraryjournal.com/affiliate/27784.html">Links</a></li>-->
-	<li id="btn11"><a href="http://jobs.libraryjournal.com/">Jobs</a></li> 
-
-
-
-
-
-</ul>
-</div><!-- end navbarContainer-->
-
-    
- <div id="topSearchBox">
-	<div id="topSearchInt">
-
-<div id="searchbar">
-<div id="headersearch">
-<!--<form name="SearchForm" onsubmit="return doSearchStuff()" id="SearchForm" action="/search/siteall" method="get">-->
-<div id="searchbox">
-
-<form action="http://www.schoollibraryjournal.com/csp/cms/sites/SLJ/Search/index.csp" id="cse-search-box">
-
-
-  
-    <input type="hidden" name="cx" value="008072844330499557307:ixrrlyslflg">
-    <input type="hidden" name="cof" value="FORID:10">
-    <input type="hidden" name="ie" value="UTF-8">
-    <input type="text" name="q" size="31">
-    <select name="as_qdr">
-<option value="all">Any time</option>
-<option value="d">Past 24 hours</option>
-<option value="w">Past week</option>
-<option value="w2">Past 2 weeks</option>
-<option value="m">Past month</option>
-<option value="m2">Past 2 months</option>
-<option value="m6">Past 6 months</option>
-<option value="y">Past year</option>
-<option value="y2">Past 2 years</option>
-<option value="y5">Past 5 years</option>
-<option value="y10">Past 10 years</option>
-</select>
-
-<script type="text/javascript">
-  try {
-    var qdr = /[?&]as_qdr=([^&]*)/
-      .exec(window.location.search)[1];
-    var opts = document
-      .getElementsByName("as_qdr")[0]
-      .getElementsByTagName("option");
-    for (var i = 0; i < opts.length; i++)
-      opts[i].selected = (opts[i].value == qdr);
-  } catch (e) {}
-</script>
-    <input type="submit" name="sa" value="Search">
-
-</form>
-<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"></script>
-
-</div><br>
-
-
-	</div><!-- end headersearch -->
-	</div><!-- end searchbar -->
-	</div><!-- end topSearchInt -->   
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-<div id="sponsorby">
-
-<!-- BEGIN RICH-MEDIA Reed Business CODE -->
-
-<!-- <dti:ads:area id="73" name="SLJSearchButton88x31"> -->
-<!-- SLJSearchButton88x31 -->
-<script type="text/javascript">
-GA_googleFillSlot("SLJSearchButton88x31");
-</script>
+<body>
+
+<div id="container">
+   <form name="form1" method="post" action="/policy.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjAyMzc0NDM0NQ9kFgICAw9kFgQCCQ8PFgIeB1Zpc2libGVoZGQCCw8PFgIfAGhkZGR0JfxwpKNrQNJE5w8IQjeqMaBKiw==">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKToLb5CwLx/NCeB6rT796LWdyL0N5jXNoy9V5zORfM">
+	 <div id="header">
+        <table width="800" border="0" cellpadding="0" cellspacing="0">    	
+            <tbody><tr valign="top">
+		        <td width="210" colspan="0" style="padding-top:6px; padding-left:10px;">
+	            <a id="lblogin" title="Login" class="login" href="javascript:__doPostBack('lblogin','')">Login |</a><a id="hplaccount" class="myaccount" href="Accounts.aspx">My Account |</a><a id="hlpreg" class="register" href="Login.aspx">Register</a>
+                </td>
+                <td width="590" style="padding-top:3px; padding-left:6px;">
+		        <div class="item1">[<span id="lblitemQty">0</span>]</div><a id="hlitem" class="item" href="ViewShoppingCart.aspx">Items  |</a> &nbsp;
+                <div class="item2">&nbsp;&nbsp;&nbsp;&nbsp; Welcome <span id="lbltopname"></span>&nbsp;&nbsp;&nbsp;<a id="hltopemail" href="UsernamePwd.aspx"></a></div> </td>
+	            <!--<td width="148"></td>-->
+            </tr>
+        </tbody></table>
+        <table width="800" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+		        <td colspan="0" class="style1">
+                    <a href="Welcome.aspx"><img id="logo" src="images/spacer.gif" alt="Logo Tag"></a>
+                    </td>
+		        <td class="style1">
+                    <a href="http://www.libraryjournal.com" target="_blank"><img id="ImgLibJ" src="images/spacer.gif" alt="Library Journal Tag"></a>
+                    </td>
+		        <td class="style1">
+                    &nbsp;<a href="http://www.schoollibraryjournal.com" target="_blank"><img id="ImgSLS" src="images/spacer.gif" alt="School Library Journal Tag"></a></td>
+		        <td width="113" class="style1">
+                    <a href="http://www.hbook.com" target="_blank"><img id="ImgHornBook" src="images/spacer.gif" alt="theHorn Book Tag"></a>
+                    </td>
+		        <td width="164" class="style1">
+                    <a href="https://www.juniorlibraryguild.com" target="_blank"><img id="ImgJLG" src="images/spacer.gif" alt="Junior Library Guild Tag"></a>
+                    </td>
+		        <td width="46" class="style1"></td>
+	        </tr>
+        </tbody></table>
+	</div>
+
+	<div id="productstext">  
+	&nbsp;
+    </div>
 	
-<!-- END BURST CODE --><!-- Ad space updated 05262010, JEP-->
+    <div style="width:800px; padding-left:115px; padding-top:45px;">
+    <table cellpadding="0" border="0" cellspacing="0" width="650">
+               <tbody><tr>
+                    <td class="topproducts" width="600">&nbsp;&nbsp;<span id="lblheader" class="dynamictext">Privacy Policy</span>&nbsp;</td>
+                </tr>
+                <tr valign="top">
+                    <td class="mid" style="padding-left:20px;" width="600">
 
-
-</div><!-- end sponsorby -->
-
-<div id="magsub"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SLJ&amp;cds_page_id=67338&amp;cds_response_key=QXXNDKN"><img src="/csp/cms/sites/SLJ/assets/images/subscribe_magazine_slja.gif" border="0" alt="Subscribe to SLJ Magazine" style="vertical-align:9px;margin:0px 10px;width:273px;"></a></div><!-- end magsub -->
-</div><!-- end topSearchBox -->
-
-<div>
-
-<!-- BEGIN RICH-MEDIA Reed Business CODE -->
-<!-- <dti:ads:area id="75" name="SLJPushdownExpandable983x25"> -->
-<!-- SLJPushdownExpandable983x25 -->
-<script type="text/javascript">
-GA_googleFillSlot("SLJPushdownExpandable983x25");
-</script>
-
-
-<!-- END Reed Business CODE --><!--ad space updated 05262010, changed to flat graphic, JEP-->
-
-</div>
-<!-- /noindex --></span>
-</div><!-- end headerContainer --></div></div>
-<!--/FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/wrapper.csp, took .003442 -->
-
-<table id="bottomBox" border="0" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr>
-   <td id="mainContent" valign="top"><div id="article">
-<h1>Privacy Policy</h1>
-
-
-
-
-<p class="NormalParagraphStyle"><br>MAY 31, 2010<br>
-  </p><h2>Overview</h2><p>Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. </p><p>This Privacy Policy describes the policies of Library Journals LLC (“LJLLC” or “we”), a wholly owned subsidiary of Media Source Inc., regarding the collection, use, disclosure and protection of the following types of information:</p>• Information obtained when you (“you” or “User”) visit the www.schoollibraryjournal.com web site (this “Site” or “SLJ”).<br>• Information obtained through e-mail communications with you related to the Site.<br>This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.<p></p>
-<p class="NormalParagraphStyle"><br>
-  We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes. </p><hr>
-  <h2>
-    Information We Collect and How We Collect It</h2>
-  <p>We require you to provide certain information about yourself if you register with this Site or request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., blogs, moderated discussions and bulletin boards). <br><br>The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.</p><p>When you visit this Site, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.</p><p>Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit: <strong>http://www.networkadvertising.org/optout_nonppii.asp. </strong></p><hr>
-
-  <h2>How We Use Your Information</h2><p>
-  We use Personally Identifiable Information collected on this Site for the following purposes:</p>
-  <ul>
-  <li>To provide you with this Site and other products and services.</li>
-  <li>To respond to your inquiries and contact you about changes regarding this Site.</li>
-  <li> To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.</li>
-  
-  <li> For any other purpose disclosed at the time the information is collected or to which you consent.</li>
- <li> As otherwise specifically described in this Privacy Policy.</li>
- </ul>
-  
- <p>We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site.</p><p>We may use the information you provide us to send you e-mail, fax and other communications on behalf of LJLLC and our affiliates. These communications may include e-mail newsletters, as well as offers for other SLJ, LJLLC and Media Source services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted. </p><p>We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to websupport@mediasourceinc.com with the subject line “opt out – third party.”</p>
-  <h2>Our Disclosure of Your Information</h2>
-  <p>We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:</p>
- <ul>
- 
-  <li> Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.</li>
-  <li> To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services.</li>
-  <li> Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.</li>
- <li> To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to websupport@mediasourceinc.com with the subject line: “do not disclose.”</li>
-  <li> To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving SLJ. LJLLC, or this Site</li>
-   <li>When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.</li>
- <li> When disclosure is necessary to accomplish the purpose for which you provide it.</li>
-  <li>To other Media Source, Inc. companies for any uses consistent with those disclosed in this Privacy Policy.</li></ul><hr>
-  <h2>Security</h2>
- <p> We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.</p><hr>
-  <h2>Right to Access and Change Information</h2>
+    <!-----Print Subs---->
+                          <table width="550">
+                            <tbody><tr>
+                            <td class="txtsml">
+                            <p> Effective Date: August 20, 2012</p>
+<p><strong>Overview</strong><br>
+  Our website visitors' privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site shop.mediasourceinc.com.<br>
+  <br>
+This Privacy Policy describes the policies of Media Source, Inc ("Media Source"  or "we"), regarding the collection, use, disclosure and protection of the following types of information:</p>
+<blockquote>
   <p>
-  You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to websupport@mediasourceinc.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. </p><hr>
-  <h2>Links</h2>
- <p> This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.</p>
- <p>This Site is operated by:</p><p>websupport@mediasourceinc.com</p><p>Library Journals LLC</p><p>160 Varick St, 11th Fl.</p><p>New York, NY 10013</p><hr>
-   </div>
-<br clear="all">
-<!-- end boombox ad --></td>
-    <td rowspan="2" valign="top" class="rightBorder"><span class="noindex">
-<div id="rightCol">
+  	• Information obtained when you ("you" or "User") visit websites owned and hosted by Media Source via desktop, laptop, tablet, or mobile device.<br>
+    • Information obtained through e-mail communications with you related to the Site.</p>
+</blockquote>
+<p> This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.
+</p>
+<p> We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices..</p>
+<p> Media Source, Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@mediasourceinc.com.  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>. The TRUSTe certification only covers the site shop.mediasourceinc.com and does not cover information that may be collected through our Mobile applications or other sites that we may own and control.</p><br>
+<p><strong>Information We Collect and How We Collect It</strong><br>
+  We require you to provide certain information about yourself if you register with this Site or request products and services. We also collect information when you participate in contests and surveys and when you respond to requests for feedback. </p>
+<p> The information we collect may include information from which you may be personally identified ("Personally Identifiable Information"), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.</p>
+<p> When you visit this Site, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way.</p>
+<p> The use of cookies by third parties is not covered by our privacy policy.  We do not have access or control over these cookies.</p>
+<p> Mobile: When you download or use apps created by Media Source, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services.</p>
+<p><strong>How We Use Your Information</strong><br>
+    We use Personally Identifiable Information collected on this Site for the  following purposes:<br>
+  </p><blockquote> 
+  	• To provide you with this Site and other products and services.<br>
+    • To respond to your inquiries and contact you about changes regarding this  Site.<br>
+    • To provide you with e-mail, fax and other notices (such as expiration and  renewal notices) regarding your account and the products or services that you  are receiving, and for billing and collection purposes.<br>
+    • For any other purpose disclosed at the time the information is collected or  to which you consent.<br>
+    • As otherwise specifically described in this Privacy Policy.<p></p>
+</blockquote>
+<p>We also may use your  information to better understand our Users and to improve our Site. For  example, we may use this information to determine what portions of this Site  are most popular and the demographics of our Users generally. Cookies and other  User information also enable us to customize your experience on the Site. We  may use IP addresses to help diagnose problems with our servers or to  administer our Site. We may also use IP addresses to help identify a User  during a particular session and to gather data regarding use of this Site.</p>
+<p> We may use the information you provide us to send you e-mail, fax and other communications on behalf of Media Source and our affiliates. These communications may include e-mail newsletters, as well as offers for other  Media Source services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted, you may also opt-out by logging into your account and checking the appropriate box.</p>
+<p>We also may use your  information to send you e-mail and other communications on behalf of third  parties. Each of these communications will include instructions for opting out  of receiving future third party offers from us. You may also opt out of  receiving third party offers from this Site at any time by sending an e-mail to  <a href="mailto:websupport@mediasourceinc.com">websupport@mediasourceinc.com</a> with the subject line "opt out – third party."</p>
+<p><strong>Our Disclosure of Your Information</strong><br>
+  We will not sell your personal information to third parties. We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:</p>
+<blockquote>
+  <p>
+  	• Name and/or business name and title (but not  information by which you may be contacted (i.e. name, postal address, telephone  number, fax number and e-mail address ) in representative lists of our magazine  circulation and/or web site membership, but not for further use or  dissemination by the recipient.<br>
+    • To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services such as a credit card processor, email service provider, or web and data hosting companies.<br>
+    • Portions of this Site may be provided as "Premium" or "Sponsored" content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User's registration information with the Premium or Sponsored content's sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.<br>
+    • To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to websupport@mediasourceinc.com with the subject line: "do not disclose."<br>
+    • To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving Media Source, or this Site.  You will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.<br>
+    • When we believe such disclosure is required by law, such as to comply with a subpoena, or similar legal process, regulation or securities exchange requirement or for the protection of persons or property. When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.<br>
+    • When disclosure is necessary to accomplish the purpose for which you provide  it.<br>
+    • To other Media Source, Inc. companies for any uses consistent with those  disclosed in this Privacy Policy.</p>
+</blockquote>
+<p><strong>Security</strong><br>
+We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.</p>
+<p> We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts personal and sensitive information you input. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+</p>
+<p><strong>Right to Access and Change Information</strong><br>
+  You may view, delete inaccuracies, and update information that you previously submitted to this Site by visiting the My Account section on <a href="http://shop.mediasourceinc.com">http://shop.mediasourceinc.com</a>, or which you submitted to request a print publication, by sending an e-mail to <a href="mailto:support@mediasourceinc.com">support@mediasourceinc.com</a>. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take 24 hours to process.
+</p>
+<p> You can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such features.  When you update information, we usually keep a copy of the prior version for our records.</p>
+<p> We will retain your information for as long as your account is active or as needed to provide you services.  If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:support@mediasourceinc.com">support@mediasourceinc.com</a>.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. </p>
+<p>If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your eNewsletter preferences in the My Account section on <a href="http://shop.mediasourceinc.com">http://shop.mediasourceinc.com</a></p>
+<p> The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of our essential features, we recommend that you leave them turned on. </p>
+<p><strong>Links</strong><br>
+  This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.</p>
+<p><strong>Conditions of Use, Notices, and Revisions</strong><br>
+  If you choose to visit our site(s), your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, resolution of disputes, and application of the law of the state of New York. If you have any concern about privacy at Media Source, please contact us with a thorough description, and we will try to resolve it. </p>
+<p>This Site is operated  by:<br>
+  Media Source, Inc <br>
+  160 Varick St, 11th Fl.<br>
+  New York, NY 10013<br>
+  <a href="mailto:support@mediasourceinc.com">support@mediasourceinc.com</a></p>
 
-<!-- advertisement -->
-<div id="rtAdvertisement">Advertisements<br>
+                            </td> 
 
- <br>
-<!-- <dti:ads:area id="117" name="SLJMarketing160x160"> -->
-<!-- SLJMarketing160x160 -->
-<script type="text/javascript">
-GA_googleFillSlot("SLJMarketing160x160");
-</script>
-<!-- End SLJMarketing160x160 9/9/11 SMS -->
-<br><br>
+                        </tr>                        
+                       
 
-
-<!-- BEGIN RICH-MEDIA NETWORK CODE -->
-<!-- <dti:ads:area id="62" name="SLJSkyscraper160x600"> -->
-<!-- SLJSkyscraper160x600 -->
-<script type="text/javascript">
-GA_googleFillSlot("SLJSkyscraper160x600");
-</script>
-<!-- End SLJSkyscraper160x600 9/9/11 SMS -->
-
-
-<br><br><br>
-
-
-
-
-</div>
-
-<!-- end advertisement -->
-
-
-</div>
-<!-- /noindex --></span></td>
-</tr><tr>
-    <td id="mainContentBtm"><br clear="all">
-
-<span class="noindex">
-
-
-<!-- FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/ads.csp -->
-<!--<div align="center"><script type="text/javascript"> --><!--
-google_ad_client = "pub-1872221973353849";
-/* 728x90 bottom banner */
-google_ad_slot = "3340816676";
-google_ad_width = 728;
-google_ad_height = 90;
-//
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div><BR><BR>
-
-<!--/FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/ads.csp, took .000105 -->
-
-<!-- /noindex --></span>
-
-
-
-</td>
-</tr><tr>
-    <td id="footerContainer" colspan="2"><span class="noindex">
+                        <tr>
+                            <td><span id="ErrorJournals"></span></td>
+                        </tr>                                           
+                    </tbody></table>
 
 
-<!--end reednetwork-->
-
-
-
-<!-- END FOOTER -->
-
-<script language="JavaScript" src="http://a330.g.akamai.net/7/330/2540/20070414003030/www.schoollibraryjournal.com/js/sljads.js" type="text/javascript"></script>
-<style type="text/css">
-#footerbar {
-position:absolute;
-width: 983px;
-height:25px;
-visibility: hidden;
-z-index: 100;
-margin-left:auto;
-margin-right:auto;
-text-align:center;
-}
-</style>
-
-<div id="footerbar">
-</div>
-
-<!-- /noindex --></span>
-</td>
-</tr>
-</tbody></table>
-
-
-
-<!-- FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/footer.csp -->
-<div align="center"><br><!-- SLJLeaderboard728x90_2 -->
-<script type="text/javascript">
-GA_googleFillSlot("SLJLeaderboard728x90_2");
-</script><br></div><div id="alignFooter" align="center">
-<div id="footerNav"><a href="/csp/cms/sites/SLJ/Info/aboutus.csp">About Us</a>  |  <a href="/csp/cms/sites/SLJ/Info/advertisinginfo.csp">Advertising Information</a>  |  <a href="/csp/cms/sites/SLJ/Info/submissions.csp">Submissions</a>  |  <a href="/csp/cms/sites/SLJ/Info/sitemap.csp">Site Map</a>  |  <a href="/csp/cms/sites/SLJ/Info/contactus.csp">Contact Us</a>  | <a href="/csp/cms/sites/SLJ/Info/forreviewers.csp">For Reviewers</a> | <a href="/csp/cms/sites/SLJ/Info/learnrss.csp">RSS</a> |  <a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SLJ&amp;cds_page_id=67338&amp;cds_response_key=QXXNDST">Subscriptions</a>
-</div>
-
-<div id="footerText">
-©2011 <a target="_blank" href="http://www.mediasourceinc.com/index.html">Media Source, Inc.</a>, All rights reserved.<br>
-Use of this Web site is subject to its <a href="/csp/cms/sites/SLJ/Info/termsofuse.csp">Terms of Use</a> |  <a href="/csp/cms/sites/SLJ/Info/privacypolicy.csp">Privacy Policy</a>
-</div>
-
-<table cellspacing="4" border="0" bgcolor="#ffffff" align="center">
-<tbody><tr><td>
-
- <table width="400" border="0" cellspacing="10">
-  <tbody><tr>
-    <td><a href="http://www.mediasourceinc.com/"><img src="/csp/cms/sites/SLJ/assets/images/msi_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/SLJ/assets/images/jlg_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/SLJ/assets/images/hbinc_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/SLJ/assets/images/slj_logo_sm.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/SLJ/assets/images/lj_logo_sm.jpg" alt="Media Source Inc." style="border:none;"></a></td>
-    <td><a href="http://www.mediasourceinc.com/companies.html"><img src="/csp/cms/sites/SLJ/assets/images/libhot_logo.jpg" alt="Media Source Inc." style="border:none;"></a></td>
+                    <!-------->
+                     </td>
+                    </tr>
+                    <tr>
+                    <td class="btm" width="600">&nbsp;<br><br><br></td>
+                </tr>
+            </tbody></table>
+            </div>  
+            <!--------->
     
-  </tr>
-</tbody></table>
+    </form>
+    </div>
+<!-------->
+<div id="footerSticky" align="center">
 
- </td>
-</tr></tbody></table>
+    <table width="800" height="22" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr valign="top">
+            <td colspan="7" height="5" width="805" style="background-color:#808080; height:10px;" align="left"><img src="images/ftr.blue.png"></td>
+        </tr>
+        <tr valign="top">
+            <td colspan="7" height="5" width="805" style="background-color:#808080; height:10px;">&nbsp;</td>
+        </tr>
+        <tr id="footer">
+            <td width="289" height="22" id="footer1"><a href="policy.aspx" id="footer1">Privacy Policy</a></td>
+            <td width="31" height="22" style="color:#FFFFFF;">|</td>
+            <td width="180" height="22" id="footer2"><a href="eventsdiversity.aspx" id="footer2">Events Diversity Policy</a></td>
+            <td width="30" height="22" style="color:#FFFFFF;">|</td>
+            <td width="66" height="22" id="footer2"><a href="contact.aspx" id="footer2">Contact</a></td>
+            <td width="30" height="22" style="color:#FFFFFF;">|</td>
+            <td width="384" height="22" id="footer3">Copyright © 2013 Media Source Inc.</td>
+        </tr>
+    </tbody></table>
+    
+    <br>
+    
+    <div id="4733f927-de5f-4894-9a76-887d82849173"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Media-Source,-Inc/asc?rid=4733f927-de5f-4894-9a76-887d82849173"></script><a href="//privacy.truste.com/privacy-seal/Media-Source,-Inc/validation?rid=f4d697d3-deeb-4c9d-89e6-58848a665ccd" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Media-Source,-Inc/seal?rid=f4d697d3-deeb-4c9d-89e6-58848a665ccd" alt="TRUSTe online privacy certification"></a></div>
+
 </div>
-
-<!-- END FOOTER -->
-<!--/FileInclude:Normal, /csp/cms/sites/SLJ/assets/includes/footer.csp, took .000941 -->
+<!---------->
 
 
 </body></html>
