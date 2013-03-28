@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314070048id_/http%3A//www.offspring.co.uk/perl/go.pl/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offspring.co.uk privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328014852id_/http%3A//www.offspring.co.uk/perl/go.pl/info/privacy.html) for the most accurate reproduction.*
 
 # Offspring Shoes
 
@@ -13,10 +13,11 @@ You can access our website homepage and browse our site without disclosing your 
 In this Privacy Policy, we, us and our, refer to Offspring part of OFFICE Limited, registered in England & Wales. 
 
 Our registered office is:  
-OFFICE Ltd  
-9-10 Great Sutton Street  
-London  
-EC1V 0BX
+Office Holdings LTD  
+Classic House,  
+Martha's Buildings,  
+180 Old Street,  
+London EC1V 9BPX
 
 Our company registration number is 1764341  
 Our VAT registration number is 340010335
@@ -67,7 +68,7 @@ If you change your mind and decide you do not wish to receive the Offspring news
 
 ### About Cookies and the way we use them
 
-In common with other websites, we use "cookies". Cookies are small text files which are sent to your computer and enable our website to recognise you. They are not computer programmes and are incapable of reading any material on your hard disk or disseminate viruses. They only contain such information as you have provided to us on the website. You can set up your computer so that it rejects cookies, (you will find instructions on how to do this at [www.allaboutcookies.org](https://web.archive.org/web/20120314070048id_/http%3A//www.offspring.co.uk/perl/go.pl/info/www.allaboutcookies.org) but in doing so, in common with other online shopping facilities, you will be unable to use the shopping facility on this site.
+In common with other websites, we use "cookies". Cookies are small text files which are sent to your computer and enable our website to recognise you. They are not computer programmes and are incapable of reading any material on your hard disk or disseminate viruses. They only contain such information as you have provided to us on the website. You can set up your computer so that it rejects cookies, (you will find instructions on how to do this at [www.allaboutcookies.org](https://web.archive.org/web/20130328014852id_/http%3A//www.offspring.co.uk/perl/go.pl/info/www.allaboutcookies.org) but in doing so, in common with other online shopping facilities, you will be unable to use the shopping facility on this site.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We use this information for statistical analysis purposes and then the data is removed from the system. 
 
@@ -102,8 +103,8 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by Offspring or companies of Offspring’s careful selection for direct marketing purposes
-  * if you have previously agreed to Offspring using your personal information for direct marketing purposes, you may change your mind at any time by unsubscribing via our marketing emails or emailing us at [customerservice@offspring.co.uk](https://web.archive.org/web/20120314070048id_/http%3A//www.offspring.co.uk/perl/go.pl/info/customerservice@offspring.co.uk). 
-  * if you have previously agreed to Offspring sharing your personal information with companies of Offspring’s careful selection for direct marketing purposes, you may change your mind at any time by emailing us at [customerservice@offspring.co.uk](https://web.archive.org/web/20120314070048id_/http%3A//www.offspring.co.uk/perl/go.pl/info/customerservice@offspring.co.uk).
+  * if you have previously agreed to Offspring using your personal information for direct marketing purposes, you may change your mind at any time by unsubscribing via our marketing emails or emailing us at [customerservice@offspring.co.uk](https://web.archive.org/web/20130328014852id_/http%3A//www.offspring.co.uk/perl/go.pl/info/customerservice@offspring.co.uk). 
+  * if you have previously agreed to Offspring sharing your personal information with companies of Offspring’s careful selection for direct marketing purposes, you may change your mind at any time by emailing us at [customerservice@offspring.co.uk](https://web.archive.org/web/20130328014852id_/http%3A//www.offspring.co.uk/perl/go.pl/info/customerservice@offspring.co.uk).
   * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
   * You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Data Protection Offspring, Ecommerce Team, Office Ltd, 9-10 Sutton Street, London, EC1V 0BX. 
   * If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
@@ -112,4 +113,4 @@ You may choose to restrict the collection or use of your personal information in
 
 ### Contact us
 
-If you have any questions, please feel free to contact us by email at: [customerservice@offspring.co.uk](https://web.archive.org/web/20120314070048id_/http%3A//www.offspring.co.uk/perl/go.pl/info/customerservice@offspring.co.uk).
+If you have any questions, please feel free to contact us by email at: [customerservice@offspring.co.uk](https://web.archive.org/web/20130328014852id_/http%3A//www.offspring.co.uk/perl/go.pl/info/customerservice@offspring.co.uk).
