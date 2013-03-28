@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2012-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121219001442id_/http%3A//www.rue21.com/en/Privacy%2520Policy%2520and%2520Terms%2520of%2520Use.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rue21.com privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328030100id_/http%3A//www.rue21.com/en/Privacy%2520Policy%2520and%2520Terms%2520of%2520Use.aspx) for the most accurate reproduction.*
 
 # rue21 : Privacy Policy and Terms
 
