@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espares.co.uk privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504233943id_/http%3A//www.espares.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espares.co.uk privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328030616id_/http%3A//www.espares.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | eSpares
 
@@ -27,13 +27,13 @@ We use the information you provide for the following purposes:
 
 You can at any stage change your privacy details by logging in to [Your Account](https://www.espares.co.uk/secure_youraccount.aspx) or [contacting us](http://www.espares.co.uk/contactus.aspx).
 
-When you place an order we need to know your name, email address, delivery address, credit or debit card number and the card's expiry date. This allows us to process and fulfill your order and to notify you of the status of your request. We may also ask for your telephone number which enables us or our contractor to contact you urgently if there is a problem with your order.
+When you place an order we need to know your name, email address, delivery address, credit or debit card number and the card's expiry date. This allows us to process and fulfil your order and to notify you of the status of your request. We may also ask for your telephone number which enables us or our contractor to contact you urgently if there is a problem with your order.
 
 **Your Consent**  
-By submitting information to eSpares you consent to the collection and use of this information by eSpares and it's Service Provider. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it and under what circumstances we disclose it.
+By submitting information to eSpares you consent to the collection and use of this information by eSpares and its Service Provider. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it and under what circumstances we disclose it.
 
 **Data Security**  
-We have designer our site to protect the information we collect online from unauthorised access. We safeguard your private information by implementing the appropriate physical, electronic and managerial procedure necessary to protect your privacy. To further protect your security, we also take the reasonable steps to verify your identity before granting access to your personal profile or making data changes. We are committed to protecting your privacy and have security measures in place to prevent unauthorised access to and disclosure of your personal information.
+We have designed our site to protect the information we collect online from unauthorised access. We safeguard your private information by implementing the appropriate physical, electronic and managerial procedure necessary to protect your privacy. To further protect your security, we also take the reasonable steps to verify your identity before granting access to your personal profile or making data changes. We are committed to protecting your privacy and have security measures in place to prevent unauthorised access to and disclosure of your personal information.
 
 **Improving Our Service**  
 eSpares does not sell, trade or rent your personal information to others. To better tailor our services to our customers' needs, we use non-identifying and aggregate information to help us make decisions on how to improve eSpares. We also share this generic information with our advertisers and other interested, reputable parties with whom we have established a formal business relationship. For example, we may tell advertisers which areas of the site have received the most customer traffic overall, or more specifically, how many customer types have visited certain pages. However, we do not disclose the identifying information of individual customers with advertisers. We also do not use or share the personally identifiable information submitted to us by any other means without providing our customers the choice to opt-out or otherwise bar such unrelated uses.
