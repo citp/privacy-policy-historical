@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the znetindia.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005111655id_/http%3A//www.znetlive.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the znetindia.com privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328211133id_/http%3A//www.znetlive.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZNetLive
 
@@ -76,7 +76,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us at [info@znetindia.com](mailto:info@znetindia.com)
+If you have any questions about security on our Web site, you can contact us at [info@znetlive.in](mailto:info@znetlive.in)
 
 **Additional Policy Information**  
 Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
@@ -85,10 +85,10 @@ Our Web site offers publicly accessible blogs & community forums. You should be 
 
 You can link to our site using social networking services such as Facebook & Twitter. These services will authenticate your identity and provide you the option to share certain personal information with us such as your sign-in information, name and email address to link between the sites. Services like Facebook & Twitter give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at [info@znetindia.com](mailto:info@znetindia.com)
+With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at [info@znetlive.in](mailto:info@znetlive.in)
 
 **Correcting, Deleting and Updating Your Personal Information**  
-To review, delete and update your personal information to ensure it is accurate, you may login to your account or contact us directly at [info@znetindia.com](mailto:info@znetindia.com)
+To review, delete and update your personal information to ensure it is accurate, you may login to your account or contact us directly at [info@znetlive.in](mailto:info@znetlive.in)
 
 **Data Retention**  
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email address]. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
@@ -105,4 +105,4 @@ Rajasthan
 302021  
 India   
 91-141-4070666  
-Email: [info@znetindia.com](mailto:info@znetindia.com)
+Email: [info@znetlive.in](mailto:info@znetlive.in)
