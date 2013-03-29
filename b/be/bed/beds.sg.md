@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beds.sg privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110220618id_/http%3A//www.beds.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beds.sg privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329140924id_/http%3A//www.beds.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Shopping | Beds.sg | Furniture & Appliances | BEDS.sg
 
