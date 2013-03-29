@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeguard.com privacy policy that was archived on 2012-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120111084656id_/https%3A//privacy-policy.truste.com/verified-policy/www.codeguard.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeguard.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329110852id_/https%3A//privacy-policy.truste.com/verified-policy/www.codeguard.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.codeguard.com
 
@@ -56,8 +56,6 @@ We use another company to place cookies on your computer to collect non-personal
 _Web beacons_
 
 Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
-
-Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
 
 We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
 
