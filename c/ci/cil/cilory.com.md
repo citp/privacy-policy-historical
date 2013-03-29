@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015030139id_/http%3A//www.cilory.com/cms.php%3Fid_cms%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329055503id_/http%3A//www.cilory.com/cms.php%3Fid_cms%3D3) for the most accurate reproduction.*
 
 # Privacy Policy - Cilory
 
@@ -18,14 +18,14 @@ We follow a very strict privacy policy as follows:
   * We will NOT send you e-mails without your consent: If you do not want it, we will NEVER send you snail mails or even e-mails without your consent. We will never disturb you with e-mails soliciting repeat business if you do NOT want so. We firmly believe that our product quality and service efficiency would bring repeat business automatically.
   * Even your credit card/bank statement would not show our name: Even your credit card / bank account would show a transaction with the name of our company. Cilory.com would NEVER appear anywhere.
   * The merchant name on the card/bank statement will either show our payments processing partner name i.e. EBS or it will show our parent companies name i.e Dew Solutions Pvt. Ltd.
-  * We will maintain security and of our systems and information: We maintain the latest anti-virus software and use secure passwords on all systems. Your information is safe with us and even our employees cannot access it unless it is needed to service you.
+  * We will maintain security and of our systems and information: We maintain the latest anti-virus software(if required) and use secure passwords on all systems. Your information is safe with us and even our employees cannot access it unless it is needed to service you.
 
 
 
 ### **How we use your information**
 
   * Your shipping address: This is used to ship your order. You can change it for every order and we will NEVER send anything else to this address except your order itself.
-  * Your phone number: This is used only for purposes of helping the courier delivery person track you. The concealed packing of the orders ensures that the courier delivery person does not get to know anything about your order or you.
+  * Your phone number: This is used only for purposes of helping the courier delivery person track you. The concealed packing of the orders ensures that the courier delivery person does not get to know anything about your order or you. We may also call you on the phone number provided to confirm the order before dispatching OR for any other purpose related to the order placed on cilory.com. The call might be made via automated system or by customer care representative. You may also reiceive an SMS with the details of how to confirm/reject order via miss call or other service.
   * Your credit card information: Your CC/bank account information is used only to process the transaction.
   * Your email address: We will NEVER send you e-mails if you request us not to. As a default, we assume your consent to send you e-mails for purposes of:
 
@@ -76,7 +76,5 @@ We follow a very strict privacy policy as follows:
 ### **Merger, Acquisition and Termination of Service**
 
 If we merge with, or are acquired by another company, the resulting combined company will use the Personal Information you have provided as described in this policy. If we cease operation, your Personal Information may be transferred to and used by another company that offers similar or related products or services.
-
-**Remember, your secrets are safe with us!!**
 
 We are confident that you agree that we have the BEST privacy policy in the industry. You are welcome to write to us at cs@cilory.com? for any clarifications.
