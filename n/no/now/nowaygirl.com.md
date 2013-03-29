@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowaygirl.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209083712id_/http%3A//nowaygirl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowaygirl.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329095800id_/http%3A//nowaygirl.com/privacy.html) for the most accurate reproduction.*
 
 # Nowaygirl.com Disclaimer
 
