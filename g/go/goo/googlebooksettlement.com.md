@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the googlebooksettlement.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226062330id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py%3Fanswer%3D128055%26hl%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlebooksettlement.com privacy policy that was archived on 2013-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130330004959id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py%3Fanswer%3D128055%26hl%3Den) for the most accurate reproduction.*
 
 # Google Book Settlement
 
-  * [Help Center Home](https://web.archive.org/web/20121226062330id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=134644&hl=en)
-  * [FAQs](https://web.archive.org/web/20121226062330id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118704&hl=en)
-  * [Glossary](https://web.archive.org/web/20121226062330id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118722&hl=en)
-  * [Contact Us](https://web.archive.org/web/20121226062330id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118721&hl=en)
+  * [Help Center Home](https://web.archive.org/web/20130330004959id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=134644&hl=en)
+  * [FAQs](https://web.archive.org/web/20130330004959id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118704&hl=en)
+  * [Glossary](https://web.archive.org/web/20130330004959id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118722&hl=en)
+  * [Contact Us](https://web.archive.org/web/20130330004959id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118721&hl=en)
   * [Settlement Home  
 ](http://www.googlebooksettlement.com/intl/en/)
 
@@ -15,7 +15,7 @@
 
   1. _**General**_
 
-This Privacy Policy applies to the [Google Book Search Settlement Website](http://www.googlebooksettlement.com/) (the "Settlement Website"), which has been established by Rust Consulting, Inc. (the "Settlement Administrator") to provide information about, and to receive and process claims for, the Google Book Settlement (the "Settlement"). The Settlement Administrator maintains the Settlement Website, which, in the future, will be maintained by the [Book Rights Registry](https://web.archive.org/web/20121226062330id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118704#q34) (the "Registry"). For purposes of this Privacy Policy, we refer to the Settlement Administrator, the Registry and Class Counsel as "we" or "us." Google Inc. is providing technical support and hosting services to us.
+This Privacy Policy applies to the [Google Book Search Settlement Website](http://www.googlebooksettlement.com/) (the "Settlement Website"), which has been established by Rust Consulting, Inc. (the "Settlement Administrator") to provide information about, and to receive and process claims for, the Google Book Settlement (the "Settlement"). The Settlement Administrator maintains the Settlement Website, which, in the future, will be maintained by the [Book Rights Registry](https://web.archive.org/web/20130330004959id_/http%3A//www.googlebooksettlement.com/help/bin/answer.py?answer=118704#q34) (the "Registry"). For purposes of this Privacy Policy, we refer to the Settlement Administrator, the Registry and Class Counsel as "we" or "us." Google Inc. is providing technical support and hosting services to us.
 
 This Privacy Policy applies to information that you submit through the Settlement Website, on paper Claim Forms, or otherwise. This Privacy Policy does not apply to any information that is publicly available, that is lawfully obtained from outside sources or that you may submit to other websites or in connection with other programs, including the Google Book Search Partner Program.
 
