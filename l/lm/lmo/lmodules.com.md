@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lmodules.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006135004id_/http%3A//www.lmodules.com/static%3Fkey%3Dprivacy_policy%26trk%3Dhb_ft_priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmodules.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329022544id_/http%3A//www.lmodules.com/static%3Fkey%3Dprivacy_policy%26trk%3Dhb_ft_priv) for the most accurate reproduction.*
 
 # Privacy Policy | LinkedIn
 
@@ -10,7 +10,7 @@ The information you provide to LinkedIn may reveal, or allow others to identify,
 
 As described in the User Agreement, we will communicate with you through email, notices posted on the LinkedIn website, messages to your LinkedIn inbox, or through other means available through the service, including mobile text messages. We may send you a series of emails that help inform new Users about the features of the Services, and we will also send you service messages relating to the functioning of the Services. We may also send you messages with promotional information directly or on behalf of our partners, unless you have opted out of receiving promotional information. 
 
-You can change your e-mail and contact preferences at any time by logging into your account and changing your [settings](https://www.linkedin.com/settings/?tab=email) related to your email notification choices. If you wish, you can also opt-out of receiving promotional emails by sending a request to LinkedIn customer service through our [customer service site](https://web.archive.org/redir/redirect?url=http%3A%2F%2Flinkedin%2Ecusthelp%2Ecom&urlhash=M-b0).
+You can change your e-mail and contact preferences at any time by logging into your account and changing your [settings](https://www.linkedin.com/settings/?tab=email) related to your email notification choices. If you wish, you can also opt-out of receiving promotional emails by sending a request to LinkedIn customer service through our [customer service site](http://linkedin.custhelp.com/).
 
 Please be aware that you cannot opt-out of receiving service messages from LinkedIn. Also, if we send communications to you via the carrier service with which you have a mobile communications subscription or otherwise have access, you understand you will pay any service fees associated with your receipt of messages on your mobile device (including text messaging charges). 
 
