@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the bodyc.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218084540id_/http%3A//www.bodyc.com/service/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyc.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329090742id_/http%3A//www.bodyc.com/service/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Body Central
 
 BODY CENTRAL ONLINE PRIVACY POLICY  
-Last modified: November 30, 2012 
+Last modified: February 2013
 
 1.    INTRODUCTION
 
-    Purpose.  The purpose of this Privacy Policy is to describe how Catalogue Ventures, Inc. (“Body Central”) collects, uses and shares information about you through our U.S. online interfaces (e.g., websites and mobile applications) owned and controlled by us, including www.bodyc.com  (collectively referred to herein as the “Site”).  Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to 
+    Purpose.  The purpose of this Privacy Policy is to describe how Body Central Direct (“Body Central”) collects, uses and shares information about you through our U.S. online interfaces (e.g., websites and mobile applications) owned and controlled by us, including www.bodyc.com  (collectively referred to herein as the “Site”).  Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to 
 
 [Contact Us](http://www.bodyc.com/service/contact.aspx) or as described at the end of this Policy. 
 
@@ -80,7 +80,7 @@ No Information From Children Under Age 13.  If you are under the age of 13, ple
 
 
 
-Cookies.  When you visit our Site we send one or more “cookies” to your computer or other device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store unique identifiers, user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends and providing relevant advertising to you.  
+Cookies.  When you visit our Site we send one or more “cookies” to your computer or other device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store unique anonymous identifiers, user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends and providing relevant advertising to you. See “Advertising and Marketing” below for additional information about cookies and advertising. 
 
     Pixel Tags.  We may use “pixel tags,” also known as “web beacons,” which are small graphic files that allow us to monitor the use of our websites.  A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, or when emails are opened or accessed, and is often used in combination with cookies. A pixel tag can collect information such as the IP (Internet Protocol) address of the computer that downloaded the page on which the tag appears; the URL of the page on which the pixel tag appears; the time the page containing the pixel tag was viewed; the type of browser that fetched the pixel tag; and the identification number of any cookie on the computer previously placed by that server. 
 
@@ -90,9 +90,16 @@ Cookies.  When you visit our Site we send one or more “cookies” to your com
 
     We may use third parties to help host our Site, send out email updates about the Site, provide marketing and advertising services for us, remove repetitive information from our user lists, and process payments. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. We use demographic information to better understand our customers, and improve our products and services.
 
-    Advertising and Marketing.  We may use how you browse and shop in order to show you ads for Body Central or our advertising partners that are more relevant to your interests. We may use cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Body Central. You can opt-out of tracking for interest-based ads by logging out of our Site. 
+   Advertising and Marketing. We may use how you browse and shop in order to show you ads for Body Central or our advertising partners that are more relevant to your interests. We may use our own cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Body Central. You can opt-out of tracking for interest-based ads provided directly by Body Central by clicking [here](http://www.networkadvertising.org/).
 
-    Some websites may belong to ad networks that use your browsing history across websites to choose which ads to display on their sites; the displayed ads may include advertising for Body Central. To learn more, and to opt out of seeing interest-based advertisements on these sites, visit the Network Advertising Initiative and the Digital Advertising Alliance websites (www.networkadvertising.org and www.aboutads.info). Websites may also offer their own opt-out methods for interest-based advertising.
+To learn more about the use of this information or choose not to have this information used by our third-party advertising partner by opting out please visit the Network Advertising Initiative by clicking [here](http://www.networkadvertising.org/). 
+
+   For example, we use Criteo to provide online interest-based advertisements on our behalf. Criteo may place anonymous cookies on the browsers of visitors to our Site and may send their own cookies to the visitors’ cookie file. These cookies allow Criteo to display advertisements to visitors. Each advertisement provided by Criteo will include a link to Criteo’s Privacy Policy page that will include information for users on how to opt-out of being re/targeted. For more information about Criteo or to opt-out of receiving interest-based advertising from Criteo, please visit Criteo’s privacy policy at <http://www.criteo.com/us/privacy-policy>.
+
+    We also use Dotomi to assist us with providing interest-based advertisements. For more information about Dotomi or to opt-out   
+of receiving interest-based advertising from Dotomi, please visit Dotomi’s privacy policy at [http://www.dotomi.com/privacy/](http://www.dotomi.com/privacy). 
+
+    Some third party websites may belong to ad networks that use your browsing history across websites to choose which ads to display on their sites; the displayed ads may include advertising for Body Central. To learn more, and to opt out of seeing interest-based advertisements on these sites, visit the Network Advertising Initiative and the Digital Advertising Alliance websites ([www.networkadvertising.org](http://www.networkadvertising.org/) and [www.aboutads.info](http://www.aboutads.info/)). Websites may also offer their own opt-out methods for interest-based advertising.
 
     Your Consent.  In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of the Body Central when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information. Sensitive personal information is a particular category of personal information relating to confidential medical facts, racial or ethnic origins, political or religious beliefs or sexuality. 
 
@@ -145,12 +152,15 @@ Cookies.  When you visit our Site we send one or more “cookies” to your com
 
 Catalog/Website Inquiries
 
-Attn: Catalog Customer Service  
+Attn: Direct Customer Service
+
+Body Central Direct, Inc.  
 6225 Powers Avenue  
 Jacksonville, FL 32217
 
 Store/Retail Inquiries
 
-Attn: Retail Customer Service  
+Attn: Store Customer Service  
+Body Central Stores, Inc.  
 6225 Powers Avenue  
 Jacksonville, FL 32217
