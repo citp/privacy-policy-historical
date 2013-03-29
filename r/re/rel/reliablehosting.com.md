@@ -1,115 +1,42 @@
-> *The following text is extracted and transformed from the reliablehosting.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130074932id_/http%3A//privacy-policy.truste.com/verified-policy/www.strongvpn.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliablehosting.com privacy policy that was archived on 2013-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130330001024id_/http%3A//www.reliablehosting.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy for www.strongvpn.com
+# Reliable Hosting.com
 
-Effective on December 30, 2010 
+Users' privacy is very important to Reliablehosting.com. We are committed to safeguarding the information users entrust to Reliablehosting.com. This Web site is not directed at children under 18 years of age.
 
-This privacy statement describes how Reliablehosting.com / Strongvpn.com collects and uses the personal information you provide on our Web site: [www.strongvpn.com ](https://www.strongvpn.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+## The Information We Collect
 
-**TRUSTe**
+Reliablehosting.com may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. Reliablehosting.com may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We may use "cookies" to track how Users use our Web site. A cookie is a piece of software that a Web server can store on the Users' PC and use to identify the User should they visit the Web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web site. 
 
-Reliablehosting.com / Strongvpn.com is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
+## How We Use Information
 
-If you have questions or concerns regarding this policy, you should first contact us at [webmaster@reliablehosting.com ](mailto:webmaster@reliablehosting.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+Reliablehosting.com may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by Reliablehosting.com and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users' experience with Reliablehosting.com and such affiliates, independent contractors and business partners. Reliablehosting.com may also use information collected through our Web site for research regarding the effectiveness of the Web site and the marketing, advertising and sales efforts of Reliablehosting.com, its trusted affiliates, independent contractors and business partners. 
 
-## Collection and Use of Personal Information
+## Maintenance of Information
 
-We collect the following personal information from you
+Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. 
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Financial Information such as bank or brokerage account numbers, types of investments
-  * Unique Identifiers such as user name, account number, password
-  * Preferences Information such as product wish lists, order history, marketing preferences
+## Safe Harbor program
 
+Reliablehosting.com, complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Black Oak Computers Inc has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Black Oak Computers Inc certification, please visit <http://www.export.gov/safeharbor/>
 
+**Safe Harbor Certification Mark**
 
-We also collect the following information from you
+[](http://export.gov/safeharbor/)
 
-  * Information about your business such as company name, company size, business type
+## Questions
 
+In compliance with the US-EU Safe Harbor Principles, Reliablehosting.com commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Reliablehosting.com at: [privacy@reliablehosting.com](mailto:privacy@reliablehosting.com)
 
+Black Oak Computers, Inc.  
+DBA: Reliablehosting.com  
+P.O. Box 19719  
+S. Lake Tahoe CA. 96151 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+Reliablehosting.com has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Reliablehosting.com, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
-We use this information to
+Users may direct questions concerning this Privacy Policy by email to [privacy@reliablehosting.com](mailto:privacy@reliablehosting.com).
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Respond to customer service requests
-  * Administer your account
-  * Respond to your questions and concerns
-  * Conduct research and analysis
+Users may elect not to receive solicitations from Reliablehosting.com or from trusted affiliates, independent contractors and business partners by completing the opt-out request form [here](http://techupdates.reliablehosting.com/). 
 
-
-
-**Information Obtained from Third Parties**
-
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
-
-## Information Sharing
-
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
-
-We may also disclose your personal information
-
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if Reliablehosting.com / Strongvpn.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
-
-
-
-_GoogleCheckout_
-
-If you choose to use GoogleCheckout to finalize and pay for your order, you will provide your credit card number directly to GoogleCheckout. Google's privacy policy will apply to the information you provide on the GoogleCheckout Web site. 
-
-_PayPal_
-
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
-
-_Third Party E-Commerce Solutions Provider_
-
-Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
-
-## Cookies and Other Tracking Technologies
-
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
-
-_Web beacons_
-
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
-
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
-
-_Links to Other Web Sites_
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of Reliablehosting.com / Strongvpn.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
-
-## Security
-
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [webmaster@reliablehosting.com ](mailto:webmaster@reliablehosting.com)
-
-In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
-
-## Additional Policy Information
-
-**Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [webmaster@reliablehosting.com ](mailto:webmaster@reliablehosting.com).
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-Reliablehosting.com / Strongvpn.com 
-
-PO Box 19719 
-
-South Lake Tahoe, CA, United States 96151
-
-Phone: 954 688 3009
+Adopted August 1, 2002
