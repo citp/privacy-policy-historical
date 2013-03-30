@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailserv.in privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114051319id_/http%3A//mailserv.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailserv.in privacy policy that was archived on 2013-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130330075204id_/http%3A//www.mailserv.in/privacy.html) for the most accurate reproduction.*
 
 # Netcore
 
