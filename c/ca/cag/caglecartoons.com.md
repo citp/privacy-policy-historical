@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caglecartoons.com privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929114104id_/http%3A//www.caglecartoons.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caglecartoons.com privacy policy that was archived on 2013-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130330065239id_/http%3A//www.caglecartoons.com/privacypolicy.html) for the most accurate reproduction.*
 
 # CagleCartoons.com - Site Map
 
@@ -6,7 +6,7 @@
 
 This web site is owned and operated by Cagle Cartoons, Inc..  
 We can be reached via e-mail at privacy@cagle.com  
-or you can reach us by telephone at (800) 696-7561
+or you can reach us by telephone at (805) 969-2829
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -24,7 +24,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them.
 
-Consumers can access this information or have this information corrected by calling us at: (800) 696-7561.
+Consumers can access this information or have this information corrected by calling us at: (805) 969-2829.
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
