@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weareelectricals.com privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513220928id_/http%3A//www.weareelectricals.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weareelectricals.com privacy policy that was archived on 2013-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130330023758id_/http%3A//www.weareelectricals.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
