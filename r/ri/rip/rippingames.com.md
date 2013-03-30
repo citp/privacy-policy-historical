@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rippingames.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127160640id_/http%3A//www.rippingames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rippingames.com privacy policy that was archived on 2013-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130330234502id_/http%3A//www.rippingames.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
