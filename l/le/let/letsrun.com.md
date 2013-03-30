@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the letsrun.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215071958id_/http%3A//www.letsrun.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsrun.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331002348id_/http%3A//www.letsrun.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LetsRun.com Privacy Policy
 
-**** | 
+** ** | 
 
 **LetsRun.com Privacy Policy** **  
 by: LetsRun.com  
@@ -27,14 +27,7 @@ Below is our privacy policy. LetsRun.com has long respected the privacy of its u
 
 - **Weldon and Robert Johsnson** , LetsRun.com
 
-**Bank of America Chicago Marathon Coverage:** **LRC** ****[**2011 Bank Of America Chicago Marathon Preview: Ryan Hall Takes On Moses Mosop**](http://www.letsrun.com/2011/chicago-men-1006.php) **  
- LRC **[**2011 Bank Of America Chicago Marathon Women's Preview: Shobukhova Takes On The Clock  
-**](http://www.letsrun.com/2011/chicago-women-1007.php)**  
-Chicago On The Boards:** *****[ **Will Hall Win Chicago ?**](http://www.letsrun.com/forum/flat_read.php?thread=4254345) **  
-*[If you were Moses Mosop, what would your race plan be for Chicago?  
-](http://www.letsrun.com/forum/flat_read.php?thread=4257287)*[Renato Canova Posts About Moses Mosop's preparations](http://www.letsrun.com/forum/flat_read.php?thread=4256695#4256876)**
-
-______ |    
+|    
 ****
 
 **[Save on Running Shoes](http://www.letsrun.com/letsrunsavings.php)**
