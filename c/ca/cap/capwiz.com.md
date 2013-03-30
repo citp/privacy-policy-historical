@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capwiz.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016015224id_/http%3A//corporate.cqrollcall.com/content/27/en/Footer%2520Content/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capwiz.com privacy policy that was archived on 2013-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130330164053id_/http%3A//corporate.cqrollcall.com/content/27/en/Footer%2520Content/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
