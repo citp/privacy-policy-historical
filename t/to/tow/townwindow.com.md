@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the townwindow.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102065745id_/http%3A//www.townwindow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townwindow.com privacy policy that was archived on 2013-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130330045530id_/http%3A//www.townwindow.com/privacy-policy) for the most accurate reproduction.*
 
 # town window.com, privacy policies, privacy of data, privacy of listing, privacy
 
-[](http://www.townwindow.com/wp-content/uploads/2012/09/111.jpg)
+[](http://cdn.townwindow.com/wp-content/uploads/2012/09/atal-jyoti-abhiyan-inner.jpg)
 
 [](http://www.townwindow.com/town-window-financial-services-bhopal-home-loan-mortgage-loan-personal-loan-auto-loan)
 
-[](http://www.townwindow.com/wp-content/uploads/2012/03/impulse-classs.jp) |  [](http://www.townwindow.com/elevator-bank-coaching-bhopal)
+[](http://cdn.townwindow.com/wp-content/uploads/2012/03/impulse-classs.jp) |  [](http://www.townwindow.com/elevator-bank-coaching-bhopal)
 
 * * *
 
@@ -36,6 +36,6 @@
 
 #### If you have questions or concerns about these privacy policies; please send us an email at wecare@townwindow.com
 
-|  [](http://www.townwindow.com/royal-greens-bhopal-vegetable-supplier-in-bhopal)[](http://www.townwindow.com/pt-rajeev-lochan-shastri-bhopal-astrologers-in-bhopal)[](http://www.townwindow.com/1-stop-solution-co)[](http://www.townwindow.com/intact-power)[](http://www.townwindow.com/g-amit-rockers-dance-academy-bhopal-dance-classes-in-bhopal)   
+|  [](http://dreamdestinationtravels.com/)[](http://www.townwindow.com/pt-rajeev-lochan-shastri-bhopal-astrologers-in-bhopal)[](http://www.townwindow.com/1-stop-solution-co)[](http://www.townwindow.com/intact-power)[](http://www.townwindow.com/g-amit-rockers-dance-academy-bhopal-dance-classes-in-bhopal)   
   
 ---|---|---
