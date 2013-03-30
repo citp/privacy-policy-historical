@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the royaldraw.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201123742id_/http%3A//www.royaldraw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royaldraw.com privacy policy that was archived on 2013-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130330060716id_/http%3A//www.royaldraw.com/privacy) for the most accurate reproduction.*
 
-# Toronto Daily Draws | Online Draws | RoyalDraw.com - Privacy
+# Daily Draws | Online Draws | RoyalDraw.com - Privacy
 
 This Privacy Policy discloses the privacy practices in effect for the Royal Coupon (http://www.royalcoupon.com) and Royal Draw (http://www.royaldraw.com) websites (collectively referred to as the "Site"). Royal Coupon Inc. (referred to as "us", "we", or "Royal Coupon") is the provider and operator of the Site and all its contents. Please read the following to learn what information we collect from you (referred to as "you" or "User") and how we use that information. Royal Coupon is committed to protecting your privacy online. If you have any questions concerning this privacy policy please email us. 
 
