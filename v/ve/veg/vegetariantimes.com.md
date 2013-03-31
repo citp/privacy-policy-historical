@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegetariantimes.com privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625215806id_/http%3A//www.vegetariantimes.com/article/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegetariantimes.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331081413id_/http%3A//www.vegetariantimes.com/article/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Vegetarian Times
 
