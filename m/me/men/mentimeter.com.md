@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentimeter.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015053412id_/https%3A//www.mentimeter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentimeter.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401015413id_/https%3A//www.mentimeter.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Mentimeter
 
@@ -31,6 +31,8 @@ Using Mentimeter is subject to [Terms](https://web.archive.org/terms) and Privac
 ## 7\. Payment information
 
 Mentimeter never store payment information but instead uses [Braintree](https://www.braintreepayments.com/), a service that is a certified PSP (Payment Service Provider) with Visa and Mastercard. Your information is safe with them!
+
+* * *
 
 Was this information helpful?
 
