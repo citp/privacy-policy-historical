@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasybaseballcafe.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228005536id_/http%3A//www.fantasybaseballcafe.com/utility_page.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasybaseballcafe.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331011404id_/http%3A//www.fantasybaseballcafe.com/utility_page.php) for the most accurate reproduction.*
 
 # Utility Page - Fantasy Baseball Cafe 2013
 
