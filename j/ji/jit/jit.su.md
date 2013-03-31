@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jit.su privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223030044id_/http%3A//legal.nodejitsu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jit.su privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401004311id_/http%3A//legal.nodejitsu.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Nodejitsu
 
@@ -15,7 +15,7 @@ Nodejitsu, Inc. (“Nodejitsu,” “we,” or “us”) knows that you care how
 
 
 
-We will only collect, use, and share your information as we describe in this Privacy Policy or as you give us express permission to do. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/web/20121223030044id_/http%3A//legal.nodejitsu.com/tos).
+We will only collect, use, and share your information as we describe in this Privacy Policy or as you give us express permission to do. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/web/20130401004311id_/http%3A//legal.nodejitsu.com/tos).
 
 ### Information We Collect
 
@@ -51,7 +51,7 @@ If you invite another user to share your Application, we will share the Applicat
 
 By subscribing to or enabling an Add-on, you grant Nodejitsu permission to share your Application, Content, and user information with the Add-on Provider as necessary in order to provide you the Add-on. We cannot control third parties’ use of your information. If you do not want your information to be collected by or shared with an Add-on Provider, you can choose not to subscribe to or enable Add-ons.
 
-Except as otherwise described in this Privacy Policy, Nodejitsu will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Service](https://web.archive.org/web/20121223030044id_/http%3A//legal.nodejitsu.com/tos), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Nodejitsu, our users or others.
+Except as otherwise described in this Privacy Policy, Nodejitsu will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Service](https://web.archive.org/web/20130401004311id_/http%3A//legal.nodejitsu.com/tos), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Nodejitsu, our users or others.
 
 Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Nodejitsu services.
 
