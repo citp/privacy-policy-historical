@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milkandmore.co.uk privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011052141id_/http%3A//www.milkandmore.co.uk/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milkandmore.co.uk privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331143023id_/http%3A//www.milkandmore.co.uk/Privacypolicy) for the most accurate reproduction.*
 
 # milk&more Privacy Policy | Milk delivery service
 
@@ -96,7 +96,6 @@ milk&more uses cookies for certain features & functions of our website. Cookies 
 This information helps us to make improvements to the shopping experience, the products and offers available and how we communicate with you so that you get the best from milk&more.   
 The data gathered by the software is only available to the appropriate teams at ‘SIVISITOR’ and milk&more and never shows or stores any personal or confidential information.  
 **Google** | milk&more uses Google's analytics tools as an additional support tool for SIVISITOR. The data gathered is very similar, stored securely by Google and only available to the appropriate team in milk&more.  
-**SpeedTrap** | SpeedTrap is a key piece of software used by milk&more to monitor how well the website is performing. Whilst it also gathers information similar to that gathered by SIVISITOR and Google, SpeedTrap's primary purpose is to allow us to monitor how well the site is running, how quickly the site loads and whether or not there are any technical issues that might affect your shopping experience.  
 **Digital Window** | Digital Window is used to track visitors to the milk&more website from our affiliates websites. The cookie is set when you click on an advert from milk&more shown on one of our affiliates websites. The cookie stores information such as the time, date, and originating affiliate source.   
 More information on Digital Window's own Privacy Policy can be found [here](http://www.digitalwindow.com/privacy/awin1.html)  
 **Cadreon** | Cadreon software advertises milk&more products and offers to new customers in key online locations and reports on the popularity of those adverts to ensure that we are only showing you information you might be interested in.  
