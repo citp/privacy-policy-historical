@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203065407id_/http%3A//www.womma.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331132932id_/http%3A//www.womma.org/privacy-policy) for the most accurate reproduction.*
 
-# Word Of Mouth Marketing Association
+# WOMMA - Privacy Policy
 
 ###  This is the web site of the Word of Mouth Marketing Association.
 
@@ -40,7 +40,7 @@ All WOMMA materials are copyrighted and permission to reprint them must be reque
 
 Permission to reprint is typically granted for educational and informational purposes only. The reprinted material must be attributed to WOMMA. Permission will not be granted to reprint all or portions of any WOMMA materials for resale or profit. Permission to reprint entire published documents will not be granted.
 
-Anyone wishing to reprint WOMMA materials should [download the permission request form here](http://womma.org/privacy/permission-request-form.pdf), and email their request to WOMMA's editorial team at editor@womma.org, or fax it to 1-312-275-7687.
+Anyone wishing to reprint WOMMA materials should email their request to WOMMA's editorial team at editor@womma.org, or call 312-853-4400.
 
 ###  General Policies
 
