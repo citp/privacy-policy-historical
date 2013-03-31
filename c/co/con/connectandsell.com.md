@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectandsell.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116144238id_/http%3A//connectandsell.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectandsell.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331015126id_/http%3A//connectandsell.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy | ConnectAndSell
 
