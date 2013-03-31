@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samsungeeks.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112200946id_/http%3A//samsungeek.blogspot.co.uk/2012/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungeeks.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331204106id_/http%3A//www.samsungeeks.com/2012/08/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | SAMSUNGEEKS
+# Privacy Policy ~ SAMSUNGEEKS
 
 This Privacy Policy governs the manner in which SAMSUNGEEK collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://samsungeek.blogspot.co.uk/> website ("Site"). This privacy policy applies to the Site and all products and services offered by SAMSUNGEEK.
 
