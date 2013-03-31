@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the shutterstock.co.in privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626030211id_/http%3A//www.shutterstock.co.in/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.co.in privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331014607id_/http%3A//www.shutterstock.co.in/privacy.mhtml) for the most accurate reproduction.*
 
 # Shutterstock: Privacy Statement for Shutterstock Images
 
 [](http://www.truste.org/ivalidate.php?url=www.shutterstock.com&sealid=101)
 
-**Privacy Statement for Shutterstock Images LLC.**
+**Privacy Statement for Shutterstock, Inc.**
 
 Last updated on 03/09/11. 
 
-Please note that the practices of Shutterstock Images LLC ("Shutterstock"), with respect to personal information, are now governed by this Privacy Policy as same may be amended from time to time. We encourage visitors to and users of our site to regularly review our Privacy Policy. To update your information and preferences, see the section entitled "Updating/Deleting Your Personal Information and Privacy Preferences."
+Please note that the practices of Shutterstock, Inc. ("Shutterstock"), with respect to personal information, are now governed by this Privacy Policy as same may be amended from time to time. We encourage visitors to and users of our site to regularly review our Privacy Policy. To update your information and preferences, see the section entitled "Updating/Deleting Your Personal Information and Privacy Preferences."
 
 **SHUTTERSTOCK** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This Privacy Policy covers the site, **www.shutterstock.com (the "Site")**. Because the Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -24,7 +24,7 @@ You will be deemed to have been made aware of, and will be subject to, any mater
 
 **Entities Collecting Personal Information**
 
-Personal Information on this Site is collected by Shutterstock Images LLC, 60 Broad Street, 30th Floor, New York, NY 10004, USA and its telephone number is 1-866-663-3954. 
+Personal Information on this Site is collected by Shutterstock, Inc., 60 Broad Street, 30th Floor, New York, NY 10004, USA and its telephone number is 1-866-663-3954. 
 
 **Updating Your Personal Information and Privacy Preferences**
 
@@ -141,11 +141,11 @@ We do not intend to solicit or collect Personal Information from anyone under th
 
 **Privacy Complaints**
 
-Shutterstock takes its users' privacy concerns seriously. If you believe that Shutterstock has not complied with this Privacy Policy with respect to your Personal Information, you may contact the Privacy Officer at Shutterstock Images LLC, 60 Broad Street, 30th Floor, New York, NY 10004, USA. In your letter please describe in as much detail as possible the ways in which you believe that the Shutterstock Privacy Policy has not been complied with. We will investigate your complaint promptly. If you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process. TRUSTe will serve as a liaison with this Site to resolve your concerns. 
+Shutterstock takes its users' privacy concerns seriously. If you believe that Shutterstock has not complied with this Privacy Policy with respect to your Personal Information, you may contact the Privacy Officer at Shutterstock, Inc., 60 Broad Street, 30th Floor, New York, NY 10004, USA. In your letter please describe in as much detail as possible the ways in which you believe that the Shutterstock Privacy Policy has not been complied with. We will investigate your complaint promptly. If you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process. TRUSTe will serve as a liaison with this Site to resolve your concerns. 
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact our Privacy Officer at [privacy@shutterstock.com](mailto:privacy@shutterstock.com). 
 
-Shutterstock Images LLC  
+Shutterstock, Inc.  
 60 Broad Street, 30th Floor  
 New York, NY 10004  
 USA  
