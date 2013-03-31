@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologynetworks.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129145800id_/http%3A//www.technologynetworks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologynetworks.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331075644id_/http%3A//www.technologynetworks.com/privacy.aspx) for the most accurate reproduction.*
 
 # Technology Networks - The Online Scientific Community - Privacy Policy and Disclaimer
 
@@ -14,7 +14,7 @@ Site visitors are required to complete a registration process. By registering, v
 
 We may disclose your information to other companies in order to ensure the smooth provision of services that you have booked with us. If you have made a booking with us your data will be principally used to provide you with your purchase as well as your registration or other services and facilities.
 
-Your details may be shared within the Technology Networks and Select Biosciences group. Please [click here](https://web.archive.org/web/20121129145800id_/http%3A//www.technologynetworks.com/about.aspx) for a list of websites and company details. These companies may use your details to send you information about products, promotions and special offers that we think may interest you.
+Your details may be shared within the Technology Networks and Select Biosciences group. Please [click here](https://web.archive.org/web/20130331075644id_/http%3A//www.technologynetworks.com/about.aspx) for a list of websites and company details. These companies may use your details to send you information about products, promotions and special offers that we think may interest you.
 
 The information is also used in our dealings with the third parties with whom we work. The co-operation of the companies that supply us with content and services and the revenue derived from advertising and sponsorship allow us to keep access to our sites free of charge. In order to provide incentives for these third parties to continue working with us, Technology Networks Ltd. does share some information about our visitors, as detailed below.
 
