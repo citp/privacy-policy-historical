@@ -1,82 +1,96 @@
-> *The following text is extracted and transformed from the appeagle.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107191625id_/http%3A//www.appeagle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appeagle.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401014745id_/http%3A//www.appeagle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AppEagle
+# Privacy Policy - Appeagle.com
 
-The AppEagle Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using AppEagle, located at [www.AppEagle.com](http://www.appeagle.com/ "AppEagle.com") and its directly associated domains (collectively, "AppEagle" or "Website").
+At Appeagle, We respect and protect the privacy of visitors to our website, www.appeagle.com (the “Site”), and our customers who use our repricing platform, tools and services offered on the Site (the “Service”). This Privacy Policy (“Policy”) explains how We collect and use visitors’ and customers’ information as part of our Site and our Service.
 
-By using or accessing AppEagle.com, you are accepting the practices described in this Privacy Policy.
-
-This policy is effective as of November 1, 2009.
+Last revision: December 21, 2011.
 
 * * *
 
-Users
+1\. INFORMATION YOU PROVIDE
 
-Any reference in this Privacy Policy to: "User," "you," and "your" means any natural person visiting, and/or subscribing to the services offered on, AppEagle.com acting primarily in a personal capacity and for purposes other than resale. AppEagle.com means the AppEagle.com web site only.
+In this Policy, “personal information” means information or an information set that identifies or could be used by or on behalf of Appeagle to identify an individual, but not including encoded, anonymized, or publically-available data that has not been combined with non-public personal information.
 
-* * *
+The information Appeagle collects and uses is limited to the purpose for which customers engage Appeagle. When You register for the Service, We ask for information such as your name, company name and address, site name, phone number, e-mail address and credit card information. If You sign-up for the free trial account, You are not required to enter your credit card information until You decide to continue with a paid plan. Appeagle uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use your billing information, except for the sole purpose of credit card processing on Appeagle’s behalf.
 
-Purpose
+Appeagle may use the personal information and other information We collect about your use of the Service to operate the Service and tailor it to your needs, for billing, identification and authentication, to contact You about your use of the Service, send you marketing materials (subject to your opt-out option), for research purposes, and to generally improve the content and functionality of the Service and the Site.
 
-This policy applies to all information collected or submitted on AppEagle's website or via phone with a AppEagle representative. The types of information collected are personal, billing and project related. We might also collect information from you regarding third parties in relation to you (i.e. hosting companies, etc…).
+Appeagle may also share your personal information with its third-party vendors (such as its credit card processor) and hosting partners to provide the necessary hardware, software, networking, storage, and other services We use to operate the Service and maintain quality user experience. Although Appeagle owns all rights to the software, code, databases, and other Service applications, You retain all rights to your data. Our service providers may not use your personal information for marketing purposes.
 
-* * *
+2\. COOKIES
 
-What Information We Collect
+A “cookie” is a piece of information either stored temporarily (session cookie) or placed on your computer’s hard drive (persistent cookie). The main purpose of a cookie is to allow a web server to identify a user, and serve up customized web pages and/or login information to the user’s web browser when revisiting a web page. Cookies help us promptly display the information You need and other information which We consider to be of interest to You. By gathering and remembering information about your website preferences through cookies We can provide a better web and marketing experience.
 
-**Registration:** When you register for AppEagle we ask for information such as your name, company name, email address, billing address, and credit card information. Members who sign up for the free account are not required to enter a credit card.  
-**User Feedback:** If a User wishes to provide us with feedback about our Web site and/or services related to our Web site, we request your name and e-mail address.  
-**Aggregate Information:** AppEagle.com collects aggregate, non-personal information about its users, such as IP addresses, browser types, and usage of the Web site and related services. This information is not used to personally identify any individual users. This information is used to determine the browsing patterns and to improve our web site.
+When You visit the Site or use the Service, We use “session cookies” to allow the Site or Service to uniquely identify your browser while You are logged in and to enable Appeagle to process your online transactions. Session cookies also help us confirm your identity and are required in order to use the Service. We also use “persistent cookies” that only We can read and use, to identify You as a Appeagle customer and make it easier for You to log into the Service.
 
-* * *
+As a user You can accept or decline the use of cookies through a functionality built into most web browsers. Users who disable their web browsers’ ability to accept cookies will be able to browse our Site, but will not be able to access or take advantage of the Service.
 
-Cookies
+3\. CLEAR GIFS
 
-Like most websites, we use small bits of data called cookies stored on users' computers to simulate a continuous connection. Cookies let us 'remember' information about your preferences and passwords and allow you to move within our Service without reintroducing yourself. Members who disable cookies will not be able to use AppEagle's services, as they are required to maintain your login to our service within a browser session. Disabling cookies does not prevent you from accessing websites published under our system, though some features of those sites may be degraded. These cookies can be tied back to personally identifiable information only in the event that you are logged in to our service. If you are logged in to our service, the cookies on your computer will uniquely identify your account within our system.
+Our third-party tracking utility company employs a software technology called clear gifs that helps us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. Unlike cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages.
 
-* * *
+We tie the information gathered by clear gifs to our customers’ personal information, and use them in our HTML-based emails to learn which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and our marketing campaigns. If You would like to opt-out of these emails, please follow the unsubscribe instructions within our marketing emails.
 
-Data Storage
+4\. LOG FILES
 
-AppEagle uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run your AppEagle website. Although AppEagle owns the code, databases, and all rights to the AppEagle service, you retain all rights to your data.
+As is true with most web sites, Appeagle gathers certain information automatically and stores it in log files. This information includes internet protocol addresses as well as browser, internet service provider, referring/exit pages, operating system, date/time stamp, and click stream data. Occasionally We may connect personal information to data gathered in our log files, as necessary to improve the Service to individual customers. Otherwise We mostly use this information with no connection to individual users, to analyze trends, administer the Site, or track usage of various features within the Site.
 
-* * *
+5\. LINKS TO OTHER SITES
 
-How Your Information Is Stored and With Whom It Is Shared
+Our Site contains links to other websites that are not owned or controlled by Appeagle. Please be aware that We do not determine and We are not responsible for the privacy practices or content of such other sites. We encourage You to be aware when you leave our Site, and read the privacy statements of other websites linked to our Site. This Policy applies only to information collected by this Site.
 
-**Advertisers and Marketing Companies:** We may share aggregate information about our web site with advertisers and marketing companies for general marketing and demographic purposes. Such information does not include any personally identifiable information.  
-**User Feedback:** Users may be contacted by AppEagle.com personnel for the purpose of following up on User Feedback. AppEagle.com reserves the right to use, reproduce, and make available to the public your abbreviated name, your residential state and feedback message for marketing and advertising purposes.  
-**Duration of Storage on Our Database:** AppEagle.com stores and retains your contact solely for the purposes of record-keeping, internal auditing, and analysis.  
-Compliance with Law and Enforcement of Terms of Service: In cases where required by law or court order, AppEagle.com may be forced to release personally identifiable information of users to permit investigation of credit card fraud, illegal use of the Internet, or other cases of misconduct. In addition, we may also share or disclose personally identifiable information if necessary to enforce or apply the Terms of Service, or to protect the rights and property of AppEagle.com.  
-**Other Third Parties:** Other than described above, AppEagle.com will not share or disclose your personally identifiable information with third parties, unless we have given you the opportunity to choose not to have your information shared with said third parties ("opt out"), and you have not exercised that opportunity.  
-**Other Web Sites:** This Privacy Policy only addresses AppEagle’s information gathering practices. To the extent that you disclose personally identifiable information to other web sites, you are subject to the other web sites' privacy policies. We strongly encourage you to review a third party web site's privacy policy before you disclose your personally identifiable information.
+6\. PUBLIC FORUMS
 
-* * *
+Our Site offers publicly-accessible blogs or community forums. You should be aware that any information You provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@appeagle.com. In some cases, We may not be able to remove your personal information, in which case We will let You know if We are unable to do so and why.
 
-Our Commitment to Children's Privacy
+7\. CUSTOMER TESTIMONIALS/COMMENTS/REVIEWS
 
-AppEagle.com does not direct its web site at children under thirteen (13) years of age. Individuals under eighteen (18) years of age should consult with their parent or guardian about the use of this site for their benefit.
+From time to time, We post customer testimonials on the Site which may contain personal information. We do obtain the customers’ consent to post their names along with their testimonials.
 
-* * *
+8\. INFORMATION SHARING
 
-Our Commitment to Data Security
+Except as described in this Policy, Appeagle will not give, sell, rent or loan any personal information to any third party. We may disclose such information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. Appeagle may also provide non-personal, summary or group statistics about our customers, sales, traffic patterns, and related Site information to reputable third-party vendors, but these statistics will include no personal information.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online and offline. All online credit card transactions are performed only on secure servers through a secure SSL connection and comply with the latest standards in the industry.
+9\. PROTECTION OF INFORMATION
 
-* * *
+Appeagle is committed to ensuring the security of your personal information. We take every precaution to protect the confidentiality and security of the personal information placed on the Site or used within the Service, by employing technological, physical and administrative security safeguards, such as firewalls and carefully-developed security procedures. For example, when You enter sensitive information (such as login credentials and all your activity on our Service platform) We encrypt the transmission of that information using secure socket layer technology (SSL). These technologies, procedures and other measures help ensure that your data is safe, secure, and only available to You and to those You authorized access.
 
-Third-Party Websites
+10\. CHOICE
 
-This website may provide links to third-party websites. Any such links are provided solely as a convenience to you. AppEagle has no control over these websites and content and does not assume any responsibility or liability for these websites. AppEagle does not endorse or make any representations about these websites, or any information, materials, or products found thereon. If you access any of the third-party websites linked on this Web site, you do so at your own risk.
+We process and store information on behalf of our customers. If You are our customer and would like to opt-out of getting communications from Appeagle please contact us at privacy@appeagle.com or follow the unsubscribe instructions included in each marketing email. Requests to opt-out of transfers to our third-party vendors will also be considered, but limitations on data sharing may make it difficult or impossible to provide the Service.
 
-* * *
+11\. ONWARDS TRANSFER
 
-How You Can Access or Correct Your Information
+We may transfer personal information to our third-party vendors that help us provide the Service, subject to appropriate confidentiality restrictions. Such transfers are limited to the purposes for which personal data has been transferred to us from our customers. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice, and the service agreements with our customers. Otherwise We may also share personal information as is required or permitted by law.
 
-At any time, you may later review or update the personal information we have collected from you online by contacting us at [support@appeagle.com.](mailto:support@appeagle.com "Contact AppEagle") To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+12\. DATA RETENTION
 
-* * *
+Appeagle will retain personal information We process on behalf of our customers for as long as needed to provide Service to our customers, subject to our compliance with this Policy. We retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-How to Contact Us
+13\. ENFORCEMENT
 
-Should you have other questions or concerns about these policies, please email us at [support@appeagle.com.](mailto:support@appeagle.com "Contact AppEagle")
+Appeagle will continuously monitor its privacy practices and continued compliance with the Directive and this Policy.
+
+14\. CHILDREN’S PERSONAL INFORMATION
+
+Appeagle does not knowingly collect any personal information from children under the age of 13.
+
+15\. CHANGES TO THE PRIVACY POLICY
+
+If We make any material changes to this Policy We will notify You by email or by posting a prominent notice on the Site prior to the change becoming effective. We encourage You to periodically review this page for the latest information on our privacy practices. Your continued use of the Site or Service constitutes your agreement to be bound by such changes to this Policy. Your only remedy, if You do not accept the terms of this Policy, is to discontinue use of the Site and Service.
+
+16\. BUSINESS TRANSACTIONS
+
+Appeagle may assign or transfer this Policy, and your user account and related information and data, to any person or entity that acquires or is merged with Appeagle.
+
+17\. TERMS OF SERVICE
+
+When You access and use the Service, You are subject to the Appeagle [Terms of Service](http://www.appeagle.com/terms-of-service).
+
+18\. CONTACT US
+
+If You have questions regarding this Policy or about the privacy practices of Appeagle, please contact us by email at [privacy@appeagle.com](mailto:privacy@appeagle.com).
+
+  
+
