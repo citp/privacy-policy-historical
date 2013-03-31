@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futurelooks.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006123251id_/http%3A//www.futurelooks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurelooks.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331173238id_/http%3A//www.futurelooks.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Futurelooks
+# Privacy Policy - Futurelooks
 
 **Futurelooks** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
