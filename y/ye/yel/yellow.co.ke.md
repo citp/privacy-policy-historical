@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yellow.co.ke privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028152858id_/http%3A//www.yellow.co.ke/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellow.co.ke privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331021922id_/http%3A//yellow.co.ke/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Yellow Pages Kenya Ltd, Kenya Business Directory, Local Business Search, Business Contacts, Reviews, Coupons, Restaurants and Hotels in Nairobi, Mombasa
 
-This Privacy Policy governs the manner in which Yellow Pages Kenya collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.yellow.co.ke](https://web.archive.org/web/20121028152858id_/http%3A//www.yellow.co.ke/page/www.yellow.co.ke) website ("Site"). This privacy policy applies to the Site and all products and services offered by Yellow Pages Kenya.
+This Privacy Policy governs the manner in which Yellow Pages Kenya collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.yellow.co.ke](https://web.archive.org/web/20130331021922id_/http%3A//yellow.co.ke/page/www.yellow.co.ke) website ("Site"). This privacy policy applies to the Site and all products and services offered by Yellow Pages Kenya.
 
 **Personal identification information**
 
@@ -68,8 +68,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Yellow Pages Kenya](https://web.archive.org/web/20121028152858id_/http%3A//www.yellow.co.ke/page/www.yellow.co.ke)  
-[www.yellow.co.ke](https://web.archive.org/web/20121028152858id_/http%3A//www.yellow.co.ke/page/www.yellow.co.ke)  
+[Yellow Pages Kenya](https://web.archive.org/web/20130331021922id_/http%3A//yellow.co.ke/page/www.yellow.co.ke)  
+[www.yellow.co.ke](https://web.archive.org/web/20130331021922id_/http%3A//yellow.co.ke/page/www.yellow.co.ke)  
 www.yellow.co.ke help@yellow.co.ke Nairobi, Kenya  
 +254733732243  
 info@yellow.co.ke
