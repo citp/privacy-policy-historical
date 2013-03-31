@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dedicatedserverdir.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606023322id_/http%3A//www.serchen.com/legal/privacy-policy/%3FChannelID%3DDSD%26CountryID%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedserverdir.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331074613id_/http%3A//www.serchen.com/legal/privacy-policy/%3FChannelID%3DDSD%26CountryID%3DUS) for the most accurate reproduction.*
 
-# Privacy Policy - Serchen
+# Privacy Policy | Serchen
 
 **What is the purpose of this Privacy Policy?**
 
@@ -26,9 +26,15 @@ If you correspond with us via E-mail or snail mail, or if other third parties su
 
 Our users are given the opportunity to opt-in to receive promotional E-mail at the time of registration. Promotional E-mail does not include E-mail necessary for our site's services. We ask that a customer actively check a box to receive E-mail about special offers and hosting tips. At anytime a user can request removal from the distribution list.
 
-**Does the Serchen Interactive website use cookies? If so, how are cookies used on the website?**
+**Do websites in the Serchen Network use cookies? If so, how are cookies being used?**
 
-Cookies are pieces of information that a website transfers to a user's hard drive for record-keeping purposes while visiting a site. Like most major websites, Serchen Interactive uses cookies on certain pages of our site. Cookies make using the Internet easier by, among other things, saving your passwords and preferences for you. For example, a cookie lets the Serchen Interactive website remember that you've registered, which allows us to speed up your future activities at our site, and which allows you to enter your password less frequently while visiting our website. We may also use cookies to deliver content specific to your interests. Our cookies do not contain any content specific information. Our cookies do not contain any personally identifying information although cookies may enable us to relate your use of our website to personally identifying information that you previously submitted. For example, it enables us to enhance personalization on the website, such as calling you by name when you return to our site. Most browsers are initially set up to accept cookies, although your browser may permit you to decline cookies. If you do decline cookies, your use of our site may be slowed because you may need to re-enter information.
+Cookies are pieces of information that a website transfers to a user's hard drive for record-keeping purposes while visiting a site. Like most major websites, the Serchen Network uses cookies on certain pages of our site. Cookies make using the Internet easier by, among other things, remembering your usernames and preferences for you. For example, a cookie lets the Serchen website remember that you've registered, which allows us to speed up your future activities at our site. 
+
+Our cookies do not contain any content specific information. Our cookies do not contain any personally identifying information, although cookies may enable us to relate your use of our website to personally identifying information that you previously submitted. For example, it enables us to enhance personalization on the website, such as calling you by name when you return to our site. 
+
+Most browsers are initially set up to accept cookies, although your browser may permit you to decline cookies. If you wish to restrict or block the cookies which are set by our website, or indeed any other website, you can do this through your browser settings. To find comprehensive information on how to do this on a wide variety of browsers, please visit http://www.aboutcookies.org.
+
+Please be aware that restricting cookies may impact on the functionality of our website.
 
 **What are the policies of linked sites and other third parties?**
 
