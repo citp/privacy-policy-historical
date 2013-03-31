@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpnchoice.com privacy policy that was archived on 2012-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120819065651id_/http%3A//www.vpnchoice.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpnchoice.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331224812id_/http%3A//www.vpnchoice.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VPNchoice.com
 
@@ -28,3 +28,5 @@ Anyone may opt out of the DoubleClick cookie (for AdSense partner sites, DoubleC
 Advertisers are using different technologies to evaluate the visitor’s information which supports to their further decisions regarding advertisements. They also want to get the information about the geographical locations of visitors. By doing this they just mean to target the right segment of customer ship by their ads. For example when someone visits ******vpnchoice.com**** ** form Asia or Europe, he’ll find advertisement according to his geographical location and mostly related to our web contents. That’s why we have to provide our visitor information or log files to the advertisers.
 
 It does not mean that we are selling personal information of visitors. If you don’t want to share your information with us or other web sites then make some changes in your internet browsing application.
+
+Rating: 0.0/ **10** (0 votes cast)
