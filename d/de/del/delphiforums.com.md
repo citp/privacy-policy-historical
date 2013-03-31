@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005065529id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiforums.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331181642id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.*
 
 # Delphi Forums
 
