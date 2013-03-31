@@ -1,42 +1,175 @@
-> *The following text is extracted and transformed from the id.net privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617172931id_/http%3A//www.decentx.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the id.net privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331025120id_/https%3A//www.id.net/privacy-policy) for the most accurate reproduction.*
 
-# DecentXposure :: privacy
+# id.net
 
-PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THE DECENTXPOSURE.COM WEBSITE (the “Site”). By accessing and using the Site, you are hereby agreeing to be legally bound by the terms and conditions of this privacy policy (the “Policy”). Please note that the Site and any services offered therein are only offered to users 13 years of age or older. Any user that is 12 years old or younger should not use the Site and exit the Site immediately. If you do not agree with all of the following terms and conditions, please do not use the Site. 
+## ID.NET PRIVACY POLICY
 
-We are committed to protecting our users’ (the “User”) privacy. To that end, we offer this statement to inform the User as to how we define, gather and utilize personal information. We reserve the right, at our sole discretion, to change, modify or otherwise alter the Policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Without limiting the foregoing, we may occasionally notify the User by e-mail about changes to the Site or provide notices of changes by displaying notices or links to notices to the User generally on the Site. As a result, please review this policy periodically. The User’s continued use of the Site following the posting of changes and/or modifications will constitute the User’s acceptance of the revised privacy policy. 
+Last modified: September 20, 2012
 
-DecentXposure, LLC (“DecentXposure”) is the sole owner of the personal information collected on the Site. We do not sell, share or rent this information to others. We gather information on the User in two different ways: (1) cookie technology; and (2) voluntary submissions for the purposes of redeeming _DecentXposure_ credit for prices. We never use, store, gather or request personal financial information from the User. 
+The Privacy Policy (the “Policy”) offered here, along with Our [Terms of Service](https://web.archive.org/terms-of-service) (“Terms”), discloses the privacy practices of ID.net Ltd. regarding any personal data You may provide to Us or that We receive from You. 
 
-When the User enrolls in the Site or orders products from us, we collect personally identifiable information. If you order one or more of the products from our prize store, we will collect and maintain your name, e-mail address, shipping address, product selections, order number, referring URL, IP address and a password. We collect this and other information for the sole purpose of filling your order and to communicate with you about your order. Before confirming your order, the User will have the opportunity to review the product order form and make changes and additions to the information it contains. These changes will be automatically kept for future use. We will not provide third parties with access to your individual account information, unless stated otherwise on the Site. 
+Please read this Policy carefully. By accessing or using Our website, You acknowledge that You have read, understand and agree to be bound by the terms of this Policy on this Website. If You do not agree with this Policy, please do not use this Website. It is Your responsibility to review this Policy frequently and remain informed about any changes to it, so We encourage You to visit this page often. 
 
-We have taken steps to ensure that the User’s personally identifiable information collected is secure, including limiting the number of people who have physical access to its database servers, as well as electronic security systems and password protections which guard against unauthorized access. 
+_For purposes of the Hong Kong Personal Data (Privacy) Ordinance, Our Data Controller is ID.net Ltd._
 
-We encourage the User to be smart about choosing when and with whom to release information online. Additionally, we will allow the User or their parents to opt out of the DecentXposure.com database. 
+Our Privacy Policy explains:
 
-Cookies   
-A cookie is a piece of data stored on the User’s hard drive containing information about the User. Cookies are tied to personal information provided by users at registration in order to provide a personalized user interface and maintain the session identification. By setting a cookie on our site, the User does not have to log in a password more than once, thereby saving time while on our site. If the User rejects the cookie, they may still use our site. The only drawback to not using cookie technology is that the User will have limited use of some areas of our site. For example, the User will not be able to participate in any of our promotions that take place, or collect credits that can be exchanged for prize merchandise. 
+  * What information We receive
+  * How We use that information
+  * The choices We offer, including how to access and update information
 
-Sharing   
-We do not share any personally identifiable information with third parties without the User’s prior expressed permission. We will share aggregate demographic information with our partners and advertisers. However, this aggregate information is not tied to any personally identifiable information. 
 
-Hyperlinks to Third Party Sites   
-The appearance of external hyperlinks does not constitute endorsements by _DecentXposure_ , its subsidiaries and affiliates of the opinions or views expressed by these websites and _DecentXposure_ does not verify, endorse, or take responsibility for the accuracy, currency, completeness or quality of the content contained in these sites. Furthermore, _DecentXposure_ is not responsible for the quality or delivery of the products or services offered, accessed, obtained or advertised by such sites. As such, neither _DecentXposure_ , its subsidiaries and affiliates will be responsible for any errors or omissions or for the results obtained from the use of such information (the “Information”) or postings from the User. Be advised that in no event shall _DecentXposure_ assume or have any responsibility or liability for the manner in which the Information or postings are exploited or for any claims, damages, or losses resulting from their use and/or appearance on these sites. Finally, _DecentXposure_ will under no circumstances be liable for any direct, indirect, incidental, consequential, punitive or special loss or other damage of any kind whatsoever, whether arising from negligence, breach of contract, defamation, infringement of copyright or other intellectual property rights, caused by the exhibition, distribution or exploitation of any information or content contained within these sites. 
 
-Surveys and assignments   
-_DecentXposure_ will periodically request information from the User via surveys or assignments. Participation in these surveys or assignments is completely voluntary and the User may choose whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), demographic information (such as zip code), and electronic recordings of the User’s voice. Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Any third parties involved in prize fulfillment will not be permitted to use your personally identifiable information for any secondary purposes. 
+In order to facilitate Your reading, here is an outline of Our Privacy Policy:
 
-Special offers   
-We send all new members a welcoming email to verify password and username. Established Users will occasionally receive information on products, services, special deals, and other promotions. The User may opt not to receive these types of communications. 
+  1. Definitions
+  2. Information We receive and how it is used
+  3. Other websites
+  4. Cookies and similar technologies
+  5. Information Security
+  6. Accessing and Correcting Your personal information
+  7. Parental control
+  8. Hong Kong privacy rights
+  9. Contacting Us
 
-Site and service updates   
-_DecentXposure_ will also send the User site and service announcement updates. _DecentXposure_ communicates with the User to provide requested services and in regards to issues relating to their account via email or phone. The User may elect not to receive these services. Please see our choice and opt-out below. 
 
-Correction/updating personal information   
-The User may correct or update personal information by clicking on the “edit my profile” button on the “[Account](https://web.archive.org/web/20060617172931id_/http%3A//www.decentx.com/account.asp)” page or by emailing our Customer Support via email at [support@decentxposure.com](mailto:support@decentxposure.com). 
 
-Choice/opt-out   
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our registration form has an ‘opt-out’ mechanism so users who promote music with us, but don’t want any marketing material, can keep their email address off of our lists. Users who no longer wish to receive our automatic project assignments may opt-out of receiving these communications by replying to the email and putting “unsubscribe” in the subject line in the email or email us at [support@decentxposure.com](mailto:support@decentxposure.com). 
+### I. Definitions
 
-Notification of changes   
-If we are going to use the User’s personally identifiable information in a manner different from that stated at the time of collection, we will notify you via email. The User will have a choice as to whether or not we use the User’s information in this different manner. However, if the User has opted out of communication with the site then the User will not be contacted, nor will the User’s personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect the User’s information already stored in our database, we will post a prominent notice on our web site notifying the User of the change. In some cases where we post the notice we will also e-mail the User who has opted to receive communications from us notifying them of the changes in our privacy practices. 
+Id.Net Ltd. shall be referred to as “Company”. When first-person pronouns are used in this Policy (Us, Our, Ours, We), the provisions are referring to the Company and/or any other website We may choose to operate in the future.
+
+The term “Website” is used to refer to the id.net website published by Us. Id.net is a login system for Internet Users and webmasters.
+
+The terms “You”, “Your”, the “User”, as well as all second-person pronoun, are used to refer to as the user of this Website and/or services.
+
+The term “User ID” refers to the username You use to identify Your id.net account.
+
+### II. Information We receive and how it is used
+
+#### (a) Information We receive about You
+
+The information that We receive includes sets of information: _Your information_ and the _information we receive about You._
+
+**Your information** is the information entered when You fill out forms on Our Websites, when You register, i.e. Your id.net account. It includes Your name, email address, birthday and gender.
+
+**The information We receive about You** concerns
+
+##### i. non-personal information: 
+
+  * Data in relation to the use of the Website, such as the date and time You visit the Website, the web address or ULR You are on;
+  * Data in relation to the Website services and activities;
+
+
+
+##### ii. technical information, including:
+
+  * the IP address,
+  * browser,
+  * the operating system You use; 
+  * if You are logged in to id.net, Your User ID.
+
+
+
+#### (b) How We use the information We receive
+
+Any information we receive regarding You is to enable Us to offer better services to You. We may use non-personal information, to improve the design and content of Our Website, to personalize Our visitors’ experience or to offer products, programs and services.
+
+We may also use information to ensure that Our Users are in compliance with our Terms. We do not retain any personal information beyond the time it is needed.
+
+#### (c) Information we share
+
+We do not share Your id.net account information with companies, organizations and individuals outside of the Company unless one of the following circumstances apply:
+
+##### With Your consent
+
+We will share Your id.net account information with companies, organizations and individuals outside of the Company when We have your consent to do so. We require opt-in consent for the sharing of any personal information.
+
+##### For external processing
+
+We provide personal information to Our affiliates or other trusted businesses or persons to process it for us, based on Our instructions and in compliance with Our Privacy Policy and any other appropriate confidentiality and security measures.
+
+##### For legal reasons
+
+We will share personal information with companies, organizations or individuals, outside the Company, if We have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+
+  * meet any applicable law, regulation, legal process or enforceable governmental request (including legal requests from jurisdictions outside of Hong Kong)
+  * enforce applicable Terms of Service, including investigation of potential violations
+  * detect, prevent, or otherwise address fraud, security or technical issues;
+  * protect against harm to the rights, property or safety of the Website, Our Users or the public as required or permitted by law.
+
+
+
+If the Company is involved in a merger, acquisition or asset sale, We will continue to ensure the confidentiality of any personal information and give affected Users notice before personal information is transferred or becomes subject to a different privacy policy.
+
+#### (d) Where Your information is located
+
+The Company is headquartered in Hong Kong. However, Our login system is hosted by servers in the Netherlands. Personal information may be accessed by Us or transferred to Us in the Netherlands or to Our affiliates, business partners or service providers elsewhere in the world. By providing Us with information We receive about You, You consent to this transfer. We will protect the privacy and security of this information according to Our Privacy Policy, regardless of where it is processed or stored.
+
+### III. Other websites
+
+#### (a) About ID.net Website
+
+Id.net Website lets You connect with other websites, involving games or social interaction for example, through the use of a login system. In this way, the Company helps You make Your experiences on the web more personalized.
+
+Reminder: the websites are created and maintained by other businesses and developers who are not part of the Company, so it is important You make sure to read their terms of service and privacy policies.
+
+#### (b) Logging in to another website using id.net
+
+The Company lets You log into third party websites using id.net identities created on Your id.net account. This means that You have the possibility to use the default id.net identities or create new ones to log in to third party websites. You can determine under which identity You want to access third party websites. When You log in using id.net, Your id.net account information will never be transferred to the third party website without Your consent (Section II (c)). In order for third party websites to uniquely identify Your account among other accounts, We send a unique identifier named ‘PID’ (personal identification). Your PID is different for each third party website so as to preserver your anonymity.
+
+Be aware that there is a probability that third party websites may require from You different information than the one in the fields you have chosen to fill for Your id.net identity. For instance, You may have filled in solely Your name and country but the third party website requires You to provide Your nickname as well. The extra information required may vary from one third party website to another. Once you do so, the extra information provided will be automatically added to the identity you have accessed that website with. As a result, all the websites linked to that identity will also benefit from that additional information. Nonetheless, You are able to view which third party website has access to which information You provided by going on the “Sites” section of Your id.net account.
+
+If You already have an account on a third party website, that website may also be able to let You connect and link it to one of Your id.net identities. Your information will be sent to Us when You use Your id.net identity to register or login to a third party website. 
+
+#### (c) Privacy Practices of Third Parties
+
+This privacy statement only addresses the use and disclosure of information by the Company through Your interaction with the websites. Other websites that may be accessible from Our Website may have their own privacy statements and personal information collection, use and disclosure practices. For instance, some websites require an over eighteen (18) years of age access.
+
+We are not responsible for the privacy policies, practices or content of Third party websites. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through other websites. When You leave the Website, the privacy policies and practices of that other website apply; We encourage You to be aware of those privacy policies and practices when You are on those other websites and submitting personally identifiable information. You are responsible for reviewing the privacy policies and practices of each and every site that You visit.
+
+### IV. Cookies and similar technologies
+
+It is possible that We may gather information regarding Your computer for Our services. This collection of data is used for statistical analysis about Our Website for use by Us. 
+
+Any information shared will not identify who You are, but rather be mathematical data about Our visitors and their use on Our Website. The data does not give out any personal details. Cookies may be used to gather this general internet data. When used, cookies are downloaded to Your computer without prompting. The cookie file is stored on Your hard drive, where files are transferred to. This information helps Us improve Our Website and services to You. All computers can block cookies by activating proper browser settings 
+
+Due to the communications standards on the Internet, when You visit the Website We automatically receive the URL of the site from which You came and the site to which You are going when You leave the Website. The Company also received the internet protocol (“IP”) address of Your computer (or the proxy server you use to access the World Wide Web), Your computer operating system and type of web browser You are using, email patterns. The link between Your IP address and Your personally identifiable information is not shared with third parties without Your permission. 
+
+### V. Information Security
+
+We work hard to protect the Website and Our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information We hold.
+
+In particular: 
+
+  * We encrypt many of Our services using SSL
+  * We review Our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
+  * We restrict access to personal information to the Company’s employees, contractors and agents who need to know that information in order to process it for Us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+Data you provide Us with will be stored on secure servers. We take all reasonable steps to ensure the safety of the data transfer in agreement with this Policy. Transmission of data via the Internet is never completely secure, thus a guarantee of data sent electronically or transmitted cannot be given. Information offered is therefore at Your own risk.
+
+We use a reasonably secure method to destroy personal information.
+
+### VI. Accessing and Correcting your personal information
+
+You can access and change any personal information We store through you id.net account page.
+
+Correcting information from one of Your id.net identities, i.e. change what You have filled in, will automatically apply that correction on all the linked websites to that id.net identity. 
+
+### VII. Parental control
+
+This Website is offered and made available to Users thirteen (13) years of age or older. If the User is under 13 years old, privacy protection measures are taken while online. For instance, We do not ask children to disclose more personal information than is necessary for them to provide in order to engage in a particular activity.
+
+We do not disclose information we receive about You to third parties, if the User is under 13 years old of age.
+
+Parents may request the deleting of the account or refuse to allow any further reception or use of their child’s information by sending a letter to Our Privacy Manager at [privacy@id.net](mailto:privacy@id.net).   
+In order to protect the child’s privacy and security, reasonable steps will be taken to verify the parent’s identity before granting access to the personal information. Therefore it is of the utmost importance to include, in Your letter, your email address as well as a telephone number where we can reach you.
+
+### VIII. Hong Kong privacy rights
+
+The Personal Data (Privacy) Ordinance provides You with rights to access and correction the data You supplied to the Company. If You update any of Your information, We may keep a copy of the information that You originally provided to Us in Our archives for uses documented in this Policy. You may request deletion of Your information at any time by contacting Us.
+
+### IX. Contacting Us
+
+We are happy to receive any queries, comments, or requests You may have regarding Our Privacy Policy. Feel free and do not hesitate to use the following email to contact Us: [privacy@id.net](mailto:privacy@id.net)
