@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the wfscorp.com privacy policy that was archived on 2012-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120224104810id_/http%3A//www.wfscorp.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfscorp.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401195631id_/https%3A//www.wfscorp.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | www.wfscorp.com
 
-### I. Your privacy is important to us
+## **World Fuel Services Corporation Privacy Policy**
 
-We want you to know that when you use the World Fuel Services Corp. ("WFS") website, www.wfscorp.com (the "Site"), and when you provide us with information about you, the privacy of your personally identifiable information will be respected and protected, subject to this Privacy Policy. While WFS strives to take reasonable measures to protect the privacy of its Site users, this Privacy Policy is not a contract and does not create any legal rights or obligations. Rather, the following are guidelines for protecting the information you provide to us.
+###   
+I. Your privacy is important to us
+
+We want you to know that when you use the World Fuel Services Corp. ("WFS") website, [www.wfscorp.com](https://www.wfscorp.com/) (the "Site"), and when you provide us with information about you, the privacy of your personally identifiable information will be respected and protected, subject to this Privacy Policy. While WFS strives to take reasonable measures to protect the privacy of its Site users, this Privacy Policy is not a contract and does not create any legal rights or obligations. Rather, the following are guidelines for protecting the information you provide to us.
 
 ### II. What information do we collect?
 
@@ -28,13 +31,13 @@ a.   Emails. We use email addresses to deliver information relevant to our use
 
 b.   Online surveys and promotions. We value the opinions of our customers and want to improve your experience and our service offerings; therefore, from time to time, we will conduct research surveys. We may also contract with third parties to perform the research, but the use of the customer data by that third party is limited solely to that survey initiative and is protected by a confidentiality agreement. Generally, unless otherwise stated in the promotion or survey, contact information collected for promotions is used to notify promotion winners, and survey information and results are used to develop improved promotions and other service enhancements.
 
-c.  Cookies. Cookies help establish a user session and allow our server to correctly provide site users with the appropriate information, advertisements and services. We also use cookies to ensure you obtain the information you request and to authenticate your authority to access the Site. We also use cookies and web beacons to track the usage of our Site in order to improve the site according to our customers’ needs. 
+c.  Cookies. Cookies help establish a user session and allow our server to correctly provide site users with the appropriate information, advertisements and services. We also use cookies to ensure you obtain the information you request and to authenticate your authority to access the Site. We also use cookies and web beacons to track the usage of our Site in order to improve the site according to our customers’ needs.
 
-WFS may enter into agreements with third party companies to serve advertisements and information to Site users. WFS may use its cookies and web beacons when working with these companies to provide them information regarding use of the Site or to serve you advertisements when you visit our Site. These companies may use the non-personally identifiable information about your visit to make available goods and services of interest to you. 
+WFS may enter into agreements with third party companies to serve advertisements and information to Site users. WFS may use its cookies and web beacons when working with these companies to provide them information regarding use of the Site or to serve you advertisements when you visit our Site. These companies may use the non-personally identifiable information about your visit to make available goods and services of interest to you.
 
 If, at any time, you do not want your non-personally identifiable information to be used to provide you with more relevant information, advertisements, or services available from WFS, you can change the settings on your Internet browser to reject cookies and this will also disable our web beacons. Please consult your chosen Internet browser for instructions on how to change your cookie handling settings.
 
-d.   Domain names. Information regarding domain names is aggregated to measure the number of visits, average time spent on the Site, pages viewed and similar Site usage information in order to know how to improve the Site’s content. 
+d.   Domain names. Information regarding domain names is aggregated to measure the number of visits, average time spent on the Site, pages viewed and similar Site usage information in order to know how to improve the Site’s content.
 
 e.   Children. No information we collect from children known to be under the age of 13 is used for any marketing or promotional purposes whatsoever, by either us, our affiliates, or our third party sponsors. We use the information collected about children known to be under 13 only to provide services. We will give out personal information about children if required by law, for example, to comply with a court order or subpoena or to protect the safety and security of visitors and our Site.
 
@@ -46,7 +49,7 @@ WFS maintains strict physical, electronic and procedural safeguards to protect p
 
 ### VI.How can you opt out?
 
-If you do not want WFS to use or share your personal information for the purpose of sending you email marketing or promotional materials, please send an email to legalweb@wfscorp.com and request that no further communications be sent to you. In addition, emails sent to you will also contain a message on how to opt out of that type of communication in the future. Regardless of your opt-out preferences, we reserve the right to send you emails or other electronic messages for administrative purposes.
+If you do not want WFS to use or share your personal information for the purpose of sending you email marketing or promotional materials, please send an email to [legalweb@wfscorp.com](mailto:legalweb@wfscorp.com) and request that no further communications be sent to you. In addition, emails sent to you will also contain a message on how to opt out of that type of communication in the future. Regardless of your opt-out preferences, we reserve the right to send you emails or other electronic messages for administrative purposes.
 
 ### VII. Other sites
 
@@ -58,7 +61,7 @@ In order to protect your privacy and WFS’ proprietary databases and systems, w
 
 ### IX. How can you contact us?
 
-If you have comments or questions about this Privacy Policy, please email us at legalweb@wfscorp.com. Please reference this Privacy Policy in those communications.
+If you have comments or questions about this Privacy Policy, please email us at [legalweb@wfscorp.com](mailto:legalweb@wfscorp.com) . Please reference this Privacy Policy in those communications.
 
 ### X. Legal effect and changes to the policy
 
