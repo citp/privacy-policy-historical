@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saiyanisland.com privacy policy that was archived on 2012-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120913083110id_/http%3A//www.saiyanisland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saiyanisland.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401183604id_/http%3A//www.saiyanisland.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Saiyan Island
+# Privacy Policy | Saiyan Island
 
 Saiyan Island understands the importance of privacy and respects each and every visitor’s rights, that’s why this privacy policy was adapted. This Privacy Policy lets you know how your personal information is processed and used. 
 
