@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the sahajmarg.org privacy policy that was archived on 2012-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120625023154id_/http%3A//www.sahajmarg.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sahajmarg.org privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401165511id_/http%3A//www.sahajmarg.org/privacy-policy) for the most accurate reproduction.*
 
 # Sahaj Marg Raja Yoga Meditation - Privacy Policy
 
 ## Introduction
 
 This is the policy of the Shri Ram Chandra Mission of India and its national and regional Shri Ram Chandra Mission sister organisations throughout the world (hereafter collectively referred to as SRCM ) concerning the personal information that they collect, store and process of their members ( abhyasis ) and other persons.
+
+## Restrictions on use of the content
+
+No content from this site may be copied, framed, reproduced, republished, uploaded, posted, transmitted, or distributed in any way, except that you may temporarily download one copy of the content on any single computer or print one or more copies of the content for your personal, noncommercial use only, provided you keep intact all copyright, trademark and other proprietary notices.
 
 ## Objectives of this privacy policy
 
