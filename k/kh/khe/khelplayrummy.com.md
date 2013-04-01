@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khelplayrummy.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112150716id_/https%3A//www.khelplayrummy.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khelplayrummy.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401084123id_/https%3A//www.khelplayrummy.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Rummy Privacy Policy, Read Khelplayrummy Privacy Policy
 
