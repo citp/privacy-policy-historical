@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springblowout.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115084932id_/http%3A//www.springblowout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springblowout.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401235153id_/http%3A//www.springblowout.com/privacy.php) for the most accurate reproduction.*
 
 # Spring Blowout - Privacy
 
@@ -42,6 +42,6 @@ I will only disclose your personal information, without notice, if required to d
 
 (c) Act in urgent circumstances to protect the personal safety of users of 'Master Resell Rights eBook Firesale'.
 
-[Back To Main Page](https://web.archive.org/web/20121115084932id_/http%3A//www.springblowout.com/index.php)
+[Back To Main Page](https://web.archive.org/web/20130401235153id_/http%3A//www.springblowout.com/index.php)
 
 The Publisher has strived to be as accurate and complete as possible in the creation of this report, notwithstanding the fact that he does not warrant or represent at any time that the contents within are accurate due to the rapidly changing nature of the Internet. While all attempts have been made to verify information provided in this publication, the Publisher assumes no responsibility for errors, omissions, or contrary interpretation of the subject matter herein. Any perceived slights of specific persons, peoples, or organizations are unintentional. In practical advice books, like anything else in life, there are no guarantees of income made. Readers are cautioned to reply on their own judgment about their individual circumstances to act accordingly. This book is not intended for use as a source of legal, business, accounting or financial advice. All readers are advised to seek services of competent professionals in legal, business, accounting and finance fields. ClickBank is a registered trademark of Keynetics Inc., a Delaware corporation. ResellRightsMachine.com is not affiliated with Keynetics Inc. or Google Inc. in any way, nor does Keynetics Inc. or Google Inc. sponsor or approve any ResellRightsMachine.com product. Keynetics Inc. expresses no opinion as to the correctness of any of the statements made by this site in the materials on ResellRightsMachine.com Web page.
