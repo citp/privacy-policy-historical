@@ -1,69 +1,100 @@
-> *The following text is extracted and transformed from the findchips.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010055555id_/http%3A//www.supplyframemedia.com/privacy-policy-article.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findchips.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401174617id_/http%3A//www.supplyframe.com/company/privacy) for the most accurate reproduction.*
 
-# Electronics Advertising | Privacy Policy
+# Privacy Policy
 
-Privacy is very important to SupplyFrame. That's why our technology and the way we use it exceeds all the industry standards for protecting your privacy online. Through our services, we do not install software on users' computers, or track keystrokes. We do not collect personally identifiable information unless that collection it is clearly marked and you are given a choice to opt-out having the information stored.
+This Privacy Policy was last updated on November 9, 2012.
 
-Please feel free to view our Privacy Policy in detail below. If you have questions or concerns regarding our stance on privacy, please e-mail [privacy@SupplyFrame.com](mailto:privacy@supplyframe.com) .
+SupplyFrame, Inc. (“ **SupplyFrame** ,” “ **we** ,” or “ **us** ”) takes the privacy and protection of personal information very seriously. By visiting and using the SupplyFrame Offerings or registering for the SupplyFrame Offerings and creating an Account, you acknowledge that you accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the Frame-It Terms of Service that you can find at Frame-It Terms of Service and which incorporate this Privacy Policy by reference.
 
-## Privacy Regarding Clients of SupplyFrame's Services
+### What This Privacy Policy Covers
 
-This document is intended to inform you, the end user, about how SupplyFrame handles information we process on behalf of our Web site owners, advertisers, and service providers who use our services (our "Clients") as part of our data analytics services and information we process for our network advertising services. This document also explains our own practices for our corporate Web site.
+This Privacy Policy describes SupplyFrame’s practices with respect to Personal Information and Anonymous Information that we collect when you use the SupplyFrame Offerings. This Privacy Policy does not apply to the use of your Personal Information that is collected by third parties that SupplyFrame does not own or control or that do not support SupplyFrame in providing the SupplyFrame Offerings.
 
-If you have any questions or concerns regarding this statement, you should first contact our Privacy Officer at [privacy@SupplyFrame.com](mailto:privacy@supplyframe.com) .
+“ **Personal Information** ” is information that is personally identifiable like names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with the foregoing.
 
-SupplyFrame reserves the right to change how we handle information we process on behalf of our Clients as well as our own practices in regard to SupplyFrame's services or corporate Web site.
+“ **Anonymous Information** ” means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons.
 
-## What Does SupplyFrame Do?
+We collect and use Personal Information and Anonymous Information as described in this Privacy Policy from users of the SupplyFrame Offerings (“ **Users** ”).
 
-We provide data analysis and audience segmentation services based on information provided by our Clients regarding their customer interactions, including those on the Client's Web site or online advertisements. We create usage/behavior/interest-based categories called "segments". Segments are unique groups of users that are created using Client-defined criteria that enable the Client to selectively serve targeted advertisements and otherwise profile users of that Client's site(s) or advertisements. Our solution may include traffic pattern and behavioral trend evaluations to enhance the usefulness and marketing power of our customers.
+BY USING THE SERVICE OR SUBMITTING PERSONAL INFORMATION THROUGH THE SERVICE, YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY.
 
-We may provide targeted advertising services using non-personal information that is gathered across multiple, unaffiliated Web sites that use our network. Much like our data analytic services provided for specific Web sites, we create network segments that are used to serve targeted advertisements and profile users in our network.
+YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY AND BY USING THE SERVICE OR SUBMITTING PERSONAL INFORMATION THROUGH THE SERVICES, YOU ARE EXPRESSLY CONSENTING TO SUCH PROCESSING.
 
-## What Information Do We Collect for Our Clients and How Do We Use It for Our Data Analytics Services?
+### Personal Information We Collect
 
-Our Clients, and our own sites, may collect information about their customer interactions using cookies, action tags, and other methods. Cookies are small text files that identify your computer. Web site owners use cookies to, among other things, monitor site usage, customize site features, identify a user's computer operating system and browser, and complete transactions. An action tag (also known as a "clear gif" or "Web beacon") is a small, graphic image on a Web page that is designed to allow the site owner or a third party to monitor who is visiting a site by collecting the IP address of the computer that the tag is sent to, the URL of the page the tag comes from, and the time it was viewed. Tags also may be associated with cookie information.
+We collect the following Personal Information that you submit to us voluntarily:
 
-A Client may provide information that it collects, including personally identifiable information, to SupplyFrame. We also may collect data on behalf of a Client using tags. Information that we collect and compile directly from users includes "clickstream" data such as behavioral data, IP addresses, log files, and other traffic data. We do not collect any personally identifiable information directly from any user, whether using cookies or action tags. As part of our analytics and segmentation services, we may place a cookie on your browser when you visit the Client's Web site or view an advertisement of the Client.
+  * If you register for the SupplyFrame Offerings and create an Account, we collect a username, your e-mail address, and a password for your Account.
+  * When you register for the SupplyFrame Offerings we collect, on an optional basis, certain information to complete your profile, including your name, gender, birthday, phone number, address, city, state, country, and website.
+  * If you participate in one of our surveys, we will collect any Personal Information contained in your responses to such survey and any additional profile information you provide. When you contact us by sending us an e-mail, we will collect any information that is contained in (and/or attached to) your e-mail.
+  * If you make a posting or comment on a posting on the SupplyFrame Offerings, we will collect any Personal Information contained in such posting.
+  * If you sign up for a feature of the SupplyFrame Offerings for which we charge a fee, we will collect your first and last name, billing address, credit card or payment account number and any other information needed to complete the transaction.
+  * We may also collect Personal Information, such as demographic information from you via the SupplyFrame Offerings or at other points in the Sites that state that Personal Information is being collected.
 
-We use data that we collect on behalf of the Client, only to create segments and reports for the Client. Additionally, we make information that we receive from a particular Client available only to that Client.
 
-We may provide our analytic or segmentation services to Clients that are network advertisers or service providers. Clients may use a process whereby data is collected over time and across the Internet to determine or predict user characteristics, behavior, or preferences typically for use in ad delivery (called "Online Preference Marketing" ["OPM"]). On behalf of and at the direction of an OPM Client, we may collect non-personal information that the Client may use for OPM purposes on behalf of its customers, including advertisers and Web site owners. OPM Clients are responsible for notifying you of these collection practices and making opt-out procedures available (if any).
 
-A Client may correlate or merge information that we report to it with personal information already collected or accessible by that Client. On behalf of a Client, we may correlate or merge personal information provided by the Client with non-personal information that we collect for that Client. Our Clients are responsible for notifying you whether they correlate or merge personal information to non-personal information that they collect or that we or any other third party collects on their behalf.
+### Personal Information Collected Via Technology
 
-SupplyFrame firmly supports and encourages our Clients to adopt privacy policies that fully inform the Client's customers or users about the Client's information collection practices and use of SupplyFrame's services. You should familiarize yourself with the privacy practices of any Web site you visit to understand what information the site collects, how the information is used, what choices you have, how to access the information, and how it is safeguarded.
+As you use the SupplyFrame Offerings, certain information may also be collected passively, including your Internet protocol (IP) address and the browser that you use to visit the Sites. We may use a “reverse IP lookup” to determine the company associated with your IP address. SupplyFrame also stores a small text file called a “ **Cookie** ” on your computer to store your login information (if any) and your personal preferences for the SupplyFrame Offerings. SupplyFrame may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). While you will still be able to use the SupplyFrame Offerings if you disable Cookies in your browser, certain parts of the SupplyFrame Offerings may not function as effectively. Notwithstanding any settings you may make in your browser, you expressly consent to our use of Cookies in connection with the SupplyFrame Offerings as set forth above.
 
-## Do We Disclose or Permit Access to Our Client's Information?
+Since the foregoing information may be collected when you are signed into the SupplyFrame Offerings or after you click on a link contained in an email sent by us, this information may be associated by us with Personal Information that we have collected from you.
 
-We keep all data that we receive from and store for our Clients strictly confidential. We are contractually obligated to maintain such confidentiality. We do not permit access to the information except as directed by our Client.
+### Personal Information From Other Sources
 
-## What Information Do We Collect and How Do We Use It for Our Network Advertising Services?
+We may receive Personal Information about you from outside the Sites, such as from third parties that provide services for us that are related to the SupplyFrame Offerings. We may add this information to the information we have already collected from you via the SupplyFrame Offerings.
 
-Separate from our data analytics services, we provide OPM or network advertising services. For these services, we use a process whereby data is collected over time and across the Internet to determine or predict user characteristics, behavior, or preferences typically for use in ad delivery. Our Web tags, beacons, or cookies may collect non-personal information that may be used for OPM purposes on behalf of our customers, including advertisers and Web site owners. SupplyFrame may use our analytic and segmentation services to create industry trend reports. These industry trend reports may be shared with clients or with the public.
+### Use Of Information We Collect
 
-## Do We Disclose or Permit Sharing of Information That We Collect for Our Network Services?
+In general, information (including Personal Information) you submit to us, or to third parties that support us in collecting information, is used by us to provide you and others with the SupplyFrame Offerings, to respond to requests that you make, to improve our SupplyFrame Offerings and to better tailor the features, performance and support of the SupplyFrame Offerings.
 
-The non-personal user information that we collect to create segments and profile information for our network service is only shared with a client. An OPM Client may share these segments in accordance with the terms and conditions of the Client's respective privacy policy and subject to such other contractual restrictions imposed by SupplyFrame. To provide our network advertising services, we do enable our customers to customize the segments and other user characteristics that they will use to serve and deliver advertisements.
+We may also use your Personal Information to provide you with notifications related to your use of the SupplyFrame Offerings, such as electronic newsletters or promotional e-mails, should you request to receive such communications from us. 
 
-## How Do We Store Information?
+We may create Anonymous Information records from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may also create Anonymous Information on how you use the SupplyFrame Offerings. We may use this Anonymous Information for internal purposes, such as analyzing usage patterns so that we may enhance the SupplyFrame Offerings, and we also reserve the right to use and disclose any Anonymous Information at our discretion.
 
-SupplyFrame takes reasonable steps to assure that all Client information sent to us from our Clients is secured from unauthorized interception and to protect it from loss, misuse, and unauthorized access, disclosure, alteration, and destruction in storage while under our control. While we have taken efforts to guard information, we cannot guarantee that it will not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others.
+### Feedback
 
-## Links to Other Web sites
+If you provide feedback about the SupplyFrame Offerings to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy.
 
-This Web site contains links to other Web sites that are not owned or controlled by SupplyFrame. Please be aware that we, SupplyFrame, are not responsible for those Web sites and those Web sites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other Web sites to understand their procedures for collecting, using, and disclosing personally identifiable information.
+### Disclosure of Personal Information
 
-## Changes to This Privacy Policy
+Except as otherwise stated in this Privacy Policy, we do not disclose to or share your Personal Information with third parties, unless you ask or authorize us to do so. Please note that we may disclose certain of your Personal Information, such as your username, to other Users of certain SupplyFrame Offerings in order to identify you as a User of the SupplyFrame Offerings. In addition, certain information that you have provided on an optional basis in connection with registering with our SupplyFrame Offerings (your gender, birthday, phone number, address, city, state, country, and website) may be made available on your profile to other Users of all the SupplyFrame Offerings; please make sure that you only provide the information that you feel comfortable sharing with others in this way.
 
-SupplyFrame reserves the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to our Privacy Policy, we will post those changes to this Privacy Policy, notify you here, or by means of notice on our home page, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We may enter into agreements with companies that provide the SupplyFrame Offerings by way of a co-branded or private-labeled website or companies that offer their products and/or services on our website (“ **Third Party Companies** ”). A Third Party Company may want access to Personal Information that we collect from its customers. As a result, we may disclose your Personal Information to a Third Party Company; however, we will not disclose your Personal Information to Third Party Companies for the Third Party Companies’ own direct marketing purposes, unless you have “opted-in” by following the instructions we provide to allow such disclosure. If you have opted-in to receive e-mail communications from a Third Party Company and later wish to discontinue receipt of these e-mails, please contact the Third Party Company directly to update your preferences. The privacy policies of our Third Party Companies may apply to the use and disclosure of your Personal Information that we collect and disclose to such Third Party Companies. Because we do not control the privacy practices of our Third Party Companies, you should read and understand their privacy policies. 
 
-## Legal and Other Disclosure
+We may provide your Personal Information to third party service providers and suppliers who work on behalf of or with us to provide you with some of the services and features of the SupplyFrame Offerings and to help us communicate with our users (including in connection with payments). However, these service providers and suppliers do not have any independent right to use this information except to help us provide the SupplyFrame Offerings.
 
-We may share personal information when we believe such action is appropriate to comply with the law (e.g., legal process or a statutory authorization); to enforce or apply our customer agreements; to initiate, render, bill, and collect for services; to protect our rights or property, or to protect users of those services from fraudulent, abusive, or unlawful use of, or subscription to, such services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of information without delay.
+We may share some or all of your Personal Information with any parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, “ **Affiliates** ”), in which case we will require our Affiliates to honor this Privacy Policy.
 
-Last Updated: 31 March 2009
+In the event SupplyFrame goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your Personal Information will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of SupplyFrame or its assets may continue to use your Personal Information as set forth in this Privacy Policy. You hereby consent to SupplyFrame sharing your Personal Information under the above circumstances.
 
-If you have questions or concerns, you should e-mail: [privacy@SupplyFrame.com](mailto:privacy@supplyframe.com) .
+We may (and you authorize us to) disclose information we have collected from and about you (including Personal Information) if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; (b) to enforce any agreement we may have entered into with you and to enforce the Privacy Policy; or (c) to protect and defend the rights or property of us, other Users, or third parties.
 
-SupplyFrame, Inc.
+### Choices Regarding Personal Information
+
+We will include unsubscribe instructions in each newsletter or promotional communication you receive from us.
+
+We may send you service-related announcements (such as, but not limited to, notice that we have changed the Service, the Terms of Service, or the Privacy Policy) when we believe it is necessary to do so. You may not opt-out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to terminate the Account you may have with us. You understand that any termination of your Account may involve deletion of your Account information (and associated Content) from our live databases and all the information and data stored for such Account in the SupplyFrame Offerings. SupplyFrame will not have any liability whatsoever to you for any termination of your account or related deletion of you information.
+
+### Modifying and Deleting Your Personal Information
+
+You may change any of your Personal Information in your account by editing your profile within the SupplyFrame Offerings. You may request deletion of your Personal Information by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information that we have collected from or about you, it will be deleted from our active databases but may remain in our archives.
+
+### Links to Other Web Sites
+
+The SupplyFrame Offerings may contain links to other web sites that are not owned or controlled by SupplyFrame. The provision of such links is for your convenience and does not signify our endorsement of such web sites or location or its contents. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other web sites. Please be aware that the terms of the Privacy Policy do not apply to any outside web sites.
+
+### Privacy of Minors
+
+We do not intentionally collect or maintain information from persons under the age of 13.
+
+### Security and Confidentiality
+
+SupplyFrame is committed to safeguarding and securing the information we collect online. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. We also require you to enter a password to access your account information. Please do not disclose your account password to unauthorized people. However, no company, including SupplyFrame, can fully eliminate security risks associated with Personal Information.
+
+### Changes in this Privacy Policy
+
+As part of the Terms of Service, this Privacy Policy is subject to occasional amendment, in accordance with the terms of the Terms of Service.
+
+### Contact Us
+
+If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to [legal@SupplyFrame.com](mailto:legal@SupplyFrame.com).
