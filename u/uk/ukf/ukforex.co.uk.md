@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018114528id_/http%3A//www.ukforex.co.uk/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukforex.co.uk privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401110227id_/http%3A//www.ukforex.co.uk/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UKForex Foreign Exchange Services
 
