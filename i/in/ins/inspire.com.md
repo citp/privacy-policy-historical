@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspire.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014142526id_/http%3A//www.inspire.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspire.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401170357id_/http%3A//www.inspire.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Inspire
 
