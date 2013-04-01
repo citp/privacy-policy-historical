@@ -1,100 +1,69 @@
-> *The following text is extracted and transformed from the brandify.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandify.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401082954id_/https%3A//www.brandify.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Brandify
 
-**Go Daddy Respects Your Privacy**
+## Brandify Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+The brandify.com web site (the “Site”) is owned and operated by MyWebCareer, Inc. dba Brandify (“Brandify,” “We,” “Us” and “Our”). Brandify is committed to maintaining your confidence and trust with respect to the information We collect from you. This Privacy Policy sets forth how We collect, use, protect, and disclose personal information you provide through Our Site, and how We use that information to offer you Our products and services.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**Information we collect and/or retrieve**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+In order to use Our services, you must register with Us. Our registration process requires you to submit information pertinent to your business such as business name, number of employees, business type, and business website address. Additionally, we may require you to submit personal information such as your name, email address, and zip code in addition to other information you choose to supply to Us concerning your preferences and interests expressed in the course of using Our services.   
+All fees associated with your Brandify account, if applicable, require payment via a credit card. Your credit card information will be held in strictest confidence and only be used in connection with the monthly charges associated with your account. 
 
-**Information Collection and Use**
+**Profile information about you retrieved from third parties**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+In order to benefit from the full functionality of Our services, you must allow Brandify access to your personal, social, and business profile data such as your LinkedIn profile, Facebook profile, or Google+ Local profile. In such instances, you are authorizing Brandify to access your profile data using [OAuth](http://oauth.net/about/), which allows you to authorize Brandify to retrieve data on your behalf without giving Us your credentials to these third party sites.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Publicly available information that may be about you and your business retrieved through Internet search engines**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We are a data aggregator and as such We will seed searches against Internet search engines using supplied business information as well as your personal information to retrieve data that may or may not be related to you. This retrieved information along with your personal and profile information may be used to build your Brandify profile, generate your Brandify Score, and the underlying analysis and recommendations.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Cookies**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Like most web sites, Brandify collects information regarding your use of the Site through the use of cookies. Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a website’s computers and stored on your computer. The type of information We collect as a result of a cookie being stored on your computer includes the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and click stream data, including date and time, cookie number and content you viewed or searched for on the Site.  
+We utilize cookies to provide a personalized product experience and to track usage. We may use “session ID cookies” to enable certain features of the site, to better understand how you interact with our site and to estimate audience size and monitor aggregate usage patterns. You can configure your browser to accept, reject, or prompt you to accept cookies before you visit websites. However, some Brandify features and services may not function properly if cookies are disabled. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Information usage**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We use the information you provide and the information We collect about you for the following purposes:
 
-**Security**
+1\. To provide Our services including display of customized content such as to generate searches against various online data sources in order to build your Brandify profile, generate your Brandify Score, and the underlying analysis and recommendations. Another example would be to perform analysis using sophisticated link analysis, visualization and semantics technologies to enable you to quickly evaluate and explore data that may relate to you.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+2\. We may use your e-mail address to send you information and updates pertaining to your account and premium offerings. You may also receive occasional company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, you may do so by changing your contact preferences by logging into account settings.
 
-**Updating Your Information**
+3\. To produce third party partner offers to help you act on recommendations We generate to improve your and your business’ online reputation.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+4\. To protect, maintain, and improve Our services through research and analysis as well as to ensure our technology infrastructure is performing optimally.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+5\. Anonymously and in aggregate fashion, allow you to compare your Brandify Score with businesses in your industry, geographic location, etc.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+6\. Anonymously and in aggregate fashion, to generate market studies, product usage and demographics data.
 
-      iii.      You may call us at: (480) 505-8800
+7\. In the event that Brandify’s assets are sold, transferred, or otherwise shared in connection with a merger, acquisition, reorganization, or sale of assets, your information would be shared, sold and/or transferred to that acquiring entity. 
 
-       iv.      You may fax us at: (480) 505-8844
+**Do we disclose any information to outside parties?**
 
-**Sending Emails**
+We may share your personally identifiable information with trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when We believe release is appropriate to comply with the law, enforce our Site policies, or protect Our or other’s rights, property, or safety.  
+If you register for a premium account compliments of Microsoft through the URL <http://www.brandify.com/microsoft>, <http://www.brandify.com/seattle>, or <http://www.brandify.com/asbdc>, **you consent to Us sharing your registration information and information pertinent to your business with Microsoft**. As such, by using Our services through these means, you consent not only to Our Privacy Policy but that of [Microsoft's](http://www.microsoft.com/privacy). If you have questions about Microsoft’s privacy policy, please contact Microsoft directly. Similarly, in the event that you register for Our services via future Brandify partnership opportunities, you will be bound to the privacy policy of that partner.  
+Other than Microsoft or other Brandify partners, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**How do we protect your information?**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We recognize that your privacy is important to you, and therefore, we endeavor to keep your personal information confidential. The personal information about each user is stored on servers that are behind a firewall and physically housed within a secure data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of personal information. However, We do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of the personal information submitted to us nor for your or third parties’ use or misuse of personal information.
 
-**Compliance with Laws and Law Enforcement**
+**Third party sites and links**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+This privacy policy applies to Brandify services only. We do not exercise control over the content that we retrieve for you as part of our products or services, or links from within our various services. If you click on these links, these other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. 
 
-**Third Party Service Providers**
+**Third party sites and links**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+We are in compliance with the requirements of [COPPA](http://www.coppa.org/coppa.htm) (Children’s Online Privacy Protection Act); we do not knowingly collect any information from anyone under 13 years of age. Our site, products and services are all directed to people who are at least 18 years old or older. If we learn that we have collected personal information of a child under 13 years of age, We will take steps to delete this information.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**About this Privacy Policy**
 
-**Supplementation of Information**
+Any changes to Our Privacy Policy will be posted on Our Site at <http://www.brandify.com/privacy>. If at any time you believe that we have not adhered to this Privacy Policy, please contact Us at [privacy@brandify.com](mailto:privacy@brandify.com). Brandify will use reasonable efforts to resolve any disputes under this Privacy Policy and will use reasonable efforts to promptly investigate and, if necessary, correct any problem.   
+Last updated: October 25, 2012 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+  
 
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
