@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gozoof.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230024824id_/http%3A//www.gozoof.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gozoof.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401174416id_/http%3A//gozoof.com/Info/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gozoof
 
@@ -18,7 +18,7 @@ Shaycom takes your privacy seriously. Please read the following to learn more ab
   * Shaycom collects personal information when you register with Shaycom, when you use the Shaycom services, and when you visit Shaycom pages or the pages of certain Shaycom partners. Shaycom may combine information about you that we have with information we obtain from business partners or other companies. 
   * When you register we ask for information such as your email address. Once you register with Shaycom and sign in to the Shaycom services, you are not anonymous to us. 
   * Shaycom collects information about your transactions with us and with some of our business partners. 
-  * Shaycom automatically receives and records information on our server logs from your browser, including your [IP address](https://web.archive.org/web/20121230024824id_/http%3A//www.gozoof.com/Info/IpAddresses.aspx), Shaycom [cookie](https://web.archive.org/web/20121230024824id_/http%3A//www.gozoof.com/Info/Cookies.aspx) information, and the page you request. 
+  * Shaycom automatically receives and records information on our server logs from your browser, including your [IP address](https://web.archive.org/web/20130401174416id_/http://www.gozoof.com/Info/Privacy/IpAddresses.aspx), Shaycom [cookie](https://web.archive.org/web/20130401174416id_/http://www.gozoof.com/Info/Privacy/Cookies.aspx) information, and the page you request. 
   * Shaycom uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
 
@@ -38,17 +38,17 @@ Shaycom takes your privacy seriously. Please read the following to learn more ab
 
 #####  Cookies
 
-  * Shaycom may set and access Shaycom [cookies](https://web.archive.org/web/20121230024824id_/http%3A//www.gozoof.com/Info/Cookies.aspx) on your computer.
+  * Shaycom may set and access Shaycom [cookies](https://web.archive.org/web/20130401174416id_/http://www.gozoof.com/Info/Privacy/Cookies.aspx) on your computer.
   * Shaycom lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Shaycom's cookies. 
-  * Shaycom uses [web beacons](https://web.archive.org/web/20121230024824id_/http%3A//www.gozoof.com/Info/WebBeacons.aspx) to access Shaycom cookies inside and outside our network of web sites and in connection with Shaycom products and services. 
+  * Shaycom uses [web beacons](https://web.archive.org/web/20130401174416id_/http://www.gozoof.com/Info/Privacy/WebBeacons.aspx) to access Shaycom cookies inside and outside our network of web sites and in connection with Shaycom products and services. 
 
 
 
 #####  Your Ability to Edit and Deactivate Your Account Information and Preferences
 
-  * You can edit your [Shaycom Account Information](https://web.archive.org/web/20121230024824id_/http%3A//Account.aspx) at any time. 
+  * You can edit your [Shaycom Account Information](https://web.archive.org/web/20130401174416id_/http://www.gozoof.com/Account.aspx) at any time. 
   * Certain communications from Shaycom, such as service announcements and administrative messages, are considered part of Shaycom membership and you may not opt out of receiving them. 
-  * You can deactivate your Shaycom account by [ contacting us](https://web.archive.org/web/20121230024824id_/http%3A//Help/HelpPage.aspx?page=contactus). Please [click here](https://web.archive.org/web/20121230024824id_/http%3A//www.gozoof.com/Info/DataStorage.aspx) to read about information that might possibly remain in our archived records after your account has been deactivated. 
+  * You can deactivate your Shaycom account by [ contacting us](https://web.archive.org/web/20130401174416id_/http://www.gozoof.com/Help/HelpPage.aspx?page=contactus). Please [click here](https://web.archive.org/web/20130401174416id_/http://www.gozoof.com/Info/Privacy/DataStorage.aspx) to read about information that might possibly remain in our archived records after your account has been deactivated. 
 
 
 
@@ -68,7 +68,7 @@ Shaycom takes your privacy seriously. Please read the following to learn more ab
 
 #####  Questions and Suggestions 
 
-  * If you have questions or suggestions, please [ contact us](https://web.archive.org/web/20121230024824id_/http%3A//Help/HelpPage.aspx?page=contactus). 
+  * If you have questions or suggestions, please [ contact us](https://web.archive.org/web/20130401174416id_/http://www.gozoof.com/Help/HelpPage.aspx?page=contactus). 
 
 
 
