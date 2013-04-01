@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternative-energy-news.info privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021060452id_/http%3A//www.alternative-energy-news.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternative-energy-news.info privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401164648id_/http%3A//www.alternative-energy-news.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
