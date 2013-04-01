@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matriman.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002214755id_/http%3A//www.matriman.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matriman.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401090553id_/http%3A//www.matriman.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # matrimanprivacypolicy-marriage bureau-Indianmatrimonyprivacypolicy
 
