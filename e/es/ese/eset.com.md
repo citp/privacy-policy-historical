@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eset.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005005206id_/http%3A//www.eset.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eset.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401071352id_/http%3A//www.eset.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ESET
 
@@ -111,7 +111,7 @@ Adherence by ESET LLC., to these privacy principles may be limited to the extent
 
 #### Changes to this Policy
 
-This policy may be amended from time to time, consistent with the requirements of the Safe Harbor. When we do, we will also revise the "last updated" date at the bottom of this policy. For material changes to this policy, we will notify individuals by placing a notice on the following Web site:[ http://www.eset.com/us/privacy/](http://www.eset.com/us/privacy/)
+This policy may be amended from time to time, consistent with the requirements of the Safe Harbor. When we do, we will also revise the "last updated" date at the bottom of this policy. For material changes to this policy, we will notify individuals by placing a notice on the following Web site:[ http://www.eset.com/us/privacy/](https://web.archive.org/us/privacy/)
 
 #### Privacy Policy Contact
 
