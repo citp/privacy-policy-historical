@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistahigherlearning.com privacy policy that was archived on 2012-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121001085116id_/http%3A//vistahigherlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistahigherlearning.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401155251id_/http%3A//vistahigherlearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vista Higher Learning
 
@@ -32,7 +32,7 @@ Certain identifying information is automatically collected when you visit the VH
 
 Vista Higher Learning may use the information we collect for our business purposes, including to process your requests and transactions, personalize the types of information you receive from Vista Higher Learning, assess trends in your use of the VHL Site or purchases of products or services, develop content and functionality that helps us better serve your needs, and improve the service and products we provide.
 
-Information and materials submitted by students in connection with courses offered through the VHL Site will be made available to school officials, including instructors, with legitimate education interests in such information and material. Such information and materials includes the student’s full name, VHL Site username, e-mail address, student ID (if provided), the student’s substantive course work, any student recorded and submitted communications on the VHL Site, uploaded documents, site usage information (including time on site, time spent on each course-related activity, submission dates and times for course activities), score and grade information, login history, account creation date and time, and enrollment history.
+Information and materials submitted by students in connection with courses offered through the VHL Site will be made available to school officials, including instructors, with legitimate education interests in such information and material. Such information and materials includes the student’s full name, VHL Site username, email address, student ID (if provided), the student’s substantive course work, any student recorded and submitted communications on the VHL Site, uploaded documents, site usage information (including time on site, time spent on each course-related activity, submission dates and times for course activities), score and grade information, login history, account creation date and time, and enrollment history.
 
 We may also use the information we collect through the VHL Site to offer or furnish additional products and services, such as training opportunities and updates, and engage in advertising and marketing activities. You may opt-out of receiving these messages. The following options are available to opt-out of receiving these messages:
 
@@ -41,9 +41,9 @@ We may also use the information we collect through the VHL Site to offer or furn
 
 Vista Higher Learning
 
-31 Saint James Avenue
+500 Boylston Street
 
-Suite 1005, Boston, MA 02116
+Suite 620, Boston, MA 02116
 
   * Call (800) 248-2813
   * Fax (617) 426-5215 
@@ -89,8 +89,8 @@ If you have any questions or concerns about Vista Higher Learning’s use of non
 
 **Vista Higher Learning:**
 
-31 Saint James Avenue 
-Suite 1005 
+500 Boylston Street 
+Suite 620 
 Boston, MA 02116 
 USA 
 
@@ -106,7 +106,7 @@ USA
 (617) 426-5215 
 
 
-**E-mail:**
+**Email:**
 
 online@vistahigherlearning.com
 
