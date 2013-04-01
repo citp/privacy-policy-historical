@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softzsolutions.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204044508id_/http%3A//www.softzsolutions.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softzsolutions.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401022831id_/http%3A//www.softzsolutions.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy – Softz Solutions | Digital Marketing Agency India
 
