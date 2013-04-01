@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ads-securities.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920043545id_/http%3A//www.ads-securities.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads-securities.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401115459id_/http%3A//www.ads-securities.com/en/privacy-policy) for the most accurate reproduction.*
 
 # ADS Securities | Privacy Policy
 
 ## Privacy Policy
 
-ADS Securities LLC (we, our or us) is committed to ensuring the privacy of personal data. This policy (Privacy Policy) sets out our information gathering and dissemination practices for the website accessible at [www.ads-securities.com](http://www.ads-securities.com/) (Website).
+ADS Securities LLC (we, our or us) is committed to ensuring the privacy of personal data. This policy (Privacy Policy) sets out our information gathering and dissemination practices for the website accessible at [www.ads-securities.com](https://web.archive.org/) (Website).
 
-This Privacy Policy applies to the personally identifiable information we collect from users of the Website (you or your) and contains important information explaining what information we collect, how we may use it and your rights in relation to it. This Privacy Policy is incorporated into and made part of the Website’s terms of use at [www.ads-securities.com](http://www.ads-securities.com/) (Terms of Use) and we reserve the right to revise this Privacy Policy at any time by updating this webpage.
+This Privacy Policy applies to the personally identifiable information we collect from users of the Website (you or your) and contains important information explaining what information we collect, how we may use it and your rights in relation to it. This Privacy Policy is incorporated into and made part of the Website’s terms of use at [www.ads-securities.com](https://web.archive.org/) (Terms of Use) and we reserve the right to revise this Privacy Policy at any time by updating this webpage.
 
 ### **What information we collect about you**
 
