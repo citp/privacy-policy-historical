@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the add-top-links.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231105951id_/http%3A//www.add-top-links.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the add-top-links.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401100734id_/http%3A//add-top-links.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Add Top Links - Privacy Policy
 
