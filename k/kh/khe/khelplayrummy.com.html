@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the khelplayrummy.com privacy policy that was archived on 2012-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121112150716id_/https%3A//www.khelplayrummy.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the khelplayrummy.com privacy policy that was archived on 2013-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130401084123id_/https%3A//www.khelplayrummy.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -93,7 +93,34 @@ if(!window.Config) Config = {
           likedCallback();
         }); 
     </script>
+   <script src="/skins/khelplay/apps/rummy/js/rummy.js" type="text/javascript"></script>
+<script type="text/javascript">
 
+// loads an URL into the popup without reloading it
+function open_game_window() { 
+    url = 'https://www.khelplayrummy.com/playrummy.php?uid=' + CRGetUniqueId();
+    windowName = 'play_khelplayrummy';
+    refocus = true;
+    windowAttributes = 'resizable=no,width=970,height=730,status=no';
+
+    // open the window with blank url
+    var windowReference = window.open('', windowName, windowAttributes);
+
+    // if we just opened the window
+    if (windowReference.closed ||
+        (!windowReference.document.URL) ||
+        (windowReference.document.URL.indexOf("about") == 0)) {
+        windowReference.location = url;
+    }
+    else if (refocus) {
+        windowReference.focus();
+    }
+
+    // return the window
+    return windowReference;
+}
+
+</script>
 <link rel="shortcut icon" href="https://www.khelplayrummy.com//skins/khelplay//assets/images/en/ui/favicon.ico" type="image/x-icon">
 		<div id="header">
 		<script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script>
@@ -114,7 +141,7 @@ if(!window.Config) Config = {
     	 
       <input type="text" name="login" tabindex="1" class="inputbox" maxlength="15" value="Username" onfocus="if(this.value=='Username'){this.value=''}" onblur="if(this.value==''){this.value='Username'}">
 	
-	  <span class="forgot-pass"><a href="/register.php">Create an Account</a></span>
+	  <!-- <span class="forgot-pass"><a href="/register.php">Create an Account</a></span> -->
     </li>
     
     <li class="login-passw">
@@ -164,8 +191,9 @@ if(!window.Config) Config = {
 
         <ul class="mainnav">
                     <li class="home"><a href="https://www.khelplayrummy.com" id="link-home" title="Khelplayrummy"></a></li>
-                    <li class="playrummy"><a href="/play.php" id="link-play" title="Play Rummy"></a></li>
-		            <li class="link-tourn"><a href="/tournaments.php" id="link-tourn"></a></li>
+                              <li class="playrummy"><a href="javascript:void(0);" title="Play Rummy" onclick="open_game_window();"></a></li>
+                    <!--<li class="playrummy"><a href="/play.php" id="link-play" title="Play Rummy"></a></li>
+		  -->          <li class="link-tourn"><a href="/tournaments.php" id="link-tourn"></a></li>
 		  
                     <li class="cashgame"><a href="/banking.php" id="link-banking" title="Rummy Cash Games"></a></li>
                     <li class="promotions"><a href="/promotions.php" id="link-promo" title="Promotions"></a></li>
@@ -414,7 +442,7 @@ Legal Processes or Government Request
         <a class="hbutton2" href="http://affiliate.khelplayrummy.com" target="_blank">Learn More</a> 
 		<div class="fbanners">
 			<ul id="footbanners">
-				<li><img src="/skins/khelplay//assets/images/en/ui/Khelplay_Band.gif" alt="Play Free Rummy � Win Bonus Chips" width="468" height="60"></li>
+				<li><a href="/promotions.php"><img src="/skins/khelplay//assets/images/en/ui/Khelplay_Band1.gif" alt="Play Free Rummy � Win Bonus Chips" width="468" height="60"></a></li>
 			</ul>
 		</div>
 		
@@ -446,8 +474,8 @@ Legal Processes or Government Request
 				</ul>
 		</div>
 		<div class="footertxt">
-			<!--a href="http://www.hdfcbank.com/personal/default.htm" target="_blank"><img src="/skins/khelplay//assets/images/en/banking/hdfc_logo.gif" width="99" height="37" /></a-->
-			<!--a href="http://www.ccavenue.com/ccavenue_index.jsp" target="_blank"><img src="/skins/khelplay//assets/images/en/ui/ccavenue_logo.gif" width="99" height="37"/></a-->
+			<a href="http://gharpay.in/" target="_blank"><img src="/skins/khelplay//assets/images/en/ui/gharpaylogo.jpg" width="99" height="37"></a>
+			<a href="http://www.citruspay.com/" target="_blank"><img src="/skins/khelplay//assets/images/en/ui/citrus.png" width="99" height="37"></a>
 			<a href="http://www.techprocess.co.in/" target="_blank"><img src="/skins/khelplay//assets/images/en/ui/techprocess.gif" width="99" height="37"></a>
 			<!--a href="http://www.mol.com" target="_blank"><img src="/skins/khelplay//assets/images/en/ui/mol_logofoot.gif" width="99" height="37"/></a-->
 		</div>
@@ -485,11 +513,11 @@ Legal Processes or Government Request
 		</div-->
         
       </div>
-	  <p class="copyright">Copyright © 2012 Khelplayrummy. All Rights Reserved.</p>
+	  <p class="copyright">Copyright © 2013 Khelplayrummy. All Rights Reserved.</p>
       <div class="accordion-container">
          <h1> <p class="accordion-heading ">
 		  13 Cards Indian Rummy Online</p></h1>
-          <!--p class="accordion-heading ">Copyright &copy; 2010-2012 Khelplayrummy. All Rights Reserved.</p-->
+          <!--p class="accordion-heading ">Copyright &copy; 2010-2013 Khelplayrummy. All Rights Reserved.</p-->
 		  <div class="footer-logos"><a href="/terms_use.php" title="Terms Of Use"><img src="/skins/khelplay//assets/images/en/ui/eighteenplus.png" height="40" width="40"></a><!--a href="/templates/assets/pdf/Innopark_RNG_certificate_070311.pdf" target="_blank"--><!--img src="https://www.khelplayrummy.com//skins/khelplay//assets/images/en/ui/rng_itechlabs.png" height="40" width="101"--><!--/a--></div>
         
 		      
@@ -663,6 +691,24 @@ z-index:202;
   <!--footer container ends here-->
         
         <!--wrapper ends here-->
+ <!-- Google Code for AGL 2013 - All Visitors -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1014055561;
+var google_conversion_label = "aOP4CKfo8QMQiYXF4wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1014055561/?value=0&amp;label=aOP4CKfo8QMQiYXF4wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 
 
 
