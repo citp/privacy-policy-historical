@@ -1,267 +1,358 @@
-<!--The following is the downloaded HTML source of the rateyourmusic.com privacy policy that was archived on 2006-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060426012838id_/http%3A//rateyourmusic.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rateyourmusic.com privacy policy that was archived on 2013-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130401071720id_/http%3A//rateyourmusic.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Privacy policy - Rate Your Music</title> 
+    <style type="text/css">
+     .track_rating_header {
+         cursor:pointer;
+         padding:3px;
+         padding-left:0;
+         margin-top:10px;
+         font-size:12px;
+         color:#555;
+         border-bottom:1px #aaa solid;
+         margin-bottom:4px;
+     }
+     .track_rating_header:hover {
+         color:#55b;
+         background:#eef;
+     }
+     table.trackratings { 
+        border:none;
+     }
+     table.trackratings tr { 
+        border:none;
+        border-bottom:1px #ddd solid;
+     }
+     table.trackratings tr td { 
+        border:none;
+     }
+      a.headerbutton { padding-right: 5px; border-right: #999 1px solid; color:#44a; text-decoration:none; }
+		
+		a.breadcrumbbutton { text-decoration:none; font-size:x-small; padding-top: 3px; padding-bottom:3px;
+	                     margin-right:4px; padding-left: 6px; padding-right:6px; background:#fcfcfc; border:#ccc 1px solid;
+	                     -moz-border-radius: 5px; -webkit-border-radius: 5px; color:#333; }
+      a.breadcrumbbutton:after {content:' >';} 									
 
-  
-  <meta name="description" content="Rate your music . com is an online
-community of people who love music.  Rateyourmusic allows you to catalog
-the music you own, keeping track of the artists, album names, track
-titles, etc.  In addition, you can rate the music that you add to your
-catalogue.  When you rate your music, the rateyourmusic.com servers can
-make recommendations to you based on the music that others have rated.
-Other featurs include polls, lists, and forums.
-Rateyourmusic.com is free, and there are no banner ads. ">
+      .breadcrumb {
+         float:left;
+         padding:7px;
+         padding-left:2%;
+         font-size:x-small;
+      }
+      .submenu { float:right;
+                 width:auto;
+                 text-align:right;
+                 background:#f8f8f8;
+                 -moz-border-radius-bottomleft: 5px;
+                 -webkit-border-bottom-left-radius: 5px;
+                 border-left: 1px solid #999;
+                 border-bottom: 1px solid #999;
+                 padding:7px;
+                 padding-left:2%;
+                 padding-right:2%;
+                 font-size:x-small;
+                 text-align:right; }
+                 
+      .submenu_ext { background:white; }
 
-  <meta name="keywords" content="rate your music, rate music, rate
-albums, music catalog catalogue software, album reviews, music reviews,
-music ratings, community, message boards, polls, boo urns, recommendations">
+      .breadcrumb h1 {
+         display: inline;
+         font-weight: bold;
+         font-size: 1.2em;
+         margin: 0px;
+      }
+      #queue_stats {
+               width:100%;
+               min-height:40px;
+               background:#fff;
+               border-radius:3px;
+            }
+            .queue_numwaiting {
+               font-size:10px;
+            }
+            a.queue_random {
+               background-image:url('/images/dice2.png');
+               background-repeat:no-repeat;
+               background-position:center;
+               min-width:16px;
+               min-height:16px;
+               padding:0;
+               margin:0;
+            }
+            .code_red {
+               border:3px solid #ff3d3d !important;
+            }
+            .code_orange {
+               border:3px solid #ffc55f !important;
+            }
+            .code_green {
+               border:3px solid #8b8 !important;
+            }
+            .queue_item { 
+               text-align:center;
+               display:inline-block;
+               clear:none;
+               padding:8px;
+               padding-top:6px;
+               padding-bottom:6px;
+               border-radius:3px;
+               margin:10px;
+               margin-top: 0px;
+               background:#f8f8f8;
+               border:1px #ccc solid;
+               box-shadow:1px 1px rgba(0,0,0,0.4);
+               padding-bottom:10px;
+               overflow:hidden;
+            }
+            .queue_header {
+               font-size:16px;
+               border-bottom:1px solid #ccc;
+               padding:4px;
+            }
+            .queue_num { 
+               text-align:center;
+               font-size:15px;
+            }
+            .queue_stats {
+               font-size:10px;
+               padding-top:5px;
+               padding-bottom:5px;
+            }
+            .queue_footer {
+               padding-top:6px;
+               border-top:1px solid #ccc;
 
-  <style type="text/css">
+            }
+            a.queue_btn {
+               text-decoration:none;
+               display:inline-block;
+               border-radius:2px;
+               padding:4px;
+               background-color:#eee;
+               font-weight:normal;
+               box-shadow:1px 1px rgba(0,0,0,0.3);
+               color:black;
+               overflow:auto;
+               height:16px;
+               line-height:16px;
+               font-size:14px
+            }
+            a.queue_btn:hover {
+               background-color:#f8f8f8;
+            }
+            a.queue_btn:active  {
+               background-color:#eee;
+            }      
+            .queue_chart_empty {
+               height:10px;
+               border:1px solid #bbb;
+               border-radius:5px;
+               display:block;
+               margin:5px;
+            }
+            .queue_chart_progress {
+               height:10px;
+               border-radius:5px;
+            }      
+      </style>
+   
 
-  .button {background: #9999bb; font-family: Verdana, Tahoma, Arial, Helvetica; font-size: 8pt; color:white; }
+	<link rel="stylesheet" href="http://c1317562.cdn.cloudfiles.rackspacecloud.com/min6.css" type="text/css">
+	<link rel="shortcut icon" href="http://c1317792.cdn.cloudfiles.rackspacecloud.com/images/favicon.ico" type="image/x-icon">
+   <meta name="description" content="Rate Your Music is an online community of people who love music.  Catalog, rate, tag, and review your music.  List and review the concerts you've attended, and track upcoming shows.   When you rate your music, the site's music/social recommender can recommend similar music and users with similar music taste. ">
+   <meta name="keywords" content="rate your music, rate music, rate albums, music catalog, music catalogue, social software, album reviews, music lists, community, music recommendations, concert listings, record labels, venues, shows"><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://c1317552.cdn.cloudfiles.rackspacecloud.com/rym-min-b2.js"></script>
+<script type="text/javascript">rym.session.init(0, '0', '');</script>
 
-  BODY { background: #aaaacc; color: #332200; font-family: Verdana, Tahoma, Arial, Helvetica; font-size: 10pt;margin: 20pt;}
-  TD {color: #332200; font-family: Verdana, Tahoma, Arial; font-size: 9pt;}
-  .small {font-family: Verdana, Tahoma, Arial; font-size: 8pt;}
-  .noMarginForm { margin: 0em;padding:0em;font-weight:bold; } 
-  .dottedgray {font-family: Verdana,Tahoma,Arial; font-size: 8pt;
-           background: rgb(240,240,240);
-           border:1px;
-           border-style: dashed;
-           border-width: 1px;
-           border-color: #3366cc;
-           padding:4px; }
+<script type="text/javascript">
 
-  .quote   {font-family: Verdana,Tahoma,Arial; font-size: 9pt;
-           background: rgb(240,240,240);
-           border:1px;
-           border-style: solid;
-           border-width: 1px;
-           border-color: #999999;
-           padding:4px; }
-  a:link.admin,
-  a:visited.admin {
-        color: #eeee99;
-  }
+/* google analytics */ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-59057-1']);
+  _gaq.push(['_trackPageview']);
 
-  a:link.userd,
-  a:visited.userd {
-        color: black ;
-	text-decoration: line-through;
-  }
-  a:link.usero,
-  a:visited.usero {
-        color: #33a;
-  }
-  a:link.user,
-  a:visited.user {
-        color: black;
-  }
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-  a:link.list,
-  a:visited.list {
-        color: black;
-  }
+/* google dfp */
 
-  a:link.artist,
-  a:visited.artist {
-        color: black;
-  }
+</script>
 
-  a:link.album,
-  a:visited.album {
-        color: black;
-  }
-  </style>
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
 
-
-
-<title>Privacy Policy -- Rate Your Music</title>
-<base href="http://rateyourmusic.com/">
-<link rel="SHORTCUT ICON" href="http://rateyourmusic.com/favicon.ico">
-
-</head>
-
-<body vlink="#0000cc" alink="#0000ff" link="#0000ff"> 
-<table bordercolorlight="#c0c0c0" width="95%" cellpadding="3" cellspacing="0" align="center" bgcolor="#aaaacc" border="1" bordercolordark="#ccccff">
-    <tbody><tr><td>
-    <center><font color="white"><b>Rate Your Music is an online community of people who love music.  
-<a href="signup"><font color="#f8f8f8">Sign Up Now</font></a> to catalog your music collection, rate and review music, receive recommendations, create and share lists, and meet people with the same taste in music as you.</b></font></center></td></tr></tbody></table><table bordercolorlight="#c0c0c0" width="95%" cellpadding="3" cellspacing="0" align="center" bgcolor="#aaaacc" border="1" bordercolordark="#ccccff"> <tbody><tr>
-  <td colspan="7"><table border="0" cellpadding="0" cellspacing="0" width="95%"><tbody><tr><td width="40%">
-<a href="http://rateyourmusic.com"><img src="http://muzikamoya.com/images/rym.gif" width="321" height="51" border="0" alt="rate your music .com"></a> 
-</td><td width="40%" valign="center"><p align="right">
- </p><form method="submit" action="/search">
-<input class="button" type="text" maxlength="80" size="15" name="searchterm"> <select class="button" name="searchtype"><option value="artist">Artist</option><option value="album">Album</option><option value="t">List </option><option value="v">Review  </option><option value="genre">Genre</option></select> <input class="button" type="submit" value=">"></form>
-
-<p></p></td>
-</tr></tbody></table></td>
-</tr>
-
-  <tr align="center">
-  <td width="20%"><b><a href="/"><font color="#f8f8f8">Home</font></a></b></td>
-  <td width="20%"><b><a href="/artists"><font color="#f8f8f8">Artists</font></a></b></td>
-  <td width="20%"><b><a href="/community"><font color="#f8f8f8">Community</font></a></b></td>
-
-
-           <td width="20%"><a href="/login"><font color="#f8f8f8"><b>Log In/Sign Up!</b></font></a></td></tr></tbody></table><table border="0" width="95%" cellspacing="0" cellpadding="15" align="center" bgcolor="#ffffff"><tbody><tr><td><br> <h2>rateyourmusic.com Privacy Policy</h2>
-
-<p></p><blockquote>
-<b>Rateyourmusic.com privacy policy</b><br><br>
-
-rateyourmusic.com considers privacy to be a very important issue.  Please
-read the privacy policy below to learn how we treat personally identifiable
-information.
-<br><br>
-<b>Definition:</b><br><br>
-
-when we refer to the word 'user' in this privacy policy, we refer to 
-all people that access this web site, whether they are registered or 
-not.   The term 'registered user' refers only to users who have registered
-to use this service.
-<br><br>
-<b>COPPA Policy:</b>
-<br><br>
-To comply with the Children's Online Privacy Protection Act of 1998, rateyourmusic.com will instruct users under the age of 13 not to fill out a profile, and will instruct users under the age of 13 to choose a username that does not contain the user's name or other identifyable information.  In addition, users under the age of 13 are instructed not to use any personally
-identifyable information in any public review or message board posting. Users
-under 13 may fully participate in this web service if they receive permission from their parents,  and the parent(s) send an e-mail to sharifi@cc.gatech.edu  that states that they have read this privacy policy and give permission for
-their child to use the service.  If a user under the age of 13 fills out a profile despite instructions not to, the information stored in the profile will be removed. 
-<br><br>
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/31961696/album_120', [120, 240], 'div-gpt-ad-1345029820293-0').addService(googletag.pubads());
+googletag.defineSlot('/31961696/bottom_728', [728, 90], 'div-gpt-ad-1345029820293-1').addService(googletag.pubads());
+googletag.defineSlot('/31961696/index_300', [300, 250], 'div-gpt-ad-1345029820293-2').addService(googletag.pubads());
+googletag.defineSlot('/31961696/middle_300', [300, 250], 'div-gpt-ad-1345029820293-3').addService(googletag.pubads());
+googletag.defineSlot('/31961696/Middle_728', [728, 90], 'div-gpt-ad-1345029820293-4').addService(googletag.pubads());
+googletag.defineSlot('/31961696/topfold_300', [300, 250], 'div-gpt-ad-1345029820293-5').addService(googletag.pubads());
+googletag.defineSlot('/31961696/topfold_720', [728, 90], 'div-gpt-ad-1345029820293-6').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script></head>
 
 
-<b>What information we collect:</b>
-<br><br>
-Upon registration, rateyourmusic.com asks users who would like to register, 
-and are over 13 years of age, to fill out a short profile.  The profile is an optional step of  registration.  The following information is collected from registration and profiles:
-<br><br>
-Username and Password<br>
-First and Last Name<br>
-Age<br>
-Sex<br>
-Location<br>
-Zip Code<br>
-E-Mail Address<br>
-Personal homepage<br>
-Favorite Musical Artist/Bands<br>
-Any other comments the user wishes to make about him/herself
-<br><br>
-Users can put anything in the location field that they wish. 
-<br><br>
-In addition, registered users may add albums to their collection, give the
-album a rating, write reviews or biographies, and make public postings on message boards/forums.
-<br><br>
+<body>
+<div id="wrapper">
+
+<div id="top" style="height:22px;color:white;font-size:9px;font-weight:bold;">
+</div>
 
 
-<b>What information other users of the website can see:</b>
-<br><br>
-If the user provides this information, other users can see 
-his/her username, name, age, sex, the text that the user typed in the location
-field,  homepage, favorite bands and artists, and other comments. In 
-addition, other users will be able to see the albums that are part of the
-user's lists, as well as the ratings and reviews of those albums. 
-<br><br>
-The user's e-mail address is visible to other  users if they wish 
-to share it by checking the box that says 
-"Check here if you would like your e-mail address to be visible to
- other users of this site." , which is unchecked by default.
-<br><br>
-The user's zip code is NOT visible to other users.
-<br><br>
+	<div id="navtop"><ul>
+		<li><a title="Front Page" href="/"><img src="http://c1317792.cdn.cloudfiles.rackspacecloud.com/images/rstar.gif" alt=""><span id="logotext">rym</span></a></li>
+		<li><a title="Find Music" href="/find/">find</a></li>
+		
+		<li><a title="Read and make lists" href="/lists/">lists</a></li>
+		<li><a title="View top charts by year, location, genre and more!" href="/customchart">charts</a></li>
 
+		<li><a title="Message Boards and Member Directory" href="/community/">community</a></li>
 
-<b>What we do with this information:</b>
-<br><br>
-rateyourmusic.com allows users to provide this personal information
-so that the other users can learn more about them.
-<br><br>
-rateyourmusic.com does not use your name, the text typed in the location field, homepage, favorite bands, and other comments in any way other than to display them to other users. 
-<br><br>
-rateyourmusic.com ONLY uses e-mail addresses to mail the user's password
-back to them if they request this service, and to allow other users to contact the user.
-<br><br>
+		<li><a href="/account/login">log in / sign up</a></li>		
+	</ul>
 
-rateyourmusic.com will eventually use the sex, age, and zip code
-of users to display aggregate statistics to users.  For example, when
-choosing an album, we would like to tell you what percentage of males
-and females gave it a high rating, what the average age of the owners of the
-album is, and what areas of the United States the album is popular in. 
-<br><br>
+	<form id="top_searchform" action="/search" method="get">
+		<fieldset id="searchbox"><input id="searchfield" type="text" maxlength="80" name="searchterm">
+		<select id="searchlist" name="searchtype">
+		        <optgroup label="Music">
+			<option value="a" selected="selected">Artist</option>
+			<option value="l">All Releases</option>
+			<option value="y">V/A Releases</option>
+			<option value="j">Catalog No.</option>
 
-rateyourmusic.com does not and will not sell information about you to
-third parties.  If rateyourmusic provides a link to another web site, and
-that web site asks for personally identifyable information, this information
-is not shared with rateyourmusic.
-<br><br>
+			<option value="s">List</option>
+			<option value="v">Review</option>
+			<option value="g">Genre</option>
+			<option value="u">User</option>
+			<option value="b">Label</option>
+			</optgroup><optgroup label="Film">
+			<option value="A">Person</option>
+			<option value="F">Title</option>
+			<option value="R">Release</option>
+			</optgroup>
+		</select>
+		<input id="searchgo" type="submit" value=">">
+		</fieldset>
+	</form>
 
-<b>Other types of information:</b>
-<br><br>
-rateyourmusic.com uses cookies.  We use cookies to allow the user to stay logged in while he/she uses the service.  In addition, we keep track of the last time the user visited, so that we may alert a user of new services/features since his/her last visit, as well as to find out how many
-people are returning to our site.  We do not use cookies for any reason other
-than these 2 purposes. 
-<br><br>
-rateyourmusic.com's web server collects the IP address, page requested, and
-referral page when you access this web site. 
-<br><br>
-Occasionally, web sites receive accesses from a user, in which the user is  attempting to disrupt the operation of a web service or its users.
-In this case, we may review our server logs to find the IP address and block
-access from that person/computer and/or report the incident to the user's Internet service provider.  This is the only manner in which IP addresses
-are used on this site.
-<br><br>
-We receive referral information when a user clicks on a link to rateyourmusic.com from another website.  The website that he/she was visiting before rateyourmusic.com  appears in the server log.  We may use this information to find out  what websites or search engines are linking to our web site, and/or 
-what keywords are being typed into search engines to cause our page to 
-appear in the results of the search.
-<br><br>
+</div>
 
-The page requested may be used to determine the most popular sections of 
-our web service. 
-<br><br>
+<!-- trick --><div style="clear:both;"></div>
 
-We do not share the information gathered from cookies, ip addresses, referrals, or pages requested with anyone.  
-<br><br>
-We will comply with all federal, state, and local laws if asked to give personal information to legal authorities.
-
-<br><br>
-<b>Changes to this Privacy Policy:</b>
-<br><br>
-If rateyourmusic.com makes any changes to this privacy policy, a notice
-will appear on the front page of our web site. 
-
-<br><br>
-<b>Questions or Suggestions:</b>
-<br><br>
-If you have any questions about this privacy policy, or would like 
-to make a suggestion, please click <a href="suggestions/subject=Privacy%20Policy">here</a>.
-<br><br>
-
-</blockquote><p></p>
 
  
+ <!-- ~~~~~~~~ begin content! ~~~~~~~~~~~~~~~ -->
+ <div id="content" style="border-top:none;"><h3>Privacy Policy</h3> 
+ <style>
+  div.hey { color:#222; font-size:1.1em; padding-left: 20px; width:80%; } 
+  div.hey b { color:#000; } 
+ </style>
 
-<table border="0" cellpadding="1" cellspacing="5" width="90%" align="center"><tbody><tr><td>
-</td></tr></tbody></table><br><br><hr noshade="" width="95%" color="#ccccff">
-<center><font size="-2"><br><br></font></center></td></tr></tbody></table>  <table border="1" width="95%" cellpadding="3" cellspacing="0" align="center" bordercolordark="#ccccff" bgcolor="#ffffff">
-  <tbody><tr align="center">
+<div class="clear"> </div><div class="hey"><em class="rymfmt">[Updated 2008.12.21]</em>
+<br>
+<br>rateyourmusic.com considers privacy to be a very important issue. Please read the privacy policy below to learn how we treat personally identifiable information.
+<br>
+<br><strong class="rymfmt">Definitions:</strong>
+<br>
+<br>when we refer to the word 'user' in this privacy policy, we refer to all people that access this web site, whether they are registered or not. The term 'registered user' refers only to users who have registered to use this service.
+<br>
+<br><strong class="rymfmt">COPPA Policy:</strong>
+<br>
+<br>To comply with the Children's Online Privacy Protection Act of 1998, rateyourmusic.com will not allow registration of users under the age of 13 and will delete such profiles when reported.
+<br>
+<br><strong class="rymfmt">Information collected based on explicit user action:</strong>
+<br>
+<br>Upon registration, rateyourmusic.com asks users who would like to register, and are over 13 years of age, to fill out a profile. The profile is an optional step of registration, and all of the information entered in the profile can be seen by other users of the site (with the exception of the registered user's e-mail address, which can be optionally shown). &nbsp;&nbsp;The registered user can see what information is publicly visible by logging out of the site and visiting his/her profile. &nbsp;Explicit public actions by the user (such as rating or reviewing an album or creating a list) are published to the site and publicly visible. &nbsp;&nbsp;Private actions (such as adding a user privately or sending a private message) are not publicly visible. 
+<br>
+<br><strong class="rymfmt">What we do with this information:</strong>
+<br>
+<br>rateyourmusic.com allows users to provide this personal information so that the other users can learn more about them, and so we can tailor features of the site &nbsp;based on the registered user's personal info (for example, the site could automatically display upcoming concerts based on the info entered in the "location" field). 
+<br>
+<br>rateyourmusic.com's policy is to never e-mail users unless they specifically ask to receive notifications of private messages or have lost their password. &nbsp;The default setting is to never send e-mail to users for any reason.
+<br>
+<br>rateyourmusic.com does not and will not sell information about you to third parties. If rateyourmusic provides a link to another web site, and that web site asks for personally identifyable information, this information is not shared with rateyourmusic.
+<br>
+<br><strong class="rymfmt">Third-party privacy:</strong>
+<br>
+<br>Rate your music contains advertising by Google, eBay, Amazon, and Glam Media - and the display and tracking of these advertisements is bound by the respective privacy policies of those companies. 
+<br>
+<br>Rate your music also contains traffic analysis by Google Analytics and Quantcast analytics. &nbsp;&nbsp;
+<br>
+<br>The privacy policies of the above-mentioned companies are listed below:
+<br>
+<br>Google: <a rel="nofollow" href="http://www.google.com/intl/en/privacy.html&#10;" target="_blank">http://www.google.com/intl/en/privacy.html
+</a><br>Amazon: <a rel="nofollow" href="http://www.amazon.com/gp/help/customer/display.html?nodeId=468496&#10;" target="_blank">http://www.amazon.com/gp/h...?nodeId=468496
+</a><br>eBay: <a rel="nofollow" href="http://pages.ebay.com/help/policies/privacy-policy.html&#10;" target="_blank">http://pages.ebay.com/help/policies/privacy-policy.html
+</a><br>Glam Media: <a rel="nofollow" href="http://www.glammedia.com/about_glam/legal/privacy.php&#10;" target="_blank">http://www.glammedia.com/about_glam/legal/privacy.php
+</a><br>Quantcast: <a rel="nofollow" href="http://www.quantcast.com/docs/privacy&#10;" target="_blank">http://www.quantcast.com/docs/privacy
+</a><br>
+<br>Finally, RYM contains links to third-party websites, including affiliate sites. &nbsp;RYM is not responsible for the content and privacy of the linked websites. 
+<br>
+<br><strong class="rymfmt">Other types of information collected:</strong>
+<br>
+<br>rateyourmusic.com uses cookies. &nbsp;We use cookies as part of the login process, so that users can stay logged in, &nbsp;to store certain preferences (such as the sort order of reviews), and in some cases to prevent site abuse.
+<br>
+<br>rateyourmusic.com uses geolocation to enhance certain features and/or advertisements. &nbsp;For example, we may only show ads for ebay.fr to French users, and may pre-enter the user's city and country in a concert search form. 
+<br>
+<br>rateyourmusic.com's web servers collect the IP address, page requested, user-agent, and referral page, and other information in <a rel="nofollow" href="http://publib.boulder.ibm.com/tividd/td/ITWSA/ITWSA_info45/en_US/HTML/guide/c-logs.html#combined" target="_blank">CLF</a> format. &nbsp;&nbsp;This information is used to debug site issues, and to investigate site abuse. &nbsp;&nbsp;In cases where someone is attempting to circumvent bans placed on their account, breaking the terms of service, or otherwise disrupting the site, we reserve the right to use all collected information to attempt to prevent the person from continuing to abuse the service. &nbsp;CLF logs are deleted regularly (usually after four months). 
+<br>
+<br>A limited amount of information (such as a user's IP address information and last time of access) is shared with the site's volunteer administration team so that they can work to prevent site abuse. &nbsp;&nbsp;A much more limited set of information is shared with the volunteer community moderation team for the same reason. &nbsp;&nbsp;Neither administrators nor community moderators have the ability to view the site's access (CLF) logs. 
+<br>
+<br>We will comply with all federal, state, and local laws if asked to give personal information to legal authorities. &nbsp;The Rate Your Music servers are located in Seattle, WA, USA. 
+<br>
+<br>We do not share the information gathered from cookies, ip addresses, referrals, or pages requested with third-parties.
+<br>
+<br><strong class="rymfmt">Changes to this Privacy Policy:</strong>
+<br>
+<br>If rateyourmusic.com makes any changes to this privacy policy, a notice will appear on the front page of our web site.
+<br>
+<br><strong class="rymfmt">Questions or Suggestions:</strong>
+<br>
+<br>If you have any questions about this privacy policy, or would like to make a suggestion, please click <a rel="nofollow" href="http://rateyourmusic.com/suggestions?subject=Privacy" target="_blank">here</a>.</div>
 
-  <td align="center" width="8%">
-  <a style="text-decoration:none;" href="/listen/all"><span style="text-decoration:none;font-weight:bold;font-size:15px;">♪</span></a></td>
-  <td align="center" width="15%">
-  <font size="-2"><a href="/about">About</a></font></td>
-  <td align="center" width="10%">
-  <font size="-2"><a href="/tos">TOS</a></font></td>
-  <td align="center" width="15%">
-  <font size="-2"><a href="/privacy">Privacy</a></font></td>
-  <td align="center" width="15%">
-  <font size="-2"><a href="/faq">FAQ</a></font></td>
-  <td align="center" width="10%">
-  <font size="-2"><a href="/chat/">Chat</a></font></td>
-  <td align="center" width="15%">
-  <font size="-2"><a href="/donate/">Donate</a></font></td>
-  <td align="center" width="20%">
-  <font size="-2"><a href="/suggestions">Suggestions/Feedback</a></font></td>
-  </tr>
-  <tr bgcolor="#aaaacc"><td align="center" colspan="8">
-  <font color="#f8f8f8" size="-1"><b>© 2000 - 2006  
-rateyourmusic.com</b></font>
-  </td></tr></tbody></table>
-  
-  </body></html>
+<!-- ~~~~~~~~ end content ~~~~~~~~~~~~~~~ -->
+
+
+<!--trick--><div style="clear:both;"></div>
+</div>
+<div id="navbottom">
+<ul>
+	<li><a href="/listen/all">Artists on RYM</a></li>
+  <li><a href="/wiki/RYM:FAQ">FAQ</a></li>
+	<li><a href="/tos">Terms of Service</a></li>
+	<li><a href="/privacy">Privacy</a></li>
+	<li><a href="/suggestions">Contact/Feedback</a></li>
+	<li><a href="/help/">Help</a></li>
+</ul>
+
+<table><tbody><tr><td style="width:100%;text-align:center;"><address>© 2000 - 2013 rateyourmusic.com </address></td></tr></tbody></table> 
+
+</div>
+</div>		
+
+
+
+ 
+ </body></html>
