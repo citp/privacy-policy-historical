@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922130117id_/http%3A//www.outdoorphotographer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401113226id_/http%3A//www.wernerpublishing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OutdoorPhotographer.com
+# Werner Publishing » Privacy Policy
 
 **Werner Publishing Corporation Online Privacy Policy**
 
@@ -18,8 +18,6 @@ The information we collect is used to improve the content of our web pages, cust
 **Postal Communications**  
 If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number(s) provided below or writing to us at the below address.  
 You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at one of following phone numbers, depending on the title: 
-
-| 
 
 _Digital Photo Pro_
 
@@ -74,7 +72,7 @@ Werner Publishing Corp. sites sometimes may offer contests, sweepstakes or promo
 **Attention, Kids**  
 If you are under the age of 13 (12 or younger), you may not provide any information about yourself to this Site. While you may view content on the Site, you may not register with the Site, enter any of our sweepstakes or contests or participate in any of our chat rooms, bulletin boards or other activities that would let you enter information about yourself. If we learn that you have provided information about yourself to this Site, we will delete such information.   
 **Note to Parents**  
-Werner Publishing Corp. will not knowingly collect personally identifiable information from kids under 13. If you have any concerns about this Site or its related services, wish to find out if your child is a member of one of our services or wish to cancel your child's membership, please contact us at [marketing@wernerpublishing.com](mailto:marketing@wernerpublishing.com).
+Werner Publishing Corp. will not knowingly collect personally identifiable information from kids under 13. If you have any concerns about this Site or its related services, wish to find out if your child is a member of one of our services or wish to cancel your child’s membership, please contact us at [marketing@wernerpublishing.com](mailto:marketing@wernerpublishing.com).
 
 **Ad Servers  
 **To bring you offers that may be of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click-stream information.   
@@ -97,8 +95,3 @@ Werner Publishing Corp.
 Los Angeles, CA 90025  
 ATTN: Marketing Department  
 We can be reached via e-mail at [marketing@wernerpublishing.com](mailto:marketing@wernerpublishing.com) or you can reach us by telephone at 310-820-1500.
-
-| 
-
-Get 11 Issues of Outdoor Photographer for only $14.97!  
-That's 77% off the cover price!
