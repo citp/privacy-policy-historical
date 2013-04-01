@@ -1,454 +1,435 @@
-<!--The following is the downloaded HTML source of the bfcu.com privacy policy that was archived on 2011-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219045120id_/https%3A//www.bethpage.coop/about_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bfcu.com privacy policy that was archived on 2013-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130401071646id_/https%3A//www.bethpagefcu.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript" type="text/javascript">
-//<!--
-
-	
-// This file contains codes for dropdown navigation and pop up messaging
-// File Created June 18 2007
-//Modified by Gregory Dennis 4/26/2006
- 
- function showWin(site) {
- window.open("/html/3rd_party_disc.html?"+site+"", "theWin", 'width=310,height=350,toolbar=0,location=0,navbar=0');
-	}		
-
- function displaybox(url,wdth,hght){
-   myRef=window.open(''+url+'','mywin','left=20,top=20,width='+wdth+',height='+hght+',toolbar=0,resizable=0');
-    }
-	
- function showWin2(site) {
- window.open(""+site+"", "Calculators", 'width=420,height=550,toolbar=0,location=0,navbar=0');
-	}
-
- function showWinExpire(site) {
- window.open("/html/shareBuilder_disc.html?"+site+"", "theWin", 'width=300,height=200,toolbar=0,location=0,navbar=0');
-	}
-
- function openNew(site) {
- window.open("/html/countBB.html?"+site+"", "Loading", 'width=100,height=100,toolbar=0,location=0,navbar=0');
-	}
-	
-//used to implement Bethpage SEG relationship
-
-function updateCookie(c_name,value,expiredays)
-{
-	var exdate=new Date();
-	exdate.setDate(exdate.getDate()+expiredays);
-	if(document.cookie.indexOf(c_name+"=")){
-	  document.cookie=c_name+ "=" +escape(value)+((expiredays==null) ? "" : "; expires="+exdate.toGMTString());
-	  }
-//  alert(document.cookie);
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta http-equiv="imagetoolbar" content="no"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="viewport" content="width=device-width, maximum-scale=1.0"><meta name="description" content="Privacy Policy"><link rel="stylesheet" href="/styles/bethpage/base.css" type="text/css" media="print,screen">
+<link rel="stylesheet" href="/styles/bethpage/bethpage.css" type="text/css" media="print,screen">
+<style type="text/css" media="screen">
+	.body3col ul, .body3col ol {
+    font-size: 13px !important;
 }
 
-
-function getCookie(c_name)
-{
-if (document.cookie.length>0)
-  {
-  c_start=document.cookie.indexOf(c_name + "=");
-  if (c_start!=-1)
-    { 
-    c_start=c_start + c_name.length+1 ;
-    c_end=document.cookie.indexOf(";",c_start);
-    if (c_end==-1) c_end=document.cookie.length
-    return unescape(document.cookie.substring(c_start,c_end));
-    } 
-  }
-return "";
+.newsletter h3{
+margin-top:10px;
 }
 
-var pageBanner ="";
-var tableStart="<TABLE class='egc_whitetxt segBgnd' cellSpacing=0 cellPadding=0 width=789 border=0><TBODY><TR><TD rowSpan=2><A href='default.asp'><IMG alt='Bethpage FCU' src='"+getCookie('Banner')+"' border=0></A></TD>";
-		   
-var tableStart_alt="<TABLE class='egc_whitetxt segBgnd' cellSpacing=0 cellPadding=0 width=789 border=0><TBODY><TR><TD rowSpan=2><A href='default.asp'><IMG alt='Bethpage FCU' src='images/egcsite/bfcu_logo_banner.jpg' border=0></A></TD>";
-
-
-function showPageBanner(){
-  	
-    if(getCookie("Banner")=="")
-   		{
-				pageBanner=tableStart_alt;
-				strCBP="0";
-	   }
-		
-	else
-   		{	
-		 //add 30days to current cookie
-			updateCookie("Banner",getCookie("Banner"),10);
-			pageBanner=tableStart;			
-			strCBP="1";
-		}	
-			
-		
-   return pageBanner;
-		}
-
-//SEG Banner end here
-	
-/***********************************************
-* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit http://www.dynamicdrive.com/ for full source code
-***********************************************/
-//Contents for menu 1 - About us
-var menu1=new Array()
-menu1[0]='<a href="about_who.asp">Who We Are</a>'
-menu1[1]='<a href="about_staff.asp">Executive Staff</a>'
-menu1[2]='<a href="about_locations.asp">Branch Location</a>'
-menu1[3]='<a href="heartofbethpage">Heart of Bethpage</a>'
-menu1[4]='<a href="about_specialoffers.asp">Special Offers to Members</a>'
-menu1[5]='<a href="about_newsletter.asp">Newsletter and Annual Reports</a>'
-menu1[6]='<a href="about_careers.asp">Careers</a>'
-
-
-
-//Contents for menu 2 - Accounts
-var menu2=new Array()
-menu2[0]='<a href="acct_savings.asp">Savings</a>'
-menu2[1]='<a href="acct_checking.asp">Checking</a>'
-menu2[2]='<a href="cdportfolio">Certificate Portfolio</a>'
-menu2[3]='<a href="acct_certificates.asp">Certificate</a>'
-menu2[4]='<a href="acct_money.asp">Money Market</a>'
-menu2[5]='<a href="acct_ira.asp">IRA</a>'
-menu2[6]='<a href="acct_youth.asp">Youth Accounts</a>'
-menu2[7]='<a href="acct_special.asp">Special Purpose</a>'
-
-//Contents for menu 3 - Loans and Credit Cards
-var menu3=new Array()
-menu3[0]='<a href="https://online.bethpage.coop/loanapp.aspx" target=_blank>Apply for a Loan</a>'
-//menu3[1]='<a href="loans_arm.asp">Mortgage</a>'
-menu3[1]='<a href="mortgage.asp">Mortgage</a>'
-menu3[2]='<a href="HELOC">Home Equity</a>'
-menu3[3]='<a href="loans_green.asp">Green Loans</a>'
-menu3[4]='<a href="loans_auto.asp">Auto</a>'
-menu3[5]='<a href="loans_unsecured.asp">Unsecured Loans</a>'
-menu3[6]='<a href="loans_visa.asp">Visa Credit Cards</a>'
-
-
-
-//Contents for menu 4- Investment and Insurance
-var menu4=new Array()
-menu4[0]='<a href="invest_bis.asp">Investments</a>'
-menu4[1]='<a href="insurance.asp">Life Insurance</a>'
-menu4[2]='<a href="pnc_summary.asp">Home & Auto Insurance</a>'
-
-
-//Contents for menu 5 - Services
-var menu5=new Array()
-menu5[0]='<a href="business.asp">Business Services</a>'
-menu5[1]='<a href="community/education">Educational Services</a>'
-menu5[2]='<a href="forms.asp">Forms</a>'
-menu5[3]='<a href="services_mobile.asp">Mobile Banking</a>'
-menu5[4]='<a href="online_banking.asp">Online Banking</a>'
-menu5[5]='<a href="services.asp">Other Services</a>'
-<!--menu5[6]='<a href="services_planit.asp">Retirement Services</a>'-->
-menu5[6]='<a href="services_phone.asp">Telephone Services</a>'
-
-
-
-//Contents for menu 6 - membership
-var menu6=new Array()
-menu6[0]='<a href="about_join.asp">Join Bethpage</a>'
-menu6[1]='<a href="cbp_join.asp">Become a Corporate Partner</a>'
-menu6[2]='<a href="disclosures.asp">Disclosures</a>'
-//menu6[2]='<a href="about_join.asp">Request a Sponsor Kit</a>'
-
-
-//Contents for menu 7 - Featured Products
-var menu7=new Array()
-menu7[0]='<a href="Acct_YoutH.asp">Youth Accounts</a>'
-menu7[1]='<a href="Acct_CheckinG.asp">Checking</a>'
-menu7[2]='<a href=javascript:openNew(\'http://www.memberheadquarters.com/\')>Better Benefit Checking Login</a>'
-
-//menu7[2]='<a href="javascript:showWin(\'http://www.gehomebuyerprivileges.com/default.asp?SourceID=bethpage&customer=bethpage&cust_url=http://www.linkingURL.com&external=y&ControllingOrg=B222223FRC\')">Homebuyer Privileges</a>'
-//javascript:showWin('http://www.atmallianceone.org/')"
-
-//Contents for menu 8 - Promotions
-var menu8=new Array()
-//menu8[0]='<a href="Business_LoanS.asp">Business Loans</a>'
-menu8[0]='<a href="https://www.bethpage.coop/About_SpecialOffers.asp" target=_blank>Special Offers to Members</a>'
-//menu8[1]='<a href="https://www.bethpage.coop/pdf/promo/RefinanceAuto072010.pdf" target=_blank>Auto Refinance</a>'
-menu8[1]='<a href="https://www.bethpage.coop/pdf/promo/ReferAFriend.pdf" target=_blank>Refer A Friend</a>'
-
-//Contents for menu 9 - Bethpage Events
-// To be modified to Bethpage Convenience
-var menu9=new Array()
-//menu9[0]='<a href="javascript:showWin(\'http://affiliates.cutaxservices.com?cuid=bethpa\')">Turbo Tax Offer</a>'
-//menu9[0]='<a href="reap">Bethpage Real Estate Assistance Program</a>'
-menu9[0]='<a href="Community_SchedulE.asp">Bethpage Upcoming Events!</a>'
-menu9[1]='<a href="services_finseminars.asp">Bethpage Seminars</a>'
-menu9[2]='<a href="community_charity.asp">Sponsorship</a>'
-//menu9[2]='<a href="https://www.uvest.com/doc/asset/research/LPL_Weekly_Market_Commentary.pdf" target=_blank>Weekly Market Commentary! </a>'
-//menu9[1]='<a href="ContestRuleS.asp">Bethpage Contest Rules</a>'
-
-
-
-var menuwidth='150px' //default menu width
-//#df7a00
-//var menubgcolor='#E01703'  //menu bgcolor
-var menubgcolor='#f3f2de'
-var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
-var hidemenu_onclick="yes" //hide menu when user clicks within menu?
-
-/////No further editting needed
-
-var ie4=document.all
-var ns6=document.getElementById&&!document.all
-
-if (ie4||ns6)
-document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
-
-function getposOffset(what, offsettype){
-var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
-var parentEl=what.offsetParent;
-while (parentEl!=null){
-totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
-parentEl=parentEl.offsetParent;
-}
-return totaloffset;
+a.btn {
+font-size:14px;
 }
 
-
-function showhide(obj, e, visible, hidden, menuwidth){
-if (ie4||ns6)
-dropmenuobj.style.left=dropmenuobj.style.top="-500px"
-if (menuwidth!=""){
-dropmenuobj.widthobj=dropmenuobj.style
-dropmenuobj.widthobj.width=menuwidth
-}
-if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
-obj.visibility=visible
-else if (e.type=="click")
-obj.visibility=hidden
+.home-tab-container p, a {
+    font-size: 14px;
 }
 
-function iecompattest(){
-return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+#tab1 .arrow-yellow {  
+    margin-left:100px;
 }
 
-function clearbrowseredge(obj, whichedge){
-var edgeoffset=0
-if (whichedge=="rightedge"){
-var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
-dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
-if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
-edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
-}
-else{
-var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
-var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
-dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
-if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
-edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
-if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
-edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
-}
-}
-return edgeoffset
+.link-size a {
+     font-size:12px;
 }
 
-function populatemenu(what){
-if (ie4||ns6)
-dropmenuobj.innerHTML=what.join("")
+.body3col a { 
+     font-size:12px;
 }
 
-
-function dropdownmenu(obj, e, menucontents, menuwidth){
-if (window.event) event.cancelBubble=true
-else if (e.stopPropagation) e.stopPropagation()
-clearhidemenu()
-dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
-populatemenu(menucontents)
-
-if (ie4||ns6){
-showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
-
-dropmenuobj.x=getposOffset(obj, "left")
-dropmenuobj.y=getposOffset(obj, "top")
-dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
-dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+.loginnoflash a.btn.rounded {
+margin-left:75px;
+margin-bottom:10px;
 }
 
-return clickreturnvalue()
+.announcement p {
 }
 
-function clickreturnvalue(){
-if (ie4||ns6) return false
-else return true
+.event-feature .content {
+width:350px;
 }
 
-function contains_ns6(a, b) {
-while (b.parentNode)
-if ((b = b.parentNode) == a)
-return true;
-return false;
+.service-table {
+margin:auto;
+}
+.service-table td {
+padding:10px 20px;
 }
 
-function dynamichide(e){
-if (ie4&&!dropmenuobj.contains(e.toElement))
-delayhidemenu()
-else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
-delayhidemenu()
+.event-feature img {
+margin-bottom:40px;
 }
 
-function hidemenu(e){
-if (typeof dropmenuobj!="undefined"){
-if (ie4||ns6)
-dropmenuobj.style.visibility="hidden"
-}
-}
-
-function delayhidemenu(){
-if (ie4||ns6)
-delayhide=setTimeout("hidemenu()",disappeardelay)
+p.redtext {
+font-weight:500;
+margin-bottom:8px;
+margin-left:20px;
+font-weight:bold;
 }
 
-function clearhidemenu(){
-if (typeof delayhide!="undefined")
-clearTimeout(delayhide)
+.indent {
+margin-left:10px;
 }
 
-if (hidemenu_onclick=="yes")
-document.onclick=hidemenu
+.h2-copy-bold   {
+    clear: both;
+    color: #007A84;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 22px;
+    margin: 0 0 6px;
+}
+
+.link-text {
+    font-size:12px;
+}
+
+.bullet-indent {
+    margin-left:40px;
+}
+
+.bullet-indent-small  {
+    margin-left:20px;
+}
+
+</style><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-HBK5"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+window.jQuery || document.write('<script src="/scripts/common/jquery-1.7.1.min.js"><\/script>')
+//]]>
+</script><script src="/scripts/common/jquery-1.7.1.min.js"></script>
+<script src="/scripts/common/modernizr-2.0.6.min.js" type="text/javascript"></script><script src="/scripts/bethpage/base.js" type="text/javascript"></script><script type="text/javascript">
+//<![CDATA[
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4298111-3']);
+  _gaq.push(['_setDomainName', 'bethpagefcu.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() { 
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })();
+
+$(document).ready(function() {
+
+$(".mortapplicationlink").click(function() {
+       _gaq.push(['_setCustomVar',4,'Clicked_Application','Mortgage',1]); _gaq.push(['_trackEvent','ApplicationLink','Mortgage']);
+});
+
+$(".cardapplicationlink").click(function() {
+       _gaq.push(['_setCustomVar',4,'Clicked_Application','Credit Card',1]); _gaq.push(['_trackEvent','ApplicationLink','Credit Card']);
+});
+$(".autoapplicationlink").click(function() {
+       _gaq.push(['_setCustomVar',4,'Clicked_Application','Auto',1]); _gaq.push(['_trackEvent','ApplicationLink','Auto']);
+});
+
+
+});
+//]]>
+</script>
+<link rel="canonical" href="https://www.bethpagefcu.com/privacy-policy.aspx"><link rel="icon" href="/images/icons/bp.ico"><link rel="SHORTCUT ICON" href="/images/icons/bp.ico"><title>
+	Privacy Policy
+</title></head>
+<body>
+    <form method="post" action="/privacy-policy.aspx" id="form1" accept-charset="utf-8">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTUwMjk0OTcyOWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFJ2hlYWRlcl8wJGN0bDAwJFNlYXJjaEZvcm0kYnV0dG9uX3NlYXJjaBVpi4YK21NIMhh+9TUuOJLOWDVH">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK1js5ZAvPrhJ0OApH8raMJjiCW4NHluuPPlx4wLxG2IUpNodY=">
+</div>
+    <!-- Start Header -->
+    
+
+<header>
+    <div id="headerWrap">
+    <a class="logo" href="/">
+        Bethpage™
+    </a>
+
+    <!-- Start Quicklinks -->
+    <div id="quickLinks">
+        <ul>
+	<li><a href="/branches-atms.aspx">Branches &amp; ATMs</a></li><li><a href="/rates-calculators.aspx">Rates &amp; Calculators</a></li>
+</ul><ul>
+	<li><a href="/more/open-account.aspx">Open an Account</a></li><li><a href="/more/apply.aspx">Apply for a Loan</a></li>
+</ul><ul>
+	<li><a href="/about-us.aspx">About Us</a></li><li><a href="/forms.aspx">Forms</a></li>
+</ul><ul>
+	<li><a href="/contact-us.aspx">Contact Us</a></li><li><a href="/conveniencia.aspx">En Español</a></li>
+</ul>
+        <ul>
+            <li>1-800-628-7070</li>
+            <li>Routing Number: 221473652</li>
+        </ul>
+    </div>
+    <!-- End Quicklinks -->
+
+    <!-- Start Main Menu -->
+    <nav class="primaryNav" style="opacity: 0.653014; display: block;">
+        <ul class="megamenu">
+	<li class="mm-item" style="float: left;"><a href="/personal.aspx" class="mm-item-link">Personal</a><div class="dropmenu personal mm-item-content" style="display: none;"><div class="mm-content-base">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr class="even">
+				<td class="first"><ul>
+					<li><a class="title" href="/personal/banking.aspx">Banking</a></li><li><a href="/personal/banking/bonus-checking.aspx">Bonus Checking</a></li><li><a href="/personal/banking/credit-cards.aspx">Credit Cards</a></li><li><a href="/personal/banking/online-banking.aspx">Online Banking</a></li><li><a href="/personal/banking/mobile-banking.aspx">Mobile Banking</a></li><li><a href="/personal/banking/online-bill-pay.aspx">Online Bill Pay</a></li><li><a href="/personal/banking/a2a_payments.aspx">Pay Anyone</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/personal/borrowing.aspx">Borrowing</a></li><li><a href="/personal/borrowing/mortgages.aspx">Mortgages</a></li><li><a href="/personal/borrowing/home-equity.aspx">Home Equity</a></li><li><a href="/personal/borrowing/vehicle-auto-loans.aspx">Auto Loans</a></li><li><a href="/personal/borrowing/auto-refinance.aspx">Auto Refinance</a></li><li><a title="Personal Loans Lines of Credit" href="/personal/borrowing/unsecured-loan.aspx">Personal Loans</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/personal/saving.aspx">Saving</a></li><li><a href="/personal/saving/savings-accounts.aspx">Savings Accounts</a></li><li><a href="/personal/saving/money-market-accounts.aspx">Money Market Accounts</a></li><li><a href="/personal/saving/certificates.aspx">Certificates</a></li><li><a href="/personal/saving/certificate-portfolio.aspx">Certificate Portfolio</a></li><li><a href="/personal/saving/youth-account.aspx">Youth Account</a></li><li><a href="/personal/saving/ira-money-market-accounts.aspx">IRA</a></li><li><a href="/personal/saving/special-purpose-account.aspx">Special Purpose Account</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/personal/investing.aspx">Investing</a></li><li><a href="/personal/investing/bethpage-investment-strategies.aspx">Bethpage Investment Strategies</a></li><li><a href="/personal/investing/college-planning.aspx">College Planning</a></li><li><a href="/personal/investing/portfolio-review-and-analysis.aspx">Portfolio Review and Analysis</a></li><li><a href="/personal/investing/retirement-planning.aspx">Retirement Planning</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/personal/insuring.aspx">Insuring</a></li><li><a href="/personal/insuring/auto-insurance.aspx">Auto Insurance</a></li><li><a href="/personal/insuring/homeowners-insurance.aspx">Homeowners Insurance</a></li><li><a href="/personal/insuring/life-insurance.aspx">Life Insurance</a></li><li><a href="/personal/insuring/long-term-care-and-disability.aspx">Long Term Care and Disability</a></li><li><a href="/personal/insuring/gap-insurance.aspx">Gap Insurance</a></li><li><a href="/personal/insuring/debt-protection.aspx">Debt Protection</a></li>
+				</ul></td>
+			</tr>
+		</tbody></table>
+	</div><div class="mm-js-shadow"></div></div></li><li class="mm-item" style="float: left;"><a href="/business.aspx" class="mm-item-link">Business</a><div class="dropmenu business mm-item-content" style="display: none;"><div class="mm-content-base">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td class="first"><ul>
+					<li><a class="title" href="/business/banking.aspx">Banking</a></li><li><a href="/business/banking/checking.aspx">Checking</a></li><li><a href="/business/banking/savings.aspx">Savings</a></li><li><a href="/business/banking/credit-cards.aspx">Credit Cards</a></li><li><a href="/business/banking/cash-management.aspx">Cash Management</a></li><li><a href="/business/banking/business-remote-deposit-capture.aspx">Business Remote Deposit Capture</a></li><li><a href="/business/banking/online-business-banking.aspx">Online Business Banking</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/business/borrowing.aspx">Borrowing</a></li><li><a href="/business/borrowing/vehicle-loans.aspx">Vehicle Loans</a></li><li><a href="/business/borrowing/commercial-real-estate.aspx">Commercial Mortgages</a></li><li><a href="/business/borrowing/lines-of-credit.aspx">Lines of Credit</a></li><li><a href="/business/borrowing/term-loans.aspx">Term Loans</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/business/investing.aspx">Investing</a></li><li><a href="/business/investing/retirement-planning.aspx">Retirement Planning</a></li><li><a href="/business/investing/investment-services.aspx">Investment Services</a></li><li><a href="/business/investing/succession-planning.aspx">Succession Planning</a></li><li><a href="/business/investing/wealth-management.aspx">Wealth Management</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/business/business-resources.aspx">Business Center</a></li><li><a href="/business/business-resources/writing_business_plan.aspx">Write a Business Plan</a></li><li><a href="/business/business-resources/email_newsletters.aspx">Email Newsletters</a></li><li><a href="/business/business-resources/build_a_website.aspx">Build a Website</a></li><li><a href="/business/business-resources/money_saving_tips.aspx">Money Saving Tips</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/business/corporate-business-partners.aspx">Corporate Business Partners</a></li><li><a href="/business/corporate-business-partners/partner-listing.aspx">Partner Listing</a></li><li><a href="/business/corporate-business-partners/testimonials.aspx">Testimonials</a></li><li><a href="/business/corporate-business-partners/community-awards.aspx">Community Award</a></li>
+				</ul></td>
+			</tr>
+		</tbody></table>
+	</div><div class="mm-js-shadow"></div></div></li><li class="mm-item" style="float: left;"><a href="/advice-planning.aspx" class="mm-item-link">Advice &amp; Planning</a><div class="dropmenu advice mm-item-content" style="display: none;"><div class="mm-content-base">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr class="even">
+				<td class="first"><ul>
+					<li><a class="title" href="/advice-planning/auto-center.aspx">Auto Center</a></li><li><a href="/advice-planning/auto-center/car_shopping.aspx">Car Shopping</a></li><li><a href="/advice-planning/auto-center/new_or_used.aspx">New or Used</a></li><li><a href="/advice-planning/auto-center/financing.aspx">Financing</a></li><li><a href="/advice-planning/auto-center/refinancing_make_sense.aspx">Refinancing</a></li><li><a href="/advice-planning/auto-center/get_prequalified.aspx">Get Prequalified</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/advice-planning/home-center.aspx">Home Center</a></li><li><a href="/advice-planning/home-center/buying-a-home.aspx">Buying a Home</a></li><li><a href="/advice-planning/home-center/using_your_homes_equity.aspx">Using Your Home's Equity</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/advice-planning/youth-center.aspx">Youth Center</a></li><li><a href="/advice-planning/youth-center/car_financing_for_youth.aspx">First Time Auto Buying</a></li><li><a href="/advice-planning/youth-center/save_for_their_future.aspx">Save for Their Future</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/advice-planning/money-management.aspx">Money Management</a></li><li><a href="/advice-planning/money-management/credit.aspx">Credit</a></li><li><a href="/advice-planning/money-management/fraud-protection.aspx">Fraud Protection</a></li><li><a href="/advice-planning/money-management/savings.aspx">Savings &amp; Budgeting</a></li>
+				</ul></td>
+			</tr>
+		</tbody></table>
+	</div><div class="mm-js-shadow"></div></div></li><li class="mm-item" style="float: left;"><a href="/community.aspx" class="mm-item-link">Community</a><div class="dropmenu community mm-item-content" style="display: none;"><div class="mm-content-base">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td class="first"><ul>
+					<li><a class="title" href="/community/heart-of-bethpage.aspx">Heart of Bethpage</a></li><li><a href="/community/heart-of-bethpage/community-partners.aspx">Community Partners</a></li><li><a href="/community/heart-of-bethpage/community-scholarships-program.aspx">Scholarship</a></li><li><a href="/community/heart-of-bethpage/employee-volunteer-program.aspx">Volunteer</a></li><li><a href="/community/heart-of-bethpage/your-sponsorship-proposal.aspx">Sponsorship</a></li><li><a href="/community/heart-of-bethpage/military-family-assistance-project.aspx">Military Assistance Project</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/community/events.aspx">Events</a></li><li><a href="/community/events/vita.aspx">VITA</a></li><li><a href="/community/events/turkey-drive.aspx">Turkey Drive</a></li><li><a href="/community/events/bethpage-airshow.aspx">Bethpage Air Show</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/community/government-affairs.aspx">Government Affairs</a></li><li><a href="/community/government-affairs/pac.aspx">PAC</a></li><li><a href="/community/government-affairs/govt_officials_towns.aspx">Officials</a></li><li><a href="/community/government-affairs/cu_issues.aspx">CU Issues</a></li>
+				</ul></td><td><ul>
+					<li><a class="title" href="/community/special-offers.aspx">Special Offers</a></li>
+				</ul></td>
+			</tr>
+		</tbody></table>
+	</div><div class="mm-js-shadow"></div></div></li><li class="clear-fix"></li>
+</ul>
+    </nav>
+    <!-- End Main Menu -->
+
+    
+
+
+<div class="search">
+    
+    <div class="form">
+        <input name="header_0$ctl00$SearchForm$input_search" type="text" maxlength="64" id="input_search" class="rounded" placeholder="Search this site">
+        <input type="image" name="header_0$ctl00$SearchForm$button_search" id="button_search" class="button-search" src="/images/search-btn.png" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;header_0$ctl00$SearchForm$button_search&quot;, &quot;&quot;, true, &quot;headersearchform&quot;, &quot;&quot;, false, false))">
+    </div>
+    
+    
+</div>
+
+</div>
+</header>
+
+    <!-- End Header -->
+    <!-- Start Content Wrapper -->
+    <div id="wrapper" class="group">
+        
+<div id="content-wrapper" class="group">
+
+
+<div id="main" class="wrap group" role="main">
+    
+<!-- Start Breadcrumb -->
+<nav id="breadcrumb">
+    <ul>
+        <li><a href="/">Home</a></li><li class="last">Privacy Policy</li>
+    </ul>
+</nav>
+<!-- End Breadcrumb -->
+    <!-- Start Left Column -->
+    <div class="sidecolLft">
+        
+    </div>
+    <!-- End Start Left Column -->
+
+    <!-- Start Center Column -->
+    
+    
+        <div class="body3col">
+    
+    
+
+        
+
+<h1>
+    Privacy Policy
+</h1><p style="text-align: center;" class="BasicParagraph"><img alt="" height="128" width="223" src="~/media/Images/bethpage/Privacy/bp.ashx"><br>
+<br>
+</p>
+<h2>What does Bethpage do with your personal information?</h2>
+<p>Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share and protect your personal information. Please read this notice carefully to understand what we do.</p>
+<p>The types of personal information we collect and share depends on the product or service you have with us. This information can include:</p>
+<ul>
+    <li style="color: windowtext;">Social Security number and assets and income, products interested in or use</li>
+    <li style="color: windowtext;">Name, email and transaction history, information from consumer reporting agencies.</li>
+    <li style="color: windowtext;">Address and ISP, web browser and any cookies sent or received.</li>
+</ul>
+<p>All financial companies need to share members’ personal information to run their everyday business.</p>
+<p style="text-align: center;" class="BasicParagraph"><img alt="" height="302" width="400" src="~/media/Images/bethpage/Privacy/bp_table.ashx"></p>
+<p>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards, secured files and buildings.</p>
+<p>We collect your personal information, for example, when you pay your bills online, bank on or offline, send emails or apply for products and services, also with your various use of planners, calculators and questionnaires.</p>
+<p>Federal law gives you the right to limit only sharing for affiliates’ everyday business purposes, information about your credit worthiness, affiliates from using your information to market to you, sharing for non-affiliates to market to you. Also, state laws and individual companies may give you additional rights to limit sharing. </p>
+<p>The opt-out request will apply to all of your accounts, both joint and individual and will remain in effect until you revoke it, in writing.</p>
+<p>&nbsp;</p>
+<p class="BasicParagraph"><strong>Affiliates</strong><br>
+Companies related by common ownership or control. They can be financial and non-financial companies.</p>
+<p class="BasicParagraph"><strong>Non-affiliates</strong><strong></strong></p>
+<p class="BasicParagraph">Companies not related by common ownership or control. They can be financial and non-financial companies.</p>
+<p class="BasicParagraph"><strong>Joint Marketing</strong><strong></strong></p>
+<p class="BasicParagraph">A formal agreement between non-affiliated financial companies that together market financial products or services to you.</p>
+<p class="BasicParagraph"><strong>To Limit Our Sharing</strong><strong></strong></p>
+<p>Call 800-628-7070, our menu will prompt you through your choice(s) or visit us online at lovebethpage.com.</p>
+<p>&nbsp;</p>
+<p>Please note: If you are a new member we can begin sharing your information 1-day from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.</p>
+<p style="text-align: center;" class="BasicParagraph">bethpagefcu.com&nbsp; &nbsp;|&nbsp; &nbsp;800-628-7070</p>
+<p style="text-align: center;" class="BasicParagraph"><img alt="" height="16" width="51" src="~/media/Images/bethpage/Privacy/ncua_1.ashx"></p>
+    
+        </div>
+    
+    
+
+    <!-- End Center Column -->
+    <!-- Start Right Column -->
+    <aside>
+        <h3>
+	Disclosures:
+</h3><ul>
+	<li><a target="_blank" title="Bethpage Membership Disclosure" href="/~/media/Files/bethpage/Compliance/MK-286_Disclosure_Booklet_1-2013.ashx">Membership Booklet</a></li><li><a target="_blank" title="Funds Availibity Policy" href="/~/media/Files/bethpage/documents/Funds_Availability_Policy_3_13.ashx">Funds Availibility Policy</a></li><li><a target="_blank" href="/~/media/Files/bethpage/documents/BusinessAccountDisclosures.ashx">Business Disclosures</a></li><li><a target="_blank" title="fee schedule" href="/~/media/Files/bethpage/Compliance/MK-289_Fee_Schedule_1-2013.ashx">Fee Schedule</a></li><li><a target="_blank" title="Credit Card Disclosure" href="/~/media/Files/bethpage/Compliance/MK-366_MC_RateRange_Disclaimer_Flyer.ashx">Credit Card Disclosure</a></li><li><a target="_blank" title="Cardholder Agreement" href="/~/media/Files/bethpage/Compliance/MK-666_CardholderAgreementM-104642.ashx">Cardholder Agreement</a></li><li><a target="_blank" href="/~/media/Files/bethpage/documents/Web_Linking_Policy.ashx">Web Linking Policy</a></li><li><a target="_blank" title="Bethpage Bill Pay Disclosures" href="/~/media/Files/bethpage/documents/Bethpage_Bill_Pay_Disclosure_updated 9-14-2012.ashx">Bill Pay Disclosure</a></li><li><a target="_blank" title="Bethpage Social Media Policy" href="/~/media/Files/bethpage/procedures/SocialParticipatinGuidelines.ashx">Social Media Policy</a></li>
+</ul>
+    </aside>
+    <!-- End Right Column -->
+    
+</div>
 
 
 
+<div class="cleaner"></div>
+
+<!-- Start Footer -->
 
 
-//-->
-</script></head><body><div id="dropmenudiv" style="visibility:hidden;width:150px;background-color:#f3f2de" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
+<footer>
+    <section class="footer-top wrap group">
+      <nav class="footer-copyright">
+
+        <ul>
+	<li><a href="/about-us.aspx">About Us</a></li><li><a title="careers" href="/about-us/careers/job_opportunities.aspx">Careers</a></li><li><a href="/contact-us.aspx">Contact Us</a></li><li><a href="/about-us/press-room.aspx">News</a></li><li class="last"><a href="/privacy-policy.aspx">Privacy Policy &amp; Disclosures</a></li>
+</ul>
+
+        <p>© 2013 Bethpage Federal Credit Union. All Rights Reserved. </p>
+      </nav>
+      <div class="footer-address">
+        <p>899 S. Oyster Bay Road | Bethpage, NY 11714<br>
+          1-800-628-7070<br>
+          Routing Number: 221473652</p>
+      </div>
+      <nav class="footer-social">
+        <p>Connect with us:</p>
+        <ul>
+	<li><a class="facebook externallink" target="_blank" href="https://www.facebook.com/lovebethpage">Facebook</a></li><li><a class="linkedin" target="_blank" href="http://www.linkedin.com/company/34341?trk=tyah">LinkedIn</a></li><li><a class="twitter" target="_blank" href="http://twitter.com/LoveBethpage">Twitter</a></li><li><a class="youtube" target="_blank" href="http://www.youtube.com/user/LoveBethpage/videos">YouTube</a></li>
+</ul>
+      </nav>
+   	</section>
+    	
+	<section class="sitemap wrap group">  
+        <nav id="sitemap">
+            <ul>
+	<li><h5>
+		Personal
+	</h5></li><li><a href="/personal/banking.aspx">Banking</a></li><li><a href="/personal/borrowing.aspx">Borrowing</a></li><li><a href="/personal/saving.aspx">Saving</a></li><li><a href="/personal/investing.aspx">Investing</a></li><li><a href="/personal/insuring.aspx">Insuring</a></li>
+</ul>
+            <ul>
+	<li><h5>
+		Business
+	</h5></li><li><a href="/business/banking.aspx">Banking</a></li><li><a href="/business/borrowing.aspx">Borrowing</a></li><li><a href="/business/investing.aspx">Investing</a></li><li><a href="/business/business-resources.aspx">Business Center</a></li><li><a href="/business/corporate-business-partners.aspx">Corporate Partners</a></li>
+</ul>
+            <ul>
+	<li><h5>
+		Advice &amp; Planning
+	</h5></li><li><a href="/advice-planning/auto-center.aspx">Auto Center</a></li><li><a href="/advice-planning/home-center.aspx">Home Center</a></li><li><a href="/advice-planning/youth-center.aspx">Youth Center</a></li><li><a href="/advice-planning/money-management.aspx">Money Management</a></li>
+</ul>
+            <ul>
+	<li><h5>
+		Community
+	</h5></li><li><a href="/community/heart-of-bethpage.aspx">Heart of Bethpage</a></li><li><a href="/community/events.aspx">Community Schedule</a></li><li><a href="/community/government-affairs.aspx">Government Affairs</a></li><li><a href="/community/special-offers.aspx">Special Offers</a></li>
+</ul>
+
+            
+        </nav>  
+
+        <a class="ncua" href="http://www.ncua.gov/">NCUA</a><a class="housing" target="_blank" href="/~/media/Files/bethpage/documents/Equal_Housing_Lender_Disclosure.ashx">Equal Housing Opportunity</a>
+	</section>
+</footer>
+<!-- End Footer -->
+
+</div>
 
 
+<!-- Start Footer -->
 
-<meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
-<meta name="description" content="Bethpage Federal Credit Union is committed to providing you with extraordinary service, anytime, anywhere. An important part of that commitment is the protection of your personal information">
-<link href="styles/site.css" rel="stylesheet" type="text/css">
-<link href="styles/nav.css" rel="stylesheet" type="text/css">
-<title>Bethpage Federal Credit Union - About Us -&gt; Privacy</title>
+<!-- alt footer -->
+<!-- End Footer -->
 
+    </div>
+    <!-- End Content Wrapper -->
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-4298111-1");
-pageTracker._initData();
-pageTracker._trackPageview();
+    <script type="text/javascript">
+//<![CDATA[
+$(document).ready(function() {
+$(".externallink").click(function() {_gaq.push(['_trackPageview',  $(this).attr('href')]);});
+}); 
+//]]>
 </script>
 
+    <script type="text/javascript">
+//<![CDATA[
+<!-- Google Tag Manager -->
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-HBK5');
+<!-- End Google Tag Manager -->
 
 
+//]]>
+</script>
+<noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-HBK5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
 
-<table cellpadding="0" cellspacing="0" align="center" class="egc_border">
-	<tbody><tr>
-	  <td colspan="2"><table class="egc_toplinks" cellspacing="0" cellpadding="0" width="789" background="/images/egcsite/bgnd/banner_bgnd.jpg" border="0">
-<tbody>
-<tr>
-<td rowspan="2"><a href="default.asp"><img alt="Bethpage FCU" src="/images/egcsite/bfcu_logo_banner.jpg" border="0"></a></td>
-<td valign="top" align="middle"><b><a href="deFault.asp">Home</a>&nbsp;&nbsp;<a href="about_caReers.asp">Careers</a>&nbsp;&nbsp;<a href="services_aTms.asp">ATM Locator</a>&nbsp;&nbsp;<a href="about_Locations.asp">Branches</a>&nbsp;&nbsp; <a href="javascript:displaybox('/mbrforms/contactus.aspx','450','820')">Contact Us</a></b></td>
-<td>
-<form name="frmsearch" action="search.asp" method="get"><b class="egc_toplinks">Search:</b>&nbsp;&nbsp;<input name="zoom_query"> <input type="image" src="/images/egcsite/egc_arrow.jpg" value="Submit"> </form></td></tr></tbody></table></td> 
-    </tr>
- 
-	<tr>
-		<!--/Side Navigation-->
-		<td valign="top" background="/images/egcsite/bgnd/side_bgnd.jpg">
-			<div class="egc_line">&nbsp;</div><br><br>
-<div align="left">
-<ul class="egc_side_nav">
-<li><a title="Access Your Account" href="/default.asp"><span><b>Home</b></span></a> 
-</li><li><a title="Join Bethpage" href="about_join.asp">Join Bethpage</a> 
-</li><li><a title="Become a member" href="cbp_join.asp"><span>Become a Corporate Partner</span></a> 
-</li><li><a href="https://www.bethpage.coop/disclosures.asp">Disclosures</a> </li></ul></div>
-<div style="PADDING-LEFT: 50px"><span style="BORDER-RIGHT: #00747a 2px solid; PADDING-RIGHT: 4px; BORDER-TOP: #00747a 2px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; BORDER-LEFT: #00747a 2px solid; WIDTH: 160px; PADDING-TOP: 4px; BORDER-BOTTOM: #00747a 2px solid; FONT-FAMILY: arial; BACKGROUND-COLOR: #ffcc66"><img src="images/egcsite/page/bettbenef02_sm.jpg" align="left">A better Benefits package Free to You<br><br><br><a style="TEXT-DECORATION: none" href="cbp_benefits.asp">Click Here!</a></span> </div>
-<div><img src="images/egcsite/page/join/bizdevchart.jpg"></div>
-<p></p><p><br>
-<table class="egc_rate_box" cellspacing="0" cellpadding="0" align="center" border="0">
-<tbody class="egc_textbody">
-<tr>
-<td class="egc_header" colspan="3">Help Center</td></tr><!--<TR><TD> </TD><TD><A class=egc_textbody href="http://www.experionsystems.com/gsx/156044/nm_web.xjsp" target=_blank>New Member to Bethpage</A> </TD><TD> </TD></TR>-->
-<tr>
-<td>&nbsp;</td>
-<td><a class="egc_txtbody" href="https://www.bethpage.coop/pdf/signaturecard01.pdf" target="_blank">Online Membership Application</a>&nbsp; </td>
-<td>&nbsp;</td></tr>
-<tr>
-<td>&nbsp;</td>
-<td><a class="egc_textbody" href="bethpagerates.asp">Current Rates</a> </td>
-<td>&nbsp;</td></tr>
-</tbody></table></p>
-		</td>
-		<!--/Page Details-->
-		<td valign="top">
-		     <table cellpadding="0" cellspacing="0" border="0">
-					 <tbody><tr><td background="/images/egcsite/bgnd/bgnd_egc.jpg"><table cellspacing="0" cellpadding="0" border="0">
-<tbody>
-<tr>
-<td><a onmouseover="dropdownmenu(this, event, menu1, '180px')" onmouseout="delayhidemenu()" href="about_who.asp"><img src="/images/egcsite/aboutus_btn.jpg" border="0"></a></td>
-<td><a onmouseover="dropdownmenu(this, event, menu2, '140px')" onmouseout="delayhidemenu()" href="acct_savings.asp"><img src="/images/egcsite/account_btn.jpg" border="0"></a></td>
-<td><a onmouseover="dropdownmenu(this, event, menu3, '180px')" onmouseout="delayhidemenu()" href="mortgage.asp"><img src="/images/egcsite/loanscc_btn.jpg" border="0"></a></td>
-<td><a onmouseover="dropdownmenu(this, event, menu4, '140px')" onmouseout="delayhidemenu()" href="invest_bis.asp"><img src="/images/egcsite/investinsurance_btn.jpg" border="0"></a></td>
-<td><a onmouseover="dropdownmenu(this, event, menu5, '140px')" onmouseout="delayhidemenu()" href="business.asp"><img src="/images/egcsite/services_btn.jpg" border="0"></a></td>
-<td><a onmouseover="dropdownmenu(this, event, menu6, '180px')" onmouseout="delayhidemenu()" href="about_join.asp"><img src="/images/egcsite/mbrship_btn.jpg" border="0"></a></td></tr></tbody></table></td></tr>
-                	 <tr><td><p><br>
-<table class="txtbody" cellspacing="0" cellpadding="0" border="0">
-<tbody>
-<tr>
-<td></td>
-<td><span class="pagehdr">Bethpage Online Privacy</span></td></tr>
-<tr>
-<td>&nbsp;</td>
-<td>
-<hr color="#333399">
-</td></tr>
-<tr>
-<td>&nbsp;</td>
-<td>
-<p><span class="txtheader">Privacy Policy “Notice” to Members:</span><br>Bethpage Federal Credit Union is committed to providing you with extraordinary service, anytime, anywhere. An important part of that commitment is the protection of your personal information. Whether you open your account at a Bethpage branch location or through the Internet, we understand that you may be concerned about the privacy of information you provide to us, or that is generated as a result of your visit to our website. Be assured that we are committed to your financial well being and protecting the privacy and security of your confidential information. To address these issues, Bethpage has instituted the following privacy policy.</p>
-<p><span class="txtheader">Your Personal Information:</span> <br>Personal Information includes all of the personal information you provide us both electronically and in hard copy. Information is collected when you bank on or off-line, use our online bill paying services, apply for products and services, send us e-mail or use various calculators, planners or questionnaires on our web site. This information may include: your name; address; social security number; assets and income; products you are interested in or use; your transactions with us, such as your account balance and loan payment history; information received from consumer reporting agencies, such as your creditworthiness and credit history; your e-mail address, Internet Service Provider, the web browser you use, and the content of any sent or received cookie.</p>
-<p><span class="txtheader">Our Use of Your Personal Information:</span> <br>Bethpage will use the information obtained about you to properly identify you, to maintain accurate account balance information, to help us provide you with efficient service and the products and services you request. This information also assists us in designing and improving our products and services to address your specific needs.<br>We may disclose some information about you to companies that administer the products and services we provide, or to offer you a broader array of products and services. Companies that perform business operations for us, such as check printing, are only provided with the information necessary for them to perform the specific function. Bethpage is extremely selective in choosing and contracting with these second parties and requires them to adhere to appropriate privacy and security standards.<br>We also may release information about you when legally required to do so (i.e., in response to a subpoena or court order) or to prevent fraud.</p>
-<p><span class="txtheader">Information We Disclose:</span> <br>We do not disclose any nonpublic information about our members or former members to anyone except as permitted by law. We do not sell any customer information to anyone. In those situations where we are permitted to disclose information, we may disclose all the information we collect, as described above. For example, we may disclose nonpublic personal information about you to third parties to assist us in servicing your loan or account with us, to government entities and to third parties in response to subpoenas, and to consumer reporting agencies. We may also disclose information we collect, as described above, to nonaffiliated third parties that perform account administration services or functions on our behalf, marketing services on our behalf, to other financial institutions with which we have joint marketing agreements, and for other reasons allowed by law. We may also disclose certain nonpublic personal information we collect to our affiliates, such as Bethpage Financial Services, for the purpose of providing you with information about additional products and services that may benefit you.<br>Security of Your Personal Information: <br>Bethpage continually updates and improves the physical, electronic, and procedural safeguards required to comply with all applicable legal standards to protect the security of your personal information.<br>All employees are required to agree in writing to protect the confidentiality of customer data and to use it only for credit union purposes. We restrict access to your personal and account information to those employees who need to know that information to provide products or services to you.<br>The Internet is a public network. Therefore, it is important to learn how you can safeguard your banking information, credit card numbers, social security number and other personal data, and to learn about and take advantage of security features. Some examples of security features are: </p>
-<p><br>Encryption is the process of scrambling private information to prevent unauthorized access. To show that your transmission is encrypted, some browsers display a small icon on your screen that looks like a "lock" or a "key" whenever you conduct secure transactions online. Avoid sending sensitive information, such as account numbers, through unsecured e-mail. <br>Passwords, access codes or personal identification numbers (PINs) should be used when accessing an account online. Your password should be unique to you and you should change it regularly. Do not use birth dates or other numbers or words that may be easy for others to guess. NEVER GIVE YOUR PASSWORD (s), ACCESS CODES (s) OR PIN (s) TO ANYONE. <br>General security over your personal computer such as virus protection and physical access controls should be used and updated regularly. Contact your hardware and software suppliers or Internet service provider to ensure you have the latest in security updates.</p>
-<p><span class="txtheader">Links to Other Sites:</span> <br>The Internet offers the potential for safe, convenient new ways to shop for financial services and conduct banking business, any day, any time. As an added convenience to our members, the Bethpage website may offer online links to merchants, retail stores, travel agents and other non-financial sites. Please remember that an outside website may not be secure and the company’s products and services may not be insured by the NCUA. We cannot guarantee your privacy or the products and services in these cases. As in everyday business, before you order a product or service online, make sure you are comfortable with the reputation of the company making the offer. Only then should you release any personal information. </p>
-<p><span class="txtheader">Children's Online Privacy:</span><br>Bethpage recognizes its responsibility to protect children’s privacy and safety online. The Bethpage web site is not directed to children and does not collect or retain individually identifiable information about children under the age of 13.</p>
-<p><span class="txtheader">Maintaining the Accuracy of your Information: </span><br>Bethpage has procedures in place to insure that your personal information is accurately recorded and maintained and that any inaccurate or incomplete information is corrected in a timely manner.<br>If you have any reason to believe that your personal information is incorrect, you may contact us by mail at P.O. Box 127 Bethpage, NY 11714; by phone at 1-800-628-7070; or by e-mail (if you visit our web site, <a href="http://www.bfcu.com">www.bfcu.com</a>). Be sure to include your name, telephone number and your account numbers. </p>
-<p><span class="txtheader">Your Right To Opt-Out</span> <br>We understand the importance of your privacy and recognize that you may prefer that we not disclose nonpublic personal information about you. If you prefer that Bethpage or its affiliate, BFCU Financial Services, Inc., not share certain nonpublic personal information about you with nonaffiliated third parties, you may restrict information sharing (other than those disclosures permitted by law). Such an election means you "opt out" of information sharing.<br>Your election to opt out will apply to all products and services you obtain with Bethpage and its affiliates for personal, family or household purposes. If you have a joint account with one or more other individuals, an opt out sent by any one individual on the joint account will cause that account to be identified as an opt out account. <br>With that in mind we are providing you with a number of ways to opt out of these disclosures. If you wish to opt out of these disclosures, you may contact us either in person at one of our branches, by writing to us at P.O. Box 127 Bethpage, NY 11714, by phone at 1-800-628-7070 or by e-mail (if you visit our web site, <a href="http://www.bfcu.com">www.bfcu.com</a>). Be sure to include your name, telephone number and your account numbers. This opt out request will apply to all of your accounts, both joint and individual, and will remain in effect until it is revoked by you, in writing. Your opt out direction will be honored even if your member relationship with the credit union ends.</p>
-<p><span class="txtheader">Copy Received:</span><br>You may print a copy of this Privacy Policy notice from our website for your records or you can receive a printed copy by calling us at 1-800-628-7070 or writing to P.O. Box 127, Bethpage, NY 11714. You may also retain a copy of this notice by saving from our website to a file on your personal computer. In order to save and view this notice, you will need software that will allow you to copy it into a format that you can keep. To print this Privacy Policy notice you will need a printer and to save it you will need a storage device such as a disk drive or tape drive. It is your responsibility to maintain the necessary hardware and software that will enable you to print or save this notice for your records.</p>
-<p><span class="txtheader">Please Note:</span> Only deposit accounts offered through Bethpage Federal Credit Union are eligible for NCUA insurance coverage. Non-deposit investment and insurance products, such as mutual funds, stocks, annuities and life insurance policies that may be sold through this web site or at a Bethpage branch location, are not NCUA-insured, are not guaranteed by the credit union, and may lose value. <br>Revised 5.2.06</p></td>
-<td>&nbsp;</td></tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td></tr></tbody></table></p></td></tr>
-				 	 <tr><td><p><br><br>
-<table class="txtbody" cellspacing="0" cellpadding="0" width="500" align="center" border="0">
-<tbody>
-<tr align="middle">
-<td>
-<center>1-800-628-7070 </center></td></tr>
-<tr>
-</tr><tr align="middle">
-<td class="txtbody">
-<center><a href="about_privacy.asp"><b>Privacy Policy</b></a>&nbsp;&nbsp; :::&nbsp;&nbsp;<a href="help_sitesecurity.asp"><b>Security Statement</b></a></center></td></tr>
-<tr><td class="egc_greentxt">
-Membership is open to anyone who lives, works, worships, attends school,regularly conducts business in Nassau or Suffolk County, or is an immediate family member of a current member.
-</td></tr>
-<tr>
-<td align="middle">
-<p><br><a href="#" target="_new"></a>&nbsp;<br></p><!--<P> </P><P> </P><P> </P><P><BR><BR> </P>-->
-<table class="FooterTable" id="Table2" cellspacing="0" cellpadding="0" width="100%" border="0">
-<tbody>
-<tr>
-<td class="FooterTable" valign="top" width="50%">
-<center><a href="#"><img height="37" alt="NCUA" src="/images/ncua.gif" width="102" border="0"></a><br>Your savings federally insured to at least $250,000 and backed by the full faith and credit of the United States Government<br>National Credit Union Administration, a U.S. Government Agency.&nbsp; </center></td>
-<td class="FooterTable" valign="top" width="50%">
-<center><a href="mortgage_ehl.asp"><img height="38" alt="Equal Housing Lender" src="/images/equalhl.gif" width="41" border="0"></a><br>We do business in accordance with the Federal Fair Housing Law and the Equal Credit Opportunity Act.</center></td></tr></tbody></table></td></tr></tbody></table></p></td></tr>
-		     </tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+    
+    
+    
 
+    </form>
 
 
 </body></html>
