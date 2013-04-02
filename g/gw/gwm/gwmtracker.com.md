@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gwmtracker.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008090040id_/http%3A//affiliate.gwmtracker.com/index.php%3Fpgid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwmtracker.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402154545id_/http%3A//affiliate.gwmtracker.com/index.php%3Fpgid%3D18) for the most accurate reproduction.*
 
 # Welcome to CPABuilder
 
