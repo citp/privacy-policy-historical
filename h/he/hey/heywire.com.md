@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heywire.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002232606id_/http%3A//heywire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heywire.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402060626id_/http%3A//www.heywire.com/privacy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -38,6 +38,8 @@ We may also receive information about you from other sources. We do not share th
 Using various technologies, such as cookies, pixel tags and web beacons, our systems may automatically gather information about the areas you visit through the Services and collect operational information about the technology you use, such as your browser, type of computer or mobile device, geographic location, operating systems, system and application software, peripherals, Internet service providers and the domain name of the website from which you linked to the Services.
 
 In addition, we may store some information on your computer when using HeyWire for the web. This information will be in the form of a cookie or similar file and will help us tailor the Services or advertisements to better match your interests and preferences. Most Internet browsers enable you to erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored.
+
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.aboutads.info/choices.
 
 The Company does not collect personally identifiable information automatically. We treat information gathered via cookies and other technologies as non-personal information, unless such information is treated as personal under local law. If we combine such information with personal information, then the combined information is treated as personal and we will not reveal your personal information.
 
@@ -95,9 +97,9 @@ The Services are hosted on servers in the United States and are subject to U.S. 
 If you have any questions, comments or concerns about this Privacy Policy or the information practices of this site, please contact us at:
 
 MediaFriends, Inc.   
-10 Canal Park,   
-Suite 620   
+1 Canal Park,   
+Suite 1130   
 Cambridge, MA 02141 
 
-+1 617.758.6226  
++1 617.758.6200  
 [privacy@heywire.com](mailto:privacy@heywire.com)
