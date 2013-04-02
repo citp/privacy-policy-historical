@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medpedia.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015081812id_/http%3A//www.medpedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medpedia.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402113105id_/http%3A//www.medpedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Medpedia
 
