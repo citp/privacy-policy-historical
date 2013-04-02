@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ranklite.com privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226200125id_/http%3A//ranklite.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ranklite.com privacy policy that was archived on 2013-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130402210516id_/http%3A//ranklite.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     	<meta http-equiv="Content-Type" content="Type=text/html; charset=utf-8">
@@ -19,7 +19,29 @@
 	<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/smoothness/jquery-ui.css">
 		<script type="text/javascript">function hyper(o){o.onmouseover="";if(navigator.appName=='Microsoft Internet Explorer')return;var l=o.innerHTML.split("\n");for(var i=0;i<l.length;i++){l[i]="<a href=\"http://"+l[i].toLowerCase()+".ranklite.com/\">"+l[i]+"</a>";}o.innerHTML=l.join("");}</script>
 
-
+<script>
+$(function () {
+  
+  var msie6 = $.browser == 'msie' && $.browser.version < 7;
+  
+  if (!msie6) {
+    var top = $('#adss').offset().top - parseFloat($('#adss').css('margin-top').replace(/auto/, 0));
+    $(window).scroll(function (event) {
+      // what the y position of the scroll is
+      var y = $(this).scrollTop();
+      
+      // whether that's below the form
+      if (y >= top) {
+        // if so, ad the fixed class
+        $('#adss').addClass('fixed');
+      } else {
+        // otherwise remove it
+        $('#adss').removeClass('fixed');
+      }
+    });
+  }  
+});
+</script>
 				<!--[if lte IE 6]>
 			<link href="http://ranklite.com/i/style-IE.css" media="screen" rel="Stylesheet" type="text/css" />
 		<![endif]-->
@@ -27,8 +49,7 @@
 
 	</head>
 	<body>
-	  
-		<div id="container">	
+     		<div id="container">	
 			<div id="header">
 				<a href="http://ranklite.com" id="header_home_link"></a>
 				<span style="margin: 300px 0 0 500px"><g:plusone size="medium"></g:plusone></span>
@@ -36,7 +57,7 @@
 					<form method="get" id="site-search" action="http://ranklite.com/s.php">
 						<input type="text" name="q" id="search_input" value="example: google.com" onfocus="this.value=''"><input class="search_button" src="http://ranklite.com/media/dot.gif" alt="Search" type="image" value="submit" name="submit">
 					</form>
-									<div id="counter">Hosting 568738 unique reports!</div>					
+									<div id="counter">Hosting 786978 unique reports!</div>					
 				</div>
 
 			</div>
@@ -97,22 +118,22 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 	</div></div>
 	<div id="content_right">
- 
+
+
+		
 		<div class="sidebar_title">Recent Hosting Reports</div>
 		<div class="sidebar_text">
-			<ul><li><a href="http://alloy.ru.ranklite.com">alloy.ru</a></li><li><a href="http://bedlingtons.org.uk.ranklite.com">bedlingtons.org.uk</a></li><li><a href="http://canton.de.ranklite.com">canton.de</a></li><li><a href="http://madamandeve.co.za.ranklite.com">madamandeve.co.za</a></li><li><a href="http://fundsforwriters.com.ranklite.com">fundsforwriters.com</a></li><li><a href="http://meetdomainers.co.uk.ranklite.com">meetdomainers.co.uk</a></li><li><a href="http://playpharma.com.ranklite.com">playpharma.com</a></li><li><a href="http://plm11.pl.ranklite.com">plm11.pl</a></li><li><a href="http://truepcgaming.com.ranklite.com">truepcgaming.com</a></li><li><a href="http://thanwords.jp.ranklite.com">thanwords.jp</a></li>			</ul>				</div>
+			<ul><li><a href="http://atozscan.com.ranklite.com">atozscan.com</a></li><li><a href="http://cookiecreation.com.ranklite.com">cookiecreation.com</a></li><li><a href="http://chewbz.com.ranklite.com">chewbz.com</a></li><li><a href="http://yeshajaa.com.ranklite.com">yeshajaa.com</a></li><li><a href="http://kevinkwanhk.com.ranklite.com">kevinkwanhk.com</a></li><li><a href="http://harrisonproducts.net.ranklite.com">harrisonproducts.net</a></li><li><a href="http://rsa.org.ranklite.com">rsa.org</a></li><li><a href="http://wiserep.com.ranklite.com">wiserep.com</a></li><li><a href="http://qifitnessforum.com.ranklite.com">qifitnessforum.com</a></li><li><a href="http://a1hyderabadflowers.com.ranklite.com">a1hyderabadflowers.com</a></li>			</ul>				</div>
 					
 
-			
-			
-			
+						
 			</div>		
 			</div>	
 			
 			<div id="footer">
 
 				<div id="footer_left">© 2010 - ranklite.com - Find Complete Website Statistics Reports.
-				0.00110				
+				0.00114				
 				</div>
 				<div id="footer_right">
 					<script type="text/javascript" src="http://widgets.amung.us/small.js"></script><script type="text/javascript">WAU_small('pu2flcqr22hm')</script>
