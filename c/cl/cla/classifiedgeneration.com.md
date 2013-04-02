@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedgeneration.com privacy policy that was archived on 2012-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120711030019id_/http%3A//www.classifiedgeneration.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedgeneration.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402075150id_/http%3A//www.classifiedgeneration.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Classified Generation
 
