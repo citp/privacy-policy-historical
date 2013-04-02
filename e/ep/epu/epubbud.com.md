@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epubbud.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003013850id_/http%3A//www.epubbud.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epubbud.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403011013id_/http%3A//www.epubbud.com/privacy.php) for the most accurate reproduction.*
 
 # ePub Bud - Publish, Convert, Store, and Download free children's ebooks online for the iPad and nook color!
 
@@ -17,7 +17,7 @@
 
   * If you submit personal information to ePub Bud, we may use that information to operate, maintain, and improve the features and functionality of ePub Bud, and to process any flagging activity or other communication you send to us.
   * We do not use your email address or other personal information to send commercial or marketing messages without your consent. We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major ePub Bud changes or for customer service purposes). 
-  * If you have been found to be infringing on the copyright of others per the DMCA and our policies stated in our [terms,](https://web.archive.org/web/20121003013850id_/http%3A//www.epubbud.com/terms.php) we may reveal all information we have pertaining to the violation, including possibly your personal information to law enforcement and/or the owner of the infringed copyright and/or their designated representatives.
+  * If you have been found to be infringing on the copyright of others per the DMCA and our policies stated in our [terms,](https://web.archive.org/web/20130403011013id_/http%3A//www.epubbud.com/terms.php) we may reveal all information we have pertaining to the violation, including possibly your personal information to law enforcement and/or the owner of the infringed copyright and/or their designated representatives.
   * We use cookies, web beacons, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit ePub Bud; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
 
 
@@ -33,7 +33,7 @@
 
 ## Your Choices
 
-  * If you have a ePub Bud Account, you may update or correct your personal profile information at any time by visiting your [account profile page](https://web.archive.org/web/20121003013850id_/http%3A//www.epubbud.com/user.php). 
+  * If you have a ePub Bud Account, you may update or correct your personal profile information at any time by visiting your [account profile page](https://web.archive.org/web/20130403011013id_/http%3A//www.epubbud.com/user.php). 
   * You may, of course, decline to submit personal information through ePub Bud, in which case you can still read books and explore ePub Bud, but ePub Bud may not be able to provide certain services to you. 
 
   
