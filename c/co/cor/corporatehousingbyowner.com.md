@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporatehousingbyowner.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023123114id_/http%3A//www.corporatehousingbyowner.com/corporate-housing/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporatehousingbyowner.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402194008id_/http%3A//www.corporatehousingbyowner.com/sessions/f6fd46690daa47db517bc91bb3a6b2cb/corporate-housing/privacy_policy) for the most accurate reproduction.*
 
 # Corporate Housing by owner: corporate housing and accommodations, furnished apartments for short term rentals
 
@@ -45,7 +45,7 @@ Corporate Housing by Owner
 9249 South Broadway #200 - 416  
 Highlands Ranch, CO 80129
 
-Email: [Support](mailto:support@chbo.biz)   
+Email: [Support](mailto:support@mychbo.com)   
 Business Line: 720.238.3068 M-F 8-5MST  
 Toll Free: 877.333.2426  
 Fax: 720.228.2426
