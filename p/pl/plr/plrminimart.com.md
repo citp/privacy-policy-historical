@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plrminimart.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120073320id_/http%3A//www.plrminimart.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrminimart.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402222546id_/http%3A//www.plrminimart.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # PLR- Private Label Rights Article Packs By Tiffany Dow
 
