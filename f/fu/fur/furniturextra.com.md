@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the furniturextra.com privacy policy that was archived on 2012-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120225152752id_/http%3A//www.furniturextra.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturextra.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402044648id_/http%3A//www.furniturextra.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# FurnitureXtra|Modern Furniture|Contemporary Furniture
+# Privacy Policy Statement
 
 **Your Personal Information**
 
