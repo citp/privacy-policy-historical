@@ -1,73 +1,72 @@
-> *The following text is extracted and transformed from the natfire.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102132808id_/http%3A//www.natfire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natfire.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402112421id_/http%3A//www.natfire.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# National Fireproofing - Flamex PF Fire Retardant Spray - FS I-DS Fire Retardant Spray - FS-II Fire Retardant Spray - DC 333 DC 315 Fire Blocking Paint
+# Fire Retardant Spray | Flame Retardant Spray
 
-This privacy policy is intended for all users of **National Fireproofing, Inc**
+**Privacy Policy**
 
-**National Fireproofing, Inc** is dedicated to respecting and protecting the privacy of our clients. All information you provide, such as E-mail addresses or any additional personal information on or through any forms found on our site, will be used solely to support your relationship with **National Fireproofing, Inc**. We strive to develop innovative methods to better serve our users. Our services are designed and operate with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use **National Fireproofing, Inc** ’s services, as well as some of the steps we take to safeguard it.
+**What information do we collect?**
 
-**By visiting this web site you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our services.**
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
-This privacy policy addresses the following areas: 
+  
+ **How do we use your information?**
 
-  * What personally identifiable information **National Fireproofing, Inc** collects.
-  * What personally identifiable information third parties collect through the web site.
-  * What organization collects the information.
-  * How **National Fireproofing, Inc** uses the information.
-  * With whom **National Fireproofing, Inc** may share user information.
-  * What choices are available to users regarding collection, use and distribution of the information.
-  * What types of security procedures are in place to protect the loss, misuse or alteration of information under the control of **National Fireproofing, Inc**
-  * How users can correct any inaccuracies in the information.
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To administer a contest, promotion, survey or other site feature.
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
+  
+ **How do we protect visitor information?**
 
-If users have questions or concerns regarding this statement, they should contact **National Fireproofing, Inc** at frspray@gmail.com. Any violation of this privacy policy will lead to suspension of user privileges and permanent removal from access to this web site.
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
-**Information** **Collection**  
-**National Fireproofing, Inc** is the sole owner of the information collected on our site. **National Fireproofing, Inc** collects and monitors information from our users at several different points on our web site. 
+ **Do we use "cookies"?**
 
-**Registration**  
-In order to use the services offered on our web site, a user must first complete the registration form. During registration a user is required to disclose contact information (such as name and email address). If offered, it is optional for the user to disclose demographic information (such as income level and gender), and unique identifiers (such as a username). We do encourage full disclosure of these details in order for **National Fireproofing, Inc** to provide a more customized experience on our site. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-While **National Fireproofing, Inc** exercises all due caution to protect your privacy, **National Fireproofing, Inc** will not be held responsible for parties who attempt to illegally access our web site and intercept or access transmissions or private communications. 
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Unless described otherwise in this privacy policy, **National Fireproofing, Inc** will not sell any information. All information collected by **National Fireproofing, Inc** will be used solely by **National Fireproofing, Inc** to deliver targeted newsletters and advertisements.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
-**Information** **Use - "Profiles"**  
-**National Fireproofing, Inc** stores information collected through cookies, log files and/or third interests in your user profile. A profile is stored information that we keep on individual users detailing specific viewing preferences. Subsequently, this collected information is linked to users’ personally identifiable information,which provides directs pertinent marketing promotions to you and helps us improve site content for the user. **National Fireproofing, Inc** does not share your profile with other third parties, unless specifically mentioned elsewhere in this policy.
+ **Do we disclose the information we collect to outside parties?**
 
-**Cookies**  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. Cookies, if used, will be used on **National Fireproofing, Inc** to remember and recall login names, login information, previous purchases, potential purchases, as well as other items to help us better understand users’ needs. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use **National Fireproofing, Inc**. The only drawback to this is that the user will be limited in some areas. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. For more details, see the above "Profile" section. We have no control over any third party that may also use cookies to store personal information. However, we do not provide this information to any third party.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include National Fireproofing, Inc. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-**Log** **Files**  
-Like most standard web site servers we may use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, site administer, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Sharing**   
-Legal Disclaimer  
-Though we exercise all due caution to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. This includes, but is not limited to, any defense to any claim in which **National Fireproofing, Inc** is a defendant, to assist in any investigations by law enforcement agencies, or violations of any **National Fireproofing, Inc** policy. 
+ **How can you opt-out, remove or modify information you have provided to us?**
 
-**Aggregate** **Information** **(non-personally identifiable)**  
-While **National Fireproofing, Inc** will not rent, sell or share your information in general, there are certain instances when your information may be used. **National Fireproofing, Inc** does share aggregated demographic information and in some cases your e-mail address with others. This is how your information will be shared: 
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
 
-If **National Fireproofing, Inc** merges with another company, this aggregate information will be shared with the merging company. These are the instances in which we will share users’ personal information: As agreed to at the various sections under **National Fireproofing, Inc** ; **National Fireproofing, Inc** does not rent, sell, or share personal information about you with other people or nonaffiliated companies except under the following circumstances:
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
-  * We have your consent.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of **National Fireproofing, Inc** terms of use, or as otherwise required by law; We transfer or lease information about you if **National Fireproofing, Inc** is acquired by or merged with another company. In this event, **National Fireproofing, Inc** will notify you before information about you is transferred and becomes subject to a different privacy policy; we do not support any illegal use of your private information and will make every effort to stop such practices in order to protect your privacy.
-  * Business Transitions: In the event **National Fireproofing, Inc**  goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via e-mail, as well as with a prominent notice on our Web site for at least 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+ **Third party links**
 
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
+ **Changes to our policy**
 
-**Links**   
-This web site may contain links to other sites. Please be aware that we, **National Fireproofing, Inc** , are not responsible for the privacy practices of sites other than our own. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. **National Fireproofing, Inc** may have co-branding and/or framing relations with other companies. In this case, you should be familiar with the privacy policies of both companies, since you may be subject to each of them. 
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
 
-**Contacting** **National Fireproofing, Inc** **: If you have questions or concerns about the** **National Fireproofing, Inc** **guidelines, policies, procedures, you can contact us at** **frspray@gmail.com**
+ **Questions and feedback**
 
-**Security** :  
-Notification of Changes  
-If we decide to change our privacy policy, changes will be posted to this privacy statement, our homepage, and other places we deem conspicuous and appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. **National Fireproofing, Inc** will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection, users will be notified via e-mail. Users will then be presented with a choice as to whether or not we become authorized to use their information in this different way. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users (who have opted to receive communications from **National Fireproofing, Inc** ), notifying them of the changes in our privacy practices.
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-**National Fireproofing, Inc** and its affiliates maintain professional standards and have a high quality of respect to our members as well as our guest and affiliates
+ **Online Policy Only**
 
- 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20130402112421id_/http%3A//www.natfire.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+ **Your consent**
+
+By using our site, you consent to our privacy policy.
