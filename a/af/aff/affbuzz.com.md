@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affbuzz.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123021159id_/http%3A//affbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affbuzz.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402180521id_/http%3A//affbuzz.com/privacy) for the most accurate reproduction.*
 
 # Affbuzz.com - Affiliate Marketing News & Blog Aggregator
 
@@ -26,6 +26,3 @@ We will protect personal information by reasonable security safeguards against l
 We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-Affbuzz is the original aggregator for **Affiliate Marketing News** and **Affiliate Offers**.   
-It's a Popurls clone built upon framework from Delic News. PopURLs is a registered trademark of Thomas Marban. This site is not affiliated with it in any way. Accept no substitutes. Get Money. Get Paid. 
