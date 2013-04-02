@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terrylove.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221004913id_/http%3A//www.terrylove.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrylove.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402225531id_/http%3A//terrylove.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy, Love Plumbing & Remodel
 
@@ -18,7 +18,7 @@ Questions regarding our privacy policies, please direct your email to [terry@ter
 
 **Cookies**
 
-The only place this site uses cookies, is when you have entered the order entry shopping area of our site, we use "cookies" (a small file stored on your hard drive) to store your purchase selections. Specifically, cookies allow you to view the current  shopping order, that is what you have placed in your cart. Cookies do not contain any registration information that would personally identify you.  They only track what items are in your shopping cart.  They do not record credit card numbers.  Our cookies don't track your usage of other web sites or the Internet. If you restrict or disallow cookies through your web browser, you will be unable to use the shopping cart to place an order in that way.  However, you can always phone in an order or fax the order.  [Ordering information](https://web.archive.org/web/20121221004913id_/http%3A//www.terrylove.com/order.htm).   
+The only place this site uses cookies, is when you have entered the order entry shopping area of our site, we use "cookies" (a small file stored on your hard drive) to store your purchase selections. Specifically, cookies allow you to view the current  shopping order, that is what you have placed in your cart. Cookies do not contain any registration information that would personally identify you.  They only track what items are in your shopping cart.  They do not record credit card numbers.  Our cookies don't track your usage of other web sites or the Internet. If you restrict or disallow cookies through your web browser, you will be unable to use the shopping cart to place an order in that way.  However, you can always phone in an order or fax the order.  [Ordering information](https://web.archive.org/web/20130402225531id_/http%3A//terrylove.com/order.htm).   
 
 
 **Secure connections**.  
@@ -35,4 +35,4 @@ Bothell WA 98011
 
 This is our current policy, effective January 2003. We reserve the right to change this policy from time to time. You will know if the policy has been updated as we will change the effective date of the policy and will make a note on the site's home page that the privacy policy has been updated from a previous policy.
 
-[Home page](https://web.archive.org/web/20121221004913id_/http%3A//www.terrylove.com/index.htm)
+[Home page](https://web.archive.org/web/20130402225531id_/http%3A//terrylove.com/index.htm)
