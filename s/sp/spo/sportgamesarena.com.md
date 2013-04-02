@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportgamesarena.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027090433id_/http%3A//www.sportgamesarena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportgamesarena.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403014426id_/http%3A//www.sportgamesarena.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Sport Games Arena
 
@@ -24,7 +24,7 @@ All data that we collect is stored on one or more database servers. We are takin
 
 ### Links to Other Sites
 
-Our website has links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site. 
+Our website has links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site. 
 
 ### AGREEMENT WITH SportGamesArena.com POLICIES
 
