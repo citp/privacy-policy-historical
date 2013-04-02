@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the traders.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223013601id_/http%3A//www.traders.com/index.php/component/content/article/2-uncategorised/47-traderscom-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traders.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402201414id_/http%3A//www.traders.com/index.php/component/content/article/2-uncategorised/47-traderscom-privacy-statement) for the most accurate reproduction.*
 
 # Traders.com
 
 Many of our readers are concerned about privacy on the Internet. Because we gather certain types of information about the users of Traders.com, we want you to understand how we collect and use that information. By reading this document, you will learn what information we gather, how we use it, and how to correct or change it.
 
-Questions regarding this statement should be directed to Traders.com (This email address is being protected from spambots. You need JavaScript enabled to view it.) for clarification. To return to the page you came from, please use the Back button on your browser.
+Questions regarding this statement should be directed to Traders.com (Webmaster@Traders.com) for clarification. To return to the page you came from, please use the Back button on your browser.
 
 ##  What traders.com gathers
 
@@ -47,6 +47,6 @@ When possible, Traders.com will give you the chance to opt out of our data proce
 
 ##  Corrections, deletions, and updates
 
-Currently, Traders.com does not offer users a means by which to completely delete personal information established at the time of registration. If you believe we have the wrong information about you in our database, E-mail This email address is being protected from spambots. You need JavaScript enabled to view it..
+Currently, Traders.com does not offer users a means by which to completely delete personal information established at the time of registration. If you believe we have the wrong information about you in our database, E-mail Webmaster@Traders.com.
 
 Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter.
