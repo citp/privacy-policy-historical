@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juliensauctions.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231134541id_/http%3A//www.juliensauctions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juliensauctions.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402201039id_/http%3A//www.juliensauctions.com/privacy.html) for the most accurate reproduction.*
 
 # Julien's Auctions Privacy Policy
 
@@ -42,4 +42,4 @@ None of the above personally-identifying information is stored on our website, a
 
 **Notification of Changes to Privacy Policy**. In the event that we make changes to or update this Privacy Policy; in that event, we will post them to this page of our website with the corresponding Effective Date.
 
-If you have any privacy concerns, [please contact us](https://web.archive.org/web/20121231134541id_/http%3A//www.juliensauctions.com/contact.html).
+If you have any privacy concerns, [please contact us](https://web.archive.org/web/20130402201039id_/http%3A//www.juliensauctions.com/contact.html).
