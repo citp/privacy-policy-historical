@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.wi.us privacy policy that was archived on 2012-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120424072630id_/http%3A//www.state.wi.us/state/core/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.wi.us privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402194654id_/http%3A//www.state.wi.us/state/core/privacy_notice.html) for the most accurate reproduction.*
 
 # Wisconsin.gov - - Privacy Notice
 
@@ -59,7 +59,7 @@ Users are cautioned that the collection of personal information requested from o
 
 #### Public Disclosure
 
-In the State of Wisconsin, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs: the privacy of individuals is included among these expecptions. Exceptions are provided by both state and federal laws. 
+In the State of Wisconsin, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs: the privacy of individuals is included among these exceptions. Exceptions are provided by both state and federal laws. 
 
 We strive to protect personally identifiable information by collecting only information necessary to deliver our services. All information collected at this site becomes public record that may be subject to inspection and copying by the public, unless an exemption in law exists.
 
@@ -81,7 +81,7 @@ A cookie is a small amount of data, which may include an anonymous unique identi
 
 **Why are Cookies Used on Web Sites?**
 
-Cookies are one mechanism for maintaining continuity during a user's visit to a web site. They allow data to be maintained for users' benefit as they navigate a site. This is referred to as "session" or "state management" cookie. These cookies go away when you terminate your visit to the website as they are maintained only in your browser's active memory during your session. Cookies may be also be stored on your computer to so that you can be recognized by a website on subsequent visits. They can be read by the website that set them whenever you enter the website. They are often used on websites that require you to log in to save you entering all of your log-in information. They may store information on your unique identifier and the areas of the website you have visited before. These cookies are stored on your computer's hard drive after you have left your website visit and consequently are often referred to as "persistent" cookies. 
+Cookies are one mechanism for maintaining continuity during a user's visit to a web site. They allow data to be maintained for users' benefit as they navigate a site. This is referred to as "session" or "state management" cookie. These cookies go away when you terminate your visit to the website as they are maintained only in your browser's active memory during your session. Cookies may also be stored on your computer so that you can be recognized by a website on subsequent visits. They can be read by the website that set them whenever you enter the website. They are often used on websites that require you to log in to save you entering all of your log-in information. They may store information on your unique identifier and the areas of the website you have visited before. These cookies are stored on your computer's hard drive after you have left your website visit and consequently are often referred to as "persistent" cookies. 
 
 **Choices about Cookies**
 
@@ -91,10 +91,12 @@ You can configure your browser to accept all cookies, reject all cookies, or not
 
 Wisconsin.gov uses only session cookies. The information on these cookies is retained by the State only while the user's session is active in a table that lists the unique identifiers of those currently using the site. Currently session states are set to 30 minutes maximum. Wisconsin. Gov is using cookies for the following purposes: 
 
-  * Support the rotation of the home page's banner and "Featured Site" graphic. Neither of these cookies are persistent and they contain no information about the user. 
+  * Support the rotation of the home page's banner and "Featured Site" graphic. 
   * When you "sign in" to the Employment section of Wisconsin.gov as either an employer or a job seeker. For job seekers, the cookie enables the session to be maintained as the user moves through different pages, such as updating a multi-page resume, previewing or showing the resume posted. For employers, the cookies are used to establish the session state. 
 
 
+
+Neither of these cookies are persistent and they contain no information about the user.
 
 * * *
 
