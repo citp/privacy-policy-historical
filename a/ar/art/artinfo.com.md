@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the artinfo.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229032856id_/http%3A//www.artinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artinfo.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402062527id_/http%3A//www.artinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Artinfo
 
 This Online Privacy Statement sets forth guidelines concerning how ARTINFO.com Inc. gathers and uses information about your interaction with this website and your use of our paid subscription services. This Online Privacy Statement concerns only this website, and does not concern any website to which this site may link.
 
-Please read this Online Privacy Statement carefully, and consult our [Terms of Use](https://web.archive.org/web/20121229032856id_/http%3A//www.artinfo.com/user-agreement) for more information about the general terms and conditions regarding your use of this website. Subscribers should also review our Subscription Agreement, which contains additional terms and conditions relevant to use of our paid subscription services.
+Please read this Online Privacy Statement carefully, and consult our [Terms of Use](https://web.archive.org/web/20130402062527id_/http%3A//www.artinfo.com/user-agreement) for more information about the general terms and conditions regarding your use of this website. Subscribers should also review our Subscription Agreement, which contains additional terms and conditions relevant to use of our paid subscription services.
 
 In the event that you have any questions or concerns about the guidelines set forth in this Online Privacy Statement or how we use information about your interaction with this website or your use of our paid subscription services, please contact us at [privacy@artinfo.com](mailto:privacy@artinfo.com).
 
