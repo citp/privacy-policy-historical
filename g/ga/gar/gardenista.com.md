@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gardenista.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614230839id_/http%3A//remodelista.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenista.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402215022id_/http%3A//remodelista.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy Remodelista
+# Privacy Policy : Remodelista
 
 Remodelista, LLC Privacy Policy
 
