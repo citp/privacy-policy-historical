@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingadvicesecrets.com privacy policy that was archived on 2012-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120529121627id_/http%3A//www.datingadvicesecrets.com/men/site-info%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingadvicesecrets.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402224646id_/http%3A//www.datingadvicesecrets.com/men/site-info%23privacy) for the most accurate reproduction.*
 
 # Site Info
 
