@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows-vista-update.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101010440id_/http%3A//www.windows-vista-update.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows-vista-update.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402195431id_/http%3A//www.windows-vista-update.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
