@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cab4fun.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026065618id_/http%3A//www.cab4fun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cab4fun.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403013943id_/http%3A//www.cab4fun.com/privacy-policy) for the most accurate reproduction.*
 
-# Cab 4 Fun » Privacy Policy
+# Cab 4 Fun Privacy Policy
 
 **Cab4Fun.com** has created this privacy statement in order to demonstrate  
 our firm commitment to privacy. The following discloses the information gathering  
@@ -25,4 +25,4 @@ This site contains links to other sites. **Cab4fun.com** is not responsible for
 the privacy practices or the content of such Web sites.  
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site,  
-or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20121026065618id_/http://www.cab4fun.com/privacy-policy/ilicvn@gmail.com).
+or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20130403013943id_/http://www.cab4fun.com/privacy-policy/ilicvn@gmail.com).
