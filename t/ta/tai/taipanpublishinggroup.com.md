@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taipanpublishinggroup.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007033252id_/http%3A//www.insidersstrategygroup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taipanpublishinggroup.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403001831id_/http%3A//www.insidersstrategygroup.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Insiders Strategy Group Privacy Policy
 
