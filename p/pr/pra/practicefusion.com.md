@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicefusion.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014192959id_/http%3A//www.practicefusion.com/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicefusion.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403062901id_/http%3A//practicefusion.com/pages/privacy_policy.html) for the most accurate reproduction.*
 
 # Practice Fusion | Privacy Policy
 
@@ -66,7 +66,7 @@ We have no intention of accepting any information from individuals under the age
 
 ### Questions, complaints, and contacts
 
-If you have any questions about this Privacy Statement, our policies and practices, your rights under this statement, and your dealings with the Practice Fusion, send an email to [support](https://web.archive.org/pages/support-contact-us.html), or by U.S. mail at the address below:
+If you have any questions about this Privacy Statement, our policies and practices, your rights under this statement, and your dealings with the Practice Fusion, contact our Support team [online here](https://web.archive.org/pages/support-contact-us.html), by phone at (415) 346-7700, or by U.S. mail at the address below:
 
 Practice Fusion   
 420 Taylor Street  
