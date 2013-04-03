@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taafoo.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003051721id_/http%3A//www.taafoo.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taafoo.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403072243id_/http%3A//www.taafoo.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - www.taafoo.com - Get it!, Love it!, ...Stay hooked! - Celebrities, Musicians, Actors, Comedians, CEOs, Brands
 
@@ -91,3 +91,7 @@ As we update and expand our Services, we reserve the right to modify this privac
 Contact Information
 
 If you have any questions or suggestions regarding our Privacy Policy, please contact us by email at customercare@taafoo.com. 
+
+* * *
+
+Get the best deals and fashion tips right in your email inbox. Subscribe to the taafoo daily newsletter below:
