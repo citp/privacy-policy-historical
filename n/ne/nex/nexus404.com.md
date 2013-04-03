@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexus404.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920041434id_/http%3A//nexus404.com/tfts-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexus404.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403070514id_/http%3A//nexus404.com/tfts-disclaimer) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy | TFTS Technology, Gadgets & Curiosities
 
