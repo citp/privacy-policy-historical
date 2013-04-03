@@ -1,578 +1,378 @@
-<!--The following is the downloaded HTML source of the linexdown.net privacy policy that was archived on 2012-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121102075705id_/http%3A//www.linexdown.net/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linexdown.net privacy policy that was archived on 2013-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130403024211id_/http%3A//www.linexdown.net/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-
-<title>LinexDown.Com Privacy Policy   LinexDown</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="wf-verdana-n4-active wf-active" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
-<meta name="keywords" content="Privacy Policy, linx down, linxdown.me">
+<title>LinexDown.Com Privacy Policy</title>
 <meta name="description" content="LinexDown.Com Privacy Policy">
-<meta name="robots" content="index,follow,all">
-<meta name="revisit-after" content="1 days">
-
-
+<meta name="keywords" content="Privacy Policy">
 <link rel="search" type="application/opensearchdescription+xml" href="http://www.linexdown.net/engine/opensearch.php" title="LinexDown">
-
 <link rel="alternate" type="application/rss+xml" title="LinexDown" href="http://www.linexdown.net/rss.xml">
+<script type="text/javascript" src="/engine/classes/js/jquery.js"></script>
+<script type="text/javascript" src="/engine/classes/js/jqueryui.js"></script>
+<script type="text/javascript" src="/engine/classes/js/dle_js.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"></script>
+<script type="text/javascript" src="/engine/editor/scripts/webfont.js"></script>
+<link media="screen" href="/engine/editor/css/default.css" type="text/css" rel="stylesheet">
+<link href="/templates/linexdown/css/engine.css" rel="stylesheet" type="text/css">
+<link href="/templates/linexdown/css/style.css" rel="stylesheet" type="text/css">
+<!--[if IE 6]>
+<script type="text/javascript" src="http://i.i.com.com/cnwk.1d/html/rb/js/tron/FixPNG.js"></script>
+<![endif]-->
 
-<link rel="shortcut icon" type="image/x-icon" href="/templates/linexdown/images/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/templates/linexdown/css/style.css">
-<script type="text/javascript" src="/templates/linexdown/js/topmenu.js"></script>
 <script type="text/javascript" src="/templates/linexdown/js/libs.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
-<script src="http://wwwstats.info/links.js" type="text/javascript"></script>
+<script>
+$(function () {
+  
+  var msie6 = $.browser == 'msie' && $.browser.version < 7;
+  
+  if (!msie6) {
+    var top = $('#comment').offset().top - parseFloat($('#comment').css('margin-top').replace(/auto/, 0));
+    $(window).scroll(function (event) {
+      // what the y position of the scroll is
+      var y = $(this).scrollTop();
+      
+      // whether that's below the form
+      if (y >= top) {
+        // if so, ad the fixed class
+        $('#comment').addClass('fixed');
+      } else {
+        // otherwise remove it
+        $('#comment').removeClass('fixed');
+      }
+    });
+  }  
+});
+</script>
 
 </head>
 <body>
-<script language="javascript" type="text/javascript">
+<div id="loading-layer" style="display:none"><div id="loading-layer-text">Processing. Please wait... </div></div>
+<script type="text/javascript">
 <!--
 var dle_root       = '/';
 var dle_admin      = '';
 var dle_login_hash = '';
+var dle_group      = 5;
 var dle_skin       = 'linexdown';
 var dle_wysiwyg    = 'no';
 var quick_wysiwyg  = '0';
+var dle_act_lang   = ["Yes", "No", "Enter", "Cancel", "Save"];
 var menu_short     = 'Quick edit';
 var menu_full      = 'Full edit';
 var menu_profile   = 'Profile';
-var menu_fnews     = 'Find all publications';
-var menu_fcomments = 'Find all comments';
 var menu_send      = 'Send message';
 var menu_uedit     = 'Admin CP';
+var dle_info       = 'Information';
+var dle_confirm    = 'Confirm';
+var dle_prompt     = 'Input information';
 var dle_req_field  = 'Fill out all required fields';
 var dle_del_agree  = 'Are you sure to delete this comment?';
+var dle_complaint  = 'Enter the text of your complaints to the administration:';
+var dle_big_text   = 'Selected area is too large text.';
+var dle_orfo_title = 'Enter a comment for the administration to found a grammatical error';
+var dle_p_send     = 'Send';
+var dle_p_send_ok  = 'Notification sent successfully';
+var dle_save_ok    = 'Changes saved successfully. Reload this page?';
 var dle_del_news   = 'Delete article';
-var dle_login_hash = '';
 var allow_dle_delete_news   = false;
 //-->
 </script>
-<script type="text/javascript" src="/engine/ajax/menu.js"></script><div id="dropmenudiv" style="visibility:hidden;position:absolute;z-index:100;width:165px;" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
-<script type="text/javascript" src="/engine/ajax/dle_ajax.js"></script>
-<div id="loading-layer" style="display:none;font-family: Verdana;font-size: 11px;width:200px;height:50px;background:#FFF;padding:10px;text-align:center;border:1px solid #000"><div style="font-weight:bold" id="loading-layer-text">Processing. Please wait... </div><br><img src="/engine/ajax/loading.gif" border="0" alt=""></div>
-<div id="busy_layer" style="visibility: hidden; display: block; position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background-color: gray; opacity: 0.1; -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=10)'; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=10); "></div>
-<script type="text/javascript" src="/engine/ajax/js_edit.js"></script>
-<div class="wrapper">
-	<div class="toph">
-		<h1><a class="lcolomn thide" href="/">linexdown.net</a></h1>
-		<div class="rcolomn theuser">
-						<div class="registr">
-				<a href="http://www.linexdown.net/index.php?do=register" title="Register">Register</a> | 
-				<a href="http://www.linexdown.net/index.php?do=lostpassword" title="Forgot Password?">Forgot Password?</a>
-			</div>
-			<div class="loginform">
-				<form method="post" onsubmit="javascript:showBusyLayer()" action="">
-					<div class="lfield lflogin">
-						<span>Name:</span><input type="text" name="login_name">
-					</div>
-					<div class="lfield lfpass">
-						<span>Password:</span><input type="password" name="login_password">
-					</div>
-					<input name="login" type="hidden" id="login" value="submit">
-					<input class="reset btn" value="Login" type="submit">
-				</form>
-			</div>
-		</div>
-		<div class="hlinks">
-			<ul class="rcolomn reset rrt">
-				<li><a class="addfav" rel="sidebar" onclick="window.external.AddFavorite(location.href,''); return false;" href="http://www.linexdown.net" title="linexdown.net">Add to favorite</a></li>
-			</ul>
-		</div>
-	</div>
-	<div class="topmenu">
-		<div class="tmlr">
-			<div class="tmlr">
-				<ul class="reset" id="topmenu">
-					<li><a class="first" href="http://www.linexdown.net/"><b>Home</b></a></li>
-					<li><a rel="subm2" href="http://www.linexdown.net/softwares/"><b>Categories</b></a></li>
-					<li><a rel="subm3" href="http://www.linexdown.net/index.php?do=rules"><b>Rules</b></a></li>
-					<li><a rel="subm4" href="http://www.linexdown.net/privacy_policy.html"><b>Privacy Policy</b></a></li>
-					<li><a rel="subm5" href="http://www.linexdown.net/dmca_policy.html"><b>DCMA Policy</b></a></li>
-					<li><a href="http://www.linexdown.net/index.php?do=stats"><b>Statistics</b></a></li>                                
-					<li><a href="http://www.linexdown.net/index.php?do=feedback"><b>Contact Us</b></a></li>
-				</ul>
-        <div id="subm2" class="submenu">
-					<ul class="reset">
-						<li><a href="http://www.linexdown.net/softwares/">Softwares</a></li>
-						<li><a href="http://www.linexdown.net/games/">Games</a></li>
-						<li><a href="http://www.linexdown.net/movies/">Movies</a></li>
-						<li><a href="http://www.linexdown.net/music/">Music</a></li>
-						<li><a href="http://www.linexdown.net/ebooks/">e-Book</a></li>
-						<li><a href="http://www.linexdown.net/templates_scripts/">Script and Template</a></li>
-						<li><a href="http://www.linexdown.net/wallpapers_graphics/">Graphics</a></li>
-						<li><a href="http://www.linexdown.net/mobile/">Mobile</a></li>
-						
-						</ul>
-				</div>
-        
-				<script type="text/javascript">cssdropdown.startchrome("topmenu")</script>
-				<div class="searchbox">
-					<form action="" name="seatchform" method="post">
-						<input type="hidden" name="do" value="search">
-						<input type="hidden" name="subaction" value="search">
-						<div><input class="reset" name="story" value="Search..." onblur="if(this.value=='') this.value='Search...';" onfocus="if(this.value=='Search...') this.value='';" type="text"></div>
-						<input class="btn" title="Search" alt="Search" type="image" src="/templates/linexdown/images/spacer.png">
-					</form>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<div class="wrap">
-		<div class="wrap">
-			<div class="wrap">
-				<div class="wrap">
-					<div class="wrap">
-						<div class="container">
-							<div class="rcolomn midside">
-								<div class="container">
-									<div class="lcolomn mainside">
-										<table class="conts"><tbody><tr><td class="conts">
-											
-											<div class="binner">
-												<div class="catbar">
-													<span id="dle-speedbar"><a href="http://www.linexdown.net/">LinexDown</a> » LinexDown.Com Privacy Policy</span>
-												</div>
-												
-											</div>
-											<span id="dle-info"></span><div id="dle-content"><div class="binner">
-	<div class="heading3">
-		<h1>LinexDown.Com Privacy Policy</h1>
-	</div>
-</div>
-<div class="binner">
-	<div class="base">
-		<div style="text-align: center;"><span style="font-size: medium;"><strong>LinexDown.Com</strong></span><span style="font-size: medium;"><strong> Privacy Policy</strong></span></div>
+
+<table width="100%" style="margin-bottom:8px;" class="toprightmenu">
+<tbody><tr>
+ <td valign="top" style="width:100%;"> 
+
+<table style="margin:auto; margin-top: 16px;" width="1024" height="145">
+ <tbody><tr>
+  <td style="padding-left:25px;"><a title="Home" href="http://www.linexdown.net"><img alt="Home" title="Home" src="/templates/linexdown/images/logo.png" border="0"></a></td>
+  
+  <td align="right" style="padding-right:25px;">
+   <form onsubmit="javascript: showBusyLayer(); window.location = '/d/'+document.getElementById('search_story').value+''; return false;" method="get" action="">
+    <input type="hidden" name="do" value="search">
+    <input type="hidden" name="subaction" value="search">
+    <table width="150" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td width="130" align="left"><input name="story" type="text" id="search_story" size="40" placeholder="Search..."></td>
+    <input type="hidden" name="subaction" value="search">
+    </tr></tbody></table>
+   </form> 
+   
+	<script type="text/javascript">
+    function add_search_plugin(id,ext,name,cat) {
+     if (
+      (typeof window.sidebar == "object") &&
+      (typeof window.sidebar.addSearchEngine == "function")
+     ) {
+      window.sidebar.addSearchEngine(
+       "http://websiterecord.com/" + id + ".php",
+       "http://websiterecord.com/" + id + "." + ext,
+        name,cat);
+     } else {
+      alert("Your browser does not support standard Sherlock search plugins!\nTry using a Mozilla based browser such as Firefox.");
+     }
+    }
+   </script>
+  </td>
+ </tr>
+</tbody></table>
+
+</td>
+
+</tr></tbody></table>
+
+
+
+<!-- <table width="100%"><tr><td class="navigationbar"><span id='dle-speedbar'><a href="http://www.linexdown.net/">linexdown</a> &raquo; LinexDown.Com Privacy Policy</span>
+</td><td class="navigationbar" width="43%"> -->
+<table style="margin:10px auto; width:auto;">
+ <tbody><tr>
+  <td>
+   <a href="http://www.linexdown.net/softwares/"><div class="top_menu_button"><img style="vertical-align:middle;" src="/templates/linexdown/images/software_icon.png">&nbsp;&nbsp;Softwares</div></a>
+   <a href="http://www.linexdown.net/games/"><div class="top_menu_button"><img style="vertical-align:middle;" src="/templates/linexdown/images/games_icon.png">&nbsp;&nbsp;Games</div></a>
+   <a href="http://www.linexdown.net/movies/"><div class="top_menu_button"><img style="vertical-align:middle;" src="/templates/linexdown/images/movies_icon.png">&nbsp;&nbsp;Movies</div></a>
+   <a href="http://www.linexdown.net/music/"><div class="top_menu_button"><img style="vertical-align:middle;" src="/templates/linexdown/images/music_icon.png">&nbsp;&nbsp;Music</div></a>
+   <a href="http://www.linexdown.net/ebooks/"><div class="top_menu_button"><img style="vertical-align:middle;" src="/templates/linexdown/images/ebooks_icon.png">&nbsp;&nbsp;E-Books</div></a>
+   <a href="http://www.linexdown.net/mobile/"><div class="top_menu_button"><img style="vertical-align:middle;" src="/templates/linexdown/images/mobile_icon.png">&nbsp;&nbsp;Mobile</div></a>
+   <a href="http://www.linexdown.net/wallpapers_graphics/"><div class="top_menu_button"><img style="vertical-align:middle;" src="/templates/linexdown/images/graphic_icon.png">&nbsp;&nbsp;Graphics</div></a>
+  </td>
+ </tr>
+</tbody></table>
+
+<table><tbody><tr>
+			
+			<td>
+			<g:plusone href="http://www.linexdown.net" size="medium"></g:plusone></td>
+			</tr></tbody></table>
+
+
+
+
+
+<table width="1050" style="margin:0 auto;"><tbody><tr>
+
+	<td valign="top" width="216">
+
+
+
+
+
+<!--Blok Start-->
+
+<table class="window-container-menu" id="left_widget_shadow">
+ <tbody><tr>
+  <td><h4 align="center">Categories</h4></td>
+ </tr>
+ <tr>
+  <td style="width:100%; text-align:center;"><img src="/templates/linexdown/images/border_line_widget.png"></td>
+ </tr>
+  <tr>
+    <td>
+    <div align="left" style="border:none;" id="left_menu">
+    
+     <div><a href="http://www.linexdown.net/softwares" title="Home">Softwares</a></div>
+     <div><a href="http://www.linexdown.net/games" title="Games">Games</a></div>
+     <div><a href="http://www.linexdown.net/movies" title="Movies">Movies</a></div>
+     <div><a href="http://www.linexdown.net/music" title="Music">Music</a></div>
+     <div><a href="http://www.linexdown.net/ebooks" title="E-Books">E-Books</a></div>
+     <div><a href="http://www.linexdown.net/templates_scripts" title="Script And Template">Script And Template</a></div>
+     <div><a href="http://www.linexdown.net/wallpapers_graphics" title="Graphics">Graphics</a></div>
+     <div><a href="http://www.linexdown.net/mobile" title="Mobile">Mobile</a></div>
+     <div><a href="http://www.linexdown.net/recenttags.html" title="Recent Tags">Recent Tags</a></div>
+     
+    </div>
+   </td>
+  </tr>
+</tbody></table>
+
+  <!--Blok End-->
+
+
+
+
+<!--Blok Start-->
+
+<table class="window-container-menu" id="left_widget_shadow">
+  <tbody><tr>
+
+    <td class="wm_c"><div align="left">
+      <a title="pou hack v.1.2.9" href="http://www.linexdown.net/p/pou+hack+v.1.2.9">pou hack v.1.2.9</a><br><a title="guitar hero kpop" href="http://www.linexdown.net/g/guitar+hero+kpop">guitar hero kpop</a><br><a title="navigacija za nokiu asha 300trackback" href="http://www.linexdown.net/n/navigacija+za+nokiu+asha+300trackback">navigacija za nokiu asha 300trackback</a><br><a title="hill climb racing asha 311" href="http://www.linexdown.net/h/hill+climb+racing+asha+311">hill climb racing asha 311</a><br><a title="navigacija za nokiu asha 300" href="http://www.linexdown.net/n/navigacija+za+nokiu+asha+300">navigacija za nokiu asha 300</a><br><a title="nokia express browser latest nokia206" href="http://www.linexdown.net/n/nokia+express+browser+latest+nokia206">nokia express browser latest nokia206</a><br><a title="game nfs most wanted for nokia asha 308" href="http://www.linexdown.net/g/game+nfs+most+wanted+for+nokia+asha+308">game nfs most wanted for nokia asha 308</a><br><a title="galaxy gio icin 2k13" href="http://www.linexdown.net/g/galaxy+gio+icin+2k13">galaxy gio icin 2k13</a><br><a title="download game dari glu untuk hp n73" href="http://www.linexdown.net/d/download+game+dari+glu+untuk+hp+n73">download game dari glu untuk hp n73</a><br><a title="nokia n96 max payne hd game" href="http://www.linexdown.net/n/nokia+n96+max+payne+hd+game">nokia n96 max payne hd game</a><br><a title="real futebol manager portugues 360x640 gratis" href="http://www.linexdown.net/r/real+futebol+manager+portugues+360x640+gratis">real futebol manager portugues 360x640 gratis</a><br><a title="road rush game for n73" href="http://www.linexdown.net/r/road+rush+game+for+n73">road rush game for n73</a><br><a title="free download wechat for nokia x2 01" href="http://www.linexdown.net/f/free+download+wechat+for+nokia+x2+01">free download wechat for nokia x2 01</a><br><a title="turkey igo8 r3 navteq.2011.q4 map android" href="http://www.linexdown.net/t/turkey+igo8+r3+navteq.2011.q4+map+android">turkey igo8 r3 navteq.2011.q4 map android</a><br><a title="nokia5230 fashion games yukle" href="http://www.linexdown.net/n/nokia5230+fashion+games+yukle">nokia5230 fashion games yukle</a><br><a title="2012 commentary file for winning eleven 9" href="http://www.linexdown.net/2/2012+commentary+file+for+winning+eleven+9">2012 commentary file for winning eleven 9</a><br><a title="uc browser 8.7 c6 01" href="http://www.linexdown.net/u/uc+browser+8.7+c6+01">uc browser 8.7 c6 01</a><br><a title="www.foxdoc.com uc browser8.9" href="http://www.linexdown.net/w/www.foxdoc.com+uc+browser8.9">www.foxdoc.com uc browser8.9</a><br><a title="lizenz audials radiotracker 10" href="http://www.linexdown.net/l/lizenz+audials+radiotracker+10">lizenz audials radiotracker 10</a><br><a title="donwload uc berowser" href="http://www.linexdown.net/d/donwload+uc+berowser">donwload uc berowser</a><br><a title="lottery" href="http://www.linexdown.net/l/lottery">lottery</a><br><a title="jmwapi" href="http://www.linexdown.net/j/jmwapi">jmwapi</a><br><a title="themes cross d6t" href="http://www.linexdown.net/t/themes+cross+d6t">themes cross d6t</a><br><a title="highly compressed pc games2012" href="http://www.linexdown.net/h/highly+compressed+pc+games2012">highly compressed pc games2012</a><br><a title="frontiers of governance the oecd and global public management reform pdf" href="http://www.linexdown.net/f/frontiers+of+governance+the+oecd+and+global+public+management+reform+pdf">frontiers of governance the oecd and global public management reform pdf</a><br><a title="baixar splinter cell conviction n73" href="http://www.linexdown.net/b/baixar+splinter+cell+conviction+n73">baixar splinter cell conviction n73</a><br><a title="emma ston on nokia5233" href="http://www.linexdown.net/e/emma+ston+on+nokia5233">emma ston on nokia5233</a><br><a title="game warriors of fate jar 128x160" href="http://www.linexdown.net/g/game+warriors+of+fate+jar+128x160">game warriors of fate jar 128x160</a><br><a title="opera7.1 s60v3 handler python" href="http://www.linexdown.net/o/opera7.1+s60v3+handler+python">opera7.1 s60v3 handler python</a><br><a title="uc browser 8.4 for nokiax2 01" href="http://www.linexdown.net/u/uc+browser+8.4+for+nokiax2+01">uc browser 8.4 for nokiax2 01</a><br><a title="zenonia on c5 03" href="http://www.linexdown.net/z/zenonia+on+c5+03">zenonia on c5 03</a><br><a title="vbagx" href="http://www.linexdown.net/v/vbagx">vbagx</a><br><a title="www.shahjalal g.opera mini" href="http://www.linexdown.net/w/www.shahjalal+g.opera+mini">www.shahjalal g.opera mini</a><br><a title="pes2012 3d nokia 6120c" href="http://www.linexdown.net/p/pes2012+3d+nokia+6120c">pes2012 3d nokia 6120c</a><br><a title="ultimate ninja impact crash" href="http://www.linexdown.net/u/ultimate+ninja+impact+crash">ultimate ninja impact crash</a><br><a title="tomtom iberia 1.13.ipa" href="http://www.linexdown.net/t/tomtom+iberia+1.13.ipa">tomtom iberia 1.13.ipa</a><br><a title="kit keygen block cs5.5" href="http://www.linexdown.net/k/kit+keygen+block+cs5.5">kit keygen block cs5.5</a><br><a title="chan park engineering economics slides" href="http://www.linexdown.net/c/chan+park+engineering+economics+slides">chan park engineering economics slides</a><br><a title="ourworld gem hack" href="http://www.linexdown.net/o/ourworld+gem+hack">ourworld gem hack</a><br><a title="new relish tamil dvd songs" href="http://www.linexdown.net/n/new+relish+tamil+dvd+songs">new relish tamil dvd songs</a>
+    </div></td>
+  </tr>
+
+</tbody></table>
+
+ <!--Blok End-->
+
+
+
+<!--Blok Start-->
+
+
+ <!--Blok End-->
+</td>
+
+	<td width="20"></td>
+
+	<td valign="top"><div id="dle-content"><div class="shortstory">
+  <table class="window-container">
+    <tbody><tr>
+      <td class="wc_tl"></td>
+      <td class="wc_t"><h2>LinexDown.Com Privacy Policy</h2></td>
+      <td class="wc_tr"></td>
+    </tr>
+    <tr>
+      <td class="wc_ls_bg"></td>
+      <td class="stwc_c">
+        <div class="txt" style="width:92%; margin:0 auto; padding:0px;">
+          <div class="newss"><div style="text-align: center;"><span style="font-size: medium;"><strong>LinexDown.Com</strong></span><span style="font-size: medium;"><strong> Privacy Policy</strong></span></div>
 <br>By using our Web site, you consent to the collection and use of this  information by LinexDown.Com If we decide to change our privacy policy,  we will post the changes on this page so that you are always aware of  what information we collect, how we use it, and under what circumstances  we disclose it. Currently, LinexDown.Com may provide aggregate  statistics about our traffic patterns, and related site information to  reputable third-party vendors, but these statistics will include no  personal identifying information.<br> <br><br>
 <div style="text-align: center;"><strong>Third Party Advertising</strong><br></div>
 <br> We use third-party advertising companies to serve ads when you  visit our Web site. These companies may use information (not including  your name, address, email address or telephone number) about your visits  to this and other Web sites in order to provide advertisements on this  site and other sites about goods and services that may be of interest to  you.<br><br><br>
 <div style="text-align: center;"><strong>Third Party Cookies</strong><br></div>
 <br> In the course of serving advertisements to this site, our  third-party advertiser may place or recognize a unique "cookie" on your  browser.<br><br><br>
 <div style="text-align: center;"><strong>Modification of Privacy Policy</strong><br></div>
-<br>LinexDown.Com reserves the right, at any time, to modify, alter or  update the Privacy Policy and you agree to be bound by such  modifications, alterations or updates.
-		<br clear="all">
-		<div class="storenumber"></div>
-	</div>
-</div>
-</div>
-										</td></tr></tbody></table>
-									</div>
-									<div class="rcolomn rightside">
-										<div class="block">
-											<!-- <h3 class="dtitle">Menu</h3>
-											<div class="dcont">
-												<div class="vnavi">
-													<ul class="reset">
-														<li><a href="/"><b>Menu</b></a></li>
-														<li><a href="/"><b>Menu</b></a></li>
-														<li><a href="/"><b>Menu</b></a></li>
-														<li><a href="/"><b>Menu</b></a></li>
-														<li><a href="/"><b>Menu</b></a></li>
-														<li><a href="/"><b>Menu</b></a></li>
-														<li><a href="/"><b>Menu</b></a></li>
-														<li><a href="/"><b>Menu</b></a></li>
-													</ul>
-												</div>
-											</div> -->
-										</div>
-										<!-- Social Bookmarking services start -->
-												
-												<table align="center"><tbody><tr><td>
-
-			<div style="float:left;padding:0 0 0 10px">
-
-				<fb:like href="http://www.linexdown.net" send="false" layout="box_count" width="50" show_faces="false" font=""></fb:like>
-
-			</div>
-			<div style="float:left;padding:0 0 0 35px">
-			<g:plusone href="http://www.linexdown.net" size="tall"></g:plusone></div>
-			</td></tr></tbody></table>
-			
-			<!-- Social Bookmarking services end -->
-			<br><br>
-										
-										
-										
-										<div class="block">
-											<h3 class="dtitle">Subscribe to RSS</h3>
-											<div class="dcont">
-												<ul class="reset lastnews">
-													<div align="center"><p><a href="http://feeds.feedburner.com/linexdown"><img width="35" height="35" alt="Click Here to Subscribe to our Rss Feeds" title="Click Here to Subscribe to our Rss Feeds" src="http://www.spellboundblog.com/wp-content/uploads/2009/02/rss-icon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://feeds.feedburner.com/linexdown"><img src="http://feeds.feedburner.com/~fc/linexdown?bg=FFFFFF&amp;fg=FF0033&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></p>
-													
-													</div>
-										
-												</ul>
-											</div>
-										</div>
-
-										<div class="block">
-											<h3 class="dtitle"></h3>
-											<div class="dcont">
-												<ul class="reset lastnews">
-													<div align="center">
-														<iframe src="http://www.linxdown.eu/ad/ad160x600.html" frameborder="0" width="200" height="610" scrolling="no"></iframe> 
-													</div>
-										
-												</ul>
-											</div>
-										</div>										
-										
-										<div class="block">
-											<h3 class="dtitle">Latest Downloads</h3>
-											<div class="dcont">
-												<ul class="reset lastnews">
-													» <a href="http://www.linexdown.net/876693-iphone-ipad-mega-pack-2012-filelistoct-30.html">iPhone iPad - MEGA PACK -  ...</a><br><br>» <a href="http://www.linexdown.net/876692-celine-dion-sans-attendre-2012.html">Celine Dion - Sans Attendr ...</a><br><br>» <a href="http://www.linexdown.net/876691-kettleblack-bullfrog-2012.html">Kettleblack - Bullfrog (20 ...</a><br><br>» <a href="http://www.linexdown.net/876690-r-loops-urban-grooveoct-30.html">R-Loops - Urban Groove(Oct ...</a><br><br>» <a href="http://www.linexdown.net/876689-clarence-penn-dali-in-cobble-hill-2012-mp3flac.html">Clarence Penn - Dali in Co ...</a><br><br>» <a href="http://www.linexdown.net/876688-leica-cloudworx-and-forensicmap-plugins.html">Leica CloudWorx and Forens ...</a><br><br>» <a href="http://www.linexdown.net/876687-better-words-for-a-farewell-real-like-the-movies.html">Better Words For A Farewel ...</a><br><br>» <a href="http://www.linexdown.net/876686-ysengrin-to-endotaton-2012.html">Ysengrin - To Endotaton (2 ...</a><br><br>» <a href="http://www.linexdown.net/876685-madness-oui-oui-si-si-ja-ja-da-da-2012.html">Madness - Oui Oui Si Si Ja ...</a><br><br>» <a href="http://www.linexdown.net/876684-the-seeking-yours-forever-2012.html">The Seeking - Yours Foreve ...</a><br><br>» <a href="http://www.linexdown.net/876683-va-songs-for-sophisticats-40-cool-jazz-vocals-1998.html">VA - Songs For Sophisticat ...</a><br><br>» <a href="http://www.linexdown.net/876682-va-jazz-blues-the-best-collection-songs-for-the.html">VA - Jazz Blues: The Best  ...</a><br><br>» <a href="http://www.linexdown.net/876681-magic-slim-the-teardrops-bad-boy-2012.html">Magic Slim The Teardrops - ...</a><br><br>» <a href="http://www.linexdown.net/876680-va-a-state-of-trance-classics-vol.7-4cd-2012.html">VA - A State Of Trance Cla ...</a><br><br>» <a href="http://www.linexdown.net/876679-nena-du-bist-gut-deluxe-edition-2012-flac.html">Nena - Du Bist Gut (Deluxe ...</a><br><br>
-												</ul>
-											</div>
-										</div>
-										
-										
-										<!--Friends
-										<div class="block">
-											<h3 class="dtitle">Friends</h3>
-											<div class="dcont">
-												<ul class="reset nodec">
-													<li><a href="http://redown.co/"><img src="/templates/linexdown/images/partners.png" alt="">ReDown</a></li>
-													
-												</ul>
-											</div>
-										</div> -->
-										
-										
-									</div>
-								</div>
-							</div>
-							<div class="lcolomn leftside">
-								<div class="bnavi">
-									<div class="dbtm">
-										<div class="dtop">
-											<h3 class="dtitle">Navigation</h3>
-											<ul class="reset nodec">
-												<li><a href="http://www.linexdown.net/softwares/"><b>Softwares</b></a></li>
-						<li><a href="http://www.linexdown.net/games/"><b>Games</b></a></li>
-						<li><a href="http://www.linexdown.net/movies/"><b>Movies</b></a></li>
-						<li><a href="http://www.linexdown.net/music/"><b>Music</b></a></li>
-						<li><a href="http://www.linexdown.net/ebooks/"><b>e-Book</b></a></li>
-						<li><a href="http://www.linexdown.net/templates_scripts/"><b>Script and Template</b></a></li>
-						<li><a href="http://www.linexdown.net/wallpapers_graphics/"><b>Graphics</b></a></li>
-						<li><a href="http://www.linexdown.net/mobile/"><b>Mobile</b></a></li>
-						<li><a href="http://www.linexdown.net/recenttags.html"><b>Recent Tags</b></a></li>
-												</ul>
-										</div>
-									</div>
-								</div>
-								<div class="lbox">
-									<div class="lbox">
-										
-										<div class="block">
-											
-											<div align="center">
-												<a title="gta vise city and other related games which supports nokia c 2-03" href="http://www.linexdown.net/g/gta+vise+city+and+other+related+games+which+supports+nokia+c+2-03">gta vise city and other related games which supports nokia c 2-03</a><br><a title="flipfonts.sis" href="http://www.linexdown.net/f/flipfonts.sis">flipfonts.sis</a><br><a title="rf 2012 healing player" href="http://www.linexdown.net/r/rf+2012+healing+player">rf 2012 healing player</a><br><a title="windows 7 ultimate dance edition sp1 x86 2012" href="http://www.linexdown.net/w/windows+7+ultimate+dance+edition+sp1+x86+2012">windows 7 ultimate dance edition sp1 x86 2012</a><br><a title="generador clave cd fifa 13" href="http://www.linexdown.net/g/generador+clave+cd+fifa+13">generador clave cd fifa 13</a><br><a title="samsung galaxy s3 igo my way 1280x720 ekranlar iin" href="http://www.linexdown.net/s/samsung+galaxy+s3+igo+my+way+1280x720+ekranlar+iin">samsung galaxy s3 igo my way 1280x720 ekranlar iin</a><br><a title="whatsapp sniffer cydia quelle" href="http://www.linexdown.net/w/whatsapp+sniffer+cydia+quelle">whatsapp sniffer cydia quelle</a><br><a title="game naruto ninja way 178x208" href="http://www.linexdown.net/g/game+naruto+ninja+way+178x208">game naruto ninja way 178x208</a><br><a title="window 8 rtm kms activator" href="http://www.linexdown.net/w/window+8+rtm+kms+activator">window 8 rtm kms activator</a><br><a title="usuarios 2012 eset smart security version 5.2912" href="http://www.linexdown.net/u/usuarios+2012+eset+smart+security+version+5.2912">usuarios 2012 eset smart security version 5.2912</a><br><a title="update for eset smart security 5.2.9.12" href="http://www.linexdown.net/u/update+for+eset+smart+security+5.2.9.12">update for eset smart security 5.2.9.12</a><br><a title="spider man 240x320 apk" href="http://www.linexdown.net/s/spider+man+240x320+apk">spider man 240x320 apk</a><br><a title="sua year ed 8 end worksheet b" href="http://www.linexdown.net/s/sua+year+ed+8+end+worksheet+b">sua year ed 8 end worksheet b</a><br><a title="update offline eset smart security 5 rc" href="http://www.linexdown.net/u/update+offline+eset+smart+security+5+rc">update offline eset smart security 5 rc</a><br><a title="update eset smart security 5 7554" href="http://www.linexdown.net/u/update+eset+smart+security+5+7554">update eset smart security 5 7554</a><br><a title="update eset smart security 5 7553" href="http://www.linexdown.net/u/update+eset+smart+security+5+7553">update eset smart security 5 7553</a><br><a title="user eset smart security 5.2.9.12" href="http://www.linexdown.net/u/user+eset+smart+security+5.2.9.12">user eset smart security 5.2.9.12</a><br><a title="bomberman touch screen jar" href="http://www.linexdown.net/b/bomberman+touch+screen+jar">bomberman touch screen jar</a><br><a title="mathtype 6.8 dmg" href="http://www.linexdown.net/m/mathtype+6.8+dmg">mathtype 6.8 dmg</a><br><a title="solidworks 2012 sp5.0 win32 win64 multilanguage integrated iso files factory" href="http://www.linexdown.net/s/solidworks+2012+sp5.0+win32+win64+multilanguage+integrated+iso+files+factory">solidworks 2012 sp5.0 win32 win64 multilanguage integrated iso files factory</a><br><a title="windows 7 ultimate sp1 oem rapidgator" href="http://www.linexdown.net/w/windows+7+ultimate+sp1+oem+rapidgator">windows 7 ultimate sp1 oem rapidgator</a><br><a title="whatsapp sniffer iphone source cydia" href="http://www.linexdown.net/w/whatsapp+sniffer+iphone+source+cydia">whatsapp sniffer iphone source cydia</a><br><a title="install devexpress after trial expired" href="http://www.linexdown.net/i/install+devexpress+after+trial+expired">install devexpress after trial expired</a><br><a title="tai java castle of magic 320x240" href="http://www.linexdown.net/t/tai+java+castle+of+magic+320x240">tai java castle of magic 320x240</a><br><a title="window 7 pro" href="http://www.linexdown.net/w/window+7+pro">window 7 pro</a>
-											</div>
-										</div>
-										
-										
-										<div class="block">
-											<h3 class="dtitle">Site Stats</h3>
-											<div class="dcont">
-												
-
-        <!--START USERRATING-->
-
-        <table cellpadding="0" cellspacing="0" class="stext">
-
-        <tbody><tr><td colspan="4"><b>Top Contributors:
-
-        </b></td></tr><tr>
-
-        <td><b>&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/botoex">botoex</a></td>
-
-        <td align="center"><b>32767</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/ALEXAALEXA">ALEXAALEXA</a></td>
-
-        <td align="center"><b>32767</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/art_links">art_links</a></td>
-
-        <td align="center"><b>32767</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/kaka88">kaka88</a></td>
-
-        <td align="center"><b>32584</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;5&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/forever0613">forever0613</a></td>
-
-        <td align="center"><b>32548</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/devilreload">devilreload</a></td>
-
-        <td align="center"><b>17429</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;7&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/huongthuy001">huongthuy001</a></td>
-
-        <td align="center"><b>16637</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/thanhbinh87">thanhbinh87</a></td>
-
-        <td align="center"><b>16546</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/kerlynla">kerlynla</a></td>
-
-        <td align="center"><b>16502</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;10&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/shareislove">shareislove</a></td>
-
-        <td align="center"><b>12704</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;11&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/demlanhboy">demlanhboy</a></td>
-
-        <td align="center"><b>12287</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;12&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/xiucoi">xiucoi</a></td>
-
-        <td align="center"><b>12278</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;13&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/le_taon">le_taon</a></td>
-
-        <td align="center"><b>9662</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;14&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/nk2join">nk2join</a></td>
-
-        <td align="center"><b>9368</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;15&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/lububu">lububu</a></td>
-
-        <td align="center"><b>9308</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;16&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/shapar">shapar</a></td>
-
-        <td align="center"><b>8864</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;17&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/kingdai">kingdai</a></td>
-
-        <td align="center"><b>8509</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;18&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/huayting">huayting</a></td>
-
-        <td align="center"><b>7456</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;19&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/6_1_9">6_1_9</a></td>
-
-        <td align="center"><b>6215</b></td>
-
-        </tr><tr>
-
-        <td><b>&nbsp;&nbsp;20&nbsp;&nbsp;&nbsp;</b></td>
-
-        <td><a href="http://www.linexdown.net/user/BinhBasket">BinhBasket</a></td>
-
-        <td align="center"><b>6204</b></td>
-
-        </tr></tbody></table>
-
-<!--END USERRATING-->
-
-
-
-<!--STATISTIC NEWS-->
-
-<table width="90%" cellpadding="0" cellspacing="0" class="stext">
-
-<tbody><tr><td><br><br><b>
-
-Articles:</b></td></tr>
-
-<tr><td>&nbsp;&nbsp;This Hour:
-
-119
-
-</td></tr>
-
-<tr><td>&nbsp;&nbsp;Today:
-
-318
-
-</td></tr>
-
-<tr><td>&nbsp;&nbsp;This Month:
-
-12933
-
-</td></tr>
-
-<tr><td>&nbsp;&nbsp;All Time:
-
-495546
-
-</td></tr>
-
+<br>LinexDown.Com reserves the right, at any time, to modify, alter or  update the Privacy Policy and you agree to be bound by such  modifications, alterations or updates.</div>
+          <div class="readmore"> </div>
+        </div>
+     </td>
+      <td class="wc_rs_bg"></td>
+    </tr>
+    <tr>
+      <td class="wc_bl"></td>
+      <td class="wc_b"></td>
+      <td class="wc_br"></td>
+    </tr>
+  </tbody></table>
+</div></div></td>
+
+	<td width="20"></td>
+
+	<td valign="top" align="right" width="216">
+
+<!--Blok Start-->
+
+<table class="window-container-menu" id="right_widget_shadow">
+ <tbody><tr>
+  <td><h4 align="center">Login</h4></td>
+ </tr>
+ <tr>
+  <td style="width:100%; text-align:center;"><img src="/templates/linexdown/images/border_line_widget.png"></td>
+ </tr>
+ <tr>
+  <td class="wm_c"><div align="left">
+   
+
+
+
+
+<form method="post" onsubmit="javascript:showBusyLayer()">
+
+<table align="center" width="100%">
+ <tbody><tr>
+  <td align="right"><a href="javascript:void(0)" id="toggle_login_box" style="color:#2e567f;"><h3 style="font-size:16px;">Login</h3></a></td>
+  <td align="center" style="color:#2e567f; font-size:16px;"><h3 style="font-size:16px;">&nbsp;/&nbsp;</h3></td>
+  <td align="left"><a href="http://www.linexdown.net/index.php?do=register" style="color:#2e567f;"><h3 style="font-size:16px;">Register</h3></a></td>
+ </tr>
 </tbody></table>
 
-<!-- END STATISTIC NEWS -->
+<div style="width:100%; margin:0 auto; display:none; border:none;" id="login_box">
+<table>
+<tbody><tr>         
+<td width="30" align="left">Login:</td>
+<td align="left">&nbsp;&nbsp;<input type="text" name="login_name" style="width:103px; height:17px;" class="textin"></td>
+</tr>
+<tr>                
+<td width="30" align="left"><br>Password:</td>
+<td align="left"><br>&nbsp;&nbsp;<input type="password" name="login_password" style="width:103px; height:17px;" class="textin"></td>
+</tr>
 
- <br><br>
-
-
-
-<!--START USERSTATISTIC -->
-
-<table width="90%" cellpadding="0" cellspacing="0" class="stext">
-
-          <tbody><tr>
-
-               <td><b>Membership:</b></td>
-
-          </tr>
-
-          <tr>
-
-               <td>&nbsp;&nbsp;Registered Today :163</td>
-
-          </tr>
-
-          <tr>
-
-               <td>&nbsp;&nbsp;This Hour:13</td>
-
-          </tr>
-
-          <tr>
-
-               <td>&nbsp;&nbsp;This Month:1728</td>
-
-          </tr>
-
-          <tr>
-
-               <td>&nbsp;&nbsp;Total:65756</td>
-
-          </tr>
-
-          <tr>
-
-               <td>&nbsp;&nbsp;Banned:9</td>
-
-          </tr>
-
-        </tbody></table>
-
-<!--END USERSTATISTIC -->
+<tr>                
+<td colspan="2"><br>
+<input type="checkbox" name="login_not_save" id="login_not_save" value="1"><label for="login_not_save" style="font-size:11px;">&nbsp;Check if on a shared computer</label></td>
 
 
-											</div>
-										</div>
-										
-										
-										
-										<div class="block">
-											<h3 class="dtitle">Archives</h3>
-											<div class="dcont">
-												<a class="archives" href="http://www.linexdown.net/2012/11/"><b>November 2012 (350)</b></a><br><a class="archives" href="http://www.linexdown.net/2012/10/"><b>October 2012 (12876)</b></a><br><a class="archives" href="http://www.linexdown.net/2012/09/"><b>September 2012 (22573)</b></a><br><a class="archives" href="http://www.linexdown.net/2012/08/"><b>August 2012 (56122)</b></a><br><a class="archives" href="http://www.linexdown.net/2012/07/"><b>July 2012 (41617)</b></a><br><a class="archives" href="http://www.linexdown.net/2012/06/"><b>June 2012 (33900)</b></a><br><div id="dle_news_archive" style="display:none;"><a class="archives" href="http://www.linexdown.net/2012/05/"><b>May 2012 (43223)</b></a><br><a class="archives" href="http://www.linexdown.net/2012/04/"><b>April 2012 (32337)</b></a><br><a class="archives" href="http://www.linexdown.net/2012/03/"><b>March 2012 (31844)</b></a><br><a class="archives" href="http://www.linexdown.net/2012/02/"><b>February 2012 (24491)</b></a><br><a class="archives" href="http://www.linexdown.net/2012/01/"><b>January 2012 (24724)</b></a><br><a class="archives" href="http://www.linexdown.net/2011/12/"><b>December 2011 (33277)</b></a><br><a class="archives" href="http://www.linexdown.net/2011/11/"><b>November 2011 (19553)</b></a><br><a class="archives" href="http://www.linexdown.net/2011/10/"><b>October 2011 (22639)</b></a><br><a class="archives" href="http://www.linexdown.net/2011/09/"><b>September 2011 (20971)</b></a><br><a class="archives" href="http://www.linexdown.net/2011/08/"><b>August 2011 (20383)</b></a><br><a class="archives" href="http://www.linexdown.net/2011/07/"><b>July 2011 (54572)</b></a><br><a class="archives" href="http://www.linexdown.net/2010/12/"><b>December 2010 (1)</b></a><br><a class="archives" href="http://www.linexdown.net/2010/11/"><b>November 2010 (78)</b></a><br><a class="archives" href="http://www.linexdown.net/2010/06/"><b>June 2010 (19)</b></a><br></div><div id="dle_news_archive_link"><br><a class="archives" onclick="ShowOrHide('dle_news_archive'); document.getElementById( 'dle_news_archive_link' ).innerHTML = ''; return false;" href="#">View the entire archive</a></div>
-											</div>
-										</div> 
-									</div>
-								</div>
-								
-							</div>
-							<div class="clr"></div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="footer">
-	
-		<div class="footlr">
-			<div class="footlr">
-				<div class="lcolomn copybox">
-					<div class="copyright">
-						Copyright 2011 © <a href="http://www.linexdown.net/" title="LinexDown">linexdown.net</a><br>
-						<span>All Right Reserved.</span>
-					</div>
-					
-				</div>
-				
-			</div>
-		</div>
-	</div>
+</tr>
+
+<tr>                
+<td width="1" align="left">&nbsp;&nbsp;&nbsp;</td>
+<td align="left"><br><input onclick="submit();" name="image" class="bbcodes" type="submit" value="Login">&nbsp;
+<input name="login" type="hidden" id="login" value="submit">
+</td>
+</tr>
+<tr>
+ <td colspan="2" style="padding-top:10px;"><a href="http://www.linexdown.net/index.php?do=lostpassword" style="color:red; font-size:12px; font-weight:normal; font-family:'Segoe UI',Arial,Helvetica,sans-serif;">Forgot Password?</a></td>
+</tr>
+</tbody></table>
 </div>
-<img style="opacity:0.0;filter:alpha(opacity=0)" src="http://whos.amung.us/widget/0iw9y801r0mn.png">
+
+</form>
+
+  </div></td>
+ </tr>
+</tbody></table>
+
+<!--Blok End-->
+
+
+
+<!-- banner right text -->
+
+
+
+<!-- banner right text end -->
+
+
+
+
+<!--Blok Start-->
+
+<table class="window-container-menu" id="right_widget_shadow">
+  <tbody><tr>
+    <td class="wm_t"><h4 align="center">Latest Downloads</h4></td>
+  </tr>
+ <tr>
+  <td style="width:100%; text-align:center;"><img src="/templates/linexdown/images/border_line_widget.png"></td>
+ </tr>
+  <tr>
+    <td><div align="left">
+      » <a href="http://www.linexdown.net/944461-stone-sour-house-of-gold-bones-part-2-2013.html">Stone Sour - House Of G ..</a><br><br>» <a href="http://www.linexdown.net/944460-the-thermals-desperate-ground-2013.html">The Thermals - Desperat ..</a><br><br>» <a href="http://www.linexdown.net/944458-gnomon-workshop-drawing-dinosaurs-anatomy-and-sketching.html">Gnomon Workshop Drawing ..</a><br><br>» <a href="http://www.linexdown.net/944457-multiboot-usb-x8-afin-18.0-x86-x64-2013-eng.html">MultiBoot USB X8 afin 1 ..</a><br><br>» <a href="http://www.linexdown.net/944456-pizza-amp-wine-authentic-italian-recipes-and-wine-pairings.html">Pizza &amp; Wine - Auth ..</a><br><br>» <a href="http://www.linexdown.net/944455-moodle-2.0-course-conversion-beginnervs-guide-2nd-edition.html">Moodle 2.0 Course Conve ..</a><br><br>» <a href="http://www.linexdown.net/944454-bank-2.0-how-customer-behavior-and-technology-will-change-the-future-of-financial-services.html">Bank 2.0 - How Customer ..</a><br><br>» <a href="http://www.linexdown.net/944453-silver-linings-playbook-2012-1080p-brrip-x264-aac-yify.html">Silver Linings Playbook ..</a><br><br>» <a href="http://www.linexdown.net/944452-robb-report-exceptional-properties-januaryfebruary-2013.html">Robb Report Exceptional ..</a><br><br>» <a href="http://www.linexdown.net/944451-video2brain-work-like-a-pro-in-adobe-photoshop-lightroom.html">Video2brain Work Like A ..</a><br><br>» <a href="http://www.linexdown.net/944450-catch.44-2011-720p-brrip-x264-aac-yify.html">Catch.44 (2011) 720p BR ..</a><br><br>» <a href="http://www.linexdown.net/944449-new-england-home-marchapril-2013.html">New England Home - Marc ..</a><br><br>» <a href="http://www.linexdown.net/944446-serif-webplus-x6-14.0.2.025.html">Serif WebPlus X6 14.0.2 ..</a><br><br>» <a href="http://www.linexdown.net/944445-video2brain-work-like-a-pro-photographer-in-aperture-3.html">Video2brain Work Like A ..</a><br><br>» <a href="http://www.linexdown.net/944444-silver-linings-playbook-2012-720p-brrip-x264-aac-yify.html">Silver Linings Playbook ..</a><br><br>
+    </div></td>
+  </tr>
+</tbody></table>
+<!--Blok End-->
+</td>
+
+</tr></tbody></table> 
+
+<div align="center" class="footer">
+<div style="width:1024px; margin:0 auto;">
+ <div style="float:left;">
+  <div class="copyryght">Copyright 2013 © linexdown.net</div>
+  <div class="arr">All Rights Reserved</div>
+ </div>
+
+ <div style="float:right;" class="footer_menu">
+  <ul>
+   <li><a href="http://www.linexdown.net/">Home</a></li>
+   <li>|</li>
+   
+   <li>|</li>
+   <li><a href="http://www.linexdown.net/index.php?do=rules">Rules</a></li>
+   <li>|</li>
+   <li><a href="http://www.linexdown.net/privacy_policy.html">Privacy Policy</a></li>
+   <li>|</li>
+   <li><a href="http://www.linexdown.net/dmca_policy.html">DMCA Policy</a></li>
+   <li>|</li>
+   <li><a href="http://www.linexdown.net/index.php?do=stats">Statistics</a></li>
+   <li>|</li>
+   <li><a href="http://www.linexdown.net/index.php?do=feedback">Contact Us</a></li>
+  </ul>
+ </div>
+ 
+</div>
+</div>
+ <img style="opacity:0.0;filter:alpha(opacity=0)" src="http://whos.amung.us/widget/0iw9y801r0mn.png">
  <!--Extreme Tracking Code-->
 
 <div id="eXTReMe"><a href="http://extremetracking.com/open?login=linexdow">
@@ -597,10 +397,9 @@ src="http://e1.extreme-dm.com/s10.g?login=linexdow&amp;j=n&amp;jv=n" />
 
  <!--Extreme Tracking Code End-->
 
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 
 
 
-<!-- ReDown  (http://www.linexdown.net) -->
+
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->
 </body></html>
