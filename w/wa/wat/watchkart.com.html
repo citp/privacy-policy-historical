@@ -1,34 +1,31 @@
-<!--The following is the downloaded HTML source of the watchkart.com privacy policy that was archived on 2012-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121130080703id_/http%3A//www.watchkart.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the watchkart.com privacy policy that was archived on 2013-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130403112227id_/http%3A//www.watchkart.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<script type="text/javascript">var slide_on=false;</script>
+    <script type="text/javascript">var slide_on=false;</script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://t2.dkrt.in/media/favicon/stores/3/watch_1.png" type="image/x-icon">
-<link rel="shortcut icon" href="http://t2.dkrt.in/media/favicon/stores/3/watch_1.png" type="image/x-icon">
+<link rel="icon" href="http://t3.dkrt.in/media/favicon/stores/3/favicon_w.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://t3.dkrt.in/media/favicon/stores/3/favicon_w.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="http://t1.dkrt.in/skin/frontend/default/blanco_wat/css/style_common_compress_0_4.css" media="all">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://t3.dkrt.in/js/blank.html';
-    var BLANK_IMG = 'http://t3.dkrt.in/js/spacer.gif';
+    var BLANK_URL = 'http://t2.dkrt.in/js/blank.html';
+    var BLANK_IMG = 'http://t2.dkrt.in/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
 <script type="text/javascript">
   var BASE_URL = 'http://www.watchkart.com/';
-  var clearenceUrl = '#';
+  var clearenceUrl = 'http://www.lenskart.com/home-try-on-program.html';
 </script>
-<link rel="stylesheet" type="text/css" href="http://t2.dkrt.in/media/css/4101ff9ef6d1e4f91df33ff7932745cc.css" media="print">
-<link rel="stylesheet" type="text/css" href="http://t2.dkrt.in/media/css/d6868afd0742902b472a939b842bccbd.css" media="all">
-<script type="text/javascript" src="http://t2.dkrt.in/media/js/bbe01606581124729954c0004b70a61f.js"></script>
-<!--[if lt IE 7]>
-<script type="text/javascript" src="http://t2.dkrt.in/media/js/def64c1ec8cf53ced2e5dc9a6f2b50b3.js"></script>
-<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://t1.dkrt.in/skin/css/4101ff9ef6d1e4f91df33ff7932745cc.css" media="print">
+<link rel="stylesheet" type="text/css" href="http://t1.dkrt.in/skin/css/89f2e18bda63c76cbaa3fab40bd44616.css" media="all">
+<script type="text/javascript" src="http://t2.dkrt.in/js/js/e40d6db5835ac9b8eb2f9b9d419d0ea0.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -40,8 +37,31 @@ optionalZipCountries = ["HK","IE","MO","PA"];
     		
 	
 		<script type="text/javascript">
-		jQuery(document).ready(function(){
-			jQuery("a[rel=gpop]").fancybox({
+		jQuery(window).load(function() {
+			
+jQuery("a[rel=lenstechnology]").fancybox({
+    'type' : 'iframe',
+    'width' : 800,
+    'height' : 600,
+    'centerOnScroll' : true,
+    'showNavArrows':false
+});
+jQuery("a[rel=framesize]").fancybox({
+    'type' : 'iframe',
+    'width' : 800,
+    'height' : 600,
+    'centerOnScroll' : true,
+    'showNavArrows':false
+});
+
+jQuery("a[rel=watchsg]").fancybox({
+    'type' : 'iframe',
+    'width' : 800,
+    'height' : 600,
+    'centerOnScroll' : true,
+    'showNavArrows':false
+});
+jQuery("a[rel=gpop]").fancybox({
     'type' : 'iframe',
     'width' : 800,
     'height' : 600,
@@ -82,22 +102,30 @@ jQuery("a[rel=underconstructionpop]").fancybox({
 
 jQuery("#rcb_form").bind("submit", function() {
 
-    if (jQuery("#rcb_name").val().length < 1 || jQuery("#rcb_mobile").val().length < 1) {
-        document.getElementById('div1').style.display = 'block';
+      _gaq.push(['_trackEvent','RCB POPUP','Submit','page: ' + document.location.pathname + document.location.search]);
+      var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
 
-        return false;
-    }
-if(!jQuery("#rcb_mobile").val().match(/^[0-9+-]+$/)){
-document.getElementById('div_mobile').style.display = 'block';
+  	if (jQuery("#rcb_name").val().length < 1 || jQuery("#rcb_mobile").val().length < 1) {
+		document.getElementById('div1').style.display = 'block';
+		return false;
+	 }
+	if(!jQuery("#rcb_mobile").val().match(/^[0-9+-]+$/)){
+		document.getElementById('div_mobile').style.display = 'block';
+		return false;
+	} 
+        if(jQuery("#rcb_email").val().length > 1){
+            if(!emailReg.test(jQuery("#rcb_email").val())){
+                document.getElementById('div_email').style.display = 'block';
+            	return false;
+            }
 
-        return false;
+	}
 
-} 
     jQuery.ajax({
-        type        : "POST",
+        type     : "POST",
         cache    : false,
-        url        : "/thankrcb.php",
-    data        : jQuery(this).serializeArray(),
+        url      : "/thankrcb.php",
+    	data     : jQuery(this).serializeArray(),
         success: function(data) {
         jQuery.fancybox(data);
                 }
@@ -110,11 +138,14 @@ document.getElementById('div_mobile').style.display = 'block';
 	
     <!-- //jQuery LightBoxes -->
 <script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
-        //]]></script>
+           window.onload = function(){ var Translator = new Translate([]); }
+           //]]></script>
 <!-- MENU -->
+    <link rel="stylesheet" type="text/css" href="http://t1.dkrt.in/skin/frontend/default/blanco_wat/css/menu1.css" media="screen">
 
 <!-- ZOOM -->
+    <script type="text/javascript" src="http://t2.dkrt.in/js/zoom/easyzoom.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://t1.dkrt.in/skin/frontend/default/blanco_wat/css/easyzoom.css" media="screen">
 <!-- CUFON -->
 
 
@@ -143,7 +174,7 @@ document.getElementById('div_mobile').style.display = 'block';
     var active_border_selector = '.etheme_cp .etheme_cp_content .etheme_cp_section .pattern_select.selected,.product-view .product-img-box .more-views li a.thumbnail-active';
     var active_color_default = '4372C8';
     var bg_default = 'fff'; 
-    var pattern_default = 'url(http://t2.dkrt.in/media/wysiwyg/blanco/)';
+    var pattern_default = 'url(http://t3.dkrt.in/media/wysiwyg/blanco/)';
 </script>
 
 <style type="text/css">
@@ -181,13 +212,6 @@ document.getElementById('div_mobile').style.display = 'block';
     }
 </script>
 
-<script type="text/javascript">
-        jQuery(document).ready(function (){
-        	jQuery('.toolbar').jqTransform({imgPath:'http://t1.dkrt.in/skin/frontend/default/blanco_wat/images/jqforms/'});
-        	jQuery('.limiter').jqTransform({imgPath:'http://t1.dkrt.in/skin/frontend/default/blanco_wat/images/jqforms/'});
-        });  
-</script>
-
 <style>
     body{
         background-color:#fff;
@@ -199,9 +223,7 @@ document.getElementById('div_mobile').style.display = 'block';
 <!--[if IE 7]>
     <link rel="stylesheet" type="text/css" href="http://t1.dkrt.in/skin/frontend/default/blanco_wat/css/ie7.css" media="screen"/>
 <![endif]-->
-<!--[if IE 9]>
-    <link rel="stylesheet" type="text/css" href="http://t1.dkrt.in/skin/frontend/base/default/css/ie9.css" media="screen"/>
-<![endif]-->
+
 <script type="text/javascript">
 //used in quicklogin
 var URL = 'http://www.watchkart.com/';
@@ -290,127 +312,370 @@ function gaTrackEvent(event, cat1, cat2){
                             <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
-<div class="std"><p style="color: #ff0000; font-weight: bold; font-size: 13px;">We do not retain any of your personal information except the ones required for order fulfillment like 'Name', 'Address Details' etc. Your email address is not shared with any third party.</p>
-<p>This privacy policy sets out how  uses and protects any information that you give  when you use this website.  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.</p>
-<h2>What we collect</h2>
-<p>We may collect the following information:</p>
-<ul>
-<li>name</li>
-<li>contact information including email address</li>
-<li>demographic information such as postcode, preferences and interests</li>
-<li>other information relevant to customer surveys and/or offers</li>
-</ul>
-<p>For the exhaustive list of cookies we collect see the <a href="#list">List of cookies we collect</a> section.</p>
-<h2>What we do with the information we gather</h2>
-<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
-<ul>
-<li>Internal record keeping.</li>
-<li>We may use the information to improve our products and services.</li>
-<li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
-<li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li>
-</ul>
-<h2>Security</h2>
-<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
-<h2>How we use cookies</h2>
-<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
-<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
-<p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
-<h2>Links to other websites</h2>
-<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
-<h2>Controlling your personal information</h2>
-<p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
-<ul>
-<li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes</li>
-<li>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at admin@watchkart.com</li>
-</ul>
-<p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
-<p>You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to .</p>
-<p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p>
-<h2><a name="list"></a>List of cookies we collect</h2>
-<p>The table below lists the cookies we collect and what information they store.</p>
-<table class="data-table">
-<thead>
-<tr><th>COOKIE name</th><th>COOKIE Description</th></tr>
-</thead>
-<tbody>
-<tr><th style="text-align: center;">CART</th>
-<td style="text-align: center;">The association with your shopping cart.</td>
-</tr>
-<tr><th style="text-align: center;">CATEGORY_INFO</th>
-<td style="text-align: center;">Stores the category info on the page, that allows to display pages more quickly.</td>
-</tr>
-<tr><th style="text-align: center;">COMPARE</th>
-<td style="text-align: center;">The items that you have in the Compare Products list.</td>
-</tr>
-<tr><th style="text-align: center;">CURRENCY</th>
-<td style="text-align: center;">Your preferred currency</td>
-</tr>
-<tr><th style="text-align: center;">CUSTOMER</th>
-<td style="text-align: center;">An encrypted version of your customer id with the store.</td>
-</tr>
-<tr><th style="text-align: center;">CUSTOMER_AUTH</th>
-<td style="text-align: center;">An indicator if you are currently logged into the store.</td>
-</tr>
-<tr><th style="text-align: center;">CUSTOMER_INFO</th>
-<td style="text-align: center;">An encrypted version of the customer group you belong to.</td>
-</tr>
-<tr><th style="text-align: center;">CUSTOMER_SEGMENT_IDS</th>
-<td style="text-align: center;">Stores the Customer Segment ID</td>
-</tr>
-<tr><th style="text-align: center;">EXTERNAL_NO_CACHE</th>
-<td style="text-align: center;">A flag, which indicates whether caching is disabled or not.</td>
-</tr>
-<tr><th style="text-align: center;">FRONTEND</th>
-<td style="text-align: center;">You sesssion ID on the server.</td>
-</tr>
-<tr><th style="text-align: center;">GUEST-VIEW</th>
-<td style="text-align: center;">Allows guests to edit their orders.</td>
-</tr>
-<tr><th style="text-align: center;">LAST_CATEGORY</th>
-<td style="text-align: center;">The last category you visited.</td>
-</tr>
-<tr><th style="text-align: center;">LAST_PRODUCT</th>
-<td style="text-align: center;">The most recent product you have viewed.</td>
-</tr>
-<tr><th style="text-align: center;">NEWMESSAGE</th>
-<td style="text-align: center;">Indicates whether a new message has been received.</td>
-</tr>
-<tr><th style="text-align: center;">NO_CACHE</th>
-<td style="text-align: center;">Indicates whether it is allowed to use cache.</td>
-</tr>
-<tr><th style="text-align: center;">PERSISTENT_SHOPPING_CART</th>
-<td style="text-align: center;">A link to information about your cart and viewing history if you have asked the site.</td>
-</tr>
-<tr><th style="text-align: center;">POLL</th>
-<td style="text-align: center;">The ID of any polls you have recently voted in.</td>
-</tr>
-<tr><th style="text-align: center;">POLLN</th>
-<td style="text-align: center;">Information on what polls you have voted on.</td>
-</tr>
-<tr><th style="text-align: center;">RECENTLYCOMPARED</th>
-<td style="text-align: center;">The items that you have recently compared.</td>
-</tr>
-<tr><th style="text-align: center;">STF</th>
-<td style="text-align: center;">Information on products you have emailed to friends.</td>
-</tr>
-<tr><th style="text-align: center;">STORE</th>
-<td style="text-align: center;">The store view or language you have selected.</td>
-</tr>
-<tr><th style="text-align: center;">USER_ALLOWED_SAVE_COOKIE</th>
-<td style="text-align: center;">Indicates whether a customer allowed to use cookies.</td>
-</tr>
-<tr><th style="text-align: center;">VIEWED_PRODUCT_IDS</th>
-<td style="text-align: center;">The products that you have recently viewed.</td>
-</tr>
-<tr><th style="text-align: center;">WISHLIST</th>
-<td style="text-align: center;">An encrypted list of products added to your Wishlist.</td>
-</tr>
-<tr><th style="text-align: center;">WISHLIST_CNT</th>
-<td style="text-align: center;">The number of items in your Wishlist.</td>
-</tr>
-</tbody>
-</table></div>                    </div>
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","2af0740889",473788,"Y1dWNksCWktSBxcLC1oddQFNCltWHAcOEUtEU1MHFhVdXUQ=",0,155,new Date().getTime()]);</script>
+<div class="std"><ol>
+	<li>
+	<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3"><u><b>SECURITY AND PRIVACY</b></u></font></font></p>
+	</li>
+</ol>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3">DealsKart Online Services Private Limited, a private limited company duly incorporated under the provisions of the Companies Act, 1956 (hereinafter referred to as ‘</font></font><font face="Times New Roman, serif"><font size="3"><b>Company’</b></font></font><font face="Times New Roman, serif"><font size="3">), Company knows that You (a visitor or a registered user) care how information about You is used and shared, and we appreciate Your trust that we will do so carefully and sensibly. We let You retain as much control as possible over Your personal information. However, You may not visit and use our site at any time without telling us who You are or revealing the required information about Yourself. To the Company, </font></font><font face="Times New Roman, serif"><font size="3">our most important asset is our relationship with You. We are committed to maintaining the confidentiality, integrity and security of any personal information about our users of our site. We are proud of our privacy practices and the strength of our site security and want you to know how we protect Your information and use it to provide to You the services. </font></font><font face="Times New Roman, serif"><font size="3">This notice describes our privacy policy. By visiting this Website, You are accepting the practices described in this Privacy Policy. </font></font></p>
+
+<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<ol>
+	<li>
+	<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3"><u>Information You Give Us</u></font></font><font face="Times New Roman, serif"><font size="3">: We receive any information You enter on our Website or give us in any other way, which is stored on the Company’s secure servers. To clarify, personal information means and includes name, email, website user account log in ID and password, mobile and landline phone numbers, gender, DOB, address, gift message and eye prescription, but excludes any Credit Card, Debit Card or Net-Banking Details, all of which are stored on the Company’s secure servers and/or in cookies on your computer.</font></font></p>
+	</li>
+</ol>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3">You can choose not to provide certain information, but then You might not be able to take advantage of many of our features. We use the information that You provide for such purposes as responding to your requests, customizing future commercial transactions, and communicating with You and utilising/disclosing, without prejudice to any of Your other rights, the same for any other, whether commercial or non-commercial purpose which the Company in its sole discretion considers necessary for its business purposes or otherwise. </font></font></p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3">You can add or update certain information. When You update information, we usually keep a copy of the prior version for our records. </font></font></p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<ol start="2">
+	<li>
+	<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%; widows: 0; orphans: 0"><font face="Times New Roman, serif"><font size="3"><u>Automatic Information</u></font></font><font face="Times New Roman, serif"><font size="3">: We receive and store certain types of information whenever You interact with us. Our server logs Your activities for various diagnostic and analytical purposes. However, other than the IP address of Your machine from where You are accessing the Service, there are no other personal information maintained by the Company in the logs. </font></font></p>
+	</li>
+</ol>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%; widows: 0; orphans: 0">&nbsp;</p>
+
+<ol start="3">
+	<li>
+	<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%; widows: 0; orphans: 0"><font face="Times New Roman, serif"><font size="3"><u>E-mail Communications</u></font></font><font face="Times New Roman, serif"><font size="3">: To help us make e-mails more useful and interesting, we may request to receive a confirmation when You open e-mail from Your end if Your computer supports such capabilities. </font></font></p>
+	</li>
+</ol>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<ol start="4">
+	<li>
+	<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3"><u>Sharing of Information Received by the Company: </u></font></font><font face="Times New Roman, serif"><font size="3">You can tell when another business is involved along with us in processing Your transactions, and we share, use or, disclose customer information related to processing of those transactions with that business as needed to fulfill your order</font></font></p>
+	</li>
+</ol>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<ol start="5">
+	<li>
+	<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3"><u>Business Transfers: </u></font></font><font face="Times New Roman, serif"><font size="3">As we continue to develop our business, we might be acquired completely or merge with any other company. In such transactions, customer information generally is one of the transferred business assets. In such a case, we will ensure the protection of Your information as per these policies and guidelines. You hereby specifically consent and grant permission to the disclosure, and transferring, of information to such third parties.</font></font></p>
+	</li>
+</ol>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<ol start="6">
+	<li>
+	<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3"><u>Protection of the Company and Others</u></font></font><font face="Times New Roman, serif"><font size="3">: We release account and other personal information when we believe release is appropriate to comply with law; to enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Company, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and other similar matters. You hereby specifically consent and grant permission to disclosure and transferring of information to such third parties, as maybe required.</font></font></p>
+	</li>
+</ol>
+
+<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<ol start="2">
+	<li>
+	<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3"><u><b>SECURITY OF INFORMATION</b></u></font></font></p>
+	</li>
+</ol>
+
+<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3">We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software during the part where you enter your credit card or net banking details, which encrypts information You input.</font></font><font face="Times New Roman, serif"><font size="3"> We constantly re-evaluate our privacy and security policies and adapt them as necessary to deal with new challenges. We do not and will not sell or rent Your personal information to anyone, for any reason, at any time, unless it is in (i) </font></font><font face="Times New Roman, serif"><font size="3">in response to a valid legal request by a law enforcement officer or government agency or (ii) where You have given Your consent, or (iii) utilize the same for some statistical or other representation without disclosing personal data. </font></font></p>
+
+<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3">The </font></font><font face="Times New Roman, serif"><font size="3">information collected from You</font></font><font face="Times New Roman, serif"><font size="3"> will be stored on the </font></font><font face="Times New Roman, serif"><font size="3">Company’s</font></font><font face="Times New Roman, serif"><font size="3"> secured server and </font></font><font face="Times New Roman, serif"><font size="3">s</font></font><font face="Times New Roman, serif"><font size="3">ystems. The </font></font><font face="Times New Roman, serif"><font size="3">Company</font></font><font face="Times New Roman, serif"><font size="3"> maintain</font></font><font face="Times New Roman, serif"><font size="3">s</font></font><font face="Times New Roman, serif"><font size="3"> secure and reasonable security practices and procedures which are proprietary and unique to the </font></font><font face="Times New Roman, serif"><font size="3">Company</font></font><font face="Times New Roman, serif"><font size="3"> (</font></font><font face="Times New Roman, serif"><font size="3"><b>“Security Practice”</b></font></font><font face="Times New Roman, serif"><font size="3">). Such Security Practice involves measures such as but not limited to password protection, limitation of access to specified </font></font><font face="Times New Roman, serif"><font size="3">p</font></font><font face="Times New Roman, serif"><font size="3">ersonnel on a need to know basis, and security measures including encryption if required and other physical security measures to guard against unauthorized access to the </font></font><font face="Times New Roman, serif"><font size="3">server and s</font></font><font face="Times New Roman, serif"><font size="3">ystems and </font></font><font face="Times New Roman, serif"><font size="3">information </font></font><font face="Times New Roman, serif"><font size="3">residing on</font></font><font face="Times New Roman, serif"><font size="3"> such server and systems</font></font><font face="Times New Roman, serif"><font size="3">. The </font></font><font face="Times New Roman, serif"><font size="3">Company’s</font></font><font face="Times New Roman, serif"><font size="3"> Security Practice protects against unauthorized access to</font></font><font face="Times New Roman, serif"><font size="3">,</font></font><font face="Times New Roman, serif"><font size="3"> or unauthorized alteration, disclosure or destruction of </font></font><font face="Times New Roman, serif"><font size="3">the information</font></font><font face="Times New Roman, serif"><font size="3">. The </font></font><font face="Times New Roman, serif"><font size="3">Company’s </font></font><font face="Times New Roman, serif"><font size="3">Security Practice contains managerial, technical, operational and physical security control measures which are commensurate with the information assets being protected and with the nature of business.</font></font><font face="Times New Roman, serif"><font size="3"><span lang="en-IN"> </span></font></font><font face="Times New Roman, serif"><font size="3"><span lang="en-IN">You acknowledge and agree that the Security Practice and procedures as mentioned above are reasonable and are designed to protect the information provided by You.</span></font></font></p>
+
+<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3">We only reveal those numbers of Your account as required to enable us to access and provide You the required services relating to Your accounts. </font></font></p>
+
+<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3">We make every effort to allow You to retain the anonymity of Your personal identity and You are free to choose a Login ID email address and password that keeps Your personal identity anonymous. Access to Your Registration Information and Your personal financial data is strictly restricted to those of our Company employees and contractors, strictly on a need to know basis, in order to operate, develop or improve the Service. These employees or contractors may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</font></font></p>
+
+<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3">With the exception of a Login ID in the form of an email address, which may be provided on an anonymous basis, and Your Third Party Account Information, which is required for providing the services, the Company does not require any information from You that might constitute personally identifiable information.</font></font></p>
+
+<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3">It is important for You to protect against unauthorized access to Your password and to Your computer. Be sure to sign off when finished using a shared computer. </font></font></p>
+
+<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><a name="_GoBack"></a> <font face="Times New Roman, serif"><font size="3">As described in this Agreement and with Your consent, the Company will from time to time connect electronically to Your online bank, credit card and other online financial accounts to process Your Order. </font></font></p>
+
+<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3">Company will also use other third parties like courier companies to deliver products that you order on our website, to your delivery address.</font></font></p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<ol start="3">
+	<li>
+	<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3"><u><b>CONDITIONS OF USE, NOTICES, AND REVISIONS </b></u></font></font></p>
+	</li>
+</ol>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Times New Roman, serif"><font size="3">Please do read the detailed terms and conditions of the Company’s Website situated at <a href="http://www.lenskart.com/terms-conditions" target="_blank">http://www.lenskart.com/terms-conditions</a></font></font><font face="Times New Roman, serif"><font size="3"><i>.</i></font></font><font face="Times New Roman, serif"><font size="3"> If You choose to visit this Website, Your visit and any dispute over privacy is subject to this Agreement, including limitations on damages, arbitration of disputes, and application of the law of the Republic of India. If You have any concern about privacy at this Website, please send us a thorough description to support@lenskart.com and we will try to resolve it. Our business changes constantly. </font></font><font face="Times New Roman, serif"><font size="3">This Notice and the Terms </font></font><font face="Times New Roman, serif"><font size="3">and Conditions </font></font><font face="Times New Roman, serif"><font size="3">of </font></font><font face="Times New Roman, serif"><font size="3">Website Use may also</font></font><font face="Times New Roman, serif"><font size="3"> change, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use.</font></font><font face="Times New Roman, serif"><font size="3"> We may e-mail periodic reminders of our notices and conditions, unless You have instructed us not to, but You should check our Website frequently to see recent changes.</font></font></p>
+
+<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<ol start="4">
+	<li>
+	<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 100%"><font face="Times New Roman, serif"><font size="3"><u><b>GRIEVANCE OFFICER </b></u></font></font></p>
+	</li>
+</ol>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<p align="JUSTIFY" lang="en-IN" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%"><font face="Calibri, serif"><font face="Times New Roman, serif"><font size="3">The Company would be glad to provide assistance to You in case You have any queries or have any issues pertaining to this Security and Privacy policy. Kindly contact Mr. Saurabh Asthana at </font></font><a href="mailto:saurabha@valyoo.in"><font color="#00000a"><font face="Times New Roman, serif"><font size="3">saurabha@valyoo.in</font></font></font></a><font face="Times New Roman, serif"><font size="3">.</font></font></font></p>
+
+<p align="JUSTIFY" style="margin-left: 0.5in; margin-bottom: 0in; line-height: 113%">&nbsp;</p>
+
+<ol start="5">
+	<li>
+	<p align="JUSTIFY" style="margin-bottom: 0in; line-height: 100%"><a name="list"></a> <font face="Times New Roman, serif"><font size="3"><u><b>LIST OF COOKIES WE COLLECT</b></u></font></font></p>
+	</li>
+</ol>
+
+<p style="margin-bottom: 0in; background: #ffffff; line-height: 113%">&nbsp;</p>
+
+<p style="text-indent: 0.5in; margin-bottom: 0in; background: #ffffff; line-height: 113%"><font face="Times New Roman, serif"><font size="3">The table below lists the cookies we collect and what information they store.</font></font></p>
+
+<p style="margin-bottom: 0in; background: #ffffff; line-height: 113%">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="628">
+	<colgroup>
+		<col width="249">
+		<col width="379">
+	</colgroup>
+	<thead>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">COOKIE name</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">COOKIE Description</font></font></p>
+			</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">CART</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">The association with your shopping cart.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">CATEGORY_INFO</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">Stores the category info on the page, that allows to display pages more quickly.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">COMPARE</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">The items that you have in the Compare Products list.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">CURRENCY</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">Your preferred currency</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">CUSTOMER</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">An encrypted version of your customer id with the store.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">CUSTOMER_AUTH</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">An indicator if you are currently logged into the store.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">CUSTOMER_INFO</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">An encrypted version of the customer group you belong to.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">CUSTOMER_SEGMENT_IDS</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">Stores the Customer Segment ID</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">EXTERNAL_NO_CACHE</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">A flag, which indicates whether caching is disabled or not.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">FRONTEND</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">You session ID on the server.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">GUEST-VIEW</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">Allows guests to edit their orders.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">LAST_CATEGORY</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">The last category you visited.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">LAST_PRODUCT</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">The most recent product you have viewed.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">NEWMESSAGE</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">Indicates whether a new message has been received.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">NO_CACHE</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">Indicates whether it is allowed to use cache.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">PERSISTENT_SHOPPING_CART</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">A link to information about your cart and viewing history if you have asked the site.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">POLL</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">The ID of any polls you have recently voted in.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">POLLN</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">Information on what polls you have voted on.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">RECENTLYCOMPARED</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">The items that you have recently compared.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">STF</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">Information on products you have emailed to friends.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">STORE</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">The store view or language you have selected.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">USER_ALLOWED_SAVE_COOKIE</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">Indicates whether a customer allowed to use cookies.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">VIEWED_PRODUCT_IDS</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">The products that you have recently viewed.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">WISHLIST</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">An encrypted list of products added to your Wishlist.</font></font></p>
+			</td>
+		</tr>
+		<tr valign="TOP">
+			<td width="249">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">WISHLIST_CNT</font></font></p>
+			</td>
+			<td width="379">
+			<p align="CENTER"><font face="Times New Roman, serif"><font size="3">The number of items in your Wishlist.</font></font></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="margin-bottom: 0in; line-height: 113%">&nbsp;</p></div>                    </div>
 
 
-<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+</body></html>
