@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linexdown.net privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102075705id_/http%3A//www.linexdown.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linexdown.net privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403024211id_/http%3A//www.linexdown.net/privacy_policy.html) for the most accurate reproduction.*
 
-# LinexDown.Com Privacy Policy LinexDown
+# LinexDown.Com Privacy Policy
 
 **LinexDown.Com** **Privacy Policy**
 
@@ -19,4 +19,4 @@ In the course of serving advertisements to this site, our third-party advertiser
  **Modification of Privacy Policy**  
 
 
-LinexDown.Com reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates. 
+LinexDown.Com reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
