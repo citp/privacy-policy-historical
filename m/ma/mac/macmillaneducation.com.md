@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macmillaneducation.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231164333id_/http%3A//www.macmillaneducation.com/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D1616) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macmillaneducation.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403145846id_/http%3A//www.macmillaneducation.com/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D1616) for the most accurate reproduction.*
 
 # About Us
 
