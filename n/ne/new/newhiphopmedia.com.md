@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newhiphopmedia.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227141240id_/http%3A//newhiphopmedia.com/%3Fpage_id%3D3344) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhiphopmedia.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403195831id_/http%3A//newhiphopmedia.com/%3Fpage_id%3D3344) for the most accurate reproduction.*
 
-# Privacy Policy | NewHipHopMedia.com / Urban Certified // Listen to Fresh Urban Music, Watch Urban Videos,and Read Urban News Daily!!!
+# Privacy Policy - NewHipHopMedia.com
 
 Privacy Policy  
 FreshAsFrankie.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
