@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrevo.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004010213id_/http%3A//www.retrevo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrevo.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403220543id_/http%3A//www.retrevo.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Retrevo
 
@@ -12,6 +12,10 @@ We require you to register with us to use certain parts of our service. During r
 
   * Information you provide: When you register for the Retrevo service, we ask you for Personal Information such as your name and email address, demographic information such as gender and zip code, and product usage information. We also collect information you volunteer to us on surveys and feedback forms. When you send us an email, we use your email address so we can respond to your query. If you apply for a job at Retrevo, we will collect any information contained in the email message you send to us as well as information contained in your resume.
   * Cookies: Retrevo may use cookies to store and sometimes track information about you. A cookie is a small data file sent to your browser from a web server to be stored on your hard drive that allows easier access the next time the same page is visited. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Retrevo features and services may not function properly if you disable cookies in your browser.
+  * Preference Based Advertising: We also work with and permit certain third parties, including advertising networks and website analysis firms, to place cookies on your computer/browser when you visit our Sites. These third party cookies are used to gather non-PII about your activities on our Sites and third party sites to serve you with advertisements while you are on third party sites (“Third-Party Ads”). If you do not wish to participate in this activity, please [click here](http://www.aboutads.info/choices/) to opt-out. 
+
+Some important notes: (1) the opt-out tools for Third-Party Ads include all the advertising networks that Retrevo works with, but also many that Retrevo does not work with; (2) opting out of Our Ads does not automatically serve as an opt-out from Third-Party Ads – the same is true the other way around. To opt-out of Our Ads and Third-Party Ads, you must use each respective opt-out tool above; (3) the opt-out tools for both Our Ads and Third-Party Ads rely on cookies to ensure that your non-PII is not used for online advertising purposes (“Opt-out Cookies”). Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the relevant opt-out tasks again; and (4) the features of your internet browser and/or certain add-on software may allow you to block or limit the use of cookies for preference based advertising and other purposes. We cannot, however, promise that our Sites will work well or be compatible with these alternative methods of blocking or limiting the use of cookies.
+
   * Log information: Your web browser sends some information automatically when you connect to a web server. This information may include the IP address of your computer, date and time of access, type of web browser used, the operating system and other information that uniquely identifies a browser. When you use the Retrevo service, our servers automatically record this information in log files. We also record search terms that you type, web pages you access and other information that may describe your behavior.
   * Links to other sites: Retrevo web site includes links to other external sites either directly or in response to a search query from you. Retrevo does not exercise control over these external sites. We advise you to review the individual privacy policies of the respective sites.
 
@@ -64,10 +68,8 @@ If you have any questions or concerns regarding this Privacy Policy, please cont
 
 Retrevo Inc. 
 
-440 N. Wolfe Road 
+12200 W. Olympic Blvd. Ste 300
 
-Sunnyvale, CA 94085 
-
-phone number: 1-855-738-7386 
+Los Angeles, CA 90064
 
 email: privacy at retrevo dot com
