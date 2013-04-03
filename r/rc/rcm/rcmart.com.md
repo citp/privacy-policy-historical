@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the rcmart.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014231054id_/http%3A//www.rcmart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcmart.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404015328id_/http%3A//www.rcmart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice | rcMart.com
+
+**Phone Order Support:** US +1(626)404-7382 | UK +44(020)8133-9382 | HK +(852)2858-6382
+
+#### **SHIPPING :**
 
 Our Pledge to You, Our Customers 
 
@@ -14,6 +18,9 @@ Shopping cart information will be stored until it has been checked out.
 
 Thank you, and we hope you enjoy our store. 
 
-\- Dinball rcMart   
-  
+\- Dinball rcMart
+
 _The above terms subject to our final decison._
+
+  
+
