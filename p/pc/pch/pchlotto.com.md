@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pchlotto.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227085558id_/http%3A//privacy.pch.com/pchlotto-pchslots) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchlotto.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403143400id_/http%3A//privacy.pch.com/play-and-win-privacy) for the most accurate reproduction.*
 
-# PCHPlay&Win Privacy Policy
+# PCH Privacy Policy
 
 **PCHbingo, PCHlotto and PCHslots Privacy Policy**
 
@@ -78,7 +78,7 @@ As is true of most web sites, we gather certain information automatically and st
 
 We utilize software from several third party companies that places tracking technologies on our web sites. We have control over these third party cookies and javascript tags which we use to analyze the data they generate, in aggregate. Some of the reasons for collecting this data is to determine the most popular offers on our sites, the most popular areas for users to click on a screen with many buttons to click, etc. We also use one of these services to estimate broad demographic patterns for our users in order to present our site audience as a whole to advertisers.
 
-When you register with PCHlotto.com, PCHbingo and/or PCHslots.com we may share your name and information with third parties who may contact you by mail with relevant offers. You may opt out of receiving such offers when you register or you may [click here](http://prism.pch.com/PrismOptout/GenericOptout.aspx) to do so. 
+When you register with PCHbingo, PCHlotto and PCHslots, we may share your name and information with third parties who may contact you by mail with relevant offers. If you wish to opt out of such exchanges you may [click here](http://prism.pch.com/PrismOptout/GenericOptout.aspx). 
 
 **4\. Targeted or Behavioral Advertising:**
 
