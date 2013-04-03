@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the girlsgotcream.com privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017080959id_/http%3A//www.girlsgotcream.com/%3Fref%3D1000398%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgotcream.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403183706id_/http%3A//www.girlsgotcream.com/%3Fref%3D2047389%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
 
 # Privacy policy
-
-Privacy Policy
 
 Replace or add your information in RED, where applicable:  
 Our Commitment To Privacy   
