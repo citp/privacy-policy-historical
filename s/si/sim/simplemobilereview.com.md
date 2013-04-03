@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplemobilereview.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015114033id_/http%3A//www.simplemobilereview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplemobilereview.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403113908id_/http%3A//www.simplemobilereview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,3 +22,16 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Simple Mobile Review then you may contact us at SimpleMobileReview@gmail.com
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.simplemobilereview.com%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.simplemobilereview.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.simplemobilereview.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.simplemobilereview.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.simplemobilereview.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Your%20Privacy%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20ea "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.simplemobilereview.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.simplemobilereview.com%2Fprivacy-policy%2F&srcTitle=Simple+Mobile+Review+Reviews+of+Mobile+Devices+and+Gadgets "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.simplemobilereview.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Simple+Mobile+Review+Reviews+of+Mobile+Devices+and+Gadgets&summary=Your%20Privacy%0D%0AYour%20privacy%20is%20important%20to%20us.%20To%20better%20protect%20your%20privacy%20we%20provide%20this%20notice%20explaining%20our%20online%20information%20practices%20and%20the%20choices%20you%20can%20make%20about%20the%20way%20your%20information%20is%20collected%20and%20used.%20To%20make%20this%20notice%20ea "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.simplemobilereview.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
