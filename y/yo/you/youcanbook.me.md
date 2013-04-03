@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youcanbook.me privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017043102id_/http%3A//youcanbook.me/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcanbook.me privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403193912id_/http%3A//youcanbook.me/privacy.jsp%3Bjsessionid%3DC7DB6AD49F31D1993C53E469F6271587) for the most accurate reproduction.*
 
-# YouCanBook.Me - Privacy
+# ycb.me: Privacy
 
 This page gives you information about the YouCanBook.Me privacy policies.
 
@@ -51,7 +51,4 @@ Bedford
 MK40 3HD  
 United Kingdom 
 
-[privacy@softlysoftware.com](https://web.archive.org/web/20121017043102id_/http%3A//youcanbook.me/privacy@softlysoftware.com)
-
-  
-
+[privacy@softlysoftware.com](https://web.archive.org/web/20130403193912id_/http%3A//youcanbook.me/privacy@softlysoftware.com)
