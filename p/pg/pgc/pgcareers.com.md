@@ -1,32 +1,31 @@
-> *The following text is extracted and transformed from the pgcareers.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401021541id_/http%3A//www.pg.com/privnotice/privacyhighlights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgcareers.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403105936id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
 
-# Procter & Gamble Privacy Notice
+# P&G Privacy Notice
 
-**Personal Information**
-* We collect information you choose to submit during your registration.
-* We use common internet technologies such as cookies on our websites and emails. 
-* We sometimes obtain additional information about you, such as your demographic and lifestyle information, from other sources.
-* For more information about our information collection practices please [click here](http://www.pg.com/info.html).  
+This Privacy Notice applies to information, including personal information, collected about you by **P &G (The Procter & Gamble Company and its affiliated companies and subsidiaries)**
+
+  * We collect information about you from a variety of sources, including:
+  * Information we collect from you directly.
+  * Information we collect about you when you visit our site, use our services, or view our online advertisements.
+  * Information we collect about you from other sources, such as commercially available sources.
   
-**Uses**
-* We use the information you submit to provide you with the service you requested.
-* We use information about you to provide you with helpful and targeted offers from P&G products and services. [Click here](http://www.pg.com/info.html) for more information.
-* We do not share, trade, or sell information about you with other marketers without your permission. We may share your information with vendors we've hired to send you the offers you signed up for. [Click here](http://www.pg.com/data_transfer.html) for more information.   
-  
-**Important Information**
-* The PG.com website has been awarded the [Better Business Bureau _OnLine_](http://www.bbbonline.com/)® Privacy Seal. Please [click here](http://www.pg.com/bbb.html) for more information.
-* We take steps to protect the information you provide against unauthorized access and use. For more information [click here](http://www.pg.com/security.html).
 
-| 
+  * All the information we collect about you may be combined to help us tailor our communications to you and to develop world-class products and services.
 
-**How to Contact Us**  
-For more information about our privacy policy, go to the privacy statement on our website at:
 
-<http://www.pg.com/privacy_full.html>
 
-Or write us at: 
+  * We use the information we collect to provide the products and services you request, to tell you about other products and services offered by P&G, and to manage our sites and services.
+  * In general, we do not share your personal information with third-party marketers, unless we have asked for and obtained your explicit consent.
+  * We may share your information:
+  * With our third-party service suppliers, including those who work on behalf of P&G and our business partners to send you joint communications that we hope you find of interest.
+  * If a P&G brand is sold to another company.
+  * To protect and defend the right and property of P&G (including enforcing our Terms and Conditions).
+  * When required by law, and / or public authorities.
 
-P&G Privacy Team  
-Two Procter & Gamble Plaza  
-TN-7  
-Cincinnati, OH 45202
+
+
+  * We give you choices about how we communicate with you.
+  * You can stop receiving promotional email or postal communications from a particular P&G brand or program through this Privacy Notice. Please [click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to complete your request.
+  * [Click here](http://www.pg.com/privacy/contact_us/contact_us/privacy-central-contact-interactive.html) to select your country and learn how to access and update the contact information you provided P&G.
+
+
