@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the fuhsd.org privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329213658id_/http%3A//www.fuhsd.org/portal/privacy%3Fd%3Dx%26return_url%3D1238268120687) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuhsd.org privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403125628id_/http%3A//fuhsd.org/portal/privacy%3Fd%3Dx%26return_url%3D1364877843129) for the most accurate reproduction.*
 
-# Fremont Union High School District: Privacy Notice
+# Privacy Notice
 
 ## School Loop Privacy Notice 
 
-(last updated February 2007)
+(last updated July 2012)
 
 ### Welcome
 
-Welcome! School Loop, Inc. ("School Loop" or "us" or "we") welcomes you to our website at [www.schoolloop.com](http://www.schoolloop.com/) (the "School Loop Site"). We provide an online integrated communication service that is designed to help teachers, students, school staff, and parents (collectively or individually "Users") share information about student homework assignments, grades, and other school-related information. We refer to our online application and our website together as the "Service."
+Welcome! School Loop, Inc. ("School Loop" or "us" or "we") welcomes you to our website at [www.schoolloop.com](http://www.schoolloop.com/) (the "School Loop Site"). 
+
+We provide several services. Our website system is used to create publicly accessible web pages. School Loop Plus is a school-to-home communication and collaboration service that helps teachers, students, school staff, and parents share information about student home assignments, grades, and other school-related information. OnTrackEDU is a social dashboard system that helps education professionals support students and lead effective schools. We refer to our online applications and our website together as the "Service," and all the different types of people who have accounts on the service as "Users."
 
 This Privacy Notice details important information regarding the use and disclosure of information submitted by Users to the Service, as well as information collected by the Service. This Privacy Notice is incorporated into and is subject to the School Loop Terms of Service. Your use of the School Loop Site and the Service and any information you provide on the School Loop Site or to the Service remains subject to the terms of this Privacy Notice and our Terms of Service.
 
@@ -20,7 +22,9 @@ School Loop recognizes that School Loop Users value their privacy. School Loop u
 
 ### Who Has Access to the Service?
 
-The Service is a closed community network that is accessible only by registered members who have valid ID's. Only members can communicate with other members. One-to-one communication between adults and children is limited to school staff, and all communication is accessible by administrators. In addition, any adult who wishes to view a student's homework information must register with a valid ID number and have his or her membership reviewed by the affected student, who may challenge the registration.
+School Loop Plus is the only service that includes parents and students as Users. One-to-one communication between adults and children is limited to school staff, and all communication is accessible by administrators. In addition, any adult who wishes to view a student's homework information must register with a valid ID number and have his or her membership reviewed by the affected student, who may challenge the registration.
+
+School Loop Standard is designed for staff members and other adults that the School District gives web publishing rights. OnTrackEDU is designed for education professionals who have rights to student information as defined by FERPA (the Family Education Right Protection Act).
 
 ### Who Sets the Information Access Rules for the Service?
 
@@ -40,7 +44,7 @@ School Loop staff has full access to all of the above information in order to pr
 
 _The following personal information is stored in the Service with respect to_ **Students:**
 
-  * From the school district: first, middle, and last name, id number, student id number(s), student schedules (course title, course id, section id, term, start dates)
+  * From the school district: first, middle, and last name, id number, student id number(s), student schedules (course title, course id, section id, term, start dates), and performance data for OnTrackEDU (GPA, credits earned, behavior information such as referral and suspension counts, assessment scores such as CST or CAHSEE). Personal information may also include first, middle, and last name, permanent id number, state ID, local id number, birth date, enrollment date, email address, address, gender, grade level, ethnicity, disability, disadvantaged, ELL status, language, GATE, migrant education, cohort year, homeroom.
   * From the individual student: login, password, email address (if applicable)
 
 
@@ -58,7 +62,7 @@ School Loop staff has full access to all of the above information in order to pr
 
 _The following personal information is stored in the Service with respect to_ **Parents:**
 
-  * From the individual parent: login, password, first and last name, telephone, email address
+  * From the individual parent: login, password, first and last name, telephone, email address, language
 
 
 
@@ -67,13 +71,13 @@ School Loop staff has full access to all of the above information in order to pr
 ### What Kind of Content is Stored in the Service? Who Has Access to this Content?
 
   * From the school administrator: LoopMail, news, discussions, and group messages
-  * From teachers: assignments, grades, LoopMail, news, discussions, and group messages
-  * From staff: LoopMail, news, discussions, and group messages
+  * From teachers: assignments, grades, LoopMail, news, discussions, interventions, and group messages
+  * From staff: LoopMail, news, discussions, interventions, and group messages
   * From student: homework turned in, LoopMail, discussions, and group messages
 
 
 
-School Loop staff has full access to all of the above information in order to provide the Service, including providing technical support. Anyone with administrative rights to the Service also has access to all of the above information. The intended audience for news, discussions, and group messages has access to the applicable content. Teachers and staff can view content posted for courses (like homework, notes, and locker contents) on course sites. Teachers and staff can also view posted grades and student intervention files and discussions via a student's record, provided that there is a setting at the school level that can turn off the grades access. Students and parents can access posted content for their current or past courses if they are the targeted audience. Access to a student's grades by the student or the student's parents depends on the policy set by the school or school district. The Service allows a school's system administrator to program the access settings in the Service accordingly.
+School Loop staff has full access to all of the above information in order to provide the Service, including providing technical support. Anyone with administrative rights to the Service also has access to all of the above information. The intended audience for news, discussions, and group messages has access to the applicable content. Teachers and staff can view content posted for courses (like homework, notes, and locker contents) on course sites. Teachers and staff can also view posted grades and student intervention files and discussions via a student's record, provided that there is a setting at the school level that can turn off the grades access. Students and parents can access posted content for their current or past courses if they are the targeted audience. Access to a student's grades by the student or the student's parents depends on the policy set by the school or school district. The Service allows a school's system administrator to program the access settings in the Service accordingly. Rights to this content can be restricted by district administration.
 
 ### What Information does the Service or the School Loop Site Collect? How do we Use It?
 
@@ -81,7 +85,7 @@ When feasible, School Loop automatically collects your IP address. We also autom
 
 ### When Will School Loop Disclose the Information it Collects to Outside Parties?
 
-School Loop may store and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of users of the Service or the School Loop Site, the public, or School Loop or our web site suppliers; (b) conform to legal or regulatory requirements; (c) to deliver additional subcontracted services run by third parties.
+School Loop may store and disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of users of the Service or the School Loop Site, the public, or School Loop or our web site suppliers; (b) conform to legal or regulatory requirements; (c) with the district's permission, to deliver additional subcontracted services run by third parties.
 
 We do not otherwise disclose personal information collected by the Service to third parties. 
 
@@ -115,4 +119,4 @@ As School Loop is a product for schools and school districts, access to student 
 
 If you have any questions about this Privacy Notice or to provide us with feedback to help us improve our policies, please contact us by email at **info@schoolloop.com.**
 
-**Last Update to this Privacy Policy: February 8, 2007**
+**Last Update to this Privacy Policy: July 2012**
