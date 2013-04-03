@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatedisney.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022064246id_/http%3A//www.dvdizzy.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatedisney.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403102649id_/http%3A//www.dvdizzy.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement - www.dvdizzy.com
 
@@ -20,8 +20,11 @@ www.dvdizzy.com does use cookies to store information about visitors preferences
 .:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.dvdizzy.com and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
 Google Adsense   
+Burst Media   
 Commission Junction   
 Linkshare   
 Amazon
