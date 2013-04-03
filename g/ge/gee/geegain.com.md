@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geegain.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204162835id_/http%3A//www.geegain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geegain.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403025327id_/http%3A//www.geegain.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Geegain
 
