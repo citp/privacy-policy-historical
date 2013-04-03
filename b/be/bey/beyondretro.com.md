@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondretro.com privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103212159id_/http%3A//www.beyondretro.com/en/help/privicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondretro.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403055316id_/http%3A//www.beyondretro.com/en/help/privicy%3FSID%3D7qu2fkj9qcgmdvfr4mhch35gt1) for the most accurate reproduction.*
 
 # Vintage Clothing | privicy
 
