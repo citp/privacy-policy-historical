@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greendust.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123054338id_/http%3A//www.greendust.com/privacy-policy-pg-12.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greendust.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403151441id_/http%3A//www.greendust.com/privacy-policy-pg-12.html%3FPHPSESSID%3D3p40o507ibbhr8dvi8i8ohmdd4) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Policy
 
@@ -130,7 +130,7 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use any of the following options: 
 
   * Send an e-mail to [support@GreenDust.com](mailto:support@GreenDust.com)
-  * Call the following telephone number: +91 (11) 49500100
+  * Call the following telephone number: +91 (011) 43491199
 
 
 
