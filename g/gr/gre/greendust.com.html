@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greendust.com privacy policy that was archived on 2012-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121123054338id_/http%3A//www.greendust.com/privacy-policy-pg-12.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greendust.com privacy policy that was archived on 2013-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130403151441id_/http%3A//www.greendust.com/privacy-policy-pg-12.html%3FPHPSESSID%3D3p40o507ibbhr8dvi8i8ohmdd4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html dir="LTR" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/ "><head>
 <base href="http://www.greendust.com/">
@@ -54,7 +54,22 @@
 <script type="text/javascript">
 var j = jQuery.noConflict();
 var k = jQuery.noConflict();
+var rs = jQuery.noConflict();
 var bottom = jQuery.noConflict();
+</script>
+<script type="text/javascript">
+rs(function() {
+function launch() {
+rs('#trackstatus').lightbox_me({centered: true, onLoad: function() { rs('#trackstatus').find('input:first').focus()}});
+}
+rs('#try-15').click(function(e) {
+$("#web-order-number").val('');
+rs("#trackstatus").lightbox_me({centered: true, onLoad: function() {
+rs("#trackstatus").find("input:first").focus();
+}});
+e.preventDefault();
+});
+}); 
 </script>
 <script type="text/javascript">
 j(function() {
@@ -180,7 +195,7 @@ var total_items = res1[2];
 var warehouse   = res1[3];
 
 if((outstock==0) && (warehouse<=1)){
-$("#showdiv").html('<a href="http://www.greendust.com/order_checkout.php"><img src="templates/gdnew/images/buttons/english/button_checkout.gif" border="0" alt="Checkout" title=" Checkout " width="87" height="29" /></a>');
+$("#showdiv").html('<a href="http://www.greendust.com/order_checkout.php?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5"><img src="templates/gdnew/images/buttons/english/button_checkout.gif" border="0" alt="Checkout" title=" Checkout " width="87" height="29" /></a>');
 $(".stockWarning1").hide();
 $(".stockWarning").hide();
 $("#stockWarning33331").hide();
@@ -405,23 +420,120 @@ document.getElementById('email_addressLight').value='';
 return false;
 
 }
+function select_city(){
+document.city_select.submit();
+}
+
 </script>
 
 
   <div id="main-wfix">
+  <div id="track-order"><a href="#" id="try-15"><img src="templates/gdnew/images/buttons/english/tos-btn.gif" alt="Track Order Status"></a></div>
     <div id="main-cont">
+    
 <div id="header" class="overflowSet">
         <div class="wfix overflowSet">
           <div id="logo"><a href="index.php"><img src="http://www.greendust.com/templates/gdnew/images/logo.png" alt="GreenDust" width="211" height="28"></a></div>
           <div id="top-login" style="position:relative;">
             <div class="br-dot"></div>
+             <!-- Top Select Start-->
+    <div class="wrap rFloat">
+    <div class="rFloat">
+    <div class="rFloat scttext">Items </div>
+        <div class="sctCity">
+    <div id="sel">All-India</div>
+    <div class="divlist" id="ct_list">
+    </div>
+    
+    </div>
+
+<script>
+// array for list os warejouse
+ var jsonList = {"Table" : [{"stateid" : "1","statename" : "Delhi-NCR"},
+                {"stateid" : "2","statename" : "Bengaluru"},
+				{"stateid" : "3","statename" : "Jaipur"},{"stateid" : "4","statename" : "Lucknow"},
+				{"stateid" : "5","statename" : "Cochin"},{"stateid" : "6","statename" : "Chennai"},
+				{"stateid" : "7","statename" : "Bhiwandi"},{"stateid" : "8","statename" : "Hyderabad"},
+				{"stateid" : "9","statename" : "Ahmedabad"},{"stateid" : "10","statename" : "Ludhiana"},
+				{"stateid" : "0","statename" : "All-India"}
+				]}
+ $(document).ready(function(){
+      var listItems= "";
+      for (var i = 0; i < jsonList.Table.length; i++){
+		  if(jsonList.Table[i].stateid!=0)
+			listItems+= "<li id='" + jsonList.Table[i].stateid + "' onclick=sel_city_ware_loc('" + jsonList.Table[i].stateid + "','" + jsonList.Table[i].statename + "')>" + jsonList.Table[i].statename + "</li>";
+      }
+      $("#ct_list").html(listItems);
+    });
+	
+	function sel_city_ware_loc(c_id,c_name){
+	$("#sel_city").val(c_id);
+	$("#sel_city_name").val(c_name);
+	$("#sel").html(c_name);
+	document.city_select.submit();
+	}
+</script>
+
+
+<form name="city_select" action="" method="post">
+<input type="hidden" id="sel_city" name="sel_city">
+<input type="hidden" id="sel_city_name" name="sel_city_name">
+</form>
+   </div>
+   
+       <div class="rFloat scttext">Showing</div></div>
+    <!-- Top Select End-->	 
             <ul>
 			              <li><a href="#" id="try-1">Login</a></li>
               <li><a href="http://www.greendust.com/create_account.php" id="try-1">Register</a></li>
 			 		   
 			   
-            </ul>		 
-			
+            </ul>	
+            
+            
+			<!-- Track order-->
+			  <script>
+		  function trackOrder(){
+		  var web_order = document.getElementById('web-order-number').value;
+		  if(web_order==""){
+		  alert('Please enter Order Number');
+		  document.getElementById('web-order-number').select();
+		  return false;
+		  }
+		  }
+		  </script>
+            <div id="trackstatus" style="display: none; left: 50%; margin-left: -223px; position: fixed; top: 50%; margin-top: -159px;"> <span id="loginHeader">
+        <form action="order-status.php" name="trackorder" id="trackorder" method="post">
+          <div class="track-order">
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td align="left" class="track-order-tlt">Track Your Order!!</td>
+              </tr>
+              <tr>
+                <td align="center"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                   <tbody><tr>
+                      <td colspan="2" height="10"><img src="images/pixel_trans.gif"></td>
+                    </tr>
+                    <tr>
+                      <td class="text" width="120"><label>Order Number : <span style="color:#FF0000">*</span></label></td>
+                      <td><input type="text" name="web-order-number" id="web-order-number" class="input-cl"></td>
+                    </tr>
+                   <tr>
+                      <td colspan="2" height="10"><img src="images/pixel_trans.gif"></td>
+                    </tr>
+                    <tr>
+                    <td>&nbsp;</td>
+                      <td align="left"><input type="hidden" value="Track Order Status" name="trackbtn">
+                      <input type="image" id="trackbtn" src="templates/gdnew/images/buttons/english/track-order-btn.jpg" onclick="return trackOrder();"></td>
+                    </tr>  
+                  </tbody></table></td>
+              </tr>
+            </tbody></table>
+          </div>
+        </form>
+        </span> <a href="#" class="close sprited" id="close_x" style="top:10px; right:10px;">close</a>
+  </div>	 
+			<!-- END OF TRACK ORDER-->
 			
 			<div id="sign_up" style="display: none; left: 50%; margin-left: -223px; position: fixed; top: 50%; margin-top: -159px;">  
 			
@@ -513,10 +625,13 @@ return false;
 				               			
             <a href="#" class="close sprited" id="close_x">close</a>
             </div>
-            <!--div class="social-wfix"><img src="../templates/gdnew/http://images.greendust.com/fb.jpg" alt=""  /></div>
+            <!--div class="social-wfix"><img src="../templates/gdnew/http://images.greendust.com/fb.jpg" alt=""  /></div-->
 			
-         	<div style="width:476px; position:absolute; right:130px; top:0px; color:#4F8800; font-family:Arial, Helvetica, sans-serif; font-size:12px;"><marquee scrolldelay="200">
-On the occasion of Diwali, Call Center will remain closed on 13th November 2012</marquee></div>-->
+<!--    	<div style="width:500px; position:absolute; right:330px; top:0px; color:#4F8800; font-family:Arial, Helvetica, sans-serif; font-size:12px;">
+			<marquee scrolldelay="200">
+ Call Center will be closed on 27th March 2013 for Holi.</marquee>
+
+</div>-->
           </div>
         </div>
         <!--Start of Search-->
@@ -552,7 +667,7 @@ On the occasion of Diwali, Call Center will remain closed on 13th November 2012<
 		  
 		  
 			
-          <div class="call-fix">1800-102-3878 / 011-4349 1199 <span>(10am - 7pm 7 days a week)</span> </div>
+          <div class="call-fix">1800-102-3878 / 011-4349 1199 <span>(9am - 7pm 7 days a week)</span> </div>
         </div>
         <!--End of Search-->
         <!--Start of Nav-->
@@ -562,7 +677,8 @@ On the occasion of Diwali, Call Center will remain closed on 13th November 2012<
           </li><li class="prlt">
             <div class="new-icon"></div>
             <a href="#">Sales</a> </li>
-          <li><a href="mobiles-c-104.html">Mobiles</a>
+          <!--li><a href="mobiles-c-104.html">Mobiles</a-->
+           <li><a href="http://www.greendust.com/index2.php?cPath=104">Mobiles</a>
           
           <div class="drop">
           <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -639,6 +755,8 @@ On the occasion of Diwali, Call Center will remain closed on 13th November 2012<
               <li><a href="laptop-accessories-laptop-bags-c-146_150.html">Laptop Bags </a></li>
 			  <li><a href="laptop-accessories-mouse-c-146_162.html">Mouse </a></li>
 			  <li><a href="laptop-accessories-multimedia-speakers-c-146_157.html">Multimedia Speakers </a></li>
+              <li><a href="laptop-accessories-multimedia-speakers-c-135_301.html">Mini Multimedia Speaker  </a></li>
+              <li><a href="laptop-accessories-multimedia-speakers-c-146_284.html">Microphone </a></li>
 			  <li><a href="laptop-accessories-pendrives-c-146_155.html">Pendrives </a></li>
 			  <li><a href="laptop-accessories-webcam-c-146_166.html">Webcam </a></li>
 			  <li><a href="laptop-accessories-other-accessories-c-146_270.html">Other Accessories </a></li>
@@ -694,6 +812,9 @@ On the occasion of Diwali, Call Center will remain closed on 13th November 2012<
     <li><a href="desktop-accessories-headphones-c-135_141.html">Headphones </a></li>
               <li><a href="desktop-accessories-keyboards-c-135_148.html">Keyboard </a></li>
               <li><a href="desktop-accessories-multimedia-speakers-c-135_140.html">Multimedia Speakers </a></li>
+               <li><a href="desktop-accessories-multimedia-speakers-c-135_301.html">Mini Multimedia Speaker  </a></li>
+              <li><a href="desktop-accessories-microphone-c-135_283.html">Microphone </a></li>
+            
               <li><a href="desktop-accessories-mouse-c-135_145.html">Mouse </a></li>
 			  <li><a href="desktop-accessories-webcam-c-135_149.html">Webcam </a></li>
 			  <li><a href="desktop-accessories-networking-accessories-c-135_261.html">Networking Accessories </a></li>
@@ -814,8 +935,8 @@ On the occasion of Diwali, Call Center will remain closed on 13th November 2012<
               <li><a href="home-audio-docking-station-speakers-c-161_276.html">Docking Station Speakers </a></li>	  
     </ul>
               </li>
-			  
-			  <li><a href="safe-security-c-158_274.html">Safe &amp; Security </a></li>
+			  <!--li><a href="projectors-c-68_72.html">Projector</a></li-->
+			  <!--li><a href="safe-security-c-158_274.html">Safe & Security </a></li-->
             
     </ul>
 	
@@ -877,7 +998,11 @@ On the occasion of Diwali, Call Center will remain closed on 13th November 2012<
                
     </ul>
               </li>
-			  <li><a href="microwaves-c-243_244.html">Microwaves </a></li>
+			  <li><a href="microwaves-c-243_244.html">Microwaves &amp; OTG </a>
+			  <ul class="cld">
+			    <li><a href="Microwaves-c-244_305.html">Microwaves</a></li>
+ 			   <li><a href="oven-toaster-griller-c-244_304.html">Oven, Toaster &amp; Griller </a></li>
+			  </ul></li>
 			  <li><a href="direct-cool-refrigerators-c-243_245.html">Direct Cool Refrigerators </a></li>
 			  <li><a href="frost-free-refrigrator-c-243_246.html">Frost Free Refrigerators </a>
               <ul class="cld">
@@ -893,7 +1018,7 @@ On the occasion of Diwali, Call Center will remain closed on 13th November 2012<
     <li><a href="ac-c-243_250.html">AC </a>
               <ul class="cld">
     <li><a href="ac-window-ac-c-250_251.html">Window AC </a></li>
-              <li><a href="ac-split-ac-c-250_252.html">Split AC </a></li>
+              <!--li><a href="ac-split-ac-c-250_252.html">Split AC </a></li-->
                
     </ul>
               </li>
@@ -1230,7 +1355,7 @@ if(document.search_check.keywords.value=='' && (document.search_check.product_li
                    				   
 					<!-- left column ends here -->
                      					<div class="breadcrumb">
-                    <a href="http://www.greendust.com" class="headerNavigation"><input type="image" src="images/brud-icn.jpg"></a> » <a href="http://www.greendust.com/index2.php" class="headerNavigation"></a> » <a href="http://www.greendust.com/pages.php" class="headerNavigation">CDS</a> » <a href="http://www.greendust.com/privacy-policy-pg-12.html" class="headerNavigation">Privacy Policy</a>                    </div>
+                    <a href="http://www.greendust.com" class="headerNavigation"><input type="image" src="images/brud-icn.jpg"></a> » <a href="http://www.greendust.com/index2.php?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5" class="headerNavigation"></a> » <a href="http://www.greendust.com/pages.php?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5" class="headerNavigation">CDS</a> » <a href="http://www.greendust.com/privacy-policy-pg-12.html?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5" class="headerNavigation">Privacy Policy</a>                    </div>
                                                               <!-- RCI [BOM] -global-top : includes/runtime/global/CDS_CDpathSession_global_top.php -->
 <!-- RCI [EOM] -global-top : includes/runtime/global/CDS_CDpathSession_global_top.php -->
 <!-- RCI [BOM] -global-top : includes/runtime/global/CDS_header_banner_global_top.php -->
@@ -1371,7 +1496,7 @@ To protect against the loss, misuse and alteration  of the information under our
   To correct or update any information you have  provided, our sites allow you to do it online. In the event of loss of access  details you can use any of the following options: <p></p>
 <ul type="disc">
   <li>Send an e-mail to <a href="mailto:support@GreenDust.com">support@GreenDust.com</a>  </li>
-  <li>Call the following       telephone number: +91 (11) 49500100</li>
+  <li>Call the following       telephone number: +91 (011) 43491199</li>
 </ul>
 <p><strong><br>
   POLICY UPDATES</strong> <br>
@@ -1455,17 +1580,23 @@ var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directori
    </div>
   </div>
 <div id="footer-wfix">
+
+<div id="live-chat" style="right:-5px;">
+ <script language="javascript" src="http://support.greendust.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=3"></script>
+                                                <script language="javascript" src="http://support.greendust.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;nolink=1&amp;departmentid=3"></script>
+ </div>
+ 
     <div id="footer" class="overflowSet">
     <div class="overflowSet">
       <div class="ftr_sections" style="width:160px;">
         <ul>
         <li><strong>POLICIES</strong></li>
           <li><a href="corporate-offers-pg-18.html">Corporate Offers</a></li>
-          <li><a href="http://www.greendust.com/privacy-policy-pg-12.html">Privacy Policy</a></li>
-  	      <li><a href="http://www.greendust.com/terms-conditions-pg-34.html">Diwali Offers TnC</a></li>
-          <li><a href="http://www.greendust.com/return-policy-pg-2.html">Return Policy</a></li>
+          <li><a href="http://www.greendust.com/privacy-policy-pg-12.html?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5">Privacy Policy</a></li>
+<!--  	      <li><a href="http://www.greendust.com/terms-conditions-pg-34.html?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5">Diwali Offers TnC</a></li>-->
+          <li><a href="http://www.greendust.com/return-policy-pg-2.html?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5">Return Policy</a></li>
           <li><a href="sitemap.xml">Sitemap XML</a></li>
-          <li><a href="http://www.greendust.com/sitemap.php">Sitemap</a></li>
+          <li><a href="http://www.greendust.com/sitemap.php?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5">Sitemap</a></li>
         </ul>
       </div>
       <div class="ftr_sections">
@@ -1474,17 +1605,17 @@ var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directori
           <!--<li><a href="#">Father's Day</a></li>-->
           <!--<li><a href="#">Customer Support</a></li>
           <li><a href="#">Track your Order</a></li>-->
-          <li><a href="http://www.greendust.com/faqs-pg-4.html">FAQs</a></li>
-		   <li><a href="http://www.greendust.com/careers-pg-32.html">Careers</a></li>
-		    <li><a href="http://www.greendust.com/our-stores-franchisee-pg-33.html">Our Store &amp; Franchisee</a></li>
-          <li><a href="http://www.greendust.com/contact-us-pg-10.html">Contact Us </a></li>
+          <li><a href="http://www.greendust.com/faqs-pg-4.html?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5">FAQs</a></li>
+		   <li><a href="http://www.greendust.com/careers-pg-32.html?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5">Careers</a></li>
+		    <li><a href="http://www.greendust.com/our-stores-franchisee-pg-33.html?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5">Our Store &amp; Franchisee</a></li>
+          <li><a href="http://www.greendust.com/contact-us-pg-10.html?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5">Contact Us </a></li>
         </ul>
       </div>
       <div class="ftr_sections">
         <ul>
         <li><strong>CORPORATE </strong></li>
           <li><a href="http://www.reverselogistics.in">About RLC</a></li>
-          <li><a href="http://www.greendust.com/about-greendust-pg-6.html">About Brand GreenDust</a></li>
+          <li><a href="http://www.greendust.com/about-greendust-pg-6.html?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5">About Brand GreenDust</a></li>
           <!--<li><a href="">Management Team</a></li>-->
           <!--<li><a href="">In the News </a></li>-->
         </ul>
@@ -1496,13 +1627,14 @@ var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directori
           <li>Debit Card (Master / Visa)</li>
           <li>Netbanking (28 Banks)</li>
           <li>Cash on Delivery </li>
+    	   <li>Paymate </li>
         </ul>
       </div>
       <div class="ftr_sections">
         <ul>
         <li><strong>PARTNER PROGRAM</strong></li>
-          <li><a href="http://www.greendust.com/vendor_account.php">Partner With Us</a></li>
-          <li><a href="http://www.greendust.com/franchise_log.php">Partner Login </a></li>
+          <li><a href="http://www.greendust.com/vendor_account.php?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5">Partner With Us</a></li>
+          <li><a href="http://www.greendust.com/franchise_log.php?PHPSESSID=2hhcu15ui54gee0ieorvrneqp5">Partner Login </a></li>
           <li><a href="franchise.php">Franchisee Opportunity </a></li>
         </ul>
       </div>
@@ -1518,7 +1650,7 @@ var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directori
         </ul>
       </div>
       </div>
-      <div class="f-txt">GreenDust is India’s premier online shopping site that offers customers and bulk buyers option to purchase unused, branded factory seconds, surplus, overstock, and refurbished products at the lowest prices – guaranteed.  Our products are even cheaper than CSD canteen!  We support the online shopping experience through physical retail stores.  We have over 70 stores and plan to have over 100 within 6 months.  Look for a GreenDust store coming in your neighborhood.  Our product categories keep on changing but we carry electronic gadgets, laptops, mobiles, mobile accessories, Bluetooth headsets, computers, accessories, batteries, laptops, refrigerators, ACs, washing machines, digital cameras, audio, video, LCDs, LEDs, games, mixers, JMG, irons, cook tops, blenders, heaters, personal care products, health care, and many more product categories across well known brands like Sony, Samsung, LG, Videocon, Onida, Panasonic, Phillips, HTC, Palm, Toshiba, Blackberry, Apple, Nokia, Kodak, Sony Ericsson, BenQ, Nikon, Canon, Olympus, Karbonn, Micromax, Whirlpool, Glen, INALSA, and many more. <br>
+      <div class="f-txt">GreenDust is India’s premier online shopping site that offers customers and bulk buyers option to purchase unused, branded factory seconds, surplus, overstock, and refurbished products at the lowest prices – guaranteed.  Our products are even cheaper than CSD canteen!  We support the online shopping experience through physical retail stores.  We have over 100 stores and plan to have over 500 within 6 months.  Look for a GreenDust store coming in your neighborhood.  Our product categories keep on changing but we carry electronic gadgets, laptops, mobiles, mobile accessories, Bluetooth headsets, computers, accessories, batteries, laptops, refrigerators, ACs, washing machines, digital cameras, audio, video, LCDs, LEDs, games, mixers, JMG, irons, cook tops, blenders, heaters, personal care products, health care, and many more product categories across well known brands like Sony, Samsung, LG, Videocon, Onida, Panasonic, Phillips, HTC, Palm, Toshiba, Blackberry, Apple, Nokia, Kodak, Sony Ericsson, BenQ, Nikon, Canon, Olympus, Karbonn, Micromax, Whirlpool, Glen, INALSA, and many more. <br>
         <br>
         <div class="add-bot">1800 102 3878 / 011 4349 1199<br>
           <a href="mailto:support@greendust.com">support@greendust.com</a><br>
@@ -1602,12 +1734,7 @@ text-decoration: none;
     </div>
 </div>
   <!--back to top button-->
- <div id="live-chat">
- 
- <a href="javascript:void(0);" onclick="PopupCenter('http://support.greendust.com/visitor/index.php?_m=livesupport&amp;_a=startclientchat&amp;sessionid=44d6bbecbf81639f03c0af1a3d8d3a03&amp;proactive=0&amp;departmentid=3&amp;randno=39&amp;fullname=&amp;email=', 'myPop1',400,400);"> <img src="http://www.greendust.com/templates/gdnew/images/live-chat-icon.jpg" alt=""> </a>
- </div>
- 
-  <div id="backtoTop"><a><img src="http://www.greendust.com/templates/gdnew/images/backtoTop.jpg" alt="Back to Top"></a></div>
+   <div id="backtoTop"><a><img src="http://www.greendust.com/templates/gdnew/images/backtoTop.jpg" alt="Back to Top"></a></div>
   </div>
 
 <script type="text/javascript">
