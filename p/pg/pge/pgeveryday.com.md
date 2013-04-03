@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgeveryday.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922235914id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml%3Futm_source%3Deds%26utm_medium%3Dsite%26utm_campaign%3DOct2012) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgeveryday.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403105936id_/http%3A//www.pg.com/privacy/english/privacy_notice.shtml) for the most accurate reproduction.*
 
 # P&G Privacy Notice
 
