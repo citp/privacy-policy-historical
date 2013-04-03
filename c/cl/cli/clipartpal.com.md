@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipartpal.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123094749id_/http%3A//www.clipartpal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipartpal.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403232145id_/http%3A//www.clipartpal.com/privacy.html) for the most accurate reproduction.*
 
 # ClipartPal - Privacy Policy
 
