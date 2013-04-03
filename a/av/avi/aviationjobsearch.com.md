@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviationjobsearch.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203045934id_/http%3A//www.aviationjobsearch.com/staticpages/40/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviationjobsearch.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404013716id_/http%3A//www.aviationjobsearch.com/staticpages/40/privacy-policy) for the most accurate reproduction.*
 
 # Aviationjobsearch.com Privacy Policy
 
