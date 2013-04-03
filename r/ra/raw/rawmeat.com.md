@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawmeat.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012175919id_/http%3A//www.rawmeat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawmeat.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403093031id_/http%3A//www.rawmeat.com/privacy.php) for the most accurate reproduction.*
 
 # RawMeat.com - Privacy Policy
 
@@ -30,4 +30,4 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 
 Consumers can have this information corrected by contacting us via the link below.
 
-If you feel that this site is not following its stated information policy, you may contact us [here](https://web.archive.org/web/20121012175919id_/http%3A//www.rawmeat.com/contact.php).
+If you feel that this site is not following its stated information policy, you may contact us [here](https://web.archive.org/web/20130403093031id_/http%3A//www.rawmeat.com/contact.php).
