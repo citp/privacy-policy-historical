@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jotform.me privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225061309id_/http%3A//www.jotform.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jotform.me privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403144253id_/http%3A//jotform.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
