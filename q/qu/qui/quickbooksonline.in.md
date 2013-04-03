@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the quickbooksonline.in privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227073236id_/http%3A//quickbooksonline.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbooksonline.in privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403185741id_/http%3A//quickbooksonline.in/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Intuit QuickBooks® Online India
 
-## Intuit Small Business  
-Privacy Statement
+Intuit Small Business Privacy Statement
 
 At Intuit, we value our relationship with you and place the highest importance on respecting and protecting your privacy. We want you to feel comfortable and confident when using our products and services and with entrusting your personal, company and financial information to us. The full Intuit Small Business Privacy Statement can be found by going to <http://smallbusiness.intuit.com/small-business/privacy/#privacyStatement>.
 
