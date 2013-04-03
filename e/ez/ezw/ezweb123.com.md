@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezweb123.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192403id_/http%3A//www.ezweb123.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezweb123.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403073741id_/http%3A//ezweb123.com/privacy.php) for the most accurate reproduction.*
 
 # ezweb123.com – Privacy
 
