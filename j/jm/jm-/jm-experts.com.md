@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jm-experts.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005140129id_/http%3A//www.jm-experts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jm-experts.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403092940id_/http%3A//www.jm-experts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -14,4 +14,4 @@ Cookies
 Cookies are a technology which can be used to provide you with tailored information from a website. A cookie is an element of data that a Web site can send to your browser, which may then be stored on your system. The Joomla Experts do utilize cookie technology.
 
 Email policy  
-The joomla Experts does not collect email address for onsolicitated communications. If you have inquired about our services, we will not use, distribute or sell your email address or contact information. If you have questions about this policy, please email us at [info@jm-experts.com](mailto:info@jm-experts.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it . If you believe you received an email from us that is in violation of this policy, please report it to [info@jm-experts.com](mailto:info@jm-experts.com). 
+The joomla Experts does not collect email address for onsolicitated communications. If you have inquired about our services, we will not use, distribute or sell your email address or contact information. If you have questions about this policy, please email us at [info@jm-experts.com](mailto:info@jm-experts.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it . If you believe you received an email from us that is in violation of this policy, please report it to [info@jm-experts.com](mailto:info@jm-experts.com).
