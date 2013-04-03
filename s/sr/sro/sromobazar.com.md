@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sromobazar.com privacy policy that was archived on 2012-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120717052406id_/http%3A//www.sromobazar.com/worldwide-job-and-education-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sromobazar.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403195919id_/http%3A//www.sromobazar.com/worldwide-job-and-education-privacy-policy.php) for the most accurate reproduction.*
 
 # Sromobazar.Com :: Privacy Policy
 
-This is the Privacy Policy governing your use of the Sromobazar ([www.sromobazar.com](https://web.archive.org/web/20120717052406id_/http%3A//www.sromobazar.com/undefined/)) site. By using this site, you consent to our Privacy Policy explained below. All terms were not defined in this document that is already mentioned in “Terms of Use Agreement” between you and Sromobazar which you have to accept during the use of this site.
+This is the Privacy Policy governing your use of the Sromobazar ([www.sromobazar.com](https://web.archive.org/web/20130403195919id_/http%3A//www.sromobazar.com/undefined/)) site. By using this site, you consent to our Privacy Policy explained below. All terms were not defined in this document that is already mentioned in “Terms of Use Agreement” between you and Sromobazar which you have to accept during the use of this site.
 
 Your privacy is extremely important at Sromobazar. We have developed this policy to ensure that your privacy is well-secured during your use at Sromobazar site.
 
