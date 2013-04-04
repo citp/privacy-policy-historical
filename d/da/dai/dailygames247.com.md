@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailygames247.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118132229id_/http%3A//www.dailygames247.com/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygames247.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404141402id_/http%3A//www.dailygames247.com/page/2.html) for the most accurate reproduction.*
 
 # Daily Games - Play Free Online Flash Games at DailyGames247.com - Privacy Policy
 
