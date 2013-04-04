@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carnation.in privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922084305id_/http%3A//www.carnation.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnation.in privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404064632id_/http%3A//www.carnation.in/privacy-policy.html) for the most accurate reproduction.*
 
-# View Content: Carnation Auto
+# 
 
                                                            
 
