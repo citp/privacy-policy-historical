@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsc.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114210321id_/http%3A//www.qsc.com/registration/privacy/website_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsc.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404071552id_/http%3A//qsc.com/registration/privacy/website_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
