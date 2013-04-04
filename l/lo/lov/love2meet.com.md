@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the love2meet.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101131300id_/http%3A//uk.love2meet.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love2meet.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404183827id_/http%3A//uk.love2meet.com/help/privacy.cfm) for the most accurate reproduction.*
 
-# Love2Meet :: Privacy Policy
+# Love2Meet :: Love2Meet Member Privacy Policy
 
-## Love2Meet Member Privacy Policy
-
-_Last updated on Wednesday 31st October, 2012_
+_Last updated on Wednesday 16th January, 2013_
 
 ### Proprietor
 
@@ -41,7 +39,7 @@ Global Personals will never collect sensitive information about you without your
 
 ### Associate Websites
 
-The Service is offered through and accessible through a number of other web sites in addition to the Website. By registering with the Website and submitting data to or through the Website you acknowledge and accept that all data that you post to the Website for access by members of the Website may be searchable and available to users of the Service who access it via different web sites from the Website.
+The Service is offered through and accessible through a number of other web sites in addition to the Website. By registering with the Website and submitting data to or through the Website you acknowledge and accept that all data that you post to the Website for access by members of the Website may be searchable and available to users of the Service who access it via different web sites from the Website. These websites may include all those operated by Global Personals or Woowise in accordance with the classifications described below.
 
 Global Personals makes an effort to ensure that members of the Service are not connected with other members that may be inappropriate and therefore apply various classifications to the various web sites that provide access to the Service. By registering with the site you acknowledge and accept that Global Personals may apply certain classifications to your profile due to your accessing the Service via the Website and may use such classifications to restrict:
 
