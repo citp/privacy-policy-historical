@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228012110id_/http%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404111009id_/http%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.*
 
 # HotelsOne.com - Privacy statement
 
@@ -23,7 +23,7 @@ If users have questions or concerns regarding this statement, they should contac
 
 **Member Registration**
 
-When you become a HotelsOne.com member you provide your name, address, telephone number, fax number, email address, a unique login name, password, and password validation. This information is collected on the registration form for several reasons including: (1) personal identification; (2) to complete hotel, air and car reservations; (3) to allow us to contact you for customer service, if necessary; (4) to customize the content of our website to meet your specific needs; and (5) to make product improvements to HotelsOne.com. In addition, your email address is collected to send you an email message confirming your new member registration and each reservation you transact online. If you provide a fax number, you may receive faxes confirming your new member registration and each reservation that you transact online as well. As a member you will occasionally receive updates from us about special offers, new HotelsOne.com services, and other noteworthy news items. However, you may always decline to receive these email and fax messages. Please see our Opt Out policy described below.
+When you become a HotelsOne.com member you provide your name, address, telephone number, fax number, email address, a unique login name, password, and password validation. This information is collected on the registration form for several reasons including: (1) personal identification; (2) to complete hotel reservations; (3) to allow us to contact you for customer service, if necessary; (4) to customize the content of our website to meet your specific needs; and (5) to make product improvements to HotelsOne.com. In addition, your email address is collected to send you an email message confirming your new member registration and each reservation you transact online. If you provide a fax number, you may receive faxes confirming your new member registration and each reservation that you transact online as well. As a member you will occasionally receive updates from us about special offers, new HotelsOne.com services, and other noteworthy news items. However, you may always decline to receive these email and fax messages. Please see our Opt Out policy described below.
 
 **Member Profile**
 
@@ -87,7 +87,7 @@ If for any reason you do not wish to have this technology enabled while browsing
 
 **Suppliers**
 
-We provide information about travel either reserved or purchased on HotelsOne.com to the suppliers whose will fulfill your travel reservation. Although we offer travel products from hotel, airline, car rental and other suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on HotelsOne.com. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation.
+We provide information about travel either reserved or purchased on HotelsOne.com to the suppliers whose will fulfill your travel reservation. Although we offer travel products from hotel and other suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on HotelsOne.com. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation.
 
 We will occasionally share aggregated information with our service providers. This information does not contain any personally identifiable information and is used to develop featured programs and content that will be of interest to our members and website visitors.
 
@@ -149,4 +149,4 @@ Dallas, Texas 75231
 USA  
 
 
-This Privacy Statement is effective as of July 13, 2004.
+This Privacy Statement is effective as of July 13, 2010.
