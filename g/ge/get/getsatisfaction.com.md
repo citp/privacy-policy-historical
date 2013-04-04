@@ -1,125 +1,208 @@
-> *The following text is extracted and transformed from the getsatisfaction.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213064835id_/https%3A//getsatisfaction.com/corp/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsatisfaction.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404065445id_/https%3A//getsatisfaction.com/corp/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get Satisfaction
 
-## 1\. WHAT THIS PRIVACY POLICY COVERS
+**Highlights**
 
-**1.1** This Privacy Policy explains how Get Satisfaction, Inc. ("we", "us", "our" or "Get Satisfaction") collects, uses and shares your "Personal Information" - information that identifies, relates to, describes or is capable of being associated with you as a particular individual, such as your name, address, email address or telephone number - and other data through your use of any of Get Satisfaction's Web sites, services, application programming interfaces ("APIs") or software (collectively, the "Get Satisfaction Service").
+  * When you register to participate in a community, we share your email address with our customer that established that community.  
 
-**1.2** This Privacy Policy does not apply to the practices of companies that Get Satisfaction does not own or control or to people that Get Satisfaction does not employ or manage.
+  * We may share your personal information only with other third parties who are our service providers, and only as necessary for them to provide those services. Our service providers may not use this information for any other purpose.  
 
-**1.3** Your use of the Get Satisfaction Service is subject to this Privacy Policy in effect at the time of your use. Get Satisfaction reserves the right to update and change this Privacy Policy from time to time without notice or acceptance by you, so please check this page frequently for updates and changes. However, changes made to this Privacy Policy will not apply to you to the extent that (i) the changes concern matters which are the subject of an actual dispute between you and Get Satisfaction as of the date the changes take effect and (ii) Get Satisfaction has actual notice of the dispute as of the date the changes take effect.
 
-## 2\. COLLECTION OF PERSONAL INFORMATION
+|  | 
 
-**2.1** When you register for the Get Satisfaction Service, we ask for information such as your name, company name or affiliation and email address.
+  * The information you post in a community is publicly available and searchable. If you post in a private community, that information is shared with all registered users of that community.  
 
-**2.2** Get Satisfaction collects the email addresses of people who communicate with Get Satisfaction via email, create accounts or post topics.
+  * If you would like to permanently delete your account, please email us at [support@getsatisfaction.com ](mailto:support@getsatisfaction.com)
+  * You can manage your email notifications and other profile information [here](http://getsatisfaction.com/me).  
 
-**2.3** Get Satisfaction may also collect Personal Information volunteered by users (such as through posts, survey information and/or site registrations). When you post content on or through the Get Satisfaction Service, please keep in mind that any Personal Information you post may be viewed by others.
 
-**2.4** Get Satisfaction may collect billing and account information for credit cards, payment cards or other payment systems from clients of paid versions of the Get Satisfaction Service and share this information with Get Satisfaction's billing and payment processor(s). Get Satisfaction does not store credit card or payment card numbers after they have been forwarded to its billing and payment processor(s).
+  
+---|---|---  
+  
+[](https://privacy.truste.com/privacy-seal/Get-Satisfaction/validation?rid=84dddc57-f72c-4500-baf0-5759a9dc4f4c "TRUSTe European Safe Harbor certification")
 
-**2.5** Get Satisfaction may collect information about your transactions with us and/or with our business partners. This information might include information necessary to process payments, such as billing information and your credit card number.
+**Introduction**
 
-**2.6** Get Satisfaction may receive information about you from our business partners with which you have an account, service relationship or transaction history.
+Get Satisfaction provides a customer engagement platform that enables companies to build better relationships with their customers.  The communities powered by Get Satisfaction enable companies to create a public space for conversations with and among their customers.  We believe that creating an environment of trust is important to open, honest communications. 
 
-**2.7** Get Satisfaction may obtain information about you from service providers engaged in the business of marketing data.
+Get Satisfaction has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and its practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.
 
-**2.8** Get Satisfaction may receive Personal Information from third parties when you authorize such third parties to authenticate or identify you to Get Satisfaction or sign in to the Get Satisfaction Service using credentials from a third party service.
+TRUSTe’s certification applies to the Get Satisfaction Service where Get Satisfaction is the data controller while on www.getsatisfaction.com and does not cover information that may be collected through downloadable software or our mobile application.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [legal@getsatisfaction.com](mailto:legal@getsatisfaction.com).   If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-## 3\. USE OF PERSONAL INFORMATION
+Get Satisfaction complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.  Get Satisfaction has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Get Satisfaction’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-**3.1** Get Satisfaction uses Personal Information it collects for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, analytics and reporting.
+The use of our Services is subject to our [Terms of Service](https://getsatisfaction.com/corp/website/terms-of-service) and this Privacy Policy.  When you use our Services, you consent to our use and disclosure of your information subject to these terms.  Regardless of where you live or where you provide information to us, you authorize Get Satisfaction to use your information worldwide and to our exporting your information to the United States.  If you do not want to accept the terms of this Privacy Policy and those in the Terms of Service, you should not use or access our Services.
 
-**3.2** To receive optional email messages such as newsletters, you will be required to provide us with your email address. In addition to these optional email messages, Get Satisfaction may contact you via any email address you provide to us with transactional or relationship messages such as account status messages, security updates or notifications of changes in the terms of your account or the Get Satisfaction Service. These types of transactional or relationship email messages are not optional.
 
-**3.3** Get Satisfaction may automatically receive and record information on our server logs from your browser, including your IP address, cookies and the pages you request. This information may be used for various purposes, including to:
 
-**3.3.1** Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
 
-**3.3.2** Estimate the total number of users visiting the Get Satisfaction Service from specific geographical regions.
+**Definitions**
 
-**3.3.3** Help determine which users have access privileges to certain content, services or resources that we offer.
+We have created this Privacy Policy to let you know how we collect, use, and share information when you use our website, software, or other services (“Services”).  We are committed to keeping you informed about how we use your information.
 
-**3.3.4** Estimate and report our total audience size and traffic.
+In this Privacy Policy, we refer to the companies that establish and manage the community as our “Customers,” and we refer to the individuals who access or participate in these communities as “Users.”
 
-**3.3.5** Conduct research to improve the Get Satisfaction Service.
+Get Satisfaction communities may be moderated by our Customers that have established the community or by third parties.  Get Satisfaction communities are often embedded in our Customers’ websites or in third party sites such as Facebook pages, and may be controlled by Customers or other third parties.  Our Services also contain links to third party sites that are not owned or controlled by Get Satisfaction.  Those websites and third party sites may have other terms and privacy policies that govern their use that are different from these terms.  Please be aware that we are not responsible for the privacy practices of third party sites.  We encourage you to be aware who controls the sites that you visit and to read the privacy statements of all sites that collects personally identifiable information. 
 
-**3.3.6** Help combat fraud and abuse.
 
-**3.3.7** Provide analytics and reporting.
 
-**3.4** Get Satisfaction may combine information about you in our possession with information we obtain from business partners or others.
 
-## 4\. SHARING OF PERSONAL INFORMATION
+**User Registration**
 
-**4.1** Get Satisfaction does not share Personal Information collected from your use of the Get Satisfaction Service with others, except as described in this Privacy Policy.
+When you register for our Services, we collect your email address and we ask you to create a nickname to identify yourself.  We use this information to create a registration profile for each User.  You must register in order to create a topic or reply to an existing topic, but you may view information in public communities without registration.
 
-**4.2** Get Satisfaction may share your Personal Information when you have authorized Get Satisfaction to do so, when it is necessary to complete a transaction, to operate or improve the Get Satisfaction Service or to take some action that you have asked us to do.
+We also support a way to log in to our Services through other social media services such as Facebook and Google.  When you log in this way, we ask you to authorize the social media service to share certain personal information with us.
 
-**4.3** Get Satisfaction will share your email address with companies that are clients of the Get Satisfaction Service when you authorize Get Satisfaction to do so. How such companies use your email address is subject to those companies' own privacy policies, not this Privacy Policy.
+In some cases, our Customers have implemented a Single Sign On registration process where the login credentials you use with the Customer’s service are shared with Get Satisfaction.
 
-**4.4** Get Satisfaction may share Personal Information under the following circumstances:
+Once you have registered, you may also voluntarily provide additional information in connection with your account, such as your name and other profile information like a tagline, Twitter handle, location, or blog address.  We always display your nickname and certain profile information along with the content you contribute to the community.  You may change the information in your profile at any time, but it is always publicly accessible worldwide. 
 
-**4.4.1** In the course of operating our business, it may be necessary or appropriate for us to provide access to your Personal Information to others such as our service providers, contractors and select vendors so that we can operate the Get Satisfaction Service and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this Privacy Policy and that limit others' use or disclosure of this Personal Information.
 
-**4.4.2** We may share your Personal Information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights, to defend against legal claims or in such circumstances where, in our judgment, disclosure is required or appropriate.
 
-**4.4.3** We may share your Personal Information if we believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of service or as otherwise required by law.
 
-**4.4.4** As we continue to develop our business, we may sell all or part of our business. In such transactions, Personal Information collected from users is generally one of the business assets that will be transferred. The transferred Personal Information will remain subject to this Privacy Policy or subsequent policies to which you have consented.
+**Collecting Information on our Website**
 
-## 5\. COOKIES
+You may also provide contact information, including your name and email address, when you interact with our website, such as by signing up for our newsletter, applying for a job, contacting sales, or initiating other transactions.
 
-**5.1** A "cookie" is a small amount of data, which typically includes an anonymous unique identifier, that is sent to your browser and stored on your computer's hard drive when you view a Web page, an advertisement, a video or other types of content. You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. If you reject all cookies, or specifically reject cookies set by Get Satisfaction, you may not be able to take full advantage of features of the Get Satisfaction Service that require you to be signed in to your account or otherwise identify yourself.
+When you are on our website, we may collect personal information from you, including contact information such as your name, email address, mailing address, and phone number.   We may also collect information about your business such as company name, company size, and business type. We may use this information for a variety of purposes:
 
-**5.2** Get Satisfaction uses cookies for a number of purposes, including to:
+    * Fulfilling your order
+    * Sending you an order confirmation
+    * Assessing the needs of your business to determine suitable products
+    * Sending you requested product or service information
+    * Sending you a newsletter or other information
+    * Sending you marketing communications
+    * Responding to your questions and concerns
+    * Improving our website and other marketing efforts
+    * Conducting research and analysis
+    * Enabling you to post your resume, search job postings, and contact us or be contacted by us
 
-**5.2.1** Identify you as an account holder.
+Our website includes certain social media features, such as the Facebook Like button and widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address and the page you are visiting on our site, and they may set a cookie to enable these features to function properly.  Social media features and widgets are either hosted by a third party or hosted directly on our Site.  Your interactions with these features are governed by the privacy policy of the company providing that feature, not this privacy policy.
 
-**5.2.2** Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+We display success stories of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you may contact us at [legal@getsatisfaction.com](mailto:legal@getsatisfaction.com).
 
-**5.2.3** Keep track of preferences you specify while you are using Get Satisfaction's Sites, Services and Software.
 
-**5.2.4** Estimate and report our total audience size and traffic.
 
-**5.2.5** Conduct research to improve the Get Satisfaction Service.
 
-**5.3** Get Satisfaction's vendors, service providers and business partners may set and access their own cookies on and through the Get Satisfaction Service. How other companies use their own cookies and the information they gather is subject to those companies' own privacy policies, not this Privacy Policy.
+**Participation in a Community**
 
-## 6\. INFORMATION RELATING TO CHILDREN
+The nature of our Services is that they provide a public space to engage with other individuals.  Therefore, the information you post in a community is public and is shared with everyone, which means that it may be displayed worldwide, indexed by search engines, archived by the Customer who created the community or other third parties, and appear on other web sites.
 
-**6.1** We do not knowingly collect or solicit Personal Information from children under the age of 13 or knowingly allow children under the age of 13 to register for the Get Satisfaction Service. If you are under 13, do not register or attempt to register for any of the Get Satisfaction Service or send any information about yourself to us. No one under the age of 13 may provide any Personal Information to, on or through the Get Satisfaction Service.
+This includes the content you post as well as information about your content, such as when you posted it and whether others have responded to it,.  All of this information may be accessible to search engines and other third party services, as well as other applications that the customer who establishes the community may use.
 
-**6.2** If we learn that we have collected or been sent Personal Information from a child under the age of 13, we will delete that Personal Information as soon as reasonably practical. If you believe that we might have collected or been sent Personal Information from a child under the age of 13, please contact our Support team.
+We believe that it is important to the integrity of a conversation to maintain the entire conversation thread, so we do not permit you to delete a post once you have submitted it.  In certain circumstances, such as if your post has not been commented on, it may be possible to alter or delete it, but since this is not always available, we ask that you carefully consider what you post before submitting it.  Instructions for deleting information you have submitted can be found in the section entitled “Modifying or Deleting your Information and Account Settings.”
 
-## 7\. DATA WE COLLECT OTHER THAN PERSONAL INFORMATION
+Although we recommend that our Customers and Users adhere to our Community Guidelines, our Customers are responsible for managing their communities.  Get Satisfaction is not responsible for any misuse or abuse that may be carried out by our Customers or Users, including misuse of information that you volunteer in the course of participating at the site.  However, we will work with our Customers to address issues we become aware of, so if you find offensive material or think that someone is misusing your identity, please contact us at [legal@getsatisfaction.com](mailto:legal@getsatisfaction.com).
 
-**7.1** In addition to Personal Information, we collect data on your use and interaction with the Get Satisfaction Service. Data which we obtain about you, other than Personal Information, is the exclusive property of Get Satisfaction and may be used by Get Satisfaction in any manner permitted by applicable laws.
 
-## 8\. RETENTION OF PERSONAL INFORMATION AND OTHER DATA
 
-**8.1** Get Satisfaction reserves the right to retain your Personal Information, other data collected about you and content you submit to or through the Get Satisfaction Service to the extent required by applicable laws, rules and regulations and as reasonably necessary to protect our legal interests and operate our business.
 
-## 9\. DATA TRANSMISSION AND STORAGE
+**Sharing and Disclosure**
 
-**9.1** No data transmission over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
+By registering for or joining a community, you agree to allow us to share your email address with the Customer who established the community.  In some cases, you may have shared your email address with that Customer already, such as by registering for a service offered by that Customer.  That Customer’s use of your email address is subject to its privacy policy, not this Privacy Policy.
 
-**9.2** Get Satisfaction uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Get Satisfaction Service. Where practical, we seek to obtain confidentiality agreements that are consistent with this Privacy Policy and that limit others' use or disclosure of your Personal Information.
+Notwithstanding anything to the contrary in this Policy, we may preserve, use, and disclose your information if we believe that it is reasonably necessary to investigate, prevent, or take action regarding alleged illegal activities or situations involving potential threats to the physical safety of any person; to investigate violations of our various terms of service; to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect our rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information.
 
-## 10\. INTERNATIONAL USE
+Get Satisfaction may assign or transfer this Privacy Policy, and your User account and related information and data, in the event Get Satisfaction is involved in a bankruptcy, merger, acquisition, reorganization, or sale of assets.
 
-**10.1** The Get Satisfaction Service is hosted in the United States. If you use the Get Satisfaction Service from outside of the United States, you acknowledge that you are voluntarily transferring information (potentially including Personal Information) to the United States and agree that Get Satisfaction's collection, use, storage and sharing of your information is exclusively subject to the laws of the United States, not of the jurisdiction in which you are located.
+In addition, we may share or disclose your non-private, aggregated or otherwise non-personal information, such as your public user profile information, information you post in a community, the topics you follow, or the Users who follow topics you create.
 
-## 11\. QUESTIONS
 
-**11.1** Any questions about this Privacy Policy should be addressed to [legal@getsatisfaction.com](mailto:legal@getsatisfaction.com) or by mail to
 
-_Get Satisfaction, Inc.  
-400 Second Street, Suite 400  
-San Francisco, CA 94107_
 
-Last updated September 13, 2010.
+**Notifications**
 
-Copyright © 2010 Get Satisfaction, Inc. All rights reserved.
+We may use your contact information, including your email address, and other profile information to send you notifications, such as an email to let you know that another user has commented on a topic you have created in a community, to notify you of changes to this Privacy Policy or our Terms of Service, to send you information about our Services, or to market to you.  Our emails will include a link permitting you to unsubscribe from such email communications.
+
+You can manage your profile information to unsubscribe from notifications and to manage the types of information you receive directly from Get Satisfaction.  You may also unsubscribe by following the instructions contained within the notification. If you are a registered user, you may manage your notifications in your profile by logging into your account settings [here](http://getsatisfaction.com/me).
+
+
+
+
+**Cookies**
+
+Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services.  A cookie is a small data file that is transferred to your device.  We use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most devices automatically accept cookies. You can instruct your device, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not wish to have cookies enabled, please disable them in your browser settings.  However, some Services may not function properly if you disable cookies. For information about how to delete cookies for your particular browser [click here](http://www.wikihow.com/Clear-Your-Browser's-Cookies).
+
+A complete list of the cookies used by the Services is [here](http://getsatisfaction.com/corp/website/cookies).
+
+
+
+
+**Web Beacons / Gifs**
+
+We employ, or our third party analytics and tracking vendors employ, a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), which help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We may tie the information gathered by clear gifs to our customers’ personally identifiable information.   The use of cookies and clear gifs by third parties is not covered by this privacy policy.
+
+
+
+
+**Behavioral Targeting**
+
+We partner with third parties to manage our advertising on other sites.  These third parties may use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests.
+
+
+
+
+**Log Data**
+
+Our servers automatically record information (" **Log Data** ") created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, or visit a third-party website that includes Get Satisfaction content. We use Log Data to measure, customize, and improve our Services. We retain this Log Data for one month.
+
+
+
+
+**Third Party Service Providers**
+
+Get Satisfaction uses a variety of third-party service providers to help develop, provide, and improve our Services, such as hosting our platform, providing login functionality, providing analytics functionality, or supporting integration with third party applications.  We may share your information with these third parties, and these third parties may collect information from you while you are using the Services, including information sent by your browser as part of a web page request, such as cookies or your IP address.  We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions.
+
+
+
+
+**Security and Information Protection**
+
+We work hard to protect the information submitted by our Customers and Users from unauthorized access, alteration, disclosure or destruction.
+
+    * We encrypt many our Services using SSL, including our login pages. 
+    * We require the use of strong passwords.
+    * We review our information collection, storage and processing practices, including physical security measures, to help prevent unauthorized access.
+
+Since the transmission of information over the Internet cannot be guaranteed to be completely secure, we cannot warrant the security of any information you transmit to us, and you do so at your own risk.  Also, we are not responsible for the circumvention of any privacy settings or security measures contained in our Services.
+
+
+
+
+**Modifying or Deleting Your Information and Account Settings**
+
+If you are a registered user, you may manage the information in your profile by logging into your account settings [here](http://getsatisfaction.com/me).  If you would like to permanently delete your Get Satisfaction account or request deletion of any personally identifiable information, email us at [support@getsatisfaction](mailto:support@getsatisfaction) and we will update or deactivate your account.  We will respond to your request within 30 days.
+
+Any posts you've made in the community before the date of termination will be retained.  You understand and acknowledge that copies of information you submit may remain viewable in cached and archived pages or if other Users have copied or stored your content.
+
+
+
+
+**Our Policy Towards Children**
+
+Our Services are not directed to persons under 13 and we do not knowingly collect personal information from children under 13.  If you become aware that a child has provided us with personal information, please contact us at [legal@getsatisfaction.com](mailto:legal@getsatisfaction.com). If we become aware that a child under 13 has provided us with personal information, we will take steps to remove such information and terminate the child's account.
+
+
+
+
+**Changes to this Privacy Policy**
+
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be available here: <http://getsatisfaction.com/corp/website/privacy-policy>.  If we make a change to this policy that is material, we will notify you via an email to the email address associated with your account or by posting a prominent notice on our website at the time that the change becomes effective.  We may also notify you by posting in [our customer community](http://getsatisfaction.com/getsatisfaction) to our support community or by sending a message from our [Get Satisfaction Twitter account](https://twitter.com/getsatisfaction). By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+
+
+
+
+If you have any questions or comments, please email us at [legal@getsatisfaction.com](mailto:legal@getsatisfaction.com) or come to our community at <https://getsatisfaction.com/getsatisfaction>.
+
+[Follow us on Twitter to get updates](https://twitter.com/getsatisfaction)
+
+Here is our physical mailing address:
+
+Get Satisfaction, Inc.  
+1550 Bryant Street, Suite 350  
+San Francisco, California 94103
+
+**Effective March 25, 2013**
+
+**[A link to our old privacy policy can be[found here](http://getsatisfaction.com/corp/website/privacy-policy-old.php)]**
