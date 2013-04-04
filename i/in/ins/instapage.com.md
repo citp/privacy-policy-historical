@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instapage.com privacy policy that was archived on 2012-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121129211622id_/http%3A//www.instapage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instapage.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404052359id_/http%3A//www.instapage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | InstaPageInstaPage – Landing Page Marketing Made Simple
+# Privacy Policy | InstaPageSimple Landing Page Design | InstaPage
 
 At INSTAPAGE, we value the trust you place in us and take your privacy seriously. We want to let you know what information we collect when you use our products and services, why we collect it and how we use it to improve your experience. Please read the following to learn more about our privacy policy. By visiting the [INSTAPAGE website](http://www.instapage.com/ "InstaPage Website"), you are accepting the practices outlined in this Privacy Policy.   
 This Privacy Policy covers INSTAPAGE's treatment of personal information that INSTAPAGE gathers when you are on the INSTAPAGE website and when you use INSTAPAGE services. This policy does not apply to the practices of companies that INSTAPAGE does not own or control, or to people that INSTAPAGE does not employ or manage. 
