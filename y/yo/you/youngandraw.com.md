@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the youngandraw.com privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021133224id_/http%3A//www.youngandraw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngandraw.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404130816id_/http%3A//www.youngandraw.com/privacy-policy) for the most accurate reproduction.*
 
-# Young and Raw | Privacy Policy
+# Privacy Policy | Young and Raw
 
 PLEASE READ THE TERMS OF THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE OR ANY OF ITS SERVICES.
 
