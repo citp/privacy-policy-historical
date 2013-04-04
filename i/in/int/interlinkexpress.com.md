@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006082744id_/http%3A//www.interlinkexpress.com/content/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interlinkexpress.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404153935id_/http%3A//www.interlinkexpress.com/content/privacy.jsp) for the most accurate reproduction.*
 
 # Interlink Express - Privacy & Cookie Policy
 
