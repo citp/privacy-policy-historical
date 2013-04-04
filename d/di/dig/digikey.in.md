@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digikey.in privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227235100id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.in privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404214658id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | DigiKey
 
@@ -52,7 +52,7 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 
 > Digi-Key's site is equipped with Secure Sockets Layer (SSL) technology. SSL protocol was developed by Netscape Communications Corporation to enable encrypted, authenticated communications across the Internet. SSL uses public key encryption mechanisms, one of the strongest encryption methods available to protect data sent over the Internet. SSL provides 3 important services, all using public key techniques: Privacy, Authentication, and Message Integrity. Customer information sent is not discernible to anyone except the recipient.
 > 
-> Browsers that support the SSL encryption technology are called _secure browsers_. **Online orders to Digi-Key must be placed from a secure browser.** Most Netscape Navigator (version 1.2 and later) and Microsoft Internet Explorer browsers (version 3.0 and later) are secure. Your browser will automatically enter the secure mode when you make purchases.
+> Browsers that support the SSL encryption technology are called _secure browsers_. **Online orders to Digi-Key must be placed from a secure browser.** Your browser will automatically enter the secure mode when you make purchases.
 > 
 > If you **do not** have a _secure browser_ and would like to place orders, please review [How To Order](http://dkc1.digikey.com/us/en/mkt/Order.html) for alternative ordering methods. Digi-Key is not liable or responsible for any loss or damage resulting from the use of a browser that is not secure.
 > 
