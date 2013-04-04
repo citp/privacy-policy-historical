@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106003311id_/http%3A//pbskids.org/privacy/index.html%3Fcampaign%3Dfkhp_prv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404164526id_/http%3A//pbskids.org/privacy/index.html%3Fcampaign%3Dfkhp_prv) for the most accurate reproduction.*
 
 # PBS KIDS . Privacy Policy
 
@@ -47,4 +47,4 @@ If you have any questions or concerns regarding this policy, send us an e-mail a
 
 You may also contact us at 2100 Crystal Drive, Arlington, VA 22202 (703 739-5127). 
 
-Please read the [Terms of Use](https://web.archive.org/web/20121106003311id_/http%3A//pbskids.org/privacy/termsofuse.html) for Terms and Conditions for using this site. Read the [PBS Online Privacy Policy](http://www.pbs.org/aboutsite/aboutsite_privacy.html "PBS Online Privacy Policy") for the sites hosted on pbs.org.
+Please read the [Terms of Use](https://web.archive.org/web/20130404164526id_/http%3A//pbskids.org/privacy/termsofuse.html) for Terms and Conditions for using this site. Read the [PBS Online Privacy Policy](http://www.pbs.org/aboutsite/aboutsite_privacy.html "PBS Online Privacy Policy") for the sites hosted on pbs.org.
