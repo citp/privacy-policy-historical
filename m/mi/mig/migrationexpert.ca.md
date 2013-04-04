@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the migrationexpert.ca privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924032007id_/http%3A//www.migrationexpert.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migrationexpert.ca privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404072144id_/http%3A//www.migrationexpert.ca/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy Canada: Canadian Immigration Services
+# Privacy Policy | Migration Expert Canada
 
 Migration Expert knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. 
 
