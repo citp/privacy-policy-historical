@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the galsh.com privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130011545id_/http%3A//www.galsh.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galsh.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404155938id_/http%3A//www.galsh.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Galeria Shqiptare
+# Privacy Policy - Galsh
 
 ****Privacy Policy****  
 
