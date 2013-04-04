@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchgi.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123122052id_/http%3A//www.searchgi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchgi.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404214528id_/http%3A//www.searchgi.com/privacy) for the most accurate reproduction.*
 
 # Create & Search Websites For Free - Searchgi.com
 
@@ -58,4 +58,30 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on Aug 24th, 2011
+###### violation(s):
+
+###### Issues:
+
+\- Insufficient content
+
+###### Further detail:
+
+Insufficient content: Your pages need to have enough text on them for our specialists to review and to be able to determine what your pages are about.
+
+###### To resolve this issue, please work through the following suggestions:
+
+\- Make sure that your pages have sufficient text - websites that contain mostly images, videos or Flash animations will not be approved.
+
+\- Your content should contain complete sentences and paragraphs, not only headlines.
+
+\- Ensure that your website is fully built - do not publish while your site’s still in a beta or "under construction” phase or only consists of a website template.
+
+\- Provide a clear navigation system for your visitors so that they can easily find all of the sections and pages of your website.
+
+As soon as you've made the necessary changes, we’ll be happy to take another look at your account.
+
+To update and resubmit your site(s), please sign in using the email address and password you submitted with your account. 
+
+Our specialists will review your account for compliance with our program policies, so please make sure to resolve all of the issues listed above before resubmitting your site(s).
+
+This policy was last modified on Feb 28th, 2013
