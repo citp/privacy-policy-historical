@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017134150id_/http%3A//www.entrust.net/ssl-certificates/ssl-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404074035id_/http%3A//www.entrust.net/ssl-certificates/ssl-privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement | SSL Certificate | Find SSL | Check SSL Certificate
 
