@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogspottemplate.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231140506id_/http%3A//www.blogspottemplate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogspottemplate.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404093529id_/http%3A//www.blogspottemplate.com/privacy) for the most accurate reproduction.*
 
 # Privacy - BlogspotTemplate.Com
 
