@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014153218id_/http%3A//www.ucas.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucas.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404152309id_/http%3A//ucas.com/privacy_statement) for the most accurate reproduction.*
 
 # UCAS - Privacy statement
 
 ## Privacy policy
 
-**Updated 3 September 2012**
+**Updated 18 December 2012**
 
 UCAS and our Group of Companies, which means UCAS and its subsidiaries from time to time and their subsidiaries, ("we", "us", "our" or "UCAS" as the context requires) are committed to protecting and respecting your privacy.
 
@@ -15,7 +15,7 @@ For the purpose of the Data Protection Act 1998 (the Act) and this privacy polic
   * "data controller" is UCAS, UCAS Media Limited and/or any of UCAS Group of Companies from time to time.
   * "personal information" is any information about you, which you provide to us from time to time as set out in this privacy policy.
   * "application" is the process of applying for student entry to courses offered by institutions of further and higher education which form the membership of UCAS. The application is updated with any revisions, including decisions from the higher education establishments and examination results received during the remainder of the application cycle.
-  * "Declaration" is the declaration which you will be asked to confirm when finalising your application. The declaration is accessible from the following links: [declaration for 2011 entry](http://www.ucas.com/help/contract11/index.html); [declaration for 2012 entry](http://www.ucas.com/help/contract12/index.html) or is set our in our document entitled "How to apply" which is available from the address below.
+  * "Declaration" is the declaration which you will be asked to confirm when finalising your application. The declaration is accessible from the following links: [declaration for 2012 entry](http://www.ucas.com/help/contract12/index.html); [declaration for 2013 entry ](http://www.ucas.com/help/contract13/index.html)or is set our in our document entitled "How to apply" which is available from the address below.
   * "website" is any of [www.ucas.com](http://www.ucas.com/), [www.ucas.ac.uk](http://www.ucas.ac.uk/) or [www.ucasmedia.com](http://www.ucasmedia.com/) or any other website, RSS feed or phone application operated by us from time to time.
 
  
