@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zumper.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920013740id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumper.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404024102id_/https%3A//www.zumper.com/privacy-policy) for the most accurate reproduction.*
 
-# Zumper: Privacy Policy
+# Privacy Policy - Zumper
 
 ##### Introduction
 
@@ -72,4 +72,4 @@ The Website does not knowingly collect personal information from users under the
 
 This policy forms part of, and is subject to, the provisions of Zumper's **[Terms of Use](https://web.archive.org/terms-of-use)**.
 
-Effective Date of this policy: July 3rd, divcall 
+Effective Date of this policy: July 3rd, 2012 
