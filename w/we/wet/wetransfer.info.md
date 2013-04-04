@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetransfer.info privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211025620id_/http%3A//wetransfer.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetransfer.info privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404084245id_/http%3A//www.wetransfer.info/privacy) for the most accurate reproduction.*
 
 # WeTransfer Terms
 
