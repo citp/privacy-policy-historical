@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2012-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120613232008id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404022450id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Askia - Software for surveys
+# Privacy policy - Askia - software for surveys
 
 This is the **Askia SAS** website. This privacy policy concerns all existing and future websites, portals, online applications linked to the [http://www.askia.com](http://www.askia.com/ "http://www.askia.com") domain.
 
@@ -37,12 +37,12 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20120613232008id_/http%3A//www.askia.com/contact@askia.com).
+Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20130404022450id_/http%3A//www.askia.com/contact@askia.com).
 
 ### Latest news
 
 [Subscribe](https://web.archive.org/news/feed)
 
-#### [Askia at Insight Show 2012](https://web.archive.org/news/askia-at-insight-2012)
+#### [Askia expands US operations](https://web.archive.org/news/askia-expands-usa)
 
-Askia will be exhibiting at the [Insight Show](http://www.insightshow.co.uk/) again this year to demonstrate and advise on our ever increasing portfolio of market research driven applications. We will be on **stand F259** and very much look forward to seeing you there! 
+We are delighted to announce the appointment of Robert 'Bert' Goyne as an Account Executive. Bert brings a wealth of market research experience having spent over 20 years in the industry, most notably in enterprise software sales at SPSS/IBM. 
