@@ -1,0 +1,79 @@
+> *The following text is extracted and transformed from the mamboo.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404123634id_/http%3A//mamboo.com/en-gb/tips/%3Ftip%3DConditions) for the most accurate reproduction.*
+
+# Services Agreement
+
+**You shall use the Website entirely at your own risk. It is a known risk of internet usage that people are not necessarily who they say they are. Users must be over 18 years of age, but people may provide information or behave in a way that is unreliable, misleading, unlawful or illegal. Mamba has no way of telling if statements made by other visitors are true. This is a decision that can be made only at your discretion and the exercise of some degree of caution is recommended.**
+
+ **By using the Website and its services you accept that this is the case and accept the risk associated therewith. Mamba asks that users take particular care in relation to the disclosure of their own personal information including last name, postal address, email address, telephone number, place of work and public places which they frequent.**
+
+* _What Personal Information About Customers Do We Gather?_
+
+The information we learn from customers helps us personalize and continually improve our Website. Here are the types of information we gather:
+
+**Information You Give Us:** We receive and store any information you enter on our Website or give us in any other way. You provide most such information when you register with the Website, search, post, participate in a contest or questionnaire, participate in a chat or acquire a subscription, communicate with our Support Team. Certain items of information are mandatory in order to register with the Website and gain access to Communication (your first name, e-mail address, gender, date of birth and city or town where you live). We have the ability to retain your contact details should you input them on the Website even if you do not complete your registration. You also provide information when you search for a person; provide information in your account; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; use our other services. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; content of e-mails to us; personal description and photographs in your account; and financial information. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing our Website for you, improving our Website, and communicating with you. 
+
+**Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies," and we obtain certain types of information when your Web browser accesses our Website or advertisements and other content served by or on behalf of Mamba or World of Dating Ltd on other websites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history; the full Uniform Resource Locator (URL) clickstream to, through, and from our Website, including date and time; cookie number; pages and other people accounts you viewed or searched for. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. 
+
+**Mobile:** When you download or use apps created by Mamba or World of Dating Ltd or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
+
+**E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Mamba or World of Dating Ltd if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. 
+
+**Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Examples of information we receive from other sources include account information, purchase or redemption information, and page-view information from some companies with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services. 
+
+* _Cookies_
+
+Cookies are small files of data that reside on your computer and allow us to recognise you as our Website customer if you return to our Website using the same computer and browser. We send a "session cookie" to your computer if and when you log in to your account by entering your email address and password or otherwise use Communications. These cookies allow us to recognise you if you visit multiple pages on our site during the same session, so that you don't need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect. 
+
+We also use longer-lasting cookies for other purposes such as to display your email address on our log-in form, so that you don't have to retype your email address each time you log in to your account. We encode our cookies so that only we can interpret the information stored in them. 
+
+We also use cookies to customise the Communications, content, and advertising; to measure promotional effectiveness, and to promote trust and safety. 
+
+Non-personal data may be gathered on our behalf using cookies, log file data, and code that is embedded on our Website by specific third party partners. We use this non-personal information to help improve the services we provide to you. The non-personal data gathered is used to provide anonymised statistical information. 
+
+The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of our essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to use any of our services that require you to Sign in. 
+
+* _Do Mamba and World of Dating Ltd Share the Information?_
+
+We share customer information only as described below. 
+
+**Your Profile:** The information contained in your personal ad, your search criteria and your profile can be accessed on the Website. In addition, these information may be broadcasted directly by Mamba or World of Dating Ltd or via our partners to persons interested in the Website, through newsletters or third-party websites, or by all other electronic (email, text messaging, etc.) or audiovisual (radio, television, etc.) communication tools, or by written press (newspapers, magazines, etc.), in order to increase your chances of meeting someone by promoting your person ads, search criteria and profile. Consequently, you explicitly authorise Mamba and World of Dating Ltd to reproduce and broadcast the information contained in your personal ad, search criteria or profile (personal information, description, images, videos, etc.) on all or part of the Communications (on the Website, on the Internet, by email) and/or in a general manner, on all distribution media, in particular audiovisual communication (press, radio, analogue television, digital television, cable or satellite) or electronic communication (email, Internet), throughout the entire world and for the length of time established in these Terms of Use between you and the Website. You explicitly authorise Mamba and World of Dating Limited to transfer the information you provided to us and the benefits of the above mentioned rights to our partners and eventual successors. 
+
+**Financial Information:** Neither Mamba, nor World of Dating Ltd store your financial information or credit card details. Please, note that financial information and credit card details will be stored by a company, processing your credit card payments, if you choose our “Pay in one click” option. 
+
+**Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include providing applications, sending postal mail and e- mail, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. For example, a company, processing your credit card payments will store your name and credit card details to let you use our “Pay in 1 click” option in the future. 
+
+**Promotional Offers:** Sometimes we send offers to selected groups of our Website customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your “E-mail Notification” preferences in the “Settings” menu of your account. 
+
+**Business Transfers:** As we continue to develop our business, we might sell or buy other websites, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre- existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Mamba, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. Mamba and World of Dating Ltd may occasionally share general socio-demographic information that does not include names with selected partners to allow them to target their announcements (by age category, gender, etc.). In this case, we will not send these partners any information that would allow them to identify you. 
+
+**Protection of Mamba, World of Dating Ltd and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply these Terms and Conditions and other agreements; or protect the rights, property, or safety of Mamba, World of Dating Ltd, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this clause. 
+
+**With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+
+* _How Secure Is Information About Me?_
+
+We are committed to handling your customer information with high standards of information security. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorise access to personal information only for those employees who require it to fulfill their job responsibilities. 
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping the password confidential. We ask you not to share a password with anyone. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use procedures and security features to try to prevent unauthorised access. 
+
+* _Where we store your personal data_
+
+The personal data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area (' **EEA** '). It may also be processed by staff located outside the EEA who work for us or for one of our suppliers (for example, staff who are involved in providing services that you order from us, processing your payment details or providing support services for the Website). By submitting your personal data to us through the Website, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this clause. 
+
+* _Which Information Can I Access?_
+
+Mamba and World of Dating Ltd give you access to a broad range of information about your account for the limited purpose of viewing and, in certain cases, updating that information. Examples of information you can access easily at the Website include personally identifiable information (including name, e-mail, sex, age, photographs and place where you live); e-mail notification settings. 
+
+* _What Choices Do I Have?_
+
+  * As discussed above, you can always choose not to provide information, even though it might be needed to take advantage of Communications.
+  * You can add or update certain information in the “Settings” menu of your account. There you can correct your name, e-mail address, phone number, change your password. When you update information, we usually keep a copy of the prior version for our records.
+  * In the “Settings” menu of your account you can also change your notification preferences. If you do not want to receive e-mail or other mail from us, please adjust “E-mail Notification” preferences in the “Settings” menu of your account.
+  * If you no longer wish for Mamba and World of Dating Ltd or our partners to reproduce or broadcast the information comprised in your personal ad, your search criteria, or your profile, you can terminate your Website account by choosing “Delete your profile” in the “Settings” menu of your account. Since this information is comprised of your personal ad, your search criteria and your profile, the termination will only take effect upon the next update or version of these communications (printed, press, audiovisual, or electronic) containing your personal ad, your search criteria and your profile information. 
+
+
+* _Are Children Allowed to Use the Website?_
+
+Children are not eligible to use our service and we ask that minors (persons under the age of 18) do not submit any personal information to us or use our services. 
