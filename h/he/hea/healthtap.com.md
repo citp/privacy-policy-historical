@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthtap.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102110047id_/https%3A//www.healthtap.com/pages/privacy_sharing) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthtap.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405101825id_/https%3A//www.healthtap.com/pages/privacy_sharing) for the most accurate reproduction.*
 
 # HealthTap
 
@@ -8,7 +8,7 @@ At HealthTap we believe in the power and benefits of better health information. 
 
 Because online sharing in health is a new concept, you should be comfortable and confident that you can share securely and privately. This is why on HealthTap you can ask health questions and explore health information without also sharing your personal identity. We call this "secure sharing."
 
-How does it work? When you share health information on HealthTap, only you know who you are. Your identity is protected. Our community receives the value of learning from your questions and comments and other information you choose to share, and you benefit from the secure sharing of others in our community. Only unique Public Profile Names are shown.
+How does it work? When you share health information on HealthTap, only you know who you are. Your identity is protected. Our community receives the value of learning from your questions and the information you choose to share, and you benefit from the secure sharing of others in our community. You can personalize your questions without revealing who you are. Your personal information and identity are not even shown to doctors, unless you request a Private Conversation with a doctor.
 
 Our company culture respects the values of secure sharing. Our employees receive privacy training, and we’ve written our [Privacy Statement](https://web.archive.org/pages/privacy_statement) in easy to read language. We’ve even provided additional suggestions for sharing securely and safeguarding your privacy when participating on HealthTap. Some members will choose to participate on HealthTap under their actual names, but this is always a voluntary choice.
 
@@ -16,7 +16,7 @@ Your Identity is Private
 
   * Your real name is kept private (and shown only to a doctor if you enter into a Private Conversation)
   * Personally Identifiable Information is not visible to other users on the site
-  * Our privacy protection standards are certified by TRUSTe
+  * Our privacy protection standards are best of class in our industry
 
 
 
@@ -35,8 +35,8 @@ Sharing in a safe and secure setting benefits both you and all community partici
 Here are some of the ways we have designed this system with you in mind:
 
   * Your real name or other Personally Identifiable Information are not revealed to other HealthTap users
-  * You can update and delete information in your Account Settings and Health Activity at any time
-  * We automatically log members out of HealthTap after a short period of inactivity
+  * You can update and delete information in your Profile at any time
+  * Members are automatically logged out of HealthTap after a short period of inactivity
 
 
 
