@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the exclusivecasinoclub.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614082214id_/http%3A//www.exclusivecasinoclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivecasinoclub.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405090042id_/http%3A//www.exclusivecasinoclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Exclusive Casino Club
 
-[](http://romepartners.com/affiliate/track?sourceID=1054484 "MonaCasino_EN_468x60_2000free_slot")
-
-**Exclusive[Casino Club](http://www.exclusivecasinoclub.com/casinos/casino-club/ "Casino Club")** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+**Exclusive Casino Club** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
