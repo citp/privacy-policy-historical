@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allsole.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226054756id_/http%3A//www.allsole.com/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsole.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406005329id_/http%3A//www.allsole.com/privacy-policy.info) for the most accurate reproduction.*
 
-# Privacy Policy at Allsole.com - FREE UK Delivery
+# Privacy Policy - FREE UK Delivery
 
 **This is a Secure Website**
 
@@ -30,4 +30,4 @@ We take the risk of internet fraud very seriously. With the volume of fraudulent
 
 ## Contact Us
 
-If you have any queries on any aspect of the above policy, please [contact us](https://www.allsole.com/allsole/customerQuery.secure?skeletonAccount=true).
+If you have any queries on any aspect of the above policy, please [contact us](https://www.allsole.com/allsole/customerQuery.secure?action=postQuery&skeletonAccount=true).
