@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the belleville.com privacy policy that was archived on 2012-08-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120806154210id_/http%3A//www.bnd.com/privacy_policy%23navlinks%3D%2AHome%3Ami_footer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the belleville.com privacy policy that was archived on 2013-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130405082256id_/http%3A//www.bnd.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 <title>News Democrat Belleville, IL</title>
@@ -21,9 +21,9 @@
    
    // ----- end gomez -----
 //--> 
-</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A230101812941327%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ABND%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20120806154210id_%2Fhttp%3A%2F%2Fwww.bnd.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
+</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A6416442044949%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ABND%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20130405082256id_%2Fhttp%3A%2F%2Fwww.bnd.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
 
-<link href="/mistatic/cache/stylesheets/339ee4058640e43500d3b4a31c1116e5-min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/mistatic/cache/stylesheets/7647c26360169a0067c66bc11743a99a-min.css" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://media.bnd.com/mistatic/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
@@ -59,13 +59,20 @@
 	 2 = display static coupon ad
 	*/
 	miAppControler.prototype.findnsave = 0;
-        miAppControler.prototype.dealsaver = 1;
+  miAppControler.prototype.dealsaver = 1;
 
-        /* Surveywall
-	 0 = disable Google microsurvey  
-         1 = enable Google microsurvey
+    /* Surveywall
+	 0 = disable pass widget  
+     1 = enable pass widget
 	*/  
-        miAppControler.prototype.surveywall = 1;
+    miAppControler.prototype.surveywall = 1;
+
+	/* Paywall
+	 0 = disable paywall
+	 1 = enable paywall for preview & live
+	 2 = enable paywall for preview only
+	*/
+	miAppControler.prototype.paywall = 1;
 
 
 
@@ -76,23 +83,13 @@
         pageInfo.asset.id = 0;
         pageInfo.asset.title = "static";
     
+        pageInfo.type = "static";
 
 </script>
-
-
-<script type="text/javascript">
-var mianalytics = {};
-mianalytics.bizunit = "bel";
-mianalytics.pagelevel = "static";
-mianalytics.contentsource = "";
-mianalytics.taxonomy = "Online|SiteInformation|||";
-mianalytics.channel = "Static";
-</script>
-
 
 <script type="text/javascript">
 var auth_cookie_name = "belleville_user_auth";
-</script><script type="text/javascript" src="/mistatic/cache/javascripts/b75cd33c9e9b82adae64e28c14caae7a-min.js"></script>
+</script><script type="text/javascript" src="/mistatic/cache/javascripts/0cb07d39aa9cfb2350ccbb8e4a05c506-min.js"></script>
 
 
 <script type="text/javascript" src="http://media.bnd.com/mistats/mianalytics.js"></script>
@@ -108,6 +105,14 @@ var auth_cookie_name = "belleville_user_auth";
     mi.commenting = new mi.Commenting();
     
     mi.commenting.setConf( "accountName", "belleville" );
+    
+    
+    var disqus2012cookie = new mi.Cookie(document, 'disqus2012');
+    if(disqus2012cookie.load()){
+            mi.commenting.reset_disqus_config(disqus2012cookie.disqus2012, '1i5FkqMD7y16QPLgKu9m9sfp74FwqrMuUj9ApgoSdMHetzO6vK5CLS4K6EKEON5c');
+    }
+    
+    
     
 </script>
 
@@ -139,22 +144,44 @@ $(document).ready(function() {
 	});
 	</script>
 
+<script language="JavaScript" type="text/javascript" src="http://media.bnd.com/misites/bel/bnd.js"></script><!-- site specific file already loaded -->
+<script language="JavaScript" type="text/javascript">
+<!--
+measure_popularity=false;
+mistats.msr = 'bel|bh';
 
-<script language="JavaScript" type="text/javascript" src="http://media.bnd.com/misites/bel/bnd.js"></script>
+mistats.pagelevel='misc';
+mistats.pagename='Section: Privacy Policy';
+mistats.version='1.0|';
+mistats.taxonomy='Online|SiteInformation|||';
+mistats.channel='Privacy Policy';
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+</script>
+
 
 </head>
 
 
-<body class="section" id="section_">
-
-<div class="sbb_wrap">
+<body class="section" id="section_"><div class="sbb_wrap">
     <div class="top_ads">   
-<div class="ad">
-        <div class="advertisement dart_960x30" id="dart_960x30_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=21466509250345.2?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=21466509250345.2?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=21466509250345.2?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+        <div class="ad">
+        <div class="advertisement dart_960x30" id="dart_960x30_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=591869125686412?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=591869125686412?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=591869125686412?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
     </div>
 </div>
 
@@ -170,8 +197,7 @@ $(document).ready(function() {
             <li class="jobs"><a href="/jobs/#navlink=navbar">Jobs</a></li>
             <li class="cars"><a href="/cars/#navlink=navbar">Cars</a></li>
             <li class="homes"><a href="/homes/#navlink=navbar">Homes</a></li>
-            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li>
-            <li class="place_ad last"><a href="http://bellevillenews.adperfect.com/#navlink=navbar">Place an ad</a></li>
+            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li><li class="legals"><a href="/classified-ads/Notices/classification/Legal+Notices/#navlink=navbar">Legals</a></li>            <li class="place_ad last"><a href="http://bellevillenews.adperfect.com/#navlink=navbar">Place an ad</a></li>
         </ul>
         
         <div id="weather">
@@ -179,19 +205,19 @@ $(document).ready(function() {
             
 
             <div class="current">
-            <a href="/weather/"><img id="weather_icon" alt="Sunny" src="http://media.bnd.com/mistatic/images/weather/icons/01.png"></a>
+            <a href="/weather/"><img id="weather_icon" alt="Clear" src="http://media.bnd.com/mistatic/images/weather/icons/33.png"></a>
             </div>
             <div class="temp">
-                <div id="weather_curr_temp" class="current_temp">81°</div>
+                <div id="weather_curr_temp" class="current_temp">37°</div>
                 <div class="weather_alert"><a href="?">Alert!</a></div>
                 <div class="forecast">&nbsp;<a href="/weather/">Forecast</a></div>
             </div>
-        </div><!-- #weather -->            <div class="weather_sponsor" id="dart_150x25_weather_1">
-
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=21466509250345.2?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=21466509250345.2?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=21466509250345.2?" border="0" alt="Advertisement"></a></noscript> 
-
-            </div>    </div><!-- end mast_top -->
+        </div><!-- #weather -->
+            <div class="weather_sponsor" id="dart_150x25_weather_1">
+        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=591869125686412?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=591869125686412?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=591869125686412?" border="0" alt="Advertisement"></a></noscript> 
+            </div>
+    </div><!-- end mast_top -->
     <div class="clear"></div>
     
     <div id="mast_main">
@@ -203,33 +229,14 @@ $(document).ready(function() {
             </a>
         </div>
         
-        <script type="text/javascript"> 	 
-            var user_name = ''; 	 
-            if (icname) 	 
-            { 	 
-                user_name = icname.replace(/\|.*/,""); 	 
-            } 	 
-	    </script>
-	    
-        <div id="nonmember" class="signin">            <ul id="services_nav">
-                <li class="first"><a href="/reg-bin/int.cgi?mode=login">Log In</a> or <a href="/reg-bin/int.cgi?mode=register">Join</a></li>
-                <li><a href="/report_news/">Report News</a></li>
-                <li class="last"><a href="/customer-service/">Customer Service</a></li>
-            </ul>
-        </div>
-        <div id="member" class="signin">
+        <div id="nonmember" class="signin">
             <ul id="services_nav">
-                <li class="first"><a href="/reg-bin/tint.cgi?mode=edit" class="member_button"><script language="javascript">document.write(user_name);</script></a>
-                    <ul class="member_options">
-                        <li><a href="/reg-bin/tint.cgi?mode=edit">Member Center</a></li>
-                        <li><a href="/reg-bin/tint.cgi?mode=logout">Sign out</a></li>
-                    </ul>
-                </li>
+                <li class="first"><a id="digital_subscriptions" href="/plus">Subscriptions</a></li>
                 <li><a href="/report_news/">Report News</a></li>
                 <li class="last"><a href="/customer-service/">Customer Service</a></li>
             </ul>
         </div>
-        
+                
         <div class="mh_search" id="searchbar">
             <form id="search_widget_form" name="miSearchForm" onsubmit="" action="" method="get">
                 <div id="searchInputContainer"></div>
@@ -244,7 +251,7 @@ $(document).ready(function() {
                         </a>
                     </li>
                     
-                    <li>
+                    <li id="search_widget_web_search_choice" style="display: none;">
                         <a id="web_search" href="#">
                             <img src="http://media.bnd.com/mistatic/images/search/search_dropdown_yahoo_logo.png">Web Search
                         </a>
@@ -281,22 +288,20 @@ $(document).ready(function() {
 <div id="main_nav">
     <ul>
         <li id="nav_ad">
-
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=21466509250345.2?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=21466509250345.2?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=21466509250345.2?" border="0" alt="Advertisement"></a></noscript> 
-
+        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=591869125686412?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=591869125686412?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=591869125686412?" border="0" alt="Advertisement"></a></noscript> 
         </li>
-        <li><a href="/#navlinks=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="">News</a>
+        <li><a href="/#navlink=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="News">News</a>
                                             <ul class="subnav">
-                                                        <li><a href="/metro-east-news/#navlink=subnav" title="">Metro-east News</a></li>                                <li><a href="/business-news/#navlink=subnav" title="">Business</a></li>                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>                                <li><a href="/belleville-news/#navlink=subnav" title="">Belleville News</a></li>                                <li><a href="/collinsville-news/#navlink=subnav" title="">Collinsville News</a></li>                                <li><a href="/fairview-heights-news/#navlink=subnav" title="">Fairview Heights News</a></li>                                <li><a href="/education-news/#navlink=subnav" title="">Education News</a></li>                                <li><a href="/election-news/#navlink=subnav" title="">Election News</a></li>                                <li><a href="/wally-spiers/#navlink=subnav" title="">Wally Spiers</a></li>                                <li><a href="/ofallon-progress/#navlink=subnav" title="">O'Fallon Progress</a></li>                                <li><a href="/highland-news-leader/#navlink=subnav" title="">Highland News Leader</a></li>                                <li><a href="/state-region-news/#navlink=subnav" title="">State|Region News</a></li>                                <li><a href="/nation-world-news/#navlink=subnav" title="">Nation|World News</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="">Sports</a>
+                                                        <li><a href="/metro-east-news/#navlink=subnav" title="">Metro-east News</a></li>                                <li><a href="/business-news/#navlink=subnav" title="">Business</a></li>                                <li><a href="/crime-news/#navlink=subnav" title="">Crime</a></li>                                <li><a href="/belleville-news/#navlink=subnav" title="">Belleville News</a></li>                                <li><a href="/collinsville-news/#navlink=subnav" title="">Collinsville News</a></li>                                <li><a href="/fairview-heights-news/#navlink=subnav" title="">Fairview Heights News</a></li>                                <li><a href="/education-news/#navlink=subnav" title="">Education News</a></li>                                <li><a href="/election-news/#navlink=subnav" title="">Election News</a></li>                                <li><a href="/wally-spiers/#navlink=subnav" title="">Wally Spiers</a></li>                                <li><a href="/ofallon-progress/#navlink=subnav" title="">O'Fallon Progress</a></li>                                <li><a href="/highland-news-leader/#navlink=subnav" title="">Highland News Leader</a></li>                                <li><a href="/state-region-news/#navlink=subnav" title="">State|Region News</a></li>                                <li><a href="/nation-world-news/#navlink=subnav" title="">Nation|World News</a></li>                        </ul>                </li>                <li><a href="/sports/#navlink=navbar" title="Sports">Sports</a>
                                             <ul class="subnav">
-                                                        <li><a href="/high-school-sports/#navlink=subnav" title="">High Schools</a></li>                                <li><a href="/st-louis-cardinals/#navlink=subnav" title="">Cardinals</a></li>                                <li><a href="/st-louis-rams/#navlink=subnav" title="">Rams</a></li>                                <li><a href="/st-louis-blues/#navlink=subnav" title="">Blues</a></li>                                <li><a href="/college-sports/#navlink=subnav" title="">Colleges</a></li>                        </ul>                </li>                <li><a href="/living/#navlink=navbar" title="">Living</a>
+                                                        <li><a href="/high-school-sports/#navlink=subnav" title="">High Schools</a></li>                                <li><a href="/st-louis-cardinals/#navlink=subnav" title="">Cardinals</a></li>                                <li><a href="/st-louis-rams/#navlink=subnav" title="">Rams</a></li>                                <li><a href="/st-louis-blues/#navlink=subnav" title="">Blues</a></li>                                <li><a href="/college-sports/#navlink=subnav" title="">Colleges</a></li>                                <li><a href="http://belleville.profootball.upickem.net/profootball/registration/login.asp#navlink=subnav" title="">Pro Picks</a></li>                        </ul>                </li>                <li><a href="/living/#navlink=navbar" title="Living">Living</a>
                                             <ul class="subnav">
-                                                        <li><a href="/entertainment/#navlink=subnav" title="">Entertainment</a></li>                                <li><a href="/events/#navlink=subnav" title="">Events</a></li>                                <li><a href="/answer-man/#navlink=subnav" title="">Answer Man</a></li>                                <li><a href="/food-drink/#navlink=subnav" title="">Food</a></li>                                <li><a href="/comics/#navlink=subnav" title="">Comics</a></li>                                <li><a href="/horoscopes/#navlink=subnav" title="">Horoscopes</a></li>                                <li><a href="/public-records/#navlink=subnav" title="">Records</a></li>                                <li><a href="/lipstik/#navlink=subnav" title="">Lipstik Magazine</a></li>                                <li><a href="http://specialsections.bnd.com/SS/Tiles.aspx#navlink=subnav" title="">Special Sections</a></li>                        </ul>                </li>                <li><a href="/opinion/#navlink=navbar" title="">Opinion</a>
+                                                        <li><a href="/entertainment/#navlink=subnav" title="">Entertainment</a></li>                                <li><a href="/events/#navlink=subnav" title="">Events</a></li>                                <li><a href="/answer-man/#navlink=subnav" title="">Answer Man</a></li>                                <li><a href="/food-drink/#navlink=subnav" title="">Food</a></li>                                <li><a href="/comics/#navlink=subnav" title="">Comics</a></li>                                <li><a href="/horoscopes/#navlink=subnav" title="">Horoscopes</a></li>                                <li><a href="/public-records/#navlink=subnav" title="">Records</a></li>                                <li><a href="/lipstik/#navlink=subnav" title="">Lipstik Magazine</a></li>                                <li><a href="http://specialsections.bnd.com/SS/Tiles.aspx#navlink=subnav" title="">Special Sections</a></li>                                <li><a href="/bridal/#navlink=subnav" title="">Bridal</a></li>                        </ul>                </li>                <li><a href="/opinion/#navlink=navbar" title="Opinion">Opinion</a>
                                             <ul class="subnav">
-                                                        <li><a href="/editorials/#navlink=subnav" title="">Editorial</a></li>                                <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters/Sound-off</a></li>                                <li><a href="/glenn-mccoy/#navlink=subnav" title="">Glenn McCoy</a></li>                        </ul>                </li>                <li><a href="/multimedia/#navlink=navbar" title="">Photos|Videos</a>
+                                                        <li><a href="/editorials/#navlink=subnav" title="">Editorial</a></li>                                <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters/Sound-off</a></li>                                <li><a href="/glenn-mccoy/#navlink=subnav" title="">Glenn McCoy</a></li>                        </ul>                </li>                <li><a href="/multimedia/#navlink=navbar" title="Photos|Videos">Photos|Videos</a>
                                             <ul class="subnav">
-                                                        <li><a href="/video/#navlink=subnav" title="">Local Videos</a></li>                                <li><a href="/local-photos/#navlink=subnav" title="">Local Photos</a></li>                                <li><a href="/sports-photos/#navlink=subnav" title="">Sports Photos</a></li>                        </ul>                </li>                <li><a href="http://www.legacy.com/obituaries/belleville/#navlink=navbar" title="">Obituaries</a>
+                                                        <li><a href="/video/#navlink=subnav" title="">Local Videos</a></li>                                <li><a href="/local-photos/#navlink=subnav" title="">Local Photos</a></li>                                <li><a href="/sports-photos/#navlink=subnav" title="">Sports Photos</a></li>                        </ul>                </li>                <li><a href="http://www.legacy.com/obituaries/belleville/#navlink=navbar" title="Obituaries">Obituaries</a>
                                     </li>                <li><a href="http://findnsave.bnd.com/#navlink=navbar" title="Bradenton.com Newspaper Ads">Local Deals</a>
                                             <ul class="subnav">
                                                         <li><a href="http://belleville.dealsaver.com/#navlink=subnav" title="">Today's Hot Deal</a></li>                                <li><a href="http://findnsave.bnd.com/Coupons#navlink=subnav" title="">Local Coupons</a></li>                                <li><a href="http://findnsave.bnd.com/PrintCoupons#navlink=subnav" title="">Grocery Coupons</a></li>                                <li><a href="http://findnsave.bnd.com/Circulars#navlink=subnav" title="">Store Circulars</a></li>                                <li><a href="http://findnsave.bnd.com/Local-Ads#navlink=subnav" title="">Local Ads</a></li>                                <li><a href="http://www.classifiedconcepts.com/CCLoc/Default.aspx?cid=BND&amp;t=GS#navlink=subnav" title="">Garage Sale Map</a></li>                        </ul>                </li>
@@ -428,34 +433,31 @@ $(document).ready(function() {
         </div>
         <div id="sidebar" class="grid_4">
                 <div id="sidebar_r1">
-<div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=21466509250345.2?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=21466509250345.2?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=21466509250345.2?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+        <div class="ad">
+        <div class="advertisement dart_300x250" id="dart_300x250_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=591869125686412?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=591869125686412?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=591869125686412?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 <div id="sidebar_r2">
 
 </div>
 <div id="sidebar_r3">
-<div class="ad">
-        <div class="advertisement dart_300x100" id="dart_300x100_1">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=21466509250345.2?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=21466509250345.2?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=21466509250345.2?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+        <div class="ad">
+        <div class="advertisement dart_300x100" id="dart_300x100_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=591869125686412?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=591869125686412?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=591869125686412?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 <div id="sidebar_r4">
 
 </div>
 <div id="sidebar_r5">
-<div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_2">
-<script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=21466509250345.2?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=21466509250345.2?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=21466509250345.2?" border="0" alt="Advertisement"></a></noscript> 
-        </div>
+        <div class="ad">
+        <div class="advertisement dart_300x250" id="dart_300x250_2"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=591869125686412?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=591869125686412?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.bel00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=591869125686412?" border="0" alt="Advertisement"></a></noscript>         </div>
 </div>
+
 </div>
 
 <div id="sidebar_r6">
@@ -463,6 +465,8 @@ $(document).ready(function() {
 </div>
 
 <div id="sidebar_sort">
+
+
 
 
 
@@ -476,50 +480,94 @@ $(document).ready(function() {
 
 <div id="page_footer">
     
-    <section class="widget">
-    <h2 class="heading">Stay Connected</h2>
-    <div id="footer_connect_links">
-        <ul class="connect">
-            
-                    <li><a href="https://subscriberservices.mcclatchy.com/belle/TransactionType.asp" class="subscribe" title="Subscriber Services"><span>Subscriber Services</span></a></li>
-                
-                    <li><a href="/mobile-options/#navlink=*stayconnected" class="phone_apps" title="Mobile Apps"><span>Mobile Apps</span></a></li>
-                
-                    <li><a href="/mobile-options/#navlink=*stayconnected" class="mobile" title="Mobile Site"><span>Mobile Site</span></a></li>
-                
-                    <li><a href="/rss" class="rss" title="News Feeds"><span>News Feeds</span></a></li>
-                
-                    <li><a href="http://www.e-bnd.com" class="e_edition" title="e-Edition"><span>e-Edition</span></a></li>
-                
-                    <li><a href="/facebook-twitter/#navlink=*stayconnected" class="facebook" title="Facebook"><span>Facebook</span></a></li>
-                
-                    <li><a href="/facebook-twitter/#navlink=*stayconnected" class="twitter" title="Twitter"><span>Twitter</span></a></li>
-                
-                    <li><a href="/e-reader" class="ereader" title="e-Reader"><span>e-Reader</span></a></li>
-                
-                    <li><a href="http://bnd.vrvm.com/cb/762/subscribe.html" class="text_alerts" title="Text Alerts"><span>Text Alerts</span></a></li>
-                
-        </ul>
-    </div><!-- /#footer_connect_links -->
-</section>
+    
+<div id="stay_connected">
+    <h2 class="heading"><span class="section_label">Stay Connected</span></h2>
+    
+<div class="item newsletters">
+    <a href="/reg-bin/tint.cgi?mode=edit#newsletters#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Email Newsletters&nbsp;<span>&gt;</span>
+            <div class="description">Manage newsletter subscriptions</div>
+        </div>
+    </a>
+</div>
+
+<div class="item tablets">
+    <a href="/tablet#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Tablets&nbsp;<span>&gt;</span>
+            <div class="description">Apps and services for tablet devices</div>
+        </div>
+    </a>
+</div>
+
+<div class="item mobile">
+    <a href="/mobile#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Mobile&nbsp;<span>&gt;</span>
+            <div class="description">Apps and services for your mobile phone</div>
+        </div>
+    </a>
+</div>
+
+<div class="item social_media">
+    <a href="/social-media#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Social Media&nbsp;<span>&gt;</span>
+            <div class="description">Get updates via Facebook and Twitter</div>
+        </div>
+    </a>
+</div>
+
+<div class="item e_edition">
+    <a href="http://www.bnd.com/e-edition#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">e-Edition&nbsp;<span>&gt;</span>
+            <div class="description">Your daily paper delivered to your computer</div>
+        </div>
+    </a>
+</div>
+
+<div class="item home_delivery">
+    <a href="https://subscriberservices.mcclatchy.com/belle/TransactionType.asp#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Home Delivery&nbsp;<span>&gt;</span>
+            <div class="description">Manage your home delivery account</div>
+        </div>
+    </a>
+</div>
+
+<div class="item digital_subscriptions">
+    <a href="/plus#navlink=stayconnected">
+        <div class="item_image"></div>
+        <div class="item_label">Digital Subscriptions&nbsp;<span>&gt;</span>
+            <div class="description">Manage your online subscriptions</div>
+        </div>
+    </a>
+</div>
+
+</div>
+<div class="clear"></div>
+
 	<div id="footer_text_links">
 		<p class="links">
 			
-						<a href="/privacy_policy#navlinks=*Home:mi_footer" title="Privacy Policy" class="privacy-policy">Privacy Policy</a>
+						<a href="/privacy_policy#navlink=mi_footer" title="Privacy Policy" class="privacy-policy">Privacy Policy</a>
 						&nbsp;|&nbsp;
-						<a href="/terms_of_service#navlinks=*Home:mi_footer" title="Terms of Use" class="terms-of-use">Terms of Use</a>
+						<a href="/terms_of_service#navlink=mi_footer" title="Terms of Use" class="terms-of-use">Terms of Use</a>
 						&nbsp;|&nbsp;
 						<a href="/privacy_policy#behavioral_targeting" title="About Our Ads" class="about-our-ads">About Our Ads</a>
 						&nbsp;|&nbsp;
-						<a href="/contact-us#navlinks=*Home:mi_footer" title="Contact Us" class="contact-us">Contact Us</a>
+						<a href="/contact-us#navlink=mi_footer" title="Contact Us" class="contact-us">Contact Us</a>
 						&nbsp;|&nbsp;
-						<a href="/about-us/#navlinks=mi_footer" title="About Us" class="about-us">About Us</a>
-						&nbsp;|&nbsp;
-						<a href="/copyright#navlinks=*Home:mi_footer" title="Copyright" class="copyright">Copyright</a>
-						&nbsp;|&nbsp;
-						<a href="http://newspaperads.belleville.com/ROP/Advertisers.aspx/#navlink=footer" title="Newspaper Ads" class="newspaper-ads">Newspaper Ads</a>
+						<a href="/about-us/#navlink=mi_footer" title="About Us" class="about-us">About Us</a>
 						&nbsp;|&nbsp;
 						<a href="/sitemap/#navlink=footer" title="Site Map" class="sitemap">Site Map</a>
+						&nbsp;|&nbsp;
+						<a href="/copyright#navlink=mi_footer" title="Copyright" class="copyright">Copyright</a>
+						&nbsp;|&nbsp;
+						<a href="http://newspaperads.belleville.com/ROP/Advertisers.aspx/#navlink=footer" title="Newspaper Ads" class="newspaper-ads">Newspaper Ads</a>
 						
 		</p>
 	</div><!-- /#footer_text_links -->        
@@ -528,19 +576,19 @@ $(document).ready(function() {
                 <p class="links"><span class="footer_partner_title">Visit our Partner Sites</span>:
                 
                     &nbsp;
-                    <a href="/ofallon-progress/#navlink=partner" target="_blank" title="">O'Fallon Progress</a>
+                    <a href="/ofallon-progress/#navlink=partner" target="_blank" title="News and information from O'Fallon, IL">O'Fallon Progress</a>
                     
                     &nbsp;|&nbsp;
-                    <a href="/highland-news-leader/#navlink=partner" target="_blank" title="">Highland News Leader</a>
+                    <a href="/highland-news-leader/#navlink=partner" target="_blank" title="News and information from Highland, IL">Highland News Leader</a>
                     
                     &nbsp;|&nbsp;
-                    <a href="/lipstik" target="_blank" title="">Lipstik Mag</a>
+                    <a href="/lipstik" target="_blank" title="Visit Lipstick Magazine">Lipstik Mag</a>
                     
                 </p>
                 
     </div><!-- /#footer_partner_links -->
 
-    <div id="copyright">©  www.bnd.com and wire service sources. All Rights Reserved.
+    <div id="copyright">© 2013 www.bnd.com and wire service sources. All Rights Reserved.
         <a href="http://www.bnd.com">http://www.bnd.com</a></div>
 
     <a href="/" class="logo" title="News Democrat">
@@ -550,47 +598,21 @@ $(document).ready(function() {
 </div><!-- /#page_footer -->
 
 
-    
-
 <div id="mistatstag" style="display:none;">        
-<!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
 
-<!-- site specific file already loaded -->
-<script language="JavaScript" type="text/javascript" src="http://media.bnd.com/mistats/products/pubsys_s_code.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-measure_popularity=false;
-mistats.msr = 'bel|bh';
-
-mistats.pagelevel='misc';
-mistats.pagename='Section: Privacy Policy';
-mistats.version='1.0|';
-mistats.taxonomy='Online|SiteInformation|||';
-mistats.channel='Privacy Policy';
-
-
-
-
-
-
-
-
-
-
-
-
-
--->
-</script>
-<script language="JavaScript" type="text/javascript" src="http://media.bnd.com/mistats/products/pubsys.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.bnd.com/mistats/finalizestats.js"></script>
-
-<noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmbelleville%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy\&server%3Dwww.bnd.com\&channel%3DPrivacy%20Policy\&c1%3Dhttp%3A%2F%2Fwww.bnd.com%2Fprivacy_policy%2F\&c3%3Dmisc\&c4%3D\&c6%3D%24%7Bmsr%7D\&c28%3D\&h1%3DBEL%7CBND%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
-<!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
-</div>
-
+        <!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
+        
+        
+        <script language="JavaScript" type="text/javascript" src="http://media.bnd.com/mistats/products/pubsys_s_code.js"></script>
+        <script language="JavaScript" type="text/javascript" src="http://media.bnd.com/mistats/products/pubsys.js"></script>
+        <script language="JavaScript" type="text/javascript" src="http://media.bnd.com/mistats/finalizestats.js"></script>
+        
+        <noscript><img src="http://mcclatchy.112.2O7.net/b/ss/nmbelleville%2F1%2FH.10--NS%2F0%3FpageName%3DSection%3A%20Privacy%20Policy\&server%3Dwww.bnd.com\&channel%3DPrivacy%20Policy\&c1%3Dhttp%3A%2F%2Fwww.bnd.com%2Fprivacy_policy%2F\&c3%3Dmisc\&c4%3D\&c6%3D%24%7Bmsr%7D\&c28%3D\&h1%3DBEL%7CBND%7COnline%7CSiteInformation%7C%7C%7C%7CPrivacy%20Policy" height="1" width="1" border="0" alt="" /></noscript>
+        <!-- End SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 --></div>
 
 </footer>
+
+
 
 
 
