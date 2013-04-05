@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disasterassistance.gov privacy policy that was archived on 2012-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121224065219id_/http%3A//www.disasterassistance.gov/privacy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disasterassistance.gov privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405073553id_/http%3A//www.disasterassistance.gov/privacy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy & Terms of Use | Disaster Assistance
 
@@ -52,19 +52,19 @@ In order to use this tool, Google sets a session cookie on your machine or devic
 
 The cookie monitors your navigation through the website and records, including:
 
-    * What content was viewed
+What content was viewed
 
-    * How you arrived at the specific content
+How you arrived at the specific content
 
-    * Your ISP provider including the ISP provider’s geographic information
+Your ISP provider including the ISP provider’s geographic information
 
-    * The time spent viewing a specific piece of content
+The time spent viewing a specific piece of content
 
-    * The time spent on the entire website
+The time spent on the entire website
 
-    * The path taken to access the website
+The path taken to access the website
 
-    * The connection speed of the session
+The connection speed of the session
 
 Google Analytics does not tell the program who you are or allow the program to determine your identity nor does the cookie monitor or record your web usage after you leave DisasterAssistance.gov. The data is automatically sent from the cookie on your machine or device to Google’s system which immediately aggregates the data. Google will never have access to the specifics of your particular session including PII provided on the application. What the program will see is the aggregate data from all users for a particular time period. The program is gathering this information for internal purposes and has chosen to not share the aggregate data with Google. We may use the aggregated data to share with our partners and contractors to help improve the user experience. The program will retain the aggregated data as long as required per our records retention policy. For more information about the Department’s use of Google Analytics, please see: [DHS/ALL/PIA-033 - Google Analytics](http://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_dhs_ga.pdf) (June 9, 2011).
 
