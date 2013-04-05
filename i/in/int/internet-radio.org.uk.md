@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet-radio.org.uk privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021023103id_/http%3A//www.internet-radio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-radio.org.uk privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405094328id_/http%3A//www.internet-radio.com/privacy-policy) for the most accurate reproduction.*
 
 # Internet Radio Privacy Policy
 
