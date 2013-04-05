@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youadlist.com privacy policy that was archived on 2012-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120905023402id_/http%3A//www.simpleclassifiedads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youadlist.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405025927id_/http%3A//www.simpleclassifiedads.com/privacy.php) for the most accurate reproduction.*
 
 # Simple Classified Ads - Privacy Policy
 
