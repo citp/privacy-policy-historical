@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the globalinformationnetwork.com privacy policy that was archived on 2012-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120312003539id_/https%3A//www.globalinformationnetwork.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalinformationnetwork.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405103033id_/https%3A//www.globalinformationnetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# The Global Information Network
+# The Official Site of The Global Information Network
 
 This Privacy Policy explains how this site treats “personal information.” “Personal Information” is information that is personally identifiable like a name, address, e-mail address, social security number or phone number, and that is not otherwise publicly available. 
 
 This site is owned and operated by Global Information Network FDN (“GIN”) for your personal use and information. By accessing and browsing this site, you are accepting, and are bound by, this Privacy Policy. As used herein, GIN shall include Global Information Network FDN, its affiliates and related companies, and each of their subscribers, agents, directors, officers, employees and assigns. 
 
-**Categories of Personal Information Collected**
+**Categories of Personal Information Collected**  
 
 GIN receives and collects the following categories of personal information.
 
@@ -16,7 +16,7 @@ GIN receives and collects the following categories of personal information.
 
 
 
-**Use of Personal Information Collected**
+**Use of Personal Information Collected**  
 
 GIN may use the information that visitors provide us to improve the content of our site, to inform visitors of new products and services, information and for other developmental, operational, or commercial purposes, and to transmit the personal information to third parties for the same reasons. 
 
@@ -28,28 +28,28 @@ GIN may also use the information we collect to investigate, prevent or take acti
 
 GIN reserves the right to share your personally identifiable information, including but not limited to your email address, postal address, and telephone number with its affiliates and third parties.
 
-**Sites not covered by this Policy**
+**Sites not covered by this Policy**  
 
 This Policy does not apply to websites that this site links to, websites that link to this site, websites framed by this site, or any other third party websites. GIN is not responsible for the content, products or services on those sites. You should visit those third-party websites to determine the privacy policy and terms of use that govern those sites.
 
-**Security Measures**
+**Security Measures**  
 
 Our web hosting company uses industry-standard encryption technologies when transferring and receiving consumer information exchanged with our site. Our web hosting company has security measures in place to protect against the loss, misuse or alteration of information that we have collected from you at our site. Although we believe that our web hosting company provides appropriate security measures, we are not responsible for the practices, actions or inactions of that company. 
 
-**Changes to this Policy**
+**Changes to this Policy**  
 
 GIN reserves the right to change this Privacy Policy at any time, and without advanced warning, by updating this page. You are bound by any such revisions and should therefore review this Privacy Policy every time you visit this site. 
 
-**Terms of Use/Membership Agreement**
+**Terms of Use/Membership Agreement**  
 
 Nothing herein waives, limits or in any way modifies ourTerms of Use or the Membership Agreement. 
 
-**“Opt Out Rights”**
+**“Opt Out Rights”**  
 
 If, at any time after visiting the site, you change your mind about receiving information from the site or sharing your Personal Information as described in this Privacy Policy, you may request an opt out. 
 
-**Questions or Additional Information**
+**Questions or Additional Information**  
 
-If you have any questions about this Policy, or if you would like additional information, please do not hesitate to contact us. 
+If you have any questions about this Policy, or if you would like additional information, please do not hesitate to contact us.
 
 Last Updated: June 11, 2009 
