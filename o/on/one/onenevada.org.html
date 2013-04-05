@@ -1,14 +1,19 @@
-<!--The following is the downloaded HTML source of the onenevada.org privacy policy that was archived on 2012-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121005221006id_/https%3A//www.onenevada.org/disclosures/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onenevada.org privacy policy that was archived on 2013-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130405184318id_/https%3A//www.onenevada.org/disclosures/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- ==================== Favicon ================================================== -->
+<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+
 
 <!-- ==================== CSS ================================================== -->
 <!-- CSS Reset _________________________________________________________________ -->
-<link rel="stylesheet" type="text/css" href="../_css/cssreset-min.css">
+<link rel="stylesheet" type="text/css" href="/_css/cssreset-min.css">
 <!-- CSS Styles ________________________________________________________________ -->
-<link rel="stylesheet" type="text/css" href="../_css/structure.css"><link rel="stylesheet" type="text/css" href="../_css/style.css"><link rel="stylesheet" type="text/css" href="../_css/content.css"><link rel="stylesheet" type="text/css" href="../_css/silvercloud-integration.css">
-
+<link rel="stylesheet" type="text/css" href="/_css/structure.css">
+<link rel="stylesheet" type="text/css" href="/_css/style.css">
+<link rel="stylesheet" type="text/css" href="/_css/content.css">
+<link rel="stylesheet" type="text/css" href="/_css/silvercloud-integration.css">
 <!-- ===================== Mobile Styling ========================================= -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes"><link type="text/css" rel="stylesheet" media="handheld, only screen and (max-width: 480px), only screen and (max-device-width: 480px)" href="../_MasterPages/mobile.css"> 
 <!--[if IEMobile]>
@@ -16,16 +21,17 @@
 <![endif]-->
 
 <!-- ==================== SCRIPTS ============================================== -->  
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=406043699427927"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/_scripts/jquery-1.7.1.min.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=406043699427927"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/_scripts/jquery-1.7.1.min.js"></script>
 
 <!-- ____________________ pop-up / Modal Box Plugin _____________________________ -->
-	<script type="text/javascript" src="/_scripts/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-	<link rel="stylesheet" type="text/css" href="../_scripts/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+		<script type="text/javascript" src="/_scripts/fancybox/jquery.fancybox.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="../_scripts/fancybox/jquery.fancybox.css" media="screen">
 	<script type="text/javascript" src="/_scripts/OneNevada-popup.js"></script>
 <!-- ____________________ Star Ratings _________________________________________ -->
 <script type="text/javascript" defer="defer" src="/_scripts/jquery.rating.pack.js"></script>
 	<link rel="stylesheet" type="text/css" href="/_css/jquery.rating.css" media="screen">
 <!-- ____________________ Site Specific Javascript _____________________________ -->
+
 <script type="text/javascript" defer="defer" src="/_scripts/OneNevada.js"></script>
 
 		<!-- Submit SilverLink Online login on 'Enter' key -->
@@ -41,8 +47,13 @@
                                         return false;                     
                 });
    });
+   
+   
+   		// Hides the pop up in the content. Wraps the pop up content in div with a css class that hides the content. 
+		// css() instead of hide() because the content would still be hidden inside the pop-up /modal box.
+		$('#mainContent .pop-up-content').wrap('<div class="hide" />'); 
+		
 </script>
-
 
 
 
@@ -50,22 +61,30 @@
 <!-- ____________________ CSS IE 8 and Below ____________________________________ -->
 <!--[if lte IE 8]>
         <link rel="stylesheet" type="text/css" href="../_css/ie8.css" />
-		<script type="text/javascript" defer="defer" src="../_scripts/ie8.js"></script>
+		<script type="text/javascript" defer="defer" src="~/_scripts/ie8.js"></script>
+</script>	
 <![endif]-->
 <!-- ____________________ CSS IE 7 and Below ____________________________________ -->
 <!--[if lte IE 7]>
         <link rel="stylesheet" type="text/css" href="../_css/ie7.css" />
+	    
 <![endif]-->
 <!-- ____________________ CSS IE 6 and Below ____________________________________ -->
+
 <!--[if lte IE 6]>
-        <link rel="stylesheet" type="text/css" href="../_css/ie6.css" />
-		<script type="text/javascript" defer="defer" src="../_scripts/ie6.js"></script>
-		<script type="text/javascript" src="../_scripts/unitpngfix.js"></script>
+<script type="text/javascript">
+	var RedirectURL = 'https://www.onenevada.org/bank-online/system-requirements.aspx';
+	if (window.location == RedirectURL) { } 
+	else { window.location = RedirectURL; };
+</script>
 <![endif]-->
+
+
+	
+
 
 
 <!-- ==================== GOOGLE ANALYTICS ============================================== -->
-<!-- Google Analytics -->
 <script type="text/javascript">
  
   var _gaq = _gaq || [];
@@ -75,11 +94,11 @@
  
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
  
-</script>
+</script><!-- end GOOGLE ANALYTICS -->
 <title>
 	Privacy Policy - One Nevada Credit Union | Serving Las Vegas, Pahrump and Reno, Nevada - Loans, Checking, Savings, Investments and Insurance
 </title></head>
@@ -93,7 +112,7 @@
 				<div id="silvercloud-header">
 					<div class="silvercloud_searchbar_container"></div></div>
 <!-- ____________________ Login In Button _____________________________________ --> 
-<div class="button login"><a href="/bank-online/login.aspx" class="lock">Manage Your Account</a></div>
+<div class="login"><a href="/bank-online/login.aspx" class="lock">Manage Your Account</a></div>
 <!-- ____________________ Social Media _____________________________________ --> 
 
 			<!-- Facebook Like Script ____________________ -->
@@ -127,18 +146,18 @@
 
 <div id="nav">
 <ul class="main">
-<li class="corner"><a href="../index.aspx">Home</a></li>
+<li><a href="../index.aspx">Home</a></li>
 
 <li><a href="/banking/index.aspx">Banking</a>
-<ul class="sub1">
+<ul>
 	<li><a href="/banking/checking.aspx">Checking</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/banking/checking.aspx#One-Checking">One Checking</a></li>
 		<li><a href="/banking/checking.aspx#One-Checking-Rewards">One Checking Rewards</a></li>
 		<li><a href="/banking/checking.aspx#MyChecking">MyChecking</a></li>
 		<li><a href="/banking/checking.aspx#New-Start">New Start Checking</a></li></ul></li>
 	<li><a href="/banking/savings.aspx">Savings</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/banking/savings.aspx#Primary">Primary Savings</a></li>
 		<li><a href="/banking/savings.aspx#Special">Special Shares</a></li>
 		<li><a href="/banking/savings.aspx#Holiday">Holiday Club</a></li></ul></li>
@@ -149,18 +168,18 @@
 	<li><a href="/banking/MoneyMaker.aspx">MoneyMaker</a>
         </li></ul></li>
 <li><a href="/loans/index.aspx">Loans</a>
-<ul class="sub1">
+<ul>
 	<li><a>Auto Loans</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/loans/auto.aspx">New and Used</a></li>
 		<li><a href="/loans/auto-refinance.aspx">Refinance Your Auto</a></li></ul></li>
 	<li><a href="/loans/consumer.aspx">Consumer Loans</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/loans/consumer.aspx#Motorcycle">Motorcycle</a></li>
 		<li><a href="/loans/consumer.aspx#RV">RV, Boat, Trailer</a></li>
 		<li><a href="/loans/consumer.aspx#Recreational">Recreational Equipment</a></li></ul></li>
 	<li><a href="/loans/personal.aspx">Personal Loans</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="http://www.getadvancepay.com">Advance Pay</a></li>
 		<li><a href="/loans/personal.aspx#Signature">Signature Loan</a></li>
 		<li><a href="/loans/personal.aspx#Quickline">Quickline of Credit</a></li>
@@ -170,74 +189,76 @@
 		<li><a href="/loans/personal.aspx#Certificate">Certificate Secured Loan</a></li>
 		<li><a href="/loans/personal.aspx#Credit">Credit Builder Loan</a></li></ul></li>
 	<li><a>Business Lending</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/loans/commercial-real-estate.aspx">Commercial Real Estate</a></li></ul></li></ul></li>
 <li><a href="/home-loans/index.aspx">Home Loans</a>
-<ul class="sub1">
+<ul>
 	<li><a>Mortgage</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/home-loans/first-mortgage.aspx">First Mortgage</a></li>
 		<li><a href="/home-loans/second-mortgage.aspx">Second Mortgage</a></li>
 		<li><a href="/home-loans/HARP.aspx">HARP Refinance 2.0</a></li></ul></li>
 	<li><a>Resources</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/home-loans/community-realty.aspx">Community Realty</a></li>
 		<li><a href="http://www.ctsnv.com/">Community Title</a></li>
 		<li><a href="/home-loans/MLO/index.aspx">SAFE Act / Mortgage Loan Originators (MLO)</a></li></ul></li></ul></li>
 <li><a href="/insurance/index.aspx">Insurance</a>
-<ul class="sub1">
+<ul>
 	<li><a href="/insurance/services.aspx">Property &amp; Casualty</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/insurance/services.aspx#Auto">Auto</a></li>
-		<li><a href="/insurance/services.aspx#Home">Home</a></li>
+		<li><a href="/insurance/services.aspx#Home">Homeowners</a></li>
+		<li><a href="/insurance/services.aspx#Renter">Renters</a></li>
 		<li><a href="/insurance/services.aspx#Life">Life</a></li></ul></li>
 	<li><a>Other Insurance</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/insurance/accidental.aspx">Accidental</a></li>
 		<li><a href="/insurance/credit-life.aspx">Credit</a></li>
-		<li><a href="http://www.chooseaflac.com/onenevadacu">Aflac<sup>®</sup></a></li></ul></li>
+		<li><a href="http://www.petinsurance.com/affiliates/onenevada">Pet Insurance</a></li></ul></li>
 	<li><a>Insurance FAQ</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/insurance/FAQ.aspx">General FAQ</a></li>
 		<li><a href="/insurance/FAQ-auto.aspx">Auto FAQ</a></li>
-		<li><a href="/insurance/FAQ-homeowner.aspx">Homeowner FAQ</a></li>
+		<li><a href="/insurance/FAQ-homeowner.aspx">Homeowners FAQ</a></li>
 		<li><a href="/insurance/FAQ-life.aspx">Life FAQ</a></li>
 		<li><a href="/insurance/FAQ-renters.aspx">Renters FAQ</a></li>
-		<li><a href="/insurance/FAQ-umbrella.aspx">Umbrella FAQ</a></li></ul></li></ul></li>
+		<li><a href="/insurance/FAQ-flood.aspx">Flood FAQ</a></li>
+		<li><a href="/insurance/FAQ-umbrella.aspx">Umbrella FAQ</a></li></ul></li>
+	<li><a>Contact Us</a>
+        <ul>
+		<li><a href="/insurance/contact.aspx">Insurance Agents</a></li></ul></li></ul></li>
 <li><a href="http://www.inionenevada.org/">Investments</a>
 </li>
 <li><a href="/visa/index.aspx">Visa<sup>®</sup> Cards</a>
-<ul class="sub1">
+<ul>
 	<li><a>Visa<sup>®</sup> Credit</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/visa/platinum.aspx">Visa<sup>®</sup> Platinum</a></li>
 		<li><a href="/visa/design.aspx">Design Your Own Visa<sup>®</sup> Card</a></li>
+		<li><a href="/visa/new-start.aspx">New Start Visa<sup>®</sup></a></li>
 		<li><a href="/visa/CURewards.aspx">CURewards<sup>®</sup></a></li></ul></li>
 	<li><a href="/visa/debit.aspx">Visa<sup>®</sup> Debit</a>
         </li>
-	<li><a href="/visa/prepaid.aspx">Visa<sup>®</sup> Prepaid Debit</a>
-        </li>
 	<li><a href="/visa/gift.aspx">Visa<sup>®</sup> Gift Cards</a>
         </li></ul></li>
-<li><a href="/locations/index.aspx">Locations</a>
-</li>
 <li><a href="/about/index.aspx">About Us</a>
-<ul class="sub1">
+<ul>
 	<li><a>Who We Are</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/about/history.aspx">Our History</a></li>
 		<li><a href="/about/community.aspx">Our Community</a></li>
 		<li><a href="/about/green-efforts.aspx">Our Green Efforts</a></li>
 		<li><a href="/about/Fact-Sheet.pdf">Fact Sheet (PDF)</a></li>
 		<li><a href="/about/press.aspx">Media and Press</a></li></ul></li>
 	<li><a>Who We Serve</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/about/membership.aspx">Field of Membership</a></li>
 		<li><a href="/about/join.aspx">Become a Member</a></li>
 		<li><a href="/about/faq.aspx">Credit Union FAQs</a></li>
 		<li><a href="/about/partnerships.aspx">Partnerships</a></li></ul></li>
 	<li><a>Corporate</a>
-        <ul class="sub2">
+        <ul>
 		<li><a href="/about/president-message.aspx">Message from the President</a></li>
 		<li><a href="/about/executive-team.aspx">Executive Team</a></li>
 		<li><a href="/about/board-of-directors.aspx">Board of Directors</a></li>
@@ -424,7 +445,7 @@
   		<div id="footer-text">
 		
 		<p>*APR = Annual Percentage Rate | APY = Annual Percentage Yield </p>
-		<p>Copyright © 2012 One Nevada Credit Union | All Rights Reserved</p>
+		<p>Copyright © 2013 One Nevada Credit Union | All Rights Reserved</p>
 		
     	Federally insured by NCUA.
 		<img src="/images/logo_ehl.png" alt="Equal Housing Lender">
@@ -433,25 +454,26 @@
        </div>
        <div id="footer-links">
        			<ul>
-					<li><a href="/members/balance.aspx">Account Management</a></li>
 					<li><a href="/about/index.aspx">About Us</a></li>
-					<li><a href="https://www.ezforex.com/login.asp?Affiliate=3089&amp;WebUser=12858" target="_blank">Buy Foreign Currency</a></li>
+					<li><a href="/banking/avoid-fees.aspx">Avoid Fees</a></li>
                     <li><a href="/calculators/index.aspx">Calculators</a></li>
 					<li><a href="/about/careers.aspx">Careers</a></li>
-				</ul><ul>
                     <li><a href="/contact.aspx">Contact Us</a></li>
+				</ul><ul>
                     <li><a href="/disclosures/index.aspx">Disclosures</a></li>
 					<li><a href="https://ssl8.onenevada.org/form/email-us.aspx">Email Us</a></li>
-					<li><a href="/holiday-closings.html" class="pop-up">Holiday Closings</a></li>
-					<li><a href="/locations/index.aspx">Locations</a></li>
+					<li><a href="/members/balance.aspx">Financial Management</a></li>
+					<li><a href="https://www.ezforex.com/login.asp?Affiliate=3089&amp;WebUser=12858" target="_blank">Foreign Currency</a></li>
+					<li><a href="/holiday-closings.html" class="pop-up  fancybox.ajax">Holiday Hours</a></li>
 				</ul><ul>
+					<li><a href="/locations/index.aspx">Locations</a></li>
 					<li><a href="/discounts/index.aspx">Member Discounts</a></li>
 					<li><a href="/members/magazine.aspx" target="_blank">Member Magazine</a></li>
                     <li><a href="/disclosures/privacy.aspx">Privacy Policy</a></li>
                     <li><a href="/rates/index.aspx">Rates</a></li>
-                    <li><a href="/routing-transfer.html" target="_blank" class="pop-up">Routing Number</a></li>
 				</ul><ul>
-					<li><a href="/routing-transfer.html" target="_blank" class="pop-up">Wire Instructions</a></li>
+                    <li><a href="/routing-transfer.html" class="pop-up fancybox.ajax">Routing Number</a></li>
+					<li><a href="/routing-transfer.html" class="pop-up fancybox.ajax">Wire Instructions</a></li>
 					<li><a href="/members/security.aspx">Security</a></li>
                     <li><a href="/sitemap.aspx">Sitemap</a></li>
 					<li><a href="/Social-Media.html" class="pop-up social-media-link">Social Media</a></li>
@@ -463,4 +485,5 @@
 <script src="https://answers.silvercloudinc.com/clients/29707931/javascripts/silvercloud.js" type="text/javascript"></script>
 
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+
+</body></html>
