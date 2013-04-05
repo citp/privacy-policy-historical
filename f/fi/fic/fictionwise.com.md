@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fictionwise.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125150443id_/http%3A//www.fictionwise.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fictionwise.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405123004id_/http%3A//www.fictionwise.com/privacy.htm) for the most accurate reproduction.*
 
 # Fictionwise eBooks: Free eBooks, eBooks for your iPhone, BlackBerry, Android device, Symbian Mobile Phone, Windows Mobile Smartphone, Palm handheld, PC, Mac and more!
 
@@ -40,7 +40,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. Web based option: [click here](https://web.archive.org/web/20121125150443id_/http%3A//www.fictionwise.com/servlet/mw?a=mv&t=update.htm). 
+  1. Web based option: [click here](https://web.archive.org/web/20130405123004id_/http%3A//www.fictionwise.com/servlet/mw?a=mv&t=update.htm). 
   2. You can send mail to the following postal address: 
 
 **Fictionwise  
