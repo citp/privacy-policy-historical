@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onenevada.org privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005221006id_/https%3A//www.onenevada.org/disclosures/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onenevada.org privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405184318id_/https%3A//www.onenevada.org/disclosures/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - One Nevada Credit Union | Serving Las Vegas, Pahrump and Reno, Nevada - Loans, Checking, Savings, Investments and Insurance
 
@@ -66,8 +66,8 @@ Please let us know if you would like further information on how, what or why we 
 
 To contact us you can use any of the following methods:
 
-  * Visit your [nearby branch](https://web.archive.org/web/20121005221006id_/https%3A//www.onenevada.org/locations/)
-  * Call our [Member Service Contact Center](https://web.archive.org/web/20121005221006id_/https%3A//www.onenevada.org/contact.aspx#Phone)
+  * Visit your [nearby branch](https://web.archive.org/web/20130405184318id_/https%3A//www.onenevada.org/locations/)
+  * Call our [Member Service Contact Center](https://web.archive.org/web/20130405184318id_/https%3A//www.onenevada.org/contact.aspx#Phone)
   * Send us an [e-mail](https://ssl8.onenevada.org/form/email-us.aspx)
   * Write to: One Nevada Credit Union, 2645 South Mojave Road, Las Vegas, Nevada 89121
 
@@ -109,7 +109,7 @@ If the child chooses to close their account(s) with us or becomes an inactive me
 
 To help our members with financial decisions, various planning or calculating tools are provided on our website. Example of this would be our “How Much Home Can I Afford” calculator. We do not capture the personal information the child may provide on these planning tools.
 
-[Calculators](https://web.archive.org/web/20121005221006id_/https%3A//www.onenevada.org/calculators/index.aspx)
+[Calculators](https://web.archive.org/web/20130405184318id_/https%3A//www.onenevada.org/calculators/index.aspx)
 
 ### Links from Our Website
 
@@ -145,8 +145,8 @@ Please let us know if you would like further information on how, what or why we 
 
 To contact us you can use any of the following methods:
 
-  * Visit your [nearby branch](https://web.archive.org/web/20121005221006id_/https%3A//www.onenevada.org/locations/)
-  * Call our [Member Service Contact Center](https://web.archive.org/web/20121005221006id_/https%3A//www.onenevada.org/contact.aspx#Phone)
+  * Visit your [nearby branch](https://web.archive.org/web/20130405184318id_/https%3A//www.onenevada.org/locations/)
+  * Call our [Member Service Contact Center](https://web.archive.org/web/20130405184318id_/https%3A//www.onenevada.org/contact.aspx#Phone)
   * Send us an [e-mail](https://ssl8.onenevada.org/form/email-us.aspx)
   * Write to: One Nevada Credit Union, 2645 South Mojave Road, Las Vegas, Nevada 89121
 
