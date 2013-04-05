@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relevantads.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204062031id_/http%3A//www.relevantads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantads.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405035306id_/http%3A//www.relevantads.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Relevant Ads
 
 **Our Commitment to Privacy**
 
@@ -50,4 +50,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How to Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 877-63-LOCAL (877-635-6225) or [contact us online](http://www.relevantads.com/?page_id=21).
+Should you have other questions or concerns about these privacy policies, please call us at 877-532-6037 or [contact us online](https://web.archive.org/?page_id=21).
