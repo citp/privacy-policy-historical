@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the allsole.com privacy policy that was archived on 2012-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121226054756id_/http%3A//www.allsole.com/privacy-policy.info) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allsole.com privacy policy that was archived on 2013-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130406005329id_/http%3A//www.allsole.com/privacy-policy.info) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-gb" dir="ltr" class="js"><head>
 		
 		
-		<!-- Webserver =  || www.allsole.com || 10.10.1.35 -->
-		
+		<!-- Webserver =  || www.allsole.com || 10.10.1.26 -->
+
 		
 
 
@@ -14,6 +14,9 @@
 
 <title>
 	
+		
+		
+		
 		
 		
 		
@@ -53,14 +56,12 @@
 				
 			
 			
-			at Allsole.com - FREE UK Delivery
+			- FREE UK Delivery
 		
 	
 </title>
 
 		
-
-
 
 
 
@@ -71,7 +72,8 @@
 <meta name="Description" content="
 	
 		
-        
+		
+		
 		
 		
 
@@ -86,20 +88,21 @@
 
 
 <meta name="Keywords" content="
-	allsole, Allsole, 
+	Allsole,
 	
 		
 		
-		 
+		
+		
+		
 		
 			
+				
 				
 			
 		
 	
 	, free delivery">
-
-
 
 
 
@@ -115,11 +118,18 @@
 
 
 
-<meta name="google-site-verification" content="QcAb2mRbH2iO6URxF1q7Homnncauobfvdibp5o0waKA">
-<meta name="msvalidate.01" content="0C7E3980985554F9FE9BF55B73262EF0">
 
 
 
+
+
+
+
+
+
+<meta name="google-site-verification" content="2jwxy5UDRUI4anL0BokpBGf3ip_A7ncg-pkPy7_W1cs">
+<meta name="msvalidate.01" content="2CABFD079573592B86CAAD0C018A3CFD">
+<meta http-equiv="Content-Language" content="EN-GB">
 
 
 
@@ -153,7 +163,6 @@
 
 
 
-
 	
 		
 			
@@ -163,21 +172,7 @@
 	
 
 
-		
 
-
-
-
-
-	<link rel="stylesheet" href="/common/css/common.css?v=5" type="text/css" media="screen">
-
-
-
-	<link rel="stylesheet" href="/common/css/base.css?v=1.0" type="text/css" media="screen">
-
-
-
-	
 		
 
 
@@ -185,16 +180,15 @@
 
 
 
-<!-- royalslider must be above screen css -->
 
 
-<link rel="stylesheet" href="css/screen.css?v=1" type="text/css" media="screen"> 
 
 
-	<link rel="stylesheet" href="//thehut.pantherssl.com/design-assets/takeover/allsole/xmas-2012/allsole-xmas.css?50" type="text/css" media="screen">
 
-	
-	
+<link rel="stylesheet" href="css/screen.css?v=11" type="text/css" media="screen">
+
+
+	<link rel="stylesheet" href="//thehut.pantherssl.com/design-assets/takeover/allsole/site/update.css?v=6" type="text/css" media="screen">
 
 
 
@@ -211,13 +205,13 @@
 
 
 
+
 		
-		
 
 
 
 
- 
+
 
 
 
@@ -228,18 +222,41 @@
 	var siteObj = {
 			siteCode: 'allsole',
 			siteNonSecureURL: 'http://www.allsole.com/',
-			siteSecureURL: 'https://www.allsole.com/allsole',
+			siteSecureURL: 'https://www.allsole.com/allsole/',
 			siteBasketURL: 'https://www.allsole.com/allsole/my.basket',
+			siteCheckoutURL: 'https://www.allsole.com/allsole/checkoutStart.secure?newCheckout=true',
 			productImagePrefix: 'http://thehut.pantherssl.com/',
 			siteID: 53,
-			serverIP: '10.10.1.35',
+			siteURL: '//www.allsole.com/',
+			serverIP: '10.10.1.26',
 			siteDefaultLocale: 'en_GB',
 			subsiteCode: (false ? null : 'en'),
 			dept: '',
 			
 			
-			
-			date: 'Wed Dec 26 05:47:55 GMT 2012',
+			date: 'Sat Apr 06 01:53:29 BST 2013',
+			features: {
+				facets : {
+					rowsize : 3
+				},
+				listitem : {
+					freeDelivery : false,
+					showRRP : false,
+					saving : {
+						show: false,
+						percent: false,
+						amount: false
+					},
+					pap : {
+						icon : false,
+						message: false
+					}
+				}
+			},
+			mvt: {
+				newfacets: false,
+				jsfonts: true
+			},
 			props: {
 				product: {
 					viewLargerImageLinkText: "View Larger Image",
@@ -270,9 +287,9 @@
 						basketTotal: "",
 						basketClose: "Close",
 						basketContinue: "Continue Shopping",
-						basketSave: "Save:"
+						basketSave: "Save:",
+						basketRRP: "RRP:"
 					}
-
 				},
 				bundles: {
 					normalSellingPrice: "Normal Selling Price",
@@ -294,9 +311,20 @@
 				sli: {
 					siteName: "",
 					formAction: ""
+				},
+				listItem : {
+					defaultItem : {
+						rrp : "Was:",
+						youSave : "Save:"
+					}
 				}
 			}
 		},
+
+		
+
+		
+
 		showExtras = false,
 		showFlashBanner = false,
 		strTrailerWidth = '400',
@@ -309,14 +337,51 @@
 
 	
 		
-			siteObj.affiliate = '';
+			siteObj.affiliate = 'buyat';
 		
 		
 	
 
+	
+		siteObj.features.listitem.rowsize = 3;
+	
+
+	
+	
+		siteObj.features.listitem.showRRP = true;
+	
+	
+	
+	
+	
+		siteObj.features.listitem.pap.message = true;
+	
+	
+	
+	
 </script>
 
 
+
+
+	
+	
+
+
+
+
+
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type="text/javascript">
+	var _vwo_code=(function(){
+	var account_id=19978,
+	settings_tolerance=2000,
+	library_tolerance=1500,
+	use_existing_jquery=false,
+	// DO NOT EDIT BELOW THIS LINE
+	f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=19978&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130406005329id_%2Fhttp%253A%2F%2Fwww.allsole.com%2Fprivacy-policy.info&amp;r=0.25352635293153436" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
 
 
 	
@@ -345,36 +410,31 @@
 		
 		
 		
+			
+		
+			
+			
+			
+				_gaq.push(['_trackPageview']);
+			
+		
+		
 		
 		
 			
 			
+			
+			
+			
 				
 					
+						_gaq.push(['_setCustomVar', 1, 'Page Type', 'info']);
 					
 					
-						_gaq.push(['_trackPageview']);
-					
-				
-				
-				
-				
-					
-					
-					
-					
-					
-						
-							
-								_gaq.push(['_setCustomVar', 1, 'Page Type', 'info']);
-							
-							
-						
-					
-				
-								
 				
 			
+		
+						
 		
 
 		(function() {
@@ -396,28 +456,6 @@
 
 
 
-<!-- Start Visual Website Optimizer Asynchronous Code -->
-<script type="text/javascript">
-	var _vwo_code=(function(){
-	var account_id=19978,
-	settings_tolerance=2000,
-	library_tolerance=1500,
-	use_existing_jquery=false,
-	// DO NOT EDIT BELOW THIS LINE
-	f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=19978&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20121226054756id_%2Fhttp%253A%2F%2Fwww.allsole.com%2Fprivacy-policy.info&amp;r=0.6490061153973199" type="text/javascript"></script>
-<!-- End Visual Website Optimizer Asynchronous Code -->
-
-
-	
-	
-
-
-
-
-
-
-
 
 
 
@@ -436,7 +474,7 @@
 	
 
 
-	
+
 
 
 
@@ -456,122 +494,1672 @@
 <!--[if lt IE 9]>
 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-	</head>
+	<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="c-scripts/allsole.js?v=4" src="c-scripts/allsole.js?v=4"></script></head>
 	
 		
-			<body id="info" class="privacy-policy">
 		
 		
+			<body id="info" class="info privacy-policy site-en">
 		
+
 		
+
 		
+
 		
+
 		
+
 		
 	
-			<div id="wrap">
-				<div id="inner-wrap">
-				<a name="top"></a>
+	
+	<div class="body-wrap constraint">
+
+		<a name="top"></a>
+		<ul class="accessibility srf-hide">
+			<li><a href="#nav">Skip to main navigation</a></li>
+			<li><a href="#main-content">Skip to main content</a></li>
+		</ul>
+
+		
+		
+
+
+
+<header class="header">
+	<div class="line logo-account-search">
+		<div class="content-inner">
+			
+			<div class="site-branding">
 				
-				<ul id="accessibility">
-					<li><a href="#body-content" accesskey="q">Skip to page content</a></li>
-					<li><a href="#nav" accesskey="w">Skip to primary navigation</a></li>
-					<li><a href="#left-rail" accesskey="e">Skip to secondary navigation</a></li>
-				</ul>
-				
-				
+					<a class="site-logo" href="home.dept" title="Allsole">Allsole</a>
 					
-					
+				
+				<img src="images/logo-print.gif" width="195" height="140" alt="Allsole" title="Allsole" class="logo-print">
+			</div>
+			
+			
+				
+					<div class="search-utilities">
+						<ul class="nav-items header-util-account">
+							
+							<li class="n-unit top-lvl-item welcome first">
+								<div class="login-links">
+									
+										
+											Hello. <a title="Login to your Account" href="accountHome.secure">Sign in</a>
+										
+										
+									
+								</div>
+							</li>
+							
+							
+							<li class="n-unit top-lvl-item help">
+								<a href="http://help.allsole.com/" title="Help and FAQs" class="helpcursor help-site-link" rel="nofollow">Help</a>
+							</li>
+							
+							
+							<li class="n-unit top-lvl-item account">
+								<a href="https://www.allsole.com/allsole/accountHome.secure" title="Login to your Account" rel="nofollow">Your Account <i class="icon-down"></i></a>
+								<ul class="account-sub-nav account-items">
+									<li>
+										<a href="https://www.allsole.com/allsole/accountOrderHistory.secure" title="View your order history" rel="nofollow">Your Orders</a>
+									</li>
+									<li>
+										<a href="https://www.allsole.com/allsole/accountSettings.secure" title="View your account settings" rel="nofollow">Your Settings</a>
+									</li>
+								</ul>
+							</li>
+							
+							
+							
+								<li class="n-unit top-lvl-item currency">
+									
+									
+										
+									
+										
+											<span class="EUR currency-current">
+												<a>&nbsp;
+													<i class="flag EUR-flag"></i>
+													EUR € <i class="icon-down"></i>
+												</a>
+											</span>
+										
+									
+									
+									<ul class="account-sub-nav currency-dropdown currency-show">
+										
+											
+												<li>
+													<span class="GBP">
+														<a rel="nofollow" href="privacy-policy.info?page=privacy-policy&amp;section=info&amp;switchcurrency=GBP">
+															<i class="flag GBP-flag"></i>
+															GBP £
+															
+														</a>
+													</span>
+												</li>
+											
+										
+											
+										
+									</ul>
+								</li>
+							
+							
+							
+							<li class="n-unit top-lvl-item header-basket last">
+								<a href="https://www.allsole.com/allsole/my.basket" title="Basket" rel="nofollow">
+									<span class="basket-name">&nbsp;<i class="icon-basket"></i> Basket</span>
+									<span class="basket-items">
+										(
+										
+											
+											
+												<span class="basket-item-qty">0</span> <span class="basket-item-name">Items</span>
+											
+										
+									) </span>
+								</a>
+							</li>
+						</ul>
 						
+						
+						<div class="line header-search">
+							<div class="search-area">
+								
+									
+									
+										
 
 
 
-<div id="header">
-	<div id="headerContent">
-		
-			<a id="logo" href="home.dept" title="Allsole">Allsole</a>
-			
-		
-		<img src="images/logo-print.gif" width="195" height="140" alt="Allsole" title="Allsole" id="logo-print">
-        <div class="header-wrap-left">
-			<span class="delivery-banner"><a href="http://www.allsole.com/delivery.info" rel="allsole-prestige-delivery-01"><img src="http://thehut.pantherssl.com/banners/173X18-AS-WK17-JL-freeUKdelivery-1.gif" border="0" height="18" width="173" alt="FREE UK DELIVERY" class="bannertrack"></a></span>
-			
-
-
-
-<div id="search">
+<div class="search-wrap">
 	
-		<form action="elysium.search" method="get">
+		
+			<form action="elysium.search" method="get">
+		
 		
 	
 		<fieldset>
 			
 				
 				
-					<input type="text" value="SEARCH" name="search" id="search-text">
+					<input type="text" title="Search" name="search" class="search-input input-overlay">
 				
 			
-			<button type="submit" id="submit" class="cat-button search">Search</button>
+			<button type="submit" class="search icon-search">Search</button>
 		</fieldset>
 	</form>
 </div>
+									
+								
+							</div>
+							
+							
+							
+								<div class="brand-dropdown-area">
+									
 
-		</div>
-		
-		<div id="utilities">
-            <ul>
-				<li class="currency"><span class="GBP currency-current"></span>
+
+
+<div class="brands-nav">
+	<form action="">
+		<fieldset>
+			<label for="brand-list" class="brand-list">
 				
-				<div class="currency-select">
-					<span class="currency-top"></span>
-					<div class="currency-show">
-						
-						<a rel="nofollow" href="privacy-policy.info?page=privacy-policy&amp;section=info&amp;switchcurrency=EUR"><span class="EUR">EUR</span></a>
-						
+				<select id="brand-list" class="select" title="Select a Brand">
+				<option value="">Select a Brand</option>
+					
+						<option value="http://www.allsole.com/brands/ash.list">Ash</option>
+					
+						<option value="http://www.allsole.com/brands/australia-luxe.list">Australia Luxe</option>
+					
+						<option value="http://www.allsole.com/brands/barbour.list">Barbour</option>
+					
+						<option value="http://www.allsole.com/brands/creative-recreation.list">Creative Recreation</option>
+					
+						<option value="http://www.allsole.com/brands/grenson.list">Grenson</option>
+					
+						<option value="http://www.allsole.com/brands/h-by-hudson.list">H by Hudson</option>
+					
+						<option value="http://www.allsole.com/brands/havaianas.list">Havaianas</option>
+					
+						<option value="/brands/house-of-hounds.list">House of Hounds</option>
+					
+						<option value="http://www.allsole.com/brands/hunter.list">Hunter</option>
+					
+						<option value="http://www.allsole.com/brands/jeffrey-campbell.list">Jeffrey Campbell</option>
+					
+						<option value="http://www.allsole.com/brands/joules.list">Joules</option>
+					
+						<option value="http://www.allsole.com/brands/kat-maconie.list">Kat Maconie</option>
+					
+						<option value="http://www.allsole.com/brands/keds.list">Keds</option>
+					
+						<option value="http://www.allsole.com/brands/lucky-brand.list">Lucky Brand</option>
+					
+						<option value="http://www.allsole.com/brands/melissa.list">Melissa</option>
+					
+						<option value="http://www.allsole.com/brands/moon-boot.list">Moon Boot</option>
+					
+						<option value="http://www.allsole.com/brands/ohw.list">Ohw?</option>
+					
+						<option value="http://www.allsole.com/brands/oliver-spencer.list">Oliver Spencer</option>
+					
+						<option value="http://www.allsole.com/brands/rockport.list">Rockport </option>
+					
+						<option value="http://www.allsole.com/brands/sam-edelman.list">Sam Edelman</option>
+					
+						<option value="http://www.allsole.com/brands/saucony.list">Saucony</option>
+					
+						<option value="http://www.allsole.com/brands/sebago.list">Sebago</option>
+					
+						<option value="http://www.allsole.com/brands/see-by-chloe.list">See by Chloe</option>
+					
+						<option value="http://www.allsole.com/brands/senso.list">Senso</option>
+					
+						<option value="http://www.allsole.com/brands/sperry.list">Sperry</option>
+					
+						<option value="http://www.allsole.com/brands/superga.list">Superga</option>
+					
+						<option value="http://www.allsole.com/brands/ted-baker.list">Ted Baker</option>
+					
+						<option value="http://www.allsole.com/brands/ugg.list">UGG</option>
+					
+						<option value="http://www.allsole.com/brands/vans.list">Vans</option>
+					
+						<option value="http://www.allsole.com/brands/vivienne-westwood-for-melissa.list">Vivienne Westwood for Melissa</option>
+					
+				</select>
+			</label>
+		</fieldset>
+	</form>
+</div>
+								</div>
+							
+						</div>
 					</div>
-				</div>
-				</li>					
- 				<li><a title="Help and FAQs" href="http://help.allsole.com" class="helpcursor" rel="nofollow">Help</a></li>
-				<li><a title="Get in contact with us" href="http://www.allsole.com/contact-us.info" rel="nofollow">Contact Us</a></li>
 				
-                <li><a title="Login to your Account" href="https://www.allsole.com/allsole/accountHome.secure" rel="nofollow">My Account</a></li>	                           
-            </ul>
-			<div id="header-basket">
+				
+			
+		</div>
+	</div>
+	
+	
+		
+		
+
+
+
+
+
+
+
+	
+		<nav class="nav nav-main">
+			<ul>
+				<li class="list-item home">
+					<div class="nav-parent">
+						<a href="home.dept" title="">Home</a>
+					</div>
+				</li>
+				
+				<li class="list-item women">
+					<div class="nav-parent">
+						<a title="Women" href="/catalogue/women.list">Women</a>
+					</div>
+
+					
+
+						
+							
+							
+							
+							
+								
+								
+
+								
+
+
+									
+										<div class="submenu-wrap">
+											<div class="submenu line">
+
+											
+
+
+
+
+
+
+
+	
+	
+		<div class="column-row">
+			<div id="nav-usp" class="column line">
 				
 					
+						<ul>
 					
+							<li><a title="Free UK and European Delivery" href="/delivery.info">Free UK and European Delivery</a></li>
 					
-						<span class="basket-empty">Shopping Basket</span>
+				
+					
+							<li class="last"><a title="Worldwide Delivery" href="/delivery.info">Worldwide Delivery</a></li>
+					
+						</ul>
 					
 				
 			</div>
-        </div>		    
-    </div> 
-	<div id="nav">
-		<div id="navContent">
-		<ul>
-			<li class="first"><a accesskey="1" class="main-dept home" href="home.dept" title="Go to the Homepage">Home</a></li>
-        
-            <li><a accesskey="2" class="main-dept women" href="clothing/women.dept" title="Go to the Women page">Women</a></li>
-        
-            <li><a accesskey="3" class="main-dept men" href="clothing/men.dept" title="Go to the Men page">Men</a></li>
-        
-             <li><a accesskey="5" class="main-dept junior" href="clothing/junior.dept" title="Go to Junior">Junior</a></li>
+		</div>
+	
+
+
+												<div class="line submenu-content">
+													
+									
+
+												
+													
+													
+													
+
+														
+
+
+
+
+
+
+<div class="dropdown">
+	<h4 class="submenu-title">Brands</h4>
+	
+
+	
+		
+			<ul>
+		
 			
-			<li><a accesskey="4" class="main-dept brand" href="clothing/brand.dept" title="Go to Brands">Brands</a></li>
-
-			<!-- <li><a accesskey="6" class="main-dept accessories" href="/accessories.dept" title="Go to the Accessories page">Accessories</a></li> -->
-
-			<li><a accesskey="7" class="main-dept trends" href="offers/trending.list" title="Trending">Trending</a></li>
-
-			<li><a accesskey="8" class="main-dept outlet" href="offers/outlet.list" title="Go to Outlet">Outlet</a></li>
-
-           </ul>
-    </div>
-	</div>
+				<li><a title="Ash" href="/brands/ash.list">Ash</a></li>
+		
+		
+	
+		
+			
+				<li><a title="H by Hudson" href="/brands/h-by-hudson.list?searchFilters=V29tZW4jZ2VuZGVyX2NvbnRlbnQ6V29tZW4hUmVzdHJpY3RlZCBDb250ZW50IEZpbHRlciNyZXN0cmljdGVkOmZhbHNlIQ%3D%3D">H by Hudson</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Hunter" href="/brands/hunter.list?searchFilters=V29tZW4jZ2VuZGVyX2NvbnRlbnQ6V29tZW4hUmVzdHJpY3RlZCBDb250ZW50IEZpbHRlciNyZXN0cmljdGVkOmZhbHNlIQ%3D%3D">Hunter</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Jeffrey Campbell" href="/brands/jeffrey-campbell.list">Jeffrey Campbell</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Melissa" href="/brands/melissa.list">Melissa</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Sam Edelman" href="/brands/sam-edelman.list">Sam Edelman</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Ted Baker" href="/brands/ted-baker.list?searchFilters=V29tZW4jZ2VuZGVyX2NvbnRlbnQ6V29tZW4hUmVzdHJpY3RlZCBDb250ZW50IEZpbHRlciNyZXN0cmljdGVkOmZhbHNlIQ%3D%3D">Ted Baker</a></li>
+		
+		
+	
+		
+			
+				<li><a title="UGG" href="/brands/ugg.list">UGG</a></li>
+		
+		
+			</ul>
+		
+	
+	
 </div>
 
+													
 
+													
+													
+																												
+									
+								
+
+								
+
+
+									
+
+												
+													
+													
+													
+
+														
+
+
+
+
+
+
+<div class="dropdown">
+	<h4 class="submenu-title">By Style</h4>
+	
+
+	
+		
+			<ul>
+		
+			
+				<li><a title="Boots" href="/catalogue/women/by-style/boots.list">Boots</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Flats" href="/catalogue/women/by-style/flats.list">Flats</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Heels" href="/catalogue/women/by-style/heels.list">Heels</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Sandals" href="/catalogue/women/by-style/sandals.list">Sandals</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Wellies" href="/catalogue/women/by-style/wellies.list">Wellies</a></li>
+		
+		
+			</ul>
+		
+	
+	
+</div>
+
+													
+
+													
+													
+																												
+									
+								
+
+								
+
+
+									
+
+												
+													
+													
+													
+
+														
+
+
+
+
+
+
+<div class="dropdown">
+	<h4 class="submenu-title"><a title="Women's" href="/catalogue/women.list">Women's</a></h4>
+	
+
+	
+		
+			<ul>
+		
+			
+				<li><a title="Accessories" href="/catalogue/women/accessories.list">Accessories</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Best Selling" href="/catalogue/women/best-sellers.list">Best Selling</a></li>
+		
+		
+	
+		
+			
+				<li><a title="New In" href="/catalogue/women/new-in.list">New In</a></li>
+		
+		
+			</ul>
+		
+	
+	
+</div>
+
+													
+
+													
+													
+																												
+									
+
+													<div class="dropdown-content">
+														
+															
+																 
+
+
+
+
+
+	
+	
+		
+			
+	
+
+
+<a href="/brands/jeffrey-campbell.list">
+	
+	<img class="" src="http://thehut.pantherssl.com/widgets/53-en/51/320x180-AS-NR-JeffreyCampbell-Dark-072051.jpg">
+</a>
+															
+														
+													</div>
+
+												</div>
+
+											</div>
+										</div>
+
+									
+								
+								
+							
+						</li>
+					<li class="list-item men">
+					<div class="nav-parent">
+						<a title="Men" href="/catalogue/men.list">Men</a>
+					</div>
+
+					
+
+						
+							
+							
+							
+							
+								
+								
+
+								
+
+
+									
+										<div class="submenu-wrap">
+											<div class="submenu line">
+
+											
+
+
+
+
+
+
+
+	
+	
+		<div class="column-row">
+			<div id="nav-usp" class="column line">
+				
+					
+						<ul>
+					
+							<li><a title="Free UK and European Delivery" href="/delivery.info">Free UK and European Delivery</a></li>
+					
+				
+					
+							<li class="last"><a title="Worldwide Delivery" href="/delivery.info">Worldwide Delivery</a></li>
+					
+						</ul>
+					
+				
+			</div>
+		</div>
+	
+
+
+												<div class="line submenu-content">
+													
+									
+
+												
+													
+													
+													
+
+														
+
+
+
+
+
+
+<div class="dropdown">
+	<h4 class="submenu-title">Brands</h4>
+	
+
+	
+		
+			<ul>
+		
+			
+				<li><a title="Barbour" href="/catalogue/men/brands/barbour.list">Barbour</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Grenson" href="/brands/grenson.list">Grenson</a></li>
+		
+		
+	
+		
+			
+				<li><a title="H by Hudson" href="/brands/h-by-hudson.list?searchFilters=TWVuI2dlbmRlcl9jb250ZW50Ok1lbiFSZXN0cmljdGVkIENvbnRlbnQgRmlsdGVyI3Jlc3RyaWN0ZWQ6ZmFsc2Uh">H by Hudson</a></li>
+		
+		
+	
+		
+			
+				<li><a title="House of Hounds" href="/brands/house-of-hounds.list">House of Hounds</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Oliver Spencer" href="/brands/oliver-spencer.list">Oliver Spencer</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Saucony" href="/brands/saucony.list">Saucony</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Ted Baker" href="/brands/ted-baker.list?searchFilters=TWVuI2dlbmRlcl9jb250ZW50Ok1lbiFSZXN0cmljdGVkIENvbnRlbnQgRmlsdGVyI3Jlc3RyaWN0ZWQ6ZmFsc2Uh">Ted Baker</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Vans" href="/brands/vans.list?searchFilters=TWVuI2dlbmRlcl9jb250ZW50Ok1lbiFSZXN0cmljdGVkIENvbnRlbnQgRmlsdGVyI3Jlc3RyaWN0ZWQ6ZmFsc2Uh">Vans</a></li>
+		
+		
+			</ul>
+		
+	
+	
+</div>
+
+													
+
+													
+													
+																												
+									
+								
+
+								
+
+
+									
+
+												
+													
+													
+													
+
+														
+
+
+
+
+
+
+<div class="dropdown">
+	<h4 class="submenu-title">By Style</h4>
+	
+
+	
+		
+			<ul>
+		
+			
+				<li><a title="Boots" href="/catalogue/men/by-style/boots.list">Boots</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Casual" href="/catalogue/men/by-style/casual.list">Casual</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Smart" href="/catalogue/men/by-style/smart.list">Smart</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Trainers" href="/catalogue/men/by-style/trainers.list">Trainers</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Wellies" href="/catalogue/men/by-style/wellies.list">Wellies</a></li>
+		
+		
+			</ul>
+		
+	
+	
+</div>
+
+													
+
+													
+													
+																												
+									
+								
+
+								
+
+
+									
+
+												
+													
+													
+													
+
+														
+
+
+
+
+
+
+<div class="dropdown">
+	<h4 class="submenu-title"><a title="Men's" href="http://www.allsole.com/navigation-header/men/mens.list">Men's</a></h4>
+	
+
+	
+		
+			<ul>
+		
+			
+				<li><a title="Accessories" href="/catalogue/men/accessories.list">Accessories</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Best Sellers" href="/catalogue/men/best-sellers.list">Best Sellers</a></li>
+		
+		
+	
+		
+			
+				<li><a title="New In" href="/catalogue/men/new-in.list">New In</a></li>
+		
+		
+			</ul>
+		
+	
+	
+</div>
+
+													
+
+													
+													
+																												
+									
+
+													<div class="dropdown-content">
+														
+															
+																 
+
+
+
+
+
+	
+	
+		
+			
+	
+
+
+<a href="/brands/house-of-hounds.list">
+	
+	<img class="" src="http://thehut.pantherssl.com/widgets/53-en/11/320x180-AS-NR-HouseOfHounds-Medium-072111.jpg">
+</a>
+															
+														
+													</div>
+
+												</div>
+
+											</div>
+										</div>
+
+									
+								
+								
+							
+						</li>
+					<li class="list-item junior">
+					<div class="nav-parent">
+						<a title="Junior" href="/catalogue/junior.list">Junior</a>
+					</div>
+
+					
+
+						
+							
+							
+							
+							
+								
+								
+
+								
+
+
+									
+										<div class="submenu-wrap">
+											<div class="submenu line">
+
+											
+
+
+
+
+
+
+
+	
+	
+		<div class="column-row">
+			<div id="nav-usp" class="column line">
+				
+					
+						<ul>
+					
+							<li><a title="Free UK and European Delivery" href="/delivery.info">Free UK and European Delivery</a></li>
+					
+				
+					
+							<li class="last"><a title="Worldwide Delivery" href="/delivery.info">Worldwide Delivery</a></li>
+					
+						</ul>
+					
+				
+			</div>
+		</div>
+	
+
+
+												<div class="line submenu-content">
+													
+									
+
+												
+													
+													
+													
+
+														
+
+
+
+
+
+
+<div class="dropdown">
+	<h4 class="submenu-title">Brands</h4>
+	
+
+	
+		
+			<ul>
+		
+			
+				<li><a title="Hunter" href="/catalogue/junior/brands/hunter.list">Hunter</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Joules" href="/catalogue/junior/brands/joules.list">Joules</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Melissa" href="/catalogue/junior/brands/melissa.list">Melissa</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Moonboots" href="/catalogue/junior/brands/moon-boots.list">Moonboots</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Vans" href="/catalogue/junior/brands/vans.list">Vans</a></li>
+		
+		
+			</ul>
+		
+	
+	
+</div>
+
+													
+
+													
+													
+																												
+									
+								
+
+								
+
+
+									
+
+												
+													
+													
+													
+
+														
+
+
+
+
+
+
+<div class="dropdown">
+	<h4 class="submenu-title">By Style</h4>
+	
+
+	
+		
+			<ul>
+		
+			
+				<li><a title="Boots" href="/catalogue/junior/by-style/boots.list">Boots</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Casual" href="/catalogue/junior/by-style/casual.list">Casual</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Wellies" href="/catalogue/junior/by-style/wellies.list">Wellies</a></li>
+		
+		
+			</ul>
+		
+	
+	
+</div>
+
+													
+
+													
+													
+																												
+									
+								
+
+								
+
+
+									
+
+												
+													
+													
+													
+
+														
+
+
+
+
+
+
+<div class="dropdown">
+	<h4 class="submenu-title"><a title="Junior" href="/catalogue/junior.list">Junior</a></h4>
+	
+
+	
+		
+			<ul>
+		
+			
+				<li><a title="Accessories" href="/catalogue/junior/accessories.list">Accessories</a></li>
+		
+		
+	
+		
+			
+				<li><a title="Best Sellers" href="/catalogue/junior/best-sellers.list">Best Sellers</a></li>
+		
+		
+	
+		
+			
+				<li><a title="New In" href="/catalogue/junior/new-in.list">New In</a></li>
+		
+		
+			</ul>
+		
+	
+	
+</div>
+
+													
+
+													
+													
+																												
+									
+
+													<div class="dropdown-content">
+														
+															
+																 
+
+
+
+
+
+	
+	
+		
+			
+	
+
+
+<a href="/brands/vans.list">
+	
+	<img class="" src="http://thehut.pantherssl.com/widgets/53-en/21/320x180-AS-NR-Vans-Light-072121.jpg">
+</a>
+															
+														
+													</div>
+
+												</div>
+
+											</div>
+										</div>
+
+									
+								
+								
+							
+						</li>
+					<li class="list-item brands">
+					<div class="nav-parent">
+						<a title="Brands" href="/brands.list">Brands</a>
+					</div>
+
+					
+
+						
+							
+							
+								
+									
+									
+									
+									
+									
+
+									
+										<div class="submenu-wrap">
+											<div class="submenu line">
+												
+
+
+
+
+
+
+
+	
+	
+		<div class="column-row">
+			<div id="nav-usp" class="column line">
+				
+					
+						<ul>
+					
+							<li><a title="Free UK and European Delivery" href="/delivery.info">Free UK and European Delivery</a></li>
+					
+				
+					
+							<li class="last"><a title="Worldwide Delivery" href="/delivery.info">Worldwide Delivery</a></li>
+					
+						</ul>
+					
+				
+			</div>
+		</div>
+	
+
+												<div class="line submenu-content">
+													<div class="dropdown">
+														<ul>
+										
+
+											<li><a title="Ash" href="/brands/ash.list">Ash</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Australia Luxe" href="/brands/australia-luxe.list">Australia Luxe</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Barbour" href="/brands/barbour.list">Barbour</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Creative Recreation" href="/brands/creative-recreation.list">Creative Recreation</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Grenson" href="/brands/grenson.list">Grenson</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Havaianas" href="/brands/havaianas.list">Havaianas</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="H by Hudson" href="/brands/h-by-hudson.list">H by Hudson</a></li>
+
+											
+												
+														</ul>
+													</div>
+													<div class="dropdown last">
+														<ul>
+												
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="House Of Hounds" href="/brands/house-of-hounds.list">House Of Hounds</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Hunter" href="/brands/hunter.list">Hunter</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Jeffrey Campbell" href="/brands/jeffrey-campbell.list">Jeffrey Campbell</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Joules" href="/brands/joules.list">Joules</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Kat Maconie" href="/brands/kat-maconie.list">Kat Maconie</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Keds" href="/brands/keds.list">Keds</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Lucky Brand" href="/brands/lucky-brand.list">Lucky Brand</a></li>
+
+											
+												
+														</ul>
+													</div>
+													<div class="dropdown last">
+														<ul>
+												
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Melissa" href="/brands/melissa.list">Melissa</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Moon Boot" href="/brands/moon-boot.list">Moon Boot</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Ohw?" href="/brands/ohw.list">Ohw?</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Oliver Spencer" href="/brands/oliver-spencer.list">Oliver Spencer</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Rockport" href="/brands/rockport.list">Rockport</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Sam Edelman" href="/brands/sam-edelman.list">Sam Edelman</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Saucony" href="/brands/saucony.list">Saucony</a></li>
+
+											
+												
+														</ul>
+													</div>
+													<div class="dropdown last">
+														<ul>
+												
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Sebago" href="/brands/sebago.list">Sebago</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="See by Chloe" href="/brands/see-by-chloe.list">See by Chloe</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Senso" href="/brands/senso.list">Senso</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Sperry" href="/brands/sperry.list">Sperry</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Superga" href="/brands/superga.list">Superga</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Ted Baker" href="/brands/ted-baker.list">Ted Baker</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="UGG" href="/brands/ugg.list">UGG</a></li>
+
+											
+												
+														</ul>
+													</div>
+													<div class="dropdown last">
+														<ul>
+												
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Vans" href="/brands/vans.list">Vans</a></li>
+
+											
+
+									
+								
+									
+									
+									
+									
+									
+
+									
+
+											<li><a title="Vivienne Westwood for Melissa" href="/brands/vivienne-westwood-for-melissa.list">Vivienne Westwood for Melissa</a></li>
+
+											
+
+									
+														</ul>
+													</div>
+												</div>
+											</div>
+										</div>
+									
+								
+							
+							
+							
+						</li>
+					<li class="list-item trending">
+					<div class="nav-parent">
+						<a title="Trending" href="/catalogue/trending.list">Trending</a>
+					</div>
+
+					
+
+						
+							
+							
+							
+							
+								
+								
+								
+							
+						</li>
+					<li class="list-item outlet">
+					<div class="nav-parent">
+						<a title="Outlet" href="/offers/outlet.list">Outlet</a>
+					</div>
+
+					
+
+						
+							
+							
+							
+							
+								
+								
+								
+							
+						</li>
+					
+			</ul>
+		</nav>
+	
+	
+	
+		<div id="strip-banner">
+			<!--No Banners for allsole-generic-strip-->
+		</div>
+	
+	
+	
 
 
 
@@ -590,8 +2178,9 @@
 		
 	
 </div>
-
-
+	
+	
+		
 
 
 
@@ -600,139 +2189,75 @@
 
 
 	
-
-
-
-<div id="breadcrumbs">
-	<ul>
-		
-		<li class="first"><a href="http://www.allsole.com/home.dept">home</a></li>
-		
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
-			
-			
-			
-			
-			
-				
-					
-					<li>privacy policy</li>
-					
-					
-					
-				
-			
-		
-		
-			
-			
-		
-		
-			
-			
-		
-	</ul>
-</div>
-
-
-
-
-
-					
-				
-				
-				<div id="body-content">
-					
-												
-						
-							<div id="left-rail">
-								
-									
-									
-									
-										
-											
-											
-												
-
-
-
-
-
-
-
-
-
-   
 	
-    
-
-  
-
-  
-  
-
-  
-  
-
-  
-
-
-  
-  
-
- 
-
-
+		<div class="column-row">
+			<div id="nav-usp" class="column line">
+				
+					
+						<ul>
+					
+							<li><a title="Free UK and European Delivery" href="/delivery.info">Free UK and European Delivery</a></li>
+					
+				
+					
+							<li class="last"><a title="Worldwide Delivery" href="/delivery.info">Worldwide Delivery</a></li>
+					
+						</ul>
+					
+				
+			</div>
+		</div>
 	
 
- 
-  
+	
+</header>
 
- 
-  
+		
+			
+			
+				
+				
+			
+		
 
- 
-  
+		
+			<div class="page-container cf constraint">
+		
+
+		
+		
+
+		
+			
+				<!-- Do not show left rail -->
+
+				
+				<section class="middle-rail unit-block">
+			
+			
+			
+		
+
+		
+
+			
+
+			
+
+			
+			
+			
+
+			
+			
+			
+
+			
+				
 
 
 
-  
-
-
-											
-										
-									
-								
-							</div>
-						
-					
-					
-					<div id="middle-rail">
-						
-							
-							
-							
-							
-							
-							
-							
-							
-								
-
-
-
-<div class="panel">
+<div class="panel content-inner">
 	<div class="panel-head">
 		<h1><span>Privacy Policy</span></h1>
 	</div>
@@ -754,21 +2279,14 @@
 <table width="135" align="center" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
 	<tbody><tr>
 		<td width="135" align="center" valign="top">
-			
-            
-            	
-                
-				
-                
-                <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.allsole.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
-			
+			<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.allsole.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
 			<br>
-            
 			
-            
-            	<a href="http://www.verisign.com/ssl-certificate/" target="_blank" id="ssllink">ABOUT SSL CERTIFICATES</a>
-            
-            
+				
+				
+					<a href="http://www.verisign.com/ssl-certificate/" target="_blank" id="ssllink">ABOUT SSL CERTIFICATES</a>
+				
+			
 		</td>
 	</tr>
 </tbody></table>
@@ -804,7 +2322,7 @@
 			<p>In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the "Act"). The Act requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people.</p>
 			<p>We take the risk of internet fraud very seriously. With the volume of fraudulent credit card transactions increasing, we make every effort to ensure all orders are thoroughly checked using the information already supplied. There is a possibility we may contact you to make additional security checks and we ask for your co-operation to enable us to complete them. Fraudulent transactions will not be tolerated by us and such transactions will be reported to the relevant authorities.</p>
 			<h2>Contact Us</h2>
-			<p>If you have any queries on any aspect of the above policy, please <a href="https://www.allsole.com/allsole/customerQuery.secure?skeletonAccount=true">contact us</a>.</p>
+			<p>If you have any queries on any aspect of the above policy, please <a href="https://www.allsole.com/allsole/customerQuery.secure?action=postQuery&amp;skeletonAccount=true">contact us</a>.</p>
 			
 		</div>
 	</div>
@@ -812,211 +2330,335 @@
 		<p>&nbsp;</p>
 	</div>
 </div>
-							
-							
-							
-						
-					</div>
-					
-					
-						
-						
-							<div id="right-rail">
-								
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-		
 			
-			
-				<!--Cannot Find Banner Set allsole-offers-clothing-right-01-->
-				<!--Cannot Find Banner Set allsole-offers-clothing-right-02-->
+
 			
 		
-	
+			</section>
 
-
-    
-	
-
-	
-
-							</div>
-						
-					
-				</div>
-
-				
-					
-						
-
-
-
-<div id="footer">
-	
-
-
-
-
-
-	
-	<div id="footerContent">
-		<ul id="footerLinks">
-			<li class="first"><a href="http://www.allsole.com/privacy-policy.info" rel="nofollow">Privacy Policy</a></li>
-			<li><a href="http://www.allsole.com/terms-and-conditions.info" rel="nofollow">Terms &amp; Conditions</a></li>
-            <li><a href="http://www.allsole.com/delivery.info" rel="nofollow">Delivery Options</a></li>
-			<li><a href="http://help.allsole.com">Help</a></li>
-			<li><a href="http://www.allsole.com/affiliates.info" rel="nofollow">Affiliates</a></li>
-			<li><a title="Get in contact with us" href="http://www.allsole.com/contact-us.info" rel="nofollow">Contact Us</a></li>
-			<li><a href="http://www.allsole.com/latestReviews.secure" title="Latest Reviews" rel="nofollow">Latest Reviews</a></li>
-            <li><a href="http://www.allsole.com/returns-policy.info" title="Returns" rel="nofollow">Returns</a></li>
-			<li><a href="http://www.allsole.com/cookies-policy.info" title="Cookies" rel="nofollow">Cookies</a></li>
-			<li><a href="https://www.allsole.com/allsole/emailSignUpCheck.secure">Newsletter</a></li>
-			
-			<li class="social">
-				<ul>
-					<li class="facebook"><a title="Add us to Faceboook" rel="external" href="http://www.facebook.com/allsole"><span>Facebook</span></a></li>
-					<li class="twitter"><a title="Follow us on Twitter" rel="external" href="http://www.twitter.com/allsole"><span>Twitter</span></a></li>
-					<li class="google"><a title="Follow us on Google+" rel="external" href="https://plus.google.com/u/0/115188339946997632493"><span>Google+</span></a></li>
-				</ul>
-			</li>
-		</ul>
-	</div>
-	
-	<p id="hutgroup-message">Allsole.com - Part of The Hut Group</p>
-	<p id="copyright">© 2012 The Hut.com Ltd, a company registered in England and Wales (company number 5016010) whose registered office is at Meridian House, Gadbrook Park, Gadbrook Way, Rudheath, Northwich, Cheshire, UK, CW9 7RA.</p>
-</div>
-					
-					
-				
-				</div>
+		
 			</div>
+		
+
+		
+		
 			
+
+
+
+<footer class="footer cf">
+
+	
+
+
+
+
+
+<div class="line widget-social-signup">
+	<div class="unit size-2of3">
+		<div class="newsletter-signup-widget">
+			<form action="https://www.allsole.com/allsole/emailSignUpCheck.secure?signup=1" method="post">
+				<fieldset>
+					<legend>Sign up to our newsletter</legend>
+					<label for="info" class="email-signup-label">Sign up to our newsletter</label>
+					<input type="text" class="email-signup-input" id="info" name="email" value="Enter email address here">
+					<button type="submit" class="btn btn-primary submit">Submit</button>
+				</fieldset>
+			</form>
+		</div>
+	</div>
+
+	<div class="unit size-1of3">
+		<div class="social-widget">
+			<ul>
+				<li><span class="social-widget-label">On the move?</span></li>
+				<li><a href="https://www.facebook.com/allsole" rel="external"><i class="icon icon-facebook"></i></a></li>
+				<li><a href="https://twitter.com/allsole" rel="external"><i class="icon icon-twitter"></i></a></li>
+				<li><a href="https://plus.google.com/u/0/115188339946997632493" rel="external"><i class="icon icon-gplus"></i></a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+	<div class="footer-wrap constraint">
+		<div class="footer-nav footer-top line">
 			
-
-
-
-
-
-
-
-
-	
-	
-		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-	
-
-
-
-	
-	
-		<script type="text/javascript" src="/common/scripts/plugins/jquery.swfobject.1-0-9.min.js"></script>
-		<script type="text/javascript" src="/common/scripts/common.js?v=1.1"></script>
-	
-
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-	
-		<script type="text/javascript" src="/common/scripts/plugins/jquery.mtabs.1.2.5.min.js"></script>
-		<script type="text/javascript" src="/common/scripts/plugins/jquery.cycle.all.min.js"></script>
-		<script type="text/javascript" src="/common/scripts/plugins/jquery.jcarousel.min.js"></script>
-		
-		
-		
-		
-		
-		
-		<script type="text/javascript" src="scripts/allsole.js?v=7"></script>
-	
-	
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
+				<div class="unit size-1of6 ">
+					<ul class="category-segment">
+						<li class="footer-links">
+							<span><a title="Women's Footwear" href="/catalogue/women.list">Women's Footwear</a></span>
+						</li>
+						
+							<li class="footer-links">
+								<a title="Women's Boots" href="/catalogue/women/by-style/boots.list">Women's Boots</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Women's Flats" href="/catalogue/women/by-style/flats.list">Women's Flats</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Women's Heels" href="/catalogue/women/by-style/heels.list">Women's Heels</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Women's Sandals" href="/catalogue/women/by-style/sandals.list">Women's Sandals</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Women's Wellies" href="/catalogue/women/by-style/wellies.list">Women's Wellies</a>
+							</li>
+						
+					</ul>
+				</div>
 			
+				<div class="unit size-1of6 ">
+					<ul class="category-segment">
+						<li class="footer-links">
+							<span><a title="Men's Footwear" href="/catalogue/men.list">Men's Footwear</a></span>
+						</li>
+						
+							<li class="footer-links">
+								<a title="Men's Boots" href="/catalogue/men/by-style/boots.list">Men's Boots</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Men's Casual" href="/catalogue/men/by-style/casual.list">Men's Casual</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Men's Smart" href="/catalogue/men/by-style/smart.list">Men's Smart</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Men's Trainers" href="/catalogue/men/by-style/trainers.list">Men's Trainers</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Men's Wellies" href="/catalogue/men/by-style/wellies.list">Men's Wellies</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+				<div class="unit size-1of6 ">
+					<ul class="category-segment">
+						<li class="footer-links">
+							<span><a title="Junior Footwear" href="/catalogue/junior.list">Junior Footwear</a></span>
+						</li>
+						
+							<li class="footer-links">
+								<a title="Junior Boots" href="/catalogue/junior/by-style/boots.list">Junior Boots</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Junior Casual" href="/catalogue/junior/by-style/casual.list">Junior Casual</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Junior Sandals" href="/catalogue/junior/by-style/sandals.list">Junior Sandals</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Junior Trainers" href="/catalogue/junior/by-style/trainers.list">Junior Trainers</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Junior Wellies" href="/catalogue/junior/by-style/wellies.list">Junior Wellies</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+				<div class="unit size-1of6 ">
+					<ul class="category-segment">
+						<li class="footer-links">
+							<span><a title="Trending" href="/catalogue/trending.list">Trending</a></span>
+						</li>
+						
+							<li class="footer-links">
+								<a title="Fantasy Footwear" href="/catalogue/trending/fantasy-footwear.list">Fantasy Footwear</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Glossy Metallics" href="/catalogue/trending/glossy-metallics.list">Glossy Metallics</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Pastel vs Neon" href="/catalogue/trending/pastel-vs-neon.list">Pastel vs Neon</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Pure and Simple" href="/catalogue/trending/pure-and-simple.list">Pure and Simple</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Stop and Stare" href="/catalogue/trending/stop-and-stare.list">Stop and Stare</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+				<div class="unit size-1of6 ">
+					<ul class="category-segment">
+						<li class="footer-links">
+							<span>Customer Service</span>
+						</li>
+						
+							<li class="footer-links">
+								<a title="Help" href="http://help.allsole.com/" rel="external">Help</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Returns" href="/returns-policy.info">Returns</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Contact Us" href="/contact-us.info">Contact Us</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Delivery Options" href="/delivery.info">Delivery Options</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Terms &amp; Conditions" href="/terms-and-conditions.info">Terms &amp; Conditions</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+				<div class="unit size-1of6  last-unit">
+					<ul class="category-segment">
+						<li class="footer-links">
+							<span>Useful Links</span>
+						</li>
+						
+							<li class="footer-links">
+								<a title="Affiliates" href="/affiliates.info">Affiliates</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Cookie Information" href="/cookies-policy.info">Cookie Information</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Newsletter" href="https://www.allsole.com/allsole/emailSignUpCheck.secure">Newsletter</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Privacy Policy" href="/privacy-policy.info">Privacy Policy</a>
+							</li>
+						
+							<li class="footer-links">
+								<a title="Sitemap" href="/site-map.info">Sitemap</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		</div>
+  	
+		<div class="footer-bottom line cf">
+			<div class="unit size-5of6">
+				<p class="copyright">© 2013 The Hut.com Ltd, a company registered in England and Wales (company number 5016010) whose registered office is at Meridian House, Gadbrook Park, Gadbrook Way, Rudheath, Northwich, Cheshire, UK, CW9 7RA.</p>
+			</div>
+			<div class="unit size-1of6">
+				<p class="hutgroup-message">Allsole - Part of The Hut Group</p>
+			</div>
+		</div>
+	
+	</div>
+</footer>
+		
+
+	</div>
+
+
+
+		
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+	
+		
+	
+	
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<script src="/common/scripts/libs/require/require.js"></script>
+		<script>
+			require(["c-scripts/allsole.js?v=4"]);
+		</script>
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+		
 
 
 
@@ -1100,42 +2742,11 @@
 
 	
 	
-
-	
-	
-	
-	
-		
-
-
-
-
-
-
-
-
-
-	
 		
 	
 	
 
 
-
-
-
-
-
- 
-	<script src="//www.dwin1.com/3660.js" type="text/javascript" defer="defer"></script>
-
-
-	
-	
-	
-
-
-		
 		
 
 
