@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act-on.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026133858id_/http%3A//act-on.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act-on.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406001030id_/http%3A//www.act-on.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Act-On
 
@@ -8,9 +8,15 @@
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our website, www.act-on.com and our service Act-On. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Act-On Software, Inc. ("Act-On"). 
 
-Act-On has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [**TRUSTe's Program Requirements**](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [**TRUSTed Cloud Program Requirements**](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [**privacy@act-on.com**](mailto:privacy@act-on.com). If you are not satisfied with our response you can contact [**TRUSTe here**](http://watchdog.truste.com/pvr.php?page=complaint). 
+Act-On has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [**TRUSTe's Program Requirements**](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [**TRUSTed Cloud Program Requirements**](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [**privacy@act-on.com**](mailto:privacy@act-on.com). If you are not satisfied with our response you can contact [**TRUSTe here**](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-Act-On complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Act-On has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Act-On's certification, please visit [**http://www.export.gov/safeharbor/**](http://www.export.gov/safeharbor/). 
+## European Reach
+
+Act-On complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. 
+
+The U.S. Department of Commerce, in concert with the European Commission, developed the "Safe Harbor Framework" that allows a U.S. organizations to comply with the Directive by abiding by a set of Safe Harbor Privacy Principles. Companies certify their compliance with these Principles on the U. S. Department of Commerce website. The Framework was approved by the EU in 2000 and gives companies that abide by the Principles assurance that the EU will consider their practices “adequate” privacy protections for EU citizens. 
+
+Act-On has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Act-On's certification, please visit [**http://www.export.gov/safeharbor/**](http://www.export.gov/safeharbor/). 
 
 [](https://privacy.truste.com/privacy-seal/Act-On-Software,-Inc-/validation?rid=91ceb0ff-391b-4b79-b5c3-8b37ec9c9398 "Validate TRUSTe privacy certification")
 
@@ -63,6 +69,18 @@ The use of cookies by third parties is not covered by our privacy policy. We do 
 
 Our Site employs a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We may tie the information gathered by clear gifs to our customers' personally identifiable information. 
 
+## Analytics/ Log Files
+
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+
+We do link some of this automatically-collected data to personally identifiable information. This allows us to deliver a better experience by reducing the amount of data that needs to be entered when filling out forms, downloading gated content, completing surveys, etc. 
+
+## Behavioral Targeting/ Re-Targeting
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [**Here**](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+
 ## Public Forums
 
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [**privacy@act-on.com**](mailto:privacy@act-on.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
@@ -95,7 +113,7 @@ When you enter sensitive information (such as login credentials), we encrypt the
 
 ## Cancellation or Termination of the Account
 
-privacy@act-on.com. Please be aware that Act-On may for a time retain residual information in our backup and/or archival copies of our data stores and databases. We will make reasonable commercial efforts to delete your information as soon as reasonably practical. 
+If you choose to cancel your Account and leave the Act-On Service or your Account is terminated because of your breach of the Terms of Service, please contact us at [privacy@act-on.com](mailto:privacy@act-on.com). Please be aware that Act-On may for a time retain residual information in our backup and/or archival copies of our data stores and databases. We will make reasonable commercial efforts to delete your information as soon as reasonably practical. 
 
 We will respond to your request to access within 30 business days. 
 
@@ -119,4 +137,4 @@ Act-On Software, Inc.,
 8405 SW Nimbus Ave, Suite E  
 Beaverton, Oregon 97008, USA 
 
-Updated: April 6, 2012 
+Updated: April 4, 2013 
