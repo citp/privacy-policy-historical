@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myview.com privacy policy that was archived on 2012-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120503163423id_/http%3A//portal.myview.com/portal/app%3Fcmd%3DTextPage%26_ppId%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myview.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405141619id_/http%3A//portal.myview.com/portal/app%3Fcmd%3DTextPage%26_ppId%3D21) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Effective: November 2007
 
 Authentic Response, Inc. (“Company,” “we,” “our,” or “us”), owns and operates the websites located at [www.authenticresponse.com](http://www.authenticresponse.com/) and [www.myview.com](http://www.myview.com/) (the “Sites”). We know that your privacy is important to you.   We have been awarded TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@myview.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-Authentic Response, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. The framework can be accessed here http://www.export.gov/safeharbor/. 
+Authentic Response, Inc. complies with the U.S. EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. The framework can be accessed here http://www.export.gov/safeharbor/. 
 
 Through the Sites, we operate MyView (“MyView”) through which we provide surveys that can be taken at the Sites or via electronic notification methods such as, but not limited to, email. We provide statistical sample to organizations that conduct research primarily for marketing or for social science purposes. We're committed to helping you understand how we manage and protect the information we collect.  We take privacy seriously, and have taken many steps to help safeguard the information we collect from you.
 
