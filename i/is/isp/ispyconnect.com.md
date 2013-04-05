@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022005505id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405135441id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
 
 # iSpy Privacy Policy
 
@@ -35,7 +35,7 @@ The email address you provide may be used to send you information, respond to in
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
@@ -85,4 +85,4 @@ http://www.ispyconnect.com
 30 Riverslea Drive  
 Margaret River, WA 6285  
 Australia  
-admin[ @ ]ispyconnect.com
+sean[ @ ]ispyconnect.com
