@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zeekrewardsreceivership.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230180650id_/http%3A//www.gilardi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeekrewardsreceivership.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405023822id_/http%3A//www.gilardi.com/privacy.html) for the most accurate reproduction.*
 
 # Gilardi & Co, LLC
 
- [Print this page](https://web.archive.org/web/20121230180650id_/http%3A//www.gilardi.com/pdf/gilcodpp.pdf)
+ [Print this page](https://web.archive.org/web/20130405023822id_/http%3A//www.gilardi.com/pdf/gilcodpp.pdf)
 
 Protecting the security and privacy of personal information is important to Gilardi & Co. LLC ("Gilardi"). We conduct our business in compliance with applicable laws and regulations on data privacy protection and security. Specifically, Gilardi complies with the Office of Privacy Protection in the California Department of Consumer Affair's Recommended Practices for Protecting Confidentiality of Social Security Numbers [(http://www.privacy.ca.gov/)](http://www.privacy.ca.gov/). 
 
