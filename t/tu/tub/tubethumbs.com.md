@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubethumbs.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204075344id_/http%3A//www.tubethumbs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubethumbs.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405022030id_/http%3A//www.tubethumbs.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
