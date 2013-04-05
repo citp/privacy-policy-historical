@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxite.net privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205004623id_/http%3A//www.proxite.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxite.net privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406002221id_/http%3A//www.proxite.net/privacy.php) for the most accurate reproduction.*
 
 # proxite.net :: free anonymous proxy, uncensored free web browsing. Fast free web proxy, 110 Gbit Network.
 
