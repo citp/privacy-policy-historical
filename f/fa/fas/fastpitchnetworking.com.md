@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastpitchnetworking.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919093015id_/http%3A//www.proskore.com/legal_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastpitchnetworking.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405061319id_/http%3A//www.proskore.com/legal_privacy.cfm) for the most accurate reproduction.*
 
 # PROskore - Your Professional Reputation
 
