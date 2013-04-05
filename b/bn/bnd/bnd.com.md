@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnd.com privacy policy that was archived on 2012-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120806154210id_/http%3A//www.bnd.com/privacy_policy%23navlinks%3D%2AHome%3Ami_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnd.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405082256id_/http%3A//bnd.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # News Democrat Belleville, IL
 
