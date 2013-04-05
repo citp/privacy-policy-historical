@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewsforjoomla.com privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023235413id_/http%3A//www.reviewsforjoomla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewsforjoomla.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405072440id_/http%3A//www.reviewsforjoomla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joomla Review Script, CCK, PHP Directory Script
 
@@ -63,7 +63,7 @@ If you have any questions about any of these practices or our use of your person
 ClickFWD LLC  
 CPS#7820  
 P.O. Box 149020  
-Coral Gabels, FL 33114 
+Coral Gables, FL 33114 
 
 ### Changes to our Privacy Policy
 
