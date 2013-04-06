@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the code125.com privacy policy that was archived on 2012-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121112225124id_/http%3A//www.code125.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the code125.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406151259id_/http%3A//www.code125.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Code125 | Privacy Policy And Terms Of Use
 
