@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myoave.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205131552id_/http%3A//www.myoave.com/www/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoave.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406234911id_/http%3A//www.oceanavenue.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# OceanAvenue.com - Privacy Policy
 
 ## PRIVACY POLICY
 
@@ -60,7 +60,7 @@ We may use your email address provided to contact you regarding the following:
 
 
 
-If you desire not to receive information about products or services we think may be of interest, you can change the notification options in your account settings. If you wish to not receive any of these emails, you may opt-out by submitting your email address to [membersupport@oceanavenue.com](mailto:membersupport@oceanavenue.com) or by following the unsubscribe instructions within each email communication.
+If you desire not to receive information about products or services we think may be of interest, you can change the notification options in your account settings. If you wish to not receive any of these emails, you may opt-out by submitting your email address to [ membersupport@oceanavenue.com](mailto:membersupport@oceanavenue.com) or by following the unsubscribe instructions within each email communication.
 
 **Protecting Your Personal Information**
 
