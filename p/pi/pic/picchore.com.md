@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the picchore.com privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101112344id_/http%3A//picchore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picchore.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406061712id_/http%3A//picchore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Pic Chore
-
-## Privacy
-
-Posted On: July 22, 2010  
-
 
 Please read this statement carefully before using proceeding to access Picchore (“PICCHORE”). Your use of PICCHORE indicates your agreement to abide by the Terms in effect.
 
