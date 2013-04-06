@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014072009id_/http%3A//www.zooprinting.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406162055id_/http%3A//www.zooprinting.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoo Printing
 
@@ -48,4 +48,4 @@ We may set and access cookies on your computer. We may also allow other companie
 
 We use email links located on the "contact us" page and other areas of our Website to allow you to contact us directly with any questions or comments you may have. We read every message sent in and will try to reply promptly if you request information or otherwise require a response. We may file your comments to improve our Website or our products, or we may review and discard the information. 
 
-California Office: 5700 Bandini Blvd., Commerce, CA 90040   •   Kentucky Office: 4015 Produce Road, Louisville, KY 40218
+California Office: 5700 Bandini Blvd., Commerce, CA 90040  •  Kentucky Office: 4015 Produce Road, Louisville, KY 40218  •  New Jersey Office: 551 Mid Atlantic Pkwy, West Deptford, NJ 08066
