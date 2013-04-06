@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the summerhost.info privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919192427id_/http%3A//summerhost.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summerhost.info privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406121312id_/http%3A//summerhost.info/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Summerhost.info - Free Web Hosting
 
 The following discloses our information gathering and dissemination practices for this Web site: Summerhost Free Web Hosting.
 
