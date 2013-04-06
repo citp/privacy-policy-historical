@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubidesk.com privacy policy that was archived on 2012-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120723220407id_/https%3A//www.ubidesk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubidesk.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406070156id_/https%3A//www.ubidesk.com/privacy.html) for the most accurate reproduction.*
 
 # Ubidesk - Online collaboration workspace, project management, document collaboration, file sharing
 
