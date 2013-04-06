@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhouseofart.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502222246id_/http%3A//www.newhouseofart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhouseofart.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406022431id_/http%3A//www.newhouseofart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Newhouseofart.Com
 
