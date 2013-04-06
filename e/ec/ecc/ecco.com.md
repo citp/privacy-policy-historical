@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecco.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203200423id_/http%3A//ecco.com/en-XI/About-ECCO/About-this-site/Privacy-Policy%3Fpopup%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecco.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406091518id_/http%3A//ecco.com/en-XI/About-ECCO/About-this-site/Privacy-Policy%3Fpopup%3D1) for the most accurate reproduction.*
 
 # Privacy Policy | ecco.com
 
