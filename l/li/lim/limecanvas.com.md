@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limecanvas.com privacy policy that was archived on 2012-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121205045842id_/http%3A//www.limecanvas.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limecanvas.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406055837id_/http%3A//www.limecanvas.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Lime Canvas
 
