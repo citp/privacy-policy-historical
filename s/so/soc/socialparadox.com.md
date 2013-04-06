@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialparadox.com privacy policy that was archived on 2012-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121206115752id_/http%3A//www.socialparadox.com/pg/expages/read/3/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialparadox.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406220345id_/http%3A//www.socialparadox.com/pg/expages/read/3/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Paradox
 
