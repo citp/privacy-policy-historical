@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the condocontrolcentral.com privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108193743id_/http%3A//condocontrolcentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condocontrolcentral.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406030823id_/http%3A//condocontrolcentral.com/privacy-policy) for the most accurate reproduction.*
 
 # PIPEDA Compliance & Privacy Policy | Condo Control Central
 
