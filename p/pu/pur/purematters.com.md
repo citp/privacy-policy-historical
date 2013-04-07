@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the purematters.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207072046id_/http%3A//www.purematters.com/privacy-policy/a/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purematters.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407124843id_/http%3A//www.purematters.com/privacy-policy/a/3) for the most accurate reproduction.*
 
 # Privacy Policy | Pure Matters
-
-### Privacy Policy
 
 **Your privacy is important to us.** It is Pure Matters’ policy to respect your privacy regarding any information we may collect while operating our websites. This privacy policy applies to the website (“PureMatters.com”) and all products and services offered by Pure Matters.
 
