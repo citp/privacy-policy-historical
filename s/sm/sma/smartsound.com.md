@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsound.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122051835id_/http%3A//www.smartsound.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsound.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407143618id_/http%3A//www.smartsound.com/company/privacy.html) for the most accurate reproduction.*
 
 # Smartsound Royalty Free Music - Privacy Information
 
@@ -6,7 +6,7 @@
 
 The World's Most Creative Royalty Free Music Solution
 
-### SmartSound's patented soundtrack solution is hands-down the best way to add legal music to your films and videos. Get high impact [video background music](https://web.archive.org/web/20121122051835id_/http%3A//www.smartsound.com/sonicfire/music.html) and indie film soundtracks, and save hours of editing without having to compromise an ounce of quality.
+### SmartSound's patented soundtrack solution is hands-down the best way to add legal music to your films and videos. Get high impact [video background music](https://web.archive.org/web/20130407143618id_/http%3A//www.smartsound.com/sonicfire/music.html) and indie film soundtracks, and save hours of editing without having to compromise an ounce of quality.
 
 _This privacy statement discloses the privacy practices for www.smartsound.com._
 
@@ -18,7 +18,7 @@ Demonstration CD Requests
 
 In order for us to ship a demonstration CD of our software products, a user is required to give contact information (such as name, address and email address). This information is used to contact the user about the services on our site for which they have expressed interest. Incomplete or false information provided will result in us rejecting the request.
 
-In the case of international demo requests, your information may be forwarded to a reseller in your area to assist you with demo questions and order fulfillment, as well as available documentation in your native language. Each reseller has their own privacy policy. A list of resellers in your area can be obtained by visiting [here](https://web.archive.org/web/20121122051835id_/http%3A//www.smartsound.com/order/resellers.html)
+In the case of international demo requests, your information may be forwarded to a reseller in your area to assist you with demo questions and order fulfillment, as well as available documentation in your native language. Each reseller has their own privacy policy. A list of resellers in your area can be obtained by visiting [here](https://web.archive.org/web/20130407143618id_/http%3A//www.smartsound.com/order/resellers.html)
 
 Order
 
@@ -48,7 +48,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
 
-If you have any questions about the security at our website, you can [send an email](https://web.archive.org/web/20121122051835id_/http%3A//www.smartsound.com/company/contact.html).
+If you have any questions about the security at our website, you can [send an email](https://web.archive.org/web/20130407143618id_/http%3A//www.smartsound.com/company/contact.html).
 
 Software Updates
 
@@ -56,7 +56,7 @@ We send periodic email updates to our customers to let them know about new softw
 
 Correction/Updating Personal Information
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can be done by calling our sales department at 800-454-1900 or emailing our [Customer Service department](https://web.archive.org/web/20121122051835id_/http%3A//www.smartsound.com/company/contact.html).[](https://web.archive.org/web/20121122051835id_/http%3A//www.smartsound.com/company/contact.html)
+If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can be done by calling our sales department at 800-454-1900 or emailing our [Customer Service department](https://web.archive.org/web/20130407143618id_/http%3A//www.smartsound.com/company/contact.html).[](https://web.archive.org/web/20130407143618id_/http%3A//www.smartsound.com/company/contact.html)
 
 Notification of Changes
 
