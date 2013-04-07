@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maverickcoaching.com privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123232135id_/http%3A//www.maverickcoaching.com/success-principle/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maverickcoaching.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407134526id_/http%3A//www.maverickcoaching.com/success-principle/privacy.php) for the most accurate reproduction.*
 
 # The Success Principle | Privacy Policy
 
