@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaldollhouse.com privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003160644id_/http%3A//www.digitaldollhouse.com/ddh/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldollhouse.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407225451id_/http%3A//www.digitaldollhouse.com/ddh/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Dollhouse
 
@@ -19,8 +19,6 @@ Digital Dollhouse last updated this Privacy Policy on **April 7, 2009**. The Pri
 Visit [Protecting Kid’s Privacy](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) for more information on COPPA and children’s privacy. 
 
 ## Privo’s Privacy Assurance Program
-
-[](http://www.privo.com/digitaldollhouse.htm)
 
 Digital Dollhouse is a participant in the Privo’s Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Digital Dollhouse adheres to the strict information collection, use, and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children’s personal information collected online, and to helping parents and their children exercise control over personal information while exploring the Internet. The seal posted on this page indicates that Digital Dollhouse has established privacy practices and has agreed to submit to Privo’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 213.580.1479 or [privacy@digitaldollhouse.com](mailto:privacy@digitaldollhouse.com). If you have further concerns after you have contacted Digital Dollhouse, you can contact Privo directly at [privacy@privo.com](mailto:privacy@privo.com). 
 
