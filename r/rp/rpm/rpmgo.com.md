@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rpmgo.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212234421id_/http%3A//www.rpmgo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpmgo.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407204926id_/http%3A//www.rpmgo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - rpmGo.com - rpmGo.com
+# Privacy Policy - New car reviews | automotive articles | Concept Cars | automotive pictures | driving test | expert car reviews | Automotive Industry News | best new cars | automotive experts | hybrid electric vehicles | auto show updates | new car specials | futuristic cars | new sports cars | Automotive Videos | automotive ratings : rpmGo.com - New car reviews | automotive articles | Concept Cars | automotive pictures | driving test | expert car reviews | Automotive Industry News | best new cars | automotive experts | hybrid electric vehicles | auto show updates | new car specials | futuristic cars | new sports cars | Automotive Videos | automotive ratings : rpmGo.com
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
