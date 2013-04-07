@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meramlm.com privacy policy that was archived on 2012-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120929233914id_/http%3A//www.meramlm.com/index.php%3FrandomCode%3D7f08253ccd1acde9599ae9d71e6daf84%26page%3Dwebsite_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meramlm.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407191103id_/http%3A//www.meramlm.com/index.php%3FrandomCode%3D8e70ad3c4b7c7770fcf5d7efb4f39966%26page%3Dwebsite_privacy) for the most accurate reproduction.*
 
 # MLM CLASSIFIEDS | MLM LEADERS | MLM DIRECTORIES | MLM LEADS | INDIA
 
@@ -31,6 +31,4 @@ Procedures has been established to ensure that our product and promotional infor
 If you have additional questions or comments of any kind, or if you see anything on our Web site that you feel is inappropriate, please contact us by sending an e-mail to info@dnb-ma.com  
   
   
-
-
-[](http://www.meramlm.com/api/recordAdsUrlClick.php?adsStatisticViewAccessCode=913305fd81fa4fcd96fbdcb6351cbde8&url=http%3A%2F%2Fdnbmlmsoftwaresolutions.com%2Findex.php%3Fpage%3Dwebsite_software)
+[](http://www.meramlm.com/api/recordAdsUrlClick.php?adsStatisticViewAccessCode=&url=http%3A%2F%2Fdnbmlmsoftwaresolutions.com%2Findex.php%3Fpage%3Dwebsite_software)
