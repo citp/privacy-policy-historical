@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veethi.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014120349id_/http%3A//www.veethi.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veethi.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407224917id_/http%3A//www.veethi.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : India Local City Business Directory Search : Indian Yellow Pages : Veethi.com
 
@@ -14,7 +14,7 @@ When you register with Veethi.com or access our Service, we may ask you to provi
 
 We may use your Personal Information to send you, from time to time, updates or news regarding the Service; respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Veethi.com terms of use or as otherwise required by law; transfer information about you if we are acquired by or merged with another company; seek your feedback or to contact you in relation to the Service offered; administer or otherwise carry out our obligations in relation to any agreement you have with us; anticipate and resolve problems related to the Service; and allow you to subscribe to our newsletters; allow you to get the best offers and discounts from merchants and advertisers in any category of your interest and share your Personal Information with such merchants and advertisers.
 
-You hereby consent that the collection and use of any Personal Information or any other information as disclosed under this Policy shall not cause any loss or wrongful gain to you. Further, you also hereby consent and acknowledge to be bound by the terms and conditions as detailed under [www.veethi.com/terms_of_use.php](https://web.archive.org/web/20121014120349id_/http%3A//www.veethi.com/terms_of_use.html "Indian People Pictures").
+You hereby consent that the collection and use of any Personal Information or any other information as disclosed under this Policy shall not cause any loss or wrongful gain to you. Further, you also hereby consent and acknowledge to be bound by the terms and conditions as detailed under [www.veethi.com/terms_of_use.php](https://web.archive.org/web/20130407224917id_/http%3A//www.veethi.com/terms_of_use.html "Indian People Pictures").
 
 ### **Non-Personal Information and its usage**
 
