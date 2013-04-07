@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hsselite.com privacy policy that was archived on 2012-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121119111617id_/https%3A//www.hsselite.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hsselite.com privacy policy that was archived on 2013-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130407044417id_/https%3A//www.hsselite.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -7,11 +7,11 @@
 
   <meta itemprop="name" content="Hotspot Shield Elite">
   <meta itemprop="description" content="World's most trusted VPN, used by over 10 million people to access blocked websites and to browse the Web securely and privately.">
-  <meta itemprop="image" content="http://www.hsselite.com/img/hss-logo.gif">
+  <meta itemprop="image" content="https://www.hsselite.com/img/hss-logo.gif">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,600" rel="stylesheet" type="text/css">
 
   <meta name="description" content="Hotspot Shield Elite Privacy Notice describes what information is collected by us from any user of the subscription-based Hotspot Shield Elite Version as well as our use and disclosure of that information.">
   <meta name="keywords" content="hotspot shield elite privacy, hotspot shield elite privacy notice, hotspot shield elite privacy policy, hss elite privacy policy, hotspot shield elite web security, hss elite web security, anchorfree privacy, anchorfree privacy policy, anchorfree security, anchorfree commitments, anchorfree third party advertisers, hotspot shield elite security, anchorfree, anchorfree inc">
-  <link rel="stylesheet" href="/css/style_new.css" type="text/css">
 
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
@@ -37,13 +37,12 @@
 </script>
 
 
-  <script type="text/javascript" src="/js/jsl.min.js"></script>
-
-  
-  
+                  <link rel="stylesheet" href="https://cdn.hsselite.com/elite/css/style_new.css" type="text/css">
+      
   <script type="text/javascript">
     var INSTALLED = false;
     var CONNECTED = false;
+    var CDN_URL = 'https://cdn.hsselite.com/elite';
 
     function response(obj){
         INSTALLED = true;
@@ -61,14 +60,29 @@
         return filter.test(str);
     }
 
-    function download_hss() {
+    function download_hss(os) {
 
-        var mac_link = 'http://mydati.com/download/hss-mac/HSS-2.72-303-elite.dmg';
-        var win_link = 'http://mydati.com/download/hss-win2/HSS-2.76-install-elite-308-conduit.exe';
+        var mac_link = 'http://mydati.com/download/hss-mac/303.dmg';
+        var win_link = 'http://mydati.com/download/hss-win2/HSS-install-elite-308-conduit.exe';
 
-        var link = navigator.appVersion.indexOf("Mac")!=-1 ? mac_link : win_link;
+        var link = typeof(os) != "undefined" ? (os=='mac' ? mac_link : win_link) : (navigator.appVersion.indexOf("Mac")!=-1 ? mac_link : win_link);
         link = encodeURIComponent(link);
         window.open('http://rpt.anchorfree.net/afrpt.php?afcid=988&affr=click_&rdr=' + link);
+    }
+
+    // action footer
+    window.onload = function(){fixFooter()}
+    window.onresize = function(){fixFooter()}
+    function fixFooter (){
+        var article = document.getElementById('article');
+        var foot = document.getElementById('foot');
+        var htmlH = article.offsetHeight + 73 + 111; // H body = (h article) + (h header) + {h footer}
+        var viewH = window.innerHeight;
+        if(htmlH <= viewH){
+            foot.className = 'fix_footer';
+        }else{
+            foot.className = '';
+        }
     }
   </script>
 
@@ -76,33 +90,33 @@
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 </head>
-<body>
-  <div class="header">
-    <a href="/"><img class="logo" src="/images/logo_2.png" alt="Hotspot Shield Elite" title="Hotspot Shield Elite" width="260" height="50"></a>
-    <ul class="menu">
-      <li><a href="/why">WHY DO I NEED THE SHIELD?</a></li>
-      <li><a href="/how-it-works">HOW IT WORKS</a></li>
-      <li><a href="/technology">TECHNOLOGY</a></li>
-      <li><a href="/pricing">PRICING</a></li>
-      <li><a href="/faq">FAQ</a></li>
-    </ul>
-    <a href="/buy?af_source=new_elite_buy&amp;page=Menu" class="btn_buy "><b>BUY</b></a>
-    <div class="lang_menu">English
-      <ul>
-        <li><a href="#">English</a></li>
-        <li><a href="#">Spanish</a></li>
-        <li><a href="#">Turkish</a></li>
-        <li><a href="#">Chinese</a></li>
-        <li><a href="#">Vietnamese</a></li>
-        <li><a href="#">Arabic</a></li>
+<body id="body" class="lang-en">
+  <div class="head-bpx">
+    <div class="head">
+      <a href="/"><img src="https://cdn.hsselite.com/elite/img/new/Hotspot-Shield.png" width="225" height="55" alt="Hotspot Shield" class="logo"></a>
+      <ul id="menu">
+        <li><a href="/why">Why Shield</a></li>
+        <li><a href="/how-it-works">Learn</a></li>
+        <li><a href="/pricing">Prices</a></li>
+        <li><a href="/faq">Support</a></li>
+                <li><a href="http://college.hotspotshield.com/">For Students</a></li>
+              </ul>
+      <ul id="user-menu">
+                <li><a href="/sign-in">Sign in</a></li>
+                <li id="lng-btn">
+          <span id="lng-current">English<b>&nbsp;</b></span>
+          <ul>
+                              <li><a href="/?lg=en">English</a></li>
+                              <li><a href="/?lg=ru">Русский</a></li>
+                        </ul>
+        </li>
       </ul>
     </div>
-    <div class="box_sign_in">
-              <a href="/login" class="btn_sign_in">SIGN IN</a>
-          </div>
   </div>
-  <div class="article_box">
-    <div class="article">
+
+<div class="article" id="article">
+
+
 <div class="title_box">
     <h2>Privacy Notice</h2>
     <div class="header_social">
@@ -175,22 +189,23 @@
 
 <div class="right c">
 </div>
-    <!-- /page -->
+<!-- /page -->
+
+<br clear="all">
+</div>
+<div id="foot" class="">
+    <div class="footer">
+        <ul class="f_menu">
+            <li><a href="/contact-us">contact us</a></li>
+            <li><a href="/about-us">about us</a></li>
+            <li><a class="current" href="/privacy">privacy</a></li>
+            <li><a href="/terms-of-use">terms of use</a></li>
+            <li><a href="/become-an-affiliate">become an affiliate</a></li>
+        </ul>
+        <p class="f_copy">Copyright © 2013 AnchorFree, Inc. All Rights Reserved</p>
+        <a href="/pricing" class="f_payment_systems">Various payment options accepted</a>
     </div>
-  </div>
-  <div class="footer">
-    <ul class="f_menu">
-      <li><a href="/contact-us">contact us</a></li>
-      <li><a href="/about-us">about us</a></li>
-      <li><a href="/privacy">privacy</a></li>
-      <li><a href="/terms-of-use">terms of use</a></li>
-      <li><a href="/become-an-affiliate">become an affiliate</a></li>
-    </ul>
-    <p class="f_copy">Copyright © 2012 AnchorFree, Inc. All Rights Reserved
-    <br><br>
-    * Sources for facts and figures: fbi.gov, norton cyber crime report 2011, ic3.gov, safe wireless networking.</p>
-    <a href="/pricing" class="f_payment_systems">Various payment options accepted</a>
-  </div>
+</div>
 
 
 </body></html>
