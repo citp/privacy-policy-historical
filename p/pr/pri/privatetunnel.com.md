@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatetunnel.com privacy policy that was archived on 2012-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120520041002id_/https%3A//www.privatetunnel.com/index.php/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatetunnel.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407191857id_/https%3A//www.privatetunnel.com/index.php/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
