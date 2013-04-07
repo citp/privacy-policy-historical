@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstatesusadirectory.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201123309id_/http%3A//www.allstatesusadirectory.com/allstatesusadirectory_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstatesusadirectory.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408000301id_/http%3A//www.allstatesusadirectory.com/allstatesusadirectory_privacy_policy.html) for the most accurate reproduction.*
 
 # All States USA Directory - allstatesusadirectory com privacy policy information
 
