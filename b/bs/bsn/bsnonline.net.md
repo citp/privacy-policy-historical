@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsnonline.net privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102165923id_/http%3A//www.bsnonline.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsnonline.net privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407224100id_/http%3A//www.bsnonline.net/policy.html) for the most accurate reproduction.*
 
 # BSN® - Privacy Policy
 
