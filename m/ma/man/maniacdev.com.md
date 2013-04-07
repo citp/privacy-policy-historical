@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002232248id_/http%3A//maniacdev.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407052140id_/http%3A//maniacdev.com/privacy) for the most accurate reproduction.*
 
 # Privacy | iOS App Dev Libraries, Controls, Tutorials, Examples and Tools
 
@@ -57,9 +57,3 @@ By using our site, you consent to our web site privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 webmaster@maniacdev.com
-
-[](http://maniacdev.com/ios-6-by-tutorials)
-
-[iOS 6 by tutorials](http://maniacdev.com/ios-6-by-tutorials) provides an extensive collection of hands-on tutorials (over 1500 pages) with source code examples to help you understand the new APIs as quickly as possible.
-
-[Read more...](http://maniacdev.com/ios-6-by-tutorials "iOS 6 By Tutorials")
