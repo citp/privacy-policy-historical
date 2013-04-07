@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perryellis.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207011237id_/http%3A//www.perryellis.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perryellis.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407182432id_/http%3A//www.perryellis.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Perry Ellis Privacy Policy
 
