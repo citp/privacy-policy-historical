@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impulse.com privacy policy that was archived on 2012-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120609071652id_/http%3A//www.impulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impulse.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407183042id_/http%3A//www.impulse.com/privacy-policy) for the most accurate reproduction.*
 
 # SafeConnect Helps Maintain the Privacy of End Users | Impulse Point NAC
 
