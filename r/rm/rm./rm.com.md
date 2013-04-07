@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rm.com privacy policy that was archived on 2012-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120729120151id_/http%3A//www.rmeducation.com/webcontent/generic/GWGEN2687189%3Futm_source%3Drm-home%26utm_medium%3Dfootermenu%26utm_campaign%3Drm-home%26rfr%3Drm-home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rm.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407082630id_/http%3A//www.rmeducation.com/webcontent/generic/GWGEN2687189%3Frfr%3Dhomeftr) for the most accurate reproduction.*
 
 # Privacy Policy for RM.com
 
@@ -20,8 +20,6 @@ _You can find details of_[ _our cookies policy here_](https://web.archive.org/uk
 
 This site contains links to other sites. RM.com is not responsible for the privacy practices or the content of such websites.
 
-In some cases, we work with other companies to provide products and services. In such cases we will never share your details directly with another company, except where this is required to fulfil an order for those third party products or services.
-
 Our site uses a form to help us manage requests. We collect contact information (like email addresses). Contact information is used to respond to enquiries, or get in touch with you when necessary.
 
 Our online surveys ask for contact information (like email addresses). We use contact information from our surveys to send information about our company.
@@ -35,9 +33,10 @@ This site may include chat rooms, forums, message boards, and news groups. Pleas
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All instances of unauthorised attempted access to our site are logged and investigated. Where necessary RM will inform law enforcement agencies or other relevant organisations regarding misconduct.
 
 **Email**  
-At RM we respect the privacy of email accounts and we store your email addresses just as securely as other information on RM.com. Your details will not be passed to ANY organisation beyond the RM Group of companies without your explicit permission.
+At RM we respect the privacy of email accounts and we store your email addresses just as securely as other information on RM.com. However, we may use email to keep you up to date with news about products, services and offers that we think maybe are of interest to you. If you do not want to be kept informed in this way by email, please let us know. You can do this by ticking the relevant box where your email address is stored when you register or by choosing the unsubscribe option within the email.
 
-However, we may use email to keep you up to date with news about products, services and offers that we think maybe are of interest to you. If you do not want to be kept informed in this way by email, please let us know. You can do this by ticking the relevant box where your email address is stored when you register or by choosing the unsubscribe option within the email.
+**Where we store your personal data**  
+Your personal information is stored on a secure server hosted by an RM approved contractor. The server resides in the United Kingdom. RM is a global organisation, therefore, your data may be transferred to any of our operating businesses throughout the world. Your personal data may also be processed by staff operating outside the European Economic Area ("EEA") who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services.  By submitting your personal information, you agree to RM transferring, storing and processing your personal information outside the European Economic Area.
 
 **Choice/Opt-out**  
 Our site provides you with the opportunity to opt-out of receiving communications from us at the point where we request contact information from you.
@@ -97,7 +96,7 @@ Fax: +44 (0) 8450 700400
 \-----------------  
 In this privacy statement, all references to
 
-  * "RM" means RM Education plc. 
+  * "RM" means RM Education Ltd. 
   * "RM Group" means the RM plc Group of companies which includes RM, the other subsidiary undertakings of RM plc 
 
 
@@ -120,7 +119,7 @@ We do not disclose your information to anyone except as described above, includi
 ** Our careers site may, from time to time, contain links to other sites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 **Where we store your personal data  
-** Your personal information is stored on a secure server hosted by an RM approved contractor. The server resides in the United Kingdom. RM is a global organisation, therefore, your data may be transferred to any of our operating businesses throughout the world with your consent, for the purpose of being considered for any RM job vacancy you apply for, or for being matched to specific RM job vacancies and being contacted by a RM hiring manager, administrator or third party contractor to discuss your interest and suitability.  
+** Your personal information is stored on a secure server hosted by an RM approved contractor. The server resides in the European Economic Area. RM is a global organisation, therefore, your data may be transferred to any of our operating businesses throughout the world with your consent, for the purpose of being considered for any RM job vacancy you apply for, or for being matched to specific RM job vacancies and being contacted by a RM hiring manager, administrator or third party contractor to discuss your interest and suitability.  
 By submitting your personal information, you agree to RM transferring, storing and processing your personal information outside the European Economic Area.
 
 **How is your personal information secured and protected?  
