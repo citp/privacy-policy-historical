@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotoflaughters.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011084350id_/http%3A//lotoflaughters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotoflaughters.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407065728id_/http%3A//lotoflaughters.com/privacy-policy) for the most accurate reproduction.*
 
 # Lot Of Laughters – Privacy Policy
 
