@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craneandcanopy.com privacy policy that was archived on 2012-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121117181006id_/http%3A//www.craneandcanopy.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craneandcanopy.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408060835id_/http%3A//www.craneandcanopy.com/pages/privacy) for the most accurate reproduction.*
 
-# Crane & Canopy - Privacy
+# Privacy | Crane & Canopy
 
 **INTRODUCTION**  
 Welcome to the Crane & Canopy website (the “Site”).  At Crane & Canopy we seek to provide you with a enjoyable shopping experience while maintaining your privacy.  The information that we may collect through the Site will allow us to enhance your shopping experience by catering to your personal preferences and providing effective customer service.  Please read this entire Privacy Policy which will inform you as to the types of information we gather, as well as how we will use and protect such information.  By visiting the Site you are agreeing the terms of our Privacy Policy.  If you do not agree with our Privacy Policy, please do not access the Site.  
@@ -47,4 +47,4 @@ Crane & Canopy may change this Privacy Policy from time to time at our sole disc
 
 If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to [privacy@craneandcanopy.com](mailto:privacy@craneandcanopy.com)
 
-© Crane & Canopy Inc.  All rights reserved. 
+© 2013 Crane & Canopy Inc.  All rights reserved. 
