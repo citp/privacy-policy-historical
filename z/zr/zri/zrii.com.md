@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zrii.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207104948id_/http%3A//zrii.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zrii.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408024727id_/http%3A//zrii.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Zrii
 
@@ -75,10 +75,5 @@ If you no longer wish to not receive any emails from Zrii you may opt-out by sub
 **9\. Notification of Changes**
 
 If the Privacy Policy changes materially so that your personally identifiable information will be used in a manner different from that stated at the time of collection, we will try to contact you by e-mail to give you a choice as to whether or not we may use your information in this different manner. However, you are responsible for ensuring we have a current working e-mail address for you. If the e-mail address you have given us is incorrect or no longer operable, we will have no further obligation to notify you apart from posting the updated Privacy Policy on our Site.
-
-**10\. Contact Information**
-
-For further information about this site or Zrii products, please visit  
-[www.Zrii.com/pages/company/contact.xhtml](https://web.archive.org/web/20121207104948id_/http%3A//zrii.com/company/contact.html)
 
 Effective: October 9, 2007
