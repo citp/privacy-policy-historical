@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014213316id_/https%3A//www.associatedbank.com/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associatedbank.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408060447id_/https%3A//www.associatedbank.com/security/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -92,7 +92,7 @@ State laws and individual companies may give you additional rights to limit shar
 Associated Bank, N.A. | Riverside Finance, Inc.   
 Associated Financial Group, LLC | Associated Trust Company, N.A.   
 Associated Investment Services, Inc. | Associated Mortgage, LLC   
-Associated Investment Management, LLC | Kellogg Asset Management, LLC®   
+Associated Investment Management, LLC | Kellogg Asset Management, LLC®  
   
 To opt out, please click on the button below. 
 
