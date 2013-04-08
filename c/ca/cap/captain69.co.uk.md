@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captain69.co.uk privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014061637id_/http%3A//www.captain69.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captain69.co.uk privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408063430id_/http%3A//www.captain69.co.uk/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
