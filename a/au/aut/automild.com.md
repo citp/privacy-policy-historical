@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automild.com privacy policy that was archived on 2012-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120810004859id_/http%3A//www.automild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automild.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408051517id_/http%3A//www.automild.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Car News And Reviews on AutoMild.Com
+# AutoMild.Com – Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
