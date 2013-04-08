@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the izzonet.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126114135id_/http%3A//www.izzonet.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izzonet.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408093755id_/http%3A//www.izzonet.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Izzonet
 
@@ -35,4 +35,4 @@ We are committed to ensure that we respect and protect our customer's privacy we
 
 IF YOU, FOR YOURSELF OR ON BEHALF OF ONE OR MORE PERSONS YOU ARE REPRESENTING WITH RESPECT TO IzzoNet SERVICES, DO NOT AGREE TO ANY OF THE FOREGOING TERMS, YOU MUST, FOR YOURSELF AND ON BEHALF ANY SUCH PERSON(S), DISCONTINUE THE REGISTRATION PROCESS, DISCONTINUE YOUR USE OF THE SERVICES, AND, IF YOU ARE ALREADY A MEMBER, CANCEL YOUR ACCOUNT. AS OF NOW , ANY CONTINUATION BY YOU IN USING THE SERVICES CONSTITUTES FOR YOU AND THOSE REPRESENTED BY YOU AN EXPRESS AFFIRMATION AND COMMITMENT TO BE (OR TO CONTINUE TO BE, AS APPLICABLE) LEGALLY BOUND BY AND TO COMPLY WITH ALL OF THESE TERMS.
 
-All rights reserved © 2012 IzzoNet
+All rights reserved © 2013 IzzoNet
