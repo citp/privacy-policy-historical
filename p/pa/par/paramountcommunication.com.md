@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paramountcommunication.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226093345id_/http%3A//paramountcommunication.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paramountcommunication.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408071017id_/http%3A//www.paramountcommunication.com/privacy.html) for the most accurate reproduction.*
 
 # Paramount Communication Group
 
