@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107032352id_/http%3A//www.sonatype.com/Usage/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408084208id_/http%3A//www.sonatype.com/Usage/Privacy) for the most accurate reproduction.*
 
 # Privacy / Usage Sonatype.com
 
@@ -10,6 +10,7 @@ Sonatype, Inc. has been awarded TRUSTe's Privacy Seal signifying that this priva
 
 The TRUSTe program covers the following Web site: [www.Sonatype.com](http://www.sonatype.com/) and [www.maven.org](http://www.maven.org/). 
 
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)  
 [](http://export.gov/safeharbor/)
 
 Sonatype, Inc. complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Sonatype, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Sonatype, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
