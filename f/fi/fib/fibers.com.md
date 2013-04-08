@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fibers.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014093740id_/http%3A//www.fibers.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fibers.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408094648id_/http%3A//www.fibers.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fibers.com
 
