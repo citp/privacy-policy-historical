@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215061625id_/http%3A//www.chiefsupply.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409010722id_/http%3A//www.chiefsupply.com/Privacy.aspx) for the most accurate reproduction.*
 
 # CHIEF's Privacy & Security Policy | CHIEF
 
@@ -14,7 +14,7 @@
 
 
 
-#### If at any time you have a complaint or concern about CHIEF, please [contact us](https://web.archive.org/web/20121215061625id_/http%3A//www.chiefsupply.com/CustomerService.aspx).
+#### If at any time you have a complaint or concern about CHIEF, please [contact us](https://web.archive.org/web/20130409010722id_/http%3A//www.chiefsupply.com/CustomerService.aspx).
 
 ### Contact Information
 
@@ -30,13 +30,13 @@ Our postal addresses are:
 >  P.O. Box 23438  
 >  Eugene, OR 97402
 
-We can be reached via [email at this address](https://web.archive.org/web/20121215061625id_/http%3A//www.chiefsupply.com/CustomerService.aspx) or you can reach us by telephone at (888) 588-8569 from 8 a.m. - 7 p.m. E.T., Mon. - Fri.. 
+We can be reached via [email at this address](https://web.archive.org/web/20130409010722id_/http%3A//www.chiefsupply.com/CustomerService.aspx) or you can reach us by telephone at (888) 588-8569 from 8 a.m. - 7 p.m. E.T., Mon. - Fri.. 
 
 ## Full Details & Required Legal Speak
 
 ### Security
 
-We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. For more information, see [How We Protect You & Prevent Credit Card Fraud](https://web.archive.org/web/20121215061625id_/http%3A//www.chiefsupply.com/fraud-prevention.aspx).
+We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. For more information, see [How We Protect You & Prevent Credit Card Fraud](https://web.archive.org/web/20130409010722id_/http%3A//www.chiefsupply.com/fraud-prevention.aspx).
 
 ### What We Track & What We Don't Track
 
