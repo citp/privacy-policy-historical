@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iclasspro.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114163429id_/http%3A//www.iclasspro.com/notice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclasspro.com privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409064633id_/http%3A//www.iclasspro.com/notice/privacy-policy) for the most accurate reproduction.*
 
 # None
 
