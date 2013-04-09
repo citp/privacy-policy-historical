@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brazencareerist.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209015129id_/http%3A//www.brazencareerist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazencareerist.com privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409235713id_/http%3A//brazencareerist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brazen Careerist
 
@@ -48,4 +48,4 @@ If you have any questions or concerns about our Privacy Policy, please contact u
 
 Updated July 23, 2012
 
-© 2012 Brazen Careerist Inc. | [Privacy Policy](https://web.archive.org/privacy-policy) | [Terms of Use](https://web.archive.org/terms-of-use)
+© 2013 Brazen Careerist Inc. | [Privacy Policy](https://web.archive.org/privacy-policy) | [Terms of Use](https://web.archive.org/terms-of-use)
