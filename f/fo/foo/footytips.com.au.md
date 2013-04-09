@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footytips.com.au privacy policy that was archived on 2012-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120815122444id_/https%3A//www.footytips.com.au/solutions/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footytips.com.au privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409034616id_/http%3A//www.footytips.com.au/solutions/privacy.cfm) for the most accurate reproduction.*
 
 # Footy Tipping Marketing Solutions - Powered by footytips.com.au
 
