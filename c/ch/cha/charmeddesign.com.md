@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmeddesign.com privacy policy that was archived on 2012-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121207083002id_/http%3A//www.charmeddesign.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmeddesign.com privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409043745id_/http%3A//www.charmeddesign.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | charmed design
 
@@ -40,9 +40,8 @@ Contacting Us
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.charmeddesign1012.com  
-131 HARBOUR CLOSE  
-NEW HAVEN, Connecticut 06519  
-United States  
-charmed1012@gmail.com
+200 River Vista Drive Unit 506 * Atlanta, GA, 30339
+
+lori@charmeddesign.com
 
 800.285.3951
