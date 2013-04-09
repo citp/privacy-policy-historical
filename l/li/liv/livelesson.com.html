@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the livelesson.com privacy policy that was archived on 2012-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120617153832id_/http%3A//livelesson.com/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livelesson.com privacy policy that was archived on 2013-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130409104327id_/http%3A//livelesson.com/PrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>
@@ -20,10 +20,6 @@
 
 <meta name="robots" content="index,follow,all">
 <meta name="revisit-after" content="7 days">
-
-    
-    
-    
 
 
         <link rel="Shortcut Icon" href="http://images.smartname.com/smartname/images/favicon.ico">
@@ -81,8 +77,20 @@
         java='Yes' ;
     }
     setCookie('java',java,0,'/','.livelesson.com');
-    var pv = history.length;
-    setCookie('pv',pv,0,'/','.livelesson.com');
+//     var pv = history.length;
+//     setCookie('pv',pv,0,'/','.livelesson.com');
+    var cpv = 'pv.' + 'livelesson.com';
+    var pv=getCookie(cpv);
+ 	if (pv!=null && pv!="")
+	{
+		//alert("Page view Count " + pv);
+		var pvi = parseInt(pv) + 1;
+		setCookie(cpv,pvi,0,'/','.livelesson.com');
+	}
+ 	else
+	{   
+ 		setCookie(cpv, 1, 0,'/','.livelesson.com');
+ 	}
     var theScreen = screen.width+' '+screen.height;
     setCookie('screen',theScreen,0,'/','.livelesson.com');
     setCookie('date',(new Date()).getTime(),0,'/','.livelesson.com');
@@ -122,10 +130,6 @@
 		 
 		
 <!-- Google Analytics Tag -->
-
-
-
-
 
 
 
@@ -293,7 +297,7 @@
               
     <br><br>
 
-	<span class="copyright">Copyright © Sun Jun 17 11:38:32 EDT 2012 livelesson.com. All Rights Reserved.</span>
+	<span class="copyright">Copyright © Tue Apr 09 06:43:26 EDT 2013 livelesson.com. All Rights Reserved.</span>
     <br>
           
     
@@ -325,6 +329,24 @@
 
 
 <!-- mon -->
+
+
+<script type="text/javascript">
+    if(top != self)
+	{
+	var url = '/source';
+	
+	$.ajax({
+		type: 'GET',
+	    url: url,
+	    data: ({dref : document.referrer, s : 'iframe'}),
+	    success: function(data) {
+	      
+	    }
+	});
+	document.body.innerHTML = "<body><h1><span style='color:red'>403 Error - Forbidden!</span></h1></body>";
+	}
+</script>
 
 
 </div>
