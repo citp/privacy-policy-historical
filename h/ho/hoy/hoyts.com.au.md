@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoyts.com.au privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010123954id_/http%3A//www.hoyts.com.au/Meta_Data/Footer/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoyts.com.au privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409072550id_/http%3A//www.hoyts.com.au/Meta_Data/Footer/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
