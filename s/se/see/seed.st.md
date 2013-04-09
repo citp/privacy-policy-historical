@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seed.st privacy policy that was archived on 2012-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121021092939id_/https%3A//seed.st/wiki/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seed.st privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409020122id_/https%3A//seed.st/wiki/privacy) for the most accurate reproduction.*
 
 # Seed.ST - High Performance Seedbox and VPN Hosting - Up to 10gbit SSD
 
@@ -53,4 +53,4 @@ admin@seed.st
 
 This document was last updated on August 16, 2012 
 
-privacy.txt · Last modified: 2012/08/17 18:32 by ersan
+privacy.txt · Last modified: 2012/11/17 20:46 (external edit)
