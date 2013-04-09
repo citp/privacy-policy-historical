@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maynepharma.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013004929id_/http%3A//maynepharma.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maynepharma.com privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409122728id_/http%3A//www.maynepharma.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Mayne Pharma: Privacy Policy
 
