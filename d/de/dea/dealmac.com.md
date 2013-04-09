@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the dealmac.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011035044id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealmac.com privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409202352id_/http%3A//dealnews.com/privacy.html) for the most accurate reproduction.*
 
 # dealnews and Your Right to Privacy
 
-[ ](http://www.truste.org/ivalidate.php?url=www.dealnews.com&sealid=101)
+If users have questions or concerns regarding this statement, they should first contact Daniel de Grandpre via [this online contact form](http://dealnews.com/contact.html?dept=privacy) or via postal mail at PO Box 1567, Huntsville, AL 35807.
 
-dealnews.com, Inc., is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.
-
-If users have questions or concerns regarding this statement, they should first contact Daniel de Grandpre via [this online contact form](http://dealnews.com/contact.html?dept=privacy) or via postal mail at 103 Mountain Brook Blvd, Madison, AL 35758. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the [ TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve user concerns.
-
-The policies below are applicable to dealnews.com, dealmac.com, dealcoupon.com, dealram.com, dealcam.com, dealink.com, and other sites published by dealnews.com, Inc. (dealnews), 103 Mountain Brook Blvd, Madison, AL 35758. TRUSTe coverage extends to dealnews.com and its functional mirrors, dealmac.com, dealcoupon.com, dealram.com, dealcam.com, dealink.com.
+The policies below are applicable to dealnews.com, dealmac.com, dealcoupon.com, dealram.com, dealcam.com, dealink.com, and other sites published by dealnews.com, Inc. (dealnews), PO Box 1567, Huntsville, AL 35807.
 
  **Aggregate Information (non-personally identifiable)**
 
-dealnews respects each individual user's right to privacy. dealnews does not collect personal identifying information unless such information is specifically and knowingly provided from users during contests, surveys, sweepstakes, site registration, or use of public areas, such as a forum. From time to time, we share aggregated site traffic information with our partners and advertisers. As part of our affiliate program, we track individual user movement that is not personally identifiable. We do this to track the effectiveness of our affiliate program. This data is not linked to any personally identifiable information.
+dealnews respects each individual user's right to privacy. dealnews does not collect personal identifying information unless such information is specifically and knowingly provided from users during contests, surveys, sweepstakes, site registration, or use of public areas, such as a forum. From time to time, we share aggregated site traffic information with our partners and advertisers. This data is not linked to any personally identifiable information.
+
+ **Information You Give Us:**
+
+We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information you provide for such purposes as responding to your interactions with our site, customizing our site for you, improving our site, working with merchants to resolve your complaints and communicating with you.
+
+ **Automatic Information:**
+
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses dealnews.com or one of the other Web sites we produce.
 
  **Bulletin Boards/Chat Rooms**
 
@@ -20,15 +24,15 @@ If you use a bulletin board or chat room on this site, you should be aware that 
 
  **Third Party Offers or Mailing Lists**
 
-Users will occasionally receive information on products, services, special deals, and newsletters (ours or a third party's) if those users have opted to receive such communication. Out of respect for the privacy of our users, we only send these types of communications if the user "opts-in". (Please see the Choice: Opt-In and Opt-Out section.) Users of our site are always notified when their information is being collected by any outside parties (e.g., if we implement Third Party Mailing Lists). We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. dealnews is not responsible for any actions or policies of such outside parties.
+Users that have subscribed to dealnews newsletters or email alerts will occasionally receive special announcement emails including updates about changes and improvements to the dealnews site, announcements about exclusive giveaways and promotions as well as information on products, services or special deals (our's or a third party's). Out of respect for the privacy of our users, these types of communications will only come from dealnews (as we will never sell your email address) and there will always be the option to "opt-out" of these special announcement emails.
 
  **Choice: Opt-In and Opt-Out**
 
-Our users are given the opportunity to "opt-in" to having their information used for purposes not directly related to our site at the point where we ask for information. dealnews does not supply identifying information to other companies, or use such information for its own purposes including but not limited to email newsletters, unless the user "opts-in" for such purposes by specifically allowing usage. (Identifying information must necessarily be used when notifying a user of requested information, such as email used for the alerts function, and notification of a winning entry in a contest or sweepstakes.)
+Our users are given the opportunity to "opt-in" to having their information used for purposes not directly related to our site at the point where we ask for information. dealnews does not supply identifying information to other companies, or use such information for its own purposes including but not limited to email newsletters, unless the user "opts-in" for such purposes by specifically allowing usage. (Identifying information must necessarily be used when notifying a user of requested information, such as email used for the alerts function, and notification the outcome of an entry in a contest, survey or sweepstakes.)
 
 Once subscribed, users who no longer wish to receive our newsletter and promotional communications may opt-out of (i.e., discontinue receiving) these communications by replying to unsubscribe in the subject line in the email or contact us via [this online contact form](http://dealnews.com/contact.html?dept=privacy). We also offer opt-out mechanisms in the text of each email we send, and the user may contact us at the street address at the top of this page to opt-out.
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at [mydealnews](http://dealnews.com/preferences.html?pref_view=profile) or by contacting us via [this online contact form](http://dealnews.com/contact.html?dept=privacy).
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done at [mydealnews](https://dealnews.com/mydealnews/profile.html) or by contacting us via [this online contact form](http://dealnews.com/contact.html?dept=privacy).
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law if we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order, or a legal process served on our Web site.
 
@@ -48,7 +52,9 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
  **Third Party Advertising**
 
-Some of the ads appearing on this Web site are delivered to users by LinkShare, Commision Junction, and BeFree, our Web advertising partners. Information about users' visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about LinkShare, Commission Junction, BeFree, cookies, and how to "opt-out", please review [LinkShare's](http://www.linkshare.com/home/privacy.shtml), [Commission Junction's](http://www.cj.com/privacy.asp), and [BeFree's](http://www.befree.com/privacy.htm) privacy policies. Please understand we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+Some of the ads appearing on this Web site are delivered to users by LinkShare, Commision Junction, Performics, and our other Web advertising partners. These third party advertising partners collect information about users' visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), and use that information to serve ads to users on this site, other websites, and other forms of media. For more information about LinkShare, Commission Junction, Performics, cookies, and how to "opt-out", please review [LinkShare's,](http://www.linkshare.com/home/privacy.shtml), [Commission Junction's,](http://www.cj.com/privacy.html) and [Performics](http://www.connectcommerce.com/global/privacy.html) privacy policies. For more information about other third party advertising partners and the ability to opt-out from those partners, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+
+Please understand that if you delete, block or otherwise restrict cookies, you may need to renew your opt-out choice.
 
  **ATTENTION KIDS**
 
