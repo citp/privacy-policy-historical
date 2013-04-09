@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popsugar.com.au privacy policy that was archived on 2012-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121025014958id_/http%3A//www.popsugar.com.au/page/115630) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popsugar.com.au privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409214323id_/http%3A//www.popsugar.com.au/page/115630) for the most accurate reproduction.*
 
 # Celebrity Gossip & News | PopSugar Australia
 
