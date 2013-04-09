@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelesson.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617153832id_/http%3A//livelesson.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelesson.com privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409104327id_/http%3A//livelesson.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # LiveLesson.com
 
