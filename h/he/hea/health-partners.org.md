@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health-partners.org privacy policy that was archived on 2012-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121101112832id_/http%3A//www.health-partners.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health-partners.org privacy policy that was archived on 2013-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130409044150id_/http%3A//www.health-partners.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -21,4 +21,4 @@ The Catholic Health Partners corporate website also provides links to pages on o
 The Catholic Health Partners corporate website contains links to other websites, and we are not responsible for the privacy practices or the content of these other websites. The Catholic Health Partners corporate website also links to the websites of Catholic Health Partners' regions, and these regional websites post their own privacy policies, which differ from our own. If you visit our regions' websites, please read their privacy policies carefully.
 
 **Contacting This Website**  
-If you have any questions about this privacy statement, the practices of the Catholic Health Partners corporate website or your dealings with the Catholic Health Partners corporate website, you can contact us by [completing this form](https://web.archive.org/web/20121101112832id_/http%3A//www.health-partners.org/contact_us.asp).
+If you have any questions about this privacy statement, the practices of the Catholic Health Partners corporate website or your dealings with the Catholic Health Partners corporate website, you can contact us by [completing this form](https://web.archive.org/web/20130409044150id_/http%3A//www.health-partners.org/contact_us.asp).
