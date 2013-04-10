@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpdata.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004191525id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpdata.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410225625id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.*
 
 # RP Data Privacy Policy
 
@@ -36,7 +36,7 @@ We collect personal information to enable us to provide our services. We also co
 
 We are committed to providing accurate and complete property information. If you become aware that any information in our databases is inaccurate or incomplete, then please notify us (with as much detail as possible) and we will use our best efforts to verify that information and correct or update the information in our databases.
 
-Our contact details to provide corrected or updated information are [privacy@rpdata.com](mailto:privacy@rpdata.com) .
+Our contact details to provide corrected or updated information are via our [enquiry form](http://www.rpdata.com/contact/contact_form.html "Contact us via our enquiry form here").
 
 ## Collection
 
@@ -156,14 +156,12 @@ If we do not adequately answer your concerns, you have the right to make a compl
 
 ## **Contact**
 
-If you have any questions relating to this privacy policy or your personal information, please contact our Privacy Officer:
+If you have any questions relating to this privacy policy or your personal information, please contact our Privacy Officer on 1300 734 318, via our [**enquiry form**](http://www.rpdata.com/contact/contact_form.html "Contact us via our enquiry form here"), or post to:
 
-[privacy@rpdata.com](mailto:privacy@rpdata.com)   
 RP Data Pty Ltd  
 Locked Bag 5  
 Eagle Farm QLD 4009  
-Australia  
-Ph: 1300 734 318 
+Australia 
 
 Please provide us with your full name, address and contact number when contacting our Privacy Officer. 
 
