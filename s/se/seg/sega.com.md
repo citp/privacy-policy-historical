@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2012-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121220025723id_/http%3A//www.sega.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410062130id_/http%3A//www.sega.com/legal/privacy.php) for the most accurate reproduction.*
 
 # SEGA ::
 
@@ -236,7 +236,7 @@ Children of all ages are encouraged to send their artwork for posting in our [So
 
 All SEGA games are rated by the Entertainment Software Ratings Board (ESRB) for their appropriateness for different age groups. Game information on SEGA.com includes the ESRB rating plus information about the ESRB rating system. You may wish to check the SEGA.com site for such game information before buying games for your children. The SEGA.com website itself carries the ESRB Privacy Certification seal, and is considered a "safe harbor" website.
 
-We hope this page has answered many of your questions about our site. For more detailed information, see our Privacy Policy and [Terms of Use](https://web.archive.org/web/20121220025723id_/http%3A//www.sega.com/legal/terms.php). If you have any questions or concerns regarding online privacy, please contact us through our [Customer Support Online Form](http://help.sega.com/support/?group=segaamerica) and a customer support representative will answer your question shortly.
+We hope this page has answered many of your questions about our site. For more detailed information, see our Privacy Policy and [Terms of Use](https://web.archive.org/web/20130410062130id_/http%3A//www.sega.com/legal/terms.php). If you have any questions or concerns regarding online privacy, please contact us through our [Customer Support Online Form](http://help.sega.com/support/?group=segaamerica) and a customer support representative will answer your question shortly.
 
 »Back to top
 
