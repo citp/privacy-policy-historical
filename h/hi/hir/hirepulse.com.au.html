@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hirepulse.com.au privacy policy that was archived on 2012-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120622173547id_/http%3A//www.hirepulse.com.au/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hirepulse.com.au privacy policy that was archived on 2013-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130410190911id_/http%3A//www.hirepulse.com.au/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
     
@@ -17,14 +17,15 @@
 	type="text/css"
 	href="/Content/theme/iefixes.css" />
 <![endif]-->
-<link href="/Scripts/jquery.ui/themes/base/jquery.ui.autocomplete.css" rel="stylesheet" type="text/css">
-<link href="/Scripts/jquery.ui/themes/base/jquery.ui.all.css" rel="stylesheet" type="text/css">
+<link href="/Scripts/jquery/themes/base/jquery.ui.autocomplete.css" rel="stylesheet" type="text/css">
+<link href="/Scripts/jquery/themes/base/jquery.ui.all.css" rel="stylesheet" type="text/css">
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery-1.4.1.min.js" type="text/javascript"></script>
-<script src="/Scripts/jquery.ui/ui/jquery-ui-1.8.4.custom.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery/jquery-1.7.2.js" type="text/javascript"></script>
+<script src="/Scripts/jquery/ui/jquery-ui.js" type="text/javascript"></script>
 <script src="/Scripts/jquery.contractors.js" type="text/javascript"></script>
 <script src="/Scripts/jquery.validate.js" type="text/javascript"></script>
+<script src="/Scripts/jquery.cookie.js" type="text/javascript"></script>
 <script src="/Scripts/MicrosoftAjax.js" type="text/javascript"></script>
 <script src="/Scripts/MicrosoftMvcAjax.js" type="text/javascript"></script>
 <script src="/Scripts/MicrosoftMvcValidation.js" type="text/javascript"></script>
@@ -78,7 +79,7 @@
 	     var _gaq = _gaq || [];
 	     _gaq.push(['_setAccount', 'UA-16404069-2']);
 	     _gaq.push(['_trackPageview']);
-
+        
 	     (function() {
 	         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -94,6 +95,7 @@
 
 <div class="wrapper-header">
 	<div class="container-header clearfix">
+	    
 		<div class="container-tag">
 			<a href="/" class="logo-top"></a>
 			<div class="logo-bottom"></div>
@@ -109,7 +111,7 @@
 		
             <li class="tab">
                 <div class="tab-start"></div>
-				<div class="tab-middle"><a href="/Browse">Browse</a></div>
+				<div class="tab-middle"><a href="/Browse">Find</a></div>
 				<div class="tab-end"></div>
             </li>
             
@@ -132,7 +134,7 @@
 		</ul>
 		<div class="container-searchbox">
 			<div class="wrapper-search">
-				<form action="/Search/Search" id="form0" method="post"><input class="textbox-search" id="Keyword" name="Keyword" type="text" value="">
+				<form action="/Search/Search" id="form0" method="post"><input class="textbox-search ui-autocomplete-input" id="Keyword" name="Keyword" type="text" value="" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
 <input type="submit" class="button-search" value="">
 </form><script type="text/javascript">
 //<![CDATA[
@@ -506,7 +508,7 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form0","ReplaceVa
 	    <li class="group-heading">Partners</li>
 	    <li><a href="/Affiliates">Affiliates</a></li>
 	</ul>
-	<div class="container-copyrightinfo">© 2012 CareerPulse Pty Ltd</div>
+	<div class="container-copyrightinfo">© 2013 CareerPulse Pty Ltd</div>
 </div>
 
 <div class="modular-window" id="updatetarget" style="z-index:999;"></div>
@@ -595,4 +597,4 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form0","ReplaceVa
 
 
 
-</body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
