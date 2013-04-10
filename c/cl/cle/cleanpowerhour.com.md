@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cleanpowerhour.com privacy policy that was archived on 2011-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110117193247id_/http%3A//www.cleanpower.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleanpowerhour.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410023945id_/http%3A//cleanpower.org/privacy) for the most accurate reproduction.*
 
-# Clean Power Campaign - Privacy Policy
+# Privacy Policy
 
 When you visit CleanPower.org the following information is collected:
 
@@ -15,4 +15,4 @@ Submitted information is collected and used for campaign related purposes relate
 
 Personal and financial information is required when making a contribution to the Clean Power Campaign. This information is used to process your contribution or merchandise request. All contributions made through CleanPower.org are regulated by federal election law.
 
-If you have questions about this privacy statement please feel free to [contact us](http://www.cleanpower.org/contact/).
+If you have questions about this privacy statement please feel free to [contact us](https://web.archive.org/contact/).
