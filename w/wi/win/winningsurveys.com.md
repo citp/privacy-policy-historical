@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the winningsurveys.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016012846id_/http%3A//winningsurveys.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D3600name%26catalog_id%3D18639) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningsurveys.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410173032id_/http%3A//www.winningsurveys.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D3600namename%26catalog_id%3D18639) for the most accurate reproduction.*
 
 # Winningsurveys
 
 ### Winningsurveys Privacy Policy
 
-Winningsurveys is committed to protecting your privacy in a manner that will allow you to use our services with confidence and comfort. The purpose of this Privacy Policy is to describe: 1). what information Winningsurveys.com collects; 2). how we use it; 3). Your control over the information you give us and; 4). how we protect your information from theft or unauthorized use. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Policy. If you have a question about the Privacy Policy, please contact our [customer service](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namename&catalog_id=18639&SID=3b1a165df94f373366e28c97c87c57212) department. 
+Winningsurveys is committed to protecting your privacy in a manner that will allow you to use our services with confidence and comfort. The purpose of this Privacy Policy is to describe: 1). what information Winningsurveys.com collects; 2). how we use it; 3). Your control over the information you give us and; 4). how we protect your information from theft or unauthorized use. This Privacy Policy is subject to change from time to time, so please check back periodically. Use of the services offered at this site constitutes acceptance of the terms of this Policy. If you have a question about the Privacy Policy, please contact our customer service department. 
 
 **The Information We Collect**
 
@@ -18,14 +18,14 @@ Your information will be used to improve and personalize the offers Winningsurve
 
 **The Controls You Have On The Information You Share**
 
-If you do not want us to share contact, postal, e-mail address and demographic information with third party marketers, we can add your name to our "do-not-share" or "do-not-call" list. Please [click here](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namename&catalog_id=18639&SID=3b1a165df94f373366e28c97c87c57212) to send us a request to be added to this list.
+If you do not want us to share contact, postal, e-mail address and demographic information with third party marketers, we can add your name to our "do-not-share" or "do-not-call" list. Please click here to send us a request to be added to this list.
 
-Additionally, you may request to unsubscribe from all Winningsurveys.com related emails by [clicking here](https://web.archive.org/suppress.htm?user_ref_id=&promo_name=3600name&catalog_id=18639&gift=71&SID=3b1a165df94f373366e28c97c87c57212).   
+Additionally, you may request to unsubscribe from all Winningsurveys.com related emails by [clicking here](https://web.archive.org/suppress.htm?user_ref_id=&promo_name=3600namename&catalog_id=18639&gift=71&SID=88b8ea9faf2835d1ff59b76444eb3f71c).   
 Unsubscribe requests are processed within 72 hours but because of time lags due to scheduling, you may receive one or two additional e-mail messages that are already "in the pipeline." To remove yourself from third-party mailing lists, please follow the unsubscribe instructions provided or contact the third-party directly with your request for removal.
 
-If you supply Winningsurveys.com with your postal address, you may receive periodic postal mailings from us with information on new products and services or upcoming events. You may also receive mailings from other reputable companies. If you do not want to receive postal mail from Winningsurveys.com or other reputable companies, please contact our [customer service](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namename&catalog_id=18639&SID=3b1a165df94f373366e28c97c87c57212) group. Please provide us with your exact name and address and we will be sure your name is removed from our postal list.
+If you supply Winningsurveys.com with your postal address, you may receive periodic postal mailings from us with information on new products and services or upcoming events. You may also receive mailings from other reputable companies. If you do not want to receive postal mail from Winningsurveys.com or other reputable companies, please contact our customer service group. Please provide us with your exact name and address and we will be sure your name is removed from our postal list.
 
-If you give us your telephone number, you may receive calls from Winningsurveys.com or other reputable companies. You can, however, have your name put on our do-not-call list by [clicking here](https://web.archive.org/suppress.htm?tp=con&promo_name=3600namename&catalog_id=18639&SID=3b1a165df94f373366e28c97c87c57212). You can also submit your request online by using this form.
+If you give us your telephone number, you may receive calls from Winningsurveys.com or other reputable companies. You can, however, have your name put on our do-not-call list by clicking here. You can also submit your request online by using this form.
 
 **Security**
 
