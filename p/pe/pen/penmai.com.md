@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the penmai.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920024316id_/http%3A//www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penmai.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410190215id_/http%3A//www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html) for the most accurate reproduction.*
 
 # Privacy Policy of Penmai.com
 
-Discuss here on **_Privacy Policy of Penmai.com_ **within the **Forum Rules** forums, part of the Site Info forum; If you require any more information or have any questions about our privacy policy, please feel free to contact us ...
-
-  1. 6th Dec 2010, 12:59 PM [#1](http://www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html#post2215)
+6th Dec 2010, 12:59 PM [#1](http://www.penmai.com/forums/forum-rules/1063-privacy-policy-penmai-com.html#post2215)
 
 > If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@penmai.com](mailto:admin@penmai.com).
 > 
@@ -33,12 +31,10 @@ Discuss here on **_Privacy Policy of Penmai.com_ **within the **Forum Rules** fo
 > 
 > Similar Threads:
 > 
->     * [Welcome to Penmai.Com](http://www.penmai.com/forums/showthread.php?t=2-Welcome%20to%20Penmai.Com "Thread Starter: Penmai | Forum: Introduce Yourself here! | Replies: 174")
->     * [Happy Diwali Wishes from Penmai.com](http://www.penmai.com/forums/showthread.php?t=909-Happy%20Diwali%20Wishes%20from%20Penmai.com "Thread Starter: Penmai | Forum: Festivals & Special Days | Replies: 2")
->     * [Give your suggestions here to improve Penmai.com](http://www.penmai.com/forums/showthread.php?t=1049-Give%20your%20suggestions%20here%20to%20improve%20Penmai.com "Thread Starter: Penmai | Forum: Suggestions | Replies: 30")
->     * [Ranking system in penmai](http://www.penmai.com/forums/showthread.php?t=951-Ranking%20system%20in%20penmai "Thread Starter: Penmai | Forum: Announcements | Replies: 2")
+>   * [Give your suggestions here to improve Penmai.com](http://www.penmai.com/forums/showthread.php?t=1049-Give%20your%20suggestions%20here%20to%20improve%20Penmai.com "Thread Starter: Penmai | Forum: Suggestions | Replies: 34")
+>   * [Happy Diwali Wishes from Penmai.com](http://www.penmai.com/forums/showthread.php?t=909-Happy%20Diwali%20Wishes%20from%20Penmai.com "Thread Starter: Penmai | Forum: Festivals & Special Days | Replies: 16")
+>   * [Welcome to Penmai.Com](http://www.penmai.com/forums/showthread.php?t=2-Welcome%20to%20Penmai.Com "Thread Starter: Penmai | Forum: Introduce Yourself here! | Replies: 174")
+> 
+
 
 > * * *
-
-
-
