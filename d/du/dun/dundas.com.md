@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104110226id_/http%3A//www.dundas.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410131057id_/http%3A//dundas.com/privacy.aspx) for the most accurate reproduction.*
 
 # Dundas Data Visualization: Privacy Policy
 
@@ -155,7 +155,7 @@ If you have a question about the privacy policies stated on this site, please ca
 
 If you have a concern or complaint about privacy, confidentiality or the personal information handling practices of Dundas, our employees or service suppliers, please contact:
 
-Arnie Lash, Dundas Privacy Officer  
+Brett Greenberg, Dundas Privacy Officer  
 Phone : +1-416-467-5100 x115  
 Fax : +1-416-422-4801   
 Email: [privacy@dundas.com](mailto:privacy@dundas.com)
