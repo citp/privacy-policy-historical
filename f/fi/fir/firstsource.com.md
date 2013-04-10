@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstsource.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226104252id_/http%3A//www.firstsource.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstsource.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410185923id_/http%3A//firstsource.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Outsourcing India Phillipines Sri Lanka
 
@@ -17,15 +17,15 @@ Our website's registration form requires you to give us contact information like
 We collect no personal information about you when you visit our website unless you choose to provide this information to us. However when you browse through the website, read pages, or download content, certain information is automatically transmitted by your browser. Further, we may receive and store any information which you enter on our website or give us in any other way such as:  
   
 ---|---  
-| \-  [   ](https://web.archive.org/web/20121226104252id_/http%3A//www.firstsource.com/pr_upcoming_events.html)By entering information on the page titled ‘Contact Us’, you will submit information such as your name,  
+| \-  [   ](https://web.archive.org/web/20130410185923id_/http%3A//firstsource.com/pr_upcoming_events.html)By entering information on the page titled ‘Contact Us’, you will submit information such as your name,  
     and email address to enable us to reply to you.  
-| \-  [   ](https://web.archive.org/web/20121226104252id_/http%3A//www.firstsource.com/pr_upcoming_events.html)By sending in your resume and other personal details through the ‘Apply Now’ link on the website  
+| \-  [   ](https://web.archive.org/web/20130410185923id_/http%3A//firstsource.com/pr_upcoming_events.html)By sending in your resume and other personal details through the ‘Apply Now’ link on the website  
     that enables you to apply online for job opportunities opening with us. We may use this information for  
     ourselves or any of our affiliates and subsidiaries for the purpose of employment and may keep the  
     information for future retrieval.  
-| \-  [   ](https://web.archive.org/web/20121226104252id_/http%3A//www.firstsource.com/pr_upcoming_events.html)Registering with the ‘Knowledge Center’ link in order to send you our newsletters and other news  
+| \-  [   ](https://web.archive.org/web/20130410185923id_/http%3A//firstsource.com/pr_upcoming_events.html)Registering with the ‘Knowledge Center’ link in order to send you our newsletters and other news  
     alerts that you may have subscribed to, we ask for your name and email ID.  
-| \-  [   ](https://web.archive.org/web/20121226104252id_/http%3A//www.firstsource.com/pr_upcoming_events.html)We will also be collecting any information that you may have mentioned in any communication/ email  
+| \-  [   ](https://web.archive.org/web/20130410185923id_/http%3A//firstsource.com/pr_upcoming_events.html)We will also be collecting any information that you may have mentioned in any communication/ email  
     that you send to us.  
   
 | Automatic Information: We may at some time, receive and store certain types of information whenever you interact with us, e.g. the use of "cookies".  
