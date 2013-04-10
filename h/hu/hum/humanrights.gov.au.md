@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanrights.gov.au privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110030230id_/http%3A//www.humanrights.gov.au/site/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanrights.gov.au privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410162543id_/http%3A//humanrights.gov.au/site/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy - Australian Human Rights Commission
 
@@ -23,7 +23,7 @@ When you use this web site, our Internet Service Provider makes a record of your
 
 We will only record your e-mail address if you send us a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list unless you request that this occur. We will not use your e-mail address for any other purpose, and will not disclose it, without your consent.
 
-The Internet is an insecure medium however, and users should be aware that there are inherent risks in transmitting information across the Internet. Information submitted unencrypted via email may be at risk of being intercepted, read or modified. If you do not want your message sent by email you can [post it to the Commission](https://web.archive.org/web/20121110030230id_/http%3A//www.humanrights.gov.au/about/contacts/index.html). 
+The Internet is an insecure medium however, and users should be aware that there are inherent risks in transmitting information across the Internet. Information submitted unencrypted via email may be at risk of being intercepted, read or modified. If you do not want your message sent by email you can [post it to the Commission](https://web.archive.org/web/20130410162543id_/http%3A//humanrights.gov.au/about/contacts/index.html). 
 
 ### Access to information collected 
 
