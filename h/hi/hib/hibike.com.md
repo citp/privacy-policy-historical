@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hibike.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208033754id_/http%3A//www.hibike.com/shop/catalog/tn/m-1/g-1/n739/c1/show.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibike.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410090701id_/http%3A//www.hibike.com/shop/catalog/tn/m-1/g-1/n739/c1/show.html) for the most accurate reproduction.*
 
 # /Help & Info/HIBIKE's privacy policy
 
