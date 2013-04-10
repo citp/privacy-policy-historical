@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michellebombshell.com privacy policy that was archived on 2012-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120918161108id_/http%3A//www.michellebombshell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michellebombshell.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410042033id_/http%3A//www.michellebombshell.com/privacy-policy) for the most accurate reproduction.*
 
 # Michelle Bombshell :: Model and Spokesperson – Available for Appearances, Television, Internet and Print » PRIVACY POLICY
 
