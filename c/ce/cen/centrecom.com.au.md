@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2012-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121124060037id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410051026id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.*
 
-# Centre Com - The Centre for all your Computer and I.T. Needs!
+# Privacy Policy - Centre Com
 
 Privacy Notice
 
