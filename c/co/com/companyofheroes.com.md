@@ -1,216 +1,351 @@
-> *The following text is extracted and transformed from the companyofheroes.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203145007id_/http%3A//www.thq.com/us/go/cmspage/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companyofheroes.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410062130id_/http%3A//www.sega.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Policy
+# SEGA ::
 
-[](http://www.esrb.org/confirm/thq-confirmation.jsp)
+Privacy Policy - Last updated on October 16, 2012
 
-**Privacy Policy – Updated** **July 27, 2012** ****
+[](http://www.esrb.org/confirm/sega-confirmation.jsp?)
 
-1\. Introduction
+## SEGA of AMERICA'S ONLINE PRIVACY POLICY
 
-###  2\. What does this Privacy Policy apply to?
+SEGA of America, Inc. (collectively, "SEGA" or "we") respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.
 
-###  3\. What types of information does THQ collect?
+This Privacy Policy Statement and the certification seal located on this page confirms that SEGA is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/privacy/index.jsp). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
-###  4\. How does THQ use the information it collects?
+Because the website you have come from displays the ESRB Privacy Online certification seal, this Privacy Policy will tell you:
 
-###  5\. What happens if I refuse to provide my personal information to THQ?
+  * The scope of this Privacy Policy;
+  * Exactly what information SEGA may collect from you online;
+  * How SEGA will use the information it collects;
+  * What are the consequences if you refuse to provide your personal information to SEGA when requested;
+  * Whether SEGA uses cookies, tracks IP addresses, or uses other passive means to collect information about your visit our websites;
+  * Who collects the information that you disclose on a SEGA website;
+  * SEGA's policy regarding links to websites operated by other companies;
+  * How you can view, and if necessary, update or delete the personal information SEGA has already collected and stored about you;
+  * The steps SEGA takes to ensure the security, quality, and integrity of the personal information it collects from online visitors;
+  * The information you need to ask a question or file a complaint regarding this Privacy Policy or SEGA's online information practices;
+  * How will I know if this privacy policy has changed? and,
+  * SEGA's policy regarding the collection of information from children under 13.
 
-###  6\. Does THQ use cookies, track IP addresses, or use other passive means to collect information?
+  
 
-###  7\. Who is collecting my personal information and is it shared with anyone?
 
-###  8\. Which information is visible to the public and how does THQ protect or use it?
+## The scope of this Privacy Policy:
 
-###  9\. Can I choose how my personal information is used?
+This Privacy Policy currently applies to the following websites operated by SEGA:
 
-###  10\. How can I access my personal information?
+> [www.sega.com](https://web.archive.org/home.php)  
+>  [blogs.sega.com](http://blogs.sega.com/)  
+>  [forums.sega.com](http://forums.sega.com/)  
+>  [forums.totalwar.com](http://forums.totalwar.com/)  
+>  [olympicvideogames.com/mario-and-sonic-winter](http://olympicvideogames.com/mario-and-sonic-winter/)  
+>  [bayonetta.com](http://bayonetta.com/)  
+>  [olympicvideogames.com/vancouver2010](http://olympicvideogames.com/vancouver2010/)  
+>  [phantasystaruniverse.com](http://phantasystaruniverse.com/)  
+>  [www.totalwar.com](http://www.totalwar.com/)  
+> 
 
-###  11\. What is THQ's policy regarding children under 13?
+In addition, SEGA may own several other domain names that point to the websites listed above. From time to time, we may add new websites and will take reasonable steps to update the list.  
+Please note that this Privacy Policy applies only to information submitted and collected by SEGA online through the websites listed above, and does not apply to information that may be collected by SEGA offline. In addition, this Privacy Policy applies to SEGA only, and **not** to websites maintained by our international affiliates or by other companies or organizations to which we link. When you link to these websites or to any other sites from a website operated by SEGA (as listed above), this Privacy Policy no longer applies. SEGA is therefore not responsible for the content or activities provided on such sites.
 
-###  12\. What safeguards does THQ use to protect my personal information?
+_By using and submitting personal information to any of our websites, you signify your assent to SEGA's Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use our websites. We reserve the right to make changes to this Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting the change on our websites or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our websites will signify your acceptance of these changes._
 
-###  13\. How do I ask a question or file a complaint? (Contact Information) 
+»Back to top
 
-**1\. Introduction** ****
+## SOCIAL MEDIA INTERACTION
 
-THQ Inc. and its subsidiaries and affiliates (collectively " ** _THQ_** ," " ** _we_** ," " ** _us_** ," or " ** _our_** ") respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy ( (" ** _Privacy Policy_** ") to guide how we collect, store, and use the information you provide us online. 
+You also can engage with our content on or through third-party social networking sites, such as Facebook and Twitter (or third-party social media plug-ins and applications). When you engage with our content on or through third-party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content.
 
-This Privacy Statement and the certification seal located on this page confirm that THQ is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online.](http://www.esrb.org/privacy/index.jsp) To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB Privacy Online. 
+When you provide information from your social media account, it can help enable SEGA to do things like (1) give you exclusive content, (2) personalize your online experience with SEGA within and outside SEGA’s websites (and/or applications), and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with this Privacy Policy. When you provide personal information to SEGA through an application, on SEGA’s websites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
 
-Because the website you are currently visiting displays the ESRB Privacy Online certification seal, you can expect to be notified of the following. 
+Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
 
-  * The scope of this Privacy Policy 
-    * Exactly what information THQ may collect from you through its website(s) 
-    * How THQ will use the information it collects 
-    * What are the consequences if you refuse to divulge your personal information 
-    * Whether THQ uses cookies or other passive collection tools on its website(s) 
-    * Who collects the information that you disclose on a THQ website 
-    * With whom, if anyone, does THQ share your personal information 
-    * Which information is visible to the public and how THQ protects or uses it 
-  * What choices you can make regarding how your personal information is used 
-    * How you can change or delete the information THQ has collected about you 
-    * What is THQ's policy regarding collecting information from children under 13 
-    * How THQ ensures the security, quality, and integrity of your information 
-    * How you can ask a question or file a complaint regarding this Privacy Policy 
+»Back to top
 
+## What types of information does SEGA collect?
 
+In order to give you the best experience on our websites, SEGA may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask you to submit personal and/or demographic information if you decide to:
 
-If you are a visitor from outside the United States, any information you provide (both personal and non-personal) may be transferred to, stored, and processed within the United States or other countries where THQ maintains facilities or business operations. 
+  * Register on one of our websites (which includes registering for Phantasy Star Universe to obtain a username and password);
+  * Subscribe to a SEGA newsletter (e.g., SEGA NewsBlast);
+  * Access and participate in message boards;
+  * Participate in an online contest, beta test, tournament, or other event;
+  * Email a question to our customer service desk;
+  * Register a product online; and/or,
+  * Purchase a product or service online (e.g., Phantasy Star Online subscription).
+  * Register for Polls, Surveys or Questionnaires E-Cards or "Send-to-a-Friend" emails
 
-If you have any questions, complaints, or comments regarding our Privacy Policy, please contact our Privacy Policy Administrator at the address below. address below. 
 
-###  2\. What does this Privacy Policy apply to? 
 
-The website you are currently visiting is operated by THQ located at 
+Please note that before you can use some of the activities above, you may be required to register. The ability to access certain areas and features of our websites by simply logging in is only available to those web users that have already created a username and password during an earlier visit to one of our websites.The types of personal information collected in conjunction with the activities listed above will vary depending on the activity. The requested information may include: (i) your name, (ii) mailing address, (iii) telephone number, (iv) email address, and, for those purchasing products or services online, (v) credit card and billing information.
 
-29903 Agoura Road, Agoura Hills, CA 91301
+For some activities, we may also ask you to create a username and password and to provide other non-personal information such as: (i) your age or date of birth; (ii) your gender; (iii) your game and platform preferences; (iv) information about the hardware you may own and/or the game you may have recently purchased; (v) your favorite quotes, websites, and fan pages; and, (vi) other game-related information (collectively referred to as "demographic information"). If demographic information is collected for an activity that also requires personal information, we may combine your demographic information with your personal information.
 
-. This Privacy Policy currently applies to the website(s), games, online games, including social games and the online features of games, operated by or at the direction of THQ (collectively referred to as the " ** _THQ Properties_** "). All THQ Properties are covered by this Privacy Policy and THQ shall take reasonable steps to ensure that they provide a link to this Privacy Policy. 
+»Back to top  
+ 
 
-Please note that this Privacy Policy applies only to information submitted and collected online through the THQ Properties (as listed above), and does _not_ apply to information that may be collected by THQ offline. In addition, this Privacy Policy does _not_ extend to websites maintained by our international affiliates (e.g., THQ Australia, THQ UK, THQ France, etc.) or other companies or organizations to which we link. If you access the THQ Properties from a third party social network (“ ** _Social Site_** ”) (e.g., Facebook, Google +), you may be required to also read and accept the terms of service and the privacy policy of such Social Site.  Because we cannot guarantee that the privacy policies of such sites meet the requirements of the ESRB Privacy Online Program, we encourage you to read the privacy policy of the website to which you link before you submit any personal information to that site. 
+## How does SEGA use the information it collects?
 
-_Please note that by using the THQ Properties, you signify your assent to THQ's Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use the THQ Properties. This Privacy Policy supplements the privacy policies and terms of any Software License Agreements (" ** _SLAs_** ") provided to you with any THQ product or service. We reserve the right to make changes to this Privacy Policy. _If we make a material change to this Privacy Policy, we will notify you by posting the change on the THQ Properties or in this Privacy Policy and, if necessary, give you additional choices regarding such change._ Please check back from time to time to ensure that you are aware of these changes. Your continued use of the THQ Properties will signify your acceptance of these changes._
+Generally, information that we collect for a particular purpose is used for that purpose only. For example, if you email us a question using our online Customer Service form, your personal information will only be used to provide a response to your inquiry. Similarly, information collected from those who register on one of our websites account is used to provide registrants the benefits that come along with registration, which often include a subscription to our newsletter, access to the latest game news and special offers, contests, and other features. In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., have your email address added to our newsletter mailing list when entering a contest). If you choose to receive these additional services, we will use your information to provide them to you. If you choose to opt-in to receive e-mails from one of our partner companies (during registration for or participation in one of these events), we encourage you to visit such partner's website and read their policy before agreeing to provide your information to them.
 
-###  3\. What types of information does THQ collect?
+Any email addresses collected from you during the use of the E-Cards or "Send-to-a-Friend" email feature on any SEGA website are not retained by SEGA and are only used to send a one-time email notification on your behalf.
 
-In order to give you the best experience on the THQ Properties, THQ may collect information about you. We will only collect personal information that you voluntarily provide to us. Typically, we may ask you to submit personal and/or demographic information in connection with any one of the following features or services. 
+From time to time, we are approached by third party companies and organizations that provide products or services that we believe may be of interest to you. To extend these products or services to you, we may use your personal information to send out notices on their behalf. We strive to limit the notices and communications to those that we think you would appreciate receiving.
 
-  * THQ Property, warranty and game-specific registration 
-  * Newsletter subscription 
-  * General support 
-  * Product support 
-  * Online store 
-  * Product, service and/or subscription orders 
-  * Contests, sweepstakes, and other promotions 
-  * Polls, surveys, or questionnaires 
-  * Message boards or forums 
-  * Community websites and features 
-  * Player match-up and other online competitions 
-  * Use of THQ software, mobile or online services, where personal information is required for use and/or participation 
-  * Other features such as e-cards, wish lists, and tell-a-friend
+We may use your email address to send you service announcements that tell you about updates to our Privacy Policy, changes in pricing, changes to our online service or customer service policies, and other related service changes.
 
+In addition, personal and/or demographic information collected through one of the activities set forth above may be used for our internal marketing and demographic studies, so we can constantly improve the online products and services we provide you and better meet your needs. Additionally, we may use information that we collect to ensure that someone who is cheating is excluded, and to enforce our rights under our Terms of Service.  
+No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.
 
+Please be advised that information submitted by individuals acting solely in a business capacity (e.g., resume from job applicant) is not subject to this Privacy Policy. However, we want to assure you that information obtained from your resume will be used solely for the purpose of accepting and evaluating your submission for a job opening.
 
-The types and amount of personal information collected for these activities will vary depending on the activity. The requested personal information may include: your name, home address, telephone number, e-mail address and (for those purchasing products online) credit card information including billing and shipping addresses. For some activities, we may ask you to create a username and password and to provide other non-personal information such as your age or date of birth, gender, game and platform preferences (including information about the games and hardware you own), hobbies and interests, Internet Protocol (" ** _IP_** ") address, Steam ID, PlayStation Network ID, Xbox Live Gamertag, game play statistics, game achievements, game scores, game replays, system technical specifications, and other information (also known as " ** _demographic information_** "). If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. Combining data allows us to customize the notices we send you and the services we provide you according to your interests and preferences. Please note, when demographic information, or any other non-personal information, is combined with personal information, we shall treat all of the information, collectively, as personal information. Additionally,when you sign into a THQ Property through a Social Site, Social Sites may provide us access to the personal and non-personal information you have provided to them, including your account ID with those services, your name, email address, telephone number, date of birth, country of residence and uploaded pictures, friends and family. Such third party information shall only be used for purposes consistent with those stated in this policy. For more on how we use your information, please read the section on use below. 
+**A Special Note about our Message Boards**  
+Please note that whenever you give out personal information in public areas such as on our message board, that information can be collected and used by people you don't know. While we strive to protect those who wish to participate in these activities, we cannot guarantee the security and privacy of any information that you post in these areas.
 
-Personal information may be collected through your active provision of it by signing up for THQ services or through other online and mobile activities, such as those described above.   The information you allow us to access varies by activity, THQ Property and Social Site, including the privacy settings you establish within the THQ Properties and applicable Social Sites. Non-personal demographic information may be obtained as described above, through the use of passively Technical Methods (as defined in Section 6) or through your active provision of such information to THQ. No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives. 
+»Back to top  
+ 
 
-THQ has the right to gather non-personal information regarding YOU, your game play activities, game usage, or preferences, THROUGH THE USE OF COOKIES OR OTHER MEANS, without any additional notice to you or affirmative actions taken by you BEYOND USING ANY OF THE THQ PROPERTIES OR PRODUCTS.  This non-personal information may include, but shall not be limited to, your IP address, age, gender, general location, THQ game or THQ Property download history, Steam ID, PlayStation Network ID, Games for Windows LIVE ID, Xbox Live ID, game genre preferences, game achievements, game scores, game replays, technical specifications and other demographic information or statistics.  Such information may be collected whether or not you register for a THQ Property Account.  Such information may also be collected while you are offline and may be transmitted to THQ when you next connect to the Internet, regardless of the location where or device through which that connection is established.  THQ reserves the right to compile, save and use such information within the scope of THQ’s business activities, and analyze any and all of the data collected in this manner. The data collected by THQ may be posted on websites accessible to the public; shared with console manufacturers, software developers, and/or marketing partners; or used by THQ for any other lawful purpose. By using the THQ Properties you consent to THQ’s use of the data THQ collects, including the public display of information such as your user ID, your user created content or any other gameplay data. THQ may also use such information for statistical purposes, the public display of user statistics and/or game rankings, to improve your game play experience, to provide you with advertisements or information that might be of interest to you, and any other reasonable purpose, at THQ’s sole discretion. 
+## What happens if I refuse to provide my personal information to SEGA?
 
-THQ will not collect personal information unless you voluntarily provide it, whether directly or through your agreement to provide your Social Site profile information as part of registering for a THQ Property, and will not post any information that clearly identifies you (such as your real name or email address) unless you voluntarily provide such information to THQ for public display, such as by entering a contest that will post the names of its winners.  Any personal information THQ collects shall only be used for the purposes for which it is collected, such as for play THQ’s online or social games, creating a THQ Property Account, participating in our community forums or chat rooms, purchasing a product through a THQ Property, applying for a beta tester position, providing customer or technical support, participating in contests or promotions, or registering a THQ product online.  Personal information may be combined with non-personal information.  THQ shall not sell or rent your personal information to third parties without your consent.  The failure to disclose requested personal information as part of certain THQ Property Services (such as using a THQ Property online store) may prevent you from using those Services. 
+If you choose not to submit personal information when requested, you may not be able to use many of the features offered on our websites. For example, if you were to refuse to disclose your name or email address, you would not be able to register a product online or submit a question to customer service. However, to simply browse and view certain content on our websites, you do not need to give us any personal information.
 
-If you access our Properties through your mobile phone or other mobile device, we may collect your unique device identifier and phone number, country and other information you choose to provide. 
+»Back to top  
+ 
 
-THQ may, with or without notice to you, disclose your Internet Protocol (IP) address(es), personal information, THQ Property communications, and other information about you and your activities either in response to a request by law enforcement, a court order, or other legal mandate; or if THQ believes that doing so may protect your safety or the safety of others. 
+## Does SEGA use cookies, track IP addresses, or use other passive means to collect information?
 
-###  4\. How does THQ use the information it collects?
+ **Cookies**  
+We may use cookies on our websites. A "cookie" is a small bit of record-keeping information that sites often store on a user's computer. Cookies are typically used to quickly identify a user's computer and to "remember" things about the user's visit. For example, SEGA uses cookies to keep track of your preferences and your username and password. Information contained in a cookie may be linked to your personal information for this purpose. You can disable cookies or set your browser to alert you when cookies are being sent to your computer, although this may affect your ability to use many of the features on our websites.
 
-Generally, information that we collect for a particular purpose is used for that purpose only. For example, if you request product support, the email address that you provide will only be used for purposes of diagnosing your specific technical problem and providing an acceptable solution. Information collected from those who register on the THQ Properties is used to provide registrants the benefits associated with such registration (e.g., subscription to newsletter or access to the latest game news and exclusive store promotions). And, of course, any credit card information is solely used to fulfill and process purchase orders. In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., to have your name entered into a contest when subscribing to our newsletter or vice versa). If you choose to receive these additional services, THQ will use your information to provide them to you. 
+**IP Addresses**  
+An Internet Protocol (IP) address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. Although we do not generally collect IP addresses, we may collect and use your IP address when we feel it is necessary to protect our service, websites, customers, or others.
 
-We may use your email address to send you service-related announcements that tell you about updates to our Privacy Policy, new areas or features on our THQ Properties, changes to our online service or technical support policies, and other related changes. 
+**MAC Addresses**  
+If you play a SEGA video game online, we may collect your MAC address, which is a unique number associated with a computer's identity on a network.
 
-We may also use your personal, demographic and third party provided information, both individually and combined together, for our internal marketing and demographic studies, so we can constantly improve the products and services we provide you, to troubleshoot technical problems, to enforce our Terms of Use, to provide you with promotional materials and notice of special events that may be of interest to you, to better tailor our game play experience to you and to better meet your needs.  Demographic information may also be used to display user IDs, game user leader boards, game statistics, to identify tournament participants on our websites, or other similar purposes. 
+**Log Files**  
+The only other information that may be passively collected by SEGA is in the form of logs - files that record website activity, including how many "hits" a particular web page is getting (a.k.a. "navigational data"). These entries are generated anonymously, and enable SEGA to gather statistics about users' browsing habits, assess overall website activity, track interest in advertised sales, and maintain website security. We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you. Log files are used internally only, and may be combined with data collected via cookies to help us aggregate behavior patterns of registered users.
 
-Please be advised that in some areas of the THQ Properties, you may be able to submit information about yourself in a business capacity. Although we can assure you that any personal information gathered in this context will be used solely for its intended purpose, such information is not subject to this Privacy Policy. These areas typically include an employment section where you can submit your resume online and/or an investors relations section where you can fill out an online form to request financial information about THQ. 
+»Back to top  
+ 
 
-Except as set forth herein, THQ does not sell, market, trade, or otherwise distribute personally identifiable information to third parties outside of our company. 
+## Who is collecting my personal information and is it shared with anyone?
 
-###  5\. What happens if I refuse to provide my personal information to THQ?
+Generally, the information that you disclose on a SEGA website is collected by SEGA or by a vendor on SEGA's behalf, and is used in accordance with the practices set forth above. Vendors (or agents) are entities that provide support for the internal operations of our websites and who only use the information we share with them for the purpose of carrying out the service you've requested (e.g., newsletter delivery and fulfillment of online purchases and contest entries).
 
-If you choose not to submit personal information when requested, you may not be able to participate in certain activities on the THQ Properties and may limit the services we can provide you. For example, if you refuse to share your email address, you may not be able to receive general support or product support. To simply browse the THQ Properties, however, you do not need to give us any personal information. Regardless of whether you register with THQ, certain demographic information (such as user ID, in-game achievements, gameplay statistics or leader boards) collected through the use of the THQ Properties or any THQ products or services may be published by THQ to further the online gameplay experience of users. 
+From time to time, we may run contests, tournaments, or other events or activities ("events") on our websites. Information collected for these events may include personal information such as your email address and may be collected by or shared with a third party sponsor or co-sponsor or shared with other reputable third party (that provides products or services that may be of interest to you). While we have no control over the third party's use of such information, we will attempt to ensure that they agree to protect the confidentiality, security, and integrity of any personal information collected through our website. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these events at the time the information is collected.
 
-###  6\. Does THQ use cookies, track IP addresses, or use other passive means to collect information?
+We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability.
 
-###  The various means described below shall be collectively referred to as “ _Technical Methods_.” Please note that this Privacy Policy only covers the use of Technical Methods by THQ, and does not cover the use of such methods by advertisers and other parties. 
+In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, SEGA's customer information may be transferred to its successor or assign, if permitted by and done in accordance with applicable law.
 
-####  Cookies 
+SEGA may also share aggregate information about our visitors within the SEGA family such as with SEGA Mobile. For example, we may say a particular game title's audience is X% female and Y% male. This data is used to customize the content and advertising of SEGA's websites to deliver better experience for our visitors. It can also help tailor SEGA's products and services to meet the needs of our customers.
 
-We may use cookies to improve the use and functionality of the THQ Properties. A "cookie" is a small file or record-keeping device that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on the THQ Properties. For example, cookies will remember what you've placed in your shopping cart, tell us that you have visited one of the THQ Properties before, and may contain other information that will make your next visit to the THQ Properties more enjoyable. We may also use cookies to collect information such as which of our games are played, how much time is spent playing our games, or which advertisements or links are clicked. We may combine information contained in cookies with your personal information. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer, although this may affect your ability to shop online, both at THQ and elsewhere. 
+SEGA sends to your web browser most of the advertisements you see when you visit our websites. However, SEGA may allow other companies, called third party ad servers, to serve advertisements within our web pages. This Privacy Policy does not apply to, and cannot control the activities of, these other companies. If you want to prevent a third party ad server from sending or reading cookies on your computer, you must visit each of the company's websites individually and opt-out.
 
-####  Web Beacons 
+»Back to top  
+ 
 
-We may use web beacons (or clear GIFs) on the THQ Properties or include them in the e-mail messages we send you. Web beacons (also known as "web bugs") are small strings of code that provide a method of delivering a graphic image on a web page or in an email message for the purpose of transferring data. We use web beacons for many purposes, including site traffic reporting, unique visitor counts, advertising and email auditing and reporting, and personalization. Information gathered through web beacons may be linked to your personal information. 
+## What is SEGA's policy regarding links to third party sites?
 
-####  IP Addresses 
+You should be aware that while you are browsing one of our websites, you may be directed to other sites that are beyond our control and for which we are not responsible. Because we cannot guarantee that the privacy policies of such sites meet our high standards and the requirements of the ESRB Privacy Online Program, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.
 
-THQ may also keep track of Internet Protocol (IP) addresses to troubleshoot technical concerns and to maintain website safety and security. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. We may block certain IP addresses or users if they violate our Terms of Use, and may use IP addresses and game system user IDs to personally identify violators for further action (legal and otherwise) and per our Terms of Use, where necessary. 
+»Back to top  
+ 
 
-####  Log Files 
+## Can I choose how my personal information is used?
 
-THQ may collect information in the form of logs - files that record website activity and gather statistics about web users' browsing habits. These entries are generated anonymously, and help THQ determine (among other things) user hardware specifications, how many and how often users have visited the THQ Properties, which pages they've visited, and other similar data (a.k.a., navigational data). We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you. Log files are used internally only, and are not associated with any particular user, computer, or browser, though they may contain your IP address. 
+ **Your California Privacy Rights**  
+Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires regarding our disclosure policy, please write us:
 
-**Authentication**
+SEGA  
+Customer Service Department  
+350 Rhode Island Street  
+Suite 400  
+San Francisco, CA 94103  
+[privacy@segaamerica.com](mailto:privacy@segaamerica.com)
 
-THQ may implement security measures from time to time in ensure that participants on the THQ Properties and for services offered via the THQ Properties are individuals rather than web crawlers, bots, or other automated programs.  These authentication measures ensure a smooth and safe user experience. 
+If you do not want to receive our newsletters (such as the SEGA NewsBlast) or other email communications from SEGA, please opt-out from these services at the time of registration or information collection. If you have opted-in and, at a later time, wish to opt-out, please use one of the following two methods to opt-out:
 
-###  7\. Who is collecting my personal information and is it shared with anyone?
+  1. To opt-out of receiving emails, simply go to the site (either SEGA.com or SEGAmobile.com) and follow the instructions on that particular site.
+  2. Click the "unsubscribe" link at the bottom of your most current email from SEGA. You will either be presented with an email to send us your unsubscribe request, or be taken to a web page on which you can confirm your unsubscribe request. On the web page, click the appropriate link to unsubscribe from the SEGA email list. Either of these methods will unsubscribe you from the SEGA email list. If you are experiencing problems with opting out, please contact SEGA at [privacy@segaamerica.com](mailto:privacy@segaamerica.com).
 
-The information that you disclose on the THQ Properties is collected by THQ or by a vendor on THQ's behalf; and, is used in accordance with the practices set forth above. Vendors (or agents) are entities that provide support for the internal operations of the THQ Properties and who only use the information we share with them (or that they collect on our behalf) for purposes of internal operations and fulfillment (e.g., online product fulfillment, payment processing, hosting services, etc.). Vendors are required to handle such information in accordance terms no less strict than those set forth in this Privacy Policy. 
 
-From time to time, we may run contests, tournaments, or other events or activities (" ** _Events_** ") on the THQ Properties. Information collected for these Events may include personal information such as your email address and may be collected by or shared with a third party sponsor, co-sponsor, or other reputable third party (e.g., promotional partner, software licensee, or game developer). While we have no control over the third party's use of such information, we use reasonable efforts to always contractually ensure that they agree to protect the confidentiality, security, and integrity of any personal information we share with them (or that they collect through the THQ Properties), and that they only use such information for the purposes specifically authorized by you. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events at the time the information is collected. 
 
-The THQ Properties or their purchase pages may display an "offer wall" that is hosted by an offer wall provider. The offer wall allows third party advertisers to provide certain in-game benefits, such as in-game currency, to users in exchange for interacting with an advertisement or for completing a marketing offer that may include signing up for an account with one of those advertisers. These offers may be displayed to you based on certain technical information, such as your geographic area or anonymous demographic information and are not offers made by THQ. After clicking on one of these advertisements, you will no longer be at a THQ Website and THQ privacy policy shall not apply to any transactions completed on such website. To properly credit user accounts and to prevent fraud, a unique identifier may be shared with the offer wall provider. This identifier is used to ensure proper crediting of your account, prevent fraud or duplicate offers and to resolve any customer service inquiries that may arise. 
+»Back to top  
+ 
 
-We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. In addition, in the event of a merger, acquisition, reorganization, sale of assets, bankruptcy, or other similar event, we will make commercially reasonable efforts to ensure that any organization receiving personal information collected by THQ will adhere to the terms of this Privacy Policy regarding the treatment of your personal information. 
+## How can I access my personal information?
 
-Except as set forth above we will not disclose your personal information to third parties without your express consent.  We may, however, share certain anonymous demographic data in the aggregate with third parties. 
+If you wish to view, correct, or delete the personal information collected about you, or you wish to subscribe or cancel your subscription to our promotional emails and newsletters, you can easily do so online. To modify your Phantasy Star Online (PSO) or Phantasy Star Universe (PSU) account info, please go to the PSO or PSU website, log in using your current username and password, select the areas you wish to change, and edit or delete your information. The information you delete online will be immediately removed from our database. If you are experiencing problems with changing your information online, you may contact us at [privacy@segaamerica.com](mailto:privacy@segaamerica.com).
 
-###  8\. Which information is visible to the public and how does THQ protect or use it?
+»Back to top  
+ 
 
-###  You should be aware that user profiles and IDs (both in-game and on the THQ Properties), chat room messages, blog postings, message boards and forum comments are made available to be viewed by the public on the THQ Properties.  As such, any personally identifiable information or conversations made through such online services can be read, collected, or used by other visitors of the THQ Properties without your consent, and the use of such services is done at your own risk.  We are not responsible for the privacy of any personal information you have so chosen to publicly submit. Also, any videos or images you post for public view on one of the THQ Properties may be viewed, collected, copied and/or used by other visitors to the THQ Properties without your consent. We are not responsible for the privacy of any videos or images you choose to submit on the THQ Properties. 
+## What safeguards does SEGA use to protect my personal information?
 
-###  By submitting any such information, image or video to the public through the THQ Properties you consent to allowing THQ to monitor, record, review, modify, use and/or disclose it without notice to you, per our Terms of Use. 
+SEGA maintains appropriate safeguards that ensure the security, integrity, and privacy of the personal information we collect and store about you. These safeguards include, among other things, limiting access to such data to those employees performing a legitimate business function; technical security measures, such as encryption or passwords, to prevent unauthorized access; and the storage of data on secure servers or computers inaccessible by modem.  
+We also have security measures in place to protect the loss, misuse, and alteration of the information under our control (i.e., maintain data quality). Before we allow web users to access their personal information, for example, we verify their identity by requesting that they submit information such as their username and password. We also take reasonable steps to ensure that third parties to whom we transfer personal information provide sufficient protection of such data.
 
-###  Please note that if you access or play THQ Properties through a Social Site, that the information you share with us will depend on your settings on the applicable Social Site.  THQ does not control the privacy options available through a Social Site and is not responsible for any information shared by a Social Site with THQ. 
+»Back to top  
+ 
 
-###  9\. Can I choose how my personal information is used?
+## How do I ask a question or file a complaint? (Contact Information)
 
-If you do not want to receive our newsletter, service related announcements, or any other communications and/or services from THQ, please opt-out from these communications or services at the time of registration or information collection. If you have opted-in and, at a later time, wish to opt-out, please visit the appropriate "Profile" section on the THQ Properties or contact us using the information provided below. 
+If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at (800) 872-7342, via email at [privacy@segaamerica.com](mailto:privacy@segaamerica.com), or by writing to:
 
-####  Your California Privacy Rights 
+SEGA  
+Customer Service Department  
+350 Rhode Island Street  
+Suite 400  
+San Francisco, CA 94103
 
-Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please contact us using the information provided below: 
+SEGA is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>.
 
-THQ Inc. 
-
-29903 Agoura Road 
-
-Agoura Hills, CA 91301 
-
-Attn: Privacy Policy 
-
-###  10\. How can I access my personal information?
-
-If you wish to review, update, or delete any personal information that we may have collected about you, please visit the appropriate "Profile" section on the THQ Properties or contact us at [privacypolicy@thq.com](mailto:privacypolicy@thq.com) or the contact information provided below. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of the THQ Properties. 
-
-Any information we acquire through third party social network services, such as Facebook or Twitter, may be altered by changing the associated information on those third party websites.  To withdraw our access to such third party information please dissociate yourself from any of our related services or pages on those third party sites, or contact us at [privacypolicy@thq.com](mailto:privacypolicy@thq.com) or the contact information provided below. 
-
-###  11\. What is THQ's policy regarding children under 13?
-
-THQ recognizes the importance of protecting the personal information of children.  As a result, THQ and the THQ Properties do no knowingly collect or store any personal information such as name, address or email address from children under 13.  We urge parents to instruct their children to never give out their name, address, phone number, email address of other identifying information online without their prior consent. 
-
-Please note, that from time to time, certain portions of the THQ Properties may allow children under 13 to disclose a limited amount of personal information without first telling us their age or getting their parent's permission. Such portions of the THQ Properties operate activities or provide services in a way that does not require prior parental consent. 
-
-###  12\. What safeguards does THQ use to protect my personal information?
-
-THQ takes reasonable measures to protect the confidentiality, security, and integrity of the personal information collected from our website visitors. Personal information collected by THQ is stored in secure operating environments that are not available to the public and that are only accessible to authorized employees. In addition, our online store uses industry-standard encryption to prevent unauthorized electronic access to sensitive financial information such as your credit card number. We also have security measures in place to protect the loss, misuse, disclosure, destruction and alteration of the information under our control. For example, before we allow web users to access their personal information, we verify their identity by requesting information such as their username and password. No method of electronic transmission over the Internet, or method of electronic storage, is 100% secure however, so we cannot guarantee the absolute security of such transmission or information. 
-
-Although we cannot guarantee that third parties to whom we transfer personal data will adhere to the security standards set forth above, we will take reasonable measures, such as contractual obligations, to assure that they provide sufficient protection over such data. 
-
-###  13\. How do I ask a question or file a complaint? (Contact Information)
-
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at: 
-
-THQ Inc.  
-29903 Agoura Road  
-Agoura Hills, CA 91301  
-[privacypolicy@thq.com](mailto:privacypolicy@thq.com)
-
-You can also contact ESRB Privacy Online directly at <http://www.esrb.org/privacy/contact.jsp> or at: 
-
-ESRB Privacy Online  
-Attn.: Director, Privacy Online  
+ESRB  
+Attn: Privacy Online Program  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
 [privacy@esrb.org](mailto:privacy@esrb.org)
+
+»Back to top  
+ 
+
+## How will I know if this privacy policy has changed?
+
+We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy.
+
+Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+
+»Back to top
+
+## SEGA's policy regarding children under 13:
+
+We do not knowingly collect personal information such as name and email address from children under 13. From time to time, certain portions of our websites (e.g., a contest entry form) may allow all users (including children under 13) to disclose a limited amount of personal information without first telling us their age or parental permission. Such portions of our sites operate activities or provide services in a way that does not require prior parental consent.  
+We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.
+
+»Back to top
+
+Parents of SEGA fans -- welcome to SEGA.com!
+
+We want to reassure you that SEGA.com is a safe website for your children to visit. We take privacy issues very seriously for all our site visitors, and particularly for our younger visitors. Please take a moment to read about the specific measures we've taken to insure your child's safety while exploring our site.
+
+If a child states that he or she is under 13 years old, we do not collect or store any contact information for them. This is in compliance with current Federal Trade Commission regulations. Children under 13 are allowed to enter contests and provide contact information should they win, however we delete this information once the contest is over. We do not collect any information that is not necessary to operate our site and we do not sell the data we collect to outside parties.
+
+Children of all ages are encouraged to send their artwork for posting in our [Sonic Fan Art Gallery](https://web.archive.org/sonic/content_fa.php). We protect the privacy of our users by posting only their first name and last initial. After the artwork is posted, their e-mail is deleted.
+
+All SEGA games are rated by the Entertainment Software Ratings Board (ESRB) for their appropriateness for different age groups. Game information on SEGA.com includes the ESRB rating plus information about the ESRB rating system. You may wish to check the SEGA.com site for such game information before buying games for your children. The SEGA.com website itself carries the ESRB Privacy Certification seal, and is considered a "safe harbor" website.
+
+We hope this page has answered many of your questions about our site. For more detailed information, see our Privacy Policy and [Terms of Use](https://web.archive.org/web/20130410062130id_/http%3A//www.sega.com/legal/terms.php). If you have any questions or concerns regarding online privacy, please contact us through our [Customer Support Online Form](http://help.sega.com/support/?group=segaamerica) and a customer support representative will answer your question shortly.
+
+»Back to top
+
+The following are ratings given to video games by the Entertainment Software Rating Board (ESRB) based upon the type of game content. For more information about the ESRB and their ratings system, please see their website at: [www.esrb.org.](http://www.esrb.org/)
+
+|  **Early Childhood** Titles rated "Early Childhood (EC)" have content that may be suitable for children ages three and older and do not contain any material that parents would find inappropriate.  
+---|---  
+|  **Everyone** Titles rated "Everyone (E)" have content that may be suitable for persons ages six and older. These titles will appeal to people of many ages and tastes. They may contain minimal violence, some comic mischief (for example, slapstick comedy), or some crude language.  
+|  **Everyone 10+** Titles rated E10+ (Everyone 10 and older) have content that may be suitable for ages 10 and older. Titles in this category may contain more cartoon, fantasy or mild violence, mild language, and/or minimal suggestive themes.  
+|  **Teen** Titles rated "Teen (T)" have content that may be suitable for persons ages 13 and older. Titles in this category may contain violent content, mild or strong language, and/or suggestive themes.  
+|  **Mature** Titles rated "Mature (M)" have content that may be suitable for persons ages 17 and older. Titles in this category may contain mature sexual themes, more intense violence and/or strong language.  
+|  **Adults Only** Titles rated "Adults Only (AO)" have content suitable only for adults. Titles in this category may include graphic depictions of sex and/or violence. Adults Only products are not intended to be sold or rented to persons under the age of 18.  
+|  **Rating Pending** Product has been submitted to the ESRB and is awaiting final rating.  
+  
+»Back to top
+
+## CONTENT DESCRIPTORS
+
+When consumers look on the back of a package, they may see any of the following phrases that further describe the product's content.
+
+**Alcohol Reference**  
+Reference to and/or images of alcoholic beverages.
+
+**Animated Blood**  
+Discolored and/or unrealistic depictions of blood.
+
+**Blood**  
+Contains depictions of blood.
+
+**Blood and Gore**  
+Depictions of blood or the mutilation of body parts.
+
+**Cartoon Violence**  
+Violent actions involving cartoon-like situations and characters. May include violence where a character is unharmed after the action has been inflicted.
+
+**Comic Mischief**  
+Depictions or dialogue involving slapstick or suggestive humor.
+
+**Crude Humor**  
+Depictions or dialogue involving vulgar antics, including "bathroom" humor.
+
+**Edutainment**  
+Content of product provides user with specific skills development or reinforcement learning within an entertainment setting. Skill development is an integral part of product.
+
+**Fantasy Violence**  
+Violent actions of a fantasy nature, involving human or non-human characters in situations easily distinguishable from real life.
+
+**Gambling**  
+The depiction of betting-like behavior.
+
+**Informational**  
+Overall content of product contains data, facts, resource information, reference materials, or instructional text.
+
+**Intense Violence**  
+Graphic and realistic-looking depictions of physical conflict. May involve extreme and/or realistic blood, gore, weapons, and depictions of human injury and death.
+
+**Language**  
+Mild to moderate use of profanity.
+
+**Lyrics**  
+Mild references to profanity, sexuality, violence, alcohol, or drug use in music.
+
+**Mild Violence**  
+Scenes or activities which depict characters in unsafe and/or violent situations.
+
+**Sexual Themes**  
+Mild to moderate sexual references and/or depictions. May include partial nudity.
+
+**Simulated Gambling**  
+Player can gamble without betting or wagering real cash or currency.
+
+**Some Adult Assistance May Be Needed**  
+Early Childhood descriptor only.
+
+**Strong Language**  
+Explicit and/or frequent use of profanity.
+
+**Strong Lyrics**  
+Profanity and explicit references to sexuality, violence, alcohol, or drug use in music.
+
+**Strong Sexual Content**  
+Graphic references to and/or depictions of sexual behavior, possibly including nudity.
+
+**Suggestive Themes**  
+Mild provocative references or material.
+
+**Tobacco Reference**  
+Reference to and/or images of tobacco products.
+
+**Use of Alcohol**  
+The consumption of alcoholic beverages.
+
+**Use of Drugs**  
+The consumption or use of illegal drugs.
+
+**Use of Tobacco**  
+The consumption of tobacco products.
+
+**Violence**  
+Scenes involving aggressive conflict.
+
+»Back to top
+
+## ESRB Helps Parents Choose the Right Games for Their Families
+
+The ESRB rating system is designed to give parents the information they need to evaluate a computer or video game before making a purchasing decision. The ratings are not meant to recommend which games consumers should buy or rent or to serve as the only basis for choosing a product. Rather, parents should use the ESRB ratings in conjunction with their own tastes and standards and their individual knowledge about what's best for their kids.
+
+ESRB recommends that parents learn about games before making a purchasing decision. Game reviews printed in newspapers and publisher web sites can be excellent sources of information. To search for games that are appropriate based on age categories and content, use our online ratings search feature.
+
+ESRB also urges parents to talk with their children about their favorite games. Playing the games with your children helps stimulate those discussions, and playing games as a family can also be a fun way to spend time together.
+
+»Back to top
