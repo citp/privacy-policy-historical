@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the education.qld.gov.au privacy policy that was archived on 2012-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121101180410id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the education.qld.gov.au privacy policy that was archived on 2013-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130410234111id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Education Queensland</title>
@@ -23,7 +23,7 @@
 <script type="text/javascript" src="/udm-resources/udm-mod-keyboard.js"></script>
 <script type="text/javascript" src="/js/xc/xc.js"></script>
 <div id="h">
-  <div id="qg"><a href="http://www.qld.gov.au"><img src="http://deta.qld.gov.au/img/header/qg-coa-white-stacked.png" alt="Link to Queensland Government (www.qld.gov.au)" width="157" height="55" border="0"></a></div>
+  <div id="qg"><a href="http://www.qld.gov.au"><img src="http://education.qld.gov.au/img/header/qg-coa.png" alt="Link to Queensland Government (www.qld.gov.au)" width="287" height="50" border="0"></a></div>
   <div id="t">
 
 <form id="s" action="http://pan.search.qld.gov.au/search/search.cgi" method="get">
@@ -44,6 +44,23 @@ for
 <input type="hidden" name="form" value="simple">
 </form>
 
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js" type="text/javascript"></script>
+<script>
+$(function() {
+ $('#qg-branding').html('<p><img alt="Great state. Great opportunity." src="http://education.qld.gov.au/img/tagline-footer.png" class="tagline"></p>');
+});
+
+function setActiveStyleSheet(title) {
+  var i, a, main;
+  for(i=0; (a = document.getElementsByTagName("link")[i]); i++) {
+    if(a.getAttribute("rel").indexOf("style") != -1 && a.getAttribute("title")) {
+      a.disabled = true;
+      if(a.getAttribute("title") == title) a.disabled = false;
+    }
+  }
+}
+</script>
 
 
 </div>
@@ -107,6 +124,11 @@ for
 
 <p>© The State of Queensland (Department of Education, Training and Employment) 2005-2012.</p>
 <p><a href="http://www.qld.gov.au/" title="Link to Queensland Government (www.qld.gov.au)" accesskey="1">Queensland Government</a></p>
+<div id="qg-branding" style="padding-top:2em; display:block;">
+	<p><img alt="Great state. Great opportunity." src="http://education.qld.gov.au/img/tagline-footer.png" class="tagline">
+	</p>
+</div>
+
 </div>
 <script> addLinkerEvents(); </script>
 
