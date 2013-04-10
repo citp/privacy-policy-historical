@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the pelican.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920005609id_/http%3A//www.pelican.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pelican.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410083335id_/http%3A//www.pelican.com/privacy_policy) for the most accurate reproduction.*
 
 # Pelican Products - Privacy Policy
 
 PELICAN.COM ONLINE PRIVACY POLICY
 
 INTRODUCTION  
-Purpose. The purpose of this Privacy Policy is to describe how Pelican Products, Inc. ("Pelican") collects, uses and shares information about you through our Pelican.com website and certain Pelican owned websites identified below (collectively referred to herein as the "Site"). Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to [Contact Us Online](https://web.archive.org/web/20120920005609id_/http://pelican.com/support/contact.php) or as described at the end of this Policy. 
+Purpose. The purpose of this Privacy Policy is to describe how Pelican Products, Inc. ("Pelican") collects, uses and shares information about you through our Pelican.com website and certain Pelican owned websites identified below (collectively referred to herein as the "Site"). Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to [Contact Us Online](https://web.archive.org/web/20130410083335id_/http%3A//support/contact.php) or as described at the end of this Policy. 
 
 Our Privacy Policy explains:   
 Information We Collect and Why We Collect It  
@@ -26,12 +26,12 @@ Please be aware that we are not responsible for the privacy practices of sites n
 
 Please review the privacy policy available on each site you visit for the privacy practices with respect to that site. 
 
-Terms of Use. Please note that your use of our Site and this Privacy Policy are subject to our [Terms of Use](https://web.archive.org/web/20120920005609id_/http://pelican.com/terms/index.php).
+Terms of Use. Please note that your use of our Site and this Privacy Policy are subject to our [Terms of Use](https://web.archive.org/web/20130410083335id_/http%3A//terms/index.php).
 
 INFORMATION WE COLLECT AND WHY WE COLLECT IT  
 Information You Provide To Us. You can provide information to us on our Site through various means, such as when you fill out our Contact Us form or create an account for dealer support. The information we collect includes personal information, such as your name, address, email address and telephone number. 
 
-No Information From Children Under Age 13. If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we might have any information from a child under the age of 13, please [Contact Us Online](https://web.archive.org/web/20120920005609id_/http://pelican.com/support/contact.php) or call us at (800) 473-5422. 
+No Information From Children Under Age 13. If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we might have any information from a child under the age of 13, please [Contact Us Online](https://web.archive.org/web/20130410083335id_/http%3A//support/contact.php) or call us at (800) 473-5422. 
 
 Information We Collect Automatically. We collect certain information automatically as you use our Site, such as   
 IP address  
@@ -62,7 +62,7 @@ Protect against harm to the rights, property or safety of Pelican, our users, cu
 Transfer in the Event of Sale or Change of Control. If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Site to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in the applicable privacy policy unless you agree differently. 
 
 ACCESS TO YOUR INFORMATION AND CHOICES  
-If you have questions about personal information we have about you or need to update your information, you can [Contact Us](https://web.archive.org/web/20120920005609id_/http://pelican.com/support/contact.php) or call us at (800) 473-5422. You can opt-out of receiving marketing and promotional e-mails from Pelican by sending us an email saying "Please remove," or using the opt-out or unsubscribe feature contained in the e-mails. 
+If you have questions about personal information we have about you or need to update your information, you can [Contact Us](https://web.archive.org/web/20130410083335id_/http%3A//support/contact.php) or call us at (800) 473-5422. You can opt-out of receiving marketing and promotional e-mails from Pelican by sending us an email saying "Please remove," or using the opt-out or unsubscribe feature contained in the e-mails. 
 
 SECURITY OF YOUR INFORMATION  
 In order to help secure your personal information, access to your data on our Site is password-protected, and sensitive data (such as a social security number) is protected by encryption when it is exchanged between your web browser and our Site. To protect any data you store on our servers, we also regularly audit our system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that e-mails and other communications you send to us through our Site are not encrypted, and we strongly advise you not to communicate any confidential information through these means. 
@@ -74,7 +74,7 @@ CHANGES TO OUR PRIVACY POLICY
 Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent in accordance with applicable law. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
 
 QUESTIONS AND HOW CONTACT US  
-If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please [Contact Us](https://web.archive.org/web/20120920005609id_/http://pelican.com/support/contact.php) or call us at (800) 473-5422. You may also contact us by mail at the following address:
+If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please [Contact Us](https://web.archive.org/web/20130410083335id_/http%3A//support/contact.php) or call us at (800) 473-5422. You may also contact us by mail at the following address:
 
 Pelican Products, Inc.   
 23215 Early Avenue  
