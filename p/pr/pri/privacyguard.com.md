@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020052627id_/http%3A//www.privacyguard.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410080335id_/http%3A//www.privacyguard.com/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PrivacyGuard
 
 **TRY IT NOW**
 
-**_Get your first month  
+**_Get your first 14 days  
 for just $1_**
 
 **[Online Privacy Policy](https://web.archive.org/BCA/PG_NEW2/images/privacypolicy/PPolicyPGNEWGeneric.pdf)**
@@ -49,7 +49,7 @@ Does Trilegiant Corporation share?
 Can you limit this sharing?  
   
 ---|---|---  
-**For our everyday business purposes** — such as to process your transactions, maintain your ccount(s), respond to court orders and legal investigations, or report to credit bureaus | 
+**For our everyday business purposes** — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | 
 
 YES
 
@@ -81,7 +81,7 @@ YES
 
 NO  
   
-**For our affiliates’ everyday business purposes** &mdash information about your creditworthiness | 
+**For our affiliates’ everyday business purposes** — information about your creditworthiness | 
 
 NO
 
@@ -110,7 +110,7 @@ YES
 • Write us at Trilegiant Corporation, P.O. Box 40383, Nashville, TN 37204 or  
 • Mail the form below  
 **Please note:**  
-If you are a _new_ customer, we can begin sharing your infor mation 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.  
+If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.  
 However, you can contact us at any time to limit our sharing.  
 ---|---  
   
@@ -149,8 +149,8 @@ Definitions
 **Joint marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
 • Our joint marketing partners include companies such as banks and insurance companies.  
 Other important information  
-**California Residents:** We will not share your personal information with nonaffiliated third parties that are not financial institutions except as required or permitted by Califor nia or federal law. In addition, you may request that we not share your personal information with nonaffiliated financial institutions with which we have joint marketing agreements, except as required or permitted by California or federal law.  
-**Vermont Residents:** We do not share your personal information with nonaffiliates, except as per mitted by Vermont or federal law. We may share your name, contact information, and information about your transactions with us and our experience with you with nonaffiliated financial institutions with which we have joint marketing agreements. We may also share your personal information with your consent.  
+**California Residents:** We will not share your personal information with nonaffiliated third parties that are not financial institutions except as required or permitted by California or federal law. In addition, you may request that we not share your personal information with nonaffiliated financial institutions with which we have joint marketing agreements, except as required or permitted by California or federal law.  
+**Vermont Residents:** We do not share your personal information with nonaffiliates, except as permitted by Vermont or federal law. We may share your name, contact information, and information about your transactions with us and our experience with you with nonaffiliated financial institutions with which we have joint marketing agreements. We may also share your personal information with your consent.  
   
 **Mail-in Form Mail to:     Trilegiant Corporation, P.O. Box 40383, Nashville, TN 37204-03483**  
 ---  
