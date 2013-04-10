@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majorbrands.in privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210071729id_/http%3A//www.majorbrands.in/brand/faces/jsp/static.jsp%3Farticleid%3D104) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorbrands.in privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410115322id_/http%3A//www.majorbrands.in/brand/faces/jsp/static.jsp%3Farticleid%3D104) for the most accurate reproduction.*
 
 # About Us - Online Shopping in Delhi |Bangalore | Hyderabad | Mumbai
 
