@@ -1,55 +1,85 @@
-> *The following text is extracted and transformed from the locanto.com.au privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019073545id_/http%3A//www.locanto.com.au/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locanto.com.au privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410152753id_/http%3A//www.locanto.com.au/info/privacy) for the most accurate reproduction.*
 
 # Locanto Info pages
 
-## Locanto Privacy Policy
+The following clauses shall explain when and to which extent personal data is handled, collected, promoted and used by Locanto.
 
-Your privacy is important to us, so Locanto has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to all Locanto web sites, including our publicly accessible web sites located at locanto.com.au ("Locanto"). This Privacy Policy may be updated from time to time. You can always review the most current version at <http://www.locanto.com.au/info/privacy/>. By using Locanto, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the sites and this Privacy Policy, the Terms of Use control. 
+* ### Collection and processing of personal data
 
-**Collection.** Information posted on Locanto is obviously publicly available. Our servers are located in the United States and in the European Union. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers in the United States and Europe. We collect and store the following personal information: 
+Ads on Locanto are obviously made available to the public. Our servers are located in the European Union. If you choose to provide us with personal information, you are consenting to the transfer and storage of that information to and on our servers in the European Union. 
 
-  * email address, physical contact information, and (depending on the service used) sometimes financial information; 
-  * computer sign-on data, statistics on page views, traffic to and from Locanto and ad data (all through cookies - you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site);
-  * other information, including your IP address and standard web log information.
+We collect and store the following personal information: 
 
-
-
-**Use.** We use your personal information to: 
-
-  * provide our services
-  * resolve disputes, collect fees, and troubleshoot problems;
-  * encourage safe trading and enforce our policies;
-  * customize the user experience, measure interest in our services, and inform users about services and updates;
-  * communicate marketing and promotional offers to you;
-  * do other things for users as described when we collect the information.
+  * Email address, physical location/contact information and financial information (depending on the service used)
+  * Computer sign-in data, statistics on page views, traffic to and from Locanto as well as ad data (Through cookies which you can disable on your browser. However, this is likely to affect your ability to use the site in terms of functionality). 
+  * Other information including your IP address and standard web log information.
 
 
 
-**Disclosure.** We don't sell or rent users' personal information to third parties for their marketing purposes without users explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other's rights, or protect anyone's rights, property, or safety. We may also share personal information with: 
+We point out that data transmission over the Internet (eg communication via e-mail) can lead to security issues. A complete protection of data against access of third parties is not possible.
 
-  * corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to). 
-  * service providers who help with our business operations. 
+* ### Transfer of personal data
+
+Transfer or provision of personal data to a third party occurs only if Locanto is lawfully obligated to provide information to authorities in relation to an ad that a user has posted, or if the user has given prior consent to the release of personal data. Otherwise, personal data will not be released, shared or sold to third parties for marketing or advertising purposes without prior permission from the user.
+
+* ### Cookies
+
+Locanto uses "cookies" in connection with the web browser for optimum usage of the site. A "cookie“ is a small piece of data coming from our web server that is stored in the user's hard drive or other storage device. The user may choose to disable or adjust enabled cookies accordingly by configuring their web browser. However, disabling or deleting cookies may result in the unavailability of some functions and features of the website.
+
+Locanto uses cookies to remember the last activity of the user on the website, for the user's own convenience. This applies in terms of saving the user's details (username and password) and settings on applications. Cookies are used to identify the used computer. No personal data except the users IP-address is saved.Locanto does not use technology that may combine information obtained by cookies with personal user data, so as to detect the identity or email address of users.
+
+* ### Use of Facebook Social Plugins
+
+Our website uses plugins provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Avenue, Palo Alto, CA 94304, USA (“Facebook”). The plugins are identifiable by a Facebook logo or the “Lik button. For a full list of Facebook plugins please see: <http://developers.facebook.com/docs/plugins/>
+
+When you visit a page of our website that contains a social plugin, your browser establishes a direct connection to Facebook servers, enabling Facebook to receive information about you having accessed the respective page of our website with your IP address. If you click the FB “Like” button while you are logged in on Facebook, the content of our page can be linked on your Facebook profile. Therefore if you are logged into Facebook, your visit can be assigned to your Facebook account. We point out that we do not have knowledge about the data gathered and its use by Facebook. For more information, please visit Facebook’s privacy policy: <http://facebook.com/policy.php>
+
+If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your Facebook member data, please log off Facebook before entering our website.
+
+* ### Google Analytics
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help analyze the usage of the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States in most cases.
+
+In case IP-anonymisation is activated on this website, your IP address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be first transferred to a Google server in the USA and then truncated there. Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage. The IP address, that your browser conveys within the scope of Google Analytics, will not be associated with any other data held by Google.
+
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Add-on for your current web browser: <http://tools.google.com/dlpage/gaoptout?hl=en>
+
+* ### Google AdSense
+
+This website uses Google AdSense, a service for including advertisements from Google Inc. ("Google"). Google AdSense uses "cookies", text files that are stored on your computer, to analyze the use of this website. Google AdSense uses also use web beacons (invisible graphics). Through these web beacons information such as traffic can be analyzed.
+
+This usage information, generated by cookies and web beacons (including your IP address) and the display of advertisements are transmitted to a Google server in the USA and stored there. This information can be given to Google partners. But Google will not associate your IP-address with other saved data they have from you. You can prevent the use of cookies by selecting the appropriate settings on your browser.
+
+However, we point out that in this case you may not be able to fully use all features of this website. By using this website you agree to the processing of data about you by Google in the manner described above and for the aforementioned purpose.
+
+* ### Google +1
+
+  1. #### Information collection/gathering and dissemination of information
+
+With the the Google +1 interface, you can publish information worldwide. With the aid of the Google +1 interface you and other users receive personalized content from Google and our partners. Google will store both the information that you have given +1 for some content, as well as information about the page that you were viewing when you clicked on +1. Your +1s can be displayed on the Internet as a guide along with your name and profile photo in Google services, such as in search results or in your Google profile, or elsewhere on websites and ads on the internet.
+
+Google records information about your +1- activities to improve Google's services for you and others. To use the Google +1 button, you need a world-wide public Google profile, which must contain at least the chosen name for the profile. This name is used in all Google services. In some cases, this name can also substitute a different name that you used when sharing content with your Google Account. The identity of your Google profile may be shown to users who know your e-mail address, or have any other identifying information from you.
+
+  2. #### Use of information collected
+
+Besides the above-mentioned uses, the information you provide will be used in accordance with the applicable Google privacy policies. Google may release aggregated statistics about users' +1 activities or give these findings to users and partners, such as publishers, advertisers or connected sites.
 
 
 
-**Using Information from Locanto.** You may use personal information gathered from Locanto only to follow up with another user about a specific posting, not to send spam or collect personal information from someone who hasn't agreed to that. 
+* ### Twitter
 
-**Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support (Sorry, you need JavaScript ON to see the email address (spam protection). ) to review any personal information we store that is not available on Locanto. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent offenders from coming back. 
+Our website contains plugins from Twitter. These plugins are solely provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. Through the use of Twitter and the "Re-tweet" function, the web pages you visit will be linked to your Twitter account and be visible to other users. Data will also be transferred to Twitter. We point out that we as providers of the site have no knowledge of the content of the transmitted data and its use by Twitter. For more information, please see the privacy policy of Twitter at http://twitter.com/privacy. You can change your privacy preferences at Twitter in the account settings under: <http://twitter.com/account/settings>.
 
-**Security.** We use many tools (encryption, passwords, physical security) to protect your personal information against unauthorized access and disclosure. We can't however guarantee the continuous functionality and liability of these tools at all times. 
+* ### Third party/External websites
 
-**General.** We may update this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to Sorry, you need JavaScript ON to see the email address (spam protection). . 
+Please be aware that other websites and other internet users may collect any personal information such as your e-mail address that is published on the websites of Locanto. This is due to the natural interconnectedness of the internet. Our data protection policies only apply to Locanto and do not cover external websites nor cover the external activities of the users and the consequences arising thereafter. Locanto offers users the possibility to interact with Locanto users and post ads under a cipher as an added security measure. This considerably hinders third parties from collecting users' personal data. Locanto also uses Javascript to encode your email address (that was submitted as a contact email) to prevent the scanning of users' email addresses through external software. However, email addresses that are published openly in the ad itself are not covered by this security feature.
 
-  
+* ### Right of withdrawal and information
 
+Personal information provided to Locanto may be requested for deletion at any time provided that the information is not needed for a running transaction or is not lawfully required for safekeeping. If you have given the permission for the transmission of personal information to a third party, you may at any time cancel or withdraw this permission. Information regarding all personal information saved on Locanto can be provided on request and free of cost. You have the possibility of requesting eventual corrections to erroneous and non-current data at any point.
 
-## Locanto Connect (Facebook App) Privacy Policy
+*  
 
-We collect information when you register to join Locanto by logging into an account that you already have with Facebook. Locanto allows you to create an account and login to Locanto using your Facebook account credentials through Facebook Connect. If you are not currently registered for an account on Locanto and you click on “Sign in Using Facebook,” you will first be asked to enter your Facebook credentials and then be given the option to register for an account on Locanto. We do not access your personal information shared publicly on Facebook other than your email address and your birth date for age verification. 
+### Responsible authority
 
-  
-
-
-  * Copyright © 2012 Locanto™
-
-
+Questions regarding data privacy and protection should be addressed to Sorry, you need JavaScript ON to see the email address (spam protection).
