@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the majorbrands.in privacy policy that was archived on 2012-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121210071729id_/http%3A//www.majorbrands.in/brand/faces/jsp/static.jsp%3Farticleid%3D104) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the majorbrands.in privacy policy that was archived on 2013-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130410115322id_/http%3A//www.majorbrands.in/brand/faces/jsp/static.jsp%3Farticleid%3D104) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -118,6 +118,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 </style>
 <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/brand/I18nJs.js"></script>
+<script type="text/javascript" src="http://majorbrands.in//media/js/OctaShop/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="http://majorbrands.in//media/js/OctaShop/header.js"></script>
 <script type="text/javascript">
   WebFontConfig = {
@@ -131,8 +132,95 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
     wf.async = 'true';
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(wf, s);
-  })(); </script>
-<div id="login" style="display:none;position:absolute"></div>
+  })(); 
+</script> 
+<script>
+	jQuery = jQuery.noConflict();
+		jQuery(document).ready(function(){
+		jQuery(".login_div").click(function(){
+		jQuery("#login").fadeIn("slow");
+		});
+		jQuery('#my_account_hide').hover(function() { 
+			jQuery('#logOutDiv').show("1000"); 
+		}, function() { 
+			jQuery('#logOutDiv').hide("1000"); 
+		});
+		jQuery("#logOutDiv ul li").mouseover(function(){
+			jQuery("#my_account").addClass("active");
+		});
+		jQuery("#logOutDiv ul li").mouseout(function(){
+			jQuery("#my_account").removeClass("active");
+		});
+		  jQuery(window).scroll(function(event){
+		 if (jQuery(window).scrollTop() > 100){
+				jQuery("#shopping_inner").addClass("showing");
+		}else{
+			    jQuery("#shopping_inner").removeClass("showing");
+			}
+		 });
+		 var popupStatus = 0;
+        
+        function loadPopup(){
+                if(popupStatus==0){
+                        //jQuery("#popupBackground").css({
+                                //"opacity": "0.5"
+                        //});
+                        jQuery("#popupBackground").fadeIn("slow");
+                        jQuery("#popupForm").fadeIn("slow");
+						jQuery(window).scrollTop("0","slow");
+                        popupStatus = 1;
+                }
+                
+        }
+        function disablePopup()
+        {
+                if(popupStatus == 1)
+                {
+                        jQuery("#popupBackground").fadeOut("slow");
+                        jQuery("#popupForm").fadeOut("slow")
+                        popupStatus = 0;
+                }
+        }
+        function centrePopup()
+        {
+                var windowWidth = document.documentElement.clientWidth;
+                var windowHeight = document.documentElement.clientHeight;
+                var popupHeight = jQuery("#popupForm").height();
+                var popupWidth = jQuery("#popupForm").width();
+                jQuery("#popupForm").css({
+                        "position": "absolute",
+                        "top": windowHeight/2-popupHeight/2,
+                        "left": windowWidth/2-popupWidth/2
+                });
+                jQuery("#popupBackground").css({
+                        "height": windowHeight
+                });
+        }
+        jQuery(".popupClick").click(function(){
+                jQuery("#popupForm").append("");
+                centrePopup();
+                loadPopup();
+        });
+        jQuery("#closePopup").click(function(){
+                disablePopup();
+        });
+        jQuery("#popupBackground").click(function(){
+                disablePopup();
+        });
+        jQuery(document).keypress(function(e){
+                if(e.keyCode==27){
+					jQuery("#login,#registeredDiv,#forgotDiv").fadeOut("slow");
+                    disablePopup();}
+        });
+		jQuery("#closePopup").click(function()
+        {
+                disablePopup();
+        });
+		 });
+</script> 
+<div id="login" style="display:none;position:fixed"></div>
+<div id="registeredDiv" style="display:none;"></div>
+<div id="forgotDiv" style="display:none;"></div>
 <div class="full-Div top-bar-bg">
 	<div class="content-div">
     	<div class="left-div top-icon-text-div">
@@ -144,34 +232,34 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
                 <li class="Blog" onclick="javascript:window.open('http://blog.majorbrands.in');">Blog</li>
             </ul>
 		</div>
+        
+        <div class="left-div special_offer">
+        	
+            <div class="custCareTpSlider2">
+            	<div class="sldToTop2" style="top: 0px;">
+                	<ul>
+                    	
+                    	<li class="Email">FREE SHIPPING ON ORDERS ABOVE 1000</li>
+                        <li class="Email">FREE SHIPPING ON ORDERS ABOVE 1000</li>
+                    </ul>
+            	</div>
+			</div>
+        </div>
+        
+        
         <div class="right-div help-info-div">
             <div id="custCareTpSlider">
             	<div class="sldToTop" style="top: 0px;">
                 	<ul>
-                    	<li class="Hot-Line"><span style="float: left; line-height: 17px;font-size: 14px;">Hot Line- 1800-102-2285</span>
+                    	<li class="Hot-Line"><span style="float: left; line-height: 17px;font-size: 14px;">Hot Line-1800-102-2285</span>
 						<span style="clear: both; line-height: 13px; float: right;font-size: 12px;padding-right: 14px;">Mon to Sat 9am To 9pm</span>
 						</li>
                     	<li class="Email">estore@majorbrands.in</li>
                     </ul>
             	</div>
 			</div>
-            <!--<div class="phone_no">+91 9167208310</div>-->
-        </div>
-        
-        <div class="right-div help-info-div">
-        	<div class="spcil_off">&nbsp;</div>
-            <div id="custCareTpSlider2">
-            	<div class="sldToTop2" style="top: 0px;">
-                	<ul>
-                    	<li class="Hot-Line">Free COD on all Orders</li>
-                    	<li class="Email">Free SHIPPING on all Order</li>
-                    </ul>
-            	</div>
-			</div>
             <!--<div class="phone_no">+91 9167208310</div> -->
         </div>
-        
-        
     </div>
 </div>
 <div id="header-ID-div" class="headerDiv_Class">
@@ -261,10 +349,27 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 <span class="lable">In: </span>
 <span class="value"><select tabindex="14" id="categoryid" name="categoryid" onChange="addUpdateParameter('categoryID',this.value)"></select></span>
 <span class="button"><input type="button" value="Search" class="search_button_class" tabindex="15" onclick="invokeSearch();"/></span> --></div>
+                <div class="shopping_outer">
+                	<div class="shopping_inner" id="shopping_inner">
               	<div class="insideHeader">
+              	
 
 
-<div id="shopping-cart-div" onmouseover="divShowHide('miniCart','showit');" onmouseout="divShowHide('miniCart','hideit');">
+
+<!--  AED 0.00 -->
+<span id="sign_in_out"> 
+
+	
+    
+ 
+	<a href="#" tabindex="7" title="Sign In" class="login_div" onclick="getLoginForm('/brand/faces/tiles/components/loginForm.jsp');divShowHide('loading','hideit');">Sign In</a> 
+       
+
+
+</span>
+
+
+<div id="shopping-cart-div">
 	
 
 
@@ -277,7 +382,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 
 
 
-<span class="items-span"><a href="/brand/faces/jsp/shoppingCart.jsp" class="active toggle"><!--Shopping Bag -->(0) items</a></span>
+<span class="items-span all_icon"><a href="/brand/faces/jsp/shoppingCart.jsp" class="active toggle"><!--Shopping Bag -->(0) items</a></span>
  
 
 <span class="spacerpaep"> | </span>
@@ -293,18 +398,10 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 
 
 </div>
-<!--  AED 0.00 -->
-<span id="sign_in_out"> 
-
-	
- 
-	<a href="#" tabindex="7" title="Sign In" onclick="getLoginForm('/brand/faces/tiles/components/loginForm.jsp');">Sign In</a>  /
-	   <a href="/brand/faces/jsp/userRegistration.jsp" title="New User" tabindex="8">Register</a>
 
 
-</span>
 
-                    <div id="miniCart" style="display:none;position:absolute;border:2px solid black;width:305px;background-color: #FAFAFA;padding: 0 0 25px 25px;z-index: 99;margin:23px 0 0 -195px;" onmousemove="divShowHide('miniCart','showit');" onmouseout="divShowHide('miniCart','hideit');">
+                    <div id="miniCart" class="miniCart_div" style="display:none;" onmousemove="divShowHide('miniCart','showit');" onmouseout="divShowHide('miniCart','hideit');">
                         <span onclick="divShowHide('miniCart','hideit');" style="background-color: black;color: white;cursor: pointer;float: right;font-size: 15px; margin: 7px 15px 0 0;text-align: center; width: 20px;">X</span>
                         <div id="miniCartContainer">
                             
@@ -317,27 +414,31 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 
 <div id="minishoppingcart" class="miniShoppingCartDiv">
 	<div class="Heading">
-		<span class="label"><!-- &nbsp;Shopping Bag -->Shopping Bag</span> <!-- <span class="value floatRight_class">(All value in INR)&nbsp;</span> -->
+		<span class="label">  Shopping Bag</span> <!-- <span class="value floatRight_class">(All value in INR)&nbsp;</span> -->
 	</div>
 	
 		<div class="infoMessage">&nbsp;Your Shopping Bag is Empty. Please fill it.</div>
 	
 		
 </div>
+<!-- hidden fields added for functionality not allow other brand to be added in cart with any other brand-->
+<input type="hidden" name="hiddenProductrestriction" id="hiddenProductrestriction" value="">
+<input type="hidden" id="incart" name="incart" value="">
+
 
                         </div>
                     </div>
+                    </div>
+                    </div>
+                    </div>
                 </div>
 			</div>
-		</div>
 		<div class="clearBoth_class specing_height5px_Class"></div>
 		<div class="menuLayout newMenuLayout">
 			<div class="menuLeftCrv"></div>
 			<div class="menuCenterCrv">
 				<div class="floatLeft_class">					
-					<div class="parentmenuactivetab active-tab">
-						<a href="/brand/faces/jsp/index.jsp"><img style="padding-top:5px;" src="http://majorbrands.in//media/images/OctaShop/newHome_Tab.gif"></a>
-					</div>					
+					
 					
                     <!-- ***** Dropdown Menu Start*************************************************** -->
                         <!-- ************************************Women Category Start***************************************** -->
@@ -370,7 +471,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
                         <div class="parentmenutab" onmouseover="showTopCatDetailDiv(event,this);" onclick="javascript:location.href='/brand/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=3935';" onmouseout="showTopCatDetailDiv(event,this);">ACCESSORIES</div>
                         -->
                         <div class="parentmenutab" onmouseover="showTopCatDetailDiv(event,this);" onclick="javascript:location.href='/brand/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=3935';" onmouseout="showTopCatDetailDiv(event,this);">ACCESSORIES</div>
-                        <div id="parentDIV_ETSL" onclick="javascript:location.href='/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4093&amp;entityType=ETSL&amp;topParent=2682';" class="parentmenutab" onmouseover="showTopCatDetailDiv(event,this);" name="parentDIV_ETSL" onmouseout="showTopCatDetailDiv(event,this);">SALE</div>
+                        <div id="parentDIV_ETSL" onclick="javascript:location.href='/brand/faces/jsp/sale.jsp?catalogueID=2&amp;entityType=ETSL';" class="parentmenutab" onmouseover="showTopCatDetailDiv(event,this);" name="parentDIV_ETSL" onmouseout="showTopCatDetailDiv(event,this);">SALE</div>
                         <div id="parentDIV_2682" onclick="javascript:location.href='/brand/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=2762';" class="parentmenutab" onmouseover="showTopCatDetailDiv(event,this);" name="parentDIV_2682" onmouseout="showTopCatDetailDiv(event,this);">GIFT</div>
                         
                         <!-- ************************************Community End***************************************** -->
@@ -394,7 +495,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 	}	
 </script>
 
-  
+
 <div class="childmenutab newchildmenutab" id="category_child" style="display:none;width:800px;" onmouseout="this.style.display='none'" onmouseover="this.style.display='block'">
 	
 		
@@ -454,6 +555,12 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4225-p_4020/women/apparel/coats.html"> Coats </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4033-p_4020/women/apparel/tops.html"> Tops </a></div>
 		                                         
 		                                        
@@ -489,9 +596,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4030-p_4020/women/apparel/skirts.html"> Skirts </a></div>
-		                                         
 		                                        
 		                                        
 		                                        
@@ -720,11 +824,8 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3978-p_1505/women/footwear/close-shoe.html"> Close Shoe </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4038-p_1505/women/footwear/shoes.html"> Shoes </a></div>
 		                                         
-		                                        
-		                                        
-		                                        
 		                                        
 		                                        
 		                                        
@@ -853,12 +954,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4201-p_1389/women/bags/cases.html"> Cases </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4200-p_1389/women/bags/make-up-bag.html"> Make Up Bag </a></div>
 		                                         
 		                                        
 		                                        
@@ -1079,13 +1174,19 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3940-p_2688/cosmetics/freedom-system.html"> Freedom System </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2692-p_2688/cosmetics/eyes.html"> Eyes </a></div>
 		                                         
 		                                        
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3940-p_2688/cosmetics/freedom-system.html"> Freedom System </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2693-p_2688/cosmetics/accessories.html"> Accessories </a></div>
 		                                         
 		                                        
 		                                        
@@ -1104,12 +1205,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2691-p_2688/cosmetics/nails.html"> Nails </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2693-p_2688/cosmetics/accessories.html"> Accessories </a></div>
 		                                         
 		                                        
 		                                        
@@ -1327,25 +1422,13 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4151-p_3964/women/womens-accessories/legwear.html"> Legwear </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3999-p_3964/women/womens-accessories/hair-accessories.html"> Hair Accessories </a></div>
 		                                         
 		                                        
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3997-p_3964/women/womens-accessories/bracelets.html"> Bracelets </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4072-p_3964/women/womens-accessories/belts.html"> Belts </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3938-p_3964/women/womens-accessories/sunglasses.html"> Sunglasses </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3966-p_3964/women/womens-accessories/watches.html"> Watches </a></div>
 		                                         
 		                                        
 		                                        
@@ -1357,7 +1440,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3998-p_3964/women/womens-accessories/earrings.html"> Earrings </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4234-p_3964/women/womens-accessories/keychains.html"> Keychains </a></div>
 		                                         
 		                                        
 		                                        
@@ -1369,8 +1452,23 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3965-p_3964/women/womens-accessories/hat-and-scarves.html"> Hat &amp; Scarves </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3997-p_3964/women/womens-accessories/bracelets.html"> Bracelets </a></div>
 		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4202-p_3964/women/womens-accessories/gift-box-set-.html"> Gift Box Set  </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3938-p_3964/women/womens-accessories/sunglasses.html"> Sunglasses </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
 		                                        
 		                                        
 		                                        
@@ -1517,6 +1615,86 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_2682-p_2682-b_41-bnm_Aldo-bcf_N/women.html">Aldo</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_2682-p_2682-b_55-bnm_Aldo+Accessories-bcf_N/women.html">Aldo Accessories</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_2682-p_2682-b_50-bnm_B+Kind-bcf_N/women.html">B Kind</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_2682-p_2682-b_54-bnm_Bebe-bcf_N/women.html">Bebe</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_2682-p_2682-b_71-bnm_Bebe+Outlet-bcf_N/women.html">Bebe Outlet</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
 									<a href="/brand/s/cl_2-c_2682-p_2682-b_52-bnm_Charles+%26+Keith-bcf_N/women.html">Charles &amp; Keith</a>
 								</div>
 							
@@ -1549,84 +1727,11 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_2682-p_2682-b_46-bnm_Mango-bcf_N/women.html">Mango</a>
+									<a href="/brand/s/cl_2-c_2682-p_2682-b_57-bnm_Guess-bcf_N/women.html">Guess</a>
 								</div>
 							
 						
 							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_2682-p_2682-b_41-bnm_Aldo-bcf_N/women.html">Aldo</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_2682-p_2682-b_54-bnm_Bebe-bcf_N/women.html">Bebe</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_2682-p_2682-b_42-bnm_Nine+West-bcf_N/women.html">Nine West</a>
-								</div>
-							
-						
-							
-							
-								
-									
-										
-									
-									
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/cl_2-c_2688/cosmetics.html">Inglot</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-										
-									
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/cl_2-c_4093/lingerie.html">LaSenza</a>
-								</div>
 							
 						
 							
@@ -1747,6 +1852,12 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4059-p_4058/men/apparel/t-shirts.html"> T Shirts </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4061-p_4058/men/apparel/denim.html"> Denim </a></div>
 		                                         
 		                                        
 		                                        
@@ -2020,25 +2131,13 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4163-p_3961/men/mens-accessories/tie.html"> Tie </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3994-p_3961/men/mens-accessories/bracelets.html"> Bracelets </a></div>
 		                                         
 		                                        
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3992-p_3961/men/mens-accessories/watches.html"> Watches </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3995-p_3961/men/mens-accessories/rings.html"> Rings </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3939-p_3961/men/mens-accessories/sunglasses.html"> Sunglasses </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3963-p_3961/men/mens-accessories/hat,-scarves.html"> Hat, Scarves </a></div>
 		                                         
 		                                        
 		                                        
@@ -2050,19 +2149,31 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3993-p_3961/men/mens-accessories/bags-and-wallets.html"> Bags &amp; Wallets </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3996-p_3961/men/mens-accessories/necklaces.html"> Necklaces </a></div>
 		                                         
 		                                        
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3962-p_3961/men/mens-accessories/belts.html"> Belts </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3992-p_3961/men/mens-accessories/watches.html"> Watches </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3939-p_3961/men/mens-accessories/sunglasses.html"> Sunglasses </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4162-p_3961/men/mens-accessories/legwear.html"> Legwear </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3993-p_3961/men/mens-accessories/bags-and-wallets.html"> Bags &amp; Wallets </a></div>
 		                                         
 		                                        
 		                                        
@@ -2195,22 +2306,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_2683-p_2683-b_48-bnm_Giordano-bcf_N/men.html">Giordano</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
 									<a href="/brand/s/cl_2-c_2683-p_2683-b_41-bnm_Aldo-bcf_N/men.html">Aldo</a>
 								</div>
 							
@@ -2243,39 +2338,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_2683-p_2683-b_43-bnm_Park+Avenue-bcf_N/men.html">Park Avenue</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_2683-p_2683-b_44-bnm_Provogue-bcf_N/men.html">Provogue</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_2683-p_2683-b_36-bnm_Opium-bcf_N/men.html">Opium</a>
+									<a href="/brand/s/cl_2-c_2683-p_2683-b_48-bnm_Giordano-bcf_N/men.html">Giordano</a>
 								</div>
 							
 						
@@ -2311,6 +2374,54 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 								</div>
 							
 						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_2683-p_2683-b_36-bnm_Opium-bcf_N/men.html">Opium</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_2683-p_2683-b_43-bnm_Park+Avenue-bcf_N/men.html">Park Avenue</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_2683-p_2683-b_44-bnm_Provogue-bcf_N/men.html">Provogue</a>
+								</div>
+							
+						
 					</div>
                     
 					<div class="brandViewAll_menuOptions cursor"><a href="/brand/faces/jsp/brand.jsp">View All</a></div>
@@ -2343,159 +2454,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 	                <table border="0" class="category-div-table" width="99%" cellpadding="0" cellspacing="0">
 	                    <tbody><tr>                       
 	                        
-	                       		
-		                        <td>
-		                            <div class="menuOptions">
-		                                <div class="menuOptions1 cursor"> <a href="/brand/cl_2-c_2692-p_2688/cosmetics/eyes.html"> Eyes </a></div>
-		                                
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                    
-		                                    <div class="subCategory-div">
-		                                    	
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2734-p_2692/cosmetics/eyes/eye-shadow.html"> Eye Shadow </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2735-p_2692/cosmetics/eyes/eyeliner.html"> Eyeliner </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2736-p_2692/cosmetics/eyes/brow.html"> Brow </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2737-p_2692/cosmetics/eyes/mascara.html"> Mascara </a></div>
-		                                         
-		                                        
-		                                        
-		                                    </div>
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                <div class="categroyViewAll_menuOptions"><a href="/brand/cl_2-c_2692-p_2688/cosmetics/eyes.html">View All</a></div>
-		                            </div>
-		                       	 </td>
-	                    	 
 	                       		
 		                        <td>
 		                            <div class="menuOptions">
@@ -2634,6 +2592,336 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                 
 		                                
 		                                <div class="categroyViewAll_menuOptions"><a href="/brand/cl_2-c_3940-p_2688/cosmetics/freedom-system.html">View All</a></div>
+		                            </div>
+		                       	 </td>
+	                    	 
+	                       		
+		                        <td>
+		                            <div class="menuOptions">
+		                                <div class="menuOptions1 cursor"> <a href="/brand/cl_2-c_2692-p_2688/cosmetics/eyes.html"> Eyes </a></div>
+		                                
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                    
+		                                    <div class="subCategory-div">
+		                                    	
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2736-p_2692/cosmetics/eyes/brow.html"> Brow </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2734-p_2692/cosmetics/eyes/eye-shadow.html"> Eye Shadow </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2735-p_2692/cosmetics/eyes/eyeliner.html"> Eyeliner </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2737-p_2692/cosmetics/eyes/mascara.html"> Mascara </a></div>
+		                                         
+		                                        
+		                                        
+		                                    </div>
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                <div class="categroyViewAll_menuOptions"><a href="/brand/cl_2-c_2692-p_2688/cosmetics/eyes.html">View All</a></div>
+		                            </div>
+		                       	 </td>
+	                    	 
+	                       		
+		                        <td>
+		                            <div class="menuOptions">
+		                                <div class="menuOptions1 cursor"> <a href="/brand/cl_2-c_2693-p_2688/cosmetics/accessories.html"> Accessories </a></div>
+		                                
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                    
+		                                    <div class="subCategory-div">
+		                                    	
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2754-p_2693/cosmetics/accessories/nail-accessories.html"> Nail Accessories </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2792-p_2693/cosmetics/accessories/professional-tweezers.html"> Professional Tweezers </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2748-p_2693/cosmetics/accessories/brushes.html"> Brushes </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2795-p_2693/cosmetics/accessories/mirror.html"> Mirror </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2753-p_2693/cosmetics/accessories/makeup-cases.html"> Makeup Cases </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3927-p_2693/cosmetics/accessories/eyelashes.html"> Eyelashes </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2751-p_2693/cosmetics/accessories/eyelash-curler.html"> Eyelash Curler </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2749-p_2693/cosmetics/accessories/removers.html"> Removers </a></div>
+		                                         
+		                                        
+		                                        
+		                                    </div>
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                <div class="categroyViewAll_menuOptions"><a href="/brand/cl_2-c_2693-p_2688/cosmetics/accessories.html">View All</a></div>
 		                            </div>
 		                       	 </td>
 	                    	 
@@ -3129,183 +3417,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                            </div>
 		                       	 </td>
 	                    	 
-	                       		
-		                        <td>
-		                            <div class="menuOptions">
-		                                <div class="menuOptions1 cursor"> <a href="/brand/cl_2-c_2693-p_2688/cosmetics/accessories.html"> Accessories </a></div>
-		                                
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                    
-		                                    <div class="subCategory-div">
-		                                    	
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3927-p_2693/cosmetics/accessories/eyelashes.html"> Eyelashes </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2748-p_2693/cosmetics/accessories/brushes.html"> Brushes </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2753-p_2693/cosmetics/accessories/makeup-cases.html"> Makeup Cases </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2792-p_2693/cosmetics/accessories/professional-tweezers.html"> Professional Tweezers </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2754-p_2693/cosmetics/accessories/nail-accessories.html"> Nail Accessories </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2795-p_2693/cosmetics/accessories/mirror.html"> Mirror </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2749-p_2693/cosmetics/accessories/removers.html"> Removers </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_2751-p_2693/cosmetics/accessories/eyelash-curler.html"> Eyelash Curler </a></div>
-		                                         
-		                                        
-		                                        
-		                                    </div>
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                <div class="categroyViewAll_menuOptions"><a href="/brand/cl_2-c_2693-p_2688/cosmetics/accessories.html">View All</a></div>
-		                            </div>
-		                       	 </td>
-	                    	 
 	                    </tr>
 	                </tbody></table>
 				</div>
@@ -3349,6 +3460,232 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 					<div class="brandViewAll_menuOptions cursor"><a href="/brand/faces/jsp/brand.jsp">View All</a></div>
 				</div>
 			
+			
+		</div>
+	
+		<input type="hidden" name="childDIV_2762_flag" id="childDIV_2762_flag">
+		<div id="childDIV_2762" class="topMenuTable" onmouseover="showCatDetailDiv(event,this);" onmouseout="showCatDetailDiv(event,this);" style="display:none">
+			
+   				
+					
+						<div id="subparent" class="topMenuTD1">
+					
+					
+				
+				
+				<div id="subparentname" class="menuOptionsLabel">Shop By Product</div>
+				<div id="subparentvalue">
+	                <table border="0" class="category-div-table" width="99%" cellpadding="0" cellspacing="0">
+	                    <tbody><tr>                       
+	                        
+	                       		
+		                        <td>
+		                            <div class="menuOptions">
+		                                <div class="menuOptions1 cursor"> <a href="/brand/cl_2-c_4226-p_2762/gift-card/gift-vouchers.html"> Gift Vouchers </a></div>
+		                                
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                <div class="categroyViewAll_menuOptions"><a href="/brand/cl_2-c_4226-p_2762/gift-card/gift-vouchers.html">View All</a></div>
+		                            </div>
+		                       	 </td>
+	                    	 
+	                    </tr>
+	                </tbody></table>
+				</div>
+			
+		</div>
+			
+			
+			<!-- Special Category Not In Use  -->
+			
+			
+			
+			
+			<input type="hidden" name="childDIV__flag" id="childDIV__flag">
+			<div id="childDIV_" class="topMenuTable" onmouseover="showCatDetailDiv(event,this);" onmouseout="showCatDetailDiv(event,this);" style="display:none">
+				
+			</div>
+			
+			
+				<div id="brands" class="topMenuTD3">
+					<div id="brandName" class="menuOptionsLabel">Shop By Brand</div>
+					<div id="brandValue">
+                    	<div class="brandsLabel">All Brands</div>
+                    	
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_2762-p_2762-b_60-bnm_Gift+Voucher+FB+Offline-bcf_N/gift-card.html">Gift Voucher FB Offline</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_2762-p_2762-b_59-bnm_Gift+Voucher+MB+Online-bcf_N/gift-card.html">Gift Voucher MB Online</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_2762-p_2762-b_58-bnm_Gift+Vouchers+MB+Offline-bcf_N/gift-card.html">Gift Vouchers MB Offline</a>
+								</div>
+							
+						
+					</div>
+                    
+					<div class="brandViewAll_menuOptions cursor"><a href="/brand/faces/jsp/brand.jsp">View All</a></div>
+				</div>
+			
+			
+				<div class="topMenuTD3-categoryImage" id="topCatImageDiv_2762">
+				
+					
+						<img src="http://majorbrands.in/0/images/category/GIFTS_dropdown255x271.jpg" width="255" height="271">	
+					
+					
+				
+				</div>
 			
 		</div>
 	
@@ -3446,6 +3783,12 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4174-p_4016/accessories/shoe-care/comfort-and-fit-.html"> Comfort &amp; Fit  </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4017-p_4016/accessories/shoe-care/cleans.html"> Cleans </a></div>
 		                                         
 		                                        
@@ -3453,12 +3796,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4018-p_4016/accessories/shoe-care/shines.html"> Shines </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4174-p_4016/accessories/shoe-care/comfort-and-fit-.html"> Comfort &amp; Fit  </a></div>
 		                                         
 		                                        
 		                                        
@@ -3561,25 +3898,13 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4163-p_3961/men/mens-accessories/tie.html"> Tie </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3994-p_3961/men/mens-accessories/bracelets.html"> Bracelets </a></div>
 		                                         
 		                                        
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3992-p_3961/men/mens-accessories/watches.html"> Watches </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3995-p_3961/men/mens-accessories/rings.html"> Rings </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3939-p_3961/men/mens-accessories/sunglasses.html"> Sunglasses </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3963-p_3961/men/mens-accessories/hat,-scarves.html"> Hat, Scarves </a></div>
 		                                         
 		                                        
 		                                        
@@ -3591,19 +3916,31 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3993-p_3961/men/mens-accessories/bags-and-wallets.html"> Bags &amp; Wallets </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3996-p_3961/men/mens-accessories/necklaces.html"> Necklaces </a></div>
 		                                         
 		                                        
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3962-p_3961/men/mens-accessories/belts.html"> Belts </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3992-p_3961/men/mens-accessories/watches.html"> Watches </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3939-p_3961/men/mens-accessories/sunglasses.html"> Sunglasses </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4162-p_3961/men/mens-accessories/legwear.html"> Legwear </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3993-p_3961/men/mens-accessories/bags-and-wallets.html"> Bags &amp; Wallets </a></div>
 		                                         
 		                                        
 		                                        
@@ -3735,25 +4072,13 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4151-p_3964/women/womens-accessories/legwear.html"> Legwear </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3999-p_3964/women/womens-accessories/hair-accessories.html"> Hair Accessories </a></div>
 		                                         
 		                                        
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3997-p_3964/women/womens-accessories/bracelets.html"> Bracelets </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4072-p_3964/women/womens-accessories/belts.html"> Belts </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3938-p_3964/women/womens-accessories/sunglasses.html"> Sunglasses </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3966-p_3964/women/womens-accessories/watches.html"> Watches </a></div>
 		                                         
 		                                        
 		                                        
@@ -3765,7 +4090,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3998-p_3964/women/womens-accessories/earrings.html"> Earrings </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4234-p_3964/women/womens-accessories/keychains.html"> Keychains </a></div>
 		                                         
 		                                        
 		                                        
@@ -3777,8 +4102,23 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3965-p_3964/women/womens-accessories/hat-and-scarves.html"> Hat &amp; Scarves </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3997-p_3964/women/womens-accessories/bracelets.html"> Bracelets </a></div>
 		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4202-p_3964/women/womens-accessories/gift-box-set-.html"> Gift Box Set  </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_3938-p_3964/women/womens-accessories/sunglasses.html"> Sunglasses </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
 		                                        
 		                                        
 		                                        
@@ -3925,87 +4265,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_3935-p_3935-b_52-bnm_Charles+%26+Keith-bcf_N/accessories.html">Charles &amp; Keith</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_3935-p_3935-b_46-bnm_Mango-bcf_N/accessories.html">Mango</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
 									<a href="/brand/s/cl_2-c_3935-p_3935-b_41-bnm_Aldo-bcf_N/accessories.html">Aldo</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_3935-p_3935-b_54-bnm_Bebe-bcf_N/accessories.html">Bebe</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_3935-p_3935-b_42-bnm_Nine+West-bcf_N/accessories.html">Nine West</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_3935-p_3935-b_34-bnm_Queue+Up-bcf_N/accessories.html">Queue Up</a>
 								</div>
 							
 						
@@ -4037,7 +4297,87 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_3935-p_3935-b_43-bnm_Park+Avenue-bcf_N/accessories.html">Park Avenue</a>
+									<a href="/brand/s/cl_2-c_3935-p_3935-b_54-bnm_Bebe-bcf_N/accessories.html">Bebe</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_3935-p_3935-b_71-bnm_Bebe+Outlet-bcf_N/accessories.html">Bebe Outlet</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_3935-p_3935-b_52-bnm_Charles+%26+Keith-bcf_N/accessories.html">Charles &amp; Keith</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_3935-p_3935-b_57-bnm_Guess-bcf_N/accessories.html">Guess</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_3935-p_3935-b_46-bnm_Mango-bcf_N/accessories.html">Mango</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-c_3935-p_3935-b_69-bnm_Mango+Outlet-bcf_N/accessories.html">Mango Outlet</a>
 								</div>
 							
 						
@@ -4065,7 +4405,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 				<div class="topMenuTD3-categoryImage" id="topCatImageDiv_3935">
 				
 					
-						<img src="http://majorbrands.in/0/images/category/acc_dropdown_255x271.jpg" width="255" height="271">	
+						<img src="http://majorbrands.in/0/images/category/Jan_Qup_dropdown255x271.jpg" width="255" height="271">	
 					
 					
 				
@@ -4091,6 +4431,147 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 	                       		
 		                        <td>
 		                            <div class="menuOptions">
+		                                <div class="menuOptions1 cursor"> <a href="/brand/cl_2-c_4091-p_4047/kids/accessories.html"> Accessories </a></div>
+		                                
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                    
+		                                    <div class="subCategory-div">
+		                                    	
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4181-p_4091/kids/accessories/others.html"> Others </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4182-p_4091/kids/accessories/sunglasses.html"> Sunglasses </a></div>
+		                                         
+		                                        
+		                                        
+		                                    </div>
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                 
+		                                    
+		                                 
+		                                
+		                                <div class="categroyViewAll_menuOptions"><a href="/brand/cl_2-c_4091-p_4047/kids/accessories.html">View All</a></div>
+		                            </div>
+		                       	 </td>
+	                    	 
+	                       		
+		                        <td>
+		                            <div class="menuOptions">
 		                                <div class="menuOptions1 cursor"> <a href="/brand/cl_2-c_4184-p_4047/kids/stationary.html"> Stationary </a></div>
 		                                
 		                                
@@ -4099,6 +4580,12 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                    
 		                                    <div class="subCategory-div">
 		                                    	
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4187-p_4184/kids/stationary/lunch-box.html"> Lunch Box </a></div>
+		                                         
 		                                        
 		                                        
 		                                        
@@ -4122,12 +4609,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4186-p_4184/kids/stationary/books.html"> Books </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4187-p_4184/kids/stationary/lunch-box.html"> Lunch Box </a></div>
 		                                         
 		                                        
 		                                        
@@ -4266,7 +4747,19 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4206-p_4048/kids/boys/cap.html"> Cap </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4179-p_4048/kids/boys/footwear.html"> Footwear </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4205-p_4048/kids/boys/muffler.html"> Muffler </a></div>
 		                                         
 		                                        
 		                                        
@@ -4688,153 +5181,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                            </div>
 		                       	 </td>
 	                    	 
-	                       		
-		                        <td>
-		                            <div class="menuOptions">
-		                                <div class="menuOptions1 cursor"> <a href="/brand/cl_2-c_4091-p_4047/kids/accessories.html"> Accessories </a></div>
-		                                
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                    
-		                                    <div class="subCategory-div">
-		                                    	
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4181-p_4091/kids/accessories/others.html"> Others </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4182-p_4091/kids/accessories/sunglasses.html"> Sunglasses </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4183-p_4091/kids/accessories/watches.html"> Watches </a></div>
-		                                         
-		                                        
-		                                        
-		                                    </div>
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                 
-		                                    
-		                                 
-		                                
-		                                <div class="categroyViewAll_menuOptions"><a href="/brand/cl_2-c_4091-p_4047/kids/accessories.html">View All</a></div>
-		                            </div>
-		                       	 </td>
-	                    	 
 	                    </tr>
 	                </tbody></table>
 				</div>
@@ -4961,6 +5307,12 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4100-p_4094/lingerie/bras/shop-by-category.html"> Shop By category </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4101-p_4094/lingerie/bras/shop-by-collection.html"> Shop By Collection </a></div>
 		                                         
 		                                        
@@ -4974,12 +5326,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4099-p_4094/lingerie/bras/back-to-basics.html"> Back To Basics </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4100-p_4094/lingerie/bras/shop-by-category.html"> Shop By category </a></div>
 		                                         
 		                                        
 		                                        
@@ -5090,6 +5436,12 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4104-p_4095/lingerie/panties/shop-by-category.html"> Shop By Category </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4105-p_4095/lingerie/panties/shop-by-collection.html"> Shop By Collection </a></div>
 		                                         
 		                                        
@@ -5103,12 +5455,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4103-p_4095/lingerie/panties/back-to-basics.html"> Back To Basics </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4104-p_4095/lingerie/panties/shop-by-category.html"> Shop By Category </a></div>
 		                                         
 		                                        
 		                                        
@@ -5235,6 +5581,12 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4108-p_4096/lingerie/sexy-lingerie/shop-by-collection.html"> Shop By Collection </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4106-p_4096/lingerie/sexy-lingerie/whats-hot-now.html"> What's Hot Now </a></div>
 		                                         
 		                                        
@@ -5242,12 +5594,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4107-p_4096/lingerie/sexy-lingerie/shop-by-category.html"> Shop By Category </a></div>
-		                                         
-		                                        
-		                                        
-		                                        
-		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4108-p_4096/lingerie/sexy-lingerie/shop-by-collection.html"> Shop By Collection </a></div>
 		                                         
 		                                        
 		                                        
@@ -5567,13 +5913,19 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4156-p_4154/lingerie/accessories/shop-by-category.html"> Shop By Category </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4158-p_4154/lingerie/accessories/shop-by-collection.html"> Shop By Collection </a></div>
 		                                         
 		                                        
 		                                        
 		                                        
 		                                            
-		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4158-p_4154/lingerie/accessories/shop-by-collection.html"> Shop By Collection </a></div>
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4228-p_4154/lingerie/accessories/whats-hot-now.html"> What's Hot Now </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4156-p_4154/lingerie/accessories/shop-by-category.html"> Shop By Category </a></div>
 		                                         
 		                                        
 		                                        
@@ -5817,6 +6169,12 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4170-p_4168/fragrance/men/deo.html"> Deo </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4171-p_4168/fragrance/men/perfumes.html"> Perfumes </a></div>
 		                                         
 		                                        
@@ -5948,6 +6306,12 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                                        
 		                                        
 		                                            
+		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4172-p_4169/fragrance/women/deo.html"> Deo </a></div>
+		                                         
+		                                        
+		                                        
+		                                        
+		                                            
 		                                                <div class="menuOptions2 cursor"> <a href="/brand/cl_2-c_4173-p_4169/fragrance/women/perfumes.html"> Perfumes </a></div>
 		                                         
 		                                        
@@ -6000,22 +6364,6 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_4167-p_4167-b_70-bnm_Guess+Perfumes-bcf_N/fragrance.html">Guess Perfumes</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
 									<a href="/brand/s/cl_2-c_4167-p_4167-b_61-bnm_David+Beckham-bcf_N/fragrance.html">David Beckham</a>
 								</div>
 							
@@ -6032,7 +6380,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_4167-p_4167-b_62-bnm_Ed+Hardy-bcf_N/fragrance.html">Ed Hardy</a>
+									<a href="/brand/s/cl_2-c_4167-p_4167-b_57-bnm_Guess-bcf_N/fragrance.html">Guess</a>
 								</div>
 							
 						
@@ -6048,39 +6396,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_4167-p_4167-b_65-bnm_Miss+60-bcf_N/fragrance.html">Miss 60</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_4167-p_4167-b_66-bnm_Nautica-bcf_N/fragrance.html">Nautica</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-c_4167-p_4167-b_67-bnm_Paris+Hilton-bcf_N/fragrance.html">Paris Hilton</a>
+									<a href="/brand/s/cl_2-c_4167-p_4167-b_70-bnm_Guess+Perfumes-bcf_N/fragrance.html">Guess Perfumes</a>
 								</div>
 							
 						
@@ -6141,12 +6457,8 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                       		
 			                        <td>
 			                            <div class="menuOptions">
-			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=2682&amp;entityId=7&amp;topParent=2682"> Women </a></div>
+			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Women </a></div>
 			                                
-			                                
-			                                 
-			                                    
-			                                 
 			                                
 			                                 
 			                                    
@@ -6179,7 +6491,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4020&amp;entityId=7&amp;topParent=2682"> Apparel </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Apparel </a></div>
 			                                         
 			                                        
 			                                        
@@ -6195,7 +6507,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=1505&amp;entityId=7&amp;topParent=2682"> Footwear </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Footwear </a></div>
 			                                         
 			                                        
 			                                        
@@ -6211,7 +6523,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=1389&amp;entityId=7&amp;topParent=2682"> Bags </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Bags </a></div>
 			                                         
 			                                        
 			                                        
@@ -6227,7 +6539,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=2688&amp;entityId=7&amp;topParent=2682"> Cosmetics </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Lingerie </a></div>
 			                                         
 			                                        
 			                                        
@@ -6243,23 +6555,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4093&amp;entityId=7&amp;topParent=2682"> Lingerie </a></div>
-			                                         
-			                                        
-			                                        
-			                                        
-			                                        
-		                        						
-						                        		
-							                        		
-							                        			
-			                        							
-			                        								
-			                        							
-						                        			
-						                        		
-						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3964&amp;entityId=7&amp;topParent=2682"> Women's Accessories </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Women's Accessories </a></div>
 			                                         
 			                                        
 			                                        
@@ -6275,7 +6571,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                    
 			                                 
 			                                
-			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=2682&amp;entityId=7&amp;topParent=2682">View All</a></div>
+			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp">View All</a></div>
 			                            </div>
 			                       	 </td>
 		                    	 
@@ -6293,12 +6589,8 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                       		
 			                        <td>
 			                            <div class="menuOptions">
-			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=2683&amp;entityId=7&amp;topParent=2683"> Men </a></div>
+			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Men </a></div>
 			                                
-			                                
-			                                 
-			                                    
-			                                 
 			                                
 			                                 
 			                                    
@@ -6327,7 +6619,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4058&amp;entityId=7&amp;topParent=2683"> Apparel </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Apparel </a></div>
 			                                         
 			                                        
 			                                        
@@ -6343,7 +6635,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=1896&amp;entityId=7&amp;topParent=2683"> Footwear </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Footwear </a></div>
 			                                         
 			                                        
 			                                        
@@ -6359,7 +6651,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3961&amp;entityId=7&amp;topParent=2683"> Men's Accessories </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Men's Accessories </a></div>
 			                                         
 			                                        
 			                                        
@@ -6379,7 +6671,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                    
 			                                 
 			                                
-			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=2683&amp;entityId=7&amp;topParent=2683">View All</a></div>
+			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp">View All</a></div>
 			                            </div>
 			                       	 </td>
 		                    	 
@@ -6397,7 +6689,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                       		
 			                        <td>
 			                            <div class="menuOptions">
-			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3935&amp;entityId=7&amp;topParent=3935"> Accessories </a></div>
+			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Accessories </a></div>
 			                                
 			                                
 			                                 
@@ -6419,7 +6711,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3961&amp;entityId=7&amp;topParent=3935"> Men's Accessories </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Men's Accessories </a></div>
 			                                         
 			                                        
 			                                        
@@ -6435,7 +6727,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3964&amp;entityId=7&amp;topParent=3935"> Women's Accessories </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Women's Accessories </a></div>
 			                                         
 			                                        
 			                                        
@@ -6463,11 +6755,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                    
 			                                 
 			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3935&amp;entityId=7&amp;topParent=3935">View All</a></div>
+			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp">View All</a></div>
 			                            </div>
 			                       	 </td>
 		                    	 
@@ -6485,8 +6773,148 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                       		
 			                        <td>
 			                            <div class="menuOptions">
-			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4047&amp;entityId=7&amp;topParent=4047"> Kids </a></div>
+			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Kids </a></div>
 			                                
+			                                
+			                                 
+			                                    
+			                                 
+			                                
+			                                 
+			                                    
+			                                    
+			                                    <div class="subCategory-div">
+			                                    	
+			                                        
+			                                        
+			                                        
+			                                        
+		                        						
+						                        		
+							                        		
+							                        			
+			                        							
+			                        								
+			                        							
+						                        			
+						                        		
+						                        	
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Accessories </a></div>
+			                                         
+			                                        
+			                                        
+			                                        
+			                                        
+		                        						
+						                        		
+							                        		
+							                        			
+			                        							
+			                        								
+			                        							
+						                        			
+						                        		
+						                        	
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Stationary </a></div>
+			                                         
+			                                        
+			                                        
+			                                        
+			                                        
+		                        						
+						                        		
+							                        		
+							                        			
+			                        							
+			                        								
+			                        							
+						                        			
+						                        		
+						                        	
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Boys </a></div>
+			                                         
+			                                        
+			                                        
+			                                        
+			                                        
+		                        						
+						                        		
+							                        		
+							                        			
+			                        							
+			                        								
+			                        							
+						                        			
+						                        		
+						                        	
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Toys </a></div>
+			                                         
+			                                        
+			                                        
+			                                        
+			                                        
+		                        						
+						                        		
+							                        		
+							                        			
+			                        							
+			                        								
+			                        							
+						                        			
+						                        		
+						                        	
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Girls </a></div>
+			                                         
+			                                        
+			                                        
+			                                    </div>
+			                                    
+			                                 
+			                                
+			                                 
+			                                    
+			                                 
+			                                
+			                                 
+			                                    
+			                                 
+			                                
+			                                 
+			                                    
+			                                 
+			                                
+			                                 
+			                                    
+			                                 
+			                                
+			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp">View All</a></div>
+			                            </div>
+			                       	 </td>
+		                    	 
+		                        	
+		                        		
+		                        		
+			                        		
+			                        			
+			                        			
+			                        				
+			                        			
+		                        			
+		                        		
+		                        	
+		                       		
+			                        <td>
+			                            <div class="menuOptions">
+			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Lingerie </a></div>
+			                                
+			                                
+			                                 
+			                                    
+			                                 
+			                                
+			                                 
+			                                    
+			                                 
 			                                
 			                                 
 			                                    
@@ -6515,7 +6943,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4048&amp;entityId=7&amp;topParent=4047"> Boys </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Bras </a></div>
 			                                         
 			                                        
 			                                        
@@ -6531,7 +6959,39 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 						                        			
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4052&amp;entityId=7&amp;topParent=4047"> Girls </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Sexy Lingerie </a></div>
+			                                         
+			                                        
+			                                        
+			                                        
+			                                        
+		                        						
+						                        		
+							                        		
+							                        			
+			                        							
+			                        								
+			                        							
+						                        			
+						                        		
+						                        	
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Sleep &amp; Lounge </a></div>
+			                                         
+			                                        
+			                                        
+			                                        
+			                                        
+		                        						
+						                        		
+							                        		
+							                        			
+			                        							
+			                        								
+			                        							
+						                        			
+						                        		
+						                        	
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Accessories </a></div>
 			                                         
 			                                        
 			                                        
@@ -6543,6 +7003,35 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                    
 			                                 
 			                                
+			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp">View All</a></div>
+			                            </div>
+			                       	 </td>
+		                    	 
+		                        	
+		                        		
+		                        		
+			                        		
+			                        			
+			                        			
+			                        				
+			                        			
+		                        			
+		                        		
+		                        	
+		                       		
+			                        <td>
+			                            <div class="menuOptions">
+			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Fragrance </a></div>
+			                                
+			                                
+			                                 
+			                                    
+			                                 
+			                                
+			                                 
+			                                    
+			                                 
+			                                
 			                                 
 			                                    
 			                                 
@@ -6555,7 +7044,50 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                    
 			                                 
 			                                
-			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4047&amp;entityId=7&amp;topParent=4047">View All</a></div>
+			                                 
+			                                    
+			                                    
+			                                    <div class="subCategory-div">
+			                                    	
+			                                        
+			                                        
+			                                        
+			                                        
+		                        						
+						                        		
+							                        		
+							                        			
+			                        							
+			                        								
+			                        							
+						                        			
+						                        		
+						                        	
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Men </a></div>
+			                                         
+			                                        
+			                                        
+			                                        
+			                                        
+		                        						
+						                        		
+							                        		
+							                        			
+			                        							
+			                        								
+			                        							
+						                        			
+						                        		
+						                        	
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Women </a></div>
+			                                         
+			                                        
+			                                        
+			                                    </div>
+			                                    
+			                                 
+			                                
+			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp">View All</a></div>
 			                            </div>
 			                       	 </td>
 		                    	 
@@ -6571,6 +7103,54 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 					<div id="brandValue">
                     	<div class="brandsLabel">All Brands</div>
                     	
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-b_41-bnm_Aldo-bcf_N/aldo.html">Aldo</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-b_50-bnm_B+Kind-bcf_N/b-kind.html">B Kind</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-b_54-bnm_Bebe-bcf_N/bebe.html">Bebe</a>
+								</div>
+							
 						
 							
 							
@@ -6616,7 +7196,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-b_41-bnm_Aldo-bcf_N/aldo.html">Aldo</a>
+									<a href="/brand/s/cl_2-b_57-bnm_Guess-bcf_N/guess.html">Guess</a>
 								</div>
 							
 						
@@ -6632,7 +7212,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-b_42-bnm_Nine+West-bcf_N/nine-west.html">Nine West</a>
+									<a href="/brand/s/cl_2-b_47-bnm_Just+For+Kids-bcf_N/just-for-kids.html">Just For Kids</a>
 								</div>
 							
 						
@@ -6641,63 +7221,28 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 								
 									
 									
+										
 									
-										
-										
-										
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-b_34-bnm_Queue+Up-bcf_N/queue-up.html">Queue Up</a>
+									<a href="/brand/cl_2-c_4093/lingerie.html">LaSenza</a>
 								</div>
 							
 						
 							
 							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-b_43-bnm_Park+Avenue-bcf_N/park-avenue.html">Park Avenue</a>
-								</div>
+						
+							
 							
 						
 							
 							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-b_44-bnm_Provogue-bcf_N/provogue.html">Provogue</a>
-								</div>
-							
 						
 							
 							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-b_36-bnm_Opium-bcf_N/opium.html">Opium</a>
-								</div>
+						
+							
 							
 						
 							
@@ -6754,12 +7299,8 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                       		
 			                        <td>
 			                            <div class="menuOptions">
-			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=2682&amp;entityType=ETSL&amp;topParent=2682"> Women </a></div>
+			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Women </a></div>
 			                                
-			                                
-			                                 
-			                                    
-			                                 
 			                                
 			                                 
 			                                    
@@ -6792,7 +7333,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4020&amp;entityType=ETSL&amp;topParent=2682"> Apparel </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Apparel </a></div>
 			                                         
 			                                        
 			                                        
@@ -6808,7 +7349,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=1505&amp;entityType=ETSL&amp;topParent=2682"> Footwear </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Footwear </a></div>
 			                                         
 			                                        
 			                                        
@@ -6824,7 +7365,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=1389&amp;entityType=ETSL&amp;topParent=2682"> Bags </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Bags </a></div>
 			                                         
 			                                        
 			                                        
@@ -6840,7 +7381,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=2688&amp;entityType=ETSL&amp;topParent=2682"> Cosmetics </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Lingerie </a></div>
 			                                         
 			                                        
 			                                        
@@ -6856,23 +7397,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4093&amp;entityType=ETSL&amp;topParent=2682"> Lingerie </a></div>
-			                                         
-			                                        
-			                                        
-			                                        
-			                                        
-		                        						
-			                        						
-			                        							
-			                        							
-			                        								
-			                        							
-			                                        	    
-			                                            
-						                        		
-						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3964&amp;entityType=ETSL&amp;topParent=2682"> Women's Accessories </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Women's Accessories </a></div>
 			                                         
 			                                        
 			                                        
@@ -6888,7 +7413,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                    
 			                                 
 			                                
-			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=2682&amp;entityType=ETSL&amp;topParent=2682">View All</a></div>
+			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp">View All</a></div>
 			                            </div>
 			                       	 </td>
 		                    	 
@@ -6906,12 +7431,8 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                       		
 			                        <td>
 			                            <div class="menuOptions">
-			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=2683&amp;entityType=ETSL&amp;topParent=2683"> Men </a></div>
+			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Men </a></div>
 			                                
-			                                
-			                                 
-			                                    
-			                                 
 			                                
 			                                 
 			                                    
@@ -6940,7 +7461,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4058&amp;entityType=ETSL&amp;topParent=2683"> Apparel </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Apparel </a></div>
 			                                         
 			                                        
 			                                        
@@ -6956,7 +7477,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=1896&amp;entityType=ETSL&amp;topParent=2683"> Footwear </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Footwear </a></div>
 			                                         
 			                                        
 			                                        
@@ -6972,7 +7493,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3961&amp;entityType=ETSL&amp;topParent=2683"> Men's Accessories </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Men's Accessories </a></div>
 			                                         
 			                                        
 			                                        
@@ -6992,79 +7513,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                    
 			                                 
 			                                
-			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=2683&amp;entityType=ETSL&amp;topParent=2683">View All</a></div>
-			                            </div>
-			                       	 </td>
-		                    	 
-		                        	
-		                        		
-		                        			
-			                        			
-			                        				
-			                        			
-			                        			
-		                        			
-		                        		
-		                        		
-		                        	
-		                       		
-			                        <td>
-			                            <div class="menuOptions">
-			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/inglotEntitySummary.jsp?catalogueID=2&amp;categoryID=2688&amp;entityType=ETSL&amp;topParent=2682"> Cosmetics </a></div>
-			                                
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                    
-			                                    <div class="subCategory-div">
-			                                    	
-			                                        
-			                                        
-			                                        
-			                                        
-		                        						
-			                        						
-			                        							
-			                        								
-			                        							
-			                        							
-			                                        	    
-			                                            
-						                        		
-						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/inglotEntitySummary.jsp?catalogueID=2&amp;categoryID=2689&amp;entityType=ETSL&amp;topParent=2682"> Face &amp; Body </a></div>
-			                                         
-			                                        
-			                                        
-			                                    </div>
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/inglotEntitySummary.jsp?catalogueID=2&amp;categoryID=2688&amp;entityType=ETSL&amp;topParent=2682">View All</a></div>
+			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp">View All</a></div>
 			                            </div>
 			                       	 </td>
 		                    	 
@@ -7082,7 +7531,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                       		
 			                        <td>
 			                            <div class="menuOptions">
-			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3935&amp;entityType=ETSL&amp;topParent=3935"> Accessories </a></div>
+			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Accessories </a></div>
 			                                
 			                                
 			                                 
@@ -7104,7 +7553,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3961&amp;entityType=ETSL&amp;topParent=3935"> Men's Accessories </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Men's Accessories </a></div>
 			                                         
 			                                        
 			                                        
@@ -7120,7 +7569,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3964&amp;entityType=ETSL&amp;topParent=3935"> Women's Accessories </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Women's Accessories </a></div>
 			                                         
 			                                        
 			                                        
@@ -7148,11 +7597,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                    
 			                                 
 			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=3935&amp;entityType=ETSL&amp;topParent=3935">View All</a></div>
+			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp">View All</a></div>
 			                            </div>
 			                       	 </td>
 		                    	 
@@ -7170,8 +7615,16 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                       		
 			                        <td>
 			                            <div class="menuOptions">
-			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4047&amp;entityType=ETSL&amp;topParent=4047"> Kids </a></div>
+			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Lingerie </a></div>
 			                                
+			                                
+			                                 
+			                                    
+			                                 
+			                                
+			                                 
+			                                    
+			                                 
 			                                
 			                                 
 			                                    
@@ -7200,7 +7653,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4048&amp;entityType=ETSL&amp;topParent=4047"> Boys </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Bras </a></div>
 			                                         
 			                                        
 			                                        
@@ -7216,7 +7669,39 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4052&amp;entityType=ETSL&amp;topParent=4047"> Girls </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Sexy Lingerie </a></div>
+			                                         
+			                                        
+			                                        
+			                                        
+			                                        
+		                        						
+			                        						
+			                        							
+			                        							
+			                        								
+			                        							
+			                                        	    
+			                                            
+						                        		
+						                        	
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Sleep &amp; Lounge </a></div>
+			                                         
+			                                        
+			                                        
+			                                        
+			                                        
+		                        						
+			                        						
+			                        							
+			                        							
+			                        								
+			                        							
+			                                        	    
+			                                            
+						                        		
+						                        	
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Accessories </a></div>
 			                                         
 			                                        
 			                                        
@@ -7228,19 +7713,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                    
 			                                 
 			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4047&amp;entityType=ETSL&amp;topParent=4047">View All</a></div>
+			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp">View All</a></div>
 			                            </div>
 			                       	 </td>
 		                    	 
@@ -7258,7 +7731,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 		                       		
 			                        <td>
 			                            <div class="menuOptions">
-			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4093&amp;entityType=ETSL&amp;topParent=4093"> Lingerie </a></div>
+			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Fragrance </a></div>
 			                                
 			                                
 			                                 
@@ -7300,7 +7773,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4094&amp;entityType=ETSL&amp;topParent=4093"> Bras </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Men </a></div>
 			                                         
 			                                        
 			                                        
@@ -7316,39 +7789,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                            
 						                        		
 						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4095&amp;entityType=ETSL&amp;topParent=4093"> Panties </a></div>
-			                                         
-			                                        
-			                                        
-			                                        
-			                                        
-		                        						
-			                        						
-			                        							
-			                        							
-			                        								
-			                        							
-			                                        	    
-			                                            
-						                        		
-						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4096&amp;entityType=ETSL&amp;topParent=4093"> Sexy Lingerie </a></div>
-			                                         
-			                                        
-			                                        
-			                                        
-			                                        
-		                        						
-			                        						
-			                        							
-			                        							
-			                        								
-			                        							
-			                                        	    
-			                                            
-						                        		
-						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4097&amp;entityType=ETSL&amp;topParent=4093"> Sleep &amp; Lounge </a></div>
+			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp"> Women </a></div>
 			                                         
 			                                        
 			                                        
@@ -7356,99 +7797,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 			                                    
 			                                 
 			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4093&amp;entityType=ETSL&amp;topParent=4093">View All</a></div>
-			                            </div>
-			                       	 </td>
-		                    	 
-		                        	
-		                        		
-		                        			
-			                        			
-			                        			
-			                        				
-			                        			
-		                        			
-		                        		
-		                        		
-		                        	
-		                       		
-			                        <td>
-			                            <div class="menuOptions">
-			                                <div class="menuOptions1 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4167&amp;entityType=ETSL&amp;topParent=4167"> Fragrance </a></div>
-			                                
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                 
-			                                
-			                                 
-			                                    
-			                                    
-			                                    <div class="subCategory-div">
-			                                    	
-			                                        
-			                                        
-			                                        
-			                                        
-		                        						
-			                        						
-			                        							
-			                        							
-			                        								
-			                        							
-			                                        	    
-			                                            
-						                        		
-						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4168&amp;entityType=ETSL&amp;topParent=4167"> Men </a></div>
-			                                         
-			                                        
-			                                        
-			                                        
-			                                        
-		                        						
-			                        						
-			                        							
-			                        							
-			                        								
-			                        							
-			                                        	    
-			                                            
-						                        		
-						                        	
-			                                                <div class="menuOptions2 cursor"> <a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4169&amp;entityType=ETSL&amp;topParent=4167"> Women </a></div>
-			                                         
-			                                        
-			                                        
-			                                    </div>
-			                                    
-			                                 
-			                                
-			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp?catalogueID=2&amp;categoryID=4167&amp;entityType=ETSL&amp;topParent=4167">View All</a></div>
+			                                <div class="categroyViewAll_menuOptions"><a href="/brand/faces/jsp/entitySummary.jsp">View All</a></div>
 			                            </div>
 			                       	 </td>
 		                    	 
@@ -7477,55 +7826,39 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-b_70-bnm_Guess+Perfumes-bcf_N/guess-perfumes.html">Guess Perfumes</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-b_52-bnm_Charles+%26+Keith-bcf_N/charles-and-keith.html">Charles &amp; Keith</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-b_46-bnm_Mango-bcf_N/mango.html">Mango</a>
-								</div>
-							
-						
-							
-							
-								
-									
-									
-									
-										
-										
-										
-									
-								
-								<div class="brandName_menuOptions cursor">
 									<a href="/brand/s/cl_2-b_41-bnm_Aldo-bcf_N/aldo.html">Aldo</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-b_55-bnm_Aldo+Accessories-bcf_N/aldo-accessories.html">Aldo Accessories</a>
+								</div>
+							
+						
+							
+							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-b_50-bnm_B+Kind-bcf_N/b-kind.html">B Kind</a>
 								</div>
 							
 						
@@ -7557,7 +7890,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/s/cl_2-b_42-bnm_Nine+West-bcf_N/nine-west.html">Nine West</a>
+									<a href="/brand/s/cl_2-b_71-bnm_Bebe+Outlet-bcf_N/bebe-outlet.html">Bebe Outlet</a>
 								</div>
 							
 						
@@ -7565,43 +7898,48 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 							
 								
 									
-										
-									
-									
-									
-								
-								<div class="brandName_menuOptions cursor">
-									<a href="/brand/cl_2-c_2688/cosmetics.html">Inglot</a>
-								</div>
-							
-						
-							
-							
-								
 									
 									
 										
-									
+										
+										
 									
 								
 								<div class="brandName_menuOptions cursor">
-									<a href="/brand/cl_2-c_4093/lingerie.html">LaSenza</a>
+									<a href="/brand/s/cl_2-b_52-bnm_Charles+%26+Keith-bcf_N/charles-and-keith.html">Charles &amp; Keith</a>
 								</div>
 							
 						
 							
 							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-b_61-bnm_David+Beckham-bcf_N/david-beckham.html">David Beckham</a>
+								</div>
+							
 						
 							
 							
-						
-							
-							
-						
-							
-							
-						
-							
+								
+									
+									
+									
+										
+										
+										
+									
+								
+								<div class="brandName_menuOptions cursor">
+									<a href="/brand/s/cl_2-b_57-bnm_Guess-bcf_N/guess.html">Guess</a>
+								</div>
 							
 						
 							
@@ -7635,67 +7973,74 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 </div>
 
 
+
+
 <div class="childmenutab brand_menu" id="brand_child" style="display:none;width:800px;" onmouseout="this.style.display='none'" onmouseover="this.style.display='block'">
 	<div class="topMenuTablelayout">
 													<div class="topMenuTable brand_dropdown">
 	<div class="topMenuTD1" id="subparent">
-<div id="subparentname" class="menuOptionsLabel">Our Brands</div>
+<div class="majorbrand_brand">
+<div class="menuOptionsLabel" id="subparentname">Majorbrands</div>
 <div id="subparentvalue">
-<table width="99%" cellspacing="0" cellpadding="0" border="0" class="category-div-table">
+<table width="" cellspacing="0" cellpadding="0" border="0" class="category-div-table">
     <tbody>
         <tr>
             <td>
             <div class="menuOptions">
-            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=2764&amp;parentCategoryID=&amp;bnm=Charles%20%26%20Keith&amp;brandId=52&amp;brandCmsFlag=N&amp;topParent=2682"> Charles &amp; Keith </a></div>
             <div class="subCategory-div">
-            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=1505&amp;parentCategoryID=&amp;bnm=Nine%20West&amp;brandId=42&amp;brandCmsFlag=N&amp;topParent=2682"> Nine West </a></div>
-            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=1505&amp;parentCategoryID=&amp;bnm=Queue%20Up&amp;brandId=34&amp;brandCmsFlag=N&amp;topParent=2682"> Queue Up  </a></div>
-            <div class="menuOptions2 cursor"><a href="/brand/s/cl_2-c_4028-p_2682-b_69-bnm_Mango%20Outlet-bcf_N/women/apparel/dresses.htm"> Mango Outlet </a></div>
-            <div class="menuOptions2 cursor"><a href="/brand/s/cl_2-c_2683-p_2683-b_44-bnm_Provouge-bcf_N/men.html"> Provouge </a></div>
-            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=3964&amp;parentCategoryID=&amp;bnm=Opium&amp;brandId=36&amp;brandCmsFlag=N&amp;topParent=2682"> Opium  </a></div>
-            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=4058&amp;parentCategoryID=&amp;bnm=M-Square&amp;brandId=49&amp;brandCmsFlag=N&amp;topParent=2683"> M Square  </a></div>
-            </div>
-            </div>
-            </td>
-            <td>
-            <div class="menuOptions">
             <div class="menuOptions1 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=1896&amp;parentCategoryID=&amp;bnm=Aldo&amp;brandId=41&amp;brandCmsFlag=N&amp;topParent=2683"> Aldo </a></div>
-            <div class="subCategory-div">
-            <div class="menuOptions1 cursor"><a href="/guess.html"> Guess </a></div>
-            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4047-p_4047-b_47-bnm_Just+For+Kids-bcf_N/kids.html"> Just For Kids </a></div>
-            <div class="menuOptions1 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=4058&amp;parentCategoryID=&amp;bnm=Giordano&amp;brandId=48&amp;brandCmsFlag=N&amp;topParent=2683"> Giordano </a></div>
-            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=4020&amp;parentCategoryID=&amp;bnm=B%20Kind&amp;brandId=50&amp;brandCmsFlag=N&amp;topParent=2682"> B Kind  </a></div>
-            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_65-bnm_Miss+60-bcf_N/fragrance.html"> Miss 60 </a></div>
-            </div>
-            </div>
-            </td>
-            <td>
-            <div class="menuOptions">
-            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=4093"> La Senza </a></div>
-            <div class="subCategory-div">
-            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=4020&amp;parentCategoryID=&amp;bnm=Bebe&amp;brandId=54&amp;brandCmsFlag=N&amp;topParent=2682"> Bebe </a></div>
             <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=3964&amp;parentCategoryID=&amp;bnm=Aldo%20Accessories&amp;brandId=55&amp;brandCmsFlag=N&amp;topParent=2682"> Aldo Accessories </a></div>
-            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_70-bnm_Guess+Perfumes-bcf_N/fragrance.html"> Guess Perfumes </a></div>
-            <div class="menuOptions2 cursor"><a href="/brand/s/cl_2-c_3961-p_2683-b_43-bnm_Park%20Avenue-bcf_N/men/accessories.html"> Park Avenue </a></div>
-            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_62-bnm_Ed+Hardy-bcf_N/fragrance.html"> Ed Hardy </a></div>
-            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_66-bnm_Nautica-bcf_N/fragrance.html"> Nautica </a></div>
-            </div>
-            </div>
-            </td>
-            <td class="right_bor_none">
-            <div class="menuOptions">
-            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=4020&amp;parentCategoryID=&amp;bnm=Mango&amp;brandId=46&amp;brandCmsFlag=N&amp;topParent=2682"> Mango </a></div>
-            <div class="subCategory-div">
+            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=4020&amp;parentCategoryID=&amp;bnm=Bebe&amp;brandId=54&amp;brandCmsFlag=N&amp;topParent=2682"> Bebe </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/s/cl_2-c_4028-p_2682-b_71-bnm_Bebe+Outlet-bcf_N/women/apparel/dresses.html"> Bebe Outlet </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=2764&amp;parentCategoryID=&amp;bnm=Charles%20%26%20Keith&amp;brandId=52&amp;brandCmsFlag=N&amp;topParent=2682"> Charles &amp; Keith </a></div>
+            <div class="menuOptions1 cursor"><a href="/guess.html"> Guess </a></div>
             <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=2688"> Inglot </a></div>
-            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=3998&amp;parentCategoryID=2682&amp;bnm=Qup Accessories&amp;brandId=45&amp;brandCmsFlag=N&amp;topParent=2682"> Qup Accessories </a></div>
-            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_61-bnm_David+Beckham-bcf_N/fragrance.html"> David Beckham </a></div>
-            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_67-bnm_Paris+Hilton-bcf_N/fragrance.html"> Paris Hilton </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/s/cl_2-c_4047-p_4047-b_47-bnm_Just+For+Kids-bcf_N/kids.html"> Just For Kids </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/category.jsp?catalogueID=2&amp;categoryID=4093"> La Senza </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=4020&amp;parentCategoryID=&amp;bnm=Mango&amp;brandId=46&amp;brandCmsFlag=N&amp;topParent=2682"> Mango </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/s/cl_2-c_4028-p_2682-b_69-bnm_Mango%20Outlet-bcf_N/women/apparel/dresses.htm"> Mango Outlet </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=1505&amp;parentCategoryID=&amp;bnm=Nine%20West&amp;brandId=42&amp;brandCmsFlag=N&amp;topParent=2682"> Nine West </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=2765&amp;parentCategoryID=2682&amp;bnm=Queue%20Up&amp;brandId=34&amp;brandCmsFlag=N&amp;topParent=2682"> Queue Up  </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=3998&amp;parentCategoryID=2682&amp;bnm=Qup%20Accessories&amp;brandId=45&amp;brandCmsFlag=N&amp;topParent=2682"> Qup Accessories </a></div>
             </div>
             </div>
             </td>
         </tr>
     </tbody>
 </table>
+</div>
+</div>
+<div class="majorbrand_ourbrand">
+<div class="menuOptionsLabel" id="subparentname">Other Brands</div>
+<div id="subparentvalue">
+<table width="99%" cellspacing="0" cellpadding="0" border="0" class="category-div-table">
+    <tbody>
+        <tr>
+            <td>
+            <div class="menuOptions">
+            <div class="subCategory-div">
+            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=4020&amp;parentCategoryID=&amp;bnm=B%20Kind&amp;brandId=50&amp;brandCmsFlag=N&amp;topParent=2682"> B Kind  </a></div>
+            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_61-bnm_David+Beckham-bcf_N/fragrance.html"> David Beckham </a></div>
+            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_62-bnm_Ed+Hardy-bcf_N/fragrance.html"> Ed Hardy </a></div>
+            <div class="menuOptions1 cursor"><a href="#"> Esprit </a></div>
+            <div class="menuOptions1 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=4058&amp;parentCategoryID=&amp;bnm=Giordano&amp;brandId=48&amp;brandCmsFlag=N&amp;topParent=2683"> Giordano </a></div>
+            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_70-bnm_Guess+Perfumes-bcf_N/fragrance.html"> Guess Perfumes </a></div>
+            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_65-bnm_Miss+60-bcf_N/fragrance.html"> Miss 60 </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=4058&amp;parentCategoryID=&amp;bnm=M-Square&amp;brandId=49&amp;brandCmsFlag=N&amp;topParent=2683"> M Square  </a></div>
+            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_66-bnm_Nautica-bcf_N/fragrance.html"> Nautica </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=3964&amp;parentCategoryID=&amp;bnm=Opium&amp;brandId=36&amp;brandCmsFlag=N&amp;topParent=2682"> Opium  </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/s/cl_2-c_3961-p_2683-b_43-bnm_Park%20Avenue-bcf_N/men/accessories.html"> Park Avenue </a></div>
+            <div class="menuOptions1 cursor"><a href="/brand/s/cl_2-c_4167-p_4167-b_67-bnm_Paris+Hilton-bcf_N/fragrance.html"> Paris Hilton </a></div>
+            <div class="menuOptions2 cursor"><a href="/brand/s/cl_2-c_2683-p_2683-b_44-bnm_Provogue-bcf_N/men.html"> Provogue </a></div>
+            <div class="menuOptions1 cursor"><a href="#"> Reebok </a></div>
+            </div>
+            </div>
+            <div class="categroyViewAll_menuOptions">&nbsp;</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
 </div>
 
             </div>
@@ -7704,13 +8049,14 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 
 <div class="brand_banner">
 
-<a href=""></a><a href="http://www.majorbrands.in/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=2764&amp;parentCategoryID=&amp;bnm=Charles%20%26%20Keith&amp;brandId=52&amp;brandCmsFlag=N&amp;topParent=2682"><img height="271" width="255" src="/cmsmedia/in/dropdownw12.jpg" alt=""></a>
+<a href=""></a><a href="http://www.majorbrands.in/brand/faces/tiles/search.jsp?catalogueID=2&amp;categoryID=2764&amp;parentCategoryID=&amp;bnm=Charles%20%26%20Keith&amp;brandId=52&amp;brandCmsFlag=N&amp;topParent=2682"><img src="/cmsmedia/in/CK_DROPDOWN_SPRING_2013_1.jpg" alt=""></a>
 </div>
 						
 						
 						
 	</div>
 </div> 
+
 
 
 <input type="hidden" id="staticurl" name="staticurl" value="/faces/jsp/static.jsp?articleid=104">
@@ -7745,7 +8091,7 @@ body{background:url("/media/css/OctaShop/image/octashop/new-body-bg.gif") repeat
 
 
 
-<base href="http://www.majorbrands.in:80/brandcms/">
+<base href="http://www.majorbrands.in/brandcms/">
 <script type="text/javascript">
 var current;
 var temp;
@@ -7987,7 +8333,7 @@ MajorBrands
 
 
   
-    <base href="http://www.majorbrands.in:80/brandcms/">
+    <base href="http://www.majorbrands.in/brandcms/">
     
     <title>My JSP 'staticPage.jsp' starting page</title>
     
@@ -8152,7 +8498,10 @@ To administer a contest, promotion, survey or other site feature.</p>
         </ul>
         <ul class="columan-4">
             <li><p>Click here to visit our corporate website<br>
-<a class="weblink" href="http://www.majorbrands.co.in" target="_blank">www.majorbrands.co.in</a></p></li>       
+<a class="weblink" href="http://www.majorbrands.co.in" target="_blank">www.majorbrands.co.in</a></p></li>
+            <li><div class="browserDiv">
+<div class="best_view">Best viewed in</div>
+<a href="http://www.microsoft.com/download/en/details.aspx?id=43" target="_blank">Internet Explorer 8+ </a>|               <a href="http://www.mozilla.com/en-US/firefox/fx/" target="_blank">Firefox 3.5+</a> | <a href="http://www.google.com/chrome/" target="_blank">                 Chrome</a></div></li>       
         </ul>
 	</div>
 	<div class="socalNetworkBox">
@@ -8196,15 +8545,15 @@ To administer a contest, promotion, survey or other site feature.</p>
 <script type="text/javascript" src="http://majorbrands.in//media/js/OctaShop/livedate.js"></script>
 <script type="text/javascript" src="/brand/faces/tiles/components/scripts/narrowSearchScript.js"></script>
 <script type="text/javascript">
-jQuery.noConflict();
+ jQuery.noConflict();
 jQuery(document).ready(function($){
 setInterval(function(){$('#custCareTpSlider .sldToTop').each(function(){$(this).animate({'top':'-=30px'},500,function(){var top=parseInt($(this).css('top').replace('px',''))+
 parseInt($(this).css('width').replace('px',''));if($("#custCareTpSlider .sldToTop").css("top")==-60+"px"){var clone=$(this).clone();var parent=$(this).parent();clone.css('top','0px');clone.slideUp();$(this).remove();parent.append(clone);}})})},5000);
 
+
 setInterval(function(){$('#custCareTpSlider2 .sldToTop2').each(function(){$(this).animate({'top':'-=30px'},500,function(){var top=parseInt($(this).css('top').replace('px',''))+
 parseInt($(this).css('width').replace('px',''));if($("#custCareTpSlider2 .sldToTop2").css("top")==-60+"px"){var clone=$(this).clone();var parent=$(this).parent();clone.css('top','0px');clone.slideUp();$(this).remove();parent.append(clone);}})})},6000);
-
-});
+}); 
 </script>
 <div id="loading" class="loading" style="display:none">
 <div class="loadingImage"></div>
@@ -8232,11 +8581,10 @@ parseInt($(this).css('width').replace('px',''));if($("#custCareTpSlider2 .sldToT
 
 </script>
 
-<script src="http://tags.crwdcntrl.net/c/1878/cc_af.js">
 
 
 
 </div>
 </div>
-</body>
-</html></script></div></div></div></body></html>
+
+</div></body></html>
