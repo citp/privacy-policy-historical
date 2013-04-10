@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovebolly.com privacy policy that was archived on 2012-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120826064730id_/http%3A//www.ilovebolly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovebolly.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410162737id_/http%3A//ilovebolly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iLoveBolly
 
@@ -56,3 +56,5 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible. We will promptly correct any information found to be incorrect.
+
+[ShareThis](http://ilovebolly.com/privacy-policy "Privacy Policy")
