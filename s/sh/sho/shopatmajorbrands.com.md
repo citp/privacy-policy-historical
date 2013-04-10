@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shopatmajorbrands.com privacy policy that was archived on 2012-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120324185030id_/http%3A//www.shopatmajorbrands.com/brand/faces/jsp/static.jsp%3Farticleid%3D104) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopatmajorbrands.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410115322id_/http%3A//www.majorbrands.in/brand/faces/jsp/static.jsp%3Farticleid%3D104) for the most accurate reproduction.*
 
 # About Us - Online Shopping in Delhi |Bangalore | Hyderabad | Mumbai
 
 What Information Do We Collect?
 
-We collect information from you when you register on Shopatmajorbrands.com site or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
+We collect information from you when you register on majorbrands.in site or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
 What Do We Use Your Information?
 
@@ -60,7 +60,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Modification of Terms and conditions of Service
 
-shopatmajorbrands.com may at any time modify the User Agreement without any prior notification to you. Management decision of the shopatmajorbrands.com would be the final decision Subsequent to any modification of the User Agreement; we will inform you of the modifications in the User Agreement via e-mail at the address provided by you while registering on shopatmajorbrands.com. You can access the latest version of the User Agreement at any given time on shopatmajorbrands.com. You should regularly review the User Agreement on shopatmajorbrands.com. In the event the modified User Agreement is not acceptable to you, you should discontinue using the service. However, if you continue to use the service you shall be deemed to have agreed to accept and abide by the modified User Agreement.
-
-  
-
+majorbrands.in may at any time modify the User Agreement without any prior notification to you. Management decision of the majorbrands.in would be the final decision Subsequent to any modification of the User Agreement; we will inform you of the modifications in the User Agreement via e-mail at the address provided by you while registering on majorbrands.in. You can access the latest version of the User Agreement at any given time on majorbrands.in. You should regularly review the User Agreement on majorbrands.in. In the event the modified User Agreement is not acceptable to you, you should discontinue using the service. However, if you continue to use the service you shall be deemed to have agreed to accept and abide by the modified User Agreement.
