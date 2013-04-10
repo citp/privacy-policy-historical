@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webuildlink.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209113517id_/http%3A//www.webuildlink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuildlink.com privacy policy that was archived on 2013-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130410071606id_/http%3A//www.webuildlink.com/privacy.html) for the most accurate reproduction.*
 
 # WeBuildLink - Privacy
-
-[](http://www.webuildlink.com/contact.html)
 
 WeBuildLink (hereinafter the "Company") collects certain information from visitors and customers who visit our web site. The use of this information is detailed in the following Privacy Statement (hereinafter the "statement"). This information is accurate as of the date you are reading it, but it is subject to change without notice. If any portion of the statement is changed, a new copy of the statement will be posted here. The Company has no obligation to notify you of changes using any other method.
 
