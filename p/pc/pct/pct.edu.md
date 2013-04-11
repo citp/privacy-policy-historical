@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015235331id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412002644id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Pennsylvania College of Technology
 
@@ -39,6 +39,8 @@ We request information from the user on our Online Giving form. The data request
 Alumni Relations offers an Information Update form to maintain current contact information and supply information for [Class Notes](https://web.archive.org/oca/classNotes.aspx) published in _One College Avenue_. Alumni may elect to opt out of e-mail from the Alumni Relations office.
 
 We have also asked alumni, on occasion, to act as ambassadors for the College, to appear and give testimony for our publications and website, and to offer tours during College events such as Open Houses.
+
+We do not share contact information with anyone outside the College without permission.
 
 ##### "You're the Chef"
 
@@ -100,4 +102,4 @@ The College will occasionally update this Statement. Those changes will be poste
 
 ## How to Report Privacy Violations
 
-You may report violations of this statement to [Privacy](https://web.archive.org/web/20121015235331id_/http://www.pct.edu/privacy/contact.asp).
+You may report violations of this statement to [Privacy](https://web.archive.org/web/20130412002644id_/http://www.pct.edu/privacy/contact.asp).
