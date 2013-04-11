@@ -1,20 +1,103 @@
-<!--The following is the downloaded HTML source of the reuseit.com privacy policy that was archived on 2012-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120921021401id_/http%3A//www.reuseit.com/help/security-privacy/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reuseit.com privacy policy that was archived on 2013-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130411041208id_/http%3A//www.reuseit.com/help/security-privacy/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	
+	<!-- 
+	<script type='text/javascript'>
+
+	var hash = "";
+
+	function loadJS(file) {
+	    // DOM: Create the script element
+	    var jsElm = document.createElement("script");
+	    // set the type attribute
+	    jsElm.type = "application/javascript";
+	    // make the script element load file
+	    jsElm.src = file;
+	    // finally insert the element to the body element in order to load the script
+	    document.body.appendChild(jsElm);
+	}
+	
+	setInterval(function() {
+		if (window.location.hash != hash) {
+			document.getElementById('spinner').style.display = "block"; 
+			
+			var http = new XMLHttpRequest();
+			var url = '' + self.document.location.pathname;  
+		
+			http.open("POST", url, true); 
+			http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+			http.setRequestHeader("Content-length", self.document.location.pathname.length + self.document.location.hash.substring(1).length + 10); 
+			http.setRequestHeader("Connection", "close");
+		
+			http.onreadystatechange = function() {
+				if(http.readyState == 4 && http.status == 200) { 
+					var supercat = /-c-\d(\d*)?.html/; 
+					var subcat = /-c-\d(\d*)?_(.*).html/;
+					var product = /-p-(\d*).html/; 
+					var storeLevel = /products-r(-\d*).html/;
+					var productInfo = false; 
+
+					if(self.document.location.pathname.match(supercat) != null) {
+						document.getElementById('spinner').style.display = "none";
+						document.getElementById('wrap').innerHTML = http.responseText;
+					} else if(self.document.location.pathname.match(subcat) != null) {
+						document.getElementById('spinner').style.display = "none";
+						document.getElementById('content').innerHTML = http.responseText;
+					} else if(self.document.location.pathname.match(product) != null) {  
+						var div = document.createElement('div');
+						div.innerHTML = http.responseText;
+						elements = div.getElementsByTagName('div');
+
+						productInfo = true; 
+						var page_info = elements.item(1).innerHTML; 
+						var pageInfoJSON = JSON.parse(page_info); 
+						
+						document.getElementById('spinner').style.display = "none"; 
+						// Item 2 is the interior contents of the "content" div from the product_info page. 
+						document.getElementById('content').innerHTML = elements.item(2).innerHTML;
+					} else if(self.document.location.pathname.match(storeLevel)) {
+						document.getElementById('spinner').style.display = "none";
+						document.getElementById('content').innerHTML = http.responseText;
+					}
+
+					if(productInfo) {
+						loadJS("http://gdata.youtube.com/feeds/api/videos?q="+pageInfoJSON.youtube_entries+"&alt=json-in-script&format=5&callback=mm");
+
+						for(i = 0; i < pageInfoJSON.vimeo_entries.length; i++) {
+							loadJS("http://vimeo.com/api/v2/video/"+pageInfoJSON.vimeo_entries[i]+".json?callback=append_vimeo_to_tab"); 
+						}
+						 
+						initProductInfo(pageInfoJSON.slave_id); 
+					}
+					
+					initializePage(); 
+					eventControllers(); 
+
+				}
+			}
+			
+			http.send(self.document.location.hash.substring(1)+"&hashfilter=true");
+			hash = window.location.hash; 
+		}
+	}, 100);
+	</script>
+	--> 
 	
        	
     	<title>Privacy Policy - reuseit.com</title>
     	<meta name="Description" content="">
     	<meta name="Keywords" content="">
+    	<meta name="p:domain_verify" content="47944e8e5724d13bad8c18b016f1b745">
     	<link rel="canonical" href="http://www.reuseit.com">
-        <script type="text/javascript" async="" src="https://www.accessible-web.org/owa/modules/base/js/owa.tracker-combined-min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://px.owneriq.net/stas/s/cxq9c9.js"></script><script type="text/javascript" async="" src="//track.securedvisit.com/js/sv.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://px.owneriq.net/stas/s/cxq9c9.js"></script><script type="text/javascript" async="" src="//track.securedvisit.com/js/sv.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
 	
 <meta name="description" content="">
 <meta name="keywords" content="">
 <link href="/templates/reuseit/css/stayintheknow.css" media="all" rel="stylesheet" type="text/css">
-<link href="/templates/reuseit/css/style.css?v=120412" media="all" rel="stylesheet" type="text/css">
+<link href="/templates/reuseit/css/style.css?v=110612" media="all" rel="stylesheet" type="text/css">
 
     
 <!--  MISC HEADER STUFF HERE -->
@@ -40,6 +123,7 @@
 	<script language="JavaScript" type="text/javascript" src="/templates/reuseit/js/imail_conv_landing.js?v=20120808"></script>
 	<!-- End: SolutionSet Imail --> 
 	
+		
 		
 	
 	<!--SECUREDVISIT START DO NOT CHANGE-->
@@ -71,6 +155,37 @@
 
 	
 	
+
+		<!-- Google Remarketing Pixel -->
+		<script type="text/javascript">
+			var google_tag_params = {
+					pagetype: '';
+					prodid: '';
+					pvalue: '';
+					pcat: '';
+					pname: '';
+					use_case: 'retail';
+			}; 
+		</script>
+
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var google_conversion_id = 1071731096;
+			var google_conversion_label = "V8upCLLy7wMQmKOF_wM";
+			var google_custom_params = window.google_tag_params;
+			var google_remarketing_only = true;
+			/* ]]> */
+		</script>
+		
+		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+		</script>
+		
+		<noscript>
+			<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071731096/?value=0&amp;label=V8upCLLy7wMQmKOF_wM&amp;guid=ON&amp;script=0"/>
+			</div>
+		</noscript>
+	
 		<div id="wrap">
 			    <!-- Tracking LXR100 Start -->
     <script src="http://www.adelixir.com/WebPages/scripts/Ne_ROI_Tracking.js" type="text/javascript">
@@ -83,13 +198,6 @@
     <img height='1' width='1' border='0' src='http://www.adelixir.com/NeROITrack/1109/?busassid=1109'>
     </noscript>
     <!-- Tracking LXR100 End -->
-    
-    <div style="display:none;">
-       	<div id="brands_overlay">
-		    <ul class="brands_list">
-			    <li><a href="http://www.reuseit.com/store/acme-bags-reuseit-c-44.html">Acme Bags / reuseit</a></li><li><a href="http://www.reuseit.com/store/aladdin-c-57.html">Aladdin</a></li><li><a href="http://www.reuseit.com/store/aquaovo-c-190.html">Aquaovo</a></li><li><a href="http://www.reuseit.com/store/aura-cacia-c-215.html">Aura Cacia</a></li><li><a href="http://www.reuseit.com/store/auspen-c-208.html">AusPen</a></li><li><a href="http://www.reuseit.com/store/bag-the-habit-c-294.html">Bag The Habit</a></li><li><a href="http://www.reuseit.com/store/baggu-c-109.html">Baggu</a></li><li><a href="http://www.reuseit.com/store/bambu-c-225.html">Bambu</a></li><li><a href="http://www.reuseit.com/store/bazura-bags-c-60.html">Bazura Bags</a></li><li><a href="http://www.reuseit.com/store/berryplus-c-272.html">Berryplus</a></li><li><a href="http://www.reuseit.com/store/best-manufacturers-c-289.html">Best Manufacturers</a></li><li><a href="http://www.reuseit.com/store/biobag-c-47.html">BioBag</a></li><li><a href="http://www.reuseit.com/store/black-blum-c-270.html">Black + Blum</a></li><li><a href="http://www.reuseit.com/store/blue-q-c-176.html">Blue Q</a></li><li><a href="http://www.reuseit.com/store/blueavocado-c-183.html">BlueAvocado</a></li><li><a href="http://www.reuseit.com/store/bobble-c-177.html">Bobble</a></li><li><a href="http://www.reuseit.com/store/built-c-62.html">Built</a></li><li><a href="http://www.reuseit.com/store/camelbak-c-171.html">CamelBak</a></li><li><a href="http://www.reuseit.com/store/cart-helper-c-104.html">Cart Helper</a></li><li><a href="http://www.reuseit.com/store/chewing-the-cud-c-156.html">Chewing the Cud</a></li><li><a href="http://www.reuseit.com/store/chicobag-c-77.html">ChicoBag</a></li><li><a href="http://www.reuseit.com/store/clearance-c-265.html">Clearance</a></li><li><a href="http://www.reuseit.com/store/cryopak-c-193.html">Cryopak</a></li><li><a href="http://www.reuseit.com/store/dabbawalla-c-132.html">Dabbawalla</a></li><li><a href="http://www.reuseit.com/store/dci-c-106.html">DCI</a></li><li><a href="http://www.reuseit.com/store/divacup-c-105.html">DivaCup</a></li><li><a href="http://www.reuseit.com/store/earthlust-c-63.html">Earthlust</a></li><li><a href="http://www.reuseit.com/store/earthstone-c-192.html">Earthstone</a></li><li><a href="http://www.reuseit.com/store/ecodent-c-135.html">Eco-Dent</a></li><li><a href="http://www.reuseit.com/store/ecobags-c-64.html">ECOBAGS</a></li><li><a href="http://www.reuseit.com/store/ecolunchboxes-c-267.html">ECOlunchboxes</a></li><li><a href="http://www.reuseit.com/store/ekelund-c-189.html">Ekelund</a></li></ul><ul class="brands_list"><li><a href="http://www.reuseit.com/store/ekobrew-c-300.html">Ekobrew</a></li><li><a href="http://www.reuseit.com/store/eneloop-c-136.html">eneloop</a></li><li><a href="http://www.reuseit.com/store/envirosax-c-65.html">Envirosax</a></li><li><a href="http://www.reuseit.com/store/essential-gear-c-197.html">Essential Gear</a></li><li><a href="http://www.reuseit.com/store/exceptionlab-c-128.html">ExceptionLab</a></li><li><a href="http://www.reuseit.com/store/fabkins-c-201.html">Fabkins</a></li><li><a href="http://www.reuseit.com/store/fabrikators-c-214.html">Fabrikators</a></li><li><a href="http://www.reuseit.com/store/fit-fresh-c-236.html">Fit &amp; Fresh</a></li><li><a href="http://www.reuseit.com/store/flatterware-c-122.html">Flatterware</a></li><li><a href="http://www.reuseit.com/store/flip-tumble-c-110.html">Flip &amp; Tumble</a></li><li><a href="http://www.reuseit.com/store/four-peas-c-202.html">Four Peas</a></li><li><a href="http://www.reuseit.com/store/fozzils-c-123.html">Fozzils</a></li><li><a href="http://www.reuseit.com/store/fred-friends-c-195.html">Fred &amp; Friends</a></li><li><a href="http://www.reuseit.com/store/frieling-c-293.html">Frieling</a></li><li><a href="http://www.reuseit.com/store/full-circle-c-181.html">Full Circle</a></li><li><a href="http://www.reuseit.com/store/fuzzibunz-diapers-c-219.html">FuzziBunz Diapers</a></li><li><a href="http://www.reuseit.com/store/glass-dharma-c-117.html">Glass Dharma</a></li><li><a href="http://www.reuseit.com/store/global-girlfriend-c-84.html">Global Girlfriend</a></li><li><a href="http://www.reuseit.com/store/go-fresh-c-99.html">Go Fresh</a></li><li><a href="http://www.reuseit.com/store/goodbye-detergent-c-211.html">Goodbye Detergent</a></li><li><a href="http://www.reuseit.com/store/goodbyn-c-125.html">Goodbyn</a></li><li><a href="http://www.reuseit.com/store/graze-organic-c-178.html">Graze Organic</a></li><li><a href="http://www.reuseit.com/store/green-garmento-c-220.html">Green Garmento</a></li><li><a href="http://www.reuseit.com/store/greenerstep-c-274.html">GreenerStep</a></li><li><a href="http://www.reuseit.com/store/guyot-designs-c-67.html">Guyot Designs</a></li><li><a href="http://www.reuseit.com/store/hero-bags-c-269.html">Hero Bags</a></li><li><a href="http://www.reuseit.com/store/highwave-c-301.html">Highwave</a></li><li><a href="http://www.reuseit.com/store/humangear-c-119.html">humangear</a></li><li><a href="http://www.reuseit.com/store/innate-c-61.html">Innate</a></li><li><a href="http://www.reuseit.com/store/isi-c-221.html">iSi</a></li><li><a href="http://www.reuseit.com/store/katadyn-c-185.html">Katadyn</a></li><li><a href="http://www.reuseit.com/store/keepeez-c-167.html">Keepeez</a></li></ul><ul class="brands_list"><li><a href="http://www.reuseit.com/store/kids-konserve-c-69.html">Kids Konserve</a></li><li><a href="http://www.reuseit.com/store/kinderville-c-278.html">Kinderville</a></li><li><a href="http://www.reuseit.com/store/klean-kanteen-c-35.html">Klean Kanteen</a></li><li><a href="http://www.reuseit.com/store/koko-c-209.html">KOKO</a></li><li><a href="http://www.reuseit.com/store/kor-water-c-299.html">KOR Water</a></li><li><a href="http://www.reuseit.com/store/laptop-lunches-c-74.html">Laptop Lunches</a></li><li><a href="http://www.reuseit.com/store/liberty-bottleworks-c-266.html">Liberty Bottleworks</a></li><li><a href="http://www.reuseit.com/store/libre-c-191.html">Libre</a></li><li><a href="http://www.reuseit.com/store/lifefactory-c-186.html">Lifefactory</a></li><li><a href="http://www.reuseit.com/store/light-fire-c-120.html">Light My Fire</a></li><li><a href="http://www.reuseit.com/store/lock-lock-c-198.html">Lock &amp; Lock</a></li><li><a href="http://www.reuseit.com/store/lucky-crow-c-71.html">Lucky Crow</a></li><li><a href="http://www.reuseit.com/store/lunapads-c-101.html">Lunapads</a></li><li><a href="http://www.reuseit.com/store/lunchbots-c-107.html">LunchBots</a></li><li><a href="http://www.reuseit.com/store/lunchskins-c-115.html">LunchSkins</a></li><li><a href="http://www.reuseit.com/store/lyziwraps-c-153.html">Lyziwraps</a></li><li><a href="http://www.reuseit.com/store/made-humans-c-146.html">Made By Humans</a></li><li><a href="http://www.reuseit.com/store/mastrad-c-182.html">Mastrad</a></li><li><a href="http://www.reuseit.com/store/micromaid-c-173.html">MicroMaid</a></li><li><a href="http://www.reuseit.com/store/mimi-sardine-c-72.html">Mimi the Sardine</a></li><li><a href="http://www.reuseit.com/store/molla-space-c-298.html">Molla Space</a></li><li><a href="http://www.reuseit.com/store/mü-kitchen-c-113.html">Mü Kitchen</a></li><li><a href="http://www.reuseit.com/store/nalgene-c-43.html">Nalgene</a></li><li><a href="http://www.reuseit.com/store/natural-lunch-time-c-271.html">Natural Lunch Time</a></li><li><a href="http://www.reuseit.com/store/nellies-allnatural-c-94.html">Nellie's All-Natural</a></li><li><a href="http://www.reuseit.com/store/nuun-c-92.html">Nuun</a></li><li><a href="http://www.reuseit.com/store/onyx-c-285.html">ONYX</a></li><li><a href="http://www.reuseit.com/store/oxo-c-227.html">OXO</a></li><li><a href="http://www.reuseit.com/store/pacific-goods-c-291.html">Pacific Dry Goods</a></li><li><a href="http://www.reuseit.com/store/packit-c-196.html">PackIt</a></li><li><a href="http://www.reuseit.com/store/people-towels-c-165.html">People Towels</a></li><li><a href="http://www.reuseit.com/store/platypus-c-169.html">Platypus</a></li></ul><ul class="brands_list"><li><a href="http://www.reuseit.com/store/potmaker-c-223.html">PotMaker</a></li><li><a href="http://www.reuseit.com/store/preserve-c-275.html">Preserve</a></li><li><a href="http://www.reuseit.com/store/prince-lionheart-c-212.html">Prince Lionheart</a></li><li><a href="http://www.reuseit.com/store/progressive-international-c-194.html">Progressive International</a></li><li><a href="http://www.reuseit.com/store/qknot-c-179.html">Q-Knot</a></li><li><a href="http://www.reuseit.com/store/rebel-green-c-166.html">Rebel Green</a></li><li><a href="http://www.reuseit.com/store/reisenthel-c-76.html">Reisenthel</a></li><li><a href="http://www.reuseit.com/store/reusies-c-98.html">ReUsies</a></li><li><a href="http://www.reuseit.com/store/sigg-c-33.html">SIGG</a></li><li><a href="http://www.reuseit.com/store/skoy-c-114.html">Skoy</a></li><li><a href="http://www.reuseit.com/store/skweet-c-103.html">Skweet</a></li><li><a href="http://www.reuseit.com/store/snacktaxi-c-68.html">snackTAXI</a></li><li><a href="http://www.reuseit.com/store/snapware-c-207.html">Snapware</a></li><li><a href="http://www.reuseit.com/store/static-eliminator-c-133.html">Static Eliminator</a></li><li><a href="http://www.reuseit.com/store/sundesa-c-296.html">Sundesa</a></li><li><a href="http://www.reuseit.com/store/takeya-c-180.html">Takeya</a></li><li><a href="http://www.reuseit.com/store/green-glass-company-c-297.html">The Green Glass Company</a></li><li><a href="http://www.reuseit.com/store/thermos-c-78.html">Thermos</a></li><li><a href="http://www.reuseit.com/store/tkaro-c-175.html">Tk:aro</a></li><li><a href="http://www.reuseit.com/store/togo-ware-c-80.html">To-Go Ware</a></li><li><a href="http://www.reuseit.com/store/toddy-c-283.html">Toddy</a></li><li><a href="http://www.reuseit.com/store/unger-c-210.html">Unger</a></li><li><a href="http://www.reuseit.com/store/vacu-vin-c-295.html">Vacu Vin</a></li><li><a href="http://www.reuseit.com/store/vapur-c-184.html">Vapur</a></li><li><a href="http://www.reuseit.com/store/wastenot-saks-c-126.html">WasteNot Saks</a></li><li><a href="http://www.reuseit.com/store/watergeeks-c-187.html">WaterGeeks</a></li><li><a href="http://www.reuseit.com/store/wisdom-wands-c-172.html">Wisdom Wands</a></li><li><a href="http://www.reuseit.com/store/wonder-warmers-c-224.html">Wonder Warmers</a></li><li><a href="http://www.reuseit.com/store/wrapnmat-c-82.html">Wrap-N-Mat</a></li><li><a href="http://www.reuseit.com/store/zelco-c-218.html">Zelco</a></li>		    </ul>
-	    </div><!-- brands_overlay> -->
-	</div>    
 	<div id="header">
 		<h2 id="logo"><a href="http://www.reuseit.com/">Reuseit.com</a></h2>		<div id="shippingbutton">
 				<p>
@@ -107,30 +215,29 @@
 				<p>
 	&nbsp; <a href="http://www.reuseit.com/help/promotions"><span style="text-decoration: underline;">Current Promotions</span></a></p>
 <p>
-	<a href="http://www.reuseit.com/store/clearance-c-265.html"><span style="text-decoration: underline;">Clearance Section</span></a> |</p>
+	<a href="http://www.reuseit.com/store/gift-center-c-17.html"><span style="text-decoration: underline;">Gift Center</span></a>&nbsp; |</p>
 			</div>
 			<div id="shoppingcartlink" class="qc_normal"><a href="/store/shopping_cart.php"> 0 items</a></div>
 		</div>
 		<span class="clear">&nbsp;</span>
 	</div>
-	
-	<div id="navigation">
-		<ul id="menubar">
-			<li id="shoplink" class="mainnav"><a href="/store"><span>Shop</span></a></li>
-			<li id="learnlink" class="mainnav"><a href="/learn-more">Learn</a></li>
-			<li id="takeactionlink" class="mainnav"><a href="/take-action">Take Action</a></li>
-		</ul>
-		<div id="search_form">
-			<form action="/search" method="get" automplete="off">
-					<span id="quickfind">
-					<input id="searchbox" name="q" type="text" value="Search (item#, keyword)" onfocus="if(this.value=='Search (item#, keyword)'){this.value=''}">
-					<div id="live_results"></div>
-					</span>
-		         <button type="submit" value="Submit" class="btn">Search</button>
-		     </form>
-		</div><!-- #search_form --> 
-		<ul id="secondary_menu">
-		<div class="menu_wrap"><li id="list_lunch"><a href="http://www.reuseit.com/store/lunch-c-248.html">Lunch</a>
+	<div id="nav_envelope">
+	    <div id="navigation">
+		    <ul id="menubar">
+			    <li id="shoplink" class="mainnav"><a href="/store"><span>Shop</span></a></li>
+			    <li id="learnlink" class="mainnav"><a href="/learn-more">Learn</a></li>
+			    <li id="takeactionlink" class="mainnav"><a href="/take-action">Take Action</a></li>
+		    </ul>
+		    <div id="search_form">
+			    <form action="/search" method="get">
+					    <span id="quickfind">
+					    <input id="searchbox" name="q" type="text" value="Search (item#, keyword)" onfocus="if(this.value=='Search (item#, keyword)'){this.value=''}">
+					    </span>
+		             <button type="submit" value="Submit" class="btn">Search</button>
+		        </form>
+		    </div><!-- #search_form --> 
+		    <ul id="secondary_menu">
+		    <li id="list_lunch"><a href="http://www.reuseit.com/store/lunch-c-248.html">Lunch</a>
 					<div id="list_1" class="menu_2col menu_list">
 						<ul class="left_menu">
 							<!-- <li class="cat_head"><a href="http://www.reuseit.com/store/lunch-c-248.html">Lunch</a></li>--><li><a href="http://www.reuseit.com/store/lunch-lunch-bags-boxes-c-248_249.html">Lunch Bags &amp; Boxes</a></li>
@@ -151,10 +258,10 @@
 	<li>
 		<a href="/store/Lunch_for+Kids-c-248.html?attributes=Kids|Yes">Kids Lunch Items</a></li>
 </ul>
-</div></li></div><div class="menu_wrap"><li id="list_bags"><a href="http://www.reuseit.com/store/bags-totes-c-238.html">Bags &amp; Totes</a>
+</div></li> <li id="list_bags"><a href="http://www.reuseit.com/store/bags-totes-c-238.html">Bags &amp; Totes</a>
 					<div id="list_2" class="menu_2col menu_list">
 						<ul class="left_menu">
-							<!-- <li class="cat_head"><a href="http://www.reuseit.com/store/bags-totes-c-238.html">Bags & Totes</a></li>--><li><a href="http://www.reuseit.com/store/bags-totes-shopping-bags-c-238_239.html">Shopping Bags</a></li>
+							<!-- <li class="cat_head"><a href="http://www.reuseit.com/store/bags-totes-c-238.html">Bags & Totes</a></li>--><li><a href="http://www.reuseit.com/store/bags-totes-reusable-shopping-bags-c-238_239.html">Reusable Shopping Bags</a></li>
 <li><a href="http://www.reuseit.com/store/bags-totes-shopping-sets-c-238_240.html">Shopping Bag Sets</a></li>
 <li><a href="http://www.reuseit.com/store/bags-totes-baskets-c-238_241.html">Baskets</a></li>
 <li><a href="http://www.reuseit.com/store/bags-totes-produce-bags-c-238_242.html">Produce Bags</a></li>
@@ -169,7 +276,7 @@
 		<a href="/store/bags-totes-c-238.html?sort=best-sellers&amp;">Best Sellers</a></li>
 	<li>
 		<a href="/store/Acme+Bags++reuseit_Bags+%26+Totes-c-238.html?brand_id=44&amp;">reuseit Brand</a></li>
-</ul></div></li></div><div class="menu_wrap"><li id="list_bottles"><a href="http://www.reuseit.com/store/bottles-more-c-253.html">Bottles &amp; More</a>
+</ul></div></li> <li id="list_bottles"><a href="http://www.reuseit.com/store/bottles-more-c-253.html">Bottles &amp; More</a>
 					<div id="list_3" class="menu_2col menu_list">
 						<ul class="left_menu">
 							<!-- <li class="cat_head"><a href="http://www.reuseit.com/store/bottles-more-c-253.html">Bottles & More</a></li>--><li><a href="http://www.reuseit.com/store/bottles-more-water-bottles-c-253_254.html">Water Bottles</a></li>
@@ -193,7 +300,7 @@
 	<li>
 		<a href="/store/Water+Bottles_for+Kids-c-253_254.html?attributes=Kids|Yes">Kids Water Bottles</a></li>
 </ul>
-</div></li></div><div class="menu_wrap"><li id="list_home"><a href="http://www.reuseit.com/store/home-c-244.html">Home</a>
+</div></li> <li id="list_home"><a href="http://www.reuseit.com/store/home-c-244.html">Home</a>
 					<div id="list_4" class="menu_2col menu_list">
 						<ul class="left_menu">
 							<!-- <li class="cat_head"><a href="http://www.reuseit.com/store/home-c-244.html">Home</a></li>--><li><a href="http://www.reuseit.com/store/home-cleaning-c-244_232.html">Cleaning</a></li>
@@ -201,7 +308,7 @@
 <li><a href="http://www.reuseit.com/store/home-personal-care-c-244_245.html">Personal Care</a></li>
 <li><a href="http://www.reuseit.com/store/home-office-outdoor-hardware-c-244_234.html">Office, Outdoor &amp; Hardware</a></li>
 <li><a href="http://www.reuseit.com/store/home-garbage-bags-reusing-bags-c-244_246.html">Garbage Bags &amp; Reusing Bags</a></li>
-<li><a href="http://www.reuseit.com/store/home-gift-wrap-c-244_247.html">Gift Wrap</a></li>
+<li><a href="http://www.reuseit.com/store/home-reusable-gift-wrap-c-244_247.html">Reusable Gift Wrap</a></li>
 <li><a href="http://www.reuseit.com/store/home-tshirts-activist-gear-c-244_268.html">T-Shirts &amp; Activist Gear</a></li>
 
 </ul>
@@ -212,10 +319,10 @@
         <a href="/store/Home-c-244.html?&amp;new_products=true&amp;">New Arrivals</a></li>
     <li>
         <a href="/store/Home-c-244.html?sort=best-sellers&amp;">Best Sellers</a></li>
-</ul></div></li></div><div class="menu_wrap"><li id="list_kitchen"><a href="http://www.reuseit.com/store/kitchen-c-243.html">Kitchen</a>
+</ul></div></li> <li id="list_kitchen"><a href="http://www.reuseit.com/store/kitchen-c-243.html">Kitchen</a>
 					<div id="list_5" class="menu_2col menu_list">
 						<ul class="left_menu">
-							<!-- <li class="cat_head"><a href="http://www.reuseit.com/store/kitchen-c-243.html">Kitchen</a></li>--><li><a href="http://www.reuseit.com/store/kitchen-food-savers-storage-c-243_229.html">Food Savers &amp; Storage</a></li>
+							<!-- <li class="cat_head"><a href="http://www.reuseit.com/store/kitchen-c-243.html">Kitchen</a></li>--><li><a href="http://www.reuseit.com/store/kitchen-food-savers-food-storage-c-243_229.html">Food Savers &amp; Food Storage</a></li>
 <li><a href="http://www.reuseit.com/store/kitchen-food-beverage-preparation-c-243_230.html">Food &amp; Beverage Preparation</a></li>
 <li><a href="http://www.reuseit.com/store/kitchen-napkins-tableware-c-243_231.html">Napkins &amp; Tableware</a></li>
 
@@ -227,15 +334,15 @@
 		<a href="/store/Kitchen-c-243.html?&amp;new_products=true&amp;">New Arrivals</a></li>
 	<li>
 		<a href="/store/Kitchen-c-243.html?sort=best-sellers&amp;">Best Sellers</a></li>
-</ul></div></li></div> 
+</ul></div></li> 
 
-			<div class="menu_wrap"><li id="list_more">More Ways to Shop
-				<div id="more_ways_to_shop" class="menu_2col menu_list">
-				    <ul id="more_ways_to_shop_list">
+			    <li id="list_more">More Ways to Shop
+				    <div id="more_ways_to_shop" class="menu_2col menu_list">
+				        <ul id="more_ways_to_shop_list">
 	<li>
-		<a href="/store/new_products-n.html?sort=best-sellers">New Arrivals</a></li>
+		<a href="/store/index.php?new_products=true&amp;sort=most-recently-added">New Arrivals</a></li>
 	<li>
-		<a href="/store/specials-s.html">On Sale</a></li>
+		<a href="/store/index.php?specials=true&amp; ">On Sale</a></li>
 	<li>
 		<a href="/store/index.php?sort=best-sellers&amp;">Best Sellers</a></li>
 	<li>
@@ -249,59 +356,55 @@
 	<li>
 		<a href="/store/index.php">View All Products</a></li>
 </ul>
-<ul class="brands_featured"><li class="brands_title">Popular Brands</li><li><href="0"><a href="http://www.reuseit.com/store/acme-bags-reuseit-c-44.html">Acme Bags / reuseit</a></href="0"></li><li><href="1"><a href="http://www.reuseit.com/store/built-c-62.html">Built</a></href="1"></li><li><href="2"><a href="http://www.reuseit.com/store/klean-kanteen-c-35.html">Klean Kanteen</a></href="2"></li><li><href="3"><a href="http://www.reuseit.com/store/lunchskins-c-115.html">LunchSkins</a></href="3"></li><li><href="4"><a href="http://www.reuseit.com/store/reisenthel-c-76.html">Reisenthel</a></href="4"></li><li><href="5"><a href="http://www.reuseit.com/store/skoy-c-114.html">Skoy</a></href="5"></li><li id="brands_overlay_trigger" class="cboxElement">View All Brands</li></ul>				</div>
-			</li>
-			</div>	
-			<div class="menu_wrap">
-			<li id="list_disposables">Replace Disposables
-				<div id="disposables_menu" class="menu_list">
-					<span class="disposables_menu_blurb">
-											</span>	
-					<ul>
+<ul class="brands_featured"><li class="brands_title">Popular Brands</li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=44">Acme Bags / reuseit</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=62">Built</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=35">Klean Kanteen</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=115">LunchSkins</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=76">Reisenthel</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=114">Skoy</a></li><li id="brands_overlay_trigger" class="cboxElement">View All Brands</li></ul>				    </div>
+			    </li>
+			   
+			    <li id="list_disposables">Replace Disposables
+			        <div id="disposables_menu" class="menu_list">
+				        <span class="disposables_menu_blurb">
+					        				        </span>	
+				        <ul>
 <li><span>Bags &amp; Totes</span><ul>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Produce+Bags&amp;">Produce Bags</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Plastic+Grocery+Bags&amp;">Plastic Grocery Bags</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Paper+Grocery+Bags&amp;">Paper Grocery Bags</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Produce+Bags&amp;">Produce Bags</a></li>
 </ul>
 </li>
 <li><span>Beverage</span><ul>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Straws&amp;">Straws</a></li>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Juice+Boxes+%26+Pouches&amp;">Juice Boxes &amp; Pouches</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Bottled+Water&amp;">Bottled Water</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Coffee+Filters&amp;">Coffee Filters</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Paper+%26+Styrofoam+Cups&amp;">Paper &amp; Styrofoam Cups</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Soda+%26+Flavored+Water+Containers&amp;">Soda &amp; Flavored Water Containers</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Tea+Bags&amp;">Tea Bags</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Coffee+Cup+Holder&amp;">Coffee Cup Holder</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Straws&amp;">Straws</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Juice+Boxes+%26+Pouches&amp;">Juice Boxes &amp; Pouches</a></li>
 </ul>
 </li>
 <li><span>Lunch</span><ul>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Paper+Lunch+Bags&amp;">Paper Lunch Bags</a></li>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Chopsticks&amp;">Chopsticks</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Ziplock+%26+Sandwich+Bags&amp;">Ziplock &amp; Sandwich Bags</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Paper+Napkins&amp;">Paper Napkins</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Plastic+Cutlery&amp;">Plastic Cutlery</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Ice&amp;">Ice</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Paper+Lunch+Bags&amp;">Paper Lunch Bags</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Chopsticks&amp;">Chopsticks</a></li>
 </ul>
 </li>
 </ul>
 <ul>
 <li><span>Kitchen</span><ul>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Paper+Towels&amp;">Paper Towels</a></li>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Plastic+Wrap&amp;">Plastic Wrap</a></li>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Salad+Dressing+%26+Sauce+Containers&amp;">Salad Dressing &amp; Sauce Containers</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Take+Out+Food+Containers&amp;">Take Out Food Containers</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Paper+%26+Plastic+Bowls&amp;">Paper &amp; Plastic Bowls</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Single+Serve+Condiments&amp;">Single Serve Condiments</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Aluminum+Foil&amp;">Aluminum Foil</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Paper+%26+Plastic+Plates&amp;">Paper &amp; Plastic Plates</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Wax+%26+Parchment+Paper&amp;">Wax &amp; Parchment Paper</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Paper+Towels&amp;">Paper Towels</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Plastic+Wrap&amp;">Plastic Wrap</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Salad+Dressing+%26+Sauce+Containers&amp;">Salad Dressing &amp; Sauce Containers</a></li>
 </ul>
 </li>
 <li><span>Cleaning</span><ul>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Sponges&amp;">Sponges</a></li>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Dry+Cleaning+Garment+Bags&amp;">Dry Cleaning Garment Bags</a></li>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Air+Fresheners&amp;">Air Fresheners</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Laundry+Containers&amp;">Laundry Containers</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Cleaning+Bottles+%26+Containers&amp;">Cleaning Bottles &amp; Containers</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Sweeper+Cleaning+Pads&amp;">Sweeper Cleaning Pads</a></li>
@@ -310,55 +413,57 @@
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Garbage+Bags&amp;">Garbage Bags</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Mop+Head&amp;">Mop Head</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Scouring+Pads&amp;">Scouring Pads</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Sponges&amp;">Sponges</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Dry+Cleaning+Garment+Bags&amp;">Dry Cleaning Garment Bags</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Air+Fresheners&amp;">Air Fresheners</a></li>
 </ul>
 </li>
 </ul>
 <ul>
 <li><span>Home &amp; Personal</span><ul>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Toothbrushes&amp;">Toothbrushes</a></li>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Diapers+%26+Wipes+%26+Nursing+Pads&amp;">Diapers &amp; Wipes &amp; Nursing Pads</a></li>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Disposable+Hand/Body+Warmers&amp;">Disposable Hand/Body Warmers</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Tissues&amp;">Tissues</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Feminine+Products&amp;">Feminine Products</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Travel-Sized+Containers&amp;">Travel-Sized Containers</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Wrapping+Paper&amp;">Wrapping Paper</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Candles&amp;">Candles</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Toothbrushes&amp;">Toothbrushes</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Diapers+%26+Wipes+%26+Nursing+Pads&amp;">Diapers &amp; Wipes &amp; Nursing Pads</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Disposable+Hand/Body+Warmers&amp;">Disposable Hand/Body Warmers</a></li>
 </ul>
 </li>
 <li><span>Office</span><ul>
-<li><a href="/store/index.php?attributes=Disposables+Replaced|Dry+Erase+Markers&amp;">Dry Erase Markers</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Rubberbands+%26+Zip-Ties&amp;">Rubberbands &amp; Zip-Ties</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Batteries&amp;">Batteries</a></li>
 <li><a href="/store/index.php?attributes=Disposables+Replaced|Staples&amp;">Staples</a></li>
+<li><a href="/store/index.php?attributes=Disposables+Replaced|Dry+Erase+Markers&amp;">Dry Erase Markers</a></li>
 </ul>
 </li>
 </ul>
-				</div>
-			</li>
-			</div>	
-		</ul>
+			        </div>
+		        </li>	
+		    </ul>
 
-					</div>
-	<div id="account_wrapper">
-		<div id="account_box">
-			<p class="bot_mar_5px"><a href="/help/promotions/newsletter-signup">Sign Up for News &amp; Offers</a></p>
-			<p class="inline">Join us on </p>
-				<ul id="social_links">
-					<li id="twitterlink" class="sociallink"><a href="http://twitter.com/Reuseit_store" title="Twitter" target="_blank"></a></li>
-					<li id="facebooklink" class="sociallink"><a href="http://www.facebook.com/ReuseitStore" title="Facebook" target="_blank"></a></li>
-					<li id="youtubelink" class="sociallink"><a href="http://www.youtube.com/ponoproducts" title="You Tube" target="_blank"></a></li>
-				</ul>
+		    		    	    </div>
+	    <div id="account_wrapper">
+		    <div id="account_box">
+			    <p class="bot_mar_5px"><a href="/help/promotions/newsletter-signup">Sign Up for News &amp; Offers</a></p>
+			    <p class="inline">Join us on </p>
+				    <ul id="social_links">
+					    <li id="twitterlink" class="sociallink"><a href="http://twitter.com/Reuseit_store" title="Twitter" target="_blank"></a></li>
+					    <li id="facebooklink" class="sociallink"><a href="http://www.facebook.com/ReuseitStore" title="Facebook" target="_blank"></a></li>
+					    <li id="youtubelink" class="sociallink"><a href="http://www.youtube.com/ponoproducts" title="You Tube" target="_blank"></a></li>
+				    </ul>
 				
-			<ul id="news_links">
-				<li id="newsroomlink"><a href="/newsroom">Newsroom</a></li>
-				<li id="bloglink"><a href="/blog">Blog</a></li>
-				<li id="buzzlink"><a href="/buzz">Buzz</a></li>
-				<li id="ourvisionlink"><a href="/about-us">About Us</a></li>
-			</ul><!-- #news_links -->
-		</div><!-- account_box -->
+			    <ul id="news_links">
+				    <li id="newsroomlink"><a href="/newsroom">Newsroom</a></li>
+				    <li id="bloglink"><a href="/blog">Blog</a></li>
+				    <li id="buzzlink"><a href="/buzz">Buzz</a></li>
+				    <li id="ourvisionlink"><a href="/about-us">About Us</a></li>
+			    </ul><!-- #news_links -->
+		    </div><!-- account_box -->
 			
-	</div><!-- account_wrapper -->
-
+	    </div><!-- account_wrapper -->
+    </div><!-- nav_envelope -->
 
 			<div id="content">
 			
@@ -487,14 +592,14 @@ In addition to the permitted uses provided above, we may transfer or assign all 
 	</div>
 	
 	<div class="photoad">
-	<a href="http://www.reuseit.com/store/acme-bags-reuseit-c-44.html?sort=most-recently-added"><img alt="See what's new from reuseit brand" src="http://static.reuseit.com/images/store/homepage/Reuseit_Ad.png" style="width: 232px; height: 149px;"></a></div>
+	<a href="http://www.reuseit.com/store/acme-bags-reuseit-c-44.html?sort=most-recently-added"><img alt="Gift Center" src="http://static.reuseit.com/images/store/homepage/Reuseit_Ad.png" style="width: 232px; height: 149px;"></a></div>
 				</div>		
 			</div>
 			<div class="clear">&nbsp;</div>
 				<div id="footer">
 		<div class="fullfactoid">
 				<!-- <span class="rounded-corners-top"></span> -->
-				<p><a class="no-style" href="/about-us/our-company/use-and-toss-ticker">We’ve empowered <strong>303,821</strong> customers to eliminate <strong>1,150,570,127</strong> use &amp; toss items!</a></p>
+				<p><a class="no-style" href="/about-us/our-company/use-and-toss-ticker">We’ve empowered <strong>324,191</strong> customers to eliminate <strong>1,227,711,317</strong> use &amp; toss items!</a></p>
 				<!-- <span class="rounded-corners-bottom"></span> -->
 		</div>
 		
@@ -515,13 +620,37 @@ In addition to the permitted uses provided above, we may transfer or assign all 
 	<li>
 		<a href="/help/volume-purchase-info">Volume Orders</a></li>
 	<li>
-		<a href="/take-action/get-involved/affiliate-program">Affiliate Program</a></li>
-<!-- <li><a href="">Corporate Social Responsibility</a></li>  -->	<li>
+		<a href="/take-action/get-involved/affiliate-program">Affilate Program</a></li>
+	<li>
 		<a href="/help/returns-and-replacements/satisfaction-guarantee">100% Satisfaction Guarantee</a></li>
 	<li>
 		<a href="/store/egift-certificates-p-810.html">E-Gift Certificates</a></li>
 	<li>
 		<a href="/store/discontinued-c-97.html">Discontinued Items</a></li>
+</ul>
+<h3>
+	Most popular searches</h3>
+<ul>
+	<li>
+		<a href="/store/index.php?cPath=0&amp;brand_id=35">Klean Kanteen</a></li>
+	<li>
+		<a href="/search?q=Bento">Bento Boxes</a></li>
+	<li>
+		<a href="/store/index.php?cPath=0&amp;brand_id=33">SIGG</a></li>
+	<li>
+		<a href="/store/index.php?cPath=0&amp;brand_id=78">Thermos</a></li>
+	<li>
+		<a href="/store/index.php?cPath=0&amp;brand_id=62">Built</a></li>
+	<li>
+		<a href="/store/index.php?attributes=Disposables+Replaced|Straws&amp;">Reusable Straws</a></li>
+	<li>
+		<a href="/search?q=microfiber">Microfiber Cleaning Cloths</a></li>
+	<li>
+		<a href="/store/index.php?cPath=0&amp;brand_id=109">Baggu</a></li>
+	<li>
+		<a href="/store/index.php?cPath=0&amp;brand_id=65">Envirosax</a></li>
+	<li>
+		<a href="/store/lunch-bags-boxes-c-248_249.html">Lunch Bags</a></li>
 </ul>
 			
 			</div>
@@ -539,10 +668,16 @@ In addition to the permitted uses provided above, we may transfer or assign all 
 		<a href="/about-us/our-company/reasons-to-shop-with-us">25,000+ Product Reviews</a></li>
 	<li>
 		<a href="/about-us/awards/green-america">Green America Award Winner</a></li>
-<!-- <li><a href="">Corporate Social Responsibility</a></li>  -->	<li>
+	<li>
 		<a href="/about-us/our-company/reasons-to-shop-with-us">More Reasons</a></li>
 </ul>
-	
+<p>
+	_______________________________<br>
+	<br>
+	<strong>Spread the word, earn store credit.</strong><br>
+	They'll save $5, you'll earn $5.<br>
+	Check out our new <a href="/help/promotions/reuseit-referral">customer referral program</a> today.<br>
+	_______________________________</p>	
 				<h4 class="bold">Sign Up For Emails</h4>
 				<p class="nls_tickler">Get news, advice, special offers &amp; more. Plus a chance to win a $100 gift certificate.</p>	
 				<form action="" method="get" class="nlsignup"><span id="signup"><input type="hidden" name="source" value="store_footer"><input name="nlemail" type="text" value="Your Email"></span>
@@ -550,7 +685,7 @@ In addition to the permitted uses provided above, we may transfer or assign all 
 			</div>
 			<div class="sitemap"> 
 				<h3>
-	Together We're Making A Difference'</h3>
+	Together We're Making A Difference</h3>
 <ul>
 	<li>
 		<a href="/about-us/giving-back/1percent-for-the-planet#waterkeeper1">Waterkeeper's Alliance</a></li>
@@ -570,11 +705,28 @@ In addition to the permitted uses provided above, we may transfer or assign all 
 		<a href="/about-us/giving-back/1percent-for-the-planet#rainforestaction1">Rainforest Action Network</a></li>
 	<li>
 		<a href="/about-us/giving_back">More Partners</a></li>
-</ul>		
+</ul>
+<h3>
+	Most popular picks</h3>
+<ul>
+	<li>
+		<a href="/store/Glass_Water+Bottles-c-253_254.html?attributes=Material%7CGlass">Glass Water Bottles</a></li>
+	<li>
+		<a href="/store/bags-totes-c-238.html">Reusable Bags</a></li>
+	<li>
+		<a href="/store/kitchen-food-savers-food-storage-c-243_229.html">Food Storage &amp; Food Savers</a></li>
+	<li>
+		<a href="/store/Resolve+to+Reuse-c-317.html?products=-1">Waste Reducing Ideas</a></li>
+	<li>
+		<a href="/store/lunch-sandwich-snack-bags-c-248_250.html">Travel Friendly Reusables</a></li>
+	<li>
+		<a href="/store/lunch-lunch-bags-boxes-c-248_249.html">Lunch Boxes, Lunch Bags &amp; Bento Boxes</a></li>
+</ul>
+		
 			</div>
 			<div class="sitemap">
 				<h3>
-	About Reuseit</h3>
+	About reuseit</h3>
 <ul>
 	<li>
 		<a href="/about-us">About Us</a></li>
@@ -591,13 +743,33 @@ In addition to the permitted uses provided above, we may transfer or assign all 
 	<li>
 		<a href="/about-us/our-company/contact-us">Recommend a product, video or news story</a></li>
 </ul>
+<h3>
+	reuseit recommends</h3>
 <p>
-	_______________________________<br>
-	<br>
-	<strong>Spread the word, earn store credit.</strong><br>
-	They'll save $5, you'll earn $5.<br>
-	Check out our new <a href="/help/promotions/reuseit-referral">customer referral program</a> today.<br>
-	&nbsp;</p>			</div>
+	Plow &amp; Hearth</p>
+<ul>
+	<li>
+		<a href="http://www.plowandhearth.com/solar-lighting/category_s2004_d3057_c1134.html" target="_blank">Plow &amp; Hearth Solar Lighting</a></li>
+	<li>
+		<a href="http://www.plowandhearth.com/energy-savers/category_s2002_d3005_c1052.html" target="_blank">Plow &amp; Hearth Energy Savers</a></li>
+	<li>
+		<a href="http://www.plowandhearth.com/eco-friendly-pest-control/category_s2004_d3058_c1082.html" target="_blank">Plow &amp; Hearth Eco Friendly Pest Control</a></li>
+	<li>
+		<a href="http://www.plowandhearth.com/enviro-friendly-products/feature_s2004_d_c3071.html" target="_blank">Plow &amp; Hearth Enviro-Friendly Products</a></li>
+	<li>
+		<a href="http://www.plowandhearth.com/composting/category_s2008_d3066_c1112.html" target="_blank">Plow &amp; Hearth Composting</a></li>
+</ul>
+<p>
+	Magic Cabin</p>
+<ul>
+	<li>
+		<a href="http://www.magiccabin.com/eco-friendly-toys/feature_s2003_d_c7129.html" target="_blank">Magic Cabin Eco-Friendly Toys</a></li>
+	<li>
+		<a href="http://www.magiccabin.com/wooden-toys/category_s2003_d1101_c2104.html" target="_blank">Magic Cabin Wooden Toys</a></li>
+	<li>
+		<a href="http://www.magiccabin.com/wooden-baby-toys/category_s2009_d1801_c6303.html" target="_blank">Magic Cabin Wooden Baby Toys</a></li>
+</ul>
+			</div>
 		    <div class="clear">&nbsp;</div>
 			</div>
 <!-- 
@@ -659,15 +831,15 @@ In addition to the permitted uses provided above, we may transfer or assign all 
 		<div class="fullwidthbythree">
 			<div id="testimonial" class="split">
 				<h4>What They&rsquo;re Saying</h4>
-<p>I LOVE your website & what you're doing to help the world.<br /><br /><em>Deborah M</em>
+<p>Thanks for giving us a one-stop shopping experience for a green, safe and beautiful lifestyle!<br /><br /><em>Janet T</em>
 </p>
 
 				
 			</div>
 			<div class="split">
 				<h4>Reasons To Shop With Us</h4>
-<h5>1% For the Planet Member</h5>
-<p>Over $200,000 in donations to like-minded non-profits</p>
+<h5>Green America People's Choice 2x Award Winner</h5>
+<p>Voted Green Business of the Year  & Longtime Leadership</p>
 			</div>
 			<div class="split">
 
@@ -685,9 +857,17 @@ In addition to the permitted uses provided above, we may transfer or assign all 
 
 		</div>
 		
+
+<script type="text/javascript"> if (!window.mstag) mstag = {loadTag : function(){},time : (new Date()).getTime()};</script> 
+<script id="mstag_tops" type="text/javascript" src="//flex.atdmt.com/mstag/site/835c4276-50ca-41e8-9ba2-8558ec5c88ad/mstag.js"></script>
+<script type="text/javascript"> mstag.loadTag("analytics", {dedup:"1",domainId:"1791722",type:"1",revenue:"",actionid:"78749"})</script> 
+<noscript> 
+   <iframe src="//flex.atdmt.com/mstag/tag/835c4276-50ca-41e8-9ba2-8558ec5c88ad/analytics.html?dedup=1&domainId=1791722&type=1&revenue=&actionid=78749" frameborder="0" scrolling="no" width="1" height="1" style="visibility:hidden;display:none"> </iframe> </noscript>
+
+
 		<div id="legalnotices">
 			<div class="split">
-				<p>© 2012, reuseit.com<sup>®</sup>. All rights reserved.</p>
+				<p>© 2013, reuseit.com<sup>®</sup>. All rights reserved.</p>
 			</div>
 			<div class="split" id="legal-links">
 				<ul id="legallinks">
@@ -755,7 +935,14 @@ In addition to the permitted uses provided above, we may transfer or assign all 
     <!-- End Newsletter signup delayed popup html -->
 	
 	</div>
-
+    <!-- start brands overlay -->
+    <div style="display:none;">
+       	<div id="brands_overlay">
+		    <ul class="brands_list">
+			    <li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=44">Acme Bags / reuseit</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=57">Aladdin</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=190">Aquaovo</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=215">Aura Cacia</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=208">AusPen</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=294">Bag The Habit</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=109">Baggu</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=310">Bambooee</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=225">Bambu</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=60">Bazura Bags</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=272">Berryplus</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=289">Best Manufacturers</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=47">BioBag</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=270">Black + Blum</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=176">Blue Q</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=183">BlueAvocado</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=177">Bobble</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=62">Built</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=171">CamelBak</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=104">Cart Helper</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=156">Chewing the Cud</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=77">ChicoBag</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=193">Cryopak</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=306">CuisiPro</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=132">Dabbawalla</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=106">DCI</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=307">Demarle</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=105">DivaCup</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=63">Earthlust</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=192">Earthstone</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=309">Eco Nuts</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=135">Eco-Dent</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=64">ECOBAGS</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=267">ECOlunchboxes</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=300">Ekobrew</a></li></ul><ul class="brands_list"><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=136">eneloop</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=65">Envirosax</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=197">Essential Gear</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=128">ExceptionLab</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=201">Fabkins</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=214">Fabrikators</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=236">Fit &amp; Fresh</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=122">Flatterware</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=110">Flip &amp; Tumble</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=202">Four Peas</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=123">Fozzils</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=195">Fred &amp; Friends</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=293">Frieling</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=181">Full Circle</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=219">FuzziBunz Diapers</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=117">Glass Dharma</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=84">Global Girlfriend</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=99">Go Fresh</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=211">Goodbye Detergent</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=125">Goodbyn</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=178">Graze Organic</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=220">Green Garmento</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=274">GreenerStep</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=323">GreenGlider</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=67">Guyot Designs</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=269">Hero Bags</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=301">Highwave</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=119">humangear</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=319">hydros</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=61">Innate</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=221">iSi</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=326">Itzy Ritzy</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=185">Katadyn</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=69">Kids Konserve</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=278">Kinderville</a></li></ul><ul class="brands_list"><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=35">Klean Kanteen</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=299">KOR Water</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=74">Laptop Lunches</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=320">Lexington Limited</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=266">Liberty Bottleworks</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=191">Libre</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=186">Lifefactory</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=120">Light My Fire</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=198">Lock &amp; Lock</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=71">Lucky Crow</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=101">Lunapads</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=107">LunchBots</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=115">LunchSkins</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=153">Lyziwraps</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=146">Made By Humans</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=182">Mastrad</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=173">MicroMaid</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=298">Molla Space</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=312">Moso Natural</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=113">Mü Kitchen</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=43">Nalgene</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=94">Nellie's All-Natural</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=92">Nuun</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=285">ONYX</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=329">Ore Originals</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=227">OXO</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=291">Pacific Dry Goods</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=196">PackIt</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=325">PackTowl</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=165">People Towels</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=169">Platypus</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=223">PotMaker</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=275">Preserve</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=167">PressLid</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=212">Prince Lionheart</a></li></ul><ul class="brands_list"><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=194">Progressive International</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=179">Q-Knot</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=166">Rebel Green</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=76">Reisenthel</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=98">ReUsies</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=327">RunRunRun</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=33">SIGG</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=114">Skoy</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=103">Skweet</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=68">snackTAXI</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=207">Snapware</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=133">Static Eliminator</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=296">Sundesa</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=180">Takeya</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=297">The Green Glass Company</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=78">Thermos</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=175">Tk:aro</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=80">To-Go Ware</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=283">Toddy</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=322">Trudeau</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=210">Unger</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=295">Vacu Vin</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=184">Vapur</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=308">Wagan</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=318">Wean Green</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=172">Wisdom Wands</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=224">Wonder Warmers</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=82">Wrap-N-Mat</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=218">Zelco</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=328">Zing Anything</a></li><li><a href="http://www.reuseit.com/store/index.php?cPath=0&amp;brand_id=311">Zoku</a></li>		    </ul>
+	    </div>
+	</div>    
+    <!-- end brands overlay -->
         
 <script type="text/javascript" src="/jquery/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/jquery/jquery-ui-1.7.custom.min.js"></script>
@@ -773,7 +960,7 @@ In addition to the permitted uses provided above, we may transfer or assign all 
 <script type="text/javascript" src="/templates/reuseit/js/jquery.cookie.js"></script>
 <script type="text/javascript" src="/store/includes/javascript/newsletter_signup.js"></script>
 <script type="text/javascript" src="/store/includes/javascript/common.js"></script>
-<script type="text/javascript" src="/templates/reuseit/js/init.js?v=120412"></script>
+<script type="text/javascript" src="/templates/reuseit/js/init.js?v=110612"></script>
 
 <script type="text/javascript">
 //<!--
@@ -852,25 +1039,10 @@ $(document).ready(function() {
     })();
 
     </script>
-<!-- Start Open Web Analytics Tracker -->
-<script type="text/javascript">
-//<![CDATA[
-var owa_baseUrl = 'http://www.accessible-web.org/owa/';
-var owa_cmds = owa_cmds || [];
-owa_cmds.push(['setSiteId', '1084617c6929d5d22d9dc29253e268c9']);
-owa_cmds.push(['trackPageView']);
-owa_cmds.push(['trackClicks']);
-owa_cmds.push(['trackDomStream']);
 
-(function() {
-    var _owa = document.createElement('script'); _owa.type = 'text/javascript'; _owa.async = true;
-    owa_baseUrl = ('https:' == document.location.protocol ? window.owa_baseSecUrl || owa_baseUrl.replace(/http:/, 'https:') : owa_baseUrl );
-    _owa.src = owa_baseUrl + 'modules/base/js/owa.tracker-combined-min.js';
-    var _owa_s = document.getElementsByTagName('script')[0]; _owa_s.parentNode.insertBefore(_owa, _owa_s);
-}());
-//]]>
-</script>
-<!-- End Open Web Analytics Code -->
+
+    <!-- pinterest assets script -->
+    <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
 		</div>
 	
 
