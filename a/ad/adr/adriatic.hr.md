@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230061142id_/http%3A//www.adriatic.hr/en/local/text/doc/zastita_privatnosti) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411170727id_/http%3A//www.adriatic.hr/en/local/text/doc/zastita_privatnosti) for the most accurate reproduction.*
 
 # Adriatic.hr - Croatia summer holiday. Private apartments, rooms and hotels
 
