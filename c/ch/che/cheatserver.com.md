@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatserver.com privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501073813id_/http%3A//cheatfreak.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatserver.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411190405id_/http%3A//cheatfreak.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Cheat Freak - Privacy Policy
 
@@ -18,7 +18,7 @@ _Please note that by using our Web site, you signify your assent to Cheat Freak'
 
 **What types of information does Cheat Freak collect and how is it used?**
 
-[Submit Form](https://web.archive.org/web/20120501073813id_/http%3A//cheatfreak.com/SubmitCheats.aspx)
+[Submit Form](https://web.archive.org/web/20130411190405id_/http%3A//cheatfreak.com/SubmitCheats.aspx)
 
 If you choose to submit cheat content using this form, we may ask you for your e-mail address. We use the information you provide solely to respond to your submission or to give you credit for your contribution. 
 
