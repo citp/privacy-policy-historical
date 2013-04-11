@@ -1,80 +1,115 @@
-> *The following text is extracted and transformed from the greathealthleads.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725210303id_/http%3A//www.greathealthleads.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greathealthleads.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411160234id_/http%3A//www.greathealthleads.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D71%26Itemid%3D325) for the most accurate reproduction.*
 
-# Privacy Policy - Secure & Believable Privacy Policy Of Great Health Leads
+# Privacy Policy
 
-Recieve your leads in real-time on your cell phone!  
-Our automated system will alert you via text message, and e-mail.
+PRIVACY POLICY FOR: Greathealthleads
 
-## Privacy Policy
+This privacy statement is created in order to demonstrate our continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site.This privacy policy sets out how “Greathealthleads” uses and protects any information that you give “Greathealthleads” when you use this website.
 
-We are committed to protecting your privacy.
+“Greathealthleads” is committed to ensuring that your privacy is protected and holds your privacy to the highest regard. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Any information we collect will be kept under technological lock and key, and used only to help you find the right insurance. Below you'll find our official privacy policy. If you have any additional questions about how we safeguard your information, contact us [here](http://www.greathealthleads.com/contact.htm)
+“Greathealthleads” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from December 20, 2009.
 
-**Web Site Privacy Policy**
+We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site.
 
-This is the privacy policy ("Privacy Policy") for the Great Health Leads .com site (the "Site"). This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy.
+What Information We Collect?
 
-This Privacy Policy is incorporated into, and part of, the Terms and Conditions, which govern your use of the Site in general.
+When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
-**Age Requirement for Use of Site:** This Site is not intended for use by persons under the age of 18 years old. You must be 18 years old or older to provide any personal information to the Site or to us through the Site.
+1\. Personal Information You Choose to Provide
 
-**Domicile Requirement for Use of the Site:** You represent and warrant that you are domiciled in the United States.
+Registration Information
 
-**1\. Collecting Information:**
+When you register for any of our products, services or newsletters you will provide us information about yourself.
 
-**Personally Identifiable Information**
+Credit Card Information
 
-The Site may request and collect certain personally identifiable information including, but not limited to, Application Data and other personal information contained in User Submissions, through various means such as online forms, online applications, e-mail and comments submitted to the Site. Such information collected through the Site may include financial information, health-related information, and other sensitive information. 
+If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:
 
-Other than as set forth in this Privacy Policy, and unless given permission by you to do so, we will not sell or disclose your personally identifiable information to third parties
+-Name
 
-**Non-Personally Identifiable Information**
+-Mailing address
 
-We may also collect certain non-personally identifiable information via the Site, such as Site usage activity and preferences, also known as demographic or profile data.
+-Email address
 
-**Why must you give so much personal information?**
+-Credit card number
 
-Insurance companies establish their rates using a variety of criteria. Since we deal with hundreds of companies, we must ask you questions required by all of them to determine the most competitive match for you. 
+-Name on credit card
 
-**NOTICE OF CONSUMER REPORT PRACTICES**
+-Credit card billing address
 
-**IMPORTANT: All proposed named insureds listed on this application must be made aware of the following:**
+-Business and home phone number
 
-In some cases, insurance companies may need to obtain additional background information about you. As an example Consumer reports may be ordered in connection with your insurance application. These reports provide information that may assist in determining your eligibility for insurance and the price you may be charged. Consumer reports may also be used for updates, renewals or extensions of this insurance. The insurance company may also obtain and use a credit-based insurance score based on information contained in your credit report. The insurance company may use a third party in connection with the development of the insurance score. 
+Email Information
 
-**Site Technology**
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-As with many Web sites, we may use "cookies" and/or other technology (e.g., web bugs, e-mail bugs, clear GIFs, web beacons and tracker GIFs) in the Site or in our communications with you to enhance the functionality of the Site and to make your transactions and other activities more convenient and efficient (collectively, "Tracking Technologies"). These technologies may vary, but in some cases may involve a small file stored locally on the computer used to access the Site, and may be used by us to store and collect information relating to your viewing and use of the Site and our correspondences with you. You may set your web browser software not to accept cookies, but, if so, certain functionality of the Site may be affected. We may collect your IP (Internet Protocol) address to help diagnose problems with our server, administer our Site and identify our users. We may also use such technologies to remember user preferences or minimize the need for you to re-enter information. 
+2\. Web Site Use Information
 
-Third parties (including, but not limited to, software vendors, advertisers and fulfillment companies) may also use Tracking Technologies by or through the Site. We have no control over what information such third parties track or collect, and we have no responsibility or liability for any tracking, data collection or other activities of such third parties.
+Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
 
-**2\. Usage and Sharing:**
+How Do We Use the Information That You Provide to Us?
 
-We use information collected on and through this Site for a variety of purposes in the course of business and as otherwise set forth herein. For example, such information may be used to process your applications to receive quotations or to send you information about our and our affiliates' products and services and other information and materials that may be of interest to you. This information may also be used to evaluate what portions of the Site are more popular than others, determine where visitors came from, where they go, and how long they stay on a particular page, or the Site in general. We may match information collected from you through different means or at different times, and use such information along with information obtained from other sources, including third parties.
+Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, , to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site’s content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
 
-Application Data may be forwarded to insurance agents, discount program representatives, brokers and/or companies who may contact you with a quote by email, telephone, postal mail or other forms of communication. We are not responsible, and shall not be liable, if an agent, broker, discount program representative or company to whom we forward your Application Data violates our Privacy Policy or their own privacy policy, if any.
+Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
 
-We may disclose your personal information to companies that perform technology or marketing services for us for their use in performing such services. We may transfer, sell or assign aggregate, non-personally identifiable information about Site usage to third parties. We may transfer, sell or assign personal information to third parties as a result of a sale of all or substantially all of our assets relating to this portion of our business or in connection with a merger, consolidation, change in control, reorganization or liquidation. We also reserve the right to disclose any information concerning you if required by law or to protect or defend our rights or the rights or well-being of our users or if you are involved (or are reasonably suspected to be involved) in any illegal activity, even without a subpoena, warrant or court order.
+Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
 
-**3\. Opt-Out:**
+What Are Cookies?
 
-If you would like to opt not to receive promotional or marketing material from us in the future, please send an e-mail to optout@GreatHealthLeads.com . However, your option not to receive promotional and marketing material: (a) shall not preclude us from corresponding with you, by e-mail or otherwise, regarding your existing or past relationship with us (e.g., your pending or past applications or our responses to questions or inquiries you pose to us), and (b) shall not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the Site.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
 
-**4\. Security:**
+How Do We Use Information We Collect from Cookies?
 
-The application form on the Site supports encryption to help protect the security of your transfer of data to the Site. Although we will take all reasonable security precautions regarding information stored on the Site, due to the open nature of the Internet, we cannot guarantee that any information stored on our servers, or transmitted to or from a user, will be free from unauthorized access, and we disclaim any liability for any theft or loss of, unauthorized access or damage to, or interception of any data or communications. By using the Site, you acknowledge that you understand and agree to assume these risks.
+As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
 
-**5\. Consent to Processing:**
+IP Addresses
 
-By providing any personal information to this Site, you fully understand and unambiguously consent to the transfer of such personal information to, and the collection and processing of such personal information in, the United States and other countries or territories. By submitting this information you are authorizing Brokers, Agents, discount program representatives and/or Insurance Professionals in the Great Health Leads .com network to contact you directly with quotes via telephone, fax, and email, regardless of the presence of your phone number(s) on any local or national no-call list. 
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
 
-**6\. Links:**
+Sharing and Selling Information
 
-This Site may contain links or references to other Web sites outside of our control. Please be aware that we have no control over these sites and our privacy policy does not apply to these sites. 
+We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
 
-**7\. Your Acceptance of this Policy:**
+How Can You Access and Correct Your Information?
 
-By using this Site, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time so visitors are encouraged to review this policy from time to time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
 
-Should you have any other questions about our Privacy Policy, please contact us [here](http://www.greathealthleads.com/contact.htm)
+What About Legally Compelled Disclosure of Information?
+
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
+
+What About Other Web Sites Linked to Our Web Site?
+
+We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
+
+Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
+
+Your Consent
+
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
+
+Choice/Opt-In/Opt-Out
+
+This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
+
+Surveys &amp; Contests
+
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+
+Persons under 18
+
+Children are not eligible to use our services unsupervised and we ask that children (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
+
+Acquisition or Changes in Ownership
+
+In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
+
+Policy Revisions
+
+We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+QUESTIONS
+
+You may direct enquiries to:   [admin@Greathealthleads.com](mailto:admin@Greathealthleads.com)
