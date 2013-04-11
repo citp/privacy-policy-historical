@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outback.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214021813id_/http%3A//www.outback.com/companyinfo/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outback.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411022805id_/http%3A//outback.com/companyinfo/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Outback Steakhouse
 
@@ -50,7 +50,7 @@ c. assisting in providing our services (for example, to process credit and debit
 d. assisting with loss prevention in cases of suspected fraud or theft.  
 • Provide your information to any company who may purchase some or all of Outback Steakhouse’s assets in the future; and  
 • Where required by law or to comply with a valid legal process (such as a search warrant, subpoena or court order), to protect Outback's rights or property, or to respond to emergencies when safety is a risk, it may be necessary to disclose your information to third parties.  
-• Enforce the incorporated policies and [Terms and Conditions](https://web.archive.org/web/20121214021813id_/http%3A//www.outback.com/companyinfo/termsandconditions.aspx) of use, to comply with legal obligations, and otherwise manage our business.
+• Enforce the incorporated policies and [Terms and Conditions](https://web.archive.org/web/20130411022805id_/http%3A//outback.com/companyinfo/termsandconditions.aspx) of use, to comply with legal obligations, and otherwise manage our business.
 
 Outback Steakhouse’s may combine personal and non-personal information we collect or obtain with other information we obtain from third parties. We may transfer your information to Outback Steakhouse’s partners and affiliates for this purpose. Outback Steakhouse’s may also share aggregated information that cannot be used to identify you with our clients and business partners.
 
@@ -99,10 +99,10 @@ We strive to create an online and offline environment that is respectful of fami
 If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us, please contact us. A parent or guardian of a child under the age of 13 may review and request deletion of the child’s personally identifiable information and prohibit its use.
 
 Policy Effectiveness and Changes  
-By using our website, using our mobile applications or otherwise providing us with your personal information, you agree to the terms of this Privacy Policy. Additionally, this Privacy Policy incorporates our [Terms of Use](https://web.archive.org/web/20121214021813id_/http%3A//www.outback.com/companyinfo/termsandconditions.aspx). We reserve the right to modify this Privacy Policy at any time, so please review it from time to time. If we decide to change our Privacy Policy, we will post the changes here and other reasonable places in order to make you aware of the changes.
+By using our website, using our mobile applications or otherwise providing us with your personal information, you agree to the terms of this Privacy Policy. Additionally, this Privacy Policy incorporates our [Terms of Use](https://web.archive.org/web/20130411022805id_/http%3A//outback.com/companyinfo/termsandconditions.aspx). We reserve the right to modify this Privacy Policy at any time, so please review it from time to time. If we decide to change our Privacy Policy, we will post the changes here and other reasonable places in order to make you aware of the changes.
 
 Reporting  
-Any improper collection or misuse of information in violation of this Privacy Policy or Outback Steakhouse’s [Terms of Use](https://web.archive.org/web/20121214021813id_/http%3A//www.outback.com/companyinfo/termsandconditions.aspx) should be reported by e-mail to [news@Outback.com](mailto:news@Outback.com).
+Any improper collection or misuse of information in violation of this Privacy Policy or Outback Steakhouse’s [Terms of Use](https://web.archive.org/web/20130411022805id_/http%3A//outback.com/companyinfo/termsandconditions.aspx) should be reported by e-mail to [news@Outback.com](mailto:news@Outback.com).
 
 Contact Us  
 If you have any questions or concerns regarding the Outback Steakhouse’s Privacy Policy or practices, you can contact one of our customer representatives by e-mail at [news@Outback.com](mailto:news@Outback.com), or write us at:
