@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homechoice.co.za privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231054712id_/http%3A//www.homechoice.co.za/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homechoice.co.za privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411133159id_/http%3A//www.homechoice.co.za/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | HomeChoice
 
 privacy policy 
 
