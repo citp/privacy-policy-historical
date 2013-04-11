@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automated-paydays.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015004509id_/http%3A//www.automated-paydays.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automated-paydays.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411202713id_/http%3A//www.automated-paydays.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Getting Started - Automated Paydays
 
@@ -40,7 +40,7 @@ We use the information held about you in the following ways:
 
 We may also use your data to inform you and provide information on goods and services that may be of interest to you. We may also permit selected third parties to use your data for the same reason.
 
-If you do not want your data used in this way or passed onto third parties for marketing purposes please email [support@automated-paydays.com](mailto:support@automated-paydays.com). Please allow 7-10 days for your account to be updated.
+If you do not want your data used in this way or passed onto third parties for marketing purposes please email [support@automatedpaydays.com](mailto:support@automatedpaydays.com). Please allow 7-10 days for your account to be updated.
 
 #### DISCLOSURE OF YOUR INFORMATION
 
@@ -68,6 +68,6 @@ This policy may change from time to time. Please visit this page for changes.
 
 #### CONTACT
 
-If you have questions about our privacy policy or any other questions about our website or services then please contact us via email at [support@automated-paydays.com](mailto:support@automated-paydays.com).
+If you have questions about our privacy policy or any other questions about our website or services then please contact us via email at [support@automatedpaydays.com](mailto:support@automatedpaydays.com).
 
 We have a fantastic Customer Care team, who will be glad to help you with any queries you have, whether large or small.
