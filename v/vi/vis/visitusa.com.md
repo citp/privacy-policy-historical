@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the visitusa.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016092719id_/http%3A//www.visitusa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitusa.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411055452id_/http%3A//www.visitusa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Visit USA - Privacy Policy
 
----  
 | **Privacy Assured** |   
 ---|---  
 TravelAffiliatePro.com absolutely guarantees your privacy when you use our services. Although we must gather some personal information in order to complete your hotel room reservation, we will zealously protect this information and will never reveal it except as specified in this policy. We will never abuse your trust or misuse your personal information.  
@@ -27,10 +26,11 @@ Travelaffiliatepro.com guarantees secure, fraud-free reservations of hotel rooms
 
 Although we absolutely guarantee your privacy and safety, we recommend that you follow commonsense online safety rules when making reservations through the Internet, at Travelaffiliatepro.com or anywhere else. We recommend that you install up-to-date anti-fraud and anti-virus software in order to prevent computer hackers from transferring your information to illicit users.  
   
-****  
-  
+| **** |   
+---|---  
 Throughout your visits to TravelAffiliatePro.com, we store general, anonymous data about your activity and your personal information. This information is not connected to you specifically; we gather this data in order to analyze users' needs, profiles, and patterns of behavior so that we can understand our clients better, improve our website, and enhance your experience with Travel Affiliate Pro.  
-  
+|  |   
+---|---  
 TravelAffiliatePro.com uses cookies, which are small pieces of text that store general information about your visits. Cookies are a standard Web function and are not malware, adware, spyware, or any type of virus. We use cookies to analyze aggregate user data and to control what advertisements you see on our site. Cookies never store your sensitive personal data such as credit card information. 
 
 You can disable cookies on your Web browser by changing your browsing options or settings.  
