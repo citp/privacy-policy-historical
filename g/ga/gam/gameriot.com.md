@@ -1,55 +1,61 @@
-> *The following text is extracted and transformed from the gameriot.com privacy policy that was archived on 2008-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080414125514id_/http%3A//www.gameriot.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameriot.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411145032id_/http%3A//www.giantrealm.com/privacy.html) for the most accurate reproduction.*
 
-# Home | GAMERIOT
+# Privacy - GIANT REALM
 
-This Privacy Statement sets forth the information gathering, use, and dissemination practices of GameRiot, its affiliate and subsidiary companies ("GameRiot") in connection with its Web site located at www.GameRiot.com (the "Site"). This Privacy Statement addresses GameRiot's practices regarding information collected only directly through or from the Site - it does not address or govern any information gathering, use, or dissemination practices related to information collected from the visitor (sometimes referred to as "you" or "your") other than directly through or from the Site, including, without limitation, from or via telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. This Privacy Statement is incorporated into [GameRiot's Statement of Use](https://web.archive.org/legal/terms/) by reference, as if set forth fully therein, which must be reviewed and accepted by you.
+Giant Realm respects your right to the privacy of the personal information you provide us on our web sites.  The following policy is intended to explain how your personal information will be treated as you make use of our site. Personal information includes your name, e-mail addresses, click-through activity and any other personal information you may provide here.  
 
-**1\. Collection of Personal Information from Site Visitors**
 
-Please be aware that the Site is a general audience web site, not directed to children under the age of 13, and must not be used by children under 13. GameRiot and the Site take important measures to comply with the Children's Online Privacy Protection Act (COPPA). If you are the parent of a child under the age of 13 who you believe is accessing the Site or contributing personal information wittingly or unwittingly to GameRiot or the Site, contact GameRiot immediately as set forth in Section 4, so that we may restrict access and destroy such information. 
+## Ownership
 
-Subject to the foregoing, GameRiot may collect or track (1) the home server domain names, e-mail addresses, type of client computer, files downloaded, search engine used, operating system, and type of Web browser of visitors to the Site, (2) the e-mail addresses of visitors that communicate with GameRiot via e-mail, (3) information knowingly provided by the visitor in online forms, registration forms, contest entries, surveys, e-mail, and other online avenues (including, without limitation, demographic and personal profile data), and (4) aggregate and user-specific information regarding which pages Site visitors access. 
+Giant Realm is owned by Burst Media and uses the company’s ad serving technology to manage advertising that appears on the site.   Burst Media’s privacy policy can be viewed here <http://www.burstmedia.com/privacy.html>.    
 
-GameRiot may place Internet "cookies" on visitors' hard drives. Internet cookies save data about individual visitors, such as the visitor's name, password, user-name, shopping cart, screen preferences, and the pages of a site viewed by the visitor. When the visitor revisits the Site, GameRiot may recognize the visitor by the Internet cookie and customize the visitor's experience accordingly. Visitors may decline Internet cookies, if any, by using the appropriate feature of their Web client software, if available. 
 
-GameRiot also may use Web bugs to gather, store, and track certain information related to your visit to and activity on the Site. A Web "bug" is a file object, which can be a graphic image such as a transparent one pixel-by-one pixel graphics file, which is placed on a Web page or in an e-mail message to monitor user activity. A Web bug can gather, for example, the IP address of your computer, the time the Web page was viewed, and the type of browser used. 
+##  Privacy
 
-When a visitor performs a search within the Site, GameRiot, without limitation, may record information identifying the visitor or linking the visitor to the search performed. GameRiot may also record limited information for every search request and use that information to solve technical problems with the services available directly or indirectly in connection with the Site and to calculate overall usage statistics.
+All users who receive an ad served by Giant Realm retain complete anonymity where Giant Realm is concerned. As ads are delivered, Giant Realm does not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private property. Giant Realm does, however, collect information that is specific to how you use the Internet. This non-personally identifying information can include, and is not limited to, the server you are logged onto, the geographic location of the ISP you use, the type of browser you use, and your IP address. This information is obtained solely for the purpose of targeting ads and measuring a given ad's effectiveness on behalf of Giant Realm clients and customers.  
+There are instances where a user may provide specific personal information in response to an ad containing a survey, purchase agreement, or registration questionnaire. For such programs, Giant Realm (or a third party working in conjunction with Giant Realm and the advertiser) acquires this information on behalf of the advertiser client. The client uses this information to deliver the goods or services requested by the user. When requested, Giant Realm may employ this information in a compiled format without identifying users specifically to provide to the advertiser client precise profiles of the types of individuals responding to the ads.  
 
-**2\. Use of Personal Data Collected**
 
-Personal data collected by GameRiot may be used by GameRiot for many reasons, for example, for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of users' behavior, for product development, for content improvement, for fulfillment of a requested transaction or recordkeeping, or to customize the content and layout of the Site. Aggregate data on visitors' home servers may be used for internal purposes, and individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to GameRiot may be added to GameRiot's databases and used for future calls and mailings regarding Site updates, new products and services, and upcoming events. 
+##  Use of Giant Realm Cookies 
 
-GameRiot also may use Site visitor data to contact the Site visitors regarding account status and changes to the subscriber agreement (if applicable), Privacy Statement, and any other policies or agreements relevant to Site visitors.
+Giant Realm may use cookies to improve your Web browsing experience. A cookie is a small text file that is stored on your computer for the purpose of identifying your web browser. When you are served a Giant Realm ad, Giant Realm may assign in a cookie various information on ads you've seen, information on sites you've visited and activities performed to your computer browser. We do this to understand the way a user responds to the ads we deliver. For example, this information lets us keep track of how many times you view an ad we distribute. Likewise, the cookie can help make sure you do not see the same ad over and over - thus enhancing your online Web viewing experience.  
+Giant Realm Media collects this information via our technology and it may be stored for up to 2 years for the purpose of: 1) analyzing campaign results, 2) ensuring that our technology is functioning properly, and 3) preventing fraud across our sites.
 
-**3\. Disclosure of Personal Data to Third Parties**
+We do not link the information we store in cookies to any personally identifiable information you submit while on our site or our member sites. We may obtain anonymous information about you - such as sites you have visited or products you have researched - from third-party sources, and combine it with data that we have collected to better target advertising that match your interests. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that use if you desire.  
 
-Aggregate data on visitors' home servers and individually identifying information, such as names, postal and e-mail addresses, phone numbers, may be provided to third parties such as marketing firms. 
 
-Identifiable and non-identifiable visitor information and data which visitors provide to GameRiot may be provided to third parties who provide products, information, or services which GameRiot believes that visitors may be interested in directly or indirectly purchasing or obtaining. Identifiable or non-identifiable data also may be disclosed or distributed to another party with which GameRiot enters or reasonably may enter into a corporate transaction, such as, for example, a merger, consolidation, acquisition, or asset purchase, or to a third party pursuant to a subpoena, court order, or other form of legal process, in response to a request by or on behalf of any local, state, federal, or other government agency, department, or body, whether or not pursuant to a subpoena, court order, or other form of legal process, or if determined by GameRiot in its sole judgment that such disclosure or distribution is appropriate to protect the life, health, or property of GameRiot or any other person or entity. 
+In an effort to respect your privacy, Giant Realm, through its association with Burst Media, gives all internet users the choice to opt-out of receiving Giant Realm cookies. If you would like to opt out, please visit Burst Media’s Cookie Opt-out Program at [www.burstmedia.com/optout.html](http://www.burstmedia.com/optout.html). Alternatively, you may also choose to opt out of receiving Giant Realm cookies through the Network Advertising Initiative's [Consumer Opt-Out Program](http://www.networkadvertising.org/managing/opt_out.asp).  
 
-While GameRiot may undertake efforts to see that any third party to which GameRiot shares, rents, sells, or otherwise discloses personal data is under a contractual obligation to use the personal data solely for the purposes for which the data was disclosed, such third parties are independent third parties over which GameRiot exercises no control. GameRiot is not responsible for, and will not be liable for, their conduct, actions, omissions, or information handling or dissemination practices. 
 
-This Site may contain links to other World Wide Web sites or advertisements for or placed by third parties. GameRiot is not responsible for the privacy practices of such Web sites, advertisers, or third parties, or for the content of such sites or advertisements. It is possible that these links or advertisements, themselves, may be used by third parties or others to collect personal or other information about Site visitors. It is solely the visitor's obligation to review and understand the privacy practices and policies of these other Web sites and of these advertisers and third parties.
+##  Other Disclosure of Personal Information 
 
-**4\. Security Measures and Communicating with GameRiot**
+Giant Realm will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any public forum within our Web site.  
 
-GameRiot has implemented numerous security features that are designed to prevent the unauthorized release of or access to personal information. For example, GameRiot undertakes all efforts to maintain a secure server; does not store any user credit card information; and requires certain employees and service providers who work for or with GameRiot to sign confidentiality agreements restricting their use of any data related to user information. However, the confidentiality of any communication or material transmitted to or from GameRiot via this Site or e-mail cannot be and is not guaranteed. Accordingly, GameRiot is not responsible for the security of information transmitted via the Internet. Instead of communicating with GameRiot via e-mailing [legal@GameRiot.com](mailto:legal@GameRiot.com) or the Internet, visitors can contact GameRiot by regular mail at 254 West 31st Street, 8th Floor, New York, NY 10001, United States, or by phone at (212) 488-1740.
 
-**5\. Comments, Notices and Chat Rooms**
+## Other Sites
 
-Comments posted to any of our Web pages are public. With respect to chat rooms, GameRiot does not, and is not obligated to, monitor or review any areas on the Site, or the content therein, where users transmit or post communications or communicate with each other regarding GameRiot or content on the Site, including but not limited to, communications in chat rooms, bulletin boards or other user forums. Please refer to Section 1 of the [Statement of Use](https://web.archive.org/legal/terms/) for further detail concerning Materials Submitted to the Site. As such, GameRiot assumes no liability for the accuracy of such information, no duty to update or correct such information, and no liability for such communications arising under the laws of copyright, libel, privacy, obscenity, or otherwise.
+Giant Realm contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.  
 
-**6\. Opt-Out Right**
 
-Except as necessary for GameRiot to provide the services, information, or products requested by a visitor, the visitor may opt out of having his or her personally identifiable information, which has been voluntarily provided to GameRiot through online forms, registration forms, contest entries, surveys, e-mail, or another online avenue, prospectively retained by GameRiot, used by GameRiot for secondary purposes, or disclosed by GameRiot to third parties, by contacting GameRiot via postal mail, e-mail, or telephone at the addresses set out above. (This does not apply to collection of the type of Web browser of the visitor to the Site or to information provided or collected that does not meet the description in this Section 6.)
+## Third Parties
 
-**7\. Access to and Ability to Correct Personal Data**
+Often, advertisers will employ a third-party service provider other than Giant Realm for serving the advertisements and for tracking the performance of an ad program. These companies may employ cookie and 1x1 pixel technology to measure and improve the effectiveness of ads for their client. These companies may collect and use anonymous information about your visits to our member websites and other websites. The information collected can include:
 
-Upon a visitor's request via postal mail, e-mail, or telephone, GameRiot will provide to the visitor a summary of any personally identifiable information retained by GameRiot regarding the visitor that has been voluntarily provided by the visitor to GameRiot through online forms, registration forms, contest entries, surveys, e-mail, or another online avenue. A visitor may modify, correct, change or update his or her personally identifiable information by contacting GameRiot via postal mail, e-mail, or telephone at the addresses or numbers above.
+  1. Date/time of your visit
+  2. The banner ad that was shown
+  3. Unique user ID
+  4. Your IP address
+  5. The URLs of sites you visit
 
-**8\. Right to Change Privacy Statement**
 
-GameRiot may change this Privacy Statement at any time. Notice of any new or revised Privacy Statement, as well as the location of the new or revised statement, will be posted on the Site for at least 60 days after the change. It is the obligation of users returning to the Site to learn of changes to the Privacy Statement since their last visit. Any change to this Privacy Statement shall be effective as to any visitor who has visited the Site before the change was made.
 
-**This Privacy Policy is effective February 23, 2007.**
+This information can also be used for online preference marketing ("profiling") purposes. In these instances, Giant Realm has no control over the information collected by the third-party, and may not be held responsible for the actions of the third-party measurement service where collected information is concerned.  
+
+
+##  Notifications of Changes
+
+If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+Giant Realm c/o Burst Media  
+8 New England Executive Park  
+Burlington, MA 01803
