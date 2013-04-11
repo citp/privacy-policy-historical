@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezydvd.com.au privacy policy that was archived on 2012-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121110101635id_/http%3A//www.ezydvd.com.au/info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezydvd.com.au privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411020216id_/http%3A//www.ezydvd.com.au/info/PrivacyPolicy) for the most accurate reproduction.*
 
 # EzyDVD - Australia's first and largest online DVD and Blu-ray store
 
@@ -60,7 +60,7 @@ Many account holders often forget details such as their passwords and so are abl
 ### Information Security
 
   * All information submitted to EzyDVD.com.au is secured using Secure Sockets Layer (SSL)
-  * Customer credit card details are only used to process payment and are not saved in the EzyDVD.com.au system, we use eWAY to guarantee the best possible security for our online transactions. eWAY has multiple firewalls to protect important data and features 1024 bit data encryption. No credit card information is stored on EzyDVD's web servers.
+  * Customer credit card details are only used to process payment and are not saved in the EzyDVD.com.au system, we use eWAY to guarantee the best possible security for our online transactions. eWAY has multiple firewalls to protect important data and features 1024 bit data encryption. Your credit card information is stored on EzyDVD's web servers.
   * Information sitting on the EzyDVD.com.au website is protected by state-of-the-art encryption and firewall technology
 
   
