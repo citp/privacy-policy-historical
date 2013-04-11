@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newrez.com privacy policy that was archived on 2012-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120810200800id_/http%3A//www.newrez.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newrez.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411160616id_/http%3A//www.newrez.com/home/pp.php) for the most accurate reproduction.*
 
-# Newrez - Privacy Policy
+# Privacy policy - Newrez
 
-This privacy policy sets out how Newrez.com uses and protects any information that you give Newrez.com when you use this website. Newrez.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Newrez.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 31st of July, 2012.
+This privacy policy sets out how Newrez.com uses and protects any information that you give Newrez.com when you use this website. Newrez.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Newrez.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 10th of June, 2012.
 
 ### What we collect
 
