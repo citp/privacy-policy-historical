@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226015613id_/http%3A//www.wendys.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412081242id_/http%3A//www.wendys.com/privacy.jsp) for the most accurate reproduction.*
 
 # Wendy's
 
-  *   * [CONTACT US](https://web.archive.org/web/20121226015613id_/http%3A//www.wendys.com/contact.jsp)
-  * [PRIVACY POLICY](https://web.archive.org/web/20121226015613id_/http%3A//www.wendys.com/privacy.jsp)
-  * [TERMS OF USE](https://web.archive.org/web/20121226015613id_/http%3A//www.wendys.com/legal.jsp)
+  *   * [CONTACT US](https://web.archive.org/web/20130412081242id_/http%3A//www.wendys.com/contact.jsp)
+  * [PRIVACY POLICY](https://web.archive.org/web/20130412081242id_/http%3A//www.wendys.com/privacy.jsp)
+  * [TERMS OF USE](https://web.archive.org/web/20130412081242id_/http%3A//www.wendys.com/legal.jsp)
 
 |  | 
 
@@ -38,7 +38,7 @@ Welcome. This Policy is designed to help you understand generally how wendys.com
 
 ### 1\. How Does This Policy Relate to Use of the Site?
 
-This Policy is part of and incorporated into the wendys.com Terms of Use ("Terms of Use"), which is the contract between you and Wendy's governing use of the Site. Parts of the [Terms of Use](https://web.archive.org/web/20121226015613id_/http%3A//www.wendys.com/legal.jsp) affect this Policy, so, unless you have already done so, please review them prior to using the Site. Terms used but not defined in this Policy have the definitions in the Terms of Use.
+This Policy is part of and incorporated into the wendys.com Terms of Use ("Terms of Use"), which is the contract between you and Wendy's governing use of the Site. Parts of the [Terms of Use](https://web.archive.org/web/20130412081242id_/http%3A//www.wendys.com/legal.jsp) affect this Policy, so, unless you have already done so, please review them prior to using the Site. Terms used but not defined in this Policy have the definitions in the Terms of Use.
 
 This Policy is supplemented by additional policies relevant to particular activities, and each of the supplemental policies will also apply and should be read together with this Policy. Here are examples of areas in which you will encounter supplemental privacy policies but this list is not complete: a supplemental policy may be included within this Policy (e.g., the Careers Policy), elsewhere on the Site with respect to a particular activity, or on a third party site relating to Wendy's business (e.g., Wendy's Advisors Panel). To the extent the supplemental policies are not set forth within this Policy, they are incorporated into this Policy.
 
@@ -112,7 +112,7 @@ Back to top
 
 ### 11\. Amendments
 
-We will be changing what we do and how and why we Disclose data periodically—this Policy describes what we currently envision, but that will change as we change. You agree that this Policy amends and replaces any previous privacy policies and applies retroactively. We may further amend all or part of this Policy in the same way that we make amendments to our [Terms of Use](https://web.archive.org/web/20121226015613id_/http%3A//www.wendys.com/legal.jsp) and such amended versions will be posted on this page. USE OF THE SITE AFTER THE EFFECTIVE DATE WILL CONSTITUTE YOUR CONSENT TO THE AMENDMENTS, SO IF YOU DO NOT WANT TO BE BOUND BY AN AMENDED VERSION, DO NOT USE THE SITE AND CEASE ALL USE OF THE CONTENT OR SERVICES.
+We will be changing what we do and how and why we Disclose data periodically—this Policy describes what we currently envision, but that will change as we change. You agree that this Policy amends and replaces any previous privacy policies and applies retroactively. We may further amend all or part of this Policy in the same way that we make amendments to our [Terms of Use](https://web.archive.org/web/20130412081242id_/http%3A//www.wendys.com/legal.jsp) and such amended versions will be posted on this page. USE OF THE SITE AFTER THE EFFECTIVE DATE WILL CONSTITUTE YOUR CONSENT TO THE AMENDMENTS, SO IF YOU DO NOT WANT TO BE BOUND BY AN AMENDED VERSION, DO NOT USE THE SITE AND CEASE ALL USE OF THE CONTENT OR SERVICES.
 
 Back to top
 
@@ -132,7 +132,7 @@ Back to top
 
 Welcome. This Supplemental Privacy Policy—Careers ("Careers Policy") supplements the Privacy Policy for wendys.com ("Site"). It applies if you use the "Careers" section of the Site or if you allow or cause someone else to use it for you. We are an equal opportunity employer.
 
-This Careers Policy is part of our Privacy and Information Security Policy ("Privacy Policy") which is part of our [Terms of Use](https://web.archive.org/web/20121226015613id_/http%3A//www.wendys.com/legal.jsp); terms used but not defined in this Careers Policy are defined in those documents. CREATING AN ACCOUNT, SUBMITTING ANY INFORMATION RELATING TO A POSSIBLE JOB OPPORTUNITY, MAKING ANY APPLICATION(S), OR ALLOWING SOMEONE ELSE TO DO THAT FOR YOU, WILL BE YOUR CONSENT TO OUR TERMS OF USE, INCLUDING OUR PRIVACY POLICY AND THIS SUPPLEMENTAL POLICY, ALL AS AMENDED FROM TIME TO TIME.
+This Careers Policy is part of our Privacy and Information Security Policy ("Privacy Policy") which is part of our [Terms of Use](https://web.archive.org/web/20130412081242id_/http%3A//www.wendys.com/legal.jsp); terms used but not defined in this Careers Policy are defined in those documents. CREATING AN ACCOUNT, SUBMITTING ANY INFORMATION RELATING TO A POSSIBLE JOB OPPORTUNITY, MAKING ANY APPLICATION(S), OR ALLOWING SOMEONE ELSE TO DO THAT FOR YOU, WILL BE YOUR CONSENT TO OUR TERMS OF USE, INCLUDING OUR PRIVACY POLICY AND THIS SUPPLEMENTAL POLICY, ALL AS AMENDED FROM TIME TO TIME.
 
 **Information That We Collect in Careers.** In addition to the personal information that we collect on the Site generally, in the Careers section you may set up a "general account" so you can receive "job alerts." To create a general account, we will require you to supply your email address and create a user name, password and security question to allow you to access your account later. When you create a general account, we collect your name, address, education level. We also collect your job preferences such as, job level, schedule, availability to travel, job type and geographic area. If you create a general account, we will attempt to send you "job alerts" that might match your account, however, we have no obligation to do so.
 
