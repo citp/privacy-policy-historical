@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbe.org privacy policy that was archived on 2012-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120803063520id_/http%3A//images.pcmac.org/Uploads/BaldwinCounty/BaldwinCounty/Divisions/DocumentsSubCategories/Documents/Online%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbe.org privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412135437id_/http%3A//images.pcmac.org/Uploads/BaldwinCounty/BaldwinCounty/Divisions/DocumentsSubCategories/Documents/Online%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # BCBE Online Privacy Policy
 
