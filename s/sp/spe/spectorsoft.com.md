@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005072738id_/http%3A//www.spectorsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412070337id_/http%3A//www.spectorsoft.com/privacy.html) for the most accurate reproduction.*
 
 # SpectorSoft - Online Privacy Policy
 
@@ -15,7 +15,7 @@ Because SpectorSoft wants to demonstrate its commitment to your privacy, it has 
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact SpectorSoft Customer Service by E-mail at [info@spectorsoft.com](https://web.archive.org/web/20121005072738id_/http%3A//www.spectorsoft.com/products/productinquiry.asp).
+If you feel that this company is not abiding by its posted privacy policy, you should first contact SpectorSoft Customer Service by E-mail at [info@spectorsoft.com](https://web.archive.org/web/20130412070337id_/http%3A//www.spectorsoft.com/products/productinquiry.asp).
 
 Information Collection and Use
 
@@ -45,7 +45,7 @@ IP addresses are used by your computer every time you are connected to the Inter
 
 Sharing of Information
 
-SpectorSoft will never sell, rent, license, exchange, or share any data about you without your permission except under the following limited circumstances: (i) if SpectorSoft is required to do so by law, or (ii) SpectorSoft has the good faith belief that such action is necessary to conform to applicable laws or comply with legal process served on SpectorSoft, or to protect and defend the rights or property of SpectorSoft or to enforce the [Terms of Use](https://web.archive.org/web/20121005072738id_/http%3A//www.spectorsoft.com/terms.html). (iii) SpectorSoft reserves the right to disclose information to its strategic partners and service providers so that SpectorSoft may enhance the creation, distribution and support of its products. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys.
+SpectorSoft will never sell, rent, license, exchange, or share any data about you without your permission except under the following limited circumstances: (i) if SpectorSoft is required to do so by law, or (ii) SpectorSoft has the good faith belief that such action is necessary to conform to applicable laws or comply with legal process served on SpectorSoft, or to protect and defend the rights or property of SpectorSoft or to enforce the [Terms of Use](https://web.archive.org/web/20130412070337id_/http%3A//www.spectorsoft.com/terms.html). (iii) SpectorSoft reserves the right to disclose information to its strategic partners and service providers so that SpectorSoft may enhance the creation, distribution and support of its products. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys.
 
 Tell-A-Friend 
 
@@ -63,7 +63,7 @@ SpectorSoft customers will occasionally receive information on SpectorSoft produ
 
 Correction/Updating Personal Information
 
-If a customer's personal information changes (such as your email), we will endeavor to provide a way to correct, update or remove that user's personal information provided to us. This can be done emailing our [Customer Support](https://web.archive.org/web/20121005072738id_/http%3A//www.spectorsoft.com/products/productinquiry.asp).
+If a customer's personal information changes (such as your email), we will endeavor to provide a way to correct, update or remove that user's personal information provided to us. This can be done emailing our [Customer Support](https://web.archive.org/web/20130412070337id_/http%3A//www.spectorsoft.com/products/productinquiry.asp).
 
 Opt-out and Discontinue
 
