@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satbeams.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201162901id_/http%3A//www.satbeams.com/website/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satbeams.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412075130id_/http%3A//satbeams.com/website/privacy-statement) for the most accurate reproduction.*
 
 # SatBeams - Privacy Statement
 
