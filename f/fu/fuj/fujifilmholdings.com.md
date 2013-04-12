@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujifilmholdings.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210004759id_/http%3A//www.fujifilmholdings.com/en/privacy_policy/website_privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilmholdings.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412065700id_/http%3A//www.fujifilmholdings.com/en/privacy_policy/website_privacy_policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | FUJIFILM Holdings
 
