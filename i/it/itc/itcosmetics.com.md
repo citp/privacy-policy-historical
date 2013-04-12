@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itcosmetics.com privacy policy that was archived on 2012-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120725220621id_/https%3A//www.itcosmetics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcosmetics.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412230201id_/https%3A//www.itcosmetics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | It Cosmetics
 
