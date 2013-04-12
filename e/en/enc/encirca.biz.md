@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2012-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121019005205id_/http%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encirca.biz privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412110253id_/http%3A//www.encirca.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - EnCirca
 
@@ -16,7 +16,7 @@ We promise you that:
   * We will not share information you provide us without your permission.   
 
 **
-  * **You can unsubscribe from our service at any time.**
+  * **You can unsubscribe from our marketing communications at any time.**
 
 Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices for public review. 
 
@@ -49,6 +49,8 @@ EnCirca's policies and procedures are based on the eight internationally recogni
 **Use Limitation**
 
 EnCirca treats your personal information as confidential and does not disclose it or use it except as permitted by you, as described in this privacy policy, or as required by law, subpoena, court order, legal process or a warrant. 
+
+EnCirca will use your contact information, including email address, telephone number and/or postal address to communicate with you at various times, including, but not limited to: registration expirations, whois data acuracy reminders, transfers and marketing communications. You may opt out of marketing communications but not other communications required to process your order or under our Registrar Accreditation Agreement with ICANN. 
 
 If we are served with a civil subpoena seeking personal information about a EnCirca user, we will use reasonable efforts to notify the specified user of the request prior to disclosure of such personal information, so as to allow the user the opportunity to oppose the subpoena. 
 
