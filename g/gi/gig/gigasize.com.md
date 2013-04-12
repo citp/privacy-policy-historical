@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigasize.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016195859id_/http%3A//www.gigasize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigasize.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412024758id_/http%3A//www.gigasize.com/privacy) for the most accurate reproduction.*
 
 # GigaSize.com: Host and Share your files
 
