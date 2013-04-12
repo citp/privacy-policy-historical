@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excitedwives.com privacy policy that was archived on 2012-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121016050654id_/http%3A//www.wankpass.com/preview/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excitedwives.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412100424id_/http%3A//www.wankpass.com/preview/pp.html) for the most accurate reproduction.*
 
 # Untitled
 
