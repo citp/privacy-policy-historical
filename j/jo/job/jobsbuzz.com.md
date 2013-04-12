@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsbuzz.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006141028id_/http%3A//jobsbuzz.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsbuzz.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412232252id_/http%3A//www.jobsbuzz.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
