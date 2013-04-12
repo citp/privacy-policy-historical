@@ -1,72 +1,73 @@
-> *The following text is extracted and transformed from the micromoneymachines.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124024904id_/http%3A//www.guaranteedinternetincome.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromoneymachines.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412114742id_/http%3A//7opp.com/55-websites/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 55 Instant Websites
 
-**HOW WE PROTECT YOUR PRIVACY**
+## 7opp.com - Privacy Policy 
 
-This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
+1\. Our Commitment to Privacy. This Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy. 
 
-**MINORS**
+2\. What Information is Collected. 
 
-We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
+  1. Information You Provide to Us:  We collect the Personally Identifiable Information you choose to enter on various pages of our site, or that you may choose to give us in some other way (such as by email, physical mail, or by telephone). For example, you will be asked to provide Personally Identifiable Information when you register for access to certain portions of our site, sign up for newsletters or mailings, or make a purchase. The categories of Personally Identifiable Information we collect are your first and last name, e-mail address, physical address, and telephone number. You can choose not to provide certain information, but you may not be able to take advantage of our services and features. 
+  2. Automatic Information:  When you visit a website, you disclose certain information, such as your Internet Protocol (IP) address and the time of your visit. This site, like many other sites, records this basic information about visits to our site. 
+  3. “Cookies”:  Cookies are pieces of information that are transferred to your computer from a web server. We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart) record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors' browser type or other information that the visitor sends. Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies. 
 
-**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
 
-Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions on our website.
 
-**THE TYPE OF INFORMATION WE COLLECT FROM YOU**
+3\. How and When the Information is Used. The information we collect is used for administering our business activities as follows: 
 
-Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
+  1. to improve the content of our site; 
+  2. to customize the content and/or layout of site pages for each individual visitor; 
+  3. used to notify consumers about updates to our Web site; 
+  4. shared with other reputable organizations to help them contact consumers for marketing purposes; 
+  5. used by us to contact consumers for marketing purposes. 
 
-And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features.
 
-Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
+4\. How We Protect Your Information. The privacy and protection of your information is important to us. We offer some of our services in connection with other web sites. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Your access to some services and content is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and this policy. 
 
-**WHAT WE DO WITH YOUR INFORMATION**
+5\. Who Has Access to the Information. Information about our users is important to us. Access to your information may be provided to third parties who provide technical support for the operation of our site. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. We may also disclose your information in response to a court order and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure. 
 
-We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions.
+6\. Methods We Use to Protect Your Information. We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons. 
 
-As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
+7\. **Children's Privacy**. As administrators of this website, we are gravely serious about this issue. 
 
-We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
+While we allow no "adult" content on any of our websites, there also are no elements or attractions on our websites that are intended to be of interest to minor children. 
 
-Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes.
+We do not knowingly solicit, collect, nor database any type of information about minor children under the age of 18 years. If we find that we have information about any minor child or children in our database or elsewhere in our systems, that information will be deleted immediately and permanently.
 
-From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
+Here are some tips to  enhance your child's privacy and safety on the Internet: 
 
-**USER NAMES AND PASSWORDS**
+> * Teach children to **never give personal information about themselves or their friends** over the Internet, unless supervised by a parent or responsible adult.
+> 
+> A child's personal information includes but is not limited to:
+> 
+>   1. name  
+> 
+>   2. address  
+> 
+>   3. telephone numbers  
+> 
+>   4. email addresses  
+> 
+>   5. school  
+> 
+>   6. church  
+> 
+>   7. age   
+> 
+>   8. or any similar information about friends. 
+> 
 
-Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+> * Know the sites your children are visiting and which sites are appropriate. 
+> * Look for website privacy policies. Know how your child's information is handled by those websites. 
 
-**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
+Please visit the [U.S. Federal Trade Commission](http://ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) site for more tips on protecting children's privacy online.
 
-If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
+8\. How You Can Access Your Information. You can request access to all your personally identifiable information maintained by us by sending an e-mail to us at the address listed below. Upon request we offer you the ability to have inaccuracies corrected in your personally identifiable information. You can have this information corrected by sending us an e-mail at the address listed below. 
 
-We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems. 
+9\. Consent. By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy. 
 
-**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
+10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change. 
 
-You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
-
-**AUTORESPONDERS**
-
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to info[at]internetmarketer.com, or sending us mail to the address listed below. 
-
-**POLICY CHANGES**
-
-The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
-
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to info[at]internetmarketer.com and providing us with information relating to your concern.
-
-You may also mail your concerns to us at the following address:
-
-Internet Marketer Pte Ltd  
-122 Middle Road, #06-04  
-Midlink Plaza  
-Singapore 188973
-
-This privacy policy was last updated on 22-08-2011.
-
-Copyright © 2008-2009 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at GuaranteedInternetIncome.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+11\. Revision. This Privacy Policy was revised on 1 January 2010 
