@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisegames1.com privacy policy that was archived on 2012-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121020083718id_/http%3A//www.wisegames1.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisegames1.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412082215id_/http%3A//www.wisegames1.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wise Games
 
