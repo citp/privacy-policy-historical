@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailygrommet.com privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212065925id_/http%3A//www.dailygrommet.com/products/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailygrommet.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412043750id_/http%3A//www.dailygrommet.com/products/privacy) for the most accurate reproduction.*
 
 # Privacy
 
