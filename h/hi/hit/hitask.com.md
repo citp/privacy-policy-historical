@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitask.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919202356id_/http%3A//hitask.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitask.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412073524id_/http%3A//hitask.com/en/privacy) for the most accurate reproduction.*
 
 # HiTask: Privacy policy
 
