@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnygaga.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217062803id_/http%3A//funnygaga.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnygaga.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413232548id_/http%3A//funnygaga.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Funnygaga.com
 
