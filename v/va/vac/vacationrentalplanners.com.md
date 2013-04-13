@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the vacationrentalplanners.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920064455id_/http%3A//www.vacationrentalplanners.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationrentalplanners.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413031140id_/http%3A//www.vacationrentalplanners.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Vacation Rental Planners
-
-[](http://www.vacationrentalplanners.com/ "Welcome to Vacation Rental Planners, the best vacations are planned here.")
-
-[](http://www.vacationrentalplanners.com/join.php "Save on your next vacation trip using Vacation rental planners")
-
-[](http://www.google.co.in/url?sa=t&rct=j&q=vacationrentalplanners&source=web&cd=8&ved=0CGYQFjAH&url=http%3A%2F%2Fwww.facebook.com%2Fvacationrentalplanners&ei=f1ZnT9DeCcrprAejqty8Bw&usg=AFQjCNEs611ApRtYgfWf8ViuBeYWynibAg "View our Facebook page")  [](https://twitter.com/VRPVacationRent "Follow us on Twitter")  [](https://plus.google.com/104149693068198648776/ "Follow us on Google Plus") [](https://pinterest.com/vrplanners/ "Follow us on Pinterest")
-
-Best Vacations Are Planned Here 
 
 01\. **Collection of information and it's protection**
 
