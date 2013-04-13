@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infographicfile.com privacy policy that was archived on 2012-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121002185902id_/http%3A//infographicfile.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infographicfile.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414000019id_/http%3A//www.infographicfile.com/pages/privacy) for the most accurate reproduction.*
 
 # Infographics and Data Visualization | Infographic File
 
