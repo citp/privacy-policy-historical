@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetlocalclassifieds.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524061144id_/http%3A//www.internetlocalclassifieds.com/Privacy%2520Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetlocalclassifieds.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413205544id_/http%3A//internetlocalclassifieds.com/Privacy%2520Policy.php) for the most accurate reproduction.*
 
 # InternetLocalClassifieds.com: Privacy Policy
 
