@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deke.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014064356id_/http%3A//www.deke.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deke.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413163014id_/http%3A//www.deke.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | dekeOnline
 
