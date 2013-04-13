@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizisense.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230055000id_/http%3A//vizisense.com/basic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizisense.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413063732id_/http%3A//www.vizisense.com/basic/privacy) for the most accurate reproduction.*
 
 # ViziSense :: Privacy Policy
 
