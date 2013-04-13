@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candofinance.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120171317id_/http%3A//www.candofinance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candofinance.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413052335id_/http%3A//www.candofinance.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Can Do Finance
 
