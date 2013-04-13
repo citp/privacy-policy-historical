@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficeradicator.com privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006082623id_/http%3A//www.trafficeradicator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficeradicator.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413125346id_/http%3A//www.trafficeradicator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trafficeradicator
 
