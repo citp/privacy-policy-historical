@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philippinepetfinder.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519230627id_/http%3A//philippinepetfinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philippinepetfinder.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413074828id_/http%3A//www.philippinepetfinder.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,5 +15,3 @@ This web site offers forums.  Please be inform that information posted in these
 Like many websites, Philippine Pet Finder use "cookies" to enhance the clients experience and gather information about visitors and visits to our websites. Cookies are small programs that enhance your use of the Internet, in general, and specifically Philippine Pet Finder use cookies to enhance your usage of our functions.
 
 The Privacy Policy can be motified anytime without notice to the client.
-
-Comments (0)
