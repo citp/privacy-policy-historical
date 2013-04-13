@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030230523id_/http%3A//www.thetrumpet.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413110317id_/http%3A//www.thetrumpet.com/help/privacy) for the most accurate reproduction.*
 
 # Help - Privacy Policy - theTrumpet.com
 
-### Privacy Policy
+### Política de privacidad
 
 The www.theTrumpet.com site is produced and sponsored by the Philadelphia Church of God (PCG). Various information is collected from our site. The following provides details on how the information is collected and used.
 
