@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yeties.com privacy policy that was archived on 2012-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120907010251id_/http%3A//yeties.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeties.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413044508id_/http%3A//www.yeties.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Protecting your privacy is important to [Yeties Open Directory](http://www.yeties.com/home.html).
+Protecting your privacy is important to [Yeties Open Directory](http://www.yeties.com/).
 
 This Privacy Policy explains how Yeties Open Directory collects, uses, and discloses the personal information you may provide while using Yeties Open Directory (the "Website") and the services provided through the Website. It is always your choice whether or not to provide personal information through the Website. Any personal information you provide will be treated in accordance with this Privacy Policy.
 
@@ -22,7 +22,7 @@ Some of the banner ads displayed in the Website are provided by outside companie
 
 _4\. Your Personal Information_ \- During your use of the Website, you may be asked to voluntarily provide personal information (such as your name, e-mail address, and address) for communications with you. If you choose not to provide certain requested personal information, you may not be able to use certain features of the Website.
 
-_5\. Use of Your Personal Information_ \- Yeties Open Directory may use your personal information to contact and correspond with you, respond to your communications, provide services to you, facilitate and enhance your use of the Website, and as otherwise permitted by law. Additionally, Yeties Open Directory[ ](http://www.yeties.com/home.html)may keep a record of all communications with you.
+_5\. Use of Your Personal Information_ \- Yeties Open Directory may use your personal information to contact and correspond with you, respond to your communications, provide services to you, facilitate and enhance your use of the Website, and as otherwise permitted by law. Additionally, Yeties Open Directory[ ](http://www.yeties.com/)may keep a record of all communications with you.
 
 Yeties uses third-party advertising companies to serve ads when you visit its Website. These companies may use information (not including your name, address, email address or telephone number) about your search queries and visits to the Website and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp).
 
@@ -46,7 +46,7 @@ _11\. Securing Your Information_ \- To help protect the confidentiality of your 
 
 _12\. Accessing Your Personal Information_ \- You may request access to your personal information and information about Yeties Open Directory's collection, use and disclosure of that information by sending your request using the Yeties Open Directory contact form. Subject to certain exceptions prescribed by law, you will be given reasonable access to your personal information within a reasonable time, and to amend it as appropriate. Yeties Open Directory attempts to keep its records as accurate and complete as possible.
 
-_13\. Other Websites_ \- The Website may contain links to other sites or internet resources. When you click on one of those links you are contacting another website. [Yeties](http://www.yeties.com/home.html) has no responsibility or liability for or control over those other websites or their collection, use and disclosure of your personal information.
+_13\. Other Websites_ \- The Website may contain links to other sites or internet resources. When you click on one of those links you are contacting another website. [Yeties](http://www.yeties.com/) has no responsibility or liability for or control over those other websites or their collection, use and disclosure of your personal information.
 
 _14\. Terms and Conditions_ \- The [Yeties Open Directory Terms and Conditions](http://www.yeties.com/terms-and-conditions.html) agreement contains important provisions, including provisions disclaiming, limiting or excluding Yeties Open Directory's liability for your use of the Website and provisions determining the applicable law and exclusive jurisdiction for the resolution of any disputes regarding the Website. Each of those provisions applies to any disputes that may arise in relation to this Privacy Policy or Yeties Open Directory's collection, use and disclosure of your personal information, and shall be of the same force and effect as if they had been reproduced directly in this Privacy Policy.
 
