@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qples.com privacy policy that was archived on 2012-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121203060527id_/http%3A//www.qples.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qples.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414093419id_/http%3A//www.qples.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,9 +119,8 @@ E-MAIL: [privacy@Qples.com](mailto:privacy@Qples.com)
 POSTAL MAIL:  
 Qples, INC..  
 Attn: Privacy  
-5420 LBJ Freeway, Suite 577  
-Dallas, TX  75240  
-USA
+5930 Royal Lane, Suite 381  
+Dallas, TX  75230
 
 If you change your e-mail or postal address, please contact Qples. In order to make the appropriate corrections, please include both your old and new address.
 
