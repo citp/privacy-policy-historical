@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022023815id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414043838id_/http%3A//www.lollapalooza.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Lollapalooza 2013 | August 2-4, 2013 : Grant Park : Chicago, IL
 
