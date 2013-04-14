@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008002431id_/https%3A//www.buyusa.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414123055id_/https%3A//www.buyusa.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
 
 # Export.gov - Privacy Policy
 
