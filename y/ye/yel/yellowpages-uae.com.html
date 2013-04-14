@@ -1,16 +1,14 @@
-<!--The following is the downloaded HTML source of the yellowpages-uae.com privacy policy that was archived on 2012-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121227074309id_/http%3A//www.yellowpages-uae.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yellowpages-uae.com privacy policy that was archived on 2013-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130414202651id_/http%3A//www.yellowpages-uae.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy - Yellow Pages UAE
-</title><link rel="shortcut icon" href="http://www.yellowpages-uae.com/favicon.ico?v=2"><meta http-equiv="X-UA-Compatible" content="IE=8"><meta http-equiv="content-type" content="text/html; charset=utf-8"><link href="/style/style.css" rel="stylesheet" type="text/css">
+</title><link rel="shortcut icon" href="/favicon.ico?v=2"><meta http-equiv="X-UA-Compatible" content="IE=8"><meta http-equiv="content-type" content="text/html; charset=utf-8"><link href="/style/jquery-ui.css" rel="stylesheet" type="text/css"><link href="/style/style.css?v=2" rel="stylesheet" type="text/css">
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/jscript/jquery-1.7.1.min.js" type="text/javascript"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/jscript/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script src="/jscript/jquery-ui-1.8.21.custom.min.js" type="text/javascript"></script>
 	<script src="/jscript/jquery.colorbox.js" type="text/javascript"></script>
-	<script src="/jscript/jquery.autocomplete.js" type="text/javascript"></script>
-	<script src="/jscript/jquery.toggleval.js" type="text/javascript"></script>
-	
-	<script src="/jscript/common.js" type="text/javascript"></script>
+	<script src="/jscript/common.js?v=2" type="text/javascript"></script>
 	<!--[if lte IE 6]>
 		<script type="text/javascript" src="/jscript/pngfix.js"></script>
 	<![endif]--> 
@@ -37,6 +35,9 @@
     </script>
 </head>
 <body>
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">                                                                                                _atrk_opts = { atrk_acct: "O2Kbh1awA400a+", domain: "yellowpages-uae.com" }; atrk();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=O2Kbh1awA400a+" style="display:none" height="1" width="1" alt="" /></noscript>
+    <!-- End Alexa Certify Javascript -->
 	<div id="mainbody">
 		
 		<div id="header">
@@ -49,7 +50,7 @@
 							<li><div><a href="/">Home</a></div></li>
 							<li><div><a href="/about.aspx">About</a></div></li>
 							<li><div><a href="/contact/home.aspx">Contact us</a></div></li>
-							<li><div><a href="/contact/salesdepartment.aspx">Submit listing</a></div></li>
+							
 							<li><div><a href="/advertise.aspx">Advertise</a></div></li>
 						</ul>
 					</div>
@@ -57,57 +58,25 @@
 			</div>
 			<div class="searchplace">
 
-    <script type="text/javascript">
-        $(document).ready(function(){
-//            $("#txtKeyword").toggleVal({
-//                focusClass: "hasFocus", changedClass: "isChanged"
-//            });
 
-            $("#txtKeyword").autocomplete("xml/autocomplete.ashx", {
-                selectFirst: false, scroll: true, extraParams:{type:1}
-            });
-
-//            $("#txtLocation").toggleVal({
-//                focusClass: "hasFocus", changedClass: "isChanged"
-//            });
-
-            $("#txtLocation").autocomplete("xml/autolocation.ashx", {
-                selectFirst: true, scroll: false,extraParams:{type:1}
-            });
-        });
-    </script>
-
-<form id="form1" action="submit-search.aspx" method="post">
-    <div id="searchbox">
-        <div class="searchbox_lft">
-            <table cellpadding="0" cellspacing="0" class="slft">
-                <tbody><tr>
-                    <td valign="middle" style="width:370px">
-                        <div class="box">
-                            <span>What?&nbsp;</span>
-                            
-                                  
-                                <input type="text" name="txtKeyword" id="txtKeyword" value="Category, Keyword or Brand" class="txtKey ac_input" autocomplete="off">
-                            
-                        </div>
-                    </td>
-                    <td valign="middle" style="width:240px">
-                        <div class="box">
-                            <span>Where?&nbsp;</span>
-                            
-                            <input name="txtLocation" id="txtLocation" value="uae" class="txtLoc ac_input" autocomplete="off">
-                        </div>
-                    </td>
-                    <td valign="middle" style="width:100px">
-                        
-                        <input type="submit" id="btnSearch" class="btnfind" value="">
-                    </td>
-                </tr>
-            </tbody></table>
-        </div>
-        <div class="searchbox_rgt" style="background-image:none;"><a href="http://www.restaurants-uae.com" target="_blank"><img src="/image/2012.png" alt=""></a></div>
+<div id="searchbox">
+    <div class="searchbox_lft">
+        <div class="searchForm">
+			<div class="serviceInput">
+                 
+                    <input type="text" name="txtKeyword" id="txtKeyword" onkeydown="if (event.keyCode == 13) search();" class="inputField watermarkOn ui-autocomplete-input" value="Category, Keyword or Brand" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+                
+				
+			</div>
+			<div class="dvCityName">
+				<input type="text" name="txtLocation" id="txtLocation" onkeydown="if (event.keyCode == 13) search();" class="inputCity ui-autocomplete-input" value="uae" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+			</div>
+			<button class="buttons btnSearch" title="Search" id="searchSubmit" type="submit" onclick="javascript:search();">&nbsp;</button>
+		</div>
     </div>
-</form></div>
+    <div class="searchbox_rgt" style="background-image:none;"><a href="http://www.restaurants-uae.com" target="_blank"><img src="/image/2012.png" alt=""></a></div>
+</div>
+</div>
 		</div>
 		
 		
@@ -170,22 +139,7 @@
 			<div class="bdy_rgt" style="float:right;width:180px;">
                 
 
-				<div class="miniflip" style="background-color:Yellow">
-					<a href="http://www.whitepages-uae.com/" target="_blank"><span style="font-size:17px;line-height:22px;font-weight:bold;">UAE White Pages</span></a>
-				</div>
 				
-				<div class="miniflip">
-					<table width="100%" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td>
-								<a href="http://digital.yellowpages-uae.com/i/77518" target="_blank"><img height="24" src="/style/images/minibook.png" alt="Intractive e-Directory"></a>
-							</td>
-							<td align="center">
-								<a href="http://digital.yellowpages-uae.com/i/77518" target="_blank"><span style="font-size:13px;line-height:22px;font-weight:bold;">e-Directory</span></a>
-							</td>
-						</tr>
-					</tbody></table>
-				</div>
 			</div>
 		</div>
         <div class="clear"></div>
@@ -206,9 +160,9 @@
 			<div style="margin:0px auto;width:720px;">
 				<ul>
 					<li><a href="/advertise.aspx">Advertise with Us</a></li>
-					<li><a href="/contact/salesdepartment.aspx">Business Listings</a></li>
+					
 					<li><a href="/emirates">All Categories</a></li>
-					<li><a href="/shopping-malls/uae">Shopping Centers</a></li>
+					<li><a href="/shopping-malls/uae">Shopping Centres</a></li>
 					<li><a href="/about.aspx">About Us</a></li>
 					<li><a href="/term_of_use.aspx">Terms of Use</a></li>
 					<li><a href="/privacy.aspx">Privacy Policy</a></li>
@@ -216,9 +170,9 @@
 				</ul>
 			</div>  
 			<div style="clear:both"></div>  
-			<div>Copyright 2012 <a id="ctl00_hlnk1" href="http://www.lunad.com" target="_blank"><img src="style/images/lunad_logo.gif" alt="HyperLink" border="0"></a></div>
+			<div>Copyright 2012 <a id="ctl00_hlnk1" href="http://www.lunad.com" target="_blank"><img src="style/images/lunad_logo.png" alt="HyperLink" border="0"></a></div>
 		</div>
 	</div>
 
 
-</body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
