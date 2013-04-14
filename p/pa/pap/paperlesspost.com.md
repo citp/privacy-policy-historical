@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperlesspost.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116184404id_/http%3A//www.paperlesspost.com/info/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperlesspost.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414065006id_/http%3A//www.paperlesspost.com/info/terms/privacy) for the most accurate reproduction.*
 
 # Paperless Post - Privacy Policy - Privacy Policy
 
