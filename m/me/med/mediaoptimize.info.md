@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaoptimize.info privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227134616id_/http%3A//mediaoptimize.info/page.php%3Fpage%3Dprivacy-html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaoptimize.info privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414071307id_/http%3A//mediaoptimize.info/page.php%3Fpage%3Dprivacy-html) for the most accurate reproduction.*
 
 # Privacy Policy - Bookmarking Site | MediaOptimize
 
