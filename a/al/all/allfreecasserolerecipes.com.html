@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allfreecasserolerecipes.com privacy policy that was archived on 2012-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121022195209id_/http%3A//www.allfreecasserolerecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allfreecasserolerecipes.com privacy policy that was archived on 2013-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130414185707id_/http%3A//www.allfreecasserolerecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -49,24 +49,24 @@
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>-->
 	<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>-->
 	<!--<script type="text/javascript" src="/javascript/jquery-1.5.min.js"></script>-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://cf.primecp.com/javascript/jquery-1.5.2.min.js?v=3"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-1.5.2.min.js?v=2"></script>
 	
 	<!-- start jquery ui -->
 	<!-- this was installed to get the autocomplete feature, contains: Core, Widget, Position, Autocomplete -->
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=3"></script>
-	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=3" media="screen">
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery-ui-1.8.12.custom/js/jquery-ui-1.8.12.custom.min.js?v=2"></script>
+	<link rel="stylesheet" type="text/css" href="/javascript/jquery-ui-1.8.12.custom/css/ui-lightness/jquery-ui-1.8.12.custom.css?v=2" media="screen">
 	<!-- end jquery ui -->
 	
 	
 	<!-- jQuery Tools Library (Tabs, Tooltip, Scrollable, Overlay, Expose. No jQuery) --> 
 	<!--<script src="http://cdn.jquerytools.org/1.1.0/tiny/jquery.tools.min.js"></script>-->
-		<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=3"></script>
+		<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.tools.min_v1.1.0.js?v=2"></script>
 	
 	
 
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/jquery.form.js?v=3"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/jquery.form.js?v=2"></script>
 	
-	<script type="text/javascript" src="http://cf.primecp.com/javascript/site_functions.js?v=3"></script>
+	<script type="text/javascript" src="http://cf2.primecp.com/javascript/site_functions.js?v=2"></script>
 	
 	
 	
@@ -90,7 +90,7 @@
 		
 			$(document).ready(
 				function() {
-					//alert('getJavascript_topSocialLinks ready line: 9069');
+					//alert('getJavascript_topSocialLinks ready line: 10680');
 					
 					$('#topSocialLinkMenu .socialButtonTable').show();
 					
@@ -150,7 +150,7 @@
 			
 			$(document).ready(
 				function() {
-					//alert('getJavascript_loginDhtmlContent ready - line: 14201');
+					//alert('getJavascript_loginDhtmlContent ready - line: 15916');
 					/**
 					 *set click handler for all the close boxes in the dhtml
 					 */
@@ -199,23 +199,40 @@
 						$('.dhtmlLoginWrapper .facebookLoginButton').click(
 							 function(){
 								 //alert('click facebookLoginButton');
+								 //console.log('click facebookLoginButton');
+								 
 								 //FB.login();
 								 $(this).fadeTo('normal', 0.3);
 								 $('#dhtmlLogin .feedbackDiv').html('<img src="/images/ajax-loader-bar.gif" alt="Loading" width="220" height="19" />');
 								 
 								 FB.login(
+								 	/*
+								 	2012-12-20
+								 	this location of scope caused js errors, after months of working
 								 	{
 										scope: 'email'
 									},
+									*/
 								  	function(response){
    										// handle the response
-   										var alert_str = 'back from FB.login' + "\n\n";
-   										alert_str += 'response: ' + response + "\n\n";
-   										alert_str += 'response.scope: ' + response.email + "\n\n";
-   										alert_str += 'response.status: ' + response.status + "\n\n";
-   										alert_str += 'response.name: ' + response.name + "\n\n";
-   										//alert(alert_str);
-									}
+   										//console.log(response);
+   										
+   										if (response.authResponse) {
+   											//console.log('Welcome!  Fetching your information.... ');
+   										}else{
+   											
+   											// undo some user feedback that ran when the user clicked the fb button
+   											$('.dhtmlLoginWrapper .facebookLoginButton').fadeTo('normal', 1.0);
+   											$('#dhtmlLogin .feedbackDiv').html('');
+   											
+   											//console.log('User cancelled login or did not fully authorize.');
+   										}
+									},
+									/* 
+									2012-12-20
+									this location of scope works, at least for now...
+									*/
+									{scope: 'email'}
 								);
 								//login_dhtml_obj.hideLoginDhtmlBox();
 							 }
@@ -478,7 +495,7 @@ var signup_redirect_qry_params = new Array();
 signup_redirect_qry_params['email'] = false;
 
 
-var signup_redirect_url = 'http://www.pdapi.com/cs/JSI/v1/prime/?pub=11&email=[email]&ExitURL=http://www.allfreecasserolerecipes.com';
+var signup_redirect_url = 'https://www.clear-request.com/oi/display?PID=19231143&EM=[email]&URL=http://www.allfreecasserolerecipes.com/index.php/hct/Free-Recipe-eCookbooks';
 
 	var nscID = 65;
 	
@@ -1424,27 +1441,33 @@ function triggerWiderFunnel(){
 			
 	
 	
-				<!-- START GOOGLE AD MANAGER CODE V2 -->
-			<!-- http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=112649 -->
-			<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+				<!-- START Google Publisher Tag - Asynchronous -->
 			<script type="text/javascript">
-				GS_googleAddAdSenseService("ca-pub-3960203165302510");
-				GS_googleEnableAllServices();
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+				(function() {
+					var gads = document.createElement('script');
+					gads.async = true;
+					gads.type = 'text/javascript';
+					var useSSL = 'https:' == document.location.protocol;
+					gads.src = (useSSL ? 'https:' : 'http:') + 
+					'//www.googletagservices.com/tag/js/gpt.js';
+					var node = document.getElementsByTagName('script')[0];
+					node.parentNode.insertBefore(gads, node);
+				})();
 			</script>
+			
 			<script type="text/javascript">
-										GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeCasseroleRecipes-com_header-int-A_728-90");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeCasseroleRecipes-com_left-rail-A_120-600");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeCasseroleRecipes-com_right-rail-A_160-600");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeCasseroleRecipes-com_right-rail-B_300-250");
-												GA_googleAddSlot("ca-pub-3960203165302510", "AllFreeCasseroleRecipes-com_right-rail-C_300-250");
-										
-				// set a PAGE LEVEL attribute for ALL ads
-				GA_googleAddAdSensePageAttr("google_page_url", "http://www.allfreecasserolerecipes.com/index.php/hct/privacy_policy");
+				googletag.cmd.push(function() {
+												googletag.defineSlot('/1049349/AllFreeCasseroleRecipes-com_header-int-A_728-90', [[728,90]], 'div-gpt-ad-1363381229826-0').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/AllFreeCasseroleRecipes-com_left-rail-A_120-600', [[120,600]], 'div-gpt-ad-1363381229826-1').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/AllFreeCasseroleRecipes-com_right-rail-B_300-250', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363381229826-4').addService(googletag.pubads());
+														googletag.defineSlot('/1049349/AllFreeCasseroleRecipes-com_right-rail-C_300-600', [[300,250],[300,600],[300,1050]], 'div-gpt-ad-1363381229826-5').addService(googletag.pubads());
+												googletag.pubads().enableSingleRequest();
+					googletag.enableServices();
+				});
 			</script>
-			<script type="text/javascript">
-				GA_googleFetchAds();
-			</script>
-			<!-- END GOOGLE AD MANAGER CODE V2 -->
+			<!-- END Google Publisher Tag - Asynchronous -->
 				
 	
 	
@@ -1618,18 +1641,18 @@ function triggerWiderFunnel(){
 	
 	
 			<!-- get css for the email signup creative -->
-		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_65.css?v=3" type="text/css" media="screen">	
+		<link rel="stylesheet" href="/site_templates/signup_creative/css/nscID_65.css?v=2" type="text/css" media="screen">	
 			
 	
 	
-	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=3" media="screen">
+	<link type="text/css" rel="stylesheet" href="/css/jquery.rating.css?v=2" media="screen">
 	
 	<!--
 	start css
 	-->
-	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=3" type="text/css" media="screen">
+	<link rel="stylesheet" href="/site_templates/0003/css/main_styles.css?v=2" type="text/css" media="screen">
 	
-	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=3" type="text/css" media="print">
+	<link rel="stylesheet" href="/site_templates/0003/css/print_styles.css?v=2" type="text/css" media="print">
 	
 	
 	
@@ -1649,6 +1672,9 @@ function triggerWiderFunnel(){
 			var facebook_login_obj = {};
 
 			window.fbAsyncInit = function() {
+			
+				//console.log('call to window.fbAsyncInit line 15746');
+			
 				FB.init({
 					appId      : '', // App ID Favecrafts
 					
@@ -1657,6 +1683,22 @@ function triggerWiderFunnel(){
 					cookie     : true, // enable cookies to allow the server to access the session
 					xfbml      : true  // parse XFBML
 				});
+				
+				
+				/*
+				FB.getLoginStatus(function(response) {
+					  if (response.status === 'connected') {
+					    // connected
+					    console.log('connected');
+					  } else if (response.status === 'not_authorized') {
+					    // not_authorized
+					    console.log('not_authorized');
+					  } else {
+					    // not_logged_in
+					    console.log('not_logged_in');
+					  }
+				});
+				*/
 				
 				// listen for and handle auth.statusChange events
 				FB.Event.subscribe(
@@ -1784,10 +1826,14 @@ function triggerWiderFunnel(){
 		</script>
 		<!-- END Facebook Javascript SDK js -->
 			
+				
+		
 </head>
 <body id="site52" itemscope="" itemtype="http://schema.org/Article">
 
 <div id="fb-root"></div>
+
+
 
 
 
@@ -1870,15 +1916,15 @@ function triggerWiderFunnel(){
 			<table id="logoTable" border="0">
 				<tbody><tr>
 					<td>
-								<a id="headerLogo" href="/"><img src="http://cf.primecp.com/site_templates/0003/images/site_logo_internal_sID52.gif?v=3" alt="AllFreeCasseroleRecipes.com"></a>
+								<a id="headerLogo" href="/"><img src="http://cf2.primecp.com/site_templates/0003/images/site_logo_internal_sID52.gif?v=2" alt="AllFreeCasseroleRecipes.com"></a>
 			<div id="thisPageLinks" class="internal" style="margin-top: 10px;"><a class="firstLink" href="/site-map">Site Map</a><a href="/rss-feed">RSS</a><!--<a href="javascript: alert('Coming Soon');">Shop</a>--><a href="" class="lastLink" onclick="return bookmark('http://www.allfreecasserolerecipes.com/index.php/hct/privacy_policy','');">Bookmark</a><!--<a id="emailPageLink" class="lastLink" href="#">Email This Page</a>--></div>
 						</td>
 					<td class="" style="text-align: right; padding: 5px 5px 0 0; width: 735px;">
-											<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeCasseroleRecipes-com_header-int-A_728-90 -->
+											
+					<!-- AllFreeCasseroleRecipes-com_header-int-A_728-90 -->
+					<div id="div-gpt-ad-1363381229826-0" style="width: 728px; height:90px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeCasseroleRecipes-com_header-int-A_728-90"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363381229826-0'); });						</script>
 					</div>
 										</td>
 				</tr>
@@ -1901,10 +1947,10 @@ function triggerWiderFunnel(){
 									<a href="/index.php/hct/Free-Recipe-eCookbooks">Free eCookbooks</a>
 								</td>
 																<td class="">
-									<a href="/Ground-Beef-Casserole-Recipes">Ground Beef Casseroles</a>
+									<a href="/index.php/hct/Foodie-Reviews-and-Giveaways">Giveaways</a>
 								</td>
 																<td class="">
-									<a href="/tag/Halloween">Halloween Recipes</a>
+									<a href="/Ground-Beef-Casserole-Recipes">Ground Beef Casseroles</a>
 								</td>
 									
 							<td class="lastTD">
@@ -1990,11 +2036,11 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 30px 0;">
-													<div style="width: 125px; margin: 0 auto;">
-						<!-- ca-pub-3960203165302510/AllFreeCasseroleRecipes-com_left-rail-A_120-600 -->
+													
+					<!-- AllFreeCasseroleRecipes-com_left-rail-A_120-600 -->
+					<div id="div-gpt-ad-1363381229826-1" style="width: 120px; height:600px; margin: 0 auto;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeCasseroleRecipes-com_left-rail-A_120-600"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363381229826-1'); });						</script>
 					</div>
 												</div>
 												
@@ -2003,9 +2049,7 @@ function triggerWiderFunnel(){
 												<div style="margin: 0 0 15px 0;">
 								<p>
 	Privacy Policy / Your California Privacy Rights<br>
-	Revised and posted as of August 8, 2012</p>
-<p>
-	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing LLC treats personally identifiable information compared to the <a href="http://www.allfreecasserolerecipes.com/index.php/hct/privacy_policy2008" target="_blank">previous version of the Privacy and Security Policy</a>.)</p>
+	Revised and posted as of March 4, 2013</p>
 <p>
 	Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
 <p>
@@ -2065,7 +2109,7 @@ function triggerWiderFunnel(){
 	Ad Serving<br>
 	We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.</p>
 <p>
-	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.</p>
+	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.</p>
 <p>
 	Pre-select/Pre-fill Offers<br>
 	Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.</p>
@@ -2117,6 +2161,9 @@ function triggerWiderFunnel(){
 <p>
 	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
 <p>
+	Third Party Cookies<br>
+	Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>.</p>
+<p>
 	Governmental Agencies or Other Companies<br>
 	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
 <p>
@@ -2132,7 +2179,7 @@ function triggerWiderFunnel(){
 	COMPANY CUSTOMER CHOICES</p>
 <p>
 	Marketing Communications and Unsubscribe Information<br>
-	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.allfreecasserolerecipes.com/index.php/hct/contact_us_page" target="_blank">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
+	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.allfreecasserolerecipes.com/section/subctr" target="_blank">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
 <p>
 	Request for More Information<br>
 	As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL&nbsp; 60062.</p>
@@ -2165,9 +2212,9 @@ function triggerWiderFunnel(){
 		
 				<form id="newsletterSignUpForm" class="contentBoxPadding" action="/newsletter_signup.php" method="post">
 					<input type="hidden" name="task" value="signup">
-					<input type="hidden" name="PHPSESSID" value="6470e0ae327db448b0fd1dcc87d094b2">
+					<input type="hidden" name="PHPSESSID" value="046f2d391609f12b11094b64330df021">
 					
-					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID52.png" alt="">
+					<img style="float: right; margin: 0 0 5px 5px;" src="http://cf2.primecp.com/site_templates/0003/images/newsletter_signup_bg_sID52.png" alt="">
 					
 											<h4>Free Newsletter!</h4>
 												<p>Subscribe to our FREE casserole recipe newsletter, The Casserole Connection, and we will send delicious recipes, tips and special offers to your inbox. Sign up today!</p>
@@ -2193,32 +2240,23 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeCasseroleRecipes-com_right-rail-A_160-600 -->
-						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeCasseroleRecipes-com_right-rail-A_160-600"); // v2
-						</script>
-					</div>
-												</div>
+															</div>
 														<div style="margin: 0 0 10px 0;">
-											
-			<div id="topTenSiteID52">
+											<div id="topTenSiteID52" class="topTenDiv">
 				<h3>What's Hot</h3>
-				
 				<div class="contentBoxPadding">
-					<h4></h4>
-					
+										<h4></h4>
 								<ol>
-									 <li><a href="/Ground-Beef-Casserole-Recipes/Ground-Beef-Recipes-15-Easy-Ground-Beef-Casserole-Recipes-eCookbook/ct/1">"Ground Beef Recipes: 15 Easy Ground Beef Casserole Recipes" eCookbook</a></li>
-					 					 <li><a href="/Casseroles-for-Thanksgiving/Fall-Casserole-Ideas-14-Deliciously-Good-Recipes-for-Thanksgiving-Free-eCookbook/ct/1">"Fall Casserole Ideas: 14 Deliciously Good Recipes for Thanksgiving" eCookbook</a></li>
-					 					 <li><a href="/Dessert-Casserole-Recipes/Pumpkin-Poke-Cake/ct/1">Pumpkin Poke Cake</a></li>
-					 					 <li><a href="/Editors-Picks/12-Top-Rated-Chicken-Casserole-Recipes-Free-eCookbook/ct/1">"12 Top Rated Chicken Casserole Recipes" Free eCookbook</a></li>
-					 					 <li><a href="/Ground-Beef-Casserole-Recipes/Southwest-Ground-Beef-Casserole/ct/1">Southwest Ground Beef Casserole</a></li>
-					 					 <li><a href="/Ground-Beef-Casserole-Recipes/17-Flavorful-Ground-Beef-Casserole-Recipes/ct/1">17 Flavorful Ground Beef Casserole Recipes</a></li>
-					 					 <li><a href="/Ground-Beef-Casserole-Recipes/German-Cabbage-Casserole/ct/1">German Cabbage Casserole</a></li>
-					 					 <li><a href="/Event-and-Holiday-Casserole-Recipes/13-Fantastic-Recipes-with-Pumpkin/ct/1">13 Fantastic Recipes with Pumpkin</a></li>
-					 					 <li><a href="/Dessert-Casserole-Recipes/Peach-Cobbler-Dump-Cake/ct/1">Peach Cobbler Dump Cake</a></li>
-					 					 <li><a href="/Breakfast-Casserole-Recipes/Amish-Breakfast-Casserole-with-Potatoes-and-Sausage/ct/1">Amish Breakfast Casserole with Potatoes and Sausage</a></li>
+									 <li><a href="/Easter-Casserole-Recipes/Birthday-Quiche/ct/1">Birthday Quiche</a></li>
+					 					 <li><a href="/Main-Dish-Casserole-Recipes/The-Sloppy-Shepherd/ct/1">The Sloppy Shepherd</a></li>
+					 					 <li><a href="/Dessert-Casserole-Recipes/Microwave-Crazy-Fast-Cake-Batter-Mug-Cake/ct/1">Crazy Fast Cake Batter Mug Cake</a></li>
+					 					 <li><a href="/Chicken-Casseroles-Recipes/Cheesy-Buffalo-Chicken-Lasagna/ct/1">Cheesy Buffalo Chicken Lasagna</a></li>
+					 					 <li><a href="/Dessert-Casserole-Recipes/Carrot-Cake-Magic-Bars/ct/1">Carrot Cake Magic Bars</a></li>
+					 					 <li><a href="/Side-Dish-Casserole-Recipes/Corn-Green-Chile-Casserole/ct/1">Corn and Green Chile Casserole</a></li>
+					 					 <li><a href="/Pork-and-Ham-Casserole-Recipes/Scalloped-Potatoes-and-Ham/ct/1">Scalloped Potatoes and Ham</a></li>
+					 					 <li><a href="/Easter-Casserole-Recipes/Funeral-Potatoes/ct/1">Funeral Potatoes</a></li>
+					 					 <li><a href="/Easter-Casserole-Recipes/Recipes-Easter-Brunch-Free-eCookbook/ct/1">"11 Recipes for Easter Brunch" Free eCookbook</a></li>
+					 					 <li><a href="/Italian-Casserole-Recipes/Lazy-Lasagnas/ct/1">Lazy Lasagnas</a></li>
 					 			</ol>
 							</div>
 				
@@ -2227,17 +2265,17 @@ function triggerWiderFunnel(){
 			
 										</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeCasseroleRecipes-com_right-rail-B_300-250 -->
+													
+					<!-- AllFreeCasseroleRecipes-com_right-rail-B_300-250 -->
+					<div id="div-gpt-ad-1363381229826-4" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeCasseroleRecipes-com_right-rail-B_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363381229826-4'); });						</script>
 					</div>
 												</div>
 														<div style="margin: 0 0 10px 0;">
 										<div class="myBoxLinkRightCol">
 			<div class="myBoxLinkRightColHeader">
-				<img src="http://cf.primecp.com/images/my-box-icon.gif" alt="" width="13" height="12"> <a href="/section/mybox/action/view">My Recipes</a> (0) <a style="float: right;" href="/section/mybox/action/view">View »</a>
+				<img src="http://cf2.primecp.com/images/my-box-icon.gif" alt="" width="13" height="12"> <a href="/section/mybox/action/view">My Recipes</a> (0) <a style="float: right;" href="/section/mybox/action/view">View »</a>
 			</div>
 			<div class="myBoxLinkRightColContent">
 				<img src="/site_templates/0003/images/casserole-pic-001.jpg" alt="" width="75" height="75">
@@ -2264,11 +2302,11 @@ function triggerWiderFunnel(){
 		
 									</div>
 														<div style="margin: 0 0 10px 0;">
-													<div style="">
-						<!-- ca-pub-3960203165302510/AllFreeCasseroleRecipes-com_right-rail-C_300-250 -->
+													
+					<!-- AllFreeCasseroleRecipes-com_right-rail-C_300-600 -->
+					<div id="div-gpt-ad-1363381229826-5" style="width: 300px;" class="mustangGoogleAdTest_async">
 						<script type="text/javascript">
-							GA_googleFillSlot("AllFreeCasseroleRecipes-com_right-rail-C_300-250"); // v2
-						</script>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363381229826-5'); });						</script>
 					</div>
 												</div>
 														<div style="margin: 0 0 10px 0;">
@@ -2276,7 +2314,10 @@ function triggerWiderFunnel(){
 							<h3>Free eBooks</h3>
 							<div class="list">
 				<ul>
-											<li><a href="http://www.allfreecasserolerecipes.com/Editors-Picks/12-Top-Rated-Chicken-Casserole-Recipes-Free-eCookbook">12 Top Rated Chicken Casserole Recipes</a></li>
+											<li><a href="http://www.allfreecasserolerecipes.com/Main-Dish-Casserole-Recipes/11-Baked-Macaroni-Cheese-Recipes-Free-eCookbook">11 Baked Macaroni and Cheese Recipes eCookbook</a></li>
+												<li><a href="http://www.allfreecasserolerecipes.com/Editors-Picks/12-Top-Rated-Chicken-Casserole-Recipes-Free-eCookbook">12 Top Rated Chicken Casserole Recipes</a></li>
+												<li><a href="http://www.allfreecasserolerecipes.com/Casseroles-for-Thanksgiving/Fall-Casserole-Ideas-14-Deliciously-Good-Recipes-for-Thanksgiving-Free-eCookbook">14 Deliciously Good Recipes for Thanksgiving</a></li>
+												<li><a href="http://www.allfreecasserolerecipes.com/Easy-Christmas-Casseroles/14-Perfectly-Delicious-Christmas-Recipes-for-Breakfast-free-eCookbook">14 Perfectly Delicious Christmas Recipes for Breakfast</a></li>
 												<li><a href="http://www.allfreecasserolerecipes.com/Ground-Beef-Casserole-Recipes/Ground-Beef-Recipes-15-Easy-Ground-Beef-Casserole-Recipes-eCookbook">15 Easy Ground Beef Casserole Recipes eCookbook</a></li>
 										</ul>
 			</div>
@@ -2291,22 +2332,25 @@ function triggerWiderFunnel(){
 				<table>
 						<tbody><tr>
 																<td>
-										<a target="_blank" href="http://www.facebook.com/AllFreeCasseroleRecipes"><img src="/images/social_link_facebook.jpg" alt="Facebook" width="36" height="35"></a>
+										<a title="Follow Us on Facebook" target="_blank" href="http://www.facebook.com/AllFreeCasseroleRecipes"><img src="/images/social_link_facebook.jpg" alt="Facebook" width="36" height="35"></a>
 									</td>
 																		<td>
-										<a target="_blank" href="https://twitter.com/#!/AllCasseroles"><img src="/images/social_link_twitter.jpg" alt="Twitter" width="35" height="35"></a>
+										<a title="Visit Our Google Plus Page" target="_blank" href="https://plus.google.com/u/0/115224174081632649295/posts"><img src="/images/social_link_google-plus.png" alt="Google Plus" width="32" height="32"></a>
 									</td>
 																		<td>
-										<a target="_blank" href="http://pinterest.com/AllCasseroles/"><img src="/images/social_link_pinterest.jpg" alt="Pinterest" width="35" height="35"></a>
+										<a title="Visit Our Twitter Page" target="_blank" href="https://twitter.com/#!/AllCasseroles"><img src="/images/social_link_twitter.jpg" alt="Twitter" width="35" height="35"></a>
 									</td>
 																		<td>
-										<a target="_blank" href="http://blog.recipelion.com/"><img src="/images/social_link_blog.jpg" alt="Blog" width="35" height="35"></a>
+										<a title="Visit Our Pinterest Page" target="_blank" href="http://pinterest.com/AllCasseroles/"><img src="/images/social_link_pinterest.jpg" alt="Pinterest" width="35" height="35"></a>
 									</td>
 																		<td>
-										<a href="/section/subctr"><img src="/images/social_link_email.jpg" alt="Email" width="35" height="35"></a>
+										<a title="Read Our Blog" target="_blank" href="http://blog.recipelion.com/"><img src="/images/social_link_blog.jpg" alt="Blog" width="35" height="35"></a>
 									</td>
 																		<td>
-										<a href="/rss-feed"><img src="/images/social_link_rss.jpg" alt="RSS" width="35" height="35"></a>
+										<a title="Newsletters" href="/section/subctr"><img src="/images/social_link_email.jpg" alt="Email" width="35" height="35"></a>
+									</td>
+																		<td>
+										<a title="Visit Our RSS Page" href="/rss-feed"><img src="/images/social_link_rss.jpg" alt="RSS" width="35" height="35"></a>
 									</td>
 															</tr>
 					</tbody></table>
@@ -2346,7 +2390,7 @@ function triggerWiderFunnel(){
 		<table style="margin: 0 auto;">
 			<tbody><tr>
 				<td>
-					<p style="margin: 0 10px;">© Copyright 2012 Prime Publishing, LLC. All rights reserved.</p>
+					<p style="margin: 0 10px;">© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
 				</td>
 							</tr>
 		</tbody></table>
@@ -2372,7 +2416,7 @@ function triggerWiderFunnel(){
 	
 	
 <div id="printFooter">
-	<p>© Copyright 2012 Prime Publishing, LLC. All rights reserved.</p>
+	<p>© Copyright 2013 Prime Publishing, LLC. All rights reserved.</p>
 	
 	<p>www.allfreecasserolerecipes.com</p>
 </div><!-- end printFooter -->
@@ -2619,9 +2663,7 @@ function triggerWiderFunnel(){
 					
 					<p>
 	Privacy Policy / Your California Privacy Rights<br>
-	Revised and posted as of August 8, 2012</p>
-<p>
-	(Please note this version of the Privacy and Security Policy does not substantively change the way Prime Publishing LLC treats personally identifiable information compared to the <a href="http://www.allfreecasserolerecipes.com/index.php/hct/privacy_policy2008" target="_blank">previous version of the Privacy and Security Policy</a>.)</p>
+	Revised and posted as of March 4, 2013</p>
 <p>
 	Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.</p>
 <p>
@@ -2681,7 +2723,7 @@ function triggerWiderFunnel(){
 	Ad Serving<br>
 	We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.</p>
 <p>
-	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.</p>
+	We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>.</p>
 <p>
 	Pre-select/Pre-fill Offers<br>
 	Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.</p>
@@ -2733,6 +2775,9 @@ function triggerWiderFunnel(){
 <p>
 	Additionally, we may share, license or sell your information to third parties for use in their data validation, enhancement, information verification services, and, to the extent permitted by law, individual reference or look-up services.</p>
 <p>
+	Third Party Cookies<br>
+	Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.&nbsp;&nbsp; These cookies contain no personally identifiable information.&nbsp; The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>.</p>
+<p>
 	Governmental Agencies or Other Companies<br>
 	We may share your information with law enforcement officials or governmental agencies: (1) in response to their request; (2) when permitted or required by law; or (3) to establish our compliance with applicable laws, rules, regulations, or guidelines.</p>
 <p>
@@ -2748,7 +2793,7 @@ function triggerWiderFunnel(){
 	COMPANY CUSTOMER CHOICES</p>
 <p>
 	Marketing Communications and Unsubscribe Information<br>
-	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.allfreecasserolerecipes.com/index.php/hct/contact_us_page" target="_blank">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
+	By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications or newsletters from the Company and its third party marketing partners, you can discontinue the communications by <a href="http://www.allfreecasserolerecipes.com/section/subctr" target="_blank">clicking here</a> and filling out our form. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account.</p>
 <p>
 	Request for More Information<br>
 	As it relates to marketing communications or any other questions you might have about our Privacy Policy, please write to us at Prime Publishing, LLC, 3400 Dundee Road, Suite 220, Northbrook, IL&nbsp; 60062.</p>
@@ -2788,14 +2833,26 @@ function triggerWiderFunnel(){
 		
 				
 		
+		<!-- START Google Remarketing code -->
+				
+		<!-- END Google Remarketing code -->
+		
+		
+		
+		<!-- START datonics.com -->
+						<script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-132970.js"></script>
+						<!-- END datonics.com -->
+		
+		<!-- START swoop -->
+				<!-- END swoop -->
+
+
+
+		
 				
 		
 		
-						<div id="multiLoginDiv"></div>
-				<!--
-				<iframe onload="multiSiteLoginCheck('not_logged_in');" src ="http://c.primecp.com/multi_site_login.php?task=not_logged_in&x=1350935529&sid=52&sessid=6470e0ae327db448b0fd1dcc87d094b2" width="80%" height="600"></iframe>
-				-->
-						
+		..		
 		
 
 
