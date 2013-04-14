@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gas-south.com privacy policy that was archived on 2012-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120927034020id_/http%3A//www.gas-south.com/common/privacy-policy.aspx%3Fint_campaign%3DBNAVPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gas-south.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415005142id_/http%3A//gas-south.com/common/privacy-policy.aspx%3Fint_campaign%3DBNAVPRIVACY) for the most accurate reproduction.*
 
 # Gas South | Privacy Policy
 
