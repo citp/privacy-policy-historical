@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibuypower.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919223011id_/http%3A//www.ibuypower.com/Others/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibuypower.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415015323id_/http%3A//www.ibuypower.com/Others/Privacy.aspx) for the most accurate reproduction.*
 
 # iBUYPOWER Computer - Privacy Policy
 
@@ -23,7 +23,7 @@ Our customers’ information is an important part of our business, and we are no
 
   * Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf (e.g. fulfilling orders, delivering packages, sending postal mail, providing marketing assistance, processing credit card payments, and providing customer service). They have access to personal information, but they may not use it for other purposes.
   * Business Transfers: As we continue to grow and develop our business, we might sell or buy business units, or engage in transfers, acquisitions, mergers, restructurings, changes of control or similar transactions. In such transactions, customer information is generally one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice.
-  * Protection of iBUYPOWER & Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Terms & Conditions](https://web.archive.org/web/20120919223011id_/http%3A//www.ibuypower.com/Others/Terms.aspx) and other agreements; or protect the rights, property, safety of our Site, our users, or others. This includes: exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  * Protection of iBUYPOWER & Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Terms & Conditions](https://web.archive.org/web/20130415015323id_/http%3A//www.ibuypower.com/Others/Terms.aspx) and other agreements; or protect the rights, property, safety of our Site, our users, or others. This includes: exchanging information with other companies and organizations for fraud protection and credit risk reduction.
   * With Your Consent: You will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.  
 
 
@@ -36,7 +36,7 @@ We take precaution to protect our customers’ information. When you submit sens
 Customers can view or change their own stored account information such as street address or e-mail address through our website under “My Account”. To make changes or access this information, you must have your e-mail address and password. 
 
 **Can I Opt-Out?**  
-It is your choice whether or not you want to receive e-mails or special offers from us. If you do not wish to receive e-mails from us, please contact our [Customer Service Department](https://web.archive.org/web/20120919223011id_/http%3A//www.ibuypower.com/Company/Contactus.aspx) or click the “Unsubscribe” link provided at the bottom of every newsletter sent via e-mail.
+It is your choice whether or not you want to receive e-mails or special offers from us. If you do not wish to receive e-mails from us, please contact our [Customer Service Department](https://web.archive.org/web/20130415015323id_/http%3A//www.ibuypower.com/Company/Contactus.aspx) or click the “Unsubscribe” link provided at the bottom of every newsletter sent via e-mail.
 
 **Are Children Allowed to Use iBUYPOWER?**  
 We do not sell products for purchase by children. If you are under 18, you may use our website only with the involvement of a parent or guardian.
@@ -45,4 +45,4 @@ We do not sell products for purchase by children. If you are under 18, you may u
 We reserve the right to update our Privacy Policy from time to time. When we do, we will revise the “Last Modified” date at the top of this Privacy Policy. We encourage you to check this page periodically for any updates. Your continued use of this websites and Dr. I Forum following the posting of this Privacy Policy will mean you accept those updates.
 
 **Contact Us**  
-If you have any questions regarding our Privacy Policy, please contact our [Customer Service Department](https://web.archive.org/web/20120919223011id_/http%3A//www.ibuypower.com/Company/Contactus.aspx). 
+If you have any questions regarding our Privacy Policy, please contact our [Customer Service Department](https://web.archive.org/web/20130415015323id_/http%3A//www.ibuypower.com/Company/Contactus.aspx). 
