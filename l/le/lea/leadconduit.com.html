@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the leadconduit.com privacy policy that was archived on 2012-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121004071338id_/http%3A//www.activeprospect.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leadconduit.com privacy policy that was archived on 2013-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130414204852id_/http%3A//www.activeprospect.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en-US"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US"><head>
 
 	<meta charset="UTF-8">
 
@@ -46,13 +46,13 @@
 <link rel="apple-touch-icon" sizes="72x72" href="http://activeprospect.com/wp-content/themes/activeprospect/images/apple-touch-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="114x114" href="http://activeprospect.com/wp-content/themes/activeprospect/images/apple-touch-icon-114x114.png">
 
-<script type="text/javascript" src="http://ap.trustedform.com/wp-content/plugins/bwp-minify/min/?f=wp-includes/js/jquery/jquery.js&amp;ver=3.4.2"></script>
+<script type="text/javascript" src="http://ap.trustedform.com/wp-content/plugins/bwp-minify/min/?f=wp-includes/js/jquery/jquery.js&amp;ver=3.5.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://activeprospect.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://activeprospect.com/wp-includes/wlwmanifest.xml"> 
 <link rel="prev" title="Working with us" href="http://activeprospect.com/about-us/self-service-versus-enterprise-accounts/">
 <link rel="next" title="Sr. Web Developer/Rubyist" href="http://activeprospect.com/about-us/careers/sr-web-developer-rubyist/">
 
-<!-- All in One SEO Pack 1.6.15 by Michael Torbert of Semper Fi Web Design[439,470] -->
+<!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[429,460] -->
 <meta name="description" content="The following discloses ActiveProspect, Inc.'s information gathering and dissemination practices. &nbsp; ActiveProspect, Inc. Privacy Notice The">
 <link rel="canonical" href="http://activeprospect.com/privacy/">
 <!-- /all in one seo pack -->
@@ -69,11 +69,11 @@
 		  })();
 
 		</script>
-	<script src="http://trustedform.com/?dm=a28228ba6d89ebb4ecbd78118ff4eb34&amp;action=load&amp;blogid=8&amp;siteid=1&amp;t=1673476779&amp;back=http%3A%2F%2Factiveprospect.com%2Fprivacy%2F" type="text/javascript"></script>		
+	<script src="http://trustedform.com/?dm=a28228ba6d89ebb4ecbd78118ff4eb34&amp;action=load&amp;blogid=8&amp;siteid=1&amp;t=1910523326&amp;back=http%3A%2F%2Factiveprospect.com%2Fprivacy%2F" type="text/javascript"></script>		
 <!-- Responsive Select CSS 
 ================================================================ -->
 <style type="text/css" id="responsive-select-css">
-.responsiveSelectContainer select.responsiveMenuSelect{
+.responsiveSelectContainer select.responsiveMenuSelect, select.responsiveMenuSelect{
 	display:none;
 }
 
@@ -83,10 +83,10 @@
 		background:none !important;
 		box-shadow:none !important;
 	}
-	.responsiveSelectContainer ul{
+	.responsiveSelectContainer ul, ul.responsiveSelectFullMenu, #megaMenu ul.megaMenu.responsiveSelectFullMenu{
 		display: none !important;
 	}
-	.responsiveSelectContainer select.responsiveMenuSelect { 
+	.responsiveSelectContainer select.responsiveMenuSelect, select.responsiveMenuSelect { 
 		display: inline-block; 
 		width:100%;
 	}
@@ -99,7 +99,8 @@
 <script type="text/javascript">
 jQuery(document).ready( function($){
 	$( '.responsiveMenuSelect' ).change(function() {
-	  window.location = $(this).find( 'option:selected' ).val();
+		var loc = $(this).find( 'option:selected' ).val();
+		if( loc != '' && loc != '#' ) window.location = loc;
 	});
 });
 </script>
@@ -120,7 +121,7 @@ jQuery(document).ready( function($){
     </div>
 
     <div class="container">
-			<div class="menu-utility-nav-container  six responsiveSelectContainer"><ul id="menu-utility-nav-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="http://support.leadconduit.com">Support</a></li>
+			<div class="menu-utility-nav-container  six responsiveSelectContainer"><ul id="menu-utility-nav-1" class="menu responsiveSelectFullMenu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="http://support.leadconduit.com">Support</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a href="http://uptime.activeprospect.com">System Status</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="http://sso.activeprospect.com">Login</a></li>
 </ul><select class="responsiveMenuSelect"><option value="">⇒ Navigate</option><option id="menu-item-20" value="http://support.leadconduit.com">Support</option>
@@ -132,7 +133,7 @@ jQuery(document).ready( function($){
 
 </div> <!--  End blog header -->
 <nav>
-		  <div class="sixteen menu-primary-container container responsiveSelectContainer"><ul id="menu-primary-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-27"><a href="http://activeprospect.com">Home</a></li>
+		  <div class="sixteen menu-primary-container container responsiveSelectContainer"><ul id="menu-primary-1" class="menu responsiveSelectFullMenu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-27"><a href="http://activeprospect.com">Home</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="http://activeprospect.com/products/">Products</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="http://activeprospect.com/services/">Services</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="http://activeprospect.com/education/">Education</a></li>
@@ -208,7 +209,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 	<section role="apfooter" id="apfooter">
 		<div class="content"><div class="container">
-			<div class="company">© 2012 ActiveProspect, Inc. All Rights Reserved.&nbsp;&nbsp; <a href="http://www.activeprospect.com/privacy">Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://activeprospect.com/about-us/careers/">Careers</a><span class="social">Stay Connected:<a href="http://www.linkedin.com/company/523272?trk=tyah" target="_blank"><img src="http://activeprospect.com/wp-content/themes/activeprospect/images/linkedin.png" width="16" height="16" alt="Linkedin"></a>
+			<div class="company">© 2013 ActiveProspect, Inc. All Rights Reserved.&nbsp;&nbsp; <a href="https://sso.activeprospect.com/tos">Terms</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.activeprospect.com/privacy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://activeprospect.com/activeprospect-security">Security</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://activeprospect.com/about-us/careers/">Careers</a><span class="social">Stay Connected:<a href="http://www.linkedin.com/company/523272?trk=tyah" target="_blank"><img src="http://activeprospect.com/wp-content/themes/activeprospect/images/linkedin.png" width="16" height="16" alt="Linkedin"></a>
 				<a href="https://twitter.com/#!/activeprospect" target="_blank"><img src="http://activeprospect.com/wp-content/themes/activeprospect/images/twitter.png" width="16" height="16" alt="Twitter"></a>
 				<a href="http://feeds.feedburner.com/Activeprospect" target="_blank"><img src="http://activeprospect.com/wp-content/themes/activeprospect/images/rss2.png" alt="rss" width="16" height="16"></a>
 				<br>
@@ -228,6 +229,21 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 </footer>
 
+<script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.5/zenbox.js"></script>
+<style type="text/css" media="screen, projection">
+  @import url(//assets.zendesk.com/external/zenbox/v2.5/zenbox.css);
+</style>
+<script type="text/javascript">
+  if (typeof(Zenbox) !== "undefined") {
+    Zenbox.init({
+      dropboxID:   "20139896",
+      url:         "https://activeprospect.zendesk.com",
+      tabID:       "Support",
+      tabColor:    "#039349",
+      tabPosition: "Left"
+    });
+  }
+</script>
 
 
 </body></html>
