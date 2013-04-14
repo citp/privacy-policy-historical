@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayishmovies.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919182318id_/http%3A//www.gayishmovies.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayishmovies.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414230625id_/http%3A//gayishmovies.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gay Tube
 
@@ -21,7 +21,7 @@ Email address
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-You can register with our website if you would like to receiv updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+You can register with our website if you would like to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
