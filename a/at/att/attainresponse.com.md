@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attainresponse.com privacy policy that was archived on 2012-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120730050949id_/http%3A//www.comf5.com/docs/comf5_privacy_policy-v5.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attainresponse.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414080744id_/http%3A//www.comf5.com/docs/comf5_privacy_policy-v5.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
