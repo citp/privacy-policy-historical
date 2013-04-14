@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicru.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228011503id_/http%3A//www.kronos.com/kronos-site-usage-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicru.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414025610id_/http%3A//www.kronos.com/kronos-site-usage-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Kronos Privacy Policy - Kronos Incorporated
 
