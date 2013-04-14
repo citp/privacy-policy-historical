@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apnaindia.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502080127id_/http%3A//apnaindia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnaindia.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415013331id_/http%3A//apnaindia.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Apna India
+# ApnaIndia
 
 This Privacy Policy sets out our practices with respect to the collection, use and disclosure of personal information in connection with ApnaIndia.com. This Privacy Policy may be updated by us at any time by posting on the site without any prior notice. Also, this Privacy Statement may be supplemented or modified by agreements entered into between us and an individual from time to time. In this Privacy Statement, personal information means any information about an identifiable individual, including contact and demographic details, not including collective information or information regarding a group in summarized form.
 
