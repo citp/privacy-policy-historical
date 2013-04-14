@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myretailcodes.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128195152id_/http%3A//www.myretailcodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myretailcodes.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414053154id_/http%3A//www.myretailcodes.com/privacy-policy) for the most accurate reproduction.*
 
 # MyretailCodes Privacy Policy | Social Discount Community | Find Coupons & Promotional Codes
 
@@ -6,11 +6,11 @@
 
 ### MARKCO MEDIA LIMITED
 
-This privacy policy discloses the privacy practices for Markco Media Limited, a company incorporated in England & Wales with company number **06327961** and having its registered office at _Edmund House c/o Alpha Business Services, 27 St James’s Road, Dudley, West Midlands, DY1 3JD_ ("we", "us", "our"). Our website is [[http//:www.Markcomedia.co.uk](https://web.archive.org/web/20121128195152id_/http%3A//www.myretailcodes.com/http//:www.Markcomedia.co.uk "Markcomedia")] (the "Site").
+This privacy policy discloses the privacy practices for Markco Media Limited, a company incorporated in England & Wales with company number **06327961** and having its registered office at _Edmund House c/o Alpha Business Services, 27 St James’s Road, Dudley, West Midlands, DY1 3JD_ ("we", "us", "our"). Our website is [[http//:www.Markcomedia.co.uk](https://web.archive.org/web/20130414053154id_/http%3A//www.myretailcodes.com/http//:www.Markcomedia.co.uk "Markcomedia")] (the "Site").
 
 By submitting personal data manually or in electronic form to us in connection with the Site you give your consent that all personal data that you submit will be processed by us in the manner and for the purposes described below. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-If you have any questions at all about this policy or the Site, or about how we use and process your personal information, please do not hesitate to contact us by e-mail at [info@markcomedia.co.uk](mailto:%69%6e%66%6f@%6d%61%72%6b%63%6f%6d%65%64%69%61.%63%6f.%75%6b) or, alternatively, in writing to [[http//:www.Markcomedia.co.uk](https://web.archive.org/web/20121128195152id_/http%3A//www.myretailcodes.com/http//:www.Markcomedia.co.uk "Markcomedia")] c/o _Markco Media Limited at The Clove Building, 4 Maguire Street Butlers Wharf SE1 2NQ_.
+If you have any questions at all about this policy or the Site, or about how we use and process your personal information, please do not hesitate to contact us by e-mail at [info@markcomedia.co.uk](mailto:%69%6e%66%6f@%6d%61%72%6b%63%6f%6d%65%64%69%61.%63%6f.%75%6b) or, alternatively, in writing to [[http//:www.Markcomedia.co.uk](https://web.archive.org/web/20130414053154id_/http%3A//www.myretailcodes.com/http//:www.Markcomedia.co.uk "Markcomedia")] c/o _Markco Media Limited at The Clove Building, 4 Maguire Street Butlers Wharf SE1 2NQ_.
 
 ### Information Collection and Use
 
@@ -80,7 +80,7 @@ We shall only use your personal data in accordance with the legal requirements, 
 
 For more details about your rights under the Act, the rules we have to adhere to in collecting and storing your information, and how you can check your data records, please visit [dataprotection.gov.uk](http://www.dataprotection.gov.uk/).
 
-You have a right to receive a copy of the information we hold about you by sending your request in writing, together with an administration fee of £10, to us at [[http//:www.Markcomedia.co.uk](https://web.archive.org/web/20121128195152id_/http%3A//www.myretailcodes.com/http//:www.Markcomedia.co.uk "Markcomedia")] c/o Markco Media Limited, The Clove Building, 4 Maguire Street Butlers Wharf SE1 2NQ.
+You have a right to receive a copy of the information we hold about you by sending your request in writing, together with an administration fee of £10, to us at [[http//:www.Markcomedia.co.uk](https://web.archive.org/web/20130414053154id_/http%3A//www.myretailcodes.com/http//:www.Markcomedia.co.uk "Markcomedia")] c/o Markco Media Limited, The Clove Building, 4 Maguire Street Butlers Wharf SE1 2NQ.
 
 ### Updating/Removal of Personal Information
 
@@ -90,4 +90,4 @@ After completion of your transaction, your payment details will not be held on o
 
 ### Contact
 
-If you have any questions at all about this policy or the Site, or about how we use and process your personal information, please do not hesitate to contact us at us by e-mail at [info@markcomedia.co.uk](mailto:%69%6e%66%6f@%6d%61%72%6b%63%6f%6d%65%64%69%61.%63%6f.%75%6b) by telephone on **+44 (0) 208 263 6115** , or, alternatively, in writing to [[http//:www.Markcomedia.co.uk](https://web.archive.org/web/20121128195152id_/http%3A//www.myretailcodes.com/http//:www.Markcomedia.co.uk "Markcomedia")] c/o _Markco Media Limited at The Clove Building, 4 Maguire Street Butlers Wharf SE1 2NQ_.
+If you have any questions at all about this policy or the Site, or about how we use and process your personal information, please do not hesitate to contact us at us by e-mail at [info@markcomedia.co.uk](mailto:%69%6e%66%6f@%6d%61%72%6b%63%6f%6d%65%64%69%61.%63%6f.%75%6b) by telephone on **+44 (0) 208 263 6115** , or, alternatively, in writing to [[http//:www.Markcomedia.co.uk](https://web.archive.org/web/20130414053154id_/http%3A//www.myretailcodes.com/http//:www.Markcomedia.co.uk "Markcomedia")] c/o _Markco Media Limited at The Clove Building, 4 Maguire Street Butlers Wharf SE1 2NQ_.
