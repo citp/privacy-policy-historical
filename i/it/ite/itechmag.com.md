@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itechmag.com privacy policy that was archived on 2012-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121028154846id_/http%3A//www.itechmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itechmag.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415114758id_/http%3A//www.itechmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
