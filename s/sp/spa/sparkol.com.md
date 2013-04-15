@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkol.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210194415id_/http%3A//www.sparkol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkol.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416013244id_/http%3A//www.sparkol.com/privacy.php) for the most accurate reproduction.*
 
 # Sparkol: Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy, together with our terms of use, explains what happens to an
 
 We do update this Policy from time to time so please do return and review this Policy regularly. 
 
-**Information We Collect**
+### Information We Collect
 
 In operating our website we may collect and process the following data about you: 
 
@@ -20,7 +20,7 @@ iii. Information provided to us when you communicate with us for any reason.
 
 iv. Usage information such as login counts, date & time of logins, which main functions in the application are used as well as which components are used. 
 
-**Use of Cookies**
+### Use of Cookies 
 
 We may on occasion gather information regarding your computer whilst you are on our website. This enables us to improve our services and to provide statistical information regarding the use of our website to our advertisers where appropriate. 
 
@@ -32,7 +32,7 @@ All computers have the ability to decline cookies. This can be done by activatin
 
 Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website. 
 
-**Use of Your Information**
+### Use of Your Information
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes: 
 
@@ -52,7 +52,7 @@ If you do not want us to use your data for our or third parties you will have th
 
 Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors. 
 
-**Storing Your Personal Data**
+### Storing Your Personal Data
 
 We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us or for one of our suppliers. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy. 
 
@@ -60,7 +60,7 @@ Data that is provided to us is stored on our secure servers. Details relating to
 
 The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential. 
 
-**Disclosing Your Information**
+### Disclosing Your Information
 
 Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any). 
 
@@ -72,14 +72,14 @@ ii. Where we are legally required to disclose your information.
 
 iii. To assist fraud protection and minimise credit risk. 
 
-**Third Party Links**
+### Third Party Links
 
 You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them. 
 
-**Access To Information**
+### Access To Information
 
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below. 
 
-**Contacting Us**
+### Contacting Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](https://web.archive.org/web/20121210194415id_/http%3A//www.sparkol.com/contact.php) at [info@sparkol.com](mailto:info@sparkol.com). 
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](https://web.archive.org/web/20130416013244id_/http%3A//www.sparkol.com/contact.php) at [info@sparkol.com](mailto:info@sparkol.com). 
