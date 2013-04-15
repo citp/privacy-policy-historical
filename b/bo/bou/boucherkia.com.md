@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boucherkia.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107190922id_/http%3A//boucherkia.com/page/Privacypolicy/master/secondary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boucherkia.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415055303id_/http%3A//www.boucherkia.com/page/Privacypolicy/master/secondary) for the most accurate reproduction.*
 
 # New & Used Kia Dealer | Frank Boucher Kia of Racine | Serving Milwaukee, WI
 
