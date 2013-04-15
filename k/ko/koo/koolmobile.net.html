@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the koolmobile.net privacy policy that was archived on 2012-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120531233407id_/http%3A//koolmobile.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the koolmobile.net privacy policy that was archived on 2013-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130415023006id_/http%3A//koolmobile.net/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy | Koolmobile</title>
 <meta name="robots" content="noodp, noydir">
@@ -15,15 +15,15 @@
 <link rel="pingback" href="http://koolmobile.net/xmlrpc.php">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://koolmobile.net/xmlrpc.php?rsd">
 <link rel="alternate" type="application/rss+xml" title="Koolmobile » Privacy Policy Comments Feed" href="http://koolmobile.net/privacy-policy/feed/">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://koolmobile.net/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<script type="text/javascript" src="http://koolmobile.net/wp-includes/js/jquery/jquery.js?ver=1.7.1"></script>
-<script type="text/javascript" src="http://koolmobile.net/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.2"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://koolmobile.net/wp-includes/js/comment-reply.min.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://koolmobile.net/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
+<script type="text/javascript" src="http://koolmobile.net/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.3"></script>
 
-<!-- All in One SEO Pack 1.6.14.2 by Michael Torbert of Semper Fi Web Design[287,308] -->
+<!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[277,298] -->
 <link rel="canonical" href="http://koolmobile.net/privacy-policy/">
 <!-- /all in one seo pack -->
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<!-- Google Analytics Tracking by Google Analyticator 6.2: http://ronaldheft.com/code/analyticator/ -->
+<!-- Google Analytics Tracking by Google Analyticator 6.4.3: http://www.videousermanuals.com/google-analyticator/ -->
 <script type="text/javascript">window.google_analytics_uacct = "pub-3726461179037607";</script>
 <script type="text/javascript">
 	var analyticsFileTypes = [''];
@@ -32,8 +32,9 @@
 <script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-24435384-2']);
+        _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google 
+        
 	_gaq.push(['_trackPageview']);
-	_gaq.push(['_trackPageLoadTime']);
 
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -41,7 +42,7 @@
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 </script>
-<script type="text/javascript" async="" src="http://koolmobile.disqus.com/embed.js?pname=wordpress&amp;pver=2.72"></script></head>
+<script type="text/javascript" async="" src="//koolmobile.disqus.com/embed.js?pname=wordpress&amp;pver=2.74"></script></head>
 <body class="custom privacy-policy">
 <div id="header_area" class="full_width">
 <div class="page">
@@ -171,6 +172,7 @@ google_ad_height = 90;
     var disqus_title = "Privacy Policy";
         var disqus_config = function () {
         var config = this; // Access to the config object
+        config.language = '';
 
         /*
            All currently supported events:
@@ -187,10 +189,14 @@ google_ad_height = 90;
         });
                 config.callbacks.onReady.push(function() {
             // sync comments in the background so we don't block the page
-            DISQUS.request.get('?cf_action=sync_comments&post_id=324');
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=324';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
         });
                     };
-    var facebookXdReceiverPath = 'http://koolmobile.net/wp-content/plugins/disqus-comment-system/xd_receiver.htm';
 /* ]]> */
 </script>
 
@@ -208,7 +214,7 @@ google_ad_height = 90;
 (function() {
     var dsq = document.createElement('script'); dsq.type = 'text/javascript';
     dsq.async = true;
-        dsq.src = 'http' + '://' + disqus_shortname + '.' + disqus_domain + '/embed.js?pname=wordpress&pver=2.72';
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.74';
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 })();
 /* ]]> */
@@ -245,11 +251,11 @@ google_ad_height = 90;
 		</li><li class="widget widget_killer_recent_entries" id="widget_killer_recent_entries-3">
 <h3>Recent Posts</h3>
 <ul>
-	<li><a href="http://koolmobile.net/how-to-install-siri-on-iphone-4-ipad-2-ipod-touch-with-twitter-facebook-integration-using-free-wordjelly-siri-server-video/" title="Click to read How to Install Siri On iPhone 4, iPad 2, iPod touch With Twitter &amp; Facebook Integration Using Free WordJelly Siri Server [VIDEO]" rel="bookmark">How to Install Siri On iPhone 4, iPad 2, iPod touch With Twitter &amp; Facebook Integration Using Free WordJelly Siri Server [VIDEO]</a></li>
-	<li><a href="http://koolmobile.net/facebook-messenger-for-ios-and-android-updated-to-version-1-7-brings-read-receipts-feature/" title="Click to read Facebook Messenger for iOS and Android Updated to Version 1.7 – Brings Read Receipts Feature" rel="bookmark">Facebook Messenger for iOS and Android Updated to Version 1.7 – Brings Read Receipts Feature</a></li>
-	<li><a href="http://koolmobile.net/ios-5-1-untethered-jailbreak-on-iphone-4-confirmed-by-pod2g/" title="Click to read iOS 5.1 Untethered Jailbreak on iPhone 4 Confirmed by Pod2g" rel="bookmark">iOS 5.1 Untethered Jailbreak on iPhone 4 Confirmed by Pod2g</a></li>
-	<li><a href="http://koolmobile.net/samsungs-back-on-top-as-the-biggest-smartphone-seller/" title="Click to read Samsung’s back on top as the Biggest Smartphone seller." rel="bookmark">Samsung’s back on top as the Biggest Smartphone seller.</a></li>
-	<li><a href="http://koolmobile.net/exynos-4-quad-confirmed-as-processor-for-the-next-galaxy/" title="Click to read Exynos 4 Quad confirmed as processor for the Next Galaxy" rel="bookmark">Exynos 4 Quad confirmed as processor for the Next Galaxy</a></li>
+	<li><a href="http://koolmobile.net/how-to-enable-haptic-feedback-on-iphone-ipad-and-ipod-touch-hapticpro-jailbreak-tweak/" title="Click to read How to enable haptic feedback on iPhone, iPad and iPod Touch – HapticPro Jailbreak Tweak" rel="bookmark">How to enable haptic feedback on iPhone, iPad and iPod Touch – HapticPro Jailbreak Tweak</a></li>
+	<li><a href="http://koolmobile.net/samsung-galaxy-mega-5-8-codename-gt-i9152-specs-leak-out/" title="Click to read Samsung Galaxy Mega 5.8 Codename GT-i9152 Specs Leak Out" rel="bookmark">Samsung Galaxy Mega 5.8 Codename GT-i9152 Specs Leak Out</a></li>
+	<li><a href="http://koolmobile.net/weathericon-6-for-ios-6-iphone-54s4-ipod-touch-ipad/" title="Click to read WeatherIcon 6 for iOS 6 iPhone 5/4S/4, iPod Touch &amp; iPad" rel="bookmark">WeatherIcon 6 for iOS 6 iPhone 5/4S/4, iPod Touch &amp; iPad</a></li>
+	<li><a href="http://koolmobile.net/how-to-root-samsung-galaxy-s4-gt-i9505-using-chainfire-auto-root/" title="Click to read How To Root Samsung Galaxy S4 GT-I9505 Using Chainfire Auto-Root" rel="bookmark">How To Root Samsung Galaxy S4 GT-I9505 Using Chainfire Auto-Root</a></li>
+	<li><a href="http://koolmobile.net/how-to-enable-landscape-orientation-in-the-nexus-7s-home-screen-launcher-and-apps/" title="Click to read How to Enable Landscape Orientation in the Nexus 7′s Home Screen Launcher and Apps" rel="bookmark">How to Enable Landscape Orientation in the Nexus 7′s Home Screen Launcher and Apps</a></li>
 </ul>
 </li>
 <li class="widget widget_text" id="text-6">			<div class="textwidget"><script type="text/javascript"><!--
@@ -263,43 +269,43 @@ google_ad_height = 250;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script></div>
 		</li><li class="widget widget_tag_cloud" id="tag_cloud-3"><h3>Tags</h3><div class="tagcloud"><a href="http://koolmobile.net/tag/a5/" class="tag-link-2087" title="17 topics" style="font-size: 8.28965517241pt;">A5</a>
-<a href="http://koolmobile.net/tag/android/" class="tag-link-3" title="122 topics" style="font-size: 16.3034482759pt;">Android</a>
+<a href="http://koolmobile.net/tag/android/" class="tag-link-3" title="123 topics" style="font-size: 16.3034482759pt;">Android</a>
 <a href="http://koolmobile.net/tag/android-market/" class="tag-link-108" title="24 topics" style="font-size: 9.64137931034pt;">Android Market</a>
-<a href="http://koolmobile.net/tag/apple/" class="tag-link-125" title="141 topics" style="font-size: 16.8827586207pt;">apple</a>
+<a href="http://koolmobile.net/tag/apple/" class="tag-link-125" title="142 topics" style="font-size: 16.9793103448pt;">apple</a>
 <a href="http://koolmobile.net/tag/apple-tv/" class="tag-link-1006" title="16 topics" style="font-size: 8pt;">Apple TV</a>
 <a href="http://koolmobile.net/tag/application/" class="tag-link-130" title="19 topics" style="font-size: 8.67586206897pt;">Application</a>
+<a href="http://koolmobile.net/tag/appstore/" class="tag-link-135" title="43 topics" style="font-size: 11.9586206897pt;">appstore</a>
 <a href="http://koolmobile.net/tag/app-store/" class="tag-link-124" title="18 topics" style="font-size: 8.48275862069pt;">App Store</a>
-<a href="http://koolmobile.net/tag/appstore/" class="tag-link-135" title="42 topics" style="font-size: 11.8620689655pt;">appstore</a>
 <a href="http://koolmobile.net/tag/appstore-application/" class="tag-link-1326" title="37 topics" style="font-size: 11.3793103448pt;">AppStore Application</a>
 <a href="http://koolmobile.net/tag/cydia/" class="tag-link-219" title="45 topics" style="font-size: 12.1517241379pt;">Cydia</a>
 <a href="http://koolmobile.net/tag/cydia-application/" class="tag-link-1315" title="37 topics" style="font-size: 11.3793103448pt;">Cydia Application</a>
 <a href="http://koolmobile.net/tag/cydia-apps/" class="tag-link-1682" title="48 topics" style="font-size: 12.4413793103pt;">Cydia Apps</a>
 <a href="http://koolmobile.net/tag/download/" class="tag-link-241" title="26 topics" style="font-size: 9.93103448276pt;">Download</a>
-<a href="http://koolmobile.net/tag/google/" class="tag-link-339" title="45 topics" style="font-size: 12.1517241379pt;">Google+</a>
+<a href="http://koolmobile.net/tag/google/" class="tag-link-339" title="46 topics" style="font-size: 12.2482758621pt;">Google+</a>
 <a href="http://koolmobile.net/tag/hp-touchpad/" class="tag-link-370" title="24 topics" style="font-size: 9.64137931034pt;">HP TouchPad</a>
-<a href="http://koolmobile.net/tag/htc/" class="tag-link-371" title="22 topics" style="font-size: 9.25517241379pt;">HTC</a>
+<a href="http://koolmobile.net/tag/htc/" class="tag-link-371" title="23 topics" style="font-size: 9.44827586207pt;">HTC</a>
 <a href="http://koolmobile.net/tag/ice-cream-sandwich/" class="tag-link-1331" title="28 topics" style="font-size: 10.2206896552pt;">Ice Cream Sandwich</a>
-<a href="http://koolmobile.net/tag/ios/" class="tag-link-437" title="27 topics" style="font-size: 10.124137931pt;">iOS</a>
+<a href="http://koolmobile.net/tag/ios/" class="tag-link-437" title="28 topics" style="font-size: 10.2206896552pt;">iOS</a>
 <a href="http://koolmobile.net/tag/ios-5/" class="tag-link-446" title="96 topics" style="font-size: 15.3379310345pt;">iOS 5</a>
 <a href="http://koolmobile.net/tag/ios-5-0-1/" class="tag-link-1784" title="21 topics" style="font-size: 9.06206896552pt;">iOS 5.0.1</a>
-<a href="http://koolmobile.net/tag/ipad/" class="tag-link-6" title="270 topics" style="font-size: 19.5862068966pt;">iPad</a>
+<a href="http://koolmobile.net/tag/ipad/" class="tag-link-6" title="272 topics" style="font-size: 19.6827586207pt;">iPad</a>
 <a href="http://koolmobile.net/tag/ipad-2/" class="tag-link-453" title="65 topics" style="font-size: 13.6965517241pt;">ipad 2</a>
-<a href="http://koolmobile.net/tag/iphone/" class="tag-link-12" title="254 topics" style="font-size: 19.3931034483pt;">iPhone</a>
+<a href="http://koolmobile.net/tag/iphone/" class="tag-link-12" title="256 topics" style="font-size: 19.3931034483pt;">iPhone</a>
 <a href="http://koolmobile.net/tag/iphone-3g/" class="tag-link-464" title="42 topics" style="font-size: 11.8620689655pt;">iPhone 3G</a>
 <a href="http://koolmobile.net/tag/iphone-3gs/" class="tag-link-465" title="60 topics" style="font-size: 13.4068965517pt;">iPhone 3GS</a>
 <a href="http://koolmobile.net/tag/iphone-4/" class="tag-link-467" title="73 topics" style="font-size: 14.1793103448pt;">iphone 4</a>
 <a href="http://koolmobile.net/tag/iphone-4s/" class="tag-link-468" title="65 topics" style="font-size: 13.6965517241pt;">iPhone 4S</a>
-<a href="http://koolmobile.net/tag/iphone-5/" class="tag-link-469" title="31 topics" style="font-size: 10.7034482759pt;">iPhone 5</a>
-<a href="http://koolmobile.net/tag/ipod-touch/" class="tag-link-482" title="220 topics" style="font-size: 18.7172413793pt;">iPod Touch</a>
+<a href="http://koolmobile.net/tag/iphone-5/" class="tag-link-469" title="33 topics" style="font-size: 10.8965517241pt;">iPhone 5</a>
+<a href="http://koolmobile.net/tag/ipod-touch/" class="tag-link-482" title="223 topics" style="font-size: 18.8137931034pt;">iPod Touch</a>
 <a href="http://koolmobile.net/tag/ipod-touch-3/" class="tag-link-485" title="23 topics" style="font-size: 9.44827586207pt;">ipod touch 3</a>
 <a href="http://koolmobile.net/tag/ipod-touch-4/" class="tag-link-487" title="26 topics" style="font-size: 9.93103448276pt;">ipod touch 4</a>
 <a href="http://koolmobile.net/tag/jailbreak-2/" class="tag-link-509" title="139 topics" style="font-size: 16.8827586207pt;">Jailbreak</a>
-<a href="http://koolmobile.net/tag/mac/" class="tag-link-553" title="28 topics" style="font-size: 10.2206896552pt;">Mac</a>
+<a href="http://koolmobile.net/tag/mac/" class="tag-link-553" title="30 topics" style="font-size: 10.5103448276pt;">Mac</a>
 <a href="http://koolmobile.net/tag/mango/" class="tag-link-562" title="18 topics" style="font-size: 8.48275862069pt;">Mango</a>
-<a href="http://koolmobile.net/tag/news/" class="tag-link-26" title="479 topics" style="font-size: 22pt;">News</a>
+<a href="http://koolmobile.net/tag/news/" class="tag-link-26" title="480 topics" style="font-size: 22pt;">News</a>
 <a href="http://koolmobile.net/tag/os-x-lion/" class="tag-link-27" title="19 topics" style="font-size: 8.67586206897pt;">OS X Lion</a>
 <a href="http://koolmobile.net/tag/released/" class="tag-link-706" title="50 topics" style="font-size: 12.6344827586pt;">Released</a>
-<a href="http://koolmobile.net/tag/samsung/" class="tag-link-731" title="44 topics" style="font-size: 12.0551724138pt;">samsung</a>
+<a href="http://koolmobile.net/tag/samsung/" class="tag-link-731" title="46 topics" style="font-size: 12.2482758621pt;">samsung</a>
 <a href="http://koolmobile.net/tag/siri/" class="tag-link-1699" title="20 topics" style="font-size: 8.86896551724pt;">Siri</a>
 <a href="http://koolmobile.net/tag/tweak/" class="tag-link-862" title="46 topics" style="font-size: 12.2482758621pt;">Tweak</a>
 <a href="http://koolmobile.net/tag/untethered-jailbreak/" class="tag-link-1431" title="33 topics" style="font-size: 10.8965517241pt;">Untethered Jailbreak</a>
@@ -307,7 +313,7 @@ google_ad_height = 250;
 <a href="http://koolmobile.net/tag/updated/" class="tag-link-886" title="31 topics" style="font-size: 10.7034482759pt;">Updated</a>
 <a href="http://koolmobile.net/tag/windows/" class="tag-link-928" title="22 topics" style="font-size: 9.25517241379pt;">Windows</a>
 <a href="http://koolmobile.net/tag/windows-phone/" class="tag-link-1371" title="22 topics" style="font-size: 9.25517241379pt;">Windows Phone</a></div>
-</li><li class="widget widget_recent_comments" id="recent-comments-3"><h3>Recent Comments</h3><ul id="recentcomments"><li class="recentcomments">Mstevens9811 on <a href="http://koolmobile.net/download-greenpois0n-absinthe-v-1-2-1-to-untethered-jailbreak-a5-devices-iphone-4s-and-ipad-2-on-ios-5-0-1/#comment-3376">Download Greenpois0n Absinthe v.1.2.1 To Untethered Jailbreak A5 Devices (iPhone 4S and iPad 2) on iOS 5.0.1</a></li><li class="recentcomments"><a href="http://pulse.yahoo.com/_7GTOV3NYNNGO7HU4DYWLDXMSW4" rel="external nofollow" class="url">Chuck Bros</a> on <a href="http://koolmobile.net/color-keyboard-for-ios-5-let-you-customize-the-color-of-your-iphone-keyboard/#comment-3341">Color Keyboard For iOS 5 Let You Customize The Color Of Your iPhone Keyboard</a></li><li class="recentcomments"><a href="http://profile.yahoo.com/EHNVSYXNV6LGOSYOJG2V75BP6Y" rel="external nofollow" class="url">id</a> on <a href="http://koolmobile.net/install-flash-cyanogenmod-9-android-4-0-3-ice-cream-sandwich-on-droid-2-global-guide/#comment-3336">Install / Flash CyanogenMod 9 Android 4.0.3 Ice Cream Sandwich On DROID 2 Global [Guide]</a></li><li class="recentcomments">wsf56789 on <a href="http://koolmobile.net/install-sense-3-5-gingerbread-2-3-5-custom-rom-on-htc-desire-hd-htc-desire-s-and-htc-inspire/#comment-3324">Install Sense 3.5, Gingerbread 2.3.5, Custom ROM on HTC Desire HD, HTC Desire S and HTC Inspire</a></li><li class="recentcomments">klcdvljklsd844 on <a href="http://koolmobile.net/iap-cracker-turn-inapp-purchases-free-angry-bird-eagle-jetpack-joyride-earth-legend-vlingo-for-iphone-ipad-and-ipod-touch/#comment-3311">iAP Cracker – Turn inApp purchases Free Angry Bird Eagle, Jetpack Joyride, Earth &amp; Legend, Vlingo for iPhone, iPad and iPod Touch</a></li></ul></li>				</ul>
+</li><li class="widget widget_recent_comments" id="recent-comments-3"><h3>Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><a href="http://www.facebook.com/Mr.Smoshy" rel="external nofollow" class="url">Smosh Khan</a> on <a href="http://koolmobile.net/how-to-enable-gprsedge-data-services-on-gevey-sim-iphone4/#comment-3484">How to Enable GPRS/EDGE Data Services on GEVEY SIM iPhone4</a></li><li class="recentcomments">charles on <a href="http://koolmobile.net/how-to-root-and-flash-a-custom-rom-on-htc-desire-hd/#comment-3446">How to Root and Flash a Custom ROM on HTC Desire HD</a></li><li class="recentcomments">Ghostboy on <a href="http://koolmobile.net/iap-cracker-turn-inapp-purchases-free-angry-bird-eagle-jetpack-joyride-earth-legend-vlingo-for-iphone-ipad-and-ipod-touch/#comment-3440">iAP Cracker – Turn inApp purchases Free Angry Bird Eagle, Jetpack Joyride, Earth &amp; Legend, Vlingo for iPhone, iPad and iPod Touch</a></li><li class="recentcomments">jav1 on <a href="http://koolmobile.net/how-to-downoad-and-install-bootstrapcwm-recovery-on-droid-razr/#comment-3438">How to Download and Install Bootstrap/CWM Recovery on Droid RAZR</a></li><li class="recentcomments">DD on <a href="http://koolmobile.net/gpsphone-7-0-updated-gameboy-advance-emulator-now-support-ios-4-x-for-iphone-and-ipod-touch-jailbreak-application/#comment-3420">gpSPhone 7.0 – Updated Gameboy Advance Emulator now Support iOS 4.x for iPhone and iPod Touch Jailbreak Application</a></li></ul></li>				</ul>
 			</div>
 		</div>
 	</div>
@@ -322,11 +328,11 @@ google_ad_height = 250;
 			<li class="widget widget_killer_recent_entries" id="widget_killer_recent_entries-4">
 <h3>Latest iOS</h3>
 <ul>
-	<li><a href="http://koolmobile.net/how-to-install-siri-on-iphone-4-ipad-2-ipod-touch-with-twitter-facebook-integration-using-free-wordjelly-siri-server-video/" title="Click to read How to Install Siri On iPhone 4, iPad 2, iPod touch With Twitter &amp; Facebook Integration Using Free WordJelly Siri Server [VIDEO]" rel="bookmark">How to Install Siri On iPhone 4, iPad 2, iPod touch With Twitter &amp; Facebook Integration Using Free WordJelly Siri Server [VIDEO]</a></li>
-	<li><a href="http://koolmobile.net/facebook-messenger-for-ios-and-android-updated-to-version-1-7-brings-read-receipts-feature/" title="Click to read Facebook Messenger for iOS and Android Updated to Version 1.7 – Brings Read Receipts Feature" rel="bookmark">Facebook Messenger for iOS and Android Updated to Version 1.7 – Brings Read Receipts Feature</a></li>
-	<li><a href="http://koolmobile.net/ios-5-1-untethered-jailbreak-on-iphone-4-confirmed-by-pod2g/" title="Click to read iOS 5.1 Untethered Jailbreak on iPhone 4 Confirmed by Pod2g" rel="bookmark">iOS 5.1 Untethered Jailbreak on iPhone 4 Confirmed by Pod2g</a></li>
-	<li><a href="http://koolmobile.net/angry-birds-space-for-ios-and-android-released-download-now/" title="Click to read Angry Birds Space for iOS and Android Released [Download Now]" rel="bookmark">Angry Birds Space for iOS and Android Released [Download Now]</a></li>
-	<li><a href="http://koolmobile.net/3gvenice-allows-you-to-enable-facetime-over-3g-in-ios-5-jailbreak-tweak/" title="Click to read 3Gvenice Allows You To Enable FaceTime Over 3G In iOS 5  [Jailbreak Tweak]" rel="bookmark">3Gvenice Allows You To Enable FaceTime Over 3G In iOS 5  [Jailbreak Tweak]</a></li>
+	<li><a href="http://koolmobile.net/how-to-enable-haptic-feedback-on-iphone-ipad-and-ipod-touch-hapticpro-jailbreak-tweak/" title="Click to read How to enable haptic feedback on iPhone, iPad and iPod Touch – HapticPro Jailbreak Tweak" rel="bookmark">How to enable haptic feedback on iPhone, iPad and iPod Touch – HapticPro Jailbreak Tweak</a></li>
+	<li><a href="http://koolmobile.net/weathericon-6-for-ios-6-iphone-54s4-ipod-touch-ipad/" title="Click to read WeatherIcon 6 for iOS 6 iPhone 5/4S/4, iPod Touch &amp; iPad" rel="bookmark">WeatherIcon 6 for iOS 6 iPhone 5/4S/4, iPod Touch &amp; iPad</a></li>
+	<li><a href="http://koolmobile.net/images-of-the-new-iphone-leaked-through-images-released-of-assembled-parts/" title="Click to read Images of the new IPhone leaked through Images released of Assembled Parts" rel="bookmark">Images of the new IPhone leaked through Images released of Assembled Parts</a></li>
+	<li><a href="http://koolmobile.net/ia-writer-for-ios-and-osx-updated-to-support-icloud-folder-and-mountain-lion/" title="Click to read iA Writer for IOS and OSX updated to support iCloud folder and Mountain Lion" rel="bookmark">iA Writer for IOS and OSX updated to support iCloud folder and Mountain Lion</a></li>
+	<li><a href="http://koolmobile.net/apple-to-offer-permanent-fix-for-appstore-in-app-purchases-in-ios-6-temporary-fix-provided-to-developers/" title="Click to read Apple to Offer Permanent fix for AppStore In-App Purchases in iOS 6, Temporary Fix provided to Developers" rel="bookmark">Apple to Offer Permanent fix for AppStore In-App Purchases in iOS 6, Temporary Fix provided to Developers</a></li>
 </ul>
 </li>
 		</ul>
@@ -337,11 +343,11 @@ google_ad_height = 250;
 			<li class="widget widget_killer_recent_entries" id="widget_killer_recent_entries-2">
 <h3>Latest Android</h3>
 <ul>
-	<li><a href="http://koolmobile.net/facebook-messenger-for-ios-and-android-updated-to-version-1-7-brings-read-receipts-feature/" title="Click to read Facebook Messenger for iOS and Android Updated to Version 1.7 – Brings Read Receipts Feature" rel="bookmark">Facebook Messenger for iOS and Android Updated to Version 1.7 – Brings Read Receipts Feature</a></li>
-	<li><a href="http://koolmobile.net/angry-birds-space-for-ios-and-android-released-download-now/" title="Click to read Angry Birds Space for iOS and Android Released [Download Now]" rel="bookmark">Angry Birds Space for iOS and Android Released [Download Now]</a></li>
-	<li><a href="http://koolmobile.net/download-and-install-android-4-0-3-ics-build-i9100xxlpb-rom-on-galaxy-s-ii-tutorial/" title="Click to read Download And Install Android 4.0.3 ICS Build I9100XXLPB ROM On Galaxy S II [Tutorial]" rel="bookmark">Download And Install Android 4.0.3 ICS Build I9100XXLPB ROM On Galaxy S II [Tutorial]</a></li>
-	<li><a href="http://koolmobile.net/install-and-flash-clockworkmod-touch-recovery-on-supported-android-devices-root-only/" title="Click to read Install And Flash ClockworkMod Touch Recovery On Supported Android Devices [Root Only]" rel="bookmark">Install And Flash ClockworkMod Touch Recovery On Supported Android Devices [Root Only]</a></li>
-	<li><a href="http://koolmobile.net/download-and-install-official-android-4-0-4-ics-build-imm30b-early-on-verizon-galaxy-nexus/" title="Click to read Download And Install Official Android 4.0.4 ICS Build IMM30B Early on Verizon Galaxy Nexus" rel="bookmark">Download And Install Official Android 4.0.4 ICS Build IMM30B Early on Verizon Galaxy Nexus</a></li>
+	<li><a href="http://koolmobile.net/samsung-galaxy-mega-5-8-codename-gt-i9152-specs-leak-out/" title="Click to read Samsung Galaxy Mega 5.8 Codename GT-i9152 Specs Leak Out" rel="bookmark">Samsung Galaxy Mega 5.8 Codename GT-i9152 Specs Leak Out</a></li>
+	<li><a href="http://koolmobile.net/how-to-root-samsung-galaxy-s4-gt-i9505-using-chainfire-auto-root/" title="Click to read How To Root Samsung Galaxy S4 GT-I9505 Using Chainfire Auto-Root" rel="bookmark">How To Root Samsung Galaxy S4 GT-I9505 Using Chainfire Auto-Root</a></li>
+	<li><a href="http://koolmobile.net/how-to-enable-landscape-orientation-in-the-nexus-7s-home-screen-launcher-and-apps/" title="Click to read How to Enable Landscape Orientation in the Nexus 7′s Home Screen Launcher and Apps" rel="bookmark">How to Enable Landscape Orientation in the Nexus 7′s Home Screen Launcher and Apps</a></li>
+	<li><a href="http://koolmobile.net/jelly-bean-now-confirmed-will-be-able-to-be-upgraded-on-htc-one-xlone-x-and-one-s/" title="Click to read Jelly Bean now confirmed will be able to be upgraded on HTC One XL,One X and One S" rel="bookmark">Jelly Bean now confirmed will be able to be upgraded on HTC One XL,One X and One S</a></li>
+	<li><a href="http://koolmobile.net/how-to-install-voice-search-for-google-now-on-ics-handsetfrom-jelly-bean/" title="Click to read How to Install Voice Search for Google Now on ICS Handset,from Jelly Bean" rel="bookmark">How to Install Voice Search for Google Now on ICS Handset,from Jelly Bean</a></li>
 </ul>
 </li>
 		</ul>
@@ -352,11 +358,11 @@ google_ad_height = 250;
 			<li class="widget widget_killer_recent_entries" id="widget_killer_recent_entries-5">
 <h3>Latest Gadgets</h3>
 <ul>
+	<li><a href="http://koolmobile.net/samsung-galaxy-mega-5-8-codename-gt-i9152-specs-leak-out/" title="Click to read Samsung Galaxy Mega 5.8 Codename GT-i9152 Specs Leak Out" rel="bookmark">Samsung Galaxy Mega 5.8 Codename GT-i9152 Specs Leak Out</a></li>
+	<li><a href="http://koolmobile.net/debut-of-googles-nexus-7-advertisement-aired-on-youtube/" title="Click to read Debut of Google’s Nexus 7 Advertisement Aired on YouTube" rel="bookmark">Debut of Google’s Nexus 7 Advertisement Aired on YouTube</a></li>
+	<li><a href="http://koolmobile.net/samsung-to-announce-new-galaxy-note-2-10-1-inch-device-on-15th-august/" title="Click to read Samsung to announce new Galaxy Note 2 10.1 inch Device on 15th August" rel="bookmark">Samsung to announce new Galaxy Note 2 10.1 inch Device on 15th August</a></li>
 	<li><a href="http://koolmobile.net/transfer-your-iphone-photos-to-ipad-using-new-ipad-usbfever-cable/" title="Click to read Transfer Your iPhone Photos to iPad Using New iPad USBFever Cable" rel="bookmark">Transfer Your iPhone Photos to iPad Using New iPad USBFever Cable</a></li>
 	<li><a href="http://koolmobile.net/huawei-honor-will-ship-to-china-russia-indonesia-singapore-malaysia-and-japan-in-december/" title="Click to read Huawei Honor will ship to China, Russia, Indonesia, Singapore, Malaysia and Japan in December" rel="bookmark">Huawei Honor will ship to China, Russia, Indonesia, Singapore, Malaysia and Japan in December</a></li>
-	<li><a href="http://koolmobile.net/sharp-revealed-android-media-tablet-with-wimax-support-specifications-and-release-date/" title="Click to read Sharp Revealed Android Media Tablet With WiMAX Support, Specifications and Release Date" rel="bookmark">Sharp Revealed Android Media Tablet With WiMAX Support, Specifications and Release Date</a></li>
-	<li><a href="http://koolmobile.net/htc-zeta-2-5-ghz-quad-core-processor-1gb-ram-4-5-inch-display-running-ice-cream-sandwich/" title="Click to read HTC Zeta – 2.5 GHz Quad Core Processor, 1GB RAM, 4.5 inch Display running Ice Cream Sandwich" rel="bookmark">HTC Zeta – 2.5 GHz Quad Core Processor, 1GB RAM, 4.5 inch Display running Ice Cream Sandwich</a></li>
-	<li><a href="http://koolmobile.net/vooma-peel-pg92-case-turns-iphone-4-into-dual-sim-unlock-for-jailbreak-only/" title="Click to read Vooma Peel PG92 case turns iPhone 4 into Dual SIM unlock for Jailbreak only" rel="bookmark">Vooma Peel PG92 case turns iPhone 4 into Dual SIM unlock for Jailbreak only</a></li>
 </ul>
 </li>
 		</ul>
