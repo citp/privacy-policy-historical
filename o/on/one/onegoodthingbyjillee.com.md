@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onegoodthingbyjillee.com privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120144333id_/http%3A//www.onegoodthingbyjillee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegoodthingbyjillee.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415080800id_/http%3A//www.onegoodthingbyjillee.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | One Good Thing by Jillee
+# Privacy PolicyOne Good Thing by Jillee | One Good Thing by Jillee
 
 **One Good Thing By Jillee Privacy Policy**
 
@@ -78,4 +78,4 @@ We may amend this privacy policy for minor changes at any time by posting the am
 
 If you have any additional questions or comments about One Good Thing By Jillee’s privacy statement, please [contact us](http://www.onegoodthingbyjillee.com/contact).
 
-[ ](https://web.archive.org/web/20121120144333id_/http%3A//www.onegoodthingbyjillee.com/ "Print page")
+[ ](https://web.archive.org/web/20130415080800id_/http%3A//www.onegoodthingbyjillee.com/ "Print page")
