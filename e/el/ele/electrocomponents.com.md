@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electrocomponents.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213083340id_/http%3A//www.electrocomponents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electrocomponents.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415075340id_/http%3A//www.electrocomponents.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Electrocomponents
 
@@ -8,18 +8,16 @@ The pages on the website ("the website") are published by Electrocomponents plc 
 
 We will not collect any information about individuals, except where it is specifically and knowingly provided by them. Examples of such information are:
 
-Your name  
-Your mobile telephone number  
-Your email address  
-Your occupation
+  * Your name
+  * Your mobile telephone number
+  * Your email address
+  * Your occupation
+
+
 
 The information collected will be used to send you the information you have requested and to provide information that may be useful to you.
 
 We may share non-personal aggregate statistics (group) data about our site visitors' traffic patterns with partners or other parties. However, we do not sell or share any information about individual users.
-
-### 'Cookies'
-
-We do not use cookies on the website.
 
 ### Your rights
 
