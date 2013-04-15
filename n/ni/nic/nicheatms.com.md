@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicheatms.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615152320id_/http%3A//nicheatms2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheatms.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415172620id_/http%3A//nicheatms2.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Opt-in Preferences | NicheATMs 2
 
@@ -10,7 +10,7 @@ The information we collect is used to improve the content of our Web page, used 
 
 If you do not want to receive e-mail from us in the future, please review our opt-in preferences further below on this page..
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by visiting us at our [Contact page](https://web.archive.org/web/20120615152320id_/http%3A//contact/).
+Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by visiting us at our [Contact page](https://web.archive.org/web/20130415172620id_/http%3A//contact/).
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of the respective ad server companies.
 
@@ -18,16 +18,16 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to a description of information that we maintain about them.
 
-Consumers can access this information by e-mail us at the above address. Consumers can have this information corrected by contacting us via the [Contact page](https://web.archive.org/web/20120615152320id_/http%3A//contact).
+Consumers can access this information by e-mail us at the above address. Consumers can have this information corrected by contacting us via the [Contact page](https://web.archive.org/web/20130415172620id_/http%3A//contact).
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us via the [Contact page](https://web.archive.org/web/20120615152320id_/http%3A//contact).
+If you feel that this site is not following its stated information policy, you may contact us via the [Contact page](https://web.archive.org/web/20130415172620id_/http%3A//contact).
 
 Maintaining an active user account with this service inseparably includes your agreement to receive e-mail, text, phone, or other messages, from us. Such messages can be of both administrative or promotional nature. If you wish to permanently be removed from such notifications, you need to cancel any and all participation in this service. You cannot continue to participate in this service without agreeing to receive administrative or promotional messages from us.
 
-To cancel your participation, please send us a cancellation request at our [Contact page](https://web.archive.org/web/20120615152320id_/http%3A//contact), providing your exact e-mail address(es), or addresses at other messaging systems, such as your mobile phone number in case of mobile text messages (SMS), as well as any other information that will help us locate your personal record at this website.
+To cancel your participation, please send us a cancellation request at our [Contact page](https://web.archive.org/web/20130415172620id_/http%3A//contact), providing your exact e-mail address(es), or addresses at other messaging systems, such as your mobile phone number in case of mobile text messages (SMS), as well as any other information that will help us locate your personal record at this website.
 
-Canceling this services will not necessarily entitle you to a refund, either fully, or pro-rated, for products or services purchased. Any purchases at this website are governed by our terms and conditions outlined on our [Terms page](https://web.archive.org/web/20120615152320id_/http%3A//terms), and specific additional terms that you agreed to when you made the purchase.
+Canceling this services will not necessarily entitle you to a refund, either fully, or pro-rated, for products or services purchased. Any purchases at this website are governed by our terms and conditions outlined on our [Terms page](https://web.archive.org/web/20130415172620id_/http%3A//terms), and specific additional terms that you agreed to when you made the purchase.
 
 All other legal notices on this site are incorporated herein by reference.
