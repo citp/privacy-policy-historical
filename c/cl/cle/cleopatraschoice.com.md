@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleopatraschoice.com privacy policy that was archived on 2012-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121204013424id_/http%3A//www.cleopatraschoice.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleopatraschoice.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415100339id_/http%3A//www.cleopatraschoice.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
