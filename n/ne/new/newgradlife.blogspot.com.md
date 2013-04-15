@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newgradlife.blogspot.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213154244id_/http%3A//newgradlife.blogspot.com/2009/10/privacy-policy-statement-this-is-web.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgradlife.blogspot.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415235115id_/http%3A//newgradlife.blogspot.com/2009/10/privacy-policy-statement-this-is-web.html) for the most accurate reproduction.*
 
 # Privacy Policy | New Grad Life
 
