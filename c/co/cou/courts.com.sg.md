@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courts.com.sg privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012230016id_/http%3A//www.courts.com.sg/Our-Policies/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courts.com.sg privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415225415id_/http%3A//www.courts.com.sg/Our-Policies/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy-Policy
 
@@ -54,4 +54,4 @@ As Courts continues to improve the services, products and the features we provid
 
 To give us your comments or withdraw your consent on the use and disclosure of such submitted information in accordance with this Privacy Policy, please write to us at [ecourts@Courts.com.sg](mailto:privacy@courts.com.sg).
 
-©2012 Courts (Singapore) Pte Ltd. All rights reserved.
+©2013 Courts (Singapore) Pte Ltd. All rights reserved.
