@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southgossips.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524024855id_/http%3A//www.southgossips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southgossips.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415050148id_/http%3A//www.actressgossips.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SouthGossips
+# Privacy Policy | Southgossips
 
 **Privacy Policy for www.southgossips.com**
 
