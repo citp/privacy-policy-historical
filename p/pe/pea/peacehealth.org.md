@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacehealth.org privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228231219id_/http%3A//www.peacehealth.org/notice-of-privacy-practices/Pages/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacehealth.org privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415123549id_/http%3A//www.peacehealth.org/notice-of-privacy-practices/Pages/Default.aspx) for the most accurate reproduction.*
 
 # Notice of Privacy Practices
 
