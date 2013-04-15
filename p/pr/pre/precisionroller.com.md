@@ -1,20 +1,17 @@
-> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015235616id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415043645id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.*
 
 # Security And Privacy Policies | Precision Roller
 
 |  |  | [](https://server.iad.liveperson.net/hc/46343922/?cmd=file&file=visitorWantsToChat&site=46343922&byhref=1&SESSIONVAR!skill=Assistance&imageUrl=https://secure.precisionroller.com/images/liveperson)  
 ---  
   
-  
-
-
 [**Browse Our Catalog** Parts and Supplies](https://web.archive.org/catalog_display.php)  
   
 [ **Browse Catalog** Look For Products ](https://web.archive.org/catalog_display.php)  
 [ **Customer Reviews** Read Google Reviews ](http://www.google.com/products/seller?cmi=62981090506440704&zmi=precisionroller.com&hl=en)  
 [ **100% Guaranteed!** Up to 1 Year! ](http://www.precisionroller.com/30-day-guarantee.php)  
 [ **Free Shipping!** On Orders Over $75 ](http://www.precisionroller.com/faq-shipping.php)  
-[ **Dealer Pricing** 2012 Dealer Catalog ](http://www.precisionroller.com/qualified-customer-pricing.php)  
+[ **Dealer Pricing** 2013 Dealer Catalog ](http://www.precisionroller.com/qualified-customer-pricing.php)  
 [ **Se Habla Español** Presione Aqui... ](http://www.precisionroller.com/se-habla-espanol.php)  
 [ ](https://web.archive.org/security-trust.php)  
 [ **C.O.D. Available** Click Here For Details ](http://www.precisionroller.com/faq-cod-payment.php)  
@@ -135,7 +132,7 @@ McAfee Secure certification is achieved by passing rigorous daily network securi
   * **How is the BBBOnLine accredited businesses important to me?**  
 
 
-[](http://www.bbbonline.org/cks.asp?id=1051215154313)
+[](http://www.bbb.org/phoenix/business-reviews/office-supplies/precision-roller-in-phoenix-az-2003146/)
 
 | When you are ready to make a purchase, you want to know that the company you will be doing business with is reputable. The Better Business Bureau has been helping consumers find reputable companies since 1912.
 
@@ -151,7 +148,7 @@ BBB accredited businesses are subject to the same scrutiny we give all businesse
 >  Complaint History: A summary of the business' complaint history and other experience in the marketplace; and/or  
 >  Pertinent Information: Information developed through special BBB investigations and relevant government actions.
 
-The Better Business Bureau name is almost universally recognized by online users. _Just under 90% of online shoppers say they would feel more confident buying from a site displaying the BBBOnLine accredited businesses seal, than from one that does not._ The BBBOnLine accredited businesses seal is backed by the credibility of the Better Business Bureau system, which brings over 90 years of trust to the newest marketplace — the Internet.  
+The Better Business Bureau name is almost universally recognized by online users. _Just under 90% of online shoppers say they would feel more confident buying from a site displaying the BBBOnLine accredited businesses seal, than from one that does not._ The BBBOnLine accredited businesses seal is backed by the credibility of the Better Business Bureau system, which brings over 90 years of trust to the newest marketplace � the Internet.  
 ---|---  
   
   * **What do I gain from a Safe Shipping network site?**  
