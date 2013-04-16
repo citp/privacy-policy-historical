@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myxxxpass.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216161317id_/http%3A//myxxxpass.com/MCE/default/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myxxxpass.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416161026id_/http%3A//myxxxpass.com/MCE/default/0/privacy) for the most accurate reproduction.*
 
 # MyXXXPass.com :: MyXXXPass.com Privacy Policy
 
