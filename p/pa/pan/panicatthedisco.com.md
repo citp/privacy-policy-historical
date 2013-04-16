@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panicatthedisco.com privacy policy that was archived on 2012-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120630123846id_/http%3A//www.fueledbyramen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panicatthedisco.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416213023id_/http%3A//www.panicatthedisco.com/privacy-policy) for the most accurate reproduction.*
 
 # Fueled By Ramen - Privacy policy
 
