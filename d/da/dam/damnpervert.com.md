@@ -1,44 +1,55 @@
-> *The following text is extracted and transformed from the damnpervert.com privacy policy that was archived on 2012-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120120111721id_/http%3A//damnpervert.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damnpervert.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416053231id_/http%3A//www.dplivecams.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Privacy Policy - DamnPervert.com
+# DPlivecams - Privacy
 
-This document details important information regarding the use and disclosure of User Data collected on DamnPervert.com. The security of your Data is very important to DamnPervert.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+[Home](http://www.dplivecams.com/) / Privacy Policy
 
-**DATA COLLECTED**
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
-  * Personal Information: 
-    * Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
-    * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
-  * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-  * Cookies: When you visit DamnPervert.com, we may send one or more cookies to your computer that uniquely identifies your browser session. DamnPervert.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-  * Log File Information: When you visit DamnPervert.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-  * Emails: If you contact us, we may keep a record of that correspondence.
+DPlivecams respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use DPlivecams, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the DPlivecams website.
 
+DPlivecams will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
 
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-**USES**
+When you do provide us with personal identifying information, such information will be gathered solely by DPlivecams, and is for use solely by DPlivecams and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
-  * Your Personally identifiable information submitted to DamnPervert.com is used to provide to the user the website's features and special personalized features.
-  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the DamnPervert.com private mail, etc. Other Users can contact you through, private messages.
-  * Any videos that you submit to DamnPervert.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
-  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
-  * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the DamnPervert.com user-experience.
+DPlivecams may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
+DPlivecams may request personal identifying information on specific pages that allow users to contact DPlivecams. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
 
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of DPlivecams or those of DPlivecams customers or chat hosts, (4) under exigent circumstances to protect the physical safety of DPlivecams, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
 
-**DISCLOSURE OF INFORMATION**
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
 
-  * If under duty to do so DamnPervert.com may release data to comply with any legal obligation, or in order to enforce our Terms and Condtions and other agreements; or to protect the rights, property or safety of DamnPervert.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms And Conditions. It is DamnPervert.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
-  * Should you deliberately upload any illegal material DamnPervert.com shall forward all available information to all relevant authorities and this without notice. 
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+We may use cookies to:
+
+  * Deliver content specific to your interests.
+  * Save your password so you don’t have to re-enter it each time you visit our sites.
 
 
 
-**SECURITY**
+We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties.
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. Unfortunately, the transmission of information via the Internet is not completely secure. DamnPervert.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to DamnPervert.com and you do so at your own risk.
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
 
-**YOUR RIGHTS**
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at [support@damnpervert.com](mailto:support@damnpervert.com).
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. DPlivecams does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
+
+Members areas of DPlivecams may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@dplivecams.com](https://web.archive.org/contactsupport.php?).
+
+DPlivecams does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from DPlivecams, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?).
+
+DPlivecams also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if DPlivecams becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, DPlivecams reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the DPlivecams program, termination of DPlivecams services, and forfeiture of all commissions.
+
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@dplivecams.com](https://web.archive.org/contactsupport.php?) and provide us with your name, your DPlivecams login name, and any information you feel is important.
+
+The address for correspondence by post is
+
+Streamates Limited  
+c/o Ariel Secretaries Limited  
+196, Arch Makarios Ave, Ariel Corner,  
+1st Flr, Office 102  
+P.O. Box 57528  
+3316 Limassol - Cyprus
