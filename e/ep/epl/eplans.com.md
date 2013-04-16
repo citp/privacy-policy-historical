@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eplans.com privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227024207id_/http%3A//www.hanleywood.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplans.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416144858id_/http%3A//www.hanleywood.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Hanley Wood : Privacy Policy
 
@@ -6,7 +6,7 @@ This Privacy Policy describes, in general, the practices related to the online c
 
 Please be sure to read this Privacy Policy before using any Site or submitting information through a Site. This Privacy Policy is current as of  **May 19, 2010**  but may change from time to time, so please check this area periodically for updates. If we make any substantive changes to this Policy, we will announce it on our Sites and, if you have provided us with contact information, we will also send you a notice to the e-mail or physical address we have on file for you. Once the changes have been made, your continued use of any of the Sites will constitute your acceptance of the revised Policy. If you have questions or concerns regarding our Privacy Policy, we may be reached via e-mail at [privacy@HanleyWood.com](http://hanleywood.com/?page=contact&contactid=3), via fax at 202.785.1974, or by writing to us at Hanley Wood **;** ATTN: Customer Service; One Thomas Circle NW, Suite 600; Washington, DC 20005.
 
-This Privacy Policy refers to the [Hanley Wood Terms and Conditions of Use](https://web.archive.org/web/20121227024207id_/http%3A//www.hanleywood.com/default.aspx?page=terms).
+This Privacy Policy refers to the [Hanley Wood Terms and Conditions of Use](https://web.archive.org/web/20130416144858id_/http%3A//www.hanleywood.com/default.aspx?page=terms).
 
 ##### What information does Hanley Wood collect and how is it used?
 
