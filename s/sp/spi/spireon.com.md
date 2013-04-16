@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spireon.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215015756id_/http%3A//www.spireon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spireon.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416022921id_/http%3A//www.spireon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Spireon
+# Privacy Policy | Spireon
 
 Spireon is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Spireon, Inc. web site and governs data collection and usage. By using the Spireon, Inc. web site, you consent to the data practices described in this statement.
 
@@ -9,12 +9,12 @@ Spireon, Inc. collects personally identifiable information, such as your e-mail 
 
 There is also information about your computer hardware and software that is automatically collected by Spireon, Inc. This information can include: your IP address, browser type, domain names, access times and referring web site addresses. This information is used by Spireon, Inc. for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Spireon, Inc. web site.
 
-Spireon, Inc. encourages you to review the privacy statements of web sites you choose to link to from Spireon, Inc. so that you can understand how those web sites collect, use and share your information. Spireon, Inc. is not responsible for the privacy statements or other content on web sites outside of the Spireon, Inc. and Spireon, Inc. family of web sites. 
+Spireon, Inc. encourages you to review the privacy statements of web sites you choose to link to from Spireon, Inc. so that you can understand how those web sites collect, use and share your information. Spireon, Inc. is not responsible for the privacy statements or other content on web sites outside of the Spireon, Inc. and Spireon, Inc. family of web sites.
 
 **USE OF YOUR PERSONAL INFORMATION**  
 Spireon, Inc. collects and uses your personal information to operate the Spireon, Inc. web site and deliver the services you have requested. Spireon, Inc. also uses your personally identifiable information to inform you of other products or services available from Spireon, Inc. and its affiliates. Spireon, Inc. may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Spireon, Inc. does not sell, rent or lease its customer lists to third parties. Spireon, Inc. may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Spireon, Inc. may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Spireon, Inc., and they are required to maintain the confidentiality of your information. 
+Spireon, Inc. does not sell, rent or lease its customer lists to third parties. Spireon, Inc. may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Spireon, Inc. may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Spireon, Inc., and they are required to maintain the confidentiality of your information.
 
 Spireon, Inc. does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
