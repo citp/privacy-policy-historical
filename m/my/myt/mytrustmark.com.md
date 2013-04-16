@@ -1,44 +1,10 @@
-> *The following text is extracted and transformed from the mytrustmark.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213052812id_/https%3A//www.trustmark.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytrustmark.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416050636id_/https%3A//www.trustmark.com/privacy.html) for the most accurate reproduction.*
 
 # Trustmark Banking and Financial Solutions
 
-|    
-|  |  |  |    |   
----|---|---|---|---  
-   
-|   
-|  |  |   
----|---  
+## [To print this privacy policy, please download the full privacy policy in Adobe Acrobat format (PDF) by clicking here](https://web.archive.org/web/20130416050636id_/https%3A//www.trustmark.com/Privacy-Policy-2010-2011.pdf).
+
 | 
-
-  
-Let our online [Customer Service](http://trustmark.custhelp.com/cgi-bin/trustmark.cfg/php/enduser/std_alp.php) help you get your questions answered. Browse questions other customers have asked or submit one of your own. 
-
-  
-Trustmark is continually involved in the communities of our customers. Visit the [About Us](https://web.archive.org/web/20110213052812id_/https%3A//www.trustmark.com/about/index.html) section to see what new things we're doing. 
-
-Set the site's default font size:  
-Small | Medium | Large
-
-|  |    
-  
-**Trustmark National Bank**  
-Corporate Offices  
-P.O. Box 291  
-248 East Capitol Street  
-Jackson, Mississippi 39201
-
-Main switchboard, 1-800-844-2000  
-Offices in Florida, Mississippi, Tennessee & Texas 
-
-#### 
-
-|  |   
----  
-  
-### [To print this privacy policy, please download the full privacy policy in Adobe Acrobat format (PDF) by clicking here](https://web.archive.org/web/20110213052812id_/https%3A//www.trustmark.com/Privacy-Policy-2010-2011.pdf).
-
-|  | 
 
 ### **WHAT DOES TRUSTMARK DO WITH YOUR PERSONAL INFORMATION?**  
   
@@ -259,6 +225,4 @@ A formal agreement between nonaffiliated financial companies that together marke
 
   * our joint marketing partners can include institutions such as insurance companies
 
-  
-   
-|  
+
