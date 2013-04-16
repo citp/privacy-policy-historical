@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarpowerworldonline.com privacy policy that was archived on 2012-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121214154303id_/http%3A//www.solarpowerworldonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarpowerworldonline.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416155410id_/http%3A//www.solarpowerworldonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
