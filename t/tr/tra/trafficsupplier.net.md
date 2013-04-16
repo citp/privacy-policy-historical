@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficsupplier.net privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123083818id_/http%3A//www.trafficsupplier.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficsupplier.net privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417005341id_/http%3A//www.trafficsupplier.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TrafficSupplier.net - Buy Traffic | Buy Web Site Traffic | Targeted Traffic
 
