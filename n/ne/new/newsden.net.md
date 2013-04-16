@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsden.net privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030055501id_/http%3A//www.newsden.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsden.net privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416185407id_/http%3A//www.newsden.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
