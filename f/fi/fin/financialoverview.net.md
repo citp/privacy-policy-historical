@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialoverview.net privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215214121id_/http%3A//www.financialoverview.net%3Fpage_id%3D1038) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialoverview.net privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417234359id_/http%3A//www.financialoverview.net%3Fpage_id%3D1038) for the most accurate reproduction.*
 
 # Privacy Policy « Financialoverview.net
 
